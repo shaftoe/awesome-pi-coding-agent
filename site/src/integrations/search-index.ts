@@ -36,10 +36,21 @@ export function searchIndex(): AstroIntegration {
 					metadata: Record<string, unknown>;
 				}
 
+				function decodeHtmlEntities(s: string): string {
+					return s
+						.replace(/&#39;/g, "'")
+						.replace(/&#x27;/g, "'")
+						.replace(/&amp;/g, "&")
+						.replace(/&lt;/g, "<")
+						.replace(/&gt;/g, ">")
+						.replace(/&quot;/g, '"');
+				}
+
 				function displayName(e: Entry): string {
 					if (e.id.startsWith("YT_")) {
 						const m = e.metadata;
-						return (m.title as string) || e.id.replace("YT_", "");
+						const raw = (m.title as string) || e.id.replace("YT_", "");
+						return decodeHtmlEntities(raw);
 					}
 					if (e.url.includes("github.com/")) {
 						const match = e.url.match(/github\.com\/[^/]+\/([^/]+)/);

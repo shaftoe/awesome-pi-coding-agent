@@ -6,6 +6,17 @@
 import { loadEntries, saveEntry } from "../lib/store.ts";
 import type { CategorizedEntry } from "../lib/types.ts";
 
+/** Decode common HTML entities (&#39; &amp; &quot; etc.) to their plain-text equivalents. */
+function decodeHtmlEntities(s: string): string {
+	return s
+		.replace(/&#39;/g, "'")
+		.replace(/&#x27;/g, "'")
+		.replace(/&amp;/g, "&")
+		.replace(/&lt;/g, "<")
+		.replace(/&gt;/g, ">")
+		.replace(/&quot;/g, '"');
+}
+
 // biome-ignore lint/suspicious/noConsole: CLI output
 const log = console.log;
 
@@ -32,11 +43,12 @@ async function enrichVideo(entry: CategorizedEntry): Promise<boolean> {
 		const data = (await res.json()) as NoembedResponse;
 		if (data.error || !data.title) return false;
 
-		entry.name = data.title;
-		entry.description = data.title;
+		const decodedTitle = decodeHtmlEntities(data.title);
+		entry.name = decodedTitle;
+		entry.description = decodedTitle;
 		entry.metadata = {
 			...meta,
-			title: data.title,
+			title: decodedTitle,
 			channel: data.author_name ?? "",
 			channel_url: data.author_url ?? "",
 			thumbnail: data.thumbnail_url ?? "",

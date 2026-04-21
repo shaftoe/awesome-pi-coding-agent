@@ -145,6 +145,17 @@ function isLikelyRelevant(entry: CategorizedEntry): boolean {
 
 // ─── Display name extraction ──────────────────────────────────────────────────
 
+/** Decode common HTML entities (&#39; &amp; &quot; etc.) to their plain-text equivalents. */
+function decodeHtmlEntities(s: string): string {
+	return s
+		.replace(/&#39;/g, "'")
+		.replace(/&#x27;/g, "'")
+		.replace(/&amp;/g, "&")
+		.replace(/&lt;/g, "<")
+		.replace(/&gt;/g, ">")
+		.replace(/&quot;/g, '"');
+}
+
 /**
  * Extract a clean display name from an entry.
  */
@@ -153,7 +164,7 @@ function displayName(entry: CategorizedEntry): string {
 	if (entry.id.startsWith("YT_")) {
 		const meta = entry.metadata as Record<string, unknown>;
 		const title = meta["title"] as string | undefined;
-		if (title) return title;
+		if (title) return decodeHtmlEntities(title);
 		return `Video: ${entry.id.replace("YT_", "")}`;
 	}
 
@@ -171,7 +182,8 @@ function displayName(entry: CategorizedEntry): string {
 
 /** Get the entry description. */
 function displayDescription(entry: CategorizedEntry): string {
-	return entry.description || entry.name || entry.id;
+	const raw = entry.description || entry.name || entry.id;
+	return decodeHtmlEntities(raw);
 }
 
 // ─── Formatting helpers ───────────────────────────────────────────────────────
