@@ -185,10 +185,22 @@ export function getStats(entries: CategorizedEntry[]) {
 
 // ─── Display helpers ───────────────────────────────────────────────────────────
 
+/** Decode common HTML entities (&#39; &amp; &quot; etc.) to their plain-text equivalents. */
+export function decodeHtmlEntities(s: string): string {
+	return s
+		.replace(/&#39;/g, "'")
+		.replace(/&#x27;/g, "'")
+		.replace(/&amp;/g, "&")
+		.replace(/&lt;/g, "<")
+		.replace(/&gt;/g, ">")
+		.replace(/&quot;/g, '"');
+}
+
 export function displayName(e: CategorizedEntry): string {
 	if (e.id.startsWith("YT_")) {
 		const m = e.metadata as Record<string, unknown>;
-		return (m.title as string) || e.id.replace("YT_", "");
+		const raw = (m.title as string) || e.id.replace("YT_", "");
+		return decodeHtmlEntities(raw);
 	}
 	if (e.url.includes("github.com/")) {
 		const match = e.url.match(/github\.com\/[^/]+\/([^/]+)/);

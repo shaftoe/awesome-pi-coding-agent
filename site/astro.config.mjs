@@ -7,7 +7,7 @@ export default defineConfig({
 	integrations: [
 		searchIndex(),
 		starlight({
-			title: "Awesome Pi",
+			title: "Awesome Pi Coding Agent",
 			logo: {
 				src: "./src/assets/logo.svg",
 			},
