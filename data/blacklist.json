@@ -54,5 +54,9 @@
 	{
 		"url": "https://www.npmjs.com/package/@types/global-agent",
 		"reason": "unrelated HTTP proxy types, npm matches 'agent' token"
+	},
+	{
+		"url": "https://www.npmjs.com/package/socks",
+		"reason": "no idea why it's not filtered automatically"
 	}
 ]

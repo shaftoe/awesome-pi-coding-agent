@@ -79,3 +79,4 @@ Environment variables (see `.env.example`): `GITHUB_TOKEN` for GitHub API, `YOUT
 # Guidelines for coding agents
 
 - **ALWAYS** run `bun run check` before considering a change complete and ready
+- **ALWAYS** ensure we're using up to date latest and greates 3rd-party components

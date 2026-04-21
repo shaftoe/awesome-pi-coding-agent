@@ -26,10 +26,12 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 .eslintcache
 .cache
 *.tsbuildinfo
-bun.lock
 
 # generated site
-site/
+site/dist
+site/.astro
+site/starlight
+site/public/search-index.json
 
 # IntelliJ based IDEs
 .idea

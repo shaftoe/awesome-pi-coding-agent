@@ -29,5 +29,6 @@
     "exactOptionalPropertyTypes": true,
     "noImplicitReturns": true,
     "forceConsistentCasingInFileNames": true
-  }
+  },
+  "exclude": ["site"]
 }

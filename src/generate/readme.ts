@@ -237,11 +237,13 @@ function generateHeader(
 	).length;
 
 	const lines: string[] = [
-		`[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)`,
-		``,
 		`# Awesome Pi Coding Agent`,
 		``,
-		`A curated, auto-discovered directory of resources for the [Pi Coding Agent](https://pi.dev/) ecosystem. Official Pi docs available at <https://github.com/badlogic/pi-mono>.`,
+		`[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)`,
+		``,
+		`A curated, auto-discovered directory of resources for the [Pi Coding Agent](https://pi.dev/) ecosystem.`,
+		``,
+		`Content available as Markdown here and as website (with search feature) live at <https://awesome-pi.site>.`,
 		``,
 		`## Stats`,
 		``,

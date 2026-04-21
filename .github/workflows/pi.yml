@@ -20,4 +20,4 @@ jobs:
       allowed_actor: shaftoe
     secrets:
       gh_token: ${{ secrets.GITHUB_TOKEN }}
-      token: ${{ secrets.API_KEY }}
+      token: ${{ secrets.LLM_API_KEY }}

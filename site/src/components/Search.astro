@@ -1,0 +1,465 @@
+---
+/**
+ * Custom search component replacing Starlight's default Pagefind search.
+ * Uses a pre-built search-index.json for client-side search across all entries.
+ * Results link directly to external URLs (npm, GitHub, YouTube).
+ */
+---
+
+<site-search>
+	<div class="nav-actions sl-flex">
+		<button
+			data-open-modal
+			disabled
+			aria-label="Search"
+			aria-keyshortcuts="Control+K"
+		>
+			<svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+				<path d="M21.71 20.29 18 16.61A9 9 0 1 0 16.61 18l3.68 3.68a.999.999 0 0 0 1.42 0 1 1 0 0 0 0-1.39ZM11 18a7 7 0 1 1 0-14 7 7 0 0 1 0 14Z"/>
+			</svg>
+			<span class="sl-hidden md:sl-block" aria-hidden="true">Search</span>
+			<kbd class="sl-hidden md:sl-flex" style="display: none;">
+				<kbd>Ctrl</kbd><kbd>K</kbd>
+			</kbd>
+		</button>
+		<a href="https://github.com/shaftoe/awesome-pi-coding-agent" target="_blank" rel="noopener noreferrer" class="github-link sl-flex" aria-label="GitHub">
+			<svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+				<path d="M12 .3a12 12 0 0 0-3.8 23.38c.6.12.83-.26.83-.57L9 21.07c-3.34.72-4.04-1.61-4.04-1.61-.55-1.39-1.34-1.76-1.34-1.76-1.08-.74.09-.73.09-.73 1.2.09 1.83 1.24 1.83 1.24 1.08 1.83 2.81 1.3 3.5 1 .1-.78.42-1.31.76-1.61-2.67-.3-5.47-1.33-5.47-5.93 0-1.31.47-2.38 1.24-3.22-.14-.3-.54-1.52.1-3.18 0 0 1-.32 3.3 1.23a11.5 11.5 0 0 1 6 0c2.28-1.55 3.29-1.23 3.29-1.23.64 1.66.24 2.88.12 3.18a4.65 4.65 0 0 1 1.23 3.22c0 4.61-2.8 5.63-5.48 5.92.42.36.81 1.1.81 2.22l-.01 3.29c0 .31.2.69.82.57A12 12 0 0 0 12 .3Z"/>
+			</svg>
+		</a>
+	</div>
+
+	<dialog style="padding:0" aria-label="Search">
+		<div class="dialog-frame sl-flex">
+			<button data-close-modal class="sl-flex md:sl-hidden">Cancel</button>
+			<div class="search-container">
+				<input type="search" placeholder="Search extensions, skills, tools..." />
+				<div class="results-list"></div>
+			</div>
+		</div>
+	</dialog>
+</site-search>
+
+<script is:inline>
+	(() => {
+		const openBtn = document.querySelector('button[data-open-modal]');
+		const shortcut = openBtn?.querySelector('kbd');
+		if (!openBtn || !(shortcut instanceof HTMLElement)) return;
+		const platformKey = shortcut.querySelector('kbd');
+		if (platformKey && /(Mac|iPhone|iPod|iPad)/i.test(navigator.platform)) {
+			platformKey.textContent = '⌘';
+			openBtn.setAttribute('aria-keyshortcuts', 'Meta+K');
+		}
+		shortcut.style.display = '';
+	})();
+</script>
+
+<script>
+	const CATEGORY_ICONS: Record<string, string> = {
+		extension: '🔌', skill: '🧠', tool: '🛠️', theme: '🎨',
+		provider: '🔗', template: '📋', video: '🎬', example: '📝', documentation: '📚',
+	};
+
+	type SearchEntry = { n: string; d: string; c: string; u: string; h: string; s: number };
+	let index: SearchEntry[] | null = null;
+
+	async function loadIndex(): Promise<SearchEntry[]> {
+		if (index) return index;
+		const res = await fetch('/search-index.json');
+		index = await res.json();
+		return index!;
+	}
+
+	function search(entries: SearchEntry[], query: string): SearchEntry[] {
+		const q = query.toLowerCase().trim();
+		if (!q) return [];
+		const terms = q.split(/\s+/).filter(Boolean);
+		return entries
+			.filter((e) => {
+				const text = `${e.n} ${e.d} ${e.c}`.toLowerCase();
+				return terms.every((t) => text.includes(t));
+			})
+			.slice(0, 50);
+	}
+
+	function renderResults(container: HTMLElement, results: SearchEntry[], query: string) {
+		if (!query.trim()) {
+			container.innerHTML = '<div class="no-results">Type to search across all resources…</div>';
+			return;
+		}
+		if (results.length === 0) {
+			container.innerHTML = '<div class="no-results">No results found.</div>';
+			return;
+		}
+		container.innerHTML = results
+			.map((r) => {
+				const icon = CATEGORY_ICONS[r.c] || '📄';
+				const stars = r.s > 0 ? `<span class="result-stars">⭐ ${r.s >= 1000 ? (r.s / 1000).toFixed(1) + 'k' : r.s}</span>` : '';
+				const healthColors: Record<string, string> = {
+					active: 'var(--sl-color-green)',
+					maintained: 'var(--sl-color-orange)',
+					stale: 'var(--sl-color-orange)',
+					dead: 'var(--sl-color-red)',
+				};
+				const dotColor = healthColors[r.h] || 'var(--sl-color-gray-4)';
+				return `<a href="${r.u}" target="_blank" rel="noopener noreferrer" class="result-item">
+					<span class="result-icon">${icon}</span>
+					<div class="result-body">
+						<div class="result-title">${highlight(r.n, query)}</div>
+						<div class="result-desc">${highlight(truncate(r.d, 120), query)}</div>
+						<div class="result-meta">
+							<span class="result-category">${r.c}</span>
+							${stars}
+							<span class="result-health"><span class="health-dot" style="background:${dotColor}"></span>${r.h}</span>
+							<span class="result-external">↗</span>
+						</div>
+					</div>
+				</a>`;
+			})
+			.join('');
+	}
+
+	function highlight(text: string, query: string): string {
+		if (!query.trim()) return escapeHtml(text);
+		const terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
+		let result = escapeHtml(text);
+		for (const term of terms) {
+			const regex = new RegExp(`(${escapeRegex(term)})`, 'gi');
+			result = result.replace(regex, '<mark>$1</mark>');
+		}
+		return result;
+	}
+
+	function escapeHtml(s: string): string {
+		return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+	}
+
+	function escapeRegex(s: string): string {
+		return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+	}
+
+	function truncate(s: string, len: number): string {
+		return s.length > len ? s.slice(0, len) + '…' : s;
+	}
+
+	class SiteSearchCustom extends HTMLElement {
+		constructor() {
+			super();
+			const openBtn = this.querySelector<HTMLButtonElement>('button[data-open-modal]')!;
+			const closeBtn = this.querySelector<HTMLButtonElement>('button[data-close-modal]')!;
+			const dialog = this.querySelector('dialog')!;
+			const dialogFrame = this.querySelector('.dialog-frame')!;
+			const input = this.querySelector<HTMLInputElement>('input[type="search"]')!;
+			const resultsList = this.querySelector('.results-list')!;
+
+			let loaded = false;
+
+			const onClick = (event: MouseEvent) => {
+				const isLink = 'href' in (event.target || {});
+				if (
+					isLink ||
+					(document.body.contains(event.target as Node) && !dialogFrame.contains(event.target as Node))
+				) {
+					closeModal();
+				}
+			};
+
+			const openModal = async (event?: MouseEvent) => {
+				dialog.showModal();
+				document.body.toggleAttribute('data-search-modal-open', true);
+				input.focus();
+				event?.stopPropagation();
+				window.addEventListener('click', onClick);
+				if (!loaded) {
+					await loadIndex();
+					loaded = true;
+					if (input.value.trim()) onInput();
+				}
+			};
+
+			const closeModal = () => dialog.close();
+
+			openBtn.addEventListener('click', openModal);
+			openBtn.disabled = false;
+			closeBtn.addEventListener('click', closeModal);
+
+			dialog.addEventListener('close', () => {
+				document.body.toggleAttribute('data-search-modal-open', false);
+				window.removeEventListener('click', onClick);
+			});
+
+			window.addEventListener('keydown', (e) => {
+				if ((e.metaKey === true || e.ctrlKey === true) && e.key === 'k') {
+					dialog.open ? closeModal() : openModal();
+					e.preventDefault();
+				}
+			});
+
+			let debounceTimer: ReturnType<typeof setTimeout>;
+			const onInput = () => {
+				clearTimeout(debounceTimer);
+				debounceTimer = setTimeout(() => {
+					if (!index) return;
+					const q = input.value;
+					const results = search(index, q);
+					renderResults(resultsList, results, q);
+				}, 150);
+			};
+
+			input.addEventListener('input', onInput);
+		}
+	}
+	customElements.define('site-search', SiteSearchCustom);
+</script>
+
+<style>
+	@layer starlight.core {
+		site-search {
+			display: contents;
+		}
+
+		.nav-actions {
+			display: flex;
+			align-items: center;
+			gap: 0.5rem;
+		}
+
+		.github-link {
+			color: var(--sl-color-gray-2);
+			padding: 0.25rem;
+		}
+		.github-link:hover {
+			color: var(--sl-color-white);
+		}
+
+		@media (min-width: 50rem) {
+			a.github-link.github-link {
+				display: none;
+			}
+		}
+
+		button[data-open-modal] {
+			display: flex;
+			align-items: center;
+			gap: 0.5rem;
+			border: 0;
+			background-color: transparent;
+			color: var(--sl-color-gray-1);
+			cursor: pointer;
+			height: 2.5rem;
+			font-size: var(--sl-text-xl);
+		}
+
+		@media (min-width: 50rem) {
+			button[data-open-modal] {
+				border: 1px solid var(--sl-color-gray-5);
+				border-radius: 0.5rem;
+				padding-inline-start: 0.75rem;
+				padding-inline-end: 0.5rem;
+				background-color: var(--sl-color-black);
+				color: var(--sl-color-gray-2);
+				font-size: var(--sl-text-sm);
+				width: 100%;
+				max-width: 22rem;
+			}
+			button[data-open-modal]:hover {
+				border-color: var(--sl-color-gray-2);
+				color: var(--sl-color-white);
+			}
+			button[data-open-modal] > :last-child {
+				margin-inline-start: auto;
+			}
+		}
+
+		button > kbd {
+			border-radius: 0.25rem;
+			font-size: var(--sl-text-2xs);
+			gap: 0.25em;
+			padding-inline: 0.375rem;
+			background-color: var(--sl-color-gray-6);
+		}
+
+		kbd {
+			font-family: var(--__sl-font);
+		}
+
+		dialog {
+			margin: 0;
+			background-color: var(--sl-color-gray-6);
+			border: 1px solid var(--sl-color-gray-5);
+			width: 100%;
+			max-width: 100%;
+			height: 100%;
+			max-height: 100%;
+			box-shadow: var(--sl-shadow-lg);
+		}
+		dialog[open] {
+			display: flex;
+		}
+
+		dialog::backdrop {
+			background-color: var(--sl-color-backdrop-overlay);
+			-webkit-backdrop-filter: blur(0.25rem);
+			backdrop-filter: blur(0.25rem);
+		}
+
+		.dialog-frame {
+			position: relative;
+			overflow: auto;
+			flex-direction: column;
+			flex-grow: 1;
+			gap: 0.75rem;
+			padding: 1rem;
+		}
+
+		button[data-close-modal] {
+			position: absolute;
+			z-index: 1;
+			align-items: center;
+			align-self: flex-end;
+			height: 3rem;
+			padding: 0.25rem;
+			border: 0;
+			background: transparent;
+			cursor: pointer;
+			color: var(--sl-color-text-accent);
+		}
+
+		.search-container {
+			display: flex;
+			flex-direction: column;
+			gap: 0.75rem;
+			width: 100%;
+		}
+
+		input[type="search"] {
+			width: 100%;
+			padding: 0.75rem 1rem;
+			border: 1px solid var(--sl-color-gray-5);
+			border-radius: 0.5rem;
+			background: var(--sl-color-black);
+			color: var(--sl-color-white);
+			font-size: var(--sl-text-lg);
+			font-family: var(--__sl-font);
+			outline: none;
+		}
+
+		input[type="search"]:focus {
+			border-color: var(--sl-color-accent);
+			box-shadow: 0 0 0 2px var(--sl-color-accent-low);
+		}
+
+		input[type="search"]::placeholder {
+			color: var(--sl-color-gray-4);
+		}
+
+		.results-list {
+			display: flex;
+			flex-direction: column;
+			gap: 0.25rem;
+		}
+
+		.no-results {
+			text-align: center;
+			color: var(--sl-color-gray-4);
+			padding: 2rem 0;
+			font-size: var(--sl-text-sm);
+		}
+
+		.result-item {
+			display: flex;
+			gap: 0.75rem;
+			padding: 0.75rem;
+			border-radius: 0.375rem;
+			text-decoration: none;
+			color: inherit;
+			transition: background-color 0.15s;
+		}
+
+		.result-item:hover {
+			background-color: var(--sl-color-gray-5);
+		}
+
+		.result-icon {
+			font-size: 1.25rem;
+			flex-shrink: 0;
+			margin-top: 0.125rem;
+		}
+
+		.result-body {
+			flex: 1;
+			min-width: 0;
+		}
+
+		.result-title {
+			font-weight: 600;
+			font-size: var(--sl-text-sm);
+			color: var(--sl-color-white);
+		}
+
+		.result-desc {
+			font-size: var(--sl-text-xs);
+			color: var(--sl-color-gray-3);
+			margin-top: 0.25rem;
+			overflow: hidden;
+			text-overflow: ellipsis;
+			white-space: nowrap;
+		}
+
+		.result-meta {
+			display: flex;
+			align-items: center;
+			gap: 0.5rem;
+			margin-top: 0.375rem;
+			font-size: var(--sl-text-2xs);
+			color: var(--sl-color-gray-4);
+		}
+
+		.result-category {
+			text-transform: capitalize;
+		}
+
+		.result-stars {
+			color: var(--sl-color-gray-3);
+		}
+
+		.result-health {
+			display: inline-flex;
+			align-items: center;
+			gap: 0.25rem;
+		}
+
+		.health-dot {
+			width: 0.375rem;
+			height: 0.375rem;
+			border-radius: 50%;
+		}
+
+		.result-external {
+			margin-left: auto;
+			color: var(--sl-color-gray-4);
+		}
+
+		mark {
+			color: var(--sl-color-text-accent);
+			background: transparent;
+			font-weight: 600;
+		}
+
+		@media (min-width: 50rem) {
+			dialog {
+				margin: 4rem auto auto;
+				border-radius: 0.5rem;
+				width: 90%;
+				max-width: 40rem;
+				height: max-content;
+				min-height: 15rem;
+				max-height: calc(100% - 8rem);
+			}
+
+			.dialog-frame {
+				padding: 1.5rem;
+			}
+		}
+	}
+</style>

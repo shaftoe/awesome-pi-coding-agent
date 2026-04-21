@@ -1,0 +1,70 @@
+---
+// biome-ignore lint/correctness/noUnusedImports: used in Astro template
+import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
+// biome-ignore lint/correctness/noUnusedImports: used in Astro template
+import type { CategorizedEntry, Category } from "../lib/data";
+// biome-ignore lint/correctness/noUnusedImports: used in Astro template
+import { CATEGORY_META, displayName, formatStars, getCategories, timeAgo } from "../lib/data";
+
+export function getStaticPaths() {
+	const categories = getCategories();
+	return categories.map((cat) => ({
+		params: { slug: cat.href.replace("/", "") },
+		props: { category: cat },
+	}));
+}
+
+const { category } = Astro.props;
+// biome-ignore lint/correctness/noUnusedVariables: used in Astro template
+const meta = CATEGORY_META[category.slug as Category];
+
+// Pre-compute card data to avoid complex expressions in template
+// biome-ignore lint/correctness/noUnusedVariables: used in Astro template
+const cards = category.entries.map((entry) => {
+	const m = entry.metadata as Record<string, unknown>;
+	return {
+		name: displayName(entry),
+		desc: entry.description || entry.name || entry.id,
+		url: entry.url,
+		stars: (m.stars as number) ?? 0,
+		lastCommit: m.last_commit as string | null,
+		language: (m.language as string) ?? null,
+		healthLevel: entry.health.level,
+	};
+});
+---
+
+<StarlightPage frontmatter={{ title: meta.title, toc: false }} hasSidebar={true}>
+  <a href="/" class="back-link">← All categories</a>
+
+  <div class="category-header">
+    <span class="icon">{meta.icon}</span>
+    <h1>{meta.title}</h1>
+    <span class="count">{category.entries.length} entries</span>
+  </div>
+  <p class="category-desc">{meta.description}</p>
+
+  <div class="entry-grid">
+    {cards.map((card) => (
+      <a href={card.url} target="_blank" rel="noopener noreferrer" class="entry-card">
+        <div style="display:flex;align-items:center;gap:0.5rem">
+          <h3>{card.name}</h3>
+          <span class={`health-badge health-${card.healthLevel}`}>
+            <span class="dot" />
+            {card.healthLevel}
+          </span>
+        </div>
+        <p class="desc">{card.desc}</p>
+        <div class="meta">
+          {card.stars > 0 && <span>⭐ {formatStars(card.stars)}</span>}
+          {card.language && (
+            <span>
+              <span class="lang-dot" /> {card.language}
+            </span>
+          )}
+          {card.lastCommit && <span class="updated">{timeAgo(card.lastCommit)}</span>}
+        </div>
+      </a>
+    ))}
+  </div>
+</StarlightPage>

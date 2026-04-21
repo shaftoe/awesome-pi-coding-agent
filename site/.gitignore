@@ -1,0 +1,4 @@
+node_modules/
+dist/
+.starlight/
+public/search-index.json

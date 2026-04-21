@@ -1,0 +1,31 @@
+---
+import { getCategories, getStats, loadAllEntries } from "../lib/data";
+
+const entries = loadAllEntries();
+// biome-ignore lint/correctness/noUnusedVariables: used in Astro template
+const stats = getStats(entries);
+// biome-ignore lint/correctness/noUnusedVariables: used in Astro template
+const categories = getCategories();
+---
+
+
+<div class="stats-bar">
+  <strong>{stats.total.toLocaleString()} resources</strong>
+  <span class="stat"><span class="dot" style={`background:var(--sl-color-green)`}></span>{stats.active} active</span>
+  <span class="stat"><span class="dot" style={`background:var(--sl-color-orange)`}></span>{stats.maintained} maintained</span>
+  <span class="stat"><span class="dot" style={`background:var(--sl-color-orange)`}></span>{stats.stale} stale</span>
+  <span class="stat"><span class="dot" style={`background:var(--sl-color-red)`}></span>{stats.dead} dead</span>
+</div>
+
+<div class="category-grid">
+  {categories.map((cat) => (
+    <a href={cat.href} class="category-card">
+      <div class="card-header">
+        <span style="font-size:1.5rem">{cat.icon}</span>
+        <h2>{cat.title}</h2>
+        <span class="count">{cat.entries.length}</span>
+      </div>
+      <p class="card-desc">{cat.description}</p>
+    </a>
+  ))}
+</div>
