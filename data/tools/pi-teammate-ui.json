@@ -1,0 +1,20 @@
+{
+	"id": "pi-teammate-ui",
+	"name": "pi-teammate-ui",
+	"url": "https://www.npmjs.com/package/pi-teammate-ui",
+	"source": "npm-search",
+	"description": "Web UI for visualizing pi-teammate agent team messages and status in real-time",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-teammate-ui",
+		"description": "Web UI for visualizing pi-teammate agent team messages and status in real-time",
+		"keywords": ["pi", "pi-teammate", "agent", "visualization", "sqlite", "websocket", "react", "bun"],
+		"version": "0.1.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

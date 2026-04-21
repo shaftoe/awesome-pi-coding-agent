@@ -1,0 +1,36 @@
+{
+	"id": "@light-merlin-dark/skill-sync",
+	"name": "@light-merlin-dark/skill-sync",
+	"url": "https://www.npmjs.com/package/@light-merlin-dark/skill-sync",
+	"source": "npm-search",
+	"description": "Sync local repo-backed agent skills across Codex, Claude Code, Cursor, Gemini, Hermes, and other harnesses.",
+	"metadata": {
+		"github_url": "https://github.com/light-merlin-dark/skill-sync",
+		"npm_name": "@light-merlin-dark/skill-sync",
+		"description": "Sync local repo-backed agent skills across Codex, Claude Code, Cursor, Gemini, Hermes, and other harnesses.",
+		"keywords": ["agent-skills", "skills", "cli", "codex", "claude-code", "cursor", "gemini", "hermes", "copilot", "sync", "symlink", "developer-tools"],
+		"version": "0.3.6",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-10T16:50:06Z",
+		"topics": ["agent-skills", "ai-agents", "automation", "backup", "claude-code", "cli", "codex", "cursor", "developer-tools", "gemini", "github-copilot", "hermes", "restore", "symlink"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 171,
+			"tool": 4,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

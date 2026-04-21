@@ -1,0 +1,32 @@
+{
+	"id": "wiinnie-the-pooh-terminal-pi",
+	"name": "wiinnie-the-pooh-terminal-pi",
+	"url": "https://github.com/wiinnie-the-pooh/terminal-pi",
+	"source": "github-search",
+	"description": "VS Code Extension for pi-coding-agent Terminal Integration",
+	"metadata": {
+		"description": "VS Code Extension for pi-coding-agent Terminal Integration",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-21T15:00:17Z",
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

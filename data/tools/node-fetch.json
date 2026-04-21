@@ -1,0 +1,36 @@
+{
+	"id": "node-fetch",
+	"name": "node-fetch",
+	"url": "https://www.npmjs.com/package/node-fetch",
+	"source": "npm-search",
+	"description": "A light-weight module that brings Fetch API to node.js",
+	"metadata": {
+		"github_url": "https://github.com/node-fetch/node-fetch",
+		"npm_name": "node-fetch",
+		"description": "A light-weight module that brings Fetch API to node.js",
+		"keywords": ["fetch", "http", "promise", "request", "curl", "wget", "xhr", "whatwg"],
+		"version": "3.3.2",
+		"stars": 8857,
+		"forks": 1054,
+		"open_issues": 242,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-03-21T22:04:39Z",
+		"topics": ["fetch", "fetch-api", "hacktoberfest", "http", "http-client", "node-fetch", "promise", "spec-compliant", "stream", "whatwg", "whatwg-fetch"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 6,
+			"skill": 0,
+			"tool": 9,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 80,
+		"level": "active"
+	},
+	"category": "tool"
+}

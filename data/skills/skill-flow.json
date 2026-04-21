@@ -1,0 +1,36 @@
+{
+	"id": "skill-flow",
+	"name": "skill-flow",
+	"url": "https://www.npmjs.com/package/skill-flow",
+	"source": "npm-search",
+	"description": "Workflow-first management for AI agent skills. Group, project, and sync skills across multiple agents with explicit state tracking.",
+	"metadata": {
+		"github_url": "https://github.com/VintLin/skill-flow",
+		"npm_name": "skill-flow",
+		"description": "Workflow-first management for AI agent skills. Group, project, and sync skills across multiple agents with explicit state tracking.",
+		"keywords": ["ai", "agent", "skills", "workflow", "claude", "cursor", "copilot", "cli", "management", "git"],
+		"version": "1.3.5",
+		"stars": 202,
+		"forks": 13,
+		"open_issues": 1,
+		"language": "Swift",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-12T07:39:24Z",
+		"topics": ["agent", "ai", "claude", "cli", "management", "skill", "skill-development", "skill-manager", "skill-manger", "skill-md", "skills", "skills-sh", "skillset", "workflow"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 66,
+			"tool": 10,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "skill"
+}

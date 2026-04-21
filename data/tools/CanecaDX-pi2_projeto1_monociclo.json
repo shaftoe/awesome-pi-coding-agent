@@ -1,0 +1,32 @@
+{
+	"id": "CanecaDX-pi2_projeto1_monociclo",
+	"name": "CanecaDX-pi2_projeto1_monociclo",
+	"url": "https://github.com/CanecaDX/pi2_projeto1_monociclo",
+	"source": "github-search",
+	"description": "Repositório para o projeto um (1), da cadeira de Projeto Integrador II do curso de Engenharia de computação UNIPAMPA campus Bagé",
+	"metadata": {
+		"description": "Repositório para o projeto um (1), da cadeira de Projeto Integrador II do curso de Engenharia de computação UNIPAMPA campus Bagé",
+		"stars": 1,
+		"forks": 0,
+		"language": "C",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 1,
+		"license": null,
+		"last_commit": "2026-04-19T01:30:27Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

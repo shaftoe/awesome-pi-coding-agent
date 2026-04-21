@@ -1,0 +1,36 @@
+{
+	"id": "@marcfargas/pi-safety",
+	"name": "@marcfargas/pi-safety",
+	"url": "https://www.npmjs.com/package/@marcfargas/pi-safety",
+	"source": "npm-search",
+	"description": "Safety classification registry for pi agent tool calls — glob-based READ/WRITE command matching",
+	"metadata": {
+		"github_url": "https://github.com/marcfargas/pi-mf-extensions",
+		"npm_name": "@marcfargas/pi-safety",
+		"description": "Safety classification registry for pi agent tool calls — glob-based READ/WRITE command matching",
+		"keywords": [],
+		"version": "0.1.1",
+		"stars": 1,
+		"forks": 1,
+		"open_issues": 0,
+		"language": null,
+		"license": null,
+		"last_commit": "2026-02-20T21:47:07Z",
+		"topics": [],
+		"is_archived": true,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 10,
+		"level": "dead"
+	},
+	"category": "extension"
+}

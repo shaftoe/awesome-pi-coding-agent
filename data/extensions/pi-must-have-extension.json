@@ -1,0 +1,36 @@
+{
+	"id": "pi-must-have-extension",
+	"name": "pi-must-have-extension",
+	"url": "https://www.npmjs.com/package/pi-must-have-extension",
+	"source": "npm-search",
+	"description": "RFC 2119 keyword normalizer extension for the Pi coding agent.",
+	"metadata": {
+		"github_url": "https://github.com/MasuRii/pi-must-have-extension",
+		"npm_name": "pi-must-have-extension",
+		"description": "RFC 2119 keyword normalizer extension for the Pi coding agent.",
+		"keywords": ["pi-package", "pi-extension", "pi-coding-agent", "pi", "coding-agent", "rfc2119", "rfc8174", "bcp14", "prompt-normalization", "prompt-rewrite", "prompt-engineering", "keyword-normalization", "compliance", "jsonc"],
+		"version": "0.4.9",
+		"stars": 4,
+		"forks": 1,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-08T21:14:24Z",
+		"topics": ["bcp14", "coding-agent", "compliance", "hack", "pi", "pi-coding-agent", "pi-extension", "pi-rfc", "prompt-engineering", "prompt-normalization", "rfc2119", "rfc8174", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 24,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

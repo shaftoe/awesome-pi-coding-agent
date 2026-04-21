@@ -1,0 +1,36 @@
+{
+	"id": "@verioussmith/pi-openrouter",
+	"name": "@verioussmith/pi-openrouter",
+	"url": "https://www.npmjs.com/package/@verioussmith/pi-openrouter",
+	"source": "npm-search",
+	"description": "OpenRouter provider extension for Pi Coding Agent - access 20+ LLM models through unified API",
+	"metadata": {
+		"github_url": "https://github.com/verioussmith/pi-openrouter-extension",
+		"npm_name": "@verioussmith/pi-openrouter",
+		"description": "OpenRouter provider extension for Pi Coding Agent - access 20+ LLM models through unified API",
+		"keywords": ["pi", "pi-coding-agent", "openrouter", "llm", "ai", "extension", "claude", "gpt", "gemini", "llama"],
+		"version": "1.1.0",
+		"stars": 3,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-01-30T08:02:41Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 10,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

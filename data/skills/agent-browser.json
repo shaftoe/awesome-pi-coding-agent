@@ -1,0 +1,36 @@
+{
+	"id": "agent-browser",
+	"name": "agent-browser",
+	"url": "https://www.npmjs.com/package/agent-browser",
+	"source": "npm-search",
+	"description": "Browser automation CLI for AI agents",
+	"metadata": {
+		"github_url": "https://github.com/vercel-labs/agent-browser",
+		"npm_name": "agent-browser",
+		"description": "Browser automation CLI for AI agents",
+		"keywords": ["browser", "automation", "headless", "chrome", "cdp", "cli", "agent"],
+		"version": "0.26.0",
+		"stars": 30044,
+		"forks": 1833,
+		"open_issues": 414,
+		"language": "Rust",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-20T21:12:47Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://agent-browser.dev",
+		"_readme_category_scores": {
+			"extension": 6,
+			"skill": 25,
+			"tool": 91,
+			"theme": 2,
+			"provider": 13
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "skill"
+}

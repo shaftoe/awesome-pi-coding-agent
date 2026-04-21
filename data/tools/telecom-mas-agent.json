@@ -1,0 +1,36 @@
+{
+	"id": "telecom-mas-agent",
+	"name": "telecom-mas-agent",
+	"url": "https://www.npmjs.com/package/telecom-mas-agent",
+	"source": "npm-search",
+	"description": "A conversational AI-driven telecom multi-agent system for managing call balances, push notifications, marketing, targeting, and sales.",
+	"metadata": {
+		"github_url": "https://github.com/darshanbmehta/telecom-mas-agent",
+		"npm_name": "telecom-mas-agent",
+		"description": "A conversational AI-driven telecom multi-agent system for managing call balances, push notifications, marketing, targeting, and sales.",
+		"keywords": ["telecom", "agent", "multi-agent", "conversational-ai", "sms", "balance", "notifications", "marketing", "targeting", "sales", "telecommunications", "messaging"],
+		"version": "1.0.12",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "GPL-3.0",
+		"last_commit": "2025-12-09T03:07:10Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

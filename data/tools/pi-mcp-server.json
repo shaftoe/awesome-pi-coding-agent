@@ -1,0 +1,36 @@
+{
+	"id": "pi-mcp-server",
+	"name": "pi-mcp-server",
+	"url": "https://www.npmjs.com/package/pi-mcp-server",
+	"source": "npm-search",
+	"description": "MCP server wrapping the Pi coding agent as tools",
+	"metadata": {
+		"github_url": "https://github.com/pandysp/pi-mcp-server",
+		"npm_name": "pi-mcp-server",
+		"description": "MCP server wrapping the Pi coding agent as tools",
+		"keywords": ["mcp", "model-context-protocol", "pi", "coding-agent", "ai"],
+		"version": "0.1.2",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-11T12:38:22Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 17,
+			"theme": 0,
+			"provider": 5
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

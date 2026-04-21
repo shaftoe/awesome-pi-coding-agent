@@ -1,0 +1,36 @@
+{
+	"id": "@styrene-lab/pi-mom",
+	"name": "@styrene-lab/pi-mom",
+	"url": "https://www.npmjs.com/package/@styrene-lab/pi-mom",
+	"source": "npm-search",
+	"description": "Slack bot that delegates messages to the pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/styrene-lab/omegon",
+		"npm_name": "@styrene-lab/pi-mom",
+		"description": "Slack bot that delegates messages to the pi coding agent",
+		"keywords": ["slack", "bot", "ai", "agent"],
+		"version": "0.58.1",
+		"stars": 41,
+		"forks": 9,
+		"open_issues": 6,
+		"language": "Rust",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-21T09:08:38Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 2,
+			"tool": 1,
+			"theme": 2,
+			"provider": 7
+		}
+	},
+	"health": {
+		"score": 74,
+		"level": "active"
+	},
+	"category": "skill"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "reskill",
+	"name": "reskill",
+	"url": "https://www.npmjs.com/package/reskill",
+	"source": "npm-search",
+	"description": "AI Skills Package Manager - Git-based skills management for AI agents",
+	"metadata": {
+		"github_url": "https://github.com/kanyun-inc/reskill",
+		"npm_name": "reskill",
+		"description": "AI Skills Package Manager - Git-based skills management for AI agents",
+		"keywords": ["skills", "ai", "agent", "package-manager", "cli", "cursor", "claude-code", "github-copilot", "opencode", "windsurf", "codex", "multi-agent"],
+		"version": "1.20.0",
+		"stars": 55,
+		"forks": 2,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-13T03:27:19Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 181,
+			"tool": 8,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 76,
+		"level": "active"
+	},
+	"category": "skill"
+}

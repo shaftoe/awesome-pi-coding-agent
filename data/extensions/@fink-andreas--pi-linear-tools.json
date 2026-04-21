@@ -1,0 +1,36 @@
+{
+	"id": "@fink-andreas/pi-linear-tools",
+	"name": "@fink-andreas/pi-linear-tools",
+	"url": "https://www.npmjs.com/package/@fink-andreas/pi-linear-tools",
+	"source": "npm-search",
+	"description": "Pi extension with Linear SDK tools and configuration commands",
+	"metadata": {
+		"github_url": "https://github.com/fink-andreas/pi-linear-tools",
+		"npm_name": "@fink-andreas/pi-linear-tools",
+		"description": "Pi extension with Linear SDK tools and configuration commands",
+		"keywords": ["linear", "pi", "pi-package", "tools", "sdk"],
+		"version": "0.5.1",
+		"stars": 6,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-18T11:08:20Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 6,
+			"skill": 0,
+			"tool": 5,
+			"theme": 0,
+			"provider": 6
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

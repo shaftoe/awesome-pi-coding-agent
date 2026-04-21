@@ -1,0 +1,26 @@
+{
+	"id": "snqb-my-skills",
+	"name": "snqb-my-skills",
+	"url": "https://github.com/snqb/my-skills",
+	"source": "github-search",
+	"description": "Personal collection of pi agent skills — unpolished, shared as-is",
+	"metadata": {
+		"description": "Personal collection of pi agent skills — unpolished, shared as-is",
+		"stars": 1,
+		"forks": 0,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-07T16:12:37Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

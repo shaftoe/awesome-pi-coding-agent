@@ -1,0 +1,36 @@
+{
+	"id": "add-variable-declarations",
+	"name": "add-variable-declarations",
+	"url": "https://www.npmjs.com/package/add-variable-declarations",
+	"source": "npm-search",
+	"description": "Add variable declarations for global assignments.",
+	"metadata": {
+		"github_url": "https://github.com/eventualbuddha/add-variable-declarations",
+		"npm_name": "add-variable-declarations",
+		"description": "Add variable declarations for global assignments.",
+		"keywords": ["variable", "declaration", "ast", "refactor"],
+		"version": "6.0.42",
+		"stars": 4,
+		"forks": 3,
+		"open_issues": 7,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T04:53:12Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

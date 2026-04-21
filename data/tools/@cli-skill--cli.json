@@ -1,0 +1,20 @@
+{
+	"id": "@cli-skill/cli",
+	"name": "@cli-skill/cli",
+	"url": "https://www.npmjs.com/package/@cli-skill/cli",
+	"source": "npm-search",
+	"description": "",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@cli-skill/cli",
+		"description": "",
+		"keywords": [],
+		"version": "0.0.9",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

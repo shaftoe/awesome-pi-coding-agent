@@ -1,0 +1,32 @@
+{
+	"id": "Teaonly-wx-pi",
+	"name": "Teaonly-wx-pi",
+	"url": "https://github.com/Teaonly/wx-pi",
+	"source": "github-search",
+	"description": "微信扫码启动pi-mono",
+	"metadata": {
+		"description": "微信扫码启动pi-mono",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-21T07:15:59Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

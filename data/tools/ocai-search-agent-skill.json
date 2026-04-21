@@ -1,0 +1,20 @@
+{
+	"id": "ocai-search-agent-skill",
+	"name": "ocai-search-agent-skill",
+	"url": "https://www.npmjs.com/package/ocai-search-agent-skill",
+	"source": "npm-search",
+	"description": "OCAI collection skill and CLI for MCP-based collection workflows.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "ocai-search-agent-skill",
+		"description": "OCAI collection skill and CLI for MCP-based collection workflows.",
+		"keywords": [],
+		"version": "0.1.66",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

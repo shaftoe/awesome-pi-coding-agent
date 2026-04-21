@@ -1,0 +1,20 @@
+{
+	"id": "@atlassianlabs/jira-pi-client",
+	"name": "@atlassianlabs/jira-pi-client",
+	"url": "https://www.npmjs.com/package/@atlassianlabs/jira-pi-client",
+	"source": "npm-search",
+	"description": "Transform jira meta information to a ui descriptor",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@atlassianlabs/jira-pi-client",
+		"description": "Transform jira meta information to a ui descriptor",
+		"keywords": [],
+		"version": "2.0.2",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

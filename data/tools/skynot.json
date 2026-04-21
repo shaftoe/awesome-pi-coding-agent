@@ -1,0 +1,30 @@
+{
+	"id": "skynot",
+	"name": "skynot",
+	"url": "https://www.npmjs.com/package/skynot",
+	"source": "npm-search",
+	"description": "Quick NPX tool to set up a pi user and install the pi-coding-agent",
+	"metadata": {
+		"github_url": "https://github.com/nblockchain/skynot",
+		"npm_name": "skynot",
+		"description": "Quick NPX tool to set up a pi user and install the pi-coding-agent",
+		"keywords": ["pi", "coding-agent", "ai", "llm", "cli", "tui", "agent", "installer"],
+		"version": "0.0.2",
+		"stars": 2,
+		"forks": 1,
+		"open_issues": 7,
+		"language": "TypeScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-20T11:20:08Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

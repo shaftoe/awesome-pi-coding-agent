@@ -1,0 +1,32 @@
+{
+	"id": "0xkuze-pi-agent-autodiscovery",
+	"name": "0xkuze-pi-agent-autodiscovery",
+	"url": "https://github.com/0xkuze/pi-agent-autodiscovery",
+	"source": "github-search",
+	"description": "a extension for pi-subagents insert into the prompt a instruction for the llms autodiscovery the agents.",
+	"metadata": {
+		"description": "a extension for pi-subagents insert into the prompt a instruction for the llms autodiscovery the agents.",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-15T01:50:24Z",
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

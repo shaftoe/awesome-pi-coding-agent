@@ -1,0 +1,36 @@
+{
+	"id": "flutter-skill",
+	"name": "flutter-skill",
+	"url": "https://www.npmjs.com/package/flutter-skill",
+	"source": "npm-search",
+	"description": "MCP Server for app automation - Give your AI Agent eyes and hands inside any app (Flutter, React, Web, Native)",
+	"metadata": {
+		"github_url": "https://github.com/ai-dashboad/flutter-skill",
+		"npm_name": "flutter-skill",
+		"description": "MCP Server for app automation - Give your AI Agent eyes and hands inside any app (Flutter, React, Web, Native)",
+		"keywords": ["flutter", "react-native", "web", "mcp", "ai", "automation", "testing", "claude", "cursor", "windsurf"],
+		"version": "0.9.36",
+		"stars": 205,
+		"forks": 25,
+		"open_issues": 2,
+		"language": "Dart",
+		"license": "MIT",
+		"last_commit": "2026-04-15T06:50:05Z",
+		"topics": ["ai", "ai-testing", "android", "automation", "claude", "cross-platform", "cursor", "e2e-testing", "electron", "flutter", "ios", "mcp", "mcp-server", "model-context-protocol", "playwright-alternative", "react-native", "tauri", "test-automation", "testing-tools", "web-testing"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://ai-dashboad.github.io/flutter-skill/",
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 87,
+			"tool": 17,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "skill"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "theflixerbox77-ralph-wiggum-codex",
+	"name": "theflixerbox77-ralph-wiggum-codex",
+	"url": "https://github.com/theflixerbox77/ralph-wiggum-codex",
+	"source": "github-search",
+	"description": "Enable Codex to run objective-first autonomous loops with mandatory review and optional verification for long-running task completion",
+	"metadata": {
+		"description": "Enable Codex to run objective-first autonomous loops with mandatory review and optional verification for long-running task completion",
+		"stars": 2,
+		"forks": 0,
+		"language": "Shell",
+		"topics": ["active", "agent-skills", "agentic-workflows", "ai-agent", "ai-agents", "ai-coding", "automation", "autonomous-agents", "autonomous-coding", "claude-code", "codex-skill", "cursor-cli", "iterative-development", "iterative-refinement", "library", "mbp", "pi-agent", "spec-driven", "spec-kit", "template"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-21T13:30:06Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 1,
+			"tool": 7,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

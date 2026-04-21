@@ -1,0 +1,20 @@
+{
+	"id": "@ocarinalabs/quaver",
+	"name": "@ocarinalabs/quaver",
+	"url": "https://www.npmjs.com/package/@ocarinalabs/quaver",
+	"source": "npm-search",
+	"description": "Crash-test AI agents before they ship. Drives a coding agent (Claude or Pi) to generate adversarially-validated benchmark worlds. Ships `quaver agent generate`, `quaver lint`, `quaver validate`.",
+	"metadata": {
+		"github_url": "https://github.com/ocarinalabs/quaver",
+		"npm_name": "@ocarinalabs/quaver",
+		"description": "Crash-test AI agents before they ship. Drives a coding agent (Claude or Pi) to generate adversarially-validated benchmark worlds. Ships `quaver agent generate`, `quaver lint`, `quaver validate`.",
+		"keywords": [],
+		"version": "1.1.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "codeburn",
+	"name": "codeburn",
+	"url": "https://www.npmjs.com/package/codeburn",
+	"source": "npm-search",
+	"description": "See where your AI coding tokens go - by task, tool, model, and project",
+	"metadata": {
+		"github_url": "https://github.com/getagentseal/codeburn",
+		"npm_name": "codeburn",
+		"description": "See where your AI coding tokens go - by task, tool, model, and project",
+		"keywords": ["claude-code", "cursor", "codex", "opencode", "pi", "ai-coding", "token-usage", "cost-tracking", "observability", "developer-tools"],
+		"version": "0.8.5",
+		"stars": 3187,
+		"forks": 239,
+		"open_issues": 22,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T14:44:32Z",
+		"topics": ["ai-coding", "claude-code", "cli", "codex", "cost-tracking", "cursor-ide", "developer-tools", "observability", "terminal-ui", "token-usage"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 2,
+			"tool": 20,
+			"theme": 1,
+			"provider": 32
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "skill"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "pi-omni-compact",
+	"name": "pi-omni-compact",
+	"url": "https://www.npmjs.com/package/pi-omni-compact",
+	"source": "npm-search",
+	"description": "Pi extension that delegates compaction to a large-context model subprocess",
+	"metadata": {
+		"github_url": "https://github.com/Whamp/pi-omni-compact",
+		"npm_name": "pi-omni-compact",
+		"description": "Pi extension that delegates compaction to a large-context model subprocess",
+		"keywords": ["pi", "pi-package", "extension", "compaction", "context", "gemini"],
+		"version": "0.1.2",
+		"stars": 0,
+		"forks": 2,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-03T06:10:43Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 9,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 5
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

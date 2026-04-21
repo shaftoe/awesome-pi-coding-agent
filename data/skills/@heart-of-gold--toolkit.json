@@ -1,0 +1,36 @@
+{
+	"id": "@heart-of-gold/toolkit",
+	"name": "@heart-of-gold/toolkit",
+	"url": "https://www.npmjs.com/package/@heart-of-gold/toolkit",
+	"source": "npm-search",
+	"description": "Cross-platform installer for Heart of Gold skills — works with Codex, OpenCode, Pi, Claude Code, and more",
+	"metadata": {
+		"github_url": "https://github.com/ondrej-svec/heart-of-gold-toolkit",
+		"npm_name": "@heart-of-gold/toolkit",
+		"description": "Cross-platform installer for Heart of Gold skills — works with Codex, OpenCode, Pi, Claude Code, and more",
+		"keywords": ["codex", "claude-code", "opencode", "pi", "pi-package", "ai-agents", "skills", "agents-md", "agentskills", "harness-engineering", "heart-of-gold"],
+		"version": "0.1.45",
+		"stars": 4,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "Python",
+		"license": "MIT",
+		"last_commit": "2026-04-20T14:57:04Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 6,
+			"skill": 40,
+			"tool": 8,
+			"theme": 1,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

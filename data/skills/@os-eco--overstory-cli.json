@@ -1,0 +1,36 @@
+{
+	"id": "@os-eco/overstory-cli",
+	"name": "@os-eco/overstory-cli",
+	"url": "https://www.npmjs.com/package/@os-eco/overstory-cli",
+	"source": "npm-search",
+	"description": "Multi-agent orchestration for AI coding agents — spawn workers in git worktrees via tmux, coordinate through SQLite mail, merge with tiered conflict resolution. Pluggable runtime adapters for Claude Code, Pi, and more.",
+	"metadata": {
+		"github_url": "https://github.com/jayminwest/overstory",
+		"npm_name": "@os-eco/overstory-cli",
+		"description": "Multi-agent orchestration for AI coding agents — spawn workers in git worktrees via tmux, coordinate through SQLite mail, merge with tiered conflict resolution. Pluggable runtime adapters for Claude Code, Pi, and more.",
+		"keywords": ["ai", "agents", "orchestration", "claude-code", "multi-agent", "swarm", "cli", "developer-tools"],
+		"version": "0.9.3",
+		"stars": 1233,
+		"forks": 204,
+		"open_issues": 24,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-18T03:03:02Z",
+		"topics": ["agent-swarms", "ai-agents", "claude-code", "tmux"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 21,
+			"skill": 1,
+			"tool": 39,
+			"theme": 1,
+			"provider": 9
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "skill"
+}

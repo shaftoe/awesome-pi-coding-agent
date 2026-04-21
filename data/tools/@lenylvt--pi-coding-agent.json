@@ -1,0 +1,20 @@
+{
+	"id": "@lenylvt/pi-coding-agent",
+	"name": "@lenylvt/pi-coding-agent",
+	"url": "https://www.npmjs.com/package/@lenylvt/pi-coding-agent",
+	"source": "npm-search",
+	"description": "Coding agent CLI with read, bash, edit, write tools and session management",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@lenylvt/pi-coding-agent",
+		"description": "Coding agent CLI with read, bash, edit, write tools and session management",
+		"keywords": ["coding-agent", "ai", "llm", "cli", "tui", "agent"],
+		"version": "0.70.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

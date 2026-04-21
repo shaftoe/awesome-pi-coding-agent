@@ -1,0 +1,36 @@
+{
+	"id": "@azure/ai-projects",
+	"name": "@azure/ai-projects",
+	"url": "https://www.npmjs.com/package/@azure/ai-projects",
+	"source": "npm-search",
+	"description": "Azure AI Projects client library.",
+	"metadata": {
+		"github_url": "https://github.com/Azure/azure-sdk-for-js",
+		"npm_name": "@azure/ai-projects",
+		"description": "Azure AI Projects client library.",
+		"keywords": ["node", "azure", "cloud", "typescript", "browser", "isomorphic"],
+		"version": "2.1.0",
+		"stars": 2289,
+		"forks": 1360,
+		"open_issues": 816,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T16:02:09Z",
+		"topics": ["azure", "azure-sdk", "browser", "hacktoberfest", "javascript", "nodejs", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 25,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

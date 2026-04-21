@@ -1,0 +1,36 @@
+{
+	"id": "@edlsh/pi-web-tools",
+	"name": "@edlsh/pi-web-tools",
+	"url": "https://www.npmjs.com/package/@edlsh/pi-web-tools",
+	"source": "npm-search",
+	"description": "Multi-provider web search, extract, research, and code-search tools for Pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/edlsh/pi-web-tools",
+		"npm_name": "@edlsh/pi-web-tools",
+		"description": "Multi-provider web search, extract, research, and code-search tools for Pi coding agent",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "extension", "web", "search", "extract", "research", "exa", "jina", "tavily"],
+		"version": "0.1.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-28T18:45:17Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 17
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

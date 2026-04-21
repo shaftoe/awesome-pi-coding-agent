@@ -1,0 +1,36 @@
+{
+	"id": "agent-sh",
+	"name": "agent-sh",
+	"url": "https://www.npmjs.com/package/agent-sh",
+	"source": "npm-search",
+	"description": "A shell-first terminal where AI is one keystroke away",
+	"metadata": {
+		"github_url": "https://github.com/guanyilun/agent-sh",
+		"npm_name": "agent-sh",
+		"description": "A shell-first terminal where AI is one keystroke away",
+		"keywords": ["terminal", "shell", "agent", "ai", "acp", "cli", "pty", "llm"],
+		"version": "0.10.1",
+		"stars": 4,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-21T15:04:48Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 9,
+			"skill": 0,
+			"tool": 0,
+			"theme": 1,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "YT_jTMI1bCv3Ts",
+	"name": "Pi Coding Agent: The only Agent That&#39;s Truly YOURS",
+	"url": "https://www.youtube.com/watch?v=jTMI1bCv3Ts",
+	"source": "youtube-search",
+	"description": "Build your first AI Agent in 60 minutes (for free): https://learnagents.dev/?utm_source=youtube.",
+	"metadata": {
+		"title": "Pi Coding Agent: The only Agent That&#39;s Truly YOURS",
+		"description": "Build your first AI Agent in 60 minutes (for free): https://learnagents.dev/?utm_source=youtube.",
+		"channel": "Igor Kudryk (Salesforce)",
+		"published_at": "2026-04-10T15:40:52Z",
+		"thumbnail": "https://i.ytimg.com/vi/jTMI1bCv3Ts/hqdefault.jpg"
+	},
+	"health": {
+		"score": 0,
+		"level": "stale"
+	},
+	"category": "video"
+}

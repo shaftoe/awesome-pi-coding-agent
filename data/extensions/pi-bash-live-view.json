@@ -1,0 +1,36 @@
+{
+	"id": "pi-bash-live-view",
+	"name": "pi-bash-live-view",
+	"url": "https://www.npmjs.com/package/pi-bash-live-view",
+	"source": "npm-search",
+	"description": "A pi extension that adds optional PTY-backed live terminal rendering to the bash tool via usePTY=true.",
+	"metadata": {
+		"github_url": "https://github.com/lucasmeijer/pi-bash-live-view",
+		"npm_name": "pi-bash-live-view",
+		"description": "A pi extension that adds optional PTY-backed live terminal rendering to the bash tool via usePTY=true.",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "extension", "bash", "pty", "terminal", "tui"],
+		"version": "0.1.1",
+		"stars": 76,
+		"forks": 5,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-02T14:22:26Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 78,
+		"level": "active"
+	},
+	"category": "extension"
+}

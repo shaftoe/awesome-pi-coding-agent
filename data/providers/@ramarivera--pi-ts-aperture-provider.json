@@ -1,0 +1,36 @@
+{
+	"id": "@ramarivera/pi-ts-aperture-provider",
+	"name": "@ramarivera/pi-ts-aperture-provider",
+	"url": "https://www.npmjs.com/package/@ramarivera/pi-ts-aperture-provider",
+	"source": "npm-search",
+	"description": "Config-driven aperture provider extraction for Pi-compatible extensions.",
+	"metadata": {
+		"github_url": "https://github.com/ramarivera/pi-ts-aperture-provider",
+		"npm_name": "@ramarivera/pi-ts-aperture-provider",
+		"description": "Config-driven aperture provider extraction for Pi-compatible extensions.",
+		"keywords": ["pi-package", "pi", "gateway", "models.dev", "aperture", "extension"],
+		"version": "0.2.11",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-15T14:52:31Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 12,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 41
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

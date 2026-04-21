@@ -1,0 +1,36 @@
+{
+	"id": "@aliou/pi-synthetic",
+	"name": "@aliou/pi-synthetic",
+	"url": "https://www.npmjs.com/package/@aliou/pi-synthetic",
+	"source": "npm-search",
+	"description": "![banner](https://assets.aliou.me/pi-extensions/banners/pi-synthetic.png)",
+	"metadata": {
+		"github_url": "https://github.com/aliou/pi-synthetic",
+		"npm_name": "@aliou/pi-synthetic",
+		"description": "![banner](https://assets.aliou.me/pi-extensions/banners/pi-synthetic.png)",
+		"keywords": ["pi-package", "pi-extension", "pi"],
+		"version": "0.13.2",
+		"stars": 16,
+		"forks": 2,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-21T08:16:19Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 13,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 6
+		}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@dungle-scrubs/tallow",
+	"name": "@dungle-scrubs/tallow",
+	"url": "https://www.npmjs.com/package/@dungle-scrubs/tallow",
+	"source": "npm-search",
+	"description": "An opinionated coding agent. Built on pi.",
+	"metadata": {
+		"github_url": "https://github.com/dungle-scrubs/tallow",
+		"npm_name": "@dungle-scrubs/tallow",
+		"description": "An opinionated coding agent. Built on pi.",
+		"keywords": ["coding-agent", "ai", "cli", "llm", "developer-tools"],
+		"version": "0.9.6",
+		"stars": 58,
+		"forks": 5,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T20:17:22Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://tallow.dungle-scrubs.com",
+		"_readme_category_scores": {
+			"extension": 31,
+			"skill": 1,
+			"tool": 13,
+			"theme": 9,
+			"provider": 9
+		}
+	},
+	"health": {
+		"score": 76,
+		"level": "active"
+	},
+	"category": "skill"
+}

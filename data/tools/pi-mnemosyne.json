@@ -1,0 +1,36 @@
+{
+	"id": "pi-mnemosyne",
+	"name": "pi-mnemosyne",
+	"url": "https://www.npmjs.com/package/pi-mnemosyne",
+	"source": "npm-search",
+	"description": "Pi extension for local persistent memory using Mnemosyne — offline semantic search, no cloud required",
+	"metadata": {
+		"github_url": "https://github.com/gandazgul/mnemosyne",
+		"npm_name": "pi-mnemosyne",
+		"description": "Pi extension for local persistent memory using Mnemosyne — offline semantic search, no cloud required",
+		"keywords": ["pi-package", "mnemosyne", "memory", "local", "offline", "semantic-search", "ai", "coding-agent"],
+		"version": "0.1.0",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Go",
+		"license": "MIT",
+		"last_commit": "2026-04-13T17:19:02Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

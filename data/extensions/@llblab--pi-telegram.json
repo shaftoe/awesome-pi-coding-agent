@@ -1,0 +1,36 @@
+{
+	"id": "@llblab/pi-telegram",
+	"name": "@llblab/pi-telegram",
+	"url": "https://www.npmjs.com/package/@llblab/pi-telegram",
+	"source": "npm-search",
+	"description": "Better Telegram DM bridge extension for pi",
+	"metadata": {
+		"github_url": "https://github.com/llblab/pi-telegram",
+		"npm_name": "@llblab/pi-telegram",
+		"description": "Better Telegram DM bridge extension for pi",
+		"keywords": ["pi-package", "pi", "telegram", "bot", "extension"],
+		"version": "0.2.9",
+		"stars": 4,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-20T13:30:49Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 40,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

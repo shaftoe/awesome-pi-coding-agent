@@ -1,0 +1,30 @@
+{
+	"id": "pi-shell-completions",
+	"name": "pi-shell-completions",
+	"url": "https://www.npmjs.com/package/pi-shell-completions",
+	"source": "npm-search",
+	"description": "Pi extension that adds native shell completions (fish/zsh/bash) to ! and !! bash mode commands",
+	"metadata": {
+		"github_url": "https://github.com/laulauland/dotfiles",
+		"npm_name": "pi-shell-completions",
+		"description": "Pi extension that adds native shell completions (fish/zsh/bash) to ! and !! bash mode commands",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"stars": 17,
+		"forks": 2,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-21T14:37:32Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "extension"
+}

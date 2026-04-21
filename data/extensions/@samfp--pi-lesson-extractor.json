@@ -1,0 +1,36 @@
+{
+	"id": "@samfp/pi-lesson-extractor",
+	"name": "@samfp/pi-lesson-extractor",
+	"url": "https://www.npmjs.com/package/@samfp/pi-lesson-extractor",
+	"source": "npm-search",
+	"description": "Pi extension that extracts reusable problem-solving patterns from session transcripts — retry loops, error→fix pairs, user corrections, and confirmed approaches.",
+	"metadata": {
+		"github_url": "https://github.com/samfoy/pi-lesson-extractor",
+		"npm_name": "@samfp/pi-lesson-extractor",
+		"description": "Pi extension that extracts reusable problem-solving patterns from session transcripts — retry loops, error→fix pairs, user corrections, and confirmed approaches.",
+		"keywords": ["pi-package", "extension", "lessons", "learning", "patterns", "memory"],
+		"version": "0.1.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-19T09:07:46Z",
+		"topics": ["ai-coding-agent", "developer-tools", "machine-learning", "pattern-extraction", "pi-coding-agent"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

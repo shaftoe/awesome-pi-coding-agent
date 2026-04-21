@@ -1,0 +1,20 @@
+{
+	"id": "@samy-clivolt/pi-ag-ui",
+	"name": "@samy-clivolt/pi-ag-ui",
+	"url": "https://www.npmjs.com/package/@samy-clivolt/pi-ag-ui",
+	"source": "npm-search",
+	"description": "AG-UI protocol bridge for the Pi coding agent — core library",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@samy-clivolt/pi-ag-ui",
+		"description": "AG-UI protocol bridge for the Pi coding agent — core library",
+		"keywords": ["ag-ui", "copilotkit", "pi", "agent", "bridge", "event"],
+		"version": "0.1.2",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

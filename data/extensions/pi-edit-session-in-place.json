@@ -1,0 +1,36 @@
+{
+	"id": "pi-edit-session-in-place",
+	"name": "pi-edit-session-in-place",
+	"url": "https://www.npmjs.com/package/pi-edit-session-in-place",
+	"source": "npm-search",
+	"description": "pi extension that lets you re-edit or delete an earlier user message in the current session branch",
+	"metadata": {
+		"github_url": "https://github.com/fitchmultz/pi-edit-session-in-place",
+		"npm_name": "pi-edit-session-in-place",
+		"description": "pi extension that lets you re-edit or delete an earlier user message in the current session branch",
+		"keywords": ["pi-package", "pi", "pi-extension", "extension", "session", "history", "typescript"],
+		"version": "0.1.4",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T15:28:11Z",
+		"topics": ["extension", "history", "pi", "pi-extension", "pi-package", "session", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/fitchmultz/pi-edit-session-in-place#readme",
+		"_readme_category_scores": {
+			"extension": 8,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

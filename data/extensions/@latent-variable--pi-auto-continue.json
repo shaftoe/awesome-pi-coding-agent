@@ -1,0 +1,36 @@
+{
+	"id": "@latent-variable/pi-auto-continue",
+	"name": "@latent-variable/pi-auto-continue",
+	"url": "https://www.npmjs.com/package/@latent-variable/pi-auto-continue",
+	"source": "npm-search",
+	"description": "Pi extension that auto-sends a 'continue' message whenever the agent stops, so local agents can run autonomous overnight research loops (autoresearch-style) without babysitting.",
+	"metadata": {
+		"github_url": "https://github.com/latent-variable/pi-auto-continue",
+		"npm_name": "@latent-variable/pi-auto-continue",
+		"description": "Pi extension that auto-sends a 'continue' message whenever the agent stops, so local agents can run autonomous overnight research loops (autoresearch-style) without babysitting.",
+		"keywords": ["pi-package", "pi", "extension", "autoresearch", "agent", "loop"],
+		"version": "0.1.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-11T05:21:20Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

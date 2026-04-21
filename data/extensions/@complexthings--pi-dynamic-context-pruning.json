@@ -1,0 +1,36 @@
+{
+	"id": "@complexthings/pi-dynamic-context-pruning",
+	"name": "@complexthings/pi-dynamic-context-pruning",
+	"url": "https://www.npmjs.com/package/@complexthings/pi-dynamic-context-pruning",
+	"source": "npm-search",
+	"description": "PI coding agent extension — Dynamic Context Pruning (DCP)",
+	"metadata": {
+		"github_url": "https://github.com/complexthings/pi-dynamic-context-pruning",
+		"npm_name": "@complexthings/pi-dynamic-context-pruning",
+		"description": "PI coding agent extension — Dynamic Context Pruning (DCP)",
+		"keywords": ["pi-package", "pi-extension", "coding-agent", "dynamic-context-pruning", "dcp", "context", "pruning"],
+		"version": "1.0.7",
+		"stars": 4,
+		"forks": 1,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-14T18:20:06Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

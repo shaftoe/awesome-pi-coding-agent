@@ -1,0 +1,32 @@
+{
+	"id": "Ucr9005-pi-read-many",
+	"name": "Ucr9005-pi-read-many",
+	"url": "https://github.com/Ucr9005/pi-read-many",
+	"source": "github-search",
+	"description": "Enable efficient batch reading of multiple files in Pi to reduce calls and streamline file inspection with a single tool.",
+	"metadata": {
+		"description": "Enable efficient batch reading of multiple files in Pi to reduce calls and streamline file inspection with a single tool.",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["button", "buzzer", "context-packing", "file-reading", "heredoc", "pi", "pi-coding-agent", "pi-extension", "pi-package", "raspberry", "read-many", "read-many-tool", "reboot", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-21T13:27:31Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 7,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

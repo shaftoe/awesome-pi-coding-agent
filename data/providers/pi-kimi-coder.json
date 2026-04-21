@@ -1,0 +1,36 @@
+{
+	"id": "pi-kimi-coder",
+	"name": "pi-kimi-coder",
+	"url": "https://www.npmjs.com/package/pi-kimi-coder",
+	"source": "npm-search",
+	"description": "Pi extension for Kimi K2 Coding plan — OAuth-based provider with kimi-for-coding model",
+	"metadata": {
+		"github_url": "https://github.com/picassio/pi-kimi-coder",
+		"npm_name": "pi-kimi-coder",
+		"description": "Pi extension for Kimi K2 Coding plan — OAuth-based provider with kimi-for-coding model",
+		"keywords": ["pi-package", "pi-extension", "kimi", "moonshot", "kimi-coder", "ai-provider"],
+		"version": "1.0.2",
+		"stars": 6,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-12T02:16:57Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 20,
+			"skill": 0,
+			"tool": 31,
+			"theme": 0,
+			"provider": 12
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

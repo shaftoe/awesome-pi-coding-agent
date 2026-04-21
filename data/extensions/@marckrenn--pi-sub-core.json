@@ -1,0 +1,20 @@
+{
+	"id": "@marckrenn/pi-sub-core",
+	"name": "@marckrenn/pi-sub-core",
+	"url": "https://www.npmjs.com/package/@marckrenn/pi-sub-core",
+	"source": "npm-search",
+	"description": "Shared usage data core for pi extensions",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@marckrenn/pi-sub-core",
+		"description": "Shared usage data core for pi extensions",
+		"keywords": ["pi-package"],
+		"version": "1.5.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

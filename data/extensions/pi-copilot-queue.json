@@ -1,0 +1,20 @@
+{
+	"id": "pi-copilot-queue",
+	"name": "pi-copilot-queue",
+	"url": "https://www.npmjs.com/package/pi-copilot-queue",
+	"source": "npm-search",
+	"description": "Pi extension that queues ask_user responses for Copilot-style workflows",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-copilot-queue",
+		"description": "Pi extension that queues ask_user responses for Copilot-style workflows",
+		"keywords": ["pi-package", "pi-extension", "copilot", "queue"],
+		"version": "0.7.3",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

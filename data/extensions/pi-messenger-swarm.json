@@ -1,0 +1,36 @@
+{
+	"id": "pi-messenger-swarm",
+	"name": "pi-messenger-swarm",
+	"url": "https://www.npmjs.com/package/pi-messenger-swarm",
+	"source": "npm-search",
+	"description": "Swarm-first multi-agent messaging and task orchestration extension for Pi",
+	"metadata": {
+		"github_url": "https://github.com/monotykamary/pi-messenger-swarm",
+		"npm_name": "pi-messenger-swarm",
+		"description": "Swarm-first multi-agent messaging and task orchestration extension for Pi",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "extension", "swarm", "multi-agent", "agent-mesh", "task-orchestration", "subagents", "cli"],
+		"version": "0.24.2",
+		"stars": 17,
+		"forks": 3,
+		"open_issues": 5,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-19T15:32:09Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "pi-interview",
+	"name": "pi-interview",
+	"url": "https://www.npmjs.com/package/pi-interview",
+	"source": "npm-search",
+	"description": "Interactive interview form extension for pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/nicobailon/pi-interview-tool",
+		"npm_name": "pi-interview",
+		"description": "Interactive interview form extension for pi coding agent",
+		"keywords": ["pi", "pi-coding-agent", "pi-package", "interview", "form", "extension", "cli"],
+		"version": "0.6.2",
+		"stars": 222,
+		"forks": 13,
+		"open_issues": 4,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-16T13:16:37Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 0,
+			"tool": 2,
+			"theme": 16,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "theme"
+}

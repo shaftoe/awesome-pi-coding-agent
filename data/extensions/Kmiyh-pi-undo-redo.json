@@ -1,0 +1,32 @@
+{
+	"id": "Kmiyh-pi-undo-redo",
+	"name": "Kmiyh-pi-undo-redo",
+	"url": "https://github.com/Kmiyh/pi-undo-redo",
+	"source": "github-search",
+	"description": "Pi extension that adds branch-aware /undo and /redo for agent-driven file changes",
+	"metadata": {
+		"description": "Pi extension that adds branch-aware /undo and /redo for agent-driven file changes",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["pi-agent", "pi-extension", "pi-package", "redo", "undo"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/@kmiyh/pi-undo-redo",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-17T12:31:01Z",
+		"_readme_category_scores": {
+			"extension": 10,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

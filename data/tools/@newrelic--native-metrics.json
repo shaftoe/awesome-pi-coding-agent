@@ -1,0 +1,20 @@
+{
+	"id": "@newrelic/native-metrics",
+	"name": "@newrelic/native-metrics",
+	"url": "https://www.npmjs.com/package/@newrelic/native-metrics",
+	"source": "npm-search",
+	"description": "A module for generating metrics from V8.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@newrelic/native-metrics",
+		"description": "A module for generating metrics from V8.",
+		"keywords": ["newrelic", "gc", "metrics", "stats", "gc-stats", "gc stats", "gc metrics", "native-metrics", "native metrics"],
+		"version": "12.0.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

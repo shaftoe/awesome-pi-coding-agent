@@ -1,0 +1,32 @@
+{
+	"id": "njbrake-agent-of-empires",
+	"name": "njbrake-agent-of-empires",
+	"url": "https://github.com/njbrake/agent-of-empires",
+	"source": "github-search",
+	"description": "Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees.",
+	"metadata": {
+		"description": "Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees.",
+		"stars": 1653,
+		"forks": 128,
+		"language": "Rust",
+		"topics": ["ai-coding", "claude", "claude-code", "cli", "codex", "cursor", "factory-droid-cli", "gemini", "gemini-cli", "github-copilot-cli", "llm", "mistral-vibe", "opencode", "orchestrator", "pi", "rust", "terminal", "tmux", "vibe", "vibe-coding"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "http://www.agent-of-empires.com/",
+		"open_issues": 37,
+		"license": "MIT",
+		"last_commit": "2026-04-21T14:43:13Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 36,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

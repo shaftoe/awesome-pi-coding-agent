@@ -1,0 +1,36 @@
+{
+	"id": "pi-web-tools",
+	"name": "pi-web-tools",
+	"url": "https://www.npmjs.com/package/pi-web-tools",
+	"source": "npm-search",
+	"description": "Web search via Exa, content extraction, and GitHub repo cloning for Pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/coctostan/pi-web-tools",
+		"npm_name": "pi-web-tools",
+		"description": "Web search via Exa, content extraction, and GitHub repo cloning for Pi coding agent",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "extension", "web-search", "exa", "fetch", "github"],
+		"version": "0.1.0",
+		"stars": 1,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-25T15:14:38Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

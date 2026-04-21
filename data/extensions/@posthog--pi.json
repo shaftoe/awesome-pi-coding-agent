@@ -1,0 +1,36 @@
+{
+	"id": "@posthog/pi",
+	"name": "@posthog/pi",
+	"url": "https://www.npmjs.com/package/@posthog/pi",
+	"source": "npm-search",
+	"description": "PostHog LLM Analytics extension for pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/PostHog/posthog-pi",
+		"npm_name": "@posthog/pi",
+		"description": "PostHog LLM Analytics extension for pi coding agent",
+		"keywords": ["pi-package", "posthog", "ai", "llm", "observability", "tracing", "analytics"],
+		"version": "0.1.1",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-07T13:28:42Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 6,
+			"skill": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

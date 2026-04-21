@@ -1,0 +1,20 @@
+{
+	"id": "pi-sentry-monitor",
+	"name": "pi-sentry-monitor",
+	"url": "https://www.npmjs.com/package/pi-sentry-monitor",
+	"source": "npm-search",
+	"description": "Sentry AI Monitoring extension for pi coding agent sessions and tool calls",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-sentry-monitor",
+		"description": "Sentry AI Monitoring extension for pi coding agent sessions and tool calls",
+		"keywords": ["pi", "pi-package", "extension", "sentry", "observability", "ai-monitoring"],
+		"version": "0.1.12",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

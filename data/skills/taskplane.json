@@ -1,0 +1,36 @@
+{
+	"id": "taskplane",
+	"name": "taskplane",
+	"url": "https://www.npmjs.com/package/taskplane",
+	"source": "npm-search",
+	"description": "AI agent orchestration for pi — parallel task execution with checkpoint discipline",
+	"metadata": {
+		"github_url": "https://github.com/HenryLach/taskplane",
+		"npm_name": "taskplane",
+		"description": "AI agent orchestration for pi — parallel task execution with checkpoint discipline",
+		"keywords": ["pi-package", "ai", "agent", "orchestration", "task-runner", "parallel"],
+		"version": "0.28.4",
+		"stars": 115,
+		"forks": 3,
+		"open_issues": 16,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T00:31:36Z",
+		"topics": ["agent", "coding", "orchestration", "pi"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 3,
+			"tool": 14,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 82,
+		"level": "active"
+	},
+	"category": "skill"
+}

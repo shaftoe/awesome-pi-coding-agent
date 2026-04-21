@@ -1,0 +1,32 @@
+{
+	"id": "cjermain-pi-less-yolo",
+	"name": "cjermain-pi-less-yolo",
+	"url": "https://github.com/cjermain/pi-less-yolo",
+	"source": "github-search",
+	"description": "Slightly less YOLO version of pi-coding-agent in Docker container sandbox",
+	"metadata": {
+		"description": "Slightly less YOLO version of pi-coding-agent in Docker container sandbox",
+		"stars": 35,
+		"forks": 5,
+		"language": "Shell",
+		"topics": ["ai-coding", "ai-coding-agent", "ai-container", "ai-sandbox", "chainguard-images", "container", "docker", "mise", "mise-en-place", "pi-coding-agent", "sandbox"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 2,
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-21T01:51:41Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 8,
+			"theme": 0,
+			"provider": 7
+		}
+	},
+	"health": {
+		"score": 74,
+		"level": "active"
+	},
+	"category": "tool"
+}

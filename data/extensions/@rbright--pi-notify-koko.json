@@ -1,0 +1,36 @@
+{
+	"id": "@rbright/pi-notify-koko",
+	"name": "@rbright/pi-notify-koko",
+	"url": "https://www.npmjs.com/package/@rbright/pi-notify-koko",
+	"source": "npm-search",
+	"description": "Koko voice notifications for Pi agent turn completion.",
+	"metadata": {
+		"github_url": "https://github.com/rbright/pi-notify-koko",
+		"npm_name": "@rbright/pi-notify-koko",
+		"description": "Koko voice notifications for Pi agent turn completion.",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "notifications", "koko", "tts"],
+		"version": "0.1.2",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-20T07:15:08Z",
+		"topics": ["notifications", "pi-agent", "speech-to-text"],
+		"is_archived": true,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 10,
+		"level": "dead"
+	},
+	"category": "extension"
+}

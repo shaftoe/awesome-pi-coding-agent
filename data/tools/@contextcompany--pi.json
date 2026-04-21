@@ -1,0 +1,36 @@
+{
+	"id": "@contextcompany/pi",
+	"name": "@contextcompany/pi",
+	"url": "https://www.npmjs.com/package/@contextcompany/pi",
+	"source": "npm-search",
+	"description": "The Context Company instrumentation for Pi Agent SDK",
+	"metadata": {
+		"github_url": "https://github.com/The-Context-Company/observatory",
+		"npm_name": "@contextcompany/pi",
+		"description": "The Context Company instrumentation for Pi Agent SDK",
+		"keywords": ["pi", "pi-mono", "agent", "observability", "tracing", "monitoring", "context-company"],
+		"version": "1.1.1",
+		"stars": 119,
+		"forks": 11,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T08:37:28Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://docs.thecontext.company",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 82,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "pac-proxy-agent",
+	"name": "pac-proxy-agent",
+	"url": "https://www.npmjs.com/package/pac-proxy-agent",
+	"source": "npm-search",
+	"description": "A PAC file proxy `http.Agent` implementation for HTTP",
+	"metadata": {
+		"github_url": "https://github.com/TooTallNate/proxy-agents",
+		"npm_name": "pac-proxy-agent",
+		"description": "A PAC file proxy `http.Agent` implementation for HTTP",
+		"keywords": ["pac", "proxy", "agent", "http", "https", "socks", "request", "access"],
+		"version": "9.0.1",
+		"stars": 1135,
+		"forks": 276,
+		"open_issues": 40,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-17T00:52:51Z",
+		"topics": ["agent", "http", "https", "nodejs", "pac", "proxy", "socks"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://proxy-agents.n8.io",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

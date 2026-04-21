@@ -1,0 +1,36 @@
+{
+	"id": "pi-mempalace-extension",
+	"name": "pi-mempalace-extension",
+	"url": "https://www.npmjs.com/package/pi-mempalace-extension",
+	"source": "npm-search",
+	"description": "Lean MemPalace integration for the Pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/Auda29/pi-mempalace-extension",
+		"npm_name": "pi-mempalace-extension",
+		"description": "Lean MemPalace integration for the Pi coding agent",
+		"keywords": ["pi", "pi-package", "mempalace", "extension", "typescript"],
+		"version": "0.2.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T14:15:17Z",
+		"topics": ["mempalace", "pi-coding-agent"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/pi-mempalace-extension",
+		"_readme_category_scores": {
+			"extension": 16,
+			"skill": 0,
+			"tool": 12,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

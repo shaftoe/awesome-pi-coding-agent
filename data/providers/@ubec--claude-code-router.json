@@ -1,0 +1,20 @@
+{
+	"id": "@ubec/claude-code-router",
+	"name": "@ubec/claude-code-router",
+	"url": "https://www.npmjs.com/package/@ubec/claude-code-router",
+	"source": "npm-search",
+	"description": "Use Claude Code without an Anthropics account and route it to another LLM provider",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@ubec/claude-code-router",
+		"description": "Use Claude Code without an Anthropics account and route it to another LLM provider",
+		"keywords": ["claude", "code", "router", "llm", "anthropic"],
+		"version": "2.0.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

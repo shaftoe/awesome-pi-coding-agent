@@ -1,0 +1,36 @@
+{
+	"id": "pi-voice",
+	"name": "pi-voice",
+	"url": "https://www.npmjs.com/package/pi-voice",
+	"source": "npm-search",
+	"description": "Voice interface for pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/yukukotani/pi-voice",
+		"npm_name": "pi-voice",
+		"description": "Voice interface for pi coding agent",
+		"keywords": [],
+		"version": "0.4.0",
+		"stars": 45,
+		"forks": 4,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-13T04:52:50Z",
+		"topics": ["pi", "voice-ai"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 7
+		}
+	},
+	"health": {
+		"score": 65,
+		"level": "maintained"
+	},
+	"category": "skill"
+}

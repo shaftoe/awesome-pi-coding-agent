@@ -1,0 +1,36 @@
+{
+	"id": "pi-pkg-guard",
+	"name": "pi-pkg-guard",
+	"url": "https://www.npmjs.com/package/pi-pkg-guard",
+	"source": "npm-search",
+	"description": "A lightweight pi extension that guards against the 'orphaned package' trap where packages are installed via npm but not registered in pi's settings.json",
+	"metadata": {
+		"github_url": "https://github.com/alexleekt/pi-pkg-guard",
+		"npm_name": "pi-pkg-guard",
+		"description": "A lightweight pi extension that guards against the 'orphaned package' trap where packages are installed via npm but not registered in pi's settings.json",
+		"keywords": ["pi-package", "pi-extension", "pi-coding-agent", "package-manager", "guardrails", "npm", "extensions"],
+		"version": "0.8.0",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-19T07:28:24Z",
+		"topics": ["npm", "package-manager", "pi-coding-agent", "pi-extension", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

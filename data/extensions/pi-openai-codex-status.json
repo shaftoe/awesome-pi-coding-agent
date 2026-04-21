@@ -1,0 +1,36 @@
+{
+	"id": "pi-openai-codex-status",
+	"name": "pi-openai-codex-status",
+	"url": "https://www.npmjs.com/package/pi-openai-codex-status",
+	"source": "npm-search",
+	"description": "Pi extension that shows OpenAI usage for hourly and weekly subscription limits like Codex with a /status command.",
+	"metadata": {
+		"github_url": "https://github.com/NxcOP1891/pi-openai-codex-status",
+		"npm_name": "pi-openai-codex-status",
+		"description": "Pi extension that shows OpenAI usage for hourly and weekly subscription limits like Codex with a /status command.",
+		"keywords": ["pi-package", "pi-extension", "openai", "codex", "status"],
+		"version": "0.1.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-07T11:43:51Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

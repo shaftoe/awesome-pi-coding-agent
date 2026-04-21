@@ -1,0 +1,36 @@
+{
+	"id": "@tmustier/pi-skill-creator",
+	"name": "@tmustier/pi-skill-creator",
+	"url": "https://www.npmjs.com/package/@tmustier/pi-skill-creator",
+	"source": "npm-search",
+	"description": "Detailed guidance for creating Pi skills (Agent Skills format).",
+	"metadata": {
+		"github_url": "https://github.com/tmustier/pi-extensions",
+		"npm_name": "@tmustier/pi-skill-creator",
+		"description": "Detailed guidance for creating Pi skills (Agent Skills format).",
+		"keywords": ["pi-package"],
+		"version": "0.3.1",
+		"stars": 218,
+		"forks": 13,
+		"open_issues": 5,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T07:48:21Z",
+		"topics": ["extension", "npm", "pi", "pi-coding-agent"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.mustier.ai/projects/pi-extensions",
+		"_readme_category_scores": {
+			"extension": 26,
+			"skill": 7,
+			"tool": 2,
+			"theme": 1,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "skill"
+}

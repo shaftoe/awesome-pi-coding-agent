@@ -1,0 +1,36 @@
+{
+	"id": "pi-repoprompt-mcp",
+	"name": "pi-repoprompt-mcp",
+	"url": "https://www.npmjs.com/package/pi-repoprompt-mcp",
+	"source": "npm-search",
+	"description": "A token-efficient RepoPrompt integration for Pi with automated and branch-safe workspace management",
+	"metadata": {
+		"github_url": "https://github.com/w-winter/dot314",
+		"npm_name": "pi-repoprompt-mcp",
+		"description": "A token-efficient RepoPrompt integration for Pi with automated and branch-safe workspace management",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "repoprompt", "mcp"],
+		"version": "0.7.2",
+		"stars": 89,
+		"forks": 10,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T02:52:07Z",
+		"topics": ["pi", "pi-agent", "pi-coding-agent", "pi-extension", "pi-package", "repoprompt"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 44,
+			"skill": 11,
+			"tool": 9,
+			"theme": 5,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 79,
+		"level": "active"
+	},
+	"category": "skill"
+}

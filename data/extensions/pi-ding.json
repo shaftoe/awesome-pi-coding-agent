@@ -1,0 +1,36 @@
+{
+	"id": "pi-ding",
+	"name": "pi-ding",
+	"url": "https://www.npmjs.com/package/pi-ding",
+	"source": "npm-search",
+	"description": "pi extension: play a sound when the agent finishes a prompt",
+	"metadata": {
+		"github_url": "https://github.com/ninlds/pi-ding",
+		"npm_name": "pi-ding",
+		"description": "pi extension: play a sound when the agent finishes a prompt",
+		"keywords": ["pi-package", "pi", "pi-extension"],
+		"version": "0.2.2",
+		"stars": 4,
+		"forks": 1,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-01T21:02:18Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

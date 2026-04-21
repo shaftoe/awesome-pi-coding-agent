@@ -1,0 +1,36 @@
+{
+	"id": "pi-extension-raptor-mini",
+	"name": "pi-extension-raptor-mini",
+	"url": "https://www.npmjs.com/package/pi-extension-raptor-mini",
+	"source": "npm-search",
+	"description": "pi extension that adds GitHub Copilot's Raptor Mini (oswe-vscode-prime) model to pi's github-copilot provider.",
+	"metadata": {
+		"github_url": "https://github.com/WSeubring/pi-extension-raptor-mini",
+		"npm_name": "pi-extension-raptor-mini",
+		"description": "pi extension that adds GitHub Copilot's Raptor Mini (oswe-vscode-prime) model to pi's github-copilot provider.",
+		"keywords": ["pi", "pi-package", "extension", "github-copilot", "raptor-mini", "oswe-vscode-prime"],
+		"version": "0.1.1",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-13T11:56:43Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 14,
+			"skill": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

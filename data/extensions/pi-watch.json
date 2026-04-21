@@ -1,0 +1,36 @@
+{
+	"id": "pi-watch",
+	"name": "pi-watch",
+	"url": "https://www.npmjs.com/package/pi-watch",
+	"source": "npm-search",
+	"description": "Pi extension that watches for AI comments in your code and sends them to the agent",
+	"metadata": {
+		"github_url": "https://github.com/kaofelix/pi-watch",
+		"npm_name": "pi-watch",
+		"description": "Pi extension that watches for AI comments in your code and sends them to the agent",
+		"keywords": ["pi-package", "pi-extension", "ai", "file-watcher", "coding-agent"],
+		"version": "0.1.0",
+		"stars": 8,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-01-29T09:08:26Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,30 @@
+{
+	"id": "micromark-extension-frontmatter",
+	"name": "micromark-extension-frontmatter",
+	"url": "https://www.npmjs.com/package/micromark-extension-frontmatter",
+	"source": "npm-search",
+	"description": "micromark extension to support frontmatter (YAML, TOML, etc)",
+	"metadata": {
+		"github_url": "https://github.com/micromark/micromark-extension-frontmatter",
+		"npm_name": "micromark-extension-frontmatter",
+		"description": "micromark extension to support frontmatter (YAML, TOML, etc)",
+		"keywords": ["micromark", "micromark-extension", "frontmatter", "yaml", "toml", "gfm", "markdown", "unified"],
+		"version": "2.0.0",
+		"stars": 24,
+		"forks": 2,
+		"open_issues": 1,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2025-02-25T13:18:28Z",
+		"topics": ["frontmatter", "gfm", "markdown", "micromark", "micromark-extension", "toml", "yaml"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://unifiedjs.com",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 32,
+		"level": "stale"
+	},
+	"category": "extension"
+}

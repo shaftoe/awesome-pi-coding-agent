@@ -1,0 +1,36 @@
+{
+	"id": "@railway/cli",
+	"name": "@railway/cli",
+	"url": "https://www.npmjs.com/package/@railway/cli",
+	"source": "npm-search",
+	"description": "Develop and deploy code with zero configuration",
+	"metadata": {
+		"github_url": "https://github.com/railwayapp/cli",
+		"npm_name": "@railway/cli",
+		"description": "Develop and deploy code with zero configuration",
+		"keywords": [],
+		"version": "4.40.2",
+		"stars": 529,
+		"forks": 155,
+		"open_issues": 36,
+		"language": "Rust",
+		"license": "MIT",
+		"last_commit": "2026-04-21T13:58:37Z",
+		"topics": ["cli", "infrastructure", "railway"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://railway.com",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 11,
+			"tool": 25,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "skill"
+}

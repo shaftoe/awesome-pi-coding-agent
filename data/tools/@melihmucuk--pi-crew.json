@@ -1,0 +1,20 @@
+{
+	"id": "@melihmucuk/pi-crew",
+	"name": "@melihmucuk/pi-crew",
+	"url": "https://www.npmjs.com/package/@melihmucuk/pi-crew",
+	"source": "npm-search",
+	"description": "Non-blocking subagent orchestration for pi coding agent",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@melihmucuk/pi-crew",
+		"description": "Non-blocking subagent orchestration for pi coding agent",
+		"keywords": ["pi-package", "ai", "agents", "subagent", "orchestration", "coding-agent"],
+		"version": "1.0.12",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

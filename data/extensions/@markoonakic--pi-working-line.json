@@ -1,0 +1,36 @@
+{
+	"id": "@markoonakic/pi-working-line",
+	"name": "@markoonakic/pi-working-line",
+	"url": "https://www.npmjs.com/package/@markoonakic/pi-working-line",
+	"source": "npm-search",
+	"description": "Claude-style working message phrases and elapsed timer for Pi.",
+	"metadata": {
+		"github_url": "https://github.com/markoonakic/pi-working-line",
+		"npm_name": "@markoonakic/pi-working-line",
+		"description": "Claude-style working message phrases and elapsed timer for Pi.",
+		"keywords": ["pi-package", "pi", "pi-extension", "working-message", "spinner"],
+		"version": "0.1.3",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-13T05:04:05Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/@markoonakic/pi-working-line",
+		"_readme_category_scores": {
+			"extension": 7,
+			"skill": 0,
+			"tool": 0,
+			"theme": 1,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

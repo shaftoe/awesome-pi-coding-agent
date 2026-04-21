@@ -1,0 +1,36 @@
+{
+	"id": "pi-skills-sh",
+	"name": "pi-skills-sh",
+	"url": "https://www.npmjs.com/package/pi-skills-sh",
+	"source": "npm-search",
+	"description": "Browse, install & manage skills.sh skills from inside pi",
+	"metadata": {
+		"github_url": "https://github.com/jal-co/pi-skills-sh",
+		"npm_name": "pi-skills-sh",
+		"description": "Browse, install & manage skills.sh skills from inside pi",
+		"keywords": ["pi-package", "skills", "skills.sh", "agent-skills"],
+		"version": "0.2.1",
+		"stars": 7,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-13T17:37:33Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 38,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "skill"
+}

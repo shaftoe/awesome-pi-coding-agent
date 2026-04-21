@@ -1,0 +1,32 @@
+{
+	"id": "samfoy-pi-session-search",
+	"name": "samfoy-pi-session-search",
+	"url": "https://github.com/samfoy/pi-session-search",
+	"source": "github-search",
+	"description": "Semantic search over past pi coding sessions — index, browse, and read your coding history",
+	"metadata": {
+		"description": "Semantic search over past pi coding sessions — index, browse, and read your coding history",
+		"stars": 3,
+		"forks": 1,
+		"language": "TypeScript",
+		"topics": ["ai-coding-agent", "developer-tools", "pi-coding-agent", "semantic-search", "session-history"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 1,
+		"license": "MIT",
+		"last_commit": "2026-04-21T13:59:25Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 6
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

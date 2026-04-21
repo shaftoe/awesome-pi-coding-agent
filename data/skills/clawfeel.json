@@ -1,0 +1,36 @@
+{
+	"id": "clawfeel",
+	"name": "clawfeel",
+	"url": "https://www.npmjs.com/package/clawfeel",
+	"source": "npm-search",
+	"description": "Your Claw's Heartbeat — hardware-entropy random number generator with security hardening",
+	"metadata": {
+		"github_url": "https://github.com/clawfeel/clawfeel",
+		"npm_name": "clawfeel",
+		"description": "Your Claw's Heartbeat — hardware-entropy random number generator with security hardening",
+		"keywords": ["entropy", "random", "hardware", "sha256", "decentralized", "openclaw", "three-body", "security"],
+		"version": "0.11.3",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2026-03-30T03:49:55Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://clawfeel-one.vercel.app",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 2,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

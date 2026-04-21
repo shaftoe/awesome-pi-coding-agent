@@ -1,0 +1,36 @@
+{
+	"id": "pi-screenshots-picker",
+	"name": "pi-screenshots-picker",
+	"url": "https://www.npmjs.com/package/pi-screenshots-picker",
+	"source": "npm-search",
+	"description": "Screenshot picker extension for pi coding agent - quickly select and attach screenshots to your prompts",
+	"metadata": {
+		"github_url": "https://github.com/Graffioh/pi-screenshots-picker",
+		"npm_name": "pi-screenshots-picker",
+		"description": "Screenshot picker extension for pi coding agent - quickly select and attach screenshots to your prompts",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "extension", "screenshots", "macos", "linux", "image", "attachment", "picker", "tui", "claude", "gemini", "codex"],
+		"version": "1.2.1",
+		"stars": 19,
+		"forks": 3,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-07T08:56:14Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/pi-screenshots-picker",
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 62,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

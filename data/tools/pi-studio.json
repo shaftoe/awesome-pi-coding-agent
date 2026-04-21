@@ -1,0 +1,36 @@
+{
+	"id": "pi-studio",
+	"name": "pi-studio",
+	"url": "https://www.npmjs.com/package/pi-studio",
+	"source": "npm-search",
+	"description": "Two-pane browser workspace for pi with prompt/response editing, annotations, critiques, prompt/response history, and live Markdown/LaTeX/code preview",
+	"metadata": {
+		"github_url": "https://github.com/omaclaren/pi-studio",
+		"npm_name": "pi-studio",
+		"description": "Two-pane browser workspace for pi with prompt/response editing, annotations, critiques, prompt/response history, and live Markdown/LaTeX/code preview",
+		"keywords": ["pi-package"],
+		"version": "0.5.56",
+		"stars": 92,
+		"forks": 2,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2026-04-15T11:42:35Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 3,
+			"theme": 1,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 79,
+		"level": "active"
+	},
+	"category": "tool"
+}

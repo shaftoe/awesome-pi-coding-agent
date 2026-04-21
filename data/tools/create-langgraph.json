@@ -1,0 +1,20 @@
+{
+	"id": "create-langgraph",
+	"name": "create-langgraph",
+	"url": "https://www.npmjs.com/package/create-langgraph",
+	"source": "npm-search",
+	"description": "Create a new LangGraph project",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "create-langgraph",
+		"description": "Create a new LangGraph project",
+		"keywords": [],
+		"version": "1.1.5",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

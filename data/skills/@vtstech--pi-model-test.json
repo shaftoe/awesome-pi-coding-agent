@@ -1,0 +1,36 @@
+{
+	"id": "@vtstech/pi-model-test",
+	"name": "@vtstech/pi-model-test",
+	"url": "https://www.npmjs.com/package/@vtstech/pi-model-test",
+	"source": "npm-search",
+	"description": "Model benchmark/testing extension for Pi Coding Agent",
+	"metadata": {
+		"github_url": "https://github.com/VTSTech/pi-coding-agent",
+		"npm_name": "@vtstech/pi-model-test",
+		"description": "Model benchmark/testing extension for Pi Coding Agent",
+		"keywords": ["pi-extensions"],
+		"version": "1.2.0",
+		"stars": 4,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-16T02:32:56Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 30,
+			"skill": 1,
+			"tool": 5,
+			"theme": 18,
+			"provider": 48
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

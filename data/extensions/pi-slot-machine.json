@@ -1,0 +1,20 @@
+{
+	"id": "pi-slot-machine",
+	"name": "pi-slot-machine",
+	"url": "https://www.npmjs.com/package/pi-slot-machine",
+	"source": "npm-search",
+	"description": "A pi extension that spins a slot machine overlay every time you send a prompt. Hit the jackpot for a fireworks explosion! 🎰",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-slot-machine",
+		"description": "A pi extension that spins a slot machine overlay every time you send a prompt. Hit the jackpot for a fireworks explosion! 🎰",
+		"keywords": ["pi-package", "pi-extension"],
+		"version": "1.0.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

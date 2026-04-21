@@ -1,0 +1,20 @@
+{
+	"id": "@vscode/proxy-agent",
+	"name": "@vscode/proxy-agent",
+	"url": "https://www.npmjs.com/package/@vscode/proxy-agent",
+	"source": "npm-search",
+	"description": "NodeJS http(s) agent implementation for VS Code",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@vscode/proxy-agent",
+		"description": "NodeJS http(s) agent implementation for VS Code",
+		"keywords": ["proxy", "agent", "http", "https", "socks", "request", "access"],
+		"version": "0.41.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

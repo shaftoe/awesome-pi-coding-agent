@@ -1,0 +1,36 @@
+{
+	"id": "@tintinweb/pi-subagents",
+	"name": "@tintinweb/pi-subagents",
+	"url": "https://www.npmjs.com/package/@tintinweb/pi-subagents",
+	"source": "npm-search",
+	"description": "A pi extension extension that brings smart Claude Code-style autonomous sub-agents to pi.",
+	"metadata": {
+		"github_url": "https://github.com/tintinweb/pi-subagents",
+		"npm_name": "@tintinweb/pi-subagents",
+		"description": "A pi extension extension that brings smart Claude Code-style autonomous sub-agents to pi.",
+		"keywords": ["pi-package", "pi", "pi-extension", "subagent", "agent", "autonomous"],
+		"version": "0.5.2",
+		"stars": 176,
+		"forks": 31,
+		"open_issues": 11,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-26T22:46:39Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/@tintinweb/pi-subagents",
+		"_readme_category_scores": {
+			"extension": 21,
+			"skill": 18,
+			"tool": 2,
+			"theme": 2,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 88,
+		"level": "active"
+	},
+	"category": "skill"
+}

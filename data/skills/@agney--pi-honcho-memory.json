@@ -1,0 +1,36 @@
+{
+	"id": "@agney/pi-honcho-memory",
+	"name": "@agney/pi-honcho-memory",
+	"url": "https://www.npmjs.com/package/@agney/pi-honcho-memory",
+	"source": "npm-search",
+	"description": "Honcho persistent memory extension for pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/agneym/pi-honcho-memory",
+		"npm_name": "@agney/pi-honcho-memory",
+		"description": "Honcho persistent memory extension for pi coding agent",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"stars": 11,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-26T05:57:26Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 4,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "skill"
+}

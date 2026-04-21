@@ -1,0 +1,32 @@
+{
+	"id": "robzolkos-LazyPi",
+	"name": "robzolkos-LazyPi",
+	"url": "https://github.com/robzolkos/LazyPi",
+	"source": "github-search",
+	"description": "Pi coding agent setup for the lazy",
+	"metadata": {
+		"description": "Pi coding agent setup for the lazy",
+		"stars": 76,
+		"forks": 2,
+		"language": "JavaScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://lazypi.org",
+		"open_issues": 1,
+		"license": "MIT",
+		"last_commit": "2026-04-21T15:48:47Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 7,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 78,
+		"level": "active"
+	},
+	"category": "theme"
+}

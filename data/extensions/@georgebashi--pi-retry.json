@@ -1,0 +1,36 @@
+{
+	"id": "@georgebashi/pi-retry",
+	"name": "@georgebashi/pi-retry",
+	"url": "https://www.npmjs.com/package/@georgebashi/pi-retry",
+	"source": "npm-search",
+	"description": "pi extension: auto-retry transient streaming errors + /retry command",
+	"metadata": {
+		"github_url": "https://github.com/georgebashi/pi-retry",
+		"npm_name": "@georgebashi/pi-retry",
+		"description": "pi extension: auto-retry transient streaming errors + /retry command",
+		"keywords": ["pi-package", "retry", "streaming", "error-handling"],
+		"version": "0.1.1",
+		"stars": 2,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-19T23:56:38Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "Piebald-AI-splitrail",
+	"name": "Piebald-AI-splitrail",
+	"url": "https://github.com/Piebald-AI/splitrail",
+	"source": "github-search",
+	"description": "Fast, cross-platform, real-time token usage tracker and cost monitor for Gemini CLI / Claude Code / Codex CLI / Qwen Code / Cline / Roo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent / Piebald.",
+	"metadata": {
+		"description": "Fast, cross-platform, real-time token usage tracker and cost monitor for Gemini CLI / Claude Code / Codex CLI / Qwen Code / Cline / Roo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent / Piebald.",
+		"stars": 164,
+		"forks": 16,
+		"language": "Rust",
+		"topics": ["agentic", "analyzer", "blazing-fast", "ccusage", "claude-code", "cline", "codex", "gcusage", "gemini-cli", "kilo-code", "opencode", "pi-agent", "piebald", "qwen", "qwen-code", "ravishing", "roo-code", "rust", "splitrail", "usage"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://splitrail.dev",
+		"open_issues": 7,
+		"license": "MIT",
+		"last_commit": "2026-04-21T13:52:54Z",
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 0,
+			"tool": 12,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 86,
+		"level": "active"
+	},
+	"category": "tool"
+}

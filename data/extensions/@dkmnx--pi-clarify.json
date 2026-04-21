@@ -1,0 +1,36 @@
+{
+	"id": "@dkmnx/pi-clarify",
+	"name": "@dkmnx/pi-clarify",
+	"url": "https://www.npmjs.com/package/@dkmnx/pi-clarify",
+	"source": "npm-search",
+	"description": "Prompt clarification extension for pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/dkmnx/pi-clarify",
+		"npm_name": "@dkmnx/pi-clarify",
+		"description": "Prompt clarification extension for pi coding agent",
+		"keywords": ["pi-package", "pi-extension", "pi-coding-agent", "pi-clarify", "extension", "prompt"],
+		"version": "0.1.4",
+		"stars": 1,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T07:17:20Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

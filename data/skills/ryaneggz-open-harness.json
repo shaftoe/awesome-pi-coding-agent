@@ -1,0 +1,32 @@
+{
+	"id": "ryaneggz-open-harness",
+	"name": "ryaneggz-open-harness",
+	"url": "https://github.com/ryaneggz/open-harness",
+	"source": "github-search",
+	"description": "🏗️ Multi-Layer Isolated Sandbox for AI Coding Agents. BYOH (Bring Your Own Harness)",
+	"metadata": {
+		"description": "🏗️ Multi-Layer Isolated Sandbox for AI Coding Agents. BYOH (Bring Your Own Harness)",
+		"stars": 10,
+		"forks": 2,
+		"language": "TypeScript",
+		"topics": ["agent", "ai", "claude", "claude-code", "codex", "deepagents", "docker", "gemini-cli", "langchain", "nvidia", "openai", "openclaw", "openshell", "pi", "pi-mono", "sandbox"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://oh.ruska.dev",
+		"open_issues": 10,
+		"license": "MIT",
+		"last_commit": "2026-04-21T05:51:32Z",
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 6,
+			"tool": 81,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "skill"
+}

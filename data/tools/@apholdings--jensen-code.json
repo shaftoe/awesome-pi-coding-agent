@@ -1,0 +1,36 @@
+{
+	"id": "@apholdings/jensen-code",
+	"name": "@apholdings/jensen-code",
+	"url": "https://www.npmjs.com/package/@apholdings/jensen-code",
+	"source": "npm-search",
+	"description": "Coding agent CLI with read, bash, edit, write tools and session management",
+	"metadata": {
+		"github_url": "https://github.com/apholdings/jensen-code",
+		"npm_name": "@apholdings/jensen-code",
+		"description": "Coding agent CLI with read, bash, edit, write tools and session management",
+		"keywords": ["coding-agent", "ai", "llm", "cli", "tui", "agent"],
+		"version": "1.0.5",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T22:46:02Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 40,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

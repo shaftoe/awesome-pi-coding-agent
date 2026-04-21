@@ -1,0 +1,32 @@
+{
+	"id": "butttons-pi-kit",
+	"name": "butttons-pi-kit",
+	"url": "https://github.com/butttons/pi-kit",
+	"source": "github-search",
+	"description": "Personal pi coding agent extensions and skills",
+	"metadata": {
+		"description": "Personal pi coding agent extensions and skills",
+		"stars": 30,
+		"forks": 1,
+		"language": "TypeScript",
+		"topics": ["coding-agent", "pi-coding-agent", "pi-extensions", "pi-package", "pi-skills", "pi-themes"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-19T08:01:29Z",
+		"_readme_category_scores": {
+			"extension": 11,
+			"skill": 9,
+			"tool": 8,
+			"theme": 5,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "skill"
+}

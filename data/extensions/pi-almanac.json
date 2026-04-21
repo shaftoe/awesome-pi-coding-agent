@@ -1,0 +1,20 @@
+{
+	"id": "pi-almanac",
+	"name": "pi-almanac",
+	"url": "https://www.npmjs.com/package/pi-almanac",
+	"source": "npm-search",
+	"description": "Pi extension for exporting current session JSONL files for cross-machine resume workflows",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-almanac",
+		"description": "Pi extension for exporting current session JSONL files for cross-machine resume workflows",
+		"keywords": ["pi-package", "pi-extension", "almanac", "session", "jsonl"],
+		"version": "0.1.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

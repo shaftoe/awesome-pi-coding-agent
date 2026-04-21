@@ -1,0 +1,36 @@
+{
+	"id": "@pizzapi/pizza",
+	"name": "@pizzapi/pizza",
+	"url": "https://www.npmjs.com/package/@pizzapi/pizza",
+	"source": "npm-search",
+	"description": "PizzaPi — a self-hosted web interface and relay server for the pi coding agent. Stream live AI coding sessions to any browser.",
+	"metadata": {
+		"github_url": "https://github.com/Pizzaface/PizzaPi",
+		"npm_name": "@pizzapi/pizza",
+		"description": "PizzaPi — a self-hosted web interface and relay server for the pi coding agent. Stream live AI coding sessions to any browser.",
+		"keywords": ["ai", "coding-agent", "cli", "pi", "pizzapi", "llm", "anthropic", "claude", "gemini"],
+		"version": "0.5.0",
+		"stars": 8,
+		"forks": 3,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-21T02:21:59Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://pizzaface.github.io/PizzaPi/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

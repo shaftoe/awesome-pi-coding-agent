@@ -1,0 +1,20 @@
+{
+	"id": "@rwese/pi-question",
+	"name": "@rwese/pi-question",
+	"url": "https://www.npmjs.com/package/@rwese/pi-question",
+	"source": "npm-search",
+	"description": "Unified question tool for pi coding agent - single or multi-question interactions with optional notes and custom input support",
+	"metadata": {
+		"github_url": "https://github.com/rwese/pi-question",
+		"npm_name": "@rwese/pi-question",
+		"description": "Unified question tool for pi coding agent - single or multi-question interactions with optional notes and custom input support",
+		"keywords": ["pi-package", "pi-extension", "question", "ui", "interactive"],
+		"version": "0.4.4",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

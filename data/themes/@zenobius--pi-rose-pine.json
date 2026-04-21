@@ -1,0 +1,20 @@
+{
+	"id": "@zenobius/pi-rose-pine",
+	"name": "@zenobius/pi-rose-pine",
+	"url": "https://www.npmjs.com/package/@zenobius/pi-rose-pine",
+	"source": "npm-search",
+	"description": "Rose Pine themes for Pi Coding Agent",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@zenobius/pi-rose-pine",
+		"description": "Rose Pine themes for Pi Coding Agent",
+		"keywords": ["pi-package"],
+		"version": "0.0.2",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "theme"
+}

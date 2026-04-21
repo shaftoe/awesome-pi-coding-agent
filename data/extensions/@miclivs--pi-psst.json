@@ -1,0 +1,36 @@
+{
+	"id": "@miclivs/pi-psst",
+	"name": "@miclivs/pi-psst",
+	"url": "https://www.npmjs.com/package/@miclivs/pi-psst",
+	"source": "npm-search",
+	"description": "Pi extension that injects psst vault secrets into bash and scrubs them from output",
+	"metadata": {
+		"github_url": "https://github.com/Michaelliv/pi-psst",
+		"npm_name": "@miclivs/pi-psst",
+		"description": "Pi extension that injects psst vault secrets into bash and scrubs them from output",
+		"keywords": ["pi-package"],
+		"version": "0.2.0",
+		"stars": 29,
+		"forks": 1,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-16T17:31:21Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 0,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "extension"
+}

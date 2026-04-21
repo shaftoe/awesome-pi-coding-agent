@@ -1,0 +1,36 @@
+{
+	"id": "@lexical/extension",
+	"name": "@lexical/extension",
+	"url": "https://www.npmjs.com/package/@lexical/extension",
+	"source": "npm-search",
+	"description": "This package provides the extension functionality for Lexical.",
+	"metadata": {
+		"github_url": "https://github.com/facebook/lexical",
+		"npm_name": "@lexical/extension",
+		"description": "This package provides the extension functionality for Lexical.",
+		"keywords": ["lexical", "editor", "extension", "plugin"],
+		"version": "0.43.0",
+		"stars": 23294,
+		"forks": 2129,
+		"open_issues": 536,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T04:00:25Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://lexical.dev",
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "extension"
+}

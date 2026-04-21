@@ -1,0 +1,36 @@
+{
+	"id": "cc-grammar",
+	"name": "cc-grammar",
+	"url": "https://www.npmjs.com/package/cc-grammar",
+	"source": "npm-search",
+	"description": "Grammar checking for coding agents — Claude Code, Pi, Codex CLI, Gemini CLI",
+	"metadata": {
+		"github_url": "https://github.com/lienminhquang/claude-grammar",
+		"npm_name": "cc-grammar",
+		"description": "Grammar checking for coding agents — Claude Code, Pi, Codex CLI, Gemini CLI",
+		"keywords": ["claude", "claude-code", "grammar", "spelling", "hook", "statusline", "pi-package", "pi-extension", "codex", "gemini-cli", "coding-agent"],
+		"version": "0.5.2",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2026-04-18T02:57:01Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 9,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

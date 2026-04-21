@@ -1,0 +1,36 @@
+{
+	"id": "pi-poly-notify",
+	"name": "pi-poly-notify",
+	"url": "https://www.npmjs.com/package/pi-poly-notify",
+	"source": "npm-search",
+	"description": "Highly configurable desktop/sound/Pushover notifications when Pi agent turn finishes and took longer than a definable threshold",
+	"metadata": {
+		"github_url": "https://github.com/w-winter/dot314",
+		"npm_name": "pi-poly-notify",
+		"description": "Highly configurable desktop/sound/Pushover notifications when Pi agent turn finishes and took longer than a definable threshold",
+		"keywords": ["pi-package", "pi", "pi-coding-agent"],
+		"version": "0.1.2",
+		"stars": 89,
+		"forks": 10,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T02:52:07Z",
+		"topics": ["pi", "pi-agent", "pi-coding-agent", "pi-extension", "pi-package", "repoprompt"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 44,
+			"skill": 11,
+			"tool": 9,
+			"theme": 5,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 79,
+		"level": "active"
+	},
+	"category": "skill"
+}

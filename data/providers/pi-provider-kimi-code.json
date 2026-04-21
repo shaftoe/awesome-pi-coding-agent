@@ -1,0 +1,36 @@
+{
+	"id": "pi-provider-kimi-code",
+	"name": "pi-provider-kimi-code",
+	"url": "https://www.npmjs.com/package/pi-provider-kimi-code",
+	"source": "npm-search",
+	"description": "Pi extension for Kimi Code — reuse your Kimi Code Plan in pi-coding-agent (K2.6, K2.5)",
+	"metadata": {
+		"github_url": "https://github.com/Leechael/pi-provider-kimi-code",
+		"npm_name": "pi-provider-kimi-code",
+		"description": "Pi extension for Kimi Code — reuse your Kimi Code Plan in pi-coding-agent (K2.6, K2.5)",
+		"keywords": ["pi-package", "pi-extension", "pi-provider", "pi", "pi-coding-agent", "pi-mono", "coding-agent", "ai-provider", "llm", "llm-provider", "kimi", "kimi-for-coding", "kimi-coder", "kimi-k2", "kimi-k2.6", "kimi-k2.5", "moonshot", "moonshotai", "oauth", "device-code", "subscription"],
+		"version": "0.3.0",
+		"stars": 8,
+		"forks": 1,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T16:38:35Z",
+		"topics": ["k2-5", "k2-6", "kimi", "kimi-code", "moonshot", "pi-coding-agent", "pi-extension"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 10,
+			"skill": 0,
+			"tool": 18,
+			"theme": 0,
+			"provider": 16
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "pi-skill-toggle",
+	"name": "pi-skill-toggle",
+	"url": "https://www.npmjs.com/package/pi-skill-toggle",
+	"source": "npm-search",
+	"description": "Enable/disable skills from loading into pi context at startup",
+	"metadata": {
+		"github_url": "https://github.com/Whamp/pi-skill-toggle",
+		"npm_name": "pi-skill-toggle",
+		"description": "Enable/disable skills from loading into pi context at startup",
+		"keywords": ["pi-package"],
+		"version": "1.0.1",
+		"stars": 9,
+		"forks": 1,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-02T03:52:34Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 41,
+			"tool": 0,
+			"theme": 2,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "skill"
+}

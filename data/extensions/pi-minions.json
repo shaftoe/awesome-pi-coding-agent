@@ -1,0 +1,36 @@
+{
+	"id": "pi-minions",
+	"name": "pi-minions",
+	"url": "https://www.npmjs.com/package/pi-minions",
+	"source": "npm-search",
+	"description": "Minimal recursive subagent orchestration for pi. No bundled agents, no opinions.",
+	"metadata": {
+		"github_url": "https://github.com/kalindudc/pi-minions",
+		"npm_name": "pi-minions",
+		"description": "Minimal recursive subagent orchestration for pi. No bundled agents, no opinions.",
+		"keywords": ["pi-package", "pi", "pi-extension", "subagent", "agent", "orchestration"],
+		"version": "0.16.2",
+		"stars": 8,
+		"forks": 3,
+		"open_issues": 5,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-18T15:51:12Z",
+		"topics": ["npm", "npm-package", "pi", "pi-coding-agent", "pi-extension", "pi-mono", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/pi-minions",
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "aion-connector",
+	"name": "aion-connector",
+	"url": "https://www.npmjs.com/package/aion-connector",
+	"source": "npm-search",
+	"description": "Universal connector for remote AI agents in AION",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "aion-connector",
+		"description": "Universal connector for remote AI agents in AION",
+		"keywords": [],
+		"version": "0.3.3",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

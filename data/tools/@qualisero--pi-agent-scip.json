@@ -1,0 +1,36 @@
+{
+	"id": "@qualisero/pi-agent-scip",
+	"name": "@qualisero/pi-agent-scip",
+	"url": "https://www.npmjs.com/package/@qualisero/pi-agent-scip",
+	"source": "npm-search",
+	"description": "SCIP code intelligence tools for pi-coding-agent (Python, TypeScript/JavaScript)",
+	"metadata": {
+		"github_url": "https://github.com/qualisero/pi-agent-scip",
+		"npm_name": "@qualisero/pi-agent-scip",
+		"description": "SCIP code intelligence tools for pi-coding-agent (Python, TypeScript/JavaScript)",
+		"keywords": ["pi", "scip", "code-intelligence", "python", "typescript", "javascript"],
+		"version": "0.3.0",
+		"stars": 3,
+		"forks": 1,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-01-26T09:30:15Z",
+		"topics": [],
+		"is_archived": true,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 10,
+		"level": "dead"
+	},
+	"category": "tool"
+}

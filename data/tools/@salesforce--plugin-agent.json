@@ -1,0 +1,36 @@
+{
+	"id": "@salesforce/plugin-agent",
+	"name": "@salesforce/plugin-agent",
+	"url": "https://www.npmjs.com/package/@salesforce/plugin-agent",
+	"source": "npm-search",
+	"description": "Commands to interact with Salesforce agents",
+	"metadata": {
+		"github_url": "https://github.com/salesforcecli/plugin-agent",
+		"npm_name": "@salesforce/plugin-agent",
+		"description": "Commands to interact with Salesforce agents",
+		"keywords": ["force", "salesforce", "salesforcedx", "sf", "sf-plugin", "sfdx", "sfdx-plugin"],
+		"version": "1.32.20",
+		"stars": 9,
+		"forks": 3,
+		"open_issues": 4,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-20T21:30:50Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 0,
+			"tool": 57,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

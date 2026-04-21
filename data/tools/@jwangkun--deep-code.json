@@ -1,0 +1,20 @@
+{
+	"id": "@jwangkun/deep-code",
+	"name": "@jwangkun/deep-code",
+	"url": "https://www.npmjs.com/package/@jwangkun/deep-code",
+	"source": "npm-search",
+	"description": "基于 DeepSeek API 的 AI 编程智能体，集成 pi-coding-agent 和生成式 UI",
+	"metadata": {
+		"github_url": "https://github.com/jwangkun/deep-code",
+		"npm_name": "@jwangkun/deep-code",
+		"description": "基于 DeepSeek API 的 AI 编程智能体，集成 pi-coding-agent 和生成式 UI",
+		"keywords": ["ai", "code-assistant", "deepseek", "cli", "agent", "coding-agent", "generative-ui"],
+		"version": "1.0.5",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

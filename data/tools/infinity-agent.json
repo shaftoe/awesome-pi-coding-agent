@@ -1,0 +1,30 @@
+{
+	"id": "infinity-agent",
+	"name": "infinity-agent",
+	"url": "https://www.npmjs.com/package/infinity-agent",
+	"source": "npm-search",
+	"description": "Creates HTTP/HTTPS Agent with Infinity maxSockets",
+	"metadata": {
+		"github_url": "https://github.com/floatdrop/infinity-agent",
+		"npm_name": "infinity-agent",
+		"description": "Creates HTTP/HTTPS Agent with Infinity maxSockets",
+		"keywords": ["http", "https", "agent", "maxSockets"],
+		"version": "2.0.3",
+		"stars": 11,
+		"forks": 3,
+		"open_issues": 3,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2015-04-20T17:12:57Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 31,
+		"level": "stale"
+	},
+	"category": "tool"
+}

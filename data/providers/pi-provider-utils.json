@@ -1,0 +1,36 @@
+{
+	"id": "pi-provider-utils",
+	"name": "pi-provider-utils",
+	"url": "https://www.npmjs.com/package/pi-provider-utils",
+	"source": "npm-search",
+	"description": "Shared provider mirror, stream, and agent-path helpers for Pi extension packages",
+	"metadata": {
+		"github_url": "https://github.com/victor-software-house/pi-provider-utils",
+		"npm_name": "pi-provider-utils",
+		"description": "Shared provider mirror, stream, and agent-path helpers for Pi extension packages",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "provider", "stream", "utilities"],
+		"version": "0.0.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-27T23:56:18Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 29
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

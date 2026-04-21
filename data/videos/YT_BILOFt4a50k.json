@@ -1,0 +1,19 @@
+{
+	"id": "YT_BILOFt4a50k",
+	"name": "Pi Coding Agent - Oneshot Updating an Extension with Pi - CLI Streaming Mode (pi -p --stream=all)",
+	"url": "https://www.youtube.com/watch?v=BILOFt4a50k",
+	"source": "youtube-search",
+	"description": "This isn't a fancy demo, just something I created to show people new to Pi, or are interested with Pi. The extension system in Pi is ...",
+	"metadata": {
+		"title": "Pi Coding Agent - Oneshot Updating an Extension with Pi - CLI Streaming Mode (pi -p --stream=all)",
+		"description": "This isn't a fancy demo, just something I created to show people new to Pi, or are interested with Pi. The extension system in Pi is ...",
+		"channel": "Lotus Creation Concepts",
+		"published_at": "2026-04-12T09:06:08Z",
+		"thumbnail": "https://i.ytimg.com/vi/BILOFt4a50k/hqdefault.jpg"
+	},
+	"health": {
+		"score": 0,
+		"level": "stale"
+	},
+	"category": "video"
+}

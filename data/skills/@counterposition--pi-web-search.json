@@ -1,0 +1,36 @@
+{
+	"id": "@counterposition/pi-web-search",
+	"name": "@counterposition/pi-web-search",
+	"url": "https://www.npmjs.com/package/@counterposition/pi-web-search",
+	"source": "npm-search",
+	"description": "Multi-provider web search and markdown page fetch for Pi",
+	"metadata": {
+		"github_url": "https://github.com/counterposition/pi",
+		"npm_name": "@counterposition/pi-web-search",
+		"description": "Multi-provider web search and markdown page fetch for Pi",
+		"keywords": ["brave-search", "exa", "pi-extension", "pi-package", "search", "tavily", "web-search"],
+		"version": "0.4.0",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "GPL-3.0",
+		"last_commit": "2026-04-07T03:10:47Z",
+		"topics": ["agent-skills", "ai-agent", "pi", "pi-coding-agent", "skills", "typescript", "web-search"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 29,
+			"tool": 1,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

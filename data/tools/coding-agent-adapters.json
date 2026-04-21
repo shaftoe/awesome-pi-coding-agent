@@ -1,0 +1,36 @@
+{
+	"id": "coding-agent-adapters",
+	"name": "coding-agent-adapters",
+	"url": "https://www.npmjs.com/package/coding-agent-adapters",
+	"source": "npm-search",
+	"description": "CLI adapters for AI coding agents - Claude Code, Gemini CLI, OpenAI Codex, Aider, and Hermes Agent",
+	"metadata": {
+		"github_url": "https://github.com/HaruHunab1320/parallax",
+		"npm_name": "coding-agent-adapters",
+		"description": "CLI adapters for AI coding agents - Claude Code, Gemini CLI, OpenAI Codex, Aider, and Hermes Agent",
+		"keywords": ["cli", "adapters", "claude", "gemini", "codex", "aider", "hermes", "ai-agents", "coding-agents", "pty-manager"],
+		"version": "0.16.3",
+		"stars": 4,
+		"forks": 0,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-07T18:16:05Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://parallaxai.dev",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 14,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@joemccann/pi-exa",
+	"name": "@joemccann/pi-exa",
+	"url": "https://www.npmjs.com/package/@joemccann/pi-exa",
+	"source": "npm-search",
+	"description": "Exa AI semantic search and similarity tools for pi coding agent — search the web by meaning, find similar pages, filter by domain/date/category",
+	"metadata": {
+		"github_url": "https://github.com/joemccann/pi-exa",
+		"npm_name": "@joemccann/pi-exa",
+		"description": "Exa AI semantic search and similarity tools for pi coding agent — search the web by meaning, find similar pages, filter by domain/date/category",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "extension", "skill", "exa", "exa-ai", "semantic-search", "web-search", "search"],
+		"version": "1.0.0",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-22T18:13:19Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

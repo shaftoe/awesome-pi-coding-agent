@@ -1,0 +1,20 @@
+{
+	"id": "checkpoint-pi",
+	"name": "checkpoint-pi",
+	"url": "https://www.npmjs.com/package/checkpoint-pi",
+	"source": "npm-search",
+	"description": "Git-based checkpoint extension for pi-coding-agent - creates checkpoints at each turn for code state restoration",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "checkpoint-pi",
+		"description": "Git-based checkpoint extension for pi-coding-agent - creates checkpoints at each turn for code state restoration",
+		"keywords": ["git", "checkpoint", "pi-coding-agent", "extension", "pi-package"],
+		"version": "1.0.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

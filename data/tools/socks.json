@@ -1,0 +1,36 @@
+{
+	"id": "socks",
+	"name": "socks",
+	"url": "https://www.npmjs.com/package/socks",
+	"source": "npm-search",
+	"description": "Fully featured SOCKS proxy client supporting SOCKSv4, SOCKSv4a, and SOCKSv5. Includes Bind and Associate functionality.",
+	"metadata": {
+		"github_url": "https://github.com/JoshGlazebrook/socks",
+		"npm_name": "socks",
+		"description": "Fully featured SOCKS proxy client supporting SOCKSv4, SOCKSv4a, and SOCKSv5. Includes Bind and Associate functionality.",
+		"keywords": ["socks", "proxy", "tor", "socks 4", "socks 5", "socks4", "socks5"],
+		"version": "2.8.7",
+		"stars": 328,
+		"forks": 39,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-16T02:37:54Z",
+		"topics": ["client", "socket", "socks", "socks-client", "socks-protocol", "socks-proxy", "socks4", "socks4a", "socks5", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/socks",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 89,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 80,
+		"level": "active"
+	},
+	"category": "tool"
+}

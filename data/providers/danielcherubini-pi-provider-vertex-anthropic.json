@@ -1,0 +1,32 @@
+{
+	"id": "danielcherubini-pi-provider-vertex-anthropic",
+	"name": "danielcherubini-pi-provider-vertex-anthropic",
+	"url": "https://github.com/danielcherubini/pi-provider-vertex-anthropic",
+	"source": "github-search",
+	"description": "Pi agent extension for Claude models via Google Cloud Vertex AI",
+	"metadata": {
+		"description": "Pi agent extension for Claude models via Google Cloud Vertex AI",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-17T05:18:04Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 4,
+			"theme": 0,
+			"provider": 12
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

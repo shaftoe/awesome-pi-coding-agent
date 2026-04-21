@@ -1,0 +1,36 @@
+{
+	"id": "@agentclientprotocol/sdk",
+	"name": "@agentclientprotocol/sdk",
+	"url": "https://www.npmjs.com/package/@agentclientprotocol/sdk",
+	"source": "npm-search",
+	"description": "The Agent Client Protocol (ACP) is a protocol that standardizes communication between *code editors* (interactive programs for viewing and editing source code) and *coding agents* (programs that use generative AI to autonomously modify code).",
+	"metadata": {
+		"github_url": "https://github.com/agentclientprotocol/typescript-sdk",
+		"npm_name": "@agentclientprotocol/sdk",
+		"description": "The Agent Client Protocol (ACP) is a protocol that standardizes communication between *code editors* (interactive programs for viewing and editing source code) and *coding agents* (programs that use generative AI to autonomously modify code).",
+		"keywords": [],
+		"version": "0.19.0",
+		"stars": 150,
+		"forks": 21,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-21T14:54:55Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://agentclientprotocol.com",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 27,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 85,
+		"level": "active"
+	},
+	"category": "tool"
+}

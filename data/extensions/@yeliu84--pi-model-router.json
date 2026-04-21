@@ -1,0 +1,36 @@
+{
+	"id": "@yeliu84/pi-model-router",
+	"name": "@yeliu84/pi-model-router",
+	"url": "https://www.npmjs.com/package/@yeliu84/pi-model-router",
+	"source": "npm-search",
+	"description": "Intelligent per-turn model router extension for the pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/yeliu84/pi-model-router",
+		"npm_name": "@yeliu84/pi-model-router",
+		"description": "Intelligent per-turn model router extension for the pi coding agent",
+		"keywords": ["pi-package", "pi", "model-router", "llm", "coding-agent", "extension"],
+		"version": "0.1.0",
+		"stars": 6,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-13T16:26:33Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

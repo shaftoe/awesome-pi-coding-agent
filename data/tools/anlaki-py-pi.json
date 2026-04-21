@@ -1,0 +1,32 @@
+{
+	"id": "anlaki-py-pi",
+	"name": "anlaki-py-pi",
+	"url": "https://github.com/anlaki-py/pi",
+	"source": "github-search",
+	"description": "pi-mono",
+	"metadata": {
+		"description": "pi-mono",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-21T14:47:12Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

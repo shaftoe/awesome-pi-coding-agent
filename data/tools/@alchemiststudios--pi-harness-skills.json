@@ -1,0 +1,20 @@
+{
+	"id": "@alchemiststudios/pi-harness-skills",
+	"name": "@alchemiststudios/pi-harness-skills",
+	"url": "https://www.npmjs.com/package/@alchemiststudios/pi-harness-skills",
+	"source": "npm-search",
+	"description": "Harness engineering skills package for pi",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@alchemiststudios/pi-harness-skills",
+		"description": "Harness engineering skills package for pi",
+		"keywords": ["pi-package", "skills", "harness-engineering"],
+		"version": "0.1.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

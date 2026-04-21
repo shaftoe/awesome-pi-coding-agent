@@ -1,0 +1,36 @@
+{
+	"id": "pi-memory",
+	"name": "pi-memory",
+	"url": "https://www.npmjs.com/package/pi-memory",
+	"source": "npm-search",
+	"description": "Pi coding agent extension for memory with qmd-powered semantic search across daily logs, long-term memory, and scratchpad",
+	"metadata": {
+		"github_url": "https://github.com/jayzeng/pi-memory",
+		"npm_name": "pi-memory",
+		"description": "Pi coding agent extension for memory with qmd-powered semantic search across daily logs, long-term memory, and scratchpad",
+		"keywords": ["pi", "pi-coding-agent", "pi-package", "memory", "search", "qmd", "scratchpad", "daily-log"],
+		"version": "0.3.8",
+		"stars": 32,
+		"forks": 3,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-15T05:06:55Z",
+		"topics": ["llm-memory", "llm-tools", "pi", "pi-extension", "qmd", "scratchpad", "semantic-search"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/pi-memory",
+		"_readme_category_scores": {
+			"extension": 10,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "extension"
+}

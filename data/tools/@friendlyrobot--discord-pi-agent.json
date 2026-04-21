@@ -1,0 +1,20 @@
+{
+	"id": "@friendlyrobot/discord-pi-agent",
+	"name": "@friendlyrobot/discord-pi-agent",
+	"url": "https://www.npmjs.com/package/@friendlyrobot/discord-pi-agent",
+	"source": "npm-search",
+	"description": "Reusable Discord gateway bridge for persistent pi agent sessions",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@friendlyrobot/discord-pi-agent",
+		"description": "Reusable Discord gateway bridge for persistent pi agent sessions",
+		"keywords": [],
+		"version": "0.1.2",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

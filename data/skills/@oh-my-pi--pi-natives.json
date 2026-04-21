@@ -1,0 +1,36 @@
+{
+	"id": "@oh-my-pi/pi-natives",
+	"name": "@oh-my-pi/pi-natives",
+	"url": "https://www.npmjs.com/package/@oh-my-pi/pi-natives",
+	"source": "npm-search",
+	"description": "Native Rust bindings for grep, clipboard, image processing, syntax highlighting, PTY, and shell operations via N-API",
+	"metadata": {
+		"github_url": "https://github.com/can1357/oh-my-pi",
+		"npm_name": "@oh-my-pi/pi-natives",
+		"description": "Native Rust bindings for grep, clipboard, image processing, syntax highlighting, PTY, and shell operations via N-API",
+		"keywords": ["napi", "rust", "native", "grep", "text-processing", "clipboard", "image", "pty", "shell", "syntax-highlighting"],
+		"version": "14.1.2",
+		"stars": 3280,
+		"forks": 309,
+		"open_issues": 153,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-18T21:37:54Z",
+		"topics": ["ai-agent", "ai-coding-agent", "anthropic", "bun", "claude", "cli", "coding-assistant", "llm", "mcp", "multi-provider", "openai", "rust", "terminal", "tui", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 45,
+			"skill": 37,
+			"tool": 33,
+			"theme": 17,
+			"provider": 41
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "skill"
+}

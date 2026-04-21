@@ -1,0 +1,36 @@
+{
+	"id": "pi-planning-with-files",
+	"name": "pi-planning-with-files",
+	"url": "https://www.npmjs.com/package/pi-planning-with-files",
+	"source": "npm-search",
+	"description": "Manus-style file-based planning for Pi Coding Agent",
+	"metadata": {
+		"github_url": "https://github.com/ttttmr/planning-with-files",
+		"npm_name": "pi-planning-with-files",
+		"description": "Manus-style file-based planning for Pi Coding Agent",
+		"keywords": ["pi-package", "planning", "manus", "agent", "pi-skill"],
+		"version": "1.0.1",
+		"stars": 4,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Python",
+		"license": "MIT",
+		"last_commit": "2026-02-04T11:26:30Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": "https://www.aikux.ai",
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 79,
+			"tool": 20,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "skill"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "pi-mdc-rules",
+	"name": "pi-mdc-rules",
+	"url": "https://www.npmjs.com/package/pi-mdc-rules",
+	"source": "npm-search",
+	"description": "MDC rules extension for pi-coding-agent - loads and enforces rules from Markdown files",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-mdc-rules",
+		"description": "MDC rules extension for pi-coding-agent - loads and enforces rules from Markdown files",
+		"keywords": ["pi-package", "pi-extension"],
+		"version": "1.1.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "playbooks",
+	"name": "playbooks",
+	"url": "https://www.npmjs.com/package/playbooks",
+	"source": "npm-search",
+	"description": "Install agent skills, MCPs and docs into your coding agents from any git repository.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "playbooks",
+		"description": "Install agent skills, MCPs and docs into your coding agents from any git repository.",
+		"keywords": ["cli", "agent-skills", "skills", "ai-agents", "adal", "amp", "antigravity", "augment", "claude-code", "cline", "codebuddy", "codex", "command-code", "continue", "cortex", "crush", "cursor", "droid", "gemini-cli", "github-copilot", "goose", "iflow-cli", "junie", "kilo", "kimi-cli", "kiro-cli", "kode", "mcpjam", "mistral-vibe", "mux", "neovate", "openclaw", "opencode", "openhands", "pi", "pochi", "qoder", "qwen-code", "replit", "roo", "trae", "trae-cn", "windsurf", "zencoder", "universal"],
+		"version": "0.1.20",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

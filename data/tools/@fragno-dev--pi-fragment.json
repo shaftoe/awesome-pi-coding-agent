@@ -1,0 +1,20 @@
+{
+	"id": "@fragno-dev/pi-fragment",
+	"name": "@fragno-dev/pi-fragment",
+	"url": "https://www.npmjs.com/package/@fragno-dev/pi-fragment",
+	"source": "npm-search",
+	"description": "A Fragno fragment",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@fragno-dev/pi-fragment",
+		"description": "A Fragno fragment",
+		"keywords": ["fragno", "typescript", "react", "vue", "svelte", "solidjs"],
+		"version": "0.0.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

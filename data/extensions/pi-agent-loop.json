@@ -1,0 +1,20 @@
+{
+	"id": "pi-agent-loop",
+	"name": "pi-agent-loop",
+	"url": "https://www.npmjs.com/package/pi-agent-loop",
+	"source": "npm-search",
+	"description": "General-purpose agent loop extension for pi. Supports goal loops (repeat until done), fixed-pass loops, and multi-stage pipelines via /loop goal, /loop passes, and /loop pipeline commands.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-agent-loop",
+		"description": "General-purpose agent loop extension for pi. Supports goal loops (repeat until done), fixed-pass loops, and multi-stage pipelines via /loop goal, /loop passes, and /loop pipeline commands.",
+		"keywords": ["pi-package"],
+		"version": "0.1.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

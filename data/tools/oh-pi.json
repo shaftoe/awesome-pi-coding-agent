@@ -1,0 +1,20 @@
+{
+	"id": "oh-pi",
+	"name": "oh-pi",
+	"url": "https://www.npmjs.com/package/oh-pi",
+	"source": "npm-search",
+	"description": "One-click setup for pi-coding-agent. Like oh-my-zsh for pi.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "oh-pi",
+		"description": "One-click setup for pi-coding-agent. Like oh-my-zsh for pi.",
+		"keywords": ["pi-package", "pi-coding-agent", "configuration", "setup", "tui"],
+		"version": "0.1.85",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

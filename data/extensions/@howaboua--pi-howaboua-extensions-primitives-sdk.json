@@ -1,0 +1,20 @@
+{
+	"id": "@howaboua/pi-howaboua-extensions-primitives-sdk",
+	"name": "@howaboua/pi-howaboua-extensions-primitives-sdk",
+	"url": "https://www.npmjs.com/package/@howaboua/pi-howaboua-extensions-primitives-sdk",
+	"source": "npm-search",
+	"description": "WIP Pi extension primitives SDK for consistent TUI views",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@howaboua/pi-howaboua-extensions-primitives-sdk",
+		"description": "WIP Pi extension primitives SDK for consistent TUI views",
+		"keywords": ["pi", "tui", "sdk", "extensions", "primitives"],
+		"version": "0.3.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "agent-skill-harbor",
+	"name": "agent-skill-harbor",
+	"url": "https://www.npmjs.com/package/agent-skill-harbor",
+	"source": "npm-search",
+	"description": "Skill governance for companies. Skill discovery for teams.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "agent-skill-harbor",
+		"description": "Skill governance for companies. Skill discovery for teams.",
+		"keywords": ["agent", "skill", "agent-skills", "skill-management", "governance", "claude", "skill-md", "github", "cli", "sveltekit"],
+		"version": "0.15.6",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

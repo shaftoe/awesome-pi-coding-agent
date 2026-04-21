@@ -1,0 +1,36 @@
+{
+	"id": "node-red-node-pi-gpio",
+	"name": "node-red-node-pi-gpio",
+	"url": "https://www.npmjs.com/package/node-red-node-pi-gpio",
+	"source": "npm-search",
+	"description": "The basic Node-RED node for Pi GPIO",
+	"metadata": {
+		"github_url": "https://github.com/node-red/node-red-nodes",
+		"npm_name": "node-red-node-pi-gpio",
+		"description": "The basic Node-RED node for Pi GPIO",
+		"keywords": ["node-red", "Pi", "GPIO", "PiGpio"],
+		"version": "2.0.7",
+		"stars": 1075,
+		"forks": 610,
+		"open_issues": 161,
+		"language": "JavaScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-18T08:02:35Z",
+		"topics": ["hacktoberfest", "node-red"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

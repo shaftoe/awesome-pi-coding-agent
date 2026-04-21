@@ -1,0 +1,20 @@
+{
+	"id": "@iconify-json/skill-icons",
+	"name": "@iconify-json/skill-icons",
+	"url": "https://www.npmjs.com/package/@iconify-json/skill-icons",
+	"source": "npm-search",
+	"description": "Skill Icons icon set in Iconify JSON format",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@iconify-json/skill-icons",
+		"description": "Skill Icons icon set in Iconify JSON format",
+		"keywords": [],
+		"version": "1.2.4",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

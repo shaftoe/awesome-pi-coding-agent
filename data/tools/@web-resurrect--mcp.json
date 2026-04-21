@@ -1,0 +1,20 @@
+{
+	"id": "@web-resurrect/mcp",
+	"name": "@web-resurrect/mcp",
+	"url": "https://www.npmjs.com/package/@web-resurrect/mcp",
+	"source": "npm-search",
+	"description": "MCP server for the Web Resurrect API — resurrect expired domains via AI assistants",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@web-resurrect/mcp",
+		"description": "MCP server for the Web Resurrect API — resurrect expired domains via AI assistants",
+		"keywords": ["mcp", "web-resurrect", "expired-domains", "seo", "wordpress"],
+		"version": "1.1.2",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

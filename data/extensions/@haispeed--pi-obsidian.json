@@ -1,0 +1,20 @@
+{
+	"id": "@haispeed/pi-obsidian",
+	"name": "@haispeed/pi-obsidian",
+	"url": "https://www.npmjs.com/package/@haispeed/pi-obsidian",
+	"source": "npm-search",
+	"description": "Pi extension + skill for managing Obsidian vaults via Obsidian CLI",
+	"metadata": {
+		"github_url": "https://github.com/haispeed/pi-obsidian",
+		"npm_name": "@haispeed/pi-obsidian",
+		"description": "Pi extension + skill for managing Obsidian vaults via Obsidian CLI",
+		"keywords": ["pi-package", "pi", "obsidian", "cli"],
+		"version": "0.1.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

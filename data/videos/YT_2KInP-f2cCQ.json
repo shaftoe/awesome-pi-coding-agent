@@ -1,0 +1,19 @@
+{
+	"id": "YT_2KInP-f2cCQ",
+	"name": "badlogic/pi-mono - Gource visualisation",
+	"url": "https://www.youtube.com/watch?v=2KInP-f2cCQ",
+	"source": "youtube-search",
+	"description": "Watch the development journey of pi-mono by badlogic! AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI ...",
+	"metadata": {
+		"title": "badlogic/pi-mono - Gource visualisation",
+		"description": "Watch the development journey of pi-mono by badlogic! AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI ...",
+		"channel": "Gourcer",
+		"published_at": "2026-01-28T06:27:42Z",
+		"thumbnail": "https://i.ytimg.com/vi/2KInP-f2cCQ/hqdefault.jpg"
+	},
+	"health": {
+		"score": 0,
+		"level": "stale"
+	},
+	"category": "video"
+}

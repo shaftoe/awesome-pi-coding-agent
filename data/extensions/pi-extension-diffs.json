@@ -1,0 +1,36 @@
+{
+	"id": "pi-extension-diffs",
+	"name": "pi-extension-diffs",
+	"url": "https://www.npmjs.com/package/pi-extension-diffs",
+	"source": "npm-search",
+	"description": "Pi extension — /diffs command to view git changes in a native window",
+	"metadata": {
+		"github_url": "https://github.com/HazAT/pi-extension-diffs",
+		"npm_name": "pi-extension-diffs",
+		"description": "Pi extension — /diffs command to view git changes in a native window",
+		"keywords": ["pi", "extension", "git", "diffs", "macos"],
+		"version": "0.1.0",
+		"stars": 4,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-02T12:58:12Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 9,
+			"skill": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

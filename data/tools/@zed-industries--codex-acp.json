@@ -1,0 +1,36 @@
+{
+	"id": "@zed-industries/codex-acp",
+	"name": "@zed-industries/codex-acp",
+	"url": "https://www.npmjs.com/package/@zed-industries/codex-acp",
+	"source": "npm-search",
+	"description": "An ACP-compatible coding agent powered by Codex",
+	"metadata": {
+		"github_url": "https://github.com/zed-industries/codex-acp",
+		"npm_name": "@zed-industries/codex-acp",
+		"description": "An ACP-compatible coding agent powered by Codex",
+		"keywords": ["codex", "acp", "agent", "coding", "ai", "assistant"],
+		"version": "0.11.1",
+		"stars": 628,
+		"forks": 81,
+		"open_issues": 46,
+		"language": "Rust",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-06T21:09:38Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 11,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

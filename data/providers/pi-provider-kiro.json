@@ -1,0 +1,36 @@
+{
+	"id": "pi-provider-kiro",
+	"name": "pi-provider-kiro",
+	"url": "https://www.npmjs.com/package/pi-provider-kiro",
+	"source": "npm-search",
+	"description": "pi extension for the Kiro API (AWS CodeWhisperer/Q) — 19 models across 8 families with OAuth authentication",
+	"metadata": {
+		"github_url": "https://github.com/mikeyobrien/pi-provider-kiro",
+		"npm_name": "pi-provider-kiro",
+		"description": "pi extension for the Kiro API (AWS CodeWhisperer/Q) — 19 models across 8 families with OAuth authentication",
+		"keywords": ["pi", "kiro", "aws", "codewhisperer", "ai", "provider"],
+		"version": "0.6.1",
+		"stars": 25,
+		"forks": 13,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-19T01:09:01Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 0,
+			"tool": 7,
+			"theme": 0,
+			"provider": 11
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "provider"
+}

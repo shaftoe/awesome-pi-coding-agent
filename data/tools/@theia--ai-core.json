@@ -1,0 +1,36 @@
+{
+	"id": "@theia/ai-core",
+	"name": "@theia/ai-core",
+	"url": "https://www.npmjs.com/package/@theia/ai-core",
+	"source": "npm-search",
+	"description": "Theia - AI Core",
+	"metadata": {
+		"github_url": "https://github.com/eclipse-theia/theia",
+		"npm_name": "@theia/ai-core",
+		"description": "Theia - AI Core",
+		"keywords": ["theia-extension"],
+		"version": "1.70.2",
+		"stars": 21473,
+		"forks": 2818,
+		"open_issues": 1473,
+		"language": "TypeScript",
+		"license": "EPL-2.0",
+		"last_commit": "2026-04-21T08:45:23Z",
+		"topics": ["cloud-ide", "editor", "electron", "ide", "language-server-protocol", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "http://theia-ide.org",
+		"_readme_category_scores": {
+			"extension": 12,
+			"skill": 0,
+			"tool": 37,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

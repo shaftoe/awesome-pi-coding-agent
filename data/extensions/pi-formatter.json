@@ -1,0 +1,36 @@
+{
+	"id": "pi-formatter",
+	"name": "pi-formatter",
+	"url": "https://www.npmjs.com/package/pi-formatter",
+	"source": "npm-search",
+	"description": "Pi extension that auto-formats files.",
+	"metadata": {
+		"github_url": "https://github.com/tenzir/pi-formatter",
+		"npm_name": "pi-formatter",
+		"description": "Pi extension that auto-formats files.",
+		"keywords": ["pi-package", "pi-extension", "coding-agent", "formatter", "formatting"],
+		"version": "1.1.2",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-16T13:18:33Z",
+		"topics": ["coding-agent", "formatter", "formatting", "pi-extension", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

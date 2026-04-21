@@ -1,0 +1,36 @@
+{
+	"id": "@thiago__ss/pi-agent-config",
+	"name": "@thiago__ss/pi-agent-config",
+	"url": "https://www.npmjs.com/package/@thiago__ss/pi-agent-config",
+	"source": "npm-search",
+	"description": "Thiago's shareable Pi agent configuration",
+	"metadata": {
+		"github_url": "https://github.com/thiago-ss/pi-agent-config",
+		"npm_name": "@thiago__ss/pi-agent-config",
+		"description": "Thiago's shareable Pi agent configuration",
+		"keywords": ["pi-package", "pi", "coding-agent", "extensions", "themes"],
+		"version": "0.1.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-09T17:14:31Z",
+		"topics": ["coding-agent", "extensions", "pi", "pi-package", "themes"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/thiago-ss/pi-agent-config#readme",
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 0,
+			"theme": 1,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "@guwidoe/pi-web-search",
+	"name": "@guwidoe/pi-web-search",
+	"url": "https://www.npmjs.com/package/@guwidoe/pi-web-search",
+	"source": "npm-search",
+	"description": "pi skill: web search via DuckDuckGo with optional page content extraction",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@guwidoe/pi-web-search",
+		"description": "pi skill: web search via DuckDuckGo with optional page content extraction",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

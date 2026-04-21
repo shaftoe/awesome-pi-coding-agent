@@ -1,0 +1,36 @@
+{
+	"id": "shitty-extensions",
+	"name": "shitty-extensions",
+	"url": "https://www.npmjs.com/package/shitty-extensions",
+	"source": "npm-search",
+	"description": "Custom extensions and skills for pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/hjanuschka/shitty-extensions",
+		"npm_name": "shitty-extensions",
+		"description": "Custom extensions and skills for pi coding agent",
+		"keywords": ["pi", "pi-coding-agent", "extensions", "skills", "ai", "claude", "coding-assistant", "pi-package"],
+		"version": "1.0.9",
+		"stars": 92,
+		"forks": 12,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-22T22:47:56Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 27,
+			"skill": 20,
+			"tool": 20,
+			"theme": 0,
+			"provider": 8
+		}
+	},
+	"health": {
+		"score": 79,
+		"level": "active"
+	},
+	"category": "skill"
+}

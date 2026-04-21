@@ -1,0 +1,36 @@
+{
+	"id": "@aerode/pish",
+	"name": "@aerode/pish",
+	"url": "https://www.npmjs.com/package/@aerode/pish",
+	"source": "npm-search",
+	"description": "A shell-first pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/dacapoday/pish",
+		"npm_name": "@aerode/pish",
+		"description": "A shell-first pi coding agent",
+		"keywords": ["shell", "ai", "coding-agent", "bash", "zsh", "pi", "cli"],
+		"version": "0.9.3",
+		"stars": 11,
+		"forks": 0,
+		"open_issues": 5,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T23:19:49Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 0,
+			"tool": 4,
+			"theme": 2,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

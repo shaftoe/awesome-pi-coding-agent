@@ -1,0 +1,32 @@
+{
+	"id": "ichabodcognate315-recursive-improve",
+	"name": "ichabodcognate315-recursive-improve",
+	"url": "https://github.com/ichabodcognate315/recursive-improve",
+	"source": "github-search",
+	"description": "Build recursive AI improvement loops to refine models, prompts, and workflows with each run",
+	"metadata": {
+		"description": "Build recursive AI improvement loops to refine models, prompts, and workflows with each run",
+		"stars": 0,
+		"forks": 0,
+		"language": "Python",
+		"topics": ["agents", "ai-agent", "ai-agents", "ai-tools", "autoresearch", "chatgpt", "claude-code", "cost-optimization", "docker-compose", "huggingface", "latency-optimization", "llm-inference", "machine-learning", "mistral", "ollama", "pi-coding-agent", "rag", "recursive-language-model"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-21T13:56:13Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 4,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

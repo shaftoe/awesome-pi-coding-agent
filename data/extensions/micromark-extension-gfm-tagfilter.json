@@ -1,0 +1,30 @@
+{
+	"id": "micromark-extension-gfm-tagfilter",
+	"name": "micromark-extension-gfm-tagfilter",
+	"url": "https://www.npmjs.com/package/micromark-extension-gfm-tagfilter",
+	"source": "npm-search",
+	"description": "micromark extension to support GFM tagfilter",
+	"metadata": {
+		"github_url": "https://github.com/micromark/micromark-extension-gfm-tagfilter",
+		"npm_name": "micromark-extension-gfm-tagfilter",
+		"description": "micromark extension to support GFM tagfilter",
+		"keywords": ["micromark", "micromark-extension", "tagfilter", "tag", "filter", "dangerous", "html", "gfm", "markdown", "unified"],
+		"version": "2.0.0",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2024-09-02T14:34:46Z",
+		"topics": ["gfm", "github", "micromark", "micromark-extension", "tagfilter", "xss"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://unifiedjs.com",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "extension"
+}

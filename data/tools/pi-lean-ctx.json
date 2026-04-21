@@ -1,0 +1,36 @@
+{
+	"id": "pi-lean-ctx",
+	"name": "pi-lean-ctx",
+	"url": "https://www.npmjs.com/package/pi-lean-ctx",
+	"source": "npm-search",
+	"description": "Pi Coding Agent extension with first-class MCP support — routes bash, read, grep, find, and ls through lean-ctx CLI, and exposes all 46 lean-ctx MCP tools (ctx_session, ctx_knowledge, ctx_semantic_search, ctx_impact, ctx_architecture, ctx_workflow, ctx_ga",
+	"metadata": {
+		"github_url": "https://github.com/yvgude/lean-ctx",
+		"npm_name": "pi-lean-ctx",
+		"description": "Pi Coding Agent extension with first-class MCP support — routes bash, read, grep, find, and ls through lean-ctx CLI, and exposes all 46 lean-ctx MCP tools (ctx_session, ctx_knowledge, ctx_semantic_search, ctx_impact, ctx_architecture, ctx_workflow, ctx_ga",
+		"keywords": ["pi-package", "lean-ctx", "token-optimization", "compression", "mcp"],
+		"version": "3.2.5",
+		"stars": 737,
+		"forks": 87,
+		"open_issues": 3,
+		"language": "Rust",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-21T14:13:16Z",
+		"topics": ["agentic-coding", "ai", "ai-coding", "claude-code", "context-engineering", "copilot", "cursor", "developer-tools", "gemini-cli", "llm", "mcp", "mcp-server", "reduce-token-costs", "rust", "token-optimization"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://leanctx.com",
+		"_readme_category_scores": {
+			"extension": 13,
+			"skill": 0,
+			"tool": 28,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "agent-pipeline",
+	"name": "agent-pipeline",
+	"url": "https://www.npmjs.com/package/agent-pipeline",
+	"source": "npm-search",
+	"description": "Intelligent multi-runtime agent orchestration with DAG-planned parallelism, conditional logic, automated git hygiene, and multi-channel notifications. Supports Claude Code, Codex, Gemini, and Pi Agent (15+ providers with built-in tools).",
+	"metadata": {
+		"github_url": "https://github.com/FRE-Studios/agent-pipeline",
+		"npm_name": "agent-pipeline",
+		"description": "Intelligent multi-runtime agent orchestration with DAG-planned parallelism, conditional logic, automated git hygiene, and multi-channel notifications. Supports Claude Code, Codex, Gemini, and Pi Agent (15+ providers with built-in tools).",
+		"keywords": ["agent", "pipeline", "claude", "ai", "automation", "git", "ci-cd", "workflow", "orchestration", "parallel-execution", "dag", "notifications"],
+		"version": "0.1.4",
+		"stars": 6,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-19T21:51:07Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 0,
+			"tool": 25,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "YT_4p2uQ4FQtis",
+	"name": "pi - a radically minimal, opinionated multi-model coding agent",
+	"url": "https://www.youtube.com/watch?v=4p2uQ4FQtis",
+	"source": "youtube-search",
+	"description": "https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent.",
+	"metadata": {
+		"title": "pi - a radically minimal, opinionated multi-model coding agent",
+		"description": "https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent.",
+		"channel": "Mario Zechner",
+		"published_at": "2025-11-13T01:14:04Z",
+		"thumbnail": "https://i.ytimg.com/vi/4p2uQ4FQtis/hqdefault.jpg"
+	},
+	"health": {
+		"score": 0,
+		"level": "stale"
+	},
+	"category": "video"
+}

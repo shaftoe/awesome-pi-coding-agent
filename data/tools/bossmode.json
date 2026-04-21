@@ -1,0 +1,20 @@
+{
+	"id": "bossmode",
+	"name": "bossmode",
+	"url": "https://www.npmjs.com/package/bossmode",
+	"source": "npm-search",
+	"description": "Discord-style AI team chat room",
+	"metadata": {
+		"github_url": "https://github.com/AzzzGoodFish/bossmode",
+		"npm_name": "bossmode",
+		"description": "Discord-style AI team chat room",
+		"keywords": ["ai", "agent", "team", "chat", "bossmode", "mcp", "claude"],
+		"version": "0.8.3",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

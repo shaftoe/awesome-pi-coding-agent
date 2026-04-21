@@ -1,0 +1,36 @@
+{
+	"id": "pi-hodor",
+	"name": "pi-hodor",
+	"url": "https://www.npmjs.com/package/pi-hodor",
+	"source": "npm-search",
+	"description": "A pi extension that automatically continues after transient stream and connection errors.",
+	"metadata": {
+		"github_url": "https://github.com/vurihuang/pi-hodor",
+		"npm_name": "pi-hodor",
+		"description": "A pi extension that automatically continues after transient stream and connection errors.",
+		"keywords": ["pi-package", "pi-extension", "pi", "extension", "retry", "error-recovery"],
+		"version": "0.2.1",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-16T04:08:54Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 14,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

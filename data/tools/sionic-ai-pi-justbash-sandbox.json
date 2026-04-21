@@ -1,0 +1,32 @@
+{
+	"id": "sionic-ai-pi-justbash-sandbox",
+	"name": "sionic-ai-pi-justbash-sandbox",
+	"url": "https://github.com/sionic-ai/pi-justbash-sandbox",
+	"source": "github-search",
+	"description": "Sandboxed bash/read/write tools for pi-mono via just-bash. Disables grep by default. Per-session filesystem isolation with cleanup.",
+	"metadata": {
+		"description": "Sandboxed bash/read/write tools for pi-mono via just-bash. Disables grep by default. Per-session filesystem isolation with cleanup.",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/badlogic/pi-mono",
+		"open_issues": 1,
+		"license": "MIT",
+		"last_commit": "2026-04-21T06:43:16Z",
+		"_readme_category_scores": {
+			"extension": 6,
+			"skill": 0,
+			"tool": 35,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

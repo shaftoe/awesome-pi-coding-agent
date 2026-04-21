@@ -1,0 +1,36 @@
+{
+	"id": "@ifi/pi-extension-subagents",
+	"name": "@ifi/pi-extension-subagents",
+	"url": "https://www.npmjs.com/package/@ifi/pi-extension-subagents",
+	"source": "npm-search",
+	"description": "Full-featured subagent orchestration extension for pi, built on top of nicobailon/pi-subagents.",
+	"metadata": {
+		"github_url": "https://github.com/ifiokjr/oh-pi",
+		"npm_name": "@ifi/pi-extension-subagents",
+		"description": "Full-featured subagent orchestration extension for pi, built on top of nicobailon/pi-subagents.",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "subagents", "multi-agent", "chains", "delegation"],
+		"version": "0.4.4",
+		"stars": 67,
+		"forks": 10,
+		"open_issues": 32,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T08:34:44Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 40,
+			"skill": 19,
+			"tool": 24,
+			"theme": 13,
+			"provider": 36
+		}
+	},
+	"health": {
+		"score": 77,
+		"level": "active"
+	},
+	"category": "skill"
+}

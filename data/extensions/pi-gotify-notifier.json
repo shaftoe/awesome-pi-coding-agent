@@ -1,0 +1,36 @@
+{
+	"id": "pi-gotify-notifier",
+	"name": "pi-gotify-notifier",
+	"url": "https://www.npmjs.com/package/pi-gotify-notifier",
+	"source": "npm-search",
+	"description": "Send Gotify notifications for pi agent session events",
+	"metadata": {
+		"github_url": "https://github.com/mario-gc/pi-gotify-notifier",
+		"npm_name": "pi-gotify-notifier",
+		"description": "Send Gotify notifications for pi agent session events",
+		"keywords": ["pi-package", "pi", "extension", "gotify", "notification"],
+		"version": "0.6.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-19T07:59:12Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

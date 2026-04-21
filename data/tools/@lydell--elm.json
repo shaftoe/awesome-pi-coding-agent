@@ -1,0 +1,36 @@
+{
+	"id": "@lydell/elm",
+	"name": "@lydell/elm",
+	"url": "https://www.npmjs.com/package/@lydell/elm",
+	"source": "npm-search",
+	"description": "Unofficial installer for Elm",
+	"metadata": {
+		"github_url": "https://github.com/lydell/compiler",
+		"npm_name": "@lydell/elm",
+		"description": "Unofficial installer for Elm",
+		"keywords": ["bin", "binary", "binaries", "elm", "install", "installer"],
+		"version": "0.19.1-14",
+		"stars": 12,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Haskell",
+		"license": "BSD-3-Clause",
+		"last_commit": "2024-09-13T15:44:44Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": "https://elm-lang.org/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 1,
+		"level": "dead"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,26 @@
+{
+	"id": "dougefresher-pi-ext-awsdocs-aur",
+	"name": "dougefresher-pi-ext-awsdocs-aur",
+	"url": "https://github.com/dougefresher/pi-ext-awsdocs-aur",
+	"source": "github-search",
+	"description": "pi-coding-agent extension for AWS documentation",
+	"metadata": {
+		"description": "pi-coding-agent extension for AWS documentation",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": ["archlinux", "aur", "aws", "pi"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-21T15:42:09Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

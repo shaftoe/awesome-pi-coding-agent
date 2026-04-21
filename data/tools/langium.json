@@ -1,0 +1,36 @@
+{
+	"id": "langium",
+	"name": "langium",
+	"url": "https://www.npmjs.com/package/langium",
+	"source": "npm-search",
+	"description": "A language engineering tool for the Language Server Protocol",
+	"metadata": {
+		"github_url": "https://github.com/eclipse-langium/langium",
+		"npm_name": "langium",
+		"description": "A language engineering tool for the Language Server Protocol",
+		"keywords": ["language", "dsl", "low-code", "lsp", "language-server", "vscode", "typescript"],
+		"version": "4.2.2",
+		"stars": 991,
+		"forks": 93,
+		"open_issues": 109,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-17T03:11:55Z",
+		"topics": ["domain-specific-language", "dsl", "language-engineering", "language-server-protocol", "typescript", "vscode"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://langium.org/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 18,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

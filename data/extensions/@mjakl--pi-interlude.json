@@ -1,0 +1,36 @@
+{
+	"id": "@mjakl/pi-interlude",
+	"name": "@mjakl/pi-interlude",
+	"url": "https://www.npmjs.com/package/@mjakl/pi-interlude",
+	"source": "npm-search",
+	"description": "Pi extension for stashing the current draft, sending an interlude message, and restoring the draft.",
+	"metadata": {
+		"github_url": "https://github.com/mjakl/pi-interlude",
+		"npm_name": "@mjakl/pi-interlude",
+		"description": "Pi extension for stashing the current draft, sending an interlude message, and restoring the draft.",
+		"keywords": ["pi", "extension", "interlude", "pi-package"],
+		"version": "1.1.0",
+		"stars": 4,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-03-18T12:07:17Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@ai-sdk/black-forest-labs",
+	"name": "@ai-sdk/black-forest-labs",
+	"url": "https://www.npmjs.com/package/@ai-sdk/black-forest-labs",
+	"source": "npm-search",
+	"description": "The **[Black Forest Labs provider](https://ai-sdk.dev/providers/ai-sdk-providers/black-forest-labs)** for the [AI SDK](https://ai-sdk.dev/docs) adds image model support for the [Black Forest Labs API](https://docs.bfl.ai/).",
+	"metadata": {
+		"github_url": "https://github.com/vercel/ai",
+		"npm_name": "@ai-sdk/black-forest-labs",
+		"description": "The **[Black Forest Labs provider](https://ai-sdk.dev/providers/ai-sdk-providers/black-forest-labs)** for the [AI SDK](https://ai-sdk.dev/docs) adds image model support for the [Black Forest Labs API](https://docs.bfl.ai/).",
+		"keywords": ["ai"],
+		"version": "1.0.29",
+		"stars": 23680,
+		"forks": 4241,
+		"open_issues": 1513,
+		"language": "TypeScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-21T15:45:09Z",
+		"topics": ["anthropic", "artificial-intelligence", "gemini", "generative-ai", "generative-ui", "javascript", "language-model", "llm", "nextjs", "openai", "react", "svelte", "typescript", "vercel", "vue"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://ai-sdk.dev",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "provider"
+}

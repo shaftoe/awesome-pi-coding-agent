@@ -1,0 +1,36 @@
+{
+	"id": "pi-workflow",
+	"name": "pi-workflow",
+	"url": "https://www.npmjs.com/package/pi-workflow",
+	"source": "npm-search",
+	"description": "Visual companion for pi coding agent workflows",
+	"metadata": {
+		"github_url": "https://github.com/popododo0720/pi-stuff",
+		"npm_name": "pi-workflow",
+		"description": "Visual companion for pi coding agent workflows",
+		"keywords": [],
+		"version": "0.1.7",
+		"stars": 15,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-03T02:26:27Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 8,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 62,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

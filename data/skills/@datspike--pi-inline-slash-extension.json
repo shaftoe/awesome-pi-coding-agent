@@ -1,0 +1,36 @@
+{
+	"id": "@datspike/pi-inline-slash-extension",
+	"name": "@datspike/pi-inline-slash-extension",
+	"url": "https://www.npmjs.com/package/@datspike/pi-inline-slash-extension",
+	"source": "npm-search",
+	"description": "Pi extension that adds inline slash autocomplete and absolute-path submit bypass without forking core.",
+	"metadata": {
+		"github_url": "https://github.com/datspike/pi-inline-slash-extension",
+		"npm_name": "@datspike/pi-inline-slash-extension",
+		"description": "Pi extension that adds inline slash autocomplete and absolute-path submit bypass without forking core.",
+		"keywords": ["pi-package", "pi", "extension", "autocomplete", "slash-commands"],
+		"version": "0.1.0",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-05T22:58:49Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 21,
+			"skill": 21,
+			"tool": 0,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

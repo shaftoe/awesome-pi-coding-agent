@@ -1,0 +1,36 @@
+{
+	"id": "@vamsitalupula/pi-run",
+	"name": "@vamsitalupula/pi-run",
+	"url": "https://www.npmjs.com/package/@vamsitalupula/pi-run",
+	"source": "npm-search",
+	"description": "Run Typescript within the Node.js context of the Pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/tanavamsikrishna/pi-run",
+		"npm_name": "@vamsitalupula/pi-run",
+		"description": "Run Typescript within the Node.js context of the Pi coding agent",
+		"keywords": ["pi", "pi-package", "extension", "typescript", "jiti", "devtool", "runner"],
+		"version": "1.9.0",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "ISC",
+		"last_commit": "2026-03-23T05:43:23Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 8,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

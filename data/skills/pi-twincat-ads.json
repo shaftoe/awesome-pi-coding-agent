@@ -1,0 +1,36 @@
+{
+	"id": "pi-twincat-ads",
+	"name": "pi-twincat-ads",
+	"url": "https://www.npmjs.com/package/pi-twincat-ads",
+	"source": "npm-search",
+	"description": "Pi extension for reading and writing TwinCAT runtime values over ADS.",
+	"metadata": {
+		"github_url": "https://github.com/Auda29/pi-twincat-ads",
+		"npm_name": "pi-twincat-ads",
+		"description": "Pi extension for reading and writing TwinCAT runtime values over ADS.",
+		"keywords": ["pi-package", "twincat", "ads", "beckhoff", "plc"],
+		"version": "0.2.2",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T06:26:04Z",
+		"topics": ["beckhoff", "pi-coding-agent", "twincat", "twincat-ads", "twincat3"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/pi-twincat-ads",
+		"_readme_category_scores": {
+			"extension": 9,
+			"skill": 2,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

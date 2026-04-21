@@ -1,0 +1,20 @@
+{
+	"id": "indusagi-coding-agent",
+	"name": "indusagi-coding-agent",
+	"url": "https://www.npmjs.com/package/indusagi-coding-agent",
+	"source": "npm-search",
+	"description": "Terminal-first TypeScript coding agent built on the indusagi framework package.",
+	"metadata": {
+		"github_url": "https://github.com/varunisrani/indusagi-ts",
+		"npm_name": "indusagi-coding-agent",
+		"description": "Terminal-first TypeScript coding agent built on the indusagi framework package.",
+		"keywords": [],
+		"version": "0.1.51",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

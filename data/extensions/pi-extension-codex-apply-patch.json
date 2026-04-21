@@ -1,0 +1,20 @@
+{
+	"id": "pi-extension-codex-apply-patch",
+	"name": "pi-extension-codex-apply-patch",
+	"url": "https://www.npmjs.com/package/pi-extension-codex-apply-patch",
+	"source": "npm-search",
+	"description": "Pi extension that adds Codex-style CFG constrained apply_patch with local verification",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-extension-codex-apply-patch",
+		"description": "Pi extension that adds Codex-style CFG constrained apply_patch with local verification",
+		"keywords": ["pi-package", "pi-extension", "codex", "apply-patch"],
+		"version": "0.1.2",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

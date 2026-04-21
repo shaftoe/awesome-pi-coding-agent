@@ -1,0 +1,32 @@
+{
+	"id": "heydharmin-dev-pixel-agents",
+	"name": "heydharmin-dev-pixel-agents",
+	"url": "https://github.com/heydharmin-dev/pixel-agents",
+	"source": "github-search",
+	"description": "AI team in a pixel office — SaaS MVP with auth, skill templates, agent creator",
+	"metadata": {
+		"description": "AI team in a pixel office — SaaS MVP with auth, skill templates, agent creator",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-16T06:19:39Z",
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "template"
+}

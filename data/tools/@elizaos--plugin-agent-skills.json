@@ -1,0 +1,20 @@
+{
+	"id": "@elizaos/plugin-agent-skills",
+	"name": "@elizaos/plugin-agent-skills",
+	"url": "https://www.npmjs.com/package/@elizaos/plugin-agent-skills",
+	"source": "npm-search",
+	"description": "Agent Skills plugin for elizaOS - implement the Agent Skills specification with progressive disclosure",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@elizaos/plugin-agent-skills",
+		"description": "Agent Skills plugin for elizaOS - implement the Agent Skills specification with progressive disclosure",
+		"keywords": ["elizaos", "plugin", "agent-skills", "clawhub", "otto", "skills", "agents", "progressive-disclosure"],
+		"version": "1.0.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

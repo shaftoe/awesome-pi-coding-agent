@@ -1,0 +1,20 @@
+{
+	"id": "msco-pi-lot",
+	"name": "msco-pi-lot",
+	"url": "https://www.npmjs.com/package/msco-pi-lot",
+	"source": "npm-search",
+	"description": "Microsoft Copilot provider extension for pi coding agent.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "msco-pi-lot",
+		"description": "Microsoft Copilot provider extension for pi coding agent.",
+		"keywords": ["pi", "pi-extension", "pi-package", "microsoft-copilot", "copilot-provider", "coding-agent", "msco", "pi-plugin"],
+		"version": "0.1.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

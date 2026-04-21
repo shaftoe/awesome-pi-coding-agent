@@ -1,0 +1,32 @@
+{
+	"id": "Denifia-pi-extensions",
+	"name": "Denifia-pi-extensions",
+	"url": "https://github.com/Denifia/pi-extensions",
+	"source": "github-search",
+	"description": "Collection of personal extensions for the Pi coding agent",
+	"metadata": {
+		"description": "Collection of personal extensions for the Pi coding agent",
+		"stars": 2,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["pi-extensions", "pi-mono"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-18T06:34:41Z",
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

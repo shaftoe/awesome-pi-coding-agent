@@ -1,0 +1,36 @@
+{
+	"id": "@psg2/pi-transcript",
+	"name": "@psg2/pi-transcript",
+	"url": "https://www.npmjs.com/package/@psg2/pi-transcript",
+	"source": "npm-search",
+	"description": "Convert pi coding agent sessions to clean, mobile-friendly HTML transcripts",
+	"metadata": {
+		"github_url": "https://github.com/psg2/pi-transcript",
+		"npm_name": "@psg2/pi-transcript",
+		"description": "Convert pi coding agent sessions to clean, mobile-friendly HTML transcripts",
+		"keywords": ["pi", "pi-coding-agent", "claude", "transcript", "html", "coding-agent"],
+		"version": "2.2.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-16T01:39:15Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 4,
+			"theme": 1,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

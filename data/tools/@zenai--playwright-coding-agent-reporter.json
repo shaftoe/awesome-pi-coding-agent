@@ -1,0 +1,36 @@
+{
+	"id": "@zenai/playwright-coding-agent-reporter",
+	"name": "@zenai/playwright-coding-agent-reporter",
+	"url": "https://www.npmjs.com/package/@zenai/playwright-coding-agent-reporter",
+	"source": "npm-search",
+	"description": "A coding agent friendly reporter for playwright, so that your coding agent finally really understands what is going wrong",
+	"metadata": {
+		"github_url": "https://github.com/getzenai/playwright-coding-agent-reporter",
+		"npm_name": "@zenai/playwright-coding-agent-reporter",
+		"description": "A coding agent friendly reporter for playwright, so that your coding agent finally really understands what is going wrong",
+		"keywords": ["playwright", "reporter", "testing", "llm", "agent", "ai"],
+		"version": "1.2.1",
+		"stars": 4,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2025-09-27T11:26:29Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

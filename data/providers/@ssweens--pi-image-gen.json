@@ -1,0 +1,20 @@
+{
+	"id": "@ssweens/pi-image-gen",
+	"name": "@ssweens/pi-image-gen",
+	"url": "https://www.npmjs.com/package/@ssweens/pi-image-gen",
+	"source": "npm-search",
+	"description": "Provider-agnostic image generation for Pi coding agent",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@ssweens/pi-image-gen",
+		"description": "Provider-agnostic image generation for Pi coding agent",
+		"keywords": ["pi-package"],
+		"version": "0.2.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

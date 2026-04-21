@@ -1,0 +1,36 @@
+{
+	"id": "@marcfargas/pi-test-harness",
+	"name": "@marcfargas/pi-test-harness",
+	"url": "https://www.npmjs.com/package/@marcfargas/pi-test-harness",
+	"source": "npm-search",
+	"description": "Test harness for pi extensions — in-process session testing, package install verification, and subprocess mocking",
+	"metadata": {
+		"github_url": "https://github.com/marcfargas/pi-test-harness",
+		"npm_name": "@marcfargas/pi-test-harness",
+		"description": "Test harness for pi extensions — in-process session testing, package install verification, and subprocess mocking",
+		"keywords": ["pi", "pi-package", "testing", "test-harness", "mock", "playbook"],
+		"version": "0.5.0",
+		"stars": 11,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-21T14:54:42Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 51,
+			"skill": 3,
+			"tool": 10,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "skill"
+}

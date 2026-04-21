@@ -1,0 +1,36 @@
+{
+	"id": "pi-skill-palette",
+	"name": "pi-skill-palette",
+	"url": "https://www.npmjs.com/package/pi-skill-palette",
+	"source": "npm-search",
+	"description": "VS Code-style command palette for selecting and applying skills in pi",
+	"metadata": {
+		"github_url": "https://github.com/nicobailon/pi-skill-palette",
+		"npm_name": "pi-skill-palette",
+		"description": "VS Code-style command palette for selecting and applying skills in pi",
+		"keywords": ["pi-package"],
+		"version": "1.1.0",
+		"stars": 66,
+		"forks": 8,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-01-29T17:54:29Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 42,
+			"tool": 0,
+			"theme": 6,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 67,
+		"level": "maintained"
+	},
+	"category": "skill"
+}

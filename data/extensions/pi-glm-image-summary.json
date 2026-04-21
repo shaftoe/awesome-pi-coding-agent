@@ -1,0 +1,36 @@
+{
+	"id": "pi-glm-image-summary",
+	"name": "pi-glm-image-summary",
+	"url": "https://www.npmjs.com/package/pi-glm-image-summary",
+	"source": "npm-search",
+	"description": "Pi extension that intercepts image reads when using glm-4.7 and sends them to glm-4.6v for detailed analysis",
+	"metadata": {
+		"github_url": "https://github.com/kaofelix/pi-glm-image-summary",
+		"npm_name": "pi-glm-image-summary",
+		"description": "Pi extension that intercepts image reads when using glm-4.7 and sends them to glm-4.6v for detailed analysis",
+		"keywords": ["pi-package", "glm", "image", "vision", "ai"],
+		"version": "0.1.4",
+		"stars": 6,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-02T01:13:00Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

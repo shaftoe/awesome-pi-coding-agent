@@ -1,0 +1,36 @@
+{
+	"id": "@sebastianandreasson/pi-autonomous-agents",
+	"name": "@sebastianandreasson/pi-autonomous-agents",
+	"url": "https://www.npmjs.com/package/@sebastianandreasson/pi-autonomous-agents",
+	"source": "npm-search",
+	"description": "Portable unattended PI harness for developer/tester/visual-review loops.",
+	"metadata": {
+		"github_url": "https://github.com/sebastianandreasson/pi-autonomous-agents",
+		"npm_name": "@sebastianandreasson/pi-autonomous-agents",
+		"description": "Portable unattended PI harness for developer/tester/visual-review loops.",
+		"keywords": [],
+		"version": "0.15.2",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2026-04-17T15:10:03Z",
+		"topics": ["ai-agents", "autonomous-agents", "llm"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 9,
+			"skill": 0,
+			"tool": 4,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

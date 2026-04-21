@@ -1,0 +1,36 @@
+{
+	"id": "@tiptap/extension-blockquote",
+	"name": "@tiptap/extension-blockquote",
+	"url": "https://www.npmjs.com/package/@tiptap/extension-blockquote",
+	"source": "npm-search",
+	"description": "blockquote extension for tiptap",
+	"metadata": {
+		"github_url": "https://github.com/ueberdosis/tiptap",
+		"npm_name": "@tiptap/extension-blockquote",
+		"description": "blockquote extension for tiptap",
+		"keywords": ["tiptap", "tiptap extension"],
+		"version": "3.22.4",
+		"stars": 36346,
+		"forks": 2957,
+		"open_issues": 904,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T15:29:00Z",
+		"topics": ["editor", "javascript", "js", "prosemirror", "react", "renderless-components", "rich-text", "tiptap", "vue", "wysiwyg", "wysiwyg-editor"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://tiptap.dev",
+		"_readme_category_scores": {
+			"extension": 12,
+			"skill": 0,
+			"tool": 7,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "extension"
+}

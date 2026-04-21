@@ -1,0 +1,36 @@
+{
+	"id": "@the-forge-flow/tff-pi",
+	"name": "@the-forge-flow/tff-pi",
+	"url": "https://www.npmjs.com/package/@the-forge-flow/tff-pi",
+	"source": "npm-search",
+	"description": "TFF PI",
+	"metadata": {
+		"github_url": "https://github.com/MonsieurBarti/tff-pi",
+		"npm_name": "@the-forge-flow/tff-pi",
+		"description": "TFF PI",
+		"keywords": ["pi", "pi-coding-agent", "extension", "tff", "the-forge-flow"],
+		"version": "0.1.7",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T15:37:13Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 8,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

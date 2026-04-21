@@ -1,0 +1,36 @@
+{
+	"id": "@jobmatchme/bee-pi-agent",
+	"name": "@jobmatchme/bee-pi-agent",
+	"url": "https://www.npmjs.com/package/@jobmatchme/bee-pi-agent",
+	"source": "npm-search",
+	"description": "Bee Dance speaking Unix socket agent runtime derived in part from pi-mom",
+	"metadata": {
+		"github_url": "https://github.com/jobmatchme/bee-pi-agent",
+		"npm_name": "@jobmatchme/bee-pi-agent",
+		"description": "Bee Dance speaking Unix socket agent runtime derived in part from pi-mom",
+		"keywords": ["ai", "agent", "bee-dance", "unix-socket", "worker"],
+		"version": "0.1.3",
+		"stars": 0,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-10T17:21:48Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 2,
+			"tool": 1,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@guwidoe/pi-prompt-suggester",
+	"name": "@guwidoe/pi-prompt-suggester",
+	"url": "https://www.npmjs.com/package/@guwidoe/pi-prompt-suggester",
+	"source": "npm-search",
+	"description": "Intent-aware next-prompt suggestion extension for pi",
+	"metadata": {
+		"github_url": "https://github.com/guwidoe/pi-prompt-suggester",
+		"npm_name": "@guwidoe/pi-prompt-suggester",
+		"description": "Intent-aware next-prompt suggestion extension for pi",
+		"keywords": ["pi-package", "pi-coding-agent", "pi-extension", "coding-agent", "terminal-agent", "ai-agent", "developer-tools", "prompt-suggester", "prompt-suggestion", "prompt-engineering", "workflow-automation", "productivity", "typescript"],
+		"version": "0.3.8",
+		"stars": 37,
+		"forks": 10,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T15:59:13Z",
+		"topics": ["ai", "pi", "pi-agent", "prompt", "prompt-engineering", "prompting", "vibe-coding"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/@guwidoe/pi-prompt-suggester",
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 74,
+		"level": "active"
+	},
+	"category": "extension"
+}

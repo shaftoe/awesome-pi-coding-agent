@@ -1,0 +1,36 @@
+{
+	"id": "react-doctor",
+	"name": "react-doctor",
+	"url": "https://www.npmjs.com/package/react-doctor",
+	"source": "npm-search",
+	"description": "Diagnose and fix performance issues in your React app",
+	"metadata": {
+		"github_url": "https://github.com/aidenybai/react-doctor",
+		"npm_name": "react-doctor",
+		"description": "Diagnose and fix performance issues in your React app",
+		"keywords": ["diagnostics", "linter", "nextjs", "performance", "react"],
+		"version": "0.0.37",
+		"stars": 6256,
+		"forks": 196,
+		"open_issues": 4,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-19T02:14:29Z",
+		"topics": ["agents", "code-review", "doctor", "react", "skill"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://react.doctor",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

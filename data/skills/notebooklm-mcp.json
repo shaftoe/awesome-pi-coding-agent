@@ -1,0 +1,36 @@
+{
+	"id": "notebooklm-mcp",
+	"name": "notebooklm-mcp",
+	"url": "https://www.npmjs.com/package/notebooklm-mcp",
+	"source": "npm-search",
+	"description": "MCP server for NotebookLM API with session support and human-like behavior",
+	"metadata": {
+		"github_url": "https://github.com/PleasePrompto/notebooklm-mcp",
+		"npm_name": "notebooklm-mcp",
+		"description": "MCP server for NotebookLM API with session support and human-like behavior",
+		"keywords": ["mcp", "notebooklm", "gemini", "ai", "claude"],
+		"version": "1.2.1",
+		"stars": 2058,
+		"forks": 266,
+		"open_issues": 30,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2025-12-27T03:50:20Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 12,
+			"tool": 7,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

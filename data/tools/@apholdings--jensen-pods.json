@@ -1,0 +1,36 @@
+{
+	"id": "@apholdings/jensen-pods",
+	"name": "@apholdings/jensen-pods",
+	"url": "https://www.npmjs.com/package/@apholdings/jensen-pods",
+	"source": "npm-search",
+	"description": "CLI tool for managing vLLM deployments on GPU pods",
+	"metadata": {
+		"github_url": "https://github.com/apholdings/jensen-code",
+		"npm_name": "@apholdings/jensen-pods",
+		"description": "CLI tool for managing vLLM deployments on GPU pods",
+		"keywords": ["llm", "vllm", "gpu", "ai", "cli"],
+		"version": "1.0.5",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T22:46:02Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 40,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

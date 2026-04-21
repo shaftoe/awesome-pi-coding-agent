@@ -1,0 +1,36 @@
+{
+	"id": "claude-skill-lord",
+	"name": "claude-skill-lord",
+	"url": "https://www.npmjs.com/package/claude-skill-lord",
+	"source": "npm-search",
+	"description": "Curated Claude Code plugin — 43 agents, 165 skills, 114 commands, 11 language rules",
+	"metadata": {
+		"github_url": "https://github.com/donganhvuphp/Claude-Skills-Lord",
+		"npm_name": "claude-skill-lord",
+		"description": "Curated Claude Code plugin — 43 agents, 165 skills, 114 commands, 11 language rules",
+		"keywords": ["claude-code", "agents", "skills", "commands", "ai", "developer-tools", "quality-gate", "tdd", "code-review"],
+		"version": "2.2.0",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Python",
+		"license": "MIT",
+		"last_commit": "2026-04-01T16:39:08Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 43,
+			"tool": 9,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

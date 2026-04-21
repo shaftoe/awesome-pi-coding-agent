@@ -1,0 +1,20 @@
+{
+	"id": "@memtensor/memos-local-openclaw-plugin",
+	"name": "@memtensor/memos-local-openclaw-plugin",
+	"url": "https://www.npmjs.com/package/@memtensor/memos-local-openclaw-plugin",
+	"source": "npm-search",
+	"description": "MemOS Local memory plugin for OpenClaw — full-write, hybrid-recall, progressive retrieval",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@memtensor/memos-local-openclaw-plugin",
+		"description": "MemOS Local memory plugin for OpenClaw — full-write, hybrid-recall, progressive retrieval",
+		"keywords": ["openclaw", "plugin", "memory", "memos", "rag"],
+		"version": "1.0.9",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

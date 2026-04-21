@@ -1,0 +1,36 @@
+{
+	"id": "@reportportal/agent-js-playwright",
+	"name": "@reportportal/agent-js-playwright",
+	"url": "https://www.npmjs.com/package/@reportportal/agent-js-playwright",
+	"source": "npm-search",
+	"description": "Agent to integrate Playwright with ReportPortal.",
+	"metadata": {
+		"github_url": "https://github.com/reportportal/agent-js-playwright",
+		"npm_name": "@reportportal/agent-js-playwright",
+		"description": "Agent to integrate Playwright with ReportPortal.",
+		"keywords": ["epam", "reports", "portal", "playwright", "reporters", "reportportal"],
+		"version": "5.4.0",
+		"stars": 52,
+		"forks": 21,
+		"open_issues": 27,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-09T08:30:08Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/@reportportal/agent-js-playwright",
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 52,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 75,
+		"level": "active"
+	},
+	"category": "tool"
+}

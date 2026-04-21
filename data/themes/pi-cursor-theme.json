@@ -1,0 +1,20 @@
+{
+	"id": "pi-cursor-theme",
+	"name": "pi-cursor-theme",
+	"url": "https://www.npmjs.com/package/pi-cursor-theme",
+	"source": "npm-search",
+	"description": "A Cursor-inspired dark theme for pi coding agent",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-cursor-theme",
+		"description": "A Cursor-inspired dark theme for pi coding agent",
+		"keywords": ["pi-package", "pi-theme", "theme", "cursor", "dark-theme"],
+		"version": "0.3.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "theme"
+}

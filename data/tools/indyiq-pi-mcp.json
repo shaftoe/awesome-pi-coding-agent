@@ -1,0 +1,20 @@
+{
+	"id": "indyiq-pi-mcp",
+	"name": "indyiq-pi-mcp",
+	"url": "https://www.npmjs.com/package/indyiq-pi-mcp",
+	"source": "npm-search",
+	"description": "MCP server exposing OSIsoft PI Web API as read-only tools for Claude",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "indyiq-pi-mcp",
+		"description": "MCP server exposing OSIsoft PI Web API as read-only tools for Claude",
+		"keywords": ["mcp", "pi", "piwebapi", "osisoft", "aveva", "claude", "indyiq.ai"],
+		"version": "2.0.4",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

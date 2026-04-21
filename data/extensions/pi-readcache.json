@@ -1,0 +1,36 @@
+{
+	"id": "pi-readcache",
+	"name": "pi-readcache",
+	"url": "https://www.npmjs.com/package/pi-readcache",
+	"source": "npm-search",
+	"description": "🧠 Pi extension that optimizes read tool calls with replay-aware caching and compaction-safe trust reconstruction",
+	"metadata": {
+		"github_url": "https://github.com/Gurpartap/pi-readcache",
+		"npm_name": "pi-readcache",
+		"description": "🧠 Pi extension that optimizes read tool calls with replay-aware caching and compaction-safe trust reconstruction",
+		"keywords": ["pi", "pi-extension", "pi-package", "readcache", "read", "cache", "compaction"],
+		"version": "0.2.0",
+		"stars": 11,
+		"forks": 2,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-16T14:33:50Z",
+		"topics": ["pi", "pi-coding-agent", "pi-extensions"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "@m64/pi-remembra-theme",
+	"name": "@m64/pi-remembra-theme",
+	"url": "https://www.npmjs.com/package/@m64/pi-remembra-theme",
+	"source": "npm-search",
+	"description": "A beautiful dark theme for pi coding agent inspired by the Remembra web interface, featuring sophisticated purple-blue gradients and carefully balanced text colors.",
+	"metadata": {
+		"github_url": "https://github.com/m64/pi-remembra-theme",
+		"npm_name": "@m64/pi-remembra-theme",
+		"description": "A beautiful dark theme for pi coding agent inspired by the Remembra web interface, featuring sophisticated purple-blue gradients and carefully balanced text colors.",
+		"keywords": ["pi-package", "theme", "pi-theme", "dark", "purple", "blue", "coding", "terminal", "ui"],
+		"version": "1.0.4",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "theme"
+}

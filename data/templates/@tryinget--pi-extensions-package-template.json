@@ -1,0 +1,30 @@
+{
+	"id": "@tryinget/pi-extensions-package-template",
+	"name": "@tryinget/pi-extensions-package-template",
+	"url": "https://www.npmjs.com/package/@tryinget/pi-extensions-package-template",
+	"source": "npm-search",
+	"description": "Copier template + CLI for bootstrapping production-ready pi extension packages inside a monorepo",
+	"metadata": {
+		"github_url": "https://github.com/tryingET/pi-extensions-package-template",
+		"npm_name": "@tryinget/pi-extensions-package-template",
+		"description": "Copier template + CLI for bootstrapping production-ready pi extension packages inside a monorepo",
+		"keywords": ["pi-package", "pi-extension", "copier-template", "scaffold"],
+		"version": "0.5.1",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": null,
+		"license": null,
+		"last_commit": "2026-03-08T05:36:57Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/tryingET/pi-extensions-package-template",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "template"
+}

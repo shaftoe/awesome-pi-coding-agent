@@ -1,0 +1,36 @@
+{
+	"id": "@pi-agents/loop",
+	"name": "@pi-agents/loop",
+	"url": "https://www.npmjs.com/package/@pi-agents/loop",
+	"source": "npm-search",
+	"description": "Recurring prompt execution and cron scheduling for pi-agent — /loop, cron_create, cron_delete, cron_list",
+	"metadata": {
+		"github_url": "https://github.com/ArtemisAI/pi-loop",
+		"npm_name": "@pi-agents/loop",
+		"description": "Recurring prompt execution and cron scheduling for pi-agent — /loop, cron_create, cron_delete, cron_list",
+		"keywords": ["pi", "pi-package", "pi-extension", "pi-coding-agent", "pi-agent", "loop", "cron", "scheduler", "recurring", "automation"],
+		"version": "0.3.1",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-17T17:45:13Z",
+		"topics": ["automation", "cron", "extension", "loop", "pi", "pi-agent", "pi-coding-agent", "pi-package", "recurring", "scheduler"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/ArtemisAI/pi-loop#readme",
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

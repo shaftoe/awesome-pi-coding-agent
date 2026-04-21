@@ -1,0 +1,30 @@
+{
+	"id": "default-require-extensions",
+	"name": "default-require-extensions",
+	"url": "https://www.npmjs.com/package/default-require-extensions",
+	"source": "npm-search",
+	"description": "Node's default require extensions as a separate module",
+	"metadata": {
+		"github_url": "https://github.com/avajs/default-require-extensions",
+		"npm_name": "default-require-extensions",
+		"description": "Node's default require extensions as a separate module",
+		"keywords": ["require", "extension", "default", "node"],
+		"version": "3.0.1",
+		"stars": 11,
+		"forks": 5,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2022-10-27T09:04:34Z",
+		"topics": ["nodejs"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 31,
+		"level": "stale"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@teneo-protocol/cli",
+	"name": "@teneo-protocol/cli",
+	"url": "https://www.npmjs.com/package/@teneo-protocol/cli",
+	"source": "npm-search",
+	"description": "Install the Teneo Protocol CLI to discover and query network agents, auto-pay them in USDC via x402, and deploy your own agents from coding assistants",
+	"metadata": {
+		"github_url": "https://github.com/TeneoProtocolAI/teneo-skills",
+		"npm_name": "@teneo-protocol/cli",
+		"description": "Install the Teneo Protocol CLI to discover and query network agents, auto-pay them in USDC via x402, and deploy your own agents from coding assistants",
+		"keywords": ["teneo", "cli", "ai-agent", "claude-code", "cursor", "codex", "skills", "web3", "usdc", "x402"],
+		"version": "2.0.64",
+		"stars": 9,
+		"forks": 1,
+		"open_issues": 1,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2026-04-15T01:05:16Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 111,
+			"tool": 10,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "skill"
+}

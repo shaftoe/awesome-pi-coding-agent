@@ -1,0 +1,32 @@
+{
+	"id": "DanielLukic-zcrew",
+	"name": "DanielLukic-zcrew",
+	"url": "https://github.com/DanielLukic/zcrew",
+	"source": "github-search",
+	"description": "ZelliJ agent orchestration system (claude code, codex cli, pi supported)",
+	"metadata": {
+		"description": "ZelliJ agent orchestration system (claude code, codex cli, pi supported)",
+		"stars": 0,
+		"forks": 0,
+		"language": "Shell",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "Unlicense",
+		"last_commit": "2026-04-21T13:35:16Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 13,
+			"tool": 17,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

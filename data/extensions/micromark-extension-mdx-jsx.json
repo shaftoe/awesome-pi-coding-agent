@@ -1,0 +1,30 @@
+{
+	"id": "micromark-extension-mdx-jsx",
+	"name": "micromark-extension-mdx-jsx",
+	"url": "https://www.npmjs.com/package/micromark-extension-mdx-jsx",
+	"source": "npm-search",
+	"description": "micromark extension to support MDX or MDX.js JSX",
+	"metadata": {
+		"github_url": "https://github.com/micromark/micromark-extension-mdx-jsx",
+		"npm_name": "micromark-extension-mdx-jsx",
+		"description": "micromark extension to support MDX or MDX.js JSX",
+		"keywords": ["ecmascript", "es", "javascript", "jsx", "js", "markdown", "mdxjs", "mdx", "micromark-extension", "micromark", "unified"],
+		"version": "3.0.2",
+		"stars": 10,
+		"forks": 4,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2025-03-24T14:21:02Z",
+		"topics": ["jsx", "mdx", "mdxjs", "micromark", "micromark-extension"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://unifiedjs.com",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 31,
+		"level": "stale"
+	},
+	"category": "extension"
+}

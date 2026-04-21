@@ -1,0 +1,32 @@
+{
+	"id": "open-pencil-skills",
+	"name": "open-pencil-skills",
+	"url": "https://github.com/open-pencil/skills",
+	"source": "github-search",
+	"description": "Agent skills for OpenPencil — the open-source design editor",
+	"metadata": {
+		"description": "Agent skills for OpenPencil — the open-source design editor",
+		"stars": 4,
+		"forks": 1,
+		"language": null,
+		"topics": ["design-editor", "open-pencil", "pi-agent", "skills"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 1,
+		"license": "MIT",
+		"last_commit": "2026-03-09T16:00:23Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 6,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "skill"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "@jaggerxtrm/specialists",
+	"name": "@jaggerxtrm/specialists",
+	"url": "https://www.npmjs.com/package/@jaggerxtrm/specialists",
+	"source": "npm-search",
+	"description": "OmniSpecialist — 7-tool MCP orchestration layer powered by the Specialist System. Discover and execute .specialist.yaml files across project/user/system scopes via pi.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@jaggerxtrm/specialists",
+		"description": "OmniSpecialist — 7-tool MCP orchestration layer powered by the Specialist System. Discover and execute .specialist.yaml files across project/user/system scopes via pi.",
+		"keywords": ["omnispecialist", "mcp", "model-context-protocol", "ai-orchestration", "gemini", "cursor", "droid", "smart-workflows", "circuit-breaker", "multi-model-ai"],
+		"version": "3.6.12",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

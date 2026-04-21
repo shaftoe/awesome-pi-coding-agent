@@ -1,0 +1,36 @@
+{
+	"id": "@zhafron/pi-memory",
+	"name": "@zhafron/pi-memory",
+	"url": "https://www.npmjs.com/package/@zhafron/pi-memory",
+	"source": "npm-search",
+	"description": "Memory management extension for pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/tickernelz/pi-memory",
+		"npm_name": "@zhafron/pi-memory",
+		"description": "Memory management extension for pi coding agent",
+		"keywords": ["pi", "coding-agent", "memory", "extension", "pi-package"],
+		"version": "1.0.2",
+		"stars": 6,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-02-18T15:04:06Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

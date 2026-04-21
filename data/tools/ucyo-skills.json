@@ -1,0 +1,26 @@
+{
+	"id": "ucyo-skills",
+	"name": "ucyo-skills",
+	"url": "https://github.com/ucyo/skills",
+	"source": "github-search",
+	"description": "Pi Agent Skills",
+	"metadata": {
+		"description": "Pi Agent Skills",
+		"stars": 0,
+		"forks": 0,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 1,
+		"license": null,
+		"last_commit": "2026-03-02T00:04:48Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

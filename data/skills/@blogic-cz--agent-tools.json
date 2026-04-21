@@ -1,0 +1,36 @@
+{
+	"id": "@blogic-cz/agent-tools",
+	"name": "@blogic-cz/agent-tools",
+	"url": "https://www.npmjs.com/package/@blogic-cz/agent-tools",
+	"source": "npm-search",
+	"description": "CLI tools for AI coding agent workflows — GitHub, database, Kubernetes, Azure DevOps, logs, sessions, and audit",
+	"metadata": {
+		"github_url": "https://github.com/blogic-cz/agent-tools",
+		"npm_name": "@blogic-cz/agent-tools",
+		"description": "CLI tools for AI coding agent workflows — GitHub, database, Kubernetes, Azure DevOps, logs, sessions, and audit",
+		"keywords": ["agent", "ai", "cli", "database", "devops", "github", "kubernetes", "observability", "tools"],
+		"version": "0.12.1",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T15:41:43Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 49,
+			"tool": 10,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

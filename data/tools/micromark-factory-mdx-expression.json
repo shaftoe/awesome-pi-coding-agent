@@ -1,0 +1,20 @@
+{
+	"id": "micromark-factory-mdx-expression",
+	"name": "micromark-factory-mdx-expression",
+	"url": "https://www.npmjs.com/package/micromark-factory-mdx-expression",
+	"source": "npm-search",
+	"description": "micromark factory to parse MDX expressions (found in JSX attributes, flow, text)",
+	"metadata": {
+		"github_url": "https://github.com/micromark/micromark-extension-mdx-expression.git#main",
+		"npm_name": "micromark-factory-mdx-expression",
+		"description": "micromark factory to parse MDX expressions (found in JSX attributes, flow, text)",
+		"keywords": ["expression", "factory", "mdx", "micromark"],
+		"version": "2.0.3",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

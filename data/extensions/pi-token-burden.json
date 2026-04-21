@@ -1,0 +1,20 @@
+{
+	"id": "pi-token-burden",
+	"name": "pi-token-burden",
+	"url": "https://www.npmjs.com/package/pi-token-burden",
+	"source": "npm-search",
+	"description": "Pi extension that shows a token-budget breakdown of the assembled system prompt",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-token-burden",
+		"description": "Pi extension that shows a token-budget breakdown of the assembled system prompt",
+		"keywords": ["pi-extension", "pi-package", "token-budget"],
+		"version": "0.6.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

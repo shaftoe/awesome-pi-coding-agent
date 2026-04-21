@@ -1,0 +1,36 @@
+{
+	"id": "pi-sandbox",
+	"name": "pi-sandbox",
+	"url": "https://www.npmjs.com/package/pi-sandbox",
+	"source": "npm-search",
+	"description": "OS-level sandboxing for pi with interactive permission prompts",
+	"metadata": {
+		"github_url": "https://github.com/carderne/pi-sandbox",
+		"npm_name": "pi-sandbox",
+		"description": "OS-level sandboxing for pi with interactive permission prompts",
+		"keywords": ["pi-package", "pi-extension"],
+		"version": "0.3.0",
+		"stars": 48,
+		"forks": 8,
+		"open_issues": 10,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-20T12:45:12Z",
+		"topics": ["pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://pi.dev/packages",
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 0,
+			"tool": 18,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 65,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

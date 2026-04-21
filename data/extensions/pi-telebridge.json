@@ -1,0 +1,36 @@
+{
+	"id": "pi-telebridge",
+	"name": "pi-telebridge",
+	"url": "https://www.npmjs.com/package/pi-telebridge",
+	"source": "npm-search",
+	"description": "A pi extension that creates a two-way relay between your active pi coding agent session and a Telegram bot.",
+	"metadata": {
+		"github_url": "https://github.com/acarerdinc/pi-telebridge",
+		"npm_name": "pi-telebridge",
+		"description": "A pi extension that creates a two-way relay between your active pi coding agent session and a Telegram bot.",
+		"keywords": ["pi-package", "pi-extension", "pi", "telegram", "telegram-bot"],
+		"version": "1.4.0",
+		"stars": 12,
+		"forks": 4,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-14T05:40:20Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

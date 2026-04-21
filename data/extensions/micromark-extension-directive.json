@@ -1,0 +1,30 @@
+{
+	"id": "micromark-extension-directive",
+	"name": "micromark-extension-directive",
+	"url": "https://www.npmjs.com/package/micromark-extension-directive",
+	"source": "npm-search",
+	"description": "micromark extension to support generic directives (`:cite[smith04]`)",
+	"metadata": {
+		"github_url": "https://github.com/micromark/micromark-extension-directive",
+		"npm_name": "micromark-extension-directive",
+		"description": "micromark extension to support generic directives (`:cite[smith04]`)",
+		"keywords": ["container", "directive", "extension", "generic", "markdown", "micromark-extension", "micromark", "unified"],
+		"version": "4.0.0",
+		"stars": 39,
+		"forks": 17,
+		"open_issues": 1,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2025-03-14T10:18:01Z",
+		"topics": ["directive", "extension", "generic", "micromark", "micromark-extension"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://unifiedjs.com",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 34,
+		"level": "stale"
+	},
+	"category": "extension"
+}

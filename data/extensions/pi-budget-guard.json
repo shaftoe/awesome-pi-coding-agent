@@ -1,0 +1,20 @@
+{
+	"id": "pi-budget-guard",
+	"name": "pi-budget-guard",
+	"url": "https://www.npmjs.com/package/pi-budget-guard",
+	"source": "npm-search",
+	"description": "An extension for Pi coding agent that tracks session spend and enforces budget limits.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-budget-guard",
+		"description": "An extension for Pi coding agent that tracks session spend and enforces budget limits.",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "extension", "budget", "cost", "token-usage", "guard"],
+		"version": "0.2.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

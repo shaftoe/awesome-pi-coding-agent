@@ -1,0 +1,20 @@
+{
+	"id": "pi-faithless-subagents",
+	"name": "pi-faithless-subagents",
+	"url": "https://www.npmjs.com/package/pi-faithless-subagents",
+	"source": "npm-search",
+	"description": "PI-native constrained subagent orchestration library",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-faithless-subagents",
+		"description": "PI-native constrained subagent orchestration library",
+		"keywords": ["pi-package", "pi", "subagents", "orchestration", "workflows"],
+		"version": "0.1.9",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

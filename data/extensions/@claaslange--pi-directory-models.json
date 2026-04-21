@@ -1,0 +1,36 @@
+{
+	"id": "@claaslange/pi-directory-models",
+	"name": "@claaslange/pi-directory-models",
+	"url": "https://www.npmjs.com/package/@claaslange/pi-directory-models",
+	"source": "npm-search",
+	"description": "pi extension that selects a model from the nearest ancestor .pi/settings.json",
+	"metadata": {
+		"github_url": "https://github.com/claaslange/pi-directory-models",
+		"npm_name": "@claaslange/pi-directory-models",
+		"description": "pi extension that selects a model from the nearest ancestor .pi/settings.json",
+		"keywords": ["pi-package", "pi", "extension", "models", "directories", "workspace", "settings"],
+		"version": "0.1.0",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-23T12:26:00Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 8,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 5
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

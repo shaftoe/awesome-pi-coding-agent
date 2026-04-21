@@ -1,0 +1,20 @@
+{
+	"id": "pi-persistent-term",
+	"name": "pi-persistent-term",
+	"url": "https://www.npmjs.com/package/pi-persistent-term",
+	"source": "npm-search",
+	"description": "Integrated terminal panel for pi coding agent — persistent PTY shell, colored overlay, LLM tools",
+	"metadata": {
+		"github_url": "https://github.com/kowsari/pi-persistent-term",
+		"npm_name": "pi-persistent-term",
+		"description": "Integrated terminal panel for pi coding agent — persistent PTY shell, colored overlay, LLM tools",
+		"keywords": ["pi-package", "pi-extension", "terminal", "pty", "shell"],
+		"version": "0.3.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

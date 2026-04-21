@@ -1,0 +1,32 @@
+{
+	"id": "mikeyobrien-rho",
+	"name": "mikeyobrien-rho",
+	"url": "https://github.com/mikeyobrien/rho",
+	"source": "github-search",
+	"description": "An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android. Built on Pi.",
+	"metadata": {
+		"description": "An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android. Built on Pi.",
+		"stars": 352,
+		"forks": 28,
+		"language": "TypeScript",
+		"topics": ["pi-coding-agent"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://rhobot.dev",
+		"open_issues": 2,
+		"license": "MIT",
+		"last_commit": "2026-04-21T05:07:52Z",
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 10,
+			"tool": 6,
+			"theme": 0,
+			"provider": 7
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "skill"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "omniroute-pi-extension",
+	"name": "omniroute-pi-extension",
+	"url": "https://www.npmjs.com/package/omniroute-pi-extension",
+	"source": "npm-search",
+	"description": "Pi Coding Agent extension for OmniRoute — manage combos, browse providers, and see which model actually served each response in the status bar",
+	"metadata": {
+		"github_url": "https://github.com/oscarandrea/omniroute-pi-extension",
+		"npm_name": "omniroute-pi-extension",
+		"description": "Pi Coding Agent extension for OmniRoute — manage combos, browse providers, and see which model actually served each response in the status bar",
+		"keywords": ["pi-package", "pi-coding-agent", "omniroute", "llm", "ai-gateway", "extension", "coding-agent"],
+		"version": "2.2.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

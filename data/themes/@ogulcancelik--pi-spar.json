@@ -1,0 +1,36 @@
+{
+	"id": "@ogulcancelik/pi-spar",
+	"name": "@ogulcancelik/pi-spar",
+	"url": "https://www.npmjs.com/package/@ogulcancelik/pi-spar",
+	"source": "npm-search",
+	"description": "Agent-to-agent sparring for pi. Back-and-forth conversations with peer AI models for debugging, design review, and challenging your thinking.",
+	"metadata": {
+		"github_url": "https://github.com/ogulcancelik/pi-extensions",
+		"npm_name": "@ogulcancelik/pi-spar",
+		"description": "Agent-to-agent sparring for pi. Back-and-forth conversations with peer AI models for debugging, design review, and challenging your thinking.",
+		"keywords": ["pi-package", "pi-extension", "spar", "agent-to-agent", "peer-review", "coding-agent", "multi-model"],
+		"version": "0.1.5",
+		"stars": 57,
+		"forks": 12,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-20T20:18:34Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 0,
+			"theme": 3,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 76,
+		"level": "active"
+	},
+	"category": "theme"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "YT_BZ0w0JhPQ9o",
+	"name": "Pi Coding Agent (Free Course)",
+	"url": "https://www.youtube.com/watch?v=BZ0w0JhPQ9o",
+	"source": "youtube-search",
+	"description": "A complete guide to Pi, the open source coding agent with four tools, a sub-thousand token system prompt, and a TypeScript ...",
+	"metadata": {
+		"title": "Pi Coding Agent (Free Course)",
+		"description": "A complete guide to Pi, the open source coding agent with four tools, a sub-thousand token system prompt, and a TypeScript ...",
+		"channel": "Owain Lewis",
+		"published_at": "2026-04-18T11:03:51Z",
+		"thumbnail": "https://i.ytimg.com/vi/BZ0w0JhPQ9o/hqdefault.jpg"
+	},
+	"health": {
+		"score": 0,
+		"level": "stale"
+	},
+	"category": "video"
+}

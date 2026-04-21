@@ -1,0 +1,36 @@
+{
+	"id": "browser-annotations",
+	"name": "browser-annotations",
+	"url": "https://www.npmjs.com/package/browser-annotations",
+	"source": "npm-search",
+	"description": "Annotate elements and send them to your agents right from your Chrome DevTools.",
+	"metadata": {
+		"github_url": "https://github.com/wiebekaai/browser-annotations",
+		"npm_name": "browser-annotations",
+		"description": "Annotate elements and send them to your agents right from your Chrome DevTools.",
+		"keywords": [],
+		"version": "1.6.4",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-13T11:18:07Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://browser-annotations.dev",
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

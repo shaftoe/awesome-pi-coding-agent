@@ -1,0 +1,20 @@
+{
+	"id": "pi-ghcp-headers",
+	"name": "pi-ghcp-headers",
+	"url": "https://www.npmjs.com/package/pi-ghcp-headers",
+	"source": "npm-search",
+	"description": "Pi extension to customize GitHub Copilot X-Initiator header behavior",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-ghcp-headers",
+		"description": "Pi extension to customize GitHub Copilot X-Initiator header behavior",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "extension", "github-copilot", "x-initiator"],
+		"version": "0.1.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

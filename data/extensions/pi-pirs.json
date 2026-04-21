@@ -1,0 +1,36 @@
+{
+	"id": "pi-pirs",
+	"name": "pi-pirs",
+	"url": "https://www.npmjs.com/package/pi-pirs",
+	"source": "npm-search",
+	"description": "Pi extension that tracks bash tool token usage with stats, grouping, and export",
+	"metadata": {
+		"github_url": "https://github.com/nickslevine/pIRS",
+		"npm_name": "pi-pirs",
+		"description": "Pi extension that tracks bash tool token usage with stats, grouping, and export",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "bash", "tokens", "usage", "monitoring"],
+		"version": "1.5.0",
+		"stars": 17,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-02-10T11:56:24Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 62,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

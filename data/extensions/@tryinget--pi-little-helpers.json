@@ -1,0 +1,36 @@
+{
+	"id": "@tryinget/pi-little-helpers",
+	"name": "@tryinget/pi-little-helpers",
+	"url": "https://www.npmjs.com/package/@tryinget/pi-little-helpers",
+	"source": "npm-search",
+	"description": "pi extension package for little-helpers workflows in pi",
+	"metadata": {
+		"github_url": "https://github.com/tryinget/pi-little-helpers",
+		"npm_name": "@tryinget/pi-little-helpers",
+		"description": "pi extension package for little-helpers workflows in pi",
+		"keywords": ["pi-package", "pi-extension", "little-helpers"],
+		"version": "0.2.0",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 2,
+		"language": "Shell",
+		"license": "MIT",
+		"last_commit": "2026-04-17T10:56:07Z",
+		"topics": ["code-block-picker", "little-helpers", "package-updates", "pi-extension", "pi-package", "stash"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 22,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

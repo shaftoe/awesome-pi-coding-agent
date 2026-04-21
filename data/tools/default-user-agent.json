@@ -1,0 +1,20 @@
+{
+	"id": "default-user-agent",
+	"name": "default-user-agent",
+	"url": "https://www.npmjs.com/package/default-user-agent",
+	"source": "npm-search",
+	"description": "Default user agent string for nodejs http request",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "default-user-agent",
+		"description": "Default user agent string for nodejs http request",
+		"keywords": ["user-agent", "ua", "useragent", "request", "http"],
+		"version": "1.0.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

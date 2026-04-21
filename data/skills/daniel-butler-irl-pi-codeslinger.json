@@ -1,0 +1,32 @@
+{
+	"id": "daniel-butler-irl-pi-codeslinger",
+	"name": "daniel-butler-irl-pi-codeslinger",
+	"url": "https://github.com/daniel-butler-irl/pi-codeslinger",
+	"source": "github-search",
+	"description": "A pi coding agent loadout for intent-driven agentic development",
+	"metadata": {
+		"description": "A pi coding agent loadout for intent-driven agentic development",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-21T14:18:13Z",
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 1,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

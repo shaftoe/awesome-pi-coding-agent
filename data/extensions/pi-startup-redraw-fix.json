@@ -1,0 +1,36 @@
+{
+	"id": "pi-startup-redraw-fix",
+	"name": "pi-startup-redraw-fix",
+	"url": "https://www.npmjs.com/package/pi-startup-redraw-fix",
+	"source": "npm-search",
+	"description": "Pi extension that patches terminal full-clear ordering to avoid startup redraw glitches.",
+	"metadata": {
+		"github_url": "https://github.com/MasuRii/pi-startup-redraw-fix",
+		"npm_name": "pi-startup-redraw-fix",
+		"description": "Pi extension that patches terminal full-clear ordering to avoid startup redraw glitches.",
+		"keywords": ["pi-package", "pi", "pi-extension", "pi-coding-agent", "pi-tui", "coding-agent", "terminal", "terminal-emulator", "startup", "startup-fix", "redraw", "bugfix"],
+		"version": "0.1.7",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-01T06:06:29Z",
+		"topics": ["bugfix", "cli", "coding-agent", "hack", "pi", "pi-coding-agent", "pi-extension", "pi-tui", "redraw", "startup", "terminal", "terminal-emulator", "tui", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 22,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

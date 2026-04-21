@@ -1,0 +1,20 @@
+{
+	"id": "pi-yank",
+	"name": "pi-yank",
+	"url": "https://www.npmjs.com/package/pi-yank",
+	"source": "npm-search",
+	"description": "Lightweight /yank extension for pi that copies the last assistant message or a selected code block.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-yank",
+		"description": "Lightweight /yank extension for pi that copies the last assistant message or a selected code block.",
+		"keywords": ["pi-package"],
+		"version": "0.1.2",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

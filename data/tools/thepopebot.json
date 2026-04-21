@@ -1,0 +1,20 @@
+{
+	"id": "thepopebot",
+	"name": "thepopebot",
+	"url": "https://www.npmjs.com/package/thepopebot",
+	"source": "npm-search",
+	"description": "Create autonomous AI agents with a two-layer architecture: Next.js Event Handler + Docker Agent.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "thepopebot",
+		"description": "Create autonomous AI agents with a two-layer architecture: Next.js Event Handler + Docker Agent.",
+		"keywords": ["ai", "agent", "autonomous", "telegram", "bot", "claude", "nextjs"],
+		"version": "1.2.75",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

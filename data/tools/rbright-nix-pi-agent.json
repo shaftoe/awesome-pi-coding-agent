@@ -1,0 +1,32 @@
+{
+	"id": "rbright-nix-pi-agent",
+	"name": "rbright-nix-pi-agent",
+	"url": "https://github.com/rbright/nix-pi-agent",
+	"source": "github-search",
+	"description": "Nix package for pi-agent",
+	"metadata": {
+		"description": "Nix package for pi-agent",
+		"stars": 2,
+		"forks": 0,
+		"language": "Shell",
+		"topics": ["nix", "nix-flake", "pi-agent"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-21T00:48:29Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

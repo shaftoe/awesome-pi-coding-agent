@@ -1,0 +1,36 @@
+{
+	"id": "@juicesharp/rpiv-todo",
+	"name": "@juicesharp/rpiv-todo",
+	"url": "https://www.npmjs.com/package/@juicesharp/rpiv-todo",
+	"source": "npm-search",
+	"description": "Pi extension: Claude-Code-parity todo tool + persistent overlay widget",
+	"metadata": {
+		"github_url": "https://github.com/juicesharp/rpiv-mono",
+		"npm_name": "@juicesharp/rpiv-todo",
+		"description": "Pi extension: Claude-Code-parity todo tool + persistent overlay widget",
+		"keywords": ["pi-package", "pi-extension", "rpiv", "todo"],
+		"version": "0.11.1",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T17:28:12Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 2,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "isbot",
+	"name": "isbot",
+	"url": "https://www.npmjs.com/package/isbot",
+	"source": "npm-search",
+	"description": "🤖/👨‍🦰 Recognise bots/crawlers/spiders using the user agent string.",
+	"metadata": {
+		"github_url": "https://github.com/omrilotan/isbot",
+		"npm_name": "isbot",
+		"description": "🤖/👨‍🦰 Recognise bots/crawlers/spiders using the user agent string.",
+		"keywords": ["bot", "crawlers", "spiders", "googlebot", "useragent", "user agent parsing", "🤖"],
+		"version": "5.1.39",
+		"stars": 1140,
+		"forks": 85,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "Unlicense",
+		"last_commit": "2026-04-16T15:54:50Z",
+		"topics": ["crawlers", "user-agent", "user-agent-analysis", "user-agent-parser", "web-crawlers"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://isbot.js.org/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

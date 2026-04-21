@@ -1,0 +1,36 @@
+{
+	"id": "@devkade/pi-opentelemetry",
+	"name": "@devkade/pi-opentelemetry",
+	"url": "https://www.npmjs.com/package/@devkade/pi-opentelemetry",
+	"source": "npm-search",
+	"description": "OpenTelemetry trace + metrics + diagnostics extension for Pi Coding Agent",
+	"metadata": {
+		"github_url": "https://github.com/devkade/pi-opentelemetry",
+		"npm_name": "@devkade/pi-opentelemetry",
+		"description": "OpenTelemetry trace + metrics + diagnostics extension for Pi Coding Agent",
+		"keywords": ["pi-package", "pi-extension", "opentelemetry", "otel", "telemetry"],
+		"version": "0.1.3",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-20T10:20:03Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

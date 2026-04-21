@@ -1,0 +1,36 @@
+{
+	"id": "ent",
+	"name": "ent",
+	"url": "https://www.npmjs.com/package/ent",
+	"source": "npm-search",
+	"description": "Encode and decode HTML entities",
+	"metadata": {
+		"github_url": "https://github.com/ljharb/ent",
+		"npm_name": "ent",
+		"description": "Encode and decode HTML entities",
+		"keywords": ["entities", "entitify", "entity", "html", "encode", "decode"],
+		"version": "2.2.2",
+		"stars": 2,
+		"forks": 1,
+		"open_issues": 1,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2024-12-16T22:48:44Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 0,
+		"level": "dead"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@apolosan/unified-process",
+	"name": "@apolosan/unified-process",
+	"url": "https://www.npmjs.com/package/@apolosan/unified-process",
+	"source": "npm-search",
+	"description": "Pi package that bundles the Object-Oriented Unified Process extension and skills for the pi coding agent.",
+	"metadata": {
+		"github_url": "https://github.com/apolosan/unified_process_pi_extension",
+		"npm_name": "@apolosan/unified-process",
+		"description": "Pi package that bundles the Object-Oriented Unified Process extension and skills for the pi coding agent.",
+		"keywords": ["pi-package", "pi", "pi-extension", "pi-skills", "unified-process", "object-oriented", "software-engineering"],
+		"version": "1.1.3",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-04T22:56:19Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 12,
+			"skill": 15,
+			"tool": 6,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

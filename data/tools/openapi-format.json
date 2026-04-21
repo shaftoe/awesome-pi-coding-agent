@@ -1,0 +1,30 @@
+{
+	"id": "openapi-format",
+	"name": "openapi-format",
+	"url": "https://www.npmjs.com/package/openapi-format",
+	"source": "npm-search",
+	"description": "Format an OpenAPI document by ordering, formatting and filtering fields.",
+	"metadata": {
+		"github_url": "https://github.com/thim81/openapi-format",
+		"npm_name": "openapi-format",
+		"description": "Format an OpenAPI document by ordering, formatting and filtering fields.",
+		"keywords": ["openapi", "openapi3", "format", "sort", "order", "filter", "convert", "rename", "case", "generate", "overlay", "cli"],
+		"version": "1.31.0",
+		"stars": 161,
+		"forks": 25,
+		"open_issues": 11,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-16T09:35:13Z",
+		"topics": ["cli", "converting", "filtering", "formatting", "oas", "openapi", "openapi-fields", "openapi-overlay", "openapi-tooling", "openapi-tools", "sorting", "swagger"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://openapi-format.com",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 86,
+		"level": "active"
+	},
+	"category": "tool"
+}

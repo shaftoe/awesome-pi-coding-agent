@@ -1,0 +1,36 @@
+{
+	"id": "@ogulcancelik/pi-herdr",
+	"name": "@ogulcancelik/pi-herdr",
+	"url": "https://www.npmjs.com/package/@ogulcancelik/pi-herdr",
+	"source": "npm-search",
+	"description": "Herdr-native workspace, tab, and pane orchestration for pi with output watches and agent status waits.",
+	"metadata": {
+		"github_url": "https://github.com/ogulcancelik/pi-extensions",
+		"npm_name": "@ogulcancelik/pi-herdr",
+		"description": "Herdr-native workspace, tab, and pane orchestration for pi with output watches and agent status waits.",
+		"keywords": ["pi-package", "pi-extension", "herdr", "pane-management", "agent-workflows", "dev-server", "watch", "coding-agent"],
+		"version": "0.2.1",
+		"stars": 57,
+		"forks": 12,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-20T20:18:34Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 0,
+			"theme": 3,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 76,
+		"level": "active"
+	},
+	"category": "theme"
+}

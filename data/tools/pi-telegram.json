@@ -1,0 +1,36 @@
+{
+	"id": "pi-telegram",
+	"name": "pi-telegram",
+	"url": "https://www.npmjs.com/package/pi-telegram",
+	"source": "npm-search",
+	"description": "Pi-Telegram: Bridge Telegram bots to pi coding agent via RPC",
+	"metadata": {
+		"github_url": "https://github.com/Ziphyrien/Pi-Telegram",
+		"npm_name": "pi-telegram",
+		"description": "Pi-Telegram: Bridge Telegram bots to pi coding agent via RPC",
+		"keywords": ["telegram", "telegram-bot", "pi", "pi-coding-agent", "grammy", "rpc", "ai-agent", "cli"],
+		"version": "0.3.4",
+		"stars": 26,
+		"forks": 3,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-18T08:51:11Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "tool"
+}

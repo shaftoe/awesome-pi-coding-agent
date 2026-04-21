@@ -1,0 +1,20 @@
+{
+	"id": "@studiosunnyfield/pimagotchi",
+	"name": "@studiosunnyfield/pimagotchi",
+	"url": "https://www.npmjs.com/package/@studiosunnyfield/pimagotchi",
+	"source": "npm-search",
+	"description": "Pimagotchi — tamagotchi virtual pet for pi coding agent. 18 animated species, behavior-based evolution, rarity system, and more.",
+	"metadata": {
+		"github_url": "https://github.com/studiosunnyfield/pimagotchi",
+		"npm_name": "@studiosunnyfield/pimagotchi",
+		"description": "Pimagotchi — tamagotchi virtual pet for pi coding agent. 18 animated species, behavior-based evolution, rarity system, and more.",
+		"keywords": ["pi-package", "tamagotchi", "pet", "pimagotchi", "extension", "widget"],
+		"version": "1.1.3",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

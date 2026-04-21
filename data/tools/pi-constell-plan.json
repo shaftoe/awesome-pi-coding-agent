@@ -1,0 +1,36 @@
+{
+	"id": "pi-constell-plan",
+	"name": "pi-constell-plan",
+	"url": "https://www.npmjs.com/package/pi-constell-plan",
+	"source": "npm-search",
+	"description": "Claude Code-style plan mode for pi: explicit --plan / /plan entry, askUserQuestion gating, and Constellagent-compatible plan exports.",
+	"metadata": {
+		"github_url": "https://github.com/owengretzinger/constellagent",
+		"npm_name": "pi-constell-plan",
+		"description": "Claude Code-style plan mode for pi: explicit --plan / /plan entry, askUserQuestion gating, and Constellagent-compatible plan exports.",
+		"keywords": ["pi-package", "pi", "plan-mode", "claude-code", "cursor", "constellagent"],
+		"version": "0.1.8",
+		"stars": 188,
+		"forks": 13,
+		"open_issues": 6,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-18T15:27:34Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://constellagent.vercel.app/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 89,
+		"level": "active"
+	},
+	"category": "tool"
+}

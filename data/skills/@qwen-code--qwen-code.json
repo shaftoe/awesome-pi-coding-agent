@@ -1,0 +1,36 @@
+{
+	"id": "@qwen-code/qwen-code",
+	"name": "@qwen-code/qwen-code",
+	"url": "https://www.npmjs.com/package/@qwen-code/qwen-code",
+	"source": "npm-search",
+	"description": "Qwen Code - AI-powered coding assistant",
+	"metadata": {
+		"github_url": "https://github.com/QwenLM/qwen-code",
+		"npm_name": "@qwen-code/qwen-code",
+		"description": "Qwen Code - AI-powered coding assistant",
+		"keywords": [],
+		"version": "0.14.5",
+		"stars": 23642,
+		"forks": 2258,
+		"open_issues": 718,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-21T15:51:37Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://qwenlm.github.io/qwen-code-docs/en/users/overview",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 5,
+			"tool": 8,
+			"theme": 0,
+			"provider": 19
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "skill"
+}

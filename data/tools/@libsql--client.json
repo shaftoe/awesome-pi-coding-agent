@@ -1,0 +1,36 @@
+{
+	"id": "@libsql/client",
+	"name": "@libsql/client",
+	"url": "https://www.npmjs.com/package/@libsql/client",
+	"source": "npm-search",
+	"description": "libSQL driver for TypeScript and JavaScript",
+	"metadata": {
+		"github_url": "https://github.com/tursodatabase/libsql-client-ts",
+		"npm_name": "@libsql/client",
+		"description": "libSQL driver for TypeScript and JavaScript",
+		"keywords": ["libsql", "database", "sqlite", "serverless", "vercel", "netlify", "lambda"],
+		"version": "0.17.2",
+		"stars": 550,
+		"forks": 63,
+		"open_issues": 118,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-19T20:37:17Z",
+		"topics": ["client", "javascript", "libsql", "sqlite", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://docs.turso.tech/sdk/ts/quickstart",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 80,
+		"level": "active"
+	},
+	"category": "tool"
+}

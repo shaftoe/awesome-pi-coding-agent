@@ -1,0 +1,36 @@
+{
+	"id": "firecrawl-cli",
+	"name": "firecrawl-cli",
+	"url": "https://www.npmjs.com/package/firecrawl-cli",
+	"source": "npm-search",
+	"description": "Command-line interface for Firecrawl. Scrape, crawl, and extract data from any website directly from your terminal.",
+	"metadata": {
+		"github_url": "https://github.com/firecrawl/cli",
+		"npm_name": "firecrawl-cli",
+		"description": "Command-line interface for Firecrawl. Scrape, crawl, and extract data from any website directly from your terminal.",
+		"keywords": ["firecrawl", "cli", "web-scraping", "crawler", "scraper", "data-extraction", "llm", "markdown", "search", "web search", "skill"],
+		"version": "1.15.2",
+		"stars": 322,
+		"forks": 44,
+		"open_issues": 15,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-16T16:19:41Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "http://docs.firecrawl.dev/cli",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 12,
+			"tool": 20,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "skill"
+}

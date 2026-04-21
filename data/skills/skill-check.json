@@ -1,0 +1,36 @@
+{
+	"id": "skill-check",
+	"name": "skill-check",
+	"url": "https://www.npmjs.com/package/skill-check",
+	"source": "npm-search",
+	"description": "Linter for agent skill files",
+	"metadata": {
+		"github_url": "https://github.com/thedaviddias/skill-check",
+		"npm_name": "skill-check",
+		"description": "Linter for agent skill files",
+		"keywords": ["skills", "agent-skills", "lint", "validator", "cli", "sarif"],
+		"version": "1.2.0",
+		"stars": 68,
+		"forks": 5,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-27T03:49:23Z",
+		"topics": ["ai-agents", "checker", "linter", "skill", "skillmd", "skills"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 113,
+			"tool": 5,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 77,
+		"level": "active"
+	},
+	"category": "skill"
+}

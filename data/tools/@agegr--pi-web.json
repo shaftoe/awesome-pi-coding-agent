@@ -1,0 +1,20 @@
+{
+	"id": "@agegr/pi-web",
+	"name": "@agegr/pi-web",
+	"url": "https://www.npmjs.com/package/@agegr/pi-web",
+	"source": "npm-search",
+	"description": "Web UI for the pi coding agent",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@agegr/pi-web",
+		"description": "Web UI for the pi coding agent",
+		"keywords": [],
+		"version": "0.5.14",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

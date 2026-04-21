@@ -1,0 +1,30 @@
+{
+	"id": "@0xkobold/pi-gateway",
+	"name": "@0xkobold/pi-gateway",
+	"url": "https://www.npmjs.com/package/@0xkobold/pi-gateway",
+	"source": "npm-search",
+	"description": "Hermes-style messaging gateway for pi - multi-platform agent with sessions, security, and background tasks",
+	"metadata": {
+		"github_url": "https://github.com/0xKobold/pi-gateway",
+		"npm_name": "@0xkobold/pi-gateway",
+		"description": "Hermes-style messaging gateway for pi - multi-platform agent with sessions, security, and background tasks",
+		"keywords": ["pi-package", "pi-extension", "gateway", "messaging", "hermes", "multi-platform"],
+		"version": "0.6.0",
+		"stars": 4,
+		"forks": 2,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-07T19:08:41Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

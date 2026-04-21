@@ -1,0 +1,36 @@
+{
+	"id": "pi-permission-system",
+	"name": "pi-permission-system",
+	"url": "https://www.npmjs.com/package/pi-permission-system",
+	"source": "npm-search",
+	"description": "Permission enforcement extension for the Pi coding agent.",
+	"metadata": {
+		"github_url": "https://github.com/MasuRii/pi-permission-system",
+		"npm_name": "pi-permission-system",
+		"description": "Permission enforcement extension for the Pi coding agent.",
+		"keywords": ["pi-package", "pi", "pi-extension", "pi-coding-agent", "coding-agent", "permissions", "policy", "access-control", "authorization", "security"],
+		"version": "0.4.2",
+		"stars": 20,
+		"forks": 6,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T15:42:23Z",
+		"topics": ["access-control", "authorization", "coding-agent", "hack", "permissions", "pi", "pi-coding-agent", "pi-extension", "pi-security", "policy", "security", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 36,
+			"skill": 21,
+			"tool": 4,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "skill"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@rbwsam/pi-exa",
+	"name": "@rbwsam/pi-exa",
+	"url": "https://www.npmjs.com/package/@rbwsam/pi-exa",
+	"source": "npm-search",
+	"description": "Pi extension integrating the Exa API for web search and content retrieval",
+	"metadata": {
+		"github_url": "https://github.com/rbwsam/pi-exa",
+		"npm_name": "@rbwsam/pi-exa",
+		"description": "Pi extension integrating the Exa API for web search and content retrieval",
+		"keywords": ["pi", "pi-package", "extension", "exa", "web-search", "search"],
+		"version": "1.0.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-13T15:58:37Z",
+		"topics": ["agent-tools", "exa-search", "pi-coding-agent"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

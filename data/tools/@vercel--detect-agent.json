@@ -1,0 +1,36 @@
+{
+	"id": "@vercel/detect-agent",
+	"name": "@vercel/detect-agent",
+	"url": "https://www.npmjs.com/package/@vercel/detect-agent",
+	"source": "npm-search",
+	"description": "Detect if code is running in an AI agent or automated development environment",
+	"metadata": {
+		"github_url": "https://github.com/vercel/vercel",
+		"npm_name": "@vercel/detect-agent",
+		"description": "Detect if code is running in an AI agent or automated development environment",
+		"keywords": ["ai", "agent", "detection", "environment", "cursor", "claude", "devin", "automation", "ai-agent"],
+		"version": "1.2.3",
+		"stars": 15343,
+		"forks": 3516,
+		"open_issues": 615,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-21T15:11:09Z",
+		"topics": ["cli", "cloud", "command", "hosting", "jamstack", "ship", "vercel"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://vercel.com",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 15,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

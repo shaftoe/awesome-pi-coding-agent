@@ -1,0 +1,36 @@
+{
+	"id": "@aliou/pi-toolchain",
+	"name": "@aliou/pi-toolchain",
+	"url": "https://www.npmjs.com/package/@aliou/pi-toolchain",
+	"source": "npm-search",
+	"description": "![banner](https://assets.aliou.me/pi-extensions/banners/pi-toolchain.png)",
+	"metadata": {
+		"github_url": "https://github.com/aliou/pi-toolchain",
+		"npm_name": "@aliou/pi-toolchain",
+		"description": "![banner](https://assets.aliou.me/pi-extensions/banners/pi-toolchain.png)",
+		"keywords": ["pi-package", "pi-extension", "pi", "toolchain"],
+		"version": "0.6.2",
+		"stars": 7,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-17T19:16:46Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 16,
+			"skill": 0,
+			"tool": 15,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

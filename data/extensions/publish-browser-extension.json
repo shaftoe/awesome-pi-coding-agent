@@ -1,0 +1,36 @@
+{
+	"id": "publish-browser-extension",
+	"name": "publish-browser-extension",
+	"url": "https://www.npmjs.com/package/publish-browser-extension",
+	"source": "npm-search",
+	"description": "Easily publish web extensions to their stores",
+	"metadata": {
+		"github_url": "https://github.com/aklinker1/publish-browser-extension",
+		"npm_name": "publish-browser-extension",
+		"description": "Easily publish web extensions to their stores",
+		"keywords": ["chrome-web-store", "firefox-addon-store", "chrome", "firefox", "addon", "store", "extension", "browser"],
+		"version": "4.0.5",
+		"stars": 92,
+		"forks": 18,
+		"open_issues": 16,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-12T15:07:19Z",
+		"topics": ["chrome-extension", "chrome-web-store", "web-extension"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 26,
+			"skill": 0,
+			"tool": 11,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 79,
+		"level": "active"
+	},
+	"category": "extension"
+}

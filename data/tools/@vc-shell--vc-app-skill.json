@@ -1,0 +1,20 @@
+{
+	"id": "@vc-shell/vc-app-skill",
+	"name": "@vc-shell/vc-app-skill",
+	"url": "https://www.npmjs.com/package/@vc-shell/vc-app-skill",
+	"source": "npm-search",
+	"description": "AI coding skill for scaffolding and generating VirtoCommerce Shell applications. Works with Claude Code, OpenCode, Gemini, Codex, Cursor.",
+	"metadata": {
+		"github_url": "https://github.com/AlenGeoAlex/vc-shell",
+		"npm_name": "@vc-shell/vc-app-skill",
+		"description": "AI coding skill for scaffolding and generating VirtoCommerce Shell applications. Works with Claude Code, OpenCode, Gemini, Codex, Cursor.",
+		"keywords": ["virtocommerce", "vc-shell", "claude-code", "ai-skill", "scaffolding", "vue3"],
+		"version": "2.0.0-alpha.23",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

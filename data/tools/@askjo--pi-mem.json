@@ -1,0 +1,36 @@
+{
+	"id": "@askjo/pi-mem",
+	"name": "@askjo/pi-mem",
+	"url": "https://www.npmjs.com/package/@askjo/pi-mem",
+	"source": "npm-search",
+	"description": "Pi coding agent extension for plain-Markdown memory system — long-term memory, daily logs, and scratchpad checklist",
+	"metadata": {
+		"github_url": "https://github.com/jo-inc/pi-mem",
+		"npm_name": "@askjo/pi-mem",
+		"description": "Pi coding agent extension for plain-Markdown memory system — long-term memory, daily logs, and scratchpad checklist",
+		"keywords": ["pi-package", "pi-extension", "pi", "pi-coding-agent", "memory", "context", "scratchpad", "daily-log"],
+		"version": "1.0.0",
+		"stars": 40,
+		"forks": 2,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-20T22:42:55Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 74,
+		"level": "active"
+	},
+	"category": "tool"
+}

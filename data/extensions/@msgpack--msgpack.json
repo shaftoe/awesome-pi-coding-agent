@@ -1,0 +1,36 @@
+{
+	"id": "@msgpack/msgpack",
+	"name": "@msgpack/msgpack",
+	"url": "https://www.npmjs.com/package/@msgpack/msgpack",
+	"source": "npm-search",
+	"description": "MessagePack for ECMA-262/JavaScript/TypeScript",
+	"metadata": {
+		"github_url": "https://github.com/msgpack/msgpack-javascript",
+		"npm_name": "@msgpack/msgpack",
+		"description": "MessagePack for ECMA-262/JavaScript/TypeScript",
+		"keywords": ["msgpack", "MessagePack", "serialization", "universal"],
+		"version": "3.1.3",
+		"stars": 1539,
+		"forks": 177,
+		"open_issues": 20,
+		"language": "TypeScript",
+		"license": "ISC",
+		"last_commit": "2026-01-20T22:25:46Z",
+		"topics": ["deno-library", "javascript-library", "messagepack", "msgpack", "serialization-library", "typescript-library", "universal-javascript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://msgpack.org/",
+		"_readme_category_scores": {
+			"extension": 68,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

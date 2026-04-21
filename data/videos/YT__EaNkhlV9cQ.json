@@ -1,0 +1,19 @@
+{
+	"id": "YT__EaNkhlV9cQ",
+	"name": "pi mono with golo tools called by skills",
+	"url": "https://www.youtube.com/watch?v=_EaNkhlV9cQ",
+	"source": "youtube-search",
+	"description": "",
+	"metadata": {
+		"title": "pi mono with golo tools called by skills",
+		"description": "",
+		"channel": "Philippe Charrière",
+		"published_at": "2026-02-17T05:29:39Z",
+		"thumbnail": "https://i.ytimg.com/vi/_EaNkhlV9cQ/hqdefault.jpg"
+	},
+	"health": {
+		"score": 0,
+		"level": "stale"
+	},
+	"category": "video"
+}

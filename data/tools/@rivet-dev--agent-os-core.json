@@ -1,0 +1,20 @@
+{
+	"id": "@rivet-dev/agent-os-core",
+	"name": "@rivet-dev/agent-os-core",
+	"url": "https://www.npmjs.com/package/@rivet-dev/agent-os-core",
+	"source": "npm-search",
+	"description": "A high-level SDK for running coding agents in isolated VMs. agentOS manages the full lifecycle of virtual machines — from filesystem setup and process management to launching AI agents via the Agent Communication Protocol (ACP).",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@rivet-dev/agent-os-core",
+		"description": "A high-level SDK for running coding agents in isolated VMs. agentOS manages the full lifecycle of virtual machines — from filesystem setup and process management to launching AI agents via the Agent Communication Protocol (ACP).",
+		"keywords": [],
+		"version": "0.1.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

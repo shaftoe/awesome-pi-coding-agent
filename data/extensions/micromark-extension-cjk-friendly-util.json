@@ -1,0 +1,36 @@
+{
+	"id": "micromark-extension-cjk-friendly-util",
+	"name": "micromark-extension-cjk-friendly-util",
+	"url": "https://www.npmjs.com/package/micromark-extension-cjk-friendly-util",
+	"source": "npm-search",
+	"description": "common library for micromark-extension-cjk-friendly and its related packages",
+	"metadata": {
+		"github_url": "https://github.com/tats-u/markdown-cjk-friendly",
+		"npm_name": "micromark-extension-cjk-friendly-util",
+		"description": "common library for micromark-extension-cjk-friendly and its related packages",
+		"keywords": ["micromark-extension", "micromark", "markdown", "japanese", "chinese", "korean", "cjk"],
+		"version": "3.0.1",
+		"stars": 125,
+		"forks": 3,
+		"open_issues": 6,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-19T10:55:54Z",
+		"topics": ["chinese", "cjk", "commonmark", "japanese", "korean", "markdown", "markdown-it", "markdown-it-plugin", "remark", "remark-plugin"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://tats-u.github.io/markdown-cjk-friendly/",
+		"_readme_category_scores": {
+			"extension": 41,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 83,
+		"level": "active"
+	},
+	"category": "extension"
+}

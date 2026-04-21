@@ -1,0 +1,36 @@
+{
+	"id": "pi-thinking-timer",
+	"name": "pi-thinking-timer",
+	"url": "https://www.npmjs.com/package/pi-thinking-timer",
+	"source": "npm-search",
+	"description": "Pi extension that shows a live timer next to collapsed Thinking blocks.",
+	"metadata": {
+		"github_url": "https://github.com/xRyul/pi-thinking-timer",
+		"npm_name": "pi-thinking-timer",
+		"description": "Pi extension that shows a live timer next to collapsed Thinking blocks.",
+		"keywords": ["pi-package", "pi", "pi-extension"],
+		"version": "0.1.4",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-06T08:06:58Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

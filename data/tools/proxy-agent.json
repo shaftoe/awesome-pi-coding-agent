@@ -1,0 +1,36 @@
+{
+	"id": "proxy-agent",
+	"name": "proxy-agent",
+	"url": "https://www.npmjs.com/package/proxy-agent",
+	"source": "npm-search",
+	"description": "Maps proxy protocols to `http.Agent` implementations",
+	"metadata": {
+		"github_url": "https://github.com/TooTallNate/proxy-agents",
+		"npm_name": "proxy-agent",
+		"description": "Maps proxy protocols to `http.Agent` implementations",
+		"keywords": ["http", "https", "socks", "agent", "mapping", "proxy"],
+		"version": "8.0.1",
+		"stars": 1135,
+		"forks": 276,
+		"open_issues": 40,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-17T00:52:51Z",
+		"topics": ["agent", "http", "https", "nodejs", "pac", "proxy", "socks"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://proxy-agents.n8.io",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

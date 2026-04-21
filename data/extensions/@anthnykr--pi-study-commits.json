@@ -1,0 +1,36 @@
+{
+	"id": "@anthnykr/pi-study-commits",
+	"name": "@anthnykr/pi-study-commits",
+	"url": "https://www.npmjs.com/package/@anthnykr/pi-study-commits",
+	"source": "npm-search",
+	"description": "Pi extension for selecting recent git commits and injecting their diffs into the conversation.",
+	"metadata": {
+		"github_url": "https://github.com/anthnykr/agent-setups",
+		"npm_name": "@anthnykr/pi-study-commits",
+		"description": "Pi extension for selecting recent git commits and injecting their diffs into the conversation.",
+		"keywords": ["pi-package", "pi", "pi-extension", "git", "commits"],
+		"version": "0.1.1",
+		"stars": 4,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-19T17:55:43Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 20,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

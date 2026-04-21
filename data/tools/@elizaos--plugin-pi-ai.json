@@ -1,0 +1,20 @@
+{
+	"id": "@elizaos/plugin-pi-ai",
+	"name": "@elizaos/plugin-pi-ai",
+	"url": "https://www.npmjs.com/package/@elizaos/plugin-pi-ai",
+	"source": "npm-search",
+	"description": "pi-ai credential bridge plugin for ElizaOS",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@elizaos/plugin-pi-ai",
+		"description": "pi-ai credential bridge plugin for ElizaOS",
+		"keywords": ["plugin", "elizaos", "pi-ai", "providers"],
+		"version": "1.7.3-alpha.3",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

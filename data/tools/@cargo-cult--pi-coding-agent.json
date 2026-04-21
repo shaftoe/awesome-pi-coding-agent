@@ -1,0 +1,36 @@
+{
+	"id": "@cargo-cult/pi-coding-agent",
+	"name": "@cargo-cult/pi-coding-agent",
+	"url": "https://www.npmjs.com/package/@cargo-cult/pi-coding-agent",
+	"source": "npm-search",
+	"description": "Coding agent CLI with read, bash, edit, write tools and session management",
+	"metadata": {
+		"github_url": "https://github.com/TUstudents/pi-mono",
+		"npm_name": "@cargo-cult/pi-coding-agent",
+		"description": "Coding agent CLI with read, bash, edit, write tools and session management",
+		"keywords": ["coding-agent", "ai", "llm", "cli", "tui", "agent"],
+		"version": "0.47.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-01-16T06:21:09Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 20,
+		"level": "stale"
+	},
+	"category": "tool"
+}

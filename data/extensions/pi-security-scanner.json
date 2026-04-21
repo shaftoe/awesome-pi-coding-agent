@@ -1,0 +1,36 @@
+{
+	"id": "pi-security-scanner",
+	"name": "pi-security-scanner",
+	"url": "https://www.npmjs.com/package/pi-security-scanner",
+	"source": "npm-search",
+	"description": "Security scanner and runtime protection for Pi Coding Agent",
+	"metadata": {
+		"github_url": "https://github.com/burggraf/pi-security-scanner",
+		"npm_name": "pi-security-scanner",
+		"description": "Security scanner and runtime protection for Pi Coding Agent",
+		"keywords": ["pi-package", "security", "scanner", "antivirus", "prompt injection", "vulnerability"],
+		"version": "0.1.0",
+		"stars": 4,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-02-27T02:28:17Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 6,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

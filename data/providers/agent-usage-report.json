@@ -1,0 +1,36 @@
+{
+	"id": "agent-usage-report",
+	"name": "agent-usage-report",
+	"url": "https://www.npmjs.com/package/agent-usage-report",
+	"source": "npm-search",
+	"description": "Local agent usage report generator for Codex, Claude Code, OpenCode, and Pi Coding Agent.",
+	"metadata": {
+		"github_url": "https://github.com/nachoal/agent-usage-report",
+		"npm_name": "agent-usage-report",
+		"description": "Local agent usage report generator for Codex, Claude Code, OpenCode, and Pi Coding Agent.",
+		"keywords": [],
+		"version": "0.2.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-08T02:02:20Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

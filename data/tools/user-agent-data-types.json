@@ -1,0 +1,36 @@
+{
+	"id": "user-agent-data-types",
+	"name": "user-agent-data-types",
+	"url": "https://www.npmjs.com/package/user-agent-data-types",
+	"source": "npm-search",
+	"description": "Type definition for navigator.userAgentData",
+	"metadata": {
+		"github_url": "https://github.com/lukewarlow/user-agent-data-types",
+		"npm_name": "user-agent-data-types",
+		"description": "Type definition for navigator.userAgentData",
+		"keywords": ["user-agent", "user-agent-data", "userAgentData", "TypeScript", "types"],
+		"version": "0.4.3",
+		"stars": 31,
+		"forks": 4,
+		"open_issues": 0,
+		"language": null,
+		"license": "MIT",
+		"last_commit": "2026-03-26T10:11:37Z",
+		"topics": ["hacktoberfest", "types", "typescript", "user-agent", "useragent", "useragentdata"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "tool"
+}

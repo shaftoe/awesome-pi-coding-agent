@@ -1,0 +1,36 @@
+{
+	"id": "pi-kagi",
+	"name": "pi-kagi",
+	"url": "https://www.npmjs.com/package/pi-kagi",
+	"source": "npm-search",
+	"description": "Pi coding agent extension providing web search and summarization via Kagi's API",
+	"metadata": {
+		"github_url": "https://github.com/georgebashi/pi-kagi",
+		"npm_name": "pi-kagi",
+		"description": "Pi coding agent extension providing web search and summarization via Kagi's API",
+		"keywords": ["pi", "pi-extension", "kagi", "web-search", "summarize", "coding-agent"],
+		"version": "0.1.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-15T07:18:37Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 6,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

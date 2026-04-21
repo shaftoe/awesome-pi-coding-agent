@@ -1,0 +1,36 @@
+{
+	"id": "@m64/nats-pi-bridge",
+	"name": "@m64/nats-pi-bridge",
+	"url": "https://www.npmjs.com/package/@m64/nats-pi-bridge",
+	"source": "npm-search",
+	"description": "Standalone headless service that spawns and manages PI coding agent sessions on demand via NATS. Control plane / data plane split, streaming wire protocol, multi-session microservice registration.",
+	"metadata": {
+		"github_url": "https://github.com/M64GitHub/nats-pi-bridge",
+		"npm_name": "@m64/nats-pi-bridge",
+		"description": "Standalone headless service that spawns and manages PI coding agent sessions on demand via NATS. Control plane / data plane split, streaming wire protocol, multi-session microservice registration.",
+		"keywords": ["pi-agent", "pi-coding-agent", "nats", "agent", "bridge", "microservice", "headless", "ai-agent"],
+		"version": "0.0.4",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-09T04:55:17Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 8,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@justram/pi-undo-redo",
+	"name": "@justram/pi-undo-redo",
+	"url": "https://www.npmjs.com/package/@justram/pi-undo-redo",
+	"source": "npm-search",
+	"description": "Buffered undo/redo extension for Pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/justram/pi-undo-redo",
+		"npm_name": "@justram/pi-undo-redo",
+		"description": "Buffered undo/redo extension for Pi coding agent",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "extension", "undo-redo"],
+		"version": "0.2.0",
+		"stars": 6,
+		"forks": 2,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-04T03:55:12Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 13,
+			"skill": 0,
+			"tool": 16,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

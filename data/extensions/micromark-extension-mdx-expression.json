@@ -1,0 +1,20 @@
+{
+	"id": "micromark-extension-mdx-expression",
+	"name": "micromark-extension-mdx-expression",
+	"url": "https://www.npmjs.com/package/micromark-extension-mdx-expression",
+	"source": "npm-search",
+	"description": "micromark extension to support MDX or MDX JS expressions",
+	"metadata": {
+		"github_url": "https://github.com/micromark/micromark-extension-mdx-expression.git#main",
+		"npm_name": "micromark-extension-mdx-expression",
+		"description": "micromark extension to support MDX or MDX JS expressions",
+		"keywords": ["ecmascript", "es", "expression", "javascript", "js", "markdown", "mdxjs", "mdx", "micromark-extension", "micromark", "unified"],
+		"version": "3.0.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

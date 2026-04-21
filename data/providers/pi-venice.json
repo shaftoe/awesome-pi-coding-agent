@@ -1,0 +1,36 @@
+{
+	"id": "pi-venice",
+	"name": "pi-venice",
+	"url": "https://www.npmjs.com/package/pi-venice",
+	"source": "npm-search",
+	"description": "Pi Coding Agent extension for using Venice.ai as provider, access to ANY and ALL models under the Sun",
+	"metadata": {
+		"github_url": "https://github.com/tunnckoCore/pi-venice",
+		"npm_name": "pi-venice",
+		"description": "Pi Coding Agent extension for using Venice.ai as provider, access to ANY and ALL models under the Sun",
+		"keywords": ["pi", "pi-package", "pi-coding-agent", "pi-extension", "pi-venice", "venice", "venice.ai", "llm", "ai", "provider"],
+		"version": "0.2.0",
+		"stars": 4,
+		"forks": 2,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-15T04:43:28Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 12,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 7
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

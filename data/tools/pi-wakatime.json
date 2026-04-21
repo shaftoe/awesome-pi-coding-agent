@@ -1,0 +1,36 @@
+{
+	"id": "pi-wakatime",
+	"name": "pi-wakatime",
+	"url": "https://www.npmjs.com/package/pi-wakatime",
+	"source": "npm-search",
+	"description": "WakaTime extension for pi coding agent - track AI coding activity and metrics",
+	"metadata": {
+		"github_url": "https://github.com/ttttmr/pi-wakatime",
+		"npm_name": "pi-wakatime",
+		"description": "WakaTime extension for pi coding agent - track AI coding activity and metrics",
+		"keywords": ["pi-package", "wakatime", "pi", "coding-agent", "ai", "metrics", "time-tracking", "productivity"],
+		"version": "1.0.0",
+		"stars": 0,
+		"forks": 4,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-04T13:02:39Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 10,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

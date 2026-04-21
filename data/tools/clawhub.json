@@ -1,0 +1,20 @@
+{
+	"id": "clawhub",
+	"name": "clawhub",
+	"url": "https://www.npmjs.com/package/clawhub",
+	"source": "npm-search",
+	"description": "ClawHub CLI \\u2014 install, update, search, and publish skills plus OpenClaw packages.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "clawhub",
+		"description": "ClawHub CLI \\u2014 install, update, search, and publish skills plus OpenClaw packages.",
+		"keywords": [],
+		"version": "0.9.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@sherif-fanous/pi-atom-one",
+	"name": "@sherif-fanous/pi-atom-one",
+	"url": "https://www.npmjs.com/package/@sherif-fanous/pi-atom-one",
+	"source": "npm-search",
+	"description": "Atom One themes for the Pi Coding Agent",
+	"metadata": {
+		"github_url": "https://github.com/sherif-fanous/pi-atom-one",
+		"npm_name": "@sherif-fanous/pi-atom-one",
+		"description": "Atom One themes for the Pi Coding Agent",
+		"keywords": ["pi", "pi-coding-agent", "pi-package", "atom-one", "theme"],
+		"version": "0.3.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": null,
+		"license": "MIT",
+		"last_commit": "2026-04-04T23:28:07Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 3,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "theme"
+}

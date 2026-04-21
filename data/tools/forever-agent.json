@@ -1,0 +1,36 @@
+{
+	"id": "forever-agent",
+	"name": "forever-agent",
+	"url": "https://www.npmjs.com/package/forever-agent",
+	"source": "npm-search",
+	"description": "HTTP Agent that keeps socket connections alive between keep-alive requests. Formerly part of mikeal/request, now a standalone module.",
+	"metadata": {
+		"github_url": "https://github.com/mikeal/forever-agent",
+		"npm_name": "forever-agent",
+		"description": "HTTP Agent that keeps socket connections alive between keep-alive requests. Formerly part of mikeal/request, now a standalone module.",
+		"keywords": [],
+		"version": "0.6.1",
+		"stars": 79,
+		"forks": 35,
+		"open_issues": 22,
+		"language": "JavaScript",
+		"license": "Apache-2.0",
+		"last_commit": "2020-06-05T21:48:08Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 38,
+		"level": "stale"
+	},
+	"category": "tool"
+}

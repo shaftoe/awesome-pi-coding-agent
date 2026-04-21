@@ -1,0 +1,20 @@
+{
+	"id": "@mattrglobal/verifier-sdk-web",
+	"name": "@mattrglobal/verifier-sdk-web",
+	"url": "https://www.npmjs.com/package/@mattrglobal/verifier-sdk-web",
+	"source": "npm-search",
+	"description": "- [General](#general)   - [Licensing](#licensing)   - [Overview](#overview)   - [Features](#features) - [Getting started](#getting-started)   - [How to get access to the MATTR Pi Verifier Web SDK](#how-to-get-access-to-the-mattr-pi-verifier-web-sdk)   - [",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@mattrglobal/verifier-sdk-web",
+		"description": "- [General](#general)   - [Licensing](#licensing)   - [Overview](#overview)   - [Features](#features) - [Getting started](#getting-started)   - [How to get access to the MATTR Pi Verifier Web SDK](#how-to-get-access-to-the-mattr-pi-verifier-web-sdk)   - [",
+		"keywords": [],
+		"version": "2.1.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

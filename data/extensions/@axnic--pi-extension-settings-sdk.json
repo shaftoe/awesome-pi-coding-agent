@@ -1,0 +1,36 @@
+{
+	"id": "@axnic/pi-extension-settings-sdk",
+	"name": "@axnic/pi-extension-settings-sdk",
+	"url": "https://www.npmjs.com/package/@axnic/pi-extension-settings-sdk",
+	"source": "npm-search",
+	"description": "Type-safe SDK for interacting with the pi-extension-settings panel (for extension authors).",
+	"metadata": {
+		"github_url": "https://github.com/axnic/pi-extension-settings",
+		"npm_name": "@axnic/pi-extension-settings-sdk",
+		"description": "Type-safe SDK for interacting with the pi-extension-settings panel (for extension authors).",
+		"keywords": ["pi", "pi-package", "pi-extension", "settings", "sdk", "extension", "type-safe"],
+		"version": "0.2.0-rc.6",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-18T09:34:25Z",
+		"topics": ["extension", "pi-agent"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 68,
+			"skill": 0,
+			"tool": 0,
+			"theme": 7,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

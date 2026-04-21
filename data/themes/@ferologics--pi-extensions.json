@@ -1,0 +1,36 @@
+{
+	"id": "@ferologics/pi-extensions",
+	"name": "@ferologics/pi-extensions",
+	"url": "https://www.npmjs.com/package/@ferologics/pi-extensions",
+	"source": "npm-search",
+	"description": "Custom Pi extensions bundle (deep-review, pi-ghostty-hunk, pi-ghostty-lazygit, pi-notify, pi-system-theme, plan-mode, pi-verbosity-control)",
+	"metadata": {
+		"github_url": "https://github.com/ferologics/pi-extensions",
+		"npm_name": "@ferologics/pi-extensions",
+		"description": "Custom Pi extensions bundle (deep-review, pi-ghostty-hunk, pi-ghostty-lazygit, pi-notify, pi-system-theme, plan-mode, pi-verbosity-control)",
+		"keywords": ["pi-package", "pi-extension"],
+		"version": "0.6.0",
+		"stars": 9,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-29T21:41:54Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 22,
+			"skill": 0,
+			"tool": 0,
+			"theme": 5,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "theme"
+}

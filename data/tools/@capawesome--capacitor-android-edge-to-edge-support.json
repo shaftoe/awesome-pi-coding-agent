@@ -1,0 +1,36 @@
+{
+	"id": "@capawesome/capacitor-android-edge-to-edge-support",
+	"name": "@capawesome/capacitor-android-edge-to-edge-support",
+	"url": "https://www.npmjs.com/package/@capawesome/capacitor-android-edge-to-edge-support",
+	"source": "npm-search",
+	"description": "Capacitor plugin to support edge-to-edge display on Android.",
+	"metadata": {
+		"github_url": "https://github.com/capawesome-team/capacitor-plugins",
+		"npm_name": "@capawesome/capacitor-android-edge-to-edge-support",
+		"description": "Capacitor plugin to support edge-to-edge display on Android.",
+		"keywords": ["capacitor", "plugin", "native"],
+		"version": "8.0.8",
+		"stars": 447,
+		"forks": 100,
+		"open_issues": 62,
+		"language": "Java",
+		"license": null,
+		"last_commit": "2026-04-20T13:05:14Z",
+		"topics": ["android", "capacitor", "capacitor-android", "capacitor-community", "capacitor-ios", "capacitor-plugin", "hacktoberfest", "ios", "web"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://capawesome.io/plugins/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 12,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

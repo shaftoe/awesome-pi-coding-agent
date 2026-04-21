@@ -1,0 +1,36 @@
+{
+	"id": "@stoplight/spectral-ref-resolver",
+	"name": "@stoplight/spectral-ref-resolver",
+	"url": "https://www.npmjs.com/package/@stoplight/spectral-ref-resolver",
+	"source": "npm-search",
+	"description": "This package provides Spectral-compatible bindings for [@stoplight/json-ref-resolver](https://github.com/stoplightio/json-ref-resolver) and [@stoplight/json-ref-readers](https://github.com/stoplightio/json-ref-readers).",
+	"metadata": {
+		"github_url": "https://github.com/stoplightio/spectral",
+		"npm_name": "@stoplight/spectral-ref-resolver",
+		"description": "This package provides Spectral-compatible bindings for [@stoplight/json-ref-resolver](https://github.com/stoplightio/json-ref-resolver) and [@stoplight/json-ref-readers](https://github.com/stoplightio/json-ref-readers).",
+		"keywords": [],
+		"version": "1.0.5",
+		"stars": 3074,
+		"forks": 285,
+		"open_issues": 249,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-21T07:12:46Z",
+		"topics": ["arazzo", "hacktoberfest", "json", "json-lint", "json-schema", "jsonpath", "linting", "oas", "oasv3", "openapi", "openapi-specification", "openapi3", "stoplight-oss", "stoplight-spectral", "swagger", "swagger-oss"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://stoplight.io/spectral",
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 6,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

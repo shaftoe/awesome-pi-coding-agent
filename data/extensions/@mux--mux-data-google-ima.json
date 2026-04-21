@@ -1,0 +1,20 @@
+{
+	"id": "@mux/mux-data-google-ima",
+	"name": "@mux/mux-data-google-ima",
+	"url": "https://www.npmjs.com/package/@mux/mux-data-google-ima",
+	"source": "npm-search",
+	"description": "Mux Data SDK extension for monitoring Google IMA Ads with mux-embed",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@mux/mux-data-google-ima",
+		"description": "Mux Data SDK extension for monitoring Google IMA Ads with mux-embed",
+		"keywords": ["google-ima", "csai", "video-analytics", "mux"],
+		"version": "0.3.16",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

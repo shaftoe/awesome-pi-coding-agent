@@ -1,0 +1,36 @@
+{
+	"id": "@tintinweb/pi-tasks",
+	"name": "@tintinweb/pi-tasks",
+	"url": "https://www.npmjs.com/package/@tintinweb/pi-tasks",
+	"source": "npm-search",
+	"description": "A pi extension that brings Claude Code-style task tracking and coordination to pi.",
+	"metadata": {
+		"github_url": "https://github.com/tintinweb/pi-tasks",
+		"npm_name": "@tintinweb/pi-tasks",
+		"description": "A pi extension that brings Claude Code-style task tracking and coordination to pi.",
+		"keywords": ["pi-package", "pi", "pi-extension", "task", "tasks", "todo", "coordination"],
+		"version": "0.4.2",
+		"stars": 55,
+		"forks": 8,
+		"open_issues": 6,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-24T14:15:38Z",
+		"topics": ["pi-agent", "pi-extension", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/@tintinweb/pi-tasks",
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 76,
+		"level": "active"
+	},
+	"category": "extension"
+}

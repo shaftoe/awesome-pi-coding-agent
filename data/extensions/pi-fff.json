@@ -1,0 +1,36 @@
+{
+	"id": "pi-fff",
+	"name": "pi-fff",
+	"url": "https://www.npmjs.com/package/pi-fff",
+	"source": "npm-search",
+	"description": "FFF-powered fuzzy file resolution, autocomplete, and content search extension for pi",
+	"metadata": {
+		"github_url": "https://github.com/ShpetimA/pi-fff",
+		"npm_name": "pi-fff",
+		"description": "FFF-powered fuzzy file resolution, autocomplete, and content search extension for pi",
+		"keywords": ["pi-package", "pi", "coding-agent", "extension", "autocomplete", "files", "fff"],
+		"version": "0.1.9",
+		"stars": 33,
+		"forks": 4,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T07:28:26Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "extension"
+}

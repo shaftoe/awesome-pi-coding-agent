@@ -1,0 +1,30 @@
+{
+	"id": "micromark-extension-gfm-footnote",
+	"name": "micromark-extension-gfm-footnote",
+	"url": "https://www.npmjs.com/package/micromark-extension-gfm-footnote",
+	"source": "npm-search",
+	"description": "micromark extension to support GFM footnotes",
+	"metadata": {
+		"github_url": "https://github.com/micromark/micromark-extension-gfm-footnote",
+		"npm_name": "micromark-extension-gfm-footnote",
+		"description": "micromark extension to support GFM footnotes",
+		"keywords": ["micromark", "micromark-extension", "gfm", "footnote", "note", "definition", "markdown", "unified"],
+		"version": "2.1.0",
+		"stars": 9,
+		"forks": 3,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2024-09-02T14:42:41Z",
+		"topics": ["footnote", "gfm", "micromark", "micromark-extension", "note"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://unifiedjs.com",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 31,
+		"level": "stale"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@casualjim/pi-taskplane-planner",
+	"name": "@casualjim/pi-taskplane-planner",
+	"url": "https://www.npmjs.com/package/@casualjim/pi-taskplane-planner",
+	"source": "npm-search",
+	"description": "Planner-native pi extension and CLI companion to Taskplane",
+	"metadata": {
+		"github_url": "https://github.com/casualjim/pi-taskplane-planner",
+		"npm_name": "@casualjim/pi-taskplane-planner",
+		"description": "Planner-native pi extension and CLI companion to Taskplane",
+		"keywords": ["pi-package", "planner", "taskplane", "extension", "specs"],
+		"version": "0.2.1",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-15T19:24:57Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

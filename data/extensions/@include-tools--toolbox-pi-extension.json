@@ -1,0 +1,20 @@
+{
+	"id": "@include-tools/toolbox-pi-extension",
+	"name": "@include-tools/toolbox-pi-extension",
+	"url": "https://www.npmjs.com/package/@include-tools/toolbox-pi-extension",
+	"source": "npm-search",
+	"description": "pi extension for toolbox codemode sessions",
+	"metadata": {
+		"github_url": "https://github.com/include-tools/toolbox-pi-extension",
+		"npm_name": "@include-tools/toolbox-pi-extension",
+		"description": "pi extension for toolbox codemode sessions",
+		"keywords": ["pi-package", "pi-extension", "toolbox"],
+		"version": "0.1.0-preview.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

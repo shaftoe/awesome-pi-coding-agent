@@ -1,0 +1,36 @@
+{
+	"id": "pi-comment-checker",
+	"name": "pi-comment-checker",
+	"url": "https://www.npmjs.com/package/pi-comment-checker",
+	"source": "npm-search",
+	"description": "Pi extension that enforces self-documenting code by detecting and blocking unnecessary comments",
+	"metadata": {
+		"github_url": "https://github.com/djdembeck/pi-comment-checker",
+		"npm_name": "pi-comment-checker",
+		"description": "Pi extension that enforces self-documenting code by detecting and blocking unnecessary comments",
+		"keywords": ["pi-package", "pi-extension", "comment-checker", "self-documenting-code", "code-quality"],
+		"version": "0.2.3",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-16T23:08:32Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 9,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

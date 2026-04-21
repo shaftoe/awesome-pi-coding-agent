@@ -1,0 +1,32 @@
+{
+	"id": "injaneity-pi-computer-use",
+	"name": "injaneity-pi-computer-use",
+	"url": "https://github.com/injaneity/pi-computer-use",
+	"source": "github-search",
+	"description": "control your applications using pi-coding-agent. fully invisible.",
+	"metadata": {
+		"description": "control your applications using pi-coding-agent. fully invisible.",
+		"stars": 130,
+		"forks": 2,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 1,
+		"license": "MIT",
+		"last_commit": "2026-04-21T10:46:35Z",
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 3,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 83,
+		"level": "active"
+	},
+	"category": "skill"
+}

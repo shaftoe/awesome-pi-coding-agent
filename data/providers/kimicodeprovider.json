@@ -1,0 +1,36 @@
+{
+	"id": "kimicodeprovider",
+	"name": "kimicodeprovider",
+	"url": "https://www.npmjs.com/package/kimicodeprovider",
+	"source": "npm-search",
+	"description": "pi-coding-agent extension for Kimi/Moonshot API with configurable base URL",
+	"metadata": {
+		"github_url": "https://github.com/forbidden-game/kimicodeprovider",
+		"npm_name": "kimicodeprovider",
+		"description": "pi-coding-agent extension for Kimi/Moonshot API with configurable base URL",
+		"keywords": ["pi-package", "pi-extension", "kimi", "kimi-code", "moonshot", "moonshot-ai", "llm-provider", "ai-provider", "openai-compatible", "code-assistant", "developer-tools", "cli", "chatbot", "llm", "ai", "coding-agent"],
+		"version": "0.1.0",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-01-28T18:49:09Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 7,
+			"skill": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 6
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

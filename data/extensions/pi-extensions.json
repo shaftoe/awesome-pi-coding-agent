@@ -1,0 +1,20 @@
+{
+	"id": "pi-extensions",
+	"name": "pi-extensions",
+	"url": "https://www.npmjs.com/package/pi-extensions",
+	"source": "npm-search",
+	"description": "Personal extensions for the [Pi coding agent](https://github.com/badlogic/pi-mono).",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-extensions",
+		"description": "Personal extensions for the [Pi coding agent](https://github.com/badlogic/pi-mono).",
+		"keywords": ["pi-package"],
+		"version": "0.1.34",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

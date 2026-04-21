@@ -1,0 +1,36 @@
+{
+	"id": "pi-add-dir",
+	"name": "pi-add-dir",
+	"url": "https://www.npmjs.com/package/pi-add-dir",
+	"source": "npm-search",
+	"description": "Add external directories to your pi session — loads their AGENTS.md, CLAUDE.md, and skills into context.",
+	"metadata": {
+		"github_url": "https://github.com/itisbryan/pi-add-dir",
+		"npm_name": "pi-add-dir",
+		"description": "Add external directories to your pi session — loads their AGENTS.md, CLAUDE.md, and skills into context.",
+		"keywords": ["pi-package", "pi", "coding-agent", "external-directory", "multi-project", "context"],
+		"version": "1.3.1",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-31T11:50:11Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 18,
+			"skill": 30,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

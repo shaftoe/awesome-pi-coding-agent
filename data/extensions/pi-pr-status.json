@@ -1,0 +1,36 @@
+{
+	"id": "pi-pr-status",
+	"name": "pi-pr-status",
+	"url": "https://www.npmjs.com/package/pi-pr-status",
+	"source": "npm-search",
+	"description": "A Pi extension that shows the current PR link, CI check status, and unresolved review comments in the footer status bar",
+	"metadata": {
+		"github_url": "https://github.com/bruno-garcia/pi-pr-status",
+		"npm_name": "pi-pr-status",
+		"description": "A Pi extension that shows the current PR link, CI check status, and unresolved review comments in the footer status bar",
+		"keywords": ["pi-package", "github", "pull-request", "ci", "pi-extension"],
+		"version": "0.3.0",
+		"stars": 5,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-16T17:51:41Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

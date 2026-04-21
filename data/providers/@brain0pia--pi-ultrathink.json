@@ -1,0 +1,36 @@
+{
+	"id": "@brain0pia/pi-ultrathink",
+	"name": "@brain0pia/pi-ultrathink",
+	"url": "https://www.npmjs.com/package/@brain0pia/pi-ultrathink",
+	"source": "npm-search",
+	"description": "Pi extension for /ultrathink review loops with conditional git commits",
+	"metadata": {
+		"github_url": "https://github.com/brainopia/pi-ultrathink",
+		"npm_name": "@brain0pia/pi-ultrathink",
+		"description": "Pi extension for /ultrathink review loops with conditional git commits",
+		"keywords": ["pi-package", "pi", "extension", "ultrathink"],
+		"version": "0.7.1",
+		"stars": 7,
+		"forks": 2,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-25T19:35:13Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 7
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "pi-extension-observational-memory",
+	"name": "pi-extension-observational-memory",
+	"url": "https://www.npmjs.com/package/pi-extension-observational-memory",
+	"source": "npm-search",
+	"description": "Observational-memory compaction strategy for pi with observer/reflector token thresholds",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-extension-observational-memory",
+		"description": "Observational-memory compaction strategy for pi with observer/reflector token thresholds",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "extension", "memory", "compaction", "observational-memory"],
+		"version": "0.1.3",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@dreki-gg/pi-subagent",
+	"name": "@dreki-gg/pi-subagent",
+	"url": "https://www.npmjs.com/package/@dreki-gg/pi-subagent",
+	"source": "npm-search",
+	"description": "Subagent tool and delegate orchestration for pi — isolated agents, parallel scouts, planning gates, and workflow presets",
+	"metadata": {
+		"github_url": "https://github.com/dreki-gg/pi-extensions",
+		"npm_name": "@dreki-gg/pi-subagent",
+		"description": "Subagent tool and delegate orchestration for pi — isolated agents, parallel scouts, planning gates, and workflow presets",
+		"keywords": ["pi-package"],
+		"version": "0.6.0",
+		"stars": 5,
+		"forks": 1,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T04:52:03Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

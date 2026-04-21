@@ -1,0 +1,20 @@
+{
+	"id": "pi-quit",
+	"name": "pi-quit",
+	"url": "https://www.npmjs.com/package/pi-quit",
+	"source": "npm-search",
+	"description": "A tiny pi extension that shows a quit hint on the first clear key press when pi is idle.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-quit",
+		"description": "A tiny pi extension that shows a quit hint on the first clear key press when pi is idle.",
+		"keywords": [],
+		"version": "0.1.5",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

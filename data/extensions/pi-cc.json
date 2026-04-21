@@ -1,0 +1,20 @@
+{
+	"id": "pi-cc",
+	"name": "pi-cc",
+	"url": "https://www.npmjs.com/package/pi-cc",
+	"source": "npm-search",
+	"description": "pi extension that auto-publishes autoresearch.jsonl updates to community.computer.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-cc",
+		"description": "pi extension that auto-publishes autoresearch.jsonl updates to community.computer.",
+		"keywords": ["pi-package", "community-computer", "radicle", "autoresearch"],
+		"version": "0.1.15",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

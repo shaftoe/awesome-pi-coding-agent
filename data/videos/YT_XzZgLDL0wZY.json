@@ -1,0 +1,19 @@
+{
+	"id": "YT_XzZgLDL0wZY",
+	"name": "I Found the Vim of AI Coding Agents",
+	"url": "https://www.youtube.com/watch?v=XzZgLDL0wZY",
+	"source": "youtube-search",
+	"description": "If Claude Code is VS Code, then Pi is NeoVim — a minimal terminal coding agent harness built for extensibility. I gave it 20 ...",
+	"metadata": {
+		"title": "I Found the Vim of AI Coding Agents",
+		"description": "If Claude Code is VS Code, then Pi is NeoVim — a minimal terminal coding agent harness built for extensibility. I gave it 20 ...",
+		"channel": "chantastic",
+		"published_at": "2026-03-26T14:29:07Z",
+		"thumbnail": "https://i.ytimg.com/vi/XzZgLDL0wZY/hqdefault.jpg"
+	},
+	"health": {
+		"score": 0,
+		"level": "stale"
+	},
+	"category": "video"
+}

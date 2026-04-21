@@ -1,0 +1,36 @@
+{
+	"id": "pi-schedule-prompt",
+	"name": "pi-schedule-prompt",
+	"url": "https://www.npmjs.com/package/pi-schedule-prompt",
+	"source": "npm-search",
+	"description": "A pi extension for scheduling recurring and one-shot agent prompts with cron-like functionality",
+	"metadata": {
+		"github_url": "https://github.com/tintinweb/pi-schedule-prompt",
+		"npm_name": "pi-schedule-prompt",
+		"description": "A pi extension for scheduling recurring and one-shot agent prompts with cron-like functionality",
+		"keywords": ["pi-package", "pi", "pi-extension", "scheduler", "prompt", "automation", "cron", "heartbeat", "defer", "remind"],
+		"version": "0.1.2",
+		"stars": 35,
+		"forks": 5,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-16T11:10:38Z",
+		"topics": ["pi-agent", "pi-extension", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/pi-schedule-prompt",
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 64,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

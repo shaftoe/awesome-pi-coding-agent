@@ -1,0 +1,36 @@
+{
+	"id": "pi-context-zone",
+	"name": "pi-context-zone",
+	"url": "https://www.npmjs.com/package/pi-context-zone",
+	"source": "npm-search",
+	"description": "Visual context health bar for the Pi coding agent — see your smart/warm/dumb zone at a glance",
+	"metadata": {
+		"github_url": "https://github.com/arpagon/pi-context-zone",
+		"npm_name": "pi-context-zone",
+		"description": "Visual context health bar for the Pi coding agent — see your smart/warm/dumb zone at a glance",
+		"keywords": ["pi", "pi-coding-agent", "pi-extension", "pi-package", "context", "compaction", "zone", "visual"],
+		"version": "0.1.1",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-27T04:45:59Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

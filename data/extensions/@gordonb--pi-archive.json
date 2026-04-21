@@ -1,0 +1,36 @@
+{
+	"id": "@gordonb/pi-archive",
+	"name": "@gordonb/pi-archive",
+	"url": "https://www.npmjs.com/package/@gordonb/pi-archive",
+	"source": "npm-search",
+	"description": "SQLite searchable archive of every conversation with Pi agent",
+	"metadata": {
+		"github_url": "https://github.com/gordonbrander/pi-archive",
+		"npm_name": "@gordonb/pi-archive",
+		"description": "SQLite searchable archive of every conversation with Pi agent",
+		"keywords": ["pi-package", "memory", "coding-agent"],
+		"version": "0.1.0",
+		"stars": 5,
+		"forks": 0,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-08T09:03:29Z",
+		"topics": ["agent", "memory", "pi"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

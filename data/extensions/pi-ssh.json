@@ -1,0 +1,36 @@
+{
+	"id": "pi-ssh",
+	"name": "pi-ssh",
+	"url": "https://www.npmjs.com/package/pi-ssh",
+	"source": "npm-search",
+	"description": "pi extension for local-model plus remote SSH workspace tool execution",
+	"metadata": {
+		"github_url": "https://github.com/hjanuschka/pi-ssh",
+		"npm_name": "pi-ssh",
+		"description": "pi extension for local-model plus remote SSH workspace tool execution",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "theme", "ssh", "dark-mode", "ghostty"],
+		"version": "0.3.2",
+		"stars": 25,
+		"forks": 3,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-01T06:43:51Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 10,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "@0xkobold/pi-suggest",
+	"name": "@0xkobold/pi-suggest",
+	"url": "https://www.npmjs.com/package/@0xkobold/pi-suggest",
+	"source": "npm-search",
+	"description": "Context-aware suggestion engine for pi-coding-agent",
+	"metadata": {
+		"github_url": "https://github.com/0xKobold/pi-suggest",
+		"npm_name": "@0xkobold/pi-suggest",
+		"description": "Context-aware suggestion engine for pi-coding-agent",
+		"keywords": ["pi-package", "suggestions", "intent", "context-aware"],
+		"version": "0.5.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

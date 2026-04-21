@@ -1,0 +1,36 @@
+{
+	"id": "pi-chutes",
+	"name": "pi-chutes",
+	"url": "https://www.npmjs.com/package/pi-chutes",
+	"source": "npm-search",
+	"description": "AI-powered bug detection and fixing extension for Pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/mark182es/pi-chutes",
+		"npm_name": "pi-chutes",
+		"description": "AI-powered bug detection and fixing extension for Pi coding agent",
+		"keywords": ["pi-package", "pi-coding-agent", "ai", "bug-detection", "code-quality"],
+		"version": "1.0.0",
+		"stars": 3,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-04T14:33:47Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 18,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 5
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

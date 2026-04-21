@@ -1,0 +1,20 @@
+{
+	"id": "pi-cline-free-models",
+	"name": "pi-cline-free-models",
+	"url": "https://www.npmjs.com/package/pi-cline-free-models",
+	"source": "npm-search",
+	"description": "A Pi extension to use Cline models as a provider.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-cline-free-models",
+		"description": "A Pi extension to use Cline models as a provider.",
+		"keywords": ["pi-package", "pi", "pi-agent", "extension", "cline"],
+		"version": "0.2.3",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "pi-island",
+	"name": "pi-island",
+	"url": "https://www.npmjs.com/package/pi-island",
+	"source": "npm-search",
+	"description": "macOS Dynamic-Island-style status capsule for the pi coding agent. Shows what pi is doing in real time, at the very top of your screen — with native notch-wrap support for MacBooks.",
+	"metadata": {
+		"github_url": "https://github.com/phun333/pi-island",
+		"npm_name": "pi-island",
+		"description": "macOS Dynamic-Island-style status capsule for the pi coding agent. Shows what pi is doing in real time, at the very top of your screen — with native notch-wrap support for MacBooks.",
+		"keywords": ["pi-package", "pi-coding-agent", "pi-extension", "macos", "dynamic-island", "notch", "status-bar", "agent-ui", "webkit", "wkwebview"],
+		"version": "0.1.2",
+		"stars": 7,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T07:51:37Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://pi-island.vercel.app",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "samfoy-pi-steering-hooks",
+	"name": "samfoy-pi-steering-hooks",
+	"url": "https://github.com/samfoy/pi-steering-hooks",
+	"source": "github-search",
+	"description": "Deterministic tool-call guardrails for pi — enforce rules with before-tool hooks instead of prompts",
+	"metadata": {
+		"description": "Deterministic tool-call guardrails for pi — enforce rules with before-tool hooks instead of prompts",
+		"stars": 2,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["agent-guardrails", "ai-coding-agent", "developer-tools", "guardrails", "pi-coding-agent", "safety", "steering"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 1,
+		"license": "MIT",
+		"last_commit": "2026-04-21T13:59:23Z",
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

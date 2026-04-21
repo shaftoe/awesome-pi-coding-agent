@@ -1,0 +1,36 @@
+{
+	"id": "pi-spell-check",
+	"name": "pi-spell-check",
+	"url": "https://www.npmjs.com/package/pi-spell-check",
+	"source": "npm-search",
+	"description": "Spell-check extension for pi coding agent. Press Ctrl+Shift+S to fix spelling and grammar in the editor.",
+	"metadata": {
+		"github_url": "https://github.com/manuranga/pi-spell-check",
+		"npm_name": "pi-spell-check",
+		"description": "Spell-check extension for pi coding agent. Press Ctrl+Shift+S to fix spelling and grammar in the editor.",
+		"keywords": ["pi-package", "pi", "coding-agent", "spell-check", "extension"],
+		"version": "0.1.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-12T06:24:37Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

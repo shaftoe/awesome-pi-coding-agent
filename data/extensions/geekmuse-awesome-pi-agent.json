@@ -1,0 +1,26 @@
+{
+	"id": "geekmuse-awesome-pi-agent",
+	"name": "geekmuse-awesome-pi-agent",
+	"url": "https://github.com/geekmuse/awesome-pi-agent",
+	"source": "github-search",
+	"description": "An awesome list of extensions, skills, etc. for the amazing pi coding agent",
+	"metadata": {
+		"description": "An awesome list of extensions, skills, etc. for the amazing pi coding agent",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-03-12T02:04:08Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@sibyllinesoft/smith-installer",
+	"name": "@sibyllinesoft/smith-installer",
+	"url": "https://www.npmjs.com/package/@sibyllinesoft/smith-installer",
+	"source": "npm-search",
+	"description": "AI-guided Smith platform installer powered by pi-agent",
+	"metadata": {
+		"github_url": "https://github.com/sibyllinesoft/smith-core",
+		"npm_name": "@sibyllinesoft/smith-installer",
+		"description": "AI-guided Smith platform installer powered by pi-agent",
+		"keywords": [],
+		"version": "0.2.4",
+		"stars": 11,
+		"forks": 2,
+		"open_issues": 0,
+		"language": "Rust",
+		"license": "MIT",
+		"last_commit": "2026-03-13T03:29:16Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 1,
+			"tool": 19,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "skill"
+}

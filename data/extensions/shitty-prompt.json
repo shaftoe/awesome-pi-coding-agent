@@ -1,0 +1,20 @@
+{
+	"id": "shitty-prompt",
+	"name": "shitty-prompt",
+	"url": "https://www.npmjs.com/package/shitty-prompt",
+	"source": "npm-search",
+	"description": "💩 Submit your hilariously broken prompts to shitty-prompt — pi coding agent extension",
+	"metadata": {
+		"github_url": "https://github.com/hjanuschka/shitty-prompt",
+		"npm_name": "shitty-prompt",
+		"description": "💩 Submit your hilariously broken prompts to shitty-prompt — pi coding agent extension",
+		"keywords": ["pi-package", "pi-extension", "shitty-prompt", "coding-agent"],
+		"version": "1.0.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "Kmiyh-pi-extensions-menu",
+	"name": "Kmiyh-pi-extensions-menu",
+	"url": "https://github.com/Kmiyh/pi-extensions-menu",
+	"source": "github-search",
+	"description": "Pi extension that adds a dedicated /extensions menu for browsing, enabling, disabling, and updating installed extensions",
+	"metadata": {
+		"description": "Pi extension that adds a dedicated /extensions menu for browsing, enabling, disabling, and updating installed extensions",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["extensions", "menu", "pi-agent", "pi-extension", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/@kmiyh/pi-extensions-menu",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-15T11:31:49Z",
+		"_readme_category_scores": {
+			"extension": 28,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

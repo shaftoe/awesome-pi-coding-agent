@@ -1,0 +1,20 @@
+{
+	"id": "repeat-pi",
+	"name": "repeat-pi",
+	"url": "https://www.npmjs.com/package/repeat-pi",
+	"source": "npm-search",
+	"description": "Repeat tool calls in pi-coding-agent",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "repeat-pi",
+		"description": "Repeat tool calls in pi-coding-agent",
+		"keywords": ["pi", "pi-coding-agent", "repeat", "pi-package"],
+		"version": "0.50.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

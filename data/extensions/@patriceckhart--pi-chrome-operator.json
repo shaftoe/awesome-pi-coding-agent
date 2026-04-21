@@ -1,0 +1,36 @@
+{
+	"id": "@patriceckhart/pi-chrome-operator",
+	"name": "@patriceckhart/pi-chrome-operator",
+	"url": "https://www.npmjs.com/package/@patriceckhart/pi-chrome-operator",
+	"source": "npm-search",
+	"description": "Chat with pi agent to control your browser — summarize pages, fill forms, check mail, and save routines.",
+	"metadata": {
+		"github_url": "https://github.com/patriceckhart/pi-chrome-operator",
+		"npm_name": "@patriceckhart/pi-chrome-operator",
+		"description": "Chat with pi agent to control your browser — summarize pages, fill forms, check mail, and save routines.",
+		"keywords": ["pi-package"],
+		"version": "0.0.13",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-15T09:34:40Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 19,
+			"skill": 0,
+			"tool": 10,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

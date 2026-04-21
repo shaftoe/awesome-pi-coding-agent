@@ -1,0 +1,36 @@
+{
+	"id": "pi-rewind",
+	"name": "pi-rewind",
+	"url": "https://www.npmjs.com/package/pi-rewind",
+	"source": "npm-search",
+	"description": "Checkpoint/rewind extension for the Pi coding agent — per-tool snapshots, /rewind command, Esc+Esc shortcut, safe restore, redo stack",
+	"metadata": {
+		"github_url": "https://github.com/arpagon/pi-rewind",
+		"npm_name": "pi-rewind",
+		"description": "Checkpoint/rewind extension for the Pi coding agent — per-tool snapshots, /rewind command, Esc+Esc shortcut, safe restore, redo stack",
+		"keywords": ["pi", "pi-coding-agent", "pi-extension", "pi-package", "checkpoint", "rewind", "undo", "git"],
+		"version": "0.5.0",
+		"stars": 33,
+		"forks": 3,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-31T19:05:05Z",
+		"topics": ["checkpoint", "coding-agent", "git", "pi", "pi-agent", "pi-extension", "rewind", "undo"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://arpagon.github.io/pi-rewind",
+		"_readme_category_scores": {
+			"extension": 7,
+			"skill": 0,
+			"tool": 4,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@ai-sdk/openai",
+	"name": "@ai-sdk/openai",
+	"url": "https://www.npmjs.com/package/@ai-sdk/openai",
+	"source": "npm-search",
+	"description": "The **[OpenAI provider](https://ai-sdk.dev/providers/ai-sdk-providers/openai)** for the [AI SDK](https://ai-sdk.dev/docs) contains language model support for the OpenAI chat and completion APIs and embedding model support for the OpenAI embeddings API.",
+	"metadata": {
+		"github_url": "https://github.com/vercel/ai",
+		"npm_name": "@ai-sdk/openai",
+		"description": "The **[OpenAI provider](https://ai-sdk.dev/providers/ai-sdk-providers/openai)** for the [AI SDK](https://ai-sdk.dev/docs) contains language model support for the OpenAI chat and completion APIs and embedding model support for the OpenAI embeddings API.",
+		"keywords": ["ai"],
+		"version": "3.0.53",
+		"stars": 23680,
+		"forks": 4241,
+		"open_issues": 1513,
+		"language": "TypeScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-21T15:45:09Z",
+		"topics": ["anthropic", "artificial-intelligence", "gemini", "generative-ai", "generative-ui", "javascript", "language-model", "llm", "nextjs", "openai", "react", "svelte", "typescript", "vercel", "vue"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://ai-sdk.dev",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "provider"
+}

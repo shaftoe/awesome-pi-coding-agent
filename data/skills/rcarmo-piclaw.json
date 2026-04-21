@@ -1,0 +1,32 @@
+{
+	"id": "rcarmo-piclaw",
+	"name": "rcarmo-piclaw",
+	"url": "https://github.com/rcarmo/piclaw",
+	"source": "github-search",
+	"description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
+	"metadata": {
+		"description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
+		"stars": 537,
+		"forks": 37,
+		"language": "TypeScript",
+		"topics": ["adaptive-cards", "ai-agent", "bun", "coding-agent", "docker", "llm", "pi-agent", "self-hosted", "typescript", "vnc", "web-ui", "workspace"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 3,
+		"license": "MIT",
+		"last_commit": "2026-04-21T15:51:55Z",
+		"_readme_category_scores": {
+			"extension": 10,
+			"skill": 4,
+			"tool": 7,
+			"theme": 2,
+			"provider": 7
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "skill"
+}

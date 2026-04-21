@@ -1,0 +1,30 @@
+{
+	"id": "micromark-extension-gfm",
+	"name": "micromark-extension-gfm",
+	"url": "https://www.npmjs.com/package/micromark-extension-gfm",
+	"source": "npm-search",
+	"description": "micromark extension to support GFM (GitHub Flavored Markdown)",
+	"metadata": {
+		"github_url": "https://github.com/micromark/micromark-extension-gfm",
+		"npm_name": "micromark-extension-gfm",
+		"description": "micromark extension to support GFM (GitHub Flavored Markdown)",
+		"keywords": ["micromark", "micromark-extension", "table", "strikethrough", "tasklist", "autolink", "footnote", "tagfilter", "github", "gfm", "markdown", "unified"],
+		"version": "3.0.0",
+		"stars": 37,
+		"forks": 3,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2024-09-02T14:35:42Z",
+		"topics": ["autolink", "flavored", "footnote", "gfm", "github", "markdown", "micromark", "micromark-extension", "strikethrough", "table", "tagfilter", "tasklist"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://unifiedjs.com",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 34,
+		"level": "stale"
+	},
+	"category": "extension"
+}

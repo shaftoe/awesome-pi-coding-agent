@@ -1,0 +1,36 @@
+{
+	"id": "pi-workstation",
+	"name": "pi-workstation",
+	"url": "https://www.npmjs.com/package/pi-workstation",
+	"source": "npm-search",
+	"description": "Custom extensions and themes for pi coding agent. Music, Navi, knowledge graph, LLM council, git TUI, file browser, and 9 handcrafted themes.",
+	"metadata": {
+		"github_url": "https://github.com/marv1nnnnn/pi-workstation",
+		"npm_name": "pi-workstation",
+		"description": "Custom extensions and themes for pi coding agent. Music, Navi, knowledge graph, LLM council, git TUI, file browser, and 9 handcrafted themes.",
+		"keywords": ["pi-package", "pi-extension", "pi-theme", "pi-coding-agent", "terminal", "workstation"],
+		"version": "0.1.1",
+		"stars": 13,
+		"forks": 2,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-16T02:45:52Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 0,
+			"tool": 1,
+			"theme": 6,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "theme"
+}

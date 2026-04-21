@@ -1,0 +1,36 @@
+{
+	"id": "@researchcomputer/agents-sdk",
+	"name": "@researchcomputer/agents-sdk",
+	"url": "https://www.npmjs.com/package/@researchcomputer/agents-sdk",
+	"source": "npm-search",
+	"description": "Coding agent SDK built on pi-ai and pi-agent-core",
+	"metadata": {
+		"github_url": "https://github.com/ResearchComputer/pi-agent-sdk",
+		"npm_name": "@researchcomputer/agents-sdk",
+		"description": "Coding agent SDK built on pi-ai and pi-agent-core",
+		"keywords": [],
+		"version": "0.1.3",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-19T20:23:14Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 5
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

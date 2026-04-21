@@ -1,0 +1,36 @@
+{
+	"id": "pi-codex-footer",
+	"name": "pi-codex-footer",
+	"url": "https://www.npmjs.com/package/pi-codex-footer",
+	"source": "npm-search",
+	"description": "Pi extension that adds a 2-line footer with live OpenAI Codex 5h/7d quota usage and reset timers.",
+	"metadata": {
+		"github_url": "https://github.com/glnarayanan/pi-codex-footer",
+		"npm_name": "pi-codex-footer",
+		"description": "Pi extension that adds a 2-line footer with live OpenAI Codex 5h/7d quota usage and reset timers.",
+		"keywords": ["pi-package", "pi-extension", "openai", "codex", "chatgpt", "footer"],
+		"version": "0.2.0",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-09T14:23:18Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

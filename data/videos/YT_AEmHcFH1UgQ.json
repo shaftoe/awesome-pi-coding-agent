@@ -1,0 +1,19 @@
+{
+	"id": "YT_AEmHcFH1UgQ",
+	"name": "Claude Code is overkill - Pi is All you Need",
+	"url": "https://www.youtube.com/watch?v=AEmHcFH1UgQ",
+	"source": "youtube-search",
+	"description": "Wes and Scott talk with Armin Ronacher and Mario Zechner about PI, a minimalist agent harness powering tools like OpenClaw.",
+	"metadata": {
+		"title": "Claude Code is overkill - Pi is All you Need",
+		"description": "Wes and Scott talk with Armin Ronacher and Mario Zechner about PI, a minimalist agent harness powering tools like OpenClaw.",
+		"channel": "Syntax",
+		"published_at": "2026-02-04T12:00:31Z",
+		"thumbnail": "https://i.ytimg.com/vi/AEmHcFH1UgQ/hqdefault.jpg"
+	},
+	"health": {
+		"score": 0,
+		"level": "stale"
+	},
+	"category": "video"
+}

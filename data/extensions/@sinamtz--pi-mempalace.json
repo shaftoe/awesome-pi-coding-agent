@@ -1,0 +1,36 @@
+{
+	"id": "@sinamtz/pi-mempalace",
+	"name": "@sinamtz/pi-mempalace",
+	"url": "https://www.npmjs.com/package/@sinamtz/pi-mempalace",
+	"source": "npm-search",
+	"description": "hasslefree and self-contained mempalace port for pi-coding-agent with SurrealDB-backed vector search, layered retrieval, and multi-process auto-server runtime",
+	"metadata": {
+		"github_url": "https://github.com/sinamtz/pi-mempalace",
+		"npm_name": "@sinamtz/pi-mempalace",
+		"description": "hasslefree and self-contained mempalace port for pi-coding-agent with SurrealDB-backed vector search, layered retrieval, and multi-process auto-server runtime",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "mempalace", "pi-mempalace", "memory", "vector-search", "knowledge-graph", "surrealdb", "embedding"],
+		"version": "0.2.6",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-10T06:09:29Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 7,
+			"skill": 0,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

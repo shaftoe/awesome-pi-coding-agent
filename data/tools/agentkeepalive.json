@@ -1,0 +1,20 @@
+{
+	"id": "agentkeepalive",
+	"name": "agentkeepalive",
+	"url": "https://www.npmjs.com/package/agentkeepalive",
+	"source": "npm-search",
+	"description": "Missing keepalive http.Agent",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "agentkeepalive",
+		"description": "Missing keepalive http.Agent",
+		"keywords": ["http", "https", "agent", "keepalive", "agentkeepalive", "HttpAgent", "HttpsAgent"],
+		"version": "4.6.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

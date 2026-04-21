@@ -1,0 +1,32 @@
+{
+	"id": "SrushtiKumar-PathPilot_AgenticAI",
+	"name": "SrushtiKumar-PathPilot_AgenticAI",
+	"url": "https://github.com/SrushtiKumar/PathPilot_AgenticAI",
+	"source": "github-search",
+	"description": "\"PathPilot\" is an Agentic AI-powered learning advisor built with IBM Cloud and Granite LLM. It interacts with users to understand their goals, preferences, and skill levels, then generates a dynamic, personalized learning roadmap — ideal for students, professionals, or anyone looking to upskill.",
+	"metadata": {
+		"description": "\"PathPilot\" is an Agentic AI-powered learning advisor built with IBM Cloud and Granite LLM. It interacts with users to understand their goals, preferences, and skill levels, then generates a dynamic, personalized learning roadmap — ideal for students, professionals, or anyone looking to upskill.",
+		"stars": 0,
+		"forks": 0,
+		"language": "Jupyter Notebook",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2025-08-09T08:41:07Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 1,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "skill"
+}

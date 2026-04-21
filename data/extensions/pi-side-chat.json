@@ -1,0 +1,36 @@
+{
+	"id": "pi-side-chat",
+	"name": "pi-side-chat",
+	"url": "https://www.npmjs.com/package/pi-side-chat",
+	"source": "npm-search",
+	"description": "Pi extension that forks the current conversation into a side chat",
+	"metadata": {
+		"github_url": "https://github.com/nicobailon/pi-side-chat",
+		"npm_name": "pi-side-chat",
+		"description": "Pi extension that forks the current conversation into a side chat",
+		"keywords": ["pi-package", "pi", "extension", "side-chat", "coding-agent"],
+		"version": "0.1.4",
+		"stars": 36,
+		"forks": 3,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-15T17:45:16Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 74,
+		"level": "active"
+	},
+	"category": "extension"
+}

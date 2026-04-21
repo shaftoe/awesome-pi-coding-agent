@@ -1,0 +1,36 @@
+{
+	"id": "pi-gitnexus",
+	"name": "pi-gitnexus",
+	"url": "https://www.npmjs.com/package/pi-gitnexus",
+	"source": "npm-search",
+	"description": "GitNexus knowledge graph integration for pi — enriches searches with call chains, execution flows, and blast radius",
+	"metadata": {
+		"github_url": "https://github.com/tintinweb/pi-gitnexus",
+		"npm_name": "pi-gitnexus",
+		"description": "GitNexus knowledge graph integration for pi — enriches searches with call chains, execution flows, and blast radius",
+		"keywords": ["pi-package", "pi", "pi-extension", "gitnexus", "knowledge-graph", "code-intelligence", "call-graph", "agent"],
+		"version": "0.5.1",
+		"stars": 66,
+		"forks": 11,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-25T13:56:29Z",
+		"topics": ["pi-agents", "pi-extension", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/pi-gitnexus",
+		"_readme_category_scores": {
+			"extension": 9,
+			"skill": 9,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 77,
+		"level": "active"
+	},
+	"category": "skill"
+}

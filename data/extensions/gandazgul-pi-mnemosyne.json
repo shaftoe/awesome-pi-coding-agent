@@ -1,0 +1,32 @@
+{
+	"id": "gandazgul-pi-mnemosyne",
+	"name": "gandazgul-pi-mnemosyne",
+	"url": "https://github.com/gandazgul/pi-mnemosyne",
+	"source": "github-search",
+	"description": "A Pi agent extension for Mnemosyne",
+	"metadata": {
+		"description": "A Pi agent extension for Mnemosyne",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-04T22:17:49Z",
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

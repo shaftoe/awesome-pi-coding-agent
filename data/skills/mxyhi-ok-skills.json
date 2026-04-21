@@ -1,0 +1,32 @@
+{
+	"id": "mxyhi-ok-skills",
+	"name": "mxyhi-ok-skills",
+	"url": "https://github.com/mxyhi/ok-skills",
+	"source": "github-search",
+	"description": "Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-compatible tools.",
+	"metadata": {
+		"description": "Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-compatible tools.",
+		"stars": 284,
+		"forks": 24,
+		"language": "C#",
+		"topics": ["agent-skills", "agents-md", "ai", "ai-agents", "claude-code", "claude-code-skills", "codex", "codex-skills", "coding-agents", "cursor", "cursor-skills", "openclaw-skills", "openfang", "pi-mono", "prompt-engineering", "skills"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-19T09:24:35Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 390,
+			"tool": 38,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "skill"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "pi-oracle",
+	"name": "pi-oracle",
+	"url": "https://www.npmjs.com/package/pi-oracle",
+	"source": "npm-search",
+	"description": "ChatGPT web-oracle extension for pi with isolated browser auth, async jobs, and project-context archives.",
+	"metadata": {
+		"github_url": "https://github.com/fitchmultz/pi-oracle",
+		"npm_name": "pi-oracle",
+		"description": "ChatGPT web-oracle extension for pi with isolated browser auth, async jobs, and project-context archives.",
+		"keywords": ["pi-package", "pi", "pi-extension", "extension", "chatgpt", "oracle"],
+		"version": "0.6.7",
+		"stars": 7,
+		"forks": 4,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T15:28:17Z",
+		"topics": ["chatgpt", "extension", "oracle", "pi", "pi-extension", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/fitchmultz/pi-oracle#readme",
+		"_readme_category_scores": {
+			"extension": 7,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

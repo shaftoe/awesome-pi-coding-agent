@@ -1,0 +1,36 @@
+{
+	"id": "pi-rlm-query",
+	"name": "pi-rlm-query",
+	"url": "https://www.npmjs.com/package/pi-rlm-query",
+	"source": "npm-search",
+	"description": "Recursive LLM Query extension for pi - enables agent-to-agent delegation with guardrails",
+	"metadata": {
+		"github_url": "https://github.com/DrOlu/pi-rlm-query",
+		"npm_name": "pi-rlm-query",
+		"description": "Recursive LLM Query extension for pi - enables agent-to-agent delegation with guardrails",
+		"keywords": ["pi-package", "rlm", "recursive", "multi-agent", "delegation", "pi", "coding-agent"],
+		"version": "1.0.2",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-23T09:16:06Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 20,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

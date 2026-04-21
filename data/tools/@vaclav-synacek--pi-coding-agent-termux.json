@@ -1,0 +1,36 @@
+{
+	"id": "@vaclav-synacek/pi-coding-agent-termux",
+	"name": "@vaclav-synacek/pi-coding-agent-termux",
+	"url": "https://www.npmjs.com/package/@vaclav-synacek/pi-coding-agent-termux",
+	"source": "npm-search",
+	"description": "DEPRECATED: Use @mariozechner/pi-coding-agent instead (supports Termux since v0.51.0)",
+	"metadata": {
+		"github_url": "https://github.com/VaclavSynacek/pi-coding-agent-termux",
+		"npm_name": "@vaclav-synacek/pi-coding-agent-termux",
+		"description": "DEPRECATED: Use @mariozechner/pi-coding-agent instead (supports Termux since v0.51.0)",
+		"keywords": ["coding-agent", "ai", "llm", "cli", "tui", "agent"],
+		"version": "0.51.1-2",
+		"stars": 4,
+		"forks": 2,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-03T08:31:03Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://shittycodingagent.ai/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

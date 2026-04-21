@@ -1,0 +1,36 @@
+{
+	"id": "pi-free",
+	"name": "pi-free",
+	"url": "https://www.npmjs.com/package/pi-free",
+	"source": "npm-search",
+	"description": "AIO Free AI models for Pi - Access free models from Kilo, Zen, OpenRouter, NVIDIA, Cline, Mistral, Ollama, and Qwen",
+	"metadata": {
+		"github_url": "https://github.com/apmantza/pi-free",
+		"npm_name": "pi-free",
+		"description": "AIO Free AI models for Pi - Access free models from Kilo, Zen, OpenRouter, NVIDIA, Cline, Mistral, Ollama, and Qwen",
+		"keywords": ["pi-package", "pi-extension", "free-models", "ai-providers", "openrouter", "nvidia-nim", "kilo", "cline", "ollama", "mistral", "fireworks", "qwen", "qwen-oauth"],
+		"version": "1.0.9",
+		"stars": 18,
+		"forks": 2,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T07:40:29Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 0,
+			"tool": 19,
+			"theme": 0,
+			"provider": 34
+		}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "provider"
+}

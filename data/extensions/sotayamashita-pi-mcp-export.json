@@ -1,0 +1,32 @@
+{
+	"id": "sotayamashita-pi-mcp-export",
+	"name": "sotayamashita-pi-mcp-export",
+	"url": "https://github.com/sotayamashita/pi-mcp-export",
+	"source": "github-search",
+	"description": "Expose pi coding agent extensions as MCP servers — Claude Desktop, Cursor, Codex, Hermes, …",
+	"metadata": {
+		"description": "Expose pi coding agent extensions as MCP servers — Claude Desktop, Cursor, Codex, Hermes, …",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["adapter", "mcp", "model-context-protocol", "pi", "pi-coding-agent"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-19T08:17:19Z",
+		"_readme_category_scores": {
+			"extension": 31,
+			"skill": 0,
+			"tool": 9,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,30 @@
+{
+	"id": "@0xkobold/pi-obsidian-bridge",
+	"name": "@0xkobold/pi-obsidian-bridge",
+	"url": "https://www.npmjs.com/package/@0xkobold/pi-obsidian-bridge",
+	"source": "npm-search",
+	"description": "Obsidian vault integration for pi-coding-agent",
+	"metadata": {
+		"github_url": "https://github.com/0xKobold/pi-obsidian-bridge",
+		"npm_name": "@0xkobold/pi-obsidian-bridge",
+		"description": "Obsidian vault integration for pi-coding-agent",
+		"keywords": ["pi-extension", "obsidian", "vault", "tasks", "notes", "knowledge-base"],
+		"version": "0.1.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": null,
+		"license": null,
+		"last_commit": "2026-03-13T01:41:58Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

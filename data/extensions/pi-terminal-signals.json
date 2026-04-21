@@ -1,0 +1,36 @@
+{
+	"id": "pi-terminal-signals",
+	"name": "pi-terminal-signals",
+	"url": "https://www.npmjs.com/package/pi-terminal-signals",
+	"source": "npm-search",
+	"description": "Pi extension that communicates agent lifecycle to the terminal via OSC 9;4 (progress) and OSC 133 (semantic prompts).",
+	"metadata": {
+		"github_url": "https://github.com/lucasmeijer/pi-terminal-signals",
+		"npm_name": "pi-terminal-signals",
+		"description": "Pi extension that communicates agent lifecycle to the terminal via OSC 9;4 (progress) and OSC 133 (semantic prompts).",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "extension", "terminal", "osc", "progress", "ghostty", "wezterm", "iterm2", "kitty", "semantic-prompts"],
+		"version": "0.1.0",
+		"stars": 11,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-02T20:19:49Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

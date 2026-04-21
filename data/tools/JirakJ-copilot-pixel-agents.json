@@ -1,0 +1,32 @@
+{
+	"id": "JirakJ-copilot-pixel-agents",
+	"name": "JirakJ-copilot-pixel-agents",
+	"url": "https://github.com/JirakJ/copilot-pixel-agents",
+	"source": "github-search",
+	"description": "Pixel art office where your AI agents come to life — JetBrains plugin (port of pixel-agents VS Code extension)",
+	"metadata": {
+		"description": "Pixel art office where your AI agents come to life — JetBrains plugin (port of pixel-agents VS Code extension)",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-03T13:54:07Z",
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 0,
+			"tool": 9,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

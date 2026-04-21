@@ -1,0 +1,19 @@
+{
+	"id": "YT_tYp-LMzkv7A",
+	"name": "pi mono skill to call the code agent tool",
+	"url": "https://www.youtube.com/watch?v=tYp-LMzkv7A",
+	"source": "youtube-search",
+	"description": "",
+	"metadata": {
+		"title": "pi mono skill to call the code agent tool",
+		"description": "",
+		"channel": "Philippe Charrière",
+		"published_at": "2026-02-17T06:55:08Z",
+		"thumbnail": "https://i.ytimg.com/vi/tYp-LMzkv7A/hqdefault.jpg"
+	},
+	"health": {
+		"score": 0,
+		"level": "stale"
+	},
+	"category": "video"
+}

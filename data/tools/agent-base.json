@@ -1,0 +1,36 @@
+{
+	"id": "agent-base",
+	"name": "agent-base",
+	"url": "https://www.npmjs.com/package/agent-base",
+	"source": "npm-search",
+	"description": "Turn a function into an `http.Agent` instance",
+	"metadata": {
+		"github_url": "https://github.com/TooTallNate/proxy-agents",
+		"npm_name": "agent-base",
+		"description": "Turn a function into an `http.Agent` instance",
+		"keywords": ["http", "agent", "base", "barebones", "https"],
+		"version": "9.0.0",
+		"stars": 1135,
+		"forks": 276,
+		"open_issues": 40,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-17T00:52:51Z",
+		"topics": ["agent", "http", "https", "nodejs", "pac", "proxy", "socks"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://proxy-agents.n8.io",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

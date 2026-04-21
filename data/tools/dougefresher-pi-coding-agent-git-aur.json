@@ -1,0 +1,26 @@
+{
+	"id": "dougefresher-pi-coding-agent-git-aur",
+	"name": "dougefresher-pi-coding-agent-git-aur",
+	"url": "https://github.com/dougefresher/pi-coding-agent-git-aur",
+	"source": "github-search",
+	"description": "pi coding agent git package",
+	"metadata": {
+		"description": "pi coding agent git package",
+		"stars": 0,
+		"forks": 0,
+		"language": "Shell",
+		"topics": ["archlinux", "aur", "pi"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-21T14:21:48Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

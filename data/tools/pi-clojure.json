@@ -1,0 +1,20 @@
+{
+	"id": "pi-clojure",
+	"name": "pi-clojure",
+	"url": "https://www.npmjs.com/package/pi-clojure",
+	"source": "npm-search",
+	"description": "A set of Clojure development tools implemented in pure JavaScript for the [pi-coding-agent](https://github.com/badlogic/pi-mono).",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-clojure",
+		"description": "A set of Clojure development tools implemented in pure JavaScript for the [pi-coding-agent](https://github.com/badlogic/pi-mono).",
+		"keywords": ["pi-package", "clojure", "pi", "pi-coding-agent", "pi-extension", "extension", "pi-tool", "tools"],
+		"version": "1.0.3",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

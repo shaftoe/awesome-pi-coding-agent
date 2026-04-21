@@ -1,0 +1,36 @@
+{
+	"id": "@dreki-gg/pi-context7",
+	"name": "@dreki-gg/pi-context7",
+	"url": "https://www.npmjs.com/package/@dreki-gg/pi-context7",
+	"source": "npm-search",
+	"description": "Pi-native Context7 documentation tools — direct HTTP, persistent cache, no MCP dependency",
+	"metadata": {
+		"github_url": "https://github.com/dreki-gg/pi-extensions",
+		"npm_name": "@dreki-gg/pi-context7",
+		"description": "Pi-native Context7 documentation tools — direct HTTP, persistent cache, no MCP dependency",
+		"keywords": ["pi-package"],
+		"version": "0.1.5",
+		"stars": 5,
+		"forks": 1,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T04:52:03Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

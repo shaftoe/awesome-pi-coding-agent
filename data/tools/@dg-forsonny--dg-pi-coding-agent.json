@@ -1,0 +1,36 @@
+{
+	"id": "@dg-forsonny/dg-pi-coding-agent",
+	"name": "@dg-forsonny/dg-pi-coding-agent",
+	"url": "https://www.npmjs.com/package/@dg-forsonny/dg-pi-coding-agent",
+	"source": "npm-search",
+	"description": "Coding agent CLI with read, bash, edit, write tools and session management",
+	"metadata": {
+		"github_url": "https://github.com/forsonny/DG-Pi",
+		"npm_name": "@dg-forsonny/dg-pi-coding-agent",
+		"description": "Coding agent CLI with read, bash, edit, write tools and session management",
+		"keywords": ["coding-agent", "ai", "llm", "cli", "tui", "agent"],
+		"version": "0.62.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-23T08:12:31Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 40,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

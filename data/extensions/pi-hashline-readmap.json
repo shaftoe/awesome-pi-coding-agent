@@ -1,0 +1,36 @@
+{
+	"id": "pi-hashline-readmap",
+	"name": "pi-hashline-readmap",
+	"url": "https://www.npmjs.com/package/pi-hashline-readmap",
+	"source": "npm-search",
+	"description": "Unified pi extension: hash-anchored read/edit/grep, structural code maps, AST-grep, file exploration (ls/find), and bash output compression",
+	"metadata": {
+		"github_url": "https://github.com/coctostan/pi-hashline-readmap",
+		"npm_name": "pi-hashline-readmap",
+		"description": "Unified pi extension: hash-anchored read/edit/grep, structural code maps, AST-grep, file exploration (ls/find), and bash output compression",
+		"keywords": ["pi-package", "pi-extension", "hashline", "code-map", "ast-grep"],
+		"version": "0.7.0",
+		"stars": 13,
+		"forks": 1,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T14:42:25Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 17,
+			"skill": 0,
+			"tool": 4,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

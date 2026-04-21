@@ -1,0 +1,32 @@
+{
+	"id": "lbrcs-pi-docker",
+	"name": "lbrcs-pi-docker",
+	"url": "https://github.com/lbrcs/pi-docker",
+	"source": "github-search",
+	"description": "This is work in progress and mostly for my own paranoia but maybe it's helpful to someone. Dunno.",
+	"metadata": {
+		"description": "This is work in progress and mostly for my own paranoia but maybe it's helpful to someone. Dunno.",
+		"stars": 0,
+		"forks": 0,
+		"language": "Shell",
+		"topics": ["claude-code", "macos", "pi", "pi-agent", "slop"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": "GPL-3.0",
+		"last_commit": "2026-04-17T14:56:00Z",
+		"_readme_category_scores": {
+			"extension": 8,
+			"skill": 0,
+			"tool": 3,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

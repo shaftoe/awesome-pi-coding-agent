@@ -1,0 +1,58 @@
+[
+	{
+		"url": "https://github.com/badlogic/pi-mono",
+		"reason": "Raspberry Pi project (GPIO, I2C, SPI)"
+	},
+	{
+		"url": "https://github.com/z4Wk8hdpwG4HtoCxr1uuoQDpnfr25/pi-mono",
+		"reason": "Raspberry Pi project"
+	},
+	{
+		"url": "https://www.npmjs.com/package/unrs-resolver",
+		"reason": "unrelated resolver package"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=E-UupvAB1Xs",
+		"reason": "P.I Detector coil hardware, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@mariozechner/pi-tui",
+		"reason": "original project by mariozechner"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@mariozechner/pi-mom",
+		"reason": "original project by mariozechner"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@mariozechner/pi-agent-old",
+		"reason": "original project by mariozechner"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@mariozechner/pi-web-ui",
+		"reason": "original project by mariozechner"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@mariozechner/pi",
+		"reason": "original project by mariozechner"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@mariozechner/pi-agent-core",
+		"reason": "original project by mariozechner"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@mariozechner/pi-coding-agent",
+		"reason": "original project by mariozechner"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@mariozechner/pi-ai",
+		"reason": "original project by mariozechner"
+	},
+	{
+		"url": "https://www.npmjs.com/package/global-agent",
+		"reason": "unrelated HTTP proxy, npm matches 'agent' token"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@types/global-agent",
+		"reason": "unrelated HTTP proxy types, npm matches 'agent' token"
+	}
+]

@@ -1,0 +1,32 @@
+{
+	"id": "thomaspeklak-agent-sandbox",
+	"name": "thomaspeklak-agent-sandbox",
+	"url": "https://github.com/thomaspeklak/agent-sandbox",
+	"source": "github-search",
+	"description": "Sandbox for agents with podman",
+	"metadata": {
+		"description": "Sandbox for agents with podman",
+		"stars": 3,
+		"forks": 0,
+		"language": "Rust",
+		"topics": ["agent", "claude-code", "codex", "linux", "opencode", "pi-agent", "podman", "sandbox"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-16T21:19:51Z",
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 0,
+			"tool": 27,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

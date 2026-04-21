@@ -1,0 +1,36 @@
+{
+	"id": "@codex-infinity/pi-infinity",
+	"name": "@codex-infinity/pi-infinity",
+	"url": "https://www.npmjs.com/package/@codex-infinity/pi-infinity",
+	"source": "npm-search",
+	"description": "Coding agent CLI with read, bash, edit, write tools and session management",
+	"metadata": {
+		"github_url": "https://github.com/badlogic/pi-mono",
+		"npm_name": "@codex-infinity/pi-infinity",
+		"description": "Coding agent CLI with read, bash, edit, write tools and session management",
+		"keywords": ["coding-agent", "ai", "llm", "cli", "tui", "agent"],
+		"version": "0.67.71",
+		"stars": 38222,
+		"forks": 4461,
+		"open_issues": 12,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T11:20:28Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 3,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

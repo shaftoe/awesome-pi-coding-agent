@@ -1,0 +1,36 @@
+{
+	"id": "@f5xc-salesdemos/pi-agent-core",
+	"name": "@f5xc-salesdemos/pi-agent-core",
+	"url": "https://www.npmjs.com/package/@f5xc-salesdemos/pi-agent-core",
+	"source": "npm-search",
+	"description": "General-purpose agent with transport abstraction, state management, and attachment support",
+	"metadata": {
+		"github_url": "https://github.com/f5xc-salesdemos/xcsh",
+		"npm_name": "@f5xc-salesdemos/pi-agent-core",
+		"description": "General-purpose agent with transport abstraction, state management, and attachment support",
+		"keywords": ["ai", "agent", "llm", "transport", "state-management"],
+		"version": "18.5.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 29,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T15:48:55Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": "https://f5xc-salesdemos.github.io/xcsh/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 40,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

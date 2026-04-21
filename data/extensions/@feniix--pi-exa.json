@@ -1,0 +1,30 @@
+{
+	"id": "@feniix/pi-exa",
+	"name": "@feniix/pi-exa",
+	"url": "https://www.npmjs.com/package/@feniix/pi-exa",
+	"source": "npm-search",
+	"description": "Exa MCP extension for pi — web search, content fetching, and advanced search via Exa AI",
+	"metadata": {
+		"github_url": "https://github.com/feniix/pi-extensions",
+		"npm_name": "@feniix/pi-exa",
+		"description": "Exa MCP extension for pi — web search, content fetching, and advanced search via Exa AI",
+		"keywords": ["pi", "pi-package", "pi-extension", "pi-coding-agent", "ai", "exa", "search", "websearch", "mcp"],
+		"version": "3.1.1",
+		"stars": 4,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-21T15:57:28Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "toenobu-agent",
+	"name": "toenobu-agent",
+	"url": "https://www.npmjs.com/package/toenobu-agent",
+	"source": "npm-search",
+	"description": "toenobu's pi coding agent skills and extensions",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "toenobu-agent",
+		"description": "toenobu's pi coding agent skills and extensions",
+		"keywords": ["pi-package", "pi-skill"],
+		"version": "0.2.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

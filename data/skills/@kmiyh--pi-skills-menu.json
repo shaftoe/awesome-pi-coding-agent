@@ -1,0 +1,36 @@
+{
+	"id": "@kmiyh/pi-skills-menu",
+	"name": "@kmiyh/pi-skills-menu",
+	"url": "https://www.npmjs.com/package/@kmiyh/pi-skills-menu",
+	"source": "npm-search",
+	"description": "Pi extension that moves skills into a dedicated /skills menu with browsing, preview, editing, and AI-assisted creation.",
+	"metadata": {
+		"github_url": "https://github.com/Kmiyh/pi-skills-menu",
+		"npm_name": "@kmiyh/pi-skills-menu",
+		"description": "Pi extension that moves skills into a dedicated /skills menu with browsing, preview, editing, and AI-assisted creation.",
+		"keywords": ["pi-package", "pi-agent", "pi-extension", "skills", "menu"],
+		"version": "1.2.2",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-15T11:14:58Z",
+		"topics": ["npm", "pi-agent", "pi-extension", "skills"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/@kmiyh/pi-skills-menu",
+		"_readme_category_scores": {
+			"extension": 6,
+			"skill": 106,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

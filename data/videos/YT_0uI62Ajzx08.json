@@ -1,0 +1,19 @@
+{
+	"id": "YT_0uI62Ajzx08",
+	"name": "Pi: The Extensible Open Source Coding Agent",
+	"url": "https://www.youtube.com/watch?v=0uI62Ajzx08",
+	"source": "youtube-search",
+	"description": "Pi by Mario Zechner is radically extensible: 15+ AI providers, mid-session model switching, custom tools and workflows with ...",
+	"metadata": {
+		"title": "Pi: The Extensible Open Source Coding Agent",
+		"description": "Pi by Mario Zechner is radically extensible: 15+ AI providers, mid-session model switching, custom tools and workflows with ...",
+		"channel": "Seibert Group",
+		"published_at": "2026-04-21T10:51:22Z",
+		"thumbnail": "https://i.ytimg.com/vi/0uI62Ajzx08/hqdefault.jpg"
+	},
+	"health": {
+		"score": 0,
+		"level": "stale"
+	},
+	"category": "video"
+}

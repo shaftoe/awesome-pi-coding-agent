@@ -1,0 +1,36 @@
+{
+	"id": "@tungthedev/pi-extensions",
+	"name": "@tungthedev/pi-extensions",
+	"url": "https://www.npmjs.com/package/@tungthedev/pi-extensions",
+	"source": "npm-search",
+	"description": "A Pi package containing editor, mermaid, workspace, web, skill, pi-modes, and ext-manager extensions.",
+	"metadata": {
+		"github_url": "https://github.com/tungthedev/pi-extensions",
+		"npm_name": "@tungthedev/pi-extensions",
+		"description": "A Pi package containing editor, mermaid, workspace, web, skill, pi-modes, and ext-manager extensions.",
+		"keywords": ["codex", "droid", "mermaid", "pi", "pi-extension", "pi-package"],
+		"version": "2.0.1",
+		"stars": 2,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T14:33:09Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 17,
+			"skill": 11,
+			"tool": 6,
+			"theme": 5,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

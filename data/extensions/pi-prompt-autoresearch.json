@@ -1,0 +1,36 @@
+{
+	"id": "pi-prompt-autoresearch",
+	"name": "pi-prompt-autoresearch",
+	"url": "https://www.npmjs.com/package/pi-prompt-autoresearch",
+	"source": "npm-search",
+	"description": "A pi extension that iteratively improves prompts with execution-based evaluation and keep/discard decisions.",
+	"metadata": {
+		"github_url": "https://github.com/NicoAvanzDev/pi-prompt-autoresearch",
+		"npm_name": "pi-prompt-autoresearch",
+		"description": "A pi extension that iteratively improves prompts with execution-based evaluation and keep/discard decisions.",
+		"keywords": ["autoresearch", "pi-extension", "pi-package", "prompt-engineering", "prompt-optimization"],
+		"version": "0.1.1",
+		"stars": 6,
+		"forks": 2,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-24T22:04:17Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 8,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

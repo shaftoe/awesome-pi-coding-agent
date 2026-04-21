@@ -1,0 +1,36 @@
+{
+	"id": "universal-user-agent",
+	"name": "universal-user-agent",
+	"url": "https://www.npmjs.com/package/universal-user-agent",
+	"source": "npm-search",
+	"description": "Get a user agent string across all JavaScript Runtime Environments",
+	"metadata": {
+		"github_url": "https://github.com/gr2m/universal-user-agent",
+		"npm_name": "universal-user-agent",
+		"description": "Get a user agent string across all JavaScript Runtime Environments",
+		"keywords": [],
+		"version": "7.0.3",
+		"stars": 22,
+		"forks": 19,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "ISC",
+		"last_commit": "2026-04-10T21:00:16Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "tool"
+}

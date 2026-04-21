@@ -1,0 +1,32 @@
+{
+	"id": "nielsjaspers-magpie",
+	"name": "nielsjaspers-magpie",
+	"url": "https://github.com/nielsjaspers/magpie",
+	"source": "github-search",
+	"description": "A set of custom tools and extensions I've gathered together for the Pi coding agent",
+	"metadata": {
+		"description": "A set of custom tools and extensions I've gathered together for the Pi coding agent",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-21T13:26:25Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

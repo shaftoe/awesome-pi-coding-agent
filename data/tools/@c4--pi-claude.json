@@ -1,0 +1,20 @@
+{
+	"id": "@c4/pi-claude",
+	"name": "@c4/pi-claude",
+	"url": "https://www.npmjs.com/package/@c4/pi-claude",
+	"source": "npm-search",
+	"description": "Claude Code-compatible wrapper for `pi`.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@c4/pi-claude",
+		"description": "Claude Code-compatible wrapper for `pi`.",
+		"keywords": [],
+		"version": "0.1.6",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

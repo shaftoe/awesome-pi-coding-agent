@@ -1,0 +1,36 @@
+{
+	"id": "@jackwener/opencli",
+	"name": "@jackwener/opencli",
+	"url": "https://www.npmjs.com/package/@jackwener/opencli",
+	"source": "npm-search",
+	"description": "Make any website or Electron App your CLI. AI-powered.",
+	"metadata": {
+		"github_url": "https://github.com/jackwener/opencli",
+		"npm_name": "@jackwener/opencli",
+		"description": "Make any website or Electron App your CLI. AI-powered.",
+		"keywords": ["cli", "browser", "web", "ai"],
+		"version": "1.7.6",
+		"stars": 16699,
+		"forks": 1625,
+		"open_issues": 96,
+		"language": "JavaScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-21T15:57:29Z",
+		"topics": ["ai-agent", "ai-agents", "ai-tools", "cli"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://opencli.info/",
+		"_readme_category_scores": {
+			"extension": 15,
+			"skill": 70,
+			"tool": 182,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "skill"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "pi-advisor",
+	"name": "pi-advisor",
+	"url": "https://www.npmjs.com/package/pi-advisor",
+	"source": "npm-search",
+	"description": "Pi extension package that adds a Claude-style advisor tool for strategic guidance during complex agent tasks.",
+	"metadata": {
+		"github_url": "https://github.com/RimuruW/pi-advisor",
+		"npm_name": "pi-advisor",
+		"description": "Pi extension package that adds a Claude-style advisor tool for strategic guidance during complex agent tasks.",
+		"keywords": ["pi-package", "pi-extension", "advisor", "coding-agent"],
+		"version": "0.2.0",
+		"stars": 5,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-13T12:06:35Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

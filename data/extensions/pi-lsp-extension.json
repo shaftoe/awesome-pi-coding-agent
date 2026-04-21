@@ -1,0 +1,36 @@
+{
+	"id": "pi-lsp-extension",
+	"name": "pi-lsp-extension",
+	"url": "https://www.npmjs.com/package/pi-lsp-extension",
+	"source": "npm-search",
+	"description": "Pi coding agent extension for LSP (Language Server Protocol) integration",
+	"metadata": {
+		"github_url": "https://github.com/samfoy/pi-lsp-extension",
+		"npm_name": "pi-lsp-extension",
+		"description": "Pi coding agent extension for LSP (Language Server Protocol) integration",
+		"keywords": ["pi-package", "extension"],
+		"version": "0.1.3",
+		"stars": 11,
+		"forks": 2,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-20T17:58:56Z",
+		"topics": ["ai-coding-agent", "code-intelligence", "developer-tools", "language-server-protocol", "lsp", "pi-coding-agent"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 13,
+			"skill": 0,
+			"tool": 7,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

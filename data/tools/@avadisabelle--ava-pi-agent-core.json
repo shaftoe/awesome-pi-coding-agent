@@ -1,0 +1,36 @@
+{
+	"id": "@avadisabelle/ava-pi-agent-core",
+	"name": "@avadisabelle/ava-pi-agent-core",
+	"url": "https://www.npmjs.com/package/@avadisabelle/ava-pi-agent-core",
+	"source": "npm-search",
+	"description": "General-purpose agent with transport abstraction, state management, and attachment support",
+	"metadata": {
+		"github_url": "https://github.com/avadisabelle/ava-pi",
+		"npm_name": "@avadisabelle/ava-pi-agent-core",
+		"description": "General-purpose agent with transport abstraction, state management, and attachment support",
+		"keywords": ["ai", "agent", "llm", "transport", "state-management"],
+		"version": "0.65.0",
+		"stars": 0,
+		"forks": 1,
+		"open_issues": 8,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-19T18:49:08Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 40,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

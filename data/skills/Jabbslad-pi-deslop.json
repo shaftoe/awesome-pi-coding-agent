@@ -1,0 +1,32 @@
+{
+	"id": "Jabbslad-pi-deslop",
+	"name": "Jabbslad-pi-deslop",
+	"url": "https://github.com/Jabbslad/pi-deslop",
+	"source": "github-search",
+	"description": "Pi agent skill port of skill-deslop for removing AI writing patterns from prose.",
+	"metadata": {
+		"description": "Pi agent skill port of skill-deslop for removing AI writing patterns from prose.",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-05T21:41:26Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 15,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "skill"
+}

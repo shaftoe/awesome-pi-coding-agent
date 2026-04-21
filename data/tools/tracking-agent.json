@@ -1,0 +1,36 @@
+{
+	"id": "tracking-agent",
+	"name": "tracking-agent",
+	"url": "https://www.npmjs.com/package/tracking-agent",
+	"source": "npm-search",
+	"description": "Browser-based tracking validation agent using agent-browser + pi-agent-core",
+	"metadata": {
+		"github_url": "https://github.com/benedikt-buchert/tracking-agent",
+		"npm_name": "tracking-agent",
+		"description": "Browser-based tracking validation agent using agent-browser + pi-agent-core",
+		"keywords": [],
+		"version": "0.1.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 4,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-31T03:55:57Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

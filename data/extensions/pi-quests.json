@@ -1,0 +1,36 @@
+{
+	"id": "pi-quests",
+	"name": "pi-quests",
+	"url": "https://www.npmjs.com/package/pi-quests",
+	"source": "npm-search",
+	"description": "A quest-log for your pi. Keep your agent on track, one quest at a time.",
+	"metadata": {
+		"github_url": "https://github.com/kalindudc/pi-quests",
+		"npm_name": "pi-quests",
+		"description": "A quest-log for your pi. Keep your agent on track, one quest at a time.",
+		"keywords": ["pi-package", "pi", "pi-extension", "quests", "snapshot", "rollback", "todo"],
+		"version": "0.6.2",
+		"stars": 5,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-18T16:06:26Z",
+		"topics": ["npm", "npm-package", "pi", "pi-coding-agent", "pi-extension", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/pi-quests",
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

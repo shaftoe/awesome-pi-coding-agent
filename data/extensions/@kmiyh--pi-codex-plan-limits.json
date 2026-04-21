@@ -1,0 +1,36 @@
+{
+	"id": "@kmiyh/pi-codex-plan-limits",
+	"name": "@kmiyh/pi-codex-plan-limits",
+	"url": "https://www.npmjs.com/package/@kmiyh/pi-codex-plan-limits",
+	"source": "npm-search",
+	"description": "Pi extension that shows live Codex plan usage: remaining 5h and weekly limits, reset times, and cached fallback snapshots.",
+	"metadata": {
+		"github_url": "https://github.com/Kmiyh/pi-codex-plan-limits",
+		"npm_name": "@kmiyh/pi-codex-plan-limits",
+		"description": "Pi extension that shows live Codex plan usage: remaining 5h and weekly limits, reset times, and cached fallback snapshots.",
+		"keywords": ["pi-package", "pi-agent", "pi-extension", "codex", "usage", "limits"],
+		"version": "1.0.1",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-15T10:53:10Z",
+		"topics": ["codex", "limits", "pi-extension", "pi-package", "usage"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/@kmiyh/pi-codex-plan-limits",
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

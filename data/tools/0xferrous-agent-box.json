@@ -1,0 +1,32 @@
+{
+	"id": "0xferrous-agent-box",
+	"name": "0xferrous-agent-box",
+	"url": "https://github.com/0xferrous/agent-box",
+	"source": "github-search",
+	"description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
+	"metadata": {
+		"description": " Sandboxed containers for AI coding agents with disposable Git/Jujutsu workspaces",
+		"stars": 16,
+		"forks": 1,
+		"language": "Rust",
+		"topics": ["agent-sandbox", "claude-code", "codex", "codex-cli", "coding-agents", "docker", "nix", "pi-coding-agent", "podman", "sandbox"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://0xf.rs/agent-box/",
+		"open_issues": 14,
+		"license": "MIT",
+		"last_commit": "2026-04-21T07:46:58Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 8,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "tool"
+}

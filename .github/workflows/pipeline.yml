@@ -1,0 +1,46 @@
+name: Daily Pipeline
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: oven-sh/setup-bun@v2
+
+      - run: bun install --frozen-lockfile
+
+      - name: Run pipeline
+        run: bun run pipeline
+
+      - name: Create PR if changed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if git diff --quiet; then
+            echo "No changes detected, skipping PR."
+            exit 0
+          fi
+
+          BRANCH="pipeline-$(date +%Y-%m-%d)"
+          TITLE="📦 Daily pipeline update $(date +%Y-%m-%d)"
+
+          git checkout -b "$BRANCH"
+          git add -A
+          git commit -m "$TITLE"
+          git push origin "$BRANCH"
+
+          gh pr create \
+            --title "$TITLE" \
+            --body "Automated daily pipeline update." \
+            --base main \
+            --head "$BRANCH"

@@ -1,0 +1,36 @@
+{
+	"id": "@elizaos/plugin-agent-orchestrator",
+	"name": "@elizaos/plugin-agent-orchestrator",
+	"url": "https://www.npmjs.com/package/@elizaos/plugin-agent-orchestrator",
+	"source": "npm-search",
+	"description": "Coding agent orchestration plugin - spawn and manage CLI coding agents via PTY",
+	"metadata": {
+		"github_url": "https://github.com/elizaos/eliza",
+		"npm_name": "@elizaos/plugin-agent-orchestrator",
+		"description": "Coding agent orchestration plugin - spawn and manage CLI coding agents via PTY",
+		"keywords": [],
+		"version": "0.3.9",
+		"stars": 18227,
+		"forks": 5496,
+		"open_issues": 15,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T16:00:24Z",
+		"topics": ["agent", "agentic", "ai", "autonomous", "chatbot", "crypto", "discord", "eliza", "elizaos", "framework", "plugins", "rag", "slack", "swarm", "telegram"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://eliza.how/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 0,
+			"tool": 17,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "pi-skill-martin-fowler",
+	"name": "pi-skill-martin-fowler",
+	"url": "https://www.npmjs.com/package/pi-skill-martin-fowler",
+	"source": "npm-search",
+	"description": "Pi skill that thinks and advises like Martin Fowler — software design, architecture, refactoring, agile, testing, and delivery.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-skill-martin-fowler",
+		"description": "Pi skill that thinks and advises like Martin Fowler — software design, architecture, refactoring, agile, testing, and delivery.",
+		"keywords": ["pi-package", "pi-skill", "martin-fowler", "software-design", "architecture", "refactoring", "agile"],
+		"version": "1.0.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

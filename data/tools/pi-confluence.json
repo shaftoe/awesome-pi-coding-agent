@@ -1,0 +1,20 @@
+{
+	"id": "pi-confluence",
+	"name": "pi-confluence",
+	"url": "https://www.npmjs.com/package/pi-confluence",
+	"source": "npm-search",
+	"description": "Confluence integration for Pi Coding Agent — search, fetch, and save Confluence pages as Markdown with a TUI config editor",
+	"metadata": {
+		"github_url": "https://github.com/lucianojr/pi-confluence",
+		"npm_name": "pi-confluence",
+		"description": "Confluence integration for Pi Coding Agent — search, fetch, and save Confluence pages as Markdown with a TUI config editor",
+		"keywords": ["pi-package", "confluence", "atlassian", "wiki", "markdown"],
+		"version": "1.1.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

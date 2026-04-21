@@ -1,0 +1,30 @@
+{
+	"id": "micromark-extension-gfm-strikethrough",
+	"name": "micromark-extension-gfm-strikethrough",
+	"url": "https://www.npmjs.com/package/micromark-extension-gfm-strikethrough",
+	"source": "npm-search",
+	"description": "micromark extension to support GFM strikethrough",
+	"metadata": {
+		"github_url": "https://github.com/micromark/micromark-extension-gfm-strikethrough",
+		"npm_name": "micromark-extension-gfm-strikethrough",
+		"description": "micromark extension to support GFM strikethrough",
+		"keywords": ["micromark", "micromark-extension", "strikethrough", "strike", "through", "del", "delete", "deletion", "gfm", "markdown", "unified"],
+		"version": "2.1.0",
+		"stars": 3,
+		"forks": 6,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2024-09-02T14:43:43Z",
+		"topics": ["del", "delete", "gfm", "github", "micromark", "micromark-extension", "strikethrough"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://unifiedjs.com",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "extension"
+}

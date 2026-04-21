@@ -1,0 +1,36 @@
+{
+	"id": "pi-nvim",
+	"name": "pi-nvim",
+	"url": "https://www.npmjs.com/package/pi-nvim",
+	"source": "npm-search",
+	"description": "Bridge between pi coding agent and Neovim",
+	"metadata": {
+		"github_url": "https://github.com/carderne/pi-nvim",
+		"npm_name": "pi-nvim",
+		"description": "Bridge between pi coding agent and Neovim",
+		"keywords": ["pi-package", "pi-extension"],
+		"version": "0.2.0",
+		"stars": 20,
+		"forks": 2,
+		"open_issues": 3,
+		"language": "Lua",
+		"license": "MIT",
+		"last_commit": "2026-03-20T12:43:04Z",
+		"topics": ["neovim", "pi-extension", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/pi-nvim",
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 62,
+		"level": "maintained"
+	},
+	"category": "extension"
+}
