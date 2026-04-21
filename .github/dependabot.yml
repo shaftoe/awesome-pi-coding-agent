@@ -5,3 +5,14 @@ updates:
     schedule:
       interval: "weekly"
     open-pull-requests-limit: 10
+    groups:
+      production-dependencies:
+        patterns:
+          - '@biomejs/*'
+          - 'typescript'
+      development-dependencies:
+        patterns:
+          - '@types/*'
+          - 'semantic-release'
+          - '@semantic-release/*'
+          - '@alexanderfortin/*'
