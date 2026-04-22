@@ -40,7 +40,7 @@ jobs:
           fi
 
           BRANCH="pipeline-$(date +%Y-%m-%d)"
-          TITLE="📦 Daily pipeline update $(date +%Y-%m-%d)"
+          TITLE="chore: 📦 Daily pipeline update ${BRANCH}"
 
           git checkout -b "$BRANCH"
           git add -A
