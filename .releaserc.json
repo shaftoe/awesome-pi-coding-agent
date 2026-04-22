@@ -23,9 +23,15 @@
       }
     ],
     [
+      "@semantic-release/exec",
+      {
+        "publishCmd": "node -e \"const fs=require('fs'); const p=require('./site/package.json'); p.version='${nextRelease.version}'; fs.writeFileSync('./site/package.json', JSON.stringify(p, null, '\t') + '\n');\""
+      }
+    ],
+    [
       "@semantic-release/git",
       {
-        "assets": ["package.json", "CHANGELOG.md"],
+        "assets": ["package.json", "site/package.json", "CHANGELOG.md"],
         "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
     ],
