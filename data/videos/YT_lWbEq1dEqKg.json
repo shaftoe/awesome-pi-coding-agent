@@ -9,11 +9,15 @@
 		"description": "How To Put Pi Mono Into Your Own App: The Complete Harness Guide Note: This video was made with an AI and scripting ...",
 		"channel": "Michael Jamieson",
 		"published_at": "2026-04-12T17:37:53Z",
-		"thumbnail": "https://i.ytimg.com/vi/lWbEq1dEqKg/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/lWbEq1dEqKg/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 203,
+		"like_count": 9,
+		"comment_count": 0
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 76,
+		"level": "active"
 	},
 	"category": "video"
 }

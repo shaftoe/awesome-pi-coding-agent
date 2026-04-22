@@ -9,11 +9,15 @@
 		"description": "Get the Entire Obsidian Vault Workflow HERE: https://www.skool.com/easymachineai/classroom/b49ec0c3 Let's Work ...",
 		"channel": "Eric Michaud",
 		"published_at": "2026-04-09T14:56:46Z",
-		"thumbnail": "https://i.ytimg.com/vi/Mnvk9gK4e9A/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/Mnvk9gK4e9A/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 48514,
+		"like_count": 1823,
+		"comment_count": 208
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 100,
+		"level": "active"
 	},
 	"category": "video"
 }

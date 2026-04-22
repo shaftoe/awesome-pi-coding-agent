@@ -9,11 +9,15 @@
 		"description": "In this video, I'll be telling you about Pi, an open-source terminal-based coding agent that gives you full control over your agentic ...",
 		"channel": "AICodeKing",
 		"published_at": "2026-03-05T09:48:44Z",
-		"thumbnail": "https://i.ytimg.com/vi/hv0V0GJpC78/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/hv0V0GJpC78/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 25247,
+		"like_count": 636,
+		"comment_count": 73
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 90,
+		"level": "active"
 	},
 	"category": "video"
 }

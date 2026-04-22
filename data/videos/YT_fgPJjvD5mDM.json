@@ -9,11 +9,15 @@
 		"description": "There are now two serious open-source AI coding agents fighting for your terminal. Pi takes an aggressively minimal, ...",
 		"channel": "KTG Analysis",
 		"published_at": "2026-03-24T19:06:54Z",
-		"thumbnail": "https://i.ytimg.com/vi/fgPJjvD5mDM/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/fgPJjvD5mDM/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 5794,
+		"like_count": 115,
+		"comment_count": 14
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 89,
+		"level": "active"
 	},
 	"category": "video"
 }

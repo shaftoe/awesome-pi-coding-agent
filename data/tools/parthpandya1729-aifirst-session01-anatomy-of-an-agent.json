@@ -1,0 +1,31 @@
+{
+	"id": "parthpandya1729-aifirst-session01-anatomy-of-an-agent",
+	"name": "parthpandya1729-aifirst-session01-anatomy-of-an-agent",
+	"url": "https://github.com/parthpandya1729/aifirst-session01-anatomy-of-an-agent",
+	"source": "github-search",
+	"description": "Prep notes for Varahi AI-First Builder Series Session 01: a side-by-side deep-read of Claude Code and pi-mono",
+	"metadata": {
+		"description": "Prep notes for Varahi AI-First Builder Series Session 01: a side-by-side deep-read of Claude Code and pi-mono",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-22T09:40:05Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 7,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

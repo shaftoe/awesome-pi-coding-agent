@@ -1,0 +1,35 @@
+{
+	"id": "@cleocode/caamp",
+	"name": "@cleocode/caamp",
+	"url": "https://www.npmjs.com/package/@cleocode/caamp",
+	"source": "npm-search",
+	"description": "Central AI Agent Managed Packages - unified provider registry and package manager for AI coding agents",
+	"metadata": {
+		"github_url": "https://github.com/kryptobaseddev/cleo",
+		"npm_name": "@cleocode/caamp",
+		"description": "Central AI Agent Managed Packages - unified provider registry and package manager for AI coding agents",
+		"keywords": ["ai", "agent", "skills", "cli", "claude", "cursor", "windsurf", "codex", "gemini"],
+		"version": "2026.4.110",
+		"stars": 151,
+		"forks": 21,
+		"open_issues": 6,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-22T12:39:20Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://codluv.mintlify.app/getting-started",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 5,
+			"theme": 0,
+			"provider": 7
+		}
+	},
+	"health": {
+		"score": 85,
+		"level": "active"
+	},
+	"category": "provider"
+}

@@ -9,11 +9,15 @@
 		"description": "A complete guide to Pi, the open source coding agent with four tools, a sub-thousand token system prompt, and a TypeScript ...",
 		"channel": "Owain Lewis",
 		"published_at": "2026-04-18T11:03:51Z",
-		"thumbnail": "https://i.ytimg.com/vi/BZ0w0JhPQ9o/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/BZ0w0JhPQ9o/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 13765,
+		"like_count": 558,
+		"comment_count": 48
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 100,
+		"level": "active"
 	},
 	"category": "video"
 }

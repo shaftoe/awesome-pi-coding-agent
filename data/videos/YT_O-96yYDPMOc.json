@@ -9,11 +9,15 @@
 		"description": "Let's have a look at the Pi coding agent. https://pi.dev/ Contact: david.devonduty@gmail.com #pi #coding-agent.",
 		"channel": "DevOnDuty",
 		"published_at": "2026-04-12T21:36:18Z",
-		"thumbnail": "https://i.ytimg.com/vi/O-96yYDPMOc/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/O-96yYDPMOc/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 7857,
+		"like_count": 218,
+		"comment_count": 32
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 94,
+		"level": "active"
 	},
 	"category": "video"
 }

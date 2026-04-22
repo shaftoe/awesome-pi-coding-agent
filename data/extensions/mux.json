@@ -1,0 +1,35 @@
+{
+	"id": "mux",
+	"name": "mux",
+	"url": "https://www.npmjs.com/package/mux",
+	"source": "npm-search",
+	"description": "mux - coder multiplexer",
+	"metadata": {
+		"github_url": "https://github.com/coder/mux",
+		"npm_name": "mux",
+		"description": "mux - coder multiplexer",
+		"keywords": [],
+		"version": "0.23.1",
+		"stars": 1670,
+		"forks": 100,
+		"open_issues": 195,
+		"language": "TypeScript",
+		"license": "AGPL-3.0",
+		"last_commit": "2026-04-22T09:07:19Z",
+		"topics": ["agent", "ide"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://mux.coder.com",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "extension"
+}

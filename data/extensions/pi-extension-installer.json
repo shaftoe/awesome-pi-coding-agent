@@ -1,0 +1,20 @@
+{
+	"id": "pi-extension-installer",
+	"name": "pi-extension-installer",
+	"url": "https://www.npmjs.com/package/pi-extension-installer",
+	"source": "npm-search",
+	"description": "Browse and install Pi community packages — interactive TUI browser with arrow-key navigation, search, previews, install, and uninstall support.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-extension-installer",
+		"description": "Browse and install Pi community packages — interactive TUI browser with arrow-key navigation, search, previews, install, and uninstall support.",
+		"keywords": ["pi-package", "pi-extension", "pi", "extensions", "installer", "registry"],
+		"version": "1.1.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -9,11 +9,15 @@
 		"description": "Everyone is still using AI agents as worker bees. The engineers running CEO Agents are deploying them at the HIGHEST ...",
 		"channel": "IndyDevDan",
 		"published_at": "2026-03-23T13:00:00Z",
-		"thumbnail": "https://i.ytimg.com/vi/TqjmTZRL31E/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/TqjmTZRL31E/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 25473,
+		"like_count": 778,
+		"comment_count": 97
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 90,
+		"level": "active"
 	},
 	"category": "video"
 }

@@ -1,0 +1,35 @@
+{
+	"id": "@ai-sdk/open-responses",
+	"name": "@ai-sdk/open-responses",
+	"url": "https://www.npmjs.com/package/@ai-sdk/open-responses",
+	"source": "npm-search",
+	"description": "The **[Open Responses provider](https://ai-sdk.dev/providers/ai-sdk-providers/open-responses)** for the [AI SDK](https://ai-sdk.dev/docs) contains language model support for [Open Responses](https://www.openresponses.org/) compatible APIs.",
+	"metadata": {
+		"github_url": "https://github.com/vercel/ai",
+		"npm_name": "@ai-sdk/open-responses",
+		"description": "The **[Open Responses provider](https://ai-sdk.dev/providers/ai-sdk-providers/open-responses)** for the [AI SDK](https://ai-sdk.dev/docs) contains language model support for [Open Responses](https://www.openresponses.org/) compatible APIs.",
+		"keywords": ["ai"],
+		"version": "1.0.11",
+		"stars": 23700,
+		"forks": 4250,
+		"open_issues": 1529,
+		"language": "TypeScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-22T13:22:47Z",
+		"topics": ["anthropic", "artificial-intelligence", "gemini", "generative-ai", "generative-ui", "javascript", "language-model", "llm", "nextjs", "openai", "react", "svelte", "typescript", "vercel", "vue"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://ai-sdk.dev",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "provider"
+}

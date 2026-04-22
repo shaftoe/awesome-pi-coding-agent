@@ -1,0 +1,35 @@
+{
+	"id": "aai-gateway",
+	"name": "aai-gateway",
+	"url": "https://www.npmjs.com/package/aai-gateway",
+	"source": "npm-search",
+	"description": "[English](README.md) | 简体中文 | [日本語](README.ja.md) | [한국어](README.ko.md)",
+	"metadata": {
+		"github_url": "https://github.com/gybob/aai-gateway",
+		"npm_name": "aai-gateway",
+		"description": "[English](README.md) | 简体中文 | [日本語](README.ja.md) | [한국어](README.ko.md)",
+		"keywords": ["aai", "agent", "mcp", "automation", "applescript", "com", "dbus"],
+		"version": "1.1.11",
+		"stars": 133,
+		"forks": 2,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-13T15:15:20Z",
+		"topics": ["aai", "aai-gateway", "ai-agents", "ai-tools", "claude", "codex", "mcp", "mcp-server", "openclaw", "opencode"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 83,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,31 @@
+{
+	"id": "BrenLong-pi-theme-support",
+	"name": "BrenLong-pi-theme-support",
+	"url": "https://github.com/BrenLong/pi-theme-support",
+	"source": "github-search",
+	"description": "Pi coding agent setup for Shopify Theme Support advisors",
+	"metadata": {
+		"description": "Pi coding agent setup for Shopify Theme Support advisors",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 5,
+		"license": null,
+		"last_commit": "2026-04-22T12:41:20Z",
+		"_readme_category_scores": {
+			"extension": 8,
+			"tool": 2,
+			"theme": 16,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "theme"
+}

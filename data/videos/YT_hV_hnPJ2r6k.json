@@ -9,11 +9,15 @@
 		"description": "There are tons of AI agents and harnesses out there. Codex, Claude Code, Amp. But Pi is not only an agent, it's the agent that ...",
 		"channel": "Vilson Vieira",
 		"published_at": "2026-04-08T17:03:05Z",
-		"thumbnail": "https://i.ytimg.com/vi/hV_hnPJ2r6k/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/hV_hnPJ2r6k/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 2393,
+		"like_count": 61,
+		"comment_count": 14
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 81,
+		"level": "active"
 	},
 	"category": "video"
 }

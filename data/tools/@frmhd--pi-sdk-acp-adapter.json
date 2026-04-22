@@ -1,0 +1,35 @@
+{
+	"id": "@frmhd/pi-sdk-acp-adapter",
+	"name": "@frmhd/pi-sdk-acp-adapter",
+	"url": "https://www.npmjs.com/package/@frmhd/pi-sdk-acp-adapter",
+	"source": "npm-search",
+	"description": "ACP adapter for Pi Coding Agent SDK - bridges Pi to ACP-compatible clients like Zed, JetBrains IDEs, Obsidian with Agent Client plugin, etc.",
+	"metadata": {
+		"github_url": "https://github.com/frmhd/pi-sdk-acp-adapter",
+		"npm_name": "@frmhd/pi-sdk-acp-adapter",
+		"description": "ACP adapter for Pi Coding Agent SDK - bridges Pi to ACP-compatible clients like Zed, JetBrains IDEs, Obsidian with Agent Client plugin, etc.",
+		"keywords": ["acp", "acp adapter", "agent-client-protocol", "coding-assistant", "ide", "pi", "pi-coding-agent"],
+		"version": "0.1.2",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-22T10:33:18Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 14,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

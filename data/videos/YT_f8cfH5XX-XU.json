@@ -9,11 +9,15 @@
 		"description": "Engineers... Claude Code got cancer. Growth, profit motives, and serving the masses over the original niche audience of ...",
 		"channel": "IndyDevDan",
 		"published_at": "2026-02-23T14:00:00Z",
-		"thumbnail": "https://i.ytimg.com/vi/f8cfH5XX-XU/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/f8cfH5XX-XU/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 154341,
+		"like_count": 4971,
+		"comment_count": 436
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 90,
+		"level": "active"
 	},
 	"category": "video"
 }

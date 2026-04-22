@@ -1,0 +1,20 @@
+{
+	"id": "pi-llm-as-verifier",
+	"name": "pi-llm-as-verifier",
+	"url": "https://www.npmjs.com/package/pi-llm-as-verifier",
+	"source": "npm-search",
+	"description": "Pi skill + extension for llm-as-verifier style pairwise, repeated, criteria-decomposed candidate selection.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-llm-as-verifier",
+		"description": "Pi skill + extension for llm-as-verifier style pairwise, repeated, criteria-decomposed candidate selection.",
+		"keywords": ["pi-package", "pi", "verifier", "llm-as-a-verifier", "evaluation", "ranking"],
+		"version": "0.2.2",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

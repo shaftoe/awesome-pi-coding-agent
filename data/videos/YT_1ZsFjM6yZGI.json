@@ -1,0 +1,23 @@
+{
+	"id": "YT_1ZsFjM6yZGI",
+	"name": "Don't sleep on the Pi agent, it solves the sandbox problem",
+	"url": "https://www.youtube.com/watch?v=1ZsFjM6yZGI",
+	"source": "youtube-search",
+	"description": "Pi is written in Typescript, but that doesn't mean Python people should ignore it. You can strictly define which tools can be called ...",
+	"metadata": {
+		"title": "Don't sleep on the Pi agent, it solves the sandbox problem",
+		"description": "Pi is written in Typescript, but that doesn't mean Python people should ignore it. You can strictly define which tools can be called ...",
+		"channel": "marimo",
+		"published_at": "2026-04-17T06:30:01Z",
+		"thumbnail": "https://i.ytimg.com/vi/1ZsFjM6yZGI/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 11206,
+		"like_count": 308,
+		"comment_count": 29
+	},
+	"health": {
+		"score": 96,
+		"level": "active"
+	},
+	"category": "video"
+}

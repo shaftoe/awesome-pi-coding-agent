@@ -9,11 +9,15 @@
 		"description": "Wes and Scott talk with Armin Ronacher and Mario Zechner about PI, a minimalist agent harness powering tools like OpenClaw.",
 		"channel": "Syntax",
 		"published_at": "2026-02-04T12:00:31Z",
-		"thumbnail": "https://i.ytimg.com/vi/AEmHcFH1UgQ/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/AEmHcFH1UgQ/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 53949,
+		"like_count": 1391,
+		"comment_count": 106
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 90,
+		"level": "active"
 	},
 	"category": "video"
 }

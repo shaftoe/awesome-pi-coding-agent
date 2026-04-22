@@ -1,0 +1,35 @@
+{
+	"id": "skill-panel",
+	"name": "skill-panel",
+	"url": "https://www.npmjs.com/package/skill-panel",
+	"source": "npm-search",
+	"description": "All-in-one panel to explore, audit and install Claude Code skills & MCP servers",
+	"metadata": {
+		"github_url": "https://github.com/Mybodycare/skills-mcps-all-in-one-panel",
+		"npm_name": "skill-panel",
+		"description": "All-in-one panel to explore, audit and install Claude Code skills & MCP servers",
+		"keywords": ["claude", "claude-code", "skills", "mcp", "security-scanner", "ai-agent", "anthropic"],
+		"version": "1.0.2",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "HTML",
+		"license": "MIT",
+		"last_commit": "2026-03-31T14:40:22Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 5,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -9,11 +9,15 @@
 		"description": "There are many AI (coding) agents. Claude Code, Codex ... and many more. They're all great. And they all can actually do more ...",
 		"channel": "Maximilian Schwarzmüller",
 		"published_at": "2026-03-12T13:30:00Z",
-		"thumbnail": "https://i.ytimg.com/vi/wVe3XOnio7M/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/wVe3XOnio7M/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 67556,
+		"like_count": 1580,
+		"comment_count": 122
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 90,
+		"level": "active"
 	},
 	"category": "video"
 }

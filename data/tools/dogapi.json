@@ -1,0 +1,20 @@
+{
+	"id": "dogapi",
+	"name": "dogapi",
+	"url": "https://www.npmjs.com/package/dogapi",
+	"source": "npm-search",
+	"description": "Datadog API Node.JS Client",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "dogapi",
+		"description": "Datadog API Node.JS Client",
+		"keywords": ["datadog", "api", "datadog api", "dog", "dogapi", "dog api"],
+		"version": "2.8.4",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

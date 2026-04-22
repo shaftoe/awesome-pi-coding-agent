@@ -1,0 +1,20 @@
+{
+	"id": "skill-testing-ml",
+	"name": "skill-testing-ml",
+	"url": "https://www.npmjs.com/package/skill-testing-ml",
+	"source": "npm-search",
+	"description": "Skill Testing Markup Language",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "skill-testing-ml",
+		"description": "Skill Testing Markup Language",
+		"keywords": [],
+		"version": "1.4.8",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

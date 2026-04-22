@@ -1,0 +1,20 @@
+{
+	"id": "@m64/nats-channel",
+	"name": "@m64/nats-channel",
+	"url": "https://www.npmjs.com/package/@m64/nats-channel",
+	"source": "npm-search",
+	"description": "NATS Agent Protocol channel for OpenClaw. Makes every OpenClaw agent a discoverable, spec-compliant agent on NATS.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@m64/nats-channel",
+		"description": "NATS Agent Protocol channel for OpenClaw. Makes every OpenClaw agent a discoverable, spec-compliant agent on NATS.",
+		"keywords": ["openclaw", "nats", "agent", "channel", "nats-agent-protocol", "synadia-agents"],
+		"version": "0.3.2",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

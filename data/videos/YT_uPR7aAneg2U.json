@@ -9,11 +9,15 @@
 		"description": "This is a short demo of my todos extension for pi that is modelled after the Claude Code task system. Extension: ...",
 		"channel": "Armin Ronacher",
 		"published_at": "2026-01-25T19:29:28Z",
-		"thumbnail": "https://i.ytimg.com/vi/uPR7aAneg2U/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/uPR7aAneg2U/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 7243,
+		"like_count": 224,
+		"comment_count": 16
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 84,
+		"level": "active"
 	},
 	"category": "video"
 }

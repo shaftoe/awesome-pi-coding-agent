@@ -9,11 +9,15 @@
 		"description": "This video demonstrated how to install and use Pi Agent with Ollama and Gemma 4 including skills, extensions and subagents Pi ...",
 		"channel": "Devs Kingdom",
 		"published_at": "2026-04-09T17:50:18Z",
-		"thumbnail": "https://i.ytimg.com/vi/1cF_Afc5_tA/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/1cF_Afc5_tA/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 10990,
+		"like_count": 188,
+		"comment_count": 16
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 94,
+		"level": "active"
 	},
 	"category": "video"
 }
