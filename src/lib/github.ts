@@ -68,15 +68,41 @@ interface SearchReposResponse {
 	items: SearchRepoItem[];
 }
 
-/** Search GitHub repos by query string. */
-export async function searchRepos(query: string): Promise<DiscoveryCandidate[]> {
-	const data = await apiGet<SearchReposResponse>("/search/repositories", {
-		q: query,
-		per_page: "50",
-		sort: "updated",
-	});
+/** Max results per GitHub search query (API caps at 1000 total across all pages). */
+const GH_SEARCH_MAX = 1000;
+const GH_SEARCH_PER_PAGE = 100;
 
-	return (data.items ?? []).map((repo) => ({
+/** Sleep for `ms` milliseconds. */
+const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
+
+/** Search GitHub repos by query string, paginating through all available results. */
+export async function searchRepos(query: string): Promise<DiscoveryCandidate[]> {
+	const allItems: SearchRepoItem[] = [];
+	let page = 1;
+
+	while (allItems.length < GH_SEARCH_MAX) {
+		const data = await apiGet<SearchReposResponse>("/search/repositories", {
+			q: query,
+			per_page: String(GH_SEARCH_PER_PAGE),
+			page: String(page),
+			sort: "updated",
+		});
+
+		const items = data.items ?? [];
+		allItems.push(...items);
+
+		// No more results or exhausted the API's 1000-result cap
+		if (items.length === 0 || allItems.length >= data.total_count) {
+			break;
+		}
+
+		page++;
+
+		// Polite delay between pages to avoid secondary rate limits
+		await sleep(500);
+	}
+
+	return allItems.map((repo) => ({
 		url: repo.html_url,
 		source: "github-search" as const,
 		hint: `github:${query}`,

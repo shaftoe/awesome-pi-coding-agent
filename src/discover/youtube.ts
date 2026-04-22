@@ -28,6 +28,8 @@ interface YouTubeSearchResponse {
 			thumbnails: { high?: { url: string }; default?: { url: string } };
 		};
 	}[];
+	nextPageToken?: string;
+	pageInfo?: { totalResults?: number };
 	error?: {
 		code: number;
 		message: string;
@@ -55,39 +57,61 @@ export const youtubeDiscoverer = new QueryDiscoverer({
 	},
 	fetchQuery: async (term) => {
 		const apiKey = process.env["YOUTUBE_API_KEY"];
-		const url = new URL(`${YOUTUBE_API_BASE}/search`);
-		url.searchParams.set("part", "snippet");
-		url.searchParams.set("q", term);
-		url.searchParams.set("type", "video");
-		url.searchParams.set("maxResults", "25");
-		url.searchParams.set("order", "relevance");
-		url.searchParams.set("key", apiKey ?? "");
+		const YT_MAX_PER_PAGE = 50;
 
-		const response = await fetch(url.toString());
-		const data = (await response.json()) as YouTubeSearchResponse;
+		const allResults: { url: string; hint: string; metadata: Record<string, unknown> }[] = [];
+		let nextPageToken: string | undefined;
 
-		if (!response.ok || data.error) {
-			const msg = data.error?.message ?? response.statusText;
-			const hint =
-				response.status === 403
-					? `YouTube API access denied: ${msg}\n  → Enable YouTube Data API v3: https://console.cloud.google.com/apis/library/youtube.googleapis.com`
-					: `YouTube API error ${response.status}: ${msg}`;
-			throw new FatalDiscoveryError(hint);
-		}
+		// Page through all available results
+		do {
+			const url = new URL(`${YOUTUBE_API_BASE}/search`);
+			url.searchParams.set("part", "snippet");
+			url.searchParams.set("q", term);
+			url.searchParams.set("type", "video");
+			url.searchParams.set("maxResults", String(YT_MAX_PER_PAGE));
+			url.searchParams.set("order", "relevance");
+			url.searchParams.set("key", apiKey ?? "");
+			if (nextPageToken) {
+				url.searchParams.set("pageToken", nextPageToken);
+			}
 
-		return (data.items ?? [])
-			.filter((item) => item.id.videoId)
-			.map((item) => ({
-				url: `https://www.youtube.com/watch?v=${item.id.videoId}`,
-				hint: `youtube:${term}`,
-				metadata: {
-					title: decodeHtmlEntities(item.snippet.title),
-					description: decodeHtmlEntities(item.snippet.description),
-					channel: item.snippet.channelTitle,
-					published_at: item.snippet.publishedAt,
-					thumbnail:
-						item.snippet.thumbnails.high?.url ?? item.snippet.thumbnails.default?.url ?? "",
-				},
-			}));
+			const response = await fetch(url.toString());
+			const data = (await response.json()) as YouTubeSearchResponse;
+
+			if (!response.ok || data.error) {
+				const msg = data.error?.message ?? response.statusText;
+				const hint =
+					response.status === 403
+						? `YouTube API access denied: ${msg}\n  → Enable YouTube Data API v3: https://console.cloud.google.com/apis/library/youtube.googleapis.com`
+						: `YouTube API error ${response.status}: ${msg}`;
+				throw new FatalDiscoveryError(hint);
+			}
+
+			const pageResults = (data.items ?? [])
+				.filter((item) => item.id.videoId)
+				.map((item) => ({
+					url: `https://www.youtube.com/watch?v=${item.id.videoId}`,
+					hint: `youtube:${term}`,
+					metadata: {
+						title: decodeHtmlEntities(item.snippet.title),
+						description: decodeHtmlEntities(item.snippet.description),
+						channel: item.snippet.channelTitle,
+						published_at: item.snippet.publishedAt,
+						thumbnail:
+							item.snippet.thumbnails.high?.url ?? item.snippet.thumbnails.default?.url ?? "",
+					},
+				}));
+
+			allResults.push(...pageResults);
+			nextPageToken = data.nextPageToken;
+
+			// No more pages available
+			if (!nextPageToken || pageResults.length === 0) break;
+
+			// Polite delay between pages
+			await new Promise((resolve) => setTimeout(resolve, 300));
+		} while (nextPageToken);
+
+		return allResults;
 	},
 });

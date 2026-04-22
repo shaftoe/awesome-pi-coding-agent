@@ -14,8 +14,6 @@ import { QueryDiscoverer } from "./index.ts";
 
 const NPM_SEARCH_URL = "https://registry.npmjs.org/-/v1/search";
 const PAGE_SIZE = 250;
-/** Max results to collect per query term before stopping. */
-const MAX_RESULTS = 500;
 /** Base delay between pagination requests (ms). */
 const INTER_PAGE_DELAY = 300;
 /** Max retry attempts on 429 responses. */
@@ -82,7 +80,8 @@ function cleanGitHubUrl(raw: string | undefined): string | undefined {
 
 /**
  * Fetch paginated results for a single search term.
- * Pages through `from` offset, respecting rate-limits and a result cap.
+ * Pages through `from` offset until the API returns no more results,
+ * respecting rate-limits with inter-page delays.
  *
  * Each candidate carries:
  * - `id` = full npm package name (including scope)
@@ -97,11 +96,8 @@ async function fetchAllPages(
 		[];
 	let from = 0;
 
-	while (results.length < MAX_RESULTS) {
-		const remaining = MAX_RESULTS - results.length;
-		const size = Math.min(PAGE_SIZE, remaining);
-
-		const url = `${NPM_SEARCH_URL}?text=${encodeURIComponent(term)}&size=${size}&from=${from}`;
+	while (true) {
+		const url = `${NPM_SEARCH_URL}?text=${encodeURIComponent(term)}&size=${PAGE_SIZE}&from=${from}`;
 		const response = await fetchPageWithRetry(url);
 
 		if (!response.ok) {
@@ -112,8 +108,6 @@ async function fetchAllPages(
 		const objects = data.objects ?? [];
 
 		for (const obj of objects) {
-			if (results.length >= MAX_RESULTS) break;
-
 			const pkg = obj.package;
 			const githubUrl = cleanGitHubUrl(pkg.links.repository);
 
@@ -133,7 +127,7 @@ async function fetchAllPages(
 
 		from += objects.length;
 
-		// No more results available or hit the cap
+		// No more results available from the API
 		if (objects.length === 0 || from >= data.total) {
 			break;
 		}
