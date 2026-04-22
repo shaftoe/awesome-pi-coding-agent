@@ -17,11 +17,20 @@
     "check": "bun run typecheck && bun run lint",
     "test": "bun test",
     "clean": "git rm -rf data/skills/ data/extensions/ data/providers/ data/templates/ data/themes/ data/tools data/videos",
-    "blacklist": "bun run src/index.ts blacklist"
+    "blacklist": "bun run src/index.ts blacklist",
+    "changelog": "bun run scripts/changelog.ts",
+    "semantic-release": "semantic-release"
   },
   "devDependencies": {
+    "@alexanderfortin/semantic-release-keep-a-changelog": "^0.2.0",
     "@biomejs/biome": "^2.4.12",
-    "bun-types": "1.3.13"
+    "@semantic-release/commit-analyzer": "^13.0.1",
+    "@semantic-release/exec": "^7.1.0",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^12.0.6",
+    "@semantic-release/npm": "^13.1.5",
+    "bun-types": "1.3.13",
+    "semantic-release": "^25.0.3"
   },
   "peerDependencies": {
     "typescript": "^6.0.3"
