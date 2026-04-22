@@ -43,13 +43,25 @@ interface NpmSearchResponse {
 /** Sleep for `ms` milliseconds. */
 const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 
+/** Build fetch headers, including Bearer token if NPM_TOKEN is set. */
+function npmHeaders(): Record<string, string> {
+	const token = process.env["NPM_TOKEN"];
+	const headers: Record<string, string> = {};
+	if (token) {
+		headers["Authorization"] = `Bearer ${token}`;
+	}
+	return headers;
+}
+
 /**
  * Fetch a single page with retry on 429 (rate-limit).
  * Uses exponential backoff: 2s → 4s → 8s.
  */
 async function fetchPageWithRetry(url: string): Promise<Response> {
+	const headers = npmHeaders();
+
 	for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
-		const response = await fetch(url);
+		const response = await fetch(url, { headers });
 
 		if (response.status !== 429) {
 			return response;
@@ -65,7 +77,7 @@ async function fetchPageWithRetry(url: string): Promise<Response> {
 	}
 
 	// Final attempt — return whatever we get (will be checked by caller)
-	return fetch(url);
+	return fetch(url, { headers });
 }
 
 /**

@@ -25,6 +25,7 @@ jobs:
       - name: Run pipeline
         run: bun run pipeline
         env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
@@ -59,6 +60,9 @@ jobs:
 
       - name: Validate entries and apply fixes
         uses: shaftoe/pi-coding-agent-action@v2
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           provider: ${{ vars.PROVIDER }}
