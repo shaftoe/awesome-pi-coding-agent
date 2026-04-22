@@ -247,7 +247,7 @@ function generateHeader(
 		``,
 		`[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)`,
 		``,
-		`A curated, auto-discovered directory of resources for the [Pi Coding Agent](https://pi.dev/) ecosystem.`,
+		`A curated, auto-discovered directory of resources for the [Pi Coding Agent](https://pi.dev/) ecosystem. Updated daily.`,
 		``,
 		`Content available as Markdown here and as website (with search feature) live at <https://awesome-pi.site>.`,
 		``,
