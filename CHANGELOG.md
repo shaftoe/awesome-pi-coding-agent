@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.2] - 2026-04-22
+
+### Fixed
+
+- add NPM_TOKEN to avoid throttling
+
 ## [1.0.1] - 2026-04-22
 
 ### Fixed
@@ -33,4 +39,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove skills category
 - replace @types/bun with pinned bun-types to fix typecheck (#6)
 
+[1.0.2]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.0.0...v1.0.1
