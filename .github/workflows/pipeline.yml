@@ -57,8 +57,7 @@ jobs:
           name: pipeline-data
           path: .
 
-      - name: Build validation prompt and run Pi agent
-        id: pi-validate
+      - name: Validate entries and apply fixes
         uses: shaftoe/pi-coding-agent-action@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -71,23 +70,21 @@ jobs:
 
             Review the changed/added JSON files in the data/ directory (compare working tree against the git index to find them).
 
-            For each changed data entry, verify:
-            1. **Relevance**: The entry MUST be about the Pi coding agent (pi.dev). Reject if it's about Raspberry Pi, GPIO, embedded hardware, or clearly unrelated topics.
-            2. **Health score accuracy**: health.score (0-100) maps to health.level as: active ≥70, maintained ≥40, stale ≥15, dead <15. Check consistency with metadata (last_commit date, stars, forks, is_archived).
-            3. **Category correctness**: The category field should match what the entry actually is (extension, tool, theme, provider, template, video, etc.).
+            For each changed data entry, verify and **fix in-place**:
+            1. **Relevance**: The entry MUST be about the Pi coding agent (pi.dev). If it's about Raspberry Pi, GPIO, embedded hardware, or clearly unrelated — run `bun run blacklist add <url> <reason>` to blacklist and remove it.
+            2. **Health score accuracy**: health.score (0-100) maps to health.level as: active ≥70, maintained ≥40, stale ≥15, dead <15. If inconsistent with metadata (last_commit date, stars, forks, is_archived), edit the JSON file directly to fix health.score and health.level.
+            3. **Category correctness**: The category is determined by the subfolder under data/ (e.g. data/extensions/ → category=extension). If the entry belongs in a different category, move the JSON file to the correct folder and update the category field in the JSON file.
 
-            Respond ONLY with a JSON block:
-            ```json
-            {"issues": [{"file": "...", "id": "...", "severity": "reject"|"warning", "reason": "..."}]}
-            ```
-
-            If all entries look good: `{"issues": []}`
+            Make all fixes directly. Do not just report issues — edit files, run commands, and resolve them.
           load_builtin_extensions: "false"
 
-      - name: Check validation results
-        run: bun run src/ci/check-validation.ts
-        env:
-          PI_RESPONSE: ${{ steps.pi-validate.outputs.response }}
+      - name: Upload fixed data artifacts
+        uses: actions/upload-artifact@v7
+        with:
+          name: pipeline-data
+          path: |
+            data/
+            README.md
 
   # ── Job 3: Create PR with validated changes ─────────────────────────────────
   create-pr:
