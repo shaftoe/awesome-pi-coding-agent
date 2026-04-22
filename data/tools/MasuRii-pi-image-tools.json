@@ -1,0 +1,31 @@
+{
+	"id": "MasuRii-pi-image-tools",
+	"name": "MasuRii-pi-image-tools",
+	"url": "https://github.com/MasuRii/pi-image-tools",
+	"source": "github-search",
+	"description": "Image attachment and rendering extension for Pi TUI",
+	"metadata": {
+		"description": "Image attachment and rendering extension for Pi TUI",
+		"stars": 12,
+		"forks": 2,
+		"language": "TypeScript",
+		"topics": ["clipboard", "coding-agent", "hack", "image", "image-processing", "imaging", "pi", "pi-coding-agent", "pi-extension", "pi-tui", "preview", "terminal", "tui", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 1,
+		"license": "MIT",
+		"last_commit": "2026-04-22T17:34:40Z",
+		"_readme_category_scores": {
+			"extension": 11,
+			"tool": 38,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

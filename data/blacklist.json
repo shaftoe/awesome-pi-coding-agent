@@ -1834,5 +1834,33 @@
 	{
 		"url": "https://www.youtube.com/watch?v=qePhufA1hSE",
 		"reason": "raspberry pi"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Ne40UMaAV14",
+		"reason": "Raspberry Pi hardware project, not Pi coding agent (pi.dev)"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=eVVNYKVYnKo",
+		"reason": "Clockwork Pi / Raspberry Pi hardware, not Pi coding agent (pi.dev)"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@trendai-crem/claude-skills",
+		"reason": "Claude Code skills installer, not related to Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@web-resurrect/cli",
+		"reason": "Unrelated CLI tool for Web Resurrect API, not Pi coding agent"
+	},
+	{
+		"url": "https://github.com/tzero86/Zeta",
+		"reason": "TUI file explorer only tangentially mentions Pi as one of many tools used, not a Pi coding agent resource"
+	},
+	{
+		"url": "https://github.com/ergodic-flow/lean-coding-agent",
+		"reason": "Standalone coding agent merely inspired by Pi, not a Pi extension/tool/provider"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=zgxorh9LhiE",
+		"reason": "Generic AI coding agent comparison, no specific Pi coding agent focus in title or description"
 	}
 ]

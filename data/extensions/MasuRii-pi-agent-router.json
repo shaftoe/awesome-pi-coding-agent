@@ -1,0 +1,31 @@
+{
+	"id": "MasuRii-pi-agent-router",
+	"name": "MasuRii-pi-agent-router",
+	"url": "https://github.com/MasuRii/pi-agent-router",
+	"source": "github-search",
+	"description": "Pi extension for agent routing, active agent management, and subagent delegation rendering.",
+	"metadata": {
+		"description": "Pi extension for agent routing, active agent management, and subagent delegation rendering.",
+		"stars": 1,
+		"forks": 1,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 1,
+		"license": null,
+		"last_commit": "2026-04-22T17:55:37Z",
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}
