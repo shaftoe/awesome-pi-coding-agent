@@ -2,17 +2,7 @@
  * YouTube Data API discovery — find pi-agent videos.
  */
 
-/** Decode common HTML entities (&#39; &amp; &quot; etc.) to their plain-text equivalents. */
-function decodeHtmlEntities(s: string): string {
-	return s
-		.replace(/&#39;/g, "'")
-		.replace(/&#x27;/g, "'")
-		.replace(/&amp;/g, "&")
-		.replace(/&lt;/g, "<")
-		.replace(/&gt;/g, ">")
-		.replace(/&quot;/g, '"');
-}
-
+import { decodeHtmlEntities } from "../lib/utils.ts";
 import { FatalDiscoveryError, QueryDiscoverer } from "./index.ts";
 
 const YOUTUBE_API_BASE = "https://www.googleapis.com/youtube/v3";
