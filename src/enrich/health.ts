@@ -33,20 +33,21 @@ function youtubeHealth(entry: CategorizedEntry): Health {
 	const meta = entry.metadata as Record<string, number | string>;
 	let score = 50;
 
-	// Engagement
-	const views = (meta["view_count"] as number) ?? 0;
-	const likes = (meta["like_count"] as number) ?? 0;
-	score += Math.min(views / 500, 20);
-	score += Math.min(likes / 50, 15);
-
-	// Freshness
+	// Freshness (primary signal — always available from YouTube Search API)
 	const published = meta["published_at"] as string | undefined;
 	if (published) {
 		const daysSince = (Date.now() - new Date(published).getTime()) / (1000 * 60 * 60 * 24);
-		if (daysSince < 30) score += 15;
-		else if (daysSince < 90) score += 10;
-		else if (daysSince > 365) score -= 15;
+		if (daysSince < 30) score += 25;
+		else if (daysSince < 90) score += 15;
+		else if (daysSince < 180) score += 5;
+		else if (daysSince > 365) score -= 20;
 	}
+
+	// Engagement (secondary signal — only available when YouTube Data API is configured)
+	const views = (meta["view_count"] as number) ?? 0;
+	const likes = (meta["like_count"] as number) ?? 0;
+	score += Math.min(views / 500, 15);
+	score += Math.min(likes / 50, 10);
 
 	return clamp(score);
 }

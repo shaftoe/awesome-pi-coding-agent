@@ -216,8 +216,8 @@ describe("calculateHealth — YouTube entries", () => {
 		});
 		const health = calculateHealth(entry);
 		expect(health.score).toBeGreaterThan(0);
-		// 50 + min(10000/500, 20)=20 + min(500/50, 15)=10 + 15(fresh) = 95
-		expect(health.score).toBe(95);
+		// 50 + 25(fresh<30d) + min(10000/500, 15)=15 + min(500/50, 10)=10 = 100 → clamped to 100
+		expect(health.score).toBe(100);
 		expect(health.level).toBe("active");
 	});
 
@@ -239,13 +239,22 @@ describe("calculateHealth — YouTube entries", () => {
 		const freshEntry = makeYouTubeEntry({ publishedAt: fresh });
 		const oldEntry = makeYouTubeEntry({ publishedAt: twoYearsAgo });
 		expect(calculateHealth(freshEntry).score).toBeGreaterThan(calculateHealth(oldEntry).score);
+		// Fresh: 50 + 25 = 75; Old: 50 - 20 = 30
+		expect(calculateHealth(freshEntry).score).toBe(75);
+		expect(calculateHealth(oldEntry).score).toBe(30);
 	});
 
 	it("clamps YouTube score to 0-100", () => {
-		const entry = makeYouTubeEntry({ viewCount: 0, likeCount: 0 });
+		const entry = makeYouTubeEntry({
+			viewCount: 0,
+			likeCount: 0,
+			publishedAt: new Date().toISOString(),
+		});
 		const health = calculateHealth(entry);
 		expect(health.score).toBeGreaterThanOrEqual(0);
 		expect(health.score).toBeLessThanOrEqual(100);
+		// 50 (base) + 25 (fresh<30d) = 75
+		expect(health.score).toBe(75);
 	});
 });
 
@@ -268,6 +277,6 @@ describe("calculateHealth — missing/undefined metadata", () => {
 		const meta = entry.metadata as Record<string, unknown>;
 		delete meta["published_at"];
 		const health = calculateHealth(entry);
-		expect(health.score).toBe(50); // base only
+		expect(health.score).toBe(50); // base only, no freshness bonus/penalty
 	});
 });

@@ -13,6 +13,11 @@ import { enrichGitHubMeta, hasFullGitHubMeta } from "./github-meta.ts";
 import { calculateHealth } from "./health.ts";
 import { enrichFromReadme, hasReadmeScores } from "./readme.ts";
 
+/** Check if a video entry has valid health (not the default score: 0). */
+function hasVideoHealth(entry: CategorizedEntry): boolean {
+	return entry.health.score > 0;
+}
+
 // biome-ignore lint/suspicious/noConsole: CLI output
 const log = console.log;
 
@@ -59,8 +64,8 @@ function hasGitHubUrl(entry: CategorizedEntry): boolean {
 
 /** Check if an entry already has all enrichment data. */
 function isFullyEnriched(entry: CategorizedEntry): boolean {
-	// Videos don't need GitHub enrichment
-	if (entry.category === "video") return true;
+	// Videos need health calculation (score > 0 confirms it has been computed)
+	if (entry.category === "video") return hasVideoHealth(entry);
 
 	const hasGitHub = hasGitHubUrl(entry);
 
