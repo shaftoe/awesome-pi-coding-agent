@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-04-22
+
+### Fixed
+
+- use proper pagination for discover fetches
+
 ## [1.0.0] - 2026-04-22
 
 ### Added
@@ -26,3 +32,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - recalculate video health with available signals (#14)
 - remove skills category
 - replace @types/bun with pinned bun-types to fix typecheck (#6)
+
+[1.0.1]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.0.0...v1.0.1
