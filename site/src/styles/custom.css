@@ -339,4 +339,13 @@
 	.hero-section h1 {
 		font-size: var(--sl-text-3xl);
 	}
+
+	/* Shorten nav title from "Awesome Pi Coding Agent" to "Awesome Pi" on mobile */
+	.site-title span {
+		font-size: 0;
+	}
+	.site-title span::after {
+		content: "Awesome Pi";
+		font-size: var(--sl-text-lg);
+	}
 }
