@@ -10,8 +10,11 @@ permissions:
   pull-requests: write
 
 jobs:
-  pipeline:
+  # ── Job 1: Run the data pipeline (discover → enrich → generate) ─────────────
+  run-pipeline:
     runs-on: ubuntu-latest
+    outputs:
+      has_changes: ${{ steps.changes.outcome == 'success' }}
     steps:
       - uses: actions/checkout@v6
 
@@ -25,30 +28,88 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
+      - name: Detect changed data files
+        id: changes
+        run: bun run src/ci/detect-changes.ts
+        continue-on-error: true
+
+      - name: Upload data artifacts
+        if: steps.changes.outcome == 'success'
+        uses: actions/upload-artifact@v7
+        with:
+          name: pipeline-data
+          path: |
+            data/
+            README.md
+
+  # ── Job 2: Validate new/changed entries with Pi coding agent ────────────────
+  validate-entries:
+    needs: run-pipeline
+    if: needs.run-pipeline.outputs.has_changes == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: oven-sh/setup-bun@v2
+
+      - uses: actions/download-artifact@v8
+        with:
+          name: pipeline-data
+          path: .
+
+      - name: Build validation prompt and run Pi agent
+        id: pi-validate
+        uses: shaftoe/pi-coding-agent-action@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          provider: ${{ vars.PROVIDER }}
+          model: ${{ vars.MODEL }}
+          token: ${{ secrets.LLM_API_KEY }}
+          thinking_level: ${{ vars.THINKING_LEVEL }}
+          prompt: |
+            You are validating entries for the "Awesome Pi Coding Agent" curated list. This list tracks resources for the Pi coding agent at https://pi.dev/ — NOT Raspberry Pi hardware projects.
+
+            Review the changed/added JSON files in the data/ directory (compare working tree against the git index to find them).
+
+            For each changed data entry, verify:
+            1. **Relevance**: The entry MUST be about the Pi coding agent (pi.dev). Reject if it's about Raspberry Pi, GPIO, embedded hardware, or clearly unrelated topics.
+            2. **Health score accuracy**: health.score (0-100) maps to health.level as: active ≥70, maintained ≥40, stale ≥15, dead <15. Check consistency with metadata (last_commit date, stars, forks, is_archived).
+            3. **Category correctness**: The category field should match what the entry actually is (extension, tool, theme, provider, template, video, etc.).
+
+            Respond ONLY with a JSON block:
+            ```json
+            {"issues": [{"file": "...", "id": "...", "severity": "reject"|"warning", "reason": "..."}]}
+            ```
+
+            If all entries look good: `{"issues": []}`
+          load_builtin_extensions: "false"
+
+      - name: Check validation results
+        run: bun run src/ci/check-validation.ts
+        env:
+          PI_RESPONSE: ${{ steps.pi-validate.outputs.response }}
+
+  # ── Job 3: Create PR with validated changes ─────────────────────────────────
+  create-pr:
+    needs: [run-pipeline, validate-entries]
+    if: needs.run-pipeline.outputs.has_changes == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: oven-sh/setup-bun@v2
+
+      - uses: actions/download-artifact@v8
+        with:
+          name: pipeline-data
+          path: .
+
       - name: Configure git
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
 
-      - name: Create PR if changed
+      - name: Create PR
+        run: bun run src/ci/create-pr.ts
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          if git diff --quiet; then
-            echo "No changes detected, skipping PR."
-            exit 0
-          fi
-
-          BRANCH="pipeline-$(date +%Y-%m-%d)"
-          TITLE="chore: 📦 Daily pipeline update ${BRANCH}"
-
-          git checkout -b "$BRANCH"
-          git add -A
-          git commit -m "$TITLE"
-          git push origin "$BRANCH"
-
-          gh pr create \
-            --title "$TITLE" \
-            --body "Automated daily pipeline update." \
-            --base main \
-            --head "$BRANCH"
