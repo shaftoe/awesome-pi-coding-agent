@@ -1,0 +1,31 @@
+{
+	"id": "Cephalode-harness",
+	"name": "Cephalode-harness",
+	"url": "https://github.com/Cephalode/harness",
+	"source": "github-search",
+	"description": "Multi-team agentic coding harness — three-tier delegation architecture with PI coding agent",
+	"metadata": {
+		"description": "Multi-team agentic coding harness — three-tier delegation architecture with PI coding agent",
+		"stars": 0,
+		"forks": 0,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-22T13:40:39Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 6,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

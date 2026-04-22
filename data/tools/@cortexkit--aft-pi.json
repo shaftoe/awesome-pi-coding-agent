@@ -1,0 +1,35 @@
+{
+	"id": "@cortexkit/aft-pi",
+	"name": "@cortexkit/aft-pi",
+	"url": "https://www.npmjs.com/package/@cortexkit/aft-pi",
+	"source": "npm-search",
+	"description": "Pi coding agent extension for Agent File Tools (AFT) — tree-sitter and LSP-powered code analysis",
+	"metadata": {
+		"github_url": "https://github.com/cortexkit/aft",
+		"npm_name": "@cortexkit/aft-pi",
+		"description": "Pi coding agent extension for Agent File Tools (AFT) — tree-sitter and LSP-powered code analysis",
+		"keywords": [],
+		"version": "0.14.1",
+		"stars": 47,
+		"forks": 4,
+		"open_issues": 1,
+		"language": "Rust",
+		"license": "MIT",
+		"last_commit": "2026-04-22T15:39:55Z",
+		"topics": ["agent-framework", "ai", "ai-agents", "ai-agents-framework", "opencode"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 4,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 75,
+		"level": "active"
+	},
+	"category": "tool"
+}

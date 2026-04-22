@@ -1,0 +1,31 @@
+{
+	"id": "serejke-pi-playground",
+	"name": "serejke-pi-playground",
+	"url": "https://github.com/serejke/pi-playground",
+	"source": "github-search",
+	"description": "Hands-on playground for the pi coding agent's core primitives (pi-ai, pi-agent-core, pi-tui). Demos + a twitter-research CLI.",
+	"metadata": {
+		"description": "Hands-on playground for the pi coding agent's core primitives (pi-ai, pi-agent-core, pi-tui). Demos + a twitter-research CLI.",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-22T15:48:36Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 6,
+			"theme": 0,
+			"provider": 22
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

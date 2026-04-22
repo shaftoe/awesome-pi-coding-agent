@@ -1,0 +1,35 @@
+{
+	"id": "@walodayeet/hindsight-pi",
+	"name": "@walodayeet/hindsight-pi",
+	"url": "https://www.npmjs.com/package/@walodayeet/hindsight-pi",
+	"source": "npm-search",
+	"description": "Hindsight-backed persistent memory extension for pi",
+	"metadata": {
+		"github_url": "https://github.com/walodayeet/pi-hindsight",
+		"npm_name": "@walodayeet/hindsight-pi",
+		"description": "Hindsight-backed persistent memory extension for pi",
+		"keywords": ["pi-package", "pi", "hindsight", "memory", "extension"],
+		"version": "0.3.0",
+		"stars": 7,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-22T13:10:10Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 16,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

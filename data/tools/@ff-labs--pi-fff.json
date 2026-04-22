@@ -1,0 +1,35 @@
+{
+	"id": "@ff-labs/pi-fff",
+	"name": "@ff-labs/pi-fff",
+	"url": "https://www.npmjs.com/package/@ff-labs/pi-fff",
+	"source": "npm-search",
+	"description": "pi extension: FFF-powered fuzzy file and content search",
+	"metadata": {
+		"github_url": "https://github.com/dmtrKovalenko/fff.nvim",
+		"npm_name": "@ff-labs/pi-fff",
+		"description": "pi extension: FFF-powered fuzzy file and content search",
+		"keywords": ["pi", "pi-package", "pi-extension", "fff", "search", "grep", "fuzzy-search", "ai-agent"],
+		"version": "0.6.0",
+		"stars": 5324,
+		"forks": 240,
+		"open_issues": 59,
+		"language": "Rust",
+		"license": "MIT",
+		"last_commit": "2026-04-22T16:28:54Z",
+		"topics": ["filesearch", "lua", "neovim", "neovim-plugin", "rust"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://fff.dmtrkovalenko.dev/",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

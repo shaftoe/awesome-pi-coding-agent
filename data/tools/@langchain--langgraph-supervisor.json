@@ -1,0 +1,20 @@
+{
+	"id": "@langchain/langgraph-supervisor",
+	"name": "@langchain/langgraph-supervisor",
+	"url": "https://www.npmjs.com/package/@langchain/langgraph-supervisor",
+	"source": "npm-search",
+	"description": "LangGraph Multi-Agent Supervisor",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@langchain/langgraph-supervisor",
+		"description": "LangGraph Multi-Agent Supervisor",
+		"keywords": [],
+		"version": "1.0.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}
