@@ -1,0 +1,35 @@
+{
+	"id": "@types/tunnel",
+	"name": "@types/tunnel",
+	"url": "https://www.npmjs.com/package/@types/tunnel",
+	"source": "npm-search",
+	"description": "TypeScript definitions for tunnel",
+	"metadata": {
+		"github_url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+		"npm_name": "@types/tunnel",
+		"description": "TypeScript definitions for tunnel",
+		"keywords": [],
+		"version": "0.0.7",
+		"stars": 51189,
+		"forks": 30522,
+		"open_issues": 686,
+		"language": "TypeScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-21T23:11:40Z",
+		"topics": ["definition", "dts", "hacktoberfest", "types", "typescript", "typescript-definitions", "typings"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 6,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -9,11 +9,15 @@
 		"description": "",
 		"channel": "Philippe Charrière",
 		"published_at": "2026-02-17T06:55:08Z",
-		"thumbnail": "https://i.ytimg.com/vi/tYp-LMzkv7A/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/tYp-LMzkv7A/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 358,
+		"like_count": 1,
+		"comment_count": 0
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 66,
+		"level": "maintained"
 	},
 	"category": "video"
 }

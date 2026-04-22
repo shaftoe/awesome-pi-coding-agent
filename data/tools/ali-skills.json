@@ -1,0 +1,20 @@
+{
+	"id": "ali-skills",
+	"name": "ali-skills",
+	"url": "https://www.npmjs.com/package/ali-skills",
+	"source": "npm-search",
+	"description": "The open agent skills ecosystem",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "ali-skills",
+		"description": "The open agent skills ecosystem",
+		"keywords": ["cli", "agent-skills", "skills", "ai-agents", "claude-code", "cursor", "codex"],
+		"version": "0.0.24",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

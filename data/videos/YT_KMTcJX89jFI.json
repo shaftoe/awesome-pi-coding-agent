@@ -9,11 +9,15 @@
 		"description": "The Pi Coding Agent by Mario Zechner is the backbone of Openclaw — and if Claude Code is VS Code, then Pi is Neovim.",
 		"channel": "Zero Code Devs",
 		"published_at": "2026-03-13T08:49:50Z",
-		"thumbnail": "https://i.ytimg.com/vi/KMTcJX89jFI/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/KMTcJX89jFI/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 941,
+		"like_count": 22,
+		"comment_count": 5
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 67,
+		"level": "maintained"
 	},
 	"category": "video"
 }

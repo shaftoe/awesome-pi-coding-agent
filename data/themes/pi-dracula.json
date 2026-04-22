@@ -1,0 +1,35 @@
+{
+	"id": "pi-dracula",
+	"name": "pi-dracula",
+	"url": "https://www.npmjs.com/package/pi-dracula",
+	"source": "npm-search",
+	"description": "Dracula theme for the pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/danielcherubini/pi-dracula",
+		"npm_name": "pi-dracula",
+		"description": "Dracula theme for the pi coding agent",
+		"keywords": ["pi-package", "pi", "pi-agent", "pi-extension", "pi-theme", "theme", "dracula"],
+		"version": "0.1.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": null,
+		"license": null,
+		"last_commit": "2026-04-15T10:59:10Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 3,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "theme"
+}

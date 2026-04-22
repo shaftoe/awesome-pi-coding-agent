@@ -1,0 +1,31 @@
+{
+	"id": "hheydaroff-common-agent-skills",
+	"name": "hheydaroff-common-agent-skills",
+	"url": "https://github.com/hheydaroff/common-agent-skills",
+	"source": "github-search",
+	"description": "Unified agent skills for Pi, Claude Code, Codex — one repo, one deploy command",
+	"metadata": {
+		"description": "Unified agent skills for Pi, Claude Code, Codex — one repo, one deploy command",
+		"stars": 0,
+		"forks": 0,
+		"language": "C#",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-22T08:34:39Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

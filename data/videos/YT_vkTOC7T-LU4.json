@@ -9,11 +9,15 @@
 		"description": "Install pi coding agent github Mariozechner/pi coding agent Pi-coding agent extensions Pi-coding agent GitHub Pi coding agent ...",
 		"channel": "Adam Tech",
 		"published_at": "2026-03-24T14:39:52Z",
-		"thumbnail": "https://i.ytimg.com/vi/vkTOC7T-LU4/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/vkTOC7T-LU4/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 394,
+		"like_count": 3,
+		"comment_count": 0
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 76,
+		"level": "active"
 	},
 	"category": "video"
 }

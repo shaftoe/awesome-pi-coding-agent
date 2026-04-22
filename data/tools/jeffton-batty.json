@@ -1,0 +1,31 @@
+{
+	"id": "jeffton-batty",
+	"name": "jeffton-batty",
+	"url": "https://github.com/jeffton/batty",
+	"source": "github-search",
+	"description": "PWA built on Pi coding agent",
+	"metadata": {
+		"description": "PWA built on Pi coding agent",
+		"stars": 23,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://batty.run",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-22T10:22:28Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 11,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "tool"
+}

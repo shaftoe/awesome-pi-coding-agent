@@ -9,11 +9,15 @@
 		"description": "Archon workflow masterclass this Friday in Dynamous: https://dynamous.ai Claude Code used to be simple, predictable, and easy ...",
 		"channel": "Cole Medin",
 		"published_at": "2026-04-20T21:00:28Z",
-		"thumbnail": "https://i.ytimg.com/vi/XSmI7OYd7iM/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/XSmI7OYd7iM/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 10068,
+		"like_count": 297,
+		"comment_count": 54
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 96,
+		"level": "active"
 	},
 	"category": "video"
 }

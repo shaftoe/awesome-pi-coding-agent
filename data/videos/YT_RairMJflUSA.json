@@ -9,11 +9,15 @@
 		"description": "The Claude Code leak just told us EVERYTHING we need to know. While every other tech channel covers the features and the ...",
 		"channel": "IndyDevDan",
 		"published_at": "2026-04-06T13:00:00Z",
-		"thumbnail": "https://i.ytimg.com/vi/RairMJflUSA/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/RairMJflUSA/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 29990,
+		"like_count": 1045,
+		"comment_count": 132
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 100,
+		"level": "active"
 	},
 	"category": "video"
 }

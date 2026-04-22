@@ -9,11 +9,15 @@
 		"description": "Send us Fan Mail (https://www.buzzsprout.com/1988715/fan_mail/new) In this episode I sat down with the developer of the Pi ...",
 		"channel": "0xSero",
 		"published_at": "2026-01-19T13:21:44Z",
-		"thumbnail": "https://i.ytimg.com/vi/Jp_pCcbpXPw/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/Jp_pCcbpXPw/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 748,
+		"like_count": 36,
+		"comment_count": 1
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 57,
+		"level": "maintained"
 	},
 	"category": "video"
 }

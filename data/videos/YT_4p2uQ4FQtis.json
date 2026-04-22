@@ -9,11 +9,15 @@
 		"description": "https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent.",
 		"channel": "Mario Zechner",
 		"published_at": "2025-11-13T01:14:04Z",
-		"thumbnail": "https://i.ytimg.com/vi/4p2uQ4FQtis/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/4p2uQ4FQtis/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 14092,
+		"like_count": 374,
+		"comment_count": 25
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 77,
+		"level": "active"
 	},
 	"category": "video"
 }

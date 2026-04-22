@@ -9,11 +9,15 @@
 		"description": "I was skeptical of Pi at first, but the more I've used it the more I love it. In a lot of ways it is so much better than Claude Code, Codex ...",
 		"channel": "Ben Davis",
 		"published_at": "2026-04-01T07:07:51Z",
-		"thumbnail": "https://i.ytimg.com/vi/IJe9CabMeTk/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/IJe9CabMeTk/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 36208,
+		"like_count": 955,
+		"comment_count": 91
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 100,
+		"level": "active"
 	},
 	"category": "video"
 }

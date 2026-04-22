@@ -9,11 +9,15 @@
 		"description": "In this video I go over my top 3 AI tools in 2026 https://github.com/anomalyco/opencode https://github.com/badlogic/pi-mono ...",
 		"channel": "0xSero",
 		"published_at": "2026-01-14T16:44:29Z",
-		"thumbnail": "https://i.ytimg.com/vi/DPzrBSuzkho/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/DPzrBSuzkho/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 1050,
+		"like_count": 41,
+		"comment_count": 4
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 58,
+		"level": "maintained"
 	},
 	"category": "video"
 }

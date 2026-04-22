@@ -1,0 +1,35 @@
+{
+	"id": "@capotej/harness",
+	"name": "@capotej/harness",
+	"url": "https://www.npmjs.com/package/@capotej/harness",
+	"source": "npm-search",
+	"description": "Portable environment for running coding agents in a container",
+	"metadata": {
+		"github_url": "https://github.com/capotej/harness",
+		"npm_name": "@capotej/harness",
+		"description": "Portable environment for running coding agents in a container",
+		"keywords": [],
+		"version": "1.4.0",
+		"stars": 2,
+		"forks": 2,
+		"open_issues": 2,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2026-04-22T11:37:48Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 15
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

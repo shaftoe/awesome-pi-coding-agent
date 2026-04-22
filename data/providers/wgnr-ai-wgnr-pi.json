@@ -1,0 +1,31 @@
+{
+	"id": "wgnr-ai-wgnr-pi",
+	"name": "wgnr-ai-wgnr-pi",
+	"url": "https://github.com/wgnr-ai/wgnr-pi",
+	"source": "github-search",
+	"description": "The most feature-rich web interface for Pi Coding Agent. Session archive & restore, model picker with search, thinking level control, image paste & attach, slash command palette, full Markdown rendering, mobile PWA, and macOS auto-start. No build step. No framework. 4 dependencies.",
+	"metadata": {
+		"description": "The most feature-rich web interface for Pi Coding Agent. Session archive & restore, model picker with search, thinking level control, image paste & attach, slash command palette, full Markdown rendering, mobile PWA, and macOS auto-start. No build step. No framework. 4 dependencies.",
+		"stars": 13,
+		"forks": 0,
+		"language": "HTML",
+		"topics": ["agents", "ai", "ai-agents", "chatbot", "coding-agent", "developer-tools", "kelle-ai", "llm", "pi", "pi-coding-agent", "pwa", "web-ui", "wgnr-ai"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://wgnr.co",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-22T06:04:06Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "provider"
+}

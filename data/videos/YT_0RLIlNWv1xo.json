@@ -9,11 +9,15 @@
 		"description": "Livestream from New Systems (NYC) — Pi is the extensible coding agent behind OpenClaw. Featuring a talk from Daniel Griesser ...",
 		"channel": "Armin Ronacher",
 		"published_at": "2026-03-14T18:05:23Z",
-		"thumbnail": "https://i.ytimg.com/vi/0RLIlNWv1xo/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/0RLIlNWv1xo/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 5960,
+		"like_count": 183,
+		"comment_count": 10
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 81,
+		"level": "active"
 	},
 	"category": "video"
 }

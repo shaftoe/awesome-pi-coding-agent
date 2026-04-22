@@ -9,11 +9,15 @@
 		"description": "Try it, free and open source. https://shittycodingagent.ai/",
 		"channel": "0xSero",
 		"published_at": "2026-04-04T15:49:43Z",
-		"thumbnail": "https://i.ytimg.com/vi/vXyerrv8ohw/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/vXyerrv8ohw/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 11396,
+		"like_count": 351,
+		"comment_count": 37
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 97,
+		"level": "active"
 	},
 	"category": "video"
 }

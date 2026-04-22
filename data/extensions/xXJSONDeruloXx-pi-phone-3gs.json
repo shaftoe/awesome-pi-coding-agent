@@ -1,0 +1,31 @@
+{
+	"id": "xXJSONDeruloXx-pi-phone-3gs",
+	"name": "xXJSONDeruloXx-pi-phone-3gs",
+	"url": "https://github.com/xXJSONDeruloXx/pi-phone-3gs",
+	"source": "github-search",
+	"description": "Phone-first coding agent harness built on Pi",
+	"metadata": {
+		"description": "Phone-first coding agent harness built on Pi",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-22T13:17:04Z",
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 3,
+			"theme": 1,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

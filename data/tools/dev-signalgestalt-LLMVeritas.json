@@ -1,0 +1,31 @@
+{
+	"id": "dev-signalgestalt-LLMVeritas",
+	"name": "dev-signalgestalt-LLMVeritas",
+	"url": "https://github.com/dev-signalgestalt/LLMVeritas",
+	"source": "github-search",
+	"description": "A portable cognitive discipline system for AI coding agents. Cross-platform anti-hallucination framework with 7-layer verification, confidence labels, and research-backed techniques. Supports Claude Code, Cursor, Codex, OpenCode, Hermes, Gemini CLI, and Pi.",
+	"metadata": {
+		"description": "A portable cognitive discipline system for AI coding agents. Cross-platform anti-hallucination framework with 7-layer verification, confidence labels, and research-backed techniques. Supports Claude Code, Cursor, Codex, OpenCode, Hermes, Gemini CLI, and Pi.",
+		"stars": 1,
+		"forks": 0,
+		"language": "Jinja",
+		"topics": ["ai-agents", "ai-safety", "anti-hallucination", "claude-code", "cognitive-discipline", "cursor", "llm", "verification"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/dev-signalgestalt/LLMWatcher",
+		"open_issues": 1,
+		"license": "MIT",
+		"last_commit": "2026-04-22T12:55:43Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 17,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

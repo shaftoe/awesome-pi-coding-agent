@@ -1,0 +1,20 @@
+{
+	"id": "frappe-builder",
+	"name": "frappe-builder",
+	"url": "https://www.npmjs.com/package/frappe-builder",
+	"source": "npm-search",
+	"description": "Frappe-native AI co-pilot for building and customising Frappe/ERPNext applications",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "frappe-builder",
+		"description": "Frappe-native AI co-pilot for building and customising Frappe/ERPNext applications",
+		"keywords": [],
+		"version": "1.1.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

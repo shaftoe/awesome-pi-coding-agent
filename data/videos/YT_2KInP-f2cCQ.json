@@ -9,11 +9,15 @@
 		"description": "Watch the development journey of pi-mono by badlogic! AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI ...",
 		"channel": "Gourcer",
 		"published_at": "2026-01-28T06:27:42Z",
-		"thumbnail": "https://i.ytimg.com/vi/2KInP-f2cCQ/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/2KInP-f2cCQ/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 374,
+		"like_count": 0,
+		"comment_count": 0
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 66,
+		"level": "maintained"
 	},
 	"category": "video"
 }

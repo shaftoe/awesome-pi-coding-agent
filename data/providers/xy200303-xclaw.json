@@ -1,0 +1,31 @@
+{
+	"id": "xy200303-xclaw",
+	"name": "xy200303-xclaw",
+	"url": "https://github.com/xy200303/xclaw",
+	"source": "github-search",
+	"description": "xclaw：一个用TypeScript、Bun和pi-mono构建的AI助手CLI",
+	"metadata": {
+		"description": "xclaw：一个用TypeScript、Bun和pi-mono构建的AI助手CLI",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-22T11:01:31Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 7,
+			"theme": 1,
+			"provider": 19
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

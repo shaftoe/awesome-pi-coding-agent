@@ -9,11 +9,15 @@
 		"description": "This isn't a fancy demo, just something I created to show people new to Pi, or are interested with Pi. The extension system in Pi is ...",
 		"channel": "Lotus Creation Concepts",
 		"published_at": "2026-04-12T09:06:08Z",
-		"thumbnail": "https://i.ytimg.com/vi/BILOFt4a50k/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/BILOFt4a50k/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 35,
+		"like_count": 1,
+		"comment_count": 0
 	},
 	"health": {
-		"score": 0,
-		"level": "stale"
+		"score": 75,
+		"level": "active"
 	},
 	"category": "video"
 }

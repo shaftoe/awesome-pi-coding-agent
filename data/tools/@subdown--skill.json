@@ -1,0 +1,35 @@
+{
+	"id": "@subdown/skill",
+	"name": "@subdown/skill",
+	"url": "https://www.npmjs.com/package/@subdown/skill",
+	"source": "npm-search",
+	"description": "Agent Skill for YouTube transcripts, search, and channel browsing via the SubDownload MCP server. Works with Claude Code, Cursor, Codex, Windsurf, Gemini CLI, OpenCode, and more.",
+	"metadata": {
+		"github_url": "https://github.com/SubDownload/Skills",
+		"npm_name": "@subdown/skill",
+		"description": "Agent Skill for YouTube transcripts, search, and channel browsing via the SubDownload MCP server. Works with Claude Code, Cursor, Codex, Windsurf, Gemini CLI, OpenCode, and more.",
+		"keywords": ["claude", "anthropic", "agent-skill", "mcp", "youtube", "transcript", "captions", "subdownload"],
+		"version": "1.5.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2026-04-22T11:57:28Z",
+		"topics": ["youtube", "youtube-api", "youtube-summary", "youtube-transcript", "youtube-transcript-api"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://subdownload.com?utm_source=gthb_skills_xa2ykb&utm_medium=code&utm_campaign=Skills",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 10,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}
