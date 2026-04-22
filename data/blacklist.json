@@ -1826,5 +1826,9 @@
 	{
 		"url": "https://github.com/anthony-maio/pieces-agent-skills",
 		"reason": "Pieces OS skills, not Pi coding agent ecosystem"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=LCSaL2GaE3A",
+		"reason": "raspberry pi"
 	}
 ]
