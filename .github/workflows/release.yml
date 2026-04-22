@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 jobs:
-  check:
+  release:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6

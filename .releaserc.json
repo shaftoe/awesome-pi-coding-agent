@@ -12,7 +12,7 @@
     [
       "@semantic-release/exec",
       {
-        "publishCmd": "node -e \"const fs=require('fs'); const p=require('./site/package.json'); p.version='${nextRelease.version}'; fs.writeFileSync('./site/package.json', JSON.stringify(p, null, '\t') + '\n');\""
+        "publishCmd": "bun scripts/update-site-version.ts ${nextRelease.version}"
       }
     ],
     [
