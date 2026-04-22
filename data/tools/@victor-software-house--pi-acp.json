@@ -1,0 +1,41 @@
+{
+	"id": "@victor-software-house/pi-acp",
+	"name": "@victor-software-house/pi-acp",
+	"url": "https://www.npmjs.com/package/@victor-software-house/pi-acp",
+	"source": "npm-search",
+	"description": "ACP adapter for pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/victor-software-house/pi-acp",
+		"npm_name": "@victor-software-house/pi-acp",
+		"description": "ACP adapter for pi coding agent",
+		"keywords": [
+			"acp",
+			"agent-client-protocol",
+			"pi-coding-agent",
+			"adapter"
+		],
+		"version": "0.4.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-24T23:38:19Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 3,
+			"tool": 11,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

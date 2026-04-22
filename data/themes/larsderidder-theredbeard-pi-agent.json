@@ -1,0 +1,32 @@
+{
+	"id": "larsderidder-theredbeard-pi-agent",
+	"name": "larsderidder-theredbeard-pi-agent",
+	"url": "https://github.com/larsderidder/theredbeard-pi-agent",
+	"source": "github-search",
+	"description": "Personal pi coding agent package — extensions, skills, and themes",
+	"metadata": {
+		"description": "Personal pi coding agent package — extensions, skills, and themes",
+		"stars": 2,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-07T19:16:38Z",
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 5,
+			"tool": 4,
+			"theme": 1,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "theme"
+}

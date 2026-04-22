@@ -1,0 +1,32 @@
+{
+	"id": "storelayer-pi-cmux-browser",
+	"name": "storelayer-pi-cmux-browser",
+	"url": "https://github.com/storelayer/pi-cmux-browser",
+	"source": "github-search",
+	"description": "Pi agent & skill for web development with Playwright — browse, inspect, test, and debug web apps from your terminal.",
+	"metadata": {
+		"description": "Pi agent & skill for web development with Playwright — browse, inspect, test, and debug web apps from your terminal.",
+		"stars": 1,
+		"forks": 0,
+		"language": "JavaScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-03-17T18:51:47Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 7,
+			"tool": 7,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

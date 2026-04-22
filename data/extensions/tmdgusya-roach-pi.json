@@ -1,0 +1,36 @@
+{
+	"id": "tmdgusya-roach-pi",
+	"name": "tmdgusya-roach-pi",
+	"url": "https://github.com/tmdgusya/roach-pi",
+	"source": "github-search",
+	"description": "Strict engineering discipline and multi-agent orchestration for the pi coding agent",
+	"metadata": {
+		"description": "Strict engineering discipline and multi-agent orchestration for the pi coding agent",
+		"stars": 71,
+		"forks": 6,
+		"language": "TypeScript",
+		"topics": [
+			"extensions",
+			"pi",
+			"pi-coding-agent"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://tmdgusya.github.io/roach-pi/",
+		"open_issues": 7,
+		"license": null,
+		"last_commit": "2026-04-21T09:16:33Z",
+		"_readme_category_scores": {
+			"extension": 18,
+			"skill": 13,
+			"tool": 2,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 77,
+		"level": "active"
+	},
+	"category": "extension"
+}

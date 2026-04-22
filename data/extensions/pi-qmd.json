@@ -1,0 +1,46 @@
+{
+	"id": "pi-qmd",
+	"name": "pi-qmd",
+	"url": "https://www.npmjs.com/package/pi-qmd",
+	"source": "npm-search",
+	"description": "QMD (Quick Markdown Search) extension for pi coding agent - on-device knowledge base search with BM25, vector search, and LLM reranking",
+	"metadata": {
+		"github_url": "https://github.com/hjanuschka/pi-qmd",
+		"npm_name": "pi-qmd",
+		"description": "QMD (Quick Markdown Search) extension for pi coding agent - on-device knowledge base search with BM25, vector search, and LLM reranking",
+		"keywords": [
+			"pi",
+			"pi-coding-agent",
+			"extension",
+			"qmd",
+			"search",
+			"knowledge-base",
+			"markdown",
+			"vector-search",
+			"semantic-search"
+		],
+		"version": "1.0.0",
+		"stars": 16,
+		"forks": 2,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-01-29T14:05:08Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 7,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 62,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

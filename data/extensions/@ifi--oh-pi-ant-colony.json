@@ -1,0 +1,38 @@
+{
+	"id": "@ifi/oh-pi-ant-colony",
+	"name": "@ifi/oh-pi-ant-colony",
+	"url": "https://www.npmjs.com/package/@ifi/oh-pi-ant-colony",
+	"source": "npm-search",
+	"description": "Autonomous multi-agent swarm extension for pi — adaptive concurrency, pheromone communication.",
+	"metadata": {
+		"github_url": "https://github.com/ifiokjr/oh-pi",
+		"npm_name": "@ifi/oh-pi-ant-colony",
+		"description": "Autonomous multi-agent swarm extension for pi — adaptive concurrency, pheromone communication.",
+		"keywords": [
+			"pi-package"
+		],
+		"version": "0.4.4",
+		"stars": 67,
+		"forks": 10,
+		"open_issues": 32,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T08:34:44Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 40,
+			"skill": 19,
+			"tool": 24,
+			"theme": 13,
+			"provider": 36
+		}
+	},
+	"health": {
+		"score": 77,
+		"level": "active"
+	},
+	"category": "extension"
+}

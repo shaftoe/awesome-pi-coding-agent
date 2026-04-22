@@ -1,0 +1,40 @@
+{
+	"id": "dnopi",
+	"name": "dnopi",
+	"url": "https://www.npmjs.com/package/dnopi",
+	"source": "npm-search",
+	"description": "Skills and extensions for pi-coding-agent",
+	"metadata": {
+		"github_url": "https://github.com/dnouri/ai-config",
+		"npm_name": "dnopi",
+		"description": "Skills and extensions for pi-coding-agent",
+		"keywords": [
+			"pi-package",
+			"pi-extension",
+			"pi-skill"
+		],
+		"version": "2026.3.5",
+		"stars": 11,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-07T16:57:04Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 11,
+			"skill": 25,
+			"tool": 4,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

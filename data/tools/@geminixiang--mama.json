@@ -1,0 +1,43 @@
+{
+	"id": "@geminixiang/mama",
+	"name": "@geminixiang/mama",
+	"url": "https://www.npmjs.com/package/@geminixiang/mama",
+	"source": "npm-search",
+	"description": "Slack bot that delegates messages to the pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/geminixiang/mama",
+		"npm_name": "@geminixiang/mama",
+		"description": "Slack bot that delegates messages to the pi coding agent",
+		"keywords": [
+			"agent",
+			"ai",
+			"bot",
+			"discord",
+			"slack",
+			"telegram"
+		],
+		"version": "0.1.10",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 10,
+		"language": "TypeScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-16T07:11:44Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 14,
+			"tool": 21,
+			"theme": 0,
+			"provider": 7
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

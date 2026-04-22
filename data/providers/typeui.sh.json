@@ -1,0 +1,63 @@
+{
+	"id": "typeui.sh",
+	"name": "typeui.sh",
+	"url": "https://www.npmjs.com/package/typeui.sh",
+	"source": "npm-search",
+	"description": "Generate design system specifications and style guides as skill files for AI coding providers",
+	"metadata": {
+		"github_url": "https://github.com/bergside/typeui",
+		"npm_name": "typeui.sh",
+		"description": "Generate design system specifications and style guides as skill files for AI coding providers",
+		"keywords": [
+			"cli",
+			"design system",
+			"skills",
+			"ai",
+			"design md",
+			"design skills",
+			"claude skills",
+			"ai skills",
+			"ui",
+			"ux"
+		],
+		"version": "0.6.0",
+		"stars": 673,
+		"forks": 39,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-03T13:59:00Z",
+		"topics": [
+			"agent-skills",
+			"ai",
+			"ai-tools",
+			"claude-design",
+			"cli",
+			"codex",
+			"design",
+			"design-md",
+			"design-system",
+			"design-tools",
+			"gemini",
+			"google-stitch",
+			"skills",
+			"terminal",
+			"ui"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://typeui.sh",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 12,
+			"tool": 7,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "provider"
+}

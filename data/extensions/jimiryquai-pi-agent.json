@@ -1,0 +1,32 @@
+{
+	"id": "jimiryquai-pi-agent",
+	"name": "jimiryquai-pi-agent",
+	"url": "https://github.com/jimiryquai/pi-agent",
+	"source": "github-search",
+	"description": "Pi agent configuration - skills, agents, extensions, and scripts",
+	"metadata": {
+		"description": "Pi agent configuration - skills, agents, extensions, and scripts",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-03-28T10:24:12Z",
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 11,
+			"tool": 3,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

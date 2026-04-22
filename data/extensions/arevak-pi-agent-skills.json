@@ -1,0 +1,32 @@
+{
+	"id": "arevak-pi-agent-skills",
+	"name": "arevak-pi-agent-skills",
+	"url": "https://github.com/arevak/pi-agent-skills",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-03-30T06:04:59Z",
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 40,
+			"tool": 2,
+			"theme": 1,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

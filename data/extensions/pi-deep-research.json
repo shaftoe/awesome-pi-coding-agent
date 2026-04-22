@@ -1,0 +1,41 @@
+{
+	"id": "pi-deep-research",
+	"name": "pi-deep-research",
+	"url": "https://www.npmjs.com/package/pi-deep-research",
+	"source": "npm-search",
+	"description": "Deep research skill for pi — structured search, reflection, and analysis.",
+	"metadata": {
+		"github_url": "https://github.com/czhiming-maker/pi-deep-research",
+		"npm_name": "pi-deep-research",
+		"description": "Deep research skill for pi — structured search, reflection, and analysis.",
+		"keywords": [
+			"pi-package",
+			"research",
+			"web-search",
+			"deep-research"
+		],
+		"version": "0.1.6",
+		"stars": 5,
+		"forks": 1,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-03T05:19:31Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 6,
+			"tool": 0,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,57 @@
+{
+	"id": "@intellectronica/ruler",
+	"name": "@intellectronica/ruler",
+	"url": "https://www.npmjs.com/package/@intellectronica/ruler",
+	"source": "npm-search",
+	"description": "Ruler — apply the same rules to all coding agents",
+	"metadata": {
+		"github_url": "https://github.com/intellectronica/ruler",
+		"npm_name": "@intellectronica/ruler",
+		"description": "Ruler — apply the same rules to all coding agents",
+		"keywords": [
+			"ai",
+			"developer-tools",
+			"copilot",
+			"codex",
+			"claude",
+			"cursor",
+			"aider",
+			"config",
+			"rules",
+			"automation"
+		],
+		"version": "0.3.38",
+		"stars": 2653,
+		"forks": 137,
+		"open_issues": 14,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-15T19:02:52Z",
+		"topics": [
+			"agents",
+			"ai",
+			"aider",
+			"claude-code",
+			"codex",
+			"cursor",
+			"github-copilot",
+			"vibe-coding",
+			"windsurf"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://okigu.com/ruler",
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 133,
+			"tool": 34,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

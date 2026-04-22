@@ -1,0 +1,43 @@
+{
+	"id": "@juicesharp/rpiv-btw",
+	"name": "@juicesharp/rpiv-btw",
+	"url": "https://www.npmjs.com/package/@juicesharp/rpiv-btw",
+	"source": "npm-search",
+	"description": "Pi extension: /btw side-question slash command — ask the same primary model a one-off side question without polluting the main conversation",
+	"metadata": {
+		"github_url": "https://github.com/juicesharp/rpiv-mono",
+		"npm_name": "@juicesharp/rpiv-btw",
+		"description": "Pi extension: /btw side-question slash command — ask the same primary model a one-off side question without polluting the main conversation",
+		"keywords": [
+			"pi-package",
+			"pi-extension",
+			"rpiv",
+			"btw",
+			"side-question",
+			"overlay"
+		],
+		"version": "0.11.1",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T17:28:12Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 2,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

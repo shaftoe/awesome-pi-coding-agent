@@ -1,0 +1,51 @@
+{
+	"id": "pi-beads",
+	"name": "pi-beads",
+	"url": "https://www.npmjs.com/package/pi-beads",
+	"source": "npm-search",
+	"description": "pi extension for beads (bd) task management",
+	"metadata": {
+		"github_url": "https://github.com/edmundmiller/dotfiles",
+		"npm_name": "pi-beads",
+		"description": "pi extension for beads (bd) task management",
+		"keywords": [
+			"pi",
+			"pi-extension",
+			"pi-package",
+			"tasks",
+			"task-management",
+			"tui"
+		],
+		"version": "0.2.0",
+		"stars": 58,
+		"forks": 6,
+		"open_issues": 45,
+		"language": "DIGITAL Command Language",
+		"license": "MIT",
+		"last_commit": "2026-04-21T12:55:19Z",
+		"topics": [
+			"dotfiles",
+			"emacs",
+			"nix-dotfiles",
+			"nixos",
+			"nixos-configuration",
+			"vim",
+			"zsh"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 6,
+			"tool": 1,
+			"theme": 1,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 76,
+		"level": "active"
+	},
+	"category": "tool"
+}

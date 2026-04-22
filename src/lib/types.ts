@@ -6,7 +6,6 @@
 
 export const CATEGORIES = [
 	"extension",
-	"skill",
 	"tool",
 	"theme",
 	"provider",

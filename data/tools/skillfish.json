@@ -1,0 +1,58 @@
+{
+	"id": "skillfish",
+	"name": "skillfish",
+	"url": "https://www.npmjs.com/package/skillfish",
+	"source": "npm-search",
+	"description": "All in one Skill manager for AI coding agents. Install, update, and sync Skills across Claude Code, Cursor, Copilot + more.",
+	"metadata": {
+		"github_url": "https://github.com/knoxgraeme/skillfish",
+		"npm_name": "skillfish",
+		"description": "All in one Skill manager for AI coding agents. Install, update, and sync Skills across Claude Code, Cursor, Copilot + more.",
+		"keywords": [
+			"cli",
+			"skills",
+			"agent-skills",
+			"ai-agent",
+			"ai-tools",
+			"mcp",
+			"claude",
+			"claude-code",
+			"cursor",
+			"windsurf",
+			"codex",
+			"copilot",
+			"github-copilot",
+			"gemini-cli",
+			"opencode",
+			"goose",
+			"amp",
+			"roo",
+			"kiro",
+			"trae",
+			"cline"
+		],
+		"version": "1.0.33",
+		"stars": 196,
+		"forks": 15,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "AGPL-3.0",
+		"last_commit": "2026-04-13T18:35:32Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "http://skill.fish",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 256,
+			"tool": 8,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

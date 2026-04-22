@@ -1,0 +1,32 @@
+{
+	"id": "anthony-maio-pieces-agent-skills",
+	"name": "anthony-maio-pieces-agent-skills",
+	"url": "https://github.com/anthony-maio/pieces-agent-skills",
+	"source": "github-search",
+	"description": "Two advanced agentic skills for Pieces OS, focusing on deep research synthesis and MCP-based long-term memory interactions.",
+	"metadata": {
+		"description": "Two advanced agentic skills for Pieces OS, focusing on deep research synthesis and MCP-based long-term memory interactions.",
+		"stars": 2,
+		"forks": 0,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-01-02T09:56:25Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 14,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

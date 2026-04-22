@@ -1,0 +1,44 @@
+{
+	"id": "@talesofai/neta-skills",
+	"name": "@talesofai/neta-skills",
+	"url": "https://www.npmjs.com/package/@talesofai/neta-skills",
+	"source": "npm-search",
+	"description": "Neta API pi coding agent skills for interacting with Neta API to generate images, videos, songs, and manage characters/elements.",
+	"metadata": {
+		"github_url": "https://github.com/talesofai/neta-skills",
+		"npm_name": "@talesofai/neta-skills",
+		"description": "Neta API pi coding agent skills for interacting with Neta API to generate images, videos, songs, and manage characters/elements.",
+		"keywords": [
+			"neta",
+			"api",
+			"skill",
+			"pi-agent",
+			"image-generation",
+			"video-generation",
+			"ai"
+		],
+		"version": "0.17.0",
+		"stars": 882,
+		"forks": 12,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-10T08:43:55Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.neta.art",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 68,
+			"tool": 35,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -27,11 +27,6 @@ const CATEGORY_META: Record<string, { title: string; icon: string; description: 
 		description:
 			"Extend pi's capabilities — custom tools, hooks, integrations, and UI modifications.",
 	},
-	skill: {
-		title: "Skills",
-		icon: "🧠",
-		description: "Reusable instruction sets (SKILL.md) that teach pi new workflows and behaviors.",
-	},
 	tool: {
 		title: "Tools & Utilities",
 		icon: "🛠️",
@@ -72,7 +67,6 @@ const CATEGORY_META: Record<string, { title: string; icon: string; description: 
 
 const CATEGORY_ORDER: Category[] = [
 	"extension",
-	"skill",
 	"tool",
 	"theme",
 	"provider",

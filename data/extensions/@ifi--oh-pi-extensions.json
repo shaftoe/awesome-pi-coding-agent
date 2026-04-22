@@ -1,0 +1,38 @@
+{
+	"id": "@ifi/oh-pi-extensions",
+	"name": "@ifi/oh-pi-extensions",
+	"url": "https://www.npmjs.com/package/@ifi/oh-pi-extensions",
+	"source": "npm-search",
+	"description": "Core pi extensions: safe-guard, git-guard, auto-session, custom-footer, and more.",
+	"metadata": {
+		"github_url": "https://github.com/ifiokjr/oh-pi",
+		"npm_name": "@ifi/oh-pi-extensions",
+		"description": "Core pi extensions: safe-guard, git-guard, auto-session, custom-footer, and more.",
+		"keywords": [
+			"pi-package"
+		],
+		"version": "0.4.4",
+		"stars": 67,
+		"forks": 10,
+		"open_issues": 32,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T08:34:44Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 40,
+			"skill": 19,
+			"tool": 24,
+			"theme": 13,
+			"provider": 36
+		}
+	},
+	"health": {
+		"score": 77,
+		"level": "active"
+	},
+	"category": "extension"
+}

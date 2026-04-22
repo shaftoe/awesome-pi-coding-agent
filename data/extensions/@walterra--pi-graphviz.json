@@ -1,0 +1,46 @@
+{
+	"id": "@walterra/pi-graphviz",
+	"name": "@walterra/pi-graphviz",
+	"url": "https://www.npmjs.com/package/@walterra/pi-graphviz",
+	"source": "npm-search",
+	"description": "Graphviz chart extension for pi coding agent - render DOT diagrams as inline images",
+	"metadata": {
+		"github_url": "https://github.com/walterra/agent-tools",
+		"npm_name": "@walterra/pi-graphviz",
+		"description": "Graphviz chart extension for pi coding agent - render DOT diagrams as inline images",
+		"keywords": [
+			"pi-package",
+			"pi",
+			"pi-coding-agent",
+			"extension",
+			"graphviz",
+			"dot",
+			"diagrams",
+			"flowcharts",
+			"graphs"
+		],
+		"version": "0.0.5",
+		"stars": 31,
+		"forks": 2,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2026-03-23T22:39:27Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 6,
+			"skill": 60,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "extension"
+}

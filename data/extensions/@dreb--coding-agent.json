@@ -1,0 +1,43 @@
+{
+	"id": "@dreb/coding-agent",
+	"name": "@dreb/coding-agent",
+	"url": "https://www.npmjs.com/package/@dreb/coding-agent",
+	"source": "npm-search",
+	"description": "Coding agent CLI with read, bash, edit, write tools and session management",
+	"metadata": {
+		"github_url": "https://github.com/aebrer/dreb",
+		"npm_name": "@dreb/coding-agent",
+		"description": "Coding agent CLI with read, bash, edit, write tools and session management",
+		"keywords": [
+			"coding-agent",
+			"ai",
+			"llm",
+			"cli",
+			"tui",
+			"agent"
+		],
+		"version": "2.11.1",
+		"stars": 4,
+		"forks": 1,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T23:32:32Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 11,
+			"skill": 8,
+			"tool": 3,
+			"theme": 0,
+			"provider": 8
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

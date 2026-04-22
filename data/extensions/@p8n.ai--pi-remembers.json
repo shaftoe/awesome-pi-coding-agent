@@ -1,0 +1,58 @@
+{
+	"id": "@p8n.ai/pi-remembers",
+	"name": "@p8n.ai/pi-remembers",
+	"url": "https://www.npmjs.com/package/@p8n.ai/pi-remembers",
+	"source": "npm-search",
+	"description": "Pi extension for persistent agent memory and project search powered by Cloudflare AI Search. The North Remembers.",
+	"metadata": {
+		"github_url": "https://github.com/p8n-ai/pi-remembers",
+		"npm_name": "@p8n.ai/pi-remembers",
+		"description": "Pi extension for persistent agent memory and project search powered by Cloudflare AI Search. The North Remembers.",
+		"keywords": [
+			"pi-package",
+			"pi",
+			"pi-coding-agent",
+			"cloudflare",
+			"ai-search",
+			"memory",
+			"agents",
+			"rag",
+			"vector-search",
+			"the-north-remembers"
+		],
+		"version": "0.2.0",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T09:18:27Z",
+		"topics": [
+			"agent-memory",
+			"ai-search",
+			"cloudflare",
+			"hybird-search",
+			"pi-coding-agent",
+			"pi-extension",
+			"pi-memory",
+			"rag",
+			"skills-sh",
+			"vector-search"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 13,
+			"skill": 3,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

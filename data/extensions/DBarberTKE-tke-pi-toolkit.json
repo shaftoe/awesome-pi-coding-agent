@@ -1,0 +1,32 @@
+{
+	"id": "DBarberTKE-tke-pi-toolkit",
+	"name": "DBarberTKE-tke-pi-toolkit",
+	"url": "https://github.com/DBarberTKE/tke-pi-toolkit",
+	"source": "github-search",
+	"description": "Custom pi coding agent extensions, agents, and workflows for healthcare operations",
+	"metadata": {
+		"description": "Custom pi coding agent extensions, agents, and workflows for healthcare operations",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-21T13:44:47Z",
+		"_readme_category_scores": {
+			"extension": 27,
+			"skill": 9,
+			"tool": 8,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,42 @@
+{
+	"id": "@the-agency/pi-hashline-edit",
+	"name": "@the-agency/pi-hashline-edit",
+	"url": "https://www.npmjs.com/package/@the-agency/pi-hashline-edit",
+	"source": "npm-search",
+	"description": "Pi extension providing hashline-based file reading and editing with staleness-checked line addressing.",
+	"metadata": {
+		"github_url": "https://github.com/JoshMock/the-agency",
+		"npm_name": "@the-agency/pi-hashline-edit",
+		"description": "Pi extension providing hashline-based file reading and editing with staleness-checked line addressing.",
+		"keywords": [
+			"pi",
+			"pi-package",
+			"tools",
+			"agents",
+			"llm"
+		],
+		"version": "0.2.1",
+		"stars": 4,
+		"forks": 0,
+		"open_issues": 19,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-17T18:54:22Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 1,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

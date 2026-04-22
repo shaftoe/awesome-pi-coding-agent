@@ -1,0 +1,47 @@
+{
+	"id": "supipowers",
+	"name": "supipowers",
+	"url": "https://www.npmjs.com/package/supipowers",
+	"source": "npm-search",
+	"description": "Workflow extension for OMP coding agents.",
+	"metadata": {
+		"github_url": "https://github.com/ogrodev/supipowers",
+		"npm_name": "supipowers",
+		"description": "Workflow extension for OMP coding agents.",
+		"keywords": [
+			"omp",
+			"omp-extension",
+			"oh-my-pi",
+			"ai-agent",
+			"coding-agent",
+			"workflow",
+			"code-review",
+			"planning",
+			"agent",
+			"supipowers"
+		],
+		"version": "1.5.3",
+		"stars": 5,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T17:52:06Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 5,
+			"tool": 7,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

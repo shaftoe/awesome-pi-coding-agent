@@ -22,15 +22,15 @@ YouTube API   ──┘───▶│  DISCOVER    │  Find candidates via sea
                      │
                      ┌──────▼───────┐
                      │  GENERATE    │  Renders README.md with sorted tables
-                     │  src/generate/│  per category (extension/skill/tool/theme/...)
+                     │  src/generate/│  per category (extension/tool/theme/...)
                      └──────────────┘
 ```
 
 ### Key Concepts
 
 - **Identity Model**: npm package name is the canonical ID. GitHub-sourced entries use `owner-repo`. YouTube entries use `YT_<videoId>`.
-- **Storage**: File-per-entry JSON under `data/<category>s/` (e.g. `data/skills/pi-mcp.json`). Scoped npm packages stored as `@scope--name.json`.
-- **Categories**: extension, skill, tool, theme, provider, template, video, example, documentation
+- **Storage**: File-per-entry JSON under `data/<category>s/` (e.g. `data/extensions/pi-mcp.json`). Scoped npm packages stored as `@scope--name.json`.
+- **Categories**: extension, tool, theme, provider, template, video, example, documentation
 - **Health**: Score 0–100 mapped to active (≥70), maintained (≥40), stale (≥15), dead (<15)
 - **Filtering**: Relevance filter rejects Raspberry Pi / unrelated matches. Blacklist (`data/blacklist.json`) handles edge cases.
 - **Caching**: `.cache/` directory with 1h TTL for API responses (`src/lib/cache.ts`)

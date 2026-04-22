@@ -1,0 +1,48 @@
+{
+	"id": "@stylusnexus/skill-loop-cli",
+	"name": "@stylusnexus/skill-loop-cli",
+	"url": "https://www.npmjs.com/package/@stylusnexus/skill-loop-cli",
+	"source": "npm-search",
+	"description": "CLI for skill-loop: inspect, amend, evaluate, and maintain AI coding tool skills",
+	"metadata": {
+		"github_url": "https://github.com/stylusnexus/skill-loop",
+		"npm_name": "@stylusnexus/skill-loop-cli",
+		"description": "CLI for skill-loop: inspect, amend, evaluate, and maintain AI coding tool skills",
+		"keywords": [],
+		"version": "0.3.3",
+		"stars": 0,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-10T01:40:37Z",
+		"topics": [
+			"ai-coding",
+			"ai-tools",
+			"claude-code",
+			"codex",
+			"copilot",
+			"mcp",
+			"mcp-server",
+			"observability",
+			"self-improving",
+			"skills",
+			"typescript"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 20,
+			"skill": 189,
+			"tool": 24,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

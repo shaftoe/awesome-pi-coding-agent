@@ -1,0 +1,57 @@
+{
+	"id": "@aryaminus/controlkeel-pi-extension",
+	"name": "@aryaminus/controlkeel-pi-extension",
+	"url": "https://www.npmjs.com/package/@aryaminus/controlkeel-pi-extension",
+	"source": "npm-search",
+	"description": "ControlKeel Pi adapter bundle",
+	"metadata": {
+		"github_url": "https://github.com/aryaminus/controlkeel",
+		"npm_name": "@aryaminus/controlkeel-pi-extension",
+		"description": "ControlKeel Pi adapter bundle",
+		"keywords": [
+			"controlkeel",
+			"pi",
+			"extension",
+			"governance",
+			"mcp"
+		],
+		"version": "0.2.40",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Elixir",
+		"license": null,
+		"last_commit": "2026-04-21T02:54:17Z",
+		"topics": [
+			"agents",
+			"ai-governance",
+			"code-review",
+			"compliance",
+			"devsecops",
+			"elixir",
+			"llm",
+			"mcp",
+			"model-context-protocol",
+			"phoenix",
+			"policy-as-code",
+			"security",
+			"skills",
+			"tooling"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://controlkeel.com",
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 13,
+			"tool": 11,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

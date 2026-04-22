@@ -1,0 +1,36 @@
+{
+	"id": "@compozy/cli",
+	"name": "@compozy/cli",
+	"url": "https://www.npmjs.com/package/@compozy/cli",
+	"source": "npm-search",
+	"description": "Compozy CLI",
+	"metadata": {
+		"github_url": "https://github.com/compozy/compozy",
+		"npm_name": "@compozy/cli",
+		"description": "Compozy CLI",
+		"keywords": [],
+		"version": "0.1.12",
+		"stars": 514,
+		"forks": 55,
+		"open_issues": 9,
+		"language": "Go",
+		"license": "MIT",
+		"last_commit": "2026-04-21T15:56:32Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://compozy.com",
+		"_readme_category_scores": {
+			"extension": 51,
+			"skill": 28,
+			"tool": 25,
+			"theme": 0,
+			"provider": 14
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "extension"
+}

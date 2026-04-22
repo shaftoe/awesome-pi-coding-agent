@@ -1,0 +1,46 @@
+{
+	"id": "pi-skill-tavily",
+	"name": "pi-skill-tavily",
+	"url": "https://www.npmjs.com/package/pi-skill-tavily",
+	"source": "npm-search",
+	"description": "Tavily web search, extract, crawl, and research skills for pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/A-Legg/pi-skill-tavily",
+		"npm_name": "pi-skill-tavily",
+		"description": "Tavily web search, extract, crawl, and research skills for pi coding agent",
+		"keywords": [
+			"pi-package",
+			"pi-skill",
+			"tavily",
+			"web-search",
+			"web-extract",
+			"web-crawl",
+			"web-research",
+			"agent-skills",
+			"coding-agent"
+		],
+		"version": "1.0.0",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Shell",
+		"license": "MIT",
+		"last_commit": "2026-03-12T17:43:26Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 20,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

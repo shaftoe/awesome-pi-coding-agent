@@ -1,0 +1,41 @@
+{
+	"id": "forjd-pi-package-search",
+	"name": "forjd-pi-package-search",
+	"url": "https://github.com/forjd/pi-package-search",
+	"source": "github-search",
+	"description": "Discover and install Pi packages from npm directly inside Pi.",
+	"metadata": {
+		"description": "Discover and install Pi packages from npm directly inside Pi.",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [
+			"developer-tools",
+			"npm",
+			"package-discovery",
+			"pi",
+			"pi-coding-agent",
+			"pi-extension",
+			"pi-package",
+			"typescript"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-19T19:06:49Z",
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 9,
+			"tool": 1,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,47 @@
+{
+	"id": "Lum1104-Understand-Anything",
+	"name": "Lum1104-Understand-Anything",
+	"url": "https://github.com/Lum1104/Understand-Anything",
+	"source": "github-search",
+	"description": "Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+	"metadata": {
+		"description": "Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+		"stars": 8646,
+		"forks": 722,
+		"language": "TypeScript",
+		"topics": [
+			"antigravity-skills",
+			"business-knowledge",
+			"claude-code",
+			"claude-skills",
+			"codex",
+			"codex-skills",
+			"gemini-cli-skills",
+			"karpathy-llm-wiki",
+			"knowledge-base",
+			"knowledge-graph",
+			"memory",
+			"opencode-skills",
+			"pi-agent",
+			"understandcode"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://understand-anything.com",
+		"open_issues": 10,
+		"license": "MIT",
+		"last_commit": "2026-04-20T08:49:07Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 1,
+			"tool": 21,
+			"theme": 2,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

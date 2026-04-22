@@ -1,0 +1,42 @@
+{
+	"id": "@trq/pi-colgrep",
+	"name": "@trq/pi-colgrep",
+	"url": "https://www.npmjs.com/package/@trq/pi-colgrep",
+	"source": "npm-search",
+	"description": "pi extension that adds a colgrep tool and prioritizes semantic/hybrid ColGrep search",
+	"metadata": {
+		"github_url": "https://github.com/trq/pi-colgrep",
+		"npm_name": "@trq/pi-colgrep",
+		"description": "pi extension that adds a colgrep tool and prioritizes semantic/hybrid ColGrep search",
+		"keywords": [
+			"pi-package",
+			"pi-extension",
+			"colgrep",
+			"grep",
+			"semantic-search"
+		],
+		"version": "0.1.4",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-10T05:16:41Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 7,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

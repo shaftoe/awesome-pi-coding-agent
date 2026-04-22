@@ -1,0 +1,56 @@
+{
+	"id": "@krodak/clickup-cli",
+	"name": "@krodak/clickup-cli",
+	"url": "https://www.npmjs.com/package/@krodak/clickup-cli",
+	"source": "npm-search",
+	"description": "ClickUp CLI for AI agents and humans",
+	"metadata": {
+		"github_url": "https://github.com/krodak/clickup-cli",
+		"npm_name": "@krodak/clickup-cli",
+		"description": "ClickUp CLI for AI agents and humans",
+		"keywords": [
+			"clickup",
+			"cli",
+			"tasks",
+			"project-management",
+			"ai-agents",
+			"sprint",
+			"initiative"
+		],
+		"version": "1.25.0",
+		"stars": 54,
+		"forks": 8,
+		"open_issues": 7,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T13:47:55Z",
+		"topics": [
+			"ai-agents",
+			"claude-code",
+			"cli",
+			"clickup",
+			"codex",
+			"developer-tools",
+			"productivity",
+			"project-management",
+			"task-management",
+			"terminal",
+			"typescript"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 42,
+			"tool": 55,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 75,
+		"level": "active"
+	},
+	"category": "tool"
+}

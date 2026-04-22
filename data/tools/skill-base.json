@@ -1,0 +1,36 @@
+{
+	"id": "skill-base",
+	"name": "skill-base",
+	"url": "https://www.npmjs.com/package/skill-base",
+	"source": "npm-search",
+	"description": "Skill Base - A lightweight, privately deployable agent skills distribution hub",
+	"metadata": {
+		"github_url": "https://github.com/ginuim/skill-base",
+		"npm_name": "skill-base",
+		"description": "Skill Base - A lightweight, privately deployable agent skills distribution hub",
+		"keywords": [],
+		"version": "2.0.38",
+		"stars": 11,
+		"forks": 2,
+		"open_issues": 1,
+		"language": "Vue",
+		"license": null,
+		"last_commit": "2026-04-16T06:11:24Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://skillbase.reaidea.com/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 146,
+			"tool": 24,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

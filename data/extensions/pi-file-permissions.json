@@ -1,0 +1,38 @@
+{
+	"id": "pi-file-permissions",
+	"name": "pi-file-permissions",
+	"url": "https://www.npmjs.com/package/pi-file-permissions",
+	"source": "npm-search",
+	"description": "Pi extension that enforces file-level permissions via a YAML config. Controls which paths each tool (read, write, edit, find, grep, ls) can access.",
+	"metadata": {
+		"github_url": "https://github.com/ross-jill-ws/pi-file-permissions",
+		"npm_name": "pi-file-permissions",
+		"description": "Pi extension that enforces file-level permissions via a YAML config. Controls which paths each tool (read, write, edit, find, grep, ls) can access.",
+		"keywords": [
+			"pi-package"
+		],
+		"version": "0.2.5",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-07T23:17:00Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 12,
+			"skill": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

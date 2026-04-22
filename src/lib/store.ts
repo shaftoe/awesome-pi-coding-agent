@@ -179,7 +179,6 @@ function getExistingCategories(): Category[] {
 	if (!existsSync(DATA_DIR)) return [];
 	const validCategories: ReadonlySet<string> = new Set<string>([
 		"extension",
-		"skill",
 		"tool",
 		"theme",
 		"provider",

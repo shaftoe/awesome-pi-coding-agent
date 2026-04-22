@@ -1,0 +1,45 @@
+{
+	"id": "@aisuite/chub",
+	"name": "@aisuite/chub",
+	"url": "https://www.npmjs.com/package/@aisuite/chub",
+	"source": "npm-search",
+	"description": "CLI for Context Hub - search and retrieve LLM-optimized docs and skills",
+	"metadata": {
+		"github_url": "https://github.com/andrewyng/context-hub",
+		"npm_name": "@aisuite/chub",
+		"description": "CLI for Context Hub - search and retrieve LLM-optimized docs and skills",
+		"keywords": [
+			"ai",
+			"llm",
+			"documentation",
+			"agent",
+			"cli",
+			"context",
+			"skills",
+			"mcp"
+		],
+		"version": "0.1.3",
+		"stars": 12996,
+		"forks": 1139,
+		"open_issues": 133,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-03-21T00:44:31Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 15,
+			"tool": 6,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 80,
+		"level": "active"
+	},
+	"category": "tool"
+}

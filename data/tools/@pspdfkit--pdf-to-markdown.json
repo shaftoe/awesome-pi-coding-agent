@@ -1,0 +1,55 @@
+{
+	"id": "@pspdfkit/pdf-to-markdown",
+	"name": "@pspdfkit/pdf-to-markdown",
+	"url": "https://www.npmjs.com/package/@pspdfkit/pdf-to-markdown",
+	"source": "npm-search",
+	"description": "Standalone CLI wrapper for Nutrient's PDF-to-Markdown extractor",
+	"metadata": {
+		"github_url": "https://github.com/PSPDFKit/pdf-to-markdown",
+		"npm_name": "@pspdfkit/pdf-to-markdown",
+		"description": "Standalone CLI wrapper for Nutrient's PDF-to-Markdown extractor",
+		"keywords": [
+			"pdf",
+			"markdown",
+			"cli",
+			"nutrient",
+			"pspdfkit",
+			"document-processing"
+		],
+		"version": "0.1.0",
+		"stars": 180,
+		"forks": 7,
+		"open_issues": 0,
+		"language": "Shell",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-11T23:14:01Z",
+		"topics": [
+			"cli",
+			"markdown",
+			"nutrient",
+			"parser",
+			"pdf",
+			"pdf-converter",
+			"pdf-parser",
+			"pdf2md",
+			"pspdfkit",
+			"skill-md",
+			"skills"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.nutrient.io/ai/skills/pdf-to-markdown/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 10,
+			"tool": 14,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 88,
+		"level": "active"
+	},
+	"category": "tool"
+}

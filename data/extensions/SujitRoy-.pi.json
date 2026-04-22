@@ -1,0 +1,37 @@
+{
+	"id": "SujitRoy-.pi",
+	"name": "SujitRoy-.pi",
+	"url": "https://github.com/SujitRoy/.pi",
+	"source": "github-search",
+	"description": "Personal skills, model configurations, and coding standards for the PI Coding Agent. Synced across machines, version-controlled, and optimized for minimal token usage and high autonomy.",
+	"metadata": {
+		"description": "Personal skills, model configurations, and coding standards for the PI Coding Agent. Synced across machines, version-controlled, and optimized for minimal token usage and high autonomy.",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [
+			"agent-configuration",
+			"ai-skills",
+			"pi-coding-agent",
+			"pi-skills"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-20T03:53:25Z",
+		"_readme_category_scores": {
+			"extension": 28,
+			"skill": 38,
+			"tool": 2,
+			"theme": 4,
+			"provider": 10
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

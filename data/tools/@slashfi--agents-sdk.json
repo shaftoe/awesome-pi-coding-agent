@@ -1,0 +1,43 @@
+{
+	"id": "@slashfi/agents-sdk",
+	"name": "@slashfi/agents-sdk",
+	"url": "https://www.npmjs.com/package/@slashfi/agents-sdk",
+	"source": "npm-search",
+	"description": "SDK for building AI agents with tool definitions and JSON-RPC servers",
+	"metadata": {
+		"github_url": "https://github.com/slashfi/agents-sdk",
+		"npm_name": "@slashfi/agents-sdk",
+		"description": "SDK for building AI agents with tool definitions and JSON-RPC servers",
+		"keywords": [
+			"ai",
+			"agents",
+			"llm",
+			"tools",
+			"mcp",
+			"json-rpc"
+		],
+		"version": "0.74.0",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 6,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T04:57:33Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 30,
+			"tool": 16,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,38 @@
+{
+	"id": "@tianhai/pi-workflow-kit",
+	"name": "@tianhai/pi-workflow-kit",
+	"url": "https://www.npmjs.com/package/@tianhai/pi-workflow-kit",
+	"source": "npm-search",
+	"description": "Workflow skills and enforcement extensions for pi",
+	"metadata": {
+		"github_url": "https://github.com/yinloo-ola/pi-workflow-kit",
+		"npm_name": "@tianhai/pi-workflow-kit",
+		"description": "Workflow skills and enforcement extensions for pi",
+		"keywords": [
+			"pi-package"
+		],
+		"version": "0.8.2",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T01:44:20Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 19,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 40,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

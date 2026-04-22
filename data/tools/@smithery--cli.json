@@ -1,0 +1,36 @@
+{
+	"id": "@smithery/cli",
+	"name": "@smithery/cli",
+	"url": "https://www.npmjs.com/package/@smithery/cli",
+	"source": "npm-search",
+	"description": "An NPX command to install and list Model Context Protocols from Smithery",
+	"metadata": {
+		"github_url": "https://github.com/smithery-ai/cli",
+		"npm_name": "@smithery/cli",
+		"description": "An NPX command to install and list Model Context Protocols from Smithery",
+		"keywords": [],
+		"version": "4.8.1",
+		"stars": 685,
+		"forks": 88,
+		"open_issues": 14,
+		"language": "TypeScript",
+		"license": "AGPL-3.0",
+		"last_commit": "2026-04-16T19:40:19Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://smithery.ai",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 30,
+			"tool": 10,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

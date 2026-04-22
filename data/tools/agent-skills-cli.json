@@ -1,0 +1,67 @@
+{
+	"id": "agent-skills-cli",
+	"name": "agent-skills-cli",
+	"url": "https://www.npmjs.com/package/agent-skills-cli",
+	"source": "npm-search",
+	"description": "Universal CLI for Agent Skills - works with 45 AI agents including Cursor, Claude Code, GitHub Copilot, Windsurf, Cline, Zed, and more. Supports private Git repos, npm packages, and enterprise configurations.",
+	"metadata": {
+		"github_url": "https://github.com/Karanjot786/agent-skills-cli",
+		"npm_name": "agent-skills-cli",
+		"description": "Universal CLI for Agent Skills - works with 45 AI agents including Cursor, Claude Code, GitHub Copilot, Windsurf, Cline, Zed, and more. Supports private Git repos, npm packages, and enterprise configurations.",
+		"keywords": [
+			"agent-skills",
+			"ai",
+			"llm",
+			"cursor",
+			"claude-code",
+			"github-copilot",
+			"openai-codex",
+			"skills",
+			"marketplace",
+			"private-git",
+			"npm-packages",
+			"bitbucket",
+			"ssh",
+			"enterprise",
+			"skillsrc"
+		],
+		"version": "1.1.7",
+		"stars": 129,
+		"forks": 9,
+		"open_issues": 5,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-27T05:57:54Z",
+		"topics": [
+			"agent-skills",
+			"ai",
+			"ai-agents",
+			"antigravity",
+			"claude-code",
+			"claude-skills",
+			"cli",
+			"cursor",
+			"developer-tools",
+			"github-copilot",
+			"llm",
+			"marketplace",
+			"openai",
+			"typescript"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/agent-skills-cli",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 228,
+			"tool": 23,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "tool"
+}

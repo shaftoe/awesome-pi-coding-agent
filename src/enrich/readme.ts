@@ -42,7 +42,6 @@ async function fetchReadme(url: string): Promise<string | null> {
 /** Keywords that hint at the type of resource. */
 const CATEGORY_KEYWORDS: Record<string, string[]> = {
 	extension: ["extension", "hooks", "custom tool", "tool registration"],
-	skill: ["SKILL.md", "skill"],
 	tool: ["cli", "utility", "dashboard", "sandbox", "manager"],
 	theme: ["theme", "color scheme", "rose pine"],
 	provider: ["provider", "model registry", "api adapter"],

@@ -1,0 +1,38 @@
+{
+	"id": "znlgis-GeoPipeAgent",
+	"name": "znlgis-GeoPipeAgent",
+	"url": "https://github.com/znlgis/GeoPipeAgent",
+	"source": "github-search",
+	"description": "GeoPipeAgent 是一个AI 优先的 GIS 数据分析流水线框架。AI 通过 Skill 文件理解框架能力，生成 YAML 格式的分析流水线，框架解析并执行，返回 JSON 结构化报告。",
+	"metadata": {
+		"description": "GeoPipeAgent 是一个AI 优先的 GIS 数据分析流水线框架。AI 通过 Skill 文件理解框架能力，生成 YAML 格式的分析流水线，框架解析并执行，返回 JSON 结构化报告。",
+		"stars": 2,
+		"forks": 0,
+		"language": "Python",
+		"topics": [
+			"ai",
+			"ai-agent",
+			"gis",
+			"pipe",
+			"skill"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://znlgis.github.io/gis/tutorial/GeoPipeAgent",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-03-31T22:54:28Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 47,
+			"tool": 46,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

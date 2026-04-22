@@ -1,0 +1,40 @@
+{
+	"id": "gsd-pi",
+	"name": "gsd-pi",
+	"url": "https://www.npmjs.com/package/gsd-pi",
+	"source": "npm-search",
+	"description": "GSD — Get Shit Done coding agent",
+	"metadata": {
+		"github_url": "https://github.com/gsd-build/gsd-2",
+		"npm_name": "gsd-pi",
+		"description": "GSD — Get Shit Done coding agent",
+		"keywords": [],
+		"version": "2.77.0",
+		"stars": 6312,
+		"forks": 650,
+		"open_issues": 199,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T14:49:29Z",
+		"topics": [
+			"context-engineering",
+			"meta-prompting",
+			"spec-driven-development"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 22,
+			"skill": 21,
+			"tool": 28,
+			"theme": 2,
+			"provider": 30
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "provider"
+}

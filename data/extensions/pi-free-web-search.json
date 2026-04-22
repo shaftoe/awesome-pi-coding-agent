@@ -1,0 +1,43 @@
+{
+	"id": "pi-free-web-search",
+	"name": "pi-free-web-search",
+	"url": "https://www.npmjs.com/package/pi-free-web-search",
+	"source": "npm-search",
+	"description": "Free, hybrid, browser-aware web search and content extraction package for Pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/Albertobelleiro/pi-free-web-search",
+		"npm_name": "pi-free-web-search",
+		"description": "Free, hybrid, browser-aware web search and content extraction package for Pi coding agent",
+		"keywords": [
+			"pi-package",
+			"pi",
+			"extension",
+			"web-search",
+			"browser-automation",
+			"research"
+		],
+		"version": "0.3.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-07T19:07:31Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 8,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

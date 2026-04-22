@@ -1,0 +1,54 @@
+{
+	"id": "glimpseui",
+	"name": "glimpseui",
+	"url": "https://www.npmjs.com/package/glimpseui",
+	"source": "npm-search",
+	"description": "Native micro-UI for scripts and agents — cross-platform WebView windows with bidirectional JSON communication",
+	"metadata": {
+		"github_url": "https://github.com/hazat/glimpse",
+		"npm_name": "glimpseui",
+		"description": "Native micro-UI for scripts and agents — cross-platform WebView windows with bidirectional JSON communication",
+		"keywords": [
+			"macos",
+			"linux",
+			"windows",
+			"webview",
+			"native",
+			"ui",
+			"webkit",
+			"wkwebview",
+			"webview2",
+			"gtk",
+			"swift",
+			"gui",
+			"agent",
+			"dialog",
+			"prompt",
+			"overlay",
+			"pi-package"
+		],
+		"version": "0.8.0",
+		"stars": 654,
+		"forks": 25,
+		"open_issues": 6,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-19T09:01:57Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 1,
+			"tool": 25,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

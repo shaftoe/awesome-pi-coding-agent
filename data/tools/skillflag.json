@@ -1,0 +1,36 @@
+{
+	"id": "skillflag",
+	"name": "skillflag",
+	"url": "https://www.npmjs.com/package/skillflag",
+	"source": "npm-search",
+	"description": "Skillflag producer CLI reference implementation.",
+	"metadata": {
+		"github_url": "https://github.com/osolmaz/skillflag",
+		"npm_name": "skillflag",
+		"description": "Skillflag producer CLI reference implementation.",
+		"keywords": [],
+		"version": "0.1.4",
+		"stars": 6,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-20T17:26:34Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 109,
+			"tool": 14,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,51 @@
+{
+	"id": "@aryaminus/controlkeel",
+	"name": "@aryaminus/controlkeel",
+	"url": "https://www.npmjs.com/package/@aryaminus/controlkeel",
+	"source": "npm-search",
+	"description": "Bootstrap installer for the ControlKeel native CLI.",
+	"metadata": {
+		"github_url": "https://github.com/aryaminus/controlkeel",
+		"npm_name": "@aryaminus/controlkeel",
+		"description": "Bootstrap installer for the ControlKeel native CLI.",
+		"keywords": [],
+		"version": "0.2.40",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Elixir",
+		"license": null,
+		"last_commit": "2026-04-21T02:54:17Z",
+		"topics": [
+			"agents",
+			"ai-governance",
+			"code-review",
+			"compliance",
+			"devsecops",
+			"elixir",
+			"llm",
+			"mcp",
+			"model-context-protocol",
+			"phoenix",
+			"policy-as-code",
+			"security",
+			"skills",
+			"tooling"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://controlkeel.com",
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 13,
+			"tool": 11,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

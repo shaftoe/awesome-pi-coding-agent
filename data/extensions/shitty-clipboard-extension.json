@@ -1,0 +1,43 @@
+{
+	"id": "shitty-clipboard-extension",
+	"name": "shitty-clipboard-extension",
+	"url": "https://www.npmjs.com/package/shitty-clipboard-extension",
+	"source": "npm-search",
+	"description": "Standalone clipboard extension for pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/hjanuschka/shitty-extensions",
+		"npm_name": "shitty-clipboard-extension",
+		"description": "Standalone clipboard extension for pi coding agent",
+		"keywords": [
+			"pi",
+			"pi-coding-agent",
+			"extension",
+			"clipboard",
+			"osc52",
+			"terminal"
+		],
+		"version": "0.1.0",
+		"stars": 92,
+		"forks": 12,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-22T22:47:56Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 27,
+			"skill": 20,
+			"tool": 20,
+			"theme": 0,
+			"provider": 8
+		}
+	},
+	"health": {
+		"score": 69,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

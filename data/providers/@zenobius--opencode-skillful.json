@@ -1,0 +1,41 @@
+{
+	"id": "@zenobius/opencode-skillful",
+	"name": "@zenobius/opencode-skillful",
+	"url": "https://www.npmjs.com/package/@zenobius/opencode-skillful",
+	"source": "npm-search",
+	"description": "OpenCode Skills Plugin - Anthropic Agent Skills Specification implementation",
+	"metadata": {
+		"github_url": "https://github.com/zenobi-us/opencode-skillful",
+		"npm_name": "@zenobius/opencode-skillful",
+		"description": "OpenCode Skills Plugin - Anthropic Agent Skills Specification implementation",
+		"keywords": [],
+		"version": "1.2.5",
+		"stars": 281,
+		"forks": 25,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-13T09:32:25Z",
+		"topics": [
+			"agent",
+			"llms",
+			"opencode",
+			"skills"
+		],
+		"is_archived": true,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 326,
+			"tool": 0,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,43 @@
+{
+	"id": "omni-pi",
+	"name": "omni-pi",
+	"url": "https://www.npmjs.com/package/omni-pi",
+	"source": "npm-search",
+	"description": "Single-agent Pi package that interviews the user, documents the spec, and implements work in bounded slices.",
+	"metadata": {
+		"github_url": "https://github.com/edgyarmati/Omni-Pi",
+		"npm_name": "omni-pi",
+		"description": "Single-agent Pi package that interviews the user, documents the spec, and implements work in bounded slices.",
+		"keywords": [
+			"pi-package",
+			"pi",
+			"agent",
+			"planning",
+			"implementation",
+			"interview"
+		],
+		"version": "0.9.0",
+		"stars": 6,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T13:23:42Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 15,
+			"tool": 0,
+			"theme": 3,
+			"provider": 22
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,37 @@
+{
+	"id": "coinmastersguild-pioneer-agent-template",
+	"name": "coinmastersguild-pioneer-agent-template",
+	"url": "https://github.com/coinmastersguild/pioneer-agent-template",
+	"source": "github-search",
+	"description": "Template repository for Pioneer agents — identity, tools, skills, and briefings. Use this template to spawn a private per-agent repo.",
+	"metadata": {
+		"description": "Template repository for Pioneer agents — identity, tools, skills, and briefings. Use this template to spawn a private per-agent repo.",
+		"stars": 0,
+		"forks": 0,
+		"language": "Dockerfile",
+		"topics": [
+			"ai-agent",
+			"pioneer",
+			"template",
+			"zeroclaw"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-18T05:22:10Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 6,
+			"tool": 0,
+			"theme": 1,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "template"
+}

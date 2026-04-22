@@ -1,0 +1,38 @@
+{
+	"id": "@playwright/cli",
+	"name": "@playwright/cli",
+	"url": "https://www.npmjs.com/package/@playwright/cli",
+	"source": "npm-search",
+	"description": "Playwright CLI",
+	"metadata": {
+		"github_url": "https://github.com/microsoft/playwright-cli",
+		"npm_name": "@playwright/cli",
+		"description": "Playwright CLI",
+		"keywords": [],
+		"version": "0.1.8",
+		"stars": 9043,
+		"forks": 441,
+		"open_issues": 15,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-14T19:03:50Z",
+		"topics": [
+			"playwright"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://playwright.dev",
+		"_readme_category_scores": {
+			"extension": 4,
+			"skill": 10,
+			"tool": 162,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

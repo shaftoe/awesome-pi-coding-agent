@@ -14,25 +14,21 @@ export function classify(entry: Entry): Category {
 		return "video";
 	}
 
-	// Rule 2: Check for SKILL.md in repo hints
-	if (readmeScores["skill"] && readmeScores["skill"] > 0) {
-		return "skill";
-	}
-
-	// Rule 3: Name/description keyword matching
+	// Rule 2: Name/description keyword matching
 	if (text.includes("theme") || text.includes("rose-pine")) return "theme";
 	if (text.includes("provider") || text.includes("model registry")) return "provider";
 	if (text.includes("template") || text.includes("prompt template")) return "template";
 
-	// Rule 4: Use README category scores if available
+	// Rule 3: Use README category scores if available (excluding "skill" — skills are
+	// cross-agent markdown files, not npm packages / GitHub repos)
 	const topCategory = Object.entries(readmeScores)
-		.filter(([, score]) => score > 0)
+		.filter(([cat, score]) => score > 0 && cat !== "skill")
 		.sort(([, a], [, b]) => b - a)[0];
 	if (topCategory) {
 		return topCategory[0] as Category;
 	}
 
-	// Rule 5: Default heuristic — if it has "extension" anywhere, it's an extension
+	// Rule 4: Default heuristic — if it has "extension" anywhere, it's an extension
 	if (text.includes("extension") || text.includes("hook")) return "extension";
 	if (text.includes("tool") || text.includes("cli") || text.includes("dashboard")) return "tool";
 

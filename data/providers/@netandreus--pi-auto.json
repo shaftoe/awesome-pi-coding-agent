@@ -1,0 +1,43 @@
+{
+	"id": "@netandreus/pi-auto",
+	"name": "@netandreus/pi-auto",
+	"url": "https://www.npmjs.com/package/@netandreus/pi-auto",
+	"source": "npm-search",
+	"description": "Pi package: usage-aware model switching and load-balancing for pi-coding-agent.",
+	"metadata": {
+		"github_url": "https://github.com/netandreus/pi-auto",
+		"npm_name": "@netandreus/pi-auto",
+		"description": "Pi package: usage-aware model switching and load-balancing for pi-coding-agent.",
+		"keywords": [
+			"pi-package",
+			"pi",
+			"mcp",
+			"ccusage",
+			"load-balancing",
+			"usage"
+		],
+		"version": "0.1.5",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-21T18:06:04Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"skill": 5,
+			"tool": 2,
+			"theme": 0,
+			"provider": 36
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,43 @@
+{
+	"id": "@vaayne/pi-subagent",
+	"name": "@vaayne/pi-subagent",
+	"url": "https://www.npmjs.com/package/@vaayne/pi-subagent",
+	"source": "npm-search",
+	"description": "Pi extension for delegating tasks to specialized agents",
+	"metadata": {
+		"github_url": "https://github.com/vaayne/agent-kit",
+		"npm_name": "@vaayne/pi-subagent",
+		"description": "Pi extension for delegating tasks to specialized agents",
+		"keywords": [
+			"agent",
+			"ai",
+			"delegation",
+			"pi-extension",
+			"pi-package",
+			"agent"
+		],
+		"version": "0.3.0",
+		"stars": 41,
+		"forks": 3,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-19T05:59:30Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 7,
+			"skill": 11,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 74,
+		"level": "active"
+	},
+	"category": "extension"
+}

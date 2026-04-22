@@ -21,9 +21,9 @@ describe("analyzeReadme", () => {
 		expect(scores["extension"]).toBeGreaterThan(0);
 	});
 
-	it("detects SKILL.md for skill category", () => {
+	it("no longer detects skill keywords (skill category removed)", () => {
 		const scores = analyzeReadme("See SKILL.md for documentation.");
-		expect(scores["skill"]).toBeGreaterThan(0);
+		expect(scores).not.toHaveProperty("skill");
 	});
 
 	it("detects CLI for tool category", () => {
@@ -56,7 +56,7 @@ describe("analyzeReadme", () => {
 
 	it("returns scores for all known categories", () => {
 		const scores = analyzeReadme("some random text");
-		const expectedCategories = ["extension", "skill", "tool", "theme", "provider"];
+		const expectedCategories = ["extension", "tool", "theme", "provider"];
 		for (const cat of expectedCategories) {
 			expect(scores).toHaveProperty(cat);
 			expect(typeof scores[cat]).toBe("number");

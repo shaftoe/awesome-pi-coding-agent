@@ -1,0 +1,44 @@
+{
+	"id": "@0xkobold/pi-kobold",
+	"name": "@0xkobold/pi-kobold",
+	"url": "https://www.npmjs.com/package/@0xkobold/pi-kobold",
+	"source": "npm-search",
+	"description": "Meta-extension for 0xKobold that bundles pi-orchestration, pi-gateway, pi-ollama, pi-learn, pi-persona, and development tools",
+	"metadata": {
+		"github_url": "https://github.com/0xKobold/pi-kobold",
+		"npm_name": "@0xkobold/pi-kobold",
+		"description": "Meta-extension for 0xKobold that bundles pi-orchestration, pi-gateway, pi-ollama, pi-learn, pi-persona, and development tools",
+		"keywords": [
+			"pi-package",
+			"pi-extension",
+			"0xkobold",
+			"orchestration",
+			"gateway",
+			"messaging",
+			"persona"
+		],
+		"version": "0.7.7",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-08T23:55:21Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 8,
+			"skill": 6,
+			"tool": 1,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

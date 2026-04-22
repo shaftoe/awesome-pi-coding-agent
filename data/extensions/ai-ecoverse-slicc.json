@@ -1,0 +1,37 @@
+{
+	"id": "ai-ecoverse-slicc",
+	"name": "ai-ecoverse-slicc",
+	"url": "https://github.com/ai-ecoverse/slicc",
+	"source": "github-search",
+	"description": "A browser-native AI agent (claw) for everyone that loves ice cream",
+	"metadata": {
+		"description": "A browser-native AI agent (claw) for everyone that loves ice cream",
+		"stars": 10,
+		"forks": 7,
+		"language": "TypeScript",
+		"topics": [
+			"ai-agents",
+			"browser-automation",
+			"openclaw-alternative",
+			"pi-agent"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.sliccy.com/",
+		"open_issues": 16,
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-21T15:19:41Z",
+		"_readme_category_scores": {
+			"extension": 13,
+			"skill": 13,
+			"tool": 13,
+			"theme": 0,
+			"provider": 11
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

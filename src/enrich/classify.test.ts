@@ -42,17 +42,9 @@ describe("classify — YouTube URLs", () => {
 	});
 });
 
-// ─── SKILL.md / README scores ──────────────────────────────────────────────────
+// ─── README category scores ──────────────────────────────────────────────────
 
 describe("classify — README category scores", () => {
-	it("classifies as skill when _readme_category_scores has skill > 0", () => {
-		const entry = makeEntry({
-			url: "https://github.com/foo/bar",
-			metadata: { _readme_category_scores: { skill: 3, extension: 1 } },
-		});
-		expect(classify(entry)).toBe("skill");
-	});
-
 	it("uses highest README score when multiple categories score > 0", () => {
 		const entry = makeEntry({
 			url: "https://github.com/foo/bar",
@@ -61,14 +53,24 @@ describe("classify — README category scores", () => {
 		expect(classify(entry)).toBe("tool");
 	});
 
-	it("ignores README scores when skill > 0 (skill takes priority in Rule 2)", () => {
-		// Rule 2: SKILL.md check fires before keyword matching
+	it("ignores skill scores (skill category removed)", () => {
 		const entry = makeEntry({
 			url: "https://github.com/foo/bar",
 			description: "A theme for pi",
-			metadata: { _readme_category_scores: { skill: 1 } },
+			metadata: { _readme_category_scores: { skill: 10, theme: 2 } },
 		});
-		expect(classify(entry)).toBe("skill");
+		// skill is excluded, so theme (next highest) wins
+		expect(classify(entry)).toBe("theme");
+	});
+
+	it("falls through to keyword matching when only skill score > 0", () => {
+		const entry = makeEntry({
+			url: "https://github.com/foo/bar",
+			description: "An extension for pi",
+			metadata: { _readme_category_scores: { skill: 5 } },
+		});
+		// skill is excluded, no other scores, falls to keyword matching
+		expect(classify(entry)).toBe("extension");
 	});
 });
 

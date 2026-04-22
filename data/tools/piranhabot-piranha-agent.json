@@ -1,0 +1,51 @@
+{
+	"id": "piranhabot-piranha-agent",
+	"name": "piranhabot-piranha-agent",
+	"url": "https://github.com/piranhabot/piranha-agent",
+	"source": "github-search",
+	"description": "⚡ Next-gen autonomous agent framework with Rust core, time-travel debugging, Wasm sandbox, and 53+ Claude Skills. 100x faster than competitors.",
+	"metadata": {
+		"description": "⚡ Next-gen autonomous agent framework with Rust core, time-travel debugging, Wasm sandbox, and 53+ Claude Skills. 100x faster than competitors.",
+		"stars": 2,
+		"forks": 0,
+		"language": "JavaScript",
+		"topics": [
+			"agent-framework",
+			"agents",
+			"ai-agents",
+			"automation",
+			"claude-skills",
+			"event-sourcing",
+			"guardrails",
+			"llm",
+			"local-llm",
+			"ollama",
+			"opentelemetry",
+			"pyo3",
+			"python",
+			"python3",
+			"rust",
+			"semantic-cache",
+			"time-travel",
+			"wasm"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 3,
+		"license": "MIT",
+		"last_commit": "2026-04-15T23:07:12Z",
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 54,
+			"tool": 32,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

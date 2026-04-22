@@ -1,0 +1,40 @@
+{
+	"id": "ever-oli-io",
+	"name": "ever-oli-io",
+	"url": "https://github.com/ever-oli/io",
+	"source": "github-search",
+	"description": "IO is a clean-room Python rewrite of the pi-mono repo and hermes , organized around the core package boundaries lifted from pi-mono. I couldn't decide on one so why not both.",
+	"metadata": {
+		"description": "IO is a clean-room Python rewrite of the pi-mono repo and hermes , organized around the core package boundaries lifted from pi-mono. I couldn't decide on one so why not both.",
+		"stars": 3,
+		"forks": 0,
+		"language": "Python",
+		"topics": [
+			"agent",
+			"agentic-ai",
+			"agents",
+			"assistant",
+			"hermes",
+			"personal-assistant",
+			"pi"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-20T15:59:20Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 12,
+			"tool": 6,
+			"theme": 0,
+			"provider": 8
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,44 @@
+{
+	"id": "cdervis-vscode-pi",
+	"name": "cdervis-vscode-pi",
+	"url": "https://github.com/cdervis/vscode-pi",
+	"source": "github-search",
+	"description": "VS Code extension for the pi agent.",
+	"metadata": {
+		"description": "VS Code extension for the pi agent.",
+		"stars": 2,
+		"forks": 0,
+		"language": null,
+		"topics": [
+			"ai",
+			"ai-agents",
+			"assistant",
+			"coding-agent",
+			"developer-tools",
+			"local-ai",
+			"local-ai-agents",
+			"pi",
+			"pi-agent",
+			"vscode",
+			"vscode-extension"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://vscode-pi.dev",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-18T20:57:43Z",
+		"_readme_category_scores": {
+			"extension": 11,
+			"skill": 1,
+			"tool": 1,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

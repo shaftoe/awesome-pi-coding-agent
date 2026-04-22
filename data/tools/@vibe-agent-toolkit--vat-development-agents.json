@@ -1,0 +1,41 @@
+{
+	"id": "@vibe-agent-toolkit/vat-development-agents",
+	"name": "@vibe-agent-toolkit/vat-development-agents",
+	"url": "https://www.npmjs.com/package/@vibe-agent-toolkit/vat-development-agents",
+	"source": "npm-search",
+	"description": "VAT development agents - dogfooding the vibe-agent-toolkit",
+	"metadata": {
+		"github_url": "https://github.com/jdutton/vibe-agent-toolkit",
+		"npm_name": "@vibe-agent-toolkit/vat-development-agents",
+		"description": "VAT development agents - dogfooding the vibe-agent-toolkit",
+		"keywords": [
+			"vat-agent",
+			"vibe-agent",
+			"agent-bundle",
+			"development-tools"
+		],
+		"version": "0.1.32",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T14:02:30Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 30,
+			"tool": 6,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,42 @@
+{
+	"id": "naracli",
+	"name": "naracli",
+	"url": "https://www.npmjs.com/package/naracli",
+	"source": "npm-search",
+	"description": "CLI for the Nara chain (Solana-compatible)",
+	"metadata": {
+		"github_url": "https://github.com/nara-chain/nara-cli",
+		"npm_name": "naracli",
+		"description": "CLI for the Nara chain (Solana-compatible)",
+		"keywords": [
+			"nara",
+			"solana",
+			"blockchain",
+			"cli",
+			"sdk"
+		],
+		"version": "1.0.94",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-21T07:50:00Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 15,
+			"tool": 6,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

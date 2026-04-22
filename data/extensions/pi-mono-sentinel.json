@@ -1,0 +1,39 @@
+{
+	"id": "pi-mono-sentinel",
+	"name": "pi-mono-sentinel",
+	"url": "https://www.npmjs.com/package/pi-mono-sentinel",
+	"source": "npm-search",
+	"description": "Pi extension that guards against content-based secret leaks and indirect script execution",
+	"metadata": {
+		"github_url": "https://github.com/emanuelcasco/pi-mono-extensions",
+		"npm_name": "pi-mono-sentinel",
+		"description": "Pi extension that guards against content-based secret leaks and indirect script execution",
+		"keywords": [
+			"pi-package",
+			"pi-extension"
+		],
+		"version": "1.7.0",
+		"stars": 23,
+		"forks": 3,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-19T14:05:51Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 47,
+			"skill": 2,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "extension"
+}

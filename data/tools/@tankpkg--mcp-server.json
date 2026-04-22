@@ -1,0 +1,59 @@
+{
+	"id": "@tankpkg/mcp-server",
+	"name": "@tankpkg/mcp-server",
+	"url": "https://www.npmjs.com/package/@tankpkg/mcp-server",
+	"source": "npm-search",
+	"description": "MCP server for Tank - scan and publish AI agent skills from your editor",
+	"metadata": {
+		"github_url": "https://github.com/tankpkg/tank",
+		"npm_name": "@tankpkg/mcp-server",
+		"description": "MCP server for Tank - scan and publish AI agent skills from your editor",
+		"keywords": [
+			"mcp",
+			"tank",
+			"ai",
+			"skills",
+			"claude",
+			"cursor",
+			"copilot"
+		],
+		"version": "0.14.3",
+		"stars": 25,
+		"forks": 4,
+		"open_issues": 28,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T18:25:52Z",
+		"topics": [
+			"ai-agents",
+			"ai-coding-agent",
+			"claude-code",
+			"cli",
+			"cursor",
+			"developer-tools",
+			"npm-alternative",
+			"package-manager",
+			"registry",
+			"security",
+			"semver",
+			"skills",
+			"static-analysis",
+			"supply-chain-security"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://tankpkg.dev",
+		"_readme_category_scores": {
+			"extension": 0,
+			"skill": 26,
+			"tool": 9,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,44 @@
+{
+	"id": "claude-recall",
+	"name": "claude-recall",
+	"url": "https://www.npmjs.com/package/claude-recall",
+	"source": "npm-search",
+	"description": "Persistent memory for Claude Code and Pi with native Skills integration, automatic capture, failure learning, and project scoping",
+	"metadata": {
+		"github_url": "https://github.com/raoulbia-ai/claude-recall",
+		"npm_name": "claude-recall",
+		"description": "Persistent memory for Claude Code and Pi with native Skills integration, automatic capture, failure learning, and project scoping",
+		"keywords": [
+			"claude-code",
+			"mcp",
+			"memory",
+			"ai",
+			"claude",
+			"anthropic",
+			"model-context-protocol"
+		],
+		"version": "0.22.2",
+		"stars": 14,
+		"forks": 3,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-14T13:38:42Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 17,
+			"skill": 31,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

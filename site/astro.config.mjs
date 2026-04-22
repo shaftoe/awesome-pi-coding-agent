@@ -21,7 +21,6 @@ export default defineConfig({
 					label: "Categories",
 					items: [
 						{ label: "🔌 Extensions", link: "/extensions" },
-						{ label: "🧠 Skills", link: "/skills" },
 						{ label: "🛠️ Tools & Utilities", link: "/tools" },
 						{ label: "🎨 Themes", link: "/themes" },
 						{ label: "🔗 Providers", link: "/providers" },

@@ -1,0 +1,41 @@
+{
+	"id": "pi-mill",
+	"name": "pi-mill",
+	"url": "https://www.npmjs.com/package/pi-mill",
+	"source": "npm-search",
+	"description": "Pi extension package that routes subagent execution through mill",
+	"metadata": {
+		"github_url": "https://github.com/laulauland/mill",
+		"npm_name": "pi-mill",
+		"description": "Pi extension package that routes subagent execution through mill",
+		"keywords": [
+			"pi-package",
+			"pi",
+			"extension",
+			"mill"
+		],
+		"version": "0.1.1",
+		"stars": 5,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-31T13:24:04Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 3,
+			"skill": 2,
+			"tool": 9,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

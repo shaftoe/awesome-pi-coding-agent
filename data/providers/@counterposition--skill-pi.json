@@ -1,0 +1,50 @@
+{
+	"id": "@counterposition/skill-pi",
+	"name": "@counterposition/skill-pi",
+	"url": "https://www.npmjs.com/package/@counterposition/skill-pi",
+	"source": "npm-search",
+	"description": "Pi coding agent reference skill — extensions, settings, providers, SDK/RPC, packages, and .pi/ config",
+	"metadata": {
+		"github_url": "https://github.com/counterposition/pi",
+		"npm_name": "@counterposition/skill-pi",
+		"description": "Pi coding agent reference skill — extensions, settings, providers, SDK/RPC, packages, and .pi/ config",
+		"keywords": [
+			"ai-skill",
+			"coding-agent",
+			"pi",
+			"pi-package",
+			"reference"
+		],
+		"version": "0.65.3",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "GPL-3.0",
+		"last_commit": "2026-04-07T03:10:47Z",
+		"topics": [
+			"agent-skills",
+			"ai-agent",
+			"pi",
+			"pi-coding-agent",
+			"skills",
+			"typescript",
+			"web-search"
+		],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"skill": 29,
+			"tool": 1,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

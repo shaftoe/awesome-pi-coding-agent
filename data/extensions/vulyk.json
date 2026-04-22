@@ -1,0 +1,43 @@
+{
+	"id": "vulyk",
+	"name": "vulyk",
+	"url": "https://www.npmjs.com/package/vulyk",
+	"source": "npm-search",
+	"description": "Package manager for AI agent skills and agents",
+	"metadata": {
+		"github_url": "https://github.com/Bredansky/vulyk",
+		"npm_name": "vulyk",
+		"description": "Package manager for AI agent skills and agents",
+		"keywords": [
+			"ai",
+			"agents",
+			"skills",
+			"claude",
+			"opencode",
+			"codex"
+		],
+		"version": "0.7.10",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-20T20:16:11Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 2,
+			"skill": 59,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}
