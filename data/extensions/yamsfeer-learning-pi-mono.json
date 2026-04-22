@@ -1,0 +1,28 @@
+{
+	"id": "yamsfeer-learning-pi-mono",
+	"name": "yamsfeer-learning-pi-mono",
+	"url": "https://github.com/yamsfeer/learning-pi-mono",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 8,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

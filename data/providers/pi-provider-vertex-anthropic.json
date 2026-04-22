@@ -1,0 +1,25 @@
+{
+	"id": "pi-provider-vertex-anthropic",
+	"name": "pi-provider-vertex-anthropic",
+	"url": "https://www.npmjs.com/package/pi-provider-vertex-anthropic",
+	"source": "npm-search",
+	"description": "Pi agent extension for Claude models via Google Cloud Vertex AI",
+	"metadata": {
+		"github_url": "https://github.com/danielcherubini/pi-provider-vertex-anthropic",
+		"npm_name": "pi-provider-vertex-anthropic",
+		"description": "Pi agent extension for Claude models via Google Cloud Vertex AI",
+		"keywords": ["pi-package", "pi", "pi-agent", "vertex-ai", "anthropic", "claude", "google-cloud", "extension"],
+		"version": "0.1.2",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 5,
+			"theme": 0,
+			"provider": 12
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

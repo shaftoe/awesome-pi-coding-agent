@@ -1,0 +1,31 @@
+{
+	"id": "mfmezger-ai_agent_dotfiles",
+	"name": "mfmezger-ai_agent_dotfiles",
+	"url": "https://github.com/mfmezger/ai_agent_dotfiles",
+	"source": "github-search",
+	"description": "Dotfiles for Coding Agent Configs with Skills etc. For Claude Code, Codex, Pi, OpenCode and Gemini Cli",
+	"metadata": {
+		"description": "Dotfiles for Coding Agent Configs with Skills etc. For Claude Code, Codex, Pi, OpenCode and Gemini Cli",
+		"stars": 0,
+		"forks": 0,
+		"language": "Python",
+		"topics": ["claude-code", "codex", "codingagents", "opencode", "pi-coding-agent"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 3,
+		"license": "MIT",
+		"last_commit": "2026-04-22T13:18:42Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 10,
+			"theme": 11,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "theme"
+}

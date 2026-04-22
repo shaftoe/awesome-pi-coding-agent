@@ -1,0 +1,35 @@
+{
+	"id": "pi-droid",
+	"name": "pi-droid",
+	"url": "https://www.npmjs.com/package/pi-droid",
+	"source": "npm-search",
+	"description": "Android phone control for pi-agent — 36 tools to see, touch, and automate any device via ADB",
+	"metadata": {
+		"github_url": "https://github.com/ArtemisAI/pi-droid",
+		"npm_name": "pi-droid",
+		"description": "Android phone control for pi-agent — 36 tools to see, touch, and automate any device via ADB",
+		"keywords": ["pi", "pi-package", "pi-extension", "pi-coding-agent", "android", "adb", "mobile-automation", "device-automation", "pi-droid", "pi-agent", "llm-tools", "ai-agent", "ai", "uiautomator", "screenshot", "android-testing", "testing", "typescript", "plugin-system", "phone", "mobile", "ui-automation"],
+		"version": "0.2.0",
+		"stars": 4,
+		"forks": 1,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-17T16:42:41Z",
+		"topics": ["adb", "ai-agent", "android", "automation", "device-automation", "llm-tools", "mobile", "mobile-automation", "phone", "pi-agent", "plugin-system", "testing", "typescript", "ui-automation", "uiautomator"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/@artemisai/pi-droid",
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 9,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,35 @@
+{
+	"id": "@robzolkos/lazypi",
+	"name": "@robzolkos/lazypi",
+	"url": "https://www.npmjs.com/package/@robzolkos/lazypi",
+	"source": "npm-search",
+	"description": "Opinionated one-shot installer for a full-featured Pi coding agent setup.",
+	"metadata": {
+		"github_url": "https://github.com/robzolkos/LazyPi",
+		"npm_name": "@robzolkos/lazypi",
+		"description": "Opinionated one-shot installer for a full-featured Pi coding agent setup.",
+		"keywords": ["pi", "pi-mono", "pi-coding-agent", "installer", "npx", "extensions"],
+		"version": "0.1.7",
+		"stars": 86,
+		"forks": 3,
+		"open_issues": 2,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-22T13:22:03Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://lazypi.org",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 8,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 79,
+		"level": "active"
+	},
+	"category": "theme"
+}

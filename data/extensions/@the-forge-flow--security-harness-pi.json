@@ -1,0 +1,25 @@
+{
+	"id": "@the-forge-flow/security-harness-pi",
+	"name": "@the-forge-flow/security-harness-pi",
+	"url": "https://www.npmjs.com/package/@the-forge-flow/security-harness-pi",
+	"source": "npm-search",
+	"description": "Security harness for the PI coding agent — forbids dangerous commands and gates sensitive ones behind user approval",
+	"metadata": {
+		"github_url": "https://github.com/MonsieurBarti/security-harness-pi",
+		"npm_name": "@the-forge-flow/security-harness-pi",
+		"description": "Security harness for the PI coding agent — forbids dangerous commands and gates sensitive ones behind user approval",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "extension", "security", "permissions", "sandbox", "tff", "the-forge-flow"],
+		"version": "0.1.1",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "work-agent",
+	"name": "work-agent",
+	"url": "https://www.npmjs.com/package/work-agent",
+	"source": "npm-search",
+	"description": "AI work agent with local file system access, powered by Next.js",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "work-agent",
+		"description": "AI work agent with local file system access, powered by Next.js",
+		"keywords": [],
+		"version": "0.1.11",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

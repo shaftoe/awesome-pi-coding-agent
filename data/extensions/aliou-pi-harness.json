@@ -1,0 +1,28 @@
+{
+	"id": "aliou-pi-harness",
+	"name": "aliou-pi-harness",
+	"url": "https://github.com/aliou/pi-harness",
+	"source": "github-search",
+	"description": "My pi setup: tools and prompts for multi model agentic coding",
+	"metadata": {
+		"description": "My pi setup: tools and prompts for multi model agentic coding",
+		"stars": 90,
+		"forks": 12,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 8,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 59,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

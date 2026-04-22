@@ -1,0 +1,35 @@
+{
+	"id": "codex-team",
+	"name": "codex-team",
+	"url": "https://www.npmjs.com/package/codex-team",
+	"source": "npm-search",
+	"description": "Manage multiple Codex ChatGPT auth snapshots and quota usage from the command line.",
+	"metadata": {
+		"github_url": "https://github.com/HOOLC/codex-team",
+		"npm_name": "codex-team",
+		"description": "Manage multiple Codex ChatGPT auth snapshots and quota usage from the command line.",
+		"keywords": ["codex", "chatgpt", "cli", "account", "quota"],
+		"version": "0.0.22",
+		"stars": 3,
+		"forks": 2,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-22T12:40:52Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 26,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

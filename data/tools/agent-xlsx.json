@@ -1,0 +1,35 @@
+{
+	"id": "agent-xlsx",
+	"name": "agent-xlsx",
+	"url": "https://www.npmjs.com/package/agent-xlsx",
+	"source": "npm-search",
+	"description": "Agent-friendly CLI for reading and editing xlsx files (skill package)",
+	"metadata": {
+		"github_url": "https://github.com/carderne/agent-xlsx",
+		"npm_name": "agent-xlsx",
+		"description": "Agent-friendly CLI for reading and editing xlsx files (skill package)",
+		"keywords": ["pi-package", "pi-skill", "skill", "xlsx", "excel", "agent"],
+		"version": "0.1.6",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Rust",
+		"license": null,
+		"last_commit": "2026-04-14T12:08:34Z",
+		"topics": ["claude", "claude-code", "excel", "pi", "skills", "xlsx"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/agent-xlsx",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 4,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

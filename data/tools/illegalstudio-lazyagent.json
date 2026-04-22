@@ -1,0 +1,28 @@
+{
+	"id": "illegalstudio-lazyagent",
+	"name": "illegalstudio-lazyagent",
+	"url": "https://github.com/illegalstudio/lazyagent",
+	"source": "github-search",
+	"description": "Monitor all your coding agents from one terminal - Claude Code, Cursor, OpenCode, pi and more",
+	"metadata": {
+		"description": "Monitor all your coding agents from one terminal - Claude Code, Cursor, OpenCode, pi and more",
+		"stars": 137,
+		"forks": 11,
+		"language": "Go",
+		"topics": ["agent-dashboard", "agent-monitoring", "ai", "claude-code", "claude-code-monitor", "cli", "codex", "coding-agent", "coding-agent-monitor", "cursor", "developer-tools", "golang", "multi-agent", "opencode", "terminal", "tray", "tui"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://lazyagent.dev/",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 14,
+			"theme": 2,
+			"provider": 5
+		}
+	},
+	"health": {
+		"score": 64,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

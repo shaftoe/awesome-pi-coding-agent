@@ -1,0 +1,20 @@
+{
+	"id": "agent-skill-harbor-collector",
+	"name": "agent-skill-harbor-collector",
+	"url": "https://www.npmjs.com/package/agent-skill-harbor-collector",
+	"source": "npm-search",
+	"description": "Collector and post-collect runtime package for Agent Skill Harbor.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "agent-skill-harbor-collector",
+		"description": "Collector and post-collect runtime package for Agent Skill Harbor.",
+		"keywords": [],
+		"version": "0.15.6",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

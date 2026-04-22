@@ -1,0 +1,35 @@
+{
+	"id": "pi-zellij",
+	"name": "pi-zellij",
+	"url": "https://www.npmjs.com/package/pi-zellij",
+	"source": "npm-search",
+	"description": "Pi package with zellij-powered terminal integrations",
+	"metadata": {
+		"github_url": "https://github.com/javiermolinar/pi-zellij",
+		"npm_name": "pi-zellij",
+		"description": "Pi package with zellij-powered terminal integrations",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "zellij", "terminal"],
+		"version": "0.4.0",
+		"stars": 5,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-31T10:03:59Z",
+		"topics": ["pi-coding-agent", "zellij"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

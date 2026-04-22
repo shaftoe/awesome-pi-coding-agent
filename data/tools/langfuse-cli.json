@@ -1,0 +1,35 @@
+{
+	"id": "langfuse-cli",
+	"name": "langfuse-cli",
+	"url": "https://www.npmjs.com/package/langfuse-cli",
+	"source": "npm-search",
+	"description": "Interact with Langfuse API from the command line",
+	"metadata": {
+		"github_url": "https://github.com/langfuse/langfuse-cli",
+		"npm_name": "langfuse-cli",
+		"description": "Interact with Langfuse API from the command line",
+		"keywords": ["langfuse", "cli", "llm", "observability", "tracing", "prompts"],
+		"version": "0.0.9",
+		"stars": 35,
+		"forks": 6,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-22T12:16:07Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/langfuse-cli",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 6,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 74,
+		"level": "active"
+	},
+	"category": "tool"
+}

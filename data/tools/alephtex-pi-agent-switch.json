@@ -1,0 +1,26 @@
+{
+	"id": "alephtex-pi-agent-switch",
+	"name": "alephtex-pi-agent-switch",
+	"url": "https://github.com/alephtex/pi-agent-switch",
+	"source": "github-search",
+	"description": "OpenCode-style primary agent switching for pi coding agent",
+	"metadata": {
+		"description": "OpenCode-style primary agent switching for pi coding agent",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-22T09:55:52Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

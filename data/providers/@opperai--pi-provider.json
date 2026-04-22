@@ -1,0 +1,25 @@
+{
+	"id": "@opperai/pi-provider",
+	"name": "@opperai/pi-provider",
+	"url": "https://www.npmjs.com/package/@opperai/pi-provider",
+	"source": "npm-search",
+	"description": "Opper AI gateway provider and tools for the pi coding agent",
+	"metadata": {
+		"github_url": "https://github.com/opper-ai/provider-pi-mono",
+		"npm_name": "@opperai/pi-provider",
+		"description": "Opper AI gateway provider and tools for the pi coding agent",
+		"keywords": ["pi-package", "pi-provider", "opper", "llm", "ai-gateway"],
+		"version": "1.0.1",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

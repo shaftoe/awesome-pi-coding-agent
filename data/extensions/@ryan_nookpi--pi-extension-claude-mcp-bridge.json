@@ -1,0 +1,25 @@
+{
+	"id": "@ryan_nookpi/pi-extension-claude-mcp-bridge",
+	"name": "@ryan_nookpi/pi-extension-claude-mcp-bridge",
+	"url": "https://www.npmjs.com/package/@ryan_nookpi/pi-extension-claude-mcp-bridge",
+	"source": "npm-search",
+	"description": "Bridge Claude Code MCP server configs into pi — auto-discovers tools from stdio/sse/http MCP servers.",
+	"metadata": {
+		"github_url": "https://github.com/Jonghakseo/pi-extension",
+		"npm_name": "@ryan_nookpi/pi-extension-claude-mcp-bridge",
+		"description": "Bridge Claude Code MCP server configs into pi — auto-discovers tools from stdio/sse/http MCP servers.",
+		"keywords": ["pi-package"],
+		"version": "1.0.0",
+		"_readme_category_scores": {
+			"extension": 29,
+			"tool": 4,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

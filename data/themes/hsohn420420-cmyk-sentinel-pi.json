@@ -1,0 +1,28 @@
+{
+	"id": "hsohn420420-cmyk-sentinel-pi",
+	"name": "hsohn420420-cmyk-sentinel-pi",
+	"url": "https://github.com/hsohn420420-cmyk/sentinel-pi",
+	"source": "github-search",
+	"description": "SENTINEL – Self-Evolving Neural Terminal Interface Layer for Pi Coding Agent. AIO documentation, extensions, skills, themes.",
+	"metadata": {
+		"description": "SENTINEL – Self-Evolving Neural Terminal Interface Layer for Pi Coding Agent. AIO documentation, extensions, skills, themes.",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 0,
+			"theme": 1,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "theme"
+}
