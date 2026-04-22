@@ -1,0 +1,31 @@
+{
+	"id": "RogerNavelsaker-nixpkg-pi-coding-agent-rust",
+	"name": "RogerNavelsaker-nixpkg-pi-coding-agent-rust",
+	"url": "https://github.com/RogerNavelsaker/nixpkg-pi-coding-agent-rust",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 0,
+		"forks": 0,
+		"language": "Rust",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-22T14:48:55Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

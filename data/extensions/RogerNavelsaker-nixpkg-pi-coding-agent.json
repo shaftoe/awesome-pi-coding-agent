@@ -1,0 +1,31 @@
+{
+	"id": "RogerNavelsaker-nixpkg-pi-coding-agent",
+	"name": "RogerNavelsaker-nixpkg-pi-coding-agent",
+	"url": "https://github.com/RogerNavelsaker/nixpkg-pi-coding-agent",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 0,
+		"forks": 0,
+		"language": "Nix",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-22T14:50:36Z",
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

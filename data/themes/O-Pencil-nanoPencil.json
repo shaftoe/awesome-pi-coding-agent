@@ -1,0 +1,31 @@
+{
+	"id": "O-Pencil-nanoPencil",
+	"name": "O-Pencil-nanoPencil",
+	"url": "https://github.com/O-Pencil/nanoPencil",
+	"source": "github-search",
+	"description": "CLI writing agent with read, bash, edit, write tools and session management. Based on pi; supports DashScope Coding Plan. Soul enabled by default for AI personality evolution.",
+	"metadata": {
+		"description": "CLI writing agent with read, bash, edit, write tools and session management. Based on pi; supports DashScope Coding Plan. Soul enabled by default for AI personality evolution.",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 1,
+		"license": "GPL-3.0",
+		"last_commit": "2026-04-22T15:55:29Z",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 3,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "theme"
+}
