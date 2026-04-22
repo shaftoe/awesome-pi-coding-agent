@@ -1,10 +1,14 @@
-name: CI
+name: Release
 
 on:
   push:
     branches: [main]
   pull_request:
     branches: [main]
+
+permissions:
+  id-token: write
+  contents: write
 
 jobs:
   check:
@@ -19,3 +23,8 @@ jobs:
       - run: bun run check
 
       - run: bun run test
+
+      - name: Semantic Release
+        uses: cycjimmy/semantic-release-action@v6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
