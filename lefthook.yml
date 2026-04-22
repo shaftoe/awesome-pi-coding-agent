@@ -14,3 +14,5 @@ pre-push:
   commands:
     validate:
       run: bun run check
+    test:
+      run: bun test
