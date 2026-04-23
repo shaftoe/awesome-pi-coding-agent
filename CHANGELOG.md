@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.7] - 2026-04-23
+
+### Fixed
+
+- improve discovery logic
+
 ## [1.0.6] - 2026-04-23
 
 ### Fixed
@@ -67,6 +73,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove skills category
 - replace @types/bun with pinned bun-types to fix typecheck (#6)
 
+[1.0.7]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.0.6...v1.0.7
 [1.0.6]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.0.5...v1.0.6
 [1.0.5]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.0.4...v1.0.5
 [1.0.4]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.0.3...v1.0.4
