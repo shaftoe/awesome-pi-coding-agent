@@ -141,6 +141,7 @@ const BLOCKED_SCOPES = new Set([
 	"@mux", // Video analytics
 	"@vscode", // VS Code built-in
 	"@lexical", // Meta's editor
+	"@types", // DefinitelyTyped type definitions — never Pi coding agent packages
 ]);
 
 /** Exact package/repo names that are definitely unrelated. */

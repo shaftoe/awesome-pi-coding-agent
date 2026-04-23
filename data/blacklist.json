@@ -54950,5 +54950,9 @@
 	{
 		"url": "https://www.npmjs.com/package/opencode-lore",
 		"reason": "OpenCode memory plugin, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@types/pi-spi",
+		"reason": "DefinitelyTyped type definitions for pi-spi (Raspberry Pi SPI hardware), not Pi coding agent"
 	}
 ]
