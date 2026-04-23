@@ -128,6 +128,31 @@ export interface QueryDiscovererConfig {
 	handleError?: (status: number, body: unknown) => string | undefined;
 }
 
+// ─── Per-query statistics ──────────────────────────────────────────────────────
+
+/** Statistics for a single query within a discoverer run. */
+export interface QueryStats {
+	/** The query string. */
+	query: string;
+	/** Number of candidates returned by the API. */
+	fetched: number;
+	/** Number of candidates that passed the relevance filter. */
+	relevant: number;
+	/** Number of candidates that were new (not already in data). */
+	newEntries: number;
+	/** Whether this query hit an error. */
+	error?: string;
+}
+
+/** Statistics for a full discovery run across all discoverers. */
+export interface DiscoveryStats {
+	/** Per-discoverer, per-query statistics. */
+	byDiscoverer: Record<string, QueryStats[]>;
+}
+
+/** Global stats collector — populated during discover(), read by --stats mode. */
+export const discoveryStats: DiscoveryStats = { byDiscoverer: {} };
+
 export class QueryDiscoverer implements Discoverer {
 	readonly name: string;
 	readonly source: EntrySource;
@@ -150,10 +175,15 @@ export class QueryDiscoverer implements Discoverer {
 		}
 
 		const candidates: DiscoveryCandidate[] = [];
+		const queryStats: QueryStats[] = [];
 
 		for (const query of this.config.queries) {
+			const stats: QueryStats = { query, fetched: 0, relevant: 0, newEntries: 0 };
+
 			try {
 				const results = await this.config.fetchQuery(query);
+				stats.fetched = results.length;
+
 				for (const r of results) {
 					const candidate: DiscoveryCandidate = {
 						url: r.url,
@@ -170,14 +200,19 @@ export class QueryDiscoverer implements Discoverer {
 			} catch (err) {
 				const msg = err instanceof Error ? err.message : String(err);
 				warn(`${this.name}: query "${query}" failed: ${msg}`);
+				stats.error = msg;
 
 				// Fatal errors (403, 401, config issues) — stop remaining queries
 				if (msg.includes("[FATAL]")) {
+					queryStats.push(stats);
 					break;
 				}
 			}
+
+			queryStats.push(stats);
 		}
 
+		discoveryStats.byDiscoverer[this.name] = queryStats;
 		return candidates;
 	}
 }

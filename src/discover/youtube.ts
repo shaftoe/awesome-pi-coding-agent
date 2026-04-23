@@ -42,12 +42,14 @@ export const youtubeDiscoverer = new QueryDiscoverer({
 	name: "YouTube",
 	source: "youtube-search",
 	queries: [
-		"pi coding agent",
-		"pi agent tutorial",
-		"pi.dev",
-		"pi-mono",
-		"pi agent extension",
-		"pi agent setup",
+		// High-precision exact phrases
+		'"pi coding agent"',
+		'"pi-mono"',
+		'"pi.dev"',
+		// Broader with exclusions to eliminate false positives
+		'"pi agent" -crypto -network -banking -raspberry',
+		'"pi extension" -raspberry -vscode',
+		'"pi coding" tutorial',
 	],
 	init: async () => {
 		const apiKey = process.env["YOUTUBE_API_KEY"];

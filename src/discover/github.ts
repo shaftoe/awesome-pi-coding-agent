@@ -9,12 +9,17 @@ export const githubDiscoverer = new QueryDiscoverer({
 	name: "GitHub",
 	source: "github-search",
 	queries: [
+		// Text queries
 		"pi-coding-agent",
 		"pi-agent extension",
 		"pi-agent skill",
 		"pi-mono",
+		// Topic queries — discover repos that self-tag
 		"topic:pi-agent",
 		"topic:pi-coding-agent",
+		"topic:pi-extension",
+		"topic:pi-package",
+		"topic:pi-mono",
 	],
 	fetchQuery: async (query) => {
 		const repos = await searchRepos(query);

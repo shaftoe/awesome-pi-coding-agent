@@ -2,17 +2,19 @@
  * awesome-pi-coding-agent — Main CLI entry point.
  *
  * Usage:
- *   bun run src/index.ts discover      Run all discovery pipelines
- *   bun run src/index.ts enrich        Enrich all entries with metadata
- *   bun run src/index.ts generate      Regenerate README + site
- *   bun run src/index.ts pipeline      Run full pipeline (discover → enrich → generate)
+ *   bun run src/index.ts discover          Run all discovery pipelines
+ *   bun run src/index.ts discover --stats  Run discovery with per-query statistics
+ *   bun run src/index.ts enrich            Enrich all entries with metadata
+ *   bun run src/index.ts generate          Regenerate README + site
+ *   bun run src/index.ts pipeline          Run full pipeline (discover → enrich → generate)
  */
 import { writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { isEntryRelevant, isRelevant } from "./discover/filter.ts";
 import { githubDiscoverer } from "./discover/github.ts";
-import { type Discoverer, runDiscovery } from "./discover/index.ts";
+import { type Discoverer, discoveryStats, runDiscovery } from "./discover/index.ts";
 import { npmDiscoverer } from "./discover/npm.ts";
+import { piMonoDepsDiscoverer } from "./discover/pi-mono-deps.ts";
 import { youtubeDiscoverer } from "./discover/youtube.ts";
 import { classifyEntry } from "./enrich/classify.ts";
 import { runEnrichment } from "./enrich/index.ts";
@@ -37,15 +39,21 @@ const command = process.argv[2] ?? "help";
 // ─── Discoverers ───────────────────────────────────────────────────────────────
 
 /** All active discovery sources. npm is primary, GitHub is secondary (deduplicated against npm). */
-const allDiscoverers: Discoverer[] = [npmDiscoverer, githubDiscoverer, youtubeDiscoverer];
+const allDiscoverers: Discoverer[] = [
+	npmDiscoverer,
+	githubDiscoverer,
+	youtubeDiscoverer,
+	piMonoDepsDiscoverer,
+];
 
 // ─── Shared: save new candidates ───────────────────────────────────────────────
 
-function saveNewCandidates(candidates: DiscoveryCandidate[]): number {
+function saveNewCandidates(candidates: DiscoveryCandidate[], statsMode: boolean = false): number {
 	const blacklist = loadBlacklist();
 	const blacklisted = new Set(blacklist.map((b) => b.url));
 	let added = 0;
-	let _filtered = 0;
+	let filtered = 0;
+	let existing = 0;
 
 	for (const candidate of candidates) {
 		if (blacklisted.has(candidate.url)) continue;
@@ -53,23 +61,42 @@ function saveNewCandidates(candidates: DiscoveryCandidate[]): number {
 		// Relevance filter — skip candidates unrelated to the Pi coding agent
 		const relevance = isRelevant(candidate);
 		if (!relevance.relevant) {
-			_filtered++;
-			log(`  🚫 Filtered: ${candidate.url} (${relevance.reason})`);
+			filtered++;
+			// Update stats for this candidate's query
+			updateQueryStats(candidate, "filtered");
+			if (!statsMode) {
+				log(`  🚫 Filtered: ${candidate.url} (${relevance.reason})`);
+			}
 			continue;
 		}
 
+		// Update stats — passed relevance
+		updateQueryStats(candidate, "relevant");
+
 		// Dedup: check by primary URL
-		if (findEntryByUrl(candidate.url)) continue;
+		if (findEntryByUrl(candidate.url)) {
+			existing++;
+			continue;
+		}
 
 		// Dedup: check by explicit ID (npm package names)
 		const id = candidate.id ?? extractId(candidate.url);
-		if (candidate.id && findEntryById(candidate.id)) continue;
+		if (candidate.id && findEntryById(candidate.id)) {
+			existing++;
+			continue;
+		}
 
 		// Dedup: GitHub URLs found by GitHub discoverer may already exist
 		// as metadata.github_url in an npm-sourced entry
 		if (candidate.source === "github-search") {
-			if (findEntryByGitHubUrl(candidate.url)) continue;
+			if (findEntryByGitHubUrl(candidate.url)) {
+				existing++;
+				continue;
+			}
 		}
+
+		// Update stats — new entry
+		updateQueryStats(candidate, "new");
 
 		const entry: Entry = {
 			id,
@@ -78,7 +105,10 @@ function saveNewCandidates(candidates: DiscoveryCandidate[]): number {
 			url: candidate.url,
 			source: candidate.source,
 			description: (candidate.metadata?.["description"] as string) || "",
-			metadata: { ...(candidate.metadata ?? {}) },
+			metadata: {
+				...(candidate.metadata ?? {}),
+				discovery_hint: candidate.hint ?? null,
+			},
 			health: { score: 0, level: "stale" },
 		};
 
@@ -88,12 +118,41 @@ function saveNewCandidates(candidates: DiscoveryCandidate[]): number {
 		log(`  ✅ ${classified.category}/${classified.id} (${candidate.source})`);
 	}
 
+	if (statsMode) {
+		log(`  Filtered: ${filtered}, Already existing: ${existing}, New: ${added}`);
+	}
 	return added;
+}
+
+/**
+ * Update per-query statistics based on candidate processing outcome.
+ * Matches the candidate's hint back to the query stats collected by QueryDiscoverer.
+ */
+function updateQueryStats(
+	candidate: DiscoveryCandidate,
+	outcome: "filtered" | "relevant" | "new",
+): void {
+	const hint = candidate.hint;
+	if (!hint) return;
+
+	// Find the matching query stats entry
+	for (const queryStats of Object.values(discoveryStats.byDiscoverer)) {
+		for (const qs of queryStats) {
+			// Match hint pattern: "npm:query", "github:query", "youtube:query", "pi-mono-deps:query"
+			if (hint === `${qs.query}` || hint.endsWith(`:${qs.query}`)) {
+				if (outcome === "relevant") qs.relevant++;
+				if (outcome === "new") qs.newEntries++;
+				return;
+			}
+		}
+	}
 }
 
 // ─── Commands ──────────────────────────────────────────────────────────────────
 
 async function cmdDiscover(): Promise<void> {
+	const statsMode = process.argv.includes("--stats");
+
 	log("🔍 Running discovery pipelines...");
 	const { candidates, summary } = await runDiscovery(allDiscoverers);
 
@@ -102,8 +161,38 @@ async function cmdDiscover(): Promise<void> {
 		.join(", ");
 	log(`Found ${candidates.length} candidates (${summaryStr})`);
 
-	const added = saveNewCandidates(candidates);
+	const added = saveNewCandidates(candidates, statsMode);
 	log(`\nAdded ${added} new entries, filtered ${candidates.length - added} irrelevant`);
+
+	if (statsMode) {
+		log("\n📊 Per-query statistics:");
+		log("─".repeat(80));
+		for (const [discoverer, queryStats] of Object.entries(discoveryStats.byDiscoverer)) {
+			log(`\n  ${discoverer}:`);
+			log(
+				"  " +
+					"Query".padEnd(45) +
+					"Fetched".padStart(8) +
+					"Relevant".padStart(9) +
+					"New".padStart(6) +
+					"Prec%".padStart(7),
+			);
+			log(`  ${"─".repeat(74)}`);
+			for (const qs of queryStats) {
+				const precision = qs.fetched > 0 ? ((qs.relevant / qs.fetched) * 100).toFixed(1) : "N/A";
+				const errMarker = qs.error ? " ⚠️" : "";
+				log(
+					"  " +
+						qs.query.slice(0, 43).padEnd(45) +
+						String(qs.fetched).padStart(8) +
+						String(qs.relevant).padStart(9) +
+						String(qs.newEntries).padStart(6) +
+						String(precision).padStart(7) +
+						errMarker,
+				);
+			}
+		}
+	}
 }
 
 async function cmdEnrich(): Promise<void> {
@@ -200,7 +289,8 @@ Usage:
   bun run src/index.ts <command>
 
 Commands:
-  discover    Run all discovery pipelines (GitHub, npm, YouTube)
+  discover    Run all discovery pipelines (GitHub, npm, YouTube, pi-mono-deps)
+              Options: --stats  Show per-query effectiveness statistics
   enrich      Enrich all entries with metadata, video titles & health scores
   generate    Regenerate README.md from entry data
   prune       Remove entries that don't relate to the Pi coding agent
