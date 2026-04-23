@@ -116,6 +116,8 @@ const UNRELATED_ECOSYSTEMS = [
 	"@adobe/reactor-", // Adobe Launch
 	"@netlify/", // Netlify platform
 	"@tomtom-org/", // TomTom maps
+	"@diplodoc/", // Diplodoc documentation platform
+	"@agentcash/", // AgentCash ecosystem (x402 payment protocol)
 ];
 
 /** Package scopes/orgs that are never about Pi coding agent. */
@@ -142,10 +144,16 @@ const BLOCKED_SCOPES = new Set([
 	"@vscode", // VS Code built-in
 	"@lexical", // Meta's editor
 	"@types", // DefinitelyTyped type definitions — never Pi coding agent packages
+	"@diplodoc", // Diplodoc documentation platform
+	"@agentcash", // AgentCash x402 payment protocol ecosystem
 ]);
 
 /** Exact package/repo names that are definitely unrelated. */
 const BLOCKED_NAMES = new Set([
+	"openapi-format", // OpenAPI spec formatter
+	"docsalot-cli", // OpenAPI docs scaffold
+	"notionapi-agent", // Notion API client
+	"google-research-pisac", // TensorFlow RL research (PI-SAC agent)
 	"micromark",
 	"tempy",
 	"appdynamics",
@@ -165,6 +173,17 @@ const BLOCKED_NAMES = new Set([
 	"socks-proxy-agent", // SOCKS proxy
 	"i2c-bus", // Raspberry Pi I2C hardware
 ]);
+
+/** Text signals indicating OpenAPI specification tooling, not Pi coding agent. */
+const OPENAPI_SIGNALS = [
+	"openapi-format",
+	"openapi document",
+	"openapi-first",
+	"openapi specification",
+	"openapi3",
+	"swagger-ui",
+	"swagger spec",
+];
 
 /** Text signals that indicate a non-compatible fork (oh-my-pi ecosystem). */
 const FORK_SIGNALS = ["oh-my-pi"];
@@ -334,6 +353,13 @@ export function isRelevant(candidate: {
 	for (const signal of FORK_SIGNALS) {
 		if (combined.includes(signal) || url.includes(signal)) {
 			return { relevant: false, reason: `non-compatible fork signal: "${signal}"` };
+		}
+	}
+
+	// 1i. OpenAPI specification tooling detection
+	for (const signal of OPENAPI_SIGNALS) {
+		if (combined.includes(signal.toLowerCase()) || url.includes(signal.toLowerCase())) {
+			return { relevant: false, reason: `openapi specification tooling: "${signal}"` };
 		}
 	}
 

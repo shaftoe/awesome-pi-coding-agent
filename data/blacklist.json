@@ -54966,5 +54966,37 @@
 	{
 		"url": "https://github.com/shaftoe/test-pi-coding-agent-action",
 		"reason": "testing repo, not relevant"
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-red-node-pi-gpio",
+		"reason": "not pi, probably raspberrypi gpio"
+	},
+	{
+		"url": "https://www.npmjs.com/package/openapi-format",
+		"reason": "OpenAPI spec formatter, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/docsalot-cli",
+		"reason": "OpenAPI-first docs CLI scaffold, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agentcash/discovery",
+		"reason": "AgentCash x402 payment protocol ecosystem, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@diplodoc/openapi-extension",
+		"reason": "Diplodoc documentation platform OpenAPI extension, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/notionapi-agent",
+		"reason": "Unofficial Notion.so API client, not Pi coding agent"
+	},
+	{
+		"url": "https://github.com/google-research/pisac",
+		"reason": "TensorFlow RL research (PI-SAC agent), not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@xhilo/pi-sdk",
+		"reason": "Pi Network cryptocurrency SDK, not Pi coding agent"
 	}
 ]
