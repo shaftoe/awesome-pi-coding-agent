@@ -1,0 +1,35 @@
+{
+	"id": "@alexgorbatchev/pi-cmux-notify",
+	"name": "@alexgorbatchev/pi-cmux-notify",
+	"url": "https://www.npmjs.com/package/@alexgorbatchev/pi-cmux-notify",
+	"source": "npm-search",
+	"description": "pi package for cmux notifications",
+	"metadata": {
+		"github_url": "https://github.com/alexgorbatchev/pi-cmux-notify",
+		"npm_name": "@alexgorbatchev/pi-cmux-notify",
+		"description": "pi package for cmux notifications",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "cmux", "terminal", "notifications"],
+		"version": "1.0.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-08T16:48:17Z",
+		"topics": ["cmux", "pi-extension"],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 40,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

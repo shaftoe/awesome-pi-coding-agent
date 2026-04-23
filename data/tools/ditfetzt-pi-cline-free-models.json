@@ -1,0 +1,31 @@
+{
+	"id": "ditfetzt-pi-cline-free-models",
+	"name": "ditfetzt-pi-cline-free-models",
+	"url": "https://github.com/ditfetzt/pi-cline-free-models",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 4,
+		"forks": 1,
+		"language": "TypeScript",
+		"topics": ["cline", "extension", "pi", "pi-agent", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-02-18T09:48:06Z",
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 19,
+			"theme": 0,
+			"provider": 5
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

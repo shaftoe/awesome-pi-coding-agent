@@ -1,0 +1,35 @@
+{
+	"id": "@oh-my-pi/anthropic-websearch",
+	"name": "@oh-my-pi/anthropic-websearch",
+	"url": "https://www.npmjs.com/package/@oh-my-pi/anthropic-websearch",
+	"source": "npm-search",
+	"description": "Anthropic Claude web search tool for pi",
+	"metadata": {
+		"github_url": "https://github.com/can1357/oh-my-pi",
+		"npm_name": "@oh-my-pi/anthropic-websearch",
+		"description": "Anthropic Claude web search tool for pi",
+		"keywords": ["omp-plugin", "anthropic", "claude", "web-search"],
+		"version": "1.3.3710",
+		"stars": 3343,
+		"forks": 313,
+		"open_issues": 159,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-18T21:37:54Z",
+		"topics": ["ai-agent", "ai-coding-agent", "anthropic", "bun", "claude", "cli", "coding-assistant", "llm", "mcp", "multi-provider", "openai", "rust", "terminal", "tui", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 45,
+			"tool": 33,
+			"theme": 17,
+			"provider": 41
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,35 @@
+{
+	"id": "@ironin/pi-cascading-skills",
+	"name": "@ironin/pi-cascading-skills",
+	"url": "https://www.npmjs.com/package/@ironin/pi-cascading-skills",
+	"source": "npm-search",
+	"description": "Walks parent directories to collect skills from every .pi/ level, solving pi's array-replacement behavior for skills.",
+	"metadata": {
+		"github_url": "https://github.com/ironin/pi-cascading-skills",
+		"npm_name": "@ironin/pi-cascading-skills",
+		"description": "Walks parent directories to collect skills from every .pi/ level, solving pi's array-replacement behavior for skills.",
+		"keywords": ["pi", "pi-coding-agent", "pi-extension", "skills"],
+		"version": "1.0.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-08T18:23:01Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 8,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+	"id": "AnYuan-pi-swift",
+	"name": "AnYuan-pi-swift",
+	"url": "https://github.com/AnYuan/pi-swift",
+	"source": "github-search",
+	"description": "Swift reimplementation of the TypeScript-based pi-mono project, built with a strict parity-first migration strategy.",
+	"metadata": {
+		"description": "Swift reimplementation of the TypeScript-based pi-mono project, built with a strict parity-first migration strategy.",
+		"stars": 0,
+		"forks": 0,
+		"language": "Swift",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-03-01T07:57:47Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

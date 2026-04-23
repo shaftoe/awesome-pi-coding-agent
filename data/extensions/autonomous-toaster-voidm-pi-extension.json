@@ -1,0 +1,28 @@
+{
+	"id": "autonomous-toaster-voidm-pi-extension",
+	"name": "autonomous-toaster-voidm-pi-extension",
+	"url": "https://github.com/autonomous-toaster/voidm-pi-extension",
+	"source": "github-search",
+	"description": "pi-coding-agent extension for voidm — persistent memory for LLM agents",
+	"metadata": {
+		"description": "pi-coding-agent extension for voidm — persistent memory for LLM agents",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["agents", "llm", "memory", "pi-package", "voidm"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+	"id": "eanzhao-pi-sharp",
+	"name": "eanzhao-pi-sharp",
+	"url": "https://github.com/eanzhao/pi-sharp",
+	"source": "github-search",
+	"description": "C# reimplementation of pi-mono: AI agent toolkit — a learning project",
+	"metadata": {
+		"description": "C# reimplementation of pi-mono: AI agent toolkit — a learning project",
+		"stars": 0,
+		"forks": 0,
+		"language": "C#",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-17T05:08:44Z",
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 18,
+			"theme": 0,
+			"provider": 5
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

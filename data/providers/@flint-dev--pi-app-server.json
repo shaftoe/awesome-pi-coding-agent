@@ -1,0 +1,20 @@
+{
+	"id": "@flint-dev/pi-app-server",
+	"name": "@flint-dev/pi-app-server",
+	"url": "https://www.npmjs.com/package/@flint-dev/pi-app-server",
+	"source": "npm-search",
+	"description": "Provider-integrated app server variant",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@flint-dev/pi-app-server",
+		"description": "Provider-integrated app server variant",
+		"keywords": [],
+		"version": "0.2.3",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

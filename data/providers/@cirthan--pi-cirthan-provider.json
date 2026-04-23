@@ -1,0 +1,25 @@
+{
+	"id": "@cirthan/pi-cirthan-provider",
+	"name": "@cirthan/pi-cirthan-provider",
+	"url": "https://www.npmjs.com/package/@cirthan/pi-cirthan-provider",
+	"source": "npm-search",
+	"description": "Pi provider package for the Cirthan API.",
+	"metadata": {
+		"github_url": "https://github.com/cirthan/pi-cirthan-provider",
+		"npm_name": "@cirthan/pi-cirthan-provider",
+		"description": "Pi provider package for the Cirthan API.",
+		"keywords": ["pi", "pi-package", "extension"],
+		"version": "0.5.1",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

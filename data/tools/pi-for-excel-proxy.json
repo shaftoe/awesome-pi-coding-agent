@@ -1,0 +1,20 @@
+{
+	"id": "pi-for-excel-proxy",
+	"name": "pi-for-excel-proxy",
+	"url": "https://www.npmjs.com/package/pi-for-excel-proxy",
+	"source": "npm-search",
+	"description": "One-command local HTTPS proxy helper for Pi for Excel OAuth logins.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-for-excel-proxy",
+		"description": "One-command local HTTPS proxy helper for Pi for Excel OAuth logins.",
+		"keywords": [],
+		"version": "0.2.1-pre",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,35 @@
+{
+	"id": "pi-guard",
+	"name": "pi-guard",
+	"url": "https://www.npmjs.com/package/pi-guard",
+	"source": "npm-search",
+	"description": "General-purpose permission system for pi tools, handling permissions for bash and file tools with extensible matchers for custom tools.",
+	"metadata": {
+		"github_url": "https://github.com/jdiamond/pi-guard",
+		"npm_name": "pi-guard",
+		"description": "General-purpose permission system for pi tools, handling permissions for bash and file tools with extensible matchers for custom tools.",
+		"keywords": ["pi-package", "security", "permissions", "bash", "file", "guard"],
+		"version": "1.2.0",
+		"stars": 1,
+		"forks": 1,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-21T01:47:41Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

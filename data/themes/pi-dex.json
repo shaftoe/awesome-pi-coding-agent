@@ -1,0 +1,35 @@
+{
+	"id": "pi-dex",
+	"name": "pi-dex",
+	"url": "https://www.npmjs.com/package/pi-dex",
+	"source": "npm-search",
+	"description": "Pi, but with Codex's UI — or at least as far as I can go before forking it.",
+	"metadata": {
+		"github_url": "https://github.com/maria-rcks/pi-dex",
+		"npm_name": "pi-dex",
+		"description": "Pi, but with Codex's UI — or at least as far as I can go before forking it.",
+		"keywords": ["codex", "extension", "pi", "pi-agent", "pi-package", "pidex", "theme"],
+		"version": "0.1.2",
+		"stars": 13,
+		"forks": 2,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-07T16:10:20Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 3,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "theme"
+}

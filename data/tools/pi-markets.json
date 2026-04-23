@@ -1,0 +1,20 @@
+{
+	"id": "pi-markets",
+	"name": "pi-markets",
+	"url": "https://www.npmjs.com/package/pi-markets",
+	"source": "npm-search",
+	"description": "Package to work with PiMarkets",
+	"metadata": {
+		"github_url": "https://github.com/sigma-pi-delta/pi-markets-npm",
+		"npm_name": "pi-markets",
+		"description": "Package to work with PiMarkets",
+		"keywords": ["pimarkets"],
+		"version": "1.0.148",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

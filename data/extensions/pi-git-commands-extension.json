@@ -1,0 +1,25 @@
+{
+	"id": "pi-git-commands-extension",
+	"name": "pi-git-commands-extension",
+	"url": "https://www.npmjs.com/package/pi-git-commands-extension",
+	"source": "npm-search",
+	"description": "Shareable Pi package that adds /commit, /push, /commit-and-push, and /commit-pr git commands.",
+	"metadata": {
+		"github_url": "https://github.com/qualiti/pi-git-commands-extension",
+		"npm_name": "pi-git-commands-extension",
+		"description": "Shareable Pi package that adds /commit, /push, /commit-and-push, and /commit-pr git commands.",
+		"keywords": ["pi-package", "pi-extension", "pi", "git", "commit"],
+		"version": "0.1.3",
+		"_readme_category_scores": {
+			"extension": 15,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

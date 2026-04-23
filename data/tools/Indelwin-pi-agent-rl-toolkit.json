@@ -1,0 +1,31 @@
+{
+	"id": "Indelwin-pi-agent-rl-toolkit",
+	"name": "Indelwin-pi-agent-rl-toolkit",
+	"url": "https://github.com/Indelwin/pi-agent-rl-toolkit",
+	"source": "github-search",
+	"description": "Train AI coding agents with RL (GRPO) on Prime Intellect — works with Pi Agent",
+	"metadata": {
+		"description": "Train AI coding agents with RL (GRPO) on Prime Intellect — works with Pi Agent",
+		"stars": 18,
+		"forks": 1,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "Apache-2.0",
+		"last_commit": "2026-03-17T09:31:18Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 62,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

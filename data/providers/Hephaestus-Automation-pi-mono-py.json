@@ -1,0 +1,31 @@
+{
+	"id": "Hephaestus-Automation-pi-mono-py",
+	"name": "Hephaestus-Automation-pi-mono-py",
+	"url": "https://github.com/Hephaestus-Automation/pi-mono-py",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 0,
+		"forks": 0,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-02-24T13:37:41Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 9
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

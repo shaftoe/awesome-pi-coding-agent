@@ -1,0 +1,23 @@
+{
+	"id": "Kybernetria-pi-vsm",
+	"name": "Kybernetria-pi-vsm",
+	"url": "https://github.com/Kybernetria/pi-vsm",
+	"source": "github-search",
+	"description": "a pi-mono extension for organizing your workflows via the viable system model",
+	"metadata": {
+		"description": "a pi-mono extension for organizing your workflows via the viable system model",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

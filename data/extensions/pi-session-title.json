@@ -1,0 +1,25 @@
+{
+	"id": "pi-session-title",
+	"name": "pi-session-title",
+	"url": "https://www.npmjs.com/package/pi-session-title",
+	"source": "npm-search",
+	"description": "Session-title extension for pi-compatible runtimes, including oh-my-pi",
+	"metadata": {
+		"github_url": "https://github.com/djdembeck/pi-session-title",
+		"npm_name": "pi-session-title",
+		"description": "Session-title extension for pi-compatible runtimes, including oh-my-pi",
+		"keywords": ["pi-package", "pi-extension", "session-title", "title-generation", "ai"],
+		"version": "1.1.0",
+		"_readme_category_scores": {
+			"extension": 10,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

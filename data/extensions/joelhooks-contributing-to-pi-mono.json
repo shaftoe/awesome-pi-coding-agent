@@ -1,0 +1,28 @@
+{
+	"id": "joelhooks-contributing-to-pi-mono",
+	"name": "joelhooks-contributing-to-pi-mono",
+	"url": "https://github.com/joelhooks/contributing-to-pi-mono",
+	"source": "github-search",
+	"description": "Public pi extension and skill for contributing upstream to badlogic/pi-mono without wasting maintainer time",
+	"metadata": {
+		"description": "Public pi extension and skill for contributing upstream to badlogic/pi-mono without wasting maintainer time",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 13,
+			"tool": 0,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

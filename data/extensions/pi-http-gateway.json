@@ -1,0 +1,20 @@
+{
+	"id": "pi-http-gateway",
+	"name": "pi-http-gateway",
+	"url": "https://www.npmjs.com/package/pi-http-gateway",
+	"source": "npm-search",
+	"description": "HTTP gateway extension for pi — accept prompts from anywhere",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-http-gateway",
+		"description": "HTTP gateway extension for pi — accept prompts from anywhere",
+		"keywords": [],
+		"version": "0.1.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

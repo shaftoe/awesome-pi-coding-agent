@@ -1,0 +1,23 @@
+{
+	"id": "rwese-memory-recall",
+	"name": "rwese-memory-recall",
+	"url": "https://github.com/rwese/memory-recall",
+	"source": "github-search",
+	"description": "SQLite-backed vector memory extension for pi coding agent",
+	"metadata": {
+		"description": "SQLite-backed vector memory extension for pi coding agent",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

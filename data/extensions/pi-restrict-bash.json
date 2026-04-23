@@ -1,0 +1,25 @@
+{
+	"id": "pi-restrict-bash",
+	"name": "pi-restrict-bash",
+	"url": "https://www.npmjs.com/package/pi-restrict-bash",
+	"source": "npm-search",
+	"description": "Opinionated bash tool restrictions for Pi",
+	"metadata": {
+		"github_url": "https://github.com/kotarac/pi-restrict-bash",
+		"npm_name": "pi-restrict-bash",
+		"description": "Opinionated bash tool restrictions for Pi",
+		"keywords": ["pi-package"],
+		"version": "2.0.0",
+		"_readme_category_scores": {
+			"extension": 7,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

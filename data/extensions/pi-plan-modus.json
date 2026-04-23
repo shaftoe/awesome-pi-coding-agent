@@ -1,0 +1,35 @@
+{
+	"id": "pi-plan-modus",
+	"name": "pi-plan-modus",
+	"url": "https://www.npmjs.com/package/pi-plan-modus",
+	"source": "npm-search",
+	"description": "Read-only plan mode with RepoPrompt-aware write blocking; restricts tools, bash commands, and RepoPrompt operations (MCP + CLI) to read-only access",
+	"metadata": {
+		"github_url": "https://github.com/w-winter/dot314",
+		"npm_name": "pi-plan-modus",
+		"description": "Read-only plan mode with RepoPrompt-aware write blocking; restricts tools, bash commands, and RepoPrompt operations (MCP + CLI) to read-only access",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "plan-mode", "read-only", "repoprompt"],
+		"version": "0.2.3",
+		"stars": 90,
+		"forks": 10,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-22T13:07:48Z",
+		"topics": ["pi", "pi-agent", "pi-coding-agent", "pi-extension", "pi-package", "repoprompt"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 44,
+			"tool": 9,
+			"theme": 5,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 79,
+		"level": "active"
+	},
+	"category": "extension"
+}

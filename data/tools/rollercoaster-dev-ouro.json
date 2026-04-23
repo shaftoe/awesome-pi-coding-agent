@@ -1,0 +1,26 @@
+{
+	"id": "rollercoaster-dev-ouro",
+	"name": "rollercoaster-dev-ouro",
+	"url": "https://github.com/rollercoaster-dev/ouro",
+	"source": "github-search",
+	"description": "Self-improving AI development system. Context engine + PM + factory, built on Pi coding agent.",
+	"metadata": {
+		"description": "Self-improving AI development system. Context engine + PM + factory, built on Pi coding agent.",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-09T07:26:46Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

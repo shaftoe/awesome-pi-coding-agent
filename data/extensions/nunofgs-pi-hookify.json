@@ -1,0 +1,28 @@
+{
+	"id": "nunofgs-pi-hookify",
+	"name": "nunofgs-pi-hookify",
+	"url": "https://github.com/nunofgs/pi-hookify",
+	"source": "github-search",
+	"description": "Create hooks for the pi coding agent (pi.dev) with natural language",
+	"metadata": {
+		"description": "Create hooks for the pi coding agent (pi.dev) with natural language",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

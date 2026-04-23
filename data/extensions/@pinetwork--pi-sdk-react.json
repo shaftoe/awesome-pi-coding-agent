@@ -1,0 +1,25 @@
+{
+	"id": "@pinetwork/pi-sdk-react",
+	"name": "@pinetwork/pi-sdk-react",
+	"url": "https://www.npmjs.com/package/@pinetwork/pi-sdk-react",
+	"source": "npm-search",
+	"description": "A React component and hooks library for Pi SDK integration",
+	"metadata": {
+		"github_url": "https://github.com/pi-apps/pi-sdk-react",
+		"npm_name": "@pinetwork/pi-sdk-react",
+		"description": "A React component and hooks library for Pi SDK integration",
+		"keywords": ["pi", "pinetwork", "react", "sdk"],
+		"version": "2.0.0",
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 2,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

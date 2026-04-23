@@ -1,0 +1,35 @@
+{
+	"id": "@pi-ohm/tui",
+	"name": "@pi-ohm/tui",
+	"url": "https://www.npmjs.com/package/@pi-ohm/tui",
+	"source": "npm-search",
+	"description": "Reusable Pi TUI components for Pi OHM.",
+	"metadata": {
+		"github_url": "https://github.com/pi-ohm/pi-ohm",
+		"npm_name": "@pi-ohm/tui",
+		"description": "Reusable Pi TUI components for Pi OHM.",
+		"keywords": [],
+		"version": "0.6.4-dev.22169663637.1.642de3c",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 7,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-06T02:18:28Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 2,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+	"id": "sandalsoft-pi-fleet",
+	"name": "sandalsoft-pi-fleet",
+	"url": "https://github.com/sandalsoft/pi-fleet",
+	"source": "github-search",
+	"description": "Multi-agent terminal orchestration extension for pi coding agent",
+	"metadata": {
+		"description": "Multi-agent terminal orchestration extension for pi coding agent",
+		"stars": 0,
+		"forks": 1,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 15,
+			"tool": 7,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

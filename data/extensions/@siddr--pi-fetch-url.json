@@ -1,0 +1,25 @@
+{
+	"id": "@siddr/pi-fetch-url",
+	"name": "@siddr/pi-fetch-url",
+	"url": "https://www.npmjs.com/package/@siddr/pi-fetch-url",
+	"source": "npm-search",
+	"description": "Readable content fetch tool extension for pi",
+	"metadata": {
+		"github_url": "https://github.com/sids/pi-extensions",
+		"npm_name": "@siddr/pi-fetch-url",
+		"description": "Readable content fetch tool extension for pi",
+		"keywords": ["pi-package"],
+		"version": "0.1.4",
+		"_readme_category_scores": {
+			"extension": 8,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

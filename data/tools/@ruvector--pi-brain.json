@@ -1,0 +1,35 @@
+{
+	"id": "@ruvector/pi-brain",
+	"name": "@ruvector/pi-brain",
+	"url": "https://www.npmjs.com/package/@ruvector/pi-brain",
+	"source": "npm-search",
+	"description": "CLI and SDK for π — the RuVector shared brain. Share, search, and transfer learning across AI sessions.",
+	"metadata": {
+		"github_url": "https://github.com/ruvnet/ruvector",
+		"npm_name": "@ruvector/pi-brain",
+		"description": "CLI and SDK for π — the RuVector shared brain. Share, search, and transfer learning across AI sessions.",
+		"keywords": ["pi", "brain", "ruvector", "mcp", "shared-learning", "claude", "ai"],
+		"version": "0.1.1",
+		"stars": 3830,
+		"forks": 471,
+		"open_issues": 85,
+		"language": "Rust",
+		"license": "MIT",
+		"last_commit": "2026-04-23T07:56:46Z",
+		"topics": ["ai", "ai-ocr", "attention-mechanism", "gnn", "gnn-model", "gnns", "graph", "graph-neural-networks", "llm-inference", "low-latency", "mincut", "neo4j", "ocr", "onnx", "rust", "vector", "wasm"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://Cognitum.One",
+		"_readme_category_scores": {
+			"extension": 126,
+			"tool": 173,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

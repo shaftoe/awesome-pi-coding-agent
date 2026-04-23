@@ -1,0 +1,25 @@
+{
+	"id": "@minzicat/pi-team",
+	"name": "@minzicat/pi-team",
+	"url": "https://www.npmjs.com/package/@minzicat/pi-team",
+	"source": "npm-search",
+	"description": "Multi-agent debate/collaboration harness built on pi RPC mode. Spawn agents with different models in one conversation, observe via tmux, inject as a human.",
+	"metadata": {
+		"github_url": "https://github.com/minzique/pi-team",
+		"npm_name": "@minzicat/pi-team",
+		"description": "Multi-agent debate/collaboration harness built on pi RPC mode. Spawn agents with different models in one conversation, observe via tmux, inject as a human.",
+		"keywords": ["pi", "agent", "multi-agent", "debate", "llm", "tmux", "orchestration"],
+		"version": "0.1.0",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "pi-tools",
+	"name": "pi-tools",
+	"url": "https://www.npmjs.com/package/pi-tools",
+	"source": "npm-search",
+	"description": "Collection of bash scripts used for managing various libraries under the PI umbrella.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-tools",
+		"description": "Collection of bash scripts used for managing various libraries under the PI umbrella.",
+		"keywords": [],
+		"version": "1.1.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

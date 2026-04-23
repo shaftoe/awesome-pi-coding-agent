@@ -1,0 +1,26 @@
+{
+	"id": "maroffo-pi-coding-agent-go",
+	"name": "maroffo-pi-coding-agent-go",
+	"url": "https://github.com/maroffo/pi-coding-agent-go",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-02-25T08:45:42Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,28 @@
+{
+	"id": "shaftoe-pi-sandbox-core",
+	"name": "shaftoe-pi-sandbox-core",
+	"url": "https://github.com/shaftoe/pi-sandbox-core",
+	"source": "github-search",
+	"description": "A Pi coding agent shared orchestration library for building sandbox extensions",
+	"metadata": {
+		"description": "A Pi coding agent shared orchestration library for building sandbox extensions",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 8,
+			"tool": 47,
+			"theme": 0,
+			"provider": 40
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

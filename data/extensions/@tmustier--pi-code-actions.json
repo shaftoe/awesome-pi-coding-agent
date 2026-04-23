@@ -1,0 +1,35 @@
+{
+	"id": "@tmustier/pi-code-actions",
+	"name": "@tmustier/pi-code-actions",
+	"url": "https://www.npmjs.com/package/@tmustier/pi-code-actions",
+	"source": "npm-search",
+	"description": "Pick code blocks or inline snippets from recent assistant messages to copy or insert.",
+	"metadata": {
+		"github_url": "https://github.com/tmustier/pi-extensions",
+		"npm_name": "@tmustier/pi-code-actions",
+		"description": "Pick code blocks or inline snippets from recent assistant messages to copy or insert.",
+		"keywords": ["pi-package"],
+		"version": "0.1.4",
+		"stars": 227,
+		"forks": 13,
+		"open_issues": 5,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T07:48:21Z",
+		"topics": ["extension", "npm", "pi", "pi-coding-agent"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.mustier.ai/projects/pi-extensions",
+		"_readme_category_scores": {
+			"extension": 26,
+			"tool": 2,
+			"theme": 1,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "extension"
+}

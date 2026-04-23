@@ -1,0 +1,31 @@
+{
+	"id": "kaielvin-pi-agent-drip",
+	"name": "kaielvin-pi-agent-drip",
+	"url": "https://github.com/kaielvin/pi-agent-drip",
+	"source": "github-search",
+	"description": "Minimal delta streaming protocol for Pi coding agent sessions",
+	"metadata": {
+		"description": "Minimal delta streaming protocol for Pi coding agent sessions",
+		"stars": 0,
+		"forks": 0,
+		"language": "JavaScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-03-22T12:57:10Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 16,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

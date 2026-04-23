@@ -1,0 +1,23 @@
+{
+	"id": "YT_Fs_raupd3kc",
+	"name": "Context Bonsai Plugin development and more experimentation with the pi coding agent",
+	"url": "https://www.youtube.com/watch?v=Fs_raupd3kc",
+	"source": "youtube-search",
+	"description": "Over several streams, we've been working on migrating my Context Bonsai features from core OpenCode to an OpenCode plugin.",
+	"metadata": {
+		"title": "Context Bonsai Plugin development and more experimentation with the pi coding agent",
+		"description": "Over several streams, we've been working on migrating my Context Bonsai features from core OpenCode to an OpenCode plugin.",
+		"channel": "Vibecodelicious",
+		"published_at": "2026-02-26T09:22:18Z",
+		"thumbnail": "https://i.ytimg.com/vi/Fs_raupd3kc/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 13,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 65,
+		"level": "maintained"
+	},
+	"category": "video"
+}

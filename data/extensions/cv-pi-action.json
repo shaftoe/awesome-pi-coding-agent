@@ -1,0 +1,28 @@
+{
+	"id": "cv-pi-action",
+	"name": "cv-pi-action",
+	"url": "https://github.com/cv/pi-action",
+	"source": "github-search",
+	"description": "GitHub Action to invoke the PI coding agent on issues and PRs via comment triggers",
+	"metadata": {
+		"description": "GitHub Action to invoke the PI coding agent on issues and PRs via comment triggers",
+		"stars": 19,
+		"forks": 2,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 7,
+			"tool": 0,
+			"theme": 0,
+			"provider": 5
+		}
+	},
+	"health": {
+		"score": 52,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

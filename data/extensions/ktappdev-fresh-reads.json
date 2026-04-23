@@ -1,0 +1,28 @@
+{
+	"id": "ktappdev-fresh-reads",
+	"name": "ktappdev-fresh-reads",
+	"url": "https://github.com/ktappdev/fresh-reads",
+	"source": "github-search",
+	"description": "A Pi coding agent extension that prevents stale file edits by ensuring files are re-read before modification if they have changed since the last read operation.",
+	"metadata": {
+		"description": "A Pi coding agent extension that prevents stale file edits by ensuring files are re-read before modification if they have changed since the last read operation.",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 10,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

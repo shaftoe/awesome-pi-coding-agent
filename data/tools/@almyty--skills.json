@@ -1,0 +1,20 @@
+{
+	"id": "@almyty/skills",
+	"name": "@almyty/skills",
+	"url": "https://www.npmjs.com/package/@almyty/skills",
+	"source": "npm-search",
+	"description": "Install API skills into AI coding agents — Claude Code, Cursor, Windsurf, Copilot, Codex",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@almyty/skills",
+		"description": "Install API skills into AI coding agents — Claude Code, Cursor, Windsurf, Copilot, Codex",
+		"keywords": ["agent-skills", "skill-md", "ai-tools", "api-gateway", "claude", "cursor", "windsurf", "copilot", "codex", "almyty"],
+		"version": "1.0.7",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

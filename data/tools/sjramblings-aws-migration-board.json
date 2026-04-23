@@ -1,0 +1,26 @@
+{
+	"id": "sjramblings-aws-migration-board",
+	"name": "sjramblings-aws-migration-board",
+	"url": "https://github.com/sjramblings/aws-migration-board",
+	"source": "github-search",
+	"description": "AWS Migration Board — Multi-Agent Architecture Review System built on Pi Coding Agent",
+	"metadata": {
+		"description": "AWS Migration Board — Multi-Agent Architecture Review System built on Pi Coding Agent",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-20T13:02:26Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,35 @@
+{
+	"id": "pi-pai-lite",
+	"name": "pi-pai-lite",
+	"url": "https://www.npmjs.com/package/pi-pai-lite",
+	"source": "npm-search",
+	"description": "Structured thinking modes and lightweight persistent memory for pi",
+	"metadata": {
+		"github_url": "https://github.com/coctostan/pi-pai-lite",
+		"npm_name": "pi-pai-lite",
+		"description": "Structured thinking modes and lightweight persistent memory for pi",
+		"keywords": ["pi-package"],
+		"version": "1.0.0",
+		"stars": 2,
+		"forks": 4,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-02-09T13:48:35Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

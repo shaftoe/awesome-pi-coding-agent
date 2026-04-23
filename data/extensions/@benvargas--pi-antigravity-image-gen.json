@@ -1,0 +1,35 @@
+{
+	"id": "@benvargas/pi-antigravity-image-gen",
+	"name": "@benvargas/pi-antigravity-image-gen",
+	"url": "https://www.npmjs.com/package/@benvargas/pi-antigravity-image-gen",
+	"source": "npm-search",
+	"description": "Google Antigravity image generation tool for pi - Generate images via Gemini and Imagen models with inline terminal rendering",
+	"metadata": {
+		"github_url": "https://github.com/ben-vargas/pi-packages",
+		"npm_name": "@benvargas/pi-antigravity-image-gen",
+		"description": "Google Antigravity image generation tool for pi - Generate images via Gemini and Imagen models with inline terminal rendering",
+		"keywords": ["pi", "pi-package", "pi-extension", "pi-coding-agent", "ai", "image-generation", "antigravity", "gemini", "imagen", "google"],
+		"version": "1.1.1",
+		"stars": 57,
+		"forks": 4,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-14T05:48:05Z",
+		"topics": ["pi", "pi-extension", "pi-mono", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 9,
+			"tool": 0,
+			"theme": 2,
+			"provider": 5
+		}
+	},
+	"health": {
+		"score": 76,
+		"level": "active"
+	},
+	"category": "extension"
+}

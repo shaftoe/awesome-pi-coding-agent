@@ -1,0 +1,23 @@
+{
+	"id": "Kybernetria-pi-ip",
+	"name": "Kybernetria-pi-ip",
+	"url": "https://github.com/Kybernetria/pi-ip",
+	"source": "github-search",
+	"description": "a pi-mono extension for routing tailscale or vpn setups",
+	"metadata": {
+		"description": "a pi-mono extension for routing tailscale or vpn setups",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+	"id": "oscar-haha-omniroute-pi-extension",
+	"name": "oscar-haha-omniroute-pi-extension",
+	"url": "https://github.com/oscar-haha/omniroute-pi-extension",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 3,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["ai-gateway", "omniroute", "pi-coding-agent", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 8,
+			"theme": 0,
+			"provider": 15
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

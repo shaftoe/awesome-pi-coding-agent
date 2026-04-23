@@ -1,0 +1,28 @@
+{
+	"id": "plasmate-labs-pi-plasmate",
+	"name": "plasmate-labs-pi-plasmate",
+	"url": "https://github.com/plasmate-labs/pi-plasmate",
+	"source": "github-search",
+	"description": "Pi coding agent extension for web browsing via Plasmate SOM",
+	"metadata": {
+		"description": "Pi coding agent extension for web browsing via Plasmate SOM",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

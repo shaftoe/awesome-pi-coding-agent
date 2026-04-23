@@ -1,0 +1,28 @@
+{
+	"id": "annapurna-himal-pi-memory-search",
+	"name": "annapurna-himal-pi-memory-search",
+	"url": "https://github.com/annapurna-himal/pi-memory-search",
+	"source": "github-search",
+	"description": "Semantic memory search extension for Pi coding agent",
+	"metadata": {
+		"description": "Semantic memory search extension for Pi coding agent",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

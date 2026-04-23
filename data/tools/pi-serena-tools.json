@@ -1,0 +1,20 @@
+{
+	"id": "pi-serena-tools",
+	"name": "pi-serena-tools",
+	"url": "https://www.npmjs.com/package/pi-serena-tools",
+	"source": "npm-search",
+	"description": "Pi now gains IDE-like editing capabilities by bridging Serena’s semantic code tools into native Pi tools.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-serena-tools",
+		"description": "Pi now gains IDE-like editing capabilities by bridging Serena’s semantic code tools into native Pi tools.",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

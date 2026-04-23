@@ -1,0 +1,31 @@
+{
+	"id": "Brosi1975-pi-for-everyone",
+	"name": "Brosi1975-pi-for-everyone",
+	"url": "https://github.com/Brosi1975/pi-for-everyone",
+	"source": "github-search",
+	"description": "One-command installer for a free, local AI assistant on Mac. No subscription, no cloud, no data shared. Built for people with no technical background. Built with https://github.com/badlogic/pi-mono and [Ollama](https://ollama.com).",
+	"metadata": {
+		"description": "One-command installer for a free, local AI assistant on Mac. No subscription, no cloud, no data shared. Built for people with no technical background. Built with https://github.com/badlogic/pi-mono and [Ollama](https://ollama.com).",
+		"stars": 0,
+		"forks": 0,
+		"language": "Shell",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-09T09:55:02Z",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 3,
+			"theme": 1,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,28 @@
+{
+	"id": "mzfr-pi-discord",
+	"name": "mzfr-pi-discord",
+	"url": "https://github.com/mzfr/pi-discord",
+	"source": "github-search",
+	"description": "pi's extension to run and control your agent from discord",
+	"metadata": {
+		"description": "pi's extension to run and control your agent from discord",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["pi", "pi-mono"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 17,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

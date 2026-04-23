@@ -1,0 +1,35 @@
+{
+	"id": "@settinghead/pi-voxlert",
+	"name": "@settinghead/pi-voxlert",
+	"url": "https://www.npmjs.com/package/@settinghead/pi-voxlert",
+	"source": "npm-search",
+	"description": "SHODAN, the StarCraft Adjutant, and GLaDOS narrate your pi coding sessions. LLM-generated voice notifications spoken by game characters — know which agent needs you, by ear.",
+	"metadata": {
+		"github_url": "https://github.com/settinghead/voxlert",
+		"npm_name": "@settinghead/pi-voxlert",
+		"description": "SHODAN, the StarCraft Adjutant, and GLaDOS narrate your pi coding sessions. LLM-generated voice notifications spoken by game characters — know which agent needs you, by ear.",
+		"keywords": ["pi-package", "voxlert", "voice-notifications", "tts", "coding-agent", "notifications", "audio"],
+		"version": "0.2.0",
+		"stars": 7,
+		"forks": 1,
+		"open_issues": 4,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-10T06:16:11Z",
+		"topics": ["ai-agents", "audio-processing", "claude-code", "cli", "coding-assistant", "cursor", "cursor-ide", "developer-tools", "gaming-voices", "llm", "local-first", "nodejs", "notifications", "openai-codex", "pi-package", "starcraft", "text-to-speech", "tts", "voice-cloning", "voice-notifications"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/@settinghead/voiceforge",
+		"_readme_category_scores": {
+			"extension": 17,
+			"tool": 7,
+			"theme": 1,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+	"id": "tarsgate-awto-pi-lot",
+	"name": "tarsgate-awto-pi-lot",
+	"url": "https://github.com/tarsgate/awto-pi-lot",
+	"source": "github-search",
+	"description": "Extension for pi-coding-agent adding support for PPQ.ai provider & its AutoClaw meta-model ",
+	"metadata": {
+		"description": "Extension for pi-coding-agent adding support for PPQ.ai provider & its AutoClaw meta-model ",
+		"stars": 0,
+		"forks": 1,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 1,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

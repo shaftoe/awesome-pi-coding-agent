@@ -1,0 +1,25 @@
+{
+	"id": "@yevhen.b/pi-macos-theme-sync",
+	"name": "@yevhen.b/pi-macos-theme-sync",
+	"url": "https://www.npmjs.com/package/@yevhen.b/pi-macos-theme-sync",
+	"source": "npm-search",
+	"description": "Sync Pi's theme with macOS appearance changes.",
+	"metadata": {
+		"github_url": "https://github.com/yevhen/bo-pi",
+		"npm_name": "@yevhen.b/pi-macos-theme-sync",
+		"description": "Sync Pi's theme with macOS appearance changes.",
+		"keywords": ["pi-package", "pi-extension", "macos-theme", "theme-sync"],
+		"version": "0.0.9",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 0,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "theme"
+}

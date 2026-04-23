@@ -1,0 +1,35 @@
+{
+	"id": "@pictify/agent-skill",
+	"name": "@pictify/agent-skill",
+	"url": "https://www.npmjs.com/package/@pictify/agent-skill",
+	"source": "npm-search",
+	"description": "Agent skills for Pictify — generate images from HTML/CSS with AI agents. OG images, social cards, banners, screenshots, certificates, and more.",
+	"metadata": {
+		"github_url": "https://github.com/pictify-io/skills",
+		"npm_name": "@pictify/agent-skill",
+		"description": "Agent skills for Pictify — generate images from HTML/CSS with AI agents. OG images, social cards, banners, screenshots, certificates, and more.",
+		"keywords": ["pictify", "claude-code", "cursor", "windsurf", "agent-skill", "ai-agent", "html-to-image", "image-generation", "og-image", "social-card", "banner", "screenshot", "skills"],
+		"version": "1.0.3",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2026-04-01T02:03:35Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

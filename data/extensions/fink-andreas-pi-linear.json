@@ -1,0 +1,23 @@
+{
+	"id": "fink-andreas-pi-linear",
+	"name": "fink-andreas-pi-linear",
+	"url": "https://github.com/fink-andreas/pi-linear",
+	"source": "github-search",
+	"description": "Extension for pi coding agent to provide access to Linear projects and issues.",
+	"metadata": {
+		"description": "Extension for pi coding agent to provide access to Linear projects and issues.",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

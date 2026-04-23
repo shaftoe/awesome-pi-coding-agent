@@ -1,0 +1,28 @@
+{
+	"id": "pi0-pi-vscode",
+	"name": "pi0-pi-vscode",
+	"url": "https://github.com/pi0/pi-vscode",
+	"source": "github-search",
+	"description": "Minimal VS Code extension for PI Coding Agent.",
+	"metadata": {
+		"description": "Minimal VS Code extension for PI Coding Agent.",
+		"stars": 58,
+		"forks": 9,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 9,
+			"tool": 2,
+			"theme": 2,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 56,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

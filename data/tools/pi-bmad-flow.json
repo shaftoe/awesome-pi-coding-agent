@@ -1,0 +1,20 @@
+{
+	"id": "pi-bmad-flow",
+	"name": "pi-bmad-flow",
+	"url": "https://www.npmjs.com/package/pi-bmad-flow",
+	"source": "npm-search",
+	"description": "Pi-native orchestration overlay for BMAD workflows",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-bmad-flow",
+		"description": "Pi-native orchestration overlay for BMAD workflows",
+		"keywords": ["pi-package", "bmad", "workflow", "orchestration"],
+		"version": "0.1.6",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

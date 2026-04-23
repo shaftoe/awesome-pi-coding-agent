@@ -1,0 +1,25 @@
+{
+	"id": "@joemccann/pi-canvas-design",
+	"name": "@joemccann/pi-canvas-design",
+	"url": "https://www.npmjs.com/package/@joemccann/pi-canvas-design",
+	"source": "npm-search",
+	"description": "Create museum-quality visual art and design philosophies expressed as .png and .pdf canvases using pi",
+	"metadata": {
+		"github_url": "https://github.com/joemccann/pi-canvas-design",
+		"npm_name": "@joemccann/pi-canvas-design",
+		"description": "Create museum-quality visual art and design philosophies expressed as .png and .pdf canvases using pi",
+		"keywords": ["pi-package", "pi-skill", "design", "canvas", "art", "visual-design", "pdf", "png", "typography", "poster"],
+		"version": "1.0.0",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

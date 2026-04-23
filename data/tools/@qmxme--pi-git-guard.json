@@ -1,0 +1,35 @@
+{
+	"id": "@qmxme/pi-git-guard",
+	"name": "@qmxme/pi-git-guard",
+	"url": "https://www.npmjs.com/package/@qmxme/pi-git-guard",
+	"source": "npm-search",
+	"description": "Blocks destructive git operations (push, tag -d, reset --hard) in pi",
+	"metadata": {
+		"github_url": "https://github.com/qmx/pi-git-guard",
+		"npm_name": "@qmxme/pi-git-guard",
+		"description": "Blocks destructive git operations (push, tag -d, reset --hard) in pi",
+		"keywords": ["pi", "pi-package", "extension", "git", "security"],
+		"version": "0.1.5",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-16T03:10:14Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

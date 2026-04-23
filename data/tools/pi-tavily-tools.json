@@ -1,0 +1,20 @@
+{
+	"id": "pi-tavily-tools",
+	"name": "pi-tavily-tools",
+	"url": "https://www.npmjs.com/package/pi-tavily-tools",
+	"source": "npm-search",
+	"description": "Tavily tools and status panel for pi",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-tavily-tools",
+		"description": "Tavily tools and status panel for pi",
+		"keywords": ["pi-package", "pi", "tavily", "search", "agent"],
+		"version": "0.1.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

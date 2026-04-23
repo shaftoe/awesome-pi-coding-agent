@@ -1,0 +1,25 @@
+{
+	"id": "pi-system-theme",
+	"name": "pi-system-theme",
+	"url": "https://www.npmjs.com/package/pi-system-theme",
+	"source": "npm-search",
+	"description": "Sync Pi theme with macOS light/dark appearance",
+	"metadata": {
+		"github_url": "https://github.com/ferologics/pi-system-theme",
+		"npm_name": "pi-system-theme",
+		"description": "Sync Pi theme with macOS light/dark appearance",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "theme", "macos"],
+		"version": "0.4.0",
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 0,
+			"theme": 29,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "theme"
+}

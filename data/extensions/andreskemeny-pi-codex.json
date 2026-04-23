@@ -1,0 +1,28 @@
+{
+	"id": "andreskemeny-pi-codex",
+	"name": "andreskemeny-pi-codex",
+	"url": "https://github.com/andreskemeny/pi-codex",
+	"source": "github-search",
+	"description": "Codex-style extension pack for Pi coding agent.",
+	"metadata": {
+		"description": "Codex-style extension pack for Pi coding agent.",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 9,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

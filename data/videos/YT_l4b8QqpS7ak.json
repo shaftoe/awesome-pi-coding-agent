@@ -1,0 +1,23 @@
+{
+	"id": "YT_l4b8QqpS7ak",
+	"name": "pi-dev-team-v3",
+	"url": "https://www.youtube.com/watch?v=l4b8QqpS7ak",
+	"source": "youtube-search",
+	"description": "",
+	"metadata": {
+		"title": "pi-dev-team-v3",
+		"description": "",
+		"channel": "תמיר נקר",
+		"published_at": "2025-01-17T16:19:23Z",
+		"thumbnail": "https://i.ytimg.com/vi/l4b8QqpS7ak/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 3,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

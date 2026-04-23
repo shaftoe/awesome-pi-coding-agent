@@ -1,0 +1,28 @@
+{
+	"id": "assagman-pi-extensions",
+	"name": "assagman-pi-extensions",
+	"url": "https://github.com/assagman/pi-extensions",
+	"source": "github-search",
+	"description": "Collection of pi-coding-agent extensions",
+	"metadata": {
+		"description": "Collection of pi-coding-agent extensions",
+		"stars": 7,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 24,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 51,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

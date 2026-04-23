@@ -1,0 +1,25 @@
+{
+	"id": "pi-scheduler",
+	"name": "pi-scheduler",
+	"url": "https://www.npmjs.com/package/pi-scheduler",
+	"source": "npm-search",
+	"description": "Simple scheduled loop/reminder extension for pi",
+	"metadata": {
+		"github_url": "https://github.com/manojlds/pi-scheduler",
+		"npm_name": "pi-scheduler",
+		"description": "Simple scheduled loop/reminder extension for pi",
+		"keywords": ["pi-package", "pi-extension", "scheduler", "loop", "cron"],
+		"version": "0.3.2",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,23 @@
+{
+	"id": "jeryjs-pi-unify-provider",
+	"name": "jeryjs-pi-unify-provider",
+	"url": "https://github.com/jeryjs/pi-unify-provider",
+	"source": "github-search",
+	"description": "[WIP] Powerful Multi-provider LLM management for Pi with automatic model discovery",
+	"metadata": {
+		"description": "[WIP] Powerful Multi-provider LLM management for Pi with automatic model discovery",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["ai-models", "ai-provider", "anthropic", "cli", "llm", "pi-coding-agent", "pi-extension", "pi-package", "poe", "togetherai", "unify"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,28 @@
+{
+	"id": "kexul-pi-vscode-lite",
+	"name": "kexul-pi-vscode-lite",
+	"url": "https://github.com/kexul/pi-vscode-lite",
+	"source": "github-search",
+	"description": "Lightweight VS Code extension bridge for pi coding agent",
+	"metadata": {
+		"description": "Lightweight VS Code extension bridge for pi coding agent",
+		"stars": 0,
+		"forks": 0,
+		"language": "JavaScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 8,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

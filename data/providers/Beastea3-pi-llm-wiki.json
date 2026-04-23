@@ -1,0 +1,31 @@
+{
+	"id": "Beastea3-pi-llm-wiki",
+	"name": "Beastea3-pi-llm-wiki",
+	"url": "https://github.com/Beastea3/pi-llm-wiki",
+	"source": "github-search",
+	"description": "Inspired by Karpathy's LLM Wiki; Based on pi-mono agent framework; Happy Hacking!",
+	"metadata": {
+		"description": "Inspired by Karpathy's LLM Wiki; Based on pi-mono agent framework; Happy Hacking!",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-07T02:41:30Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 5,
+			"theme": 2,
+			"provider": 13
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

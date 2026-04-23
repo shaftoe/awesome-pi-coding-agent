@@ -1,0 +1,31 @@
+{
+	"id": "ajjucoder-ohmypi",
+	"name": "ajjucoder-ohmypi",
+	"url": "https://github.com/ajjucoder/ohmypi",
+	"source": "github-search",
+	"description": "A safe orchestration layer for pi: GPT-5.4 orchestrator, GPT-5.4 mini scout, and Claude Opus 4.6 frontend specialist without touching pi core.",
+	"metadata": {
+		"description": "A safe orchestration layer for pi: GPT-5.4 orchestrator, GPT-5.4 mini scout, and Claude Opus 4.6 frontend specialist without touching pi core.",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["ai", "claude", "coding-agent", "developer-tools", "frontend", "gpt", "orchestration", "pi", "pi-coding-agent", "shadcn"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-07T17:04:30Z",
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

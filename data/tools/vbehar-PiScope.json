@@ -1,0 +1,31 @@
+{
+	"id": "vbehar-PiScope",
+	"name": "vbehar-PiScope",
+	"url": "https://github.com/vbehar/PiScope",
+	"source": "github-search",
+	"description": "A lightweight macOS menu bar app to monitor your [pi coding agent](https://pi.dev) sessions",
+	"metadata": {
+		"description": "A lightweight macOS menu bar app to monitor your [pi coding agent](https://pi.dev) sessions",
+		"stars": 5,
+		"forks": 1,
+		"language": "Swift",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-14T20:16:36Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

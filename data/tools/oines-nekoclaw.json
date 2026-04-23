@@ -1,0 +1,31 @@
+{
+	"id": "oines-nekoclaw",
+	"name": "oines-nekoclaw",
+	"url": "https://github.com/oines/nekoclaw",
+	"source": "github-search",
+	"description": "Multi-agent chat runtime for Telegram and QQ/NapCat, built on pi-coding-agent with Docker-isolated agent workspaces.",
+	"metadata": {
+		"description": "Multi-agent chat runtime for Telegram and QQ/NapCat, built on pi-coding-agent with Docker-isolated agent workspaces.",
+		"stars": 4,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["agents", "ai", "chatbot", "docker", "llm", "multi-agent", "napcat", "onebot", "qq-bot", "telegram-bot"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-05T10:12:21Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

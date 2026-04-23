@@ -1,0 +1,20 @@
+{
+	"id": "@0xkobold/pi-task",
+	"name": "@0xkobold/pi-task",
+	"url": "https://www.npmjs.com/package/@0xkobold/pi-task",
+	"source": "npm-search",
+	"description": "Kanban-style task management for pi agents — backlog, in-progress, review, blocked, done with SQLite persistence",
+	"metadata": {
+		"github_url": "https://github.com/0xKobold/pi-task",
+		"npm_name": "@0xkobold/pi-task",
+		"description": "Kanban-style task management for pi agents — backlog, in-progress, review, blocked, done with SQLite persistence",
+		"keywords": ["pi-package", "pi-extension", "task", "kanban", "project-management"],
+		"version": "0.2.2",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

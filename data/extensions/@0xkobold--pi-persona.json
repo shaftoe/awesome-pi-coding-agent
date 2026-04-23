@@ -1,0 +1,25 @@
+{
+	"id": "@0xkobold/pi-persona",
+	"name": "@0xkobold/pi-persona",
+	"url": "https://www.npmjs.com/package/@0xkobold/pi-persona",
+	"source": "npm-search",
+	"description": "Persona extension for pi agents — SOUL.md, IDENTITY.md, USER.md loading, scaffolding, and system prompt injection. Inspired by OpenClaw.",
+	"metadata": {
+		"github_url": "https://github.com/0xKobold/pi-persona",
+		"npm_name": "@0xkobold/pi-persona",
+		"description": "Persona extension for pi agents — SOUL.md, IDENTITY.md, USER.md loading, scaffolding, and system prompt injection. Inspired by OpenClaw.",
+		"keywords": ["pi-package", "pi-extension", "persona", "soul", "identity", "agent"],
+		"version": "0.1.0",
+		"_readme_category_scores": {
+			"extension": 7,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

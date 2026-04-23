@@ -1,0 +1,31 @@
+{
+	"id": "korya-nu-duo",
+	"name": "korya-nu-duo",
+	"url": "https://github.com/korya/nu-duo",
+	"source": "github-search",
+	"description": "A Python port of https://github.com/badlogic/pi-mono",
+	"metadata": {
+		"description": "A Python port of https://github.com/badlogic/pi-mono",
+		"stars": 0,
+		"forks": 0,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-16T03:30:04Z",
+		"_readme_category_scores": {
+			"extension": 28,
+			"tool": 12,
+			"theme": 1,
+			"provider": 12
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

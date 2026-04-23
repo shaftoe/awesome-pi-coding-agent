@@ -1,0 +1,25 @@
+{
+	"id": "pi-mem",
+	"name": "pi-mem",
+	"url": "https://www.npmjs.com/package/pi-mem",
+	"source": "npm-search",
+	"description": "Persistent memory extension for pi — captures observations, compresses them into searchable memories, and injects context into future sessions",
+	"metadata": {
+		"github_url": "https://github.com/georgebashi/pi-mem",
+		"npm_name": "pi-mem",
+		"description": "Persistent memory extension for pi — captures observations, compresses them into searchable memories, and injects context into future sessions",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 0,
+			"theme": 0,
+			"provider": 8
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

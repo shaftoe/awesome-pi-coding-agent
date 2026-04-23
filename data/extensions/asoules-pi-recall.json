@@ -1,0 +1,31 @@
+{
+	"id": "asoules-pi-recall",
+	"name": "asoules-pi-recall",
+	"url": "https://github.com/asoules/pi-recall",
+	"source": "github-search",
+	"description": "Long-term memory for the pi coding agent. Deja vu on  read.",
+	"metadata": {
+		"description": "Long-term memory for the pi coding agent. Deja vu on  read.",
+		"stars": 2,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 1,
+		"license": null,
+		"last_commit": "2026-02-03T13:13:24Z",
+		"_readme_category_scores": {
+			"extension": 7,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

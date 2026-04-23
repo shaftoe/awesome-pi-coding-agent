@@ -1,0 +1,28 @@
+{
+	"id": "sinamtz-pi-mlx-provider",
+	"name": "sinamtz-pi-mlx-provider",
+	"url": "https://github.com/sinamtz/pi-mlx-provider",
+	"source": "github-search",
+	"description": "Pi coding agent extension for local AI inference via Apple MLX on Apple Silicon",
+	"metadata": {
+		"description": "Pi coding agent extension for local AI inference via Apple MLX on Apple Silicon",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 8,
+			"tool": 0,
+			"theme": 0,
+			"provider": 15
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

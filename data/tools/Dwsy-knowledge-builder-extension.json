@@ -1,0 +1,28 @@
+{
+	"id": "Dwsy-knowledge-builder-extension",
+	"name": "Dwsy-knowledge-builder-extension",
+	"url": "https://github.com/Dwsy/knowledge-builder-extension",
+	"source": "github-search",
+	"description": "Autonomous knowledge base generation using natural language and Ralph Loop technique for Pi Agent",
+	"metadata": {
+		"description": "Autonomous knowledge base generation using natural language and Ralph Loop technique for Pi Agent",
+		"stars": 0,
+		"forks": 0,
+		"language": "Shell",
+		"topics": ["autonomous-ai", "documentation", "knowledge-management", "natural-language", "pi-agent", "ralph-loop"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 19,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,35 @@
+{
+	"id": "pi-whisper",
+	"name": "pi-whisper",
+	"url": "https://www.npmjs.com/package/pi-whisper",
+	"source": "npm-search",
+	"description": "Ephemeral whisper mode — send messages that don't persist in the agent's context",
+	"metadata": {
+		"github_url": "https://github.com/leohenon/pi-whisper",
+		"npm_name": "pi-whisper",
+		"description": "Ephemeral whisper mode — send messages that don't persist in the agent's context",
+		"keywords": [],
+		"version": "0.1.2",
+		"stars": 4,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-22T10:47:39Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+	"id": "Jerryguan777-ppi",
+	"name": "Jerryguan777-ppi",
+	"url": "https://github.com/Jerryguan777/ppi",
+	"source": "github-search",
+	"description": "Python rewrite of pi-mono AI agent system",
+	"metadata": {
+		"description": "Python rewrite of pi-mono AI agent system",
+		"stars": 0,
+		"forks": 0,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 24,
+		"license": "MIT",
+		"last_commit": "2026-04-06T20:19:00Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

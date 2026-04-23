@@ -1,0 +1,35 @@
+{
+	"id": "pi-superpowers",
+	"name": "pi-superpowers",
+	"url": "https://www.npmjs.com/package/pi-superpowers",
+	"source": "npm-search",
+	"description": "Superpowers workflow skills adapted for pi",
+	"metadata": {
+		"github_url": "https://github.com/coctostan/pi-superpowers",
+		"npm_name": "pi-superpowers",
+		"description": "Superpowers workflow skills adapted for pi",
+		"keywords": ["pi-package"],
+		"version": "0.2.0",
+		"stars": 27,
+		"forks": 2,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-05T17:43:33Z",
+		"topics": ["ai-skills", "pi", "pi-extension", "skills", "superpowers"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 10,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 63,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+	"id": "pi-airgun",
+	"name": "pi-airgun",
+	"url": "https://www.npmjs.com/package/pi-airgun",
+	"source": "npm-search",
+	"description": "Pi extensions for LLM context compression and Anthropic prompt caching. Zero LLM inference cost.",
+	"metadata": {
+		"github_url": "https://github.com/blai/pi-airgun",
+		"npm_name": "pi-airgun",
+		"description": "Pi extensions for LLM context compression and Anthropic prompt caching. Zero LLM inference cost.",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 0,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

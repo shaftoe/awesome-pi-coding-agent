@@ -1,0 +1,28 @@
+{
+	"id": "bernardjbs-pi-agent-toolkit",
+	"name": "bernardjbs-pi-agent-toolkit",
+	"url": "https://github.com/bernardjbs/pi-agent-toolkit",
+	"source": "github-search",
+	"description": "Curated Pi coding agent extensions and workflow tools",
+	"metadata": {
+		"description": "Curated Pi coding agent extensions and workflow tools",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 31,
+			"tool": 2,
+			"theme": 3,
+			"provider": 5
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

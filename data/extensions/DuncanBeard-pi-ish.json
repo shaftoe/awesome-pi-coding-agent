@@ -1,0 +1,31 @@
+{
+	"id": "DuncanBeard-pi-ish",
+	"name": "DuncanBeard-pi-ish",
+	"url": "https://github.com/DuncanBeard/pi-ish",
+	"source": "github-search",
+	"description": "pi coding agent for iSH (Node 16 compatible)",
+	"metadata": {
+		"description": "pi coding agent for iSH (Node 16 compatible)",
+		"stars": 1,
+		"forks": 1,
+		"language": "JavaScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 1,
+		"license": null,
+		"last_commit": "2026-04-11T15:59:39Z",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 1,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

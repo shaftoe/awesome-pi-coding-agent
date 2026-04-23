@@ -1,0 +1,28 @@
+{
+	"id": "bastio-ai-pi-extension",
+	"name": "bastio-ai-pi-extension",
+	"url": "https://github.com/bastio-ai/pi-extension",
+	"source": "github-search",
+	"description": "Bastio AI Security Gateway extension for the Pi coding agent",
+	"metadata": {
+		"description": "Bastio AI Security Gateway extension for the Pi coding agent",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 10,
+			"tool": 3,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

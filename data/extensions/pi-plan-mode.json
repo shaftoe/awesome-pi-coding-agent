@@ -1,0 +1,25 @@
+{
+	"id": "pi-plan-mode",
+	"name": "pi-plan-mode",
+	"url": "https://www.npmjs.com/package/pi-plan-mode",
+	"source": "npm-search",
+	"description": "Plan mode extension for pi - read-only exploration with plan file editing",
+	"metadata": {
+		"github_url": "https://github.com/qmx/pi-plan-mode",
+		"npm_name": "pi-plan-mode",
+		"description": "Plan mode extension for pi - read-only exploration with plan file editing",
+		"keywords": ["pi", "pi-package", "extension", "plan-mode"],
+		"version": "0.4.8",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

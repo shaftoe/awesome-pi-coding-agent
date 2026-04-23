@@ -1,0 +1,23 @@
+{
+	"id": "epr3-pi-extensions",
+	"name": "epr3-pi-extensions",
+	"url": "https://github.com/epr3/pi-extensions",
+	"source": "github-search",
+	"description": "Monorepo for Pi coding agent extensions with shared modules and tsdown builds.",
+	"metadata": {
+		"description": "Monorepo for Pi coding agent extensions with shared modules and tsdown builds.",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

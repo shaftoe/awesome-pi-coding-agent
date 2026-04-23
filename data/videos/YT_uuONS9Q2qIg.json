@@ -1,0 +1,23 @@
+{
+	"id": "YT_uuONS9Q2qIg",
+	"name": "CONNECT to PI Agent Release",
+	"url": "https://www.youtube.com/watch?v=uuONS9Q2qIg",
+	"source": "youtube-search",
+	"description": "AVEVA is pleased to announce the release of the new CONNECT to PI Agent, which allows stream data within your CONNECT ...",
+	"metadata": {
+		"title": "CONNECT to PI Agent Release",
+		"description": "AVEVA is pleased to announce the release of the new CONNECT to PI Agent, which allows stream data within your CONNECT ...",
+		"channel": "AVEVA PI System Learning",
+		"published_at": "2024-08-26T22:24:35Z",
+		"thumbnail": "https://i.ytimg.com/vi/uuONS9Q2qIg/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 1808,
+		"like_count": 14,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 34,
+		"level": "stale"
+	},
+	"category": "video"
+}

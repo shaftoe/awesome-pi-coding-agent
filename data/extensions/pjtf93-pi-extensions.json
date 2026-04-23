@@ -1,0 +1,28 @@
+{
+	"id": "pjtf93-pi-extensions",
+	"name": "pjtf93-pi-extensions",
+	"url": "https://github.com/pjtf93/pi-extensions",
+	"source": "github-search",
+	"description": "Custom extensions for pi coding agent",
+	"metadata": {
+		"description": "Custom extensions for pi coding agent",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 33,
+			"tool": 5,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

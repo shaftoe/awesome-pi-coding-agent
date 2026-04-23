@@ -1,0 +1,35 @@
+{
+	"id": "@styrene-lab/pi-agent-core",
+	"name": "@styrene-lab/pi-agent-core",
+	"url": "https://www.npmjs.com/package/@styrene-lab/pi-agent-core",
+	"source": "npm-search",
+	"description": "General-purpose agent with transport abstraction, state management, and attachment support",
+	"metadata": {
+		"github_url": "https://github.com/styrene-lab/omegon",
+		"npm_name": "@styrene-lab/pi-agent-core",
+		"description": "General-purpose agent with transport abstraction, state management, and attachment support",
+		"keywords": ["ai", "agent", "llm", "transport", "state-management"],
+		"version": "0.58.1",
+		"stars": 41,
+		"forks": 9,
+		"open_issues": 6,
+		"language": "Rust",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-23T09:11:22Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 2,
+			"provider": 7
+		}
+	},
+	"health": {
+		"score": 74,
+		"level": "active"
+	},
+	"category": "provider"
+}

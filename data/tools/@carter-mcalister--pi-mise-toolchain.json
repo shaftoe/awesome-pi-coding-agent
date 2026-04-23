@@ -1,0 +1,25 @@
+{
+	"id": "@carter-mcalister/pi-mise-toolchain",
+	"name": "@carter-mcalister/pi-mise-toolchain",
+	"url": "https://www.npmjs.com/package/@carter-mcalister/pi-mise-toolchain",
+	"source": "npm-search",
+	"description": "Mise-driven toolchain enforcement for Pi",
+	"metadata": {
+		"github_url": "https://github.com/CarterMcAlister/pi-packages",
+		"npm_name": "@carter-mcalister/pi-mise-toolchain",
+		"description": "Mise-driven toolchain enforcement for Pi",
+		"keywords": ["pi-package", "pi-extension", "pi", "toolchain", "mise", "bun"],
+		"version": "0.6.2",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

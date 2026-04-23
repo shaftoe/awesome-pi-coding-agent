@@ -1,0 +1,20 @@
+{
+	"id": "@ineersa/my-pi-scheduler",
+	"name": "@ineersa/my-pi-scheduler",
+	"url": "https://www.npmjs.com/package/@ineersa/my-pi-scheduler",
+	"source": "npm-search",
+	"description": "Scheduler extension for pi: recurring checks, one-time reminders, and the LLM-callable schedule_prompt tool.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@ineersa/my-pi-scheduler",
+		"description": "Scheduler extension for pi: recurring checks, one-time reminders, and the LLM-callable schedule_prompt tool.",
+		"keywords": ["pi-package"],
+		"version": "0.1.8",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

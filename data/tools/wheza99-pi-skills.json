@@ -1,0 +1,26 @@
+{
+	"id": "wheza99-pi-skills",
+	"name": "wheza99-pi-skills",
+	"url": "https://github.com/wheza99/pi-skills",
+	"source": "github-search",
+	"description": "Koleksi skill untuk pi coding agent",
+	"metadata": {
+		"description": "Koleksi skill untuk pi coding agent",
+		"stars": 0,
+		"forks": 0,
+		"language": "JavaScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-02-19T03:06:34Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

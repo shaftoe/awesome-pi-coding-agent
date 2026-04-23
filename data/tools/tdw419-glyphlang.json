@@ -1,0 +1,31 @@
+{
+	"id": "tdw419-glyphlang",
+	"name": "tdw419-glyphlang",
+	"url": "https://github.com/tdw419/glyphlang",
+	"source": "github-search",
+	"description": "GlyphLang pi-coding-agent skill — AI-first backend programming language reference for spatial assembly and Geometry OS",
+	"metadata": {
+		"description": "GlyphLang pi-coding-agent skill — AI-first backend programming language reference for spatial assembly and Geometry OS",
+		"stars": 0,
+		"forks": 0,
+		"language": "Go",
+		"topics": ["agent-skills", "glyphlang", "skills"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 32,
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-20T22:48:51Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 5,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

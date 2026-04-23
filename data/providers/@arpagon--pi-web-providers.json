@@ -1,0 +1,25 @@
+{
+	"id": "@arpagon/pi-web-providers",
+	"name": "@arpagon/pi-web-providers",
+	"url": "https://www.npmjs.com/package/@arpagon/pi-web-providers",
+	"source": "npm-search",
+	"description": "Configurable web access extension for pi with per-tool provider routing for search, contents, answers, and research across Claude, Cloudflare, Codex, Custom CLI, Exa, Gemini, Perplexity, Parallel, and Valyu.",
+	"metadata": {
+		"github_url": "https://github.com/arpagon/pi-web-providers",
+		"npm_name": "@arpagon/pi-web-providers",
+		"description": "Configurable web access extension for pi with per-tool provider routing for search, contents, answers, and research across Claude, Cloudflare, Codex, Custom CLI, Exa, Gemini, Perplexity, Parallel, and Valyu.",
+		"keywords": ["pi-package", "pi-extension", "coding-agent", "web-search", "claude", "cloudflare", "codex", "custom-cli", "exa", "gemini", "perplexity", "parallel", "valyu"],
+		"version": "1.2.0",
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 20,
+			"theme": 0,
+			"provider": 45
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

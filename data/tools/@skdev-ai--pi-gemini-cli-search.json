@@ -1,0 +1,25 @@
+{
+	"id": "@skdev-ai/pi-gemini-cli-search",
+	"name": "@skdev-ai/pi-gemini-cli-search",
+	"url": "https://www.npmjs.com/package/@skdev-ai/pi-gemini-cli-search",
+	"source": "npm-search",
+	"description": "Pi/GSD extension providing grounded web search via Gemini CLI's A2A and ACP protocols. Uses your existing Google AI Pro subscription.",
+	"metadata": {
+		"github_url": "https://github.com/skdev-ai/pi-gemini-cli-search",
+		"npm_name": "@skdev-ai/pi-gemini-cli-search",
+		"description": "Pi/GSD extension providing grounded web search via Gemini CLI's A2A and ACP protocols. Uses your existing Google AI Pro subscription.",
+		"keywords": ["pi-package", "pi", "gsd", "extension", "gemini-cli", "search", "a2a", "acp"],
+		"version": "0.2.0",
+		"_readme_category_scores": {
+			"extension": 15,
+			"tool": 49,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

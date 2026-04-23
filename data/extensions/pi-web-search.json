@@ -1,0 +1,25 @@
+{
+	"id": "pi-web-search",
+	"name": "pi-web-search",
+	"url": "https://www.npmjs.com/package/pi-web-search",
+	"source": "npm-search",
+	"description": "Web search and content analysis extension for pi, powered by Gemini API",
+	"metadata": {
+		"github_url": "https://github.com/ttttmr/pi-web-search",
+		"npm_name": "pi-web-search",
+		"description": "Web search and content analysis extension for pi, powered by Gemini API",
+		"keywords": ["pi", "pi-extension", "web-search", "gemini", "google", "url-analysis", "youtube"],
+		"version": "1.1.0",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 1,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

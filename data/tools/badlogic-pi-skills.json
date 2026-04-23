@@ -1,0 +1,31 @@
+{
+	"id": "badlogic-pi-skills",
+	"name": "badlogic-pi-skills",
+	"url": "https://github.com/badlogic/pi-skills",
+	"source": "github-search",
+	"description": "Skills for pi coding agent (compatible with Claude Code and Codex CLI)",
+	"metadata": {
+		"description": "Skills for pi coding agent (compatible with Claude Code and Codex CLI)",
+		"stars": 1331,
+		"forks": 142,
+		"language": "JavaScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 19,
+		"license": "MIT",
+		"last_commit": "2026-02-02T22:08:32Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 30,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 80,
+		"level": "active"
+	},
+	"category": "tool"
+}

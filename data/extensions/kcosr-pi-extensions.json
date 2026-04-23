@@ -1,0 +1,28 @@
+{
+	"id": "kcosr-pi-extensions",
+	"name": "kcosr-pi-extensions",
+	"url": "https://github.com/kcosr/pi-extensions",
+	"source": "github-search",
+	"description": "A collection of extensions for badlogic/pi-mono coding agent.",
+	"metadata": {
+		"description": "A collection of extensions for badlogic/pi-mono coding agent.",
+		"stars": 20,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 20,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 52,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

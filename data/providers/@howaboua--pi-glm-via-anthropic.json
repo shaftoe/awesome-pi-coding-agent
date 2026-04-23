@@ -1,0 +1,35 @@
+{
+	"id": "@howaboua/pi-glm-via-anthropic",
+	"name": "@howaboua/pi-glm-via-anthropic",
+	"url": "https://www.npmjs.com/package/@howaboua/pi-glm-via-anthropic",
+	"source": "npm-search",
+	"description": "Use Z.ai GLM models in pi through Z.ai's Anthropic-compatible endpoint.",
+	"metadata": {
+		"github_url": "https://github.com/IgorWarzocha/pi-glm-via-anthropic",
+		"npm_name": "@howaboua/pi-glm-via-anthropic",
+		"description": "Use Z.ai GLM models in pi through Z.ai's Anthropic-compatible endpoint.",
+		"keywords": ["pi-package", "pi-extension", "pi", "zai", "z.ai", "glm", "anthropic"],
+		"version": "0.1.1",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-31T15:30:54Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

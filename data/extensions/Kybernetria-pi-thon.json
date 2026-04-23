@@ -1,0 +1,23 @@
+{
+	"id": "Kybernetria-pi-thon",
+	"name": "Kybernetria-pi-thon",
+	"url": "https://github.com/Kybernetria/pi-thon",
+	"source": "github-search",
+	"description": "a pi-mono extension for seamlessly integrating python",
+	"metadata": {
+		"description": "a pi-mono extension for seamlessly integrating python",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

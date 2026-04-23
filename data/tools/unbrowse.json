@@ -1,0 +1,20 @@
+{
+	"id": "unbrowse",
+	"name": "unbrowse",
+	"url": "https://www.npmjs.com/package/unbrowse",
+	"source": "npm-search",
+	"description": "Reverse-engineer any website into reusable API skills. Zero-dep single binary with embedded browser engine.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "unbrowse",
+		"description": "Reverse-engineer any website into reusable API skills. Zero-dep single binary with embedded browser engine.",
+		"keywords": [],
+		"version": "3.7.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

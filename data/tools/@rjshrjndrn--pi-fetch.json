@@ -1,0 +1,20 @@
+{
+	"id": "@rjshrjndrn/pi-fetch",
+	"name": "@rjshrjndrn/pi-fetch",
+	"url": "https://www.npmjs.com/package/@rjshrjndrn/pi-fetch",
+	"source": "npm-search",
+	"description": "Web content extraction for pi — fetch any URL as clean Markdown using Defuddle",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@rjshrjndrn/pi-fetch",
+		"description": "Web content extraction for pi — fetch any URL as clean Markdown using Defuddle",
+		"keywords": ["pi-package", "pi-extension", "web-fetch", "markdown", "defuddle", "readability"],
+		"version": "0.1.3",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

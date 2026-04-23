@@ -1,0 +1,26 @@
+{
+	"id": "nakayama900-pi-casegraph",
+	"name": "nakayama900-pi-casegraph",
+	"url": "https://github.com/nakayama900/pi-casegraph",
+	"source": "github-search",
+	"description": "CaseGraph CLI integration for pi-coding-agent. cg tool + /cg* commands.",
+	"metadata": {
+		"description": "CaseGraph CLI integration for pi-coding-agent. cg tool + /cg* commands.",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-20T08:02:06Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

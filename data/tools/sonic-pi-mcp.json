@@ -1,0 +1,35 @@
+{
+	"id": "sonic-pi-mcp",
+	"name": "sonic-pi-mcp",
+	"url": "https://www.npmjs.com/package/sonic-pi-mcp",
+	"source": "npm-search",
+	"description": "MCP server for Sonic Pi: natural-language DJ sessions, OSC, queue runner, tools and prompts",
+	"metadata": {
+		"github_url": "https://github.com/abhishekjairath/sonic-pi-mcp",
+		"npm_name": "sonic-pi-mcp",
+		"description": "MCP server for Sonic Pi: natural-language DJ sessions, OSC, queue runner, tools and prompts",
+		"keywords": ["mcp", "sonic-pi", "ai", "llm", "music", "claude", "dj"],
+		"version": "2.0.0",
+		"stars": 14,
+		"forks": 4,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-22T13:49:25Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 7,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

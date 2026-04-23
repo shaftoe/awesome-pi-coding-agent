@@ -1,0 +1,25 @@
+{
+	"id": "@edmundmiller/pi-dcp",
+	"name": "@edmundmiller/pi-dcp",
+	"url": "https://www.npmjs.com/package/@edmundmiller/pi-dcp",
+	"source": "npm-search",
+	"description": "Dynamic Context Pruning extension for pi - intelligently removes obsolete messages to optimize token usage",
+	"metadata": {
+		"github_url": "https://github.com/edmundmiller/dotfiles",
+		"npm_name": "@edmundmiller/pi-dcp",
+		"description": "Dynamic Context Pruning extension for pi - intelligently removes obsolete messages to optimize token usage",
+		"keywords": ["pi", "pi-extension", "context-pruning", "token-optimization", "pi-package"],
+		"version": "0.1.1",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 1,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,31 @@
+{
+	"id": "ryanSir-super-agent",
+	"name": "ryanSir-super-agent",
+	"url": "https://github.com/ryanSir/super-agent",
+	"source": "github-search",
+	"description": " Enterprise-grade hybrid AI agent engine with Python orchestration + pi coding agent execution. Features Temporal workflows, E2B sandboxing, and A2UI protocol for dynamic UI     rendering. ",
+	"metadata": {
+		"description": " Enterprise-grade hybrid AI agent engine with Python orchestration + pi coding agent execution. Features Temporal workflows, E2B sandboxing, and A2UI protocol for dynamic UI     rendering. ",
+		"stars": 1,
+		"forks": 0,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-23T07:11:50Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 16,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

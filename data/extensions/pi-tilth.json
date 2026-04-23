@@ -1,0 +1,35 @@
+{
+	"id": "pi-tilth",
+	"name": "pi-tilth",
+	"url": "https://www.npmjs.com/package/pi-tilth",
+	"source": "npm-search",
+	"description": "AST-aware code reading via tilth — replaces read/grep/find/ls tools",
+	"metadata": {
+		"github_url": "https://github.com/sting8k/pi-tilth",
+		"npm_name": "pi-tilth",
+		"description": "AST-aware code reading via tilth — replaces read/grep/find/ls tools",
+		"keywords": ["pi-package"],
+		"version": "1.1.1",
+		"stars": 4,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-31T14:10:05Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

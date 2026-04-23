@@ -1,0 +1,31 @@
+{
+	"id": "dannyob-episodic-memory-pi",
+	"name": "dannyob-episodic-memory-pi",
+	"url": "https://github.com/dannyob/episodic-memory-pi",
+	"source": "github-search",
+	"description": "Version of Obra's Episodic Memory Adapted for the Pi Coding Agent",
+	"metadata": {
+		"description": "Version of Obra's Episodic Memory Adapted for the Pi Coding Agent",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/obra/episodic-memory",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-02-20T20:37:31Z",
+		"_readme_category_scores": {
+			"extension": 7,
+			"tool": 2,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

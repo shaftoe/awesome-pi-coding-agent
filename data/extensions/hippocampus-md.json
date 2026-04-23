@@ -1,0 +1,25 @@
+{
+	"id": "hippocampus-md",
+	"name": "hippocampus-md",
+	"url": "https://www.npmjs.com/package/hippocampus-md",
+	"source": "npm-search",
+	"description": "Context Lifecycle Extension for Pi/OpenClaw - hippocampal memory systems for AI agents",
+	"metadata": {
+		"github_url": "https://github.com/starvex/hippocampus-md",
+		"npm_name": "hippocampus-md",
+		"description": "Context Lifecycle Extension for Pi/OpenClaw - hippocampal memory systems for AI agents",
+		"keywords": ["ai", "memory", "context", "hippocampus", "pi", "openclaw", "compaction", "decay", "agent", "llm"],
+		"version": "0.1.4",
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

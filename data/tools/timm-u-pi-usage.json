@@ -1,0 +1,28 @@
+{
+	"id": "timm-u-pi-usage",
+	"name": "timm-u-pi-usage",
+	"url": "https://github.com/timm-u/pi-usage",
+	"source": "github-search",
+	"description": "Usage limit checker extension for pi coding agent — shows Codex and OpenCode Go limits at startup",
+	"metadata": {
+		"description": "Usage limit checker extension for pi coding agent — shows Codex and OpenCode Go limits at startup",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 9,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

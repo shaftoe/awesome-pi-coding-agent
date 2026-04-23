@@ -1,0 +1,23 @@
+{
+	"id": "andreimaxim-pi-provider-fireworks",
+	"name": "andreimaxim-pi-provider-fireworks",
+	"url": "https://github.com/andreimaxim/pi-provider-fireworks",
+	"source": "github-search",
+	"description": "Pi agent extension that enables the Fireworks provider",
+	"metadata": {
+		"description": "Pi agent extension that enables the Fireworks provider",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

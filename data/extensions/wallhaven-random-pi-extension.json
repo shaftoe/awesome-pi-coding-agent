@@ -1,0 +1,20 @@
+{
+	"id": "wallhaven-random-pi-extension",
+	"name": "wallhaven-random-pi-extension",
+	"url": "https://www.npmjs.com/package/wallhaven-random-pi-extension",
+	"source": "npm-search",
+	"description": "Wallhaven random wallpaper extension for pi",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "wallhaven-random-pi-extension",
+		"description": "Wallhaven random wallpaper extension for pi",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,23 @@
+{
+	"id": "Kybernetria-pi-ck",
+	"name": "Kybernetria-pi-ck",
+	"url": "https://github.com/Kybernetria/pi-ck",
+	"source": "github-search",
+	"description": "a pi-mono extension for configuring which extensions get loaded into the session",
+	"metadata": {
+		"description": "a pi-mono extension for configuring which extensions get loaded into the session",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "pi-auth-profiles",
+	"name": "pi-auth-profiles",
+	"url": "https://www.npmjs.com/package/pi-auth-profiles",
+	"source": "npm-search",
+	"description": "Auth profile switching for pi — save and switch between named credential profiles via slash commands",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-auth-profiles",
+		"description": "Auth profile switching for pi — save and switch between named credential profiles via slash commands",
+		"keywords": ["pi-package", "pi-extension", "auth", "profiles", "credentials"],
+		"version": "0.1.2",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

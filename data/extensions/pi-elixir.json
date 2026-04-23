@@ -1,0 +1,35 @@
+{
+	"id": "pi-elixir",
+	"name": "pi-elixir",
+	"url": "https://www.npmjs.com/package/pi-elixir",
+	"source": "npm-search",
+	"description": "BEAM runtime tools for pi — connects to the running Elixir app for live introspection",
+	"metadata": {
+		"github_url": "https://github.com/dannote/pi-elixir",
+		"npm_name": "pi-elixir",
+		"description": "BEAM runtime tools for pi — connects to the running Elixir app for live introspection",
+		"keywords": ["pi-package"],
+		"version": "0.3.1",
+		"stars": 61,
+		"forks": 3,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-07T16:20:11Z",
+		"topics": ["beam", "coding-agent", "elixir", "live-introspection", "mcp", "pi-agent", "tidewave"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 66,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

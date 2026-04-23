@@ -1,0 +1,35 @@
+{
+	"id": "@schilderlabs/pitown",
+	"name": "@schilderlabs/pitown",
+	"url": "https://www.npmjs.com/package/@schilderlabs/pitown",
+	"source": "npm-search",
+	"description": "Globally installable CLI for Pi Town",
+	"metadata": {
+		"github_url": "https://github.com/RobSchilderr/pitown",
+		"npm_name": "@schilderlabs/pitown",
+		"description": "Globally installable CLI for Pi Town",
+		"keywords": ["automation", "cli", "orchestration", "pi-package", "pi-town", "pitown"],
+		"version": "0.2.7",
+		"stars": 4,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-16T21:13:48Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

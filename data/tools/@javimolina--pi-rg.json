@@ -1,0 +1,25 @@
+{
+	"id": "@javimolina/pi-rg",
+	"name": "@javimolina/pi-rg",
+	"url": "https://www.npmjs.com/package/@javimolina/pi-rg",
+	"source": "npm-search",
+	"description": "Pi package that adds a /r command with cached ripgrep-backed file completions",
+	"metadata": {
+		"github_url": "https://github.com/javiermolinar/pi-rg",
+		"npm_name": "@javimolina/pi-rg",
+		"description": "Pi package that adds a /r command with cached ripgrep-backed file completions",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "ripgrep", "autocomplete", "cli"],
+		"version": "0.1.3",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

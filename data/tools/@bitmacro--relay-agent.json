@@ -1,0 +1,35 @@
+{
+	"id": "@bitmacro/relay-agent",
+	"name": "@bitmacro/relay-agent",
+	"url": "https://www.npmjs.com/package/@bitmacro/relay-agent",
+	"source": "npm-search",
+	"description": "REST API agent for managing Nostr relays without touching the terminal",
+	"metadata": {
+		"github_url": "https://github.com/bitmacro/relay-agent",
+		"npm_name": "@bitmacro/relay-agent",
+		"description": "REST API agent for managing Nostr relays without touching the terminal",
+		"keywords": ["nostr", "relay", "strfry", "nostr-relay", "relay-manager", "bitcoin", "lightning", "nostr-relay-manager"],
+		"version": "0.2.8",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-10T14:05:18Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 5,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

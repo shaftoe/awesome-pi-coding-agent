@@ -1,0 +1,28 @@
+{
+	"id": "gturkoglu-pi-prompt-hygiene",
+	"name": "gturkoglu-pi-prompt-hygiene",
+	"url": "https://github.com/gturkoglu/pi-prompt-hygiene",
+	"source": "github-search",
+	"description": "A Pi extension that blocks prompts containing polite filler before they reach the LLM.",
+	"metadata": {
+		"description": "A Pi extension that blocks prompts containing polite filler before they reach the LLM.",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["llm", "pi", "pi-coding-agent", "pi-extensions", "pi-package", "prompt-engineering", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 15,
+			"tool": 0,
+			"theme": 1,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

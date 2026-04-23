@@ -1,0 +1,35 @@
+{
+	"id": "pi-messenger-bridge",
+	"name": "pi-messenger-bridge",
+	"url": "https://www.npmjs.com/package/pi-messenger-bridge",
+	"source": "npm-search",
+	"description": "Bridge common messengers (Telegram, WhatsApp, Slack, Discord) into pi",
+	"metadata": {
+		"github_url": "https://github.com/tintinweb/pi-messenger-bridge",
+		"npm_name": "pi-messenger-bridge",
+		"description": "Bridge common messengers (Telegram, WhatsApp, Slack, Discord) into pi",
+		"keywords": ["pi-package", "pi", "pi-extension", "telegram", "whatsapp", "slack", "discord", "messenger", "bridge", "bot", "remote", "chat", "messaging", "coding-agent"],
+		"version": "0.3.0",
+		"stars": 29,
+		"forks": 8,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-25T01:16:54Z",
+		"topics": ["pi-agent", "pi-extension", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/pi-messenger-bridge",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "tool"
+}

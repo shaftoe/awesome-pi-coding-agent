@@ -1,0 +1,31 @@
+{
+	"id": "jchidley-helix-pi",
+	"name": "jchidley-helix-pi",
+	"url": "https://github.com/jchidley/helix-pi",
+	"source": "github-search",
+	"description": "Pi coding agent integration for [Helix](https://helix-editor.com/) via [Steel](https://github.com/mattwparas/steel) plugins.",
+	"metadata": {
+		"description": "Pi coding agent integration for [Helix](https://helix-editor.com/) via [Steel](https://github.com/mattwparas/steel) plugins.",
+		"stars": 17,
+		"forks": 1,
+		"language": "Scheme",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "Apache-2.0",
+		"last_commit": "2026-01-29T09:30:45Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 62,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

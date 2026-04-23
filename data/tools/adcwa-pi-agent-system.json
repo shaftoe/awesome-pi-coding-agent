@@ -1,0 +1,31 @@
+{
+	"id": "adcwa-pi-agent-system",
+	"name": "adcwa-pi-agent-system",
+	"url": "https://github.com/adcwa/pi-agent-system",
+	"source": "github-search",
+	"description": "基于 pi-mono 架构的 Agent 系统，支持自我成长、技能沉淀、记忆隔离与安全、一键克隆",
+	"metadata": {
+		"description": "基于 pi-mono 架构的 Agent 系统，支持自我成长、技能沉淀、记忆隔离与安全、一键克隆",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-03-09T23:54:07Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 4,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

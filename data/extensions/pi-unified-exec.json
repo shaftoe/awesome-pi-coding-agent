@@ -1,0 +1,35 @@
+{
+	"id": "pi-unified-exec",
+	"name": "pi-unified-exec",
+	"url": "https://www.npmjs.com/package/pi-unified-exec",
+	"source": "npm-search",
+	"description": "Codex-style unified_exec for pi: long-lived shell sessions the LLM polls and drives with write_stdin (Ctrl-C, arrow keys, PTY, REPLs, ssh, dev servers). Full output logged to disk.",
+	"metadata": {
+		"github_url": "https://github.com/iamwrm/pi-unified-exec",
+		"npm_name": "pi-unified-exec",
+		"description": "Codex-style unified_exec for pi: long-lived shell sessions the LLM polls and drives with write_stdin (Ctrl-C, arrow keys, PTY, REPLs, ssh, dev servers). Full output logged to disk.",
+		"keywords": ["pi-package", "pi-extension", "codex", "unified-exec", "bash", "pty"],
+		"version": "0.2.1",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-22T11:44:41Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 4,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

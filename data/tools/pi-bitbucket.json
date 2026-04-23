@@ -1,0 +1,20 @@
+{
+	"id": "pi-bitbucket",
+	"name": "pi-bitbucket",
+	"url": "https://www.npmjs.com/package/pi-bitbucket",
+	"source": "npm-search",
+	"description": "Bitbucket Cloud integration for Pi — repos, PRs, branches, pipelines, and issues",
+	"metadata": {
+		"github_url": "https://github.com/lucianojr/pi-bitbucket",
+		"npm_name": "pi-bitbucket",
+		"description": "Bitbucket Cloud integration for Pi — repos, PRs, branches, pipelines, and issues",
+		"keywords": ["pi-package", "bitbucket", "pull-requests", "pipelines", "code-review"],
+		"version": "1.1.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

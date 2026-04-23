@@ -1,0 +1,31 @@
+{
+	"id": "juliancanaless-obsidian-axiom-cortex",
+	"name": "juliancanaless-obsidian-axiom-cortex",
+	"url": "https://github.com/juliancanaless/obsidian-axiom-cortex",
+	"source": "github-search",
+	"description": "Obsidian plugin for graph-based knowledge synthesis powered by LightRAG. OAuth bridge (Antigravity, Copilot, Anthropic, Gemini CLI, OpenAI     Codex) with reactive token refresh, multi-step note synthesis with clickable citations, and proactive link discovery. Fork of Neural Composer + pi-mono auth.  ",
+	"metadata": {
+		"description": "Obsidian plugin for graph-based knowledge synthesis powered by LightRAG. OAuth bridge (Antigravity, Copilot, Anthropic, Gemini CLI, OpenAI     Codex) with reactive token refresh, multi-step note synthesis with clickable citations, and proactive link discovery. Fork of Neural Composer + pi-mono auth.  ",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-02-27T01:06:17Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 18,
+			"theme": 0,
+			"provider": 16
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

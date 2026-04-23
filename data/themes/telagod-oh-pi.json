@@ -1,0 +1,31 @@
+{
+	"id": "telagod-oh-pi",
+	"name": "telagod-oh-pi",
+	"url": "https://github.com/telagod/oh-pi",
+	"source": "github-search",
+	"description": "One-click setup for pi-coding-agent with ant colony swarm. Like oh-my-zsh for pi.",
+	"metadata": {
+		"description": "One-click setup for pi-coding-agent with ant colony swarm. Like oh-my-zsh for pi.",
+		"stars": 64,
+		"forks": 8,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 1,
+		"license": null,
+		"last_commit": "2026-03-02T12:21:01Z",
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 1,
+			"theme": 7,
+			"provider": 5
+		}
+	},
+	"health": {
+		"score": 66,
+		"level": "maintained"
+	},
+	"category": "theme"
+}

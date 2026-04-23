@@ -1,0 +1,28 @@
+{
+	"id": "Crokily-pi-backup",
+	"name": "Crokily-pi-backup",
+	"url": "https://github.com/Crokily/pi-backup",
+	"source": "github-search",
+	"description": "Backup of a self-extending pi coding agent -- extensions, skills, discord gateway, and service configs",
+	"metadata": {
+		"description": "Backup of a self-extending pi coding agent -- extensions, skills, discord gateway, and service configs",
+		"stars": 2,
+		"forks": 0,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 2,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

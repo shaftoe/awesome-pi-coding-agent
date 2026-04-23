@@ -1,0 +1,20 @@
+{
+	"id": "pi-gen",
+	"name": "pi-gen",
+	"url": "https://www.npmjs.com/package/pi-gen",
+	"source": "npm-search",
+	"description": "Pingendo static site generator",
+	"metadata": {
+		"github_url": "https://github.com/gseregni/pi-gen",
+		"npm_name": "pi-gen",
+		"description": "Pingendo static site generator",
+		"keywords": ["oclif"],
+		"version": "1.0.43",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

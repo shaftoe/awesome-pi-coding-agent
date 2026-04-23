@@ -1,0 +1,28 @@
+{
+	"id": "alnah-agent",
+	"name": "alnah-agent",
+	"url": "https://github.com/alnah/agent",
+	"source": "github-search",
+	"description": "Pi extensions, skills, prompts, themes, and context files for terminal workflows.",
+	"metadata": {
+		"description": "Pi extensions, skills, prompts, themes, and context files for terminal workflows.",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["agentic-ai", "ai-agent", "cli", "code-review", "coding-agent", "developer-tools", "llm", "pi", "pi-coding-agent", "prompt-templates", "terminal", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.alnah.me",
+		"_readme_category_scores": {
+			"extension": 11,
+			"tool": 0,
+			"theme": 5,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "theme"
+}

@@ -1,0 +1,35 @@
+{
+	"id": "@twogiants/pi-anthropic-vertex",
+	"name": "@twogiants/pi-anthropic-vertex",
+	"url": "https://www.npmjs.com/package/@twogiants/pi-anthropic-vertex",
+	"source": "npm-search",
+	"description": "Anthropic Claude models on Google Cloud Vertex AI for pi",
+	"metadata": {
+		"github_url": "https://github.com/twoGiants/pi-anthropic-vertex",
+		"npm_name": "@twogiants/pi-anthropic-vertex",
+		"description": "Anthropic Claude models on Google Cloud Vertex AI for pi",
+		"keywords": ["pi-package", "pi-extension", "anthropic", "vertex-ai", "claude"],
+		"version": "0.1.1",
+		"stars": 0,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-14T11:41:05Z",
+		"topics": ["anthropic", "claude", "pi-extension", "pi-package", "vertex-ai"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 2,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

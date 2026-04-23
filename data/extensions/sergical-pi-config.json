@@ -1,0 +1,28 @@
+{
+	"id": "sergical-pi-config",
+	"name": "sergical-pi-config",
+	"url": "https://github.com/sergical/pi-config",
+	"source": "github-search",
+	"description": "My personal pi coding agent configuration — skills, extensions, and agents",
+	"metadata": {
+		"description": "My personal pi coding agent configuration — skills, extensions, and agents",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 11,
+			"tool": 6,
+			"theme": 0,
+			"provider": 6
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

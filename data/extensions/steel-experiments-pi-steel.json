@@ -1,0 +1,31 @@
+{
+	"id": "steel-experiments-pi-steel",
+	"name": "steel-experiments-pi-steel",
+	"url": "https://github.com/steel-experiments/pi-steel",
+	"source": "github-search",
+	"description": "Steel browser automation tools for the Pi coding agent.",
+	"metadata": {
+		"description": "Steel browser automation tools for the Pi coding agent.",
+		"stars": 8,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["agent", "ai", "browser", "pi"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://steel.dev/",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-14T13:06:52Z",
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 4,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

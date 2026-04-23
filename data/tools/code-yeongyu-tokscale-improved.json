@@ -1,0 +1,31 @@
+{
+	"id": "code-yeongyu-tokscale-improved",
+	"name": "code-yeongyu-tokscale-improved",
+	"url": "https://github.com/code-yeongyu/tokscale-improved",
+	"source": "github-search",
+	"description": "Enhanced tokscale with pi-mono support, Kimi pricing fix, and codex/k2p5 model mapping",
+	"metadata": {
+		"description": "Enhanced tokscale with pi-mono support, Kimi pricing fix, and codex/k2p5 model mapping",
+		"stars": 3,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-02-08T06:35:48Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 65,
+			"theme": 6,
+			"provider": 8
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

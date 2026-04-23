@@ -1,0 +1,31 @@
+{
+	"id": "Keke-nA-learn-pimono",
+	"name": "Keke-nA-learn-pimono",
+	"url": "https://github.com/Keke-nA/learn-pimono",
+	"source": "github-search",
+	"description": "严肃学习 pi-mono",
+	"metadata": {
+		"description": "严肃学习 pi-mono",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-03-24T00:29:16Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

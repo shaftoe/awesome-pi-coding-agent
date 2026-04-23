@@ -1,0 +1,35 @@
+{
+	"id": "@q.roy/pi-remote",
+	"name": "@q.roy/pi-remote",
+	"url": "https://www.npmjs.com/package/@q.roy/pi-remote",
+	"source": "npm-search",
+	"description": "Remote terminal access for pi via WebSocket and browser",
+	"metadata": {
+		"github_url": "https://github.com/ruanqisevik/pi-mono-extensions",
+		"npm_name": "@q.roy/pi-remote",
+		"description": "Remote terminal access for pi via WebSocket and browser",
+		"keywords": ["pi-package", "pi", "remote", "terminal", "pty", "websocket"],
+		"version": "0.1.2",
+		"stars": 7,
+		"forks": 8,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-07T07:48:30Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

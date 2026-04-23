@@ -1,0 +1,20 @@
+{
+	"id": "pi-front-common-toolkits",
+	"name": "pi-front-common-toolkits",
+	"url": "https://www.npmjs.com/package/pi-front-common-toolkits",
+	"source": "npm-search",
+	"description": "通用工具包",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-front-common-toolkits",
+		"description": "通用工具包",
+		"keywords": [],
+		"version": "0.16.15",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

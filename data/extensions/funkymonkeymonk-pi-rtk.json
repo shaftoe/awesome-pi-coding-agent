@@ -1,0 +1,31 @@
+{
+	"id": "funkymonkeymonk-pi-rtk",
+	"name": "funkymonkeymonk-pi-rtk",
+	"url": "https://github.com/funkymonkeymonk/pi-rtk",
+	"source": "github-search",
+	"description": "RTK integration for Pi coding agent - reduces LLM token consumption by 60-90%",
+	"metadata": {
+		"description": "RTK integration for Pi coding agent - reduces LLM token consumption by 60-90%",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/funkymonkeymonk/pi-rtk",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-03-31T17:57:07Z",
+		"_readme_category_scores": {
+			"extension": 9,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

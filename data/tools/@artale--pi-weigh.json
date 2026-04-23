@@ -1,0 +1,20 @@
+{
+	"id": "@artale/pi-weigh",
+	"name": "@artale/pi-weigh",
+	"url": "https://www.npmjs.com/package/@artale/pi-weigh",
+	"source": "npm-search",
+	"description": "Weigh your context. Visual HTML report of system prompt token budget — per-tool breakdown, section analysis, health indicator. Zero dependencies.",
+	"metadata": {
+		"github_url": "https://github.com/artale93/pi-weigh",
+		"npm_name": "@artale/pi-weigh",
+		"description": "Weigh your context. Visual HTML report of system prompt token budget — per-tool breakdown, section analysis, health indicator. Zero dependencies.",
+		"keywords": ["pi-package", "pi-extension", "tokens", "context", "observability", "system-prompt", "optimization"],
+		"version": "1.2.2",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

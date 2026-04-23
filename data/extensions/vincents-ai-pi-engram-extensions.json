@@ -1,0 +1,28 @@
+{
+	"id": "vincents-ai-pi-engram-extensions",
+	"name": "vincents-ai-pi-engram-extensions",
+	"url": "https://github.com/vincents-ai/pi-engram-extensions",
+	"source": "github-search",
+	"description": "Engram extensions and skills for the pi coding agent — persistent memory, orchestration, workflow state machines, model failover, and commit enforcement.",
+	"metadata": {
+		"description": "Engram extensions and skills for the pi coding agent — persistent memory, orchestration, workflow state machines, model failover, and commit enforcement.",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["ai-agent", "engram", "extensions", "pi-coding-agent", "pi-package", "skills", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 9,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

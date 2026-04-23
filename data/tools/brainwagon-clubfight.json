@@ -1,0 +1,31 @@
+{
+	"id": "brainwagon-clubfight",
+	"name": "brainwagon-clubfight",
+	"url": "https://github.com/brainwagon/clubfight",
+	"source": "github-search",
+	"description": "a solitaire game, coded with the pi coding agent and the minimax 2.7 model using the free tier of ollama cloud.",
+	"metadata": {
+		"description": "a solitaire game, coded with the pi coding agent and the minimax 2.7 model using the free tier of ollama cloud.",
+		"stars": 0,
+		"forks": 0,
+		"language": "HTML",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-18T00:02:13Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

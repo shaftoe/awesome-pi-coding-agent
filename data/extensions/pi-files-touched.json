@@ -1,0 +1,25 @@
+{
+	"id": "pi-files-touched",
+	"name": "pi-files-touched",
+	"url": "https://www.npmjs.com/package/pi-files-touched",
+	"source": "npm-search",
+	"description": "Deterministic file-activity tracking for Pi sessions, covering native tools, RepoPrompt, and bash commands.  Includes /files-touched picker and a shared core for compaction/handover extensions",
+	"metadata": {
+		"github_url": "https://github.com/w-winter/dot314",
+		"npm_name": "pi-files-touched",
+		"description": "Deterministic file-activity tracking for Pi sessions, covering native tools, RepoPrompt, and bash commands.  Includes /files-touched picker and a shared core for compaction/handover extensions",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "files", "tracking", "compaction"],
+		"version": "0.1.0",
+		"_readme_category_scores": {
+			"extension": 44,
+			"tool": 9,
+			"theme": 5,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

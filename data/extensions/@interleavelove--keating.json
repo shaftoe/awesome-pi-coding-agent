@@ -1,0 +1,35 @@
+{
+	"id": "@interleavelove/keating",
+	"name": "@interleavelove/keating",
+	"url": "https://www.npmjs.com/package/@interleavelove/keating",
+	"source": "npm-search",
+	"description": "A Pi-powered hyperteacher package with self-improving teaching policies, lesson maps, and animated visual teaching artifacts.",
+	"metadata": {
+		"github_url": "https://github.com/Diogenesoftoronto/keating",
+		"npm_name": "@interleavelove/keating",
+		"description": "A Pi-powered hyperteacher package with self-improving teaching policies, lesson maps, and animated visual teaching artifacts.",
+		"keywords": ["pi-package", "hyperteacher", "education", "feynman-style", "teaching-agent", "ai-education", "cognitive-empowerment"],
+		"version": "0.1.2",
+		"stars": 12,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-20T05:40:19Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://keating.help",
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

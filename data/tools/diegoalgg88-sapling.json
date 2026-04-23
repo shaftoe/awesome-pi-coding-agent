@@ -1,0 +1,28 @@
+{
+	"id": "diegoalgg88-sapling",
+	"name": "diegoalgg88-sapling",
+	"url": "https://github.com/diegoalgg88/sapling",
+	"source": "github-search",
+	"description": "Sapling CLI - Headless coding agent with proactive context management (fork con mejoras Windows y Pi extension)",
+	"metadata": {
+		"description": "Sapling CLI - Headless coding agent with proactive context management (fork con mejoras Windows y Pi extension)",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 14,
+			"theme": 0,
+			"provider": 11
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,25 @@
+{
+	"id": "@hjanuschka/pi-nanny",
+	"name": "@hjanuschka/pi-nanny",
+	"url": "https://www.npmjs.com/package/@hjanuschka/pi-nanny",
+	"source": "npm-search",
+	"description": "Parental control extension for Pi - helps you go to bed instead of having 47 creative ideas at 3 AM",
+	"metadata": {
+		"github_url": "https://github.com/hjanuschka/pi-nanny",
+		"npm_name": "@hjanuschka/pi-nanny",
+		"description": "Parental control extension for Pi - helps you go to bed instead of having 47 creative ideas at 3 AM",
+		"keywords": ["pi-package", "pi-extension", "sleep", "productivity", "parental-control", "bedtime", "health"],
+		"version": "1.1.0",
+		"_readme_category_scores": {
+			"extension": 12,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

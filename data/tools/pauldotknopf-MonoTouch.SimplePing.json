@@ -1,0 +1,31 @@
+{
+	"id": "pauldotknopf-MonoTouch.SimplePing",
+	"name": "pauldotknopf-MonoTouch.SimplePing",
+	"url": "https://github.com/pauldotknopf/MonoTouch.SimplePing",
+	"source": "github-search",
+	"description": "Xamarin bindings for the SimplePing class/helper for pinging CORRECTLY in Xamarin.iOS/MonoTouch.",
+	"metadata": {
+		"description": "Xamarin bindings for the SimplePing class/helper for pinging CORRECTLY in Xamarin.iOS/MonoTouch.",
+		"stars": 8,
+		"forks": 4,
+		"language": "C#",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 1,
+		"license": null,
+		"last_commit": "2013-10-31T18:19:32Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 31,
+		"level": "stale"
+	},
+	"category": "tool"
+}

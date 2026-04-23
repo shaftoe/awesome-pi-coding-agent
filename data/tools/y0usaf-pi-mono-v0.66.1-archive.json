@@ -1,0 +1,31 @@
+{
+	"id": "y0usaf-pi-mono-v0.66.1-archive",
+	"name": "y0usaf-pi-mono-v0.66.1-archive",
+	"url": "https://github.com/y0usaf/pi-mono-v0.66.1-archive",
+	"source": "github-search",
+	"description": "Archived fork snapshot of pi-mono at v0.66.1",
+	"metadata": {
+		"description": "Archived fork snapshot of pi-mono at v0.66.1",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": true,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-16T17:48:33Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 3,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 20,
+		"level": "stale"
+	},
+	"category": "tool"
+}

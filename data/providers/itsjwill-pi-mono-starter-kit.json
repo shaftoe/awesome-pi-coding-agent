@@ -1,0 +1,31 @@
+{
+	"id": "itsjwill-pi-mono-starter-kit",
+	"name": "itsjwill-pi-mono-starter-kit",
+	"url": "https://github.com/itsjwill/pi-mono-starter-kit",
+	"source": "github-search",
+	"description": "Production-ready starter kit",
+	"metadata": {
+		"description": "Production-ready starter kit",
+		"stars": 0,
+		"forks": 0,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-02-01T15:02:58Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 5,
+			"theme": 0,
+			"provider": 9
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,28 @@
+{
+	"id": "tmdgusya-hud-dashboard",
+	"name": "tmdgusya-hud-dashboard",
+	"url": "https://github.com/tmdgusya/hud-dashboard",
+	"source": "github-search",
+	"description": "Interactive HUD Dashboard for pi-coding-agent to monitor agentic workflows",
+	"metadata": {
+		"description": "Interactive HUD Dashboard for pi-coding-agent to monitor agentic workflows",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 6,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

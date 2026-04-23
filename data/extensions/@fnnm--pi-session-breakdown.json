@@ -1,0 +1,35 @@
+{
+	"id": "@fnnm/pi-session-breakdown",
+	"name": "@fnnm/pi-session-breakdown",
+	"url": "https://www.npmjs.com/package/@fnnm/pi-session-breakdown",
+	"source": "npm-search",
+	"description": "Interactive TUI for Pi session analysis (usage, cost, models).",
+	"metadata": {
+		"github_url": "https://github.com/fxcl/pi-session-breakdown",
+		"npm_name": "@fnnm/pi-session-breakdown",
+		"description": "Interactive TUI for Pi session analysis (usage, cost, models).",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"stars": 0,
+		"forks": 1,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-09T12:40:37Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

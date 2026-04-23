@@ -1,0 +1,20 @@
+{
+	"id": "pi-bash-image",
+	"name": "pi-bash-image",
+	"url": "https://www.npmjs.com/package/pi-bash-image",
+	"source": "npm-search",
+	"description": "Inject images into bash tool results",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-bash-image",
+		"description": "Inject images into bash tool results",
+		"keywords": ["pi-package"],
+		"version": "0.1.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

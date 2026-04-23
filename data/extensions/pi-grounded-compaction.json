@@ -1,0 +1,35 @@
+{
+	"id": "pi-grounded-compaction",
+	"name": "pi-grounded-compaction",
+	"url": "https://www.npmjs.com/package/pi-grounded-compaction",
+	"source": "npm-search",
+	"description": "Compaction and branch summarizer for Pi with model presets, custom prompts, and deterministic files-touched tracking for native tools, RepoPrompt, and bash",
+	"metadata": {
+		"github_url": "https://github.com/w-winter/dot314",
+		"npm_name": "pi-grounded-compaction",
+		"description": "Compaction and branch summarizer for Pi with model presets, custom prompts, and deterministic files-touched tracking for native tools, RepoPrompt, and bash",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "compaction", "summarization"],
+		"version": "0.1.2",
+		"stars": 90,
+		"forks": 10,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-22T13:07:48Z",
+		"topics": ["pi", "pi-agent", "pi-coding-agent", "pi-extension", "pi-package", "repoprompt"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 44,
+			"tool": 9,
+			"theme": 5,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 79,
+		"level": "active"
+	},
+	"category": "extension"
+}

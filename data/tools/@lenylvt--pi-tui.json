@@ -1,0 +1,20 @@
+{
+	"id": "@lenylvt/pi-tui",
+	"name": "@lenylvt/pi-tui",
+	"url": "https://www.npmjs.com/package/@lenylvt/pi-tui",
+	"source": "npm-search",
+	"description": "Terminal User Interface library with differential rendering for efficient text-based applications",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@lenylvt/pi-tui",
+		"description": "Terminal User Interface library with differential rendering for efficient text-based applications",
+		"keywords": ["tui", "terminal", "ui", "text-editor", "differential-rendering", "typescript", "cli"],
+		"version": "0.70.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

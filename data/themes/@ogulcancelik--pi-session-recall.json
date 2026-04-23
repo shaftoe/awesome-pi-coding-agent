@@ -1,0 +1,35 @@
+{
+	"id": "@ogulcancelik/pi-session-recall",
+	"name": "@ogulcancelik/pi-session-recall",
+	"url": "https://www.npmjs.com/package/@ogulcancelik/pi-session-recall",
+	"source": "npm-search",
+	"description": "Search and query past pi sessions. Recall previous conversations on demand.",
+	"metadata": {
+		"github_url": "https://github.com/ogulcancelik/pi-extensions",
+		"npm_name": "@ogulcancelik/pi-session-recall",
+		"description": "Search and query past pi sessions. Recall previous conversations on demand.",
+		"keywords": ["pi-package", "pi-extension", "session-recall", "session-search", "conversation-history", "agent-memory", "coding-agent"],
+		"version": "1.0.3",
+		"stars": 61,
+		"forks": 12,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-21T18:46:39Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 3,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 76,
+		"level": "active"
+	},
+	"category": "theme"
+}

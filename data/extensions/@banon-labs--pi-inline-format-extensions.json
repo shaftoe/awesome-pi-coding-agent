@@ -1,0 +1,25 @@
+{
+	"id": "@banon-labs/pi-inline-format-extensions",
+	"name": "@banon-labs/pi-inline-format-extensions",
+	"url": "https://www.npmjs.com/package/@banon-labs/pi-inline-format-extensions",
+	"source": "npm-search",
+	"description": "Host/plugin Pi package for inline heredoc formatting and semantic inspection.",
+	"metadata": {
+		"github_url": "https://github.com/Banon-Labs/pi-inline-format-extensions",
+		"npm_name": "@banon-labs/pi-inline-format-extensions",
+		"description": "Host/plugin Pi package for inline heredoc formatting and semantic inspection.",
+		"keywords": ["pi-package", "pi-extension"],
+		"version": "0.1.5",
+		"_readme_category_scores": {
+			"extension": 18,
+			"tool": 3,
+			"theme": 1,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

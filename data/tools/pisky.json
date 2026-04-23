@@ -1,0 +1,25 @@
+{
+	"id": "pisky",
+	"name": "pisky",
+	"url": "https://www.npmjs.com/package/pisky",
+	"source": "npm-search",
+	"description": "Pisky - Base for Pisky based Applications",
+	"metadata": {
+		"github_url": "https://github.com/Mnark/pisky",
+		"npm_name": "pisky",
+		"description": "Pisky - Base for Pisky based Applications",
+		"keywords": ["socket.io", "pisky", "raspberry", "home automation", "remote control"],
+		"version": "0.1.6",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

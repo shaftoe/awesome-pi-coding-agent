@@ -1,0 +1,31 @@
+{
+	"id": "Lightbridge-KS-pi-mono-stub",
+	"name": "Lightbridge-KS-pi-mono-stub",
+	"url": "https://github.com/Lightbridge-KS/pi-mono-stub",
+	"source": "github-search",
+	"description": "Educational stub of pi-mono",
+	"metadata": {
+		"description": "Educational stub of pi-mono",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["agentic-harness", "ts"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://software-design-explore-lightbridge.netlify.app/oss/pi-mono-oop-uml-architecture",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-15T13:37:56Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

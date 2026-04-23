@@ -1,0 +1,25 @@
+{
+	"id": "@alasano/pi-panels",
+	"name": "@alasano/pi-panels",
+	"url": "https://www.npmjs.com/package/@alasano/pi-panels",
+	"source": "npm-search",
+	"description": "Responsive status panels for pi - git info, LLM context usage, and Spotify now-playing below the editor",
+	"metadata": {
+		"github_url": "https://github.com/alasano/house-of-pi",
+		"npm_name": "@alasano/pi-panels",
+		"description": "Responsive status panels for pi - git info, LLM context usage, and Spotify now-playing below the editor",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+	"id": "arcdev-llc-pi-lsp",
+	"name": "arcdev-llc-pi-lsp",
+	"url": "https://github.com/arcdev-llc/pi-lsp",
+	"source": "github-search",
+	"description": "LSP extension for pi-mono ",
+	"metadata": {
+		"description": "LSP extension for pi-mono ",
+		"stars": 2,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 7,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

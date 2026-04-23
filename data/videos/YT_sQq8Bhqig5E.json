@@ -1,0 +1,23 @@
+{
+	"id": "YT_sQq8Bhqig5E",
+	"name": "Sync active nvim theme to pi coding agent",
+	"url": "https://www.youtube.com/watch?v=sQq8Bhqig5E",
+	"source": "youtube-search",
+	"description": "A short demo showing automatically sync active nvim theme to the pi coding agent (pi.dev). Get the plugin here ...",
+	"metadata": {
+		"title": "Sync active nvim theme to pi coding agent",
+		"description": "A short demo showing automatically sync active nvim theme to the pi coding agent (pi.dev). Get the plugin here ...",
+		"channel": "Lê Hùng Thiện",
+		"published_at": "2026-04-10T09:15:23Z",
+		"thumbnail": "https://i.ytimg.com/vi/sQq8Bhqig5E/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 30,
+		"like_count": 1,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 75,
+		"level": "active"
+	},
+	"category": "video"
+}

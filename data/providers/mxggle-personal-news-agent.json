@@ -1,0 +1,31 @@
+{
+	"id": "mxggle-personal-news-agent",
+	"name": "mxggle-personal-news-agent",
+	"url": "https://github.com/mxggle/personal-news-agent",
+	"source": "github-search",
+	"description": "An autonomous Personal News Briefing Agent built with pi-mono AI toolkit. This agent automatically fetches content from your configured news sources, summarizes it using an LLM, and saves daily briefings to your Obsidian vault.",
+	"metadata": {
+		"description": "An autonomous Personal News Briefing Agent built with pi-mono AI toolkit. This agent automatically fetches content from your configured news sources, summarizes it using an LLM, and saves daily briefings to your Obsidian vault.",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-02-03T11:18:31Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

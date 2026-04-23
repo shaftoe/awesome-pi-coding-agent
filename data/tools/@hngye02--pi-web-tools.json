@@ -1,0 +1,20 @@
+{
+	"id": "@hngye02/pi-web-tools",
+	"name": "@hngye02/pi-web-tools",
+	"url": "https://www.npmjs.com/package/@hngye02/pi-web-tools",
+	"source": "npm-search",
+	"description": "webfetch + websearch tools for Pi",
+	"metadata": {
+		"github_url": "https://github.com/hngye02/web-tools",
+		"npm_name": "@hngye02/pi-web-tools",
+		"description": "webfetch + websearch tools for Pi",
+		"keywords": ["pi-package"],
+		"version": "1.0.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}
