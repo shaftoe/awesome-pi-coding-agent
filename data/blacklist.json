@@ -54793,7 +54793,7 @@
 	},
 	{
 		"url": "https://www.npmjs.com/package/@tloncorp/tlon-skill",
-		"reason": "Tlon/Urbit skill for OpenClaw — borderline but Tlon/Urbit is a separate platform"
+		"reason": "Tlon/Urbit skill for OpenClaw \u2014 borderline but Tlon/Urbit is a separate platform"
 	},
 	{
 		"url": "https://www.npmjs.com/package/@tomtom-org/maps-sdk",
@@ -54929,7 +54929,7 @@
 	},
 	{
 		"url": "https://www.npmjs.com/package/yingmi-skill-cli",
-		"reason": "盈米 MCP skill CLI, not Pi coding agent"
+		"reason": "\u76c8\u7c73 MCP skill CLI, not Pi coding agent"
 	},
 	{
 		"url": "https://www.npmjs.com/package/@hoophq/hoop-skills",
@@ -54998,5 +54998,21 @@
 	{
 		"url": "https://www.npmjs.com/package/@xhilo/pi-sdk",
 		"reason": "Pi Network cryptocurrency SDK, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/oira666_pi-claude-chrome-extension",
+		"reason": "False positive: not Pi coding agent related"
+	},
+	{
+		"url": "https://www.npmjs.com/package/git-metadata",
+		"reason": "False positive: not Pi coding agent related"
+	},
+	{
+		"url": "https://www.npmjs.com/package/video-paste",
+		"reason": "False positive: not Pi coding agent related"
+	},
+	{
+		"url": "https://www.npmjs.com/package/graphify-pi",
+		"reason": "False positive: not Pi coding agent related"
 	}
 ]

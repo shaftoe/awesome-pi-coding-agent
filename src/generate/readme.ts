@@ -9,6 +9,11 @@
  *  - Rich video section
  *  - Per-category descriptions with icons
  */
+
+import {
+	CATEGORY_META as SHARED_CATEGORY_META,
+	CATEGORY_ORDER as SHARED_CATEGORY_ORDER,
+} from "../lib/site-data.ts";
 import type { CategorizedEntry, Category, HealthLevel } from "../lib/types.ts";
 
 // ─── Constants ─────────────────────────────────────────────────────────────────
@@ -20,141 +25,20 @@ const HEALTH_EMOJI: Record<HealthLevel, string> = {
 	dead: "🔴",
 };
 
-const CATEGORY_META: Record<string, { title: string; icon: string; description: string }> = {
-	extension: {
-		title: "Extensions",
-		icon: "🔌",
-		description:
-			"Extend pi's capabilities — custom tools, hooks, integrations, and UI modifications.",
-	},
-	tool: {
-		title: "Tools & Utilities",
-		icon: "🛠️",
-		description:
-			"Standalone tools, CLIs, and utilities built for or compatible with the pi ecosystem.",
-	},
-	theme: {
-		title: "Themes",
-		icon: "🎨",
-		description: "Custom themes and color schemes for the pi TUI.",
-	},
-	provider: {
-		title: "Providers & Integrations",
-		icon: "🔗",
-		description: "LLM providers, API integrations, and service connectors for pi.",
-	},
-	template: {
-		title: "Templates",
-		icon: "📋",
-		description: "Project templates and starters for building pi packages.",
-	},
-	video: {
-		title: "Videos & Tutorials",
-		icon: "🎬",
-		description: "Talks, tutorials, walkthroughs, and demos from the community.",
-	},
-	example: {
-		title: "Examples & Recipes",
-		icon: "📝",
-		description: "Sample code, patterns, and recipes for pi development.",
-	},
-	documentation: {
-		title: "Documentation",
-		icon: "📚",
-		description: "Guides, references, and documentation projects for pi.",
-	},
-};
+// Re-use canonical category metadata from site-data (titles, icons, descriptions)
+const CATEGORY_META: Record<string, { title: string; icon: string; description: string }> =
+	Object.fromEntries(
+		SHARED_CATEGORY_ORDER.map((cat) => [
+			cat,
+			{
+				title: SHARED_CATEGORY_META[cat].title,
+				icon: SHARED_CATEGORY_META[cat].icon,
+				description: SHARED_CATEGORY_META[cat].description,
+			},
+		]),
+	);
 
-const CATEGORY_ORDER: Category[] = [
-	"extension",
-	"tool",
-	"theme",
-	"provider",
-	"template",
-	"video",
-	"example",
-	"documentation",
-];
-
-// ─── Relevance filtering ──────────────────────────────────────────────────────
-
-/**
- * Known npm packages/organizations that are NOT pi-related but match
- * search terms due to generic naming (e.g. "extension").
- */
-const KNOWN_FALSE_POSITIVE_PATTERNS = [
-	// Tiptap (rich text editor)
-	/^@tiptap\//,
-	// Redux devtools
-	/^@redux-devtools\//,
-	// Statoscope (webpack stats)
-	/^@statoscope\//,
-	// Substrate (blockchain)
-	/^@substrate\//,
-	// Mux (video analytics)
-	/^@mux\//,
-	// VS Code
-	/^@vscode\//,
-	// Lexical (Meta's editor)
-	/^@lexical\//,
-	// Generic npm packages with "extension" in name
-	/^extension-port-stream$/,
-	/^default-require-extensions$/,
-	/^cmd-extension$/,
-	/^video-paste$/,
-	/^websocket-extensions$/,
-	// PixiJS game library
-	/^@pixi\//,
-	/^pixi-/,
-	// SAP UI5
-	/^@ui5-language-assistant\//,
-	// OpenTiny enterprise Vue
-	/^@opentiny\//,
-	// Capacitor mobile plugins
-	/^@capawesome\//,
-	// Adobe Launch
-	/^@adobe\/reactor-/,
-	// Node-RED contributions
-	/^node-red-contrib/,
-	// Pimcore CMS
-	/pimcore/,
-	// Mathematical π
-	/^const-pi$/,
-	/^generate-pi$/,
-	/^stringify-pi$/,
-	// Micromark (markdown parser)
-	/^micromark(-|$)/,
-	// Generic tools
-	/^interpret$/,
-	/^jest-haste-map$/,
-	/^langium$/,
-	/^layout-base$/,
-	/^tempfile$/,
-	/^tempy$/,
-	/^cose-base$/,
-	/^change-file-extension$/,
-	/^git-metadata$/,
-	/^prettier-plugin-(astro|svelte)$/,
-	/^publish-browser-extension$/,
-	// Generic graphing
-	/^graphify-pi$/,
-	// oira666 — clearly a false positive
-	/^oira666_pi-claude-chrome-extension$/,
-];
-
-/**
- * Check if an entry is likely relevant to the pi ecosystem.
- */
-function isLikelyRelevant(entry: CategorizedEntry): boolean {
-	const name = entry.name || entry.id;
-
-	// Check against known false positive patterns
-	for (const pattern of KNOWN_FALSE_POSITIVE_PATTERNS) {
-		if (pattern.test(name)) return false;
-	}
-
-	return true;
-}
+const CATEGORY_ORDER = SHARED_CATEGORY_ORDER;
 
 // ─── Display name extraction ──────────────────────────────────────────────────
 
@@ -371,12 +255,9 @@ function generateFooter(entries: CategorizedEntry[]): string {
 
 /** Generate the full README.md content. */
 export function generateReadme(entries: CategorizedEntry[]): string {
-	// Filter out known false positives
-	const relevant = entries.filter(isLikelyRelevant);
-
 	// Group by category
 	const grouped = new Map<Category, CategorizedEntry[]>();
-	for (const entry of relevant) {
+	for (const entry of entries) {
 		const group = grouped.get(entry.category) ?? [];
 		group.push(entry);
 		grouped.set(entry.category, group);
@@ -385,7 +266,7 @@ export function generateReadme(entries: CategorizedEntry[]): string {
 	const sections: string[] = [];
 
 	// Header + TOC
-	sections.push(generateHeader(relevant, grouped));
+	sections.push(generateHeader(entries, grouped));
 
 	// Category sections (in order)
 	for (const cat of CATEGORY_ORDER) {
@@ -395,7 +276,7 @@ export function generateReadme(entries: CategorizedEntry[]): string {
 	}
 
 	// Footer
-	sections.push(generateFooter(relevant));
+	sections.push(generateFooter(entries));
 
 	return sections.join("\n");
 }
