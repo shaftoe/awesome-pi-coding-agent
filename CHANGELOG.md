@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.10] - 2026-04-23
+
+### Fixed
+
+- use same load logic for readme and astro
+
 ## [1.0.9] - 2026-04-23
 
 ### Fixed
@@ -85,6 +91,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove skills category
 - replace @types/bun with pinned bun-types to fix typecheck (#6)
 
+[1.0.10]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.0.9...v1.0.10
 [1.0.9]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.0.8...v1.0.9
 [1.0.8]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.0.7...v1.0.8
 [1.0.7]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.0.6...v1.0.7
