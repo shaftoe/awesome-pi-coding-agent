@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.4] - 2026-04-23
+
+### Changed
+
+- add workaround to shorten title for mobile view (#21)
+
+### Fixed
+
+- filter out oh-my-pi related projects
+
 ## [1.0.3] - 2026-04-22
 
 ### Fixed
@@ -45,6 +55,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove skills category
 - replace @types/bun with pinned bun-types to fix typecheck (#6)
 
+[1.0.4]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.0.3...v1.0.4
 [1.0.3]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.0.2...v1.0.3
 [1.0.2]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.0.0...v1.0.1
