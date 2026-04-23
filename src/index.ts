@@ -20,15 +20,9 @@ import { classifyEntry } from "./enrich/classify.ts";
 import { runEnrichment } from "./enrich/index.ts";
 import { enrichVideos } from "./enrich/videos.ts";
 import { generateReadme } from "./generate/readme.ts";
-import {
-	deleteEntry,
-	findEntryByGitHubUrl,
-	findEntryById,
-	findEntryByUrl,
-	loadAllEntries,
-	loadBlacklist,
-	saveEntry,
-} from "./lib/store.ts";
+import { addToBlacklist, loadBlacklist } from "./lib/blacklist.ts";
+import { buildIndices, checkDuplicate, findDuplicates, removeDuplicates } from "./lib/dedup.ts";
+import { deleteEntry, loadAllEntries, saveEntry } from "./lib/store.ts";
 import type { DiscoveryCandidate, Entry } from "./lib/types.ts";
 
 // biome-ignore lint/suspicious/noConsole: CLI output
@@ -49,23 +43,20 @@ const allDiscoverers: Discoverer[] = [
 // ─── Shared: save new candidates ───────────────────────────────────────────────
 
 function saveNewCandidates(candidates: DiscoveryCandidate[], statsMode: boolean = false): number {
-	const blacklist = loadBlacklist();
-	const blacklisted = new Set(blacklist.map((b) => b.url));
+	const indices = buildIndices();
 	let added = 0;
 	let filtered = 0;
 	let existing = 0;
 
 	for (const candidate of candidates) {
-		if (blacklisted.has(candidate.url)) continue;
-
-		// Relevance filter — skip candidates unrelated to the Pi coding agent
+		// Relevance filter — skip + auto-blacklist candidates unrelated to the Pi coding agent
 		const relevance = isRelevant(candidate);
 		if (!relevance.relevant) {
 			filtered++;
-			// Update stats for this candidate's query
 			updateQueryStats(candidate, "filtered");
 			if (!statsMode) {
-				log(`  🚫 Filtered: ${candidate.url} (${relevance.reason})`);
+				const blacklistedMarker = relevance.blacklisted ? " (auto-blacklisted)" : "";
+				log(`  🚫 Filtered: ${candidate.url} (${relevance.reason})${blacklistedMarker}`);
 			}
 			continue;
 		}
@@ -73,28 +64,14 @@ function saveNewCandidates(candidates: DiscoveryCandidate[], statsMode: boolean 
 		// Update stats — passed relevance
 		updateQueryStats(candidate, "relevant");
 
-		// Dedup: check by primary URL
-		if (findEntryByUrl(candidate.url)) {
+		// Dedup: check against all axes (URL, ID, GitHub URL)
+		const dup = checkDuplicate(candidate, indices);
+		if (dup.isDuplicate) {
 			existing++;
 			continue;
 		}
 
-		// Dedup: check by explicit ID (npm package names)
 		const id = candidate.id ?? extractId(candidate.url);
-		if (candidate.id && findEntryById(candidate.id)) {
-			existing++;
-			continue;
-		}
-
-		// Dedup: GitHub URLs found by GitHub discoverer may already exist
-		// as metadata.github_url in an npm-sourced entry
-		if (candidate.source === "github-search") {
-			if (findEntryByGitHubUrl(candidate.url)) {
-				existing++;
-				continue;
-			}
-		}
-
 		// Update stats — new entry
 		updateQueryStats(candidate, "new");
 
@@ -114,6 +91,18 @@ function saveNewCandidates(candidates: DiscoveryCandidate[], statsMode: boolean 
 
 		const classified = classifyEntry(entry);
 		saveEntry(classified.category, classified);
+
+		// Update indices so subsequent candidates dedup against this new entry
+		indices.byUrl.set(entry.url, { ...classified, category: classified.category });
+		indices.byId.set(classified.id, { ...classified, category: classified.category });
+		const meta = classified.metadata as Record<string, unknown>;
+		if (typeof meta["github_url"] === "string") {
+			indices.byGitHubUrl.set(meta["github_url"] as string, {
+				...classified,
+				category: classified.category,
+			});
+		}
+
 		added++;
 		log(`  ✅ ${classified.category}/${classified.id} (${candidate.source})`);
 	}
@@ -216,6 +205,8 @@ async function cmdPipeline(): Promise<void> {
 	log();
 	await cmdEnrich();
 	log();
+	cmdDedup();
+	log();
 	cmdGenerate();
 	log("\n✅ Pipeline complete!");
 }
@@ -239,7 +230,6 @@ function cmdPrune(): void {
 
 function cmdBlacklist(): void {
 	const sub = process.argv[3];
-	const blacklistPath = join(import.meta.dir, "..", "data", "blacklist.json");
 	const blacklist = loadBlacklist();
 
 	if (!sub || sub === "list") {
@@ -257,18 +247,19 @@ function cmdBlacklist(): void {
 			log("Usage: bun run src/index.ts blacklist add <url> [reason]");
 			return;
 		}
-		if (blacklist.some((b) => b.url === url)) {
+
+		const added = addToBlacklist(url, reason);
+		if (!added) {
 			log(`Already blacklisted: ${url}`);
 			return;
 		}
-		blacklist.push({ url, reason });
-		writeFileSync(blacklistPath, `${JSON.stringify(blacklist, null, "\t")}\n`, "utf-8");
 
 		// Also delete the entry if it exists in data
-		const entry = findEntryByUrl(url);
-		if (entry) {
-			deleteEntry(entry.category, entry.id);
-			log(`Removed entry: ${entry.category}/${entry.id}`);
+		const indices = buildIndices();
+		const existing = indices.byUrl.get(url);
+		if (existing) {
+			deleteEntry(existing.category, existing.id);
+			log(`Removed entry: ${existing.category}/${existing.id}`);
 		}
 
 		log(`Blacklisted: ${url} — ${reason}`);
@@ -279,6 +270,35 @@ function cmdBlacklist(): void {
   bun run src/index.ts blacklist              List blacklisted URLs
   bun run src/index.ts blacklist add <url> [reason]  Add to blacklist
 `);
+}
+
+function cmdDedup(): void {
+	const dryRun = process.argv.includes("--dry-run");
+
+	const groups = findDuplicates();
+	if (groups.length === 0) {
+		log("✅ No duplicates found.");
+		return;
+	}
+
+	let totalDups = 0;
+	for (const group of groups) {
+		for (const dup of group.duplicates) {
+			log(
+				`  ${dryRun ? "🔍" : "🗑️"} ${dup.category}/${dup.id} (duplicate of ${group.keeper.category}/${group.keeper.id} via ${group.axis})`,
+			);
+			totalDups++;
+		}
+	}
+
+	if (dryRun) {
+		log(
+			`\n🔍 Found ${totalDups} duplicate${totalDups === 1 ? "" : "s"} (dry run, no changes made).`,
+		);
+	} else {
+		const removed = removeDuplicates();
+		log(`\n🗑️  Removed ${removed} duplicate${removed === 1 ? "" : "s"}.`);
+	}
 }
 
 function cmdHelp(): void {
@@ -295,6 +315,8 @@ Commands:
   generate    Regenerate README.md from entry data
   prune       Remove entries that don't relate to the Pi coding agent
   blacklist   Manage the URL blacklist (list / add)
+  dedup       Find and remove duplicate entries
+              Options: --dry-run  Show duplicates without removing them
   pipeline    Run full pipeline (discover → enrich → generate)
   help        Show this help
 `);
@@ -341,6 +363,7 @@ const commands: Record<string, () => void | Promise<void>> = {
 	generate: cmdGenerate,
 	prune: cmdPrune,
 	blacklist: cmdBlacklist,
+	dedup: cmdDedup,
 	pipeline: cmdPipeline,
 	help: cmdHelp,
 };

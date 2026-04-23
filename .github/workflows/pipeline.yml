@@ -28,6 +28,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
+      - name: Check for remaining duplicates
+        run: bun run dedup --dry-run
+        continue-on-error: true
+
       - name: Detect changed data files
         id: changes
         run: bun run src/ci/detect-changes.ts
@@ -74,8 +78,9 @@ jobs:
 
             For each changed data entry, verify and **fix in-place**:
             1. **Relevance**: The entry MUST be about the Pi coding agent (pi.dev). If it's about Raspberry Pi, GPIO, embedded hardware, or clearly unrelated — run `bun run blacklist add <url> <reason>` to blacklist and remove it.
-            2. **Health score accuracy**: health.score (0-100) maps to health.level as: active ≥70, maintained ≥40, stale ≥15, dead <15. If inconsistent with metadata (last_commit date, stars, forks, is_archived), edit the JSON file directly to fix health.score and health.level.
-            3. **Category correctness**: The category is determined by the subfolder under data/ (e.g. data/extensions/ → category=extension). If the entry belongs in a different category, move the JSON file to the correct folder and update the category field in the JSON file.
+            2. **Duplicates**: Check for duplicate entries. If two entries share the same URL, ID, or GitHub URL, run `bun run dedup` to remove the lower-health duplicate. Use `bun run dedup --dry-run` first to inspect.
+            3. **Health score accuracy**: health.score (0-100) maps to health.level as: active ≥70, maintained ≥40, stale ≥15, dead <15. If inconsistent with metadata (last_commit date, stars, forks, is_archived), edit the JSON file directly to fix health.score and health.level.
+            4. **Category correctness**: The category is determined by the subfolder under data/ (e.g. data/extensions/ → category=extension). If the entry belongs in a different category, move the JSON file to the correct folder and update the category field in the JSON file.
 
             Make all fixes directly. Do not just report issues — edit files, run commands, and resolve them.
           load_builtin_extensions: "false"

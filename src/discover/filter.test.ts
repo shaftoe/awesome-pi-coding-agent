@@ -3,8 +3,26 @@
  * unrelated candidates (Raspberry Pi, mathematical π, PixiJS, Pi Network,
  * AVEVA PI, Tiptap, SAP, Pimcore, and other false positives).
  */
-import { describe, expect, it } from "bun:test";
+import { afterEach, beforeEach, describe, expect, it, mock } from "bun:test";
 import { isRelevant } from "./filter.ts";
+
+// ─── Mock blacklist module ─────────────────────────────────────────────────────
+// Tests must not write to the real blacklist.json, so we mock out the blacklist
+// operations that the filter calls.
+
+const mockBlacklist = new Set<string>();
+
+mock.module("../lib/blacklist.ts", () => ({
+	isBlacklisted: (url: string) => mockBlacklist.has(url),
+	addToBlacklist: (url: string, _reason: string) => {
+		if (mockBlacklist.has(url)) return false;
+		mockBlacklist.add(url);
+		return true;
+	},
+}));
+
+beforeEach(() => mockBlacklist.clear());
+afterEach(() => mockBlacklist.clear());
 
 // ─── Helper ────────────────────────────────────────────────────────────────────
 

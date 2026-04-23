@@ -18,6 +18,7 @@
     "test": "bun test",
     "clean": "git rm -rf data/skills/ data/extensions/ data/providers/ data/templates/ data/themes/ data/tools data/videos",
     "blacklist": "bun run src/index.ts blacklist",
+    "dedup": "bun run src/index.ts dedup",
     "semantic-release": "semantic-release"
   },
   "devDependencies": {

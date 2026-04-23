@@ -7,14 +7,7 @@
  */
 import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
-import type {
-	BlacklistEntry,
-	CATEGORIES,
-	CategorizedEntry,
-	Category,
-	Entry,
-	ManualOverride,
-} from "./types.ts";
+import type { CATEGORIES, CategorizedEntry, Category, Entry, ManualOverride } from "./types.ts";
 
 const DATA_DIR = join(import.meta.dir, "..", "..", "data");
 
@@ -157,13 +150,6 @@ export function deleteEntry(category: Category, id: string): void {
 }
 
 // ─── Metadata files ────────────────────────────────────────────────────────────
-
-/** Load the blacklist. */
-export function loadBlacklist(): BlacklistEntry[] {
-	const path = join(DATA_DIR, "blacklist.json");
-	if (!existsSync(path)) return [];
-	return JSON.parse(readFileSync(path, "utf-8")) as BlacklistEntry[];
-}
 
 /** Load manual overrides. */
 export function loadManualOverrides(): ManualOverride[] {

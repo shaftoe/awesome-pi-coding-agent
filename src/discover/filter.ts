@@ -3,8 +3,9 @@
  *
  * Three-layer filtering:
  *   Layer 1 — Hard blocks:  blocked scopes, names, and strong negative signals
+ *              → auto-blacklisted when rejected
  *   Layer 2 — Positive signals:  explicit Pi coding agent markers override all
- *   Layer 3 — Default:  accept ambiguous candidates (blacklist catches stragglers)
+ *   Layer 3 — Default:  accept ambiguous candidates
  *
  * The heuristics below are derived from manual review of 2600+ discovered entries.
  * See data/blacklist.json for edge cases not worth encoding as rules.
@@ -19,6 +20,8 @@
  *   - Tiptap rich text editor extensions
  *   - SAP/OpenUI5, Pimcore CMS, Node-RED, and other unrelated ecosystems
  */
+
+import { addToBlacklist, isBlacklisted } from "../lib/blacklist.ts";
 
 // ─── Negative signals ──────────────────────────────────────────────────────────
 
@@ -234,6 +237,8 @@ export interface RelevanceResult {
 	relevant: boolean;
 	/** Human-readable reason for rejection (empty if relevant). */
 	reason: string;
+	/** Whether the candidate was auto-blacklisted during this check. */
+	blacklisted: boolean;
 }
 
 // ─── Main filter ───────────────────────────────────────────────────────────────
@@ -267,6 +272,7 @@ export function isRelevant(candidate: {
 	id?: string;
 	metadata?: Record<string, unknown>;
 }): RelevanceResult {
+	const rawUrl = candidate.url;
 	const url = candidate.url.toLowerCase();
 	const name = (candidate.id ?? extractNameFromUrl(candidate.url)).toLowerCase();
 	const description = String(candidate.metadata?.["description"] ?? "").toLowerCase();
@@ -279,23 +285,28 @@ export function isRelevant(candidate: {
 
 	const combined = `${name} ${description}`;
 
+	// Fast path: skip candidates already in the blacklist
+	if (isBlacklisted(rawUrl)) {
+		return { relevant: false, reason: "already blacklisted", blacklisted: false };
+	}
+
 	// ── Layer 1: Hard blocks ──────────────────────────────────────────────────
 
 	// 1a. Blocked scopes (@stdlib/*, @pixi/*, @tiptap/*, etc.)
 	const scope = name.startsWith("@") ? name.split("/")[0] : null;
 	if (scope && BLOCKED_SCOPES.has(scope)) {
-		return { relevant: false, reason: `blocked scope: ${scope}` };
+		return reject(rawUrl, `blocked scope: ${scope}`);
 	}
 
 	// 1a. Blocked exact names
 	if (BLOCKED_NAMES.has(name)) {
-		return { relevant: false, reason: `blocked name: ${name}` };
+		return reject(rawUrl, `blocked name: ${name}`);
 	}
 
 	// 1b. Raspberry Pi detection — in name/description/URL/topics
 	for (const signal of RASPBERRY_PI_SIGNALS) {
 		if (combined.includes(signal) || url.includes(signal)) {
-			return { relevant: false, reason: `raspberry pi signal: "${signal}"` };
+			return reject(rawUrl, `raspberry pi signal: "${signal}"`);
 		}
 	}
 
@@ -303,63 +314,63 @@ export function isRelevant(candidate: {
 	const rpiTopics = ["raspberry-pi", "raspberry-pi-gpio", "rp2040", "i2c", "gpio", "beaglebone"];
 	for (const topic of topics) {
 		if (rpiTopics.includes(topic)) {
-			return { relevant: false, reason: `raspberry pi topic: "${topic}"` };
+			return reject(rawUrl, `raspberry pi topic: "${topic}"`);
 		}
 	}
 
 	// 1c. Mathematical π detection — name matches and description signals
 	if (MATH_PI_NAMES.has(name)) {
-		return { relevant: false, reason: `mathematical pi: "${name}"` };
+		return reject(rawUrl, `mathematical pi: "${name}"`);
 	}
 	for (const signal of MATH_PI_SIGNALS) {
 		if (combined.includes(signal)) {
-			return { relevant: false, reason: `mathematical pi signal: "${signal}"` };
+			return reject(rawUrl, `mathematical pi signal: "${signal}"`);
 		}
 	}
 
 	// 1d. PixiJS game library detection — in name/URL
 	for (const signal of PIXIJS_SIGNALS) {
 		if (name.includes(signal.toLowerCase()) || url.includes(signal.toLowerCase())) {
-			return { relevant: false, reason: `pixijs game library signal: "${signal}"` };
+			return reject(rawUrl, `pixijs game library signal: "${signal}"`);
 		}
 	}
 	// Also check topics for pixijs
 	if (topics.some((t) => t === "pixi" || t === "pixijs" || t === "pixi.js")) {
-		return { relevant: false, reason: "pixijs topic" };
+		return reject(rawUrl, "pixijs topic");
 	}
 
 	// 1e. Pi Network cryptocurrency detection
 	for (const signal of PI_NETWORK_SIGNALS) {
 		if (combined.includes(signal)) {
-			return { relevant: false, reason: `pi network crypto signal: "${signal}"` };
+			return reject(rawUrl, `pi network crypto signal: "${signal}"`);
 		}
 	}
 
 	// 1f. AVEVA PI / industrial systems detection
 	for (const signal of INDUSTRIAL_PI_SIGNALS) {
 		if (combined.includes(signal)) {
-			return { relevant: false, reason: `industrial pi signal: "${signal}"` };
+			return reject(rawUrl, `industrial pi signal: "${signal}"`);
 		}
 	}
 
 	// 1g. Unrelated ecosystem detection
 	for (const signal of UNRELATED_ECOSYSTEMS) {
 		if (combined.includes(signal.toLowerCase()) || url.includes(signal.toLowerCase())) {
-			return { relevant: false, reason: `unrelated ecosystem: "${signal}"` };
+			return reject(rawUrl, `unrelated ecosystem: "${signal}"`);
 		}
 	}
 
 	// 1h. Non-compatible fork detection (oh-my-pi ecosystem)
 	for (const signal of FORK_SIGNALS) {
 		if (combined.includes(signal) || url.includes(signal)) {
-			return { relevant: false, reason: `non-compatible fork signal: "${signal}"` };
+			return reject(rawUrl, `non-compatible fork signal: "${signal}"`);
 		}
 	}
 
 	// 1i. OpenAPI specification tooling detection
 	for (const signal of OPENAPI_SIGNALS) {
 		if (combined.includes(signal.toLowerCase()) || url.includes(signal.toLowerCase())) {
-			return { relevant: false, reason: `openapi specification tooling: "${signal}"` };
+			return reject(rawUrl, `openapi specification tooling: "${signal}"`);
 		}
 	}
 
@@ -368,14 +379,14 @@ export function isRelevant(candidate: {
 	// 2a. Check name patterns
 	for (const pattern of POSITIVE_NAME_PATTERNS) {
 		if (pattern.test(name)) {
-			return { relevant: true, reason: "" };
+			return { relevant: true, reason: "", blacklisted: false };
 		}
 	}
 
 	// 2b. Check combined text for positive signals
 	for (const signal of POSITIVE_TEXT_SIGNALS) {
 		if (combined.includes(signal)) {
-			return { relevant: true, reason: "" };
+			return { relevant: true, reason: "", blacklisted: false };
 		}
 	}
 
@@ -385,17 +396,17 @@ export function isRelevant(candidate: {
 			(t) => t === "pi-agent" || t === "pi-coding-agent" || t === "pi-coding" || t === "pi", // bare "pi" topic is used by the Pi coding agent community
 		)
 	) {
-		return { relevant: true, reason: "" };
+		return { relevant: true, reason: "", blacklisted: false };
 	}
 
 	// 2d. Check for pi-package keyword (npm convention for Pi coding agent packages)
 	if (keywords.some((k) => k === "pi-package" || k === "pi-extension" || k === "pi-theme")) {
-		return { relevant: true, reason: "" };
+		return { relevant: true, reason: "", blacklisted: false };
 	}
 
 	// ── Layer 3: Default accept ───────────────────────────────────────────────
-	// Ambiguous candidates pass through — blacklist catches the stragglers.
-	return { relevant: true, reason: "" };
+	// Ambiguous candidates pass through.
+	return { relevant: true, reason: "", blacklisted: false };
 }
 
 /**
@@ -424,6 +435,15 @@ export function isEntryRelevant(entry: {
 }
 
 // ─── Helpers ───────────────────────────────────────────────────────────────────
+
+/**
+ * Reject a candidate and auto-blacklist it.
+ * Returns a RelevanceResult with `blacklisted: true` if newly added.
+ */
+function reject(url: string, reason: string): RelevanceResult {
+	const added = addToBlacklist(url, reason);
+	return { relevant: false, reason, blacklisted: added };
+}
 
 function extractNameFromUrl(url: string): string {
 	if (url.includes("npmjs.com/package/")) {
