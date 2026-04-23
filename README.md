@@ -8,7 +8,7 @@ Content available as Markdown here and as website (with search feature) live at 
 
 ## Stats
 
-**2528 resources** indexed · **1158** active · **2498** maintained · [Updated daily.](./.github/workflows/pipeline.yml)
+**2527 resources** indexed · **1157** active · **2497** maintained · [Updated daily.](./.github/workflows/pipeline.yml)
 
 Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 
@@ -17,7 +17,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Extensions](#extensions) — 1182
 - [Tools & Utilities](#tools--utilities) — 852
 - [Themes](#themes) — 134
-- [Providers & Integrations](#providers--integrations) — 243
+- [Providers & Integrations](#providers--integrations) — 242
 - [Templates](#templates) — 14
 - [Videos & Tutorials](#videos--tutorials) — 103
 
@@ -2317,7 +2317,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-ollama-cloud](https://github.com/fgrehm/pi-ollama-cloud) | Ollama Cloud plugin for Pi coding agent (API Key based) | ⭐3 | 2d ago |
 | 🟢 | [pi-ollama-keyring](https://www.npmjs.com/package/pi-ollama-keyring) | Ollama cloud provider for pi-coding-agent with multi-key rotation, live model discovery, and persistent key-pool management | ⭐1 | 14d ago |
 | 🟢 | [pi-playground](https://github.com/serejke/pi-playground) | Hands-on playground for the pi coding agent's core primitives (pi-ai, pi-agent-core, pi-tui). Demos + a twitter-research CLI. |  | today |
-| 🟢 | [pi-provider-koji](https://www.npmjs.com/package/pi-provider-koji) | Pi agent extension for koji local AI server auto-discovery and model configuration |  | 4d ago |
+| 🟢 | [pi-provider-koji](https://www.npmjs.com/package/pi-provider-koji) | Pi agent extension for koji local AI server auto-discovery and model configuration |  | 5d ago |
 | 🟢 | [pi-provider-utils](https://www.npmjs.com/package/pi-provider-utils) | Shared provider mirror, stream, and agent-path helpers for Pi extension packages |  | 26d ago |
 | 🟢 | [pi-provider-vertex-anthropic](https://github.com/danielcherubini/pi-provider-vertex-anthropic) | Pi agent extension for Claude models via Google Cloud Vertex AI |  | 6d ago |
 | 🟢 | [pi-provider-vertex-anthropic](https://www.npmjs.com/package/pi-provider-vertex-anthropic) | Pi agent extension for Claude models via Google Cloud Vertex AI |  | yesterday |
@@ -2343,7 +2343,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [system-designer](https://github.com/Gnc0/system-designer) | game system designer skill, based on pi-mono. | ⭐1 | 15d ago |
 | 🟢 | [tachi-code-reviewer](https://github.com/viriciaclaw/tachi-code-reviewer) | @tachi/code-reviewer — A2A-compliant code review agent built on pi-agent-core |  | 15d ago |
 | 🟢 | [temporal-pi-tui](https://github.com/gregmercer/temporal-pi-tui) | A music-obsessed AI agent in your terminal. Built using pi-mono packages. |  | 20d ago |
-| 🟢 | [test-pi-coding-agent-action](https://github.com/shaftoe/test-pi-coding-agent-action) | Testing repo to help test and develop shaftoe/pi-coding-agent-action GitHub Action |  | 2d ago |
 | 🟢 | [tokely](https://www.npmjs.com/package/tokely) | CLI for generating yearly usage heatmaps for Claude Code, Codex, Cursor, Gemini CLI, Open Code, and Pi Coding Agent. |  | 17d ago |
 | 🟢 | [xclaw](https://github.com/xy200303/xclaw) | xclaw：一个用TypeScript、Bun和pi-mono构建的AI助手CLI | ⭐1 | yesterday |
 | 🟡 | [pi-voice](https://www.npmjs.com/package/pi-voice) | Voice interface for pi coding agent | ⭐45 | 2mo ago |
@@ -2603,6 +2602,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 
 ---
 
-- Generated on 2026-04-23 from 2528 entries (npm-search: 1501, github-search: 924, youtube-search: 103)
+- Generated on 2026-04-23 from 2527 entries (npm-search: 1501, github-search: 923, youtube-search: 103)
 - Auto-updated by [awesome-pi-coding-agent](https://github.com/shaftoe/awesome-pi-coding-agent)
 

@@ -54958,5 +54958,9 @@
 	{
 		"url": "https://github.com/actions-marketplace-validations/shaftoe_pi-coding-agent-action",
 		"reason": "some kind of fork, not interesting"
+	},
+	{
+		"url": "https://github.com/shaftoe/test-pi-coding-agent-action",
+		"reason": "testing repo, not relevant"
 	}
 ]
