@@ -9,6 +9,9 @@ pre-commit:
       stage_fixed: true
     validate:
       run: bun run check
+    generate:
+      run: bun run generate
+      stage_fixed: true
 
 pre-push:
   commands:

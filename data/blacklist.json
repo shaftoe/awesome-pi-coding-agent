@@ -336,6 +336,10 @@
 		"reason": "No Pi coding agent signals in name/description/metadata"
 	},
 	{
+		"url": "https://github.com/can1357/oh-my-pi",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
+	},
+	{
 		"url": "https://github.com/CanecaDX/pi2_projeto1_monociclo",
 		"reason": "University project (Projeto Integrador II), not Pi coding agent"
 	},
@@ -382,6 +386,10 @@
 	{
 		"url": "https://github.com/Chameleon-Labs-LLC/agent-deploy",
 		"reason": "No Pi coding agent signals in name/description/metadata"
+	},
+	{
+		"url": "https://github.com/Changhochien/oh-my-pi",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
 	},
 	{
 		"url": "https://github.com/CharlieGreenman/pixel-illustrator-mono-repo",
@@ -1580,6 +1588,10 @@
 		"reason": "No Pi coding agent signals in name/description/metadata"
 	},
 	{
+		"url": "https://github.com/ProbabilityEngineer/pi-qwen-coding-plan",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
+	},
+	{
 		"url": "https://github.com/puffdood/pixel-sprout-monorepo",
 		"reason": "No Pi coding agent signals in name/description/metadata"
 	},
@@ -2462,6 +2474,10 @@
 	{
 		"url": "https://www.npmjs.com/package/@a5c-ai/babysitter-github",
 		"reason": "No Pi coding agent signals in name/description/metadata"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@a5c-ai/babysitter-omp",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
 	},
 	{
 		"url": "https://www.npmjs.com/package/@a5c-ai/babysitter-openclaw",
@@ -15648,6 +15664,10 @@
 		"reason": "No Pi coding agent signals in name/description/metadata"
 	},
 	{
+		"url": "https://www.npmjs.com/package/@middlendian/omp-context-mode-extension",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
+	},
+	{
 		"url": "https://www.npmjs.com/package/@midscene/core",
 		"reason": "No Pi coding agent signals in name/description/metadata"
 	},
@@ -16604,6 +16624,10 @@
 		"reason": "No Pi coding agent signals in name/description/metadata"
 	},
 	{
+		"url": "https://www.npmjs.com/package/@nghyane/pi-agent-core",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
+	},
+	{
 		"url": "https://www.npmjs.com/package/@nghyane/pi-coding-agent",
 		"reason": "Unmodified fork/republish of pi-mono, no added value"
 	},
@@ -16894,6 +16918,50 @@
 	{
 		"url": "https://www.npmjs.com/package/@oh-gc/cli",
 		"reason": "No Pi coding agent signals in name/description/metadata"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@oh-my-pi/anthropic-websearch",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@oh-my-pi/cli",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@oh-my-pi/omp-stats",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@oh-my-pi/pi-agent-core",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@oh-my-pi/pi-ai",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@oh-my-pi/pi-coding-agent",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@oh-my-pi/pi-natives",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@oh-my-pi/pi-tui",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@oh-my-pi/pi-web-ui",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@oh-my-pi/subagents",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@oh-my-pi/swarm-extension",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
 	},
 	{
 		"url": "https://www.npmjs.com/package/@ohah/agent-devtools",
@@ -40328,6 +40396,10 @@
 		"reason": "generic package with no Pi ecosystem signal"
 	},
 	{
+		"url": "https://www.npmjs.com/package/pi-session-title",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
+	},
+	{
 		"url": "https://www.npmjs.com/package/pi-socket-air-load-hot",
 		"reason": "generic package with no Pi ecosystem signal"
 	},
@@ -44082,6 +44154,10 @@
 	{
 		"url": "https://www.npmjs.com/package/superturtle",
 		"reason": "No Pi coding agent signals in name/description/metadata"
+	},
+	{
+		"url": "https://www.npmjs.com/package/supipowers",
+		"reason": "Non-compatible fork (oh-my-pi ecosystem)"
 	},
 	{
 		"url": "https://www.npmjs.com/package/supradough",

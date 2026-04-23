@@ -26,6 +26,7 @@ const BLOCKED_SCOPES = new Set([
 	"@sprucelabs",
 	"@digipair",
 	"@bankofbots",
+	"@oh-my-pi", // Non-compatible fork — see https://github.com/can1357/oh-my-pi
 ]);
 
 /** Exact package/repo names that are definitely unrelated. */
@@ -41,6 +42,9 @@ const BLOCKED_NAMES = new Set([
 	"storybook-builder-rsbuild",
 	"glsl-token-defines",
 ]);
+
+/** Text signals that indicate a non-compatible fork (oh-my-pi ecosystem). */
+const FORK_SIGNALS = ["oh-my-pi"];
 
 // ─── Positive signals ──────────────────────────────────────────────────────────
 
@@ -141,6 +145,13 @@ export function isRelevant(candidate: {
 			if (topic === signal || topic.includes(signal)) {
 				return { relevant: false, reason: `raspberry pi topic: "${topic}"` };
 			}
+		}
+	}
+
+	// Non-compatible fork detection (oh-my-pi ecosystem)
+	for (const signal of FORK_SIGNALS) {
+		if (combined.includes(signal) || url.includes(signal)) {
+			return { relevant: false, reason: `non-compatible fork signal: "${signal}"` };
 		}
 	}
 
