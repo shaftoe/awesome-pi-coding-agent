@@ -1,19 +1,122 @@
 /**
  * Relevance filter — reject candidates that are clearly not about the Pi coding agent.
  *
- * Keeps it simple. Edge cases go in data/blacklist.json instead of adding more
- heuristics. The goal is to catch the obvious junk:
- *   - Raspberry Pi / RP2040 hardware projects
- *   - Unrelated npm packages that matched by accident
- *   - Generic "agent" / "skill" / "extension" packages from other ecosystems
+ * Three-layer filtering:
+ *   Layer 1 — Hard blocks:  blocked scopes, names, and strong negative signals
+ *   Layer 2 — Positive signals:  explicit Pi coding agent markers override all
+ *   Layer 3 — Default:  accept ambiguous candidates (blacklist catches stragglers)
  *
- * Anything ambiguous is let through — we prune later or blacklist manually.
+ * The heuristics below are derived from manual review of 2600+ discovered entries.
+ * See data/blacklist.json for edge cases not worth encoding as rules.
+ *
+ * Key false-positive patterns this filter catches:
+ *   - Raspberry Pi / RP2040 / I2C hardware projects
+ *   - Mathematical π libraries (const-pi, generate-pi, etc.)
+ *   - PixiJS game library ecosystem (@pixi/*, pixi-tiledmap, etc.)
+ *   - Pi Network cryptocurrency (pi-network, pinet)
+ *   - AVEVA PI / industrial SCADA systems
+ *   - Generic agent tools with no Pi support (Claude-only, Cursor-only, etc.)
+ *   - Tiptap rich text editor extensions
+ *   - SAP/OpenUI5, Pimcore CMS, Node-RED, and other unrelated ecosystems
  */
 
 // ─── Negative signals ──────────────────────────────────────────────────────────
 
 /** Strings in name/description that mean "Raspberry Pi, not Pi coding agent". */
-const RASPBERRY_PI_SIGNALS = ["raspberry", "rp2040", "raspberrypi", "wiringpi", "pigpio"];
+const RASPBERRY_PI_SIGNALS = [
+	"raspberry",
+	"rp2040",
+	"raspberrypi",
+	"wiringpi",
+	"pigpio",
+	"beaglebone", // ARM board often paired with RPi
+	"smbus", // I2C/SMBus hardware
+];
+
+/**
+ * Package/repo names that are mathematical π, not Pi coding agent.
+ * Exact matches only (lowercased).
+ */
+const MATH_PI_NAMES = new Set([
+	"pi",
+	"const-pi",
+	"generate-pi",
+	"stringify-pi",
+	"pi-digit",
+	"pi-digits",
+	"compute-pi",
+	"calc-pi",
+	"pi-approximation",
+	"pi-calculator",
+]);
+
+/**
+ * Text signals in description/keywords that indicate mathematical π, not Pi coding agent.
+ * These are case-insensitive substring checks.
+ */
+const MATH_PI_SIGNALS = [
+	"nth digit",
+	"digits of pi",
+	"irrational number",
+	"mathematical constant",
+	"value of π",
+	"value of pi",
+	"calculate pi",
+	"compute pi",
+	"decimal places of pi",
+];
+
+/**
+ * Package scopes/names that are the PixiJS game library, not Pi coding agent.
+ * PixiJS uses "pixi" in many packages and is a frequent false positive.
+ */
+const PIXIJS_SIGNALS = [
+	"@pixi/",
+	"pixi.js",
+	"pixijs",
+	"pixi-tiledmap",
+	"pixi-animate",
+	"pixi-spine",
+	"pixi-sound",
+	"pixi-viewport",
+];
+
+/**
+ * Text signals indicating Pi Network cryptocurrency, not Pi coding agent.
+ */
+const PI_NETWORK_SIGNALS = [
+	"pi network",
+	"pi-network",
+	"pi cryptocurrency",
+	"pi blockchain",
+	"pi coin",
+	"pi wallet",
+	"pi app",
+	"pinet",
+];
+
+/**
+ * Text signals indicating AVEVA PI / industrial systems, not Pi coding agent.
+ */
+const INDUSTRIAL_PI_SIGNALS = ["aveva", "pi system", "osisoft", "pi server", "historian"];
+
+/**
+ * Ecosystems that use "extension", "skill", or "agent" in their packages
+ * but are completely unrelated to Pi coding agent.
+ */
+const UNRELATED_ECOSYSTEMS = [
+	"@tiptap/", // Rich text editor
+	"tiptap-extension",
+	"pimcore", // CMS
+	"node-red-contrib", // Node-RED flows
+	"@ui5-language-assistant", // SAP UI5
+	"@opentiny/", // Vue UI lib
+	"storybook", // Component stories
+	"@capawesome/", // Capacitor plugins
+	"@adobe/reactor-", // Adobe Launch
+	"@netlify/", // Netlify platform
+	"@tomtom-org/", // TomTom maps
+];
 
 /** Package scopes/orgs that are never about Pi coding agent. */
 const BLOCKED_SCOPES = new Set([
@@ -27,6 +130,17 @@ const BLOCKED_SCOPES = new Set([
 	"@digipair",
 	"@bankofbots",
 	"@oh-my-pi", // Non-compatible fork — see https://github.com/can1357/oh-my-pi
+	"@pixi", // PixiJS game library
+	"@tiptap", // Rich text editor
+	"@opentiny", // Enterprise Vue UI
+	"@capawesome", // Capacitor mobile plugins
+	"@adobe/reactor", // Adobe Launch extension system
+	"@ui5-language-assistant", // SAP UI5
+	"@redux-devtools", // Redux devtools
+	"@substrate", // Blockchain framework
+	"@mux", // Video analytics
+	"@vscode", // VS Code built-in
+	"@lexical", // Meta's editor
 ]);
 
 /** Exact package/repo names that are definitely unrelated. */
@@ -41,6 +155,14 @@ const BLOCKED_NAMES = new Set([
 	"http-cookie-agent",
 	"storybook-builder-rsbuild",
 	"glsl-token-defines",
+	"pi", // Mathematical constant
+	"const-pi",
+	"generate-pi",
+	"stringify-pi",
+	"d3-path", // D3.js SVG
+	"dogapi", // Datadog
+	"socks-proxy-agent", // SOCKS proxy
+	"i2c-bus", // Raspberry Pi I2C hardware
 ]);
 
 /** Text signals that indicate a non-compatible fork (oh-my-pi ecosystem). */
@@ -99,10 +221,26 @@ export interface RelevanceResult {
 /**
  * Check whether a discovery candidate is relevant to the Pi coding agent.
  *
- * Logic:
- * 1. Hard block on blocked scopes, names, and Raspberry Pi signals
- * 2. Accept if positive signals are present
- * 3. Default: accept (let ambiguous stuff through — blacklist handles the rest)
+ * Logic (evaluated in order — first match wins):
+ *
+ *   Layer 1 — Hard blocks (reject immediately):
+ *     1a. Blocked scopes/names
+ *     1b. Raspberry Pi hardware signals
+ *     1c. Mathematical π signals
+ *     1d. PixiJS game library signals
+ *     1e. Pi Network cryptocurrency signals
+ *     1f. AVEVA PI / industrial SCADA signals
+ *     1g. Unrelated ecosystem signals (Tiptap, SAP, Pimcore, etc.)
+ *     1h. Non-compatible fork signals (oh-my-pi)
+ *
+ *   Layer 2 — Positive signals (accept immediately):
+ *     2a. Pi coding agent name patterns
+ *     2b. Pi coding agent text signals in description
+ *     2c. Pi-related GitHub topics
+ *     2d. pi-package keyword (npm convention)
+ *
+ *   Layer 3 — Default accept:
+ *     Ambiguous candidates pass through — blacklist catches the stragglers.
  */
 export function isRelevant(candidate: {
 	url: string;
@@ -115,23 +253,26 @@ export function isRelevant(candidate: {
 	const topics = ((candidate.metadata?.["topics"] as string[] | undefined) ?? []).map((t) =>
 		t.toLowerCase(),
 	);
+	const keywords = ((candidate.metadata?.["keywords"] as string[] | undefined) ?? []).map((k) =>
+		k.toLowerCase(),
+	);
 
 	const combined = `${name} ${description}`;
 
 	// ── Layer 1: Hard blocks ──────────────────────────────────────────────────
 
-	// Blocked scopes (@stdlib/*, @aws-sdk/*, etc.)
+	// 1a. Blocked scopes (@stdlib/*, @pixi/*, @tiptap/*, etc.)
 	const scope = name.startsWith("@") ? name.split("/")[0] : null;
 	if (scope && BLOCKED_SCOPES.has(scope)) {
 		return { relevant: false, reason: `blocked scope: ${scope}` };
 	}
 
-	// Blocked exact names
+	// 1a. Blocked exact names
 	if (BLOCKED_NAMES.has(name)) {
 		return { relevant: false, reason: `blocked name: ${name}` };
 	}
 
-	// Raspberry Pi detection — in name/description/URL/topics
+	// 1b. Raspberry Pi detection — in name/description/URL/topics
 	for (const signal of RASPBERRY_PI_SIGNALS) {
 		if (combined.includes(signal) || url.includes(signal)) {
 			return { relevant: false, reason: `raspberry pi signal: "${signal}"` };
@@ -139,16 +280,56 @@ export function isRelevant(candidate: {
 	}
 
 	// Topics are a strong RPi signal (repos tag themselves explicitly)
-	const rpiTopics = ["raspberry-pi", "raspberry-pi-gpio", "rp2040"];
+	const rpiTopics = ["raspberry-pi", "raspberry-pi-gpio", "rp2040", "i2c", "gpio", "beaglebone"];
 	for (const topic of topics) {
-		for (const signal of rpiTopics) {
-			if (topic === signal || topic.includes(signal)) {
-				return { relevant: false, reason: `raspberry pi topic: "${topic}"` };
-			}
+		if (rpiTopics.includes(topic)) {
+			return { relevant: false, reason: `raspberry pi topic: "${topic}"` };
 		}
 	}
 
-	// Non-compatible fork detection (oh-my-pi ecosystem)
+	// 1c. Mathematical π detection — name matches and description signals
+	if (MATH_PI_NAMES.has(name)) {
+		return { relevant: false, reason: `mathematical pi: "${name}"` };
+	}
+	for (const signal of MATH_PI_SIGNALS) {
+		if (combined.includes(signal)) {
+			return { relevant: false, reason: `mathematical pi signal: "${signal}"` };
+		}
+	}
+
+	// 1d. PixiJS game library detection — in name/URL
+	for (const signal of PIXIJS_SIGNALS) {
+		if (name.includes(signal.toLowerCase()) || url.includes(signal.toLowerCase())) {
+			return { relevant: false, reason: `pixijs game library signal: "${signal}"` };
+		}
+	}
+	// Also check topics for pixijs
+	if (topics.some((t) => t === "pixi" || t === "pixijs" || t === "pixi.js")) {
+		return { relevant: false, reason: "pixijs topic" };
+	}
+
+	// 1e. Pi Network cryptocurrency detection
+	for (const signal of PI_NETWORK_SIGNALS) {
+		if (combined.includes(signal)) {
+			return { relevant: false, reason: `pi network crypto signal: "${signal}"` };
+		}
+	}
+
+	// 1f. AVEVA PI / industrial systems detection
+	for (const signal of INDUSTRIAL_PI_SIGNALS) {
+		if (combined.includes(signal)) {
+			return { relevant: false, reason: `industrial pi signal: "${signal}"` };
+		}
+	}
+
+	// 1g. Unrelated ecosystem detection
+	for (const signal of UNRELATED_ECOSYSTEMS) {
+		if (combined.includes(signal.toLowerCase()) || url.includes(signal.toLowerCase())) {
+			return { relevant: false, reason: `unrelated ecosystem: "${signal}"` };
+		}
+	}
+
+	// 1h. Non-compatible fork detection (oh-my-pi ecosystem)
 	for (const signal of FORK_SIGNALS) {
 		if (combined.includes(signal) || url.includes(signal)) {
 			return { relevant: false, reason: `non-compatible fork signal: "${signal}"` };
@@ -157,22 +338,31 @@ export function isRelevant(candidate: {
 
 	// ── Layer 2: Positive signals ─────────────────────────────────────────────
 
-	// Check name patterns
+	// 2a. Check name patterns
 	for (const pattern of POSITIVE_NAME_PATTERNS) {
 		if (pattern.test(name)) {
 			return { relevant: true, reason: "" };
 		}
 	}
 
-	// Check combined text for positive signals
+	// 2b. Check combined text for positive signals
 	for (const signal of POSITIVE_TEXT_SIGNALS) {
 		if (combined.includes(signal)) {
 			return { relevant: true, reason: "" };
 		}
 	}
 
-	// Check GitHub topics for pi-agent / pi-coding-agent
-	if (topics.some((t) => t === "pi-agent" || t === "pi-coding-agent" || t === "pi-coding")) {
+	// 2c. Check GitHub topics for pi-agent / pi-coding-agent
+	if (
+		topics.some(
+			(t) => t === "pi-agent" || t === "pi-coding-agent" || t === "pi-coding" || t === "pi", // bare "pi" topic is used by the Pi coding agent community
+		)
+	) {
+		return { relevant: true, reason: "" };
+	}
+
+	// 2d. Check for pi-package keyword (npm convention for Pi coding agent packages)
+	if (keywords.some((k) => k === "pi-package" || k === "pi-extension" || k === "pi-theme")) {
 		return { relevant: true, reason: "" };
 	}
 

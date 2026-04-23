@@ -103,6 +103,25 @@ const KNOWN_FALSE_POSITIVE_PATTERNS = [
 	/^cmd-extension$/,
 	/^video-paste$/,
 	/^websocket-extensions$/,
+	// PixiJS game library
+	/^@pixi\//,
+	/^pixi-/,
+	// SAP UI5
+	/^@ui5-language-assistant\//,
+	// OpenTiny enterprise Vue
+	/^@opentiny\//,
+	// Capacitor mobile plugins
+	/^@capawesome\//,
+	// Adobe Launch
+	/^@adobe\/reactor-/,
+	// Node-RED contributions
+	/^node-red-contrib/,
+	// Pimcore CMS
+	/pimcore/,
+	// Mathematical π
+	/^const-pi$/,
+	/^generate-pi$/,
+	/^stringify-pi$/,
 	// Micromark (markdown parser)
 	/^micromark(-|$)/,
 	// Generic tools

@@ -11,6 +11,7 @@ pre-commit:
       run: bun run check
     generate:
       run: bun run generate
+      glob: "README.md"
       stage_fixed: true
 
 pre-push:
