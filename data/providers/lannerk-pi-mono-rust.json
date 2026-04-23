@@ -1,0 +1,31 @@
+{
+	"id": "lannerk-pi-mono-rust",
+	"name": "lannerk-pi-mono-rust",
+	"url": "https://github.com/lannerk/pi-mono-rust",
+	"source": "github-search",
+	"description": "Rust implementation of the pi-mono project https://github.com/badlogic/pi-mono",
+	"metadata": {
+		"description": "Rust implementation of the pi-mono project https://github.com/badlogic/pi-mono",
+		"stars": 2,
+		"forks": 0,
+		"language": "Rust",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 1,
+		"license": "MIT",
+		"last_commit": "2026-02-24T10:01:51Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

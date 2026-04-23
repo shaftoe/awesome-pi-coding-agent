@@ -1,0 +1,25 @@
+{
+	"id": "@shuyhere/pi-discord-bot",
+	"name": "@shuyhere/pi-discord-bot",
+	"url": "https://www.npmjs.com/package/@shuyhere/pi-discord-bot",
+	"source": "npm-search",
+	"description": "A small Discord harness built around Pi primitives.",
+	"metadata": {
+		"github_url": "https://github.com/shuyhere/pi-discord-bot",
+		"npm_name": "@shuyhere/pi-discord-bot",
+		"description": "A small Discord harness built around Pi primitives.",
+		"keywords": ["pi", "pi-package", "discord", "bot", "agent", "discord.js"],
+		"version": "0.0.1",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 4,
+			"theme": 0,
+			"provider": 5
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,25 @@
+{
+	"id": "pi-brave-search",
+	"name": "pi-brave-search",
+	"url": "https://www.npmjs.com/package/pi-brave-search",
+	"source": "npm-search",
+	"description": "Token-efficient Brave web search + AI grounding extension for Pi, with optional full-page Markdown content extraction",
+	"metadata": {
+		"github_url": "https://github.com/w-winter/dot314",
+		"npm_name": "pi-brave-search",
+		"description": "Token-efficient Brave web search + AI grounding extension for Pi, with optional full-page Markdown content extraction",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "brave", "search"],
+		"version": "0.2.0",
+		"_readme_category_scores": {
+			"extension": 44,
+			"tool": 9,
+			"theme": 5,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+	"id": "fink-andreas-pc",
+	"name": "fink-andreas-pc",
+	"url": "https://github.com/fink-andreas/pc",
+	"source": "github-search",
+	"description": "pi coding agent implemented in C",
+	"metadata": {
+		"description": "pi coding agent implemented in C",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-02-23T18:55:29Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

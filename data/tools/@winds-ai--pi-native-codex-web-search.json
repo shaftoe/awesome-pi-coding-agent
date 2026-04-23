@@ -1,0 +1,20 @@
+{
+	"id": "@winds-ai/pi-native-codex-web-search",
+	"name": "@winds-ai/pi-native-codex-web-search",
+	"url": "https://www.npmjs.com/package/@winds-ai/pi-native-codex-web-search",
+	"source": "npm-search",
+	"description": "Native web search for Pi using OpenAI's Responses API via Codex backend (same as Codex CLI)",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@winds-ai/pi-native-codex-web-search",
+		"description": "Native web search for Pi using OpenAI's Responses API via Codex backend (same as Codex CLI)",
+		"keywords": ["pi-package", "pi-extension", "web-search", "codex", "openai", "search", "browser"],
+		"version": "1.0.6",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,31 @@
+{
+	"id": "bry-guy-pi-ez-entire",
+	"name": "bry-guy-pi-ez-entire",
+	"url": "https://github.com/bry-guy/pi-ez-entire",
+	"source": "github-search",
+	"description": "Entire CLI integration for pi coding agent",
+	"metadata": {
+		"description": "Entire CLI integration for pi coding agent",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-03-04T18:52:06Z",
+		"_readme_category_scores": {
+			"extension": 8,
+			"tool": 12,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

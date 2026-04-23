@@ -1,0 +1,28 @@
+{
+	"id": "possibly-pi-gallery",
+	"name": "possibly-pi-gallery",
+	"url": "https://github.com/possibly/pi-gallery",
+	"source": "github-search",
+	"description": "quickly view images read by your pi-coding-agent",
+	"metadata": {
+		"description": "quickly view images read by your pi-coding-agent",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

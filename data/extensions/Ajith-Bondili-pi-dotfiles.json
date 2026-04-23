@@ -1,0 +1,28 @@
+{
+	"id": "Ajith-Bondili-pi-dotfiles",
+	"name": "Ajith-Bondili-pi-dotfiles",
+	"url": "https://github.com/Ajith-Bondili/pi-dotfiles",
+	"source": "github-search",
+	"description": "Personal Pi coding agent config — settings, extensions, skills, knowledge, prompts",
+	"metadata": {
+		"description": "Personal Pi coding agent config — settings, extensions, skills, knowledge, prompts",
+		"stars": 0,
+		"forks": 0,
+		"language": "Shell",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 8,
+			"tool": 1,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

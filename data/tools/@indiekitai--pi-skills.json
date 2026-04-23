@@ -1,0 +1,35 @@
+{
+	"id": "@indiekitai/pi-skills",
+	"name": "@indiekitai/pi-skills",
+	"url": "https://www.npmjs.com/package/@indiekitai/pi-skills",
+	"source": "npm-search",
+	"description": "IndieKit developer tools as Pi/Claude Code/Codex skills — PostgreSQL health, schema diff, type generation, rate limiting, terminal styling, and more",
+	"metadata": {
+		"github_url": "https://github.com/indiekitai/pi-skills",
+		"npm_name": "@indiekitai/pi-skills",
+		"description": "IndieKit developer tools as Pi/Claude Code/Codex skills — PostgreSQL health, schema diff, type generation, rate limiting, terminal styling, and more",
+		"keywords": ["pi-package", "agent-skills", "postgresql", "developer-tools", "indiekit"],
+		"version": "1.1.0",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": null,
+		"license": "MIT",
+		"last_commit": "2026-03-03T00:59:41Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://pi.dev",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 3,
+			"theme": 1,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

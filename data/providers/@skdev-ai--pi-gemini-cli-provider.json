@@ -1,0 +1,25 @@
+{
+	"id": "@skdev-ai/pi-gemini-cli-provider",
+	"name": "@skdev-ai/pi-gemini-cli-provider",
+	"url": "https://www.npmjs.com/package/@skdev-ai/pi-gemini-cli-provider",
+	"source": "npm-search",
+	"description": "Gemini LLM provider for Pi/GSD via A2A protocol with MCP tool bridge",
+	"metadata": {
+		"github_url": "https://github.com/skdev-ai/pi-gemini-cli-provider",
+		"npm_name": "@skdev-ai/pi-gemini-cli-provider",
+		"description": "Gemini LLM provider for Pi/GSD via A2A protocol with MCP tool bridge",
+		"keywords": ["pi-package", "pi", "gsd", "extension", "gemini-cli", "llm", "provider", "a2a", "mcp"],
+		"version": "0.1.2",
+		"_readme_category_scores": {
+			"extension": 11,
+			"tool": 26,
+			"theme": 0,
+			"provider": 7
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,35 @@
+{
+	"id": "@dreki-gg/pi-questionnaire",
+	"name": "@dreki-gg/pi-questionnaire",
+	"url": "https://www.npmjs.com/package/@dreki-gg/pi-questionnaire",
+	"source": "npm-search",
+	"description": "Tool-first questionnaire flow for pi with shared tabbed TUI and custom rendering",
+	"metadata": {
+		"github_url": "https://github.com/dreki-gg/pi-extensions",
+		"npm_name": "@dreki-gg/pi-questionnaire",
+		"description": "Tool-first questionnaire flow for pi with shared tabbed TUI and custom rendering",
+		"keywords": ["pi-package"],
+		"version": "0.2.1",
+		"stars": 6,
+		"forks": 1,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-23T00:23:53Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

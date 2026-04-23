@@ -1,0 +1,31 @@
+{
+	"id": "dkmaker-hass-pi-agent",
+	"name": "dkmaker-hass-pi-agent",
+	"url": "https://github.com/dkmaker/hass-pi-agent",
+	"source": "github-search",
+	"description": "Pi Agent for Home Assistant — AI coding agent add-on with full HA access",
+	"metadata": {
+		"description": "Pi Agent for Home Assistant — AI coding agent add-on with full HA access",
+		"stars": 4,
+		"forks": 1,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 2,
+		"license": null,
+		"last_commit": "2026-03-12T09:10:53Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 10,
+			"theme": 0,
+			"provider": 7
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

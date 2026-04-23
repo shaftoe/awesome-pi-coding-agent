@@ -1,0 +1,25 @@
+{
+	"id": "@calesennett/pi-codex-usage",
+	"name": "@calesennett/pi-codex-usage",
+	"url": "https://www.npmjs.com/package/@calesennett/pi-codex-usage",
+	"source": "npm-search",
+	"description": "Codex usage footer extension for pi",
+	"metadata": {
+		"github_url": "https://github.com/calesennett/pi-codex-usage",
+		"npm_name": "@calesennett/pi-codex-usage",
+		"description": "Codex usage footer extension for pi",
+		"keywords": ["pi-package", "pi-extension", "codex"],
+		"version": "0.1.11",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

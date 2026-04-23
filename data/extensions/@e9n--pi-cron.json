@@ -1,0 +1,25 @@
+{
+	"id": "@e9n/pi-cron",
+	"name": "@e9n/pi-cron",
+	"url": "https://www.npmjs.com/package/@e9n/pi-cron",
+	"source": "npm-search",
+	"description": "Cron scheduler extension for pi — schedule recurring prompts as isolated subprocesses",
+	"metadata": {
+		"github_url": "https://github.com/espennilsen/pi",
+		"npm_name": "@e9n/pi-cron",
+		"description": "Cron scheduler extension for pi — schedule recurring prompts as isolated subprocesses",
+		"keywords": ["pi-package"],
+		"version": "0.2.0",
+		"_readme_category_scores": {
+			"extension": 32,
+			"tool": 8,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

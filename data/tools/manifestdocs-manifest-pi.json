@@ -1,0 +1,26 @@
+{
+	"id": "manifestdocs-manifest-pi",
+	"name": "manifestdocs-manifest-pi",
+	"url": "https://github.com/manifestdocs/manifest-pi",
+	"source": "github-search",
+	"description": "Manifest integration for Pi coding agent",
+	"metadata": {
+		"description": "Manifest integration for Pi coding agent",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-03-27T07:14:51Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

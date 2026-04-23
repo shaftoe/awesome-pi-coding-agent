@@ -1,0 +1,28 @@
+{
+	"id": "3DAlgoLab-pi-mono-clone",
+	"name": "3DAlgoLab-pi-mono-clone",
+	"url": "https://github.com/3DAlgoLab/pi-mono-clone",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 0,
+		"forks": 0,
+		"language": "JavaScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

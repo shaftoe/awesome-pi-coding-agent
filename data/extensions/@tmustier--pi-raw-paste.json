@@ -1,0 +1,35 @@
+{
+	"id": "@tmustier/pi-raw-paste",
+	"name": "@tmustier/pi-raw-paste",
+	"url": "https://www.npmjs.com/package/@tmustier/pi-raw-paste",
+	"source": "npm-search",
+	"description": "One-shot raw paste support for Pi (/paste).",
+	"metadata": {
+		"github_url": "https://github.com/tmustier/pi-extensions",
+		"npm_name": "@tmustier/pi-raw-paste",
+		"description": "One-shot raw paste support for Pi (/paste).",
+		"keywords": ["pi-package"],
+		"version": "0.1.2",
+		"stars": 227,
+		"forks": 13,
+		"open_issues": 5,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T07:48:21Z",
+		"topics": ["extension", "npm", "pi", "pi-coding-agent"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.mustier.ai/projects/pi-extensions",
+		"_readme_category_scores": {
+			"extension": 26,
+			"tool": 2,
+			"theme": 1,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "extension"
+}

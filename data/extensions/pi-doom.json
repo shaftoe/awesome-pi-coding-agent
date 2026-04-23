@@ -1,0 +1,35 @@
+{
+	"id": "pi-doom",
+	"name": "pi-doom",
+	"url": "https://www.npmjs.com/package/pi-doom",
+	"source": "npm-search",
+	"description": "Play DOOM in your terminal with pi",
+	"metadata": {
+		"github_url": "https://github.com/badlogic/pi-doom",
+		"npm_name": "pi-doom",
+		"description": "Play DOOM in your terminal with pi",
+		"keywords": ["pi", "pi-package", "pi-extension", "doom", "terminal", "game"],
+		"version": "0.1.2",
+		"stars": 17,
+		"forks": 6,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-02-02T19:15:45Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 62,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

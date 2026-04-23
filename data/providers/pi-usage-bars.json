@@ -1,0 +1,25 @@
+{
+	"id": "pi-usage-bars",
+	"name": "pi-usage-bars",
+	"url": "https://www.npmjs.com/package/pi-usage-bars",
+	"source": "npm-search",
+	"description": "Production-ready /usage bars extension for pi (Codex, Claude, Z.AI, Gemini CLI, Antigravity)",
+	"metadata": {
+		"github_url": "https://github.com/ajarellanod/pi-usage-bars",
+		"npm_name": "pi-usage-bars",
+		"description": "Production-ready /usage bars extension for pi (Codex, Claude, Z.AI, Gemini CLI, Antigravity)",
+		"keywords": ["pi-package", "pi", "extension", "usage", "codex", "anthropic", "gemini", "antigravity"],
+		"version": "0.2.1",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 1,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

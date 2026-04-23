@@ -1,0 +1,20 @@
+{
+	"id": "@stonega/pi-web-ui",
+	"name": "@stonega/pi-web-ui",
+	"url": "https://www.npmjs.com/package/@stonega/pi-web-ui",
+	"source": "npm-search",
+	"description": "Reusable web UI components for AI chat interfaces powered by @stonega/pi-ai",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@stonega/pi-web-ui",
+		"description": "Reusable web UI components for AI chat interfaces powered by @stonega/pi-ai",
+		"keywords": ["ai", "chat", "ui", "components", "llm", "web-components", "mini-lit"],
+		"version": "0.54.12",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

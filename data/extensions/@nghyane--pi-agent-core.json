@@ -1,0 +1,35 @@
+{
+	"id": "@nghyane/pi-agent-core",
+	"name": "@nghyane/pi-agent-core",
+	"url": "https://www.npmjs.com/package/@nghyane/pi-agent-core",
+	"source": "npm-search",
+	"description": "General-purpose agent with transport abstraction, state management, and attachment support",
+	"metadata": {
+		"github_url": "https://github.com/can1357/oh-my-pi",
+		"npm_name": "@nghyane/pi-agent-core",
+		"description": "General-purpose agent with transport abstraction, state management, and attachment support",
+		"keywords": ["ai", "agent", "llm", "transport", "state-management"],
+		"version": "12.19.0",
+		"stars": 3343,
+		"forks": 313,
+		"open_issues": 159,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-18T21:37:54Z",
+		"topics": ["ai-agent", "ai-coding-agent", "anthropic", "bun", "claude", "cli", "coding-assistant", "llm", "mcp", "multi-provider", "openai", "rust", "terminal", "tui", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 45,
+			"tool": 33,
+			"theme": 17,
+			"provider": 41
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "extension"
+}

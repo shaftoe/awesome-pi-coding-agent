@@ -1,0 +1,31 @@
+{
+	"id": "ProbabilityEngineer-pi-qwen-coding-plan",
+	"name": "ProbabilityEngineer-pi-qwen-coding-plan",
+	"url": "https://github.com/ProbabilityEngineer/pi-qwen-coding-plan",
+	"source": "github-search",
+	"description": "~/.pi/agent/models.json and ~/.omp/agent/models.yml qwen3.5-plus /models config files",
+	"metadata": {
+		"description": "~/.pi/agent/models.json and ~/.omp/agent/models.yml qwen3.5-plus /models config files",
+		"stars": 7,
+		"forks": 1,
+		"language": null,
+		"topics": ["alibaba-endpoint", "endpoint", "models-json", "models-yml", "oh-my-pi", "pi-mono", "qwen-code", "qwen-endpoint"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 1,
+		"license": "MIT",
+		"last_commit": "2026-03-12T05:51:21Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

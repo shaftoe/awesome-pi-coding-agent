@@ -1,0 +1,31 @@
+{
+	"id": "ianshan0915-pi-agent-chatbot-platform",
+	"name": "ianshan0915-pi-agent-chatbot-platform",
+	"url": "https://github.com/ianshan0915/pi-agent-chatbot-platform",
+	"source": "github-search",
+	"description": "chatbot built on top of pi-coding-agent",
+	"metadata": {
+		"description": "chatbot built on top of pi-coding-agent",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 1,
+		"license": null,
+		"last_commit": "2026-03-15T20:52:20Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 7,
+			"theme": 0,
+			"provider": 6
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

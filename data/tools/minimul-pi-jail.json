@@ -1,0 +1,31 @@
+{
+	"id": "minimul-pi-jail",
+	"name": "minimul-pi-jail",
+	"url": "https://github.com/minimul/pi-jail",
+	"source": "github-search",
+	"description": "Run the pi coding agent in a Docker sandbox with full filesystem and Docker daemon isolation via DinD, only the launched directory is accessible.",
+	"metadata": {
+		"description": "Run the pi coding agent in a Docker sandbox with full filesystem and Docker daemon isolation via DinD, only the launched directory is accessible.",
+		"stars": 1,
+		"forks": 0,
+		"language": "Shell",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-08T13:52:46Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 10,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

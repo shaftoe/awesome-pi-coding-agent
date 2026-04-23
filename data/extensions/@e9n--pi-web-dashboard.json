@@ -1,0 +1,35 @@
+{
+	"id": "@e9n/pi-web-dashboard",
+	"name": "@e9n/pi-web-dashboard",
+	"url": "https://www.npmjs.com/package/@e9n/pi-web-dashboard",
+	"source": "npm-search",
+	"description": "Live agent dashboard with SSE streaming and prompt submission for pi",
+	"metadata": {
+		"github_url": "https://github.com/espennilsen/pi",
+		"npm_name": "@e9n/pi-web-dashboard",
+		"description": "Live agent dashboard with SSE streaming and prompt submission for pi",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"stars": 96,
+		"forks": 7,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-23T08:56:22Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 32,
+			"tool": 8,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 80,
+		"level": "active"
+	},
+	"category": "extension"
+}

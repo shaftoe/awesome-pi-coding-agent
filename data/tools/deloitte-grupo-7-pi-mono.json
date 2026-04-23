@@ -1,0 +1,23 @@
+{
+	"id": "deloitte-grupo-7-pi-mono",
+	"name": "deloitte-grupo-7-pi-mono",
+	"url": "https://github.com/deloitte-grupo-7/pi-mono",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": true,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 0,
+		"level": "dead"
+	},
+	"category": "tool"
+}

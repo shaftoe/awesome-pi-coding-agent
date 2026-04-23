@@ -1,0 +1,26 @@
+{
+	"id": "samfoy-pi-slack-remote",
+	"name": "samfoy-pi-slack-remote",
+	"url": "https://github.com/samfoy/pi-slack-remote",
+	"source": "github-search",
+	"description": "Slack notification and conversation support for pi",
+	"metadata": {
+		"description": "Slack notification and conversation support for pi",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": ["ai-coding-agent", "developer-tools", "pi-coding-agent"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-14T16:46:38Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

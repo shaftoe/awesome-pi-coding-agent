@@ -1,0 +1,23 @@
+{
+	"id": "YT_a3pyUJfpI0k",
+	"name": "Pi Agent Builder: Feedback to Judge",
+	"url": "https://www.youtube.com/watch?v=a3pyUJfpI0k",
+	"source": "youtube-search",
+	"description": "Annotate an agent trace with a piece of feedback and watch Pi turn that into a deterministic LLM judge.",
+	"metadata": {
+		"title": "Pi Agent Builder: Feedback to Judge",
+		"description": "Annotate an agent trace with a piece of feedback and watch Pi turn that into a deterministic LLM judge.",
+		"channel": "Pi Labs",
+		"published_at": "2025-10-14T05:45:46Z",
+		"thumbnail": "https://i.ytimg.com/vi/a3pyUJfpI0k/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 81,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "video"
+}

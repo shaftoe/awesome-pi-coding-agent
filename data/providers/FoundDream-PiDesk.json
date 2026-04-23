@@ -1,0 +1,28 @@
+{
+	"id": "FoundDream-PiDesk",
+	"name": "FoundDream-PiDesk",
+	"url": "https://github.com/FoundDream/PiDesk",
+	"source": "github-search",
+	"description": "Built on pi-mono agent engine — gets TUI, agent loop, coding tools, session persistence, compaction, multi-provider support, and model switching for free.",
+	"metadata": {
+		"description": "Built on pi-mono agent engine — gets TUI, agent loop, coding tools, session persistence, compaction, multi-provider support, and model switching for free.",
+		"stars": 8,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["agent", "ai", "claude", "computer-use", "pi", "pi-mono"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 15,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 51,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

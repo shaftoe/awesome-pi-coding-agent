@@ -1,0 +1,31 @@
+{
+	"id": "spences10-pirecall",
+	"name": "spences10-pirecall",
+	"url": "https://github.com/spences10/pirecall",
+	"source": "github-search",
+	"description": "🔄️ Sync pi.dev agent sessions to SQLite for analytics, uses node:sqlite",
+	"metadata": {
+		"description": "🔄️ Sync pi.dev agent sessions to SQLite for analytics, uses node:sqlite",
+		"stars": 3,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["node-sqlite", "pi-coding-agent", "pi-dev", "sqlite"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 3,
+		"license": "MIT",
+		"last_commit": "2026-04-19T03:15:59Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 12
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

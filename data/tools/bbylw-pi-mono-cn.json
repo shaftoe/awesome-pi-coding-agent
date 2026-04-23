@@ -1,0 +1,28 @@
+{
+	"id": "bbylw-pi-mono-cn",
+	"name": "bbylw-pi-mono-cn",
+	"url": "https://github.com/bbylw/pi-mono-cn",
+	"source": "github-search",
+	"description": "Pi 是一个极简的终端编码工具。让 pi 适应你的工作流程，而不是反过来，无需 fork 和修改 pi 内部代码。通过 TypeScript 扩展、技能、提示模板 和 主题 来扩展它。将你的扩展、技能、提示模板和主题放入 Pi 包 中，并通过 npm 或 git 与他人分享。  Pi 附带强大的默认设置，但跳过了子智能体和计划模式等功能。相反，你可以让 pi 构建你想要的功能，或安装符合你工作流程的第三方 pi 包。",
+	"metadata": {
+		"description": "Pi 是一个极简的终端编码工具。让 pi 适应你的工作流程，而不是反过来，无需 fork 和修改 pi 内部代码。通过 TypeScript 扩展、技能、提示模板 和 主题 来扩展它。将你的扩展、技能、提示模板和主题放入 Pi 包 中，并通过 npm 或 git 与他人分享。  Pi 附带强大的默认设置，但跳过了子智能体和计划模式等功能。相反，你可以让 pi 构建你想要的功能，或安装符合你工作流程的第三方 pi 包。",
+		"stars": 0,
+		"forks": 0,
+		"language": "HTML",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://w404.nyc.mn/pi-mono-cn/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

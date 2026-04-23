@@ -1,0 +1,23 @@
+{
+	"id": "YT_OC-SVcHnm74",
+	"name": "Pi-Hosted: Control Multiple Dockers From One Location with Portainer Agent",
+	"url": "https://www.youtube.com/watch?v=OC-SVcHnm74",
+	"source": "youtube-search",
+	"description": "Introducing the use of portainer agent in your setup to control multiple docker setups from one location! thanks for the view!",
+	"metadata": {
+		"title": "Pi-Hosted: Control Multiple Dockers From One Location with Portainer Agent",
+		"description": "Introducing the use of portainer agent in your setup to control multiple docker setups from one location! thanks for the view!",
+		"channel": "Novaspirit Tech",
+		"published_at": "2022-10-25T12:00:15Z",
+		"thumbnail": "https://i.ytimg.com/vi/OC-SVcHnm74/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 26848,
+		"like_count": 642,
+		"comment_count": 23
+	},
+	"health": {
+		"score": 55,
+		"level": "maintained"
+	},
+	"category": "video"
+}

@@ -1,0 +1,28 @@
+{
+	"id": "shaftoe-pi-shared",
+	"name": "shaftoe-pi-shared",
+	"url": "https://github.com/shaftoe/pi-shared",
+	"source": "github-search",
+	"description": "My personal Pi coding agent's skills and prompts",
+	"metadata": {
+		"description": "My personal Pi coding agent's skills and prompts",
+		"stars": 2,
+		"forks": 0,
+		"language": "Shell",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

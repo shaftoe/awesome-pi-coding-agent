@@ -1,0 +1,25 @@
+{
+	"id": "pi-prompt-save",
+	"name": "pi-prompt-save",
+	"url": "https://www.npmjs.com/package/pi-prompt-save",
+	"source": "npm-search",
+	"description": "Save, restore, or copy prompts in pi",
+	"metadata": {
+		"github_url": "https://github.com/sids/pi-extensions",
+		"npm_name": "pi-prompt-save",
+		"description": "Save, restore, or copy prompts in pi",
+		"keywords": ["pi-package"],
+		"version": "0.1.2",
+		"_readme_category_scores": {
+			"extension": 8,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

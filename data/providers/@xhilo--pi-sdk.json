@@ -1,0 +1,20 @@
+{
+	"id": "@xhilo/pi-sdk",
+	"name": "@xhilo/pi-sdk",
+	"url": "https://www.npmjs.com/package/@xhilo/pi-sdk",
+	"source": "npm-search",
+	"description": "A simplified SDK for Pi Network integration with React frontend and Node.js backend support - no provider needed!",
+	"metadata": {
+		"github_url": "https://github.com/xhilo-labs/pi-sdk",
+		"npm_name": "@xhilo/pi-sdk",
+		"description": "A simplified SDK for Pi Network integration with React frontend and Node.js backend support - no provider needed!",
+		"keywords": ["pi-network", "react", "sdk", "cryptocurrency", "blockchain", "payments", "authentication"],
+		"version": "0.2.23",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,26 @@
+{
+	"id": "Kejae23-Monogramming-your-Pi-",
+	"name": "Kejae23-Monogramming-your-Pi-",
+	"url": "https://github.com/Kejae23/Monogramming-your-Pi-",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2024-07-16T23:01:47Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "tool"
+}

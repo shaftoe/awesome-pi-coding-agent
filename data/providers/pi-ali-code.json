@@ -1,0 +1,25 @@
+{
+	"id": "pi-ali-code",
+	"name": "pi-ali-code",
+	"url": "https://www.npmjs.com/package/pi-ali-code",
+	"source": "npm-search",
+	"description": "Alibaba Model Studio Coding Plan provider for pi — Qwen, GLM, Kimi, and MiniMax models",
+	"metadata": {
+		"github_url": "https://github.com/ricardo-nth/pi-ali-code",
+		"npm_name": "pi-ali-code",
+		"description": "Alibaba Model Studio Coding Plan provider for pi — Qwen, GLM, Kimi, and MiniMax models",
+		"keywords": ["pi", "pi-agent", "alibaba", "dashscope", "qwen", "coding-plan", "bailian", "extension"],
+		"version": "1.0.0",
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 0,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,35 @@
+{
+	"id": "@pi-ohm/modes",
+	"name": "@pi-ohm/modes",
+	"url": "https://www.npmjs.com/package/@pi-ohm/modes",
+	"source": "npm-search",
+	"description": "Install only smart/rush/deep mode controls for Pi.",
+	"metadata": {
+		"github_url": "https://github.com/pi-ohm/pi-ohm",
+		"npm_name": "@pi-ohm/modes",
+		"description": "Install only smart/rush/deep mode controls for Pi.",
+		"keywords": [],
+		"version": "0.6.3",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 7,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-06T02:18:28Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 2,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

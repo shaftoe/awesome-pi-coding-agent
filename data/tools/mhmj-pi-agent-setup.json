@@ -1,0 +1,31 @@
+{
+	"id": "mhmj-pi-agent-setup",
+	"name": "mhmj-pi-agent-setup",
+	"url": "https://github.com/mhmj/pi-agent-setup",
+	"source": "github-search",
+	"description": "Pi coding agent setup — claude-sonnet-4-5 with 200k context, auto subagent spawning (scout, coder, analyst, reviewer)",
+	"metadata": {
+		"description": "Pi coding agent setup — claude-sonnet-4-5 with 200k context, auto subagent spawning (scout, coder, analyst, reviewer)",
+		"stars": 0,
+		"forks": 0,
+		"language": "Shell",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-07T18:18:53Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

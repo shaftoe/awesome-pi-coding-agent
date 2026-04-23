@@ -1,0 +1,26 @@
+{
+	"id": "gevorah-monolithic-pi-montecarlo",
+	"name": "gevorah-monolithic-pi-montecarlo",
+	"url": "https://github.com/gevorah/monolithic-pi-montecarlo",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 0,
+		"forks": 0,
+		"language": "Java",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2022-06-10T18:57:17Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "tool"
+}

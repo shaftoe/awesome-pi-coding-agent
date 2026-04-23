@@ -1,0 +1,35 @@
+{
+	"id": "pi-profiles",
+	"name": "pi-profiles",
+	"url": "https://www.npmjs.com/package/pi-profiles",
+	"source": "npm-search",
+	"description": "Configuration profile manager for pi (pi.dev)",
+	"metadata": {
+		"github_url": "https://github.com/chaychoong/pi-profiles",
+		"npm_name": "pi-profiles",
+		"description": "Configuration profile manager for pi (pi.dev)",
+		"keywords": ["pi-package"],
+		"version": "0.1.1",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-13T03:25:53Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 8,
+			"theme": 2,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

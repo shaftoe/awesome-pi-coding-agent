@@ -1,0 +1,28 @@
+{
+	"id": "chamanomopah-pi-agent",
+	"name": "chamanomopah-pi-agent",
+	"url": "https://github.com/chamanomopah/pi-agent",
+	"source": "github-search",
+	"description": "Pi Coding Agent extension examples and experiments",
+	"metadata": {
+		"description": "Pi Coding Agent extension examples and experiments",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 50,
+			"tool": 4,
+			"theme": 14,
+			"provider": 7
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

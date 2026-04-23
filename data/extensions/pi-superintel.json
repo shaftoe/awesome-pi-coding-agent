@@ -1,0 +1,35 @@
+{
+	"id": "pi-superintel",
+	"name": "pi-superintel",
+	"url": "https://www.npmjs.com/package/pi-superintel",
+	"source": "npm-search",
+	"description": "Autonomous Self-Extending Universal Agent for Pi - ANY task across coding, infrastructure, cybersecurity, cloud, API integration, browser automation, enterprise apps, and more",
+	"metadata": {
+		"github_url": "https://github.com/DrOlu/pi-superintel",
+		"npm_name": "pi-superintel",
+		"description": "Autonomous Self-Extending Universal Agent for Pi - ANY task across coding, infrastructure, cybersecurity, cloud, API integration, browser automation, enterprise apps, and more",
+		"keywords": ["pi-extension", "autonomous-agent", "self-extending", "universal-agent", "orchestration", "api-integration", "browser-automation", "pi"],
+		"version": "2.1.1",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-24T00:06:03Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/pi-superintel",
+		"_readme_category_scores": {
+			"extension": 16,
+			"tool": 14,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

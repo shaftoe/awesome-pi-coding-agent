@@ -1,0 +1,35 @@
+{
+	"id": "1panel-skill",
+	"name": "1panel-skill",
+	"url": "https://www.npmjs.com/package/1panel-skill",
+	"source": "npm-search",
+	"description": "Comprehensive 1Panel API skill for AI agents - 580+ endpoints",
+	"metadata": {
+		"github_url": "https://github.com/EaveLuo/1panel-skill",
+		"npm_name": "1panel-skill",
+		"description": "Comprehensive 1Panel API skill for AI agents - 580+ endpoints",
+		"keywords": ["1panel", "skill", "mcp", "ai", "server-management", "docker", "linux", "api-client"],
+		"version": "1.0.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-19T17:07:45Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

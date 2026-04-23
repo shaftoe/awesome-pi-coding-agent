@@ -1,0 +1,28 @@
+{
+	"id": "DxVapor-pi-prompt-enhancer",
+	"name": "DxVapor-pi-prompt-enhancer",
+	"url": "https://github.com/DxVapor/pi-prompt-enhancer",
+	"source": "github-search",
+	"description": "A pi coding agent extension that enhances prompts using a configurable dedicated model",
+	"metadata": {
+		"description": "A pi coding agent extension that enhances prompts using a configurable dedicated model",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["ai", "pi-coding-agent", "pi-extension", "prompt-engineering", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 10,
+			"tool": 0,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

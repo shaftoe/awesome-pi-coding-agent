@@ -1,0 +1,20 @@
+{
+	"id": "pi-coordinator",
+	"name": "pi-coordinator",
+	"url": "https://www.npmjs.com/package/pi-coordinator",
+	"source": "npm-search",
+	"description": "Four-phase workflow: Research → Synthesis → Implementation → Verification, based on Claude Code coordinator feature preview.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-coordinator",
+		"description": "Four-phase workflow: Research → Synthesis → Implementation → Verification, based on Claude Code coordinator feature preview.",
+		"keywords": ["pi-package"],
+		"version": "1.0.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

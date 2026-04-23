@@ -1,0 +1,35 @@
+{
+	"id": "@jordyvd/pi-image-attachments",
+	"name": "@jordyvd/pi-image-attachments",
+	"url": "https://www.npmjs.com/package/@jordyvd/pi-image-attachments",
+	"source": "npm-search",
+	"description": "Image attachments for Pi, including draft placeholders and screenshot tool-result promotion.",
+	"metadata": {
+		"github_url": "https://github.com/jordyvandomselaar/pi-image-attachments",
+		"npm_name": "@jordyvd/pi-image-attachments",
+		"description": "Image attachments for Pi, including draft placeholders and screenshot tool-result promotion.",
+		"keywords": ["pi-package", "pi-extension", "image-attachments", "screenshots", "attachments"],
+		"version": "0.1.1",
+		"stars": 7,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-03T15:46:04Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

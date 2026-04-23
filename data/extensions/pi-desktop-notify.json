@@ -1,0 +1,35 @@
+{
+	"id": "pi-desktop-notify",
+	"name": "pi-desktop-notify",
+	"url": "https://www.npmjs.com/package/pi-desktop-notify",
+	"source": "npm-search",
+	"description": "Focus-aware desktop notifications for pi",
+	"metadata": {
+		"github_url": "https://github.com/mgabor3141/yapp",
+		"npm_name": "pi-desktop-notify",
+		"description": "Focus-aware desktop notifications for pi",
+		"keywords": ["pi-package", "desktop-notifications", "terminal", "focus-tracking"],
+		"version": "1.0.1",
+		"stars": 24,
+		"forks": 7,
+		"open_issues": 4,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T09:53:34Z",
+		"topics": ["pi-extension", "pi-extensions"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 2,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "extension"
+}

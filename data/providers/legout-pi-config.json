@@ -1,0 +1,28 @@
+{
+	"id": "legout-pi-config",
+	"name": "legout-pi-config",
+	"url": "https://github.com/legout/pi-config",
+	"source": "github-search",
+	"description": "Pi coding agent config sync across machines",
+	"metadata": {
+		"description": "Pi coding agent config sync across machines",
+		"stars": 2,
+		"forks": 0,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 1,
+			"theme": 5,
+			"provider": 10
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,31 @@
+{
+	"id": "takinbo-pi-nix",
+	"name": "takinbo-pi-nix",
+	"url": "https://github.com/takinbo/pi-nix",
+	"source": "github-search",
+	"description": "Nix flake for pi — a reproducible, hermetically-built package of the pi AI coding agent CLI for NixOS and Home Manager.",
+	"metadata": {
+		"description": "Nix flake for pi — a reproducible, hermetically-built package of the pi AI coding agent CLI for NixOS and Home Manager.",
+		"stars": 0,
+		"forks": 0,
+		"language": "Nix",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-22T00:42:45Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 5,
+			"theme": 1,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

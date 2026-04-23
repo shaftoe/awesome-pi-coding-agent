@@ -1,0 +1,28 @@
+{
+	"id": "orkuhh-opencode-monitor",
+	"name": "orkuhh-opencode-monitor",
+	"url": "https://github.com/orkuhh/opencode-monitor",
+	"source": "github-search",
+	"description": "Tauri dashboard for OpenCode sessions + Pi coding agent",
+	"metadata": {
+		"description": "Tauri dashboard for OpenCode sessions + Pi coding agent",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 16,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

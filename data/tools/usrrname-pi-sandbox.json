@@ -1,0 +1,28 @@
+{
+	"id": "usrrname-pi-sandbox",
+	"name": "usrrname-pi-sandbox",
+	"url": "https://github.com/usrrname/pi-sandbox",
+	"source": "github-search",
+	"description": "a hardened Docker sandbox with a security-cautious pi-coding-agent",
+	"metadata": {
+		"description": "a hardened Docker sandbox with a security-cautious pi-coding-agent",
+		"stars": 0,
+		"forks": 0,
+		"language": "Dockerfile",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 4,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

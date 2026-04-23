@@ -1,0 +1,20 @@
+{
+	"id": "@artale/pi-gepa",
+	"name": "@artale/pi-gepa",
+	"url": "https://www.npmjs.com/package/@artale/pi-gepa",
+	"source": "npm-search",
+	"description": "Skill scanner and quality scorer for Pi. Scans, scores, and identifies weak skills. Pairs with pi-evolve for mutation.",
+	"metadata": {
+		"github_url": "https://github.com/arosstale/pi-gepa",
+		"npm_name": "@artale/pi-gepa",
+		"description": "Skill scanner and quality scorer for Pi. Scans, scores, and identifies weak skills. Pairs with pi-evolve for mutation.",
+		"keywords": ["pi-package"],
+		"version": "1.2.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

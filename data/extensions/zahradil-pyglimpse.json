@@ -1,0 +1,31 @@
+{
+	"id": "zahradil-pyglimpse",
+	"name": "zahradil-pyglimpse",
+	"url": "https://github.com/zahradil/pyglimpse",
+	"source": "github-search",
+	"description": "Native HTML windows for pi coding agent via Python + pywebview (WebView2 on Windows). Works on WSL2 and should also work on Linux/macOS; includes reactive, bidirectional JSONL stdin/stdout communication and tools to show/close/eval/watch windows.",
+	"metadata": {
+		"description": "Native HTML windows for pi coding agent via Python + pywebview (WebView2 on Windows). Works on WSL2 and should also work on Linux/macOS; includes reactive, bidirectional JSONL stdin/stdout communication and tools to show/close/eval/watch windows.",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["gui", "pi-extension", "pywebview", "wsl2"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-22T12:29:03Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

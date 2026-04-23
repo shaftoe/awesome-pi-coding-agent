@@ -1,0 +1,28 @@
+{
+	"id": "egornomic-pi-branch-ask",
+	"name": "egornomic-pi-branch-ask",
+	"url": "https://github.com/egornomic/pi-branch-ask",
+	"source": "github-search",
+	"description": "Extension for Pi to branch questions depending on user's answers.",
+	"metadata": {
+		"description": "Extension for Pi to branch questions depending on user's answers.",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["pi", "pi-coding-agent", "pi-extension", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://pi.dev",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

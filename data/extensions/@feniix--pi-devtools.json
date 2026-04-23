@@ -1,0 +1,20 @@
+{
+	"id": "@feniix/pi-devtools",
+	"name": "@feniix/pi-devtools",
+	"url": "https://www.npmjs.com/package/@feniix/pi-devtools",
+	"source": "npm-search",
+	"description": "Devtools extension for pi — branch and PR workflow, release automation, PR feedback resolution, merge commands, with GitHub and Linear tracker support",
+	"metadata": {
+		"github_url": "https://github.com/feniix/pi-extensions",
+		"npm_name": "@feniix/pi-devtools",
+		"description": "Devtools extension for pi — branch and PR workflow, release automation, PR feedback resolution, merge commands, with GitHub and Linear tracker support",
+		"keywords": ["pi", "pi-package", "pi-extension", "pi-coding-agent", "ai", "devtools", "git", "github", "release", "pr"],
+		"version": "2.2.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

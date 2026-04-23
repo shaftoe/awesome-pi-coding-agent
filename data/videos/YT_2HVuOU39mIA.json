@@ -1,0 +1,23 @@
+{
+	"id": "YT_2HVuOU39mIA",
+	"name": "Tutorial GitLab (PI-DEV)",
+	"url": "https://www.youtube.com/watch?v=2HVuOU39mIA",
+	"source": "youtube-search",
+	"description": "",
+	"metadata": {
+		"title": "Tutorial GitLab (PI-DEV)",
+		"description": "",
+		"channel": "bassem zouari",
+		"published_at": "2017-03-20T20:32:09Z",
+		"thumbnail": "https://i.ytimg.com/vi/2HVuOU39mIA/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 356,
+		"like_count": 6,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 31,
+		"level": "stale"
+	},
+	"category": "video"
+}

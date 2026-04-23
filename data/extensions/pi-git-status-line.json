@@ -1,0 +1,35 @@
+{
+	"id": "pi-git-status-line",
+	"name": "pi-git-status-line",
+	"url": "https://www.npmjs.com/package/pi-git-status-line",
+	"source": "npm-search",
+	"description": "Shareable Pi package that extends the status line with git branch, uncommitted files, and ahead/behind counts.",
+	"metadata": {
+		"github_url": "https://github.com/qualiti/pi-git-status-line",
+		"npm_name": "pi-git-status-line",
+		"description": "Shareable Pi package that extends the status line with git branch, uncommitted files, and ahead/behind counts.",
+		"keywords": ["pi-package", "pi-extension", "pi", "git", "status-line"],
+		"version": "0.1.2",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 19,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-12T15:12:54Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 7,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

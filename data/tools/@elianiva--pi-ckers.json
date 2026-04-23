@@ -1,0 +1,35 @@
+{
+	"id": "@elianiva/pi-ckers",
+	"name": "@elianiva/pi-ckers",
+	"url": "https://www.npmjs.com/package/@elianiva/pi-ckers",
+	"source": "npm-search",
+	"description": "Modular namespace pickers for pi: @file:, @git:, @jj:",
+	"metadata": {
+		"github_url": "https://github.com/elianiva/dotfiles",
+		"npm_name": "@elianiva/pi-ckers",
+		"description": "Modular namespace pickers for pi: @file:, @git:, @jj:",
+		"keywords": ["pi-package"],
+		"version": "1.1.0",
+		"stars": 201,
+		"forks": 9,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-13T03:07:31Z",
+		"topics": ["dotfiles"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

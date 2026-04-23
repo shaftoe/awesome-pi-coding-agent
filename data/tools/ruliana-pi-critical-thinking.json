@@ -1,0 +1,28 @@
+{
+	"id": "ruliana-pi-critical-thinking",
+	"name": "ruliana-pi-critical-thinking",
+	"url": "https://github.com/ruliana/pi-critical-thinking",
+	"source": "github-search",
+	"description": "A pi coding agent profile for critical and systems thinking — a thinking partner, not an answer machine",
+	"metadata": {
+		"description": "A pi coding agent profile for critical and systems thinking — a thinking partner, not an answer machine",
+		"stars": 1,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

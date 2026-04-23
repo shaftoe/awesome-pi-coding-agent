@@ -1,0 +1,25 @@
+{
+	"id": "@aliou/pi-ts-aperture",
+	"name": "@aliou/pi-ts-aperture",
+	"url": "https://www.npmjs.com/package/@aliou/pi-ts-aperture",
+	"source": "npm-search",
+	"description": "Route Pi LLM providers through Tailscale Aperture",
+	"metadata": {
+		"github_url": "https://github.com/aliou/pi-ts-aperture",
+		"npm_name": "@aliou/pi-ts-aperture",
+		"description": "Route Pi LLM providers through Tailscale Aperture",
+		"keywords": ["pi-package", "pi-extension", "pi"],
+		"version": "0.4.0",
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 1,
+			"theme": 0,
+			"provider": 11
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

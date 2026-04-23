@@ -1,0 +1,25 @@
+{
+	"id": "@f5xc-salesdemos/pi-ai",
+	"name": "@f5xc-salesdemos/pi-ai",
+	"url": "https://www.npmjs.com/package/@f5xc-salesdemos/pi-ai",
+	"source": "npm-search",
+	"description": "Unified LLM API with automatic model discovery and provider configuration",
+	"metadata": {
+		"github_url": "https://github.com/f5xc-salesdemos/xcsh",
+		"npm_name": "@f5xc-salesdemos/pi-ai",
+		"description": "Unified LLM API with automatic model discovery and provider configuration",
+		"keywords": ["ai", "llm", "openai", "anthropic", "gemini", "unified", "api"],
+		"version": "18.12.0",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

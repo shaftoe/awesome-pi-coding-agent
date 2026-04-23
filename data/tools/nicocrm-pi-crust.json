@@ -1,0 +1,31 @@
+{
+	"id": "nicocrm-pi-crust",
+	"name": "nicocrm-pi-crust",
+	"url": "https://github.com/nicocrm/pi-crust",
+	"source": "github-search",
+	"description": "Summarize pi coding agent session costs over a time period",
+	"metadata": {
+		"description": "Summarize pi coding agent session costs over a time period",
+		"stars": 0,
+		"forks": 0,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-21T09:19:47Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

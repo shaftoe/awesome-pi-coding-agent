@@ -1,0 +1,35 @@
+{
+	"id": "pi-critique",
+	"name": "pi-critique",
+	"url": "https://www.npmjs.com/package/pi-critique",
+	"source": "npm-search",
+	"description": "Structured AI critique for writing and code. Pairs well with annotated-reply and markdown-preview but works standalone.",
+	"metadata": {
+		"github_url": "https://github.com/omaclaren/pi-critique",
+		"npm_name": "pi-critique",
+		"description": "Structured AI critique for writing and code. Pairs well with annotated-reply and markdown-preview but works standalone.",
+		"keywords": ["pi-package"],
+		"version": "0.1.2",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-01T11:02:59Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

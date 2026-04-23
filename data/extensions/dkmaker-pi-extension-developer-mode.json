@@ -1,0 +1,28 @@
+{
+	"id": "dkmaker-pi-extension-developer-mode",
+	"name": "dkmaker-pi-extension-developer-mode",
+	"url": "https://github.com/dkmaker/pi-extension-developer-mode",
+	"source": "github-search",
+	"description": "Developer mode extension for pi coding agent — docs search, examples, spawn, tmux management, learnings, and introspection tools",
+	"metadata": {
+		"description": "Developer mode extension for pi coding agent — docs search, examples, spawn, tmux management, learnings, and introspection tools",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 20,
+			"tool": 6,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

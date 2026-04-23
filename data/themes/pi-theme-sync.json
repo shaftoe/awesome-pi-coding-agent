@@ -1,0 +1,25 @@
+{
+	"id": "pi-theme-sync",
+	"name": "pi-theme-sync",
+	"url": "https://www.npmjs.com/package/pi-theme-sync",
+	"source": "npm-search",
+	"description": "Sync Pi theme with terminal appearance — works locally and over SSH via OSC 11 terminal queries",
+	"metadata": {
+		"github_url": "https://github.com/mise42/pi-theme-sync",
+		"npm_name": "pi-theme-sync",
+		"description": "Sync Pi theme with terminal appearance — works locally and over SSH via OSC 11 terminal queries",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "theme", "ssh", "dark-mode", "ghostty"],
+		"version": "0.3.1",
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 0,
+			"theme": 49,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "theme"
+}

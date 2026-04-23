@@ -1,0 +1,25 @@
+{
+	"id": "@mrexodia/kilo-pi-provider",
+	"name": "@mrexodia/kilo-pi-provider",
+	"url": "https://www.npmjs.com/package/@mrexodia/kilo-pi-provider",
+	"source": "npm-search",
+	"description": "Kilo provider extension for Pi. Access 300+ AI models through the Kilo Gateway.",
+	"metadata": {
+		"github_url": "https://github.com/mrexodia/kilo-pi-provider",
+		"npm_name": "@mrexodia/kilo-pi-provider",
+		"description": "Kilo provider extension for Pi. Access 300+ AI models through the Kilo Gateway.",
+		"keywords": ["pi-package"],
+		"version": "1.2.0",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 1,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

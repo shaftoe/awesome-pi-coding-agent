@@ -1,0 +1,28 @@
+{
+	"id": "leblancfg-pi-ansi-themes",
+	"name": "leblancfg-pi-ansi-themes",
+	"url": "https://github.com/leblancfg/pi-ansi-themes",
+	"source": "github-search",
+	"description": "Pi coding agent themes that match your terminal colors – Tokyo Night, Catppuccin, Dracula, Nord, Gruvbox, Solarized, etc.",
+	"metadata": {
+		"description": "Pi coding agent themes that match your terminal colors – Tokyo Night, Catppuccin, Dracula, Nord, Gruvbox, Solarized, etc.",
+		"stars": 7,
+		"forks": 0,
+		"language": "Python",
+		"topics": ["color-scheme", "pi", "pi-coding-agent", "pi-package", "terminal-theme"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "http://leblancfg.com/pi-ansi-themes/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 10,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 51,
+		"level": "maintained"
+	},
+	"category": "theme"
+}

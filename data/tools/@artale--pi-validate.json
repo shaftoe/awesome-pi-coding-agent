@@ -1,0 +1,20 @@
+{
+	"id": "@artale/pi-validate",
+	"name": "@artale/pi-validate",
+	"url": "https://www.npmjs.com/package/@artale/pi-validate",
+	"source": "npm-search",
+	"description": "Production readiness validator. Score projects on code, tests, docs, config, deploy. Inspired by MrE's system-validator-100.",
+	"metadata": {
+		"github_url": "https://github.com/arosstale/pi-validate",
+		"npm_name": "@artale/pi-validate",
+		"description": "Production readiness validator. Score projects on code, tests, docs, config, deploy. Inspired by MrE's system-validator-100.",
+		"keywords": ["pi-package", "pi-extension", "validate", "production", "quality", "audit"],
+		"version": "1.1.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

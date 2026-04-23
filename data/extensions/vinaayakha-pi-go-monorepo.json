@@ -1,0 +1,31 @@
+{
+	"id": "vinaayakha-pi-go-monorepo",
+	"name": "vinaayakha-pi-go-monorepo",
+	"url": "https://github.com/vinaayakha/pi-go-monorepo",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 0,
+		"forks": 0,
+		"language": "Go",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-13T13:37:09Z",
+		"_readme_category_scores": {
+			"extension": 9,
+			"tool": 1,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

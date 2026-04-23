@@ -1,0 +1,20 @@
+{
+	"id": "@baggiiiie/pi-rtk-rewrite",
+	"name": "@baggiiiie/pi-rtk-rewrite",
+	"url": "https://www.npmjs.com/package/@baggiiiie/pi-rtk-rewrite",
+	"source": "npm-search",
+	"description": "A pi package that rewrites `bash` tool calls through [RTK](https://github.com/rtk-ai/rtk) before execution.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@baggiiiie/pi-rtk-rewrite",
+		"description": "A pi package that rewrites `bash` tool calls through [RTK](https://github.com/rtk-ai/rtk) before execution.",
+		"keywords": ["pi-package"],
+		"version": "0.0.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

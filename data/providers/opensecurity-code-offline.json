@@ -1,0 +1,31 @@
+{
+	"id": "opensecurity-code-offline",
+	"name": "opensecurity-code-offline",
+	"url": "https://github.com/opensecurity/code-offline",
+	"source": "github-search",
+	"description": "A 100% local, containerized AI coding agent powered by pi coding agent and llama.cpp. Run private LLMs on CPU or NVIDIA GPU without external API dependencies.",
+	"metadata": {
+		"description": "A 100% local, containerized AI coding agent powered by pi coding agent and llama.cpp. Run private LLMs on CPU or NVIDIA GPU without external API dependencies.",
+		"stars": 5,
+		"forks": 0,
+		"language": "Makefile",
+		"topics": ["agent", "agent-offline", "cpu", "ggml", "gguf", "gpu", "llamacpp", "llm", "offline", "offline-ai", "pi", "pi-coding-agent", "slm"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-03-28T17:21:58Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "provider"
+}

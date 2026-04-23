@@ -1,0 +1,31 @@
+{
+	"id": "dannote-pi-ios",
+	"name": "dannote-pi-ios",
+	"url": "https://github.com/dannote/pi-ios",
+	"source": "github-search",
+	"description": "Pi coding agent for iOS - native Bun + Ghostty terminal",
+	"metadata": {
+		"description": "Pi coding agent for iOS - native Bun + Ghostty terminal",
+		"stars": 22,
+		"forks": 2,
+		"language": "Swift",
+		"topics": ["bun", "coding-agent", "ghostty", "ios", "metal", "native", "pi-agent", "swift", "terminal"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 1,
+		"license": "MIT",
+		"last_commit": "2026-02-21T11:43:46Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 62,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

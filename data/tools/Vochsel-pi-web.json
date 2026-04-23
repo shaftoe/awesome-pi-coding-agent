@@ -1,0 +1,31 @@
+{
+	"id": "Vochsel-pi-web",
+	"name": "Vochsel-pi-web",
+	"url": "https://github.com/Vochsel/pi-web",
+	"source": "github-search",
+	"description": "Packages to use web as a front end to pi-mono in rpc mode",
+	"metadata": {
+		"description": "Packages to use web as a front end to pi-mono in rpc mode",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-23T03:33:54Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

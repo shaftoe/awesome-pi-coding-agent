@@ -1,0 +1,35 @@
+{
+	"id": "pi-timer",
+	"name": "pi-timer",
+	"url": "https://www.npmjs.com/package/pi-timer",
+	"source": "npm-search",
+	"description": "Pi package that shows a per-run elapsed timer inline in the footer.",
+	"metadata": {
+		"github_url": "https://github.com/jojopirker/pi-timer",
+		"npm_name": "pi-timer",
+		"description": "Pi package that shows a per-run elapsed timer inline in the footer.",
+		"keywords": ["pi-package", "pi-extension", "timer"],
+		"version": "0.1.3",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-18T07:35:22Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

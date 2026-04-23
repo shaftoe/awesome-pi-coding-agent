@@ -1,0 +1,23 @@
+{
+	"id": "gypelayo-pi-extensions",
+	"name": "gypelayo-pi-extensions",
+	"url": "https://github.com/gypelayo/pi-extensions",
+	"source": "github-search",
+	"description": "Personal pi coding agent extensions and configuration",
+	"metadata": {
+		"description": "Personal pi coding agent extensions and configuration",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

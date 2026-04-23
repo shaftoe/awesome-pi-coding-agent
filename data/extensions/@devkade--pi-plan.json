@@ -1,0 +1,25 @@
+{
+	"id": "@devkade/pi-plan",
+	"name": "@devkade/pi-plan",
+	"url": "https://www.npmjs.com/package/@devkade/pi-plan",
+	"source": "npm-search",
+	"description": "Plan command extension for Pi: read-only planning mode with approval-based execution",
+	"metadata": {
+		"github_url": "https://github.com/devkade/pi-plan",
+		"npm_name": "@devkade/pi-plan",
+		"description": "Plan command extension for Pi: read-only planning mode with approval-based execution",
+		"keywords": ["pi-package", "pi-extension", "plan-mode", "yolo"],
+		"version": "0.2.2",
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

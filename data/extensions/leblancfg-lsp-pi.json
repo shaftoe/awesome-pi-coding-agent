@@ -1,0 +1,31 @@
+{
+	"id": "leblancfg-lsp-pi",
+	"name": "leblancfg-lsp-pi",
+	"url": "https://github.com/leblancfg/lsp-pi",
+	"source": "github-search",
+	"description": "Language Server Protocol integration for pi-coding-agent",
+	"metadata": {
+		"description": "Language Server Protocol integration for pi-coding-agent",
+		"stars": 1,
+		"forks": 1,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 1,
+		"license": "MIT",
+		"last_commit": "2026-03-03T20:06:30Z",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "@steel-experiments/pi-steel",
+	"name": "@steel-experiments/pi-steel",
+	"url": "https://www.npmjs.com/package/@steel-experiments/pi-steel",
+	"source": "npm-search",
+	"description": "Steel browser automation extension package for Pi",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@steel-experiments/pi-steel",
+		"description": "Steel browser automation extension package for Pi",
+		"keywords": ["pi-package", "pi-extension", "steel", "browser-automation"],
+		"version": "0.1.2",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+	"id": "pi-fast-mode",
+	"name": "pi-fast-mode",
+	"url": "https://www.npmjs.com/package/pi-fast-mode",
+	"source": "npm-search",
+	"description": "Persistent fast-mode toggle for pi that injects service_tier for configured provider/model pairs.",
+	"metadata": {
+		"github_url": "https://github.com/vurihuang/pi-fast-mode",
+		"npm_name": "pi-fast-mode",
+		"description": "Persistent fast-mode toggle for pi that injects service_tier for configured provider/model pairs.",
+		"keywords": ["pi-package", "pi-extension", "pi", "extension", "fast-mode", "service-tier", "provider-payload", "codex"],
+		"version": "0.1.1",
+		"_readme_category_scores": {
+			"extension": 11,
+			"tool": 2,
+			"theme": 0,
+			"provider": 24
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

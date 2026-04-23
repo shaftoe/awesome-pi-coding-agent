@@ -1,0 +1,25 @@
+{
+	"id": "@e9n/pi-heartbeat",
+	"name": "@e9n/pi-heartbeat",
+	"url": "https://www.npmjs.com/package/@e9n/pi-heartbeat",
+	"source": "npm-search",
+	"description": "Periodic health check extension for pi — runs a heartbeat prompt as an isolated subprocess",
+	"metadata": {
+		"github_url": "https://github.com/espennilsen/pi",
+		"npm_name": "@e9n/pi-heartbeat",
+		"description": "Periodic health check extension for pi — runs a heartbeat prompt as an isolated subprocess",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"_readme_category_scores": {
+			"extension": 32,
+			"tool": 8,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+	"id": "azrlb-hermes-pi-dev-team",
+	"name": "azrlb-hermes-pi-dev-team",
+	"url": "https://github.com/azrlb/hermes-pi-dev-team",
+	"source": "github-search",
+	"description": "Autonomous AI dev team: BMAD-driven planning → Hermes orchestration → Pi coding agents → vibe-loop pipeline. Drop into any project, get idea-to-deploy with zero human gates.",
+	"metadata": {
+		"description": "Autonomous AI dev team: BMAD-driven planning → Hermes orchestration → Pi coding agents → vibe-loop pipeline. Drop into any project, get idea-to-deploy with zero human gates.",
+		"stars": 1,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-03T23:33:40Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 8,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

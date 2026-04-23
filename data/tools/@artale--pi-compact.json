@@ -1,0 +1,20 @@
+{
+	"id": "@artale/pi-compact",
+	"name": "@artale/pi-compact",
+	"url": "https://www.npmjs.com/package/@artale/pi-compact",
+	"source": "npm-search",
+	"description": "Smart context compaction for Pi. Topic-aware summarization that preserves code context and drops chatter. Configurable strategies.",
+	"metadata": {
+		"github_url": "https://github.com/arosstale/pi-compact",
+		"npm_name": "@artale/pi-compact",
+		"description": "Smart context compaction for Pi. Topic-aware summarization that preserves code context and drops chatter. Configurable strategies.",
+		"keywords": ["pi-package"],
+		"version": "1.0.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

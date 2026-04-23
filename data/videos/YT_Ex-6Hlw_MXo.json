@@ -1,0 +1,23 @@
+{
+	"id": "YT_Ex-6Hlw_MXo",
+	"name": "Pi Agent Builder: Watch Feedback turn into Evaluation Criteria in your leaderboard",
+	"url": "https://www.youtube.com/watch?v=Ex-6Hlw_MXo",
+	"source": "youtube-search",
+	"description": "Annotate your agent's traces with feedback and watch that turn into evaluation judges that get automatically reflected as a ...",
+	"metadata": {
+		"title": "Pi Agent Builder: Watch Feedback turn into Evaluation Criteria in your leaderboard",
+		"description": "Annotate your agent's traces with feedback and watch that turn into evaluation judges that get automatically reflected as a ...",
+		"channel": "Pi Labs",
+		"published_at": "2025-10-15T23:32:31Z",
+		"thumbnail": "https://i.ytimg.com/vi/Ex-6Hlw_MXo/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 11,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "video"
+}

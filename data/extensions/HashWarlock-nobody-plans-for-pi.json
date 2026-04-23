@@ -1,0 +1,31 @@
+{
+	"id": "HashWarlock-nobody-plans-for-pi",
+	"name": "HashWarlock-nobody-plans-for-pi",
+	"url": "https://github.com/HashWarlock/nobody-plans-for-pi",
+	"source": "github-search",
+	"description": "Self-improving development workflows for pi coding agent. Subagent orchestration, TDD, systematic debugging. Adapted from obra/superpowers.",
+	"metadata": {
+		"description": "Self-improving development workflows for pi coding agent. Subagent orchestration, TDD, systematic debugging. Adapted from obra/superpowers.",
+		"stars": 28,
+		"forks": 1,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 1,
+		"license": "MIT",
+		"last_commit": "2026-03-30T16:47:45Z",
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 0,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+	"id": "@pimote/pimote",
+	"name": "@pimote/pimote",
+	"url": "https://www.npmjs.com/package/@pimote/pimote",
+	"source": "npm-search",
+	"description": "Web client and embedded server for pi with multi-session browser access, streaming, and extension UI support",
+	"metadata": {
+		"github_url": "https://github.com/alennartz/pimote",
+		"npm_name": "@pimote/pimote",
+		"description": "Web client and embedded server for pi with multi-session browser access, streaming, and extension UI support",
+		"keywords": ["pi", "pimote", "coding-agent", "browser", "pwa", "remote"],
+		"version": "0.2.0",
+		"_readme_category_scores": {
+			"extension": 13,
+			"tool": 13,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+	"id": "traylinx-pi-switchai-provider",
+	"name": "traylinx-pi-switchai-provider",
+	"url": "https://github.com/traylinx/pi-switchai-provider",
+	"source": "github-search",
+	"description": "switchai provider extension for pi coding agent — routes completions through the switchAILocal gateway",
+	"metadata": {
+		"description": "switchai provider extension for pi coding agent — routes completions through the switchAILocal gateway",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 12,
+			"tool": 1,
+			"theme": 0,
+			"provider": 25
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

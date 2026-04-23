@@ -1,0 +1,35 @@
+{
+	"id": "pi-ralph",
+	"name": "pi-ralph",
+	"url": "https://www.npmjs.com/package/pi-ralph",
+	"source": "npm-search",
+	"description": "Hat-based multi-agent orchestration loops for pi. Keeps the agent iterating through specialized roles (Planner, Builder, Reviewer, etc.) until a task is complete.",
+	"metadata": {
+		"github_url": "https://github.com/samfoy/pi-ralph",
+		"npm_name": "pi-ralph",
+		"description": "Hat-based multi-agent orchestration loops for pi. Keeps the agent iterating through specialized roles (Planner, Builder, Reviewer, etc.) until a task is complete.",
+		"keywords": ["pi-package", "extension"],
+		"version": "1.0.1",
+		"stars": 7,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T19:24:37Z",
+		"topics": ["ai-coding-agent", "autonomous-agents", "developer-tools", "multi-agent", "orchestration", "pi-coding-agent"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

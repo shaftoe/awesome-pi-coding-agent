@@ -1,0 +1,31 @@
+{
+	"id": "stefanerdmann-pi-sandbox",
+	"name": "stefanerdmann-pi-sandbox",
+	"url": "https://github.com/stefanerdmann/pi-sandbox",
+	"source": "github-search",
+	"description": "CLI tool for sandboxing the pi coding agent in per-project Lima VMs on macOS ARM. Each project gets an isolated Ubuntu VM with pi pre-installed, host files mounted in, and environment-specific config (corporate  │ certs, auth tokens, MCP servers) handled automatically. Built for teams using GitHub Copilot Enterprise.",
+	"metadata": {
+		"description": "CLI tool for sandboxing the pi coding agent in per-project Lima VMs on macOS ARM. Each project gets an isolated Ubuntu VM with pi pre-installed, host files mounted in, and environment-specific config (corporate  │ certs, auth tokens, MCP servers) handled automatically. Built for teams using GitHub Copilot Enterprise.",
+		"stars": 0,
+		"forks": 0,
+		"language": "JavaScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-20T06:40:44Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 39,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,31 @@
+{
+	"id": "butttons-pi-action-runner",
+	"name": "butttons-pi-action-runner",
+	"url": "https://github.com/butttons/pi-action-runner",
+	"source": "github-search",
+	"description": "GitHub Action that runs AI-powered PR reviews using pi coding agent",
+	"metadata": {
+		"description": "GitHub Action that runs AI-powered PR reviews using pi coding agent",
+		"stars": 2,
+		"forks": 1,
+		"language": "TypeScript",
+		"topics": ["actions", "github-actions", "pi-coding-agent"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-03-20T13:43:49Z",
+		"_readme_category_scores": {
+			"extension": 15,
+			"tool": 3,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

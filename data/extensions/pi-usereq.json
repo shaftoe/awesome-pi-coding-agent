@@ -1,0 +1,35 @@
+{
+	"id": "pi-usereq",
+	"name": "pi-usereq",
+	"url": "https://www.npmjs.com/package/pi-usereq",
+	"source": "npm-search",
+	"description": "<p align=\"center\">   <img src=\"https://img.shields.io/badge/python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white\" alt=\"Python 3.11+\">   <img src=\"https://img.shields.io/badge/license-GPL--3.0-491?style=flat-square\" alt=\"License: GPL-3.0\">  ",
+	"metadata": {
+		"github_url": "https://github.com/Ogekuri/PI-useReq",
+		"npm_name": "pi-usereq",
+		"description": "<p align=\"center\">   <img src=\"https://img.shields.io/badge/python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white\" alt=\"Python 3.11+\">   <img src=\"https://img.shields.io/badge/license-GPL--3.0-491?style=flat-square\" alt=\"License: GPL-3.0\">  ",
+		"keywords": [],
+		"version": "0.7.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "GPL-3.0",
+		"last_commit": "2026-04-20T12:30:17Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 19,
+			"tool": 4,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,35 @@
+{
+	"id": "pi-tmux-focus-cursor",
+	"name": "pi-tmux-focus-cursor",
+	"url": "https://www.npmjs.com/package/pi-tmux-focus-cursor",
+	"source": "npm-search",
+	"description": "Hide Pi's fake editor cursor when the current tmux pane loses focus",
+	"metadata": {
+		"github_url": "https://github.com/mauriciojunior/pi-tmux-focus-cursor",
+		"npm_name": "pi-tmux-focus-cursor",
+		"description": "Hide Pi's fake editor cursor when the current tmux pane loses focus",
+		"keywords": ["pi-package", "pi-extension", "pi", "tmux", "focus", "cursor", "tui"],
+		"version": "0.1.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-26T21:39:23Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 9,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

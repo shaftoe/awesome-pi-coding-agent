@@ -1,0 +1,26 @@
+{
+	"id": "ram4-dev-multi-sdd-team",
+	"name": "ram4-dev-multi-sdd-team",
+	"url": "https://github.com/ram4-dev/multi-sdd-team",
+	"source": "github-search",
+	"description": "SDD multi agent framework for pi coding agent",
+	"metadata": {
+		"description": "SDD multi agent framework for pi coding agent",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-20T22:06:20Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,35 @@
+{
+	"id": "pi-plates",
+	"name": "pi-plates",
+	"url": "https://www.npmjs.com/package/pi-plates",
+	"source": "npm-search",
+	"description": "control Pi-Plates from node",
+	"metadata": {
+		"github_url": "https://github.com/Harsch-Systems/node-pi-plates",
+		"npm_name": "pi-plates",
+		"description": "control Pi-Plates from node",
+		"keywords": ["adc", "dac", "relay", "RELAYplate", "RELAYplate2", "DAQCplate", "DAQC2plate", "MOTORplate", "THERMOplate", "TINKERplate", "ADCplate", "DIGIplate", "CURRENTplate", "POWERplate24", "UPS", "thermocouple", "ds18b20", "Pi-Plates", "piplates", "pi", "plates"],
+		"version": "0.3.0",
+		"stars": 0,
+		"forks": 7,
+		"open_issues": 9,
+		"language": "Python",
+		"license": null,
+		"last_commit": "2024-04-01T11:30:34Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "tool"
+}

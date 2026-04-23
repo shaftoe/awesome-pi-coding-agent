@@ -1,0 +1,31 @@
+{
+	"id": "edutechminds-ai-agents-setup-guide",
+	"name": "edutechminds-ai-agents-setup-guide",
+	"url": "https://github.com/edutechminds/ai-agents-setup-guide",
+	"source": "github-search",
+	"description": "Free setup guide for Pi + Hermes AI coding agents on Ubuntu via Multipass VM. Includes prompting guide, free tools, VM best practices. No API key required.",
+	"metadata": {
+		"description": "Free setup guide for Pi + Hermes AI coding agents on Ubuntu via Multipass VM. Includes prompting guide, free tools, VM best practices. No API key required.",
+		"stars": 1,
+		"forks": 0,
+		"language": null,
+		"topics": ["ai-agents", "beginner-friendly", "cloud-init", "coding-agents", "free-ai-tools", "gemini", "hermes-agent", "lm-studio", "local-llm", "multipass", "ollama", "openrouter", "pi-coding-agent", "prompt-engineering", "student-resources", "tmux", "ubuntu", "virtual-machine", "vscode"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://tech-minds.com",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-10T01:13:06Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 3,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,28 @@
+{
+	"id": "Smackdab-Dev-smackplane",
+	"name": "Smackdab-Dev-smackplane",
+	"url": "https://github.com/Smackdab-Dev/smackplane",
+	"source": "github-search",
+	"description": "Smackdab fork of HenryLach/taskplane — multi-agent task orchestration for pi-mono",
+	"metadata": {
+		"description": "Smackdab fork of HenryLach/taskplane — multi-agent task orchestration for pi-mono",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 14,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

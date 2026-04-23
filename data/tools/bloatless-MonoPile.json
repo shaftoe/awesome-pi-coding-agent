@@ -1,0 +1,31 @@
+{
+	"id": "bloatless-MonoPile",
+	"name": "bloatless-MonoPile",
+	"url": "https://github.com/bloatless/MonoPile",
+	"source": "github-search",
+	"description": "Monolog handler and formatter for Pile.",
+	"metadata": {
+		"description": "Monolog handler and formatter for Pile.",
+		"stars": 1,
+		"forks": 0,
+		"language": "PHP",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2023-04-20T06:11:07Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "tool"
+}

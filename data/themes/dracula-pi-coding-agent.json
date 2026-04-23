@@ -1,0 +1,28 @@
+{
+	"id": "dracula-pi-coding-agent",
+	"name": "dracula-pi-coding-agent",
+	"url": "https://github.com/dracula/pi-coding-agent",
+	"source": "github-search",
+	"description": "🧛🏻‍♂️ Dark theme for PI Coding Agent",
+	"metadata": {
+		"description": "🧛🏻‍♂️ Dark theme for PI Coding Agent",
+		"stars": 1,
+		"forks": 1,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 9,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "theme"
+}

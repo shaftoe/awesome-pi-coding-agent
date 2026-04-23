@@ -1,0 +1,25 @@
+{
+	"id": "pi-llm-debugging",
+	"name": "pi-llm-debugging",
+	"url": "https://www.npmjs.com/package/pi-llm-debugging",
+	"source": "npm-search",
+	"description": "Saves LLM provider request payloads to the project's .pi folder for per-project debugging",
+	"metadata": {
+		"github_url": "https://github.com/ross-jill-ws/pi-llm-debugging",
+		"npm_name": "pi-llm-debugging",
+		"description": "Saves LLM provider request payloads to the project's .pi folder for per-project debugging",
+		"keywords": ["pi-package", "debugging", "llm", "prompt", "token", "context", "inspect", "logging", "tracing", "optimization"],
+		"version": "0.2.0",
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 0,
+			"theme": 0,
+			"provider": 12
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

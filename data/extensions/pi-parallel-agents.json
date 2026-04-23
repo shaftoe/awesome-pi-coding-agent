@@ -1,0 +1,25 @@
+{
+	"id": "pi-parallel-agents",
+	"name": "pi-parallel-agents",
+	"url": "https://www.npmjs.com/package/pi-parallel-agents",
+	"source": "npm-search",
+	"description": "Dynamic parallel agent execution for pi - run multiple agents with different models without pre-defining configurations",
+	"metadata": {
+		"github_url": "https://github.com/messense/pi-parallel-agents",
+		"npm_name": "pi-parallel-agents",
+		"description": "Dynamic parallel agent execution for pi - run multiple agents with different models without pre-defining configurations",
+		"keywords": ["pi-package", "pi", "ai", "agent", "parallel", "multi-agent"],
+		"version": "0.2.0",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

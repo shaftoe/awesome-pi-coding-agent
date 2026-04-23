@@ -1,0 +1,23 @@
+{
+	"id": "Kybernetria-pi-cx",
+	"name": "Kybernetria-pi-cx",
+	"url": "https://github.com/Kybernetria/pi-cx",
+	"source": "github-search",
+	"description": "a pi-mono extension for a commissioning framework",
+	"metadata": {
+		"description": "a pi-mono extension for a commissioning framework",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

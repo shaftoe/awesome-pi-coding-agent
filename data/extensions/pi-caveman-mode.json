@@ -1,0 +1,25 @@
+{
+	"id": "pi-caveman-mode",
+	"name": "pi-caveman-mode",
+	"url": "https://www.npmjs.com/package/pi-caveman-mode",
+	"source": "npm-search",
+	"description": "Caveman Mode extension for pi. Makes assistant responses terse and blunt.",
+	"metadata": {
+		"github_url": "https://github.com/habitssss/pi-caveman-mode",
+		"npm_name": "pi-caveman-mode",
+		"description": "Caveman Mode extension for pi. Makes assistant responses terse and blunt.",
+		"keywords": ["pi-package", "pi-extension", "extension", "pi", "caveman-mode"],
+		"version": "1.0.0",
+		"_readme_category_scores": {
+			"extension": 15,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

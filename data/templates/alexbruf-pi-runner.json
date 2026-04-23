@@ -1,0 +1,28 @@
+{
+	"id": "alexbruf-pi-runner",
+	"name": "alexbruf-pi-runner",
+	"url": "https://github.com/alexbruf/pi-runner",
+	"source": "github-search",
+	"description": "A fork-friendly multi-skill AI agent template on Cloudflare Workers, powered by pi-mono",
+	"metadata": {
+		"description": "A fork-friendly multi-skill AI agent template on Cloudflare Workers, powered by pi-mono",
+		"stars": 1,
+		"forks": 1,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 17,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "template"
+}

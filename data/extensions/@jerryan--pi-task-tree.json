@@ -1,0 +1,35 @@
+{
+	"id": "@jerryan/pi-task-tree",
+	"name": "@jerryan/pi-task-tree",
+	"url": "https://www.npmjs.com/package/@jerryan/pi-task-tree",
+	"source": "npm-search",
+	"description": "Nested task list with completed tracking and focus mode for pi",
+	"metadata": {
+		"github_url": "https://github.com/JerryAZR/pi-task-tree",
+		"npm_name": "@jerryan/pi-task-tree",
+		"description": "Nested task list with completed tracking and focus mode for pi",
+		"keywords": ["pi-package", "pi", "task", "tree", "nested", "todo"],
+		"version": "0.2.0",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-12T03:54:11Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,35 @@
+{
+	"id": "pi-breaker",
+	"name": "pi-breaker",
+	"url": "https://www.npmjs.com/package/pi-breaker",
+	"source": "npm-search",
+	"description": "Prevents macOS freezes during pi sessions. Auto-kills runaway processes when memory runs out.",
+	"metadata": {
+		"github_url": "https://github.com/gaherwar/pi-breaker",
+		"npm_name": "pi-breaker",
+		"description": "Prevents macOS freezes during pi sessions. Auto-kills runaway processes when memory runs out.",
+		"keywords": ["pi-package", "memory", "macos", "watchdog", "breaker", "freeze", "crash", "oom", "swap", "ram", "memory-pressure", "kill", "process-manager", "system-health"],
+		"version": "1.0.1",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-19T13:26:19Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

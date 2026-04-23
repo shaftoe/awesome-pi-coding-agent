@@ -1,0 +1,25 @@
+{
+	"id": "@oribish/brainkit",
+	"name": "@oribish/brainkit",
+	"url": "https://www.npmjs.com/package/@oribish/brainkit",
+	"source": "npm-search",
+	"description": "Second brain extension for pi - capture, organize, and retrieve knowledge with PARA method",
+	"metadata": {
+		"github_url": "https://github.com/oribarilan/brainkit",
+		"npm_name": "@oribish/brainkit",
+		"description": "Second brain extension for pi - capture, organize, and retrieve knowledge with PARA method",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"_readme_category_scores": {
+			"extension": 13,
+			"tool": 1,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

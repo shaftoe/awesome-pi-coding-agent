@@ -1,0 +1,31 @@
+{
+	"id": "vamsi-pi",
+	"name": "vamsi-pi",
+	"url": "https://github.com/vamsi/pi",
+	"source": "github-search",
+	"description": "Port of pi-mono to Python; AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pod.",
+	"metadata": {
+		"description": "Port of pi-mono to Python; AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pod.",
+		"stars": 16,
+		"forks": 2,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-02-08T00:23:33Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 2,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 62,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

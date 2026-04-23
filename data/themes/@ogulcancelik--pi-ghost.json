@@ -1,0 +1,35 @@
+{
+	"id": "@ogulcancelik/pi-ghost",
+	"name": "@ogulcancelik/pi-ghost",
+	"url": "https://www.npmjs.com/package/@ogulcancelik/pi-ghost",
+	"source": "npm-search",
+	"description": "Like /btw, but as a native ghost overlay for pi",
+	"metadata": {
+		"github_url": "https://github.com/ogulcancelik/pi-extensions",
+		"npm_name": "@ogulcancelik/pi-ghost",
+		"description": "Like /btw, but as a native ghost overlay for pi",
+		"keywords": ["pi-package", "pi-extension", "ghost", "gpi", "ephemeral", "overlay", "side-conversation", "coding-agent"],
+		"version": "0.1.2",
+		"stars": 61,
+		"forks": 12,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-21T18:46:39Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 3,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 76,
+		"level": "active"
+	},
+	"category": "theme"
+}

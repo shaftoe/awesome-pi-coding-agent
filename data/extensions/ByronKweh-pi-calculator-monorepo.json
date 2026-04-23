@@ -1,0 +1,31 @@
+{
+	"id": "ByronKweh-pi-calculator-monorepo",
+	"name": "ByronKweh-pi-calculator-monorepo",
+	"url": "https://github.com/ByronKweh/pi-calculator-monorepo",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 5,
+		"license": null,
+		"last_commit": "2023-05-08T06:41:32Z",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "extension"
+}

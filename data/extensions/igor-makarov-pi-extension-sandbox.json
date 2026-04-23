@@ -1,0 +1,23 @@
+{
+	"id": "igor-makarov-pi-extension-sandbox",
+	"name": "igor-makarov-pi-extension-sandbox",
+	"url": "https://github.com/igor-makarov/pi-extension-sandbox",
+	"source": "github-search",
+	"description": "A proper sandbox extension for pi (https://github.com/badlogic/pi-mono)",
+	"metadata": {
+		"description": "A proper sandbox extension for pi (https://github.com/badlogic/pi-mono)",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "@feniix/pi-sequential-thinking",
+	"name": "@feniix/pi-sequential-thinking",
+	"url": "https://www.npmjs.com/package/@feniix/pi-sequential-thinking",
+	"source": "npm-search",
+	"description": "Sequential Thinking MCP extension for pi — structured progressive thinking through defined stages",
+	"metadata": {
+		"github_url": "https://github.com/feniix/pi-extensions",
+		"npm_name": "@feniix/pi-sequential-thinking",
+		"description": "Sequential Thinking MCP extension for pi — structured progressive thinking through defined stages",
+		"keywords": ["pi", "pi-package", "pi-extension", "pi-coding-agent", "ai", "sequential-thinking", "mcp", "model-context-protocol", "structured-thinking"],
+		"version": "2.1.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,23 @@
+{
+	"id": "Kybernetria-pi-sum",
+	"name": "Kybernetria-pi-sum",
+	"url": "https://github.com/Kybernetria/pi-sum",
+	"source": "github-search",
+	"description": "a pi-mono extension for fetching content from a url and automating summarization ",
+	"metadata": {
+		"description": "a pi-mono extension for fetching content from a url and automating summarization ",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

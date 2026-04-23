@@ -1,0 +1,25 @@
+{
+	"id": "pi-zenmux",
+	"name": "pi-zenmux",
+	"url": "https://www.npmjs.com/package/pi-zenmux",
+	"source": "npm-search",
+	"description": "ZenMux provider extension for pi-mono",
+	"metadata": {
+		"github_url": "https://github.com/yangyang0507/pi-zenmux",
+		"npm_name": "pi-zenmux",
+		"description": "ZenMux provider extension for pi-mono",
+		"keywords": ["pi", "pi-package", "pi-extension", "zenmux", "llm", "ai", "agent", "cli"],
+		"version": "0.1.2",
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 0,
+			"theme": 0,
+			"provider": 5
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "pi-opinionated-mimo",
+	"name": "pi-opinionated-mimo",
+	"url": "https://www.npmjs.com/package/pi-opinionated-mimo",
+	"source": "npm-search",
+	"description": "Provider-only Pi package that registers the single MiMo model used by pi-excalibur.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-opinionated-mimo",
+		"description": "Provider-only Pi package that registers the single MiMo model used by pi-excalibur.",
+		"keywords": ["pi-package", "pi-extension", "provider", "mimo"],
+		"version": "0.1.2",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,23 @@
+{
+	"id": "YT_28MLpm4NSBs",
+	"name": "Pi Coding Agent Custom Theme and Animated Gif During Thought",
+	"url": "https://www.youtube.com/watch?v=28MLpm4NSBs",
+	"source": "youtube-search",
+	"description": "Pi Agent is a great alternative to Claude Code. I made a theme and extension that shows an animated GIF every time an AI agent ...",
+	"metadata": {
+		"title": "Pi Coding Agent Custom Theme and Animated Gif During Thought",
+		"description": "Pi Agent is a great alternative to Claude Code. I made a theme and extension that shows an animated GIF every time an AI agent ...",
+		"channel": "Dara Jeffus",
+		"published_at": "2026-02-26T20:03:10Z",
+		"thumbnail": "https://i.ytimg.com/vi/28MLpm4NSBs/hqdefault.jpg",
+		"_readme_category_scores": {},
+		"view_count": 29,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 65,
+		"level": "maintained"
+	},
+	"category": "video"
+}

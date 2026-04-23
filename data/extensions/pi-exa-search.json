@@ -1,0 +1,35 @@
+{
+	"id": "pi-exa-search",
+	"name": "pi-exa-search",
+	"url": "https://www.npmjs.com/package/pi-exa-search",
+	"source": "npm-search",
+	"description": "Exa-powered source discovery and search workflows for Pi.",
+	"metadata": {
+		"github_url": "https://github.com/najibninaba/pi-exa-search",
+		"npm_name": "pi-exa-search",
+		"description": "Exa-powered source discovery and search workflows for Pi.",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "extension", "exa", "web-search"],
+		"version": "0.1.3",
+		"stars": 2,
+		"forks": 1,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-07T07:23:02Z",
+		"topics": ["exa", "pi", "pi-coding-agent", "pi-package", "research", "typescript", "web-search"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

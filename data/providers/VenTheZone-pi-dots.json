@@ -1,0 +1,28 @@
+{
+	"id": "VenTheZone-pi-dots",
+	"name": "VenTheZone-pi-dots",
+	"url": "https://github.com/VenTheZone/pi-dots",
+	"source": "github-search",
+	"description": "All the skills you'll need for AI-powered development with pi-coding-agent. 60+ skills covering research, content, project management, debugging, and more. Includes external-scout for implementation plans, dynamic model providers (OpenRouter, NVIDIA NIM), and comprehensive tooling for modern development workflows.",
+	"metadata": {
+		"description": "All the skills you'll need for AI-powered development with pi-coding-agent. 60+ skills covering research, content, project management, debugging, and more. Includes external-scout for implementation plans, dynamic model providers (OpenRouter, NVIDIA NIM), and comprehensive tooling for modern development workflows.",
+		"stars": 39,
+		"forks": 1,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 3,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 54,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

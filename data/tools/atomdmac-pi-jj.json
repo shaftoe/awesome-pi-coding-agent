@@ -1,0 +1,28 @@
+{
+	"id": "atomdmac-pi-jj",
+	"name": "atomdmac-pi-jj",
+	"url": "https://github.com/atomdmac/pi-jj",
+	"source": "github-search",
+	"description": "An extension for working with JJ repository workspaces within the pi coding agent.",
+	"metadata": {
+		"description": "An extension for working with JJ repository workspaces within the pi coding agent.",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 10,
+			"tool": 11,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

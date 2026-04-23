@@ -1,0 +1,25 @@
+{
+	"id": "pi-read-many",
+	"name": "pi-read-many",
+	"url": "https://www.npmjs.com/package/pi-read-many",
+	"source": "npm-search",
+	"description": "Batch file reads for Pi via read_many with adaptive packing under output limits",
+	"metadata": {
+		"github_url": "https://github.com/Gurpartap/pi-read-many",
+		"npm_name": "pi-read-many",
+		"description": "Batch file reads for Pi via read_many with adaptive packing under output limits",
+		"keywords": ["pi", "pi-extension", "pi-package", "read_many", "read-many", "file-reading", "context-packing"],
+		"version": "0.1.0",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

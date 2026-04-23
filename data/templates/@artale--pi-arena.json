@@ -1,0 +1,20 @@
+{
+	"id": "@artale/pi-arena",
+	"name": "@artale/pi-arena",
+	"url": "https://www.npmjs.com/package/@artale/pi-arena",
+	"source": "npm-search",
+	"description": "Model benchmarking with domain-aware hallucination tracking, per-model leaderboards, and task templates. Track speed, quality, and pass rate across coding, reasoning, and general knowledge.",
+	"metadata": {
+		"github_url": "https://github.com/artale93/pi-arena",
+		"npm_name": "@artale/pi-arena",
+		"description": "Model benchmarking with domain-aware hallucination tracking, per-model leaderboards, and task templates. Track speed, quality, and pass rate across coding, reasoning, and general knowledge.",
+		"keywords": ["pi-package", "pi-extension", "benchmark", "arena", "evaluation", "hallucination", "model-comparison"],
+		"version": "1.5.2",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "template"
+}

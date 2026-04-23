@@ -1,0 +1,28 @@
+{
+	"id": "woxQAQ-otelpi",
+	"name": "woxQAQ-otelpi",
+	"url": "https://github.com/woxQAQ/otelpi",
+	"source": "github-search",
+	"description": "A pi coding agent opentelemetry extension",
+	"metadata": {
+		"description": "A pi coding agent opentelemetry extension",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 10,
+			"tool": 0,
+			"theme": 0,
+			"provider": 10
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

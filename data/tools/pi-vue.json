@@ -1,0 +1,30 @@
+{
+	"id": "pi-vue",
+	"name": "pi-vue",
+	"url": "https://www.npmjs.com/package/pi-vue",
+	"source": "npm-search",
+	"description": "A Vue.js Plugin",
+	"metadata": {
+		"github_url": "https://github.com/AbelHeinsbroek/pi-vue",
+		"npm_name": "pi-vue",
+		"description": "A Vue.js Plugin",
+		"keywords": [],
+		"version": "1.2.0",
+		"stars": 6,
+		"forks": 1,
+		"open_issues": 12,
+		"language": "Vue",
+		"license": null,
+		"last_commit": "2024-09-09T08:25:09Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 31,
+		"level": "stale"
+	},
+	"category": "tool"
+}

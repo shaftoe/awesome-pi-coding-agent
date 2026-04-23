@@ -1,0 +1,28 @@
+{
+	"id": "tomsej-pi-ext",
+	"name": "tomsej-pi-ext",
+	"url": "https://github.com/tomsej/pi-ext",
+	"source": "github-search",
+	"description": "Extensions, skills, and themes for Pi coding agent",
+	"metadata": {
+		"description": "Extensions, skills, and themes for Pi coding agent",
+		"stars": 34,
+		"forks": 1,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 23,
+			"tool": 1,
+			"theme": 5,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 53,
+		"level": "maintained"
+	},
+	"category": "theme"
+}

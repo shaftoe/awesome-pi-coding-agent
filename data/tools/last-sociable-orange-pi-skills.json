@@ -1,0 +1,31 @@
+{
+	"id": "last-sociable-orange-pi-skills",
+	"name": "last-sociable-orange-pi-skills",
+	"url": "https://github.com/last-sociable-orange/pi-skills",
+	"source": "github-search",
+	"description": "Repository for pi coding agent skills, used for electronics design work flow automation",
+	"metadata": {
+		"description": "Repository for pi coding agent skills, used for electronics design work flow automation",
+		"stars": 0,
+		"forks": 0,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-06T01:57:00Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 6,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

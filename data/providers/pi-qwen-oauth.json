@@ -1,0 +1,25 @@
+{
+	"id": "pi-qwen-oauth",
+	"name": "pi-qwen-oauth",
+	"url": "https://www.npmjs.com/package/pi-qwen-oauth",
+	"source": "npm-search",
+	"description": "Qwen OAuth provider for pi using the Qwen Portal OpenAI-compatible API.",
+	"metadata": {
+		"github_url": "https://github.com/RimuruW/pi-qwen-oauth",
+		"npm_name": "pi-qwen-oauth",
+		"description": "Qwen OAuth provider for pi using the Qwen Portal OpenAI-compatible API.",
+		"keywords": [],
+		"version": "0.2.1",
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 1,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

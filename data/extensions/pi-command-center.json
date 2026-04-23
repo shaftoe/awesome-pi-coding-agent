@@ -1,0 +1,25 @@
+{
+	"id": "pi-command-center",
+	"name": "pi-command-center",
+	"url": "https://www.npmjs.com/package/pi-command-center",
+	"source": "npm-search",
+	"description": "Scrollable widget displaying available /commands from extensions/prompts/skills, compatible with simultaneous editor use.",
+	"metadata": {
+		"github_url": "https://github.com/w-winter/dot314",
+		"npm_name": "pi-command-center",
+		"description": "Scrollable widget displaying available /commands from extensions/prompts/skills, compatible with simultaneous editor use.",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "commands", "widget"],
+		"version": "0.1.4",
+		"_readme_category_scores": {
+			"extension": 44,
+			"tool": 9,
+			"theme": 5,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

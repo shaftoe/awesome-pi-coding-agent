@@ -1,0 +1,20 @@
+{
+	"id": "@qmxme/pie",
+	"name": "@qmxme/pie",
+	"url": "https://www.npmjs.com/package/@qmxme/pie",
+	"source": "npm-search",
+	"description": "My favorite pi extensions, all in one package.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@qmxme/pie",
+		"description": "My favorite pi extensions, all in one package.",
+		"keywords": ["pi-package"],
+		"version": "0.5.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

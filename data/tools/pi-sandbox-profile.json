@@ -1,0 +1,35 @@
+{
+	"id": "pi-sandbox-profile",
+	"name": "pi-sandbox-profile",
+	"url": "https://www.npmjs.com/package/pi-sandbox-profile",
+	"source": "npm-search",
+	"description": "Sandbox profiles for Pi: open/intro-sec/engineering with file-tool enforcement and telemetry",
+	"metadata": {
+		"github_url": "https://github.com/lajarre/pi-sandbox-profile",
+		"npm_name": "pi-sandbox-profile",
+		"description": "Sandbox profiles for Pi: open/intro-sec/engineering with file-tool enforcement and telemetry",
+		"keywords": ["pi-package", "pi-extension", "sandbox", "security"],
+		"version": "1.0.0",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-31T15:43:06Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 21,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

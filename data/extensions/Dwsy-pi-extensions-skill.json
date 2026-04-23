@@ -1,0 +1,28 @@
+{
+	"id": "Dwsy-pi-extensions-skill",
+	"name": "Dwsy-pi-extensions-skill",
+	"url": "https://github.com/Dwsy/pi-extensions-skill",
+	"source": "github-search",
+	"description": "Progressive learning guide for Pi coding agent extensions",
+	"metadata": {
+		"description": "Progressive learning guide for Pi coding agent extensions",
+		"stars": 6,
+		"forks": 1,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 34,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 51,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+	"id": "eirenik0-pi-mempalace",
+	"name": "eirenik0-pi-mempalace",
+	"url": "https://github.com/eirenik0/pi-mempalace",
+	"source": "github-search",
+	"description": "pi coding agent extension for mempalace",
+	"metadata": {
+		"description": "pi coding agent extension for mempalace",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 8,
+			"tool": 3,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

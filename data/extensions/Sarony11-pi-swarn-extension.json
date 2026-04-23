@@ -1,0 +1,28 @@
+{
+	"id": "Sarony11-pi-swarn-extension",
+	"name": "Sarony11-pi-swarn-extension",
+	"url": "https://github.com/Sarony11/pi-swarn-extension",
+	"source": "github-search",
+	"description": "pi-coding-agent extension that allows to work with swarm agents",
+	"metadata": {
+		"description": "pi-coding-agent extension that allows to work with swarm agents",
+		"stars": 1,
+		"forks": 0,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 10,
+			"tool": 1,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

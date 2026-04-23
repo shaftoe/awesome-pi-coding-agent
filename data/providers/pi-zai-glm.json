@@ -1,0 +1,25 @@
+{
+	"id": "pi-zai-glm",
+	"name": "pi-zai-glm",
+	"url": "https://www.npmjs.com/package/pi-zai-glm",
+	"source": "npm-search",
+	"description": "Extra LLM providers for pi (Z.ai GLM).",
+	"metadata": {
+		"github_url": "https://github.com/ross-jill-ws/pi-zai-glm",
+		"npm_name": "pi-zai-glm",
+		"description": "Extra LLM providers for pi (Z.ai GLM).",
+		"keywords": ["pi-package", "llm", "provider", "zai", "glm"],
+		"version": "0.1.1",
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 0,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

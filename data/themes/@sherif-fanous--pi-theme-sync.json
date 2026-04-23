@@ -1,0 +1,25 @@
+{
+	"id": "@sherif-fanous/pi-theme-sync",
+	"name": "@sherif-fanous/pi-theme-sync",
+	"url": "https://www.npmjs.com/package/@sherif-fanous/pi-theme-sync",
+	"source": "npm-search",
+	"description": "Pi package extension that automatically switches Pi themes to match terminal or OS appearance",
+	"metadata": {
+		"github_url": "https://github.com/sherif-fanous/pi-theme-sync",
+		"npm_name": "@sherif-fanous/pi-theme-sync",
+		"description": "Pi package extension that automatically switches Pi themes to match terminal or OS appearance",
+		"keywords": ["pi", "pi-coding-agent", "pi-package", "theme-sync", "light-mode", "dark-mode", "terminal-appearance", "system-appearance"],
+		"version": "0.2.0",
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 0,
+			"theme": 26,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "theme"
+}

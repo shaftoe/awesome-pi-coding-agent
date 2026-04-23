@@ -1,0 +1,35 @@
+{
+	"id": "@pi-ohm/core",
+	"name": "@pi-ohm/core",
+	"url": "https://www.npmjs.com/package/@pi-ohm/core",
+	"source": "npm-search",
+	"description": "Internal shared runtime primitives for pi-ohm packages.",
+	"metadata": {
+		"github_url": "https://github.com/pi-ohm/pi-ohm",
+		"npm_name": "@pi-ohm/core",
+		"description": "Internal shared runtime primitives for pi-ohm packages.",
+		"keywords": [],
+		"version": "0.6.4-dev.22269206811.1.0e8e307",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 7,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-06T02:18:28Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 2,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,23 @@
+{
+	"id": "Kybernetria-pi-ns",
+	"name": "Kybernetria-pi-ns",
+	"url": "https://github.com/Kybernetria/pi-ns",
+	"source": "github-search",
+	"description": "a pi-mono extension for creating namespaces across extensions",
+	"metadata": {
+		"description": "a pi-mono extension for creating namespaces across extensions",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

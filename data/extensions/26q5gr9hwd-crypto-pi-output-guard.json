@@ -1,0 +1,31 @@
+{
+	"id": "26q5gr9hwd-crypto-pi-output-guard",
+	"name": "26q5gr9hwd-crypto-pi-output-guard",
+	"url": "https://github.com/26q5gr9hwd-crypto/pi-output-guard",
+	"source": "github-search",
+	"description": "Universal token ceiling for pi-coding-agent tool_results",
+	"metadata": {
+		"description": "Universal token ceiling for pi-coding-agent tool_results",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-20T06:46:12Z",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

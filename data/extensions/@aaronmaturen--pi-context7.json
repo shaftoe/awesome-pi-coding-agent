@@ -1,0 +1,20 @@
+{
+	"id": "@aaronmaturen/pi-context7",
+	"name": "@aaronmaturen/pi-context7",
+	"url": "https://www.npmjs.com/package/@aaronmaturen/pi-context7",
+	"source": "npm-search",
+	"description": "Context7 extension for pi - fetches up-to-date library documentation via context7.com",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@aaronmaturen/pi-context7",
+		"description": "Context7 extension for pi - fetches up-to-date library documentation via context7.com",
+		"keywords": ["pi-package", "context7", "documentation", "pi-coding-agent"],
+		"version": "1.0.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

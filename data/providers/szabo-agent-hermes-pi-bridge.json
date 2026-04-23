@@ -1,0 +1,31 @@
+{
+	"id": "szabo-agent-hermes-pi-bridge",
+	"name": "szabo-agent-hermes-pi-bridge",
+	"url": "https://github.com/szabo-agent/hermes-pi-bridge",
+	"source": "github-search",
+	"description": "A Hermes Agent plugin that bridges to pi coding assistant, delegating tasks from Hermes to pi in both interactive and task based methods ",
+	"metadata": {
+		"description": "A Hermes Agent plugin that bridges to pi coding assistant, delegating tasks from Hermes to pi in both interactive and task based methods ",
+		"stars": 1,
+		"forks": 0,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-13T13:18:28Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 5,
+			"theme": 0,
+			"provider": 10
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

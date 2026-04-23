@@ -1,0 +1,28 @@
+{
+	"id": "fink-andreas-pi-web-reader",
+	"name": "fink-andreas-pi-web-reader",
+	"url": "https://github.com/fink-andreas/pi-web-reader",
+	"source": "github-search",
+	"description": "Extension for pi coding agent to provide a tool to read a web site",
+	"metadata": {
+		"description": "Extension for pi coding agent to provide a tool to read a web site",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 36,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

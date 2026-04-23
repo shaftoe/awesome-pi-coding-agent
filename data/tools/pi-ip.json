@@ -1,0 +1,35 @@
+{
+	"id": "pi-ip",
+	"name": "pi-ip",
+	"url": "https://www.npmjs.com/package/pi-ip",
+	"source": "npm-search",
+	"description": "Global nodejs module that upon boot saves the Pi's IP Address to Firebase, to make it easy to find.",
+	"metadata": {
+		"github_url": "https://github.com/kd7yva/pi-ip",
+		"npm_name": "pi-ip",
+		"description": "Global nodejs module that upon boot saves the Pi's IP Address to Firebase, to make it easy to find.",
+		"keywords": ["Raspberry", "Pi", "Firebase", "IP", "Address", "Bootup", "Config"],
+		"version": "2.1.0",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2015-05-25T10:14:19Z",
+		"topics": [],
+		"is_archived": true,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 0,
+		"level": "dead"
+	},
+	"category": "tool"
+}

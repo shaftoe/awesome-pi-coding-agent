@@ -1,0 +1,35 @@
+{
+	"id": "pi-symphony",
+	"name": "pi-symphony",
+	"url": "https://www.npmjs.com/package/pi-symphony",
+	"source": "npm-search",
+	"description": "Unattended issue orchestration for Pi — polls Linear, spawns workers, manages PRs",
+	"metadata": {
+		"github_url": "https://github.com/tmustier/pi-symphony",
+		"npm_name": "pi-symphony",
+		"description": "Unattended issue orchestration for Pi — polls Linear, spawns workers, manages PRs",
+		"keywords": ["pi-package", "pi", "orchestration", "linear", "automation"],
+		"version": "0.3.1",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 4,
+		"language": "Elixir",
+		"license": "MIT",
+		"last_commit": "2026-04-08T13:46:40Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.mustier.ai/projects/pi-symphony",
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

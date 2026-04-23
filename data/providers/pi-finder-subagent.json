@@ -1,0 +1,35 @@
+{
+	"id": "pi-finder-subagent",
+	"name": "pi-finder-subagent",
+	"url": "https://www.npmjs.com/package/pi-finder-subagent",
+	"source": "npm-search",
+	"description": "Read-only local workspace scout subagent package for pi agents (code + personal files)",
+	"metadata": {
+		"github_url": "https://github.com/default-anton/pi-finder",
+		"npm_name": "pi-finder-subagent",
+		"description": "Read-only local workspace scout subagent package for pi agents (code + personal files)",
+		"keywords": ["pi-package", "pi-extension", "finder", "subagent", "workspace-search", "code-search", "personal-assistant"],
+		"version": "1.5.7",
+		"stars": 29,
+		"forks": 2,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-23T05:45:17Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "provider"
+}

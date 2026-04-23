@@ -1,0 +1,25 @@
+{
+	"id": "@pixi/animate",
+	"name": "@pixi/animate",
+	"url": "https://www.npmjs.com/package/@pixi/animate",
+	"source": "npm-search",
+	"description": "PIXI plugin for the PixiAnimate Extension",
+	"metadata": {
+		"github_url": "https://github.com/pixijs/animate",
+		"npm_name": "@pixi/animate",
+		"description": "PIXI plugin for the PixiAnimate Extension",
+		"keywords": ["webgl", "pixi", "pixi.js", "Flash", "Animate CC", "animation"],
+		"version": "3.0.1",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 5,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

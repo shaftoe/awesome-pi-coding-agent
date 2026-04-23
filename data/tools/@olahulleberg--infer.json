@@ -1,0 +1,20 @@
+{
+	"id": "@olahulleberg/infer",
+	"name": "@olahulleberg/infer",
+	"url": "https://www.npmjs.com/package/@olahulleberg/infer",
+	"source": "npm-search",
+	"description": "Minimal Pi-powered CLI for one-shot prompts",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@olahulleberg/infer",
+		"description": "Minimal Pi-powered CLI for one-shot prompts",
+		"keywords": [],
+		"version": "0.2.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

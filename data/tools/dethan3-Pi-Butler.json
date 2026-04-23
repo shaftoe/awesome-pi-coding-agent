@@ -1,0 +1,31 @@
+{
+	"id": "dethan3-Pi-Butler",
+	"name": "dethan3-Pi-Butler",
+	"url": "https://github.com/dethan3/Pi-Butler",
+	"source": "github-search",
+	"description": "Personal Work Butler (AI Secretary) built on pi-mono with CLI + Telegram/Discord/HTTP service mode",
+	"metadata": {
+		"description": "Personal Work Butler (AI Secretary) built on pi-mono with CLI + Telegram/Discord/HTTP service mode",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["agent", "ai", "discord-bot", "nodejs", "pi-mono", "productivity", "telegram-bot", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-03-02T06:57:13Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 17,
+			"theme": 0,
+			"provider": 12
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

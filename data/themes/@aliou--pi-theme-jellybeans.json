@@ -1,0 +1,25 @@
+{
+	"id": "@aliou/pi-theme-jellybeans",
+	"name": "@aliou/pi-theme-jellybeans",
+	"url": "https://www.npmjs.com/package/@aliou/pi-theme-jellybeans",
+	"source": "npm-search",
+	"description": "Jellybeans Mono themes for Pi in dark and light variants.",
+	"metadata": {
+		"github_url": "https://github.com/aliou/pi-theme-jellybeans",
+		"npm_name": "@aliou/pi-theme-jellybeans",
+		"description": "Jellybeans Mono themes for Pi in dark and light variants.",
+		"keywords": ["pi-package", "pi-theme", "pi", "jellybeans"],
+		"version": "0.1.4",
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 0,
+			"theme": 10,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "theme"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "pi-beads-extension",
+	"name": "pi-beads-extension",
+	"url": "https://www.npmjs.com/package/pi-beads-extension",
+	"source": "npm-search",
+	"description": "Pi package that brings Beads-style task tracking commands and workflow context to pi.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-beads-extension",
+		"description": "Pi package that brings Beads-style task tracking commands and workflow context to pi.",
+		"keywords": ["pi-package", "pi-extension", "beads", "bd", "task-tracking", "agent-workflow"],
+		"version": "0.1.0",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

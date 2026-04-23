@@ -1,0 +1,28 @@
+{
+	"id": "theonejb-pi-extensions",
+	"name": "theonejb-pi-extensions",
+	"url": "https://github.com/theonejb/pi-extensions",
+	"source": "github-search",
+	"description": "Custom/user extensions I have setup for my pi-coding-agent",
+	"metadata": {
+		"description": "Custom/user extensions I have setup for my pi-coding-agent",
+		"stars": 3,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 22,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,35 @@
+{
+	"id": "pi-augment",
+	"name": "pi-augment",
+	"url": "https://www.npmjs.com/package/pi-augment",
+	"source": "npm-search",
+	"description": "Augment-style prompt rewriter for Pi — one command, stronger prompts",
+	"metadata": {
+		"github_url": "https://github.com/sting8k/pi-augment",
+		"npm_name": "pi-augment",
+		"description": "Augment-style prompt rewriter for Pi — one command, stronger prompts",
+		"keywords": ["pi-package", "pi-extension", "prompt-enhancer", "prompt-engineering", "coding-agent", "ai"],
+		"version": "1.0.7",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-05T11:01:02Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

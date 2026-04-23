@@ -1,0 +1,20 @@
+{
+	"id": "@treentity/pi-imessage",
+	"name": "@treentity/pi-imessage",
+	"url": "https://www.npmjs.com/package/@treentity/pi-imessage",
+	"source": "npm-search",
+	"description": "iMessage channel for Pi",
+	"metadata": {
+		"github_url": "https://github.com/treentity/pi-imessage",
+		"npm_name": "@treentity/pi-imessage",
+		"description": "iMessage channel for Pi",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "imessage", "macos"],
+		"version": "0.1.1",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

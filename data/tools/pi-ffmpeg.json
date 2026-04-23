@@ -1,0 +1,20 @@
+{
+	"id": "pi-ffmpeg",
+	"name": "pi-ffmpeg",
+	"url": "https://www.npmjs.com/package/pi-ffmpeg",
+	"source": "npm-search",
+	"description": "ffmpeg Swiss Army knife for pi — probe, transcode, trim, concat, GIF, frames, audio extract/mux, thumbnail, compress, speedup/slowdown",
+	"metadata": {
+		"github_url": "https://github.com/arosstale/pi-ffmpeg",
+		"npm_name": "pi-ffmpeg",
+		"description": "ffmpeg Swiss Army knife for pi — probe, transcode, trim, concat, GIF, frames, audio extract/mux, thumbnail, compress, speedup/slowdown",
+		"keywords": ["pi-package", "ffmpeg", "video", "audio", "transcode", "gif"],
+		"version": "1.0.3",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}
