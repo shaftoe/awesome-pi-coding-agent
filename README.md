@@ -8,13 +8,13 @@ Content available as Markdown here and as website (with search feature) live at 
 
 ## Stats
 
-**2529 resources** indexed · **1159** active · **2499** maintained · [Updated daily.](./.github/workflows/pipeline.yml)
+**2528 resources** indexed · **1158** active · **2498** maintained · [Updated daily.](./.github/workflows/pipeline.yml)
 
 Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 
 ## Contents
 
-- [Extensions](#extensions) — 1183
+- [Extensions](#extensions) — 1182
 - [Tools & Utilities](#tools--utilities) — 852
 - [Themes](#themes) — 134
 - [Providers & Integrations](#providers--integrations) — 243
@@ -73,7 +73,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-session-ask](https://www.npmjs.com/package/pi-session-ask) | Allows the agent or user to ask questions about the current session's pre-compaction history, parent (if forked) sessions' histories, or any other sessions' histories, via a subagent (keeping current context clean). | ⭐90 | yesterday |
 | 🟢 | [pi-session-switch](https://www.npmjs.com/package/pi-session-switch) | Preview each session before switching in a mirror of Pi's native `/resume`-picker UI | ⭐90 | yesterday |
 | 🟢 | [pi-tool-display](https://www.npmjs.com/package/pi-tool-display) | Compact tool call rendering, diff visualization, and output truncation extension for Pi coding agent. Hides, collapses, and truncates verbose tool output for cleaner TUI display. | ⭐85 | 3d ago |
-| 🟢 | [pi-bash-live-view](https://www.npmjs.com/package/pi-bash-live-view) | A pi extension that adds optional PTY-backed live terminal rendering to the bash tool via usePTY=true. | ⭐76 | 20d ago |
+| 🟢 | [pi-bash-live-view](https://www.npmjs.com/package/pi-bash-live-view) | A pi extension that adds optional PTY-backed live terminal rendering to the bash tool via usePTY=true. | ⭐76 | 21d ago |
 | 🟢 | [@ifi/oh-pi-ant-colony](https://www.npmjs.com/package/@ifi/oh-pi-ant-colony) | Autonomous multi-agent swarm extension for pi — adaptive concurrency, pheromone communication. | ⭐67 | 2d ago |
 | 🟢 | [@ifi/oh-pi-cli](https://www.npmjs.com/package/@ifi/oh-pi-cli) | Interactive TUI configurator for pi-coding-agent. | ⭐67 | 2d ago |
 | 🟢 | [@ifi/oh-pi-core](https://www.npmjs.com/package/@ifi/oh-pi-core) | Shared types, registries, and i18n for oh-pi packages. | ⭐67 | 2d ago |
@@ -543,7 +543,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-reread-instructions](https://www.npmjs.com/package/pi-reread-instructions) | Pi extension that re-inserts AGENTS.md / CLAUDE.md every N completed final assistant replies | ⭐1 | 16d ago |
 | 🟢 | [pi-rlm-query](https://www.npmjs.com/package/pi-rlm-query) | Recursive LLM Query extension for pi - enables agent-to-agent delegation with guardrails | ⭐1 | 1mo ago |
 | 🟢 | [pi-rtk](https://github.com/funkymonkeymonk/pi-rtk) | RTK integration for Pi coding agent - reduces LLM token consumption by 60-90% |  | 22d ago |
-| 🟢 | [pi-rtk-rewrite](https://github.com/viartemev/pi-rtk-rewrite) | Automatic RTK rewrite integration for Pi bash tool calls (token-efficient command output) |  | 11d ago |
+| 🟢 | [pi-rtk-rewrite](https://github.com/viartemev/pi-rtk-rewrite) | Automatic RTK rewrite integration for Pi bash tool calls (token-efficient command output) |  | 12d ago |
 | 🟢 | [pi-scheduled-tasks](https://www.npmjs.com/package/pi-scheduled-tasks) | A pi extension for scheduled prompts, recurring checks, and prompt-executable slash commands | ⭐1 | 11d ago |
 | 🟢 | [pi-sessions](https://www.npmjs.com/package/pi-sessions) | Pi session search, ask, handoff, auto-titling, and indexing tools |  | today |
 | 🟢 | [pi-shimmer](https://github.com/Jabbslad/pi-shimmer) | 🌈 Rainbow shimmer spinner with Claude Code verbs for Pi coding agent |  | 16d ago |
@@ -592,7 +592,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [rocketchat-piagent-extension](https://github.com/wkbaran/rocketchat-piagent-extension) | Pi Agent extension giving it the ability to send and receive from a rocket.chat server |  | 16d ago |
 | 🟢 | [rtk-pi](https://github.com/zogzog26/rtk-pi) | Lightweight Pi extension to the RTK CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Uses's RTK's single Rust binary with zero dependencies. | ⭐1 | 7d ago |
 | 🟢 | [safe-coder](https://github.com/cacab6002/safe-coder) | Protect pi coding agent with safety guardrails, command checks, and workspace limits for safer AI-assisted coding |  | 2d ago |
-| 🟢 | [shaftoe_pi-coding-agent-action](https://github.com/actions-marketplace-validations/shaftoe_pi-coding-agent-action) | actions-marketplace-validations-shaftoe_pi-coding-agent-action |  | 3d ago |
 | 🟢 | [shitty-clanker-setup](https://github.com/SavingFrame/shitty-clanker-setup) | Config for pi mono |  | 7d ago |
 | 🟢 | [stride-pi](https://github.com/cheezy/stride-pi) | Task lifecycle skills for Stride kanban — Pi Coding Agent edition |  | 2d ago |
 | 🟢 | [tke-pi-toolkit](https://github.com/DBarberTKE/tke-pi-toolkit) | Custom pi coding agent extensions, agents, and workflows for healthcare operations |  | 2d ago |
@@ -1295,7 +1294,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-coding-agent-container](https://github.com/gni/pi-coding-agent-container) | pi-coding-agent docker compose | ⭐18 | 4d ago |
 | 🟢 | [pi-librarian](https://www.npmjs.com/package/pi-librarian) | GitHub research subagent package for pi coding agent | ⭐23 | 26d ago |
 | 🟢 | [@actant/pi](https://www.npmjs.com/package/@actant/pi) | Pi Agent backend for the Actant platform — built on pi-agent-core and pi-ai | ⭐12 | 29d ago |
-| 🟢 | [@apmantza/greedysearch-pi](https://www.npmjs.com/package/@apmantza/greedysearch-pi) | Pi extension: multi-engine AI search (Perplexity, Bing Copilot, Google AI) via browser automation -- NO API KEYS needed. Extracts answers with sources, optional Gemini synthesis. Grounded AI answers from real browser interactions. | ⭐13 | 2d ago |
+| 🟢 | [@apmantza/greedysearch-pi](https://www.npmjs.com/package/@apmantza/greedysearch-pi) | Pi extension: multi-engine AI search (Perplexity, Bing Copilot, Google AI) via browser automation -- NO API KEYS needed. Extracts answers with sources, optional Gemini synthesis. Grounded AI answers from real browser interactions. | ⭐13 | 3d ago |
 | 🟢 | [@blackbelt-technology/pi-agent-dashboard](https://www.npmjs.com/package/@blackbelt-technology/pi-agent-dashboard) | Web dashboard for monitoring and interacting with pi agent sessions | ⭐12 | 2d ago |
 | 🟢 | [@dustinbyrne/kb](https://www.npmjs.com/package/@dustinbyrne/kb) | An automated Kanban board for [pi](https://github.com/badlogic/pi-mono). You (or an agent) add high level ideas to your task list, and a team of agents execute them using worktrees. | ⭐7 | 25d ago |
 | 🟢 | [@grwnd/pi-governance](https://www.npmjs.com/package/@grwnd/pi-governance) | Governance, RBAC, audit, and HITL for Pi-based coding agents | ⭐10 | 21d ago |
@@ -1447,7 +1446,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-dev-browser](https://github.com/magimetal/pi-dev-browser) | Pi package extension adding dev-browser-powered browser automation for navigation, AI snapshots, interaction, and screenshots. | ⭐2 | yesterday |
 | 🟢 | [pi-diff-viewer](https://github.com/darkhanakh/pi-diff-viewer) | Pi agent package: annotate code diffs in a browser UI and send reviews back to Pi | ⭐1 | 9d ago |
 | 🟢 | [pi-dingtalkbot](https://www.npmjs.com/package/pi-dingtalkbot) | 钉钉智能机器人 Stream 长连接扩展 for pi |  | 4d ago |
-| 🟢 | [pi-dock](https://github.com/ryo-morimoto/pi-dock) | Zen Browser-style vertical tab interface for pi-coding-agent sessions |  | 15d ago |
+| 🟢 | [pi-dock](https://github.com/ryo-morimoto/pi-dock) | Zen Browser-style vertical tab interface for pi-coding-agent sessions |  | 16d ago |
 | 🟢 | [pi-docker](https://github.com/fkleon/pi-docker) | Containerised version of the pi coding agent |  | 24d ago |
 | 🟢 | [pi-docker-sandbox](https://github.com/Pcsf/pi-docker-sandbox) | Sandboxed Docker environment for the PI coding agent |  | 5d ago |
 | 🟢 | [pi-doctor](https://www.npmjs.com/package/pi-doctor) | Analyze Pi agent sessions for quality signals, sentiment drift, and behavioral anti-patterns. |  | 4d ago |
@@ -1500,7 +1499,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-read-many](https://github.com/Ucr9005/pi-read-many) | Enable efficient batch reading of multiple files in Pi to reduce calls and streamline file inspection with a single tool. |  | 2d ago |
 | 🟢 | [pi-sandbox](https://github.com/stefanerdmann/pi-sandbox) | CLI tool for sandboxing the pi coding agent in per-project Lima VMs on macOS ARM. Each project gets an isolated Ubuntu VM with pi pre-installed, host files mounted in, and environment-specific config (corporate  │ certs, auth tokens, MCP servers) handled automatically. Built for teams using GitHub Copilot Enterprise. |  | 3d ago |
 | 🟢 | [pi-sandbox-profile](https://www.npmjs.com/package/pi-sandbox-profile) | Sandbox profiles for Pi: open/intro-sec/engineering with file-tool enforcement and telemetry |  | 22d ago |
-| 🟢 | [pi-screenshots](https://www.npmjs.com/package/pi-screenshots) | Screenshot picker for pi — browse, select, and attach screenshots to your prompts |  | 6d ago |
+| 🟢 | [pi-screenshots](https://www.npmjs.com/package/pi-screenshots) | Screenshot picker for pi — browse, select, and attach screenshots to your prompts |  | 7d ago |
 | 🟢 | [pi-senses](https://github.com/jkuball/pi-senses) | sloppy senses for your pi (on macOS) |  | 3d ago |
 | 🟢 | [pi-session-manager](https://www.npmjs.com/package/pi-session-manager) | Session browser for pi coding agent — browse, resume, rename, and delete sessions | ⭐2 | 12d ago |
 | 🟢 | [pi-session-yank](https://www.npmjs.com/package/pi-session-yank) | Pi extension that copies assistant/user message text or fenced code blocks from the current session branch to the clipboard |  | 14d ago |
@@ -2240,7 +2239,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [@styrene-lab/pi-mom](https://www.npmjs.com/package/@styrene-lab/pi-mom) | Slack bot that delegates messages to the pi coding agent | ⭐41 | 2d ago |
 | 🟢 | [pi-finder-subagent](https://www.npmjs.com/package/pi-finder-subagent) | Read-only local workspace scout subagent package for pi agents (code + personal files) | ⭐29 | today |
 | 🟢 | [pi-provider-kiro](https://www.npmjs.com/package/pi-provider-kiro) | pi extension for the Kiro API (AWS CodeWhisperer/Q) — 19 models across 8 families with OAuth authentication | ⭐25 | 4d ago |
-| 🟢 | [pi-cursor-agent](https://www.npmjs.com/package/pi-cursor-agent) | Cursor Agent provider extension for pi | ⭐21 | 10d ago |
+| 🟢 | [pi-cursor-agent](https://www.npmjs.com/package/pi-cursor-agent) | Cursor Agent provider extension for pi | ⭐21 | 11d ago |
 | 🟢 | [pi-free](https://www.npmjs.com/package/pi-free) | AIO Free AI models for Pi - Access free models from Kilo, Zen, OpenRouter, NVIDIA, Cline, Mistral, Ollama, and Qwen | ⭐18 | 2d ago |
 | 🟢 | [pi-openrouter-realtime](https://www.npmjs.com/package/pi-openrouter-realtime) | OpenRouter extension for pi — real-time model sync, provider/quantization enrichment, endpoint health, credit balance, and interactive model picker | ⭐15 | 12d ago |
 | 🟢 | [pi-promptsmith](https://www.npmjs.com/package/pi-promptsmith) | Intent-aware prompt rewriter and execution-contract compiler for Pi | ⭐17 | 26d ago |
@@ -2293,12 +2292,12 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [hermes-pi-bridge](https://github.com/szabo-agent/hermes-pi-bridge) | A Hermes Agent plugin that bridges to pi coding assistant, delegating tasks from Hermes to pi in both interactive and task based methods  | ⭐1 | 10d ago |
 | 🟢 | [io](https://github.com/ever-oli/io) | IO is a clean-room Python rewrite of the pi-mono repo and hermes , organized around the core package boundaries lifted from pi-mono. I couldn't decide on one so why not both. | ⭐3 | 2d ago |
 | 🟢 | [magpie](https://github.com/nielsjaspers/magpie) | A set of custom tools and extensions I've gathered together for the Pi coding agent |  | 2d ago |
-| 🟢 | [my_pi_mono](https://github.com/quqilover/my_pi_mono) | quqilover-my_pi_mono |  | 2d ago |
+| 🟢 | [my_pi_mono](https://github.com/quqilover/my_pi_mono) | quqilover-my_pi_mono |  | 3d ago |
 | 🟢 | [oh-my-opencode-pi](https://www.npmjs.com/package/oh-my-opencode-pi) | Pantheon-style multi-agent orchestration for pi, inspired by oh-my-opencode-slim |  | 8d ago |
 | 🟢 | [phi](https://github.com/gnassro/phi) | Phi brings the Pi AI coding agent into VS Code as a native extension. Chat with an AI agent that can read, write, and edit your code | ⭐2 | yesterday |
 | 🟢 | [pi-agents](https://www.npmjs.com/package/pi-agents) | A generic framework for agent orchestration in pi. |  | today |
 | 🟢 | [pi-clawbay](https://www.npmjs.com/package/pi-clawbay) | TheClawBay provider extension for Pi Coding Agent - access GPT-5 and Codex models |  | 16d ago |
-| 🟢 | [pi-codex-footer](https://www.npmjs.com/package/pi-codex-footer) | Pi extension that adds a 2-line footer with live OpenAI Codex 5h/7d quota usage and reset timers. | ⭐1 | 13d ago |
+| 🟢 | [pi-codex-footer](https://www.npmjs.com/package/pi-codex-footer) | Pi extension that adds a 2-line footer with live OpenAI Codex 5h/7d quota usage and reset timers. | ⭐1 | 14d ago |
 | 🟢 | [pi-config](https://github.com/ahmadaccino/pi-config) | Personal pi coding agent configuration - skills, MCP servers, one-command install |  | 6d ago |
 | 🟢 | [pi-cursor-oauth](https://www.npmjs.com/package/pi-cursor-oauth) | Cursor OAuth provider extension for pi-coding-agent | ⭐2 | 1mo ago |
 | 🟢 | [pi-describe-image](https://www.npmjs.com/package/pi-describe-image) | A pi extension to describe images using vision models |  | 24d ago |
@@ -2604,6 +2603,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 
 ---
 
-- Generated on 2026-04-23 from 2529 entries (npm-search: 1501, github-search: 925, youtube-search: 103)
+- Generated on 2026-04-23 from 2528 entries (npm-search: 1501, github-search: 924, youtube-search: 103)
 - Auto-updated by [awesome-pi-coding-agent](https://github.com/shaftoe/awesome-pi-coding-agent)
 
