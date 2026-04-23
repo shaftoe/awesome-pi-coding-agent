@@ -14236,6 +14236,10 @@
 		"reason": "No Pi coding agent signals in name/description/metadata"
 	},
 	{
+		"url": "https://www.npmjs.com/package/@leeguoo/yapi-mcp",
+		"reason": "No Pi coding agent signals in name/description/metadata"
+	},
+	{
 		"url": "https://www.npmjs.com/package/@leeguoo/wrangler-accounts",
 		"reason": "No Pi coding agent signals in name/description/metadata"
 	},
