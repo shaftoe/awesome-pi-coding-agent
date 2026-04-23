@@ -54602,5 +54602,353 @@
 	{
 		"url": "https://www.youtube.com/watch?v=ZzVnKR2niQE",
 		"reason": "No Pi coding agent signals in name/description/metadata"
+	},
+	{
+		"url": "https://github.com/coinmastersguild/pioneer-agent-template",
+		"reason": "Pioneer agents template with zeroclaw, no Pi coding agent signals"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ai-sdk/open-responses",
+		"reason": "Vercel AI SDK provider, not Pi coding agent ecosystem"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@capotej/harness",
+		"reason": "Generic container harness for any coding agent, not Pi specific"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@cleocode/caamp",
+		"reason": "Generic multi-agent package manager (Claude/Cursor/Codex), not Pi specific"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@martian-engineering/lossless-claw",
+		"reason": "OpenClaw plugin, not Pi coding agent ecosystem"
+	},
+	{
+		"url": "https://www.npmjs.com/package/gsd-pi",
+		"reason": "Standalone coding agent (GSD), no Pi coding agent signals in description or topics despite 'pi' in npm name"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=l4b8QqpS7ak",
+		"reason": "Vague 'pi-dev-team-v3' video with no description, 3 views, not Pi coding agent"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ryNxEhvgStY",
+		"reason": "Vague 'pi-dev-team-v2' video with no description, 5 views, not Pi coding agent"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=2HVuOU39mIA",
+		"reason": "GitLab tutorial (PI-DEV), not Pi coding agent"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ETChBLAMlPk",
+		"reason": "Vague 'pi-dev-team-v1' video with no description, 9 views, same channel as already-blacklisted v2/v3"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=L9p9nwFynXo",
+		"reason": "Pubali Bank account opening tutorial, not Pi coding agent"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=OC-SVcHnm74",
+		"reason": "Pi-Hosted Raspberry Pi Docker/Portainer tutorial, not Pi coding agent"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ok4m58rIfts",
+		"reason": "Monkey video, not Pi coding agent"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=uuONS9Q2qIg",
+		"reason": "AVEVA PI System industrial software, not Pi coding agent"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=vIrjNbf5WCs",
+		"reason": "TouchDesigner particle art video, not Pi coding agent"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=g3xc42Dvy40",
+		"reason": "Pluto7 supply chain 'Pi Agent' product, not Pi coding agent from pi.dev"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=eJRdk4TpL90",
+		"reason": "Pluto7 supply chain 'Pi Agent' on Google Agentspace, not Pi coding agent from pi.dev"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=noCqxw9tTVM",
+		"reason": "Pluto7 supply chain 'Planning in a Box Pi Agent', not Pi coding agent from pi.dev"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=QsFSnqhjVKg",
+		"reason": "Pluto7 supply chain 'Pi Agent' on Google Agentspace, not Pi coding agent from pi.dev"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=SJuERW7k5NQ",
+		"reason": "Pluto7 supply chain 'Planning in a Box Pi Agent', not Pi coding agent from pi.dev"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@thierryteisseire/leadgenius-skill",
+		"reason": "B2B lead generation skill for generic AI agents (claude-skills), not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@types/tunnel",
+		"reason": "TypeScript type definitions for tunnel, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ui5-language-assistant/vscode-ui5-language-assistant-bas-ext",
+		"reason": "SAP UI5 VS Code extension, not Pi coding agent"
+	},
+	{
+		"url": "https://github.com/dpc/tau",
+		"reason": "Separate coding agent (Tau) that merely references Pi in tagline, not a Pi ecosystem resource"
+	},
+	{
+		"url": "https://www.npmjs.com/package/i2c-bus",
+		"reason": "Raspberry Pi I2C hardware bus library, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/jquery-pimcore-formbuilder",
+		"reason": "jQuery form builder for PIMCORE CMS, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/load-skill",
+		"reason": "Generic skill installer for Claude/Cursor/Codex/Gemini, no Pi coding agent support"
+	},
+	{
+		"url": "https://www.npmjs.com/package/mux",
+		"reason": "Coder.com multiplexer, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-red-contrib-alexa-home-skill",
+		"reason": "Alexa Echo Node-RED integration, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pixi-tiledmap",
+		"reason": "PixiJS game library tilemap loader, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/tiptap-extension-resize-image",
+		"reason": "Tiptap rich text editor image extension, not Pi coding agent"
+	},
+	{
+		"url": "https://github.com/zTryStopMySkills/pixel-agents-relay",
+		"reason": "Pixel Agents VS Code extension multiplayer relay, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@a5c-ai/agent-mux-adapters",
+		"reason": "Agent-mux adapters for Claude/Codex/Gemini/Cursor, no Pi coding agent support"
+	},
+	{
+		"url": "https://www.npmjs.com/package/lsd-pi",
+		"reason": "Standalone coding agent (LSD), no Pi coding agent signals despite 'pi' in npm name"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@yasser172/tec-sdk",
+		"reason": "Pi Network crypto SDK, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@capawesome/capacitor-badge",
+		"reason": "Capacitor mobile badge plugin, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@langchain/langgraph-supervisor",
+		"reason": "LangGraph multi-agent supervisor, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@netlify/agent-runner-cli",
+		"reason": "Netlify agent runner CLI, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@openrouter/sdk",
+		"reason": "OpenRouter TypeScript SDK for LLM API, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@opentiny/vue",
+		"reason": "Enterprise Vue UI component library, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pixi/animate",
+		"reason": "PixiJS animation plugin, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pixi/eslint-config",
+		"reason": "PixiJS ESLint config, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pm2/agent-node",
+		"reason": "PM2.io monitoring agent, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@rozenite/agent-shared",
+		"reason": "React Native devtools shared types, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@skillkit/cli",
+		"reason": "SkillKit CLI, no Pi coding agent signals"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@subdown/skill",
+		"reason": "YouTube transcript skill for generic agents, no Pi coding agent support"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@tloncorp/tlon-skill",
+		"reason": "Tlon/Urbit skill for OpenClaw — borderline but Tlon/Urbit is a separate platform"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@tomtom-org/maps-sdk",
+		"reason": "TomTom Maps JavaScript SDK, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/better-auth-solana",
+		"reason": "Solana authentication plugin, not Pi coding agent"
+	},
+	{
+		"url": "https://github.com/bloatless/MonoPile",
+		"reason": "Monolog handler for Pile, not Pi coding agent"
+	},
+	{
+		"url": "https://github.com/bosesubham2011/pipspower-monorepo",
+		"reason": "PipsPower monorepo, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/brainstorm-companion",
+		"reason": "AI visual brainstorming tool, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/codex-team",
+		"reason": "Codex ChatGPT account manager, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/const-pi",
+		"reason": "Mathematical pi constant library, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/d3-path",
+		"reason": "D3 SVG path library, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/deepagents",
+		"reason": "LangGraph agent building library, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/dogapi",
+		"reason": "Datadog API client, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/frappe-builder",
+		"reason": "Frappe/ERPNext co-pilot, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/generate-pi",
+		"reason": "Mathematical pi digit calculator, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/langfuse-cli",
+		"reason": "Langfuse observability CLI, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/mcp-excalidraw-server",
+		"reason": "Excalidraw MCP server, not Pi coding agent specific"
+	},
+	{
+		"url": "https://www.npmjs.com/package/meta-ads",
+		"reason": "Meta/Facebook Marketing API CLI, not Pi coding agent"
+	},
+	{
+		"url": "https://github.com/opencode-lore",
+		"reason": "OpenCode memory plugin, not Pi coding agent"
+	},
+	{
+		"url": "https://github.com/pauldotknopf/MonoTouch.SimplePing",
+		"reason": "Xamarin iOS ping binding, not Pi coding agent"
+	},
+	{
+		"url": "https://github.com/pc-blueberry-labs/monorepo-no-pipeline-service",
+		"reason": "Monorepo pipeline test project, not Pi coding agent"
+	},
+	{
+		"url": "https://github.com/phonorad/Pico_Mono_Weather",
+		"reason": "Raspberry Pi Pico weather OLED project, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi",
+		"reason": "Mathematical pi number library, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pincushion-mcp",
+		"reason": "Generic MCP server for feedback annotations, not Pi coding agent specific"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pisky",
+		"reason": "Raspberry Pi home automation framework, not Pi coding agent"
+	},
+	{
+		"url": "https://github.com/robojack/monome_grid_pinga",
+		"reason": "Monome grid ping app, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/rss-skill-cli",
+		"reason": "RSS skill for Claude Code/Cursor/Cline, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/skill-panel",
+		"reason": "Claude Code skill manager, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/skill-publish",
+		"reason": "Hedera on-chain skill publisher, not Pi coding agent specific"
+	},
+	{
+		"url": "https://www.npmjs.com/package/skill-testing-ml",
+		"reason": "Skill Testing Markup Language, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/socks-proxy-agent",
+		"reason": "SOCKS proxy HTTP agent, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/storybook-vue3-rsbuild",
+		"reason": "Storybook for Vue3, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/stringify-pi",
+		"reason": "Math pi stringifier, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/temporal-mcp",
+		"reason": "Temporal workflow MCP server, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/unbrowse",
+		"reason": "Website reverse-engineering tool, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/work-agent",
+		"reason": "Generic AI work agent, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/yingmi-skill-cli",
+		"reason": "盈米 MCP skill CLI, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@hoophq/hoop-skills",
+		"reason": "Hoop Gateway skills for Cursor/Codex, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@meistrari/tela-skills",
+		"reason": "Tela skills for Claude Code only, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pictify/agent-skill",
+		"reason": "Pictify image skills for Claude/Cursor/Windsurf, not Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/agent-skill-harbor-collector",
+		"reason": "Generic agent skill harbor package, no Pi coding agent signals"
+	},
+	{
+		"url": "https://www.npmjs.com/package/ali-skills",
+		"reason": "Open agent skills ecosystem for Claude/Cursor/Codex, no Pi coding agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/opencode-lore",
+		"reason": "OpenCode memory plugin, not Pi coding agent"
 	}
 ]
