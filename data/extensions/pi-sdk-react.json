@@ -15,10 +15,20 @@
 			"tool": 2,
 			"theme": 0,
 			"provider": 1
-		}
+		},
+		"stars": 10,
+		"forks": 3,
+		"open_issues": 1,
+		"language": "JavaScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-03-19T19:39:06Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null
 	},
 	"health": {
-		"score": 50,
+		"score": 61,
 		"level": "maintained"
 	},
 	"category": "extension"

@@ -1,0 +1,32 @@
+{
+	"id": "aqora-io-skills",
+	"name": "aqora-io-skills",
+	"url": "https://github.com/aqora-io/skills",
+	"source": "github-search",
+	"description": "Agent skills for building quantum computing workflows. Works with Claude Code, opencode, pi, Copilot, Cursor, Codex, and any agent that reads SKILL.md.",
+	"metadata": {
+		"description": "Agent skills for building quantum computing workflows. Works with Claude Code, opencode, pi, Copilot, Cursor, Codex, and any agent that reads SKILL.md.",
+		"stars": 0,
+		"forks": 0,
+		"language": "Shell",
+		"topics": ["agent-skills", "aqora", "claude-code", "marimo", "mcp", "pennylane", "qiskit", "quantum-computing"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://aqora.io",
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 1,
+		"license": "MIT",
+		"last_commit": "2026-04-23T09:48:35Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

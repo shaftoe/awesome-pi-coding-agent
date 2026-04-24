@@ -1,0 +1,24 @@
+{
+	"id": "YT_0jxpvqaidZI",
+	"name": "Sonic Pi Tutorial - Density function",
+	"url": "https://www.youtube.com/watch?v=0jxpvqaidZI",
+	"source": "youtube-search",
+	"description": "This video explains how to use the density function to create different subdivisions. Twitter: @mrbombmusic Download Sonic Pi: ...",
+	"metadata": {
+		"title": "Sonic Pi Tutorial - Density function",
+		"description": "This video explains how to use the density function to create different subdivisions. Twitter: @mrbombmusic Download Sonic Pi: ...",
+		"channel": "Mister Bomb",
+		"published_at": "2022-02-24T03:00:08Z",
+		"thumbnail": "https://i.ytimg.com/vi/0jxpvqaidZI/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 493,
+		"like_count": 16,
+		"comment_count": 1
+	},
+	"health": {
+		"score": 31,
+		"level": "stale"
+	},
+	"category": "video"
+}

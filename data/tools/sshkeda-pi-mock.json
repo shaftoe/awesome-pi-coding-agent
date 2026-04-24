@@ -1,0 +1,32 @@
+{
+	"id": "sshkeda-pi-mock",
+	"name": "sshkeda-pi-mock",
+	"url": "https://github.com/sshkeda/pi-mock",
+	"source": "github-search",
+	"description": "Integration testing harness for pi extensions. Mock LLM APIs (Anthropic, OpenAI, Google), Docker sandbox with network isolation, fault injection, record/replay, CLI.",
+	"metadata": {
+		"description": "Integration testing harness for pi extensions. Mock LLM APIs (Anthropic, OpenAI, Google), Docker sandbox with network isolation, fault injection, record/replay, CLI.",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["anthropic", "docker", "fault-injection", "integration-testing", "llm", "mock", "openai", "pi-package", "record-replay", "testing"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:topic:pi-package",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-07T05:37:22Z",
+		"_readme_category_scores": {
+			"extension": 17,
+			"tool": 21,
+			"theme": 0,
+			"provider": 15
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "lazy-pi",
+	"name": "lazy-pi",
+	"url": "https://www.npmjs.com/package/lazy-pi",
+	"source": "npm-search",
+	"description": "You love LazyVim. You're gonna love LazyPi.",
+	"metadata": {
+		"github_url": "https://github.com/alpha-innovation-labs/lazy-pi",
+		"npm_name": "lazy-pi",
+		"description": "You love LazyVim. You're gonna love LazyPi.",
+		"keywords": ["pi-package", "lazy-pi", "pi-extension", "package-manager"],
+		"version": "0.1.2",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-19T18:04:55Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 18,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

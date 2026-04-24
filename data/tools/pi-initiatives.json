@@ -1,0 +1,36 @@
+{
+	"id": "pi-initiatives",
+	"name": "pi-initiatives",
+	"url": "https://www.npmjs.com/package/pi-initiatives",
+	"source": "npm-search",
+	"description": "Initiative and project tracker for pi — manage initiatives, todos, and PRs with a split-panel TUI and LLM-callable tools.",
+	"metadata": {
+		"github_url": "https://github.com/affsantos/pi-initiatives",
+		"npm_name": "pi-initiatives",
+		"description": "Initiative and project tracker for pi — manage initiatives, todos, and PRs with a split-panel TUI and LLM-callable tools.",
+		"keywords": ["pi-package"],
+		"version": "1.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-21T21:31:54Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

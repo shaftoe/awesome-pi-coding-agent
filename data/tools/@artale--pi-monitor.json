@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-monitor",
+	"name": "@artale/pi-monitor",
+	"url": "https://www.npmjs.com/package/@artale/pi-monitor",
+	"source": "npm-search",
+	"description": "Real-time system resource monitoring for Pi",
+	"metadata": {
+		"github_url": "https://github.com/artale93/pi-monitor",
+		"npm_name": "@artale/pi-monitor",
+		"description": "Real-time system resource monitoring for Pi",
+		"keywords": ["pi-package", "monitor", "system", "resources", "cpu", "memory"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

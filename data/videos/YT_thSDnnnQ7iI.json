@@ -1,0 +1,24 @@
+{
+	"id": "YT_thSDnnnQ7iI",
+	"name": "OpenClaw深度解读02  5分钟极速安装",
+	"url": "https://www.youtube.com/watch?v=thSDnnnQ7iI",
+	"source": "youtube-search",
+	"description": "第二课：快速上手—— 5 分钟极速安装1. 第一步：环境检查（Node.js） OpenClaw 是基于Node.js 开发的，它对版本有严格要求。",
+	"metadata": {
+		"title": "OpenClaw深度解读02  5分钟极速安装",
+		"description": "第二课：快速上手—— 5 分钟极速安装1. 第一步：环境检查（Node.js） OpenClaw 是基于Node.js 开发的，它对版本有严格要求。",
+		"channel": "兰台问道",
+		"published_at": "2026-03-14T02:39:23Z",
+		"thumbnail": "https://i.ytimg.com/vi/thSDnnnQ7iI/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi agent\" -crypto -network -banking -raspberry",
+		"_readme_category_scores": {},
+		"view_count": 17,
+		"like_count": 2,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 65,
+		"level": "maintained"
+	},
+	"category": "video"
+}

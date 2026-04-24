@@ -1,0 +1,21 @@
+{
+	"id": "@agntdata/openclaw-linkedin",
+	"name": "@agntdata/openclaw-linkedin",
+	"url": "https://www.npmjs.com/package/@agntdata/openclaw-linkedin",
+	"source": "npm-search",
+	"description": "LinkedIn API integration with a single agntdata API key (Bearer token). Fetch company profiles, jobs, people, posts, and professional network insights. Use this plugin when users want LinkedIn data for sales, recruiting, or enrichment. For other social da",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@agntdata/openclaw-linkedin",
+		"description": "LinkedIn API integration with a single agntdata API key (Bearer token). Fetch company profiles, jobs, people, posts, and professional network insights. Use this plugin when users want LinkedIn data for sales, recruiting, or enrichment. For other social da",
+		"keywords": ["openclaw", "openclaw-plugin", "agntdata", "mcp", "linkedin", "social-data", "api", "ai-agent", "linkedin api", "linkedin data api", "linkedin scraper api", "company enrichment api", "profile data api", "b2b data api", "ai agents data", "sales intelligence api", "recruiting api", "linkedin company data", "linkedin profile lookup", "professional network api"],
+		"version": "1.0.13",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

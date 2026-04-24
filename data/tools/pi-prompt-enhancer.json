@@ -1,0 +1,21 @@
+{
+	"id": "pi-prompt-enhancer",
+	"name": "pi-prompt-enhancer",
+	"url": "https://www.npmjs.com/package/pi-prompt-enhancer",
+	"source": "npm-search",
+	"description": "Enhance prompts with a configurable dedicated model — fork of @danchamorro/pi-prompt-enhancer",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-prompt-enhancer",
+		"description": "Enhance prompts with a configurable dedicated model — fork of @danchamorro/pi-prompt-enhancer",
+		"keywords": ["pi-package", "pi", "pi-extension", "prompt", "enhance", "prompt-enhancer", "rewrite", "ai", "coding-agent"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

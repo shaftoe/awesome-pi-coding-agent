@@ -1,0 +1,36 @@
+{
+	"id": "@ontomics/ontomics",
+	"name": "@ontomics/ontomics",
+	"url": "https://www.npmjs.com/package/@ontomics/ontomics",
+	"source": "npm-search",
+	"description": "MCP server that extracts domain ontologies from Python codebases",
+	"metadata": {
+		"github_url": "https://github.com/EtienneChollet/ontomics",
+		"npm_name": "@ontomics/ontomics",
+		"description": "MCP server that extracts domain ontologies from Python codebases",
+		"keywords": ["pi-package"],
+		"version": "0.3.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 22,
+		"forks": 6,
+		"open_issues": 0,
+		"language": "Rust",
+		"license": "MIT",
+		"last_commit": "2026-04-17T01:21:28Z",
+		"topics": ["agentic-coding", "ai-coding", "claude-code", "codex", "coding-agents", "domain-knowledge", "mcp", "mcp-server", "model-context-protocol", "rust", "semantic-search", "tree-sitter"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "extension"
+}

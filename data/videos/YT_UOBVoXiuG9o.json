@@ -1,0 +1,24 @@
+{
+	"id": "YT_UOBVoXiuG9o",
+	"name": "Kamibot Pi: How the apps work",
+	"url": "https://www.youtube.com/watch?v=UOBVoXiuG9o",
+	"source": "youtube-search",
+	"description": "Kamibot Pi works with the current Kamibot applications. There are many ways to code with Kamibot Pi, and we are working on a ...",
+	"metadata": {
+		"title": "Kamibot Pi: How the apps work",
+		"description": "Kamibot Pi works with the current Kamibot applications. There are many ways to code with Kamibot Pi, and we are working on a ...",
+		"channel": "Kamibot Pi",
+		"published_at": "2019-11-07T06:46:40Z",
+		"thumbnail": "https://i.ytimg.com/vi/UOBVoXiuG9o/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 533,
+		"like_count": 3,
+		"comment_count": 1
+	},
+	"health": {
+		"score": 31,
+		"level": "stale"
+	},
+	"category": "video"
+}

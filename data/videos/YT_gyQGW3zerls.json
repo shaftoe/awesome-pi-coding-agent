@@ -1,0 +1,24 @@
+{
+	"id": "YT_gyQGW3zerls",
+	"name": "1. How to host an email server on a Raspberry Pi - Intro | Hosting an email server for free",
+	"url": "https://www.youtube.com/watch?v=gyQGW3zerls",
+	"source": "youtube-search",
+	"description": "Please note - this is the second video in the series, please ensure you have seen the introduction video before you get going!",
+	"metadata": {
+		"title": "1. How to host an email server on a Raspberry Pi - Intro | Hosting an email server for free",
+		"description": "Please note - this is the second video in the series, please ensure you have seen the introduction video before you get going!",
+		"channel": "Raspberry Pi Coding",
+		"published_at": "2020-06-02T23:00:13Z",
+		"thumbnail": "https://i.ytimg.com/vi/gyQGW3zerls/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 36411,
+		"like_count": 652,
+		"comment_count": 9
+	},
+	"health": {
+		"score": 55,
+		"level": "maintained"
+	},
+	"category": "video"
+}

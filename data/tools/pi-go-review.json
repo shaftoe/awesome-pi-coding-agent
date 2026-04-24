@@ -1,0 +1,21 @@
+{
+	"id": "pi-go-review",
+	"name": "pi-go-review",
+	"url": "https://www.npmjs.com/package/pi-go-review",
+	"source": "npm-search",
+	"description": "Review Go code changes against the '100 Go Mistakes and How to Avoid Them' checklist (https://100go.co/). Registers a go_review tool that analyzes git diffs against all 101 common Go mistakes.",
+	"metadata": {
+		"github_url": "https://github.com/lucianojr/pi-go-review",
+		"npm_name": "pi-go-review",
+		"description": "Review Go code changes against the '100 Go Mistakes and How to Avoid Them' checklist (https://100go.co/). Registers a go_review tool that analyzes git diffs against all 101 common Go mistakes.",
+		"keywords": ["pi-package", "golang", "go", "code-review", "100-go-mistakes", "pi-extension"],
+		"version": "1.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

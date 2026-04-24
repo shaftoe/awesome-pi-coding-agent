@@ -1,0 +1,21 @@
+{
+	"id": "@sap/vscode-cds",
+	"name": "@sap/vscode-cds",
+	"url": "https://www.npmjs.com/package/@sap/vscode-cds",
+	"source": "npm-search",
+	"description": "SAP CDS language support as npm library.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@sap/vscode-cds",
+		"description": "SAP CDS language support as npm library.",
+		"keywords": ["VSCode", "vscode-extension", "CAP", "CDS"],
+		"version": "9.9.0",
+		"discovery_hint": "npm:pi-extension",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

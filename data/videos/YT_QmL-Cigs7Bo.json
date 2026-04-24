@@ -1,0 +1,24 @@
+{
+	"id": "YT_QmL-Cigs7Bo",
+	"name": "시끄러운 층간소음",
+	"url": "https://www.youtube.com/watch?v=QmL-Cigs7Bo",
+	"source": "youtube-search",
+	"description": "TV를 보고 있는데 층간소음이 들린다.",
+	"metadata": {
+		"title": "시끄러운 층간소음",
+		"description": "TV를 보고 있는데 층간소음이 들린다.",
+		"channel": "Toto6343",
+		"published_at": "2018-12-12T10:24:15Z",
+		"thumbnail": "https://i.ytimg.com/vi/QmL-Cigs7Bo/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi agent\" -crypto -network -banking -raspberry",
+		"_readme_category_scores": {},
+		"view_count": 184,
+		"like_count": 2,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

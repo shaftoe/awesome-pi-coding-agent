@@ -1,0 +1,36 @@
+{
+	"id": "drata-cli",
+	"name": "drata-cli",
+	"url": "https://www.npmjs.com/package/drata-cli",
+	"source": "npm-search",
+	"description": "Unofficial command-line client for Drata's public API.",
+	"metadata": {
+		"github_url": "https://github.com/ethanolivertroy/drata-cli",
+		"npm_name": "drata-cli",
+		"description": "Unofficial command-line client for Drata's public API.",
+		"keywords": ["drata", "cli", "api", "openapi", "grc", "compliance", "automation", "pi-package", "opencode", "skills"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T02:40:49Z",
+		"topics": ["agent-skills", "api", "automation", "cli", "compliance", "drata", "grc", "openapi", "opencode", "pi-package", "security"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 34,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

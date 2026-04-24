@@ -15,11 +15,21 @@
 			"tool": 1,
 			"theme": 0,
 			"provider": 0
-		}
+		},
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-06T11:06:33Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null
 	},
 	"health": {
-		"score": 50,
-		"level": "maintained"
+		"score": 70,
+		"level": "active"
 	},
 	"category": "extension"
 }

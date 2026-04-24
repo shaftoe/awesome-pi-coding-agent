@@ -15,11 +15,21 @@
 			"tool": 5,
 			"theme": 0,
 			"provider": 72
-		}
+		},
+		"stars": 41,
+		"forks": 7,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-23T07:15:41Z",
+		"topics": ["claude", "codex", "coding-agent", "content-extraction", "exa", "gemini", "parallel-web", "pi-extension", "pi-package", "typescript", "valyu", "web-research", "web-search"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": ""
 	},
 	"health": {
-		"score": 50,
-		"level": "maintained"
+		"score": 74,
+		"level": "active"
 	},
 	"category": "provider"
 }

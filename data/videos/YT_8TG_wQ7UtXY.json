@@ -1,0 +1,24 @@
+{
+	"id": "YT_8TG_wQ7UtXY",
+	"name": "Piano/Pluck Synth in Sonic Pi - Coding & Developing",
+	"url": "https://www.youtube.com/watch?v=8TG_wQ7UtXY",
+	"source": "youtube-search",
+	"description": "After partially fixing the latency issues, I made this Karplus-Strong MIDI synth in Sonic Pi. It has a preset system to control the four ...",
+	"metadata": {
+		"title": "Piano/Pluck Synth in Sonic Pi - Coding & Developing",
+		"description": "After partially fixing the latency issues, I made this Karplus-Strong MIDI synth in Sonic Pi. It has a preset system to control the four ...",
+		"channel": "Davids Music Lab",
+		"published_at": "2018-03-23T13:39:00Z",
+		"thumbnail": "https://i.ytimg.com/vi/8TG_wQ7UtXY/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 1401,
+		"like_count": 17,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 33,
+		"level": "stale"
+	},
+	"category": "video"
+}

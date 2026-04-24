@@ -1,0 +1,24 @@
+{
+	"id": "YT_aAmNfpzgN8M",
+	"name": "Vox - Another Live Coding Exercise with Sonic Pi",
+	"url": "https://www.youtube.com/watch?v=aAmNfpzgN8M",
+	"source": "youtube-search",
+	"description": "A slowly evolving ambient tune using some homegrown guitar samples. I use Sonic Pi with Emacs. Please consider to support ...",
+	"metadata": {
+		"title": "Vox - Another Live Coding Exercise with Sonic Pi",
+		"description": "A slowly evolving ambient tune using some homegrown guitar samples. I use Sonic Pi with Emacs. Please consider to support ...",
+		"channel": "Martin Butz",
+		"published_at": "2018-01-21T15:56:41Z",
+		"thumbnail": "https://i.ytimg.com/vi/aAmNfpzgN8M/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 63,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

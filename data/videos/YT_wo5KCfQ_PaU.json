@@ -1,0 +1,24 @@
+{
+	"id": "YT_wo5KCfQ_PaU",
+	"name": "sonic pi live coding session 2",
+	"url": "https://www.youtube.com/watch?v=wo5KCfQ_PaU",
+	"source": "youtube-search",
+	"description": "Code: https://gist.github.com/jeremywen/266e1d74b6156bff0e19 More info about Sonic Pi: http://sonic-pi.net/",
+	"metadata": {
+		"title": "sonic pi live coding session 2",
+		"description": "Code: https://gist.github.com/jeremywen/266e1d74b6156bff0e19 More info about Sonic Pi: http://sonic-pi.net/",
+		"channel": "Jeremy Wentworth",
+		"published_at": "2015-08-08T04:20:54Z",
+		"thumbnail": "https://i.ytimg.com/vi/wo5KCfQ_PaU/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 237,
+		"like_count": 6,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 31,
+		"level": "stale"
+	},
+	"category": "video"
+}

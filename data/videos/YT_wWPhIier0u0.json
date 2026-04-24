@@ -1,0 +1,24 @@
+{
+	"id": "YT_wWPhIier0u0",
+	"name": "Khadas VIM4 is HERE. Raspberry pi 4 KILLER?!",
+	"url": "https://www.youtube.com/watch?v=wWPhIier0u0",
+	"source": "youtube-search",
+	"description": "Khadas sent me my VIM4, lets tinker!",
+	"metadata": {
+		"title": "Khadas VIM4 is HERE. Raspberry pi 4 KILLER?!",
+		"description": "Khadas sent me my VIM4, lets tinker!",
+		"channel": "Tech-Mate",
+		"published_at": "2022-05-22T20:15:01Z",
+		"thumbnail": "https://i.ytimg.com/vi/wWPhIier0u0/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 2892,
+		"like_count": 30,
+		"comment_count": 17
+	},
+	"health": {
+		"score": 36,
+		"level": "stale"
+	},
+	"category": "video"
+}

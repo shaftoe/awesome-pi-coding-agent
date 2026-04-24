@@ -1,0 +1,21 @@
+{
+	"id": "@harigovindarajan/pi-memory-adapter",
+	"name": "@harigovindarajan/pi-memory-adapter",
+	"url": "https://www.npmjs.com/package/@harigovindarajan/pi-memory-adapter",
+	"source": "npm-search",
+	"description": "Local-first memory subsystem for Pi",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@harigovindarajan/pi-memory-adapter",
+		"description": "Local-first memory subsystem for Pi",
+		"keywords": ["pi-package", "memory", "local-first"],
+		"version": "0.1.0-beta.2",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

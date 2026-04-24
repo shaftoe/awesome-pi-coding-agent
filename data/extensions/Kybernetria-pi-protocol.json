@@ -18,11 +18,14 @@
 			"tool": 0,
 			"theme": 0,
 			"provider": 0
-		}
+		},
+		"open_issues": 3,
+		"license": "AGPL-3.0",
+		"last_commit": "2026-04-08T00:04:07Z"
 	},
 	"health": {
-		"score": 50,
-		"level": "maintained"
+		"score": 70,
+		"level": "active"
 	},
 	"category": "extension"
 }

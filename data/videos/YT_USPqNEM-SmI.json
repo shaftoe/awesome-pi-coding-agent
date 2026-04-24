@@ -1,0 +1,24 @@
+{
+	"id": "YT_USPqNEM-SmI",
+	"name": "PUMPKIN Pi demo",
+	"url": "https://www.youtube.com/watch?v=USPqNEM-SmI",
+	"source": "youtube-search",
+	"description": "Here's a quick demo (no audio) of the PUMPKIN Pi extension to PUMPKIN PATCH. This demo shows a simple example: ...",
+	"metadata": {
+		"title": "PUMPKIN Pi demo",
+		"description": "Here's a quick demo (no audio) of the PUMPKIN Pi extension to PUMPKIN PATCH. This demo shows a simple example: ...",
+		"channel": "Talia Ringer",
+		"published_at": "2020-10-14T21:37:41Z",
+		"thumbnail": "https://i.ytimg.com/vi/USPqNEM-SmI/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi extension\" -raspberry -vscode",
+		"_readme_category_scores": {},
+		"view_count": 138,
+		"like_count": 2,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

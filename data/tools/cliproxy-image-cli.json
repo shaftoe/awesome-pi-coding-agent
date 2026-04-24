@@ -1,0 +1,36 @@
+{
+	"id": "cliproxy-image-cli",
+	"name": "cliproxy-image-cli",
+	"url": "https://www.npmjs.com/package/cliproxy-image-cli",
+	"source": "npm-search",
+	"description": "Codex-native CLI for generating and editing images through the local Codex OpenAI configuration.",
+	"metadata": {
+		"github_url": "https://github.com/noooob-coder/cliproxy-image-cli",
+		"npm_name": "cliproxy-image-cli",
+		"description": "Codex-native CLI for generating and editing images through the local Codex OpenAI configuration.",
+		"keywords": ["cli", "cliproxyapi", "image-generation", "image-editing", "openai-compatible"],
+		"version": "0.2.8",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-23T17:04:55Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 40,
+			"theme": 0,
+			"provider": 6
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

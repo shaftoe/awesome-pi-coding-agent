@@ -1,0 +1,36 @@
+{
+	"id": "codealmanac",
+	"name": "codealmanac",
+	"url": "https://www.npmjs.com/package/codealmanac",
+	"source": "npm-search",
+	"description": "A living wiki for codebases, maintained by AI agents. Documents what the code can't say: decisions, flows, invariants, incidents, gotchas.",
+	"metadata": {
+		"github_url": "https://github.com/AlmanacCode/codealmanac",
+		"npm_name": "codealmanac",
+		"description": "A living wiki for codebases, maintained by AI agents. Documents what the code can't say: decisions, flows, invariants, incidents, gotchas.",
+		"keywords": ["wiki", "documentation", "ai", "claude", "codebase", "knowledge-base"],
+		"version": "0.1.5",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-22T17:15:45Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 4,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

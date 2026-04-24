@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-aws",
+	"name": "@artale/pi-aws",
+	"url": "https://www.npmjs.com/package/@artale/pi-aws",
+	"source": "npm-search",
+	"description": "AWS utilities",
+	"metadata": {
+		"github_url": "https://github.com/artale93/pi-aws",
+		"npm_name": "@artale/pi-aws",
+		"description": "AWS utilities",
+		"keywords": ["pi-package"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

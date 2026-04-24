@@ -1,0 +1,36 @@
+{
+	"id": "@1mmutex/featherkit",
+	"name": "@1mmutex/featherkit",
+	"url": "https://www.npmjs.com/package/@1mmutex/featherkit",
+	"source": "npm-search",
+	"description": "Lean multi-model agentic coding workflow — bootstraps project structure, skills, and a local MCP server for coordinating Claude Code and OpenCode.",
+	"metadata": {
+		"github_url": "https://github.com/immutex/featherkit",
+		"npm_name": "@1mmutex/featherkit",
+		"description": "Lean multi-model agentic coding workflow — bootstraps project structure, skills, and a local MCP server for coordinating Claude Code and OpenCode.",
+		"keywords": ["cli", "mcp", "claude-code", "opencode", "multi-model", "ai-workflow", "coding-agent", "llm", "anthropic"],
+		"version": "1.0.0-alpha",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T05:02:50Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 33,
+			"theme": 0,
+			"provider": 32
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

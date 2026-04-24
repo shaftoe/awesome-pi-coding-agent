@@ -1,0 +1,36 @@
+{
+	"id": "@devboy-tools/cli",
+	"name": "@devboy-tools/cli",
+	"url": "https://www.npmjs.com/package/@devboy-tools/cli",
+	"source": "npm-search",
+	"description": "Configurable tool bundle for AI coding agents — use via MCP server, CLI, or agent skills. npm wrapper for the Rust binary.",
+	"metadata": {
+		"github_url": "https://github.com/meteora-pro/devboy-tools",
+		"npm_name": "@devboy-tools/cli",
+		"description": "Configurable tool bundle for AI coding agents — use via MCP server, CLI, or agent skills. npm wrapper for the Rust binary.",
+		"keywords": ["mcp", "model-context-protocol", "devboy", "code-review", "ai-agent", "gitlab", "github", "clickup", "jira"],
+		"version": "0.18.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 12,
+		"forks": 3,
+		"open_issues": 27,
+		"language": "Rust",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-23T21:25:28Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://meteora-pro.github.io/devboy-tools/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 32,
+			"theme": 0,
+			"provider": 17
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

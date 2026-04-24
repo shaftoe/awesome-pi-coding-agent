@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-logs",
+	"name": "@artale/pi-logs",
+	"url": "https://www.npmjs.com/package/@artale/pi-logs",
+	"source": "npm-search",
+	"description": "Log parsing utilities",
+	"metadata": {
+		"github_url": "https://github.com/artale93/pi-logs",
+		"npm_name": "@artale/pi-logs",
+		"description": "Log parsing utilities",
+		"keywords": ["pi-package"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

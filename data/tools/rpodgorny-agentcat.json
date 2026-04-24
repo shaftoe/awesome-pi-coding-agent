@@ -18,11 +18,14 @@
 			"tool": 10,
 			"theme": 0,
 			"provider": 0
-		}
+		},
+		"open_issues": 1,
+		"license": "GPL-3.0",
+		"last_commit": "2026-04-10T08:24:35Z"
 	},
 	"health": {
-		"score": 50,
-		"level": "maintained"
+		"score": 70,
+		"level": "active"
 	},
 	"category": "tool"
 }

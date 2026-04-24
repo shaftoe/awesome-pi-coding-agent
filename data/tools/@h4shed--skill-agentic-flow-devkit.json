@@ -1,0 +1,21 @@
+{
+	"id": "@h4shed/skill-agentic-flow-devkit",
+	"name": "@h4shed/skill-agentic-flow-devkit",
+	"url": "https://www.npmjs.com/package/@h4shed/skill-agentic-flow-devkit",
+	"source": "npm-search",
+	"description": "Design and visualize agentic orchestration flows with trailer A/B-roll planning support.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@h4shed/skill-agentic-flow-devkit",
+		"description": "Design and visualize agentic orchestration flows with trailer A/B-roll planning support.",
+		"keywords": ["mcp", "skill", "agentic-flow", "orchestration", "trailer"],
+		"version": "1.0.6",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

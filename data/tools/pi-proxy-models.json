@@ -1,0 +1,36 @@
+{
+	"id": "pi-proxy-models",
+	"name": "pi-proxy-models",
+	"url": "https://www.npmjs.com/package/pi-proxy-models",
+	"source": "npm-search",
+	"description": "Pi extension",
+	"metadata": {
+		"github_url": "https://github.com/victormilk/pi-proxy-models",
+		"npm_name": "pi-proxy-models",
+		"description": "Pi extension",
+		"keywords": ["pi-package", "pi", "pi-coding-agent"],
+		"version": "0.0.2",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-19T02:12:31Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 10,
+			"tool": 42,
+			"theme": 0,
+			"provider": 11
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

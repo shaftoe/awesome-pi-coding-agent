@@ -1,0 +1,24 @@
+{
+	"id": "YT_00Y-p62sk0s",
+	"name": "My M5 Max, Gemma 4, MLX LOCAL Stack. (This KILLS MODEL PROVIDERS)",
+	"url": "https://www.youtube.com/watch?v=00Y-p62sk0s",
+	"source": "youtube-search",
+	"description": "Model providers DON'T want you to see this video. The M5 Max just exposed the dirty secret of the cloud LLM economy: you're ...",
+	"metadata": {
+		"title": "My M5 Max, Gemma 4, MLX LOCAL Stack. (This KILLS MODEL PROVIDERS)",
+		"description": "Model providers DON'T want you to see this video. The M5 Max just exposed the dirty secret of the cloud LLM economy: you're ...",
+		"channel": "IndyDevDan",
+		"published_at": "2026-04-20T13:00:00Z",
+		"thumbnail": "https://i.ytimg.com/vi/00Y-p62sk0s/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding agent\"",
+		"_readme_category_scores": {},
+		"view_count": 36084,
+		"like_count": 987,
+		"comment_count": 164
+	},
+	"health": {
+		"score": 100,
+		"level": "active"
+	},
+	"category": "video"
+}

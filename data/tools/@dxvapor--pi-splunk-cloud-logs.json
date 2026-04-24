@@ -1,0 +1,36 @@
+{
+	"id": "@dxvapor/pi-splunk-cloud-logs",
+	"name": "@dxvapor/pi-splunk-cloud-logs",
+	"url": "https://www.npmjs.com/package/@dxvapor/pi-splunk-cloud-logs",
+	"source": "npm-search",
+	"description": "Pi coding agent extension for querying Splunk Cloud logs via REST API. Supports OAuth2 client credentials and bearer token auth.",
+	"metadata": {
+		"github_url": "https://github.com/dxvapor/pi-splunk-cloud-logs",
+		"npm_name": "@dxvapor/pi-splunk-cloud-logs",
+		"description": "Pi coding agent extension for querying Splunk Cloud logs via REST API. Supports OAuth2 client credentials and bearer token auth.",
+		"keywords": ["pi-package", "pi-extension", "splunk", "splunk-cloud", "logs", "observability"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-22T05:25:29Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 12,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

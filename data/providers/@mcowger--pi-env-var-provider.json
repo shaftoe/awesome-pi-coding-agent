@@ -1,0 +1,36 @@
+{
+	"id": "@mcowger/pi-env-var-provider",
+	"name": "@mcowger/pi-env-var-provider",
+	"url": "https://www.npmjs.com/package/@mcowger/pi-env-var-provider",
+	"source": "npm-search",
+	"description": "Pi extension: register a custom OpenAI-compatible provider from environment variables. Configure baseUrl, apiKey, and models via env vars without editing models.json.",
+	"metadata": {
+		"github_url": "https://github.com/mcowger/pi-env-var-provider",
+		"npm_name": "@mcowger/pi-env-var-provider",
+		"description": "Pi extension: register a custom OpenAI-compatible provider from environment variables. Configure baseUrl, apiKey, and models via env vars without editing models.json.",
+		"keywords": ["pi-package", "pi-extension", "openai", "proxy", "custom-provider", "environment-variables", "pi-coding-agent"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-19T00:48:58Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 0,
+			"theme": 0,
+			"provider": 45
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "pi-thinking-steps",
+	"name": "pi-thinking-steps",
+	"url": "https://www.npmjs.com/package/pi-thinking-steps",
+	"source": "npm-search",
+	"description": "Professional three-mode thinking-step rendering for Pi's TUI.",
+	"metadata": {
+		"github_url": "https://github.com/fluxgear/pi-thinking-steps",
+		"npm_name": "pi-thinking-steps",
+		"description": "Professional three-mode thinking-step rendering for Pi's TUI.",
+		"keywords": ["pi", "pi-package", "terminal", "extension", "thinking", "tui"],
+		"version": "1.0.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 54,
+		"forks": 3,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T02:07:55Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 1,
+			"theme": 2,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 75,
+		"level": "active"
+	},
+	"category": "extension"
+}

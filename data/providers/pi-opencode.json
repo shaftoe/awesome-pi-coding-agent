@@ -1,0 +1,36 @@
+{
+	"id": "pi-opencode",
+	"name": "pi-opencode",
+	"url": "https://www.npmjs.com/package/pi-opencode",
+	"source": "npm-search",
+	"description": "OpenCode provider extension for pi coding agent — Zen and Go models",
+	"metadata": {
+		"github_url": "https://github.com/awtotty/pi-opencode",
+		"npm_name": "pi-opencode",
+		"description": "OpenCode provider extension for pi coding agent — Zen and Go models",
+		"keywords": ["pi", "pi-extension", "opencode", "opencode-zen", "opencode-go", "ai", "provider"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-extension",
+		"stars": 2,
+		"forks": 2,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-17T21:56:55Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 0,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

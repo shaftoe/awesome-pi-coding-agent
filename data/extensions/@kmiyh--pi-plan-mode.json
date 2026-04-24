@@ -1,0 +1,36 @@
+{
+	"id": "@kmiyh/pi-plan-mode",
+	"name": "@kmiyh/pi-plan-mode",
+	"url": "https://www.npmjs.com/package/@kmiyh/pi-plan-mode",
+	"source": "npm-search",
+	"description": "Pi extension that adds a persistent Claude/Codex/OpenCode-style plan mode with safe tooling, session-scoped plan files, and inline footer status.",
+	"metadata": {
+		"github_url": "https://github.com/Kmiyh/pi-plan-mode",
+		"npm_name": "@kmiyh/pi-plan-mode",
+		"description": "Pi extension that adds a persistent Claude/Codex/OpenCode-style plan mode with safe tooling, session-scoped plan files, and inline footer status.",
+		"keywords": ["pi-package", "pi-agent", "pi-extension", "plan-mode", "planning", "read-only"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T05:31:14Z",
+		"topics": ["pi-agent", "pi-extension", "pi-package", "plan-mode", "planning"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 12,
+			"tool": 1,
+			"theme": 1,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

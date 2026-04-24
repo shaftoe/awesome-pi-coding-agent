@@ -15,11 +15,21 @@
 			"tool": 1,
 			"theme": 0,
 			"provider": 4
-		}
+		},
+		"stars": 10,
+		"forks": 2,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-17T09:29:01Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null
 	},
 	"health": {
-		"score": 50,
-		"level": "maintained"
+		"score": 71,
+		"level": "active"
 	},
 	"category": "provider"
 }

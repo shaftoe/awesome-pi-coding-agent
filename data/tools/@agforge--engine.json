@@ -1,0 +1,21 @@
+{
+	"id": "@agforge/engine",
+	"name": "@agforge/engine",
+	"url": "https://www.npmjs.com/package/@agforge/engine",
+	"source": "npm-search",
+	"description": "DefaultAgent with built-in interceptors, MCP client, tool factory, context compression, and error hierarchy for AgForge SDK",
+	"metadata": {
+		"github_url": "https://github.com/ai-agforge/agforge-sdk",
+		"npm_name": "@agforge/engine",
+		"description": "DefaultAgent with built-in interceptors, MCP client, tool factory, context compression, and error hierarchy for AgForge SDK",
+		"keywords": ["ai", "agent", "llm", "interceptor", "mcp", "tools", "compression", "typescript", "agforge"],
+		"version": "0.1.2",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "pi-git-worktrees",
+	"name": "pi-git-worktrees",
+	"url": "https://www.npmjs.com/package/pi-git-worktrees",
+	"source": "npm-search",
+	"description": "Parallel AI agent sessions using git worktrees for Pi — spawn, orchestrate, and gather results across multiple coding agents",
+	"metadata": {
+		"github_url": "https://github.com/rielj/pi-git-worktrees",
+		"npm_name": "pi-git-worktrees",
+		"description": "Parallel AI agent sessions using git worktrees for Pi — spawn, orchestrate, and gather results across multiple coding agents",
+		"keywords": ["pi", "pi-coding-agent", "pi-extension", "git-worktree", "parallel-agents", "orchestration", "tmux", "ai-agents", "coding-agent", "multi-agent"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-extension",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-23T22:08:54Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 11,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

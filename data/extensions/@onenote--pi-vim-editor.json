@@ -1,0 +1,36 @@
+{
+	"id": "@onenote/pi-vim-editor",
+	"name": "@onenote/pi-vim-editor",
+	"url": "https://www.npmjs.com/package/@onenote/pi-vim-editor",
+	"source": "npm-search",
+	"description": "Vim-style modal editor extension for pi",
+	"metadata": {
+		"github_url": "https://github.com/OneNoted/pi-vim-editor",
+		"npm_name": "@onenote/pi-vim-editor",
+		"description": "Vim-style modal editor extension for pi",
+		"keywords": ["pi-package", "pi", "vim", "modal", "editor"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-17T13:44:47Z",
+		"topics": ["modal-editor", "pi", "pi-package", "terminal-ui", "vim"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

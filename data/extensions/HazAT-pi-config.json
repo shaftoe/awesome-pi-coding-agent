@@ -6,7 +6,7 @@
 	"description": "My personal pi coding agent configuration - skills and extensions",
 	"metadata": {
 		"description": "My personal pi coding agent configuration - skills and extensions",
-		"stars": 303,
+		"stars": 306,
 		"forks": 27,
 		"language": "TypeScript",
 		"topics": [],
@@ -18,10 +18,13 @@
 			"tool": 3,
 			"theme": 0,
 			"provider": 0
-		}
+		},
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-17T08:54:48Z"
 	},
 	"health": {
-		"score": 70,
+		"score": 90,
 		"level": "active"
 	},
 	"category": "extension"

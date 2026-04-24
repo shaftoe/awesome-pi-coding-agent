@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-react-native",
+	"name": "@artale/pi-react-native",
+	"url": "https://www.npmjs.com/package/@artale/pi-react-native",
+	"source": "npm-search",
+	"description": "React Native utilities",
+	"metadata": {
+		"github_url": "https://github.com/artale93/pi-react-native",
+		"npm_name": "@artale/pi-react-native",
+		"description": "React Native utilities",
+		"keywords": ["pi-package"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

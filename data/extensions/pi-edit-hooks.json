@@ -1,0 +1,36 @@
+{
+	"id": "pi-edit-hooks",
+	"name": "pi-edit-hooks",
+	"url": "https://www.npmjs.com/package/pi-edit-hooks",
+	"source": "npm-search",
+	"description": "Code quality hooks for the pi coding agent — runs syntax checks on edit and format/lint/typecheck at turn end",
+	"metadata": {
+		"github_url": "https://github.com/mackenney/pi-edit-hooks",
+		"npm_name": "pi-edit-hooks",
+		"description": "Code quality hooks for the pi coding agent — runs syntax checks on edit and format/lint/typecheck at turn end",
+		"keywords": ["pi-package", "pi-extension", "pi", "format", "lint", "typecheck", "hooks"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-23T03:19:25Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 14,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

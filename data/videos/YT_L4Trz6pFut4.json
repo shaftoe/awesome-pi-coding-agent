@@ -1,0 +1,24 @@
+{
+	"id": "YT_L4Trz6pFut4",
+	"name": "Introduction to the Gamma function & the Pi function (extending the factorial!)",
+	"url": "https://www.youtube.com/watch?v=L4Trz6pFut4",
+	"source": "youtube-search",
+	"description": "The usual definition for a factorial only works for positive whole numbers, but how can we take the factorial of any number?",
+	"metadata": {
+		"title": "Introduction to the Gamma function & the Pi function (extending the factorial!)",
+		"description": "The usual definition for a factorial only works for positive whole numbers, but how can we take the factorial of any number?",
+		"channel": "blackpenredpen",
+		"published_at": "2018-01-15T08:18:58Z",
+		"thumbnail": "https://i.ytimg.com/vi/L4Trz6pFut4/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi extension\" -raspberry -vscode",
+		"_readme_category_scores": {},
+		"view_count": 410010,
+		"like_count": 12169,
+		"comment_count": 490
+	},
+	"health": {
+		"score": 55,
+		"level": "maintained"
+	},
+	"category": "video"
+}

@@ -18,7 +18,10 @@
 			"tool": 0,
 			"theme": 0,
 			"provider": 0
-		}
+		},
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-01-06T14:51:11Z"
 	},
 	"health": {
 		"score": 50,

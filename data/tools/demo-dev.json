@@ -1,0 +1,21 @@
+{
+	"id": "demo-dev",
+	"name": "demo-dev",
+	"url": "https://www.npmjs.com/package/demo-dev",
+	"source": "npm-search",
+	"description": "Generate polished product demo videos with one command. Just give a URL and a prompt.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "demo-dev",
+		"description": "Generate polished product demo videos with one command. Just give a URL and a prompt.",
+		"keywords": ["pi-package", "agent-skill", "pr-demo", "playwright", "ffmpeg", "ghost-cursor"],
+		"version": "0.0.2-alpha.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

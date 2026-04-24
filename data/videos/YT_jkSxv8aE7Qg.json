@@ -1,0 +1,24 @@
+{
+	"id": "YT_jkSxv8aE7Qg",
+	"name": "\"In C\" by Terry Riley with Sonic Pi",
+	"url": "https://www.youtube.com/watch?v=jkSxv8aE7Qg",
+	"source": "youtube-search",
+	"description": "Extract \"In C\" with the software Sonic Pi (Code Music Live)",
+	"metadata": {
+		"title": "\"In C\" by Terry Riley with Sonic Pi",
+		"description": "Extract \"In C\" with the software Sonic Pi (Code Music Live)",
+		"channel": "Simone Francia",
+		"published_at": "2020-04-29T12:17:55Z",
+		"thumbnail": "https://i.ytimg.com/vi/jkSxv8aE7Qg/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 148,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

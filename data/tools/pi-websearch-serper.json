@@ -1,0 +1,21 @@
+{
+	"id": "pi-websearch-serper",
+	"name": "pi-websearch-serper",
+	"url": "https://www.npmjs.com/package/pi-websearch-serper",
+	"source": "npm-search",
+	"description": "Pi web search tool powered by Serper (Google Search)",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-websearch-serper",
+		"description": "Pi web search tool powered by Serper (Google Search)",
+		"keywords": ["pi-package"],
+		"version": "0.2.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

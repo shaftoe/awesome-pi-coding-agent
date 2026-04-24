@@ -1,0 +1,24 @@
+{
+	"id": "YT_CWnG01UpPKU",
+	"name": "Raspberry Pi: How do I release or free /dev/ttyUSB0?",
+	"url": "https://www.youtube.com/watch?v=CWnG01UpPKU",
+	"source": "youtube-search",
+	"description": "https://amzn.to/4aLHbLD You're literally one click away from a better setup — grab it now! As an Amazon Associate I earn ...",
+	"metadata": {
+		"title": "Raspberry Pi: How do I release or free /dev/ttyUSB0?",
+		"description": "https://amzn.to/4aLHbLD You're literally one click away from a better setup — grab it now! As an Amazon Associate I earn ...",
+		"channel": "Roel Van de Paar",
+		"published_at": "2020-12-19T14:51:56Z",
+		"thumbnail": "https://i.ytimg.com/vi/CWnG01UpPKU/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 155,
+		"like_count": 1,
+		"comment_count": 1
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@mattgreathouse/brightdata-mcp",
+	"name": "@mattgreathouse/brightdata-mcp",
+	"url": "https://www.npmjs.com/package/@mattgreathouse/brightdata-mcp",
+	"source": "npm-search",
+	"description": "An MCP interface into the Bright Data toolset",
+	"metadata": {
+		"github_url": "https://github.com/gobii-ai/brightdata-mcp",
+		"npm_name": "@mattgreathouse/brightdata-mcp",
+		"description": "An MCP interface into the Bright Data toolset",
+		"keywords": ["mcp", "brightdata"],
+		"version": "2.9.4",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T13:58:42Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": "https://brightdata.com/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 5,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 40,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

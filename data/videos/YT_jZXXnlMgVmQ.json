@@ -1,0 +1,24 @@
+{
+	"id": "YT_jZXXnlMgVmQ",
+	"name": "Haunted House - Sonic Pi live coding session",
+	"url": "https://www.youtube.com/watch?v=jZXXnlMgVmQ",
+	"source": "youtube-search",
+	"description": "Live coding session with Sonic Pi. Checkout the complete playlist: ...",
+	"metadata": {
+		"title": "Haunted House - Sonic Pi live coding session",
+		"description": "Live coding session with Sonic Pi. Checkout the complete playlist: ...",
+		"channel": "Davids Music Lab",
+		"published_at": "2017-09-04T23:23:22Z",
+		"thumbnail": "https://i.ytimg.com/vi/jZXXnlMgVmQ/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 166,
+		"like_count": 4,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

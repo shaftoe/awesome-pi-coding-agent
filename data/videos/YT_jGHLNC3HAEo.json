@@ -1,0 +1,24 @@
+{
+	"id": "YT_jGHLNC3HAEo",
+	"name": "Sonic Pi + Ableton FX Experiment #sonicpi",
+	"url": "https://www.youtube.com/watch?v=jGHLNC3HAEo",
+	"source": "youtube-search",
+	"description": "Simple loops and fx via Ableton.",
+	"metadata": {
+		"title": "Sonic Pi + Ableton FX Experiment #sonicpi",
+		"description": "Simple loops and fx via Ableton.",
+		"channel": "h.eund",
+		"published_at": "2023-08-22T04:00:18Z",
+		"thumbnail": "https://i.ytimg.com/vi/jGHLNC3HAEo/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 757,
+		"like_count": 20,
+		"comment_count": 1
+	},
+	"health": {
+		"score": 32,
+		"level": "stale"
+	},
+	"category": "video"
+}

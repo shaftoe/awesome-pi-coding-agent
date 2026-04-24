@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-lean",
+	"name": "@artale/pi-lean",
+	"url": "https://www.npmjs.com/package/@artale/pi-lean",
+	"source": "npm-search",
+	"description": "Lean tool output for Pi. Auto-truncate verbose bash output, collapse npm/pip noise, keep errors and results visible.",
+	"metadata": {
+		"github_url": "https://github.com/arosstale/pi-lean",
+		"npm_name": "@artale/pi-lean",
+		"description": "Lean tool output for Pi. Auto-truncate verbose bash output, collapse npm/pip noise, keep errors and results visible.",
+		"keywords": ["pi-package"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

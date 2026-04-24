@@ -1,0 +1,36 @@
+{
+	"id": "@asgpay/agent-cash",
+	"name": "@asgpay/agent-cash",
+	"url": "https://www.npmjs.com/package/@asgpay/agent-cash",
+	"source": "npm-search",
+	"description": "ASG Pay Agent Cash — give your AI agents autonomous virtual credit cards (Mastercard) via Stripe Issuing. x402 & MPP compatible. Part of the ASG Pay ecosystem.",
+	"metadata": {
+		"github_url": "https://github.com/ASGCompute/asgcard-public",
+		"npm_name": "@asgpay/agent-cash",
+		"description": "ASG Pay Agent Cash — give your AI agents autonomous virtual credit cards (Mastercard) via Stripe Issuing. x402 & MPP compatible. Part of the ASG Pay ecosystem.",
+		"keywords": ["asg-pay", "asgpay", "agent-cash", "ai-credit-card", "virtual-card", "agent-wallet", "stripe-issuing", "mastercard", "x402", "mpp", "machine-payments", "autonomous-agent", "fintech", "ai-payments", "asgcard"],
+		"version": "1.0.1",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 14,
+		"forks": 3,
+		"open_issues": 8,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-09T18:46:17Z",
+		"topics": ["agent-payments", "ai-agents", "fintech", "mastercard", "mcp", "stellar", "usdc", "virtual-cards", "x402"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://asgcard.dev",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 26,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,24 @@
+{
+	"id": "YT_agadXDXWwPU",
+	"name": "Heating & Security Control Part 22 - Raspberry Pi coding python tkinter gui",
+	"url": "https://www.youtube.com/watch?v=agadXDXWwPU",
+	"source": "youtube-search",
+	"description": "In this video I put a timer in place for the zone lightning control for each zone, I also make use of a new button to show that a zone ...",
+	"metadata": {
+		"title": "Heating & Security Control Part 22 - Raspberry Pi coding python tkinter gui",
+		"description": "In this video I put a timer in place for the zone lightning control for each zone, I also make use of a new button to show that a zone ...",
+		"channel": "RasPiPkr Tutorials",
+		"published_at": "2020-08-08T08:00:00Z",
+		"thumbnail": "https://i.ytimg.com/vi/agadXDXWwPU/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 68,
+		"like_count": 1,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

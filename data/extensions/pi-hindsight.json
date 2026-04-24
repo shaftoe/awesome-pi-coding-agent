@@ -1,0 +1,36 @@
+{
+	"id": "pi-hindsight",
+	"name": "pi-hindsight",
+	"url": "https://www.npmjs.com/package/pi-hindsight",
+	"source": "npm-search",
+	"description": "Hindsight self-hosted memory extension for Pi",
+	"metadata": {
+		"github_url": "https://github.com/anh-chu/pi-hindsight",
+		"npm_name": "pi-hindsight",
+		"description": "Hindsight self-hosted memory extension for Pi",
+		"keywords": ["pi-package", "pi", "pi-extension", "hindsight", "memory"],
+		"version": "1.0.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 2,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-17T13:02:16Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 9,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -15,11 +15,21 @@
 			"tool": 26,
 			"theme": 0,
 			"provider": 7
-		}
+		},
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-31T06:40:43Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null
 	},
 	"health": {
-		"score": 50,
-		"level": "maintained"
+		"score": 70,
+		"level": "active"
 	},
 	"category": "provider"
 }

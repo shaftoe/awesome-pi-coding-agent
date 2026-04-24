@@ -6,8 +6,8 @@
 	"description": "Pi coding-agent extension for pruning tool-call trees",
 	"metadata": {
 		"description": "Pi coding-agent extension for pruning tool-call trees",
-		"stars": 5,
-		"forks": 0,
+		"stars": 6,
+		"forks": 1,
 		"language": "TypeScript",
 		"topics": [],
 		"is_archived": false,
@@ -18,11 +18,14 @@
 			"tool": 0,
 			"theme": 0,
 			"provider": 5
-		}
+		},
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-21T17:25:02Z"
 	},
 	"health": {
-		"score": 51,
-		"level": "maintained"
+		"score": 71,
+		"level": "active"
 	},
 	"category": "extension"
 }

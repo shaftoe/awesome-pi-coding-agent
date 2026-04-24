@@ -1,0 +1,24 @@
+{
+	"id": "YT_YvZ76dAKIeg",
+	"name": "How to setup multiple agents for monitoring using the advance mode",
+	"url": "https://www.youtube.com/watch?v=YvZ76dAKIeg",
+	"source": "youtube-search",
+	"description": "How to setup multiple agents for monitoring using the advance mode.",
+	"metadata": {
+		"title": "How to setup multiple agents for monitoring using the advance mode",
+		"description": "How to setup multiple agents for monitoring using the advance mode.",
+		"channel": "Quest Technical Support",
+		"published_at": "2017-06-09T17:31:06Z",
+		"thumbnail": "https://i.ytimg.com/vi/YvZ76dAKIeg/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi extension\" -raspberry -vscode",
+		"_readme_category_scores": {},
+		"view_count": 72,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

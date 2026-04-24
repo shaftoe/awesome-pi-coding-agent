@@ -1,0 +1,21 @@
+{
+	"id": "pi-websearch-tavily",
+	"name": "pi-websearch-tavily",
+	"url": "https://www.npmjs.com/package/pi-websearch-tavily",
+	"source": "npm-search",
+	"description": "Pi web search tool powered by Tavily",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-websearch-tavily",
+		"description": "Pi web search tool powered by Tavily",
+		"keywords": ["pi-package"],
+		"version": "0.2.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

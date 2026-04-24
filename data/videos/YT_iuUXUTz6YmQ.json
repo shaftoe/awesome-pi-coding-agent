@@ -1,0 +1,24 @@
+{
+	"id": "YT_iuUXUTz6YmQ",
+	"name": "SPI interface",
+	"url": "https://www.youtube.com/watch?v=iuUXUTz6YmQ",
+	"source": "youtube-search",
+	"description": "",
+	"metadata": {
+		"title": "SPI interface",
+		"description": "",
+		"channel": "Sangwoo Kim",
+		"published_at": "2016-11-17T23:40:41Z",
+		"thumbnail": "https://i.ytimg.com/vi/iuUXUTz6YmQ/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi-mono\"",
+		"_readme_category_scores": {},
+		"view_count": 36,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

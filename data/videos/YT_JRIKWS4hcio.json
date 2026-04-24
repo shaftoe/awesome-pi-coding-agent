@@ -1,0 +1,24 @@
+{
+	"id": "YT_JRIKWS4hcio",
+	"name": "Spin Engenharia | BR - ActionNET embarcado no Raspberry PI",
+	"url": "https://www.youtube.com/watch?v=JRIKWS4hcio",
+	"source": "youtube-search",
+	"description": "Este vídeo mostra uma versão do ActionNET rodando em Linux, em uma placa RaspBerri PI. Mono é uma implementação em ...",
+	"metadata": {
+		"title": "Spin Engenharia | BR - ActionNET embarcado no Raspberry PI",
+		"description": "Este vídeo mostra uma versão do ActionNET rodando em Linux, em uma placa RaspBerri PI. Mono é uma implementação em ...",
+		"channel": "Spin Eng",
+		"published_at": "2019-10-10T17:04:33Z",
+		"thumbnail": "https://i.ytimg.com/vi/JRIKWS4hcio/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi-mono\"",
+		"_readme_category_scores": {},
+		"view_count": 67,
+		"like_count": 2,
+		"comment_count": 1
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

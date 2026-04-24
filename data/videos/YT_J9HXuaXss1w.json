@@ -1,0 +1,24 @@
+{
+	"id": "YT_J9HXuaXss1w",
+	"name": "Musik programmieren mit Sonic Pi",
+	"url": "https://www.youtube.com/watch?v=J9HXuaXss1w",
+	"source": "youtube-search",
+	"description": "Bei Sonic Pi handelt es sich um ein außergewöhnliches digitales Musikinstrument… Hierbei wird zwar auch in die Tasten ...",
+	"metadata": {
+		"title": "Musik programmieren mit Sonic Pi",
+		"description": "Bei Sonic Pi handelt es sich um ein außergewöhnliches digitales Musikinstrument… Hierbei wird zwar auch in die Tasten ...",
+		"channel": "barrierefrei kommunizieren! / Meko Mitte",
+		"published_at": "2020-11-09T10:00:52Z",
+		"thumbnail": "https://i.ytimg.com/vi/J9HXuaXss1w/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 5075,
+		"like_count": 84,
+		"comment_count": 2
+	},
+	"health": {
+		"score": 42,
+		"level": "maintained"
+	},
+	"category": "video"
+}

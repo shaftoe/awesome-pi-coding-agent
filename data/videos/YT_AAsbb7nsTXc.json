@@ -1,0 +1,24 @@
+{
+	"id": "YT_AAsbb7nsTXc",
+	"name": "What are GPIO Pins on a Raspberry Pi? | Intro to Raspberry Pi",
+	"url": "https://www.youtube.com/watch?v=AAsbb7nsTXc",
+	"source": "youtube-search",
+	"description": "Please like, subscribe, and share this video with a friend. I work hard on my videos and I want my hard work to be paid off so if you ...",
+	"metadata": {
+		"title": "What are GPIO Pins on a Raspberry Pi? | Intro to Raspberry Pi",
+		"description": "Please like, subscribe, and share this video with a friend. I work hard on my videos and I want my hard work to be paid off so if you ...",
+		"channel": "Aarons Engineering Lab",
+		"published_at": "2023-10-30T09:00:07Z",
+		"thumbnail": "https://i.ytimg.com/vi/AAsbb7nsTXc/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 10357,
+		"like_count": 130,
+		"comment_count": 3
+	},
+	"health": {
+		"score": 48,
+		"level": "maintained"
+	},
+	"category": "video"
+}

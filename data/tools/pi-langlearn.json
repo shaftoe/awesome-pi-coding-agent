@@ -1,0 +1,21 @@
+{
+	"id": "pi-langlearn",
+	"name": "pi-langlearn",
+	"url": "https://www.npmjs.com/package/pi-langlearn",
+	"source": "npm-search",
+	"description": "Duolingo-esque language learning overlay for Pi",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-langlearn",
+		"description": "Duolingo-esque language learning overlay for Pi",
+		"keywords": ["extension", "language-learning", "pi", "pi-coding-agent", "pi-package", "srs", "tui"],
+		"version": "0.2.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

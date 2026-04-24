@@ -1,0 +1,36 @@
+{
+	"id": "@agledger/mcp-server",
+	"name": "@agledger/mcp-server",
+	"url": "https://www.npmjs.com/package/@agledger/mcp-server",
+	"source": "npm-search",
+	"description": "AGLedger MCP Server — Thin API pass-through for AI agents via MCP protocol",
+	"metadata": {
+		"github_url": "https://github.com/agledger-ai/mcp-server",
+		"npm_name": "@agledger/mcp-server",
+		"description": "AGLedger MCP Server — Thin API pass-through for AI agents via MCP protocol",
+		"keywords": ["agledger", "mcp", "model-context-protocol", "ai-agents", "accountability", "audit"],
+		"version": "2.2.0",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-23T08:46:38Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

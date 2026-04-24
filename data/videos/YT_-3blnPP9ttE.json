@@ -1,0 +1,24 @@
+{
+	"id": "YT_-3blnPP9ttE",
+	"name": "Unix & Linux: How is the i2c bus number in /dev/i2c'x' assigned?",
+	"url": "https://www.youtube.com/watch?v=-3blnPP9ttE",
+	"source": "youtube-search",
+	"description": "https://amzn.to/4aLHbLD You're literally one click away from a better setup — grab it now! As an Amazon Associate I earn ...",
+	"metadata": {
+		"title": "Unix & Linux: How is the i2c bus number in /dev/i2c'x' assigned?",
+		"description": "https://amzn.to/4aLHbLD You're literally one click away from a better setup — grab it now! As an Amazon Associate I earn ...",
+		"channel": "Roel Van de Paar",
+		"published_at": "2020-12-21T12:41:17Z",
+		"thumbnail": "https://i.ytimg.com/vi/-3blnPP9ttE/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 25,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

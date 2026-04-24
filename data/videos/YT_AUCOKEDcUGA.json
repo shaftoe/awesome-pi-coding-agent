@@ -1,0 +1,24 @@
+{
+	"id": "YT_AUCOKEDcUGA",
+	"name": "banana pi BPI-M3-H allwinner H8 Android 5.1.1 Test",
+	"url": "https://www.youtube.com/watch?v=AUCOKEDcUGA",
+	"source": "youtube-search",
+	"description": "banana pi BPI-M3-H allwinner H8 Android 5.1.1 Test BPI-M3 with allwinner A83T BPI-M3-H with allwinner H8 BPI-M3-R with ...",
+	"metadata": {
+		"title": "banana pi BPI-M3-H allwinner H8 Android 5.1.1 Test",
+		"description": "banana pi BPI-M3-H allwinner H8 Android 5.1.1 Test BPI-M3 with allwinner A83T BPI-M3-H with allwinner H8 BPI-M3-R with ...",
+		"channel": "Banana Pi BPI",
+		"published_at": "2016-04-18T08:24:47Z",
+		"thumbnail": "https://i.ytimg.com/vi/AUCOKEDcUGA/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 1975,
+		"like_count": 5,
+		"comment_count": 3
+	},
+	"health": {
+		"score": 34,
+		"level": "stale"
+	},
+	"category": "video"
+}

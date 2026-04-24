@@ -15,10 +15,20 @@
 			"tool": 20,
 			"theme": 0,
 			"provider": 45
-		}
+		},
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-01T03:56:08Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": ""
 	},
 	"health": {
-		"score": 50,
+		"score": 40,
 		"level": "maintained"
 	},
 	"category": "provider"

@@ -1,0 +1,24 @@
+{
+	"id": "YT_RNefOijZ3T4",
+	"name": "Build AI Agents Fast with Pi-Mono",
+	"url": "https://www.youtube.com/watch?v=RNefOijZ3T4",
+	"source": "youtube-search",
+	"description": "Struggling to build and deploy your own AI agents? Meet the toolkit that changes everything. This monorepo is a powerhouse for ...",
+	"metadata": {
+		"title": "Build AI Agents Fast with Pi-Mono",
+		"description": "Struggling to build and deploy your own AI agents? Meet the toolkit that changes everything. This monorepo is a powerhouse for ...",
+		"channel": "Github Signals",
+		"published_at": "2026-04-23T18:47:38Z",
+		"thumbnail": "https://i.ytimg.com/vi/RNefOijZ3T4/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi-mono\"",
+		"_readme_category_scores": {},
+		"view_count": 22,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 75,
+		"level": "active"
+	},
+	"category": "video"
+}

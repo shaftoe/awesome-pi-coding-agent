@@ -1,0 +1,24 @@
+{
+	"id": "YT_edybZv-AHpc",
+	"name": "Sonic Pi Tutorial - Chopping Up Samples part 1",
+	"url": "https://www.youtube.com/watch?v=edybZv-AHpc",
+	"source": "youtube-search",
+	"description": "This video shows how to chop samples into smaller parts using the slice: option. Reference sheet: ...",
+	"metadata": {
+		"title": "Sonic Pi Tutorial - Chopping Up Samples part 1",
+		"description": "This video shows how to chop samples into smaller parts using the slice: option. Reference sheet: ...",
+		"channel": "Mister Bomb",
+		"published_at": "2020-06-30T00:54:40Z",
+		"thumbnail": "https://i.ytimg.com/vi/edybZv-AHpc/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 2079,
+		"like_count": 55,
+		"comment_count": 3
+	},
+	"health": {
+		"score": 35,
+		"level": "stale"
+	},
+	"category": "video"
+}

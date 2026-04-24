@@ -1,0 +1,24 @@
+{
+	"id": "YT_DjLzw7Y8IUE",
+	"name": "Sonic Pi Tutorial - Randomization part 1: rrand/rrand_i",
+	"url": "https://www.youtube.com/watch?v=DjLzw7Y8IUE",
+	"source": "youtube-search",
+	"description": "This video shows how to choose random vales from a range of numbers using the rrand and rrand_i functions. Reference sheet: ...",
+	"metadata": {
+		"title": "Sonic Pi Tutorial - Randomization part 1: rrand/rrand_i",
+		"description": "This video shows how to choose random vales from a range of numbers using the rrand and rrand_i functions. Reference sheet: ...",
+		"channel": "Mister Bomb",
+		"published_at": "2020-06-30T00:58:47Z",
+		"thumbnail": "https://i.ytimg.com/vi/DjLzw7Y8IUE/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 805,
+		"like_count": 8,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 32,
+		"level": "stale"
+	},
+	"category": "video"
+}

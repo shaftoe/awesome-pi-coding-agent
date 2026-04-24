@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-git-guard",
+	"name": "@artale/pi-git-guard",
+	"url": "https://www.npmjs.com/package/@artale/pi-git-guard",
+	"source": "npm-search",
+	"description": "Git safety guard: protect branches, scan secrets, prevent mistakes",
+	"metadata": {
+		"github_url": "https://github.com/artale93/pi-git-guard",
+		"npm_name": "@artale/pi-git-guard",
+		"description": "Git safety guard: protect branches, scan secrets, prevent mistakes",
+		"keywords": ["pi-package", "git", "security", "hooks", "protection"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,24 @@
+{
+	"id": "YT_P4AsfO1gMBM",
+	"name": "Im tired of the thumping upstairs for no reason when im trying to sleep",
+	"url": "https://www.youtube.com/watch?v=P4AsfO1gMBM",
+	"source": "youtube-search",
+	"description": "",
+	"metadata": {
+		"title": "Im tired of the thumping upstairs for no reason when im trying to sleep",
+		"description": "",
+		"channel": "Jason Bouskill",
+		"published_at": "2017-03-30T10:26:34Z",
+		"thumbnail": "https://i.ytimg.com/vi/P4AsfO1gMBM/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi agent\" -crypto -network -banking -raspberry",
+		"_readme_category_scores": {},
+		"view_count": 51,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

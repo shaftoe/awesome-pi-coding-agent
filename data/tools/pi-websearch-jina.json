@@ -1,0 +1,21 @@
+{
+	"id": "pi-websearch-jina",
+	"name": "pi-websearch-jina",
+	"url": "https://www.npmjs.com/package/pi-websearch-jina",
+	"source": "npm-search",
+	"description": "Pi web search tool powered by Jina AI",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-websearch-jina",
+		"description": "Pi web search tool powered by Jina AI",
+		"keywords": ["pi-package"],
+		"version": "0.2.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

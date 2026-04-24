@@ -1,0 +1,36 @@
+{
+	"id": "@samfp/pi-meeting-copilot",
+	"name": "@samfp/pi-meeting-copilot",
+	"url": "https://www.npmjs.com/package/@samfp/pi-meeting-copilot",
+	"source": "npm-search",
+	"description": "Live meeting transcription copilot for pi — captures audio via whisper-cpp on Mac, streams transcripts to your dev machine, and gives pi real-time meeting context.",
+	"metadata": {
+		"github_url": "https://github.com/samfoy/pi-meeting-copilot",
+		"npm_name": "@samfp/pi-meeting-copilot",
+		"description": "Live meeting transcription copilot for pi — captures audio via whisper-cpp on Mac, streams transcripts to your dev machine, and gives pi real-time meeting context.",
+		"keywords": ["pi-package", "meeting", "transcription", "whisper", "copilot"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-23T18:48:34Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

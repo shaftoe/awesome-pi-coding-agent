@@ -1,0 +1,24 @@
+{
+	"id": "YT_O_qAYWIGsPA",
+	"name": "Unix & Linux: Allow partial memory mapping of /dev/mem",
+	"url": "https://www.youtube.com/watch?v=O_qAYWIGsPA",
+	"source": "youtube-search",
+	"description": "https://amzn.to/4aLHbLD You're literally one click away from a better setup — grab it now! As an Amazon Associate I earn ...",
+	"metadata": {
+		"title": "Unix & Linux: Allow partial memory mapping of /dev/mem",
+		"description": "https://amzn.to/4aLHbLD You're literally one click away from a better setup — grab it now! As an Amazon Associate I earn ...",
+		"channel": "Roel Van de Paar",
+		"published_at": "2020-09-15T16:03:21Z",
+		"thumbnail": "https://i.ytimg.com/vi/O_qAYWIGsPA/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 36,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

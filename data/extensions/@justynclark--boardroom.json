@@ -1,0 +1,36 @@
+{
+	"id": "@justynclark/boardroom",
+	"name": "@justynclark/boardroom",
+	"url": "https://www.npmjs.com/package/@justynclark/boardroom",
+	"source": "npm-search",
+	"description": "Boardroom is a Pi-based executive deliberation pack from Justin Clark Network.",
+	"metadata": {
+		"github_url": "https://github.com/justyn-clark/boardroom",
+		"npm_name": "@justynclark/boardroom",
+		"description": "Boardroom is a Pi-based executive deliberation pack from Justin Clark Network.",
+		"keywords": ["pi", "pi-coding-agent", "boardroom", "executive-deliberation", "multi-agent", "justin-clark-network", "jcn"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-coding-agent",
+		"stars": 1,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-23T17:20:07Z",
+		"topics": ["boardroom", "executive-deliberation", "jcn", "multi-agent", "pi"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://agentboardroom.dev",
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 0,
+			"theme": 3,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

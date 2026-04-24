@@ -1,0 +1,36 @@
+{
+	"id": "gpt-image-2-skill-linux-arm64-gnu",
+	"name": "gpt-image-2-skill-linux-arm64-gnu",
+	"url": "https://www.npmjs.com/package/gpt-image-2-skill-linux-arm64-gnu",
+	"source": "npm-search",
+	"description": "Platform binary for gpt-image-2-skill (aarch64-unknown-linux-gnu).",
+	"metadata": {
+		"github_url": "https://github.com/Wangnov/gpt-image-2-skill",
+		"npm_name": "gpt-image-2-skill-linux-arm64-gnu",
+		"description": "Platform binary for gpt-image-2-skill (aarch64-unknown-linux-gnu).",
+		"keywords": [],
+		"version": "0.2.4",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 5,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Rust",
+		"license": "MIT",
+		"last_commit": "2026-04-23T14:42:53Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 4,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

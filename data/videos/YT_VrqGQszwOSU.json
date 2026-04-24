@@ -1,0 +1,24 @@
+{
+	"id": "YT_VrqGQszwOSU",
+	"name": "$7 SD card-sized SoC booting Debian 10",
+	"url": "https://www.youtube.com/watch?v=VrqGQszwOSU",
+	"source": "youtube-search",
+	"description": "The Lichee Pi Nano 32-bit ARM9 (v5tejl) development board made by Sipeed and it ships Allwiner's F1C100s SoC. With only ...",
+	"metadata": {
+		"title": "$7 SD card-sized SoC booting Debian 10",
+		"description": "The Lichee Pi Nano 32-bit ARM9 (v5tejl) development board made by Sipeed and it ships Allwiner's F1C100s SoC. With only ...",
+		"channel": "Nicolas Mailloux",
+		"published_at": "2021-06-02T23:21:49Z",
+		"thumbnail": "https://i.ytimg.com/vi/VrqGQszwOSU/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 764,
+		"like_count": 11,
+		"comment_count": 3
+	},
+	"health": {
+		"score": 32,
+		"level": "stale"
+	},
+	"category": "video"
+}

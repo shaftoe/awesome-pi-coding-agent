@@ -1,0 +1,21 @@
+{
+	"id": "pi-git-context",
+	"name": "pi-git-context",
+	"url": "https://www.npmjs.com/package/pi-git-context",
+	"source": "npm-search",
+	"description": "Opinionated git state context injection for pi",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-git-context",
+		"description": "Opinionated git state context injection for pi",
+		"keywords": ["pi-package", "pi-extension"],
+		"version": "0.1.2",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

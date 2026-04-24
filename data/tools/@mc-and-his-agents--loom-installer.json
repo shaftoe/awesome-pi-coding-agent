@@ -1,0 +1,36 @@
+{
+	"id": "@mc-and-his-agents/loom-installer",
+	"name": "@mc-and-his-agents/loom-installer",
+	"url": "https://www.npmjs.com/package/@mc-and-his-agents/loom-installer",
+	"source": "npm-search",
+	"description": "Node installer for Loom plugin and single-skill installation surfaces.",
+	"metadata": {
+		"github_url": "https://github.com/MC-and-his-Agents/Loom",
+		"npm_name": "@mc-and-his-agents/loom-installer",
+		"description": "Node installer for Loom plugin and single-skill installation surfaces.",
+		"keywords": ["loom", "installer", "skills", "codex", "claude"],
+		"version": "0.1.10",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Python",
+		"license": "MIT",
+		"last_commit": "2026-04-24T07:38:01Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

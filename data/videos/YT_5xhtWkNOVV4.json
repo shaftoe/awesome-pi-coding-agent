@@ -1,0 +1,24 @@
+{
+	"id": "YT_5xhtWkNOVV4",
+	"name": "现在别部署 OpenClaw：26% 社区技能有漏洞",
+	"url": "https://www.youtube.com/watch?v=5xhtWkNOVV4",
+	"source": "youtube-search",
+	"description": "把LLM 做成“会动的代理”听起来是效率飞跃，但清华和蚂蚁团队的安全分析直接警告：OpenClaw 的kernel-plugin 架构会把自治代理 ...",
+	"metadata": {
+		"title": "现在别部署 OpenClaw：26% 社区技能有漏洞",
+		"description": "把LLM 做成“会动的代理”听起来是效率飞跃，但清华和蚂蚁团队的安全分析直接警告：OpenClaw 的kernel-plugin 架构会把自治代理 ...",
+		"channel": "智用",
+		"published_at": "2026-03-18T21:15:45Z",
+		"thumbnail": "https://i.ytimg.com/vi/5xhtWkNOVV4/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding agent\"",
+		"_readme_category_scores": {},
+		"view_count": 1,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 65,
+		"level": "maintained"
+	},
+	"category": "video"
+}

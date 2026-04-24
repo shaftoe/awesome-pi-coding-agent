@@ -1,0 +1,24 @@
+{
+	"id": "YT_nOkR53AZAcE",
+	"name": "Baudrate 115200 no funciona",
+	"url": "https://www.youtube.com/watch?v=nOkR53AZAcE",
+	"source": "youtube-search",
+	"description": "",
+	"metadata": {
+		"title": "Baudrate 115200 no funciona",
+		"description": "",
+		"channel": "Rodrigo Ignacio Adet",
+		"published_at": "2020-12-07T13:40:19Z",
+		"thumbnail": "https://i.ytimg.com/vi/nOkR53AZAcE/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 108,
+		"like_count": 0,
+		"comment_count": 1
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

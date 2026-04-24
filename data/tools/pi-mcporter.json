@@ -15,11 +15,21 @@
 			"tool": 3,
 			"theme": 0,
 			"provider": 0
-		}
+		},
+		"stars": 14,
+		"forks": 3,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-23T07:15:46Z",
+		"topics": ["coding-agent", "mcp", "mcporter", "pi", "pi-extension"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null
 	},
 	"health": {
-		"score": 50,
-		"level": "maintained"
+		"score": 71,
+		"level": "active"
 	},
 	"category": "tool"
 }

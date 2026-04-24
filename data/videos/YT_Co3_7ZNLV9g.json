@@ -1,0 +1,24 @@
+{
+	"id": "YT_Co3_7ZNLV9g",
+	"name": "Raspberry pi and traffic lights!",
+	"url": "https://www.youtube.com/watch?v=Co3_7ZNLV9g",
+	"source": "youtube-search",
+	"description": "",
+	"metadata": {
+		"title": "Raspberry pi and traffic lights!",
+		"description": "",
+		"channel": "Traffic Light Doctor",
+		"published_at": "2023-09-28T17:13:20Z",
+		"thumbnail": "https://i.ytimg.com/vi/Co3_7ZNLV9g/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 230327,
+		"like_count": 7520,
+		"comment_count": 1006
+	},
+	"health": {
+		"score": 55,
+		"level": "maintained"
+	},
+	"category": "video"
+}

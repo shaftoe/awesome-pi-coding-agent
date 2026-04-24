@@ -1,0 +1,24 @@
+{
+	"id": "YT_NTAE7rwqP8k",
+	"name": "Using Troop with Sonic-Pi",
+	"url": "https://www.youtube.com/watch?v=NTAE7rwqP8k",
+	"source": "youtube-search",
+	"description": "Finally got around to adding Sonic-Pi compatibility for my collaborative live coding editor, Troop. https://github.com/Qirky/Troop ...",
+	"metadata": {
+		"title": "Using Troop with Sonic-Pi",
+		"description": "Finally got around to adding Sonic-Pi compatibility for my collaborative live coding editor, Troop. https://github.com/Qirky/Troop ...",
+		"channel": "Ryan Kirkbride",
+		"published_at": "2018-07-03T15:12:40Z",
+		"thumbnail": "https://i.ytimg.com/vi/NTAE7rwqP8k/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 668,
+		"like_count": 24,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 32,
+		"level": "stale"
+	},
+	"category": "video"
+}

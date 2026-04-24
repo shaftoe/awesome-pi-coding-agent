@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-k8s",
+	"name": "@artale/pi-k8s",
+	"url": "https://www.npmjs.com/package/@artale/pi-k8s",
+	"source": "npm-search",
+	"description": "Kubernetes utilities",
+	"metadata": {
+		"github_url": "https://github.com/artale93/pi-k8s",
+		"npm_name": "@artale/pi-k8s",
+		"description": "Kubernetes utilities",
+		"keywords": ["pi-package"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

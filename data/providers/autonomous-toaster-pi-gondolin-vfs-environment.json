@@ -1,0 +1,32 @@
+{
+	"id": "autonomous-toaster-pi-gondolin-vfs-environment",
+	"name": "autonomous-toaster-pi-gondolin-vfs-environment",
+	"url": "https://github.com/autonomous-toaster/pi-gondolin-vfs-environment",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["environment", "gondolin", "pi-package", "vfs"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:topic:pi-package",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-03-07T14:35:48Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 5
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

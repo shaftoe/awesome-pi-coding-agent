@@ -1,0 +1,24 @@
+{
+	"id": "YT_PnEhN5lQlHc",
+	"name": "Can I DJ using only code?",
+	"url": "https://www.youtube.com/watch?v=PnEhN5lQlHc",
+	"source": "youtube-search",
+	"description": "Check out the full video to see me learn Sonic Pi and challenge myself to perform a 10 minute DJ set! #livecoding ...",
+	"metadata": {
+		"title": "Can I DJ using only code?",
+		"description": "Check out the full video to see me learn Sonic Pi and challenge myself to perform a 10 minute DJ set! #livecoding ...",
+		"channel": "JP makes apps",
+		"published_at": "2024-11-22T19:49:30Z",
+		"thumbnail": "https://i.ytimg.com/vi/PnEhN5lQlHc/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 1068,
+		"like_count": 29,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 33,
+		"level": "stale"
+	},
+	"category": "video"
+}

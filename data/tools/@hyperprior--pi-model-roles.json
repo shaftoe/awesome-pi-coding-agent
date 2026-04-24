@@ -1,0 +1,21 @@
+{
+	"id": "@hyperprior/pi-model-roles",
+	"name": "@hyperprior/pi-model-roles",
+	"url": "https://www.npmjs.com/package/@hyperprior/pi-model-roles",
+	"source": "npm-search",
+	"description": "Role-based model switching utility (/hyper-role)",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@hyperprior/pi-model-roles",
+		"description": "Role-based model switching utility (/hyper-role)",
+		"keywords": ["pi", "pi-package", "pi-coding-agent", "tui", "extension", "hyperprior", "model", "roles"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

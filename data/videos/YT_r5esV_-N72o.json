@@ -1,0 +1,24 @@
+{
+	"id": "YT_r5esV_-N72o",
+	"name": "Depois, por Zé Pi",
+	"url": "https://www.youtube.com/watch?v=r5esV_-N72o",
+	"source": "youtube-search",
+	"description": "Zé Pi interpreta a música ?Depois?, no Cultura Livre.",
+	"metadata": {
+		"title": "Depois, por Zé Pi",
+		"description": "Zé Pi interpreta a música ?Depois?, no Cultura Livre.",
+		"channel": "Cultura Livre",
+		"published_at": "2015-09-30T00:37:34Z",
+		"thumbnail": "https://i.ytimg.com/vi/r5esV_-N72o/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi-mono\"",
+		"_readme_category_scores": {},
+		"view_count": 303,
+		"like_count": 10,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 31,
+		"level": "stale"
+	},
+	"category": "video"
+}

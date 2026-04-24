@@ -1,0 +1,36 @@
+{
+	"id": "ai-wiki-toolkit-linux-arm64",
+	"name": "ai-wiki-toolkit-linux-arm64",
+	"url": "https://www.npmjs.com/package/ai-wiki-toolkit-linux-arm64",
+	"source": "npm-search",
+	"description": "Platform binary package for ai-wiki-toolkit (linux-arm64-glibc).",
+	"metadata": {
+		"github_url": "https://github.com/BochengYin/ai-wiki-toolkit",
+		"npm_name": "ai-wiki-toolkit-linux-arm64",
+		"description": "Platform binary package for ai-wiki-toolkit (linux-arm64-glibc).",
+		"keywords": [],
+		"version": "0.1.19",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Python",
+		"license": "MIT",
+		"last_commit": "2026-04-23T13:20:04Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

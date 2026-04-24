@@ -1,0 +1,21 @@
+{
+	"id": "pi-dunnet",
+	"name": "pi-dunnet",
+	"url": "https://www.npmjs.com/package/pi-dunnet",
+	"source": "npm-search",
+	"description": "Play classic Emacs Dunnet text adventure inside pi — /dunnet",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-dunnet",
+		"description": "Play classic Emacs Dunnet text adventure inside pi — /dunnet",
+		"keywords": ["pi-package", "game", "text-adventure", "dunnet", "emacs"],
+		"version": "1.0.4",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

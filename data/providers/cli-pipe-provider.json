@@ -1,0 +1,36 @@
+{
+	"id": "cli-pipe-provider",
+	"name": "cli-pipe-provider",
+	"url": "https://www.npmjs.com/package/cli-pipe-provider",
+	"source": "npm-search",
+	"description": "pi-ai provider for CLI tools that speak the stream-json format, with MCP tool bridge support",
+	"metadata": {
+		"github_url": "https://github.com/robzolkos/cli-pipe-provider",
+		"npm_name": "cli-pipe-provider",
+		"description": "pi-ai provider for CLI tools that speak the stream-json format, with MCP tool bridge support",
+		"keywords": ["pi-package"],
+		"version": "0.2.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-02-21T04:57:33Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 46,
+			"theme": 0,
+			"provider": 25
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

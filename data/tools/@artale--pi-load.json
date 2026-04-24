@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-load",
+	"name": "@artale/pi-load",
+	"url": "https://www.npmjs.com/package/@artale/pi-load",
+	"source": "npm-search",
+	"description": "Load testing utilities",
+	"metadata": {
+		"github_url": "https://github.com/artale93/pi-load",
+		"npm_name": "@artale/pi-load",
+		"description": "Load testing utilities",
+		"keywords": ["pi-package"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

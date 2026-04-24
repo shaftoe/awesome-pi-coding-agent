@@ -1,0 +1,24 @@
+{
+	"id": "YT_MHPKe-6j-7w",
+	"name": "Upload to YouTube from the CLI Using AI — Auto Transcribe, Title & Tags",
+	"url": "https://www.youtube.com/watch?v=MHPKe-6j-7w",
+	"source": "youtube-search",
+	"description": "Tired of manually clicking through YouTube Studio? In this video I walk through my full CLI-based YouTube publishing pipeline ...",
+	"metadata": {
+		"title": "Upload to YouTube from the CLI Using AI — Auto Transcribe, Title & Tags",
+		"description": "Tired of manually clicking through YouTube Studio? In this video I walk through my full CLI-based YouTube publishing pipeline ...",
+		"channel": "Cody Bontecou",
+		"published_at": "2026-03-30T13:14:07Z",
+		"thumbnail": "https://i.ytimg.com/vi/MHPKe-6j-7w/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding agent\"",
+		"_readme_category_scores": {},
+		"view_count": 33,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 75,
+		"level": "active"
+	},
+	"category": "video"
+}

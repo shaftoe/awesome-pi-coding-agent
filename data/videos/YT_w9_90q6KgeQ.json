@@ -1,0 +1,24 @@
+{
+	"id": "YT_w9_90q6KgeQ",
+	"name": "Simple Blink LED program with Device(GPIO) Driver for RaspberryPi 2",
+	"url": "https://www.youtube.com/watch?v=w9_90q6KgeQ",
+	"source": "youtube-search",
+	"description": "for the lecture on Operating Systems 2022 of CSE & AI Dept. at Chungnam National University.",
+	"metadata": {
+		"title": "Simple Blink LED program with Device(GPIO) Driver for RaspberryPi 2",
+		"description": "for the lecture on Operating Systems 2022 of CSE & AI Dept. at Chungnam National University.",
+		"channel": "Joonhee Jeong",
+		"published_at": "2022-11-25T06:33:20Z",
+		"thumbnail": "https://i.ytimg.com/vi/w9_90q6KgeQ/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 556,
+		"like_count": 6,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 31,
+		"level": "stale"
+	},
+	"category": "video"
+}

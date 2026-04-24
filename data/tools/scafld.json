@@ -1,0 +1,36 @@
+{
+	"id": "scafld",
+	"name": "scafld",
+	"url": "https://www.npmjs.com/package/scafld",
+	"source": "npm-search",
+	"description": "Spec-driven development framework for AI coding agents",
+	"metadata": {
+		"github_url": "https://github.com/nilstate/scafld",
+		"npm_name": "scafld",
+		"description": "Spec-driven development framework for AI coding agents",
+		"keywords": ["ai", "cli", "developer-tools", "planning", "spec-driven"],
+		"version": "1.6.0",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Python",
+		"license": "MIT",
+		"last_commit": "2026-04-24T04:49:39Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

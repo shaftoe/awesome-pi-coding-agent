@@ -1,0 +1,24 @@
+{
+	"id": "YT_094EH2kWe0g",
+	"name": "CamJam7 - Contributing to Raspberry Pi Learning with GitHub - Ben Nuttall",
+	"url": "https://www.youtube.com/watch?v=094EH2kWe0g",
+	"source": "youtube-search",
+	"description": "",
+	"metadata": {
+		"title": "CamJam7 - Contributing to Raspberry Pi Learning with GitHub - Ben Nuttall",
+		"description": "",
+		"channel": "Cambridge Raspberry Jam",
+		"published_at": "2014-07-08T11:37:01Z",
+		"thumbnail": "https://i.ytimg.com/vi/094EH2kWe0g/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 162,
+		"like_count": 1,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

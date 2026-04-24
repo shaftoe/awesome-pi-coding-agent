@@ -1,0 +1,36 @@
+{
+	"id": "voipi",
+	"name": "voipi",
+	"url": "https://www.npmjs.com/package/voipi",
+	"source": "npm-search",
+	"description": "<p align=\"center\">   <a href=\"https://voipi.vercel.app/\"><img src=\"logo.svg\" alt=\"voipi\" width=\"128\" height=\"128\"></a> </p>",
+	"metadata": {
+		"github_url": "https://github.com/pithings/voipi",
+		"npm_name": "voipi",
+		"description": "<p align=\"center\">   <a href=\"https://voipi.vercel.app/\"><img src=\"logo.svg\" alt=\"voipi\" width=\"128\" height=\"128\"></a> </p>",
+		"keywords": ["pi-extension", "pi-package", "text-to-speech", "tts", "voice", "voipi"],
+		"version": "0.0.10",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 113,
+		"forks": 4,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-01T19:15:47Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://voipi.vercel.app/",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 4,
+			"theme": 0,
+			"provider": 15
+		}
+	},
+	"health": {
+		"score": 81,
+		"level": "active"
+	},
+	"category": "provider"
+}

@@ -1,0 +1,24 @@
+{
+	"id": "YT_tmCoUdjL9lY",
+	"name": "Claude Spark - Tiny introduction",
+	"url": "https://www.youtube.com/watch?v=tmCoUdjL9lY",
+	"source": "youtube-search",
+	"description": "Using https://pi.dev to drive an inline coding agent that is fast enough and powerful enough to do simple line changes, to cross file ...",
+	"metadata": {
+		"title": "Claude Spark - Tiny introduction",
+		"description": "Using https://pi.dev to drive an inline coding agent that is fast enough and powerful enough to do simple line changes, to cross file ...",
+		"channel": "Christian Alfoni",
+		"published_at": "2026-04-06T07:00:40Z",
+		"thumbnail": "https://i.ytimg.com/vi/tmCoUdjL9lY/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 50,
+		"like_count": 2,
+		"comment_count": 1
+	},
+	"health": {
+		"score": 75,
+		"level": "active"
+	},
+	"category": "video"
+}

@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-continuous",
+	"name": "@artale/pi-continuous",
+	"url": "https://www.npmjs.com/package/@artale/pi-continuous",
+	"source": "npm-search",
+	"description": "Learn from session history",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@artale/pi-continuous",
+		"description": "Learn from session history",
+		"keywords": ["pi-package", "continuous", "learning", "history"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

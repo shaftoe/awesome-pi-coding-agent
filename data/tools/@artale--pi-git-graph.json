@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-git-graph",
+	"name": "@artale/pi-git-graph",
+	"url": "https://www.npmjs.com/package/@artale/pi-git-graph",
+	"source": "npm-search",
+	"description": "Visual git history — ASCII commit graph, branch map, contributor stats",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@artale/pi-git-graph",
+		"description": "Visual git history — ASCII commit graph, branch map, contributor stats",
+		"keywords": ["pi-package", "git", "graph", "history", "branches", "visualization"],
+		"version": "1.1.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

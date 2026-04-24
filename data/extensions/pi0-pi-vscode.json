@@ -6,7 +6,7 @@
 	"description": "Minimal VS Code extension for PI Coding Agent.",
 	"metadata": {
 		"description": "Minimal VS Code extension for PI Coding Agent.",
-		"stars": 58,
+		"stars": 60,
 		"forks": 9,
 		"language": "TypeScript",
 		"topics": [],
@@ -18,10 +18,13 @@
 			"tool": 2,
 			"theme": 2,
 			"provider": 4
-		}
+		},
+		"open_issues": 4,
+		"license": "MIT",
+		"last_commit": "2026-03-20T12:23:26Z"
 	},
 	"health": {
-		"score": 56,
+		"score": 66,
 		"level": "maintained"
 	},
 	"category": "extension"

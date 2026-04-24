@@ -1,0 +1,24 @@
+{
+	"id": "YT_e7GfCcNiRwU",
+	"name": "Upstairs beasts",
+	"url": "https://www.youtube.com/watch?v=e7GfCcNiRwU",
+	"source": "youtube-search",
+	"description": "My lovely upstairs neighbors is this normal noise?",
+	"metadata": {
+		"title": "Upstairs beasts",
+		"description": "My lovely upstairs neighbors is this normal noise?",
+		"channel": "monsters live upstairs",
+		"published_at": "2019-03-04T03:41:06Z",
+		"thumbnail": "https://i.ytimg.com/vi/e7GfCcNiRwU/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi agent\" -crypto -network -banking -raspberry",
+		"_readme_category_scores": {},
+		"view_count": 74,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

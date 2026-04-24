@@ -1,0 +1,21 @@
+{
+	"id": "pi-llm-council",
+	"name": "pi-llm-council",
+	"url": "https://www.npmjs.com/package/pi-llm-council",
+	"source": "npm-search",
+	"description": "Multi-model LLM Council for adversarial debate, cross-validation, and synthesized decision-making via pi-teams",
+	"metadata": {
+		"github_url": "https://github.com/ziahmco/pi-council",
+		"npm_name": "pi-llm-council",
+		"description": "Multi-model LLM Council for adversarial debate, cross-validation, and synthesized decision-making via pi-teams",
+		"keywords": ["pi-package", "llm-council", "multi-model", "adversarial-debate", "agent-orchestration", "ai-council", "cross-validation", "pi-teams"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

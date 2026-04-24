@@ -1,0 +1,24 @@
+{
+	"id": "YT_ytLKcDrDDqg",
+	"name": "Steve Reich - Six Pianos (one programmer) with Sonic Pi",
+	"url": "https://www.youtube.com/watch?v=ytLKcDrDDqg",
+	"source": "youtube-search",
+	"description": "A live coded cover of Steve Reich's 'Six Pianos' arranged for the Sonic Pi Programming Language. Skip to 0:36 for first sounds.",
+	"metadata": {
+		"title": "Steve Reich - Six Pianos (one programmer) with Sonic Pi",
+		"description": "A live coded cover of Steve Reich's 'Six Pianos' arranged for the Sonic Pi Programming Language. Skip to 0:36 for first sounds.",
+		"channel": "Sounds Like Data",
+		"published_at": "2018-05-06T01:17:28Z",
+		"thumbnail": "https://i.ytimg.com/vi/ytLKcDrDDqg/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 1000,
+		"like_count": 31,
+		"comment_count": 3
+	},
+	"health": {
+		"score": 33,
+		"level": "stale"
+	},
+	"category": "video"
+}

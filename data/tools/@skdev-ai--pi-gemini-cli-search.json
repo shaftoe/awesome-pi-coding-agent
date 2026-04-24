@@ -15,10 +15,20 @@
 			"tool": 49,
 			"theme": 0,
 			"provider": 2
-		}
+		},
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-24T07:13:52Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null
 	},
 	"health": {
-		"score": 50,
+		"score": 60,
 		"level": "maintained"
 	},
 	"category": "tool"

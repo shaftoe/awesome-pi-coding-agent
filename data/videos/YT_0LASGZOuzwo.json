@@ -1,0 +1,24 @@
+{
+	"id": "YT_0LASGZOuzwo",
+	"name": "Cardboard Pi",
+	"url": "https://www.youtube.com/watch?v=0LASGZOuzwo",
+	"source": "youtube-search",
+	"description": "Just a little project I did there other day. Please don't attempt to do this. This was just an experiment to see if I could get these two ...",
+	"metadata": {
+		"title": "Cardboard Pi",
+		"description": "Just a little project I did there other day. Please don't attempt to do this. This was just an experiment to see if I could get these two ...",
+		"channel": "Scott Design Solutions",
+		"published_at": "2016-12-15T05:43:14Z",
+		"thumbnail": "https://i.ytimg.com/vi/0LASGZOuzwo/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 72,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

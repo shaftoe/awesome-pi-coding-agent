@@ -1,0 +1,21 @@
+{
+	"id": "@jademind/pi-visual",
+	"name": "@jademind/pi-visual",
+	"url": "https://www.npmjs.com/package/@jademind/pi-visual",
+	"source": "npm-search",
+	"description": "Advanced visualization extension for Pi sessions with rich markdown, Mermaid, and chart rendering.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@jademind/pi-visual",
+		"description": "Advanced visualization extension for Pi sessions with rich markdown, Mermaid, and chart rendering.",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "visual", "mermaid", "markdown"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

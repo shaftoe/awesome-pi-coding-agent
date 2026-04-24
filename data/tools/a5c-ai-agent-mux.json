@@ -1,0 +1,32 @@
+{
+	"id": "a5c-ai-agent-mux",
+	"name": "a5c-ai-agent-mux",
+	"url": "https://github.com/a5c-ai/agent-mux",
+	"source": "github-search",
+	"description": "unified TypeScript SDK and CLI (`amux`) for driving heterogeneous coding-agent harnesses — Claude Code, Codex, Gemini, Copilot, Cursor, OpenCode, pi, omp, openclaw, hermes — through one contract.",
+	"metadata": {
+		"description": "unified TypeScript SDK and CLI (`amux`) for driving heterogeneous coding-agent harnesses — Claude Code, Codex, Gemini, Copilot, Cursor, OpenCode, pi, omp, openclaw, hermes — through one contract.",
+		"stars": 9,
+		"forks": 1,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-22T16:56:17Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

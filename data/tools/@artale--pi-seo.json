@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-seo",
+	"name": "@artale/pi-seo",
+	"url": "https://www.npmjs.com/package/@artale/pi-seo",
+	"source": "npm-search",
+	"description": "SEO utilities",
+	"metadata": {
+		"github_url": "https://github.com/artale93/pi-seo",
+		"npm_name": "@artale/pi-seo",
+		"description": "SEO utilities",
+		"keywords": ["pi-package"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

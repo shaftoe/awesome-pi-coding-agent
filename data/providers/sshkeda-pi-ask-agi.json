@@ -1,0 +1,32 @@
+{
+	"id": "sshkeda-pi-ask-agi",
+	"name": "sshkeda-pi-ask-agi",
+	"url": "https://github.com/sshkeda/pi-ask-agi",
+	"source": "github-search",
+	"description": "Human-as-API for frontier models — compile prompts, deliver via Telegram, inject replies back into Pi",
+	"metadata": {
+		"description": "Human-as-API for frontier models — compile prompts, deliver via Telegram, inject replies back into Pi",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["ai", "ai-agents", "anthropic", "claude", "developer-tools", "frontier-models", "gpt", "human-in-the-loop", "llm", "openai", "pi-extension", "prompt-engineering", "telegram", "telegram-bot"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/sshkeda/ask-agi",
+		"discovery_hint": "github:topic:pi-extension",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-09T01:06:53Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

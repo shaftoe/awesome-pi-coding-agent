@@ -1,0 +1,36 @@
+{
+	"id": "@aedge-io/typed-clone",
+	"name": "@aedge-io/typed-clone",
+	"url": "https://www.npmjs.com/package/@aedge-io/typed-clone",
+	"source": "npm-search",
+	"description": "Type-safe, performant and extensible clone implementation",
+	"metadata": {
+		"github_url": "https://github.com/aedge-io/typed-clone",
+		"npm_name": "@aedge-io/typed-clone",
+		"description": "Type-safe, performant and extensible clone implementation",
+		"keywords": ["agent-skill", "clanker-friendly", "clone", "copy", "deep", "deep-clone", "deep-copy", "deepclone", "deepcopy", "extensible", "pi-package", "protocol", "recursive", "safe", "structured", "type-safe", "typed", "types", "typesafe"],
+		"version": "1.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-07T15:23:38Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

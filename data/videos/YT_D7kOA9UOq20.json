@@ -1,0 +1,24 @@
+{
+	"id": "YT_D7kOA9UOq20",
+	"name": "Heating & Security Control Part 23 - Raspberry Pi coding python tkinter gui",
+	"url": "https://www.youtube.com/watch?v=D7kOA9UOq20",
+	"source": "youtube-search",
+	"description": "In this video I first make adjustment to my zone triggered buttons due to sizing. Then I code for the correct status of the zones if ...",
+	"metadata": {
+		"title": "Heating & Security Control Part 23 - Raspberry Pi coding python tkinter gui",
+		"description": "In this video I first make adjustment to my zone triggered buttons due to sizing. Then I code for the correct status of the zones if ...",
+		"channel": "RasPiPkr Tutorials",
+		"published_at": "2020-08-10T08:30:00Z",
+		"thumbnail": "https://i.ytimg.com/vi/D7kOA9UOq20/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 55,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

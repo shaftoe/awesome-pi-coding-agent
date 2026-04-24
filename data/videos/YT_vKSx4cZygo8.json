@@ -1,0 +1,24 @@
+{
+	"id": "YT_vKSx4cZygo8",
+	"name": "Intro Video for Hack-spi for Sonic Pi",
+	"url": "https://www.youtube.com/watch?v=vKSx4cZygo8",
+	"source": "youtube-search",
+	"description": "Describes new plugins and extensions for Sonic Pi. Software available for download at: https://github.com/mojoD/hack-spi.",
+	"metadata": {
+		"title": "Intro Video for Hack-spi for Sonic Pi",
+		"description": "Describes new plugins and extensions for Sonic Pi. Software available for download at: https://github.com/mojoD/hack-spi.",
+		"channel": "Granddad GotMojo",
+		"published_at": "2016-10-19T22:23:15Z",
+		"thumbnail": "https://i.ytimg.com/vi/vKSx4cZygo8/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 342,
+		"like_count": 2,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 31,
+		"level": "stale"
+	},
+	"category": "video"
+}

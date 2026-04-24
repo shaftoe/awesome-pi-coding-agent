@@ -1,0 +1,21 @@
+{
+	"id": "@odradekk/vera-subagents",
+	"name": "@odradekk/vera-subagents",
+	"url": "https://www.npmjs.com/package/@odradekk/vera-subagents",
+	"source": "npm-search",
+	"description": "Subagent orchestration for Vera agent (explorer, librarian, thinker, worker)",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@odradekk/vera-subagents",
+		"description": "Subagent orchestration for Vera agent (explorer, librarian, thinker, worker)",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

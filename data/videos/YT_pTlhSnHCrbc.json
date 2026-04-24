@@ -1,0 +1,24 @@
+{
+	"id": "YT_pTlhSnHCrbc",
+	"name": "sonicpi v3 midi out",
+	"url": "https://www.youtube.com/watch?v=pTlhSnHCrbc",
+	"source": "youtube-search",
+	"description": "Les bons paramètres pour utiliser Sonic Pi V3 et la transmission de signaux midi que GarageBand ou Helm va interpréter.",
+	"metadata": {
+		"title": "sonicpi v3 midi out",
+		"description": "Les bons paramètres pour utiliser Sonic Pi V3 et la transmission de signaux midi que GarageBand ou Helm va interpréter.",
+		"channel": "Centre multimédia des Pieux",
+		"published_at": "2017-07-21T16:33:50Z",
+		"thumbnail": "https://i.ytimg.com/vi/pTlhSnHCrbc/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 969,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 32,
+		"level": "stale"
+	},
+	"category": "video"
+}

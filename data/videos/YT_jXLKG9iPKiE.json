@@ -1,0 +1,24 @@
+{
+	"id": "YT_jXLKG9iPKiE",
+	"name": "AI News: tmustier/pi-for-excel: Experimental Excel sidebar agent add-in. Multi-model. Powered by Pi.",
+	"url": "https://www.youtube.com/watch?v=jXLKG9iPKiE",
+	"source": "youtube-search",
+	"description": "Pi for ExcelOpen-source, multi-model AI sidebar add-in for Microsoft Excel. Pi for Excel is an AI agent that lives inside Excel.",
+	"metadata": {
+		"title": "AI News: tmustier/pi-for-excel: Experimental Excel sidebar agent add-in. Multi-model. Powered by Pi.",
+		"description": "Pi for ExcelOpen-source, multi-model AI sidebar add-in for Microsoft Excel. Pi for Excel is an AI agent that lives inside Excel.",
+		"channel": "Code Rush",
+		"published_at": "2026-02-20T05:20:48Z",
+		"thumbnail": "https://i.ytimg.com/vi/jXLKG9iPKiE/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi agent\" -crypto -network -banking -raspberry",
+		"_readme_category_scores": {},
+		"view_count": 3,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 65,
+		"level": "maintained"
+	},
+	"category": "video"
+}

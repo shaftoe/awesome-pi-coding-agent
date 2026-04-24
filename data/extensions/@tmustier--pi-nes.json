@@ -15,11 +15,21 @@
 			"tool": 0,
 			"theme": 0,
 			"provider": 0
-		}
+		},
+		"stars": 20,
+		"forks": 2,
+		"open_issues": 5,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-07T13:43:55Z",
+		"topics": ["extension", "nes", "nintendo-nes", "npm", "pi", "pi-coding-agent"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.mustier.ai/projects/pi-nes"
 	},
 	"health": {
-		"score": 50,
-		"level": "maintained"
+		"score": 72,
+		"level": "active"
 	},
 	"category": "extension"
 }

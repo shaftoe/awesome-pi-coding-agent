@@ -1,0 +1,21 @@
+{
+	"id": "qa-ai-toolkit",
+	"name": "qa-ai-toolkit",
+	"url": "https://www.npmjs.com/package/qa-ai-toolkit",
+	"source": "npm-search",
+	"description": "QA and testing skills for Cursor IDE: systematic debugging, code review, verification, Postman test suites, Newman CI/CD execution, Playwright UI testing, test planning, Vitest/Jest unit testing, requirements-based test case generation (FSD/PRD/BRS), and ",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "qa-ai-toolkit",
+		"description": "QA and testing skills for Cursor IDE: systematic debugging, code review, verification, Postman test suites, Newman CI/CD execution, Playwright UI testing, test planning, Vitest/Jest unit testing, requirements-based test case generation (FSD/PRD/BRS), and ",
+		"keywords": ["cursor", "cursor-plugin", "qa", "testing", "debugging", "code-review", "verification", "openapi", "postman", "api-testing", "playwright", "e2e-testing", "angular", "react", "vue", "svelte", "ui-testing", "newman", "test-planning", "vitest", "jest", "unit-testing", "fsd", "prd", "brs", "requirements", "traceability", "excel", "test-cases"],
+		"version": "1.3.0",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

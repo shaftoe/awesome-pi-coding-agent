@@ -1,0 +1,36 @@
+{
+	"id": "pi-notify-agent",
+	"name": "pi-notify-agent",
+	"url": "https://www.npmjs.com/package/pi-notify-agent",
+	"source": "npm-search",
+	"description": "Cross-platform desktop notifications and sounds for pi-coding-agent",
+	"metadata": {
+		"github_url": "https://github.com/AlyusLabs/pi-notify-agent",
+		"npm_name": "pi-notify-agent",
+		"description": "Cross-platform desktop notifications and sounds for pi-coding-agent",
+		"keywords": ["pi-package", "pi", "notifications", "desktop-notifications", "coding-agent"],
+		"version": "0.1.2",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-17T08:33:33Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 2,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

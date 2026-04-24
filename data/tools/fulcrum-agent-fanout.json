@@ -1,0 +1,36 @@
+{
+	"id": "fulcrum-agent-fanout",
+	"name": "fulcrum-agent-fanout",
+	"url": "https://www.npmjs.com/package/fulcrum-agent-fanout",
+	"source": "npm-search",
+	"description": "Parse canonical Fulcrum skills + rules and emit per-agent artifacts (Claude, Codex, Gemini, opencode, PI, Copilot, Cursor, Windsurf) with per-skill identity preserved",
+	"metadata": {
+		"github_url": "https://github.com/moabualruz/fulcrum",
+		"npm_name": "fulcrum-agent-fanout",
+		"description": "Parse canonical Fulcrum skills + rules and emit per-agent artifacts (Claude, Codex, Gemini, opencode, PI, Copilot, Cursor, Windsurf) with per-skill identity preserved",
+		"keywords": ["agent-os", "fanout", "skills", "rules", "claude-code", "codex", "gemini", "opencode", "pi-coding-agent", "copilot", "cursor", "windsurf"],
+		"version": "0.0.3",
+		"discovery_hint": "npm:keywords:pi-coding-agent",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T07:59:20Z",
+		"topics": ["agent-control-plane", "agent-os", "ai-agents", "claude-code", "fts5", "graph-database", "kuzu", "llm", "local-first", "mcp", "model-context-protocol", "monorepo", "multi-agent", "obsidian", "rag", "sqlite", "task-management", "typescript", "vector-search", "wip-limits"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 17,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

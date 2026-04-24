@@ -1,0 +1,21 @@
+{
+	"id": "@mawdbotsonsolana/cli",
+	"name": "@mawdbotsonsolana/cli",
+	"url": "https://www.npmjs.com/package/@mawdbotsonsolana/cli",
+	"source": "npm-search",
+	"description": "solana-clawd CLI bootstrapper - The Solana AI Agent Runtime with ClawdRouter API support",
+	"metadata": {
+		"github_url": "https://github.com/x402agent/Solana-Os-Go",
+		"npm_name": "@mawdbotsonsolana/cli",
+		"description": "solana-clawd CLI bootstrapper - The Solana AI Agent Runtime with ClawdRouter API support",
+		"keywords": ["solana", "clawd", "solana-clawd", "trading", "agent", "mawdbot", "ooda", "privy", "jupiter", "helius"],
+		"version": "3.0.0",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

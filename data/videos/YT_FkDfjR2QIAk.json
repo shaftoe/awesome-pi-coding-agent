@@ -1,0 +1,24 @@
+{
+	"id": "YT_FkDfjR2QIAk",
+	"name": "Sonic Pi Live Coding in VRC Practice vol12",
+	"url": "https://www.youtube.com/watch?v=FkDfjR2QIAk",
+	"source": "youtube-search",
+	"description": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/niko_14rail221.",
+	"metadata": {
+		"title": "Sonic Pi Live Coding in VRC Practice vol12",
+		"description": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/niko_14rail221.",
+		"channel": "Niko-14",
+		"published_at": "2020-05-27T12:12:55Z",
+		"thumbnail": "https://i.ytimg.com/vi/FkDfjR2QIAk/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 23,
+		"like_count": 1,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

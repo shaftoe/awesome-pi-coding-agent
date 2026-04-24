@@ -1,0 +1,36 @@
+{
+	"id": "claude-agent-ledger",
+	"name": "claude-agent-ledger",
+	"url": "https://www.npmjs.com/package/claude-agent-ledger",
+	"source": "npm-search",
+	"description": "See exactly where your Claude Code budget goes — per subagent, per task.",
+	"metadata": {
+		"github_url": "https://github.com/XJM-free/claude-agent-ledger",
+		"npm_name": "claude-agent-ledger",
+		"description": "See exactly where your Claude Code budget goes — per subagent, per task.",
+		"keywords": ["claude-code", "mcp", "ai-agents", "cost-tracking", "observability", "cli"],
+		"version": "0.7.0",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-23T14:47:32Z",
+		"topics": ["anthropic", "bun", "claude-code", "claude-subagent", "cli", "cost-attribution", "llm", "mcp", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://jiexiang.dev",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 5,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

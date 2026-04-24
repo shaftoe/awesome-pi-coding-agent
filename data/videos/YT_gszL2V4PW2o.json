@@ -1,0 +1,24 @@
+{
+	"id": "YT_gszL2V4PW2o",
+	"name": "My neighbor keeps following me",
+	"url": "https://www.youtube.com/watch?v=gszL2V4PW2o",
+	"source": "youtube-search",
+	"description": "",
+	"metadata": {
+		"title": "My neighbor keeps following me",
+		"description": "",
+		"channel": "xtream zombiebro",
+		"published_at": "2017-04-07T21:51:54Z",
+		"thumbnail": "https://i.ytimg.com/vi/gszL2V4PW2o/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi agent\" -crypto -network -banking -raspberry",
+		"_readme_category_scores": {},
+		"view_count": 199,
+		"like_count": 2,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

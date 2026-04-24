@@ -1,0 +1,24 @@
+{
+	"id": "YT_MLgnedWqID4",
+	"name": "Clockwork DevTerm on Battery Power!",
+	"url": "https://www.youtube.com/watch?v=MLgnedWqID4",
+	"source": "youtube-search",
+	"description": "My Clockwork DevTerm is the prototype riscv version of the clockworkpi. The DevTerm ships without a battery pack due to the ...",
+	"metadata": {
+		"title": "Clockwork DevTerm on Battery Power!",
+		"description": "My Clockwork DevTerm is the prototype riscv version of the clockworkpi. The DevTerm ships without a battery pack due to the ...",
+		"channel": "The Eclectic Engineer",
+		"published_at": "2022-08-11T00:18:04Z",
+		"thumbnail": "https://i.ytimg.com/vi/MLgnedWqID4/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 1553,
+		"like_count": 14,
+		"comment_count": 2
+	},
+	"health": {
+		"score": 33,
+		"level": "stale"
+	},
+	"category": "video"
+}

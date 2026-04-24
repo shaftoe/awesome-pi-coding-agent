@@ -1,0 +1,24 @@
+{
+	"id": "YT_XXJQ2ydCtd4",
+	"name": "Technology Thursday: Sonic Pi  |  At Home With DE",
+	"url": "https://www.youtube.com/watch?v=XXJQ2ydCtd4",
+	"source": "youtube-search",
+	"description": "Let's make some digital music! Get started with Sonic Pi where you can mix your love of coding and music. This video will get you ...",
+	"metadata": {
+		"title": "Technology Thursday: Sonic Pi  |  At Home With DE",
+		"description": "Let's make some digital music! Get started with Sonic Pi where you can mix your love of coding and music. This video will get you ...",
+		"channel": "Destination Exploration",
+		"published_at": "2020-06-25T13:01:40Z",
+		"thumbnail": "https://i.ytimg.com/vi/XXJQ2ydCtd4/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 79,
+		"like_count": 1,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

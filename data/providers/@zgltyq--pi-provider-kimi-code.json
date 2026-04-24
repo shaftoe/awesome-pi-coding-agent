@@ -1,0 +1,36 @@
+{
+	"id": "@zgltyq/pi-provider-kimi-code",
+	"name": "@zgltyq/pi-provider-kimi-code",
+	"url": "https://www.npmjs.com/package/@zgltyq/pi-provider-kimi-code",
+	"source": "npm-search",
+	"description": "Kimi Code plan in pi-coding-agent — fork of pi-provider-kimi-code with bearer-auth fix for OAuth tokens",
+	"metadata": {
+		"github_url": "https://github.com/ZGltYQ/pi-provider-kimi-code",
+		"npm_name": "@zgltyq/pi-provider-kimi-code",
+		"description": "Kimi Code plan in pi-coding-agent — fork of pi-provider-kimi-code with bearer-auth fix for OAuth tokens",
+		"keywords": ["pi-package", "pi-extension", "pi-provider", "pi", "pi-coding-agent", "pi-mono", "coding-agent", "ai-provider", "llm", "llm-provider", "kimi", "kimi-for-coding", "kimi-coder", "kimi-k2", "kimi-k2.6", "kimi-k2.5", "moonshot", "moonshotai", "oauth", "device-code", "subscription", "fork"],
+		"version": "0.3.2",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T20:19:05Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 11,
+			"tool": 18,
+			"theme": 0,
+			"provider": 21
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

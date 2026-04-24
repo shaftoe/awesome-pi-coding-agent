@@ -1,0 +1,36 @@
+{
+	"id": "pi-crawl4ai",
+	"name": "pi-crawl4ai",
+	"url": "https://www.npmjs.com/package/pi-crawl4ai",
+	"source": "npm-search",
+	"description": "Crawl4AI extension for pi — web crawling and structured extraction",
+	"metadata": {
+		"github_url": "https://github.com/romek-rozen/pi-crawl4ai",
+		"npm_name": "pi-crawl4ai",
+		"description": "Crawl4AI extension for pi — web crawling and structured extraction",
+		"keywords": ["pi-package", "crawl4ai", "web-crawling", "data-extraction", "scraping", "markdown"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 3,
+		"forks": 1,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T08:06:33Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 7,
+			"tool": 1,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

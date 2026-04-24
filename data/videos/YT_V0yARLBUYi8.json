@@ -1,0 +1,24 @@
+{
+	"id": "YT_V0yARLBUYi8",
+	"name": "How to Setup Multiple Foglight Oracle Agents for Monitoring Using Advance Mode",
+	"url": "https://www.youtube.com/watch?v=V0yARLBUYi8",
+	"source": "youtube-search",
+	"description": "http://software.dell.com/products/foglight-for-oracle.",
+	"metadata": {
+		"title": "How to Setup Multiple Foglight Oracle Agents for Monitoring Using Advance Mode",
+		"description": "http://software.dell.com/products/foglight-for-oracle.",
+		"channel": "Quest Technical Support",
+		"published_at": "2017-06-29T14:45:20Z",
+		"thumbnail": "https://i.ytimg.com/vi/V0yARLBUYi8/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi extension\" -raspberry -vscode",
+		"_readme_category_scores": {},
+		"view_count": 105,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}
