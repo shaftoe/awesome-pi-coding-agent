@@ -10,6 +10,7 @@
  *  - Per-category descriptions with icons
  */
 
+import { decodeHtmlEntities } from "../lib/html.ts";
 import {
 	CATEGORY_META as SHARED_CATEGORY_META,
 	CATEGORY_ORDER as SHARED_CATEGORY_ORDER,
@@ -41,17 +42,6 @@ const CATEGORY_META: Record<string, { title: string; icon: string; description: 
 const CATEGORY_ORDER = SHARED_CATEGORY_ORDER;
 
 // ─── Display name extraction ──────────────────────────────────────────────────
-
-/** Decode common HTML entities (&#39; &amp; &quot; etc.) to their plain-text equivalents. */
-function decodeHtmlEntities(s: string): string {
-	return s
-		.replace(/&#39;/g, "'")
-		.replace(/&#x27;/g, "'")
-		.replace(/&amp;/g, "&")
-		.replace(/&lt;/g, "<")
-		.replace(/&gt;/g, ">")
-		.replace(/&quot;/g, '"');
-}
 
 /**
  * Extract a clean display name from an entry.

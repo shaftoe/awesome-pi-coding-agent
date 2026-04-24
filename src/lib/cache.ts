@@ -59,3 +59,25 @@ export function clear(): void {
 		}
 	}
 }
+
+/** Prune expired entries from the cache. Returns the number of entries removed. */
+export function prune(): number {
+	if (!existsSync(CACHE_DIR)) return 0;
+	let removed = 0;
+	for (const file of readdirSync(CACHE_DIR)) {
+		if (!file.endsWith(".json")) continue;
+		const path = join(CACHE_DIR, file);
+		try {
+			const entry = JSON.parse(readFileSync(path, "utf-8")) as CacheEntry<unknown>;
+			if (Date.now() > entry.expires_at) {
+				rmSync(path);
+				removed++;
+			}
+		} catch {
+			// Malformed cache file — remove it
+			rmSync(path);
+			removed++;
+		}
+	}
+	return removed;
+}

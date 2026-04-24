@@ -3,42 +3,7 @@
  * Tests the identity model rules for npm, YouTube, GitHub, and fallback URLs.
  */
 import { describe, expect, it } from "bun:test";
-
-// ─── Extract the extractId function by re-implementing the logic ───────────────
-// Since extractId is not exported from index.ts (it's a module-private function),
-// we test the function directly by importing and re-implementing for now.
-// Ideally this function would be extracted to a shared util, but for test coverage
-// we duplicate the logic here and test the contract.
-
-/**
- * Derive an entry ID from a URL.
- *
- * Rules (matching PLAN.md identity model):
- *   npm:     https://www.npmjs.com/package/@scope/name  → @scope/name
- *            https://www.npmjs.com/package/name        → name
- *   YouTube: https://www.youtube.com/watch?v=ID        → YT_ID
- *   GitHub:  https://github.com/owner/repo             → owner-repo
- */
-function extractId(url: string): string {
-	// npm: extract full package name (with scope) from URL
-	if (url.includes("npmjs.com/package/")) {
-		const packagePath = url.split("npmjs.com/package/")[1];
-		return decodeURIComponent(packagePath?.replace(/\/+$/, "") ?? "");
-	}
-
-	// YouTube
-	if (url.includes("youtube.com") || url.includes("youtu.be")) {
-		const videoId = url.match(/[?&]v=([^&]+)/)?.[1] ?? url.split("/").pop() ?? "";
-		return `YT_${videoId}`;
-	}
-
-	// GitHub: owner/repo → owner-repo
-	const ghMatch = url.match(/github\.com\/([^/]+\/[^/]+)/);
-	if (ghMatch?.[1]) return ghMatch[1].replace("/", "-");
-
-	// Fallback: last path segment
-	return url.split("/").filter(Boolean).pop() ?? url;
-}
+import { extractId } from "./lib/ids.ts";
 
 // ─── npm URLs ──────────────────────────────────────────────────────────────────
 

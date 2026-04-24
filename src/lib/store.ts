@@ -7,7 +7,8 @@
  */
 import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
-import type { CATEGORIES, CategorizedEntry, Category, Entry, ManualOverride } from "./types.ts";
+import type { CategorizedEntry, Category, Entry, ManualOverride } from "./types.ts";
+import { CATEGORIES } from "./types.ts";
 
 const DATA_DIR = join(import.meta.dir, "..", "..", "data");
 
@@ -163,16 +164,7 @@ export function loadManualOverrides(): ManualOverride[] {
 /** List categories that have an existing folder. */
 function getExistingCategories(): Category[] {
 	if (!existsSync(DATA_DIR)) return [];
-	const validCategories: ReadonlySet<string> = new Set<string>([
-		"extension",
-		"tool",
-		"theme",
-		"provider",
-		"template",
-		"video",
-		"example",
-		"documentation",
-	] satisfies typeof CATEGORIES extends readonly (infer U)[] ? U[] : never);
+	const validCategories = new Set<string>(CATEGORIES);
 
 	return readdirSync(DATA_DIR, { withFileTypes: true })
 		.filter((d) => d.isDirectory() && validCategories.has(d.name.replace(/s$/, "")))

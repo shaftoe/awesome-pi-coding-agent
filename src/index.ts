@@ -21,7 +21,9 @@ import { runEnrichment } from "./enrich/index.ts";
 import { enrichVideos } from "./enrich/videos.ts";
 import { generateReadme } from "./generate/readme.ts";
 import { addToBlacklist, loadBlacklist } from "./lib/blacklist.ts";
+import { prune } from "./lib/cache.ts";
 import { buildIndices, checkDuplicate, findDuplicates, removeDuplicates } from "./lib/dedup.ts";
+import { extractId } from "./lib/ids.ts";
 import { deleteEntry, loadAllEntries, saveEntry } from "./lib/store.ts";
 import type { DiscoveryCandidate, Entry } from "./lib/types.ts";
 
@@ -200,7 +202,10 @@ function cmdGenerate(): void {
 }
 
 async function cmdPipeline(): Promise<void> {
-	log("🚀 Running full pipeline...\n");
+	log("🚀 Running full pipeline...");
+	const pruned = prune();
+	if (pruned > 0) log(`🗑️  Pruned ${pruned} expired cache entries`);
+	log();
 	await cmdDiscover();
 	log();
 	await cmdEnrich();
@@ -320,39 +325,6 @@ Commands:
   pipeline    Run full pipeline (discover → enrich → generate)
   help        Show this help
 `);
-}
-
-// ─── Utilities ─────────────────────────────────────────────────────────────────
-
-/**
- * Derive an entry ID from a URL. Used as fallback when the discoverer
- * doesn't provide an explicit `candidate.id`.
- *
- * Rules (matching PLAN.md identity model):
- *   npm:     https://www.npmjs.com/package/@scope/name  → @scope/name
- *            https://www.npmjs.com/package/name        → name
- *   YouTube: https://www.youtube.com/watch?v=ID        → YT_ID
- *   GitHub:  https://github.com/owner/repo             → owner-repo
- */
-function extractId(url: string): string {
-	// npm: extract full package name (with scope) from URL
-	if (url.includes("npmjs.com/package/")) {
-		const packagePath = url.split("npmjs.com/package/")[1];
-		return decodeURIComponent(packagePath?.replace(/\/+$/, "") ?? "");
-	}
-
-	// YouTube
-	if (url.includes("youtube.com") || url.includes("youtu.be")) {
-		const videoId = url.match(/[?&]v=([^&]+)/)?.[1] ?? url.split("/").pop() ?? "";
-		return `YT_${videoId}`;
-	}
-
-	// GitHub: owner/repo → owner-repo
-	const ghMatch = url.match(/github\.com\/([^/]+\/[^/]+)/);
-	if (ghMatch?.[1]) return ghMatch[1].replace("/", "-");
-
-	// Fallback: last path segment
-	return url.split("/").filter(Boolean).pop() ?? url;
 }
 
 // ─── Run ───────────────────────────────────────────────────────────────────────

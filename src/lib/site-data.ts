@@ -5,6 +5,7 @@
  */
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
+import { decodeHtmlEntities } from "./html.ts";
 import type { CategorizedEntry, Category } from "./types.ts";
 
 // ─── Types (re-exported for consumers) ─────────────────────────────────────────
@@ -164,16 +165,7 @@ export function getStats(entries: CategorizedEntry[]) {
 
 // ─── Display helpers ───────────────────────────────────────────────────────────
 
-/** Decode common HTML entities (&#39; &amp; &quot; etc.) to their plain-text equivalents. */
-export function decodeHtmlEntities(s: string): string {
-	return s
-		.replace(/&#39;/g, "'")
-		.replace(/&#x27;/g, "'")
-		.replace(/&amp;/g, "&")
-		.replace(/&lt;/g, "<")
-		.replace(/&gt;/g, ">")
-		.replace(/&quot;/g, '"');
-}
+export { decodeHtmlEntities };
 
 export function displayName(e: CategorizedEntry): string {
 	if (e.id.startsWith("YT_")) {
