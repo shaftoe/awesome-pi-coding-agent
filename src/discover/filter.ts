@@ -18,6 +18,7 @@
  *   - AVEVA PI / industrial SCADA systems
  *   - Generic agent tools with no Pi support (Claude-only, Cursor-only, etc.)
  *   - Tiptap rich text editor extensions
+ *   - Non-English language packages and videos (CJK, Cyrillic, Arabic, etc.)
  *   - SAP/OpenUI5, Pimcore CMS, Node-RED, and other unrelated ecosystems
  */
 
@@ -191,6 +192,72 @@ const OPENAPI_SIGNALS = [
 /** Text signals that indicate a non-compatible fork (oh-my-pi ecosystem). */
 const FORK_SIGNALS = ["oh-my-pi"];
 
+/**
+ * Unicode script ranges for non-Latin writing systems.
+ * Used to reject packages/videos whose name or description is primarily
+ * written in a non-English language (CJK, Cyrillic, Arabic, Devanagari,
+ * Thai, Georgian, Armenian, etc.).
+ *
+ * We intentionally keep the threshold low — a handful of non-Latin letters
+ * is enough to flag the entry, because legitimate Pi coding agent packages
+ * overwhelmingly use English. Emoji-only entries are allowed.
+ */
+const NON_LATIN_SCRIPT_RANGES: Array<[number, number]> = [
+	[0x0400, 0x04ff], // Cyrillic (Russian, Ukrainian, Bulgarian, Serbian…)
+	[0x0500, 0x052f], // Cyrillic Supplement
+	[0x2de0, 0x2dff], // Cyrillic Extended-A
+	[0xa640, 0xa69f], // Cyrillic Extended-B
+	[0x0600, 0x06ff], // Arabic
+	[0x0750, 0x077f], // Arabic Supplement
+	[0x08a0, 0x08ff], // Arabic Extended-A
+	[0xfb50, 0xfdff], // Arabic Presentation Forms-A
+	[0xfe70, 0xfeff], // Arabic Presentation Forms-B
+	[0x0900, 0x097f], // Devanagari (Hindi, Marathi, Nepali…)
+	[0x0980, 0x09ff], // Bengali
+	[0x0a00, 0x0a7f], // Gurmukhi
+	[0x0a80, 0x0aff], // Gujarati
+	[0x0b00, 0x0b7f], // Oriya
+	[0x0b80, 0x0bff], // Tamil
+	[0x0c00, 0x0c7f], // Telugu
+	[0x0c80, 0x0cff], // Kannada
+	[0x0d00, 0x0d7f], // Malayalam
+	[0x0e00, 0x0e7f], // Thai
+	[0x0e80, 0x0eff], // Lao
+	[0x1000, 0x109f], // Myanmar
+	[0x10a0, 0x10ff], // Georgian
+	[0x0530, 0x058f], // Armenian
+	[0x10d0, 0x10ff], // Georgian (Mkhedruli)
+	[0x1100, 0x11ff], // Hangul Jamo (Korean)
+	[0x3040, 0x309f], // Hiragana (Japanese)
+	[0x30a0, 0x30ff], // Katakana (Japanese)
+	[0x4e00, 0x9fff], // CJK Unified Ideographs (Chinese, Japanese)
+	[0x3400, 0x4dbf], // CJK Unified Ideographs Extension A
+	[0x20000, 0x2a6df], // CJK Unified Ideographs Extension B
+	[0xac00, 0xd7af], // Hangul Syllables (Korean)
+];
+
+/**
+ * Check whether text contains non-Latin script characters that indicate
+ * the content is not written in English (or another Latin-script language).
+ *
+ * Returns true if at least `threshold` non-Latin characters are found.
+ * Emojis, punctuation, and Latin characters are ignored.
+ */
+function hasNonLatinScript(text: string, threshold = 2): boolean {
+	let count = 0;
+	for (const ch of text) {
+		const cp = ch.codePointAt(0) ?? 0;
+		for (const [lo, hi] of NON_LATIN_SCRIPT_RANGES) {
+			if (cp >= lo && cp <= hi) {
+				count++;
+				if (count >= threshold) return true;
+				break;
+			}
+		}
+	}
+	return false;
+}
+
 // ─── Positive signals ──────────────────────────────────────────────────────────
 
 /**
@@ -257,6 +324,8 @@ export interface RelevanceResult {
  *     1f. AVEVA PI / industrial SCADA signals
  *     1g. Unrelated ecosystem signals (Tiptap, SAP, Pimcore, etc.)
  *     1h. Non-compatible fork signals (oh-my-pi)
+ *     1i. OpenAPI specification tooling signals
+ *     1j. Non-English language (non-Latin script) detection
  *
  *   Layer 2 — Positive signals (accept immediately):
  *     2a. Pi coding agent name patterns
@@ -372,6 +441,13 @@ export function isRelevant(candidate: {
 		if (combined.includes(signal.toLowerCase()) || url.includes(signal.toLowerCase())) {
 			return reject(rawUrl, `openapi specification tooling: "${signal}"`);
 		}
+	}
+
+	// 1j. Non-English language detection — reject packages/videos whose
+	//     name or description is written in a non-Latin script.
+	//     (CJK, Cyrillic, Arabic, Devanagari, Thai, Korean, etc.)
+	if (hasNonLatinScript(combined)) {
+		return reject(rawUrl, "non-english language");
 	}
 
 	// ── Layer 2: Positive signals ─────────────────────────────────────────────

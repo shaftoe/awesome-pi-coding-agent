@@ -8,18 +8,18 @@ Content available as Markdown here and as website (with search feature) live at 
 
 ## Stats
 
-**3708 resources** indexed · **1548** active · **3034** maintained · [Updated daily.](./.github/workflows/pipeline.yml)
+**3446 resources** indexed · **1508** active · **2933** maintained · [Updated daily.](./.github/workflows/pipeline.yml)
 
 Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 
 ## Contents
 
-- [Extensions](#extensions) — 1195
-- [Tools & Utilities](#tools--utilities) — 1151
-- [Themes](#themes) — 132
-- [Providers & Integrations](#providers--integrations) — 256
+- [Extensions](#extensions) — 1183
+- [Tools & Utilities](#tools--utilities) — 1111
+- [Themes](#themes) — 131
+- [Providers & Integrations](#providers--integrations) — 253
 - [Templates](#templates) — 16
-- [Videos & Tutorials](#videos--tutorials) — 958
+- [Videos & Tutorials](#videos--tutorials) — 752
 
 ---
 
@@ -75,7 +75,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [@vaayne/pi-rules](https://www.npmjs.com/package/@vaayne/pi-rules) | Pi extension that scans .claude/rules/ and .agents/rules/ folders for project rules | ⭐41 | 5d ago |
 | 🟢 | [compound-engineering-pi](https://www.npmjs.com/package/compound-engineering-pi) | Pi-first Compound Engineering extension with subagents and MCPorter compatibility. | ⭐36 | 2d ago |
 | 🟢 | [hidrix-tools](https://github.com/sonpiaz/hidrix-tools) | Standalone MCP server: web search, social media search, web fetch tools for Claude Code / Pi agent | ⭐36 | 18d ago |
-| 🟢 | [pi](https://github.com/knoopx/pi) | pi.ai config | ⭐38 | 4d ago |
 | 🟢 | [pi-extmgr](https://www.npmjs.com/package/pi-extmgr) | Enhanced UX for managing local Pi extensions and community packages | ⭐38 | 4d ago |
 | 🟢 | [pi-rtk-optimizer](https://www.npmjs.com/package/pi-rtk-optimizer) | Pi extension that optimizes RTK command rewriting and tool output compaction for the coding agent. | ⭐36 | 23d ago |
 | 🟢 | [pi-side-chat](https://www.npmjs.com/package/pi-side-chat) | Pi extension that forks the current conversation into a side chat | ⭐36 | 8d ago |
@@ -87,7 +86,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [jalco-pi-mono](https://github.com/jal-co/jalco-pi-mono) | my personal setup for using pi, managed with GNU Stow | ⭐31 | 16d ago |
 | 🟢 | [nobody-plans-for-pi](https://github.com/HashWarlock/nobody-plans-for-pi) | Self-improving development workflows for pi coding agent. Subagent orchestration, TDD, systematic debugging. Adapted from obra/superpowers. | ⭐28 | 24d ago |
 | 🟢 | [pi-ask-user](https://www.npmjs.com/package/pi-ask-user) | Interactive ask_user tool for pi-coding-agent with searchable split-pane selection UI, multi-select, and freeform input | ⭐32 | 16d ago |
-| 🟢 | [pi-askuserquestion](https://github.com/ghoseb/pi-askuserquestion) | A tool for pi Coding Agent to ask questions via the TUI. | ⭐27 | 23d ago |
+| 🟢 | [pi-askuserquestion](https://github.com/ghoseb/pi-askuserquestion) | A tool for pi Coding Agent to ask questions via the TUI. | ⭐27 | 24d ago |
 | 🟢 | [pi-blueprint](https://www.npmjs.com/package/pi-blueprint) | A Pi extension that turns high-level objectives into phased, multi-session construction plans with dependency tracking and verification gates. | ⭐26 | 13d ago |
 | 🟢 | [pi-extensions](https://github.com/owainlewis/pi-extensions) | Context-isolated workflow automation for Pi coding agent | ⭐27 | 8d ago |
 | 🟢 | [pi-fff](https://www.npmjs.com/package/pi-fff) | FFF-powered fuzzy file resolution, autocomplete, and content search extension for pi | ⭐33 | 3d ago |
@@ -95,7 +94,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-kit](https://github.com/butttons/pi-kit) | Personal pi coding agent extensions and skills | ⭐30 | 5d ago |
 | 🟢 | [pi-memory](https://www.npmjs.com/package/pi-memory) | Pi coding agent extension for memory with qmd-powered semantic search across daily logs, long-term memory, and scratchpad | ⭐32 | 9d ago |
 | 🟢 | [pi-memory-md](https://www.npmjs.com/package/pi-memory-md) | Letta-like memory management for pi using structured markdown files in a GitHub repository | ⭐32 | 3d ago |
-| 🟢 | [pi-mono-sentinel](https://www.npmjs.com/package/pi-mono-sentinel) | Pi extension that guards against content-based secret leaks and indirect script execution | ⭐27 | today |
+| 🟢 | [pi-mono-sentinel](https://www.npmjs.com/package/pi-mono-sentinel) | Pi extension that guards against content-based secret leaks and indirect script execution | ⭐27 | yesterday |
 | 🟢 | [pi-rewind](https://www.npmjs.com/package/pi-rewind) | Checkpoint/rewind extension for the Pi coding agent — per-tool snapshots, /rewind command, Esc+Esc shortcut, safe restore, redo stack | ⭐33 | 23d ago |
 | 🟢 | [pi-smart-sessions](https://www.npmjs.com/package/pi-smart-sessions) | Auto-names Pi sessions with AI-generated summaries — no more cryptic skill tags in your session list | ⭐27 | 24d ago |
 | 🟢 | [pi-ssh](https://www.npmjs.com/package/pi-ssh) | pi extension for local-model plus remote SSH workspace tool execution | ⭐25 | 23d ago |
@@ -111,7 +110,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-agent-extensions](https://www.npmjs.com/package/pi-agent-extensions) | Collection of extensions for pi coding agent | ⭐15 | 6d ago |
 | 🟢 | [pi-agents-pool](https://www.npmjs.com/package/pi-agents-pool) | Codex-style multi-agent orchestration for pi — spawn, communicate with, and coordinate sub-agents via LLM tool calls | ⭐16 | 28d ago |
 | 🟢 | [pi-annotated-reply](https://www.npmjs.com/package/pi-annotated-reply) | Annotated reply workflow for pi (model responses, file sources, and git diffs) | ⭐23 | 23d ago |
-| 🟢 | [pi-anthropic-oauth](https://www.npmjs.com/package/pi-anthropic-oauth) | Claude Pro/Max OAuth extension for Pi | ⭐16 | 3d ago |
+| 🟢 | [pi-anthropic-oauth](https://www.npmjs.com/package/pi-anthropic-oauth) | Claude Pro/Max OAuth extension for Pi | ⭐16 | 4d ago |
 | 🟢 | [pi-bash-bg](https://www.npmjs.com/package/pi-bash-bg) | Makes command & work in pi's bash tool by detaching background processes from pipes · from yapp | ⭐24 | 3d ago |
 | 🟢 | [pi-caveman](https://github.com/v2nic/pi-caveman) | Caveman mode for Pi coding agent - ultra-compressed communication that cuts ~75% of output tokens | ⭐24 | 16d ago |
 | 🟢 | [pi-caveman](https://www.npmjs.com/package/pi-caveman) | Why use many token when few do trick. Caveman mode for pi — cuts ~75% output tokens while keeping full technical accuracy. | ⭐22 | 9d ago |
@@ -330,16 +329,16 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [@sebastianandreasson/pi-autonomous-agents](https://www.npmjs.com/package/@sebastianandreasson/pi-autonomous-agents) | Portable unattended PI harness for developer/tester/visual-review loops. |  | 6d ago |
 | 🟢 | [@sinamtz/pi-mempalace](https://www.npmjs.com/package/@sinamtz/pi-mempalace) | hasslefree and self-contained mempalace port for pi-coding-agent with SurrealDB-backed vector search, layered retrieval, and multi-process auto-server runtime | ⭐3 | 14d ago |
 | 🟢 | [@sirsyorrz/pi-statusline](https://www.npmjs.com/package/@sirsyorrz/pi-statusline) | Pi statusline extension — clean one-line footer with context usage and Anthropic rate-limit utilization. |  | 9d ago |
-| 🟢 | [@the-forge-flow/fff-pi](https://www.npmjs.com/package/@the-forge-flow/fff-pi) | PI extension for fff |  | 8d ago |
-| 🟢 | [@the-forge-flow/gitnexus-pi](https://www.npmjs.com/package/@the-forge-flow/gitnexus-pi) | PI extension for native GitNexus code-intelligence integration |  | 8d ago |
-| 🟢 | [@the-forge-flow/hippo-memory-pi](https://www.npmjs.com/package/@the-forge-flow/hippo-memory-pi) | PI extension for biologically-inspired long-term memory, powered by hippo-memory | ⭐3 | 8d ago |
-| 🟢 | [@the-forge-flow/lightpanda-pi](https://www.npmjs.com/package/@the-forge-flow/lightpanda-pi) | PI extension for web search using Lightpanda headless browser |  | 8d ago |
+| 🟢 | [@the-forge-flow/fff-pi](https://www.npmjs.com/package/@the-forge-flow/fff-pi) | PI extension for fff |  | 9d ago |
+| 🟢 | [@the-forge-flow/gitnexus-pi](https://www.npmjs.com/package/@the-forge-flow/gitnexus-pi) | PI extension for native GitNexus code-intelligence integration |  | 9d ago |
+| 🟢 | [@the-forge-flow/hippo-memory-pi](https://www.npmjs.com/package/@the-forge-flow/hippo-memory-pi) | PI extension for biologically-inspired long-term memory, powered by hippo-memory | ⭐3 | 9d ago |
+| 🟢 | [@the-forge-flow/lightpanda-pi](https://www.npmjs.com/package/@the-forge-flow/lightpanda-pi) | PI extension for web search using Lightpanda headless browser |  | 9d ago |
 | 🟢 | [@the-forge-flow/pi-token-saver](https://www.npmjs.com/package/@the-forge-flow/pi-token-saver) | Token-saving proxy for the PI coding agent — intercepts and compresses API calls to reduce token consumption |  | 2d ago |
 | 🟢 | [@the-forge-flow/security-harness-pi](https://www.npmjs.com/package/@the-forge-flow/security-harness-pi) | Security harness for the PI coding agent — forbids dangerous commands and gates sensitive ones behind user approval |  | 9d ago |
-| 🟢 | [@the-forge-flow/sub-agents-pi](https://www.npmjs.com/package/@the-forge-flow/sub-agents-pi) | PI extension for spawning isolated sub-agents with live TUI spying |  | 8d ago |
+| 🟢 | [@the-forge-flow/sub-agents-pi](https://www.npmjs.com/package/@the-forge-flow/sub-agents-pi) | PI extension for spawning isolated sub-agents with live TUI spying |  | 9d ago |
 | 🟢 | [@the-forge-flow/tff-pi](https://www.npmjs.com/package/@the-forge-flow/tff-pi) | TFF PI |  | 2d ago |
 | 🟢 | [@the-forge-flow/ultra-compress-pi](https://www.npmjs.com/package/@the-forge-flow/ultra-compress-pi) | PI extension for token-efficient prose — level-based runtime output compression and markdown file compression | ⭐1 | 11d ago |
-| 🟢 | [@the-forge-flow/visual-explainer-pi](https://www.npmjs.com/package/@the-forge-flow/visual-explainer-pi) | PI extension for generating beautiful HTML visualizations of diagrams, architecture, and data | ⭐2 | 8d ago |
+| 🟢 | [@the-forge-flow/visual-explainer-pi](https://www.npmjs.com/package/@the-forge-flow/visual-explainer-pi) | PI extension for generating beautiful HTML visualizations of diagrams, architecture, and data | ⭐2 | 9d ago |
 | 🟢 | [@thiago__ss/pi-agent-config](https://www.npmjs.com/package/@thiago__ss/pi-agent-config) | Thiago's shareable Pi agent configuration |  | 14d ago |
 | 🟢 | [@todu/pi-extensions](https://www.npmjs.com/package/@todu/pi-extensions) | Task manager extensions for the pi agent harness that create UI for handling tasks. | ⭐1 | 7d ago |
 | 🟢 | [@tryinget/pi-little-helpers](https://www.npmjs.com/package/@tryinget/pi-little-helpers) | pi extension package for little-helpers workflows in pi | ⭐1 | 7d ago |
@@ -394,9 +393,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [ollama-graceful](https://github.com/3mrgnc3/ollama-graceful) | Pi extension that gracefully starts and stops Ollama on demand when switching between local and cloud models |  | 5d ago |
 | 🟢 | [oncrawl-mcp-pi-extension](https://www.npmjs.com/package/oncrawl-mcp-pi-extension) | Pi Agent extension that bridges the Oncrawl MCP Server directly into Pi – no Claude Code or Claude Desktop required. | ⭐1 | 24d ago |
 | 🟢 | [opencode-gws-multi-account](https://www.npmjs.com/package/opencode-gws-multi-account) | Multi-account management for the Google Workspace CLI (`gws`). Ships an opencode plugin (published to npm) and a Claude Code plugin (published via .claude-plugin marketplace). |  | yesterday |
-| 🟢 | [pi](https://github.com/dotbrains/pi) | Sensible defaults for pi coding agent |  | 12d ago |
-| 🟢 | [pi](https://github.com/ahstn/pi) | Pi Coding Agent config — https://pi.dev/ |  | 4d ago |
-| 🟢 | [pi](https://github.com/tachyonicbytes/pi) | My personal pi-coding-agent extensions |  | 15d ago |
 | 🟢 | [pi-add-dir](https://www.npmjs.com/package/pi-add-dir) | Add external directories to your pi session — loads their AGENTS.md, CLAUDE.md, and skills into context. | ⭐1 | 24d ago |
 | 🟢 | [pi-adversary](https://github.com/nayeemzen/pi-adversary) | Structured advocate/adversary debate chat mode for the pi coding agent — two isolated LLM sessions, live streaming, full markdown rendering, session persistence. |  | 13d ago |
 | 🟢 | [pi-agent](https://github.com/jimiryquai/pi-agent) | Pi agent configuration - skills, agents, extensions, and scripts |  | 27d ago |
@@ -431,7 +427,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-banner](https://www.npmjs.com/package/pi-banner) | A rainbow pi banner extension for pi |  | yesterday |
 | 🟢 | [pi-bash-confirm](https://www.npmjs.com/package/pi-bash-confirm) | Pi package for confirming bash commands before execution with Telegram notifications | ⭐2 | 21d ago |
 | 🟢 | [pi-blindtest](https://www.npmjs.com/package/pi-blindtest) | Pi extension for blind model testing: hide model in UI and aggregate ratings across sessions. | ⭐2 | 20d ago |
-| 🟢 | [pi-buddy](https://www.npmjs.com/package/pi-buddy) | An animated ASCII companion that lives beside your Pi input box. Hatches buddies with unique species, stats, and personalities. Reacts to what you're coding. | ⭐2 | yesterday |
+| 🟢 | [pi-buddy](https://www.npmjs.com/package/pi-buddy) | An animated ASCII companion that lives beside your Pi input box. Hatches buddies with unique species, stats, and personalities. Reacts to what you're coding. | ⭐2 | 2d ago |
 | 🟢 | [pi-cache-timer](https://www.npmjs.com/package/pi-cache-timer) | Footer cache timer extension for Pi |  | 3d ago |
 | 🟢 | [pi-cache-ttl-config](https://www.npmjs.com/package/pi-cache-ttl-config) | Dynamically switch the Anthropic prompt-cache TTL between 5m and 1h mid-conversation in the pi coding agent |  | yesterday |
 | 🟢 | [pi-caveman-mode](https://www.npmjs.com/package/pi-caveman-mode) | Caveman Mode extension for pi. Makes assistant responses terse and blunt. |  | 8d ago |
@@ -547,7 +543,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-figma-mcp](https://www.npmjs.com/package/pi-figma-mcp) | Pi package that connects Pi to the Figma desktop MCP server and exposes Figma design tools inside Pi. |  | 4d ago |
 | 🟢 | [pi-file-change-reminder](https://www.npmjs.com/package/pi-file-change-reminder) | Pi extension that injects reminder messages when specific files are modified. | ⭐1 | 15d ago |
 | 🟢 | [pi-file-permissions](https://www.npmjs.com/package/pi-file-permissions) | Pi extension that enforces file-level permissions via a YAML config. Controls which paths each tool (read, write, edit, find, grep, ls) can access. | ⭐1 | 16d ago |
-| 🟢 | [pi-fizzy](https://www.npmjs.com/package/pi-fizzy) | Pi extension for fetching Fizzy.do cards and turning them into build or plan prompts. |  | yesterday |
+| 🟢 | [pi-fizzy](https://www.npmjs.com/package/pi-fizzy) | Pi extension for fetching Fizzy.do cards and turning them into build or plan prompts. |  | 2d ago |
 | 🟢 | [pi-flake](https://github.com/y0usaf/pi-flake) | Thin flake wrapper around upstream pi-mono with local patches and extension packages |  | 4d ago |
 | 🟢 | [pi-fleet](https://github.com/sandalsoft/pi-fleet) | Multi-agent terminal orchestration extension for pi coding agent |  | 29d ago |
 | 🟢 | [pi-formatter](https://www.npmjs.com/package/pi-formatter) | Pi extension that auto-formats files. | ⭐1 | 7d ago |
@@ -591,7 +587,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-little-helpers](https://github.com/tryingET/pi-little-helpers) | pi extension package with code-block-picker, package-update-notify, and stash utilities | ⭐1 | 7d ago |
 | 🟢 | [pi-local-agents-only](https://www.npmjs.com/package/pi-local-agents-only) | Pi extension that strips global AGENTS.md and CLAUDE.md from the effective prompt for selected projects. |  | 2d ago |
 | 🟢 | [pi-local-rag](https://www.npmjs.com/package/pi-local-rag) | Hybrid RAG pipeline for the Pi coding agent. BM25 + local vector embeddings (Transformers.js) + auto-injection into LLM context. Zero cloud dependency. | ⭐4 | 7d ago |
-| 🟢 | [pi-lsp](https://github.com/0xnayuta/pi-lsp) | Language Server Protocol integration for pi-coding-agent. 为 pi-coding-agent 提供 Language Server Protocol（LSP）集成能力。 |  | 5d ago |
 | 🟢 | [pi-lsp](https://github.com/arcdev-llc/pi-lsp) | LSP extension for pi-mono  | ⭐2 | 13d ago |
 | 🟢 | [pi-lsp-extension](https://github.com/trotsky1997/pi-lsp-extension) | Language Server Protocol integration for pi-coding-agent |  | 10d ago |
 | 🟢 | [pi-math-render](https://github.com/wanderingspirit03/pi-math-render) | LaTeX → Unicode math renderer extension for pi (pi-coding-agent) | ⭐1 | 7d ago |
@@ -645,7 +640,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-plan-mode](https://github.com/Kmiyh/pi-plan-mode) | Pi extension that adds a persistent Claude/Codex/OpenCode-style plan mode with safe tooling, session-scoped plan files, and inline footer status |  | 4d ago |
 | 🟢 | [pi-planner](https://github.com/0xfraso/pi-planner) | pi-mono extension that adds plan mode with whitelisted commands, configurable system prompt and readonly tools. |  | 8d ago |
 | 🟢 | [pi-planner](https://github.com/bwks/pi-planner) | Planning extension for Pi coding agent |  | 5d ago |
-| 🟢 | [pi-plasmate](https://github.com/plasmate-labs/pi-plasmate) | Pi coding agent extension for web browsing via Plasmate SOM |  | 25d ago |
+| 🟢 | [pi-plasmate](https://github.com/plasmate-labs/pi-plasmate) | Pi coding agent extension for web browsing via Plasmate SOM |  | 26d ago |
 | 🟢 | [pi-plugin-cc](https://github.com/BoxBy/pi-plugin-cc) | Claude Code plugin for pi coding agent |  | yesterday |
 | 🟢 | [pi-pomodoro](https://www.npmjs.com/package/pi-pomodoro) | Pomodoro timer extension for pi coding agent |  | 5d ago |
 | 🟢 | [pi-powerline-melbourne](https://www.npmjs.com/package/pi-powerline-melbourne) | Custom pi extensions, including a nerd-style powerline footer with context token count |  | today |
@@ -735,14 +730,12 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-usereq](https://www.npmjs.com/package/pi-usereq) | <p align="center">   <img src="https://img.shields.io/badge/python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.11+">   <img src="https://img.shields.io/badge/license-GPL--3.0-491?style=flat-square" alt="License: GPL-3.0">   |  | 4d ago |
 | 🟢 | [pi-vcd-view](https://github.com/semaphoric775/pi-vcd-view) | An ASCII-based waveform viewer package for the Pi Coding Agent |  | today |
 | 🟢 | [pi-vim](https://github.com/neevparikh/pi-vim) | vim-style extension for pi coding agent | ⭐1 | 23d ago |
-| 🟢 | [pi-vscode](https://github.com/monkeyface-man/pi-vscode) | Integrate pi coding agent into VS Code with a terminal interface, file context support, chat commands, and package management features. |  | 2d ago |
 | 🟢 | [pi-vscode-lite](https://github.com/kexul/pi-vscode-lite) | Lightweight VS Code extension bridge for pi coding agent |  | 3d ago |
 | 🟢 | [pi-vsm](https://github.com/Kybernetria/pi-vsm) | a pi-mono extension for organizing your workflows via the viable system model |  | 23d ago |
 | 🟢 | [pi-web-extension](https://www.npmjs.com/package/pi-web-extension) | A pi extension that adds web search and web fetch tools to the coding agent. |  | 1mo ago |
 | 🟢 | [pi-web-search](https://github.com/arcanemachine/pi-web-search) |  A search extension for the Pi coding agent |  | 4d ago |
 | 🟢 | [pi-web-tools](https://www.npmjs.com/package/pi-web-tools) | Web search via Exa, content extraction, and GitHub repo cloning for Pi coding agent | ⭐1 | 29d ago |
 | 🟢 | [pi-websearch-crawl4ai](https://github.com/codingCoffee/pi-websearch-crawl4ai) | a pi extension to let your LLM crawl & see the web |  | yesterday |
-| 🟢 | [pi-weixinbot](https://www.npmjs.com/package/pi-weixinbot) | 微信机器人 extension for pi，支持扫码登录和消息收发 | ⭐1 | today |
 | 🟢 | [pi-whisper](https://www.npmjs.com/package/pi-whisper) | Ephemeral whisper mode — send messages that don't persist in the agent's context | ⭐4 | 2d ago |
 | 🟢 | [pi-workflow-insights](https://github.com/kesor/pi-workflow-insights) | A pi-coding-agent extension that tracks workflow patterns, scores productivity, and surfaces actionable insights |  | 22d ago |
 | 🟢 | [pi-working-message](https://github.com/viartemev/pi-working-message) | Configurable working-message phrases for pi via JSON config. |  | 12d ago |
@@ -765,7 +758,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [safe-coder](https://github.com/cacab6002/safe-coder) | Protect pi coding agent with safety guardrails, command checks, and workspace limits for safer AI-assisted coding |  | 2d ago |
 | 🟢 | [shitty-clanker-setup](https://github.com/SavingFrame/shitty-clanker-setup) | Config for pi mono |  | 8d ago |
 | 🟢 | [shitty-extensions](https://www.npmjs.com/package/shitty-extensions) | Custom extensions and skills for pi coding agent | ⭐95 | 1mo ago |
-| 🟢 | [stride-pi](https://github.com/cheezy/stride-pi) | Task lifecycle skills for Stride kanban — Pi Coding Agent edition |  | 2d ago |
+| 🟢 | [stride-pi](https://github.com/cheezy/stride-pi) | Task lifecycle skills for Stride kanban — Pi Coding Agent edition |  | 3d ago |
 | 🟢 | [tke-pi-toolkit](https://github.com/DBarberTKE/tke-pi-toolkit) | Custom pi coding agent extensions, agents, and workflows for healthcare operations |  | 2d ago |
 | 🟢 | [vicinae-pi-chat](https://github.com/purplefish32/vicinae-pi-chat) | Vicinae extension to chat with the pi coding agent |  | 3d ago |
 | 🟢 | [vscode-pi](https://github.com/cdervis/vscode-pi) | VS Code extension for the pi agent. | ⭐2 | 5d ago |
@@ -817,7 +810,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [@mobrienv/pi-otlp](https://www.npmjs.com/package/@mobrienv/pi-otlp) | OpenTelemetry metrics and events extension for pi-coding-agent | ⭐6 | 2mo ago |
 | 🟡 | [@normful/picadillo](https://www.npmjs.com/package/@normful/picadillo) | pi agent skills & extensions: run-in-tmux, parrot, mulch, overstory | ⭐9 | 2mo ago |
 | 🟡 | [@pborck/pi-de](https://www.npmjs.com/package/@pborck/pi-de) | IDE integration for pi coding agent - shows current file/selection from VS Code, JetBrains, etc. | ⭐6 | 2mo ago |
-| 🟡 | [@pinetwork/pi-sdk-js](https://www.npmjs.com/package/@pinetwork/pi-sdk-js) | A JavaScript class for handling front-end protocol for Pi transactions. | ⭐9 | 1mo ago |
 | 🟡 | [@q.roy/pi-remote](https://www.npmjs.com/package/@q.roy/pi-remote) | Remote terminal access for pi via WebSocket and browser | ⭐7 | 1mo ago |
 | 🟡 | [@rhobot-dev/pi-ralph](https://www.npmjs.com/package/@rhobot-dev/pi-ralph) | pi extension/package to manage ralph loops from within the pi TUI | ⭐7 | 2mo ago |
 | 🟡 | [@tmustier/pi-session-hud](https://www.npmjs.com/package/@tmustier/pi-session-hud) | Persistent session HUD widget for Pi (below-editor bar with git/context/model/activity). | ⭐6 | 1mo ago |
@@ -877,7 +869,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [@rbright/pi-notify-desktop](https://www.npmjs.com/package/@rbright/pi-notify-desktop) | OSC desktop notifications for Pi agent turn completion. |  | 2mo ago |
 | 🟡 | [@schilderlabs/pitown](https://www.npmjs.com/package/@schilderlabs/pitown) | Globally installable CLI for Pi Town | ⭐4 | 1mo ago |
 | 🟡 | [@trq/pi-colgrep](https://www.npmjs.com/package/@trq/pi-colgrep) | pi extension that adds a colgrep tool and prioritizes semantic/hybrid ColGrep search | ⭐1 | 1mo ago |
-| 🟡 | [@volh/pi-network-monitor](https://www.npmjs.com/package/@volh/pi-network-monitor) | Network request monitor for pi agent — live overlay showing all HTTP traffic |  | 2mo ago |
 | 🟡 | [@willyfrog/agents-warning](https://www.npmjs.com/package/@willyfrog/agents-warning) | pi extension that shows a startup warning widget when AGENTS.md/CLAUDE.md are missing |  | 2mo ago |
 | 🟡 | [@yofriadi/pi-hashline-edit](https://www.npmjs.com/package/@yofriadi/pi-hashline-edit) | ```bash pi install git:github.com/yofriadi/pi-extensions@hashline-edit-v<version> ``` | ⭐3 | 2mo ago |
 | 🟡 | [@zenobius/pi-extension-config](https://www.npmjs.com/package/@zenobius/pi-extension-config) | Configuration helpers for Pi extensions | ⭐2 | 1mo ago |
@@ -903,8 +894,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [onetool-pi](https://www.npmjs.com/package/onetool-pi) | 🧿 Pi coding agent extension — the ultimate MCP bridge with 100+ tools including Brave, Google, Context7, Excalidraw, AWS, Excel, File Ops, Database, Playwright, Chrome DevTools and many more | ⭐3 | 1mo ago |
 | 🟡 | [openspec-plannotator](https://github.com/karinMusaka/openspec-plannotator) | Pi extension bridging OpenSpec and Plannotator - visual review for AI coding agent plans |  | 1mo ago |
 | 🟡 | [otelpi](https://github.com/woxQAQ/otelpi) | A pi coding agent opentelemetry extension |  | 1mo ago |
-| 🟡 | [pi](https://github.com/timbasel/pi) | Extensions for the [PI](pi.dev) coding agent |  | 2mo ago |
-| 🟡 | [pi](https://github.com/stevemurr/pi) | pi coding agent setup and configuration files |  | 1mo ago |
 | 🟡 | [pi-action-runner](https://github.com/butttons/pi-action-runner) | GitHub Action that runs AI-powered PR reviews using pi coding agent | ⭐2 | 1mo ago |
 | 🟡 | [pi-agent](https://github.com/chamanomopah/pi-agent) | Pi Coding Agent extension examples and experiments |  | 1mo ago |
 | 🟡 | [pi-agent-app-dev](https://github.com/Crokily/pi-agent-app-dev) | Agent Skill: best practices for building agent-powered applications with pi-mono SDK |  | 2mo ago |
@@ -933,7 +922,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [pi-claude-boost](https://www.npmjs.com/package/pi-claude-boost) | Shows whether Claude's 2x usage boost is active right now, with countdowns in both directions |  | 1mo ago |
 | 🟡 | [pi-codemachine](https://www.npmjs.com/package/pi-codemachine) | Universal Multi-Agent Workflow Orchestration for Pi |  | 1mo ago |
 | 🟡 | [pi-codex](https://github.com/andreskemeny/pi-codex) | Codex-style extension pack for Pi coding agent. | ⭐1 | 1mo ago |
-| 🟡 | [pi-codex-apply-patch](https://github.com/gturkoglu/pi-codex-apply-patch) | Pi coding-agent extension: adds an apply_patch tool (V4A diffs) so GPT-5.2/Codex can propose structured patches that Pi applies. | ⭐4 | 2mo ago |
 | 🟡 | [pi-codex-profile](https://www.npmjs.com/package/pi-codex-profile) | Codex profile extension for pi coding agent (Codex model presets + apply_patch tool) | ⭐4 | 2mo ago |
 | 🟡 | [pi-codex-status](https://github.com/carlosarraes/pi-codex-status) | Pi extension to check OpenAI Codex session status and rate limits |  | 1mo ago |
 | 🟡 | [pi-coding-agent-extensions](https://github.com/unfallenwill/pi-coding-agent-extensions) | A collection of extensions for pi-coding-agent |  | 1mo ago |
@@ -1214,7 +1202,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [@zgltyq/pi-minimax-image](https://www.npmjs.com/package/@zgltyq/pi-minimax-image) | MiniMax Image Understanding extension for pi coding agent - provides understand_image tool |  | 7d ago |
 | 🟡 | [oira666_pi-anthropic-oauth](https://www.npmjs.com/package/oira666_pi-anthropic-oauth) | Claude Pro/Max OAuth extension for Pi |  | 5d ago |
 | 🟡 | [oira666_pi-mcp-adapter](https://www.npmjs.com/package/oira666_pi-mcp-adapter) | MCP (Model Context Protocol) adapter extension for Pi coding agent |  | 28d ago |
-| 🟡 | [oira666_pi-subagent](https://www.npmjs.com/package/oira666_pi-subagent) | Subagent extension for Pi coding agent. Delegate tasks to specialized agents. |  | 16d ago |
+| 🟡 | [oira666_pi-subagent](https://www.npmjs.com/package/oira666_pi-subagent) | Subagent extension for Pi coding agent. Delegate tasks to specialized agents. |  | 17d ago |
 | 🟡 | [pi-tau-mux](https://www.npmjs.com/package/pi-tau-mux) | Web UI that mirrors your Pi terminal session in the browser - tmux session aware | ⭐2 | 29d ago |
 | 🟡 | [pi-tidy-mcp-adapter](https://www.npmjs.com/package/pi-tidy-mcp-adapter) | MCP (Model Context Protocol) adapter extension for Pi coding agent fork form https://github.com/nicobailon/pi-mcp-adapter | ⭐3 | 7d ago |
 | 🟠 | [@noahsaso/pi-remote](https://www.npmjs.com/package/@noahsaso/pi-remote) | Remote terminal access for pi via WebSocket and browser, with Tailscale integration | ⭐23 | 1mo ago |
@@ -1264,15 +1252,13 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-constell-plan](https://www.npmjs.com/package/pi-constell-plan) | Claude Code-style plan mode for pi: explicit --plan / /plan entry, askUserQuestion gating, and Constellagent-compatible plan exports. | ⭐188 | 5d ago |
 | 🟢 | [@agentlogs/pi](https://www.npmjs.com/package/@agentlogs/pi) | AgentLogs extension for Pi - automatically captures and uploads AI coding session transcripts | ⭐174 | 5d ago |
 | 🟢 | [pi-context](https://www.npmjs.com/package/pi-context) | Agentic Context Management for the Pi | ⭐160 | 7d ago |
-| 🟢 | [lazyagent](https://github.com/illegalstudio/lazyagent) | Monitor all your coding agents from one terminal - Claude Code, Cursor, OpenCode, pi and more | ⭐137 | yesterday |
+| 🟢 | [lazyagent](https://github.com/illegalstudio/lazyagent) | Monitor all your coding agents from one terminal - Claude Code, Cursor, OpenCode, pi and more | ⭐137 | 2d ago |
 | 🟢 | [@lobu/cli](https://www.npmjs.com/package/@lobu/cli) | CLI for deploying and managing AI agents on Lobu | ⭐131 | today |
-| 🟢 | [aai-gateway](https://www.npmjs.com/package/aai-gateway) | [English](README.md) \| 简体中文 \| [日本語](README.ja.md) \| [한국어](README.ko.md) | ⭐133 | 10d ago |
 | 🟢 | [pi-coding-agent](https://github.com/dnouri/pi-coding-agent) | Emacs frontend for the pi coding agent | ⭐133 | 3d ago |
 | 🟢 | [@contextcompany/pi](https://www.npmjs.com/package/@contextcompany/pi) | The Context Company instrumentation for Pi Agent SDK | ⭐119 | 3d ago |
 | 🟢 | [taskplane](https://www.npmjs.com/package/taskplane) | AI agent orchestration for pi — parallel task execution with checkpoint discipline | ⭐115 | 3d ago |
 | 🟢 | [latchkey](https://www.npmjs.com/package/latchkey) | A CLI tool that injects API credentials into curl requests to third-party services | ⭐105 | today |
 | 🟢 | [runline](https://www.npmjs.com/package/runline) | Code mode for agents — turn any API or command into a callable action | ⭐107 | today |
-| 🟢 | [pi-rs](https://github.com/jshachm/pi-rs) | 基于pi-mono，rust轻量化版本 | ⭐616 | 1mo ago |
 | 🟢 | [pi-skills](https://github.com/badlogic/pi-skills) | Skills for pi coding agent (compatible with Claude Code and Codex CLI) | 1.3k | 2mo ago |
 | 🟢 | [@switchbot/openapi-cli](https://www.npmjs.com/package/@switchbot/openapi-cli) | SwitchBot smart home CLI — control devices, run scenes, stream real-time events, and integrate AI agents via MCP. Full API v1.1 coverage. | ⭐93 | today |
 | 🟢 | [pi-intercom](https://github.com/nicobailon/pi-intercom) | Inter-session communication extension for pi coding agent | ⭐88 | yesterday |
@@ -1305,7 +1291,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [batty](https://github.com/jeffton/batty) | PWA built on Pi coding agent | ⭐23 | 2d ago |
 | 🟢 | [bug-hunter](https://github.com/codexstar69/bug-hunter) | Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, Kiro CLI, Opencode, Pi Coding Agent, and more. Multi-agent pipeline finds security vulnerabilities, logic errors, and runtime bugs — then fixes them autonomously on a safe branch. | ⭐121 | 1mo ago |
 | 🟢 | [pi-claude-cli](https://www.npmjs.com/package/pi-claude-cli) | Pi coding agent extension that routes LLM calls through the Claude Code CLI | ⭐20 | 1mo ago |
-| 🟢 | [pi-coding-agent-action](https://github.com/shaftoe/pi-coding-agent-action) | GitHub action to integrate https://pi.dev/ coding agent with GitHub-compatible CI/CD, issues and PRs | ⭐18 | 2d ago |
+| 🟢 | [pi-coding-agent-action](https://github.com/shaftoe/pi-coding-agent-action) | GitHub action to integrate https://pi.dev/ coding agent with GitHub-compatible CI/CD, issues and PRs | ⭐18 | 3d ago |
 | 🟢 | [pi-coding-agent-container](https://github.com/gni/pi-coding-agent-container) | pi-coding-agent docker compose | ⭐18 | 4d ago |
 | 🟢 | [pi-librarian](https://www.npmjs.com/package/pi-librarian) | GitHub research subagent package for pi coding agent | ⭐23 | 27d ago |
 | 🟢 | [@actant/pi](https://www.npmjs.com/package/@actant/pi) | Pi Agent backend for the Actant platform — built on pi-agent-core and pi-ai | ⭐12 | 1mo ago |
@@ -1401,7 +1387,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [@supermldev/smart-sdlc](https://www.npmjs.com/package/@supermldev/smart-sdlc) | Smart SDLC — AI-Driven Development Framework built by Superml.dev & superml.org by crazyaiml. Works natively with GitHub Copilot, Claude, Cursor, and any AI coding assistant. | ⭐2 | today |
 | 🟢 | [@termdraw/pi](https://www.npmjs.com/package/@termdraw/pi) | Pi extension package that embeds termDRAW inside Pi via opentui-island. | ⭐2 | 4d ago |
 | 🟢 | [@tezra-io/loomforge](https://www.npmjs.com/package/@tezra-io/loomforge) | Slim local workflow engine for agentic software delivery | ⭐1 | today |
-| 🟢 | [@the-forge-flow/camoufox-pi](https://www.npmjs.com/package/@the-forge-flow/camoufox-pi) | PI extension for stealth web search and URL fetching via Camoufox |  | 8d ago |
+| 🟢 | [@the-forge-flow/camoufox-pi](https://www.npmjs.com/package/@the-forge-flow/camoufox-pi) | PI extension for stealth web search and URL fetching via Camoufox |  | 9d ago |
 | 🟢 | [@the-forge-flow/gh-pi](https://www.npmjs.com/package/@the-forge-flow/gh-pi) | GH-PI — PI extension for native GitHub CLI (gh) integration | ⭐1 | 4d ago |
 | 🟢 | [@thecorporation/agent](https://www.npmjs.com/package/@thecorporation/agent) | TheCorporation agent — 35 corporate governance tools for the Pi coding agent |  | 17d ago |
 | 🟢 | [@tribalnerd/pi-notes](https://www.npmjs.com/package/@tribalnerd/pi-notes) | A Pi extension for deterministic human notes across project and global scopes. |  | 18d ago |
@@ -1460,7 +1446,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [hermes-loop](https://github.com/akijain2000/hermes-loop) | Self-improving agent extension — creates skills from experience, compresses context iteratively, maintains persistent memory. Runs on Pi or Claude Code. Combines pi-mono + hermes-agent + Skill Factory. |  | 17d ago |
 | 🟢 | [hermes-pi-dev-team](https://github.com/azrlb/hermes-pi-dev-team) | Autonomous AI dev team: BMAD-driven planning → Hermes orchestration → Pi coding agents → vibe-loop pipeline. Drop into any project, get idea-to-deploy with zero human gates. | ⭐1 | 20d ago |
 | 🟢 | [hud-dashboard](https://github.com/tmdgusya/hud-dashboard) | Interactive HUD Dashboard for pi-coding-agent to monitor agentic workflows |  | 19d ago |
-| 🟢 | [infra-pi-mono](https://github.com/eastmoon/infra-pi-mono) | This is a infrastructure project with PI CLI. |  | 17d ago |
+| 🟢 | [infra-pi-mono](https://github.com/eastmoon/infra-pi-mono) | This is a infrastructure project with PI CLI. |  | 18d ago |
 | 🟢 | [job-hunter](https://github.com/mthanhlm/job-hunter) | automatic job hunter platform build with pi-mono |  | 6d ago |
 | 🟢 | [Kimi-K2.5](https://github.com/kartiksir/Kimi-K2.5) | 🤖 Enhance your AI experience with Kimi K2.5, a powerful chatbot that delivers intelligent conversations and seamless interactions. |  | today |
 | 🟢 | [LLMVeritas](https://github.com/dev-signalgestalt/LLMVeritas) | A portable cognitive discipline system for AI coding agents. Cross-platform anti-hallucination framework with 7-layer verification, confidence labels, and research-backed techniques. Supports Claude Code, Cursor, Codex, OpenCode, Hermes, Gemini CLI, and Pi. | ⭐1 | yesterday |
@@ -1471,13 +1457,10 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [mdx-tsx-import-checker](https://www.npmjs.com/package/mdx-tsx-import-checker) | CLI tool to validate named imports of React/TSX components in MDX files |  | 7d ago |
 | 🟢 | [micro-pi](https://github.com/asyrjasalo/micro-pi) | Run Pi Coding Agent inside a microsandbox VM |  | 4d ago |
 | 🟢 | [mini-pi](https://github.com/yuekcc/mini-pi) | a pi coding agent clone in C3, my own coding agent. | ⭐1 | 5d ago |
-| 🟢 | [minimax-skills](https://github.com/justl9169/minimax-skills) | 封装 MiniMax 语音、图片、视频和音乐能力为 4 个技能，方便快速接入生成与编辑工作流 |  | today |
 | 🟢 | [Mother](https://github.com/EdibleTuber/Mother) | Mother AI Asisstant development repo, forked from pi-mono which is an AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |  | 19d ago |
 | 🟢 | [multi-sdd-team](https://github.com/ram4-dev/multi-sdd-team) | SDD multi agent framework for pi coding agent |  | 3d ago |
 | 🟢 | [my-pi](https://github.com/saharathkleips/my-pi) | Personal Pi Coding Agent workflow repository |  | 7d ago |
 | 🟢 | [my-skills](https://github.com/snqb/my-skills) | Personal collection of pi agent skills — unpolished, shared as-is | ⭐1 | 16d ago |
-| 🟢 | [mypi](https://github.com/Keke-nA/mypi) | 尝试复现 pi-mono | ⭐1 | 25d ago |
-| 🟢 | [nano-cli](https://github.com/yantze/nano-cli) | 一个类似 pi-mono 的但没有交互的 prompt 的命令行工具 |  | 1mo ago |
 | 🟢 | [nats-pi-bridge](https://github.com/synadia-ai/nats-pi-bridge) | Standalone NATS bridge for headless PI coding agent sessions. Spawn, prompt, and manage on-demand AI agents over NATS infrastructure. |  | 15d ago |
 | 🟢 | [nekoclaw](https://github.com/oines/nekoclaw) | Multi-agent chat runtime for Telegram and QQ/NapCat, built on pi-coding-agent with Docker-isolated agent workspaces. | ⭐4 | 19d ago |
 | 🟢 | [nix-pi-agent](https://github.com/rbright/nix-pi-agent) | Nix package for pi-agent | ⭐2 | 3d ago |
@@ -1486,7 +1469,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [ouro](https://github.com/rollercoaster-dev/ouro) | Self-improving AI development system. Context engine + PM + factory, built on Pi coding agent. |  | 15d ago |
 | 🟢 | [OZ_Agnet_Skills](https://github.com/OzzyHA-company/OZ_Agnet_Skills) | OZ_Pi-mono_gemini-saas |  | 22d ago |
 | 🟢 | [payagent](https://www.npmjs.com/package/payagent) | Let AI agents pay for APIs. The ArisPay SDK + CLI for x402 payments with delegated-custody wallets — no private keys in your process. |  | 4d ago |
-| 🟢 | [pi](https://github.com/emmaneugene/pi) | pi coding agent config |  | 2d ago |
 | 🟢 | [pi](https://github.com/anlaki-py/pi) | pi-mono |  | 2d ago |
 | 🟢 | [pi_mono](https://github.com/tikikun/pi_mono) | tikikun-pi_mono |  | 16d ago |
 | 🟢 | [pi-1password](https://www.npmjs.com/package/pi-1password) | 1Password Pi coding agent secret management | ⭐3 | 2d ago |
@@ -1515,7 +1497,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [PI-Coding-Agent-OpenClaw-study](https://github.com/saga/PI-Coding-Agent-OpenClaw-study) | saga-PI-Coding-Agent-OpenClaw-study |  | yesterday |
 | 🟢 | [pi-coding-agent-settings](https://github.com/seanWLawrence/pi-coding-agent-settings) | Personal Pi coding agent settings |  | 17d ago |
 | 🟢 | [pi-compound-engineering](https://www.npmjs.com/package/pi-compound-engineering) | Pi-native Compound Engineering package for iterative development workflows | ⭐4 | 3d ago |
-| 🟢 | [pi-config](https://github.com/the-wendell/pi-config) | configuratin for pi coding agent |  | 10d ago |
+| 🟢 | [pi-config](https://github.com/the-wendell/pi-config) | configuratin for pi coding agent |  | 11d ago |
 | 🟢 | [pi-container](https://github.com/zgulde/pi-container) | Simple container for running the pi coding agent |  | 3d ago |
 | 🟢 | [pi-copy-response](https://www.npmjs.com/package/pi-copy-response) | Pi package for copying the latest assistant response with a code-block picker, live preview, and optional /copy override |  | 13d ago |
 | 🟢 | [pi-copy-user-message](https://www.npmjs.com/package/pi-copy-user-message) | pi extension that adds /copy-user to copy the most recent user message to your clipboard |  | 2d ago |
@@ -1528,7 +1510,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-deslop](https://github.com/Jabbslad/pi-deslop) | Pi agent skill port of skill-deslop for removing AI writing patterns from prose. |  | 18d ago |
 | 🟢 | [pi-dev-browser](https://github.com/magimetal/pi-dev-browser) | Pi package extension adding dev-browser-powered browser automation for navigation, AI snapshots, interaction, and screenshots. | ⭐2 | 2d ago |
 | 🟢 | [pi-diff-viewer](https://github.com/darkhanakh/pi-diff-viewer) | Pi agent package: annotate code diffs in a browser UI and send reviews back to Pi | ⭐1 | 10d ago |
-| 🟢 | [pi-dingtalkbot](https://www.npmjs.com/package/pi-dingtalkbot) | 钉钉智能机器人 Stream 长连接扩展 for pi |  | 4d ago |
 | 🟢 | [pi-dock](https://github.com/ryo-morimoto/pi-dock) | Zen Browser-style vertical tab interface for pi-coding-agent sessions |  | 16d ago |
 | 🟢 | [pi-docker](https://github.com/fkleon/pi-docker) | Containerised version of the pi coding agent |  | 25d ago |
 | 🟢 | [pi-docker-sandbox](https://github.com/shaftoe/pi-docker-sandbox) | A Pi coding agent extension for running sandboxed subagents in Docker Desktop Sandboxes |  | 12d ago |
@@ -1566,7 +1547,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-mono](https://github.com/Fatih0234/pi-mono) | Fatih0234-pi-mono |  | 10d ago |
 | 🟢 | [pi-mono](https://github.com/kcoddington/pi-mono) | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |  | 16d ago |
 | 🟢 | [pi-mono-agentcore](https://github.com/zhuangyq008/pi-mono-agentcore) | zhuangyq008-pi-mono-agentcore |  | 23d ago |
-| 🟢 | [pi-mono-cn](https://github.com/bbylw/pi-mono-cn) | Pi 是一个极简的终端编码工具。让 pi 适应你的工作流程，而不是反过来，无需 fork 和修改 pi 内部代码。通过 TypeScript 扩展、技能、提示模板 和 主题 来扩展它。将你的扩展、技能、提示模板和主题放入 Pi 包 中，并通过 npm 或 git 与他人分享。  Pi 附带强大的默认设置，但跳过了子智能体和计划模式等功能。相反，你可以让 pi 构建你想要的功能，或安装符合你工作流程的第三方 pi 包。 |  | 9d ago |
 | 🟢 | [pi-mono-course](https://github.com/Maxbay1017/pi-mono-course) | Maxbay1017-pi-mono-course |  | 13d ago |
 | 🟢 | [pi-mono-docker](https://github.com/combust-labs/pi-mono-docker) | Running pi-mono coding agent in Docker containers |  | 5d ago |
 | 🟢 | [pi-mono-http-proxy](https://github.com/combust-labs/pi-mono-http-proxy) | A HTTP proxy for pi-mono RpcClient |  | 5d ago |
@@ -1578,11 +1558,8 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-mono-mock](https://github.com/aimangithub007/pi-mono-mock) | aimangithub007-pi-mono-mock |  | 8d ago |
 | 🟢 | [pi-mono-nix](https://github.com/pusherofbrooms/pi-mono-nix) | pusherofbrooms-pi-mono-nix | ⭐4 | 3d ago |
 | 🟢 | [pi-mono-nix](https://github.com/tienedev/pi-mono-nix) | Nix flake for pi — coding agent CLI from badlogic/pi-mono (auto-updated daily) |  | 4d ago |
-| 🟢 | [pi-mono-py](https://github.com/tangtangniuniu/pi-mono-py) | pi-mono的python clone实现 |  | 29d ago |
 | 🟢 | [pi-mono-stub](https://github.com/Lightbridge-KS/pi-mono-stub) | Educational stub of pi-mono |  | 8d ago |
-| 🟢 | [pi-mono-translate](https://github.com/Xhy-pro/pi-mono-translate) | codex翻译了几个md文件 |  | 23d ago |
 | 🟢 | [pi-mono-zig](https://github.com/DaviRain-Su/pi-mono-zig) | DaviRain-Su-pi-mono-zig |  | 15d ago |
-| 🟢 | [pi-nezha](https://github.com/pengbin897/pi-nezha) | 基于 pi-coding-agent 实现的个性化的超级AI 助手 |  | 24d ago |
 | 🟢 | [pi-nix](https://github.com/takinbo/pi-nix) | Nix flake for pi — a reproducible, hermetically-built package of the pi AI coding agent CLI for NixOS and Home Manager. |  | 2d ago |
 | 🟢 | [pi-observability](https://github.com/imran-vz/pi-observability) | A pi extension that replaces the default footer with a live observability bar and provides a full dashboard command. | ⭐2 | 5d ago |
 | 🟢 | [pi-observability](https://www.npmjs.com/package/pi-observability) | Live observability dashboard for pi coding agent sessions — tokens, cost, TPS, runtime, git stats, and context usage | ⭐2 | today |
@@ -1614,7 +1591,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-slack-remote](https://github.com/samfoy/pi-slack-remote) | Slack notification and conversation support for pi |  | 9d ago |
 | 🟢 | [pi-sonar](https://github.com/DxVapor/pi-sonar) | SonarQube integration for pi coding agent — tools and skills to find and fix sonar issues |  | 7d ago |
 | 🟢 | [pi-splunk-cloud-logs](https://github.com/DxVapor/pi-splunk-cloud-logs) | Pi coding agent extension for querying Splunk Cloud logs — OAuth2 + bearer token auth |  | 2d ago |
-| 🟢 | [pi-subagent](https://github.com/davidsunglee/pi-subagent) | Fork of the subagents extension in the pi coding agent repo. |  | 6d ago |
+| 🟢 | [pi-subagent](https://github.com/davidsunglee/pi-subagent) | Fork of the subagents extension in the pi coding agent repo. |  | 7d ago |
 | 🟢 | [pi-tau-mux-server](https://www.npmjs.com/package/pi-tau-mux-server) | Standalone Tau server - aggregates multiple pi coding agent instances into one web UI with Tailscale support |  | 28d ago |
 | 🟢 | [pi-threading](https://github.com/vesta-cx/pi-threading) | A Pi package and API for recursive subagent orchestration |  | 25d ago |
 | 🟢 | [pi-threads](https://github.com/bertugmirasyedi/pi-threads) | Slate-style thread/episode delegation for pi coding agent |  | 29d ago |
@@ -1626,7 +1603,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-web](https://github.com/Vochsel/pi-web) | Packages to use web as a front end to pi-mono in rpc mode |  | yesterday |
 | 🟢 | [pi-web-ui](https://github.com/martingrimmer/pi-web-ui) | Pi coding agent over web frontend. | ⭐1 | yesterday |
 | 🟢 | [pi-webui](https://github.com/Zetaphor/pi-webui) | A full-stack web interface for the Pi coding agent, providing browser access to a system-level Pi agent with bash, file read/write/edit, and extension tools. |  | 4d ago |
-| 🟢 | [pi-wecombot](https://www.npmjs.com/package/pi-wecombot) | 企业微信智能机器人 WebSocket 长连接扩展 for pi |  | 7d ago |
 | 🟢 | [pi-worker](https://github.com/asoules/pi-worker) | Pi coding agent running in a Cloudflare Worker with persistent filesystem and git | ⭐1 | 29d ago |
 | 🟢 | [pi-workflows](https://github.com/yagaltd/pi-workflows) | Contract-driven multi-model workflow for pi coding agent. Describe what you want. Agents plan, build, and verify through enforceable contracts. |  | 2d ago |
 | 🟢 | [pi-wsl-clipboard-image](https://github.com/StartupBros/pi-wsl-clipboard-image) | WSL-first Pi extension that bridges Windows clipboard screenshots into Pi via temp image paths |  | 17d ago |
@@ -1636,7 +1612,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi.nvim](https://github.com/rjshrjndrn/pi.nvim) | pi coding agent integration in neovim | ⭐1 | 2d ago |
 | 🟢 | [PiAssistant](https://github.com/rhjoh/PiAssistant) | A persistant Pi coding agent session accessible via Telegram.  | ⭐2 | 13d ago |
 | 🟢 | [piclaw](https://github.com/kukareku6341/piclaw) | Provide a Docker-based sandbox to run the Pi Coding Agent with a web UI, persistent sessions, task scheduling, and optional WhatsApp integration. |  | 2d ago |
-| 🟢 | [PiCompute](https://github.com/rahuljsaliaan/PiCompute) | Pi Compute is a calculator app vibe-coded using the pi-coding-agent. The entire project—from structure to implementation—was generated through agent-driven development with minimal manual intervention. | ⭐1 | 17d ago |
 | 🟢 | [piforce](https://github.com/LucasPicoli/piforce) | Salesforce tools for the Pi coding agent |  | 7d ago |
 | 🟢 | [pikit](https://github.com/5uck1ess/pikit) | Token-efficient pi-mono coding harness with RTK compression, multi-model workflows, and progressive skill loading |  | 6d ago |
 | 🟢 | [Pilvipalvelut-Agent-Coding](https://github.com/Ard3J/Pilvipalvelut-Agent-Coding) | Ard3J-Pilvipalvelut-Agent-Coding |  | today |
@@ -1661,15 +1636,12 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [smackplane](https://github.com/Smackdab-Dev/smackplane) | Smackdab fork of HenryLach/taskplane — multi-agent task orchestration for pi-mono |  | 9d ago |
 | 🟢 | [std-c99-proj-skill](https://www.npmjs.com/package/std-c99-proj-skill) | Pi skill for pure ANSI C99 projects with memory arena, containerized builds, Valgrind, and static analysis. |  | 22d ago |
 | 🟢 | [super-agent](https://github.com/ryanSir/super-agent) |  Enterprise-grade hybrid AI agent engine with Python orchestration + pi coding agent execution. Features Temporal workflows, E2B sandboxing, and A2UI protocol for dynamic UI     rendering.  | ⭐1 | yesterday |
-| 🟢 | [tch-agent](https://github.com/m-sec-org/tch-agent) | 智能渗透Agent Manager/Observer/Solver 多角色架构，基于 pi-mono SDK。 | ⭐1 | 2d ago |
 | 🟢 | [terminal-pi](https://github.com/wiinnie-the-pooh/terminal-pi) | VS Code Extension for pi-coding-agent Terminal Integration |  | 2d ago |
 | 🟢 | [tickle](https://github.com/ChristianAlexa/tickle) | Talk to TickTick from Claude - MCP and pi-mono extension. |  | 3d ago |
 | 🟢 | [tracking-agent](https://www.npmjs.com/package/tracking-agent) | Browser-based tracking validation agent using agent-browser + pi-agent-core |  | 24d ago |
 | 🟢 | [twentythree-skills](https://www.npmjs.com/package/twentythree-skills) | AI agent skills for the TwentyThree CLI | ⭐2 | today |
 | 🟢 | [vela-pi](https://github.com/EcoKG/vela-pi) | Vela — deterministic sandbox engine built on Pi SDK (@mariozechner/pi-coding-agent) |  | 15d ago |
 | 🟢 | [waypath](https://www.npmjs.com/package/waypath) | Local-first external brain CLI for coding agents — SQLite-backed context, graph-aware recall, and governed memory for Claude Code, Codex, and MCP clients. | ⭐1 | 7d ago |
-| 🟢 | [WEPsCLI](https://github.com/WEP-56/WEPsCLI) | 基于pi-mono二开的附带美观TUI的coding agent工具 | ⭐3 | 1mo ago |
-| 🟢 | [wx-pi](https://github.com/Teaonly/wx-pi) | 微信扫码启动pi-mono | ⭐1 | 3d ago |
 | 🟢 | [zcrew](https://github.com/DanielLukic/zcrew) | ZelliJ agent orchestration system (claude code, codex cli, pi supported) |  | 2d ago |
 | 🟢 | [zeus](https://github.com/alvatar/zeus) | TUI dashboard to monitor and manage multiple pi coding agents in kitty terminals (sway WM) |  | 3d ago |
 | 🟡 | [edge-pi-cli](https://www.npmjs.com/package/edge-pi-cli) | CLI for the edge-pi coding agent SDK | ⭐51 | 2mo ago |
@@ -1678,10 +1650,8 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [pi-mermaid](https://www.npmjs.com/package/pi-mermaid) | 🧜‍♀️ Pi extension that renders Mermaid diagrams as ASCII in the TUI | ⭐43 | 1mo ago |
 | 🟡 | [pi-island](https://github.com/jwintz/pi-island) | A native macOS dynamic island interface for the Pi coding agent. Real-time session monitoring, ambient notifications, and seamless multi-session management - all from your notch. | ⭐27 | 2mo ago |
 | 🟡 | [@jay-zod/speakturbo](https://www.npmjs.com/package/@jay-zod/speakturbo) | Ultra-fast TTS with ~90ms latency. Local text-to-speech for AI agents with 8 built-in voices. | ⭐18 | 2mo ago |
-| 🟡 | [@pinetwork/pi-sdk-nextjs](https://www.npmjs.com/package/@pinetwork/pi-sdk-nextjs) | A Next.js processor for Pi Network transaction | ⭐23 | 1mo ago |
 | 🟡 | [@tmustier/pi-clean-slides](https://www.npmjs.com/package/@tmustier/pi-clean-slides) | PowerPoint CLI skill for Pi — inspect, edit, generate table slides from YAML, render to PNG. | ⭐15 | 2mo ago |
 | 🟡 | [helix-pi](https://github.com/jchidley/helix-pi) | Pi coding agent integration for [Helix](https://helix-editor.com/) via [Steel](https://github.com/mattwparas/steel) plugins. | ⭐17 | 2mo ago |
-| 🟡 | [pi](https://github.com/vamsi/pi) | Port of pi-mono to Python; AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pod. | ⭐16 | 2mo ago |
 | 🟡 | [pi-agent-rl-toolkit](https://github.com/Indelwin/pi-agent-rl-toolkit) | Train AI coding agents with RL (GRPO) on Prime Intellect — works with Pi Agent | ⭐18 | 1mo ago |
 | 🟡 | [pi-ios](https://github.com/dannote/pi-ios) | Pi coding agent for iOS - native Bun + Ghostty terminal | ⭐22 | 2mo ago |
 | 🟡 | [pipane](https://www.npmjs.com/package/pipane) | A clean web interface for the pi coding agent — chat UI with real-time tool calls, streaming output, session management, and model picker | ⭐18 | 1mo ago |
@@ -1691,7 +1661,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [@justram/pi-undo-redo](https://www.npmjs.com/package/@justram/pi-undo-redo) | Buffered undo/redo extension for Pi coding agent | ⭐6 | 2mo ago |
 | 🟡 | [@sibyllinesoft/smith](https://www.npmjs.com/package/@sibyllinesoft/smith) | AI-guided Smith platform installer powered by pi-agent | ⭐11 | 1mo ago |
 | 🟡 | [@zhafron/pi-memory](https://www.npmjs.com/package/@zhafron/pi-memory) | Memory management extension for pi coding agent | ⭐6 | 2mo ago |
-| 🟡 | [loongclaw](https://github.com/LiAWu2026/loongclaw) | 精简版 OpenClaw 系统 - 基于 pi-mono 的学习导向 AI Agent 🐉 | ⭐7 | 2mo ago |
 | 🟡 | [pi-agent-extensions](https://github.com/zach-source/pi-agent-extensions) | Pi coding agent extensions (graphiti, heartbeat) | ⭐6 | 1mo ago |
 | 🟡 | [pi-mono](https://github.com/ayhanmalkoc/pi-mono) | ayhanmalkoc-pi-mono | ⭐5 | 1mo ago |
 | 🟡 | [pi-pringles-dod-capsules](https://github.com/hvent90/pi-pringles-dod-capsules) | Agent-controlled context window management for pi-coding-agent - a Pringles x DoD collaboration | ⭐5 | 1mo ago |
@@ -1717,7 +1686,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [@marcfargas/skills](https://www.npmjs.com/package/@marcfargas/skills) | Reusable AI agent skills for pi, Claude Code, Cursor, and any Agent Skills compatible agent | ⭐4 | 2mo ago |
 | 🟡 | [@modemdev/glance-pi](https://www.npmjs.com/package/@modemdev/glance-pi) | glance.sh extension package for pi | ⭐3 | 1mo ago |
 | 🟡 | [@momomemory/pi-momo](https://www.npmjs.com/package/@momomemory/pi-momo) | Pi plugin that gives agents persistent memory using Momo |  | 2mo ago |
-| 🟡 | [@pinetwork/pi-sdk-express](https://www.npmjs.com/package/@pinetwork/pi-sdk-express) | An Express.js SDK for Pi Network transaction processing |  | 1mo ago |
 | 🟡 | [@psg2/pi-costs](https://www.npmjs.com/package/@psg2/pi-costs) | Analyze cost and token usage from pi coding agent sessions | ⭐1 | 1mo ago |
 | 🟡 | [@psg2/pi-transcript](https://www.npmjs.com/package/@psg2/pi-transcript) | Convert pi coding agent sessions to clean, mobile-friendly HTML transcripts |  | 1mo ago |
 | 🟡 | [@robhowley/py-pit-skills](https://www.npmjs.com/package/@robhowley/py-pit-skills) | Opinionated Python API development skills for AI coding agents (Pi, Claude Code). | ⭐3 | 1mo ago |
@@ -1732,7 +1700,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [agent-skills](https://github.com/CodyBontecou/agent-skills) | Collection of pi coding agent skills for iOS, web, App Store, Instagram content, and more |  | 2mo ago |
 | 🟡 | [agent-skills](https://github.com/gweakliem/agent-skills) | Skills for the pi agent |  | 1mo ago |
 | 🟡 | [AI-plays-Slay-The-Spire-2](https://github.com/IgorWarzocha/AI-plays-Slay-The-Spire-2) | Mod + framework + extension enabling fully agentic STS2 operations. By default, uses Pi coding agent. WIP. | ⭐1 | 1mo ago |
-| 🟡 | [autonomous-agent-ts](https://github.com/1695365384/autonomous-agent-ts) | 🤖 基于 pi-mono 的自主智能体框架 | ⭐1 | 1mo ago |
 | 🟡 | [bartis-coding-agent](https://github.com/MonsieurBarti/bartis-coding-agent) | Personal Minions-lite: Discord → Pi Agent → Tested PR. Project-agnostic coding pipeline built on Pi extensions + Gas Town + code-graph. |  | 1mo ago |
 | 🟡 | [biolod1337.github.io](https://github.com/biolod1337/biolod1337.github.io) | 🤖 Build AI agents and manage LLM deployments efficiently with pi-mono—your go-to monorepo for cutting-edge tools. |  | 2mo ago |
 | 🟡 | [ccbot-pi](https://github.com/joaquimhuelsen1/ccbot-pi) | Control Pi coding agent sessions remotely via Telegram |  | 1mo ago |
@@ -1746,7 +1713,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [hass-pi-agent](https://github.com/dkmaker/hass-pi-agent) | Pi Agent for Home Assistant — AI coding agent add-on with full HA access | ⭐4 | 1mo ago |
 | 🟡 | [Jupyter-pi](https://github.com/arjun-krishna1/Jupyter-pi) | An agent harness for editing Jupyter Notebooks built on the Pi Coding Agent |  | 1mo ago |
 | 🟡 | [langgraph-pi-agent](https://github.com/mastwet/langgraph-pi-agent) | An intelligent AI Agent implemented using langgraph, referencing pi-mono | ⭐1 | 2mo ago |
-| 🟡 | [learn-pimono](https://github.com/Keke-nA/learn-pimono) | 严肃学习 pi-mono |  | 1mo ago |
 | 🟡 | [Life-Of-Pi-dantic](https://github.com/DonaldKundert/Life-Of-Pi-dantic) | Re-implementing the Pi-mono coding agent using Pydantic AI as the agent framework. |  | 1mo ago |
 | 🟡 | [logseq-pi-integration](https://github.com/tadatuta/logseq-pi-integration) | Logseq plugin that connects to the Pi Coding Agent via slash command |  | 1mo ago |
 | 🟡 | [loop-skills](https://github.com/satish860/loop-skills) | Skills for pi coding agent and Loop Server agents. Compatible with Claude Code, Codex CLI, Amp, and Droid. | ⭐1 | 2mo ago |
@@ -1759,7 +1725,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [my-pi-mono](https://github.com/lilu007-github/my-pi-mono) | lilu007-github-my-pi-mono |  | 2mo ago |
 | 🟡 | [my-pi-skills](https://github.com/tesla3/my-pi-skills) | Custom pi coding agent skills | ⭐1 | 1mo ago |
 | 🟡 | [my-pi-skills](https://github.com/jlgerber/my-pi-skills) | skills for use with the pi coding agent |  | 1mo ago |
-| 🟡 | [mysuperboy](https://github.com/peitao/mysuperboy) | 基于 pi-mono 的终端编码 Agent，支持自定义 skills |  | 2mo ago |
 | 🟡 | [nano-agent](https://github.com/mrcloudchase/nano-agent) | Minimal version of pi-mono's agent package |  | 1mo ago |
 | 🟡 | [nano-ai](https://github.com/mrcloudchase/nano-ai) | Minimal version of pi-mono's ai package |  | 1mo ago |
 | 🟡 | [nano-coding-agent](https://github.com/mrcloudchase/nano-coding-agent) | Minimal version of pi-mono's coding-agent package |  | 1mo ago |
@@ -1767,7 +1732,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [nano-pods](https://github.com/mrcloudchase/nano-pods) | Minimal version of pi-mono's pods package |  | 1mo ago |
 | 🟡 | [nano-tui](https://github.com/mrcloudchase/nano-tui) | Minimal version of pi-mono's tui package |  | 1mo ago |
 | 🟡 | [nano-web-ui](https://github.com/mrcloudchase/nano-web-ui) | Minimal version of pi-mono's web-ui package |  | 1mo ago |
-| 🟡 | [No-worries](https://github.com/hlbbbbbbb/No-worries) | 🧘 NoWorries (无事) - 开源 AI 桌面助手 \| Open-source AI Desktop Agent with Permanent Memory & Safe Mode \| Claude Code / Codex / Qoder 平替。基于 OpenClaw / OpenWork / Pi Agent 开发 | ⭐4 | 2mo ago |
 | 🟡 | [novel-studio](https://github.com/chenning9821/novel-studio) | A fully autonomous AI agent for long-form novel generation, built on the pi-mono architecture with an integrated persistent memory system. |  | 1mo ago |
 | 🟡 | [obsidian-axiom-cortex](https://github.com/juliancanaless/obsidian-axiom-cortex) | Obsidian plugin for graph-based knowledge synthesis powered by LightRAG. OAuth bridge (Antigravity, Copilot, Anthropic, Gemini CLI, OpenAI     Codex) with reactive token refresh, multi-step note synthesis with clickable citations, and proactive link discovery. Fork of Neural Composer + pi-mono auth.   |  | 1mo ago |
 | 🟡 | [obsidian-pi-plugin](https://github.com/sigilmakes/obsidian-pi-plugin) | Chat with the Pi coding agent inside Obsidian | ⭐3 | 1mo ago |
@@ -1783,7 +1747,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [pi-agent-just](https://github.com/fuyunfei/pi-agent-just) | Browser-based AI coding playground — pi-coding-agent + just-bash fusion | ⭐3 | 1mo ago |
 | 🟡 | [pi-agent-skill](https://github.com/gary149/pi-agent-skill) | Claude Code skill for invoking the pi coding agent CLI programmatically |  | 2mo ago |
 | 🟡 | [pi-agent-skills-importer](https://github.com/SamuelLHuber/pi-agent-skills-importer) | SamuelLHuber-pi-agent-skills-importer | ⭐3 | 2mo ago |
-| 🟡 | [pi-agent-system](https://github.com/adcwa/pi-agent-system) | 基于 pi-mono 架构的 Agent 系统，支持自我成长、技能沉淀、记忆隔离与安全、一键克隆 |  | 1mo ago |
 | 🟡 | [pi-agentd](https://github.com/PeterBrave/pi-agentd) | the python version of the pi-mono  |  | 2mo ago |
 | 🟡 | [pi-antigravity-quota](https://www.npmjs.com/package/pi-antigravity-quota) | Pi extension to check Google Cloud Code (Antigravity) model quotas. | ⭐3 | 2mo ago |
 | 🟡 | [pi-azure-foundry](https://github.com/landermkerbey/pi-azure-foundry) | Azure Foundry-hosted LLM support for the Pi coding agent |  | 1mo ago |
@@ -1821,7 +1784,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [pi-mono](https://github.com/YounkHo/pi-mono) | YounkHo-pi-mono |  | 1mo ago |
 | 🟡 | [pi-mono](https://github.com/millord237/pi-mono) | millord237-pi-mono |  | 2mo ago |
 | 🟡 | [pi-mono](https://github.com/vietdev99/pi-mono) | vietdev99-pi-mono |  | 2mo ago |
-| 🟡 | [pi-mono](https://github.com/wenyh1/pi-mono) | 测试 |  | 1mo ago |
 | 🟡 | [pi-mono](https://github.com/linxinhong/pi-mono) | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |  | 1mo ago |
 | 🟡 | [pi-mono](https://github.com/sumesh2279/pi-mono) | Pi coding agent fork with daemon & telegram | ⭐1 | 1mo ago |
 | 🟡 | [pi-mono-builds](https://github.com/zm2231/pi-mono-builds) | zm2231-pi-mono-builds |  | 2mo ago |
@@ -1848,9 +1810,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [pi-replicant](https://www.npmjs.com/package/pi-replicant) | Codebase exploration subagent extension for pi using Offworld CLI | ⭐2 | 2mo ago |
 | 🟡 | [pi-rewrite](https://github.com/garciamax/pi-rewrite) | Rewrite selected text using pi-coding-agent |  | 2mo ago |
 | 🟡 | [pi-rlm](https://www.npmjs.com/package/pi-rlm) | Recursive Language Model (RLM) extension for Pi coding agent | ⭐4 | 1mo ago |
-| 🟡 | [pi-rs](https://github.com/moneshvenkul/pi-rs) | 基于pi-mono，rust轻量化版本 | ⭐1 | 1mo ago |
 | 🟡 | [pi-sandbox](https://github.com/abulte/pi-sandbox) | pi coding agent sandbox and harness |  | 1mo ago |
-| 🟡 | [pi-sandbox](https://github.com/bugeshan/pi-sandbox) | 严格限制 Pi Coding Agent 的文件操作范围，对 `rm -rf`、`sudo`、`curl \| sh` 等高危命令强制人工确认的安全扩展。 | ⭐1 | 1mo ago |
 | 🟡 | [pi-scheduler](https://www.npmjs.com/package/pi-scheduler) | Simple scheduled loop/reminder extension for pi | ⭐3 | 1mo ago |
 | 🟡 | [pi-session-tracker](https://github.com/gary149/pi-session-tracker) | Pi skill that monitors running pi agent sessions and produces structured reports |  | 1mo ago |
 | 🟡 | [pi-shadow-git](https://www.npmjs.com/package/pi-shadow-git) | Git-based orchestration logging for pi subagents with Mission Control dashboard | ⭐1 | 2mo ago |
@@ -2060,7 +2020,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [@fnnm/pi-raw-paste](https://www.npmjs.com/package/@fnnm/pi-raw-paste) | One-shot raw paste support for Pi (/paste). |  |  |
 | 🟡 | [@fragno-dev/pi-fragment](https://www.npmjs.com/package/@fragno-dev/pi-fragment) | A Fragno fragment |  |  |
 | 🟡 | [@friendlyrobot/discord-pi-agent](https://www.npmjs.com/package/@friendlyrobot/discord-pi-agent) | Reusable Discord gateway bridge for persistent pi agent sessions |  |  |
-| 🟡 | [@gugu910/pi-slack-bridge](https://www.npmjs.com/package/@gugu910/pi-slack-bridge) | Slack assistant integration for pi (Pinet) — multi-agent broker, thread routing, and inbox tools |  |  |
 | 🟡 | [@guwidoe/pi-web-fetch](https://www.npmjs.com/package/@guwidoe/pi-web-fetch) | pi skill: fetch webpage content as markdown with fallback web search |  |  |
 | 🟡 | [@guwidoe/pi-web-search](https://www.npmjs.com/package/@guwidoe/pi-web-search) | pi skill: web search via DuckDuckGo with optional page content extraction |  |  |
 | 🟡 | [@h4shed/skill-agentic-flow-devkit](https://www.npmjs.com/package/@h4shed/skill-agentic-flow-devkit) | Design and visualize agentic orchestration flows with trailer A/B-roll planning support. |  |  |
@@ -2090,7 +2049,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [@jasonish/pi-default-model](https://www.npmjs.com/package/@jasonish/pi-default-model) | Set a **real** default model |  |  |
 | 🟡 | [@jordyvd/pi-openai-compaction](https://www.npmjs.com/package/@jordyvd/pi-openai-compaction) | OpenAI native standalone compaction replay for Pi. |  |  |
 | 🟡 | [@jrryfn/pi-retune](https://www.npmjs.com/package/@jrryfn/pi-retune) | One-command session renamer toggle for pi (retune/restore). |  |  |
-| 🟡 | [@jwangkun/deep-code](https://www.npmjs.com/package/@jwangkun/deep-code) | 基于 DeepSeek API 的 AI 编程智能体，集成 pi-coding-agent 和生成式 UI |  |  |
 | 🟡 | [@khanhtd36/agent-env](https://www.npmjs.com/package/@khanhtd36/agent-env) | Bootstrap and manage a repo-local Docker-based AI agent coding environment |  |  |
 | 🟡 | [@kvendrik/compact](https://www.npmjs.com/package/@kvendrik/compact) | A context compaction toolkit for pi-ai |  |  |
 | 🟡 | [@lenylvt/pi-ai](https://www.npmjs.com/package/@lenylvt/pi-ai) | Unified LLM API for Anthropic, GitHub Copilot, OpenAI Codex, and OpenRouter |  |  |
@@ -2131,7 +2089,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [@ouhuang/pi-web-ui](https://www.npmjs.com/package/@ouhuang/pi-web-ui) | Reusable web UI components for AI chat interfaces powered by @ouhuang/pi-ai |  |  |
 | 🟡 | [@paidit/pi-schema-types](https://www.npmjs.com/package/@paidit/pi-schema-types) | A collection of custom GraphQL types |  |  |
 | 🟡 | [@patleeman/pi-boy](https://www.npmjs.com/package/@patleeman/pi-boy) | pi-boy: embedded Game Boy emulator inside pi |  |  |
-| 🟡 | [@pisx/pi-design](https://www.npmjs.com/package/@pisx/pi-design) | 湃睿前端组件库vue3版本 |  |  |
 | 🟡 | [@productfactory/agent-supervisor](https://www.npmjs.com/package/@productfactory/agent-supervisor) | A runtime supervisor for ACP-based coding-agent prompts running inside a sandboxed environment. |  |  |
 | 🟡 | [@quadient/skillshare](https://www.npmjs.com/package/@quadient/skillshare) | Skillshare CLI for installing and publishing Quadient skills |  |  |
 | 🟡 | [@rjshrjndrn/pi-fetch](https://www.npmjs.com/package/@rjshrjndrn/pi-fetch) | Web content extraction for pi — fetch any URL as clean Markdown using Defuddle |  |  |
@@ -2146,7 +2103,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [@sap/vscode-cds](https://www.npmjs.com/package/@sap/vscode-cds) | SAP CDS language support as npm library. |  |  |
 | 🟡 | [@sophiasong/home_assistant](https://www.npmjs.com/package/@sophiasong/home_assistant) | AI Agent skill for controlling smart home devices through Home Assistant. Supports Huawei, Orvibo, Xiaomi, Aqara, Tuya and more. |  |  |
 | 🟡 | [@ssweens/pi-compaxxt](https://www.npmjs.com/package/@ssweens/pi-compaxxt) | Enhanced compaction for pi — session context and LLM-ranked important files |  |  |
-| 🟡 | [@ssweens/pi-dynamic-models](https://www.npmjs.com/package/@ssweens/pi-dynamic-models) | Dynamic model discovery for Pi coding agent — fetches models from any configured API server at startup |  |  |
 | 🟡 | [@ssweens/pi-huddle](https://www.npmjs.com/package/@ssweens/pi-huddle) | Huddle mode for pi - safe exploration and structured elicitation before execution |  |  |
 | 🟡 | [@ssweens/pi-qq](https://www.npmjs.com/package/@ssweens/pi-qq) | Quick questions with /qq or /btw — ask the LLM about the current session without affecting the main conversation |  |  |
 | 🟡 | [@stenn/tps-monitor](https://www.npmjs.com/package/@stenn/tps-monitor) | Minimal tokens-per-second display in pi footer |  |  |
@@ -2176,7 +2132,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [claudemon](https://www.npmjs.com/package/claudemon) | Claude Usage Monitor TUI - monitor your Claude usage in real-time |  |  |
 | 🟡 | [clawdhub](https://www.npmjs.com/package/clawdhub) | ClawdHub CLI \u2014 install, update, search, and publish agent skills. |  |  |
 | 🟡 | [clawhub](https://www.npmjs.com/package/clawhub) | ClawHub CLI \u2014 install, update, search, and publish skills plus OpenClaw packages. |  |  |
-| 🟡 | [cnskills](https://www.npmjs.com/package/cnskills) | 中文本地化的 agent skills 生态 CLI（fork of vercel-labs/skills） |  |  |
 | 🟡 | [codegenie-toolbox](https://www.npmjs.com/package/codegenie-toolbox) | CodeGenie Toolbox - AI programming assistant installer |  |  |
 | 🟡 | [component-to-route](https://www.npmjs.com/package/component-to-route) | Traces a React component upward through the import/render graph to find all Next.js routes where it appears. Answers the question: **where should I go test this component?** |  |  |
 | 🟡 | [cpa-agents](https://www.npmjs.com/package/cpa-agents) | Concurrent Process Algebra for AI Agents — π-calculus primitives for Pi Harness and OpenClaw |  |  |
@@ -2189,14 +2144,11 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [hearback-core](https://www.npmjs.com/package/hearback-core) | Core library for hearback — schema, GitHub API, mailing list, duplicate detection, issue formatting |  |  |
 | 🟡 | [homebridge-esphome-mtr1](https://www.npmjs.com/package/homebridge-esphome-mtr1) | Homebridge plugin for ESPHome Apollo MTR-1 mmWave multi-sensor with presence, motion, light, temperature, and pressure detection |  |  |
 | 🟡 | [htmlshop](https://www.npmjs.com/package/htmlshop) | Local visual editor for HTML design files - click to edit text, typography, and layout. |  |  |
-| 🟡 | [indyiq-pi-mcp](https://www.npmjs.com/package/indyiq-pi-mcp) | MCP server exposing OSIsoft PI Web API as read-only tools for Claude |  |  |
 | 🟡 | [just-scrape](https://www.npmjs.com/package/just-scrape) | ScrapeGraph AI CLI tool |  |  |
 | 🟡 | [knowledge-builder-extension](https://github.com/Dwsy/knowledge-builder-extension) | Autonomous knowledge base generation using natural language and Ralph Loop technique for Pi Agent |  | 3mo ago |
 | 🟡 | [koishi-plugin-pi-ai](https://www.npmjs.com/package/koishi-plugin-pi-ai) | Chat with Pi.AI in your Koishi |  |  |
-| 🟡 | [koishi-plugin-pi-ai-plus-pro-max-ultra-powerful-mate-bt](https://www.npmjs.com/package/koishi-plugin-pi-ai-plus-pro-max-ultra-powerful-mate-bt) | 对接 pi.ai  |  |  |
 | 🟡 | [memax-cli](https://www.npmjs.com/package/memax-cli) | CLI for Memax — universal context & memory hub for AI agents |  |  |
 | 🟡 | [mramma-cli](https://www.npmjs.com/package/mramma-cli) | mramma — A powerful autonomous coding agent for your terminal |  |  |
-| 🟡 | [mtskills-cli](https://www.npmjs.com/package/mtskills-cli) | 美团开放平台 Skills 安装工具 |  |  |
 | 🟡 | [nowledge-mem-pi](https://www.npmjs.com/package/nowledge-mem-pi) | Cross-tool memory for Pi. Recall past decisions, search knowledge from every AI tool, and save what matters. |  |  |
 | 🟡 | [oh-pi](https://www.npmjs.com/package/oh-pi) | One-click setup for pi-coding-agent. Like oh-my-zsh for pi. |  |  |
 | 🟡 | [pi-2048](https://www.npmjs.com/package/pi-2048) | 2048 sliding tile puzzle for pi coding agent |  |  |
@@ -2246,7 +2198,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [pi-flow-enforcer](https://www.npmjs.com/package/pi-flow-enforcer) | Enforces a strict workflow in pi.dev sessions: |  |  |
 | 🟡 | [pi-for-excel-proxy](https://www.npmjs.com/package/pi-for-excel-proxy) | One-command local HTTPS proxy helper for Pi for Excel OAuth logins. |  |  |
 | 🟡 | [pi-freecad](https://www.npmjs.com/package/pi-freecad) | Drive FreeCAD from pi with natural language. Create 3D shapes, open and modify .FCStd files, export to STEP/IGES/STL/DXF, and batch-convert entire folders. |  |  |
-| 🟡 | [pi-front-common-toolkits](https://www.npmjs.com/package/pi-front-common-toolkits) | 通用工具包 |  |  |
 | 🟡 | [pi-frontend](https://www.npmjs.com/package/pi-frontend) | There is no such thing. |  |  |
 | 🟡 | [pi-gen](https://www.npmjs.com/package/pi-gen) | Pingendo static site generator |  |  |
 | 🟡 | [pi-generative-ui](https://www.npmjs.com/package/pi-generative-ui) | Generative UI for pi — render interactive HTML/SVG widgets in native macOS windows via Glimpse |  |  |
@@ -2340,16 +2291,13 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [psm-bridge](https://www.npmjs.com/package/psm-bridge) | Bridge Pi agent sessions to Pi Session Manager — session sync, tagging, search, and live mode. |  |  |
 | 🟡 | [qa-ai-toolkit](https://www.npmjs.com/package/qa-ai-toolkit) | QA and testing skills for Cursor IDE: systematic debugging, code review, verification, Postman test suites, Newman CI/CD execution, Playwright UI testing, test planning, Vitest/Jest unit testing, requirements-based test case generation (FSD/PRD/BRS), and  |  |  |
 | 🟡 | [repeat-pi](https://www.npmjs.com/package/repeat-pi) | Repeat tool calls in pi-coding-agent |  |  |
-| 🟡 | [second-brain-cli](https://www.npmjs.com/package/second-brain-cli) | 五层认知架构 Agent Skills — 知识萃取与上下文加载 |  |  |
 | 🟡 | [skillspace](https://www.npmjs.com/package/skillspace) | SkillSpace CLI \u2014 install, update, search, and publish agent skills. |  |  |
 | 🟡 | [superpi](https://www.npmjs.com/package/superpi) | SuperVisor System v2 — long-running task orchestration for pi.dev via Plan → Execute → Verify |  |  |
 | 🟡 | [swagger-sentinel](https://www.npmjs.com/package/swagger-sentinel) | Opinionated OpenAPI 3.x validator and test generator with a 130-point checklist |  |  |
 | 🟡 | [thincontext](https://www.npmjs.com/package/thincontext) | Drop-in middleware to compress LLM context before it hits the API |  |  |
 | 🟡 | [tuyoo-devflow](https://www.npmjs.com/package/tuyoo-devflow) | Tuyoo DevFlow CLI for Jenkins and pipeline automation |  |  |
 | 🟡 | [ultima-harness](https://www.npmjs.com/package/ultima-harness) | Autonomous build pipeline with mechanical enforcement for Claude Code projects |  |  |
-| 🟡 | [Website-Pi-Monoprix-Amine](https://github.com/gaddour1/Website-Pi-Monoprix-Amine) | gaddour1-Website-Pi-Monoprix-Amine |  |  |
 | 🟡 | [wezterm-pi-helper](https://www.npmjs.com/package/wezterm-pi-helper) | Fixes WezTerm keyboard issues on WSL2 |  |  |
-| 🟡 | [yishan-agent](https://www.npmjs.com/package/yishan-agent) | Yishan Agent - 自学习 AI Agent CLI 工具 |  |  |
 | 🟡 | [zama-fhevm-skill](https://www.npmjs.com/package/zama-fhevm-skill) | Installable FHEVM skill pack for AI coding tools (Claude, Codex/AGENTS, Cursor, Windsurf). |  |  |
 | 🟡 | [@avadisabelle/ava-pi-agent-core](https://www.npmjs.com/package/@avadisabelle/ava-pi-agent-core) | General-purpose agent with transport abstraction, state management, and attachment support |  | 4d ago |
 | 🟡 | [@dannote/pi-agent](https://www.npmjs.com/package/@dannote/pi-agent) | Coding agent CLI with read, bash, edit, write tools and session management |  | 6d ago |
@@ -2436,7 +2384,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [dotfiles](https://github.com/jskontorp/dotfiles) | unified config for macOS and Linux VM, pi agent skills, and project-specific tooling |  | 2d ago |
 | 🟢 | [dotpi](https://github.com/arjun-zosma/dotpi) | my pi coding agent setup — themes, prompts, and opinions included |  | 24d ago |
 | 🟢 | [dotpi](https://github.com/speniti/dotpi) | Personal pi coding agent setup — extensions, skills, themes, and prompts. Like dotfiles, but for pi. |  | 3d ago |
-| 🟢 | [math-skill](https://www.npmjs.com/package/math-skill) | 数学思想武器：将数学思维应用到科研和生活中。Mathematical Thinking Weapons: Apply Mathematical Thinking to Research and Daily Life. | ⭐1 | 8d ago |
 | 🟢 | [nanoPencil](https://github.com/O-Pencil/nanoPencil) | CLI writing agent with read, bash, edit, write tools and session management. Based on pi; supports DashScope Coding Plan. Soul enabled by default for AI personality evolution. | ⭐1 | yesterday |
 | 🟢 | [odincode](https://github.com/chron/odincode) | ⚡ ODINCODE — a pi coding agent persona. Senior engineer & architect. Clean code. Strong foundations. No shortcuts. | ⭐2 | 8d ago |
 | 🟢 | [pcaropi](https://github.com/pcaro/pcaropi) | Skills, extensions, and themes for the Pi coding agent |  | 18d ago |
@@ -2459,13 +2406,13 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-stuff](https://github.com/LeonardoDaviti/pi-stuff) | My personal collection of skills, extensions, themes and tool for pi agent. |  | 12d ago |
 | 🟢 | [pi-theme-designer](https://github.com/letoh/pi-theme-designer) | A web application for designing and exporting theme JSON files following the pi-mono specification. | ⭐2 | 10d ago |
 | 🟢 | [pi-theme-flexoki](https://www.npmjs.com/package/pi-theme-flexoki) | Flexoki theme for Pi coding agent - an inky color scheme for prose and code |  | 18d ago |
-| 🟢 | [pi-theme-support](https://github.com/BrenLong/pi-theme-support) | Pi coding agent setup for Shopify Theme Support advisors |  | yesterday |
+| 🟢 | [pi-theme-support](https://github.com/BrenLong/pi-theme-support) | Pi coding agent setup for Shopify Theme Support advisors |  | 2d ago |
 | 🟢 | [pi-theme-switcher](https://github.com/codewithkenzo/pi-theme-switcher) | Runtime theme switching and preview for the Pi coding agent. 10+ built-in palettes. |  | 5d ago |
 | 🟢 | [pi-thinking](https://www.npmjs.com/package/pi-thinking) | Muted, themed rendering for thinking blocks in pi. |  | 8d ago |
 | 🟢 | [pi-tokyo-night-storm](https://www.npmjs.com/package/pi-tokyo-night-storm) | Tokyo Night Storm theme for pi coding agent |  | 26d ago |
 | 🟢 | [pi-workstation](https://github.com/Quicksandprotiumguianense974/pi-workstation) | Extend pi coding agent with custom themes, a music player, a knowledge graph, and AI companion tools for a richer workstation |  | 2d ago |
 | 🟢 | [pi-zentui](https://www.npmjs.com/package/pi-zentui) | A Starship-inspired statusline and Opencode-style TUI for Pi. | ⭐1 | 15d ago |
-| 🟢 | [sentinel-pi](https://github.com/hsohn420420-cmyk/sentinel-pi) | SENTINEL – Self-Evolving Neural Terminal Interface Layer for Pi Coding Agent. AIO documentation, extensions, skills, themes. |  | yesterday |
+| 🟢 | [sentinel-pi](https://github.com/hsohn420420-cmyk/sentinel-pi) | SENTINEL – Self-Evolving Neural Terminal Interface Layer for Pi Coding Agent. AIO documentation, extensions, skills, themes. |  | 2d ago |
 | 🟢 | [theredbeard-pi-agent](https://github.com/larsderidder/theredbeard-pi-agent) | Personal pi coding agent package — extensions, skills, and themes | ⭐2 | 16d ago |
 | 🟡 | [pi-skill-palette](https://www.npmjs.com/package/pi-skill-palette) | VS Code-style command palette for selecting and applying skills in pi | ⭐66 | 2mo ago |
 | 🟡 | [oh-pi](https://github.com/telagod/oh-pi) | One-click setup for pi-coding-agent with ant colony swarm. Like oh-my-zsh for pi. | ⭐64 | 1mo ago |
@@ -2575,7 +2522,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [wgnr-pi](https://github.com/wgnr-ai/wgnr-pi) | The most feature-rich web interface for Pi Coding Agent. Session archive & restore, model picker with search, thinking level control, image paste & attach, slash command palette, full Markdown rendering, mobile PWA, and macOS auto-start. No build step. No framework. 4 dependencies. | ⭐13 | 2d ago |
 | 🟢 | [@0xkobold/pi-orchestration](https://www.npmjs.com/package/@0xkobold/pi-orchestration) | Agnostic subagent orchestration for pi-coding-agent. Supports single, chain, parallel, and fork execution modes with depth limiting and worktree isolation. | ⭐1 | 16d ago |
 | 🟢 | [@b.neil/pi-extension-cloudflare-workers-ai](https://www.npmjs.com/package/@b.neil/pi-extension-cloudflare-workers-ai) | An extension for pi to use cloudflare workers ai |  | 12d ago |
-| 🟢 | [@blackbelt-technology/pi-model-proxy](https://www.npmjs.com/package/@blackbelt-technology/pi-model-proxy) | Pi extension that exposes pi's authenticated models as a local OpenAI-compatible and Anthropic-compatible API server |  | 21d ago |
 | 🟢 | [@burneikis/pi-fzfp](https://www.npmjs.com/package/@burneikis/pi-fzfp) | Fuzzy file picker for pi – fzf-powered @file autocomplete | ⭐2 | 12d ago |
 | 🟢 | [@burneikis/pi-web-search](https://www.npmjs.com/package/@burneikis/pi-web-search) | A claude native web search plugin for Pi. |  | 27d ago |
 | 🟢 | [@cirthan/pi-cirthan-provider](https://www.npmjs.com/package/@cirthan/pi-cirthan-provider) | Pi provider package for the Cirthan API. |  | 15d ago |
@@ -2640,10 +2586,9 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-extension-raptor-mini](https://www.npmjs.com/package/pi-extension-raptor-mini) | pi extension that adds GitHub Copilot's Raptor Mini (oswe-vscode-prime) model to pi's github-copilot provider. |  | 11d ago |
 | 🟢 | [pi-fallback-provider](https://www.npmjs.com/package/pi-fallback-provider) | Model fallback chain extension for pi — automatic retry and failover across AI providers |  | 7d ago |
 | 🟢 | [pi-fast-mode](https://www.npmjs.com/package/pi-fast-mode) | Persistent fast-mode toggle for pi that injects service_tier for configured provider/model pairs. |  | 9d ago |
-| 🟢 | [pi-featherless](https://github.com/CodeDoes/pi-featherless) | pi-package: Featherless AI provider for pi coding agent with accurate tokenization |  | 14d ago |
+| 🟢 | [pi-featherless](https://github.com/CodeDoes/pi-featherless) | pi-package: Featherless AI provider for pi coding agent with accurate tokenization |  | 15d ago |
 | 🟢 | [pi-find-skills](https://github.com/leandr0ck/pi-find-skills) | Extension for Pi coding agent.  Search, discover, and install AI agent skills from different providers. | ⭐2 | 26d ago |
 | 🟢 | [pi-fireworks](https://www.npmjs.com/package/pi-fireworks) | Fireworks AI provider extension package for pi |  | today |
-| 🟢 | [pi-gateway](https://github.com/wusimpl/pi-gateway) | pi code agent 的 24小时消息网关，目前支持飞书消息渠道 |  | 2d ago |
 | 🟢 | [pi-go](https://github.com/meganerd/pi-go) | Go rewrite of pi coding agent — LLM-powered coding assistant |  | 21d ago |
 | 🟢 | [pi-internet](https://github.com/JJGO/pi-internet) | No nonsense web search and content fetching for pi coding agent | ⭐1 | 5d ago |
 | 🟢 | [pi-kimi-code](https://github.com/dpolishuk/pi-kimi-code) | Moonshot AI Kimi K2.5 provider extension for pi coding agent |  | 25d ago |
@@ -2662,7 +2607,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-neuralwatt](https://www.npmjs.com/package/pi-neuralwatt) | Neuralwatt provider for pi — auto-discovers models, energy usage tracking, and account quota in your status bar |  | 6d ago |
 | 🟢 | [pi-nvidia-extension](https://github.com/lutfi-zain/pi-nvidia-extension) | NVIDIA NIM provider extension for pi-coding-agent with /login support |  | 5d ago |
 | 🟢 | [pi-ollama-cloud](https://github.com/fgrehm/pi-ollama-cloud) | Ollama Cloud plugin for Pi coding agent (API Key based) | ⭐3 | 3d ago |
-| 🟢 | [pi-ollama-keyring](https://www.npmjs.com/package/pi-ollama-keyring) | Ollama cloud provider for pi-coding-agent with multi-key rotation, live model discovery, and persistent key-pool management | ⭐1 | 14d ago |
+| 🟢 | [pi-ollama-keyring](https://www.npmjs.com/package/pi-ollama-keyring) | Ollama cloud provider for pi-coding-agent with multi-key rotation, live model discovery, and persistent key-pool management | ⭐1 | 15d ago |
 | 🟢 | [pi-opencode](https://www.npmjs.com/package/pi-opencode) | OpenCode provider extension for pi coding agent — Zen and Go models | ⭐2 | 6d ago |
 | 🟢 | [pi-playground](https://github.com/serejke/pi-playground) | Hands-on playground for the pi coding agent's core primitives (pi-ai, pi-agent-core, pi-tui). Demos + a twitter-research CLI. |  | yesterday |
 | 🟢 | [pi-provider-koji](https://www.npmjs.com/package/pi-provider-koji) | Pi agent extension for koji local AI server auto-discovery and model configuration |  | 5d ago |
@@ -2701,7 +2646,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [tachi-code-reviewer](https://github.com/viriciaclaw/tachi-code-reviewer) | @tachi/code-reviewer — A2A-compliant code review agent built on pi-agent-core |  | 16d ago |
 | 🟢 | [temporal-pi-tui](https://github.com/gregmercer/temporal-pi-tui) | A music-obsessed AI agent in your terminal. Built using pi-mono packages. |  | 21d ago |
 | 🟢 | [tokely](https://www.npmjs.com/package/tokely) | CLI for generating yearly usage heatmaps for Claude Code, Codex, Cursor, Gemini CLI, Open Code, and Pi Coding Agent. |  | 18d ago |
-| 🟢 | [xclaw](https://github.com/xy200303/xclaw) | xclaw：一个用TypeScript、Bun和pi-mono构建的AI助手CLI | ⭐1 | 2d ago |
 | 🟡 | [pi-voice](https://www.npmjs.com/package/pi-voice) | Voice interface for pi coding agent | ⭐45 | 2mo ago |
 | 🟡 | [@netandreus/pi-cursor-provider](https://www.npmjs.com/package/@netandreus/pi-cursor-provider) | Pi Coding Agent custom provider that routes requests through the Cursor Agent CLI — use your Cursor subscription models (Claude, GPT, Gemini, Grok…) inside Pi. | ⭐17 | 2mo ago |
 | 🟡 | [pi-mono-python](https://github.com/openxjarvis/pi-mono-python) | Python port of pi-mono: fully-aligned coding agent with TUI, ai, agent, and coding-agent packages | ⭐15 | 1mo ago |
@@ -2833,10 +2777,8 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Pi: The Best Coding Agent You've (Probably) Never Heard Of](https://www.youtube.com/watch?v=IJe9CabMeTk) — Ben Davis (37,441 views)
 - [Pi's Advantage Over Claude Code Is Insane](https://www.youtube.com/watch?v=Mnvk9gK4e9A) — Eric Michaud (49,435 views)
 - [Suddenly Local AI Is Impossible to Ignore (But There's a Catch)](https://www.youtube.com/watch?v=BNL5k84CIAg) — lustoykov (58,439 views)
-- [أخبار الذكاء الاصطناعي 🚀 | 84 | الذكاء الاصطناعي السري الذي أرعب صناعه 😱 + هدايا لمتابعينا!](https://www.youtube.com/watch?v=CqdCNkxzzP0) — Python Arabic Community (41,517 views)
 - [Don't sleep on the Pi agent, it solves the sandbox problem](https://www.youtube.com/watch?v=1ZsFjM6yZGI) — marimo (13,375 views)
 - [Pi Coding Agent - Interviewing the Creator of Openclaws core ](https://www.youtube.com/watch?v=vXyerrv8ohw) — 0xSero (11,585 views)
-- [PI CODING AGENT - ЧТО ЭТО? Минималистичный CLI для разработки](https://www.youtube.com/watch?v=2s573tu8B7M) — NullsCode (8,928 views)
 - [Pi Coding Agent + Archon: Build ANY AI Coding Workflow (No Claude Code Bloat)](https://www.youtube.com/watch?v=XSmI7OYd7iM) — Cole Medin (13,154 views)
 - [pi-computer-use: a Pi CLI integration that lets your agent control your applications](https://www.youtube.com/watch?v=dnrzAT-FtGY) — Github Awesome (13,444 views)
 - [I Found the Vim of AI Coding Agents](https://www.youtube.com/watch?v=XzZgLDL0wZY) — chantastic (12,120 views)
@@ -2844,10 +2786,8 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Pi Agent Creator on future of Agentic Coding](https://www.youtube.com/watch?v=PZ-sko1NWa0) — Mayank Gupta (8,565 views)
 - [Pi Coding Agent](https://www.youtube.com/watch?v=O-96yYDPMOc) — DevOnDuty (8,093 views)
 - [This Obsidian System Runs All Your Apps (Codex)](https://www.youtube.com/watch?v=VZ5zaaFjqGg) — Eric Michaud (6,904 views)
-- [Mimo V2.5 Pro ТЕСТ! От Xiaomi AI. Тестируем](https://www.youtube.com/watch?v=_W9sNsYFTrs) — NullsCode (5,859 views)
 - [Claude Code is overkill - Pi is All you Need](https://www.youtube.com/watch?v=AEmHcFH1UgQ) — Syntax (54,631 views)
 - [Goose Is Destroying Pi.dev and Claude Code](https://www.youtube.com/watch?v=yAx8-_IYdWI) — DIY Smart Code (32,249 views)
-- [OpenClaw - где там МАГИЯ и как сделать свою](https://www.youtube.com/watch?v=MxvmeoAnnj0) — Roman Kubar (51,957 views)
 - [OpenClaw Creator: Why 80% Of Apps Will Disappear](https://www.youtube.com/watch?v=4uzGDAoNOZc) — Y Combinator (970,797 views)
 - [OpenCode vs Claude Code: The Truth About Cost vs Quality](https://www.youtube.com/watch?v=OSaq_WHFUGk) — Rob Shocks (61,665 views)
 - [Pi CEO Agents. Claude 1M Context. Multi-Agent Teams.](https://www.youtube.com/watch?v=TqjmTZRL31E) — IndyDevDan (25,654 views)
@@ -2865,7 +2805,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [OpenClaw arbeitet jetzt für mich! so funktioniert es (Schritt für Schritt)](https://www.youtube.com/watch?v=5G3qHkYIGGM) — Benjamin Thorstensen (8,120 views)
 - [Pi Coding Agent - Visual Plan Mode Extension](https://www.youtube.com/watch?v=XqFun9XCXPw) — Michael (8,885 views)
 - [Short Demo of my Pi Todo Extension](https://www.youtube.com/watch?v=uPR7aAneg2U) — Armin Ronacher (7,444 views)
-- [バイブコーディングでiOSアプリを開発するサービス【Rork】エンジニアに直接質問しまくってみた](https://www.youtube.com/watch?v=3Wd2ETSa3Y0) — Kyohei - OSS, 外資IT (7,446 views)
 - [Gemma 4 with Pi Coding Agent & llama.cpp | Build LLM Resource Calculator with NextJS | 🔴 Live](https://www.youtube.com/watch?v=ttklS6Yp0O8) — Venelin Valkov (3,581 views)
 - [Have you heard these exciting AI news? - April 03, 2026 AI Updates Weekly](https://www.youtube.com/watch?v=R6Ue66Zitqo) — Lev Selector (2,289 views)
 - [How to Use Pi as a Coding Agent (Standalone + SDK Basics)](https://www.youtube.com/watch?v=hV_hnPJ2r6k) — Vilson Vieira (2,652 views)
@@ -2891,7 +2830,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [How Pi Mono Actually Works in Your App](https://www.youtube.com/watch?v=lWbEq1dEqKg) — Michael Jamieson (238 views)
 - [How Pi Mono Actually Works: The Shared Agent Stack Behind Pi](https://www.youtube.com/watch?v=YOuKskmEosQ) — Michael Jamieson (475 views)
 - [Pi Agent + a Real Browser = This Is What Happened](https://www.youtube.com/watch?v=c9292MtK8EA) — Steel Browser (271 views)
-- [给 AI 应用接入 ChatGPT 订阅登录 - OpenClaw Hermes 都在用](https://www.youtube.com/watch?v=JZuo4KfqXHA) — 01Coder (403 views)
 - [20260414.1: https web_fu day 25](https://www.youtube.com/watch?v=UbZiqdZGMcE) — jason is computering
 - [20260415.1: https web_fu day 26](https://www.youtube.com/watch?v=7s1fxe-HoYU) — jason is computering
 - [23 April 2026](https://www.youtube.com/watch?v=F5iIztPOTso) — Vibe Coding ID (41 views)
@@ -2909,17 +2847,14 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Is PI Better Than OpenCode For AI Coding?](https://www.youtube.com/watch?v=C5wEcJRo_VA) — AI Automation Station (19 views)
 - [Kimi K2.6 is INSANE with These AI Agents (OpenClaw, Hermes, Pi, OpenCode)](https://www.youtube.com/watch?v=0JJ8TMguDMg) — Panda Making Money (127 views)
 - [OpenClaw — Your AI. Your Devices. Your Way.](https://www.youtube.com/watch?v=9yUdjjYPQ18) — 刘泽风Zephyr (5 views)
-- [OpenClaw徹底解説 - 自律型AIエージェントが切り拓くオープンソースの未来](https://www.youtube.com/watch?v=Bmh6sJCDbLE) — まろん (56 views)
 - [Pi - De la Caja Negra al Kit de Herramientas de IA](https://www.youtube.com/watch?v=_JO6oDESRRQ) — Da-Tica (4 views)
 - [Pi + Qwen 3.6 27B vs. Indiana Jones and the Fate of Atlantis demo](https://www.youtube.com/watch?v=dust0_XYxN8) — Xavier Hardy (13 views)
 - [Pi Coding Agent - Oneshot Updating an Extension with Pi - CLI Streaming Mode (pi -p --stream=all)](https://www.youtube.com/watch?v=BILOFt4a50k) — Lotus Creation Concepts (45 views)
 - [Pi Coding Agent — AI Agent Spotlight](https://www.youtube.com/watch?v=mlPuvCB0ZeQ) — AI Agent Store (16 views)
-- [Pi Coding Agent + Archon: Как создать свой AI-кодовый workflow без излишеств](https://www.youtube.com/watch?v=HBvemPJG-zs) — AI Практика Pro (22 views)
 - [PI-AGENT Local LLM agentic benchmark: Gemma4-26B-A4B vs Qwen3.5-35B-A3B (NOTHINK)](https://www.youtube.com/watch?v=lhtkqvKbgto) — Luigi Tech (175 views)
 - [pi-mono - GitHub Trending Today](https://www.youtube.com/watch?v=c4onFBGu260) — GitHub Trending Digest (99 views)
 - [PI-MONO is changing AI forever #shorts #opensource](https://www.youtube.com/watch?v=ai50Lc0tlcI) — OpenForge (17 views)
 - [pi-reviewer: a pi coding agent extension to review pull requests via voice](https://www.youtube.com/watch?v=6MYOhD_XytA) — 6etime with Arnav (82 views)
-- [Raspberrypi: Why is UART-USB link inserting many unexpected bytes when using /dev/serial0 with de...](https://www.youtube.com/watch?v=g7uNNFlen5s) — Peter Schneider (1 views)
 - [slow the f*** down by creator of the pi agent](https://www.youtube.com/watch?v=Rzgr4ixDzaw) — Centroid of Outliers | Hamed (67 views)
 - [Smart Pi Assistant | Daytona | Convex | Pi Agent](https://www.youtube.com/watch?v=4lPLKUCL4Qw) — AN_Swapnil (19 views)
 - [Super Mario 2011 World λ | Part 1 🌋](https://www.youtube.com/watch?v=NGJHTRFepkI) — ArsenSMB (40 views)
@@ -2929,23 +2864,16 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Vibe LawTube #26: Suing OR Governor Kotek  & 4J over Pride indoctrination & EO smartphone ban day 1](https://www.youtube.com/watch?v=q_ovLpli0W4) — Freedom Government
 - [What's Inside an AI Agent? Harness engineering with Pi-mono | AI Engineer Foundation Europe](https://www.youtube.com/watch?v=9ls8kPvbNW4) — AI Engineer Foundation Europe (99 views)
 - [Your Own Perplexity Deep Search Tool Using Pi Coding Agent](https://www.youtube.com/watch?v=yqwT5sGSlJk) — Lotus Creation Concepts (65 views)
-- [А ты знал, что можно создать свой AI-агент за 5 минут? 🔥 #Shorts](https://www.youtube.com/watch?v=hZmRGdvDtPE) — GitShortAi (8 views)
-- [Лекція 16: екосистема ШІ. Розробка ШІ в ігрових застосунках" кафедри ПЗ Львівської Політехніки](https://www.youtube.com/watch?v=KfsZqd-VAoI) — Sentient Arms (53 views)
 - [Code ANYTHING for FREE Forever with Pi Agent + Ollama](https://www.youtube.com/watch?v=lD0CYcKUfpA) — Julian Goldie Rundown (3,737 views)
-- [GitLab + Vue.js 3: оптимизируем сборку](https://www.youtube.com/watch?v=0_LP9A1ZDJc) — JavaScript.Ninja (3,275 views)
 - [METE'L ATÈ // Obia le Chef x Doomin](https://www.youtube.com/watch?v=UVjcM3lsLcc) — Obia le Chef (18,185 views)
 - [Top Dev Tool Projects : aios-core, Mastra, LikeC4, Pgrok, Ocrbase & Kumo](https://www.youtube.com/watch?v=wovN2rIYdNA) — ManuAGI - AutoGPT Tutorials (2,189 views)
 - [opencode vs pi agent. simple benchmark with Local LLM.](https://www.youtube.com/watch?v=A_fvWhL-NIQ) — Luigi Tech (2,433 views)
 - [Twitter Stream: Evening Vibes Pi Extension 1080p](https://www.youtube.com/watch?v=UcJ3tdW9iTA) — Armin Ronacher (2,207 views)
-- [拒絕被 LLM 廠商綁架！pi-mono 提供統一 API，讓你自由切換 OpenAI/Google/Anthropic 模型](https://www.youtube.com/watch?v=TvyOeMkimto) — GitCovery (2,015 views)
-- [腾讯云推出 Coding Plan【AI 早报 2026-03-07】](https://www.youtube.com/watch?v=S9b5HyS--CA) — 橘鸦Juya (1,559 views)
 - [Pi Coding Agent, Dark Factories & the Furniture Makers of Carolina](https://www.youtube.com/watch?v=-uB0KVAQIM8) — Artificial Developer Intelligence (1,403 views)
 - [An Tribute to Pi 🥧 #pi  #coding #math](https://www.youtube.com/watch?v=ci1pC3G6PIg) — PictureThisCoding (1,042 views)
 - [Deep Dive w/Scott: LLM Agents + CircuitPython #pi-coding-agent #codex #claudecode #adafruit](https://www.youtube.com/watch?v=iqcNcdsrOgA) — Adafruit Industries (768 views)
 - [Pi Coding Agent: The Unrestricted Alternative to Claude Code](https://www.youtube.com/watch?v=KMTcJX89jFI) — Zero Code Devs (967 views)
 - [🔴 Cloudflare Shrunk 2 Million Tokens to 1,000 but MCPs Still Have a Problem](https://www.youtube.com/watch?v=LqvTE_uVYec) — DevOps Paradox (266 views)
-- [11.Pi Agent 런타임 완벽 가이드](https://www.youtube.com/watch?v=2ux5iHlj1JI) — Codedeck (301 views)
-- [AI 에이전트 개발, 이제 pi-mono로 초간단!](https://www.youtube.com/watch?v=tgKSE8pgNdU) — Repocast | GitHub 일일 브리핑 (544 views)
 - [badlogic/pi-mono - Gource visualisation](https://www.youtube.com/watch?v=2KInP-f2cCQ) — Gourcer (377 views)
 - [Github Trends Daily: Pi Mono: The AI Agent Toolkit That Does Everything](https://www.youtube.com/watch?v=XpoUTtoQAeY) — GithubTrends (306 views)
 - [How to install PI Coding Agent on Windows 11](https://www.youtube.com/watch?v=vkTOC7T-LU4) — Adam Tech (436 views)
@@ -2954,10 +2882,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Pi-Mono : Minimalist AI Coding Agent & Toolkit (Review)](https://www.youtube.com/watch?v=cCzPb4NeazQ) — Blueprint Bytes (676 views)
 - [Trying out pi-coding-agent and Codex | Porting TinyWiki to CircuitPython](https://www.youtube.com/watch?v=7yE6qQKoYlA) — foamyguy (363 views)
 - [Why Open-Source Coding CLIs Are The Best](https://www.youtube.com/watch?v=gcyPpwNK3uw) — Tech With Turis (245 views)
-- [#10.Moltbot Templates](https://www.youtube.com/watch?v=SC6bNWcFqZY) — n1ch01as (36 views)
-- [#gajae #openclawseoul#instructkr #sionicai 윤주운](https://www.youtube.com/watch?v=V1DkYLjO__8) — 나무늘보-79 (28 views)
 - [12 Trending GitHub Projects This Week | February 2026 #github #coding #opensource](https://www.youtube.com/watch?v=OV-Tzw0zAkg) — TechWealth Hub (47 views)
-- [2026.02.16 pi.dev - 확장이 자유로운 터미널 코딩 에이전트 핵심 가이드 - Pi  틀을 깨는 코딩 에이전트](https://www.youtube.com/watch?v=l6-OeDzNVSQ) — Ki-jung Kim (akaslany) (65 views)
 - [Agent Harnesses, Stripe's Minions & Open Source Acqui-hires (Ep. 3)](https://www.youtube.com/watch?v=lkOt1cMQ5EM) — Nick Tries (103 views)
 - [AI News: tmustier/pi-for-excel: Experimental Excel sidebar agent add-in. Multi-model. Powered by Pi.](https://www.youtube.com/watch?v=jXLKG9iPKiE) — Code Rush (3 views)
 - [AI Written Device Drivers](https://www.youtube.com/watch?v=0Mc_kWhPMYA) — The AI First Show (53 views)
@@ -2981,10 +2906,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Invest in Pluto7 on Republic today](https://www.youtube.com/watch?v=AtB39flptEw) — Pluto7 Insights - Customer Centric Supply Chain (17 views)
 - [Jaives AI Agent auf Mac](https://www.youtube.com/watch?v=MTaLEOYUgus) — Bernard (62 views)
 - [Nvidia Ecosystem: Why Chip Switching Is So Costly #shorts](https://www.youtube.com/watch?v=cLE7J7adku4) — Pallavi Sehgal (18 views)
-- [OpenClaw 運作原理與基本設定完全解析｜How it works、Quick Start、Dashboard、設定檔一次看懂](https://www.youtube.com/watch?v=0ToWRjrHJts) — 竑龍老師教室 (113 views)
-- [OpenClaw深度解读01  你的全天候私人AI助理](https://www.youtube.com/watch?v=1mzRKqY3bD0) — 兰台问道 (207 views)
-- [OpenClaw深度解读02  5分钟极速安装](https://www.youtube.com/watch?v=thSDnnnQ7iI) — 兰台问道 (17 views)
-- [pi coding agent](https://www.youtube.com/watch?v=fNPQ1WIpGdo) — AI in the Whitebox - データサイエンスに関わる気になる話題をやさしく解説 (78 views)
 - [Pi Coding Agent Custom Theme and Animated Gif During Thought](https://www.youtube.com/watch?v=28MLpm4NSBs) — Dara Jeffus (29 views)
 - [pi mono with golo tools called by skills](https://www.youtube.com/watch?v=_EaNkhlV9cQ) — Philippe Charrière (38 views)
 - [pi-mono golo golo skills](https://www.youtube.com/watch?v=pLsUWnVdbkA) — Philippe Charrière (7 views)
@@ -2994,17 +2915,12 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [The AI PI-Lite is INSANE 🔥](https://www.youtube.com/watch?v=mTnAvCJ7zA4) — Jaxski (5,894 views)
 - [This Repo Has 5.4K Stars | pi-mono #github #coding #opensource](https://www.youtube.com/watch?v=0cBr6WVt1t8) — TechWealth Hub (47 views)
 - [Your Daily Tech News -  2026 02 26](https://www.youtube.com/watch?v=FZesbD7WGaA) — Your Daily Tech News (28 views)
-- [從 demo 到可靠運行的坑：OpenClaw Pi SDK 架構文件的誠實告白](https://www.youtube.com/watch?v=GmFFcf3gskQ) — 思思主播 (23 views)
-- [现在别部署 OpenClaw：26% 社区技能有漏洞](https://www.youtube.com/watch?v=5xhtWkNOVV4) — 智用 (1 views)
 - [Black Heiress falls in love with her Undercover Bodyguard ](https://www.youtube.com/watch?v=cnfpfIjdYwY) — African Tales By Ibe (3,593 views)
 - [My top 3 AI tools for 2026 (Opencode, Pi, vllm-studio)](https://www.youtube.com/watch?v=DPzrBSuzkho) — 0xSero (1,051 views)
 - [#58 Mario Zechner - Pi, Clawdbot/OpenClaw, and Music](https://www.youtube.com/watch?v=Jp_pCcbpXPw) — 0xSero (753 views)
 - [eddo skill for pi-coding-agent teaser](https://www.youtube.com/watch?v=jiWS9pP_cX0) — Walter Rafelsberger (226 views)
 - [GPT-5.2-Codex Is Not A Bad AI Coding Model](https://www.youtube.com/watch?v=VDft-NVS3OA) — Tech With Turis (236 views)
-- [(2.4) Pi Panel on Community & Governance: Length of Term for Committee Members - Pi COiNVENTION 2020](https://www.youtube.com/watch?v=pAhBwTaHdps) — Pi Network (114,495 views)
-- [1. How to host an email server on a Raspberry Pi - Intro | Hosting an email server for free](https://www.youtube.com/watch?v=gyQGW3zerls) — Raspberry Pi Coding (36,411 views)
 - [8 Reasons We Love PICO-8 [2021]](https://www.youtube.com/watch?v=C5TJgIJACtg) — Ask Gamedev (139,726 views)
-- [Building a Raspberry Pi Cyberdeck | Digi-Key Electronics](https://www.youtube.com/watch?v=f-4IpMg-6vg) — DigiKey (55,834 views)
 - [Clockwork Pi🍓 | #uconsole #hacker](https://www.youtube.com/watch?v=jpSnETnoD1U) — CYBERTECH ACADEMY  (61,261 views)
 - [Custom built gameboy themed cyber deck](https://www.youtube.com/watch?v=4uZ9OeJI9sA) — jayk806 (40,474 views)
 - [Cyberdeck anyone? This handsome brick has a mech keyboard and an honest-to-goodness trackball.](https://www.youtube.com/watch?v=sZ2MSPFZoBE) — The Verge (287,968 views)
@@ -3019,7 +2935,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Padepokan IKS PI Kera Sakti Pusat Madiun ✔️](https://www.youtube.com/watch?v=SYS5wCjeppI) — IKS PI (Kera Sakti) (56,240 views)
 - [Pi news 37. Pi4 4K 60 Update, Modified Argon One case.](https://www.youtube.com/watch?v=6B2qDiT5i-U) — leepspvideo (27,750 views)
 - [Portable Pi400 CyberDeck in a box](https://www.youtube.com/watch?v=wlJIBUB8t90) — CulBlu Vlogs (41,705 views)
-- [Raspberry pi and traffic lights!](https://www.youtube.com/watch?v=Co3_7ZNLV9g) — Traffic Light Doctor (230,327 views)
 - [Screen translator  -  Offline](https://www.youtube.com/watch?v=U0iTxhDg2jQ) — Pi Dev (51,122 views)
 - [Software Drag Racing: M1 vs ThreadRipper vs Pi](https://www.youtube.com/watch?v=l1j-aF_wyzU) — Dave's Garage (122,211 views)
 - [Spy on your neighbor! The Optical properties of Copper.](https://www.youtube.com/watch?v=FYoB-VG_9e4) — Hungry Gizmo (51,972 views)
@@ -3043,11 +2958,8 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Edital PC PI 2025 Iminente! Termo de Referência Divulgado](https://www.youtube.com/watch?v=TQIpa8w_O64) — Dicas de aprendizado (371 views)
 - [Fique à Vontade (Zé Pi)](https://www.youtube.com/watch?v=JqznlRXB7HA) — Zé Pi (22,644 views)
 - [Calculate Area of Circle in JavaScript | Using Math.PI #coding #programming #shorts #trending #new](https://www.youtube.com/watch?v=ZPq3X6XxTiE) — Apna Code (270 views)
-- [DIY Math Practice: Copilot + Raspberry Pi Coding Tutorial](https://www.youtube.com/watch?v=4uZsSu_TIrA) — Caroline Dunn (534 views)
 - [PI-AI Browser Extension - Simple Research](https://www.youtube.com/watch?v=KfOGFKKVOoU) — Mario Zechner (234 views)
 - [The Phantom P.I. Agent Interception](https://www.youtube.com/watch?v=t79_yPW73xc) — The Football Flash (664 views)
-- [प्यार का मंत्र जवानी में/जवानी का झटका सॉन्ग](https://www.youtube.com/watch?v=jBUnWoQOGKo) — Deonarayan Prasad Vines (241 views)
-- [#Zepir (part 1.) Raspberry Pi mini computer - first preview](https://www.youtube.com/watch?v=iUTxLFflUjg) — Bobricius (11,936 views)
 - [Agent Pi #agent#finesandferb#doctor#multfilm#multcool](https://www.youtube.com/watch?v=zHePZVPwoYY) — mult cool (20 views)
 - [Agent Pi #agent#finesandferb#doctor#multfilm#multcool](https://www.youtube.com/watch?v=C9ZaB79OhsI) — mult cool (49 views)
 - [AI Agents for Hi-Tech: From Complexity to Clarity](https://www.youtube.com/watch?v=p8LNnYOLgac) — Pluto7 (19 views)
@@ -3073,22 +2985,15 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [The Mystery of Karja's Dark Powers Revealed by Lila in Ys X Nordics](https://www.youtube.com/watch?v=AtvK_E4ukEo) — EXP StoryGamerZ (10 views)
 - [Transform your supply chain with AI!](https://www.youtube.com/watch?v=WCq6NFR-Gio) — Pluto7 (23 views)
 - [Zé Pi - Depois  (Participação especial de Tulipa Ruiz)](https://www.youtube.com/watch?v=RgAIQWFJfhs) — Zé Pi (12,378 views)
-- [[ENG/JPN]라즈베리파이로 휴대용 MSX 만들기 Making Handheld MSX with Raspberry Pi Part2](https://www.youtube.com/watch?v=doYr_KqZVQQ) — 리모네공방 (7,500 views)
 - [CYBERDECK HAT for Pi 400](https://www.youtube.com/watch?v=df7Hj26HBO0) — Adafruit Industries (9,213 views)
 - [pi-top | Portrait of an Inventor | Jesse Lozano | RS Components](https://www.youtube.com/watch?v=cSBCXhjIEZ4) — RS (754,627 views)
 - [Pi-Top Indiegogo Campaign](https://www.youtube.com/watch?v=mehB60bv1Ag) — Pi-Top (70,952 views)
-- [Raspberry Pi Laptop DIY: Ready Model 100 Portable Computer Kit](https://www.youtube.com/watch?v=ZNfT5dhthdA) — Mr. Sujano (11,765 views)
 - [💛❤️NAREDNA 72 SATA !!! ⭐Očekujte Iznenadne preokrete u Životu i Porodici sada !!! ❤️ASTRO DOBRA VILA](https://www.youtube.com/watch?v=ce9M3kZ_x-8) — ASTRO DOBRA VILA (6,387 views)
-- [Raspberry Pi Wifi Tutorial - Controlling a Relay - Raspberry Pi Projects](https://www.youtube.com/watch?v=mF1jTMO8kSY) — TrezZo (19,564 views)
 - [Share Tempat Latian Iks.pi Kera Sakti](https://www.youtube.com/watch?v=sUlvM3EVdHQ) — Bang Kayros (12,006 views)
-- [What are GPIO Pins on a Raspberry Pi? | Intro to Raspberry Pi](https://www.youtube.com/watch?v=AAsbb7nsTXc) — Aarons Engineering Lab (10,357 views)
-- [What Is Raspberry Pi Zero? | How To Use Raspberry Pi Zero | Raspberry Pi Zero Tutorial | Simplilearn](https://www.youtube.com/watch?v=FR2b53MI3v0) — Simplilearn (11,639 views)
-- [[raspberry Pi] button led](https://www.youtube.com/watch?v=bDlULGdZQJc) — 김광수 (9,558 views)
 - [10 Pokemon Dengan Win Rate Paling Tinggi!! - Pokemon Unite Indonesia](https://www.youtube.com/watch?v=tzUCML8UAOk) — kosapaci live (7,387 views)
 - [Cabal & TimePRO - Vem pra Festa (Cquarta)](https://www.youtube.com/watch?v=QAuVcwrog54) — danjiPRO (17,246 views)
 - [Create SS Rex part 1](https://www.youtube.com/watch?v=nF3k9wXBZfM) — Mihad Shekirov (9,558 views)
 - [Discover what's inside a pi-top [4]](https://www.youtube.com/watch?v=w0Qb4gqtkEk) — pi-top TEAM (12,692 views)
-- [I made this cool retro computer "terminal" with a Raspberry Pi 4](https://www.youtube.com/watch?v=ghr4vvhKQy4) — Moose (6,671 views)
 - [Pi-Top Unboxing & Assembly [ARCHIVED]](https://www.youtube.com/watch?v=XKKCh19EpgI) — Pi My Life Up (11,009 views)
 - [pi-topSPEAKER Introduction](https://www.youtube.com/watch?v=Ov9km0Jj_aw) — Pi-Top (18,989 views)
 - ["Pi-Berry Laptop"--The Classic DIY Laptop](https://www.youtube.com/watch?v=spVICgigRo8) — Sahas Chitlange (11,779 views)
@@ -3101,7 +3006,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Lemon Pi introduction](https://www.youtube.com/watch?v=iEY9v8BHc60) — Embed Studio (12,789 views)
 - [Orange pi one Ubuntu Mate 16.04 boot](https://www.youtube.com/watch?v=Xt20_jRLEZE) — Mr.Dave-on-Tech (28,336 views)
 - [Pi-TopCEED Assembly Guide from SparkFun](https://www.youtube.com/watch?v=GYjwVspQY-Y) — SparkFun Electronics (24,790 views)
-- [RPi 02 - Raspberry Pi Traffic Light - Experiment](https://www.youtube.com/watch?v=J5KpHGzd2cs) — tsbrownie (8,494 views)
 - [Super Mario 2011 - Prerelease preview](https://www.youtube.com/watch?v=26bhoLQUrdE) — PeterSvP (13,825 views)
 - [Teaching Kids to Code with Sonic Pi • Sam Aaron & James Lewis • GOTO 2023](https://www.youtube.com/watch?v=_ehD4D7N4ZU) — GOTO Conferences (13,378 views)
 - [UPSTAIRS NEIGHBORS FROM HELL (01/20/2019)](https://www.youtube.com/watch?v=GDsX2qkbYn4) — HOA Exposed (11,495 views)
@@ -3117,12 +3021,10 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Covenant Dance - Sonic Pi Cover](https://www.youtube.com/watch?v=UEoxQmC8PBE) — Davids Music Lab (6,167 views)
 - [Super Mario Bros. INFINITY - World 1 (Random levels)](https://www.youtube.com/watch?v=E8771N009a4) — PeterSvP (6,356 views)
 - [Zé Pi - Dor e Solidão](https://www.youtube.com/watch?v=mLEiQOSIQTo) — Zé Pi (5,142 views)
-- [Automatiser Jdownloader Sur Raspberry](https://www.youtube.com/watch?v=7gLrKq0ld4k) — Tech To Shen (5,424 views)
 - [Developer Console Overview](https://www.youtube.com/watch?v=JvaIY9d29A0) — Skillz (5,577 views)
 - [MENGESTIMASI NILAI PI #coding #maths #PI  #programming](https://www.youtube.com/watch?v=VqfcTbwkgi8) — Albab Riziq (4,513 views)
 - [Musik programmieren mit Sonic Pi](https://www.youtube.com/watch?v=J9HXuaXss1w) — barrierefrei kommunizieren! / Meko Mitte (5,075 views)
 - [Pan-Pan Day: Your Gateway to Gyeonggi's Startup Excellence 2](https://www.youtube.com/watch?v=X1_tOOPmieE) — Pangyo Techno Valley (6,135 views)
-- [Raspberry pi 4 GPIO(general purpose input output) pins](https://www.youtube.com/watch?v=XUzWmQNKf1Q) — 家華安防 programming made simple (5,831 views)
 - [Sam Aaron - Live Coding Music with Sonic Pi - Practice Improv Session - 200430](https://www.youtube.com/watch?v=tM9gKE5PQRM) — Sam Aaron (4,748 views)
 - [Sonic Pi  Tutorial - Making Random Melodies with Arrays and Scales](https://www.youtube.com/watch?v=GHDLAdLB3YE) — Mister Bomb (4,892 views)
 - [🌺💕DIVNA IZNENAĐENJA i NOVI POČETAK +DARIVANJE 🌟⭐Energija Mladog Meseca 🌺💕ASTRO DOBRA VILA, Budućnost](https://www.youtube.com/watch?v=kpFlMHHLNO0) — ASTRO DOBRA VILA (3,375 views)
@@ -3130,9 +3032,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [phystris - physics-based falling blocks game](https://www.youtube.com/watch?v=zY6a1PLNINA) — PeterSvP (5,405 views)
 - [Zé Pi - Bem Melhor do que Está](https://www.youtube.com/watch?v=xU0a2teucwI) — Zé Pi (4,712 views)
 - [NEW 2023 FOREST RIVER GEORGETOWN GT5 31L5 CLASS A GAS MOTORHOME FORD V8 SOLAR WALKTHROUGH GENERATOR](https://www.youtube.com/watch?v=hzv2Ki5eanA) — Scott Hudgins Dodd RV (4,388 views)
-- [PiHole -  Ad blocking for all devices using a Raspberry Pi - for free](https://www.youtube.com/watch?v=TZms_sAtHH0) — Raspberry Pi Coding (3,874 views)
-- [Pvc Meta Seed Funding अब आप सीड फंडिंग नहीं कर पाएंगे पीवीसी मेटा में |](https://www.youtube.com/watch?v=yZL-dI-8-N0) — PI Official Dev (4,763 views)
-- [Raspberry Pi HQ Camera - MUCH Sharper Full Moon Shots!](https://www.youtube.com/watch?v=fuhA9gVXTuY) — Chenrui's Knowledge (4,184 views)
 - [Screen Translator - Offline](https://www.youtube.com/watch?v=WFm56KmuBvE) — Pi Dev (5,052 views)
 - [SITCore - The  NET C# to IoT Solution](https://www.youtube.com/watch?v=6i-szlIFtPw) — GHI Electronics (4,694 views)
 - [Sonic Pi - Code Your Own Song Tutorial (3/3)](https://www.youtube.com/watch?v=XLxQg8oXCPY) — Geek Tutorials (4,126 views)
@@ -3140,12 +3039,10 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [❤️💥NAREDNA 72 SATA !! ❤️💥OČEKUJE VAS NOVI, SREĆAN POČETAK SA JUPITEROM U OVNU ! 🍀💥ASTRO DOBRA VILA](https://www.youtube.com/watch?v=Euj12hH9jUc) — ASTRO DOBRA VILA (2,933 views)
 - [❤️🥰STIŽU VAM IZNENAĐENJA U ENERGIJI PUNOG MESECA 14.JUNA ❤️💯Očekujte komunikaciju 💥ASTRO DOBRA VILA](https://www.youtube.com/watch?v=FPolMYUy-lQ) — ASTRO DOBRA VILA (3,101 views)
 - [💥❤️STIŽE VAM EKSPLOZIJA LJUBAVI -APRIL !!! 🧡ALI I PREPREKE I ODLAGANJE PLANOVA !!! 💥ASTRO DOBRA VILA](https://www.youtube.com/watch?v=mwTgqpqBXIM) — ASTRO DOBRA VILA (3,312 views)
-- [DP Wallet 100 DP To अब आप नहीं कर पाएंगे Token Farming1Pvc Rs 4.47×85 = 379.95 Inr Rs@jaypearlvine](https://www.youtube.com/watch?v=rhKxBYmrRNc) — PI Official Dev (4,497 views)
 - [How to turn Notation into Code - Sonic Pi Tutorial](https://www.youtube.com/watch?v=V7xXny8xw4M) — Davids Music Lab (4,070 views)
 - [Kemegahan Padepokan IKS PI Kera Sakti ✔️](https://www.youtube.com/watch?v=gscU7E-j0fU) — IKS PI (Kera Sakti) (3,716 views)
 - [Na jabe na jabe mor Dil se dur New adhunik dj song 2020](https://www.youtube.com/watch?v=Ys8MqjGJTc0) — Pi dev h dj songs (4,398 views)
 - [pimoroni inky pHAT test](https://www.youtube.com/watch?v=XdrXd4EMj-4) — boochow (4,198 views)
-- [Raspberry Pi Setup For Development - Intro (Part 1 of 4)](https://www.youtube.com/watch?v=Ot767qo3VvE) — Nicholas Cullen (4,356 views)
 - [Sam Aaron (Sonic Pi) – Live Code your Studio](https://www.youtube.com/watch?v=rL-6bu7h8u8) — The Audio Programmer (3,467 views)
 - [❤️💛ŠTA VAM PLANETE PORUČUJU U OVOM TRENUTKU !? 👉DATUMI KOJI SU VAŽNI U OVOM PERIODU🎉ASTRO DOBRA VILA](https://www.youtube.com/watch?v=HoMnrXXeFW8) — ASTRO DOBRA VILA (2,618 views)
 - [💜💕HITNA ANĐEOSKA PORUKA KOJU MORAŠ ČUTI U OVOM TRENUTKU ! ⭐Dopusti Univerzumu sve 💥ASTRO DOBRA VILA](https://www.youtube.com/watch?v=o-iApYap_lg) — ASTRO DOBRA VILA (2,660 views)
@@ -3158,21 +3055,16 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Bratislava - Vermelho (ao vivo no Vinil Sessions)](https://www.youtube.com/watch?v=1_BxTEeLJs8) — Bratislava Br (2,897 views)
 - [MAKING MUSIC USING CODE! (Sonic Pi)](https://www.youtube.com/watch?v=oxHwk5q2hEo) — Joece (2,715 views)
 - [PhysTris.com - Physics falling-blocks game [beta]](https://www.youtube.com/watch?v=v3U99O18gbw) — PeterSvP (3,542 views)
-- [Pi-Top and Pi-TopCEED -- Raspberry Pi coding in the classroom](https://www.youtube.com/watch?v=PBOzgke9onM) — ClassThink (3,307 views)
 - [Read/Write SPI and other serial interfaces from a PC](https://www.youtube.com/watch?v=Ggx3Itghcyc) — SaeligCompanyInc (3,345 views)
 - [SonicPi22   Tick](https://www.youtube.com/watch?v=uxtkAxX6yq4) — Dave Conservatoire (2,962 views)
 - [Spying on my neighbour bathing](https://www.youtube.com/watch?v=NHkFcAAiyt0) — mamacato (3,386 views)
 - [Star Wars Main Theme coded on Sonic Pi by Jay](https://www.youtube.com/watch?v=KV0_2gDLYC0) — pinku (3,256 views)
 - [Zé Pi - Muito Tempo](https://www.youtube.com/watch?v=mheqly2PYfM) — Zé Pi (3,004 views)
-- [ഒരു കുഞ്ഞൻ കമ്പ്യൂട്ടർ | Raspberry Pi Malayalam | Raspberry Pi Introduction](https://www.youtube.com/watch?v=pjYON0FKxXQ) — DBox Malayalam  (2,892 views)
 - [Allwinner Alexa Solution Dev Kit for cheaper Voice ARM devices](https://www.youtube.com/watch?v=v3t-c7qdMpY) — Charbax (2,535 views)
 - [Bratislava - Estúdio PlayTV](https://www.youtube.com/watch?v=sJimKnb3zxA) — PlayTV (2,590 views)
 - [DAS BANDAS DO OFICINA ITO GUI ZE PI](https://www.youtube.com/watch?v=_c2-3AyH9p8) — Universidade Antropófaga (2,818 views)
 - [Kafe PI Agent , Hayati PI'ye al ! / by Dijital Mafia](https://www.youtube.com/watch?v=FPKSKrYDelI) — Cengizhan Dinç  (3,031 views)
-- [Khadas VIM4 is HERE. Raspberry pi 4 KILLER?!](https://www.youtube.com/watch?v=wWPhIier0u0) — Tech-Mate (2,892 views)
 - [LED Circuit Using GPIO Pins and Python Code](https://www.youtube.com/watch?v=IL9puFUbXaM) — Annalesia Law (2,569 views)
-- [LicheeRV 86 Panel run LittleVGL demo](https://www.youtube.com/watch?v=Dwg6gNP2Wak) — DevDotNetORG (2,458 views)
-- [RASPBERRY PI ZERO W # Raspberry pi # coding](https://www.youtube.com/watch?v=-HHTvTGOzWM) — CODABOT (2,598 views)
 - [Sonic Pi Tutorial - Volume and Duration](https://www.youtube.com/watch?v=sYoar0YKnGA) — Mister Bomb (2,499 views)
 - [UE4 Blaze devlog - W.I.P #2 RPG (Quest - Melee Combat - Save/Load - Inventory - Magic combat - ...)](https://www.youtube.com/watch?v=4tInzxOCifQ) — Pi Dev (2,162 views)
 - [Why Is My Neighbor STILL Fat????](https://www.youtube.com/watch?v=lC601vbKyR4) — Carmen "BIG PRESSURE" CaBoom (3,211 views)
@@ -3182,10 +3074,8 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [AEL MOU I ZOI DEN KSERO TI THA PI](https://www.youtube.com/watch?v=2XM8kX-Jiuo) — michAELis3 (2,447 views)
 - [Cosmic Tramp - Mono Sessions](https://www.youtube.com/watch?v=IFHUqeswM8Q) — Cosmic Tramp (2,012 views)
 - [CyberDeck Remote rocket](https://www.youtube.com/watch?v=nOn3CyPHmws) — ZénithGalactique (2,056 views)
-- [LCL's CM4 Boy - Raspberry pi CM 4 handheld - This Gameboy DMG's on steroids!](https://www.youtube.com/watch?v=JA4c7x5sFOc) — Creative4Gaming (2,100 views)
 - [Phystris - Color Areas](https://www.youtube.com/watch?v=K-mqT7qR1Fw) — PeterSvP (2,324 views)
 - [pi li pudina song dailouge pi li pudina pawan singh dailouge pi Dev jeet dev Radhanagar](https://www.youtube.com/watch?v=idZTNFNTRUM) — Devjeet Dev Radhanagar (2,107 views)
-- [Raspberry PI 4 with 8086 PCB](https://www.youtube.com/watch?v=mhyPE_N5F1g) — EMM Computers (2,074 views)
 - [Sonic Pi Programming Language with Rishab Bansal | Coding for Kids | Coding Blocks Junior](https://www.youtube.com/watch?v=IWAO2hgg7Vk) — Coding Blocks Junior (1,772 views)
 - [Sonic Pi Tutorial - Chopping Up Samples part 1](https://www.youtube.com/watch?v=edybZv-AHpc) — Mister Bomb (2,079 views)
 - [Sonic Pi#1 -- Download, Install, Hello World](https://www.youtube.com/watch?v=qk8_Mpto8yc) — CrouchingPython (2,235 views)
@@ -3205,40 +3095,27 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Fique à Vontade](https://www.youtube.com/watch?v=cwOSH6XTCTY) — Zé Pi - Topic (1,622 views)
 - [Joy Division - "Transmission" (Full Song in Sonic Pi)](https://www.youtube.com/watch?v=Zfkwe56A6Cw) — Tig3rbabu (1,427 views)
 - [NOISY NEIGHBORS 2: WTF for real.](https://www.youtube.com/watch?v=CCS6ekNrcT8) — Amanda Gold (1,485 views)
-- [PyQt Demo on Raspberry Pi (jessie)](https://www.youtube.com/watch?v=z95hhIwgZBM) — tosakun meeting (1,767 views)
-- [Raspberry Pi: Could not open port /dev/ttyS0: Errno 13: Permission denied: '/dev/ttyS0'](https://www.youtube.com/watch?v=14Ukjrtt3gU) — Roel Van de Paar (1,763 views)
 - [Smallest Game&Watch (Gameboxmini RetroGo)](https://www.youtube.com/watch?v=swKL4mPdIVI) — RGhandhelds (1,620 views)
 - [Sonic Pi Band Jam Session with Ben Smith and Sam Aaron](https://www.youtube.com/watch?v=urtOnDE-L2c) — Sam Aaron (1,272 views)
 - [Sonic Pi Tutorial - Code Twinkle Twinkle Using Functions](https://www.youtube.com/watch?v=yIsh6W_Pnn8) — Geek Tutorials (1,742 views)
 - [To Hell With Upstairs Neighbors. #comedyshorts #jokes #comedyvideo #comedy #shorts #podcast](https://www.youtube.com/watch?v=VN6C9OSAq2s) — Tre Tutson (1,279 views)
 - [Unreal Engine 5 Untitled Top Down game | Rolling |Thrust Attack Type](https://www.youtube.com/watch?v=jG4QnYgD8RQ) — Pi Dev (1,784 views)
 - [Vocal processing and Voice mangling with Sonic Pi](https://www.youtube.com/watch?v=rxFWsghSez0) — Davids Music Lab (1,543 views)
-- [[ハワイ音楽風？] AI作曲×AIイラスト集【Sonic Pi - ACertainThing】generative music](https://www.youtube.com/watch?v=iACIPAOgTtg) — minerva scientia (1,147 views)
-- [🔥 Giveaway - BalenaFin Raspberry Pi CM3 Carrier Board [ October 2021]](https://www.youtube.com/watch?v=rVPAyoQBUo0) — Pallav Aggarwal (874 views)
-- [A TIMI KAHA CHHAU || ए तिमी कहाँ छौ || DEV KUMARI KHADGI FT. VIJAY K.C RABITA BAKE | new nepali song](https://www.youtube.com/watch?v=3pg8XGGsI4o) — Kripa TV (998 views)
-- [Button input with Raspberry Pi #demo #shorts](https://www.youtube.com/watch?v=HOj9JY9lhMI) — void loop Robotech & Automation (1,277 views)
 - [Campus Connect _ NexTEK](https://www.youtube.com/watch?v=EEIfiyd1FX0) — PI SAE (1,722 views)
 - [Can I DJ using only code?](https://www.youtube.com/watch?v=PnEhN5lQlHc) — JP makes apps (1,068 views)
 - [Clockwork DevTerm on Battery Power!](https://www.youtube.com/watch?v=MLgnedWqID4) — The Eclectic Engineer (1,553 views)
 - [Clockwork Pi built](https://www.youtube.com/watch?v=fbQndkRO12g) — M B (1,268 views)
-- [control LED bulb using raspberry pi 😁.](https://www.youtube.com/watch?v=qGRwigKeF9c) — fan_of_own (1,117 views)
 - [DEEPLEARNING: Pueden las maquinas ser creativas? | Redes GAN (Generative Adversarial Networks)](https://www.youtube.com/watch?v=8n6cIzx9OFg) — full scan (994 views)
 - [DevTerm + Chromium + WebUSB + micro:bit + Thumb (ARM inline assembly / python )](https://www.youtube.com/watch?v=ksTPAwAr278) — Marc Rubino (1,241 views)
-- [Easy light control using fingers by Raspberry Pi](https://www.youtube.com/watch?v=NK8EGqPVsAE) — Thieu Long (1,399 views)
 - [Gosto de Você](https://www.youtube.com/watch?v=WXc2NViGINo) — Zé Pi - Topic (1,273 views)
-- [How to calculate pi by throwing rocks at the ground #shorts](https://www.youtube.com/watch?v=O2_a9ymUOgo) — Crabbix (1,198 views)
 - [how to use banana pi BPI-M3 image on BPI-M2+ , use bpi-bootsel](https://www.youtube.com/watch?v=aF_WZFDxGs4) — Banana Pi BPI (1,651 views)
 - [Jab se alk 4g choda chodi man bg new dj adhunik song](https://www.youtube.com/watch?v=Yq0zWhfQpYo) — Pi dev h dj songs (1,454 views)
 - [Kamibot Pi: Bring your code to life with fun papercrafts](https://www.youtube.com/watch?v=al9dVk4OBiA) — Kamibot Pi (1,285 views)
-- [Menue für Raspberry Pi](https://www.youtube.com/watch?v=8IJY5mDpkG8) — Stefan Höhn (1,636 views)
 - [Minecraft Pi - Build a Row of Houses Using Python](https://www.youtube.com/watch?v=AYnTxcbh36U) — Geek Tutorials (1,246 views)
 - [Minecraft Pi coding tutorial](https://www.youtube.com/watch?v=gE08uoZDw-w) — Red-exe-Engineer (1,320 views)
-- [Pearlvine New Update Today 85 लाख लोगों के खुशखबरी Pearl Rank 256 DP Autopool और 15 Pvc Meta Token |](https://www.youtube.com/watch?v=PzF0UDCxF8o) — PI Official Dev (1,331 views)
 - [Piano/Pluck Synth in Sonic Pi - Coding & Developing](https://www.youtube.com/watch?v=8TG_wQ7UtXY) — Davids Music Lab (1,401 views)
-- [Raspberry Pi 4 ESA Astro-Pi Unboxing, Setup and Remote Connect](https://www.youtube.com/watch?v=W4aReo5icr4) — Danny Murray (1,276 views)
 - [Reggae Organ - Sonic Pi Tutorial](https://www.youtube.com/watch?v=okiKus_V6bc) — Davids Music Lab (1,134 views)
 - [SAP PO Training Demo video | SAP Process Orchestration Online Course | SAP PO Tutorials - GOT](https://www.youtube.com/watch?v=Ma_kJFtYh7s) — Roja (1,461 views)
-- [Setting Up fa-Grafana Graphs On A Raspberry Pi For ADS-B | FlightAware Piaware](https://www.youtube.com/watch?v=M-jq1JRRK5M) — Fuzz The Pi Guy (1,270 views)
 - [Small Guitar Piece for Sonic Pi and Qsynth](https://www.youtube.com/watch?v=19EDwKUkRt0) — Martin Butz (1,155 views)
 - [Solusi dari Notasi Sigma dan Pi - Coding 1 Menit](https://www.youtube.com/watch?v=_xvoVsMWpTo) — Dr. Hilmy Aliy Andra Putra (933 views)
 - [Sonic Pi - guitar](https://www.youtube.com/watch?v=UrsmQZslquo) — Kari Duffy (1,619 views)
@@ -3247,14 +3124,10 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Super Mario 2011: Classix 1-2](https://www.youtube.com/watch?v=zV-AJTM8Awo) — PeterSvP (1,277 views)
 - [Super Mario Bros Infinity World 3 part 1](https://www.youtube.com/watch?v=ISKj6h8-08U) — Mastertigers (1,456 views)
 - [Sync/Cue - Sonic Pi Tutorial](https://www.youtube.com/watch?v=uITTl6bWwlA) — Davids Music Lab (1,372 views)
-- [Termboy (Go) on Raspberry Pi Pi2](https://www.youtube.com/watch?v=NlTLE9QIG9E) — TheSilver2k (1,452 views)
 - [UglyScale Present - Banana Pi CM4](https://www.youtube.com/watch?v=9qhAmpjdEfE) — TerrorPUP (1,430 views)
-- [用程式碼也能寫音樂！？ Sonic Pi 教學 - 2](https://www.youtube.com/watch?v=0kccvDX9lqQ) — 愷開DELUXE (1,270 views)
 - [$7 SD card-sized SoC booting Debian 10](https://www.youtube.com/watch?v=VrqGQszwOSU) — Nicolas Mailloux (764 views)
-- [Adruino Motion v0.2b](https://www.youtube.com/watch?v=4QPxpmpyEWM) — Andrey Zhuravlev (873 views)
 - [AEL-doksa 2-1 AEL MOU I ZOI](https://www.youtube.com/watch?v=XypkLgIKkQ0) — michAELis3 (1,059 views)
 - [Alignment PI Extension Lines Missing Problem in civil 3d | PI Extension Line Missing | PI Extension](https://www.youtube.com/watch?v=H0R-cZjgt-0) — Naseer Bhatti (585 views)
-- [AMIGOWE SHOOTERY 3D na PiMIGA 1.5MF | Raspberry Pi400](https://www.youtube.com/watch?v=7qehQ2TQT4Y) — K-R-G Kącik Retro Gracza (584 views)
 - [apartment boy - an original by maddy katsilis](https://www.youtube.com/watch?v=ie9JeXaa6eQ) — Maddy Katsilis (873 views)
 - [Arduino Upload Error on Ubuntu (/dev/ttyACM*)](https://www.youtube.com/watch?v=Vlp5dqkXiWM) — Danzzy Tech World (662 views)
 - [Are the neighbors spying on Adrienne Floreen with a sound amplifying listening device? (2017)](https://www.youtube.com/watch?v=mjPtC476Fg0) — adriennefloreen (735 views)
@@ -3265,33 +3138,19 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Coding a Program to Send to the ISS with Astro Pi Mission Zero](https://www.youtube.com/watch?v=ymmpt15sO_w) — Astro Liz’s Lab  (612 views)
 - [Combat and Progression Showcase](https://www.youtube.com/watch?v=3e_VlB8si84) — Pi Dev (688 views)
 - [Dor e Solidão, por Zé Pi](https://www.youtube.com/watch?v=sBG3ha2g1nE) — Cultura Livre (539 views)
-- [DP को PVCMeta टोकन Farming में शुरू किया गया है। @digitalpesha1 @tipsofficial @elrubiusOMG @WWE](https://www.youtube.com/watch?v=DVj41-NGkLk) — PI Official Dev (956 views)
-- [DP को PvcMetaटोकन में कनवर्ट करें शुरू किया गया है।ATP DP Receiveऑटोपूल की बरसात रिसीव||@digitalpesha1](https://www.youtube.com/watch?v=D6_JxIet2zQ) — PI Official Dev (1,232 views)
 - [ESP Mob _ CodeAholics](https://www.youtube.com/watch?v=CKAblKSTbY4) — PI SAE (824 views)
 - [Fique à Vontade, por Zé Pi](https://www.youtube.com/watch?v=1ptrkSuVhJ0) — Cultura Livre (717 views)
-- [First (successful) attempts at using the inexpensive yet powerful Raspberry Pi Pico](https://www.youtube.com/watch?v=5aik97OjnZE) — Peter Scargill (909 views)
 - [Free Music Software Guide #006 - Sonic Pi](https://www.youtube.com/watch?v=ABbzJCH2HLw) — Oscar Rodrigues (463 views)
-- [GPIO Debounce with Raspberry Pi and Python #shorts #demo](https://www.youtube.com/watch?v=7pg3OdlXNnQ) — void loop Robotech & Automation (1,003 views)
-- [Heating & Security Control Part 29 - Raspberry Pi coding python pychromecast google home mini](https://www.youtube.com/watch?v=riJwsIOxQZk) — RasPiPkr Tutorials (741 views)
 - [How to setup multiple agents for monitoring using the advance mode](https://www.youtube.com/watch?v=fMZEy_ErYXI) — Dell Enterprise Support (746 views)
 - [How to use AI to optimize supply chains with Pluto7](https://www.youtube.com/watch?v=gUqR2cQb8cw) — Google Cloud (949 views)
 - [Jazz Theory ii, V, I](https://www.youtube.com/watch?v=sPPPz66klkE) — Granddad GotMojo (693 views)
 - [KST Token Live Withdrawal How To swap KoinSwap Token |How To Withdraw KST Token |Swap KST Token Free](https://www.youtube.com/watch?v=mInTKJpA4hU) — PI Official Dev (910 views)
-- [life of pi movie review लाइफ ऑफ पाय मूवी रिव्यू #shorts#lifeofpi#india#hindi](https://www.youtube.com/watch?v=I4t0J8IT238) — Shivam Waghmare (742 views)
 - [LIVE CODING IN LDN #shorts](https://www.youtube.com/watch?v=mQ04aDBWtbY) — Daniel Aagentah (597 views)
 - [LOVE LET GO - Parati/ Mono Mono Sessions #2](https://www.youtube.com/watch?v=QQFG4ka_fnU) — Mono Mono Sessions (962 views)
 - [Lumina](https://www.youtube.com/watch?v=0kaxWN5HF_w) — Zé Pi - Topic (725 views)
 - [Mario, but the levels are chaotic (and he has a gun) [Super Mario 2011 Gameplay]](https://www.youtube.com/watch?v=msL1ijy1EFo) — BookwormKevin (745 views)
 - [Minecraft Pi - Build a Dance Floor Using Python](https://www.youtube.com/watch?v=WjxNvALQl5Y) — Geek Tutorials (871 views)
-- [My Homemade Raspberry Pi Laptop](https://www.youtube.com/watch?v=nugUdTyOWSc) — MrRoomba (651 views)
-- [Pearlvine New Update Today |तीसरा चरण बिग अपडेट|3rd 4th 5th Round Autopool | नया Notification Update](https://www.youtube.com/watch?v=0ywra6Ndjrw) — PI Official Dev (771 views)
 - [pi-top: berryboot for the win](https://www.youtube.com/watch?v=Yhzb2C6Fis0) — R Brown (4Crawler) (602 views)
-- [Power Raspberry Pi 5 through the IO pins?… Not gonna happen](https://www.youtube.com/watch?v=z4WB254K0YY) — JJPtech (736 views)
-- [PVC META TOKEN FARMING मे 12 तारिख DP से शामिल होना चाहते हैं तो। Trust Wallet Me BNB Rakhe](https://www.youtube.com/watch?v=dalFsPlT5hc) — PI Official Dev (882 views)
-- [Raspberry Pi Astro Pi Disco](https://www.youtube.com/watch?v=12nbiKQta8c) — Martin O'Hanlon (799 views)
-- [Raspberry Pi using led blinking|| Raspberry Pi](https://www.youtube.com/watch?v=gvWEEoP2fPo) — TechnoBot Universe (1,056 views)
-- [RPGPIO-G89F2B | GPIO Expansion Board Cable for Raspberry Pi T-Cobb](https://www.youtube.com/watch?v=J2KqTe7tO3c) — 𝐌𝐄𝐆𝐀𝐓𝐑𝐎𝐍𝐈𝐂𝐒 (832 views)
-- [Setup raspberry pi camera module rev 1.3](https://www.youtube.com/watch?v=zdU9dg8iTGg) — Hafiz Musa Org (1,101 views)
 - [sonic pi & touchdesigner live session](https://www.youtube.com/watch?v=P9_Itc6pQP8) — Dominique Grys (814 views)
 - [Sonic Pi + Ableton FX Experiment #sonicpi](https://www.youtube.com/watch?v=jGHLNC3HAEo) — h.eund (757 views)
 - [Sonic Pi as Midi Input and Ableton Live as receiver.](https://www.youtube.com/watch?v=yBod6YTqvXc) — Exotic Olive Oil Taster (824 views)
@@ -3320,15 +3179,11 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Zé Pi || TEASER DESPLUGADO || ¿VAMOS?](https://www.youtube.com/watch?v=1uZVKvAT62M) — Cecilia Lucchesi (867 views)
 - [Zé Pi lança "Rizar" no Oi Futuro Ipanema](https://www.youtube.com/watch?v=Z5B2-QeyGIw) — Instituto Futuros (764 views)
 - [Zé Pi no Cultura Livre (Bônus)](https://www.youtube.com/watch?v=j3fyCTPH5SA) — Cultura Livre (926 views)
-- [Кпк на lichee pi zero](https://www.youtube.com/watch?v=2-1Fh0W0sgQ) — Evgeny Inviya (706 views)
 - [(old video) Creepy Upstairs Neighbors... + Testing my iPhone 11 Pro Max Camera](https://www.youtube.com/watch?v=ioQje0d5DYs) — Owen Dowell (560 views)
 - [#CESME Kafepibeachclub #umiteynircioglu](https://www.youtube.com/watch?v=9MbCNqZWjCM) — ümit peynircioğlu (359 views)
 - [#SambaSóQueNão 2 - Zé Pi - Espera](https://www.youtube.com/watch?v=AdRC_X8RcOA) — meno del picchia (191 views)
 - [1. Dulcinea Extension III - Marla Project](https://www.youtube.com/watch?v=VbsFVxyjcyU) — Mener M. Ramírez (116 views)
 - [1. Insomniac Extension II - Marla Project](https://www.youtube.com/watch?v=Oa-v0K04aY8) — Mener M. Ramírez (134 views)
-- [110 DP होना चाहिए सभी DP धारकों को Token Farming में शामिल 50 BUSD के साथ 1 PVC RS4.52×85= 384.2 INR](https://www.youtube.com/watch?v=G6twNHWQuzk) — PI Official Dev (347 views)
-- [2:21 16/11/2022,Pearlvine new System बड़ी अपडेट दी Favourite month मे तीसरा चरण payment Autopool ?](https://www.youtube.com/watch?v=JToZvmVGrWg) — PI Official Dev (365 views)
-- [4x Fast Autopool New Update Today #pearlvine new धमाका/pearl रैंक का 3,4,5or 6th राउंड ऑटोपुल अपडेट!](https://www.youtube.com/watch?v=L4dKFIkh8Vs) — PI Official Dev (610 views)
 - [5 Common Dev Terms You Need to Know](https://www.youtube.com/watch?v=0XJ5tb7gPjA) — Mark As Done (413 views)
 - [5. Bengala Extension II - Marla Project](https://www.youtube.com/watch?v=C-nz_apRCos) — Mener M. Ramírez (231 views)
 - [A tetris-like game with physics (phystris) - Mission mode](https://www.youtube.com/watch?v=B9XijKKs-zU) — PeterSvP (439 views)
@@ -3340,7 +3195,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [banan pi BPI-M2 Magic run allwinner Tina IoT image 40 PIN GPIO test success](https://www.youtube.com/watch?v=iEUn1N6guY8) — Banana Pi BPI (301 views)
 - [Banana pi BPI M2 Ultra with allwinner R40 hardware introduction](https://www.youtube.com/watch?v=KZXu6zHto0o) — banana pi (275 views)
 - [Banana Pi BPI-M1(A20) kernel 5.1.1 demo Sunxi-Cedrus with v4l2-request-test (Ubuntu 18.04 mate)](https://www.youtube.com/watch?v=LrsuvJ7hfCI) — MIKEY CHANG (390 views)
-- [Banana Pi BPI-M2 Ultra & Allwinner R40 show](https://www.youtube.com/watch?v=kcEoAUZZAWw) — MIKEY CHANG (487 views)
 - [banana pi BPI-M3 QT support on android](https://www.youtube.com/watch?v=DxwvRgbVIRk) — Banana Pi BPI (506 views)
 - [Bratislava - Nuvem de Mercúrio](https://www.youtube.com/watch?v=2069HNwaDKU) — Bratislava Br (314 views)
 - [Bulat Restorant](https://www.youtube.com/watch?v=WOSCQ_BygiI) — Emrah Doğan (257 views)
@@ -3348,18 +3202,12 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Creating an Oracle Connection in Foglight](https://www.youtube.com/watch?v=6A9NHt1_Yx8) — Quest (381 views)
 - [Creating an SPI peripheral driver with C# and the Meadow Foundation stack](https://www.youtube.com/watch?v=F5oWyrY-kNM) — dotnetMakers (307 views)
 - [Creepy Neighbour Upstairs (TRUE Scary Story from REDDIT)](https://www.youtube.com/watch?v=ZcJv_6tBKk8) — SinisterShaf (359 views)
-- [CrowPi L Raspberry Pi Laptop Software Introduction](https://www.youtube.com/watch?v=O0zL9RO_fls) — CrowPi (576 views)
 - [DEMO / Emoticon Image into Sonic Sound using Sverchok in Blender](https://www.youtube.com/watch?v=wMzaOpcoZ8c) — Jimmy “Blender Sushi Guy” Gunawan (311 views)
 - [Depois, por Zé Pi](https://www.youtube.com/watch?v=r5esV_-N72o) — Cultura Livre (303 views)
 - [DEVTEAM Outsourcing - An Offshore Magento Development team for Agencies and Technology Partners.](https://www.youtube.com/watch?v=sufZyIFUAbw) — Dev Team (362 views)
 - [Different tracks created with Sonic Pi last month](https://www.youtube.com/watch?v=IsQxyn962ow) — livecodingdk (288 views)
 - [DiJiTAL - Little White Lies](https://www.youtube.com/watch?v=BxGOyxMx3v0) — X-Boo (373 views)
 - [Do-Re-Mi Played on Sonic Pi](https://www.youtube.com/watch?v=gGC19Cd-OoM) — Dave Briccetti (247 views)
-- [DP Se  PvcMeta Farming  शुरू किया गया है। ATP DP Receive ऑटोपूल की बरसात रिसीव ||](https://www.youtube.com/watch?v=3ylxJaCbKTE) — PI Official Dev (402 views)
-- [DP से PVC Meta Token में Token Farming कैसे करें। Token Farming कितने DP से करें। #Token Farming](https://www.youtube.com/watch?v=zOPBmp1t9BM) — PI Official Dev (348 views)
-- [DP से टोकन फार्मिंग अब बहुत जल्द स्टार्ट होने जा रहा है कुछ ही समय बाकी है जल्दबाजी करें||](https://www.youtube.com/watch?v=vwIwpRoR1Rk) — PI Official Dev (342 views)
-- [DS18B20 temperature sensor - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=CElOchkL5b0) — RasPiPkr Tutorials (612 views)
-- [Fixing AttributeError: module 'wiring_pi' has no attribute 'wiringPiSetupPY' Error For LightShowPi](https://www.youtube.com/watch?v=pjJ3Nivtmw8) — Fuzz The Pi Guy (162 views)
 - [Foglight - How to add a SQL Server agent](https://www.youtube.com/watch?v=PiF9wH0ICD8) — Quest Technical Support (252 views)
 - [Foglight - Java Agent Weblogic configuration](https://www.youtube.com/watch?v=_E7_Ylss6ZM) — Golan Shem-Tov (484 views)
 - [Foglight - Monitor a SQL Server Error Log with Log Monitor](https://www.youtube.com/watch?v=lELrtb0iFg0) — Quest Technical Support (324 views)
@@ -3371,38 +3219,28 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Generate Music with Sonic Pi by Jess Garson](https://www.youtube.com/watch?v=qMzQoDcQFJA) — dctech.tv (275 views)
 - [GH FRiZ Elizabeth Pregnant ? KiKi And TJ Talk UP|| EMMA AT WORK APRIL 18 REVIEW.](https://www.youtube.com/watch?v=0gek2OjlI1k) — Say What? (402 views)
 - [Harmonic Ambience in Sonic Pi](https://www.youtube.com/watch?v=fh4oHnBAKss) — Davids Music Lab (513 views)
-- [Heating & Security Control Part 1 - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=rVI2f-4CaWs) — RasPiPkr Tutorials (335 views)
-- [Heating & Security Control Part 16 - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=wTMnFf475ko) — RasPiPkr Tutorials (239 views)
-- [Heating & Security Control Part 18 - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=zurUmH_Z8Rg) — RasPiPkr Tutorials (279 views)
-- [Heating & Security Control Part 19 - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=K32QMdHyRnw) — RasPiPkr Tutorials (426 views)
-- [Heating & Security Control Part 2 - Raspberry Pi using GIMP to create my gui main menu buttons](https://www.youtube.com/watch?v=0Jx1_yTGDUk) — RasPiPkr Tutorials (221 views)
 - [HiFive 1 Dev Kit](https://www.youtube.com/watch?v=tiiqEDTXAO8) — Iron Bug (615 views)
 - [HONEY🍯-pot scam exposed: How a chrome extension scammed of us |UnholyTrinity Reacts to @MegaLag ||](https://www.youtube.com/watch?v=mnQaM9x2Fpk) — Unholy Trinity (189 views)
 - [How to create a Foglight Oracle Agent Using the Simple Mode](https://www.youtube.com/watch?v=q0xdSU4cgBo) — Quest Technical Support (285 views)
-- [Important Audio Or Video Jarur Isko Dekhen महत्वपूर्ण ऑडियो या वीडियो जरूर इसे देखें @PIOfficialDev](https://www.youtube.com/watch?v=P-mxd5sh9hw) — PI Official Dev (311 views)
 - [Interfacing communication with spi](https://www.youtube.com/watch?v=DFWxQwgPTlw) — arsh sandhu (371 views)
 - [Intro Video for Hack-spi for Sonic Pi](https://www.youtube.com/watch?v=vKSx4cZygo8) — Granddad GotMojo (342 views)
 - [INTRODUZIONE LIVE CODING OTTENERE SONIC PI](https://www.youtube.com/watch?v=CDK9cGh9BC4) — Antonio Artiaco (337 views)
 - [ISOMED - Surgical Protocol - Tissue level conical implants with D1/D2 bone density](https://www.youtube.com/watch?v=NcQheYo1iC8) — Isomed Srl (436 views)
 - [JAW PiDev by AbstractTeam](https://www.youtube.com/watch?v=bkltqknHHJo) — Fares Ben Hamouda (253 views)
-- [Joystick-Controlled LEDS with Raspberry Pi 🕹️#raspberrypi #arduino #coding #python #electronics](https://www.youtube.com/watch?v=zQVC1Es3hD8) — The Chipmunk Charmer (340 views)
 - [KafePi Televizyon Reklamı](https://www.youtube.com/watch?v=pCX1toruKIM) — 12 Yapım (574 views)
 - [Kamibot Pi: How the apps work](https://www.youtube.com/watch?v=UOBVoXiuG9o) — Kamibot Pi (533 views)
 - [Kamibot Pi: Your child's easiest first step into coding](https://www.youtube.com/watch?v=MMPgr5PnofM) — Kamibot Pi (492 views)
 - [La population de Mpoti (région de l'Est-Mono) accueille Jean-Pierre Fabre](https://www.youtube.com/watch?v=KR3v62V7fvI) — TogoVisions (467 views)
 - [Learn about Cherry Pi](https://www.youtube.com/watch?v=16K10hJImHI) — Avendra International Europe (516 views)
 - [Leksha - Rozarium (Sonic Pi version)](https://www.youtube.com/watch?v=KNJgGyxwlHo) — Leksha Yankov (144 views)
-- [Lesson 7- traffic lights on raspberry pi and node-red](https://www.youtube.com/watch?v=gmBkINDicNw) — Oscar Campos-Soto (518 views)
 - [Making The mangoPi Ep 1: The Plan](https://www.youtube.com/watch?v=H7NrEpfInr8) — Crispy Mangoes (280 views)
 - [Minecraft Pi - Make an Immutable World Using Python](https://www.youtube.com/watch?v=rHNyxNLnhX8) — Geek Tutorials (591 views)
 - [Minimal Code - Minimal Music](https://www.youtube.com/watch?v=4a0UohLVFDA) — Davids Music Lab (306 views)
 - [Mitsuru's SHOCKING SL Romance ENDING in P3 Reload](https://www.youtube.com/watch?v=DCIQ7tCCmrw) — EXP StoryGamerZ (415 views)
-- [Mounting a Raspberry Pi 4 in my Porsche](https://www.youtube.com/watch?v=Uyk_v1gn9s0) — Define Modified (394 views)
 - [Muito Tempo, por Zé Pi](https://www.youtube.com/watch?v=zxWCiC-nksc) — Cultura Livre (466 views)
 - [My neighbor spying on me](https://www.youtube.com/watch?v=YxdaTLowBhM) — Johnjeremiah2006 Hilding (726 views)
 - [My RPI -laptop](https://www.youtube.com/watch?v=G7yVPFNY830) — Diony German (495 views)
 - [nani market gale /gunjan Krishna express](https://www.youtube.com/watch?v=wF44GlNCoEc) — Gunjan Krishna express (186 views)
-- [New Update Today Pearlvine |अमेरिका से सतपाल सर का मैसेज आया |Pearl वालो को 3~3 राऊंड ऑटोपूल Just](https://www.youtube.com/watch?v=6YyhseQTeeg) — PI Official Dev (446 views)
 - [Noise Harassment (Gang Stalking)](https://www.youtube.com/watch?v=DkK-mOZ1QoY) — Know TheTruth (305 views)
 - [Noisy upstairs neighbor - 10/8/2018 11:00 PM (Please use headphones)](https://www.youtube.com/watch?v=rm5IG4XDBhU) — oldystation (489 views)
 - [notasi pi notasi product notasi perkalian i per i + 1 dari i = 1 sampai 2](https://www.youtube.com/watch?v=1_pF7Rw-DO0) — kurotaka ikuzo (191 views)
@@ -3410,35 +3248,19 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Oddly Specific ASMR || Crying in the shower while your neighbors upstairs have a party](https://www.youtube.com/watch?v=d38Wkaugt18) — Oddly Specific ASMR (411 views)
 - [Open-source iControlPad2 Bluetooth controller works with just about anything](https://www.youtube.com/watch?v=jJmhXF9RMXM) — NishensTechTips (531 views)
 - [ORGANIZED STALKER NEIGHBOR DOES A SAME TIME DEPARTURE 10/31/2016 PROOF OF ORGANIZED STALKING](https://www.youtube.com/watch?v=0kXLooBOsB0) — setupbyneighbors (343 views)
-- [Pearl+Coral+Onyx+Quartz ऑटोपूल की बरसात रिसीव@tipsofficial  @onlinejobRk @MLMNetwork @digitalpesha1](https://www.youtube.com/watch?v=AHe-JwyE6ok) — PI Official Dev (311 views)
-- [Pearlvine international new update today // autopool कब आयेगा पुरा clear ||](https://www.youtube.com/watch?v=d_l_mN_JWng) — PI Official Dev (597 views)
-- [Pearlvine International Plan is 100% Fraud | ki Sach Kya Hai](https://www.youtube.com/watch?v=FjEbFs0BUoc) — PI Official Dev (326 views)
 - [Pearlvine Seed Patner Banne Ke Liye 50 BUSD ₹ 82.45 * = 4,122.5 ₹ INR @PIOfficialDev](https://www.youtube.com/watch?v=P350NpN4yu4) — PI Official Dev (583 views)
-- [Pearlvine System की तरफ से दिवाली Notification अपनी Website पर चैक करें BANK 🏦 WITHDRAWAL होगा ?](https://www.youtube.com/watch?v=8aHKIkB88-Q) — PI Official Dev (262 views)
-- [Pearlvine में पहली बार इतनी शानदार जनकारी। आज तक कहीं ना सुनी/देखी होगी। Pearlvine Know your System](https://www.youtube.com/watch?v=zgq5JKodZyA) — PI Official Dev (474 views)
 - [Phystris - Color Areas combo](https://www.youtube.com/watch?v=8Ba2glvETtg) — PeterSvP (279 views)
 - [phystris - Easy mission 6](https://www.youtube.com/watch?v=2zAjMEscu4A) — PeterSvP (312 views)
 - [Pi Developer Portal](https://www.youtube.com/watch?v=rruMoxbxcGw) — 喵Ai (606 views)
 - [Pi Lifestyles first hand forged knife! Day 1 Progress](https://www.youtube.com/watch?v=iiWoajfa4gw) — Rising Phoenix (154 views)
 - [Pipe bust and my ceiling coming from upstairs neighbor apartment and this is the end result](https://www.youtube.com/watch?v=84qpHN8ctdo) — Jason Lewis (251 views)
 - [Playing Phystris - a physics based tetris-like game](https://www.youtube.com/watch?v=NmxNy4HMvZo) — PeterSvP (433 views)
-- [PVC Meta And Pearlvine International Ka Sach Ajay Mohit Sir Ne अब क्या कह दिया Audio Ko Pura Sun Lo](https://www.youtube.com/watch?v=5zavk5E3OYY) — PI Official Dev (308 views)
-- [PvcMeta New Update Today 1 PVC META Price 5.81+@digitalpesha1](https://www.youtube.com/watch?v=SbEXRiObQtQ) — PI Official Dev (299 views)
 - [rank 15 Bibi! I Brawl stars Greek I Dark dimosYT](https://www.youtube.com/watch?v=eghzCWNpRvE) — dim (114 views)
 - [Rank 20 colt! / Brawl stars Greek / Dark dimosYT](https://www.youtube.com/watch?v=7WFTmCMETEk) — dim (173 views)
-- [Raspberry PI #coding](https://www.youtube.com/watch?v=ycavurP13T0) — Sebaexe (516 views)
-- [Raspberry Pi CM4 dsi0 and dsi1 simultaneously](https://www.youtube.com/watch?v=e_napu5S24s) — mangodan2003 (243 views)
-- [Raspberry Pi DIY Notebook](https://www.youtube.com/watch?v=rM9EVbr-2lA) — Head Sun (313 views)
-- [Raspberry Pi Laptop EP 1: Macbook Battery Teardown](https://www.youtube.com/watch?v=A-cYYDsWP98) — G.M. (239 views)
-- [Raspberry Pi Pico W](https://www.youtube.com/watch?v=iHeYaZ8bkZ8) — David Lenon (413 views)
-- [Raspberry Pi: FATAL: cannot open /dev/ttyAMA0: Permission denied](https://www.youtube.com/watch?v=-CAz0DPr_uY) — Roel Van de Paar (330 views)
-- [Raspberry Pi: How to change the default baudrate of raspberry pi's serial port? (2 Solutions!!)](https://www.youtube.com/watch?v=Ct0bCK7-m5U) — Roel Van de Paar (317 views)
-- [Raspberry Pi: Xlib: extension "RANDR" missing on display ":1.0" (2 Solutions!!)](https://www.youtube.com/watch?v=Mr3yk4wI3UM) — Roel Van de Paar (423 views)
 - [Reacting to Sophia's Persona Awakening in Persona 5 Strikers](https://www.youtube.com/watch?v=u07JIOgnsqI) — EXP StoryGamerZ (371 views)
 - [Revisiting minecraft pi edition in 2023](https://www.youtube.com/watch?v=iCvysu4xYIc) — TPOTX (611 views)
 - [Sapotone - Não Se Esconde (FullAlbum) 0 Sintonia  3:09 Mergulhar 6:38 KarmaCalma 10:33 Só eu e Você.](https://www.youtube.com/watch?v=zvpssMoW2Ow) — Sapotone (199 views)
 - [Se Você Soubesse, por Zé Pi](https://www.youtube.com/watch?v=sqGh81hM_-o) — Cultura Livre (240 views)
-- [Simple Blink LED program with Device(GPIO) Driver for RaspberryPi 2](https://www.youtube.com/watch?v=w9_90q6KgeQ) — Joonhee Jeong (556 views)
 - [Sonic PI  with TouchOSC my second verson](https://www.youtube.com/watch?v=51VPHzSNwyA) — rbn1tube (330 views)
 - [Sonic Pi - Coding Live Music with Brooks Frederickson](https://www.youtube.com/watch?v=br5oSJfBFvo) — Innovation Co-Lab (311 views)
 - [Sonic Pi - Level 2 Guitar Song](https://www.youtube.com/watch?v=trayoREXyYs) — Hello World Music Programming (301 views)
@@ -3457,25 +3279,18 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [The Moment Amada Got the JUMP on MC in Persona 3 Reload](https://www.youtube.com/watch?v=RIyV3p9YZpM) — EXP StoryGamerZ (305 views)
 - [The new pi top with inventor's kit   Create electronic projects   YouTube](https://www.youtube.com/watch?v=ylpovp6bMkM) — Schoolstoreng Limited (516 views)
 - [These people hack my phone](https://www.youtube.com/watch?v=tA2K1Jp0dTU) — GangstalkersonblastbyAlanMctague “Alan” McTague (451 views)
-- [Today New Update // क्या क्या चिजे हटाए गया है || Pearlvine](https://www.youtube.com/watch?v=vW8Ti8lvLf0) — PI Official Dev (603 views)
 - [TRS-80 Model 100 Stands #shorts](https://www.youtube.com/watch?v=yhpIXKHeemo) — Real Chef_Tom (546 views)
-- [Trust Wallet Me Login Kaise Kre Krypton Club I'd Jaane Is Video Me @PIOfficialDev](https://www.youtube.com/watch?v=QS_7isu1htw) — PI Official Dev (318 views)
 - [Unfaithful - Rihanna Reggae Instrumental Coded with Sonic Pi](https://www.youtube.com/watch?v=67RDDCeP_JA) — Evans Augustt (345 views)
 - [Up-stairs threatening stomping](https://www.youtube.com/watch?v=v4CNrNenUio) — Bob Lee (588 views)
 - [Upstairs Neighbours](https://www.youtube.com/watch?v=9fn8pWpkK4A) — Daniel Morris (370 views)
 - [Upstairs stalking 11 20 2013](https://www.youtube.com/watch?v=FZLrO4GFWPQ) — 2050neighbors (664 views)
 - [WAD-A64U SPI Test - Windows 10 IoT Core(1709 Ver.)](https://www.youtube.com/watch?v=I4AEq0VgQ3E) — WeAreDev (327 views)
-- [What to consider when building a Server versus a Raspberry Pi 4 - CPU](https://www.youtube.com/watch?v=W4F7HuBVYBo) — Sauber-Lab UK (377 views)
 - [Would you buy this mini PC? | fanof reacts to @ETAPRIME (via YT)](https://www.youtube.com/watch?v=asDDYOv-I0M) — fanof (267 views)
 - [Zé Pi - Fique à Vontade (Show de lançamento do álbum "Rizar" - 2015)](https://www.youtube.com/watch?v=yvlMDl5YE2Q) — Zé Pi (236 views)
 - [Zé Pi canta "Muito Tempo" no programa Experimente.](https://www.youtube.com/watch?v=d9ODm2mkJ2c) — Zé Pi (325 views)
 - [Zé Pi no Metrópolis (03/09/2015)](https://www.youtube.com/watch?v=YDOoDjYEj10) — Metrópolis (543 views)
 - [Δοκιμάζουμε την collette! / Brawl stars greek  / Dark dimosYT](https://www.youtube.com/watch?v=nLFMhVPfeYA) — dim (211 views)
 - [Παίζω με τον FanaTikos.ios9! / brawl stars greek / Dark dimosYT](https://www.youtube.com/watch?v=Y1xGNle5VWU) — dim (185 views)
-- [Магия Программирования: Урок Трансфигурации ч.2  #minecraft #python #shortsclip](https://www.youtube.com/watch?v=IjWD9cQdEuQ) — Prof. Enshire (204 views)
-- [टोकन फार्मिंग कैसे करें,स्टेप बाय स्टेप जानिए How To Start Token Farming PVC meta @JAY PEARLVINE](https://www.youtube.com/watch?v=l3yyvo6pcnQ) — PI Official Dev (425 views)
-- [बधाई हो PvcMeta में होने जा रहा है बहुत बड़ा धमाल बहुत तेजी से रेट बढ़ेगा DP के रेट में भी होगा बड़ा](https://www.youtube.com/watch?v=6-h929lL2rQ) — PI Official Dev (430 views)
-- [महत्वपूर्ण वीडियो प्रतीक गुप्ता जी का देखना ना भूले pvcmeta.io pearlvine international @protikgupta](https://www.youtube.com/watch?v=534kdk4nhMc) — PI Official Dev (306 views)
 - ["In C" by Terry Riley with Sonic Pi](https://www.youtube.com/watch?v=jkSxv8aE7Qg) — Simone Francia (148 views)
 - [(1) Sonic Pi - 8v01d - First Attempt](https://www.youtube.com/watch?v=FjCM-boZdmw) — 8v01d (126 views)
 - [(Targeted Individual) Upstairs neighbor with RED & BLACK checkered pattern code/triggering visual](https://www.youtube.com/watch?v=F4ycwzj1Fck) — R.T. T.I. in NYC (179 views)
@@ -3489,8 +3304,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [#RATCHET #UPSTAIRS #NOISYASS #NEIGHBORS ALL NIGHT LONG 11216@1224a](https://www.youtube.com/watch?v=VQbky4oBx28) — prissy nonee (59 views)
 - [#RATCHET #UPSTAIRS #NOISYASS #NEIGHBORS GOING AT IT ALL NIGHT LONG 222a@121416](https://www.youtube.com/watch?v=iyGyiKVpGls) — prissy nonee (208 views)
 - [❣️CRPF❣️#shortsfeed 🥴#army#crpf #viralshorts #trendingshorts #ja Hind #jai #bharat 🥰🤣#youtubeshorts](https://www.youtube.com/watch?v=bZO3nG99OPg) — Mg chimpu Kumar  (3 views)
-- [😅я машіна](https://www.youtube.com/watch?v=jldHLAmftvU) — Pi Pi dev 02 (2 views)
-- [12 सितंबर 2022 से आप सभी अपने DP के माध्यम से PVC मेटा में 1 कीमत एक DP या एक BUSD के बराबर होगी।](https://www.youtube.com/watch?v=dEeSJ6K7Mgc) — PI Official Dev (148 views)
 - [12/27/17@347 MORE #RATCHET UPSTAIRS NEIGHBORS](https://www.youtube.com/watch?v=Bnj-loTnow4) — prissy nonee (61 views)
 - [2. Rodará Extension III - Marla Project](https://www.youtube.com/watch?v=XergfKw5XFk) — Mener M. Ramírez (124 views)
 - [2/9/22 Gangstalking Neighbor Using Clicker to disabled doorbell camera in driveway](https://www.youtube.com/watch?v=GZRb1ajR3Bo) — Spirit of Everlasting Endurance (113 views)
@@ -3500,8 +3313,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [4:44pm. 5-1-19 GOVERNMENT ELECTRONIC HARASSMENT  AND PULSE!](https://www.youtube.com/watch?v=mV6thfGWLKU) — Chris Hansen (25 views)
 - [4'33" - played by Sonic Pi](https://www.youtube.com/watch?v=l7GdW8754mw) — Davids Music Lab (129 views)
 - [4/12/19 That’s the guy in apt 50 above me stomping](https://www.youtube.com/watch?v=yuWfkML29Wk) — TI FEMALE (97 views)
-- [4th से 5th आटोपुल अपडेट होगा रुका आटोपुल जल्द अपडेट होगा Pearvine Leatest Update ? @PIOfficialDev](https://www.youtube.com/watch?v=IvQmJY0j6CM) — PI Official Dev (209 views)
-- [6 October 2022 बडा धमाँका Pearlvine DP holders Good News , Swap to PVC META token](https://www.youtube.com/watch?v=tPfTxbx7akI) — PI Official Dev (179 views)
 - [6. Demo Foglight for Virtualization- Administración y Costos.](https://www.youtube.com/watch?v=CMMiGtudl8I) — Alta Tecnología S.A. (34 views)
 - [A First Timer's Persona 3 Reload LIVESTREAM [Highlights #1]](https://www.youtube.com/watch?v=f7RtddO44yw) — EXP StoryGamerZ (10 views)
 - [A First Timer's Persona 3 Reload LIVESTREAM [Highlights #2]](https://www.youtube.com/watch?v=uIEQdprfx8c) — EXP StoryGamerZ (4 views)
@@ -3519,45 +3330,30 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Banana Pi R18 MIC AVS GPU accelerator](https://www.youtube.com/watch?v=-h24EcGRdwY) — Nora Lee (125 views)
 - [Baudrate 115200 no funciona](https://www.youtube.com/watch?v=nOkR53AZAcE) — Rodrigo Ignacio Adet (108 views)
 - [being Tatget-Individial for so many years by the upstairs neighbors](https://www.youtube.com/watch?v=-pxdCR9iZ8c) — src cr (149 views)
-- [Brain Bright Homeschool 🌍趣味学堂🌍: 🐒STEM🐒 -  💻Raspberry Pi computer workshop💻电脑科创、编程活动](https://www.youtube.com/watch?v=p3hAuxuWE3E) — Kelly (92 views)
 - [C++ : Writing to /dev/fb0 using OpenCV](https://www.youtube.com/watch?v=vHKONsdXDqw) — Hey Delphi (91 views)
-- [CamJam7 - Contributing to Raspberry Pi Learning with GitHub - Ben Nuttall](https://www.youtube.com/watch?v=094EH2kWe0g) — Cambridge Raspberry Jam (162 views)
 - [Cardboard Pi](https://www.youtube.com/watch?v=0LASGZOuzwo) — Scott Design Solutions (72 views)
 - [chicken curry /gunjan Krishna express odia video blogs](https://www.youtube.com/watch?v=UcNZCBMOboA) — Gunjan Krishna express (29 views)
-- [ColorBlend FX #2 - Напрежението продължава...](https://www.youtube.com/watch?v=vNZ0faAEBR0) — Childhood Memories (Marks) (65 views)
-- [ColorBlend FX #3 - Играта се оказа доста лесна](https://www.youtube.com/watch?v=2ug0TpYqR9Q) — Childhood Memories (Marks) (111 views)
-- [ColorBlend FX #5 - Създателят на играта играе!!!](https://www.youtube.com/watch?v=t5vJLSSvdzo) — Childhood Memories (Marks) (105 views)
 - [ColorBlend FX Demo 2022 | puzzle platformer 2022](https://www.youtube.com/watch?v=h77DUaLxU20) — JustZweni (33 views)
 - [ColorBlend FX: Prologue | Conhecendo o Jogo](https://www.youtube.com/watch?v=5cbGlCRYDn4) — Over Noob (117 views)
-- [ColorBlendFX: Desaturation - Част 2](https://www.youtube.com/watch?v=TYm104xvLCs) — Nerd Zone (71 views)
-- [ColorBlendFX: Desaturation - Част 3](https://www.youtube.com/watch?v=cY49TdQ2eEs) — Nerd Zone (25 views)
 - [Computing- Programming KS2 Y5 Lesson 2  Sonic Pi Coding](https://www.youtube.com/watch?v=7svaW8TdxUg) — Kapow Primary (225 views)
 - [CONCERT READY | Honkai Star Rail: "Before the Show Starts" REACTION](https://www.youtube.com/watch?v=unXD-UDKK_w) — EXP StoryGamerZ (123 views)
 - [Coolio - Gangsta's Paradise on Sonic Pi #coding #beats #hiphop #sonicpi](https://www.youtube.com/watch?v=UyrKjaWkTqI) — roguentropy (98 views)
-- [Coral Or Pearl Autopool का महा धमाका शुरू हो गया है Pearl Rank wale 4 se 5 Round Coming Shuru DP](https://www.youtube.com/watch?v=PM5SzwjA8EU) — PI Official Dev (113 views)
-- [Create Empty files using the touch command in the #terminal of the #raspberrypi #linux #technology](https://www.youtube.com/watch?v=-_QxD5hw4Tg) — RoboTech (102 views)
 - [Dennis Geurts (Luminis) - Android Things - connecting the Physical world through Peripheral I/O](https://www.youtube.com/watch?v=BQpwdiWtLfI) — SPACE (76 views)
 - [Desaturation 🇧🇬 (2024) #10 - The Quest of Colourful Crystals](https://www.youtube.com/watch?v=aBPLvEYa-DA) — Yonack Dreven (7 views)
 - [Desaturation 🇧🇬 (2024) #16 - Arcade Gaming](https://www.youtube.com/watch?v=__tLeHDqqVQ) — Yonack Dreven (11 views)
 - [Desaturation 🇧🇬 (2024) #2 - Now it's a Colourless World!](https://www.youtube.com/watch?v=hb8KMnxfse0) — Yonack Dreven (6 views)
 - [Desaturation 🇧🇬 (2024) #6 - Training Arc](https://www.youtube.com/watch?v=_TCXf1fAe-M) — Yonack Dreven (17 views)
-- [DP Withdrawal नहीं होगाPvc Metaमें होने जा रहा है बहुत तेजी से रेट बढ़ेगा DPके रेट में भी होगा बड़ा.](https://www.youtube.com/watch?v=l3QmE9XQqNU) — PI Official Dev (200 views)
-- [DP को PvcMeta टोकन Farming शुरू किया गया है।](https://www.youtube.com/watch?v=ve_BTRHByBM) — PI Official Dev (216 views)
-- [DP को अगर PVC मेटा में कन्वर्ट करना चाहते हो तो यह कम जल्दी कर लो वरना DP  Withdraw नहीं कर पाओगे](https://www.youtube.com/watch?v=lG8rWFTL-l4) — PI Official Dev (173 views)
-- [DP से होगी TOken Farming12/9/22 से आप सभी अपने DP से PVC मेटा में कर सकेंगे 1DPया1BUSD के बराबर होगी](https://www.youtube.com/watch?v=0ox1y68fBDM) — PI Official Dev (193 views)
 - [Emz rank 1 - rank 10 I Brawl stars Greek I Dark dimosYT](https://www.youtube.com/watch?v=WzJ_yCzQWO0) — dim (119 views)
 - [Epic Showdown: Intense Parry Clashes with Barnabas (Odin) in Final Fantasy XVI](https://www.youtube.com/watch?v=5j06cWbNrCU) — EXP StoryGamerZ (31 views)
 - [Error on UNOr3--＞ avrdude: ser_open(): can't open device "/dev/ttyUSB0": No such file](https://www.youtube.com/watch?v=26m8Y7QFZ8Y) — Roel Van de Paar (94 views)
 - [Estudo em Choro No1 (Julio Bellodi)](https://www.youtube.com/watch?v=IJ-uh7WWYpw) — Julio Bellodi (25 views)
 - [Etherel Takes on Inferno Mines - Episode 7: Darn Noisy Upstairs Neighbors!](https://www.youtube.com/watch?v=0rKZTKXYNds) — Etherel (41 views)
-- [Expansion Board for reTerminal Announced](https://www.youtube.com/watch?v=Ez9FRcCVMZk) — Joel Johnson (j2i.net) (210 views)
 - [Experimental security device (feat. pi-top[4])](https://www.youtube.com/watch?v=DT0UeTSa_VE) — LittleBit (200 views)
 - [Exploring the Interface - The Sonic Pi Tutorial, section 1.2](https://www.youtube.com/watch?v=HqORH4vmdcQ) — Erik Kristofer Anderson (70 views)
 - [FABRİKADA YANGIN BÜYÜK KORKU YAŞATTI](https://www.youtube.com/watch?v=oa3AoBW1D88) — Akif Çiriş (126 views)
 - [FEIXIAO and The BORISINS | Honkai Star Rail Trailer - "Finest Duel Under the Pristine Blue" REACTION](https://www.youtube.com/watch?v=TP_YhNFYkb8) — EXP StoryGamerZ (137 views)
 - [Fique a vontade - Zé Pi @ Teatro Oficina](https://www.youtube.com/watch?v=gG5qqxaPxDo) — JonasREJCS (224 views)
 - [Firefly SHINES in this trailer | Honkai Star Rail Firefly - "Embers in a Shell" REACTION](https://www.youtube.com/watch?v=cfIvuSJK_fs) — EXP StoryGamerZ (15 views)
-- [Flashing LED Functionality on Raspberry Pi B+ (RPi-B+) Using GPIO Output](https://www.youtube.com/watch?v=uVYKvIIMQDY) — jman41622 (248 views)
 - [Foglight - Configuring Performance Counters in the SQL Server agent](https://www.youtube.com/watch?v=ZTPrHZg0uhc) — John Sakalauskas (26 views)
 - [Foglight - Opening the Foglight Classic Web Console](https://www.youtube.com/watch?v=UDpdHZJr8Hs) — Quest Technical Support (89 views)
 - [Foglight Cartridge for DB2 - How to Upgrade to 5.7.5.x](https://www.youtube.com/watch?v=QXUDFCcVLYM) — Quest Technical Support (38 views)
@@ -3575,26 +3371,10 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [From Fail to Success - Stellar Blade Gigas 2nd Fight MOMENT](https://www.youtube.com/watch?v=OkrlpGe0VVs) — EXP StoryGamerZ (17 views)
 - [glitches and shit with sonic pi  #coding #bass](https://www.youtube.com/watch?v=_iVodpcXma8) — roguentropy (60 views)
 - [Gökcem Derneği 2011 Etkinlikleri - TRT Haber](https://www.youtube.com/watch?v=eIJVWChOEW8) — Gökcem Down Sendromu Farkındalık Kanalı (191 views)
-- [Good News Timer और New Deshbord रेफरल लिंक कब आएगी All Info @PIOfficialDev](https://www.youtube.com/watch?v=VQvBf3UDd6c) — PI Official Dev (32 views)
 - [GRAVE WARNING: TARGETED INDIVIDUALS](https://www.youtube.com/watch?v=Cqm3etAl6Do) — King's Way (104 views)
 - [GSM modem does not create /dev/ttyUSB file (3 Solutions!!)](https://www.youtube.com/watch?v=hwBjy19p4mc) — Roel Van de Paar (57 views)
 - [gunjan Krishna express / shorts video](https://www.youtube.com/watch?v=MKXkospuUok) — Gunjan Krishna express (16 views)
 - [Haunted House - Sonic Pi live coding session](https://www.youtube.com/watch?v=jZXXnlMgVmQ) — Davids Music Lab (166 views)
-- [Heating & Security Control Part 10 - Raspberry Pi using GIMP imaging software to create gui buttons](https://www.youtube.com/watch?v=GF7SB9S-nag) — RasPiPkr Tutorials (74 views)
-- [Heating & Security Control Part 12 - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=Yo9eVw6PYh4) — RasPiPkr Tutorials (83 views)
-- [Heating & Security Control Part 14 - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=Lfr_UsEaz_k) — RasPiPkr Tutorials (61 views)
-- [Heating & Security Control Part 20 - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=nL7V3OaEfe0) — RasPiPkr Tutorials (185 views)
-- [Heating & Security Control Part 21 - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=Vk0hjPm1b1k) — RasPiPkr Tutorials (70 views)
-- [Heating & Security Control Part 22 - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=agadXDXWwPU) — RasPiPkr Tutorials (68 views)
-- [Heating & Security Control Part 23 - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=D7kOA9UOq20) — RasPiPkr Tutorials (55 views)
-- [Heating & Security Control Part 24 - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=yWW6_jMV34Q) — RasPiPkr Tutorials (95 views)
-- [Heating & Security Control Part 3 - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=jV86gaK6rkU) — RasPiPkr Tutorials (146 views)
-- [Heating & Security Control Part 30 - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=rXR5LycBjb8) — RasPiPkr Tutorials (99 views)
-- [Heating & Security Control Part 31 - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=JB6wj1t--kw) — RasPiPkr Tutorials (50 views)
-- [Heating & Security Control Part 5 - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=WlPXIZZIVog) — RasPiPkr Tutorials (98 views)
-- [Heating & Security Control Part 6 - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=ZsRkABPn4Uo) — RasPiPkr Tutorials (111 views)
-- [Heating & Security Control Part 8 - Raspberry Pi coding python tkinter gui](https://www.youtube.com/watch?v=jQ8I9_5YkKQ) — RasPiPkr Tutorials (59 views)
-- [Heating & Security Control Part 9 - Raspberry Pi coding python tkinter gui for my heating menu](https://www.youtube.com/watch?v=apihQoQFQks) — RasPiPkr Tutorials (134 views)
 - [Hi-Fi Rush Lore Walkthrough - Explorative Gameplay Part 1](https://www.youtube.com/watch?v=L9Y2BaZl1c8) — EXP StoryGamerZ (16 views)
 - [Home - Edward Sharpe and the Magnetic Zeros | Sonic Pi](https://www.youtube.com/watch?v=lMxr93VluNk) — sonic_pop (69 views)
 - [Honkai Star Rail 2.1 - The Story of Acheron & Aventurine FINALE](https://www.youtube.com/watch?v=1d4PfvzWN5M) — EXP StoryGamerZ (13 views)
@@ -3618,7 +3398,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [How to Upgrade Foglight Cartridge for Oracle to Version 5.7.5.X Converting Foglight Oracle PA Integr](https://www.youtube.com/watch?v=oz18xCR0sOg) — Quest Technical Support (46 views)
 - [Hutanku Lestari untuk Masa Depan Lebih Baik](https://www.youtube.com/watch?v=e_Hwr6MVvLw) — El Vina (92 views)
 - [Im tired of the thumping upstairs for no reason when im trying to sleep](https://www.youtube.com/watch?v=P4AsfO1gMBM) — Jason Bouskill (51 views)
-- [India के प्रधानमंत्री द्वारा जानिए दुनिया में 3 प्रकार के लोग होते हैं   Pearlvine International ||](https://www.youtube.com/watch?v=1mIA-04BK24) — PI Official Dev (86 views)
 - [Inferno Plays ColorBlend FX Demo](https://www.youtube.com/watch?v=xFKy3YOsF-k) — Chris Inglis (100 views)
 - [Instalación y uso interactivo de xsp](https://www.youtube.com/watch?v=SukrxHdHXBE) — Heap Overflow (115 views)
 - [Introducing Sonic Pi - coding music in the primary classroom](https://www.youtube.com/watch?v=7tPF-74Ezjg) — ScratchMyPi (131 views)
@@ -3639,7 +3418,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Life Of Pi 2012 720p WEBRip x264 AC3 LEGi0N sample](https://www.youtube.com/watch?v=xcocVrENWoU) — kulwinder sidhu (80 views)
 - [Life of Pi-Trailor](https://www.youtube.com/watch?v=qa47qrAkaQs) — Juan Taracena (37 views)
 - [Live coding virgin, coding beats and dance music with Sonic Pi](https://www.youtube.com/watch?v=gu9YX3btrGc) — Ziran (147 views)
-- [LiveCoding01 with 乱択論理AI初号機 on Sonic Pi](https://www.youtube.com/watch?v=XXv3aivvY0I) — cuir rosa (46 views)
 - [Loud #gangstalking motel neighbors are afraid of me. More loud talking after this video stopped.](https://www.youtube.com/watch?v=Vj1QoQStkxs) — Targeted By The Psych World  (103 views)
 - [Marla Project - ExtraOrdinary - Skate](https://www.youtube.com/watch?v=9L6V3lKbjqU) — Mener M. Ramírez (120 views)
 - [Me Talking About My Crazy Neighbor Stalking Me Live Footage](https://www.youtube.com/watch?v=I219h3bJniU) — juan silva (41 views)
@@ -3660,7 +3438,6 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Parallel Paths - Sonic Pi live coding session](https://www.youtube.com/watch?v=wT3JPkuNmhA) — Davids Music Lab (142 views)
 - [Part 1- Targeted Individual- Neighbor Harassment and base](https://www.youtube.com/watch?v=EYjtKvX7lKM) — Karma Friendly (159 views)
 - [Pearlvine Baldev Cahal Ji Ki Very Important Audio Jisme System Ya Admin Ko Appeal Ki  Gayi Hai,....](https://www.youtube.com/watch?v=z5vmIBsyf5E) — PI Official Dev (170 views)
-- [Pearlvine V/S TallwinLife Join करNe Keलिया अब आगे क्या और कैसे करें ! Ful Hindi Plan ||@digitalpesha1](https://www.youtube.com/watch?v=V0FRtTv2Xek) — PI Official Dev (93 views)
 - [Persona 5 Strikers - Demiurge Gameplay Highlights](https://www.youtube.com/watch?v=DE99otOnnCU) — EXP StoryGamerZ (8 views)
 - [PI Agent Poss](https://www.youtube.com/watch?v=RpbvzwoL90E) — Mikhail Denisov (21 views)
 - [PI DEV Bons_Plans 2018](https://www.youtube.com/watch?v=3X2Q1RtrhAQ) — Omar Jarray (6 views)
@@ -3669,31 +3446,9 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Pluto7 and Leafhome Testimonial. Pluto7's Gen AI Agents solving Supply Chain problems.](https://www.youtube.com/watch?v=35UFo5x792o) — Pluto7 (160 views)
 - [Polyend Tracker - Track 17 - L Verse](https://www.youtube.com/watch?v=uTp1BCU7w8s) — Larry Johnson (109 views)
 - [Prerequisites for Installing Foglight](https://www.youtube.com/watch?v=9HIGmw3fd3E) — Quest (80 views)
-- [Printing a case for my raspberry PI. Love 3d printing!!](https://www.youtube.com/watch?v=-c7tc_oYLD4) — Felix (126 views)
 - [PUMPKIN Pi demo](https://www.youtube.com/watch?v=USPqNEM-SmI) — Talia Ringer (138 views)
-- [Pvcmeta अब आप बिना पैसे के Seed Partner Ye Token Farming शुरू कैसे करें | 1PVC RS 4.97×85=422.45 INR](https://www.youtube.com/watch?v=iAixSuVyRWg) — PI Official Dev (237 views)
-- [pvcmeta.io new update @PIOfficialDev #pearlvine](https://www.youtube.com/watch?v=5s7--YGY5Xc) — PI Official Dev (86 views)
 - [rank 15 Nani! I Brawl stars Greek I Dark DimosYT](https://www.youtube.com/watch?v=aSeCCn1JAPI) — dim (114 views)
 - [rank 15 Penny! I Brawl stars Greek I Dark dimosYT](https://www.youtube.com/watch?v=98BSiZZ7XzI) — dim (90 views)
-- [Raspberry Pi / Coding -- Bible Center School Technology Vision 2020](https://www.youtube.com/watch?v=aSmqTvXGhLk) — Bible Center School (197 views)
-- [Raspberry Pi 1920x1080 LibGDX fur demo](https://www.youtube.com/watch?v=g1neIzSHv_8) — justclicky (188 views)
-- [Raspberry Pi 4 Model B 2019 Quad Core 64 Bit WiFi Bluetooth (4GB) review](https://www.youtube.com/watch?v=ZCddnaF7KqU) — Wade Cuevas (216 views)
-- [Raspberry Pi Blink LED](https://www.youtube.com/watch?v=7YJ3fIMRiWc) — Raspberry Pi Projects (151 views)
-- [Raspberry Pi CM3 +lite in stock](https://www.youtube.com/watch?v=XFhQz_XZf8Q) — Winnie Wu (181 views)
-- [Raspberry Pi Tutorial: How to use Buzzer(Piezo Speaker) with LED](https://www.youtube.com/watch?v=NIIg591Rx2c) — Pym Particles (32 views)
-- [Raspberry Pi: Coding a GUI in python and driving stepper motor by user input (4 Solutions!!)](https://www.youtube.com/watch?v=IXvJQAD8kvs) — Roel Van de Paar (131 views)
-- [Raspberry Pi: Coding the Santa Detection System in Scratch with PIR motion sensor](https://www.youtube.com/watch?v=Y82BSpNX4P4) — wolferobynm (191 views)
-- [Raspberry Pi: Do i need more gpio pins?](https://www.youtube.com/watch?v=l4p_9FMAxkw) — Roel Van de Paar (96 views)
-- [Raspberry Pi: Error: serial device '/dev/ttyAMA0' does not exist](https://www.youtube.com/watch?v=1A6MWObndI0) — Roel Van de Paar (96 views)
-- [Raspberry Pi: Failing to read the /dev/ttyAMA0 port in CSHARP () (2 Solutions!!)](https://www.youtube.com/watch?v=Y-FF0am5qmE) — Roel Van de Paar (24 views)
-- [Raspberry Pi: How do I read PCM audio from a file?](https://www.youtube.com/watch?v=CbqmA1ZSU9E) — Roel Van de Paar (56 views)
-- [Raspberry Pi: How do I release or free /dev/ttyUSB0?](https://www.youtube.com/watch?v=CWnG01UpPKU) — Roel Van de Paar (155 views)
-- [Raspberry Pi: Mono with Winform, Xlib: extension "RANDR" missing on display ":10.0"](https://www.youtube.com/watch?v=TBotz_5Us3Y) — Roel Van de Paar (29 views)
-- [Raspberry Pi: Rpi3B+ buster USB to Serial (/dev/ttyUSB0) Communication Problem](https://www.youtube.com/watch?v=eFAwQlBuhQw) — Roel Van de Paar (166 views)
-- [Raspberry Pi: Running Visual Studio Built C# GUI on Raspbian Jessie (3 Solutions!!)](https://www.youtube.com/watch?v=3-2B-jp94Zw) — Roel Van de Paar (95 views)
-- [Raspberry Pi: The pi as a mobile, off-grid outdoor device](https://www.youtube.com/watch?v=Ng6d_cK2ecI) — Roel Van de Paar (17 views)
-- [Raspberry Pi: Why can't I get input from /dev/ttyAMA0?](https://www.youtube.com/watch?v=sMaZtz-5gyI) — Roel Van de Paar (28 views)
-- [Raspberry Pi: Writing problem with ttyAMA0 in termios](https://www.youtube.com/watch?v=SVk5IWf8yVs) — Roel Van de Paar (34 views)
 - [REACTING to the Stellar Blade & Silent Hill 2 Remake Trailers](https://www.youtube.com/watch?v=Iei7WU63N28) — EXP StoryGamerZ (24 views)
 - [RED SHIFITING - The Helio Sequence/ Mono Mono Sessions #8](https://www.youtube.com/watch?v=rAFJGYQSyoY) — Mono Mono Sessions (181 views)
 - [Ring Chains - The Sonic Pi Tutorial, Section 8.5](https://www.youtube.com/watch?v=etsS26o8J1w) — Erik Kristofer Anderson (40 views)
@@ -3704,11 +3459,9 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Say, Pi 1.6.2: Multilingual Magic in Action! 🌍✨](https://www.youtube.com/watch?v=gr-qljWRkac) — Say, Pi (72 views)
 - [Secret Water Damage From The Neighbors Upstairs @EliteLuxurySovereign](https://www.youtube.com/watch?v=4ygnmZtW_iE) — Sui Reinya (95 views)
 - [Seriously...What is Living Upstairs?!](https://www.youtube.com/watch?v=92Jzgzdg41I) — Kali Wyrosdic (23 views)
-- [Setting up emulated Raspberry Pi for CI pipeline (part 1)](https://www.youtube.com/watch?v=N426uA7qW1Y) — SaltyVagrantStreams (87 views)
 - [shradha/gunjan Krishna express](https://www.youtube.com/watch?v=Brpn846iDvw) — Gunjan Krishna express (72 views)
 - [Sonic Pi -- 3 recent patches](https://www.youtube.com/watch?v=yvofQ-R-J7I) — EE:33 (19 views)
 - [Sonic Pi "Sample Groove" with Visor Graphics](https://www.youtube.com/watch?v=KZUV46JL0-c) — rbn1tube (218 views)
-- [Sonic PI & Ableton live Practice Music 1](https://www.youtube.com/watch?v=u7IEBl2dn-4) — Aire Project (87 views)
 - [Sonic Pi 04: Fallunterscheidung (Ready2Code 2021)](https://www.youtube.com/watch?v=DFVYnZBHqBk) — Jörn Auerbach (116 views)
 - [Sonic Pi 3.0 drives pi-topPULSE led array on pi-topCEED](https://www.youtube.com/watch?v=71bQNrePIOc) — rbn1tube (191 views)
 - [SONIC PI CODING SUMMIT 2020-Final Project](https://www.youtube.com/watch?v=Oj5BjxCPYss) — Yagmur Aytemiz (58 views)
@@ -3721,15 +3474,12 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Sonic Pi#2: MIDI notes](https://www.youtube.com/watch?v=mgtlFPwSY0I) — CrouchingPython (119 views)
 - [SP plays midi controlled by TouchOSC](https://www.youtube.com/watch?v=TColBBwJnVE) — rbn1tube (161 views)
 - [SPI interface](https://www.youtube.com/watch?v=iuUXUTz6YmQ) — Sangwoo Kim (36 views)
-- [Spin Engenharia | BR - ActionNET embarcado no Raspberry PI](https://www.youtube.com/watch?v=JRIKWS4hcio) — Spin Eng (67 views)
 - [Spying on my neighbors](https://www.youtube.com/watch?v=maU2TbSAJvU) — Dethstroke kyle (155 views)
 - [Stalker Upstairs Neighbor Possible P.I. Agent,  Exsposed](https://www.youtube.com/watch?v=FZPHbyweua4) — Mella Singleton (189 views)
-- [Start DP से होगी TOken Farming आप सभी अपने DP से PVC मेटा में खेती कर सकेंगे। 105 DP से ||](https://www.youtube.com/watch?v=z-qEmTkm7yI) — PI Official Dev (143 views)
 - [Stellar Blade - The Altesse Levoire WALKTHROUGH](https://www.youtube.com/watch?v=sFlLNKx44kA) — EXP StoryGamerZ (15 views)
 - [Stream Highlight : Mitsuru's Concern for Missing Junpei | Persona 3 Reload](https://www.youtube.com/watch?v=7TEitkWusIE) — EXP StoryGamerZ (10 views)
 - [Stream Highlight : Tomochika's Romantic Troubles | Persona 3 Reload](https://www.youtube.com/watch?v=fTn5oo-99CE) — EXP StoryGamerZ (5 views)
 - [Tapping & Knocking Sounds 02/09/19](https://www.youtube.com/watch?v=p6gRZCmBqhs) — CraigT104 (90 views)
-- [Task 5.2 GUI in Python with Raspberry pi 3](https://www.youtube.com/watch?v=l7iOawJUby8) — Muhammad Bin Muzaffar (191 views)
 - [TD3 PI Agent Poss](https://www.youtube.com/watch?v=tDC1YpaPGPg) — Mikhail Denisov (6 views)
 - [Teatro da Rotina apresenta: Zé Pi - Anoiteceu - 14/04](https://www.youtube.com/watch?v=R8R9ugr9mgE) — Teatro da Rotina (58 views)
 - [Teatro da Rotina apresenta: Zé Pi - Bem Melhor do que Está - 14/04](https://www.youtube.com/watch?v=RcQYM9oSi0A) — Teatro da Rotina (71 views)
@@ -3745,10 +3495,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [The Sadness in Her Eyes | Honkai Star Rail Short: "The Embers of Glamoth" REACTION](https://www.youtube.com/watch?v=IBmRjAVoh-M) — EXP StoryGamerZ (30 views)
 - [The XX - Intro on Sonic Pi  #coding #sonicpi #music #livecoding](https://www.youtube.com/watch?v=PcJqq3K_aoc) — roguentropy (57 views)
 - [to Egon - Sonic Pi Improvisation](https://www.youtube.com/watch?v=xo-uvnK69Gk) — Davids Music Lab (102 views)
-- [Today Update सच क्या है Pearlvine Don't Miss ||](https://www.youtube.com/watch?v=ukZCgCwlVOo) — PI Official Dev (101 views)
-- [Token Farming | Complete Process of PVC Meta Token | Pearlvine New Update | टोकन खेती कैसे करे](https://www.youtube.com/watch?v=HiSIkNbvoig) — PI Official Dev (133 views)
 - [Trackmania DuoTrack Agent/MaC Preview](https://www.youtube.com/watch?v=_aPvQcDTTh8) — MacTmPsycho (46 views)
-- [Tutorial for blinking multiple LEDs in different patterns with raspberry pi.](https://www.youtube.com/watch?v=-cV_3neE-L4) — Mohiyuddin Khatri (210 views)
 - [Ugly Number II  Problem Number 264 #leetcode](https://www.youtube.com/watch?v=sauNhBW79FM) — Vikas Coding School (20 views)
 - [Unix & Linux: Allow partial memory mapping of /dev/mem](https://www.youtube.com/watch?v=O_qAYWIGsPA) — Roel Van de Paar (36 views)
 - [Unix & Linux: How is the i2c bus number in /dev/i2c'x' assigned?](https://www.youtube.com/watch?v=-3blnPP9ttE) — Roel Van de Paar (25 views)
@@ -3771,18 +3518,9 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 - [Zé Pi (SP) [Prata da Casa 2015] (7/2015) 3](https://www.youtube.com/watch?v=5wpl3uv1TqU) — Maravilhas nos Palcos (34 views)
 - [Zhizn Pi 2012 D BDRip 1 45GB by Yarmak23](https://www.youtube.com/watch?v=gDlrzf4WuO4) — Кристина Яблокова (133 views)
 - [µ-2246-digits-of-pi Ransomware removal instructions.](https://www.youtube.com/watch?v=hbqnKDqNPcY) — Andrey Gvozd (26 views)
-- [Любов ендерменів](https://www.youtube.com/watch?v=AUIpPZzwcgk) — Pi Pi dev 02 (2 views)
-- [Майнкрафт мультик](https://www.youtube.com/watch?v=HJOkPXvtODQ) — Pi Pi dev 02 (7 views)
-- [Майнкрафт мультик школа 🏫🏫](https://www.youtube.com/watch?v=luzZGFeaoLE) — Pi Pi dev 02 (3 views)
-- [Нарєска пісочка #2021 2#серія](https://www.youtube.com/watch?v=jXxb9BZUURE) — Pi Pi dev 02 (5 views)
-- [Отето дааа😱](https://www.youtube.com/watch?v=SfP-wLLuwqc) — Pi Pi dev 02 (2 views)
-- [Стів в любився♥️](https://www.youtube.com/watch?v=0AmR3K2AQlg) — Pi Pi dev 02 (4 views)
-- [दोस्तों नमस्कार पर्लवाइन का फ्यूचर क्या हैFree PvcToken पर्लवाइन कभी खत्म नहीं होगा@PIOfficialDev](https://www.youtube.com/watch?v=Ev7j597n4NI) — PI Official Dev (108 views)
-- [रुका आटोपुल जल्द अपडेट होगा | 1st 2nd 3rd 4th आटोपुल कम्पलिट होगा | 4th से 5th आटोपुल अपडेट होगा |](https://www.youtube.com/watch?v=xd6bhVhdpqA) — PI Official Dev (209 views)
-- [시끄러운 층간소음](https://www.youtube.com/watch?v=QmL-Cigs7Bo) — Toto6343 (184 views)
 
 ---
 
-- Generated on 2026-04-24 from 3708 entries (npm-search: 1746, github-search: 1004, youtube-search: 958)
+- Generated on 2026-04-24 from 3446 entries (npm-search: 1725, github-search: 969, youtube-search: 752)
 - Auto-updated by [awesome-pi-coding-agent](https://github.com/shaftoe/awesome-pi-coding-agent)
 

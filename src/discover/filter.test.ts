@@ -562,6 +562,124 @@ describe("isRelevant — pi-package keyword acceptance", () => {
 	});
 });
 
+// ─── Non-English language rejection ──────────────────────────────────────────
+
+describe("isRelevant — non-English language rejection", () => {
+	it("rejects Cyrillic (Russian) in description", () => {
+		const result = isRelevant(
+			candidate({
+				url: "https://www.youtube.com/watch?v=2-1Fh0W0sgQ",
+				description: "Собрал кпк на lichee pi zero для экспериментов",
+			}),
+		);
+		expect(result.relevant).toBe(false);
+		expect(result.reason).toContain("non-english");
+	});
+
+	it("rejects Cyrillic (Bulgarian) in description", () => {
+		const result = isRelevant(
+			candidate({
+				url: "https://www.youtube.com/watch?v=vNZ0faAEBR0",
+				description: "Абонирайте се за мен: https://www.youtube.com/c/MarksferdieBG",
+			}),
+		);
+		expect(result.relevant).toBe(false);
+		expect(result.reason).toContain("non-english");
+	});
+
+	it("rejects CJK (Chinese) in description", () => {
+		const result = isRelevant(
+			candidate({
+				url: "https://www.npmjs.com/package/math-skill",
+				id: "math-skill",
+				description: "数学思想武器：将数学思维应用到科研和生活中。",
+			}),
+		);
+		expect(result.relevant).toBe(false);
+		expect(result.reason).toContain("non-english");
+	});
+
+	it("rejects Devanagari (Hindi) in description", () => {
+		const result = isRelevant(
+			candidate({
+				url: "https://www.youtube.com/watch?v=L4dKFIkh8Vs",
+				description: "new धमाका/pearl रैंक का 3,4,5or 6th राउंड ऑटोपुल अपडेट!",
+			}),
+		);
+		expect(result.relevant).toBe(false);
+		expect(result.reason).toContain("non-english");
+	});
+
+	it("rejects Japanese (Hiragana) in description", () => {
+		const result = isRelevant(
+			candidate({
+				url: "https://www.npmjs.com/package/some-pkg",
+				description: "これはテストです pi coding agent",
+			}),
+		);
+		expect(result.relevant).toBe(false);
+		expect(result.reason).toContain("non-english");
+	});
+
+	it("rejects Korean (Hangul) in description", () => {
+		const result = isRelevant(
+			candidate({
+				url: "https://www.npmjs.com/package/some-pkg",
+				description: "파이 코딩 에이전트 확장",
+			}),
+		);
+		expect(result.relevant).toBe(false);
+		expect(result.reason).toContain("non-english");
+	});
+
+	it("allows English-only text", () => {
+		const result = isRelevant(
+			candidate({
+				url: "https://www.npmjs.com/package/pi-extension",
+				id: "pi-extension",
+				description: "A great pi coding agent extension",
+			}),
+		);
+		expect(result.relevant).toBe(true);
+	});
+
+	it("allows English text with emoji", () => {
+		const result = isRelevant(
+			candidate({
+				url: "https://www.npmjs.com/package/pi-awesome",
+				id: "pi-awesome",
+				description: "🧛🏻‍♂️ Dark theme for PI Coding Agent",
+			}),
+		);
+		expect(result.relevant).toBe(true);
+	});
+
+	it("allows mixed English/Latin-accented text", () => {
+		const result = isRelevant(
+			candidate({
+				url: "https://www.npmjs.com/package/pi-café",
+				id: "pi-café",
+				description: "Un outil pour l'agent pi coding — dépendance légère",
+			}),
+		);
+		expect(result.relevant).toBe(true);
+	});
+
+	it("rejects German-only description (Latin but clearly non-English)", () => {
+		// German uses Latin script, so it won't be caught by the script filter.
+		// This is a known limitation — the filter only checks for non-Latin scripts.
+		// German entries are handled by the default accept + manual review.
+		const result = isRelevant(
+			candidate({
+				url: "https://www.youtube.com/watch?v=MTaLEOYUgus",
+				description: "Jaives ist ein vollständig selbst gehosteter KI-Assistent",
+			}),
+		);
+		// German uses Latin script — filter cannot catch it
+		expect(result.relevant).toBe(true);
+	});
+});
+
 // ─── Priority: hard blocks override positive signals ───────────────────────────
 
 describe("isRelevant — hard blocks take priority over positive signals", () => {
