@@ -665,18 +665,18 @@ describe("isRelevant — non-English language rejection", () => {
 		expect(result.relevant).toBe(true);
 	});
 
-	it("rejects German-only description (Latin but clearly non-English)", () => {
+	it("rejects German-only YouTube video (Latin but no Pi signal)", () => {
 		// German uses Latin script, so it won't be caught by the script filter.
-		// This is a known limitation — the filter only checks for non-Latin scripts.
-		// German entries are handled by the default accept + manual review.
+		// However, YouTube entries now require a positive Pi coding agent signal,
+		// so irrelevant German videos are still rejected at Layer 3.
 		const result = isRelevant(
 			candidate({
 				url: "https://www.youtube.com/watch?v=MTaLEOYUgus",
 				description: "Jaives ist ein vollständig selbst gehosteter KI-Assistent",
 			}),
 		);
-		// German uses Latin script — filter cannot catch it
-		expect(result.relevant).toBe(true);
+		expect(result.relevant).toBe(false);
+		expect(result.reason).toBe("YouTube entry with no positive Pi coding agent signal");
 	});
 });
 

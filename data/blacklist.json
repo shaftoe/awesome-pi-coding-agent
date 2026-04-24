@@ -58382,5 +58382,2553 @@
 	{
 		"url": "https://www.npmjs.com/package/math-skill",
 		"reason": "non-english language"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=I82j7AzMU80",
+		"reason": "Generic Claude Code video, no Pi coding agent content"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=48K3sqsvGww",
+		"reason": "Gemma 4/vLLM video, no Pi coding agent content"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=maU2TbSAJvU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=B9XijKKs-zU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ie9JeXaa6eQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=6i-szlIFtPw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=5RxZ_TTDR7o",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=4ygnmZtW_iE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=RcQYM9oSi0A",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=y03jym45r3M",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=p0X1XxZG9E8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=BxGOyxMx3v0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=-7emX1u7oqk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=O4x90BPuLxM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=3X2Q1RtrhAQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=DWPx1X_tPvw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=IJe9CabMeTk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=MKXkospuUok",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Vlp5dqkXiWM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=br5oSJfBFvo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=1qf-DjDw0aU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=kpFlMHHLNO0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=DE99otOnnCU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=sFlLNKx44kA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=1ptrkSuVhJ0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=71bQNrePIOc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ce9M3kZ_x-8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=zY6a1PLNINA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=KbS5MhYcetU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=FH5mqp9kNGQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=QXUDFCcVLYM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=eIJVWChOEW8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=V7xXny8xw4M",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=nOkR53AZAcE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=AtvK_E4ukEo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=7TzFDrY-O9Y",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=YOuKskmEosQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=v-kGqxfHWR8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=NmxNy4HMvZo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=84qpHN8ctdo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=SEclvdDybMM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=C5wEcJRo_VA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=al9dVk4OBiA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=vsefYD8Ifi0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=uxtkAxX6yq4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=hV_hnPJ2r6k",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=FjCM-boZdmw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=8tDtgF3y2Mw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Z_PjJ-yQ4m8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=UHvN_Sa5Lkg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=RgAIQWFJfhs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Sj1Jpyaz5l0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=fgPJjvD5mDM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=pET6-zpZG5w",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=xFKy3YOsF-k",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_TCXf1fAe-M",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=wlJIBUB8t90",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0uI62Ajzx08",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=VB0wK22AfJI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Jy_eQcc1rNY",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=qMzQoDcQFJA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=swKL4mPdIVI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=OSaq_WHFUGk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=9qhAmpjdEfE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=mQ04aDBWtbY",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=kfEHyBORtQs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=jyjWfvqbNnI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=eghzCWNpRvE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=TQIpa8w_O64",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=cJ8v_JqoRac",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ZcJv_6tBKk8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=sauNhBW79FM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=bXQ_wl1Q3iU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=EqZIhwR28Xo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=rm5IG4XDBhU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=3D6vqdisbnk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_ehD4D7N4ZU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=KV0_2gDLYC0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=4bzrO1lNc0Y",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=FZesbD7WGaA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=YxdaTLowBhM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_c3SuumDld8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=1qDidn_xEYE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=CBhbj-SUgNQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=DkK-mOZ1QoY",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=-h24EcGRdwY",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=e7GfCcNiRwU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=L9Y2BaZl1c8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=gr-qljWRkac",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=IFHUqeswM8Q",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=BjRHU0eHBMw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ytLKcDrDDqg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=qa47qrAkaQs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=dpZv2ggq9-I",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=VbsFVxyjcyU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=NcQheYo1iC8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ylpovp6bMkM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=v4CNrNenUio",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=CedDh0IKLmM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=gDlrzf4WuO4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=AUWM7t__Bmg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=AUCOKEDcUGA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=j3fyCTPH5SA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=mehB60bv1Ag",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=98BSiZZ7XzI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=sYoar0YKnGA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=btU7CJ92pIU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=q0xdSU4cgBo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=-3blnPP9ttE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=3g0O10M1jso",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Cqm3etAl6Do",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=v3t-c7qdMpY",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=MYCroU9BvvQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=26bhoLQUrdE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=2XM8kX-Jiuo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=RpjRUO15aXE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=1_BxTEeLJs8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=vOX6r-VwZ3U",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=67RDDCeP_JA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Oa-v0K04aY8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=rQheegZUrFg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=5wpl3uv1TqU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=MLgnedWqID4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=SPRgwkk6n9s",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ikF0pZqpfYw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=k7HL1lC3ZAA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=om-PhtRj6vc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=uVU5LocteCw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=1mZd4xuVDW8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=9L6V3lKbjqU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=95cCjfx3EHw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=-r9u0D0DiNk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=sPPPz66klkE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=7WFTmCMETEk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=XXJQ2ydCtd4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=WFm56KmuBvE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=hpDWhCU1l2Y",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=DCIQ7tCCmrw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=iiWoajfa4gw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=7tPF-74Ezjg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=VIJy8latJVg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=IL9puFUbXaM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=LqvTE_uVYec",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=OauM-MPlPTY",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=iCvysu4xYIc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=iuUXUTz6YmQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=wo5KCfQ_PaU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=lO_YdQuqoss",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=AIFnEeWNS6c",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=GZRb1ajR3Bo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=6qmFpBZ3lx8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=SMt5jiErFxM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=2zAjMEscu4A",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=VQbky4oBx28",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=YDOoDjYEj10",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=yuWfkML29Wk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=DmMagYBAdrs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=yvofQ-R-J7I",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Xs6Cq-IQj28",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=IBmRjAVoh-M",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=v3U99O18gbw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=D2Rq2mG7qD8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_EaNkhlV9cQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=FZPHbyweua4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=4a0UohLVFDA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=TP_YhNFYkb8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=J_1juvTmBTU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_c2-3AyH9p8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=mgtlFPwSY0I",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=1uZVKvAT62M",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=yV2zWbnqcYU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=8Ba2glvETtg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=z6SrQVS-6kw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=481Fk8yuv3E",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=XzZgLDL0wZY",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=C5TJgIJACtg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=NCGY7J6pOqA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=aF_WZFDxGs4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=rEVb763bLNo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=jpSnETnoD1U",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=jgvs5_XUfU4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=2-OLoUr9DoY",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Euj12hH9jUc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=rxFWsghSez0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=rHNyxNLnhX8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=PFeKtfs-jzw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=idZTNFNTRUM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=UrsmQZslquo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=nH1KYkVjXRE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=LmrhJDvLsg0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=zHePZVPwoYY",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_K4c7cL_tzw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Dli5slNaJu0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=yhpIXKHeemo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=9MbCNqZWjCM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=R8R9ugr9mgE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=PiF9wH0ICD8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=etsS26o8J1w",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ke-YE6WAf-o",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=unXD-UDKK_w",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=P4AsfO1gMBM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=hwBjy19p4mc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=K-mqT7qR1Fw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=bkltqknHHJo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=XrDBUxyE3AQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=xNB_fB1Qbfk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=o7njSc-eJ8E",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=6B2qDiT5i-U",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=WqmXid0NWmo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Kh-vIDxVhfE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=xU0a2teucwI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=uuKHVEfd5rI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=KXOxrOdUtXk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=KV7ABy-6FmU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=WfwlB603W8Y",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Brpn846iDvw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=r5esV_-N72o",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=d38Wkaugt18",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=okiKus_V6bc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=wMzaOpcoZ8c",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=f7RtddO44yw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=-GQP81sOdeM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=rkLDnWxUmoM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=mInTKJpA4hU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=JvaIY9d29A0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=fnyzdGTZvjg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Tp9vZDnetk4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=IsQxyn962ow",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=MgsoAuNoBXs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=PcJqq3K_aoc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=WXc2NViGINo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=DxwvRgbVIRk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=hbqnKDqNPcY",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=FZLrO4GFWPQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=e_N0e_KHrC4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=hxiNulrqEzU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=U_xx21U-pD8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=t79_yPW73xc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=TzWPlWlKWJs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=edybZv-AHpc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=hzv2Ki5eanA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=JqznlRXB7HA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=sBG3ha2g1nE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=AQQbr0xRMI4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=nOn3CyPHmws",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=q_ovLpli0W4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=y4PtSTN3R-8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=1iMwVC0o9m0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=3BbZT19oR4U",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=MMPgr5PnofM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=6dQSxWkUiQ4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=gGC19Cd-OoM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Yq0zWhfQpYo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=VvSqG5_F1kE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=AVVlPd23rh4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=asDDYOv-I0M",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=iEUn1N6guY8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=VZ5zaaFjqGg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=5ycyD3qCiS4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=G7yVPFNY830",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=DFWxQwgPTlw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0jxpvqaidZI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=KNJgGyxwlHo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=F4ycwzj1Fck",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=X-dRB8WUo2U",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=qGseLr21VR0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=BESuyftW3oY",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=9k5AB29Sq5w",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=26m8Y7QFZ8Y",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=rNTYqX7z8Jc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=krojQFev7as",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Mntfj7dKn1I",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=HcVO3SD4qwg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=XmyngQTsBm0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=mwTgqpqBXIM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=8EZunFLsfiQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=vHKONsdXDqw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=oz18xCR0sOg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=LyEZgQRmMlQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=sUlvM3EVdHQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_LXFl8nbT0Q",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=7TEitkWusIE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=mKKqsK51iJ8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=8g5c-smqxio",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=qk8_Mpto8yc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=vKSx4cZygo8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=AtB39flptEw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=LaKT3pli5EQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=IPQqE-0sPlg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Ma_kJFtYh7s",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_sYAbswxAMM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=48r6HGq3oPA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=hEDNUI8OwnE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=jGHLNC3HAEo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=TqjmTZRL31E",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=uATg4NCnfF8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Kruk0KXekyc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=UYpDRuV_ynU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=gSGWPWeoSj4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=P9_Itc6pQP8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Tb6vsbuxdB4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=w3jT15lm8Lc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=51VPHzSNwyA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=59ol1hbw1mk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=xE6EgdrOyg0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=FYoB-VG_9e4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=yvlMDl5YE2Q",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=IJ-uh7WWYpw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ZcLkPCKvA1c",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=gu9YX3btrGc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=JnTudZcOxBE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=O0fwpm12KTQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=P350NpN4yu4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=rL-6bu7h8u8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=jXLKG9iPKiE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=wT3JPkuNmhA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=RjfbvDXpFls",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=fbQndkRO12g",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=9yUdjjYPQ18",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=btNcUCaU7BM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Fbuo7cMpi4o",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_8dFmKvmxdI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=boSPk_Ig4gU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=4qmBDe7CoeQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=khPb484v50w",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=zvpssMoW2Ow",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=6t9yY_lpEIs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=uIEQdprfx8c",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=A0krTp46uJI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=OI_huEnjLOA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=UcNZCBMOboA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=UyrKjaWkTqI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=mnQaM9x2Fpk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Z0UBYcFywdU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=o-iApYap_lg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_xvoVsMWpTo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=aAmNfpzgN8M",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=nF3k9wXBZfM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ymmpt15sO_w",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=gszL2V4PW2o",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=srnH5ctlZT8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0kXLooBOsB0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=OV-Tzw0zAkg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=X5DhSrXwtGw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Y5TCp0rYsf0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=VqfcTbwkgi8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=oa3AoBW1D88",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=H1c8eAEmZus",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=tth-sHw9MI8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=aSeCCn1JAPI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=giSZCPzZIOs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=uITTl6bWwlA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=VrqGQszwOSU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=jg2Q9o99h8w",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=9wK5KZInCbA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=E8771N009a4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=XpoUTtoQAeY",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=OLUt1exGUfE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=5G3qHkYIGGM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=31FDni72zlM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=6A9NHt1_Yx8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=5kULnSY2Qic",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=CCS6ekNrcT8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=durH3ZFaPlE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=5j06cWbNrCU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=KZXu6zHto0o",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=UHeNoMIOHZg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Y1xGNle5VWU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=LDBTa2lZ_dA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=QAuVcwrog54",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=vVSkiEI9g_g",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Kj5EE9ep2w8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=wVe3XOnio7M",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=GHDLAdLB3YE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=19EDwKUkRt0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=p6gRZCmBqhs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=4uzGDAoNOZc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=N3yXy8BxQ7Q",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=KR3v62V7fvI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=SYS5wCjeppI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=R6Ue66Zitqo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=CMMiGtudl8I",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=AYnTxcbh36U",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_iVodpcXma8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=jkSxv8aE7Qg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=F3ZEQ-zoM_U",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=XdrXd4EMj-4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=9fn8pWpkK4A",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=J9HXuaXss1w",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=iyGyiKVpGls",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=gBRlsOJ7yzA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=wF44GlNCoEc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=xcocVrENWoU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=NHkFcAAiyt0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=cSBCXhjIEZ4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=w0Qb4gqtkEk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=FI2y54oLsTE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=eQvO0XU0RYk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0RLIlNWv1xo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=d9ODm2mkJ2c",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=cfIvuSJK_fs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=mTnAvCJ7zA4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=oxHwk5q2hEo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=V9m9fPAg0jE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=RKxl6epX2_o",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=upSFyhpkPEk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=SO-zLxYhQq0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=3YfW1rHSiNI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=l1j-aF_wyzU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=fTn5oo-99CE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=RIyV3p9YZpM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ZTPrHZg0uhc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=xo-uvnK69Gk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=8n6cIzx9OFg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=xYQekE6rqxk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=pYECYFZ_6h0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=mV6thfGWLKU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Mnvk9gK4e9A",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=msL1ijy1EFo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Xt20_jRLEZE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_jxdPQbMo4s",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=BU6erYNkZOQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=fh4oHnBAKss",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=MwOgfB4E8HE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=X1_tOOPmieE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=6w_AqyZP49k",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=09rdxJCdoCw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=UOBVoXiuG9o",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Jp_pCcbpXPw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=HyhUUb2hxTI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=wovN2rIYdNA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=OkrlpGe0VVs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=L4Trz6pFut4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=BgtxEx7YT1M",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=KfOGFKKVOoU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ZPq3X6XxTiE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=y16oo6bI-qU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=FkDfjR2QIAk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=NkTPfBfDmtA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=VN6C9OSAq2s",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=yBod6YTqvXc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=iSdetWTZjb0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=UEoxQmC8PBE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=fmymfJzaE3c",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=FatlWNQJZLw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=8X63E39ZogQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=BQpwdiWtLfI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=C-nz_apRCos",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=C9ZaB79OhsI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=H7NrEpfInr8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=tw4zjZssJHg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=jG4QnYgD8RQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=fMZEy_ErYXI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=tA2K1Jp0dTU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=5cbGlCRYDn4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0rKZTKXYNds",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=jZXXnlMgVmQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=GDsX2qkbYn4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=PnEhN5lQlHc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=GYjwVspQY-Y",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=oPlC6xYqIo0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=WOSCQ_BygiI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=trayoREXyYs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=16K10hJImHI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=nLFMhVPfeYA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=TColBBwJnVE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=I219h3bJniU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=pCX1toruKIM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=sZ2MSPFZoBE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0XJ5tb7gPjA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=tiiqEDTXAO8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=SukrxHdHXBE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=YIoiBrs8PZ0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=FPolMYUy-lQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=HoMnrXXeFW8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=3xGI3CjynCE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=-pxdCR9iZ8c",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=tYp-LMzkv7A",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=1KXWRhLWVfE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=PldIMx4mf1o",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=mheqly2PYfM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=UDpdHZJr8Hs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=WjxNvALQl5Y",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=1d4PfvzWN5M",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=EEIfiyd1FX0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0kaxWN5HF_w",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=F5oWyrY-kNM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=00Y-p62sk0s",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=RUCAlwvcKrA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=sqGh81hM_-o",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=now9AoK3UOc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ci1pC3G6PIg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=U0iTxhDg2jQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=I7StErCRl1Q",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=XypkLgIKkQ0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=B6OiFizSLRU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=AEmHcFH1UgQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=TmXx2DjsKBU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=o8TYvlNUXMA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Yhzb2C6Fis0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Ggx3Itghcyc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=O_qAYWIGsPA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=MUI4-W34GH8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=MHPKe-6j-7w",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Bnj-loTnow4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=3e_VlB8si84",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=e_Hwr6MVvLw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0Mc_kWhPMYA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=lC601vbKyR4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=UyfVSE4cees",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=UN9bBbOKrNs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=pTlhSnHCrbc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=u07JIOgnsqI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=N8fKLT-DQp4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=jGIHr4u7zXo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=DjLzw7Y8IUE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0Ueg0nOyXec",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=8TG_wQ7UtXY",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=1_pF7Rw-DO0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=kpdKKXwRnbg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=DKlHXmhdZZw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=yIsh6W_Pnn8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=jJmhXF9RMXM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=NJbDvZJOuqs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=qSZ3p1XqOG4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=I4AEq0VgQ3E",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=T9qZy0vqMPw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=2069HNwaDKU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=zV-AJTM8Awo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=6N4tX2Sx0jw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=MFsKkxa7TnI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=4uZ9OeJI9sA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=AkySW5uy7rU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=lWbEq1dEqKg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=LrsuvJ7hfCI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=gG5qqxaPxDo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=z5vmIBsyf5E",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=rruMoxbxcGw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=HqORH4vmdcQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ti0KdGYPLNQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Iei7WU63N28",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=rAFJGYQSyoY",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Rp6cxcK0rBk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=T92loMVESDs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=aBPLvEYa-DA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=hb8KMnxfse0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=n5LC4qpytNg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=sJimKnb3zxA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=JSJ5-_Z5gYM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=IWAO2hgg7Vk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=E1_fwKUYcOE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=D5wb8HZzcNk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=XKKCh19EpgI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=CDK9cGh9BC4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=qr9bK3bux8M",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=gscU7E-j0fU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=lELrtb0iFg0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=K820lSAVWoI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=UVjcM3lsLcc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0LASGZOuzwo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=uF8saqnApwI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_OGVYSWEawA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=XergfKw5XFk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=zfQBfZm0-fE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0EcQ-kTCht4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=cLE7J7adku4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=spVICgigRo8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=QQFG4ka_fnU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=1kcouOS4TxU",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=lMxr93VluNk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=92Jzgzdg41I",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ioQje0d5DYs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=XLxQg8oXCPY",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=CAGM7N631s8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ABbzJCH2HLw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=NRue3OTU4BE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=cwOSH6XTCTY",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=wYos_PXOE4A",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Aoyho3UgnaM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=CKAblKSTbY4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=__tLeHDqqVQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=jch7nW_NERg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ksTPAwAr278",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=NGJHTRFepkI",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=tzUCML8UAOk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=dnrzAT-FtGY",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Zfkwe56A6Cw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=uO7R9sYYAF4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=AdRC_X8RcOA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=iEY9v8BHc60",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=sufZyIFUAbw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=avte4vOxlDo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=DFVYnZBHqBk",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=mLEiQOSIQTo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Cd8j0AAa72U",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=bZO3nG99OPg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ND0U8b3dPX4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=DT0UeTSa_VE",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=urtOnDE-L2c",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=4tInzxOCifQ",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=9HIGmw3fd3E",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=V0yARLBUYi8",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=NTAE7rwqP8k",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_E7_Ylss6ZM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=h77DUaLxU20",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0JJ8TMguDMg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=YvZ76dAKIeg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=VOGB2C0fwic",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=EYjtKvX7lKM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=gZ2ZX7UjkPo",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=tM9gKE5PQRM",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=gUqR2cQb8cw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Ov9km0Jj_aw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=5o3rxc-chqw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ISKj6h8-08U",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=cM5fptzwgj4",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=vsuu5WLYFNA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Z5B2-QeyGIw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0gek2OjlI1k",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Ys8MqjGJTc0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=PcmThL6pi4g",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=WzJ_yCzQWO0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=MTaLEOYUgus",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ubmn9OcPZDA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=9QkrdvyVNsc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=KZUV46JL0-c",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=mjPtC476Fg0",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=HbKz3tut6lg",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=pBFLpwT6biA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=lxr7HVRxYIs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=uTp1BCU7w8s",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=l7GdW8754mw",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Vj1QoQStkxs",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=zxWCiC-nksc",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=4INV42nyziA",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=7R-kY1qSv3M",
+		"reason": "YouTube entry with no positive Pi coding agent signal"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_aPvQcDTTh8",
+		"reason": "Trackmania gaming video, 'Pi Agent' is a player username not the Pi coding agent"
 	}
 ]

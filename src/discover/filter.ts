@@ -480,8 +480,15 @@ export function isRelevant(candidate: {
 		return { relevant: true, reason: "", blacklisted: false };
 	}
 
-	// ── Layer 3: Default accept ───────────────────────────────────────────────
-	// Ambiguous candidates pass through.
+	// ── Layer 3: Default ───────────────────────────────────────────────────────
+	// For YouTube entries, require a positive Pi-specific signal (Layer 2) to pass.
+	// YouTube search is inherently noisy — the broad queries like "pi coding" tutorial
+	// return many generic coding-agent videos that lack any Pi coding agent content.
+	// Non-YouTube sources (npm, GitHub) default to accept as before.
+	if (url.includes("youtube.com/watch")) {
+		return reject(rawUrl, "YouTube entry with no positive Pi coding agent signal");
+	}
+
 	return { relevant: true, reason: "", blacklisted: false };
 }
 
