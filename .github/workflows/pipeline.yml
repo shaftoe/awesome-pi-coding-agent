@@ -51,6 +51,7 @@ jobs:
     needs: run-pipeline
     if: needs.run-pipeline.outputs.has_changes == 'true'
     runs-on: ubuntu-latest
+    environment: pipeline
     steps:
       - uses: actions/checkout@v6
 
