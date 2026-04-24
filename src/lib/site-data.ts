@@ -4,8 +4,7 @@
  * and the Astro site.
  */
 import { existsSync, readdirSync, readFileSync } from "node:fs";
-import { dirname, join } from "node:path";
-import { fileURLToPath } from "node:url";
+import { join } from "node:path";
 import type { CategorizedEntry, Category } from "./types.ts";
 
 // ─── Types (re-exported for consumers) ─────────────────────────────────────────
@@ -92,11 +91,21 @@ export const CATEGORY_ORDER: Category[] = [
 
 // ─── Data loading ──────────────────────────────────────────────────────────────
 
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const DATA_DIR = join(__dirname, "..", "..", "data");
+/**
+ * Resolve the pipeline data directory.
+ * Same approach as the search-index integration: use process.cwd().
+ * - Bun pipeline runs from project root → cwd()/data
+ * - Astro dev/build runs from site/ → cwd()/../data
+ */
+function resolveDataDir(): string {
+	const cwd = process.cwd();
+	return cwd.endsWith("site") ? join(cwd, "..", "data") : join(cwd, "data");
+}
 
-function loadCategoryEntries(category: Category): CategorizedEntry[] {
-	const dir = join(DATA_DIR, `${category}s`);
+const DATA_DIR = resolveDataDir();
+
+function loadCategoryEntries(category: Category, dataDir: string): CategorizedEntry[] {
+	const dir = join(dataDir, `${category}s`);
 	if (!existsSync(dir)) return [];
 
 	return readdirSync(dir)
@@ -109,17 +118,17 @@ function loadCategoryEntries(category: Category): CategorizedEntry[] {
 }
 
 /** Load all entries from disk. */
-export function loadAllEntries(): CategorizedEntry[] {
+export function loadAllEntries(dataDir = DATA_DIR): CategorizedEntry[] {
 	const entries: CategorizedEntry[] = [];
 	for (const cat of CATEGORY_ORDER) {
-		entries.push(...loadCategoryEntries(cat));
+		entries.push(...loadCategoryEntries(cat, dataDir));
 	}
 	return entries;
 }
 
 /** Get category info objects (only categories with entries). */
-export function getCategories(): CategoryInfo[] {
-	const all = loadAllEntries();
+export function getCategories(dataDir = DATA_DIR): CategoryInfo[] {
+	const all = loadAllEntries(dataDir);
 	const grouped = new Map<Category, CategorizedEntry[]>();
 
 	for (const entry of all) {
