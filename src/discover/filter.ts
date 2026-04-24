@@ -258,6 +258,225 @@ function hasNonLatinScript(text: string, threshold = 2): boolean {
 	return false;
 }
 
+/**
+ * Common function/stop words from non-English languages that use Latin script.
+ * Used to detect YouTube videos whose content is not in English despite
+ * containing a Pi coding agent mention (e.g. Indonesian tech reviews).
+ *
+ * Each entry is a [language_hint, words[]] pair. A match requires at least
+ * `threshold` distinct words from any single language to appear in the text.
+ */
+const NON_ENGLISH_LATIN_WORDS: Array<{ lang: string; words: string[]; threshold: number }> = [
+	{
+		lang: "indonesian",
+		// High-signal Indonesian/Malay words unlikely to appear in English
+		words: [
+			"yang",
+			"dan",
+			"dengan",
+			"untuk",
+			"pada",
+			"ini",
+			"itu",
+			"ke",
+			"dari",
+			"tidak",
+			"akan",
+			"bisa",
+			"sudah",
+			"seperti",
+			"juga",
+			"ada",
+			"kita",
+			"mereka",
+			"apa",
+			"kalo",
+			"gak",
+			"nggak",
+			"aja",
+			"banget",
+			"makin",
+			"terbaru",
+			"ribet",
+			"penuh",
+			"gila",
+		],
+		threshold: 3,
+	},
+	{
+		lang: "german",
+		words: [
+			"und",
+			"der",
+			"die",
+			"das",
+			"ist",
+			"ein",
+			"eine",
+			"mit",
+			"auf",
+			"aus",
+			"nicht",
+			"sich",
+			"auch",
+			"wird",
+			"den",
+			"dem",
+			"des",
+			"für",
+			"hat",
+			"kann",
+			"noch",
+			"als",
+			"nach",
+			"bei",
+			"über",
+			"selbst",
+			"gehosteter",
+		],
+		threshold: 4,
+	},
+	{
+		lang: "french",
+		words: [
+			"les",
+			"des",
+			"une",
+			"est",
+			"que",
+			"qui",
+			"dans",
+			"pour",
+			"pas",
+			"sur",
+			"avec",
+			"sont",
+			"cette",
+			"mais",
+			"comme",
+			"nous",
+			"vous",
+			"leur",
+			"peut",
+			"aussi",
+			"tout",
+			"fait",
+			"etre",
+			"tres",
+			"bien",
+		],
+		threshold: 4,
+	},
+	{
+		lang: "spanish",
+		words: [
+			"los",
+			"las",
+			"una",
+			"que",
+			"del",
+			"para",
+			"con",
+			"por",
+			"pero",
+			"como",
+			"mas",
+			"esto",
+			"todo",
+			"puede",
+			"tambien",
+			"asi",
+			"nos",
+			"tiene",
+			"bien",
+			"muy",
+			"hay",
+			"donde",
+			"solo",
+		],
+		threshold: 4,
+	},
+	{
+		lang: "portuguese",
+		words: [
+			"que",
+			"não",
+			"uma",
+			"com",
+			"para",
+			"dos",
+			"das",
+			"por",
+			"mais",
+			"como",
+			"tem",
+			"seu",
+			"sua",
+			"ser",
+			"está",
+			"pode",
+			"tudo",
+			"também",
+			"muito",
+			"ainda",
+			"são",
+			"isso",
+			"este",
+			"ela",
+		],
+		threshold: 4,
+	},
+	{
+		lang: "italian",
+		words: [
+			"che",
+			"non",
+			"una",
+			"con",
+			"per",
+			"sono",
+			"del",
+			"della",
+			"dei",
+			"anche",
+			"questo",
+			"questa",
+			"come",
+			"puo",
+			"ancora",
+			"molto",
+			"piu",
+			"suo",
+			"sua",
+			"suoi",
+			"ogni",
+			"tutti",
+			"stato",
+		],
+		threshold: 4,
+	},
+];
+
+/**
+ * Detect whether text is written in a non-English Latin-script language.
+ * Uses characteristic function/stop words to identify the language.
+ *
+ * Returns a language hint string if detected, or null if the text appears English.
+ */
+function detectNonEnglishLatin(text: string): string | null {
+	const words = text.toLowerCase().split(/\s+/);
+	const wordSet = new Set(words);
+
+	for (const { lang, words: langWords, threshold } of NON_ENGLISH_LATIN_WORDS) {
+		let count = 0;
+		for (const w of langWords) {
+			if (wordSet.has(w)) count++;
+		}
+		if (count >= threshold) return lang;
+	}
+	return null;
+}
+
 // ─── Positive signals ──────────────────────────────────────────────────────────
 
 /**
@@ -448,6 +667,17 @@ export function isRelevant(candidate: {
 	//     (CJK, Cyrillic, Arabic, Devanagari, Thai, Korean, etc.)
 	if (hasNonLatinScript(combined)) {
 		return reject(rawUrl, "non-english language");
+	}
+
+	// 1k. Non-English Latin-script language detection — reject YouTube videos
+	//     whose content is clearly not in English (e.g. Indonesian, German, French)
+	//     even though they may mention Pi coding agent. English-only audiences
+	//     won't benefit from these.
+	if (url.includes("youtube.com/watch")) {
+		const detectedLang = detectNonEnglishLatin(combined);
+		if (detectedLang) {
+			return reject(rawUrl, `non-english language (${detectedLang})`);
+		}
 	}
 
 	// ── Layer 2: Positive signals ─────────────────────────────────────────────

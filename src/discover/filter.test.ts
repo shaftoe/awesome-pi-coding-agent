@@ -665,10 +665,10 @@ describe("isRelevant — non-English language rejection", () => {
 		expect(result.relevant).toBe(true);
 	});
 
-	it("rejects German-only YouTube video (Latin but no Pi signal)", () => {
-		// German uses Latin script, so it won't be caught by the script filter.
-		// However, YouTube entries now require a positive Pi coding agent signal,
-		// so irrelevant German videos are still rejected at Layer 3.
+	it("rejects German-only YouTube video (Latin but non-English)", () => {
+		// German uses Latin script, so it won't be caught by the non-Latin script filter (1j).
+		// However, it's caught by the non-English Latin-script detection (1k) which
+		// identifies German via characteristic stop words.
 		const result = isRelevant(
 			candidate({
 				url: "https://www.youtube.com/watch?v=MTaLEOYUgus",
@@ -676,7 +676,21 @@ describe("isRelevant — non-English language rejection", () => {
 			}),
 		);
 		expect(result.relevant).toBe(false);
-		expect(result.reason).toBe("YouTube entry with no positive Pi coding agent signal");
+		expect(result.reason).toBe("non-english language (german)");
+	});
+
+	it("rejects Indonesian YouTube video even with Pi coding agent mention", () => {
+		// Indonesian uses Latin script and mentions "Pi coding agents" but is not English.
+		// Caught by non-English Latin-script detection (1k) before positive signals (Layer 2).
+		const result = isRelevant(
+			candidate({
+				url: "https://www.youtube.com/watch?v=F5iIztPOTso",
+				description:
+					"Update terbaru Zentty (v0.1.12) makin gila! Sekarang Cursor dan Pi coding agents sudah terintegrasi penuh",
+			}),
+		);
+		expect(result.relevant).toBe(false);
+		expect(result.reason).toBe("non-english language (indonesian)");
 	});
 });
 
