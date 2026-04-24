@@ -1,6 +1,7 @@
 import path from "node:path";
 import starlight from "@astrojs/starlight";
 import { defineConfig } from "astro/config";
+import { buildChecks } from "./src/integrations/build-checks";
 import { searchIndex } from "./src/integrations/search-index";
 
 const rootDir = path.resolve(import.meta.dirname, "..");
@@ -16,6 +17,7 @@ export default defineConfig({
 	},
 	integrations: [
 		searchIndex(),
+		buildChecks(),
 		starlight({
 			title: "Awesome Pi Coding Agent",
 			logo: {
