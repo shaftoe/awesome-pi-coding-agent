@@ -1,0 +1,24 @@
+{
+	"id": "YT_aF_WZFDxGs4",
+	"name": "how to use banana pi BPI-M3 image on BPI-M2+ , use bpi-bootsel",
+	"url": "https://www.youtube.com/watch?v=aF_WZFDxGs4",
+	"source": "youtube-search",
+	"description": "how to use BPI-M3 image on BPI-M2+ , use bpi-bootsel ...",
+	"metadata": {
+		"title": "how to use banana pi BPI-M3 image on BPI-M2+ , use bpi-bootsel",
+		"description": "how to use BPI-M3 image on BPI-M2+ , use bpi-bootsel ...",
+		"channel": "Banana Pi BPI",
+		"published_at": "2016-03-09T09:21:35Z",
+		"thumbnail": "https://i.ytimg.com/vi/aF_WZFDxGs4/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 1651,
+		"like_count": 3,
+		"comment_count": 1
+	},
+	"health": {
+		"score": 33,
+		"level": "stale"
+	},
+	"category": "video"
+}

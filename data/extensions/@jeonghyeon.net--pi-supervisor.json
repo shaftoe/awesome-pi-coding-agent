@@ -1,0 +1,36 @@
+{
+	"id": "@jeonghyeon.net/pi-supervisor",
+	"name": "@jeonghyeon.net/pi-supervisor",
+	"url": "https://www.npmjs.com/package/@jeonghyeon.net/pi-supervisor",
+	"source": "npm-search",
+	"description": "A pi extension that supervises the chat and steers it towards a defined outcome",
+	"metadata": {
+		"github_url": "https://github.com/jeonghyeon-net/pi-supervisor",
+		"npm_name": "@jeonghyeon.net/pi-supervisor",
+		"description": "A pi extension that supervises the chat and steers it towards a defined outcome",
+		"keywords": ["pi-package", "pi", "pi-extension", "supervisor", "steering", "outcome", "agent", "productivity"],
+		"version": "0.4.8",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-22T11:14:28Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": "https://www.npmjs.com/package/pi-supervisor",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 2,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 40,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

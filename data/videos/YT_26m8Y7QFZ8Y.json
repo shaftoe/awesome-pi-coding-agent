@@ -1,0 +1,24 @@
+{
+	"id": "YT_26m8Y7QFZ8Y",
+	"name": "Error on UNOr3--＞ avrdude: ser_open(): can't open device \"/dev/ttyUSB0\": No such file",
+	"url": "https://www.youtube.com/watch?v=26m8Y7QFZ8Y",
+	"source": "youtube-search",
+	"description": "https://amzn.to/4aLHbLD You're literally one click away from a better setup — grab it now! As an Amazon Associate I earn ...",
+	"metadata": {
+		"title": "Error on UNOr3--＞ avrdude: ser_open(): can't open device \"/dev/ttyUSB0\": No such file",
+		"description": "https://amzn.to/4aLHbLD You're literally one click away from a better setup — grab it now! As an Amazon Associate I earn ...",
+		"channel": "Roel Van de Paar",
+		"published_at": "2021-10-16T02:52:44Z",
+		"thumbnail": "https://i.ytimg.com/vi/26m8Y7QFZ8Y/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 94,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

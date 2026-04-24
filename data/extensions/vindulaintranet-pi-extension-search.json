@@ -1,0 +1,32 @@
+{
+	"id": "vindulaintranet-pi-extension-search",
+	"name": "vindulaintranet-pi-extension-search",
+	"url": "https://github.com/vindulaintranet/pi-extension-search",
+	"source": "github-search",
+	"description": "Pi package with Exa and Brave web search tools",
+	"metadata": {
+		"description": "Pi package with Exa and Brave web search tools",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["brave-search", "exa", "pi-extension", "pi-package", "search"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:topic:pi-extension",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-03-22T21:16:29Z",
+		"_readme_category_scores": {
+			"extension": 13,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

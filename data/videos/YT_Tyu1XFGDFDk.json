@@ -1,0 +1,24 @@
+{
+	"id": "YT_Tyu1XFGDFDk",
+	"name": "My First Sonic-PI Session (2017-04-14)",
+	"url": "https://www.youtube.com/watch?v=Tyu1XFGDFDk",
+	"source": "youtube-search",
+	"description": "My first attempt at live coding using the excellent Sonic-PI project. In this session I've used only the standard samples and synths ...",
+	"metadata": {
+		"title": "My First Sonic-PI Session (2017-04-14)",
+		"description": "My first attempt at live coding using the excellent Sonic-PI project. In this session I've used only the standard samples and synths ...",
+		"channel": "Dimitri \"Error 500\" De Franciscis",
+		"published_at": "2017-04-14T12:33:20Z",
+		"thumbnail": "https://i.ytimg.com/vi/Tyu1XFGDFDk/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 68,
+		"like_count": 2,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

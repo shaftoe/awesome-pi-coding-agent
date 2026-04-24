@@ -1,0 +1,21 @@
+{
+	"id": "pi-websearch-you",
+	"name": "pi-websearch-you",
+	"url": "https://www.npmjs.com/package/pi-websearch-you",
+	"source": "npm-search",
+	"description": "Pi web search tool powered by You.com",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-websearch-you",
+		"description": "Pi web search tool powered by You.com",
+		"keywords": ["pi-package"],
+		"version": "0.2.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

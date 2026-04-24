@@ -1,0 +1,24 @@
+{
+	"id": "YT_LDBTa2lZ_dA",
+	"name": "Foglight for Databases - Defining SQL Server agent Connection Settings",
+	"url": "https://www.youtube.com/watch?v=LDBTa2lZ_dA",
+	"source": "youtube-search",
+	"description": "",
+	"metadata": {
+		"title": "Foglight for Databases - Defining SQL Server agent Connection Settings",
+		"description": "",
+		"channel": "John Sakalauskas",
+		"published_at": "2018-11-26T19:28:49Z",
+		"thumbnail": "https://i.ytimg.com/vi/LDBTa2lZ_dA/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi extension\" -raspberry -vscode",
+		"_readme_category_scores": {},
+		"view_count": 19,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

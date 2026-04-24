@@ -1,0 +1,21 @@
+{
+	"id": "@luyao618/skila",
+	"name": "@luyao618/skila",
+	"url": "https://www.npmjs.com/package/@luyao618/skila",
+	"source": "npm-search",
+	"description": "Self-improving skill inventory controller for Claude Code: distill, version, evolve, and graduate skills via slash command + web control panel + MCP.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@luyao618/skila",
+		"description": "Self-improving skill inventory controller for Claude Code: distill, version, evolve, and graduate skills via slash command + web control panel + MCP.",
+		"keywords": ["claude-code", "skill", "plugin", "mcp", "zettelkasten", "agent-memory"],
+		"version": "0.0.5",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

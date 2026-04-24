@@ -1,0 +1,21 @@
+{
+	"id": "@oprudkyi/claude-code-router",
+	"name": "@oprudkyi/claude-code-router",
+	"url": "https://www.npmjs.com/package/@oprudkyi/claude-code-router",
+	"source": "npm-search",
+	"description": "Use Claude Code without an Anthropics account and route it to another LLM provider",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@oprudkyi/claude-code-router",
+		"description": "Use Claude Code without an Anthropics account and route it to another LLM provider",
+		"keywords": ["claude", "code", "router", "llm", "anthropic"],
+		"version": "2.0.21",
+		"discovery_hint": "npm:pi-coding-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

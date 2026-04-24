@@ -1,0 +1,21 @@
+{
+	"id": "component-to-route",
+	"name": "component-to-route",
+	"url": "https://www.npmjs.com/package/component-to-route",
+	"source": "npm-search",
+	"description": "Traces a React component upward through the import/render graph to find all Next.js routes where it appears. Answers the question: **where should I go test this component?**",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "component-to-route",
+		"description": "Traces a React component upward through the import/render graph to find all Next.js routes where it appears. Answers the question: **where should I go test this component?**",
+		"keywords": [],
+		"version": "0.0.1",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

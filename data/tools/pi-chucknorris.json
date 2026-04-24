@@ -1,0 +1,21 @@
+{
+	"id": "pi-chucknorris",
+	"name": "pi-chucknorris",
+	"url": "https://www.npmjs.com/package/pi-chucknorris",
+	"source": "npm-search",
+	"description": "Latency-gated Chuck Norris jokes while pi is thinking (before the first token).",
+	"metadata": {
+		"github_url": "https://github.com/jrryfn/pi-extensions",
+		"npm_name": "pi-chucknorris",
+		"description": "Latency-gated Chuck Norris jokes while pi is thinking (before the first token).",
+		"keywords": ["pi-package", "pi", "extension", "chuck-norris", "humor", "productivity"],
+		"version": "0.2.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

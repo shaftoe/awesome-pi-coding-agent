@@ -1,0 +1,36 @@
+{
+	"id": "skillme",
+	"name": "skillme",
+	"url": "https://www.npmjs.com/package/skillme",
+	"source": "npm-search",
+	"description": "The missing package manager for Claude Code plugins",
+	"metadata": {
+		"github_url": "https://github.com/Abid101e/Skill-me",
+		"npm_name": "skillme",
+		"description": "The missing package manager for Claude Code plugins",
+		"keywords": ["claude", "claude-code", "plugins", "skills", "ai", "cli"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-24T04:52:59Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://skillme-cli.vercel.app/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 6,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

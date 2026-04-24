@@ -15,11 +15,21 @@
 			"tool": 0,
 			"theme": 0,
 			"provider": 0
-		}
+		},
+		"stars": 36,
+		"forks": 3,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T18:28:17Z",
+		"topics": ["ai-agents", "automation", "coding-agent", "developer-tools", "pi", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null
 	},
 	"health": {
-		"score": 50,
-		"level": "maintained"
+		"score": 74,
+		"level": "active"
 	},
 	"category": "extension"
 }

@@ -1,0 +1,36 @@
+{
+	"id": "directus-extension-interface-mustache-render",
+	"name": "directus-extension-interface-mustache-render",
+	"url": "https://www.npmjs.com/package/directus-extension-interface-mustache-render",
+	"source": "npm-search",
+	"description": "Directus interface extension that transforms current form values with JavaScript and renders the result with Mustache as HTML.",
+	"metadata": {
+		"github_url": "https://github.com/fernando-reis-guimaraes/directus-extension-interface-mustache-render",
+		"npm_name": "directus-extension-interface-mustache-render",
+		"description": "Directus interface extension that transforms current form values with JavaScript and renders the result with Mustache as HTML.",
+		"keywords": ["directus", "directus-extension", "directus-extension-interface", "mustache"],
+		"version": "2.5.0",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Vue",
+		"license": null,
+		"last_commit": "2026-04-23T13:54:51Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

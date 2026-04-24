@@ -1,0 +1,36 @@
+{
+	"id": "fallow",
+	"name": "fallow",
+	"url": "https://www.npmjs.com/package/fallow",
+	"source": "npm-search",
+	"description": "Codebase intelligence for TypeScript and JavaScript. Finds unused code, duplication, circular dependencies, complexity hotspots, and architecture drift. Optional runtime intelligence layer (Fallow Runtime) adds production execution evidence. Rust-native, ",
+	"metadata": {
+		"github_url": "https://github.com/fallow-rs/fallow",
+		"npm_name": "fallow",
+		"description": "Codebase intelligence for TypeScript and JavaScript. Finds unused code, duplication, circular dependencies, complexity hotspots, and architecture drift. Optional runtime intelligence layer (Fallow Runtime) adds production execution evidence. Rust-native, ",
+		"keywords": ["unused-code", "circular-dependencies", "code-duplication", "lint", "analyzer", "typescript", "javascript", "static-analysis", "agent-skills", "tanstack-intent"],
+		"version": "2.48.1",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 942,
+		"forks": 19,
+		"open_issues": 3,
+		"language": "Rust",
+		"license": "MIT",
+		"last_commit": "2026-04-24T06:02:33Z",
+		"topics": ["cli", "code-duplication", "code-quality", "codebase-intelligence", "copy-paste-detection", "dead-code", "developer-tools", "duplicate-code", "javascript", "jscpd", "knip", "linter", "oxc", "runtime-intelligence", "rust", "static-analysis", "typescript", "unused-code", "unused-dependencies", "unused-exports"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://docs.fallow.tools",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 17,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

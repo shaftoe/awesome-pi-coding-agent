@@ -13,11 +13,14 @@
 		"is_archived": false,
 		"is_fork": false,
 		"homepage": "",
-		"_readme_category_scores": {}
+		"_readme_category_scores": {},
+		"open_issues": 1,
+		"license": "AGPL-3.0",
+		"last_commit": "2026-03-31T21:01:42Z"
 	},
 	"health": {
-		"score": 50,
-		"level": "maintained"
+		"score": 70,
+		"level": "active"
 	},
 	"category": "extension"
 }

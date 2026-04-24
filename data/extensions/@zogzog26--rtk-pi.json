@@ -15,11 +15,21 @@
 			"tool": 1,
 			"theme": 0,
 			"provider": 0
-		}
+		},
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-15T21:05:42Z",
+		"topics": ["cost-optimization", "pi", "pi-agent", "rtk", "token-optimization", "usage"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": ""
 	},
 	"health": {
-		"score": 50,
-		"level": "maintained"
+		"score": 70,
+		"level": "active"
 	},
 	"category": "extension"
 }

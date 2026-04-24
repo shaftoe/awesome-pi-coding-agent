@@ -1,0 +1,21 @@
+{
+	"id": "superpi",
+	"name": "superpi",
+	"url": "https://www.npmjs.com/package/superpi",
+	"source": "npm-search",
+	"description": "SuperVisor System v2 — long-running task orchestration for pi.dev via Plan → Execute → Verify",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "superpi",
+		"description": "SuperVisor System v2 — long-running task orchestration for pi.dev via Plan → Execute → Verify",
+		"keywords": ["pi", "pi-extension", "supervisor", "agent", "task-management", "superpi"],
+		"version": "0.2.1",
+		"discovery_hint": "npm:keywords:pi-extension",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

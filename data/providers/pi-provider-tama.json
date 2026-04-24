@@ -1,0 +1,21 @@
+{
+	"id": "pi-provider-tama",
+	"name": "pi-provider-tama",
+	"url": "https://www.npmjs.com/package/pi-provider-tama",
+	"source": "npm-search",
+	"description": "Pi agent extension for tama local AI server auto-discovery and model configuration",
+	"metadata": {
+		"github_url": "https://github.com/danielcherubini/pi-provider-tama",
+		"npm_name": "pi-provider-tama",
+		"description": "Pi agent extension for tama local AI server auto-discovery and model configuration",
+		"keywords": ["pi-package", "pi", "pi-agent", "tama", "extension", "local-llm", "openai-compatible", "auto-discovery"],
+		"version": "0.9.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

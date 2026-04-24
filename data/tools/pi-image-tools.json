@@ -15,11 +15,21 @@
 			"tool": 38,
 			"theme": 0,
 			"provider": 0
-		}
+		},
+		"stars": 12,
+		"forks": 2,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-23T00:47:18Z",
+		"topics": ["clipboard", "coding-agent", "hack", "image", "image-processing", "imaging", "pi", "pi-coding-agent", "pi-extension", "pi-tui", "preview", "terminal", "tui", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null
 	},
 	"health": {
-		"score": 50,
-		"level": "maintained"
+		"score": 71,
+		"level": "active"
 	},
 	"category": "tool"
 }

@@ -1,0 +1,21 @@
+{
+	"id": "@nandithebull/pi-background",
+	"name": "@nandithebull/pi-background",
+	"url": "https://www.npmjs.com/package/@nandithebull/pi-background",
+	"source": "npm-search",
+	"description": "Background task tracker extension for pi - shows running commands and background sessions in the UI",
+	"metadata": {
+		"github_url": "https://github.com/nandithebull/pi-background",
+		"npm_name": "@nandithebull/pi-background",
+		"description": "Background task tracker extension for pi - shows running commands and background sessions in the UI",
+		"keywords": ["pi", "pi-coding-agent", "extension", "background", "task", "tracker"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-coding-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

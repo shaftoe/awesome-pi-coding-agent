@@ -15,10 +15,20 @@
 			"tool": 1,
 			"theme": 0,
 			"provider": 3
-		}
+		},
+		"stars": 7,
+		"forks": 3,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "BSL-1.0",
+		"last_commit": "2026-03-14T13:11:03Z",
+		"topics": ["pi-extension"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": ""
 	},
 	"health": {
-		"score": 50,
+		"score": 61,
 		"level": "maintained"
 	},
 	"category": "provider"

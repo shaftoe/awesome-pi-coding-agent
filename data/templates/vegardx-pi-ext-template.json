@@ -1,0 +1,32 @@
+{
+	"id": "vegardx-pi-ext-template",
+	"name": "vegardx-pi-ext-template",
+	"url": "https://github.com/vegardx/pi-ext-template",
+	"source": "github-search",
+	"description": "Template repo for pi.dev extensions — gh repo create --template vegardx/pi-ext-template",
+	"metadata": {
+		"description": "Template repo for pi.dev extensions — gh repo create --template vegardx/pi-ext-template",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["pi-dev", "pi-extension", "scaffold", "template", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:topic:pi-extension",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-24T06:01:54Z",
+		"_readme_category_scores": {
+			"extension": 7,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "template"
+}

@@ -1,0 +1,21 @@
+{
+	"id": "@aboutlo/pi-smart-edit",
+	"name": "@aboutlo/pi-smart-edit",
+	"url": "https://www.npmjs.com/package/@aboutlo/pi-smart-edit",
+	"source": "npm-search",
+	"description": "A [pi](https://github.com/badlogic/pi) extension that overrides the built-in `edit` tool with whitespace-tolerant matching, designed for local/quantized LLMs.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@aboutlo/pi-smart-edit",
+		"description": "A [pi](https://github.com/badlogic/pi) extension that overrides the built-in `edit` tool with whitespace-tolerant matching, designed for local/quantized LLMs.",
+		"keywords": ["pi-package"],
+		"version": "0.3.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

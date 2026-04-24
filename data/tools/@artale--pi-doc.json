@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-doc",
+	"name": "@artale/pi-doc",
+	"url": "https://www.npmjs.com/package/@artale/pi-doc",
+	"source": "npm-search",
+	"description": "Documentation generator. Scan exports, check doc coverage, scaffold READMEs, generate API reference.",
+	"metadata": {
+		"github_url": "https://github.com/arosstale/pi-doc",
+		"npm_name": "@artale/pi-doc",
+		"description": "Documentation generator. Scan exports, check doc coverage, scaffold READMEs, generate API reference.",
+		"keywords": ["pi-package", "pi-extension", "documentation", "readme", "jsdoc"],
+		"version": "1.0.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

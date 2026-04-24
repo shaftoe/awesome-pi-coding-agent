@@ -18,10 +18,13 @@
 			"tool": 4,
 			"theme": 13,
 			"provider": 7
-		}
+		},
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-02-25T06:21:35Z"
 	},
 	"health": {
-		"score": 50,
+		"score": 60,
 		"level": "maintained"
 	},
 	"category": "extension"

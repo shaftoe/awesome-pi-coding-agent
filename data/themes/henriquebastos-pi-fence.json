@@ -1,0 +1,32 @@
+{
+	"id": "henriquebastos-pi-fence",
+	"name": "henriquebastos-pi-fence",
+	"url": "https://github.com/henriquebastos/pi-fence",
+	"source": "github-search",
+	"description": "pi extension that processes fenced code blocks — renders diagrams, formats data, and more, via a pluggable processor registry.",
+	"metadata": {
+		"description": "pi extension that processes fenced code blocks — renders diagrams, formats data, and more, via a pluggable processor registry.",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["diagrams", "kroki", "mermaid", "pi", "pi-extension"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:topic:pi-extension",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-19T05:33:15Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 1,
+			"theme": 7,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "theme"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@softspark/ai-toolkit",
+	"name": "@softspark/ai-toolkit",
+	"url": "https://www.npmjs.com/package/@softspark/ai-toolkit",
+	"source": "npm-search",
+	"description": "AI coding toolkit: 99 skills, 44 agents, 12-editor write-through (Claude, Cursor, Windsurf, Copilot, Gemini, Cline, Roo, Aider, Augment, Antigravity, Codex, opencode), machine-enforced safety constitution, SARIF audit, signed npm provenance.",
+	"metadata": {
+		"github_url": "https://github.com/softspark/ai-toolkit",
+		"npm_name": "@softspark/ai-toolkit",
+		"description": "AI coding toolkit: 99 skills, 44 agents, 12-editor write-through (Claude, Cursor, Windsurf, Copilot, Gemini, Cline, Roo, Aider, Augment, Antigravity, Codex, opencode), machine-enforced safety constitution, SARIF audit, signed npm provenance.",
+		"keywords": ["claude", "claude-code", "anthropic", "ai", "agents", "skills", "llm", "toolkit", "developer-tools", "cursor", "windsurf", "copilot", "gemini", "cline", "roo-code", "roo", "aider", "augment", "antigravity", "google-antigravity", "opencode", "multi-platform"],
+		"version": "3.0.2",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 139,
+		"forks": 17,
+		"open_issues": 0,
+		"language": "Python",
+		"license": "MIT",
+		"last_commit": "2026-04-24T08:11:23Z",
+		"topics": ["ai-agents", "ai-skills", "anthropic", "claude", "claude-code", "cline", "codex", "copilot", "cursor", "gemini", "mcp", "opencode", "toolkit", "windsurf"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://softspark.eu",
+		"_readme_category_scores": {
+			"extension": 28,
+			"tool": 16,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 84,
+		"level": "active"
+	},
+	"category": "extension"
+}

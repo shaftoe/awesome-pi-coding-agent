@@ -1,0 +1,24 @@
+{
+	"id": "YT_yBod6YTqvXc",
+	"name": "Sonic Pi as Midi Input and Ableton Live as receiver.",
+	"url": "https://www.youtube.com/watch?v=yBod6YTqvXc",
+	"source": "youtube-search",
+	"description": "",
+	"metadata": {
+		"title": "Sonic Pi as Midi Input and Ableton Live as receiver.",
+		"description": "",
+		"channel": "Exotic Olive Oil Taster",
+		"published_at": "2020-04-28T12:23:11Z",
+		"thumbnail": "https://i.ytimg.com/vi/yBod6YTqvXc/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 824,
+		"like_count": 11,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 32,
+		"level": "stale"
+	},
+	"category": "video"
+}

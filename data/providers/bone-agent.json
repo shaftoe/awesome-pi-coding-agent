@@ -1,0 +1,36 @@
+{
+	"id": "bone-agent",
+	"name": "bone-agent",
+	"url": "https://www.npmjs.com/package/bone-agent",
+	"source": "npm-search",
+	"description": "A terminal-based AI coding assistant powered by OpenAI-style function calling",
+	"metadata": {
+		"github_url": "https://github.com/vincentm65/bone-agent",
+		"npm_name": "bone-agent",
+		"description": "A terminal-based AI coding assistant powered by OpenAI-style function calling",
+		"keywords": ["ai", "coding-assistant", "terminal", "llm", "function-calling", "python", "gpt", "claude", "bone-agent"],
+		"version": "1.3.3",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Python",
+		"license": "MIT",
+		"last_commit": "2026-04-23T12:10:23Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 3,
+			"theme": 0,
+			"provider": 9
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

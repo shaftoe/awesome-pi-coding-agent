@@ -1,0 +1,24 @@
+{
+	"id": "YT_l7iOawJUby8",
+	"name": "Task 5.2 GUI in Python with Raspberry pi 3",
+	"url": "https://www.youtube.com/watch?v=l7iOawJUby8",
+	"source": "youtube-search",
+	"description": "When one light is turned on the already on light turns off. At a time only a single light can be turned on.",
+	"metadata": {
+		"title": "Task 5.2 GUI in Python with Raspberry pi 3",
+		"description": "When one light is turned on the already on light turns off. At a time only a single light can be turned on.",
+		"channel": "Muhammad Bin Muzaffar",
+		"published_at": "2018-05-14T08:14:34Z",
+		"thumbnail": "https://i.ytimg.com/vi/l7iOawJUby8/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 191,
+		"like_count": 2,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

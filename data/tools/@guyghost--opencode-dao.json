@@ -1,0 +1,36 @@
+{
+	"id": "@guyghost/opencode-dao",
+	"name": "@guyghost/opencode-dao",
+	"url": "https://www.npmjs.com/package/@guyghost/opencode-dao",
+	"source": "npm-search",
+	"description": "OpenCode DAO Plugin - 4-layer governance with AI agent swarm deliberation",
+	"metadata": {
+		"github_url": "https://github.com/guyghost/opencode-dao",
+		"npm_name": "@guyghost/opencode-dao",
+		"description": "OpenCode DAO Plugin - 4-layer governance with AI agent swarm deliberation",
+		"keywords": ["dao", "governance", "swarm", "deliberation", "opencode"],
+		"version": "2.0.0",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-23T12:14:28Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 20,
+			"theme": 1,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

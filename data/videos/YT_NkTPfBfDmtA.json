@@ -1,0 +1,24 @@
+{
+	"id": "YT_NkTPfBfDmtA",
+	"name": "AvaloniaUI running without X server on top of /dev/fb0 and libevdev2",
+	"url": "https://www.youtube.com/watch?v=NkTPfBfDmtA",
+	"source": "youtube-search",
+	"description": "We don't even need X11 and native window toolkit anymore https://github.com/AvaloniaUI/Avalonia ...",
+	"metadata": {
+		"title": "AvaloniaUI running without X server on top of /dev/fb0 and libevdev2",
+		"description": "We don't even need X11 and native window toolkit anymore https://github.com/AvaloniaUI/Avalonia ...",
+		"channel": "Nikita Tsukanov",
+		"published_at": "2017-03-22T13:04:24Z",
+		"thumbnail": "https://i.ytimg.com/vi/NkTPfBfDmtA/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 3400,
+		"like_count": 53,
+		"comment_count": 1
+	},
+	"health": {
+		"score": 38,
+		"level": "stale"
+	},
+	"category": "video"
+}

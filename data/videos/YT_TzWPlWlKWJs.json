@@ -1,0 +1,24 @@
+{
+	"id": "YT_TzWPlWlKWJs",
+	"name": "Foglight for DB2 5.7.5.X. Agent Creation",
+	"url": "https://www.youtube.com/watch?v=TzWPlWlKWJs",
+	"source": "youtube-search",
+	"description": "Foglight Cartridge for DB2, How to Setup a Foglight DB2 Agent for Monitoring a DB2 Single Partition Instance?",
+	"metadata": {
+		"title": "Foglight for DB2 5.7.5.X. Agent Creation",
+		"description": "Foglight Cartridge for DB2, How to Setup a Foglight DB2 Agent for Monitoring a DB2 Single Partition Instance?",
+		"channel": "Quest Technical Support",
+		"published_at": "2017-06-09T18:18:52Z",
+		"thumbnail": "https://i.ytimg.com/vi/TzWPlWlKWJs/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi extension\" -raspberry -vscode",
+		"_readme_category_scores": {},
+		"view_count": 134,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

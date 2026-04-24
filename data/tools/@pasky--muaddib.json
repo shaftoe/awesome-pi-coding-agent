@@ -1,0 +1,36 @@
+{
+	"id": "@pasky/muaddib",
+	"name": "@pasky/muaddib",
+	"url": "https://www.npmjs.com/package/@pasky/muaddib",
+	"source": "npm-search",
+	"description": "Secure, multi-user AI assistant for IRC, Discord, and Slack",
+	"metadata": {
+		"github_url": "https://github.com/pasky/muaddib",
+		"npm_name": "@pasky/muaddib",
+		"description": "Secure, multi-user AI assistant for IRC, Discord, and Slack",
+		"keywords": ["ai", "assistant", "pi", "pi-coding-agent", "irc", "discord", "slack", "claude", "anthropic", "chatbot", "multi-user"],
+		"version": "2.4.0",
+		"discovery_hint": "npm:keywords:pi-coding-agent",
+		"stars": 50,
+		"forks": 7,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-23T17:43:16Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 11,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 75,
+		"level": "active"
+	},
+	"category": "tool"
+}

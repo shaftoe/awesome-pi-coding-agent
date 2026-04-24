@@ -1,0 +1,24 @@
+{
+	"id": "YT_AUIpPZzwcgk",
+	"name": "Любов ендерменів",
+	"url": "https://www.youtube.com/watch?v=AUIpPZzwcgk",
+	"source": "youtube-search",
+	"description": "",
+	"metadata": {
+		"title": "Любов ендерменів",
+		"description": "",
+		"channel": "Pi Pi dev 02",
+		"published_at": "2021-11-07T14:31:32Z",
+		"thumbnail": "https://i.ytimg.com/vi/AUIpPZzwcgk/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 2,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

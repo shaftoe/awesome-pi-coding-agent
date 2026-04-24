@@ -1,0 +1,24 @@
+{
+	"id": "YT_OLUt1exGUfE",
+	"name": "ExSecAI - Intro",
+	"url": "https://www.youtube.com/watch?v=OLUt1exGUfE",
+	"source": "youtube-search",
+	"description": "ExSecAI is a self-hosted AI agent orchestrator that transforms how you delegate work to AI. Instead of chatting with an AI assistant, ...",
+	"metadata": {
+		"title": "ExSecAI - Intro",
+		"description": "ExSecAI is a self-hosted AI agent orchestrator that transforms how you delegate work to AI. Instead of chatting with an AI assistant, ...",
+		"channel": "nexttechpost",
+		"published_at": "2026-02-18T02:13:56Z",
+		"thumbnail": "https://i.ytimg.com/vi/OLUt1exGUfE/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding agent\"",
+		"_readme_category_scores": {},
+		"view_count": 13,
+		"like_count": 0,
+		"comment_count": 1
+	},
+	"health": {
+		"score": 65,
+		"level": "maintained"
+	},
+	"category": "video"
+}

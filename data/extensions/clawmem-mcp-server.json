@@ -1,0 +1,36 @@
+{
+	"id": "clawmem-mcp-server",
+	"name": "clawmem-mcp-server",
+	"url": "https://www.npmjs.com/package/clawmem-mcp-server",
+	"source": "npm-search",
+	"description": "Stdio MCP server for ClawMem durable memory. Shared by the ClawMem Claude Code and Codex plugins.",
+	"metadata": {
+		"github_url": "https://github.com/clawmem-ai/clawmem-mcp-server",
+		"npm_name": "clawmem-mcp-server",
+		"description": "Stdio MCP server for ClawMem durable memory. Shared by the ClawMem Claude Code and Codex plugins.",
+		"keywords": ["mcp", "clawmem", "memory", "claude", "codex"],
+		"version": "0.1.5",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-23T08:23:16Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

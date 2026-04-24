@@ -1,0 +1,24 @@
+{
+	"id": "YT_MCFLtrzkfIY",
+	"name": "HOW IT WORKS  - PI Extension",
+	"url": "https://www.youtube.com/watch?v=MCFLtrzkfIY",
+	"source": "youtube-search",
+	"description": "You can find the extension at google web store, https://bit.ly/3F2yThA First overlay extension for real-time stats on LoL Esports It ...",
+	"metadata": {
+		"title": "HOW IT WORKS  - PI Extension",
+		"description": "You can find the extension at google web store, https://bit.ly/3F2yThA First overlay extension for real-time stats on LoL Esports It ...",
+		"channel": "RORR(로어)",
+		"published_at": "2023-10-11T07:05:56Z",
+		"thumbnail": "https://i.ytimg.com/vi/MCFLtrzkfIY/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi extension\" -raspberry -vscode",
+		"_readme_category_scores": {},
+		"view_count": 5602,
+		"like_count": 10,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 41,
+		"level": "maintained"
+	},
+	"category": "video"
+}

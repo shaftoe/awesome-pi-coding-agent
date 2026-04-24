@@ -1,0 +1,24 @@
+{
+	"id": "YT_wlJIBUB8t90",
+	"name": "Portable Pi400 CyberDeck in a box",
+	"url": "https://www.youtube.com/watch?v=wlJIBUB8t90",
+	"source": "youtube-search",
+	"description": "Here is my Portable Pi400 CyberDeck creation! It's not the prettiest out there, but it's definitely functional, and that counts for ...",
+	"metadata": {
+		"title": "Portable Pi400 CyberDeck in a box",
+		"description": "Here is my Portable Pi400 CyberDeck creation! It's not the prettiest out there, but it's definitely functional, and that counts for ...",
+		"channel": "CulBlu Vlogs",
+		"published_at": "2021-04-28T07:23:00Z",
+		"thumbnail": "https://i.ytimg.com/vi/wlJIBUB8t90/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 41705,
+		"like_count": 940,
+		"comment_count": 38
+	},
+	"health": {
+		"score": 55,
+		"level": "maintained"
+	},
+	"category": "video"
+}

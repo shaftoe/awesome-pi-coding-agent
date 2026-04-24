@@ -1,0 +1,36 @@
+{
+	"id": "pi-oneliner",
+	"name": "pi-oneliner",
+	"url": "https://www.npmjs.com/package/pi-oneliner",
+	"source": "npm-search",
+	"description": "One-line sticky footer extension for pi coding agent.",
+	"metadata": {
+		"github_url": "https://github.com/jerryfan/oneliner",
+		"npm_name": "pi-oneliner",
+		"description": "One-line sticky footer extension for pi coding agent.",
+		"keywords": ["pi-package", "pi", "extension", "statusline", "terminal-ui"],
+		"version": "1.3.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-22T08:57:34Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

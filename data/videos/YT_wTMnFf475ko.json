@@ -1,0 +1,24 @@
+{
+	"id": "YT_wTMnFf475ko",
+	"name": "Heating & Security Control Part 16 - Raspberry Pi coding python tkinter gui",
+	"url": "https://www.youtube.com/watch?v=wTMnFf475ko",
+	"source": "youtube-search",
+	"description": "In this video I get data from 2 temperature sensors DS18B20's and display the temp readings in the display. I also use a webcam ...",
+	"metadata": {
+		"title": "Heating & Security Control Part 16 - Raspberry Pi coding python tkinter gui",
+		"description": "In this video I get data from 2 temperature sensors DS18B20's and display the temp readings in the display. I also use a webcam ...",
+		"channel": "RasPiPkr Tutorials",
+		"published_at": "2020-07-24T20:11:45Z",
+		"thumbnail": "https://i.ytimg.com/vi/wTMnFf475ko/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 239,
+		"like_count": 2,
+		"comment_count": 9
+	},
+	"health": {
+		"score": 31,
+		"level": "stale"
+	},
+	"category": "video"
+}

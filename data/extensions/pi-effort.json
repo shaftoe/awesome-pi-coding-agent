@@ -1,0 +1,36 @@
+{
+	"id": "pi-effort",
+	"name": "pi-effort",
+	"url": "https://www.npmjs.com/package/pi-effort",
+	"source": "npm-search",
+	"description": "Pi extension for controlling thinking effort with model-adaptive min/max aliases",
+	"metadata": {
+		"github_url": "https://github.com/ricardofrantz/pi-effort",
+		"npm_name": "pi-effort",
+		"description": "Pi extension for controlling thinking effort with model-adaptive min/max aliases",
+		"keywords": ["pi-package", "pi-extension", "pi", "pi-coding-agent", "llm", "developer-tools", "command-line", "productivity", "reasoning", "thinking", "effort"],
+		"version": "0.0.3",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-23T21:24:07Z",
+		"topics": ["command-line", "developer-tools", "llm", "pi", "pi-coding-agent", "pi-extension", "productivity", "reasoning"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 1,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

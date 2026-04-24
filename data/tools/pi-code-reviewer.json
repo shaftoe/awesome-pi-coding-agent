@@ -1,0 +1,21 @@
+{
+	"id": "pi-code-reviewer",
+	"name": "pi-code-reviewer",
+	"url": "https://www.npmjs.com/package/pi-code-reviewer",
+	"source": "npm-search",
+	"description": "Pi-installable code review skill package.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-code-reviewer",
+		"description": "Pi-installable code review skill package.",
+		"keywords": ["pi-package", "pi", "skill", "code-review"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

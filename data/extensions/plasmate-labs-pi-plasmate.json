@@ -18,11 +18,14 @@
 			"tool": 3,
 			"theme": 0,
 			"provider": 0
-		}
+		},
+		"open_issues": 0,
+		"license": "NOASSERTION",
+		"last_commit": "2026-03-29T12:36:58Z"
 	},
 	"health": {
-		"score": 50,
-		"level": "maintained"
+		"score": 70,
+		"level": "active"
 	},
 	"category": "extension"
 }

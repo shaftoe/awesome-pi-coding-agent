@@ -6,7 +6,7 @@
 	"description": "Inter-session communication extension for pi coding agent",
 	"metadata": {
 		"description": "Inter-session communication extension for pi coding agent",
-		"stars": 66,
+		"stars": 88,
 		"forks": 5,
 		"language": "TypeScript",
 		"topics": [],
@@ -18,11 +18,14 @@
 			"tool": 9,
 			"theme": 0,
 			"provider": 0
-		}
+		},
+		"open_issues": 2,
+		"license": "MIT",
+		"last_commit": "2026-04-23T04:59:32Z"
 	},
 	"health": {
-		"score": 57,
-		"level": "maintained"
+		"score": 79,
+		"level": "active"
 	},
 	"category": "tool"
 }

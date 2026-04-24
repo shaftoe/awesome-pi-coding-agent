@@ -1,0 +1,24 @@
+{
+	"id": "YT_tw4zjZssJHg",
+	"name": "Foglight for Databases - Migrating SQL Server and Oracle database agents between FglAMs",
+	"url": "https://www.youtube.com/watch?v=tw4zjZssJHg",
+	"source": "youtube-search",
+	"description": "Database Monitoring | Foglight for Cross-Platform Databases ...",
+	"metadata": {
+		"title": "Foglight for Databases - Migrating SQL Server and Oracle database agents between FglAMs",
+		"description": "Database Monitoring | Foglight for Cross-Platform Databases ...",
+		"channel": "John Sakalauskas",
+		"published_at": "2018-11-26T19:26:54Z",
+		"thumbnail": "https://i.ytimg.com/vi/tw4zjZssJHg/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi extension\" -raspberry -vscode",
+		"_readme_category_scores": {},
+		"view_count": 3,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

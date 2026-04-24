@@ -1,0 +1,36 @@
+{
+	"id": "roocommander",
+	"name": "roocommander",
+	"url": "https://www.npmjs.com/package/roocommander",
+	"source": "npm-search",
+	"description": "Bridge Claude Code skills to Roo Code with intelligent orchestration. CLI tool + Custom Mode + 60+ production-tested skills for Cloudflare, AI, Frontend development.",
+	"metadata": {
+		"github_url": "https://github.com/jezweb/roo-commander",
+		"npm_name": "roocommander",
+		"description": "Bridge Claude Code skills to Roo Code with intelligent orchestration. CLI tool + Custom Mode + 60+ production-tested skills for Cloudflare, AI, Frontend development.",
+		"keywords": ["roo-code", "claude-code", "skills", "cli", "ai", "development", "orchestrator", "cloudflare", "workers", "d1", "openai", "gemini", "tailwind", "react", "nextjs", "vscode-extension", "ai-assistant", "code-generation"],
+		"version": "9.5.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 721,
+		"forks": 76,
+		"open_issues": 5,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2025-11-20T23:23:12Z",
+		"topics": ["aiagents", "roocode"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://jezweb.github.io/roo-commander/",
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 19,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

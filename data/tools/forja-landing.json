@@ -1,0 +1,36 @@
+{
+	"id": "forja-landing",
+	"name": "forja-landing",
+	"url": "https://www.npmjs.com/package/forja-landing",
+	"source": "npm-search",
+	"description": "Claude Code skill que construye landings cinemáticas para cualquier negocio — personal brand, SaaS, agencia, producto, curso, clínica — con Seedance, anti-AI-slop critique y web audit integrados. Made by Carlos Domínguez.",
+	"metadata": {
+		"github_url": "https://github.com/Carlos-Dominguez-faber/forja-landing",
+		"npm_name": "forja-landing",
+		"description": "Claude Code skill que construye landings cinemáticas para cualquier negocio — personal brand, SaaS, agencia, producto, curso, clínica — con Seedance, anti-AI-slop critique y web audit integrados. Made by Carlos Domínguez.",
+		"keywords": ["claude-code", "claude-skill", "landing-page", "seedance", "nextjs", "forge", "anti-ai-slop", "cinematic", "personal-brand", "saas", "agencia", "consultor", "curso", "section-selector"],
+		"version": "0.5.3",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-17T02:23:46Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@claritylabs/cl-sdk",
+	"name": "@claritylabs/cl-sdk",
+	"url": "https://www.npmjs.com/package/@claritylabs/cl-sdk",
+	"source": "npm-search",
+	"description": "CL-0 SDK — open infrastructure for building AI agents that work with insurance",
+	"metadata": {
+		"github_url": "https://github.com/claritylabs-inc/cl-sdk",
+		"npm_name": "@claritylabs/cl-sdk",
+		"description": "CL-0 SDK — open infrastructure for building AI agents that work with insurance",
+		"keywords": [],
+		"version": "0.16.2",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-23T19:20:49Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 14
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

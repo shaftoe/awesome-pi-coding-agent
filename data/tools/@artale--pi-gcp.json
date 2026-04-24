@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-gcp",
+	"name": "@artale/pi-gcp",
+	"url": "https://www.npmjs.com/package/@artale/pi-gcp",
+	"source": "npm-search",
+	"description": "GCP utilities",
+	"metadata": {
+		"github_url": "https://github.com/artale93/pi-gcp",
+		"npm_name": "@artale/pi-gcp",
+		"description": "GCP utilities",
+		"keywords": ["pi-package"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

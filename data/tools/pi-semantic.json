@@ -1,0 +1,21 @@
+{
+	"id": "pi-semantic",
+	"name": "pi-semantic",
+	"url": "https://www.npmjs.com/package/pi-semantic",
+	"source": "npm-search",
+	"description": "Semantic density modes + workflow helpers for Pi (toggle via /sem).",
+	"metadata": {
+		"github_url": "https://github.com/jerryfan/pi",
+		"npm_name": "pi-semantic",
+		"description": "Semantic density modes + workflow helpers for Pi (toggle via /sem).",
+		"keywords": ["pi-package", "pi", "extension", "compression", "semantic", "commit", "review", "statusline"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

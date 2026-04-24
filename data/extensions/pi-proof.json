@@ -1,0 +1,36 @@
+{
+	"id": "pi-proof",
+	"name": "pi-proof",
+	"url": "https://www.npmjs.com/package/pi-proof",
+	"source": "npm-search",
+	"description": "Proof-first Pi extension that uses a red-green-refactor cycle when behavior should be specified in tests first, with built-in parsing for popular test frameworks.",
+	"metadata": {
+		"github_url": "https://github.com/kreek/pi-proof",
+		"npm_name": "pi-proof",
+		"description": "Proof-first Pi extension that uses a red-green-refactor cycle when behavior should be specified in tests first, with built-in parsing for popular test frameworks.",
+		"keywords": ["pi-package", "pi-extension", "pi", "proof", "proof-first", "red-green-refactor", "testing", "agent-workflow", "coding-agent", "vitest", "jest", "pytest", "rspec"],
+		"version": "1.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-18T23:27:04Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 14,
+			"tool": 1,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

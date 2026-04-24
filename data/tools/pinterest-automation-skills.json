@@ -1,0 +1,21 @@
+{
+	"id": "pinterest-automation-skills",
+	"name": "pinterest-automation-skills",
+	"url": "https://www.npmjs.com/package/pinterest-automation-skills",
+	"source": "npm-search",
+	"description": "Pinterest Automation Dashboard skills for AI coding agents (Claude Code, Cursor, Replit, and more). Installs three markdown skill files — API reference, CSV formats, and workflow recipes — into your agent's skill directory.",
+	"metadata": {
+		"github_url": "https://github.com/prohunter00017/pinterest-automation-web",
+		"npm_name": "pinterest-automation-skills",
+		"description": "Pinterest Automation Dashboard skills for AI coding agents (Claude Code, Cursor, Replit, and more). Installs three markdown skill files — API reference, CSV formats, and workflow recipes — into your agent's skill directory.",
+		"keywords": ["pinterest", "automation", "ai", "agent", "skill", "skills", "claude", "claude-code", "cursor", "replit", "openrouter", "llm"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

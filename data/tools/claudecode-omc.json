@@ -1,0 +1,36 @@
+{
+	"id": "claudecode-omc",
+	"name": "claudecode-omc",
+	"url": "https://www.npmjs.com/package/claudecode-omc",
+	"source": "npm-search",
+	"description": "Claude Code harness — best-practice skills, agents, hooks, and configs from multiple sources",
+	"metadata": {
+		"github_url": "https://github.com/materialofair/oh-my-claudecode",
+		"npm_name": "claudecode-omc",
+		"description": "Claude Code harness — best-practice skills, agents, hooks, and configs from multiple sources",
+		"keywords": ["claude-code", "oh-my-claudecode", "superpowers", "skills", "agents", "hooks", "harness", "multi-source", "ai-agent", "best-practices"],
+		"version": "5.5.1",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-31T09:22:05Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": "https://yeachan-heo.github.io/oh-my-claudecode-website",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 23,
+			"theme": 0,
+			"provider": 6
+		}
+	},
+	"health": {
+		"score": 40,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

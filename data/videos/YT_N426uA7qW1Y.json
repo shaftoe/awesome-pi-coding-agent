@@ -1,0 +1,24 @@
+{
+	"id": "YT_N426uA7qW1Y",
+	"name": "Setting up emulated Raspberry Pi for CI pipeline (part 1)",
+	"url": "https://www.youtube.com/watch?v=N426uA7qW1Y",
+	"source": "youtube-search",
+	"description": "In which I outline the task ahead, set up a VM to work on, steal some ideas/do some research and start putting a script together.",
+	"metadata": {
+		"title": "Setting up emulated Raspberry Pi for CI pipeline (part 1)",
+		"description": "In which I outline the task ahead, set up a VM to work on, steal some ideas/do some research and start putting a script together.",
+		"channel": "SaltyVagrantStreams",
+		"published_at": "2020-07-12T16:13:24Z",
+		"thumbnail": "https://i.ytimg.com/vi/N426uA7qW1Y/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 87,
+		"like_count": 2,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

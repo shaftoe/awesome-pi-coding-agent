@@ -1,0 +1,24 @@
+{
+	"id": "YT_uVU5LocteCw",
+	"name": "Sonic Pi Tutorial - Sample function options part 1",
+	"url": "https://www.youtube.com/watch?v=uVU5LocteCw",
+	"source": "youtube-search",
+	"description": "This video covers different options you can use with the sample function to change the pitch and speed of samples in Sonic Pi.",
+	"metadata": {
+		"title": "Sonic Pi Tutorial - Sample function options part 1",
+		"description": "This video covers different options you can use with the sample function to change the pitch and speed of samples in Sonic Pi.",
+		"channel": "Mister Bomb",
+		"published_at": "2020-06-30T00:26:16Z",
+		"thumbnail": "https://i.ytimg.com/vi/uVU5LocteCw/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 847,
+		"like_count": 14,
+		"comment_count": 1
+	},
+	"health": {
+		"score": 32,
+		"level": "stale"
+	},
+	"category": "video"
+}

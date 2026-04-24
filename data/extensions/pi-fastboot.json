@@ -1,0 +1,36 @@
+{
+	"id": "pi-fastboot",
+	"name": "pi-fastboot",
+	"url": "https://www.npmjs.com/package/pi-fastboot",
+	"source": "npm-search",
+	"description": "Make Pi startup feel close to PI_OFFLINE=1 while still letting npm-based extensions update",
+	"metadata": {
+		"github_url": "https://github.com/sting8k/pi-fastboot",
+		"npm_name": "pi-fastboot",
+		"description": "Make Pi startup feel close to PI_OFFLINE=1 while still letting npm-based extensions update",
+		"keywords": ["pi-package", "pi-extension", "fastboot", "startup", "coding-agent", "ai"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T07:27:01Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

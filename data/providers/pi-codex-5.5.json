@@ -1,0 +1,36 @@
+{
+	"id": "pi-codex-5.5",
+	"name": "pi-codex-5.5",
+	"url": "https://www.npmjs.com/package/pi-codex-5.5",
+	"source": "npm-search",
+	"description": "Extra LLM models for pi (OpenAI Codex GPT-5.5).",
+	"metadata": {
+		"github_url": "https://github.com/ross-jill-ws/pi-codex-5.5",
+		"npm_name": "pi-codex-5.5",
+		"description": "Extra LLM models for pi (OpenAI Codex GPT-5.5).",
+		"keywords": ["pi-package", "llm", "model", "openai-codex", "gpt-5.5"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-23T21:25:02Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

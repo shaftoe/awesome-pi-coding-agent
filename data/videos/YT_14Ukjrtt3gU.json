@@ -1,0 +1,24 @@
+{
+	"id": "YT_14Ukjrtt3gU",
+	"name": "Raspberry Pi: Could not open port /dev/ttyS0: Errno 13: Permission denied: '/dev/ttyS0'",
+	"url": "https://www.youtube.com/watch?v=14Ukjrtt3gU",
+	"source": "youtube-search",
+	"description": "https://amzn.to/4aLHbLD You're literally one click away from a better setup — grab it now! As an Amazon Associate I earn ...",
+	"metadata": {
+		"title": "Raspberry Pi: Could not open port /dev/ttyS0: Errno 13: Permission denied: '/dev/ttyS0'",
+		"description": "https://amzn.to/4aLHbLD You're literally one click away from a better setup — grab it now! As an Amazon Associate I earn ...",
+		"channel": "Roel Van de Paar",
+		"published_at": "2021-01-19T06:34:58Z",
+		"thumbnail": "https://i.ytimg.com/vi/14Ukjrtt3gU/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 1763,
+		"like_count": 3,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 34,
+		"level": "stale"
+	},
+	"category": "video"
+}

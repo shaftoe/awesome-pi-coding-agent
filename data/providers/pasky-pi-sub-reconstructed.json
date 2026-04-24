@@ -18,10 +18,13 @@
 			"tool": 2,
 			"theme": 1,
 			"provider": 25
-		}
+		},
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-01-31T22:30:14Z"
 	},
 	"health": {
-		"score": 50,
+		"score": 60,
 		"level": "maintained"
 	},
 	"category": "provider"

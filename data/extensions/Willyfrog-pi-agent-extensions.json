@@ -13,7 +13,10 @@
 		"is_archived": false,
 		"is_fork": false,
 		"homepage": null,
-		"_readme_category_scores": {}
+		"_readme_category_scores": {},
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-01-15T23:53:25Z"
 	},
 	"health": {
 		"score": 50,

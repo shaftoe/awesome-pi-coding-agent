@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-web-search",
+	"name": "@artale/pi-web-search",
+	"url": "https://www.npmjs.com/package/@artale/pi-web-search",
+	"source": "npm-search",
+	"description": "Simple web search",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@artale/pi-web-search",
+		"description": "Simple web search",
+		"keywords": ["pi-package", "search", "web", "find"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

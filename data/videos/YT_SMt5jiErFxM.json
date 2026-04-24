@@ -1,0 +1,24 @@
+{
+	"id": "YT_SMt5jiErFxM",
+	"name": "Sonic Pi snippets2",
+	"url": "https://www.youtube.com/watch?v=SMt5jiErFxM",
+	"source": "youtube-search",
+	"description": "",
+	"metadata": {
+		"title": "Sonic Pi snippets2",
+		"description": "",
+		"channel": "rbn1tube",
+		"published_at": "2020-04-09T21:29:01Z",
+		"thumbnail": "https://i.ytimg.com/vi/SMt5jiErFxM/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 65,
+		"like_count": 3,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

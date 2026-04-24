@@ -1,0 +1,36 @@
+{
+	"id": "math-skill",
+	"name": "math-skill",
+	"url": "https://www.npmjs.com/package/math-skill",
+	"source": "npm-search",
+	"description": "数学思想武器：将数学思维应用到科研和生活中。Mathematical Thinking Weapons: Apply Mathematical Thinking to Research and Daily Life.",
+	"metadata": {
+		"github_url": "https://github.com/the-thinker0/math-skill",
+		"npm_name": "math-skill",
+		"description": "数学思想武器：将数学思维应用到科研和生活中。Mathematical Thinking Weapons: Apply Mathematical Thinking to Research and Daily Life.",
+		"keywords": ["math", "mathematics", "thinking", "skill", "claude", "cursor", "ai", "axiomatization", "abstraction", "logic", "modeling", "optimization", "probability", "transformation", "symmetry", "induction", "algorithm", "information-theory", "game-theory", "causal-inference", "topology", "combinatorics", "discrete-math", "meta-selector", "ask", "weapon-selector", "tool-selection"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "PowerShell",
+		"license": "MIT",
+		"last_commit": "2026-04-16T12:23:17Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 1,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "theme"
+}

@@ -1,0 +1,21 @@
+{
+	"id": "pi-copilot-usage",
+	"name": "pi-copilot-usage",
+	"url": "https://www.npmjs.com/package/pi-copilot-usage",
+	"source": "npm-search",
+	"description": "GitHub Copilot premium request usage in the pi status bar",
+	"metadata": {
+		"github_url": "https://github.com/DxVapor/pi-copilot-usage",
+		"npm_name": "pi-copilot-usage",
+		"description": "GitHub Copilot premium request usage in the pi status bar",
+		"keywords": ["pi-package", "pi-extension", "github-copilot", "copilot", "usage"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

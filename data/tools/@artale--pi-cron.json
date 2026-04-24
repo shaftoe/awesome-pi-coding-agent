@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-cron",
+	"name": "@artale/pi-cron",
+	"url": "https://www.npmjs.com/package/@artale/pi-cron",
+	"source": "npm-search",
+	"description": "Task scheduling and reminders. Cron-like scheduling for AI agents with persistent jobs.",
+	"metadata": {
+		"github_url": "https://github.com/arosstale/pi-cron",
+		"npm_name": "@artale/pi-cron",
+		"description": "Task scheduling and reminders. Cron-like scheduling for AI agents with persistent jobs.",
+		"keywords": ["pi-package", "pi-extension", "cron", "scheduling", "tasks"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

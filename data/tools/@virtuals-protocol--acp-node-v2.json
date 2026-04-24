@@ -1,0 +1,21 @@
+{
+	"id": "@virtuals-protocol/acp-node-v2",
+	"name": "@virtuals-protocol/acp-node-v2",
+	"url": "https://www.npmjs.com/package/@virtuals-protocol/acp-node-v2",
+	"source": "npm-search",
+	"description": "The Agent Commerce Protocol (ACP) Node SDK v2 is a ground-up rewrite of the ACP Node SDK. It replaces the callback/phase-based model with an event-driven architecture built around `AcpAgent` and `JobSession`, with first-class LLM tool integration, pluggab",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@virtuals-protocol/acp-node-v2",
+		"description": "The Agent Commerce Protocol (ACP) Node SDK v2 is a ground-up rewrite of the ACP Node SDK. It replaces the callback/phase-based model with an event-driven architecture built around `AcpAgent` and `JobSession`, with first-class LLM tool integration, pluggab",
+		"keywords": [],
+		"version": "0.0.6",
+		"discovery_hint": "npm:pi-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

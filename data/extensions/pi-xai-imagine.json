@@ -1,0 +1,21 @@
+{
+	"id": "pi-xai-imagine",
+	"name": "pi-xai-imagine",
+	"url": "https://www.npmjs.com/package/pi-xai-imagine",
+	"source": "npm-search",
+	"description": "Pi extension for xAI image, video, and vision workflows",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-xai-imagine",
+		"description": "Pi extension for xAI image, video, and vision workflows",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

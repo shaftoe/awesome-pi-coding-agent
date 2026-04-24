@@ -1,0 +1,36 @@
+{
+	"id": "pi-zed-shift-enter",
+	"name": "pi-zed-shift-enter",
+	"url": "https://www.npmjs.com/package/pi-zed-shift-enter",
+	"source": "npm-search",
+	"description": "Fixes Shift+Enter not creating newlines in pi when running inside Zed's terminal",
+	"metadata": {
+		"github_url": "https://github.com/illusivejosiah/pi-zed-shift-enter",
+		"npm_name": "pi-zed-shift-enter",
+		"description": "Fixes Shift+Enter not creating newlines in pi when running inside Zed's terminal",
+		"keywords": ["pi-package", "pi-extension", "pi", "zed", "terminal", "shift-enter", "newline"],
+		"version": "1.0.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-08T20:31:22Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

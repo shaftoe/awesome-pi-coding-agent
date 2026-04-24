@@ -1,0 +1,21 @@
+{
+	"id": "@hyperprior/pi-python",
+	"name": "@hyperprior/pi-python",
+	"url": "https://www.npmjs.com/package/@hyperprior/pi-python",
+	"source": "npm-search",
+	"description": "Run Python commands from within pi",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@hyperprior/pi-python",
+		"description": "Run Python commands from within pi",
+		"keywords": ["pi", "pi-package", "pi-coding-agent", "tui", "extension", "hyperprior", "python"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

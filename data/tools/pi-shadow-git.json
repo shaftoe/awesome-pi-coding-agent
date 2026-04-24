@@ -1,0 +1,36 @@
+{
+	"id": "pi-shadow-git",
+	"name": "pi-shadow-git",
+	"url": "https://www.npmjs.com/package/pi-shadow-git",
+	"source": "npm-search",
+	"description": "Git-based orchestration logging for pi subagents with Mission Control dashboard",
+	"metadata": {
+		"github_url": "https://github.com/EmZod/pi-subagent-with-logging",
+		"npm_name": "pi-shadow-git",
+		"description": "Git-based orchestration logging for pi subagents with Mission Control dashboard",
+		"keywords": ["pi-package", "pi", "agent", "orchestration", "git", "logging", "subagent", "mission-control", "claude", "llm", "ai-agents"],
+		"version": "2.1.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Shell",
+		"license": "MIT",
+		"last_commit": "2026-02-05T10:51:19Z",
+		"topics": ["ai-agents", "audit-trail", "claude", "git-logging", "llm", "mission-control", "orchestration", "pi", "pi-package", "subagents"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 6,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

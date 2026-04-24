@@ -15,10 +15,20 @@
 			"tool": 0,
 			"theme": 0,
 			"provider": 5
-		}
+		},
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2026-03-05T04:01:59Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null
 	},
 	"health": {
-		"score": 50,
+		"score": 60,
 		"level": "maintained"
 	},
 	"category": "provider"

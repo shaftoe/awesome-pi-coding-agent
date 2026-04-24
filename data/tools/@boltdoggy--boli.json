@@ -1,0 +1,21 @@
+{
+	"id": "@boltdoggy/boli",
+	"name": "@boltdoggy/boli",
+	"url": "https://www.npmjs.com/package/@boltdoggy/boli",
+	"source": "npm-search",
+	"description": "AI coding assistant in your terminal",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@boltdoggy/boli",
+		"description": "AI coding assistant in your terminal",
+		"keywords": [],
+		"version": "0.1.4",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

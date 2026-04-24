@@ -15,11 +15,21 @@
 			"tool": 2,
 			"theme": 0,
 			"provider": 7
-		}
+		},
+		"stars": 8,
+		"forks": 3,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-23T10:29:08Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/@venthezone/picord"
 	},
 	"health": {
-		"score": 50,
-		"level": "maintained"
+		"score": 71,
+		"level": "active"
 	},
 	"category": "extension"
 }

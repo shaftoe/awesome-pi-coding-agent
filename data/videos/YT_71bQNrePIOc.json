@@ -1,0 +1,24 @@
+{
+	"id": "YT_71bQNrePIOc",
+	"name": "Sonic Pi 3.0 drives pi-topPULSE led array on pi-topCEED",
+	"url": "https://www.youtube.com/watch?v=71bQNrePIOc",
+	"source": "youtube-search",
+	"description": "Demo of Sonic Pi 3 controlling the pi-topPULSE led array, both from Sonic Pi 3.0 running on the pi-topCEED and running on an ...",
+	"metadata": {
+		"title": "Sonic Pi 3.0 drives pi-topPULSE led array on pi-topCEED",
+		"description": "Demo of Sonic Pi 3 controlling the pi-topPULSE led array, both from Sonic Pi 3.0 running on the pi-topCEED and running on an ...",
+		"channel": "rbn1tube",
+		"published_at": "2017-07-20T21:11:54Z",
+		"thumbnail": "https://i.ytimg.com/vi/71bQNrePIOc/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 191,
+		"like_count": 2,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

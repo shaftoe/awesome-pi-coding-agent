@@ -13,10 +13,13 @@
 		"is_archived": false,
 		"is_fork": false,
 		"homepage": null,
-		"_readme_category_scores": {}
+		"_readme_category_scores": {},
+		"open_issues": 0,
+		"license": "BSD-2-Clause",
+		"last_commit": "2026-02-06T01:34:37Z"
 	},
 	"health": {
-		"score": 50,
+		"score": 60,
 		"level": "maintained"
 	},
 	"category": "extension"

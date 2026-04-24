@@ -1,0 +1,24 @@
+{
+	"id": "YT_0ToWRjrHJts",
+	"name": "OpenClaw 運作原理與基本設定完全解析｜How it works、Quick Start、Dashboard、設定檔一次看懂",
+	"url": "https://www.youtube.com/watch?v=0ToWRjrHJts",
+	"source": "youtube-search",
+	"description": "這支影片帶你完整理解OpenClaw 的運作原理與基本設定。\\n\\n內容包含：\\n- How it works：Gateway、Chat apps、Pi ...",
+	"metadata": {
+		"title": "OpenClaw 運作原理與基本設定完全解析｜How it works、Quick Start、Dashboard、設定檔一次看懂",
+		"description": "這支影片帶你完整理解OpenClaw 的運作原理與基本設定。\\n\\n內容包含：\\n- How it works：Gateway、Chat apps、Pi ...",
+		"channel": "竑龍老師教室",
+		"published_at": "2026-03-21T17:29:39Z",
+		"thumbnail": "https://i.ytimg.com/vi/0ToWRjrHJts/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi agent\" -crypto -network -banking -raspberry",
+		"_readme_category_scores": {},
+		"view_count": 113,
+		"like_count": 1,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 65,
+		"level": "maintained"
+	},
+	"category": "video"
+}

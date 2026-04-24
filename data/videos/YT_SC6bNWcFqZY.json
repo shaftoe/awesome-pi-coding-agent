@@ -1,0 +1,24 @@
+{
+	"id": "YT_SC6bNWcFqZY",
+	"name": "#10.Moltbot Templates",
+	"url": "https://www.youtube.com/watch?v=SC6bNWcFqZY",
+	"source": "youtube-search",
+	"description": "https://github.com/nicholashui/openclaw_keynote/releases/download/script/10.OpenClaw_Templates.pdf Moltbot開發同設定完整 ...",
+	"metadata": {
+		"title": "#10.Moltbot Templates",
+		"description": "https://github.com/nicholashui/openclaw_keynote/releases/download/script/10.OpenClaw_Templates.pdf Moltbot開發同設定完整 ...",
+		"channel": "n1ch01as",
+		"published_at": "2026-01-30T16:19:50Z",
+		"thumbnail": "https://i.ytimg.com/vi/SC6bNWcFqZY/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding agent\"",
+		"_readme_category_scores": {},
+		"view_count": 36,
+		"like_count": 1,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 65,
+		"level": "maintained"
+	},
+	"category": "video"
+}

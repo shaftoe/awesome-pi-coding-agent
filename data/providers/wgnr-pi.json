@@ -1,0 +1,36 @@
+{
+	"id": "wgnr-pi",
+	"name": "wgnr-pi",
+	"url": "https://www.npmjs.com/package/wgnr-pi",
+	"source": "npm-search",
+	"description": "A feature-rich web UI for Pi Coding Agent — by wgnr.ai",
+	"metadata": {
+		"github_url": "https://github.com/wgnr-ai/wgnr-pi",
+		"npm_name": "wgnr-pi",
+		"description": "A feature-rich web UI for Pi Coding Agent — by wgnr.ai",
+		"keywords": ["pi", "pi-coding-agent", "coding-agent", "web-ui", "chat", "ai", "kelle-ai", "wgnr-ai"],
+		"version": "1.5.2",
+		"discovery_hint": "npm:keywords:pi-coding-agent",
+		"stars": 15,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "HTML",
+		"license": "MIT",
+		"last_commit": "2026-04-22T06:04:06Z",
+		"topics": ["agents", "ai", "ai-agents", "chatbot", "coding-agent", "developer-tools", "kelle-ai", "llm", "pi", "pi-coding-agent", "pwa", "web-ui", "wgnr-ai"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://wgnr.co",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "provider"
+}

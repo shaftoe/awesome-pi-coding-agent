@@ -1,0 +1,36 @@
+{
+	"id": "@theia/cpp",
+	"name": "@theia/cpp",
+	"url": "https://www.npmjs.com/package/@theia/cpp",
+	"source": "npm-search",
+	"description": "Theia - Cpp Extension",
+	"metadata": {
+		"github_url": "https://github.com/eclipse-theia/theia",
+		"npm_name": "@theia/cpp",
+		"description": "Theia - Cpp Extension",
+		"keywords": ["theia-extension"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 21474,
+		"forks": 2815,
+		"open_issues": 1472,
+		"language": "TypeScript",
+		"license": "EPL-2.0",
+		"last_commit": "2026-04-24T08:18:52Z",
+		"topics": ["cloud-ide", "editor", "electron", "ide", "language-server-protocol", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "http://theia-ide.org",
+		"_readme_category_scores": {
+			"extension": 12,
+			"tool": 37,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

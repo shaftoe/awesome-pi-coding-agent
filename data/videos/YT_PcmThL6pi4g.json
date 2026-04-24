@@ -1,0 +1,24 @@
+{
+	"id": "YT_PcmThL6pi4g",
+	"name": "Music Coding With Sonic Pi - Online Workshops",
+	"url": "https://www.youtube.com/watch?v=PcmThL6pi4g",
+	"source": "youtube-search",
+	"description": "To register: event.hisarcs.com.",
+	"metadata": {
+		"title": "Music Coding With Sonic Pi - Online Workshops",
+		"description": "To register: event.hisarcs.com.",
+		"channel": "Yagmur Aytemiz",
+		"published_at": "2020-05-17T19:39:13Z",
+		"thumbnail": "https://i.ytimg.com/vi/PcmThL6pi4g/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 98,
+		"like_count": 14,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

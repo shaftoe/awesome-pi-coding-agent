@@ -1,0 +1,24 @@
+{
+	"id": "YT__sYAbswxAMM",
+	"name": "Sonic Pi - Code Your Own Song Tutorial (2/3)",
+	"url": "https://www.youtube.com/watch?v=_sYAbswxAMM",
+	"source": "youtube-search",
+	"description": "Learn how to code your own song in Sonic Pi. This track will have 3 layers - piano, bass and drums. This tutorial focuses on ...",
+	"metadata": {
+		"title": "Sonic Pi - Code Your Own Song Tutorial (2/3)",
+		"description": "Learn how to code your own song in Sonic Pi. This track will have 3 layers - piano, bass and drums. This tutorial focuses on ...",
+		"channel": "Geek Tutorials",
+		"published_at": "2018-08-27T22:55:31Z",
+		"thumbnail": "https://i.ytimg.com/vi/_sYAbswxAMM/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 6436,
+		"like_count": 77,
+		"comment_count": 6
+	},
+	"health": {
+		"score": 44,
+		"level": "maintained"
+	},
+	"category": "video"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "pi-code-rollback",
+	"name": "pi-code-rollback",
+	"url": "https://www.npmjs.com/package/pi-code-rollback",
+	"source": "npm-search",
+	"description": "Claude Code-style restore for pi with automatic git-backed code snapshots and restore mode selection",
+	"metadata": {
+		"github_url": "https://github.com/sudodaksh/pi-code-rollback",
+		"npm_name": "pi-code-rollback",
+		"description": "Claude Code-style restore for pi with automatic git-backed code snapshots and restore mode selection",
+		"keywords": ["pi-package", "pi-extension", "rollback", "restore", "git"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T08:49:14Z",
+		"topics": ["ai", "claude", "claudecode", "coding-agent", "extension", "llm", "pi", "pi-exten", "pi-pack", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://npmjs.com/package/pi-code-rollback",
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

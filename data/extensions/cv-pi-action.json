@@ -6,7 +6,7 @@
 	"description": "GitHub Action to invoke the PI coding agent on issues and PRs via comment triggers",
 	"metadata": {
 		"description": "GitHub Action to invoke the PI coding agent on issues and PRs via comment triggers",
-		"stars": 19,
+		"stars": 20,
 		"forks": 2,
 		"language": "TypeScript",
 		"topics": [],
@@ -18,7 +18,10 @@
 			"tool": 0,
 			"theme": 0,
 			"provider": 5
-		}
+		},
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-01-07T08:09:20Z"
 	},
 	"health": {
 		"score": 52,

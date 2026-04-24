@@ -1,0 +1,24 @@
+{
+	"id": "YT_U0iTxhDg2jQ",
+	"name": "Screen translator  -  Offline",
+	"url": "https://www.youtube.com/watch?v=U0iTxhDg2jQ",
+	"source": "youtube-search",
+	"description": "Screen Translator - Translate text anytime and anywhere, support 89+ languages Translate On Screen (Screen Translate) ...",
+	"metadata": {
+		"title": "Screen translator  -  Offline",
+		"description": "Screen Translator - Translate text anytime and anywhere, support 89+ languages Translate On Screen (Screen Translate) ...",
+		"channel": "Pi Dev",
+		"published_at": "2022-11-24T15:30:12Z",
+		"thumbnail": "https://i.ytimg.com/vi/U0iTxhDg2jQ/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 51122,
+		"like_count": 676,
+		"comment_count": 11
+	},
+	"health": {
+		"score": 55,
+		"level": "maintained"
+	},
+	"category": "video"
+}

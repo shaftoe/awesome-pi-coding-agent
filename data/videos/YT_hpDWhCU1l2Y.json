@@ -1,0 +1,24 @@
+{
+	"id": "YT_hpDWhCU1l2Y",
+	"name": "Sonic Pi Sound Design - Rhodes Piano",
+	"url": "https://www.youtube.com/watch?v=hpDWhCU1l2Y",
+	"source": "youtube-search",
+	"description": "A Rhodes preset for Sonic Pi. ==================== Subscribe for more fun with Sonic Pi! If you liked this video, please share ...",
+	"metadata": {
+		"title": "Sonic Pi Sound Design - Rhodes Piano",
+		"description": "A Rhodes preset for Sonic Pi. ==================== Subscribe for more fun with Sonic Pi! If you liked this video, please share ...",
+		"channel": "Davids Music Lab",
+		"published_at": "2018-05-02T11:30:57Z",
+		"thumbnail": "https://i.ytimg.com/vi/hpDWhCU1l2Y/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 668,
+		"like_count": 14,
+		"comment_count": 1
+	},
+	"health": {
+		"score": 32,
+		"level": "stale"
+	},
+	"category": "video"
+}

@@ -1,0 +1,24 @@
+{
+	"id": "YT_T9qZy0vqMPw",
+	"name": "Context Bonsai: plugin development",
+	"url": "https://www.youtube.com/watch?v=T9qZy0vqMPw",
+	"source": "youtube-search",
+	"description": "We've created the plan for the context bonsai plugin. Now we will begin implementation using the developer-reviewer-judge loop.",
+	"metadata": {
+		"title": "Context Bonsai: plugin development",
+		"description": "We've created the plan for the context bonsai plugin. Now we will begin implementation using the developer-reviewer-judge loop.",
+		"channel": "Vibecodelicious",
+		"published_at": "2026-02-25T08:05:42Z",
+		"thumbnail": "https://i.ytimg.com/vi/T9qZy0vqMPw/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding agent\"",
+		"_readme_category_scores": {},
+		"view_count": 2,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 65,
+		"level": "maintained"
+	},
+	"category": "video"
+}

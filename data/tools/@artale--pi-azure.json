@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-azure",
+	"name": "@artale/pi-azure",
+	"url": "https://www.npmjs.com/package/@artale/pi-azure",
+	"source": "npm-search",
+	"description": "Azure utilities",
+	"metadata": {
+		"github_url": "https://github.com/artale93/pi-azure",
+		"npm_name": "@artale/pi-azure",
+		"description": "Azure utilities",
+		"keywords": ["pi-package"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

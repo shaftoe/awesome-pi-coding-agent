@@ -1,0 +1,36 @@
+{
+	"id": "waypath",
+	"name": "waypath",
+	"url": "https://www.npmjs.com/package/waypath",
+	"source": "npm-search",
+	"description": "Local-first external brain CLI for coding agents — SQLite-backed context, graph-aware recall, and governed memory for Claude Code, Codex, and MCP clients.",
+	"metadata": {
+		"github_url": "https://github.com/TheStack-ai/waypath",
+		"npm_name": "waypath",
+		"description": "Local-first external brain CLI for coding agents — SQLite-backed context, graph-aware recall, and governed memory for Claude Code, Codex, and MCP clients.",
+		"keywords": ["waypath", "cli", "local-first", "sqlite", "memory", "context", "rag", "knowledge-graph", "ontology", "claude-code", "codex", "coding-agents", "mcp", "mcp-server", "typescript", "retrieval", "fts5", "external-brain", "session-memory", "developer-tools"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 7,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-17T06:16:14Z",
+		"topics": ["claude-code", "cli", "codex", "coding-agents", "context", "developer-tools", "external-brain", "fts5", "knowledge-graph", "local-first", "mcp", "mcp-server", "memory", "ontology", "rag", "retrieval", "session-memory", "sqlite", "typescript", "waypath"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/waypath",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 7,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

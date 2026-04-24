@@ -1,0 +1,24 @@
+{
+	"id": "YT_NK8EGqPVsAE",
+	"name": "Easy light control using fingers by Raspberry Pi",
+	"url": "https://www.youtube.com/watch?v=NK8EGqPVsAE",
+	"source": "youtube-search",
+	"description": "",
+	"metadata": {
+		"title": "Easy light control using fingers by Raspberry Pi",
+		"description": "",
+		"channel": "Thieu Long",
+		"published_at": "2022-05-26T04:08:14Z",
+		"thumbnail": "https://i.ytimg.com/vi/NK8EGqPVsAE/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 1399,
+		"like_count": 0,
+		"comment_count": 1
+	},
+	"health": {
+		"score": 33,
+		"level": "stale"
+	},
+	"category": "video"
+}

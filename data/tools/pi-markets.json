@@ -10,11 +10,21 @@
 		"description": "Package to work with PiMarkets",
 		"keywords": ["pimarkets"],
 		"version": "1.0.148",
-		"_readme_category_scores": {}
+		"_readme_category_scores": {},
+		"stars": 1,
+		"forks": 2,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2022-02-09T18:38:10Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null
 	},
 	"health": {
-		"score": 50,
-		"level": "maintained"
+		"score": 30,
+		"level": "stale"
 	},
 	"category": "tool"
 }

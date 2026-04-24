@@ -1,0 +1,21 @@
+{
+	"id": "@jasonish/pi-default-model",
+	"name": "@jasonish/pi-default-model",
+	"url": "https://www.npmjs.com/package/@jasonish/pi-default-model",
+	"source": "npm-search",
+	"description": "Set a **real** default model",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@jasonish/pi-default-model",
+		"description": "Set a **real** default model",
+		"keywords": ["pi-package"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

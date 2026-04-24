@@ -1,0 +1,36 @@
+{
+	"id": "@backstage-community/plugin-bazaar",
+	"name": "@backstage-community/plugin-bazaar",
+	"url": "https://www.npmjs.com/package/@backstage-community/plugin-bazaar",
+	"source": "npm-search",
+	"description": "Community plugins for Backstage",
+	"metadata": {
+		"github_url": "https://github.com/backstage/community-plugins",
+		"npm_name": "@backstage-community/plugin-bazaar",
+		"description": "",
+		"keywords": [],
+		"version": "0.21.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 371,
+		"forks": 614,
+		"open_issues": 344,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-24T07:57:05Z",
+		"topics": ["backstage", "cncf", "developer-experience", "developer-portal", "hacktoberfest", "infrastructure", "microservices"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

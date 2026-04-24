@@ -1,0 +1,24 @@
+{
+	"id": "YT_K820lSAVWoI",
+	"name": "How to Configure Email Alarm Notification settings for Foglight Cartridge for SQL Server Instances",
+	"url": "https://www.youtube.com/watch?v=K820lSAVWoI",
+	"source": "youtube-search",
+	"description": "http://software.dell.com/products/foglight-for-sql-server/",
+	"metadata": {
+		"title": "How to Configure Email Alarm Notification settings for Foglight Cartridge for SQL Server Instances",
+		"description": "http://software.dell.com/products/foglight-for-sql-server/",
+		"channel": "Quest Technical Support",
+		"published_at": "2017-06-09T17:27:30Z",
+		"thumbnail": "https://i.ytimg.com/vi/K820lSAVWoI/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi extension\" -raspberry -vscode",
+		"_readme_category_scores": {},
+		"view_count": 101,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

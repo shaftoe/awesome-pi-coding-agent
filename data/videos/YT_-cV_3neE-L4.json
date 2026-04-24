@@ -1,0 +1,24 @@
+{
+	"id": "YT_-cV_3neE-L4",
+	"name": "Tutorial for blinking multiple LEDs in different patterns with raspberry pi.",
+	"url": "https://www.youtube.com/watch?v=-cV_3neE-L4",
+	"source": "youtube-search",
+	"description": "",
+	"metadata": {
+		"title": "Tutorial for blinking multiple LEDs in different patterns with raspberry pi.",
+		"description": "",
+		"channel": "Mohiyuddin Khatri",
+		"published_at": "2021-12-09T03:23:08Z",
+		"thumbnail": "https://i.ytimg.com/vi/-cV_3neE-L4/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 210,
+		"like_count": 3,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

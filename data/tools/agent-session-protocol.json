@@ -1,0 +1,36 @@
+{
+	"id": "agent-session-protocol",
+	"name": "agent-session-protocol",
+	"url": "https://www.npmjs.com/package/agent-session-protocol",
+	"source": "npm-search",
+	"description": "Normalized format for agent coding sessions — and a reference CLI (`capi`) for sharing / resuming / tracking sessions across machines and agents (Claude Code, Codex).",
+	"metadata": {
+		"github_url": "https://github.com/kevin-dp/agent-session-protocol",
+		"npm_name": "agent-session-protocol",
+		"description": "Normalized format for agent coding sessions — and a reference CLI (`capi`) for sharing / resuming / tracking sessions across machines and agents (Claude Code, Codex).",
+		"keywords": ["agent", "session", "protocol", "claude", "codex", "normalize", "capi", "share"],
+		"version": "0.0.2",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-23T16:27:34Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 9,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

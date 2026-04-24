@@ -1,0 +1,36 @@
+{
+	"id": "@usememra/pi-extension",
+	"name": "@usememra/pi-extension",
+	"url": "https://www.npmjs.com/package/@usememra/pi-extension",
+	"source": "npm-search",
+	"description": "Persistent memory for pi coding agent. Hybrid cloud + local backend (Memra).",
+	"metadata": {
+		"github_url": "https://github.com/usememra/pi-extension",
+		"npm_name": "@usememra/pi-extension",
+		"description": "Persistent memory for pi coding agent. Hybrid cloud + local backend (Memra).",
+		"keywords": ["pi", "pi-mono", "memra", "memory", "llm", "agent", "coding-agent", "extension", "pi-package"],
+		"version": "0.3.2",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T21:33:24Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 10,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

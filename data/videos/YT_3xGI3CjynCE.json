@@ -1,0 +1,24 @@
+{
+	"id": "YT_3xGI3CjynCE",
+	"name": "Foglight 5.9.1 - Upgrade demo",
+	"url": "https://www.youtube.com/watch?v=3xGI3CjynCE",
+	"source": "youtube-search",
+	"description": "FMS Upgrade to version 5.9.1.",
+	"metadata": {
+		"title": "Foglight 5.9.1 - Upgrade demo",
+		"description": "FMS Upgrade to version 5.9.1.",
+		"channel": "Quest Technical Support",
+		"published_at": "2017-10-10T16:22:52Z",
+		"thumbnail": "https://i.ytimg.com/vi/3xGI3CjynCE/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi extension\" -raspberry -vscode",
+		"_readme_category_scores": {},
+		"view_count": 355,
+		"like_count": 2,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 31,
+		"level": "stale"
+	},
+	"category": "video"
+}

@@ -1,0 +1,24 @@
+{
+	"id": "YT_wT3JPkuNmhA",
+	"name": "Parallel Paths - Sonic Pi live coding session",
+	"url": "https://www.youtube.com/watch?v=wT3JPkuNmhA",
+	"source": "youtube-search",
+	"description": "Live Coding session from 18.07.2017 Checkout the complete playlist: ...",
+	"metadata": {
+		"title": "Parallel Paths - Sonic Pi live coding session",
+		"description": "Live Coding session from 18.07.2017 Checkout the complete playlist: ...",
+		"channel": "Davids Music Lab",
+		"published_at": "2017-07-19T06:00:01Z",
+		"thumbnail": "https://i.ytimg.com/vi/wT3JPkuNmhA/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 142,
+		"like_count": 5,
+		"comment_count": 5
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

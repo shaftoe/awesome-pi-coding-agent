@@ -1,0 +1,36 @@
+{
+	"id": "@ruizrica/agent-pi",
+	"name": "@ruizrica/agent-pi",
+	"url": "https://www.npmjs.com/package/@ruizrica/agent-pi",
+	"source": "npm-search",
+	"description": "Multi-agent orchestration suite for Pi — 6 modes, 43 extensions, 11 themes",
+	"metadata": {
+		"github_url": "https://github.com/ruizrica/agent-pi",
+		"npm_name": "@ruizrica/agent-pi",
+		"description": "Multi-agent orchestration suite for Pi — 6 modes, 43 extensions, 11 themes",
+		"keywords": ["pi-package", "pi", "pi-mono", "agent", "orchestration", "multi-agent", "coding-agent", "tui"],
+		"version": "2.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 86,
+		"forks": 19,
+		"open_issues": 4,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T16:34:32Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 22,
+			"tool": 1,
+			"theme": 14,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 79,
+		"level": "active"
+	},
+	"category": "theme"
+}

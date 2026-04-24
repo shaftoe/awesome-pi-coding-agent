@@ -1,0 +1,24 @@
+{
+	"id": "YT_8tDtgF3y2Mw",
+	"name": "3. Shaman Extension III - Marla Project",
+	"url": "https://www.youtube.com/watch?v=8tDtgF3y2Mw",
+	"source": "youtube-search",
+	"description": "Song: Shaman Extension Artist: Marla Project Album: Extension III.",
+	"metadata": {
+		"title": "3. Shaman Extension III - Marla Project",
+		"description": "Song: Shaman Extension Artist: Marla Project Album: Extension III.",
+		"channel": "Mener M. Ramírez",
+		"published_at": "2019-12-22T03:00:11Z",
+		"thumbnail": "https://i.ytimg.com/vi/8tDtgF3y2Mw/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi extension\" -raspberry -vscode",
+		"_readme_category_scores": {},
+		"view_count": 116,
+		"like_count": 9,
+		"comment_count": 2
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

@@ -1,0 +1,21 @@
+{
+	"id": "@samfp/pi-telegram-bot",
+	"name": "@samfp/pi-telegram-bot",
+	"url": "https://www.npmjs.com/package/@samfp/pi-telegram-bot",
+	"source": "npm-search",
+	"description": "Telegram bot exposing pi as a conversational coding agent. Chat with pi in Telegram with streaming responses, tool execution, threaded sessions, and model switching.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@samfp/pi-telegram-bot",
+		"description": "Telegram bot exposing pi as a conversational coding agent. Chat with pi in Telegram with streaming responses, tool execution, threaded sessions, and model switching.",
+		"keywords": ["pi-package", "app"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

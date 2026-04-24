@@ -1,0 +1,36 @@
+{
+	"id": "@openpact/skill",
+	"name": "@openpact/skill",
+	"url": "https://www.npmjs.com/package/@openpact/skill",
+	"source": "npm-search",
+	"description": "Portable agent skill for the OpenPact daemon (SKILL.md + machine-readable tools.json)",
+	"metadata": {
+		"github_url": "https://github.com/openpact-dev/openpact",
+		"npm_name": "@openpact/skill",
+		"description": "Portable agent skill for the OpenPact daemon (SKILL.md + machine-readable tools.json)",
+		"keywords": [],
+		"version": "0.1.4",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-23T17:08:02Z",
+		"topics": ["agentic-ai", "agents", "ai", "ai-agents", "p2p"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://openpact.dev",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 31,
+			"theme": 1,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

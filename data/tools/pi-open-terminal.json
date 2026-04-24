@@ -1,0 +1,21 @@
+{
+	"id": "pi-open-terminal",
+	"name": "pi-open-terminal",
+	"url": "https://www.npmjs.com/package/pi-open-terminal",
+	"source": "npm-search",
+	"description": "Run pi remotely via Open Terminal - receive commands from remote connections with configurable port, API key, and auto-start support",
+	"metadata": {
+		"github_url": "https://github.com/pi-community/pi-open-terminal",
+		"npm_name": "pi-open-terminal",
+		"description": "Run pi remotely via Open Terminal - receive commands from remote connections with configurable port, API key, and auto-start support",
+		"keywords": ["pi", "pi-coding-agent", "pi-extension", "open-terminal", "remote", "api", "server", "terminal", "bare-metal"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-extension",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,21 @@
+{
+	"id": "pi-flow-enforcer",
+	"name": "pi-flow-enforcer",
+	"url": "https://www.npmjs.com/package/pi-flow-enforcer",
+	"source": "npm-search",
+	"description": "Enforces a strict workflow in pi.dev sessions:",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-flow-enforcer",
+		"description": "Enforces a strict workflow in pi.dev sessions:",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

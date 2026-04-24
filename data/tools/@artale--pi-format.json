@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-format",
+	"name": "@artale/pi-format",
+	"url": "https://www.npmjs.com/package/@artale/pi-format",
+	"source": "npm-search",
+	"description": "Code formatting",
+	"metadata": {
+		"github_url": "https://github.com/artale93/pi-format",
+		"npm_name": "@artale/pi-format",
+		"description": "Code formatting",
+		"keywords": ["pi-package"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

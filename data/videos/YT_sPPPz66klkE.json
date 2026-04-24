@@ -1,0 +1,24 @@
+{
+	"id": "YT_sPPPz66klkE",
+	"name": "Jazz Theory ii, V, I",
+	"url": "https://www.youtube.com/watch?v=sPPPz66klkE",
+	"source": "youtube-search",
+	"description": "Live Coding Performance using Sonic Pi.",
+	"metadata": {
+		"title": "Jazz Theory ii, V, I",
+		"description": "Live Coding Performance using Sonic Pi.",
+		"channel": "Granddad GotMojo",
+		"published_at": "2017-11-03T19:11:07Z",
+		"thumbnail": "https://i.ytimg.com/vi/sPPPz66klkE/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 693,
+		"like_count": 21,
+		"comment_count": 1
+	},
+	"health": {
+		"score": 32,
+		"level": "stale"
+	},
+	"category": "video"
+}

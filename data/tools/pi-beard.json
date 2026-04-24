@@ -15,11 +15,21 @@
 			"tool": 4,
 			"theme": 1,
 			"provider": 0
-		}
+		},
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2015-05-14T17:27:59Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null
 	},
 	"health": {
-		"score": 50,
-		"level": "maintained"
+		"score": 30,
+		"level": "stale"
 	},
 	"category": "tool"
 }

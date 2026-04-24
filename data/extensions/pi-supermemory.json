@@ -1,0 +1,21 @@
+{
+	"id": "pi-supermemory",
+	"name": "pi-supermemory",
+	"url": "https://www.npmjs.com/package/pi-supermemory",
+	"source": "npm-search",
+	"description": "Persistent memory extension for Pi coding agent - remember context across sessions using SuperMemory",
+	"metadata": {
+		"github_url": "https://github.com/dan/pi-supermemory",
+		"npm_name": "pi-supermemory",
+		"description": "Persistent memory extension for Pi coding agent - remember context across sessions using SuperMemory",
+		"keywords": ["pi", "pi-coding-agent", "extension", "memory", "persistent-memory", "supermemory", "context", "ai", "agent"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-coding-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

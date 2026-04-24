@@ -1,0 +1,24 @@
+{
+	"id": "YT_67RDDCeP_JA",
+	"name": "Unfaithful - Rihanna Reggae Instrumental Coded with Sonic Pi",
+	"url": "https://www.youtube.com/watch?v=67RDDCeP_JA",
+	"source": "youtube-search",
+	"description": "A coded reggae instrumental cover of Unfaithful (Rihanna). Coded with Sonic Pi.",
+	"metadata": {
+		"title": "Unfaithful - Rihanna Reggae Instrumental Coded with Sonic Pi",
+		"description": "A coded reggae instrumental cover of Unfaithful (Rihanna). Coded with Sonic Pi.",
+		"channel": "Evans Augustt",
+		"published_at": "2018-12-24T13:44:20Z",
+		"thumbnail": "https://i.ytimg.com/vi/67RDDCeP_JA/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding\" tutorial",
+		"_readme_category_scores": {},
+		"view_count": 345,
+		"like_count": 12,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 31,
+		"level": "stale"
+	},
+	"category": "video"
+}

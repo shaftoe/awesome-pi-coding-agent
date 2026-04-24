@@ -1,0 +1,24 @@
+{
+	"id": "YT_ZTPrHZg0uhc",
+	"name": "Foglight - Configuring Performance Counters in the SQL Server agent",
+	"url": "https://www.youtube.com/watch?v=ZTPrHZg0uhc",
+	"source": "youtube-search",
+	"description": "Database Monitoring | Foglight for Cross-Platform Databases ...",
+	"metadata": {
+		"title": "Foglight - Configuring Performance Counters in the SQL Server agent",
+		"description": "Database Monitoring | Foglight for Cross-Platform Databases ...",
+		"channel": "John Sakalauskas",
+		"published_at": "2018-11-26T19:23:55Z",
+		"thumbnail": "https://i.ytimg.com/vi/ZTPrHZg0uhc/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi extension\" -raspberry -vscode",
+		"_readme_category_scores": {},
+		"view_count": 26,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "video"
+}

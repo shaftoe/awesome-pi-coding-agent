@@ -1,0 +1,21 @@
+{
+	"id": "pi-simple-memory",
+	"name": "pi-simple-memory",
+	"url": "https://www.npmjs.com/package/pi-simple-memory",
+	"source": "npm-search",
+	"description": "Simple persistent file-based memory for pi agents.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-simple-memory",
+		"description": "Simple persistent file-based memory for pi agents.",
+		"keywords": ["pi-package", "pi", "memory"],
+		"version": "0.3.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

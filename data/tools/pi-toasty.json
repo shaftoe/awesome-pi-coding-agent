@@ -1,0 +1,21 @@
+{
+	"id": "pi-toasty",
+	"name": "pi-toasty",
+	"url": "https://www.npmjs.com/package/pi-toasty",
+	"source": "npm-search",
+	"description": "Pi package that shows desktop toast notifications when pi is ready for input.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-toasty",
+		"description": "Pi package that shows desktop toast notifications when pi is ready for input.",
+		"keywords": ["pi-package", "pi-extension", "toasty", "toast", "notifications", "desktop-notifications"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

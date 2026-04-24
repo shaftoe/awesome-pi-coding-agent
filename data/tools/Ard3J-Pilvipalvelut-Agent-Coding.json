@@ -1,0 +1,32 @@
+{
+	"id": "Ard3J-Pilvipalvelut-Agent-Coding",
+	"name": "Ard3J-Pilvipalvelut-Agent-Coding",
+	"url": "https://github.com/Ard3J/Pilvipalvelut-Agent-Coding",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 0,
+		"forks": 0,
+		"language": "JavaScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-24T03:23:55Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

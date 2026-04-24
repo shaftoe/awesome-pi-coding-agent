@@ -1,0 +1,24 @@
+{
+	"id": "YT_ghr4vvhKQy4",
+	"name": "I made this cool retro computer \"terminal\" with a Raspberry Pi 4",
+	"url": "https://www.youtube.com/watch?v=ghr4vvhKQy4",
+	"source": "youtube-search",
+	"description": "First of all shout out to Audionautix for the background music. This is a retro computer terminal I made from an Ikea armoire that ...",
+	"metadata": {
+		"title": "I made this cool retro computer \"terminal\" with a Raspberry Pi 4",
+		"description": "First of all shout out to Audionautix for the background music. This is a retro computer terminal I made from an Ikea armoire that ...",
+		"channel": "Moose",
+		"published_at": "2021-10-15T19:52:44Z",
+		"thumbnail": "https://i.ytimg.com/vi/ghr4vvhKQy4/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 6671,
+		"like_count": 206,
+		"comment_count": 18
+	},
+	"health": {
+		"score": 47,
+		"level": "maintained"
+	},
+	"category": "video"
+}

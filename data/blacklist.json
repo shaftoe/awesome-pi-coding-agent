@@ -54793,7 +54793,7 @@
 	},
 	{
 		"url": "https://www.npmjs.com/package/@tloncorp/tlon-skill",
-		"reason": "Tlon/Urbit skill for OpenClaw \u2014 borderline but Tlon/Urbit is a separate platform"
+		"reason": "Tlon/Urbit skill for OpenClaw — borderline but Tlon/Urbit is a separate platform"
 	},
 	{
 		"url": "https://www.npmjs.com/package/@tomtom-org/maps-sdk",
@@ -54929,7 +54929,7 @@
 	},
 	{
 		"url": "https://www.npmjs.com/package/yingmi-skill-cli",
-		"reason": "\u76c8\u7c73 MCP skill CLI, not Pi coding agent"
+		"reason": "盈米 MCP skill CLI, not Pi coding agent"
 	},
 	{
 		"url": "https://www.npmjs.com/package/@hoophq/hoop-skills",
@@ -55014,5 +55014,2401 @@
 	{
 		"url": "https://www.npmjs.com/package/graphify-pi",
 		"reason": "False positive: not Pi coding agent related"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@aws-sdk/util-user-agent-node",
+		"reason": "blocked scope: @aws-sdk"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@volh/pi-network-monitor",
+		"reason": "pi network crypto signal: \"pi-network\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@aws-sdk/middleware-user-agent",
+		"reason": "blocked scope: @aws-sdk"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/constants-float64-pi",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@aws-sdk/util-user-agent-browser",
+		"reason": "blocked scope: @aws-sdk"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/constants-float64-two-pi",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/constants-float64-sqrt-two-pi",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@aws-sdk/client-pi",
+		"reason": "blocked scope: @aws-sdk"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/constants-float64-ln-sqrt-two-pi",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/constants-float64-half-pi",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/constants-float64-fourth-pi",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/storybook-builder-rsbuild",
+		"reason": "blocked name: storybook-builder-rsbuild"
+	},
+	{
+		"url": "https://www.npmjs.com/package/http-cookie-agent",
+		"reason": "blocked name: http-cookie-agent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/glsl-token-defines",
+		"reason": "blocked name: glsl-token-defines"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@aws-sdk/client-bedrock-agent-runtime",
+		"reason": "blocked scope: @aws-sdk"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@elastic/apm-rum",
+		"reason": "blocked scope: @elastic"
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-fetch-native",
+		"reason": "blocked name: node-fetch-native"
+	},
+	{
+		"url": "https://www.npmjs.com/package/useragent",
+		"reason": "blocked name: useragent"
+	},
+	{
+		"url": "https://www.npmjs.com/package/detect-rpi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@octokit/request",
+		"reason": "blocked scope: @octokit"
+	},
+	{
+		"url": "https://www.npmjs.com/package/docker-modem",
+		"reason": "blocked name: docker-modem"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@aws-sdk/client-bedrock-agent",
+		"reason": "blocked scope: @aws-sdk"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@elastic/apm-rum-core",
+		"reason": "blocked scope: @elastic"
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-raspberrypi-usbboot",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/appdynamics",
+		"reason": "blocked name: appdynamics"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@elastic/apm-rum-angular",
+		"reason": "blocked scope: @elastic"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@elastic/apm-rum-react",
+		"reason": "blocked scope: @elastic"
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-dht-sensor",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/math-base-special-sinpi",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/constants-float64-ln-two-pi",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/indyiq-pi-mcp",
+		"reason": "industrial pi signal: \"osisoft\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@blackbelt-technology/pi-model-proxy",
+		"reason": "industrial pi signal: \"pi server\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/rp2040js",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@gugu910/pi-slack-bridge",
+		"reason": "pi network crypto signal: \"pinet\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/freeturtle",
+		"reason": "blocked name: freeturtle"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@aws-sdk/client-application-discovery-service",
+		"reason": "blocked scope: @aws-sdk"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@raspberrypifoundation/rpf-global-nav",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@elastic/apm-rum-vue",
+		"reason": "blocked scope: @elastic"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@runfusion/fusion",
+		"reason": "industrial pi signal: \"pi server\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/math-base-special-acos",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@elastic/synthetics",
+		"reason": "blocked scope: @elastic"
+	},
+	{
+		"url": "https://www.npmjs.com/package/rpio",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@elastic/ecs-helpers",
+		"reason": "blocked scope: @elastic"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-camera-connect",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/rpi-gpio",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/piinfo",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/homebridge-rpi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/constants-float64-ln-pi",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pigpio",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/homebridge-gpio-motorized-gate",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/constants-float32-pi",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-red-node-pi-gpiod",
+		"reason": "raspberry pi signal: \"pigpio\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-temperature",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/constants-float64-sqrt-pi",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/constants-float64-pi-squared",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@treehouses/cli",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/homebridge-gpio-electric-rim-lock",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/constants-float32-half-pi",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/raspi-board",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/constants-float32-two-pi",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@bankofbots/skill",
+		"reason": "blocked scope: @bankofbots"
+	},
+	{
+		"url": "https://www.npmjs.com/package/wiring-pi",
+		"reason": "raspberry pi signal: \"wiringpi\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/homebridge-garage-door-wsensor-pi5-and-before",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@aws-sdk/client-devops-agent",
+		"reason": "blocked scope: @aws-sdk"
+	},
+	{
+		"url": "https://www.npmjs.com/package/homebridge-enviroplus",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/rpi-ws281x-native",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/raspi-io",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-spi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/constants-float32-fourth-pi",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/adafruit-pi-finder",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/xcarve-server",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-io",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/constants-float64-sqrt-half-pi",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/signalk-raspberry-pi-rockblock9603",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/my_lcd",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/array-gpio",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/raspi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@aws-sdk/client-appintegrations",
+		"reason": "blocked scope: @aws-sdk"
+	},
+	{
+		"url": "https://www.npmjs.com/package/gpio",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/mfrc522-rpi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-arest",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/rpi-io",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-camera",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/zing-relay",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/raspi-serial",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pirateship/cli",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@elastic/opamp-client-node",
+		"reason": "blocked scope: @elastic"
+	},
+	{
+		"url": "https://www.npmjs.com/package/robot-control",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/constants-float32-pi-squared",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/micromark",
+		"reason": "blocked name: micromark"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@statoscope/stats-extension-stats-validation-result",
+		"reason": "blocked scope: @statoscope"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@statoscope/stats-extension-package-info",
+		"reason": "blocked scope: @statoscope"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@statoscope/stats-extension-compressed",
+		"reason": "blocked scope: @statoscope"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@statoscope/webpack-stats-extension-package-info",
+		"reason": "blocked scope: @statoscope"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@statoscope/webpack-stats-extension-compressed",
+		"reason": "blocked scope: @statoscope"
+	},
+	{
+		"url": "https://www.npmjs.com/package/tempy",
+		"reason": "blocked name: tempy"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@statoscope/stats-extension-custom-reports",
+		"reason": "blocked scope: @statoscope"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@brdk/node-red-picamera2",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/signalk-rpi-monitor",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-gpio",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/rpi-softspi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/rpi-433",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/cylon-raspi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pinetwork/pi-sdk-js",
+		"reason": "pi network crypto signal: \"pinet\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/signalk-raspberry-pi-light-characteristic",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@bratbit/onoff",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/johnny-five",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/hzeller-matrix",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/wiring-op",
+		"reason": "raspberry pi signal: \"wiringpi\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@spotify/backstage-plugin-skill-exchange-backend",
+		"reason": "blocked scope: @spotify"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@spotify/backstage-plugin-search-backend-module-skill-exchange",
+		"reason": "blocked scope: @spotify"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@spotify/backstage-plugin-skill-exchange-node",
+		"reason": "blocked scope: @spotify"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@spotify/backstage-plugin-skill-exchange",
+		"reason": "blocked scope: @spotify"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/spruce-skill-booter",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@spotify/backstage-plugin-skill-exchange-common",
+		"reason": "blocked scope: @spotify"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@spotify/backstage-plugin-skill-exchange-backend-module-actions",
+		"reason": "blocked scope: @spotify"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/spruce-invite-utils",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/spruce-appointment-utils",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/spruce-skill-utils",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web-debug",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/spruce-skill-server",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/spruce-calendar-components",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-chatbot",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-twilio",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/spruce-reminders-utils",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/spruce-people-utils",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-openai",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-temporal",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web-notification",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-pushbullet",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web-chatbot",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/spruce-organization-utils",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/engine",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-keycloak",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-service",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-smoobu",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-microsoft",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-debug",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/spruce-image-utils",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web-material-icons",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/spruce-location-utils",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-dsp",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web-pdf",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-logger",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-cron",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-nuki",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-imap",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-llm",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web-push-notification",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-canvas",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-oauth2",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-s3",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/spruce-profile-utils",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-factory",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web-editor",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/mercury-utils",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web-inputs",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-mongodb",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-ollama",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-yaml",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web-font-awesome",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-webcam",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-markitdown",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-editor",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-docxtemplater",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-push-notification",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-linkedin",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-common",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-http",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-git",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-qrcode",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web-spectrum",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web-ionic",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web-jsoneditor",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-mybuddy",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web-heygen",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-pdf2pic",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-process",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-basic",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-sendmail",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web-interact",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-client-mcp",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-heygen",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-pdf",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web-ocr",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-worker",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-sse",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-mcp",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web-voice-activity-detection",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-exif",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-html",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-client-sse",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-codex",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-markdown-manager",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-web-keycloak",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-vespa",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-marked",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-tool",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-client-websocket",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-kafka",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-sharp",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/spruce-skill",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-pronote",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-serialport",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-tensorflow",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/spruce-heartwood-utils",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-rabbitmq",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/chroma-data-store",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/sprucebot-llm",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@spotify/backstage-plugin-skill-exchange-backend-module-gcp",
+		"reason": "blocked scope: @spotify"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@digipair/skill-yolo",
+		"reason": "blocked scope: @digipair"
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-red-contrib-camerapi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@raspberrypifoundation/design-system-core",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@caseywebb/growhaus",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-red-node-pi-unicorn-hat",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/heartwood-view-controllers",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/raspi-gpio",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-blaster.js",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/rpi-wifi-setup",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/easybotics-rpi-rgb-led-matrix",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-motion-detection",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/signalk-raspberry-pi-monitoring",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/brocoli-pi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-red-node-pi-neopixel",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/nexa",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@jms777/light-controller",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-wiring-pi",
+		"reason": "raspberry pi signal: \"wiringpi\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/rpi-temperature",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/raspi-i2c",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-red-node-pisrf",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/signalk-raspberry-pi-ina219",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/math-base-special-cospi",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-sync",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@nikx/dory-worker",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/caf_rpi_gpio",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-red-picubes",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-red-node-pi-sense-hat",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-pins",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@oehoe83/signalk-raspberry-pi-bme680",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/pimp-my-pi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/signalk-raspberry-pi-bme280",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/iobroker.wireless-settings",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/th-scan-hub-rpi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@raspberrypifoundation/design-system-react",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-red-contrib-grove-base-hat-bash",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/raspberry-pi-mjpeg-server",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/brainstud-adafruit-pi-finder",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-red-contrib-rpi-shutdown",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/razzmaster",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-pir-sensor",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/wiring-pi-billpeet",
+		"reason": "raspberry pi signal: \"wiringpi\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdlib/math-base-special-cosm1",
+		"reason": "blocked scope: @stdlib"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pigallery2",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-pifacedigital",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/signalk-raspberry-pi-4ch-ina219",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/hcp_iot_sensortag",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/balena-cloud-apps",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pcnate/raspberry-pi-camera",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-camera-native-ts",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/homebridge-somfi-blinds",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@dotpi/tools",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/gpio-pin",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@raspberrypifoundation/scratch-gui",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/ose-rpi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/power-meter-monitor",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-raspistill",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/raspberrypi-liquid-crystal",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pinetwork/pi-sdk-nextjs",
+		"reason": "pi network crypto signal: \"pi network\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@name-industry/ni-ina219",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@dnetherton/rpi-gpio",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/rpi-info",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/rpi-version",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-wifi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/node-red-node-pi-sense-hat-simulator",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/signalk-raspberry-pi-sx1262-rx",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/perf-gpio",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sprucelabs/spruce-test-fixtures",
+		"reason": "blocked scope: @sprucelabs"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@isimnz/gpiox",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/signalk-raspberry-pi-1wire",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/signalk-raspberry-pi-temperature",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/rc522",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/raspberry-pi-camera-native",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@gpatsiaouras/signalk-raspberry-pi-mcp9808",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/berry-frame",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ssweens/pi-dynamic-models",
+		"reason": "industrial pi signal: \"pi server\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-model-sysprompt-appendix",
+		"reason": "industrial pi signal: \"pi system\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-agui",
+		"reason": "pi network crypto signal: \"pi app\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/oh-my-pi-typescript",
+		"reason": "non-compatible fork signal: \"oh-my-pi\""
+	},
+	{
+		"url": "https://www.npmjs.com/package/oh-my-pi",
+		"reason": "non-compatible fork signal: \"oh-my-pi\""
+	},
+	{
+		"url": "https://github.com/Skate499/pi-lab",
+		"reason": "raspberry pi topic: \"raspberry-pi\""
+	},
+	{
+		"url": "https://github.com/yashlathiya2626/pi-github-tools",
+		"reason": "raspberry pi topic: \"raspberry-pi\""
+	},
+	{
+		"url": "https://github.com/Ankur2912/pi-tool-display",
+		"reason": "raspberry pi topic: \"raspberry-pi\""
+	},
+	{
+		"url": "https://github.com/monkeyface-man/pi-vscode",
+		"reason": "pixijs topic"
+	},
+	{
+		"url": "https://github.com/emmaneugene/pi",
+		"reason": "blocked name: pi"
+	},
+	{
+		"url": "https://github.com/rchak007/openClawAiAgents",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/ahstn/pi",
+		"reason": "blocked name: pi"
+	},
+	{
+		"url": "https://github.com/chrisrogers37/claudlobby",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/knoopx/pi",
+		"reason": "blocked name: pi"
+	},
+	{
+		"url": "https://github.com/lhbsaa/embedded-dev-skill",
+		"reason": "raspberry pi signal: \"rp2040\""
+	},
+	{
+		"url": "https://github.com/BNJ02/claude-agent-pico-w-multicore",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/dotbrains/pi",
+		"reason": "blocked name: pi"
+	},
+	{
+		"url": "https://github.com/josheeg/Game-Note",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/tachyonicbytes/pi",
+		"reason": "blocked name: pi"
+	},
+	{
+		"url": "https://github.com/rahuljsaliaan/PiCompute",
+		"reason": "mathematical pi signal: \"compute pi\""
+	},
+	{
+		"url": "https://github.com/counterposition/pi",
+		"reason": "blocked name: pi"
+	},
+	{
+		"url": "https://github.com/mcleo-d/openclaw-pi-oss",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/ChrisRPL/dumplbot-pi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/Midnight-Owl-1/srAgentCloud",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/marcelotournier/deepagent",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/siva-sudhan/open-claw-in-pi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/stevemurr/pi",
+		"reason": "blocked name: pi"
+	},
+	{
+		"url": "https://github.com/HenrikKorsgaardKnowit/piness",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/fyfty-bucks/bot",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/marcelotournier/verysmolcode",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/timbasel/pi",
+		"reason": "blocked name: pi"
+	},
+	{
+		"url": "https://github.com/brainbot-lab/brainbot",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/vamsi/pi",
+		"reason": "blocked name: pi"
+	},
+	{
+		"url": "https://github.com/gturkoglu/pi-codex-apply-patch",
+		"reason": "pi network crypto signal: \"pi app\""
+	},
+	{
+		"url": "https://github.com/dbroeglin/rpi-copilot",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/aairahh/PROJECTS-",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/codaraflow/rasberrypi-claude-automation",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/buckster123/PiCoder",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/kpsarkar/DQN-Based-Autonomous-Navigation-Mobile-Robot",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/mayflower/skydog",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/biolod1337/pi-mono",
+		"reason": "raspberry pi topic: \"gpio\""
+	},
+	{
+		"url": "https://github.com/ns2max/nebula",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/MZhoume/IoTFinalProj",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/francelivgonzalez/Monocular-Depth-Pi5-Tesla-Project",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/mbutki/pi_projects",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/Haiya-P/Monogramming-Pi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/ob1ong/PIZERO-LLM-internal-monolouge",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/leitzzz/tftscreen-mx93487a-raspberrypi-wiring",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/kathigg/assembly_pi_monogram",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/sachetto/MonoKeyPi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/bbsmith24/YamuraViewV5",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/irdcat/raspi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/Bender-at-large/ZenithPi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/121940kz/Monoprice-Whole-Home-Audio-Android-App-Raspberry-Pi-Server",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/lazaros7sungwhan/monoSize",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/rppicomidi/pico-mono-ui-lib",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/rppicomidi/pico-ssd1306-mono-graphics-lib",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/FrankPfattheicher/IctBaden.RasPi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/ChristianKubicka/MMSLA-3DPrinter",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/MelvinLoos/rpi-mono",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/rabiut/Real-time-SDR-for-mono-stereo-FM-and-RDS",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/joem/raspberry_pi_zero_mono_audio_out",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/bp2008/OmxPlayerAuto",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/ChristopherNeuwirth/smart-mirror",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/mdiplacido/piosk",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/jabiel/monoPi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/karam94/PiAthan",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/unosquare/raspberryio",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/gloveboxes/DMX.Solution",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/BholaHrishikesh/psychic-rotary-phone",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/hiteshsuthar01/OK-",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/Alexplose/mpp-solar-poller",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/lecode-official/gphoto2-dotnet",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/julianmorenomotta/LightServer",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/rahmay1/Realtime-Software-Defined-Radio-for-Mono-Stereo-FM",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/mracipayam/CsharpMonoSaveDataToTextFile",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/alejandro-n-rivera/rpi_bt_a2dp_and_mono",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/zhuanghany11/rpi_vehicle",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/morsm/DockerRaspbianMono",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/eerimoq/monolinux-raspberry-pi-3",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/mikeclayton/PiFaceSharp",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/raspberry-sharp/raspberry-sharp-system",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/Danigy/RaspberryPiSmartMirror",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/serhiiz/IoT.Display.RaspberrySharp",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/JTrotta/RaspberrySharp",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/nirdobovizki/PiGpio",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/raspberry-sharp/raspberry-sharp-io",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/arnold-fungi/ScanServerNet",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/adil-fit-ba/RaspberryPiMono",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/erin1006/Navio2_Pi_VINS_Mono",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/MarceloCampos/Raspi_io",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/NorthFoxJp/PiSample",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/shawty/pid",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/RhythmKrDasgupta/RPiFm-station",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/ncdcommunity/Raspberry_Pi_MQ9_Carbon_Monoxide_Gas_Detection_Sensor_Python_Library",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/ncdcommunity/Raspberry_Pi_ADC121C_MQ7_Carbon_Monoxide_Gas_Sensor_Python_library",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/laheller/RPI_Peripheral",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/kj831ca/PI_I2C_NET",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/null511/RPi.ServerTemplate",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/peterkvt80/moopig",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/gamondue/GrowBox5F17_Mono-WinIoT",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/eried/PowerSpeck",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/AlessFoschi/GrowBox5Foschi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/FrancescoManuzzi/GrowBoxManuzzi_Mono-WinIot",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/matmaz8/GrowBox_Mazzotti_Mono_WinIot",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/neutmute/RPi.Demo",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/vuralmehmett/OwinForRpi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/vuralmehmett/DockerMono",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/Gravicode/Mono-WiringPi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/KKoovalsky/DroneBrain",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/gusmanb/RaspiSharp",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/ccooper4/SimpleMarketApp",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/di1111/RaspberryPiHomeMonotor",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/jaocode/PiGlow",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/fafanoulele/rpi-mono-docker",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/Injac/NiteLiteServer",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/josephbisaillon/PFeederProjects",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/cyrusbuilt/MonoPi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/SimonWalkerNAIT/Pi",
+		"reason": "blocked name: pi"
+	},
+	{
+		"url": "https://github.com/MakerDen/Maker-Den-Mono-on-Raspberry-Pi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/firecube/docker-rpi-mono",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/mikaelnet/DeployMachine",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/NathDevAU/raspberrypi-1",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/silentbobbert/pi_sensors",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/Limro/Mono.Sqlite3.Raspberry",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/ThomasHoest/RaspberrySnake",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/gus3/pifm-mono",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/ndsrf/RaspberryHome",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/REPLAY5/i2cLCD.net",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/ttu/mono-raspberry-app",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/pharmabox/SPDBox",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/abenedykt/mono-experiments",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/henkin/pint",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/BlackRamElectronics/RPI-OLED-MONO",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/devlead/RaspberryPiMonoHelp",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/andreasling/hello-mono",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/jtourlamain/AspMvcMonoRaspberryPi",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=YOLkmefg_EY",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=i2ZFDYcQuP8",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=84IB1OKDqT0",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=dLES4bzXwbo",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=zDaMoG3RvK0",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=lyohFQGmIlU",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Ush3E32F8ew",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=NcfIeV2ZqTA",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=6Td8FWDbB64",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=-YDF4jm55Zc",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=UOK4JrYiqfM",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0G4A_gn0wrM",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=HrPhm9dWwmM",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=XkWxflvTrKA",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=gkgYYtYtUhc",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=yZUK-RDIqDI",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=q2yIBXMwVZc",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=u7JtInemsJY",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=aXca9CCUBoI",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=r0Gj-q-LyRw",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=F-x2KbgyO5w",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=xjNlB-55YKk",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=lTAPmu8TvUo",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=6fUriv_zOls",
+		"reason": "pi network crypto signal: \"pi network\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=QLbKISoBEMw",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=P7dGHDs6nSc",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=S1lcz0lYdvg",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ffmXjDwLWLk",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=x0HJuD3neuM",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=LpXUKFLls7o",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=oiXpCsDTHrY",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=3xpPTYKDmQE",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=wwp08NplpSI",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=iqynb4LO8io",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=c2mTQpXsMjo",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=MLAnwr-t4Vw",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=jM9uYymSemE",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=h2B8oOUJ3mU",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_rvWF67oCxI",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=5YfJWYELA3k",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=WqFr56oohCE",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=4waN3HxjjSA",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=yom6aCm7kxA",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ZVj5Lm59L_M",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=m3LwGK-u8y0",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=jm7p9W6Hx_g",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=yfJo-eLxjmw",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=W0hVEEd3opw",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=OYTYDby2DJ8",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0wOzPu-reng",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=GjEcL7u8wjA",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=RLSjG0IuFoA",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=nNuCO0kce-Q",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=o1eppNELKj0",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Fytn1jxsODw",
+		"reason": "pi network crypto signal: \"pi network\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=OU6jHvVqJxY",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=4jv0VfpqpbA",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=rZaQrsFuxYg",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=-DQtzgTvEWw",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=wW7QuBWcxNo",
+		"reason": "pi network crypto signal: \"pi app\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=gQ6zYnTti54",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=lhuEXkkJs5M",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=jk3j4P-e4kc",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=iiBn7FVzlcc",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=OI3XfWg9ftA",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=M4zDQErfMcE",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=sYIHZFvv55k",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0X3DVfHzySA",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=FDMYBrYk-aY",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=xtiGT5rF3Hc",
+		"reason": "pi network crypto signal: \"pi network\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=t4F8v5OTIXE",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Akb5nsO9tHE",
+		"reason": "pi network crypto signal: \"pi network\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ry0fyYT4tCM",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=KeEGAsvKkKw",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=9shvIV_T70g",
+		"reason": "pi network crypto signal: \"pi network\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=7LiobJ3oErs",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=thKFYZMTY0Q",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=HITf-_koVgs",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=zVG5DR35R6A",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=NUbdUqoSkEY",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=g7PFANLwH2o",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=mW6Ki72Wab8",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Liz_bLD8Ouw",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=adYPy1hzmQo",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=kZhAj8--t8w",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=LdUKApO-9u4",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=prQtLGJnH6U",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=zeUz6IGb0Z8",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0L9q_cWUW1I",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=NcvVB_CkwEI",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=meWvQJza8jo",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_4d8Pj_aorI",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=DxxYlsmMq4I",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=PHr8wvpZrn8",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=JyTDR-APl28",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=d3B7_NPoDiI",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=l5ggH-YhuAw",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=6ybdghx0hOQ",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=QwLQTNN8wLU",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=9dD6iK5UtrY",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=CukD6leYBKc",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ZKS-JpAGlug",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_El0QCptUic",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=KMeWZxPl39k",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=VUSiKkHsJ0Q",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=OocbToIjLMY",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=8X7qgwEHP2M",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=2d21MBF4i6Q",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=BQCb9iNme2w",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=PrAysptAtXQ",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=GzBzIhddrlw",
+		"reason": "mathematical pi signal: \"calculate pi\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_qHohLJa8Es",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=wvjXBpRuD18",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=-pUTwNCv_tM",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=L3p1fz5nIl0",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=bkJuzFdnLUg",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=w1QwmBMZGNs",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=6iHa5GN9n3I",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=64GlIYem47c",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=d28id4qFyfc",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=lDOSGBvP08I",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=EWKa_SDRUSs",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=id_UchwiOgg",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ViY1GszH5YE",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=biAaLtoM4VU",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=DqvUwOGW65c",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ttPch2XnSvo",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=2iLT8f9ju-o",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=OJQjKAp_6qI",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=GogDApBb86M",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=7iJ23YxKZBY",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=oUooLGfKAtY",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Rbe4Ii73ZXc",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=D0UFJQHoGO4",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=FW2EukN2Kho",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ZN6XS2d_izI",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=frpD9ZkHcqY",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=3HBm8KfcJFU",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=-o6vWIgpICc",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=NbvyZAcqkOA",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=7A9ohG9r84M",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=RRLhridN3TQ",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=zquv0YlNQdo",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=J3sGJhA_mZY",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=-XtxE7EZqug",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=FRtYE7Npltc",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=U1M7W6M0ZrU",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=SXkMEPoh59U",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=x3WD14rFivg",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=3pyAp_mlNR4",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=JBqNkpFaSXc",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=RdK-8pSQIP0",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=3vuAkwBkp04",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=lzv9cwdU_ok",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=cQA4AHlO8PQ",
+		"reason": "mathematical pi signal: \"calculate pi\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0Z2vvFgh9j0",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=gPg4iKSaMqE",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=5m9dxQqsKdA",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=UiSpGKFuXM4",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=C07i3LBRzOs",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=7dtUAaG230U",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=xGzvFzdBAwc",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=S-sJNZu_yYc",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Kpki4vt7S-M",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=hhuhYaA2cF0",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=_zIWbwI6ziY",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ddcsWKAWupw",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=tLaBNqbVLPI",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ofMLnpJ-6XM",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=lQ9QoDeWRcA",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=FR6F81S6loc",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=0hxznifVx60",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=RjPsl0zFPyw",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=emO2PYfrm84",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=Iu1_FZ9vp4E",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=ZOSB7cD_0qw",
+		"reason": "raspberry pi signal: \"raspberry\""
+	},
+	{
+		"url": "https://github.com/gaddour1/Website-Pi-Monoprix-Amine",
+		"reason": "Empty repo with no description or code, not related to Pi coding agent"
 	}
 ]

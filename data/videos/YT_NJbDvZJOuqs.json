@@ -1,0 +1,24 @@
+{
+	"id": "YT_NJbDvZJOuqs",
+	"name": "Claude Code plays Monkey Island",
+	"url": "https://www.youtube.com/watch?v=NJbDvZJOuqs",
+	"source": "youtube-search",
+	"description": "I got an AI to play the Secret of Monkey Island, and it actually works. It can see what's on objects and characters are in the scene, ...",
+	"metadata": {
+		"title": "Claude Code plays Monkey Island",
+		"description": "I got an AI to play the Secret of Monkey Island, and it actually works. It can see what's on objects and characters are in the scene, ...",
+		"channel": "Xavier Hardy",
+		"published_at": "2026-04-20T15:52:50Z",
+		"thumbnail": "https://i.ytimg.com/vi/NJbDvZJOuqs/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi coding agent\"",
+		"_readme_category_scores": {},
+		"view_count": 22,
+		"like_count": 0,
+		"comment_count": 0
+	},
+	"health": {
+		"score": 75,
+		"level": "active"
+	},
+	"category": "video"
+}

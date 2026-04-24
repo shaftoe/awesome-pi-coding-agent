@@ -1,0 +1,24 @@
+{
+	"id": "YT_VB0wK22AfJI",
+	"name": "sonic pi live_loop",
+	"url": "https://www.youtube.com/watch?v=VB0wK22AfJI",
+	"source": "youtube-search",
+	"description": "",
+	"metadata": {
+		"title": "sonic pi live_loop",
+		"description": "",
+		"channel": "variable j",
+		"published_at": "2021-12-28T13:47:49Z",
+		"thumbnail": "https://i.ytimg.com/vi/VB0wK22AfJI/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 732,
+		"like_count": 31,
+		"comment_count": 2
+	},
+	"health": {
+		"score": 32,
+		"level": "stale"
+	},
+	"category": "video"
+}

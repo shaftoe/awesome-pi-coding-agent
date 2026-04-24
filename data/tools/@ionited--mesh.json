@@ -1,0 +1,36 @@
+{
+	"id": "@ionited/mesh",
+	"name": "@ionited/mesh",
+	"url": "https://www.npmjs.com/package/@ionited/mesh",
+	"source": "npm-search",
+	"description": "A fast web framework based on uWebSockets.js",
+	"metadata": {
+		"github_url": "https://github.com/ionited/mesh",
+		"npm_name": "@ionited/mesh",
+		"description": "A fast web framework based on uWebSockets.js",
+		"keywords": ["Web", "Backend", "Socket", "uWebSockets.js", "Fiber", "Mesh", "HTTP", "API", "REST"],
+		"version": "0.7.3",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 48,
+		"forks": 5,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-17T02:09:50Z",
+		"topics": ["api", "backend", "express", "fiber", "http", "mesh", "rest", "socket", "uwebsocketsjs", "web"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 75,
+		"level": "active"
+	},
+	"category": "tool"
+}

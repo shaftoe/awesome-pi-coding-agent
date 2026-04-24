@@ -1,0 +1,36 @@
+{
+	"id": "@latentminds/pi-quotas",
+	"name": "@latentminds/pi-quotas",
+	"url": "https://www.npmjs.com/package/@latentminds/pi-quotas",
+	"source": "npm-search",
+	"description": "Quota monitoring for the [Pi coding agent](https://github.com/mariozechner/pi). Shows remaining usage and rate limits for Anthropic, OpenAI Codex, GitHub Copilot, and OpenRouter — directly in your Pi session.",
+	"metadata": {
+		"github_url": "https://github.com/latentminds-ai/pi-quotas",
+		"npm_name": "@latentminds/pi-quotas",
+		"description": "Quota monitoring for the [Pi coding agent](https://github.com/mariozechner/pi). Shows remaining usage and rate limits for Anthropic, OpenAI Codex, GitHub Copilot, and OpenRouter — directly in your Pi session.",
+		"keywords": ["pi-package", "pi-extension", "pi"],
+		"version": "0.2.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-22T09:16:34Z",
+		"topics": ["anthropic", "codex", "copilot", "openrouter", "pi", "pi-extension", "pi-package", "quota"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/latentminds-ai/pi-quotas",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 6,
+			"theme": 0,
+			"provider": 7
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

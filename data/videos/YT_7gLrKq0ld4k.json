@@ -1,0 +1,24 @@
+{
+	"id": "YT_7gLrKq0ld4k",
+	"name": "Automatiser Jdownloader Sur Raspberry",
+	"url": "https://www.youtube.com/watch?v=7gLrKq0ld4k",
+	"source": "youtube-search",
+	"description": "Salut, nouvelle vidéo explicative sur l'installation et l'automatisation de jdownloader sur raspbian. Logiciels dont nous avons ...",
+	"metadata": {
+		"title": "Automatiser Jdownloader Sur Raspberry",
+		"description": "Salut, nouvelle vidéo explicative sur l'installation et l'automatisation de jdownloader sur raspbian. Logiciels dont nous avons ...",
+		"channel": "Tech To Shen",
+		"published_at": "2020-05-10T15:45:25Z",
+		"thumbnail": "https://i.ytimg.com/vi/7gLrKq0ld4k/hqdefault.jpg",
+		"discovery_hint": "youtube:\"pi.dev\"",
+		"_readme_category_scores": {},
+		"view_count": 5424,
+		"like_count": 81,
+		"comment_count": 37
+	},
+	"health": {
+		"score": 42,
+		"level": "maintained"
+	},
+	"category": "video"
+}

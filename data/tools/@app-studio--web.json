@@ -1,0 +1,21 @@
+{
+	"id": "@app-studio/web",
+	"name": "@app-studio/web",
+	"url": "https://www.npmjs.com/package/@app-studio/web",
+	"source": "npm-search",
+	"description": "![App Studio Web](https://img.shields.io/badge/App%20Studio-Web-blue) ![React](https://img.shields.io/badge/React-18.x-61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-4.9.x-3178C6) ![License](https://img.shields.io/badge/License-MIT-green)",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@app-studio/web",
+		"description": "![App Studio Web](https://img.shields.io/badge/App%20Studio-Web-blue) ![React](https://img.shields.io/badge/React-18.x-61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-4.9.x-3178C6) ![License](https://img.shields.io/badge/License-MIT-green)",
+		"keywords": [],
+		"version": "0.10.4",
+		"discovery_hint": "npm:pi-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

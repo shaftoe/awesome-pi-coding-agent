@@ -1,0 +1,21 @@
+{
+	"id": "@thanhnv6702/skill-hub",
+	"name": "@thanhnv6702/skill-hub",
+	"url": "https://www.npmjs.com/package/@thanhnv6702/skill-hub",
+	"source": "npm-search",
+	"description": "CLI to push and pull Claude Code / OpenCode skills from a shared Git-based registry",
+	"metadata": {
+		"github_url": "https://github.com/Thanh-apero/skill-hub",
+		"npm_name": "@thanhnv6702/skill-hub",
+		"description": "CLI to push and pull Claude Code / OpenCode skills from a shared Git-based registry",
+		"keywords": ["claude", "claude-code", "opencode", "skills", "skill-registry", "cli", "agent", "ai"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

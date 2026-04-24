@@ -1,0 +1,36 @@
+{
+	"id": "@jay-zod/speakturbo",
+	"name": "@jay-zod/speakturbo",
+	"url": "https://www.npmjs.com/package/@jay-zod/speakturbo",
+	"source": "npm-search",
+	"description": "Ultra-fast TTS with ~90ms latency. Local text-to-speech for AI agents with 8 built-in voices.",
+	"metadata": {
+		"github_url": "https://github.com/EmZod/Speak-Turbo",
+		"npm_name": "@jay-zod/speakturbo",
+		"description": "Ultra-fast TTS with ~90ms latency. Local text-to-speech for AI agents with 8 built-in voices.",
+		"keywords": ["tts", "text-to-speech", "mlx", "apple-silicon", "pi-package", "speakturbo-tts", "voice", "audio", "ai-agent", "claude-code", "skills"],
+		"version": "1.0.7",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 18,
+		"forks": 1,
+		"open_issues": 1,
+		"language": "Python",
+		"license": "MIT",
+		"last_commit": "2026-02-21T11:41:45Z",
+		"topics": ["ai-agents", "local-first", "python", "rust", "streaming", "text-to-speech", "tts", "voice"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://speakturbo-site.vercel.app",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 62,
+		"level": "maintained"
+	},
+	"category": "tool"
+}
