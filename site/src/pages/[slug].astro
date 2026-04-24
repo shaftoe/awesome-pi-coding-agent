@@ -44,9 +44,14 @@ const cards = category.entries.map((entry) => {
   </div>
   <p class="category-desc">{meta.description}</p>
 
+  <category-search class="search-box">
+    <input type="search" placeholder={`Filter ${category.entries.length} ${meta.title.toLowerCase()}…`} />
+    <span class="search-count"></span>
+  </category-search>
+
   <div class="entry-grid">
     {cards.map((card) => (
-      <a href={card.url} target="_blank" rel="noopener noreferrer" class="entry-card">
+      <a href={card.url} target="_blank" rel="noopener noreferrer" class="entry-card" data-searchable={`${card.name} ${card.desc} ${card.language ?? ''}`}>
         <div style="display:flex;align-items:center;gap:0.5rem">
           <h3>{card.name}</h3>
           <span class={`health-badge health-${card.healthLevel}`}>
@@ -67,4 +72,38 @@ const cards = category.entries.map((entry) => {
       </a>
     ))}
   </div>
+<script>
+	class CategorySearch extends HTMLElement {
+		connectedCallback() {
+			const input = this.querySelector<HTMLInputElement>('input[type="search"]')!;
+			const countEl = this.querySelector<HTMLElement>('.search-count')!;
+			const grid = this.nextElementSibling as HTMLElement;
+			if (!grid || !grid.classList.contains('entry-grid')) return;
+
+			const cards = Array.from(grid.querySelectorAll<HTMLElement>('.entry-card'));
+			const total = cards.length;
+
+			const filter = () => {
+				const q = input.value.toLowerCase().trim();
+				const terms = q ? q.split(/\s+/).filter(Boolean) : [];
+				let visible = 0;
+				for (const card of cards) {
+					const text = (card.dataset.searchable ?? '').toLowerCase();
+					const match = terms.length === 0 || terms.every((t) => text.includes(t));
+					card.style.display = match ? '' : 'none';
+					if (match) visible++;
+				}
+				if (terms.length > 0) {
+					countEl.textContent = `${visible} of ${total}`;
+				} else {
+					countEl.textContent = '';
+				}
+			};
+
+			input.addEventListener('input', filter);
+		}
+	}
+	customElements.define('category-search', CategorySearch);
+</script>
+
 </StarlightPage>

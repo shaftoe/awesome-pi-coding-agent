@@ -327,6 +327,12 @@
 	color: var(--sl-color-gray-4);
 }
 
+.search-box .search-count {
+	font-size: var(--sl-text-xs);
+	color: var(--sl-color-gray-4);
+	margin-top: 0.25rem;
+}
+
 .search-results {
 	font-size: var(--sl-text-sm);
 	color: var(--sl-color-gray-3);
