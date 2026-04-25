@@ -1,0 +1,36 @@
+{
+	"id": "to-wordpress",
+	"name": "to-wordpress",
+	"url": "https://www.npmjs.com/package/to-wordpress",
+	"source": "npm-search",
+	"description": "Migrate anything text-shaped to WordPress — Jekyll, Hugo, Eleventy, Gatsby, Next, Astro, Hexo, Docusaurus, MkDocs, Ghost, WordPress WXR, Medium, Substack, Word docs, spreadsheets, PDFs, EPUBs, READMEs. Driven by GitHub Copilot CLI in a hybrid orchestratio",
+	"metadata": {
+		"github_url": "https://github.com/f/to-wordpress",
+		"npm_name": "to-wordpress",
+		"description": "Migrate anything text-shaped to WordPress — Jekyll, Hugo, Eleventy, Gatsby, Next, Astro, Hexo, Docusaurus, MkDocs, Ghost, WordPress WXR, Medium, Substack, Word docs, spreadsheets, PDFs, EPUBs, READMEs. Driven by GitHub Copilot CLI in a hybrid orchestratio",
+		"keywords": ["wordpress", "jekyll", "hugo", "eleventy", "ghost", "gatsby", "next", "astro", "hexo", "docusaurus", "mkdocs", "medium", "substack", "wp-wxr", "wxr", "docx", "xlsx", "pdf", "epub", "readme", "markdown", "migration", "migrator", "importer", "copilot", "copilot-cli", "cli", "ink", "tui", "wp-env", "wp-cli"],
+		"version": "0.5.0",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 5,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T11:02:33Z",
+		"topics": ["agentic", "ai-agent", "astro", "block-theme", "claude-code", "cli", "codex", "copilot", "docx", "fse", "gutenberg", "hugo", "jekyll", "markdown", "medium", "migration", "wordpress", "wp-cli", "wp-env", "wxr"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/to-wordpress",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 25,
+			"theme": 31,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "theme"
+}

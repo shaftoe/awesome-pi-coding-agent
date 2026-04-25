@@ -1,0 +1,21 @@
+{
+	"id": "team-agents-cowork",
+	"name": "team-agents-cowork",
+	"url": "https://www.npmjs.com/package/team-agents-cowork",
+	"source": "npm-search",
+	"description": "Protocol-First Collaboration System",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "team-agents-cowork",
+		"description": "Protocol-First Collaboration System",
+		"keywords": [],
+		"version": "0.8.10",
+		"discovery_hint": "npm:pi-coding-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

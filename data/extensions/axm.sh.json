@@ -1,0 +1,36 @@
+{
+	"id": "axm.sh",
+	"name": "axm.sh",
+	"url": "https://www.npmjs.com/package/axm.sh",
+	"source": "npm-search",
+	"description": "Extension manager for AI coding agents — install skills, subagents, slash commands, and MCP servers across Claude Code, Codex, Cursor, Copilot, and more.",
+	"metadata": {
+		"github_url": "https://github.com/agentxm/axm",
+		"npm_name": "axm.sh",
+		"description": "Extension manager for AI coding agents — install skills, subagents, slash commands, and MCP servers across Claude Code, Codex, Cursor, Copilot, and more.",
+		"keywords": ["agent", "agents", "ai-agent", "agent-extensions", "agent-skills", "extensions", "extension-manager", "cli", "anthropic", "mcp", "mcp-server", "skill", "skills", "subagent", "subagents", "slash-commands", "extension-pack", "claude-code", "github-copilot", "cursor", "gemini-cli", "codex", "opencode", "windsurf", "cline", "goose", "qwen-code"],
+		"version": "0.4.5",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T22:45:21Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://axm.sh",
+		"_readme_category_scores": {
+			"extension": 18,
+			"tool": 5,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

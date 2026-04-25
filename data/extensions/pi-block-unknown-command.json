@@ -1,0 +1,36 @@
+{
+	"id": "pi-block-unknown-command",
+	"name": "pi-block-unknown-command",
+	"url": "https://www.npmjs.com/package/pi-block-unknown-command",
+	"source": "npm-search",
+	"description": "A pi extension that blocks unknown slash commands before they reach the LLM.",
+	"metadata": {
+		"github_url": "https://github.com/hdkiller/pi-block-unknown-command",
+		"npm_name": "pi-block-unknown-command",
+		"description": "A pi extension that blocks unknown slash commands before they reach the LLM.",
+		"keywords": ["pi-package", "pi", "pi-extension", "slash-commands", "commands"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T19:13:55Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

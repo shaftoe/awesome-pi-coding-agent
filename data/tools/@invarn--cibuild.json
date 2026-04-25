@@ -1,0 +1,36 @@
+{
+	"id": "@invarn/cibuild",
+	"name": "@invarn/cibuild",
+	"url": "https://www.npmjs.com/package/@invarn/cibuild",
+	"source": "npm-search",
+	"description": "CI Build CLI — local pipeline orchestration and validation",
+	"metadata": {
+		"github_url": "https://github.com/invarnhq/cibuild",
+		"npm_name": "@invarn/cibuild",
+		"description": "CI Build CLI — local pipeline orchestration and validation",
+		"keywords": ["ci", "cd", "pipeline", "build", "automation"],
+		"version": "1.5.5",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Shell",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-22T18:03:07Z",
+		"topics": ["android", "ci-cd", "github-action", "github-actions", "gradle", "ios", "mobile-ci", "pipeline", "xcode"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

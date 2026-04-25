@@ -1,0 +1,32 @@
+{
+	"id": "kucukkanat-nano-chat",
+	"name": "kucukkanat-nano-chat",
+	"url": "https://github.com/kucukkanat/nano-chat",
+	"source": "github-search",
+	"description": "Super-minimalistic desktop chat app for agentic AI, built on pi-mono. Streaming thoughts, inspectable tool calls, mid-chat model swap.",
+	"metadata": {
+		"description": "Super-minimalistic desktop chat app for agentic AI, built on pi-mono. Streaming thoughts, inspectable tool calls, mid-chat model swap.",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:pi-mono",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-24T22:32:33Z",
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 2,
+			"theme": 2,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,21 @@
+{
+	"id": "@ai-agent-manager/cli",
+	"name": "@ai-agent-manager/cli",
+	"url": "https://www.npmjs.com/package/@ai-agent-manager/cli",
+	"source": "npm-search",
+	"description": "Agent Manager - install and manage AI agent skills and Rovo agents",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@ai-agent-manager/cli",
+		"description": "Agent Manager - install and manage AI agent skills and Rovo agents",
+		"keywords": ["agent", "skills", "cli", "tui", "ai", "agent-skills", "agentman", "rovo", "claude-code", "windsurf", "copilot", "cursor"],
+		"version": "0.10.0",
+		"discovery_hint": "npm:pi-coding-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

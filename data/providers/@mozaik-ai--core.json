@@ -1,0 +1,36 @@
+{
+	"id": "@mozaik-ai/core",
+	"name": "@mozaik-ai/core",
+	"url": "https://www.npmjs.com/package/@mozaik-ai/core",
+	"source": "npm-search",
+	"description": "A TypeScript framework for building AI agents",
+	"metadata": {
+		"github_url": "https://github.com/jigjoy-ai/mozaik",
+		"npm_name": "@mozaik-ai/core",
+		"description": "A TypeScript framework for building AI agents",
+		"keywords": ["ai-agent", "agentic-ai", "agent-framework", "ai-workflow", "ai-orchestration", "ai-agents", "ai-developer-tools", "ai-infrastructure", "autonomous-agent", "multi-agent-system", "openai", "llm"],
+		"version": "3.1.3",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 9,
+		"forks": 2,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-25T04:44:12Z",
+		"topics": ["agentic-ai", "agentic-framework", "agentic-workflow", "ai-orchestration", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://jigjoy.ai/mozaik",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "provider"
+}

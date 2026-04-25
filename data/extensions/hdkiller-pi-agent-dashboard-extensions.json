@@ -1,0 +1,27 @@
+{
+	"id": "hdkiller-pi-agent-dashboard-extensions",
+	"name": "hdkiller-pi-agent-dashboard-extensions",
+	"url": "https://github.com/hdkiller/pi-agent-dashboard-extensions",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:pi-agent extension",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-24T17:41:38Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@pro-vi/designer",
+	"name": "@pro-vi/designer",
+	"url": "https://www.npmjs.com/package/@pro-vi/designer",
+	"source": "npm-search",
+	"description": "MCP + CLI for autonomous iteration of claude.ai/design — drives the design surface via agent-browser, downloads handoff bundles, and exposes a tasting harness for full-viewport variant comparison.",
+	"metadata": {
+		"github_url": "https://github.com/pro-vi/designer",
+		"npm_name": "@pro-vi/designer",
+		"description": "MCP + CLI for autonomous iteration of claude.ai/design — drives the design surface via agent-browser, downloads handoff bundles, and exposes a tasting harness for full-viewport variant comparison.",
+		"keywords": ["claude", "claude-design", "mcp", "model-context-protocol", "design", "agent-browser", "anthropic"],
+		"version": "0.3.3",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 4,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T04:36:42Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 5,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

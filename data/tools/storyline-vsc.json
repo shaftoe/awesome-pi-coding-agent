@@ -1,0 +1,21 @@
+{
+	"id": "storyline-vsc",
+	"name": "storyline-vsc",
+	"url": "https://www.npmjs.com/package/storyline-vsc",
+	"source": "npm-search",
+	"description": "Storyline — a planning and writing environment for novelists and non-fiction authors, built around Save the Cat story structure and a three-pipeline non-fiction harness, with AI co-planning support powered by Claude.",
+	"metadata": {
+		"github_url": "https://github.com/DarrenJCoxon/storyline",
+		"npm_name": "storyline-vsc",
+		"description": "Storyline — a planning and writing environment for novelists and non-fiction authors, built around Save the Cat story structure and a three-pipeline non-fiction harness, with AI co-planning support powered by Claude.",
+		"keywords": ["novel", "writing", "save-the-cat", "story-planning", "non-fiction", "book-planning", "claude", "vscode", "epub"],
+		"version": "1.3.5",
+		"discovery_hint": "npm:pi-coding-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

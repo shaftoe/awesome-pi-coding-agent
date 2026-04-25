@@ -1,0 +1,36 @@
+{
+	"id": "directus-extension-slug-generator",
+	"name": "directus-extension-slug-generator",
+	"url": "https://www.npmjs.com/package/directus-extension-slug-generator",
+	"source": "npm-search",
+	"description": "Hierarchical slug generator for Directus — auto-generates slugs with parent chain resolution, accent-safe slugify, inline editing, and live preview",
+	"metadata": {
+		"github_url": "https://github.com/grupo-jpp/directus-extension-permalink-generator",
+		"npm_name": "directus-extension-slug-generator",
+		"description": "Hierarchical slug generator for Directus — auto-generates slugs with parent chain resolution, accent-safe slugify, inline editing, and live preview",
+		"keywords": ["directus", "directus-extension", "directus-custom-interface", "directus-extension-interface", "permalink", "slug", "url-generator", "seo", "cms", "hierarchical"],
+		"version": "1.0.2",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Vue",
+		"license": "MIT",
+		"last_commit": "2026-04-16T03:09:48Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 15,
+			"tool": 4,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@e9n/pi-workon",
+	"name": "@e9n/pi-workon",
+	"url": "https://www.npmjs.com/package/@e9n/pi-workon",
+	"source": "npm-search",
+	"description": "Project context switching and initialization for pi — switch projects, detect stacks, scaffold AGENTS.md",
+	"metadata": {
+		"github_url": "https://github.com/espennilsen/pi",
+		"npm_name": "@e9n/pi-workon",
+		"description": "Project context switching and initialization for pi — switch projects, detect stacks, scaffold AGENTS.md",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 99,
+		"forks": 8,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T22:44:21Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 32,
+			"tool": 8,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 80,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@kylebrodeur/pi-model-router",
+	"name": "@kylebrodeur/pi-model-router",
+	"url": "https://www.npmjs.com/package/@kylebrodeur/pi-model-router",
+	"source": "npm-search",
+	"description": "Intelligent per-turn model router extension for the pi coding agent (Enhanced Fork)",
+	"metadata": {
+		"github_url": "https://github.com/kylebrodeur/pi-model-router",
+		"npm_name": "@kylebrodeur/pi-model-router",
+		"description": "Intelligent per-turn model router extension for the pi coding agent (Enhanced Fork)",
+		"keywords": ["pi-package", "pi", "model-router", "llm", "coding-agent", "extension"],
+		"version": "0.1.2",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "HTML",
+		"license": "MIT",
+		"last_commit": "2026-04-24T22:39:31Z",
+		"topics": ["ai-coding-agent", "fallback", "llm-router", "model-router", "ollama", "pi-coding-agent", "pi-extension", "rate-limit", "typescript"],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": "https://github.com/kylebrodeur/pi-model-router#readme",
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 0,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 40,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

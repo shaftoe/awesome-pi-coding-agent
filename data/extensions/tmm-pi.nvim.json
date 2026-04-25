@@ -1,0 +1,32 @@
+{
+	"id": "tmm-pi.nvim",
+	"name": "tmm-pi.nvim",
+	"url": "https://github.com/tmm/pi.nvim",
+	"source": "github-search",
+	"description": "pi nvim bridge",
+	"metadata": {
+		"description": "pi nvim bridge",
+		"stars": 4,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["nvim", "pi", "pi-extension", "pi-extensions"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"discovery_hint": "github:topic:pi-extension",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-16T23:23:20Z",
+		"_readme_category_scores": {
+			"extension": 7,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

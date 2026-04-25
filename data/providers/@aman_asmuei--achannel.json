@@ -1,0 +1,36 @@
+{
+	"id": "@aman_asmuei/achannel",
+	"name": "@aman_asmuei/achannel",
+	"url": "https://www.npmjs.com/package/@aman_asmuei/achannel",
+	"source": "npm-search",
+	"description": "The portable channel layer for AI companions — Telegram, Discord, WhatsApp, webhooks",
+	"metadata": {
+		"github_url": "https://github.com/amanasmuei/achannel",
+		"npm_name": "@aman_asmuei/achannel",
+		"description": "The portable channel layer for AI companions — Telegram, Discord, WhatsApp, webhooks",
+		"keywords": ["ai", "companion", "telegram", "discord", "whatsapp", "webhook", "channel", "llm", "anthropic", "openai", "ollama"],
+		"version": "0.3.1",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-30T06:57:50Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 1,
+			"theme": 1,
+			"provider": 6
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

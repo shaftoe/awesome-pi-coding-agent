@@ -1,0 +1,21 @@
+{
+	"id": "@antoneeo/agentic-sdlc-skill",
+	"name": "@antoneeo/agentic-sdlc-skill",
+	"url": "https://www.npmjs.com/package/@antoneeo/agentic-sdlc-skill",
+	"source": "npm-search",
+	"description": "Protocollo SDLC Documentation-First per Gemini CLI. Gestisce audit, analisi, sviluppo e chiusura feature con documentazione sincronizzata.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@antoneeo/agentic-sdlc-skill",
+		"description": "Protocollo SDLC Documentation-First per Gemini CLI. Gestisce audit, analisi, sviluppo e chiusura feature con documentazione sincronizzata.",
+		"keywords": ["gemini-cli", "skill", "sdlc", "documentation", "ai-agent"],
+		"version": "1.0.5",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

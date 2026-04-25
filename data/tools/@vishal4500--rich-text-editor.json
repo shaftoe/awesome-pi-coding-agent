@@ -1,0 +1,21 @@
+{
+	"id": "@vishal4500/rich-text-editor",
+	"name": "@vishal4500/rich-text-editor",
+	"url": "https://www.npmjs.com/package/@vishal4500/rich-text-editor",
+	"source": "npm-search",
+	"description": "A modern, extensible rich text editor built with Tiptap and React. Features font controls, image resize, tables, color picker, and more.",
+	"metadata": {
+		"github_url": "https://github.com/VishalMadupu/type-artisan-kit",
+		"npm_name": "@vishal4500/rich-text-editor",
+		"description": "A modern, extensible rich text editor built with Tiptap and React. Features font controls, image resize, tables, color picker, and more.",
+		"keywords": ["rich-text-editor", "tiptap", "react", "wysiwyg", "editor"],
+		"version": "1.2.0",
+		"discovery_hint": "npm:pi-extension",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

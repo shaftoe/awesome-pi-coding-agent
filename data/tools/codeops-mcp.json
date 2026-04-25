@@ -1,0 +1,36 @@
+{
+	"id": "codeops-mcp",
+	"name": "codeops-mcp",
+	"url": "https://www.npmjs.com/package/codeops-mcp",
+	"source": "npm-search",
+	"description": "MCP (Model Context Protocol) server providing AI coding agents with universal, language-agnostic development rules. Includes coding standards, testing workflows, git conventions, plan creation/execution protocols, and intelligent project analysis for auto",
+	"metadata": {
+		"github_url": "https://github.com/blendsdk/codeops-mcp",
+		"npm_name": "codeops-mcp",
+		"description": "MCP (Model Context Protocol) server providing AI coding agents with universal, language-agnostic development rules. Includes coding standards, testing workflows, git conventions, plan creation/execution protocols, and intelligent project analysis for auto",
+		"keywords": ["mcp", "model-context-protocol", "coding-standards", "ai-agent", "cline", "claude", "llm", "developer-tools", "code-quality", "testing", "git-workflow", "project-analysis", "implementation-plans", "best-practices"],
+		"version": "1.8.2",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-24T16:49:06Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 9,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

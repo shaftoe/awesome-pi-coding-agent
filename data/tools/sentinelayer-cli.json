@@ -1,0 +1,36 @@
+{
+	"id": "sentinelayer-cli",
+	"name": "sentinelayer-cli",
+	"url": "https://www.npmjs.com/package/sentinelayer-cli",
+	"source": "npm-search",
+	"description": "Scaffold Sentinelayer spec/prompt/guide artifacts with secure browser auth and token bootstrap.",
+	"metadata": {
+		"github_url": "https://github.com/mrrCarter/create-sentinelayer",
+		"npm_name": "sentinelayer-cli",
+		"description": "Scaffold Sentinelayer spec/prompt/guide artifacts with secure browser auth and token bootstrap.",
+		"keywords": ["sentinelayer", "sentinelayer-cli", "omar-gate", "security", "scaffold", "cli"],
+		"version": "0.8.0",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2026-04-24T09:31:01Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 139,
+			"theme": 0,
+			"provider": 16
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

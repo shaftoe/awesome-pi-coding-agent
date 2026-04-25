@@ -1,0 +1,21 @@
+{
+	"id": "@syngy/botworks-admin",
+	"name": "@syngy/botworks-admin",
+	"url": "https://www.npmjs.com/package/@syngy/botworks-admin",
+	"source": "npm-search",
+	"description": "Tenant admin CLI for BotWorks",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@syngy/botworks-admin",
+		"description": "Tenant admin CLI for BotWorks",
+		"keywords": [],
+		"version": "0.1.2",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

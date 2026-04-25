@@ -1,0 +1,21 @@
+{
+	"id": "@lark-apaas/coding-vite-preset",
+	"name": "@lark-apaas/coding-vite-preset",
+	"url": "https://www.npmjs.com/package/@lark-apaas/coding-vite-preset",
+	"source": "npm-search",
+	"description": "Vite 8 preset for OpenClaw projects",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@lark-apaas/coding-vite-preset",
+		"description": "Vite 8 preset for OpenClaw projects",
+		"keywords": ["openclaw", "vite", "presets"],
+		"version": "1.0.3",
+		"discovery_hint": "npm:pi-coding-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

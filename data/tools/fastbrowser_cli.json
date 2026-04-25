@@ -1,0 +1,21 @@
+{
+	"id": "fastbrowser_cli",
+	"name": "fastbrowser_cli",
+	"url": "https://www.npmjs.com/package/fastbrowser_cli",
+	"source": "npm-search",
+	"description": "Control a live Chrome browser from the command line: navigate, click, fill forms, and query the accessibility tree with CSS-like selectors.",
+	"metadata": {
+		"github_url": "https://github.com/jeromeetienne/skillmd_collecetion",
+		"npm_name": "fastbrowser_cli",
+		"description": "Control a live Chrome browser from the command line: navigate, click, fill forms, and query the accessibility tree with CSS-like selectors.",
+		"keywords": [],
+		"version": "1.0.14",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

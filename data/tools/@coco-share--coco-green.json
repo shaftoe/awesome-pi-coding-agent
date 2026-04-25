@@ -1,0 +1,36 @@
+{
+	"id": "@coco-share/coco-green",
+	"name": "@coco-share/coco-green",
+	"url": "https://www.npmjs.com/package/@coco-share/coco-green",
+	"source": "npm-search",
+	"description": "Share local Agent Skills over HTTP (coco-green server).",
+	"metadata": {
+		"github_url": "https://github.com/RikHe-2017/coco-share",
+		"npm_name": "@coco-share/coco-green",
+		"description": "Share local Agent Skills over HTTP (coco-green server).",
+		"keywords": ["agent", "skills", "claude-code", "cursor", "codex", "share", "cli", "server"],
+		"version": "1.1.3",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-17T06:32:37Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 6,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

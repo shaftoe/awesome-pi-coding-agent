@@ -1,0 +1,36 @@
+{
+	"id": "polydev-ai",
+	"name": "polydev-ai",
+	"url": "https://www.npmjs.com/package/polydev-ai",
+	"source": "npm-search",
+	"description": "Multi-model AI perspectives for coding agents - query GPT-5, Claude, Gemini, and Grok simultaneously through one MCP server",
+	"metadata": {
+		"github_url": "https://github.com/polydev-ai/perspectives-mcp",
+		"npm_name": "polydev-ai",
+		"description": "Multi-model AI perspectives for coding agents - query GPT-5, Claude, Gemini, and Grok simultaneously through one MCP server",
+		"keywords": ["mcp", "model-context-protocol", "ai", "claude", "openai", "perspectives", "cli", "agent", "assistant"],
+		"version": "1.10.25",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": null,
+		"license": "MIT",
+		"last_commit": "2026-01-29T20:38:50Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 16,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

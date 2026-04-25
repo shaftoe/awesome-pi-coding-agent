@@ -1,0 +1,21 @@
+{
+	"id": "auto-spec-generator",
+	"name": "auto-spec-generator",
+	"url": "https://www.npmjs.com/package/auto-spec-generator",
+	"source": "npm-search",
+	"description": "Generador de boilerplate para Spec Driven Development",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "auto-spec-generator",
+		"description": "Generador de boilerplate para Spec Driven Development",
+		"keywords": [],
+		"version": "3.1.0",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

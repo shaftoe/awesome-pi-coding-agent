@@ -1,0 +1,36 @@
+{
+	"id": "pi-slopchop",
+	"name": "pi-slopchop",
+	"url": "https://www.npmjs.com/package/pi-slopchop",
+	"source": "npm-search",
+	"description": "Terminal-native code review and annotation workflow for the Pi coding agent.",
+	"metadata": {
+		"github_url": "https://github.com/robzolkos/pi-slopchop",
+		"npm_name": "pi-slopchop",
+		"description": "Terminal-native code review and annotation workflow for the Pi coding agent.",
+		"keywords": ["pi-package", "pi", "diff-review", "code-review", "annotation", "terminal"],
+		"version": "0.0.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 5,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T19:32:12Z",
+		"topics": ["annotation-tool", "diff-review", "pi", "pi-coding-agent", "pi-extension", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

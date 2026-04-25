@@ -1,0 +1,21 @@
+{
+	"id": "@burtson-labs/bandit-stealth-cli",
+	"name": "@burtson-labs/bandit-stealth-cli",
+	"url": "https://www.npmjs.com/package/@burtson-labs/bandit-stealth-cli",
+	"source": "npm-search",
+	"description": "Bandit — a local-first AI coding agent for your terminal. Same runtime as the Bandit Stealth VS Code / Cursor extension.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@burtson-labs/bandit-stealth-cli",
+		"description": "Bandit — a local-first AI coding agent for your terminal. Same runtime as the Bandit Stealth VS Code / Cursor extension.",
+		"keywords": ["ai", "agent", "cli", "coding-agent", "llm", "ollama", "local-first", "bandit", "burtson-labs", "terminal", "repl", "developer-tools"],
+		"version": "1.7.50",
+		"discovery_hint": "npm:pi-coding-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

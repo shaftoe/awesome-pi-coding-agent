@@ -1,0 +1,36 @@
+{
+	"id": "@coding-flow/flow-types",
+	"name": "@coding-flow/flow-types",
+	"url": "https://www.npmjs.com/package/@coding-flow/flow-types",
+	"source": "npm-search",
+	"description": "flow-engine types",
+	"metadata": {
+		"github_url": "https://github.com/codingapi/flow-frontend",
+		"npm_name": "@coding-flow/flow-types",
+		"description": "flow-engine types",
+		"keywords": ["coding-flow", "flow-engine"],
+		"version": "0.0.26",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-22T03:11:02Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 8,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

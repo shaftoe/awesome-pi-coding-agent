@@ -1,0 +1,32 @@
+{
+	"id": "bradAGI-fi-gateway",
+	"name": "bradAGI-fi-gateway",
+	"url": "https://github.com/bradAGI/fi-gateway",
+	"source": "github-search",
+	"description": "Wire your coding agent to 300+ free LLMs. One endpoint, OpenAI + Anthropic shapes. Claude Code, opencode, pi-mono auto-configured.",
+	"metadata": {
+		"description": "Wire your coding agent to 300+ free LLMs. One endpoint, OpenAI + Anthropic shapes. Claude Code, opencode, pi-mono auto-configured.",
+		"stars": 1,
+		"forks": 0,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-25T07:35:40Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 15,
+			"theme": 0,
+			"provider": 18
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

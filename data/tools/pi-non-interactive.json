@@ -1,0 +1,36 @@
+{
+	"id": "pi-non-interactive",
+	"name": "pi-non-interactive",
+	"url": "https://www.npmjs.com/package/pi-non-interactive",
+	"source": "npm-search",
+	"description": "Prevent agent hangs on interactive commands — sets GIT_EDITOR=true, PAGER=cat, etc. for all bash executions",
+	"metadata": {
+		"github_url": "https://github.com/edmundmiller/dotfiles",
+		"npm_name": "pi-non-interactive",
+		"description": "Prevent agent hangs on interactive commands — sets GIT_EDITOR=true, PAGER=cat, etc. for all bash executions",
+		"keywords": ["pi", "pi-extension", "pi-package", "non-interactive", "pager", "git-editor"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 59,
+		"forks": 6,
+		"open_issues": 45,
+		"language": "DIGITAL Command Language",
+		"license": "MIT",
+		"last_commit": "2026-04-25T02:54:38Z",
+		"topics": ["dotfiles", "emacs", "nix-dotfiles", "nixos", "nixos-configuration", "vim", "zsh"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 1,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 76,
+		"level": "active"
+	},
+	"category": "tool"
+}

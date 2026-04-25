@@ -1,0 +1,32 @@
+{
+	"id": "XYenon-catppuccin-pi-coding-agent",
+	"name": "XYenon-catppuccin-pi-coding-agent",
+	"url": "https://github.com/XYenon/catppuccin-pi-coding-agent",
+	"source": "github-search",
+	"description": "🧁 Soothing pastel theme for pi",
+	"metadata": {
+		"description": "🧁 Soothing pastel theme for pi",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-24T12:05:31Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 6,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "theme"
+}

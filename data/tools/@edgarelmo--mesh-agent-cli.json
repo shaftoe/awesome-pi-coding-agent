@@ -1,0 +1,21 @@
+{
+	"id": "@edgarelmo/mesh-agent-cli",
+	"name": "@edgarelmo/mesh-agent-cli",
+	"url": "https://www.npmjs.com/package/@edgarelmo/mesh-agent-cli",
+	"source": "npm-search",
+	"description": "Mesh terminal agent CLI. Zero-config: ships with a shared Mesh LLM proxy so no AWS credentials are needed.",
+	"metadata": {
+		"github_url": "https://github.com/dreddi-edit/mesh-agent-cli",
+		"npm_name": "@edgarelmo/mesh-agent-cli",
+		"description": "Mesh terminal agent CLI. Zero-config: ships with a shared Mesh LLM proxy so no AWS credentials are needed.",
+		"keywords": [],
+		"version": "0.2.88",
+		"discovery_hint": "npm:pi-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

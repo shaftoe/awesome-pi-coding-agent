@@ -1,0 +1,36 @@
+{
+	"id": "@morsa/guidance-bank",
+	"name": "@morsa/guidance-bank",
+	"url": "https://www.npmjs.com/package/@morsa/guidance-bank",
+	"source": "npm-search",
+	"description": "Persistent rules, skills, and reusable guidance for coding agents.",
+	"metadata": {
+		"github_url": "https://github.com/morsa-dev/guidance-bank",
+		"npm_name": "@morsa/guidance-bank",
+		"description": "Persistent rules, skills, and reusable guidance for coding agents.",
+		"keywords": ["guidance-bank", "guidancebank", "agent-guidance", "rules", "skills", "mcp", "runtime", "local-runtime", "ai"],
+		"version": "0.2.2",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T14:40:50Z",
+		"topics": ["ai", "claude-code", "codex", "coding-agents", "cursor", "developer-tools", "memory", "memory-bank", "memory-management", "prompt-engineering"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.morsa.io",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 11
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

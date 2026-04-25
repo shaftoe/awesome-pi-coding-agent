@@ -1,0 +1,36 @@
+{
+	"id": "pi-treex",
+	"name": "pi-treex",
+	"url": "https://www.npmjs.com/package/pi-treex",
+	"source": "npm-search",
+	"description": "Enhances pi's native /tree with sticky-left view and a detail pane",
+	"metadata": {
+		"github_url": "https://github.com/travisp/pi-treex",
+		"npm_name": "pi-treex",
+		"description": "Enhances pi's native /tree with sticky-left view and a detail pane",
+		"keywords": ["pi-package", "pi", "pi-extension", "tree", "treex"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T14:57:43Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

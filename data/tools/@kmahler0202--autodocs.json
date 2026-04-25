@@ -1,0 +1,36 @@
+{
+	"id": "@kmahler0202/autodocs",
+	"name": "@kmahler0202/autodocs",
+	"url": "https://www.npmjs.com/package/@kmahler0202/autodocs",
+	"source": "npm-search",
+	"description": "Self-maintaining MCP documentation servers for AI coding agents",
+	"metadata": {
+		"github_url": "https://github.com/kmahler0202/autodocs",
+		"npm_name": "@kmahler0202/autodocs",
+		"description": "Self-maintaining MCP documentation servers for AI coding agents",
+		"keywords": ["mcp", "documentation", "claude", "ai", "claude-code", "anthropic"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-10T20:49:15Z",
+		"topics": ["ai", "claude", "claude-code", "documentation", "documentation-generator", "documentation-mcp", "documentation-tool", "github-actions", "mcp"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

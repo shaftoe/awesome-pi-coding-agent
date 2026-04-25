@@ -1,0 +1,36 @@
+{
+	"id": "@gregjohnso/pi-monitor",
+	"name": "@gregjohnso/pi-monitor",
+	"url": "https://www.npmjs.com/package/@gregjohnso/pi-monitor",
+	"source": "npm-search",
+	"description": "Background shell command runner for the pi coding agent. Each stdout line becomes a live TUI event and enters the LLM's next turn as context.",
+	"metadata": {
+		"github_url": "https://github.com/gregjohnso/pi-monitor",
+		"npm_name": "@gregjohnso/pi-monitor",
+		"description": "Background shell command runner for the pi coding agent. Each stdout line becomes a live TUI event and enters the LLM's next turn as context.",
+		"keywords": ["pi-package", "pi-extension", "pi-mono", "monitor", "background", "tail", "watch", "agent", "llm"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T19:18:28Z",
+		"topics": ["cli", "coding-agent", "llm", "monitor", "pi-extension", "pi-mono", "pi-package", "terminal"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/gregjohnso/pi-monitor",
+		"_readme_category_scores": {
+			"extension": 13,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

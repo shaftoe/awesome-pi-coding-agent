@@ -1,0 +1,36 @@
+{
+	"id": "keyquill-relay",
+	"name": "keyquill-relay",
+	"url": "https://www.npmjs.com/package/keyquill-relay",
+	"source": "npm-search",
+	"description": "Zero-knowledge E2E encrypted WebSocket relay for pairing a browser with a mobile LLM wallet. Ships a browser client, a Cloudflare Durable Object, and a Hono route factory.",
+	"metadata": {
+		"github_url": "https://github.com/R-Okauchi/keyquill",
+		"npm_name": "keyquill-relay",
+		"description": "Zero-knowledge E2E encrypted WebSocket relay for pairing a browser with a mobile LLM wallet. Ships a browser client, a Cloudflare Durable Object, and a Hono route factory.",
+		"keywords": ["llm", "keyquill", "phone-wallet-relay", "e2e-encryption", "ecdh", "websocket", "cloudflare-workers", "durable-objects", "byok"],
+		"version": "3.0.0",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T03:28:06Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://r-okauchi.github.io/keyquill/",
+		"_readme_category_scores": {
+			"extension": 9,
+			"tool": 1,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

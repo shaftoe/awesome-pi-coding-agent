@@ -1,0 +1,36 @@
+{
+	"id": "@b9g/skillpack",
+	"name": "@b9g/skillpack",
+	"url": "https://www.npmjs.com/package/@b9g/skillpack",
+	"source": "npm-search",
+	"description": "Build Agent Skills from your existing docs",
+	"metadata": {
+		"github_url": "https://github.com/bikeshaving/skillpack",
+		"npm_name": "@b9g/skillpack",
+		"description": "Build Agent Skills from your existing docs",
+		"keywords": ["agent-skills", "claude", "skill", "markdown", "pack"],
+		"version": "0.1.6",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-02-27T23:05:20Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

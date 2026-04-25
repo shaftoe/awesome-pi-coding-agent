@@ -1,0 +1,36 @@
+{
+	"id": "kyos-cli",
+	"name": "kyos-cli",
+	"url": "https://www.npmjs.com/package/kyos-cli",
+	"source": "npm-search",
+	"description": "Bootstrap and safely evolve a shared Claude Code repo structure.",
+	"metadata": {
+		"github_url": "https://github.com/ajesskit/kyos",
+		"npm_name": "kyos-cli",
+		"description": "Bootstrap and safely evolve a shared Claude Code repo structure.",
+		"keywords": ["claude", "bootstrap", "cli", "kyos", "mcp"],
+		"version": "0.2.12",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T21:51:56Z",
+		"topics": ["ai", "claude", "cli", "kyos"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 36,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

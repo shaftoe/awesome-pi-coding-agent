@@ -1,0 +1,36 @@
+{
+	"id": "@origintrail-official/dkg-mcp",
+	"name": "@origintrail-official/dkg-mcp",
+	"url": "https://www.npmjs.com/package/@origintrail-official/dkg-mcp",
+	"source": "npm-search",
+	"description": "MCP server that exposes the local DKG daemon (projects, sub-graphs, activity, chat) to Cursor, Claude Code, and any other MCP-aware coding assistant.",
+	"metadata": {
+		"github_url": "https://github.com/OriginTrail/dkg-v9",
+		"npm_name": "@origintrail-official/dkg-mcp",
+		"description": "MCP server that exposes the local DKG daemon (projects, sub-graphs, activity, chat) to Cursor, Claude Code, and any other MCP-aware coding assistant.",
+		"keywords": ["dkg", "mcp", "model-context-protocol", "cursor", "claude-code", "origintrail"],
+		"version": "0.1.0-dev.1777063251.d6f9aa4",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 29,
+		"forks": 5,
+		"open_issues": 106,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-25T00:04:57Z",
+		"topics": ["ai-memory", "decentralized", "dkg", "ethereum", "graph", "graph-rag", "knowledge", "knowledge-graph", "origintrail"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://origintrail.io",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 24,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "tool"
+}

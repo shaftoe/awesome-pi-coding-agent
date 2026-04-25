@@ -1,0 +1,32 @@
+{
+	"id": "SebasAren-Sebbashop",
+	"name": "SebasAren-Sebbashop",
+	"url": "https://github.com/SebasAren/Sebbashop",
+	"source": "github-search",
+	"description": "AI-augmented development environment, GNU Stow configs, 20+ Pi agent extensions, Neovim,  tmux, and a custom toolchain for Linux workstations.",
+	"metadata": {
+		"description": "AI-augmented development environment, GNU Stow configs, 20+ Pi agent extensions, Neovim,  tmux, and a custom toolchain for Linux workstations.",
+		"stars": 2,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"discovery_hint": "github:pi-agent extension",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-25T02:29:34Z",
+		"_readme_category_scores": {
+			"extension": 31,
+			"tool": 13,
+			"theme": 2,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

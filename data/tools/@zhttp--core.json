@@ -1,0 +1,31 @@
+{
+	"id": "@zhttp/core",
+	"name": "@zhttp/core",
+	"url": "https://www.npmjs.com/package/@zhttp/core",
+	"source": "npm-search",
+	"description": "A minimal, strongly typed HTTP library with Zod validation",
+	"metadata": {
+		"github_url": "https://github.com/evertdespiegeleer/zhttp",
+		"npm_name": "@zhttp/core",
+		"description": "A minimal, strongly typed HTTP library with Zod validation",
+		"keywords": [],
+		"version": "2.0.2",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 80,
+		"forks": 3,
+		"open_issues": 12,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-24T15:27:17Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://zhttp.evertdespiegeleer.com/",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 78,
+		"level": "active"
+	},
+	"category": "tool"
+}

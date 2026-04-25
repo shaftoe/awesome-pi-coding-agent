@@ -1,0 +1,31 @@
+{
+	"id": "@feniix/pi-code-reasoning",
+	"name": "@feniix/pi-code-reasoning",
+	"url": "https://www.npmjs.com/package/@feniix/pi-code-reasoning",
+	"source": "npm-search",
+	"description": "Code Reasoning extension for pi — reflective problem-solving through sequential thinking with branching and revision support",
+	"metadata": {
+		"github_url": "https://github.com/feniix/pi-extensions",
+		"npm_name": "@feniix/pi-code-reasoning",
+		"description": "Code Reasoning extension for pi — reflective problem-solving through sequential thinking with branching and revision support",
+		"keywords": ["pi", "pi-package", "pi-extension", "pi-coding-agent", "ai", "code-reasoning", "sequential-thinking", "branching", "revision", "problem-solving"],
+		"version": "2.1.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 4,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-25T07:13:57Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

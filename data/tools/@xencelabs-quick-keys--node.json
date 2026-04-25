@@ -1,0 +1,36 @@
+{
+	"id": "@xencelabs-quick-keys/node",
+	"name": "@xencelabs-quick-keys/node",
+	"url": "https://www.npmjs.com/package/@xencelabs-quick-keys/node",
+	"source": "npm-search",
+	"description": "An npm module for interfacing with the Xencelabs Quick Keys in node",
+	"metadata": {
+		"github_url": "https://github.com/julusian/node-xencelabs-quick-keys",
+		"npm_name": "@xencelabs-quick-keys/node",
+		"description": "An npm module for interfacing with the Xencelabs Quick Keys in node",
+		"keywords": ["xencelabs", "quick-keys", "quickkeys", "hid", "usb", "hardware", "interface", "controller"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 41,
+		"forks": 3,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-03-30T08:29:54Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/org/xencelabs-quick-keys",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 74,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "shivemind-cust-nfl-monorepo-pipeline",
+	"name": "shivemind-cust-nfl-monorepo-pipeline",
+	"url": "https://github.com/shivemind/cust-nfl-monorepo-pipeline",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 0,
+		"forks": 0,
+		"language": "JavaScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:pi-mono",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-25T00:56:45Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 14,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

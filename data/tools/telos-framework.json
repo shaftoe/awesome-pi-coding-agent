@@ -1,0 +1,36 @@
+{
+	"id": "telos-framework",
+	"name": "telos-framework",
+	"url": "https://www.npmjs.com/package/telos-framework",
+	"source": "npm-search",
+	"description": "Telos-driven Multi-Agent Development Framework - A philosophically-grounded AI collective for purpose-aligned software development",
+	"metadata": {
+		"github_url": "https://github.com/telos-framework/init",
+		"npm_name": "telos-framework",
+		"description": "Telos-driven Multi-Agent Development Framework - A philosophically-grounded AI collective for purpose-aligned software development",
+		"keywords": ["ai", "agents", "development", "telos", "philosophy", "multi-agent", "spec-driven", "openspec", "claude", "cursor", "copilot", "orchestrator", "claude-code-plugin", "slash-commands", "ai-native"],
+		"version": "0.10.1",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-01-02T17:06:24Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

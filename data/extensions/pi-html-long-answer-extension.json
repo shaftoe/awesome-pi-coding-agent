@@ -1,0 +1,36 @@
+{
+	"id": "pi-html-long-answer-extension",
+	"name": "pi-html-long-answer-extension",
+	"url": "https://www.npmjs.com/package/pi-html-long-answer-extension",
+	"source": "npm-search",
+	"description": "Long-answer HTML export extension for Oh My Pi and Pi.",
+	"metadata": {
+		"github_url": "https://github.com/zakelfassi/pi-html-long-answer-extension",
+		"npm_name": "pi-html-long-answer-extension",
+		"description": "Long-answer HTML export extension for Oh My Pi and Pi.",
+		"keywords": ["oh-my-pi", "omp", "pi", "extension", "html", "export", "gemini", "long-answer", "html-export", "pi-extension", "pi-package"],
+		"version": "0.2.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2026-04-25T05:14:16Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 26,
+			"tool": 7,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

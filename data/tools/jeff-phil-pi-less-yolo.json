@@ -1,0 +1,32 @@
+{
+	"id": "jeff-phil-pi-less-yolo",
+	"name": "jeff-phil-pi-less-yolo",
+	"url": "https://github.com/jeff-phil/pi-less-yolo",
+	"source": "github-search",
+	"description": "Slightly less YOLO version of pi-coding-agent in Docker container sandbox",
+	"metadata": {
+		"description": "Slightly less YOLO version of pi-coding-agent in Docker container sandbox",
+		"stars": 0,
+		"forks": 0,
+		"language": "Shell",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-24T22:57:20Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 8,
+			"theme": 0,
+			"provider": 7
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

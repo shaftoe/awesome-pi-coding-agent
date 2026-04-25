@@ -1,0 +1,36 @@
+{
+	"id": "@ogulcancelik/pi-ssh-tools",
+	"name": "@ogulcancelik/pi-ssh-tools",
+	"url": "https://www.npmjs.com/package/@ogulcancelik/pi-ssh-tools",
+	"source": "npm-search",
+	"description": "Explicit SSH tools for pi. Toggle /ssh on for a host, then use ssh_read, ssh_write, ssh_edit, and ssh_bash without replacing local tools.",
+	"metadata": {
+		"github_url": "https://github.com/ogulcancelik/pi-extensions",
+		"npm_name": "@ogulcancelik/pi-ssh-tools",
+		"description": "Explicit SSH tools for pi. Toggle /ssh on for a host, then use ssh_read, ssh_write, ssh_edit, and ssh_bash without replacing local tools.",
+		"keywords": ["pi-package", "pi-extension", "ssh", "remote", "tailscale", "macos", "vps", "coding-agent"],
+		"version": "0.1.2",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 64,
+		"forks": 14,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-25T01:29:52Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 3,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 76,
+		"level": "active"
+	},
+	"category": "theme"
+}

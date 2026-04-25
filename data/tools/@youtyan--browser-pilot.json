@@ -1,0 +1,21 @@
+{
+	"id": "@youtyan/browser-pilot",
+	"name": "@youtyan/browser-pilot",
+	"url": "https://www.npmjs.com/package/@youtyan/browser-pilot",
+	"source": "npm-search",
+	"description": "Browser automation MCP server for Claude Code — control Chrome via natural language",
+	"metadata": {
+		"github_url": "https://github.com/youtyan/browser-pilot",
+		"npm_name": "@youtyan/browser-pilot",
+		"description": "Browser automation MCP server for Claude Code — control Chrome via natural language",
+		"keywords": ["mcp", "browser", "automation", "chrome", "claude-code", "model-context-protocol", "agent-skills"],
+		"version": "2.12.1",
+		"discovery_hint": "npm:pi-extension",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

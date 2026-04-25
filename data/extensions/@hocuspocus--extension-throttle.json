@@ -1,0 +1,36 @@
+{
+	"id": "@hocuspocus/extension-throttle",
+	"name": "@hocuspocus/extension-throttle",
+	"url": "https://www.npmjs.com/package/@hocuspocus/extension-throttle",
+	"source": "npm-search",
+	"description": "hocuspocus throttle extension",
+	"metadata": {
+		"github_url": "https://github.com/ueberdosis/hocuspocus",
+		"npm_name": "@hocuspocus/extension-throttle",
+		"description": "hocuspocus throttle extension",
+		"keywords": ["hocuspocus", "throttle", "yjs"],
+		"version": "4.0.0",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 2235,
+		"forks": 191,
+		"open_issues": 18,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-23T11:22:59Z",
+		"topics": ["collaborative-editing", "crdt", "prosemirror", "real-time", "self-hosted", "slatejs", "tiptap", "yjs"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://tiptap.dev/docs/hocuspocus/introduction",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "pi-agent-bus",
+	"name": "pi-agent-bus",
+	"url": "https://www.npmjs.com/package/pi-agent-bus",
+	"source": "npm-search",
+	"description": "Pi Extension bridging pi-agent-bus-node agents with pi.tools and pi-link. Includes the core MessageBus, Agent, and TaskQueue runtime.",
+	"metadata": {
+		"github_url": "https://github.com/kylebrodeur/pi-agent-bus",
+		"npm_name": "pi-agent-bus",
+		"description": "Pi Extension bridging pi-agent-bus-node agents with pi.tools and pi-link. Includes the core MessageBus, Agent, and TaskQueue runtime.",
+		"keywords": ["pi-package", "pi-extension", "pi-agent", "agent", "orchestration", "coordination", "messaging", "pubsub", "bus", "event-driven"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T22:49:22Z",
+		"topics": ["agent-orchestration", "ai-agents", "message-bus", "multi-agent", "pi-agent", "pi-extension", "pubsub", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/kylebrodeur/pi-agent-bus#readme",
+		"_readme_category_scores": {
+			"extension": 22,
+			"tool": 1,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

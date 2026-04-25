@@ -1,0 +1,21 @@
+{
+	"id": "pi-llama-server",
+	"name": "pi-llama-server",
+	"url": "https://www.npmjs.com/package/pi-llama-server",
+	"source": "npm-search",
+	"description": "Pi extension for llama-server router — live model listing, load/unload, per-project config",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-llama-server",
+		"description": "Pi extension for llama-server router — live model listing, load/unload, per-project config",
+		"keywords": ["pi-package", "llama.cpp", "llama-server"],
+		"version": "1.0.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

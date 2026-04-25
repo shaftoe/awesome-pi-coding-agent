@@ -1,0 +1,21 @@
+{
+	"id": "@lythos/skill-curator",
+	"name": "@lythos/skill-curator",
+	"url": "https://www.npmjs.com/package/@lythos/skill-curator",
+	"source": "npm-search",
+	"description": "Skill Curator — read-only observer for skill cold pools. Scans and indexes; recommendation is agent-side LLM reasoning.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@lythos/skill-curator",
+		"description": "Skill Curator — read-only observer for skill cold pools. Scans and indexes; recommendation is agent-side LLM reasoning.",
+		"keywords": [],
+		"version": "0.2.2",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

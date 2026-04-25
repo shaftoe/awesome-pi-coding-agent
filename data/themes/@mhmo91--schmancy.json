@@ -1,0 +1,36 @@
+{
+	"id": "@mhmo91/schmancy",
+	"name": "@mhmo91/schmancy",
+	"url": "https://www.npmjs.com/package/@mhmo91/schmancy",
+	"source": "npm-search",
+	"description": "UI library build with web components",
+	"metadata": {
+		"github_url": "https://github.com/samwaai/schmancy",
+		"npm_name": "@mhmo91/schmancy",
+		"description": "UI library build with web components",
+		"keywords": ["lit", "UI", "Schmancy", "agent-runtime", "esm", "sandbox", "web-components"],
+		"version": "0.9.22",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 1,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-24T15:24:52Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://schmancy.netlify.app/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 8,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "theme"
+}

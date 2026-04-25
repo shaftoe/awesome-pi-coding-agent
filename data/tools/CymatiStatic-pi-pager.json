@@ -1,0 +1,32 @@
+{
+	"id": "CymatiStatic-pi-pager",
+	"name": "CymatiStatic-pi-pager",
+	"url": "https://github.com/CymatiStatic/pi-pager",
+	"source": "github-search",
+	"description": "pi-pager: cross-channel pager for agentic AI workflows. Sound + Windows toast + phone/watch (ntfy) + Discord/Slack/Telegram/Pushover. Auto-tags by git repo, multi-instance routing.",
+	"metadata": {
+		"description": "pi-pager: cross-channel pager for agentic AI workflows. Sound + Windows toast + phone/watch (ntfy) + Discord/Slack/Telegram/Pushover. Auto-tags by git repo, multi-instance routing.",
+		"stars": 0,
+		"forks": 0,
+		"language": "PowerShell",
+		"topics": ["agentic-ai", "burnttoast", "claude-code", "coding-agent", "cursor", "cursor-ai", "notifications", "ntfy", "ntfy-sh", "pi-agent", "pi-coding-agent", "pi-package", "powershell", "webhook", "windows"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/CymatiStatic/pi-pager",
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-25T05:21:17Z",
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 7,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,21 @@
+{
+	"id": "@andrew99/asp",
+	"name": "@andrew99/asp",
+	"url": "https://www.npmjs.com/package/@andrew99/asp",
+	"source": "npm-search",
+	"description": "A modular superpower skills extension for gemini-cli with the asp category installer.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@andrew99/asp",
+		"description": "A modular superpower skills extension for gemini-cli with the asp category installer.",
+		"keywords": [],
+		"version": "0.1.0",
+		"discovery_hint": "npm:pi-coding-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

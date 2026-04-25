@@ -1,0 +1,27 @@
+{
+	"id": "despin-pi-venice-web",
+	"name": "despin-pi-venice-web",
+	"url": "https://github.com/despin/pi-venice-web",
+	"source": "github-search",
+	"description": "Venice.ai Web (Subscription) provider for Pi coding agent",
+	"metadata": {
+		"description": "Venice.ai Web (Subscription) provider for Pi coding agent",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-25T05:59:08Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}
