@@ -6,6 +6,7 @@
  */
 
 import type { DiscoveryCandidate, EntrySource } from "../lib/types.ts";
+import { earlyReject } from "./filter.ts";
 
 // ─── Logging (stderr, no Biome complaints) ─────────────────────────────────────
 
@@ -185,6 +186,15 @@ export class QueryDiscoverer implements Discoverer {
 				stats.fetched = results.length;
 
 				for (const r of results) {
+					// Early rejection: drop obviously-irrelevant results
+					// (blacklisted URLs, blocked scopes/names) before creating
+					// full candidate objects. Auto-blacklists new rejections.
+					const early = earlyReject({
+						url: r.url,
+						...(r.metadata ? { metadata: r.metadata } : {}),
+					});
+					if (early !== null) continue;
+
 					const candidate: DiscoveryCandidate = {
 						url: r.url,
 						source: this.source,

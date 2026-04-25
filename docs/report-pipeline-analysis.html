@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pipeline Analysis — Awesome Pi Coding Agent</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.6;
+      color: #1a1a2e;
+      background: #f8f9fa;
+      padding: 0 0 4rem 0;
+    }
+    .container { max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem; }
+    header {
+      background: linear-gradient(135deg, #1a1a2e, #16213e);
+      color: #fff;
+      padding: 3rem 1.5rem;
+      text-align: center;
+    }
+    header h1 { font-size: 2rem; margin-bottom: .25rem; }
+    header p.meta { opacity: .7; font-size: .9rem; }
+    .toc {
+      background: #fff;
+      border: 1px solid #e9ecef;
+      border-radius: 8px;
+      padding: 1.5rem 2rem;
+      margin: 2rem 0;
+    }
+    .toc h2 { font-size: 1.1rem; margin-bottom: .75rem; color: #495057; }
+    .toc ol { padding-left: 1.25rem; }
+    .toc li { margin-bottom: .35rem; }
+    .toc a { color: #0d6efd; text-decoration: none; }
+    .toc a:hover { text-decoration: underline; }
+    section { margin: 2rem 0; }
+    section h2 {
+      font-size: 1.4rem;
+      padding-bottom: .5rem;
+      border-bottom: 2px solid #e9ecef;
+      margin-bottom: 1rem;
+      color: #1a1a2e;
+    }
+    section h3 { font-size: 1.15rem; margin: 1.25rem 0 .5rem; color: #343a40; }
+    .card {
+      background: #fff;
+      border: 1px solid #e9ecef;
+      border-radius: 8px;
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 1rem;
+    }
+    table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+    th, td { padding: .65rem 1rem; text-align: left; border-bottom: 1px solid #dee2e6; }
+    th { background: #f1f3f5; font-weight: 600; font-size: .85rem; text-transform: uppercase; letter-spacing: .03em; }
+    tr:hover td { background: #f8f9fa; }
+    .badge {
+      display: inline-block;
+      padding: .15rem .6rem;
+      border-radius: 999px;
+      font-size: .75rem;
+      font-weight: 600;
+      vertical-align: middle;
+    }
+    .badge-green  { background: #d3f9d8; color: #2b8a3e; }
+    .badge-yellow { background: #fff3bf; color: #e67700; }
+    .badge-red    { background: #ffe3e3; color: #c92a2a; }
+    .badge-blue   { background: #d0ebff; color: #1864ab; }
+    .badge-purple { background: #e5dbff; color: #6741d9; }
+    .badge-gray   { background: #e9ecef; color: #495057; }
+    .callout {
+      padding: 1rem 1.25rem;
+      border-radius: 8px;
+      margin: 1rem 0;
+      border-left: 4px solid;
+    }
+    .callout-info    { background: #e7f5ff; border-color: #339af0; }
+    .callout-warn    { background: #fff9db; border-color: #fcc419; }
+    .callout-success { background: #ebfbee; border-color: #51cf66; }
+    .callout-danger  { background: #fff5f5; border-color: #ff6b6b; }
+    code {
+      background: #f1f3f5;
+      padding: .15em .4em;
+      border-radius: 4px;
+      font-size: .88em;
+    }
+    pre {
+      background: #1a1a2e;
+      color: #e9ecef;
+      padding: 1.25rem;
+      border-radius: 8px;
+      overflow-x: auto;
+      margin: 1rem 0;
+      font-size: .88rem;
+      line-height: 1.5;
+    }
+    .bar-chart { display: flex; flex-direction: column; gap: .5rem; margin: 1rem 0; }
+    .bar-row { display: flex; align-items: center; gap: .75rem; }
+    .bar-label { width: 140px; font-size: .85rem; text-align: right; flex-shrink: 0; }
+    .bar-track { flex: 1; background: #e9ecef; border-radius: 4px; height: 24px; overflow: hidden; }
+    .bar-fill  { height: 100%; border-radius: 4px; transition: width .3s ease; display: flex; align-items: center; padding-left: 8px; font-size: .75rem; font-weight: 600; color: #fff; }
+    .metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; margin: 1.5rem 0; }
+    .metric-card {
+      background: #fff;
+      border: 1px solid #e9ecef;
+      border-radius: 8px;
+      padding: 1.25rem;
+      text-align: center;
+    }
+    .metric-value { font-size: 2rem; font-weight: 700; color: #1a1a2e; }
+    .metric-label { font-size: .85rem; color: #6c757d; margin-top: .25rem; }
+    .findings-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1rem 0; }
+    @media (max-width: 700px) { .findings-grid { grid-template-columns: 1fr; } }
+    .finding-card {
+      background: #fff;
+      border: 1px solid #e9ecef;
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+    }
+    .finding-card h4 { font-size: .95rem; margin-bottom: .4rem; }
+    .finding-card p { font-size: .85rem; color: #495057; }
+    .file-tree { font-family: 'SF Mono', Menlo, monospace; font-size: .82rem; line-height: 1.7; }
+    .file-tree .dir { color: #1864ab; font-weight: 600; }
+    .file-tree .file { color: #495057; }
+    .file-tree .size { color: #868e96; font-size: .78rem; }
+    ul.checklist { list-style: none; padding-left: 0; }
+    ul.checklist li { padding: .35rem 0; font-size: .9rem; }
+    ul.checklist li::before { margin-right: .5rem; }
+    ul.plain { padding-left: 1.25rem; }
+    ul.plain li { padding: .25rem 0; font-size: .9rem; }
+    @media print {
+      body { background: #fff; }
+      header { background: #1a1a2e; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+      .toc, .card { break-inside: avoid; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🔬 Pipeline Analysis Report</h1>
+    <p class="meta">awesome-pi-coding-agent · Generated 2026-04-24</p>
+  </header>
+
+  <div class="container">
+
+    <!-- TOC -->
+    <nav class="toc">
+      <h2>Table of Contents</h2>
+      <ol>
+        <li><a href="#overview">Executive Overview</a></li>
+        <li><a href="#metrics">Key Metrics</a></li>
+        <li><a href="#architecture">Architecture Deep-Dive</a></li>
+        <li><a href="#discover">Stage 1: Discovery</a></li>
+        <li><a href="#enrich">Stage 2: Enrichment</a></li>
+        <li><a href="#generate">Stage 3: Generation</a></li>
+        <li><a href="#quality">Code Quality & Testing</a></li>
+        <li><a href="#ci">CI/CD Pipeline</a></li>
+        <li><a href="#findings">Findings & Recommendations</a></li>
+        <li><a href="#refactoring">Suggested Refactoring Priorities</a></li>
+      </ol>
+    </nav>
+
+    <!-- 1. Executive Overview -->
+    <section id="overview">
+      <h2>1. Executive Overview</h2>
+      <div class="callout callout-success">
+        <strong>Verdict:</strong> The pipeline is well-architected, production-quality, and handles its core job effectively. The three-stage design (discover → enrich → generate) is clean and maintainable. Below are targeted areas for refinement.
+      </div>
+      <p>
+        The <strong>awesome-pi-coding-agent</strong> project is a 3-stage data pipeline written in TypeScript/Bun that automatically discovers, classifies, and renders a curated list of resources for the Pi Coding Agent ecosystem. It sources from npm, GitHub, and YouTube; applies multi-layer relevance filtering; enriches with GitHub metadata and README analysis; and outputs a formatted awesome-list README.
+      </p>
+      <div class="card">
+        <h3>Source Layout Summary</h3>
+        <div class="file-tree">
+          <span class="dir">src/</span><br>
+          &nbsp;&nbsp;<span class="dir">discover/</span> — <span class="size">5 files, ~1,321 LOC</span> — Find candidates via search APIs<br>
+          &nbsp;&nbsp;<span class="dir">enrich/</span>&nbsp;&nbsp; — <span class="size">5 files, ~644 LOC</span> — Metadata, classification, health<br>
+          &nbsp;&nbsp;<span class="dir">generate/</span> — <span class="size">1 file, 272 LOC</span> — README.md rendering<br>
+          &nbsp;&nbsp;<span class="dir">lib/</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — <span class="size">8 files, ~871 LOC</span> — Shared utilities (store, types, dedup, cache…)<br>
+          &nbsp;&nbsp;<span class="dir">ci/</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — <span class="size">2 files, 81 LOC</span> — PR creation, change detection<br>
+          &nbsp;&nbsp;<span class="file">index.ts</span>&nbsp;&nbsp; — <span class="size">349 LOC</span> — CLI entry point &amp; command routing<br>
+        </div>
+        <p style="margin-top:.5rem; font-size:.85rem; color:#868e96;">
+          Total: ~4,031 LOC (production) + ~1,911 LOC (tests) across 26 source files
+        </p>
+      </div>
+    </section>
+
+    <!-- 2. Key Metrics -->
+    <section id="metrics">
+      <h2>2. Key Metrics</h2>
+      <div class="metrics">
+        <div class="metric-card">
+          <div class="metric-value">2,662</div>
+          <div class="metric-label">Total Entries</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-value">15,380</div>
+          <div class="metric-label">Blacklisted URLs</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-value">4</div>
+          <div class="metric-label">Discovery Sources</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-value">6</div>
+          <div class="metric-label">Active Categories</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-value">74%</div>
+          <div class="metric-label">GitHub Enriched</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-value">96%</div>
+          <div class="metric-label">Have Description</div>
+        </div>
+      </div>
+
+      <h3>Category Distribution</h3>
+      <div class="bar-chart">
+        <div class="bar-row">
+          <span class="bar-label">Extension</span>
+          <div class="bar-track"><div class="bar-fill" style="width:44%; background:#339af0;">1,171 (44%)</div></div>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">Tool</span>
+          <div class="bar-track"><div class="bar-fill" style="width:37%; background:#51cf66;">985 (37%)</div></div>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">Provider</span>
+          <div class="bar-track"><div class="bar-fill" style="width:9.3%; background:#fcc419; color:#1a1a2e;">247 (9%)</div></div>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">Theme</span>
+          <div class="bar-track"><div class="bar-fill" style="width:4.8%; background:#6741d9;">129 (5%)</div></div>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">Video</span>
+          <div class="bar-track"><div class="bar-fill" style="width:4.3%; background:#ff6b6b;">114 (4%)</div></div>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">Template</span>
+          <div class="bar-track"><div class="bar-fill" style="width:0.6%; background:#868e96; min-width:40px;">16 (1%)</div></div>
+        </div>
+      </div>
+
+      <h3>Health Distribution</h3>
+      <div class="bar-chart">
+        <div class="bar-row">
+          <span class="bar-label">🟢 Active</span>
+          <div class="bar-track"><div class="bar-fill" style="width:52.1%; background:#2b8a3e;">1,387 (52%)</div></div>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">🟡 Maintained</span>
+          <div class="bar-track"><div class="bar-fill" style="width:46%; background:#e67700;">1,224 (46%)</div></div>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">🟠 Stale</span>
+          <div class="bar-track"><div class="bar-fill" style="width:1.5%; background:#f76707; min-width:40px;">40 (2%)</div></div>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">🔴 Dead</span>
+          <div class="bar-track"><div class="bar-fill" style="width:0.4%; background:#c92a2a; min-width:30px;">11</div></div>
+        </div>
+      </div>
+
+      <h3>Source Distribution</h3>
+      <div class="bar-chart">
+        <div class="bar-row">
+          <span class="bar-label">npm-search</span>
+          <div class="bar-track"><div class="bar-fill" style="width:59.6%; background:#339af0;">1,587 (60%)</div></div>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">github-search</span>
+          <div class="bar-track"><div class="bar-fill" style="width:36.1%; background:#6741d9;">961 (36%)</div></div>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">youtube-search</span>
+          <div class="bar-track"><div class="bar-fill" style="width:4.3%; background:#ff6b6b;">114 (4%)</div></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 3. Architecture -->
+    <section id="architecture">
+      <h2>3. Architecture Deep-Dive</h2>
+
+      <h3>3.1 Pipeline Flow</h3>
+      <div class="card">
+        <pre><code>┌─────────────────────────────────────────────────────────────────────┐
+│                         CLI (index.ts)                              │
+│   discover | enrich | generate | pipeline | prune | dedup | help   │
+└──────┬──────────────────┬─────────────────────┬─────────────────────┘
+       │                  │                     │
+       ▼                  ▼                     ▼
+┌──────────────┐  ┌──────────────┐  ┌──────────────────┐
+│  DISCOVER    │  │   ENRICH     │  │    GENERATE      │
+│              │  │              │  │                  │
+│ npm ─────────┤  │ GitHub meta  │  │ README.md       │
+│ GitHub ──────┤─▶│ README scan  │─▶│ (table format)  │
+│ YouTube ─────┤  │ Classify     │  │                  │
+│ pi-mono-deps │  │ Health score │  │                  │
+│              │  │ Video enrich │  │                  │
+└──────┬───────┘  └──────────────┘  └──────────────────┘
+       │
+       ▼
+  ┌──────────┐    ┌──────────┐    ┌──────────┐
+  │ Relevance│    │  Dedup   │    │Blacklist │
+  │  Filter  │───▶│ (3-axis) │───▶│ (auto +  │
+  │ (3-layer)│    │          │    │  manual) │
+  └──────────┘    └──────────┘    └──────────┘</code></pre>
+      </div>
+
+      <h3>3.2 Data Model</h3>
+      <div class="card">
+        <p>The identity model is clean and well-designed:</p>
+        <table>
+          <thead>
+            <tr><th>Source</th><th>ID Format</th><th>Example</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>npm</td><td><code>package name</code></td><td><code>@scope/pi-extension</code></td></tr>
+            <tr><td>GitHub</td><td><code>owner-repo</code></td><td><code>shaftoe/pi-mcp</code></td></tr>
+            <tr><td>YouTube</td><td><code>YT_&lt;videoId&gt;</code></td><td><code>YT_dQw4w9WgXcQ</code></td></tr>
+          </tbody>
+        </table>
+        <p style="margin-top:.5rem; font-size:.85rem;">
+          Storage: file-per-entry JSON under <code>data/&lt;category&gt;s/</code>. Scoped npm packages use <code>@scope--name.json</code> encoding.
+        </p>
+      </div>
+
+      <h3>3.3 Module Dependency Graph</h3>
+      <div class="card">
+        <pre><code>index.ts ──┬── discover/index.ts ──── QueryDiscoverer base class
+           │     ├── discover/npm.ts        (npm search + smart pagination)
+           │     ├── discover/github.ts     (GitHub repo search)
+           │     ├── discover/youtube.ts    (YouTube Data API)
+           │     ├── discover/pi-mono-deps  (GitHub code search for deps)
+           │     └── discover/filter.ts     (3-layer relevance filter)
+           │
+           ├── enrich/index.ts ──── orchestrator (batch + concurrency)
+           │     ├── enrich/github-meta.ts  (stars, forks, license…)
+           │     ├── enrich/readme.ts       (fetch + keyword scoring)
+           │     ├── enrich/classify.ts     (rule-based category)
+           │     ├── enrich/health.ts       (GitHub + YouTube scoring)
+           │     └── enrich/videos.ts       (YouTube stats + noembed)
+           │
+           ├── generate/readme.ts ── README.md renderer
+           │
+           └── lib/
+                 ├── types.ts      (core types: Entry, Health, Category…)
+                 ├── store.ts      (file-per-entry CRUD)
+                 ├── dedup.ts      (3-axis dedup: URL, ID, GitHub URL)
+                 ├── blacklist.ts  (auto + manual blacklist)
+                 ├── cache.ts      (TTL-based file cache)
+                 ├── github.ts     (GitHub REST API client)
+                 ├── ids.ts        (URL → ID extraction)
+                 ├── html.ts       (HTML entity decoder)
+                 └── site-data.ts  (category metadata + display helpers)</code></pre>
+      </div>
+    </section>
+
+    <!-- 4. Discovery -->
+    <section id="discover">
+      <h2>4. Stage 1: Discovery</h2>
+
+      <h3>4.1 Source Analysis</h3>
+      <table>
+        <thead>
+          <tr><th>Source</th><th>Candidates</th><th>Strategy</th><th>Rate Handling</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>npm</strong></td>
+            <td>1,587 entries</td>
+            <td>Tiered: keyword queries (full pagination) + broad queries (smart early-stop)</td>
+            <td>Exponential backoff on 429 (2s→4s→8s→16s→32s), 2s inter-page delay</td>
+          </tr>
+          <tr>
+            <td><strong>GitHub</strong></td>
+            <td>961 entries</td>
+            <td>Text + topic queries, paginated to 1000 max</td>
+            <td>500ms inter-page delay, auth via <code>GITHUB_TOKEN</code></td>
+          </tr>
+          <tr>
+            <td><strong>YouTube</strong></td>
+            <td>114 entries</td>
+            <td>Exact phrase + broad-with-exclusions</td>
+            <td>300ms inter-page, fatal on 403</td>
+          </tr>
+          <tr>
+            <td><strong>pi-mono-deps</strong></td>
+            <td>(subset of GitHub)</td>
+            <td>GitHub code search for <code>@mariozechner/pi-*</code> in package.json</td>
+            <td>Requires <code>GITHUB_TOKEN</code>, 2s inter-page</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3>4.2 QueryDiscoverer Pattern</h3>
+      <div class="card">
+        <p>The <code>QueryDiscoverer</code> base class is a well-designed abstraction that standardizes:</p>
+        <ul class="plain">
+          <li>Query iteration with <code>init()</code> / <code>fetchQuery()</code> hooks</li>
+          <li>Fatal error propagation (<code>FatalDiscoveryError</code>) to stop on auth failures</li>
+          <li>Per-query statistics collection for <code>--stats</code> mode</li>
+          <li>Automatic source tagging on all candidates</li>
+        </ul>
+      </div>
+
+      <h3>4.3 Relevance Filter</h3>
+      <div class="card">
+        <p>The filter at <code>discover/filter.ts</code> (769 LOC — the largest file) implements 3 layers:</p>
+        <table>
+          <thead>
+            <tr><th>Layer</th><th>Purpose</th><th>Signals</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><span class="badge badge-red">Layer 1</span></td>
+              <td>Hard blocks (auto-blacklist)</td>
+              <td>Raspberry Pi, math π, PixiJS, Pi Network crypto, AVEVA, Tiptap, non-English, OpenAPI, blocked scopes/names</td>
+            </tr>
+            <tr>
+              <td><span class="badge badge-green">Layer 2</span></td>
+              <td>Positive overrides</td>
+              <td>Name patterns (<code>pi-*</code>, <code>@scope/pi-*</code>), text signals, GitHub topics, npm keywords</td>
+            </tr>
+            <tr>
+              <td><span class="badge badge-blue">Layer 3</span></td>
+              <td>Default accept / YouTube strict</td>
+              <td>npm/Github default accept; YouTube requires positive signal</td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="callout callout-info" style="margin-top:1rem;">
+          <strong>Blacklist size:</strong> 15,380 URLs auto-blacklisted. This is the primary mechanism for handling the noisy long tail. The filter's <code>reject()</code> function auto-adds to blacklist, which means the blacklist grows monotonically and is the source of truth for past filtering decisions.
+        </div>
+      </div>
+
+      <h3>4.4 Observations — Discovery</h3>
+      <div class="findings-grid">
+        <div class="finding-card">
+          <h4>⚠️ No query evolution mechanism</h4>
+          <p>Search queries are hardcoded in each discoverer. There's no feedback loop from <code>--stats</code> precision data back into query tuning. New queries must be added manually.</p>
+        </div>
+        <div class="finding-card">
+          <h4>⚠️ 15K blacklist entries</h4>
+          <p>The blacklist is loaded into memory for every relevance check. At 15K entries with linear <code>.some()</code> scanning, this could become a performance concern.</p>
+        </div>
+        <div class="finding-card">
+          <h4>✅ Smart pagination is excellent</h4>
+          <p>The npm broad-query early-stopping (relevance rate tracking with streak detection) is well-engineered and saves ~80% of API calls on noisy queries.</p>
+        </div>
+        <div class="finding-card">
+          <h4>✅ Non-English filtering is thorough</h4>
+          <p>Dual detection: Unicode script ranges for non-Latin + stop-word analysis for Latin-script languages (Indonesian, German, French, etc.). Well calibrated.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 5. Enrichment -->
+    <section id="enrich">
+      <h2>5. Stage 2: Enrichment</h2>
+
+      <h3>5.1 Pipeline Steps</h3>
+      <div class="card">
+        <table>
+          <thead>
+            <tr><th>Step</th><th>Input</th><th>Output</th><th>Completion</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Dedup</strong></td>
+              <td>All entries</td>
+              <td>Removes same-ID entries across categories</td>
+              <td><span class="badge badge-green">Always</span></td>
+            </tr>
+            <tr>
+              <td><strong>GitHub Meta</strong></td>
+              <td>Entry with GitHub URL</td>
+              <td>stars, forks, license, last_commit, language, topics, archived, fork</td>
+              <td><span class="badge badge-yellow">74%</span></td>
+            </tr>
+            <tr>
+              <td><strong>README Analysis</strong></td>
+              <td>GitHub URL</td>
+              <td><code>_readme_category_scores</code> (keyword counts per category)</td>
+              <td><span class="badge badge-green">100%</span></td>
+            </tr>
+            <tr>
+              <td><strong>Classify</strong></td>
+              <td>Entry + readme scores</td>
+              <td>Category assignment (8 categories)</td>
+              <td><span class="badge badge-green">Always</span></td>
+            </tr>
+            <tr>
+              <td><strong>Health Score</strong></td>
+              <td>GitHub meta or YouTube meta</td>
+              <td>score (0–100), level (active/maintained/stale/dead)</td>
+              <td><span class="badge badge-green">Always</span></td>
+            </tr>
+            <tr>
+              <td><strong>Video Enrichment</strong></td>
+              <td>YouTube URLs</td>
+              <td>title, channel, stats (views/likes/comments) via API or noembed fallback</td>
+              <td><span class="badge badge-blue">Separate pass</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>5.2 Skip Logic</h3>
+      <div class="card">
+        <p>Enrichment uses a "fully enriched" check to skip already-processed entries:</p>
+        <ul class="plain">
+          <li><strong>GitHub entries:</strong> needs <code>hasFullGitHubMeta()</code> + <code>hasReadmeScores()</code></li>
+          <li><strong>Video entries:</strong> needs <code>health.score > 0</code></li>
+          <li><strong>Other entries:</strong> needs <code>hasReadmeScores()</code></li>
+        </ul>
+        <div class="callout callout-warn" style="margin-top:.75rem;">
+          <strong>Gap:</strong> Entries with no GitHub URL (26% of total) never get GitHub metadata — they're marked "enriched" with just empty readme scores. These entries have no stars, no last_commit, and thus receive a default health score of 50 ("maintained") regardless of actual status.
+        </div>
+      </div>
+
+      <h3>5.3 Classification Logic</h3>
+      <div class="card">
+        <p>The classifier in <code>enrich/classify.ts</code> uses a priority chain:</p>
+        <ol style="padding-left:1.25rem; font-size:.9rem;">
+          <li><strong>YouTube URL → video</strong> (hard rule)</li>
+          <li><strong>Text matching:</strong> "theme" → theme, "provider" → provider, "template" → template</li>
+          <li><strong>README scores:</strong> highest-scoring category wins (excludes "skill")</li>
+          <li><strong>Fallback heuristics:</strong> "extension"/"hook" → extension, "tool"/"cli"/"dashboard" → tool</li>
+          <li><strong>Default: tool</strong> (catch-all)</li>
+        </ol>
+        <div class="callout callout-info" style="margin-top:.75rem;">
+          <strong>Observation:</strong> The default fallback to "tool" means ambiguous entries inflate the tool category. Consider adding an "uncategorized" bucket or confidence threshold.
+        </div>
+      </div>
+
+      <h3>5.4 Health Scoring</h3>
+      <div class="card">
+        <h3 style="margin-top:0;">GitHub Health Formula</h3>
+        <table>
+          <thead><tr><th>Signal</th><th>Weight</th></tr></thead>
+          <tbody>
+            <tr><td>Base</td><td>50</td></tr>
+            <tr><td>Stars</td><td>+min(stars/10, 20)</td></tr>
+            <tr><td>Commit &lt; 30d</td><td>+20</td></tr>
+            <tr><td>Commit 30–90d</td><td>+10</td></tr>
+            <tr><td>Commit &gt; 365d</td><td>−20</td></tr>
+            <tr><td>Archived</td><td>−50</td></tr>
+            <tr><td>Fork</td><td>−30</td></tr>
+          </tbody>
+        </table>
+        <p style="margin-top:.5rem; font-size:.85rem; color:#868e96;">
+          Range: 0–100 → active (≥70), maintained (≥40), stale (≥15), dead (&lt;15)
+        </p>
+        <div class="callout callout-warn" style="margin-top:.75rem;">
+          <strong>Issue:</strong> A non-fork, non-archived repo with 0 stars and no recent commits gets score 50 → "maintained". This inflates the maintained count. Consider lowering the base or requiring at least one positive signal for "maintained".
+        </div>
+      </div>
+
+      <h3>5.5 Observations — Enrichment</h3>
+      <div class="findings-grid">
+        <div class="finding-card">
+          <h4>⚠️ Dual dedup logic</h4>
+          <p>Dedup happens in two places: <code>enrich/index.ts</code> has a local <code>deduplicate()</code> that removes same-ID entries, and <code>lib/dedup.ts</code> has the full 3-axis dedup. The enrichment dedup is simpler and may miss GitHub URL collisions.</p>
+        </div>
+        <div class="finding-card">
+          <h4>⚠️ README analysis is shallow</h4>
+          <p>Only counts keyword occurrences for 4 categories (extension, tool, theme, provider). Doesn't extract structured data like installation instructions, compatibility notes, or feature lists.</p>
+        </div>
+        <div class="finding-card">
+          <h4>✅ Batch processing is solid</h4>
+          <p>Concurrency=5 with 200ms delay is well-calibrated for GitHub API limits (5000/hr with token). Progress logging is clear.</p>
+        </div>
+        <div class="finding-card">
+          <h4>💡 Enhancement opportunity</h4>
+          <p>The <code>subitems</code> field in the type definition suggests monorepo support was planned but isn't populated anywhere. Could be used for pi-mono packages that bundle multiple tools.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 6. Generation -->
+    <section id="generate">
+      <h2>6. Stage 3: Generation</h2>
+      <div class="card">
+        <p>The <code>generate/readme.ts</code> module (272 LOC) renders the final <code>README.md</code>:</p>
+        <ul class="plain">
+          <li><strong>Header:</strong> Stats summary, TOC with anchor links</li>
+          <li><strong>Per-category sections:</strong> Tables with health emoji, name, description, stars, last-updated</li>
+          <li><strong>Video section:</strong> Bulleted list with channel + view count</li>
+          <li><strong>Footer:</strong> Generation date, source breakdown</li>
+        </ul>
+      </div>
+      <h3>Observations — Generation</h3>
+      <div class="findings-grid">
+        <div class="finding-card">
+          <h4>⚠️ site-data.ts duplication</h4>
+          <p><code>lib/site-data.ts</code> reimplements entry loading, category metadata, and display helpers that already exist in <code>store.ts</code> and <code>generate/readme.ts</code>. The two load paths may diverge over time.</p>
+        </div>
+        <div class="finding-card">
+          <h4>💡 Anchor ID generation</h4>
+          <p>GitHub anchor generation (<code>anchorId()</code>) correctly handles emoji removal and space-to-hyphen conversion. Well-documented edge cases.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 7. Quality -->
+    <section id="quality">
+      <h2>7. Code Quality & Testing</h2>
+
+      <h3>7.1 Test Coverage</h3>
+      <div class="card">
+        <table>
+          <thead>
+            <tr><th>Test File</th><th>LOC</th><th>Subject</th></tr>
+          </thead>
+          <tbody>
+            <tr><td><code>discover/filter.test.ts</code></td><td>722</td><td>Relevance filter (most thorough)</td></tr>
+            <tr><td><code>lib/dedup.test.ts</code></td><td>432</td><td>Deduplication logic</td></tr>
+            <tr><td><code>enrich/health.test.ts</code></td><td>282</td><td>Health scoring</td></tr>
+            <tr><td><code>enrich/classify.test.ts</code></td><td>198</td><td>Category classification</td></tr>
+            <tr><td><code>enrich/readme.test.ts</code></td><td>122</td><td>README analysis</td></tr>
+            <tr><td><code>lib/store.test.ts</code></td><td>77</td><td>Store CRUD</td></tr>
+            <tr><td><code>index.test.ts</code></td><td>78</td><td>ID extraction</td></tr>
+          </tbody>
+        </table>
+        <div class="callout callout-info" style="margin-top:.75rem;">
+          <strong>Ratio:</strong> 1,911 test LOC / 4,031 production LOC = <strong>47% test-to-code ratio</strong> — healthy.
+        </div>
+      </div>
+
+      <h3>7.2 Static Analysis</h3>
+      <div class="card">
+        <table>
+          <thead><tr><th>Tool</th><th>Config</th><th>Status</th></tr></thead>
+          <tbody>
+            <tr>
+              <td>TypeScript (<code>tsc --noEmit</code>)</td>
+              <td>Strict mode + 10 extra strictness flags</td>
+              <td><span class="badge badge-green">Passing</span></td>
+            </tr>
+            <tr>
+              <td>Biome</td>
+              <td>Recommended rules, tab indent, double quotes</td>
+              <td><span class="badge badge-green">Passing</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>7.3 Code Patterns</h3>
+      <div class="card">
+        <h4>Strengths</h4>
+        <ul class="plain">
+          <li>✅ Consistent <code>async/await</code> with proper error handling</li>
+          <li>✅ Clean separation of concerns (discover/enrich/generate)</li>
+          <li>✅ Well-documented JSDoc on all public functions</li>
+          <li>✅ Consistent use of <code>as Record&lt;string, unknown&gt;</code> for loose metadata</li>
+          <li>✅ No external runtime dependencies (only devDependencies)</li>
+        </ul>
+        <h4 style="margin-top:1rem;">Weaknesses</h4>
+        <ul class="plain">
+          <li>⚠️ Heavy use of type assertions (<code>as</code>) for metadata access — no runtime validation</li>
+          <li>⚠️ Some functions do double duty (e.g., <code>reject()</code> in filter.ts both returns a result AND mutates the blacklist)</li>
+          <li>⚠️ <code>console.log</code> used for CLI output with biome-ignore comments — could use a proper logger</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- 8. CI/CD -->
+    <section id="ci">
+      <h2>8. CI/CD Pipeline</h2>
+      <div class="card">
+        <pre><code>┌─────────────────────────────────────────────────────────┐
+│  Daily Cron (06:00 UTC) + Manual Dispatch               │
+│                                                         │
+│  Job 1: run-pipeline                                    │
+│    ├── bun install                                       │
+│    ├── bun run pipeline (discover → enrich → generate)  │
+│    ├── bun run dedup --dry-run (check remaining)        │
+│    ├── Detect changed files                             │
+│    └── Upload data/ + README.md as artifact             │
+│                                                         │
+│  Job 2: validate-entries (if changes)                   │
+│    ├── Download artifact                                │
+│    ├── Pi Agent validates entries & fixes in-place      │
+│    │   (relevance, English, dupes, health, category)    │
+│    └── Upload fixed artifacts                           │
+│                                                         │
+│  Job 3: create-pr (if changes)                          │
+│    ├── Download validated artifacts                      │
+│    ├── git commit + push to branch                      │
+│    └── gh pr create → main                              │
+└─────────────────────────────────────────────────────────┘</code></pre>
+      </div>
+      <div class="callout callout-success">
+        <strong>3-job design is excellent:</strong> Separating validation into a dedicated job with an LLM agent is innovative and catches edge cases the rule-based filter misses. The artifact-passing pattern avoids race conditions.
+      </div>
+    </section>
+
+    <!-- 9. Findings -->
+    <section id="findings">
+      <h2>9. Findings & Recommendations</h2>
+
+      <h3>🔴 High Priority</h3>
+      <div class="card">
+        <h4>F1. Health scoring inflates "maintained" status</h4>
+        <p>26% of entries have no GitHub URL and receive a flat health score of 50 ("maintained") with no evidence of maintenance. Meanwhile, the scoring formula starts at 50 base, meaning any non-archived, non-fork repo with ≥0 stars starts at 50+.</p>
+        <p style="margin-top:.5rem;"><strong>Impact:</strong> 2,611 entries (98%) are "active" or "maintained" — the health signal is nearly binary.</p>
+        <p style="margin-top:.5rem;"><strong>Fix:</strong> Lower base to 30. Require at least one positive signal (stars > 0 OR recent commit) for "maintained". For entries without GitHub data, use "unknown" health level instead of defaulting to 50.</p>
+      </div>
+
+      <div class="card">
+        <h4>F2. Blacklist performance at scale</h4>
+        <p><code>isBlacklisted()</code> does a linear scan of 15,380 entries for every relevance check. This is O(n) and runs for each of the thousands of candidates per discovery cycle.</p>
+        <p style="margin-top:.5rem;"><strong>Fix:</strong> Load blacklist into a <code>Set&lt;string&gt;</code> at initialization. The filter already calls <code>loadBlacklist()</code> → <code>.some()</code> which reads from disk + linear scan each time. A memoized <code>Set</code> would drop this to O(1).</p>
+      </div>
+
+      <h3>🟡 Medium Priority</h3>
+      <div class="card">
+        <h4>F3. Dual data loading paths</h4>
+        <p><code>lib/store.ts</code> and <code>lib/site-data.ts</code> both load entries from disk with slightly different implementations. The site-data version resolves the data directory relative to CWD (for Astro), while store uses <code>import.meta.dir</code>. This creates maintenance burden.</p>
+        <p style="margin-top:.5rem;"><strong>Fix:</strong> Consolidate to a single data loading module. Accept <code>dataDir</code> as a parameter (as site-data already does) and have store.ts use the same approach.</p>
+      </div>
+
+      <div class="card">
+        <h4>F4. Enrichment dedup vs CLI dedup divergence</h4>
+        <p><code>enrich/index.ts::deduplicate()</code> only checks ID collisions. <code>lib/dedup.ts</code> checks URL, ID, and GitHub URL with source-priority-aware keeper selection. These should use the same logic.</p>
+        <p style="margin-top:.5rem;"><strong>Fix:</strong> Remove the inline dedup in enrich/index.ts and use <code>removeDuplicates()</code> from lib/dedup.ts instead.</p>
+      </div>
+
+      <div class="card">
+        <h4>F5. No entry timestamps</h4>
+        <p>Entries have no <code>created_at</code> or <code>updated_at</code> fields. The design doc suggests using <code>git log</code> or filesystem birthtime, but this makes time-based queries impossible within the pipeline itself.</p>
+        <p style="margin-top:.5rem;"><strong>Fix:</strong> Add <code>discovered_at</code> and <code>last_updated</code> ISO date fields to the Entry type. Populate on creation and enrichment respectively.</p>
+      </div>
+
+      <h3>🟢 Low Priority / Nice-to-Have</h3>
+      <div class="card">
+        <h4>F6. Category classifier could use training data</h4>
+        <p>The rule-based classifier has limited precision (e.g., "provider" matches on text "provider" anywhere). With 2,662 labeled entries, a simple TF-IDF or embedding-based classifier could improve accuracy significantly.</p>
+      </div>
+      <div class="card">
+        <h4>F7. README analysis could be richer</h4>
+        <p>Currently just counts 4 keyword sets. Could extract: sub-items for monorepos, compatibility info, installation commands, screenshots/badges.</p>
+      </div>
+      <div class="card">
+        <h4>F8. Cache is never shared across stages</h4>
+        <p>The file-based cache in <code>lib/cache.ts</code> exists but isn't used by the enrichment stage (GitHub meta, README fetch). These make fresh API calls every run. Adding caching would reduce API usage and speed up incremental runs.</p>
+      </div>
+    </section>
+
+    <!-- 10. Refactoring Priorities -->
+    <section id="refactoring">
+      <h2>10. Suggested Refactoring Priorities</h2>
+      <table>
+        <thead>
+          <tr><th>#</th><th>Refactoring</th><th>Priority</th><th>Effort</th><th>Impact</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1</td>
+            <td>Memoize blacklist as <code>Set&lt;string&gt;</code></td>
+            <td><span class="badge badge-red">High</span></td>
+            <td>Small</td>
+            <td>~15x faster filtering</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>Fix health scoring base + "unknown" level</td>
+            <td><span class="badge badge-red">High</span></td>
+            <td>Small</td>
+            <td>Accurate health signals</td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>Unify dedup: use <code>lib/dedup.ts</code> everywhere</td>
+            <td><span class="badge badge-yellow">Medium</span></td>
+            <td>Small</td>
+            <td>Consistent dedup behavior</td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>Add <code>discovered_at</code> / <code>last_updated</code> timestamps</td>
+            <td><span class="badge badge-yellow">Medium</span></td>
+            <td>Medium</td>
+            <td>Enables time-based analytics</td>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td>Consolidate store.ts + site-data.ts loading</td>
+            <td><span class="badge badge-yellow">Medium</span></td>
+            <td>Medium</td>
+            <td>Single source of truth</td>
+          </tr>
+          <tr>
+            <td>6</td>
+            <td>Add caching to enrichment (GitHub meta, README fetch)</td>
+            <td><span class="badge badge-green">Low</span></td>
+            <td>Medium</td>
+            <td>Reduced API usage</td>
+          </tr>
+          <tr>
+            <td>7</td>
+            <td>Improve README analysis depth</td>
+            <td><span class="badge badge-green">Low</span></td>
+            <td>Large</td>
+            <td>Better classification data</td>
+          </tr>
+          <tr>
+            <td>8</td>
+            <td>Explore ML-based classification</td>
+            <td><span class="badge badge-green">Low</span></td>
+            <td>Large</td>
+            <td>Higher classification accuracy</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+  </div>
+</body>
+</html>

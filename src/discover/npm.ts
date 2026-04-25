@@ -213,7 +213,7 @@ async function fetchBroadQueryWithSmartPagination(
 				id: candidate.id,
 				metadata: candidate.metadata as Record<string, unknown>,
 			});
-			if (check.relevant) {
+			if (check.accept) {
 				relevantOnPage++;
 			}
 		}

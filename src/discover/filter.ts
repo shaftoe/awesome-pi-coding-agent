@@ -1,14 +1,21 @@
 /**
  * Relevance filter — reject candidates that are clearly not about the Pi coding agent.
  *
- * Three-layer filtering:
- *   Layer 1 — Hard blocks:  blocked scopes, names, and strong negative signals
- *              → auto-blacklisted when rejected
- *   Layer 2 — Positive signals:  explicit Pi coding agent markers override all
- *   Layer 3 — Default:  accept ambiguous candidates
+ * Architecture:
+ *   Each filter check is a composable {@link FilterRule}. Rules are chained
+ *   in priority order — first match wins, remaining rules are skipped.
  *
- * The heuristics below are derived from manual review of 2600+ discovered entries.
- * See data/blacklist.json for edge cases not worth encoding as rules.
+ *   Two pipelines are pre-assembled:
+ *     • {@link EARLY_RULES} — cheap O(1) rejection checks (blacklist, blocked
+ *       scopes/names). Used inside discoverers to drop bad results before they
+ *       become candidates.
+ *     • {@link FULL_RULES} — complete 3-layer pipeline (hard blocks → positive
+ *       signals → default). Used by saveNewCandidates() and prune.
+ *
+ * Extending:
+ *   1. Define a new FilterRule: `{ name, check(ctx) → verdict | null }`
+ *   2. Insert it into FULL_RULES at the desired priority position.
+ *   3. If it's a cheap O(1) check, also add it to EARLY_RULES.
  *
  * Key false-positive patterns this filter catches:
  *   - Raspberry Pi / RP2040 / I2C hardware projects
@@ -24,7 +31,53 @@
 
 import { addToBlacklist, isBlacklisted } from "../lib/blacklist.ts";
 
-// ─── Negative signals ──────────────────────────────────────────────────────────
+// ─── Types ─────────────────────────────────────────────────────────────────────
+
+/** Pre-computed context passed to every filter rule. */
+export interface FilterContext {
+	/** Original URL (for blacklisting). */
+	readonly url: string;
+	/** Lowercased URL (for matching). */
+	readonly urlLower: string;
+	/** Lowercased name (candidate.id or extracted from URL). */
+	readonly name: string;
+	/** Lowercased description from metadata. */
+	readonly description: string;
+	/** `name description` combined text (for matching). */
+	readonly combined: string;
+	/** Lowercased GitHub/npm topics. */
+	readonly topics: string[];
+	/** Lowercased npm keywords. */
+	readonly keywords: string[];
+}
+
+/** Verdict returned by a filter rule. `null` means "pass — let the next rule decide." */
+export type FilterVerdict = { accept: true } | { accept: false; reason: string };
+
+/** Type guard to narrow a FilterVerdict to its rejection branch. */
+export function isRejection(verdict: FilterVerdict): verdict is { accept: false; reason: string } {
+	return !verdict.accept;
+}
+
+/**
+ * A single, composable filter rule.
+ *
+ * Rules are evaluated in array order. The first non-null verdict wins:
+ *   - `{ accept: false }` → reject (auto-blacklisted by the pipeline)
+ *   - `{ accept: true }`  → accept immediately
+ *   - `null`              → pass to the next rule
+ */
+export interface FilterRule {
+	/** Human-readable name for logging and debugging. */
+	readonly name: string;
+	/**
+	 * Evaluate this rule against the filter context.
+	 * Return `null` to delegate to the next rule.
+	 */
+	check(ctx: FilterContext): FilterVerdict | null;
+}
+
+// ─── Signal data — negative ────────────────────────────────────────────────────
 
 /** Strings in name/description that mean "Raspberry Pi, not Pi coding agent". */
 const RASPBERRY_PI_SIGNALS = [
@@ -85,9 +138,7 @@ const PIXIJS_SIGNALS = [
 	"pixi-viewport",
 ];
 
-/**
- * Text signals indicating Pi Network cryptocurrency, not Pi coding agent.
- */
+/** Text signals indicating Pi Network cryptocurrency, not Pi coding agent. */
 const PI_NETWORK_SIGNALS = [
 	"pi network",
 	"pi-network",
@@ -99,9 +150,7 @@ const PI_NETWORK_SIGNALS = [
 	"pinet",
 ];
 
-/**
- * Text signals indicating AVEVA PI / industrial systems, not Pi coding agent.
- */
+/** Text signals indicating AVEVA PI / industrial systems, not Pi coding agent. */
 const INDUSTRIAL_PI_SIGNALS = ["aveva", "pi system", "osisoft", "pi server", "historian"];
 
 /**
@@ -192,6 +241,47 @@ const OPENAPI_SIGNALS = [
 /** Text signals that indicate a non-compatible fork (oh-my-pi ecosystem). */
 const FORK_SIGNALS = ["oh-my-pi"];
 
+// ─── Signal data — positive ────────────────────────────────────────────────────
+
+/**
+ * Name patterns that strongly indicate the candidate IS about the Pi coding agent.
+ * If ANY of these match, the candidate is accepted regardless of other heuristics.
+ */
+const POSITIVE_NAME_PATTERNS = [
+	/^pi[-_]/, // pi-something (pi-extension, pi-skill, etc.)
+	/^@[^/]+\/pi[-_]/, // @scope/pi-something
+	/pi-coding-agent/,
+	/pi-agent-core/,
+	/pi-mono$/,
+	/pi-session/,
+	/pi-mcp/,
+];
+
+/**
+ * Text fragments in name+description that indicate relevance.
+ * Checked via simple case-insensitive includes.
+ */
+const POSITIVE_TEXT_SIGNALS = [
+	"pi coding agent",
+	"pi coding",
+	"pi agent",
+	"pi.dev",
+	"pi extension",
+	"pi skill",
+	"pi theme",
+	"pi provider",
+	"pi session",
+	"pi-mono",
+	"pi-mcp",
+	"for pi",
+	"for the pi",
+	"mariozechner/pi",
+	"pi-coding-agent",
+	"pi-agent",
+];
+
+// ─── Text analysis helpers ─────────────────────────────────────────────────────
+
 /**
  * Unicode script ranges for non-Latin writing systems.
  * Used to reject packages/videos whose name or description is primarily
@@ -269,7 +359,6 @@ function hasNonLatinScript(text: string, threshold = 2): boolean {
 const NON_ENGLISH_LATIN_WORDS: Array<{ lang: string; words: string[]; threshold: number }> = [
 	{
 		lang: "indonesian",
-		// High-signal Indonesian/Malay words unlikely to appear in English
 		words: [
 			"yang",
 			"dan",
@@ -477,92 +566,31 @@ function detectNonEnglishLatin(text: string): string | null {
 	return null;
 }
 
-// ─── Positive signals ──────────────────────────────────────────────────────────
+// ─── Context builder ───────────────────────────────────────────────────────────
 
 /**
- * Name patterns that strongly indicate the candidate IS about the Pi coding agent.
- * If ANY of these match, the candidate is accepted regardless of other heuristics.
+ * Extract a package/repo name from a URL for filter matching.
+ * npm URLs → full package name, GitHub URLs → repo name, fallback → last segment.
  */
-const POSITIVE_NAME_PATTERNS = [
-	/^pi[-_]/, // pi-something (pi-extension, pi-skill, etc.)
-	/^@[^/]+\/pi[-_]/, // @scope/pi-something
-	/pi-coding-agent/,
-	/pi-agent-core/,
-	/pi-mono$/,
-	/pi-session/,
-	/pi-mcp/,
-];
-
-/**
- * Text fragments in name+description that indicate relevance.
- * Checked via simple case-insensitive includes.
- */
-const POSITIVE_TEXT_SIGNALS = [
-	"pi coding agent",
-	"pi coding",
-	"pi agent",
-	"pi.dev",
-	"pi extension",
-	"pi skill",
-	"pi theme",
-	"pi provider",
-	"pi session",
-	"pi-mono",
-	"pi-mcp",
-	"for pi",
-	"for the pi",
-	"mariozechner/pi",
-	"pi-coding-agent",
-	"pi-agent",
-];
-
-// ─── Types ─────────────────────────────────────────────────────────────────────
-
-export interface RelevanceResult {
-	/** Whether the candidate passes the relevance filter. */
-	relevant: boolean;
-	/** Human-readable reason for rejection (empty if relevant). */
-	reason: string;
-	/** Whether the candidate was auto-blacklisted during this check. */
-	blacklisted: boolean;
+function extractNameFromUrl(url: string): string {
+	if (url.includes("npmjs.com/package/")) {
+		const pkg = url.split("npmjs.com/package/")[1]?.replace(/\/+$/, "") ?? "";
+		return decodeURIComponent(pkg);
+	}
+	const ghMatch = url.match(/github\.com\/[^/]+\/([^/]+)/);
+	if (ghMatch?.[1]) return ghMatch[1];
+	return url.split("/").filter(Boolean).pop() ?? url;
 }
 
-// ─── Main filter ───────────────────────────────────────────────────────────────
-
-/**
- * Check whether a discovery candidate is relevant to the Pi coding agent.
- *
- * Logic (evaluated in order — first match wins):
- *
- *   Layer 1 — Hard blocks (reject immediately):
- *     1a. Blocked scopes/names
- *     1b. Raspberry Pi hardware signals
- *     1c. Mathematical π signals
- *     1d. PixiJS game library signals
- *     1e. Pi Network cryptocurrency signals
- *     1f. AVEVA PI / industrial SCADA signals
- *     1g. Unrelated ecosystem signals (Tiptap, SAP, Pimcore, etc.)
- *     1h. Non-compatible fork signals (oh-my-pi)
- *     1i. OpenAPI specification tooling signals
- *     1j. Non-English language (non-Latin script) detection
- *
- *   Layer 2 — Positive signals (accept immediately):
- *     2a. Pi coding agent name patterns
- *     2b. Pi coding agent text signals in description
- *     2c. Pi-related GitHub topics
- *     2d. pi-package keyword (npm convention)
- *
- *   Layer 3 — Default accept:
- *     Ambiguous candidates pass through — blacklist catches the stragglers.
- */
-export function isRelevant(candidate: {
+/** Build a filter context from a raw candidate. */
+function buildContext(candidate: {
 	url: string;
 	id?: string;
 	metadata?: Record<string, unknown>;
-}): RelevanceResult {
-	const rawUrl = candidate.url;
-	const url = candidate.url.toLowerCase();
-	const name = (candidate.id ?? extractNameFromUrl(candidate.url)).toLowerCase();
+}): FilterContext {
+	const url = candidate.url;
+	const urlLower = url.toLowerCase();
+	const name = (candidate.id ?? extractNameFromUrl(url)).toLowerCase();
 	const description = String(candidate.metadata?.["description"] ?? "").toLowerCase();
 	const topics = ((candidate.metadata?.["topics"] as string[] | undefined) ?? []).map((t) =>
 		t.toLowerCase(),
@@ -570,156 +598,368 @@ export function isRelevant(candidate: {
 	const keywords = ((candidate.metadata?.["keywords"] as string[] | undefined) ?? []).map((k) =>
 		k.toLowerCase(),
 	);
-
 	const combined = `${name} ${description}`;
+	return { url, urlLower, name, description, combined, topics, keywords };
+}
 
-	// Fast path: skip candidates already in the blacklist
-	if (isBlacklisted(rawUrl)) {
-		return { relevant: false, reason: "already blacklisted", blacklisted: false };
-	}
+// ─── Filter rules ──────────────────────────────────────────────────────────────
 
-	// ── Layer 1: Hard blocks ──────────────────────────────────────────────────
+// ── Layer 1: Hard blocks (reject + auto-blacklist) ────────────────────────────
 
-	// 1a. Blocked scopes (@stdlib/*, @pixi/*, @tiptap/*, etc.)
-	const scope = name.startsWith("@") ? name.split("/")[0] : null;
-	if (scope && BLOCKED_SCOPES.has(scope)) {
-		return reject(rawUrl, `blocked scope: ${scope}`);
-	}
+/** Blacklist lookup — reject already-known-bad URLs. O(1) via cached Set. */
+const blacklistRule: FilterRule = {
+	name: "blacklist",
+	check(ctx) {
+		if (isBlacklisted(ctx.url)) {
+			return { accept: false, reason: "already blacklisted" };
+		}
+		return null;
+	},
+};
 
-	// 1a. Blocked exact names
-	if (BLOCKED_NAMES.has(name)) {
-		return reject(rawUrl, `blocked name: ${name}`);
-	}
+/** Blocked npm scopes that are never about the Pi coding agent. */
+const blockedScopeRule: FilterRule = {
+	name: "blocked-scope",
+	check(ctx) {
+		const scope = ctx.name.startsWith("@") ? ctx.name.split("/")[0] : null;
+		if (scope && BLOCKED_SCOPES.has(scope)) {
+			return { accept: false, reason: `blocked scope: ${scope}` };
+		}
+		return null;
+	},
+};
 
-	// 1b. Raspberry Pi detection — in name/description/URL/topics
-	for (const signal of RASPBERRY_PI_SIGNALS) {
-		if (combined.includes(signal) || url.includes(signal)) {
-			return reject(rawUrl, `raspberry pi signal: "${signal}"`);
+/** Blocked exact names that are definitely unrelated. */
+const blockedNameRule: FilterRule = {
+	name: "blocked-name",
+	check(ctx) {
+		if (BLOCKED_NAMES.has(ctx.name)) {
+			return { accept: false, reason: `blocked name: ${ctx.name}` };
+		}
+		return null;
+	},
+};
+
+/** Raspberry Pi hardware projects — GPIO, RP2040, I2C, etc. */
+const raspberryPiRule: FilterRule = {
+	name: "raspberry-pi",
+	check(ctx) {
+		// Text signals in name/description/URL
+		for (const signal of RASPBERRY_PI_SIGNALS) {
+			if (ctx.combined.includes(signal) || ctx.urlLower.includes(signal)) {
+				return { accept: false, reason: `raspberry pi signal: "${signal}"` };
+			}
+		}
+		// Topics (repos tag themselves explicitly)
+		const rpiTopics = ["raspberry-pi", "raspberry-pi-gpio", "rp2040", "i2c", "gpio", "beaglebone"];
+		for (const topic of ctx.topics) {
+			if (rpiTopics.includes(topic)) {
+				return { accept: false, reason: `raspberry pi topic: "${topic}"` };
+			}
+		}
+		return null;
+	},
+};
+
+/** Mathematical π libraries — const-pi, digits-of-pi, etc. */
+const mathPiRule: FilterRule = {
+	name: "math-pi",
+	check(ctx) {
+		if (MATH_PI_NAMES.has(ctx.name)) {
+			return { accept: false, reason: `mathematical pi: "${ctx.name}"` };
+		}
+		for (const signal of MATH_PI_SIGNALS) {
+			if (ctx.combined.includes(signal)) {
+				return { accept: false, reason: `mathematical pi signal: "${signal}"` };
+			}
+		}
+		return null;
+	},
+};
+
+/** PixiJS game library ecosystem. */
+const pixijsRule: FilterRule = {
+	name: "pixijs",
+	check(ctx) {
+		for (const signal of PIXIJS_SIGNALS) {
+			if (ctx.name.includes(signal.toLowerCase()) || ctx.urlLower.includes(signal.toLowerCase())) {
+				return { accept: false, reason: `pixijs game library signal: "${signal}"` };
+			}
+		}
+		if (ctx.topics.some((t) => t === "pixi" || t === "pixijs" || t === "pixi.js")) {
+			return { accept: false, reason: "pixijs topic" };
+		}
+		return null;
+	},
+};
+
+/** Pi Network cryptocurrency. */
+const piNetworkRule: FilterRule = {
+	name: "pi-network",
+	check(ctx) {
+		for (const signal of PI_NETWORK_SIGNALS) {
+			if (ctx.combined.includes(signal)) {
+				return { accept: false, reason: `pi network crypto signal: "${signal}"` };
+			}
+		}
+		return null;
+	},
+};
+
+/** AVEVA PI / industrial SCADA systems. */
+const industrialRule: FilterRule = {
+	name: "industrial",
+	check(ctx) {
+		for (const signal of INDUSTRIAL_PI_SIGNALS) {
+			if (ctx.combined.includes(signal)) {
+				return { accept: false, reason: `industrial pi signal: "${signal}"` };
+			}
+		}
+		return null;
+	},
+};
+
+/** Unrelated ecosystems (Tiptap, SAP, Pimcore, Node-RED, etc.). */
+const ecosystemRule: FilterRule = {
+	name: "ecosystem",
+	check(ctx) {
+		for (const signal of UNRELATED_ECOSYSTEMS) {
+			if (
+				ctx.combined.includes(signal.toLowerCase()) ||
+				ctx.urlLower.includes(signal.toLowerCase())
+			) {
+				return { accept: false, reason: `unrelated ecosystem: "${signal}"` };
+			}
+		}
+		return null;
+	},
+};
+
+/** Non-compatible forks (oh-my-pi ecosystem). */
+const forkRule: FilterRule = {
+	name: "fork",
+	check(ctx) {
+		for (const signal of FORK_SIGNALS) {
+			if (ctx.combined.includes(signal) || ctx.urlLower.includes(signal)) {
+				return { accept: false, reason: `non-compatible fork signal: "${signal}"` };
+			}
+		}
+		return null;
+	},
+};
+
+/** OpenAPI specification tooling. */
+const openapiRule: FilterRule = {
+	name: "openapi",
+	check(ctx) {
+		for (const signal of OPENAPI_SIGNALS) {
+			if (
+				ctx.combined.includes(signal.toLowerCase()) ||
+				ctx.urlLower.includes(signal.toLowerCase())
+			) {
+				return { accept: false, reason: `openapi specification tooling: "${signal}"` };
+			}
+		}
+		return null;
+	},
+};
+
+/** Non-Latin script (CJK, Cyrillic, Arabic, etc.) in name/description. */
+const nonLatinScriptRule: FilterRule = {
+	name: "non-latin",
+	check(ctx) {
+		if (hasNonLatinScript(ctx.combined)) {
+			return { accept: false, reason: "non-english language" };
+		}
+		return null;
+	},
+};
+
+/** Non-English Latin-script languages (YouTube only: Indonesian, German, etc.). */
+const nonEnglishLatinRule: FilterRule = {
+	name: "non-english-latin",
+	check(ctx) {
+		if (ctx.urlLower.includes("youtube.com/watch")) {
+			const detectedLang = detectNonEnglishLatin(ctx.combined);
+			if (detectedLang) {
+				return { accept: false, reason: `non-english language (${detectedLang})` };
+			}
+		}
+		return null;
+	},
+};
+
+// ── Layer 2: Positive signals (accept immediately) ─────────────────────────────
+
+/** Pi coding agent name patterns (pi-*, @scope/pi-*, pi-mcp, etc.). */
+const positiveNameRule: FilterRule = {
+	name: "positive-name",
+	check(ctx) {
+		for (const pattern of POSITIVE_NAME_PATTERNS) {
+			if (pattern.test(ctx.name)) {
+				return { accept: true };
+			}
+		}
+		return null;
+	},
+};
+
+/** Pi coding agent text signals in description (pi coding agent, pi.dev, etc.). */
+const positiveTextRule: FilterRule = {
+	name: "positive-text",
+	check(ctx) {
+		for (const signal of POSITIVE_TEXT_SIGNALS) {
+			if (ctx.combined.includes(signal)) {
+				return { accept: true };
+			}
+		}
+		return null;
+	},
+};
+
+/** Pi-related GitHub topics (pi-agent, pi-coding-agent, pi, pi-coding). */
+const positiveTopicsRule: FilterRule = {
+	name: "positive-topics",
+	check(ctx) {
+		if (
+			ctx.topics.some(
+				(t) => t === "pi-agent" || t === "pi-coding-agent" || t === "pi-coding" || t === "pi", // bare "pi" topic is used by the Pi coding agent community
+			)
+		) {
+			return { accept: true };
+		}
+		return null;
+	},
+};
+
+/** npm keywords: pi-package, pi-extension, pi-theme. */
+const positiveKeywordsRule: FilterRule = {
+	name: "positive-keywords",
+	check(ctx) {
+		if (ctx.keywords.some((k) => k === "pi-package" || k === "pi-extension" || k === "pi-theme")) {
+			return { accept: true };
+		}
+		return null;
+	},
+};
+
+// ── Layer 3: Default ───────────────────────────────────────────────────────────
+
+/** YouTube: require a positive signal to pass (YouTube search is inherently noisy). */
+const youtubeStrictRule: FilterRule = {
+	name: "youtube-strict",
+	check(ctx) {
+		if (ctx.urlLower.includes("youtube.com/watch")) {
+			return {
+				accept: false,
+				reason: "YouTube entry with no positive Pi coding agent signal",
+			};
+		}
+		return null;
+	},
+};
+
+// ─── Pipeline runner ───────────────────────────────────────────────────────────
+
+/**
+ * Run a sequence of filter rules against a candidate.
+ * Auto-blacklists rejected candidates.
+ */
+function runRules(rules: readonly FilterRule[], ctx: FilterContext): FilterVerdict {
+	for (const rule of rules) {
+		const verdict = rule.check(ctx);
+		if (verdict !== null) {
+			if (!verdict.accept) {
+				addToBlacklist(ctx.url, verdict.reason);
+			}
+			return verdict;
 		}
 	}
+	return { accept: true };
+}
 
-	// Topics are a strong RPi signal (repos tag themselves explicitly)
-	const rpiTopics = ["raspberry-pi", "raspberry-pi-gpio", "rp2040", "i2c", "gpio", "beaglebone"];
-	for (const topic of topics) {
-		if (rpiTopics.includes(topic)) {
-			return reject(rawUrl, `raspberry pi topic: "${topic}"`);
+// ─── Pre-assembled pipelines ───────────────────────────────────────────────────
+
+/**
+ * Early rejection rules — cheap O(1) checks safe to run inside discoverers.
+ * These catch the most common false positives before full candidate creation.
+ *
+ * To add a new early rule: ensure it's O(1) (Set lookup, string prefix check)
+ * and doesn't require text analysis or topic/keyword inspection.
+ */
+export const EARLY_RULES: readonly FilterRule[] = [
+	blacklistRule,
+	blockedScopeRule,
+	blockedNameRule,
+];
+
+/**
+ * Full filter pipeline — 3-layer filtering (hard blocks → positives → default).
+ * This is the complete relevance check used by saveNewCandidates() and prune.
+ *
+ * Rule priority:
+ *   Layer 1 (reject):  blacklist → blocked scope/name → negative signals
+ *   Layer 2 (accept):  name patterns → text signals → topics → keywords
+ *   Layer 3 (default): YouTube strict, others accept
+ */
+export const FULL_RULES: readonly FilterRule[] = [
+	// Layer 1: Hard blocks
+	...EARLY_RULES,
+	raspberryPiRule,
+	mathPiRule,
+	pixijsRule,
+	piNetworkRule,
+	industrialRule,
+	ecosystemRule,
+	forkRule,
+	openapiRule,
+	nonLatinScriptRule,
+	nonEnglishLatinRule,
+	// Layer 2: Positive signals
+	positiveNameRule,
+	positiveTextRule,
+	positiveTopicsRule,
+	positiveKeywordsRule,
+	// Layer 3: Default
+	youtubeStrictRule,
+];
+
+// ─── Public API ────────────────────────────────────────────────────────────────
+
+/**
+ * Check whether a discovery candidate is relevant to the Pi coding agent.
+ * Runs the full filter pipeline (all rules). Auto-blacklists rejections.
+ */
+export function isRelevant(candidate: {
+	url: string;
+	id?: string;
+	metadata?: Record<string, unknown>;
+}): FilterVerdict {
+	return runRules(FULL_RULES, buildContext(candidate));
+}
+
+/**
+ * Run cheap early-rejection checks against a candidate.
+ * Used inside discoverers to drop obviously-irrelevant results
+ * before they become full candidates.
+ *
+ * Returns a rejection verdict (with auto-blacklist) if any early rule matched,
+ * or `null` if no early rule matched (pass through to full filter).
+ */
+export function earlyReject(candidate: {
+	url: string;
+	id?: string;
+	metadata?: Record<string, unknown>;
+}): FilterVerdict | null {
+	const ctx = buildContext(candidate);
+	for (const rule of EARLY_RULES) {
+		const verdict = rule.check(ctx);
+		if (verdict !== null && !verdict.accept) {
+			addToBlacklist(ctx.url, verdict.reason);
+			return verdict;
 		}
 	}
-
-	// 1c. Mathematical π detection — name matches and description signals
-	if (MATH_PI_NAMES.has(name)) {
-		return reject(rawUrl, `mathematical pi: "${name}"`);
-	}
-	for (const signal of MATH_PI_SIGNALS) {
-		if (combined.includes(signal)) {
-			return reject(rawUrl, `mathematical pi signal: "${signal}"`);
-		}
-	}
-
-	// 1d. PixiJS game library detection — in name/URL
-	for (const signal of PIXIJS_SIGNALS) {
-		if (name.includes(signal.toLowerCase()) || url.includes(signal.toLowerCase())) {
-			return reject(rawUrl, `pixijs game library signal: "${signal}"`);
-		}
-	}
-	// Also check topics for pixijs
-	if (topics.some((t) => t === "pixi" || t === "pixijs" || t === "pixi.js")) {
-		return reject(rawUrl, "pixijs topic");
-	}
-
-	// 1e. Pi Network cryptocurrency detection
-	for (const signal of PI_NETWORK_SIGNALS) {
-		if (combined.includes(signal)) {
-			return reject(rawUrl, `pi network crypto signal: "${signal}"`);
-		}
-	}
-
-	// 1f. AVEVA PI / industrial systems detection
-	for (const signal of INDUSTRIAL_PI_SIGNALS) {
-		if (combined.includes(signal)) {
-			return reject(rawUrl, `industrial pi signal: "${signal}"`);
-		}
-	}
-
-	// 1g. Unrelated ecosystem detection
-	for (const signal of UNRELATED_ECOSYSTEMS) {
-		if (combined.includes(signal.toLowerCase()) || url.includes(signal.toLowerCase())) {
-			return reject(rawUrl, `unrelated ecosystem: "${signal}"`);
-		}
-	}
-
-	// 1h. Non-compatible fork detection (oh-my-pi ecosystem)
-	for (const signal of FORK_SIGNALS) {
-		if (combined.includes(signal) || url.includes(signal)) {
-			return reject(rawUrl, `non-compatible fork signal: "${signal}"`);
-		}
-	}
-
-	// 1i. OpenAPI specification tooling detection
-	for (const signal of OPENAPI_SIGNALS) {
-		if (combined.includes(signal.toLowerCase()) || url.includes(signal.toLowerCase())) {
-			return reject(rawUrl, `openapi specification tooling: "${signal}"`);
-		}
-	}
-
-	// 1j. Non-English language detection — reject packages/videos whose
-	//     name or description is written in a non-Latin script.
-	//     (CJK, Cyrillic, Arabic, Devanagari, Thai, Korean, etc.)
-	if (hasNonLatinScript(combined)) {
-		return reject(rawUrl, "non-english language");
-	}
-
-	// 1k. Non-English Latin-script language detection — reject YouTube videos
-	//     whose content is clearly not in English (e.g. Indonesian, German, French)
-	//     even though they may mention Pi coding agent. English-only audiences
-	//     won't benefit from these.
-	if (url.includes("youtube.com/watch")) {
-		const detectedLang = detectNonEnglishLatin(combined);
-		if (detectedLang) {
-			return reject(rawUrl, `non-english language (${detectedLang})`);
-		}
-	}
-
-	// ── Layer 2: Positive signals ─────────────────────────────────────────────
-
-	// 2a. Check name patterns
-	for (const pattern of POSITIVE_NAME_PATTERNS) {
-		if (pattern.test(name)) {
-			return { relevant: true, reason: "", blacklisted: false };
-		}
-	}
-
-	// 2b. Check combined text for positive signals
-	for (const signal of POSITIVE_TEXT_SIGNALS) {
-		if (combined.includes(signal)) {
-			return { relevant: true, reason: "", blacklisted: false };
-		}
-	}
-
-	// 2c. Check GitHub topics for pi-agent / pi-coding-agent
-	if (
-		topics.some(
-			(t) => t === "pi-agent" || t === "pi-coding-agent" || t === "pi-coding" || t === "pi", // bare "pi" topic is used by the Pi coding agent community
-		)
-	) {
-		return { relevant: true, reason: "", blacklisted: false };
-	}
-
-	// 2d. Check for pi-package keyword (npm convention for Pi coding agent packages)
-	if (keywords.some((k) => k === "pi-package" || k === "pi-extension" || k === "pi-theme")) {
-		return { relevant: true, reason: "", blacklisted: false };
-	}
-
-	// ── Layer 3: Default ───────────────────────────────────────────────────────
-	// For YouTube entries, require a positive Pi-specific signal (Layer 2) to pass.
-	// YouTube search is inherently noisy — the broad queries like "pi coding" tutorial
-	// return many generic coding-agent videos that lack any Pi coding agent content.
-	// Non-YouTube sources (npm, GitHub) default to accept as before.
-	if (url.includes("youtube.com/watch")) {
-		return reject(rawUrl, "YouTube entry with no positive Pi coding agent signal");
-	}
-
-	return { relevant: true, reason: "", blacklisted: false };
+	return null;
 }
 
 /**
@@ -732,7 +972,7 @@ export function isEntryRelevant(entry: {
 	url: string;
 	description: string;
 	metadata: Record<string, unknown> | import("../lib/types.ts").EntryMetadata;
-}): RelevanceResult {
+}): FilterVerdict {
 	const meta = entry.metadata as Record<string, unknown>;
 	// For YouTube entries, title and description live in metadata;
 	// fold them into the combined text the filter checks.
@@ -745,25 +985,4 @@ export function isEntryRelevant(entry: {
 			description: `${entry.description} ${extraDesc}`,
 		},
 	});
-}
-
-// ─── Helpers ───────────────────────────────────────────────────────────────────
-
-/**
- * Reject a candidate and auto-blacklist it.
- * Returns a RelevanceResult with `blacklisted: true` if newly added.
- */
-function reject(url: string, reason: string): RelevanceResult {
-	const added = addToBlacklist(url, reason);
-	return { relevant: false, reason, blacklisted: added };
-}
-
-function extractNameFromUrl(url: string): string {
-	if (url.includes("npmjs.com/package/")) {
-		const pkg = url.split("npmjs.com/package/")[1]?.replace(/\/+$/, "") ?? "";
-		return decodeURIComponent(pkg);
-	}
-	const ghMatch = url.match(/github\.com\/[^/]+\/([^/]+)/);
-	if (ghMatch?.[1]) return ghMatch[1];
-	return url.split("/").filter(Boolean).pop() ?? url;
 }

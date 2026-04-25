@@ -52,13 +52,12 @@ function saveNewCandidates(candidates: DiscoveryCandidate[], statsMode: boolean 
 
 	for (const candidate of candidates) {
 		// Relevance filter — skip + auto-blacklist candidates unrelated to the Pi coding agent
-		const relevance = isRelevant(candidate);
-		if (!relevance.relevant) {
+		const verdict = isRelevant(candidate);
+		if (!verdict.accept) {
 			filtered++;
 			updateQueryStats(candidate, "filtered");
 			if (!statsMode) {
-				const blacklistedMarker = relevance.blacklisted ? " (auto-blacklisted)" : "";
-				log(`  🚫 Filtered: ${candidate.url} (${relevance.reason})${blacklistedMarker}`);
+				log(`  🚫 Filtered: ${candidate.url} (${verdict.reason})`);
 			}
 			continue;
 		}
@@ -223,7 +222,7 @@ function cmdPrune(): void {
 
 	for (const entry of entries) {
 		const result = isEntryRelevant(entry);
-		if (!result.relevant) {
+		if (!result.accept) {
 			deleteEntry(entry.category, entry.id);
 			removed++;
 			log(`  🗑️  ${entry.category}/${entry.id} — ${result.reason}`);

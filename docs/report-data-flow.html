@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>How Data Gets In — Awesome Pi Coding Agent Pipeline</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.6;
+      color: #1a1a2e;
+      background: #f8f9fa;
+      padding: 0 0 4rem 0;
+    }
+    .container { max-width: 1040px; margin: 0 auto; padding: 2rem 1.5rem; }
+    header {
+      background: linear-gradient(135deg, #1a1a2e, #16213e);
+      color: #fff;
+      padding: 3rem 1.5rem;
+      text-align: center;
+    }
+    header h1 { font-size: 2rem; margin-bottom: .25rem; }
+    header p.meta { opacity: .7; font-size: .9rem; }
+    .toc {
+      background: #fff;
+      border: 1px solid #e9ecef;
+      border-radius: 8px;
+      padding: 1.5rem 2rem;
+      margin: 2rem 0;
+    }
+    .toc h2 { font-size: 1.1rem; margin-bottom: .75rem; color: #495057; }
+    .toc ol { padding-left: 1.25rem; }
+    .toc li { margin-bottom: .35rem; }
+    .toc a { color: #0d6efd; text-decoration: none; }
+    .toc a:hover { text-decoration: underline; }
+    section { margin: 2.5rem 0; }
+    section h2 {
+      font-size: 1.4rem;
+      padding-bottom: .5rem;
+      border-bottom: 2px solid #e9ecef;
+      margin-bottom: 1rem;
+      color: #1a1a2e;
+    }
+    section h3 { font-size: 1.15rem; margin: 1.5rem 0 .5rem; color: #343a40; }
+    .card {
+      background: #fff;
+      border: 1px solid #e9ecef;
+      border-radius: 8px;
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 1rem;
+    }
+    table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+    th, td { padding: .65rem 1rem; text-align: left; border-bottom: 1px solid #dee2e6; }
+    th { background: #f1f3f5; font-weight: 600; font-size: .85rem; text-transform: uppercase; letter-spacing: .03em; }
+    tr:hover td { background: #f8f9fa; }
+    .badge {
+      display: inline-block;
+      padding: .15rem .6rem;
+      border-radius: 999px;
+      font-size: .75rem;
+      font-weight: 600;
+      vertical-align: middle;
+    }
+    .badge-green  { background: #d3f9d8; color: #2b8a3e; }
+    .badge-yellow { background: #fff3bf; color: #e67700; }
+    .badge-red    { background: #ffe3e3; color: #c92a2a; }
+    .badge-blue   { background: #d0ebff; color: #1864ab; }
+    .badge-purple { background: #e5dbff; color: #6741d9; }
+    .badge-gray   { background: #e9ecef; color: #495057; }
+    .callout {
+      padding: 1rem 1.25rem;
+      border-radius: 8px;
+      margin: 1rem 0;
+      border-left: 4px solid;
+    }
+    .callout-info    { background: #e7f5ff; border-color: #339af0; }
+    .callout-warn    { background: #fff9db; border-color: #fcc419; }
+    .callout-success { background: #ebfbee; border-color: #51cf66; }
+    .callout-danger  { background: #fff5f5; border-color: #ff6b6b; }
+    code {
+      background: #f1f3f5;
+      padding: .15em .4em;
+      border-radius: 4px;
+      font-size: .88em;
+    }
+    pre {
+      background: #1a1a2e;
+      color: #e9ecef;
+      padding: 1.25rem;
+      border-radius: 8px;
+      overflow-x: auto;
+      margin: 1rem 0;
+      font-size: .82rem;
+      line-height: 1.6;
+    }
+
+    /* ── Flow diagram styles ── */
+    .flow {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0;
+      margin: 2rem 0;
+    }
+    .flow-stage {
+      width: 100%;
+      max-width: 800px;
+      position: relative;
+    }
+    .flow-box {
+      border: 2px solid;
+      border-radius: 10px;
+      padding: 1rem 1.25rem;
+      background: #fff;
+      position: relative;
+    }
+    .flow-box h4 {
+      font-size: .95rem;
+      margin-bottom: .35rem;
+      display: flex;
+      align-items: center;
+      gap: .5rem;
+    }
+    .flow-box p {
+      font-size: .82rem;
+      color: #495057;
+      margin: 0;
+    }
+    .flow-box code {
+      font-size: .78rem;
+    }
+    .flow-arrow {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: .3rem 0;
+      color: #adb5bd;
+      font-size: .75rem;
+    }
+    .flow-arrow svg { margin-bottom: -2px; }
+    .flow-arrow .arrow-label {
+      background: #f8f9fa;
+      border: 1px solid #e9ecef;
+      border-radius: 4px;
+      padding: .15rem .5rem;
+      font-size: .72rem;
+      color: #868e96;
+      margin-top: .1rem;
+    }
+
+    /* Stage colors */
+    .stage-discover .flow-box { border-color: #339af0; }
+    .stage-discover .flow-box h4 { color: #1864ab; }
+    .stage-filter .flow-box { border-color: #fcc419; }
+    .stage-filter .flow-box h4 { color: #e67700; }
+    .stage-dedup .flow-box { border-color: #6741d9; }
+    .stage-dedup .flow-box h4 { color: #6741d9; }
+    .stage-save .flow-box { border-color: #51cf66; }
+    .stage-save .flow-box h4 { color: #2b8a3e; }
+    .stage-enrich .flow-box { border-color: #ff6b6b; }
+    .stage-enrich .flow-box h4 { color: #c92a2a; }
+    .stage-generate .flow-box { border-color: #20c997; }
+    .stage-generate .flow-box h4 { color: #087f5b; }
+    .stage-reject .flow-box { border-color: #dee2e6; background: #f8f9fa; }
+    .stage-reject .flow-box h4 { color: #868e96; }
+    .stage-reject .flow-box p { color: #adb5bd; }
+
+    /* ── Parallel sources layout ── */
+    .sources-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: .75rem;
+      margin: .5rem 0;
+    }
+    @media (max-width: 600px) { .sources-grid { grid-template-columns: 1fr; } }
+    .source-card {
+      border: 1px solid #dee2e6;
+      border-radius: 8px;
+      padding: .75rem 1rem;
+      background: #fff;
+    }
+    .source-card h5 { font-size: .85rem; margin-bottom: .25rem; }
+    .source-card p { font-size: .78rem; color: #868e96; margin: .15rem 0; }
+    .source-card .tag {
+      display: inline-block;
+      font-size: .7rem;
+      font-family: monospace;
+      background: #f1f3f5;
+      padding: .1rem .4rem;
+      border-radius: 3px;
+      margin-right: .25rem;
+    }
+
+    /* ── Sample entry viewer ── */
+    .entry-viewer {
+      background: #1a1a2e;
+      border-radius: 10px;
+      overflow: hidden;
+      margin: 1rem 0;
+    }
+    .entry-viewer-header {
+      background: #16213e;
+      padding: .6rem 1rem;
+      display: flex;
+      align-items: center;
+      gap: .5rem;
+    }
+    .entry-viewer-dot {
+      width: 10px; height: 10px; border-radius: 50%;
+    }
+    .entry-viewer-header span {
+      color: #e9ecef;
+      font-size: .8rem;
+      font-family: monospace;
+    }
+    .entry-viewer pre {
+      margin: 0;
+      border-radius: 0;
+      font-size: .78rem;
+      line-height: 1.55;
+      padding: 1rem 1.25rem;
+    }
+    .hl-key { color: #ff6b6b; }
+    .hl-str { color: #51cf66; }
+    .hl-num { color: #fcc419; }
+    .hl-bool { color: #339af0; }
+    .hl-comment { color: #868e96; font-style: italic; }
+
+    /* ── Timeline ── */
+    .timeline {
+      position: relative;
+      padding-left: 2.5rem;
+      margin: 1.5rem 0;
+    }
+    .timeline::before {
+      content: '';
+      position: absolute;
+      left: 12px;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      background: #dee2e6;
+    }
+    .timeline-item {
+      position: relative;
+      margin-bottom: 1.25rem;
+    }
+    .timeline-item::before {
+      content: '';
+      position: absolute;
+      left: -2.5rem;
+      top: 6px;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      border: 2px solid;
+      background: #fff;
+    }
+    .timeline-item.step-discover::before { border-color: #339af0; background: #d0ebff; }
+    .timeline-item.step-filter::before { border-color: #fcc419; background: #fff3bf; }
+    .timeline-item.step-dedup::before { border-color: #6741d9; background: #e5dbff; }
+    .timeline-item.step-save::before { border-color: #51cf66; background: #d3f9d8; }
+    .timeline-item.step-enrich::before { border-color: #ff6b6b; background: #ffe3e3; }
+    .timeline-item.step-gen::before { border-color: #20c997; background: #d3f9d8; }
+    .timeline-item h5 { font-size: .9rem; margin-bottom: .2rem; }
+    .timeline-item p { font-size: .82rem; color: #495057; }
+
+    /* ── Funnel ── */
+    .funnel {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin: 1.5rem 0;
+    }
+    .funnel-step {
+      text-align: center;
+      padding: .6rem 0;
+      color: #fff;
+      font-weight: 600;
+      font-size: .85rem;
+      border-radius: 4px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: .6rem 1.25rem;
+    }
+    .funnel-step span:last-child {
+      font-weight: 400;
+      font-size: .78rem;
+      opacity: .85;
+    }
+
+    /* ── Rule cards ── */
+    .rules-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: .75rem;
+      margin: 1rem 0;
+    }
+    .rule-card {
+      border: 1px solid #e9ecef;
+      border-radius: 8px;
+      padding: .75rem 1rem;
+      background: #fff;
+    }
+    .rule-card h5 { font-size: .82rem; margin-bottom: .3rem; }
+    .rule-card p { font-size: .75rem; color: #868e96; }
+
+    @media print {
+      body { background: #fff; }
+      header { background: #1a1a2e; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>📦 How Data Gets In</h1>
+    <p class="meta">Visual explainer · awesome-pi-coding-agent data pipeline · April 2026</p>
+  </header>
+
+  <div class="container">
+
+    <nav class="toc">
+      <h2>Table of Contents</h2>
+      <ol>
+        <li><a href="#big-picture">The Big Picture</a></li>
+        <li><a href="#sources">Step 0: Where Candidates Come From</a></li>
+        <li><a href="#flow">Step-by-Step Flow Diagram</a></li>
+        <li><a href="#filtering">The Filter: How We Decide What Stays</a></li>
+        <li><a href="#transformation">The Transformation: Raw Candidate → Stored Entry</a></li>
+        <li><a href="#enrichment">The Enrichment: Where Metadata Comes From</a></li>
+        <li><a href="#storage">The Storage: What Lives on Disk</a></li>
+        <li><a href="#example">Worked Example: One Package's Journey</a></li>
+        <li><a href="#funnel">The Funnel: Numbers at Each Stage</a></li>
+      </ol>
+    </nav>
+
+    <!-- ═══════════════════════════════════════════════════════════════════════ -->
+    <section id="big-picture">
+      <h2>1. The Big Picture</h2>
+      <p>Data flows through a <strong>3-stage pipeline</strong>: discover → enrich → generate. The first two stages determine <em>what</em> ends up on disk. The third just renders it.</p>
+
+      <div class="callout callout-info">
+        <strong>Key insight:</strong> A raw search result from an API goes through <strong>5 checkpoints</strong> before becoming a stored entry — early filter, full filter, dedup, classify, and save. Most results are discarded at the first two.
+      </div>
+
+      <div style="text-align:center; margin: 1.5rem 0;">
+        <pre style="display:inline-block; text-align:left; padding:1.5rem 2rem;"><code>  ┌─────────────┐     ┌──────────────┐     ┌──────────────┐
+  │  DISCOVER   │     │    ENRICH    │     │   GENERATE   │
+  │             │     │              │     │              │
+  │  npm ───────┤     │ GitHub meta  │     │  README.md   │
+  │  GitHub ────┤────▶│ README scan  │────▶│              │
+  │  YouTube ───┤     │ Classify     │     │              │
+  │  pi-deps ───┤     │ Health score │     │              │
+  └──────┬──────┘     └──────────────┘     └──────────────┘
+         │
+         ▼
+  <strong>Filter</strong> → <strong>Dedup</strong> → <strong>Save to data/</strong></code></pre>
+      </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════════════════════════ -->
+    <section id="sources">
+      <h2>2. Step 0: Where Candidates Come From</h2>
+      <p>Four discoverers run <strong>in parallel</strong>. Each iterates a set of search queries against a different API.</p>
+
+      <div class="sources-grid">
+        <div class="source-card" style="border-left: 3px solid #339af0;">
+          <h5>🟦 npm Registry</h5>
+          <p><span class="tag">source: "npm-search"</span></p>
+          <p>Queries: keyword (<code>keywords:pi-package</code>) + broad text (<code>pi-agent</code>)</p>
+          <p><strong>ID:</strong> full npm package name, e.g. <code>@scope/pi-extension</code></p>
+          <p><strong>URL:</strong> <code>https://npmjs.com/package/...</code></p>
+          <p>Smart pagination: keyword queries fetch all pages; broad queries stop early when relevance drops.</p>
+        </div>
+        <div class="source-card" style="border-left: 3px solid #6741d9;">
+          <h5>🟪 GitHub Search</h5>
+          <p><span class="tag">source: "github-search"</span></p>
+          <p>Queries: text (<code>"pi-coding-agent"</code>) + topics (<code>topic:pi-extension</code>)</p>
+          <p><strong>ID:</strong> <code>owner-repo</code> (slash → hyphen)</p>
+          <p><strong>URL:</strong> <code>https://github.com/owner/repo</code></p>
+          <p>Pre-enriched: the search API already returns stars, forks, topics, archived, etc.</p>
+        </div>
+        <div class="source-card" style="border-left: 3px solid #ff6b6b;">
+          <h5>🟥 YouTube Data API</h5>
+          <p><span class="tag">source: "youtube-search"</span></p>
+          <p>Queries: exact phrases (<code>"pi coding agent"</code>) + broad with exclusions</p>
+          <p><strong>ID:</strong> <code>YT_&lt;videoId&gt;</code></p>
+          <p><strong>URL:</strong> <code>https://youtube.com/watch?v=...</code></p>
+          <p>Requires <code>YOUTUBE_API_KEY</code>. Paginated, with fatal abort on 403.</p>
+        </div>
+        <div class="source-card" style="border-left: 3px solid #20c997;">
+          <h5>🟩 pi-mono Deps</h5>
+          <p><span class="tag">source: "github-search"</span></p>
+          <p>Queries: GitHub <em>code</em> search for <code>@mariozechner/pi-coding-agent</code> in <code>package.json</code></p>
+          <p><strong>ID:</strong> <code>owner-repo</code></p>
+          <p>Catches repos that depend on pi-mono packages but don't mention "pi" in their name/description.</p>
+        </div>
+      </div>
+
+      <div class="callout callout-info" style="margin-top:1rem;">
+        <strong>Early rejection:</strong> Inside each discoverer, every raw API result passes through <code>earlyReject()</code> — a fast O(1) check that drops blacklisted URLs, blocked scopes (<code>@stdlib/*</code>), and blocked names (<code>"pi"</code>) <em>before</em> creating a full candidate object. This eliminates ~60% of results immediately.
+      </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════════════════════════ -->
+    <section id="flow">
+      <h2>3. Step-by-Step Flow Diagram</h2>
+      <p>What happens to a single candidate as it moves through <code>saveNewCandidates()</code> in <code>src/index.ts</code>:</p>
+
+      <div class="flow">
+
+        <!-- Stage 0: Candidate arrives -->
+        <div class="flow-stage stage-discover">
+          <div class="flow-box">
+            <h4>🔍 Candidate arrives from discoverer</h4>
+            <p><code>{ url, source, hint?, id?, metadata? }</code> — a <code>DiscoveryCandidate</code></p>
+            <p style="margin-top:.3rem;">Example: <code>{ url: "https://npmjs.com/package/@scope/pi-mcp", source: "npm-search", id: "@scope/pi-mcp", metadata: { description: "...", github_url: "..." } }</code></p>
+          </div>
+        </div>
+
+        <div class="flow-arrow">
+          <svg width="16" height="24" viewBox="0 0 16 24"><path d="M8 0 L8 18 M3 14 L8 20 L13 14" stroke="currentColor" stroke-width="2" fill="none"/></svg>
+          <span class="arrow-label">passed earlyReject() inside discoverer</span>
+        </div>
+
+        <!-- Stage 1: Full relevance filter -->
+        <div class="flow-stage stage-filter">
+          <div class="flow-box">
+            <h4>🛡️ Full Relevance Filter — <code>isRelevant()</code></h4>
+            <p>Runs the <code>FULL_RULES</code> pipeline — 15 composable <code>FilterRule</code> objects evaluated in priority order.</p>
+            <p style="margin-top:.3rem;"><strong>Layer 1 (hard blocks):</strong> blacklist → blocked scope/name → Raspberry Pi → math π → PixiJS → Pi Network → industrial → ecosystem → forks → OpenAPI → non-Latin script → non-English Latin</p>
+            <p style="margin-top:.2rem;"><strong>Layer 2 (positive signals):</strong> name patterns → text signals → topics → keywords</p>
+            <p style="margin-top:.2rem;"><strong>Layer 3 (default):</strong> YouTube = reject, others = accept</p>
+            <p style="margin-top:.3rem;">Rejections are <strong>auto-blacklisted</strong> — the URL is added to <code>data/blacklist.json</code> so future runs skip it instantly.</p>
+          </div>
+        </div>
+
+        <div class="flow-arrow">
+          <svg width="16" height="24" viewBox="0 0 16 24"><path d="M8 0 L8 18 M3 14 L8 20 L13 14" stroke="currentColor" stroke-width="2" fill="none"/></svg>
+          <span class="arrow-label">verdict.accept === true</span>
+        </div>
+
+        <!-- Stage 2: Dedup -->
+        <div class="flow-stage stage-dedup">
+          <div class="flow-box">
+            <h4>🔗 3-Axis Dedup — <code>checkDuplicate()</code></h4>
+            <p>Checks the candidate against <strong>3 indices</strong> built from all existing entries:</p>
+            <p style="margin-top:.2rem;"><strong>① URL:</strong> primary identity — exact match on <code>entry.url</code></p>
+            <p><strong>② ID:</strong> canonical identifier — e.g. <code>@scope/name</code> or <code>owner-repo</code></p>
+            <p><strong>③ GitHub URL:</strong> cross-source — GitHub discoveries checked against <code>metadata.github_url</code> in npm entries</p>
+            <p style="margin-top:.3rem;">All 3 use O(1) <code>Map</code> lookups. If any axis matches → <strong>duplicate, skip</strong>.</p>
+          </div>
+        </div>
+
+        <div class="flow-arrow">
+          <svg width="16" height="24" viewBox="0 0 16 24"><path d="M8 0 L8 18 M3 14 L8 20 L13 14" stroke="currentColor" stroke-width="2" fill="none"/></svg>
+          <span class="arrow-label">isDuplicate === false</span>
+        </div>
+
+        <!-- Stage 3: Build + Classify + Save -->
+        <div class="flow-stage stage-save">
+          <div class="flow-box">
+            <h4>💾 Build Entry → Classify → Save</h4>
+            <p><strong>1. Build <code>Entry</code> object:</strong> Derive <code>id</code> from URL (or use candidate's explicit <code>id</code>). Extract name from metadata. Set initial health to <code>{ score: 0, level: "stale" }</code>.</p>
+            <p style="margin-top:.3rem;"><strong>2. Classify:</strong> <code>classifyEntry()</code> runs a rule chain: YouTube URL → video, text keywords → category, README scores → best match, fallback → tool.</p>
+            <p style="margin-top:.3rem;"><strong>3. Save:</strong> Write to <code>data/{category}s/{id}.json</code>. Scoped packages encoded as <code>@scope--name.json</code>.</p>
+            <p style="margin-top:.3rem;"><strong>4. Update indices:</strong> The new entry is added to the dedup maps so subsequent candidates in the same run are checked against it.</p>
+          </div>
+        </div>
+
+        <div class="flow-arrow">
+          <svg width="16" height="24" viewBox="0 0 16 24"><path d="M8 0 L8 18 M3 14 L8 20 L13 14" stroke="currentColor" stroke-width="2" fill="none"/></svg>
+          <span class="arrow-label">entry saved to disk, enrichment runs next</span>
+        </div>
+
+        <!-- Stage 4: Enrichment -->
+        <div class="flow-stage stage-enrich">
+          <div class="flow-box">
+            <h4>🔬 Enrichment Pipeline — <code>runEnrichment()</code></h4>
+            <p><strong>For each non-enriched entry</strong> (batched 5 at a time, 200ms delay):</p>
+            <p style="margin-top:.2rem;"><strong>① GitHub metadata:</strong> Resolve <code>metadata.github_url</code> → fetch stars, forks, license, last_commit, language, topics, archived, fork</p>
+            <p><strong>② README analysis:</strong> Fetch raw README → count category keywords → <code>_readme_category_scores</code></p>
+            <p><strong>③ Re-classify:</strong> Run classifier again with richer data</p>
+            <p><strong>④ Health score:</strong> <code>calculateHealth()</code> → score 0–100 → level (active ≥70 / maintained ≥40 / stale ≥15 / dead &lt;15)</p>
+            <p><strong>⑤ Re-save:</strong> If category changed, move file to correct folder. Overwrite JSON.</p>
+          </div>
+        </div>
+
+        <div class="flow-arrow">
+          <svg width="16" height="24" viewBox="0 0 16 24"><path d="M8 0 L8 18 M3 14 L8 20 L13 14" stroke="currentColor" stroke-width="2" fill="none"/></svg>
+          <span class="arrow-label">enriched entry on disk</span>
+        </div>
+
+        <!-- Stage 5: Generate -->
+        <div class="flow-stage stage-generate">
+          <div class="flow-box">
+            <h4>📝 Generate README — <code>generateReadme()</code></h4>
+            <p>Read-only: loads all entries, groups by category, sorts by health score, renders markdown tables.</p>
+            <p style="margin-top:.3rem;">Output: <code>README.md</code> — does <strong>not</strong> modify any data files.</p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════════════════════════ -->
+    <section id="filtering">
+      <h2>4. The Filter: How We Decide What Stays</h2>
+      <p>The filter is implemented as a chain of <strong>15 composable rules</strong>. Each rule returns a verdict: <code>{ accept: true }</code>, <code>{ accept: false, reason }</code>, or <code>null</code> (pass to next). First non-null verdict wins.</p>
+
+      <h3>Two Pipelines</h3>
+      <div class="card">
+        <table>
+          <thead>
+            <tr><th>Pipeline</th><th>Rules</th><th>Runs Where</th><th>Purpose</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><code>EARLY_RULES</code> <span class="badge badge-blue">3 rules</span></td>
+              <td>blacklist, blocked-scope, blocked-name</td>
+              <td>Inside each discoverer</td>
+              <td>O(1) fast rejection before candidate creation</td>
+            </tr>
+            <tr>
+              <td><code>FULL_RULES</code> <span class="badge badge-purple">15 rules</span></td>
+              <td>early 3 + 8 more negative + 4 positive + 1 default</td>
+              <td><code>saveNewCandidates()</code></td>
+              <td>Complete 3-layer relevance check</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>All 15 Rules in Priority Order</h3>
+      <div class="rules-grid">
+        <div class="rule-card" style="border-left: 3px solid #339af0;">
+          <h5><span class="badge badge-blue">L1</span> blacklist</h5>
+          <p>O(1) Set lookup. Skips known-bad URLs.</p>
+        </div>
+        <div class="rule-card" style="border-left: 3px solid #339af0;">
+          <h5><span class="badge badge-blue">L1</span> blocked-scope</h5>
+          <p><code>@stdlib</code>, <code>@aws-sdk</code>, <code>@pixi</code>, etc.</p>
+        </div>
+        <div class="rule-card" style="border-left: 3px solid #339af0;">
+          <h5><span class="badge badge-blue">L1</span> blocked-name</h5>
+          <p>Exact name set: <code>pi</code>, <code>micromark</code>, etc.</p>
+        </div>
+        <div class="rule-card" style="border-left: 3px solid #ff6b6b;">
+          <h5><span class="badge badge-red">L1</span> raspberry-pi</h5>
+          <p>"raspberry", "rp2040", "gpio" in text/topics</p>
+        </div>
+        <div class="rule-card" style="border-left: 3px solid #ff6b6b;">
+          <h5><span class="badge badge-red">L1</span> math-pi</h5>
+          <p>"digits of pi", "irrational number" in text</p>
+        </div>
+        <div class="rule-card" style="border-left: 3px solid #ff6b6b;">
+          <h5><span class="badge badge-red">L1</span> pixijs</h5>
+          <p>"pixi" in name/URL/topics</p>
+        </div>
+        <div class="rule-card" style="border-left: 3px solid #ff6b6b;">
+          <h5><span class="badge badge-red">L1</span> pi-network</h5>
+          <p>"pi network", "pi cryptocurrency" in text</p>
+        </div>
+        <div class="rule-card" style="border-left: 3px solid #ff6b6b;">
+          <h5><span class="badge badge-red">L1</span> industrial</h5>
+          <p>"aveva", "osisoft", "pi server" in text</p>
+        </div>
+        <div class="rule-card" style="border-left: 3px solid #ff6b6b;">
+          <h5><span class="badge badge-red">L1</span> ecosystem</h5>
+          <p>Tiptap, SAP, Pimcore, Node-RED, Storybook…</p>
+        </div>
+        <div class="rule-card" style="border-left: 3px solid #ff6b6b;">
+          <h5><span class="badge badge-red">L1</span> fork</h5>
+          <p>"oh-my-pi" non-compatible fork signal</p>
+        </div>
+        <div class="rule-card" style="border-left: 3px solid #ff6b6b;">
+          <h5><span class="badge badge-red">L1</span> openapi</h5>
+          <p>"openapi specification", "swagger-ui"</p>
+        </div>
+        <div class="rule-card" style="border-left: 3px solid #ff6b6b;">
+          <h5><span class="badge badge-red">L1</span> non-latin</h5>
+          <p>CJK, Cyrillic, Arabic, Devanagari script</p>
+        </div>
+        <div class="rule-card" style="border-left: 3px solid #ff6b6b;">
+          <h5><span class="badge badge-red">L1</span> non-english-latin</h5>
+          <p>Stop-word detection: German, French, Indonesian… (YouTube only)</p>
+        </div>
+        <div class="rule-card" style="border-left: 3px solid #51cf66;">
+          <h5><span class="badge badge-green">L2</span> positive-name</h5>
+          <p><code>pi-*</code>, <code>@scope/pi-*</code>, <code>pi-mcp</code> patterns</p>
+        </div>
+        <div class="rule-card" style="border-left: 3px solid #51cf66;">
+          <h5><span class="badge badge-green">L2</span> positive-text</h5>
+          <p>"pi coding agent", "pi.dev", "pi extension"</p>
+        </div>
+        <div class="rule-card" style="border-left: 3px solid #51cf66;">
+          <h5><span class="badge badge-green">L2</span> positive-topics</h5>
+          <p><code>pi-agent</code>, <code>pi-coding-agent</code>, <code>pi</code></p>
+        </div>
+        <div class="rule-card" style="border-left: 3px solid #51cf66;">
+          <h5><span class="badge badge-green">L2</span> positive-keywords</h5>
+          <p><code>pi-package</code>, <code>pi-extension</code>, <code>pi-theme</code></p>
+        </div>
+        <div class="rule-card" style="border-left: 3px solid #868e96;">
+          <h5><span class="badge badge-gray">L3</span> youtube-strict</h5>
+          <p>YouTube: require positive signal. Others: accept.</p>
+        </div>
+      </div>
+
+      <div class="callout callout-success" style="margin-top:1rem;">
+        <strong>Extending the filter:</strong> To add a new rule, define a <code>FilterRule</code> object and insert it into <code>FULL_RULES</code> at the desired position. If it's O(1), also add it to <code>EARLY_RULES</code>. No other code changes needed.
+      </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════════════════════════ -->
+    <section id="transformation">
+      <h2>5. The Transformation: Raw Candidate → Stored Entry</h2>
+      <p>A <code>DiscoveryCandidate</code> has minimal data. Here's how it becomes a full <code>Entry</code> with category and health:</p>
+
+      <div class="card">
+        <table>
+          <thead>
+            <tr><th>Field</th><th>DiscoveryCandidate</th><th>Entry (after save)</th><th>Source</th></tr>
+          </thead>
+          <tbody>
+            <tr><td><code>id</code></td><td>optional</td><td>always set</td><td><code>candidate.id ?? extractId(url)</code></td></tr>
+            <tr><td><code>name</code></td><td>—</td><td>always set</td><td><code>metadata.title ?? metadata.name ?? id</code></td></tr>
+            <tr><td><code>url</code></td><td>✅</td><td>✅ (same)</td><td>Copied directly</td></tr>
+            <tr><td><code>source</code></td><td>✅</td><td>✅ (same)</td><td><code>"npm-search"</code> / <code>"github-search"</code> / <code>"youtube-search"</code></td></tr>
+            <tr><td><code>description</code></td><td>in metadata</td><td>top-level field</td><td><code>metadata.description</code></td></tr>
+            <tr><td><code>category</code></td><td>—</td><td>assigned</td><td><code>classifyEntry()</code> — rule-based classifier</td></tr>
+            <tr><td><code>health</code></td><td>—</td><td><code>{ score: 0, level: "stale" }</code></td><td>Placeholder until enrichment</td></tr>
+            <tr><td><code>metadata</code></td><td>✅ (partial)</td><td>✅ (enriched later)</td><td>Merged with discovery hint</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════════════════════════ -->
+    <section id="enrichment">
+      <h2>6. The Enrichment: Where Metadata Comes From</h2>
+      <p>Enrichment runs <strong>after</strong> all candidates are saved. It processes entries that haven't been enriched yet (tracked via sentinel fields in metadata).</p>
+
+      <div class="card">
+        <h3>Enrichment Steps per Entry</h3>
+        <div class="timeline">
+          <div class="timeline-item step-enrich">
+            <h5>① GitHub Metadata</h5>
+            <p>Resolves <code>metadata.github_url</code> (for npm entries) or the primary URL (for GitHub entries). Fetches <code>/repos/{owner}/{repo}</code> API. Injects: <code>stars, forks, open_issues, language, license, last_commit, topics, is_archived, is_fork, homepage</code>.</p>
+          </div>
+          <div class="timeline-item step-enrich">
+            <h5>② README Analysis</h5>
+            <p>Fetches raw README from <code>raw.githubusercontent.com</code> (tries <code>main</code> then <code>master</code>). Counts keyword occurrences per category → <code>_readme_category_scores</code>.</p>
+          </div>
+          <div class="timeline-item step-enrich">
+            <h5>③ Re-classify</h5>
+            <p>Runs <code>classifyEntry()</code> again with the richer data (especially README scores). If category changes, moves the JSON file to the correct folder.</p>
+          </div>
+          <div class="timeline-item step-enrich">
+            <h5>④ Health Score</h5>
+            <p><code>calculateHealth()</code> uses GitHub signals (stars, recency, archived, fork) or YouTube signals (views, likes, age). Score 0–100 mapped to active/maintained/stale/dead.</p>
+          </div>
+          <div class="timeline-item step-enrich">
+            <h5>⑤ Save</h5>
+            <p>Overwrites the JSON file with enriched data. Category may have changed the folder.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <h3>Health Scoring Formula</h3>
+        <table>
+          <thead><tr><th>Signal</th><th>Points</th><th>Applies To</th></tr></thead>
+          <tbody>
+            <tr><td>Base</td><td><strong>+50</strong></td><td>All entries</td></tr>
+            <tr><td>Stars / 10</td><td>+0 to +20 (capped at 200 stars)</td><td>GitHub entries</td></tr>
+            <tr><td>Commit &lt; 30 days ago</td><td>+20</td><td>GitHub entries</td></tr>
+            <tr><td>Commit 30–90 days ago</td><td>+10</td><td>GitHub entries</td></tr>
+            <tr><td>Commit &gt; 365 days ago</td><td>−20</td><td>GitHub entries</td></tr>
+            <tr><td>Archived repo</td><td>−50</td><td>GitHub entries</td></tr>
+            <tr><td>Fork</td><td>−30</td><td>GitHub entries</td></tr>
+            <tr><td>Views / 500</td><td>+0 to +15</td><td>YouTube entries</td></tr>
+            <tr><td>Likes / 50</td><td>+0 to +10</td><td>YouTube entries</td></tr>
+            <tr><td>Published &lt; 30 days ago</td><td>+25</td><td>YouTube entries</td></tr>
+            <tr><td>Published &gt; 365 days ago</td><td>−20</td><td>YouTube entries</td></tr>
+          </tbody>
+        </table>
+        <p style="margin-top:.5rem; font-size:.85rem; color:#868e96;">
+          Final score clamped to 0–100. Levels: <span class="badge badge-green">active ≥70</span> <span class="badge badge-yellow">maintained ≥40</span> <span class="badge badge-red">stale ≥15</span> <span class="badge badge-red">dead &lt;15</span>
+        </p>
+      </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════════════════════════ -->
+    <section id="storage">
+      <h2>7. The Storage: What Lives on Disk</h2>
+      <p>Each entry is a single JSON file. The folder = the category. The filename = the ID (with encoding).</p>
+
+      <div class="card">
+        <h3>Directory Structure</h3>
+        <pre><code>data/
+├── extensions/          ← category = "extension"
+│   ├── pi-mcp.json
+│   ├── pi-simple-memory.json
+│   └── @scope--pi-tool.json    ← @scope/name → @scope--name.json
+├── tools/               ← category = "tool"
+│   └── owner-repo.json         ← GitHub: owner/repo → owner-repo.json
+├── providers/
+├── themes/
+├── templates/
+├── videos/
+│   └── YT_dQw4w9WgXcQ.json    ← YouTube: YT_{videoId}.json
+├── blacklist.json       ← 15K+ auto-blacklisted URLs
+└── manual-overrides.json</code></pre>
+      </div>
+
+      <div class="card">
+        <h3>Entry JSON Schema</h3>
+        <div class="entry-viewer">
+          <div class="entry-viewer-header">
+            <div class="entry-viewer-dot" style="background:#ff5f57;"></div>
+            <div class="entry-viewer-dot" style="background:#febc2e;"></div>
+            <div class="entry-viewer-dot" style="background:#28c840;"></div>
+            <span>data/extensions/@scope--pi-mcp.json</span>
+          </div>
+          <pre><code>{
+  <span class="hl-key">"id"</span>: <span class="hl-str">"@scope/pi-mcp"</span>,              <span class="hl-comment">// canonical ID = npm package name</span>
+  <span class="hl-key">"name"</span>: <span class="hl-str">"@scope/pi-mcp"</span>,            <span class="hl-comment">// display name</span>
+  <span class="hl-key">"url"</span>: <span class="hl-str">"https://npmjs.com/package/@scope/pi-mcp"</span>,
+  <span class="hl-key">"source"</span>: <span class="hl-str">"npm-search"</span>,            <span class="hl-comment">// provenance</span>
+  <span class="hl-key">"description"</span>: <span class="hl-str">"MCP server for Pi"</span>,
+  <span class="hl-key">"category"</span>: <span class="hl-str">"extension"</span>,           <span class="hl-comment">// set by classifier</span>
+  <span class="hl-key">"metadata"</span>: {
+    <span class="hl-key">"github_url"</span>: <span class="hl-str">"https://github.com/scope/pi-mcp"</span>,
+    <span class="hl-key">"npm_name"</span>: <span class="hl-str">"@scope/pi-mcp"</span>,
+    <span class="hl-key">"stars"</span>: <span class="hl-num">42</span>,                        <span class="hl-comment">// from GitHub API</span>
+    <span class="hl-key">"forks"</span>: <span class="hl-num">3</span>,
+    <span class="hl-key">"language"</span>: <span class="hl-str">"TypeScript"</span>,
+    <span class="hl-key">"license"</span>: <span class="hl-str">"MIT"</span>,
+    <span class="hl-key">"last_commit"</span>: <span class="hl-str">"2026-04-20T..."</span>,
+    <span class="hl-key">"topics"</span>: [<span class="hl-str">"pi-agent"</span>],
+    <span class="hl-key">"is_archived"</span>: <span class="hl-bool">false</span>,
+    <span class="hl-key">"_readme_category_scores"</span>: {     <span class="hl-comment">// from README analysis</span>
+      <span class="hl-key">"extension"</span>: <span class="hl-num">10</span>, <span class="hl-key">"tool"</span>: <span class="hl-num">3</span>
+    }
+  },
+  <span class="hl-key">"health"</span>: {
+    <span class="hl-key">"score"</span>: <span class="hl-num">74</span>,                        <span class="hl-comment">// 50 base + 4 stars + 20 recent</span>
+    <span class="hl-key">"level"</span>: <span class="hl-str">"active"</span>                  <span class="hl-comment">// ≥70 = active</span>
+  }
+}</code></pre>
+        </div>
+      </div>
+
+      <div class="card">
+        <h3>ID Encoding Rules</h3>
+        <table>
+          <thead><tr><th>Source</th><th>ID Format</th><th>Filename</th></tr></thead>
+          <tbody>
+            <tr><td>npm</td><td><code>@scope/name</code></td><td><code>@scope--name.json</code></td></tr>
+            <tr><td>npm (unscoped)</td><td><code>pi-mcp</code></td><td><code>pi-mcp.json</code></td></tr>
+            <tr><td>GitHub</td><td><code>owner-repo</code></td><td><code>owner-repo.json</code></td></tr>
+            <tr><td>YouTube</td><td><code>YT_dQw4w9WgXcQ</code></td><td><code>YT_dQw4w9WgXcQ.json</code></td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════════════════════════ -->
+    <section id="example">
+      <h2>8. Worked Example: One Package's Journey</h2>
+      <p>Follow <code>@0xkobold/pi-cursor</code> from discovery to disk:</p>
+
+      <div class="timeline">
+        <div class="timeline-item step-discover">
+          <h5>① npm discoverer runs query <code>"pi-agent"</code></h5>
+          <p>npm Search API returns this package. <code>earlyReject()</code> checks: not blacklisted ✓, not <code>@stdlib</code> ✓, not blocked name ✓ → passes.</p>
+        </div>
+        <div class="timeline-item step-discover">
+          <h5>② Candidate created</h5>
+          <p><code>{ url: "https://npmjs.com/package/@0xkobold/pi-cursor", source: "npm-search", id: "@0xkobold/pi-cursor", metadata: { description: "pi extension for Cursor AI...", keywords: ["pi-package"] } }</code></p>
+        </div>
+        <div class="timeline-item step-filter">
+          <h5>③ <code>isRelevant()</code> runs FULL_RULES</h5>
+          <p>Passes blacklist (not listed) → passes blocked scope (<code>@0xkobold</code> not blocked) → passes blocked name → no Raspberry Pi signals → no math pi → ... → <strong>positive-keywords rule matches</strong> <code>"pi-package"</code> → <code>{ accept: true }</code></p>
+        </div>
+        <div class="timeline-item step-dedup">
+          <h5>④ <code>checkDuplicate()</code></h5>
+          <p>Not in URL map, not in ID map, no GitHub URL to check → <code>isDuplicate: false</code></p>
+        </div>
+        <div class="timeline-item step-save">
+          <h5>⑤ Build + classify + save</h5>
+          <p><code>id = "@0xkobold/pi-cursor"</code>, name from metadata, initial health <code>{ 0, "stale" }</code>. Classifier sees "pi extension" → <code>extension</code>. Saved to <code>data/extensions/@0xkobold--pi-cursor.json</code></p>
+        </div>
+        <div class="timeline-item step-enrich">
+          <h5>⑥ Enrichment: GitHub metadata</h5>
+          <p>Finds <code>metadata.github_url = "https://github.com/0xkobold/pi-cursor"</code> → fetches <code>/repos/0xkobold/pi-cursor</code> → injects stars=0, last_commit, language="TypeScript", etc.</p>
+        </div>
+        <div class="timeline-item step-enrich">
+          <h5>⑦ Enrichment: README analysis</h5>
+          <p>Fetches README → counts keywords → <code>{ extension: 10, tool: 7, skill: 1 }</code></p>
+        </div>
+        <div class="timeline-item step-enrich">
+          <h5>⑧ Re-classify + health</h5>
+          <p>README scores confirm "extension" (highest score). Health: 50 base + 0 stars + 20 (commit &lt; 30d) = 70 → <strong>active</strong>. Re-saved.</p>
+        </div>
+        <div class="timeline-item step-gen">
+          <h5>⑨ README.md generation</h5>
+          <p>Entry appears in the Extensions table: <code>🟢 | @0xkobold/pi-cursor | pi extension for Cursor... | | 6d ago |</code></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════════════════════════ -->
+    <section id="funnel">
+      <h2>9. The Funnel: Numbers at Each Stage</h2>
+      <p>Typical pipeline run — approximate numbers based on the current data:</p>
+
+      <div class="funnel">
+        <div class="funnel-step" style="width:100%; background:#339af0;">
+          <span>🔍 Raw API results from 4 discoverers</span>
+          <span>~18,000 +</span>
+        </div>
+        <div style="color:#adb5bd; font-size:.7rem; padding:.15rem 0;">↓ earlyReject() inside discoverers</div>
+        <div class="funnel-step" style="width:80%; background:#5c7cfa;">
+          <span>📦 Candidates returned</span>
+          <span>~4,500</span>
+        </div>
+        <div style="color:#adb5bd; font-size:.7rem; padding:.15rem 0;">↓ isRelevant() full filter + auto-blacklist</div>
+        <div class="funnel-step" style="width:65%; background:#fcc419; color:#1a1a2e;">
+          <span>✅ Pass relevance filter</span>
+          <span>~3,000</span>
+        </div>
+        <div style="color:#adb5bd; font-size:.7rem; padding:.15rem 0;">↓ checkDuplicate() 3-axis dedup</div>
+        <div class="funnel-step" style="width:60%; background:#6741d9;">
+          <span>🆕 New unique entries</span>
+          <span>~50–200 per run</span>
+        </div>
+        <div style="color:#adb5bd; font-size:.7rem; padding:.15rem 0;">↓ classifyEntry() + save to disk</div>
+        <div class="funnel-step" style="width:58%; background:#51cf66;">
+          <span>💾 Written to data/*.json</span>
+          <span>~50–200</span>
+        </div>
+        <div style="color:#adb5bd; font-size:.7rem; padding:.15rem 0;">↓ runEnrichment() + enrichVideos()</div>
+        <div class="funnel-step" style="width:56%; background:#20c997;">
+          <span>🔬 Fully enriched entries</span>
+          <span>2,662 total on disk</span>
+        </div>
+      </div>
+
+      <div class="callout callout-info" style="margin-top:1rem;">
+        <strong>Why so few new entries per run?</strong> The pipeline runs daily. After the first run ingested ~2,600 entries, subsequent runs mostly find already-known packages. New entries come from recently published packages or newly tagged repos.
+      </div>
+
+      <div class="card" style="margin-top:1rem;">
+        <h3>Current Data Snapshot</h3>
+        <table>
+          <thead><tr><th>Category</th><th>Entries</th><th>Source Breakdown</th></tr></thead>
+          <tbody>
+            <tr><td>🔌 Extensions</td><td>1,171</td><td>npm: 70%, GitHub: 28%, other: 2%</td></tr>
+            <tr><td>🛠️ Tools</td><td>985</td><td>npm: 55%, GitHub: 42%, other: 3%</td></tr>
+            <tr><td>🔗 Providers</td><td>247</td><td>npm: 65%, GitHub: 33%</td></tr>
+            <tr><td>🎨 Themes</td><td>129</td><td>npm: 75%, GitHub: 23%</td></tr>
+            <tr><td>🎬 Videos</td><td>114</td><td>YouTube: 100%</td></tr>
+            <tr><td>📋 Templates</td><td>16</td><td>npm: 60%, GitHub: 40%</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+  </div>
+</body>
+</html>

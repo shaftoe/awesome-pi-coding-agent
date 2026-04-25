@@ -26,6 +26,12 @@ afterEach(() => mockBlacklist.clear());
 
 // ─── Helper ────────────────────────────────────────────────────────────────────
 
+/** Extract rejection reason (type-safe). Throws if verdict is an acceptance. */
+function rejectionReason(verdict: { accept: boolean; reason?: string }): string {
+	if (verdict.accept) throw new Error("Expected rejection, got acceptance");
+	return verdict.reason ?? "";
+}
+
 function candidate(overrides: {
 	url: string;
 	id?: string;
@@ -61,8 +67,8 @@ describe("isRelevant — blocked scopes", () => {
 					description: "A generic package",
 				}),
 			);
-			expect(result.relevant).toBe(false);
-			expect(result.reason).toContain("blocked scope");
+			expect(result.accept).toBe(false);
+			expect(rejectionReason(result)).toContain("blocked scope");
 		});
 	}
 });
@@ -77,8 +83,8 @@ describe("isRelevant — blocked exact names", () => {
 				id: "micromark",
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toContain("blocked name");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("blocked name");
 	});
 
 	it("rejects tempy", () => {
@@ -88,8 +94,8 @@ describe("isRelevant — blocked exact names", () => {
 				id: "tempy",
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toContain("blocked name");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("blocked name");
 	});
 });
 
@@ -103,8 +109,8 @@ describe("isRelevant — Raspberry Pi signals", () => {
 				description: "A Raspberry Pi GPIO library",
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toContain("raspberry pi signal");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("raspberry pi signal");
 	});
 
 	it("rejects 'rp2040' in URL", () => {
@@ -114,8 +120,8 @@ describe("isRelevant — Raspberry Pi signals", () => {
 				description: "RP2040 firmware",
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toContain("raspberry pi signal");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("raspberry pi signal");
 	});
 
 	it("rejects 'wiringpi' in name", () => {
@@ -126,7 +132,7 @@ describe("isRelevant — Raspberry Pi signals", () => {
 				description: "GPIO access for Raspberry Pi",
 			}),
 		);
-		expect(result.relevant).toBe(false);
+		expect(result.accept).toBe(false);
 	});
 
 	it("rejects 'raspberrypi' in name", () => {
@@ -136,7 +142,7 @@ describe("isRelevant — Raspberry Pi signals", () => {
 				id: "raspberrypi-tools",
 			}),
 		);
-		expect(result.relevant).toBe(false);
+		expect(result.accept).toBe(false);
 	});
 
 	it("rejects raspberry-pi topic", () => {
@@ -147,8 +153,8 @@ describe("isRelevant — Raspberry Pi signals", () => {
 				topics: ["raspberry-pi", "iot"],
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toContain("raspberry pi topic");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("raspberry pi topic");
 	});
 
 	it("rejects rp2040 topic", () => {
@@ -159,7 +165,7 @@ describe("isRelevant — Raspberry Pi signals", () => {
 				topics: ["rp2040"],
 			}),
 		);
-		expect(result.relevant).toBe(false);
+		expect(result.accept).toBe(false);
 	});
 });
 
@@ -173,7 +179,7 @@ describe("isRelevant — positive name patterns", () => {
 				id: "pi-extension",
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 
 	it("accepts names starting with 'pi_'", () => {
@@ -183,7 +189,7 @@ describe("isRelevant — positive name patterns", () => {
 				id: "pi_skill",
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 
 	it("accepts scoped @scope/pi-* packages", () => {
@@ -193,7 +199,7 @@ describe("isRelevant — positive name patterns", () => {
 				id: "@my-org/pi-tools",
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 
 	it("accepts 'pi-coding-agent' in name", () => {
@@ -203,7 +209,7 @@ describe("isRelevant — positive name patterns", () => {
 				id: "my-pi-coding-agent-tool",
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 
 	it("accepts 'pi-mcp' in name", () => {
@@ -213,7 +219,7 @@ describe("isRelevant — positive name patterns", () => {
 				id: "pi-mcp",
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 });
 
@@ -228,7 +234,7 @@ describe("isRelevant — positive text signals", () => {
 				description: "A tool for the pi coding agent",
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 
 	it("accepts 'pi.dev' in description", () => {
@@ -239,7 +245,7 @@ describe("isRelevant — positive text signals", () => {
 				description: "Built for pi.dev ecosystem",
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 
 	it("accepts 'pi extension' in description", () => {
@@ -250,7 +256,7 @@ describe("isRelevant — positive text signals", () => {
 				description: "A pi extension for workflow automation",
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 
 	it("accepts 'mariozechner/pi' in description", () => {
@@ -260,7 +266,7 @@ describe("isRelevant — positive text signals", () => {
 				description: "Wrapper around mariozechner/pi",
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 
 	it("accepts pi-agent topic", () => {
@@ -271,7 +277,7 @@ describe("isRelevant — positive text signals", () => {
 				topics: ["pi-agent"],
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 
 	it("accepts pi-coding-agent topic", () => {
@@ -282,7 +288,7 @@ describe("isRelevant — positive text signals", () => {
 				topics: ["pi-coding-agent"],
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 });
 
@@ -296,7 +302,7 @@ describe("isRelevant — default accept for ambiguous candidates", () => {
 				description: "A generic project",
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 
 	it("accepts an ambiguous npm package", () => {
@@ -307,7 +313,7 @@ describe("isRelevant — default accept for ambiguous candidates", () => {
 				description: "A generic thing",
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 });
 
@@ -322,9 +328,9 @@ describe("isRelevant — mathematical π rejection", () => {
 				description: "Pi.",
 			}),
 		);
-		expect(result.relevant).toBe(false);
+		expect(result.accept).toBe(false);
 		// Caught by either blocked name or mathematical pi signal
-		expect(result.reason).toMatch(/blocked name|mathematical pi/);
+		expect(rejectionReason(result)).toMatch(/blocked name|mathematical pi/);
 	});
 
 	it("rejects 'generate-pi' package", () => {
@@ -335,7 +341,7 @@ describe("isRelevant — mathematical π rejection", () => {
 				description: "Find PI(π) to the Nth Digit",
 			}),
 		);
-		expect(result.relevant).toBe(false);
+		expect(result.accept).toBe(false);
 	});
 
 	it("rejects bare 'pi' package", () => {
@@ -346,7 +352,7 @@ describe("isRelevant — mathematical π rejection", () => {
 				description: "Going deeper inside of the PI number.",
 			}),
 		);
-		expect(result.relevant).toBe(false);
+		expect(result.accept).toBe(false);
 	});
 
 	it("rejects description with 'digits of pi'", () => {
@@ -357,8 +363,8 @@ describe("isRelevant — mathematical π rejection", () => {
 				description: "Calculate digits of pi to any precision",
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toContain("mathematical pi");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("mathematical pi");
 	});
 
 	it("rejects description with 'irrational number'", () => {
@@ -369,7 +375,7 @@ describe("isRelevant — mathematical π rejection", () => {
 				description: "An irrational number library for computing constants",
 			}),
 		);
-		expect(result.relevant).toBe(false);
+		expect(result.accept).toBe(false);
 	});
 });
 
@@ -384,7 +390,7 @@ describe("isRelevant — PixiJS game library rejection", () => {
 				description: "PIXI plugin for the PixiAnimate Extension",
 			}),
 		);
-		expect(result.relevant).toBe(false);
+		expect(result.accept).toBe(false);
 	});
 
 	it("rejects pixi-tiledmap", () => {
@@ -395,8 +401,8 @@ describe("isRelevant — PixiJS game library rejection", () => {
 				description: "Tiled Map Editor loader and renderer for PixiJS v8",
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toContain("pixijs");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("pixijs");
 	});
 
 	it("rejects pixijs topic", () => {
@@ -407,7 +413,7 @@ describe("isRelevant — PixiJS game library rejection", () => {
 				topics: ["pixijs", "game"],
 			}),
 		);
-		expect(result.relevant).toBe(false);
+		expect(result.accept).toBe(false);
 	});
 });
 
@@ -422,8 +428,8 @@ describe("isRelevant — Pi Network cryptocurrency rejection", () => {
 				description: "High-performance bridge for Pi Network Microservices",
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toContain("pi network");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("pi network");
 	});
 
 	it("rejects 'pi-network' in description", () => {
@@ -433,7 +439,7 @@ describe("isRelevant — Pi Network cryptocurrency rejection", () => {
 				description: "A pi-network wallet",
 			}),
 		);
-		expect(result.relevant).toBe(false);
+		expect(result.accept).toBe(false);
 	});
 });
 
@@ -447,8 +453,8 @@ describe("isRelevant — AVEVA PI / industrial rejection", () => {
 				description: "CONNECT to PI Agent Release — AVEVA PI System",
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toContain("industrial");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("industrial");
 	});
 
 	it("rejects 'osisoft' in description", () => {
@@ -458,7 +464,7 @@ describe("isRelevant — AVEVA PI / industrial rejection", () => {
 				description: "OSIsoft PI Server connector",
 			}),
 		);
-		expect(result.relevant).toBe(false);
+		expect(result.accept).toBe(false);
 	});
 });
 
@@ -473,8 +479,8 @@ describe("isRelevant — unrelated ecosystem rejection", () => {
 				description: "A tiptap image resizing extension for React",
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toContain("unrelated ecosystem");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("unrelated ecosystem");
 	});
 
 	it("rejects Pimcore CMS extension", () => {
@@ -485,7 +491,7 @@ describe("isRelevant — unrelated ecosystem rejection", () => {
 				description: "jQuery Extensions for the PIMCORE Form Builder",
 			}),
 		);
-		expect(result.relevant).toBe(false);
+		expect(result.accept).toBe(false);
 	});
 
 	it("rejects Node-RED contribution", () => {
@@ -496,7 +502,7 @@ describe("isRelevant — unrelated ecosystem rejection", () => {
 				description: "Hook up Node-RED to react to your Amazon Echo",
 			}),
 		);
-		expect(result.relevant).toBe(false);
+		expect(result.accept).toBe(false);
 	});
 
 	it("rejects SAP UI5 extension", () => {
@@ -507,7 +513,7 @@ describe("isRelevant — unrelated ecosystem rejection", () => {
 				description: "A wrapper module for BAS simple extension around Language Support For SAPUI5",
 			}),
 		);
-		expect(result.relevant).toBe(false);
+		expect(result.accept).toBe(false);
 	});
 
 	it("rejects Storybook package", () => {
@@ -518,7 +524,7 @@ describe("isRelevant — unrelated ecosystem rejection", () => {
 				description: "Storybook for Vue3 and Rsbuild",
 			}),
 		);
-		expect(result.relevant).toBe(false);
+		expect(result.accept).toBe(false);
 	});
 });
 
@@ -534,7 +540,7 @@ describe("isRelevant — pi-package keyword acceptance", () => {
 				keywords: ["pi-package", "pi-extension", "agent"],
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 
 	it("accepts package with 'pi-extension' keyword", () => {
@@ -546,7 +552,7 @@ describe("isRelevant — pi-package keyword acceptance", () => {
 				keywords: ["pi-extension"],
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 
 	it("accepts package with 'pi-theme' keyword", () => {
@@ -558,7 +564,7 @@ describe("isRelevant — pi-package keyword acceptance", () => {
 				keywords: ["pi-package", "pi-theme", "jellybeans"],
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 });
 
@@ -572,8 +578,8 @@ describe("isRelevant — non-English language rejection", () => {
 				description: "Собрал кпк на lichee pi zero для экспериментов",
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toContain("non-english");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("non-english");
 	});
 
 	it("rejects Cyrillic (Bulgarian) in description", () => {
@@ -583,8 +589,8 @@ describe("isRelevant — non-English language rejection", () => {
 				description: "Абонирайте се за мен: https://www.youtube.com/c/MarksferdieBG",
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toContain("non-english");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("non-english");
 	});
 
 	it("rejects CJK (Chinese) in description", () => {
@@ -595,8 +601,8 @@ describe("isRelevant — non-English language rejection", () => {
 				description: "数学思想武器：将数学思维应用到科研和生活中。",
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toContain("non-english");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("non-english");
 	});
 
 	it("rejects Devanagari (Hindi) in description", () => {
@@ -606,8 +612,8 @@ describe("isRelevant — non-English language rejection", () => {
 				description: "new धमाका/pearl रैंक का 3,4,5or 6th राउंड ऑटोपुल अपडेट!",
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toContain("non-english");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("non-english");
 	});
 
 	it("rejects Japanese (Hiragana) in description", () => {
@@ -617,8 +623,8 @@ describe("isRelevant — non-English language rejection", () => {
 				description: "これはテストです pi coding agent",
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toContain("non-english");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("non-english");
 	});
 
 	it("rejects Korean (Hangul) in description", () => {
@@ -628,8 +634,8 @@ describe("isRelevant — non-English language rejection", () => {
 				description: "파이 코딩 에이전트 확장",
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toContain("non-english");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("non-english");
 	});
 
 	it("allows English-only text", () => {
@@ -640,7 +646,7 @@ describe("isRelevant — non-English language rejection", () => {
 				description: "A great pi coding agent extension",
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 
 	it("allows English text with emoji", () => {
@@ -651,7 +657,7 @@ describe("isRelevant — non-English language rejection", () => {
 				description: "🧛🏻‍♂️ Dark theme for PI Coding Agent",
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 
 	it("allows mixed English/Latin-accented text", () => {
@@ -662,7 +668,7 @@ describe("isRelevant — non-English language rejection", () => {
 				description: "Un outil pour l'agent pi coding — dépendance légère",
 			}),
 		);
-		expect(result.relevant).toBe(true);
+		expect(result.accept).toBe(true);
 	});
 
 	it("rejects German-only YouTube video (Latin but non-English)", () => {
@@ -675,8 +681,8 @@ describe("isRelevant — non-English language rejection", () => {
 				description: "Jaives ist ein vollständig selbst gehosteter KI-Assistent",
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toBe("non-english language (german)");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toBe("non-english language (german)");
 	});
 
 	it("rejects Indonesian YouTube video even with Pi coding agent mention", () => {
@@ -689,8 +695,8 @@ describe("isRelevant — non-English language rejection", () => {
 					"Update terbaru Zentty (v0.1.12) makin gila! Sekarang Cursor dan Pi coding agents sudah terintegrasi penuh",
 			}),
 		);
-		expect(result.relevant).toBe(false);
-		expect(result.reason).toBe("non-english language (indonesian)");
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toBe("non-english language (indonesian)");
 	});
 });
 
@@ -706,7 +712,7 @@ describe("isRelevant — hard blocks take priority over positive signals", () =>
 			}),
 		);
 		// Blocked scope is checked first (Layer 1), so it's rejected
-		expect(result.relevant).toBe(false);
+		expect(result.accept).toBe(false);
 	});
 
 	it("blocks mathematical pi even if name contains 'pi'", () => {
@@ -717,6 +723,6 @@ describe("isRelevant — hard blocks take priority over positive signals", () =>
 				description: "Find PI(π) to the Nth Digit — mathematical constant",
 			}),
 		);
-		expect(result.relevant).toBe(false);
+		expect(result.accept).toBe(false);
 	});
 });
