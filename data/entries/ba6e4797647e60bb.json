@@ -1,0 +1,45 @@
+{
+  "id": "machulav-accountant24",
+  "name": "machulav-accountant24",
+  "url": "https://github.com/machulav/accountant24",
+  "source": "github-search",
+  "description": "Local-first AI agent for personal accounting. Your data stays as plain text files on your machine. Works with any LLM — including local ones. Log spending, import statements, ask questions, teach the agent, track changes with git, and more.",
+  "metadata": {
+    "github_url": "https://github.com/machulav/accountant24",
+    "repo_full_name": "machulav/accountant24",
+    "description": "Local-first AI agent for personal accounting. Your data stays as plain text files on your machine. Works with any LLM — including local ones. Log spending, import statements, ask questions, teach the agent, track changes with git, and more.",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 3,
+    "topics": [
+      "accounting",
+      "accounting-app",
+      "ai-agent",
+      "bookkeeping",
+      "budget-app",
+      "budget-management",
+      "budget-tracker",
+      "budgeting",
+      "cli",
+      "llm",
+      "personal-budget",
+      "personal-finance",
+      "personal-finances",
+      "pi-coding-agent",
+      "plaintext-accounting"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-23T14:03:14Z",
+    "pushed_at": "2026-04-26T08:51:33Z",
+    "updated_at": "2026-04-26T08:51:38Z",
+    "size": 16251,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 76,
+    "level": "active"
+  },
+  "category": "misc"
+}

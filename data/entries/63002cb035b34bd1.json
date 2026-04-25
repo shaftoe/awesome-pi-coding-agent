@@ -1,0 +1,29 @@
+{
+  "id": "akaihola-pi-akaihola",
+  "name": "akaihola-pi-akaihola",
+  "url": "https://github.com/akaihola/pi-akaihola",
+  "source": "github-search",
+  "description": "Packages, extensions and agents for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/akaihola/pi-akaihola",
+    "repo_full_name": "akaihola/pi-akaihola",
+    "description": "Packages, extensions and agents for Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-19T11:41:28Z",
+    "pushed_at": "2026-04-02T19:44:59Z",
+    "updated_at": "2026-04-02T19:45:04Z",
+    "size": 59,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pi-buddy",
+  "name": "pi-buddy",
+  "url": "https://www.npmjs.com/package/pi-buddy",
+  "source": "npm-search",
+  "description": "An animated ASCII companion that lives beside your Pi input box. Hatches buddies with unique species, stats, and personalities. Reacts to what you're coding.",
+  "metadata": {
+    "github_url": "https://github.com/NerfEko/PiBuddy",
+    "npm_name": "pi-buddy",
+    "description": "An animated ASCII companion that lives beside your Pi input box. Hatches buddies with unique species, stats, and personalities. Reacts to what you're coding.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "buddy",
+      "companion",
+      "ascii"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-04-22T13:38:00.942Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "misc"
+}

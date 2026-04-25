@@ -1,0 +1,29 @@
+{
+  "id": "arniesaha-agent-max",
+  "name": "arniesaha-agent-max",
+  "url": "https://github.com/arniesaha/agent-max",
+  "source": "github-search",
+  "description": "Self-hosted AI agent. Opinionated pi-mono fork with A2A, browser automation, and distributed compute.",
+  "metadata": {
+    "github_url": "https://github.com/arniesaha/agent-max",
+    "repo_full_name": "arniesaha/agent-max",
+    "description": "Self-hosted AI agent. Opinionated pi-mono fork with A2A, browser automation, and distributed compute.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-07T17:22:00Z",
+    "pushed_at": "2026-04-24T02:39:05Z",
+    "updated_at": "2026-04-24T02:39:05Z",
+    "size": 1762,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 70,
+    "level": "active"
+  },
+  "category": "misc"
+}

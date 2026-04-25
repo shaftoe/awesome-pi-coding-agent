@@ -1,0 +1,32 @@
+{
+  "id": "averycrespi-agent-config",
+  "name": "averycrespi-agent-config",
+  "url": "https://github.com/averycrespi/agent-config",
+  "source": "github-search",
+  "description": "My configuration for working with AI coding agents",
+  "metadata": {
+    "github_url": "https://github.com/averycrespi/agent-config",
+    "repo_full_name": "averycrespi/agent-config",
+    "description": "My configuration for working with AI coding agents",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "claude-code",
+      "pi-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2025-07-18T22:05:54Z",
+    "pushed_at": "2026-04-26T01:10:49Z",
+    "updated_at": "2026-04-26T01:11:00Z",
+    "size": 2047,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

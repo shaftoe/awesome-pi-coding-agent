@@ -1,0 +1,33 @@
+{
+  "id": "knoopx-pi",
+  "name": "knoopx-pi",
+  "url": "https://github.com/knoopx/pi",
+  "source": "github-search",
+  "description": "pi.ai config",
+  "metadata": {
+    "github_url": "https://github.com/knoopx/pi",
+    "repo_full_name": "knoopx/pi",
+    "description": "pi.ai config",
+    "stars": 39,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "pi-coding-agent",
+      "pi-extensions",
+      "skills"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-01-14T10:55:30Z",
+    "pushed_at": "2026-04-19T16:37:53Z",
+    "updated_at": "2026-04-26T00:15:44Z",
+    "size": 22510,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 74,
+    "level": "active"
+  },
+  "category": "misc"
+}

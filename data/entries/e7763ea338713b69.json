@@ -1,0 +1,36 @@
+{
+  "id": "pi-web-utils",
+  "name": "pi-web-utils",
+  "url": "https://www.npmjs.com/package/pi-web-utils",
+  "source": "npm-search",
+  "description": "Configurable web search, markdown-first webpage fetching, GitHub local repo search tools for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/shantanugoel/pi-web-utils",
+    "npm_name": "pi-web-utils",
+    "description": "Configurable web search, markdown-first webpage fetching, GitHub local repo search tools for pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "extension",
+      "web-search",
+      "github",
+      "markdown"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-02-25T15:35:02.914Z",
+    "npm_downloads_monthly": 55,
+    "npm_downloads_weekly": 16,
+    "npm_score_final": 14.69034,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

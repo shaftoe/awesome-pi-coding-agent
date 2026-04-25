@@ -1,0 +1,39 @@
+{
+  "id": "c99e-gqlx",
+  "name": "c99e-gqlx",
+  "url": "https://github.com/c99e/gqlx",
+  "source": "github-search",
+  "description": "Pi extension that gives AI agents schema-aware GraphQL exploration and query execution tools",
+  "metadata": {
+    "github_url": "https://github.com/c99e/gqlx",
+    "repo_full_name": "c99e/gqlx",
+    "description": "Pi extension that gives AI agents schema-aware GraphQL exploration and query execution tools",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [
+      "ai-tools",
+      "cli",
+      "graphql",
+      "introspection",
+      "linear",
+      "pi-extension",
+      "pi-package",
+      "shopify",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-30T11:45:38Z",
+    "pushed_at": "2026-04-03T11:31:48Z",
+    "updated_at": "2026-04-03T11:31:46Z",
+    "size": 146,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 66,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ryo-morimoto-pi-codedb",
+  "name": "ryo-morimoto-pi-codedb",
+  "url": "https://github.com/ryo-morimoto/pi-codedb",
+  "source": "github-search",
+  "description": "Code intelligence for pi-coding-agent — structural indexing, trigram search, symbol lookup via codedb REST API",
+  "metadata": {
+    "github_url": "https://github.com/ryo-morimoto/pi-codedb",
+    "repo_full_name": "ryo-morimoto/pi-codedb",
+    "description": "Code intelligence for pi-coding-agent — structural indexing, trigram search, symbol lookup via codedb REST API",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 6,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-06T17:55:05Z",
+    "pushed_at": "2026-04-20T08:58:34Z",
+    "updated_at": "2026-04-08T12:55:51Z",
+    "size": 135,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

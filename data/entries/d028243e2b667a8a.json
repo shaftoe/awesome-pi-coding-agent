@@ -1,0 +1,21 @@
+{
+  "id": "YT_1cF_Afc5_tA",
+  "name": "PI Agent + Ollama + Gemma4: Super Lightweight and Highly Extensible AI Coding Agent",
+  "url": "https://youtube.com/watch?v=1cF_Afc5_tA",
+  "source": "youtube-search",
+  "description": "This video demonstrated how to install and use Pi Agent with Ollama and Gemma 4 including skills, extensions and subagents Pi ...",
+  "metadata": {
+    "title": "PI Agent + Ollama + Gemma4: Super Lightweight and Highly Extensible AI Coding Agent",
+    "name": "PI Agent + Ollama + Gemma4: Super Lightweight and Highly Extensible AI Coding Agent",
+    "description": "This video demonstrated how to install and use Pi Agent with Ollama and Gemma 4 including skills, extensions and subagents Pi ...",
+    "channel": "DevsKingdom",
+    "published_at": "2026-04-09T17:50:18Z",
+    "thumbnail": "https://i.ytimg.com/vi/1cF_Afc5_tA/hqdefault.jpg",
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 38,
+    "level": "stale"
+  },
+  "category": "video"
+}

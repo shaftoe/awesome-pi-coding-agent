@@ -1,0 +1,29 @@
+{
+  "id": "MadhavM-117-pi-config",
+  "name": "MadhavM-117-pi-config",
+  "url": "https://github.com/MadhavM-117/pi-config",
+  "source": "github-search",
+  "description": "Local Configuration for the pi coding agent. ",
+  "metadata": {
+    "github_url": "https://github.com/MadhavM-117/pi-config",
+    "repo_full_name": "MadhavM-117/pi-config",
+    "description": "Local Configuration for the pi coding agent. ",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-07T21:57:27Z",
+    "pushed_at": "2026-03-07T22:02:55Z",
+    "updated_at": "2026-03-07T22:02:58Z",
+    "size": 23,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

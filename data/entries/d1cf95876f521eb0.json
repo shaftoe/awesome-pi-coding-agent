@@ -1,0 +1,29 @@
+{
+  "id": "EcoKG-vela-pi",
+  "name": "EcoKG-vela-pi",
+  "url": "https://github.com/EcoKG/vela-pi",
+  "source": "github-search",
+  "description": "Vela — deterministic sandbox engine built on Pi SDK (@mariozechner/pi-coding-agent)",
+  "metadata": {
+    "github_url": "https://github.com/EcoKG/vela-pi",
+    "repo_full_name": "EcoKG/vela-pi",
+    "description": "Vela — deterministic sandbox engine built on Pi SDK (@mariozechner/pi-coding-agent)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-08T01:25:26Z",
+    "pushed_at": "2026-04-08T13:51:14Z",
+    "updated_at": "2026-04-08T13:52:01Z",
+    "size": 343,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

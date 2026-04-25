@@ -1,0 +1,29 @@
+{
+  "id": "octalpixel-mastractl",
+  "name": "octalpixel-mastractl",
+  "url": "https://github.com/octalpixel/mastractl",
+  "source": "github-search",
+  "description": "Opinionated AI agent control plane: Mastra shell + pi-agent-core loop + Paperclip-shape control plane",
+  "metadata": {
+    "github_url": "https://github.com/octalpixel/mastractl",
+    "repo_full_name": "octalpixel/mastractl",
+    "description": "Opinionated AI agent control plane: Mastra shell + pi-agent-core loop + Paperclip-shape control plane",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-17T15:04:49Z",
+    "pushed_at": "2026-04-19T20:42:30Z",
+    "updated_at": "2026-04-23T16:22:27Z",
+    "size": 1094,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 70,
+    "level": "active"
+  },
+  "category": "misc"
+}

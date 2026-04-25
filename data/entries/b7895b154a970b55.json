@@ -1,0 +1,29 @@
+{
+  "id": "pocorschi-pi-screenshots",
+  "name": "pocorschi-pi-screenshots",
+  "url": "https://github.com/pocorschi/pi-screenshots",
+  "source": "github-search",
+  "description": "Screenshot picker extension for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/pocorschi/pi-screenshots",
+    "repo_full_name": "pocorschi/pi-screenshots",
+    "description": "Screenshot picker extension for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-15T08:25:44Z",
+    "pushed_at": "2026-04-15T08:26:00Z",
+    "updated_at": "2026-04-15T08:26:04Z",
+    "size": 5,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

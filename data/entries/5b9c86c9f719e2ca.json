@@ -1,0 +1,33 @@
+{
+  "id": "pi-talk",
+  "name": "pi-talk",
+  "url": "https://www.npmjs.com/package/pi-talk",
+  "source": "npm-search",
+  "description": "Streaming TTS extension for Pi with visible-thinking narration, hidden-thinking TLDRs, and tool announcements",
+  "metadata": {
+    "github_url": "https://github.com/agustif/pi-talk",
+    "npm_name": "pi-talk",
+    "description": "Streaming TTS extension for Pi with visible-thinking narration, hidden-thinking TLDRs, and tool announcements",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "tts",
+      "text-to-speech",
+      "audio"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-03-12T07:03:34.552Z",
+    "npm_downloads_monthly": 23,
+    "npm_downloads_weekly": 3,
+    "npm_score_final": 11.096697,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

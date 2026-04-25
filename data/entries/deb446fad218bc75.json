@@ -1,0 +1,33 @@
+{
+  "id": "pi-minimax-tools",
+  "name": "pi-minimax-tools",
+  "url": "https://www.npmjs.com/package/pi-minimax-tools",
+  "source": "npm-search",
+  "description": "MiniMax web_search and understand_image tools for pi",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-minimax-tools",
+    "description": "MiniMax web_search and understand_image tools for pi",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-coding-agent",
+      "extension",
+      "tools"
+    ],
+    "version": "1.0.6",
+    "published_at": "2026-03-27T16:54:18.132Z",
+    "npm_downloads_monthly": 326,
+    "npm_downloads_weekly": 23,
+    "npm_score_final": 22.354158,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 75,
+    "level": "active"
+  },
+  "category": "extension"
+}

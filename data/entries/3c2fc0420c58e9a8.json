@@ -1,0 +1,29 @@
+{
+  "id": "sigilmakes-pi-memory",
+  "name": "sigilmakes-pi-memory",
+  "url": "https://github.com/sigilmakes/pi-memory",
+  "source": "github-search",
+  "description": "Memory system for pi coding agents — soul identity, memory consolidation, and recall",
+  "metadata": {
+    "github_url": "https://github.com/sigilmakes/pi-memory",
+    "repo_full_name": "sigilmakes/pi-memory",
+    "description": "Memory system for pi coding agents — soul identity, memory consolidation, and recall",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-12T21:20:04Z",
+    "pushed_at": "2026-02-13T09:31:22Z",
+    "updated_at": "2026-02-13T09:31:25Z",
+    "size": 3,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "@versdotsh/reef",
+  "name": "@versdotsh/reef",
+  "url": "https://www.npmjs.com/package/@versdotsh/reef",
+  "source": "npm-search",
+  "description": "Self-improving fleet infrastructure — the minimum kernel agents need to build their own tools",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@versdotsh/reef",
+    "description": "Self-improving fleet infrastructure — the minimum kernel agents need to build their own tools",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-03-01T07:33:43.555Z",
+    "npm_downloads_monthly": 43,
+    "npm_downloads_weekly": 13,
+    "npm_score_final": 13.647419,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

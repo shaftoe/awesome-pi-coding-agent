@@ -1,0 +1,21 @@
+{
+  "id": "YT_O-96yYDPMOc",
+  "name": "Pi Coding Agent",
+  "url": "https://youtube.com/watch?v=O-96yYDPMOc",
+  "source": "youtube-search",
+  "description": "Let's have a look at the Pi coding agent. https://pi.dev/ Contact: david.devonduty@gmail.com #pi #coding-agent.",
+  "metadata": {
+    "title": "Pi Coding Agent",
+    "name": "Pi Coding Agent",
+    "description": "Let's have a look at the Pi coding agent. https://pi.dev/ Contact: david.devonduty@gmail.com #pi #coding-agent.",
+    "channel": "DevOnDuty",
+    "published_at": "2026-04-12T21:36:18Z",
+    "thumbnail": "https://i.ytimg.com/vi/O-96yYDPMOc/hqdefault.jpg",
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 38,
+    "level": "stale"
+  },
+  "category": "video"
+}

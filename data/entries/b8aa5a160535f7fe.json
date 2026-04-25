@@ -1,0 +1,29 @@
+{
+  "id": "asyrjasalo-pi-run-code",
+  "name": "asyrjasalo-pi-run-code",
+  "url": "https://github.com/asyrjasalo/pi-run-code",
+  "source": "github-search",
+  "description": "Pi Coding Agent extension for TypeScript/JavaScript code mode",
+  "metadata": {
+    "github_url": "https://github.com/asyrjasalo/pi-run-code",
+    "repo_full_name": "asyrjasalo/pi-run-code",
+    "description": "Pi Coding Agent extension for TypeScript/JavaScript code mode",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-17T09:55:26Z",
+    "pushed_at": "2026-04-17T10:27:01Z",
+    "updated_at": "2026-04-17T10:27:04Z",
+    "size": 63,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

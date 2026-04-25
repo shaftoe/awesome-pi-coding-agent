@@ -1,0 +1,38 @@
+{
+  "id": "pi-pai",
+  "name": "pi-pai",
+  "url": "https://www.npmjs.com/package/pi-pai",
+  "source": "npm-search",
+  "description": "Personal AI Infrastructure extension for Pi — full v4.0.3 sync: ISC splitting test, count gates, anti-criteria, capability tracking, time budgets, enhanced observability, agent personas, sentiment tracking, self-evolution, Ralph iteration, damage control",
+  "metadata": {
+    "github_url": "https://github.com/arosstale/pi-pai",
+    "npm_name": "pi-pai",
+    "description": "Personal AI Infrastructure extension for Pi — full v4.0.3 sync: ISC splitting test, count gates, anti-criteria, capability tracking, time budgets, enhanced observability, agent personas, sentiment tracking, self-evolution, Ralph iteration, damage control",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pai",
+      "personal-ai-infrastructure",
+      "telos",
+      "ralph-wiggum",
+      "damage-control",
+      "goal-tracking",
+      "learning-loop",
+      "scientific-method"
+    ],
+    "version": "4.2.0",
+    "published_at": "2026-03-10T13:35:17.785Z",
+    "npm_downloads_monthly": 82,
+    "npm_downloads_weekly": 9,
+    "npm_score_final": 16.810665,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

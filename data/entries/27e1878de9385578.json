@@ -1,0 +1,29 @@
+{
+  "id": "basnijholt-pi-subagents",
+  "name": "basnijholt-pi-subagents",
+  "url": "https://github.com/basnijholt/pi-subagents",
+  "source": "github-search",
+  "description": "Persistent RPC sub-agent pool extension for pi",
+  "metadata": {
+    "github_url": "https://github.com/basnijholt/pi-subagents",
+    "repo_full_name": "basnijholt/pi-subagents",
+    "description": "Persistent RPC sub-agent pool extension for pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-25T20:18:01Z",
+    "pushed_at": "2026-02-25T20:49:57Z",
+    "updated_at": "2026-02-25T20:47:07Z",
+    "size": 39,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

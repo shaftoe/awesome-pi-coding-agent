@@ -1,0 +1,29 @@
+{
+  "id": "fanto237-agents",
+  "name": "fanto237-agents",
+  "url": "https://github.com/fanto237/agents",
+  "source": "github-search",
+  "description": "skills, themes and extensions i use with pi agent.",
+  "metadata": {
+    "github_url": "https://github.com/fanto237/agents",
+    "repo_full_name": "fanto237/agents",
+    "description": "skills, themes and extensions i use with pi agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-15T15:13:55Z",
+    "pushed_at": "2026-03-27T14:04:06Z",
+    "updated_at": "2026-03-27T14:04:09Z",
+    "size": 174,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "YT_MxdQFYnPC4I",
+  "name": "Pi Kodlama Ajanı - ÇOK DAHA İYİ (Claude Code, Codex, OpenCode alternatifi)",
+  "url": "https://youtube.com/watch?v=MxdQFYnPC4I",
+  "source": "youtube-search",
+  "description": "Claude Code CLI ile yapay zeka kodlama yapanların seveceği Pi agent sizlere tanıtmaya çalıştım. Codex, Claude, Gemini gibi ...",
+  "metadata": {
+    "title": "Pi Kodlama Ajanı - ÇOK DAHA İYİ (Claude Code, Codex, OpenCode alternatifi)",
+    "name": "Pi Kodlama Ajanı - ÇOK DAHA İYİ (Claude Code, Codex, OpenCode alternatifi)",
+    "description": "Claude Code CLI ile yapay zeka kodlama yapanların seveceği Pi agent sizlere tanıtmaya çalıştım. Codex, Claude, Gemini gibi ...",
+    "channel": "HQ NET",
+    "published_at": "2026-03-08T15:33:46Z",
+    "thumbnail": "https://i.ytimg.com/vi/MxdQFYnPC4I/hqdefault.jpg",
+    "discovery_hint": "youtube:pi-coding-agent"
+  },
+  "health": {
+    "score": 31,
+    "level": "stale"
+  },
+  "category": "video"
+}

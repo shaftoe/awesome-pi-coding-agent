@@ -1,0 +1,32 @@
+{
+  "id": "peektism-pi-zsh",
+  "name": "peektism-pi-zsh",
+  "url": "https://github.com/peektism/pi-zsh",
+  "source": "github-search",
+  "description": "Allowlist-only zsh script runner extension for pi coding agents",
+  "metadata": {
+    "github_url": "https://github.com/peektism/pi-zsh",
+    "repo_full_name": "peektism/pi-zsh",
+    "description": "Allowlist-only zsh script runner extension for pi coding agents",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-agent",
+      "pi-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-18T08:09:03Z",
+    "pushed_at": "2026-02-18T18:48:26Z",
+    "updated_at": "2026-02-18T18:49:15Z",
+    "size": 65,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pi-1password",
+  "name": "pi-1password",
+  "url": "https://www.npmjs.com/package/pi-1password",
+  "source": "npm-search",
+  "description": "1Password Pi coding agent secret management",
+  "metadata": {
+    "github_url": "https://github.com/kylebrodeur/1password-ssh-setup",
+    "npm_name": "pi-1password",
+    "description": "1Password Pi coding agent secret management",
+    "keywords": [
+      "1password",
+      "pi-package",
+      "agent",
+      "secrets"
+    ],
+    "version": "0.3.5",
+    "published_at": "2026-04-25T17:45:55.874Z",
+    "npm_downloads_monthly": 1172,
+    "npm_downloads_weekly": 883,
+    "npm_score_final": 28.318928,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "misc"
+}

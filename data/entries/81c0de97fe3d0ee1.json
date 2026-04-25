@@ -1,0 +1,29 @@
+{
+  "id": "hsohn420420-cmyk-iflow2api-pi-extension",
+  "name": "hsohn420420-cmyk-iflow2api-pi-extension",
+  "url": "https://github.com/hsohn420420-cmyk/iflow2api-pi-extension",
+  "source": "github-search",
+  "description": "iflow2api Extension for pi-coding-agent - Free cloud models (128K-256K context) via local iFlow2API proxy with chunking support",
+  "metadata": {
+    "github_url": "https://github.com/hsohn420420-cmyk/iflow2api-pi-extension",
+    "repo_full_name": "hsohn420420-cmyk/iflow2api-pi-extension",
+    "description": "iflow2api Extension for pi-coding-agent - Free cloud models (128K-256K context) via local iFlow2API proxy with chunking support",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-23T18:26:25Z",
+    "pushed_at": "2026-03-23T18:41:50Z",
+    "updated_at": "2026-03-23T18:41:53Z",
+    "size": 8,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

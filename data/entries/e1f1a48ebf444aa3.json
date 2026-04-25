@@ -1,0 +1,29 @@
+{
+  "id": "pmTouchedTheCode-pi-agents",
+  "name": "pmTouchedTheCode-pi-agents",
+  "url": "https://github.com/pmTouchedTheCode/pi-agents",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/pmTouchedTheCode/pi-agents",
+    "repo_full_name": "pmTouchedTheCode/pi-agents",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-01T04:08:49Z",
+    "pushed_at": "2026-04-01T04:12:00Z",
+    "updated_at": "2026-04-01T04:12:04Z",
+    "size": 275,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

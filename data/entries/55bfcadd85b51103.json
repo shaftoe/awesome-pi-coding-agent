@@ -1,0 +1,32 @@
+{
+  "id": "pi-co-authored-by",
+  "name": "pi-co-authored-by",
+  "url": "https://www.npmjs.com/package/pi-co-authored-by",
+  "source": "npm-search",
+  "description": "A Pi extension that automatically appends Co-Authored-By and Generated-By git trailers to commit messages with the model name and pi version",
+  "metadata": {
+    "github_url": "https://github.com/bruno-garcia/pi-co-authored-by",
+    "npm_name": "pi-co-authored-by",
+    "description": "A Pi extension that automatically appends Co-Authored-By and Generated-By git trailers to commit messages with the model name and pi version",
+    "keywords": [
+      "pi-package",
+      "git",
+      "co-authored-by",
+      "pi-extension"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-03-29T17:58:14.304Z",
+    "npm_downloads_monthly": 174,
+    "npm_downloads_weekly": 10,
+    "npm_score_final": 19.56539,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

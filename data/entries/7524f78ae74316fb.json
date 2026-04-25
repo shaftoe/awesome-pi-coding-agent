@@ -1,0 +1,29 @@
+{
+  "id": "gregmercer-temporal-pi-tui",
+  "name": "gregmercer-temporal-pi-tui",
+  "url": "https://github.com/gregmercer/temporal-pi-tui",
+  "source": "github-search",
+  "description": "A music-obsessed AI agent in your terminal. Built using pi-mono packages.",
+  "metadata": {
+    "github_url": "https://github.com/gregmercer/temporal-pi-tui",
+    "repo_full_name": "gregmercer/temporal-pi-tui",
+    "description": "A music-obsessed AI agent in your terminal. Built using pi-mono packages.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-02T18:40:16Z",
+    "pushed_at": "2026-04-02T18:42:51Z",
+    "updated_at": "2026-04-02T18:42:55Z",
+    "size": 41,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

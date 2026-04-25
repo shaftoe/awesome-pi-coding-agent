@@ -1,0 +1,29 @@
+{
+  "id": "jackoske-touch-grass-pi",
+  "name": "jackoske-touch-grass-pi",
+  "url": "https://github.com/jackoske/touch-grass-pi",
+  "source": "github-search",
+  "description": "Break reminder extension for pi coding agent — animated session timer so you actually eat and touch grass",
+  "metadata": {
+    "github_url": "https://github.com/jackoske/touch-grass-pi",
+    "repo_full_name": "jackoske/touch-grass-pi",
+    "description": "Break reminder extension for pi coding agent — animated session timer so you actually eat and touch grass",
+    "stars": 10,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-09T12:49:35Z",
+    "pushed_at": "2026-04-09T15:14:15Z",
+    "updated_at": "2026-04-19T20:26:02Z",
+    "size": 8,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

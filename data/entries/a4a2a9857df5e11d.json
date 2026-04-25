@@ -1,0 +1,29 @@
+{
+  "id": "Forgenn-plder",
+  "name": "Forgenn-plder",
+  "url": "https://github.com/Forgenn/plder",
+  "source": "github-search",
+  "description": "Pi agent config",
+  "metadata": {
+    "github_url": "https://github.com/Forgenn/plder",
+    "repo_full_name": "Forgenn/plder",
+    "description": "Pi agent config",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-07T16:18:26Z",
+    "pushed_at": "2026-04-23T17:29:22Z",
+    "updated_at": "2026-04-23T17:29:27Z",
+    "size": 80,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

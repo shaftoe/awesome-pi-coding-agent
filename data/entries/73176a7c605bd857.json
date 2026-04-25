@@ -1,0 +1,29 @@
+{
+  "id": "Jabbslad-pi-shimmer",
+  "name": "Jabbslad-pi-shimmer",
+  "url": "https://github.com/Jabbslad/pi-shimmer",
+  "source": "github-search",
+  "description": "🌈 Rainbow shimmer spinner with Claude Code verbs for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Jabbslad/pi-shimmer",
+    "repo_full_name": "Jabbslad/pi-shimmer",
+    "description": "🌈 Rainbow shimmer spinner with Claude Code verbs for Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-07T00:14:16Z",
+    "pushed_at": "2026-04-07T00:21:11Z",
+    "updated_at": "2026-04-07T00:21:18Z",
+    "size": 8,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

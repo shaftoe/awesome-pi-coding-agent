@@ -1,0 +1,21 @@
+{
+  "id": "YT_Oayp5VtBWl0",
+  "name": "pi-computer-use Review: Semantic Computer Use for Pi Agents on macOS",
+  "url": "https://youtube.com/watch?v=Oayp5VtBWl0",
+  "source": "youtube-search",
+  "description": "A source-grounded review of pi-computer-use, a macOS-first Pi extension that gives agents semantic computer-use tools with ...",
+  "metadata": {
+    "title": "pi-computer-use Review: Semantic Computer Use for Pi Agents on macOS",
+    "name": "pi-computer-use Review: Semantic Computer Use for Pi Agents on macOS",
+    "description": "A source-grounded review of pi-computer-use, a macOS-first Pi extension that gives agents semantic computer-use tools with ...",
+    "channel": "TechWealth Hub",
+    "published_at": "2026-04-25T01:50:53Z",
+    "thumbnail": "https://i.ytimg.com/vi/Oayp5VtBWl0/hqdefault.jpg",
+    "discovery_hint": "youtube:pi-package"
+  },
+  "health": {
+    "score": 38,
+    "level": "stale"
+  },
+  "category": "video"
+}

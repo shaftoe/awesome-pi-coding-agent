@@ -1,0 +1,50 @@
+{
+  "id": "onetool-pi",
+  "name": "onetool-pi",
+  "url": "https://www.npmjs.com/package/onetool-pi",
+  "source": "npm-search",
+  "description": "🧿 Pi coding agent extension — the ultimate MCP bridge with 100+ tools including Brave, Google, Context7, Excalidraw, AWS, Excel, File Ops, Database, Playwright, Chrome DevTools and many more",
+  "metadata": {
+    "github_url": "https://github.com/beycom/onetool-pi",
+    "npm_name": "onetool-pi",
+    "description": "🧿 Pi coding agent extension — the ultimate MCP bridge with 100+ tools including Brave, Google, Context7, Excalidraw, AWS, Excel, File Ops, Database, Playwright, Chrome DevTools and many more",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "mcp",
+      "model-context-protocol",
+      "ai",
+      "coding-agent",
+      "extension",
+      "claude",
+      "llm",
+      "onetool",
+      "brave-search",
+      "google-search",
+      "aws",
+      "excalidraw",
+      "playwright",
+      "database",
+      "context7",
+      "aws",
+      "excel",
+      "tools",
+      "automation"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-03-08T05:36:13.313Z",
+    "npm_downloads_monthly": 121,
+    "npm_downloads_weekly": 33,
+    "npm_score_final": 18.054905,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 75,
+    "level": "active"
+  },
+  "category": "extension"
+}

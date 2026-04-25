@@ -1,0 +1,29 @@
+{
+  "id": "hikmaai-io-pi-guard",
+  "name": "hikmaai-io-pi-guard",
+  "url": "https://github.com/hikmaai-io/pi-guard",
+  "source": "github-search",
+  "description": "LLM-as-Guard advisor extension for the Pi Coding Agent. Three-tier security: fast local classifier, optional ML gateway (Mirsad), and LLM guard.",
+  "metadata": {
+    "github_url": "https://github.com/hikmaai-io/pi-guard",
+    "repo_full_name": "hikmaai-io/pi-guard",
+    "description": "LLM-as-Guard advisor extension for the Pi Coding Agent. Three-tier security: fast local classifier, optional ML gateway (Mirsad), and LLM guard.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-10T21:00:50Z",
+    "pushed_at": "2026-04-13T10:58:38Z",
+    "updated_at": "2026-04-13T10:58:42Z",
+    "size": 1625,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

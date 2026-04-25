@@ -1,0 +1,34 @@
+{
+  "id": "@fulcrum-agent-os/pi-cockpit",
+  "name": "@fulcrum-agent-os/pi-cockpit",
+  "url": "https://www.npmjs.com/package/@fulcrum-agent-os/pi-cockpit",
+  "source": "npm-search",
+  "description": "Fulcrum Cockpit — control-plane dashboard, task management, memory, lifecycle tools, and policy hook for the PI coding agent",
+  "metadata": {
+    "github_url": "https://github.com/moabualruz/fulcrum",
+    "npm_name": "@fulcrum-agent-os/pi-cockpit",
+    "description": "Fulcrum Cockpit — control-plane dashboard, task management, memory, lifecycle tools, and policy hook for the PI coding agent",
+    "keywords": [
+      "pi-package",
+      "fulcrum",
+      "agent-os",
+      "task-management",
+      "cockpit",
+      "multi-agent"
+    ],
+    "version": "0.0.6",
+    "published_at": "2026-04-21T22:07:57.395Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

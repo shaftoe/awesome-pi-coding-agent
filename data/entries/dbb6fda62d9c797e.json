@@ -1,0 +1,35 @@
+{
+  "id": "@howaboua/pi-codex-conversion",
+  "name": "@howaboua/pi-codex-conversion",
+  "url": "https://www.npmjs.com/package/@howaboua/pi-codex-conversion",
+  "source": "npm-search",
+  "description": "Codex-oriented tool and prompt adapter for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/IgorWarzocha/pi-codex-conversion",
+    "npm_name": "@howaboua/pi-codex-conversion",
+    "description": "Codex-oriented tool and prompt adapter for pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "codex",
+      "adapter",
+      "apply-patch"
+    ],
+    "version": "1.0.26",
+    "published_at": "2026-04-26T18:48:38.409Z",
+    "npm_downloads_monthly": 2087,
+    "npm_downloads_weekly": 720,
+    "npm_score_final": 30.469486,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "extension"
+}

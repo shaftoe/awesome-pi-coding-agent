@@ -1,0 +1,35 @@
+{
+  "id": "@heyhuynhgiabuu/pi-diff",
+  "name": "@heyhuynhgiabuu/pi-diff",
+  "url": "https://www.npmjs.com/package/@heyhuynhgiabuu/pi-diff",
+  "source": "npm-search",
+  "description": "Shiki-powered terminal diff renderer for pi — syntax-highlighted, word-level diffs in split and unified views.",
+  "metadata": {
+    "github_url": "https://github.com/buddingnewinsights/pi-diff",
+    "npm_name": "@heyhuynhgiabuu/pi-diff",
+    "description": "Shiki-powered terminal diff renderer for pi — syntax-highlighted, word-level diffs in split and unified views.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "diff",
+      "syntax-highlighting",
+      "shiki",
+      "terminal"
+    ],
+    "version": "0.2.2",
+    "published_at": "2026-04-14T05:03:27.698Z",
+    "npm_downloads_monthly": 1327,
+    "npm_downloads_weekly": 227,
+    "npm_score_final": 28.869802,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "misc"
+}

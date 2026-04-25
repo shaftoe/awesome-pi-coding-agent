@@ -1,0 +1,35 @@
+{
+  "id": "@marcfargas/pi-powershell",
+  "name": "@marcfargas/pi-powershell",
+  "url": "https://www.npmjs.com/package/@marcfargas/pi-powershell",
+  "source": "npm-search",
+  "description": "PowerShell tool for pi agents - Windows system integration and background processes",
+  "metadata": {
+    "github_url": "https://github.com/marcfargas/pi-mf-extensions",
+    "npm_name": "@marcfargas/pi-powershell",
+    "description": "PowerShell tool for pi agents - Windows system integration and background processes",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "agent",
+      "powershell",
+      "windows",
+      "background-processes",
+      "system-integration"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-02-20T20:07:27.765Z",
+    "npm_downloads_monthly": 53,
+    "npm_downloads_weekly": 21,
+    "npm_score_final": 14.905992,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

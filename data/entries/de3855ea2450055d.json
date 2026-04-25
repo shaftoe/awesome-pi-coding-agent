@@ -1,0 +1,32 @@
+{
+  "id": "@diegopetrucci/pi-extensions",
+  "name": "@diegopetrucci/pi-extensions",
+  "url": "https://www.npmjs.com/package/@diegopetrucci/pi-extensions",
+  "source": "npm-search",
+  "description": "A collection of pi extensions, including a minimal custom footer, an Amp-style oracle, a permission gate for dangerous bash commands, confirm-before-destructive session actions, and terminal notifications when pi is ready for input.",
+  "metadata": {
+    "github_url": "https://github.com/diegopetrucci/pi-extensions",
+    "npm_name": "@diegopetrucci/pi-extensions",
+    "description": "A collection of pi extensions, including a minimal custom footer, an Amp-style oracle, a permission gate for dangerous bash commands, confirm-before-destructive session actions, and terminal notifications when pi is ready for input.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "terminal",
+      "agent"
+    ],
+    "version": "0.1.10",
+    "published_at": "2026-04-22T16:30:46.268Z",
+    "npm_downloads_monthly": 836,
+    "npm_downloads_weekly": 836,
+    "npm_score_final": 26.384724,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

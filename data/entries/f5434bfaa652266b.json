@@ -1,0 +1,29 @@
+{
+  "id": "AnthonyFangqing-pi-tps",
+  "name": "AnthonyFangqing-pi-tps",
+  "url": "https://github.com/AnthonyFangqing/pi-tps",
+  "source": "github-search",
+  "description": "Live TPS (tokens per second), average TPS, and TTFT extension for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/AnthonyFangqing/pi-tps",
+    "repo_full_name": "AnthonyFangqing/pi-tps",
+    "description": "Live TPS (tokens per second), average TPS, and TTFT extension for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-23T07:52:51Z",
+    "pushed_at": "2026-04-26T11:15:09Z",
+    "updated_at": "2026-04-26T11:15:14Z",
+    "size": 102,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

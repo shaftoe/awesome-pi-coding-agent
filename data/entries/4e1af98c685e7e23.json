@@ -1,0 +1,29 @@
+{
+  "id": "sumesh2279-pi-mono",
+  "name": "sumesh2279-pi-mono",
+  "url": "https://github.com/sumesh2279/pi-mono",
+  "source": "github-search",
+  "description": "Pi coding agent fork with daemon & telegram",
+  "metadata": {
+    "github_url": "https://github.com/sumesh2279/pi-mono",
+    "repo_full_name": "sumesh2279/pi-mono",
+    "description": "Pi coding agent fork with daemon & telegram",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-22T14:58:06Z",
+    "pushed_at": "2026-02-23T13:38:28Z",
+    "updated_at": "2026-03-23T22:26:28Z",
+    "size": 38250,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

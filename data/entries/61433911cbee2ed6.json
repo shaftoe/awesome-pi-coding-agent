@@ -1,0 +1,29 @@
+{
+  "id": "indigoviolet-pi-horde",
+  "name": "indigoviolet-pi-horde",
+  "url": "https://github.com/indigoviolet/pi-horde",
+  "source": "github-search",
+  "description": "Pi coding agent extension: multi-agent networking via NATS",
+  "metadata": {
+    "github_url": "https://github.com/indigoviolet/pi-horde",
+    "repo_full_name": "indigoviolet/pi-horde",
+    "description": "Pi coding agent extension: multi-agent networking via NATS",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-18T02:30:21Z",
+    "pushed_at": "2026-03-18T02:30:28Z",
+    "updated_at": "2026-03-19T02:30:04Z",
+    "size": 14,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

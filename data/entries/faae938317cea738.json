@@ -1,0 +1,41 @@
+{
+  "id": "pi-gsd",
+  "name": "pi-gsd",
+  "url": "https://www.npmjs.com/package/pi-gsd",
+  "source": "npm-search",
+  "description": "Get Shit Done - Unofficial port of the renowned AI-native project-planning spec-driven toolkit",
+  "metadata": {
+    "github_url": "https://github.com/fulgidus/pi-gsd",
+    "npm_name": "pi-gsd",
+    "description": "Get Shit Done - Unofficial port of the renowned AI-native project-planning spec-driven toolkit",
+    "keywords": [
+      "ai",
+      "agent",
+      "planning",
+      "cli",
+      "workflow",
+      "get-shit-done",
+      "gsd",
+      "productivity",
+      "project-management",
+      "milestones",
+      "phases",
+      "spec",
+      "pi-package"
+    ],
+    "version": "2.1.4",
+    "published_at": "2026-04-26T16:14:32.976Z",
+    "npm_downloads_monthly": 9652,
+    "npm_downloads_weekly": 486,
+    "npm_score_final": 38.148834,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "extension"
+}

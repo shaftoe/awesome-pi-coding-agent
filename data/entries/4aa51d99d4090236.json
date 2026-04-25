@@ -1,0 +1,33 @@
+{
+  "id": "@cegersdo/pi-ptc",
+  "name": "@cegersdo/pi-ptc",
+  "url": "https://www.npmjs.com/package/@cegersdo/pi-ptc",
+  "source": "npm-search",
+  "description": "Programmatic Tool Calling (PTC) extension for pi-coding-agent - enables Python code execution with async tool calls",
+  "metadata": {
+    "github_url": "https://github.com/cegersdoerfer/pi-ptc",
+    "npm_name": "@cegersdo/pi-ptc",
+    "description": "Programmatic Tool Calling (PTC) extension for pi-coding-agent - enables Python code execution with async tool calls",
+    "keywords": [
+      "pi-coding-agent",
+      "extension",
+      "python",
+      "tool-calling",
+      "ptc"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-03-10T20:28:07.030Z",
+    "npm_downloads_monthly": 32,
+    "npm_downloads_weekly": 1,
+    "npm_score_final": 15.377291,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

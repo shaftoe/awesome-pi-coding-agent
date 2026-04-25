@@ -1,0 +1,38 @@
+{
+  "id": "pi-free",
+  "name": "pi-free",
+  "url": "https://www.npmjs.com/package/pi-free",
+  "source": "npm-search",
+  "description": "AIO free models for PI: Kilo, Cline, Nvidia, Ollama Cloud and others",
+  "metadata": {
+    "github_url": "https://github.com/apmantza/pi-free",
+    "npm_name": "pi-free",
+    "description": "AIO free models for PI: Kilo, Cline, Nvidia, Ollama Cloud and others",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "free-models",
+      "model-filter",
+      "nvidia-nim",
+      "kilo",
+      "cline",
+      "qwen",
+      "qwen-oauth",
+      "modal"
+    ],
+    "version": "2.0.2",
+    "published_at": "2026-04-26T15:23:26.594Z",
+    "npm_downloads_monthly": 1756,
+    "npm_downloads_weekly": 394,
+    "npm_score_final": 30.375664,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "misc"
+}

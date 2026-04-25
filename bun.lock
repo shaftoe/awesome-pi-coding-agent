@@ -4,6 +4,9 @@
   "workspaces": {
     "": {
       "name": "awesome-pi-coding-agent",
+      "dependencies": {
+        "temporal-polyfill": "^0.3.2",
+      },
       "devDependencies": {
         "@alexanderfortin/semantic-release-keep-a-changelog": "^0.2.0",
         "@biomejs/biome": "^2.4.12",

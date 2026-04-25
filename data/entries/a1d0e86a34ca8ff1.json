@@ -1,0 +1,34 @@
+{
+  "id": "magimetal-pi-dev-browser",
+  "name": "magimetal-pi-dev-browser",
+  "url": "https://github.com/magimetal/pi-dev-browser",
+  "source": "github-search",
+  "description": "Pi package extension adding dev-browser-powered browser automation for navigation, AI snapshots, interaction, and screenshots.",
+  "metadata": {
+    "github_url": "https://github.com/magimetal/pi-dev-browser",
+    "repo_full_name": "magimetal/pi-dev-browser",
+    "description": "Pi package extension adding dev-browser-powered browser automation for navigation, AI snapshots, interaction, and screenshots.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "dev-browser",
+      "pi",
+      "pi-coding-agent",
+      "pi-mono"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-21T09:15:43Z",
+    "pushed_at": "2026-04-23T04:07:07Z",
+    "updated_at": "2026-04-23T04:07:11Z",
+    "size": 3060,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

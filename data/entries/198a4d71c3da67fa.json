@@ -1,0 +1,36 @@
+{
+  "id": "gturkoglu-pi-dynsys",
+  "name": "gturkoglu-pi-dynsys",
+  "url": "https://github.com/gturkoglu/pi-dynsys",
+  "source": "github-search",
+  "description": "Pi extension that generates a per-turn system-prompt augmentation + senior persona via a nested Pi call (openai-codex), optimized for design-first full-stack craftsmanship.",
+  "metadata": {
+    "github_url": "https://github.com/gturkoglu/pi-dynsys",
+    "repo_full_name": "gturkoglu/pi-dynsys",
+    "description": "Pi extension that generates a per-turn system-prompt augmentation + senior persona via a nested Pi call (openai-codex), optimized for design-first full-stack craftsmanship.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "codex",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "prompt-engineering",
+      "system-prompt"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-04T23:13:32Z",
+    "pushed_at": "2026-02-04T23:13:35Z",
+    "updated_at": "2026-03-28T06:07:35Z",
+    "size": 10,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "manifestdocs-manifest-pi",
+  "name": "manifestdocs-manifest-pi",
+  "url": "https://github.com/manifestdocs/manifest-pi",
+  "source": "github-search",
+  "description": "Manifest integration for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/manifestdocs/manifest-pi",
+    "repo_full_name": "manifestdocs/manifest-pi",
+    "description": "Manifest integration for Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-15T08:26:15Z",
+    "pushed_at": "2026-03-27T07:14:51Z",
+    "updated_at": "2026-03-22T16:10:43Z",
+    "size": 347,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

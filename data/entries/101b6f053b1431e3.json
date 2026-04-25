@@ -1,0 +1,36 @@
+{
+  "id": "pi-glance",
+  "name": "pi-glance",
+  "url": "https://www.npmjs.com/package/pi-glance",
+  "source": "npm-search",
+  "description": "A polished input surface extension for pi, with a rounded multiline editor and inline model/context/status glance.",
+  "metadata": {
+    "github_url": "https://github.com/LinYS77/pi-glance",
+    "npm_name": "pi-glance",
+    "description": "A polished input surface extension for pi, with a rounded multiline editor and inline model/context/status glance.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "input-surface",
+      "statusline",
+      "terminal",
+      "tui"
+    ],
+    "version": "0.1.5",
+    "published_at": "2026-04-26T02:25:18.173Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

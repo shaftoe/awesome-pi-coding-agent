@@ -1,0 +1,29 @@
+{
+  "id": "leblancfg-pi-hud",
+  "name": "leblancfg-pi-hud",
+  "url": "https://github.com/leblancfg/pi-hud",
+  "source": "github-search",
+  "description": "Bird's-eye view orchestrator for Pi coding agent sessions",
+  "metadata": {
+    "github_url": "https://github.com/leblancfg/pi-hud",
+    "repo_full_name": "leblancfg/pi-hud",
+    "description": "Bird's-eye view orchestrator for Pi coding agent sessions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-11T00:20:58Z",
+    "pushed_at": "2026-03-11T12:30:37Z",
+    "updated_at": "2026-03-11T12:30:41Z",
+    "size": 26,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

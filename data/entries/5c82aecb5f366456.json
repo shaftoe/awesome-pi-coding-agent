@@ -1,0 +1,37 @@
+{
+  "id": "aranair-dotfiles",
+  "name": "aranair-dotfiles",
+  "url": "https://github.com/aranair/dotfiles",
+  "source": "github-search",
+  "description": "Vimrc, Tmux, Tmuxinator, Karabiner, Agents",
+  "metadata": {
+    "github_url": "https://github.com/aranair/dotfiles",
+    "repo_full_name": "aranair/dotfiles",
+    "description": "Vimrc, Tmux, Tmuxinator, Karabiner, Agents",
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "claude",
+      "dotfiles",
+      "pi-agent",
+      "tmux",
+      "tmuxinator",
+      "vimrc",
+      "zshrc"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2014-04-24T13:56:37Z",
+    "pushed_at": "2026-04-19T14:02:59Z",
+    "updated_at": "2026-04-19T14:03:02Z",
+    "size": 317,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 66,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

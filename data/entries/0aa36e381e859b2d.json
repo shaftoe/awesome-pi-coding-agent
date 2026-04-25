@@ -1,0 +1,29 @@
+{
+  "id": "Whamp-pi-lambda-rlm",
+  "name": "Whamp-pi-lambda-rlm",
+  "url": "https://github.com/Whamp/pi-lambda-rlm",
+  "source": "github-search",
+  "description": "Pi coding agent Lambda-RLM extension for path-based long-context reasoning",
+  "metadata": {
+    "github_url": "https://github.com/Whamp/pi-lambda-rlm",
+    "repo_full_name": "Whamp/pi-lambda-rlm",
+    "description": "Pi coding agent Lambda-RLM extension for path-based long-context reasoning",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 26,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-25T16:23:06Z",
+    "pushed_at": "2026-04-26T16:55:46Z",
+    "updated_at": "2026-04-26T16:55:50Z",
+    "size": 654,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

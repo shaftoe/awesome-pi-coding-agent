@@ -1,0 +1,32 @@
+{
+  "id": "@ollama/pi-web-search",
+  "name": "@ollama/pi-web-search",
+  "url": "https://www.npmjs.com/package/@ollama/pi-web-search",
+  "source": "npm-search",
+  "description": "Web search and fetch tools for Pi agent - uses Ollama's web search and fetch APIs",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@ollama/pi-web-search",
+    "description": "Web search and fetch tools for Pi agent - uses Ollama's web search and fetch APIs",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "web-search",
+      "ollama"
+    ],
+    "version": "0.0.5",
+    "published_at": "2026-03-28T20:31:34.540Z",
+    "npm_downloads_monthly": 20462,
+    "npm_downloads_weekly": 5817,
+    "npm_score_final": 41.52788,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 100,
+    "level": "active"
+  },
+  "category": "extension"
+}

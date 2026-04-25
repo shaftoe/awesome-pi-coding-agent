@@ -1,0 +1,29 @@
+{
+  "id": "forjd-pi-pr-ally",
+  "name": "forjd-pi-pr-ally",
+  "url": "https://github.com/forjd/pi-pr-ally",
+  "source": "github-search",
+  "description": "GitHub PR + CI copilot extension package for pi",
+  "metadata": {
+    "github_url": "https://github.com/forjd/pi-pr-ally",
+    "repo_full_name": "forjd/pi-pr-ally",
+    "description": "GitHub PR + CI copilot extension package for pi",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-18T17:53:07Z",
+    "pushed_at": "2026-04-18T18:21:19Z",
+    "updated_at": "2026-04-19T19:22:49Z",
+    "size": 49,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "stefan2904-dockerized-pi",
+  "name": "stefan2904-dockerized-pi",
+  "url": "https://github.com/stefan2904/dockerized-pi",
+  "source": "github-search",
+  "description": "run pi in docker",
+  "metadata": {
+    "github_url": "https://github.com/stefan2904/dockerized-pi",
+    "repo_full_name": "stefan2904/dockerized-pi",
+    "description": "run pi in docker",
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "pi",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-01T16:36:56Z",
+    "pushed_at": "2026-04-17T21:59:38Z",
+    "updated_at": "2026-04-17T21:59:43Z",
+    "size": 136,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "KennFatt-pi-explicit-skill-reasoning-effort",
+  "name": "KennFatt-pi-explicit-skill-reasoning-effort",
+  "url": "https://github.com/KennFatt/pi-explicit-skill-reasoning-effort",
+  "source": "github-search",
+  "description": "A small Pi coding agent extension to respect explicit `reasoning-effort` from the loaded `SKILL.md`.",
+  "metadata": {
+    "github_url": "https://github.com/KennFatt/pi-explicit-skill-reasoning-effort",
+    "repo_full_name": "KennFatt/pi-explicit-skill-reasoning-effort",
+    "description": "A small Pi coding agent extension to respect explicit `reasoning-effort` from the loaded `SKILL.md`.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "extension",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-04T08:06:24Z",
+    "pushed_at": "2026-04-04T09:24:58Z",
+    "updated_at": "2026-04-04T09:24:21Z",
+    "size": 162,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

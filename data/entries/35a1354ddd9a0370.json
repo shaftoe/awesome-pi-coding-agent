@@ -1,0 +1,29 @@
+{
+  "id": "mrcloudchase-nano-web-ui",
+  "name": "mrcloudchase-nano-web-ui",
+  "url": "https://github.com/mrcloudchase/nano-web-ui",
+  "source": "github-search",
+  "description": "Minimal version of pi-mono's web-ui package",
+  "metadata": {
+    "github_url": "https://github.com/mrcloudchase/nano-web-ui",
+    "repo_full_name": "mrcloudchase/nano-web-ui",
+    "description": "Minimal version of pi-mono's web-ui package",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-12T03:04:26Z",
+    "pushed_at": "2026-03-12T03:04:47Z",
+    "updated_at": "2026-03-12T03:04:50Z",
+    "size": 6,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

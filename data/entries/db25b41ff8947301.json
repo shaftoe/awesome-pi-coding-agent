@@ -1,0 +1,29 @@
+{
+  "id": "PrayagS-pi-config",
+  "name": "PrayagS-pi-config",
+  "url": "https://github.com/PrayagS/pi-config",
+  "source": "github-search",
+  "description": "Personal pi coding agent (https://pi.dev) configuration",
+  "metadata": {
+    "github_url": "https://github.com/PrayagS/pi-config",
+    "repo_full_name": "PrayagS/pi-config",
+    "description": "Personal pi coding agent (https://pi.dev) configuration",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-19T18:50:41Z",
+    "pushed_at": "2026-04-22T13:46:50Z",
+    "updated_at": "2026-04-22T13:46:54Z",
+    "size": 262,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

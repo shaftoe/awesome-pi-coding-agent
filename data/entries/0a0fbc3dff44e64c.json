@@ -1,0 +1,29 @@
+{
+  "id": "Attamusc-pi-acp",
+  "name": "Attamusc-pi-acp",
+  "url": "https://github.com/Attamusc/pi-acp",
+  "source": "github-search",
+  "description": "ACP (Agent Client Protocol) adapter for the pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/Attamusc/pi-acp",
+    "repo_full_name": "Attamusc/pi-acp",
+    "description": "ACP (Agent Client Protocol) adapter for the pi coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-24T14:38:57Z",
+    "pushed_at": "2026-04-19T21:14:17Z",
+    "updated_at": "2026-04-19T21:14:22Z",
+    "size": 82,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

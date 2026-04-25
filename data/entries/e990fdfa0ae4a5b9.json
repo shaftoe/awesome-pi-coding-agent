@@ -1,0 +1,29 @@
+{
+  "id": "Blykegluk-pi-agents",
+  "name": "Blykegluk-pi-agents",
+  "url": "https://github.com/Blykegluk/pi-agents",
+  "source": "github-search",
+  "description": "Pi Agent dashboard + automated video pipeline for Your Body Explained YouTube channel",
+  "metadata": {
+    "github_url": "https://github.com/Blykegluk/pi-agents",
+    "repo_full_name": "Blykegluk/pi-agents",
+    "description": "Pi Agent dashboard + automated video pipeline for Your Body Explained YouTube channel",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-08T07:53:51Z",
+    "pushed_at": "2026-04-08T08:09:51Z",
+    "updated_at": "2026-04-08T08:09:58Z",
+    "size": 229,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

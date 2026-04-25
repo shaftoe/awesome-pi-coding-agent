@@ -1,0 +1,29 @@
+{
+  "id": "siygle-pi-telegram-bridge",
+  "name": "siygle-pi-telegram-bridge",
+  "url": "https://github.com/siygle/pi-telegram-bridge",
+  "source": "github-search",
+  "description": "Telegram bridge extension for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/siygle/pi-telegram-bridge",
+    "repo_full_name": "siygle/pi-telegram-bridge",
+    "description": "Telegram bridge extension for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-17T12:29:50Z",
+    "pushed_at": "2026-04-19T16:45:27Z",
+    "updated_at": "2026-04-14T08:15:34Z",
+    "size": 23,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "AaronShark-pi-agent-demo",
+  "name": "AaronShark-pi-agent-demo",
+  "url": "https://github.com/AaronShark/pi-agent-demo",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/AaronShark/pi-agent-demo",
+    "repo_full_name": "AaronShark/pi-agent-demo",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-25T09:04:44Z",
+    "pushed_at": "2026-02-25T09:14:41Z",
+    "updated_at": "2026-02-25T09:14:49Z",
+    "size": 47560,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 57,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

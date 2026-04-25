@@ -1,0 +1,36 @@
+{
+  "id": "snqb-pi-cc-bridge",
+  "name": "snqb-pi-cc-bridge",
+  "url": "https://github.com/snqb/pi-cc-bridge",
+  "source": "github-search",
+  "description": "Claude provider bridge for Pi that preserves Pi tool execution and Pi-style workflow",
+  "metadata": {
+    "github_url": "https://github.com/snqb/pi-cc-bridge",
+    "repo_full_name": "snqb/pi-cc-bridge",
+    "description": "Claude provider bridge for Pi that preserves Pi tool execution and Pi-style workflow",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "claude",
+      "extension",
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "provider"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-15T14:30:01Z",
+    "pushed_at": "2026-04-16T22:07:59Z",
+    "updated_at": "2026-04-17T03:54:33Z",
+    "size": 83,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

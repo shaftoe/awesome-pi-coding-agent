@@ -1,0 +1,33 @@
+{
+  "id": "@artale/pi-git-hooks",
+  "name": "@artale/pi-git-hooks",
+  "url": "https://www.npmjs.com/package/@artale/pi-git-hooks",
+  "source": "npm-search",
+  "description": "Git hook manager. Install pre-commit, commit-msg, pre-push hooks from templates.",
+  "metadata": {
+    "github_url": "https://github.com/arosstale/pi-git-hooks",
+    "npm_name": "@artale/pi-git-hooks",
+    "description": "Git hook manager. Install pre-commit, commit-msg, pre-push hooks from templates.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "git",
+      "hooks",
+      "pre-commit"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-03-08T18:01:31.911Z",
+    "npm_downloads_monthly": 27,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 11.879017,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

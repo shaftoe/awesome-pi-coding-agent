@@ -1,0 +1,32 @@
+{
+  "id": "oira666_pi-subagent",
+  "name": "oira666_pi-subagent",
+  "url": "https://www.npmjs.com/package/oira666_pi-subagent",
+  "source": "npm-search",
+  "description": "Subagent extension for Pi coding agent. Delegate tasks to specialized agents.",
+  "metadata": {
+    "github_url": "https://github.com/gee666/pi-subagent",
+    "npm_name": "oira666_pi-subagent",
+    "description": "Subagent extension for Pi coding agent. Delegate tasks to specialized agents.",
+    "keywords": [
+      "pi",
+      "subagent",
+      "delegation",
+      "pi-package"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-04-26T14:57:57.303Z",
+    "npm_downloads_monthly": 1324,
+    "npm_downloads_weekly": 50,
+    "npm_score_final": 28.490318,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "extension"
+}

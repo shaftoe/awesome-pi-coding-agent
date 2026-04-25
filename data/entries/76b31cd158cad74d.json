@@ -1,0 +1,36 @@
+{
+  "id": "@teelicht/pi-superagents",
+  "name": "@teelicht/pi-superagents",
+  "url": "https://www.npmjs.com/package/@teelicht/pi-superagents",
+  "source": "npm-search",
+  "description": "Pi extension for Superpowers workflows: recon, research, implementation, review, and debug",
+  "metadata": {
+    "github_url": "https://github.com/teelicht/pi-superagents",
+    "npm_name": "@teelicht/pi-superagents",
+    "description": "Pi extension for Superpowers workflows: recon, research, implementation, review, and debug",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "subagents",
+      "ai",
+      "agents",
+      "cli",
+      "superpowers"
+    ],
+    "version": "0.6.3",
+    "published_at": "2026-04-23T13:54:12.944Z",
+    "npm_downloads_monthly": 510,
+    "npm_downloads_weekly": 475,
+    "npm_score_final": 24.362526,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "neevparikh-pi-subagent",
+  "name": "neevparikh-pi-subagent",
+  "url": "https://github.com/neevparikh/pi-subagent",
+  "source": "github-search",
+  "description": "Subagent extension for pi - delegate tasks to specialized agents running in isolated pi processes",
+  "metadata": {
+    "github_url": "https://github.com/neevparikh/pi-subagent",
+    "repo_full_name": "neevparikh/pi-subagent",
+    "description": "Subagent extension for pi - delegate tasks to specialized agents running in isolated pi processes",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-24T22:46:26Z",
+    "pushed_at": "2026-04-24T22:46:30Z",
+    "updated_at": "2026-04-24T22:46:34Z",
+    "size": 48,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

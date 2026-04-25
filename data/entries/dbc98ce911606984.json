@@ -1,0 +1,29 @@
+{
+  "id": "need-singularity-hive",
+  "name": "need-singularity-hive",
+  "url": "https://github.com/need-singularity/hive",
+  "source": "github-search",
+  "description": "pi-agent-core based fork — AI agent swarm (hive)",
+  "metadata": {
+    "github_url": "https://github.com/need-singularity/hive",
+    "repo_full_name": "need-singularity/hive",
+    "description": "pi-agent-core based fork — AI agent swarm (hive)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-23T10:54:02Z",
+    "pushed_at": "2026-04-26T16:53:32Z",
+    "updated_at": "2026-04-26T16:53:36Z",
+    "size": 11062,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "misc"
+}

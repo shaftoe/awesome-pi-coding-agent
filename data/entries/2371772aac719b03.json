@@ -1,0 +1,32 @@
+{
+  "id": "pi-ask-mode",
+  "name": "pi-ask-mode",
+  "url": "https://www.npmjs.com/package/pi-ask-mode",
+  "source": "npm-search",
+  "description": "Read-only mode for safe code analysis in pi",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-ask-mode",
+    "description": "Read-only mode for safe code analysis in pi",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-coding-agent",
+      "extension"
+    ],
+    "version": "1.0.5",
+    "published_at": "2026-04-23T11:51:13.730Z",
+    "npm_downloads_monthly": 52,
+    "npm_downloads_weekly": 10,
+    "npm_score_final": 14.823463,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 76,
+    "level": "active"
+  },
+  "category": "misc"
+}

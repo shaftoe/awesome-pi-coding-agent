@@ -1,0 +1,29 @@
+{
+  "id": "thebluewhale-pi-agent-study",
+  "name": "thebluewhale-pi-agent-study",
+  "url": "https://github.com/thebluewhale/pi-agent-study",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/thebluewhale/pi-agent-study",
+    "repo_full_name": "thebluewhale/pi-agent-study",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-18T16:35:32Z",
+    "pushed_at": "2026-03-18T16:37:24Z",
+    "updated_at": "2026-03-18T16:37:31Z",
+    "size": 82,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

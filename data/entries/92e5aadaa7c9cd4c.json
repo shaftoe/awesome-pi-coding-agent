@@ -1,0 +1,29 @@
+{
+  "id": "ThilinaTLM-pi-toolbelt",
+  "name": "ThilinaTLM-pi-toolbelt",
+  "url": "https://github.com/ThilinaTLM/pi-toolbelt",
+  "source": "github-search",
+  "description": "My personal set of essential tools and UI tweaks for pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/ThilinaTLM/pi-toolbelt",
+    "repo_full_name": "ThilinaTLM/pi-toolbelt",
+    "description": "My personal set of essential tools and UI tweaks for pi coding agent.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-04T22:32:31Z",
+    "pushed_at": "2026-04-24T19:26:33Z",
+    "updated_at": "2026-04-24T19:26:38Z",
+    "size": 276,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

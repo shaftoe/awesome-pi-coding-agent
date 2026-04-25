@@ -1,0 +1,29 @@
+{
+  "id": "magnusrodseth-pi-extensions",
+  "name": "magnusrodseth-pi-extensions",
+  "url": "https://github.com/magnusrodseth/pi-extensions",
+  "source": "github-search",
+  "description": "Delightful extensions for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/magnusrodseth/pi-extensions",
+    "repo_full_name": "magnusrodseth/pi-extensions",
+    "description": "Delightful extensions for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-04T08:58:51Z",
+    "pushed_at": "2026-04-04T09:01:37Z",
+    "updated_at": "2026-04-04T09:01:43Z",
+    "size": 10,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

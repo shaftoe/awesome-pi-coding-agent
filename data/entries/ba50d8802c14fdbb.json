@@ -1,0 +1,29 @@
+{
+  "id": "georgebashi-pi-transcribe",
+  "name": "georgebashi-pi-transcribe",
+  "url": "https://github.com/georgebashi/pi-transcribe",
+  "source": "github-search",
+  "description": "Speech-to-text dictation extension for pi coding agent — hold spacebar, speak, release. All transcription runs locally.",
+  "metadata": {
+    "github_url": "https://github.com/georgebashi/pi-transcribe",
+    "repo_full_name": "georgebashi/pi-transcribe",
+    "description": "Speech-to-text dictation extension for pi coding agent — hold spacebar, speak, release. All transcription runs locally.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-20T23:59:04Z",
+    "pushed_at": "2026-03-20T23:59:16Z",
+    "updated_at": "2026-03-24T01:50:51Z",
+    "size": 94,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

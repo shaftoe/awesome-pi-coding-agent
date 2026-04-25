@@ -1,0 +1,29 @@
+{
+  "id": "kirang89-pi-todo",
+  "name": "kirang89-pi-todo",
+  "url": "https://github.com/kirang89/pi-todo",
+  "source": "github-search",
+  "description": "A pi coding agent extension that adds a persistent todo widget and tool for tracking multi-step task progress",
+  "metadata": {
+    "github_url": "https://github.com/kirang89/pi-todo",
+    "repo_full_name": "kirang89/pi-todo",
+    "description": "A pi coding agent extension that adds a persistent todo widget and tool for tracking multi-step task progress",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-18T06:23:39Z",
+    "pushed_at": "2026-03-18T06:23:42Z",
+    "updated_at": "2026-04-18T15:36:24Z",
+    "size": 5,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

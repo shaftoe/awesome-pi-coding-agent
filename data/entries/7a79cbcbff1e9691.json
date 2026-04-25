@@ -1,0 +1,36 @@
+{
+  "id": "@artale/pi-serial",
+  "name": "@artale/pi-serial",
+  "url": "https://www.npmjs.com/package/@artale/pi-serial",
+  "source": "npm-search",
+  "description": "Hardware/IoT interface. List serial ports, identify devices (Arduino, ESP32, 3D printers), send/receive data, monitor sessions.",
+  "metadata": {
+    "github_url": "https://github.com/arosstale/pi-serial",
+    "npm_name": "@artale/pi-serial",
+    "description": "Hardware/IoT interface. List serial ports, identify devices (Arduino, ESP32, 3D printers), send/receive data, monitor sessions.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "serial",
+      "hardware",
+      "iot",
+      "arduino",
+      "esp32",
+      "uart"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-03-08T17:51:45.030Z",
+    "npm_downloads_monthly": 33,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 12.545836,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

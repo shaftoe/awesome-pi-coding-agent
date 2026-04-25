@@ -1,0 +1,33 @@
+{
+  "id": "@davidorex/pi-custom-compactor",
+  "name": "@davidorex/pi-custom-compactor",
+  "url": "https://www.npmjs.com/package/@davidorex/pi-custom-compactor",
+  "source": "npm-search",
+  "description": "Declarative YAML-driven structured compaction for pi coding agent — multi-pass extraction, artifact persistence, budget management, and work-mode-specific compaction specs",
+  "metadata": {
+    "github_url": "https://github.com/davidorex/pi-custom-compactor",
+    "npm_name": "@davidorex/pi-custom-compactor",
+    "description": "Declarative YAML-driven structured compaction for pi coding agent — multi-pass extraction, artifact persistence, budget management, and work-mode-specific compaction specs",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "compaction",
+      "context-management",
+      "coding-agent"
+    ],
+    "version": "0.1.5",
+    "published_at": "2026-03-26T23:12:46.707Z",
+    "npm_downloads_monthly": 748,
+    "npm_downloads_weekly": 3,
+    "npm_score_final": 25.899908,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 75,
+    "level": "active"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "@h4rvey-g/context-mode",
+  "name": "@h4rvey-g/context-mode",
+  "url": "https://www.npmjs.com/package/@h4rvey-g/context-mode",
+  "source": "npm-search",
+  "description": "MCP plugin that saves 98% of your context window. Works with Claude Code, Gemini CLI, VS Code Copilot, OpenCode, and Codex CLI. Sandboxed code execution, FTS5 knowledge base, and intent-driven search.",
+  "metadata": {
+    "github_url": "https://github.com/mksglu/context-mode",
+    "npm_name": "@h4rvey-g/context-mode",
+    "description": "MCP plugin that saves 98% of your context window. Works with Claude Code, Gemini CLI, VS Code Copilot, OpenCode, and Codex CLI. Sandboxed code execution, FTS5 knowledge base, and intent-driven search.",
+    "keywords": [
+      "mcp",
+      "model-context-protocol",
+      "claude",
+      "claude-code",
+      "gemini-cli",
+      "vscode-copilot",
+      "opencode",
+      "openclaw",
+      "codex-cli",
+      "context-window",
+      "sandbox",
+      "code-execution",
+      "fts5",
+      "bm25",
+      "pi-package"
+    ],
+    "version": "1.0.89-harvey.0",
+    "published_at": "2026-04-14T11:39:44.390Z",
+    "npm_downloads_monthly": 243,
+    "npm_downloads_weekly": 243,
+    "npm_score_final": 21.01083,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

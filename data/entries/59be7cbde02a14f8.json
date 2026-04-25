@@ -1,0 +1,33 @@
+{
+  "id": "dougefresher-pi-ext-awsdocs",
+  "name": "dougefresher-pi-ext-awsdocs",
+  "url": "https://github.com/dougefresher/pi-ext-awsdocs",
+  "source": "github-search",
+  "description": "pi-coding-agent extension for AWS documentation",
+  "metadata": {
+    "github_url": "https://github.com/dougefresher/pi-ext-awsdocs",
+    "repo_full_name": "dougefresher/pi-ext-awsdocs",
+    "description": "pi-coding-agent extension for AWS documentation",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "aws",
+      "pi",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-21T12:07:50Z",
+    "pushed_at": "2026-04-23T20:09:35Z",
+    "updated_at": "2026-04-24T13:38:37Z",
+    "size": 60,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

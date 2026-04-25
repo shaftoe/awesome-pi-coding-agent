@@ -1,0 +1,29 @@
+{
+  "id": "demigodmode-pi-tool-codex",
+  "name": "demigodmode-pi-tool-codex",
+  "url": "https://github.com/demigodmode/pi-tool-codex",
+  "source": "github-search",
+  "description": "A compact extension for rendering codex-based tool calls, previewing differences, and truncating output for the Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/demigodmode/pi-tool-codex",
+    "repo_full_name": "demigodmode/pi-tool-codex",
+    "description": "A compact extension for rendering codex-based tool calls, previewing differences, and truncating output for the Pi coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": null,
+    "archived": false,
+    "created_at": "2026-04-23T22:32:31Z",
+    "pushed_at": "2026-04-22T02:36:38Z",
+    "updated_at": "2026-04-23T22:32:31Z",
+    "size": 1850,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

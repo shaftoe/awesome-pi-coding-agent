@@ -1,0 +1,35 @@
+{
+  "id": "MohammadErfan-Jabbari-pi-session-inspect",
+  "name": "MohammadErfan-Jabbari-pi-session-inspect",
+  "url": "https://github.com/MohammadErfan-Jabbari/pi-session-inspect",
+  "source": "github-search",
+  "description": "Read-only Pi extension for session discovery, search, and normalized session inspection",
+  "metadata": {
+    "github_url": "https://github.com/MohammadErfan-Jabbari/pi-session-inspect",
+    "repo_full_name": "MohammadErfan-Jabbari/pi-session-inspect",
+    "description": "Read-only Pi extension for session discovery, search, and normalized session inspection",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "developer-tools",
+      "pi-coding-agent",
+      "pi-package",
+      "session-history",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-16T13:46:59Z",
+    "pushed_at": "2026-04-25T07:36:31Z",
+    "updated_at": "2026-04-25T07:36:34Z",
+    "size": 16,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

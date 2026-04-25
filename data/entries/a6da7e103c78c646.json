@@ -1,0 +1,29 @@
+{
+  "id": "Istar-Eldritch-pi-wakatime",
+  "name": "Istar-Eldritch-pi-wakatime",
+  "url": "https://github.com/Istar-Eldritch/pi-wakatime",
+  "source": "github-search",
+  "description": "A pi-coding-agent extension to log usage on wakatime.",
+  "metadata": {
+    "github_url": "https://github.com/Istar-Eldritch/pi-wakatime",
+    "repo_full_name": "Istar-Eldritch/pi-wakatime",
+    "description": "A pi-coding-agent extension to log usage on wakatime.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-01-22T11:56:01Z",
+    "pushed_at": "2026-01-23T19:22:55Z",
+    "updated_at": "2026-01-23T19:22:59Z",
+    "size": 49,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 30,
+    "level": "stale"
+  },
+  "category": "extension"
+}

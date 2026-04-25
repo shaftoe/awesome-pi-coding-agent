@@ -1,0 +1,29 @@
+{
+  "id": "kksimons-pi-config",
+  "name": "kksimons-pi-config",
+  "url": "https://github.com/kksimons/pi-config",
+  "source": "github-search",
+  "description": "pi coding agent config, extensions, and skills",
+  "metadata": {
+    "github_url": "https://github.com/kksimons/pi-config",
+    "repo_full_name": "kksimons/pi-config",
+    "description": "pi coding agent config, extensions, and skills",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-10T20:05:50Z",
+    "pushed_at": "2026-03-10T20:53:15Z",
+    "updated_at": "2026-03-10T20:53:19Z",
+    "size": 77,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

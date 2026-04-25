@@ -9,6 +9,18 @@
 		"ignoreUnknown": false,
 		"includes": ["src/**", "site/**"]
 	},
+	"overrides": [
+		{
+			"includes": ["src/cli/**"],
+			"linter": {
+				"rules": {
+					"suspicious": {
+						"noConsole": "off"
+					}
+				}
+			}
+		}
+	],
 	"formatter": {
 		"enabled": true,
 		"indentStyle": "tab",

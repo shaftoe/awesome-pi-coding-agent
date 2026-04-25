@@ -1,0 +1,29 @@
+{
+  "id": "@codexstar/pi-agent-teams",
+  "name": "@codexstar/pi-agent-teams",
+  "url": "https://www.npmjs.com/package/@codexstar/pi-agent-teams",
+  "source": "npm-search",
+  "description": "Claude Code agent teams style workflow for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/codexstar69/pi-agent-teams",
+    "npm_name": "@codexstar/pi-agent-teams",
+    "description": "Claude Code agent teams style workflow for Pi.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-03-12T04:19:12.442Z",
+    "npm_downloads_monthly": 40,
+    "npm_downloads_weekly": 5,
+    "npm_score_final": 13.304173,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

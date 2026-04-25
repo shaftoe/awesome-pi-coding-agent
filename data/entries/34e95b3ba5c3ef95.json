@@ -1,0 +1,40 @@
+{
+  "id": "manusajith-pi-amnesia",
+  "name": "manusajith-pi-amnesia",
+  "url": "https://github.com/manusajith/pi-amnesia",
+  "source": "github-search",
+  "description": "Cross-agent session analytics for Pi, Claude Code, and Codex with semantic search powered by Turso vectors.",
+  "metadata": {
+    "github_url": "https://github.com/manusajith/pi-amnesia",
+    "repo_full_name": "manusajith/pi-amnesia",
+    "description": "Cross-agent session analytics for Pi, Claude Code, and Codex with semantic search powered by Turso vectors.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "embeddings",
+      "libsql",
+      "pi",
+      "pi-extension",
+      "semantic-search",
+      "session-analytics",
+      "turso"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-23T13:46:02Z",
+    "pushed_at": "2026-03-23T13:46:26Z",
+    "updated_at": "2026-03-23T13:48:24Z",
+    "size": 67,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

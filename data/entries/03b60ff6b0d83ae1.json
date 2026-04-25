@@ -1,0 +1,29 @@
+{
+  "id": "andreimaxim-pi-usage",
+  "name": "andreimaxim-pi-usage",
+  "url": "https://github.com/andreimaxim/pi-usage",
+  "source": "github-search",
+  "description": "Usage extension for the Pi agent",
+  "metadata": {
+    "github_url": "https://github.com/andreimaxim/pi-usage",
+    "repo_full_name": "andreimaxim/pi-usage",
+    "description": "Usage extension for the Pi agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 5,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-13T13:36:31Z",
+    "pushed_at": "2026-04-17T06:13:14Z",
+    "updated_at": "2026-04-06T20:43:59Z",
+    "size": 668,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

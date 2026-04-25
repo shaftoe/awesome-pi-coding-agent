@@ -1,0 +1,29 @@
+{
+  "id": "sahil-shubham-pi-bhatti-browser",
+  "name": "sahil-shubham-pi-bhatti-browser",
+  "url": "https://github.com/sahil-shubham/pi-bhatti-browser",
+  "source": "github-search",
+  "description": "Pi extension: Chromium browser in Bhatti microVM sandboxes for AI coding agents",
+  "metadata": {
+    "github_url": "https://github.com/sahil-shubham/pi-bhatti-browser",
+    "repo_full_name": "sahil-shubham/pi-bhatti-browser",
+    "description": "Pi extension: Chromium browser in Bhatti microVM sandboxes for AI coding agents",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-29T11:21:28Z",
+    "pushed_at": "2026-03-30T05:33:05Z",
+    "updated_at": "2026-03-30T05:33:08Z",
+    "size": 17,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

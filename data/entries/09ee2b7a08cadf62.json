@@ -1,0 +1,29 @@
+{
+  "id": "pipelinedave-pi-pipelinedave",
+  "name": "pipelinedave-pi-pipelinedave",
+  "url": "https://github.com/pipelinedave/pi-pipelinedave",
+  "source": "github-search",
+  "description": "Ultimate pi.dev configuration with 94+ MCP tools, custom extensions, and cyberpunk theme",
+  "metadata": {
+    "github_url": "https://github.com/pipelinedave/pi-pipelinedave",
+    "repo_full_name": "pipelinedave/pi-pipelinedave",
+    "description": "Ultimate pi.dev configuration with 94+ MCP tools, custom extensions, and cyberpunk theme",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-25T22:38:39Z",
+    "pushed_at": "2026-04-26T06:39:28Z",
+    "updated_at": "2026-04-26T06:39:32Z",
+    "size": 1701,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

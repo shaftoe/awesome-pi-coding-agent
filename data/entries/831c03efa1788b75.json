@@ -1,0 +1,29 @@
+{
+  "id": "xdrobotx-rust-pi-harness",
+  "name": "xdrobotx-rust-pi-harness",
+  "url": "https://github.com/xdrobotx/rust-pi-harness",
+  "source": "github-search",
+  "description": "Template for software development project using Rust with Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/xdrobotx/rust-pi-harness",
+    "repo_full_name": "xdrobotx/rust-pi-harness",
+    "description": "Template for software development project using Rust with Pi coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-17T08:43:50Z",
+    "pushed_at": "2026-04-19T06:46:19Z",
+    "updated_at": "2026-04-19T06:46:23Z",
+    "size": 25,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

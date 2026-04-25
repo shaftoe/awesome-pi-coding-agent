@@ -1,0 +1,35 @@
+{
+  "id": "pi-reread-instructions",
+  "name": "pi-reread-instructions",
+  "url": "https://www.npmjs.com/package/pi-reread-instructions",
+  "source": "npm-search",
+  "description": "Pi extension that re-inserts AGENTS.md / CLAUDE.md every N completed final assistant replies",
+  "metadata": {
+    "github_url": "https://github.com/rawwerks/pi-reread-instructions",
+    "npm_name": "pi-reread-instructions",
+    "description": "Pi extension that re-inserts AGENTS.md / CLAUDE.md every N completed final assistant replies",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "instructions",
+      "agents",
+      "claude",
+      "context"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-04-06T21:24:06.550Z",
+    "npm_downloads_monthly": 138,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 19.037462,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

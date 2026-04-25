@@ -1,0 +1,35 @@
+{
+  "id": "@injaneity/pi-computer-use",
+  "name": "@injaneity/pi-computer-use",
+  "url": "https://www.npmjs.com/package/@injaneity/pi-computer-use",
+  "source": "npm-search",
+  "description": "Codex-style computer-use tools for Pi on macOS.",
+  "metadata": {
+    "github_url": "https://github.com/injaneity/pi-computer-use",
+    "npm_name": "@injaneity/pi-computer-use",
+    "description": "Codex-style computer-use tools for Pi on macOS.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "computer-use",
+      "macos",
+      "screenshot",
+      "automation"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-04-25T11:10:08.169Z",
+    "npm_downloads_monthly": 491,
+    "npm_downloads_weekly": 491,
+    "npm_score_final": 24.196384,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pi-model-fusion",
+  "name": "pi-model-fusion",
+  "url": "https://www.npmjs.com/package/pi-model-fusion",
+  "source": "npm-search",
+  "description": "Pi extension for model-fusion coding tasks with automatic judging and optional merge synthesis",
+  "metadata": {
+    "github_url": "https://github.com/Deasel011/pi-model-fusion-extension",
+    "npm_name": "pi-model-fusion",
+    "description": "Pi extension for model-fusion coding tasks with automatic judging and optional merge synthesis",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "model-fusion",
+      "llm"
+    ],
+    "version": "1.0.5",
+    "published_at": "2026-04-15T23:22:50.226Z",
+    "npm_downloads_monthly": 340,
+    "npm_downloads_weekly": 340,
+    "npm_score_final": 22.537367,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

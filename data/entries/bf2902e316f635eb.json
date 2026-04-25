@@ -1,0 +1,29 @@
+{
+  "id": "initiatesofzeus-design-maxcode",
+  "name": "initiatesofzeus-design-maxcode",
+  "url": "https://github.com/initiatesofzeus-design/maxcode",
+  "source": "github-search",
+  "description": "MaxCode — Self-evolving coding agent with multi-brain architecture, 3-tier memory, and autoresearch ratchet. Built on pi.dev.",
+  "metadata": {
+    "github_url": "https://github.com/initiatesofzeus-design/maxcode",
+    "repo_full_name": "initiatesofzeus-design/maxcode",
+    "description": "MaxCode — Self-evolving coding agent with multi-brain architecture, 3-tier memory, and autoresearch ratchet. Built on pi.dev.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-06T02:48:41Z",
+    "pushed_at": "2026-04-06T02:48:44Z",
+    "updated_at": "2026-04-06T02:48:49Z",
+    "size": 109,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tpcw-dev-pi-bmad",
+  "name": "tpcw-dev-pi-bmad",
+  "url": "https://github.com/tpcw-dev/pi-bmad",
+  "source": "github-search",
+  "description": "BMAD Method agent framework for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/tpcw-dev/pi-bmad",
+    "repo_full_name": "tpcw-dev/pi-bmad",
+    "description": "BMAD Method agent framework for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "ai-workflow",
+      "bmad",
+      "pi-coding-agent",
+      "pi-package",
+      "software-development"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-15T19:46:09Z",
+    "pushed_at": "2026-03-15T19:46:11Z",
+    "updated_at": "2026-03-15T19:46:46Z",
+    "size": 17,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

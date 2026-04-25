@@ -1,0 +1,29 @@
+{
+  "id": "chiwanpark-pi-enhanced",
+  "name": "chiwanpark-pi-enhanced",
+  "url": "https://github.com/chiwanpark/pi-enhanced",
+  "source": "github-search",
+  "description": "My own Pi skills, extensions, and themes",
+  "metadata": {
+    "github_url": "https://github.com/chiwanpark/pi-enhanced",
+    "repo_full_name": "chiwanpark/pi-enhanced",
+    "description": "My own Pi skills, extensions, and themes",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-22T07:06:03Z",
+    "pushed_at": "2026-04-25T08:30:20Z",
+    "updated_at": "2026-04-25T08:30:25Z",
+    "size": 88,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pi-google-workspace",
+  "name": "pi-google-workspace",
+  "url": "https://www.npmjs.com/package/pi-google-workspace",
+  "source": "npm-search",
+  "description": "Google Workspace extension for pi (Drive, Docs, Sheets, Slides with OAuth)",
+  "metadata": {
+    "github_url": "https://github.com/Geun-Oh/pi-google-workspace",
+    "npm_name": "pi-google-workspace",
+    "description": "Google Workspace extension for pi (Drive, Docs, Sheets, Slides with OAuth)",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "coding-agent",
+      "extension",
+      "google-workspace",
+      "google-drive",
+      "google-docs",
+      "google-sheets",
+      "google-slides"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-03-05T14:47:47.387Z",
+    "npm_downloads_monthly": 37,
+    "npm_downloads_weekly": 4,
+    "npm_score_final": 12.980331,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

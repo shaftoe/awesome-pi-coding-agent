@@ -1,0 +1,29 @@
+{
+  "id": "DrOlu-pi-codemachine",
+  "name": "DrOlu-pi-codemachine",
+  "url": "https://github.com/DrOlu/pi-codemachine",
+  "source": "github-search",
+  "description": "Universal Multi-Agent Workflow Orchestration for Pi",
+  "metadata": {
+    "github_url": "https://github.com/DrOlu/pi-codemachine",
+    "repo_full_name": "DrOlu/pi-codemachine",
+    "description": "Universal Multi-Agent Workflow Orchestration for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-20T17:03:02Z",
+    "pushed_at": "2026-03-20T17:03:33Z",
+    "updated_at": "2026-03-20T17:03:36Z",
+    "size": 63,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

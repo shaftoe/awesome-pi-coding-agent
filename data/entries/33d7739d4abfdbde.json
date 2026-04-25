@@ -1,0 +1,36 @@
+{
+  "id": "dannote-dot-pi",
+  "name": "dannote-dot-pi",
+  "url": "https://github.com/dannote/dot-pi",
+  "source": "github-search",
+  "description": "Extensions, skills, and rules for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/dannote/dot-pi",
+    "repo_full_name": "dannote/dot-pi",
+    "description": "Extensions, skills, and rules for Pi coding agent",
+    "stars": 20,
+    "forks": 3,
+    "open_issues": 2,
+    "topics": [
+      "ast-grep",
+      "coding-agent",
+      "extensions",
+      "pi-agent",
+      "skills",
+      "web-search"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-01-13T23:32:56Z",
+    "pushed_at": "2026-04-06T11:13:57Z",
+    "updated_at": "2026-04-19T20:35:34Z",
+    "size": 274,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

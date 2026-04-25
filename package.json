@@ -5,20 +5,19 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "seed": "bun run src/index.ts seed",
-    "discover": "bun run src/index.ts discover",
-    "enrich": "bun run src/index.ts enrich",
-    "generate": "bun run src/index.ts generate",
-    "pipeline": "bun run src/index.ts pipeline",
+    "discover": "bun run src/discover/index.ts",
+    "filter": "bun run src/filter/index.ts",
+    "process": "bun run src/process/index.ts",
+    "generate": "bun run src/generate/index.ts",
+    "pipeline": "bun run discover && bun run filter && bun run process && bun run generate",
     "typecheck": "tsc --noEmit",
     "lint": "biome check .",
     "lint:fix": "biome check --write .",
     "format": "biome format --write .",
     "check": "bun run typecheck && bun run lint",
     "test": "bun test",
-    "clean": "git rm -rf data/skills/ data/extensions/ data/providers/ data/templates/ data/themes/ data/tools data/videos",
-    "blacklist": "bun run src/index.ts blacklist",
-    "dedup": "bun run src/index.ts dedup",
+    "blacklist": "bun run src/cli/blacklist.ts",
+    "clean": "rm -rf data/ .cache/",
     "semantic-release": "semantic-release"
   },
   "devDependencies": {
@@ -34,5 +33,8 @@
   },
   "peerDependencies": {
     "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "temporal-polyfill": "^0.3.2"
   }
 }

@@ -1,0 +1,35 @@
+{
+  "id": "vtshly-pi-extensions",
+  "name": "vtshly-pi-extensions",
+  "url": "https://github.com/vtshly/pi-extensions",
+  "source": "github-search",
+  "description": "My custom extensions for pi.dev agent created by the agent itself",
+  "metadata": {
+    "github_url": "https://github.com/vtshly/pi-extensions",
+    "repo_full_name": "vtshly/pi-extensions",
+    "description": "My custom extensions for pi.dev agent created by the agent itself",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "config",
+      "extensions",
+      "pi",
+      "prompts"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-31T19:03:04Z",
+    "pushed_at": "2026-04-02T21:37:54Z",
+    "updated_at": "2026-04-02T21:37:59Z",
+    "size": 37,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

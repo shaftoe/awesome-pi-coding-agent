@@ -1,0 +1,34 @@
+{
+  "id": "pi-fast-apply",
+  "name": "pi-fast-apply",
+  "url": "https://www.npmjs.com/package/pi-fast-apply",
+  "source": "npm-search",
+  "description": "Morph Fast Apply extension package for Pi",
+  "metadata": {
+    "github_url": "https://github.com/victor-software-house/pi-fast-apply",
+    "npm_name": "pi-fast-apply",
+    "description": "Morph Fast Apply extension package for Pi",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "morph",
+      "fast-apply",
+      "code-editing"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-04-06T05:22:09.684Z",
+    "npm_downloads_monthly": 116,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 18.271402,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

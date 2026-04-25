@@ -1,0 +1,29 @@
+{
+  "id": "aussetg-pi-extensions",
+  "name": "aussetg-pi-extensions",
+  "url": "https://github.com/aussetg/pi-extensions",
+  "source": "github-search",
+  "description": "pi coding agent extensions [mirror]",
+  "metadata": {
+    "github_url": "https://github.com/aussetg/pi-extensions",
+    "repo_full_name": "aussetg/pi-extensions",
+    "description": "pi coding agent extensions [mirror]",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-22T17:30:31Z",
+    "pushed_at": "2026-03-22T17:53:55Z",
+    "updated_at": "2026-03-22T17:53:59Z",
+    "size": 29,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

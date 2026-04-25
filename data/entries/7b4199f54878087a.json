@@ -1,0 +1,29 @@
+{
+  "id": "moricef-pi-agent-config",
+  "name": "moricef-pi-agent-config",
+  "url": "https://github.com/moricef/pi-agent-config",
+  "source": "github-search",
+  "description": "pi-coding-agent configuration: model tiers, smart router, custom providers",
+  "metadata": {
+    "github_url": "https://github.com/moricef/pi-agent-config",
+    "repo_full_name": "moricef/pi-agent-config",
+    "description": "pi-coding-agent configuration: model tiers, smart router, custom providers",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-21T12:26:03Z",
+    "pushed_at": "2026-03-30T16:42:00Z",
+    "updated_at": "2026-03-30T16:42:04Z",
+    "size": 40,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

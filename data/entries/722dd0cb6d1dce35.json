@@ -1,0 +1,43 @@
+{
+  "id": "pi-lcm",
+  "name": "pi-lcm",
+  "url": "https://www.npmjs.com/package/pi-lcm",
+  "source": "npm-search",
+  "description": "Lossless Context Management for Pi — DAG-based summarization with full history recovery",
+  "metadata": {
+    "github_url": "https://github.com/codexstar69/pi-lcm",
+    "npm_name": "pi-lcm",
+    "description": "Lossless Context Management for Pi — DAG-based summarization with full history recovery",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "context-management",
+      "llm",
+      "summarization",
+      "conversation-memory",
+      "dag",
+      "sqlite",
+      "fts5",
+      "compaction",
+      "lossless",
+      "ai-agent",
+      "coding-assistant",
+      "developer-tools"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-04-02T23:59:29.121Z",
+    "npm_downloads_monthly": 244,
+    "npm_downloads_weekly": 15,
+    "npm_score_final": 21.37653,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

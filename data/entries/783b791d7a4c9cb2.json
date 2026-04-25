@@ -1,0 +1,46 @@
+{
+  "id": "pi-fast-subagent",
+  "name": "pi-fast-subagent",
+  "url": "https://www.npmjs.com/package/pi-fast-subagent",
+  "source": "npm-search",
+  "description": "In-process subagent delegation for pi with single, parallel, and background modes",
+  "metadata": {
+    "github_url": "https://github.com/tuansondinh/pi-fast-subagent",
+    "npm_name": "pi-fast-subagent",
+    "description": "In-process subagent delegation for pi with single, parallel, and background modes",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "subagent",
+      "agents",
+      "extension",
+      "delegation",
+      "parallel",
+      "concurrent",
+      "in-process",
+      "fast",
+      "coding-agent",
+      "ai-agent",
+      "llm",
+      "task-runner",
+      "scout",
+      "workflow",
+      "automation"
+    ],
+    "version": "0.9.1",
+    "published_at": "2026-04-24T21:04:43.996Z",
+    "npm_downloads_monthly": 870,
+    "npm_downloads_weekly": 870,
+    "npm_score_final": 26.463106,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

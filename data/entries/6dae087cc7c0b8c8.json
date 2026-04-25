@@ -1,0 +1,40 @@
+{
+  "id": "pi-a2a-communication",
+  "name": "pi-a2a-communication",
+  "url": "https://www.npmjs.com/package/pi-a2a-communication",
+  "source": "npm-search",
+  "description": "Enterprise-grade A2A (Agent2Agent) protocol implementation for pi coding agent - enables multi-node, multi-agent collaboration across enterprise environments",
+  "metadata": {
+    "github_url": "https://github.com/DrOlu/pi-a2a-communication",
+    "npm_name": "pi-a2a-communication",
+    "description": "Enterprise-grade A2A (Agent2Agent) protocol implementation for pi coding agent - enables multi-node, multi-agent collaboration across enterprise environments",
+    "keywords": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "a2a",
+      "agent2agent",
+      "multi-agent",
+      "distributed",
+      "enterprise",
+      "agent-protocol",
+      "orchestration",
+      "google-a2a",
+      "agent-collaboration"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-03-15T10:30:04.812Z",
+    "npm_downloads_monthly": 50,
+    "npm_downloads_weekly": 18,
+    "npm_score_final": 14.653722,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

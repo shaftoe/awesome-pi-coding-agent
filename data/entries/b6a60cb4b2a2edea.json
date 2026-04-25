@@ -1,0 +1,33 @@
+{
+  "id": "@aliou/pi-guardrails",
+  "name": "@aliou/pi-guardrails",
+  "url": "https://www.npmjs.com/package/@aliou/pi-guardrails",
+  "source": "npm-search",
+  "description": "![banner](https://assets.aliou.me/pi-extensions/banners/pi-guardrails.png)",
+  "metadata": {
+    "github_url": "https://github.com/aliou/pi-guardrails",
+    "npm_name": "@aliou/pi-guardrails",
+    "description": "![banner](https://assets.aliou.me/pi-extensions/banners/pi-guardrails.png)",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "guardrails",
+      "security"
+    ],
+    "version": "0.11.0",
+    "published_at": "2026-04-17T19:19:05.134Z",
+    "npm_downloads_monthly": 3355,
+    "npm_downloads_weekly": 1091,
+    "npm_score_final": 32.54875,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "extension"
+}

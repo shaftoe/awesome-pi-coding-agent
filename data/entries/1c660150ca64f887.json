@@ -1,0 +1,29 @@
+{
+  "id": "jeanfbrito-agentic-pi",
+  "name": "jeanfbrito-agentic-pi",
+  "url": "https://github.com/jeanfbrito/agentic-pi",
+  "source": "github-search",
+  "description": "Agentic Workflow Framework for pi — Orchestrator-by-default + 8 specialized subagents + 5 slash commands. Pi port of jeanfbrito's Claude Code framework.",
+  "metadata": {
+    "github_url": "https://github.com/jeanfbrito/agentic-pi",
+    "repo_full_name": "jeanfbrito/agentic-pi",
+    "description": "Agentic Workflow Framework for pi — Orchestrator-by-default + 8 specialized subagents + 5 slash commands. Pi port of jeanfbrito's Claude Code framework.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-25T16:16:22Z",
+    "pushed_at": "2026-04-25T16:26:08Z",
+    "updated_at": "2026-04-25T16:26:11Z",
+    "size": 36,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

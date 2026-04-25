@@ -1,0 +1,31 @@
+{
+  "id": "pi-sync-config",
+  "name": "pi-sync-config",
+  "url": "https://www.npmjs.com/package/pi-sync-config",
+  "source": "npm-search",
+  "description": "Sync your pi config (settings, extensions, themes, skills, prompts) to a remote git repository",
+  "metadata": {
+    "github_url": "https://github.com/pouyamozaffarmagham/pi-sync-config",
+    "npm_name": "pi-sync-config",
+    "description": "Sync your pi config (settings, extensions, themes, skills, prompts) to a remote git repository",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-04-07T05:25:04.568Z",
+    "npm_downloads_monthly": 119,
+    "npm_downloads_weekly": 10,
+    "npm_score_final": 17.863619,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

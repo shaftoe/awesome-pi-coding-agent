@@ -1,0 +1,32 @@
+{
+  "id": "pi-acm",
+  "name": "pi-acm",
+  "url": "https://www.npmjs.com/package/pi-acm",
+  "source": "npm-search",
+  "description": "Active Context Management for pi — sliding window context management as a distributable pi extension",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-acm",
+    "description": "Active Context Management for pi — sliding window context management as a distributable pi extension",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "context-management",
+      "acm"
+    ],
+    "version": "0.3.9",
+    "published_at": "2026-04-23T08:38:49.109Z",
+    "npm_downloads_monthly": 270,
+    "npm_downloads_weekly": 138,
+    "npm_score_final": 22.013556,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

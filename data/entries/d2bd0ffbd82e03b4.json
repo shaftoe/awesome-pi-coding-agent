@@ -1,0 +1,34 @@
+{
+  "id": "pi-blindtest",
+  "name": "pi-blindtest",
+  "url": "https://www.npmjs.com/package/pi-blindtest",
+  "source": "npm-search",
+  "description": "Pi extension for blind model testing: hide model in UI and aggregate ratings across sessions.",
+  "metadata": {
+    "github_url": "https://github.com/pasky/pi-blindtest",
+    "npm_name": "pi-blindtest",
+    "description": "Pi extension for blind model testing: hide model in UI and aggregate ratings across sessions.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "blindtest",
+      "rating"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-02-24T23:17:05.723Z",
+    "npm_downloads_monthly": 25,
+    "npm_downloads_weekly": 2,
+    "npm_score_final": 11.4135895,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

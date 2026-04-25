@@ -1,0 +1,31 @@
+{
+  "id": "pi-updater",
+  "name": "pi-updater",
+  "url": "https://www.npmjs.com/package/pi-updater",
+  "source": "npm-search",
+  "description": "Codex-style auto-updater for pi. Checks for new versions on startup and prompts to install.",
+  "metadata": {
+    "github_url": "https://github.com/tonze/pi-updater",
+    "npm_name": "pi-updater",
+    "description": "Codex-style auto-updater for pi. Checks for new versions on startup and prompts to install.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "update"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-04-04T17:34:08.808Z",
+    "npm_downloads_monthly": 580,
+    "npm_downloads_weekly": 69,
+    "npm_score_final": 24.92553,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

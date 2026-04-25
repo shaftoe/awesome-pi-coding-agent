@@ -1,0 +1,38 @@
+{
+  "id": "jerryfan-pi-download",
+  "name": "jerryfan-pi-download",
+  "url": "https://github.com/jerryfan/pi-download",
+  "source": "github-search",
+  "description": "Pi extension: /dl <url> downloads YouTube video/audio/subtitles and emits an exact-word transcript bundle.",
+  "metadata": {
+    "github_url": "https://github.com/jerryfan/pi-download",
+    "repo_full_name": "jerryfan/pi-download",
+    "description": "Pi extension: /dl <url> downloads YouTube video/audio/subtitles and emits an exact-word transcript bundle.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "download",
+      "ffmpeg",
+      "pi",
+      "pi-coding-agent",
+      "subtitles",
+      "transcript",
+      "youtube",
+      "yt-dlp"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-26T02:11:50Z",
+    "pushed_at": "2026-04-26T03:08:39Z",
+    "updated_at": "2026-04-26T03:08:38Z",
+    "size": 30,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

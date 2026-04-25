@@ -1,0 +1,29 @@
+{
+  "id": "gunabot-pi-flywheel-system",
+  "name": "gunabot-pi-flywheel-system",
+  "url": "https://github.com/gunabot/pi-flywheel-system",
+  "source": "github-search",
+  "description": "Flywheel planning methodology as a pi coding agent package - prompt templates and wizard extension",
+  "metadata": {
+    "github_url": "https://github.com/gunabot/pi-flywheel-system",
+    "repo_full_name": "gunabot/pi-flywheel-system",
+    "description": "Flywheel planning methodology as a pi coding agent package - prompt templates and wizard extension",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-11T06:41:49Z",
+    "pushed_at": "2026-02-11T06:48:19Z",
+    "updated_at": "2026-02-11T06:48:22Z",
+    "size": 24,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

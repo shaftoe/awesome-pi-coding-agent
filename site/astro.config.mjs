@@ -1,14 +1,21 @@
 import path from "node:path";
 import starlight from "@astrojs/starlight";
 import { defineConfig } from "astro/config";
+import { formatBuildTimestamp } from "../src/core/timestamp.ts";
 import { buildChecks } from "./src/integrations/build-checks";
 import { searchIndex } from "./src/integrations/search-index";
 
 const rootDir = path.resolve(import.meta.dirname, "..");
 
+// Build-time timestamp injected as a Vite global constant
+const buildDate = formatBuildTimestamp(); // e.g. "2026-04-27 08:52 UTC"
+
 // https://astro.build/config
 export default defineConfig({
 	vite: {
+		define: {
+			BUILD_DATE: JSON.stringify(buildDate),
+		},
 		resolve: {
 			alias: {
 				"@pipeline": path.join(rootDir, "src"),
@@ -33,11 +40,9 @@ export default defineConfig({
 					label: "Categories",
 					items: [
 						{ label: "🔌 Extensions", link: "/extensions" },
-						{ label: "🛠️ Tools & Utilities", link: "/tools" },
 						{ label: "🎨 Themes", link: "/themes" },
-						{ label: "🔗 Providers", link: "/providers" },
-						{ label: "📋 Templates", link: "/templates" },
-						{ label: "🎬 Videos", link: "/videos" },
+						{ label: "🎬 Videos & Tutorials", link: "/videos" },
+						{ label: "📦 Miscellaneous", link: "/misc" },
 					],
 				},
 			],

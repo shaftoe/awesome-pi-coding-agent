@@ -1,0 +1,36 @@
+{
+  "id": "@pi-unipi/web-api",
+  "name": "@pi-unipi/web-api",
+  "url": "https://www.npmjs.com/package/@pi-unipi/web-api",
+  "source": "npm-search",
+  "description": "Web search, read, and summarize tools with provider-based backend selection for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Neuron-Mr-White/unipi",
+    "npm_name": "@pi-unipi/web-api",
+    "description": "Web search, read, and summarize tools with provider-based backend selection for Pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "unipi",
+      "web-api",
+      "search",
+      "read",
+      "summarize"
+    ],
+    "version": "0.1.6",
+    "published_at": "2026-04-26T18:39:01.342Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

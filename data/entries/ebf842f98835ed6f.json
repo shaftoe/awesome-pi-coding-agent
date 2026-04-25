@@ -1,0 +1,36 @@
+{
+  "id": "pi-init",
+  "name": "pi-init",
+  "url": "https://www.npmjs.com/package/pi-init",
+  "source": "npm-search",
+  "description": "A pi agent skill to initialize or update AGENTS.md context files.",
+  "metadata": {
+    "github_url": "https://github.com/ttttmr/pi-init",
+    "npm_name": "pi-init",
+    "description": "A pi agent skill to initialize or update AGENTS.md context files.",
+    "keywords": [
+      "pi-package",
+      "pi-agent",
+      "skill",
+      "ai",
+      "agent",
+      "init",
+      "context",
+      "documentation"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-02-13T07:08:15.378Z",
+    "npm_downloads_monthly": 99,
+    "npm_downloads_weekly": 23,
+    "npm_score_final": 17.199036,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

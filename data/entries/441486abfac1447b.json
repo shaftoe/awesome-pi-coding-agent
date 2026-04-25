@@ -1,0 +1,29 @@
+{
+  "id": "chasey-myagi-agent-ts-starter",
+  "name": "chasey-myagi-agent-ts-starter",
+  "url": "https://github.com/chasey-myagi/agent-ts-starter",
+  "source": "github-search",
+  "description": "Blank TypeScript fullstack Agent starter: Hono + PI Agent Core + React",
+  "metadata": {
+    "github_url": "https://github.com/chasey-myagi/agent-ts-starter",
+    "repo_full_name": "chasey-myagi/agent-ts-starter",
+    "description": "Blank TypeScript fullstack Agent starter: Hono + PI Agent Core + React",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-20T16:08:16Z",
+    "pushed_at": "2026-04-20T16:08:23Z",
+    "updated_at": "2026-04-20T16:08:27Z",
+    "size": 15,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

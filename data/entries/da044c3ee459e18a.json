@@ -1,0 +1,39 @@
+{
+  "id": "@jay-zod/speakturbo",
+  "name": "@jay-zod/speakturbo",
+  "url": "https://www.npmjs.com/package/@jay-zod/speakturbo",
+  "source": "npm-search",
+  "description": "Ultra-fast TTS with ~90ms latency. Local text-to-speech for AI agents with 8 built-in voices.",
+  "metadata": {
+    "github_url": "https://github.com/EmZod/Speak-Turbo",
+    "npm_name": "@jay-zod/speakturbo",
+    "description": "Ultra-fast TTS with ~90ms latency. Local text-to-speech for AI agents with 8 built-in voices.",
+    "keywords": [
+      "tts",
+      "text-to-speech",
+      "mlx",
+      "apple-silicon",
+      "pi-package",
+      "speakturbo-tts",
+      "voice",
+      "audio",
+      "ai-agent",
+      "claude-code",
+      "skills"
+    ],
+    "version": "1.0.7",
+    "published_at": "2026-02-21T11:42:06.565Z",
+    "npm_downloads_monthly": 23,
+    "npm_downloads_weekly": 6,
+    "npm_score_final": 11.070984,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

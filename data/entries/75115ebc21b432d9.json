@@ -1,0 +1,33 @@
+{
+  "id": "pmzi-pi-telegram-tools",
+  "name": "pmzi-pi-telegram-tools",
+  "url": "https://github.com/pmzi/pi-telegram-tools",
+  "source": "github-search",
+  "description": "A pi extension that gives your AI full Telegram account access via MTProto — no separate server process required.",
+  "metadata": {
+    "github_url": "https://github.com/pmzi/pi-telegram-tools",
+    "repo_full_name": "pmzi/pi-telegram-tools",
+    "description": "A pi extension that gives your AI full Telegram account access via MTProto — no separate server process required.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "claude-code",
+      "pi-etension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-07T04:24:16Z",
+    "pushed_at": "2026-04-07T05:30:18Z",
+    "updated_at": "2026-04-07T05:30:44Z",
+    "size": 55,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

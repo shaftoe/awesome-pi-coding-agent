@@ -1,0 +1,21 @@
+{
+  "id": "YT_K8KfCbE9_9Y",
+  "name": "Meet Bob, your AI-powered defect detective.",
+  "url": "https://youtube.com/watch?v=K8KfCbE9_9Y",
+  "source": "youtube-search",
+  "description": "Stop defects before they start. Meet Bob, your AI-powered defect detective. From real-time sensor data to instant alerts, Pi Agent ...",
+  "metadata": {
+    "title": "Meet Bob, your AI-powered defect detective.",
+    "name": "Meet Bob, your AI-powered defect detective.",
+    "description": "Stop defects before they start. Meet Bob, your AI-powered defect detective. From real-time sensor data to instant alerts, Pi Agent ...",
+    "channel": "Pluto7",
+    "published_at": "2025-04-24T21:00:17Z",
+    "thumbnail": "https://i.ytimg.com/vi/K8KfCbE9_9Y/hqdefault.jpg",
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 10,
+    "level": "dead"
+  },
+  "category": "video"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "zach-source-pi-agent-extensions",
+  "name": "zach-source-pi-agent-extensions",
+  "url": "https://github.com/zach-source/pi-agent-extensions",
+  "source": "github-search",
+  "description": "Pi coding agent extensions (graphiti, heartbeat)",
+  "metadata": {
+    "github_url": "https://github.com/zach-source/pi-agent-extensions",
+    "repo_full_name": "zach-source/pi-agent-extensions",
+    "description": "Pi coding agent extensions (graphiti, heartbeat)",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-10T21:15:18Z",
+    "pushed_at": "2026-03-01T07:22:25Z",
+    "updated_at": "2026-03-25T13:33:32Z",
+    "size": 1082,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "@recallnet/codecontext-pi",
+  "name": "@recallnet/codecontext-pi",
+  "url": "https://www.npmjs.com/package/@recallnet/codecontext-pi",
+  "source": "npm-search",
+  "description": "pi steering extension for surfacing @context annotations during reads",
+  "metadata": {
+    "github_url": "https://github.com/recallnet/codecontext",
+    "npm_name": "@recallnet/codecontext-pi",
+    "description": "pi steering extension for surfacing @context annotations during reads",
+    "keywords": [
+      "pi-package",
+      "codecontext",
+      "agents"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-03-26T19:47:11.048Z",
+    "npm_downloads_monthly": 226,
+    "npm_downloads_weekly": 2,
+    "npm_score_final": 20.808315,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 75,
+    "level": "active"
+  },
+  "category": "extension"
+}

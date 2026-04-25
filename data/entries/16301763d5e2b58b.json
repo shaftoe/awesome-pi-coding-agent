@@ -1,0 +1,29 @@
+{
+  "id": "unfallenwill-pi-coding-agent-extensions",
+  "name": "unfallenwill-pi-coding-agent-extensions",
+  "url": "https://github.com/unfallenwill/pi-coding-agent-extensions",
+  "source": "github-search",
+  "description": "A collection of extensions for pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/unfallenwill/pi-coding-agent-extensions",
+    "repo_full_name": "unfallenwill/pi-coding-agent-extensions",
+    "description": "A collection of extensions for pi-coding-agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-09T11:09:24Z",
+    "pushed_at": "2026-03-09T11:15:44Z",
+    "updated_at": "2026-03-09T11:15:47Z",
+    "size": 5,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

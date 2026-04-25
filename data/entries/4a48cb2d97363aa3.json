@@ -1,0 +1,38 @@
+{
+  "id": "doer-ee-pi-telegram-bot",
+  "name": "doer-ee-pi-telegram-bot",
+  "url": "https://github.com/doer-ee/pi-telegram-bot",
+  "source": "github-search",
+  "description": "Private Telegram remote bot for Pi sessions",
+  "metadata": {
+    "github_url": "https://github.com/doer-ee/pi-telegram-bot",
+    "repo_full_name": "doer-ee/pi-telegram-bot",
+    "description": "Private Telegram remote bot for Pi sessions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "developer-tools",
+      "nodejs",
+      "pi-agent",
+      "pi-coding-agent",
+      "productivity",
+      "remote-control",
+      "telegram-bot",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-26T23:24:38Z",
+    "pushed_at": "2026-04-26T23:28:12Z",
+    "updated_at": "2026-04-26T23:31:31Z",
+    "size": 24748,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

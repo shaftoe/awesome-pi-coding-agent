@@ -1,0 +1,29 @@
+{
+  "id": "TinySquid-pi-agent-extensions",
+  "name": "TinySquid-pi-agent-extensions",
+  "url": "https://github.com/TinySquid/pi-agent-extensions",
+  "source": "github-search",
+  "description": "Custom extensions for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/TinySquid/pi-agent-extensions",
+    "repo_full_name": "TinySquid/pi-agent-extensions",
+    "description": "Custom extensions for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-16T19:33:41Z",
+    "pushed_at": "2026-04-16T19:38:04Z",
+    "updated_at": "2026-04-16T19:38:07Z",
+    "size": 20,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

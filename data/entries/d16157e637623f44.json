@@ -1,0 +1,36 @@
+{
+  "id": "joelhooks-pi-tools",
+  "name": "joelhooks-pi-tools",
+  "url": "https://github.com/joelhooks/pi-tools",
+  "source": "github-search",
+  "description": "🔧 Power tools for pi — repo autopsy, tsgo LSP, codex background loops, session reader, and more",
+  "metadata": {
+    "github_url": "https://github.com/joelhooks/pi-tools",
+    "repo_full_name": "joelhooks/pi-tools",
+    "description": "🔧 Power tools for pi — repo autopsy, tsgo LSP, codex background loops, session reader, and more",
+    "stars": 54,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "codex",
+      "extensions",
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-13T04:05:14Z",
+    "pushed_at": "2026-03-29T18:25:55Z",
+    "updated_at": "2026-04-26T22:17:40Z",
+    "size": 419,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

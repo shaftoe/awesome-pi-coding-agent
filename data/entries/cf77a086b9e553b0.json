@@ -1,0 +1,29 @@
+{
+  "id": "@artale/pi-odu",
+  "name": "@artale/pi-odu",
+  "url": "https://www.npmjs.com/package/@artale/pi-odu",
+  "source": "npm-search",
+  "description": "Odu pattern engine for Pi. 256-state binary classifier based on the Ifa system. Read 8 channels, classify, act.",
+  "metadata": {
+    "github_url": "https://github.com/arosstale/pi-odu",
+    "npm_name": "@artale/pi-odu",
+    "description": "Odu pattern engine for Pi. 256-state binary classifier based on the Ifa system. Read 8 channels, classify, act.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-03-14T16:55:42.497Z",
+    "npm_downloads_monthly": 20,
+    "npm_downloads_weekly": 4,
+    "npm_score_final": 10.784852,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

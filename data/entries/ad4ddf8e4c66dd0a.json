@@ -1,0 +1,29 @@
+{
+  "id": "hintjen-pi-extensions",
+  "name": "hintjen-pi-extensions",
+  "url": "https://github.com/hintjen/pi-extensions",
+  "source": "github-search",
+  "description": "Pi coding agent extensions — /prune, /explore, and more",
+  "metadata": {
+    "github_url": "https://github.com/hintjen/pi-extensions",
+    "repo_full_name": "hintjen/pi-extensions",
+    "description": "Pi coding agent extensions — /prune, /explore, and more",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-06T06:38:18Z",
+    "pushed_at": "2026-02-06T06:38:20Z",
+    "updated_at": "2026-03-08T02:10:06Z",
+    "size": 12,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "trotsky1997-pi-autocontinue",
+  "name": "trotsky1997-pi-autocontinue",
+  "url": "https://github.com/trotsky1997/pi-autocontinue",
+  "source": "github-search",
+  "description": "AutoContinue extension package for pi",
+  "metadata": {
+    "github_url": "https://github.com/trotsky1997/pi-autocontinue",
+    "repo_full_name": "trotsky1997/pi-autocontinue",
+    "description": "AutoContinue extension package for pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-28T11:35:51Z",
+    "pushed_at": "2026-03-28T11:35:56Z",
+    "updated_at": "2026-03-28T11:35:58Z",
+    "size": 4,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

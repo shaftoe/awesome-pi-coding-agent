@@ -1,0 +1,29 @@
+{
+  "id": "aibuildersmx-dotpi",
+  "name": "aibuildersmx-dotpi",
+  "url": "https://github.com/aibuildersmx/dotpi",
+  "source": "github-search",
+  "description": "Pi Coding Agent toolkit — extensions, skills, and agents for pi",
+  "metadata": {
+    "github_url": "https://github.com/aibuildersmx/dotpi",
+    "repo_full_name": "aibuildersmx/dotpi",
+    "description": "Pi Coding Agent toolkit — extensions, skills, and agents for pi",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-01T20:09:32Z",
+    "pushed_at": "2026-04-01T20:09:34Z",
+    "updated_at": "2026-04-03T05:44:24Z",
+    "size": 29,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

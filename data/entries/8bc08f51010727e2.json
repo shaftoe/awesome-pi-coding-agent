@@ -1,0 +1,29 @@
+{
+  "id": "@baggiiiie/pi-codex-usage",
+  "name": "@baggiiiie/pi-codex-usage",
+  "url": "https://www.npmjs.com/package/@baggiiiie/pi-codex-usage",
+  "source": "npm-search",
+  "description": "A pi package that adds the `/codex-usage` command and status widget.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@baggiiiie/pi-codex-usage",
+    "description": "A pi package that adds the `/codex-usage` command and status widget.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.0.2",
+    "published_at": "2026-04-15T19:04:24.753Z",
+    "npm_downloads_monthly": 216,
+    "npm_downloads_weekly": 216,
+    "npm_score_final": 20.50059,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

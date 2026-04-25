@@ -1,0 +1,35 @@
+{
+  "id": "@hjanuschka/pi-entire",
+  "name": "@hjanuschka/pi-entire",
+  "url": "https://www.npmjs.com/package/@hjanuschka/pi-entire",
+  "source": "npm-search",
+  "description": "Pi coding agent extension for Entire.io session tracking",
+  "metadata": {
+    "github_url": "https://github.com/hjanuschka/pi-entire",
+    "npm_name": "@hjanuschka/pi-entire",
+    "description": "Pi coding agent extension for Entire.io session tracking",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "entire",
+      "entire.io",
+      "session-tracking",
+      "ai-agent",
+      "git"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-02-10T23:41:14.728Z",
+    "npm_downloads_monthly": 9,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 9.414319,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "health": {
+    "score": 65,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

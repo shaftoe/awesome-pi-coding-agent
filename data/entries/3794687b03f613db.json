@@ -1,0 +1,29 @@
+{
+  "id": "cdias900-pi-subagent",
+  "name": "cdias900-pi-subagent",
+  "url": "https://github.com/cdias900/pi-subagent",
+  "source": "github-search",
+  "description": "Multi-agent orchestration for PI — spawn specialized agents, coordinate teams, share context",
+  "metadata": {
+    "github_url": "https://github.com/cdias900/pi-subagent",
+    "repo_full_name": "cdias900/pi-subagent",
+    "description": "Multi-agent orchestration for PI — spawn specialized agents, coordinate teams, share context",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-05T05:22:33Z",
+    "pushed_at": "2026-03-26T20:03:41Z",
+    "updated_at": "2026-03-30T12:35:43Z",
+    "size": 212,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 51,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

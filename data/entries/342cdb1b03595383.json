@@ -1,0 +1,29 @@
+{
+  "id": "benjaminkitt-pi-ext",
+  "name": "benjaminkitt-pi-ext",
+  "url": "https://github.com/benjaminkitt/pi-ext",
+  "source": "github-search",
+  "description": "Pi coding agent extensions monorepo",
+  "metadata": {
+    "github_url": "https://github.com/benjaminkitt/pi-ext",
+    "repo_full_name": "benjaminkitt/pi-ext",
+    "description": "Pi coding agent extensions monorepo",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-17T00:09:06Z",
+    "pushed_at": "2026-04-17T01:38:08Z",
+    "updated_at": "2026-04-17T01:38:12Z",
+    "size": 35,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

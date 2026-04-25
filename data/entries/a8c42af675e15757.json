@@ -1,0 +1,29 @@
+{
+  "id": "markokocic-pi-clojure",
+  "name": "markokocic-pi-clojure",
+  "url": "https://github.com/markokocic/pi-clojure",
+  "source": "github-search",
+  "description": "Clojure tools for pi-coding agent",
+  "metadata": {
+    "github_url": "https://github.com/markokocic/pi-clojure",
+    "repo_full_name": "markokocic/pi-clojure",
+    "description": "Clojure tools for pi-coding agent",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-17T14:03:18Z",
+    "pushed_at": "2026-04-21T08:32:09Z",
+    "updated_at": "2026-04-23T07:53:31Z",
+    "size": 22,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 63,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

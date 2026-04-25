@@ -1,0 +1,29 @@
+{
+  "id": "pasky-pi-agent-config",
+  "name": "pasky-pi-agent-config",
+  "url": "https://github.com/pasky/pi-agent-config",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/pasky/pi-agent-config",
+    "repo_full_name": "pasky/pi-agent-config",
+    "description": "",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-18T17:39:42Z",
+    "pushed_at": "2026-04-24T01:09:46Z",
+    "updated_at": "2026-04-24T01:09:49Z",
+    "size": 45,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

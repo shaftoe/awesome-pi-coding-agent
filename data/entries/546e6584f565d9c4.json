@@ -1,0 +1,37 @@
+{
+  "id": "pi-speak-pk",
+  "name": "pi-speak-pk",
+  "url": "https://www.npmjs.com/package/pi-speak-pk",
+  "source": "npm-search",
+  "description": "Voice, wake-word, Telegram, and mobile web remote extensions for Pi.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-speak-pk",
+    "description": "Voice, wake-word, Telegram, and mobile web remote extensions for Pi.",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "speech",
+      "text-to-speech",
+      "voice",
+      "telegram",
+      "remote-control",
+      "pwa"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-04-16T01:33:31.547Z",
+    "npm_downloads_monthly": 391,
+    "npm_downloads_weekly": 146,
+    "npm_score_final": 28.781366,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

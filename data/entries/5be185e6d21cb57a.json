@@ -1,0 +1,33 @@
+{
+  "id": "sterlai",
+  "name": "sterlai",
+  "url": "https://www.npmjs.com/package/sterlai",
+  "source": "npm-search",
+  "description": "Terminal AI agent for Stellar. Chat-driven payments, path payments, trustlines, and friendbot funding on testnet, with a separate signer daemon that prompts for explicit approval on every signature.",
+  "metadata": {
+    "github_url": "https://github.com/fozagtx/sterl",
+    "npm_name": "sterlai",
+    "description": "Terminal AI agent for Stellar. Chat-driven payments, path payments, trustlines, and friendbot funding on testnet, with a separate signer daemon that prompts for explicit approval on every signature.",
+    "keywords": [
+      "pi-package",
+      "stellar",
+      "wallet",
+      "horizon",
+      "soroban"
+    ],
+    "version": "0.1.14",
+    "published_at": "2026-04-21T19:20:18.454Z",
+    "npm_downloads_monthly": 1475,
+    "npm_downloads_weekly": 1475,
+    "npm_score_final": 29.595238,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "misc"
+}

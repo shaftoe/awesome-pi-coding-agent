@@ -1,0 +1,45 @@
+{
+  "id": "kukareku6341-piclaw",
+  "name": "kukareku6341-piclaw",
+  "url": "https://github.com/kukareku6341/piclaw",
+  "source": "github-search",
+  "description": "Provide a Docker-based sandbox to run the Pi Coding Agent with a web UI, persistent sessions, task scheduling, and optional WhatsApp integration.",
+  "metadata": {
+    "github_url": "https://github.com/kukareku6341/piclaw",
+    "repo_full_name": "kukareku6341/piclaw",
+    "description": "Provide a Docker-based sandbox to run the Pi Coding Agent with a web UI, persistent sessions, task scheduling, and optional WhatsApp integration.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai",
+      "automation",
+      "computer-vision",
+      "data-augmentation",
+      "deep-learning",
+      "gpu-acceleration",
+      "image-classification",
+      "image-processing",
+      "image-segmentation",
+      "machine-learning",
+      "neural-networks",
+      "object-detection",
+      "open-source",
+      "pretrained-models",
+      "python"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-03T10:02:30Z",
+    "pushed_at": "2026-04-27T01:00:35Z",
+    "updated_at": "2026-04-27T01:00:39Z",
+    "size": 3033,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

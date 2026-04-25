@@ -1,0 +1,29 @@
+{
+  "id": "tanishqkancharla-pi-theme-sync",
+  "name": "tanishqkancharla-pi-theme-sync",
+  "url": "https://github.com/tanishqkancharla/pi-theme-sync",
+  "source": "github-search",
+  "description": "Auto-switch Pi themes when macOS appearance changes",
+  "metadata": {
+    "github_url": "https://github.com/tanishqkancharla/pi-theme-sync",
+    "repo_full_name": "tanishqkancharla/pi-theme-sync",
+    "description": "Auto-switch Pi themes when macOS appearance changes",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-24T17:20:12Z",
+    "pushed_at": "2026-04-25T16:11:54Z",
+    "updated_at": "2026-04-25T16:11:58Z",
+    "size": 16,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "theme"
+}

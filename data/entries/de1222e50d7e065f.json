@@ -1,0 +1,32 @@
+{
+  "id": "@lukemelnik/pi-model-prompt",
+  "name": "@lukemelnik/pi-model-prompt",
+  "url": "https://www.npmjs.com/package/@lukemelnik/pi-model-prompt",
+  "source": "npm-search",
+  "description": "A Pi extension for global per-model prompt addenda and model prompt tools.",
+  "metadata": {
+    "github_url": "https://github.com/lukemelnik/pi-model-prompt",
+    "npm_name": "@lukemelnik/pi-model-prompt",
+    "description": "A Pi extension for global per-model prompt addenda and model prompt tools.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "prompt",
+      "model"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-04-24T03:35:04.248Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

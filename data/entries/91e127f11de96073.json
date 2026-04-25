@@ -1,0 +1,29 @@
+{
+  "id": "CanerGngr-pi-obsidian-extensions",
+  "name": "CanerGngr-pi-obsidian-extensions",
+  "url": "https://github.com/CanerGngr/pi-obsidian-extensions",
+  "source": "github-search",
+  "description": "pi extensions that plug Obsidian into the pi coding agent: capture, deepen, inbox processing, cross-session memory.",
+  "metadata": {
+    "github_url": "https://github.com/CanerGngr/pi-obsidian-extensions",
+    "repo_full_name": "CanerGngr/pi-obsidian-extensions",
+    "description": "pi extensions that plug Obsidian into the pi coding agent: capture, deepen, inbox processing, cross-session memory.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-23T20:40:24Z",
+    "pushed_at": "2026-04-23T20:40:26Z",
+    "updated_at": "2026-04-23T20:40:30Z",
+    "size": 33,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

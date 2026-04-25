@@ -1,0 +1,44 @@
+{
+  "id": "tanRdev-pi-desktop",
+  "name": "tanRdev-pi-desktop",
+  "url": "https://github.com/tanRdev/pi-desktop",
+  "source": "github-search",
+  "description": "Native macOS desktop app for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/tanRdev/pi-desktop",
+    "repo_full_name": "tanRdev/pi-desktop",
+    "description": "Native macOS desktop app for the Pi coding agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agentic-coding",
+      "bun",
+      "coding-harness",
+      "electron",
+      "electron-vite",
+      "harness",
+      "macos",
+      "pi",
+      "pi-app",
+      "pi-harness",
+      "playwright",
+      "react",
+      "typescript",
+      "worktree"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-09T00:20:56Z",
+    "pushed_at": "2026-04-25T21:35:47Z",
+    "updated_at": "2026-04-25T22:33:53Z",
+    "size": 7013,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

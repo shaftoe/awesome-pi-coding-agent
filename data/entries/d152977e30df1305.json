@@ -1,0 +1,29 @@
+{
+  "id": "hvent90-pi-pringles-dod-capsules",
+  "name": "hvent90-pi-pringles-dod-capsules",
+  "url": "https://github.com/hvent90/pi-pringles-dod-capsules",
+  "source": "github-search",
+  "description": "Agent-controlled context window management for pi-coding-agent - a Pringles x DoD collaboration",
+  "metadata": {
+    "github_url": "https://github.com/hvent90/pi-pringles-dod-capsules",
+    "repo_full_name": "hvent90/pi-pringles-dod-capsules",
+    "description": "Agent-controlled context window management for pi-coding-agent - a Pringles x DoD collaboration",
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-20T16:29:05Z",
+    "pushed_at": "2026-03-21T18:23:46Z",
+    "updated_at": "2026-03-23T23:14:40Z",
+    "size": 13,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

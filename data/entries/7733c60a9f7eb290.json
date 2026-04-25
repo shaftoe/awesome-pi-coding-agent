@@ -1,0 +1,39 @@
+{
+  "id": "skyfallsin-pi-boss",
+  "name": "skyfallsin-pi-boss",
+  "url": "https://github.com/skyfallsin/pi-boss",
+  "source": "github-search",
+  "description": "Spawn and manage sub-agents in visible tmux panes — the orchestrator that makes multi-agent boss mode work for pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/skyfallsin/pi-boss",
+    "repo_full_name": "skyfallsin/pi-boss",
+    "description": "Spawn and manage sub-agents in visible tmux panes — the orchestrator that makes multi-agent boss mode work for pi coding agent.",
+    "stars": 1,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "boss-mode",
+      "multi-agent",
+      "orchestration",
+      "parallel-agents",
+      "pi-coding-agent",
+      "sub-agent",
+      "tmux",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-22T18:25:45Z",
+    "pushed_at": "2026-04-25T20:50:33Z",
+    "updated_at": "2026-04-25T20:50:37Z",
+    "size": 7,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

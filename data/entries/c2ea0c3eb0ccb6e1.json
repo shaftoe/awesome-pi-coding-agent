@@ -1,0 +1,29 @@
+{
+  "id": "erwagasore-agent-tooling",
+  "name": "erwagasore-agent-tooling",
+  "url": "https://github.com/erwagasore/agent-tooling",
+  "source": "github-search",
+  "description": "A collection of skills, extensions, and themes—mostly for pi-coding-agent—ready-made to better your workflow",
+  "metadata": {
+    "github_url": "https://github.com/erwagasore/agent-tooling",
+    "repo_full_name": "erwagasore/agent-tooling",
+    "description": "A collection of skills, extensions, and themes—mostly for pi-coding-agent—ready-made to better your workflow",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-07T15:12:22Z",
+    "pushed_at": "2026-03-19T11:30:25Z",
+    "updated_at": "2026-03-19T11:30:29Z",
+    "size": 62,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

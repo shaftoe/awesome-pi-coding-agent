@@ -1,0 +1,29 @@
+{
+  "id": "it-ony-pi-session-context",
+  "name": "it-ony-pi-session-context",
+  "url": "https://github.com/it-ony/pi-session-context",
+  "source": "github-search",
+  "description": "A pi coding agent extension that tracks and displays session context (worktree, Jira ticket, GitLab MR) in the footer",
+  "metadata": {
+    "github_url": "https://github.com/it-ony/pi-session-context",
+    "repo_full_name": "it-ony/pi-session-context",
+    "description": "A pi coding agent extension that tracks and displays session context (worktree, Jira ticket, GitLab MR) in the footer",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-23T09:07:18Z",
+    "pushed_at": "2026-04-23T09:13:49Z",
+    "updated_at": "2026-04-23T09:38:45Z",
+    "size": 40,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

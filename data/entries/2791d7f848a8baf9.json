@@ -1,0 +1,35 @@
+{
+  "id": "algal-pi-context-inspect",
+  "name": "algal-pi-context-inspect",
+  "url": "https://github.com/algal/pi-context-inspect",
+  "source": "github-search",
+  "description": "Pi extension for inspecting context window usage and breakdown",
+  "metadata": {
+    "github_url": "https://github.com/algal/pi-context-inspect",
+    "repo_full_name": "algal/pi-context-inspect",
+    "description": "Pi extension for inspecting context window usage and breakdown",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "context-window",
+      "diagnostics",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-09T04:12:01Z",
+    "pushed_at": "2026-04-09T04:17:16Z",
+    "updated_at": "2026-04-20T00:04:28Z",
+    "size": 6,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

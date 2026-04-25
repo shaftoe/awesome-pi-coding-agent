@@ -1,0 +1,29 @@
+{
+  "id": "bernajaber-pi-product-system",
+  "name": "bernajaber-pi-product-system",
+  "url": "https://github.com/bernajaber/pi-product-system",
+  "source": "github-search",
+  "description": "Product creation system for Pi coding agent. Describe what to build → spec → plan → build → validate.",
+  "metadata": {
+    "github_url": "https://github.com/bernajaber/pi-product-system",
+    "repo_full_name": "bernajaber/pi-product-system",
+    "description": "Product creation system for Pi coding agent. Describe what to build → spec → plan → build → validate.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-26T17:35:13Z",
+    "pushed_at": "2026-02-28T22:54:12Z",
+    "updated_at": "2026-02-28T22:54:15Z",
+    "size": 366,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

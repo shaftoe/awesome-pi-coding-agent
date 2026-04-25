@@ -1,0 +1,29 @@
+{
+  "id": "championswimmer-pi-context-prune",
+  "name": "championswimmer-pi-context-prune",
+  "url": "https://github.com/championswimmer/pi-context-prune",
+  "source": "github-search",
+  "description": "Pi coding-agent extension for pruning tool-call trees",
+  "metadata": {
+    "github_url": "https://github.com/championswimmer/pi-context-prune",
+    "repo_full_name": "championswimmer/pi-context-prune",
+    "description": "Pi coding-agent extension for pruning tool-call trees",
+    "stars": 6,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-20T20:58:30Z",
+    "pushed_at": "2026-04-21T17:25:02Z",
+    "updated_at": "2026-04-23T11:16:21Z",
+    "size": 122,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

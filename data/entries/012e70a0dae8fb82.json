@@ -1,0 +1,29 @@
+{
+  "id": "lsj5031-pi-notification-extension",
+  "name": "lsj5031-pi-notification-extension",
+  "url": "https://github.com/lsj5031/pi-notification-extension",
+  "source": "github-search",
+  "description": "Notifications (Telegram + bell) extension for @mariozechner/pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/lsj5031/pi-notification-extension",
+    "repo_full_name": "lsj5031/pi-notification-extension",
+    "description": "Notifications (Telegram + bell) extension for @mariozechner/pi-coding-agent",
+    "stars": 7,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-01-10T02:18:57Z",
+    "pushed_at": "2026-01-10T02:58:42Z",
+    "updated_at": "2026-03-31T07:09:59Z",
+    "size": 15,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 41,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

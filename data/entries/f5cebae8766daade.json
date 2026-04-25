@@ -1,0 +1,29 @@
+{
+  "id": "csalvato-pi-config-personal",
+  "name": "csalvato-pi-config-personal",
+  "url": "https://github.com/csalvato/pi-config-personal",
+  "source": "github-search",
+  "description": "Personal pi coding agent config — extensions, skills, and agents",
+  "metadata": {
+    "github_url": "https://github.com/csalvato/pi-config-personal",
+    "repo_full_name": "csalvato/pi-config-personal",
+    "description": "Personal pi coding agent config — extensions, skills, and agents",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-25T16:53:01Z",
+    "pushed_at": "2026-04-26T05:10:58Z",
+    "updated_at": "2026-04-26T05:11:02Z",
+    "size": 59,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "liveinknewgithub-stardew-valley",
+  "name": "liveinknewgithub-stardew-valley",
+  "url": "https://github.com/liveinknewgithub/stardew-valley",
+  "source": "github-search",
+  "description": "Stardew Valley-inspired terminal farming game — a pi coding agent extension",
+  "metadata": {
+    "github_url": "https://github.com/liveinknewgithub/stardew-valley",
+    "repo_full_name": "liveinknewgithub/stardew-valley",
+    "description": "Stardew Valley-inspired terminal farming game — a pi coding agent extension",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-18T03:14:18Z",
+    "pushed_at": "2026-02-18T03:14:20Z",
+    "updated_at": "2026-02-18T03:14:23Z",
+    "size": 10,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

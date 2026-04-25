@@ -1,0 +1,29 @@
+{
+  "id": "fuyunfei-pi-agent-just",
+  "name": "fuyunfei-pi-agent-just",
+  "url": "https://github.com/fuyunfei/pi-agent-just",
+  "source": "github-search",
+  "description": "Browser-based AI coding playground — pi-coding-agent + just-bash fusion",
+  "metadata": {
+    "github_url": "https://github.com/fuyunfei/pi-agent-just",
+    "repo_full_name": "fuyunfei/pi-agent-just",
+    "description": "Browser-based AI coding playground — pi-coding-agent + just-bash fusion",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-01T09:11:53Z",
+    "pushed_at": "2026-03-10T02:28:50Z",
+    "updated_at": "2026-04-18T15:41:01Z",
+    "size": 1239,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

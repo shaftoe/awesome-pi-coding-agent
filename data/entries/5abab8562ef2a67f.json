@@ -1,0 +1,31 @@
+{
+  "id": "@jd-erreape/pi-questionnaire",
+  "name": "@jd-erreape/pi-questionnaire",
+  "url": "https://www.npmjs.com/package/@jd-erreape/pi-questionnaire",
+  "source": "npm-search",
+  "description": "Pi package providing an interactive questionnaire extension/tool.",
+  "metadata": {
+    "github_url": "https://github.com/jd-erreape/pi-questionnaire",
+    "npm_name": "@jd-erreape/pi-questionnaire",
+    "description": "Pi package providing an interactive questionnaire extension/tool.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "questionnaire"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-04-21T05:30:00.157Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "LuneZhang-pi-extensions",
+  "name": "LuneZhang-pi-extensions",
+  "url": "https://github.com/LuneZhang/pi-extensions",
+  "source": "github-search",
+  "description": "Plug-and-play extensions for pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/LuneZhang/pi-extensions",
+    "repo_full_name": "LuneZhang/pi-extensions",
+    "description": "Plug-and-play extensions for pi coding agent.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-01T09:19:53Z",
+    "pushed_at": "2026-04-01T09:35:57Z",
+    "updated_at": "2026-04-02T07:12:56Z",
+    "size": 1842,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

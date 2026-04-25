@@ -1,0 +1,29 @@
+{
+  "id": "mrcloudchase-nano-coding-agent",
+  "name": "mrcloudchase-nano-coding-agent",
+  "url": "https://github.com/mrcloudchase/nano-coding-agent",
+  "source": "github-search",
+  "description": "Minimal version of pi-mono's coding-agent package",
+  "metadata": {
+    "github_url": "https://github.com/mrcloudchase/nano-coding-agent",
+    "repo_full_name": "mrcloudchase/nano-coding-agent",
+    "description": "Minimal version of pi-mono's coding-agent package",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-12T03:04:26Z",
+    "pushed_at": "2026-03-12T03:04:44Z",
+    "updated_at": "2026-03-12T03:04:47Z",
+    "size": 5,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

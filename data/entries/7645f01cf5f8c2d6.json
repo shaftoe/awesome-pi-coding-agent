@@ -1,0 +1,36 @@
+{
+  "id": "pi-context-saver",
+  "name": "pi-context-saver",
+  "url": "https://www.npmjs.com/package/pi-context-saver",
+  "source": "npm-search",
+  "description": "Pi extension that prevents context bloat by automatically sandboxing heavy tool outputs (bash, web_search, fetch_content, exa_search, read) to temp files",
+  "metadata": {
+    "github_url": "https://github.com/HyperspaceNG/pi-context-saver",
+    "npm_name": "pi-context-saver",
+    "description": "Pi extension that prevents context bloat by automatically sandboxing heavy tool outputs (bash, web_search, fetch_content, exa_search, read) to temp files",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "context-management",
+      "productivity",
+      "ai-coding",
+      "terminal",
+      "context-window",
+      "sandbox"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-03-13T17:38:34.176Z",
+    "npm_downloads_monthly": 56,
+    "npm_downloads_weekly": 15,
+    "npm_score_final": 14.766608,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "askbudi-juno-code",
+  "name": "askbudi-juno-code",
+  "url": "https://github.com/askbudi/juno-code",
+  "source": "github-search",
+  "description": "Ralph Wiggum meet Kanban! Ralph style execution for [Claude Code, Codex, Pi, Cursor]. One task per iteration, automatic progress tracking, and git commits. Set it and let it run.",
+  "metadata": {
+    "github_url": "https://github.com/askbudi/juno-code",
+    "repo_full_name": "askbudi/juno-code",
+    "description": "Ralph Wiggum meet Kanban! Ralph style execution for [Claude Code, Codex, Pi, Cursor]. One task per iteration, automatic progress tracking, and git commits. Set it and let it run.",
+    "stars": 52,
+    "forks": 5,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "autonomous-agents",
+      "backlog-ralph",
+      "claude-code",
+      "codex-cli",
+      "cursor-cli",
+      "opencode",
+      "pi-agent",
+      "ralph-loop",
+      "ralph-wiggum"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-01-06T18:57:23Z",
+    "pushed_at": "2026-04-14T00:51:51Z",
+    "updated_at": "2026-04-23T19:44:36Z",
+    "size": 6551,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 68,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

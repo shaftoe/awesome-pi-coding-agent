@@ -1,0 +1,29 @@
+{
+  "id": "kuyavinny-pi-planning-with-files",
+  "name": "kuyavinny-pi-planning-with-files",
+  "url": "https://github.com/kuyavinny/pi-planning-with-files",
+  "source": "github-search",
+  "description": "Pi-native adaptation of planning-with-files — extension + skill for durable task planning in Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/kuyavinny/pi-planning-with-files",
+    "repo_full_name": "kuyavinny/pi-planning-with-files",
+    "description": "Pi-native adaptation of planning-with-files — extension + skill for durable task planning in Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-24T08:48:27Z",
+    "pushed_at": "2026-04-26T21:40:00Z",
+    "updated_at": "2026-04-26T21:40:03Z",
+    "size": 188,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

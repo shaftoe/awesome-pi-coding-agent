@@ -1,0 +1,29 @@
+{
+  "id": "pi-editor",
+  "name": "pi-editor",
+  "url": "https://www.npmjs.com/package/pi-editor",
+  "source": "npm-search",
+  "description": "Pi extension to open files in your preferred editor ($VISUAL / $EDITOR)",
+  "metadata": {
+    "github_url": "https://github.com/dwbutler/pi-editor",
+    "npm_name": "pi-editor",
+    "description": "Pi extension to open files in your preferred editor ($VISUAL / $EDITOR)",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-03-06T17:17:58.275Z",
+    "npm_downloads_monthly": 18,
+    "npm_downloads_weekly": 6,
+    "npm_score_final": 10.228469,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

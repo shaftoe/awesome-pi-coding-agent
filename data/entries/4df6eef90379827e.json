@@ -1,0 +1,29 @@
+{
+  "id": "sigilmakes-obsidian-pi-plugin",
+  "name": "sigilmakes-obsidian-pi-plugin",
+  "url": "https://github.com/sigilmakes/obsidian-pi-plugin",
+  "source": "github-search",
+  "description": "Chat with the Pi coding agent inside Obsidian",
+  "metadata": {
+    "github_url": "https://github.com/sigilmakes/obsidian-pi-plugin",
+    "repo_full_name": "sigilmakes/obsidian-pi-plugin",
+    "description": "Chat with the Pi coding agent inside Obsidian",
+    "stars": 4,
+    "forks": 1,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-02T22:19:00Z",
+    "pushed_at": "2026-03-03T11:21:44Z",
+    "updated_at": "2026-04-26T02:20:25Z",
+    "size": 187,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 59,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

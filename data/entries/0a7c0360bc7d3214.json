@@ -1,0 +1,29 @@
+{
+  "id": "Samarth-8836-pi-skills-and-extensions",
+  "name": "Samarth-8836-pi-skills-and-extensions",
+  "url": "https://github.com/Samarth-8836/pi-skills-and-extensions",
+  "source": "github-search",
+  "description": "This contains all the useful and locally tested PI coding agent skills and extensions. All of them are plug and play and do not pollute the local environment - only project based",
+  "metadata": {
+    "github_url": "https://github.com/Samarth-8836/pi-skills-and-extensions",
+    "repo_full_name": "Samarth-8836/pi-skills-and-extensions",
+    "description": "This contains all the useful and locally tested PI coding agent skills and extensions. All of them are plug and play and do not pollute the local environment - only project based",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-22T15:05:40Z",
+    "pushed_at": "2026-03-22T15:09:33Z",
+    "updated_at": "2026-03-22T15:09:35Z",
+    "size": 64,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

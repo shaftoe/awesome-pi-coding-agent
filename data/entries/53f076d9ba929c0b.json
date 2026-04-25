@@ -1,0 +1,29 @@
+{
+  "id": "Huijiro-click",
+  "name": "Huijiro-click",
+  "url": "https://github.com/Huijiro/click",
+  "source": "github-search",
+  "description": "PI extension providing SQLite-based persistent memory for AI agents with FTS5 search, project/user scoping, and auto-injection of relevant context.",
+  "metadata": {
+    "github_url": "https://github.com/Huijiro/click",
+    "repo_full_name": "Huijiro/click",
+    "description": "PI extension providing SQLite-based persistent memory for AI agents with FTS5 search, project/user scoping, and auto-injection of relevant context.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-09T23:23:52Z",
+    "pushed_at": "2026-03-10T17:19:16Z",
+    "updated_at": "2026-03-11T09:21:21Z",
+    "size": 53,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

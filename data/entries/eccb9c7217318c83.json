@@ -1,0 +1,29 @@
+{
+  "id": "niketansrane-pi-extensions",
+  "name": "niketansrane-pi-extensions",
+  "url": "https://github.com/niketansrane/pi-extensions",
+  "source": "github-search",
+  "description": "Pi coding agent extensions — OAuth 2.0 learning tools and more",
+  "metadata": {
+    "github_url": "https://github.com/niketansrane/pi-extensions",
+    "repo_full_name": "niketansrane/pi-extensions",
+    "description": "Pi coding agent extensions — OAuth 2.0 learning tools and more",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-19T13:37:45Z",
+    "pushed_at": "2026-04-19T13:45:16Z",
+    "updated_at": "2026-04-19T13:45:20Z",
+    "size": 121,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

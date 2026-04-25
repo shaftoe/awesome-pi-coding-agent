@@ -1,0 +1,29 @@
+{
+  "id": "skidvis-pi-coordinator",
+  "name": "skidvis-pi-coordinator",
+  "url": "https://github.com/skidvis/pi-coordinator",
+  "source": "github-search",
+  "description": "A pi extension that transforms the primary agent into a pure dispatcher/orchestrator. The coordinator is locked to one tools (dispatch_agent) and delegates all real work to a built-in team of three specialist subagents.",
+  "metadata": {
+    "github_url": "https://github.com/skidvis/pi-coordinator",
+    "repo_full_name": "skidvis/pi-coordinator",
+    "description": "A pi extension that transforms the primary agent into a pure dispatcher/orchestrator. The coordinator is locked to one tools (dispatch_agent) and delegates all real work to a built-in team of three specialist subagents.",
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-02T05:14:13Z",
+    "pushed_at": "2026-04-02T05:55:54Z",
+    "updated_at": "2026-04-18T21:53:45Z",
+    "size": 63,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

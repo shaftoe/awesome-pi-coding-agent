@@ -1,0 +1,29 @@
+{
+  "id": "tuansondinh-pi-extensions",
+  "name": "tuansondinh-pi-extensions",
+  "url": "https://github.com/tuansondinh/pi-extensions",
+  "source": "github-search",
+  "description": "Monorepo for Pi coding agent extension packages",
+  "metadata": {
+    "github_url": "https://github.com/tuansondinh/pi-extensions",
+    "repo_full_name": "tuansondinh/pi-extensions",
+    "description": "Monorepo for Pi coding agent extension packages",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-23T08:26:45Z",
+    "pushed_at": "2026-04-25T08:33:06Z",
+    "updated_at": "2026-04-25T08:33:09Z",
+    "size": 67,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

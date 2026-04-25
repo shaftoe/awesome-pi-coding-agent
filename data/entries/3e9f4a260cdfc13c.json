@@ -1,0 +1,29 @@
+{
+  "id": "mushrowan-pi-extensions",
+  "name": "mushrowan-pi-extensions",
+  "url": "https://github.com/mushrowan/pi-extensions",
+  "source": "github-search",
+  "description": "extensions for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/mushrowan/pi-extensions",
+    "repo_full_name": "mushrowan/pi-extensions",
+    "description": "extensions for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-26T22:17:12Z",
+    "pushed_at": "2026-02-26T22:17:40Z",
+    "updated_at": "2026-02-26T22:17:49Z",
+    "size": 45,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

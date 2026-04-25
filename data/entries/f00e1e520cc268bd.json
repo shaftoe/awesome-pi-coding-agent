@@ -1,0 +1,44 @@
+{
+  "id": "@ameno/pi-minimax-mcp",
+  "name": "@ameno/pi-minimax-mcp",
+  "url": "https://www.npmjs.com/package/@ameno/pi-minimax-mcp",
+  "source": "npm-search",
+  "description": "MiniMax MCP tools for pi - Web search and image understanding via MiniMax's Model Context Protocol",
+  "metadata": {
+    "github_url": "https://github.com/ameno-/pi-minimax-mcp",
+    "npm_name": "@ameno/pi-minimax-mcp",
+    "description": "MiniMax MCP tools for pi - Web search and image understanding via MiniMax's Model Context Protocol",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "pi-mcp",
+      "pi-tool",
+      "pi-ai",
+      "ai",
+      "minimax",
+      "mcp",
+      "mcp-server",
+      "web-search",
+      "image-understanding",
+      "model-context-protocol",
+      "coding-agent",
+      "agent-tools"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-02-03T23:03:07.240Z",
+    "npm_downloads_monthly": 1050,
+    "npm_downloads_weekly": 282,
+    "npm_score_final": 27.378565,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 84,
+    "level": "active"
+  },
+  "category": "extension"
+}

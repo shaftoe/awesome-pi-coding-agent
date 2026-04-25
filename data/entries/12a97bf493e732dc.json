@@ -1,0 +1,29 @@
+{
+  "id": "mercurylamp-pi-prism",
+  "name": "mercurylamp-pi-prism",
+  "url": "https://github.com/mercurylamp/pi-prism",
+  "source": "github-search",
+  "description": "A small pi coding-agent extension pack for theme sync, fast mode, prompt alarms, and peer review",
+  "metadata": {
+    "github_url": "https://github.com/mercurylamp/pi-prism",
+    "repo_full_name": "mercurylamp/pi-prism",
+    "description": "A small pi coding-agent extension pack for theme sync, fast mode, prompt alarms, and peer review",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-25T12:35:35Z",
+    "pushed_at": "2026-04-25T12:42:36Z",
+    "updated_at": "2026-04-25T12:46:46Z",
+    "size": 20,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

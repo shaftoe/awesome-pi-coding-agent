@@ -1,0 +1,29 @@
+{
+  "id": "nachoal-agent-usage-report",
+  "name": "nachoal-agent-usage-report",
+  "url": "https://github.com/nachoal/agent-usage-report",
+  "source": "github-search",
+  "description": "Local agent usage report generator for Codex, Claude Code, OpenCode, and Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/nachoal/agent-usage-report",
+    "repo_full_name": "nachoal/agent-usage-report",
+    "description": "Local agent usage report generator for Codex, Claude Code, OpenCode, and Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-07T22:47:51Z",
+    "pushed_at": "2026-04-08T02:02:20Z",
+    "updated_at": "2026-04-08T02:02:29Z",
+    "size": 130,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

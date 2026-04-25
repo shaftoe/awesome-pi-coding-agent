@@ -1,0 +1,29 @@
+{
+  "id": "chrisetheridge-my-little-pi",
+  "name": "chrisetheridge-my-little-pi",
+  "url": "https://github.com/chrisetheridge/my-little-pi",
+  "source": "github-search",
+  "description": "my personal extensions, skills, themes for pi.dev agent",
+  "metadata": {
+    "github_url": "https://github.com/chrisetheridge/my-little-pi",
+    "repo_full_name": "chrisetheridge/my-little-pi",
+    "description": "my personal extensions, skills, themes for pi.dev agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-26T18:48:49Z",
+    "pushed_at": "2026-04-26T20:34:58Z",
+    "updated_at": "2026-04-26T20:35:03Z",
+    "size": 70,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

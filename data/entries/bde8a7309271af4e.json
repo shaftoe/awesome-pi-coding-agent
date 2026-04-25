@@ -1,0 +1,29 @@
+{
+  "id": "mrcloudchase-nano-mom",
+  "name": "mrcloudchase-nano-mom",
+  "url": "https://github.com/mrcloudchase/nano-mom",
+  "source": "github-search",
+  "description": "Minimal version of pi-mono's mom package",
+  "metadata": {
+    "github_url": "https://github.com/mrcloudchase/nano-mom",
+    "repo_full_name": "mrcloudchase/nano-mom",
+    "description": "Minimal version of pi-mono's mom package",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-12T03:04:25Z",
+    "pushed_at": "2026-03-12T03:04:45Z",
+    "updated_at": "2026-03-12T03:04:48Z",
+    "size": 13,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

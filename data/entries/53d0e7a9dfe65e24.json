@@ -1,0 +1,29 @@
+{
+  "id": "@kaiserlich-dev/pi-skill-picker",
+  "name": "@kaiserlich-dev/pi-skill-picker",
+  "url": "https://www.npmjs.com/package/@kaiserlich-dev/pi-skill-picker",
+  "source": "npm-search",
+  "description": "Namespace-aware skill palette for pi — groups skills by category folder",
+  "metadata": {
+    "github_url": "https://github.com/kaiserlich-dev/pi-skill-picker",
+    "npm_name": "@kaiserlich-dev/pi-skill-picker",
+    "description": "Namespace-aware skill palette for pi — groups skills by category folder",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-02-23T13:10:59.508Z",
+    "npm_downloads_monthly": 13,
+    "npm_downloads_weekly": 5,
+    "npm_score_final": 8.852403,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

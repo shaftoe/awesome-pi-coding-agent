@@ -1,0 +1,29 @@
+{
+  "id": "pi-ask-tool-extension",
+  "name": "pi-ask-tool-extension",
+  "url": "https://www.npmjs.com/package/pi-ask-tool-extension",
+  "source": "npm-search",
+  "description": "Ask tool extension for pi with tabbed questioning and inline note editing",
+  "metadata": {
+    "github_url": "https://github.com/devkade/pi-ask-tool",
+    "npm_name": "pi-ask-tool-extension",
+    "description": "Ask tool extension for pi with tabbed questioning and inline note editing",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.4",
+    "published_at": "2026-03-29T15:43:13.830Z",
+    "npm_downloads_monthly": 677,
+    "npm_downloads_weekly": 66,
+    "npm_score_final": 25.37383,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

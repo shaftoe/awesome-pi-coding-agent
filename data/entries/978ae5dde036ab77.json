@@ -1,0 +1,29 @@
+{
+  "id": "bu5hm4nn-pi-permissions",
+  "name": "bu5hm4nn-pi-permissions",
+  "url": "https://github.com/bu5hm4nn/pi-permissions",
+  "source": "github-search",
+  "description": "pi-permissions is a Pi Coding Agent extension that secures ssh_bash and optional local bash usage with per-command approvals, strict fail-closed SSH  blocking, and policy management via /permissions and /ssh-policy.",
+  "metadata": {
+    "github_url": "https://github.com/bu5hm4nn/pi-permissions",
+    "repo_full_name": "bu5hm4nn/pi-permissions",
+    "description": "pi-permissions is a Pi Coding Agent extension that secures ssh_bash and optional local bash usage with per-command approvals, strict fail-closed SSH  blocking, and policy management via /permissions and /ssh-policy.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 5,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-03T10:39:32Z",
+    "pushed_at": "2026-03-22T09:10:49Z",
+    "updated_at": "2026-03-21T22:24:06Z",
+    "size": 263,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

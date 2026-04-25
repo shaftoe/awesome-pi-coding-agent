@@ -1,0 +1,47 @@
+{
+  "id": "cacab6002-safe-coder",
+  "name": "cacab6002-safe-coder",
+  "url": "https://github.com/cacab6002/safe-coder",
+  "source": "github-search",
+  "description": "Protect pi coding agent with safety guardrails, command checks, and workspace limits for safer AI-assisted coding",
+  "metadata": {
+    "github_url": "https://github.com/cacab6002/safe-coder",
+    "repo_full_name": "cacab6002/safe-coder",
+    "description": "Protect pi coding agent with safety guardrails, command checks, and workspace limits for safer AI-assisted coding",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "conditional-conformance",
+      "datamapper",
+      "generator",
+      "gorm",
+      "graphql",
+      "graphql-nexus",
+      "javascript",
+      "mariadb",
+      "multithreading",
+      "nexus",
+      "sandbox",
+      "sql",
+      "sql-queries",
+      "sql-query",
+      "sql-query-builder",
+      "swift",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-30T05:35:25Z",
+    "pushed_at": "2026-04-27T01:19:05Z",
+    "updated_at": "2026-04-27T01:19:10Z",
+    "size": 583,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

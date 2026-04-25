@@ -1,0 +1,29 @@
+{
+  "id": "sigilmakes-pi-channels",
+  "name": "sigilmakes-pi-channels",
+  "url": "https://github.com/sigilmakes/pi-channels",
+  "source": "github-search",
+  "description": "Channel-based messaging and multi-agent coordination for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/sigilmakes/pi-channels",
+    "repo_full_name": "sigilmakes/pi-channels",
+    "description": "Channel-based messaging and multi-agent coordination for the pi coding agent",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-10T18:01:27Z",
+    "pushed_at": "2026-04-09T22:09:44Z",
+    "updated_at": "2026-04-12T19:05:03Z",
+    "size": 651,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

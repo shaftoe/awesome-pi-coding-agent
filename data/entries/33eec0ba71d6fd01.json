@@ -1,0 +1,29 @@
+{
+  "id": "the-wendell-pi-config",
+  "name": "the-wendell-pi-config",
+  "url": "https://github.com/the-wendell/pi-config",
+  "source": "github-search",
+  "description": "configuratin for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/the-wendell/pi-config",
+    "repo_full_name": "the-wendell/pi-config",
+    "description": "configuratin for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-13T06:40:49Z",
+    "pushed_at": "2026-04-13T12:35:41Z",
+    "updated_at": "2026-04-15T14:58:29Z",
+    "size": 9,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

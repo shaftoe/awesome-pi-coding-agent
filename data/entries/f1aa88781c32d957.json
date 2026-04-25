@@ -1,0 +1,29 @@
+{
+  "id": "VictorDelamonica-pi-hive",
+  "name": "VictorDelamonica-pi-hive",
+  "url": "https://github.com/VictorDelamonica/pi-hive",
+  "source": "github-search",
+  "description": "🐝 Multi-agent orchestration system for pi",
+  "metadata": {
+    "github_url": "https://github.com/VictorDelamonica/pi-hive",
+    "repo_full_name": "VictorDelamonica/pi-hive",
+    "description": "🐝 Multi-agent orchestration system for pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-15T10:04:26Z",
+    "pushed_at": "2026-04-15T10:07:45Z",
+    "updated_at": "2026-04-15T10:07:26Z",
+    "size": 48,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

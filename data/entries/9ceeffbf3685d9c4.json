@@ -1,0 +1,34 @@
+{
+  "id": "@leing2021/super-pi",
+  "name": "@leing2021/super-pi",
+  "url": "https://www.npmjs.com/package/@leing2021/super-pi",
+  "source": "npm-search",
+  "description": "Pi-native Compound Engineering package for iterative development workflows",
+  "metadata": {
+    "github_url": "https://github.com/leing2021/super-pi",
+    "npm_name": "@leing2021/super-pi",
+    "description": "Pi-native Compound Engineering package for iterative development workflows",
+    "keywords": [
+      "@leing2021/super-pi",
+      "pi-package",
+      "pi",
+      "super-pi",
+      "coding-agent",
+      "compound-engineering"
+    ],
+    "version": "0.19.5",
+    "published_at": "2026-04-26T00:03:07.928Z",
+    "npm_downloads_monthly": 2389,
+    "npm_downloads_weekly": 2389,
+    "npm_score_final": 31.871664,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "misc"
+}

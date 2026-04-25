@@ -1,0 +1,29 @@
+{
+  "id": "prateekmedia-claude-agent-sdk-pi",
+  "name": "prateekmedia-claude-agent-sdk-pi",
+  "url": "https://github.com/prateekmedia/claude-agent-sdk-pi",
+  "source": "github-search",
+  "description": "Claude agent sdk as a provider for pi",
+  "metadata": {
+    "github_url": "https://github.com/prateekmedia/claude-agent-sdk-pi",
+    "repo_full_name": "prateekmedia/claude-agent-sdk-pi",
+    "description": "Claude agent sdk as a provider for pi",
+    "stars": 80,
+    "forks": 17,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-01-31T20:09:50Z",
+    "pushed_at": "2026-04-23T21:06:32Z",
+    "updated_at": "2026-04-26T22:34:42Z",
+    "size": 306,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

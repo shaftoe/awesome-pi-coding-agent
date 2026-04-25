@@ -1,0 +1,46 @@
+{
+  "id": "llm-water-pi",
+  "name": "llm-water-pi",
+  "url": "https://www.npmjs.com/package/llm-water-pi",
+  "source": "npm-search",
+  "description": "Track Pi-agent session token usage, costs, and water consumption. Daily, monthly, and session reports with water footprint data.",
+  "metadata": {
+    "github_url": "https://github.com/procrastinate-coders/llm-water-usage",
+    "npm_name": "llm-water-pi",
+    "description": "Track Pi-agent session token usage, costs, and water consumption. Daily, monthly, and session reports with water footprint data.",
+    "keywords": [
+      "pi-agent",
+      "pi",
+      "llm",
+      "water",
+      "water-tracker",
+      "water-footprint",
+      "token",
+      "token-usage",
+      "usage",
+      "sustainability",
+      "ai",
+      "ai-tools",
+      "cli",
+      "devtools",
+      "carbon",
+      "environment",
+      "anthropic",
+      "claude"
+    ],
+    "version": "18.0.13",
+    "published_at": "2026-03-30T08:52:52.482Z",
+    "npm_downloads_monthly": 429,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 35.017902,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

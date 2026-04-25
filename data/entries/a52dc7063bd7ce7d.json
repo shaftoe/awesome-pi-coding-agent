@@ -1,0 +1,29 @@
+{
+  "id": "nicobailon-pi-intercom",
+  "name": "nicobailon-pi-intercom",
+  "url": "https://github.com/nicobailon/pi-intercom",
+  "source": "github-search",
+  "description": "Inter-session communication extension for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/nicobailon/pi-intercom",
+    "repo_full_name": "nicobailon/pi-intercom",
+    "description": "Inter-session communication extension for pi coding agent",
+    "stars": 95,
+    "forks": 5,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-12T05:40:43Z",
+    "pushed_at": "2026-04-26T19:45:03Z",
+    "updated_at": "2026-04-26T19:44:42Z",
+    "size": 198,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "leohenon-pi-claude-agent-sdk",
+  "name": "leohenon-pi-claude-agent-sdk",
+  "url": "https://github.com/leohenon/pi-claude-agent-sdk",
+  "source": "github-search",
+  "description": "pi extension that uses Claude Agent SDK for inference while pi executes tools",
+  "metadata": {
+    "github_url": "https://github.com/leohenon/pi-claude-agent-sdk",
+    "repo_full_name": "leohenon/pi-claude-agent-sdk",
+    "description": "pi extension that uses Claude Agent SDK for inference while pi executes tools",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-09T02:20:25Z",
+    "pushed_at": "2026-04-09T12:20:01Z",
+    "updated_at": "2026-04-13T17:06:48Z",
+    "size": 220,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

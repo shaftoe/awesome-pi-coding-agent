@@ -1,0 +1,29 @@
+{
+  "id": "steel-experiments-durable-researcher",
+  "name": "steel-experiments-durable-researcher",
+  "url": "https://github.com/steel-experiments/durable-researcher",
+  "source": "github-search",
+  "description": "Self-hosted deep research agent with durable execution. Pi Agent SDK + Absurd + Steel.",
+  "metadata": {
+    "github_url": "https://github.com/steel-experiments/durable-researcher",
+    "repo_full_name": "steel-experiments/durable-researcher",
+    "description": "Self-hosted deep research agent with durable execution. Pi Agent SDK + Absurd + Steel.",
+    "stars": 12,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-06T20:56:48Z",
+    "pushed_at": "2026-04-16T15:37:16Z",
+    "updated_at": "2026-04-22T19:13:10Z",
+    "size": 3600,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 76,
+    "level": "active"
+  },
+  "category": "misc"
+}

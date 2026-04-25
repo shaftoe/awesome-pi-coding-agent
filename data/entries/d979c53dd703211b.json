@@ -1,0 +1,36 @@
+{
+  "id": "manusajith-pi-jj-suite",
+  "name": "manusajith-pi-jj-suite",
+  "url": "https://github.com/manusajith/pi-jj-suite",
+  "source": "github-search",
+  "description": "A meta-package that installs and activates the full pi jj suite",
+  "metadata": {
+    "github_url": "https://github.com/manusajith/pi-jj-suite",
+    "repo_full_name": "manusajith/pi-jj-suite",
+    "description": "A meta-package that installs and activates the full pi jj suite",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "jj",
+      "jujutsu",
+      "pi",
+      "pi-package",
+      "suite",
+      "workflow"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-22T20:51:42Z",
+    "pushed_at": "2026-03-22T20:51:45Z",
+    "updated_at": "2026-03-22T20:51:48Z",
+    "size": 5,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Whamp-pi-agentic-compaction",
+  "name": "Whamp-pi-agentic-compaction",
+  "url": "https://github.com/Whamp/pi-agentic-compaction",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/Whamp/pi-agentic-compaction",
+    "repo_full_name": "Whamp/pi-agentic-compaction",
+    "description": "",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-03T14:37:18Z",
+    "pushed_at": "2026-02-27T23:41:04Z",
+    "updated_at": "2026-04-15T15:39:37Z",
+    "size": 97,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

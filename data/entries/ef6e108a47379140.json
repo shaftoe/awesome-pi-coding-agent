@@ -1,0 +1,29 @@
+{
+  "id": "r3b1s-rtk-pi",
+  "name": "r3b1s-rtk-pi",
+  "url": "https://github.com/r3b1s/rtk-pi",
+  "source": "github-search",
+  "description": "RTK (Rust Token Killer) extension for pi-coding-agent. Simple, transparent extension to plug pi into rtk.",
+  "metadata": {
+    "github_url": "https://github.com/r3b1s/rtk-pi",
+    "repo_full_name": "r3b1s/rtk-pi",
+    "description": "RTK (Rust Token Killer) extension for pi-coding-agent. Simple, transparent extension to plug pi into rtk.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-05T02:10:36Z",
+    "pushed_at": "2026-03-05T02:12:38Z",
+    "updated_at": "2026-03-05T23:30:01Z",
+    "size": 5,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

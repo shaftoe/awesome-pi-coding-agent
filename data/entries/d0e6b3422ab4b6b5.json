@@ -1,0 +1,29 @@
+{
+  "id": "victor-software-house-pi-term",
+  "name": "victor-software-house-pi-term",
+  "url": "https://github.com/victor-software-house/pi-term",
+  "source": "github-search",
+  "description": "Live iTerm2 theme picker for Pi with embedded themes and debounced preview",
+  "metadata": {
+    "github_url": "https://github.com/victor-software-house/pi-term",
+    "repo_full_name": "victor-software-house/pi-term",
+    "description": "Live iTerm2 theme picker for Pi with embedded themes and debounced preview",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-08T18:30:45Z",
+    "pushed_at": "2026-04-16T19:53:06Z",
+    "updated_at": "2026-04-08T18:31:00Z",
+    "size": 2413,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 66,
+    "level": "maintained"
+  },
+  "category": "theme"
+}

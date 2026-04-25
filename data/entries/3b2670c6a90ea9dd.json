@@ -1,0 +1,43 @@
+{
+  "id": "pi-opa",
+  "name": "pi-opa",
+  "url": "https://www.npmjs.com/package/pi-opa",
+  "source": "npm-search",
+  "description": "Enterprise-grade Open Policy Agent (OPA) integration for pi coding agent - comprehensive authorization, authentication, and policy enforcement",
+  "metadata": {
+    "github_url": "https://github.com/DrOlu/pi-opa",
+    "npm_name": "pi-opa",
+    "description": "Enterprise-grade Open Policy Agent (OPA) integration for pi coding agent - comprehensive authorization, authentication, and policy enforcement",
+    "keywords": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "opa",
+      "open-policy-agent",
+      "authorization",
+      "authz",
+      "policy",
+      "rego",
+      "enterprise",
+      "security",
+      "access-control",
+      "rbac",
+      "abac",
+      "audit"
+    ],
+    "version": "1.0.3",
+    "published_at": "2026-03-15T22:01:06.879Z",
+    "npm_downloads_monthly": 54,
+    "npm_downloads_weekly": 13,
+    "npm_score_final": 14.612722,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

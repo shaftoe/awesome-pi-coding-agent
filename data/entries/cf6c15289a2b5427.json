@@ -1,0 +1,36 @@
+{
+  "id": "championswimmer-pi-auto-theme",
+  "name": "championswimmer-pi-auto-theme",
+  "url": "https://github.com/championswimmer/pi-auto-theme",
+  "source": "github-search",
+  "description": "pi coding agent - auto dark/light theme extension",
+  "metadata": {
+    "github_url": "https://github.com/championswimmer/pi-auto-theme",
+    "repo_full_name": "championswimmer/pi-auto-theme",
+    "description": "pi coding agent - auto dark/light theme extension",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "dark-mode",
+      "light-mode",
+      "pi",
+      "pi-agent",
+      "pi-coding-agent",
+      "system-theme"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-08T02:07:31Z",
+    "pushed_at": "2026-04-08T03:29:34Z",
+    "updated_at": "2026-04-22T05:10:37Z",
+    "size": 1183,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 70,
+    "level": "active"
+  },
+  "category": "extension"
+}

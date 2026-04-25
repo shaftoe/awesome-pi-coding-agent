@@ -1,0 +1,37 @@
+{
+  "id": "@the-forge-flow/pi-token-saver",
+  "name": "@the-forge-flow/pi-token-saver",
+  "url": "https://www.npmjs.com/package/@the-forge-flow/pi-token-saver",
+  "source": "npm-search",
+  "description": "Token-saving proxy for the PI coding agent — intercepts and compresses API calls to reduce token consumption",
+  "metadata": {
+    "github_url": "https://github.com/MonsieurBarti/pi-token-saver",
+    "npm_name": "@the-forge-flow/pi-token-saver",
+    "description": "Token-saving proxy for the PI coding agent — intercepts and compresses API calls to reduce token consumption",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "token",
+      "token-saving",
+      "proxy",
+      "tff",
+      "the-forge-flow"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-04-21T18:12:26.107Z",
+    "npm_downloads_monthly": 233,
+    "npm_downloads_weekly": 233,
+    "npm_score_final": 20.753897,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

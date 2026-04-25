@@ -1,0 +1,29 @@
+{
+  "id": "georgebashi-pi-kagi",
+  "name": "georgebashi-pi-kagi",
+  "url": "https://github.com/georgebashi/pi-kagi",
+  "source": "github-search",
+  "description": "Pi coding agent extension: web search via Kagi API",
+  "metadata": {
+    "github_url": "https://github.com/georgebashi/pi-kagi",
+    "repo_full_name": "georgebashi/pi-kagi",
+    "description": "Pi coding agent extension: web search via Kagi API",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-12T02:19:30Z",
+    "pushed_at": "2026-04-22T23:44:05Z",
+    "updated_at": "2026-02-15T07:18:41Z",
+    "size": 28,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

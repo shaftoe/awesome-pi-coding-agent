@@ -1,0 +1,35 @@
+{
+  "id": "kaikozlov-pi-buddy",
+  "name": "kaikozlov-pi-buddy",
+  "url": "https://github.com/kaikozlov/pi-buddy",
+  "source": "github-search",
+  "description": "your terminal has a pet now. it has... thoughts",
+  "metadata": {
+    "github_url": "https://github.com/kaikozlov/pi-buddy",
+    "repo_full_name": "kaikozlov/pi-buddy",
+    "description": "your terminal has a pet now. it has... thoughts",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "extension",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-extensions"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-13T19:09:48Z",
+    "pushed_at": "2026-04-17T15:45:21Z",
+    "updated_at": "2026-04-18T01:43:01Z",
+    "size": 83,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

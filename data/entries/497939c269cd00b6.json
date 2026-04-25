@@ -1,0 +1,31 @@
+{
+  "id": "pi-stash",
+  "name": "pi-stash",
+  "url": "https://www.npmjs.com/package/pi-stash",
+  "source": "npm-search",
+  "description": "Pi extension that stashes the current editor draft with Alt+S",
+  "metadata": {
+    "github_url": "https://github.com/maxpetretta/pi-stash",
+    "npm_name": "pi-stash",
+    "description": "Pi extension that stashes the current editor draft with Alt+S",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-03-23T18:00:34.841Z",
+    "npm_downloads_monthly": 245,
+    "npm_downloads_weekly": 9,
+    "npm_score_final": 21.12067,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 75,
+    "level": "active"
+  },
+  "category": "extension"
+}

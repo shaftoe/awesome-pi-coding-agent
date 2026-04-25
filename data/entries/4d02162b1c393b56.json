@@ -1,0 +1,45 @@
+{
+  "id": "codewithkenzo-pi-theme-switcher",
+  "name": "codewithkenzo-pi-theme-switcher",
+  "url": "https://github.com/codewithkenzo/pi-theme-switcher",
+  "source": "github-search",
+  "description": "Runtime theme switching and preview for the Pi coding agent. 10+ built-in palettes.",
+  "metadata": {
+    "github_url": "https://github.com/codewithkenzo/pi-theme-switcher",
+    "repo_full_name": "codewithkenzo/pi-theme-switcher",
+    "description": "Runtime theme switching and preview for the Pi coding agent. 10+ built-in palettes.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "bun",
+      "catppuccin",
+      "coding-agent",
+      "color-scheme",
+      "developer-tools",
+      "electric-midnight",
+      "pi",
+      "pi-agent",
+      "pi-agent-core",
+      "pi-coding-agent",
+      "pi-plugins",
+      "terminal-ui",
+      "theming",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-16T21:08:43Z",
+    "pushed_at": "2026-04-18T17:18:47Z",
+    "updated_at": "2026-04-18T17:18:51Z",
+    "size": 8342,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "theme"
+}

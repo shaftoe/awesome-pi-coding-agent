@@ -1,0 +1,29 @@
+{
+  "id": "akijain2000-hermes-loop",
+  "name": "akijain2000-hermes-loop",
+  "url": "https://github.com/akijain2000/hermes-loop",
+  "source": "github-search",
+  "description": "Self-improving agent extension — creates skills from experience, compresses context iteratively, maintains persistent memory. Runs on Pi or Claude Code. Combines pi-mono + hermes-agent + Skill Factory.",
+  "metadata": {
+    "github_url": "https://github.com/akijain2000/hermes-loop",
+    "repo_full_name": "akijain2000/hermes-loop",
+    "description": "Self-improving agent extension — creates skills from experience, compresses context iteratively, maintains persistent memory. Runs on Pi or Claude Code. Combines pi-mono + hermes-agent + Skill Factory.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-06T23:06:53Z",
+    "pushed_at": "2026-04-06T23:18:37Z",
+    "updated_at": "2026-04-16T22:25:11Z",
+    "size": 71,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

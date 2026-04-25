@@ -1,0 +1,29 @@
+{
+  "id": "StarkInternationalAI-pi-desktop",
+  "name": "StarkInternationalAI-pi-desktop",
+  "url": "https://github.com/StarkInternationalAI/pi-desktop",
+  "source": "github-search",
+  "description": "A UI desktop app for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/StarkInternationalAI/pi-desktop",
+    "repo_full_name": "StarkInternationalAI/pi-desktop",
+    "description": "A UI desktop app for the pi coding agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-14T16:51:28Z",
+    "pushed_at": "2026-04-20T04:06:24Z",
+    "updated_at": "2026-04-25T22:34:00Z",
+    "size": 1495,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

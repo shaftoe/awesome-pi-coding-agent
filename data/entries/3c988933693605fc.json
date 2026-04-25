@@ -1,0 +1,21 @@
+{
+  "id": "YT_cCzPb4NeazQ",
+  "name": "Pi-Mono : Minimalist AI Coding Agent & Toolkit (Review)",
+  "url": "https://youtube.com/watch?v=cCzPb4NeazQ",
+  "source": "youtube-search",
+  "description": "Most AI agents are bloated and slow. Pi (from the badlogic/pi-mono repo) is the opposite. It's a minimalist terminal powerhouse ...",
+  "metadata": {
+    "title": "Pi-Mono : Minimalist AI Coding Agent & Toolkit (Review)",
+    "name": "Pi-Mono : Minimalist AI Coding Agent & Toolkit (Review)",
+    "description": "Most AI agents are bloated and slow. Pi (from the badlogic/pi-mono repo) is the opposite. It's a minimalist terminal powerhouse ...",
+    "channel": "Blueprint Bytes",
+    "published_at": "2026-02-23T10:00:00Z",
+    "thumbnail": "https://i.ytimg.com/vi/cCzPb4NeazQ/hqdefault.jpg",
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 31,
+    "level": "stale"
+  },
+  "category": "video"
+}

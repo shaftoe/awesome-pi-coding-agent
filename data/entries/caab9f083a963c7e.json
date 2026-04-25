@@ -1,0 +1,39 @@
+{
+  "id": "kostyay-agent-stuff",
+  "name": "kostyay-agent-stuff",
+  "url": "https://github.com/kostyay/agent-stuff",
+  "source": "github-search",
+  "description": "Extensions, skills, and themes for Pi — the coding agent. TUI tools, brainstorming, code review, planning, and workflow automation.",
+  "metadata": {
+    "github_url": "https://github.com/kostyay/agent-stuff",
+    "repo_full_name": "kostyay/agent-stuff",
+    "description": "Extensions, skills, and themes for Pi — the coding agent. TUI tools, brainstorming, code review, planning, and workflow automation.",
+    "stars": 6,
+    "forks": 1,
+    "open_issues": 9,
+    "topics": [
+      "cli-tools",
+      "code-review",
+      "coding-agent",
+      "developer-tools",
+      "pi-coding-agent",
+      "pi-extensions",
+      "pi-skills",
+      "typescript",
+      "workflow-automation"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-01T18:32:09Z",
+    "pushed_at": "2026-04-23T18:22:13Z",
+    "updated_at": "2026-04-23T18:20:29Z",
+    "size": 1303,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 70,
+    "level": "active"
+  },
+  "category": "extension"
+}

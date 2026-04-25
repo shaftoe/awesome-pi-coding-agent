@@ -1,0 +1,29 @@
+{
+  "id": "Wayaans-ramean",
+  "name": "Wayaans-ramean",
+  "url": "https://github.com/Wayaans/ramean",
+  "source": "github-search",
+  "description": "pi package for extensions collection for my personal need for pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/Wayaans/ramean",
+    "repo_full_name": "Wayaans/ramean",
+    "description": "pi package for extensions collection for my personal need for pi-coding-agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-19T16:23:57Z",
+    "pushed_at": "2026-04-26T15:56:39Z",
+    "updated_at": "2026-04-26T15:56:42Z",
+    "size": 338,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

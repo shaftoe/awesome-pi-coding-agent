@@ -1,0 +1,29 @@
+{
+  "id": "@dreki-gg/pi-subagent",
+  "name": "@dreki-gg/pi-subagent",
+  "url": "https://www.npmjs.com/package/@dreki-gg/pi-subagent",
+  "source": "npm-search",
+  "description": "Subagent tool and direct agent runs for pi — isolated agents, parallel scouts, manager workflows, and bundled agents",
+  "metadata": {
+    "github_url": "https://github.com/dreki-gg/pi-extensions",
+    "npm_name": "@dreki-gg/pi-subagent",
+    "description": "Subagent tool and direct agent runs for pi — isolated agents, parallel scouts, manager workflows, and bundled agents",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.7.0",
+    "published_at": "2026-04-24T03:41:59.069Z",
+    "npm_downloads_monthly": 1124,
+    "npm_downloads_weekly": 561,
+    "npm_score_final": 28.484766,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "extension"
+}

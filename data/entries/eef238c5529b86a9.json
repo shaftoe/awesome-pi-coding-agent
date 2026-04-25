@@ -1,0 +1,33 @@
+{
+  "id": "@tridha643/pi-ask-mode",
+  "name": "@tridha643/pi-ask-mode",
+  "url": "https://www.npmjs.com/package/@tridha643/pi-ask-mode",
+  "source": "npm-search",
+  "description": "A pi package that adds ask mode: read-only investigative tools plus read-only bash.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@tridha643/pi-ask-mode",
+    "description": "A pi package that adds ask mode: read-only investigative tools plus read-only bash.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "ask-mode",
+      "extension",
+      "read-only"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-04-14T01:09:12.000Z",
+    "npm_downloads_monthly": 64,
+    "npm_downloads_weekly": 64,
+    "npm_score_final": 15.532073,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 76,
+    "level": "active"
+  },
+  "category": "extension"
+}

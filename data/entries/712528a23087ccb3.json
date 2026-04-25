@@ -1,0 +1,29 @@
+{
+  "id": "chron-odincode",
+  "name": "chron-odincode",
+  "url": "https://github.com/chron/odincode",
+  "source": "github-search",
+  "description": "⚡ ODINCODE — a pi coding agent persona. Senior engineer & architect. Clean code. Strong foundations. No shortcuts.",
+  "metadata": {
+    "github_url": "https://github.com/chron/odincode",
+    "repo_full_name": "chron/odincode",
+    "description": "⚡ ODINCODE — a pi coding agent persona. Senior engineer & architect. Clean code. Strong foundations. No shortcuts.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-16T02:10:49Z",
+    "pushed_at": "2026-04-16T02:33:39Z",
+    "updated_at": "2026-04-16T02:42:01Z",
+    "size": 12,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

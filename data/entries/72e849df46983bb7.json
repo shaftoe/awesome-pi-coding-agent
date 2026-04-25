@@ -1,0 +1,29 @@
+{
+  "id": "satish860-EnterpriseOps-Gym",
+  "name": "satish860-EnterpriseOps-Gym",
+  "url": "https://github.com/satish860/EnterpriseOps-Gym",
+  "source": "github-search",
+  "description": "3 tools vs 512 MCP tools — Pi coding agent for EnterpriseOps-Gym benchmark",
+  "metadata": {
+    "github_url": "https://github.com/satish860/EnterpriseOps-Gym",
+    "repo_full_name": "satish860/EnterpriseOps-Gym",
+    "description": "3 tools vs 512 MCP tools — Pi coding agent for EnterpriseOps-Gym benchmark",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-08T17:08:06Z",
+    "pushed_at": "2026-04-08T18:55:17Z",
+    "updated_at": "2026-04-08T18:55:43Z",
+    "size": 148,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

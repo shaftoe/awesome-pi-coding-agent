@@ -1,0 +1,51 @@
+{
+  "id": "@codexstar/pi-pompom",
+  "name": "@codexstar/pi-pompom",
+  "url": "https://www.npmjs.com/package/@codexstar/pi-pompom",
+  "source": "npm-search",
+  "description": "Pi-Pompom — A 3D raymarched virtual pet with voice, ambient weather sounds, AI side chat, agent tracking, and 23 layered sound effects for Pi CLI",
+  "metadata": {
+    "github_url": "https://github.com/codexstar69/pi-pompom",
+    "npm_name": "@codexstar/pi-pompom",
+    "description": "Pi-Pompom — A 3D raymarched virtual pet with voice, ambient weather sounds, AI side chat, agent tracking, and 23 layered sound effects for Pi CLI",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pompom",
+      "companion",
+      "virtual-pet",
+      "terminal-pet",
+      "terminal-art",
+      "raymarching",
+      "ascii-art",
+      "ansi",
+      "tui",
+      "widget",
+      "interactive",
+      "animation",
+      "coding-agent",
+      "tts",
+      "text-to-speech",
+      "elevenlabs",
+      "ambient-sound",
+      "ai-companion",
+      "side-chat",
+      "agent-tracking"
+    ],
+    "version": "7.8.36",
+    "published_at": "2026-04-05T15:46:07.263Z",
+    "npm_downloads_monthly": 2135,
+    "npm_downloads_weekly": 281,
+    "npm_score_final": 30.583143,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "misc"
+}

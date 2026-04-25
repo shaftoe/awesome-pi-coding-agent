@@ -1,0 +1,29 @@
+{
+  "id": "LightningBerk-vspi",
+  "name": "LightningBerk-vspi",
+  "url": "https://github.com/LightningBerk/vspi",
+  "source": "github-search",
+  "description": "VSCode(ium) integration for the Pi agent harness",
+  "metadata": {
+    "github_url": "https://github.com/LightningBerk/vspi",
+    "repo_full_name": "LightningBerk/vspi",
+    "description": "VSCode(ium) integration for the Pi agent harness",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-15T12:50:35Z",
+    "pushed_at": "2026-04-16T13:38:05Z",
+    "updated_at": "2026-04-16T13:39:27Z",
+    "size": 225,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

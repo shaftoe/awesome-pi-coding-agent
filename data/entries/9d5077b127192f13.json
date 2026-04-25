@@ -1,0 +1,35 @@
+{
+  "id": "@m64/nats-pi-channel",
+  "name": "@m64/nats-pi-channel",
+  "url": "https://www.npmjs.com/package/@m64/nats-pi-channel",
+  "source": "npm-search",
+  "description": "NATS Agent Protocol channel for PI Agent. Makes every PI session a discoverable, spec-compliant agent on NATS.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@m64/nats-pi-channel",
+    "description": "NATS Agent Protocol channel for PI Agent. Makes every PI session a discoverable, spec-compliant agent on NATS.",
+    "keywords": [
+      "pi-package",
+      "pi-agent",
+      "nats",
+      "agent",
+      "channel",
+      "nats-agent-protocol",
+      "synadia-agents"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-04-24T10:56:54.720Z",
+    "npm_downloads_monthly": 514,
+    "npm_downloads_weekly": 369,
+    "npm_score_final": 24.265722,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

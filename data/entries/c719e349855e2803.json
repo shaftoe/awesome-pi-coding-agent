@@ -1,0 +1,35 @@
+{
+  "id": "pi-per-model-prompt",
+  "name": "pi-per-model-prompt",
+  "url": "https://www.npmjs.com/package/pi-per-model-prompt",
+  "source": "npm-search",
+  "description": "Model-scoped system prompt correction layers for pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/RimuruW/pi-per-model-prompt",
+    "npm_name": "pi-per-model-prompt",
+    "description": "Model-scoped system prompt correction layers for pi-coding-agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "extension",
+      "prompt",
+      "model",
+      "gpt-5"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-04-17T15:22:24.305Z",
+    "npm_downloads_monthly": 316,
+    "npm_downloads_weekly": 134,
+    "npm_score_final": 22.218441,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

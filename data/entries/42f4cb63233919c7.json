@@ -1,0 +1,34 @@
+{
+  "id": "@beatly/core",
+  "name": "@beatly/core",
+  "url": "https://www.npmjs.com/package/@beatly/core",
+  "source": "npm-search",
+  "description": "Beatly control layer and bundled SuperCollider runtime.",
+  "metadata": {
+    "github_url": "https://github.com/getbeatly/beatly",
+    "npm_name": "@beatly/core",
+    "description": "Beatly control layer and bundled SuperCollider runtime.",
+    "keywords": [
+      "beatly",
+      "ai",
+      "agents",
+      "music",
+      "supercollider",
+      "pi-package"
+    ],
+    "version": "0.7.0",
+    "published_at": "2026-04-18T14:26:26.602Z",
+    "npm_downloads_monthly": 1730,
+    "npm_downloads_weekly": 194,
+    "npm_score_final": 29.451126,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "misc"
+}

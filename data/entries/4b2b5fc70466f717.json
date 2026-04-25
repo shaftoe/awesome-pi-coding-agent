@@ -1,0 +1,33 @@
+{
+  "id": "pi-missions",
+  "name": "pi-missions",
+  "url": "https://www.npmjs.com/package/pi-missions",
+  "source": "npm-search",
+  "description": "Orchestrated multi-phase development missions for pi — architect, implement, test, audit, verify",
+  "metadata": {
+    "github_url": "https://github.com/itisbryan/pi-missions",
+    "npm_name": "pi-missions",
+    "description": "Orchestrated multi-phase development missions for pi — architect, implement, test, audit, verify",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "missions",
+      "orchestration"
+    ],
+    "version": "0.2.3",
+    "published_at": "2026-04-03T10:07:55.377Z",
+    "npm_downloads_monthly": 407,
+    "npm_downloads_weekly": 30,
+    "npm_score_final": 23.166674,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

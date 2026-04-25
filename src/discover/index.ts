@@ -1,239 +1,89 @@
 /**
- * Discovery pipeline — find new pi-agent resources from various sources.
+ * Discovery orchestration — Stage 1 of the pipeline.
  *
- * Each source implements the Discoverer interface. The pipeline runner
- * executes them all, deduplicates, and returns unified candidates.
- */
-
-import type { DiscoveryCandidate, EntrySource } from "../lib/types.ts";
-import { earlyReject } from "./filter.ts";
-
-// ─── Logging (stderr, no Biome complaints) ─────────────────────────────────────
-
-function warn(message: string): void {
-	process.stderr.write(`⚠️  ${message}\n`);
-}
-
-function info(message: string): void {
-	process.stderr.write(`ℹ️  ${message}\n`);
-}
-
-// ─── Discoverer interface ──────────────────────────────────────────────────────
-
-export interface Discoverer {
-	/** Human-readable name for logging (e.g. "GitHub", "npm", "YouTube"). */
-	readonly name: string;
-
-	/**
-	 * The source tag applied to candidates produced by this discoverer.
-	 * Used for provenance tracking in entry data.
-	 */
-	readonly source: EntrySource;
-
-	/**
-	 * Run discovery and return raw candidates.
-	 * Implementations should NOT deduplicate — the runner handles that.
-	 * Should NOT throw — return empty array on failure.
-	 */
-	discover(): Promise<DiscoveryCandidate[]>;
-}
-
-// ─── Runner ────────────────────────────────────────────────────────────────────
-
-export interface DiscoveryResult {
-	/** All candidates, deduplicated across all discoverers. */
-	candidates: DiscoveryCandidate[];
-	/** Breakdown by discoverer name. */
-	summary: Record<string, number>;
-}
-
-/**
- * Run multiple discoverers in parallel, deduplicate results by URL,
- * and return a unified list with a per-source summary.
- */
-export async function runDiscovery(discoverers: Discoverer[]): Promise<DiscoveryResult> {
-	const results = await Promise.all(
-		discoverers.map(async (d) => {
-			const label = d.name;
-			try {
-				const candidates = await d.discover();
-				info(`${label}: found ${candidates.length} candidates`);
-				return candidates;
-			} catch (err) {
-				warn(`${label} discovery failed: ${err}`);
-				return [] as DiscoveryCandidate[];
-			}
-		}),
-	);
-
-	// Flatten and deduplicate by URL
-	const seen = new Set<string>();
-	const candidates: DiscoveryCandidate[] = [];
-	const summary: Record<string, number> = {};
-
-	for (let i = 0; i < results.length; i++) {
-		const discoverer = discoverers[i];
-		if (!discoverer) continue;
-		const label = discoverer.name;
-		let count = 0;
-
-		for (const candidate of results[i] ?? []) {
-			if (!seen.has(candidate.url)) {
-				seen.add(candidate.url);
-				candidates.push(candidate);
-				count++;
-			}
-		}
-
-		summary[label] = count;
-	}
-
-	info(`Discovery total: ${candidates.length} unique candidates`);
-	return { candidates, summary };
-}
-
-// ─── Query-based discoverer helper ─────────────────────────────────────────────
-
-/**
- * Factory for the most common pattern: iterate over search terms,
- * fetch results from an API, extract URLs.
+ * Gathers raw candidates from APIs and writes them to `.cache/candidates/`.
+ * No filtering, no dedup, no saving to `data/`.
  *
- * Stops on first auth/config error (403, 401) to avoid hammering.
- * Continues on transient errors for individual queries.
+ * Modes:
+ *   - default:  gather discoveries from APIs → write to staging area
+ *   - offline:  same but only use cached API responses
  */
-export interface QueryDiscovererConfig {
-	/** Human-readable name. */
-	name: string;
-	/** Source tag for candidates. */
-	source: EntrySource;
-	/** Search terms to iterate. */
-	queries: string[];
-	/**
-	 * Fetch candidates for a single query term.
-	 * Return an array of { url, hint?, metadata? } objects.
-	 * Throw to signal a query-level error (will continue).
-	 * Throw with isFatal=true to stop all remaining queries.
-	 */
-	fetchQuery: (
-		query: string,
-	) => Promise<{ url: string; hint?: string; metadata?: Record<string, unknown> }[]>;
-	/**
-	 * Optional: called before any queries. Throw or return false to skip.
-	 * Use for API key checks, feature flags, etc.
-	 */
-	init?: () => Promise<void>;
-	/**
-	 * Optional: inspect a non-OK HTTP response. Return an error message
-	 * string to log and abort, or undefined to skip.
-	 */
-	handleError?: (status: number, body: unknown) => string | undefined;
-}
 
-// ─── Per-query statistics ──────────────────────────────────────────────────────
+import "../core/temporal.ts";
 
-/** Statistics for a single query within a discoverer run. */
-export interface QueryStats {
-	/** The query string. */
-	query: string;
-	/** Number of candidates returned by the API. */
-	fetched: number;
-	/** Number of candidates that passed the relevance filter. */
-	relevant: number;
-	/** Number of candidates that were new (not already in data). */
-	newEntries: number;
-	/** Whether this query hit an error. */
-	error?: string;
-}
+import { existsSync, mkdirSync } from "node:fs";
+import { join } from "node:path";
+import { Cache } from "../core/cache.ts";
+import { createAllSources, routeQueries, type SourceOverrides } from "../sources/index.ts";
+import { runDiscovery } from "./runner.ts";
+import { DiscoveryWriter } from "./writer.ts";
 
-/** Statistics for a full discovery run across all discoverers. */
-export interface DiscoveryStats {
-	/** Per-discoverer, per-query statistics. */
-	byDiscoverer: Record<string, QueryStats[]>;
-}
+const ROOT_DIR = join(import.meta.dir, "..", "..");
+const CACHE_DIR = join(ROOT_DIR, ".cache");
+const CANDIDATES_DIR = join(CACHE_DIR, "candidates");
 
-/** Global stats collector — populated during discover(), read by --stats mode. */
-export const discoveryStats: DiscoveryStats = { byDiscoverer: {} };
-
-export class QueryDiscoverer implements Discoverer {
-	readonly name: string;
-	readonly source: EntrySource;
-	private readonly config: QueryDiscovererConfig;
-
-	constructor(config: QueryDiscovererConfig) {
-		this.name = config.name;
-		this.source = config.source;
-		this.config = config;
-	}
-
-	async discover(): Promise<DiscoveryCandidate[]> {
-		try {
-			if (this.config.init) {
-				await this.config.init();
-			}
-		} catch (err) {
-			warn(`${this.name}: ${err}`);
-			return [];
-		}
-
-		const candidates: DiscoveryCandidate[] = [];
-		const queryStats: QueryStats[] = [];
-
-		for (const query of this.config.queries) {
-			const stats: QueryStats = { query, fetched: 0, relevant: 0, newEntries: 0 };
-
-			try {
-				const results = await this.config.fetchQuery(query);
-				stats.fetched = results.length;
-
-				for (const r of results) {
-					// Early rejection: drop obviously-irrelevant results
-					// (blacklisted URLs, blocked scopes/names) before creating
-					// full candidate objects. Auto-blacklists new rejections.
-					const early = earlyReject({
-						url: r.url,
-						...(r.metadata ? { metadata: r.metadata } : {}),
-					});
-					if (early !== null) continue;
-
-					const candidate: DiscoveryCandidate = {
-						url: r.url,
-						source: this.source,
-					};
-					if (r.hint !== undefined) {
-						candidate.hint = r.hint;
-					}
-					if (r.metadata !== undefined) {
-						candidate.metadata = r.metadata;
-					}
-					candidates.push(candidate);
-				}
-			} catch (err) {
-				const msg = err instanceof Error ? err.message : String(err);
-				warn(`${this.name}: query "${query}" failed: ${msg}`);
-				stats.error = msg;
-
-				// Fatal errors (403, 401, config issues) — stop remaining queries
-				if (msg.includes("[FATAL]")) {
-					queryStats.push(stats);
-					break;
-				}
-			}
-
-			queryStats.push(stats);
-		}
-
-		discoveryStats.byDiscoverer[this.name] = queryStats;
-		return candidates;
+/** Ensure required directories exist before any parallel work starts. */
+function ensureScaffolding(): void {
+	for (const dir of [CACHE_DIR, CANDIDATES_DIR]) {
+		if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
 	}
 }
 
-/**
- * Create a fatal error — signals the QueryDiscoverer to stop processing remaining queries.
- * Use for auth errors, config issues, etc.
- */
-export class FatalDiscoveryError extends Error {
-	constructor(message: string) {
-		super(`[FATAL] ${message}`);
-		this.name = "FatalDiscoveryError";
+// biome-ignore lint/suspicious/noConsole: CLI output
+const log = console.log;
+
+// ─── Options ───────────────────────────────────────────────────────────────────
+
+export interface DiscoverOptions extends SourceOverrides {
+	/** Only use cached API responses (no network calls). */
+	offline?: boolean;
+}
+
+// ─── Command ───────────────────────────────────────────────────────────────────
+
+/** Run the discover command. */
+export async function cmdDiscover(opts: DiscoverOptions = {}): Promise<void> {
+	ensureScaffolding();
+
+	const cache = new Cache({ dir: CACHE_DIR });
+	const writer = new DiscoveryWriter(CANDIDATES_DIR);
+	const sources = createAllSources(cache, opts);
+
+	if (opts.offline) {
+		log("🔌 Offline mode — only using cached API responses");
 	}
+
+	// Gather discoveries (reset repository for a fresh gather)
+	log(`🔍 Running ${sources.length} discovery source(s)...`);
+	const { summary, total } = await runDiscovery(sources, writer, { reset: true });
+
+	const summaryStr = Object.entries(summary)
+		.map(([name, count]) => `${name}: ${count}`)
+		.join(", ");
+	log(`✅ Wrote ${total} discoveries (${summaryStr})`);
+	log(`\nCandidates saved to ${CANDIDATES_DIR}`);
+	log("Run `bun run filter` to filter, then `bun run process` to save entries.");
+}
+
+// ─── CLI entry point ───────────────────────────────────────────────────────────
+
+const args = process.argv.slice(2);
+const offline = args.includes("--offline");
+
+// Collect all --query values (supports multiple: --query "foo" --query "gh:bar")
+const rawQueries: string[] = [];
+for (let i = 0; i < args.length; i++) {
+	if (args[i] === "--query" && i + 1 < args.length && args[i + 1]) {
+		rawQueries.push(args[i + 1] as string);
+	}
+}
+
+const opts: DiscoverOptions = {};
+if (offline) opts.offline = true;
+try {
+	if (rawQueries.length > 0) Object.assign(opts, routeQueries(rawQueries));
+	cmdDiscover(opts);
+} catch (err) {
+	process.stderr.write(`❌ ${err instanceof Error ? err.message : err}\n`);
+	process.exit(1);
 }

@@ -1,0 +1,31 @@
+{
+  "id": "raunovillberg-pi-stuffed",
+  "name": "raunovillberg-pi-stuffed",
+  "url": "https://github.com/raunovillberg/pi-stuffed",
+  "source": "github-search",
+  "description": "Stuff for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/raunovillberg/pi-stuffed",
+    "repo_full_name": "raunovillberg/pi-stuffed",
+    "description": "Stuff for the pi coding agent",
+    "stars": 7,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-01-26T19:37:15Z",
+    "pushed_at": "2026-04-20T16:13:51Z",
+    "updated_at": "2026-04-20T16:14:40Z",
+    "size": 51,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

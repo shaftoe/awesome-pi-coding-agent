@@ -1,0 +1,29 @@
+{
+  "id": "shrwnsan-pi-agent",
+  "name": "shrwnsan-pi-agent",
+  "url": "https://github.com/shrwnsan/pi-agent",
+  "source": "github-search",
+  "description": "There are many coding agents, but this one is mine. My PI agent customizations.",
+  "metadata": {
+    "github_url": "https://github.com/shrwnsan/pi-agent",
+    "repo_full_name": "shrwnsan/pi-agent",
+    "description": "There are many coding agents, but this one is mine. My PI agent customizations.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-14T15:02:46Z",
+    "pushed_at": "2026-04-15T10:15:09Z",
+    "updated_at": "2026-04-15T10:15:12Z",
+    "size": 23,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

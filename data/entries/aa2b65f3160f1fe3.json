@@ -1,0 +1,29 @@
+{
+  "id": "melihmucuk-pi-crew",
+  "name": "melihmucuk-pi-crew",
+  "url": "https://github.com/melihmucuk/pi-crew",
+  "source": "github-search",
+  "description": "Non-blocking subagent orchestration for pi. Spawn isolated agents that work in parallel while your session stays interactive.",
+  "metadata": {
+    "github_url": "https://github.com/melihmucuk/pi-crew",
+    "repo_full_name": "melihmucuk/pi-crew",
+    "description": "Non-blocking subagent orchestration for pi. Spawn isolated agents that work in parallel while your session stays interactive.",
+    "stars": 47,
+    "forks": 3,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-30T13:04:33Z",
+    "pushed_at": "2026-04-24T14:31:36Z",
+    "updated_at": "2026-04-24T14:31:38Z",
+    "size": 7413,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 68,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

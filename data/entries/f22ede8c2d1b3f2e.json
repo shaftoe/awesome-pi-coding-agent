@@ -1,0 +1,29 @@
+{
+  "id": "azs06-my-pi",
+  "name": "azs06-my-pi",
+  "url": "https://github.com/azs06/my-pi",
+  "source": "github-search",
+  "description": "My Personal Claw Using Pi-Agent",
+  "metadata": {
+    "github_url": "https://github.com/azs06/my-pi",
+    "repo_full_name": "azs06/my-pi",
+    "description": "My Personal Claw Using Pi-Agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-07T11:40:21Z",
+    "pushed_at": "2026-04-25T20:43:33Z",
+    "updated_at": "2026-04-25T20:43:36Z",
+    "size": 192,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

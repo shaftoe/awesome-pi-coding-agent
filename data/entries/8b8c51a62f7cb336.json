@@ -1,0 +1,29 @@
+{
+  "id": "sanchezcodes-pi-salesforce-security-benchmark",
+  "name": "sanchezcodes-pi-salesforce-security-benchmark",
+  "url": "https://github.com/sanchezcodes/pi-salesforce-security-benchmark",
+  "source": "github-search",
+  "description": "Pi coding agent package for the Security Benchmark for Salesforce (SBS). Skills, extension, agents, and workflow prompts for 25 security controls across 4 domains.",
+  "metadata": {
+    "github_url": "https://github.com/sanchezcodes/pi-salesforce-security-benchmark",
+    "repo_full_name": "sanchezcodes/pi-salesforce-security-benchmark",
+    "description": "Pi coding agent package for the Security Benchmark for Salesforce (SBS). Skills, extension, agents, and workflow prompts for 25 security controls across 4 domains.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-17T12:45:34Z",
+    "pushed_at": "2026-03-17T13:22:28Z",
+    "updated_at": "2026-03-17T13:22:32Z",
+    "size": 63,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

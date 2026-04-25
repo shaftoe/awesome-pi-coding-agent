@@ -1,0 +1,34 @@
+{
+  "id": "@venthezone/picord",
+  "name": "@venthezone/picord",
+  "url": "https://www.npmjs.com/package/@venthezone/picord",
+  "source": "npm-search",
+  "description": "Discord integration extension for pi that maps project channels to workspaces and threads to native pi sessions.",
+  "metadata": {
+    "github_url": "https://github.com/VenTheZone/picord",
+    "npm_name": "@venthezone/picord",
+    "description": "Discord integration extension for pi that maps project channels to workspaces and threads to native pi sessions.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-mono",
+      "discord",
+      "discord-bot",
+      "typescript"
+    ],
+    "version": "0.2.4",
+    "published_at": "2026-04-24T01:14:10.453Z",
+    "npm_downloads_monthly": 1688,
+    "npm_downloads_weekly": 165,
+    "npm_score_final": 29.54042,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "extension"
+}

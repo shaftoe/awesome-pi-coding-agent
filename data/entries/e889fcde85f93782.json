@@ -1,0 +1,38 @@
+{
+  "id": "pi-venice-stats",
+  "name": "pi-venice-stats",
+  "url": "https://www.npmjs.com/package/pi-venice-stats",
+  "source": "npm-search",
+  "description": "Live Venice Protocol stats dashboard for Pi Coding Agent",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-venice-stats",
+    "description": "Live Venice Protocol stats dashboard for Pi Coding Agent",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-venice",
+      "venice",
+      "venice.ai",
+      "vvv",
+      "diem",
+      "stats"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-04-16T17:47:55.468Z",
+    "npm_downloads_monthly": 751,
+    "npm_downloads_weekly": 167,
+    "npm_score_final": 26.67509,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

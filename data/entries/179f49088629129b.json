@@ -1,0 +1,29 @@
+{
+  "id": "linuswolff-dot-pi",
+  "name": "linuswolff-dot-pi",
+  "url": "https://github.com/linuswolff/dot-pi",
+  "source": "github-search",
+  "description": "Pi coding agent config",
+  "metadata": {
+    "github_url": "https://github.com/linuswolff/dot-pi",
+    "repo_full_name": "linuswolff/dot-pi",
+    "description": "Pi coding agent config",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-07T16:44:17Z",
+    "pushed_at": "2026-02-07T16:44:20Z",
+    "updated_at": "2026-02-07T16:44:24Z",
+    "size": 116,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

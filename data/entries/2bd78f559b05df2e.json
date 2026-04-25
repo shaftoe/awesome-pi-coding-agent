@@ -1,0 +1,40 @@
+{
+  "id": "FoundDream-pi-mono-master",
+  "name": "FoundDream-pi-mono-master",
+  "url": "https://github.com/FoundDream/pi-mono-master",
+  "source": "github-search",
+  "description": "A progressive 8-chapter tutorial for building AI agents from scratch with pi-coding-agent. Covers streaming, tools, sessions, skills & more.",
+  "metadata": {
+    "github_url": "https://github.com/FoundDream/pi-mono-master",
+    "repo_full_name": "FoundDream/pi-mono-master",
+    "description": "A progressive 8-chapter tutorial for building AI agents from scratch with pi-coding-agent. Covers streaming, tools, sessions, skills & more.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "agent-framework",
+      "ai-agent",
+      "ai-tools",
+      "coding-agent",
+      "llm",
+      "pi-coding-agent",
+      "pi-mono",
+      "tutorial",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-21T06:44:39Z",
+    "pushed_at": "2026-03-10T06:29:13Z",
+    "updated_at": "2026-03-10T06:29:16Z",
+    "size": 479,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

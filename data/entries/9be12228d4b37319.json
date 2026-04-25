@@ -1,0 +1,29 @@
+{
+  "id": "pi-claude-boost",
+  "name": "pi-claude-boost",
+  "url": "https://www.npmjs.com/package/pi-claude-boost",
+  "source": "npm-search",
+  "description": "Shows whether Claude's 2x usage boost is active right now, with countdowns in both directions",
+  "metadata": {
+    "github_url": "https://github.com/jjar1/pi-claude-boost",
+    "npm_name": "pi-claude-boost",
+    "description": "Shows whether Claude's 2x usage boost is active right now, with countdowns in both directions",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-03-17T21:32:28.342Z",
+    "npm_downloads_monthly": 76,
+    "npm_downloads_weekly": 14,
+    "npm_score_final": 16.477354,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

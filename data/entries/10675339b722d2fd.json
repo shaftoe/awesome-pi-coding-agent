@@ -1,0 +1,29 @@
+{
+  "id": "eleqtrizit-pi-autohooks",
+  "name": "eleqtrizit-pi-autohooks",
+  "url": "https://github.com/eleqtrizit/pi-autohooks",
+  "source": "github-search",
+  "description": "Hooks for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/eleqtrizit/pi-autohooks",
+    "repo_full_name": "eleqtrizit/pi-autohooks",
+    "description": "Hooks for Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-18T15:06:06Z",
+    "pushed_at": "2026-03-27T20:29:01Z",
+    "updated_at": "2026-03-27T20:29:04Z",
+    "size": 78,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

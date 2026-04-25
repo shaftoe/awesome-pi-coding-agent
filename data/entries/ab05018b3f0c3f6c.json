@@ -1,0 +1,29 @@
+{
+  "id": "rainmeter33-jpg-pi-tterhashlineedit",
+  "name": "rainmeter33-jpg-pi-tterhashlineedit",
+  "url": "https://github.com/rainmeter33-jpg/pi-tterhashlineedit",
+  "source": "github-search",
+  "description": "Hashline read/edit tool override for pi-coding-agent — 7-stage pipeline with dual anchors + indentation validation",
+  "metadata": {
+    "github_url": "https://github.com/rainmeter33-jpg/pi-tterhashlineedit",
+    "repo_full_name": "rainmeter33-jpg/pi-tterhashlineedit",
+    "description": "Hashline read/edit tool override for pi-coding-agent — 7-stage pipeline with dual anchors + indentation validation",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-05T19:41:53Z",
+    "pushed_at": "2026-04-06T06:41:16Z",
+    "updated_at": "2026-04-06T06:41:22Z",
+    "size": 114,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

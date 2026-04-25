@@ -1,0 +1,43 @@
+{
+  "id": "ameno-cyberdyne",
+  "name": "ameno-cyberdyne",
+  "url": "https://www.npmjs.com/package/ameno-cyberdyne",
+  "source": "npm-search",
+  "description": "A high-contrast cyberpunk Pi theme inspired by synthwave aesthetics - electric cyan, hot pink, acid green, and golden amber",
+  "metadata": {
+    "github_url": "https://github.com/ameno-/ameno-cyberdyne",
+    "npm_name": "ameno-cyberdyne",
+    "description": "A high-contrast cyberpunk Pi theme inspired by synthwave aesthetics - electric cyan, hot pink, acid green, and golden amber",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-coding-agent-theme",
+      "pi-theme",
+      "coding-agent",
+      "ai-theme",
+      "cyberpunk",
+      "synthwave",
+      "neon",
+      "dark-theme",
+      "terminal-theme",
+      "terminal-colors",
+      "tui-theme",
+      "cli",
+      "cli-theme"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-02-01T23:19:24.150Z",
+    "npm_downloads_monthly": 29,
+    "npm_downloads_weekly": 12,
+    "npm_score_final": 20.07739,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-theme"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "theme"
+}

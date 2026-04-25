@@ -1,0 +1,29 @@
+{
+  "id": "az9713-pi-vs-claude-code",
+  "name": "az9713-pi-vs-claude-code",
+  "url": "https://github.com/az9713/pi-vs-claude-code",
+  "source": "github-search",
+  "description": "Clone of disler/pi-vs-claude-code — Pi Coding Agent extension playground enhanced with extensive documentation (architecture guide, developer guide, quick start, zero-to-hero study plan)",
+  "metadata": {
+    "github_url": "https://github.com/az9713/pi-vs-claude-code",
+    "repo_full_name": "az9713/pi-vs-claude-code",
+    "description": "Clone of disler/pi-vs-claude-code — Pi Coding Agent extension playground enhanced with extensive documentation (architecture guide, developer guide, quick start, zero-to-hero study plan)",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-24T20:41:42Z",
+    "pushed_at": "2026-02-25T06:21:35Z",
+    "updated_at": "2026-02-25T06:21:40Z",
+    "size": 1648,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 51,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

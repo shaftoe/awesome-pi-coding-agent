@@ -1,0 +1,33 @@
+{
+  "id": "@grwnd/pi-governance",
+  "name": "@grwnd/pi-governance",
+  "url": "https://www.npmjs.com/package/@grwnd/pi-governance",
+  "source": "npm-search",
+  "description": "Governance, RBAC, audit, and HITL for Pi-based coding agents",
+  "metadata": {
+    "github_url": "https://github.com/dtmirizzi/pi-governance",
+    "npm_name": "@grwnd/pi-governance",
+    "description": "Governance, RBAC, audit, and HITL for Pi-based coding agents",
+    "keywords": [
+      "pi-package",
+      "governance",
+      "rbac",
+      "audit",
+      "hitl"
+    ],
+    "version": "3.1.1",
+    "published_at": "2026-04-01T20:27:41.867Z",
+    "npm_downloads_monthly": 738,
+    "npm_downloads_weekly": 17,
+    "npm_score_final": 25.841251,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

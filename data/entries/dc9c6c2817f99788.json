@@ -1,0 +1,33 @@
+{
+  "id": "@outlit/pi",
+  "name": "@outlit/pi",
+  "url": "https://www.npmjs.com/package/@outlit/pi",
+  "source": "npm-search",
+  "description": "Pi package for Outlit customer intelligence tools",
+  "metadata": {
+    "github_url": "https://github.com/OutlitAI/outlit-sdk",
+    "npm_name": "@outlit/pi",
+    "description": "Pi package for Outlit customer intelligence tools",
+    "keywords": [
+      "outlit",
+      "pi",
+      "pi-package",
+      "agents",
+      "customer-intelligence"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-04-26T19:26:35.667Z",
+    "npm_downloads_monthly": 1352,
+    "npm_downloads_weekly": 381,
+    "npm_score_final": 29.205616,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "extension"
+}

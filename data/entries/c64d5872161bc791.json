@@ -1,0 +1,36 @@
+{
+  "id": "vegardx-pi-ext-review",
+  "name": "vegardx-pi-ext-review",
+  "url": "https://github.com/vegardx/pi-ext-review",
+  "source": "github-search",
+  "description": "pi.dev extension: multi-agent code review — seven specialist reviewers in parallel with dedupe and interactive walk-through",
+  "metadata": {
+    "github_url": "https://github.com/vegardx/pi-ext-review",
+    "repo_full_name": "vegardx/pi-ext-review",
+    "description": "pi.dev extension: multi-agent code review — seven specialist reviewers in parallel with dedupe and interactive walk-through",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "code-review",
+      "multi-agent",
+      "pi-dev",
+      "pi-extension",
+      "security",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-24T06:03:43Z",
+    "pushed_at": "2026-04-24T08:28:00Z",
+    "updated_at": "2026-04-24T08:25:09Z",
+    "size": 219,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

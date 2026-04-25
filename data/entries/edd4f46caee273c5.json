@@ -1,0 +1,41 @@
+{
+  "id": "@heyhuynhgiabuu/pi-search",
+  "name": "@heyhuynhgiabuu/pi-search",
+  "url": "https://www.npmjs.com/package/@heyhuynhgiabuu/pi-search",
+  "source": "npm-search",
+  "description": "Unified search toolkit for pi — web search, code search, docs lookup, and GitHub code search in one extension.",
+  "metadata": {
+    "github_url": "https://github.com/buddingnewinsights/pi-search",
+    "npm_name": "@heyhuynhgiabuu/pi-search",
+    "description": "Unified search toolkit for pi — web search, code search, docs lookup, and GitHub code search in one extension.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "search",
+      "web-search",
+      "code-search",
+      "documentation",
+      "context7",
+      "exa",
+      "grepapp",
+      "grepsearch",
+      "websearch",
+      "codesearch"
+    ],
+    "version": "0.2.2",
+    "published_at": "2026-04-20T07:53:01.056Z",
+    "npm_downloads_monthly": 376,
+    "npm_downloads_weekly": 376,
+    "npm_score_final": 23.28472,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

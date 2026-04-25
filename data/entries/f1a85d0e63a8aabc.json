@@ -1,0 +1,29 @@
+{
+  "id": "espennilsen-pi-webserver",
+  "name": "espennilsen-pi-webserver",
+  "url": "https://github.com/espennilsen/pi-webserver",
+  "source": "github-search",
+  "description": "Shared HTTP server extension for pi coding agents. One port, one dashboard, shared auth — other extensions mount routes via API or event bus.",
+  "metadata": {
+    "github_url": "https://github.com/espennilsen/pi-webserver",
+    "repo_full_name": "espennilsen/pi-webserver",
+    "description": "Shared HTTP server extension for pi coding agents. One port, one dashboard, shared auth — other extensions mount routes via API or event bus.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-11T10:02:54Z",
+    "pushed_at": "2026-02-11T17:15:58Z",
+    "updated_at": "2026-02-25T14:51:06Z",
+    "size": 36,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

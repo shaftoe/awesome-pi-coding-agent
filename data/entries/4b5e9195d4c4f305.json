@@ -1,0 +1,37 @@
+{
+  "id": "@fancyrobot/agent-vault",
+  "name": "@fancyrobot/agent-vault",
+  "url": "https://www.npmjs.com/package/@fancyrobot/agent-vault",
+  "source": "npm-search",
+  "description": "Durable project memory for coding agents. Obsidian-compatible vault with MCP server, pi package, and slash commands for Claude Code, OpenCode, and Codex.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@fancyrobot/agent-vault",
+    "description": "Durable project memory for coding agents. Obsidian-compatible vault with MCP server, pi package, and slash commands for Claude Code, OpenCode, and Codex.",
+    "keywords": [
+      "pi-package",
+      "agent",
+      "vault",
+      "mcp",
+      "obsidian",
+      "claude-code",
+      "opencode",
+      "codex",
+      "project-memory"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-04-20T03:37:14.455Z",
+    "npm_downloads_monthly": 436,
+    "npm_downloads_weekly": 21,
+    "npm_score_final": 24.238066,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

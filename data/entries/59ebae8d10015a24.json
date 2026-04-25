@@ -1,0 +1,40 @@
+{
+  "id": "pi-secret-guard",
+  "name": "pi-secret-guard",
+  "url": "https://www.npmjs.com/package/pi-secret-guard",
+  "source": "npm-search",
+  "description": "A pi extension that guards against committing secrets, API keys, and credentials to git repositories using hybrid regex + LLM review.",
+  "metadata": {
+    "github_url": "https://github.com/acarerdinc/pi-secret-guard",
+    "npm_name": "pi-secret-guard",
+    "description": "A pi extension that guards against committing secrets, API keys, and credentials to git repositories using hybrid regex + LLM review.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "git",
+      "github",
+      "secret-scanning",
+      "secret-detection",
+      "api-key",
+      "security",
+      "pre-commit",
+      "devops",
+      "security-tools"
+    ],
+    "version": "1.2.15",
+    "published_at": "2026-03-28T12:00:53.480Z",
+    "npm_downloads_monthly": 2028,
+    "npm_downloads_weekly": 81,
+    "npm_score_final": 30.14239,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "extension"
+}

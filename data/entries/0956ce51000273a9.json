@@ -1,0 +1,29 @@
+{
+  "id": "@thesethrose/pi-zai-provider",
+  "name": "@thesethrose/pi-zai-provider",
+  "url": "https://www.npmjs.com/package/@thesethrose/pi-zai-provider",
+  "source": "npm-search",
+  "description": "Z.AI (GLM models) provider extension for pi coding agent with API key authentication",
+  "metadata": {
+    "github_url": "https://github.com/TheSethRose/pi-zai-provider",
+    "npm_name": "@thesethrose/pi-zai-provider",
+    "description": "Z.AI (GLM models) provider extension for pi coding agent with API key authentication",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-03-31T18:02:10.224Z",
+    "npm_downloads_monthly": 153,
+    "npm_downloads_weekly": 29,
+    "npm_score_final": 19.112787,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

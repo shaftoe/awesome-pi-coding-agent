@@ -1,0 +1,29 @@
+{
+  "id": "hscheema1979-pi-agent-teams",
+  "name": "hscheema1979-pi-agent-teams",
+  "url": "https://github.com/hscheema1979/pi-agent-teams",
+  "source": "github-search",
+  "description": "Multi-agent orchestration for pi: parallel code reviews, hypothesis-driven debugging, and coordinated feature development",
+  "metadata": {
+    "github_url": "https://github.com/hscheema1979/pi-agent-teams",
+    "repo_full_name": "hscheema1979/pi-agent-teams",
+    "description": "Multi-agent orchestration for pi: parallel code reviews, hypothesis-driven debugging, and coordinated feature development",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-25T16:51:16Z",
+    "pushed_at": "2026-02-25T18:08:04Z",
+    "updated_at": "2026-02-25T18:08:08Z",
+    "size": 138,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

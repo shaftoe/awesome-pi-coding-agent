@@ -1,0 +1,29 @@
+{
+  "id": "bitmonk8-pi-config",
+  "name": "bitmonk8-pi-config",
+  "url": "https://github.com/bitmonk8/pi-config",
+  "source": "github-search",
+  "description": "Personal pi coding agent configuration",
+  "metadata": {
+    "github_url": "https://github.com/bitmonk8/pi-config",
+    "repo_full_name": "bitmonk8/pi-config",
+    "description": "Personal pi coding agent configuration",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-11T14:32:47Z",
+    "pushed_at": "2026-04-24T09:18:30Z",
+    "updated_at": "2026-04-24T09:18:33Z",
+    "size": 152,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

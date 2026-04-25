@@ -1,0 +1,34 @@
+{
+  "id": "egornomic-pi-session-auto-rename",
+  "name": "egornomic-pi-session-auto-rename",
+  "url": "https://github.com/egornomic/pi-session-auto-rename",
+  "source": "github-search",
+  "description": "Pi extension to rename sessions automatically using ai.",
+  "metadata": {
+    "github_url": "https://github.com/egornomic/pi-session-auto-rename",
+    "repo_full_name": "egornomic/pi-session-auto-rename",
+    "description": "Pi extension to rename sessions automatically using ai.",
+    "stars": 2,
+    "forks": 3,
+    "open_issues": 3,
+    "topics": [
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-27T20:48:36Z",
+    "pushed_at": "2026-03-04T18:29:39Z",
+    "updated_at": "2026-03-08T19:26:28Z",
+    "size": 14,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

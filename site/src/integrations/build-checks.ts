@@ -39,7 +39,7 @@ export function buildChecks(): AstroIntegration {
 					}
 				}
 
-				// 2. At least extensions page must exist and contain entries
+				// 2. Extensions page must exist and contain entries
 				const extPath = join(distDir, "extensions", "index.html");
 				if (!existsSync(extPath)) {
 					errors.push("extensions/index.html not found in build output");
@@ -50,7 +50,13 @@ export function buildChecks(): AstroIntegration {
 					}
 				}
 
-				// 3. Search index must exist and have entries
+				// 3. Misc page must exist (new category route)
+				const miscPath = join(distDir, "misc", "index.html");
+				if (!existsSync(miscPath)) {
+					errors.push("misc/index.html not found in build output — new 4-category route missing");
+				}
+
+				// 4. Search index must exist and have entries
 				const searchPath = join(distDir, "search-index.json");
 				if (!existsSync(searchPath)) {
 					errors.push("search-index.json not found in build output");
@@ -58,6 +64,16 @@ export function buildChecks(): AstroIntegration {
 					const searchData = JSON.parse(readFileSync(searchPath, "utf-8")) as unknown[];
 					if (searchData.length < 100) {
 						errors.push(`search-index.json: only ${searchData.length} entries — expected >100`);
+					}
+				}
+
+				// 5. Old category routes should NOT exist
+				for (const oldRoute of ["tools", "providers", "templates"]) {
+					const oldPath = join(distDir, oldRoute, "index.html");
+					if (existsSync(oldPath)) {
+						errors.push(
+							`${oldRoute}/index.html exists — old category route should not be generated`,
+						);
 					}
 				}
 

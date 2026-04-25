@@ -1,0 +1,29 @@
+{
+  "id": "R0B0WARRI0R-mcp-to-pi-extension",
+  "name": "R0B0WARRI0R-mcp-to-pi-extension",
+  "url": "https://github.com/R0B0WARRI0R/mcp-to-pi-extension",
+  "source": "github-search",
+  "description": "Convert MCP servers into Pi Coding Agent extensions",
+  "metadata": {
+    "github_url": "https://github.com/R0B0WARRI0R/mcp-to-pi-extension",
+    "repo_full_name": "R0B0WARRI0R/mcp-to-pi-extension",
+    "description": "Convert MCP servers into Pi Coding Agent extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-17T21:33:00Z",
+    "pushed_at": "2026-04-17T21:33:03Z",
+    "updated_at": "2026-04-17T21:33:07Z",
+    "size": 17,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "monochromatti-pi-extensions",
+  "name": "monochromatti-pi-extensions",
+  "url": "https://github.com/monochromatti/pi-extensions",
+  "source": "github-search",
+  "description": "Extensions for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/monochromatti/pi-extensions",
+    "repo_full_name": "monochromatti/pi-extensions",
+    "description": "Extensions for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-13T05:16:37Z",
+    "pushed_at": "2026-04-15T11:22:48Z",
+    "updated_at": "2026-04-15T11:22:51Z",
+    "size": 63,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

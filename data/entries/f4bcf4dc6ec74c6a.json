@@ -1,0 +1,41 @@
+{
+  "id": "@howaboua/pi-markdown-workflows",
+  "name": "@howaboua/pi-markdown-workflows",
+  "url": "https://www.npmjs.com/package/@howaboua/pi-markdown-workflows",
+  "source": "npm-search",
+  "description": "Pi extension with workflows tools and embedded subdirectory AGENTS.md context loading",
+  "metadata": {
+    "github_url": "https://github.com/IgorWarzocha/pi-markdown-workflows",
+    "npm_name": "@howaboua/pi-markdown-workflows",
+    "description": "Pi extension with workflows tools and embedded subdirectory AGENTS.md context loading",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "pi-extension",
+      "pi-package",
+      "agents",
+      "agents-md",
+      "skills",
+      "workflows",
+      "markdown",
+      "sop",
+      "subdir-context",
+      "automation"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-03-22T13:08:41.768Z",
+    "npm_downloads_monthly": 21,
+    "npm_downloads_weekly": 4,
+    "npm_score_final": 10.849315,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

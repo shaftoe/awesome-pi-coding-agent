@@ -1,0 +1,29 @@
+{
+  "id": "qihaiyan-pi-agent",
+  "name": "qihaiyan-pi-agent",
+  "url": "https://github.com/qihaiyan/pi-agent",
+  "source": "github-search",
+  "description": "Simple agent built with pi-mono",
+  "metadata": {
+    "github_url": "https://github.com/qihaiyan/pi-agent",
+    "repo_full_name": "qihaiyan/pi-agent",
+    "description": "Simple agent built with pi-mono",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-04T07:50:29Z",
+    "pushed_at": "2026-04-22T03:41:14Z",
+    "updated_at": "2026-04-22T03:41:18Z",
+    "size": 132,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

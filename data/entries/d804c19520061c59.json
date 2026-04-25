@@ -1,0 +1,29 @@
+{
+  "id": "ky2renzz-pi-yggdrasil",
+  "name": "ky2renzz-pi-yggdrasil",
+  "url": "https://github.com/ky2renzz/pi-yggdrasil",
+  "source": "github-search",
+  "description": "Multi-repo workspace extension for Pi coding agent - manage multiple repositories as a single workspace",
+  "metadata": {
+    "github_url": "https://github.com/ky2renzz/pi-yggdrasil",
+    "repo_full_name": "ky2renzz/pi-yggdrasil",
+    "description": "Multi-repo workspace extension for Pi coding agent - manage multiple repositories as a single workspace",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-26T13:11:20Z",
+    "pushed_at": "2026-04-26T13:22:41Z",
+    "updated_at": "2026-04-26T13:30:12Z",
+    "size": 5,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

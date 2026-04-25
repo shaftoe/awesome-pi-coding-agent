@@ -1,0 +1,29 @@
+{
+  "id": "aprajnaparamita-dara-pi-agent-theme",
+  "name": "aprajnaparamita-dara-pi-agent-theme",
+  "url": "https://github.com/aprajnaparamita/dara-pi-agent-theme",
+  "source": "github-search",
+  "description": "Cyberpunk lady hacker inspired theme and extensions for pi coding agent https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/aprajnaparamita/dara-pi-agent-theme",
+    "repo_full_name": "aprajnaparamita/dara-pi-agent-theme",
+    "description": "Cyberpunk lady hacker inspired theme and extensions for pi coding agent https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-26T18:25:14Z",
+    "pushed_at": "2026-03-01T17:24:41Z",
+    "updated_at": "2026-03-01T17:24:44Z",
+    "size": 2258,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 51,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

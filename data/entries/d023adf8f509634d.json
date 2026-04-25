@@ -1,0 +1,29 @@
+{
+  "id": "coctostan-pi-lcm",
+  "name": "coctostan-pi-lcm",
+  "url": "https://github.com/coctostan/pi-lcm",
+  "source": "github-search",
+  "description": "Pi LCM - Large Context Management extension for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/coctostan/pi-lcm",
+    "repo_full_name": "coctostan/pi-lcm",
+    "description": "Pi LCM - Large Context Management extension for pi coding agent",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-03T03:59:54Z",
+    "pushed_at": "2026-03-21T17:43:06Z",
+    "updated_at": "2026-03-21T17:43:09Z",
+    "size": 601,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

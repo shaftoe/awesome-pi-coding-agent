@@ -1,0 +1,29 @@
+{
+  "id": "gregmercer-pi-agent-examples",
+  "name": "gregmercer-pi-agent-examples",
+  "url": "https://github.com/gregmercer/pi-agent-examples",
+  "source": "github-search",
+  "description": "Examples from [How to Build a Custom Agent Framework](https://nader.substack.com/p/how-to-build-a-custom-agent-framework).  Built with the `@mariozechner/pi-ai` and `@mariozechner/pi-agent-core` libraries.",
+  "metadata": {
+    "github_url": "https://github.com/gregmercer/pi-agent-examples",
+    "repo_full_name": "gregmercer/pi-agent-examples",
+    "description": "Examples from [How to Build a Custom Agent Framework](https://nader.substack.com/p/how-to-build-a-custom-agent-framework).  Built with the `@mariozechner/pi-ai` and `@mariozechner/pi-agent-core` libraries.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-26T15:38:14Z",
+    "pushed_at": "2026-03-26T15:47:32Z",
+    "updated_at": "2026-03-26T15:48:30Z",
+    "size": 38,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

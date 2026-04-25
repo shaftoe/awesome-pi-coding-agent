@@ -1,0 +1,29 @@
+{
+  "id": "pi-safety-path-protection",
+  "name": "pi-safety-path-protection",
+  "url": "https://www.npmjs.com/package/pi-safety-path-protection",
+  "source": "npm-search",
+  "description": "Protects sensitive paths (.env files, .git internals, node_modules, SSH keys) from unauthorized reads and writes across all tools — read, write, edit, and bash.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-safety-path-protection",
+    "description": "Protects sensitive paths (.env files, .git internals, node_modules, SSH keys) from unauthorized reads and writes across all tools — read, write, edit, and bash.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-03-13T15:58:06.343Z",
+    "npm_downloads_monthly": 25,
+    "npm_downloads_weekly": 4,
+    "npm_score_final": 11.705942,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

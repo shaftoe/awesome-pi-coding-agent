@@ -1,0 +1,29 @@
+{
+  "id": "lucaspressi-pikit-engineer",
+  "name": "lucaspressi-pikit-engineer",
+  "url": "https://github.com/lucaspressi/pikit-engineer",
+  "source": "github-search",
+  "description": "🛠️ Engineering orchestration pack for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/lucaspressi/pikit-engineer",
+    "repo_full_name": "lucaspressi/pikit-engineer",
+    "description": "🛠️ Engineering orchestration pack for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-19T16:53:43Z",
+    "pushed_at": "2026-02-19T16:58:14Z",
+    "updated_at": "2026-02-19T16:58:18Z",
+    "size": 22,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

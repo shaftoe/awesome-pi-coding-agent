@@ -1,0 +1,33 @@
+{
+  "id": "pi-agent-mode",
+  "name": "pi-agent-mode",
+  "url": "https://www.npmjs.com/package/pi-agent-mode",
+  "source": "npm-search",
+  "description": "OpenCode-style default agent mode for PI. Markdown agents with YAML frontmatter. Ctrl+Shift+M to cycle, Alt+S to search. Inline execution with full streaming visibility.",
+  "metadata": {
+    "github_url": "https://github.com/ZGltYQ/agent-mode",
+    "npm_name": "pi-agent-mode",
+    "description": "OpenCode-style default agent mode for PI. Markdown agents with YAML frontmatter. Ctrl+Shift+M to cycle, Alt+S to search. Inline execution with full streaming visibility.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "agent-mode",
+      "opencode"
+    ],
+    "version": "1.2.6",
+    "published_at": "2026-04-24T09:40:24.218Z",
+    "npm_downloads_monthly": 382,
+    "npm_downloads_weekly": 382,
+    "npm_score_final": 23.354675,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

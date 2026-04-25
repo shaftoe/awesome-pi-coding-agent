@@ -1,0 +1,29 @@
+{
+  "id": "johnochinero-pillarz-agent",
+  "name": "johnochinero-pillarz-agent",
+  "url": "https://github.com/johnochinero/pillarz-agent",
+  "source": "github-search",
+  "description": "Agent for PILLARZ site",
+  "metadata": {
+    "github_url": "https://github.com/johnochinero/pillarz-agent",
+    "repo_full_name": "johnochinero/pillarz-agent",
+    "description": "Agent for PILLARZ site",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2025-10-06T13:17:38Z",
+    "pushed_at": "2025-10-17T10:03:08Z",
+    "updated_at": "2025-10-17T10:03:12Z",
+    "size": 27,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 23,
+    "level": "stale"
+  },
+  "category": "misc"
+}

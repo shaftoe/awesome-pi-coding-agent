@@ -1,0 +1,32 @@
+{
+  "id": "@aliou/pi-processes",
+  "name": "@aliou/pi-processes",
+  "url": "https://www.npmjs.com/package/@aliou/pi-processes",
+  "source": "npm-search",
+  "description": "![banner](https://assets.aliou.me/pi-extensions/banners/pi-processes.png)",
+  "metadata": {
+    "github_url": "https://github.com/aliou/pi-processes",
+    "npm_name": "@aliou/pi-processes",
+    "description": "![banner](https://assets.aliou.me/pi-extensions/banners/pi-processes.png)",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "processes"
+    ],
+    "version": "0.8.1",
+    "published_at": "2026-04-23T14:24:48.492Z",
+    "npm_downloads_monthly": 7604,
+    "npm_downloads_weekly": 1895,
+    "npm_score_final": 37.07644,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "extension"
+}

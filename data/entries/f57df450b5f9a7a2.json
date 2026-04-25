@@ -1,0 +1,29 @@
+{
+  "id": "Albertobelleiro-wave-orchestrator",
+  "name": "Albertobelleiro-wave-orchestrator",
+  "url": "https://github.com/Albertobelleiro/wave-orchestrator",
+  "source": "github-search",
+  "description": "Dynamic multi-agent orchestrator skill for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Albertobelleiro/wave-orchestrator",
+    "repo_full_name": "Albertobelleiro/wave-orchestrator",
+    "description": "Dynamic multi-agent orchestrator skill for Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-21T21:12:02Z",
+    "pushed_at": "2026-03-21T23:05:59Z",
+    "updated_at": "2026-03-21T23:06:03Z",
+    "size": 23,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "@sinamtz/pi-mlx-provider",
+  "name": "@sinamtz/pi-mlx-provider",
+  "url": "https://www.npmjs.com/package/@sinamtz/pi-mlx-provider",
+  "source": "npm-search",
+  "description": "Pi coding agent provider for MLX local AI models on Apple Silicon",
+  "metadata": {
+    "github_url": "https://github.com/sinamtz/pi-mlx-provider",
+    "npm_name": "@sinamtz/pi-mlx-provider",
+    "description": "Pi coding agent provider for MLX local AI models on Apple Silicon",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-agent",
+      "pi-provider",
+      "mlx",
+      "mlx-vlm",
+      "apple-silicon",
+      "local-ai",
+      "llm",
+      "inference",
+      "gemma",
+      "llama"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-04-24T08:12:23.886Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "misc"
+}

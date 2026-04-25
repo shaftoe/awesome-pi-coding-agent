@@ -1,0 +1,47 @@
+{
+  "id": "supporthoseupstage565-pi-session-summary",
+  "name": "supporthoseupstage565-pi-session-summary",
+  "url": "https://github.com/supporthoseupstage565/pi-session-summary",
+  "source": "github-search",
+  "description": "Track and update one-line LLM session summaries for pi, so your status bar and /resume list show clear context fast",
+  "metadata": {
+    "github_url": "https://github.com/supporthoseupstage565/pi-session-summary",
+    "repo_full_name": "supporthoseupstage565/pi-session-summary",
+    "description": "Track and update one-line LLM session summaries for pi, so your status bar and /resume list show clear context fast",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "addon",
+      "agent",
+      "agents",
+      "ai-agents",
+      "coding-agent",
+      "extention",
+      "harness",
+      "llm",
+      "multi-agent",
+      "orchestrator",
+      "pi",
+      "pi-extension",
+      "pi-extensions",
+      "pi-package",
+      "team",
+      "teams",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-22T04:51:58Z",
+    "pushed_at": "2026-04-26T22:22:06Z",
+    "updated_at": "2026-04-26T22:22:09Z",
+    "size": 1023,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

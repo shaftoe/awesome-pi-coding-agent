@@ -1,0 +1,29 @@
+{
+  "id": "y0usaf-pi-multi-agent",
+  "name": "y0usaf-pi-multi-agent",
+  "url": "https://github.com/y0usaf/pi-multi-agent",
+  "source": "github-search",
+  "description": "Multi-agent orchestration extension for pi",
+  "metadata": {
+    "github_url": "https://github.com/y0usaf/pi-multi-agent",
+    "repo_full_name": "y0usaf/pi-multi-agent",
+    "description": "Multi-agent orchestration extension for pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-08T23:47:24Z",
+    "pushed_at": "2026-04-09T14:07:54Z",
+    "updated_at": "2026-04-09T14:12:41Z",
+    "size": 39,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

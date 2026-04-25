@@ -1,0 +1,33 @@
+{
+  "id": "pi-boundary",
+  "name": "pi-boundary",
+  "url": "https://www.npmjs.com/package/pi-boundary",
+  "source": "npm-search",
+  "description": "Filesystem boundary enforcement for pi — prompts before the agent escapes your project",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-boundary",
+    "description": "Filesystem boundary enforcement for pi — prompts before the agent escapes your project",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "sandbox",
+      "filesystem",
+      "permissions"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-03-18T21:20:39.821Z",
+    "npm_downloads_monthly": 45,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 13.795688,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

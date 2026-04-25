@@ -1,0 +1,29 @@
+{
+  "id": "abishalom-pi-agent-stuff",
+  "name": "abishalom-pi-agent-stuff",
+  "url": "https://github.com/abishalom/pi-agent-stuff",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/abishalom/pi-agent-stuff",
+    "repo_full_name": "abishalom/pi-agent-stuff",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-17T03:21:12Z",
+    "pushed_at": "2026-04-23T17:09:36Z",
+    "updated_at": "2026-04-20T15:37:34Z",
+    "size": 163,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

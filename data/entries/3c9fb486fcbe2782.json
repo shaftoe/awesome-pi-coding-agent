@@ -1,0 +1,36 @@
+{
+  "id": "pi-scheduled-tasks",
+  "name": "pi-scheduled-tasks",
+  "url": "https://www.npmjs.com/package/pi-scheduled-tasks",
+  "source": "npm-search",
+  "description": "A pi extension for scheduled prompts, recurring checks, and prompt-executable slash commands",
+  "metadata": {
+    "github_url": "https://github.com/errfld/pi-scheduled-tasks",
+    "npm_name": "pi-scheduled-tasks",
+    "description": "A pi extension for scheduled prompts, recurring checks, and prompt-executable slash commands",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "scheduler",
+      "scheduled-tasks",
+      "automation",
+      "cron",
+      "reminders"
+    ],
+    "version": "0.0.3",
+    "published_at": "2026-04-11T21:07:37.683Z",
+    "npm_downloads_monthly": 288,
+    "npm_downloads_weekly": 12,
+    "npm_score_final": 22.107485,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

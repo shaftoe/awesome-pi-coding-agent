@@ -1,0 +1,29 @@
+{
+  "id": "SebasAren-SebbaFlow",
+  "name": "SebasAren-SebbaFlow",
+  "url": "https://github.com/SebasAren/SebbaFlow",
+  "source": "github-search",
+  "description": "AI-augmented development environment, GNU Stow configs, 20+ Pi agent extensions, Neovim,  tmux, and a custom toolchain for Linux workstations.",
+  "metadata": {
+    "github_url": "https://github.com/SebasAren/SebbaFlow",
+    "repo_full_name": "SebasAren/SebbaFlow",
+    "description": "AI-augmented development environment, GNU Stow configs, 20+ Pi agent extensions, Neovim,  tmux, and a custom toolchain for Linux workstations.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2022-06-07T21:48:50Z",
+    "pushed_at": "2026-04-26T23:03:13Z",
+    "updated_at": "2026-04-26T23:03:17Z",
+    "size": 2121,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 70,
+    "level": "active"
+  },
+  "category": "extension"
+}

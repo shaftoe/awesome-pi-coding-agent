@@ -1,0 +1,29 @@
+{
+  "id": "safzanpirani-pi-config",
+  "name": "safzanpirani-pi-config",
+  "url": "https://github.com/safzanpirani/pi-config",
+  "source": "github-search",
+  "description": "Pi coding agent config with multi-account Antigravity extension",
+  "metadata": {
+    "github_url": "https://github.com/safzanpirani/pi-config",
+    "repo_full_name": "safzanpirani/pi-config",
+    "description": "Pi coding agent config with multi-account Antigravity extension",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-01T09:57:07Z",
+    "pushed_at": "2026-03-19T19:38:40Z",
+    "updated_at": "2026-03-19T19:38:44Z",
+    "size": 76,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

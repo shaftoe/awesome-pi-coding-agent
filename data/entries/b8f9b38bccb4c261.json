@@ -1,0 +1,29 @@
+{
+  "id": "iapicca-pi_agents",
+  "name": "iapicca-pi_agents",
+  "url": "https://github.com/iapicca/pi_agents",
+  "source": "github-search",
+  "description": "a collection of agents for pi",
+  "metadata": {
+    "github_url": "https://github.com/iapicca/pi_agents",
+    "repo_full_name": "iapicca/pi_agents",
+    "description": "a collection of agents for pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-20T14:20:12Z",
+    "pushed_at": "2026-04-24T17:10:13Z",
+    "updated_at": "2026-04-24T17:10:14Z",
+    "size": 179,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "misc"
+}
