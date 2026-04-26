@@ -1,0 +1,36 @@
+{
+	"id": "pi-claude-sandbox",
+	"name": "pi-claude-sandbox",
+	"url": "https://www.npmjs.com/package/pi-claude-sandbox",
+	"source": "npm-search",
+	"description": "Claude-style OS-level sandboxing for pi with interactive permission prompts. Coexists with pi-tool-display and other bash-overriding extensions. Forked from carderne/pi-sandbox.",
+	"metadata": {
+		"github_url": "https://github.com/tuansondinh/pi-claude-sandbox",
+		"npm_name": "pi-claude-sandbox",
+		"description": "Claude-style OS-level sandboxing for pi with interactive permission prompts. Coexists with pi-tool-display and other bash-overriding extensions. Forked from carderne/pi-sandbox.",
+		"keywords": ["pi-package", "pi-extension", "sandbox", "claude"],
+		"version": "0.6.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T09:25:19Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 11,
+			"tool": 44,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

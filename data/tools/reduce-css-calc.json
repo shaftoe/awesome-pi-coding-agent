@@ -1,0 +1,36 @@
+{
+	"id": "reduce-css-calc",
+	"name": "reduce-css-calc",
+	"url": "https://www.npmjs.com/package/reduce-css-calc",
+	"source": "npm-search",
+	"description": "Reduce CSS calc() function to the maximum",
+	"metadata": {
+		"github_url": "https://github.com/MoOx/reduce-css-calc",
+		"npm_name": "reduce-css-calc",
+		"description": "Reduce CSS calc() function to the maximum",
+		"keywords": ["css", "calculation", "calc"],
+		"version": "2.1.8",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 56,
+		"forks": 15,
+		"open_issues": 7,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2024-07-03T09:55:43Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 36,
+		"level": "stale"
+	},
+	"category": "tool"
+}

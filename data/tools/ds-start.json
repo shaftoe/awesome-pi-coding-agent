@@ -1,0 +1,36 @@
+{
+	"id": "ds-start",
+	"name": "ds-start",
+	"url": "https://www.npmjs.com/package/ds-start",
+	"source": "npm-search",
+	"description": "The composable Next.js app kit. Production-ready foundation with installable modules.",
+	"metadata": {
+		"github_url": "https://github.com/ShahzaibJak/dev-start",
+		"npm_name": "ds-start",
+		"description": "The composable Next.js app kit. Production-ready foundation with installable modules.",
+		"keywords": [],
+		"version": "0.2.0",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T21:32:30Z",
+		"topics": ["better-auth", "boilerplate", "clerk", "cli", "nextjs-boilerplate", "nextjs-starter", "nextjs-template", "prisma", "scaffolding", "shadcn-ui", "starter-kit", "tailwindcss", "typescript", "vercel"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 11,
+			"theme": 3,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

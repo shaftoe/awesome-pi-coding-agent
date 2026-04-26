@@ -1,0 +1,36 @@
+{
+	"id": "canon-design",
+	"name": "canon-design",
+	"url": "https://www.npmjs.com/package/canon-design",
+	"source": "npm-search",
+	"description": "The canonical design language for AI coding harnesses. 52 skills, 19 commands, 89 detector rules, shipping to 15 harnesses.",
+	"metadata": {
+		"github_url": "https://github.com/Dragoon0x/canon",
+		"npm_name": "canon-design",
+		"description": "The canonical design language for AI coding harnesses. 52 skills, 19 commands, 89 detector rules, shipping to 15 harnesses.",
+		"keywords": ["design", "design-system", "ai", "llm", "claude-code", "cursor", "codex", "copilot", "windsurf", "skills", "frontend", "accessibility", "wcag", "audit", "lint", "design-tokens"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-18T07:19:26Z",
+		"topics": ["accessibility", "ai-agent", "ai-coding", "audit", "claude-code", "codex", "copilot", "css", "cursor", "design-intelligence", "design-rules", "design-system", "design-tokens", "detector", "developer-tools", "frontend", "skills", "ux", "windsurf"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://dragoon0x.github.io/canon/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 1,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

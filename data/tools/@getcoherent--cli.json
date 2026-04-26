@@ -1,0 +1,36 @@
+{
+	"id": "@getcoherent/cli",
+	"name": "@getcoherent/cli",
+	"url": "https://www.npmjs.com/package/@getcoherent/cli",
+	"source": "npm-search",
+	"description": "CLI interface for Coherent Design Method",
+	"metadata": {
+		"github_url": "https://github.com/skovtun/coherent-design-method",
+		"npm_name": "@getcoherent/cli",
+		"description": "CLI interface for Coherent Design Method",
+		"keywords": ["design-system", "cli", "frontend", "ai", "code-generation", "nextjs", "react", "coherent"],
+		"version": "0.11.5",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 15,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-26T08:04:13Z",
+		"topics": ["ai", "cli", "code-generation", "code-generator", "design-system", "design-systems", "nextjs", "react", "shadcn-ui", "tailwindcss"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://getcoherent.design",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 26,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "tool"
+}

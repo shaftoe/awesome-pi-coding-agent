@@ -1,0 +1,36 @@
+{
+	"id": "@juicesharp/rpiv-pi",
+	"name": "@juicesharp/rpiv-pi",
+	"url": "https://www.npmjs.com/package/@juicesharp/rpiv-pi",
+	"source": "npm-search",
+	"description": "Skill-based development workflow for Pi Agent — discover, research, design, plan, implement, validate",
+	"metadata": {
+		"github_url": "https://github.com/juicesharp/rpiv-mono",
+		"npm_name": "@juicesharp/rpiv-pi",
+		"description": "Skill-based development workflow for Pi Agent — discover, research, design, plan, implement, validate",
+		"keywords": ["pi-package", "pi-extension", "rpiv", "skills", "workflow"],
+		"version": "0.12.7",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 7,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-26T05:56:40Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

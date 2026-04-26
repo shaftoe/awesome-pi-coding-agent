@@ -1,0 +1,36 @@
+{
+	"id": "@ogulcancelik/pi-tmux",
+	"name": "@ogulcancelik/pi-tmux",
+	"url": "https://www.npmjs.com/package/@ogulcancelik/pi-tmux",
+	"source": "npm-search",
+	"description": "Tmux pane management for pi. Run dev servers, watchers, and long-running processes in named panes without blocking the agent.",
+	"metadata": {
+		"github_url": "https://github.com/ogulcancelik/pi-extensions",
+		"npm_name": "@ogulcancelik/pi-tmux",
+		"description": "Tmux pane management for pi. Run dev servers, watchers, and long-running processes in named panes without blocking the agent.",
+		"keywords": ["pi-package", "pi-extension", "tmux", "terminal", "pane-management", "dev-server", "long-running", "coding-agent"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 65,
+		"forks": 14,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-25T01:29:52Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 3,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 77,
+		"level": "active"
+	},
+	"category": "theme"
+}

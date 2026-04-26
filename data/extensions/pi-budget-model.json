@@ -1,0 +1,36 @@
+{
+	"id": "pi-budget-model",
+	"name": "pi-budget-model",
+	"url": "https://www.npmjs.com/package/pi-budget-model",
+	"source": "npm-search",
+	"description": "Auto-select the cheapest available model for background tasks in pi",
+	"metadata": {
+		"github_url": "https://github.com/mgabor3141/yapp",
+		"npm_name": "pi-budget-model",
+		"description": "Auto-select the cheapest available model for background tasks in pi",
+		"keywords": ["pi-package", "model-selection", "cost-optimization"],
+		"version": "1.0.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 25,
+		"forks": 7,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-21T09:53:34Z",
+		"topics": ["pi-extension", "pi-extensions"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 2,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "extension"
+}

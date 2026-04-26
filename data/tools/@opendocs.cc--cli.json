@@ -1,0 +1,21 @@
+{
+	"id": "@opendocs.cc/cli",
+	"name": "@opendocs.cc/cli",
+	"url": "https://www.npmjs.com/package/@opendocs.cc/cli",
+	"source": "npm-search",
+	"description": "CLI for publishing Markdown to OpenDocs",
+	"metadata": {
+		"github_url": "https://github.com/opendocs-cc/opendocs-cli",
+		"npm_name": "@opendocs.cc/cli",
+		"description": "CLI for publishing Markdown to OpenDocs",
+		"keywords": ["opendocs", "markdown", "docs", "publishing", "cli", "documentation"],
+		"version": "0.1.13",
+		"discovery_hint": "npm:pi-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

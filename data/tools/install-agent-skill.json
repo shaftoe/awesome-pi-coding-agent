@@ -1,0 +1,21 @@
+{
+	"id": "install-agent-skill",
+	"name": "install-agent-skill",
+	"url": "https://www.npmjs.com/package/install-agent-skill",
+	"source": "npm-search",
+	"description": "Enterprise-grade Agent Skill Manager with Antigravity Skills support, Progressive Disclosure detection, and semantic routing validation",
+	"metadata": {
+		"github_url": "https://github.com/dataguruin/add-skill",
+		"npm_name": "install-agent-skill",
+		"description": "Enterprise-grade Agent Skill Manager with Antigravity Skills support, Progressive Disclosure detection, and semantic routing validation",
+		"keywords": ["agent", "ai", "skills", "cli", "tooling", "registry", "security", "devops", "automation", "antigravity"],
+		"version": "1.0.1",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

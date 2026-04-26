@@ -1,0 +1,31 @@
+{
+	"id": "@yofriadi/pi-fuzzy-match",
+	"name": "@yofriadi/pi-fuzzy-match",
+	"url": "https://www.npmjs.com/package/@yofriadi/pi-fuzzy-match",
+	"source": "npm-search",
+	"description": "```bash pi install git:github.com/yofriadi/pi-extensions@fuzzy-match-v<version> ```",
+	"metadata": {
+		"github_url": "https://github.com/yofriadi/pi-extensions",
+		"npm_name": "@yofriadi/pi-fuzzy-match",
+		"description": "```bash pi install git:github.com/yofriadi/pi-extensions@fuzzy-match-v<version> ```",
+		"keywords": ["pi-package", "fuzzy", "edit"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 3,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-02-18T03:44:46Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

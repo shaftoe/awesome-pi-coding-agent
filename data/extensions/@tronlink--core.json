@@ -1,0 +1,36 @@
+{
+	"id": "@tronlink/core",
+	"name": "@tronlink/core",
+	"url": "https://www.npmjs.com/package/@tronlink/core",
+	"source": "npm-search",
+	"description": "The library serves as a core module within TronLink Extension, which provides low-level wallet functionality for both Tron and Ethereum networks, primary features includes account generation and transaction signing",
+	"metadata": {
+		"github_url": "https://github.com/TronLink/tronlink-extension-core",
+		"npm_name": "@tronlink/core",
+		"description": "The library serves as a core module within TronLink Extension, which provides low-level wallet functionality for both Tron and Ethereum networks, primary features includes account generation and transaction signing",
+		"keywords": ["TRON", "tronlink"],
+		"version": "1.0.17",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 15,
+		"forks": 12,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-24T11:55:57Z",
+		"topics": ["chrome-extension", "javascript", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@bodhiapp/bodhi-js-ext",
+	"name": "@bodhiapp/bodhi-js-ext",
+	"url": "https://www.npmjs.com/package/@bodhiapp/bodhi-js-ext",
+	"source": "npm-search",
+	"description": "Extension SDK for Bodhi Browser - chrome.runtime communication",
+	"metadata": {
+		"github_url": "https://github.com/BodhiSearch/bodhi-js",
+		"npm_name": "@bodhiapp/bodhi-js-ext",
+		"description": "Extension SDK for Bodhi Browser - chrome.runtime communication",
+		"keywords": [],
+		"version": "0.0.37",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 4,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-17T23:11:29Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

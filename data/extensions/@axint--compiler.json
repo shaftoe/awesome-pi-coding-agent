@@ -1,0 +1,36 @@
+{
+	"id": "@axint/compiler",
+	"name": "@axint/compiler",
+	"url": "https://www.npmjs.com/package/@axint/compiler",
+	"source": "npm-search",
+	"description": "Open-source compiler for Apple platforms. TypeScript/Python/JSON in, Swift out — App Intents, SwiftUI views, WidgetKit widgets.",
+	"metadata": {
+		"github_url": "https://github.com/agenticempire/axint",
+		"npm_name": "@axint/compiler",
+		"description": "Open-source compiler for Apple platforms. TypeScript/Python/JSON in, Swift out — App Intents, SwiftUI views, WidgetKit widgets.",
+		"keywords": ["compiler", "apple-intents", "app-intents", "swift", "siri", "shortcuts", "ai-agents", "mcp", "code-generation", "typescript", "developer-tools"],
+		"version": "0.4.8",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 6,
+		"forks": 1,
+		"open_issues": 8,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-26T07:36:02Z",
+		"topics": ["ai-agents", "app-intents", "apple", "code-generation", "compiler", "developer-tools", "ios", "ipados", "macos", "mcp", "open-source", "shortcuts", "siri", "swift", "swiftui", "typescript", "visionos", "watchos"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://axint.ai",
+		"_readme_category_scores": {
+			"extension": 12,
+			"tool": 5,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

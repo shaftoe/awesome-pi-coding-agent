@@ -1,0 +1,36 @@
+{
+	"id": "@boxiaolanya2008/pi-agent-core",
+	"name": "@boxiaolanya2008/pi-agent-core",
+	"url": "https://www.npmjs.com/package/@boxiaolanya2008/pi-agent-core",
+	"source": "npm-search",
+	"description": "General-purpose agent with transport abstraction, state management, and attachment support",
+	"metadata": {
+		"github_url": "https://github.com/badlogic/pi-mono",
+		"npm_name": "@boxiaolanya2008/pi-agent-core",
+		"description": "General-purpose agent with transport abstraction, state management, and attachment support",
+		"keywords": ["ai", "agent", "llm", "transport", "state-management"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 40263,
+		"forks": 4716,
+		"open_issues": 11,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T21:02:17Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 3,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

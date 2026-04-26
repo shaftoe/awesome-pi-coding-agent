@@ -1,0 +1,21 @@
+{
+	"id": "workmaps",
+	"name": "workmaps",
+	"url": "https://www.npmjs.com/package/workmaps",
+	"source": "npm-search",
+	"description": "Git-backed work graphs for constraint-driven planning.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "workmaps",
+		"description": "Git-backed work graphs for constraint-driven planning.",
+		"keywords": ["work-tracking", "dag", "yaml", "planning", "constraints"],
+		"version": "0.0.11",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

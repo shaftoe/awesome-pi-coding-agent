@@ -1,0 +1,36 @@
+{
+	"id": "@ocodista/pi-token-bloat",
+	"name": "@ocodista/pi-token-bloat",
+	"url": "https://www.npmjs.com/package/@ocodista/pi-token-bloat",
+	"source": "npm-search",
+	"description": "Pi extension that estimates model-facing context footprint by resource.",
+	"metadata": {
+		"github_url": "https://github.com/ocodista/pi-token-bloat",
+		"npm_name": "@ocodista/pi-token-bloat",
+		"description": "Pi extension that estimates model-facing context footprint by resource.",
+		"keywords": ["pi-package", "pi-extension", "token-usage", "tui"],
+		"version": "0.1.5",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T23:49:14Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 14,
+			"tool": 0,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

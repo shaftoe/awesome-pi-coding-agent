@@ -1,0 +1,36 @@
+{
+	"id": "@de-otio/agent-safety-pack",
+	"name": "@de-otio/agent-safety-pack",
+	"url": "https://www.npmjs.com/package/@de-otio/agent-safety-pack",
+	"source": "npm-search",
+	"description": "Safety checks and pattern databases for AI coding agents. Intercepts tool calls to block destructive commands, credential exposure, prompt injection, and data exfiltration.",
+	"metadata": {
+		"github_url": "https://github.com/de-otio/agent-safety-pack",
+		"npm_name": "@de-otio/agent-safety-pack",
+		"description": "Safety checks and pattern databases for AI coding agents. Intercepts tool calls to block destructive commands, credential exposure, prompt injection, and data exfiltration.",
+		"keywords": ["ai", "agent", "safety", "security", "prompt-injection", "claude", "llm", "coding-agent", "hooks", "threat-detection"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 3,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T07:42:26Z",
+		"topics": ["agent", "ai", "claude", "coding-agent", "hooks", "llm", "prompt-injection", "safety", "security", "threat-detection"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/de-otio/agent-safety-pack#readme",
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

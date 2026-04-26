@@ -1,0 +1,21 @@
+{
+	"id": "@agentsandswarms/skills-loader",
+	"name": "@agentsandswarms/skills-loader",
+	"url": "https://www.npmjs.com/package/@agentsandswarms/skills-loader",
+	"source": "npm-search",
+	"description": "Skills Loader CLI installer + thin client. One command (npx @agentsandswarms/skills-loader install) to connect any MCP-compatible IDE — Claude Code, Cursor, Codex, OpenCode, Gemini CLI, Continue.dev — to the hosted Skills Loader",
+	"metadata": {
+		"github_url": "https://github.com/rudedoggg/Corbot",
+		"npm_name": "@agentsandswarms/skills-loader",
+		"description": "Skills Loader CLI installer + thin client. One command (npx @agentsandswarms/skills-loader install) to connect any MCP-compatible IDE — Claude Code, Cursor, Codex, OpenCode, Gemini CLI, Continue.dev — to the hosted Skills Loader",
+		"keywords": ["agent-skills", "skill-effectiveness", "skill-loader", "skill-recommendation", "mcp", "ai-agent", "agent-memory", "model-context-protocol", "prompt-engineering", "agent-composition", "skill-tracking", "claude-code", "cursor", "ai-agents", "agents-and-swarms"],
+		"version": "1.1.2",
+		"discovery_hint": "npm:pi-coding-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

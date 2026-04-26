@@ -1,0 +1,36 @@
+{
+	"id": "sdd-protocol",
+	"name": "sdd-protocol",
+	"url": "https://www.npmjs.com/package/sdd-protocol",
+	"source": "npm-search",
+	"description": "Spec-Driven Development CLI — installs an SDD system in any project",
+	"metadata": {
+		"github_url": "https://github.com/MarcosCamara01/sdd-protocol",
+		"npm_name": "sdd-protocol",
+		"description": "Spec-Driven Development CLI — installs an SDD system in any project",
+		"keywords": ["sdd", "spec-driven", "ai", "claude", "cursor", "cli"],
+		"version": "0.6.0",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-25T23:50:17Z",
+		"topics": ["ai", "ai-agents", "claude", "cli", "codex", "copilot", "cursor", "llm", "spec-driven-development", "workflow"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@ne9roni/piskel-cli",
+	"name": "@ne9roni/piskel-cli",
+	"url": "https://www.npmjs.com/package/@ne9roni/piskel-cli",
+	"source": "npm-search",
+	"description": "Headless Piskel-compatible CLI probes",
+	"metadata": {
+		"github_url": "https://github.com/Ne9roni/piskel-cli",
+		"npm_name": "@ne9roni/piskel-cli",
+		"description": "Headless Piskel-compatible CLI probes",
+		"keywords": [],
+		"version": "1.1.1",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-25T14:29:09Z",
+		"topics": ["ai", "ai-agents", "automation", "cli", "gif", "piskel", "skill", "sprites"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/@ne9roni/piskel-cli",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 31,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "inceptionstack-pi-hard-no",
+	"name": "inceptionstack-pi-hard-no",
+	"url": "https://github.com/inceptionstack/pi-hard-no",
+	"source": "github-search",
+	"description": "Pi extension that auto-reviews code changes after each agent turn",
+	"metadata": {
+		"description": "Pi extension that auto-reviews code changes after each agent turn",
+		"stars": 7,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-26T07:55:21Z",
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 0,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

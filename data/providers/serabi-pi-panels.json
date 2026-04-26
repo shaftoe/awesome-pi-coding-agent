@@ -1,0 +1,32 @@
+{
+	"id": "serabi-pi-panels",
+	"name": "serabi-pi-panels",
+	"url": "https://github.com/serabi/pi-panels",
+	"source": "github-search",
+	"description": "A pi extension that shows how much LLM usage you have left",
+	"metadata": {
+		"description": "A pi extension that shows how much LLM usage you have left",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["pi", "pi-extension", "pi-extensions"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"discovery_hint": "github:topic:pi-extension",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-25T02:26:19Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 1,
+			"theme": 0,
+			"provider": 5
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

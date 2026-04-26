@@ -1,0 +1,31 @@
+{
+	"id": "@curdx/flow",
+	"name": "@curdx/flow",
+	"url": "https://www.npmjs.com/package/@curdx/flow",
+	"source": "npm-search",
+	"description": "Skill-first discipline layer and CLI installer for Claude Code",
+	"metadata": {
+		"github_url": "https://github.com/curdx/curdx-flow",
+		"npm_name": "@curdx/flow",
+		"description": "Skill-first discipline layer and CLI installer for Claude Code",
+		"keywords": ["claude-code", "cli", "installer", "ai-engineering", "curdx-flow"],
+		"version": "3.0.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": null,
+		"license": null,
+		"last_commit": "2026-04-26T05:13:31Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

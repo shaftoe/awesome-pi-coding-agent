@@ -1,0 +1,21 @@
+{
+	"id": "@samarth208p/0mcp",
+	"name": "@samarth208p/0mcp",
+	"url": "https://www.npmjs.com/package/@samarth208p/0mcp",
+	"source": "npm-search",
+	"description": "Persistent memory layer for AI coding agents — 0G + ENS + Brain iNFT",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@samarth208p/0mcp",
+		"description": "Persistent memory layer for AI coding agents — 0G + ENS + Brain iNFT",
+		"keywords": [],
+		"version": "2.0.9",
+		"discovery_hint": "npm:pi-coding-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

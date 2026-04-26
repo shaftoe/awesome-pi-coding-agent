@@ -1,0 +1,21 @@
+{
+	"id": "@kuzat/pi-extension-gpt-image-2",
+	"name": "@kuzat/pi-extension-gpt-image-2",
+	"url": "https://www.npmjs.com/package/@kuzat/pi-extension-gpt-image-2",
+	"source": "npm-search",
+	"description": "Pi extension that adds a gpt_image_2_generate tool",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@kuzat/pi-extension-gpt-image-2",
+		"description": "Pi extension that adds a gpt_image_2_generate tool",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

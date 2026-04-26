@@ -1,0 +1,36 @@
+{
+	"id": "agentsmesh",
+	"name": "agentsmesh",
+	"url": "https://www.npmjs.com/package/agentsmesh",
+	"source": "npm-search",
+	"description": "One canonical source for AI coding agent rules, commands, skills, MCP, hooks, and permissions — synced across Claude Code, Cursor, Copilot, Continue, Junie, Gemini CLI, Cline, Codex CLI, Windsurf, Antigravity, and Roo Code.",
+	"metadata": {
+		"github_url": "https://github.com/sampleXbro/agentsmesh",
+		"npm_name": "agentsmesh",
+		"description": "One canonical source for AI coding agent rules, commands, skills, MCP, hooks, and permissions — synced across Claude Code, Cursor, Copilot, Continue, Junie, Gemini CLI, Cline, Codex CLI, Windsurf, Antigravity, and Roo Code.",
+		"keywords": ["ai-rules", "ai-agents", "ai-config", "ai-coding", "agentic", "agent-rules", "cursor-rules", "claude-rules", "config-sync", "config-management", "mcp", "rules", "skills", "claude-code", "cursor", "copilot", "continue", "junie", "gemini-cli", "cline", "codex", "windsurf", "antigravity", "roo-code", "developer-tools", "devtools", "code-assistant", "cli"],
+		"version": "0.6.0",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T20:02:37Z",
+		"topics": ["ai-agents", "claude-code", "cli", "codex", "config-sync", "cursor", "developer-tools", "mcp"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://samplexbro.github.io/agentsmesh/",
+		"_readme_category_scores": {
+			"extension": 14,
+			"tool": 23,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

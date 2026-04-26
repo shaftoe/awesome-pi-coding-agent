@@ -1,0 +1,36 @@
+{
+	"id": "oc-blackbytes",
+	"name": "oc-blackbytes",
+	"url": "https://www.npmjs.com/package/oc-blackbytes",
+	"source": "npm-search",
+	"description": "An OpenCode plugin tailored to streamline my everyday workflow.",
+	"metadata": {
+		"github_url": "https://github.com/cuongntr/oc-blackbytes",
+		"npm_name": "oc-blackbytes",
+		"description": "An OpenCode plugin tailored to streamline my everyday workflow.",
+		"keywords": ["opencode", "plugin", "bun"],
+		"version": "0.8.4",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T10:15:34Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 4,
+			"theme": 0,
+			"provider": 12
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

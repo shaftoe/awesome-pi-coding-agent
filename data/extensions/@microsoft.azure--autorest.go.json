@@ -1,0 +1,36 @@
+{
+	"id": "@microsoft.azure/autorest.go",
+	"name": "@microsoft.azure/autorest.go",
+	"url": "https://www.npmjs.com/package/@microsoft.azure/autorest.go",
+	"source": "npm-search",
+	"description": "The Go extension for classic generators in AutoRest.",
+	"metadata": {
+		"github_url": "https://github.com/Azure/autorest.go",
+		"npm_name": "@microsoft.azure/autorest.go",
+		"description": "The Go extension for classic generators in AutoRest.",
+		"keywords": ["autorest", "classic-generators", "go"],
+		"version": "2.0.24",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 78,
+		"forks": 47,
+		"open_issues": 52,
+		"language": "Go",
+		"license": "MIT",
+		"last_commit": "2026-04-24T18:59:14Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 78,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@scanton/phase2s",
+	"name": "@scanton/phase2s",
+	"url": "https://www.npmjs.com/package/@scanton/phase2s",
+	"source": "npm-search",
+	"description": "AI coding assistant with 29 built-in skills, ChatGPT subscription support, and autonomous spec execution",
+	"metadata": {
+		"github_url": "https://github.com/scanton/phase-2-s",
+		"npm_name": "@scanton/phase2s",
+		"description": "AI coding assistant with 29 built-in skills, ChatGPT subscription support, and autonomous spec execution",
+		"keywords": ["ai", "codex", "openai", "anthropic", "claude", "chatgpt", "cli", "agent", "mcp", "coding-assistant", "dark-factory"],
+		"version": "1.48.0",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-26T02:39:40Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 29,
+			"theme": 0,
+			"provider": 56
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

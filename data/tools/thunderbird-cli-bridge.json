@@ -1,0 +1,36 @@
+{
+	"id": "thunderbird-cli-bridge",
+	"name": "thunderbird-cli-bridge",
+	"url": "https://www.npmjs.com/package/thunderbird-cli-bridge",
+	"source": "npm-search",
+	"description": "HTTP↔WebSocket bridge daemon between thunderbird-cli (or any HTTP client) and the Thunderbird WebExtension. Stateless proxy, localhost-only.",
+	"metadata": {
+		"github_url": "https://github.com/vitalio-sh/thunderbird-cli",
+		"npm_name": "thunderbird-cli-bridge",
+		"description": "HTTP↔WebSocket bridge daemon between thunderbird-cli (or any HTTP client) and the Thunderbird WebExtension. Stateless proxy, localhost-only.",
+		"keywords": ["mcp", "mcp-server", "model-context-protocol", "claude", "claude-desktop", "anthropic", "thunderbird", "email", "email-client", "imap", "smtp", "bridge", "websocket", "cli", "ai-agent", "ai-tools", "agentic", "automation", "localhost", "privacy"],
+		"version": "1.0.2",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 5,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-19T09:42:01Z",
+		"topics": ["ai-agents", "claude", "claude-desktop", "cli", "email", "imap", "mcp", "thunderbird", "webextension"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/vitalio-sh/thunderbird-cli",
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 32,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

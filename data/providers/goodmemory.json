@@ -1,0 +1,36 @@
+{
+	"id": "goodmemory",
+	"name": "goodmemory",
+	"url": "https://www.npmjs.com/package/goodmemory",
+	"source": "npm-search",
+	"description": "Memory layer for chat, copilot, and agent applications.",
+	"metadata": {
+		"github_url": "https://github.com/hjqcan/GoodMemory",
+		"npm_name": "goodmemory",
+		"description": "Memory layer for chat, copilot, and agent applications.",
+		"keywords": ["agents", "ai", "bun", "copilot", "llm", "memory", "node", "typescript"],
+		"version": "0.2.0",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-26T05:53:01Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 11,
+			"theme": 0,
+			"provider": 25
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

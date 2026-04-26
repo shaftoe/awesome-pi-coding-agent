@@ -1,0 +1,36 @@
+{
+	"id": "l402-kit",
+	"name": "l402-kit",
+	"url": "https://www.npmjs.com/package/l402-kit",
+	"source": "npm-search",
+	"description": "Add Bitcoin Lightning pay-per-call to any API in 3 lines. L402 protocol, zero config, 0.3% fee. npm install l402-kit",
+	"metadata": {
+		"github_url": "https://github.com/ShinyDapps/l402-kit",
+		"npm_name": "l402-kit",
+		"description": "Add Bitcoin Lightning pay-per-call to any API in 3 lines. L402 protocol, zero config, 0.3% fee. npm install l402-kit",
+		"keywords": ["l402", "lightning", "bitcoin", "btc", "crypto", "cripto", "cryptocurrency", "criptomoeda", "blockchain", "web3", "http402", "micropayments", "pay-per-call", "payment-gateway", "lightning-network", "lightning-payment", "bolt11", "satoshi", "sats", "lnurl", "blink", "lnbits", "opennode", "breez", "macaroon", "monetize", "monetization", "api-monetization", "api-billing", "api-gateway", "paywall", "metered-api", "rate-limiting", "express", "middleware", "typescript", "nodejs", "ai-agent", "llm", "machine-learning", "wallet", "lightning-wallet", "crypto-wallet", "bitcoin-wallet", "api", "developer", "developer-tools", "devtools", "tools", "sdk", "dapps", "dapp", "decentralized", "decentralized-app", "defi", "defi-payment", "layer2", "layer-2", "l2"],
+		"version": "1.7.0",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-25T05:17:37Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://shinydapps-api.vercel.app",
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 8,
+			"theme": 1,
+			"provider": 15
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

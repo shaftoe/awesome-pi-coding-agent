@@ -1,0 +1,21 @@
+{
+	"id": "zetto-memory",
+	"name": "zetto-memory",
+	"url": "https://www.npmjs.com/package/zetto-memory",
+	"source": "npm-search",
+	"description": "Public MCP bridge for the zetto shared memory network",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "zetto-memory",
+		"description": "Public MCP bridge for the zetto shared memory network",
+		"keywords": [],
+		"version": "1.1.4",
+		"discovery_hint": "npm:pi-coding-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

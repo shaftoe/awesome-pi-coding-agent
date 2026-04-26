@@ -1,0 +1,36 @@
+{
+	"id": "docfork",
+	"name": "docfork",
+	"url": "https://www.npmjs.com/package/docfork",
+	"source": "npm-search",
+	"description": "Up-to-date code documentation for AI agents.",
+	"metadata": {
+		"github_url": "https://github.com/docfork/docfork",
+		"npm_name": "docfork",
+		"description": "Up-to-date code documentation for AI agents.",
+		"keywords": ["modelcontextprotocol", "mcp", "docfork"],
+		"version": "2.2.1",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 468,
+		"forks": 30,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-19T07:40:36Z",
+		"topics": ["agent", "agents", "documentation", "mcp", "modelcontextprotocol", "vibe-coding"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://docfork.com",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 9,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

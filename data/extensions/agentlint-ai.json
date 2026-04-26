@@ -1,0 +1,36 @@
+{
+	"id": "agentlint-ai",
+	"name": "agentlint-ai",
+	"url": "https://www.npmjs.com/package/agentlint-ai",
+	"source": "npm-search",
+	"description": "Setup, check, and fix your repo for AI-native development.",
+	"metadata": {
+		"github_url": "https://github.com/0xmariowu/agent-lint",
+		"npm_name": "agentlint-ai",
+		"description": "Setup, check, and fix your repo for AI-native development.",
+		"keywords": ["agents-md", "claude-md", "claude-code", "claude-code-plugin", "context-engineering", "ai-coding-agent", "cursor", "codex", "github-copilot", "ai-coding", "linter", "repository-intelligence", "agent-friendly", "ai-ready", "developer-tools", "code-quality", "llm-tools", "prompt-engineering", "devex", "ai-agent"],
+		"version": "1.1.7",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 21,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Shell",
+		"license": "MIT",
+		"last_commit": "2026-04-26T08:05:47Z",
+		"topics": ["agent-friendly", "agents-md", "ai-agent", "ai-coding", "ai-coding-agent", "ai-ready", "claude-code", "claude-code-plugin", "claude-md", "code-quality", "codex", "context-engineering", "cursor", "developer-tools", "github-copilot", "harness-engineering", "linter", "llm-tools", "prompt-engineering", "repository-intelligence"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://agentlint.app",
+		"_readme_category_scores": {
+			"extension": 11,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "extension"
+}

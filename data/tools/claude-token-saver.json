@@ -1,0 +1,36 @@
+{
+	"id": "claude-token-saver",
+	"name": "claude-token-saver",
+	"url": "https://www.npmjs.com/package/claude-token-saver",
+	"source": "npm-search",
+	"description": "Save tokens on Claude Code — spike diagnosis, 1M-context detection, TTL countdown, statusline. (formerly claude-cache-monitor)",
+	"metadata": {
+		"github_url": "https://github.com/rootstudioyaml/claude-token-saver",
+		"npm_name": "claude-token-saver",
+		"description": "Save tokens on Claude Code — spike diagnosis, 1M-context detection, TTL countdown, statusline. (formerly claude-cache-monitor)",
+		"keywords": ["claude", "anthropic", "cache", "monitoring", "prompt-caching", "cli", "statusline", "claude-code", "token-usage", "cost-savings", "1m-context"],
+		"version": "2.7.3",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2026-04-26T06:47:53Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

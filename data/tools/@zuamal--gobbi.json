@@ -1,0 +1,36 @@
+{
+	"id": "@zuamal/gobbi",
+	"name": "@zuamal/gobbi",
+	"url": "https://www.npmjs.com/package/@zuamal/gobbi",
+	"source": "npm-search",
+	"description": "Harness registry, benchmark, and installer CLI for coding agents",
+	"metadata": {
+		"github_url": "https://github.com/zuamal/Gobbi",
+		"npm_name": "@zuamal/gobbi",
+		"description": "Harness registry, benchmark, and installer CLI for coding agents",
+		"keywords": ["ai", "agent", "coding-agent", "harness", "claude-code", "benchmark", "cli"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-19T05:42:17Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

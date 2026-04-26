@@ -1,0 +1,36 @@
+{
+	"id": "amlei-skills",
+	"name": "amlei-skills",
+	"url": "https://www.npmjs.com/package/amlei-skills",
+	"source": "npm-search",
+	"description": "Production-tested skills, agents, and commands for Claude Code — backend/frontend, testing, git workflow, and more.",
+	"metadata": {
+		"github_url": "https://github.com/amlei/amlei-skills",
+		"npm_name": "amlei-skills",
+		"description": "Production-tested skills, agents, and commands for Claude Code — backend/frontend, testing, git workflow, and more.",
+		"keywords": ["claude-code", "claude-code-plugin", "skills", "agents", "commands"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "Shell",
+		"license": "MIT",
+		"last_commit": "2026-04-21T07:23:19Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 6,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

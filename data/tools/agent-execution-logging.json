@@ -1,0 +1,21 @@
+{
+	"id": "agent-execution-logging",
+	"name": "agent-execution-logging",
+	"url": "https://www.npmjs.com/package/agent-execution-logging",
+	"source": "npm-search",
+	"description": "Enforce consistent AI execution logs across Codex, Cursor, Claude Code, and other agent environments.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "agent-execution-logging",
+		"description": "Enforce consistent AI execution logs across Codex, Cursor, Claude Code, and other agent environments.",
+		"keywords": ["ai", "agents", "logging", "codex", "cursor", "claude"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

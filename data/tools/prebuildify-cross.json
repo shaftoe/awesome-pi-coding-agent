@@ -1,0 +1,36 @@
+{
+	"id": "prebuildify-cross",
+	"name": "prebuildify-cross",
+	"url": "https://www.npmjs.com/package/prebuildify-cross",
+	"source": "npm-search",
+	"description": "Compile prebuilds in Docker",
+	"metadata": {
+		"github_url": "https://github.com/prebuild/prebuildify-cross",
+		"npm_name": "prebuildify-cross",
+		"description": "Compile prebuilds in Docker",
+		"keywords": ["prebuildify", "prebuild", "dockcross"],
+		"version": "5.1.1",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 19,
+		"forks": 8,
+		"open_issues": 4,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2025-11-13T20:12:40Z",
+		"topics": ["cross-compile", "dockcross", "native-addons", "nodejs", "prebuildify", "prebuilds", "prebuilt-binaries"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 52,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

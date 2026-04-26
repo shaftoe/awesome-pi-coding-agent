@@ -1,0 +1,36 @@
+{
+	"id": "node-sync",
+	"name": "node-sync",
+	"url": "https://www.npmjs.com/package/node-sync",
+	"source": "npm-search",
+	"description": "An (augmented) emulation of async/await purely using generator functions.",
+	"metadata": {
+		"github_url": "https://github.com/redblaze/node-sync",
+		"npm_name": "node-sync",
+		"description": "An (augmented) emulation of async/await purely using generator functions.",
+		"keywords": [],
+		"version": "0.5.6",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 2,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2017-09-06T08:54:53Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "tool"
+}

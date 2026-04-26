@@ -1,0 +1,36 @@
+{
+	"id": "@catenarycloud/linteffect",
+	"name": "@catenarycloud/linteffect",
+	"url": "https://www.npmjs.com/package/@catenarycloud/linteffect",
+	"source": "npm-search",
+	"description": "Biome Grit rules for declarative Effect TypeScript composition and repository-wide style consistency.",
+	"metadata": {
+		"github_url": "https://github.com/OperationalFallacy/biome-effect-linting-rules",
+		"npm_name": "@catenarycloud/linteffect",
+		"description": "Biome Grit rules for declarative Effect TypeScript composition and repository-wide style consistency.",
+		"keywords": ["agent", "biome", "code-style", "effect", "grit", "lint", "typescript"],
+		"version": "0.0.4-1",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 55,
+		"forks": 4,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-17T20:36:05Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 4,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 76,
+		"level": "active"
+	},
+	"category": "tool"
+}

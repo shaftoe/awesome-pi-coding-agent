@@ -1,0 +1,32 @@
+{
+	"id": "RunMintOn-pi-write-approval",
+	"name": "RunMintOn-pi-write-approval",
+	"url": "https://github.com/RunMintOn/pi-write-approval",
+	"source": "github-search",
+	"description": "A write-approval extension for pi coding agent.  Designed for personal knowledge bases, it requires user approval before edit, write, and non-whitelisted bash commands can run.",
+	"metadata": {
+		"description": "A write-approval extension for pi coding agent.  Designed for personal knowledge bases, it requires user approval before edit, write, and non-whitelisted bash commands can run.",
+		"stars": 0,
+		"forks": 0,
+		"language": "JavaScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-25T19:11:05Z",
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

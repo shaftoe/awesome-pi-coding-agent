@@ -1,0 +1,36 @@
+{
+	"id": "ai-rulez",
+	"name": "ai-rulez",
+	"url": "https://www.npmjs.com/package/ai-rulez",
+	"source": "npm-search",
+	"description": "Complete AI development workflow for 19+ tools. Ships with builtin rules, agents, and conventions. Generate native configs for Claude, Cursor, Copilot, Windsurf, Gemini, Codex and more from a single source.",
+	"metadata": {
+		"github_url": "https://github.com/Goldziher/ai-rulez",
+		"npm_name": "ai-rulez",
+		"description": "Complete AI development workflow for 19+ tools. Ships with builtin rules, agents, and conventions. Generate native configs for Claude, Cursor, Copilot, Windsurf, Gemini, Codex and more from a single source.",
+		"keywords": ["ai", "ai-assistant", "ai-rules", "claude", "cursor", "copilot", "windsurf", "gemini", "cline", "continue-dev", "mcp", "model-context-protocol", "cli", "configuration", "config", "rules", "generator", "golang", "go", "development", "developer-tools", "automation", "workflow", "productivity", "pre-commit", "git-hooks", "code-generation", "ai-development", "assistant-configuration", "monorepo", "presets", "agents"],
+		"version": "4.0.6",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 110,
+		"forks": 10,
+		"open_issues": 1,
+		"language": "Go",
+		"license": "MIT",
+		"last_commit": "2026-04-26T01:24:02Z",
+		"topics": ["ai", "ai-agents", "ai-governance", "ai-skills", "claude-code", "cli", "code-generation", "codex", "developer-tools", "documentation", "golang", "yaml"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 81,
+		"level": "active"
+	},
+	"category": "extension"
+}

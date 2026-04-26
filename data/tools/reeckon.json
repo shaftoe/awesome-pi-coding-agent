@@ -1,0 +1,36 @@
+{
+	"id": "reeckon",
+	"name": "reeckon",
+	"url": "https://www.npmjs.com/package/reeckon",
+	"source": "npm-search",
+	"description": "A centralized AI skill registry for your team. Write once and integrate instantly with Claude, Cursor, Antigravity, and other LLM tools.",
+	"metadata": {
+		"github_url": "https://github.com/LiamKlyneker/reeckon",
+		"npm_name": "reeckon",
+		"description": "A centralized AI skill registry for your team. Write once and integrate instantly with Claude, Cursor, Antigravity, and other LLM tools.",
+		"keywords": ["ai", "skills", "registry", "claude", "cursor", "codex", "antigravity", "agents", "llm", "cli", "developer-tools"],
+		"version": "0.3.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 5,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T19:38:32Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://reeckon.vercel.app",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 9,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

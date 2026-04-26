@@ -1,0 +1,36 @@
+{
+	"id": "@chainofclaw/soul",
+	"name": "@chainofclaw/soul",
+	"url": "https://www.npmjs.com/package/@chainofclaw/soul",
+	"source": "npm-search",
+	"description": "OpenClaw skill: COC soul layer — on-chain DID, guardian recovery, agent resurrection, soul backup, and carrier operations.",
+	"metadata": {
+		"github_url": "https://github.com/NGPlateform/claw-mem",
+		"npm_name": "@chainofclaw/soul",
+		"description": "OpenClaw skill: COC soul layer — on-chain DID, guardian recovery, agent resurrection, soul backup, and carrier operations.",
+		"keywords": ["coc", "chainofclaw", "did", "soul", "backup", "recovery", "ai-agent", "openclaw", "openclaw-skill"],
+		"version": "1.2.2",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-26T06:03:07Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

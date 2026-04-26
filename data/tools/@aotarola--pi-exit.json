@@ -1,0 +1,36 @@
+{
+	"id": "@aotarola/pi-exit",
+	"name": "@aotarola/pi-exit",
+	"url": "https://www.npmjs.com/package/@aotarola/pi-exit",
+	"source": "npm-search",
+	"description": "pi package that adds /exit as an alias for /quit",
+	"metadata": {
+		"github_url": "https://github.com/aotarola/pi-exit",
+		"npm_name": "@aotarola/pi-exit",
+		"description": "pi package that adds /exit as an alias for /quit",
+		"keywords": ["pi-package", "pi", "extension"],
+		"version": "0.1.3",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-25T17:08:20Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

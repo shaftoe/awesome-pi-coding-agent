@@ -1,0 +1,36 @@
+{
+	"id": "pi-continue",
+	"name": "pi-continue",
+	"url": "https://www.npmjs.com/package/pi-continue",
+	"source": "npm-search",
+	"description": "Continue Pi runs when context fills mid-run using native compaction and prompt-driven resume.",
+	"metadata": {
+		"github_url": "https://github.com/Tiziano-AI/pi-continue",
+		"npm_name": "pi-continue",
+		"description": "Continue Pi runs when context fills mid-run using native compaction and prompt-driven resume.",
+		"keywords": ["pi-package", "pi", "continue", "continuation", "compaction"],
+		"version": "0.1.3",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-26T07:19:29Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 7,
+			"tool": 0,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

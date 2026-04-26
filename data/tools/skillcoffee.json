@@ -1,0 +1,21 @@
+{
+	"id": "skillcoffee",
+	"name": "skillcoffee",
+	"url": "https://www.npmjs.com/package/skillcoffee",
+	"source": "npm-search",
+	"description": "The Only Skill That Your AI Agent Needs.",
+	"metadata": {
+		"github_url": "https://github.com/skillcoffee/skillcoffee",
+		"npm_name": "skillcoffee",
+		"description": "The Only Skill That Your AI Agent Needs.",
+		"keywords": ["ai", "skills", "agent", "marketplace", "claude"],
+		"version": "0.8.0",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

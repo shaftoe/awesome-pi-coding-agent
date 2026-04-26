@@ -1,0 +1,36 @@
+{
+	"id": "@uadgj/pi-superpowers-support",
+	"name": "@uadgj/pi-superpowers-support",
+	"url": "https://www.npmjs.com/package/@uadgj/pi-superpowers-support",
+	"source": "npm-search",
+	"description": "Pi extension providing TodoWrite, Task, and Skill tools for official superpowers compatibility",
+	"metadata": {
+		"github_url": "https://github.com/gadgj/pi-superpowers-support",
+		"npm_name": "@uadgj/pi-superpowers-support",
+		"description": "Pi extension providing TodoWrite, Task, and Skill tools for official superpowers compatibility",
+		"keywords": ["pi-package", "pi-extension", "superpowers"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T17:41:40Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

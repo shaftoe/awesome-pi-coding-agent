@@ -1,0 +1,21 @@
+{
+	"id": "@khanglvm/llm-router",
+	"name": "@khanglvm/llm-router",
+	"url": "https://www.npmjs.com/package/@khanglvm/llm-router",
+	"source": "npm-search",
+	"description": "LLM Router: single gateway endpoint for multi-provider LLMs with unified OpenAI+Anthropic format and seamless fallback",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@khanglvm/llm-router",
+		"description": "LLM Router: single gateway endpoint for multi-provider LLMs with unified OpenAI+Anthropic format and seamless fallback",
+		"keywords": ["llm-router", "llm-gateway", "ai-proxy", "openai-compatible", "anthropic-compatible", "model-routing", "fallback", "load-balancing", "cloudflare-workers", "agent-infra"],
+		"version": "2.6.2",
+		"discovery_hint": "npm:pi-coding-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

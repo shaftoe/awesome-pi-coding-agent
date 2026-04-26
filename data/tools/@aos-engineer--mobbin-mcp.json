@@ -1,0 +1,21 @@
+{
+	"id": "@aos-engineer/mobbin-mcp",
+	"name": "@aos-engineer/mobbin-mcp",
+	"url": "https://www.npmjs.com/package/@aos-engineer/mobbin-mcp",
+	"source": "npm-search",
+	"description": "MCP server for searching and browsing Mobbin design inspiration",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@aos-engineer/mobbin-mcp",
+		"description": "MCP server for searching and browsing Mobbin design inspiration",
+		"keywords": ["mcp", "mobbin", "design"],
+		"version": "1.0.11",
+		"discovery_hint": "npm:pi-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@paulmupeters/pi-brainstorm",
+	"name": "@paulmupeters/pi-brainstorm",
+	"url": "https://www.npmjs.com/package/@paulmupeters/pi-brainstorm",
+	"source": "npm-search",
+	"description": "A conversation-only brainstorm mode extension for pi",
+	"metadata": {
+		"github_url": "https://github.com/paulmupeters/pi-brainstorm",
+		"npm_name": "@paulmupeters/pi-brainstorm",
+		"description": "A conversation-only brainstorm mode extension for pi",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T07:37:29Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 9,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

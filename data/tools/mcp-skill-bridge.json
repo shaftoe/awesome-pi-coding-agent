@@ -1,0 +1,21 @@
+{
+	"id": "mcp-skill-bridge",
+	"name": "mcp-skill-bridge",
+	"url": "https://www.npmjs.com/package/mcp-skill-bridge",
+	"source": "npm-search",
+	"description": "`mcp-skill-bridge` is an HTTP MCP server that turns a local skills directory into MCP-readable context for agents that can only attach MCP servers.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "mcp-skill-bridge",
+		"description": "`mcp-skill-bridge` is an HTTP MCP server that turns a local skills directory into MCP-readable context for agents that can only attach MCP servers.",
+		"keywords": [],
+		"version": "0.0.1",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

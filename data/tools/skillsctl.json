@@ -1,0 +1,36 @@
+{
+	"id": "skillsctl",
+	"name": "skillsctl",
+	"url": "https://www.npmjs.com/package/skillsctl",
+	"source": "npm-search",
+	"description": "Enable/disable Claude Code skills interactively",
+	"metadata": {
+		"github_url": "https://github.com/zzzhizhia/skillsctl",
+		"npm_name": "skillsctl",
+		"description": "Enable/disable Claude Code skills interactively",
+		"keywords": [],
+		"version": "1.1.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-18T15:21:57Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

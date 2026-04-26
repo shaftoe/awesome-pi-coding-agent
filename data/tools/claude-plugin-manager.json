@@ -1,0 +1,21 @@
+{
+	"id": "claude-plugin-manager",
+	"name": "claude-plugin-manager",
+	"url": "https://www.npmjs.com/package/claude-plugin-manager",
+	"source": "npm-search",
+	"description": "Install and manage community Claude plugins",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "claude-plugin-manager",
+		"description": "Install and manage community Claude plugins",
+		"keywords": ["claude", "plugin", "manager", "ai"],
+		"version": "0.1.3",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

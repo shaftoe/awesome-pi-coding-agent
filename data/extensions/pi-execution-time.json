@@ -1,0 +1,36 @@
+{
+	"id": "pi-execution-time",
+	"name": "pi-execution-time",
+	"url": "https://www.npmjs.com/package/pi-execution-time",
+	"source": "npm-search",
+	"description": "Pi extension that shows prompt execution time in the footer while the agent works.",
+	"metadata": {
+		"github_url": "https://github.com/lukaspanni/pi-execution-time",
+		"npm_name": "pi-execution-time",
+		"description": "Pi extension that shows prompt execution time in the footer while the agent works.",
+		"keywords": ["pi-package", "pi", "pi-extension", "timer", "execution-time"],
+		"version": "0.1.2",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T09:13:55Z",
+		"topics": ["pi", "pi-extension", "pi-package", "timer"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

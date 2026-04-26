@@ -1,0 +1,36 @@
+{
+	"id": "gen-pr",
+	"name": "gen-pr",
+	"url": "https://www.npmjs.com/package/gen-pr",
+	"source": "npm-search",
+	"description": "![Cover](./cover.svg)",
+	"metadata": {
+		"github_url": "https://github.com/WillBooster/gen-pr",
+		"npm_name": "gen-pr",
+		"description": "![Cover](./cover.svg)",
+		"keywords": [],
+		"version": "4.1.15",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 6,
+		"forks": 0,
+		"open_issues": 12,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-12T06:13:04Z",
+		"topics": [],
+		"is_archived": true,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/gen-pr",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 20,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 21,
+		"level": "stale"
+	},
+	"category": "tool"
+}

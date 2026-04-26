@@ -1,0 +1,36 @@
+{
+	"id": "@atena-reply/git-tasks",
+	"name": "@atena-reply/git-tasks",
+	"url": "https://www.npmjs.com/package/@atena-reply/git-tasks",
+	"source": "npm-search",
+	"description": "AI-native GitHub issue planning via GitHub issues",
+	"metadata": {
+		"github_url": "https://github.com/Atena-IT/git-tasks",
+		"npm_name": "@atena-reply/git-tasks",
+		"description": "AI-native GitHub issue planning via GitHub issues",
+		"keywords": ["git", "project-management", "cli", "ai", "github", "epics", "sprints"],
+		"version": "1.0.5",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2026-04-25T18:24:04Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 11,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

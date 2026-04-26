@@ -1,0 +1,21 @@
+{
+	"id": "@glitchr/select2",
+	"name": "@glitchr/select2",
+	"url": "https://www.npmjs.com/package/@glitchr/select2",
+	"source": "npm-search",
+	"description": "Select2 extension",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@glitchr/select2",
+		"description": "Select2 extension",
+		"keywords": [],
+		"version": "1.0.29",
+		"discovery_hint": "npm:pi-extension",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

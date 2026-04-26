@@ -1,0 +1,21 @@
+{
+	"id": "@artale/pi-infer",
+	"name": "@artale/pi-infer",
+	"url": "https://www.npmjs.com/package/@artale/pi-infer",
+	"source": "npm-search",
+	"description": "Minimum viable free-LLM gateway — stdlib-only Python, no Docker, ~700 LOC",
+	"metadata": {
+		"github_url": "https://github.com/artale93/pi-infer",
+		"npm_name": "@artale/pi-infer",
+		"description": "Minimum viable free-LLM gateway — stdlib-only Python, no Docker, ~700 LOC",
+		"keywords": ["pi-package", "free-llm", "gateway", "infer-lite"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

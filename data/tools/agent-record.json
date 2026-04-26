@@ -1,0 +1,21 @@
+{
+	"id": "agent-record",
+	"name": "agent-record",
+	"url": "https://www.npmjs.com/package/agent-record",
+	"source": "npm-search",
+	"description": "Single installer that wires the `agent-record` bug-capture queue into every major coding agent: **Claude Code, Codex, Gemini CLI, Antigravity, Cursor.**",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "agent-record",
+		"description": "Single installer that wires the `agent-record` bug-capture queue into every major coding agent: **Claude Code, Codex, Gemini CLI, Antigravity, Cursor.**",
+		"keywords": [],
+		"version": "0.3.2",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

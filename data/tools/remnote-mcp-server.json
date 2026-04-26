@@ -1,0 +1,36 @@
+{
+	"id": "remnote-mcp-server",
+	"name": "remnote-mcp-server",
+	"url": "https://www.npmjs.com/package/remnote-mcp-server",
+	"source": "npm-search",
+	"description": "MCP server bridge for RemNote knowledge base",
+	"metadata": {
+		"github_url": "https://github.com/robert7/remnote-mcp-server",
+		"npm_name": "remnote-mcp-server",
+		"description": "MCP server bridge for RemNote knowledge base",
+		"keywords": ["mcp", "remnote", "model-context-protocol", "knowledge-base", "note-taking", "ai", "assistant", "websocket", "bridge"],
+		"version": "0.13.0",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 7,
+		"forks": 6,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T16:18:25Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 27,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

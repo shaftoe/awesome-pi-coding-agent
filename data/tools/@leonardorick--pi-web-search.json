@@ -1,0 +1,21 @@
+{
+	"id": "@leonardorick/pi-web-search",
+	"name": "@leonardorick/pi-web-search",
+	"url": "https://www.npmjs.com/package/@leonardorick/pi-web-search",
+	"source": "npm-search",
+	"description": "Web search tool for pi — DuckDuckGo HTML scrape via wreq-js (browser TLS fingerprinting). Companion to pi-smart-fetch.",
+	"metadata": {
+		"github_url": "https://github.com/leonardorick/dotfiles",
+		"npm_name": "@leonardorick/pi-web-search",
+		"description": "Web search tool for pi — DuckDuckGo HTML scrape via wreq-js (browser TLS fingerprinting). Companion to pi-smart-fetch.",
+		"keywords": ["pi-package", "pi", "web-search", "duckduckgo", "wreq-js", "tls-fingerprinting"],
+		"version": "0.1.2",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

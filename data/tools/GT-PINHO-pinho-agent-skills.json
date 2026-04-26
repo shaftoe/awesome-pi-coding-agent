@@ -1,0 +1,32 @@
+{
+	"id": "GT-PINHO-pinho-agent-skills",
+	"name": "GT-PINHO-pinho-agent-skills",
+	"url": "https://github.com/GT-PINHO/pinho-agent-skills",
+	"source": "github-search",
+	"description": " Evidence-based agent skills for Claude Code. Anti-guessing, anti-sycophancy, eval-validated in CI. 12 skills covering growth ops, dev navigation, and token    discipline — what they promise, they deliver.",
+	"metadata": {
+		"description": " Evidence-based agent skills for Claude Code. Anti-guessing, anti-sycophancy, eval-validated in CI. 12 skills covering growth ops, dev navigation, and token    discipline — what they promise, they deliver.",
+		"stars": 0,
+		"forks": 0,
+		"language": "JavaScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:pi-agent skill",
+		"open_issues": 0,
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-26T02:13:42Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

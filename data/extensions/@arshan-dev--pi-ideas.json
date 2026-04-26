@@ -1,0 +1,21 @@
+{
+	"id": "@arshan-dev/pi-ideas",
+	"name": "@arshan-dev/pi-ideas",
+	"url": "https://www.npmjs.com/package/@arshan-dev/pi-ideas",
+	"source": "npm-search",
+	"description": "Idea garden extension for pi: capture, browse, expand, combine, and ship ideas from slash commands.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@arshan-dev/pi-ideas",
+		"description": "Idea garden extension for pi: capture, browse, expand, combine, and ship ideas from slash commands.",
+		"keywords": ["pi-package", "pi-extension", "ideas", "brainstorming", "productivity", "ima do it later!", "thinkbook", "todo for pi my beloved agent", "idea management", "keep secrets of your life"],
+		"version": "0.1.20",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@dutchbase/img-convert",
+	"name": "@dutchbase/img-convert",
+	"url": "https://www.npmjs.com/package/@dutchbase/img-convert",
+	"source": "npm-search",
+	"description": "CLI image converter with WebUI. Convert JPG, PNG, WebP, AVIF and more. Built for developers and AI agents.",
+	"metadata": {
+		"github_url": "https://github.com/dutchbase/img-converter",
+		"npm_name": "@dutchbase/img-convert",
+		"description": "CLI image converter with WebUI. Convert JPG, PNG, WebP, AVIF and more. Built for developers and AI agents.",
+		"keywords": ["image", "converter", "cli", "image-cli", "webp", "avif", "png", "jpg", "image-convert", "image-processing", "ai-tools", "ai-agent-tool", "sharp", "mcp", "heic"],
+		"version": "1.0.4",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 4,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T19:40:36Z",
+		"topics": ["ai-tools", "avif", "cli", "developer-tools", "image-converter", "image-processing", "nodejs", "webp"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 44,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

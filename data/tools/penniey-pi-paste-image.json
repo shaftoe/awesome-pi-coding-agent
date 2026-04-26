@@ -1,0 +1,32 @@
+{
+	"id": "penniey-pi-paste-image",
+	"name": "penniey-pi-paste-image",
+	"url": "https://github.com/penniey/pi-paste-image",
+	"source": "github-search",
+	"description": "Paste clipboard images into pi conversations",
+	"metadata": {
+		"description": "Paste clipboard images into pi conversations",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["ai-extension", "pi-coding-agent"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-25T21:02:06Z",
+		"_readme_category_scores": {
+			"extension": 3,
+			"tool": 7,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -12,13 +12,13 @@
 		"thumbnail": "https://i.ytimg.com/vi/UcJ3tdW9iTA/hqdefault.jpg",
 		"discovery_hint": "youtube:\"pi extension\" -raspberry -vscode",
 		"_readme_category_scores": {},
-		"view_count": 2207,
+		"view_count": 2216,
 		"like_count": 50,
 		"comment_count": 4
 	},
 	"health": {
-		"score": 70,
-		"level": "active"
+		"score": 60,
+		"level": "maintained"
 	},
 	"category": "video"
 }

@@ -1,0 +1,36 @@
+{
+	"id": "pi-prompt-stash",
+	"name": "pi-prompt-stash",
+	"url": "https://www.npmjs.com/package/pi-prompt-stash",
+	"source": "npm-search",
+	"description": "Git-stash for your train of thought — save prompt drafts with ctrl+s, restore with ctrl+shift+s",
+	"metadata": {
+		"github_url": "https://github.com/edmundmiller/dotfiles",
+		"npm_name": "pi-prompt-stash",
+		"description": "Git-stash for your train of thought — save prompt drafts with ctrl+s, restore with ctrl+shift+s",
+		"keywords": ["pi", "pi-extension", "pi-package", "prompt-stash", "stash", "drafts"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 59,
+		"forks": 6,
+		"open_issues": 45,
+		"language": "DIGITAL Command Language",
+		"license": "MIT",
+		"last_commit": "2026-04-26T03:55:25Z",
+		"topics": ["dotfiles", "emacs", "nix-dotfiles", "nixos", "nixos-configuration", "vim", "zsh"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 1,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 76,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "enjoy-coding",
+	"name": "enjoy-coding",
+	"url": "https://www.npmjs.com/package/enjoy-coding",
+	"source": "npm-search",
+	"description": "Mobile and Web client for Claude Code and Codex",
+	"metadata": {
+		"github_url": "https://github.com/slopus/happy-cli",
+		"npm_name": "enjoy-coding",
+		"description": "Mobile and Web client for Claude Code and Codex",
+		"keywords": [],
+		"version": "0.14.0-14",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 537,
+		"forks": 282,
+		"open_issues": 63,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-02-14T07:54:56Z",
+		"topics": [],
+		"is_archived": true,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 8,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 30,
+		"level": "stale"
+	},
+	"category": "tool"
+}

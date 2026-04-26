@@ -1,0 +1,21 @@
+{
+	"id": "discord-agent-cli",
+	"name": "discord-agent-cli",
+	"url": "https://www.npmjs.com/package/discord-agent-cli",
+	"source": "npm-search",
+	"description": "Discord Bot CLI for AI Agents with active polling and agent skills",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "discord-agent-cli",
+		"description": "Discord Bot CLI for AI Agents with active polling and agent skills",
+		"keywords": ["discord", "cli", "bot", "agent"],
+		"version": "1.0.3",
+		"discovery_hint": "npm:pi-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

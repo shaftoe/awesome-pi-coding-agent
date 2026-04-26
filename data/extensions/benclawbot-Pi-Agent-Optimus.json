@@ -1,0 +1,32 @@
+{
+	"id": "benclawbot-Pi-Agent-Optimus",
+	"name": "benclawbot-Pi-Agent-Optimus",
+	"url": "https://github.com/benclawbot/Pi-Agent-Optimus",
+	"source": "github-search",
+	"description": "Memory-augmented, production-ready configuration of the Pi coding agent with enhanced capabilities",
+	"metadata": {
+		"description": "Memory-augmented, production-ready configuration of the Pi coding agent with enhanced capabilities",
+		"stars": 0,
+		"forks": 0,
+		"language": "Python",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-25T16:09:09Z",
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,21 @@
+{
+	"id": "@glitchr/quill",
+	"name": "@glitchr/quill",
+	"url": "https://www.npmjs.com/package/@glitchr/quill",
+	"source": "npm-search",
+	"description": "Quill extension",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@glitchr/quill",
+		"description": "Quill extension",
+		"keywords": [],
+		"version": "1.0.25",
+		"discovery_hint": "npm:pi-extension",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+	"id": "Bunchhieng-pi-research",
+	"name": "Bunchhieng-pi-research",
+	"url": "https://github.com/Bunchhieng/pi-research",
+	"source": "github-search",
+	"description": "pi-autoresearch with worktree addon",
+	"metadata": {
+		"description": "pi-autoresearch with worktree addon",
+		"stars": 0,
+		"forks": 0,
+		"language": "Shell",
+		"topics": ["pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"discovery_hint": "github:topic:pi-package",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-23T03:01:33Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@emcy/agent-sdk",
+	"name": "@emcy/agent-sdk",
+	"url": "https://www.npmjs.com/package/@emcy/agent-sdk",
+	"source": "npm-search",
+	"description": "Embeddable AI chat widget powered by MCP. Add an LLM-powered agent to your web app.",
+	"metadata": {
+		"github_url": "https://github.com/emcy-ai/agent-sdk",
+		"npm_name": "@emcy/agent-sdk",
+		"description": "Embeddable AI chat widget powered by MCP. Add an LLM-powered agent to your web app.",
+		"keywords": ["emcy", "mcp", "ai", "chat", "widget", "agent", "llm", "embeddable"],
+		"version": "0.11.3",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T15:42:15Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 4,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

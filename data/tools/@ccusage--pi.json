@@ -1,0 +1,36 @@
+{
+	"id": "@ccusage/pi",
+	"name": "@ccusage/pi",
+	"url": "https://www.npmjs.com/package/@ccusage/pi",
+	"source": "npm-search",
+	"description": "Pi-agent usage tracking - unified Claude Max usage across Claude Code and pi-agent",
+	"metadata": {
+		"github_url": "https://github.com/ryoppippi/ccusage",
+		"npm_name": "@ccusage/pi",
+		"description": "Pi-agent usage tracking - unified Claude Max usage across Claude Code and pi-agent",
+		"keywords": [],
+		"version": "18.0.11",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 13347,
+		"forks": 510,
+		"open_issues": 181,
+		"language": "TypeScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-25T16:57:37Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://ccusage.com/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

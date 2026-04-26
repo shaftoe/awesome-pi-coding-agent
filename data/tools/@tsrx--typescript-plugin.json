@@ -1,0 +1,36 @@
+{
+	"id": "@tsrx/typescript-plugin",
+	"name": "@tsrx/typescript-plugin",
+	"url": "https://www.npmjs.com/package/@tsrx/typescript-plugin",
+	"source": "npm-search",
+	"description": "TypeScript plugin for TSRX",
+	"metadata": {
+		"github_url": "https://github.com/Ripple-TS/ripple",
+		"npm_name": "@tsrx/typescript-plugin",
+		"description": "TypeScript plugin for TSRX",
+		"keywords": [],
+		"version": "0.3.33",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 7180,
+		"forks": 279,
+		"open_issues": 27,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-26T04:44:14Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://ripple-ts.com",
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 25,
+			"theme": 12,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

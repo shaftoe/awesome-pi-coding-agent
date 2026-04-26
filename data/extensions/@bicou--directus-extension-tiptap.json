@@ -1,0 +1,36 @@
+{
+	"id": "@bicou/directus-extension-tiptap",
+	"name": "@bicou/directus-extension-tiptap",
+	"url": "https://www.npmjs.com/package/@bicou/directus-extension-tiptap",
+	"source": "npm-search",
+	"description": "Tiptap rich text editor interface and display for directus",
+	"metadata": {
+		"github_url": "https://github.com/gbicou/directus-extension-tiptap",
+		"npm_name": "@bicou/directus-extension-tiptap",
+		"description": "Tiptap rich text editor interface and display for directus",
+		"keywords": ["directus", "directus-extension", "directus-custom-bundle", "directus-custom-interface", "directus-custom-display", "tiptap", "prosemirror", "wysiwg", "editor"],
+		"version": "1.18.6",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 72,
+		"forks": 9,
+		"open_issues": 16,
+		"language": "Vue",
+		"license": "MIT",
+		"last_commit": "2026-04-22T02:10:33Z",
+		"topics": ["directus", "directus-extension", "directus-extension-display", "directus-extension-interface", "editor", "prosemirror", "tiptap", "wysiwyg"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 16,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 77,
+		"level": "active"
+	},
+	"category": "extension"
+}

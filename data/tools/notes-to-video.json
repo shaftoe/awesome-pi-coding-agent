@@ -1,0 +1,36 @@
+{
+	"id": "notes-to-video",
+	"name": "notes-to-video",
+	"url": "https://www.npmjs.com/package/notes-to-video",
+	"source": "npm-search",
+	"description": "Turn notes into animated explainer videos in the style popularized by 3Blue1Brown. Claude Code skill + Manim + TTS + ffmpeg.",
+	"metadata": {
+		"github_url": "https://github.com/cymcymcymcym/notes-to-video",
+		"npm_name": "notes-to-video",
+		"description": "Turn notes into animated explainer videos in the style popularized by 3Blue1Brown. Claude Code skill + Manim + TTS + ffmpeg.",
+		"keywords": ["claude-code", "claude-code-skill", "manim", "3blue1brown", "video", "animation", "tts", "education", "explainer", "latex", "math"],
+		"version": "1.2.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "Python",
+		"license": "MIT",
+		"last_commit": "2026-04-19T04:28:23Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

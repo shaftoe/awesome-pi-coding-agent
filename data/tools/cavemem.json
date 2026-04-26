@@ -1,0 +1,36 @@
+{
+	"id": "cavemem",
+	"name": "cavemem",
+	"url": "https://www.npmjs.com/package/cavemem",
+	"source": "npm-search",
+	"description": "Cross-agent persistent memory with compressed storage. Plug-and-play memory for Claude Code, Gemini CLI, OpenCode, Codex, and Cursor.",
+	"metadata": {
+		"github_url": "https://github.com/JuliusBrussee/cavemem",
+		"npm_name": "cavemem",
+		"description": "Cross-agent persistent memory with compressed storage. Plug-and-play memory for Claude Code, Gemini CLI, OpenCode, Codex, and Cursor.",
+		"keywords": ["memory", "mcp", "agent", "claude-code", "gemini-cli", "codex", "cursor", "ai", "compression", "llm"],
+		"version": "0.1.3",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 162,
+		"forks": 4,
+		"open_issues": 9,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-20T12:38:09Z",
+		"topics": ["ai", "caveman", "claude", "claude-code", "compress", "memory", "rag", "rag-chatbot"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://getcaveman.dev/",
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 7,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 86,
+		"level": "active"
+	},
+	"category": "tool"
+}

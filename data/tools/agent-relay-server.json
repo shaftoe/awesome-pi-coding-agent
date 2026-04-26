@@ -1,0 +1,21 @@
+{
+	"id": "agent-relay-server",
+	"name": "agent-relay-server",
+	"url": "https://www.npmjs.com/package/agent-relay-server",
+	"source": "npm-search",
+	"description": "Lightweight HTTP message relay for inter-agent communication across machines",
+	"metadata": {
+		"github_url": "https://github.com/edimuj/agent-relay",
+		"npm_name": "agent-relay-server",
+		"description": "Lightweight HTTP message relay for inter-agent communication across machines",
+		"keywords": ["agent", "relay", "message-bus", "claude-code", "multi-agent", "inter-agent", "ai-agents"],
+		"version": "0.3.7",
+		"discovery_hint": "npm:pi-coding-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

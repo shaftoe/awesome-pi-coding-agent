@@ -1,0 +1,21 @@
+{
+	"id": "@prata.ma/anvil-schema",
+	"name": "@prata.ma/anvil-schema",
+	"url": "https://www.npmjs.com/package/@prata.ma/anvil-schema",
+	"source": "npm-search",
+	"description": "Shared schema parsing and authored schema package for Anvil workspaces.",
+	"metadata": {
+		"github_url": "https://github.com/prata-ma/anvil",
+		"npm_name": "@prata.ma/anvil-schema",
+		"description": "Shared schema parsing and authored schema package for Anvil workspaces.",
+		"keywords": [],
+		"version": "0.3.0",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

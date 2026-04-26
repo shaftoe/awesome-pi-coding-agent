@@ -1,0 +1,36 @@
+{
+	"id": "pi-service-tier",
+	"name": "pi-service-tier",
+	"url": "https://www.npmjs.com/package/pi-service-tier",
+	"source": "npm-search",
+	"description": "Fast mode and provider service-tier controls for pi",
+	"metadata": {
+		"github_url": "https://github.com/mavam/pi-service-tier",
+		"npm_name": "pi-service-tier",
+		"description": "Fast mode and provider service-tier controls for pi",
+		"keywords": ["pi-package", "pi", "pi-extension", "service-tier", "fast-mode", "fast", "openai", "codex", "footer", "statusline"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T19:17:12Z",
+		"topics": ["codex", "footer", "openai", "pi", "pi-extension", "pi-package", "service-tier", "statusline"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 4,
+			"tool": 0,
+			"theme": 0,
+			"provider": 16
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

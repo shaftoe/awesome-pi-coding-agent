@@ -1,0 +1,36 @@
+{
+	"id": "kommit-cli",
+	"name": "kommit-cli",
+	"url": "https://www.npmjs.com/package/kommit-cli",
+	"source": "npm-search",
+	"description": "AI powered Conventional Commit message generator",
+	"metadata": {
+		"github_url": "https://github.com/ohmygodashish/kommit",
+		"npm_name": "kommit-cli",
+		"description": "AI powered Conventional Commit message generator",
+		"keywords": ["git", "commit", "cli", "llm", "ai", "conventional-commits", "openai", "anthropic", "ollama"],
+		"version": "0.2.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T19:50:45Z",
+		"topics": ["cli", "commit-message", "conventional-commits", "git"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://kommit-cli.vercel.app",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 3,
+			"theme": 0,
+			"provider": 23
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

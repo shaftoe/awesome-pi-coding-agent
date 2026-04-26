@@ -1,0 +1,27 @@
+{
+	"id": "DenisSud-dotfiles-pi",
+	"name": "DenisSud-dotfiles-pi",
+	"url": "https://github.com/DenisSud/dotfiles-pi",
+	"source": "github-search",
+	"description": "Pi coding agent config",
+	"metadata": {
+		"description": "Pi coding agent config",
+		"stars": 0,
+		"forks": 0,
+		"language": "Nix",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-23T19:02:51Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

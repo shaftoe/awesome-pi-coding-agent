@@ -1,0 +1,21 @@
+{
+	"id": "@mazaal-dev/widget",
+	"name": "@mazaal-dev/widget",
+	"url": "https://www.npmjs.com/package/@mazaal-dev/widget",
+	"source": "npm-search",
+	"description": "Drop-in AI chat widget for any website — one script tag connects any Mazaal agent with streaming replies, markdown rendering, visitor identification, and human handoff. Framework-agnostic, zero-config.",
+	"metadata": {
+		"github_url": "https://github.com/Mazaal-AI/mazaal_widget",
+		"npm_name": "@mazaal-dev/widget",
+		"description": "Drop-in AI chat widget for any website — one script tag connects any Mazaal agent with streaming replies, markdown rendering, visitor identification, and human handoff. Framework-agnostic, zero-config.",
+		"keywords": ["chat", "chat-widget", "chatbot", "ai", "ai-chat", "ai-agent", "agent", "conversational-ai", "embed", "embeddable", "widget", "mazaal", "customer-support", "support-widget", "helpdesk", "live-chat", "website-chat", "human-handoff", "lead-generation", "streaming", "server-sent-events", "sse", "markdown", "react", "typescript", "framework-agnostic", "zero-config"],
+		"version": "1.4.5",
+		"discovery_hint": "npm:pi-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

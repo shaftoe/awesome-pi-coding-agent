@@ -1,0 +1,21 @@
+{
+	"id": "fiction-forge",
+	"name": "fiction-forge",
+	"url": "https://www.npmjs.com/package/fiction-forge",
+	"source": "npm-search",
+	"description": "Fiction Forge: AI-driven fiction writing skill pipeline and auxiliary CLI tools.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "fiction-forge",
+		"description": "Fiction Forge: AI-driven fiction writing skill pipeline and auxiliary CLI tools.",
+		"keywords": ["fiction", "writing", "ai", "pipeline", "cli", "bun"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

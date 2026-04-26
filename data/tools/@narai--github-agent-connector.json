@@ -1,0 +1,36 @@
+{
+	"id": "@narai/github-agent-connector",
+	"name": "@narai/github-agent-connector",
+	"url": "https://www.npmjs.com/package/@narai/github-agent-connector",
+	"source": "npm-search",
+	"description": "Read-only GitHub connector: repo info, code search, PR/issue listing, file retrieval. Built on @narai/connector-toolkit with an approval gate and hardship logging. JSON-envelope CLI + library API.",
+	"metadata": {
+		"github_url": "https://github.com/narailabs/github-agent-connector",
+		"npm_name": "@narai/github-agent-connector",
+		"description": "Read-only GitHub connector: repo info, code search, PR/issue listing, file retrieval. Built on @narai/connector-toolkit with an approval gate and hardship logging. JSON-envelope CLI + library API.",
+		"keywords": ["github", "connector", "claude", "agent"],
+		"version": "3.2.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-26T06:18:49Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

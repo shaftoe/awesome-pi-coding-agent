@@ -1,0 +1,36 @@
+{
+	"id": "miclaw-app",
+	"name": "miclaw-app",
+	"url": "https://www.npmjs.com/package/miclaw-app",
+	"source": "npm-search",
+	"description": "Maintain your lobsters",
+	"metadata": {
+		"github_url": "https://github.com/NGabry/MiClaw",
+		"npm_name": "miclaw-app",
+		"description": "Maintain your lobsters",
+		"keywords": ["claude", "claude-code", "config", "visualizer", "dashboard"],
+		"version": "0.12.10",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-25T23:37:09Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 6,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

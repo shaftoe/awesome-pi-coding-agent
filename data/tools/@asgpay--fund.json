@@ -1,0 +1,36 @@
+{
+	"id": "@asgpay/fund",
+	"name": "@asgpay/fund",
+	"url": "https://www.npmjs.com/package/@asgpay/fund",
+	"source": "npm-search",
+	"description": "ASG Pay Fund — one-link funding for AI agent wallets. Stripe checkout, crypto bridge, and credit card deposits. Fund any agent wallet in one click.",
+	"metadata": {
+		"github_url": "https://github.com/ASGCompute/asgcard-public",
+		"npm_name": "@asgpay/fund",
+		"description": "ASG Pay Fund — one-link funding for AI agent wallets. Stripe checkout, crypto bridge, and credit card deposits. Fund any agent wallet in one click.",
+		"keywords": ["asg-pay", "asgpay", "fund", "agent-funding", "wallet-funding", "stripe-checkout", "crypto-bridge", "usdc", "stellar", "ai-agent", "one-click-funding", "payment-link", "autonomous-agent", "asgcard"],
+		"version": "1.0.1",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 14,
+		"forks": 3,
+		"open_issues": 8,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-09T18:46:17Z",
+		"topics": ["agent-payments", "ai-agents", "fintech", "mastercard", "mcp", "stellar", "usdc", "virtual-cards", "x402"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://asgcard.dev",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 26,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

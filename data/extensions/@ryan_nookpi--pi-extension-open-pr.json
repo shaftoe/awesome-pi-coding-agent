@@ -1,0 +1,36 @@
+{
+	"id": "@ryan_nookpi/pi-extension-open-pr",
+	"name": "@ryan_nookpi/pi-extension-open-pr",
+	"url": "https://www.npmjs.com/package/@ryan_nookpi/pi-extension-open-pr",
+	"source": "npm-search",
+	"description": "Open the current branch pull request in your browser via GitHub CLI.",
+	"metadata": {
+		"github_url": "https://github.com/Jonghakseo/pi-extension",
+		"npm_name": "@ryan_nookpi/pi-extension-open-pr",
+		"description": "Open the current branch pull request in your browser via GitHub CLI.",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 3,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-25T12:12:22Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 31,
+			"tool": 4,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@agent-assistant/cloudflare-runtime",
+	"name": "@agent-assistant/cloudflare-runtime",
+	"url": "https://www.npmjs.com/package/@agent-assistant/cloudflare-runtime",
+	"source": "npm-search",
+	"description": "Cloudflare-specific runtime adapters for Agent Assistant persona workers.",
+	"metadata": {
+		"github_url": "https://github.com/AgentWorkforce/agent-assistant",
+		"npm_name": "@agent-assistant/cloudflare-runtime",
+		"description": "Cloudflare-specific runtime adapters for Agent Assistant persona workers.",
+		"keywords": [],
+		"version": "0.1.6",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-26T07:24:39Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 2,
+			"theme": 0,
+			"provider": 4
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

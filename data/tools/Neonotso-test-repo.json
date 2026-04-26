@@ -1,0 +1,27 @@
+{
+	"id": "Neonotso-test-repo",
+	"name": "Neonotso-test-repo",
+	"url": "https://github.com/Neonotso/test-repo",
+	"source": "github-search",
+	"description": "Test repository creation via pi-coding-agent",
+	"metadata": {
+		"description": "Test repository creation via pi-coding-agent",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-26T04:54:55Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

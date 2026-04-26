@@ -1,0 +1,36 @@
+{
+	"id": "hoomanjs",
+	"name": "hoomanjs",
+	"url": "https://www.npmjs.com/package/hoomanjs",
+	"source": "npm-search",
+	"description": "Hackable Bun-powered AI agent toolkit for building local CLI, ACP, MCP, and channel-driven workflows.",
+	"metadata": {
+		"github_url": "https://github.com/vaibhavpandeyvpz/hooman",
+		"npm_name": "hoomanjs",
+		"description": "Hackable Bun-powered AI agent toolkit for building local CLI, ACP, MCP, and channel-driven workflows.",
+		"keywords": ["acp", "agent", "ai", "bun", "chat", "cli", "llm", "mcp", "skills", "strands"],
+		"version": "1.17.3",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 8,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T15:29:42Z",
+		"topics": ["agent", "agentic-ai", "agents", "anthropic", "artificial-intelligence", "bedrock", "claude", "clawdbot", "gemma", "gemma4", "moltbot", "ollama", "openai", "openclaw"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://vaibhavpandey.com/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 10,
+			"theme": 0,
+			"provider": 29
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "provider"
+}

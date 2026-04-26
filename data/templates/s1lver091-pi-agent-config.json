@@ -1,0 +1,32 @@
+{
+	"id": "s1lver091-pi-agent-config",
+	"name": "s1lver091-pi-agent-config",
+	"url": "https://github.com/s1lver091/pi-agent-config",
+	"source": "github-search",
+	"description": "Personal pi coding agent setup: extensions, skills, subagents and prompt templates for a safer and more structured AI assisted development",
+	"metadata": {
+		"description": "Personal pi coding agent setup: extensions, skills, subagents and prompt templates for a safer and more structured AI assisted development",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["ai", "ai-coding", "coding", "coding-agent", "dev", "developer-tools", "development", "open-source", "pi", "pi-agent", "productivity", "prompt", "prompt-templates", "prompts", "safety", "skills", "subagents", "template", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-25T14:20:20Z",
+		"_readme_category_scores": {
+			"extension": 13,
+			"tool": 0,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "template"
+}

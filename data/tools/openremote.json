@@ -1,0 +1,36 @@
+{
+	"id": "openremote",
+	"name": "openremote",
+	"url": "https://www.npmjs.com/package/openremote",
+	"source": "npm-search",
+	"description": "OpenRemote CLI — control your AI coding agent (Codex, Qwen, Claude) from your iPhone",
+	"metadata": {
+		"github_url": "https://github.com/YnsELY/openremote-cli",
+		"npm_name": "openremote",
+		"description": "OpenRemote CLI — control your AI coding agent (Codex, Qwen, Claude) from your iPhone",
+		"keywords": ["openremote", "codex", "claude", "qwen", "ai", "cli", "remote", "mobile", "agent"],
+		"version": "1.4.1",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T12:12:47Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 16,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

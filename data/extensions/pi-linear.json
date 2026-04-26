@@ -1,0 +1,21 @@
+{
+	"id": "pi-linear",
+	"name": "pi-linear",
+	"url": "https://www.npmjs.com/package/pi-linear",
+	"source": "npm-search",
+	"description": "Pi extension for Linear issue tracking — search, create, update issues, manage teams, and track work from your terminal.",
+	"metadata": {
+		"github_url": "https://github.com/lucianojr/pi-linear",
+		"npm_name": "pi-linear",
+		"description": "Pi extension for Linear issue tracking — search, create, update issues, manage teams, and track work from your terminal.",
+		"keywords": ["pi-package", "linear", "issue-tracking", "project-management"],
+		"version": "0.2.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

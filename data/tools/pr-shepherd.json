@@ -1,0 +1,36 @@
+{
+	"id": "pr-shepherd",
+	"name": "pr-shepherd",
+	"url": "https://www.npmjs.com/package/pr-shepherd",
+	"source": "npm-search",
+	"description": "Autonomous PR CI monitor and review-comment resolver for Claude Code",
+	"metadata": {
+		"github_url": "https://github.com/jonathanong/pr-shepherd",
+		"npm_name": "pr-shepherd",
+		"description": "Autonomous PR CI monitor and review-comment resolver for Claude Code",
+		"keywords": ["github", "pull-request", "ci", "code-review", "automation", "claude", "claude-code"],
+		"version": "0.9.0",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 3,
+		"forks": 0,
+		"open_issues": 4,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T23:52:59Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 10,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,21 @@
+{
+	"id": "cc-devflow",
+	"name": "cc-devflow",
+	"url": "https://www.npmjs.com/package/cc-devflow",
+	"source": "npm-search",
+	"description": "Multi-platform CLI and skill pack for agent coding",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "cc-devflow",
+		"description": "Multi-platform CLI and skill pack for agent coding",
+		"keywords": [],
+		"version": "4.4.1",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

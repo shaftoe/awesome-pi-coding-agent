@@ -1,0 +1,21 @@
+{
+	"id": "relay-coding-agent",
+	"name": "relay-coding-agent",
+	"url": "https://www.npmjs.com/package/relay-coding-agent",
+	"source": "npm-search",
+	"description": "ACP-compatible coding agent using OpenAI-compatible relay APIs",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "relay-coding-agent",
+		"description": "ACP-compatible coding agent using OpenAI-compatible relay APIs",
+		"keywords": ["acp", "agent", "jetbrains", "openai-compatible", "relay"],
+		"version": "0.38.0",
+		"discovery_hint": "npm:pi-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

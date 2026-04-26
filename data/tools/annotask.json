@@ -1,0 +1,21 @@
+{
+	"id": "annotask",
+	"name": "annotask",
+	"url": "https://www.npmjs.com/package/annotask",
+	"source": "npm-search",
+	"description": "Visual UI design tool for web apps. Make changes in the browser and generate structured reports that AI agents can apply to source code. Works with Vue, React, Svelte, SolidJS, and plain HTML via Vite or Webpack.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "annotask",
+		"description": "Visual UI design tool for web apps. Make changes in the browser and generate structured reports that AI agents can apply to source code. Works with Vue, React, Svelte, SolidJS, and plain HTML via Vite or Webpack.",
+		"keywords": [],
+		"version": "0.2.6",
+		"discovery_hint": "npm:pi-coding-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

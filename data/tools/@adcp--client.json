@@ -1,0 +1,36 @@
+{
+	"id": "@adcp/client",
+	"name": "@adcp/client",
+	"url": "https://www.npmjs.com/package/@adcp/client",
+	"source": "npm-search",
+	"description": "AdCP client library with protocol support for MCP and A2A",
+	"metadata": {
+		"github_url": "https://github.com/adcontextprotocol/adcp-client",
+		"npm_name": "@adcp/client",
+		"description": "AdCP client library with protocol support for MCP and A2A",
+		"keywords": ["adcp", "mcp", "a2a", "protocol", "client", "library", "advertising", "testing"],
+		"version": "5.19.0",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 15,
+		"forks": 10,
+		"open_issues": 17,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-26T00:48:04Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://adcontextprotocol.github.io/adcp-client/",
+		"_readme_category_scores": {
+			"extension": 7,
+			"tool": 76,
+			"theme": 0,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "tool"
+}

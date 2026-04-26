@@ -1,0 +1,32 @@
+{
+	"id": "manusajith-pi-ampere",
+	"name": "manusajith-pi-ampere",
+	"url": "https://github.com/manusajith/pi-ampere",
+	"source": "github-search",
+	"description": "Amp-inspired framed editor UI and Tokyo Night theme for pi",
+	"metadata": {
+		"description": "Amp-inspired framed editor UI and Tokyo Night theme for pi",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["amp", "ampere", "pi", "pi-extension", "pi-package", "theme", "tokyo-night", "tui"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/manusajith/pi-ampere#readme",
+		"discovery_hint": "github:topic:pi-extension",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-25T12:12:10Z",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 6,
+			"provider": 2
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "theme"
+}

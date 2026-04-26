@@ -1,0 +1,36 @@
+{
+	"id": "@polymeshassociation/browser-extension-signing-manager",
+	"name": "@polymeshassociation/browser-extension-signing-manager",
+	"url": "https://www.npmjs.com/package/@polymeshassociation/browser-extension-signing-manager",
+	"source": "npm-search",
+	"description": "Polymesh SDK signing manager for signing transaction within a web browser",
+	"metadata": {
+		"github_url": "https://github.com/PolymeshAssociation/browser-extension-signing-manager",
+		"npm_name": "@polymeshassociation/browser-extension-signing-manager",
+		"description": "Polymesh SDK signing manager for signing transaction within a web browser",
+		"keywords": [],
+		"version": "2.5.0",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-24T13:23:39Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 8,
+			"tool": 9,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

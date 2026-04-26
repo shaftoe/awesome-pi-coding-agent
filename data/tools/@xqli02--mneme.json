@@ -1,0 +1,36 @@
+{
+	"id": "@xqli02/mneme",
+	"name": "@xqli02/mneme",
+	"url": "https://www.npmjs.com/package/@xqli02/mneme",
+	"source": "npm-search",
+	"description": "Three-layer memory architecture for AI coding agents (Ledger + Beads + OpenCode)",
+	"metadata": {
+		"github_url": "https://github.com/CVPaul/mneme",
+		"npm_name": "@xqli02/mneme",
+		"description": "Three-layer memory architecture for AI coding agents (Ledger + Beads + OpenCode)",
+		"keywords": ["ai", "agent", "memory", "coding-agent", "opencode", "beads", "context-management"],
+		"version": "0.1.15",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2026-02-27T10:34:26Z",
+		"topics": ["agent-memory", "ai-agent", "cli", "coding-agent", "context-management", "developer-tools", "llm", "memory", "opencode", "task-tracking"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/@xqli02/mneme",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 4,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 60,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

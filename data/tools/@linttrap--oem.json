@@ -1,0 +1,36 @@
+{
+	"id": "@linttrap/oem",
+	"name": "@linttrap/oem",
+	"url": "https://www.npmjs.com/package/@linttrap/oem",
+	"source": "npm-search",
+	"description": "A novel UI library for writing reactive html with vanilla javascript",
+	"metadata": {
+		"github_url": "https://github.com/linttrapmedia/oem",
+		"npm_name": "@linttrap/oem",
+		"description": "A novel UI library for writing reactive html with vanilla javascript",
+		"keywords": [],
+		"version": "3.0.0",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 6,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-03-01T23:19:33Z",
+		"topics": ["framework", "frontend", "library", "react", "svelte", "vue"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "http://oem.js.org",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 61,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

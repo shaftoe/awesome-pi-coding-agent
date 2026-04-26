@@ -1,0 +1,36 @@
+{
+	"id": "omni-coder-kit",
+	"name": "omni-coder-kit",
+	"url": "https://www.npmjs.com/package/omni-coder-kit",
+	"source": "npm-search",
+	"description": "CLI inject mindset + SDLC workflow + skills into AI coding agents — Claude Code, Codex CLI, Cursor, Windsurf, Antigravity",
+	"metadata": {
+		"github_url": "https://github.com/TAV99/omni-coder-kit",
+		"npm_name": "omni-coder-kit",
+		"description": "CLI inject mindset + SDLC workflow + skills into AI coding agents — Claude Code, Codex CLI, Cursor, Windsurf, Antigravity",
+		"keywords": ["ai", "cli", "claude", "claude-code", "codex", "cursor", "windsurf", "antigravity", "agents-md", "sdlc", "workflow", "prompt-engineering", "developer-tools", "skills-sh", "karpathy"],
+		"version": "2.4.2",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "ISC",
+		"last_commit": "2026-04-26T07:17:43Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://tav99.github.io/omni-coder-kit/",
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 21,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

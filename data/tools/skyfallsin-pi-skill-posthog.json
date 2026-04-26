@@ -1,0 +1,32 @@
+{
+	"id": "skyfallsin-pi-skill-posthog",
+	"name": "skyfallsin-pi-skill-posthog",
+	"url": "https://github.com/skyfallsin/pi-skill-posthog",
+	"source": "github-search",
+	"description": "pi skill for querying PostHog analytics via HogQL",
+	"metadata": {
+		"description": "pi skill for querying PostHog analytics via HogQL",
+		"stars": 0,
+		"forks": 0,
+		"language": "JavaScript",
+		"topics": ["ai-agent", "analytics", "hogql", "javascript", "pi-coding-agent", "posthog"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-25T20:49:12Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

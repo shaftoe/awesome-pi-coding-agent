@@ -1,0 +1,36 @@
+{
+	"id": "@macha434/readme-bilingual-creator",
+	"name": "@macha434/readme-bilingual-creator",
+	"url": "https://www.npmjs.com/package/@macha434/readme-bilingual-creator",
+	"source": "npm-search",
+	"description": "Install the README bilingual creator skills into ~/.agents and ~/.claude.",
+	"metadata": {
+		"github_url": "https://github.com/macha434/readme-bilingual-creator",
+		"npm_name": "@macha434/readme-bilingual-creator",
+		"description": "Install the README bilingual creator skills into ~/.agents and ~/.claude.",
+		"keywords": [],
+		"version": "0.1.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-19T07:56:02Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

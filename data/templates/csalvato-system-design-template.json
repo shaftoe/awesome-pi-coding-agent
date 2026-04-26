@@ -1,0 +1,32 @@
+{
+	"id": "csalvato-system-design-template",
+	"name": "csalvato-system-design-template",
+	"url": "https://github.com/csalvato/system-design-template",
+	"source": "github-search",
+	"description": "Agent-first system design template. 10-phase structured process. Works with Claude Code, Pi, Cursor, Codex, or any AI coding agent.",
+	"metadata": {
+		"description": "Agent-first system design template. 10-phase structured process. Works with Claude Code, Pi, Cursor, Codex, or any AI coding agent.",
+		"stars": 0,
+		"forks": 0,
+		"language": null,
+		"topics": ["ai-agent", "architecture", "claude-code", "cursor", "pi-agent", "system-design", "template"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-25T17:29:04Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "template"
+}

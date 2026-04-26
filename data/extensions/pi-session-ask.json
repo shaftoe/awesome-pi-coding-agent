@@ -1,0 +1,36 @@
+{
+	"id": "pi-session-ask",
+	"name": "pi-session-ask",
+	"url": "https://www.npmjs.com/package/pi-session-ask",
+	"source": "npm-search",
+	"description": "Allows the agent or user to ask questions about the current session's pre-compaction history, parent (if forked) sessions' histories, or any other sessions' histories, via a subagent (keeping current context clean).",
+	"metadata": {
+		"github_url": "https://github.com/w-winter/dot314",
+		"npm_name": "pi-session-ask",
+		"description": "Allows the agent or user to ask questions about the current session's pre-compaction history, parent (if forked) sessions' histories, or any other sessions' histories, via a subagent (keeping current context clean).",
+		"keywords": ["pi-package", "pi", "pi-coding-agent", "session", "compaction"],
+		"version": "0.2.2",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 90,
+		"forks": 11,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T14:10:20Z",
+		"topics": ["pi", "pi-agent", "pi-coding-agent", "pi-extension", "pi-package", "repoprompt"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 44,
+			"tool": 9,
+			"theme": 5,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 79,
+		"level": "active"
+	},
+	"category": "extension"
+}

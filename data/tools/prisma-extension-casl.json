@@ -1,0 +1,36 @@
+{
+	"id": "prisma-extension-casl",
+	"name": "prisma-extension-casl",
+	"url": "https://www.npmjs.com/package/prisma-extension-casl",
+	"source": "npm-search",
+	"description": "Enforce casl abilities on prisma client ",
+	"metadata": {
+		"github_url": "https://github.com/dennemark/prisma-extension-casl",
+		"npm_name": "prisma-extension-casl",
+		"description": "Enforce casl abilities on prisma client ",
+		"keywords": ["prisma", "@prisma/client", "extension"],
+		"version": "1.3.7",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 13,
+		"forks": 1,
+		"open_issues": 6,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2025-10-27T17:57:43Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 11,
+			"tool": 19,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 51,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

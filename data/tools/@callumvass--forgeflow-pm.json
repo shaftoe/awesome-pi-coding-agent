@@ -1,0 +1,36 @@
+{
+	"id": "@callumvass/forgeflow-pm",
+	"name": "@callumvass/forgeflow-pm",
+	"url": "https://www.npmjs.com/package/@callumvass/forgeflow-pm",
+	"source": "npm-search",
+	"description": "PM pipeline for Pi — PRD refinement, issue creation, and continue.",
+	"metadata": {
+		"github_url": "https://github.com/CallumVass/forgeflow",
+		"npm_name": "@callumvass/forgeflow-pm",
+		"description": "PM pipeline for Pi — PRD refinement, issue creation, and continue.",
+		"keywords": ["pi-package"],
+		"version": "0.31.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 5,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-12T20:16:50Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 10,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

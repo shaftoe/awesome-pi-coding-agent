@@ -1,0 +1,36 @@
+{
+	"id": "@salesforce/pwa-kit-extension-sdk",
+	"name": "@salesforce/pwa-kit-extension-sdk",
+	"url": "https://www.npmjs.com/package/@salesforce/pwa-kit-extension-sdk",
+	"source": "npm-search",
+	"description": ":loudspeaker: Hey there, Salesforce Commerce Cloud community!",
+	"metadata": {
+		"github_url": "https://github.com/SalesforceCommerceCloud/pwa-kit",
+		"npm_name": "@salesforce/pwa-kit-extension-sdk",
+		"description": ":loudspeaker: Hey there, Salesforce Commerce Cloud community!",
+		"keywords": [],
+		"version": "4.0.0-extensibility-preview.4",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 356,
+		"forks": 223,
+		"open_issues": 256,
+		"language": "JavaScript",
+		"license": "BSD-3-Clause",
+		"last_commit": "2026-04-25T00:03:20Z",
+		"topics": ["ecommerce", "javascript", "monorepo", "nodejs", "progressive-web-app", "pwa", "react", "salesforce", "salesforce-developers", "storefront"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://developer.salesforce.com/docs/commerce/pwa-kit-managed-runtime/guide/pwa-kit-overview.html",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "pi-mono-auto-fix",
+	"name": "pi-mono-auto-fix",
+	"url": "https://www.npmjs.com/package/pi-mono-auto-fix",
+	"source": "npm-search",
+	"description": "Pi extension that runs language-appropriate fixers (eslint, black, prettier, ...) on files touched during a turn",
+	"metadata": {
+		"github_url": "https://github.com/emanuelcasco/pi-mono-extensions",
+		"npm_name": "pi-mono-auto-fix",
+		"description": "Pi extension that runs language-appropriate fixers (eslint, black, prettier, ...) on files touched during a turn",
+		"keywords": ["pi-package", "pi-extension"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 31,
+		"forks": 4,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T20:21:44Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 50,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "extension"
+}

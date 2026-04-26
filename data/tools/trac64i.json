@@ -1,0 +1,36 @@
+{
+	"id": "trac64i",
+	"name": "trac64i",
+	"url": "https://www.npmjs.com/package/trac64i",
+	"source": "npm-search",
+	"description": "TRAC-64 text-processing language interpreter (Etudes for Programmers, Ch. 7)",
+	"metadata": {
+		"github_url": "https://github.com/begoon/trac",
+		"npm_name": "trac64i",
+		"description": "TRAC-64 text-processing language interpreter (Etudes for Programmers, Ch. 7)",
+		"keywords": ["trac", "trac64", "trac64i", "interpreter", "text-processing", "etude", "wetherell"],
+		"version": "1.0.2",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-17T18:17:15Z",
+		"topics": ["interpreter", "trac"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

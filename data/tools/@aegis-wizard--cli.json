@@ -1,0 +1,36 @@
+{
+	"id": "@aegis-wizard/cli",
+	"name": "@aegis-wizard/cli",
+	"url": "https://www.npmjs.com/package/@aegis-wizard/cli",
+	"source": "npm-search",
+	"description": "AEGIS Wizard — scaffold-wizard + knowledge-base + brief-generator CLI. Asks thorough questions, compiles answers + patterns into an agent-consumable Markdown brief for building institutional-grade Next.js + Supabase + shadcn SaaS in one day. Complementary",
+	"metadata": {
+		"github_url": "https://github.com/RideMatch1/a.e.g.i.s",
+		"npm_name": "@aegis-wizard/cli",
+		"description": "AEGIS Wizard — scaffold-wizard + knowledge-base + brief-generator CLI. Asks thorough questions, compiles answers + patterns into an agent-consumable Markdown brief for building institutional-grade Next.js + Supabase + shadcn SaaS in one day. Complementary",
+		"keywords": ["scaffold", "wizard", "nextjs", "supabase", "shadcn", "saas", "cli", "brief-generator", "agent-consumable", "claude-code", "codex", "cursor", "institutional-grade"],
+		"version": "0.17.4",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 3,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T19:21:15Z",
+		"topics": ["audit", "cli", "compliance", "dast", "gdpr", "mcp", "nextjs", "owasp", "sast", "scanner", "security", "supabase", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/RideMatch1/a.e.g.i.s#readme",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 24,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

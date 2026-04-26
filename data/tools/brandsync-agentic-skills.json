@@ -1,0 +1,36 @@
+{
+	"id": "brandsync-agentic-skills",
+	"name": "brandsync-agentic-skills",
+	"url": "https://www.npmjs.com/package/brandsync-agentic-skills",
+	"source": "npm-search",
+	"description": "Framework adapter skills for BrandSync MCP — installs into Claude Code automatically",
+	"metadata": {
+		"github_url": "https://github.com/vivka-eg/Brandsync-agentic-skills",
+		"npm_name": "brandsync-agentic-skills",
+		"description": "Framework adapter skills for BrandSync MCP — installs into Claude Code automatically",
+		"keywords": ["brandsync", "claude-code", "design-system", "mudblazor", "mcp", "claude"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": null,
+		"last_commit": "2026-04-17T09:40:57Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

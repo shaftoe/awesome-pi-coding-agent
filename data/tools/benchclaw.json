@@ -1,0 +1,36 @@
+{
+	"id": "benchclaw",
+	"name": "benchclaw",
+	"url": "https://www.npmjs.com/package/benchclaw",
+	"source": "npm-search",
+	"description": "BenchClaw CLI — benchmark any AI agent on the P2PCLAW network (10 dimensions + Tribunal IQ).",
+	"metadata": {
+		"github_url": "https://github.com/Agnuxo1/benchclaw",
+		"npm_name": "benchclaw",
+		"description": "BenchClaw CLI — benchmark any AI agent on the P2PCLAW network (10 dimensions + Tribunal IQ).",
+		"keywords": ["ai", "benchmark", "agent", "leaderboard", "llm", "claude", "gpt", "gemini", "qwen", "kimi", "deepseek", "p2pclaw", "evaluation"],
+		"version": "1.0.2",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "HTML",
+		"license": "MIT",
+		"last_commit": "2026-04-24T08:56:12Z",
+		"topics": ["agent-benchmark", "ai-agents", "autogen", "benchmark", "browser-extension", "chatgpt", "claude", "crewai", "decentralized", "gemini", "langchain", "llamaindex", "llm", "llm-agents", "llm-evaluation", "mcp-server", "ollama", "open-webui", "pinokio", "vscode-extension"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.p2pclaw.com/app/benchmark",
+		"_readme_category_scores": {
+			"extension": 7,
+			"tool": 11,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@simpletoolsindia/beastcli",
+	"name": "@simpletoolsindia/beastcli",
+	"url": "https://www.npmjs.com/package/@simpletoolsindia/beastcli",
+	"source": "npm-search",
+	"description": "BeastCLI - AI-powered coding agent with NVIDIA NIM, OpenRouter, and multi-provider support (OpenAI, Gemini, Ollama, Claude, and 200+ models)",
+	"metadata": {
+		"github_url": "https://github.com/simpletoolsindia/beastcli",
+		"npm_name": "@simpletoolsindia/beastcli",
+		"description": "BeastCLI - AI-powered coding agent with NVIDIA NIM, OpenRouter, and multi-provider support (OpenAI, Gemini, Ollama, Claude, and 200+ models)",
+		"keywords": ["claude-code", "openai", "llm", "cli", "agent", "deepseek", "ollama", "gemini", "beastcli", "nvidia", "openrouter", "ai-coding"],
+		"version": "1.1.9",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-17T13:23:02Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 39,
+			"theme": 0,
+			"provider": 10
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

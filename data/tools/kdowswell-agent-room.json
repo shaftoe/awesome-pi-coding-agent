@@ -1,0 +1,32 @@
+{
+	"id": "kdowswell-agent-room",
+	"name": "kdowswell-agent-room",
+	"url": "https://github.com/kdowswell/agent-room",
+	"source": "github-search",
+	"description": "Mission-control dashboard for AI coding agents — runs locally, drives @mariozechner/pi-coding-agent sessions in parallel git worktrees",
+	"metadata": {
+		"description": "Mission-control dashboard for AI coding agents — runs locally, drives @mariozechner/pi-coding-agent sessions in parallel git worktrees",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-26T03:38:50Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 11,
+			"theme": 0,
+			"provider": 3
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

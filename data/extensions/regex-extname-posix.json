@@ -1,0 +1,21 @@
+{
+	"id": "regex-extname-posix",
+	"name": "regex-extname-posix",
+	"url": "https://www.npmjs.com/package/regex-extname-posix",
+	"source": "npm-search",
+	"description": "Regular expression to capture a POSIX filename extension.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "regex-extname-posix",
+		"description": "Regular expression to capture a POSIX filename extension.",
+		"keywords": ["regex", "regexp", "regular", "expression", "string", "path", "capture", "match", "ext", "extname", "file", "filename", "posix"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:pi-extension",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

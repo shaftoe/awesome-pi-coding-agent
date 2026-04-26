@@ -1,0 +1,36 @@
+{
+	"id": "@tartinerlabs/skills",
+	"name": "@tartinerlabs/skills",
+	"url": "https://www.npmjs.com/package/@tartinerlabs/skills",
+	"source": "npm-search",
+	"description": "Agent skills for git workflows, GitHub automation, security audits, code refactoring, and project tooling",
+	"metadata": {
+		"github_url": "https://github.com/tartinerlabs/skills",
+		"npm_name": "@tartinerlabs/skills",
+		"description": "Agent skills for git workflows, GitHub automation, security audits, code refactoring, and project tooling",
+		"keywords": [],
+		"version": "1.18.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 6,
+		"forks": 1,
+		"open_issues": 3,
+		"language": "Shell",
+		"license": "MIT",
+		"last_commit": "2026-04-26T07:26:51Z",
+		"topics": ["agent-skills", "automation", "claude-code", "claude-code-skills", "cli", "code-quality", "developer-tools", "github-actions", "productivity", "tailwind-css"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

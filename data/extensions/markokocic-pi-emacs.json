@@ -1,0 +1,32 @@
+{
+	"id": "markokocic-pi-emacs",
+	"name": "markokocic-pi-emacs",
+	"url": "https://github.com/markokocic/pi-emacs",
+	"source": "github-search",
+	"description": "Set of Emacs realted tools for pi-mono pi coding agent",
+	"metadata": {
+		"description": "Set of Emacs realted tools for pi-mono pi coding agent",
+		"stars": 1,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["emacs", "extension", "pi", "pi-coding-agent", "pi-mono", "tool", "tools"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": "EPL-2.0",
+		"last_commit": "2026-04-24T14:04:43Z",
+		"_readme_category_scores": {
+			"extension": 6,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

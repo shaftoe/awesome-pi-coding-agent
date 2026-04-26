@@ -1,0 +1,36 @@
+{
+	"id": "nexo-brain",
+	"name": "nexo-brain",
+	"url": "https://www.npmjs.com/package/nexo-brain",
+	"source": "npm-search",
+	"description": "NEXO Brain — Shared brain for AI agents. Persistent memory, semantic RAG, natural forgetting, metacognitive guard, trust scoring, 150+ MCP tools. Works with Claude Code, Codex, Claude Desktop & any MCP client. 100% local, free.",
+	"metadata": {
+		"github_url": "https://github.com/wazionapps/nexo",
+		"npm_name": "nexo-brain",
+		"description": "NEXO Brain — Shared brain for AI agents. Persistent memory, semantic RAG, natural forgetting, metacognitive guard, trust scoring, 150+ MCP tools. Works with Claude Code, Codex, Claude Desktop & any MCP client. 100% local, free.",
+		"keywords": ["claude-code", "mcp", "cognitive-architecture", "memory", "ai-assistant", "vector-search", "atkinson-shiffrin", "knowledge-graph", "hnsw", "claim-graph", "dashboard", "launchagent", "systemd", "linux", "autonomous-agent", "somatic-markers", "nervous-system", "i18n", "openclaw", "openclaw-plugin", "auto-update", "auto-diary", "plugin-system", "schedule-json", "nexo-home", "deep-sleep", "emotional-intelligence", "overnight-analysis", "cron-manifest", "session-tone", "mood-tracking", "productivity-analysis", "runtime-cli", "doctor", "executable-skills", "work-continuity", "personal-scripts", "script-registry", "claude-code-plugin", "managed-evolution", "nexo-chat"],
+		"version": "7.9.28",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 11,
+		"forks": 6,
+		"open_issues": 7,
+		"language": "Python",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-26T07:59:39Z",
+		"topics": ["ai-memory", "atkinson-shiffrin", "autonomous-agent", "claude-code", "claude-code-plugin", "codex", "cognitive-architecture", "knowledge-graph", "local-first", "mcp", "mcp-server", "memory", "metacognition", "model-context-protocol", "natural-forgetting", "rag", "semantic-search", "shared-brain", "trust-scoring", "vector-search"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://nexo-brain.com",
+		"_readme_category_scores": {
+			"extension": 44,
+			"tool": 115,
+			"theme": 3,
+			"provider": 8
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

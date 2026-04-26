@@ -1,0 +1,21 @@
+{
+	"id": "create-pi-ag-ui",
+	"name": "create-pi-ag-ui",
+	"url": "https://www.npmjs.com/package/create-pi-ag-ui",
+	"source": "npm-search",
+	"description": "Scaffold a Pi AG-UI project — AG-UI protocol bridge with CopilotKit frontend",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "create-pi-ag-ui",
+		"description": "Scaffold a Pi AG-UI project — AG-UI protocol bridge with CopilotKit frontend",
+		"keywords": ["ag-ui", "copilotkit", "pi", "agent", "scaffold", "create", "template"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:pi-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

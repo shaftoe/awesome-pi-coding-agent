@@ -1,0 +1,21 @@
+{
+	"id": "@jeffkafka/pi-nobody",
+	"name": "@jeffkafka/pi-nobody",
+	"url": "https://www.npmjs.com/package/@jeffkafka/pi-nobody",
+	"source": "npm-search",
+	"description": "Starter Pi package for building and publishing your own Pi agent",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@jeffkafka/pi-nobody",
+		"description": "Starter Pi package for building and publishing your own Pi agent",
+		"keywords": ["pi-package", "pi", "agent", "coding-agent"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

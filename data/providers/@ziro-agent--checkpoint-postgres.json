@@ -1,0 +1,36 @@
+{
+	"id": "@ziro-agent/checkpoint-postgres",
+	"name": "@ziro-agent/checkpoint-postgres",
+	"url": "https://www.npmjs.com/package/@ziro-agent/checkpoint-postgres",
+	"source": "npm-search",
+	"description": "Production Postgres Checkpointer adapter for ZiroAgent SDK — durable agent state with row-locked snapshot persistence (RFC 0006).",
+	"metadata": {
+		"github_url": "https://github.com/ziroagent/sdk-typescript",
+		"npm_name": "@ziro-agent/checkpoint-postgres",
+		"description": "Production Postgres Checkpointer adapter for ZiroAgent SDK — durable agent state with row-locked snapshot persistence (RFC 0006).",
+		"keywords": ["ai", "agent", "checkpoint", "durable", "postgres", "ziroagent"],
+		"version": "0.3.15",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 2,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-25T16:37:23Z",
+		"topics": ["agent-framework", "agents", "ai", "ai-agents", "ai-sdk", "anthropic", "claude", "gpt", "llm", "mcp", "model-context-protocol", "observability", "openai", "opentelemetry", "pgvector", "rag", "tracing", "typescript", "vector-database", "workflow"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://ziroagent.com",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 6,
+			"theme": 0,
+			"provider": 12
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

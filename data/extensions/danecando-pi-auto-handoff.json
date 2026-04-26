@@ -1,0 +1,27 @@
+{
+	"id": "danecando-pi-auto-handoff",
+	"name": "danecando-pi-auto-handoff",
+	"url": "https://github.com/danecando/pi-auto-handoff",
+	"source": "github-search",
+	"description": "Auto-handoff extension for pi coding agent — transfers context to a fresh session when a conversation gets long",
+	"metadata": {
+		"description": "Auto-handoff extension for pi coding agent — transfers context to a fresh session when a conversation gets long",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:pi-coding-agent",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-26T01:43:06Z",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

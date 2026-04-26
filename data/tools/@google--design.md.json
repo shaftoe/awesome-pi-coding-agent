@@ -1,0 +1,36 @@
+{
+	"id": "@google/design.md",
+	"name": "@google/design.md",
+	"url": "https://www.npmjs.com/package/@google/design.md",
+	"source": "npm-search",
+	"description": "Bridging design systems and code: a linter and exporter for the DESIGN.md format",
+	"metadata": {
+		"github_url": "https://github.com/google-labs-code/design.md",
+		"npm_name": "@google/design.md",
+		"description": "Bridging design systems and code: a linter and exporter for the DESIGN.md format",
+		"keywords": ["design.md"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 8341,
+		"forks": 684,
+		"open_issues": 29,
+		"language": "TypeScript",
+		"license": "Apache-2.0",
+		"last_commit": "2026-04-22T18:22:35Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://stitch.withgoogle.com/docs/design-md/specification",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 2,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

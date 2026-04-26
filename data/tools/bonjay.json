@@ -1,0 +1,36 @@
+{
+	"id": "bonjay",
+	"name": "bonjay",
+	"url": "https://www.npmjs.com/package/bonjay",
+	"source": "npm-search",
+	"description": "AI Skill Generator — scaffold AI rules & skills for your project interactively",
+	"metadata": {
+		"github_url": "https://github.com/saifoelloh/bonjay",
+		"npm_name": "bonjay",
+		"description": "AI Skill Generator — scaffold AI rules & skills for your project interactively",
+		"keywords": ["ai", "skills", "rules", "cursor", "claude", "gemini", "cli", "generator", "developer-tools"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T09:29:29Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

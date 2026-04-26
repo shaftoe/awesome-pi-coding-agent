@@ -1,0 +1,36 @@
+{
+	"id": "skills4sh",
+	"name": "skills4sh",
+	"url": "https://www.npmjs.com/package/skills4sh",
+	"source": "npm-search",
+	"description": "Agent skills for Claude Code, Cursor, and VS Code (Copilot).",
+	"metadata": {
+		"github_url": "https://github.com/t4sh/skills4sh",
+		"npm_name": "skills4sh",
+		"description": "Agent skills for Claude Code, Cursor, and VS Code (Copilot).",
+		"keywords": [],
+		"version": "0.2.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-19T17:31:47Z",
+		"topics": ["skills", "skills-sh"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://skills.sh/t4sh/skills4sh",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

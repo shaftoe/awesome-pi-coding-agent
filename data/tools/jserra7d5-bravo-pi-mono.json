@@ -1,0 +1,32 @@
+{
+	"id": "jserra7d5-bravo-pi-mono",
+	"name": "jserra7d5-bravo-pi-mono",
+	"url": "https://github.com/jserra7d5/bravo-pi-mono",
+	"source": "github-search",
+	"description": "",
+	"metadata": {
+		"description": "",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:pi-mono",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-25T20:46:12Z",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

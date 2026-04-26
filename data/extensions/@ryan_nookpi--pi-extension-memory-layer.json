@@ -1,0 +1,36 @@
+{
+	"id": "@ryan_nookpi/pi-extension-memory-layer",
+	"name": "@ryan_nookpi/pi-extension-memory-layer",
+	"url": "https://www.npmjs.com/package/@ryan_nookpi/pi-extension-memory-layer",
+	"source": "npm-search",
+	"description": "Long-term memory layer for pi — remember, recall, forget, and browse memories across sessions.",
+	"metadata": {
+		"github_url": "https://github.com/Jonghakseo/pi-extension",
+		"npm_name": "@ryan_nookpi/pi-extension-memory-layer",
+		"description": "Long-term memory layer for pi — remember, recall, forget, and browse memories across sessions.",
+		"keywords": ["pi-package"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 3,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-25T12:12:22Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 31,
+			"tool": 4,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

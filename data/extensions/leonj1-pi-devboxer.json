@@ -1,0 +1,32 @@
+{
+	"id": "leonj1-pi-devboxer",
+	"name": "leonj1-pi-devboxer",
+	"url": "https://github.com/leonj1/pi-devboxer",
+	"source": "github-search",
+	"description": "pi extension that wraps the DevBoxer CLI as LLM-callable tools",
+	"metadata": {
+		"description": "pi extension that wraps the DevBoxer CLI as LLM-callable tools",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["ai", "coding-agent", "devboxer", "pi-extension", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"discovery_hint": "github:topic:pi-extension",
+		"open_issues": 0,
+		"license": "MIT",
+		"last_commit": "2026-04-26T02:29:00Z",
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 3,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

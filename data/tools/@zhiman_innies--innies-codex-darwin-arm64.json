@@ -1,0 +1,21 @@
+{
+	"id": "@zhiman_innies/innies-codex-darwin-arm64",
+	"name": "@zhiman_innies/innies-codex-darwin-arm64",
+	"url": "https://www.npmjs.com/package/@zhiman_innies/innies-codex-darwin-arm64",
+	"source": "npm-search",
+	"description": "<p align=\"center\"><code>npm i -g @openai/codex</code><br />or <code>brew install --cask codex</code></p> <p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer. <p align=\"center\">   <img src=\"https://",
+	"metadata": {
+		"github_url": "https://github.com/zhimanai/innies-codex",
+		"npm_name": "@zhiman_innies/innies-codex-darwin-arm64",
+		"description": "<p align=\"center\"><code>npm i -g @openai/codex</code><br />or <code>brew install --cask codex</code></p> <p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer. <p align=\"center\">   <img src=\"https://",
+		"keywords": [],
+		"version": "0.122.18-darwin-arm64",
+		"discovery_hint": "npm:pi-coding-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

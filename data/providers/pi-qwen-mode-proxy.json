@@ -1,0 +1,36 @@
+{
+	"id": "pi-qwen-mode-proxy",
+	"name": "pi-qwen-mode-proxy",
+	"url": "https://www.npmjs.com/package/pi-qwen-mode-proxy",
+	"source": "npm-search",
+	"description": "Sampling mode proxy for Qwen models served via llama.cpp — switch between thinking, coding, and instruct modes",
+	"metadata": {
+		"github_url": "https://github.com/darthrax/pi-qwen-mode-proxy",
+		"npm_name": "pi-qwen-mode-proxy",
+		"description": "Sampling mode proxy for Qwen models served via llama.cpp — switch between thinking, coding, and instruct modes",
+		"keywords": ["pi-package", "pi-extension", "qwen", "llama.cpp", "llamacpp"],
+		"version": "1.0.1",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-25T20:09:44Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 0,
+			"theme": 0,
+			"provider": 6
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

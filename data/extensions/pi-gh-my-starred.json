@@ -1,0 +1,36 @@
+{
+	"id": "pi-gh-my-starred",
+	"name": "pi-gh-my-starred",
+	"url": "https://www.npmjs.com/package/pi-gh-my-starred",
+	"source": "npm-search",
+	"description": "PI extension for browsing GitHub starred repositories and star lists",
+	"metadata": {
+		"github_url": "https://github.com/kylebrodeur/gh-my-starred",
+		"npm_name": "pi-gh-my-starred",
+		"description": "PI extension for browsing GitHub starred repositories and star lists",
+		"keywords": ["pi-package", "pi-extension", "github", "starred-repositories", "github-cli"],
+		"version": "0.2.3",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T23:08:36Z",
+		"topics": ["bash", "cli-tool", "fuzzy-search", "fzf", "gh-extension", "github", "github-cli", "starred-repositories", "stars"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 33,
+			"tool": 23,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

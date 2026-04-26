@@ -1,0 +1,36 @@
+{
+	"id": "@playwright-repl/browser-extension",
+	"name": "@playwright-repl/browser-extension",
+	"url": "https://www.npmjs.com/package/@playwright-repl/browser-extension",
+	"source": "npm-search",
+	"description": "Dramaturg — Chrome extension with console, recorder, and element picker",
+	"metadata": {
+		"github_url": "https://github.com/stevez/playwright-repl",
+		"npm_name": "@playwright-repl/browser-extension",
+		"description": "Dramaturg — Chrome extension with console, recorder, and element picker",
+		"keywords": [],
+		"version": "0.26.1",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 9,
+		"forks": 4,
+		"open_issues": 10,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-26T04:22:41Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 17,
+			"tool": 10,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "extension"
+}

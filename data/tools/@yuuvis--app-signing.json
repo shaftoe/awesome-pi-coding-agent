@@ -1,0 +1,21 @@
+{
+	"id": "@yuuvis/app-signing",
+	"name": "@yuuvis/app-signing",
+	"url": "https://www.npmjs.com/package/@yuuvis/app-signing",
+	"source": "npm-search",
+	"description": "@yuuvis/app-signing is a yuuvis® MOMENTUM client app provides the ability to sign documents.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@yuuvis/app-signing",
+		"description": "@yuuvis/app-signing is a yuuvis® MOMENTUM client app provides the ability to sign documents.",
+		"keywords": [],
+		"version": "1.4.0",
+		"discovery_hint": "npm:pi-extension",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

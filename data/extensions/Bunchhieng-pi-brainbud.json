@@ -1,0 +1,32 @@
+{
+	"id": "Bunchhieng-pi-brainbud",
+	"name": "Bunchhieng-pi-brainbud",
+	"url": "https://github.com/Bunchhieng/pi-brainbud",
+	"source": "github-search",
+	"description": "A PI extension that delivers contextual programming tips while you vibe-code — without interrupting your session.",
+	"metadata": {
+		"description": "A PI extension that delivers contextual programming tips while you vibe-code — without interrupting your session.",
+		"stars": 0,
+		"forks": 0,
+		"language": "TypeScript",
+		"topics": ["pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"discovery_hint": "github:topic:pi-package",
+		"open_issues": 0,
+		"license": null,
+		"last_commit": "2026-04-26T01:31:46Z",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

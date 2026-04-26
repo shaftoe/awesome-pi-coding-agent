@@ -1,0 +1,36 @@
+{
+	"id": "clawdi",
+	"name": "clawdi",
+	"url": "https://www.npmjs.com/package/clawdi",
+	"source": "npm-search",
+	"description": "iCloud for AI Agents — cross-agent sessions, skills, memory, and vault.",
+	"metadata": {
+		"github_url": "https://github.com/Clawdi-AI/clawdi",
+		"npm_name": "clawdi",
+		"description": "iCloud for AI Agents — cross-agent sessions, skills, memory, and vault.",
+		"keywords": ["cli", "claude-code", "codex", "openclaw", "hermes", "ai-agents", "skills", "memory", "vault", "mcp"],
+		"version": "0.3.3",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 16,
+		"forks": 2,
+		"open_issues": 13,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T09:39:57Z",
+		"topics": ["agent", "agent-cloud", "claude-code", "codex", "hermes-agent", "openclaw"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://cloud.clawdi.ai/",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 31,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@the-forge-flow/tff-cc",
+	"name": "@the-forge-flow/tff-cc",
+	"url": "https://www.npmjs.com/package/@the-forge-flow/tff-cc",
+	"source": "npm-search",
+	"description": "Autonomous coding agent orchestrator for Claude Code",
+	"metadata": {
+		"github_url": "https://github.com/MonsieurBarti/The-Forge-Flow-CC",
+		"npm_name": "@the-forge-flow/tff-cc",
+		"description": "Autonomous coding agent orchestrator for Claude Code",
+		"keywords": ["claude-code", "plannotator", "orchestration"],
+		"version": "0.9.15",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 4,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-25T16:30:21Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 7,
+			"theme": 0,
+			"provider": 1
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

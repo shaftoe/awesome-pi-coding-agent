@@ -1,0 +1,21 @@
+{
+	"id": "@astrofoundry/pi-astro",
+	"name": "@astrofoundry/pi-astro",
+	"url": "https://www.npmjs.com/package/@astrofoundry/pi-astro",
+	"source": "npm-search",
+	"description": "Personal pi customizations (extensions, skills, prompts, themes) for the pi coding agent.",
+	"metadata": {
+		"github_url": "https://github.com/astrofoundry/pi-astro",
+		"npm_name": "@astrofoundry/pi-astro",
+		"description": "Personal pi customizations (extensions, skills, prompts, themes) for the pi coding agent.",
+		"keywords": ["pi-package"],
+		"version": "0.11.2",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "theme"
+}

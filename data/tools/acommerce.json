@@ -1,0 +1,21 @@
+{
+	"id": "acommerce",
+	"name": "acommerce",
+	"url": "https://www.npmjs.com/package/acommerce",
+	"source": "npm-search",
+	"description": "Acommerce CLI (acommerce.dev) — provision every account your stack needs from a local CLI.",
+	"metadata": {
+		"github_url": "https://github.com/acommerce/acommerce",
+		"npm_name": "acommerce",
+		"description": "Acommerce CLI (acommerce.dev) — provision every account your stack needs from a local CLI.",
+		"keywords": [],
+		"version": "0.2.0",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

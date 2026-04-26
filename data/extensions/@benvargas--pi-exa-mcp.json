@@ -1,0 +1,36 @@
+{
+	"id": "@benvargas/pi-exa-mcp",
+	"name": "@benvargas/pi-exa-mcp",
+	"url": "https://www.npmjs.com/package/@benvargas/pi-exa-mcp",
+	"source": "npm-search",
+	"description": "Exa MCP tools for pi - Web search and code context via Exa's Model Context Protocol",
+	"metadata": {
+		"github_url": "https://github.com/ben-vargas/pi-packages",
+		"npm_name": "@benvargas/pi-exa-mcp",
+		"description": "Exa MCP tools for pi - Web search and code context via Exa's Model Context Protocol",
+		"keywords": ["pi", "pi-package", "pi-extension", "pi-coding-agent", "ai", "exa", "mcp", "web-search", "code-search", "model-context-protocol"],
+		"version": "1.1.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 59,
+		"forks": 5,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-24T18:50:43Z",
+		"topics": ["pi", "pi-extension", "pi-mono", "pi-package"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "",
+		"_readme_category_scores": {
+			"extension": 10,
+			"tool": 0,
+			"theme": 2,
+			"provider": 5
+		}
+	},
+	"health": {
+		"score": 76,
+		"level": "active"
+	},
+	"category": "extension"
+}

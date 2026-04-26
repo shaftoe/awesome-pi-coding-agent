@@ -1,0 +1,21 @@
+{
+	"id": "kvakk-code",
+	"name": "kvakk-code",
+	"url": "https://www.npmjs.com/package/kvakk-code",
+	"source": "npm-search",
+	"description": "Browser-compatible coding agent library — LLM + virtual FS = Open Code-style agent",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "kvakk-code",
+		"description": "Browser-compatible coding agent library — LLM + virtual FS = Open Code-style agent",
+		"keywords": [],
+		"version": "0.1.1",
+		"discovery_hint": "npm:pi-coding-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,21 @@
+{
+	"id": "@neuron-mr-white/pi-zenmux",
+	"name": "@neuron-mr-white/pi-zenmux",
+	"url": "https://www.npmjs.com/package/@neuron-mr-white/pi-zenmux",
+	"source": "npm-search",
+	"description": "ZenMux provider extension for Pi — dynamic model discovery with caching",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@neuron-mr-white/pi-zenmux",
+		"description": "ZenMux provider extension for Pi — dynamic model discovery with caching",
+		"keywords": ["pi-package", "pi-extension", "zenmux", "llm", "ai", "provider", "gateway"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

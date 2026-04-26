@@ -1,0 +1,21 @@
+{
+	"id": "lism-cli",
+	"name": "lism-cli",
+	"url": "https://www.npmjs.com/package/lism-cli",
+	"source": "npm-search",
+	"description": "CLI for scaffolding projects and adding UI components for Lism CSS / Lism UI.",
+	"metadata": {
+		"github_url": "https://github.com/lism-css/lism-css.git#main",
+		"npm_name": "lism-cli",
+		"description": "CLI for scaffolding projects and adding UI components for Lism CSS / Lism UI.",
+		"keywords": ["lism-css", "cli", "scaffolding", "astro", "react"],
+		"version": "0.3.1",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

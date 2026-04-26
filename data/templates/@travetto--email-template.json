@@ -1,0 +1,36 @@
+{
+	"id": "@travetto/email-template",
+	"name": "@travetto/email-template",
+	"url": "https://www.npmjs.com/package/@travetto/email-template",
+	"source": "npm-search",
+	"description": "Email templating module",
+	"metadata": {
+		"github_url": "https://github.com/travetto/travetto",
+		"npm_name": "@travetto/email-template",
+		"description": "Email templating module",
+		"keywords": ["email", "inky", "templating", "mustache", "travetto", "typescript"],
+		"version": "3.1.19",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 23,
+		"forks": 3,
+		"open_issues": 4,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-22T12:19:30Z",
+		"topics": ["ast-transformations", "declarative", "decorators", "real-time", "testing", "typescript", "typescript-framework"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://travetto.dev",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "template"
+}

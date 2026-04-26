@@ -1,0 +1,36 @@
+{
+	"id": "tokentracker-cli",
+	"name": "tokentracker-cli",
+	"url": "https://www.npmjs.com/package/tokentracker-cli",
+	"source": "npm-search",
+	"description": "Token usage tracker for AI agent CLIs (Claude Code, Codex, Cursor, Kiro, Gemini, OpenCode, OpenClaw, Hermes, GitHub Copilot)",
+	"metadata": {
+		"github_url": "https://github.com/mm7894215/TokenTracker",
+		"npm_name": "tokentracker-cli",
+		"description": "Token usage tracker for AI agent CLIs (Claude Code, Codex, Cursor, Kiro, Gemini, OpenCode, OpenClaw, Hermes, GitHub Copilot)",
+		"keywords": ["token", "tracker", "ai", "claude", "codex", "cursor", "gemini", "kiro", "opencode", "usage", "cost"],
+		"version": "0.5.91",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 325,
+		"forks": 27,
+		"open_issues": 8,
+		"language": "JavaScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T14:01:41Z",
+		"topics": ["ai-tools", "claude-code", "cli", "codex-cli", "cost-tracker", "cursor", "developer-tools", "gemini-cli", "llm", "local-first", "macos", "menubar", "privacy-first", "token-tracker", "usage-tracker", "widget"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://token.rynn.me",
+		"_readme_category_scores": {
+			"extension": 7,
+			"tool": 54,
+			"theme": 0,
+			"provider": 6
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "tool"
+}

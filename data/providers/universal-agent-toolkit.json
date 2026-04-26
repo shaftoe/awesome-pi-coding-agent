@@ -1,0 +1,36 @@
+{
+	"id": "universal-agent-toolkit",
+	"name": "universal-agent-toolkit",
+	"url": "https://www.npmjs.com/package/universal-agent-toolkit",
+	"source": "npm-search",
+	"description": "> Production-hardened plugins for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [OpenCode](https://opencode.ai), and [Factory Droid](https://docs.factory.ai/cli/configuration/hooks-guide) — battle-tested hooks from real AI-assisted develo",
+	"metadata": {
+		"github_url": "https://github.com/YosefHayim/universal-agent-toolkit",
+		"npm_name": "universal-agent-toolkit",
+		"description": "> Production-hardened plugins for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [OpenCode](https://opencode.ai), and [Factory Droid](https://docs.factory.ai/cli/configuration/hooks-guide) — battle-tested hooks from real AI-assisted develo",
+		"keywords": [],
+		"version": "1.3.66",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T17:05:06Z",
+		"topics": ["ai-coding-assistant", "ai-plugins", "billing", "claude-code", "code-quality", "developer-tools", "hooks", "linting", "opencode", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://www.npmjs.com/package/universal-agent-toolkit/",
+		"_readme_category_scores": {
+			"extension": 1,
+			"tool": 6,
+			"theme": 0,
+			"provider": 14
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "provider"
+}

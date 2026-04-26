@@ -1,0 +1,36 @@
+{
+	"id": "agentforge-core",
+	"name": "agentforge-core",
+	"url": "https://www.npmjs.com/package/agentforge-core",
+	"source": "npm-search",
+	"description": "AgentForge core: Kubernetes-style control plane for AI agent workflows — declarative YAML agents, pipelines, gates, and state",
+	"metadata": {
+		"github_url": "https://github.com/mandarnilange/agentforge",
+		"npm_name": "agentforge-core",
+		"description": "AgentForge core: Kubernetes-style control plane for AI agent workflows — declarative YAML agents, pipelines, gates, and state",
+		"keywords": ["ai", "agents", "agentforge", "pipeline", "automation", "anthropic", "claude", "orchestration", "code-generation"],
+		"version": "0.2.0-rc.1",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-26T07:08:04Z",
+		"topics": ["agent-framework", "agent-orchestration", "ai-agents", "anthropic", "claude", "gemini", "human-in-the-loop", "llm", "multi-agent", "nodejs", "ollama", "openai", "opentelemetry", "pipeline", "typescript", "workflow-automation", "yaml"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://github.com/mandarnilange/agentforge",
+		"_readme_category_scores": {
+			"extension": 5,
+			"tool": 25,
+			"theme": 0,
+			"provider": 11
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

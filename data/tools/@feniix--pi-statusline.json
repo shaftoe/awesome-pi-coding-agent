@@ -1,0 +1,31 @@
+{
+	"id": "@feniix/pi-statusline",
+	"name": "@feniix/pi-statusline",
+	"url": "https://www.npmjs.com/package/@feniix/pi-statusline",
+	"source": "npm-search",
+	"description": "Fixed two-line status footer for pi with model, thinking, context, git, token, worktree, and skill indicators",
+	"metadata": {
+		"github_url": "https://github.com/feniix/pi-extensions",
+		"npm_name": "@feniix/pi-statusline",
+		"description": "Fixed two-line status footer for pi with model, thinking, context, git, token, worktree, and skill indicators",
+		"keywords": ["pi", "pi-package", "pi-extension", "pi-coding-agent", "statusline", "footer", "git"],
+		"version": "0.4.4",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 6,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-26T00:44:12Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 71,
+		"level": "active"
+	},
+	"category": "tool"
+}

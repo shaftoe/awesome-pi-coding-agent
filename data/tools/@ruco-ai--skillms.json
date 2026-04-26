@@ -1,0 +1,21 @@
+{
+	"id": "@ruco-ai/skillms",
+	"name": "@ruco-ai/skillms",
+	"url": "https://www.npmjs.com/package/@ruco-ai/skillms",
+	"source": "npm-search",
+	"description": "MCP server for skillms — analyze URLs and maintain a skill library in Claude Code",
+	"metadata": {
+		"github_url": "https://github.com/ruco-ai/skillms",
+		"npm_name": "@ruco-ai/skillms",
+		"description": "MCP server for skillms — analyze URLs and maintain a skill library in Claude Code",
+		"keywords": ["mcp", "claude", "skills", "seo", "content-strategy", "ai"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

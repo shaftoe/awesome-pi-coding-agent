@@ -1,0 +1,21 @@
+{
+	"id": "@launchnotes/editor-extensions",
+	"name": "@launchnotes/editor-extensions",
+	"url": "https://www.npmjs.com/package/@launchnotes/editor-extensions",
+	"source": "npm-search",
+	"description": "tiptap editor extensions to be shared between frontend and content",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@launchnotes/editor-extensions",
+		"description": "tiptap editor extensions to be shared between frontend and content",
+		"keywords": [],
+		"version": "1.0.122",
+		"discovery_hint": "npm:pi-extension",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

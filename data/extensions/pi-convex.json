@@ -1,0 +1,36 @@
+{
+	"id": "pi-convex",
+	"name": "pi-convex",
+	"url": "https://www.npmjs.com/package/pi-convex",
+	"source": "npm-search",
+	"description": "Pi extension for Convex Cloud - queries, mutations, project management, and best practices validation",
+	"metadata": {
+		"github_url": "https://github.com/serlismaldonado/pi-convex",
+		"npm_name": "pi-convex",
+		"description": "Pi extension for Convex Cloud - queries, mutations, project management, and best practices validation",
+		"keywords": ["pi-extension", "pi-package", "pi", "pi-coding-agent", "convex", "database", "backend"],
+		"version": "1.5.7",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 2,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-25T08:37:26Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 7,
+			"tool": 7,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "extension"
+}

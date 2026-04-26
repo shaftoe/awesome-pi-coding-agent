@@ -1,0 +1,36 @@
+{
+	"id": "@truecarry/vite-plugin-web-extension",
+	"name": "@truecarry/vite-plugin-web-extension",
+	"url": "https://www.npmjs.com/package/@truecarry/vite-plugin-web-extension",
+	"source": "npm-search",
+	"description": "![Vite Plugin Web Extension](../../.github/assets/social-banner.png)",
+	"metadata": {
+		"github_url": "https://github.com/aklinker1/vite-plugin-web-extension",
+		"npm_name": "@truecarry/vite-plugin-web-extension",
+		"description": "![Vite Plugin Web Extension](../../.github/assets/social-banner.png)",
+		"keywords": ["vite-plugin", "web", "webext", "chrome-extension", "web-extension", "browser-extension", "extension", "chrome", "firefox", "addon", "browser"],
+		"version": "4.5.1",
+		"discovery_hint": "npm:pi-extension",
+		"stars": 839,
+		"forks": 61,
+		"open_issues": 30,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-06T13:04:31Z",
+		"topics": ["extension", "vite"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://vite-plugin-web-extension.aklinker1.io/",
+		"_readme_category_scores": {
+			"extension": 17,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 90,
+		"level": "active"
+	},
+	"category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "vector-memory-pg",
+	"name": "vector-memory-pg",
+	"url": "https://www.npmjs.com/package/vector-memory-pg",
+	"source": "npm-search",
+	"description": "Institutional technical memory for AI coding agents using PostgreSQL, pgvector, hybrid search, MCP, Reflect, CLI, and local UI.",
+	"metadata": {
+		"github_url": "https://github.com/cabupy/vector_memory_pg",
+		"npm_name": "vector-memory-pg",
+		"description": "Institutional technical memory for AI coding agents using PostgreSQL, pgvector, hybrid search, MCP, Reflect, CLI, and local UI.",
+		"keywords": ["vector-search", "pgvector", "postgresql", "mcp", "ai-agent", "semantic-memory", "openai-embeddings", "hnsw", "rag", "reflect"],
+		"version": "1.10.4",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "JavaScript",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-26T05:24:51Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 6,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

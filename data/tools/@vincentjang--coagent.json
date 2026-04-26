@@ -1,0 +1,36 @@
+{
+	"id": "@vincentjang/coagent",
+	"name": "@vincentjang/coagent",
+	"url": "https://www.npmjs.com/package/@vincentjang/coagent",
+	"source": "npm-search",
+	"description": "Multi-participant chat hub for Claude Code agents and humans — coordinate Claude agents across multiple projects from one terminal",
+	"metadata": {
+		"github_url": "https://github.com/JangVincent/coagent",
+		"npm_name": "@vincentjang/coagent",
+		"description": "Multi-participant chat hub for Claude Code agents and humans — coordinate Claude agents across multiple projects from one terminal",
+		"keywords": ["claude", "claude-code", "agent", "chat", "tui", "ink", "multi-agent", "coordination", "anthropic"],
+		"version": "0.5.1",
+		"discovery_hint": "npm:pi-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T14:24:19Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

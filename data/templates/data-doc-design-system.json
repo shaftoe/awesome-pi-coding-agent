@@ -1,0 +1,36 @@
+{
+	"id": "data-doc-design-system",
+	"name": "data-doc-design-system",
+	"url": "https://www.npmjs.com/package/data-doc-design-system",
+	"source": "npm-search",
+	"description": "Claude Code plugin — chart palettes and cross-format document templates. Five colorblind-safe palettes, 240+ tokens, HTML / PDF / DOCX / LaTeX / XLSX.",
+	"metadata": {
+		"github_url": "https://github.com/zgyk4167/data-doc-design-system",
+		"npm_name": "data-doc-design-system",
+		"description": "Claude Code plugin — chart palettes and cross-format document templates. Five colorblind-safe palettes, 240+ tokens, HTML / PDF / DOCX / LaTeX / XLSX.",
+		"keywords": ["claude-code", "claude-code-plugin", "claude-skill", "design-system", "data-visualization", "charts", "color-palette", "typography", "publication", "scientific-figures"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "HTML",
+		"license": "NOASSERTION",
+		"last_commit": "2026-04-18T18:09:31Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 1,
+			"theme": 2,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "template"
+}

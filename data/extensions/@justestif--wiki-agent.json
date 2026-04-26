@@ -1,0 +1,21 @@
+{
+	"id": "@justestif/wiki-agent",
+	"name": "@justestif/wiki-agent",
+	"url": "https://www.npmjs.com/package/@justestif/wiki-agent",
+	"source": "npm-search",
+	"description": "AI-powered personal wiki with agent hooks for Pi, Claude Code, Cursor, and OpenCode",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@justestif/wiki-agent",
+		"description": "AI-powered personal wiki with agent hooks for Pi, Claude Code, Cursor, and OpenCode",
+		"keywords": ["wiki", "ai-agent", "pi-package", "claude-code", "cursor", "opencode", "markdown", "notebook", "nb", "markdown-lint", "personal-wiki"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
+}

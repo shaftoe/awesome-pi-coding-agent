@@ -1,0 +1,36 @@
+{
+	"id": "@focus-mcp/brick-onboarding",
+	"name": "@focus-mcp/brick-onboarding",
+	"url": "https://www.npmjs.com/package/@focus-mcp/brick-onboarding",
+	"source": "npm-search",
+	"description": "Project onboarding workflow — auto-discover project structure, conventions, and key files for a new contributor or AI agent.",
+	"metadata": {
+		"github_url": "https://github.com/focus-mcp/marketplace",
+		"npm_name": "@focus-mcp/brick-onboarding",
+		"description": "Project onboarding workflow — auto-discover project structure, conventions, and key files for a new contributor or AI agent.",
+		"keywords": ["mcp", "model-context-protocol", "ai", "llm", "focus", "brick", "onboarding", "workflow", "project", "guide"],
+		"version": "1.1.0",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-26T06:48:00Z",
+		"topics": ["agent-tools", "ai", "bricks", "catalog", "claude", "context-engineering", "focus", "llm", "marketplace", "mcp", "model-context-protocol", "npm-packages", "plugins", "tools", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://focusmcp.dev",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 4,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

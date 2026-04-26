@@ -1,0 +1,21 @@
+{
+	"id": "provenby-mcp-server",
+	"name": "provenby-mcp-server",
+	"url": "https://www.npmjs.com/package/provenby-mcp-server",
+	"source": "npm-search",
+	"description": "ProvenBy MCP server — query verified skill graphs, match candidates to roles, hunt roles, assess capabilities, subscribe to events. Agent-native hiring infrastructure.",
+	"metadata": {
+		"github_url": "https://github.com/InferLane-dev/ProvenBy",
+		"npm_name": "provenby-mcp-server",
+		"description": "ProvenBy MCP server — query verified skill graphs, match candidates to roles, hunt roles, assess capabilities, subscribe to events. Agent-native hiring infrastructure.",
+		"keywords": ["mcp", "model-context-protocol", "hiring", "skill-graph", "agent", "claude", "ProvenBy", "recruiting", "talent"],
+		"version": "1.1.0",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

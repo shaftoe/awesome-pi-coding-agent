@@ -1,0 +1,36 @@
+{
+	"id": "@zinohome/agent-os",
+	"name": "@zinohome/agent-os",
+	"url": "https://www.npmjs.com/package/@zinohome/agent-os",
+	"source": "npm-search",
+	"description": "Self-hosted web UI for managing Claude Code sessions",
+	"metadata": {
+		"github_url": "https://github.com/zinohome/agent-os",
+		"npm_name": "@zinohome/agent-os",
+		"description": "Self-hosted web UI for managing Claude Code sessions",
+		"keywords": ["claude", "ai", "terminal", "tmux", "agent"],
+		"version": "0.2.2",
+		"discovery_hint": "npm:pi-coding-agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-18T04:38:49Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": true,
+		"homepage": "https://runagentos.com",
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 8,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 40,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

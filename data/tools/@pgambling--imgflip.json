@@ -1,0 +1,36 @@
+{
+	"id": "@pgambling/imgflip",
+	"name": "@pgambling/imgflip",
+	"url": "https://www.npmjs.com/package/@pgambling/imgflip",
+	"source": "npm-search",
+	"description": "TypeScript client, CLI, and Claude Code skill for the Imgflip meme API.",
+	"metadata": {
+		"github_url": "https://github.com/pgambling/imgflip",
+		"npm_name": "@pgambling/imgflip",
+		"description": "TypeScript client, CLI, and Claude Code skill for the Imgflip meme API.",
+		"keywords": ["imgflip", "meme", "memes", "cli", "claude-code", "skill"],
+		"version": "0.1.1",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-19T00:36:34Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 23,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

@@ -1,0 +1,36 @@
+{
+	"id": "@faircopy/plugin",
+	"name": "@faircopy/plugin",
+	"url": "https://www.npmjs.com/package/@faircopy/plugin",
+	"source": "npm-search",
+	"description": "Claude Code plugin for faircopy — stop hook + faircopy skill",
+	"metadata": {
+		"github_url": "https://github.com/omniaura/faircopy",
+		"npm_name": "@faircopy/plugin",
+		"description": "Claude Code plugin for faircopy — stop hook + faircopy skill",
+		"keywords": ["claude-code", "plugin", "agent-skills", "copy-linter", "faircopy"],
+		"version": "1.2.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 1,
+		"forks": 0,
+		"open_issues": 1,
+		"language": "TypeScript",
+		"license": null,
+		"last_commit": "2026-04-24T10:15:38Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": null,
+		"_readme_category_scores": {
+			"extension": 0,
+			"tool": 2,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

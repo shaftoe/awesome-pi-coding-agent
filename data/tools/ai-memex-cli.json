@@ -1,0 +1,36 @@
+{
+	"id": "ai-memex-cli",
+	"name": "ai-memex-cli",
+	"url": "https://www.npmjs.com/package/ai-memex-cli",
+	"source": "npm-search",
+	"description": "Git-backed Markdown knowledge base maintained by AI agents",
+	"metadata": {
+		"github_url": "https://github.com/zelixag/ai-memex-cli",
+		"npm_name": "ai-memex-cli",
+		"description": "Git-backed Markdown knowledge base maintained by AI agents",
+		"keywords": ["cli", "knowledge-base", "wiki", "llm", "claude", "ai-agent", "memex", "persistent-memory"],
+		"version": "0.4.0",
+		"discovery_hint": "npm:pi-skill",
+		"stars": 4,
+		"forks": 1,
+		"open_issues": 0,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-25T11:26:25Z",
+		"topics": [],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://zelixag.github.io/ai-memex-cli/",
+		"_readme_category_scores": {
+			"extension": 17,
+			"tool": 29,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 70,
+		"level": "active"
+	},
+	"category": "tool"
+}

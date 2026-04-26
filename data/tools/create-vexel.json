@@ -1,0 +1,21 @@
+{
+	"id": "create-vexel",
+	"name": "create-vexel",
+	"url": "https://www.npmjs.com/package/create-vexel",
+	"source": "npm-search",
+	"description": "Scaffold a Vexel Multi-Agent Intelligence Framework project. Build AI agent squads with ETL mind-cloning and automated squad creation.",
+	"metadata": {
+		"github_url": "https://github.com/vexel-labz/create-vexel",
+		"npm_name": "create-vexel",
+		"description": "Scaffold a Vexel Multi-Agent Intelligence Framework project. Build AI agent squads with ETL mind-cloning and automated squad creation.",
+		"keywords": ["ai", "aios", "agile", "agents", "orchestrator", "fullstack", "development", "cli", "cross-platform", "interactive", "wizard", "modern-ux", "vite-style", "automation"],
+		"version": "3.2.0",
+		"discovery_hint": "npm:pi-agent",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}

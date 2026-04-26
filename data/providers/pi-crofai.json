@@ -1,0 +1,21 @@
+{
+	"id": "pi-crofai",
+	"name": "pi-crofai",
+	"url": "https://www.npmjs.com/package/pi-crofai",
+	"source": "npm-search",
+	"description": "CrofAI provider for Pi — self-contained, auto-discovers models, supports env var or /login paste",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-crofai",
+		"description": "CrofAI provider for Pi — self-contained, auto-discovers models, supports env var or /login paste",
+		"keywords": ["pi-package", "crofai", "provider"],
+		"version": "1.0.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "provider"
+}

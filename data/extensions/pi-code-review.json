@@ -1,0 +1,36 @@
+{
+	"id": "pi-code-review",
+	"name": "pi-code-review",
+	"url": "https://www.npmjs.com/package/pi-code-review",
+	"source": "npm-search",
+	"description": "A Pi extension that provides automated, language-aware code review after the agent writes or modifies files.",
+	"metadata": {
+		"github_url": "https://github.com/MattDevy/pi-extensions",
+		"npm_name": "pi-code-review",
+		"description": "A Pi extension that provides automated, language-aware code review after the agent writes or modifies files.",
+		"keywords": ["pi-package", "pi-extension", "pi-coding-agent", "code-review", "ai", "llm", "ai-agent", "coding-assistant", "developer-tools"],
+		"version": "0.2.0",
+		"discovery_hint": "npm:keywords:pi-package",
+		"stars": 30,
+		"forks": 2,
+		"open_issues": 7,
+		"language": "TypeScript",
+		"license": "MIT",
+		"last_commit": "2026-04-11T00:18:42Z",
+		"topics": ["ai", "llm", "memory", "pi-coding-agent", "pi-extension", "pi-extensions", "self-learning-ai", "typescript"],
+		"is_archived": false,
+		"is_fork": false,
+		"homepage": "https://mattdevy.github.io/home",
+		"_readme_category_scores": {
+			"extension": 2,
+			"tool": 0,
+			"theme": 0,
+			"provider": 0
+		}
+	},
+	"health": {
+		"score": 73,
+		"level": "active"
+	},
+	"category": "extension"
+}

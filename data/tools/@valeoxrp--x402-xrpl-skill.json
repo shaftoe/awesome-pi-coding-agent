@@ -1,0 +1,21 @@
+{
+	"id": "@valeoxrp/x402-xrpl-skill",
+	"name": "@valeoxrp/x402-xrpl-skill",
+	"url": "https://www.npmjs.com/package/@valeoxrp/x402-xrpl-skill",
+	"source": "npm-search",
+	"description": "x402 on XRPL — skill bundle + TS helpers. Accept XRP and RLUSD micropayments. Wraps the t54.ai facilitator with Valeo invoice-binding helpers and RLUSD presets.",
+	"metadata": {
+		"github_url": "https://github.com/valeo-cash/x402-xrpl-skill",
+		"npm_name": "@valeoxrp/x402-xrpl-skill",
+		"description": "x402 on XRPL — skill bundle + TS helpers. Accept XRP and RLUSD micropayments. Wraps the t54.ai facilitator with Valeo invoice-binding helpers and RLUSD presets.",
+		"keywords": ["x402", "xrpl", "xrp", "rlusd", "x402-xrpl", "payments", "micropayments", "ai-agents", "agent-payments", "http-402", "skill", "claude-skill", "claude-code", "cursor", "valeo"],
+		"version": "0.1.0",
+		"discovery_hint": "npm:pi-skill",
+		"_readme_category_scores": {}
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "tool"
+}
