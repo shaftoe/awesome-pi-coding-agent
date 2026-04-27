@@ -98,9 +98,26 @@ const cards = category.entries.map((entry) => ({
 				} else {
 					countEl.textContent = '';
 				}
+
+				// Sync query param to URL for shareable links
+				const query = input.value.trim();
+				const url = new URL(window.location.href);
+				if (query) {
+					url.searchParams.set('q', query);
+				} else {
+					url.searchParams.delete('q');
+				}
+				history.replaceState(null, '', url.toString());
 			};
 
 			input.addEventListener('input', filter);
+
+			// Restore query from URL on page load
+			const initialQuery = new URLSearchParams(window.location.search).get('q');
+			if (initialQuery) {
+				input.value = initialQuery;
+				filter();
+			}
 		}
 	}
 	customElements.define('category-search', CategorySearch);

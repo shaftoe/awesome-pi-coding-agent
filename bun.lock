@@ -9,7 +9,7 @@
       },
       "devDependencies": {
         "@alexanderfortin/semantic-release-keep-a-changelog": "^0.2.0",
-        "@biomejs/biome": "^2.4.12",
+        "@biomejs/biome": "^2.4.13",
         "@semantic-release/commit-analyzer": "^13.0.1",
         "@semantic-release/exec": "^7.1.0",
         "@semantic-release/git": "^10.0.1",
