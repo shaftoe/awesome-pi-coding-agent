@@ -11,11 +11,14 @@
     "channel": "DevOnDuty",
     "published_at": "2026-04-12T21:36:18Z",
     "thumbnail": "https://i.ytimg.com/vi/O-96yYDPMOc/hqdefault.jpg",
+    "views": 8457,
+    "likes": 226,
+    "comments": 32,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 38,
-    "level": "stale"
+    "score": 60,
+    "level": "maintained"
   },
   "category": "video"
 }

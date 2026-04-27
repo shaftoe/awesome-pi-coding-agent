@@ -10,7 +10,7 @@
     "description": "Electrobun desktop agent template with React, Tailwind CSS, RPC, Git, and responsive layout",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
@@ -22,7 +22,7 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 53,
+    "score": 61,
     "level": "maintained"
   },
   "category": "misc"

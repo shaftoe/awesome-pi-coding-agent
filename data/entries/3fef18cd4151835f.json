@@ -11,11 +11,14 @@
     "channel": "chlepper",
     "published_at": "2011-03-27T12:17:35Z",
     "thumbnail": "https://i.ytimg.com/vi/A6baDf3GMEA/hqdefault.jpg",
+    "views": 3949,
+    "likes": 31,
+    "comments": 2,
     "discovery_hint": "youtube:pi-theme"
   },
   "health": {
-    "score": 4,
-    "level": "dead"
+    "score": 26,
+    "level": "stale"
   },
   "category": "video"
 }

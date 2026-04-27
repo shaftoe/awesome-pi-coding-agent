@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Pi extension for llama.cpp integration. Supports both router and single modes",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/gsanhueza/pi-llama-cpp",
     "npm_name": "pi-llama-cpp",
     "description": "Pi extension for llama.cpp integration. Supports both router and single modes",
     "keywords": [
@@ -14,8 +14,8 @@
       "pi-extension",
       "llama-cpp"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-04-27T00:42:01.076Z",
+    "version": "0.1.2",
+    "published_at": "2026-04-27T01:30:56.515Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

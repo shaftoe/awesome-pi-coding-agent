@@ -1,0 +1,29 @@
+{
+  "id": "je-boska-pi-vscode-file-context",
+  "name": "je-boska-pi-vscode-file-context",
+  "url": "https://github.com/je-boska/pi-vscode-file-context",
+  "source": "github-search",
+  "description": "Extension providing Pi agent with context from VS Code active tab & selection.",
+  "metadata": {
+    "github_url": "https://github.com/je-boska/pi-vscode-file-context",
+    "repo_full_name": "je-boska/pi-vscode-file-context",
+    "description": "Extension providing Pi agent with context from VS Code active tab & selection.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T11:34:14Z",
+    "pushed_at": "2026-04-27T11:44:39Z",
+    "updated_at": "2026-04-27T11:44:42Z",
+    "size": 9,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

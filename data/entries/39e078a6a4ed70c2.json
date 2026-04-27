@@ -11,10 +11,13 @@
     "channel": "js6456",
     "published_at": "2023-12-20T10:43:57Z",
     "thumbnail": "https://i.ytimg.com/vi/tC0jjqQk3fg/hqdefault.jpg",
+    "views": 11,
+    "likes": 1,
+    "comments": 0,
     "discovery_hint": "youtube:pi-theme"
   },
   "health": {
-    "score": 4,
+    "score": 6,
     "level": "dead"
   },
   "category": "video"

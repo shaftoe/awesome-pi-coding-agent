@@ -1,0 +1,29 @@
+{
+  "id": "daboss3d-pi-extensions",
+  "name": "daboss3d-pi-extensions",
+  "url": "https://github.com/daboss3d/pi-extensions",
+  "source": "github-search",
+  "description": "Extensions for Pi Agent",
+  "metadata": {
+    "github_url": "https://github.com/daboss3d/pi-extensions",
+    "repo_full_name": "daboss3d/pi-extensions",
+    "description": "Extensions for Pi Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-25T09:54:47Z",
+    "pushed_at": "2026-04-27T11:20:57Z",
+    "updated_at": "2026-04-27T11:21:00Z",
+    "size": 39,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

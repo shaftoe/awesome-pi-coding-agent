@@ -11,10 +11,13 @@
     "channel": "AI Agent Store",
     "published_at": "2026-04-10T20:22:02Z",
     "thumbnail": "https://i.ytimg.com/vi/mlPuvCB0ZeQ/hqdefault.jpg",
+    "views": 18,
+    "likes": 0,
+    "comments": 0,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 38,
+    "score": 39,
     "level": "stale"
   },
   "category": "video"

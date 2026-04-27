@@ -11,10 +11,13 @@
     "channel": "Pluto7",
     "published_at": "2025-02-12T18:14:57Z",
     "thumbnail": "https://i.ytimg.com/vi/g3xc42Dvy40/hqdefault.jpg",
+    "views": 40,
+    "likes": 2,
+    "comments": 0,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 10,
+    "score": 11,
     "level": "dead"
   },
   "category": "video"

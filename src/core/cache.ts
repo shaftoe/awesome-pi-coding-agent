@@ -12,6 +12,7 @@
  * This is safe for npm package names, GitHub search URLs, etc.
  */
 
+import { createHash } from "node:crypto";
 import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
@@ -47,6 +48,12 @@ export class Cache {
 
 	private path(key: string): string {
 		const safe = key.replace(/[^a-zA-Z0-9._-]/g, "_");
+		// Hash long keys to stay under filesystem filename limits (255 chars).
+		// Short human-readable keys are kept as-is for debuggability.
+		if (safe.length > 200) {
+			const hash = createHash("sha256").update(key, "utf-8").digest("hex").slice(0, 16);
+			return join(this.dir, `_${hash}.json`);
+		}
 		return join(this.dir, `${safe}.json`);
 	}
 

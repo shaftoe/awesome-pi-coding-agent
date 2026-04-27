@@ -1,0 +1,29 @@
+{
+  "id": "digital-overground-pi-geon",
+  "name": "digital-overground-pi-geon",
+  "url": "https://github.com/digital-overground/pi-geon",
+  "source": "github-search",
+  "description": "A messenger for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/digital-overground/pi-geon",
+    "repo_full_name": "digital-overground/pi-geon",
+    "description": "A messenger for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T13:43:17Z",
+    "pushed_at": "2026-04-27T13:46:20Z",
+    "updated_at": "2026-04-27T13:47:03Z",
+    "size": 0,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

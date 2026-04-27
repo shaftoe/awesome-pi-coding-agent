@@ -11,10 +11,13 @@
     "channel": "Lotus Creation Concepts",
     "published_at": "2026-04-11T15:07:54Z",
     "thumbnail": "https://i.ytimg.com/vi/yqwT5sGSlJk/hqdefault.jpg",
+    "views": 68,
+    "likes": 2,
+    "comments": 0,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 38,
+    "score": 39,
     "level": "stale"
   },
   "category": "video"

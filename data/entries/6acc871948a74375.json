@@ -1,0 +1,29 @@
+{
+  "id": "IgorWarzocha-pi-semantic-grep",
+  "name": "IgorWarzocha-pi-semantic-grep",
+  "url": "https://github.com/IgorWarzocha/pi-semantic-grep",
+  "source": "github-search",
+  "description": "Pi extension that enables agents to look things up via natural language query.",
+  "metadata": {
+    "github_url": "https://github.com/IgorWarzocha/pi-semantic-grep",
+    "repo_full_name": "IgorWarzocha/pi-semantic-grep",
+    "description": "Pi extension that enables agents to look things up via natural language query.",
+    "stars": 8,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T09:08:33Z",
+    "pushed_at": "2026-04-27T11:11:05Z",
+    "updated_at": "2026-04-27T13:09:14Z",
+    "size": 31,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

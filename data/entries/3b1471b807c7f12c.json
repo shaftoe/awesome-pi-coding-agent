@@ -10,7 +10,7 @@
     "description": "A browser-native AI agent (claw) for everyone that loves ice cream",
     "stars": 11,
     "forks": 7,
-    "open_issues": 16,
+    "open_issues": 15,
     "topics": [
       "ai-agents",
       "browser-automation",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-02T17:16:12Z",
-    "pushed_at": "2026-04-27T01:00:09Z",
-    "updated_at": "2026-04-27T00:17:30Z",
-    "size": 56779,
+    "pushed_at": "2026-04-27T13:43:14Z",
+    "updated_at": "2026-04-27T10:36:46Z",
+    "size": 57011,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

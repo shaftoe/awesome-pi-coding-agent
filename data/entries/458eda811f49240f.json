@@ -11,10 +11,13 @@
     "channel": "TechWealth Hub",
     "published_at": "2026-04-25T01:50:53Z",
     "thumbnail": "https://i.ytimg.com/vi/Oayp5VtBWl0/hqdefault.jpg",
+    "views": 5,
+    "likes": 0,
+    "comments": 0,
     "discovery_hint": "youtube:pi-package"
   },
   "health": {
-    "score": 38,
+    "score": 39,
     "level": "stale"
   },
   "category": "video"

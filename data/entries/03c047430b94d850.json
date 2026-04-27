@@ -11,10 +11,13 @@
     "channel": "warham",
     "published_at": "2016-06-21T17:19:27Z",
     "thumbnail": "https://i.ytimg.com/vi/MzwEEU9nOMs/hqdefault.jpg",
+    "views": 932,
+    "likes": 1,
+    "comments": 1,
     "discovery_hint": "youtube:pi-theme"
   },
   "health": {
-    "score": 4,
+    "score": 12,
     "level": "dead"
   },
   "category": "video"

@@ -11,10 +11,13 @@
     "channel": "Pete Fiftyeight",
     "published_at": "2019-11-04T22:53:39Z",
     "thumbnail": "https://i.ytimg.com/vi/aqwwFOJQtf8/hqdefault.jpg",
+    "views": 371,
+    "likes": 6,
+    "comments": 1,
     "discovery_hint": "youtube:pi-theme"
   },
   "health": {
-    "score": 4,
+    "score": 12,
     "level": "dead"
   },
   "category": "video"

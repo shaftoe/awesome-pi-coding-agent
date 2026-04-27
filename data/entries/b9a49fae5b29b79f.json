@@ -9,8 +9,8 @@
     "repo_full_name": "EnTeQuAk/pi-repomap",
     "description": "Tree-sitter powered repository map for pi coding agent",
     "stars": 1,
-    "forks": 1,
-    "open_issues": 0,
+    "forks": 2,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 62,
-    "level": "maintained"
+    "score": 70,
+    "level": "active"
   },
   "category": "misc"
 }

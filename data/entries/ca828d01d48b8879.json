@@ -11,11 +11,14 @@
     "channel": "DIY Smart Code",
     "published_at": "2026-02-23T23:05:11Z",
     "thumbnail": "https://i.ytimg.com/vi/KiplOks4NAs/hqdefault.jpg",
+    "views": 16692,
+    "likes": 412,
+    "comments": 88,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 31,
-    "level": "stale"
+    "score": 60,
+    "level": "maintained"
   },
   "category": "video"
 }

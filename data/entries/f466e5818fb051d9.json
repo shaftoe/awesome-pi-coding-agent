@@ -11,10 +11,13 @@
     "channel": "Pluto7 Insights - Customer Centric Supply Chain",
     "published_at": "2026-01-10T13:41:03Z",
     "thumbnail": "https://i.ytimg.com/vi/O3-9CEDNYo0/hqdefault.jpg",
+    "views": 16,
+    "likes": 1,
+    "comments": 0,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 24,
+    "score": 25,
     "level": "stale"
   },
   "category": "video"

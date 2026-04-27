@@ -11,11 +11,14 @@
     "channel": "GitHub Trending Digest",
     "published_at": "2026-04-03T23:00:40Z",
     "thumbnail": "https://i.ytimg.com/vi/c4onFBGu260/hqdefault.jpg",
+    "views": 104,
+    "likes": 0,
+    "comments": 0,
     "discovery_hint": "youtube:pi-coding-agent"
   },
   "health": {
-    "score": 38,
-    "level": "stale"
+    "score": 45,
+    "level": "maintained"
   },
   "category": "video"
 }

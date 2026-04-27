@@ -11,10 +11,13 @@
     "channel": "Dara Jeffus",
     "published_at": "2026-02-26T20:03:10Z",
     "thumbnail": "https://i.ytimg.com/vi/28MLpm4NSBs/hqdefault.jpg",
+    "views": 30,
+    "likes": 0,
+    "comments": 0,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 31,
+    "score": 32,
     "level": "stale"
   },
   "category": "video"

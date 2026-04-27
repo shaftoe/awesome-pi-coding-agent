@@ -13,18 +13,18 @@
       "pi-coding-agent",
       "pi-package"
     ],
-    "version": "0.2.0",
-    "published_at": "2026-04-24T19:36:49.515Z",
-    "npm_downloads_monthly": 773,
-    "npm_downloads_weekly": 773,
-    "npm_score_final": 26.123121,
+    "version": "0.2.1",
+    "published_at": "2026-04-27T11:27:59.768Z",
+    "npm_downloads_monthly": 1231,
+    "npm_downloads_weekly": 1231,
+    "npm_score_final": 28.047047,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 82,
+    "score": 91,
     "level": "active"
   },
   "category": "misc"

@@ -3,30 +3,32 @@
   "name": "@ravan08/pi-langfuse",
   "url": "https://www.npmjs.com/package/@ravan08/pi-langfuse",
   "source": "npm-search",
-  "description": "Langfuse observability extension for Pi coding agent - tracks tokens, cost, model, and tool calls",
+  "description": "Langfuse observability extension for Pi coding agent. Sends traces to Langfuse for monitoring tokens, costs, latency, and tool calls.",
   "metadata": {
     "github_url": "https://github.com/saravananravi08/pi-langfuse-extension",
     "npm_name": "@ravan08/pi-langfuse",
-    "description": "Langfuse observability extension for Pi coding agent - tracks tokens, cost, model, and tool calls",
+    "description": "Langfuse observability extension for Pi coding agent. Sends traces to Langfuse for monitoring tokens, costs, latency, and tool calls.",
     "keywords": [
       "pi-package",
       "langfuse",
       "observability",
       "tracing",
-      "monitoring"
+      "monitoring",
+      "pi-coding-agent",
+      "extension"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-04-25T17:17:17.661Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "1.0.3",
+    "published_at": "2026-04-27T05:15:43.209Z",
+    "npm_downloads_monthly": 219,
+    "npm_downloads_weekly": 219,
+    "npm_score_final": 21.201591,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 72,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

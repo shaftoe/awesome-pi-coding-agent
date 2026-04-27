@@ -11,10 +11,13 @@
     "channel": "Makaria's Madness",
     "published_at": "2021-05-04T23:33:24Z",
     "thumbnail": "https://i.ytimg.com/vi/ip-ar6mDeSk/hqdefault.jpg",
+    "views": 91,
+    "likes": 8,
+    "comments": 3,
     "discovery_hint": "youtube:pi-theme"
   },
   "health": {
-    "score": 4,
+    "score": 11,
     "level": "dead"
   },
   "category": "video"

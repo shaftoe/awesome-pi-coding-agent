@@ -11,11 +11,14 @@
     "channel": "Michael",
     "published_at": "2026-02-21T19:56:49Z",
     "thumbnail": "https://i.ytimg.com/vi/XqFun9XCXPw/hqdefault.jpg",
+    "views": 9486,
+    "likes": 212,
+    "comments": 21,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 31,
-    "level": "stale"
+    "score": 58,
+    "level": "maintained"
   },
   "category": "video"
 }

@@ -11,11 +11,14 @@
     "channel": "xyrius",
     "published_at": "2011-12-04T12:52:04Z",
     "thumbnail": "https://i.ytimg.com/vi/O6rmrR2x3tw/hqdefault.jpg",
+    "views": 2148,
+    "likes": 3,
+    "comments": 0,
     "discovery_hint": "youtube:pi-theme"
   },
   "health": {
-    "score": 4,
-    "level": "dead"
+    "score": 21,
+    "level": "stale"
   },
   "category": "video"
 }

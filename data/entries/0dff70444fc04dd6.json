@@ -1,0 +1,29 @@
+{
+  "id": "aaronhsyong2-my-pi",
+  "name": "aaronhsyong2-my-pi",
+  "url": "https://github.com/aaronhsyong2/my-pi",
+  "source": "github-search",
+  "description": "My Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/aaronhsyong2/my-pi",
+    "repo_full_name": "aaronhsyong2/my-pi",
+    "description": "My Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T09:18:57Z",
+    "pushed_at": "2026-04-27T09:33:57Z",
+    "updated_at": "2026-04-27T09:34:01Z",
+    "size": 33,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

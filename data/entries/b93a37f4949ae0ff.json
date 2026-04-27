@@ -11,10 +11,13 @@
     "channel": "Nick Tries",
     "published_at": "2026-03-14T19:49:32Z",
     "thumbnail": "https://i.ytimg.com/vi/lkOt1cMQ5EM/hqdefault.jpg",
+    "views": 107,
+    "likes": 5,
+    "comments": 0,
     "discovery_hint": "youtube:pi-coding-agent"
   },
   "health": {
-    "score": 31,
+    "score": 38,
     "level": "stale"
   },
   "category": "video"

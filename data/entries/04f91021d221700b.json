@@ -11,11 +11,14 @@
     "channel": "Sonnerie Portable",
     "published_at": "2023-05-03T14:56:37Z",
     "thumbnail": "https://i.ytimg.com/vi/d2Te3effU2w/hqdefault.jpg",
+    "views": 595,
+    "likes": 10,
+    "comments": 0,
     "discovery_hint": "youtube:pi-theme"
   },
   "health": {
-    "score": 4,
-    "level": "dead"
+    "score": 17,
+    "level": "stale"
   },
   "category": "video"
 }

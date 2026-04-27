@@ -11,11 +11,14 @@
     "channel": "Luigi Tech",
     "published_at": "2026-04-07T10:24:10Z",
     "thumbnail": "https://i.ytimg.com/vi/lhtkqvKbgto/hqdefault.jpg",
+    "views": 185,
+    "likes": 5,
+    "comments": 2,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 38,
-    "level": "stale"
+    "score": 45,
+    "level": "maintained"
   },
   "category": "video"
 }

@@ -14,18 +14,18 @@
       "skills",
       "autocomplete"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-04-20T08:43:49.248Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.1.2",
+    "published_at": "2026-04-27T10:21:59.961Z",
+    "npm_downloads_monthly": 228,
+    "npm_downloads_weekly": 228,
+    "npm_score_final": 21.381462,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 72,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

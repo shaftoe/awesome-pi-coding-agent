@@ -11,10 +11,13 @@
     "channel": "Lê Hùng Thiện",
     "published_at": "2026-04-10T09:15:23Z",
     "thumbnail": "https://i.ytimg.com/vi/sQq8Bhqig5E/hqdefault.jpg",
+    "views": 33,
+    "likes": 1,
+    "comments": 0,
     "discovery_hint": "youtube:pi-coding-agent"
   },
   "health": {
-    "score": 38,
+    "score": 39,
     "level": "stale"
   },
   "category": "video"

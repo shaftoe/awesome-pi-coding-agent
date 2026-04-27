@@ -11,11 +11,14 @@
     "channel": "DevsKingdom",
     "published_at": "2026-04-09T17:50:18Z",
     "thumbnail": "https://i.ytimg.com/vi/1cF_Afc5_tA/hqdefault.jpg",
+    "views": 12092,
+    "likes": 195,
+    "comments": 16,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 38,
-    "level": "stale"
+    "score": 60,
+    "level": "maintained"
   },
   "category": "video"
 }

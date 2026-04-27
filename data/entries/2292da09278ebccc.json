@@ -11,11 +11,14 @@
     "channel": "Etisha Garg",
     "published_at": "2026-04-06T14:40:58Z",
     "thumbnail": "https://i.ytimg.com/vi/tD6oiWLkXq4/hqdefault.jpg",
+    "views": 1332,
+    "likes": 30,
+    "comments": 1,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 38,
-    "level": "stale"
+    "score": 59,
+    "level": "maintained"
   },
   "category": "video"
 }

@@ -1,0 +1,29 @@
+{
+  "id": "kylesnowschwartz-tail-claude-mux",
+  "name": "kylesnowschwartz-tail-claude-mux",
+  "url": "https://github.com/kylesnowschwartz/tail-claude-mux",
+  "source": "github-search",
+  "description": "tmux sidebar with Claude Code/pi agent state, git branches, and instant session switching. Personal tool — fork at your own risk.",
+  "metadata": {
+    "github_url": "https://github.com/kylesnowschwartz/tail-claude-mux",
+    "repo_full_name": "kylesnowschwartz/tail-claude-mux",
+    "description": "tmux sidebar with Claude Code/pi agent state, git branches, and instant session switching. Personal tool — fork at your own risk.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T09:11:17Z",
+    "pushed_at": "2026-04-27T11:58:59Z",
+    "updated_at": "2026-04-27T11:59:03Z",
+    "size": 865,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

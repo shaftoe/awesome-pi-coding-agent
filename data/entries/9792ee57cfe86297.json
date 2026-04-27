@@ -11,11 +11,14 @@
     "channel": "Mayank Gupta",
     "published_at": "2026-03-28T19:22:37Z",
     "thumbnail": "https://i.ytimg.com/vi/PZ-sko1NWa0/hqdefault.jpg",
+    "views": 8794,
+    "likes": 216,
+    "comments": 23,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 38,
-    "level": "stale"
+    "score": 60,
+    "level": "maintained"
   },
   "category": "video"
 }

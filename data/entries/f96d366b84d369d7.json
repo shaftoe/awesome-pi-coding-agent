@@ -11,10 +11,13 @@
     "channel": "BUD FILMS",
     "published_at": "2016-05-06T15:56:41Z",
     "thumbnail": "https://i.ytimg.com/vi/AKG6gwVoBOs/hqdefault.jpg",
+    "views": 336,
+    "likes": 5,
+    "comments": 0,
     "discovery_hint": "youtube:pi-theme"
   },
   "health": {
-    "score": 4,
+    "score": 12,
     "level": "dead"
   },
   "category": "video"

@@ -11,11 +11,14 @@
     "channel": "Zero Code Devs",
     "published_at": "2026-03-13T08:49:50Z",
     "thumbnail": "https://i.ytimg.com/vi/KMTcJX89jFI/hqdefault.jpg",
+    "views": 1014,
+    "likes": 23,
+    "comments": 5,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 31,
-    "level": "stale"
+    "score": 52,
+    "level": "maintained"
   },
   "category": "video"
 }

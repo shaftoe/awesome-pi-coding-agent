@@ -8,7 +8,7 @@
     "github_url": "https://github.com/disler/pi-vs-claude-code",
     "repo_full_name": "disler/pi-vs-claude-code",
     "description": "Comparison between open source PI agent and closed source Claude Code agent",
-    "stars": 868,
+    "stars": 872,
     "forks": 239,
     "open_issues": 16,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-19T21:09:39Z",
     "pushed_at": "2026-04-11T17:15:04Z",
-    "updated_at": "2026-04-26T09:23:33Z",
+    "updated_at": "2026-04-27T09:30:08Z",
     "size": 97,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

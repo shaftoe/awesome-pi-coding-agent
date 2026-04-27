@@ -11,10 +11,13 @@
     "channel": "Adam Tech",
     "published_at": "2026-03-24T14:39:52Z",
     "thumbnail": "https://i.ytimg.com/vi/vkTOC7T-LU4/hqdefault.jpg",
+    "views": 484,
+    "likes": 5,
+    "comments": 2,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 31,
+    "score": 38,
     "level": "stale"
   },
   "category": "video"

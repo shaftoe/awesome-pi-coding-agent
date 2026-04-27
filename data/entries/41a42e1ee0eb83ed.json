@@ -11,10 +11,13 @@
     "channel": "Never Code Alone",
     "published_at": "2026-04-26T13:30:31Z",
     "thumbnail": "https://i.ytimg.com/vi/KXKfiCqmhdo/hqdefault.jpg",
+    "views": 81,
+    "likes": 2,
+    "comments": 1,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 38,
+    "score": 39,
     "level": "stale"
   },
   "category": "video"

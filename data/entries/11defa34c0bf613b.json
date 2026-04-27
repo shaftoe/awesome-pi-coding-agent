@@ -11,11 +11,14 @@
     "channel": "Artificial Developer Intelligence",
     "published_at": "2026-02-13T12:00:01Z",
     "thumbnail": "https://i.ytimg.com/vi/-uB0KVAQIM8/hqdefault.jpg",
+    "views": 1430,
+    "likes": 32,
+    "comments": 3,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 31,
-    "level": "stale"
+    "score": 52,
+    "level": "maintained"
   },
   "category": "video"
 }

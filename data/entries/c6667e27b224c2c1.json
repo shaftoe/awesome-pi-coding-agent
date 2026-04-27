@@ -11,10 +11,13 @@
     "channel": "Kan Deng",
     "published_at": "2026-02-26T06:13:29Z",
     "thumbnail": "https://i.ytimg.com/vi/y3ntCh8vF7Q/hqdefault.jpg",
+    "views": 153,
+    "likes": 0,
+    "comments": 2,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 31,
+    "score": 38,
     "level": "stale"
   },
   "category": "video"

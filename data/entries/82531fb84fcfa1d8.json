@@ -8,7 +8,7 @@
     "github_url": "https://github.com/kcosr/pi-extensions",
     "repo_full_name": "kcosr/pi-extensions",
     "description": "A collection of extensions for badlogic/pi-mono coding agent.",
-    "stars": 21,
+    "stars": 22,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-01-11T02:20:54Z",
     "pushed_at": "2026-02-23T05:45:56Z",
-    "updated_at": "2026-04-26T18:06:31Z",
+    "updated_at": "2026-04-27T09:01:13Z",
     "size": 483,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

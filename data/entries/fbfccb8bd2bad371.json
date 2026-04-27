@@ -1,0 +1,29 @@
+{
+  "id": "leninkhaidem-pi-ask-user-question",
+  "name": "leninkhaidem-pi-ask-user-question",
+  "url": "https://github.com/leninkhaidem/pi-ask-user-question",
+  "source": "github-search",
+  "description": "Clean, Claude Code-style ask_user tool for pi-coding-agent — bottom-anchored, markdown context, numbered options with cursor navigation",
+  "metadata": {
+    "github_url": "https://github.com/leninkhaidem/pi-ask-user-question",
+    "repo_full_name": "leninkhaidem/pi-ask-user-question",
+    "description": "Clean, Claude Code-style ask_user tool for pi-coding-agent — bottom-anchored, markdown context, numbered options with cursor navigation",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T08:25:03Z",
+    "pushed_at": "2026-04-27T09:39:15Z",
+    "updated_at": "2026-04-27T09:39:10Z",
+    "size": 22,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

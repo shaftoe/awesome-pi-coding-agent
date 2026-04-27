@@ -1,0 +1,43 @@
+{
+  "id": "@i-language/autocode",
+  "name": "@i-language/autocode",
+  "url": "https://www.npmjs.com/package/@i-language/autocode",
+  "source": "npm-search",
+  "description": "You say it, AutoCode ships it. 47 I-Lang skills covering understanding, planning, building, quality, debugging, deployment, progress, and learning. Code to deployment in one session.",
+  "metadata": {
+    "github_url": "https://github.com/ilang-ai/AutoCode",
+    "npm_name": "@i-language/autocode",
+    "description": "You say it, AutoCode ships it. 47 I-Lang skills covering understanding, planning, building, quality, debugging, deployment, progress, and learning. Code to deployment in one session.",
+    "keywords": [
+      "i-lang",
+      "ilang",
+      "autocode",
+      "ai-skill",
+      "coding-agent",
+      "code-review",
+      "debugging",
+      "deployment",
+      "scaffold",
+      "testing",
+      "claude-code",
+      "cursor",
+      "codex",
+      "copilot",
+      "pi-package"
+    ],
+    "version": "5.0.0",
+    "published_at": "2026-04-27T10:33:03.967Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

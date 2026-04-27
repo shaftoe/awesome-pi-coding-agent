@@ -11,11 +11,14 @@
     "channel": "Panda Making Money",
     "published_at": "2026-04-12T04:23:44Z",
     "thumbnail": "https://i.ytimg.com/vi/qOhaaJMGzwM/hqdefault.jpg",
+    "views": 1582,
+    "likes": 44,
+    "comments": 7,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 38,
-    "level": "stale"
+    "score": 59,
+    "level": "maintained"
   },
   "category": "video"
 }
