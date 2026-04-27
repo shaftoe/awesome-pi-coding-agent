@@ -12,7 +12,7 @@
     [
       "@semantic-release/exec",
       {
-        "publishCmd": "bun run generate && bun scripts/update-site-version.ts ${nextRelease.version}"
+        "prepareCmd": "bun run generate && bun scripts/update-site-version.ts ${nextRelease.version}"
       }
     ],
     [
