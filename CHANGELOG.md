@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0] - 2026-04-27
+
+### Added
+
+- full rewrite of pipeline and storage (#30)
+
 ## [1.2.0] - 2026-04-25
 
 ### Added
@@ -139,6 +145,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove skills category
 - replace @types/bun with pinned bun-types to fix typecheck (#6)
 
+[2.0.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.2.0...v2.0.0
 [1.2.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.0.16...v1.1.0
 [1.0.16]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v1.0.15...v1.0.16
