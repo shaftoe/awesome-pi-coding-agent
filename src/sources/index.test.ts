@@ -30,13 +30,6 @@ describe("parseQueryPrefix", () => {
 		});
 	});
 
-	test("parses rss: prefix with URL", () => {
-		expect(parseQueryPrefix("rss:https://dev.to/feed/tag/pi")).toEqual({
-			target: "rss",
-			term: "https://dev.to/feed/tag/pi",
-		});
-	});
-
 	test("throws on unprefixed query", () => {
 		expect(() => parseQueryPrefix("pi-coding-agent")).toThrow("source prefix required");
 	});
@@ -54,7 +47,6 @@ describe("routeQueries", () => {
 			githubRepoQueries: [],
 			youtubeQueries: [],
 			hackerNewsQueries: [],
-			rssFeeds: [],
 		});
 	});
 
@@ -65,7 +57,6 @@ describe("routeQueries", () => {
 			githubRepoQueries: ["pi-theme", "topic:pi-agent"],
 			youtubeQueries: [],
 			hackerNewsQueries: [],
-			rssFeeds: [],
 		});
 	});
 
@@ -76,7 +67,6 @@ describe("routeQueries", () => {
 			githubRepoQueries: [],
 			youtubeQueries: ["pi coding agent"],
 			hackerNewsQueries: [],
-			rssFeeds: [],
 		});
 	});
 
@@ -87,19 +77,7 @@ describe("routeQueries", () => {
 			githubRepoQueries: [],
 			youtubeQueries: [],
 			hackerNewsQueries: ["pi coding agent", "pi.dev"],
-			rssFeeds: [],
 		});
-	});
-
-	test("routes rss: queries to rssFeeds with auto-generated labels", () => {
-		const result = routeQueries(["rss:https://dev.to/feed/tag/pi-coding-agent"]);
-		expect(result.rssFeeds).toEqual([
-			{ url: "https://dev.to/feed/tag/pi-coding-agent", label: "dev.to:feed/tag/pi-coding-agent" },
-		]);
-		expect(result.npmQueries).toEqual([]);
-		expect(result.githubRepoQueries).toEqual([]);
-		expect(result.youtubeQueries).toEqual([]);
-		expect(result.hackerNewsQueries).toEqual([]);
 	});
 
 	test("routes mixed queries to correct buckets", () => {
@@ -108,14 +86,11 @@ describe("routeQueries", () => {
 			"gh:pi-theme",
 			"yt:pi coding agent",
 			"hn:pi.dev",
-			"rss:https://example.com/feed",
 		]);
 		expect(result.npmQueries).toEqual(["pi-coding-agent"]);
 		expect(result.githubRepoQueries).toEqual(["pi-theme"]);
 		expect(result.youtubeQueries).toEqual(["pi coding agent"]);
 		expect(result.hackerNewsQueries).toEqual(["pi.dev"]);
-		expect(result.rssFeeds).toHaveLength(1);
-		expect(result.rssFeeds?.[0]?.url).toBe("https://example.com/feed");
 	});
 
 	test("returns empty object for empty input (sources use defaults)", () => {
@@ -129,7 +104,6 @@ describe("routeQueries", () => {
 		expect(result.githubRepoQueries).toEqual(["pi-theme"]);
 		expect(result.youtubeQueries).toEqual([]);
 		expect(result.hackerNewsQueries).toEqual([]);
-		expect(result.rssFeeds).toEqual([]);
 	});
 
 	test("throws on unprefixed query", () => {

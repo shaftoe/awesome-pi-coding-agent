@@ -14,7 +14,6 @@ import { createGitHubSource } from "../sources/github.ts";
 import { createHackerNewsSource } from "../sources/hackernews.ts";
 import { getHealthScorer } from "../sources/index.ts";
 import { createNpmSource } from "../sources/npm.ts";
-import { createRSSSource } from "../sources/rss.ts";
 import { scoreFreshness, scoreMetric01 } from "../sources/scoring.ts";
 import { computeHealth, scoreToLevel } from "./health.ts";
 
@@ -67,21 +66,12 @@ function makeHackerNewsEntry(metadata: Record<string, unknown>): Entry {
 	});
 }
 
-function makeRSSEntry(metadata: Record<string, unknown>): Entry {
-	return makeEntry({
-		source: EntrySource.RSSFeed,
-		url: "https://example.com/blog/some-article",
-		metadata,
-	});
-}
-
 // Source instances (stateless scorers, no cache needed)
 const npmSource = createNpmSource(null as never, { offline: true });
 const githubSource = createGitHubSource(null as never, { offline: true });
 // YouTube source may be null without API key; use registry scorer instead
 const youtubeScorer = getHealthScorer(EntrySource.YouTubeSearch);
 const hackerNewsSource = createHackerNewsSource(null as never, { offline: true });
-const rssSource = createRSSSource(null as never, { offline: true });
 
 // ─── scoreMetric01 ─────────────────────────────────────────────────────────────
 
@@ -318,31 +308,6 @@ describe("Hacker News scoreHealthDimensions", () => {
 	});
 });
 
-// ─── RSS scorer ──────────────────────────────────────────────────────────────
-
-describe("RSS scoreHealthDimensions", () => {
-	test("scores minimal metadata with low defaults", () => {
-		const entry = makeRSSEntry({});
-		const dims = rssSource.scoreHealthDimensions(entry);
-		expect(dims.freshness).toBe(5);
-		expect(dims.popularity).toBe(5);
-		expect(dims.activity).toBe(5);
-		expect(dims.depth).toBe(5);
-	});
-
-	test("scores recent RSS article", () => {
-		const now = Temporal.Now.instant();
-		const entry = makeRSSEntry({
-			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
-		});
-		const dims = rssSource.scoreHealthDimensions(entry);
-		expect(dims.freshness).toBe(100);
-		expect(dims.popularity).toBe(5); // no signal
-		expect(dims.activity).toBe(5); // no signal
-		expect(dims.depth).toBe(5);
-	});
-});
-
 // ─── getHealthScorer registry ──────────────────────────────────────────────────
 
 describe("getHealthScorer", () => {
@@ -384,17 +349,6 @@ describe("getHealthScorer", () => {
 		const dims = scorer(entry);
 		expect(dims.freshness).toBe(100);
 		expect(dims.popularity).toBe(80);
-	});
-
-	test("returns a scorer for RSSFeed", () => {
-		const scorer = getHealthScorer(EntrySource.RSSFeed);
-		const now = Temporal.Now.instant();
-		const entry = makeRSSEntry({
-			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
-		});
-		const dims = scorer(entry);
-		expect(dims.freshness).toBe(100);
-		expect(dims.popularity).toBe(5);
 	});
 });
 
@@ -468,17 +422,6 @@ describe("computeHealth", () => {
 		const health = computeHealth(entry, dims);
 		expect(health.score).toBe(60);
 		expect(health.level).toBe(HealthLevel.Maintained);
-	});
-
-	test("RSS entries are capped at 39 (Stale)", () => {
-		const now = Temporal.Now.instant();
-		const entry = makeRSSEntry({
-			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
-		});
-		const dims: HealthDimensions = { freshness: 100, popularity: 100, activity: 100, depth: 100 };
-		const health = computeHealth(entry, dims);
-		expect(health.score).toBe(39);
-		expect(health.level).toBe(HealthLevel.Stale);
 	});
 });
 
@@ -567,16 +510,5 @@ describe("end-to-end health scoring", () => {
 		const health = computeHealth(entry, dims);
 		expect(health.level).toBe(HealthLevel.Maintained);
 		expect(health.score).toBeLessThanOrEqual(60);
-	});
-
-	test("recent RSS article → Stale (capped at 39)", () => {
-		const now = Temporal.Now.instant();
-		const entry = makeRSSEntry({
-			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
-		});
-		const dims = rssSource.scoreHealthDimensions(entry);
-		const health = computeHealth(entry, dims);
-		expect(health.level).toBe(HealthLevel.Stale);
-		expect(health.score).toBeLessThanOrEqual(39);
 	});
 });

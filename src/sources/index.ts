@@ -8,7 +8,6 @@ import { EntrySource } from "../core/types.ts";
 import { createGitHubSource } from "./github.ts";
 import { createHackerNewsSource } from "./hackernews.ts";
 import { createNpmSource } from "./npm.ts";
-import { createRSSSource } from "./rss.ts";
 import type { Source } from "./source.ts";
 import { createYouTubeSource } from "./youtube.ts";
 
@@ -21,14 +20,12 @@ export interface SourceOverrides {
 	youtubeQueries?: string[];
 	/** Override Hacker News search queries. Pass empty array to skip HN entirely. */
 	hackerNewsQueries?: string[];
-	/** Override RSS feed configs. Pass empty array to skip RSS entirely. */
-	rssFeeds?: { url: string; label: string }[];
 	/** Run all sources in offline mode — only cached responses. */
 	offline?: boolean;
 }
 
 /** Prefixes recognized by parseQueryPrefix(). */
-export type QueryTarget = "npm" | "gh" | "yt" | "hn" | "rss";
+export type QueryTarget = "npm" | "gh" | "yt" | "hn";
 
 /** Parse a query string with a required source prefix.
  *
@@ -37,16 +34,15 @@ export type QueryTarget = "npm" | "gh" | "yt" | "hn" | "rss";
  *   - `"gh:pi-extension"`        → { target: "gh", term: "pi-extension" }
  *   - `"yt:pi coding agent"`     → { target: "yt", term: "pi coding agent" }
  *   - `"hn:pi coding agent"`     → { target: "hn", term: "pi coding agent" }
- *   - `"rss:https://dev.to/feed/tag/pi"` → { target: "rss", term: "https://dev.to/feed/tag/pi" }
  *   - `"pi-coding-agent"`        → throws (prefix required)
  */
 export function parseQueryPrefix(raw: string): { target: QueryTarget; term: string } {
-	const match = raw.match(/^(npm|gh|yt|hn|rss):(.+)$/s);
+	const match = raw.match(/^(npm|gh|yt|hn):(.+)$/s);
 	if (match?.[1] && match[2]) {
 		return { target: match[1] as QueryTarget, term: match[2] };
 	}
 	throw new Error(
-		`Invalid query "${raw}": source prefix required (npm:, gh:, yt:, hn:, or rss:). Example: --query "npm:pi-coding-agent"`,
+		`Invalid query "${raw}": source prefix required (npm:, gh:, yt:, or hn:). Example: --query "npm:pi-coding-agent"`,
 	);
 }
 
@@ -56,7 +52,6 @@ export function parseQueryPrefix(raw: string): { target: QueryTarget; term: stri
  * - `gh:` queries       → githubRepoQueries
  * - `yt:` queries       → youtubeQueries
  * - `hn:` queries       → hackerNewsQueries
- * - `rss:` queries      → rssFeeds (treated as feed URLs with auto-generated labels)
  * - Sources that receive queries run only those queries (no defaults).
  * - Sources NOT mentioned get `[]` to skip them entirely.
  * - When no queries are provided at all, returns {} so sources use defaults.
@@ -67,7 +62,6 @@ export function routeQueries(rawQueries: string[]): {
 	githubRepoQueries?: string[];
 	youtubeQueries?: string[];
 	hackerNewsQueries?: string[];
-	rssFeeds?: { url: string; label: string }[];
 } {
 	if (rawQueries.length === 0) return {};
 
@@ -75,7 +69,6 @@ export function routeQueries(rawQueries: string[]): {
 	const ghRepo: string[] = [];
 	const yt: string[] = [];
 	const hn: string[] = [];
-	const rss: { url: string; label: string }[] = [];
 
 	for (const raw of rawQueries) {
 		const { target, term } = parseQueryPrefix(raw);
@@ -92,9 +85,6 @@ export function routeQueries(rawQueries: string[]): {
 			case "hn":
 				hn.push(term);
 				break;
-			case "rss":
-				rss.push({ url: term, label: deriveFeedLabel(term) });
-				break;
 		}
 	}
 
@@ -105,21 +95,7 @@ export function routeQueries(rawQueries: string[]): {
 		githubRepoQueries: ghRepo,
 		youtubeQueries: yt,
 		hackerNewsQueries: hn,
-		rssFeeds: rss,
 	};
-}
-
-/** Derive a short human-readable label from a feed URL. */
-function deriveFeedLabel(url: string): string {
-	try {
-		const parsed = new URL(url);
-		const host = parsed.hostname.replace(/^www\./, "");
-		const path = parsed.pathname.replace(/^\/+/g, "").replace(/\/+$/g, "");
-		// e.g. "dev.to:feed/tag/pi-coding-agent" or "reddit.com:search.rss"
-		return path ? `${host}:${path}` : host;
-	} catch {
-		return url.length > 40 ? `${url.slice(0, 37)}...` : url;
-	}
 }
 
 /**
@@ -153,12 +129,6 @@ export function createAllSources(cache: Cache, overrides: SourceOverrides = {}):
 	if (overrides.hackerNewsQueries) hnOpts.queries = overrides.hackerNewsQueries;
 	if (overrides.offline) hnOpts.offline = overrides.offline;
 	sources.push(createHackerNewsSource(cache, hnOpts));
-
-	// RSS — always available (public feeds, no key required)
-	const rssOpts: { feeds?: { url: string; label: string }[]; offline?: boolean } = {};
-	if (overrides.rssFeeds) rssOpts.feeds = overrides.rssFeeds;
-	if (overrides.offline) rssOpts.offline = overrides.offline;
-	sources.push(createRSSSource(cache, rssOpts));
 
 	return sources;
 }
@@ -205,11 +175,6 @@ export function getHealthScorer(source: EntrySource): (entry: Entry) => HealthDi
 		}
 		case EntrySource.HackerNewsSearch: {
 			const s = createHackerNewsSource(null as never, { offline: true });
-			scorer = s.scoreHealthDimensions;
-			break;
-		}
-		case EntrySource.RSSFeed: {
-			const s = createRSSSource(null as never, { offline: true });
 			scorer = s.scoreHealthDimensions;
 			break;
 		}

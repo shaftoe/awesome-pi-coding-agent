@@ -25,8 +25,6 @@ const CAP_NO_DATES = 39;
 const CAP_YOUTUBE = 60;
 /** Maximum score for Hacker News entries (community link aggregation). */
 const CAP_HACKERNEWS = 60;
-/** Maximum score for RSS entries (articles with no maintenance). */
-const CAP_RSS = 39;
 
 // ─── Public API ────────────────────────────────────────────────────────────────
 
@@ -68,11 +66,6 @@ export function computeHealth(entry: Entry, dims: HealthDimensions): Health {
 	// Hard rule: Hacker News → cap at Maintained
 	if (entry.source === EntrySource.HackerNewsSearch) {
 		score = Math.min(score, CAP_HACKERNEWS);
-	}
-
-	// Hard rule: RSS → cap below Maintained
-	if (entry.source === EntrySource.RSSFeed) {
-		score = Math.min(score, CAP_RSS);
 	}
 
 	// Clamp to 0–100

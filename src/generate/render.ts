@@ -154,8 +154,6 @@ function sourceLabel(source: EntrySource): string {
 			return "YouTube";
 		case "hackernews-search":
 			return "Hacker News";
-		case "rss-feed":
-			return "RSS";
 		case "discord":
 			return "Discord";
 		case "manual":

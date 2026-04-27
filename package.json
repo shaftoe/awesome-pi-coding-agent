@@ -38,7 +38,6 @@
     "typescript": "^6.0.3"
   },
   "dependencies": {
-    "fast-xml-parser": "^5.7.2",
     "temporal-polyfill": "^0.3.2"
   }
 }
