@@ -2,7 +2,10 @@
 
 **Last updated:** 2026-04-27
 
-The project is a **four-stage data pipeline** that discovers, filters, processes, and renders a curated list of resources for the [Pi Coding Agent](https://pi.dev/) ecosystem into an awesome-list README.
+The project is a **four-stage data pipeline** that discovers, filters, processes, and renders a curated list of resources for the [Pi Coding Agent](https://pi.dev/) ecosystem into an awesome-list database and renders it as
+
+- README Markdown document for the GitHub home page
+- and an Astro static site with search features, live at <https://awesome-list.site>
 
 ```
 ┌──────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
@@ -10,8 +13,6 @@ The project is a **four-stage data pipeline** that discovers, filters, processes
 │  Raw gather  │     │  Blacklist   │     │  Dedup+meta  │     │  Render MD   │
 └──────────────┘     └──────────────┘     └──────────────┘     └──────────────┘
 ```
-
-All **four stages** are implemented. See [What's Left](#whats-left) for remaining work.
 
 ---
 
@@ -703,78 +704,3 @@ bun run generate              # reads from data/
 10. **No global mutable state** — stats returned from functions, not stored in singletons.
 11. **`Repository<T>` interface** — generic storage abstraction. Current `FileRepository<T>` stores flat `dataDir/<sha256-trunc>.json`. Future SQLite swap only requires implementing the interface.
 12. **String enums for domain vocabularies** — `Category`, `EntrySource`, `HealthLevel` are TypeScript string enums. Serializable as plain JSON strings, iterable at runtime via `CATEGORIES`, catch typos at compile time.
-
----
-
-## What's Left
-
-### Stage 1: Discover ✅
-
-| Task | Status | Notes |
-|------|--------|-------|
-| npm source | ✅ | Keyword queries, full pagination |
-| GitHub source | ✅ | Repo search |
-| YouTube source | ✅ | Token-based pagination |
-| Clean separation from filter/process | ✅ | `bun run discover` is pure Stage 1 |
-
-### Stage 2: Filter ✅
-
-| Task | Status | Notes |
-|------|--------|-------|
-| Move `filter.ts` to `filter/` | ✅ | Separate pipeline stage |
-| Create `filter/index.ts` CLI | ✅ | Read candidates → filter → write to `.cache/filtered/` |
-| Preserve discovery metadata in blacklist | ✅ | Source name + query hint tracked per rejection |
-| Blacklist schema with timestamps | ✅ | `blacklisted_at`, `source`, optional `discovery` fields |
-
-### Stage 3: Process ✅
-
-| Task | Status | Notes |
-|------|--------|-------|
-| Create `process/index.ts` CLI | ✅ | Read filtered → dedup + classify + enrich → write `data/` |
-| Dedup logic (npm > GitHub) | ✅ | npm-priority sort + GitHub cross-ref replacement |
-| Classification | ✅ | Rule-based classifier in `enrich/classify.ts` |
-| Health scoring | ✅ | Two-layer: source scorers + generic combiner |
-| README enrichment | 🔲 | Fetch + parse README for category scores |
-
-### Stage 4: Generate ✅
-
-| Task | Status | Notes |
-|------|--------|-------|
-| Render README.md | ✅ | Table + list layout, health badges, popularity signals, TOC, stats |
-| Static site | ✅ | Adapted to new pipeline — see [site/rewrite.md](../site/rewrite.md) |
-
----
-
-## Testing
-
-Test counts per directory:
-
-| Directory | Tests | Files | Notes |
-|-----------|------:|------:|-------|
-| `src/core/` | 27 | 3 | cache (12), paginate (8), throttle (7) — all deterministic, injectable clocks |
-| `src/discover/` | 20 | 2 | source (9), writer (11) |
-| `src/sources/` | 12 | 1 | Source registry + health scorer lookup |
-| `src/filter/` | 52 | 1 | Relevance filter rules + discovery metadata |
-| `src/enrich/` | 33 | 1 | Health dimension scorers + generic combiner + end-to-end |
-| **Total** | **144** | **8** | |
-- Run: `bun test`
-- Typecheck + lint: `bun run check` (runs `tsc --noEmit` + `biome check .`)
-
-### Current dataset
-
-As of 2026-04-27, the pipeline processes **~2 250 entries**:
-
-| Source | Count | Share |
-|--------|------:|------:|
-| npm | ~1 487 | 66% |
-| GitHub | ~717 | 32% |
-| YouTube | ~47 | 2% |
-
-| Category | Count | Share |
-|----------|------:|------:|
-| Extension | ~1 251 | 55% |
-| Misc | ~910 | 40% |
-| Video | ~47 | 2% |
-| Theme | ~43 | 2% |
-
-Generated README is ~380 KB, dominated by the Extension and Misc tables.
