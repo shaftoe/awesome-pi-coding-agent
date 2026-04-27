@@ -1,0 +1,35 @@
+{
+  "id": "pi-review-loop",
+  "name": "pi-review-loop",
+  "url": "https://www.npmjs.com/package/pi-review-loop",
+  "source": "npm-search",
+  "description": "Automated code review loop extension for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/nicobailon/pi-review-loop",
+    "npm_name": "pi-review-loop",
+    "description": "Automated code review loop extension for pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "code-review",
+      "automation",
+      "ralph-wiggum-loop"
+    ],
+    "version": "0.4.4",
+    "published_at": "2026-04-15T18:20:26.399Z",
+    "npm_downloads_monthly": 680,
+    "npm_downloads_weekly": 276,
+    "npm_score_final": 26.132605,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

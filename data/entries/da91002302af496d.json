@@ -1,0 +1,29 @@
+{
+  "id": "jnyross-harness-engineering",
+  "name": "jnyross-harness-engineering",
+  "url": "https://github.com/jnyross/harness-engineering",
+  "source": "github-search",
+  "description": "A coding agent harness forked from pi-mono",
+  "metadata": {
+    "github_url": "https://github.com/jnyross/harness-engineering",
+    "repo_full_name": "jnyross/harness-engineering",
+    "description": "A coding agent harness forked from pi-mono",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-15T17:07:34Z",
+    "pushed_at": "2026-02-18T11:11:02Z",
+    "updated_at": "2026-02-16T18:45:33Z",
+    "size": 39261,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 57,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

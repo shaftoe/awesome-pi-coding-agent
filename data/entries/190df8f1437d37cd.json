@@ -1,0 +1,29 @@
+{
+  "id": "@ontomics/ontomics",
+  "name": "@ontomics/ontomics",
+  "url": "https://www.npmjs.com/package/@ontomics/ontomics",
+  "source": "npm-search",
+  "description": "MCP server that extracts domain ontologies from Python codebases",
+  "metadata": {
+    "github_url": "https://github.com/EtienneChollet/ontomics",
+    "npm_name": "@ontomics/ontomics",
+    "description": "MCP server that extracts domain ontologies from Python codebases",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-04-14T02:34:03.474Z",
+    "npm_downloads_monthly": 3175,
+    "npm_downloads_weekly": 222,
+    "npm_score_final": 32.20834,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "extension"
+}

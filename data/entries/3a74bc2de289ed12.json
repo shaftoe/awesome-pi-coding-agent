@@ -1,0 +1,29 @@
+{
+  "id": "coctostan-pi-superteam",
+  "name": "coctostan-pi-superteam",
+  "url": "https://github.com/coctostan/pi-superteam",
+  "source": "github-search",
+  "description": "Pi coding agent extension: TDD/ATDD enforcement, specialized agent dispatch, iterative review cycles, context-aware rules",
+  "metadata": {
+    "github_url": "https://github.com/coctostan/pi-superteam",
+    "repo_full_name": "coctostan/pi-superteam",
+    "description": "Pi coding agent extension: TDD/ATDD enforcement, specialized agent dispatch, iterative review cycles, context-aware rules",
+    "stars": 3,
+    "forks": 2,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-06T23:15:38Z",
+    "pushed_at": "2026-02-14T15:02:49Z",
+    "updated_at": "2026-03-17T10:38:04Z",
+    "size": 578,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 51,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

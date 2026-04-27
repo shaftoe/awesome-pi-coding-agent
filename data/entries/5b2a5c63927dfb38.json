@@ -1,0 +1,32 @@
+{
+  "id": "pi-meridian-extension",
+  "name": "pi-meridian-extension",
+  "url": "https://www.npmjs.com/package/pi-meridian-extension",
+  "source": "npm-search",
+  "description": "Meridian proxy provider for pi — use your Claude Max subscription through the Meridian local proxy",
+  "metadata": {
+    "github_url": "https://github.com/lnilluv/pi-meridian-extension",
+    "npm_name": "pi-meridian-extension",
+    "description": "Meridian proxy provider for pi — use your Claude Max subscription through the Meridian local proxy",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "meridian",
+      "claude"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-04-10T09:22:18.198Z",
+    "npm_downloads_monthly": 257,
+    "npm_downloads_weekly": 15,
+    "npm_score_final": 21.605286,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

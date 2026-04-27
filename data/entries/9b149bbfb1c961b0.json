@@ -1,0 +1,29 @@
+{
+  "id": "pi-zellij-tab-namer",
+  "name": "pi-zellij-tab-namer",
+  "url": "https://www.npmjs.com/package/pi-zellij-tab-namer",
+  "source": "npm-search",
+  "description": "Automatically renames the active Zellij tab to a short summary of the conversation after each agent turn, using a fast model for minimal overhead.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-zellij-tab-namer",
+    "description": "Automatically renames the active Zellij tab to a short summary of the conversation after each agent turn, using a fast model for minimal overhead.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-03-13T15:58:09.591Z",
+    "npm_downloads_monthly": 29,
+    "npm_downloads_weekly": 6,
+    "npm_score_final": 12.3272915,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

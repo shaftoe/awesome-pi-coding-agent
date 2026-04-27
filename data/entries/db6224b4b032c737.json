@@ -1,0 +1,29 @@
+{
+  "id": "agustif-pi-mimo-provider",
+  "name": "agustif-pi-mimo-provider",
+  "url": "https://github.com/agustif/pi-mimo-provider",
+  "source": "github-search",
+  "description": "Xiaomi MiMo LLM provider for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/agustif/pi-mimo-provider",
+    "repo_full_name": "agustif/pi-mimo-provider",
+    "description": "Xiaomi MiMo LLM provider for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-19T01:56:30Z",
+    "pushed_at": "2026-03-19T01:58:37Z",
+    "updated_at": "2026-03-19T01:58:40Z",
+    "size": 39,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pi-web-extension",
+  "name": "pi-web-extension",
+  "url": "https://www.npmjs.com/package/pi-web-extension",
+  "source": "npm-search",
+  "description": "A pi extension that adds web search and web fetch tools to the coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/NicoAvanzDev/pi-web-extension",
+    "npm_name": "pi-web-extension",
+    "description": "A pi extension that adds web search and web fetch tools to the coding agent.",
+    "keywords": [
+      "pi-extension",
+      "pi-package",
+      "web-fetch",
+      "web-search"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-03-23T11:39:23.503Z",
+    "npm_downloads_monthly": 380,
+    "npm_downloads_weekly": 21,
+    "npm_score_final": 23.535381,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 75,
+    "level": "active"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "codewithkenzo-pi-rig",
+  "name": "codewithkenzo-pi-rig",
+  "url": "https://github.com/codewithkenzo/pi-rig",
+  "source": "github-search",
+  "description": "Extensions for the Pi coding agent. Dispatch background agents, theming, and more.",
+  "metadata": {
+    "github_url": "https://github.com/codewithkenzo/pi-rig",
+    "repo_full_name": "codewithkenzo/pi-rig",
+    "description": "Extensions for the Pi coding agent. Dispatch background agents, theming, and more.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "bun",
+      "bunx",
+      "cli-installer",
+      "coding-agent",
+      "developer-tools",
+      "effect-ts",
+      "electric-midnight",
+      "pi",
+      "pi-agent",
+      "pi-agent-core",
+      "pi-coding-agent",
+      "pi-plugins",
+      "terminal-ui",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-14T03:38:33Z",
+    "pushed_at": "2026-04-24T09:35:38Z",
+    "updated_at": "2026-04-24T07:23:20Z",
+    "size": 18056,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rafaymhddn-pi-telegram-multi",
+  "name": "rafaymhddn-pi-telegram-multi",
+  "url": "https://github.com/rafaymhddn/pi-telegram-multi",
+  "source": "github-search",
+  "description": "Multi-session Telegram bridge for pi coding agent — one bot, many sessions",
+  "metadata": {
+    "github_url": "https://github.com/rafaymhddn/pi-telegram-multi",
+    "repo_full_name": "rafaymhddn/pi-telegram-multi",
+    "description": "Multi-session Telegram bridge for pi coding agent — one bot, many sessions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-17T13:57:58Z",
+    "pushed_at": "2026-04-17T16:53:33Z",
+    "updated_at": "2026-04-17T16:53:37Z",
+    "size": 72,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

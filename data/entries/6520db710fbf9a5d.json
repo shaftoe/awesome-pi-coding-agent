@@ -1,0 +1,37 @@
+{
+  "id": "Dwsy-ace-tool-skill",
+  "name": "Dwsy-ace-tool-skill",
+  "url": "https://github.com/Dwsy/ace-tool-skill",
+  "source": "github-search",
+  "description": "Semantic code search using AugmentCode for Pi Agent with debug web UI",
+  "metadata": {
+    "github_url": "https://github.com/Dwsy/ace-tool-skill",
+    "repo_full_name": "Dwsy/ace-tool-skill",
+    "description": "Semantic code search using AugmentCode for Pi Agent with debug web UI",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "augmentcode",
+      "code-search",
+      "debug-tool",
+      "mcp",
+      "pi-agent",
+      "semantic-search",
+      "web-ui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-01-07T14:10:38Z",
+    "pushed_at": "2026-01-23T01:23:40Z",
+    "updated_at": "2026-02-27T22:54:18Z",
+    "size": 56,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 41,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jkuball-pi-senses",
+  "name": "jkuball-pi-senses",
+  "url": "https://github.com/jkuball/pi-senses",
+  "source": "github-search",
+  "description": "sloppy senses for your pi (on macOS)",
+  "metadata": {
+    "github_url": "https://github.com/jkuball/pi-senses",
+    "repo_full_name": "jkuball/pi-senses",
+    "description": "sloppy senses for your pi (on macOS)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "extension",
+      "pi",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-19T16:58:37Z",
+    "pushed_at": "2026-04-19T18:47:15Z",
+    "updated_at": "2026-04-19T18:47:19Z",
+    "size": 3426,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "possibly-pi-tree-delete",
+  "name": "possibly-pi-tree-delete",
+  "url": "https://github.com/possibly/pi-tree-delete",
+  "source": "github-search",
+  "description": "Tree context deletion for pi-agents",
+  "metadata": {
+    "github_url": "https://github.com/possibly/pi-tree-delete",
+    "repo_full_name": "possibly/pi-tree-delete",
+    "description": "Tree context deletion for pi-agents",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-01T00:56:27Z",
+    "pushed_at": "2026-04-01T01:08:40Z",
+    "updated_at": "2026-04-01T01:08:43Z",
+    "size": 4,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

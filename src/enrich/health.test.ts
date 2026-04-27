@@ -1,282 +1,427 @@
 /**
- * Tests for the health scoring algorithm.
- * Covers GitHub health, YouTube health, thresholds, and edge cases.
+ * Tests for health dimension scorers and the generic combiner.
+ *
+ * Each source (npm, GitHub, YouTube) implements `scoreHealthDimensions` on the
+ * Source interface. The generic combiner in `enrich/health.ts` applies the
+ * weighted formula and hard rules.
  */
-import { describe, expect, it } from "bun:test";
-import type { CategorizedEntry } from "../lib/types.ts";
-import { calculateHealth } from "./health.ts";
 
-// ─── Helper ────────────────────────────────────────────────────────────────────
+import "../core/temporal.ts";
 
-function makeGitHubEntry(overrides: {
-	stars?: number;
-	lastCommit?: string; // ISO date string
-	isArchived?: boolean;
-	isFork?: boolean;
-	description?: string;
-}): CategorizedEntry {
+import { describe, expect, test } from "bun:test";
+import { type Entry, EntrySource, type HealthDimensions, HealthLevel } from "../core/types.ts";
+import { createGitHubSource } from "../sources/github.ts";
+import { getHealthScorer } from "../sources/index.ts";
+import { createNpmSource } from "../sources/npm.ts";
+import { scoreFreshness, scoreMetric01 } from "../sources/scoring.ts";
+import { computeHealth, scoreToLevel } from "./health.ts";
+
+// ─── Helpers ───────────────────────────────────────────────────────────────────
+
+/** Milliseconds per day — avoids temporal-polyfill "large units" limitation. */
+const DAY_MS = 86_400_000;
+
+function makeEntry(overrides: Partial<Entry> & { source: EntrySource }): Entry {
 	return {
 		id: "test-entry",
 		name: "Test Entry",
-		url: "https://github.com/foo/bar",
-		source: "github-search",
-		description: overrides.description ?? "",
-		category: "extension",
-		metadata: {
-			stars: overrides.stars ?? 0,
-			last_commit: overrides.lastCommit ?? new Date().toISOString(),
-			is_archived: overrides.isArchived ?? false,
-			is_fork: overrides.isFork ?? false,
-		},
-		health: { score: 0, level: "stale" },
+		url: "https://example.com/test",
+		description: "A test entry",
+		metadata: {},
+		health: { score: 0, level: HealthLevel.Stale },
+		...overrides,
 	};
 }
 
-function makeYouTubeEntry(overrides: {
-	viewCount?: number;
-	likeCount?: number;
-	publishedAt?: string;
-}): CategorizedEntry {
-	return {
-		id: "YT_test123",
-		name: "Test Video",
-		url: "https://www.youtube.com/watch?v=test123",
-		source: "youtube-search",
-		description: "",
-		category: "video",
-		metadata: {
-			view_count: overrides.viewCount ?? 0,
-			like_count: overrides.likeCount ?? 0,
-			published_at: overrides.publishedAt ?? new Date().toISOString(),
-		},
-		health: { score: 0, level: "stale" },
-	};
+function makeNpmEntry(metadata: Record<string, unknown>): Entry {
+	return makeEntry({
+		source: EntrySource.NpmSearch,
+		url: "https://www.npmjs.com/package/test-pkg",
+		metadata,
+	});
 }
 
-// ─── Health level thresholds ───────────────────────────────────────────────────
+function makeGitHubEntry(metadata: Record<string, unknown>): Entry {
+	return makeEntry({
+		source: EntrySource.GitHubSearch,
+		url: "https://github.com/owner/repo",
+		metadata,
+	});
+}
 
-describe("calculateHealth — health level thresholds", () => {
-	it("returns 'active' for score >= 70", () => {
-		// Fresh repo with 200 stars: 50 + min(200/10,20)=20 + 20(fresh) = 90
-		const entry = makeGitHubEntry({
-			stars: 200,
-			lastCommit: new Date().toISOString(),
-		});
-		const health = calculateHealth(entry);
-		expect(health.score).toBeGreaterThanOrEqual(70);
-		expect(health.level).toBe("active");
+function makeYouTubeEntry(metadata: Record<string, unknown>): Entry {
+	return makeEntry({
+		source: EntrySource.YouTubeSearch,
+		url: "https://youtube.com/watch?v=test123",
+		metadata,
+	});
+}
+
+// Source instances (stateless scorers, no cache needed)
+const npmSource = createNpmSource(null as never, { offline: true });
+const githubSource = createGitHubSource(null as never, { offline: true });
+// YouTube source may be null without API key; use registry scorer instead
+const youtubeScorer = getHealthScorer(EntrySource.YouTubeSearch);
+
+// ─── scoreMetric01 ─────────────────────────────────────────────────────────────
+
+describe("scoreMetric01", () => {
+	test("returns 5 for null", () => {
+		expect(scoreMetric01(null)).toBe(5);
 	});
 
-	it("returns 'maintained' for score 40-69", () => {
-		// Repo with 0 stars, 60 days old: 50 + 0 + 10 = 60
-		const sixtyDaysAgo = new Date(Date.now() - 60 * 24 * 60 * 60 * 1000).toISOString();
-		const entry = makeGitHubEntry({
-			stars: 0,
-			lastCommit: sixtyDaysAgo,
-		});
-		const health = calculateHealth(entry);
-		expect(health.score).toBeGreaterThanOrEqual(40);
-		expect(health.score).toBeLessThan(70);
-		expect(health.level).toBe("maintained");
+	test("returns 5 for undefined", () => {
+		expect(scoreMetric01(undefined)).toBe(5);
 	});
 
-	it("returns 'stale' for score 15-39", () => {
-		// Fork with no stars, no recent: 50 - 30 = 20
-		const sixMonthsAgo = new Date(Date.now() - 180 * 24 * 60 * 60 * 1000).toISOString();
-		const entry = makeGitHubEntry({
-			stars: 0,
-			lastCommit: sixMonthsAgo,
-			isFork: true,
-		});
-		const health = calculateHealth(entry);
-		expect(health.score).toBeGreaterThanOrEqual(15);
-		expect(health.score).toBeLessThan(40);
-		expect(health.level).toBe("stale");
+	test("maps 0–1 linearly to 0–100", () => {
+		expect(scoreMetric01(1.0)).toBe(100);
+		expect(scoreMetric01(0.5)).toBe(50);
+		expect(scoreMetric01(0.0)).toBe(5); // floor of 5
 	});
 
-	it("returns 'dead' for score < 15", () => {
-		// Archived fork with old commit: 50 - 50(archived) - 30(fork) - 20(old) = -50 → clamped to 0
-		const fourHundredDaysAgo = new Date(Date.now() - 400 * 24 * 60 * 60 * 1000).toISOString();
-		const entry = makeGitHubEntry({
-			stars: 0,
-			lastCommit: fourHundredDaysAgo,
-			isArchived: true,
-			isFork: true,
-		});
-		const health = calculateHealth(entry);
-		expect(health.score).toBeLessThan(15);
-		expect(health.level).toBe("dead");
+	test("floors at 5", () => {
+		expect(scoreMetric01(0.001)).toBe(5);
 	});
 });
 
-// ─── GitHub health — star bonuses ──────────────────────────────────────────────
+// ─── scoreFreshness ────────────────────────────────────────────────────────────
 
-describe("calculateHealth — GitHub star scoring", () => {
-	it("adds up to 20 points for stars (capped at 200)", () => {
-		const freshDate = new Date().toISOString();
-		const noStars = makeGitHubEntry({ stars: 0, lastCommit: freshDate });
-		const hundredStars = makeGitHubEntry({ stars: 100, lastCommit: freshDate });
-		const twoHundredStars = makeGitHubEntry({ stars: 200, lastCommit: freshDate });
-		const thousandStars = makeGitHubEntry({ stars: 1000, lastCommit: freshDate });
+describe("scoreFreshness", () => {
+	test("returns 5 for null date", () => {
+		expect(scoreFreshness(null)).toBe(5);
+	});
 
-		const h0 = calculateHealth(noStars);
-		const h100 = calculateHealth(hundredStars);
-		const h200 = calculateHealth(twoHundredStars);
-		const h1000 = calculateHealth(thousandStars);
+	test("returns 5 for undefined date", () => {
+		expect(scoreFreshness(undefined)).toBe(5);
+	});
 
-		// 100 stars = +10 points
-		expect(h100.score - h0.score).toBe(10);
-		// 200 stars = +20 points (cap)
-		expect(h200.score - h0.score).toBe(20);
-		// 1000 stars also = +20 points (capped)
-		expect(h1000.score).toBe(h200.score);
+	test("returns 100 for recent date", () => {
+		const now = Temporal.Now.instant();
+		const recent = now.subtract({ milliseconds: 60_000 }).toString();
+		expect(scoreFreshness(recent)).toBe(100);
+	});
+
+	test("returns 5 for very old date (≥ 730 days)", () => {
+		const now = Temporal.Now.instant();
+		const old = now.subtract({ milliseconds: 800 * DAY_MS }).toString();
+		expect(scoreFreshness(old)).toBe(5);
 	});
 });
 
-// ─── GitHub health — recency scoring ───────────────────────────────────────────
+// ─── npm scorer ────────────────────────────────────────────────────────────────
 
-describe("calculateHealth — GitHub recency scoring", () => {
-	it("adds 20 for commits within 30 days", () => {
-		const fresh = new Date().toISOString();
-		const entry = makeGitHubEntry({ lastCommit: fresh });
-		const health = calculateHealth(entry);
-		// 50 (base) + 0 (stars) + 20 (fresh) = 70
-		expect(health.score).toBe(70);
+describe("npm scoreHealthDimensions", () => {
+	test("scores minimal metadata with low defaults", () => {
+		const entry = makeNpmEntry({});
+		const dims = npmSource.scoreHealthDimensions(entry);
+		expect(dims.freshness).toBe(5);
+		expect(dims.popularity).toBe(5);
+		expect(dims.activity).toBe(5);
+		expect(dims.depth).toBe(5);
 	});
 
-	it("adds 10 for commits within 90 days", () => {
-		const sixtyDaysAgo = new Date(Date.now() - 60 * 24 * 60 * 60 * 1000).toISOString();
-		const entry = makeGitHubEntry({ lastCommit: sixtyDaysAgo });
-		const health = calculateHealth(entry);
-		// 50 (base) + 0 (stars) + 10 (60d) = 60
+	test("scores fresh popular package with high metrics", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeNpmEntry({
+			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
+			npm_downloads_monthly: 50_000,
+			npm_score_maintenance: 0.9,
+			npm_score_quality: 0.8,
+		});
+		const dims = npmSource.scoreHealthDimensions(entry);
+		expect(dims.freshness).toBe(100);
+		expect(dims.popularity).toBe(100);
+		expect(dims.activity).toBe(90);
+		expect(dims.depth).toBe(80);
+	});
+
+	test("scores stale unpopular package", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeNpmEntry({
+			published_at: now.subtract({ milliseconds: 400 * DAY_MS }).toString(),
+			npm_downloads_monthly: 5,
+			npm_score_maintenance: 0.1,
+			npm_score_quality: 0.1,
+		});
+		const dims = npmSource.scoreHealthDimensions(entry);
+		expect(dims.freshness).toBe(20);
+		expect(dims.popularity).toBe(5);
+		expect(dims.activity).toBe(10);
+		expect(dims.depth).toBe(10);
+	});
+});
+
+// ─── GitHub scorer ─────────────────────────────────────────────────────────────
+
+describe("GitHub scoreHealthDimensions", () => {
+	test("scores minimal metadata with low defaults", () => {
+		const entry = makeGitHubEntry({});
+		const dims = githubSource.scoreHealthDimensions(entry);
+		expect(dims.freshness).toBe(5);
+		expect(dims.popularity).toBe(5);
+		expect(dims.depth).toBe(10); // default for missing size
+	});
+
+	test("scores active popular repo with many stars", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeGitHubEntry({
+			pushed_at: now.subtract({ milliseconds: 5 * DAY_MS }).toString(),
+			updated_at: now.subtract({ milliseconds: 5 * DAY_MS }).toString(),
+			stars: 500,
+			open_issues: 10,
+			size: 5000,
+		});
+		const dims = githubSource.scoreHealthDimensions(entry);
+		expect(dims.freshness).toBe(100);
+		expect(dims.popularity).toBe(70);
+		expect(dims.activity).toBe(100); // < 30 days + open issues
+		expect(dims.depth).toBe(60);
+	});
+
+	test("scores stale repo with no activity", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeGitHubEntry({
+			pushed_at: now.subtract({ milliseconds: 400 * DAY_MS }).toString(),
+			updated_at: now.subtract({ milliseconds: 400 * DAY_MS }).toString(),
+			stars: 2,
+			open_issues: 0,
+			size: 50,
+		});
+		const dims = githubSource.scoreHealthDimensions(entry);
+		expect(dims.freshness).toBe(20);
+		expect(dims.popularity).toBe(20);
+		expect(dims.activity).toBe(5);
+		expect(dims.depth).toBe(10);
+	});
+
+	test("activity score 100 requires both recent update AND open issues", () => {
+		const now = Temporal.Now.instant();
+		// Recent but no issues → 60
+		const noIssues = makeGitHubEntry({
+			updated_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
+			open_issues: 0,
+		});
+		expect(githubSource.scoreHealthDimensions(noIssues).activity).toBe(60);
+
+		// Recent with issues → 100
+		const withIssues = makeGitHubEntry({
+			updated_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
+			open_issues: 5,
+		});
+		expect(githubSource.scoreHealthDimensions(withIssues).activity).toBe(100);
+	});
+});
+
+// ─── YouTube scorer ────────────────────────────────────────────────────────────
+
+describe("YouTube scoreHealthDimensions", () => {
+	test("scores minimal metadata with low defaults", () => {
+		// YouTube source may be null without API key, but scorer should still work via registry
+		const entry = makeYouTubeEntry({});
+		const dims = youtubeScorer(entry);
+		expect(dims.freshness).toBe(5);
+		expect(dims.popularity).toBe(5);
+		expect(dims.activity).toBe(5);
+		expect(dims.depth).toBe(0); // videos have no depth
+	});
+
+	test("scores popular recent video with engagement", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeYouTubeEntry({
+			published_at: now.subtract({ milliseconds: 20 * DAY_MS }).toString(),
+			views: 15_000,
+			likes: 800,
+			comments: 200,
+		});
+		const dims = youtubeScorer(entry);
+		expect(dims.freshness).toBe(100);
+		expect(dims.popularity).toBe(100);
+		expect(dims.activity).toBe(100); // likes + comments = 1000
+		expect(dims.depth).toBe(0);
+	});
+
+	test("scores old video with few views", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeYouTubeEntry({
+			published_at: now.subtract({ milliseconds: 400 * DAY_MS }).toString(),
+			views: 50,
+			likes: 2,
+			comments: 3,
+		});
+		const dims = youtubeScorer(entry);
+		expect(dims.freshness).toBe(20);
+		expect(dims.popularity).toBe(10);
+		expect(dims.activity).toBe(5); // likes + comments = 5
+		expect(dims.depth).toBe(0);
+	});
+});
+
+// ─── getHealthScorer registry ──────────────────────────────────────────────────
+
+describe("getHealthScorer", () => {
+	test("returns a scorer for NpmSearch", () => {
+		const scorer = getHealthScorer(EntrySource.NpmSearch);
+		const entry = makeNpmEntry({ npm_downloads_monthly: 50_000 });
+		const dims = scorer(entry);
+		expect(dims.popularity).toBe(100);
+	});
+
+	test("returns a scorer for GitHubSearch", () => {
+		const scorer = getHealthScorer(EntrySource.GitHubSearch);
+		const entry = makeGitHubEntry({ stars: 500 });
+		const dims = scorer(entry);
+		expect(dims.popularity).toBe(70);
+	});
+
+	test("returns a scorer for YouTubeSearch", () => {
+		const scorer = getHealthScorer(EntrySource.YouTubeSearch);
+		const entry = makeYouTubeEntry({ views: 15_000 });
+		const dims = scorer(entry);
+		expect(dims.popularity).toBe(100);
+	});
+
+	test("returns default scorer for unknown sources", () => {
+		const scorer = getHealthScorer(EntrySource.Manual);
+		const entry = makeEntry({ source: EntrySource.Manual });
+		const dims = scorer(entry);
+		expect(dims).toEqual({ freshness: 5, popularity: 5, activity: 5, depth: 5 });
+	});
+});
+
+// ─── computeHealth (generic combiner) ──────────────────────────────────────────
+
+describe("computeHealth", () => {
+	test("archived entry → Dead (score 0) regardless of dimensions", () => {
+		const entry = makeGitHubEntry({ archived: true });
+		const dims: HealthDimensions = { freshness: 100, popularity: 100, activity: 100, depth: 100 };
+		const health = computeHealth(entry, dims);
+		expect(health.score).toBe(0);
+		expect(health.level).toBe(HealthLevel.Dead);
+	});
+
+	test("YouTube entries are capped at Maintained (max 60)", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeYouTubeEntry({
+			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
+		});
+		const dims: HealthDimensions = { freshness: 100, popularity: 100, activity: 100, depth: 0 };
+		const health = computeHealth(entry, dims);
 		expect(health.score).toBe(60);
+		expect(health.level).toBe(HealthLevel.Maintained);
 	});
 
-	it("subtracts 20 for commits older than 365 days", () => {
-		const fourHundredDaysAgo = new Date(Date.now() - 400 * 24 * 60 * 60 * 1000).toISOString();
-		const entry = makeGitHubEntry({ lastCommit: fourHundredDaysAgo });
-		const health = calculateHealth(entry);
-		// 50 (base) + 0 (stars) - 20 (old) = 30
-		expect(health.score).toBe(30);
-	});
-});
-
-// ─── GitHub health — penalties ─────────────────────────────────────────────────
-
-describe("calculateHealth — GitHub penalties", () => {
-	it("subtracts 50 for archived repos", () => {
-		const fresh = new Date().toISOString();
-		const normal = makeGitHubEntry({ lastCommit: fresh, isArchived: false });
-		const archived = makeGitHubEntry({ lastCommit: fresh, isArchived: true });
-		expect(calculateHealth(normal).score - calculateHealth(archived).score).toBe(50);
+	test("entries with no date metadata are capped at Stale (max 39)", () => {
+		const entry = makeNpmEntry({}); // no published_at, pushed_at, or updated_at
+		const dims: HealthDimensions = { freshness: 100, popularity: 100, activity: 100, depth: 100 };
+		const health = computeHealth(entry, dims);
+		expect(health.score).toBeLessThanOrEqual(39);
+		expect(health.level).toBe(HealthLevel.Stale);
 	});
 
-	it("subtracts 30 for forks", () => {
-		const fresh = new Date().toISOString();
-		const normal = makeGitHubEntry({ lastCommit: fresh, isFork: false });
-		const fork = makeGitHubEntry({ lastCommit: fresh, isFork: true });
-		expect(calculateHealth(normal).score - calculateHealth(fork).score).toBe(30);
-	});
-});
-
-// ─── Score clamping ────────────────────────────────────────────────────────────
-
-describe("calculateHealth — score clamping", () => {
-	it("clamps score to 0 minimum", () => {
-		const fourHundredDaysAgo = new Date(Date.now() - 400 * 24 * 60 * 60 * 1000).toISOString();
-		const entry = makeGitHubEntry({
-			stars: 0,
-			lastCommit: fourHundredDaysAgo,
-			isArchived: true,
-			isFork: true,
+	test("applies weighted formula correctly", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeNpmEntry({
+			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
 		});
-		const health = calculateHealth(entry);
-		expect(health.score).toBeGreaterThanOrEqual(0);
+		const dims: HealthDimensions = { freshness: 100, popularity: 70, activity: 50, depth: 30 };
+		const health = computeHealth(entry, dims);
+		const expected = Math.round(100 * 0.35 + 70 * 0.3 + 50 * 0.2 + 30 * 0.15); // = 69.5 → 70
+		expect(health.score).toBe(expected);
 	});
 
-	it("clamps score to 100 maximum", () => {
-		const fresh = new Date().toISOString();
-		const entry = makeGitHubEntry({
-			stars: 5000,
-			lastCommit: fresh,
+	test("clamps score to 0–100", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeNpmEntry({
+			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
 		});
-		const health = calculateHealth(entry);
-		expect(health.score).toBeLessThanOrEqual(100);
-	});
-});
-
-// ─── YouTube health ────────────────────────────────────────────────────────────
-
-describe("calculateHealth — YouTube entries", () => {
-	it("uses YouTube health for video category", () => {
-		const entry = makeYouTubeEntry({
-			viewCount: 10000,
-			likeCount: 500,
-			publishedAt: new Date().toISOString(),
-		});
-		const health = calculateHealth(entry);
-		expect(health.score).toBeGreaterThan(0);
-		// 50 + 25(fresh<30d) + min(10000/500, 15)=15 + min(500/50, 10)=10 = 100 → clamped to 100
-		expect(health.score).toBe(100);
-		expect(health.level).toBe("active");
-	});
-
-	it("gives higher scores to videos with more views", () => {
-		const lowViews = makeYouTubeEntry({ viewCount: 100 });
-		const highViews = makeYouTubeEntry({ viewCount: 5000 });
-		expect(calculateHealth(highViews).score).toBeGreaterThan(calculateHealth(lowViews).score);
-	});
-
-	it("gives higher scores to videos with more likes", () => {
-		const lowLikes = makeYouTubeEntry({ likeCount: 5 });
-		const highLikes = makeYouTubeEntry({ likeCount: 200 });
-		expect(calculateHealth(highLikes).score).toBeGreaterThan(calculateHealth(lowLikes).score);
-	});
-
-	it("penalizes old videos (older than 365 days)", () => {
-		const fresh = new Date().toISOString();
-		const twoYearsAgo = new Date(Date.now() - 730 * 24 * 60 * 60 * 1000).toISOString();
-		const freshEntry = makeYouTubeEntry({ publishedAt: fresh });
-		const oldEntry = makeYouTubeEntry({ publishedAt: twoYearsAgo });
-		expect(calculateHealth(freshEntry).score).toBeGreaterThan(calculateHealth(oldEntry).score);
-		// Fresh: 50 + 25 = 75; Old: 50 - 20 = 30
-		expect(calculateHealth(freshEntry).score).toBe(75);
-		expect(calculateHealth(oldEntry).score).toBe(30);
-	});
-
-	it("clamps YouTube score to 0-100", () => {
-		const entry = makeYouTubeEntry({
-			viewCount: 0,
-			likeCount: 0,
-			publishedAt: new Date().toISOString(),
-		});
-		const health = calculateHealth(entry);
+		// All 0s → should give 0, not negative
+		const dims: HealthDimensions = { freshness: 0, popularity: 0, activity: 0, depth: 0 };
+		const health = computeHealth(entry, dims);
 		expect(health.score).toBeGreaterThanOrEqual(0);
 		expect(health.score).toBeLessThanOrEqual(100);
-		// 50 (base) + 25 (fresh<30d) = 75
-		expect(health.score).toBe(75);
+	});
+
+	test("archived overrides YouTube cap", () => {
+		const entry = makeYouTubeEntry({ archived: true });
+		const dims: HealthDimensions = { freshness: 100, popularity: 100, activity: 100, depth: 0 };
+		const health = computeHealth(entry, dims);
+		expect(health.score).toBe(0);
+		expect(health.level).toBe(HealthLevel.Dead);
 	});
 });
 
-// ─── Missing metadata ──────────────────────────────────────────────────────────
+// ─── scoreToLevel ──────────────────────────────────────────────────────────────
 
-describe("calculateHealth — missing/undefined metadata", () => {
-	it("handles missing last_commit gracefully (treated as neutral)", () => {
-		const entry = makeGitHubEntry({ stars: 0 });
-		// Remove last_commit from metadata
-		const meta = entry.metadata as Record<string, unknown>;
-		delete meta["last_commit"];
-		const health = calculateHealth(entry);
-		// 50 (base) + 0 (stars) + 0 (no date) = 50
-		expect(health.score).toBe(50);
-		expect(health.level).toBe("maintained");
+describe("scoreToLevel", () => {
+	test("maps score ranges to correct levels", () => {
+		expect(scoreToLevel(100)).toBe(HealthLevel.Active);
+		expect(scoreToLevel(70)).toBe(HealthLevel.Active);
+		expect(scoreToLevel(69)).toBe(HealthLevel.Maintained);
+		expect(scoreToLevel(40)).toBe(HealthLevel.Maintained);
+		expect(scoreToLevel(39)).toBe(HealthLevel.Stale);
+		expect(scoreToLevel(15)).toBe(HealthLevel.Stale);
+		expect(scoreToLevel(14)).toBe(HealthLevel.Dead);
+		expect(scoreToLevel(0)).toBe(HealthLevel.Dead);
+	});
+});
+
+// ─── End-to-end: source scorer → computeHealth ────────────────────────────────
+
+describe("end-to-end health scoring", () => {
+	test("healthy npm package → Active", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeNpmEntry({
+			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
+			npm_downloads_monthly: 20_000,
+			npm_score_maintenance: 0.95,
+			npm_score_quality: 0.9,
+		});
+		const dims = npmSource.scoreHealthDimensions(entry);
+		const health = computeHealth(entry, dims);
+		expect(health.level).toBe(HealthLevel.Active);
+		expect(health.score).toBeGreaterThanOrEqual(70);
 	});
 
-	it("handles missing published_at for YouTube gracefully", () => {
-		const entry = makeYouTubeEntry({ viewCount: 0, likeCount: 0 });
-		const meta = entry.metadata as Record<string, unknown>;
-		delete meta["published_at"];
-		const health = calculateHealth(entry);
-		expect(health.score).toBe(50); // base only, no freshness bonus/penalty
+	test("stale GitHub repo → Stale", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeGitHubEntry({
+			pushed_at: now.subtract({ milliseconds: 400 * DAY_MS }).toString(),
+			updated_at: now.subtract({ milliseconds: 400 * DAY_MS }).toString(),
+			stars: 2,
+			open_issues: 0,
+			size: 50,
+		});
+		const dims = githubSource.scoreHealthDimensions(entry);
+		const health = computeHealth(entry, dims);
+		expect(health.level).toBe(HealthLevel.Stale);
+	});
+
+	test("popular YouTube video → Maintained (capped)", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeYouTubeEntry({
+			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
+			views: 50_000,
+			likes: 2000,
+			comments: 500,
+		});
+		const dims = youtubeScorer(entry);
+		const health = computeHealth(entry, dims);
+		expect(health.level).toBe(HealthLevel.Maintained);
+		expect(health.score).toBeLessThanOrEqual(60);
+	});
+
+	test("archived GitHub repo → Dead", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeGitHubEntry({
+			archived: true,
+			pushed_at: now.subtract({ milliseconds: 5 * DAY_MS }).toString(),
+			stars: 500,
+			size: 5000,
+		});
+		const dims = githubSource.scoreHealthDimensions(entry);
+		const health = computeHealth(entry, dims);
+		expect(health.level).toBe(HealthLevel.Dead);
+		expect(health.score).toBe(0);
 	});
 });

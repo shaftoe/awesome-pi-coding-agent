@@ -1,0 +1,33 @@
+{
+  "id": "pi-notify",
+  "name": "pi-notify",
+  "url": "https://www.npmjs.com/package/pi-notify",
+  "source": "npm-search",
+  "description": "Desktop notifications for Pi agent via OSC 777/99/9 and Windows toast",
+  "metadata": {
+    "github_url": "https://github.com/ferologics/pi-notify",
+    "npm_name": "pi-notify",
+    "description": "Desktop notifications for Pi agent via OSC 777/99/9 and Windows toast",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "notifications",
+      "osc"
+    ],
+    "version": "1.3.0",
+    "published_at": "2026-02-10T12:32:33.712Z",
+    "npm_downloads_monthly": 404,
+    "npm_downloads_weekly": 110,
+    "npm_score_final": 23.80842,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 75,
+    "level": "active"
+  },
+  "category": "misc"
+}

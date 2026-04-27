@@ -1,0 +1,36 @@
+{
+  "id": "manusajith-pi-jj-workspaces",
+  "name": "manusajith-pi-jj-workspaces",
+  "url": "https://github.com/manusajith/pi-jj-workspaces",
+  "source": "github-search",
+  "description": "A pi package for jj workspace lifecycle management backed by shared suite state",
+  "metadata": {
+    "github_url": "https://github.com/manusajith/pi-jj-workspaces",
+    "repo_full_name": "manusajith/pi-jj-workspaces",
+    "description": "A pi package for jj workspace lifecycle management backed by shared suite state",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "jj",
+      "jujutsu",
+      "pi",
+      "pi-package",
+      "workflow",
+      "workspaces"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-22T20:51:28Z",
+    "pushed_at": "2026-03-22T20:51:31Z",
+    "updated_at": "2026-03-22T20:51:34Z",
+    "size": 14,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

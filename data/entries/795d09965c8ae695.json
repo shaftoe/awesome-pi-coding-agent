@@ -1,0 +1,29 @@
+{
+  "id": "andreimaxim-pi-agents",
+  "name": "andreimaxim-pi-agents",
+  "url": "https://github.com/andreimaxim/pi-agents",
+  "source": "github-search",
+  "description": "Plan mode for the Pi agent",
+  "metadata": {
+    "github_url": "https://github.com/andreimaxim/pi-agents",
+    "repo_full_name": "andreimaxim/pi-agents",
+    "description": "Plan mode for the Pi agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 5,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-18T13:04:24Z",
+    "pushed_at": "2026-04-17T06:16:36Z",
+    "updated_at": "2026-02-18T14:10:04Z",
+    "size": 257,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

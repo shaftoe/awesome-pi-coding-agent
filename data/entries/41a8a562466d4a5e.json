@@ -1,0 +1,29 @@
+{
+  "id": "iodic-pi-auto-theme",
+  "name": "iodic-pi-auto-theme",
+  "url": "https://github.com/iodic/pi-auto-theme",
+  "source": "github-search",
+  "description": "Automatically switch pi themes based on macOS system appearance",
+  "metadata": {
+    "github_url": "https://github.com/iodic/pi-auto-theme",
+    "repo_full_name": "iodic/pi-auto-theme",
+    "description": "Automatically switch pi themes based on macOS system appearance",
+    "stars": 1,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-30T21:40:24Z",
+    "pushed_at": "2026-03-30T21:54:23Z",
+    "updated_at": "2026-04-26T19:54:45Z",
+    "size": 160,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "theme"
+}

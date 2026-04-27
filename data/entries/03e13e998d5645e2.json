@@ -1,0 +1,29 @@
+{
+  "id": "gustialfian-pi-agent",
+  "name": "gustialfian-pi-agent",
+  "url": "https://github.com/gustialfian/pi-agent",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/gustialfian/pi-agent",
+    "repo_full_name": "gustialfian/pi-agent",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-04T02:11:09Z",
+    "pushed_at": "2026-04-14T13:27:18Z",
+    "updated_at": "2026-04-14T13:27:22Z",
+    "size": 113,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

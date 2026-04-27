@@ -1,0 +1,29 @@
+{
+  "id": "MonsieurBarti-bartis-coding-agent",
+  "name": "MonsieurBarti-bartis-coding-agent",
+  "url": "https://github.com/MonsieurBarti/bartis-coding-agent",
+  "source": "github-search",
+  "description": "Personal Minions-lite: Discord → Pi Agent → Tested PR. Project-agnostic coding pipeline built on Pi extensions + Gas Town + code-graph.",
+  "metadata": {
+    "github_url": "https://github.com/MonsieurBarti/bartis-coding-agent",
+    "repo_full_name": "MonsieurBarti/bartis-coding-agent",
+    "description": "Personal Minions-lite: Discord → Pi Agent → Tested PR. Project-agnostic coding pipeline built on Pi extensions + Gas Town + code-graph.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-04T20:43:50Z",
+    "pushed_at": "2026-03-05T15:53:32Z",
+    "updated_at": "2026-03-05T15:54:06Z",
+    "size": 325,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "jwafle-pi-todos",
+  "name": "jwafle-pi-todos",
+  "url": "https://github.com/jwafle/pi-todos",
+  "source": "github-search",
+  "description": "todos extension for pi agent",
+  "metadata": {
+    "github_url": "https://github.com/jwafle/pi-todos",
+    "repo_full_name": "jwafle/pi-todos",
+    "description": "todos extension for pi agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-21T05:45:35Z",
+    "pushed_at": "2026-02-21T05:46:02Z",
+    "updated_at": "2026-02-21T05:46:06Z",
+    "size": 3,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

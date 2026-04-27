@@ -1,0 +1,29 @@
+{
+  "id": "kirang89-pi-interactive-form",
+  "name": "kirang89-pi-interactive-form",
+  "url": "https://github.com/kirang89/pi-interactive-form",
+  "source": "github-search",
+  "description": "A pi coding agent extension that provides a tabbed form interface for gathering structured user input",
+  "metadata": {
+    "github_url": "https://github.com/kirang89/pi-interactive-form",
+    "repo_full_name": "kirang89/pi-interactive-form",
+    "description": "A pi coding agent extension that provides a tabbed form interface for gathering structured user input",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-19T05:42:07Z",
+    "pushed_at": "2026-03-19T05:47:09Z",
+    "updated_at": "2026-03-19T05:47:12Z",
+    "size": 143,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

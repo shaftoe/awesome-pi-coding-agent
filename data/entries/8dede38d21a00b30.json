@@ -1,0 +1,29 @@
+{
+  "id": "kesor-pi-workflow-insights",
+  "name": "kesor-pi-workflow-insights",
+  "url": "https://github.com/kesor/pi-workflow-insights",
+  "source": "github-search",
+  "description": "A pi-coding-agent extension that tracks workflow patterns, scores productivity, and surfaces actionable insights",
+  "metadata": {
+    "github_url": "https://github.com/kesor/pi-workflow-insights",
+    "repo_full_name": "kesor/pi-workflow-insights",
+    "description": "A pi-coding-agent extension that tracks workflow patterns, scores productivity, and surfaces actionable insights",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-01T21:11:17Z",
+    "pushed_at": "2026-04-01T21:12:02Z",
+    "updated_at": "2026-04-01T21:12:06Z",
+    "size": 58,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p1rallels-pi-op",
+  "name": "p1rallels-pi-op",
+  "url": "https://github.com/p1rallels/pi-op",
+  "source": "github-search",
+  "description": "complete .env secrets handling replacement for agentic development within the Pi agent harness - secure secret injection, redaction, and vault browsing via the 1Password SDK",
+  "metadata": {
+    "github_url": "https://github.com/p1rallels/pi-op",
+    "repo_full_name": "p1rallels/pi-op",
+    "description": "complete .env secrets handling replacement for agentic development within the Pi agent harness - secure secret injection, redaction, and vault browsing via the 1Password SDK",
+    "stars": 9,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-17T07:37:22Z",
+    "pushed_at": "2026-04-17T07:37:24Z",
+    "updated_at": "2026-04-26T14:16:12Z",
+    "size": 6,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 63,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "@prinova/pi-github-tools",
+  "name": "@prinova/pi-github-tools",
+  "url": "https://www.npmjs.com/package/@prinova/pi-github-tools",
+  "source": "npm-search",
+  "description": "GitHub repository tools extension for pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/PriNova/pi-github-tools",
+    "npm_name": "@prinova/pi-github-tools",
+    "description": "GitHub repository tools extension for pi-coding-agent",
+    "keywords": [
+      "pi-package",
+      "github",
+      "pi-extension",
+      "coding-agent",
+      "git",
+      "repository"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-02-10T09:31:18.835Z",
+    "npm_downloads_monthly": 34,
+    "npm_downloads_weekly": 5,
+    "npm_score_final": 12.839516,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

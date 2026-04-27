@@ -1,0 +1,40 @@
+{
+  "id": "pi-whisper-voice",
+  "name": "pi-whisper-voice",
+  "url": "https://www.npmjs.com/package/pi-whisper-voice",
+  "source": "npm-search",
+  "description": "Minimal hold-SPACE voice input for Pi using an OpenAI-compatible Whisper/STT endpoint.",
+  "metadata": {
+    "github_url": "https://github.com/kengbailey/pi-whisper-voice",
+    "npm_name": "pi-whisper-voice",
+    "description": "Minimal hold-SPACE voice input for Pi using an OpenAI-compatible Whisper/STT endpoint.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "voice",
+      "speech-to-text",
+      "stt",
+      "whisper",
+      "openai-compatible",
+      "hold-to-talk",
+      "voice-input",
+      "transcription",
+      "coding-agent"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-04-27T00:01:08.002Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "@the-forge-flow/lightpanda-pi",
+  "name": "@the-forge-flow/lightpanda-pi",
+  "url": "https://www.npmjs.com/package/@the-forge-flow/lightpanda-pi",
+  "source": "npm-search",
+  "description": "PI extension for web search using Lightpanda headless browser",
+  "metadata": {
+    "github_url": "https://github.com/monsieurbarti/Lightpanda-PI",
+    "npm_name": "@the-forge-flow/lightpanda-pi",
+    "description": "PI extension for web search using Lightpanda headless browser",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "lightpanda",
+      "search",
+      "browser",
+      "headless"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-04-11T20:56:10.599Z",
+    "npm_downloads_monthly": 865,
+    "npm_downloads_weekly": 23,
+    "npm_score_final": 26.438068,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

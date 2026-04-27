@@ -1,0 +1,43 @@
+{
+  "id": "skyfallsin-pi-vertex-anthropic",
+  "name": "skyfallsin-pi-vertex-anthropic",
+  "url": "https://github.com/skyfallsin/pi-vertex-anthropic",
+  "source": "github-search",
+  "description": "Pi coding agent extension for Claude via Google Cloud Vertex AI",
+  "metadata": {
+    "github_url": "https://github.com/skyfallsin/pi-vertex-anthropic",
+    "repo_full_name": "skyfallsin/pi-vertex-anthropic",
+    "description": "Pi coding agent extension for Claude via Google Cloud Vertex AI",
+    "stars": 4,
+    "forks": 3,
+    "open_issues": 2,
+    "topics": [
+      "ai",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "coding-agent",
+      "extension",
+      "gcp",
+      "google-cloud",
+      "llm",
+      "pi",
+      "pi-coding-agent",
+      "typescript",
+      "vertex-ai"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-05T19:33:47Z",
+    "pushed_at": "2026-04-25T20:50:39Z",
+    "updated_at": "2026-04-25T20:50:43Z",
+    "size": 94,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 63,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

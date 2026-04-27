@@ -1,0 +1,29 @@
+{
+  "id": "coctostan-pi-agent-evals",
+  "name": "coctostan-pi-agent-evals",
+  "url": "https://github.com/coctostan/pi-agent-evals",
+  "source": "github-search",
+  "description": "Pi extension + runner that measures agent tool routing and behavioral discipline",
+  "metadata": {
+    "github_url": "https://github.com/coctostan/pi-agent-evals",
+    "repo_full_name": "coctostan/pi-agent-evals",
+    "description": "Pi extension + runner that measures agent tool routing and behavioral discipline",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-13T14:07:20Z",
+    "pushed_at": "2026-04-14T18:45:06Z",
+    "updated_at": "2026-04-14T18:45:09Z",
+    "size": 269,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

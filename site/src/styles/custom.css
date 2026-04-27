@@ -1,5 +1,11 @@
 /* Custom styles for the Awesome Pi directory — layered on top of Starlight */
 
+/* ─── Hide Starlight's empty title on category pages ─────────────────────── */
+
+/* The empty h1#_top lives in its own content-panel wrapper — collapse both. */
+.content-panel:has(> .sl-container > h1#_top:empty) {
+	display: none;
+}
 /* ─── Override content width for our full-width grids ─────────────────────── */
 
 [data-has-hero] .sl-container {
@@ -175,6 +181,16 @@
 	width: 0.625rem;
 	height: 0.625rem;
 	border-radius: 50%;
+}
+
+/* ─── Last updated ──────────────────────────────────────────────────────────── */
+
+.last-updated {
+	text-align: center;
+	font-size: var(--sl-text-xs);
+	color: var(--sl-color-gray-3);
+	margin-top: -0.5rem;
+	margin-bottom: 1rem;
 }
 
 /* ─── Category grid (index page) ────────────────────────────────────────────── */

@@ -1,0 +1,29 @@
+{
+  "id": "sourcesmith-pi-treesitter",
+  "name": "sourcesmith-pi-treesitter",
+  "url": "https://github.com/sourcesmith/pi-treesitter",
+  "source": "github-search",
+  "description": "Treesitter extension for the pi.dev coding agent",
+  "metadata": {
+    "github_url": "https://github.com/sourcesmith/pi-treesitter",
+    "repo_full_name": "sourcesmith/pi-treesitter",
+    "description": "Treesitter extension for the pi.dev coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-13T22:52:22Z",
+    "pushed_at": "2026-03-13T22:52:33Z",
+    "updated_at": "2026-03-13T22:52:36Z",
+    "size": 9,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sergical-pi-sentry-monitor",
+  "name": "sergical-pi-sentry-monitor",
+  "url": "https://github.com/sergical/pi-sentry-monitor",
+  "source": "github-search",
+  "description": "Sentry AI Monitoring extension for pi coding agent — traces sessions, tool calls, and LLM requests",
+  "metadata": {
+    "github_url": "https://github.com/sergical/pi-sentry-monitor",
+    "repo_full_name": "sergical/pi-sentry-monitor",
+    "description": "Sentry AI Monitoring extension for pi coding agent — traces sessions, tool calls, and LLM requests",
+    "stars": 2,
+    "forks": 4,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-13T18:45:51Z",
+    "pushed_at": "2026-03-31T21:51:23Z",
+    "updated_at": "2026-04-23T04:31:40Z",
+    "size": 415,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

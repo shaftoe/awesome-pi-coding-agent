@@ -1,0 +1,29 @@
+{
+  "id": "Airead-pi-airead",
+  "name": "Airead-pi-airead",
+  "url": "https://github.com/Airead/pi-airead",
+  "source": "github-search",
+  "description": "Personal extensions for [pi coding-agent](https://github.com/badlogic/pi-mono)",
+  "metadata": {
+    "github_url": "https://github.com/Airead/pi-airead",
+    "repo_full_name": "Airead/pi-airead",
+    "description": "Personal extensions for [pi coding-agent](https://github.com/badlogic/pi-mono)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-10T09:39:14Z",
+    "pushed_at": "2026-03-20T11:54:37Z",
+    "updated_at": "2026-03-20T11:54:42Z",
+    "size": 161,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

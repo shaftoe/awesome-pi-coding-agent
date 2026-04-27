@@ -1,0 +1,29 @@
+{
+  "id": "junkijin-my-pi",
+  "name": "junkijin-my-pi",
+  "url": "https://github.com/junkijin/my-pi",
+  "source": "github-search",
+  "description": "My pi agent configuration",
+  "metadata": {
+    "github_url": "https://github.com/junkijin/my-pi",
+    "repo_full_name": "junkijin/my-pi",
+    "description": "My pi agent configuration",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-19T20:02:58Z",
+    "pushed_at": "2026-04-25T18:24:05Z",
+    "updated_at": "2026-04-25T18:24:10Z",
+    "size": 246,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

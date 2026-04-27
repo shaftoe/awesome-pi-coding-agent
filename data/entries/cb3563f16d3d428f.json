@@ -1,0 +1,29 @@
+{
+  "id": "emmaneugene-pi",
+  "name": "emmaneugene-pi",
+  "url": "https://github.com/emmaneugene/pi",
+  "source": "github-search",
+  "description": "pi coding agent config",
+  "metadata": {
+    "github_url": "https://github.com/emmaneugene/pi",
+    "repo_full_name": "emmaneugene/pi",
+    "description": "pi coding agent config",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-12T10:31:23Z",
+    "pushed_at": "2026-04-25T06:24:04Z",
+    "updated_at": "2026-04-25T06:24:07Z",
+    "size": 390,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

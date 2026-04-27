@@ -1,0 +1,29 @@
+{
+  "id": "Soleone-pi-ext",
+  "name": "Soleone-pi-ext",
+  "url": "https://github.com/Soleone/pi-ext",
+  "source": "github-search",
+  "description": "My pi agent extensions",
+  "metadata": {
+    "github_url": "https://github.com/Soleone/pi-ext",
+    "repo_full_name": "Soleone/pi-ext",
+    "description": "My pi agent extensions",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-04T06:16:36Z",
+    "pushed_at": "2026-03-26T04:08:58Z",
+    "updated_at": "2026-03-26T04:09:01Z",
+    "size": 87,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

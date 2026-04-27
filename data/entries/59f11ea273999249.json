@@ -1,0 +1,29 @@
+{
+  "id": "@odradekk/vera-scheme-sandbox",
+  "name": "@odradekk/vera-scheme-sandbox",
+  "url": "https://www.npmjs.com/package/@odradekk/vera-scheme-sandbox",
+  "source": "npm-search",
+  "description": "Chez Scheme WASM sandbox for Vera agent — platform-independent Scheme evaluation",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@odradekk/vera-scheme-sandbox",
+    "description": "Chez Scheme WASM sandbox for Vera agent — platform-independent Scheme evaluation",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-04-23T05:41:12.021Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "misc"
+}

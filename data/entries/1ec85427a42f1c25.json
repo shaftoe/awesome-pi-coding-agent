@@ -1,0 +1,33 @@
+{
+  "id": "dougefresher-pi-ext-cursor-rules",
+  "name": "dougefresher-pi-ext-cursor-rules",
+  "url": "https://github.com/dougefresher/pi-ext-cursor-rules",
+  "source": "github-search",
+  "description": "pi-coding-agent extension for loading cursor rules",
+  "metadata": {
+    "github_url": "https://github.com/dougefresher/pi-ext-cursor-rules",
+    "repo_full_name": "dougefresher/pi-ext-cursor-rules",
+    "description": "pi-coding-agent extension for loading cursor rules",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "cursor",
+      "pi",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-24T13:38:23Z",
+    "pushed_at": "2026-04-24T18:44:14Z",
+    "updated_at": "2026-04-24T18:44:18Z",
+    "size": 43,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

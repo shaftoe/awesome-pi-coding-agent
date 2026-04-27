@@ -1,0 +1,33 @@
+{
+  "id": "pi-tmux-window-name",
+  "name": "pi-tmux-window-name",
+  "url": "https://www.npmjs.com/package/pi-tmux-window-name",
+  "source": "npm-search",
+  "description": "Automatically name tmux windows for pi coding sessions",
+  "metadata": {
+    "github_url": "https://github.com/default-anton/pi-tmux-window-name",
+    "npm_name": "pi-tmux-window-name",
+    "description": "Automatically name tmux windows for pi coding sessions",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "tmux",
+      "window-name",
+      "session-name"
+    ],
+    "version": "0.4.5",
+    "published_at": "2026-04-23T05:45:50.152Z",
+    "npm_downloads_monthly": 823,
+    "npm_downloads_weekly": 139,
+    "npm_score_final": 26.458466,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

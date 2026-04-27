@@ -1,0 +1,29 @@
+{
+  "id": "kngzzz-pi-programmatic-agents",
+  "name": "kngzzz-pi-programmatic-agents",
+  "url": "https://github.com/kngzzz/pi-programmatic-agents",
+  "source": "github-search",
+  "description": "Programmatic sub-agent primitive for Pi — invoke isolated sub-agents as functions with contracted outputs",
+  "metadata": {
+    "github_url": "https://github.com/kngzzz/pi-programmatic-agents",
+    "repo_full_name": "kngzzz/pi-programmatic-agents",
+    "description": "Programmatic sub-agent primitive for Pi — invoke isolated sub-agents as functions with contracted outputs",
+    "stars": 6,
+    "forks": 1,
+    "open_issues": 3,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-18T09:06:55Z",
+    "pushed_at": "2026-02-18T11:57:48Z",
+    "updated_at": "2026-03-07T23:18:13Z",
+    "size": 20,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

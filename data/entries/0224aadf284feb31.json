@@ -1,0 +1,29 @@
+{
+  "id": "zukuy-pi-skill-picker",
+  "name": "zukuy-pi-skill-picker",
+  "url": "https://github.com/zukuy/pi-skill-picker",
+  "source": "github-search",
+  "description": "Pi coding agent extension — type $ to search and pick skills from a dropdown menu",
+  "metadata": {
+    "github_url": "https://github.com/zukuy/pi-skill-picker",
+    "repo_full_name": "zukuy/pi-skill-picker",
+    "description": "Pi coding agent extension — type $ to search and pick skills from a dropdown menu",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-16T10:35:06Z",
+    "pushed_at": "2026-04-16T10:38:46Z",
+    "updated_at": "2026-04-16T10:38:50Z",
+    "size": 3,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

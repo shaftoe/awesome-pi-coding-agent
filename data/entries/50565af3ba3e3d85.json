@@ -1,0 +1,32 @@
+{
+  "id": "pi-subdir-context",
+  "name": "pi-subdir-context",
+  "url": "https://www.npmjs.com/package/pi-subdir-context",
+  "source": "npm-search",
+  "description": "Automatically load AGENTS.md context from subdirectories in pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/default-anton/pi-subdir-context",
+    "npm_name": "pi-subdir-context",
+    "description": "Automatically load AGENTS.md context from subdirectories in pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "agents",
+      "context"
+    ],
+    "version": "1.1.5",
+    "published_at": "2026-04-23T05:45:52.651Z",
+    "npm_downloads_monthly": 1225,
+    "npm_downloads_weekly": 384,
+    "npm_score_final": 28.050997,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "misc"
+}

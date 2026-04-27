@@ -1,0 +1,29 @@
+{
+  "id": "mrcloudchase-nano-ai",
+  "name": "mrcloudchase-nano-ai",
+  "url": "https://github.com/mrcloudchase/nano-ai",
+  "source": "github-search",
+  "description": "Minimal version of pi-mono's ai package",
+  "metadata": {
+    "github_url": "https://github.com/mrcloudchase/nano-ai",
+    "repo_full_name": "mrcloudchase/nano-ai",
+    "description": "Minimal version of pi-mono's ai package",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-12T03:04:26Z",
+    "pushed_at": "2026-03-12T03:04:42Z",
+    "updated_at": "2026-03-12T03:04:46Z",
+    "size": 9,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

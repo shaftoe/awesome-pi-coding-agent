@@ -1,0 +1,29 @@
+{
+  "id": "qualisero-pi-agent-scip",
+  "name": "qualisero-pi-agent-scip",
+  "url": "https://github.com/qualisero/pi-agent-scip",
+  "source": "github-search",
+  "description": "Adds SCIP tools to pi agent",
+  "metadata": {
+    "github_url": "https://github.com/qualisero/pi-agent-scip",
+    "repo_full_name": "qualisero/pi-agent-scip",
+    "description": "Adds SCIP tools to pi agent",
+    "stars": 3,
+    "forks": 1,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": true,
+    "created_at": "2026-01-04T14:29:59Z",
+    "pushed_at": "2026-01-26T09:30:15Z",
+    "updated_at": "2026-01-26T09:30:51Z",
+    "size": 112,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 0,
+    "level": "dead"
+  },
+  "category": "extension"
+}

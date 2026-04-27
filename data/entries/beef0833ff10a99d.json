@@ -1,0 +1,29 @@
+{
+  "id": "pi-generative-ui",
+  "name": "pi-generative-ui",
+  "url": "https://www.npmjs.com/package/pi-generative-ui",
+  "source": "npm-search",
+  "description": "Generative UI for pi — render interactive HTML/SVG widgets in native macOS windows via Glimpse",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-generative-ui",
+    "description": "Generative UI for pi — render interactive HTML/SVG widgets in native macOS windows via Glimpse",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-03-12T23:09:32.849Z",
+    "npm_downloads_monthly": 164,
+    "npm_downloads_weekly": 116,
+    "npm_score_final": 19.414015,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 75,
+    "level": "active"
+  },
+  "category": "misc"
+}

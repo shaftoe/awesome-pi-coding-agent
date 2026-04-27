@@ -1,0 +1,29 @@
+{
+  "id": "wschwab-pi-idle-notify",
+  "name": "wschwab-pi-idle-notify",
+  "url": "https://github.com/wschwab/pi-idle-notify",
+  "source": "github-search",
+  "description": "desktop notifications for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/wschwab/pi-idle-notify",
+    "repo_full_name": "wschwab/pi-idle-notify",
+    "description": "desktop notifications for the pi coding agent",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-16T19:38:37Z",
+    "pushed_at": "2026-02-16T19:39:03Z",
+    "updated_at": "2026-02-16T19:39:07Z",
+    "size": 6,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

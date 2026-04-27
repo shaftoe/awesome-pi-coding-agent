@@ -1,0 +1,29 @@
+{
+  "id": "shanepadgett-crumbs",
+  "name": "shanepadgett-crumbs",
+  "url": "https://github.com/shanepadgett/crumbs",
+  "source": "github-search",
+  "description": "Extensions, tools, prompts, and skills for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/shanepadgett/crumbs",
+    "repo_full_name": "shanepadgett/crumbs",
+    "description": "Extensions, tools, prompts, and skills for Pi coding agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-03T22:36:24Z",
+    "pushed_at": "2026-04-27T00:46:48Z",
+    "updated_at": "2026-04-27T00:46:53Z",
+    "size": 2313,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

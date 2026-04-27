@@ -1,0 +1,29 @@
+{
+  "id": "Marvino-Fransisco-pi-coding-agent-configs",
+  "name": "Marvino-Fransisco-pi-coding-agent-configs",
+  "url": "https://github.com/Marvino-Fransisco/pi-coding-agent-configs",
+  "source": "github-search",
+  "description": "My pi coding agent config in docker container environment",
+  "metadata": {
+    "github_url": "https://github.com/Marvino-Fransisco/pi-coding-agent-configs",
+    "repo_full_name": "Marvino-Fransisco/pi-coding-agent-configs",
+    "description": "My pi coding agent config in docker container environment",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-19T11:00:32Z",
+    "pushed_at": "2026-04-26T10:45:56Z",
+    "updated_at": "2026-04-26T10:46:00Z",
+    "size": 590,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

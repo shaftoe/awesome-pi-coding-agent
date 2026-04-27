@@ -1,0 +1,29 @@
+{
+  "id": "@ineersa/my-pi-extensions",
+  "name": "@ineersa/my-pi-extensions",
+  "url": "https://www.npmjs.com/package/@ineersa/my-pi-extensions",
+  "source": "npm-search",
+  "description": "Personal extension bundle for pi-coding-agent",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@ineersa/my-pi-extensions",
+    "description": "Personal extension bundle for pi-coding-agent",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.8",
+    "published_at": "2026-04-21T21:35:23.332Z",
+    "npm_downloads_monthly": 964,
+    "npm_downloads_weekly": 964,
+    "npm_score_final": 27.45267,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

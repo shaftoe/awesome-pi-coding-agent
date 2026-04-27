@@ -1,0 +1,29 @@
+{
+  "id": "cyberCharl-pi-vault-agent",
+  "name": "cyberCharl-pi-vault-agent",
+  "url": "https://github.com/cyberCharl/pi-vault-agent",
+  "source": "github-search",
+  "description": "Pi extension for scoped markdown-vault navigation, graph analysis, backlinks, note stats, recent notes, and safe rename workflows.",
+  "metadata": {
+    "github_url": "https://github.com/cyberCharl/pi-vault-agent",
+    "repo_full_name": "cyberCharl/pi-vault-agent",
+    "description": "Pi extension for scoped markdown-vault navigation, graph analysis, backlinks, note stats, recent notes, and safe rename workflows.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-14T12:40:29Z",
+    "pushed_at": "2026-04-14T14:17:12Z",
+    "updated_at": "2026-04-14T14:17:23Z",
+    "size": 29,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

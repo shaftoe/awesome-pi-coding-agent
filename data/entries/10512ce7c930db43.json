@@ -1,0 +1,36 @@
+{
+  "id": "@artale/pi-sysmon",
+  "name": "@artale/pi-sysmon",
+  "url": "https://www.npmjs.com/package/@artale/pi-sysmon",
+  "source": "npm-search",
+  "description": "System monitor & resource manager. RAM/disk dashboard, process audit, memory hog detection, one-click cleanup. Carmack-style: measure everything, cut the waste.",
+  "metadata": {
+    "github_url": "https://github.com/arosstale/pi-sysmon",
+    "npm_name": "@artale/pi-sysmon",
+    "description": "System monitor & resource manager. RAM/disk dashboard, process audit, memory hog detection, one-click cleanup. Carmack-style: measure everything, cut the waste.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "system-monitor",
+      "sysmon",
+      "processes",
+      "memory",
+      "disk",
+      "cleanup"
+    ],
+    "version": "2.0.0",
+    "published_at": "2026-03-08T17:42:45.141Z",
+    "npm_downloads_monthly": 37,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 13.050407,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "jongirard-pi-grove",
+  "name": "jongirard-pi-grove",
+  "url": "https://github.com/jongirard/pi-grove",
+  "source": "github-search",
+  "description": "Plan-aware agent orchestration for Pi. Grove reads a structured markdown plan, parses it into work streams with dependencies, and orchestrates parallel AI agents to execute them — all monitored through a real-time web dashboard.",
+  "metadata": {
+    "github_url": "https://github.com/jongirard/pi-grove",
+    "repo_full_name": "jongirard/pi-grove",
+    "description": "Plan-aware agent orchestration for Pi. Grove reads a structured markdown plan, parses it into work streams with dependencies, and orchestrates parallel AI agents to execute them — all monitored through a real-time web dashboard.",
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "pi-mono"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-29T09:41:14Z",
+    "pushed_at": "2026-03-31T08:23:52Z",
+    "updated_at": "2026-04-23T07:54:04Z",
+    "size": 1085,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

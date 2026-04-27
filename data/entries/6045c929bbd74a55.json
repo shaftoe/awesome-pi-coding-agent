@@ -1,0 +1,32 @@
+{
+  "id": "@banon-labs/pi-inline-format",
+  "name": "@banon-labs/pi-inline-format",
+  "url": "https://www.npmjs.com/package/@banon-labs/pi-inline-format",
+  "source": "npm-search",
+  "description": "Strict Pi extension project with a Rust core subproject and a TypeScript extension wrapper.",
+  "metadata": {
+    "github_url": "https://github.com/Banon-Labs/pi-inline-format",
+    "npm_name": "@banon-labs/pi-inline-format",
+    "description": "Strict Pi extension project with a Rust core subproject and a TypeScript extension wrapper.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "rust",
+      "typescript"
+    ],
+    "version": "0.1.5",
+    "published_at": "2026-04-01T23:36:10.405Z",
+    "npm_downloads_monthly": 722,
+    "npm_downloads_weekly": 25,
+    "npm_score_final": 25.836637,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

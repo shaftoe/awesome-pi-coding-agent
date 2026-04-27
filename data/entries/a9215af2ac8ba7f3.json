@@ -1,0 +1,29 @@
+{
+  "id": "steimbyte-pi-agent-switch",
+  "name": "steimbyte-pi-agent-switch",
+  "url": "https://github.com/steimbyte/pi-agent-switch",
+  "source": "github-search",
+  "description": "OpenCode-style primary agent switching for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/steimbyte/pi-agent-switch",
+    "repo_full_name": "steimbyte/pi-agent-switch",
+    "description": "OpenCode-style primary agent switching for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-22T07:30:25Z",
+    "pushed_at": "2026-04-26T10:41:00Z",
+    "updated_at": "2026-04-23T13:14:40Z",
+    "size": 32,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

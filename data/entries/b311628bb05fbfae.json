@@ -1,0 +1,29 @@
+{
+  "id": "ssweens-pi-packages",
+  "name": "ssweens-pi-packages",
+  "url": "https://github.com/ssweens/pi-packages",
+  "source": "github-search",
+  "description": "Pi coding agent extension packages",
+  "metadata": {
+    "github_url": "https://github.com/ssweens/pi-packages",
+    "repo_full_name": "ssweens/pi-packages",
+    "description": "Pi coding agent extension packages",
+    "stars": 2,
+    "forks": 4,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-21T03:37:50Z",
+    "pushed_at": "2026-04-23T02:07:25Z",
+    "updated_at": "2026-04-23T02:07:29Z",
+    "size": 5394,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 70,
+    "level": "active"
+  },
+  "category": "extension"
+}

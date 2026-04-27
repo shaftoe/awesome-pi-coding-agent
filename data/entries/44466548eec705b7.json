@@ -1,0 +1,29 @@
+{
+  "id": "purplefish32-vicinae-pi-chat",
+  "name": "purplefish32-vicinae-pi-chat",
+  "url": "https://github.com/purplefish32/vicinae-pi-chat",
+  "source": "github-search",
+  "description": "Vicinae extension to chat with the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/purplefish32/vicinae-pi-chat",
+    "repo_full_name": "purplefish32/vicinae-pi-chat",
+    "description": "Vicinae extension to chat with the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-20T21:47:57Z",
+    "pushed_at": "2026-04-21T12:21:59Z",
+    "updated_at": "2026-04-21T12:22:03Z",
+    "size": 411,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

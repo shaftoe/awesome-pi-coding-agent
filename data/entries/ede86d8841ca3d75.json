@@ -1,0 +1,29 @@
+{
+  "id": "VTSTech-pi-coding-agent",
+  "name": "VTSTech-pi-coding-agent",
+  "url": "https://github.com/VTSTech/pi-coding-agent",
+  "source": "github-search",
+  "description": "Extensions I've written for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/VTSTech/pi-coding-agent",
+    "repo_full_name": "VTSTech/pi-coding-agent",
+    "description": "Extensions I've written for Pi Coding Agent",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-07T17:17:42Z",
+    "pushed_at": "2026-04-16T02:32:56Z",
+    "updated_at": "2026-04-16T02:33:00Z",
+    "size": 841,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

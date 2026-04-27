@@ -1,0 +1,29 @@
+{
+  "id": "bruno-garcia-pi-config",
+  "name": "bruno-garcia-pi-config",
+  "url": "https://github.com/bruno-garcia/pi-config",
+  "source": "github-search",
+  "description": "My personal pi coding agent configuration - skills and extensions",
+  "metadata": {
+    "github_url": "https://github.com/bruno-garcia/pi-config",
+    "repo_full_name": "bruno-garcia/pi-config",
+    "description": "My personal pi coding agent configuration - skills and extensions",
+    "stars": 1,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-14T18:03:18Z",
+    "pushed_at": "2026-04-01T19:29:55Z",
+    "updated_at": "2026-04-01T19:29:59Z",
+    "size": 342,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

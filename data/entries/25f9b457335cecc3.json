@@ -1,0 +1,29 @@
+{
+  "id": "arek-e-agent-stuff",
+  "name": "arek-e-agent-stuff",
+  "url": "https://github.com/arek-e/agent-stuff",
+  "source": "github-search",
+  "description": "My pi extensions, agents, prompts, and tmux workflow",
+  "metadata": {
+    "github_url": "https://github.com/arek-e/agent-stuff",
+    "repo_full_name": "arek-e/agent-stuff",
+    "description": "My pi extensions, agents, prompts, and tmux workflow",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-28T23:07:03Z",
+    "pushed_at": "2026-03-01T09:22:13Z",
+    "updated_at": "2026-03-01T09:22:16Z",
+    "size": 168,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

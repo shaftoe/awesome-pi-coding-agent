@@ -1,0 +1,35 @@
+{
+  "id": "@hyperprior/pi-browser",
+  "name": "@hyperprior/pi-browser",
+  "url": "https://www.npmjs.com/package/@hyperprior/pi-browser",
+  "source": "npm-search",
+  "description": "Lightweight browser helper tools",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@hyperprior/pi-browser",
+    "description": "Lightweight browser helper tools",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-coding-agent",
+      "tui",
+      "extension",
+      "hyperprior",
+      "browser"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-02-16T05:17:45.514Z",
+    "npm_downloads_monthly": 15,
+    "npm_downloads_weekly": 2,
+    "npm_score_final": 9.384844,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

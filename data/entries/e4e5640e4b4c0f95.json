@@ -1,0 +1,29 @@
+{
+  "id": "Acelogic-pi-lm-studio",
+  "name": "Acelogic-pi-lm-studio",
+  "url": "https://github.com/Acelogic/pi-lm-studio",
+  "source": "github-search",
+  "description": "Pi extension/package for LM Studio model discovery and provider registration",
+  "metadata": {
+    "github_url": "https://github.com/Acelogic/pi-lm-studio",
+    "repo_full_name": "Acelogic/pi-lm-studio",
+    "description": "Pi extension/package for LM Studio model discovery and provider registration",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-17T17:16:47Z",
+    "pushed_at": "2026-04-17T21:21:01Z",
+    "updated_at": "2026-04-17T21:21:04Z",
+    "size": 7,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

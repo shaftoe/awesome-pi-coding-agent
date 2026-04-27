@@ -1,0 +1,39 @@
+{
+  "id": "alexradunet-NixPI",
+  "name": "alexradunet-NixPI",
+  "url": "https://github.com/alexradunet/NixPI",
+  "source": "github-search",
+  "description": "Personal User-Centric Immutable OS Based on NixOS and Pi.Dev AI Agent, where the agent is a first class citizen of the OS, and also dictates the UX experience",
+  "metadata": {
+    "github_url": "https://github.com/alexradunet/NixPI",
+    "repo_full_name": "alexradunet/NixPI",
+    "description": "Personal User-Centric Immutable OS Based on NixOS and Pi.Dev AI Agent, where the agent is a first class citizen of the OS, and also dictates the UX experience",
+    "stars": 9,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "agent-runtime",
+      "ai-assistant",
+      "automation",
+      "bootc",
+      "linux",
+      "llm",
+      "self-hosted",
+      "typescript",
+      "whatsapp-bot"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-18T15:51:27Z",
+    "pushed_at": "2026-04-15T09:09:41Z",
+    "updated_at": "2026-04-15T23:49:19Z",
+    "size": 7217,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

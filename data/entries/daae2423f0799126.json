@@ -1,0 +1,29 @@
+{
+  "id": "cardosoccc-pi-agent",
+  "name": "cardosoccc-pi-agent",
+  "url": "https://github.com/cardosoccc/pi-agent",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/cardosoccc/pi-agent",
+    "repo_full_name": "cardosoccc/pi-agent",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-04T00:36:29Z",
+    "pushed_at": "2026-03-04T01:01:58Z",
+    "updated_at": "2026-03-04T00:56:23Z",
+    "size": 27,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

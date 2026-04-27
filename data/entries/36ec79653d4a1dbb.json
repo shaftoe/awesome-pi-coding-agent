@@ -1,0 +1,29 @@
+{
+  "id": "@deevus/pi-zmx",
+  "name": "@deevus/pi-zmx",
+  "url": "https://www.npmjs.com/package/@deevus/pi-zmx",
+  "source": "npm-search",
+  "description": "Execute shell commands in persistent zmx sessions from pi",
+  "metadata": {
+    "github_url": "https://github.com/deevus/pi-zmx",
+    "npm_name": "@deevus/pi-zmx",
+    "description": "Execute shell commands in persistent zmx sessions from pi",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-04-26T09:36:24.547Z",
+    "npm_downloads_monthly": 118,
+    "npm_downloads_weekly": 118,
+    "npm_score_final": 17.891762,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

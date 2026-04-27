@@ -1,0 +1,40 @@
+{
+  "id": "sshkeda-pi-google-search",
+  "name": "sshkeda-pi-google-search",
+  "url": "https://github.com/sshkeda/pi-google-search",
+  "source": "github-search",
+  "description": "Google Search extension for the pi coding agent — real-time web search via Gemini grounded search with source citations (free with Google OAuth)",
+  "metadata": {
+    "github_url": "https://github.com/sshkeda/pi-google-search",
+    "repo_full_name": "sshkeda/pi-google-search",
+    "description": "Google Search extension for the pi coding agent — real-time web search via Gemini grounded search with source citations (free with Google OAuth)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "coding-agent",
+      "gemini",
+      "gemini-api",
+      "google-search",
+      "grounded-search",
+      "pi-coding-agent",
+      "pi-extension",
+      "typescript",
+      "web-search"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-25T21:07:27Z",
+    "pushed_at": "2026-04-06T01:25:51Z",
+    "updated_at": "2026-04-06T01:25:55Z",
+    "size": 13,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

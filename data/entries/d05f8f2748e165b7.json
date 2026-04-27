@@ -1,0 +1,29 @@
+{
+  "id": "jbro-pi-agent",
+  "name": "jbro-pi-agent",
+  "url": "https://github.com/jbro/pi-agent",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/jbro/pi-agent",
+    "repo_full_name": "jbro/pi-agent",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-14T19:13:25Z",
+    "pushed_at": "2026-02-20T22:51:09Z",
+    "updated_at": "2026-02-20T22:51:12Z",
+    "size": 148,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

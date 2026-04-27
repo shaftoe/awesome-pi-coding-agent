@@ -1,0 +1,36 @@
+{
+  "id": "pi-copy-response",
+  "name": "pi-copy-response",
+  "url": "https://www.npmjs.com/package/pi-copy-response",
+  "source": "npm-search",
+  "description": "Pi package for copying the latest assistant response with a code-block picker, live preview, and optional /copy override",
+  "metadata": {
+    "github_url": "https://github.com/cadenzadesigns/pi-copy-response",
+    "npm_name": "pi-copy-response",
+    "description": "Pi package for copying the latest assistant response with a code-block picker, live preview, and optional /copy override",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "clipboard",
+      "copy",
+      "assistant-response",
+      "terminal-ui",
+      "tui"
+    ],
+    "version": "0.3.5",
+    "published_at": "2026-04-10T18:52:49.308Z",
+    "npm_downloads_monthly": 705,
+    "npm_downloads_weekly": 26,
+    "npm_score_final": 25.780321,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

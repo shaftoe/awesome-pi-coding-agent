@@ -1,0 +1,29 @@
+{
+  "id": "@artale/pi-gate",
+  "name": "@artale/pi-gate",
+  "url": "https://www.npmjs.com/package/@artale/pi-gate",
+  "source": "npm-search",
+  "description": "Conditional execution gates for Pi. Hold, approve, or block tool calls based on rules. Safety layer for dangerous operations.",
+  "metadata": {
+    "github_url": "https://github.com/arosstale/pi-gate",
+    "npm_name": "@artale/pi-gate",
+    "description": "Conditional execution gates for Pi. Hold, approve, or block tool calls based on rules. Safety layer for dangerous operations.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-03-14T16:00:52.013Z",
+    "npm_downloads_monthly": 34,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 12.675152,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

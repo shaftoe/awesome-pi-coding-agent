@@ -1,0 +1,33 @@
+{
+  "id": "pi-subagent-in-memory",
+  "name": "pi-subagent-in-memory",
+  "url": "https://www.npmjs.com/package/pi-subagent-in-memory",
+  "source": "npm-search",
+  "description": "In-process subagent tool for pi with live TUI card widgets, JSONL session logging, and zero system-prompt overhead.",
+  "metadata": {
+    "github_url": "https://github.com/ross-jill-ws/pi-subagent-in-memory",
+    "npm_name": "pi-subagent-in-memory",
+    "description": "In-process subagent tool for pi with live TUI card widgets, JSONL session logging, and zero system-prompt overhead.",
+    "keywords": [
+      "pi-package",
+      "subagent",
+      "in-memory",
+      "agent",
+      "widget"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-04-24T12:34:55.515Z",
+    "npm_downloads_monthly": 878,
+    "npm_downloads_weekly": 36,
+    "npm_score_final": 26.598427,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

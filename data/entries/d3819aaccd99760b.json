@@ -1,0 +1,33 @@
+{
+  "id": "pigibrack",
+  "name": "pigibrack",
+  "url": "https://www.npmjs.com/package/pigibrack",
+  "source": "npm-search",
+  "description": "Pi extension package for structural Scheme/Guile editing with a persistent REPL sidecar",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pigibrack",
+    "description": "Pi extension package for structural Scheme/Guile editing with a persistent REPL sidecar",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "scheme",
+      "guile",
+      "lisp"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-04-04T13:38:16.185Z",
+    "npm_downloads_monthly": 397,
+    "npm_downloads_weekly": 19,
+    "npm_score_final": 23.14203,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

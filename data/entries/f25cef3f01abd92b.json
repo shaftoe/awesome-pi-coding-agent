@@ -1,0 +1,33 @@
+{
+  "id": "headsdownapp-headsdown-pi",
+  "name": "headsdownapp-headsdown-pi",
+  "url": "https://github.com/headsdownapp/headsdown-pi",
+  "source": "github-search",
+  "description": "HeadsDown availability package for Pi agent. Native tools, trust levels, verdicts.",
+  "metadata": {
+    "github_url": "https://github.com/headsdownapp/headsdown-pi",
+    "repo_full_name": "headsdownapp/headsdown-pi",
+    "description": "HeadsDown availability package for Pi agent. Native tools, trust levels, verdicts.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [
+      "developer-tools",
+      "headsdown",
+      "pi-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-03T03:48:27Z",
+    "pushed_at": "2026-04-27T01:07:00Z",
+    "updated_at": "2026-04-27T01:07:03Z",
+    "size": 296,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

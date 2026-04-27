@@ -1,0 +1,46 @@
+{
+  "id": "pi-tool-search",
+  "name": "pi-tool-search",
+  "url": "https://www.npmjs.com/package/pi-tool-search",
+  "source": "npm-search",
+  "description": "Hide all tools behind a manifest-aware tool_search — LLM enables tools by name on demand",
+  "metadata": {
+    "github_url": "https://github.com/tuansondinh/pi-tool-search",
+    "npm_name": "pi-tool-search",
+    "description": "Hide all tools behind a manifest-aware tool_search — LLM enables tools by name on demand",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "tools",
+      "tool-search",
+      "manifest",
+      "lazy-loading",
+      "on-demand",
+      "tool-manager",
+      "tool-registry",
+      "context-window",
+      "token-saving",
+      "tool-gating",
+      "tool-filter",
+      "tool-discovery",
+      "dynamic-tools",
+      "context"
+    ],
+    "version": "0.3.6",
+    "published_at": "2026-04-24T07:43:55.790Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

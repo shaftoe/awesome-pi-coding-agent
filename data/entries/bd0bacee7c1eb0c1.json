@@ -1,0 +1,29 @@
+{
+  "id": "aktech-pi-extensions",
+  "name": "aktech-pi-extensions",
+  "url": "https://github.com/aktech/pi-extensions",
+  "source": "github-search",
+  "description": "Personal set of extensions I use with @mariozechner/pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/aktech/pi-extensions",
+    "repo_full_name": "aktech/pi-extensions",
+    "description": "Personal set of extensions I use with @mariozechner/pi-coding-agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-22T21:37:37Z",
+    "pushed_at": "2026-04-22T22:07:45Z",
+    "updated_at": "2026-04-22T22:07:50Z",
+    "size": 129,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "toorusr-ai-extensions",
+  "name": "toorusr-ai-extensions",
+  "url": "https://github.com/toorusr/ai-extensions",
+  "source": "github-search",
+  "description": "pi-mono coding agent extensions",
+  "metadata": {
+    "github_url": "https://github.com/toorusr/ai-extensions",
+    "repo_full_name": "toorusr/ai-extensions",
+    "description": "pi-mono coding agent extensions",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-01-23T12:31:54Z",
+    "pushed_at": "2026-02-06T15:01:25Z",
+    "updated_at": "2026-02-07T19:42:00Z",
+    "size": 41,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

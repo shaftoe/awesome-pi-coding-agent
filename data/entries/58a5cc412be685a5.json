@@ -1,0 +1,31 @@
+{
+  "id": "vedang-pi-antigravity-image-gen",
+  "name": "vedang-pi-antigravity-image-gen",
+  "url": "https://github.com/vedang/pi-antigravity-image-gen",
+  "source": "github-search",
+  "description": "Generate images using Gemini models, in Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/vedang/pi-antigravity-image-gen",
+    "repo_full_name": "vedang/pi-antigravity-image-gen",
+    "description": "Generate images using Gemini models, in Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-11T11:54:28Z",
+    "pushed_at": "2026-03-11T12:29:59Z",
+    "updated_at": "2026-03-11T12:30:40Z",
+    "size": 81,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

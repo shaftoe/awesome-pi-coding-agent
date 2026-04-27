@@ -1,0 +1,29 @@
+{
+  "id": "LinYS77-pi-agentteam",
+  "name": "LinYS77-pi-agentteam",
+  "url": "https://github.com/LinYS77/pi-agentteam",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/LinYS77/pi-agentteam",
+    "repo_full_name": "LinYS77/pi-agentteam",
+    "description": "",
+    "stars": 7,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-10T01:56:58Z",
+    "pushed_at": "2026-04-26T02:57:32Z",
+    "updated_at": "2026-04-26T02:57:33Z",
+    "size": 161,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

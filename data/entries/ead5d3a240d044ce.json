@@ -1,0 +1,41 @@
+{
+  "id": "lgersman-wasm-playground",
+  "name": "lgersman-wasm-playground",
+  "url": "https://github.com/lgersman/wasm-playground",
+  "source": "github-search",
+  "description": "trying to stretch browser capabilitis to the max.",
+  "metadata": {
+    "github_url": "https://github.com/lgersman/wasm-playground",
+    "repo_full_name": "lgersman/wasm-playground",
+    "description": "trying to stretch browser capabilitis to the max.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai",
+      "ghostty",
+      "pi",
+      "pi-agent",
+      "transformers",
+      "viteplus",
+      "wasix",
+      "wasm",
+      "wasmer",
+      "wasmer-runtime",
+      "webcontainer"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-30T06:14:28Z",
+    "pushed_at": "2026-04-15T08:55:13Z",
+    "updated_at": "2026-04-15T08:55:16Z",
+    "size": 12398,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 68,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

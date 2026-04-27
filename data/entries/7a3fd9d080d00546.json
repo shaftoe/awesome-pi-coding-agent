@@ -1,0 +1,29 @@
+{
+  "id": "biubiu0002-pi-model-fallback",
+  "name": "biubiu0002-pi-model-fallback",
+  "url": "https://github.com/biubiu0002/pi-model-fallback",
+  "source": "github-search",
+  "description": "Automatic model fallback for pi-coding-agent: switch to backup model on provider errors",
+  "metadata": {
+    "github_url": "https://github.com/biubiu0002/pi-model-fallback",
+    "repo_full_name": "biubiu0002/pi-model-fallback",
+    "description": "Automatic model fallback for pi-coding-agent: switch to backup model on provider errors",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-30T18:31:56Z",
+    "pushed_at": "2026-03-30T18:32:02Z",
+    "updated_at": "2026-03-30T18:32:05Z",
+    "size": 37,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

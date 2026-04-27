@@ -1,0 +1,29 @@
+{
+  "id": "Pi-Eye-camera-connection",
+  "name": "Pi-Eye-camera-connection",
+  "url": "https://github.com/Pi-Eye/camera-connection",
+  "source": "github-search",
+  "description": "Package for connecting with Pi-Eye camera",
+  "metadata": {
+    "github_url": "https://github.com/Pi-Eye/camera-connection",
+    "repo_full_name": "Pi-Eye/camera-connection",
+    "description": "Package for connecting with Pi-Eye camera",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2022-11-08T06:09:57Z",
+    "pushed_at": "2022-11-24T18:09:43Z",
+    "updated_at": "2022-11-19T06:06:55Z",
+    "size": 186,
+    "license": "GPL-3.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 9,
+    "level": "dead"
+  },
+  "category": "misc"
+}

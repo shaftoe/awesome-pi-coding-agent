@@ -1,0 +1,29 @@
+{
+  "id": "ThewindMom-pi-doom-loop-detector",
+  "name": "ThewindMom-pi-doom-loop-detector",
+  "url": "https://github.com/ThewindMom/pi-doom-loop-detector",
+  "source": "github-search",
+  "description": "Detects doom loops in LLM outputs and enables recovery injection for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/ThewindMom/pi-doom-loop-detector",
+    "repo_full_name": "ThewindMom/pi-doom-loop-detector",
+    "description": "Detects doom loops in LLM outputs and enables recovery injection for Pi coding agent",
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-06T19:30:29Z",
+    "pushed_at": "2026-04-06T19:45:30Z",
+    "updated_at": "2026-04-25T05:54:04Z",
+    "size": 11,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

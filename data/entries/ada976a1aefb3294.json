@@ -1,0 +1,29 @@
+{
+  "id": "jinxi97-pi-agent-client",
+  "name": "jinxi97-pi-agent-client",
+  "url": "https://github.com/jinxi97/pi-agent-client",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/jinxi97/pi-agent-client",
+    "repo_full_name": "jinxi97/pi-agent-client",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-07T00:58:54Z",
+    "pushed_at": "2026-04-08T03:37:53Z",
+    "updated_at": "2026-04-08T03:37:56Z",
+    "size": 164,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "inceptionstack-pi-mono-watchdog",
+  "name": "inceptionstack-pi-mono-watchdog",
+  "url": "https://github.com/inceptionstack/pi-mono-watchdog",
+  "source": "github-search",
+  "description": "pi-watchdog: tmux-based watchdog extension for pi coding agent with auto-restart, telegram integration, and systemd service management",
+  "metadata": {
+    "github_url": "https://github.com/inceptionstack/pi-mono-watchdog",
+    "repo_full_name": "inceptionstack/pi-mono-watchdog",
+    "description": "pi-watchdog: tmux-based watchdog extension for pi coding agent with auto-restart, telegram integration, and systemd service management",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-17T23:53:40Z",
+    "pushed_at": "2026-04-18T11:36:26Z",
+    "updated_at": "2026-04-18T11:36:31Z",
+    "size": 56,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

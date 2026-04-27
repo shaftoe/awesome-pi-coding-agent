@@ -1,0 +1,29 @@
+{
+  "id": "Dwsy-psm-bridge",
+  "name": "Dwsy-psm-bridge",
+  "url": "https://github.com/Dwsy/psm-bridge",
+  "source": "github-search",
+  "description": "Bridge Pi agent sessions to Pi Session Manager",
+  "metadata": {
+    "github_url": "https://github.com/Dwsy/psm-bridge",
+    "repo_full_name": "Dwsy/psm-bridge",
+    "description": "Bridge Pi agent sessions to Pi Session Manager",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-12T05:16:21Z",
+    "pushed_at": "2026-04-12T05:39:55Z",
+    "updated_at": "2026-04-16T23:16:51Z",
+    "size": 33,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

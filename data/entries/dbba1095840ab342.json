@@ -1,0 +1,29 @@
+{
+  "id": "rafaelmocelin-po-mono",
+  "name": "rafaelmocelin-po-mono",
+  "url": "https://github.com/rafaelmocelin/po-mono",
+  "source": "github-search",
+  "description": "po — pi coding agent fork with RTK token compression, three-tier model system, and TDD pipeline orchestrator",
+  "metadata": {
+    "github_url": "https://github.com/rafaelmocelin/po-mono",
+    "repo_full_name": "rafaelmocelin/po-mono",
+    "description": "po — pi coding agent fork with RTK token compression, three-tier model system, and TDD pipeline orchestrator",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-14T19:16:44Z",
+    "pushed_at": "2026-04-14T23:05:41Z",
+    "updated_at": "2026-04-14T23:05:56Z",
+    "size": 40961,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 68,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

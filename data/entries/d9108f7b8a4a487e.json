@@ -1,0 +1,29 @@
+{
+  "id": "dmorn-pi-file-review",
+  "name": "dmorn-pi-file-review",
+  "url": "https://github.com/dmorn/pi-file-review",
+  "source": "github-search",
+  "description": "Pi extension: review agent-modified files in your $EDITOR and inject the diff back into the loop",
+  "metadata": {
+    "github_url": "https://github.com/dmorn/pi-file-review",
+    "repo_full_name": "dmorn/pi-file-review",
+    "description": "Pi extension: review agent-modified files in your $EDITOR and inject the diff back into the loop",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-04T19:56:54Z",
+    "pushed_at": "2026-03-06T09:03:14Z",
+    "updated_at": "2026-03-15T15:33:31Z",
+    "size": 38,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

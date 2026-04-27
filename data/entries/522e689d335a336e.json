@@ -1,0 +1,29 @@
+{
+  "id": "daniphant-pi-agent-notify",
+  "name": "daniphant-pi-agent-notify",
+  "url": "https://github.com/daniphant/pi-agent-notify",
+  "source": "github-search",
+  "description": "Desktop notifications for Pi when agent turns complete",
+  "metadata": {
+    "github_url": "https://github.com/daniphant/pi-agent-notify",
+    "repo_full_name": "daniphant/pi-agent-notify",
+    "description": "Desktop notifications for Pi when agent turns complete",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-13T19:35:15Z",
+    "pushed_at": "2026-04-13T19:35:17Z",
+    "updated_at": "2026-04-13T19:35:22Z",
+    "size": 3,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

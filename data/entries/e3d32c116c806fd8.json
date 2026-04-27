@@ -1,0 +1,29 @@
+{
+  "id": "gripebomb-Pi-Discord-Activity",
+  "name": "gripebomb-Pi-Discord-Activity",
+  "url": "https://github.com/gripebomb/Pi-Discord-Activity",
+  "source": "github-search",
+  "description": "A Pi package for displaying presence/activity in Discord when using the Pi Coding Agent.",
+  "metadata": {
+    "github_url": "https://github.com/gripebomb/Pi-Discord-Activity",
+    "repo_full_name": "gripebomb/Pi-Discord-Activity",
+    "description": "A Pi package for displaying presence/activity in Discord when using the Pi Coding Agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-19T20:15:09Z",
+    "pushed_at": "2026-04-20T01:20:03Z",
+    "updated_at": "2026-04-20T01:20:07Z",
+    "size": 694,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

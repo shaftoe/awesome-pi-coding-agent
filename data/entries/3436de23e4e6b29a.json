@@ -1,0 +1,37 @@
+{
+  "id": "thelobsterpinchy-pinchy-dev",
+  "name": "thelobsterpinchy-pinchy-dev",
+  "url": "https://github.com/thelobsterpinchy/pinchy-dev",
+  "source": "github-search",
+  "description": "Local-first autonomous coding agent workspace built on Pi with dashboard, API, worker, and browser debugging workflows.",
+  "metadata": {
+    "github_url": "https://github.com/thelobsterpinchy/pinchy-dev",
+    "repo_full_name": "thelobsterpinchy/pinchy-dev",
+    "description": "Local-first autonomous coding agent workspace built on Pi with dashboard, API, worker, and browser debugging workflows.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "coding-agent",
+      "local-first",
+      "pi",
+      "pinchy",
+      "playwright",
+      "react",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-21T06:26:44Z",
+    "pushed_at": "2026-04-22T10:25:02Z",
+    "updated_at": "2026-04-22T10:24:58Z",
+    "size": 425,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

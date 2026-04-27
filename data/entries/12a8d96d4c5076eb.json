@@ -1,0 +1,29 @@
+{
+  "id": "ghoseb-pi-splash",
+  "name": "ghoseb-pi-splash",
+  "url": "https://github.com/ghoseb/pi-splash",
+  "source": "github-search",
+  "description": "A simple splash screen for pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/ghoseb/pi-splash",
+    "repo_full_name": "ghoseb/pi-splash",
+    "description": "A simple splash screen for pi coding agent.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-14T11:45:40Z",
+    "pushed_at": "2026-03-16T07:43:06Z",
+    "updated_at": "2026-04-01T17:24:27Z",
+    "size": 811,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 51,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

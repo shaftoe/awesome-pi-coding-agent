@@ -1,0 +1,29 @@
+{
+  "id": "Whamp-pi-agents-md-router",
+  "name": "Whamp-pi-agents-md-router",
+  "url": "https://github.com/Whamp/pi-agents-md-router",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/Whamp/pi-agents-md-router",
+    "repo_full_name": "Whamp/pi-agents-md-router",
+    "description": "",
+    "stars": 1,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-06T06:19:22Z",
+    "pushed_at": "2026-03-06T06:19:24Z",
+    "updated_at": "2026-03-07T23:04:31Z",
+    "size": 222,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 51,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

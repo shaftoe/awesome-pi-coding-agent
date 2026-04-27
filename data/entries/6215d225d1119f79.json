@@ -1,0 +1,33 @@
+{
+  "id": "@thiago__ss/pi-agent-config",
+  "name": "@thiago__ss/pi-agent-config",
+  "url": "https://www.npmjs.com/package/@thiago__ss/pi-agent-config",
+  "source": "npm-search",
+  "description": "Thiago's shareable Pi agent configuration",
+  "metadata": {
+    "github_url": "https://github.com/thiago-ss/pi-agent-config",
+    "npm_name": "@thiago__ss/pi-agent-config",
+    "description": "Thiago's shareable Pi agent configuration",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "extensions",
+      "themes"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-04-09T17:14:54.595Z",
+    "npm_downloads_monthly": 80,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 16.277637,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 76,
+    "level": "active"
+  },
+  "category": "misc"
+}

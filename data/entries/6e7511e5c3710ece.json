@@ -1,0 +1,29 @@
+{
+  "id": "bakubay-typesafe-demos",
+  "name": "bakubay-typesafe-demos",
+  "url": "https://github.com/bakubay/typesafe-demos",
+  "source": "github-search",
+  "description": "Demo projects showcasing the TypeSafe AI evaluation API — Google Sheets add-on, Next.js multi-agent chat, and pi coding session mood monitor",
+  "metadata": {
+    "github_url": "https://github.com/bakubay/typesafe-demos",
+    "repo_full_name": "bakubay/typesafe-demos",
+    "description": "Demo projects showcasing the TypeSafe AI evaluation API — Google Sheets add-on, Next.js multi-agent chat, and pi coding session mood monitor",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-06T11:50:52Z",
+    "pushed_at": "2026-04-06T12:28:54Z",
+    "updated_at": "2026-04-06T12:28:58Z",
+    "size": 797,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

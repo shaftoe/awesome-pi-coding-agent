@@ -1,0 +1,37 @@
+{
+  "id": "StartupBros-pi-wsl-clipboard-image",
+  "name": "StartupBros-pi-wsl-clipboard-image",
+  "url": "https://github.com/StartupBros/pi-wsl-clipboard-image",
+  "source": "github-search",
+  "description": "WSL-first Pi extension that bridges Windows clipboard screenshots into Pi via temp image paths",
+  "metadata": {
+    "github_url": "https://github.com/StartupBros/pi-wsl-clipboard-image",
+    "repo_full_name": "StartupBros/pi-wsl-clipboard-image",
+    "description": "WSL-first Pi extension that bridges Windows clipboard screenshots into Pi via temp image paths",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "clipboard",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "powershell",
+      "screenshot",
+      "wsl"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-10T20:46:52Z",
+    "pushed_at": "2026-04-06T23:16:02Z",
+    "updated_at": "2026-04-06T23:16:07Z",
+    "size": 36,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

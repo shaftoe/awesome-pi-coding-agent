@@ -1,0 +1,29 @@
+{
+  "id": "kanatti-pipi",
+  "name": "kanatti-pipi",
+  "url": "https://github.com/kanatti/pipi",
+  "source": "github-search",
+  "description": "My workflows with Pi Agent",
+  "metadata": {
+    "github_url": "https://github.com/kanatti/pipi",
+    "repo_full_name": "kanatti/pipi",
+    "description": "My workflows with Pi Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-05T03:50:30Z",
+    "pushed_at": "2026-03-27T01:37:12Z",
+    "updated_at": "2026-03-27T01:37:17Z",
+    "size": 235,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

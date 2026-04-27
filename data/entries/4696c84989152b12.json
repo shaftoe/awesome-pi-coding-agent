@@ -1,0 +1,29 @@
+{
+  "id": "ephes-pi-extensions",
+  "name": "ephes-pi-extensions",
+  "url": "https://github.com/ephes/pi-extensions",
+  "source": "github-search",
+  "description": " A monorepo of Pi coding agent extensions that adds reliable, reusable tools for search, web access, and  workflow automation.",
+  "metadata": {
+    "github_url": "https://github.com/ephes/pi-extensions",
+    "repo_full_name": "ephes/pi-extensions",
+    "description": " A monorepo of Pi coding agent extensions that adds reliable, reusable tools for search, web access, and  workflow automation.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-17T07:23:25Z",
+    "pushed_at": "2026-03-17T12:41:55Z",
+    "updated_at": "2026-03-17T12:41:58Z",
+    "size": 73,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

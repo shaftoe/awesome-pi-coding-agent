@@ -1,0 +1,35 @@
+{
+  "id": "@marcfargas/go-easy",
+  "name": "@marcfargas/go-easy",
+  "url": "https://www.npmjs.com/package/@marcfargas/go-easy",
+  "source": "npm-search",
+  "description": "Google APIs made easy — Gmail, Drive, Calendar for AI agents and humans",
+  "metadata": {
+    "github_url": "https://github.com/marcfargas/go-easy",
+    "npm_name": "@marcfargas/go-easy",
+    "description": "Google APIs made easy — Gmail, Drive, Calendar for AI agents and humans",
+    "keywords": [
+      "google",
+      "gmail",
+      "drive",
+      "calendar",
+      "api",
+      "ai-agent",
+      "pi-package"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-02-27T15:31:34.899Z",
+    "npm_downloads_monthly": 78,
+    "npm_downloads_weekly": 46,
+    "npm_score_final": 16.169403,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

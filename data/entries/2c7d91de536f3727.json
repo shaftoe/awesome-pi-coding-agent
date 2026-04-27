@@ -1,0 +1,21 @@
+{
+  "id": "YT_uPR7aAneg2U",
+  "name": "Short Demo of my Pi Todo Extension",
+  "url": "https://youtube.com/watch?v=uPR7aAneg2U",
+  "source": "youtube-search",
+  "description": "This is a short demo of my todos extension for pi that is modelled after the Claude Code task system. Extension: ...",
+  "metadata": {
+    "title": "Short Demo of my Pi Todo Extension",
+    "name": "Short Demo of my Pi Todo Extension",
+    "description": "This is a short demo of my todos extension for pi that is modelled after the Claude Code task system. Extension: ...",
+    "channel": "Armin Ronacher",
+    "published_at": "2026-01-25T19:29:28Z",
+    "thumbnail": "https://i.ytimg.com/vi/uPR7aAneg2U/hqdefault.jpg",
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 24,
+    "level": "stale"
+  },
+  "category": "video"
+}

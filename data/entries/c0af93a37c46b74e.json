@@ -1,0 +1,29 @@
+{
+  "id": "Balurc-pi-blast-radius-guard",
+  "name": "Balurc-pi-blast-radius-guard",
+  "url": "https://github.com/Balurc/pi-blast-radius-guard",
+  "source": "github-search",
+  "description": "A safety extension for pi coding agent that intercepts dangerous shell commands",
+  "metadata": {
+    "github_url": "https://github.com/Balurc/pi-blast-radius-guard",
+    "repo_full_name": "Balurc/pi-blast-radius-guard",
+    "description": "A safety extension for pi coding agent that intercepts dangerous shell commands",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-09T01:42:52Z",
+    "pushed_at": "2026-03-09T02:51:07Z",
+    "updated_at": "2026-03-09T02:51:10Z",
+    "size": 1100,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 51,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

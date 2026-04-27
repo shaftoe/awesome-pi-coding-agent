@@ -1,0 +1,33 @@
+{
+  "id": "pi-formatter",
+  "name": "pi-formatter",
+  "url": "https://www.npmjs.com/package/pi-formatter",
+  "source": "npm-search",
+  "description": "Pi extension that auto-formats files.",
+  "metadata": {
+    "github_url": "https://github.com/tenzir/pi-formatter",
+    "npm_name": "pi-formatter",
+    "description": "Pi extension that auto-formats files.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "coding-agent",
+      "formatter",
+      "formatting"
+    ],
+    "version": "1.1.2",
+    "published_at": "2026-04-16T13:18:51.425Z",
+    "npm_downloads_monthly": 912,
+    "npm_downloads_weekly": 196,
+    "npm_score_final": 27.444641,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "@linioi/pi-btw",
+  "name": "@linioi/pi-btw",
+  "url": "https://www.npmjs.com/package/@linioi/pi-btw",
+  "source": "npm-search",
+  "description": "Side-question extension for pi. Ask one-off questions during agent work without derailing the main session.",
+  "metadata": {
+    "github_url": "https://github.com/RimuruW/pi-btw",
+    "npm_name": "@linioi/pi-btw",
+    "description": "Side-question extension for pi. Ask one-off questions during agent work without derailing the main session.",
+    "keywords": [
+      "pi-extension",
+      "pi-coding-agent",
+      "side-question",
+      "llm",
+      "ai-assistant"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-04-06T11:09:01.516Z",
+    "npm_downloads_monthly": 201,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 25.180857,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

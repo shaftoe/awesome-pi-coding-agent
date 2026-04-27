@@ -1,0 +1,29 @@
+{
+  "id": "jxonas-pi-web-search",
+  "name": "jxonas-pi-web-search",
+  "url": "https://github.com/jxonas/pi-web-search",
+  "source": "github-search",
+  "description": "Pi extension package providing web_search and web_fetch tools powered by the Perplexity API.",
+  "metadata": {
+    "github_url": "https://github.com/jxonas/pi-web-search",
+    "repo_full_name": "jxonas/pi-web-search",
+    "description": "Pi extension package providing web_search and web_fetch tools powered by the Perplexity API.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-26T13:08:21Z",
+    "pushed_at": "2026-02-26T13:11:51Z",
+    "updated_at": "2026-02-26T13:11:55Z",
+    "size": 7,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

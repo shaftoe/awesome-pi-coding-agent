@@ -1,0 +1,29 @@
+{
+  "id": "sartoris-digital-pi-engteam",
+  "name": "sartoris-digital-pi-engteam",
+  "url": "https://github.com/sartoris-digital/pi-engteam",
+  "source": "github-search",
+  "description": "Multi-agent engineering team extension for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/sartoris-digital/pi-engteam",
+    "repo_full_name": "sartoris-digital/pi-engteam",
+    "description": "Multi-agent engineering team extension for the Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-14T23:24:08Z",
+    "pushed_at": "2026-04-22T17:48:40Z",
+    "updated_at": "2026-04-22T17:48:44Z",
+    "size": 846,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

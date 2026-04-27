@@ -1,0 +1,34 @@
+{
+  "id": "@anistark/iconify",
+  "name": "@anistark/iconify",
+  "url": "https://www.npmjs.com/package/@anistark/iconify",
+  "source": "npm-search",
+  "description": "Turn a logo into a full favicon set from your terminal — pi extension + CLI",
+  "metadata": {
+    "github_url": "https://github.com/anistark/iconify",
+    "npm_name": "@anistark/iconify",
+    "description": "Turn a logo into a full favicon set from your terminal — pi extension + CLI",
+    "keywords": [
+      "iconify",
+      "favicon",
+      "icon",
+      "ico",
+      "cli",
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-04-26T14:24:43.400Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

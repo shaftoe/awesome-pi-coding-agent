@@ -1,0 +1,29 @@
+{
+  "id": "carlos-rodrigo-pi-config",
+  "name": "carlos-rodrigo-pi-config",
+  "url": "https://github.com/carlos-rodrigo/pi-config",
+  "source": "github-search",
+  "description": "My personal Pi extensions and themes",
+  "metadata": {
+    "github_url": "https://github.com/carlos-rodrigo/pi-config",
+    "repo_full_name": "carlos-rodrigo/pi-config",
+    "description": "My personal Pi extensions and themes",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-15T01:19:47Z",
+    "pushed_at": "2026-04-19T18:39:32Z",
+    "updated_at": "2026-04-19T18:39:36Z",
+    "size": 1420,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

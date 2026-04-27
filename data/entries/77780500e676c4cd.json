@@ -1,0 +1,29 @@
+{
+  "id": "@guwidoe/pi-wsl-clipboard-image",
+  "name": "@guwidoe/pi-wsl-clipboard-image",
+  "url": "https://www.npmjs.com/package/@guwidoe/pi-wsl-clipboard-image",
+  "source": "npm-search",
+  "description": "pi extension: paste WSLg clipboard images into the prompt",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@guwidoe/pi-wsl-clipboard-image",
+    "description": "pi extension: paste WSLg clipboard images into the prompt",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-02-24T17:53:51.081Z",
+    "npm_downloads_monthly": 14,
+    "npm_downloads_weekly": 2,
+    "npm_score_final": 9.13595,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

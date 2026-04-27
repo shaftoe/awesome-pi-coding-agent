@@ -1,0 +1,29 @@
+{
+  "id": "ADIX7-pi-agent-temperature",
+  "name": "ADIX7-pi-agent-temperature",
+  "url": "https://github.com/ADIX7/pi-agent-temperature",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/ADIX7/pi-agent-temperature",
+    "repo_full_name": "ADIX7/pi-agent-temperature",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-03T18:54:16Z",
+    "pushed_at": "2026-04-03T18:55:25Z",
+    "updated_at": "2026-04-03T18:55:28Z",
+    "size": 3,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

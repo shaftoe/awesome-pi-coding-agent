@@ -1,0 +1,35 @@
+{
+  "id": "pi-model-picker",
+  "name": "pi-model-picker",
+  "url": "https://www.npmjs.com/package/pi-model-picker",
+  "source": "npm-search",
+  "description": "Categorized, keyboard-driven model selector for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/rilham97/pi-model-picker",
+    "npm_name": "pi-model-picker",
+    "description": "Categorized, keyboard-driven model selector for the pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "model",
+      "selector",
+      "tui"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-02-25T08:30:28.751Z",
+    "npm_downloads_monthly": 19,
+    "npm_downloads_weekly": 4,
+    "npm_score_final": 10.575623,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

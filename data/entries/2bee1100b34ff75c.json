@@ -1,0 +1,29 @@
+{
+  "id": "pi-aliases",
+  "name": "pi-aliases",
+  "url": "https://www.npmjs.com/package/pi-aliases",
+  "source": "npm-search",
+  "description": "Pi extension that adds command aliases: /clear → /new, /exit → /quit",
+  "metadata": {
+    "github_url": "https://github.com/xRyul/pi-aliases",
+    "npm_name": "pi-aliases",
+    "description": "Pi extension that adds command aliases: /clear → /new, /exit → /quit",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.6",
+    "published_at": "2026-02-18T22:34:22.206Z",
+    "npm_downloads_monthly": 54,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 14.508995,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

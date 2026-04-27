@@ -1,0 +1,34 @@
+{
+  "id": "pi-sift",
+  "name": "pi-sift",
+  "url": "https://www.npmjs.com/package/pi-sift",
+  "source": "npm-search",
+  "description": "Model-scored compression of large tool results for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/eengad/pi-sift",
+    "npm_name": "pi-sift",
+    "description": "Model-scored compression of large tool results for Pi Coding Agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "context",
+      "summarization"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-03-12T13:34:17.903Z",
+    "npm_downloads_monthly": 41,
+    "npm_downloads_weekly": 4,
+    "npm_score_final": 13.448144,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

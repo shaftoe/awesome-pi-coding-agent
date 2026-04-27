@@ -1,0 +1,29 @@
+{
+  "id": "marcbaque-pi-ui",
+  "name": "marcbaque-pi-ui",
+  "url": "https://github.com/marcbaque/pi-ui",
+  "source": "github-search",
+  "description": "Desktop UI for the pi coding agent — multi-session tabs, session history, live tool call streaming",
+  "metadata": {
+    "github_url": "https://github.com/marcbaque/pi-ui",
+    "repo_full_name": "marcbaque/pi-ui",
+    "description": "Desktop UI for the pi coding agent — multi-session tabs, session history, live tool call streaming",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-19T08:38:33Z",
+    "pushed_at": "2026-04-19T20:55:12Z",
+    "updated_at": "2026-04-25T22:33:34Z",
+    "size": 1763,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "NooaLumi-my-pi-config",
+  "name": "NooaLumi-my-pi-config",
+  "url": "https://github.com/NooaLumi/my-pi-config",
+  "source": "github-search",
+  "description": "My Pi agent config ~/.pi",
+  "metadata": {
+    "github_url": "https://github.com/NooaLumi/my-pi-config",
+    "repo_full_name": "NooaLumi/my-pi-config",
+    "description": "My Pi agent config ~/.pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-26T09:49:10Z",
+    "pushed_at": "2026-04-26T19:16:22Z",
+    "updated_at": "2026-04-26T19:16:25Z",
+    "size": 39,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

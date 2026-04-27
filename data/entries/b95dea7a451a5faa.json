@@ -1,0 +1,21 @@
+{
+  "id": "YT_d5BdCxdNNp0",
+  "name": "PiCodingAgent: Minimal but Extensible AI Coding Agent",
+  "url": "https://youtube.com/watch?v=d5BdCxdNNp0",
+  "source": "youtube-search",
+  "description": "In this video, I show how to connect Pi Coding Agent to local llm server hosted via mlx-lm. Interested in Opencode? If yes ...",
+  "metadata": {
+    "title": "PiCodingAgent: Minimal but Extensible AI Coding Agent",
+    "name": "PiCodingAgent: Minimal but Extensible AI Coding Agent",
+    "description": "In this video, I show how to connect Pi Coding Agent to local llm server hosted via mlx-lm. Interested in Opencode? If yes ...",
+    "channel": "ក្រង AI",
+    "published_at": "2026-04-24T13:30:51Z",
+    "thumbnail": "https://i.ytimg.com/vi/d5BdCxdNNp0/hqdefault.jpg",
+    "discovery_hint": "youtube:pi-coding-agent"
+  },
+  "health": {
+    "score": 38,
+    "level": "stale"
+  },
+  "category": "video"
+}

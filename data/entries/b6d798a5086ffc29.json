@@ -1,0 +1,34 @@
+{
+  "id": "sadiksaifi-pi-guardrails",
+  "name": "sadiksaifi-pi-guardrails",
+  "url": "https://github.com/sadiksaifi/pi-guardrails",
+  "source": "github-search",
+  "description": "Permission guardrails for pi.",
+  "metadata": {
+    "github_url": "https://github.com/sadiksaifi/pi-guardrails",
+    "repo_full_name": "sadiksaifi/pi-guardrails",
+    "description": "Permission guardrails for pi.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai",
+      "ai-agent",
+      "pi",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-21T19:45:26Z",
+    "pushed_at": "2026-04-21T21:13:18Z",
+    "updated_at": "2026-04-21T21:13:22Z",
+    "size": 69,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

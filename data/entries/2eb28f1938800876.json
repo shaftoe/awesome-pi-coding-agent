@@ -1,0 +1,29 @@
+{
+  "id": "jbenzaquen42-Benzpi",
+  "name": "jbenzaquen42-Benzpi",
+  "url": "https://github.com/jbenzaquen42/Benzpi",
+  "source": "github-search",
+  "description": "My personal pi coding agent configuration - skills and extensions",
+  "metadata": {
+    "github_url": "https://github.com/jbenzaquen42/Benzpi",
+    "repo_full_name": "jbenzaquen42/Benzpi",
+    "description": "My personal pi coding agent configuration - skills and extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-20T19:29:58Z",
+    "pushed_at": "2026-03-23T21:17:22Z",
+    "updated_at": "2026-03-23T21:17:25Z",
+    "size": 631,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

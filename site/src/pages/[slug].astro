@@ -3,11 +3,13 @@
 import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
 // biome-ignore lint/correctness/noUnusedImports: used in Astro template
 import type { CategorizedEntry, Category } from "../lib/data";
+import { CATEGORY_META, displayName, getCategories, loadAllEntries, popularity } from "../lib/data";
 // biome-ignore lint/correctness/noUnusedImports: used in Astro template
-import { CATEGORY_META, displayName, formatStars, getCategories, timeAgo } from "../lib/data";
+import { language, lastUpdated, popularityValue, timeAgo } from "../lib/format";
 
 export function getStaticPaths() {
-	const categories = getCategories();
+	const entries = loadAllEntries();
+	const categories = getCategories(entries);
 	return categories.map((cat) => ({
 		params: { slug: cat.href.replace("/", "") },
 		props: { category: cat },
@@ -20,21 +22,19 @@ const meta = CATEGORY_META[category.slug as Category];
 
 // Pre-compute card data to avoid complex expressions in template
 // biome-ignore lint/correctness/noUnusedVariables: used in Astro template
-const cards = category.entries.map((entry) => {
-	const m = entry.metadata as Record<string, unknown>;
-	return {
-		name: displayName(entry),
-		desc: entry.description || entry.name || entry.id,
-		url: entry.url,
-		stars: (m.stars as number) ?? 0,
-		lastCommit: m.last_commit as string | null,
-		language: (m.language as string) ?? null,
-		healthLevel: entry.health.level,
-	};
-});
+const cards = category.entries.map((entry) => ({
+	name: displayName(entry),
+	desc: entry.description || entry.name || entry.id,
+	url: entry.url,
+	pop: popularity(entry),
+	popValue: popularityValue(entry),
+	lastCommit: lastUpdated(entry),
+	lang: language(entry),
+	healthLevel: entry.health.level,
+}));
 ---
 
-<StarlightPage frontmatter={{ title: meta.title, toc: false }} hasSidebar={true}>
+<StarlightPage frontmatter={{ title: "", toc: false }} hasSidebar={true}>
   <a href="/" class="back-link">← All categories</a>
 
   <div class="category-header">
@@ -51,7 +51,7 @@ const cards = category.entries.map((entry) => {
 
   <div class="entry-grid">
     {cards.map((card) => (
-      <a href={card.url} target="_blank" rel="noopener noreferrer" class="entry-card" data-searchable={`${card.name} ${card.desc} ${card.language ?? ''}`}>
+      <a href={card.url} target="_blank" rel="noopener noreferrer" class="entry-card" data-searchable={`${card.name} ${card.desc} ${card.lang ?? ''}`}>
         <div style="display:flex;align-items:center;gap:0.5rem">
           <h3>{card.name}</h3>
           <span class={`health-badge health-${card.healthLevel}`}>
@@ -61,10 +61,10 @@ const cards = category.entries.map((entry) => {
         </div>
         <p class="desc">{card.desc}</p>
         <div class="meta">
-          {card.stars > 0 && <span>⭐ {formatStars(card.stars)}</span>}
-          {card.language && (
+          {card.pop && <span>{card.pop}</span>}
+          {card.lang && (
             <span>
-              <span class="lang-dot" /> {card.language}
+              <span class="lang-dot" /> {card.lang}
             </span>
           )}
           {card.lastCommit && <span class="updated">{timeAgo(card.lastCommit)}</span>}

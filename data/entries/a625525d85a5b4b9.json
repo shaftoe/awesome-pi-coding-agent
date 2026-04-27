@@ -1,0 +1,29 @@
+{
+  "id": "VaclavSynacek-pi-coding-agent-termux",
+  "name": "VaclavSynacek-pi-coding-agent-termux",
+  "url": "https://github.com/VaclavSynacek/pi-coding-agent-termux",
+  "source": "github-search",
+  "description": "Termux port of pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/VaclavSynacek/pi-coding-agent-termux",
+    "repo_full_name": "VaclavSynacek/pi-coding-agent-termux",
+    "description": "Termux port of pi-coding-agent",
+    "stars": 4,
+    "forks": 2,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-01-17T09:55:30Z",
+    "pushed_at": "2026-02-03T08:31:03Z",
+    "updated_at": "2026-03-17T17:23:41Z",
+    "size": 36907,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

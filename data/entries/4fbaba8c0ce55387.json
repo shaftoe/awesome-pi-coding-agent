@@ -1,0 +1,38 @@
+{
+  "id": "pi-agent-bus",
+  "name": "pi-agent-bus",
+  "url": "https://www.npmjs.com/package/pi-agent-bus",
+  "source": "npm-search",
+  "description": "Pi Extension to bridge pi-agent-bus-node agents with pi.tools and pi-link",
+  "metadata": {
+    "github_url": "https://github.com/kylebrodeur/pi-agent-bus",
+    "npm_name": "pi-agent-bus",
+    "description": "Pi Extension to bridge pi-agent-bus-node agents with pi.tools and pi-link",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-agent",
+      "agent",
+      "orchestration",
+      "coordination",
+      "messaging",
+      "pubsub",
+      "bus",
+      "event-driven"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-04-26T04:14:40.831Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

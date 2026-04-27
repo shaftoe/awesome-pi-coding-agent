@@ -1,0 +1,29 @@
+{
+  "id": "hushhenry-pi-agent-refactored",
+  "name": "hushhenry-pi-agent-refactored",
+  "url": "https://github.com/hushhenry/pi-agent-refactored",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/hushhenry/pi-agent-refactored",
+    "repo_full_name": "hushhenry/pi-agent-refactored",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-14T09:21:00Z",
+    "pushed_at": "2026-02-17T07:07:38Z",
+    "updated_at": "2026-02-17T07:07:42Z",
+    "size": 41,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sleepyeldrazi-pi-meta-agent-orchestration",
+  "name": "sleepyeldrazi-pi-meta-agent-orchestration",
+  "url": "https://github.com/sleepyeldrazi/pi-meta-agent-orchestration",
+  "source": "github-search",
+  "description": "Multi-agent orchestration extensions for pi - pi-multi-agent and cross-agent-orchestrator",
+  "metadata": {
+    "github_url": "https://github.com/sleepyeldrazi/pi-meta-agent-orchestration",
+    "repo_full_name": "sleepyeldrazi/pi-meta-agent-orchestration",
+    "description": "Multi-agent orchestration extensions for pi - pi-multi-agent and cross-agent-orchestrator",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-30T13:20:55Z",
+    "pushed_at": "2026-03-30T15:55:56Z",
+    "updated_at": "2026-03-30T15:55:59Z",
+    "size": 54,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

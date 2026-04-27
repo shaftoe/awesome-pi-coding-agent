@@ -1,0 +1,29 @@
+{
+  "id": "Pi-Eye-client-connection-server",
+  "name": "Pi-Eye-client-connection-server",
+  "url": "https://github.com/Pi-Eye/client-connection-server",
+  "source": "github-search",
+  "description": "Package for connecting with Pi-Eye server",
+  "metadata": {
+    "github_url": "https://github.com/Pi-Eye/client-connection-server",
+    "repo_full_name": "Pi-Eye/client-connection-server",
+    "description": "Package for connecting with Pi-Eye server",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2022-11-12T09:48:32Z",
+    "pushed_at": "2022-11-20T03:54:20Z",
+    "updated_at": "2022-11-13T08:27:35Z",
+    "size": 516,
+    "license": "GPL-3.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 9,
+    "level": "dead"
+  },
+  "category": "misc"
+}

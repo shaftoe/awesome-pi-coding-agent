@@ -1,0 +1,29 @@
+{
+  "id": "espennilsen-pi-personal-crm",
+  "name": "espennilsen-pi-personal-crm",
+  "url": "https://github.com/espennilsen/pi-personal-crm",
+  "source": "github-search",
+  "description": "Personal CRM extension for pi — track contacts, interactions, reminders, and relationships from your coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/espennilsen/pi-personal-crm",
+    "repo_full_name": "espennilsen/pi-personal-crm",
+    "description": "Personal CRM extension for pi — track contacts, interactions, reminders, and relationships from your coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-11T08:43:03Z",
+    "pushed_at": "2026-02-11T12:33:24Z",
+    "updated_at": "2026-02-11T12:33:27Z",
+    "size": 258,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

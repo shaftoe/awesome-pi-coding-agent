@@ -1,0 +1,29 @@
+{
+  "id": "@waraq-labs/pi-notify-terminal-notifier",
+  "name": "@waraq-labs/pi-notify-terminal-notifier",
+  "url": "https://www.npmjs.com/package/@waraq-labs/pi-notify-terminal-notifier",
+  "source": "npm-search",
+  "description": "Pi extension: sends macOS notification-notifier notifications when agent waits for input",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@waraq-labs/pi-notify-terminal-notifier",
+    "description": "Pi extension: sends macOS notification-notifier notifications when agent waits for input",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-02-15T13:37:05.269Z",
+    "npm_downloads_monthly": 17,
+    "npm_downloads_weekly": 4,
+    "npm_score_final": 10.088015,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

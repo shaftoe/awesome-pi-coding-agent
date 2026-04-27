@@ -1,0 +1,40 @@
+{
+  "id": "joelazar-pi-nvim",
+  "name": "joelazar-pi-nvim",
+  "url": "https://github.com/joelazar/pi-nvim",
+  "source": "github-search",
+  "description": "Open Neovim from pi. Snacks git picker on dirty repos, agent-review.nvim export bridge to the prompt.",
+  "metadata": {
+    "github_url": "https://github.com/joelazar/pi-nvim",
+    "repo_full_name": "joelazar/pi-nvim",
+    "description": "Open Neovim from pi. Snacks git picker on dirty repos, agent-review.nvim export bridge to the prompt.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-review",
+      "editor",
+      "neovim",
+      "nvim",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "snacks-nvim",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-16T14:10:27Z",
+    "pushed_at": "2026-04-16T23:49:07Z",
+    "updated_at": "2026-04-16T23:49:11Z",
+    "size": 49,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

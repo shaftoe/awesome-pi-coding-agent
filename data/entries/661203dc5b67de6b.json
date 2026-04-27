@@ -1,0 +1,29 @@
+{
+  "id": "pi-image-gen-replicate",
+  "name": "pi-image-gen-replicate",
+  "url": "https://www.npmjs.com/package/pi-image-gen-replicate",
+  "source": "npm-search",
+  "description": "Pi image generation tool powered by Replicate (Flux, SD, and more)",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-image-gen-replicate",
+    "description": "Pi image generation tool powered by Replicate (Flux, SD, and more)",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-04-13T05:38:05.310Z",
+    "npm_downloads_monthly": 355,
+    "npm_downloads_weekly": 178,
+    "npm_score_final": 22.655989,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

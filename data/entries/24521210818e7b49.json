@@ -1,0 +1,32 @@
+{
+  "id": "@chrisbielinski/pi-searchxng",
+  "name": "@chrisbielinski/pi-searchxng",
+  "url": "https://www.npmjs.com/package/@chrisbielinski/pi-searchxng",
+  "source": "npm-search",
+  "description": "Pi package exposing the searchxng CLI as a tool.",
+  "metadata": {
+    "github_url": "https://github.com/chrisb/searchxng-cli",
+    "npm_name": "@chrisbielinski/pi-searchxng",
+    "description": "Pi package exposing the searchxng CLI as a tool.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "searchxng",
+      "openclaw"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-03-23T00:28:28.066Z",
+    "npm_downloads_monthly": 34,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 12.951726,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

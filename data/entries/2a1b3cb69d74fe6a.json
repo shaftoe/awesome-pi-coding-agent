@@ -1,0 +1,29 @@
+{
+  "id": "keith-vs-kev-reins",
+  "name": "keith-vs-kev-reins",
+  "url": "https://github.com/keith-vs-kev/reins",
+  "source": "github-search",
+  "description": "Pi extension for agent guardrails and orchestration",
+  "metadata": {
+    "github_url": "https://github.com/keith-vs-kev/reins",
+    "repo_full_name": "keith-vs-kev/reins",
+    "description": "Pi extension for agent guardrails and orchestration",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-03T21:50:22Z",
+    "pushed_at": "2026-03-04T06:37:02Z",
+    "updated_at": "2026-03-04T06:37:05Z",
+    "size": 104,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

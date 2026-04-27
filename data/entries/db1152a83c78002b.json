@@ -1,0 +1,31 @@
+{
+  "id": "@romansix/pi-tmux",
+  "name": "@romansix/pi-tmux",
+  "url": "https://www.npmjs.com/package/@romansix/pi-tmux",
+  "source": "npm-search",
+  "description": "Pi coding agent extension: tmux session management per project",
+  "metadata": {
+    "github_url": "https://github.com/indigoviolet/pi-tmux",
+    "npm_name": "@romansix/pi-tmux",
+    "description": "Pi coding agent extension: tmux session management per project",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "tmux"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-03-13T04:36:34.835Z",
+    "npm_downloads_monthly": 60,
+    "npm_downloads_weekly": 9,
+    "npm_score_final": 14.952175,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

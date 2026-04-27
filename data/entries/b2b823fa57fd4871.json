@@ -1,0 +1,36 @@
+{
+  "id": "pi-bash-readonly",
+  "name": "pi-bash-readonly",
+  "url": "https://www.npmjs.com/package/pi-bash-readonly",
+  "source": "npm-search",
+  "description": "Sandboxed read-only bash for Pi agents via bwrap",
+  "metadata": {
+    "github_url": "https://github.com/rhnvrm/pi-bash-readonly",
+    "npm_name": "pi-bash-readonly",
+    "description": "Sandboxed read-only bash for Pi agents via bwrap",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "sandbox",
+      "bwrap",
+      "read-only",
+      "security"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-04-05T11:45:41.532Z",
+    "npm_downloads_monthly": 220,
+    "npm_downloads_weekly": 15,
+    "npm_score_final": 21.181738,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

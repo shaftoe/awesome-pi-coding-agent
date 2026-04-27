@@ -1,0 +1,29 @@
+{
+  "id": "annapurna-himal-pi-vim-editor",
+  "name": "annapurna-himal-pi-vim-editor",
+  "url": "https://github.com/annapurna-himal/pi-vim-editor",
+  "source": "github-search",
+  "description": "A vim-like modal editor extension for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/annapurna-himal/pi-vim-editor",
+    "repo_full_name": "annapurna-himal/pi-vim-editor",
+    "description": "A vim-like modal editor extension for Pi coding agent",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-06T05:18:19Z",
+    "pushed_at": "2026-02-07T22:43:06Z",
+    "updated_at": "2026-04-03T21:20:37Z",
+    "size": 40,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

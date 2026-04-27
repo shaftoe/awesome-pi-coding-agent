@@ -1,0 +1,42 @@
+{
+  "id": "KristjanPikhof-pi-yaml-hooks",
+  "name": "KristjanPikhof-pi-yaml-hooks",
+  "url": "https://github.com/KristjanPikhof/pi-yaml-hooks",
+  "source": "github-search",
+  "description": "  YAML hook automation for the PI coding agent: tool guards, session hooks, prompts, notifications, and bash actions.",
+  "metadata": {
+    "github_url": "https://github.com/KristjanPikhof/pi-yaml-hooks",
+    "repo_full_name": "KristjanPikhof/pi-yaml-hooks",
+    "description": "  YAML hook automation for the PI coding agent: tool guards, session hooks, prompts, notifications, and bash actions.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-hooks",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "automation",
+      "coding-agent",
+      "developer-tools",
+      "hooks",
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "yaml"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-22T11:05:36Z",
+    "pushed_at": "2026-04-25T22:52:41Z",
+    "updated_at": "2026-04-25T22:52:58Z",
+    "size": 821,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "noctuid-pi-hindsight",
+  "name": "noctuid-pi-hindsight",
+  "url": "https://github.com/noctuid/pi-hindsight",
+  "source": "github-search",
+  "description": "(ALPHA) Hindsight integration for pi coding agent (with queueing, past session ingestion, and a focus on best practices)",
+  "metadata": {
+    "github_url": "https://github.com/noctuid/pi-hindsight",
+    "repo_full_name": "noctuid/pi-hindsight",
+    "description": "(ALPHA) Hindsight integration for pi coding agent (with queueing, past session ingestion, and a focus on best practices)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 11,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-19T22:42:05Z",
+    "pushed_at": "2026-04-26T22:16:49Z",
+    "updated_at": "2026-04-26T22:16:54Z",
+    "size": 664,
+    "license": "GPL-3.0",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

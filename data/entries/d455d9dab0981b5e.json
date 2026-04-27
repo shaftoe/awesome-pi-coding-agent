@@ -1,0 +1,29 @@
+{
+  "id": "IMackerI-pi-agent-config",
+  "name": "IMackerI-pi-agent-config",
+  "url": "https://github.com/IMackerI/pi-agent-config",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/IMackerI/pi-agent-config",
+    "repo_full_name": "IMackerI/pi-agent-config",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-04T20:08:25Z",
+    "pushed_at": "2026-04-20T20:41:32Z",
+    "updated_at": "2026-04-12T21:13:17Z",
+    "size": 120,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

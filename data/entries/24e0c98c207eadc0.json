@@ -1,0 +1,21 @@
+{
+  "id": "YT_DPzrBSuzkho",
+  "name": "My top 3 AI tools for 2026 (Opencode, Pi, vllm-studio)",
+  "url": "https://youtube.com/watch?v=DPzrBSuzkho",
+  "source": "youtube-search",
+  "description": "In this video I go over my top 3 AI tools in 2026 https://github.com/anomalyco/opencode https://github.com/badlogic/pi-mono ...",
+  "metadata": {
+    "title": "My top 3 AI tools for 2026 (Opencode, Pi, vllm-studio)",
+    "name": "My top 3 AI tools for 2026 (Opencode, Pi, vllm-studio)",
+    "description": "In this video I go over my top 3 AI tools in 2026 https://github.com/anomalyco/opencode https://github.com/badlogic/pi-mono ...",
+    "channel": "0xSero",
+    "published_at": "2026-01-14T16:44:29Z",
+    "thumbnail": "https://i.ytimg.com/vi/DPzrBSuzkho/hqdefault.jpg",
+    "discovery_hint": "youtube:pi-coding-agent"
+  },
+  "health": {
+    "score": 24,
+    "level": "stale"
+  },
+  "category": "video"
+}

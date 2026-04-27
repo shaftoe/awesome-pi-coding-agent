@@ -1,0 +1,46 @@
+{
+  "id": "herakles-dev-claude-pi",
+  "name": "herakles-dev-claude-pi",
+  "url": "https://github.com/herakles-dev/claude-pi",
+  "source": "github-search",
+  "description": "Co-processor CLI for delegating deterministic coding tasks to Pi agent. Safety-first design with YOLO firewall, stall detection, parallel burst mode, and YAML pipelines. TypeScript.",
+  "metadata": {
+    "github_url": "https://github.com/herakles-dev/claude-pi",
+    "repo_full_name": "herakles-dev/claude-pi",
+    "description": "Co-processor CLI for delegating deterministic coding tasks to Pi agent. Safety-first design with YOLO firewall, stall detection, parallel burst mode, and YAML pipelines. TypeScript.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "automation",
+      "cli",
+      "co-processor",
+      "deterministic",
+      "developer-tools",
+      "meta-agent",
+      "nodejs",
+      "parallel-processing",
+      "pi-agent",
+      "pipeline",
+      "safety",
+      "stall-detection",
+      "task-automation",
+      "typescript",
+      "yaml"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-02T22:47:11Z",
+    "pushed_at": "2026-03-05T18:14:00Z",
+    "updated_at": "2026-03-05T18:14:04Z",
+    "size": 31,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

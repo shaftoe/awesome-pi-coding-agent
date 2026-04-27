@@ -1,0 +1,32 @@
+{
+  "id": "naranyala-pi-ext-prompt-grammar-correction",
+  "name": "naranyala-pi-ext-prompt-grammar-correction",
+  "url": "https://github.com/naranyala/pi-ext-prompt-grammar-correction",
+  "source": "github-search",
+  "description": "An intelligent, real-time grammar and style assistant for the pi coding agent. This extension improves the quality of user prompts, enhances professional communication, and optimizes prompt engineering to elicit better responses from the LLM.",
+  "metadata": {
+    "github_url": "https://github.com/naranyala/pi-ext-prompt-grammar-correction",
+    "repo_full_name": "naranyala/pi-ext-prompt-grammar-correction",
+    "description": "An intelligent, real-time grammar and style assistant for the pi coding agent. This extension improves the quality of user prompts, enhances professional communication, and optimizes prompt engineering to elicit better responses from the LLM.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-17T08:49:23Z",
+    "pushed_at": "2026-04-17T09:06:16Z",
+    "updated_at": "2026-04-17T09:06:19Z",
+    "size": 66,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "@claaslange/pi-context-budget",
+  "name": "@claaslange/pi-context-budget",
+  "url": "https://www.npmjs.com/package/@claaslange/pi-context-budget",
+  "source": "npm-search",
+  "description": "Pi extension that warns when conversation context usage crosses configured thresholds.",
+  "metadata": {
+    "github_url": "https://github.com/claaslange/pi-context-budget",
+    "npm_name": "@claaslange/pi-context-budget",
+    "description": "Pi extension that warns when conversation context usage crosses configured thresholds.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-03-31T13:07:20.231Z",
+    "npm_downloads_monthly": 72,
+    "npm_downloads_weekly": 2,
+    "npm_score_final": 16.240583,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 76,
+    "level": "active"
+  },
+  "category": "extension"
+}

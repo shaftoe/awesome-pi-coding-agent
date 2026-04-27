@@ -1,0 +1,32 @@
+{
+  "id": "pi-vim",
+  "name": "pi-vim",
+  "url": "https://www.npmjs.com/package/pi-vim",
+  "source": "npm-search",
+  "description": "Vim-style modal editing for Pi's TUI editor",
+  "metadata": {
+    "github_url": "https://github.com/lajarre/pi-vim",
+    "npm_name": "pi-vim",
+    "description": "Vim-style modal editing for Pi's TUI editor",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "vim",
+      "editor"
+    ],
+    "version": "0.3.2",
+    "published_at": "2026-04-01T11:09:45.280Z",
+    "npm_downloads_monthly": 1150,
+    "npm_downloads_weekly": 146,
+    "npm_score_final": 27.675592,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "misc"
+}

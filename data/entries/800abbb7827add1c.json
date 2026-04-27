@@ -1,0 +1,29 @@
+{
+  "id": "DrOlu-pi-gui",
+  "name": "DrOlu-pi-gui",
+  "url": "https://github.com/DrOlu/pi-gui",
+  "source": "github-search",
+  "description": "Desktop GUI for pi coding agent built with Tauri (Rust + React)",
+  "metadata": {
+    "github_url": "https://github.com/DrOlu/pi-gui",
+    "repo_full_name": "DrOlu/pi-gui",
+    "description": "Desktop GUI for pi coding agent built with Tauri (Rust + React)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-13T20:07:16Z",
+    "pushed_at": "2026-03-13T20:07:19Z",
+    "updated_at": "2026-03-13T20:07:22Z",
+    "size": 10,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

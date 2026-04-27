@@ -1,0 +1,36 @@
+{
+  "id": "@traylinx/pi-switchai-provider",
+  "name": "@traylinx/pi-switchai-provider",
+  "url": "https://www.npmjs.com/package/@traylinx/pi-switchai-provider",
+  "source": "npm-search",
+  "description": "switchai provider for pi coding agent — routes completions through the switchAILocal gateway.",
+  "metadata": {
+    "github_url": "https://github.com/traylinx/pi-switchai-provider",
+    "npm_name": "@traylinx/pi-switchai-provider",
+    "description": "switchai provider for pi coding agent — routes completions through the switchAILocal gateway.",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "switchai",
+      "switchailocal",
+      "provider",
+      "openai-compatible",
+      "llm-gateway",
+      "ai"
+    ],
+    "version": "0.3.2",
+    "published_at": "2026-04-18T13:50:23.728Z",
+    "npm_downloads_monthly": 257,
+    "npm_downloads_weekly": 257,
+    "npm_score_final": 26.508678,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

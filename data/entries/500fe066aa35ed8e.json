@@ -1,0 +1,29 @@
+{
+  "id": "dkmaker-pi-agent-framework",
+  "name": "dkmaker-pi-agent-framework",
+  "url": "https://github.com/dkmaker/pi-agent-framework",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/dkmaker/pi-agent-framework",
+    "repo_full_name": "dkmaker/pi-agent-framework",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-16T00:28:41Z",
+    "pushed_at": "2026-03-16T01:18:00Z",
+    "updated_at": "2026-03-16T01:18:04Z",
+    "size": 305,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

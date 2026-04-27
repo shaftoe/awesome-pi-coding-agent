@@ -1,0 +1,29 @@
+{
+  "id": "trotsky1997-pi-claude-runtime-core",
+  "name": "trotsky1997-pi-claude-runtime-core",
+  "url": "https://github.com/trotsky1997/pi-claude-runtime-core",
+  "source": "github-search",
+  "description": "Shared Claude-style runtime contracts for Pi packages",
+  "metadata": {
+    "github_url": "https://github.com/trotsky1997/pi-claude-runtime-core",
+    "repo_full_name": "trotsky1997/pi-claude-runtime-core",
+    "description": "Shared Claude-style runtime contracts for Pi packages",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-08T07:18:06Z",
+    "pushed_at": "2026-04-08T17:38:49Z",
+    "updated_at": "2026-04-08T17:38:53Z",
+    "size": 16,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

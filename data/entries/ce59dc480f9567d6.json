@@ -1,0 +1,37 @@
+{
+  "id": "StartupBros-pi-research-fabric",
+  "name": "StartupBros-pi-research-fabric",
+  "url": "https://github.com/StartupBros/pi-research-fabric",
+  "source": "github-search",
+  "description": "Cross-harness research capability tools for Pi: WebSearch, WebFetch, CodeContextSearch, and SiteMap.",
+  "metadata": {
+    "github_url": "https://github.com/StartupBros/pi-research-fabric",
+    "repo_full_name": "StartupBros/pi-research-fabric",
+    "description": "Cross-harness research capability tools for Pi: WebSearch, WebFetch, CodeContextSearch, and SiteMap.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "brave-search",
+      "exa",
+      "firecrawl",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "research"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-10T07:22:57Z",
+    "pushed_at": "2026-03-31T21:52:33Z",
+    "updated_at": "2026-03-31T21:52:38Z",
+    "size": 48,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

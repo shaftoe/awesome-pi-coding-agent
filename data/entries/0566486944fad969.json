@@ -1,0 +1,29 @@
+{
+  "id": "rhjoh-PiAssistant",
+  "name": "rhjoh-PiAssistant",
+  "url": "https://github.com/rhjoh/PiAssistant",
+  "source": "github-search",
+  "description": "A persistant Pi coding agent session accessible via Telegram. ",
+  "metadata": {
+    "github_url": "https://github.com/rhjoh/PiAssistant",
+    "repo_full_name": "rhjoh/PiAssistant",
+    "description": "A persistant Pi coding agent session accessible via Telegram. ",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-01-27T14:24:25Z",
+    "pushed_at": "2026-04-11T11:30:43Z",
+    "updated_at": "2026-04-11T11:30:46Z",
+    "size": 488,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

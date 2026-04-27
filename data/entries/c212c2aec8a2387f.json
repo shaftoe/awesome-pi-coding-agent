@@ -1,0 +1,29 @@
+{
+  "id": "rakeshtembhurne-pi-starter",
+  "name": "rakeshtembhurne-pi-starter",
+  "url": "https://github.com/rakeshtembhurne/pi-starter",
+  "source": "github-search",
+  "description": "Minimal starter template for AI-assisted development with pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/rakeshtembhurne/pi-starter",
+    "repo_full_name": "rakeshtembhurne/pi-starter",
+    "description": "Minimal starter template for AI-assisted development with pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-03T03:06:46Z",
+    "pushed_at": "2026-04-03T14:18:15Z",
+    "updated_at": "2026-04-03T14:18:14Z",
+    "size": 51,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

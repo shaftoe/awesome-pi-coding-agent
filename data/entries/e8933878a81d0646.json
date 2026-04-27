@@ -1,0 +1,41 @@
+{
+  "id": "@andamio/coach",
+  "name": "@andamio/coach",
+  "url": "https://www.npmjs.com/package/@andamio/coach",
+  "source": "npm-search",
+  "description": "Build learning pathways for individuals, teams, and ecosystems",
+  "metadata": {
+    "github_url": "https://github.com/Andamio-Platform/coach",
+    "npm_name": "@andamio/coach",
+    "description": "Build learning pathways for individuals, teams, and ecosystems",
+    "keywords": [
+      "agent-skill",
+      "agent-skills",
+      "pi-package",
+      "pi-skill",
+      "course-development",
+      "slt",
+      "education",
+      "compounding-skills",
+      "collaboration",
+      "credentials",
+      "verifiable credentials",
+      "blockchain",
+      "curriculum design"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-03-21T19:00:07.307Z",
+    "npm_downloads_monthly": 43,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 13.830757,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

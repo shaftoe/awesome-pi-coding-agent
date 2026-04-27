@@ -1,0 +1,29 @@
+{
+  "id": "@alasano/pi-mouse",
+  "name": "@alasano/pi-mouse",
+  "url": "https://www.npmjs.com/package/@alasano/pi-mouse",
+  "source": "npm-search",
+  "description": "ASCII mouse that follows your cursor above the editor in pi",
+  "metadata": {
+    "github_url": "https://github.com/alasano/house-of-pi",
+    "npm_name": "@alasano/pi-mouse",
+    "description": "ASCII mouse that follows your cursor above the editor in pi",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-04-03T18:45:52.791Z",
+    "npm_downloads_monthly": 180,
+    "npm_downloads_weekly": 19,
+    "npm_score_final": 20.213114,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

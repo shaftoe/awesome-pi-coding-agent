@@ -1,0 +1,50 @@
+{
+  "id": "Quicksandprotiumguianense974-pi-workstation",
+  "name": "Quicksandprotiumguianense974-pi-workstation",
+  "url": "https://github.com/Quicksandprotiumguianense974/pi-workstation",
+  "source": "github-search",
+  "description": "Extend pi coding agent with custom themes, a music player, a knowledge graph, and AI companion tools for a richer workstation",
+  "metadata": {
+    "github_url": "https://github.com/Quicksandprotiumguianense974/pi-workstation",
+    "repo_full_name": "Quicksandprotiumguianense974/pi-workstation",
+    "description": "Extend pi coding agent with custom themes, a music player, a knowledge graph, and AI companion tools for a richer workstation",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "blocker",
+      "dashboard",
+      "dns",
+      "dnsmasq",
+      "homebrew",
+      "multi-tenant",
+      "multi-tenant-applications",
+      "osx-setup",
+      "php",
+      "saas",
+      "virtual-machine",
+      "vmware-latest",
+      "vmware-license",
+      "vmware-pro",
+      "vmware-workstation",
+      "vmware-workstation-free",
+      "vmware-workstation-player",
+      "vmware-workstation-pro",
+      "workstation16",
+      "zend"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-31T16:14:23Z",
+    "pushed_at": "2026-04-27T01:19:22Z",
+    "updated_at": "2026-04-27T01:19:25Z",
+    "size": 3741,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

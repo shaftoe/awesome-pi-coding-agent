@@ -1,0 +1,41 @@
+{
+  "id": "jjmartres-ai-coding-agents",
+  "name": "jjmartres-ai-coding-agents",
+  "url": "https://github.com/jjmartres/ai-coding-agents",
+  "source": "github-search",
+  "description": "Single source of truth for AI coding agent configuration — skills, commands and rules shared across OpenCode and Pi.",
+  "metadata": {
+    "github_url": "https://github.com/jjmartres/ai-coding-agents",
+    "repo_full_name": "jjmartres/ai-coding-agents",
+    "description": "Single source of truth for AI coding agent configuration — skills, commands and rules shared across OpenCode and Pi.",
+    "stars": 4,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "agents",
+      "agentskills",
+      "claude-code",
+      "claude-skills",
+      "configuration",
+      "dotfiles",
+      "gemini-cli",
+      "opencode",
+      "pi",
+      "pi-mono",
+      "skills"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-19T15:31:49Z",
+    "pushed_at": "2026-04-24T09:59:01Z",
+    "updated_at": "2026-04-24T09:59:02Z",
+    "size": 2246,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

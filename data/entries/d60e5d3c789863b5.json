@@ -1,0 +1,29 @@
+{
+  "id": "speniti-dotpi",
+  "name": "speniti-dotpi",
+  "url": "https://github.com/speniti/dotpi",
+  "source": "github-search",
+  "description": "Personal pi coding agent setup — extensions, skills, themes, and prompts. Like dotfiles, but for pi.",
+  "metadata": {
+    "github_url": "https://github.com/speniti/dotpi",
+    "repo_full_name": "speniti/dotpi",
+    "description": "Personal pi coding agent setup — extensions, skills, themes, and prompts. Like dotfiles, but for pi.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-16T10:19:04Z",
+    "pushed_at": "2026-04-21T10:00:30Z",
+    "updated_at": "2026-04-21T10:00:35Z",
+    "size": 223,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

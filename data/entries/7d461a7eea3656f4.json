@@ -1,0 +1,29 @@
+{
+  "id": "bwks-pi-planner",
+  "name": "bwks-pi-planner",
+  "url": "https://github.com/bwks/pi-planner",
+  "source": "github-search",
+  "description": "Planning extension for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/bwks/pi-planner",
+    "repo_full_name": "bwks/pi-planner",
+    "description": "Planning extension for Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-18T08:06:29Z",
+    "pushed_at": "2026-04-18T18:17:46Z",
+    "updated_at": "2026-04-18T18:17:46Z",
+    "size": 35,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

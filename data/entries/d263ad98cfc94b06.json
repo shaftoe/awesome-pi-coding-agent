@@ -1,0 +1,32 @@
+{
+  "id": "pi-code-index",
+  "name": "pi-code-index",
+  "url": "https://www.npmjs.com/package/pi-code-index",
+  "source": "npm-search",
+  "description": "Fast, precise codebase exploration via universal-ctags — symbol search, outlines, exact code retrieval, global index storage, and cross-project search",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-code-index",
+    "description": "Fast, precise codebase exploration via universal-ctags — symbol search, outlines, exact code retrieval, global index storage, and cross-project search",
+    "keywords": [
+      "pi-package",
+      "ctags",
+      "code-index",
+      "symbol-search"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-03-10T18:42:46.857Z",
+    "npm_downloads_monthly": 30,
+    "npm_downloads_weekly": 5,
+    "npm_score_final": 12.072331,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

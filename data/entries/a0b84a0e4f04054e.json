@@ -1,0 +1,29 @@
+{
+  "id": "aebrer-dreb",
+  "name": "aebrer-dreb",
+  "url": "https://github.com/aebrer/dreb",
+  "source": "github-search",
+  "description": "Provider-agnostic agentic coding harness. Hard fork of pi-mono.",
+  "metadata": {
+    "github_url": "https://github.com/aebrer/dreb",
+    "repo_full_name": "aebrer/dreb",
+    "description": "Provider-agnostic agentic coding harness. Hard fork of pi-mono.",
+    "stars": 6,
+    "forks": 1,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-26T04:36:31Z",
+    "pushed_at": "2026-04-22T00:58:50Z",
+    "updated_at": "2026-04-25T21:23:39Z",
+    "size": 6515,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 70,
+    "level": "active"
+  },
+  "category": "misc"
+}

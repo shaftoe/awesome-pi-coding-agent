@@ -1,0 +1,42 @@
+{
+  "id": "pi-must-have-extension",
+  "name": "pi-must-have-extension",
+  "url": "https://www.npmjs.com/package/pi-must-have-extension",
+  "source": "npm-search",
+  "description": "RFC 2119 keyword normalizer extension for the Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/MasuRii/pi-must-have-extension",
+    "npm_name": "pi-must-have-extension",
+    "description": "RFC 2119 keyword normalizer extension for the Pi coding agent.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "pi",
+      "coding-agent",
+      "rfc2119",
+      "rfc8174",
+      "bcp14",
+      "prompt-normalization",
+      "prompt-rewrite",
+      "prompt-engineering",
+      "keyword-normalization",
+      "compliance",
+      "jsonc"
+    ],
+    "version": "0.4.11",
+    "published_at": "2026-04-25T07:48:30.279Z",
+    "npm_downloads_monthly": 438,
+    "npm_downloads_weekly": 128,
+    "npm_score_final": 23.484789,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

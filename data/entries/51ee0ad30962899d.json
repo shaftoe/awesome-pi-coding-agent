@@ -1,0 +1,29 @@
+{
+  "id": "pi-worlds",
+  "name": "pi-worlds",
+  "url": "https://www.npmjs.com/package/pi-worlds",
+  "source": "npm-search",
+  "description": "Pi extension for generating 3D worlds via the World Labs Marble API",
+  "metadata": {
+    "github_url": "https://github.com/minghinmatthewlam/pi-worlds",
+    "npm_name": "pi-worlds",
+    "description": "Pi extension for generating 3D worlds via the World Labs Marble API",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-03-27T16:09:52.136Z",
+    "npm_downloads_monthly": 145,
+    "npm_downloads_weekly": 12,
+    "npm_score_final": 19.25609,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 75,
+    "level": "active"
+  },
+  "category": "extension"
+}

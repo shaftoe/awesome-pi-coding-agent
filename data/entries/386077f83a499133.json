@@ -1,0 +1,40 @@
+{
+  "id": "holdpty",
+  "name": "holdpty",
+  "url": "https://www.npmjs.com/package/holdpty",
+  "source": "npm-search",
+  "description": "Minimal cross-platform detached PTY. Launch commands in a pseudo-terminal, attach/view/record later.",
+  "metadata": {
+    "github_url": "https://github.com/marcfargas/holdpty",
+    "npm_name": "holdpty",
+    "description": "Minimal cross-platform detached PTY. Launch commands in a pseudo-terminal, attach/view/record later.",
+    "keywords": [
+      "pi-package",
+      "pty",
+      "terminal",
+      "detach",
+      "attach",
+      "screen",
+      "tmux",
+      "dtach",
+      "node-pty",
+      "cross-platform",
+      "windows",
+      "conpty"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-04-03T14:45:26.940Z",
+    "npm_downloads_monthly": 192,
+    "npm_downloads_weekly": 15,
+    "npm_score_final": 19.919083,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

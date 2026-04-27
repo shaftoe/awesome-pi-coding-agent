@@ -1,0 +1,29 @@
+{
+  "id": "kingkillery-pi-config",
+  "name": "kingkillery-pi-config",
+  "url": "https://github.com/kingkillery/pi-config",
+  "source": "github-search",
+  "description": "Pi coding agent profile configurations and extensions",
+  "metadata": {
+    "github_url": "https://github.com/kingkillery/pi-config",
+    "repo_full_name": "kingkillery/pi-config",
+    "description": "Pi coding agent profile configurations and extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-13T13:56:55Z",
+    "pushed_at": "2026-04-21T06:54:00Z",
+    "updated_at": "2026-04-21T06:54:04Z",
+    "size": 1687,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

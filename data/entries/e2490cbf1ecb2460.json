@@ -1,0 +1,29 @@
+{
+  "id": "git-metadata",
+  "name": "git-metadata",
+  "url": "https://www.npmjs.com/package/git-metadata",
+  "source": "npm-search",
+  "description": "Pi extension that provides git repository metadata — branch, remotes, commits, tags, status, and contributors",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "git-metadata",
+    "description": "Pi extension that provides git repository metadata — branch, remotes, commits, tags, status, and contributors",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-03-24T12:54:38.176Z",
+    "npm_downloads_monthly": 125,
+    "npm_downloads_weekly": 3,
+    "npm_score_final": 18.074347,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 75,
+    "level": "active"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hjanuschka-pi-gdocs",
+  "name": "hjanuschka-pi-gdocs",
+  "url": "https://github.com/hjanuschka/pi-gdocs",
+  "source": "github-search",
+  "description": "Google Docs extension for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/hjanuschka/pi-gdocs",
+    "repo_full_name": "hjanuschka/pi-gdocs",
+    "description": "Google Docs extension for pi coding agent",
+    "stars": 8,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-31T23:39:04Z",
+    "pushed_at": "2026-03-31T23:52:34Z",
+    "updated_at": "2026-04-24T12:51:15Z",
+    "size": 19,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

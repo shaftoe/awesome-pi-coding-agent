@@ -1,0 +1,29 @@
+{
+  "id": "felix-d-pi-nvim",
+  "name": "felix-d-pi-nvim",
+  "url": "https://github.com/felix-d/pi-nvim",
+  "source": "github-search",
+  "description": "Neovim plugin for sending file references to pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/felix-d/pi-nvim",
+    "repo_full_name": "felix-d/pi-nvim",
+    "description": "Neovim plugin for sending file references to pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-16T19:00:04Z",
+    "pushed_at": "2026-03-15T22:46:58Z",
+    "updated_at": "2026-03-15T22:47:02Z",
+    "size": 14,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

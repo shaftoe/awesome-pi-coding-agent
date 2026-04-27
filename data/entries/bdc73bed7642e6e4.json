@@ -1,0 +1,29 @@
+{
+  "id": "christroutner-pi-extensions",
+  "name": "christroutner-pi-extensions",
+  "url": "https://github.com/christroutner/pi-extensions",
+  "source": "github-search",
+  "description": "My extensions for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/christroutner/pi-extensions",
+    "repo_full_name": "christroutner/pi-extensions",
+    "description": "My extensions for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-04T00:50:19Z",
+    "pushed_at": "2026-02-05T23:08:07Z",
+    "updated_at": "2026-02-05T23:08:10Z",
+    "size": 63,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

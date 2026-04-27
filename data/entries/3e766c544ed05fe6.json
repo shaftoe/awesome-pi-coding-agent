@@ -1,0 +1,34 @@
+{
+  "id": "pi-minimax-cli",
+  "name": "pi-minimax-cli",
+  "url": "https://www.npmjs.com/package/pi-minimax-cli",
+  "source": "npm-search",
+  "description": "A pi coding agent extension that wraps the MiniMax mmx CLI as callable tools with self-evolving architecture",
+  "metadata": {
+    "github_url": "https://github.com/ramankarki/pi-minimax-cli",
+    "npm_name": "pi-minimax-cli",
+    "description": "A pi coding agent extension that wraps the MiniMax mmx CLI as callable tools with self-evolving architecture",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "minimax",
+      "mmx",
+      "cli-wrapper",
+      "ai-tools"
+    ],
+    "version": "1.1.1",
+    "published_at": "2026-04-26T14:00:08.865Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

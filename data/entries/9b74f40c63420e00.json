@@ -1,0 +1,21 @@
+{
+  "id": "YT_NH-LeJpgBeE",
+  "name": "Pi Coding Agent + Archo Explained",
+  "url": "https://youtube.com/watch?v=NH-LeJpgBeE",
+  "source": "youtube-search",
+  "description": "This video breaks down Pi Coding Agent + Archo Explained. Claude Code used to be simple, predictable, and easy to mold to ...",
+  "metadata": {
+    "title": "Pi Coding Agent + Archo Explained",
+    "name": "Pi Coding Agent + Archo Explained",
+    "description": "This video breaks down Pi Coding Agent + Archo Explained. Claude Code used to be simple, predictable, and easy to mold to ...",
+    "channel": "Mat Siems",
+    "published_at": "2026-04-25T14:00:39Z",
+    "thumbnail": "https://i.ytimg.com/vi/NH-LeJpgBeE/hqdefault.jpg",
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 38,
+    "level": "stale"
+  },
+  "category": "video"
+}

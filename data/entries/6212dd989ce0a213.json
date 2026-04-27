@@ -1,0 +1,29 @@
+{
+  "id": "thienlh-pi-agent",
+  "name": "thienlh-pi-agent",
+  "url": "https://github.com/thienlh/pi-agent",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/thienlh/pi-agent",
+    "repo_full_name": "thienlh/pi-agent",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-03T05:18:01Z",
+    "pushed_at": "2026-04-09T14:06:05Z",
+    "updated_at": "2026-04-09T14:06:10Z",
+    "size": 744,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

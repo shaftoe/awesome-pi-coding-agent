@@ -1,0 +1,29 @@
+{
+  "id": "sigilmakes-spindle",
+  "name": "sigilmakes-spindle",
+  "url": "https://github.com/sigilmakes/spindle",
+  "source": "github-search",
+  "description": "Persistent JavaScript REPL for context manipulation, MCP integration, and focused sub-agent orchestration. A pi extension.",
+  "metadata": {
+    "github_url": "https://github.com/sigilmakes/spindle",
+    "repo_full_name": "sigilmakes/spindle",
+    "description": "Persistent JavaScript REPL for context manipulation, MCP integration, and focused sub-agent orchestration. A pi extension.",
+    "stars": 21,
+    "forks": 2,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-15T16:06:55Z",
+    "pushed_at": "2026-03-30T09:42:13Z",
+    "updated_at": "2026-04-23T08:23:32Z",
+    "size": 444,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

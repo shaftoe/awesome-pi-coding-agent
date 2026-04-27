@@ -1,0 +1,29 @@
+{
+  "id": "@artale/pi-caffeinate",
+  "name": "@artale/pi-caffeinate",
+  "url": "https://www.npmjs.com/package/@artale/pi-caffeinate",
+  "source": "npm-search",
+  "description": "Keep your machine awake during long Pi sessions. Prevents sleep/screen lock on macOS, Windows, Linux.",
+  "metadata": {
+    "github_url": "https://github.com/arosstale/pi-caffeinate",
+    "npm_name": "@artale/pi-caffeinate",
+    "description": "Keep your machine awake during long Pi sessions. Prevents sleep/screen lock on macOS, Windows, Linux.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-03-14T13:51:13.250Z",
+    "npm_downloads_monthly": 36,
+    "npm_downloads_weekly": 15,
+    "npm_score_final": 12.820597,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

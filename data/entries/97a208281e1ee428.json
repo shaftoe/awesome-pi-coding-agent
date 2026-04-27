@@ -1,0 +1,31 @@
+{
+  "id": "@alchemiststudios/pi-harness-skills",
+  "name": "@alchemiststudios/pi-harness-skills",
+  "url": "https://www.npmjs.com/package/@alchemiststudios/pi-harness-skills",
+  "source": "npm-search",
+  "description": "Harness engineering skills package for pi",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@alchemiststudios/pi-harness-skills",
+    "description": "Harness engineering skills package for pi",
+    "keywords": [
+      "pi-package",
+      "skills",
+      "harness-engineering"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-03-17T22:54:33.527Z",
+    "npm_downloads_monthly": 54,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 14.931574,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

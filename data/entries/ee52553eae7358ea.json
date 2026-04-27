@@ -1,0 +1,29 @@
+{
+  "id": "asyrjasalo-micro-pi",
+  "name": "asyrjasalo-micro-pi",
+  "url": "https://github.com/asyrjasalo/micro-pi",
+  "source": "github-search",
+  "description": "Run Pi Coding Agent inside a microsandbox VM",
+  "metadata": {
+    "github_url": "https://github.com/asyrjasalo/micro-pi",
+    "repo_full_name": "asyrjasalo/micro-pi",
+    "description": "Run Pi Coding Agent inside a microsandbox VM",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-19T18:05:41Z",
+    "pushed_at": "2026-04-19T21:29:35Z",
+    "updated_at": "2026-04-19T21:29:39Z",
+    "size": 33,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

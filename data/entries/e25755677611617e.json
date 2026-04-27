@@ -1,0 +1,36 @@
+{
+  "id": "@0xkobold/pi-mcp",
+  "name": "@0xkobold/pi-mcp",
+  "url": "https://www.npmjs.com/package/@0xkobold/pi-mcp",
+  "source": "npm-search",
+  "description": "Model Context Protocol (MCP) integration for pi-coding-agent. Connect to any MCP server (stdio, SSE, StreamableHTTP, WebSocket) and use its tools, resources, and prompts natively.",
+  "metadata": {
+    "github_url": "https://github.com/0xKobold/pi-mcp",
+    "npm_name": "@0xkobold/pi-mcp",
+    "description": "Model Context Protocol (MCP) integration for pi-coding-agent. Connect to any MCP server (stdio, SSE, StreamableHTTP, WebSocket) and use its tools, resources, and prompts natively.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "mcp",
+      "model-context-protocol",
+      "tools",
+      "resources",
+      "prompts",
+      "0xkobold"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-04-07T22:42:59.813Z",
+    "npm_downloads_monthly": 169,
+    "npm_downloads_weekly": 16,
+    "npm_score_final": 19.499105,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

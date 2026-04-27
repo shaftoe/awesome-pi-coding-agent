@@ -1,0 +1,49 @@
+{
+  "id": "itsmekene-pi-design-deck",
+  "name": "itsmekene-pi-design-deck",
+  "url": "https://github.com/itsmekene/pi-design-deck",
+  "source": "github-search",
+  "description": "Present multi-slide visual decision decks for Pi coding agent, enabling clear comparisons of code, diagrams, and mockups to guide implementation choices.",
+  "metadata": {
+    "github_url": "https://github.com/itsmekene/pi-design-deck",
+    "repo_full_name": "itsmekene/pi-design-deck",
+    "description": "Present multi-slide visual decision decks for Pi coding agent, enabling clear comparisons of code, diagrams, and mockups to guide implementation choices.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "blocker",
+      "dashboard",
+      "design",
+      "design-system",
+      "development",
+      "dhcp",
+      "dns-server",
+      "dnsmasq",
+      "interview",
+      "laminas",
+      "multi-tenant",
+      "multi-tenant-applications",
+      "php",
+      "shell",
+      "system",
+      "web",
+      "webapp",
+      "zend",
+      "zend-framework"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-07T03:45:44Z",
+    "pushed_at": "2026-04-27T01:03:37Z",
+    "updated_at": "2026-04-27T01:03:41Z",
+    "size": 1894,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

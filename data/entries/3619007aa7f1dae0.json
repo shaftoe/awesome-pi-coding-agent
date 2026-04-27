@@ -1,0 +1,29 @@
+{
+  "id": "ogulcancelik-pi-session-recall",
+  "name": "ogulcancelik-pi-session-recall",
+  "url": "https://github.com/ogulcancelik/pi-session-recall",
+  "source": "github-search",
+  "description": "⚠️ Moved to https://github.com/ogulcancelik/pi-extensions/tree/main/packages/pi-session-recall",
+  "metadata": {
+    "github_url": "https://github.com/ogulcancelik/pi-session-recall",
+    "repo_full_name": "ogulcancelik/pi-session-recall",
+    "description": "⚠️ Moved to https://github.com/ogulcancelik/pi-extensions/tree/main/packages/pi-session-recall",
+    "stars": 7,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": true,
+    "created_at": "2026-03-02T20:00:06Z",
+    "pushed_at": "2026-03-17T18:48:39Z",
+    "updated_at": "2026-04-05T13:23:01Z",
+    "size": 13,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 0,
+    "level": "dead"
+  },
+  "category": "extension"
+}

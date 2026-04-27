@@ -1,0 +1,39 @@
+{
+  "id": "qnaigc-llm-provider",
+  "name": "qnaigc-llm-provider",
+  "url": "https://www.npmjs.com/package/qnaigc-llm-provider",
+  "source": "npm-search",
+  "description": "QNAIGC provider extension for pi-mono - Anthropic-compatible API for Chinese LLMs",
+  "metadata": {
+    "github_url": "https://github.com/qidu/pi-mono",
+    "npm_name": "qnaigc-llm-provider",
+    "description": "QNAIGC provider extension for pi-mono - Anthropic-compatible API for Chinese LLMs",
+    "keywords": [
+      "ai",
+      "llm",
+      "qnaigc",
+      "provider",
+      "pi-mono",
+      "anthropic",
+      "deepseek",
+      "minimax",
+      "chinese-llm",
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-03-19T09:47:40.801Z",
+    "npm_downloads_monthly": 27,
+    "npm_downloads_weekly": 5,
+    "npm_score_final": 11.726958,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

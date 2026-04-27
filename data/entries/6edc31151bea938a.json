@@ -1,0 +1,29 @@
+{
+  "id": "stepandel-nonlinear-pi",
+  "name": "stepandel-nonlinear-pi",
+  "url": "https://github.com/stepandel/nonlinear-pi",
+  "source": "github-search",
+  "description": "Linear plugin for pi agents",
+  "metadata": {
+    "github_url": "https://github.com/stepandel/nonlinear-pi",
+    "repo_full_name": "stepandel/nonlinear-pi",
+    "description": "Linear plugin for pi agents",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-05T01:57:15Z",
+    "pushed_at": "2026-03-10T05:14:49Z",
+    "updated_at": "2026-03-10T20:59:02Z",
+    "size": 135,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

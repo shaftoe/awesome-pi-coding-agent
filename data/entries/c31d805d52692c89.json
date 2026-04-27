@@ -1,0 +1,29 @@
+{
+  "id": "CharLEE-X-pi-agent-team",
+  "name": "CharLEE-X-pi-agent-team",
+  "url": "https://github.com/CharLEE-X/pi-agent-team",
+  "source": "github-search",
+  "description": "Pi extension: dispatcher-only orchestrator that delegates work to specialist agent teammates via dispatch_agent. Grid dashboard, multi-team yaml support, model-tier resolution, host notifications.",
+  "metadata": {
+    "github_url": "https://github.com/CharLEE-X/pi-agent-team",
+    "repo_full_name": "CharLEE-X/pi-agent-team",
+    "description": "Pi extension: dispatcher-only orchestrator that delegates work to specialist agent teammates via dispatch_agent. Grid dashboard, multi-team yaml support, model-tier resolution, host notifications.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-26T09:45:07Z",
+    "pushed_at": "2026-04-26T11:46:13Z",
+    "updated_at": "2026-04-26T11:46:16Z",
+    "size": 140,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

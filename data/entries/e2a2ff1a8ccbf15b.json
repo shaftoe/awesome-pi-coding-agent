@@ -1,0 +1,29 @@
+{
+  "id": "bsmithgall-pi-pi-pi",
+  "name": "bsmithgall-pi-pi-pi",
+  "url": "https://github.com/bsmithgall/pi-pi-pi",
+  "source": "github-search",
+  "description": "Skills and extensions for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/bsmithgall/pi-pi-pi",
+    "repo_full_name": "bsmithgall/pi-pi-pi",
+    "description": "Skills and extensions for the Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-03T15:12:15Z",
+    "pushed_at": "2026-03-30T19:29:41Z",
+    "updated_at": "2026-03-30T19:29:45Z",
+    "size": 208,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

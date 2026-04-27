@@ -1,0 +1,38 @@
+{
+  "id": "@latent-variable/pi-terminal-bench",
+  "name": "@latent-variable/pi-terminal-bench",
+  "url": "https://www.npmjs.com/package/@latent-variable/pi-terminal-bench",
+  "source": "npm-search",
+  "description": "Self-contained benchmark suite for Pi. Runs QuixBugs and other coding tasks locally — no Docker, no Python frameworks, no external dependencies.",
+  "metadata": {
+    "github_url": "https://github.com/latent-variable/pi-terminal-bench",
+    "npm_name": "@latent-variable/pi-terminal-bench",
+    "description": "Self-contained benchmark suite for Pi. Runs QuixBugs and other coding tasks locally — no Docker, no Python frameworks, no external dependencies.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "terminal-bench",
+      "benchmark",
+      "evaluation",
+      "quixbugs",
+      "coding-agent",
+      "llm-benchmark",
+      "code-evaluation"
+    ],
+    "version": "1.0.7",
+    "published_at": "2026-04-17T17:08:28.854Z",
+    "npm_downloads_monthly": 762,
+    "npm_downloads_weekly": 382,
+    "npm_score_final": 25.88739,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "@alexanderfortin/pi-zai-usage",
+  "name": "@alexanderfortin/pi-zai-usage",
+  "url": "https://www.npmjs.com/package/@alexanderfortin/pi-zai-usage",
+  "source": "npm-search",
+  "description": "Pi extension for monitoring Z.ai API token usage quota",
+  "metadata": {
+    "github_url": "https://github.com/shaftoe/pi-zai-usage",
+    "npm_name": "@alexanderfortin/pi-zai-usage",
+    "description": "Pi extension for monitoring Z.ai API token usage quota",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "zai",
+      "Z.ai",
+      "usage-monitoring",
+      "api-quota"
+    ],
+    "version": "0.1.10",
+    "published_at": "2026-04-26T14:07:17.642Z",
+    "npm_downloads_monthly": 1236,
+    "npm_downloads_weekly": 51,
+    "npm_score_final": 28.176205,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "extension"
+}

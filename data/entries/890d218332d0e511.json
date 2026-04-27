@@ -1,0 +1,29 @@
+{
+  "id": "ashlineldridge-pi-vertex",
+  "name": "ashlineldridge-pi-vertex",
+  "url": "https://github.com/ashlineldridge/pi-vertex",
+  "source": "github-search",
+  "description": "Google Cloud Vertex AI provider for Pi coding agent - Claude, Gemini, and more",
+  "metadata": {
+    "github_url": "https://github.com/ashlineldridge/pi-vertex",
+    "repo_full_name": "ashlineldridge/pi-vertex",
+    "description": "Google Cloud Vertex AI provider for Pi coding agent - Claude, Gemini, and more",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-15T23:30:41Z",
+    "pushed_at": "2026-04-23T04:35:06Z",
+    "updated_at": "2026-04-23T04:35:10Z",
+    "size": 296,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 66,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

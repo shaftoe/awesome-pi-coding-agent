@@ -1,0 +1,33 @@
+{
+  "id": "@tomooshi/caveman-milk-pi",
+  "name": "@tomooshi/caveman-milk-pi",
+  "url": "https://www.npmjs.com/package/@tomooshi/caveman-milk-pi",
+  "source": "npm-search",
+  "description": "pi extension that injects caveman terseness rules into the system prompt. Cache-safe, opt-in, plays nicely with condensed-milk and pi-vcc.",
+  "metadata": {
+    "github_url": "https://github.com/tomooshi/caveman-milk-pi",
+    "npm_name": "@tomooshi/caveman-milk-pi",
+    "description": "pi extension that injects caveman terseness rules into the system prompt. Cache-safe, opt-in, plays nicely with condensed-milk and pi-vcc.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "caveman",
+      "token-efficiency",
+      "terseness"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-04-16T23:18:54.584Z",
+    "npm_downloads_monthly": 164,
+    "npm_downloads_weekly": 164,
+    "npm_score_final": 19.377949,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

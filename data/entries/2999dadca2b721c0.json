@@ -1,0 +1,29 @@
+{
+  "id": "acennan-pi-agents",
+  "name": "acennan-pi-agents",
+  "url": "https://github.com/acennan/pi-agents",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/acennan/pi-agents",
+    "repo_full_name": "acennan/pi-agents",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-31T19:56:02Z",
+    "pushed_at": "2026-04-09T21:37:05Z",
+    "updated_at": "2026-04-09T21:37:10Z",
+    "size": 649,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

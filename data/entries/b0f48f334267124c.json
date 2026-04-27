@@ -1,0 +1,29 @@
+{
+  "id": "brettatoms-pi-web-tools",
+  "name": "brettatoms-pi-web-tools",
+  "url": "https://github.com/brettatoms/pi-web-tools",
+  "source": "github-search",
+  "description": "WebSearch and WebFetch tools for pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/brettatoms/pi-web-tools",
+    "repo_full_name": "brettatoms/pi-web-tools",
+    "description": "WebSearch and WebFetch tools for pi-coding-agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-25T15:22:54Z",
+    "pushed_at": "2026-02-25T16:14:06Z",
+    "updated_at": "2026-02-25T16:14:39Z",
+    "size": 44,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

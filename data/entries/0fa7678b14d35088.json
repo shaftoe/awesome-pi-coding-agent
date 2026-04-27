@@ -1,0 +1,29 @@
+{
+  "id": "opsCoffee-pi-continuous-learning-v2",
+  "name": "opsCoffee-pi-continuous-learning-v2",
+  "url": "https://github.com/opsCoffee/pi-continuous-learning-v2",
+  "source": "github-search",
+  "description": "Continuous Learning v2 for pi-coding-agent. Learns project-scoped instincts from sessions and   generates reusable skills and prompts from real repository workflows.",
+  "metadata": {
+    "github_url": "https://github.com/opsCoffee/pi-continuous-learning-v2",
+    "repo_full_name": "opsCoffee/pi-continuous-learning-v2",
+    "description": "Continuous Learning v2 for pi-coding-agent. Learns project-scoped instincts from sessions and   generates reusable skills and prompts from real repository workflows.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-02T05:14:15Z",
+    "pushed_at": "2026-04-03T02:21:01Z",
+    "updated_at": "2026-04-24T18:02:03Z",
+    "size": 299,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

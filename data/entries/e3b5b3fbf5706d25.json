@@ -1,0 +1,36 @@
+{
+  "id": "@mobrienv/pi-otlp",
+  "name": "@mobrienv/pi-otlp",
+  "url": "https://www.npmjs.com/package/@mobrienv/pi-otlp",
+  "source": "npm-search",
+  "description": "OpenTelemetry metrics and events extension for pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/mikeyobrien/pi-otlp",
+    "npm_name": "@mobrienv/pi-otlp",
+    "description": "OpenTelemetry metrics and events extension for pi-coding-agent",
+    "keywords": [
+      "pi-package",
+      "opentelemetry",
+      "otlp",
+      "metrics",
+      "observability",
+      "telemetry",
+      "claude-code",
+      "ai-agent"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-02-12T22:04:16.055Z",
+    "npm_downloads_monthly": 19,
+    "npm_downloads_weekly": 5,
+    "npm_score_final": 10.575623,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

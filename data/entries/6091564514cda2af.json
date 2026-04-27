@@ -1,0 +1,29 @@
+{
+  "id": "githabideri-pi-matrix-agent",
+  "name": "githabideri-pi-matrix-agent",
+  "url": "https://github.com/githabideri/pi-matrix-agent",
+  "source": "github-search",
+  "description": "Minimalistic pi-agent bolted to matrix endpoint, Schmalspur-Openclaw.",
+  "metadata": {
+    "github_url": "https://github.com/githabideri/pi-matrix-agent",
+    "repo_full_name": "githabideri/pi-matrix-agent",
+    "description": "Minimalistic pi-agent bolted to matrix endpoint, Schmalspur-Openclaw.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-13T07:47:10Z",
+    "pushed_at": "2026-04-20T22:17:40Z",
+    "updated_at": "2026-04-20T22:17:43Z",
+    "size": 1022,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

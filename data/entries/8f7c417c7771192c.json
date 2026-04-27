@@ -1,0 +1,44 @@
+{
+  "id": "codewithkenzo-pi-dispatch",
+  "name": "codewithkenzo-pi-dispatch",
+  "url": "https://github.com/codewithkenzo/pi-dispatch",
+  "source": "github-search",
+  "description": "Profile-based task dispatch and queued execution for the Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/codewithkenzo/pi-dispatch",
+    "repo_full_name": "codewithkenzo/pi-dispatch",
+    "description": "Profile-based task dispatch and queued execution for the Pi coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "background-tasks",
+      "bun",
+      "coding-agent",
+      "effect-ts",
+      "job-queue",
+      "pi",
+      "pi-agent",
+      "pi-agent-core",
+      "pi-coding-agent",
+      "pi-plugins",
+      "subagents",
+      "task-queue",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-16T21:08:41Z",
+    "pushed_at": "2026-04-19T15:33:09Z",
+    "updated_at": "2026-04-19T15:33:14Z",
+    "size": 4934,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

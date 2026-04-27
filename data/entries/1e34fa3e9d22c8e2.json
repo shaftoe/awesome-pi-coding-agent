@@ -1,0 +1,29 @@
+{
+  "id": "Rmnlly-pi-config",
+  "name": "Rmnlly-pi-config",
+  "url": "https://github.com/Rmnlly/pi-config",
+  "source": "github-search",
+  "description": "Personal pi coding agent config — extensions, skills, and review agents",
+  "metadata": {
+    "github_url": "https://github.com/Rmnlly/pi-config",
+    "repo_full_name": "Rmnlly/pi-config",
+    "description": "Personal pi coding agent config — extensions, skills, and review agents",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-18T20:03:35Z",
+    "pushed_at": "2026-03-18T20:48:30Z",
+    "updated_at": "2026-03-18T20:48:33Z",
+    "size": 48,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

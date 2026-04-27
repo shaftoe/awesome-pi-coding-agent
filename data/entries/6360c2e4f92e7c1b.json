@@ -1,0 +1,32 @@
+{
+  "id": "token-rate-pi",
+  "name": "token-rate-pi",
+  "url": "https://www.npmjs.com/package/token-rate-pi",
+  "source": "npm-search",
+  "description": "Token rate status extension for pi-coding-agent - shows average output tokens per second",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "token-rate-pi",
+    "description": "Token rate status extension for pi-coding-agent - shows average output tokens per second",
+    "keywords": [
+      "token-rate",
+      "pi-coding-agent",
+      "extension",
+      "pi-package"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-02-05T06:09:56.917Z",
+    "npm_downloads_monthly": 90,
+    "npm_downloads_weekly": 29,
+    "npm_score_final": 16.820995,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "@sinamtz/pi-minimax-provider",
+  "name": "@sinamtz/pi-minimax-provider",
+  "url": "https://www.npmjs.com/package/@sinamtz/pi-minimax-provider",
+  "source": "npm-search",
+  "description": "Pi coding agent provider for MiniMax AI - supports MiniMax M2 series models with Anthropic API compatibility",
+  "metadata": {
+    "github_url": "https://github.com/sinamtz/pi-minimax-provider",
+    "npm_name": "@sinamtz/pi-minimax-provider",
+    "description": "Pi coding agent provider for MiniMax AI - supports MiniMax M2 series models with Anthropic API compatibility",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "minimax",
+      "minimax-ai",
+      "minimax-provider",
+      "minimaxio",
+      "provider",
+      "authentication",
+      "token"
+    ],
+    "version": "1.0.14",
+    "published_at": "2026-04-16T05:37:44.211Z",
+    "npm_downloads_monthly": 1727,
+    "npm_downloads_weekly": 232,
+    "npm_score_final": 29.640423,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "misc"
+}

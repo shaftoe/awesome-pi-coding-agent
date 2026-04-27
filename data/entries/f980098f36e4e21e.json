@@ -1,0 +1,31 @@
+{
+  "id": "@aliou/pi-neuralwatt",
+  "name": "@aliou/pi-neuralwatt",
+  "url": "https://www.npmjs.com/package/@aliou/pi-neuralwatt",
+  "source": "npm-search",
+  "description": "![banner](https://assets.aliou.me/pi-extensions/banners/pi-neuralwatt.png)",
+  "metadata": {
+    "github_url": "https://github.com/aliou/pi-neuralwatt",
+    "npm_name": "@aliou/pi-neuralwatt",
+    "description": "![banner](https://assets.aliou.me/pi-extensions/banners/pi-neuralwatt.png)",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-04-25T08:28:45.990Z",
+    "npm_downloads_monthly": 363,
+    "npm_downloads_weekly": 363,
+    "npm_score_final": 23.41805,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

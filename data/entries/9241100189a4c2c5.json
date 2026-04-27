@@ -1,0 +1,33 @@
+{
+  "id": "markokocic-pi-minimax-tools",
+  "name": "markokocic-pi-minimax-tools",
+  "url": "https://github.com/markokocic/pi-minimax-tools",
+  "source": "github-search",
+  "description": "pi-mone extension to enable web_search and understand_image tools from Minimax Coding Plan MCP",
+  "metadata": {
+    "github_url": "https://github.com/markokocic/pi-minimax-tools",
+    "repo_full_name": "markokocic/pi-minimax-tools",
+    "description": "pi-mone extension to enable web_search and understand_image tools from Minimax Coding Plan MCP",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-coding-agent",
+      "pi-exten",
+      "pi-pack"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-25T15:22:03Z",
+    "pushed_at": "2026-03-27T16:51:30Z",
+    "updated_at": "2026-04-23T07:53:42Z",
+    "size": 20,
+    "license": "EPL-2.0",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

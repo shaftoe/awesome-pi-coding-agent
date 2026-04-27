@@ -1,0 +1,29 @@
+{
+  "id": "jimiryquai-pi-agent",
+  "name": "jimiryquai-pi-agent",
+  "url": "https://github.com/jimiryquai/pi-agent",
+  "source": "github-search",
+  "description": "Pi agent configuration - skills, agents, extensions, and scripts",
+  "metadata": {
+    "github_url": "https://github.com/jimiryquai/pi-agent",
+    "repo_full_name": "jimiryquai/pi-agent",
+    "description": "Pi agent configuration - skills, agents, extensions, and scripts",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-28T10:24:10Z",
+    "pushed_at": "2026-03-28T10:24:12Z",
+    "updated_at": "2026-03-28T10:24:16Z",
+    "size": 1763,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

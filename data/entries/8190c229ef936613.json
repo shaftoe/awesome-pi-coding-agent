@@ -1,0 +1,29 @@
+{
+  "id": "namanxajmera-nucleus",
+  "name": "namanxajmera-nucleus",
+  "url": "https://github.com/namanxajmera/nucleus",
+  "source": "github-search",
+  "description": "Personal AI agent on Telegram — pi-coding-agent + multi-agent dispatch + encrypted credential vault.",
+  "metadata": {
+    "github_url": "https://github.com/namanxajmera/nucleus",
+    "repo_full_name": "namanxajmera/nucleus",
+    "description": "Personal AI agent on Telegram — pi-coding-agent + multi-agent dispatch + encrypted credential vault.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": true,
+    "created_at": "2026-01-31T14:58:58Z",
+    "pushed_at": "2026-04-26T03:22:15Z",
+    "updated_at": "2026-04-26T03:28:53Z",
+    "size": 610,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 0,
+    "level": "dead"
+  },
+  "category": "misc"
+}

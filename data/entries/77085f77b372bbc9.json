@@ -1,0 +1,29 @@
+{
+  "id": "semaphoric775-pi-vcd-view",
+  "name": "semaphoric775-pi-vcd-view",
+  "url": "https://github.com/semaphoric775/pi-vcd-view",
+  "source": "github-search",
+  "description": "An ASCII-based waveform viewer package for the Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/semaphoric775/pi-vcd-view",
+    "repo_full_name": "semaphoric775/pi-vcd-view",
+    "description": "An ASCII-based waveform viewer package for the Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-23T23:23:16Z",
+    "pushed_at": "2026-04-23T23:25:25Z",
+    "updated_at": "2026-04-23T23:25:29Z",
+    "size": 327,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

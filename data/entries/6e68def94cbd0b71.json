@@ -1,0 +1,37 @@
+{
+  "id": "pi-docparser",
+  "name": "pi-docparser",
+  "url": "https://www.npmjs.com/package/pi-docparser",
+  "source": "npm-search",
+  "description": "Pi package that adds a document_parse tool and companion skill for parsing PDFs, Office documents, spreadsheets, and images with LiteParse.",
+  "metadata": {
+    "github_url": "https://github.com/maxedapps/pi-docparser",
+    "npm_name": "pi-docparser",
+    "description": "Pi package that adds a document_parse tool and companion skill for parsing PDFs, Office documents, spreadsheets, and images with LiteParse.",
+    "keywords": [
+      "document-parse",
+      "documents",
+      "extension",
+      "liteparse",
+      "ocr",
+      "pdf",
+      "pi",
+      "pi-package",
+      "skill"
+    ],
+    "version": "1.1.1",
+    "published_at": "2026-03-21T05:45:35.713Z",
+    "npm_downloads_monthly": 5393,
+    "npm_downloads_weekly": 1003,
+    "npm_score_final": 35.093483,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 84,
+    "level": "active"
+  },
+  "category": "extension"
+}

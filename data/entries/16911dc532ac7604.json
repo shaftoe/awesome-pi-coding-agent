@@ -1,0 +1,38 @@
+{
+  "id": "CodeDoes-pi-featherless",
+  "name": "CodeDoes-pi-featherless",
+  "url": "https://github.com/CodeDoes/pi-featherless",
+  "source": "github-search",
+  "description": "pi-package: Featherless AI provider for pi coding agent with accurate tokenization",
+  "metadata": {
+    "github_url": "https://github.com/CodeDoes/pi-featherless",
+    "repo_full_name": "CodeDoes/pi-featherless",
+    "description": "pi-package: Featherless AI provider for pi coding agent with accurate tokenization",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai",
+      "coding-agent",
+      "extension",
+      "featherless",
+      "llm",
+      "pi",
+      "pi-package",
+      "provider"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-03T18:52:24Z",
+    "pushed_at": "2026-04-09T12:41:11Z",
+    "updated_at": "2026-04-19T11:17:33Z",
+    "size": 1128,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

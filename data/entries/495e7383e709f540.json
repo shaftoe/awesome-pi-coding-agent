@@ -1,0 +1,34 @@
+{
+  "id": "lukaspanni-pi-package-template",
+  "name": "lukaspanni-pi-package-template",
+  "url": "https://github.com/lukaspanni/pi-package-template",
+  "source": "github-search",
+  "description": "Template for pi packages with extensions, skills, prompts, themes, TypeScript, and npm publishing",
+  "metadata": {
+    "github_url": "https://github.com/lukaspanni/pi-package-template",
+    "repo_full_name": "lukaspanni/pi-package-template",
+    "description": "Template for pi packages with extensions, skills, prompts, themes, TypeScript, and npm publishing",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-package",
+      "template",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-25T08:53:01Z",
+    "pushed_at": "2026-04-25T09:07:55Z",
+    "updated_at": "2026-04-25T09:07:58Z",
+    "size": 36,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

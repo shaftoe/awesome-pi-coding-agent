@@ -1,0 +1,42 @@
+{
+  "id": "opencandle",
+  "name": "opencandle",
+  "url": "https://www.npmjs.com/package/opencandle",
+  "source": "npm-search",
+  "description": "Financial trading & investing agent",
+  "metadata": {
+    "github_url": "https://github.com/Kahtaf/OpenCandle",
+    "npm_name": "opencandle",
+    "description": "Financial trading & investing agent",
+    "keywords": [
+      "opencandle",
+      "finance",
+      "stock",
+      "investing",
+      "trading",
+      "options",
+      "market-data",
+      "portfolio",
+      "ai-agent",
+      "terminal",
+      "financial-analysis",
+      "sentiment",
+      "technical-analysis",
+      "pi-package"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-04-20T16:40:18.290Z",
+    "npm_downloads_monthly": 360,
+    "npm_downloads_weekly": 13,
+    "npm_score_final": 23.29441,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

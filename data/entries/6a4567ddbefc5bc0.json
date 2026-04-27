@@ -1,0 +1,29 @@
+{
+  "id": "@artale/pi-dash",
+  "name": "@artale/pi-dash",
+  "url": "https://www.npmjs.com/package/@artale/pi-dash",
+  "source": "npm-search",
+  "description": "Live TUI dashboard widget for Pi. Shows tokens, cost, context %, uptime, and tool stats above the editor in real-time.",
+  "metadata": {
+    "github_url": "https://github.com/arosstale/pi-dash",
+    "npm_name": "@artale/pi-dash",
+    "description": "Live TUI dashboard widget for Pi. Shows tokens, cost, context %, uptime, and tool stats above the editor in real-time.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-03-14T15:51:50.091Z",
+    "npm_downloads_monthly": 45,
+    "npm_downloads_weekly": 9,
+    "npm_score_final": 13.795688,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

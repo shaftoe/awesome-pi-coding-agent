@@ -1,0 +1,29 @@
+{
+  "id": "MaksimZinovev-pi-agent-config",
+  "name": "MaksimZinovev-pi-agent-config",
+  "url": "https://github.com/MaksimZinovev/pi-agent-config",
+  "source": "github-search",
+  "description": "Personal Pi agent configuration, skills, extensions, and settings",
+  "metadata": {
+    "github_url": "https://github.com/MaksimZinovev/pi-agent-config",
+    "repo_full_name": "MaksimZinovev/pi-agent-config",
+    "description": "Personal Pi agent configuration, skills, extensions, and settings",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-24T13:13:34Z",
+    "pushed_at": "2026-04-24T13:17:21Z",
+    "updated_at": "2026-04-24T13:22:05Z",
+    "size": 1799,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

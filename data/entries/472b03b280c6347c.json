@@ -1,0 +1,29 @@
+{
+  "id": "kungfuchicken-pi-agent-container",
+  "name": "kungfuchicken-pi-agent-container",
+  "url": "https://github.com/kungfuchicken/pi-agent-container",
+  "source": "github-search",
+  "description": "PAC: Pi Agent Container — containerized pi-coding-agent with version-pinned builds, weekly auto-updates, and rollback. Waka-waka.",
+  "metadata": {
+    "github_url": "https://github.com/kungfuchicken/pi-agent-container",
+    "repo_full_name": "kungfuchicken/pi-agent-container",
+    "description": "PAC: Pi Agent Container — containerized pi-coding-agent with version-pinned builds, weekly auto-updates, and rollback. Waka-waka.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-25T16:53:46Z",
+    "pushed_at": "2026-04-25T23:07:17Z",
+    "updated_at": "2026-04-25T23:07:22Z",
+    "size": 2145,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

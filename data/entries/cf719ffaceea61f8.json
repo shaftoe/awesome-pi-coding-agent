@@ -1,0 +1,33 @@
+{
+  "id": "markokocic-pi-ask-mode",
+  "name": "markokocic-pi-ask-mode",
+  "url": "https://github.com/markokocic/pi-ask-mode",
+  "source": "github-search",
+  "description": "Ask mode extension for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/markokocic/pi-ask-mode",
+    "repo_full_name": "markokocic/pi-ask-mode",
+    "description": "Ask mode extension for pi coding agent",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-16T09:22:48Z",
+    "pushed_at": "2026-04-23T11:51:05Z",
+    "updated_at": "2026-04-23T11:50:47Z",
+    "size": 22,
+    "license": "EPL-2.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

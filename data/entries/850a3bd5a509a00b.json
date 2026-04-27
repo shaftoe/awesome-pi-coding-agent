@@ -1,0 +1,33 @@
+{
+  "id": "pi-high-availability",
+  "name": "pi-high-availability",
+  "url": "https://www.npmjs.com/package/pi-high-availability",
+  "source": "npm-search",
+  "description": "High Availability extension for pi - automatic failover when quota or capacity is exhausted",
+  "metadata": {
+    "github_url": "https://github.com/burggraf/pi-high-availability",
+    "npm_name": "pi-high-availability",
+    "description": "High Availability extension for pi - automatic failover when quota or capacity is exhausted",
+    "keywords": [
+      "pi-package",
+      "high-availability",
+      "failover",
+      "quota",
+      "capacity"
+    ],
+    "version": "2.3.0",
+    "published_at": "2026-03-19T19:55:10.662Z",
+    "npm_downloads_monthly": 54,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 14.639918,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

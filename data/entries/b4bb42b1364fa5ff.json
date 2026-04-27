@@ -1,0 +1,38 @@
+{
+  "id": "pi-sec",
+  "name": "pi-sec",
+  "url": "https://www.npmjs.com/package/pi-sec",
+  "source": "npm-search",
+  "description": "A one-stop shop for Pi Agent security mitigations — prompt injection, malicious commands and packages, credential leaks, and more",
+  "metadata": {
+    "github_url": "https://github.com/iosifache/pi-sec",
+    "npm_name": "pi-sec",
+    "description": "A one-stop shop for Pi Agent security mitigations — prompt injection, malicious commands and packages, credential leaks, and more",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "prompt-injection",
+      "malicious-command",
+      "malicious-package",
+      "leaked-credentials",
+      "logging",
+      "sandbox",
+      "auth"
+    ],
+    "version": "0.0.1",
+    "published_at": "2026-04-19T10:31:26.108Z",
+    "npm_downloads_monthly": 138,
+    "npm_downloads_weekly": 138,
+    "npm_score_final": 19.037462,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "misc"
+}

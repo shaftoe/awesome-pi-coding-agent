@@ -1,0 +1,34 @@
+{
+  "id": "pi-prompt-template-model",
+  "name": "pi-prompt-template-model",
+  "url": "https://www.npmjs.com/package/pi-prompt-template-model",
+  "source": "npm-search",
+  "description": "Prompt template model selector extension for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/nicobailon/pi-prompt-template-model",
+    "npm_name": "pi-prompt-template-model",
+    "description": "Prompt template model selector extension for pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "prompt-template",
+      "model-selector",
+      "extension"
+    ],
+    "version": "0.9.1",
+    "published_at": "2026-04-26T02:42:30.098Z",
+    "npm_downloads_monthly": 3668,
+    "npm_downloads_weekly": 1574,
+    "npm_score_final": 32.720737,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "extension"
+}

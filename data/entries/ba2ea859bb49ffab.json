@@ -1,0 +1,29 @@
+{
+  "id": "@artale/pi-rewind",
+  "name": "@artale/pi-rewind",
+  "url": "https://www.npmjs.com/package/@artale/pi-rewind",
+  "source": "npm-search",
+  "description": "Checkpoint and rewind for Pi. Auto-snapshot before edits, /rewind to restore with diff preview.",
+  "metadata": {
+    "github_url": "https://github.com/arosstale/pi-rewind",
+    "npm_name": "@artale/pi-rewind",
+    "description": "Checkpoint and rewind for Pi. Auto-snapshot before edits, /rewind to restore with diff preview.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-03-14T16:31:42.900Z",
+    "npm_downloads_monthly": 59,
+    "npm_downloads_weekly": 16,
+    "npm_score_final": 15.314797,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

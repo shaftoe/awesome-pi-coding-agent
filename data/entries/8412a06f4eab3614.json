@@ -1,0 +1,29 @@
+{
+  "id": "karinMusaka-openspec-plannotator",
+  "name": "karinMusaka-openspec-plannotator",
+  "url": "https://github.com/karinMusaka/openspec-plannotator",
+  "source": "github-search",
+  "description": "Pi extension bridging OpenSpec and Plannotator - visual review for AI coding agent plans",
+  "metadata": {
+    "github_url": "https://github.com/karinMusaka/openspec-plannotator",
+    "repo_full_name": "karinMusaka/openspec-plannotator",
+    "description": "Pi extension bridging OpenSpec and Plannotator - visual review for AI coding agent plans",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-14T04:33:57Z",
+    "pushed_at": "2026-03-14T04:34:31Z",
+    "updated_at": "2026-03-14T04:34:34Z",
+    "size": 4,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

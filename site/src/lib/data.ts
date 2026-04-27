@@ -1,20 +1,35 @@
 /**
- * Thin re-export layer — all data logic lives in src/lib/site-data.ts.
- * The site only handles presentation.
+ * Thin re-export facade for the site.
+ *
+ * Data access → @pipeline/core (Repository-backed, SQLite-ready)
+ * Presentation → local ./categories.ts and ./format.ts
  */
+
+// HTML entity decode from pipeline core
+export { decodeHtmlEntities } from "@pipeline/core/html";
+// Data access from pipeline core
+export { loadAllEntries } from "@pipeline/core/store";
+
+// Types from pipeline core
+export type { CategorizedEntry, Category, Health, HealthLevel } from "@pipeline/core/types";
+
+// Presentation: category metadata + aggregation
 export {
 	CATEGORY_META,
 	CATEGORY_ORDER,
-	type CategorizedEntry,
-	type Category,
 	type CategoryInfo,
-	decodeHtmlEntities,
-	displayName,
-	formatStars,
+	type CategoryMeta,
 	getCategories,
 	getStats,
-	type Health,
-	type HealthLevel,
-	loadAllEntries,
+} from "./categories";
+
+// Presentation: formatting helpers
+export {
+	displayName,
+	formatNumber,
+	formatStars,
+	lastUpdated,
+	popularity,
+	popularityValue,
 	timeAgo,
-} from "@pipeline/lib/site-data.ts";
+} from "./format";

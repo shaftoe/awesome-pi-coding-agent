@@ -33,7 +33,7 @@
 		<div class="dialog-frame sl-flex">
 			<button data-close-modal class="sl-flex md:sl-hidden">Cancel</button>
 			<div class="search-container">
-				<input type="search" placeholder="Search extensions, tools, videos..." />
+				<input type="search" placeholder="Search extensions, themes, videos..." />
 				<div class="results-list"></div>
 			</div>
 		</div>
@@ -56,11 +56,10 @@
 
 <script>
 	const CATEGORY_ICONS: Record<string, string> = {
-		extension: '🔌', skill: '🧠', tool: '🛠️', theme: '🎨',
-		provider: '🔗', template: '📋', video: '🎬', example: '📝', documentation: '📚',
+		extension: '🔌', theme: '🎨', video: '🎬', misc: '📦',
 	};
 
-	type SearchEntry = { n: string; d: string; c: string; u: string; h: string; s: number };
+	type SearchEntry = { n: string; d: string; c: string; u: string; h: string; s: number; p: string };
 	let index: SearchEntry[] | null = null;
 
 	async function loadIndex(): Promise<SearchEntry[]> {
@@ -94,14 +93,14 @@
 		container.innerHTML = results
 			.map((r) => {
 				const icon = CATEGORY_ICONS[r.c] || '📄';
-				const stars = r.s > 0 ? `<span class="result-stars">⭐ ${r.s >= 1000 ? (r.s / 1000).toFixed(1) + 'k' : r.s}</span>` : '';
 				const healthColors: Record<string, string> = {
 					active: 'var(--sl-color-green)',
-					maintained: 'var(--sl-color-orange)',
+					maintained: 'var(--sl-color-yellow, var(--sl-color-orange))',
 					stale: 'var(--sl-color-orange)',
 					dead: 'var(--sl-color-red)',
 				};
 				const dotColor = healthColors[r.h] || 'var(--sl-color-gray-4)';
+				const popHtml = r.p ? `<span class="result-stars">${r.p}</span>` : '';
 				return `<a href="${r.u}" target="_blank" rel="noopener noreferrer" class="result-item">
 					<span class="result-icon">${icon}</span>
 					<div class="result-body">
@@ -109,7 +108,7 @@
 						<div class="result-desc">${highlight(truncate(r.d, 120), query)}</div>
 						<div class="result-meta">
 							<span class="result-category">${r.c}</span>
-							${stars}
+							${popHtml}
 							<span class="result-health"><span class="health-dot" style="background:${dotColor}"></span>${r.h}</span>
 							<span class="result-external">↗</span>
 						</div>

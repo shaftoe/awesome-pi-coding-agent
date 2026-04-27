@@ -1,0 +1,29 @@
+{
+  "id": "zgulde-pi-coding-agent-tool-approval",
+  "name": "zgulde-pi-coding-agent-tool-approval",
+  "url": "https://github.com/zgulde/pi-coding-agent-tool-approval",
+  "source": "github-search",
+  "description": "Adds a simple tool approval workflow to the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/zgulde/pi-coding-agent-tool-approval",
+    "repo_full_name": "zgulde/pi-coding-agent-tool-approval",
+    "description": "Adds a simple tool approval workflow to the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-14T22:46:31Z",
+    "pushed_at": "2026-03-14T22:46:49Z",
+    "updated_at": "2026-03-14T22:46:52Z",
+    "size": 1,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

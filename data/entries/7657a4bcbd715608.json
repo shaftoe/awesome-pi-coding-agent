@@ -1,0 +1,32 @@
+{
+  "id": "mitsupi",
+  "name": "mitsupi",
+  "url": "https://www.npmjs.com/package/mitsupi",
+  "source": "npm-search",
+  "description": "Armin's pi coding agent commands, skills, extensions, and themes",
+  "metadata": {
+    "github_url": "https://github.com/mitsuhiko/agent-stuff",
+    "npm_name": "mitsupi",
+    "description": "Armin's pi coding agent commands, skills, extensions, and themes",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-skill",
+      "pi-theme"
+    ],
+    "version": "1.6.0",
+    "published_at": "2026-04-17T18:42:57.476Z",
+    "npm_downloads_monthly": 859,
+    "npm_downloads_weekly": 450,
+    "npm_score_final": 26.941513,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

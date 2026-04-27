@@ -1,0 +1,21 @@
+{
+  "id": "YT_1875j4KgHIA",
+  "name": "Le plus petit agent IA possible — pi Agent (l'agent derrière OpenClaw)",
+  "url": "https://youtube.com/watch?v=1875j4KgHIA",
+  "source": "youtube-search",
+  "description": "Dans cette vidéo on réagit à la vidéo \"Building PI in a Word of Slop\" : https://www.youtube.com/watch?v=RjfbvDXpFls pi.dev ...",
+  "metadata": {
+    "title": "Le plus petit agent IA possible — pi Agent (l'agent derrière OpenClaw)",
+    "name": "Le plus petit agent IA possible — pi Agent (l'agent derrière OpenClaw)",
+    "description": "Dans cette vidéo on réagit à la vidéo \"Building PI in a Word of Slop\" : https://www.youtube.com/watch?v=RjfbvDXpFls pi.dev ...",
+    "channel": "blef",
+    "published_at": "2026-04-26T07:53:54Z",
+    "thumbnail": "https://i.ytimg.com/vi/1875j4KgHIA/hqdefault.jpg",
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 38,
+    "level": "stale"
+  },
+  "category": "video"
+}

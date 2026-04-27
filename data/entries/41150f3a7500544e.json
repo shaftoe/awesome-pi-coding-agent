@@ -1,0 +1,29 @@
+{
+  "id": "sonpiaz-hidrix-tools",
+  "name": "sonpiaz-hidrix-tools",
+  "url": "https://github.com/sonpiaz/hidrix-tools",
+  "source": "github-search",
+  "description": "Standalone MCP server: web search, social media search, web fetch tools for Claude Code / Pi agent",
+  "metadata": {
+    "github_url": "https://github.com/sonpiaz/hidrix-tools",
+    "repo_full_name": "sonpiaz/hidrix-tools",
+    "description": "Standalone MCP server: web search, social media search, web fetch tools for Claude Code / Pi agent",
+    "stars": 36,
+    "forks": 18,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-03T00:57:12Z",
+    "pushed_at": "2026-04-23T20:41:31Z",
+    "updated_at": "2026-04-23T20:41:35Z",
+    "size": 172,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

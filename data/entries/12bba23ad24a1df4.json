@@ -1,0 +1,29 @@
+{
+  "id": "@burneikis/pi-vim",
+  "name": "@burneikis/pi-vim",
+  "url": "https://www.npmjs.com/package/@burneikis/pi-vim",
+  "source": "npm-search",
+  "description": "Vim motions extension for pi – normal, insert, visual, and replace modes with operators, motions, text objects, registers, search, and repeat",
+  "metadata": {
+    "github_url": "https://github.com/burneikis/pi-vim",
+    "npm_name": "@burneikis/pi-vim",
+    "description": "Vim motions extension for pi – normal, insert, visual, and replace modes with operators, motions, text objects, registers, search, and repeat",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.4.0",
+    "published_at": "2026-03-31T08:08:47.515Z",
+    "npm_downloads_monthly": 713,
+    "npm_downloads_weekly": 30,
+    "npm_score_final": 25.598774,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

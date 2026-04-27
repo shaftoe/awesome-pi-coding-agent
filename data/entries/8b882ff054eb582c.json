@@ -1,0 +1,29 @@
+{
+  "id": "nstfn-pi-rtk-rewrite",
+  "name": "nstfn-pi-rtk-rewrite",
+  "url": "https://github.com/nstfn/pi-rtk-rewrite",
+  "source": "github-search",
+  "description": "Port of rtk rewrite claude hook for pi coding agent as an extension.",
+  "metadata": {
+    "github_url": "https://github.com/nstfn/pi-rtk-rewrite",
+    "repo_full_name": "nstfn/pi-rtk-rewrite",
+    "description": "Port of rtk rewrite claude hook for pi coding agent as an extension.",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-26T00:25:36Z",
+    "pushed_at": "2026-02-27T22:01:10Z",
+    "updated_at": "2026-02-27T22:01:14Z",
+    "size": 38,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

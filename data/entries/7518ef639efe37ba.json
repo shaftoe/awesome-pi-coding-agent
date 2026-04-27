@@ -1,0 +1,32 @@
+{
+  "id": "pi-cli-dynamic-tools",
+  "name": "pi-cli-dynamic-tools",
+  "url": "https://www.npmjs.com/package/pi-cli-dynamic-tools",
+  "source": "npm-search",
+  "description": "Pi extension that manages a local toolbox of auto-generated CLI tools",
+  "metadata": {
+    "github_url": "https://github.com/clasen/pi-cli-dynamic-tools",
+    "npm_name": "pi-cli-dynamic-tools",
+    "description": "Pi extension that manages a local toolbox of auto-generated CLI tools",
+    "keywords": [
+      "pi-extension",
+      "pi-package",
+      "toolbox",
+      "cli-tools"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-04-16T14:12:12.198Z",
+    "npm_downloads_monthly": 120,
+    "npm_downloads_weekly": 120,
+    "npm_score_final": 17.899456,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

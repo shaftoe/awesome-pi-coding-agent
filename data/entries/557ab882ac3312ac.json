@@ -1,0 +1,29 @@
+{
+  "id": "skidvis-pi-coding-agent-config",
+  "name": "skidvis-pi-coding-agent-config",
+  "url": "https://github.com/skidvis/pi-coding-agent-config",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/skidvis/pi-coding-agent-config",
+    "repo_full_name": "skidvis/pi-coding-agent-config",
+    "description": "",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-19T18:53:22Z",
+    "pushed_at": "2026-04-26T05:48:28Z",
+    "updated_at": "2026-04-26T05:48:32Z",
+    "size": 168,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

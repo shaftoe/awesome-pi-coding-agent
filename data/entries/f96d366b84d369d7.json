@@ -1,0 +1,21 @@
+{
+  "id": "YT_AKG6gwVoBOs",
+  "name": "BUD FILMS Magnum PI Theme",
+  "url": "https://youtube.com/watch?v=AKG6gwVoBOs",
+  "source": "youtube-search",
+  "description": "A recreation of the Magnum PI Theme.",
+  "metadata": {
+    "title": "BUD FILMS Magnum PI Theme",
+    "name": "BUD FILMS Magnum PI Theme",
+    "description": "A recreation of the Magnum PI Theme.",
+    "channel": "BUD FILMS",
+    "published_at": "2016-05-06T15:56:41Z",
+    "thumbnail": "https://i.ytimg.com/vi/AKG6gwVoBOs/hqdefault.jpg",
+    "discovery_hint": "youtube:pi-theme"
+  },
+  "health": {
+    "score": 4,
+    "level": "dead"
+  },
+  "category": "video"
+}

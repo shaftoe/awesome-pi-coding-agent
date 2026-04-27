@@ -1,0 +1,29 @@
+{
+  "id": "EdibleTuber-Mother",
+  "name": "EdibleTuber-Mother",
+  "url": "https://github.com/EdibleTuber/Mother",
+  "source": "github-search",
+  "description": "Mother AI Asisstant development repo, forked from pi-mono which is an AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+  "metadata": {
+    "github_url": "https://github.com/EdibleTuber/Mother",
+    "repo_full_name": "EdibleTuber/Mother",
+    "description": "Mother AI Asisstant development repo, forked from pi-mono which is an AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-09T20:53:59Z",
+    "pushed_at": "2026-04-04T21:11:49Z",
+    "updated_at": "2026-04-04T21:11:52Z",
+    "size": 4819,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

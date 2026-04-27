@@ -1,0 +1,35 @@
+{
+  "id": "pi-rtk",
+  "name": "pi-rtk",
+  "url": "https://www.npmjs.com/package/pi-rtk",
+  "source": "npm-search",
+  "description": "RTK token reduction extension for pi-coding-agent - reduces LLM token consumption 60-90% by intelligently filtering tool output",
+  "metadata": {
+    "github_url": "https://github.com/mcowger/pi-rtk",
+    "npm_name": "pi-rtk",
+    "description": "RTK token reduction extension for pi-coding-agent - reduces LLM token consumption 60-90% by intelligently filtering tool output",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "extension",
+      "token-reduction",
+      "rtk",
+      "ai"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-02-28T01:54:59.095Z",
+    "npm_downloads_monthly": 170,
+    "npm_downloads_weekly": 35,
+    "npm_score_final": 19.786957,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 75,
+    "level": "active"
+  },
+  "category": "extension"
+}

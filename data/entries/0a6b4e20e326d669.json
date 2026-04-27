@@ -1,0 +1,29 @@
+{
+  "id": "DxVapor-pi-splunk-cloud-logs",
+  "name": "DxVapor-pi-splunk-cloud-logs",
+  "url": "https://github.com/DxVapor/pi-splunk-cloud-logs",
+  "source": "github-search",
+  "description": "Pi coding agent extension for querying Splunk Cloud logs — OAuth2 + bearer token auth",
+  "metadata": {
+    "github_url": "https://github.com/DxVapor/pi-splunk-cloud-logs",
+    "repo_full_name": "DxVapor/pi-splunk-cloud-logs",
+    "description": "Pi coding agent extension for querying Splunk Cloud logs — OAuth2 + bearer token auth",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-22T05:25:26Z",
+    "pushed_at": "2026-04-22T05:25:29Z",
+    "updated_at": "2026-04-22T05:25:33Z",
+    "size": 44,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

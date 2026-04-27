@@ -1,0 +1,36 @@
+{
+  "id": "ppowo-pi-config",
+  "name": "ppowo-pi-config",
+  "url": "https://github.com/ppowo/pi-config",
+  "source": "github-search",
+  "description": "Personal pi agent configuration — prompts, extensions, skills, themes, and settings managed in version control with  symlink-based bootstrap.",
+  "metadata": {
+    "github_url": "https://github.com/ppowo/pi-config",
+    "repo_full_name": "ppowo/pi-config",
+    "description": "Personal pi agent configuration — prompts, extensions, skills, themes, and settings managed in version control with  symlink-based bootstrap.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-coding-agent",
+      "configuration",
+      "developer-tools",
+      "dotfiles",
+      "nushell",
+      "pi-mono"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-13T20:40:18Z",
+    "pushed_at": "2026-04-26T22:41:01Z",
+    "updated_at": "2026-04-26T22:41:04Z",
+    "size": 266,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

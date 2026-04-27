@@ -1,0 +1,31 @@
+{
+  "id": "pi-depo",
+  "name": "pi-depo",
+  "url": "https://www.npmjs.com/package/pi-depo",
+  "source": "npm-search",
+  "description": "Declarative package manager for Pi Coding Agent - skills, extensions, hooks, MCP servers",
+  "metadata": {
+    "github_url": "https://github.com/fulgidus/pi-depo",
+    "npm_name": "pi-depo",
+    "description": "Declarative package manager for Pi Coding Agent - skills, extensions, hooks, MCP servers",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "package-manager"
+    ],
+    "version": "0.1.42",
+    "published_at": "2026-04-24T03:21:54.783Z",
+    "npm_downloads_monthly": 2143,
+    "npm_downloads_weekly": 2143,
+    "npm_score_final": 31.267214,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "extension"
+}

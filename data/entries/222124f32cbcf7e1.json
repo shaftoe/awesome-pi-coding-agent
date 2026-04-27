@@ -1,0 +1,29 @@
+{
+  "id": "hushhenry-pi-agent-vercel",
+  "name": "hushhenry-pi-agent-vercel",
+  "url": "https://github.com/hushhenry/pi-agent-vercel",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/hushhenry/pi-agent-vercel",
+    "repo_full_name": "hushhenry/pi-agent-vercel",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-13T20:40:59Z",
+    "pushed_at": "2026-02-17T07:12:20Z",
+    "updated_at": "2026-02-17T07:12:25Z",
+    "size": 15096,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 57,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

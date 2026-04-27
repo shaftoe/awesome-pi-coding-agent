@@ -1,0 +1,35 @@
+{
+  "id": "pi-pkg-guard",
+  "name": "pi-pkg-guard",
+  "url": "https://www.npmjs.com/package/pi-pkg-guard",
+  "source": "npm-search",
+  "description": "Guards against unregistered pi packages — installed via npm but not registered in pi's settings",
+  "metadata": {
+    "github_url": "https://github.com/alexleekt/pi-pkg-guard",
+    "npm_name": "pi-pkg-guard",
+    "description": "Guards against unregistered pi packages — installed via npm but not registered in pi's settings",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "package-manager",
+      "guardrails",
+      "npm",
+      "extensions"
+    ],
+    "version": "0.10.0",
+    "published_at": "2026-04-24T05:41:43.564Z",
+    "npm_downloads_monthly": 1084,
+    "npm_downloads_weekly": 732,
+    "npm_score_final": 28.322084,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "misc"
+}

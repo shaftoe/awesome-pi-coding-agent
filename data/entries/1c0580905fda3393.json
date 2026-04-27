@@ -1,0 +1,29 @@
+{
+  "id": "dkmaker-pi-project",
+  "name": "dkmaker-pi-project",
+  "url": "https://github.com/dkmaker/pi-project",
+  "source": "github-search",
+  "description": "Pi Package: AI-Optimized Project Management Framework for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/dkmaker/pi-project",
+    "repo_full_name": "dkmaker/pi-project",
+    "description": "Pi Package: AI-Optimized Project Management Framework for Pi Coding Agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-28T14:34:20Z",
+    "pushed_at": "2026-02-28T20:58:18Z",
+    "updated_at": "2026-03-23T22:34:58Z",
+    "size": 339,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 51,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

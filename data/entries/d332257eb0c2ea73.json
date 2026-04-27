@@ -1,0 +1,29 @@
+{
+  "id": "dyyz1993-pi-agent-template",
+  "name": "dyyz1993-pi-agent-template",
+  "url": "https://github.com/dyyz1993/pi-agent-template",
+  "source": "github-search",
+  "description": "Electrobun desktop agent template with React, Tailwind CSS, RPC, Git, and responsive layout",
+  "metadata": {
+    "github_url": "https://github.com/dyyz1993/pi-agent-template",
+    "repo_full_name": "dyyz1993/pi-agent-template",
+    "description": "Electrobun desktop agent template with React, Tailwind CSS, RPC, Git, and responsive layout",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-23T17:02:53Z",
+    "pushed_at": "2026-04-24T05:53:32Z",
+    "updated_at": "2026-04-24T05:53:36Z",
+    "size": 368,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

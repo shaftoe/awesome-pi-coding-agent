@@ -1,0 +1,33 @@
+{
+  "id": "@sting8k/pi-vcc",
+  "name": "@sting8k/pi-vcc",
+  "url": "https://www.npmjs.com/package/@sting8k/pi-vcc",
+  "source": "npm-search",
+  "description": "Algorithmic conversation compactor for pi - transcript-preserving structured summaries, no LLM calls",
+  "metadata": {
+    "github_url": "https://github.com/sting8k/pi-vcc",
+    "npm_name": "@sting8k/pi-vcc",
+    "description": "Algorithmic conversation compactor for pi - transcript-preserving structured summaries, no LLM calls",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "vcc",
+      "compact",
+      "compaction"
+    ],
+    "version": "0.3.12",
+    "published_at": "2026-04-25T06:29:34.944Z",
+    "npm_downloads_monthly": 2638,
+    "npm_downloads_weekly": 980,
+    "npm_score_final": 31.918694,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "misc"
+}

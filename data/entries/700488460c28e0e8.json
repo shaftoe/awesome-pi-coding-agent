@@ -1,0 +1,21 @@
+{
+  "id": "YT_O6rmrR2x3tw",
+  "name": "Dj Xyr - Magnum Pi theme",
+  "url": "https://youtube.com/watch?v=O6rmrR2x3tw",
+  "source": "youtube-search",
+  "description": "magnum pi theme by mike post.",
+  "metadata": {
+    "title": "Dj Xyr - Magnum Pi theme",
+    "name": "Dj Xyr - Magnum Pi theme",
+    "description": "magnum pi theme by mike post.",
+    "channel": "xyrius",
+    "published_at": "2011-12-04T12:52:04Z",
+    "thumbnail": "https://i.ytimg.com/vi/O6rmrR2x3tw/hqdefault.jpg",
+    "discovery_hint": "youtube:pi-theme"
+  },
+  "health": {
+    "score": 4,
+    "level": "dead"
+  },
+  "category": "video"
+}

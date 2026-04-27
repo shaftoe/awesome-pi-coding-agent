@@ -1,0 +1,29 @@
+{
+  "id": "c-drew-pi-venice-stats",
+  "name": "c-drew-pi-venice-stats",
+  "url": "https://github.com/c-drew/pi-venice-stats",
+  "source": "github-search",
+  "description": "Live Venice Protocol stats dashboard for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/c-drew/pi-venice-stats",
+    "repo_full_name": "c-drew/pi-venice-stats",
+    "description": "Live Venice Protocol stats dashboard for Pi Coding Agent",
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-12T01:48:05Z",
+    "pushed_at": "2026-04-16T17:47:19Z",
+    "updated_at": "2026-04-16T17:47:22Z",
+    "size": 482,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

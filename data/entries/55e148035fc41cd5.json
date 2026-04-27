@@ -1,0 +1,29 @@
+{
+  "id": "make-it-simple-rayshar-pi-coding-agent",
+  "name": "make-it-simple-rayshar-pi-coding-agent",
+  "url": "https://github.com/make-it-simple-rayshar/pi-coding-agent",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/make-it-simple-rayshar/pi-coding-agent",
+    "repo_full_name": "make-it-simple-rayshar/pi-coding-agent",
+    "description": "",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-17T13:18:24Z",
+    "pushed_at": "2026-03-17T13:18:28Z",
+    "updated_at": "2026-03-17T13:18:31Z",
+    "size": 56,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 43,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "@artale/pi-i18n",
+  "name": "@artale/pi-i18n",
+  "url": "https://www.npmjs.com/package/@artale/pi-i18n",
+  "source": "npm-search",
+  "description": "i18n/localization toolkit. Scan translations, find missing keys, validate formats, extract strings. Supports JSON, YAML, .po, .xliff, Android XML, iOS .strings.",
+  "metadata": {
+    "github_url": "https://github.com/arosstale/pi-i18n",
+    "npm_name": "@artale/pi-i18n",
+    "description": "i18n/localization toolkit. Scan translations, find missing keys, validate formats, extract strings. Supports JSON, YAML, .po, .xliff, Android XML, iOS .strings.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "i18n",
+      "localization",
+      "translation",
+      "internationalization"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-03-08T15:31:15.557Z",
+    "npm_downloads_monthly": 23,
+    "npm_downloads_weekly": 4,
+    "npm_score_final": 10.997459,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 69,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

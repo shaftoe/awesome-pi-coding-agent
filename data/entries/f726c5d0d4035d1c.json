@@ -1,0 +1,29 @@
+{
+  "id": "safe-coder",
+  "name": "safe-coder",
+  "url": "https://www.npmjs.com/package/safe-coder",
+  "source": "npm-search",
+  "description": "Safe Coder is a configuration package for the [`pi` coding agent](https://www.npmjs.com/package/@mariozechner/pi-coding-agent) that adds **safety guardrails** and **project-specific** extensions to reduce risky operations while you code with an AI assista",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "safe-coder",
+    "description": "Safe Coder is a configuration package for the [`pi` coding agent](https://www.npmjs.com/package/@mariozechner/pi-coding-agent) that adds **safety guardrails** and **project-specific** extensions to reduce risky operations while you code with an AI assista",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.3",
+    "published_at": "2026-04-01T10:48:44.747Z",
+    "npm_downloads_monthly": 303,
+    "npm_downloads_weekly": 22,
+    "npm_score_final": 21.968065,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

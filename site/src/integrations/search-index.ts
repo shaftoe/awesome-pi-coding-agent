@@ -4,27 +4,14 @@ import type { AstroIntegration } from "astro";
 
 /**
  * Astro integration that generates the search index JSON at build time.
- * Reads the pipeline's data/ directory and writes public/search-index.json.
+ * Reads the pipeline's flat data/entries/ directory and writes public/search-index.json.
  *
  * Note: Integration hooks run after Vite's module runner is closed at build time,
  * so we can't use the @pipeline alias or dynamic imports here. The displayName
- * helper is inlined — the canonical version lives in src/lib/site-data.ts.
+ * helper is inlined — the canonical version lives in site/src/lib/format.ts.
  */
 
-// ─── Category list (canonical: src/lib/site-data.ts CATEGORY_ORDER) ────────────
-
-const CATEGORIES = [
-	"extension",
-	"tool",
-	"theme",
-	"provider",
-	"template",
-	"video",
-	"example",
-	"documentation",
-] as const;
-
-// ─── Inline helpers (canonical: src/lib/site-data.ts & src/lib/html.ts) ────────
+// ─── Inline helpers (canonical: site/src/lib/format.ts) ──────────────────────
 
 function decodeHtmlEntities(s: string): string {
 	return s
@@ -53,6 +40,14 @@ function displayName(e: {
 	return e.name || e.id;
 }
 
+function formatNumber(n: number): string {
+	if (n >= 1000) {
+		const v = n / 1000;
+		return v % 1 === 0 ? `${v}k` : `${v.toFixed(1)}k`;
+	}
+	return String(n);
+}
+
 // ─── Integration ───────────────────────────────────────────────────────────────
 
 export function searchIndex(): AstroIntegration {
@@ -60,10 +55,20 @@ export function searchIndex(): AstroIntegration {
 		name: "awesome-pi-search-index",
 		hooks: {
 			"astro:build:start": () => {
-				const dataDir = join(process.cwd(), "..", "data");
+				const dataDir = join(process.cwd(), "..", "data", "entries");
 				const outFile = join(process.cwd(), "public", "search-index.json");
 
-				interface Entry {
+				if (!existsSync(dataDir)) {
+					mkdirSync(join(process.cwd(), "public"), { recursive: true });
+					writeFileSync(outFile, "[]", "utf-8");
+					// biome-ignore lint/suspicious/noConsole: build logging
+					console.warn(
+						`[search-index] No entries directory found at ${dataDir}, wrote empty index`,
+					);
+					return;
+				}
+
+				const entries: Array<{
 					id: string;
 					name: string;
 					url: string;
@@ -71,26 +76,42 @@ export function searchIndex(): AstroIntegration {
 					category: string;
 					health: { score: number; level: string };
 					metadata: Record<string, unknown>;
+				}> = [];
+
+				for (const file of readdirSync(dataDir).filter((f) => f.endsWith(".json"))) {
+					const raw = readFileSync(join(dataDir, file), "utf-8");
+					entries.push(JSON.parse(raw));
 				}
 
-				const entries: Entry[] = [];
-				for (const cat of CATEGORIES) {
-					const dir = join(dataDir, `${cat}s`);
-					if (!existsSync(dir)) continue;
-					for (const file of readdirSync(dir).filter((f) => f.endsWith(".json"))) {
-						const raw = readFileSync(join(dir, file), "utf-8");
-						entries.push({ ...JSON.parse(raw), category: cat });
+				const index = entries.map((e) => {
+					// Source-aware popularity
+					const meta = e.metadata;
+					let pop = 0;
+					let popLabel = "";
+					if (typeof meta["views"] === "number" && (meta["views"] as number) > 0) {
+						pop = meta["views"] as number;
+						popLabel = `📺${formatNumber(pop)}`;
+					} else if (typeof meta["stars"] === "number" && (meta["stars"] as number) > 0) {
+						pop = meta["stars"] as number;
+						popLabel = `⭐${formatNumber(pop)}`;
+					} else if (
+						typeof meta["npm_downloads_monthly"] === "number" &&
+						(meta["npm_downloads_monthly"] as number) > 0
+					) {
+						pop = meta["npm_downloads_monthly"] as number;
+						popLabel = `⬇ ${formatNumber(pop)}/mo`;
 					}
-				}
 
-				const index = entries.map((e) => ({
-					n: displayName(e),
-					d: e.description || "",
-					c: e.category,
-					u: e.url,
-					h: e.health.level,
-					s: (e.metadata.stars as number) ?? 0,
-				}));
+					return {
+						n: displayName(e),
+						d: e.description || "",
+						c: e.category,
+						u: e.url,
+						h: e.health.level,
+						s: pop,
+						p: popLabel,
+					};
+				});
 
 				mkdirSync(join(process.cwd(), "public"), { recursive: true });
 				writeFileSync(outFile, JSON.stringify(index), "utf-8");
