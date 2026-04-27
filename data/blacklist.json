@@ -13204,5 +13204,11 @@
 		"reason": "not related to Pi coding agent — pip-webui is a generic web UI framework",
 		"blacklisted_at": "2026-04-27T01:47:08.977Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/actions-marketplace-validations/shaftoe_pi-coding-agent-action",
+		"reason": "not sure what's this but we don't need duplicates",
+		"blacklisted_at": "2026-04-27T13:28:59.737Z",
+		"source": "manual"
 	}
 ]
