@@ -54,6 +54,8 @@ export enum EntrySource {
 	GitHubSearch = "github-search",
 	NpmSearch = "npm-search",
 	YouTubeSearch = "youtube-search",
+	HackerNewsSearch = "hackernews-search",
+	RSSFeed = "rss-feed",
 	Discord = "discord",
 	Manual = "manual",
 }

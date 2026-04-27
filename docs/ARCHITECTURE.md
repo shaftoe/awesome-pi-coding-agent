@@ -43,7 +43,7 @@ Each stage is a self-contained step that reads from one location and writes to t
 
 | Stage | Input | Output | Responsibilities |
 |-------|-------|--------|------------------|
-| **1. Discover** | APIs (npm, GitHub, YouTube) | `.cache/candidates/` | Gather raw candidates, cache API responses. **No filtering.** |
+| **1. Discover** | APIs (npm, GitHub, YouTube, HN, RSS) | `.cache/candidates/` | Gather raw candidates, cache API responses. **No filtering.** |
 | **2. Filter** | `.cache/candidates/` | `.cache/filtered/` | Relevance filtering, blacklist management. Irrelevant entries are added to blacklist. |
 | **3. Process** | `.cache/filtered/` | `data/` | npm-over-GitHub dedup, classification, health scoring, enrichment. Writes canonical entries. |
 | **4. Generate** | `data/` | `README.md` | Render awesome-list from canonical entries. |
@@ -91,6 +91,8 @@ src/
     npm.ts                            npm registry (keyword queries, full pagination)
     github.ts                         GitHub search (repos)
     youtube.ts                        YouTube Data API (token-based pagination)
+    hackernews.ts                     Hacker News via Algolia API (page-based pagination)
+    rss.ts                            RSS/Atom feed parser (fast-xml-parser)
     index.ts                          Source registry: createAllSources, getHealthScorer, routeQueries
     index.test.ts
     scoring.ts                        Shared scoring helpers (scoreFreshness, scoreMetric01, etc.)
@@ -177,7 +179,7 @@ All domain vocabularies use TypeScript string enums for compile-time safety and 
 | Enum | Values |
 |------|-------|
 | `Category` | `Extension`, `Theme`, `Video`, `Misc` |
-| `EntrySource` | `GitHubSearch`, `NpmSearch`, `YouTubeSearch`, `Discord`, `Manual` |
+| `EntrySource` | `GitHubSearch`, `NpmSearch`, `YouTubeSearch`, `HackerNewsSearch`, `RSSFeed`, `Discord`, `Manual` |
 | `HealthLevel` | `Active`, `Maintained`, `Stale`, `Dead` |
 
 `CATEGORIES` is a `Category[]` in priority order (`Extension > Theme > Video > Misc`), iterable at runtime.
@@ -356,6 +358,57 @@ ID: `YT_<videoId>`.
 
 **Enrichment cost:** ~16 requests for 800 videos = 16 quota units (negligible vs 10 000 daily limit).
 
+#### Hacker News (`sources/hackernews.ts`) ✅
+
+Hacker News story search via the [Algolia HN API](https://hn.algolia.com/api). Public, no API key required. Community upvotes serve as a pre-filter for quality.
+
+Uses numbered-page pagination (0-indexed in Algolia, adapted for our 1-indexed `paginate()` helper).
+
+**Default queries:** canonical SEARCH_TERMS with hyphens converted to spaces, plus `"pi.dev"`.
+
+ID: `HN_<objectId>`.
+
+**Metadata fields captured:**
+
+| Field | Type | Source | Health relevance |
+|-------|------|--------|-----------------|
+| `title` / `name` | `string` | `hit.title` | Identifier, classification |
+| `description` | `string` | `hit.story_text ?? hit.title` | Classification |
+| `author` | `string` | `hit.author` | Authority signal |
+| `published_at` | `string` | `hit.created_at` | Freshness |
+| `points` | `number` | `hit.points` | Popularity (HN upvotes) |
+| `num_comments` | `number` | `hit.num_comments` | Engagement |
+| `hn_id` | `string` | `hit.objectID` | Identifier |
+| `hn_url` | `string` | derived | Comments page link |
+
+For stories with external URLs, the external URL is used as the canonical key (enabling cross-source dedup with GitHub/npm). For text posts (Ask HN), the HN comments URL is used.
+
+#### RSS (`sources/rss.ts`) ✅
+
+RSS 2.0 and Atom feed parser. Fetches configured feeds, parses XML with `fast-xml-parser`, and extracts article entries as candidates.
+
+No API key required — RSS feeds are public.
+
+**Default feeds:**
+- `dev.to/feed/tag/pi-coding-agent` — dev.to articles tagged "pi-coding-agent"
+- `dev.to/feed/tag/pi-agent` — dev.to articles tagged "pi-agent"
+- `reddit.com/search.rss?q=pi+coding+agent` — Reddit search results as RSS
+
+**CLI override:** `--query "rss:https://example.com/feed.xml"` adds custom feeds.
+
+ID: derived from article URL (domain-based slug).
+
+**Metadata fields captured:**
+
+| Field | Type | Source | Health relevance |
+|-------|------|--------|-----------------|
+| `title` / `name` | `string` | feed item title | Identifier, classification |
+| `description` | `string` | feed item description/summary | Classification |
+| `published_at` | `string` | feed item pubDate/published | Freshness |
+| `author` | `string` or `null` | feed item author | Authority signal |
+| `rss_feed` | `string` | feed label | Source tracking |
+| `rss_feed_url` | `string` | feed URL | Source tracking |
+
 ### DiscoveryWriter (`discover/writer.ts`)
 
 Pure write-through to `.cache/candidates/`. No dedup, no filtering. Tracks per-source counts for reporting.
@@ -439,6 +492,7 @@ Two files: `index.ts` (CLI entry point) and `render.ts` (pure rendering logic, e
 |--------|--------|--------|--------|
 | YouTube | Views | `📺<n>` | `📺10.5k` |
 | GitHub | Stars | `⭐<n>` | `⭐314` |
+| Hacker News | Points | `🔴<n>` | `🔴42` |
 | npm | Monthly downloads | `⬇ <n>/mo` | `⬇ 20.5k/mo` |
 
 All sources store the relevant metric in metadata at discovery (YouTube via enrichment phase). No additional API calls needed at render time.
@@ -585,6 +639,8 @@ Each entry receives a `Health` object: `{ score: 0–100, level: HealthLevel }`.
 - `archived: true` → `Dead` immediately (score = 0)
 - No `pushed_at` / `published_at` at all → cap at `Stale` (max 39)
 - YouTube entries → cap at `Maintained` (max score 60)
+- Hacker News entries → cap at `Maintained` (max score 60)
+- RSS entries → cap at score 39
 
 ### Generic formula
 
@@ -619,6 +675,28 @@ Each entry receives a `Health` object: `{ score: 0–100, level: HealthLevel }`.
 | **Activity** (20%) | `likes` + `comments` | Combined engagement: ≥ 1k → 100, ≥ 100 → 60, ≥ 10 → 30, < 10 → 5 |
 | **Depth** (15%) | — | Always 0 (videos have no code depth) |
 
+#### Hacker News
+
+| Dimension | Metadata fields | Scoring |
+|-----------|----------------|---------|
+| **Freshness** (35%) | `published_at` (story date) | < 30d → 100, < 90d → 80, < 180d → 60, < 365d → 40, < 730d → 20, ≥ 730d → 5 |
+| **Popularity** (30%) | `points` (upvotes) | ≥ 500 → 100, ≥ 100 → 80, ≥ 50 → 60, ≥ 10 → 40, ≥ 1 → 20, 0 → 5 |
+| **Activity** (20%) | `num_comments` | ≥ 100 → 100, ≥ 50 → 70, ≥ 10 → 40, ≥ 1 → 20, 0 → 5 |
+| **Depth** (15%) | — | Always 5 (articles have no code depth) |
+
+**Hard rule:** HN entries capped at score 60 (Maintained) — articles don't get maintained.
+
+#### RSS
+
+| Dimension | Metadata fields | Scoring |
+|-----------|----------------|---------|
+| **Freshness** (35%) | `published_at` (article date) | < 30d → 100, < 90d → 80, < 180d → 60, < 365d → 40, < 730d → 20, ≥ 730d → 5 |
+| **Popularity** (30%) | — | Always 5 (no signal in RSS) |
+| **Activity** (20%) | — | Always 5 (no engagement signal) |
+| **Depth** (15%) | — | Always 5 (articles have no code depth) |
+
+**Hard rule:** RSS entries capped at score 39 (Stale) — articles have no ongoing maintenance or popularity signals.
+
 ### Cross-source boost
 
 When an npm entry has a `github_url` pointing to a GitHub repo also in the dataset, the higher of the two popularity scores is used for the npm entry. This is handled in `process/index.ts` before calling `computeHealth()`.
@@ -634,6 +712,8 @@ The canonical key is the **URL** itself. Filenames are SHA-256 hashes of the URL
 | npm | `https://www.npmjs.com/package/pi-mcp` | `pi-mcp` | `data/entries/a1b2c3d4e5f67890.json` |
 | GitHub | `https://github.com/shaftoe/pi-mcp` | `shaftoe-pi-mcp` | `data/entries/d4e5f67890a1b2c3.json` |
 | YouTube | `https://youtube.com/watch?v=ID` | `YT_ID` | `data/entries/7890a1b2c3d4e5f6.json` |
+| Hacker News | external URL or `https://news.ycombinator.com/item?id=ID` | `HN_ID` | `data/entries/b2c3d4e5f67890a1.json` |
+| RSS | article URL | domain-slug | `data/entries/c3d4e5f67890a1b2.json` |
 
 **Dedup rule: npm wins over GitHub.** If an npm package and a GitHub repo represent the same project, the npm URL is the canonical key. The process stage resolves this by sorting npm entries first and replacing GitHub entries when cross-referenced via `github_url`.
 
@@ -663,7 +743,7 @@ data/                              Meta files
 | Command | Stage | Description |
 |---------|-------|-------------|
 | `bun run discover` | 1 | Gather candidates from APIs + cache responses |
-| `bun run discover -- --query [source:]term` | 1 | Override source queries (prefixes: `npm:`, `gh:`, `yt:`) |
+| `bun run discover -- --query [source:]term` | 1 | Override source queries (prefixes: `npm:`, `gh:`, `yt:`, `hn:`, `rss:`) |
 | `bun run discover -- --offline` | 1 | Only use cached API responses |
 | `bun run filter` | 2 | Filter candidates → grow blacklist → write survivors |
 | `bun run process` | 3 | Dedup + classify + enrich → write canonical entries |

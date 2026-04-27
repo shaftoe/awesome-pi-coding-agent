@@ -31,8 +31,10 @@ const SOURCE_PRIORITY: Record<string, number> = {
 	[EntrySource.NpmSearch]: 0,
 	[EntrySource.GitHubSearch]: 1,
 	[EntrySource.YouTubeSearch]: 2,
-	[EntrySource.Discord]: 3,
-	[EntrySource.Manual]: 4,
+	[EntrySource.HackerNewsSearch]: 3,
+	[EntrySource.RSSFeed]: 4,
+	[EntrySource.Discord]: 5,
+	[EntrySource.Manual]: 6,
 };
 
 // ─── Command ───────────────────────────────────────────────────────────────────
@@ -60,7 +62,11 @@ export async function cmdProcess(): Promise<void> {
 	const npmCount = sorted.filter((l) => l.discovery.source === EntrySource.NpmSearch).length;
 	const ghCount = sorted.filter((l) => l.discovery.source === EntrySource.GitHubSearch).length;
 	const ytCount = sorted.filter((l) => l.discovery.source === EntrySource.YouTubeSearch).length;
-	log(`Sorted: ${npmCount} npm, ${ghCount} github, ${ytCount} youtube\n`);
+	const hnCount = sorted.filter((l) => l.discovery.source === EntrySource.HackerNewsSearch).length;
+	const rssCount = sorted.filter((l) => l.discovery.source === EntrySource.RSSFeed).length;
+	log(
+		`Sorted: ${npmCount} npm, ${ghCount} github, ${ytCount} youtube, ${hnCount} hackernews, ${rssCount} rss\n`,
+	);
 
 	// Build dedup indices from existing entries
 	const entryRepo = getEntryRepo();

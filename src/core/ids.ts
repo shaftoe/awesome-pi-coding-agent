@@ -20,6 +20,12 @@ export function extractId(url: string): string {
 		return `YT_${videoId}`;
 	}
 
+	// Hacker News: extract item ID from URL
+	if (url.includes("news.ycombinator.com")) {
+		const itemId = url.match(/[?&]id=(\d+)/)?.[1];
+		if (itemId) return `HN_${itemId}`;
+	}
+
 	const ghMatch = url.match(/github\.com\/([^/]+\/[^/]+)/);
 	if (ghMatch?.[1]) return ghMatch[1].replace("/", "-");
 

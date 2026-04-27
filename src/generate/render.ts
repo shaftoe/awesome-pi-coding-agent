@@ -97,6 +97,12 @@ function formatPopularity(entry: CategorizedEntry): string {
 		return `\u2B50${formatNumber(stars)}`;
 	}
 
+	// Hacker News entries: points
+	const points = meta["points"];
+	if (typeof points === "number" && points > 0) {
+		return `\u{1F534}${formatNumber(points)}`;
+	}
+
 	// npm entries: monthly downloads
 	const downloads = meta["npm_downloads_monthly"];
 	if (typeof downloads === "number" && downloads > 0) {
@@ -146,6 +152,10 @@ function sourceLabel(source: EntrySource): string {
 			return "GitHub";
 		case "youtube-search":
 			return "YouTube";
+		case "hackernews-search":
+			return "Hacker News";
+		case "rss-feed":
+			return "RSS";
 		case "discord":
 			return "Discord";
 		case "manual":

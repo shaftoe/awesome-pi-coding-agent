@@ -11,8 +11,10 @@ import "../core/temporal.ts";
 import { describe, expect, test } from "bun:test";
 import { type Entry, EntrySource, type HealthDimensions, HealthLevel } from "../core/types.ts";
 import { createGitHubSource } from "../sources/github.ts";
+import { createHackerNewsSource } from "../sources/hackernews.ts";
 import { getHealthScorer } from "../sources/index.ts";
 import { createNpmSource } from "../sources/npm.ts";
+import { createRSSSource } from "../sources/rss.ts";
 import { scoreFreshness, scoreMetric01 } from "../sources/scoring.ts";
 import { computeHealth, scoreToLevel } from "./health.ts";
 
@@ -57,11 +59,29 @@ function makeYouTubeEntry(metadata: Record<string, unknown>): Entry {
 	});
 }
 
+function makeHackerNewsEntry(metadata: Record<string, unknown>): Entry {
+	return makeEntry({
+		source: EntrySource.HackerNewsSearch,
+		url: "https://news.ycombinator.com/item?id=12345",
+		metadata,
+	});
+}
+
+function makeRSSEntry(metadata: Record<string, unknown>): Entry {
+	return makeEntry({
+		source: EntrySource.RSSFeed,
+		url: "https://example.com/blog/some-article",
+		metadata,
+	});
+}
+
 // Source instances (stateless scorers, no cache needed)
 const npmSource = createNpmSource(null as never, { offline: true });
 const githubSource = createGitHubSource(null as never, { offline: true });
 // YouTube source may be null without API key; use registry scorer instead
 const youtubeScorer = getHealthScorer(EntrySource.YouTubeSearch);
+const hackerNewsSource = createHackerNewsSource(null as never, { offline: true });
+const rssSource = createRSSSource(null as never, { offline: true });
 
 // ─── scoreMetric01 ─────────────────────────────────────────────────────────────
 
@@ -257,6 +277,72 @@ describe("YouTube scoreHealthDimensions", () => {
 	});
 });
 
+// ─── Hacker News scorer ──────────────────────────────────────────────────────
+
+describe("Hacker News scoreHealthDimensions", () => {
+	test("scores minimal metadata with low defaults", () => {
+		const entry = makeHackerNewsEntry({});
+		const dims = hackerNewsSource.scoreHealthDimensions(entry);
+		expect(dims.freshness).toBe(5);
+		expect(dims.popularity).toBe(5);
+		expect(dims.activity).toBe(5);
+		expect(dims.depth).toBe(5); // articles have no code depth
+	});
+
+	test("scores popular recent HN story with high engagement", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeHackerNewsEntry({
+			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
+			points: 300,
+			num_comments: 80,
+		});
+		const dims = hackerNewsSource.scoreHealthDimensions(entry);
+		expect(dims.freshness).toBe(100);
+		expect(dims.popularity).toBe(80); // 300 points → 80
+		expect(dims.activity).toBe(70); // 80 comments → 70
+		expect(dims.depth).toBe(5);
+	});
+
+	test("scores old HN story with few points", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeHackerNewsEntry({
+			published_at: now.subtract({ milliseconds: 400 * DAY_MS }).toString(),
+			points: 3,
+			num_comments: 1,
+		});
+		const dims = hackerNewsSource.scoreHealthDimensions(entry);
+		expect(dims.freshness).toBe(20);
+		expect(dims.popularity).toBe(20); // 3 points → 20
+		expect(dims.activity).toBe(20); // 1 comment → 20
+		expect(dims.depth).toBe(5);
+	});
+});
+
+// ─── RSS scorer ──────────────────────────────────────────────────────────────
+
+describe("RSS scoreHealthDimensions", () => {
+	test("scores minimal metadata with low defaults", () => {
+		const entry = makeRSSEntry({});
+		const dims = rssSource.scoreHealthDimensions(entry);
+		expect(dims.freshness).toBe(5);
+		expect(dims.popularity).toBe(5);
+		expect(dims.activity).toBe(5);
+		expect(dims.depth).toBe(5);
+	});
+
+	test("scores recent RSS article", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeRSSEntry({
+			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
+		});
+		const dims = rssSource.scoreHealthDimensions(entry);
+		expect(dims.freshness).toBe(100);
+		expect(dims.popularity).toBe(5); // no signal
+		expect(dims.activity).toBe(5); // no signal
+		expect(dims.depth).toBe(5);
+	});
+});
+
 // ─── getHealthScorer registry ──────────────────────────────────────────────────
 
 describe("getHealthScorer", () => {
@@ -286,6 +372,29 @@ describe("getHealthScorer", () => {
 		const entry = makeEntry({ source: EntrySource.Manual });
 		const dims = scorer(entry);
 		expect(dims).toEqual({ freshness: 5, popularity: 5, activity: 5, depth: 5 });
+	});
+
+	test("returns a scorer for HackerNewsSearch", () => {
+		const scorer = getHealthScorer(EntrySource.HackerNewsSearch);
+		const now = Temporal.Now.instant();
+		const entry = makeHackerNewsEntry({
+			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
+			points: 100,
+		});
+		const dims = scorer(entry);
+		expect(dims.freshness).toBe(100);
+		expect(dims.popularity).toBe(80);
+	});
+
+	test("returns a scorer for RSSFeed", () => {
+		const scorer = getHealthScorer(EntrySource.RSSFeed);
+		const now = Temporal.Now.instant();
+		const entry = makeRSSEntry({
+			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
+		});
+		const dims = scorer(entry);
+		expect(dims.freshness).toBe(100);
+		expect(dims.popularity).toBe(5);
 	});
 });
 
@@ -348,6 +457,28 @@ describe("computeHealth", () => {
 		const health = computeHealth(entry, dims);
 		expect(health.score).toBe(0);
 		expect(health.level).toBe(HealthLevel.Dead);
+	});
+
+	test("Hacker News entries are capped at Maintained (max 60)", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeHackerNewsEntry({
+			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
+		});
+		const dims: HealthDimensions = { freshness: 100, popularity: 100, activity: 100, depth: 100 };
+		const health = computeHealth(entry, dims);
+		expect(health.score).toBe(60);
+		expect(health.level).toBe(HealthLevel.Maintained);
+	});
+
+	test("RSS entries are capped at 39 (Stale)", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeRSSEntry({
+			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
+		});
+		const dims: HealthDimensions = { freshness: 100, popularity: 100, activity: 100, depth: 100 };
+		const health = computeHealth(entry, dims);
+		expect(health.score).toBe(39);
+		expect(health.level).toBe(HealthLevel.Stale);
 	});
 });
 
@@ -423,5 +554,29 @@ describe("end-to-end health scoring", () => {
 		const health = computeHealth(entry, dims);
 		expect(health.level).toBe(HealthLevel.Dead);
 		expect(health.score).toBe(0);
+	});
+
+	test("popular Hacker News story → Maintained (capped)", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeHackerNewsEntry({
+			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
+			points: 500,
+			num_comments: 100,
+		});
+		const dims = hackerNewsSource.scoreHealthDimensions(entry);
+		const health = computeHealth(entry, dims);
+		expect(health.level).toBe(HealthLevel.Maintained);
+		expect(health.score).toBeLessThanOrEqual(60);
+	});
+
+	test("recent RSS article → Stale (capped at 39)", () => {
+		const now = Temporal.Now.instant();
+		const entry = makeRSSEntry({
+			published_at: now.subtract({ milliseconds: 10 * DAY_MS }).toString(),
+		});
+		const dims = rssSource.scoreHealthDimensions(entry);
+		const health = computeHealth(entry, dims);
+		expect(health.level).toBe(HealthLevel.Stale);
+		expect(health.score).toBeLessThanOrEqual(39);
 	});
 });
