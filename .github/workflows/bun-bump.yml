@@ -1,0 +1,28 @@
+name: Update deps
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # every Monday at 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-deps:
+    uses: shaftoe/pi-coding-agent-action/.github/workflows/update-bun-deps.yml@dev
+    with:
+      latest: true
+      validate-command: "bun run check && bun run test"
+    secrets:
+      token: ${{ secrets.GITHUB_TOKEN }}
+
+  update-deps-site:
+    uses: shaftoe/pi-coding-agent-action/.github/workflows/update-bun-deps.yml@dev
+    with:
+      latest: true
+      validate-command: "bun run build"
+      working-directory: ./site
+    secrets:
+      token: ${{ secrets.GITHUB_TOKEN }}
