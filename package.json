@@ -16,6 +16,7 @@
     "format": "biome format --write .",
     "check": "bun run typecheck && bun run lint",
     "test": "bun test",
+    "validate-prompt": "bun run src/cli/validate-prompt.ts",
     "blacklist": "bun run src/cli/blacklist.ts",
     "add-url": "bun run src/cli/add-url.ts",
     "clean": "rm -rf data/ .cache/",

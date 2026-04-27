@@ -1,8 +1,8 @@
 name: Daily Pipeline
 
 on:
-  # schedule:
-  #  - cron: "0 6 * * *"
+  schedule:
+   - cron: "0 6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -27,15 +27,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-
-      - name: Check for remaining duplicates
-        run: bun run dedup --dry-run
-        continue-on-error: true
-
-      - name: Detect changed data files
-        id: changes
-        run: bun run src/ci/detect-changes.ts
-        continue-on-error: true
 
       - name: Upload data artifacts
         if: steps.changes.outcome == 'success'
@@ -62,6 +53,14 @@ jobs:
           name: pipeline-data
           path: .
 
+      - name: Extract validation prompt
+        id: prompt
+        run: |
+          TEXT=$(bun run validate-prompt)
+          echo "text<<EOF"
+          echo "$TEXT"
+          echo "EOF"
+
       - name: Validate entries and apply fixes
         uses: shaftoe/pi-coding-agent-action@v2
         env:
@@ -72,20 +71,11 @@ jobs:
           model: ${{ vars.MODEL }}
           token: ${{ secrets.LLM_API_KEY }}
           thinking_level: ${{ vars.THINKING_LEVEL }}
-          prompt: |
-            You are validating entries for the "Awesome Pi Coding Agent" curated list. This list tracks resources for the Pi coding agent at https://pi.dev/ — NOT Raspberry Pi hardware projects.
-
-            Review the changed/added JSON files in the data/ directory (compare working tree against the git index to find them).
-
-            For each changed data entry, verify and **fix in-place**:
-            1. **Relevance**: The entry MUST be about the Pi coding agent (pi.dev). If it's about Raspberry Pi, GPIO, embedded hardware, or clearly unrelated — run `bun run blacklist add <url> <reason>` to blacklist and remove it.
-            2. **English-only**: The entry's name and description MUST be in English. If the description or title is written in a non-English language (Chinese, Russian, Arabic, Hindi, Portuguese, German, etc.), run `bun run blacklist add <url> <reason>` to blacklist and remove it.
-            3. **Duplicates**: Check for duplicate entries. If two entries share the same URL, ID, or GitHub URL, run `bun run dedup` to remove the lower-health duplicate. Use `bun run dedup --dry-run` first to inspect.
-            4. **Health score accuracy**: health.score (0-100) maps to health.level as: active ≥70, maintained ≥40, stale ≥15, dead <15. If inconsistent with metadata (last_commit date, stars, forks, is_archived), edit the JSON file directly to fix health.score and health.level.
-            5. **Category correctness**: The category is determined by the subfolder under data/ (e.g. data/extensions/ → category=extension). If the entry belongs in a different category, move the JSON file to the correct folder and update the category field in the JSON file.
-
-            Make all fixes directly. Do not just report issues — edit files, run commands, and resolve them.
+          prompt: ${{ steps.prompt.outputs.text }}
           load_builtin_extensions: "false"
+
+      - name: Regenerate README
+        run: bun run generate
 
       - name: Upload fixed data artifacts
         uses: actions/upload-artifact@v7
