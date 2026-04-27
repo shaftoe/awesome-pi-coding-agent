@@ -17,6 +17,7 @@
     "check": "bun run typecheck && bun run lint",
     "test": "bun test",
     "blacklist": "bun run src/cli/blacklist.ts",
+    "add-url": "bun run src/cli/add-url.ts",
     "clean": "rm -rf data/ .cache/",
     "semantic-release": "semantic-release"
   },

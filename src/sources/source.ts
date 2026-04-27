@@ -51,8 +51,11 @@ export interface Source {
 
 /** Generic URL normalizer — applies all known source normalizations. */
 export function normalizeUrl(url: string): string {
-	// YouTube: strip www. — our canonical form is https://youtube.com/...
+	// YouTube: canonical form is https://youtube.com/watch?v=ID
+	// Strip www.
 	url = url.replace(/^(https?:\/\/)(www\.)youtube\./, "$1youtube.");
+	// Expand youtu.be short URLs
+	url = url.replace(/^https?:\/\/youtu\.be\/([\w-]+)(\?.*)?$/, "https://youtube.com/watch?v=$1");
 	return url;
 }
 

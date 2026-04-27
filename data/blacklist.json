@@ -12910,16 +12910,6 @@
 		}
 	},
 	{
-		"url": "https://youtube.com/watch?v=fdbXNWkpPMY",
-		"reason": "no positive Pi coding agent signal",
-		"blacklisted_at": "2026-04-27T13:53:37.759Z",
-		"source": "filter",
-		"discovery": {
-			"sourceName": "youtube",
-			"query": "youtube:pi-agent"
-		}
-	},
-	{
 		"url": "https://youtube.com/watch?v=GMxXHMQrUSs",
 		"reason": "no positive Pi coding agent signal",
 		"blacklisted_at": "2026-04-27T13:53:37.761Z",
@@ -13330,5 +13320,15 @@
 		"reason": "not a pi coding agent video",
 		"blacklisted_at": "2026-04-27T14:12:22.76Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=fdbXNWkpPMY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-27T14:41:59.876Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:add-url"
+		}
 	}
 ]

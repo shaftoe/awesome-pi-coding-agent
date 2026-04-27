@@ -669,6 +669,7 @@ data/                              Meta files
 | `bun run process` | 3 | Dedup + classify + enrich → write canonical entries |
 | `bun run generate` | 4 | Render README.md from canonical entries |
 | `bun run pipeline` | 1–4 | Run discover → filter → process → generate sequentially |
+| `bun run add-url <url>` | 1 | Inject a single URL into the candidate pool (auto-detects source) |
 | `bun run blacklist` | — | Manage URL blacklist (`add`, `list`, `check`, `remove` subcommands) |
 | `bun run check` | — | Typecheck + lint |
 | `bun run test` | — | Run all tests |
@@ -692,6 +693,23 @@ bun run generate
 # Or run everything:
 bun run pipeline
 ```
+
+### Adding a single URL
+
+Inject a specific URL into the candidate pool, then run the rest of the pipeline:
+
+```bash
+bun run add-url https://youtu.be/fdbXNWkpPMY
+bun run filter && bun run process && bun run generate
+```
+
+Supported URL patterns:
+
+| Source | Examples |
+|--------|----------|
+| YouTube | `https://youtube.com/watch?v=ID`, `https://youtu.be/ID` |
+| npm | `https://www.npmjs.com/package/name` |
+| GitHub | `https://github.com/owner/repo` |
 
 ### Offline workflow (no API calls)
 
