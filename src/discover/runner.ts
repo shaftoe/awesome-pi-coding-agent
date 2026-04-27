@@ -8,6 +8,7 @@
 
 import type { DiscoveryCandidate, EntrySource } from "../core/types.ts";
 import type { DiscoveryResult, Source, WriteResult } from "../sources/source.ts";
+import { normalizeUrl } from "../sources/source.ts";
 import type { DiscoveryWriter } from "./writer.ts";
 
 // ─── Runner ────────────────────────────────────────────────────────────────────
@@ -75,8 +76,9 @@ export function writeRaw(
 	let written = 0;
 
 	for (const r of results) {
+		const url = normalizeUrl(r.url);
 		const candidate: DiscoveryCandidate = {
-			url: r.url,
+			url,
 			source: sourceTag,
 		};
 		if (r.hint !== undefined) candidate.hint = r.hint;

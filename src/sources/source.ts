@@ -40,6 +40,22 @@ export interface Source {
 	scoreHealthDimensions(entry: Entry): HealthDimensions;
 }
 
+// ─── URL normalization ─────────────────────────────────────────────────────────
+
+/**
+ * Canonical URL form — strips source-specific inconsistencies.
+ *
+ * Default: identity (no-op). Sources with known URL variants (e.g. YouTube
+ * with/without `www.`) override this to ensure stored URLs always match.
+ */
+
+/** Generic URL normalizer — applies all known source normalizations. */
+export function normalizeUrl(url: string): string {
+	// YouTube: strip www. — our canonical form is https://youtube.com/...
+	url = url.replace(/^(https?:\/\/)(www\.)youtube\./, "$1youtube.");
+	return url;
+}
+
 // ─── Supporting types ──────────────────────────────────────────────────────────
 
 export interface DiscoveryResult {

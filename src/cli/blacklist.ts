@@ -18,6 +18,7 @@ import {
 	saveBlacklist,
 } from "../core/blacklist.ts";
 import { deleteEntry } from "../core/store.ts";
+import { normalizeUrl } from "../sources/source.ts";
 
 const [, , command, ...args] = process.argv;
 
@@ -34,13 +35,14 @@ if (!command) usage();
 
 switch (command) {
 	case "add": {
-		const url = args[0];
+		const rawUrl = args[0];
 		const reason = args.slice(1).join(" ");
-		if (!url || !reason) {
+		if (!rawUrl || !reason) {
 			console.error("Error: both <url> and <reason> are required.");
 			console.error("Usage: bun run blacklist add <url> <reason>");
 			process.exit(1);
 		}
+		const url = normalizeUrl(rawUrl);
 		invalidateBlacklistCache();
 		const added = addToBlacklist(url, reason, { reason, source: "manual" });
 		if (added) {
@@ -69,12 +71,13 @@ switch (command) {
 		break;
 	}
 	case "check": {
-		const url = args[0];
-		if (!url) {
+		const rawUrl = args[0];
+		if (!rawUrl) {
 			console.error("Error: <url> is required.");
 			console.error("Usage: bun run blacklist check <url>");
 			process.exit(1);
 		}
+		const url = normalizeUrl(rawUrl);
 		invalidateBlacklistCache();
 		if (isBlacklisted(url)) {
 			const { entries } = loadBlacklist();
@@ -90,12 +93,13 @@ switch (command) {
 		break;
 	}
 	case "remove": {
-		const url = args[0];
-		if (!url) {
+		const rawUrl = args[0];
+		if (!rawUrl) {
 			console.error("Error: <url> is required.");
 			console.error("Usage: bun run blacklist remove <url>");
 			process.exit(1);
 		}
+		const url = normalizeUrl(rawUrl);
 		invalidateBlacklistCache();
 		const { entries, urlSet } = loadBlacklist();
 		if (!urlSet.has(url)) {

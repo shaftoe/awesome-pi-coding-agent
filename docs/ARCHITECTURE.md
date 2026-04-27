@@ -192,6 +192,21 @@ Other types:
 | `DiscoveryCandidate` | Raw discovery output: url, source, optional hint/id/metadata |
 | `BlacklistEntry` | url + reason + blacklisted_at + source + optional discovery metadata |
 
+### URL Normalization
+
+All URLs are normalized to a canonical form at the earliest pipeline entry point (`writeRaw()` in the discover stage) via `normalizeUrl()` in `sources/source.ts`. This ensures:
+
+1. **Storage consistency** — the same resource always hashes to the same filename, regardless of URL variant (e.g. `www.youtube.com` vs `youtube.com`).
+2. **Blacklist reliability** — the blacklist CLI normalizes user-provided URLs before lookup, so `add`, `check`, and `remove` work regardless of `www.` prefix.
+
+Current normalizations:
+
+| Pattern | Canonical form |
+|---------|---------------|
+| `https://www.youtube.com/...` | `https://youtube.com/...` |
+
+New normalizations should be added to `normalizeUrl()` in `sources/source.ts`.
+
 ### `repository.ts` — Generic Repository Interface
 
 - **`Repository<T>` interface** — swappable storage with `init/has/get/set/delete/list/size/flush/clear`.
