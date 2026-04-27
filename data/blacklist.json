@@ -13318,5 +13318,17 @@
 			"sourceName": "github",
 			"query": "github-repo:pi-agent language:TypeScript"
 		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/latchkey",
+		"reason": "--reason no relation to Pi Coding Agent; unrelated CLI tool that gamed discovery with pi-package keyword",
+		"blacklisted_at": "2026-04-27T14:10:13.868Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=-rhM7-CLcN4",
+		"reason": "not a pi coding agent video",
+		"blacklisted_at": "2026-04-27T14:12:22.76Z",
+		"source": "manual"
 	}
 ]
