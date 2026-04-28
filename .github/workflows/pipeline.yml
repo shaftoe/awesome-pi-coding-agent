@@ -14,7 +14,7 @@ jobs:
   run-pipeline:
     runs-on: ubuntu-latest
     outputs:
-      has_changes: ${{ steps.changes.outcome == 'success' }}
+      has_changes: ${{ steps.check-changes.outputs.has_changes }}
     steps:
       - uses: actions/checkout@v6
 
@@ -28,8 +28,22 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
+      - name: Check for changes
+        id: check-changes
+        run: |
+          if git diff --quiet && git diff --cached --quiet && test -z "$(git ls-files --others --exclude-standard)"; then
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+            echo "No changes detected."
+          else
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+            echo "Changes detected:"
+            git diff --stat
+            git diff --cached --stat
+            git ls-files --others --exclude-standard
+          fi
+
       - name: Upload data artifacts
-        if: steps.changes.outcome == 'success'
+        if: steps.check-changes.outputs.has_changes == 'true'
         uses: actions/upload-artifact@v7
         with:
           name: pipeline-data
@@ -57,9 +71,9 @@ jobs:
         id: prompt
         run: |
           TEXT=$(bun run validate-prompt)
-          echo "text<<EOF"
-          echo "$TEXT"
-          echo "EOF"
+          echo "text<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$TEXT" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
 
       - name: Validate entries and apply fixes
         uses: shaftoe/pi-coding-agent-action@v2
@@ -93,8 +107,6 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - uses: oven-sh/setup-bun@v2
-
       - uses: actions/download-artifact@v8
         with:
           name: pipeline-data
@@ -102,10 +114,20 @@ jobs:
 
       - name: Configure git
         run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
 
       - name: Create PR
-        run: bun run src/ci/create-pr.ts
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BRANCH="daily-pipeline-$(date +%Y-%m-%d)"
+          git checkout -b "$BRANCH"
+          git add -A
+          git commit -m "Daily pipeline update $(date +%Y-%m-%d)"
+          git push origin "$BRANCH"
+          gh pr create \
+            --title "Daily pipeline update $(date +%Y-%m-%d)" \
+            --body "Automated pipeline run — enriched/validated data and regenerated README." \
+            --base main \
+            --head "$BRANCH"
