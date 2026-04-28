@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.1.1] - 2026-04-28
+
+### Changed
+
+- **deps-dev**: bump @alexanderfortin/semantic-release-keep-a-changelog (#41)
+- consolidate source custom logic into sources
+
+### Fixed
+
+- store last update timestamp for consistency between readme and site
+
 ## [2.1.0] - 2026-04-27
 
 ### Added
@@ -167,6 +178,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove skills category
 - replace @types/bun with pinned bun-types to fix typecheck (#6)
 
+[2.1.1]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.1.0...v2.1.1
 [2.1.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.0.2...v2.1.0
 [2.0.2]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.0.1...v2.0.2
 [2.0.1]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.0.0...v2.0.1
