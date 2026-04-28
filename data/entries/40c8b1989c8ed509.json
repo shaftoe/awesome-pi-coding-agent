@@ -1,0 +1,35 @@
+{
+  "id": "@0xtiby/looper",
+  "name": "@0xtiby/looper",
+  "url": "https://www.npmjs.com/package/@0xtiby/looper",
+  "source": "npm-search",
+  "description": "Standalone AI loop orchestration engine",
+  "metadata": {
+    "github_url": "https://github.com/0xtiby/looper",
+    "npm_name": "@0xtiby/looper",
+    "description": "Standalone AI loop orchestration engine",
+    "keywords": [
+      "ai",
+      "cli",
+      "loop",
+      "orchestration",
+      "claude",
+      "codex",
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-04-27T18:27:53.680Z",
+    "npm_downloads_monthly": 72,
+    "npm_downloads_weekly": 15,
+    "npm_score_final": 15.590193,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 76,
+    "level": "active"
+  },
+  "category": "misc"
+}

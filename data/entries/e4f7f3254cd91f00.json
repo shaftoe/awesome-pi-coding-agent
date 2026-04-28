@@ -1,0 +1,29 @@
+{
+  "id": "DenisSud-dotfiles-pi",
+  "name": "DenisSud-dotfiles-pi",
+  "url": "https://github.com/DenisSud/dotfiles-pi",
+  "source": "github-search",
+  "description": "Pi coding agent config",
+  "metadata": {
+    "github_url": "https://github.com/DenisSud/dotfiles-pi",
+    "repo_full_name": "DenisSud/dotfiles-pi",
+    "description": "Pi coding agent config",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-23T18:07:53Z",
+    "pushed_at": "2026-04-27T18:03:55Z",
+    "updated_at": "2026-04-27T18:04:00Z",
+    "size": 40,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

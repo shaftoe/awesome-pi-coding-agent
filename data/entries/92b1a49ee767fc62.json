@@ -1,0 +1,39 @@
+{
+  "id": "pi-session-cleanup",
+  "name": "pi-session-cleanup",
+  "url": "https://www.npmjs.com/package/pi-session-cleanup",
+  "source": "npm-search",
+  "description": "Pi extension for interactive batch session cleanup and safe deletion.",
+  "metadata": {
+    "github_url": "https://github.com/MasuRii/pi-session-cleanup",
+    "npm_name": "pi-session-cleanup",
+    "description": "Pi extension for interactive batch session cleanup and safe deletion.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "session",
+      "cleanup",
+      "delete",
+      "pi-coding-agent",
+      "pi-tui",
+      "session-management",
+      "tui",
+      "safe-delete"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-04-28T11:05:40.150Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

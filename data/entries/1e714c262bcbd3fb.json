@@ -1,0 +1,31 @@
+{
+  "id": "@code-fixer-23/nu-bash",
+  "name": "@code-fixer-23/nu-bash",
+  "url": "https://www.npmjs.com/package/@code-fixer-23/nu-bash",
+  "source": "npm-search",
+  "description": "Pi extension that runs bash and user_bash through Nushell.",
+  "metadata": {
+    "github_url": "https://github.com/louiss0/the-code-fixer-23",
+    "npm_name": "@code-fixer-23/nu-bash",
+    "description": "Pi extension that runs bash and user_bash through Nushell.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "nushell"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-04-27T19:55:20.235Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

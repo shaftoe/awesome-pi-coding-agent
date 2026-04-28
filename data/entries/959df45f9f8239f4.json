@@ -1,0 +1,29 @@
+{
+  "id": "uchoa-pi-agent-config",
+  "name": "uchoa-pi-agent-config",
+  "url": "https://github.com/uchoa/pi-agent-config",
+  "source": "github-search",
+  "description": "My global **pi.dev** agent configuration.",
+  "metadata": {
+    "github_url": "https://github.com/uchoa/pi-agent-config",
+    "repo_full_name": "uchoa/pi-agent-config",
+    "description": "My global **pi.dev** agent configuration.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-28T03:06:24Z",
+    "pushed_at": "2026-04-28T05:30:02Z",
+    "updated_at": "2026-04-28T05:30:06Z",
+    "size": 8,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

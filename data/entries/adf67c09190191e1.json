@@ -1,0 +1,29 @@
+{
+  "id": "davelens-pi-config",
+  "name": "davelens-pi-config",
+  "url": "https://github.com/davelens/pi-config",
+  "source": "github-search",
+  "description": "Personal setup for the pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/davelens/pi-config",
+    "repo_full_name": "davelens/pi-config",
+    "description": "Personal setup for the pi coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-28T14:39:48Z",
+    "pushed_at": "2026-04-28T14:43:40Z",
+    "updated_at": "2026-04-28T14:44:05Z",
+    "size": 219,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}
