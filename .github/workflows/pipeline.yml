@@ -124,10 +124,10 @@ jobs:
           BRANCH="daily-pipeline-$(date +%Y-%m-%d)"
           git checkout -b "$BRANCH"
           git add -A
-          git commit -m "Daily pipeline update $(date +%Y-%m-%d)"
+          git commit -m "chore: daily pipeline update $(date +%Y-%m-%d)"
           git push origin "$BRANCH"
           gh pr create \
-            --title "Daily pipeline update $(date +%Y-%m-%d)" \
+            --title "chore: daily pipeline update $(date +%Y-%m-%d)" \
             --body "Automated pipeline run — enriched/validated data and regenerated README." \
             --base main \
             --head "$BRANCH"
