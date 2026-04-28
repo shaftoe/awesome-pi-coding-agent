@@ -10,6 +10,7 @@ import "../core/temporal.ts";
 import { existsSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 import { buildIndices, checkDuplicate } from "../core/dedup.ts";
+import { writeMeta } from "../core/meta.ts";
 import { getEntryRepo, saveEntry } from "../core/store.ts";
 import { type Entry, HealthLevel } from "../core/types.ts";
 import { loadDiscoveryLines } from "../discover/writer.ts";
@@ -131,6 +132,10 @@ export async function cmdProcess(): Promise<void> {
 	log(
 		`\nAdded ${added} new entries, ${replaced} replaced (npm > github), ${duplicates} duplicates skipped`,
 	);
+
+	// Record when the datastore was last updated
+	writeMeta();
+	log("📝 Updated data/meta.json");
 }
 
 // ─── CLI entry point ───────────────────────────────────────────────────────────

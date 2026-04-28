@@ -80,6 +80,7 @@ src/
     paginate.test.ts
     temporal.ts                       Temporal polyfill (remove when Bun ships native)
     blacklist.ts                      URL blacklist with timestamps + discovery metadata
+    meta.ts                           Read/write pipeline metadata (data/meta.json)
     store.ts                          Entry store facade (FileRepository<CategorizedEntry>)
     ids.ts                            *(removed — ID derivation now in each source's `extractId()`)*
     html.ts                           HTML entity decoding
@@ -241,6 +242,7 @@ Composes `ThrottledFetcher` + `Cache` into a paginator.
 | File | Purpose |
 |------|--------|
 | `blacklist.ts` | Load/save URL blacklist (`data/blacklist.json`). Grown by the filter stage. Each entry has url, reason, blacklisted_at (ISO-8601), source (e.g. "filter", "manual", "import"), and optional discovery metadata (source name + query). |
+| `meta.ts` | Read/write pipeline metadata (`data/meta.json`). Records when the process stage last updated the datastore. The site build reads this to display an accurate "last updated" timestamp independent of deploy time. |
 | `store.ts` | Entry store facade for `data/`. Delegates to `FileRepository<CategorizedEntry>`. |
 | `sort.ts` | Canonical entry ordering (health level → score → name). Shared by README render and site. |
 | `ids.ts` | *(removed — ID derivation is now a method on the `Source` interface, dispatched via `sources/index.ts`)* |
@@ -389,6 +391,8 @@ Rejected URLs are added to the blacklist for future discover runs (the blacklist
 **Goal:** Take filtered candidates from `.cache/filtered/`, resolve duplicates (npm > GitHub), classify, enrich with metadata, and write canonical entries to `data/`.
 
 ### Current state: ✅ Done
+
+At the end of processing, `data/meta.json` is written with `{ lastUpdatedAt: <ISO-8601 instant> }`. The site build reads this to display an accurate "last data update" timestamp that's independent of deploy time.
 
 ### Dedup (`core/dedup.ts`) ✅
 
@@ -643,6 +647,8 @@ The canonical key is the **URL** itself. Filenames are SHA-256 hashes of the URL
 ```
 data/entries/                            Canonical entry store (Stage 3 output)
   *.json                            CategorizedEntry (category inside JSON)
+
+data/meta.json                        Pipeline metadata (lastUpdatedAt timestamp)
 
 data/                              Meta files
   blacklist.json                    URL → reason map (grown by Stage 2)
