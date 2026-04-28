@@ -1,0 +1,32 @@
+{
+  "id": "pi-agent-suite",
+  "name": "pi-agent-suite",
+  "url": "https://www.npmjs.com/package/pi-agent-suite",
+  "source": "npm-search",
+  "description": "Adds a configurable multi-agent layer to pi, with context management, Codex quota status, a custom footer, and more.",
+  "metadata": {
+    "github_url": "https://github.com/n-r-w/pi-agent-suite",
+    "npm_name": "pi-agent-suite",
+    "description": "Adds a configurable multi-agent layer to pi, with context management, Codex quota status, a custom footer, and more.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-agent",
+      "multi-agent"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-04-27T19:20:26.772Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "misc"
+}

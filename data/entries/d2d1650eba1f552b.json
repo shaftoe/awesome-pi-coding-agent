@@ -1,0 +1,31 @@
+{
+  "id": "mwamodo-pi-tinker",
+  "name": "mwamodo-pi-tinker",
+  "url": "https://github.com/mwamodo/pi-tinker",
+  "source": "github-search",
+  "description": "pi coding agent commands, skills, extensions, and themes",
+  "metadata": {
+    "github_url": "https://github.com/mwamodo/pi-tinker",
+    "repo_full_name": "mwamodo/pi-tinker",
+    "description": "pi coding agent commands, skills, extensions, and themes",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-25T17:56:06Z",
+    "pushed_at": "2026-04-28T10:11:55Z",
+    "updated_at": "2026-04-28T10:15:03Z",
+    "size": 51,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

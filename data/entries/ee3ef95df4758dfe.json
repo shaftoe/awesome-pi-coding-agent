@@ -1,0 +1,33 @@
+{
+  "id": "CoreyCole-pi-deterministic-docs",
+  "name": "CoreyCole-pi-deterministic-docs",
+  "url": "https://github.com/CoreyCole/pi-deterministic-docs",
+  "source": "github-search",
+  "description": "Pi extension that deterministically injects nearest project docs when files are read",
+  "metadata": {
+    "github_url": "https://github.com/CoreyCole/pi-deterministic-docs",
+    "repo_full_name": "CoreyCole/pi-deterministic-docs",
+    "description": "Pi extension that deterministically injects nearest project docs when files are read",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "deterministic-docs",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T21:37:28Z",
+    "pushed_at": "2026-04-27T21:40:38Z",
+    "updated_at": "2026-04-27T21:40:44Z",
+    "size": 37,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

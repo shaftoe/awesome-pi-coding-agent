@@ -1,0 +1,39 @@
+{
+  "id": "pi-sensitive-guard",
+  "name": "pi-sensitive-guard",
+  "url": "https://www.npmjs.com/package/pi-sensitive-guard",
+  "source": "npm-search",
+  "description": "Pi extension that protects sensitive files, blocks secret writes, and optionally redacts protected read output.",
+  "metadata": {
+    "github_url": "https://github.com/MasuRii/pi-sensitive-guard",
+    "npm_name": "pi-sensitive-guard",
+    "description": "Pi extension that protects sensitive files, blocks secret writes, and optionally redacts protected read output.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "pi-tui",
+      "coding-agent",
+      "secret-scanning",
+      "sensitive-files",
+      "redaction",
+      "security",
+      "git-protection"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-04-28T11:05:36.791Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "harpomaxx-pi-setup",
+  "name": "harpomaxx-pi-setup",
+  "url": "https://github.com/harpomaxx/pi-setup",
+  "source": "github-search",
+  "description": "Private Pi coding agent setup backup",
+  "metadata": {
+    "github_url": "https://github.com/harpomaxx/pi-setup",
+    "repo_full_name": "harpomaxx/pi-setup",
+    "description": "Private Pi coding agent setup backup",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T00:54:35Z",
+    "pushed_at": "2026-04-28T08:30:40Z",
+    "updated_at": "2026-04-28T08:30:44Z",
+    "size": 28,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

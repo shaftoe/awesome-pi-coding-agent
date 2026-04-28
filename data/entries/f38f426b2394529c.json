@@ -1,0 +1,33 @@
+{
+  "id": "vanzan01-pi-agent-sdk-starter",
+  "name": "vanzan01-pi-agent-sdk-starter",
+  "url": "https://github.com/vanzan01/pi-agent-sdk-starter",
+  "source": "github-search",
+  "description": "A batteries-included starter for building agentic desktop apps with Pi SDK and configurable providers.",
+  "metadata": {
+    "github_url": "https://github.com/vanzan01/pi-agent-sdk-starter",
+    "repo_full_name": "vanzan01/pi-agent-sdk-starter",
+    "description": "A batteries-included starter for building agentic desktop apps with Pi SDK and configurable providers.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "harness-engineering",
+      "pi",
+      "sdk"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T09:18:54Z",
+    "pushed_at": "2026-04-27T09:19:22Z",
+    "updated_at": "2026-04-28T11:46:27Z",
+    "size": 19850,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 68,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

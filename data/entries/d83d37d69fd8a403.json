@@ -1,0 +1,29 @@
+{
+  "id": "john-marinelli-subdude",
+  "name": "john-marinelli-subdude",
+  "url": "https://github.com/john-marinelli/subdude",
+  "source": "github-search",
+  "description": "A read-only coding agent extension for pi to advise and plan with you. ",
+  "metadata": {
+    "github_url": "https://github.com/john-marinelli/subdude",
+    "repo_full_name": "john-marinelli/subdude",
+    "description": "A read-only coding agent extension for pi to advise and plan with you. ",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-25T01:05:43Z",
+    "pushed_at": "2026-04-28T02:53:51Z",
+    "updated_at": "2026-04-28T02:53:54Z",
+    "size": 61,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

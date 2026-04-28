@@ -1,0 +1,24 @@
+{
+  "id": "YT_DWWrLlM3gwQ",
+  "name": "Pi Coding Agent Setup After 2 Months",
+  "url": "https://youtube.com/watch?v=DWWrLlM3gwQ",
+  "source": "youtube-search",
+  "description": "My current Pi coding agent config for agentic engineering and everything else AI. 0:00 Intro 0:30 web-search 1:03 web-fetch 1:23 ...",
+  "metadata": {
+    "title": "Pi Coding Agent Setup After 2 Months",
+    "name": "Pi Coding Agent Setup After 2 Months",
+    "description": "My current Pi coding agent config for agentic engineering and everything else AI. 0:00 Intro 0:30 web-search 1:03 web-fetch 1:23 ...",
+    "channel": "Eero Alvar",
+    "published_at": "2026-04-27T15:00:15Z",
+    "thumbnail": "https://i.ytimg.com/vi/DWWrLlM3gwQ/hqdefault.jpg",
+    "views": 1843,
+    "likes": 106,
+    "comments": 15,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 60,
+    "level": "maintained"
+  },
+  "category": "video"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "lukasl-dev-pi-mono.nix",
+  "name": "lukasl-dev-pi-mono.nix",
+  "url": "https://github.com/lukasl-dev/pi-mono.nix",
+  "source": "github-search",
+  "description": "Nix flake for pi, a terminal coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/lukasl-dev/pi-mono.nix",
+    "repo_full_name": "lukasl-dev/pi-mono.nix",
+    "description": "Nix flake for pi, a terminal coding agent.",
+    "stars": 11,
+    "forks": 2,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "flake",
+      "nix",
+      "pi",
+      "pi-mono"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-18T00:19:11Z",
+    "pushed_at": "2026-04-28T06:44:54Z",
+    "updated_at": "2026-04-28T06:44:58Z",
+    "size": 133,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "katya4oyu-stackchan-ghost",
+  "name": "katya4oyu-stackchan-ghost",
+  "url": "https://github.com/katya4oyu/stackchan-ghost",
+  "source": "github-search",
+  "description": "Local-first persona and memory definition for running StackChan conversations through pi-coding-agent sessions.",
+  "metadata": {
+    "github_url": "https://github.com/katya4oyu/stackchan-ghost",
+    "repo_full_name": "katya4oyu/stackchan-ghost",
+    "description": "Local-first persona and memory definition for running StackChan conversations through pi-coding-agent sessions.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T17:23:20Z",
+    "pushed_at": "2026-04-27T17:23:25Z",
+    "updated_at": "2026-04-27T17:23:31Z",
+    "size": 36,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}
