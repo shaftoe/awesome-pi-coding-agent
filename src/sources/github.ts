@@ -15,11 +15,27 @@ import type { Cache } from "../core/cache.ts";
 import { paginate } from "../core/paginate.ts";
 import { SEARCH_TERMS } from "../core/terms.ts";
 import { ThrottledFetcher } from "../core/throttle.ts";
-import { type Entry, EntrySource, type HealthDimensions } from "../core/types.ts";
+import {
+	type CategorizedEntry,
+	type Entry,
+	EntrySource,
+	type HealthDimensions,
+} from "../core/types.ts";
 import { writeRaw } from "../discover/runner.ts";
 import type { DiscoveryWriter } from "../discover/writer.ts";
 import { clamp, scoreActivityDays, scoreFreshness } from "./scoring.ts";
 import type { Source } from "./source.ts";
+
+// ─── Helpers ───────────────────────────────────────────────────────────────────
+
+/** Format a number with k suffix. */
+function formatKNumber(n: number): string {
+	if (n >= 1000) {
+		const v = n / 1000;
+		return v % 1 === 0 ? `${v}k` : `${v.toFixed(1)}k`;
+	}
+	return String(n);
+}
 
 // ─── Config ────────────────────────────────────────────────────────────────────
 
@@ -152,6 +168,29 @@ export function createGitHubSource(cache: Cache, opts: GitHubSourceOptions = {})
 	return {
 		name: "github",
 		source: EntrySource.GitHubSearch,
+		displayName: "GitHub",
+		priority: 1,
+		healthCap: 100,
+		suggestedCategory: null,
+
+		normalizeUrl(url: string): string {
+			return url;
+		},
+
+		extractId(url: string): string {
+			const ghMatch = url.match(/github\.com\/([^/]+\/[^/]+)/);
+			if (ghMatch?.[1]) return ghMatch[1].replace("/", "-");
+			return url.split("/").filter(Boolean).pop() ?? url;
+		},
+
+		formatPopularity(entry: CategorizedEntry): string {
+			const meta = entry.metadata as Record<string, unknown>;
+			const stars = meta["stars"];
+			if (typeof stars === "number" && stars > 0) {
+				return `\u2B50${formatKNumber(stars)}`;
+			}
+			return "";
+		},
 
 		async discover(writer: DiscoveryWriter): Promise<void> {
 			for (const term of repoQueries) {

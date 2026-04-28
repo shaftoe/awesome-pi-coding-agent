@@ -8,7 +8,8 @@
  */
 
 import type { Entry, Health, HealthDimensions } from "../core/types.ts";
-import { EntrySource, HealthLevel } from "../core/types.ts";
+import { HealthLevel } from "../core/types.ts";
+import { getHealthCap } from "../sources/index.ts";
 
 // ─── Weights ───────────────────────────────────────────────────────────────────
 
@@ -21,8 +22,6 @@ const W_DEPTH = 0.15;
 
 /** Maximum score for entries with no date metadata at all. */
 const CAP_NO_DATES = 39;
-/** Maximum score for YouTube entries (no ongoing maintenance). */
-const CAP_YOUTUBE = 60;
 
 // ─── Public API ────────────────────────────────────────────────────────────────
 
@@ -56,9 +55,10 @@ export function computeHealth(entry: Entry, dims: HealthDimensions): Health {
 		score = Math.min(score, CAP_NO_DATES);
 	}
 
-	// Hard rule: YouTube → cap at Maintained
-	if (entry.source === EntrySource.YouTubeSearch) {
-		score = Math.min(score, CAP_YOUTUBE);
+	// Hard rule: source-specific health cap
+	const cap = getHealthCap(entry.source);
+	if (cap < 100) {
+		score = Math.min(score, cap);
 	}
 
 	// Clamp to 0–100

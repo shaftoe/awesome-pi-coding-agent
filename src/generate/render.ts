@@ -9,7 +9,8 @@ import "../../src/core/temporal.ts";
 
 import { sortEntries } from "../core/sort.ts";
 import { formatBuildTimestamp } from "../core/timestamp.ts";
-import type { CategorizedEntry, EntrySource, HealthLevel } from "../core/types.ts";
+import type { CategorizedEntry, HealthLevel } from "../core/types.ts";
+import { formatPopularity, getDisplayName } from "../sources/index.ts";
 
 // ─── Health badge ──────────────────────────────────────────────────────────────
 
@@ -80,40 +81,6 @@ function relativeTime(isoDate: string): string {
 	}
 }
 
-// ─── Popularity formatting ────────────────────────────────────────────────────
-
-function formatPopularity(entry: CategorizedEntry): string {
-	const meta = entry.metadata as Record<string, unknown>;
-
-	// YouTube entries: views
-	const views = meta["views"];
-	if (typeof views === "number" && views > 0) {
-		return `\u{1F4FA}${formatNumber(views)}`;
-	}
-
-	// GitHub entries: stars
-	const stars = meta["stars"];
-	if (typeof stars === "number" && stars > 0) {
-		return `\u2B50${formatNumber(stars)}`;
-	}
-
-	// npm entries: monthly downloads
-	const downloads = meta["npm_downloads_monthly"];
-	if (typeof downloads === "number" && downloads > 0) {
-		return `\u2B07 ${formatNumber(downloads)}/mo`;
-	}
-
-	return "";
-}
-
-function formatNumber(n: number): string {
-	if (n >= 1000) {
-		const v = n / 1000;
-		return v % 1 === 0 ? `${v}k` : `${v.toFixed(1)}k`;
-	}
-	return String(n);
-}
-
 // ─── Updated date ─────────────────────────────────────────────────────────────
 
 function formatUpdated(entry: CategorizedEntry): string {
@@ -135,25 +102,6 @@ function escapeMarkdown(text: string): string {
 }
 
 // sortEntries lives in core/sort.ts — shared with site
-
-// ─── Source counts ─────────────────────────────────────────────────────────────
-
-function sourceLabel(source: EntrySource): string {
-	switch (source) {
-		case "npm-search":
-			return "npm";
-		case "github-search":
-			return "GitHub";
-		case "youtube-search":
-			return "YouTube";
-		case "discord":
-			return "Discord";
-		case "manual":
-			return "Manual";
-		default:
-			return source;
-	}
-}
 
 // ─── Render table section ─────────────────────────────────────────────────────
 
@@ -248,7 +196,7 @@ Status: \u{1F7E2} Active \u00b7 \u{1F7E1} Maintained \u00b7 \u{1F7E0} Stale \u00
 	// ── Footer ──
 	const sourceParts = Object.entries(opts.bySource)
 		.sort(([, a], [, b]) => b - a)
-		.map(([src, count]) => `${sourceLabel(src as EntrySource)}: ${count}`)
+		.map(([src, count]) => `${getDisplayName(src as CategorizedEntry["source"])}: ${count}`)
 		.join(", ");
 	const now = Temporal.Now.instant().toString().substring(0, 10);
 

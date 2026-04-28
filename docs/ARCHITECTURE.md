@@ -81,7 +81,7 @@ src/
     temporal.ts                       Temporal polyfill (remove when Bun ships native)
     blacklist.ts                      URL blacklist with timestamps + discovery metadata
     store.ts                          Entry store facade (FileRepository<CategorizedEntry>)
-    ids.ts                            URL → human-readable ID derivation
+    ids.ts                            *(removed — ID derivation now in each source's `extractId()`)*
     html.ts                           HTML entity decoding
     dedup.ts                          Duplicate detection (URL + GitHub URL cross-ref)
     sort.ts                           Canonical entry ordering (health level → score → name)
@@ -192,20 +192,21 @@ Other types:
 | `DiscoveryCandidate` | Raw discovery output: url, source, optional hint/id/metadata |
 | `BlacklistEntry` | url + reason + blacklisted_at + source + optional discovery metadata |
 
-### URL Normalization
+### Source-owned Methods
 
-All URLs are normalized to a canonical form at the earliest pipeline entry point (`writeRaw()` in the discover stage) via `normalizeUrl()` in `sources/source.ts`. This ensures:
+Each source implements several methods on the `Source` interface that were previously scattered across shared modules:
 
-1. **Storage consistency** — the same resource always hashes to the same filename, regardless of URL variant (e.g. `www.youtube.com` vs `youtube.com`).
-2. **Blacklist reliability** — the blacklist CLI normalizes user-provided URLs before lookup, so `add`, `check`, and `remove` work regardless of `www.` prefix.
+| Method | Purpose | Was previously |
+|--------|---------|----------------|
+| `normalizeUrl(url)` | Normalize URLs to canonical form (e.g. YouTube `www.` strip, `youtu.be` expansion) | `normalizeUrl()` in `sources/source.ts` (all sources mixed together) |
+| `extractId(url)` | Derive a human-readable ID from a URL (e.g. npm name, GitHub `owner-repo`, `YT_<id>`) | `extractId()` in `core/ids.ts` |
+| `formatPopularity(entry)` | Format popularity metadata for README table (e.g. `⭐314`, `📺10.5k`) | Inline logic in `generate/render.ts` |
+| `displayName` | Human-readable source name for README footer | `sourceLabel()` switch in `generate/render.ts` |
+| `priority` | Dedup priority (lower wins, npm=0, GitHub=1, etc.) | `SOURCE_PRIORITY` map in `process/index.ts` |
+| `healthCap` | Max health score (e.g. 60 for YouTube) | `CAP_YOUTUBE` constant in `enrich/health.ts` |
+| `suggestedCategory` | Category override (e.g. YouTube → Video) | `isYouTubeUrl()` in `enrich/classify.ts` |
 
-Current normalizations:
-
-| Pattern | Canonical form |
-|---------|---------------|
-| `https://www.youtube.com/...` | `https://youtube.com/...` |
-
-New normalizations should be added to `normalizeUrl()` in `sources/source.ts`.
+Pipeline stages dispatch to the correct source via `sources/index.ts` helper functions: `getSource()`, `normalizeUrl()`, `extractId()`, `formatPopularity()`, `getDisplayName()`, `getHealthCap()`, `getSuggestedCategory()`, `getPriority()`.
 
 ### `repository.ts` — Generic Repository Interface
 
@@ -242,7 +243,7 @@ Composes `ThrottledFetcher` + `Cache` into a paginator.
 | `blacklist.ts` | Load/save URL blacklist (`data/blacklist.json`). Grown by the filter stage. Each entry has url, reason, blacklisted_at (ISO-8601), source (e.g. "filter", "manual", "import"), and optional discovery metadata (source name + query). |
 | `store.ts` | Entry store facade for `data/`. Delegates to `FileRepository<CategorizedEntry>`. |
 | `sort.ts` | Canonical entry ordering (health level → score → name). Shared by README render and site. |
-| `ids.ts` | URL → human-readable ID: npm name, GitHub `owner-repo`, YouTube `YT_<videoId>`. |
+| `ids.ts` | *(removed — ID derivation is now a method on the `Source` interface, dispatched via `sources/index.ts`)* |
 | `html.ts` | HTML entity decoding. Used by YouTube title/description parsing. |
 | `dedup.ts` | Duplicate detection by URL + GitHub URL cross-reference. Used by the process stage. |
 | `terms.ts` | Canonical `SEARCH_TERMS` array shared by all sources. |
@@ -584,7 +585,7 @@ Each entry receives a `Health` object: `{ score: 0–100, level: HealthLevel }`.
 
 - `archived: true` → `Dead` immediately (score = 0)
 - No `pushed_at` / `published_at` at all → cap at `Stale` (max 39)
-- YouTube entries → cap at `Maintained` (max score 60)
+- Source-specific health cap (e.g. YouTube → cap at `Maintained`, max score 60) — defined by each source's `healthCap` property
 
 ### Generic formula
 

@@ -22,7 +22,7 @@ import { Cache } from "../core/cache.ts";
 import { EntrySource } from "../core/types.ts";
 import { writeRaw } from "../discover/runner.ts";
 import { DiscoveryWriter } from "../discover/writer.ts";
-import { normalizeUrl } from "../sources/source.ts";
+import { normalizeUrl } from "../sources/index.ts";
 
 const ROOT_DIR = join(import.meta.dir, "..", "..");
 const CACHE_DIR = join(ROOT_DIR, ".cache");

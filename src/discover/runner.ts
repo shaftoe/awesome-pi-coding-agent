@@ -8,7 +8,6 @@
 
 import type { DiscoveryCandidate, EntrySource } from "../core/types.ts";
 import type { DiscoveryResult, Source, WriteResult } from "../sources/source.ts";
-import { normalizeUrl } from "../sources/source.ts";
 import type { DiscoveryWriter } from "./writer.ts";
 
 // ─── Runner ────────────────────────────────────────────────────────────────────
@@ -65,6 +64,7 @@ export async function runDiscovery(
 
 /**
  * Write a batch of raw results as candidates. No filtering, no rejection.
+ * URLs should already be normalized by the source before calling this.
  * Returns counts for logging.
  */
 export function writeRaw(
@@ -76,9 +76,8 @@ export function writeRaw(
 	let written = 0;
 
 	for (const r of results) {
-		const url = normalizeUrl(r.url);
 		const candidate: DiscoveryCandidate = {
-			url,
+			url: r.url,
 			source: sourceTag,
 		};
 		if (r.hint !== undefined) candidate.hint = r.hint;

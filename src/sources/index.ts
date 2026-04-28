@@ -3,8 +3,8 @@
  */
 
 import type { Cache } from "../core/cache.ts";
-import type { Entry, HealthDimensions } from "../core/types.ts";
-import { EntrySource } from "../core/types.ts";
+import type { CategorizedEntry, Entry, HealthDimensions } from "../core/types.ts";
+import { type Category, EntrySource } from "../core/types.ts";
 import { createGitHubSource } from "./github.ts";
 import { createNpmSource } from "./npm.ts";
 import type { Source } from "./source.ts";
@@ -116,7 +116,110 @@ export function createAllSources(cache: Cache, overrides: SourceOverrides = {}):
 	return sources;
 }
 
-// ─── Health scorer registry ──────────────────────────────────────────────────
+// ─── Convenience dispatchers (for CLI tools and pipeline stages) ─────────────
+
+/** All known source instances for dispatching. */
+function allKnownSources(): Source[] {
+	return [
+		createNpmSource(null as never, { offline: true }),
+		createGitHubSource(null as never, { offline: true }),
+		createYouTubeSource(null as never, { offline: true }) ?? UNKNOWN_SOURCE,
+	];
+}
+
+/**
+ * Normalize a URL by applying the matching source's normalizer.
+ * Tries each source's normalizeUrl; falls back to identity.
+ */
+export function normalizeUrl(url: string): string {
+	for (const source of allKnownSources()) {
+		const normalized = source.normalizeUrl(url);
+		if (normalized !== url) return normalized;
+	}
+	return url;
+}
+
+/**
+ * Extract a human-readable ID from a URL using the matching source.
+ * Tries each source's extractId; falls back to last URL segment.
+ */
+export function extractId(url: string): string {
+	for (const source of allKnownSources()) {
+		const id = source.extractId(url);
+		const fallback = url.split("/").filter(Boolean).pop() ?? url;
+		if (id !== fallback) return id;
+	}
+	return url.split("/").filter(Boolean).pop() ?? url;
+}
+
+/** Format an entry's popularity for the README table using its source. */
+export function formatPopularity(entry: CategorizedEntry): string {
+	return getSource(entry.source).formatPopularity(entry);
+}
+
+/** Get a source's display name. */
+export function getDisplayName(source: EntrySource): string {
+	return getSource(source).displayName;
+}
+
+/** Get a source's health cap. */
+export function getHealthCap(source: EntrySource): number {
+	return getSource(source).healthCap;
+}
+
+/** Get a source's suggested category (or null). */
+export function getSuggestedCategory(source: EntrySource): Category | null {
+	return getSource(source).suggestedCategory;
+}
+
+/** Get a source's priority. */
+export function getPriority(source: EntrySource): number {
+	return getSource(source).priority;
+}
+
+// ─── Source registry ───────────────────────────────────────────────────────────
+
+/** Default source for unknown EntrySource values. */
+const UNKNOWN_SOURCE: Source = {
+	name: "unknown",
+	source: "manual" as EntrySource,
+	displayName: "Manual",
+	priority: 99,
+	healthCap: 100,
+	suggestedCategory: null,
+	discover: async () => {},
+	scoreHealthDimensions: () => ({ freshness: 5, popularity: 5, activity: 5, depth: 5 }),
+	normalizeUrl: (url: string) => url,
+	extractId: (url: string) => url.split("/").filter(Boolean).pop() ?? url,
+	formatPopularity: () => "",
+};
+
+/** Lazy-populated registry of source instances by EntrySource. */
+const sourceCache = new Map<EntrySource, Source>();
+
+/** Get a source instance by EntrySource. Returns UNKNOWN_SOURCE for unrecognized values. */
+export function getSource(source: EntrySource): Source {
+	if (sourceCache.has(source)) return sourceCache.get(source) as Source;
+
+	let src: Source | null = null;
+	switch (source) {
+		case EntrySource.NpmSearch:
+			src = createNpmSource(null as never, { offline: true });
+			break;
+		case EntrySource.GitHubSearch:
+			src = createGitHubSource(null as never, { offline: true });
+			break;
+		case EntrySource.YouTubeSearch:
+			src = createYouTubeSource(null as never, { offline: true });
+			break;
+	}
+
+	const result = src ?? UNKNOWN_SOURCE;
+	sourceCache.set(source, result);
+	return result;
+}
+
+// ─── Health scorer registry (convenience) ─────────────────────────────────────
 
 /** Default scorer for unknown sources: all dimensions minimal. */
 function defaultScorer(_entry: Entry): HealthDimensions {
@@ -138,25 +241,8 @@ export function getHealthScorer(source: EntrySource): (entry: Entry) => HealthDi
 		return cached ? cached : defaultScorer;
 	}
 
-	let scorer: ((entry: Entry) => HealthDimensions) | null = null;
-
-	switch (source) {
-		case EntrySource.NpmSearch: {
-			const s = createNpmSource(null as never, { offline: true });
-			scorer = s.scoreHealthDimensions;
-			break;
-		}
-		case EntrySource.GitHubSearch: {
-			const s = createGitHubSource(null as never, { offline: true });
-			scorer = s.scoreHealthDimensions;
-			break;
-		}
-		case EntrySource.YouTubeSearch: {
-			const yt = createYouTubeSource(null as never, { offline: true });
-			if (yt) scorer = yt.scoreHealthDimensions;
-			break;
-		}
-	}
+	const src = getSource(source);
+	const scorer = src !== UNKNOWN_SOURCE ? src.scoreHealthDimensions : null;
 
 	scorerCache.set(source, scorer);
 	return scorer ?? defaultScorer;

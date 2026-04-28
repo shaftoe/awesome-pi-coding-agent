@@ -13,7 +13,8 @@
  * See docs/classification.md for the full design rationale.
  */
 
-import { type CategorizedEntry, Category, type Entry } from "../core/types.ts";
+import { type CategorizedEntry, Category, type Entry, type EntrySource } from "../core/types.ts";
+import { getSuggestedCategory } from "../sources/index.ts";
 
 // ─── Keywords ──────────────────────────────────────────────────────────────────
 
@@ -43,12 +44,6 @@ const THEME_KEYWORDS = [
 ] as const;
 
 // ─── Helpers ───────────────────────────────────────────────────────────────────
-
-const YOUTUBE_HOSTS = ["youtube.com", "youtu.be"];
-
-function isYouTubeUrl(url: string): boolean {
-	return YOUTUBE_HOSTS.some((h) => url.includes(h));
-}
 
 /** Check if any keyword appears in the text (case-insensitive). */
 function matchesAny(text: string, keywords: readonly string[]): boolean {
@@ -114,9 +109,10 @@ function classifyByKeywords(name: string, description: string): Category {
 export function classifyEntry(entry: Entry): CategorizedEntry {
 	let category: Category;
 
-	// 1. YouTube URLs → video
-	if (isYouTubeUrl(entry.url)) {
-		category = Category.Video;
+	// 1. Source suggested category (e.g. YouTube → Video)
+	const suggested = getSuggestedCategory(entry.source as EntrySource);
+	if (suggested) {
+		category = suggested;
 	}
 	// 2. README scores (from enrichment)
 	else {

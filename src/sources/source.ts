@@ -6,7 +6,13 @@
  * (discover, process) are generic orchestrators that call Source methods.
  */
 
-import type { Entry, EntrySource, HealthDimensions } from "../core/types.ts";
+import type {
+	CategorizedEntry,
+	Category,
+	Entry,
+	EntrySource,
+	HealthDimensions,
+} from "../core/types.ts";
 import type { DiscoveryWriter } from "../discover/writer.ts";
 
 // ─── Source interface ──────────────────────────────────────────────────────────
@@ -16,6 +22,14 @@ export interface Source {
 	readonly name: string;
 	/** Source tag applied to candidates. */
 	readonly source: EntrySource;
+	/** Display name for README footer (e.g. "YouTube", "npm"). */
+	readonly displayName: string;
+	/** Priority for dedup — lower wins (npm=0, GitHub=1, etc.). */
+	readonly priority: number;
+	/** Maximum health score (e.g. 60 for sources that can't be "Active"). Default: 100. */
+	readonly healthCap: number;
+	/** Category override — e.g. YouTube always classifies as Video. Default: null. */
+	readonly suggestedCategory: Category | null;
 	/** Run discovery, streaming candidates to the writer. Should not throw. */
 	discover(writer: DiscoveryWriter): Promise<void>;
 	/**
@@ -38,25 +52,12 @@ export interface Source {
 	 * This is a stateless pure function — no instance state is needed.
 	 */
 	scoreHealthDimensions(entry: Entry): HealthDimensions;
-}
-
-// ─── URL normalization ─────────────────────────────────────────────────────────
-
-/**
- * Canonical URL form — strips source-specific inconsistencies.
- *
- * Default: identity (no-op). Sources with known URL variants (e.g. YouTube
- * with/without `www.`) override this to ensure stored URLs always match.
- */
-
-/** Generic URL normalizer — applies all known source normalizations. */
-export function normalizeUrl(url: string): string {
-	// YouTube: canonical form is https://youtube.com/watch?v=ID
-	// Strip www.
-	url = url.replace(/^(https?:\/\/)(www\.)youtube\./, "$1youtube.");
-	// Expand youtu.be short URLs
-	url = url.replace(/^https?:\/\/youtu\.be\/([\w-]+)(\?.*)?$/, "https://youtube.com/watch?v=$1");
-	return url;
+	/** Normalize a URL to canonical form (e.g. strip www., expand short URLs). */
+	normalizeUrl(url: string): string;
+	/** Derive a human-readable entry ID from a URL. */
+	extractId(url: string): string;
+	/** Format an entry's popularity metadata for the README table. Return "" for none. */
+	formatPopularity(entry: CategorizedEntry): string;
 }
 
 // ─── Supporting types ──────────────────────────────────────────────────────────

@@ -13,11 +13,27 @@ import type { Cache } from "../core/cache.ts";
 import { paginate } from "../core/paginate.ts";
 import { SEARCH_TERMS } from "../core/terms.ts";
 import { ThrottledFetcher } from "../core/throttle.ts";
-import { type Entry, EntrySource, type HealthDimensions } from "../core/types.ts";
+import {
+	type CategorizedEntry,
+	type Entry,
+	EntrySource,
+	type HealthDimensions,
+} from "../core/types.ts";
 import { writeRaw } from "../discover/runner.ts";
 import type { DiscoveryWriter } from "../discover/writer.ts";
 import { clamp, scoreFreshness, scoreMetric01 } from "./scoring.ts";
 import type { Source } from "./source.ts";
+
+// ─── Helpers ───────────────────────────────────────────────────────────────────
+
+/** Format a number with k suffix. */
+function formatKNumber(n: number): string {
+	if (n >= 1000) {
+		const v = n / 1000;
+		return v % 1 === 0 ? `${v}k` : `${v.toFixed(1)}k`;
+	}
+	return String(n);
+}
 
 // ─── Config ────────────────────────────────────────────────────────────────────
 
@@ -140,6 +156,31 @@ export function createNpmSource(cache: Cache, opts: NpmSourceOptions = {}): Sour
 	return {
 		name: "npm",
 		source: EntrySource.NpmSearch,
+		displayName: "npm",
+		priority: 0,
+		healthCap: 100,
+		suggestedCategory: null,
+
+		normalizeUrl(url: string): string {
+			return url;
+		},
+
+		extractId(url: string): string {
+			if (url.includes("npmjs.com/package/")) {
+				const packagePath = url.split("npmjs.com/package/")[1];
+				return decodeURIComponent(packagePath?.replace(/\/+$/, "") ?? "");
+			}
+			return url.split("/").filter(Boolean).pop() ?? url;
+		},
+
+		formatPopularity(entry: CategorizedEntry): string {
+			const meta = entry.metadata as Record<string, unknown>;
+			const downloads = meta["npm_downloads_monthly"];
+			if (typeof downloads === "number" && downloads > 0) {
+				return `\u2B07 ${formatKNumber(downloads)}/mo`;
+			}
+			return "";
+		},
 
 		async discover(writer: DiscoveryWriter): Promise<void> {
 			for (const term of queries) {

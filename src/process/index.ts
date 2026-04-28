@@ -10,30 +10,29 @@ import "../core/temporal.ts";
 import { existsSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 import { buildIndices, checkDuplicate } from "../core/dedup.ts";
-import { extractId } from "../core/ids.ts";
 import { getEntryRepo, saveEntry } from "../core/store.ts";
-import { type Entry, EntrySource, HealthLevel } from "../core/types.ts";
+import { type Entry, HealthLevel } from "../core/types.ts";
 import { loadDiscoveryLines } from "../discover/writer.ts";
 import { classifyEntry } from "../enrich/classify.ts";
 import { computeHealth } from "../enrich/health.ts";
-import { getHealthScorer } from "../sources/index.ts";
+import { extractId, getHealthScorer, getPriority } from "../sources/index.ts";
 
 const ROOT_DIR = join(import.meta.dir, "..", "..");
 const DATA_DIR = join(ROOT_DIR, "data");
 const CACHE_DIR = join(ROOT_DIR, ".cache");
 const FILTERED_DIR = join(CACHE_DIR, "filtered");
 
+/** Source priority for dedup — delegated to source.priority. */
+function sourcePriority(source: string): number {
+	try {
+		return getPriority(source as Entry["source"]);
+	} catch {
+		return 9;
+	}
+}
+
 // biome-ignore lint/suspicious/noConsole: CLI output
 const log = console.log;
-
-/** Source priority: npm wins over GitHub. */
-const SOURCE_PRIORITY: Record<string, number> = {
-	[EntrySource.NpmSearch]: 0,
-	[EntrySource.GitHubSearch]: 1,
-	[EntrySource.YouTubeSearch]: 2,
-	[EntrySource.Discord]: 3,
-	[EntrySource.Manual]: 4,
-};
 
 // ─── Command ───────────────────────────────────────────────────────────────────
 
@@ -51,16 +50,18 @@ export async function cmdProcess(): Promise<void> {
 	log("📋 Loading filtered candidates...");
 	const lines = loadDiscoveryLines(FILTERED_DIR);
 
-	// Sort by source priority (npm first so npm entries are saved before GitHub counterparts)
+	// Sort by source priority (delegated to source.priority)
 	const sorted = [...lines].sort(
-		(a, b) =>
-			(SOURCE_PRIORITY[a.discovery.source] ?? 9) - (SOURCE_PRIORITY[b.discovery.source] ?? 9),
+		(a, b) => sourcePriority(a.discovery.source) - sourcePriority(b.discovery.source),
 	);
 
-	const npmCount = sorted.filter((l) => l.discovery.source === EntrySource.NpmSearch).length;
-	const ghCount = sorted.filter((l) => l.discovery.source === EntrySource.GitHubSearch).length;
-	const ytCount = sorted.filter((l) => l.discovery.source === EntrySource.YouTubeSearch).length;
-	log(`Sorted: ${npmCount} npm, ${ghCount} github, ${ytCount} youtube\n`);
+	const sourceCounts = new Map<string, number>();
+	for (const line of sorted) {
+		const src = line.discovery.source;
+		sourceCounts.set(src, (sourceCounts.get(src) ?? 0) + 1);
+	}
+	const countStr = [...sourceCounts.entries()].map(([s, c]) => `${c} ${s}`).join(", ");
+	log(`Sorted: ${countStr}\n`);
 
 	// Build dedup indices from existing entries
 	const entryRepo = getEntryRepo();
@@ -76,16 +77,15 @@ export async function cmdProcess(): Promise<void> {
 		const dup = checkDuplicate(discovery, indices);
 
 		if (dup.isDuplicate) {
-			// npm-over-GitHub replacement: if the candidate is from npm and the
-			// existing entry is a GitHub URL, replace it with the npm canonical URL.
+			// Priority-based replacement: if the incoming candidate has higher
+			// priority (lower number) than the existing entry, replace it.
 			if (
-				discovery.source === EntrySource.NpmSearch &&
 				dup.existingEntry &&
-				dup.existingEntry.url.includes("github.com")
+				sourcePriority(discovery.source) < sourcePriority(dup.existingEntry.source)
 			) {
 				entryRepo.delete(dup.existingEntry.url);
 				indices.byUrl.delete(dup.existingEntry.url);
-				// Fall through to save the npm entry below
+				// Fall through to save the new entry below
 				replaced++;
 			} else {
 				duplicates++;

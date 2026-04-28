@@ -13,11 +13,28 @@ import type { Cache } from "../core/cache.ts";
 import { decodeHtmlEntities } from "../core/html.ts";
 import { SEARCH_TERMS } from "../core/terms.ts";
 import { ThrottledFetcher } from "../core/throttle.ts";
-import { type Entry, EntrySource, type HealthDimensions } from "../core/types.ts";
+import {
+	type CategorizedEntry,
+	Category,
+	type Entry,
+	EntrySource,
+	type HealthDimensions,
+} from "../core/types.ts";
 import { writeRaw } from "../discover/runner.ts";
 import type { DiscoveryWriter } from "../discover/writer.ts";
 import { clamp, scoreFreshness } from "./scoring.ts";
 import type { Source } from "./source.ts";
+
+// ─── Helpers ───────────────────────────────────────────────────────────────────
+
+/** Format a number with k suffix. */
+function formatKNumber(n: number): string {
+	if (n >= 1000) {
+		const v = n / 1000;
+		return v % 1 === 0 ? `${v}k` : `${v.toFixed(1)}k`;
+	}
+	return String(n);
+}
 
 // ─── Config ────────────────────────────────────────────────────────────────────
 
@@ -222,6 +239,38 @@ export function createYouTubeSource(cache: Cache, opts: YouTubeSourceOptions = {
 	return {
 		name: "youtube",
 		source: EntrySource.YouTubeSearch,
+		displayName: "YouTube",
+		priority: 2,
+		healthCap: 60,
+		suggestedCategory: Category.Video,
+
+		normalizeUrl(url: string): string {
+			// Strip www.
+			url = url.replace(/^(https?:\/\/)(www\.)youtube\./, "$1youtube.");
+			// Expand youtu.be short URLs
+			url = url.replace(
+				/^https?:\/\/youtu\.be\/([\w-]+)(\?.*)?$/,
+				"https://youtube.com/watch?v=$1",
+			);
+			return url;
+		},
+
+		extractId(url: string): string {
+			if (url.includes("youtube.com") || url.includes("youtu.be")) {
+				const videoId = url.match(/[?&]v=([^&]+)/)?.[1] ?? url.split("/").pop() ?? "";
+				return `YT_${videoId}`;
+			}
+			return url.split("/").filter(Boolean).pop() ?? url;
+		},
+
+		formatPopularity(entry: CategorizedEntry): string {
+			const meta = entry.metadata as Record<string, unknown>;
+			const views = meta["views"];
+			if (typeof views === "number" && views > 0) {
+				return `\u{1F4FA}${formatKNumber(views)}`;
+			}
+			return "";
+		},
 
 		async discover(writer: DiscoveryWriter): Promise<void> {
 			for (const term of queries) {

@@ -18,7 +18,7 @@ import {
 	saveBlacklist,
 } from "../core/blacklist.ts";
 import { deleteEntry } from "../core/store.ts";
-import { normalizeUrl } from "../sources/source.ts";
+import { normalizeUrl } from "../sources/index.ts";
 
 const [, , command, ...args] = process.argv;
 
