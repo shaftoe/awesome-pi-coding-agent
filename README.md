@@ -6,7 +6,7 @@ A curated, auto-discovered directory of resources for the [Pi Coding Agent](http
 
 Content available as Markdown here and as website (with search feature) live at <https://awesome-pi.site>.
 
-> Last updated: 2026-04-29 20:56 UTC
+> Last updated: 2026-04-29 20:58 UTC
 
 
 ## Stats
@@ -208,7 +208,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [@m64/pi-screenshot-tools](https://www.npmjs.com/package/@m64/pi-screenshot-tools) | Screenshot skill and inline screenshot extension for pi | ⬇ 812/mo | 16d ago |
 | 🟢 | [@mcowger/pi-better-messages-cache](https://www.npmjs.com/package/@mcowger/pi-better-messages-cache) | Pi extension: dual cache-breakpoint strategy for Anthropic models — marks both the last assistant tool_use block and the last user message block with cache_control, dramatically improving cache hit ra | ⬇ 114/mo | 6d ago |
 | 🟢 | [@miclivs/pi-psst](https://www.npmjs.com/package/@miclivs/pi-psst) | Pi extension that injects psst vault secrets into bash and scrubs them from output | ⬇ 240/mo | 22d ago |
-| 🟢 | [@ogulcancelik/pi-flicker](https://www.npmjs.com/package/@ogulcancelik/pi-flicker) | A pi extension that brings Claude Code flicker to pi | ⬇ 143/mo | 27d ago |
+| 🟢 | [@ogulcancelik/pi-flicker](https://www.npmjs.com/package/@ogulcancelik/pi-flicker) | A pi extension that brings Claude Code flicker to pi | ⬇ 143/mo | 28d ago |
 | 🟢 | [@opperai/pi-provider](https://www.npmjs.com/package/@opperai/pi-provider) | Opper AI gateway provider and tools for the pi coding agent | ⬇ 247/mo | 6d ago |
 | 🟢 | [@p8n.ai/pi-remembers](https://www.npmjs.com/package/@p8n.ai/pi-remembers) | Pi extension for persistent agent memory and project search powered by Cloudflare AI Search. The North Remembers. | ⬇ 356/mo | 7d ago |
 | 🟢 | [@panzenbaby/pi-secure-extension](https://www.npmjs.com/package/@panzenbaby/pi-secure-extension) | A Pi extension that performs security audits on other extensions before install or update. Uses the currently selected AI model to analyze extension source code against configurable audit rules. | ⬇ 341/mo | 4d ago |
@@ -563,7 +563,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟢 | [pi-upgrade](https://www.npmjs.com/package/pi-upgrade) | Pi extension that adds a /upgrade command to self-upgrade pi | ⬇ 140/mo | ~1mo ago |
 | 🟢 | [pi-worlds](https://www.npmjs.com/package/pi-worlds) | Pi extension for generating 3D worlds via the World Labs Marble API | ⬇ 145/mo | ~1mo ago |
 | 🟢 | [HazAT-pi-config](https://github.com/HazAT/pi-config) | My personal pi coding agent configuration - skills and extensions | ⭐314 | 12d ago |
-| 🟢 | [@agnishc/edb-session-manager](https://www.npmjs.com/package/@agnishc/edb-session-manager) | Pi extension: browse, resume, rename, and delete sessions with fuzzy search |  | today |
+| 🟢 | [@agnishc/edb-session-manager](https://www.npmjs.com/package/@agnishc/edb-session-manager) | Pi extension: browse, resume, rename, and delete sessions with fuzzy search |  | yesterday |
 | 🟢 | [@akepka/pi-cursor-cli-provider](https://www.npmjs.com/package/@akepka/pi-cursor-cli-provider) | Cursor CLI provider extension for Pi |  | 3d ago |
 | 🟢 | [@amb007/deep-wiki](https://www.npmjs.com/package/@amb007/deep-wiki) | AI-powered wiki generator for code repositories - Pi Coding Agent skill |  | 3d ago |
 | 🟢 | [@anistark/iconify](https://www.npmjs.com/package/@anistark/iconify) | Turn a logo into a full favicon set from your terminal — pi extension + CLI |  | 3d ago |
@@ -2320,7 +2320,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [butttons-pi-action-runner](https://github.com/butttons/pi-action-runner) | GitHub Action that runs AI-powered PR reviews using pi coding agent | ⭐2 | ~1mo ago |
 | 🟡 | [cdias900-pi-subagent](https://github.com/cdias900/pi-subagent) | Multi-agent orchestration for PI — spawn specialized agents, coordinate teams, share context | ⭐1 | ~1mo ago |
 | 🟡 | [ditfetzt-pi-cline-free-models](https://github.com/ditfetzt/pi-cline-free-models) |  | ⭐4 | 2mo ago |
-| 🟡 | [dkmaker-pi-project](https://github.com/dkmaker/pi-project) | Pi Package: AI-Optimized Project Management Framework for Pi Coding Agent | ⭐1 | ~1mo ago |
+| 🟡 | [dkmaker-pi-project](https://github.com/dkmaker/pi-project) | Pi Package: AI-Optimized Project Management Framework for Pi Coding Agent | ⭐1 | 2mo ago |
 | 🟡 | [ghoseb-pi-splash](https://github.com/ghoseb/pi-splash) | A simple splash screen for pi coding agent. | ⭐1 | ~1mo ago |
 | 🟡 | [IanZhengruShen-pi-agent-chatbot-platform](https://github.com/IanZhengruShen/pi-agent-chatbot-platform) | chatbot built on top of pi-coding-agent |  | ~1mo ago |
 | 🟡 | [marcfargas-pi-planner](https://github.com/marcfargas/pi-planner) | Persistent, auditable plan-then-execute workflow for pi agents | ⭐1 | 2mo ago |
