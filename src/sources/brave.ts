@@ -45,7 +45,16 @@ const EXCLUDED_DOMAINS = [
 	"youtube.com",
 	"youtu.be",
 	"news.ycombinator.com",
-].join(",");
+];
+
+/** Per-domain hostname variants to also exclude at the URL level. */
+const EXTRA_HOST_VARIANTS: Record<string, string[]> = {
+	"npmjs.com": ["www.npmjs.com"],
+	"youtube.com": ["www.youtube.com", "m.youtube.com"],
+};
+
+/** Hostnames to exclude at the URL level — base domains plus their variants. */
+const EXCLUDED_HOSTS = EXCLUDED_DOMAINS.flatMap((d) => [d, ...(EXTRA_HOST_VARIANTS[d] ?? [])]);
 
 /** Default queries: canonical search terms as plain text. */
 const DEFAULT_QUERIES = [...SEARCH_TERMS];
@@ -89,17 +98,7 @@ function isExcludedUrl(url: string): boolean {
 	try {
 		const parsed = new URL(url);
 		const hostname = parsed.hostname.toLowerCase();
-		const excludedHosts = [
-			"npmjs.com",
-			"www.npmjs.com",
-			"github.com",
-			"youtube.com",
-			"www.youtube.com",
-			"m.youtube.com",
-			"youtu.be",
-			"news.ycombinator.com",
-		];
-		return excludedHosts.some((domain) => hostname === domain || hostname.endsWith(`.${domain}`));
+		return EXCLUDED_HOSTS.some((domain) => hostname === domain || hostname.endsWith(`.${domain}`));
 	} catch {
 		return true; // Invalid URLs are excluded
 	}
@@ -131,9 +130,7 @@ async function fetchPage(
 	offline?: boolean,
 ): Promise<{ items: BraveResult[]; nextOffset: number | null }> {
 	// Build query with site exclusions
-	const excludeQuery = EXCLUDED_DOMAINS.split(",")
-		.map((d) => `-site:${d}`)
-		.join(" ");
+	const excludeQuery = EXCLUDED_DOMAINS.map((d) => `-site:${d}`).join(" ");
 	const fullQuery = `${term} ${excludeQuery}`;
 
 	const url = `${BRAVE_SEARCH_URL}?q=${encodeURIComponent(fullQuery)}&count=${PAGE_SIZE}&offset=${offset}`;
