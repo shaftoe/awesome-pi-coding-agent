@@ -6,6 +6,7 @@ import type { Cache } from "../core/cache.ts";
 import type { CategorizedEntry, Entry, HealthDimensions } from "../core/types.ts";
 import { type Category, EntrySource } from "../core/types.ts";
 import { createGitHubSource } from "./github.ts";
+import { createHackerNewsSource } from "./hackernews.ts";
 import { createNpmSource } from "./npm.ts";
 import type { Source } from "./source.ts";
 import { createYouTubeSource } from "./youtube.ts";
@@ -17,12 +18,14 @@ export interface SourceOverrides {
 	githubRepoQueries?: string[];
 	/** Override YouTube search queries. Pass empty array to skip YouTube entirely. */
 	youtubeQueries?: string[];
+	/** Override Hacker News search queries. Pass empty array to skip HN entirely. */
+	hackerNewsQueries?: string[];
 	/** Run all sources in offline mode — only cached responses. */
 	offline?: boolean;
 }
 
 /** Prefixes recognized by parseQueryPrefix(). */
-export type QueryTarget = "npm" | "gh" | "yt";
+export type QueryTarget = "npm" | "gh" | "yt" | "hn";
 
 /** Parse a query string with a required source prefix.
  *
@@ -30,10 +33,11 @@ export type QueryTarget = "npm" | "gh" | "yt";
  *   - `"npm:pi-coding-agent"`    → { target: "npm", term: "pi-coding-agent" }
  *   - `"gh:pi-extension"`        → { target: "gh", term: "pi-extension" }
  *   - `"yt:pi coding agent"`     → { target: "yt", term: "pi coding agent" }
+ *   - `"hn:pi coding agent"`     → { target: "hn", term: "pi coding agent" }
  *   - `"pi-coding-agent"`        → throws (prefix required)
  */
 export function parseQueryPrefix(raw: string): { target: QueryTarget; term: string } {
-	const match = raw.match(/^(npm|gh|yt):(.+)$/s);
+	const match = raw.match(/^(npm|gh|yt|hn):(.+)$/s);
 	if (match?.[1] && match[2]) {
 		return { target: match[1] as QueryTarget, term: match[2] };
 	}
@@ -47,6 +51,7 @@ export function parseQueryPrefix(raw: string): { target: QueryTarget; term: stri
  * - `npm:` queries      → npmQueries
  * - `gh:` queries       → githubRepoQueries
  * - `yt:` queries       → youtubeQueries
+ * - `hn:` queries       → hackerNewsQueries
  * - Sources that receive queries run only those queries (no defaults).
  * - Sources NOT mentioned get `[]` to skip them entirely.
  * - When no queries are provided at all, returns {} so sources use defaults.
@@ -56,12 +61,14 @@ export function routeQueries(rawQueries: string[]): {
 	npmQueries?: string[];
 	githubRepoQueries?: string[];
 	youtubeQueries?: string[];
+	hackerNewsQueries?: string[];
 } {
 	if (rawQueries.length === 0) return {};
 
 	const npm: string[] = [];
 	const ghRepo: string[] = [];
 	const yt: string[] = [];
+	const hn: string[] = [];
 
 	for (const raw of rawQueries) {
 		const { target, term } = parseQueryPrefix(raw);
@@ -75,6 +82,9 @@ export function routeQueries(rawQueries: string[]): {
 			case "yt":
 				yt.push(term);
 				break;
+			case "hn":
+				hn.push(term);
+				break;
 		}
 	}
 
@@ -84,6 +94,7 @@ export function routeQueries(rawQueries: string[]): {
 		npmQueries: npm,
 		githubRepoQueries: ghRepo,
 		youtubeQueries: yt,
+		hackerNewsQueries: hn,
 	};
 }
 
@@ -113,6 +124,12 @@ export function createAllSources(cache: Cache, overrides: SourceOverrides = {}):
 	const ytSource = createYouTubeSource(cache, ytOpts);
 	if (ytSource) sources.push(ytSource);
 
+	// Hacker News — always available (no API key required)
+	const hnOpts: { queries?: string[]; offline?: boolean } = {};
+	if (overrides.hackerNewsQueries) hnOpts.queries = overrides.hackerNewsQueries;
+	if (overrides.offline) hnOpts.offline = overrides.offline;
+	sources.push(createHackerNewsSource(cache, hnOpts));
+
 	return sources;
 }
 
@@ -124,6 +141,7 @@ function allKnownSources(): Source[] {
 		createNpmSource(null as never, { offline: true }),
 		createGitHubSource(null as never, { offline: true }),
 		createYouTubeSource(null as never, { offline: true }) ?? UNKNOWN_SOURCE,
+		createHackerNewsSource(null as never, { offline: true }),
 	];
 }
 
@@ -211,6 +229,9 @@ export function getSource(source: EntrySource): Source {
 			break;
 		case EntrySource.YouTubeSearch:
 			src = createYouTubeSource(null as never, { offline: true });
+			break;
+		case EntrySource.HackerNewsSearch:
+			src = createHackerNewsSource(null as never, { offline: true });
 			break;
 	}
 

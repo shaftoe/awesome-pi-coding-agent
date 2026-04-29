@@ -23,6 +23,13 @@ describe("parseQueryPrefix", () => {
 		});
 	});
 
+	test("parses hn: prefix", () => {
+		expect(parseQueryPrefix("hn:pi coding agent")).toEqual({
+			target: "hn",
+			term: "pi coding agent",
+		});
+	});
+
 	test("throws on unprefixed query", () => {
 		expect(() => parseQueryPrefix("pi-coding-agent")).toThrow("source prefix required");
 	});
@@ -39,6 +46,7 @@ describe("routeQueries", () => {
 			npmQueries: ["pi-coding-agent", "pi-package"],
 			githubRepoQueries: [],
 			youtubeQueries: [],
+			hackerNewsQueries: [],
 		});
 	});
 
@@ -48,6 +56,7 @@ describe("routeQueries", () => {
 			npmQueries: [],
 			githubRepoQueries: ["pi-theme", "topic:pi-agent"],
 			youtubeQueries: [],
+			hackerNewsQueries: [],
 		});
 	});
 
@@ -57,15 +66,32 @@ describe("routeQueries", () => {
 			npmQueries: [],
 			githubRepoQueries: [],
 			youtubeQueries: ["pi coding agent"],
+			hackerNewsQueries: [],
+		});
+	});
+
+	test("routes hn: queries to hackerNewsQueries", () => {
+		const result = routeQueries(["hn:pi coding agent"]);
+		expect(result).toEqual({
+			npmQueries: [],
+			githubRepoQueries: [],
+			youtubeQueries: [],
+			hackerNewsQueries: ["pi coding agent"],
 		});
 	});
 
 	test("routes mixed queries to correct buckets", () => {
-		const result = routeQueries(["npm:pi-coding-agent", "gh:pi-theme", "yt:pi coding agent"]);
+		const result = routeQueries([
+			"npm:pi-coding-agent",
+			"gh:pi-theme",
+			"yt:pi coding agent",
+			"hn:pi agent",
+		]);
 		expect(result).toEqual({
 			npmQueries: ["pi-coding-agent"],
 			githubRepoQueries: ["pi-theme"],
 			youtubeQueries: ["pi coding agent"],
+			hackerNewsQueries: ["pi agent"],
 		});
 	});
 
@@ -79,6 +105,7 @@ describe("routeQueries", () => {
 		expect(result.npmQueries).toEqual([]);
 		expect(result.githubRepoQueries).toEqual(["pi-theme"]);
 		expect(result.youtubeQueries).toEqual([]);
+		expect(result.hackerNewsQueries).toEqual([]);
 	});
 
 	test("throws on unprefixed query", () => {
