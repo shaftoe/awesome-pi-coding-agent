@@ -43,7 +43,7 @@ Each stage is a self-contained step that reads from one location and writes to t
 
 | Stage | Input | Output | Responsibilities |
 |-------|-------|--------|------------------|
-| **1. Discover** | APIs (npm, GitHub, YouTube, Hacker News) | `.cache/candidates/` | Gather raw candidates, cache API responses. **No filtering.** |
+| **1. Discover** | APIs (npm, GitHub, YouTube, Hacker News, Brave Search) | `.cache/candidates/` | Gather raw candidates, cache API responses. **No filtering.** |
 | **2. Filter** | `.cache/candidates/` | `.cache/filtered/` | Relevance filtering, blacklist management. Irrelevant entries are added to blacklist. |
 | **3. Process** | `.cache/filtered/` | `data/` | npm-over-GitHub dedup, classification, health scoring, enrichment. Writes canonical entries. |
 | **4. Generate** | `data/` | `README.md` | Render awesome-list from canonical entries. |
@@ -93,6 +93,7 @@ src/
     github.ts                         GitHub search (repos)
     youtube.ts                        YouTube Data API (token-based pagination)
     hackernews.ts                     Hacker News via Algolia API (story search)
+    brave.ts                          Brave Web Search API (blog posts, articles)
     index.ts                          Source registry: createAllSources, getHealthScorer, routeQueries
     index.test.ts
     scoring.ts                        Shared scoring helpers (scoreFreshness, scoreMetric01, etc.)
@@ -179,7 +180,7 @@ All domain vocabularies use TypeScript string enums for compile-time safety and 
 | Enum | Values |
 |------|-------|
 | `Category` | `Extension`, `Theme`, `Video`, `Misc` |
-| `EntrySource` | `GitHubSearch`, `NpmSearch`, `YouTubeSearch`, `HackerNewsSearch`, `Discord`, `Manual` |
+| `EntrySource` | `GitHubSearch`, `NpmSearch`, `YouTubeSearch`, `HackerNewsSearch`, `BraveWebSearch`, `Discord`, `Manual` |
 | `HealthLevel` | `Active`, `Maintained`, `Stale`, `Dead` |
 
 `CATEGORIES` is a `Category[]` in priority order (`Extension > Theme > Video > Misc`), iterable at runtime.
@@ -383,6 +384,26 @@ ID: `HN_<objectId>`.
 
 **Note:** HN stories that point to external URLs (GitHub repos, blog posts) are included. Text-only "Ask HN" posts without URLs are filtered out during discovery.
 
+#### Brave Web Search (`sources/brave.ts`) ✅
+
+Brave Web Search API (`api.search.brave.com/res/v1/web/search`). Requires `BRAVE_API_KEY` env var. Gracefully skipped if missing.
+
+**Strategy:** Searches for canonical Pi Coding Agent terms but **excludes** npm, GitHub, YouTube, and HN domains since those are already covered by dedicated sources. Focuses on discovering blog posts, articles, tutorials, and other web content.
+
+**Default queries:** canonical search terms as plain text (same as HN).
+
+ID: `BRAVE_<domain>_<slug>` derived from the URL.
+
+**Metadata fields captured:**
+
+| Field | Type | Source | Health relevance |
+|-------|------|--------|-----------------|
+| `title` / `name` | `string` | `result.title` | Identifier, classification |
+| `description` | `string` | `result.description` | Classification, filter |
+| `published_at` | `string \| null` | `result.page_age` or `result.age` | Freshness |
+| `source_site` | `string \| null` | `result.profile.name` | Authority signal |
+| `source_url` | `string \| null` | `result.profile.url` | Authority signal |
+
 ### DiscoveryWriter (`discover/writer.ts`)
 
 Pure write-through to `.cache/candidates/`. No dedup, no filtering. Tracks per-source counts for reporting.
@@ -470,6 +491,7 @@ Two files: `index.ts` (CLI entry point) and `render.ts` (pure rendering logic, e
 | GitHub | Stars | `⭐<n>` | `⭐314` |
 | npm | Monthly downloads | `⬇ <n>/mo` | `⬇ 20.5k/mo` |
 | Hacker News | Points | `📌<n>` | `📌314` |
+| Brave Search | Source site | `🌐<name>` | `🌐Dev.to` |
 
 All sources store the relevant metric in metadata at discovery (YouTube via enrichment phase). No additional API calls needed at render time.
 
@@ -658,6 +680,17 @@ Each entry receives a `Health` object: `{ score: 0–100, level: HealthLevel }`.
 | **Activity** (20%) | `num_comments` | ≥ 100 → 100, ≥ 50 → 70, ≥ 10 → 40, ≥ 1 → 20, 0 → 5 |
 | **Depth** (15%) | — | Always 0 (HN stories have no code depth) |
 
+#### Brave Web Search
+
+| Dimension | Metadata fields | Scoring |
+|-----------|----------------|----------|
+| **Freshness** (35%) | `published_at` (`page_age` / `age`) | Standard scoreFreshness thresholds |
+| **Popularity** (30%) | — | Fixed 30 (no numeric metric available from Brave) |
+| **Activity** (20%) | — | Fixed 10 (no meaningful signal for web articles) |
+| **Depth** (15%) | — | Always 0 (web articles have no code depth) |
+
+**Note:** Brave Web Search has a health cap of 60 (Maintained) since web articles lack the popularity/activity signals needed to reach Active status.
+
 ### Cross-source boost
 
 When an npm entry has a `github_url` pointing to a GitHub repo also in the dataset, the higher of the two popularity scores is used for the npm entry. This is handled in `process/index.ts` before calling `computeHealth()`.
@@ -674,6 +707,7 @@ The canonical key is the **URL** itself. Filenames are SHA-256 hashes of the URL
 | GitHub | `https://github.com/shaftoe/pi-mcp` | `shaftoe-pi-mcp` | `data/entries/d4e5f67890a1b2c3.json` |
 | YouTube | `https://youtube.com/watch?v=ID` | `YT_ID` | `data/entries/7890a1b2c3d4e5f6.json` |
 | Hacker News | `https://news.ycombinator.com/item?id=123` | `HN_123` | `data/entries/f67890a1b2c3d4e5.json` |
+| Brave Search | `https://example.com/blog/pi-coding-agent` | `BRAVE_example.com_pi-coding-agent` | `data/entries/b1c2d3e4f5a6b7c8.json` |
 
 **Dedup rule: npm wins over GitHub.** If an npm package and a GitHub repo represent the same project, the npm URL is the canonical key. The process stage resolves this by sorting npm entries first and replacing GitHub entries when cross-referenced via `github_url`.
 
@@ -705,7 +739,7 @@ data/                              Meta files
 | Command | Stage | Description |
 |---------|-------|-------------|
 | `bun run discover` | 1 | Gather candidates from APIs + cache responses |
-| `bun run discover -- --query [source:]term` | 1 | Override source queries (prefixes: `npm:`, `gh:`, `yt:`) |
+| `bun run discover -- --query [source:]term` | 1 | Override source queries (prefixes: `npm:`, `gh:`, `yt:`, `hn:`, `brave:`) |
 | `bun run discover -- --offline` | 1 | Only use cached API responses |
 | `bun run filter` | 2 | Filter candidates → grow blacklist → write survivors |
 | `bun run process` | 3 | Dedup + classify + enrich → write canonical entries |
