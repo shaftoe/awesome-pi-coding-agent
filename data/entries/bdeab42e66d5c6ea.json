@@ -1,0 +1,41 @@
+{
+  "id": "code-yeongyu-pi-rules",
+  "name": "code-yeongyu-pi-rules",
+  "url": "https://github.com/code-yeongyu/pi-rules",
+  "source": "github-search",
+  "description": "Rule context loader extension for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/code-yeongyu/pi-rules",
+    "repo_full_name": "code-yeongyu/pi-rules",
+    "description": "Rule context loader extension for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 4,
+    "topics": [
+      "agent-rules",
+      "agents-md",
+      "claude-md",
+      "context-injection",
+      "extension",
+      "oh-my-openagent",
+      "omo",
+      "pi",
+      "pi-coding-agent",
+      "pi-mono",
+      "rules"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-29T08:05:46Z",
+    "pushed_at": "2026-04-29T08:09:31Z",
+    "updated_at": "2026-04-29T08:06:34Z",
+    "size": 0,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

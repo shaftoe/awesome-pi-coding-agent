@@ -1,0 +1,33 @@
+{
+  "id": "desktop-notify-kitty",
+  "name": "desktop-notify-kitty",
+  "url": "https://www.npmjs.com/package/desktop-notify-kitty",
+  "source": "npm-search",
+  "description": "Pi extension that sends desktop notifications via notify-send when a kitty terminal session needs attention.",
+  "metadata": {
+    "github_url": "https://github.com/cjrh/desktop-notify-kitty",
+    "npm_name": "desktop-notify-kitty",
+    "description": "Pi extension that sends desktop notifications via notify-send when a kitty terminal session needs attention.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "kitty",
+      "notify-send",
+      "desktop-notification"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-04-28T16:59:42.875Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

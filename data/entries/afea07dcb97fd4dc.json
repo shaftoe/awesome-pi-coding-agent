@@ -1,0 +1,33 @@
+{
+  "id": "@carlosgtrz/pi-codex-aliases",
+  "name": "@carlosgtrz/pi-codex-aliases",
+  "url": "https://www.npmjs.com/package/@carlosgtrz/pi-codex-aliases",
+  "source": "npm-search",
+  "description": "Pi extension that adds personal and work aliases for the built-in OpenAI Codex provider.",
+  "metadata": {
+    "github_url": "https://github.com/CarlosGtrz/carlosgtrz-pi-extensions",
+    "npm_name": "@carlosgtrz/pi-codex-aliases",
+    "description": "Pi extension that adds personal and work aliases for the built-in OpenAI Codex provider.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "codex",
+      "openai"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-04-29T04:46:50.219Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

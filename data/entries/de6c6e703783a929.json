@@ -1,0 +1,35 @@
+{
+  "id": "pi-chatgpt-usage-status",
+  "name": "pi-chatgpt-usage-status",
+  "url": "https://www.npmjs.com/package/pi-chatgpt-usage-status",
+  "source": "npm-search",
+  "description": "Pi extension that shows ChatGPT 5h and weekly rate-limit usage in the status bar.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-chatgpt-usage-status",
+    "description": "Pi extension that shows ChatGPT 5h and weekly rate-limit usage in the status bar.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "chatgpt",
+      "openai",
+      "codex",
+      "rate-limit",
+      "status-bar"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-04-29T04:28:58.806Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

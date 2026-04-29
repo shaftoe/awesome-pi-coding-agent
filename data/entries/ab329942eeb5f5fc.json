@@ -1,0 +1,29 @@
+{
+  "id": "hunvreus-pi-hosts",
+  "name": "hunvreus-pi-hosts",
+  "url": "https://github.com/hunvreus/pi-hosts",
+  "source": "github-search",
+  "description": "Give the Pi coding agent access to your servers.",
+  "metadata": {
+    "github_url": "https://github.com/hunvreus/pi-hosts",
+    "repo_full_name": "hunvreus/pi-hosts",
+    "description": "Give the Pi coding agent access to your servers.",
+    "stars": 15,
+    "forks": 2,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-28T05:25:34Z",
+    "pushed_at": "2026-04-29T02:14:57Z",
+    "updated_at": "2026-04-29T07:25:15Z",
+    "size": 89,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

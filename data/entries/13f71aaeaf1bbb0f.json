@@ -1,0 +1,34 @@
+{
+  "id": "pi-hosts",
+  "name": "pi-hosts",
+  "url": "https://www.npmjs.com/package/pi-hosts",
+  "source": "npm-search",
+  "description": "Run commands on remote hosts from Pi.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-hosts",
+    "description": "Run commands on remote hosts from Pi.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "ssh",
+      "remote-exec",
+      "host-inventory"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-04-29T01:11:02.903Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

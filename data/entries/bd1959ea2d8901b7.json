@@ -1,0 +1,44 @@
+{
+  "id": "@jayjanii/pi-minimax-mcp",
+  "name": "@jayjanii/pi-minimax-mcp",
+  "url": "https://www.npmjs.com/package/@jayjanii/pi-minimax-mcp",
+  "source": "npm-search",
+  "description": "MiniMax MCP tools for pi - Web search and image understanding via MiniMax's Model Context Protocol",
+  "metadata": {
+    "github_url": "https://github.com/jayjanii/pi-minimax-mcp",
+    "npm_name": "@jayjanii/pi-minimax-mcp",
+    "description": "MiniMax MCP tools for pi - Web search and image understanding via MiniMax's Model Context Protocol",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "pi-mcp",
+      "pi-tool",
+      "pi-ai",
+      "ai",
+      "minimax",
+      "mcp",
+      "mcp-server",
+      "web-search",
+      "image-understanding",
+      "model-context-protocol",
+      "coding-agent",
+      "agent-tools"
+    ],
+    "version": "1.0.4",
+    "published_at": "2026-04-29T07:20:59.475Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}
