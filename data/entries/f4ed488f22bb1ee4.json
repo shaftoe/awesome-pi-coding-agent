@@ -1,0 +1,29 @@
+{
+  "id": "kevinsimper-pi-extensions",
+  "name": "kevinsimper-pi-extensions",
+  "url": "https://github.com/kevinsimper/pi-extensions",
+  "source": "github-search",
+  "description": "Two extensions for pi-coding-agent: read-folder (auto-load directory contents) and user-input (token counter footer)",
+  "metadata": {
+    "github_url": "https://github.com/kevinsimper/pi-extensions",
+    "repo_full_name": "kevinsimper/pi-extensions",
+    "description": "Two extensions for pi-coding-agent: read-folder (auto-load directory contents) and user-input (token counter footer)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-29T09:29:27Z",
+    "pushed_at": "2026-04-29T09:29:30Z",
+    "updated_at": "2026-04-29T09:29:34Z",
+    "size": 5,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

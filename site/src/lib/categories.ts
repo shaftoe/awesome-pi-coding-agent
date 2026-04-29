@@ -42,6 +42,13 @@ export const CATEGORY_META: Record<Category, CategoryMeta> = {
 		title: "Videos & Tutorials",
 		description: "Talks, tutorials, walkthroughs, and demos from the community.",
 	},
+	article: {
+		slug: "article",
+		href: "/articles",
+		icon: "📰",
+		title: "Articles",
+		description: "Blog posts, discussions, and community coverage from around the web.",
+	},
 	misc: {
 		slug: "misc",
 		href: "/misc",

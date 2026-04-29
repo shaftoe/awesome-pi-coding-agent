@@ -1,0 +1,24 @@
+{
+  "id": "HN_46579787",
+  "name": "Show HN: Pi-coding-agent: Emacs front end for AI-assisted coding",
+  "url": "https://github.com/dnouri/pi-coding-agent",
+  "source": "hackernews-search",
+  "description": "A new Emacs mode for AI-assisted coding (Claude Code style), with native Emacs buffers instead of a flickering terminal.<p>Built on top of pi, a no-bs open source Claude Code alternative. It supports Claude, GPT, Gemini, Ollama. I&#x27;ve been using it daily for weeks.<p>Demo video that says more than $NUMBER words: <a href=\"https:&#x2F;&#x2F;danielnouri.org&#x2F;media&#x2F;pi-coding-agent-demo.mp4\" rel=\"nofollow\">https:&#x2F;&#x2F;danielnouri.org&#x2F;media&#x2F;pi-coding-agent-demo.mp4</a><p>The key decision here is that we have two separate windows: chat history is a markdown-mode buffer, with beautiful rendering, unlimted scrollback, selective tool expansion where it matters, etc. The input window stays visible while you paste, edit, compose. And doesn&#x27;t stumble over newlines either. ;-)<p>Other useful things:<p>- Streaming output (watch commands run live)<p>- Syntax-highlighted code blocks and diffs<p>- Collapsible tool output with TAB<p>- Magit-style transient menu (C-c C-p)<p>- Branch&#x2F;resume sessions, export to HTML<p>GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;dnouri&#x2F;pi-coding-agent\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;dnouri&#x2F;pi-coding-agent</a><p>It&#x27;s on MELPA as: pi-coding-agent<p>pi&#x27;s homepage: <a href=\"https:&#x2F;&#x2F;shittycodingagent.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;shittycodingagent.ai&#x2F;</a>",
+  "metadata": {
+    "title": "Show HN: Pi-coding-agent: Emacs front end for AI-assisted coding",
+    "name": "Show HN: Pi-coding-agent: Emacs front end for AI-assisted coding",
+    "description": "A new Emacs mode for AI-assisted coding (Claude Code style), with native Emacs buffers instead of a flickering terminal.<p>Built on top of pi, a no-bs open source Claude Code alternative. It supports Claude, GPT, Gemini, Ollama. I&#x27;ve been using it daily for weeks.<p>Demo video that says more than $NUMBER words: <a href=\"https:&#x2F;&#x2F;danielnouri.org&#x2F;media&#x2F;pi-coding-agent-demo.mp4\" rel=\"nofollow\">https:&#x2F;&#x2F;danielnouri.org&#x2F;media&#x2F;pi-coding-agent-demo.mp4</a><p>The key decision here is that we have two separate windows: chat history is a markdown-mode buffer, with beautiful rendering, unlimted scrollback, selective tool expansion where it matters, etc. The input window stays visible while you paste, edit, compose. And doesn&#x27;t stumble over newlines either. ;-)<p>Other useful things:<p>- Streaming output (watch commands run live)<p>- Syntax-highlighted code blocks and diffs<p>- Collapsible tool output with TAB<p>- Magit-style transient menu (C-c C-p)<p>- Branch&#x2F;resume sessions, export to HTML<p>GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;dnouri&#x2F;pi-coding-agent\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;dnouri&#x2F;pi-coding-agent</a><p>It&#x27;s on MELPA as: pi-coding-agent<p>pi&#x27;s homepage: <a href=\"https:&#x2F;&#x2F;shittycodingagent.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;shittycodingagent.ai&#x2F;</a>",
+    "author": "dnouri",
+    "published_at": "2026-01-11T20:41:28Z",
+    "points": 4,
+    "num_comments": 0,
+    "hn_id": "46579787",
+    "external_url": "https://github.com/dnouri/pi-coding-agent",
+    "discovery_hint": "hackernews:pi-coding-agent"
+  },
+  "health": {
+    "score": 25,
+    "level": "stale"
+  },
+  "category": "article"
+}

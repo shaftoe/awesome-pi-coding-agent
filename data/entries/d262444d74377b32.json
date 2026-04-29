@@ -1,0 +1,33 @@
+{
+  "id": "@micuintus/llm-wiki",
+  "name": "@micuintus/llm-wiki",
+  "url": "https://www.npmjs.com/package/@micuintus/llm-wiki",
+  "source": "npm-search",
+  "description": "Karpathy's LLM Wiki pattern as a minimal, agent-agnostic skill for Pi",
+  "metadata": {
+    "github_url": "https://github.com/micuintus/llm-wiki",
+    "npm_name": "@micuintus/llm-wiki",
+    "description": "Karpathy's LLM Wiki pattern as a minimal, agent-agnostic skill for Pi",
+    "keywords": [
+      "pi-package",
+      "llm-wiki",
+      "karpathy",
+      "knowledge-base",
+      "second-brain"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-04-29T12:38:40.107Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "wobondar-pi-double-paste",
+  "name": "wobondar-pi-double-paste",
+  "url": "https://github.com/wobondar/pi-double-paste",
+  "source": "github-search",
+  "description": "pi extension: Paste a long block once to collapse it, paste it again to expand it in the editor.",
+  "metadata": {
+    "github_url": "https://github.com/wobondar/pi-double-paste",
+    "repo_full_name": "wobondar/pi-double-paste",
+    "description": "pi extension: Paste a long block once to collapse it, paste it again to expand it in the editor.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-coding-agent",
+      "pi-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-28T19:55:42Z",
+    "pushed_at": "2026-04-28T23:50:01Z",
+    "updated_at": "2026-04-29T14:35:52Z",
+    "size": 212,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

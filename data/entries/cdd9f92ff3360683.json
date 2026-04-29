@@ -1,0 +1,24 @@
+{
+  "id": "HN_47430624",
+  "name": "Show HN: HF-agents, CLI extension to find the best model/quant for your hardware",
+  "url": "https://github.com/huggingface/hf-agents",
+  "source": "hackernews-search",
+  "description": "We&#x27;ve been building out CLI extensions for the Hugging Face hub, and hf-agents is a fun one to share.<p>It uses llmfit under the hood to profile your hardware and automatically select the best-fit model and quantization — no manual GGUF hunting. It then launches a Pi Agent on top of it. One command, local, fully open.<p>If you&#x27;ve been using Claude Code or Codex CLI and want something that runs entirely on your own hardware&#x2F;models, this is a nice lightweight alternative to try.<p>Happy to answer questions — and curious what hardware setups people are running this on.",
+  "metadata": {
+    "title": "Show HN: HF-agents, CLI extension to find the best model/quant for your hardware",
+    "name": "Show HN: HF-agents, CLI extension to find the best model/quant for your hardware",
+    "description": "We&#x27;ve been building out CLI extensions for the Hugging Face hub, and hf-agents is a fun one to share.<p>It uses llmfit under the hood to profile your hardware and automatically select the best-fit model and quantization — no manual GGUF hunting. It then launches a Pi Agent on top of it. One command, local, fully open.<p>If you&#x27;ve been using Claude Code or Codex CLI and want something that runs entirely on your own hardware&#x2F;models, this is a nice lightweight alternative to try.<p>Happy to answer questions — and curious what hardware setups people are running this on.",
+    "author": "clmnt",
+    "published_at": "2026-03-18T19:54:19Z",
+    "points": 2,
+    "num_comments": 0,
+    "hn_id": "47430624",
+    "external_url": "https://github.com/huggingface/hf-agents",
+    "discovery_hint": "hackernews:pi-agent"
+  },
+  "health": {
+    "score": 32,
+    "level": "stale"
+  },
+  "category": "article"
+}
