@@ -1,0 +1,29 @@
+{
+  "id": "Nick-Wolf-HLK-pi-tscg",
+  "name": "Nick-Wolf-HLK-pi-tscg",
+  "url": "https://github.com/Nick-Wolf-HLK/pi-tscg",
+  "source": "github-search",
+  "description": "Drop-in tool-schema and tool-result compression plugin for the Pi coding-agent. Built on  @tscg/core.",
+  "metadata": {
+    "github_url": "https://github.com/Nick-Wolf-HLK/pi-tscg",
+    "repo_full_name": "Nick-Wolf-HLK/pi-tscg",
+    "description": "Drop-in tool-schema and tool-result compression plugin for the Pi coding-agent. Built on  @tscg/core.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-28T20:27:57Z",
+    "pushed_at": "2026-04-29T07:05:36Z",
+    "updated_at": "2026-04-29T07:05:38Z",
+    "size": 97,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

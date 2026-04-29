@@ -1,0 +1,34 @@
+{
+  "id": "pi-sync-suite",
+  "name": "pi-sync-suite",
+  "url": "https://www.npmjs.com/package/pi-sync-suite",
+  "source": "npm-search",
+  "description": "Cross-platform Pi extension for config sync, chat exports, safe cleanup, and native TUI controls.",
+  "metadata": {
+    "github_url": "https://github.com/MuratAitov/pi-sync",
+    "npm_name": "pi-sync-suite",
+    "description": "Cross-platform Pi extension for config sync, chat exports, safe cleanup, and native TUI controls.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "sync",
+      "git",
+      "chat-export"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-04-28T23:34:32.915Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

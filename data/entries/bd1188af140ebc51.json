@@ -1,0 +1,29 @@
+{
+  "id": "ubergarm-dotpi",
+  "name": "ubergarm-dotpi",
+  "url": "https://github.com/ubergarm/dotpi",
+  "source": "github-search",
+  "description": "Configuration for first class llama-server support with pi.dev agentic coding harness.",
+  "metadata": {
+    "github_url": "https://github.com/ubergarm/dotpi",
+    "repo_full_name": "ubergarm/dotpi",
+    "description": "Configuration for first class llama-server support with pi.dev agentic coding harness.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-28T18:04:27Z",
+    "pushed_at": "2026-04-29T02:33:57Z",
+    "updated_at": "2026-04-29T02:34:01Z",
+    "size": 102,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rpollard00-pi-materia",
+  "name": "rpollard00-pi-materia",
+  "url": "https://github.com/rpollard00/pi-materia",
+  "source": "github-search",
+  "description": "Pi extension for socketable agent pipelines.",
+  "metadata": {
+    "github_url": "https://github.com/rpollard00/pi-materia",
+    "repo_full_name": "rpollard00/pi-materia",
+    "description": "Pi extension for socketable agent pipelines.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-28T19:40:22Z",
+    "pushed_at": "2026-04-28T22:03:24Z",
+    "updated_at": "2026-04-28T22:03:28Z",
+    "size": 56,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}
