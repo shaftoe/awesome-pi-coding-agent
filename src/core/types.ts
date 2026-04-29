@@ -8,13 +8,14 @@
 // ─── Categories ────────────────────────────────────────────────────────────────
 
 /**
- * Four categories: extension wins over theme, video is URL-only, misc is the catch-all.
+ * Five categories: extension wins over theme, video is URL-only, article for HN/blog content, misc is the catch-all.
  * @see docs/classification.md
  */
 export enum Category {
 	Extension = "extension",
 	Theme = "theme",
 	Video = "video",
+	Article = "article",
 	Misc = "misc",
 }
 
@@ -23,6 +24,7 @@ export const CATEGORIES: readonly Category[] = [
 	Category.Extension,
 	Category.Theme,
 	Category.Video,
+	Category.Article,
 	Category.Misc,
 ];
 

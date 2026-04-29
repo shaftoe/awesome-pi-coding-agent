@@ -47,6 +47,11 @@ const CATEGORY_META: Record<string, CategoryMeta> = {
 		description: "Talks, tutorials, walkthroughs, and demos from the community.",
 		table: true,
 	},
+	article: {
+		heading: "Articles",
+		description: "Blog posts, discussions, and community coverage from around the web.",
+		table: true,
+	},
 	misc: {
 		heading: "Miscellaneous",
 		description:
@@ -56,7 +61,7 @@ const CATEGORY_META: Record<string, CategoryMeta> = {
 };
 
 /** Priority order for categories in the TOC and body. */
-const CATEGORY_ORDER = ["extension", "theme", "video", "misc"] as const;
+const CATEGORY_ORDER = ["extension", "theme", "video", "article", "misc"] as const;
 
 // ─── Relative time formatting ─────────────────────────────────────────────────
 

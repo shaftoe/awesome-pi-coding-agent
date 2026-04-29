@@ -1,7 +1,7 @@
 /**
  * Category classification — assign entries to one of four categories.
  *
- * Priority: extension > theme > video > misc
+ * Priority: extension > theme > video > article > misc
  *
  * Signals (in order):
  *   1. YouTube URLs → video (deterministic)
@@ -64,7 +64,8 @@ function mapCategory(raw: string): Category | null {
 		template: Category.Misc,
 		video: Category.Video,
 		example: Category.Misc,
-		documentation: Category.Misc,
+		documentation: Category.Article,
+		article: Category.Article,
 		skill: Category.Extension,
 	};
 	return mapping[raw] ?? null;

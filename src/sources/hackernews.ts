@@ -18,6 +18,7 @@ import { SEARCH_TERMS } from "../core/terms.ts";
 import { ThrottledFetcher } from "../core/throttle.ts";
 import {
 	type CategorizedEntry,
+	Category,
 	type Entry,
 	EntrySource,
 	type HealthDimensions,
@@ -46,7 +47,7 @@ interface HNHit {
 	title: string;
 	author: string;
 	created_at: string;
-	url: string | null;
+	url: string | null | undefined;
 	points: number;
 	num_comments: number;
 	story_text: string | null;
@@ -158,7 +159,7 @@ async function fetchQuery(
 	// Filter: only include stories that point to an external URL
 	// (text-only "Ask HN" posts have no discoverable resource)
 	return allItems
-		.filter((hit) => hit.url !== null && hit.url.length > 0)
+		.filter((hit) => hit.url != null && hit.url.length > 0)
 		.map((r) => toCandidate(r, term));
 }
 
@@ -175,7 +176,7 @@ export function createHackerNewsSource(cache: Cache, opts: HackerNewsSourceOptio
 		displayName: "Hacker News",
 		priority: 3,
 		healthCap: 60,
-		suggestedCategory: null,
+		suggestedCategory: Category.Article,
 
 		normalizeUrl(url: string): string {
 			// Expand HN short links to canonical form

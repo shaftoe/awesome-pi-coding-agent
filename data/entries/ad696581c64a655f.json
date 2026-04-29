@@ -1,0 +1,29 @@
+{
+  "id": "lucacorbucci-pi-peer-review",
+  "name": "lucacorbucci-pi-peer-review",
+  "url": "https://github.com/lucacorbucci/pi-peer-review",
+  "source": "github-search",
+  "description": "A simple pi.dev extension to spawn agents to review your ML papers",
+  "metadata": {
+    "github_url": "https://github.com/lucacorbucci/pi-peer-review",
+    "repo_full_name": "lucacorbucci/pi-peer-review",
+    "description": "A simple pi.dev extension to spawn agents to review your ML papers",
+    "stars": 1,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-28T19:27:52Z",
+    "pushed_at": "2026-04-29T06:42:47Z",
+    "updated_at": "2026-04-29T08:25:12Z",
+    "size": 21,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

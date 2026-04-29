@@ -14922,5 +14922,455 @@
 		"reason": "not pi coding agent: about Siemens TIA Portal industrial PLC",
 		"blacklisted_at": "2026-04-29T08:13:49.674Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=Gp0om2qNCw8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.623Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=M-VU0fLjIUU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.626Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=X2ciJedw2vU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.632Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=pAIF7vZm5k0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.636Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/can1357/oh-my-pi",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-04-29T20:36:09.647Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.tomshardware.com/news/raspberry-pi-package-security-system",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-04-29T20:36:09.652Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=n5f51gtuGHE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.654Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://buildwithpi.ai/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.656Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-theme"
+		}
+	},
+	{
+		"url": "https://shittycodingagent.ai/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.665Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/jademind/pi-statusbar",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.68Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/Krystofee/true-queue",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.693Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=obQH1cDckxQ",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-04-29T20:36:09.695Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.7Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://pi.dev/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.708Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=oXYzNAUXDr0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.715Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=6rYq-1UkTpg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.727Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ELt2LU_mbuk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.729Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=B9R16e7TM98",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.731Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=yAPKzHrx3eo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.743Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "http://www.fox5dc.com/news/local-news/254852337-story",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.746Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/joelreymont/pz",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.759Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.761Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=saRP08t_7QU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.779Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://patloeber.com/gemma-4-pi-agent/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.78Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=DkkRL59z7mA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.782Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=uuV1DcvObsg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.783Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=jWovuuTmZ6M",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.799Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=cyOpUI2CquA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.808Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=lkMzPX9l5I4",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-04-29T20:36:09.813Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/ArafatDiaa/agent-pit",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.819Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/abdellah0x0/agentic-devsecops-pipeline",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.832Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=MA1XeMcbivU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.835Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.akashtandon.in/interactive-explainers/pi-agent/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.844Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=O-96yYDPMOc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.857Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=aimSGOAUI8Y",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.863Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/vahidkowsari/pi-local-rag",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.864Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=PdBepSymSMc",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-04-29T20:36:09.867Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.youtube.com/watch?v=XqFun9XCXPw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.872Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=97j8Knw-c-8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.882Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=exGPgSfHs9M",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.883Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=qTcTyxs88BA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.885Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=BbzQt73JfFI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.89Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Hy7iE1iLmxw",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-04-29T20:36:09.901Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=S7hYOU-_4XA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.906Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=fzeErfyO1Eo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-29T20:36:09.933Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
 	}
 ]

@@ -54,6 +54,7 @@ export default defineConfig({
 						{ label: "🔌 Extensions", link: "/extensions" },
 						{ label: "🎨 Themes", link: "/themes" },
 						{ label: "🎬 Videos & Tutorials", link: "/videos" },
+						{ label: "📰 Articles", link: "/articles" },
 						{ label: "📦 Miscellaneous", link: "/misc" },
 					],
 				},

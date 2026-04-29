@@ -1,0 +1,29 @@
+{
+  "id": "rfgamaral-pi-config",
+  "name": "rfgamaral-pi-config",
+  "url": "https://github.com/rfgamaral/pi-config",
+  "source": "github-search",
+  "description": "Personal harness configuration for the Pi coding agent: extensions, skills, and prompts.",
+  "metadata": {
+    "github_url": "https://github.com/rfgamaral/pi-config",
+    "repo_full_name": "rfgamaral/pi-config",
+    "description": "Personal harness configuration for the Pi coding agent: extensions, skills, and prompts.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-28T08:47:17Z",
+    "pushed_at": "2026-04-29T18:04:38Z",
+    "updated_at": "2026-04-29T18:06:05Z",
+    "size": 14059,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "extension"
+}
