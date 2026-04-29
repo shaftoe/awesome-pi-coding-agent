@@ -21,19 +21,8 @@ import {
 } from "../core/types.ts";
 import { writeRaw } from "../discover/runner.ts";
 import type { DiscoveryWriter } from "../discover/writer.ts";
-import { clamp, scoreFreshness, scoreMetric01 } from "./scoring.ts";
+import { clamp, formatKNumber, scoreFreshness, scoreMetric01 } from "./scoring.ts";
 import type { Source } from "./source.ts";
-
-// ─── Helpers ───────────────────────────────────────────────────────────────────
-
-/** Format a number with k suffix. */
-function formatKNumber(n: number): string {
-	if (n >= 1000) {
-		const v = n / 1000;
-		return v % 1 === 0 ? `${v}k` : `${v.toFixed(1)}k`;
-	}
-	return String(n);
-}
 
 // ─── Config ────────────────────────────────────────────────────────────────────
 
