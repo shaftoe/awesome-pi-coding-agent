@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.3.0] - 2026-04-30
+
+### Added
+
+- add Brave Web Search discovery source (#47)
+
 ## [2.2.1] - 2026-04-30
 
 ### Fixed
@@ -190,6 +196,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove skills category
 - replace @types/bun with pinned bun-types to fix typecheck (#6)
 
+[2.3.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.2.1...v2.3.0
 [2.2.1]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.2.0...v2.2.1
 [2.2.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.1.1...v2.2.0
 [2.1.1]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.1.0...v2.1.1
