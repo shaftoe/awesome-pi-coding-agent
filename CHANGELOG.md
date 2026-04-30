@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.3.3] - 2026-04-30
+
+### Fixed
+
+- strip HTML tags and decode entities in descriptions and titles (#54)
+
 ## [2.3.2] - 2026-04-30
 
 ### Fixed
@@ -208,6 +214,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove skills category
 - replace @types/bun with pinned bun-types to fix typecheck (#6)
 
+[2.3.3]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.3.2...v2.3.3
 [2.3.2]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.3.1...v2.3.2
 [2.3.1]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.3.0...v2.3.1
 [2.3.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.2.1...v2.3.0
