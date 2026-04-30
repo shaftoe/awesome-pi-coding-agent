@@ -422,7 +422,7 @@ Composable `FilterRule[]` pipeline. First match wins.
 
 | Layer | Purpose | Examples |
 |-------|---------|---------|
-| **1. Hard blocks** (O(1)) | Cheap rejection | Blacklisted URLs, blocked scopes (`@stdlib`, `@pixi`, `@tiptap`), blocked names (`pi`, `const-pi`) |
+| **1. Hard blocks** (O(1)) | Cheap rejection | Blacklisted URLs, blocked scopes (`@stdlib`, `@pixi`, `@tiptap`), blocked names (`pi`, `const-pi`), covered domains (HN/Brave → GitHub/npm/YouTube URLs) |
 | **2. Negative signals** | Pattern matching | Raspberry Pi, math π, PixiJS, Pi Network crypto, industrial (AVEVA), unrelated ecosystems, OpenAPI, non-Latin scripts, non-English Latin text |
 | **3. Positive signals** | Pi Coding Agent markers | Name patterns (`pi-*`, `@scope/pi-*`), text (`pi coding agent`, `pi.dev`), topics (`pi-agent`), keywords (`pi-package`) |
 | **4. Default** | Catch-all | No positive signal → **REJECT** |

@@ -535,6 +535,39 @@ const blockedNameRule: FilterRule = {
 	},
 };
 
+/** Domains covered by dedicated discovery sources — no need for generic sources to duplicate. */
+const COVERED_HOSTS = new Set([
+	"github.com",
+	"www.github.com",
+	"npmjs.com",
+	"www.npmjs.com",
+	"youtube.com",
+	"www.youtube.com",
+	"m.youtube.com",
+	"youtu.be",
+]);
+
+/** Generic sources that should defer to dedicated sources for covered domains. */
+const GENERIC_SOURCES = new Set(["hackernews", "brave"]);
+
+const coveredDomainRule: FilterRule = {
+	name: "covered-domain",
+	check(ctx) {
+		const sourceName = ctx.discovery?.sourceName;
+		if (!sourceName || !GENERIC_SOURCES.has(sourceName)) return null;
+
+		try {
+			const hostname = new URL(ctx.url).hostname.toLowerCase();
+			if (COVERED_HOSTS.has(hostname)) {
+				return { accept: false, reason: `covered by dedicated source: ${hostname}` };
+			}
+		} catch {
+			// Invalid URL — skip
+		}
+		return null;
+	},
+};
+
 const raspberryPiRule: FilterRule = {
 	name: "raspberry-pi",
 	check(ctx) {
@@ -728,6 +761,7 @@ export const FULL_RULES: readonly FilterRule[] = [
 	blacklistRule,
 	blockedScopeRule,
 	blockedNameRule,
+	coveredDomainRule,
 	raspberryPiRule,
 	mathPiRule,
 	pixijsRule,

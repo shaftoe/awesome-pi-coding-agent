@@ -15912,5 +15912,17 @@
 			"sourceName": "hackernews",
 			"query": "hackernews:pi-agent"
 		}
+	},
+	{
+		"url": "https://pi.dev/packages",
+		"reason": "already covered by the link to pi.dev in the index page",
+		"blacklisted_at": "2026-04-30T13:50:31.148Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://rakenne.app/",
+		"reason": "not a Pi article",
+		"blacklisted_at": "2026-04-30T13:52:25.445Z",
+		"source": "manual"
 	}
 ]
