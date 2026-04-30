@@ -10,10 +10,29 @@ import "./temporal.ts";
 const pad = (n: number): string => String(n).padStart(2, "0");
 
 /**
- * Returns a human-readable UTC timestamp string.
+ * Format a Temporal.ZonedDateTime as a human-readable UTC string.
+ * Format: `YYYY-MM-DD HH:MM UTC` (e.g. `"2026-04-27 08:52 UTC"`)
+ */
+export function formatZdt(zdt: Temporal.ZonedDateTime): string {
+	return `${zdt.year}-${pad(zdt.month)}-${pad(zdt.day)} ${pad(zdt.hour)}:${pad(zdt.minute)} UTC`;
+}
+
+/**
+ * Format an ISO-8601 instant string as a human-readable UTC timestamp.
+ * Falls back to the raw string if parsing fails.
+ */
+export function formatIsoTimestamp(iso: string): string {
+	try {
+		return formatZdt(Temporal.Instant.from(iso).toZonedDateTimeISO("UTC"));
+	} catch {
+		return iso;
+	}
+}
+
+/**
+ * Returns the current time as a human-readable UTC timestamp string.
  * Format: `YYYY-MM-DD HH:MM UTC` (e.g. `"2026-04-27 08:52 UTC"`)
  */
 export function formatBuildTimestamp(): string {
-	const now = Temporal.Now.zonedDateTimeISO("UTC");
-	return `${now.year}-${pad(now.month)}-${pad(now.day)} ${pad(now.hour)}:${pad(now.minute)} UTC`;
+	return formatZdt(Temporal.Now.zonedDateTimeISO("UTC"));
 }

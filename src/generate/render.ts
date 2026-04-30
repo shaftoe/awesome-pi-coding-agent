@@ -7,8 +7,9 @@
 
 import "../../src/core/temporal.ts";
 
+import { readMeta } from "../core/meta.ts";
 import { sortEntries } from "../core/sort.ts";
-import { formatBuildTimestamp } from "../core/timestamp.ts";
+import { formatBuildTimestamp, formatIsoTimestamp } from "../core/timestamp.ts";
 import type { CategorizedEntry, HealthLevel } from "../core/types.ts";
 import { formatPopularity, getDisplayName } from "../sources/index.ts";
 
@@ -106,6 +107,15 @@ function escapeMarkdown(text: string): string {
 	return text.replace(/\|/g, "\\|").replace(/\n/g, " ").substring(0, 200); // Truncate long descriptions
 }
 
+// Resolve the "last updated" timestamp from data/meta.json so the README
+// and site always show the same time (the moment the process stage ran).
+// Falls back to build time if meta.json is missing (e.g. first run).
+function formatDisplayDate(): string {
+	const meta = readMeta();
+	if (meta) return formatIsoTimestamp(meta.lastUpdatedAt);
+	return formatBuildTimestamp();
+}
+
 // sortEntries lives in core/sort.ts — shared with site
 
 // ─── Render table section ─────────────────────────────────────────────────────
@@ -160,7 +170,7 @@ A curated, auto-discovered directory of resources for the [Pi Coding Agent](http
 
 Content available as Markdown here and as website (with search feature) live at <https://awesome-pi.site>.
 
-> Last updated: ${formatBuildTimestamp()}`);
+> Last updated: ${formatDisplayDate()}`);
 
 	// ── Stats ──
 	const active = opts.byHealth["active"] ?? 0;
