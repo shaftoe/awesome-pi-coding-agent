@@ -1,0 +1,29 @@
+{
+  "id": "HaqimIskandar-pi-agent-memory",
+  "name": "HaqimIskandar-pi-agent-memory",
+  "url": "https://github.com/HaqimIskandar/pi-agent-memory",
+  "source": "github-search",
+  "description": "Pi-mem extension for pi-coding-agent — persistent cross-session memory via claude-mem worker",
+  "metadata": {
+    "github_url": "https://github.com/HaqimIskandar/pi-agent-memory",
+    "repo_full_name": "HaqimIskandar/pi-agent-memory",
+    "description": "Pi-mem extension for pi-coding-agent — persistent cross-session memory via claude-mem worker",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-30T05:58:51Z",
+    "pushed_at": "2026-04-30T06:01:09Z",
+    "updated_at": "2026-04-30T06:01:13Z",
+    "size": 41,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

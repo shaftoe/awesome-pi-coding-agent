@@ -1,0 +1,37 @@
+{
+  "id": "crichalchemist-agent-pi",
+  "name": "crichalchemist-agent-pi",
+  "url": "https://github.com/crichalchemist/agent-pi",
+  "source": "github-search",
+  "description": "Multi-agent orchestration for Claude Code — coordinate a fleet of AI models via Pi",
+  "metadata": {
+    "github_url": "https://github.com/crichalchemist/agent-pi",
+    "repo_full_name": "crichalchemist/agent-pi",
+    "description": "Multi-agent orchestration for Claude Code — coordinate a fleet of AI models via Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "mcp",
+      "multi-agent",
+      "orchestration",
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-29T15:34:46Z",
+    "pushed_at": "2026-04-30T03:59:26Z",
+    "updated_at": "2026-04-30T03:47:59Z",
+    "size": 200,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

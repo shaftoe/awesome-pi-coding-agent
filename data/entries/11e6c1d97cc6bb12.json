@@ -1,0 +1,37 @@
+{
+  "id": "k1lgor-pi-memoir",
+  "name": "k1lgor-pi-memoir",
+  "url": "https://github.com/k1lgor/pi-memoir",
+  "source": "github-search",
+  "description": "Pi-memoir builds a structured knowledge base of your project.",
+  "metadata": {
+    "github_url": "https://github.com/k1lgor/pi-memoir",
+    "repo_full_name": "k1lgor/pi-memoir",
+    "description": "Pi-memoir builds a structured knowledge base of your project.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "memory",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-mono",
+      "pi-package",
+      "project-memory"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-29T21:01:53Z",
+    "pushed_at": "2026-04-29T21:03:54Z",
+    "updated_at": "2026-04-29T21:09:13Z",
+    "size": 436,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

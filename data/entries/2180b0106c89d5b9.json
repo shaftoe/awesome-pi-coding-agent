@@ -1,0 +1,29 @@
+{
+  "id": "Oyaxira-pi-visionizer",
+  "name": "Oyaxira-pi-visionizer",
+  "url": "https://github.com/Oyaxira/pi-visionizer",
+  "source": "github-search",
+  "description": "Add vision support to any text-only model in pi coding agent — transparent image description via a configured vision model.",
+  "metadata": {
+    "github_url": "https://github.com/Oyaxira/pi-visionizer",
+    "repo_full_name": "Oyaxira/pi-visionizer",
+    "description": "Add vision support to any text-only model in pi coding agent — transparent image description via a configured vision model.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-30T07:20:59Z",
+    "pushed_at": "2026-04-30T08:06:22Z",
+    "updated_at": "2026-04-30T08:06:28Z",
+    "size": 0,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}
