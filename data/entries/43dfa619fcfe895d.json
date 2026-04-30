@@ -1,32 +1,32 @@
 {
-  "id": "@zackify/pi-claude-permissions",
-  "name": "@zackify/pi-claude-permissions",
-  "url": "https://www.npmjs.com/package/@zackify/pi-claude-permissions",
-  "source": "npm-search",
-  "description": "Claude-style permissions for pi with an opinionated small mode set and built-in plan mode.",
-  "metadata": {
-    "github_url": null,
-    "npm_name": "@zackify/pi-claude-permissions",
-    "description": "Claude-style permissions for pi with an opinionated small mode set and built-in plan mode.",
-    "keywords": [
-      "pi-package",
-      "pi",
-      "permissions",
-      "plan-mode"
-    ],
-    "version": "1.0.3",
-    "published_at": "2026-04-30T11:39:48.806Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
-  },
-  "health": {
-    "score": 72,
-    "level": "active"
-  },
-  "category": "misc"
+	"id": "@zackify/pi-claude-permissions",
+	"name": "@zackify/pi-claude-permissions",
+	"url": "https://www.npmjs.com/package/@zackify/pi-claude-permissions",
+	"source": "npm-search",
+	"description": "Claude-style permissions for pi with an opinionated small mode set and built-in plan mode.",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "@zackify/pi-claude-permissions",
+		"description": "Claude-style permissions for pi with an opinionated small mode set and built-in plan mode.",
+		"keywords": [
+			"pi-package",
+			"pi",
+			"permissions",
+			"plan-mode"
+		],
+		"version": "1.0.3",
+		"published_at": "2026-04-30T11:39:48.806Z",
+		"npm_downloads_monthly": 0,
+		"npm_downloads_weekly": 0,
+		"npm_score_final": 0,
+		"npm_score_popularity": 1,
+		"npm_score_quality": 1,
+		"npm_score_maintenance": 1,
+		"discovery_hint": "npm:keywords:pi-package"
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "extension"
 }
