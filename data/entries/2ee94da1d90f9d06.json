@@ -1,0 +1,29 @@
+{
+  "id": "matthew-oconnell-pi-context-viz",
+  "name": "matthew-oconnell-pi-context-viz",
+  "url": "https://github.com/matthew-oconnell/pi-context-viz",
+  "source": "github-search",
+  "description": "Context window visualizer extension for the pi coding agent — shows token breakdown by segment in a live footer and overlay",
+  "metadata": {
+    "github_url": "https://github.com/matthew-oconnell/pi-context-viz",
+    "repo_full_name": "matthew-oconnell/pi-context-viz",
+    "description": "Context window visualizer extension for the pi coding agent — shows token breakdown by segment in a live footer and overlay",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-30T00:32:54Z",
+    "pushed_at": "2026-04-30T00:34:14Z",
+    "updated_at": "2026-04-30T00:34:18Z",
+    "size": 6713,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

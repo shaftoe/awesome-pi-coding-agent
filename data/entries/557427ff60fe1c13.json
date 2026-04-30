@@ -1,0 +1,29 @@
+{
+  "id": "xdrobotx-xdx-swe-template",
+  "name": "xdrobotx-xdx-swe-template",
+  "url": "https://github.com/xdrobotx/xdx-swe-template",
+  "source": "github-search",
+  "description": "An agentic software engineering harness as Pi coding agent extension.",
+  "metadata": {
+    "github_url": "https://github.com/xdrobotx/xdx-swe-template",
+    "repo_full_name": "xdrobotx/xdx-swe-template",
+    "description": "An agentic software engineering harness as Pi coding agent extension.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-30T04:21:01Z",
+    "pushed_at": "2026-04-30T07:46:58Z",
+    "updated_at": "2026-04-30T07:47:01Z",
+    "size": 1,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

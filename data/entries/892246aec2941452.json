@@ -1,0 +1,29 @@
+{
+  "id": "pi-headless-subagent",
+  "name": "pi-headless-subagent",
+  "url": "https://www.npmjs.com/package/pi-headless-subagent",
+  "source": "npm-search",
+  "description": "Pi extension for spawning isolated subagents in separate pi --mode rpc subprocesses",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-headless-subagent",
+    "description": "Pi extension for spawning isolated subagents in separate pi --mode rpc subprocesses",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-04-30T06:33:58.097Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

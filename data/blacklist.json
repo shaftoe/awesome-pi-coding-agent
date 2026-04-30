@@ -15372,5 +15372,225 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-agent"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=MULh7ZlZk40",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:00.848Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=1QU_O4pK3xA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:00.907Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=_HpCwIxjwxY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:00.921Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/AyushSaini0808/aidlc-agent-pipeline",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:00.927Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Tiziano-AI/pi-multiagent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:00.929Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5ZLqpdcJUwM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:00.944Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=g4wReU5ygPI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:00.949Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=6sgDgHscyrk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:00.954Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=bVAVCLpcTNM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:00.967Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=zKNZD9VqxmY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:00.98Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/wwwjrz/react-AgentPilot",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:00.994Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/thevitalitystack-afk/pixel-agent-dashboard",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:01.013Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=-E5VPCdmQQg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:01.031Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=0u9NY__BGmQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:01.073Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=wvxCNQ5AYPg",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-04-30T08:16:01.081Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/lulucatdev/pi-spec-driven-dev",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:01.091Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=6M9GpyblwCE",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-04-30T08:16:01.097Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/xavierchanth/pi-tai",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:01.106Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=uH9-1yGib3o",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-04-30T08:16:01.132Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=GYN7TH5y1CM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:01.134Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/archpeng/AutoPi",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:01.158Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/robhowley/pi-userland",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-04-30T08:16:01.168Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
 	}
 ]

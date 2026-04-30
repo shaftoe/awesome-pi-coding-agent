@@ -1,0 +1,24 @@
+{
+  "id": "YT_HxQnIP1uiIw",
+  "name": "Toronto Police Service Ford PI Concept with basic LED package",
+  "url": "https://youtube.com/watch?v=HxQnIP1uiIw",
+  "source": "youtube-search",
+  "description": "Quick demo video of a For PI concept I lit up with a basic police light package. This model is USB powered and will be displayed ...",
+  "metadata": {
+    "title": "Toronto Police Service Ford PI Concept with basic LED package",
+    "name": "Toronto Police Service Ford PI Concept with basic LED package",
+    "description": "Quick demo video of a For PI concept I lit up with a basic police light package. This model is USB powered and will be displayed ...",
+    "channel": "Rivet Counter",
+    "published_at": "2015-03-22T21:03:07Z",
+    "thumbnail": "https://i.ytimg.com/vi/HxQnIP1uiIw/hqdefault.jpg",
+    "views": 591,
+    "likes": 7,
+    "comments": 3,
+    "discovery_hint": "youtube:pi-package"
+  },
+  "health": {
+    "score": 17,
+    "level": "stale"
+  },
+  "category": "video"
+}
