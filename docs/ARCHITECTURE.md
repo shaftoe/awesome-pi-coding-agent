@@ -1,6 +1,6 @@
 # Architecture
 
-**Last updated:** 2026-04-27
+**Last updated:** 2026-04-30
 
 The project is a **four-stage data pipeline** that discovers, filters, processes, and renders a curated list of resources for the [Pi Coding Agent](https://pi.dev/) ecosystem into an awesome-list database and renders it as
 
@@ -91,6 +91,7 @@ src/
   sources/                          ✅ Source implementations (cross-cutting plugins)
     source.ts                         Source interface + DiscoveryResult/WriteResult types
     npm.ts                            npm registry (keyword queries, full pagination)
+    npm.test.ts                       Tests for npm enrichment, formatPopularity, health scoring
     github.ts                         GitHub search (repos)
     youtube.ts                        YouTube Data API (token-based pagination)
     hackernews.ts                     Hacker News via Algolia API (story search)
@@ -266,7 +267,7 @@ Composes `ThrottledFetcher` + `Cache` into a paginator.
 Sources run in **two phases** within `runDiscovery()`:
 
 1. **Discover** (parallel) — all sources fetch candidates simultaneously, writing to `.cache/candidates/`. No filtering, no dedup.
-2. **Enrich** (sequential) — sources with an `enrich()` method make follow-up API calls to augment already-written candidates. Currently only YouTube implements this (fetches video statistics). npm/GitHub have no second phase.
+2. **Enrich** (sequential) — sources with an `enrich()` method make follow-up API calls to augment already-written candidates. Currently YouTube (fetches video statistics) and npm (fetches GitHub repo data for packages with a `github_url`) implement this.
 
 ```typescript
 interface Source {
@@ -288,7 +289,12 @@ High-precision `keywords:` queries only. Composes `ThrottledFetcher(0.5 rps)` + 
 
 ID: full npm package name (e.g. `@scope/pi-extension`).
 
-**Metadata fields captured:**
+**Two-phase discovery:**
+
+1. **Discover** — npm search API fetches candidates with package metadata
+2. **Enrich** — for packages with a `github_url`, fetches `GET /repos/{owner}/{repo}` from the GitHub API and merges stars, forks, topics, language, activity, and archive status into the candidate metadata
+
+**Metadata fields captured (phase 1 — npm search):**
 
 | Field | Type | Source | Health relevance |
 |-------|------|--------|-----------------|
@@ -297,13 +303,31 @@ ID: full npm package name (e.g. `@scope/pi-extension`).
 | `keywords` | `string[]` | `package.keywords` | Classification, filter |
 | `version` | `string \| null` | `package.version` | Freshness |
 | `published_at` | `string \| null` | `package.date` | Freshness (last publish) |
-| `github_url` | `string \| null` | `package.links.repository` | Dedup, cross-ref |
+| `github_url` | `string \| null` | `package.links.repository` | Dedup, cross-ref, enrichment trigger |
 | `npm_downloads_monthly` | `number \| null` | `downloads.monthly` | Popularity |
 | `npm_downloads_weekly` | `number \| null` | `downloads.weekly` | Popularity velocity |
 | `npm_score_final` | `number \| null` | `score.final` | Overall npm quality |
 | `npm_score_popularity` | `number \| null` | `score.detail.popularity` | Popularity (0–1) |
 | `npm_score_quality` | `number \| null` | `score.detail.quality` | Code quality (0–1) |
 | `npm_score_maintenance` | `number \| null` | `score.detail.maintenance` | Maintenance (0–1) |
+
+**Metadata fields captured (phase 2 — GitHub enrichment):**
+
+| Field | Type | Source | Health relevance |
+|-------|------|--------|-----------------|
+| `stars` | `number` | `stargazers_count` | Popularity (blended with downloads) |
+| `forks` | `number` | `forks_count` | Community engagement |
+| `open_issues` | `number` | `open_issues_count` | Activity signal |
+| `topics` | `string[]` | `topics` | Classification, filter |
+| `language` | `string \| null` | `language` | Display |
+| `archived` | `boolean` | `archived` | Dead (hard kill) |
+| `github_pushed_at` | `string \| null` | `pushed_at` | Freshness (last commit, overrides npm `published_at`) |
+| `github_updated_at` | `string \| null` | `updated_at` | Activity |
+| `github_created_at` | `string \| null` | `created_at` | Age |
+| `size` | `number` | `size` | Depth (KB) |
+| `license` | `string \| null` | `license.spdx_id` | Open-source signal |
+
+**Enrichment cost:** 1 GitHub API request per unique `owner/repo` (cached). Multiple npm packages pointing to the same GitHub repo share a single request.
 
 #### GitHub (`sources/github.ts`) ✅
 
@@ -490,7 +514,7 @@ Two files: `index.ts` (CLI entry point) and `render.ts` (pure rendering logic, e
 |--------|--------|--------|--------|
 | YouTube | Views | `📺<n>` | `📺10.5k` |
 | GitHub | Stars | `⭐<n>` | `⭐314` |
-| npm | Monthly downloads | `⬇ <n>/mo` | `⬇ 20.5k/mo` |
+| npm | Monthly downloads + GitHub stars | `⬇ <n>/mo ⭐<n>` | `⬇ 20.5k/mo ⭐314` |
 | Hacker News | Points | `📌<n>` | `📌314` |
 | Brave Search | Source site | `🌐<name>` | `🌐Dev.to` |
 
@@ -654,9 +678,9 @@ Each entry receives a `Health` object: `{ score: 0–100, level: HealthLevel }`.
 
 | Dimension | Metadata fields | Scoring |
 |-----------|----------------|---------|
-| **Freshness** (35%) | `published_at` | < 30d → 100, < 90d → 80, < 180d → 60, < 365d → 40, < 730d → 20, ≥ 730d → 5 |
-| **Popularity** (30%) | `npm_downloads_monthly` | ≥ 10k → 100, ≥ 1k → 70, ≥ 100 → 40, ≥ 10 → 20, < 10 → 5 |
-| **Activity** (20%) | `npm_score_maintenance` (0–1) | 1.0 → 100, 0.5 → 50, 0.0 → 5 |
+| **Freshness** (35%) | `github_pushed_at` (preferred) / `published_at` | < 30d → 100, < 90d → 80, < 180d → 60, < 365d → 40, < 730d → 20, ≥ 730d → 5 |
+| **Popularity** (30%) | `npm_downloads_monthly` + `stars` (blended) | Downloads 60% + Stars 40% when `stars` present; downloads-only otherwise. Thresholds: ≥ 10k/1k → 100/70, ≥ 1k/100 → 70/70, etc. |
+| **Activity** (20%) | `github_updated_at` + `open_issues` (preferred) / `npm_score_maintenance` (fallback) | GitHub: same as GitHub source. npm: 0–1 score mapped to 5–100 |
 | **Depth** (15%) | `npm_score_quality` (0–1) | 1.0 → 100, 0.5 → 50, 0.0 → 5 |
 
 #### GitHub

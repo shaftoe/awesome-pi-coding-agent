@@ -21,7 +21,13 @@ import {
 } from "../core/types.ts";
 import { writeRaw } from "../discover/runner.ts";
 import type { DiscoveryWriter } from "../discover/writer.ts";
-import { clamp, formatKNumber, scoreFreshness, scoreMetric01 } from "./scoring.ts";
+import {
+	clamp,
+	formatKNumber,
+	scoreActivityDays,
+	scoreFreshness,
+	scoreMetric01,
+} from "./scoring.ts";
 import type { Source } from "./source.ts";
 
 // ─── Config ────────────────────────────────────────────────────────────────────
@@ -69,6 +75,23 @@ interface NpmSearchResponse {
 	objects: NpmSearchResult[];
 }
 
+/** GitHub API response for GET /repos/{owner}/{repo}. */
+interface GitHubRepoResponse {
+	full_name: string;
+	description: string | null;
+	stargazers_count: number;
+	forks_count: number;
+	open_issues_count: number;
+	topics: string[];
+	language: string | null;
+	archived: boolean;
+	created_at: string;
+	pushed_at: string | null;
+	updated_at: string;
+	size: number;
+	license: { key: string; name: string; spdx_id: string } | null;
+}
+
 export interface NpmSourceOptions {
 	/** Override the default keyword queries. */
 	queries?: string[] | undefined;
@@ -86,6 +109,35 @@ function cleanGitHubUrl(raw: string | undefined): string | undefined {
 	if (!raw) return undefined;
 	const match = raw.match(/(?:git\+)?(https:\/\/github\.com\/[^/]+\/[^/]+)/);
 	return match?.[1]?.replace(/\.git$/, "") ?? undefined;
+}
+
+/**
+ * Extract the `owner/repo` path from a GitHub URL.
+ * Returns null if the URL is not a valid GitHub repo URL.
+ */
+function parseGitHubOwnerRepo(url: string): string | null {
+	const match = url.match(/github\.com\/([^/]+\/[^/]+)/);
+	if (!match?.[1]) return null;
+	// Strip trailing .git or slashes
+	return match[1].replace(/\.git$/, "").replace(/\/+$/, "");
+}
+
+/**
+ * Build common headers for GitHub API requests.
+ * Uses GITHUB_TOKEN env var if available for higher rate limits.
+ */
+function buildGitHubFetchInit(): RequestInit {
+	const headers: Record<string, string> = {
+		Accept: "application/vnd.github+json",
+		"X-GitHub-Api-Version": "2022-11-28",
+	};
+
+	const token = process.env["GITHUB_TOKEN"];
+	if (token) {
+		headers["Authorization"] = `Bearer ${token}`;
+	}
+
+	return { headers };
 }
 
 /** Build a candidate from an npm search result. */
@@ -121,10 +173,19 @@ function parseNpmResponse(body: unknown): { items: NpmSearchResult[]; total: num
 
 // ─── Source factory ────────────────────────────────────────────────────────────
 
+const GITHUB_API = "https://api.github.com";
+/** GitHub API: 30 req/min authenticated, 10 req/min unauthenticated. */
+const GITHUB_REQUESTS_PER_SECOND = 0.5;
+
 export function createNpmSource(cache: Cache, opts: NpmSourceOptions = {}): Source {
 	const queries = opts.queries ?? DEFAULT_QUERIES;
 
 	const fetcher = new ThrottledFetcher({ requestsPerSecond: REQUESTS_PER_SECOND });
+
+	// Separate throttled fetcher for GitHub API enrichment calls.
+	// Uses GITHUB_TOKEN if available for higher rate limits.
+	const githubFetcher = new ThrottledFetcher({ requestsPerSecond: GITHUB_REQUESTS_PER_SECOND });
+	const githubFetchInit = buildGitHubFetchInit();
 
 	async function fetchQuery(
 		term: string,
@@ -164,11 +225,21 @@ export function createNpmSource(cache: Cache, opts: NpmSourceOptions = {}): Sour
 
 		formatPopularity(entry: CategorizedEntry): string {
 			const meta = entry.metadata as Record<string, unknown>;
+			const parts: string[] = [];
+
+			// Downloads (always first)
 			const downloads = meta["npm_downloads_monthly"];
 			if (typeof downloads === "number" && downloads > 0) {
-				return `\u2B07 ${formatKNumber(downloads)}/mo`;
+				parts.push(`\u2B07 ${formatKNumber(downloads)}/mo`);
 			}
-			return "";
+
+			// GitHub stars (enriched data)
+			const stars = meta["stars"];
+			if (typeof stars === "number" && stars > 0) {
+				parts.push(`\u2B50${formatKNumber(stars)}`);
+			}
+
+			return parts.join(" ");
 		},
 
 		async discover(writer: DiscoveryWriter): Promise<void> {
@@ -184,37 +255,162 @@ export function createNpmSource(cache: Cache, opts: NpmSourceOptions = {}): Sour
 			}
 		},
 
+		/** Enrich NPM candidates that have a github_url with GitHub repo data (stars, forks, etc.). */
+		async enrich(writer: DiscoveryWriter): Promise<void> {
+			const lines = writer.listByDiscoverer("npm");
+			if (lines.length === 0) return;
+
+			// Collect unique GitHub owner/repo pairs → candidate URLs mapping
+			const repoToLines = new Map<string, typeof lines>();
+			for (const line of lines) {
+				const meta = line.discovery.metadata ?? {};
+				const githubUrl = meta["github_url"];
+				if (typeof githubUrl !== "string") continue;
+				const ownerRepo = parseGitHubOwnerRepo(githubUrl);
+				if (!ownerRepo) continue;
+				const existing = repoToLines.get(ownerRepo);
+				if (existing) {
+					existing.push(line);
+				} else {
+					repoToLines.set(ownerRepo, [line]);
+				}
+			}
+
+			if (repoToLines.size === 0) {
+				process.stderr.write("[npm] 🔧 No GitHub URLs to enrich\n");
+				return;
+			}
+
+			process.stderr.write(`[npm] 🔧 Enriching ${repoToLines.size} packages with GitHub data...\n`);
+
+			let enriched = 0;
+			let failed = 0;
+
+			for (const [ownerRepo, matchedLines] of repoToLines) {
+				const url = `${GITHUB_API}/repos/${ownerRepo}`;
+
+				let body: unknown;
+
+				if (cache) {
+					const cacheKey = `enrich:github:${ownerRepo}`;
+					const cached = cache.get<unknown>(cacheKey);
+					if (cached !== null) {
+						body = cached;
+					} else if (opts.offline) {
+						continue;
+					} else {
+						const response = await githubFetcher.fetch(url, githubFetchInit);
+						if (!response.ok) {
+							failed++;
+							continue;
+						}
+						body = await response.json();
+						cache.set(cacheKey, body);
+					}
+				} else if (opts.offline) {
+					continue;
+				} else {
+					const response = await githubFetcher.fetch(url, githubFetchInit);
+					if (!response.ok) {
+						failed++;
+						continue;
+					}
+					body = await response.json();
+				}
+
+				const repo = body as GitHubRepoResponse;
+
+				// Merge GitHub fields into the metadata of each matching candidate
+				for (const line of matchedLines) {
+					const meta = { ...(line.discovery.metadata ?? {}) };
+					meta["stars"] = repo.stargazers_count ?? 0;
+					meta["forks"] = repo.forks_count ?? 0;
+					meta["open_issues"] = repo.open_issues_count ?? 0;
+					meta["topics"] = repo.topics ?? [];
+					meta["language"] = repo.language ?? null;
+					meta["archived"] = repo.archived ?? false;
+					meta["github_pushed_at"] = repo.pushed_at ?? null;
+					meta["github_updated_at"] = repo.updated_at ?? null;
+					meta["github_created_at"] = repo.created_at ?? null;
+					meta["size"] = repo.size ?? 0;
+					meta["license"] = repo.license?.spdx_id ?? null;
+
+					// Re-write with enriched metadata
+					writer.write("npm", {
+						...line.discovery,
+						metadata: meta,
+					});
+					enriched++;
+				}
+			}
+
+			process.stderr.write(
+				`[npm] 🔧 Enriched ${enriched} packages with GitHub data (${failed} failed)\n`,
+			);
+		},
+
 		scoreHealthDimensions(entry: Entry): HealthDimensions {
 			const meta = entry.metadata ?? {};
 
-			const freshness = scoreFreshness(meta["published_at"] as string | null | undefined);
+			// Freshness: prefer GitHub pushed_at (last commit) over npm published_at
+			const ghPushedAt = meta["github_pushed_at"] as string | null | undefined;
+			const npmPublishedAt = meta["published_at"] as string | null | undefined;
+			const freshness = scoreFreshness(ghPushedAt ?? npmPublishedAt);
 
-			// Popularity: monthly downloads
+			// Popularity: blend npm downloads and GitHub stars
 			const downloads = meta["npm_downloads_monthly"] as number | null | undefined;
-			let popularity: number;
+			let downloadScore: number;
 			if (downloads == null) {
-				popularity = 5;
+				downloadScore = 5;
 			} else if (downloads >= 10_000) {
-				popularity = 100;
+				downloadScore = 100;
 			} else if (downloads >= 1_000) {
-				popularity = 70;
+				downloadScore = 70;
 			} else if (downloads >= 100) {
-				popularity = 40;
+				downloadScore = 40;
 			} else if (downloads >= 10) {
-				popularity = 20;
+				downloadScore = 20;
 			} else {
-				popularity = 5;
+				downloadScore = 5;
 			}
 
-			// Activity: npm maintenance score (0–1)
-			const activity = scoreMetric01(meta["npm_score_maintenance"] as number | null | undefined);
+			const stars = meta["stars"] as number | null | undefined;
+			let starScore: number;
+			if (stars == null) {
+				starScore = 0; // No penalty if we don't have star data
+			} else if (stars >= 1_000) {
+				starScore = 100;
+			} else if (stars >= 100) {
+				starScore = 70;
+			} else if (stars >= 10) {
+				starScore = 40;
+			} else if (stars >= 1) {
+				starScore = 20;
+			} else {
+				starScore = 5;
+			}
+
+			// Weighted blend: downloads 60%, stars 40% (when stars are available)
+			const popularity = stars != null ? downloadScore * 0.6 + starScore * 0.4 : downloadScore;
+
+			// Activity: prefer GitHub activity signals when available
+			let activity: number;
+			const ghUpdatedAt = meta["github_updated_at"] as string | null | undefined;
+			const ghOpenIssues = meta["open_issues"] as number | null | undefined;
+			if (ghUpdatedAt != null) {
+				// Use GitHub activity scoring (same as GitHub source)
+				activity = scoreActivityDays(ghUpdatedAt, ghOpenIssues);
+			} else {
+				// Fall back to npm maintenance score
+				activity = scoreMetric01(meta["npm_score_maintenance"] as number | null | undefined);
+			}
 
 			// Depth: npm quality score (0–1)
 			const depth = scoreMetric01(meta["npm_score_quality"] as number | null | undefined);
 
 			return {
 				freshness: clamp(freshness),
-				popularity: clamp(popularity),
+				popularity: clamp(Math.round(popularity)),
 				activity: clamp(activity),
 				depth: clamp(depth),
 			};
