@@ -19,6 +19,7 @@
     "validate-prompt": "bun run src/cli/validate-prompt.ts",
     "blacklist": "bun run src/cli/blacklist.ts",
     "add-url": "bun run src/cli/add-url.ts",
+    "lookup": "bun run src/cli/lookup.ts",
     "clean": "rm -rf data/ .cache/",
     "semantic-release": "semantic-release"
   },

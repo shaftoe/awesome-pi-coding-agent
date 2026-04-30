@@ -69,6 +69,7 @@ Filtering is about relevance (is this about Pi Coding Agent?). Processing is abo
 src/
   cli/                              ✅ CLI utilities
     blacklist.ts                      Blacklist management CLI (add/list/check/remove)
+    lookup.ts                         URL lookup CLI (search entries, candidates, filtered, blacklist)
   core/                             ✅ Shared infrastructure
     types.ts                          Canonical type definitions (string enums)
     repository.ts                     Repository<T> interface + FileRepository<T>
@@ -746,6 +747,7 @@ data/                              Meta files
 | `bun run generate` | 4 | Render README.md from canonical entries |
 | `bun run pipeline` | 1–4 | Run discover → filter → process → generate sequentially |
 | `bun run add-url <url>` | 1 | Inject a single URL into the candidate pool (auto-detects source) |
+| `bun run lookup <url>` | — | Look up a URL in the data store (entries → candidates → filtered → blacklist) |
 | `bun run blacklist` | — | Manage URL blacklist (`add`, `list`, `check`, `remove` subcommands) |
 | `bun run check` | — | Typecheck + lint |
 | `bun run test` | — | Run all tests |

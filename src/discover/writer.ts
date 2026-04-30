@@ -116,6 +116,12 @@ export function loadDiscoveryLines(dir: string): DiscoveryLine[] {
 	return repo.list();
 }
 
+/** Look up a single discovery line by URL. Returns null if not found. */
+export function lookupDiscoveryLine(dir: string, url: string): DiscoveryLine | null {
+	const repo = new FileRepository<DiscoveryLine>(dir);
+	return repo.get(url);
+}
+
 /** Load discoveries from a DiscoveryWriter's repository. */
 export function loadDiscoveries(writer: DiscoveryWriter): LoadedDiscoveries {
 	const lines = writer.repository.list();

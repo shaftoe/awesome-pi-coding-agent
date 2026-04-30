@@ -16026,5 +16026,11 @@
 		"reason": "german language video",
 		"blacklisted_at": "2026-04-30T00:00:00Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://translate.google.com/translate?u=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40mariozechner%2Fpi-coding-agent&hl=es&sl=en&tl=es&client=srp",
+		"reason": "not a valid article",
+		"blacklisted_at": "2026-04-30T14:26:52.442Z",
+		"source": "manual"
 	}
 ]
