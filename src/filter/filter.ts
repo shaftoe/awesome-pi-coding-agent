@@ -95,7 +95,19 @@ const PI_NETWORK_SIGNALS = [
 	"pinet",
 ];
 
-const INDUSTRIAL_PI_SIGNALS = ["aveva", "pi system", "osisoft", "pi server", "historian"];
+const INDUSTRIAL_PI_SIGNALS = [
+	"aveva",
+	"pi system",
+	"osisoft",
+	"pi server",
+	"historian",
+	"planning in a box",
+	"foglight",
+	"sql server agent",
+	"manufacturing",
+	"overstocked backrooms",
+	"production with ai",
+];
 
 const UNRELATED_ECOSYSTEMS = [
 	"@tiptap/",
@@ -174,6 +186,22 @@ const OPENAPI_SIGNALS = [
 	"swagger-ui",
 	"swagger spec",
 ];
+
+const POP_CULTURE_PI_SIGNALS = [
+	"magnum pi",
+	"magnum p.i",
+	"life of pi",
+	"ford pi",
+	"ford police interceptor",
+	"testdrive unlimited",
+	"emulation station",
+	"retropie",
+	"recalbox",
+	"batocera",
+	"sonnerie",
+];
+
+const POP_CULTURE_PI_NAMES = new Set(["pi's theme"]);
 
 const FORK_SIGNALS = ["oh-my-pi"];
 
@@ -631,6 +659,19 @@ const industrialRule: FilterRule = {
 	},
 };
 
+const popCultureRule: FilterRule = {
+	name: "pop-culture-pi",
+	check(ctx) {
+		if (POP_CULTURE_PI_NAMES.has(ctx.name))
+			return { accept: false, reason: `pop culture pi: "${ctx.name}"` };
+		for (const s of POP_CULTURE_PI_SIGNALS) {
+			if (ctx.combined.includes(s) || ctx.urlLower.includes(s))
+				return { accept: false, reason: `pop culture pi signal: "${s}"` };
+		}
+		return null;
+	},
+};
+
 const ecosystemRule: FilterRule = {
 	name: "ecosystem",
 	check(ctx) {
@@ -676,10 +717,8 @@ const nonLatinScriptRule: FilterRule = {
 const nonEnglishLatinRule: FilterRule = {
 	name: "non-english-latin",
 	check(ctx) {
-		if (ctx.urlLower.includes("youtube.com/watch")) {
-			const lang = detectNonEnglishLatin(ctx.combined);
-			if (lang) return { accept: false, reason: `non-english language (${lang})` };
-		}
+		const lang = detectNonEnglishLatin(ctx.combined);
+		if (lang) return { accept: false, reason: `non-english language (${lang})` };
 		return null;
 	},
 };
@@ -770,6 +809,7 @@ export const FULL_RULES: readonly FilterRule[] = [
 	ecosystemRule,
 	forkRule,
 	openapiRule,
+	popCultureRule,
 	nonLatinScriptRule,
 	nonEnglishLatinRule,
 	positiveNameRule,

@@ -15924,5 +15924,107 @@
 		"reason": "not a Pi article",
 		"blacklisted_at": "2026-04-30T13:52:25.445Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=d2Te3effU2w",
+		"reason": "magnum pi ringtone",
+		"blacklisted_at": "2026-04-30T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=VqH8XFwLah0",
+		"reason": "magnum pi theme song",
+		"blacklisted_at": "2026-04-30T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=O6rmrR2x3tw",
+		"reason": "magnum pi theme remix",
+		"blacklisted_at": "2026-04-30T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=AKG6gwVoBOs",
+		"reason": "magnum pi theme recreation",
+		"blacklisted_at": "2026-04-30T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=A6baDf3GMEA",
+		"reason": "magnum pi theme in game",
+		"blacklisted_at": "2026-04-30T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=aqwwFOJQtf8",
+		"reason": "magnum pi theme reversed",
+		"blacklisted_at": "2026-04-30T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=tC0jjqQk3fg",
+		"reason": "life of pi theme song",
+		"blacklisted_at": "2026-04-30T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=ip-ar6mDeSk",
+		"reason": "unrelated pi character theme song",
+		"blacklisted_at": "2026-04-30T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=MzwEEU9nOMs",
+		"reason": "emulation station theme (retro gaming)",
+		"blacklisted_at": "2026-04-30T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=g3xc42Dvy40",
+		"reason": "manufacturing/supply-chain pi agent",
+		"blacklisted_at": "2026-04-30T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=Bm0Pemp4mDI",
+		"reason": "manufacturing/supply-chain pi agent",
+		"blacklisted_at": "2026-04-30T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=O3-9CEDNYo0",
+		"reason": "manufacturing/supply-chain pi agent digital twin",
+		"blacklisted_at": "2026-04-30T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=K8KfCbE9_9Y",
+		"reason": "manufacturing defect detective pi agent",
+		"blacklisted_at": "2026-04-30T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=HxQnIP1uiIw",
+		"reason": "ford pi police car model",
+		"blacklisted_at": "2026-04-30T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=uul_x9EGRK8",
+		"reason": "foglight/quest sql server pi extension",
+		"blacklisted_at": "2026-04-30T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=1875j4KgHIA",
+		"reason": "french language video",
+		"blacklisted_at": "2026-04-30T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=KXKfiCqmhdo",
+		"reason": "german language video",
+		"blacklisted_at": "2026-04-30T00:00:00Z",
+		"source": "manual"
 	}
 ]

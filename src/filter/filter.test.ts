@@ -497,10 +497,10 @@ describe("isRelevant — non-English rejection", () => {
 		).toBe(true);
 	});
 
-	it("rejects German YouTube video (Latin but non-English)", () => {
+	it("rejects German text (Latin but non-English)", () => {
 		const result = isRelevant(
 			candidate({
-				url: "https://www.youtube.com/watch?v=x",
+				url: "https://example.com/x",
 				description: "Jaives ist ein vollständig selbst gehosteter KI-Assistent",
 			}),
 		);
@@ -508,10 +508,10 @@ describe("isRelevant — non-English rejection", () => {
 		expect(rejectionReason(result)).toBe("non-english language (german)");
 	});
 
-	it("rejects Indonesian YouTube video even with Pi mention", () => {
+	it("rejects Indonesian text even with Pi mention", () => {
 		const result = isRelevant(
 			candidate({
-				url: "https://www.youtube.com/watch?v=x",
+				url: "https://example.com/x",
 				description: "Update terbaru Zentty — Cursor dan Pi coding agents sudah terintegrasi penuh",
 			}),
 		);
@@ -655,6 +655,108 @@ describe("isRelevant — covered domain rejection", () => {
 			metadata: { description: "A pi coding agent tool" },
 		});
 		expect(result.accept).toBe(true);
+	});
+});
+
+// ─── Pop culture PI rejection ──────────────────────────────────────────────────
+
+describe("isRelevant — pop culture PI rejection", () => {
+	it("rejects 'magnum pi' in combined text", () => {
+		const result = isRelevant(
+			candidate({ url: "https://youtube.com/watch?v=x", description: "Magnum PI Theme Song" }),
+		);
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("pop culture pi");
+	});
+
+	it("rejects 'life of pi' in combined text", () => {
+		const result = isRelevant(
+			candidate({ url: "https://youtube.com/watch?v=x", description: "life of pi theme song" }),
+		);
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("pop culture pi");
+	});
+
+	it("rejects 'emulation station' in combined text", () => {
+		const result = isRelevant(
+			candidate({
+				url: "https://youtube.com/watch?v=x",
+				description: "Emulation station Color pi theme",
+			}),
+		);
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("pop culture pi");
+	});
+
+	it("rejects 'sonnerie' (ringtone) in combined text", () => {
+		const result = isRelevant(
+			candidate({ url: "https://youtube.com/watch?v=x", description: "Sonnerie MAGNUM PI Theme" }),
+		);
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("pop culture pi");
+	});
+
+	it("allows legitimate pi coding agent content", () => {
+		expect(
+			isRelevant(
+				candidate({
+					url: "https://youtube.com/watch?v=x",
+					description: "Pi Coding Agent tutorial",
+				}),
+			).accept,
+		).toBe(true);
+	});
+});
+
+// ─── Non-English Latin (all sources) ─────────────────────────────────────────────
+
+describe("isRelevant — non-English Latin rejection (all sources)", () => {
+	it("rejects German text from any source", () => {
+		const result = isRelevant(
+			candidate({
+				url: "https://example.com/x",
+				description: "ist ein vollständig selbst gehosteter KI-Assistent",
+			}),
+		);
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toBe("non-english language (german)");
+	});
+
+	it("rejects French text from any source", () => {
+		const result = isRelevant(
+			candidate({
+				url: "https://example.com/x",
+				description: "dans cette vidéo on réagit avec les agents pour une plateforme",
+			}),
+		);
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toBe("non-english language (french)");
+	});
+});
+
+// ─── Industrial / manufacturing Pi Agent ────────────────────────────────────────
+
+describe("isRelevant — industrial/manufacturing Pi Agent", () => {
+	it("rejects 'foglight' in description", () => {
+		const result = isRelevant(
+			candidate({
+				url: "https://youtube.com/watch?v=x",
+				description: "Foglight PI Extension for SQL Server",
+			}),
+		);
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("industrial");
+	});
+
+	it("rejects 'planning in a box' in description", () => {
+		const result = isRelevant(
+			candidate({
+				url: "https://youtube.com/watch?v=x",
+				description: "Planning in a Box Pi Agent",
+			}),
+		);
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("industrial");
 	});
 });
 
