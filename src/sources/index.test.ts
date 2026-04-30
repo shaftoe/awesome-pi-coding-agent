@@ -30,6 +30,13 @@ describe("parseQueryPrefix", () => {
 		});
 	});
 
+	test("parses brave: prefix", () => {
+		expect(parseQueryPrefix("brave:pi coding agent")).toEqual({
+			target: "brave",
+			term: "pi coding agent",
+		});
+	});
+
 	test("throws on unprefixed query", () => {
 		expect(() => parseQueryPrefix("pi-coding-agent")).toThrow("source prefix required");
 	});
@@ -47,6 +54,7 @@ describe("routeQueries", () => {
 			githubRepoQueries: [],
 			youtubeQueries: [],
 			hackerNewsQueries: [],
+			braveQueries: [],
 		});
 	});
 
@@ -57,6 +65,7 @@ describe("routeQueries", () => {
 			githubRepoQueries: ["pi-theme", "topic:pi-agent"],
 			youtubeQueries: [],
 			hackerNewsQueries: [],
+			braveQueries: [],
 		});
 	});
 
@@ -67,6 +76,7 @@ describe("routeQueries", () => {
 			githubRepoQueries: [],
 			youtubeQueries: ["pi coding agent"],
 			hackerNewsQueries: [],
+			braveQueries: [],
 		});
 	});
 
@@ -77,6 +87,18 @@ describe("routeQueries", () => {
 			githubRepoQueries: [],
 			youtubeQueries: [],
 			hackerNewsQueries: ["pi coding agent"],
+			braveQueries: [],
+		});
+	});
+
+	test("routes brave: queries to braveQueries", () => {
+		const result = routeQueries(["brave:pi coding agent"]);
+		expect(result).toEqual({
+			npmQueries: [],
+			githubRepoQueries: [],
+			youtubeQueries: [],
+			hackerNewsQueries: [],
+			braveQueries: ["pi coding agent"],
 		});
 	});
 
@@ -86,12 +108,14 @@ describe("routeQueries", () => {
 			"gh:pi-theme",
 			"yt:pi coding agent",
 			"hn:pi agent",
+			"brave:pi extension",
 		]);
 		expect(result).toEqual({
 			npmQueries: ["pi-coding-agent"],
 			githubRepoQueries: ["pi-theme"],
 			youtubeQueries: ["pi coding agent"],
 			hackerNewsQueries: ["pi agent"],
+			braveQueries: ["pi extension"],
 		});
 	});
 

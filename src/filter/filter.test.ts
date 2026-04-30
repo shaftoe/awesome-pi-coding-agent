@@ -568,6 +568,96 @@ describe("isRelevant — discovery metadata", () => {
 	});
 });
 
+// ─── Covered domain (generic sources → dedicated sources) ─────────────────────
+
+describe("isRelevant — covered domain rejection", () => {
+	it("rejects GitHub URL discovered via HN", () => {
+		const result = isRelevant({
+			url: "https://github.com/dnouri/pi-coding-agent",
+			metadata: { description: "Show HN: Pi-coding-agent: Emacs front end" },
+			discovery: { sourceName: "hackernews", query: "pi coding agent" },
+		});
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("covered by dedicated source");
+		expect(rejectionReason(result)).toContain("github.com");
+	});
+
+	it("rejects GitHub URL discovered via Brave", () => {
+		const result = isRelevant({
+			url: "https://github.com/some-org/pi-extension",
+			metadata: { description: "A pi extension" },
+			discovery: { sourceName: "brave", query: "pi extension" },
+		});
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("covered by dedicated source");
+	});
+
+	it("rejects npm URL discovered via HN", () => {
+		const result = isRelevant({
+			url: "https://www.npmjs.com/package/pi-mcp",
+			metadata: { description: "Show HN: pi-mcp" },
+			discovery: { sourceName: "hackernews", query: "pi mcp" },
+		});
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("covered by dedicated source");
+	});
+
+	it("rejects YouTube URL discovered via Brave", () => {
+		const result = isRelevant({
+			url: "https://www.youtube.com/watch?v=abc123",
+			metadata: { description: "Pi coding agent tutorial" },
+			discovery: { sourceName: "brave", query: "pi coding agent" },
+		});
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("covered by dedicated source");
+	});
+
+	it("rejects youtu.be short URL discovered via HN", () => {
+		const result = isRelevant({
+			url: "https://youtu.be/abc123",
+			metadata: { description: "Pi tutorial" },
+			discovery: { sourceName: "hackernews", query: "pi coding" },
+		});
+		expect(result.accept).toBe(false);
+		expect(rejectionReason(result)).toContain("covered by dedicated source");
+	});
+
+	it("allows GitHub URL from npm source (not a generic source)", () => {
+		const result = isRelevant({
+			url: "https://github.com/org/pi-tool",
+			metadata: { description: "A pi coding agent tool" },
+			discovery: { sourceName: "github", query: "pi-coding-agent" },
+		});
+		expect(result.accept).toBe(true);
+	});
+
+	it("allows non-covered domain from HN", () => {
+		const result = isRelevant({
+			url: "https://dev.to/someone/pi-coding-agent-tutorial",
+			metadata: { description: "Pi coding agent tutorial" },
+			discovery: { sourceName: "hackernews", query: "pi coding agent" },
+		});
+		expect(result.accept).toBe(true);
+	});
+
+	it("allows non-covered domain from Brave", () => {
+		const result = isRelevant({
+			url: "https://aiagentstore.ai/ai-agent/pi-coding-agent",
+			metadata: { description: "Pi Coding Agent on AI Agent Store" },
+			discovery: { sourceName: "brave", query: "pi coding agent" },
+		});
+		expect(result.accept).toBe(true);
+	});
+
+	it("skips check when discovery metadata is missing", () => {
+		const result = isRelevant({
+			url: "https://github.com/org/pi-tool",
+			metadata: { description: "A pi coding agent tool" },
+		});
+		expect(result.accept).toBe(true);
+	});
+});
+
 // ─── Priority: hard blocks override positive signals ───────────────────────────
 
 describe("isRelevant — hard blocks take priority", () => {

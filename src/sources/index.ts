@@ -5,6 +5,7 @@
 import type { Cache } from "../core/cache.ts";
 import type { CategorizedEntry, Entry, HealthDimensions } from "../core/types.ts";
 import { type Category, EntrySource } from "../core/types.ts";
+import { createBraveWebSearchSource } from "./brave.ts";
 import { createGitHubSource } from "./github.ts";
 import { createHackerNewsSource } from "./hackernews.ts";
 import { createNpmSource } from "./npm.ts";
@@ -20,12 +21,14 @@ export interface SourceOverrides {
 	youtubeQueries?: string[];
 	/** Override Hacker News search queries. Pass empty array to skip HN entirely. */
 	hackerNewsQueries?: string[];
+	/** Override Brave Web Search queries. Pass empty array to skip Brave entirely. */
+	braveQueries?: string[];
 	/** Run all sources in offline mode — only cached responses. */
 	offline?: boolean;
 }
 
 /** Prefixes recognized by parseQueryPrefix(). */
-export type QueryTarget = "npm" | "gh" | "yt" | "hn";
+export type QueryTarget = "npm" | "gh" | "yt" | "hn" | "brave";
 
 /** Parse a query string with a required source prefix.
  *
@@ -34,15 +37,16 @@ export type QueryTarget = "npm" | "gh" | "yt" | "hn";
  *   - `"gh:pi-extension"`        → { target: "gh", term: "pi-extension" }
  *   - `"yt:pi coding agent"`     → { target: "yt", term: "pi coding agent" }
  *   - `"hn:pi coding agent"`     → { target: "hn", term: "pi coding agent" }
+ *   - `"brave:pi coding agent"`  → { target: "brave", term: "pi coding agent" }
  *   - `"pi-coding-agent"`        → throws (prefix required)
  */
 export function parseQueryPrefix(raw: string): { target: QueryTarget; term: string } {
-	const match = raw.match(/^(npm|gh|yt|hn):(.+)$/s);
+	const match = raw.match(/^(npm|gh|yt|hn|brave):(.+)$/s);
 	if (match?.[1] && match[2]) {
 		return { target: match[1] as QueryTarget, term: match[2] };
 	}
 	throw new Error(
-		`Invalid query "${raw}": source prefix required (npm:, gh:, or yt:). Example: --query "npm:pi-coding-agent"`,
+		`Invalid query "${raw}": source prefix required (npm:, gh:, yt:, hn:, brave:). Example: --query "npm:pi-coding-agent"`,
 	);
 }
 
@@ -52,6 +56,7 @@ export function parseQueryPrefix(raw: string): { target: QueryTarget; term: stri
  * - `gh:` queries       → githubRepoQueries
  * - `yt:` queries       → youtubeQueries
  * - `hn:` queries       → hackerNewsQueries
+ * - `brave:` queries    → braveQueries
  * - Sources that receive queries run only those queries (no defaults).
  * - Sources NOT mentioned get `[]` to skip them entirely.
  * - When no queries are provided at all, returns {} so sources use defaults.
@@ -62,6 +67,7 @@ export function routeQueries(rawQueries: string[]): {
 	githubRepoQueries?: string[];
 	youtubeQueries?: string[];
 	hackerNewsQueries?: string[];
+	braveQueries?: string[];
 } {
 	if (rawQueries.length === 0) return {};
 
@@ -69,6 +75,7 @@ export function routeQueries(rawQueries: string[]): {
 	const ghRepo: string[] = [];
 	const yt: string[] = [];
 	const hn: string[] = [];
+	const brave: string[] = [];
 
 	for (const raw of rawQueries) {
 		const { target, term } = parseQueryPrefix(raw);
@@ -85,6 +92,9 @@ export function routeQueries(rawQueries: string[]): {
 			case "hn":
 				hn.push(term);
 				break;
+			case "brave":
+				brave.push(term);
+				break;
 		}
 	}
 
@@ -95,6 +105,7 @@ export function routeQueries(rawQueries: string[]): {
 		githubRepoQueries: ghRepo,
 		youtubeQueries: yt,
 		hackerNewsQueries: hn,
+		braveQueries: brave,
 	};
 }
 
@@ -130,6 +141,13 @@ export function createAllSources(cache: Cache, overrides: SourceOverrides = {}):
 	if (overrides.offline) hnOpts.offline = overrides.offline;
 	sources.push(createHackerNewsSource(cache, hnOpts));
 
+	// Brave Web Search — requires BRAVE_API_KEY (gracefully skipped if missing)
+	const braveOpts: { queries?: string[]; offline?: boolean } = {};
+	if (overrides.braveQueries) braveOpts.queries = overrides.braveQueries;
+	if (overrides.offline) braveOpts.offline = overrides.offline;
+	const braveSource = createBraveWebSearchSource(cache, braveOpts);
+	if (braveSource) sources.push(braveSource);
+
 	return sources;
 }
 
@@ -142,6 +160,7 @@ function allKnownSources(): Source[] {
 		createGitHubSource(null as never, { offline: true }),
 		createYouTubeSource(null as never, { offline: true }) ?? UNKNOWN_SOURCE,
 		createHackerNewsSource(null as never, { offline: true }),
+		createBraveWebSearchSource(null as never, { offline: true }) ?? UNKNOWN_SOURCE,
 	];
 }
 
@@ -232,6 +251,9 @@ export function getSource(source: EntrySource): Source {
 			break;
 		case EntrySource.HackerNewsSearch:
 			src = createHackerNewsSource(null as never, { offline: true });
+			break;
+		case EntrySource.BraveWebSearch:
+			src = createBraveWebSearchSource(null as never, { offline: true });
 			break;
 	}
 

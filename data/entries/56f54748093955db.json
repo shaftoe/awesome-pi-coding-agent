@@ -1,0 +1,29 @@
+{
+  "id": "Fatih0234-pi-config",
+  "name": "Fatih0234-pi-config",
+  "url": "https://github.com/Fatih0234/pi-config",
+  "source": "github-search",
+  "description": "My pi coding agent config: extensions, themes, prompts, skills, and settings",
+  "metadata": {
+    "github_url": "https://github.com/Fatih0234/pi-config",
+    "repo_full_name": "Fatih0234/pi-config",
+    "description": "My pi coding agent config: extensions, themes, prompts, skills, and settings",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-30T10:40:37Z",
+    "pushed_at": "2026-04-30T10:41:41Z",
+    "updated_at": "2026-04-30T10:41:46Z",
+    "size": 205,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}
