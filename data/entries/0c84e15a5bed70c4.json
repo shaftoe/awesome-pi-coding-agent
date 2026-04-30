@@ -1,29 +1,29 @@
 {
-  "id": "AnupamKhurana-pi-whatsapp",
-  "name": "AnupamKhurana-pi-whatsapp",
-  "url": "https://github.com/AnupamKhurana/pi-whatsapp",
-  "source": "github-search",
-  "description": "Production-ready WhatsApp integration for Pi Coding Agent",
-  "metadata": {
-    "github_url": "https://github.com/AnupamKhurana/pi-whatsapp",
-    "repo_full_name": "AnupamKhurana/pi-whatsapp",
-    "description": "Production-ready WhatsApp integration for Pi Coding Agent",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "topics": [],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-04-30T06:44:17Z",
-    "pushed_at": "2026-04-30T06:51:46Z",
-    "updated_at": "2026-04-30T06:51:50Z",
-    "size": 16,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
-  },
-  "health": {
-    "score": 50,
-    "level": "maintained"
-  },
-  "category": "misc"
+	"id": "AnupamKhurana-pi-whatsapp",
+	"name": "AnupamKhurana-pi-whatsapp",
+	"url": "https://github.com/AnupamKhurana/pi-whatsapp",
+	"source": "github-search",
+	"description": "Production-ready WhatsApp integration for Pi Coding Agent",
+	"metadata": {
+		"github_url": "https://github.com/AnupamKhurana/pi-whatsapp",
+		"repo_full_name": "AnupamKhurana/pi-whatsapp",
+		"description": "Production-ready WhatsApp integration for Pi Coding Agent",
+		"stars": 0,
+		"forks": 0,
+		"open_issues": 0,
+		"topics": [],
+		"language": "TypeScript",
+		"archived": false,
+		"created_at": "2026-04-30T06:44:17Z",
+		"pushed_at": "2026-04-30T06:51:46Z",
+		"updated_at": "2026-04-30T06:51:50Z",
+		"size": 16,
+		"license": "MIT",
+		"discovery_hint": "github-repo:pi-agent language:TypeScript"
+	},
+	"health": {
+		"score": 50,
+		"level": "maintained"
+	},
+	"category": "extension"
 }

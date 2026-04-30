@@ -455,7 +455,7 @@ Candidates are **sorted by source priority** (npm → GitHub → YouTube → Man
 
 ### Classification (`enrich/classify.ts`) ✅
 
-Four categories: `Extension > Theme > Video > Misc`. See [Classification](#classification).
+Five categories: `Extension > Theme > Video > Article > Misc`. Uses npm name patterns, Pi-specific description signals, README scores, and keyword matching. See [Classification](#classification).
 
 ### ✅ Health scoring
 
@@ -548,30 +548,35 @@ data/entries/*.json
 
 ### Categories
 
-The awesome-list uses **four categories** (TypeScript string enum `Category`):
+The awesome-list uses **five categories** (TypeScript string enum `Category`):
 
 | Category | Description | Signals |
-|----------|-------------|---------|
-| `Extension` | Extends Pi's behaviour — plugins, skills, MCP servers | `extension`, `hook`, `plugin`, `mcp-server`, `skill`, `tool` |
+|----------|-------------|--------|
+| `Extension` | Extends Pi's behaviour — plugins, skills, MCP servers, providers, adapters | npm name patterns (`pi-*`, `@scope/pi-*`), Pi-specific description patterns, `extension`, `hook`, `plugin`, `mcp-server`, `skill`, `tool`, `provider`, `adapter`, `bridge` |
 | `Theme` | Visual themes / colour schemes | `theme`, `colorscheme`, known names (`catppuccin`, `dracula`, `monokai`, `gruvbox`, `nord`, `solarized`, `rose-pine`) |
 | `Video` | YouTube videos, tutorials | YouTube URL (hard rule, no keyword matching) |
-| `Misc` | Everything else — CLIs, dashboards, providers, templates | Catch-all fallback |
+| `Article` | Blog posts, discussions, community coverage | Brave/HN entries with article content |
+| `Misc` | Everything else — CLIs, dashboards, templates, configurations | Catch-all fallback |
 
-**Priority:** `Extension > Theme > Video > Misc`. A single entry can match multiple categories; the classifier applies hard priority.
+**Priority:** `Extension > Theme > Video > Article > Misc`. A single entry can match multiple categories; the classifier applies hard priority.
 
 ### Classification signals (in order)
 
-1. **URL heuristics** — YouTube URLs → `Video`. Deterministic, always wins.
-2. **Keyword matching** — name + description scanned for category-specific terms.
-3. **Default fallback** → `Misc`.
+1. **Source suggested category** — YouTube → `Video`. Deterministic, always wins.
+2. **Pi-specific naming/description signals** — npm package name patterns (`pi-*`, `@scope/pi-*`) and Pi-specific description patterns ("for pi coding agent", "pi package") → `Extension`.
+3. **README category scores** — from enrichment metadata.
+4. **Keyword matching** — name + description scanned for category-specific terms (`extension`, `hook`, `plugin`, `provider`, etc.).
+5. **Default fallback** → `Misc`.
 
-### Why four, not eight
+### Why five, not eight
 
 The previous taxonomy had 8 categories (`extension`, `tool`, `theme`, `provider`, `template`, `video`, `example`, `documentation`). Problems:
 
 - `tool` vs `extension` was ambiguous — many Pi packages are both
 - `provider`, `template`, `example` had too few entries
-- Automated classification was ~60% accurate across 8 categories, ~90%+ across 4
+- Automated classification was ~60% accurate across 8 categories, ~90%+ across fewer
+
+`provider` is now classified as `Extension` since Pi providers (Claude, Gemini, etc.) ARE extensions. `article` was added as a separate category for blog posts and discussions from Brave/HN sources.
 
 ### Health Scoring Architecture
 

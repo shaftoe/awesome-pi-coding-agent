@@ -1,34 +1,34 @@
 {
-  "id": "pi-model-selector-x",
-  "name": "pi-model-selector-x",
-  "url": "https://www.npmjs.com/package/pi-model-selector-x",
-  "source": "npm-search",
-  "description": "Enhances pi's /model selector with context window, cost, input modalities, protocol, and reasoning info",
-  "metadata": {
-    "github_url": "https://github.com/Dwsy/pi-model-selector-x",
-    "npm_name": "pi-model-selector-x",
-    "description": "Enhances pi's /model selector with context window, cost, input modalities, protocol, and reasoning info",
-    "keywords": [
-      "pi-package",
-      "pi",
-      "pi-extension",
-      "model",
-      "selector",
-      "model-selector-x"
-    ],
-    "version": "0.1.0",
-    "published_at": "2026-04-29T10:06:48.817Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
-  },
-  "health": {
-    "score": 72,
-    "level": "active"
-  },
-  "category": "misc"
+	"id": "pi-model-selector-x",
+	"name": "pi-model-selector-x",
+	"url": "https://www.npmjs.com/package/pi-model-selector-x",
+	"source": "npm-search",
+	"description": "Enhances pi's /model selector with context window, cost, input modalities, protocol, and reasoning info",
+	"metadata": {
+		"github_url": "https://github.com/Dwsy/pi-model-selector-x",
+		"npm_name": "pi-model-selector-x",
+		"description": "Enhances pi's /model selector with context window, cost, input modalities, protocol, and reasoning info",
+		"keywords": [
+			"pi-package",
+			"pi",
+			"pi-extension",
+			"model",
+			"selector",
+			"model-selector-x"
+		],
+		"version": "0.1.0",
+		"published_at": "2026-04-29T10:06:48.817Z",
+		"npm_downloads_monthly": 0,
+		"npm_downloads_weekly": 0,
+		"npm_score_final": 0,
+		"npm_score_popularity": 1,
+		"npm_score_quality": 1,
+		"npm_score_maintenance": 1,
+		"discovery_hint": "npm:keywords:pi-package"
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "extension"
 }

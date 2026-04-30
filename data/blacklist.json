@@ -16032,5 +16032,510 @@
 		"reason": "not a valid article",
 		"blacklisted_at": "2026-04-30T14:26:52.442Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/river/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.545Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/gustialfian/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.548Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/SaschaMet/pi-coding-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.549Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/saga/PI-Coding-Agent-OpenClaw-study",
+		"blacklisted_at": "2026-04-30T15:01:37.551Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/gerkoh/pi-agents",
+		"blacklisted_at": "2026-04-30T15:01:37.553Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/sayyss/Pi-coding-agent-visualizer-",
+		"blacklisted_at": "2026-04-30T15:01:37.554Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/giladashubham/PI-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.555Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/sndrgrdn/pi-coding-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.557Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/cyril265/my-pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.558Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/AlexMold/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.56Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/mikeyobrien/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.561Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/potentialdiffer/pi-agent-stuff",
+		"blacklisted_at": "2026-04-30T15:01:37.563Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/hushhenry/pi-agent-vercel",
+		"blacklisted_at": "2026-04-30T15:01:37.564Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/shyamchandranmec/pi-agent-demo",
+		"blacklisted_at": "2026-04-30T15:01:37.566Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/T1t4m1un/pi-agent-team",
+		"blacklisted_at": "2026-04-30T15:01:37.567Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/acennan/pi-agents",
+		"blacklisted_at": "2026-04-30T15:01:37.569Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/jobmatchme/bee-pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.57Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/heweijie0306/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.572Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Caho1/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.573Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Whamp/pi-agents-md-router",
+		"blacklisted_at": "2026-04-30T15:01:37.575Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/ditfetzt/pi-cline-free-models",
+		"blacklisted_at": "2026-04-30T15:01:37.576Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/ADIX7/pi-agent-temperature",
+		"blacklisted_at": "2026-04-30T15:01:37.578Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/dkmaker/pi-agent-framework",
+		"blacklisted_at": "2026-04-30T15:01:37.579Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/skidvis/pi-coding-agent-config",
+		"blacklisted_at": "2026-04-30T15:01:37.581Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/make-it-simple-rayshar/pi-coding-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.582Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/louiss0/pi-agent-resource",
+		"blacklisted_at": "2026-04-30T15:01:37.583Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/RobotStartup/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.585Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/thienlh/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.586Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/0xundef/pi-agent-browser",
+		"blacklisted_at": "2026-04-30T15:01:37.588Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/jamesacarr/pi-agent-stuff",
+		"blacklisted_at": "2026-04-30T15:01:37.589Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/timjonaswechler/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.591Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/aehyok/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.592Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/chriseidhof/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.593Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/hushhenry/pi-agent-refactored",
+		"blacklisted_at": "2026-04-30T15:01:37.595Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/pasky/pi-agent-config",
+		"blacklisted_at": "2026-04-30T15:01:37.598Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/NiranjanJ2/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.599Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Whamp/pi-agentic-compaction",
+		"blacklisted_at": "2026-04-30T15:01:37.6Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/saurabhp75/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.602Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/mrndstvndv/pi-coding-agent-flake",
+		"blacklisted_at": "2026-04-30T15:01:37.603Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/thebluewhale/pi-agent-study",
+		"blacklisted_at": "2026-04-30T15:01:37.605Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/pascal-de-ladurantaye/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.606Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/jinxi97/pi-agent-workspace",
+		"blacklisted_at": "2026-04-30T15:01:37.608Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/jinxi97/pi-agent-client",
+		"blacklisted_at": "2026-04-30T15:01:37.609Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/abishalom/pi-agent-stuff",
+		"blacklisted_at": "2026-04-30T15:01:37.611Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/LinYS77/pi-agentteam",
+		"blacklisted_at": "2026-04-30T15:01:37.612Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/AaronShark/pi-agent-demo",
+		"blacklisted_at": "2026-04-30T15:01:37.613Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/raindragon14/pi-agent-config",
+		"blacklisted_at": "2026-04-30T15:01:37.615Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/eaglecloud-inc/pi-agent-sdk",
+		"blacklisted_at": "2026-04-30T15:01:37.616Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/johndlong73/pi-agent-engrams",
+		"blacklisted_at": "2026-04-30T15:01:37.618Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/jbro/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.619Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/TheFurnace/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.621Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/IMackerI/pi-agent-config",
+		"blacklisted_at": "2026-04-30T15:01:37.623Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/harunjeylan/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.624Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/funtuan/pi-agent-cf",
+		"blacklisted_at": "2026-04-30T15:01:37.626Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Cicici-Shi/pi-agent-starter",
+		"blacklisted_at": "2026-04-30T15:01:37.627Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/cardosoccc/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.628Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/pmTouchedTheCode/pi-agents",
+		"blacklisted_at": "2026-04-30T15:01:37.63Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/dcai/discord-pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.631Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/joshleblanc/pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.633Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/luzyfurz-tech/Pi-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.634Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@robhowley/pi-session-hygiene",
+		"blacklisted_at": "2026-04-30T15:01:37.636Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-agent-pack",
+		"blacklisted_at": "2026-04-30T15:01:37.637Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-glimpse-changes",
+		"blacklisted_at": "2026-04-30T15:01:37.638Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Lum1104/Understand-Anything",
+		"blacklisted_at": "2026-04-30T15:01:37.64Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/moshehbenavraham/crocbot",
+		"blacklisted_at": "2026-04-30T15:01:37.641Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/ai-ecoverse/slicc",
+		"blacklisted_at": "2026-04-30T15:01:37.643Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/shanevcantwell/frontier-advisor",
+		"blacklisted_at": "2026-04-30T15:01:37.644Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/aranair/dotfiles",
+		"blacklisted_at": "2026-04-30T15:01:37.646Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/stussysenik/pi-agent-global",
+		"blacklisted_at": "2026-04-30T15:01:37.647Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/averycrespi/agent-config",
+		"blacklisted_at": "2026-04-30T15:01:37.649Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Rahlir/clunker-stuff",
+		"blacklisted_at": "2026-04-30T15:01:37.651Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/perminder-klair/ruuh",
+		"blacklisted_at": "2026-04-30T15:01:37.652Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/machulav/accountant24",
+		"blacklisted_at": "2026-04-30T15:01:37.653Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/johnochinero/pillarz-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.654Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/nwtgck/piping-url-agent",
+		"blacklisted_at": "2026-04-30T15:01:37.655Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/lgersman/wasm-playground",
+		"blacklisted_at": "2026-04-30T15:01:37.656Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/dyyz1993/pi-agent-template",
+		"blacklisted_at": "2026-04-30T15:01:37.657Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/kaikozlov/pi-buddy",
+		"blacklisted_at": "2026-04-30T15:01:37.658Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/actions-marketplace-validations/shaftoe_pi-coding-agent-action",
+		"blacklisted_at": "2026-04-30T15:01:37.66Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@aedge-io/typed-clone",
+		"blacklisted_at": "2026-04-30T15:01:37.661Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@andamio/coach",
+		"blacklisted_at": "2026-04-30T15:01:37.662Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@beatly/core",
+		"blacklisted_at": "2026-04-30T15:01:37.663Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ruminaider/notion-cli",
+		"blacklisted_at": "2026-04-30T15:01:37.664Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@0xtiby/looper",
+		"blacklisted_at": "2026-04-30T15:01:37.665Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/demo-dev",
+		"blacklisted_at": "2026-04-30T15:01:37.666Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/shopq",
+		"blacklisted_at": "2026-04-30T15:01:37.667Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/dripline",
+		"blacklisted_at": "2026-04-30T15:01:37.668Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/expert-ai",
+		"blacklisted_at": "2026-04-30T15:01:37.67Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/holdpty",
+		"blacklisted_at": "2026-04-30T15:01:37.671Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@jay-zod/speak",
+		"blacklisted_at": "2026-04-30T15:01:37.673Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@jay-zod/speakturbo",
+		"blacklisted_at": "2026-04-30T15:01:37.674Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/sterlai",
+		"blacklisted_at": "2026-04-30T15:01:37.676Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/claudemon",
+		"blacklisted_at": "2026-04-30T15:01:37.677Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/thincontext",
+		"blacklisted_at": "2026-04-30T15:01:37.679Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/drata-cli",
+		"blacklisted_at": "2026-04-30T15:01:37.68Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@marcfargas/go-holded",
+		"blacklisted_at": "2026-04-30T15:02:54.653Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@marcfargas/go-easy",
+		"blacklisted_at": "2026-04-30T15:02:54.656Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/glimpseui",
+		"blacklisted_at": "2026-04-30T15:02:54.657Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/runline",
+		"blacklisted_at": "2026-04-30T15:02:54.659Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/agent-comms",
+		"blacklisted_at": "2026-04-30T15:02:54.66Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@clankie/json-ui-render",
+		"blacklisted_at": "2026-04-30T15:02:54.662Z",
+		"source": "manual"
 	}
 ]

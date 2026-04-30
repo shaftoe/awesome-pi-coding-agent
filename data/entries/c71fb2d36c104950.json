@@ -1,29 +1,29 @@
 {
-  "id": "pi-prompt-translate",
-  "name": "pi-prompt-translate",
-  "url": "https://www.npmjs.com/package/pi-prompt-translate",
-  "source": "npm-search",
-  "description": "Translate user prompts to a configurable target language in the Pi coding agent",
-  "metadata": {
-    "github_url": null,
-    "npm_name": "pi-prompt-translate",
-    "description": "Translate user prompts to a configurable target language in the Pi coding agent",
-    "keywords": [
-      "pi-package"
-    ],
-    "version": "1.0.0",
-    "published_at": "2026-04-29T19:00:04.489Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
-  },
-  "health": {
-    "score": 72,
-    "level": "active"
-  },
-  "category": "misc"
+	"id": "pi-prompt-translate",
+	"name": "pi-prompt-translate",
+	"url": "https://www.npmjs.com/package/pi-prompt-translate",
+	"source": "npm-search",
+	"description": "Translate user prompts to a configurable target language in the Pi coding agent",
+	"metadata": {
+		"github_url": null,
+		"npm_name": "pi-prompt-translate",
+		"description": "Translate user prompts to a configurable target language in the Pi coding agent",
+		"keywords": [
+			"pi-package"
+		],
+		"version": "1.0.0",
+		"published_at": "2026-04-29T19:00:04.489Z",
+		"npm_downloads_monthly": 0,
+		"npm_downloads_weekly": 0,
+		"npm_score_final": 0,
+		"npm_score_popularity": 1,
+		"npm_score_quality": 1,
+		"npm_score_maintenance": 1,
+		"discovery_hint": "npm:keywords:pi-package"
+	},
+	"health": {
+		"score": 72,
+		"level": "active"
+	},
+	"category": "extension"
 }
