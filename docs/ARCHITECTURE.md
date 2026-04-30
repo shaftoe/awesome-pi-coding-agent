@@ -249,7 +249,7 @@ Composes `ThrottledFetcher` + `Cache` into a paginator.
 | `store.ts` | Entry store facade for `data/`. Delegates to `FileRepository<CategorizedEntry>`. |
 | `sort.ts` | Canonical entry ordering (health level → score → name). Shared by README render and site. |
 | `ids.ts` | *(removed — ID derivation is now a method on the `Source` interface, dispatched via `sources/index.ts`)* |
-| `html.ts` | HTML entity decoding. Used by YouTube title/description parsing. |
+| `html.ts` | HTML entity decoding, tag stripping, and `cleanText()` helper. Used by all sources for title/description sanitisation (strips `<strong>`, `<p>`, `<a>` tags, decodes `&#x27;`, `&quot;`, etc.). |
 | `dedup.ts` | Duplicate detection by URL + GitHub URL cross-reference. Used by the process stage. |
 | `terms.ts` | Canonical `SEARCH_TERMS` array shared by all sources. |
 | `timestamp.ts` | Shared UTC timestamp formatting (`formatBuildTimestamp()`). Used by README generator and site build. |
