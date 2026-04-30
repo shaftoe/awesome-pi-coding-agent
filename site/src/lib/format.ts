@@ -52,7 +52,9 @@ export function formatStars(n: number): string {
 
 /**
  * Source-aware popularity string.
- * Returns the strongest available signal: YouTube views, GitHub stars, npm downloads.
+ * - YouTube: views
+ * - GitHub entries: stars
+ * - npm entries: downloads + stars (when enriched with GitHub data)
  */
 export function popularity(entry: CategorizedEntry): string {
 	const meta = entry.metadata as Record<string, unknown>;
@@ -63,16 +65,21 @@ export function popularity(entry: CategorizedEntry): string {
 		return `📺${formatNumber(views)}`;
 	}
 
-	// GitHub entries: stars
+	// npm entries: show downloads + enriched GitHub stars
+	const downloads = meta["npm_downloads_monthly"];
+	if (typeof downloads === "number" && downloads > 0) {
+		const parts: string[] = [`⬇ ${formatNumber(downloads)}/mo`];
+		const stars = meta["stars"];
+		if (typeof stars === "number" && stars > 0) {
+			parts.push(`⭐${formatNumber(stars)}`);
+		}
+		return parts.join(" ");
+	}
+
+	// GitHub entries (or enriched npm without downloads): stars
 	const stars = meta["stars"];
 	if (typeof stars === "number" && stars > 0) {
 		return `⭐${formatNumber(stars)}`;
-	}
-
-	// npm entries: monthly downloads
-	const downloads = meta["npm_downloads_monthly"];
-	if (typeof downloads === "number" && downloads > 0) {
-		return `⬇ ${formatNumber(downloads)}/mo`;
 	}
 
 	return "";
@@ -80,18 +87,24 @@ export function popularity(entry: CategorizedEntry): string {
 
 /**
  * Extract the raw numeric popularity value for sorting / display.
+ * For enriched npm entries, uses downloads + stars as a blended metric.
  * Returns 0 if no signal available.
  */
 export function popularityValue(entry: CategorizedEntry): number {
 	const meta = entry.metadata as Record<string, unknown>;
 
 	const views = meta["views"];
-	if (typeof views === "number") return views;
-
-	const stars = meta["stars"];
-	if (typeof stars === "number") return stars;
+	if (typeof views === "number" && views > 0) return views;
 
 	const downloads = meta["npm_downloads_monthly"];
+	const stars = meta["stars"];
+	if (typeof downloads === "number" && downloads > 0) {
+		// Blended value: downloads + stars bonus
+		const starBonus = typeof stars === "number" ? stars * 10 : 0;
+		return downloads + starBonus;
+	}
+
+	if (typeof stars === "number" && stars > 0) return stars;
 	if (typeof downloads === "number") return downloads;
 
 	return 0;
@@ -126,7 +139,8 @@ export function timeAgo(isoDate: string | null): string {
 /** Pick the most relevant "last updated" timestamp from entry metadata. */
 export function lastUpdated(entry: CategorizedEntry): string | null {
 	const meta = entry.metadata as Record<string, unknown>;
-	for (const field of ["pushed_at", "published_at", "updated_at"] as const) {
+	// Prefer github_pushed_at (last commit, from enrichment) over pushed_at (GitHub source)
+	for (const field of ["github_pushed_at", "pushed_at", "published_at", "updated_at"] as const) {
 		if (typeof meta[field] === "string") return meta[field] as string;
 	}
 	return null;
@@ -134,8 +148,22 @@ export function lastUpdated(entry: CategorizedEntry): string | null {
 
 // ─── Language ─────────────────────────────────────────────────────────────────
 
-/** Extract the primary language from entry metadata (GitHub entries only). */
+/** Extract the primary language from entry metadata. */
 export function language(entry: CategorizedEntry): string | null {
 	const meta = entry.metadata as Record<string, unknown>;
 	return typeof meta["language"] === "string" ? meta["language"] : null;
+}
+
+/** Extract the SPDX license identifier from entry metadata. */
+export function license(entry: CategorizedEntry): string | null {
+	const meta = entry.metadata as Record<string, unknown>;
+	const val = meta["license"];
+	return typeof val === "string" && val.length > 0 ? val : null;
+}
+
+/** Extract topics/tags from entry metadata. */
+export function topics(entry: CategorizedEntry): string[] {
+	const meta = entry.metadata as Record<string, unknown>;
+	const val = meta["topics"];
+	return Array.isArray(val) ? (val as string[]) : [];
 }

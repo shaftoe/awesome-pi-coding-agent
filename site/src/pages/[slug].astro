@@ -5,7 +5,7 @@ import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
 import type { CategorizedEntry, Category } from "../lib/data";
 import { CATEGORY_META, displayName, getCategories, loadAllEntries, popularity } from "../lib/data";
 // biome-ignore lint/correctness/noUnusedImports: used in Astro template
-import { language, lastUpdated, popularityValue, timeAgo } from "../lib/format";
+import { language, lastUpdated, license, popularityValue, timeAgo, topics } from "../lib/format";
 
 export function getStaticPaths() {
 	const entries = loadAllEntries();
@@ -30,6 +30,8 @@ const cards = category.entries.map((entry) => ({
 	popValue: popularityValue(entry),
 	lastCommit: lastUpdated(entry),
 	lang: language(entry),
+	lic: license(entry),
+	tags: topics(entry),
 	healthLevel: entry.health.level,
 }));
 ---
@@ -51,13 +53,14 @@ const cards = category.entries.map((entry) => ({
 
   <div class="entry-grid">
     {cards.map((card) => (
-      <a href={card.url} target="_blank" rel="noopener noreferrer" class="entry-card" data-searchable={`${card.name} ${card.desc} ${card.lang ?? ''}`}>
+      <a href={card.url} target="_blank" rel="noopener noreferrer" class="entry-card" data-searchable={`${card.name} ${card.desc} ${card.lang ?? ''} ${card.lic ?? ''} ${card.tags.join(' ')}`}>
         <div style="display:flex;align-items:center;gap:0.5rem">
           <h3>{card.name}</h3>
           <span class={`health-badge health-${card.healthLevel}`}>
             <span class="dot" />
             {card.healthLevel}
           </span>
+          {card.lic && <span class="license-badge">{card.lic}</span>}
         </div>
         <p class="desc">{card.desc}</p>
         <div class="meta">
@@ -69,6 +72,14 @@ const cards = category.entries.map((entry) => ({
           )}
           {card.lastCommit && <span class="updated">{timeAgo(card.lastCommit)}</span>}
         </div>
+        {card.tags.length > 0 && (
+          <div class="tags">
+            {card.tags.slice(0, 5).map((tag) => (
+              <span class="tag">{tag}</span>
+            ))}
+            {card.tags.length > 5 && <span class="tag tag-more">+{card.tags.length - 5}</span>}
+          </div>
+        )}
       </a>
     ))}
   </div>

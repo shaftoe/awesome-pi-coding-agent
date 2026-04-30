@@ -88,18 +88,30 @@ export function searchIndex(): AstroIntegration {
 					const meta = e.metadata;
 					let pop = 0;
 					let popLabel = "";
+
+					// YouTube entries: views
 					if (typeof meta["views"] === "number" && (meta["views"] as number) > 0) {
 						pop = meta["views"] as number;
 						popLabel = `📺${formatNumber(pop)}`;
-					} else if (typeof meta["stars"] === "number" && (meta["stars"] as number) > 0) {
-						pop = meta["stars"] as number;
-						popLabel = `⭐${formatNumber(pop)}`;
-					} else if (
+					}
+					// npm entries: downloads + enriched GitHub stars
+					else if (
 						typeof meta["npm_downloads_monthly"] === "number" &&
 						(meta["npm_downloads_monthly"] as number) > 0
 					) {
 						pop = meta["npm_downloads_monthly"] as number;
-						popLabel = `⬇ ${formatNumber(pop)}/mo`;
+						const parts = [`⬇ ${formatNumber(pop)}/mo`];
+						if (typeof meta["stars"] === "number" && (meta["stars"] as number) > 0) {
+							const starBonus = (meta["stars"] as number) * 10;
+							pop += starBonus;
+							parts.push(`⭐${formatNumber(meta["stars"] as number)}`);
+						}
+						popLabel = parts.join(" ");
+					}
+					// GitHub entries (or enriched npm without downloads): stars
+					else if (typeof meta["stars"] === "number" && (meta["stars"] as number) > 0) {
+						pop = meta["stars"] as number;
+						popLabel = `⭐${formatNumber(pop)}`;
 					}
 
 					return {

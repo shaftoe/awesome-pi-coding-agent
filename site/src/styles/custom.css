@@ -108,6 +108,30 @@
 	margin-left: auto;
 }
 
+/* ─── Tags ────────────────────────────────────────────────────────────────────── */
+
+.tags {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.25rem;
+}
+
+.tag {
+	display: inline-flex;
+	align-items: center;
+	border-radius: 9999px;
+	padding: 0.0625rem 0.375rem;
+	font-size: 0.625rem;
+	background: var(--sl-color-gray-5);
+	color: var(--sl-color-gray-3);
+	line-height: 1.5;
+}
+
+.tag-more {
+	color: var(--sl-color-gray-4);
+	font-style: italic;
+}
+
 /* ─── Health badge ──────────────────────────────────────────────────────────── */
 
 .health-badge {
@@ -156,6 +180,20 @@
 }
 .health-dead .dot {
 	background: var(--sl-color-red);
+}
+
+/* ─── License badge ─────────────────────────────────────────────────────────── */
+
+.license-badge {
+	display: inline-flex;
+	align-items: center;
+	border-radius: 9999px;
+	padding: 0.125rem 0.5rem;
+	font-size: var(--sl-text-2xs);
+	font-weight: 500;
+	background: var(--sl-color-gray-5);
+	color: var(--sl-color-gray-3);
+	margin-inline-start: auto;
 }
 
 /* ─── Stats bar ─────────────────────────────────────────────────────────────── */

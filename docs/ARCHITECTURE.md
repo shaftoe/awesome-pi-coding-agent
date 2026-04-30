@@ -529,7 +529,7 @@ All sources store the relevant metric in metadata at discovery (YouTube via enri
 | Stale | 🟠 |
 | Dead | 🔴 |
 
-**Timestamps:** Relative time strings ("today", "yesterday", "3d ago", "2mo ago") computed from `pushed_at` / `published_at` / `updated_at` metadata via Temporal.
+**Timestamps:** Relative time strings ("today", "yesterday", "3d ago", "2mo ago") computed from `github_pushed_at` / `pushed_at` / `published_at` / `updated_at` metadata via Temporal. Enriched npm entries prefer `github_pushed_at` (last commit) over `published_at` (npm publish date).
 
 **Structure:**
 

@@ -28,8 +28,11 @@ export {
 	displayName,
 	formatNumber,
 	formatStars,
+	language,
 	lastUpdated,
+	license,
 	popularity,
 	popularityValue,
 	timeAgo,
+	topics,
 } from "./format";
