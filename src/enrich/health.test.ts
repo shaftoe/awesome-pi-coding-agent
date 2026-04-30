@@ -102,6 +102,12 @@ describe("scoreFreshness", () => {
 		expect(scoreFreshness(recent)).toBe(100);
 	});
 
+	test("handles datetime without timezone offset (Brave page_age)", () => {
+		const now = Temporal.Now.instant();
+		const recent = now.subtract({ milliseconds: 60_000 }).toString().replace(/Z$/, "");
+		expect(scoreFreshness(recent)).toBe(100);
+	});
+
 	test("returns 5 for very old date (≥ 730 days)", () => {
 		const now = Temporal.Now.instant();
 		const old = now.subtract({ milliseconds: 800 * DAY_MS }).toString();

@@ -1,0 +1,21 @@
+{
+  "id": "BRAVE_aisoftwaresystems.com_what-is-pi-agent",
+  "name": "What Is Pi Agent?",
+  "url": "https://aisoftwaresystems.com/blog/what-is-pi-agent/",
+  "source": "brave-web-search",
+  "description": "What is <strong>Pi</strong> <strong>Agent</strong>? Explore this lightweight, open-source terminal AI <strong>coding</strong> <strong>agent</strong> with just four tools. Ideal for developers and businesses seeking efficient AI automation solutions.",
+  "metadata": {
+    "title": "What Is Pi Agent?",
+    "name": "What Is Pi Agent?",
+    "description": "What is <strong>Pi</strong> <strong>Agent</strong>? Explore this lightweight, open-source terminal AI <strong>coding</strong> <strong>agent</strong> with just four tools. Ideal for developers and businesses seeking efficient AI automation solutions.",
+    "published_at": "2026-04-07T11:53:21",
+    "source_site": "AI Software Systems",
+    "source_url": "https://aisoftwaresystems.com/blog/what-is-pi-agent/",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "article"
+}

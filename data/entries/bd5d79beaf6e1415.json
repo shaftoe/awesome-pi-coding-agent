@@ -1,0 +1,29 @@
+{
+  "id": "bowfeng-pi-show",
+  "name": "bowfeng-pi-show",
+  "url": "https://github.com/bowfeng/pi-show",
+  "source": "github-search",
+  "description": "pi coding agent show command to display agent information",
+  "metadata": {
+    "github_url": "https://github.com/bowfeng/pi-show",
+    "repo_full_name": "bowfeng/pi-show",
+    "description": "pi coding agent show command to display agent information",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-30T09:20:43Z",
+    "pushed_at": "2026-04-30T09:27:27Z",
+    "updated_at": "2026-04-30T09:27:31Z",
+    "size": 5,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

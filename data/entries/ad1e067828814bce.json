@@ -1,0 +1,36 @@
+{
+  "id": "Rahlir-clunker-stuff",
+  "name": "Rahlir-clunker-stuff",
+  "url": "https://github.com/Rahlir/clunker-stuff",
+  "source": "github-search",
+  "description": "My personal stuff that helps clunkers do stuff.",
+  "metadata": {
+    "github_url": "https://github.com/Rahlir/clunker-stuff",
+    "repo_full_name": "Rahlir/clunker-stuff",
+    "description": "My personal stuff that helps clunkers do stuff.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "ai",
+      "opencode",
+      "pi",
+      "pi-coding-agent",
+      "skills"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-29T21:02:32Z",
+    "pushed_at": "2026-04-29T21:14:35Z",
+    "updated_at": "2026-04-30T09:38:11Z",
+    "size": 36,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "BRAVE_reddit.com_changeyourcodingagenttopi",
+  "name": "r/ClaudeCode on Reddit: Change your coding agent to pi",
+  "url": "https://www.reddit.com/r/ClaudeCode/comments/1qu5fa4/change_your_coding_agent_to_pi/",
+  "source": "brave-web-search",
+  "description": "https://github.com/badlogic/pi-mono/blob/main/packages/coding-agent",
+  "metadata": {
+    "title": "r/ClaudeCode on Reddit: Change your coding agent to pi",
+    "name": "r/ClaudeCode on Reddit: Change your coding agent to pi",
+    "description": "https://github.com/badlogic/pi-mono/blob/main/packages/coding-agent",
+    "published_at": "2026-02-02T19:45:18",
+    "source_site": "Reddit",
+    "source_url": "https://www.reddit.com/r/ClaudeCode/comments/1qu5fa4/change_your_coding_agent_to_pi/",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "health": {
+    "score": 39,
+    "level": "stale"
+  },
+  "category": "article"
+}

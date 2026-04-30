@@ -1,0 +1,21 @@
+{
+  "id": "BRAVE_dev.to_pi-coding-agent-a-self-documenting-exten",
+  "name": "Pi Coding Agent: A Self-Documenting, Extensible AI Partner - DEV Community",
+  "url": "https://dev.to/theoklitosbam7/pi-coding-agent-a-self-documenting-extensible-ai-partner-dn",
+  "source": "brave-web-search",
+  "description": "Exploring <strong>Pi</strong>&#x27;s ability to read its own documentation, understand its codebase, and help extend or modify its behavior through natural conversation. Tagged with ai, <strong>agents</strong>, agentskills.",
+  "metadata": {
+    "title": "Pi Coding Agent: A Self-Documenting, Extensible AI Partner - DEV Community",
+    "name": "Pi Coding Agent: A Self-Documenting, Extensible AI Partner - DEV Community",
+    "description": "Exploring <strong>Pi</strong>&#x27;s ability to read its own documentation, understand its codebase, and help extend or modify its behavior through natural conversation. Tagged with ai, <strong>agents</strong>, agentskills.",
+    "published_at": "2026-04-13T11:40:30",
+    "source_site": "DEV Community",
+    "source_url": "https://dev.to/theoklitosbam7/pi-coding-agent-a-self-documenting-extensible-ai-partner-dn",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "article"
+}

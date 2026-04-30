@@ -1,0 +1,29 @@
+{
+  "id": "mooncos-pi-setup",
+  "name": "mooncos-pi-setup",
+  "url": "https://github.com/mooncos/pi-setup",
+  "source": "github-search",
+  "description": "My custom pi-coding-agent setup",
+  "metadata": {
+    "github_url": "https://github.com/mooncos/pi-setup",
+    "repo_full_name": "mooncos/pi-setup",
+    "description": "My custom pi-coding-agent setup",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-30T09:41:33Z",
+    "pushed_at": "2026-04-30T11:57:56Z",
+    "updated_at": "2026-04-30T11:58:00Z",
+    "size": 4,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

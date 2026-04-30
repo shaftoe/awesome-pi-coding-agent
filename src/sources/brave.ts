@@ -80,6 +80,7 @@ interface BraveSearchResponse {
 	};
 	query?: {
 		offset?: number;
+		more_results_available?: boolean;
 	};
 	type?: string;
 }
@@ -179,7 +180,11 @@ async function fetchPage(
 	const data = body as BraveSearchResponse;
 	const items = data.web?.results ?? [];
 	const currentOffset = data.query?.offset ?? offset;
-	const nextOffset = items.length >= PAGE_SIZE ? currentOffset + PAGE_SIZE : null;
+
+	// Brave offset is a page number (max 9), NOT a record offset.
+	// Use the API's more_results_available flag when present.
+	const hasMore = data.query?.more_results_available ?? items.length >= PAGE_SIZE;
+	const nextOffset = hasMore && currentOffset < 9 ? currentOffset + 1 : null;
 
 	return { items, nextOffset };
 }

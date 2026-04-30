@@ -6,10 +6,20 @@
 
 // ─── Helpers ───────────────────────────────────────────────────────────────────
 
+/** Parse a date string that may lack a timezone offset (e.g. Brave's `page_age`). */
+function parseInstant(dateStr: string): Temporal.Instant {
+	try {
+		return Temporal.Instant.from(dateStr);
+	} catch {
+		// Datetime without offset (e.g. "2026-04-29T12:10:03") — assume UTC
+		return Temporal.Instant.from(`${dateStr}Z`);
+	}
+}
+
 /** Score a date-based freshness value. Returns 0–100. */
 export function scoreFreshness(dateStr: string | null | undefined): number {
 	if (!dateStr) return 5;
-	const instant = Temporal.Instant.from(dateStr);
+	const instant = parseInstant(dateStr);
 	const now = Temporal.Now.instant();
 	const daysAgo = now.since(instant).total("millisecond") / 86_400_000;
 
@@ -33,7 +43,7 @@ export function scoreActivityDays(
 	openIssues: number | null | undefined,
 ): number {
 	if (!updatedAt) return 5;
-	const instant = Temporal.Instant.from(updatedAt);
+	const instant = parseInstant(updatedAt);
 	const now = Temporal.Now.instant();
 	const daysAgo = now.since(instant).total("millisecond") / 86_400_000;
 	if (daysAgo < 30 && (openIssues ?? 0) > 0) return 100;
