@@ -1,21 +1,21 @@
 {
-  "id": "BRAVE_aiagentstore.ai_pi-coding-agent",
-  "name": "Pi Coding Agent - AI Agent",
-  "url": "https://aiagentstore.ai/ai-agent/pi-coding-agent",
-  "source": "brave-web-search",
-  "description": "An open-source terminal coding <strong>agent</strong> that developers can extend with packages, skills, prompts, and custom workflows.",
-  "metadata": {
-    "title": "Pi Coding Agent - AI Agent",
-    "name": "Pi Coding Agent - AI Agent",
-    "description": "An open-source terminal coding <strong>agent</strong> that developers can extend with packages, skills, prompts, and custom workflows.",
-    "published_at": null,
-    "source_site": "AI Agent Store",
-    "source_url": "https://aiagentstore.ai/ai-agent/pi-coding-agent",
-    "discovery_hint": "brave:pi-agent"
-  },
-  "health": {
-    "score": 13,
-    "level": "dead"
-  },
-  "category": "article"
+	"id": "BRAVE_aiagentstore.ai_pi-coding-agent",
+	"name": "Pi Coding Agent - AI Agent",
+	"url": "https://aiagentstore.ai/ai-agent/pi-coding-agent",
+	"source": "brave-web-search",
+	"description": "An open-source terminal coding agent that developers can extend with packages, skills, prompts, and custom workflows.",
+	"metadata": {
+		"title": "Pi Coding Agent - AI Agent",
+		"name": "Pi Coding Agent - AI Agent",
+		"description": "An open-source terminal coding agent that developers can extend with packages, skills, prompts, and custom workflows.",
+		"published_at": null,
+		"source_site": "AI Agent Store",
+		"source_url": "https://aiagentstore.ai/ai-agent/pi-coding-agent",
+		"discovery_hint": "brave:pi-agent"
+	},
+	"health": {
+		"score": 13,
+		"level": "dead"
+	},
+	"category": "article"
 }

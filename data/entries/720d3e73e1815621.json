@@ -1,24 +1,24 @@
 {
-  "id": "HN_47205084",
-  "name": "Show HN: A Pi Harness for Color Correcting Multi-Clip Footage",
-  "url": "https://github.com/perbhat/agentic-color-grader",
-  "source": "hackernews-search",
-  "description": "Hey guys, created a color grading harness for the pi coding agent to color correct S-Log3 footage. This gives claude access to both images (watching the frame) and also to meters like rgb gamma, color balance, curves, exposure contrast.<p>Tried it on some footage from my a7iv and worked pretty well. Still early stages but would love thoughts and suggestions.<p>Sample Corrections:<p>sample 1: <a href=\"https:&#x2F;&#x2F;imgur.com&#x2F;a&#x2F;un0OkQc\" rel=\"nofollow\">https:&#x2F;&#x2F;imgur.com&#x2F;a&#x2F;un0OkQc</a><p>sample 2: <a href=\"https:&#x2F;&#x2F;imgur.com&#x2F;a&#x2F;zEfVsWt\" rel=\"nofollow\">https:&#x2F;&#x2F;imgur.com&#x2F;a&#x2F;zEfVsWt</a><p>cheers",
-  "metadata": {
-    "title": "Show HN: A Pi Harness for Color Correcting Multi-Clip Footage",
-    "name": "Show HN: A Pi Harness for Color Correcting Multi-Clip Footage",
-    "description": "Hey guys, created a color grading harness for the pi coding agent to color correct S-Log3 footage. This gives claude access to both images (watching the frame) and also to meters like rgb gamma, color balance, curves, exposure contrast.<p>Tried it on some footage from my a7iv and worked pretty well. Still early stages but would love thoughts and suggestions.<p>Sample Corrections:<p>sample 1: <a href=\"https:&#x2F;&#x2F;imgur.com&#x2F;a&#x2F;un0OkQc\" rel=\"nofollow\">https:&#x2F;&#x2F;imgur.com&#x2F;a&#x2F;un0OkQc</a><p>sample 2: <a href=\"https:&#x2F;&#x2F;imgur.com&#x2F;a&#x2F;zEfVsWt\" rel=\"nofollow\">https:&#x2F;&#x2F;imgur.com&#x2F;a&#x2F;zEfVsWt</a><p>cheers",
-    "author": "perbhat",
-    "published_at": "2026-03-01T09:19:20Z",
-    "points": 2,
-    "num_comments": 0,
-    "hn_id": "47205084",
-    "external_url": "https://github.com/perbhat/agentic-color-grader",
-    "discovery_hint": "hackernews:pi-coding-agent"
-  },
-  "health": {
-    "score": 32,
-    "level": "stale"
-  },
-  "category": "article"
+	"id": "HN_47205084",
+	"name": "Show HN: A Pi Harness for Color Correcting Multi-Clip Footage",
+	"url": "https://github.com/perbhat/agentic-color-grader",
+	"source": "hackernews-search",
+	"description": "Hey guys, created a color grading harness for the pi coding agent to color correct S-Log3 footage. This gives claude access to both images (watching the frame) and also to meters like rgb gamma, color balance, curves, exposure contrast. Tried it on some footage from my a7iv and worked pretty well. Still early stages but would love thoughts and suggestions. Sample Corrections: sample 1: https://imgur.com/a/un0OkQc sample 2: https://imgur.com/a/zEfVsWt cheers",
+	"metadata": {
+		"title": "Show HN: A Pi Harness for Color Correcting Multi-Clip Footage",
+		"name": "Show HN: A Pi Harness for Color Correcting Multi-Clip Footage",
+		"description": "Hey guys, created a color grading harness for the pi coding agent to color correct S-Log3 footage. This gives claude access to both images (watching the frame) and also to meters like rgb gamma, color balance, curves, exposure contrast. Tried it on some footage from my a7iv and worked pretty well. Still early stages but would love thoughts and suggestions. Sample Corrections: sample 1: https://imgur.com/a/un0OkQc sample 2: https://imgur.com/a/zEfVsWt cheers",
+		"author": "perbhat",
+		"published_at": "2026-03-01T09:19:20Z",
+		"points": 2,
+		"num_comments": 0,
+		"hn_id": "47205084",
+		"external_url": "https://github.com/perbhat/agentic-color-grader",
+		"discovery_hint": "hackernews:pi-coding-agent"
+	},
+	"health": {
+		"score": 32,
+		"level": "stale"
+	},
+	"category": "article"
 }

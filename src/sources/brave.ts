@@ -14,6 +14,7 @@
  */
 
 import type { Cache } from "../core/cache.ts";
+import { cleanText } from "../core/html.ts";
 import { SEARCH_TERMS } from "../core/terms.ts";
 import { ThrottledFetcher } from "../core/throttle.ts";
 import {
@@ -111,9 +112,9 @@ function toCandidate(result: BraveResult, term: string) {
 		url: result.url,
 		hint: `brave:${term}`,
 		metadata: {
-			title: result.title,
-			name: result.title,
-			description: result.description ?? "",
+			title: cleanText(result.title),
+			name: cleanText(result.title),
+			description: cleanText(result.description ?? ""),
 			published_at: result.page_age ?? result.age ?? null,
 			source_site: result.profile?.name ?? null,
 			source_url: result.profile?.url ?? null,

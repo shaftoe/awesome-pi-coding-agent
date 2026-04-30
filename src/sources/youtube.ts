@@ -10,7 +10,7 @@
  */
 
 import type { Cache } from "../core/cache.ts";
-import { decodeHtmlEntities } from "../core/html.ts";
+import { cleanText } from "../core/html.ts";
 import { SEARCH_TERMS } from "../core/terms.ts";
 import { ThrottledFetcher } from "../core/throttle.ts";
 import {
@@ -108,9 +108,9 @@ function toCandidate(result: YouTubeSearchResult, term: string) {
 		hint: `youtube:${term}`,
 		id: `YT_${videoId}`,
 		metadata: {
-			title: decodeHtmlEntities(result.snippet.title),
-			name: decodeHtmlEntities(result.snippet.title),
-			description: decodeHtmlEntities(result.snippet.description),
+			title: cleanText(result.snippet.title),
+			name: cleanText(result.snippet.title),
+			description: cleanText(result.snippet.description),
 			channel: result.snippet.channelTitle,
 			published_at: result.snippet.publishedAt,
 			thumbnail:

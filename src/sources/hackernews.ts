@@ -14,6 +14,7 @@
  */
 
 import type { Cache } from "../core/cache.ts";
+import { cleanText } from "../core/html.ts";
 import { SEARCH_TERMS } from "../core/terms.ts";
 import { ThrottledFetcher } from "../core/throttle.ts";
 import {
@@ -77,9 +78,9 @@ function toCandidate(hit: HNHit, term: string) {
 		hint: `hackernews:${term}`,
 		id: `HN_${hit.objectID}`,
 		metadata: {
-			title: hit.title,
-			name: hit.title,
-			description: hit.story_text ?? "",
+			title: cleanText(hit.title),
+			name: cleanText(hit.title),
+			description: cleanText(hit.story_text ?? ""),
 			author: hit.author,
 			published_at: hit.created_at,
 			points: hit.points ?? 0,

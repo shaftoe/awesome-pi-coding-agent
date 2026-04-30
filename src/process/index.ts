@@ -10,6 +10,7 @@ import "../core/temporal.ts";
 import { existsSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 import { buildIndices, checkDuplicate } from "../core/dedup.ts";
+import { cleanText } from "../core/html.ts";
 import { writeMeta } from "../core/meta.ts";
 import { getEntryRepo, saveEntry } from "../core/store.ts";
 import { type Entry, HealthLevel } from "../core/types.ts";
@@ -95,13 +96,15 @@ export async function cmdProcess(): Promise<void> {
 		}
 
 		const id = discovery.id ?? extractId(discovery.url);
+		const rawName =
+			(discovery.metadata?.["title"] as string) || (discovery.metadata?.["name"] as string) || id;
+		const rawDesc = (discovery.metadata?.["description"] as string) || "";
 		const entry: Entry = {
 			id,
-			name:
-				(discovery.metadata?.["title"] as string) || (discovery.metadata?.["name"] as string) || id,
+			name: cleanText(rawName),
 			url: discovery.url,
 			source: discovery.source,
-			description: (discovery.metadata?.["description"] as string) || "",
+			description: cleanText(rawDesc),
 			metadata: {
 				...(discovery.metadata ?? {}),
 				discovery_hint: discovery.hint ?? null,
