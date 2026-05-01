@@ -1,0 +1,34 @@
+{
+  "id": "Hastyshell-pi-config",
+  "name": "Hastyshell-pi-config",
+  "url": "https://github.com/Hastyshell/pi-config",
+  "source": "github-search",
+  "description": "Configuration workspace for Pi Coding Agent prompts, skills, extensions, themes, and local development",
+  "metadata": {
+    "github_url": "https://github.com/Hastyshell/pi-config",
+    "repo_full_name": "Hastyshell/pi-config",
+    "description": "Configuration workspace for Pi Coding Agent prompts, skills, extensions,  themes, and local development",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agentic-ai",
+      "llm",
+      "pi",
+      "pi-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-30T16:42:09Z",
+    "pushed_at": "2026-05-01T05:39:49Z",
+    "updated_at": "2026-05-01T05:39:53Z",
+    "size": 156,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

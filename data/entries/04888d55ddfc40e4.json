@@ -1,0 +1,24 @@
+{
+  "id": "YT_pn4hGl6GJ0I",
+  "name": "I Ran an Uncensored Local LLM Inside Pi Coding Agent",
+  "url": "https://youtube.com/watch?v=pn4hGl6GJ0I",
+  "source": "youtube-search",
+  "description": "First realtime test of a local LLM running inside the Pi Coding Agent harness. In this video I connect Qwen 3.6 to Pi Coding Agent ...",
+  "metadata": {
+    "title": "I Ran an Uncensored Local LLM Inside Pi Coding Agent",
+    "name": "I Ran an Uncensored Local LLM Inside Pi Coding Agent",
+    "description": "First realtime test of a local LLM running inside the Pi Coding Agent harness. In this video I connect Qwen 3.6 to Pi Coding Agent ...",
+    "channel": "Luke Spear",
+    "published_at": "2026-04-30T16:21:56Z",
+    "thumbnail": "https://i.ytimg.com/vi/pn4hGl6GJ0I/hqdefault.jpg",
+    "views": 23,
+    "likes": 0,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 39,
+    "level": "stale"
+  },
+  "category": "video"
+}

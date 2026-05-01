@@ -1,0 +1,29 @@
+{
+  "id": "flexoki-pi-theme",
+  "name": "flexoki-pi-theme",
+  "url": "https://www.npmjs.com/package/flexoki-pi-theme",
+  "source": "npm-search",
+  "description": "Flexoki color scheme theme for pi",
+  "metadata": {
+    "github_url": "https://github.com/LutfiGarzon/flexoki-pi-theme",
+    "npm_name": "flexoki-pi-theme",
+    "description": "Flexoki color scheme theme for pi",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-04-30T16:25:45.682Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "theme"
+}

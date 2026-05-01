@@ -1,0 +1,29 @@
+{
+  "id": "gwelinder-pi-cloudflare-codemode",
+  "name": "gwelinder-pi-cloudflare-codemode",
+  "url": "https://github.com/gwelinder/pi-cloudflare-codemode",
+  "source": "github-search",
+  "description": "Pi extension and Wrangler-provisioned Cloudflare Worker template for agent-authored Cloudflare operations via a codemode sandbox.",
+  "metadata": {
+    "github_url": "https://github.com/gwelinder/pi-cloudflare-codemode",
+    "repo_full_name": "gwelinder/pi-cloudflare-codemode",
+    "description": "Pi extension and Wrangler-provisioned Cloudflare Worker template for agent-authored Cloudflare operations via a codemode sandbox.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-30T15:30:49Z",
+    "pushed_at": "2026-04-30T15:30:52Z",
+    "updated_at": "2026-04-30T16:32:27Z",
+    "size": 63,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

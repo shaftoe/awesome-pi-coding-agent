@@ -1,0 +1,21 @@
+{
+  "id": "BRAVE_libraries.io_pi-workflow",
+  "name": "pi-workflow 0.1.7 on npm - Libraries.io - security & maintenance data for open source software",
+  "url": "https://libraries.io/npm/pi-workflow",
+  "source": "brave-web-search",
+  "description": "Visual companion for pi coding agent workflows - 0.1.7 - a TypeScript package on npm",
+  "metadata": {
+    "title": "pi-workflow 0.1.7 on npm - Libraries.io - security & maintenance data for open source software",
+    "name": "pi-workflow 0.1.7 on npm - Libraries.io - security & maintenance data for open source software",
+    "description": "Visual companion for pi coding agent workflows - 0.1.7 - a TypeScript package on npm",
+    "published_at": "2026-03-03T00:00:00",
+    "source_site": "Libraries.io",
+    "source_url": "https://libraries.io/npm/pi-workflow",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "health": {
+    "score": 39,
+    "level": "stale"
+  },
+  "category": "article"
+}

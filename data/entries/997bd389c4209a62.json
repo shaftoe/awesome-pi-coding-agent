@@ -1,0 +1,29 @@
+{
+  "id": "mogassama-pi-agent-config",
+  "name": "mogassama-pi-agent-config",
+  "url": "https://github.com/mogassama/pi-agent-config",
+  "source": "github-search",
+  "description": "Personal configuration, prompts, skills and extensions for PI coding agent",
+  "metadata": {
+    "github_url": "https://github.com/mogassama/pi-agent-config",
+    "repo_full_name": "mogassama/pi-agent-config",
+    "description": "Personal configuration, prompts, skills and extensions for PI coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-30T16:05:21Z",
+    "pushed_at": "2026-04-30T16:07:31Z",
+    "updated_at": "2026-04-30T16:07:36Z",
+    "size": 38,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

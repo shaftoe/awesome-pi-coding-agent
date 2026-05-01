@@ -1,0 +1,37 @@
+{
+  "id": "Devin-Marks-pi-workbench",
+  "name": "Devin-Marks-pi-workbench",
+  "url": "https://github.com/Devin-Marks/pi-workbench",
+  "source": "github-search",
+  "description": "An OpenCode/OpenChamber inspired WebUI for the Pi Coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/Devin-Marks/pi-workbench",
+    "repo_full_name": "Devin-Marks/pi-workbench",
+    "description": "An OpenCode/OpenChamber inspired WebUI for the Pi Coding agent.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "pi",
+      "pi-coding-agent",
+      "pi-mono",
+      "pi-package",
+      "pi-workbench",
+      "rest-api"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-30T12:00:40Z",
+    "pushed_at": "2026-05-01T03:18:46Z",
+    "updated_at": "2026-05-01T03:18:51Z",
+    "size": 1027,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

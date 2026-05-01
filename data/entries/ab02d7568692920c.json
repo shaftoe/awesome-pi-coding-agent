@@ -1,0 +1,21 @@
+{
+  "id": "BRAVE_pi.dev_packages",
+  "name": "Pi Coding Agent",
+  "url": "https://pi.dev/packages?name=web",
+  "source": "brave-web-search",
+  "description": "Extensions, skills, prompt templates, and themes published to npm. Install with pi install npm:. See the package docs for details · Web search and fetch tools for Pi agent - uses Ollama's web search and fetch APIs",
+  "metadata": {
+    "title": "Pi Coding Agent",
+    "name": "Pi Coding Agent",
+    "description": "Extensions, skills, prompt templates, and themes published to npm. Install with pi install npm:<package>. See the package docs for details · Web search and fetch tools for Pi agent - uses Ollama's web search and fetch APIs",
+    "published_at": null,
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages?name=web",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "health": {
+    "score": 13,
+    "level": "dead"
+  },
+  "category": "article"
+}
