@@ -1,0 +1,21 @@
+{
+  "id": "BRAVE_pi.dev_pi-subagents",
+  "name": "Pi Coding Agent",
+  "url": "https://pi.dev/packages/pi-subagents",
+  "source": "brave-web-search",
+  "description": "Pi extension for delegating tasks to subagents with chains, parallel execution, and TUI clarification · Install pi-subagents from npm and Pi will load the resources declared by the package manifest",
+  "metadata": {
+    "title": "Pi Coding Agent",
+    "name": "Pi Coding Agent",
+    "description": "Pi extension for delegating tasks to subagents with chains, parallel execution, and TUI clarification · Install pi-subagents from npm and Pi will load the resources declared by the package manifest",
+    "published_at": "2026-04-27T06:35:03",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-subagents",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "article"
+}

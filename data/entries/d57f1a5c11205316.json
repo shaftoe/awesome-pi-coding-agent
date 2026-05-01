@@ -1,0 +1,21 @@
+{
+  "id": "BRAVE_bitdoze.com_pi-coding-agent-setup-guide",
+  "name": "Pi Coding Agent Setup Guide: Install, Configure Models, and Best Extensions",
+  "url": "https://www.bitdoze.com/pi-coding-agent-setup-guide/",
+  "source": "brave-web-search",
+  "description": "Step-by-step guide to installing Pi coding agent, connecting cheap models like MiniMax M2.7 and Qwen 3.6, and setting up the most useful extensions. Covers LazyPi one-command setup and the Rust port alternative.",
+  "metadata": {
+    "title": "Pi Coding Agent Setup Guide: Install, Configure Models, and Best Extensions",
+    "name": "Pi Coding Agent Setup Guide: Install, Configure Models, and Best Extensions",
+    "description": "Step-by-step guide to installing Pi coding agent, connecting cheap models like MiniMax M2.7 and Qwen 3.6, and setting up the most useful extensions. Covers LazyPi one-command setup and the Rust port alternative.",
+    "published_at": "2026-04-30T00:00:00",
+    "source_site": "Zoxide",
+    "source_url": "https://www.bitdoze.com/pi-coding-agent-setup-guide/",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "article"
+}

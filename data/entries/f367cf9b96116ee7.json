@@ -1,0 +1,29 @@
+{
+  "id": "LuckyCurve-pi-extensions",
+  "name": "LuckyCurve-pi-extensions",
+  "url": "https://github.com/LuckyCurve/pi-extensions",
+  "source": "github-search",
+  "description": "Personal extensions for pi-coding-agent: layered permission control for bash/file operations and real-time token rate monitoring.",
+  "metadata": {
+    "github_url": "https://github.com/LuckyCurve/pi-extensions",
+    "repo_full_name": "LuckyCurve/pi-extensions",
+    "description": "Personal extensions for pi-coding-agent: layered permission control for bash/file operations and real-time token rate monitoring.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-01T02:13:00Z",
+    "pushed_at": "2026-05-01T02:15:40Z",
+    "updated_at": "2026-05-01T02:15:43Z",
+    "size": 49,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

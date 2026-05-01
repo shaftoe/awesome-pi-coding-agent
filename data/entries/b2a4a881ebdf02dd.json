@@ -1,0 +1,29 @@
+{
+  "id": "heestolee-pilee",
+  "name": "heestolee-pilee",
+  "url": "https://github.com/heestolee/pilee",
+  "source": "github-search",
+  "description": "pi coding agent config 🔥",
+  "metadata": {
+    "github_url": "https://github.com/heestolee/pilee",
+    "repo_full_name": "heestolee/pilee",
+    "description": "pi coding agent config 🔥",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-30T20:25:02Z",
+    "pushed_at": "2026-05-01T08:05:55Z",
+    "updated_at": "2026-05-01T08:05:59Z",
+    "size": 141,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}
