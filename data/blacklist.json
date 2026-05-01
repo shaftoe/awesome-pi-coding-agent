@@ -15104,16 +15104,6 @@
 		}
 	},
 	{
-		"url": "https://youtube.com/watch?v=yAPKzHrx3eo",
-		"reason": "no positive Pi coding agent signal",
-		"blacklisted_at": "2026-04-29T20:36:09.743Z",
-		"source": "filter",
-		"discovery": {
-			"sourceName": "youtube",
-			"query": "youtube:pi-agent"
-		}
-	},
-	{
 		"url": "http://www.fox5dc.com/news/local-news/254852337-story",
 		"reason": "no positive Pi coding agent signal",
 		"blacklisted_at": "2026-04-29T20:36:09.746Z",

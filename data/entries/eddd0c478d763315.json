@@ -1,0 +1,24 @@
+{
+  "id": "YT_yAPKzHrx3eo",
+  "name": "Pi Agent (Full Course)",
+  "url": "https://youtube.com/watch?v=yAPKzHrx3eo",
+  "source": "youtube-search",
+  "description": "This course gives you everything you need to use and extend Pi as your main AI coding agent. No fluff, hands-on, we'll go deep ...",
+  "metadata": {
+    "title": "Pi Agent (Full Course)",
+    "name": "Pi Agent (Full Course)",
+    "description": "This course gives you everything you need to use and extend Pi as your main AI coding agent. No fluff, hands-on, we'll go deep ...",
+    "channel": "Vilson Vieira",
+    "published_at": "2026-04-29T16:57:10Z",
+    "thumbnail": "https://i.ytimg.com/vi/yAPKzHrx3eo/hqdefault.jpg",
+    "views": 2315,
+    "likes": 128,
+    "comments": 22,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 60,
+    "level": "maintained"
+  },
+  "category": "video"
+}

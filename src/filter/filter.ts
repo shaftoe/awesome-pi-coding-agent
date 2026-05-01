@@ -218,6 +218,7 @@ const POSITIVE_NAME_PATTERNS = [
 ];
 
 const POSITIVE_TEXT_SIGNALS = [
+	"ai coding agent",
 	"pi coding agent",
 	"pi coding",
 	"pi agent",
