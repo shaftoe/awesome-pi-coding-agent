@@ -1,0 +1,29 @@
+{
+  "id": "bigidulka-pi-browser",
+  "name": "bigidulka-pi-browser",
+  "url": "https://github.com/bigidulka/pi-browser",
+  "source": "github-search",
+  "description": "Terminal Chromium browser manager for Pi coding agent. 30 tools, 7 browsers, cross-platform.",
+  "metadata": {
+    "github_url": "https://github.com/bigidulka/pi-browser",
+    "repo_full_name": "bigidulka/pi-browser",
+    "description": "Terminal Chromium browser manager for Pi coding agent. 30 tools, 7 browsers, cross-platform.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-01T18:47:03Z",
+    "pushed_at": "2026-05-01T19:11:25Z",
+    "updated_at": "2026-05-01T19:11:30Z",
+    "size": 62,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

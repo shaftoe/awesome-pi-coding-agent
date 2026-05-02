@@ -1,0 +1,32 @@
+{
+  "id": "@georgetsouvaltzis/pi-working-time",
+  "name": "@georgetsouvaltzis/pi-working-time",
+  "url": "https://www.npmjs.com/package/@georgetsouvaltzis/pi-working-time",
+  "source": "npm-search",
+  "description": "Pi extension that shows live elapsed working time with configurable formatting",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@georgetsouvaltzis/pi-working-time",
+    "description": "Pi extension that shows live elapsed working time with configurable formatting",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "timer",
+      "productivity"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-01T16:23:47.235Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

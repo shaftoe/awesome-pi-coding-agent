@@ -1,0 +1,29 @@
+{
+  "id": "btimothy-har-basecamp",
+  "name": "btimothy-har-basecamp",
+  "url": "https://github.com/btimothy-har/basecamp",
+  "source": "github-search",
+  "description": "My personal Pi agent harness.",
+  "metadata": {
+    "github_url": "https://github.com/btimothy-har/basecamp",
+    "repo_full_name": "btimothy-har/basecamp",
+    "description": "My personal Pi agent harness.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-02T05:17:50Z",
+    "pushed_at": "2026-05-01T14:04:02Z",
+    "updated_at": "2026-05-02T04:10:01Z",
+    "size": 1425,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 66,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

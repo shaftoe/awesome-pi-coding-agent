@@ -1,0 +1,38 @@
+{
+  "id": "drlove2002-ai-config",
+  "name": "drlove2002-ai-config",
+  "url": "https://github.com/drlove2002/ai-config",
+  "source": "github-search",
+  "description": "My personal global configuration, skills, and extensions for the pi coding agent. Features interactive TUI menus, smart git workflows, and DDD context extractors.",
+  "metadata": {
+    "github_url": "https://github.com/drlove2002/ai-config",
+    "repo_full_name": "drlove2002/ai-config",
+    "description": "My personal global configuration, skills, and extensions for the pi coding agent. Features interactive TUI menus, smart git workflows, and DDD context extractors.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "automation",
+      "coding-agent",
+      "developer-tools",
+      "llm",
+      "pi-agent",
+      "tui",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-01T09:57:38Z",
+    "pushed_at": "2026-05-01T10:30:48Z",
+    "updated_at": "2026-05-01T10:30:51Z",
+    "size": 79,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

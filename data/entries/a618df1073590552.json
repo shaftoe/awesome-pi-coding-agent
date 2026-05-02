@@ -1,0 +1,29 @@
+{
+  "id": "CaptCanadaMan-pi-ollama-native",
+  "name": "CaptCanadaMan-pi-ollama-native",
+  "url": "https://github.com/CaptCanadaMan/pi-ollama-native",
+  "source": "github-search",
+  "description": "Native Ollama provider for pi coding agent — original fork-based prototype, superseded by pi-ollama (the extension)",
+  "metadata": {
+    "github_url": "https://github.com/CaptCanadaMan/pi-ollama-native",
+    "repo_full_name": "CaptCanadaMan/pi-ollama-native",
+    "description": "Native Ollama provider for pi coding agent — original fork-based prototype, superseded by pi-ollama (the extension)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-28T21:07:08Z",
+    "pushed_at": "2026-05-01T17:47:31Z",
+    "updated_at": "2026-05-01T17:50:04Z",
+    "size": 15,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

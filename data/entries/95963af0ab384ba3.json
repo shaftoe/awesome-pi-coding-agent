@@ -1,0 +1,29 @@
+{
+  "id": "code-yeongyu-pi-openai-api-parallel-tool-calls",
+  "name": "code-yeongyu-pi-openai-api-parallel-tool-calls",
+  "url": "https://github.com/code-yeongyu/pi-openai-api-parallel-tool-calls",
+  "source": "github-search",
+  "description": "OpenAI parallel tool call policy extension for the pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/code-yeongyu/pi-openai-api-parallel-tool-calls",
+    "repo_full_name": "code-yeongyu/pi-openai-api-parallel-tool-calls",
+    "description": "OpenAI parallel tool call policy extension for the pi coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-01T12:26:51Z",
+    "pushed_at": "2026-05-01T12:33:19Z",
+    "updated_at": "2026-05-01T12:32:26Z",
+    "size": 50,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

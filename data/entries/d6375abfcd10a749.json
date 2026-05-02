@@ -1,0 +1,36 @@
+{
+  "id": "pi-browser-harness",
+  "name": "pi-browser-harness",
+  "url": "https://www.npmjs.com/package/pi-browser-harness",
+  "source": "npm-search",
+  "description": "Browser control extension for pi — navigate, click, type, screenshot, and extract data from real Chrome via CDP",
+  "metadata": {
+    "github_url": "https://github.com/amankumarsingh77/pi-browser-harness",
+    "npm_name": "pi-browser-harness",
+    "description": "Browser control extension for pi — navigate, click, type, screenshot, and extract data from real Chrome via CDP",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "browser",
+      "cdp",
+      "chrome",
+      "web-automation",
+      "screenshot",
+      "scraping"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-05-02T06:11:13.373Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

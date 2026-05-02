@@ -1,0 +1,29 @@
+{
+  "id": "nihar5hah-pi-mono-gemini-cli",
+  "name": "nihar5hah-pi-mono-gemini-cli",
+  "url": "https://github.com/nihar5hah/pi-mono-gemini-cli",
+  "source": "github-search",
+  "description": "Pi coding agent with Google Gemini CLI & Antigravity OAuth support restored",
+  "metadata": {
+    "github_url": "https://github.com/nihar5hah/pi-mono-gemini-cli",
+    "repo_full_name": "nihar5hah/pi-mono-gemini-cli",
+    "description": "Pi coding agent with Google Gemini CLI & Antigravity OAuth support restored",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-01T19:37:11Z",
+    "pushed_at": "2026-05-01T19:38:55Z",
+    "updated_at": "2026-05-01T19:39:02Z",
+    "size": 40747,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "VOID229-picode",
+  "name": "VOID229-picode",
+  "url": "https://github.com/VOID229/picode",
+  "source": "github-search",
+  "description": "a beautiful agent manager frontend for Pi built with tauri",
+  "metadata": {
+    "github_url": "https://github.com/VOID229/picode",
+    "repo_full_name": "VOID229/picode",
+    "description": "a beautiful agent manager frontend for Pi built with tauri",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-18T07:48:51Z",
+    "pushed_at": "2026-05-01T07:58:40Z",
+    "updated_at": "2026-05-02T03:33:37Z",
+    "size": 31458,
+    "license": "AGPL-3.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 68,
+    "level": "maintained"
+  },
+  "category": "misc"
+}
