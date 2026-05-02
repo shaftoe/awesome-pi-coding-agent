@@ -1,0 +1,29 @@
+{
+  "id": "Istar-Eldritch-ai-tools",
+  "name": "Istar-Eldritch-ai-tools",
+  "url": "https://github.com/Istar-Eldritch/ai-tools",
+  "source": "github-search",
+  "description": "A pi-coding-agent extensions, prompts and utilities",
+  "metadata": {
+    "github_url": "https://github.com/Istar-Eldritch/ai-tools",
+    "repo_full_name": "Istar-Eldritch/ai-tools",
+    "description": "A pi-coding-agent extensions, prompts and utilities",
+    "stars": 1,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-03T06:20:08Z",
+    "pushed_at": "2026-05-02T02:42:26Z",
+    "updated_at": "2026-05-02T02:42:32Z",
+    "size": 1779,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

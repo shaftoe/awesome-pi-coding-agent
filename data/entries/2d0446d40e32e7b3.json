@@ -1,0 +1,29 @@
+{
+  "id": "chrisetheridge-pi-extension-architect",
+  "name": "chrisetheridge-pi-extension-architect",
+  "url": "https://github.com/chrisetheridge/pi-extension-architect",
+  "source": "github-search",
+  "description": "architect mode for pi agent",
+  "metadata": {
+    "github_url": "https://github.com/chrisetheridge/pi-extension-architect",
+    "repo_full_name": "chrisetheridge/pi-extension-architect",
+    "description": "architect mode for pi agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-01T09:37:43Z",
+    "pushed_at": "2026-05-01T12:26:16Z",
+    "updated_at": "2026-05-01T12:26:20Z",
+    "size": 56,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

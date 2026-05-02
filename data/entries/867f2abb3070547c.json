@@ -1,0 +1,29 @@
+{
+  "id": "gevious-pi-extensions",
+  "name": "gevious-pi-extensions",
+  "url": "https://github.com/gevious/pi-extensions",
+  "source": "github-search",
+  "description": "Extensions for pi.dev coding agent",
+  "metadata": {
+    "github_url": "https://github.com/gevious/pi-extensions",
+    "repo_full_name": "gevious/pi-extensions",
+    "description": "Extensions for pi.dev coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-01T18:08:42Z",
+    "pushed_at": "2026-05-01T18:56:52Z",
+    "updated_at": "2026-05-01T18:56:55Z",
+    "size": 3,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nice-hang-pi-tracing",
+  "name": "nice-hang-pi-tracing",
+  "url": "https://github.com/nice-hang/pi-tracing",
+  "source": "github-search",
+  "description": "Observe and debug your pi-mono agents in real time.",
+  "metadata": {
+    "github_url": "https://github.com/nice-hang/pi-tracing",
+    "repo_full_name": "nice-hang/pi-tracing",
+    "description": "Observe and debug your pi-mono agents in real time.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-30T17:09:52Z",
+    "pushed_at": "2026-05-01T16:09:42Z",
+    "updated_at": "2026-05-01T16:14:20Z",
+    "size": 175,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

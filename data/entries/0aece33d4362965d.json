@@ -1,0 +1,29 @@
+{
+  "id": "joe-p-pi-agent-config",
+  "name": "joe-p-pi-agent-config",
+  "url": "https://github.com/joe-p/pi-agent-config",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/joe-p/pi-agent-config",
+    "repo_full_name": "joe-p/pi-agent-config",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-01T16:49:23Z",
+    "pushed_at": "2026-05-02T00:56:57Z",
+    "updated_at": "2026-05-02T00:57:00Z",
+    "size": 127,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

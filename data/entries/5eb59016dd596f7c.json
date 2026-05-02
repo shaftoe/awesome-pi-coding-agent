@@ -1,0 +1,38 @@
+{
+  "id": "pi-simocracy",
+  "name": "pi-simocracy",
+  "url": "https://www.npmjs.com/package/pi-simocracy",
+  "source": "npm-search",
+  "description": "Pi extension: load a Simocracy sim into your chat — see its pixel-art sprite render inline in the terminal and roleplay with it.",
+  "metadata": {
+    "github_url": "https://github.com/GainForest/pi-simocracy",
+    "npm_name": "pi-simocracy",
+    "description": "Pi extension: load a Simocracy sim into your chat — see its pixel-art sprite render inline in the terminal and roleplay with it.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "extension",
+      "simocracy",
+      "atproto",
+      "pixel-art",
+      "ansi",
+      "roleplay"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-02T06:23:19.180Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}
