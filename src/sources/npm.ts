@@ -7,6 +7,13 @@
  *
  * Uses the npm v1 search endpoint with `from`/`size` pagination (max 250/page).
  * High-precision `keywords:` queries that return ~95%+ relevant results.
+ *
+ * **Enrichment phase:** After all sources complete discovery, the npm source
+ * reads back its candidates, extracts `github_url` from metadata, and fetches
+ * repo details from the GitHub API. This adds stars, forks, topics, language,
+ * and other GitHub fields to npm entries — without changing the canonical URL.
+ * API calls are deduplicated: multiple npm packages pointing to the same repo
+ * only trigger one GitHub API request.
  */
 
 import type { Cache } from "../core/cache.ts";
@@ -21,7 +28,13 @@ import {
 } from "../core/types.ts";
 import { writeRaw } from "../discover/runner.ts";
 import type { DiscoveryWriter } from "../discover/writer.ts";
-import { clamp, formatKNumber, scoreFreshness, scoreMetric01 } from "./scoring.ts";
+import {
+	clamp,
+	formatKNumber,
+	scoreActivityDays,
+	scoreFreshness,
+	scoreMetric01,
+} from "./scoring.ts";
 import type { Source } from "./source.ts";
 
 // ─── Config ────────────────────────────────────────────────────────────────────
@@ -36,6 +49,22 @@ const REQUESTS_PER_SECOND = 0.5;
 const DEFAULT_QUERIES = SEARCH_TERMS.map((term) => `keywords:${term}`);
 
 // ─── Types ─────────────────────────────────────────────────────────────────────
+
+/** GitHub API response for a single repo (GET /repos/{owner}/{repo}). */
+interface GitHubRepoResponse {
+	full_name: string;
+	stargazers_count: number;
+	forks_count: number;
+	open_issues_count: number;
+	topics: string[];
+	language: string | null;
+	archived: boolean;
+	created_at: string;
+	pushed_at: string | null;
+	updated_at: string;
+	size: number;
+	license: { key: string; name: string; spdx_id: string } | null;
+}
 
 interface NpmSearchResult {
 	package: {
@@ -78,6 +107,8 @@ export interface NpmSourceOptions {
 
 // ─── Helpers ───────────────────────────────────────────────────────────────────
 
+const GITHUB_API = "https://api.github.com";
+
 /**
  * Convert a git+https URL to a clean https URL.
  * e.g. "git+https://github.com/owner/repo.git" → "https://github.com/owner/repo"
@@ -86,6 +117,33 @@ function cleanGitHubUrl(raw: string | undefined): string | undefined {
 	if (!raw) return undefined;
 	const match = raw.match(/(?:git\+)?(https:\/\/github\.com\/[^/]+\/[^/]+)/);
 	return match?.[1]?.replace(/\.git$/, "") ?? undefined;
+}
+
+/**
+ * Extract the "owner/repo" path from a GitHub URL.
+ * Returns null if the URL is not a valid GitHub repo URL.
+ */
+function extractOwnerRepo(url: string): string | null {
+	const match = url.match(/github\.com\/([^/]+\/[^/]+)/);
+	return match?.[1]?.replace(/\.git$/, "") ?? null;
+}
+
+/**
+ * Build common headers for GitHub API requests.
+ * Uses GITHUB_TOKEN env var if available for higher rate limits.
+ */
+function buildFetchInit(): RequestInit {
+	const headers: Record<string, string> = {
+		Accept: "application/vnd.github+json",
+		"X-GitHub-Api-Version": "2022-11-28",
+	};
+
+	const token = process.env["GITHUB_TOKEN"];
+	if (token) {
+		headers["Authorization"] = `Bearer ${token}`;
+	}
+
+	return { headers };
 }
 
 /** Build a candidate from an npm search result. */
@@ -142,6 +200,10 @@ export function createNpmSource(cache: Cache, opts: NpmSourceOptions = {}): Sour
 		return items.map((r) => toCandidate(r, term));
 	}
 
+	// Separate throttled fetcher for GitHub enrichment calls (distinct from npm fetcher)
+	const ghFetcher = new ThrottledFetcher({ requestsPerSecond: 0.5 });
+	const ghFetchInit = buildFetchInit();
+
 	return {
 		name: "npm",
 		source: EntrySource.NpmSearch,
@@ -164,11 +226,19 @@ export function createNpmSource(cache: Cache, opts: NpmSourceOptions = {}): Sour
 
 		formatPopularity(entry: CategorizedEntry): string {
 			const meta = entry.metadata as Record<string, unknown>;
+			const parts: string[] = [];
+
 			const downloads = meta["npm_downloads_monthly"];
 			if (typeof downloads === "number" && downloads > 0) {
-				return `\u2B07 ${formatKNumber(downloads)}/mo`;
+				parts.push(`\u2B07 ${formatKNumber(downloads)}/mo`);
 			}
-			return "";
+
+			const stars = meta["stars"];
+			if (typeof stars === "number" && stars > 0) {
+				parts.push(`\u2B50${formatKNumber(stars)}`);
+			}
+
+			return parts.join(" ");
 		},
 
 		async discover(writer: DiscoveryWriter): Promise<void> {
@@ -184,30 +254,166 @@ export function createNpmSource(cache: Cache, opts: NpmSourceOptions = {}): Sour
 			}
 		},
 
+		/**
+		 * Enrich npm candidates with GitHub repo metadata.
+		 *
+		 * Reads back all npm candidates, extracts their `github_url`, and fetches
+		 * repo details from the GitHub API. Deduplicates API calls so multiple
+		 * npm packages pointing to the same repo only trigger one request.
+		 *
+		 * The enriched fields are merged into the existing metadata, overwriting
+		 * any placeholder values. The npm URL remains canonical — this is purely
+		 * additive metadata.
+		 */
+		async enrich(writer: DiscoveryWriter): Promise<void> {
+			const lines = writer.listByDiscoverer("npm");
+			if (lines.length === 0) return;
+
+			// Collect unique owner/repo paths from npm metadata
+			const repoByUrl = new Map<string, string>(); // github_url → owner/repo
+			for (const line of lines) {
+				const meta = line.discovery.metadata ?? {};
+				const ghUrl = meta["github_url"];
+				if (typeof ghUrl !== "string" || !ghUrl) continue;
+				const ownerRepo = extractOwnerRepo(ghUrl);
+				if (ownerRepo) repoByUrl.set(ghUrl, ownerRepo);
+			}
+
+			if (repoByUrl.size === 0) {
+				process.stderr.write("[npm] 🔧 No GitHub URLs found, skipping enrichment\n");
+				return;
+			}
+
+			process.stderr.write(
+				`[npm] 🔧 Enriching with GitHub data (${repoByUrl.size} unique repos)...\n`,
+			);
+
+			// Fetch repo data from GitHub API (deduplicated by owner/repo)
+			const repoDataByUrl = new Map<string, Record<string, unknown>>();
+			for (const [_url, ownerRepo] of repoByUrl) {
+				const apiUrl = `${GITHUB_API}/repos/${ownerRepo}`;
+
+				let body: unknown;
+
+				if (cache) {
+					const cacheKey = `enrich:github:repo:${ownerRepo}`;
+					const cached = cache.get<unknown>(cacheKey);
+					if (cached !== null) {
+						body = cached;
+					} else if (opts.offline) {
+						continue;
+					} else {
+						const response = await ghFetcher.fetch(apiUrl, ghFetchInit);
+						if (!response.ok) continue;
+						body = await response.json();
+						cache.set(cacheKey, body);
+					}
+				} else if (opts.offline) {
+					continue;
+				} else {
+					const response = await ghFetcher.fetch(apiUrl, ghFetchInit);
+					if (!response.ok) continue;
+					body = await response.json();
+				}
+
+				const repo = body as GitHubRepoResponse;
+				const ghFields: Record<string, unknown> = {
+					stars: repo.stargazers_count ?? 0,
+					forks: repo.forks_count ?? 0,
+					open_issues: repo.open_issues_count ?? 0,
+					topics: repo.topics ?? [],
+					language: repo.language ?? null,
+					archived: repo.archived ?? false,
+					github_pushed_at: repo.pushed_at ?? null,
+					github_updated_at: repo.updated_at ?? null,
+					github_created_at: repo.created_at ?? null,
+					size: repo.size ?? 0,
+					license: repo.license?.spdx_id ?? null,
+				};
+
+				// Store under the canonical github_url for lookup
+				repoDataByUrl.set(_url, ghFields);
+			}
+
+			// Merge GitHub fields into npm candidates
+			let enriched = 0;
+			for (const line of lines) {
+				const meta = line.discovery.metadata ?? {};
+				const ghUrl = meta["github_url"];
+				if (typeof ghUrl !== "string" || !ghUrl) continue;
+
+				const ghFields = repoDataByUrl.get(ghUrl);
+				if (!ghFields) continue;
+
+				const newMeta = { ...meta, ...ghFields };
+				writer.write("npm", {
+					...line.discovery,
+					metadata: newMeta,
+				});
+				enriched++;
+			}
+
+			process.stderr.write(
+				`[npm] 🔧 Enriched ${enriched}/${lines.length} npm entries with GitHub metadata\n`,
+			);
+		},
+
 		scoreHealthDimensions(entry: Entry): HealthDimensions {
 			const meta = entry.metadata ?? {};
 
-			const freshness = scoreFreshness(meta["published_at"] as string | null | undefined);
+			// Freshness: prefer github_pushed_at (last commit) over npm publish date
+			const ghPushed = meta["github_pushed_at"] as string | null | undefined;
+			const npmPublished = meta["published_at"] as string | null | undefined;
+			const freshness = scoreFreshness(ghPushed ?? npmPublished);
 
-			// Popularity: monthly downloads
+			// Popularity: blend downloads (60%) and stars (40%) when both available
 			const downloads = meta["npm_downloads_monthly"] as number | null | undefined;
-			let popularity: number;
+			const stars = meta["stars"] as number | null | undefined;
+
+			let dlScore: number;
 			if (downloads == null) {
-				popularity = 5;
+				dlScore = 5;
 			} else if (downloads >= 10_000) {
-				popularity = 100;
+				dlScore = 100;
 			} else if (downloads >= 1_000) {
-				popularity = 70;
+				dlScore = 70;
 			} else if (downloads >= 100) {
-				popularity = 40;
+				dlScore = 40;
 			} else if (downloads >= 10) {
-				popularity = 20;
+				dlScore = 20;
 			} else {
-				popularity = 5;
+				dlScore = 5;
 			}
 
-			// Activity: npm maintenance score (0–1)
-			const activity = scoreMetric01(meta["npm_score_maintenance"] as number | null | undefined);
+			let starScore: number;
+			if (stars == null) {
+				starScore = 5;
+			} else if (stars >= 1_000) {
+				starScore = 100;
+			} else if (stars >= 100) {
+				starScore = 70;
+			} else if (stars >= 10) {
+				starScore = 40;
+			} else if (stars >= 1) {
+				starScore = 20;
+			} else {
+				starScore = 5;
+			}
+
+			// When stars are available, blend 60% downloads + 40% stars.
+			// When stars are absent, use downloads-only (backwards compatible).
+			const popularity = stars != null ? Math.round(dlScore * 0.6 + starScore * 0.4) : dlScore;
+
+			// Activity: use GitHub activity when available, otherwise npm maintenance score
+			let activity: number;
+			if (meta["github_updated_at"] != null) {
+				activity = scoreActivityDays(
+					meta["github_updated_at"] as string | null | undefined,
+					meta["open_issues"] as number | null | undefined,
+				);
+			} else {
+				activity = scoreMetric01(meta["npm_score_maintenance"] as number | null | undefined);
+			}
 
 			// Depth: npm quality score (0–1)
 			const depth = scoreMetric01(meta["npm_score_quality"] as number | null | undefined);
