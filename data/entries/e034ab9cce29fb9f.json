@@ -1,0 +1,29 @@
+{
+  "id": "Spirizeon-pi-nix",
+  "name": "Spirizeon-pi-nix",
+  "url": "https://github.com/Spirizeon/pi-nix",
+  "source": "github-search",
+  "description": "Fork of the popular Pi coding agent harness but as a Nix package",
+  "metadata": {
+    "github_url": "https://github.com/Spirizeon/pi-nix",
+    "repo_full_name": "Spirizeon/pi-nix",
+    "description": "Fork of the popular Pi coding agent harness but as a Nix package",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-02T12:56:36Z",
+    "pushed_at": "2026-05-02T12:58:09Z",
+    "updated_at": "2026-05-02T12:58:12Z",
+    "size": 43581,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

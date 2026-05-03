@@ -1,0 +1,29 @@
+{
+  "id": "dmoreq-pi-me",
+  "name": "dmoreq-pi-me",
+  "url": "https://github.com/dmoreq/pi-me",
+  "source": "github-search",
+  "description": "Comprehensive extension suite for the pi coding agent: safety guards, session lifecycle, developer tools, content utilities, subagent orchestration, and authoring helpers",
+  "metadata": {
+    "github_url": "https://github.com/dmoreq/pi-me",
+    "repo_full_name": "dmoreq/pi-me",
+    "description": "Comprehensive extension suite for the pi coding agent: safety guards, session lifecycle, developer tools, content utilities, subagent orchestration, and authoring helpers",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-01T03:26:19Z",
+    "pushed_at": "2026-05-03T07:12:51Z",
+    "updated_at": "2026-05-03T07:12:54Z",
+    "size": 3667,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

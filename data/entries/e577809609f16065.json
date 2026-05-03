@@ -1,0 +1,48 @@
+{
+  "id": "warpdot-dev-craft-agents-oss",
+  "name": "warpdot-dev-craft-agents-oss",
+  "url": "https://github.com/warpdot-dev/craft-agents-oss",
+  "source": "github-search",
+  "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
+  "metadata": {
+    "github_url": "https://github.com/warpdot-dev/craft-agents-oss",
+    "repo_full_name": "warpdot-dev/craft-agents-oss",
+    "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
+    "stars": 32,
+    "forks": 10,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "automations",
+      "bun",
+      "chatgpt",
+      "claude",
+      "desktop",
+      "devtools",
+      "electron",
+      "github-copilot",
+      "google-ai",
+      "llm",
+      "mcp",
+      "openapi",
+      "skills",
+      "thin-client",
+      "typescript",
+      "websocket"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-01T07:19:21Z",
+    "pushed_at": "2026-05-01T07:20:30Z",
+    "updated_at": "2026-05-03T07:56:57Z",
+    "size": 15106,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 74,
+    "level": "active"
+  },
+  "category": "misc"
+}

@@ -17171,5 +17171,303 @@
 		"reason": "Not clearly about Pi coding agent (pi.dev) - described as a telegram agent with no reference to pi.dev",
 		"blacklisted_at": "2026-05-02T07:31:06.074Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Aesirs/pi-guild-package",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:08.986Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/johnnywu1121ai-hue/pixel_agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.021Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Q0XAnXgCxIw",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-05-03T07:58:09.03Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://pi.dev/docs/latest/providers",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.033Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=t79_yPW73xc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.057Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=kqGjain3VuQ",
+		"reason": "pi network crypto signal: \"pi network\"",
+		"blacklisted_at": "2026-05-03T07:58:09.07Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Bernaljp/agent-factory",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-05-03T07:58:09.11Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Tiziano-AI/pi-exa-tools",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.2Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=uLFuvImN3oQ",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-05-03T07:58:09.237Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=sM0TcusRZO8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.243Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=DAaw7Ao_zUc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.272Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=XrA-P3DXt-I",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.278Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/gcampton/Agent-Pixels",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.29Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/ar27111994/agent-harness",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.315Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=pY1i1R0rchk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.328Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=GYH4gkEiv-A",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.333Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/CelestoAI/SmolVM/",
+		"reason": "covered by dedicated source: github.com",
+		"blacklisted_at": "2026-05-03T07:58:09.353Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=VyCkwpvX4mA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.357Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.barchart.com/story/news/350021/ruling-against-trump-s-tariffs-creates-new-uncertainty-in-us-trade-relations-with-china",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.362Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/ldarren/pi-server",
+		"reason": "industrial pi signal: \"pi server\"",
+		"blacklisted_at": "2026-05-03T07:58:09.378Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Jm8RiqAdHQE",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-05-03T07:58:09.391Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Yeshwanthyk/gitgud",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.396Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=AyF2ioX_JgU",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-05-03T07:58:09.428Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=s8NMAtkMWIg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.448Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=LOazLNQnB80",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.458Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/gaodes/pi-lens",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.471Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ccMmqs5n_o8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.485Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=lKxmm5QRtWM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-03T07:58:09.5Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/roodriigoooo/trail",
+		"reason": "Duplicate: same project as npm package @roodriigoooo/trail (higher health score 72)",
+		"blacklisted_at": "2026-05-03T08:08:58.959Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=MxdQFYnPC4I",
+		"reason": "Non-English title/description (Turkish): Pi Kodlama Ajanı - ÇOK DAHA İYİ",
+		"blacklisted_at": "2026-05-03T08:08:58.969Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/andriimartynov/pi-ollama-model-switcher",
+		"reason": "Duplicate: same project as npm package @andriimartynov/pi-ollama-model-switcher (higher health score 72)",
+		"blacklisted_at": "2026-05-03T08:09:50.314Z",
+		"source": "manual"
 	}
 ]
