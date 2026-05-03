@@ -1,0 +1,38 @@
+{
+  "id": "@jdrly/pi-toolbox",
+  "name": "@jdrly/pi-toolbox",
+  "url": "https://www.npmjs.com/package/@jdrly/pi-toolbox",
+  "source": "npm-search",
+  "description": "Deferred tool loading for Pi: keep heavy tool schemas out of context until prompts need them.",
+  "metadata": {
+    "github_url": "https://github.com/jdrly/pi-toolbox",
+    "npm_name": "@jdrly/pi-toolbox",
+    "description": "Deferred tool loading for Pi: keep heavy tool schemas out of context until prompts need them.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "extension",
+      "tools",
+      "deferred-tools",
+      "toolbox",
+      "context",
+      "tokens"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-02T22:32:58.285Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

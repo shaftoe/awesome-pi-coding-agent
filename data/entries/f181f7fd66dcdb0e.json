@@ -1,0 +1,29 @@
+{
+  "id": "zosmaai-zosma-cowork",
+  "name": "zosmaai-zosma-cowork",
+  "url": "https://github.com/zosmaai/zosma-cowork",
+  "source": "github-search",
+  "description": "Desktop GUI for the pi coding agent — open-source Claude Cowork alternative",
+  "metadata": {
+    "github_url": "https://github.com/zosmaai/zosma-cowork",
+    "repo_full_name": "zosmaai/zosma-cowork",
+    "description": "Desktop GUI for the pi coding agent — open-source Claude Cowork alternative",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-28T03:07:04Z",
+    "pushed_at": "2026-05-03T06:57:08Z",
+    "updated_at": "2026-05-03T06:57:12Z",
+    "size": 1497,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

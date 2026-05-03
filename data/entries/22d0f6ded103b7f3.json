@@ -1,0 +1,29 @@
+{
+  "id": "Litee-pi-extensions",
+  "name": "Litee-pi-extensions",
+  "url": "https://github.com/Litee/pi-extensions",
+  "source": "github-search",
+  "description": "Personal collection of extensions for Pi Agent",
+  "metadata": {
+    "github_url": "https://github.com/Litee/pi-extensions",
+    "repo_full_name": "Litee/pi-extensions",
+    "description": "Personal collection of extensions for Pi Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-02T10:54:56Z",
+    "pushed_at": "2026-05-02T12:08:25Z",
+    "updated_at": "2026-05-02T12:08:29Z",
+    "size": 206,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "matthew-oconnell-pi-learning-extensions",
+  "name": "matthew-oconnell-pi-learning-extensions",
+  "url": "https://github.com/matthew-oconnell/pi-learning-extensions",
+  "source": "github-search",
+  "description": "pi coding agent extensions — learning the extension API",
+  "metadata": {
+    "github_url": "https://github.com/matthew-oconnell/pi-learning-extensions",
+    "repo_full_name": "matthew-oconnell/pi-learning-extensions",
+    "description": "pi coding agent extensions — learning the extension API",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-02T12:09:03Z",
+    "pushed_at": "2026-05-02T12:09:11Z",
+    "updated_at": "2026-05-02T12:09:17Z",
+    "size": 6725,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

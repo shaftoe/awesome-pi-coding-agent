@@ -1,0 +1,39 @@
+{
+  "id": "Firstp1ck-npm-packages",
+  "name": "Firstp1ck-npm-packages",
+  "url": "https://github.com/Firstp1ck/npm-packages",
+  "source": "github-search",
+  "description": "This repository contains my public JavaScript/TypeScript packages published via npm (using Bun and/or npm).",
+  "metadata": {
+    "github_url": "https://github.com/Firstp1ck/npm-packages",
+    "repo_full_name": "Firstp1ck/npm-packages",
+    "description": "This repository contains my public JavaScript/TypeScript packages published via npm (using Bun and/or npm).",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "bun",
+      "bun-packages",
+      "extensions",
+      "npm",
+      "npm-packages",
+      "packages",
+      "pi-agent",
+      "pi-agent-extension",
+      "pi-extensions"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-02T19:38:52Z",
+    "pushed_at": "2026-05-02T20:42:28Z",
+    "updated_at": "2026-05-02T20:42:32Z",
+    "size": 39,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

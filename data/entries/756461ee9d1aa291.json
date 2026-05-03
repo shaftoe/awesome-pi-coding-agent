@@ -1,0 +1,33 @@
+{
+  "id": "@open-plan-annotator/pi-extension",
+  "name": "@open-plan-annotator/pi-extension",
+  "url": "https://www.npmjs.com/package/@open-plan-annotator/pi-extension",
+  "source": "npm-search",
+  "description": "Pi extension for open-plan-annotator that adds plan review tools and commands",
+  "metadata": {
+    "github_url": "https://github.com/ndom91/open-plan-annotator",
+    "npm_name": "@open-plan-annotator/pi-extension",
+    "description": "Pi extension for open-plan-annotator that adds plan review tools and commands",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "plan-mode",
+      "annotation"
+    ],
+    "version": "1.5.3",
+    "published_at": "2026-05-02T14:10:04.421Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}
