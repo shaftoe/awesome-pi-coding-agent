@@ -1,0 +1,24 @@
+{
+  "id": "YT_8yac_swVw8I",
+  "name": "Pi Coding Agent: The Minimal Coding Agent That Beats Claude Code and OpenCode",
+  "url": "https://youtube.com/watch?v=8yac_swVw8I",
+  "source": "youtube-search",
+  "description": "Pi Coding Agent is the open source terminal coding tool built by Mario Zechner that's quietly winning over senior engineers.",
+  "metadata": {
+    "title": "Pi Coding Agent: The Minimal Coding Agent That Beats Claude Code and OpenCode",
+    "name": "Pi Coding Agent: The Minimal Coding Agent That Beats Claude Code and OpenCode",
+    "description": "Pi Coding Agent is the open source terminal coding tool built by Mario Zechner that's quietly winning over senior engineers.",
+    "channel": "AI Stack Engineer",
+    "published_at": "2026-05-03T15:17:00Z",
+    "thumbnail": "https://i.ytimg.com/vi/8yac_swVw8I/hqdefault.jpg",
+    "views": 8695,
+    "likes": 189,
+    "comments": 13,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 60,
+    "level": "maintained"
+  },
+  "category": "video"
+}

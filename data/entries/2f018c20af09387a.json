@@ -1,0 +1,43 @@
+{
+  "id": "cortexkit-magic-context",
+  "name": "cortexkit-magic-context",
+  "url": "https://github.com/cortexkit/magic-context",
+  "source": "github-search",
+  "description": "Magic Context cache-aware infinite context, cross-session memory, and background history compression",
+  "metadata": {
+    "github_url": "https://github.com/cortexkit/magic-context",
+    "repo_full_name": "cortexkit/magic-context",
+    "description": "Magic Context cache-aware infinite context, cross-session memory, and background history compression",
+    "stars": 498,
+    "forks": 24,
+    "open_issues": 7,
+    "topics": [
+      "agent-framework",
+      "agent-memory",
+      "ai",
+      "ai-agents",
+      "ai-context",
+      "ai-memory",
+      "cache-aware",
+      "context-engineering",
+      "context-management",
+      "langchain",
+      "memory",
+      "opencode",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-26T12:27:01Z",
+    "pushed_at": "2026-05-03T13:27:40Z",
+    "updated_at": "2026-05-03T23:17:32Z",
+    "size": 82465,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "misc"
+}

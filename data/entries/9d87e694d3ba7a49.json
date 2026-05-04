@@ -1,0 +1,35 @@
+{
+  "id": "sinAshish-Roku-agent",
+  "name": "sinAshish-Roku-agent",
+  "url": "https://github.com/sinAshish/Roku-agent",
+  "source": "github-search",
+  "description": "A custom extension for the Pi Coding Agent that turns your AI agent into a smart, programmable network remote for your Roku TV!",
+  "metadata": {
+    "github_url": "https://github.com/sinAshish/Roku-agent",
+    "repo_full_name": "sinAshish/Roku-agent",
+    "description": "A custom extension for the Pi Coding Agent that turns your AI agent into a smart, programmable network remote for your Roku TV!",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "ai",
+      "llm",
+      "roku",
+      "smart-tv"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-04T05:10:52Z",
+    "pushed_at": "2026-05-04T05:40:59Z",
+    "updated_at": "2026-05-04T05:41:03Z",
+    "size": 5,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

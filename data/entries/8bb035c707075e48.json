@@ -1,0 +1,40 @@
+{
+  "id": "marco-souza-pi-browser-bridge",
+  "name": "marco-souza-pi-browser-bridge",
+  "url": "https://github.com/marco-souza/pi-browser-bridge",
+  "source": "github-search",
+  "description": "Let your pi coding agent control the browser. Navigate, click, type, screenshot — all from the terminal over WebSocket.",
+  "metadata": {
+    "github_url": "https://github.com/marco-souza/pi-browser-bridge",
+    "repo_full_name": "marco-souza/pi-browser-bridge",
+    "description": "Let your pi coding agent control the browser. Navigate, click, type, screenshot — all from the terminal over WebSocket.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai",
+      "browser-automation",
+      "bun",
+      "chrome-extension",
+      "coding-agent",
+      "developer-tools",
+      "local-first",
+      "pi",
+      "typescript",
+      "websocket"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-03T14:15:41Z",
+    "pushed_at": "2026-05-03T16:10:57Z",
+    "updated_at": "2026-05-03T16:11:00Z",
+    "size": 532,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

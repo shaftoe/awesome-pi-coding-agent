@@ -1,0 +1,32 @@
+{
+  "id": "@casualjim/pi-agentmemory",
+  "name": "@casualjim/pi-agentmemory",
+  "url": "https://www.npmjs.com/package/@casualjim/pi-agentmemory",
+  "source": "npm-search",
+  "description": "Persistent memory for pi — captures tool usage, sessions, and context via lifecycle hooks, powered by agentmemory",
+  "metadata": {
+    "github_url": "https://github.com/casualjim/pi-agentmemory",
+    "npm_name": "@casualjim/pi-agentmemory",
+    "description": "Persistent memory for pi — captures tool usage, sessions, and context via lifecycle hooks, powered by agentmemory",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "memory",
+      "agentmemory"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-04T03:40:39.414Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

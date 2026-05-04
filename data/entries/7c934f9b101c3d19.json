@@ -1,0 +1,21 @@
+{
+  "id": "BRAVE_pi.dev_pi-package-template",
+  "name": "pi-package-template",
+  "url": "https://pi.dev/packages/pi-package-template",
+  "source": "brave-web-search",
+  "description": "# 1. Clone this template git clone https://github.com/YOU/pi-package-template.git my-pi-package cd my-pi-package # 2. Install dev dependencies (for type checking) npm install # 3. Edit package.json — set name, description, author, repository # 4. Start building!",
+  "metadata": {
+    "title": "pi-package-template",
+    "name": "pi-package-template",
+    "description": "# 1. Clone this template git clone https://github.com/YOU/pi-package-template.git my-pi-package cd my-pi-package # 2. Install dev dependencies (for type checking) npm install # 3. Edit package.json — set name, description, author, repository # 4. Start building!",
+    "published_at": "2026-05-03T09:50:03",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-package-template",
+    "discovery_hint": "brave:pi-package"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "article"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "@javiayala/ai-workers",
+  "name": "@javiayala/ai-workers",
+  "url": "https://www.npmjs.com/package/@javiayala/ai-workers",
+  "source": "npm-search",
+  "description": "Portable Pi/GLM worker tools for offloading low-risk agent work from premium coding agents.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@javiayala/ai-workers",
+    "description": "Portable Pi/GLM worker tools for offloading low-risk agent work from premium coding agents.",
+    "keywords": [
+      "pi-package",
+      "codex",
+      "mcp",
+      "agent",
+      "zai",
+      "glm"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-05-04T08:18:53.912Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

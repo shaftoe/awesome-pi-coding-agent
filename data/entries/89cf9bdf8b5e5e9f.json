@@ -1,0 +1,35 @@
+{
+  "id": "shekohex-dotai",
+  "name": "shekohex-dotai",
+  "url": "https://github.com/shekohex/dotai",
+  "source": "github-search",
+  "description": "My AI Agents Configuration files to be shared across my different machines (claude, gemini, opencode, codex, pi ..etc)",
+  "metadata": {
+    "github_url": "https://github.com/shekohex/dotai",
+    "repo_full_name": "shekohex/dotai",
+    "description": "My AI Agents Configuration files to be shared across my different machines (claude, gemini, opencode, codex, pi ..etc)",
+    "stars": 9,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "gemini",
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2025-08-12T14:47:02Z",
+    "pushed_at": "2026-05-04T07:50:45Z",
+    "updated_at": "2026-05-04T07:48:45Z",
+    "size": 3235,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 70,
+    "level": "active"
+  },
+  "category": "misc"
+}

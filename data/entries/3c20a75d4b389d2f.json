@@ -1,0 +1,31 @@
+{
+  "id": "pi-package-template",
+  "name": "pi-package-template",
+  "url": "https://www.npmjs.com/package/pi-package-template",
+  "source": "npm-search",
+  "description": "A minimal starter template for building pi packages",
+  "metadata": {
+    "github_url": "https://github.com/S1M0N38/pi-package-template",
+    "npm_name": "pi-package-template",
+    "description": "A minimal starter template for building pi packages",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-05-03T13:28:17.098Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}
