@@ -49,9 +49,7 @@ export function computeHealth(entry: Entry, dims: HealthDimensions): Health {
 	const hasDate =
 		entry.metadata?.["published_at"] != null ||
 		entry.metadata?.["pushed_at"] != null ||
-		entry.metadata?.["updated_at"] != null ||
-		entry.metadata?.["github_pushed_at"] != null ||
-		entry.metadata?.["github_updated_at"] != null;
+		entry.metadata?.["updated_at"] != null;
 
 	if (!hasDate) {
 		score = Math.min(score, CAP_NO_DATES);

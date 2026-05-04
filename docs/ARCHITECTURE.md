@@ -1,6 +1,6 @@
 # Architecture
 
-**Last updated:** 2026-05-03
+**Last updated:** 2026-04-27
 
 The project is a **four-stage data pipeline** that discovers, filters, processes, and renders a curated list of resources for the [Pi Coding Agent](https://pi.dev/) ecosystem into an awesome-list database and renders it as
 
@@ -90,8 +90,7 @@ src/
     terms.ts                          Canonical search terms (shared by all sources)
   sources/                          ✅ Source implementations (cross-cutting plugins)
     source.ts                         Source interface + DiscoveryResult/WriteResult types
-    npm.ts                            npm registry (keyword queries, full pagination, GitHub enrichment)
-    npm.test.ts
+    npm.ts                            npm registry (keyword queries, full pagination)
     github.ts                         GitHub search (repos)
     youtube.ts                        YouTube Data API (token-based pagination)
     hackernews.ts                     Hacker News via Algolia API (story search)
@@ -267,7 +266,7 @@ Composes `ThrottledFetcher` + `Cache` into a paginator.
 Sources run in **two phases** within `runDiscovery()`:
 
 1. **Discover** (parallel) — all sources fetch candidates simultaneously, writing to `.cache/candidates/`. No filtering, no dedup.
-2. **Enrich** (sequential) — sources with an `enrich()` method make follow-up API calls to augment already-written candidates. Currently YouTube (fetches video statistics) and npm (fetches GitHub repo data for packages with a `github_url`) implement this.
+2. **Enrich** (sequential) — sources with an `enrich()` method make follow-up API calls to augment already-written candidates. Currently only YouTube implements this (fetches video statistics). npm/GitHub have no second phase.
 
 ```typescript
 interface Source {
@@ -289,12 +288,7 @@ High-precision `keywords:` queries only. Composes `ThrottledFetcher(0.5 rps)` + 
 
 ID: full npm package name (e.g. `@scope/pi-extension`).
 
-**Two-phase discovery:**
-
-1. **Discover** — npm search API fetches candidates with package metadata
-2. **Enrich** — reads back npm candidates, extracts `github_url` from metadata, and fetches repo details from the GitHub API (`GET /repos/{owner}/{repo}`). API calls are deduplicated so multiple npm packages pointing to the same repo only trigger one GitHub API request. Respects cache and offline mode.
-
-**Metadata fields (phase 1 — npm search):**
+**Metadata fields captured:**
 
 | Field | Type | Source | Health relevance |
 |-------|------|--------|-----------------|
@@ -303,31 +297,13 @@ ID: full npm package name (e.g. `@scope/pi-extension`).
 | `keywords` | `string[]` | `package.keywords` | Classification, filter |
 | `version` | `string \| null` | `package.version` | Freshness |
 | `published_at` | `string \| null` | `package.date` | Freshness (last publish) |
-| `github_url` | `string \| null` | `package.links.repository` | Dedup, cross-ref, enrichment key |
+| `github_url` | `string \| null` | `package.links.repository` | Dedup, cross-ref |
 | `npm_downloads_monthly` | `number \| null` | `downloads.monthly` | Popularity |
 | `npm_downloads_weekly` | `number \| null` | `downloads.weekly` | Popularity velocity |
 | `npm_score_final` | `number \| null` | `score.final` | Overall npm quality |
 | `npm_score_popularity` | `number \| null` | `score.detail.popularity` | Popularity (0–1) |
 | `npm_score_quality` | `number \| null` | `score.detail.quality` | Code quality (0–1) |
 | `npm_score_maintenance` | `number \| null` | `score.detail.maintenance` | Maintenance (0–1) |
-
-**Metadata fields (phase 2 — enrichment via GitHub API):**
-
-| Field | Type | Source | Health relevance |
-|-------|------|--------|-----------------|
-| `stars` | `number` | `stargazers_count` | Popularity (blended with downloads) |
-| `forks` | `number` | `forks_count` | Community engagement |
-| `open_issues` | `number` | `open_issues_count` | Activity |
-| `topics` | `string[]` | `topics` | Classification, filter |
-| `language` | `string \| null` | `language` | Filter |
-| `archived` | `boolean` | `archived` | Dead (hard kill) |
-| `github_pushed_at` | `string \| null` | `pushed_at` | Freshness (last commit, preferred over `published_at`) |
-| `github_updated_at` | `string \| null` | `updated_at` | Activity |
-| `github_created_at` | `string \| null` | `created_at` | Age |
-| `size` | `number` | `size` | Depth (KB) |
-| `license` | `string \| null` | `license.spdx_id` | Open-source signal |
-
-**Enrichment cost:** ~1 GitHub API request per unique repo URL. With `GITHUB_TOKEN`, rate limit is 5000 req/hr. Responses are cached.
 
 #### GitHub (`sources/github.ts`) ✅
 
@@ -538,11 +514,11 @@ Two files: `index.ts` (CLI entry point) and `render.ts` (pure rendering logic, e
 |--------|--------|--------|--------|
 | YouTube | Views | `📺<n>` | `📺10.5k` |
 | GitHub | Stars | `⭐<n>` | `⭐314` |
-| npm | Monthly downloads + stars (if enriched) | `⬇ <n>/mo ⭐<n>` | `⬇ 20.5k/mo ⭐314` |
+| npm | Monthly downloads | `⬇ <n>/mo` | `⬇ 20.5k/mo` |
 | Hacker News | Points | `📌<n>` | `📌314` |
 | Brave Search | Source site | `🌐<name>` | `🌐Dev.to` |
 
-All sources store the relevant metric in metadata at discovery (YouTube and npm via enrichment phase). No additional API calls needed at render time.
+All sources store the relevant metric in metadata at discovery (YouTube via enrichment phase). No additional API calls needed at render time.
 
 **Health badges:** Colour-coded circles per health level:
 
@@ -689,7 +665,7 @@ Each entry receives a `Health` object: `{ score: 0–100, level: HealthLevel }`.
 ### Hard rules (override formula)
 
 - `archived: true` → `Dead` immediately (score = 0)
-- No `pushed_at` / `published_at` / `github_pushed_at` / `github_updated_at` at all → cap at `Stale` (max 39)
+- No `pushed_at` / `published_at` at all → cap at `Stale` (max 39)
 - Source-specific health cap (e.g. YouTube/HN → cap at `Maintained`, max score 60) — defined by each source's `healthCap` property
 
 ### Generic formula
@@ -702,9 +678,9 @@ Each entry receives a `Health` object: `{ score: 0–100, level: HealthLevel }`.
 
 | Dimension | Metadata fields | Scoring |
 |-----------|----------------|---------|
-| **Freshness** (35%) | `github_pushed_at` (preferred), fallback `published_at` | < 30d → 100, < 90d → 80, < 180d → 60, < 365d → 40, < 730d → 20, ≥ 730d → 5 |
-| **Popularity** (30%) | `npm_downloads_monthly` + `stars` (blended 60/40 when stars available) | Downloads: ≥ 10k → 100, ≥ 1k → 70, ≥ 100 → 40, ≥ 10 → 20, < 10 → 5. Stars: ≥ 1k → 100, ≥ 100 → 70, ≥ 10 → 40, ≥ 1 → 20, 0 → 5. Blend: `round(dlScore × 0.6 + starScore × 0.4)`. Downloads-only when no GitHub data (backwards compatible). |
-| **Activity** (20%) | `github_updated_at` + `open_issues` (when available), fallback `npm_score_maintenance` (0–1) | GitHub: `scoreActivityDays()` (recent + issues → 100). npm: 1.0 → 100, 0.5 → 50, 0.0 → 5 |
+| **Freshness** (35%) | `published_at` | < 30d → 100, < 90d → 80, < 180d → 60, < 365d → 40, < 730d → 20, ≥ 730d → 5 |
+| **Popularity** (30%) | `npm_downloads_monthly` | ≥ 10k → 100, ≥ 1k → 70, ≥ 100 → 40, ≥ 10 → 20, < 10 → 5 |
+| **Activity** (20%) | `npm_score_maintenance` (0–1) | 1.0 → 100, 0.5 → 50, 0.0 → 5 |
 | **Depth** (15%) | `npm_score_quality` (0–1) | 1.0 → 100, 0.5 → 50, 0.0 → 5 |
 
 #### GitHub
@@ -748,8 +724,6 @@ Each entry receives a `Health` object: `{ score: 0–100, level: HealthLevel }`.
 ### Cross-source boost
 
 When an npm entry has a `github_url` pointing to a GitHub repo also in the dataset, the higher of the two popularity scores is used for the npm entry. This is handled in `process/index.ts` before calling `computeHealth()`.
-
-Additionally, npm entries that have a `github_url` are enriched during the discovery enrichment phase (Phase 2) with GitHub repo metadata (stars, forks, topics, etc.). This enrichment is applied lazily — only once per unique `owner/repo` — and the GitHub data is merged into the npm entry's metadata, improving health scoring without changing the canonical npm URL.
 
 ---
 
