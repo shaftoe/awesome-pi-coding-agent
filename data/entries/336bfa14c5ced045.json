@@ -1,0 +1,21 @@
+{
+  "id": "BRAVE_pi.dev_pi-subagents",
+  "name": "tintinweb/pi-subagents - Pi Coding Agent",
+  "url": "https://pi.dev/packages/@tintinweb/pi-subagents",
+  "source": "brave-web-search",
+  "description": "A pi extension extension that brings smart Claude Code-style autonomous sub-agents to pi · Install @tintinweb/pi-subagents from npm and Pi will load the resources declared by the package manifest",
+  "metadata": {
+    "title": "tintinweb/pi-subagents - Pi Coding Agent",
+    "name": "tintinweb/pi-subagents - Pi Coding Agent",
+    "description": "A pi extension extension that brings smart Claude Code-style autonomous sub-agents to pi · Install @tintinweb/pi-subagents from npm and Pi will load the resources declared by the package manifest",
+    "published_at": "2026-04-27T03:40:04",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/@tintinweb/pi-subagents",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "article"
+}

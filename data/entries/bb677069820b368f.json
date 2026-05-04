@@ -1,0 +1,49 @@
+{
+  "id": "selimozten-elek",
+  "name": "selimozten-elek",
+  "url": "https://github.com/selimozten/elek",
+  "source": "github-search",
+  "description": "AI code review GitHub Action — model-agnostic via pi (DeepSeek, Z.AI, OpenAI, Anthropic, Google, …). Posts inline review threads on changed lines. Cannot approve, merge, or close (structural guarantee, not a runtime check).",
+  "metadata": {
+    "github_url": "https://github.com/selimozten/elek",
+    "repo_full_name": "selimozten/elek",
+    "description": "AI code review GitHub Action — model-agnostic via pi (DeepSeek, Z.AI, OpenAI, Anthropic, Google, …). Posts inline review threads on changed lines. Cannot approve, merge, or close (structural guarantee, not a runtime check).",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai",
+      "anthropic",
+      "automated-review",
+      "ci-cd",
+      "claude",
+      "code-review",
+      "deepseek",
+      "developer-tools",
+      "devtools",
+      "github-action",
+      "github-actions",
+      "llm",
+      "mcp",
+      "model-agnostic",
+      "model-context-protocol",
+      "openai",
+      "pi-coding-agent",
+      "pull-request",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-03T15:29:23Z",
+    "pushed_at": "2026-05-03T23:06:49Z",
+    "updated_at": "2026-05-03T23:06:16Z",
+    "size": 287,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

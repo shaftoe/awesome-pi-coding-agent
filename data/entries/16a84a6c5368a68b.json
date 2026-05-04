@@ -1,0 +1,32 @@
+{
+  "id": "pi-system-prompt",
+  "name": "pi-system-prompt",
+  "url": "https://www.npmjs.com/package/pi-system-prompt",
+  "source": "npm-search",
+  "description": "Display the full pi coding agent system prompt with injected tools, guidelines, context files, and skills in a scrollable overlay",
+  "metadata": {
+    "github_url": "https://github.com/jandrikus/pi-system-prompt",
+    "npm_name": "pi-system-prompt",
+    "description": "Display the full pi coding agent system prompt with injected tools, guidelines, context files, and skills in a scrollable overlay",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "system-prompt",
+      "debugging"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-03T21:58:52.649Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

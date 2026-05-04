@@ -1,0 +1,32 @@
+{
+  "id": "naranyala-pi-ext-prompt-clarity-with-multistep-form-or-options",
+  "name": "naranyala-pi-ext-prompt-clarity-with-multistep-form-or-options",
+  "url": "https://github.com/naranyala/pi-ext-prompt-clarity-with-multistep-form-or-options",
+  "source": "github-search",
+  "description": "is a powerful extension for the Pi coding agent that prevents \"guessing\" and reduces hallucinations by providing a structured, interactive framework for resolving ambiguity. Instead of the agent making assumptions about a vague request, it can now deploy a dynamic, multi-step questionnaire to gather the exact details.",
+  "metadata": {
+    "github_url": "https://github.com/naranyala/pi-ext-prompt-clarity-with-multistep-form-or-options",
+    "repo_full_name": "naranyala/pi-ext-prompt-clarity-with-multistep-form-or-options",
+    "description": "is a powerful extension for the Pi coding agent that prevents \"guessing\" and reduces hallucinations by providing a structured, interactive framework for resolving ambiguity. Instead of the agent making assumptions about a vague request, it can now deploy a dynamic, multi-step questionnaire to gather the exact details.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "pi-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-03T10:06:54Z",
+    "pushed_at": "2026-05-04T03:41:30Z",
+    "updated_at": "2026-05-04T03:41:34Z",
+    "size": 132,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

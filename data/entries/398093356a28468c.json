@@ -1,0 +1,37 @@
+{
+  "id": "@dxvapor/pi-prompt-enhancer",
+  "name": "@dxvapor/pi-prompt-enhancer",
+  "url": "https://www.npmjs.com/package/@dxvapor/pi-prompt-enhancer",
+  "source": "npm-search",
+  "description": "Prompt enhancer with comparison popup, version history, searchable model picker, and quick-enhance mode",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@dxvapor/pi-prompt-enhancer",
+    "description": "Prompt enhancer with comparison popup, version history, searchable model picker, and quick-enhance mode",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "prompt",
+      "enhance",
+      "prompt-enhancer",
+      "rewrite",
+      "ai",
+      "coding-agent"
+    ],
+    "version": "1.2.0",
+    "published_at": "2026-05-03T08:29:46.188Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

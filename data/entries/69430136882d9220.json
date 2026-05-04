@@ -1,0 +1,29 @@
+{
+  "id": "davidshen84-pi-ollama-web-search",
+  "name": "davidshen84-pi-ollama-web-search",
+  "url": "https://github.com/davidshen84/pi-ollama-web-search",
+  "source": "github-search",
+  "description": "pi coding agent ollama web search extension",
+  "metadata": {
+    "github_url": "https://github.com/davidshen84/pi-ollama-web-search",
+    "repo_full_name": "davidshen84/pi-ollama-web-search",
+    "description": "pi coding agent ollama web search extension",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-04T06:52:23Z",
+    "pushed_at": "2026-05-04T07:07:03Z",
+    "updated_at": "2026-05-04T07:07:07Z",
+    "size": 34,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

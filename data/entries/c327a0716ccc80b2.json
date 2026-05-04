@@ -1,0 +1,35 @@
+{
+  "id": "kostyay-pi-k-excalidraw",
+  "name": "kostyay-pi-k-excalidraw",
+  "url": "https://github.com/kostyay/pi-k-excalidraw",
+  "source": "github-search",
+  "description": "Native Excalidraw diagram preview tool for pi — draw and save diagrams from the agent with a live glimpse webview.",
+  "metadata": {
+    "github_url": "https://github.com/kostyay/pi-k-excalidraw",
+    "repo_full_name": "kostyay/pi-k-excalidraw",
+    "description": "Native Excalidraw diagram preview tool for pi — draw and save diagrams from the agent with a live glimpse webview.",
+    "stars": 34,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "diagram",
+      "excalidraw",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-03T11:09:42Z",
+    "pushed_at": "2026-05-03T20:48:50Z",
+    "updated_at": "2026-05-04T08:06:49Z",
+    "size": 3396,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 68,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

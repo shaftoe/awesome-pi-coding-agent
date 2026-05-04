@@ -1,0 +1,36 @@
+{
+  "id": "pi-windows-path-guard",
+  "name": "pi-windows-path-guard",
+  "url": "https://www.npmjs.com/package/pi-windows-path-guard",
+  "source": "npm-search",
+  "description": "Prevents Windows-native Pi file tools from silently writing to mangled paths when agents reuse Git Bash/MSYS paths like /c/Users/...",
+  "metadata": {
+    "github_url": "https://github.com/Lododizzle/pi-windows-path-guard",
+    "npm_name": "pi-windows-path-guard",
+    "description": "Prevents Windows-native Pi file tools from silently writing to mangled paths when agents reuse Git Bash/MSYS paths like /c/Users/...",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "windows",
+      "path",
+      "git-bash",
+      "msys",
+      "wsl"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-05-04T04:05:54.177Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}
