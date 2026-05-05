@@ -13,7 +13,6 @@ const categories = getCategories(entries);
 const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 ---
 
-
 <div class="stats-bar">
   <strong>{stats.total.toLocaleString()} resources</strong>
   <span class="stat"><span class="dot" style={`background:var(--sl-color-green)`}></span>{stats.active} active</span>
@@ -25,6 +24,20 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 {lastUpdated && (
   <p class="last-updated">Updated daily · Last updated: {lastUpdated}</p>
 )}
+
+<global-search-view class="global-search-section" style="display:none">
+  <div class="global-search-header">
+    <global-search-input class="search-box">
+      <input type="search" placeholder="Search extensions, themes, videos, articles…" />
+      <span class="search-count"></span>
+    </global-search-input>
+    <button type="button" class="clear-search">← Back to categories</button>
+  </div>
+  <div class="global-search-results entry-grid"></div>
+  <div class="global-search-empty" style="display:none">
+    <p>No results found.</p>
+  </div>
+</global-search-view>
 
 <div class="category-grid">
   {categories.map((cat) => (
@@ -38,3 +51,187 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
     </a>
   ))}
 </div>
+
+<script>
+	const CATEGORY_ICONS: Record<string, string> = {
+		extension: '🔌', theme: '🎨', video: '🎬', article: '📰', misc: '📦',
+	};
+
+	type SearchEntry = { n: string; d: string; c: string; u: string; h: string; s: number; p: string };
+	let searchIndex: SearchEntry[] | null = null;
+
+	async function loadSearchIndex(): Promise<SearchEntry[]> {
+		if (searchIndex) return searchIndex;
+		const res = await fetch('/search-index.json');
+		searchIndex = await res.json();
+		return searchIndex!;
+	}
+
+	function performSearch(entries: SearchEntry[], query: string): SearchEntry[] {
+		const q = query.toLowerCase().trim();
+		if (!q) return [];
+		const terms = q.split(/\s+/).filter(Boolean);
+		return entries.filter((e) => {
+			const text = `${e.n} ${e.d} ${e.c}`.toLowerCase();
+			return terms.every((t) => text.includes(t));
+		});
+	}
+
+	function escapeHtml(s: string): string {
+		return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+	}
+
+	function escapeRegex(s: string): string {
+		return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+	}
+
+	function highlightText(text: string, query: string): string {
+		if (!query.trim()) return escapeHtml(text);
+		const terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
+		let result = escapeHtml(text);
+		for (const term of terms) {
+			const regex = new RegExp(`(${escapeRegex(term)})`, 'gi');
+			result = result.replace(regex, '<mark>$1</mark>');
+		}
+		return result;
+	}
+
+	function truncateText(s: string, len: number): string {
+		return s.length > len ? s.slice(0, len) + '…' : s;
+	}
+
+	function renderResults(container: HTMLElement, results: SearchEntry[], query: string): void {
+		container.innerHTML = results
+			.map((r) => {
+				const icon = CATEGORY_ICONS[r.c] || '📄';
+				const healthColors: Record<string, string> = {
+					active: 'var(--sl-color-green)',
+					maintained: 'var(--sl-color-yellow, var(--sl-color-orange))',
+					stale: 'var(--sl-color-orange)',
+					dead: 'var(--sl-color-red)',
+				};
+				const dotColor = healthColors[r.h] || 'var(--sl-color-gray-4)';
+				const popHtml = r.p ? `<span>${r.p}</span>` : '';
+				const categoryLabel = r.c.charAt(0).toUpperCase() + r.c.slice(1);
+				return `<a href="${r.u}" target="_blank" rel="noopener noreferrer" class="entry-card">
+					<div style="display:flex;align-items:center;gap:0.5rem">
+						<h3>${icon} ${highlightText(r.n, query)}</h3>
+						<span class="health-badge health-${r.h}"><span class="dot"></span>${r.h}</span>
+					</div>
+					<p class="desc">${highlightText(truncateText(r.d, 200), query)}</p>
+					<div class="meta">
+						<span>${categoryLabel}</span>
+						${popHtml}
+						<span class="result-external" style="margin-left:auto">↗</span>
+					</div>
+				</a>`;
+			})
+			.join('');
+	}
+
+	class GlobalSearchInput extends HTMLElement {
+		connectedCallback() {
+			const input = this.querySelector<HTMLInputElement>('input[type="search"]')!;
+			const view = this.closest<HTMLElement>('global-search-view');
+			const resultsContainer = view?.querySelector<HTMLElement>('.global-search-results');
+			const emptyEl = view?.querySelector<HTMLElement>('.global-search-empty');
+			const countEl = this.querySelector<HTMLElement>('.search-count');
+			if (!view || !resultsContainer || !emptyEl || !countEl) return;
+
+			let debounceTimer: ReturnType<typeof setTimeout>;
+
+			const doSearch = async () => {
+				const query = input.value.trim();
+				const url = new URL(window.location.href);
+				if (query) {
+					url.searchParams.set('q', query);
+				} else {
+					url.searchParams.delete('q');
+				}
+				history.replaceState(null, '', url.toString());
+
+				if (!query) {
+					showCategoryGrid();
+					return;
+				}
+
+				const entries = await loadSearchIndex();
+				const results = performSearch(entries, query);
+				renderResults(resultsContainer, results, query);
+
+				if (results.length === 0) {
+					emptyEl.style.display = '';
+					resultsContainer.innerHTML = '';
+					countEl.textContent = '0 results';
+				} else {
+					emptyEl.style.display = 'none';
+					countEl.textContent = `${results.length} result${results.length === 1 ? '' : 's'}`;
+				}
+			};
+
+			input.addEventListener('input', () => {
+				clearTimeout(debounceTimer);
+				debounceTimer = setTimeout(doSearch, 150);
+			});
+
+			// Store reference for external activation
+			(this as any)._doSearch = doSearch;
+			(this as any)._input = input;
+		}
+	}
+
+	function showCategoryGrid(): void {
+		const view = document.querySelector<HTMLElement>('global-search-view');
+		const grid = document.querySelector<HTMLElement>('.category-grid');
+		if (view) view.style.display = 'none';
+		if (grid) grid.style.display = '';
+		const url = new URL(window.location.href);
+		url.searchParams.delete('q');
+		history.replaceState(null, '', url.toString());
+	}
+
+	function showSearchView(query: string): void {
+		const view = document.querySelector<HTMLElement>('global-search-view');
+		const grid = document.querySelector<HTMLElement>('.category-grid');
+		if (view) view.style.display = '';
+		if (grid) grid.style.display = 'none';
+
+		const inputComp = document.querySelector('global-search-input') as any;
+		if (inputComp?._input) {
+			inputComp._input.value = query;
+		}
+		if (inputComp?._doSearch) {
+			inputComp._doSearch();
+		}
+	}
+
+	class GlobalSearchView extends HTMLElement {
+		connectedCallback() {
+			const clearBtn = this.querySelector<HTMLButtonElement>('.clear-search');
+			if (clearBtn) {
+				clearBtn.addEventListener('click', showCategoryGrid);
+			}
+
+			// Check URL for ?q= on load
+			const params = new URLSearchParams(window.location.search);
+			const q = params.get('q');
+			if (q) {
+				showSearchView(q);
+			}
+		}
+	}
+
+	customElements.define('global-search-input', GlobalSearchInput);
+	customElements.define('global-search-view', GlobalSearchView);
+
+	// Also handle browser back/forward navigation
+	window.addEventListener('popstate', () => {
+		const params = new URLSearchParams(window.location.search);
+		const q = params.get('q');
+		if (q) {
+			showSearchView(q);
+		} else {
+			showCategoryGrid();
+		}
+	});
+</script>
