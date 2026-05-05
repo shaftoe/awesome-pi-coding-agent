@@ -1,0 +1,37 @@
+{
+  "id": "wenkil-pi-plan-runtime",
+  "name": "wenkil-pi-plan-runtime",
+  "url": "https://github.com/wenkil/pi-plan-runtime",
+  "source": "github-search",
+  "description": "A dedicated Plan Execution Runtime for Pi Coding Agent. Pure, reusable, and source-first engine for scheduling multi-step agent workflows in serial or parallel without business state coupling.",
+  "metadata": {
+    "github_url": "https://github.com/wenkil/pi-plan-runtime",
+    "repo_full_name": "wenkil/pi-plan-runtime",
+    "description": "A dedicated Plan Execution Runtime for Pi Coding Agent. Pure, reusable, and source-first engine for scheduling multi-step agent workflows in serial or parallel without business state coupling.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-orchestration",
+      "handoff-agent",
+      "parallel-agents",
+      "pi-coding-agent",
+      "plan-execution",
+      "plan-runtime",
+      "task-scheduling"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-05T02:27:15Z",
+    "pushed_at": "2026-05-05T04:06:20Z",
+    "updated_at": "2026-05-05T04:06:23Z",
+    "size": 67,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

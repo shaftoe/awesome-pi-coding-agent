@@ -17881,5 +17881,361 @@
 		"reason": "duplicate of npm package @arcanemachine/pi-read (higher health score)",
 		"blacklisted_at": "2026-05-04T08:29:50.497Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=8HJs7BCqtL0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.114Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/zacheryph/pi",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.148Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://realpython.com/ref/ai-coding-tools/pi/",
+		"reason": "blocked name: pi",
+		"blacklisted_at": "2026-05-05T08:04:43.173Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/echohello-dev/openpi",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.193Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/vegardx/pi-ext-session-title",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.199Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=3-WcGDfWbaQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.205Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=am9Rsh5qXCU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.224Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/LinYiXin123/Pixel-Agents-Chinese",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-05T08:04:43.235Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5STDnGIY9O0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.238Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=xJKFFKBdTtA",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-05-05T08:04:43.263Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=EyZR0cacWbI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.313Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=q-9PXV0UfkA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.33Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/vegardx/pi-ext-prompt-suggestion",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.337Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/vegardx/pi-ext-commit",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.346Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=EnXKysJNz_8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.358Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=nYDUdnMVDdU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.361Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=hdZwwSF_p5U",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.366Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=XS8-ky4daws",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.371Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/vegardx/pi-ext-develop",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.381Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=eur8dUO9mvE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.385Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=hLJTcVHW8_I",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.395Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=7JtSxb7wB8c",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-05-05T08:04:43.399Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=bdAWIpTq2GQ",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-05-05T08:04:43.41Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/brahdian/pi_coding_agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.416Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=0tD5GQt6lDI",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-05T08:04:43.437Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=D_NjsvCuuUc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.451Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/pivanov/agents-wire",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.458Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=4vcilV8hYwg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.485Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=kFmhSTh167U",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-05-05T08:04:43.488Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.marketscreener.com/news/pt-pertamina-and-halliburton-sign-an-integrated-unconventional-fracturing-mou-in-indonesia-ce7e5dd2dd8cfe27",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.511Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/vegardx/pi-ext-nitpick",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.516Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=uguWUS9N-KY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.519Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=BPSjG-EzKHc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.521Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/vegardx/pi-ext-review",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.524Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=fMtQy9msLz0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-05T08:04:43.527Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@cortexkit/pi-magic-context",
+		"reason": "Duplicate of existing entry cortexkit-magic-context (same GitHub repo https://github.com/cortexkit/magic-context, existing has higher health score 91 vs 72)",
+		"blacklisted_at": "2026-05-05T08:23:38.148Z",
+		"source": "manual"
 	}
 ]
