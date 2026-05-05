@@ -39,9 +39,9 @@ export function buildChecks(): AstroIntegration {
 						errors.push("index.html: no category cards found");
 					}
 
-					// Must contain global search view for shareable URLs
-					if (!indexHtml.includes("global-search-view")) {
-						errors.push("index.html: global search view not found");
+					// Must contain global search bar for shareable URLs
+					if (!indexHtml.includes("global-search-bar")) {
+						errors.push("index.html: global search bar not found");
 					}
 				}
 

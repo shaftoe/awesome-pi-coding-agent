@@ -25,19 +25,20 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
   <p class="last-updated">Updated daily · Last updated: {lastUpdated}</p>
 )}
 
-<global-search-view class="global-search-section" style="display:none">
-  <div class="global-search-header">
+<global-search-bar class="global-search-bar">
+  <div class="global-search-bar-inner">
     <global-search-input class="search-box">
       <input type="search" placeholder="Search extensions, themes, videos, articles…" />
       <span class="search-count"></span>
     </global-search-input>
-    <button type="button" class="clear-search">← Back to categories</button>
+    <button type="button" class="clear-search" style="display:none">← Back to categories</button>
   </div>
-  <div class="global-search-results entry-grid"></div>
-  <div class="global-search-empty" style="display:none">
-    <p>No results found.</p>
-  </div>
-</global-search-view>
+</global-search-bar>
+
+<div class="global-search-results entry-grid" style="display:none"></div>
+<div class="global-search-empty" style="display:none">
+  <p>No results found.</p>
+</div>
 
 <div class="category-grid">
   {categories.map((cat) => (
@@ -132,11 +133,10 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 	class GlobalSearchInput extends HTMLElement {
 		connectedCallback() {
 			const input = this.querySelector<HTMLInputElement>('input[type="search"]')!;
-			const view = this.closest<HTMLElement>('global-search-view');
-			const resultsContainer = view?.querySelector<HTMLElement>('.global-search-results');
-			const emptyEl = view?.querySelector<HTMLElement>('.global-search-empty');
+			const resultsContainer = document.querySelector<HTMLElement>('.global-search-results');
+			const emptyEl = document.querySelector<HTMLElement>('.global-search-empty');
 			const countEl = this.querySelector<HTMLElement>('.search-count');
-			if (!view || !resultsContainer || !emptyEl || !countEl) return;
+			if (!resultsContainer || !emptyEl || !countEl) return;
 
 			let debounceTimer: ReturnType<typeof setTimeout>;
 
@@ -161,10 +161,11 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 
 				if (results.length === 0) {
 					emptyEl.style.display = '';
-					resultsContainer.innerHTML = '';
+					resultsContainer.style.display = 'none';
 					countEl.textContent = '0 results';
 				} else {
 					emptyEl.style.display = 'none';
+					resultsContainer.style.display = '';
 					countEl.textContent = `${results.length} result${results.length === 1 ? '' : 's'}`;
 				}
 			};
@@ -181,20 +182,26 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 	}
 
 	function showCategoryGrid(): void {
-		const view = document.querySelector<HTMLElement>('global-search-view');
+		const resultsContainer = document.querySelector<HTMLElement>('.global-search-results');
+		const emptyEl = document.querySelector<HTMLElement>('.global-search-empty');
 		const grid = document.querySelector<HTMLElement>('.category-grid');
-		if (view) view.style.display = 'none';
+		const backBtn = document.querySelector<HTMLButtonElement>('.clear-search');
+		if (resultsContainer) resultsContainer.style.display = 'none';
+		if (emptyEl) emptyEl.style.display = 'none';
 		if (grid) grid.style.display = '';
+		if (backBtn) backBtn.style.display = 'none';
 		const url = new URL(window.location.href);
 		url.searchParams.delete('q');
 		history.replaceState(null, '', url.toString());
 	}
 
 	function showSearchView(query: string): void {
-		const view = document.querySelector<HTMLElement>('global-search-view');
+		const resultsContainer = document.querySelector<HTMLElement>('.global-search-results');
 		const grid = document.querySelector<HTMLElement>('.category-grid');
-		if (view) view.style.display = '';
+		const backBtn = document.querySelector<HTMLButtonElement>('.clear-search');
+		if (resultsContainer) resultsContainer.style.display = '';
 		if (grid) grid.style.display = 'none';
+		if (backBtn) backBtn.style.display = '';
 
 		const inputComp = document.querySelector('global-search-input') as any;
 		if (inputComp?._input) {
@@ -205,11 +212,17 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 		}
 	}
 
-	class GlobalSearchView extends HTMLElement {
+	class GlobalSearchBar extends HTMLElement {
 		connectedCallback() {
 			const clearBtn = this.querySelector<HTMLButtonElement>('.clear-search');
 			if (clearBtn) {
-				clearBtn.addEventListener('click', showCategoryGrid);
+				clearBtn.addEventListener('click', () => {
+					const inputComp = document.querySelector('global-search-input') as any;
+					if (inputComp?._input) {
+						inputComp._input.value = '';
+					}
+					showCategoryGrid();
+				});
 			}
 
 			// Check URL for ?q= on load
@@ -222,7 +235,7 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 	}
 
 	customElements.define('global-search-input', GlobalSearchInput);
-	customElements.define('global-search-view', GlobalSearchView);
+	customElements.define('global-search-bar', GlobalSearchBar);
 
 	// Also handle browser back/forward navigation
 	window.addEventListener('popstate', () => {
