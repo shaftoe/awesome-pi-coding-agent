@@ -355,6 +355,52 @@
 	margin-bottom: 1rem;
 }
 
+/* ─── Global search bar (index page, always visible) ───────────────────────── */
+
+.global-search-bar {
+	margin-top: 1rem;
+	margin-bottom: 1.5rem;
+}
+
+.global-search-bar-inner {
+	display: flex;
+	align-items: flex-start;
+	gap: 1rem;
+}
+
+.global-search-bar-inner .search-box {
+	flex: 1;
+	margin-bottom: 0;
+}
+
+.global-search-bar-inner .clear-search {
+	flex-shrink: 0;
+	margin-top: 0.15rem;
+	padding: 0.65rem 1rem;
+	border: 1px solid var(--sl-color-gray-5);
+	border-radius: 0.5rem;
+	background: transparent;
+	color: var(--sl-color-gray-3);
+	cursor: pointer;
+	font-size: var(--sl-text-sm);
+	white-space: nowrap;
+	transition:
+		border-color 0.2s,
+		color 0.2s;
+}
+
+.global-search-bar-inner .clear-search:hover {
+	border-color: var(--sl-color-accent);
+	color: var(--sl-color-text-accent);
+}
+
+.global-search-empty {
+	text-align: center;
+	padding: 3rem 0;
+	color: var(--sl-color-gray-4);
+	font-size: var(--sl-text-lg);
+}
+
 /* ─── Responsive ────────────────────────────────────────────────────────────── */
 
 @media (max-width: 50rem) {

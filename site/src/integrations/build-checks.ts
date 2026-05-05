@@ -15,6 +15,7 @@ export function buildChecks(): AstroIntegration {
 				const errors: string[] = [];
 
 				// 1. Index page must exist and contain a non-zero resource count
+				// and the global search view
 				const indexPath = join(distDir, "index.html");
 				if (!existsSync(indexPath)) {
 					errors.push("index.html not found in build output");
@@ -36,6 +37,11 @@ export function buildChecks(): AstroIntegration {
 					// Must contain category cards
 					if (!indexHtml.includes("category-card")) {
 						errors.push("index.html: no category cards found");
+					}
+
+					// Must contain global search bar for shareable URLs
+					if (!indexHtml.includes("global-search-bar")) {
+						errors.push("index.html: global search bar not found");
 					}
 				}
 

@@ -90,7 +90,10 @@
 			container.innerHTML = '<div class="no-results">No results found.</div>';
 			return;
 		}
+		const escapedQuery = encodeURIComponent(query.trim());
+		const viewAllLink = `<a href="/?q=${escapedQuery}" class="view-all-results">View all ${results.length} results on page →</a>`;
 		container.innerHTML = results
+			.slice(0, 50)
 			.map((r) => {
 				const icon = CATEGORY_ICONS[r.c] || '📄';
 				const healthColors: Record<string, string> = {
@@ -115,7 +118,7 @@
 					</div>
 				</a>`;
 			})
-			.join('');
+			.join('') + viewAllLink;
 	}
 
 	function highlight(text: string, query: string): string {
@@ -443,6 +446,21 @@
 			color: var(--sl-color-text-accent);
 			background: transparent;
 			font-weight: 600;
+		}
+
+		.view-all-results {
+			display: block;
+			text-align: center;
+			padding: 0.75rem;
+			font-size: var(--sl-text-sm);
+			color: var(--sl-color-text-accent);
+			text-decoration: none;
+			border-top: 1px solid var(--sl-color-gray-5);
+			margin-top: 0.5rem;
+		}
+
+		.view-all-results:hover {
+			text-decoration: underline;
 		}
 
 		@media (min-width: 50rem) {
