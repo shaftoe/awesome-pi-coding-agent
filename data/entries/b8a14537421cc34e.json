@@ -1,0 +1,24 @@
+{
+  "id": "YT_dHT7-sm_wl4",
+  "name": "Setup Pi Agent with Nvidia’s FREE AI Models (Step-by-Step)",
+  "url": "https://youtube.com/watch?v=dHT7-sm_wl4",
+  "source": "youtube-search",
+  "description": "Want to run powerful AI agents for free? In this video, we're setting up Pi Agent using Nvidia's hosted API models. Nvidia offers ...",
+  "metadata": {
+    "title": "Setup Pi Agent with Nvidia’s FREE AI Models (Step-by-Step)",
+    "name": "Setup Pi Agent with Nvidia’s FREE AI Models (Step-by-Step)",
+    "description": "Want to run powerful AI agents for free? In this video, we're setting up Pi Agent using Nvidia's hosted API models. Nvidia offers ...",
+    "channel": "Tony Xhepa",
+    "published_at": "2026-05-04T11:24:59Z",
+    "thumbnail": "https://i.ytimg.com/vi/dHT7-sm_wl4/hqdefault.jpg",
+    "views": 204,
+    "likes": 0,
+    "comments": 1,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 45,
+    "level": "maintained"
+  },
+  "category": "video"
+}

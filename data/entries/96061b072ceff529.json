@@ -1,0 +1,21 @@
+{
+  "id": "BRAVE_pi.dev_pi-themes",
+  "name": "spences10/pi-themes",
+  "url": "https://pi.dev/packages/@spences10/pi-themes",
+  "source": "brave-web-search",
+  "description": "Theme pack for the Pi coding agent.",
+  "metadata": {
+    "title": "spences10/pi-themes",
+    "name": "spences10/pi-themes",
+    "description": "Theme pack for the Pi coding agent.",
+    "published_at": "2026-05-01T23:45:05",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/@spences10/pi-themes",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "theme"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "marcellocurto-pi-extensions",
+  "name": "marcellocurto-pi-extensions",
+  "url": "https://github.com/marcellocurto/pi-extensions",
+  "source": "github-search",
+  "description": "A small collection of personal pi coding-agent extensions.",
+  "metadata": {
+    "github_url": "https://github.com/marcellocurto/pi-extensions",
+    "repo_full_name": "marcellocurto/pi-extensions",
+    "description": "A small collection of personal pi coding-agent extensions.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "coding",
+      "coding-agent",
+      "llm",
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-04T11:30:14Z",
+    "pushed_at": "2026-05-04T11:30:18Z",
+    "updated_at": "2026-05-05T02:45:52Z",
+    "size": 2,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

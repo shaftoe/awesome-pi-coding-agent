@@ -1,0 +1,29 @@
+{
+  "id": "raulbethencourt-pi_config",
+  "name": "raulbethencourt-pi_config",
+  "url": "https://github.com/raulbethencourt/pi_config",
+  "source": "github-search",
+  "description": "My pi agent configuration",
+  "metadata": {
+    "github_url": "https://github.com/raulbethencourt/pi_config",
+    "repo_full_name": "raulbethencourt/pi_config",
+    "description": "My pi agent configuration",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-05T12:37:08Z",
+    "pushed_at": "2026-05-05T13:28:11Z",
+    "updated_at": "2026-05-05T13:30:23Z",
+    "size": 225,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}
