@@ -1,0 +1,24 @@
+{
+  "id": "YT_KTjKYlQV97I",
+  "name": "Day 5: pi agent - not codex or claude code",
+  "url": "https://youtube.com/watch?v=KTjKYlQV97I",
+  "source": "youtube-search",
+  "description": "pi agent - not codex or claude code.",
+  "metadata": {
+    "title": "Day 5: pi agent - not codex or claude code",
+    "name": "Day 5: pi agent - not codex or claude code",
+    "description": "pi agent - not codex or claude code.",
+    "channel": "databag",
+    "published_at": "2026-05-05T08:37:39Z",
+    "thumbnail": "https://i.ytimg.com/vi/KTjKYlQV97I/hqdefault.jpg",
+    "views": 30,
+    "likes": 3,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 39,
+    "level": "stale"
+  },
+  "category": "video"
+}

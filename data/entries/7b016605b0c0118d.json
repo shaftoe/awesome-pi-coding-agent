@@ -1,0 +1,41 @@
+{
+  "id": "gtwatts-pi-cmux",
+  "name": "gtwatts-pi-cmux",
+  "url": "https://github.com/gtwatts/pi-cmux",
+  "source": "github-search",
+  "description": "Pi CMUX extension family: local CMUX multi-agent orchestration, Pi session bridge, browser intelligence, and design workflows for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/gtwatts/pi-cmux",
+    "repo_full_name": "gtwatts/pi-cmux",
+    "description": "Pi CMUX extension family: local CMUX multi-agent orchestration, Pi session bridge, browser intelligence, and design workflows for Pi.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-orchestration",
+      "browser-automation",
+      "browser-intelligence",
+      "cmux",
+      "coding-agent",
+      "design-tools",
+      "local-first",
+      "multi-agent",
+      "pi",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-05T15:01:20Z",
+    "pushed_at": "2026-05-05T15:15:40Z",
+    "updated_at": "2026-05-05T15:18:05Z",
+    "size": 0,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

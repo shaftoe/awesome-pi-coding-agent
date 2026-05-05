@@ -1,0 +1,29 @@
+{
+  "id": "dcostap-pi-coding-agent-gui-office-wrapper",
+  "name": "dcostap-pi-coding-agent-gui-office-wrapper",
+  "url": "https://github.com/dcostap/pi-coding-agent-gui-office-wrapper",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/dcostap/pi-coding-agent-gui-office-wrapper",
+    "repo_full_name": "dcostap/pi-coding-agent-gui-office-wrapper",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-30T14:13:56Z",
+    "pushed_at": "2026-05-03T18:23:16Z",
+    "updated_at": "2026-05-04T14:48:41Z",
+    "size": 1370,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

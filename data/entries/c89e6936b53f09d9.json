@@ -1,0 +1,33 @@
+{
+  "id": "@curio-data/pi-intelli-search",
+  "name": "@curio-data/pi-intelli-search",
+  "url": "https://www.npmjs.com/package/@curio-data/pi-intelli-search",
+  "source": "npm-search",
+  "description": "Intelligent web research for Pi: search, extract, collate, and cache grounded web context in one tool call.",
+  "metadata": {
+    "github_url": "https://github.com/Curio-Data/pi-intelli-search",
+    "npm_name": "@curio-data/pi-intelli-search",
+    "description": "Intelligent web research for Pi: search, extract, collate, and cache grounded web context in one tool call.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "web-research",
+      "web-search",
+      "intelli-search"
+    ],
+    "version": "0.3.2",
+    "published_at": "2026-05-04T21:15:23.582Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

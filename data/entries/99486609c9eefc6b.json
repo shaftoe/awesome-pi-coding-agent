@@ -1,0 +1,24 @@
+{
+  "id": "YT_BQ_Es8k650I",
+  "name": "Pi.dev explained by its creators | AI Agents Under the Hood",
+  "url": "https://youtube.com/watch?v=BQ_Es8k650I",
+  "source": "youtube-search",
+  "description": "The Pi.Dev Community Meetup in Berlin: a technical, demo-heavy session for AI engineers, builders, and developers exploring ...",
+  "metadata": {
+    "title": "Pi.dev explained by its creators | AI Agents Under the Hood",
+    "name": "Pi.dev explained by its creators | AI Agents Under the Hood",
+    "description": "The Pi.Dev Community Meetup in Berlin: a technical, demo-heavy session for AI engineers, builders, and developers exploring ...",
+    "channel": "Merantix AI Campus",
+    "published_at": "2026-05-05T11:02:02Z",
+    "thumbnail": "https://i.ytimg.com/vi/BQ_Es8k650I/hqdefault.jpg",
+    "views": 27,
+    "likes": 1,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 39,
+    "level": "stale"
+  },
+  "category": "video"
+}

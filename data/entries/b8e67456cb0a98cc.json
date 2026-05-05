@@ -1,0 +1,29 @@
+{
+  "id": "dmoreq-pi-scope",
+  "name": "dmoreq-pi-scope",
+  "url": "https://github.com/dmoreq/pi-scope",
+  "source": "github-search",
+  "description": "AST-powered context, retrieval & code intelligence for the pi coding agent — injects compact AST skeletons, intelligent symbol-based file retrieval, hash-verified editing, and LSP navigation, with ~85-96% token savings.",
+  "metadata": {
+    "github_url": "https://github.com/dmoreq/pi-scope",
+    "repo_full_name": "dmoreq/pi-scope",
+    "description": "AST-powered context, retrieval & code intelligence for the pi coding agent — injects compact AST skeletons, intelligent symbol-based file retrieval, hash-verified editing, and LSP navigation, with ~85-96% token savings.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-03T02:21:23Z",
+    "pushed_at": "2026-05-05T04:35:37Z",
+    "updated_at": "2026-05-05T04:15:55Z",
+    "size": 18207,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

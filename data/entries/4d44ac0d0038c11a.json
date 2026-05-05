@@ -1,0 +1,29 @@
+{
+  "id": "leing2021-pi-mgrep",
+  "name": "leing2021-pi-mgrep",
+  "url": "https://github.com/leing2021/pi-mgrep",
+  "source": "github-search",
+  "description": "Unified search extension for Pi Coding Agent — ripgrep + mgrep + DuckDuckGo fallback",
+  "metadata": {
+    "github_url": "https://github.com/leing2021/pi-mgrep",
+    "repo_full_name": "leing2021/pi-mgrep",
+    "description": "Unified search extension for Pi Coding Agent — ripgrep + mgrep + DuckDuckGo fallback",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-05T05:55:05Z",
+    "pushed_at": "2026-05-05T10:23:30Z",
+    "updated_at": "2026-05-05T10:23:34Z",
+    "size": 36,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}
