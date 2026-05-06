@@ -1,0 +1,24 @@
+{
+  "id": "YT_N30XGyPrr6I",
+  "name": "Pi Agent – Crash Course | Minimal Coding Agent",
+  "url": "https://youtube.com/watch?v=N30XGyPrr6I",
+  "source": "youtube-search",
+  "description": "Pi Agent is a lightweight terminal harness that gives you a powerful coding assistant without the bloat. Unlike traditional agents ...",
+  "metadata": {
+    "title": "Pi Agent – Crash Course | Minimal Coding Agent",
+    "name": "Pi Agent – Crash Course | Minimal Coding Agent",
+    "description": "Pi Agent is a lightweight terminal harness that gives you a powerful coding assistant without the bloat. Unlike traditional agents ...",
+    "channel": "Alejandro AO",
+    "published_at": "2026-05-06T06:17:00Z",
+    "thumbnail": "https://i.ytimg.com/vi/N30XGyPrr6I/hqdefault.jpg",
+    "views": 1861,
+    "likes": 111,
+    "comments": 12,
+    "discovery_hint": "youtube:pi-package"
+  },
+  "health": {
+    "score": 60,
+    "level": "maintained"
+  },
+  "category": "video"
+}

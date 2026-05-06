@@ -1,0 +1,33 @@
+{
+  "id": "naranyala-pi-ext-companion-for-c-programming",
+  "name": "naranyala-pi-ext-companion-for-c-programming",
+  "url": "https://github.com/naranyala/pi-ext-companion-for-c-programming",
+  "source": "github-search",
+  "description": "The C-Programming Companion is a specialized extension for the pi coding agent designed to accelerate the development, debugging, and refactoring of C and C++ codebases. It provides a suite of professional-grade tools that integrate directly into the agent's workflow, enabling deep inspection of system headers, binary analysis, and more.",
+  "metadata": {
+    "github_url": "https://github.com/naranyala/pi-ext-companion-for-c-programming",
+    "repo_full_name": "naranyala/pi-ext-companion-for-c-programming",
+    "description": "The C-Programming Companion is a specialized extension for the pi coding agent designed to accelerate the development, debugging, and refactoring of C and C++ codebases. It provides a suite of professional-grade tools that integrate directly into the agent's workflow, enabling deep inspection of system headers, binary analysis, and more.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "c-programming",
+      "coding-agent",
+      "pi-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-01T02:22:33Z",
+    "pushed_at": "2026-05-05T23:30:33Z",
+    "updated_at": "2026-05-05T23:30:36Z",
+    "size": 46,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

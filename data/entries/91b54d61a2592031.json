@@ -1,0 +1,34 @@
+{
+  "id": "@artale/pi-kdot",
+  "name": "@artale/pi-kdot",
+  "url": "https://www.npmjs.com/package/@artale/pi-kdot",
+  "source": "npm-search",
+  "description": "K.Dot notification sounds. Be humble, stack money trees.",
+  "metadata": {
+    "github_url": "https://github.com/artale93/pi-kdot",
+    "npm_name": "@artale/pi-kdot",
+    "description": "K.Dot notification sounds. Be humble, stack money trees.",
+    "keywords": [
+      "pi-package",
+      "notification",
+      "sound",
+      "kendrick",
+      "kdot",
+      "hip-hop"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-05-06T10:45:10.576Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

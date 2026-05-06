@@ -1,0 +1,29 @@
+{
+  "id": "ocfmem-pi-extension-notion",
+  "name": "ocfmem-pi-extension-notion",
+  "url": "https://github.com/ocfmem/pi-extension-notion",
+  "source": "github-search",
+  "description": "My implementation of Notion extension for pi-agent.",
+  "metadata": {
+    "github_url": "https://github.com/ocfmem/pi-extension-notion",
+    "repo_full_name": "ocfmem/pi-extension-notion",
+    "description": "My implementation of Notion extension for pi-agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-05T21:46:32Z",
+    "pushed_at": "2026-05-05T22:09:27Z",
+    "updated_at": "2026-05-05T22:09:31Z",
+    "size": 23,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

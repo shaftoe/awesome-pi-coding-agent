@@ -1,0 +1,33 @@
+{
+  "id": "pi-mlx-models",
+  "name": "pi-mlx-models",
+  "url": "https://www.npmjs.com/package/pi-mlx-models",
+  "source": "npm-search",
+  "description": "Local MLX model launcher extension for Pi",
+  "metadata": {
+    "github_url": "https://github.com/vmarinogg/pi-mlx-models",
+    "npm_name": "pi-mlx-models",
+    "description": "Local MLX model launcher extension for Pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "mlx",
+      "llm",
+      "extension"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-05-06T12:40:53.713Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

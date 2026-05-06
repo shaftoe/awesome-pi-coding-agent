@@ -1,0 +1,21 @@
+{
+  "id": "BRAVE_atalupadhyay.wordpress.com_pi-the-minimal-coding-agent-that-wins-by",
+  "name": "Pi: The Minimal Coding Agent That Wins by Doing Less | atal upadhyay",
+  "url": "https://atalupadhyay.wordpress.com/2026/05/05/pi-the-minimal-coding-agent-that-wins-by-doing-less/",
+  "source": "brave-web-search",
+  "description": "If you've been using AI coding assistants lately, you've probably felt it: More features → more complexity → more things that can break Sub-agents, plan mode, MCP integrations… but you still just want to write code Context getting eaten silently, bugs piling up, behavior becoming ...",
+  "metadata": {
+    "title": "Pi: The Minimal Coding Agent That Wins by Doing Less | atal upadhyay",
+    "name": "Pi: The Minimal Coding Agent That Wins by Doing Less | atal upadhyay",
+    "description": "If you've been using AI coding assistants lately, you've probably felt it: More features → more complexity → more things that can break Sub-agents, plan mode, MCP integrations… but you still just want to write code Context getting eaten silently, bugs piling up, behavior becoming ...",
+    "published_at": "2026-05-05T05:41:03",
+    "source_site": "atal upadhyay",
+    "source_url": "https://atalupadhyay.wordpress.com/2026/05/05/pi-the-minimal-coding-agent-that-wins-by-doing-less/",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "article"
+}

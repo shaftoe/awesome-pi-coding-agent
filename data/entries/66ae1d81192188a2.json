@@ -1,0 +1,29 @@
+{
+  "id": "HyperHarness-pi-agent-minimal-ts",
+  "name": "HyperHarness-pi-agent-minimal-ts",
+  "url": "https://github.com/HyperHarness/pi-agent-minimal-ts",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/HyperHarness/pi-agent-minimal-ts",
+    "repo_full_name": "HyperHarness/pi-agent-minimal-ts",
+    "description": "",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-21T14:30:49Z",
+    "pushed_at": "2026-05-06T14:22:51Z",
+    "updated_at": "2026-05-06T09:08:56Z",
+    "size": 1866,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "misc"
+}
