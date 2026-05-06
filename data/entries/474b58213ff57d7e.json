@@ -1,0 +1,35 @@
+{
+  "id": "julian-af-bot-julian",
+  "name": "julian-af-bot-julian",
+  "url": "https://github.com/julian-af-bot/julian",
+  "source": "github-search",
+  "description": "Open-source Airflow coding agent — fork of pi-mono with Airflow-aware defaults",
+  "metadata": {
+    "github_url": "https://github.com/julian-af-bot/julian",
+    "repo_full_name": "julian-af-bot/julian",
+    "description": "Open-source Airflow coding agent — fork of pi-mono with Airflow-aware defaults",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai",
+      "airflow",
+      "cli",
+      "coding-agent",
+      "llm"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-06T12:32:54Z",
+    "pushed_at": "2026-05-06T14:00:00Z",
+    "updated_at": "2026-05-06T14:07:02Z",
+    "size": 40928,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

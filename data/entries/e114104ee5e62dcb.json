@@ -1,0 +1,40 @@
+{
+  "id": "SchmidleImpuls-double-loop",
+  "name": "SchmidleImpuls-double-loop",
+  "url": "https://github.com/SchmidleImpuls/double-loop",
+  "source": "github-search",
+  "description": "Consent-oriented agent workflows for human-accountable software development in Pi.",
+  "metadata": {
+    "github_url": "https://github.com/SchmidleImpuls/double-loop",
+    "repo_full_name": "SchmidleImpuls/double-loop",
+    "description": "Consent-oriented agent workflows for human-accountable software development in Pi.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-workflows",
+      "ai-agents",
+      "code-review",
+      "consent",
+      "developer-tools",
+      "double-loop-learning",
+      "human-in-the-loop",
+      "pi",
+      "pi-package",
+      "software-development"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-04T21:28:11Z",
+    "pushed_at": "2026-05-06T14:24:59Z",
+    "updated_at": "2026-05-06T14:02:03Z",
+    "size": 401,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

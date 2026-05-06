@@ -1,0 +1,21 @@
+{
+  "id": "BRAVE_pi.dev_pi-agent-dashboard",
+  "name": "blackbelt-technology/pi-agent-dashboard",
+  "url": "https://pi.dev/packages/@blackbelt-technology/pi-agent-dashboard",
+  "source": "brave-web-search",
+  "description": "Web dashboard for monitoring and interacting with pi agent sessions · Install @blackbelt-technology/pi-agent-dashboard from npm and Pi will load the resources declared by the package manifest",
+  "metadata": {
+    "title": "blackbelt-technology/pi-agent-dashboard",
+    "name": "blackbelt-technology/pi-agent-dashboard",
+    "description": "Web dashboard for monitoring and interacting with pi agent sessions · Install @blackbelt-technology/pi-agent-dashboard from npm and Pi will load the resources declared by the package manifest",
+    "published_at": "2026-05-01T05:25:04",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/@blackbelt-technology/pi-agent-dashboard",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "article"
+}

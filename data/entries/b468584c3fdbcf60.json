@@ -1,0 +1,29 @@
+{
+  "id": "kermans1988-eng-pi-statusline",
+  "name": "kermans1988-eng-pi-statusline",
+  "url": "https://github.com/kermans1988-eng/pi-statusline",
+  "source": "github-search",
+  "description": "Custom statusline extension for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/kermans1988-eng/pi-statusline",
+    "repo_full_name": "kermans1988-eng/pi-statusline",
+    "description": "Custom statusline extension for Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-06T12:42:13Z",
+    "pushed_at": "2026-05-06T12:55:31Z",
+    "updated_at": "2026-05-06T12:55:34Z",
+    "size": 52,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

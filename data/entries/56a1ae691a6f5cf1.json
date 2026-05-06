@@ -1,0 +1,32 @@
+{
+  "id": "naranyala-pi-ext-companion-for-system-ffi",
+  "name": "naranyala-pi-ext-companion-for-system-ffi",
+  "url": "https://github.com/naranyala/pi-ext-companion-for-system-ffi",
+  "source": "github-search",
+  "description": "The Pi-Mono FFI Companion is a high-performance extension for the pi ecosystem. It bridges the gap between high-level AI coding and low-level system programming by giving the agent \"environmental consciousness\"—the ability to detect, analyze, and optimize native interoperability layers across multiple languages.",
+  "metadata": {
+    "github_url": "https://github.com/naranyala/pi-ext-companion-for-system-ffi",
+    "repo_full_name": "naranyala/pi-ext-companion-for-system-ffi",
+    "description": "The Pi-Mono FFI Companion is a high-performance extension for the pi ecosystem. It bridges the gap between high-level AI coding and low-level system programming by giving the agent \"environmental consciousness\"—the ability to detect, analyze, and optimize native interoperability layers across multiple languages.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "pi-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-05T23:33:56Z",
+    "pushed_at": "2026-05-05T23:39:09Z",
+    "updated_at": "2026-05-05T23:39:13Z",
+    "size": 1892,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

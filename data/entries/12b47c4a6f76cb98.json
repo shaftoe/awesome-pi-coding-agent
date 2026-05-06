@@ -1,0 +1,34 @@
+{
+  "id": "@lhl/pi-vertex",
+  "name": "@lhl/pi-vertex",
+  "url": "https://www.npmjs.com/package/@lhl/pi-vertex",
+  "source": "npm-search",
+  "description": "Google Vertex AI provider for Pi coding agent - supports Gemini, Claude, and all MaaS models",
+  "metadata": {
+    "github_url": "https://github.com/lhl/pi-vertex",
+    "npm_name": "@lhl/pi-vertex",
+    "description": "Google Vertex AI provider for Pi coding agent - supports Gemini, Claude, and all MaaS models",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "vertex-ai",
+      "gemini",
+      "claude",
+      "maas"
+    ],
+    "version": "1.1.8",
+    "published_at": "2026-05-06T12:41:23.773Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

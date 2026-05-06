@@ -1,0 +1,29 @@
+{
+  "id": "Neonity2020-neonity-agent",
+  "name": "Neonity2020-neonity-agent",
+  "url": "https://github.com/Neonity2020/neonity-agent",
+  "source": "github-search",
+  "description": "A lightweight AI coding agent framework with multi-provider LLM support, inspired by pi-mono's architecture",
+  "metadata": {
+    "github_url": "https://github.com/Neonity2020/neonity-agent",
+    "repo_full_name": "Neonity2020/neonity-agent",
+    "description": "A lightweight AI coding agent framework with multi-provider LLM support, inspired by pi-mono's architecture",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-02T22:35:10Z",
+    "pushed_at": "2026-05-06T14:30:28Z",
+    "updated_at": "2026-05-06T14:20:01Z",
+    "size": 568,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

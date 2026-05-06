@@ -1,0 +1,21 @@
+{
+  "id": "BRAVE_pi.dev_pi-web-access",
+  "name": "Pi Coding Agent",
+  "url": "https://pi.dev/packages/pi-web-access",
+  "source": "brave-web-search",
+  "description": "Web search, URL fetching, GitHub repo cloning, PDF extraction, YouTube video understanding, and local video analysis for Pi coding agent · Install pi-web-access from npm and Pi will load the resources declared by the package manifest",
+  "metadata": {
+    "title": "Pi Coding Agent",
+    "name": "Pi Coding Agent",
+    "description": "Web search, URL fetching, GitHub repo cloning, PDF extraction, YouTube video understanding, and local video analysis for Pi coding agent · Install pi-web-access from npm and Pi will load the resources declared by the package manifest",
+    "published_at": "2026-05-02T12:50:03",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-web-access",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "article"
+}

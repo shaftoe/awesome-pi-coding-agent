@@ -1,0 +1,32 @@
+{
+  "id": "@mario-gc/pi-context7",
+  "name": "@mario-gc/pi-context7",
+  "url": "https://www.npmjs.com/package/@mario-gc/pi-context7",
+  "source": "npm-search",
+  "description": "Context7 integration for pi coding agent — fetch up-to-date library documentation and code examples",
+  "metadata": {
+    "github_url": "https://github.com/mario-gc/pi-context7",
+    "npm_name": "@mario-gc/pi-context7",
+    "description": "Context7 integration for pi coding agent — fetch up-to-date library documentation and code examples",
+    "keywords": [
+      "pi-package",
+      "context7",
+      "documentation",
+      "api-reference"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-05-05T21:15:27.716Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}
