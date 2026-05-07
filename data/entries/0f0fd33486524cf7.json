@@ -1,0 +1,29 @@
+{
+  "id": "simonwjackson-pi-web-search",
+  "name": "simonwjackson-pi-web-search",
+  "url": "https://github.com/simonwjackson/pi-web-search",
+  "source": "github-search",
+  "description": "Web search tool and skill for the Pi coding agent, backed by Brave Search and Serper.",
+  "metadata": {
+    "github_url": "https://github.com/simonwjackson/pi-web-search",
+    "repo_full_name": "simonwjackson/pi-web-search",
+    "description": "Web search tool and skill for the Pi coding agent, backed by Brave Search and Serper.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-07T05:04:08Z",
+    "pushed_at": "2026-05-07T05:04:10Z",
+    "updated_at": "2026-05-07T05:04:14Z",
+    "size": 10,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

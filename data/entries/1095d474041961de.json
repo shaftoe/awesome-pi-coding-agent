@@ -1,0 +1,32 @@
+{
+  "id": "pi-nyaa",
+  "name": "pi-nyaa",
+  "url": "https://www.npmjs.com/package/pi-nyaa",
+  "source": "npm-search",
+  "description": "Pi extension for querying public metadata from nyaa.si and sukebei.nyaa.si.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-nyaa",
+    "description": "Pi extension for querying public metadata from nyaa.si and sukebei.nyaa.si.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "nyaa",
+      "sukebei"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-05-05T17:19:02.269Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

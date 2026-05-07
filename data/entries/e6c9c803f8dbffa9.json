@@ -1,0 +1,39 @@
+{
+  "id": "pi-kapso-whatsapp",
+  "name": "pi-kapso-whatsapp",
+  "url": "https://www.npmjs.com/package/pi-kapso-whatsapp",
+  "source": "npm-search",
+  "description": "Pi extension for WhatsApp via Kapso AI — contacts access control with SQLite",
+  "metadata": {
+    "github_url": "https://github.com/serlismaldonado/pi-kapso-whatsapp",
+    "npm_name": "pi-kapso-whatsapp",
+    "description": "Pi extension for WhatsApp via Kapso AI — contacts access control with SQLite",
+    "keywords": [
+      "pi-extension",
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "whatsapp",
+      "kapso",
+      "sqlite",
+      "contacts",
+      "whatsapp-bot",
+      "chatbot",
+      "ai"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-05-07T07:55:28.601Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "lallenlowe-pi-agent-shell",
+  "name": "lallenlowe-pi-agent-shell",
+  "url": "https://github.com/lallenlowe/pi-agent-shell",
+  "source": "github-search",
+  "description": "High-performance interactive shell extension for pi — OS-level read-block detection, single turn() primitive, no polling",
+  "metadata": {
+    "github_url": "https://github.com/lallenlowe/pi-agent-shell",
+    "repo_full_name": "lallenlowe/pi-agent-shell",
+    "description": "High-performance interactive shell extension for pi — OS-level read-block detection, single turn() primitive, no polling",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-07T03:07:06Z",
+    "pushed_at": "2026-05-07T03:12:52Z",
+    "updated_at": "2026-05-07T03:12:56Z",
+    "size": 74,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

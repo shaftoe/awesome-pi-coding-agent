@@ -1,0 +1,29 @@
+{
+  "id": "crafter-station-jsonl-debug",
+  "name": "crafter-station-jsonl-debug",
+  "url": "https://github.com/crafter-station/jsonl-debug",
+  "source": "github-search",
+  "description": "Forensic visualization for Claude Code, Codex, and Pi agent sessions",
+  "metadata": {
+    "github_url": "https://github.com/crafter-station/jsonl-debug",
+    "repo_full_name": "crafter-station/jsonl-debug",
+    "description": "Forensic visualization for Claude Code, Codex, and Pi agent sessions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-07T06:46:04Z",
+    "pushed_at": "2026-05-07T07:07:09Z",
+    "updated_at": "2026-05-07T07:07:30Z",
+    "size": 82,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}
