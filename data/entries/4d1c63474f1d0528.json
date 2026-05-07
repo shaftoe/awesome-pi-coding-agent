@@ -1,0 +1,24 @@
+{
+  "id": "YT_qS-aMKbVJ00",
+  "name": "The Anatomy of a ClaudeCode — Rebuilding Pi",
+  "url": "https://youtube.com/watch?v=qS-aMKbVJ00",
+  "source": "youtube-search",
+  "description": "In this video I rebuild the Pi coding agent from scratch and break down the anatomy of a real AI coding agent — tools, agent loops, ...",
+  "metadata": {
+    "title": "The Anatomy of a ClaudeCode — Rebuilding Pi",
+    "name": "The Anatomy of a ClaudeCode — Rebuilding Pi",
+    "description": "In this video I rebuild the Pi coding agent from scratch and break down the anatomy of a real AI coding agent — tools, agent loops, ...",
+    "channel": "The Manual for The Western Male",
+    "published_at": "2026-05-07T02:18:04Z",
+    "thumbnail": "https://i.ytimg.com/vi/qS-aMKbVJ00/hqdefault.jpg",
+    "views": 24,
+    "likes": 2,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 39,
+    "level": "stale"
+  },
+  "category": "video"
+}

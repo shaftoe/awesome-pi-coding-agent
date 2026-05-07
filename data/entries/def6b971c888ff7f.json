@@ -1,0 +1,32 @@
+{
+  "id": "@bakaschwarz/pi-update-adesso",
+  "name": "@bakaschwarz/pi-update-adesso",
+  "url": "https://www.npmjs.com/package/@bakaschwarz/pi-update-adesso",
+  "source": "npm-search",
+  "description": "pi extension for syncing providers/models from the Adesso AI Hub and viewing usage spend",
+  "metadata": {
+    "github_url": "https://github.com/bakaschwarz/pi-update-adesso",
+    "npm_name": "@bakaschwarz/pi-update-adesso",
+    "description": "pi extension for syncing providers/models from the Adesso AI Hub and viewing usage spend",
+    "keywords": [
+      "pi-package",
+      "adesso",
+      "ai-hub",
+      "pi-extension"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-07T08:21:25.934Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

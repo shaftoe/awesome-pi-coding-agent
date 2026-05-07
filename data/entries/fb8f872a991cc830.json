@@ -1,0 +1,29 @@
+{
+  "id": "mcowger-pi-action",
+  "name": "mcowger-pi-action",
+  "url": "https://github.com/mcowger/pi-action",
+  "source": "github-search",
+  "description": "GitHub Action to invoke the PI coding agent on issues and PRs via comment triggers",
+  "metadata": {
+    "github_url": "https://github.com/mcowger/pi-action",
+    "repo_full_name": "mcowger/pi-action",
+    "description": "GitHub Action to invoke the PI coding agent on issues and PRs via comment triggers",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-19T03:01:38Z",
+    "pushed_at": "2026-05-07T02:27:47Z",
+    "updated_at": "2026-05-07T02:28:43Z",
+    "size": 49885,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 68,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

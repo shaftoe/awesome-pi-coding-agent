@@ -1,0 +1,29 @@
+{
+  "id": "hachej-boring-ui",
+  "name": "hachej-boring-ui",
+  "url": "https://github.com/hachej/boring-ui",
+  "source": "github-search",
+  "description": "@boring/agent v2 — shadcn ChatPanel + ai-elements primitives, pi-coding-agent harness, AI SDK v6 stream protocol, deterministic showcase + e2e attachments suite",
+  "metadata": {
+    "github_url": "https://github.com/hachej/boring-ui",
+    "repo_full_name": "hachej/boring-ui",
+    "description": "@boring/agent v2 — shadcn ChatPanel + ai-elements primitives, pi-coding-agent harness, AI SDK v6 stream protocol, deterministic showcase + e2e attachments suite",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-24T09:41:38Z",
+    "pushed_at": "2026-05-07T08:27:01Z",
+    "updated_at": "2026-05-07T08:26:50Z",
+    "size": 5104,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 66,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

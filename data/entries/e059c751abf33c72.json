@@ -1,0 +1,24 @@
+{
+  "id": "YT_dGCFj-IcuI0",
+  "name": "Pi Coding Agent vs Claude Code, Codex & OpenCode",
+  "url": "https://youtube.com/watch?v=dGCFj-IcuI0",
+  "source": "youtube-search",
+  "description": "Pi Coding Agent ships with 4 tools and under 1000 tokens. Claude Code ships with everything. One of them might be wasting ...",
+  "metadata": {
+    "title": "Pi Coding Agent vs Claude Code, Codex & OpenCode",
+    "name": "Pi Coding Agent vs Claude Code, Codex & OpenCode",
+    "description": "Pi Coding Agent ships with 4 tools and under 1000 tokens. Claude Code ships with everything. One of them might be wasting ...",
+    "channel": "Panda Making Money",
+    "published_at": "2026-05-07T03:35:09Z",
+    "thumbnail": "https://i.ytimg.com/vi/dGCFj-IcuI0/hqdefault.jpg",
+    "views": 148,
+    "likes": 10,
+    "comments": 1,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "video"
+}
