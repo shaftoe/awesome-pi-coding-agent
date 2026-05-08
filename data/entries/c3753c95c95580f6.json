@@ -1,0 +1,29 @@
+{
+  "id": "marcfargas-permission-gate",
+  "name": "marcfargas-permission-gate",
+  "url": "https://github.com/marcfargas/permission-gate",
+  "source": "github-search",
+  "description": "Tool permission enforcement for pi agents — gates tool calls based on safety classifications",
+  "metadata": {
+    "github_url": "https://github.com/marcfargas/permission-gate",
+    "repo_full_name": "marcfargas/permission-gate",
+    "description": "Tool permission enforcement for pi agents — gates tool calls based on safety classifications",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-20T21:41:37Z",
+    "pushed_at": "2026-02-20T21:42:31Z",
+    "updated_at": "2026-05-08T00:06:12Z",
+    "size": 45,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 48,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "BRAVE_reddit.com_whatyouguyshavebeenusingforwebsearchfetc",
+  "name": "r/PiCodingAgent on Reddit: What you guys have been using for web search/fetch on Pi?",
+  "url": "https://www.reddit.com/r/PiCodingAgent/comments/1t2yeax/what_you_guys_have_been_using_for_web_searchfetch/",
+  "source": "brave-web-search",
+  "description": "14 votes, 30 comments. Hi! I'm new on Pi agent world and I'm missing some good package or tool to make web search properly. What are you guys using…",
+  "metadata": {
+    "title": "r/PiCodingAgent on Reddit: What you guys have been using for web search/fetch on Pi?",
+    "name": "r/PiCodingAgent on Reddit: What you guys have been using for web search/fetch on Pi?",
+    "description": "14 votes, 30 comments. Hi! I'm new on Pi agent world and I'm missing some good package or tool to make web search properly. What are you guys using…",
+    "published_at": "2026-05-04T02:35:42",
+    "source_site": "Reddit",
+    "source_url": "https://www.reddit.com/r/PiCodingAgent/comments/1t2yeax/what_you_guys_have_been_using_for_web_searchfetch/",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "article"
+}

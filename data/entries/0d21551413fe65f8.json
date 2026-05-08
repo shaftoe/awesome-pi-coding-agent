@@ -1,0 +1,29 @@
+{
+  "id": "vinicius741-gemini-cli-bridge",
+  "name": "vinicius741-gemini-cli-bridge",
+  "url": "https://github.com/vinicius741/gemini-cli-bridge",
+  "source": "github-search",
+  "description": "CLI tool integrating the Gemini CLI SDK for search and photo analysis, designed for Pi agent and open-code ecosystems",
+  "metadata": {
+    "github_url": "https://github.com/vinicius741/gemini-cli-bridge",
+    "repo_full_name": "vinicius741/gemini-cli-bridge",
+    "description": "CLI tool integrating the Gemini CLI SDK for search and photo analysis, designed for Pi agent and open-code ecosystems",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-07T10:44:02Z",
+    "pushed_at": "2026-05-07T12:41:34Z",
+    "updated_at": "2026-05-07T12:41:38Z",
+    "size": 18,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

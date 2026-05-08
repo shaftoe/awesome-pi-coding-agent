@@ -1,0 +1,38 @@
+{
+  "id": "trifecta-footer",
+  "name": "trifecta-footer",
+  "url": "https://www.npmjs.com/package/trifecta-footer",
+  "source": "npm-search",
+  "description": "Never accidentally run Opus on a typo. Pi footer for model, thinking, and context.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "trifecta-footer",
+    "description": "Never accidentally run Opus on a typo. Pi footer for model, thinking, and context.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "footer",
+      "statusline",
+      "trifecta",
+      "model",
+      "thinking",
+      "context",
+      "context-window"
+    ],
+    "version": "0.2.2",
+    "published_at": "2026-05-08T06:26:45.143Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}
