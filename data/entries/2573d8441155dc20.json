@@ -1,0 +1,29 @@
+{
+  "id": "alivault-pico",
+  "name": "alivault-pico",
+  "url": "https://github.com/alivault/pico",
+  "source": "github-search",
+  "description": "Pico is a local, keyboard-friendly browser workspace for Pi coding-agent sessions.",
+  "metadata": {
+    "github_url": "https://github.com/alivault/pico",
+    "repo_full_name": "alivault/pico",
+    "description": "Pico is a local, keyboard-friendly browser workspace for Pi coding-agent sessions.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-14T06:16:13Z",
+    "pushed_at": "2026-05-08T05:31:07Z",
+    "updated_at": "2026-05-08T05:31:11Z",
+    "size": 3942,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

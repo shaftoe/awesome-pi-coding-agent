@@ -1,0 +1,29 @@
+{
+  "id": "cocolinfff-coli",
+  "name": "cocolinfff-coli",
+  "url": "https://github.com/cocolinfff/coli",
+  "source": "github-search",
+  "description": "Supervisor agent for pi",
+  "metadata": {
+    "github_url": "https://github.com/cocolinfff/coli",
+    "repo_full_name": "cocolinfff/coli",
+    "description": "Supervisor agent for pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-08T05:52:56Z",
+    "pushed_at": "2026-05-08T06:08:34Z",
+    "updated_at": "2026-05-08T06:08:19Z",
+    "size": 36,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

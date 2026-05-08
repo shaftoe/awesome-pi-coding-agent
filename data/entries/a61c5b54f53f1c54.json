@@ -1,0 +1,29 @@
+{
+  "id": "pwnholic-pi-pwnholic",
+  "name": "pwnholic-pi-pwnholic",
+  "url": "https://github.com/pwnholic/pi-pwnholic",
+  "source": "github-search",
+  "description": "Pi coding agent extension — FastEdit, TLDR, Bloks, Webclaw, Zero. AST code editing, code analysis, library context cards, web scraping, and web search.",
+  "metadata": {
+    "github_url": "https://github.com/pwnholic/pi-pwnholic",
+    "repo_full_name": "pwnholic/pi-pwnholic",
+    "description": "Pi coding agent extension — FastEdit, TLDR, Bloks, Webclaw, Zero. AST code editing, code analysis, library context cards, web scraping, and web search.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-08T06:54:43Z",
+    "pushed_at": "2026-05-08T06:59:17Z",
+    "updated_at": "2026-05-08T07:03:27Z",
+    "size": 0,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}
