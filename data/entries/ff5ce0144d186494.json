@@ -1,0 +1,38 @@
+{
+  "id": "monotykamary-pi-double-esc",
+  "name": "monotykamary-pi-double-esc",
+  "url": "https://github.com/monotykamary/pi-double-esc",
+  "source": "github-search",
+  "description": "Prevent accidental Escape from aborting the LLM — requires double-press to interrupt while streaming",
+  "metadata": {
+    "github_url": "https://github.com/monotykamary/pi-double-esc",
+    "repo_full_name": "monotykamary/pi-double-esc",
+    "description": "Prevent accidental Escape from aborting the LLM — requires double-press to interrupt while streaming",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "debounce",
+      "double-escape",
+      "escape",
+      "extension",
+      "interrupt",
+      "pi",
+      "pi-coding-agent",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-07T13:21:03Z",
+    "pushed_at": "2026-05-07T14:33:01Z",
+    "updated_at": "2026-05-08T03:41:45Z",
+    "size": 82,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

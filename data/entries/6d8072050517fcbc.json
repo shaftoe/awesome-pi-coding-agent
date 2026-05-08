@@ -1,0 +1,29 @@
+{
+  "id": "kexar007-pi-ssh-link",
+  "name": "kexar007-pi-ssh-link",
+  "url": "https://github.com/kexar007/pi-ssh-link",
+  "source": "github-search",
+  "description": "Persistent SSH bridge for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/kexar007/pi-ssh-link",
+    "repo_full_name": "kexar007/pi-ssh-link",
+    "description": "Persistent SSH bridge for Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-06T19:51:51Z",
+    "pushed_at": "2026-05-07T19:03:12Z",
+    "updated_at": "2026-05-07T19:04:48Z",
+    "size": 21,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

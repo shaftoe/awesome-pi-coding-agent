@@ -1,0 +1,29 @@
+{
+  "id": "ReqallSystem-pi-plugin",
+  "name": "ReqallSystem-pi-plugin",
+  "url": "https://github.com/ReqallSystem/pi-plugin",
+  "source": "github-search",
+  "description": "Reqall plugin for the pi.dev coding agent",
+  "metadata": {
+    "github_url": "https://github.com/ReqallSystem/pi-plugin",
+    "repo_full_name": "ReqallSystem/pi-plugin",
+    "description": "Reqall plugin for the pi.dev coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-05T21:55:24Z",
+    "pushed_at": "2026-05-07T16:32:42Z",
+    "updated_at": "2026-05-07T16:36:02Z",
+    "size": 47,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

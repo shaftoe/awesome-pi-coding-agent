@@ -1,0 +1,24 @@
+{
+  "id": "YT_g94lMuhGlEY",
+  "name": "PI Agent + Gemma 4 = Best Laptop AI Coding Setup!",
+  "url": "https://youtube.com/watch?v=g94lMuhGlEY",
+  "source": "youtube-search",
+  "description": "In this video shows how to setup PI - a lightweight, a tiny open source ai coding agent, to run completely locally using Google's ...",
+  "metadata": {
+    "title": "PI Agent + Gemma 4 = Best Laptop AI Coding Setup!",
+    "name": "PI Agent + Gemma 4 = Best Laptop AI Coding Setup!",
+    "description": "In this video shows how to setup PI - a lightweight, a tiny open source ai coding agent, to run completely locally using Google's ...",
+    "channel": "NetworkCoder",
+    "published_at": "2026-05-07T09:56:17Z",
+    "thumbnail": "https://i.ytimg.com/vi/g94lMuhGlEY/hqdefault.jpg",
+    "views": 1347,
+    "likes": 56,
+    "comments": 15,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 59,
+    "level": "maintained"
+  },
+  "category": "video"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "x0retnop-pi-extensions",
+  "name": "x0retnop-pi-extensions",
+  "url": "https://github.com/x0retnop/pi-extensions",
+  "source": "github-search",
+  "description": "Collection of useful extensions for Pi",
+  "metadata": {
+    "github_url": "https://github.com/x0retnop/pi-extensions",
+    "repo_full_name": "x0retnop/pi-extensions",
+    "description": "Collection of useful extensions for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "coding-agent",
+      "extension",
+      "pi",
+      "pi-ai",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-07T10:37:13Z",
+    "pushed_at": "2026-05-07T17:12:46Z",
+    "updated_at": "2026-05-07T17:16:18Z",
+    "size": 64,
+    "license": "Unlicense",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

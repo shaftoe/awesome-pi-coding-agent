@@ -1,0 +1,32 @@
+{
+  "id": "@vtstech/pi-react-fallback",
+  "name": "@vtstech/pi-react-fallback",
+  "url": "https://www.npmjs.com/package/@vtstech/pi-react-fallback",
+  "source": "npm-search",
+  "description": "ReAct fallback extension for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/VTSTech/pi-coding-agent",
+    "npm_name": "@vtstech/pi-react-fallback",
+    "description": "ReAct fallback extension for Pi Coding Agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extensions"
+    ],
+    "version": "1.2.5",
+    "published_at": "2026-05-07T17:49:52.124Z",
+    "npm_downloads_monthly": 2510,
+    "npm_downloads_weekly": 236,
+    "npm_score_final": 30.62966,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "extension"
+}

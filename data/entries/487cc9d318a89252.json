@@ -1,0 +1,33 @@
+{
+  "id": "@firstpick/pi-extension-plan-executor",
+  "name": "@firstpick/pi-extension-plan-executor",
+  "url": "https://www.npmjs.com/package/@firstpick/pi-extension-plan-executor",
+  "source": "npm-search",
+  "description": "Autonomous PLAN.md execution loop for Pi that continues until all checklist items are complete.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@firstpick/pi-extension-plan-executor",
+    "description": "Autonomous PLAN.md execution loop for Pi that continues until all checklist items are complete.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "plan"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-05-07T21:21:55.428Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}
