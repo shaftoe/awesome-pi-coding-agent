@@ -1,0 +1,29 @@
+{
+  "id": "fgladisch-pi-skills",
+  "name": "fgladisch-pi-skills",
+  "url": "https://github.com/fgladisch/pi-skills",
+  "source": "github-search",
+  "description": "Personal skills library for the pi coding agent, mostly adapted from Superpowers",
+  "metadata": {
+    "github_url": "https://github.com/fgladisch/pi-skills",
+    "repo_full_name": "fgladisch/pi-skills",
+    "description": "Personal skills library for the pi coding agent, mostly adapted from Superpowers",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T13:33:30Z",
+    "pushed_at": "2026-05-08T23:23:19Z",
+    "updated_at": "2026-05-08T23:23:23Z",
+    "size": 188,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

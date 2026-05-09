@@ -1,0 +1,29 @@
+{
+  "id": "pedrozadotdev-pi-gemini-cli",
+  "name": "pedrozadotdev-pi-gemini-cli",
+  "url": "https://github.com/pedrozadotdev/pi-gemini-cli",
+  "source": "github-search",
+  "description": "Gemini CLI integration for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/pedrozadotdev/pi-gemini-cli",
+    "repo_full_name": "pedrozadotdev/pi-gemini-cli",
+    "description": "Gemini CLI integration for Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-08T17:49:32Z",
+    "pushed_at": "2026-05-08T19:29:50Z",
+    "updated_at": "2026-05-08T19:29:53Z",
+    "size": 14,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}
