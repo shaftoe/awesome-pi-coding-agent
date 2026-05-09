@@ -1,0 +1,37 @@
+{
+  "id": "@parallel-web/pi-extension",
+  "name": "@parallel-web/pi-extension",
+  "url": "https://www.npmjs.com/package/@parallel-web/pi-extension",
+  "source": "npm-search",
+  "description": "Add web search and web fetch to your pi agent",
+  "metadata": {
+    "github_url": "https://github.com/parallel-web/parallel-npm-packages",
+    "npm_name": "@parallel-web/pi-extension",
+    "description": "Add web search and web fetch to your pi agent",
+    "keywords": [
+      "pi-package",
+      "pi.dev",
+      "pi agent",
+      "extension",
+      "parallel",
+      "web",
+      "search",
+      "fetch",
+      "ai"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-05-08T23:35:42.044Z",
+    "npm_downloads_monthly": 199,
+    "npm_downloads_weekly": 199,
+    "npm_score_final": 19.60466,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

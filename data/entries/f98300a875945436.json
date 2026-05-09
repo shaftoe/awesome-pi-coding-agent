@@ -1,0 +1,45 @@
+{
+  "id": "pi-yaml-hooks",
+  "name": "pi-yaml-hooks",
+  "url": "https://www.npmjs.com/package/pi-yaml-hooks",
+  "source": "npm-search",
+  "description": "YAML hook automation for the PI coding agent: tool guards, session hooks, prompts, notifications, and bash actions.",
+  "metadata": {
+    "github_url": "https://github.com/KristjanPikhof/pi-yaml-hooks",
+    "npm_name": "pi-yaml-hooks",
+    "description": "YAML hook automation for the PI coding agent: tool guards, session hooks, prompts, notifications, and bash actions.",
+    "keywords": [
+      "hooks",
+      "yaml",
+      "hook",
+      "automation",
+      "ai",
+      "pi",
+      "developer-tools",
+      "agents",
+      "agentic-ai",
+      "coding-agent",
+      "agent-hooks",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "pi-extensions",
+      "pi-hooks",
+      "pi-yaml-hooks"
+    ],
+    "version": "2026.5.8",
+    "published_at": "2026-05-08T13:19:12.907Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

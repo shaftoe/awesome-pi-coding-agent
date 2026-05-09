@@ -1,0 +1,29 @@
+{
+  "id": "evatths-loadouts",
+  "name": "evatths-loadouts",
+  "url": "https://github.com/evatths/loadouts",
+  "source": "github-search",
+  "description": "Composable configuration bundles for AI coding agents (Claude Code, Cursor, OpenCode, Codex, Pi)",
+  "metadata": {
+    "github_url": "https://github.com/evatths/loadouts",
+    "repo_full_name": "evatths/loadouts",
+    "description": "Composable configuration bundles for AI coding agents (Claude Code, Cursor, OpenCode, Codex, Pi)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-07T01:07:08Z",
+    "pushed_at": "2026-05-09T02:16:41Z",
+    "updated_at": "2026-05-09T02:16:45Z",
+    "size": 267,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

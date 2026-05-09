@@ -1,0 +1,29 @@
+{
+  "id": "Entelligentsia-forge-cli",
+  "name": "Entelligentsia-forge-cli",
+  "url": "https://github.com/Entelligentsia/forge-cli",
+  "source": "github-search",
+  "description": "Forge CLI — Forge SDLC ported onto pi-coding-agent (TypeScript pi extension)",
+  "metadata": {
+    "github_url": "https://github.com/Entelligentsia/forge-cli",
+    "repo_full_name": "Entelligentsia/forge-cli",
+    "description": "Forge CLI — Forge SDLC ported onto pi-coding-agent (TypeScript pi extension)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-08T08:37:50Z",
+    "pushed_at": "2026-05-09T07:06:15Z",
+    "updated_at": "2026-05-09T06:25:04Z",
+    "size": 405,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}
