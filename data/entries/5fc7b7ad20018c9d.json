@@ -1,0 +1,29 @@
+{
+  "id": "jwayong-pi-azure-devops",
+  "name": "jwayong-pi-azure-devops",
+  "url": "https://github.com/jwayong/pi-azure-devops",
+  "source": "github-search",
+  "description": "Azure DevOps integration for Pi coding agent — work items, pipelines, repos, and more",
+  "metadata": {
+    "github_url": "https://github.com/jwayong/pi-azure-devops",
+    "repo_full_name": "jwayong/pi-azure-devops",
+    "description": "Azure DevOps integration for Pi coding agent — work items, pipelines, repos, and more",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 9,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-09T04:21:25Z",
+    "pushed_at": "2026-05-09T05:19:03Z",
+    "updated_at": "2026-05-09T05:13:08Z",
+    "size": 80,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

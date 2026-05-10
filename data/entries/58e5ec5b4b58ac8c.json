@@ -1,0 +1,29 @@
+{
+  "id": "iamfozzy-coppice",
+  "name": "iamfozzy-coppice",
+  "url": "https://github.com/iamfozzy/coppice",
+  "source": "github-search",
+  "description": "A desktop app for managing Git worktrees, AI agents, and development workflows in a unified interface. Supports Claude Code and PI Agent.",
+  "metadata": {
+    "github_url": "https://github.com/iamfozzy/coppice",
+    "repo_full_name": "iamfozzy/coppice",
+    "description": "A desktop app for managing Git worktrees, AI agents, and development workflows in a unified interface.  Supports Claude Code and PI Agent.",
+    "stars": 3,
+    "forks": 2,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-09T20:11:39Z",
+    "pushed_at": "2026-05-09T07:49:45Z",
+    "updated_at": "2026-05-09T07:27:24Z",
+    "size": 3044,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

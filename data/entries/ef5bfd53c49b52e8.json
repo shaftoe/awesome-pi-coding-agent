@@ -1,0 +1,29 @@
+{
+  "id": "DarkoKuzmanovic-pi-wafer",
+  "name": "DarkoKuzmanovic-pi-wafer",
+  "url": "https://github.com/DarkoKuzmanovic/pi-wafer",
+  "source": "github-search",
+  "description": "Wafer Pass provider for Pi coding agent — use Wafer-hosted models (DeepSeek, GLM, Qwen, MiniMax) directly from Pi",
+  "metadata": {
+    "github_url": "https://github.com/DarkoKuzmanovic/pi-wafer",
+    "repo_full_name": "DarkoKuzmanovic/pi-wafer",
+    "description": "Wafer Pass provider for Pi coding agent — use Wafer-hosted models (DeepSeek, GLM, Qwen, MiniMax) directly from Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-09T05:57:03Z",
+    "pushed_at": "2026-05-09T06:00:55Z",
+    "updated_at": "2026-05-09T06:00:58Z",
+    "size": 4,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

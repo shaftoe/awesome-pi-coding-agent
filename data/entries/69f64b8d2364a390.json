@@ -1,0 +1,29 @@
+{
+  "id": "ralphschuler-pi-agent-setup",
+  "name": "ralphschuler-pi-agent-setup",
+  "url": "https://github.com/ralphschuler/pi-agent-setup",
+  "source": "github-search",
+  "description": "Custom pi agent setup bootstrap with extensions, skills, prompts, themes, and install scripts",
+  "metadata": {
+    "github_url": "https://github.com/ralphschuler/pi-agent-setup",
+    "repo_full_name": "ralphschuler/pi-agent-setup",
+    "description": "Custom pi agent setup bootstrap with extensions, skills, prompts, themes, and install scripts",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 6,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-04T14:18:57Z",
+    "pushed_at": "2026-05-08T22:23:47Z",
+    "updated_at": "2026-05-08T22:23:48Z",
+    "size": 600,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

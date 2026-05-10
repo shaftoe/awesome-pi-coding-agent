@@ -1,20 +1,6 @@
 version: 2
 updates:
-  - package-ecosystem: "bun"
+  - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "weekly"
-    open-pull-requests-limit: 10
-    groups:
-      production-dependencies:
-        patterns:
-          - "@biomejs/*"
-      development-dependencies:
-        patterns:
-          - "bun-types"
-          - "typescript"
-      semantic-release:
-        patterns:
-          - "semantic-release"
-          - "@semantic-release/*"
-          - "@alexanderfortin/semantic-release-keep-a-changelog"

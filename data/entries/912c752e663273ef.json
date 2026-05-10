@@ -1,0 +1,29 @@
+{
+  "id": "aliou-pi-poolside",
+  "name": "aliou-pi-poolside",
+  "url": "https://github.com/aliou/pi-poolside",
+  "source": "github-search",
+  "description": "Pi extension package for the Poolside inference API -- archived, for reproducibility only",
+  "metadata": {
+    "github_url": "https://github.com/aliou/pi-poolside",
+    "repo_full_name": "aliou/pi-poolside",
+    "description": "Pi extension package for the Poolside inference API -- archived, for reproducibility only",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": true,
+    "created_at": "2026-05-08T08:34:37Z",
+    "pushed_at": "2026-05-08T12:37:59Z",
+    "updated_at": "2026-05-08T12:38:03Z",
+    "size": 56,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 0,
+    "level": "dead"
+  },
+  "category": "extension"
+}

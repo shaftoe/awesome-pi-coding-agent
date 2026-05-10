@@ -1,0 +1,39 @@
+{
+  "id": "jpenilla-BubbleBuddy",
+  "name": "jpenilla-BubbleBuddy",
+  "url": "https://github.com/jpenilla/BubbleBuddy",
+  "source": "github-search",
+  "description": "BubbleBuddy is a friendly Discord AI companion powered by Pi, Effect, and discord.js",
+  "metadata": {
+    "github_url": "https://github.com/jpenilla/BubbleBuddy",
+    "repo_full_name": "jpenilla/BubbleBuddy",
+    "description": "BubbleBuddy is a friendly Discord AI companion powered by Pi, Effect, and discord.js",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "discord",
+      "discord-bot",
+      "discord-js",
+      "effect",
+      "effect-ts",
+      "gondolin",
+      "pi",
+      "pi-coding-agent",
+      "pi-sdk"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-24T05:07:37Z",
+    "pushed_at": "2026-05-09T05:57:45Z",
+    "updated_at": "2026-05-09T06:01:27Z",
+    "size": 3089,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "misc"
+}
