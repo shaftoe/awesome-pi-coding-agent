@@ -101,8 +101,8 @@ jobs:
             data/
             README.md
 
-  # ── Job 3: Create PR with validated changes ─────────────────────────────────
-  create-pr:
+  # ── Job 3: Create PR with validated changes and merge it ──────────────────
+  create-and-merge-pr:
     needs: [run-pipeline, validate-entries]
     if: needs.run-pipeline.outputs.has_changes == 'true'
     runs-on: ubuntu-latest
