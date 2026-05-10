@@ -13,7 +13,7 @@ import { buildIndices, checkDuplicate } from "../core/dedup.ts";
 import { cleanText } from "../core/html.ts";
 import { writeMeta } from "../core/meta.ts";
 import { getEntryRepo, saveEntry } from "../core/store.ts";
-import { type Entry, HealthLevel } from "../core/types.ts";
+import { type CategorizedEntry, type Entry, HealthLevel } from "../core/types.ts";
 import { loadDiscoveryLines } from "../discover/writer.ts";
 import { classifyEntry } from "../enrich/classify.ts";
 import { computeHealth } from "../enrich/health.ts";
@@ -72,6 +72,7 @@ export async function cmdProcess(): Promise<void> {
 
 	let added = 0;
 	let replaced = 0;
+	let refreshed = 0;
 	let duplicates = 0;
 
 	for (const line of sorted) {
@@ -89,6 +90,48 @@ export async function cmdProcess(): Promise<void> {
 				indices.byUrl.delete(dup.existingEntry.url);
 				// Fall through to save the new entry below
 				replaced++;
+			} else if (dup.existingEntry) {
+				// Same-source (or same-priority) duplicate: refresh metadata
+				// from the fresh candidate into the existing entry.
+				const freshName =
+					(discovery.metadata?.["title"] as string) ||
+					(discovery.metadata?.["name"] as string) ||
+					dup.existingEntry.name;
+				const freshDesc =
+					(discovery.metadata?.["description"] as string) || dup.existingEntry.description;
+
+				const updated: CategorizedEntry = {
+					...dup.existingEntry,
+					name: cleanText(freshName),
+					description: cleanText(freshDesc),
+					metadata: {
+						...(discovery.metadata ?? {}),
+						discovery_hint:
+							discovery.hint ??
+							(dup.existingEntry.metadata?.["discovery_hint"] as string | null) ??
+							null,
+					},
+					health: { score: 0, level: HealthLevel.Stale }, // overwritten below
+				};
+
+				const dims = getHealthScorer(updated.source)(updated);
+				updated.health = computeHealth(updated, dims);
+
+				const classified = classifyEntry(updated);
+				saveEntry(classified);
+
+				// Update indices with refreshed entry
+				indices.byUrl.set(updated.url, classified);
+				const meta = classified.metadata as Record<string, unknown>;
+				if (typeof meta["github_url"] === "string") {
+					indices.byGitHubUrl.set(meta["github_url"], classified);
+				}
+
+				refreshed++;
+				log(
+					`  🔄 ${classified.category}/${classified.id} (${discovery.source}) — metadata refreshed`,
+				);
+				continue;
 			} else {
 				duplicates++;
 				continue;
@@ -133,7 +176,7 @@ export async function cmdProcess(): Promise<void> {
 	}
 
 	log(
-		`\nAdded ${added} new entries, ${replaced} replaced (npm > github), ${duplicates} duplicates skipped`,
+		`\nAdded ${added} new entries, ${replaced} replaced (npm > github), ${refreshed} refreshed, ${duplicates} duplicates skipped`,
 	);
 
 	// Record when the datastore was last updated
