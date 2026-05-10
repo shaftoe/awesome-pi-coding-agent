@@ -1,0 +1,29 @@
+{
+  "id": "chronicblondiee-pi-agent-config",
+  "name": "chronicblondiee-pi-agent-config",
+  "url": "https://github.com/chronicblondiee/pi-agent-config",
+  "source": "github-search",
+  "description": "agent config for pi.dev agent harness",
+  "metadata": {
+    "github_url": "https://github.com/chronicblondiee/pi-agent-config",
+    "repo_full_name": "chronicblondiee/pi-agent-config",
+    "description": "agent config for pi.dev agent harness",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-09T20:26:19Z",
+    "pushed_at": "2026-05-09T20:33:27Z",
+    "updated_at": "2026-05-09T20:35:16Z",
+    "size": 16,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

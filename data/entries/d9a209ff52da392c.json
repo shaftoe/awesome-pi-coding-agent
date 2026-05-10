@@ -1,0 +1,48 @@
+{
+  "id": "oratis-LISA",
+  "name": "oratis-LISA",
+  "url": "https://github.com/oratis/LISA",
+  "source": "github-search",
+  "description": "An AI agent with a real self — soul she wrote, desires that drive her, a heartbeat for autonomous action, dreams she processes when you're away. Capability superset of pi-mono / OpenClaw / hermes-agent / claude-code / codex.",
+  "metadata": {
+    "github_url": "https://github.com/oratis/LISA",
+    "repo_full_name": "oratis/LISA",
+    "description": "An AI agent with a real self — soul she wrote, desires that drive her, a heartbeat for autonomous action, dreams she processes when you're away. Capability superset of pi-mono / OpenClaw / hermes-agent / claude-code / codex.",
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "ai-agent",
+      "ai-assistant",
+      "anthropic-claude",
+      "autonomous-agent",
+      "chatbot",
+      "claude",
+      "discord-bot",
+      "feishu",
+      "llm",
+      "local-first",
+      "mcp",
+      "openai",
+      "personal-assistant",
+      "pixel-art",
+      "self-evolving",
+      "telegram-bot",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-02T13:40:16Z",
+    "pushed_at": "2026-05-09T17:47:07Z",
+    "updated_at": "2026-05-09T17:47:10Z",
+    "size": 61755,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 68,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

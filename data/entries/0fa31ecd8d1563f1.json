@@ -1,0 +1,29 @@
+{
+  "id": "LuoAndOrder-pi-ask-user-question",
+  "name": "LuoAndOrder-pi-ask-user-question",
+  "url": "https://github.com/LuoAndOrder/pi-ask-user-question",
+  "source": "github-search",
+  "description": "Claude-style ask_user_question tool for pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/LuoAndOrder/pi-ask-user-question",
+    "repo_full_name": "LuoAndOrder/pi-ask-user-question",
+    "description": "Claude-style ask_user_question tool for pi-coding-agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-09T18:03:05Z",
+    "pushed_at": "2026-05-09T18:04:52Z",
+    "updated_at": "2026-05-09T18:04:55Z",
+    "size": 86,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

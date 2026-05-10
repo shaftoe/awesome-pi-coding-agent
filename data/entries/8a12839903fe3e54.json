@@ -1,0 +1,29 @@
+{
+  "id": "DarkoKuzmanovic-pi-powertoys",
+  "name": "DarkoKuzmanovic-pi-powertoys",
+  "url": "https://github.com/DarkoKuzmanovic/pi-powertoys",
+  "source": "github-search",
+  "description": "A collection of standalone Pi coding-agent extensions. Each toy is a single file — install them all or pick what you need.",
+  "metadata": {
+    "github_url": "https://github.com/DarkoKuzmanovic/pi-powertoys",
+    "repo_full_name": "DarkoKuzmanovic/pi-powertoys",
+    "description": "A collection of standalone Pi coding-agent extensions. Each toy is a single file — install them all or pick what you need.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-09T07:55:34Z",
+    "pushed_at": "2026-05-09T22:19:33Z",
+    "updated_at": "2026-05-09T22:19:37Z",
+    "size": 37,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}
