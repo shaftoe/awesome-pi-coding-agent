@@ -9,20 +9,20 @@
     "repo_full_name": "Veucci/pi-prompt-translate",
     "description": "A lightweight extension for the Pi Coding Agent that translates user prompts into a configurable target language before they reach the agent. Perfect for multilingual developers who prefer to think and type in their native language while working with English-centric AI coding assistants.",
     "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-29T18:54:37Z",
-    "pushed_at": "2026-04-30T07:01:39Z",
-    "updated_at": "2026-04-30T07:04:54Z",
-    "size": 10,
+    "pushed_at": "2026-05-06T08:52:11Z",
+    "updated_at": "2026-05-06T08:52:16Z",
+    "size": 12,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
+    "score": 58,
     "level": "maintained"
   },
   "category": "extension"

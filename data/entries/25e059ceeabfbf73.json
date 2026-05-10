@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Test harness for pi extensions — in-process session testing, package install verification, and subprocess mocking",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/gaodes/pi-test-harness",
     "npm_name": "@gaodes/pi-test-harness",
     "description": "Test harness for pi extensions — in-process session testing, package install verification, and subprocess mocking",
     "keywords": [
@@ -16,18 +16,18 @@
       "mock",
       "playbook"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-05-02T00:42:46.506Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "1.0.2",
+    "published_at": "2026-05-07T23:04:58.743Z",
+    "npm_downloads_monthly": 204,
+    "npm_downloads_weekly": 204,
+    "npm_score_final": 19.498661,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 72,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

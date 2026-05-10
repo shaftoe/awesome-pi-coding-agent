@@ -1,0 +1,29 @@
+{
+  "id": "jakobwinkler-pi-plauder",
+  "name": "jakobwinkler-pi-plauder",
+  "url": "https://github.com/jakobwinkler/pi-plauder",
+  "source": "github-search",
+  "description": "Wake word triggered STT for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/jakobwinkler/pi-plauder",
+    "repo_full_name": "jakobwinkler/pi-plauder",
+    "description": "Wake word triggered STT for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-10T06:20:36Z",
+    "pushed_at": "2026-05-10T06:49:02Z",
+    "updated_at": "2026-05-10T06:49:06Z",
+    "size": 9,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

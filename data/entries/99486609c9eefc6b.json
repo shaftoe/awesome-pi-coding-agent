@@ -11,14 +11,14 @@
     "channel": "Merantix AI Campus",
     "published_at": "2026-05-05T11:02:02Z",
     "thumbnail": "https://i.ytimg.com/vi/BQ_Es8k650I/hqdefault.jpg",
-    "views": 27,
-    "likes": 1,
-    "comments": 0,
+    "views": 853,
+    "likes": 9,
+    "comments": 1,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 39,
-    "level": "stale"
+    "score": 50,
+    "level": "maintained"
   },
   "category": "video"
 }

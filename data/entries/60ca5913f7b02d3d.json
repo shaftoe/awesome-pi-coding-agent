@@ -3,26 +3,26 @@
   "name": "@akshaykarle/pi-tools",
   "url": "https://www.npmjs.com/package/@akshaykarle/pi-tools",
   "source": "npm-search",
-  "description": "Pi coding agent extensions — security hardening, and more",
+  "description": "Pi coding agent extensions — security hardening, agent teams and more",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/akshaykarle/pi-tools",
     "npm_name": "@akshaykarle/pi-tools",
-    "description": "Pi coding agent extensions — security hardening, and more",
+    "description": "Pi coding agent extensions — security hardening, agent teams and more",
     "keywords": [
       "pi-package"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-05-02T09:09:08.985Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.1.1",
+    "published_at": "2026-05-07T14:04:07.640Z",
+    "npm_downloads_monthly": 128,
+    "npm_downloads_weekly": 128,
+    "npm_score_final": 17.964607,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 72,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

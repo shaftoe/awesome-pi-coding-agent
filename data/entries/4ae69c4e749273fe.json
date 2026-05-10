@@ -3,11 +3,11 @@
   "name": "Th1nkK1D-azpi",
   "url": "https://github.com/Th1nkK1D/azpi",
   "source": "github-search",
-  "description": "WIP Seamless PI Agent ACP Proxy",
+  "description": "A seamless ACP client built on top of the Pi coding agent",
   "metadata": {
     "github_url": "https://github.com/Th1nkK1D/azpi",
     "repo_full_name": "Th1nkK1D/azpi",
-    "description": "WIP Seamless PI Agent ACP Proxy",
+    "description": "A seamless ACP client built on top of the Pi coding agent",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,
@@ -15,11 +15,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-04T11:56:12Z",
-    "pushed_at": "2026-05-05T14:26:26Z",
-    "updated_at": "2026-05-05T14:32:24Z",
-    "size": 106,
+    "pushed_at": "2026-05-08T16:19:58Z",
+    "updated_at": "2026-05-08T16:20:03Z",
+    "size": 295,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
     "score": 53,

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/marcfargas/pi-powershell",
     "repo_full_name": "marcfargas/pi-powershell",
     "description": "PowerShell tool for pi agents - Windows system integration and background processes",
-    "stars": 2,
+    "stars": 3,
     "forks": 1,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-20T21:41:31Z",
     "pushed_at": "2026-02-20T21:42:25Z",
-    "updated_at": "2026-04-24T22:40:06Z",
+    "updated_at": "2026-05-10T07:58:07Z",
     "size": 84,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

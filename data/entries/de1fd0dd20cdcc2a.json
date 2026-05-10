@@ -3,33 +3,27 @@
   "name": "pi-interview",
   "url": "https://www.npmjs.com/package/pi-interview",
   "source": "npm-search",
-  "description": "Interactive interview form extension for pi coding agent",
+  "description": "Interactive form tool for pi-agent to gather user responses with keyboard navigation, themes, and image attachments",
   "metadata": {
     "github_url": "https://github.com/nicobailon/pi-interview-tool",
-    "npm_name": "pi-interview",
-    "description": "Interactive interview form extension for pi coding agent",
-    "keywords": [
-      "pi",
-      "pi-coding-agent",
-      "pi-package",
-      "interview",
-      "form",
-      "extension",
-      "cli"
-    ],
-    "version": "0.8.6",
-    "published_at": "2026-04-23T04:16:55.458Z",
-    "npm_downloads_monthly": 2289,
-    "npm_downloads_weekly": 997,
-    "npm_score_final": 30.94094,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "repo_full_name": "nicobailon/pi-interview-tool",
+    "description": "Interactive form tool for pi-agent to gather user responses with keyboard navigation, themes, and image attachments",
+    "stars": 269,
+    "forks": 17,
+    "open_issues": 4,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-01-02T08:26:37Z",
+    "pushed_at": "2026-05-01T18:51:07Z",
+    "updated_at": "2026-05-10T09:22:11Z",
+    "size": 5227,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
   "health": {
-    "score": 91,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

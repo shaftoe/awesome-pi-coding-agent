@@ -3,33 +3,29 @@
   "name": "@rhobot-dev/rho",
   "url": "https://www.npmjs.com/package/@rhobot-dev/rho",
   "source": "npm-search",
-  "description": "AI agent with persistent memory, heartbeat check-ins, and a knowledge vault",
+  "description": "An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android. Built on Pi.",
   "metadata": {
     "github_url": "https://github.com/mikeyobrien/rho",
-    "npm_name": "@rhobot-dev/rho",
-    "description": "AI agent with persistent memory, heartbeat check-ins, and a knowledge vault",
-    "keywords": [
-      "pi-package",
-      "pi-extension",
-      "pi-skill",
-      "ai-agent",
-      "memory",
-      "heartbeat",
-      "knowledge-vault"
+    "repo_full_name": "mikeyobrien/rho",
+    "description": "An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android. Built on Pi.",
+    "stars": 355,
+    "forks": 29,
+    "open_issues": 1,
+    "topics": [
+      "pi-coding-agent"
     ],
-    "version": "0.1.12",
-    "published_at": "2026-03-15T02:42:45.143Z",
-    "npm_downloads_monthly": 298,
-    "npm_downloads_weekly": 30,
-    "npm_score_final": 21.882994,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-03T03:39:05Z",
+    "pushed_at": "2026-04-22T22:27:35Z",
+    "updated_at": "2026-05-02T22:21:51Z",
+    "size": 4891,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 75,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "misc"
 }

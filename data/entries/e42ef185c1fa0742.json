@@ -3,33 +3,36 @@
   "name": "pi-ask-user",
   "url": "https://www.npmjs.com/package/pi-ask-user",
   "source": "npm-search",
-  "description": "Interactive ask_user tool for pi-coding-agent with searchable split-pane selection UI, multi-select, and freeform input",
+  "description": "Interactive decision-gating extension for pi — lets AI agents ask users questions with multiple-choice and freeform answers",
   "metadata": {
     "github_url": "https://github.com/edlsh/pi-ask-user",
-    "npm_name": "pi-ask-user",
-    "description": "Interactive ask_user tool for pi-coding-agent with searchable split-pane selection UI, multi-select, and freeform input",
-    "keywords": [
-      "pi-package",
+    "repo_full_name": "edlsh/pi-ask-user",
+    "description": "Interactive decision-gating extension for pi — lets AI agents ask users questions with multiple-choice and freeform answers",
+    "stars": 68,
+    "forks": 10,
+    "open_issues": 3,
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "cli",
+      "developer-tools",
+      "internal-tool",
       "pi",
-      "pi-coding-agent",
-      "extension",
-      "ask",
-      "ask_user",
-      "interactive"
+      "status-active",
+      "typescript"
     ],
-    "version": "0.6.1",
-    "published_at": "2026-04-07T17:30:40.558Z",
-    "npm_downloads_monthly": 2974,
-    "npm_downloads_weekly": 584,
-    "npm_score_final": 32.316765,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-16T17:44:39Z",
+    "pushed_at": "2026-05-09T23:16:16Z",
+    "updated_at": "2026-05-09T23:16:19Z",
+    "size": 1935,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 91,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

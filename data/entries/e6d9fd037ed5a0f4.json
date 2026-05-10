@@ -6,28 +6,27 @@
   "description": "Curated dark terminal themes for pi, adapted from iTerm2-Color-Schemes",
   "metadata": {
     "github_url": "https://github.com/victor-software-house/pi-curated-themes",
-    "npm_name": "@victor-software-house/pi-curated-themes",
+    "repo_full_name": "victor-software-house/pi-curated-themes",
     "description": "Curated dark terminal themes for pi, adapted from iTerm2-Color-Schemes",
-    "keywords": [
-      "pi-package",
-      "pi-theme",
-      "terminal-theme",
-      "iterm2",
-      "color-scheme"
+    "stars": 5,
+    "forks": 1,
+    "open_issues": 3,
+    "topics": [
+      "pi",
+      "pi-ecosystem"
     ],
-    "version": "0.2.1",
-    "published_at": "2026-03-22T16:36:09.647Z",
-    "npm_downloads_monthly": 734,
-    "npm_downloads_weekly": 531,
-    "npm_score_final": 25.79433,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-14T19:41:50Z",
+    "pushed_at": "2026-04-16T19:34:35Z",
+    "updated_at": "2026-05-05T22:49:46Z",
+    "size": 1452,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
   "health": {
-    "score": 75,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
-  "category": "theme"
+  "category": "extension"
 }

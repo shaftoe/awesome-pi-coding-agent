@@ -6,28 +6,27 @@
   "description": "Shared notification primitives for Pi extensions.",
   "metadata": {
     "github_url": "https://github.com/rbright/pi-notify-core",
-    "npm_name": "@rbright/pi-notify-core",
-    "description": "Shared notification primitives for Pi extensions.",
-    "keywords": [
-      "pi",
-      "pi-coding-agent",
+    "repo_full_name": "rbright/pi-notify-core",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
       "notifications",
-      "extension",
-      "core"
+      "pi-agent"
     ],
-    "version": "0.1.2",
-    "published_at": "2026-02-18T07:02:51.473Z",
-    "npm_downloads_monthly": 20,
-    "npm_downloads_weekly": 3,
-    "npm_score_final": 12.94881,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-18T05:56:22Z",
+    "pushed_at": "2026-02-18T07:02:26Z",
+    "updated_at": "2026-02-18T07:02:29Z",
+    "size": 52,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 69,
-    "level": "maintained"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

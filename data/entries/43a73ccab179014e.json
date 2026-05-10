@@ -3,7 +3,7 @@
   "name": "dpolivaev-pi-fenced",
   "url": "https://github.com/dpolivaev/pi-fenced",
   "source": "github-search",
-  "description": "PI coding agent extension and launcher for running PI in a Fence  sandbox and configuring Fence policy out of process.",
+  "description": "PI coding agent extension and launcher for running PI in a Fence sandbox and configuring Fence policy out of process.",
   "metadata": {
     "github_url": "https://github.com/dpolivaev/pi-fenced",
     "repo_full_name": "dpolivaev/pi-fenced",
@@ -15,9 +15,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-24T11:41:37Z",
-    "pushed_at": "2026-04-24T12:31:30Z",
-    "updated_at": "2026-04-24T12:31:33Z",
-    "size": 157,
+    "pushed_at": "2026-05-06T10:52:10Z",
+    "updated_at": "2026-05-06T10:52:14Z",
+    "size": 198,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

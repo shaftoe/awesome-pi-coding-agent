@@ -3,13 +3,13 @@
   "name": "leandr0ck-pi-find-skills",
   "url": "https://github.com/leandr0ck/pi-find-skills",
   "source": "github-search",
-  "description": "Extension for Pi coding agent.  Search, discover, and install AI agent skills from different providers.",
+  "description": "Extension for Pi coding agent. Search, discover, and install AI agent skills from different providers.",
   "metadata": {
     "github_url": "https://github.com/leandr0ck/pi-find-skills",
     "repo_full_name": "leandr0ck/pi-find-skills",
     "description": "Extension for Pi coding agent.  Search, discover, and install AI agent skills from different providers.",
     "stars": 2,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
@@ -22,7 +22,7 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 58,
+    "score": 51,
     "level": "maintained"
   },
   "category": "extension"

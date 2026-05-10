@@ -3,7 +3,7 @@
   "name": "arcanemachine-pi-web-search",
   "url": "https://github.com/arcanemachine/pi-web-search",
   "source": "github-search",
-  "description": " A search extension for the Pi coding agent",
+  "description": "A search extension for the Pi coding agent",
   "metadata": {
     "github_url": "https://github.com/arcanemachine/pi-web-search",
     "repo_full_name": "arcanemachine/pi-web-search",
@@ -19,7 +19,7 @@
     "updated_at": "2026-04-25T21:12:18Z",
     "size": 16,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
     "score": 50,

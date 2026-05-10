@@ -14,18 +14,18 @@
       "chatgpt",
       "codex"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-05-02T08:10:43.562Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.2.0",
+    "published_at": "2026-05-09T08:52:36.672Z",
+    "npm_downloads_monthly": 504,
+    "npm_downloads_weekly": 504,
+    "npm_score_final": 23.279396,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 72,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

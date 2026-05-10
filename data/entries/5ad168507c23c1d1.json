@@ -3,18 +3,18 @@
   "name": "pi-codex-limit",
   "url": "https://www.npmjs.com/package/pi-codex-limit",
   "source": "npm-search",
-  "description": "Codex subscription usage footer widget for Pi",
+  "description": "Zen/dev footer mode extension for Pi",
   "metadata": {
     "github_url": "https://github.com/santychuy/pi-setup",
-    "npm_name": "pi-codex-limit",
-    "description": "Codex subscription usage footer widget for Pi",
+    "npm_name": "pi-footer-mode",
+    "description": "Zen/dev footer mode extension for Pi",
     "keywords": [
       "pi-coding-agent",
       "pi-extension",
       "pi-package"
     ],
     "version": "0.0.1",
-    "published_at": "2026-05-08T00:20:13.390Z",
+    "published_at": "2026-05-08T00:20:17.724Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

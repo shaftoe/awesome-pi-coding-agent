@@ -1,24 +1,24 @@
 {
-	"id": "HN_47034177",
-	"name": "Show HN: Rakenne – Markdown-defined agentic workflows for structured documents",
-	"url": "https://rakenne.app",
-	"source": "hackernews-search",
-	"description": "Hi! I’m the creator of Rakenne and I built it because I noticed a recurring problem with LLMs in professional settings: chat-based document creation is unpredictable and hard to scale for domain experts. Experts know the process of building a document (the questions to ask, the order of operations, the edge cases), but translating that into a long system prompt often leads to hallucinations or missed steps. What is Rakenne? Rakenne is a multi-tenant SaaS that lets domain experts define \"Guided Workflows\" in Markdown. An LLM agent then runs these workflows server-side, conducting a structured dialogue with the user to produce a final, high-fidelity document. The Tech Stack: * Agentic Core: Built on the pi coding agent (https://github.com/badlogic/pi-mono) using RPC mode. This allows the agent to maintain state and follow complex logic branches defined in the Markdown files. * Frontend: Built with Lit web components. I wanted something incredibly lightweight and framework-agnostic so the document \"interviews\" feel snappy and can eventually be embedded as widgets. * Multi-tenancy: Designed to isolate agent environments server-side, ensuring that custom expert logic doesn't leak between tenants. Why this approach? Instead of \"Chat with a PDF,\" it’s \"The Logic of an Expert.\" If you’re a lawyer or a compliance officer, you don’t want a creative partner; you want a system that follows your proven methodology. By using Markdown, we make the \"expert logic\" version-controllable and easy for non-devs to edit. I’d love your feedback on: 1. The Agentic UX: Does the \"interview\" flow feel natural, or is it too rigid? 2. Markdown as Logic: Is Markdown the right \"DSL\" for this, or should we move toward something like YAML or a custom schema? 3. Latency: We're using RPC for the agent-browser communication—is the response time acceptable for your use case? Thanks! I'll be around to answer any technical questions.",
-	"metadata": {
-		"title": "Show HN: Rakenne – Markdown-defined agentic workflows for structured documents",
-		"name": "Show HN: Rakenne – Markdown-defined agentic workflows for structured documents",
-		"description": "Hi! I’m the creator of Rakenne and I built it because I noticed a recurring problem with LLMs in professional settings: chat-based document creation is unpredictable and hard to scale for domain experts. Experts know the process of building a document (the questions to ask, the order of operations, the edge cases), but translating that into a long system prompt often leads to hallucinations or missed steps. What is Rakenne? Rakenne is a multi-tenant SaaS that lets domain experts define \"Guided Workflows\" in Markdown. An LLM agent then runs these workflows server-side, conducting a structured dialogue with the user to produce a final, high-fidelity document. The Tech Stack: * Agentic Core: Built on the pi coding agent (https://github.com/badlogic/pi-mono) using RPC mode. This allows the agent to maintain state and follow complex logic branches defined in the Markdown files. * Frontend: Built with Lit web components. I wanted something incredibly lightweight and framework-agnostic so the document \"interviews\" feel snappy and can eventually be embedded as widgets. * Multi-tenancy: Designed to isolate agent environments server-side, ensuring that custom expert logic doesn't leak between tenants. Why this approach? Instead of \"Chat with a PDF,\" it’s \"The Logic of an Expert.\" If you’re a lawyer or a compliance officer, you don’t want a creative partner; you want a system that follows your proven methodology. By using Markdown, we make the \"expert logic\" version-controllable and easy for non-devs to edit. I’d love your feedback on: 1. The Agentic UX: Does the \"interview\" flow feel natural, or is it too rigid? 2. Markdown as Logic: Is Markdown the right \"DSL\" for this, or should we move toward something like YAML or a custom schema? 3. Latency: We're using RPC for the agent-browser communication—is the response time acceptable for your use case? Thanks! I'll be around to answer any technical questions.",
-		"author": "rnc000",
-		"published_at": "2026-02-16T12:26:31Z",
-		"points": 2,
-		"num_comments": 0,
-		"hn_id": "47034177",
-		"external_url": "https://rakenne.app",
-		"discovery_hint": "hackernews:pi-coding-agent"
-	},
-	"health": {
-		"score": 32,
-		"level": "stale"
-	},
-	"category": "article"
+  "id": "HN_47034177",
+  "name": "Show HN: Rakenne – Markdown-defined agentic workflows for structured documents",
+  "url": "https://rakenne.app",
+  "source": "hackernews-search",
+  "description": "Hi! I’m the creator of Rakenne and I built it because I noticed a recurring problem with LLMs in professional settings: chat-based document creation is unpredictable and hard to scale for domain experts. Experts know the process of building a document (the questions to ask, the order of operations, the edge cases), but translating that into a long system prompt often leads to hallucinations or missed steps. What is Rakenne? Rakenne is a multi-tenant SaaS that lets domain experts define \"Guided Workflows\" in Markdown. An LLM agent then runs these workflows server-side, conducting a structured dialogue with the user to produce a final, high-fidelity document. The Tech Stack: * Agentic Core: Built on the pi coding agent (https://github.com/badlogic/pi-mono) using RPC mode. This allows the agent to maintain state and follow complex logic branches defined in the Markdown files. * Frontend: Built with Lit web components. I wanted something incredibly lightweight and framework-agnostic so the document \"interviews\" feel snappy and can eventually be embedded as widgets. * Multi-tenancy: Designed to isolate agent environments server-side, ensuring that custom expert logic doesn't leak between tenants. Why this approach? Instead of \"Chat with a PDF,\" it’s \"The Logic of an Expert.\" If you’re a lawyer or a compliance officer, you don’t want a creative partner; you want a system that follows your proven methodology. By using Markdown, we make the \"expert logic\" version-controllable and easy for non-devs to edit. I’d love your feedback on: 1. The Agentic UX: Does the \"interview\" flow feel natural, or is it too rigid? 2. Markdown as Logic: Is Markdown the right \"DSL\" for this, or should we move toward something like YAML or a custom schema? 3. Latency: We're using RPC for the agent-browser communication—is the response time acceptable for your use case? Thanks! I'll be around to answer any technical questions.",
+  "metadata": {
+    "title": "Show HN: Rakenne – Markdown-defined agentic workflows for structured documents",
+    "name": "Show HN: Rakenne – Markdown-defined agentic workflows for structured documents",
+    "description": "Hi! I’m the creator of Rakenne and I built it because I noticed a recurring problem with LLMs in professional settings: chat-based document creation is unpredictable and hard to scale for domain experts. Experts know the process of building a document (the questions to ask, the order of operations, the edge cases), but translating that into a long system prompt often leads to hallucinations or missed steps. What is Rakenne? Rakenne is a multi-tenant SaaS that lets domain experts define \"Guided Workflows\" in Markdown. An LLM agent then runs these workflows server-side, conducting a structured dialogue with the user to produce a final, high-fidelity document. The Tech Stack: * Agentic Core: Built on the pi coding agent (https://github.com/badlogic/pi-mono) using RPC mode. This allows the agent to maintain state and follow complex logic branches defined in the Markdown files. * Frontend: Built with Lit web components. I wanted something incredibly lightweight and framework-agnostic so the document \"interviews\" feel snappy and can eventually be embedded as widgets. * Multi-tenancy: Designed to isolate agent environments server-side, ensuring that custom expert logic doesn't leak between tenants. Why this approach? Instead of \"Chat with a PDF,\" it’s \"The Logic of an Expert.\" If you’re a lawyer or a compliance officer, you don’t want a creative partner; you want a system that follows your proven methodology. By using Markdown, we make the \"expert logic\" version-controllable and easy for non-devs to edit. I’d love your feedback on: 1. The Agentic UX: Does the \"interview\" flow feel natural, or is it too rigid? 2. Markdown as Logic: Is Markdown the right \"DSL\" for this, or should we move toward something like YAML or a custom schema? 3. Latency: We're using RPC for the agent-browser communication—is the response time acceptable for your use case? Thanks! I'll be around to answer any technical questions.",
+    "author": "rnc000",
+    "published_at": "2026-02-16T12:26:31Z",
+    "points": 2,
+    "num_comments": 0,
+    "hn_id": "47034177",
+    "external_url": "https://rakenne.app",
+    "discovery_hint": "hackernews:pi-coding-agent"
+  },
+  "health": {
+    "score": 32,
+    "level": "stale"
+  },
+  "category": "article"
 }

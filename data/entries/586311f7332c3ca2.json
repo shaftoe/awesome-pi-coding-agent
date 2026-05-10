@@ -3,11 +3,11 @@
   "name": "edheltzel-Recall",
   "url": "https://github.com/edheltzel/Recall",
   "source": "github-search",
-  "description": "A persistent memory system for AI Agents",
+  "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid-session, hybrid search retrieves them, and a tiered L0/L1 recall block injects identity + top-ranked records at session start. Works across any AI harnesses like Claude Code, Opencode, & Pi from one database.",
   "metadata": {
     "github_url": "https://github.com/edheltzel/Recall",
     "repo_full_name": "edheltzel/Recall",
-    "description": "A persistent memory system for AI Agents",
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid-session, hybrid search retrieves them, and a tiered L0/L1 recall block injects identity + top-ranked records at session start. Works across any AI harnesses like Claude Code, Opencode, & Pi from one database.",
     "stars": 2,
     "forks": 0,
     "open_issues": 2,
@@ -28,15 +28,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-04T16:05:05Z",
-    "pushed_at": "2026-05-04T20:30:21Z",
-    "updated_at": "2026-05-04T20:30:27Z",
-    "size": 4393,
-    "license": null,
+    "pushed_at": "2026-05-08T20:50:18Z",
+    "updated_at": "2026-05-08T20:50:23Z",
+    "size": 7983,
+    "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
     "score": 70,
     "level": "active"
   },
-  "category": "misc"
+  "category": "extension"
 }

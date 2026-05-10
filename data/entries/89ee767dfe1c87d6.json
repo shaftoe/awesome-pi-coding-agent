@@ -3,36 +3,44 @@
   "name": "pi-web-minimal",
   "url": "https://www.npmjs.com/package/pi-web-minimal",
   "source": "npm-search",
-  "description": "Minimal web, code, and documentation retrieval distillation tools for Pi",
+  "description": "Web research tools for Pi agents that don't trash the context window. Retrieves via Exa + Context7, stores raw payloads out-of-band, returns short source-cited briefs through a distillation firewall.",
   "metadata": {
     "github_url": "https://github.com/drsh4dow/pi-web-minimal",
-    "npm_name": "pi-web-minimal",
-    "description": "Minimal web, code, and documentation retrieval distillation tools for Pi",
-    "keywords": [
-      "pi-package",
-      "pi",
-      "web-search",
-      "retrieval",
-      "exa",
-      "context7",
+    "repo_full_name": "drsh4dow/pi-web-minimal",
+    "description": "Web research tools for Pi agents that don't trash the context window. Retrieves via Exa + Context7, stores raw payloads out-of-band, returns short source-cited briefs through a distillation firewall.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-tools",
+      "anti-context-pollution",
+      "bun",
+      "code-search",
       "context-engineering",
-      "distillation",
-      "minimal",
-      "extension"
+      "context7",
+      "documentation",
+      "exa",
+      "pi",
+      "pi-coding-agent",
+      "pi-extensions",
+      "pi-package",
+      "retrieval",
+      "typescript",
+      "web-fetch",
+      "web-search"
     ],
-    "version": "0.4.0",
-    "published_at": "2026-04-28T03:40:27.687Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T19:32:22Z",
+    "pushed_at": "2026-04-28T03:40:16Z",
+    "updated_at": "2026-04-28T03:40:19Z",
+    "size": 93,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 72,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

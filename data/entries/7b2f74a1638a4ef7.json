@@ -3,27 +3,27 @@
   "name": "pi-nvidia-nim",
   "url": "https://www.npmjs.com/package/pi-nvidia-nim",
   "source": "npm-search",
-  "description": "NVIDIA NIM API provider extension for pi coding agent — access 100+ models from build.nvidia.com",
+  "description": "NVIDIA NIM API provider extension for pi coding agent - access 100+ models from build.nvidia.com",
   "metadata": {
     "github_url": "https://github.com/xRyul/pi-nvidia-nim",
-    "npm_name": "pi-nvidia-nim",
-    "description": "NVIDIA NIM API provider extension for pi coding agent — access 100+ models from build.nvidia.com",
-    "keywords": [
-      "pi-package"
-    ],
-    "version": "1.1.17",
-    "published_at": "2026-04-25T07:30:24.058Z",
-    "npm_downloads_monthly": 127,
-    "npm_downloads_weekly": 26,
-    "npm_score_final": 18.095945,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "repo_full_name": "xRyul/pi-nvidia-nim",
+    "description": "NVIDIA NIM API provider extension for pi coding agent - access 100+ models from build.nvidia.com",
+    "stars": 25,
+    "forks": 10,
+    "open_issues": 3,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-10T21:39:35Z",
+    "pushed_at": "2026-05-01T22:44:29Z",
+    "updated_at": "2026-05-08T20:08:14Z",
+    "size": 8100,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 82,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

@@ -19763,5 +19763,313 @@
 			"sourceName": "brave",
 			"query": "brave:pi-theme"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=puLp-T_p6AA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.169Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=TvyOeMkimto",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-10T12:30:38.184Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ZtOwUtO8568",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.207Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=DuDrHzaBQ3k",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.225Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=W0-hD3s4Oek",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.237Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://x.com/Replit/status/2052837500490502172",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.255Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5YgMru3gjQM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.289Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Isani8eLIE0",
+		"reason": "pop culture pi signal: \"magnum pi\"",
+		"blacklisted_at": "2026-05-10T12:30:38.32Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=0aiK7nOXcDI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.326Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=6sgDgHscyrk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.346Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=RLbx2g1RE1Y",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.431Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/crazycompanyinc/pixel-agents-agency",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.485Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=XKZYUhwdsR4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.49Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=K16GUM1vIX8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.505Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Nc8bqbZhEZs",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-10T12:30:38.512Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5lfJAXShjXw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.533Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=8uP2IrP3IG8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.551Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=H_O5fDoo3wc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.571Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/0xnayuta/devkit-pi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-10T12:30:38.582Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=riRPmOYDvwI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.591Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://x.com/LoganGrafTax/status/2052781714615709787",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.596Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=6OA9AjzX4k4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.622Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/Milind220/flue-tui",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.63Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=lMRHpG9Q6Jg",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-10T12:30:38.636Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=bgXEDymiZCc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.647Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://thepaypers.com/payments/news/aws-launches-agentcore-payments-with-stripe-and-coinbase",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.678Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://legis1.com/news/navy-budget-leadership-navys-record-faces",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.713Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=PLIYk1Dl4gA",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-10T12:30:38.742Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=XSTYy17AtXY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T12:30:38.775Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@taimoorchatha/pi-context-pulse",
+		"reason": "duplicate of https://github.com/taimoorchatha/pi-extensions (lower health score: 5 vs 50)",
+		"blacklisted_at": "2026-05-10T12:34:31.547Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/pittaya-ui/pittaya-theme",
+		"reason": "not related to Pi coding agent - this is a VSCode theme editor called pittaya, not pi.dev",
+		"blacklisted_at": "2026-05-10T12:37:43.728Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/pip-webui/pip-webui-themes",
+		"reason": "not related to Pi coding agent - Pip.WebUI is a separate web UI framework, not pi.dev",
+		"blacklisted_at": "2026-05-10T12:37:55.512Z",
+		"source": "manual"
 	}
 ]

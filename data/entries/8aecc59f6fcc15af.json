@@ -1,32 +1,29 @@
 {
-	"id": "pi-agents",
-	"name": "pi-agents",
-	"url": "https://www.npmjs.com/package/pi-agents",
-	"source": "npm-search",
-	"description": "A generic framework for agent orchestration in pi.",
-	"metadata": {
-		"github_url": "https://github.com/mavam/pi-agents",
-		"npm_name": "pi-agents",
-		"description": "A generic framework for agent orchestration in pi.",
-		"keywords": [
-			"pi-package",
-			"pi-extension",
-			"coding-agent",
-			"agent-orchestration"
-		],
-		"version": "0.2.0",
-		"published_at": "2026-04-23T07:15:59.868Z",
-		"npm_downloads_monthly": 147,
-		"npm_downloads_weekly": 44,
-		"npm_score_final": 19.288568,
-		"npm_score_popularity": 1,
-		"npm_score_quality": 1,
-		"npm_score_maintenance": 1,
-		"discovery_hint": "npm:keywords:pi-package"
-	},
-	"health": {
-		"score": 82,
-		"level": "active"
-	},
-	"category": "extension"
+  "id": "pi-agents",
+  "name": "pi-agents",
+  "url": "https://www.npmjs.com/package/pi-agents",
+  "source": "npm-search",
+  "description": "A generic framework for agent orchestration in pi.",
+  "metadata": {
+    "github_url": "https://github.com/mavam/pi-agents",
+    "repo_full_name": "mavam/pi-agents",
+    "description": "",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-01T13:52:37Z",
+    "pushed_at": "2026-05-08T06:54:18Z",
+    "updated_at": "2026-05-08T06:54:21Z",
+    "size": 565,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
 }

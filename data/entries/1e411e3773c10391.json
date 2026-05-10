@@ -9,20 +9,22 @@
     "npm_name": "pi-supersafety",
     "description": "When the example safety extensions don't cover what you need, this should! Simple with approval flow and windows sandbox capability (with Sandboxie)",
     "keywords": [
-      "pi-package"
+      "pi-package",
+      "pi",
+      "pi-coding-agent"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-04-29T02:57:21.947Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "1.0.1",
+    "published_at": "2026-04-30T01:03:32.319Z",
+    "npm_downloads_monthly": 484,
+    "npm_downloads_weekly": 484,
+    "npm_score_final": 23.129044,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 72,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

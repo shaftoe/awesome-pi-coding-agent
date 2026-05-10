@@ -3,7 +3,7 @@
   "name": "bu5hm4nn-pi-permissions",
   "url": "https://github.com/bu5hm4nn/pi-permissions",
   "source": "github-search",
-  "description": "pi-permissions is a Pi Coding Agent extension that secures ssh_bash and optional local bash usage with per-command approvals, strict fail-closed SSH  blocking, and policy management via /permissions and /ssh-policy.",
+  "description": "pi-permissions is a Pi Coding Agent extension that secures ssh_bash and optional local bash usage with per-command approvals, strict fail-closed SSH blocking, and policy management via /permissions and /ssh-policy.",
   "metadata": {
     "github_url": "https://github.com/bu5hm4nn/pi-permissions",
     "repo_full_name": "bu5hm4nn/pi-permissions",

@@ -1,42 +1,33 @@
 {
-	"id": "pi-messenger-bridge",
-	"name": "pi-messenger-bridge",
-	"url": "https://www.npmjs.com/package/pi-messenger-bridge",
-	"source": "npm-search",
-	"description": "Bridge common messengers (Telegram, WhatsApp, Slack, Discord) into pi",
-	"metadata": {
-		"github_url": "https://github.com/tintinweb/pi-messenger-bridge",
-		"npm_name": "pi-messenger-bridge",
-		"description": "Bridge common messengers (Telegram, WhatsApp, Slack, Discord) into pi",
-		"keywords": [
-			"pi-package",
-			"pi",
-			"pi-extension",
-			"telegram",
-			"whatsapp",
-			"slack",
-			"discord",
-			"messenger",
-			"bridge",
-			"bot",
-			"remote",
-			"chat",
-			"messaging",
-			"coding-agent"
-		],
-		"version": "0.3.0",
-		"published_at": "2026-03-25T01:17:41.155Z",
-		"npm_downloads_monthly": 346,
-		"npm_downloads_weekly": 42,
-		"npm_score_final": 22.52412,
-		"npm_score_popularity": 1,
-		"npm_score_quality": 1,
-		"npm_score_maintenance": 1,
-		"discovery_hint": "npm:keywords:pi-package"
-	},
-	"health": {
-		"score": 75,
-		"level": "active"
-	},
-	"category": "extension"
+  "id": "pi-messenger-bridge",
+  "name": "pi-messenger-bridge",
+  "url": "https://www.npmjs.com/package/pi-messenger-bridge",
+  "source": "npm-search",
+  "description": "Bridge common messengers (Telegram, WhatsApp, Slack, Discord) into",
+  "metadata": {
+    "github_url": "https://github.com/tintinweb/pi-messenger-bridge",
+    "repo_full_name": "tintinweb/pi-messenger-bridge",
+    "description": "Bridge common messengers (Telegram, WhatsApp, Slack, Discord) into",
+    "stars": 33,
+    "forks": 11,
+    "open_issues": 0,
+    "topics": [
+      "pi-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-11T10:53:03Z",
+    "pushed_at": "2026-05-09T18:08:39Z",
+    "updated_at": "2026-05-09T18:07:45Z",
+    "size": 3371,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
 }

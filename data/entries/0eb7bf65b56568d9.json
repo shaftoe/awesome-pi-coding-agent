@@ -3,31 +3,33 @@
   "name": "@kmiyh/pi-extensions-menu",
   "url": "https://www.npmjs.com/package/@kmiyh/pi-extensions-menu",
   "source": "npm-search",
-  "description": "Pi extension that adds a dedicated /extensions menu for browsing, enabling, disabling, and updating installed extensions.",
+  "description": "Pi extension that adds a dedicated /extensions menu for browsing, enabling, disabling, and updating installed extensions",
   "metadata": {
     "github_url": "https://github.com/Kmiyh/pi-extensions-menu",
-    "npm_name": "@kmiyh/pi-extensions-menu",
-    "description": "Pi extension that adds a dedicated /extensions menu for browsing, enabling, disabling, and updating installed extensions.",
-    "keywords": [
-      "pi-package",
+    "repo_full_name": "Kmiyh/pi-extensions-menu",
+    "description": "Pi extension that adds a dedicated /extensions menu for browsing, enabling, disabling, and updating installed extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "extensions",
+      "menu",
       "pi-agent",
       "pi-extension",
-      "extensions",
-      "menu"
+      "pi-package"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-04-15T11:32:15.451Z",
-    "npm_downloads_monthly": 125,
-    "npm_downloads_weekly": 125,
-    "npm_score_final": 18.028084,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-14T13:21:21Z",
+    "pushed_at": "2026-04-15T11:31:49Z",
+    "updated_at": "2026-04-15T11:35:18Z",
+    "size": 206,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 82,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

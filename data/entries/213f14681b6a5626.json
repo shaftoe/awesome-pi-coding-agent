@@ -13,17 +13,17 @@
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
-    "archived": false,
+    "archived": true,
     "created_at": "2026-04-10T18:56:35Z",
     "pushed_at": "2026-04-10T21:45:31Z",
-    "updated_at": "2026-04-10T21:45:35Z",
+    "updated_at": "2026-04-29T23:27:27Z",
     "size": 74,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
-    "level": "maintained"
+    "score": 0,
+    "level": "dead"
   },
   "category": "extension"
 }
