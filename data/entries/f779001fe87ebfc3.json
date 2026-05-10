@@ -1,0 +1,38 @@
+{
+  "id": "4cya-pi-wechat-bridge",
+  "name": "4cya-pi-wechat-bridge",
+  "url": "https://github.com/4cya/pi-wechat-bridge",
+  "source": "github-search",
+  "description": "WeChat ↔ Pi Agent multi-session bridge. One WeChat window, multiple AI coding sessions. Switch with /english /wechat /quant — case-insensitive, concurrent, image-aware.",
+  "metadata": {
+    "github_url": "https://github.com/4cya/pi-wechat-bridge",
+    "repo_full_name": "4cya/pi-wechat-bridge",
+    "description": "WeChat ↔ Pi Agent multi-session bridge. One WeChat window, multiple AI coding sessions. Switch with /english /wechat /quant — case-insensitive, concurrent, image-aware.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "chatbot",
+      "coding-agent",
+      "multi-session",
+      "pi-agent",
+      "session-router",
+      "wechat",
+      "wechat-bridge"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-09T13:35:11Z",
+    "pushed_at": "2026-05-09T14:59:11Z",
+    "updated_at": "2026-05-09T14:59:14Z",
+    "size": 65,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "SynrgStudio-gpi",
+  "name": "SynrgStudio-gpi",
+  "url": "https://github.com/SynrgStudio/gpi",
+  "source": "github-search",
+  "description": "GUI For Pi.dev Agent",
+  "metadata": {
+    "github_url": "https://github.com/SynrgStudio/gpi",
+    "repo_full_name": "SynrgStudio/gpi",
+    "description": "GUI For Pi.dev Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-09T19:51:18Z",
+    "pushed_at": "2026-05-09T21:51:32Z",
+    "updated_at": "2026-05-09T21:51:30Z",
+    "size": 256,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "k1000-pi-battler",
+  "name": "k1000-pi-battler",
+  "url": "https://github.com/k1000/pi-battler",
+  "source": "github-search",
+  "description": "Pi extension package: pi-battler",
+  "metadata": {
+    "github_url": "https://github.com/k1000/pi-battler",
+    "repo_full_name": "k1000/pi-battler",
+    "description": "Pi extension package: pi-battler",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-09T12:03:26Z",
+    "pushed_at": "2026-05-09T19:52:37Z",
+    "updated_at": "2026-05-09T19:52:41Z",
+    "size": 15,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -19283,5 +19283,485 @@
 		"reason": "Duplicate of npm entry pi-yaml-hooks with higher health score (72 vs 53)",
 		"blacklisted_at": "2026-05-09T07:57:54.158Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://www.biotrop.org/news/seameo-biotrop-strengthens-preparations-for-the-64th-governing-board-meeting-through-internal-coordination-meeting",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.55Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.morningstar.com/news/pr-newswire/20260508sf54748/docusign-and-harvey-partner-to-bring-legal-and-contract-ai-together",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.561Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=7I64SoV0r6Y",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.568Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Bg-IPiql7x8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.571Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/zonko-ai/pi-verifier-agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.593Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=57pZNEfIno8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.606Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Uv6YBs98g-s",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.615Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://ca.news.yahoo.com/kinew-admonishes-deputy-minister-linkedin-001728418.html",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.625Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://github.blog/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.631Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=grmgzPRvJTw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.65Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.barchart.com/story/news/1803007/docusign-and-harvey-partner-to-bring-legal-and-contract-ai-together",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.652Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=RSZnkqhiX6o",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.657Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=C3-4llQYT8o",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.663Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.rfp.wiki/artificial-intelligence",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.705Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-agent"
+		}
+	},
+	{
+		"url": "https://fortune.com/2026/05/08/anthropic-80fold-growth-quarter-renting-elon-musk-data-center/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.714Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://technologymagazine.com/news/aws-coinbase-stripe-launch-autonomous-paying-ai-agents",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.744Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.blog/latest/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.749Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.reddit.com/r/LocalLLaMA/comments/1t4ji36/use_qwen36_right_way_send_it_to_pi_coding_agent/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.773Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.marketscreener.com/news/skywater-stockholders-approve-merger-agreement-with-ionq-ce7f5bdbdf88f424",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.777Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=FU9zjA8JTo4",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-05-10T00:27:45.786Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=rgEAyt-uKHQ",
+		"reason": "pop culture pi signal: \"magnum pi\"",
+		"blacklisted_at": "2026-05-10T00:27:45.791Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=if0yrsb5oIM",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-05-10T00:27:45.797Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=YAs1qdgiqPc",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-05-10T00:27:45.828Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=eT3G6aC0XuQ",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-05-10T00:27:45.838Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.reuters.com/article/markets/fitch-raises-daimlerchryslers-rating-one-notch-idUSN06398177/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.864Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://www.nature.com/articles/s40494-026-02556-x",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.873Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://www.tipranks.com/news/private-companies/glean-highlights-context-aware-reusable-workflow-capabilities",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.927Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://launchfirestorm.wixsite.com/firestorm-labs/post/xcell-bringing-factories-to-the-front-lines",
+		"reason": "industrial pi signal: \"manufacturing\"",
+		"blacklisted_at": "2026-05-10T00:27:45.932Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://atlan.com/know/ai-agents-for-data-engineering/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.952Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Jhb2KjRoqKE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.971Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://app.dealroom.co/news/feed/docusign-and-harvey-partner-to-integrate-legal-ai-with-contract-workflows",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.976Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=7vpEOD56UZA",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-05-10T00:27:45.983Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=352FsvMQU3Y",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.989Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=qdcMwR5ShJo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:45.996Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://windpress.info/en/press-release/1032464/psiquantum-appoints-victor-peng-as-interim-ceo-co-founder-jeremy-obrien-to-become-executive-chairman",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:46.004Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=x3IG3elJvZk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:46.008Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.army.mil/article-amp/292316/usace_terminates_chickamauga_lock_chamber_contract",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:46.023Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=BrBLon9n2h4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:46.038Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=jGg_1h0qzaM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:46.044Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://libcurl.js.org/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:46.058Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://www.tradingview.com/news/tradingview:1d329f7d4285f:0-armada-acquisition-corp-iii-1q-2026-net-income-423-41k-eps-0-02-10-q-summary/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:46.061Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=nIb2A5IDyoQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:46.074Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.distillintelligence.com/news/penguin-solutions",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:46.081Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.anthropic.com/product/security",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:46.099Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=jPltE5vh2Po",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:46.111Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=1nDiiXfMUK4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:46.163Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.geologicalservice.eu/news-and-media/2026",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:46.166Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.yahoo.com/news/articles/fda-clears-bright-uro-abdominal-150840419.html",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-10T00:27:46.172Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
 	}
 ]

@@ -1,0 +1,29 @@
+{
+  "id": "JerryAZR-pi-todo-lite",
+  "name": "JerryAZR-pi-todo-lite",
+  "url": "https://github.com/JerryAZR/pi-todo-lite",
+  "source": "github-search",
+  "description": "A lightweight todo list extension for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/JerryAZR/pi-todo-lite",
+    "repo_full_name": "JerryAZR/pi-todo-lite",
+    "description": "A lightweight todo list extension for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-09T09:57:05Z",
+    "pushed_at": "2026-05-09T10:02:58Z",
+    "updated_at": "2026-05-09T10:03:02Z",
+    "size": 20,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

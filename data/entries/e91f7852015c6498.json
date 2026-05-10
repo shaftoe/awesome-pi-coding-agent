@@ -1,0 +1,29 @@
+{
+  "id": "2h2d-co-pi-web-search",
+  "name": "2h2d-co-pi-web-search",
+  "url": "https://github.com/2h2d-co/pi-web-search",
+  "source": "github-search",
+  "description": "A Pi extension package scaffold for web search workflows.",
+  "metadata": {
+    "github_url": "https://github.com/2h2d-co/pi-web-search",
+    "repo_full_name": "2h2d-co/pi-web-search",
+    "description": "A Pi extension package scaffold for web search workflows.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-09T18:05:12Z",
+    "pushed_at": "2026-05-09T18:08:30Z",
+    "updated_at": "2026-05-09T18:08:34Z",
+    "size": 3,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

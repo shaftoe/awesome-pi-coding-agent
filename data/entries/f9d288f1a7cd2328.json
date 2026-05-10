@@ -1,0 +1,29 @@
+{
+  "id": "azmeenafandi-openrouter-params",
+  "name": "azmeenafandi-openrouter-params",
+  "url": "https://github.com/azmeenafandi/openrouter-params",
+  "source": "github-search",
+  "description": "Set temperature, top_p and top_k for OpenRouter models within pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/azmeenafandi/openrouter-params",
+    "repo_full_name": "azmeenafandi/openrouter-params",
+    "description": "Set temperature, top_p and top_k for OpenRouter models within pi coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-09T15:30:17Z",
+    "pushed_at": "2026-05-09T15:51:13Z",
+    "updated_at": "2026-05-09T15:51:17Z",
+    "size": 3,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

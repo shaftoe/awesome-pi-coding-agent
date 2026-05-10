@@ -1,0 +1,21 @@
+{
+  "id": "BRAVE_jsdelivr.com_pi-tokensaver",
+  "name": "pi-tokensaver CDN by jsDelivr - A CDN for npm and GitHub",
+  "url": "https://www.jsdelivr.com/package/npm/pi-tokensaver",
+  "source": "brave-web-search",
+  "description": "A free, fast, and reliable CDN for pi-tokensaver. Give your Pi AI agent a semantic memory — bridges tokensave's Rust-powered local graph engine into your coding workflow for token-efficient codebase exploration",
+  "metadata": {
+    "title": "pi-tokensaver CDN by jsDelivr - A CDN for npm and GitHub",
+    "name": "pi-tokensaver CDN by jsDelivr - A CDN for npm and GitHub",
+    "description": "A free, fast, and reliable CDN for pi-tokensaver. Give your Pi AI agent a semantic memory — bridges tokensave's Rust-powered local graph engine into your coding workflow for token-efficient codebase exploration",
+    "published_at": "2026-05-08T14:40:56",
+    "source_site": "jsDelivr",
+    "source_url": "https://www.jsdelivr.com/package/npm/pi-tokensaver",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

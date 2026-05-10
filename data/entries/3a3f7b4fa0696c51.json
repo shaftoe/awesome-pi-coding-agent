@@ -1,0 +1,29 @@
+{
+  "id": "taimoorchatha-pi-extensions",
+  "name": "taimoorchatha-pi-extensions",
+  "url": "https://github.com/taimoorchatha/pi-extensions",
+  "source": "github-search",
+  "description": "pi coding-agent extensions: pulsing border + per-turn context footer",
+  "metadata": {
+    "github_url": "https://github.com/taimoorchatha/pi-extensions",
+    "repo_full_name": "taimoorchatha/pi-extensions",
+    "description": "pi coding-agent extensions: pulsing border + per-turn context footer",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-09T14:22:08Z",
+    "pushed_at": "2026-05-09T14:47:57Z",
+    "updated_at": "2026-05-09T14:48:01Z",
+    "size": 14,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

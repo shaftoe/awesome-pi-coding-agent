@@ -1,0 +1,29 @@
+{
+  "id": "pedrozadotdev-pi-fallow",
+  "name": "pedrozadotdev-pi-fallow",
+  "url": "https://github.com/pedrozadotdev/pi-fallow",
+  "source": "github-search",
+  "description": "Pi coding agent extension for Fallow",
+  "metadata": {
+    "github_url": "https://github.com/pedrozadotdev/pi-fallow",
+    "repo_full_name": "pedrozadotdev/pi-fallow",
+    "description": "Pi coding agent extension for Fallow",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-09T18:25:38Z",
+    "pushed_at": "2026-05-09T18:25:55Z",
+    "updated_at": "2026-05-09T18:25:59Z",
+    "size": 6,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}
