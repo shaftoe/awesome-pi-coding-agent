@@ -134,3 +134,4 @@ jobs:
             --base main \
             --head "$BRANCH"
           gh pr merge "$BRANCH" --squash
+          git push origin --delete "$BRANCH"
