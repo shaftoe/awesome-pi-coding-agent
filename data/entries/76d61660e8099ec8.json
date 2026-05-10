@@ -3,7 +3,7 @@
   "name": "rnoldo-pi-ext-pomo",
   "url": "https://github.com/rnoldo/pi-ext-pomo",
   "source": "github-search",
-  "description": "Pomodoro + eye/neck/waist health reminder extension for pi coding agent, with countdown status and session  persistence.",
+  "description": "Pomodoro + eye/neck/waist health reminder extension for pi coding agent, with countdown status and session persistence.",
   "metadata": {
     "github_url": "https://github.com/rnoldo/pi-ext-pomo",
     "repo_full_name": "rnoldo/pi-ext-pomo",

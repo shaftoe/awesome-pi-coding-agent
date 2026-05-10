@@ -14,7 +14,7 @@
     "discovery_hint": "brave:pi-coding-agent"
   },
   "health": {
-    "score": 39,
+    "score": 32,
     "level": "stale"
   },
   "category": "article"

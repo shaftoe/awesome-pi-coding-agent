@@ -3,32 +3,35 @@
   "name": "pi-gemini-acp",
   "url": "https://www.npmjs.com/package/pi-gemini-acp",
   "source": "npm-search",
-  "description": "Gemini ACP search and research provider for Pi.",
+  "description": "Adds Gemini ACP tools for prompt, search, research, extraction, summarization, code review, translation, image analysis in Pi",
   "metadata": {
     "github_url": "https://github.com/brandonkramer/pi-gemini-acp",
-    "npm_name": "pi-gemini-acp",
-    "description": "Gemini ACP search and research provider for Pi.",
-    "keywords": [
-      "pi-package",
-      "pi-extension",
+    "repo_full_name": "brandonkramer/pi-gemini-acp",
+    "description": "Adds Gemini ACP tools for prompt, search, research, extraction, summarization, code review, translation, image analysis in Pi",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
       "gemini",
-      "acp",
-      "web-search",
-      "research"
+      "pi",
+      "pi-agent-extension",
+      "pi-extension",
+      "pi-package",
+      "web-research",
+      "web-search"
     ],
-    "version": "0.2.0",
-    "published_at": "2026-05-02T06:00:52.916Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-02T04:44:22Z",
+    "pushed_at": "2026-05-09T19:48:12Z",
+    "updated_at": "2026-05-09T23:59:39Z",
+    "size": 576,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 72,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

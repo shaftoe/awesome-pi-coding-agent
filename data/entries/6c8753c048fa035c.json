@@ -1,0 +1,21 @@
+{
+  "id": "BRAVE_npmx.dev_pi-init",
+  "name": "pi-init - npmx",
+  "url": "https://npmx.dev/package/pi-init",
+  "source": "brave-web-search",
+  "description": "A pi agent skill to initialize or update AGENTS.md context files.",
+  "metadata": {
+    "title": "pi-init - npmx",
+    "name": "pi-init - npmx",
+    "description": "A pi agent skill to initialize or update AGENTS.md context files.",
+    "published_at": null,
+    "source_site": "npmx",
+    "source_url": "https://npmx.dev/package/pi-init",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "health": {
+    "score": 13,
+    "level": "dead"
+  },
+  "category": "article"
+}

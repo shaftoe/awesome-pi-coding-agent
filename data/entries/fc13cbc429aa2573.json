@@ -3,27 +3,32 @@
   "name": "@tmustier/extending-pi",
   "url": "https://www.npmjs.com/package/@tmustier/extending-pi",
   "source": "npm-search",
-  "description": "Guide for extending Pi — skills, extensions, prompt templates, themes, and packaging.",
+  "description": "A set of delightful extensions for Pi",
   "metadata": {
     "github_url": "https://github.com/tmustier/pi-extensions",
-    "npm_name": "@tmustier/extending-pi",
-    "description": "Guide for extending Pi — skills, extensions, prompt templates, themes, and packaging.",
-    "keywords": [
-      "pi-package"
+    "repo_full_name": "tmustier/pi-extensions",
+    "description": "A set of delightful extensions for Pi",
+    "stars": 303,
+    "forks": 19,
+    "open_issues": 7,
+    "topics": [
+      "extension",
+      "npm",
+      "pi",
+      "pi-coding-agent"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-04-19T16:00:19.814Z",
-    "npm_downloads_monthly": 156,
-    "npm_downloads_weekly": 141,
-    "npm_score_final": 19.082733,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-01-06T14:58:20Z",
+    "pushed_at": "2026-05-07T16:05:54Z",
+    "updated_at": "2026-05-10T08:54:54Z",
+    "size": 12752,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 82,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

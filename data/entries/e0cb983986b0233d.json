@@ -3,7 +3,7 @@
   "name": "arcanemachine-pi-subagent",
   "url": "https://github.com/arcanemachine/pi-subagent",
   "source": "github-search",
-  "description": "A pi extension that enables spawning sub-agents via RPC for parallel task execution. ",
+  "description": "A pi extension that enables spawning sub-agents via RPC for parallel task execution.",
   "metadata": {
     "github_url": "https://github.com/arcanemachine/pi-subagent",
     "repo_full_name": "arcanemachine/pi-subagent",
@@ -15,9 +15,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-01T05:40:49Z",
-    "pushed_at": "2026-04-27T04:53:49Z",
-    "updated_at": "2026-04-27T04:53:53Z",
-    "size": 135,
+    "pushed_at": "2026-05-10T06:05:52Z",
+    "updated_at": "2026-05-10T06:05:56Z",
+    "size": 207,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

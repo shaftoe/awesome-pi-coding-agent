@@ -3,33 +3,27 @@
   "name": "pi-wechat",
   "url": "https://www.npmjs.com/package/pi-wechat",
   "source": "npm-search",
-  "description": "WeChat iLink bot extension for Pi coding agent",
+  "description": "Add Wechat Channel For Your Pi Agent",
   "metadata": {
     "github_url": "https://github.com/yangyang0507/pi-wechat",
-    "npm_name": "pi-wechat",
-    "description": "WeChat iLink bot extension for Pi coding agent",
-    "keywords": [
-      "pi",
-      "pi-package",
-      "pi-extension",
-      "wechat",
-      "ilink",
-      "bot",
-      "agent"
-    ],
-    "version": "0.1.0",
-    "published_at": "2026-03-23T08:21:29.291Z",
-    "npm_downloads_monthly": 23,
-    "npm_downloads_weekly": 7,
-    "npm_score_final": 11.301314,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "repo_full_name": "yangyang0507/pi-wechat",
+    "description": "Add Wechat Channel For Your Pi Agent",
+    "stars": 6,
+    "forks": 2,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-23T07:55:30Z",
+    "pushed_at": "2026-03-23T08:20:37Z",
+    "updated_at": "2026-03-27T07:24:47Z",
+    "size": 47,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 69,
-    "level": "maintained"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

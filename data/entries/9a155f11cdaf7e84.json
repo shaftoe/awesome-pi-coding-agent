@@ -1,0 +1,33 @@
+{
+  "id": "pi-spawn",
+  "name": "pi-spawn",
+  "url": "https://www.npmjs.com/package/pi-spawn",
+  "source": "npm-search",
+  "description": "Minimal subagent extension for pi — one tool, one prompt, orchestrator-driven concurrency",
+  "metadata": {
+    "github_url": "https://github.com/agenticoding/pi-spawn",
+    "npm_name": "pi-spawn",
+    "description": "Minimal subagent extension for pi — one tool, one prompt, orchestrator-driven concurrency",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "subagent",
+      "spawn"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-10T05:29:24.460Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

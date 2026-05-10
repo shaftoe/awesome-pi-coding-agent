@@ -1,30 +1,36 @@
 {
-	"id": "pi-ralph",
-	"name": "pi-ralph",
-	"url": "https://www.npmjs.com/package/pi-ralph",
-	"source": "npm-search",
-	"description": "Hat-based multi-agent orchestration loops for pi. Keeps the agent iterating through specialized roles (Planner, Builder, Reviewer, etc.) until a task is complete.",
-	"metadata": {
-		"github_url": "https://github.com/samfoy/pi-ralph",
-		"npm_name": "pi-ralph",
-		"description": "Hat-based multi-agent orchestration loops for pi. Keeps the agent iterating through specialized roles (Planner, Builder, Reviewer, etc.) until a task is complete.",
-		"keywords": [
-			"pi-package",
-			"extension"
-		],
-		"version": "1.0.1",
-		"published_at": "2026-03-14T22:52:31.801Z",
-		"npm_downloads_monthly": 45,
-		"npm_downloads_weekly": 9,
-		"npm_score_final": 13.887967,
-		"npm_score_popularity": 1,
-		"npm_score_quality": 1,
-		"npm_score_maintenance": 1,
-		"discovery_hint": "npm:keywords:pi-package"
-	},
-	"health": {
-		"score": 69,
-		"level": "maintained"
-	},
-	"category": "extension"
+  "id": "pi-ralph",
+  "name": "pi-ralph",
+  "url": "https://www.npmjs.com/package/pi-ralph",
+  "source": "npm-search",
+  "description": "Hat-based multi-agent orchestration loops for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/samfoy/pi-ralph",
+    "repo_full_name": "samfoy/pi-ralph",
+    "description": "Hat-based multi-agent orchestration loops for pi coding agent",
+    "stars": 11,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "ai-coding-agent",
+      "autonomous-agents",
+      "developer-tools",
+      "multi-agent",
+      "orchestration",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-04T03:45:24Z",
+    "pushed_at": "2026-04-21T19:24:37Z",
+    "updated_at": "2026-05-05T15:32:09Z",
+    "size": 224,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
 }

@@ -3,36 +3,38 @@
   "name": "@p8n.ai/pi-remembers",
   "url": "https://www.npmjs.com/package/@p8n.ai/pi-remembers",
   "source": "npm-search",
-  "description": "Pi extension for persistent agent memory and project search powered by Cloudflare AI Search. The North Remembers.",
+  "description": "Persistent memory and project search for the Pi coding agent, powered by Cloudflare AI Search. The North Remembers. 🧠",
   "metadata": {
     "github_url": "https://github.com/p8n-ai/pi-remembers",
-    "npm_name": "@p8n.ai/pi-remembers",
-    "description": "Pi extension for persistent agent memory and project search powered by Cloudflare AI Search. The North Remembers.",
-    "keywords": [
-      "pi-package",
-      "pi",
-      "pi-coding-agent",
-      "cloudflare",
+    "repo_full_name": "p8n-ai/pi-remembers",
+    "description": "Persistent memory and project search for the Pi coding agent, powered by Cloudflare AI Search. The North Remembers. 🧠 ",
+    "stars": 3,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "agent-memory",
       "ai-search",
-      "memory",
-      "agents",
+      "cloudflare",
+      "hybird-search",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-memory",
       "rag",
-      "vector-search",
-      "the-north-remembers"
+      "skills-sh",
+      "vector-search"
     ],
-    "version": "0.3.0",
-    "published_at": "2026-04-22T15:27:47.051Z",
-    "npm_downloads_monthly": 356,
-    "npm_downloads_weekly": 356,
-    "npm_score_final": 22.787024,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-19T01:51:25Z",
+    "pushed_at": "2026-05-03T09:32:15Z",
+    "updated_at": "2026-05-10T00:26:45Z",
+    "size": 309,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 82,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

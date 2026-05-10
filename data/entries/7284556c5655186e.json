@@ -1,38 +1,40 @@
 {
-	"id": "@pi-agents/loop",
-	"name": "@pi-agents/loop",
-	"url": "https://www.npmjs.com/package/@pi-agents/loop",
-	"source": "npm-search",
-	"description": "Recurring prompt execution and cron scheduling for pi-agent — /loop, cron_create, cron_delete, cron_list",
-	"metadata": {
-		"github_url": "https://github.com/ArtemisAI/pi-loop",
-		"npm_name": "@pi-agents/loop",
-		"description": "Recurring prompt execution and cron scheduling for pi-agent — /loop, cron_create, cron_delete, cron_list",
-		"keywords": [
-			"pi",
-			"pi-package",
-			"pi-extension",
-			"pi-coding-agent",
-			"pi-agent",
-			"loop",
-			"cron",
-			"scheduler",
-			"recurring",
-			"automation"
-		],
-		"version": "0.3.1",
-		"published_at": "2026-04-17T15:32:09.950Z",
-		"npm_downloads_monthly": 519,
-		"npm_downloads_weekly": 212,
-		"npm_score_final": 24.285984,
-		"npm_score_popularity": 1,
-		"npm_score_quality": 1,
-		"npm_score_maintenance": 1,
-		"discovery_hint": "npm:keywords:pi-package"
-	},
-	"health": {
-		"score": 82,
-		"level": "active"
-	},
-	"category": "extension"
+  "id": "@pi-agents/loop",
+  "name": "@pi-agents/loop",
+  "url": "https://www.npmjs.com/package/@pi-agents/loop",
+  "source": "npm-search",
+  "description": "Recurring prompt scheduling and cron job management for pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/ArtemisAI/pi-loop",
+    "repo_full_name": "ArtemisAI/pi-loop",
+    "description": "Recurring prompt scheduling and cron job management for pi-coding-agent",
+    "stars": 7,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "automation",
+      "cron",
+      "extension",
+      "loop",
+      "pi",
+      "pi-agent",
+      "pi-coding-agent",
+      "pi-package",
+      "recurring",
+      "scheduler"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-13T18:30:18Z",
+    "pushed_at": "2026-04-17T17:45:13Z",
+    "updated_at": "2026-05-09T23:56:06Z",
+    "size": 9411,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
 }

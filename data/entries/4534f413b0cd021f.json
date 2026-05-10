@@ -1,36 +1,32 @@
 {
-	"id": "pi-observability",
-	"name": "pi-observability",
-	"url": "https://www.npmjs.com/package/pi-observability",
-	"source": "npm-search",
-	"description": "Live observability dashboard for pi coding agent sessions — tokens, cost, TPS, runtime, git stats, and context usage",
-	"metadata": {
-		"github_url": "https://github.com/imran-vz/pi-observability",
-		"npm_name": "pi-observability",
-		"description": "Live observability dashboard for pi coding agent sessions — tokens, cost, TPS, runtime, git stats, and context usage",
-		"keywords": [
-			"pi-package",
-			"pi-extension",
-			"observability",
-			"dashboard",
-			"tokens",
-			"cost-tracking",
-			"tps",
-			"cli"
-		],
-		"version": "1.0.1",
-		"published_at": "2026-04-18T11:08:35.288Z",
-		"npm_downloads_monthly": 267,
-		"npm_downloads_weekly": 267,
-		"npm_score_final": 21.56248,
-		"npm_score_popularity": 1,
-		"npm_score_quality": 1,
-		"npm_score_maintenance": 1,
-		"discovery_hint": "npm:keywords:pi-package"
-	},
-	"health": {
-		"score": 82,
-		"level": "active"
-	},
-	"category": "extension"
+  "id": "pi-observability",
+  "name": "pi-observability",
+  "url": "https://www.npmjs.com/package/pi-observability",
+  "source": "npm-search",
+  "description": "A pi extension that replaces the default footer with a live observability bar and provides a full dashboard command.",
+  "metadata": {
+    "github_url": "https://github.com/imran-vz/pi-observability",
+    "repo_full_name": "imran-vz/pi-observability",
+    "description": "A pi extension that replaces the default footer with a live observability bar and provides a full dashboard command.",
+    "stars": 7,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-coding-agent",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-18T08:35:31Z",
+    "pushed_at": "2026-04-29T12:20:07Z",
+    "updated_at": "2026-05-01T22:58:45Z",
+    "size": 14375,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
 }

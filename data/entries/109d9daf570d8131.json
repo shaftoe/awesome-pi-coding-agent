@@ -3,7 +3,7 @@
   "name": "jerryfan-pi-download",
   "url": "https://github.com/jerryfan/pi-download",
   "source": "github-search",
-  "description": "Pi extension: /dl <url> downloads YouTube video/audio/subtitles and emits an exact-word transcript bundle.",
+  "description": "Pi extension: /dl downloads YouTube video/audio/subtitles and emits an exact-word transcript bundle.",
   "metadata": {
     "github_url": "https://github.com/jerryfan/pi-download",
     "repo_full_name": "jerryfan/pi-download",

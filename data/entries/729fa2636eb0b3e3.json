@@ -1,0 +1,31 @@
+{
+  "id": "karlis-vagalis-pi-lib",
+  "name": "karlis-vagalis-pi-lib",
+  "url": "https://github.com/karlis-vagalis/pi-lib",
+  "source": "github-search",
+  "description": "A custom set of pi coding agent extensions and related config",
+  "metadata": {
+    "github_url": "https://github.com/karlis-vagalis/pi-lib",
+    "repo_full_name": "karlis-vagalis/pi-lib",
+    "description": "A custom set of pi coding agent extensions and related config",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-10T06:57:22Z",
+    "pushed_at": "2026-05-10T07:50:48Z",
+    "updated_at": "2026-05-10T07:50:52Z",
+    "size": 28,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

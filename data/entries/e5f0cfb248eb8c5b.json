@@ -1,32 +1,39 @@
 {
-	"id": "pi-1password",
-	"name": "pi-1password",
-	"url": "https://www.npmjs.com/package/pi-1password",
-	"source": "npm-search",
-	"description": "1Password Pi coding agent secret management",
-	"metadata": {
-		"github_url": "https://github.com/kylebrodeur/1password-ssh-setup",
-		"npm_name": "pi-1password",
-		"description": "1Password Pi coding agent secret management",
-		"keywords": [
-			"1password",
-			"pi-package",
-			"agent",
-			"secrets"
-		],
-		"version": "0.3.5",
-		"published_at": "2026-04-25T17:45:55.874Z",
-		"npm_downloads_monthly": 1172,
-		"npm_downloads_weekly": 883,
-		"npm_score_final": 28.201899,
-		"npm_score_popularity": 1,
-		"npm_score_quality": 1,
-		"npm_score_maintenance": 1,
-		"discovery_hint": "npm:keywords:pi-package"
-	},
-	"health": {
-		"score": 91,
-		"level": "active"
-	},
-	"category": "extension"
+  "id": "pi-1password",
+  "name": "pi-1password",
+  "url": "https://www.npmjs.com/package/pi-1password",
+  "source": "npm-search",
+  "description": "Complete system for managing SSH keys and secrets using 1Password CLI with Pi coding agent integration. Features Service Account authentication, cascading environments, and SSH agent keychain.",
+  "metadata": {
+    "github_url": "https://github.com/kylebrodeur/1password-ssh-setup",
+    "repo_full_name": "kylebrodeur/1password-ssh-setup",
+    "description": "Complete system for managing SSH keys and secrets using 1Password CLI with Pi coding agent integration. Features Service Account authentication, cascading environments, and SSH agent keychain.",
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [
+      "1password",
+      "agent-skills",
+      "automation",
+      "cli",
+      "keychain",
+      "pi-package",
+      "secrets",
+      "security",
+      "ssh"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-14T16:23:19Z",
+    "pushed_at": "2026-04-25T17:40:28Z",
+    "updated_at": "2026-05-10T01:29:41Z",
+    "size": 350,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
 }

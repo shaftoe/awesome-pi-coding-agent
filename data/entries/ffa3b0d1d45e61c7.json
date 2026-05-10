@@ -3,31 +3,30 @@
   "name": "pi-extension-manager",
   "url": "https://www.npmjs.com/package/pi-extension-manager",
   "source": "npm-search",
-  "description": "Interactive extension and package manager for Pi",
+  "description": "Enhanced UX for managing local Pi extensions and community packages",
   "metadata": {
     "github_url": "https://github.com/victor-software-house/pi-extension-manager",
-    "npm_name": "pi-extension-manager",
-    "description": "Interactive extension and package manager for Pi",
-    "keywords": [
-      "pi-package",
-      "pi-extension",
-      "pi-coding-agent",
-      "extensions",
-      "manager"
+    "repo_full_name": "victor-software-house/pi-extension-manager",
+    "description": "Enhanced UX for managing local Pi extensions and community packages",
+    "stars": 14,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-ecosystem"
     ],
-    "version": "0.8.2",
-    "published_at": "2026-03-31T05:12:19.870Z",
-    "npm_downloads_monthly": 2185,
-    "npm_downloads_weekly": 165,
-    "npm_score_final": 30.388735,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-27T13:58:30Z",
+    "pushed_at": "2026-03-31T05:15:03Z",
+    "updated_at": "2026-05-08T15:28:36Z",
+    "size": 1773,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 91,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

@@ -11,13 +11,13 @@
     "channel": "Venelin Valkov",
     "published_at": "2026-04-07T08:46:01Z",
     "thumbnail": "https://i.ytimg.com/vi/ttklS6Yp0O8/hqdefault.jpg",
-    "views": 3730,
-    "likes": 45,
-    "comments": 7,
+    "views": 4229,
+    "likes": 50,
+    "comments": 8,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 59,
+    "score": 52,
     "level": "maintained"
   },
   "category": "video"

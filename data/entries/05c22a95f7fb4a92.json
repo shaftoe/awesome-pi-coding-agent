@@ -1,0 +1,40 @@
+{
+  "id": "@codingcoffee/pi-privacy-filter",
+  "name": "@codingcoffee/pi-privacy-filter",
+  "url": "https://www.npmjs.com/package/@codingcoffee/pi-privacy-filter",
+  "source": "npm-search",
+  "description": "pi extension that redacts PII/secrets before sending to the LLM and restores them in responses",
+  "metadata": {
+    "github_url": "https://github.com/codingcoffee/pi-privacy-filter",
+    "npm_name": "@codingcoffee/pi-privacy-filter",
+    "description": "pi extension that redacts PII/secrets before sending to the LLM and restores them in responses",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "llm-tools",
+      "pi-coding-agent",
+      "privacy",
+      "filter",
+      "privacy-filter",
+      "redact",
+      "secrets",
+      "llm",
+      "agent"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-10T08:06:46.346Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

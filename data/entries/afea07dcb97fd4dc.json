@@ -3,30 +3,31 @@
   "name": "@carlosgtrz/pi-codex-aliases",
   "url": "https://www.npmjs.com/package/@carlosgtrz/pi-codex-aliases",
   "source": "npm-search",
-  "description": "Pi extension that adds personal and work aliases for the built-in OpenAI Codex provider.",
+  "description": "Pi extension with read_ansi, write_ansi, and edit_ansi tools for legacy-encoded source files.",
   "metadata": {
     "github_url": "https://github.com/CarlosGtrz/carlosgtrz-pi-extensions",
-    "npm_name": "@carlosgtrz/pi-codex-aliases",
-    "description": "Pi extension that adds personal and work aliases for the built-in OpenAI Codex provider.",
+    "npm_name": "@carlosgtrz/pi-ansi-tools",
+    "description": "Pi extension with read_ansi, write_ansi, and edit_ansi tools for legacy-encoded source files.",
     "keywords": [
       "pi-package",
       "pi-extension",
       "pi-coding-agent",
-      "codex",
-      "openai"
+      "ansi",
+      "windows-1252",
+      "clarion"
     ],
-    "version": "0.1.2",
-    "published_at": "2026-04-29T04:46:50.219Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.1.1",
+    "published_at": "2026-04-29T02:07:41.196Z",
+    "npm_downloads_monthly": 207,
+    "npm_downloads_weekly": 207,
+    "npm_score_final": 19.80983,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 72,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

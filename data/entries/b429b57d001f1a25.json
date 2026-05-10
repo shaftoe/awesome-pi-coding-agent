@@ -6,29 +6,32 @@
   "description": "ChatGPT web-oracle extension for pi with isolated browser auth, async jobs, and project-context archives.",
   "metadata": {
     "github_url": "https://github.com/fitchmultz/pi-oracle",
-    "npm_name": "pi-oracle",
+    "repo_full_name": "fitchmultz/pi-oracle",
     "description": "ChatGPT web-oracle extension for pi with isolated browser auth, async jobs, and project-context archives.",
-    "keywords": [
-      "pi-package",
+    "stars": 14,
+    "forks": 6,
+    "open_issues": 0,
+    "topics": [
+      "chatgpt",
+      "extension",
+      "npm-package",
+      "oracle",
       "pi",
       "pi-extension",
-      "extension",
-      "chatgpt",
-      "oracle"
+      "pi-package"
     ],
-    "version": "0.6.10",
-    "published_at": "2026-04-24T02:40:23.721Z",
-    "npm_downloads_monthly": 3849,
-    "npm_downloads_weekly": 494,
-    "npm_score_final": 33.01934,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-02T16:18:48Z",
+    "pushed_at": "2026-05-07T23:45:17Z",
+    "updated_at": "2026-05-07T23:45:19Z",
+    "size": 1044,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 91,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

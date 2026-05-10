@@ -1,33 +1,36 @@
 {
-	"id": "@samfp/pi-memory",
-	"name": "@samfp/pi-memory",
-	"url": "https://www.npmjs.com/package/@samfp/pi-memory",
-	"source": "npm-search",
-	"description": "Persistent memory for pi — learns corrections, preferences, and patterns from sessions and injects them into future conversations.",
-	"metadata": {
-		"github_url": "https://github.com/samfoy/pi-memory",
-		"npm_name": "@samfp/pi-memory",
-		"description": "Persistent memory for pi — learns corrections, preferences, and patterns from sessions and injects them into future conversations.",
-		"keywords": [
-			"pi-package",
-			"extension",
-			"memory",
-			"learning",
-			"preferences"
-		],
-		"version": "1.0.1",
-		"published_at": "2026-04-24T13:38:12.912Z",
-		"npm_downloads_monthly": 6048,
-		"npm_downloads_weekly": 1956,
-		"npm_score_final": 35.002525,
-		"npm_score_popularity": 1,
-		"npm_score_quality": 1,
-		"npm_score_maintenance": 1,
-		"discovery_hint": "npm:keywords:pi-package"
-	},
-	"health": {
-		"score": 91,
-		"level": "active"
-	},
-	"category": "extension"
+  "id": "@samfp/pi-memory",
+  "name": "@samfp/pi-memory",
+  "url": "https://www.npmjs.com/package/@samfp/pi-memory",
+  "source": "npm-search",
+  "description": "Persistent memory for pi — learns corrections, preferences, and patterns from sessions",
+  "metadata": {
+    "github_url": "https://github.com/samfoy/pi-memory",
+    "repo_full_name": "samfoy/pi-memory",
+    "description": "Persistent memory for pi — learns corrections, preferences, and patterns from sessions",
+    "stars": 52,
+    "forks": 12,
+    "open_issues": 2,
+    "topics": [
+      "agent-memory",
+      "ai-coding-agent",
+      "developer-tools",
+      "memory",
+      "persistent-memory",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-19T21:52:47Z",
+    "pushed_at": "2026-05-07T21:25:38Z",
+    "updated_at": "2026-05-10T02:10:25Z",
+    "size": 95,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
 }

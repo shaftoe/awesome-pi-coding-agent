@@ -3,11 +3,11 @@
   "name": "@m4xx101/vibeshack",
   "url": "https://www.npmjs.com/package/@m4xx101/vibeshack",
   "source": "npm-search",
-  "description": "Context-aware vibe-hacking harness on pi-mono. Hypothesis-tree REPL, graphify-backed recall, on-the-fly tool synthesis. Authorized testing only.",
+  "description": "Autonomous security testing harness for pi-mono. Expert hacker persona, hypothesis-tree REPL, tool auto-install, pipeline chaining, 30+ bug-bounty tools, self-evolving skills. Find vulnerabilities, chain exploits, write PoC reports. Authorized testing onl",
   "metadata": {
     "github_url": "https://github.com/m4xx101/pi-vibehack",
     "npm_name": "@m4xx101/vibeshack",
-    "description": "Context-aware vibe-hacking harness on pi-mono. Hypothesis-tree REPL, graphify-backed recall, on-the-fly tool synthesis. Authorized testing only.",
+    "description": "Autonomous security testing harness for pi-mono. Expert hacker persona, hypothesis-tree REPL, tool auto-install, pipeline chaining, 30+ bug-bounty tools, self-evolving skills. Find vulnerabilities, chain exploits, write PoC reports. Authorized testing onl",
     "keywords": [
       "pi-mono",
       "pi-agent",
@@ -22,18 +22,18 @@
       "vibe-hacking",
       "vibehack"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-05-02T10:55:47.843Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "1.5.1",
+    "published_at": "2026-05-06T22:56:42.433Z",
+    "npm_downloads_monthly": 1608,
+    "npm_downloads_weekly": 1608,
+    "npm_score_final": 43.484493,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-agent"
   },
   "health": {
-    "score": 72,
+    "score": 91,
     "level": "active"
   },
   "category": "extension"

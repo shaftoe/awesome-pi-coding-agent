@@ -8,7 +8,7 @@
     "github_url": "https://github.com/siarhei-belavus/agent-public",
     "repo_full_name": "siarhei-belavus/agent-public",
     "description": "Sanitized open-source Pi agent configuration, skills, and extensions",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-29T11:24:39Z",
     "pushed_at": "2026-04-29T11:27:07Z",
-    "updated_at": "2026-04-29T11:34:57Z",
+    "updated_at": "2026-05-04T15:44:34Z",
     "size": 3244,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

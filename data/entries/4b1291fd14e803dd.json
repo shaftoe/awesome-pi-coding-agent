@@ -24,10 +24,10 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-05T02:27:15Z",
-    "pushed_at": "2026-05-05T11:21:47Z",
-    "updated_at": "2026-05-05T11:23:21Z",
-    "size": 73,
-    "license": "Apache-2.0",
+    "pushed_at": "2026-05-06T06:53:39Z",
+    "updated_at": "2026-05-06T06:53:42Z",
+    "size": 74,
+    "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {

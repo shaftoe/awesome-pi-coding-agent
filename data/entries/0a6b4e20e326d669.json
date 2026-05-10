@@ -10,19 +10,19 @@
     "description": "Pi coding agent extension for querying Splunk Cloud logs — OAuth2 + bearer token auth",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-22T05:25:26Z",
-    "pushed_at": "2026-04-22T05:25:29Z",
+    "pushed_at": "2026-04-29T22:35:42Z",
     "updated_at": "2026-04-22T05:25:33Z",
-    "size": 44,
+    "size": 80,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
+    "score": 58,
     "level": "maintained"
   },
   "category": "extension"

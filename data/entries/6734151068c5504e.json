@@ -3,7 +3,7 @@
   "name": "Baseline-Systems-pi-mcp",
   "url": "https://github.com/Baseline-Systems/pi-mcp",
   "source": "github-search",
-  "description": "MCP server that exposes the [Pi coding agent](https://github.com/badlogic/pi-mono) as tools callable from any MCP client (Claude Code, etc.).  Designed for multi-turn design discussions and adversarial reviews using models like GLM-5.1 via OpenRouter, without making the orchestrating agent shell out to `pi` on every turn.",
+  "description": "MCP server that exposes the [Pi coding agent](https://github.com/badlogic/pi-mono) as tools callable from any MCP client (Claude Code, etc.). Designed for multi-turn design discussions and adversarial reviews using models like GLM-5.1 via OpenRouter, without making the orchestrating agent shell out to `pi` on every turn.",
   "metadata": {
     "github_url": "https://github.com/Baseline-Systems/pi-mcp",
     "repo_full_name": "Baseline-Systems/pi-mcp",

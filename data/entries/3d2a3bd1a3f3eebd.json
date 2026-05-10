@@ -1,33 +1,29 @@
 {
-	"id": "@gordonb/pi-memory-blocks",
-	"name": "@gordonb/pi-memory-blocks",
-	"url": "https://www.npmjs.com/package/@gordonb/pi-memory-blocks",
-	"source": "npm-search",
-	"description": "Letta-style persistent memory blocks for Pi coding agents",
-	"metadata": {
-		"github_url": "https://github.com/gordonbrander/pi-memory-blocks",
-		"npm_name": "@gordonb/pi-memory-blocks",
-		"description": "Letta-style persistent memory blocks for Pi coding agents",
-		"keywords": [
-			"pi-package",
-			"memory",
-			"letta",
-			"memgpt",
-			"coding-agent"
-		],
-		"version": "0.3.0",
-		"published_at": "2026-03-10T08:09:59.562Z",
-		"npm_downloads_monthly": 27,
-		"npm_downloads_weekly": 3,
-		"npm_score_final": 11.613904,
-		"npm_score_popularity": 1,
-		"npm_score_quality": 1,
-		"npm_score_maintenance": 1,
-		"discovery_hint": "npm:keywords:pi-package"
-	},
-	"health": {
-		"score": 69,
-		"level": "maintained"
-	},
-	"category": "extension"
+  "id": "@gordonb/pi-memory-blocks",
+  "name": "@gordonb/pi-memory-blocks",
+  "url": "https://www.npmjs.com/package/@gordonb/pi-memory-blocks",
+  "source": "npm-search",
+  "description": "Letta-style memory blocks for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/gordonbrander/pi-memory-blocks",
+    "repo_full_name": "gordonbrander/pi-memory-blocks",
+    "description": "Letta-style memory blocks for Pi coding agent",
+    "stars": 5,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-08T04:02:43Z",
+    "pushed_at": "2026-03-10T08:09:36Z",
+    "updated_at": "2026-03-17T17:30:36Z",
+    "size": 179,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
 }

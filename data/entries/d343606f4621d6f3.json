@@ -3,7 +3,7 @@
   "name": "gregmercer-pi-agent-examples",
   "url": "https://github.com/gregmercer/pi-agent-examples",
   "source": "github-search",
-  "description": "Examples from [How to Build a Custom Agent Framework](https://nader.substack.com/p/how-to-build-a-custom-agent-framework).  Built with the `@mariozechner/pi-ai` and `@mariozechner/pi-agent-core` libraries.",
+  "description": "Examples from [How to Build a Custom Agent Framework](https://nader.substack.com/p/how-to-build-a-custom-agent-framework). Built with the `@mariozechner/pi-ai` and `@mariozechner/pi-agent-core` libraries.",
   "metadata": {
     "github_url": "https://github.com/gregmercer/pi-agent-examples",
     "repo_full_name": "gregmercer/pi-agent-examples",

@@ -3,32 +3,27 @@
   "name": "@eliemessiecode/pi-mcp",
   "url": "https://www.npmjs.com/package/@eliemessiecode/pi-mcp",
   "source": "npm-search",
-  "description": "Connect MCP (Model Context Protocol) HTTP servers to Pi agent. Auto-discover and use MCP tools.",
+  "description": "pi-mcp is a Pi coding agent extension that allows connecting to MCP (Model Context Protocol) HTTP servers. It auto-discovers tools from MCP servers and registers them as native Pi tools. Features: Connect to MCP servers via Streamable HTTP or SSE, Auto-discover and register MCP tools, Global and per-project server configurations",
   "metadata": {
     "github_url": "https://github.com/ElieMessieCode/pi-mcp",
-    "npm_name": "@eliemessiecode/pi-mcp",
-    "description": "Connect MCP (Model Context Protocol) HTTP servers to Pi agent. Auto-discover and use MCP tools.",
-    "keywords": [
-      "pi-package",
-      "mcp",
-      "model-context-protocol",
-      "extension",
-      "ai-agent",
-      "tools"
-    ],
-    "version": "1.2.2",
-    "published_at": "2026-03-15T17:10:57.641Z",
-    "npm_downloads_monthly": 97,
-    "npm_downloads_weekly": 23,
-    "npm_score_final": 17.041124,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "repo_full_name": "ElieMessieCode/pi-mcp",
+    "description": "pi-mcp is a Pi coding agent extension that allows connecting to MCP (Model Context Protocol) HTTP servers. It auto-discovers tools from MCP servers and registers them as native Pi tools. Features: Connect to MCP servers via Streamable HTTP or SSE, Auto-discover and register MCP tools, Global and per-project server configurations",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-15T15:27:53Z",
+    "pushed_at": "2026-03-15T17:10:11Z",
+    "updated_at": "2026-04-01T01:59:59Z",
+    "size": 83,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 69,
-    "level": "maintained"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

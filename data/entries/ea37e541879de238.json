@@ -6,33 +6,37 @@
   "description": "Permission enforcement extension for the Pi coding agent.",
   "metadata": {
     "github_url": "https://github.com/MasuRii/pi-permission-system",
-    "npm_name": "pi-permission-system",
+    "repo_full_name": "MasuRii/pi-permission-system",
     "description": "Permission enforcement extension for the Pi coding agent.",
-    "keywords": [
-      "pi-package",
-      "pi",
-      "pi-extension",
-      "pi-coding-agent",
-      "coding-agent",
-      "permissions",
-      "policy",
+    "stars": 46,
+    "forks": 10,
+    "open_issues": 1,
+    "topics": [
       "access-control",
       "authorization",
-      "security"
+      "coding-agent",
+      "hack",
+      "permissions",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-security",
+      "policy",
+      "security",
+      "typescript"
     ],
-    "version": "0.4.5",
-    "published_at": "2026-04-27T13:26:53.570Z",
-    "npm_downloads_monthly": 1086,
-    "npm_downloads_weekly": 550,
-    "npm_score_final": 28.184498,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-02T07:22:21Z",
+    "pushed_at": "2026-05-04T16:55:54Z",
+    "updated_at": "2026-05-09T05:52:33Z",
+    "size": 1563,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 91,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

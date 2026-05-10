@@ -3,7 +3,7 @@
   "name": "stefanerdmann-pi-security-scanner",
   "url": "https://github.com/stefanerdmann/pi-security-scanner",
   "source": "github-search",
-  "description": "Extension for pi coding agent. Analyzes third-party pi extensions for threats including data exfiltration, arbitrary execution, filesystem abuse, network communication,  privilege escalation, obfuscation, and supply chain attacks. Uses LLM-primary analysis with structured threat categories and severity levels. Outputs scan reports with findings",
+  "description": "Extension for pi coding agent. Analyzes third-party pi extensions for threats including data exfiltration, arbitrary execution, filesystem abuse, network communication, privilege escalation, obfuscation, and supply chain attacks. Uses LLM-primary analysis with structured threat categories and severity levels. Outputs scan reports with findings",
   "metadata": {
     "github_url": "https://github.com/stefanerdmann/pi-security-scanner",
     "repo_full_name": "stefanerdmann/pi-security-scanner",

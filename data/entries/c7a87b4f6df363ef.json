@@ -10,7 +10,7 @@
     "description": "Discord bot runtime for pi-coding-agent — guild workspaces, thread sessions, access control",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "pi-extension"
     ],
@@ -24,7 +24,7 @@
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 53,
+    "score": 61,
     "level": "maintained"
   },
   "category": "misc"

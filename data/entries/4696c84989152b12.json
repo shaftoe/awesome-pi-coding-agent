@@ -3,7 +3,7 @@
   "name": "ephes-pi-extensions",
   "url": "https://github.com/ephes/pi-extensions",
   "source": "github-search",
-  "description": " A monorepo of Pi coding agent extensions that adds reliable, reusable tools for search, web access, and  workflow automation.",
+  "description": "A monorepo of Pi coding agent extensions that adds reliable, reusable tools for search, web access, and workflow automation.",
   "metadata": {
     "github_url": "https://github.com/ephes/pi-extensions",
     "repo_full_name": "ephes/pi-extensions",

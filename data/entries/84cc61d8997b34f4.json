@@ -1,29 +1,32 @@
 {
-	"id": "pi-karpathy-guidelines",
-	"name": "pi-karpathy-guidelines",
-	"url": "https://www.npmjs.com/package/pi-karpathy-guidelines",
-	"source": "npm-search",
-	"description": "Enforces Andrej Karpathy's coding guidelines to reduce common LLM mistakes: think before coding, simplicity first, surgical changes, goal-driven execution.",
-	"metadata": {
-		"github_url": "https://github.com/parkiyong/pi-karpathy-guidelines",
-		"npm_name": "pi-karpathy-guidelines",
-		"description": "Enforces Andrej Karpathy's coding guidelines to reduce common LLM mistakes: think before coding, simplicity first, surgical changes, goal-driven execution.",
-		"keywords": [
-			"pi-package"
-		],
-		"version": "1.0.0",
-		"published_at": "2026-04-27T15:39:40.588Z",
-		"npm_downloads_monthly": 0,
-		"npm_downloads_weekly": 0,
-		"npm_score_final": 0,
-		"npm_score_popularity": 1,
-		"npm_score_quality": 1,
-		"npm_score_maintenance": 1,
-		"discovery_hint": "npm:keywords:pi-package"
-	},
-	"health": {
-		"score": 72,
-		"level": "active"
-	},
-	"category": "extension"
+  "id": "pi-karpathy-guidelines",
+  "name": "pi-karpathy-guidelines",
+  "url": "https://www.npmjs.com/package/pi-karpathy-guidelines",
+  "source": "npm-search",
+  "description": "A Pi extension that enforces Andrej Karpathy's coding guidelines to reduce common LLM coding mistakes.",
+  "metadata": {
+    "github_url": "https://github.com/parkiyong/pi-karpathy-guidelines",
+    "repo_full_name": "parkiyong/pi-karpathy-guidelines",
+    "description": "A Pi extension that enforces Andrej Karpathy's coding guidelines to reduce common LLM coding mistakes.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T15:15:22Z",
+    "pushed_at": "2026-04-27T15:38:48Z",
+    "updated_at": "2026-05-04T20:35:50Z",
+    "size": 5,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
 }

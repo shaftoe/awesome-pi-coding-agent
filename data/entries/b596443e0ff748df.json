@@ -1,0 +1,37 @@
+{
+  "id": "omp-notify-tool",
+  "name": "omp-notify-tool",
+  "url": "https://www.npmjs.com/package/omp-notify-tool",
+  "source": "npm-search",
+  "description": "Model-callable non-blocking notify tool for OMP and Pi-family runtimes.",
+  "metadata": {
+    "github_url": "https://github.com/jiwangyihao/omp-notify-tool",
+    "npm_name": "omp-notify-tool",
+    "description": "Model-callable non-blocking notify tool for OMP and Pi-family runtimes.",
+    "keywords": [
+      "oh-my-pi",
+      "pi-package",
+      "omp",
+      "pi",
+      "extension",
+      "notify",
+      "toast",
+      "progress",
+      "agent"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-05-10T11:49:02.939Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

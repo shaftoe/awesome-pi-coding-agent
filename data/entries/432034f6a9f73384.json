@@ -3,30 +3,34 @@
   "name": "@luxusai/pi-hindsight",
   "url": "https://www.npmjs.com/package/@luxusai/pi-hindsight",
   "source": "npm-search",
-  "description": "Pi extension for durable Hindsight-backed long-term memory.",
+  "description": "memory for the people of pi (with help of hindsight)",
   "metadata": {
     "github_url": "https://github.com/luxus/pi-hindsight",
-    "npm_name": "@luxusai/pi-hindsight",
-    "description": "Pi extension for durable Hindsight-backed long-term memory.",
-    "keywords": [
+    "repo_full_name": "luxus/pi-hindsight",
+    "description": "memory for the people of pi (with help of hindsight)",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
       "hindsight",
+      "hindsight-memory",
+      "llm-memory",
       "memory",
-      "pi",
-      "pi-package"
+      "pi-agent",
+      "pi-agent-extension"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-05-03T19:26:30.304Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-25T15:16:43Z",
+    "pushed_at": "2026-05-10T12:20:58Z",
+    "updated_at": "2026-05-10T12:20:42Z",
+    "size": 1953,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 72,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

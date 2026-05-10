@@ -3,30 +3,30 @@
   "name": "@vanillagreen/pi-caveman",
   "url": "https://www.npmjs.com/package/@vanillagreen/pi-caveman",
   "source": "npm-search",
-  "description": "Native Pi caveman communication mode with session persistence, slash command control, status badge, and settings-manager integration.",
+  "description": "Pi package manager with update/uninstall actions plus a separate schema-driven settings editor for vstack packages.",
   "metadata": {
     "github_url": "https://github.com/vanillagreencom/vstack",
-    "npm_name": "@vanillagreen/pi-caveman",
-    "description": "Native Pi caveman communication mode with session persistence, slash command control, status badge, and settings-manager integration.",
+    "npm_name": "@vanillagreen/pi-extension-manager",
+    "description": "Pi package manager with update/uninstall actions plus a separate schema-driven settings editor for vstack packages.",
     "keywords": [
       "pi-package",
       "pi",
       "coding-agent",
-      "caveman",
-      "prompt"
+      "extensions",
+      "settings"
     ],
-    "version": "1.0.3",
-    "published_at": "2026-05-07T01:24:03.041Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "1.2.1",
+    "published_at": "2026-05-09T01:31:36.060Z",
+    "npm_downloads_monthly": 526,
+    "npm_downloads_weekly": 526,
+    "npm_score_final": 23.41321,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 72,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

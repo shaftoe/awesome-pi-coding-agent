@@ -6,40 +6,39 @@
   "description": "Compact tool call rendering, diff visualization, and output truncation extension for Pi coding agent. Hides, collapses, and truncates verbose tool output for cleaner TUI display.",
   "metadata": {
     "github_url": "https://github.com/MasuRii/pi-tool-display",
-    "npm_name": "pi-tool-display",
+    "repo_full_name": "MasuRii/pi-tool-display",
     "description": "Compact tool call rendering, diff visualization, and output truncation extension for Pi coding agent. Hides, collapses, and truncates verbose tool output for cleaner TUI display.",
-    "keywords": [
-      "pi-package",
-      "pi",
-      "pi-extension",
-      "pi-coding-agent",
-      "pi-tui",
+    "stars": 140,
+    "forks": 14,
+    "open_issues": 3,
+    "topics": [
       "coding-agent",
-      "tui",
-      "tool-rendering",
-      "tool-output",
-      "diff-visualization",
-      "output-truncation",
-      "hide",
-      "collapse",
-      "truncate",
       "compact",
-      "diff",
-      "output-mode"
+      "developer-tools",
+      "hack",
+      "mcp",
+      "opencode-style",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-tui",
+      "terminal-ui",
+      "tool-rendering",
+      "tui",
+      "typescript"
     ],
-    "version": "0.3.5",
-    "published_at": "2026-04-27T13:27:54.961Z",
-    "npm_downloads_monthly": 2491,
-    "npm_downloads_weekly": 990,
-    "npm_score_final": 30.957481,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-01T10:41:06Z",
+    "pushed_at": "2026-05-08T21:22:32Z",
+    "updated_at": "2026-05-10T10:27:21Z",
+    "size": 1428,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 91,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

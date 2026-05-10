@@ -5,24 +5,24 @@
   "source": "npm-search",
   "description": "Workspace startup summary message extension for Pi",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/fgladisch/pi-extensions",
     "npm_name": "@fgladisch/pi-welcome-message",
     "description": "Workspace startup summary message extension for Pi",
     "keywords": [
       "pi-package"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-04-30T21:46:50.207Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.2.0",
+    "published_at": "2026-05-06T12:11:50.766Z",
+    "npm_downloads_monthly": 68,
+    "npm_downloads_weekly": 68,
+    "npm_score_final": 15.116778,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 72,
+    "score": 76,
     "level": "active"
   },
   "category": "extension"

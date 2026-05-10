@@ -1,0 +1,29 @@
+{
+  "id": "@deevus/pi-wayfinder",
+  "name": "@deevus/pi-wayfinder",
+  "url": "https://www.npmjs.com/package/@deevus/pi-wayfinder",
+  "source": "npm-search",
+  "description": "Structure-aware code navigation and anchor-stable editing tools for pi agents",
+  "metadata": {
+    "github_url": "https://github.com/deevus/pi-wayfinder",
+    "repo_full_name": "deevus/pi-wayfinder",
+    "description": "Structure-aware code navigation and anchor-stable editing tools for pi agents",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-10T08:54:31Z",
+    "pushed_at": "2026-05-10T08:58:32Z",
+    "updated_at": "2026-05-10T08:58:37Z",
+    "size": 218,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

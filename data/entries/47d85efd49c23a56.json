@@ -3,28 +3,34 @@
   "name": "pi-knowledge-search",
   "url": "https://www.npmjs.com/package/pi-knowledge-search",
   "source": "npm-search",
-  "description": "Semantic search over local files for pi. Indexes a directory of text files, watches for changes, and exposes a knowledge_search tool to the LLM.",
+  "description": "Semantic search over local files for pi. Indexes text/markdown, watches for changes, exposes a knowledge_search tool to the LLM.",
   "metadata": {
     "github_url": "https://github.com/samfoy/pi-knowledge-search",
-    "npm_name": "pi-knowledge-search",
-    "description": "Semantic search over local files for pi. Indexes a directory of text files, watches for changes, and exposes a knowledge_search tool to the LLM.",
-    "keywords": [
-      "pi-package",
-      "extension"
+    "repo_full_name": "samfoy/pi-knowledge-search",
+    "description": "Semantic search over local files for pi. Indexes text/markdown, watches for changes, exposes a knowledge_search tool to the LLM.",
+    "stars": 2,
+    "forks": 4,
+    "open_issues": 0,
+    "topics": [
+      "ai-coding-agent",
+      "developer-tools",
+      "knowledge-base",
+      "pi-coding-agent",
+      "rag",
+      "semantic-search"
     ],
-    "version": "1.0.1",
-    "published_at": "2026-04-23T02:18:40.021Z",
-    "npm_downloads_monthly": 250,
-    "npm_downloads_weekly": 226,
-    "npm_score_final": 21.394793,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-13T19:52:25Z",
+    "pushed_at": "2026-05-08T18:34:58Z",
+    "updated_at": "2026-05-08T18:35:03Z",
+    "size": 278,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 82,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

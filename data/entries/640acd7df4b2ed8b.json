@@ -3,11 +3,11 @@
   "name": "pi-obsidian-vault",
   "url": "https://www.npmjs.com/package/pi-obsidian-vault",
   "source": "npm-search",
-  "description": "Agent-safe Obsidian vault access for Pi: retrieve, validate, plan, and carefully mutate Markdown notes.",
+  "description": "Agent-safe Obsidian vault access for Pi: auto-detect, retrieve, validate, plan, write, edit, manage, and explicitly destroy Markdown with human approval.",
   "metadata": {
     "github_url": "https://github.com/itscool2b/pi-obsidian-vault",
     "npm_name": "pi-obsidian-vault",
-    "description": "Agent-safe Obsidian vault access for Pi: retrieve, validate, plan, and carefully mutate Markdown notes.",
+    "description": "Agent-safe Obsidian vault access for Pi: auto-detect, retrieve, validate, plan, write, edit, manage, and explicitly destroy Markdown with human approval.",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -22,20 +22,23 @@
       "safe-writing",
       "safe-editing",
       "safe-note-management",
-      "agent-safe"
+      "agent-safe",
+      "safe-destruction",
+      "human-approval",
+      "auto-detect"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-05-02T06:38:04.416Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.2.3",
+    "published_at": "2026-05-07T20:09:47.633Z",
+    "npm_downloads_monthly": 614,
+    "npm_downloads_weekly": 614,
+    "npm_score_final": 24.363478,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 72,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

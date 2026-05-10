@@ -1,0 +1,35 @@
+{
+  "id": "@capyup/pi-exa",
+  "name": "@capyup/pi-exa",
+  "url": "https://www.npmjs.com/package/@capyup/pi-exa",
+  "source": "npm-search",
+  "description": "Exa web research for pi via five first-class tools + skill + local CLI. Uses the official exa-js SDK directly — no MCP server, no adapter. Tools: exa_search, exa_similar, exa_fetch, exa_answer, exa_research. Supports real-time livecrawl, subpage extractio",
+  "metadata": {
+    "github_url": "https://github.com/capyup/pi-exa",
+    "npm_name": "@capyup/pi-exa",
+    "description": "Exa web research for pi via five first-class tools + skill + local CLI. Uses the official exa-js SDK directly — no MCP server, no adapter. Tools: exa_search, exa_similar, exa_fetch, exa_answer, exa_research. Supports real-time livecrawl, subpage extractio",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-skill",
+      "exa",
+      "web-search",
+      "research"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-05-10T08:22:37.472Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

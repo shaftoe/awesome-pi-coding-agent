@@ -3,31 +3,30 @@
   "name": "@vaayne/pi-rules",
   "url": "https://www.npmjs.com/package/@vaayne/pi-rules",
   "source": "npm-search",
-  "description": "Pi extension that scans .claude/rules/ and .agents/rules/ folders for project rules",
+  "description": "Reusable skills and extensions for Pi coding agent",
   "metadata": {
     "github_url": "https://github.com/vaayne/agent-kit",
-    "npm_name": "@vaayne/pi-rules",
-    "description": "Pi extension that scans .claude/rules/ and .agents/rules/ folders for project rules",
+    "npm_name": "@vaayne/agent-kit",
+    "description": "Reusable skills and extensions for Pi coding agent",
     "keywords": [
       "pi-package",
-      "pi-extension",
-      "rules",
-      "claude",
-      "agents",
-      "ai"
+      "ai-agent",
+      "coding-assistant",
+      "skills",
+      "extensions"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-02-26T06:08:12.249Z",
-    "npm_downloads_monthly": 21,
-    "npm_downloads_weekly": 4,
-    "npm_score_final": 10.663144,
+    "version": "1.0.0",
+    "published_at": "2026-01-27T08:28:18.692Z",
+    "npm_downloads_monthly": 87,
+    "npm_downloads_weekly": 29,
+    "npm_score_final": 16.209312,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 69,
+    "score": 62,
     "level": "maintained"
   },
   "category": "extension"

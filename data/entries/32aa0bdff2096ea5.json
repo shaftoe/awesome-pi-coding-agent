@@ -3,11 +3,11 @@
   "name": "pi-chrome",
   "url": "https://www.npmjs.com/package/pi-chrome",
   "source": "npm-search",
-  "description": "Drive your existing logged-in Chrome from Pi — no re-login, no throwaway profile, background by default.",
+  "description": "Drive your existing logged-in Chrome from Pi — no re-login, no throwaway profile, watch the agent work in real time (or toggle quiet background mode).",
   "metadata": {
     "github_url": null,
     "npm_name": "pi-chrome",
-    "description": "Drive your existing logged-in Chrome from Pi — no re-login, no throwaway profile, background by default.",
+    "description": "Drive your existing logged-in Chrome from Pi — no re-login, no throwaway profile, watch the agent work in real time (or toggle quiet background mode).",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -18,8 +18,8 @@
       "real-profile",
       "web-debugging"
     ],
-    "version": "0.4.2",
-    "published_at": "2026-05-08T06:41:25.235Z",
+    "version": "0.7.0",
+    "published_at": "2026-05-08T18:02:34.331Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,
