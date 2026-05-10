@@ -9,11 +9,16 @@ import "../core/temporal.ts";
 
 import { existsSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
-import { buildIndices, checkDuplicate } from "../core/dedup.ts";
+import { buildIndices, checkDuplicate, type DuplicationIndices } from "../core/dedup.ts";
 import { cleanText } from "../core/html.ts";
 import { writeMeta } from "../core/meta.ts";
 import { getEntryRepo, saveEntry } from "../core/store.ts";
-import { type CategorizedEntry, type Entry, HealthLevel } from "../core/types.ts";
+import {
+	type CategorizedEntry,
+	type DiscoveryCandidate,
+	type Entry,
+	HealthLevel,
+} from "../core/types.ts";
 import { loadDiscoveryLines } from "../discover/writer.ts";
 import { classifyEntry } from "../enrich/classify.ts";
 import { computeHealth } from "../enrich/health.ts";
@@ -35,6 +40,105 @@ function sourcePriority(source: string): number {
 
 // biome-ignore lint/suspicious/noConsole: CLI output
 const log = console.log;
+
+// ─── Duplicate resolution ──────────────────────────────────────────────────────
+
+type DuplicateAction = "replace" | "refresh" | "skip";
+
+/** Decide what to do with a duplicate candidate based on source priorities. */
+function resolveDuplicateAction(
+	discovery: DiscoveryCandidate,
+	dup: { existingEntry?: CategorizedEntry },
+): DuplicateAction {
+	if (!dup.existingEntry) return "skip";
+
+	const candidatePriority = sourcePriority(discovery.source);
+	const existingPriority = sourcePriority(dup.existingEntry.source);
+
+	if (candidatePriority < existingPriority) return "replace";
+	return "refresh";
+}
+
+/** Merge fresh metadata from a same-source candidate into an existing entry. */
+function refreshExistingEntry(
+	discovery: DiscoveryCandidate,
+	existing: CategorizedEntry,
+	indices: DuplicationIndices,
+): CategorizedEntry {
+	const freshName =
+		(discovery.metadata?.["title"] as string) ||
+		(discovery.metadata?.["name"] as string) ||
+		existing.name;
+	const freshDesc = (discovery.metadata?.["description"] as string) || existing.description;
+
+	const updated: CategorizedEntry = {
+		...existing,
+		name: cleanText(freshName),
+		description: cleanText(freshDesc),
+		metadata: {
+			...(discovery.metadata ?? {}),
+			discovery_hint:
+				discovery.hint ?? (existing.metadata?.["discovery_hint"] as string | null) ?? null,
+		},
+		health: { score: 0, level: HealthLevel.Stale }, // overwritten below
+	};
+
+	const dims = getHealthScorer(updated.source)(updated);
+	updated.health = computeHealth(updated, dims);
+
+	const classified = classifyEntry(updated);
+	saveEntry(classified);
+
+	// Update indices with refreshed entry
+	indices.byUrl.set(updated.url, classified);
+	const meta = classified.metadata as Record<string, unknown>;
+	if (typeof meta["github_url"] === "string") {
+		indices.byGitHubUrl.set(meta["github_url"], classified);
+	}
+
+	log(`  🔄 ${classified.category}/${classified.id} (${discovery.source}) — metadata refreshed`);
+	return classified;
+}
+
+/** Build a brand-new entry from a discovery candidate and add it to indices. */
+function addNewEntry(discovery: DiscoveryCandidate, indices: DuplicationIndices): CategorizedEntry {
+	const id = discovery.id ?? extractId(discovery.url);
+	const rawName =
+		(discovery.metadata?.["title"] as string) || (discovery.metadata?.["name"] as string) || id;
+	const rawDesc = (discovery.metadata?.["description"] as string) || "";
+
+	const entry: Entry = {
+		id,
+		name: cleanText(rawName),
+		url: discovery.url,
+		source: discovery.source,
+		description: cleanText(rawDesc),
+		metadata: {
+			...(discovery.metadata ?? {}),
+			discovery_hint: discovery.hint ?? null,
+		},
+		health: { score: 0, level: HealthLevel.Stale }, // overwritten below
+	};
+
+	const dims = getHealthScorer(entry.source)(entry);
+	entry.health = computeHealth(entry, dims);
+
+	const classified = classifyEntry(entry);
+	saveEntry(classified);
+
+	// Update indices for subsequent dedup
+	indices.byUrl.set(entry.url, { ...classified, category: classified.category });
+	const meta = classified.metadata as Record<string, unknown>;
+	if (typeof meta["github_url"] === "string") {
+		indices.byGitHubUrl.set(meta["github_url"], {
+			...classified,
+			category: classified.category,
+		});
+	}
+
+	log(`  ✅ ${classified.category}/${classified.id} (${discovery.source})`);
+	return classified;
+}
 
 // ─── Command ───────────────────────────────────────────────────────────────────
 
@@ -80,99 +184,31 @@ export async function cmdProcess(): Promise<void> {
 		const dup = checkDuplicate(discovery, indices);
 
 		if (dup.isDuplicate) {
-			// Priority-based replacement: if the incoming candidate has higher
-			// priority (lower number) than the existing entry, replace it.
-			if (
-				dup.existingEntry &&
-				sourcePriority(discovery.source) < sourcePriority(dup.existingEntry.source)
-			) {
-				entryRepo.delete(dup.existingEntry.url);
-				indices.byUrl.delete(dup.existingEntry.url);
-				// Fall through to save the new entry below
-				replaced++;
-			} else if (dup.existingEntry) {
-				// Same-source (or same-priority) duplicate: refresh metadata
-				// from the fresh candidate into the existing entry.
-				const freshName =
-					(discovery.metadata?.["title"] as string) ||
-					(discovery.metadata?.["name"] as string) ||
-					dup.existingEntry.name;
-				const freshDesc =
-					(discovery.metadata?.["description"] as string) || dup.existingEntry.description;
+			const action = resolveDuplicateAction(discovery, dup);
 
-				const updated: CategorizedEntry = {
-					...dup.existingEntry,
-					name: cleanText(freshName),
-					description: cleanText(freshDesc),
-					metadata: {
-						...(discovery.metadata ?? {}),
-						discovery_hint:
-							discovery.hint ??
-							(dup.existingEntry.metadata?.["discovery_hint"] as string | null) ??
-							null,
-					},
-					health: { score: 0, level: HealthLevel.Stale }, // overwritten below
-				};
-
-				const dims = getHealthScorer(updated.source)(updated);
-				updated.health = computeHealth(updated, dims);
-
-				const classified = classifyEntry(updated);
-				saveEntry(classified);
-
-				// Update indices with refreshed entry
-				indices.byUrl.set(updated.url, classified);
-				const meta = classified.metadata as Record<string, unknown>;
-				if (typeof meta["github_url"] === "string") {
-					indices.byGitHubUrl.set(meta["github_url"], classified);
+			if (action === "replace") {
+				const existing = dup.existingEntry;
+				if (existing) {
+					entryRepo.delete(existing.url);
+					indices.byUrl.delete(existing.url);
 				}
-
+				// Fall through to addNewEntry below
+				replaced++;
+			} else if (action === "refresh") {
+				if (dup.existingEntry) {
+					refreshExistingEntry(discovery, dup.existingEntry, indices);
+				}
 				refreshed++;
-				log(
-					`  🔄 ${classified.category}/${classified.id} (${discovery.source}) — metadata refreshed`,
-				);
 				continue;
 			} else {
+				// "skip"
 				duplicates++;
 				continue;
 			}
 		}
 
-		const id = discovery.id ?? extractId(discovery.url);
-		const rawName =
-			(discovery.metadata?.["title"] as string) || (discovery.metadata?.["name"] as string) || id;
-		const rawDesc = (discovery.metadata?.["description"] as string) || "";
-		const entry: Entry = {
-			id,
-			name: cleanText(rawName),
-			url: discovery.url,
-			source: discovery.source,
-			description: cleanText(rawDesc),
-			metadata: {
-				...(discovery.metadata ?? {}),
-				discovery_hint: discovery.hint ?? null,
-			},
-			health: { score: 0, level: HealthLevel.Stale }, // overwritten below
-		};
-
-		const dims = getHealthScorer(entry.source)(entry);
-		entry.health = computeHealth(entry, dims);
-
-		const classified = classifyEntry(entry);
-		saveEntry(classified);
-
-		// Update indices for subsequent dedup
-		indices.byUrl.set(entry.url, { ...classified, category: classified.category });
-		const meta = classified.metadata as Record<string, unknown>;
-		if (typeof meta["github_url"] === "string") {
-			indices.byGitHubUrl.set(meta["github_url"], {
-				...classified,
-				category: classified.category,
-			});
-		}
-
+		addNewEntry(discovery, indices);
 		added++;
-		log(`  ✅ ${classified.category}/${classified.id} (${discovery.source})`);
 	}
 
 	log(
