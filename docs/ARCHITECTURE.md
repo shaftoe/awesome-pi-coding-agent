@@ -453,6 +453,30 @@ When an npm candidate's `github_url` matches an existing GitHub entry's URL, the
 
 Candidates are **sorted by source priority** (npm → GitHub → YouTube → Manual) so npm entries are always processed first.
 
+### Metadata refresh (same-source duplicates) ✅
+
+When a candidate URL matches an existing entry from the **same source** (or same priority), the existing entry's metadata is **refreshed in-place** with the fresh values from the candidate. This ensures that metrics like npm downloads, GitHub stars, and last-push dates stay current across daily pipeline runs.
+
+**What happens on refresh:**
+
+1. Fresh metadata from the candidate replaces the existing entry's metadata
+2. `name` and `description` are updated from the fresh candidate
+3. `discovery_hint` is preserved from the existing entry if the candidate has none
+4. Health is recomputed from the fresh metadata using the source-specific scorer + generic combiner
+5. Category is re-evaluated via the classifier
+6. Structural identity (`id`, `url`, `source`) is preserved
+7. Dedup indices are updated with the refreshed entry
+
+**Three dedup outcomes:**
+
+| Condition | Action | Example |
+|-----------|--------|----------|
+| Cross-source, higher priority | **Replace** — delete old, save new | npm candidate replaces GitHub entry |
+| Same-source (or same priority) | **Refresh** — merge fresh metadata, recompute health | npm candidate updates npm entry with new downloads |
+| No existing entry | **Add** — new entry saved | Brand new discovery |
+
+This means every daily pipeline run automatically refreshes metadata for any existing entry that re-appears in search results.
+
 ### Classification (`enrich/classify.ts`) ✅
 
 Five categories: `Extension > Theme > Video > Article > Misc`. Uses npm name patterns, Pi-specific description signals, README scores, and keyword matching. See [Classification](#classification).
