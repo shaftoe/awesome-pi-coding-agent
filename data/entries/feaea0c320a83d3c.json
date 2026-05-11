@@ -1,0 +1,29 @@
+{
+  "id": "andrioid-pi-fence",
+  "name": "andrioid-pi-fence",
+  "url": "https://github.com/andrioid/pi-fence",
+  "source": "github-search",
+  "description": "Fence wrapper for Pi coding agent. Wraps bash calls and intercepts reads/writes according to fence config",
+  "metadata": {
+    "github_url": "https://github.com/andrioid/pi-fence",
+    "repo_full_name": "andrioid/pi-fence",
+    "description": "Fence wrapper for Pi coding agent. Wraps bash calls and intercepts reads/writes according to fence config",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-10T14:19:03Z",
+    "pushed_at": "2026-05-10T14:19:53Z",
+    "updated_at": "2026-05-10T14:19:57Z",
+    "size": 84,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

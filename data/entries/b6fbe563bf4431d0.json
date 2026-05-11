@@ -8,7 +8,7 @@
     "github_url": "https://github.com/PSU3D0/pi-dcp",
     "repo_full_name": "PSU3D0/pi-dcp",
     "description": "Dynamic Context Pruning (DCP) extension for the Pi Coding Agent",
-    "stars": 11,
+    "stars": 12,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-02-20T01:16:23Z",
     "pushed_at": "2026-03-06T19:03:31Z",
-    "updated_at": "2026-04-27T18:38:02Z",
+    "updated_at": "2026-05-10T18:24:27Z",
     "size": 130,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

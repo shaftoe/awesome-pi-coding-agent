@@ -8,8 +8,8 @@
     "github_url": "https://github.com/tmustier/pi-extensions",
     "repo_full_name": "tmustier/pi-extensions",
     "description": "A set of delightful extensions for Pi",
-    "stars": 303,
-    "forks": 19,
+    "stars": 304,
+    "forks": 20,
     "open_issues": 7,
     "topics": [
       "extension",
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-01-06T14:58:20Z",
     "pushed_at": "2026-05-07T16:05:54Z",
-    "updated_at": "2026-05-10T08:54:54Z",
+    "updated_at": "2026-05-10T17:44:55Z",
     "size": 12752,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

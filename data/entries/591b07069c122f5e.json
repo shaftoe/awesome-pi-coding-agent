@@ -8,7 +8,7 @@
     "github_url": "https://github.com/gotgenes/pi-anthropic-auth",
     "repo_full_name": "gotgenes/pi-anthropic-auth",
     "description": "Pi extension package for Anthropic OAuth compatibility",
-    "stars": 10,
+    "stars": 11,
     "forks": 2,
     "open_issues": 1,
     "topics": [
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-04-22T01:40:29Z",
     "pushed_at": "2026-05-08T03:58:01Z",
-    "updated_at": "2026-05-09T03:43:12Z",
+    "updated_at": "2026-05-10T18:33:30Z",
     "size": 213,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

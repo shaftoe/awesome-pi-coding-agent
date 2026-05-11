@@ -8,9 +8,9 @@
     "github_url": "https://github.com/codexstar69/pi-listen",
     "repo_full_name": "codexstar69/pi-listen",
     "description": "Hold-to-talk voice input for Pi CLI — Deepgram streaming STT with live transcription, voice commands, and cross-platform hold detection",
-    "stars": 54,
-    "forks": 7,
-    "open_issues": 1,
+    "stars": 56,
+    "forks": 8,
+    "open_issues": 2,
     "topics": [
       "cli",
       "deepgram",
@@ -29,7 +29,7 @@
     "archived": false,
     "created_at": "2026-03-12T00:59:59Z",
     "pushed_at": "2026-05-01T15:00:39Z",
-    "updated_at": "2026-05-09T23:53:49Z",
+    "updated_at": "2026-05-11T00:46:47Z",
     "size": 52733,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

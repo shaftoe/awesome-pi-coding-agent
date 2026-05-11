@@ -1,0 +1,29 @@
+{
+  "id": "HarshaDokula-pi_agent_extensions_skills",
+  "name": "HarshaDokula-pi_agent_extensions_skills",
+  "url": "https://github.com/HarshaDokula/pi_agent_extensions_skills",
+  "source": "github-search",
+  "description": "Extensions and skill for pi dev agent.",
+  "metadata": {
+    "github_url": "https://github.com/HarshaDokula/pi_agent_extensions_skills",
+    "repo_full_name": "HarshaDokula/pi_agent_extensions_skills",
+    "description": "Extensions and skill for pi dev agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-10T23:20:12Z",
+    "pushed_at": "2026-05-10T23:32:51Z",
+    "updated_at": "2026-05-10T23:32:55Z",
+    "size": 21,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

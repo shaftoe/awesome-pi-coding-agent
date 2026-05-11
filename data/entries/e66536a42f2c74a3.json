@@ -1,0 +1,29 @@
+{
+  "id": "aferrariuy-gentle-pi",
+  "name": "aferrariuy-gentle-pi",
+  "url": "https://github.com/aferrariuy/gentle-pi",
+  "source": "github-search",
+  "description": "Gentle AI made-to-measure Pi agent",
+  "metadata": {
+    "github_url": "https://github.com/aferrariuy/gentle-pi",
+    "repo_full_name": "aferrariuy/gentle-pi",
+    "description": "Gentle AI made-to-measure Pi agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": null,
+    "archived": false,
+    "created_at": "2026-05-10T16:21:57Z",
+    "pushed_at": "2026-05-10T16:12:40Z",
+    "updated_at": "2026-05-10T16:34:51Z",
+    "size": 41667,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

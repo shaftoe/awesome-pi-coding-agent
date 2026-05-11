@@ -1,0 +1,29 @@
+{
+  "id": "arach-contextual",
+  "name": "arach-contextual",
+  "url": "https://github.com/arach/contextual",
+  "source": "github-search",
+  "description": "Hangar-themed UI for context engineering on pi.dev sessions — three-pane workshop (threads / conversation / context rack), session-forest tree, built on HudsonKit.",
+  "metadata": {
+    "github_url": "https://github.com/arach/contextual",
+    "repo_full_name": "arach/contextual",
+    "description": "Hangar-themed UI for context engineering on pi.dev sessions — three-pane workshop (threads / conversation / context rack), session-forest tree, built on HudsonKit.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-11T02:59:45Z",
+    "pushed_at": "2026-05-11T03:20:34Z",
+    "updated_at": "2026-05-11T03:20:37Z",
+    "size": 74,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "theme"
+}

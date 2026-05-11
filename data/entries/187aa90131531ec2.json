@@ -11,14 +11,14 @@
     "channel": "databag",
     "published_at": "2026-05-05T08:37:39Z",
     "thumbnail": "https://i.ytimg.com/vi/KTjKYlQV97I/hqdefault.jpg",
-    "views": 30,
+    "views": 119,
     "likes": 3,
     "comments": 0,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 39,
-    "level": "stale"
+    "score": 45,
+    "level": "maintained"
   },
   "category": "video"
 }

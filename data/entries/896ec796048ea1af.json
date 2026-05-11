@@ -9,7 +9,7 @@
     "repo_full_name": "mavam/pi-web-providers",
     "description": "Configurable web access extension for pi that routes search, contents, answers, and research across Claude, Codex, Exa, Gemini, Parallel, and Valyu providers.",
     "stars": 64,
-    "forks": 9,
+    "forks": 10,
     "open_issues": 4,
     "topics": [
       "claude",

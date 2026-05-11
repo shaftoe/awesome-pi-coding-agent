@@ -6,7 +6,7 @@
   "description": "Pi extension for quickly switching between multiple accounts/API keys per provider.",
   "metadata": {
     "github_url": "https://github.com/hieplp/pi-account-switcher",
-    "npm_name": "pi-account-switcher",
+    "npm_name": "@hieplp/pi-account-switcher",
     "description": "Pi extension for quickly switching between multiple accounts/API keys per provider.",
     "keywords": [
       "pi-package",
@@ -14,8 +14,8 @@
       "pi",
       "account-switcher"
     ],
-    "version": "0.1.2",
-    "published_at": "2026-05-05T12:50:45.840Z",
+    "version": "0.2.2",
+    "published_at": "2026-05-11T03:46:28.957Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,
