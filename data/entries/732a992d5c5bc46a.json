@@ -1,0 +1,33 @@
+{
+  "id": "@mackor/pi-tasks",
+  "name": "@mackor/pi-tasks",
+  "url": "https://www.npmjs.com/package/@mackor/pi-tasks",
+  "source": "npm-search",
+  "description": "Persistent shared task lists for Pi agents and MCP clients.",
+  "metadata": {
+    "github_url": "https://github.com/Micka33/pi-tasks",
+    "npm_name": "@mackor/pi-tasks",
+    "description": "Persistent shared task lists for Pi agents and MCP clients.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "mcp",
+      "tasks",
+      "agents"
+    ],
+    "version": "0.0.1",
+    "published_at": "2026-05-10T22:45:46.328Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

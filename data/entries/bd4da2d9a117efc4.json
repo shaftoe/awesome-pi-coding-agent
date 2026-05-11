@@ -8,7 +8,7 @@
     "github_url": "https://github.com/minghinmatthewlam/pi-gui",
     "repo_full_name": "minghinmatthewlam/pi-gui",
     "description": "Electron GUI app for the pi coding agent runtime",
-    "stars": 335,
+    "stars": 336,
     "forks": 33,
     "open_issues": 11,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-20T18:46:02Z",
     "pushed_at": "2026-05-07T16:10:27Z",
-    "updated_at": "2026-05-09T20:51:34Z",
+    "updated_at": "2026-05-11T05:54:02Z",
     "size": 5574,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

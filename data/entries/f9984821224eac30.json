@@ -10,7 +10,7 @@
     "description": "🧠 pi-readcache — Replay-aware read caching for Pi (lower token usage, compaction-safe correctness).",
     "stars": 11,
     "forks": 2,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "pi",
       "pi-coding-agent",

@@ -1,0 +1,29 @@
+{
+  "id": "kristianernst-piui",
+  "name": "kristianernst-piui",
+  "url": "https://github.com/kristianernst/piui",
+  "source": "github-search",
+  "description": "webui for pi agent",
+  "metadata": {
+    "github_url": "https://github.com/kristianernst/piui",
+    "repo_full_name": "kristianernst/piui",
+    "description": "webui for pi agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-10T17:57:41Z",
+    "pushed_at": "2026-05-10T21:55:24Z",
+    "updated_at": "2026-05-10T21:55:29Z",
+    "size": 1232,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

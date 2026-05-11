@@ -1,0 +1,29 @@
+{
+  "id": "@harrypan-12138/pi-superpower",
+  "name": "@harrypan-12138/pi-superpower",
+  "url": "https://www.npmjs.com/package/@harrypan-12138/pi-superpower",
+  "source": "npm-search",
+  "description": "Superpower workflow extension for pi coding agent — Scout→Think→Plan→Implement→Review→Debug pipeline with 8 specialized subagent tools and 15 skills",
+  "metadata": {
+    "github_url": "https://github.com/PanCodeInventory/pi-superpower",
+    "repo_full_name": "PanCodeInventory/pi-superpower",
+    "description": "Superpower workflow extension for pi coding agent — Scout→Think→Plan→Implement→Review→Debug pipeline with 8 specialized subagent tools and 15 skills",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-11T02:51:28Z",
+    "pushed_at": "2026-05-11T03:20:31Z",
+    "updated_at": "2026-05-11T03:20:37Z",
+    "size": 139,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

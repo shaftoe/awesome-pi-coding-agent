@@ -1,0 +1,29 @@
+{
+  "id": "a2ajinkya-phone-pi",
+  "name": "a2ajinkya-phone-pi",
+  "url": "https://github.com/a2ajinkya/phone-pi",
+  "source": "github-search",
+  "description": "My pi coding agent skills & extensions for Termux (Android)",
+  "metadata": {
+    "github_url": "https://github.com/a2ajinkya/phone-pi",
+    "repo_full_name": "a2ajinkya/phone-pi",
+    "description": "My pi coding agent skills & extensions for Termux (Android)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-10T12:49:30Z",
+    "pushed_at": "2026-05-10T13:48:24Z",
+    "updated_at": "2026-05-10T13:48:28Z",
+    "size": 69,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

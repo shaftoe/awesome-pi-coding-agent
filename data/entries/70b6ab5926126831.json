@@ -8,7 +8,7 @@
     "github_url": "https://github.com/mwolff44/pi-secured-setup",
     "repo_full_name": "mwolff44/pi-secured-setup",
     "description": "Secure setup and permission hardening extension for the Pi coding agent.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -25,13 +25,13 @@
     "archived": false,
     "created_at": "2026-05-07T16:29:18Z",
     "pushed_at": "2026-05-07T16:50:54Z",
-    "updated_at": "2026-05-08T07:43:53Z",
+    "updated_at": "2026-05-11T03:59:04Z",
     "size": 47,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
+    "score": 55,
     "level": "maintained"
   },
   "category": "extension"

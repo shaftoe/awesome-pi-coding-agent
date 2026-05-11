@@ -10,7 +10,7 @@
     "description": "Contextual continuity infrastructure for AI coding agents — semantic memory across sessions and org-mode knowledge bases. Pi extension + Gemini Embedding 2 + LanceDB.",
     "stars": 5,
     "forks": 0,
-    "open_issues": 4,
+    "open_issues": 5,
     "topics": [
       "ai-agent",
       "embedding",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2025-11-14T02:57:43Z",
-    "pushed_at": "2026-05-10T03:53:42Z",
-    "updated_at": "2026-05-10T03:53:46Z",
-    "size": 1312,
+    "pushed_at": "2026-05-11T05:51:38Z",
+    "updated_at": "2026-05-11T05:51:42Z",
+    "size": 1093,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

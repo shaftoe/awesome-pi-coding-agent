@@ -1,0 +1,31 @@
+{
+  "id": "pi-tmux-branch",
+  "name": "pi-tmux-branch",
+  "url": "https://www.npmjs.com/package/pi-tmux-branch",
+  "source": "npm-search",
+  "description": "Pi extension for branching the current session into a new tmux pane.",
+  "metadata": {
+    "github_url": "https://github.com/andrii-k6a/pi-tmux-branch",
+    "npm_name": "pi-tmux-branch",
+    "description": "Pi extension for branching the current session into a new tmux pane.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "tmux"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-10T20:32:19.196Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

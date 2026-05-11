@@ -8,7 +8,7 @@
     "github_url": "https://github.com/RimuruW/pi-hashline-edit",
     "repo_full_name": "RimuruW/pi-hashline-edit",
     "description": "A pi coding agent extension that overrides the built-in read, grep, and edit tools with content-anchored line references (LINE:HASH|content).",
-    "stars": 48,
+    "stars": 49,
     "forks": 11,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-15T14:30:36Z",
     "pushed_at": "2026-05-09T16:28:11Z",
-    "updated_at": "2026-05-09T16:28:13Z",
+    "updated_at": "2026-05-10T18:25:49Z",
     "size": 491,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

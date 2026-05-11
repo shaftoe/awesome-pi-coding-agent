@@ -8,7 +8,7 @@
     "github_url": "https://github.com/nicobailon/pi-rewind-hook",
     "repo_full_name": "nicobailon/pi-rewind-hook",
     "description": "Pi agent hook for rewinding file changes during coding sessions",
-    "stars": 119,
+    "stars": 120,
     "forks": 11,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2025-12-12T19:04:20Z",
     "pushed_at": "2026-04-25T03:23:47Z",
-    "updated_at": "2026-05-08T14:57:06Z",
+    "updated_at": "2026-05-10T20:24:09Z",
     "size": 2458,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

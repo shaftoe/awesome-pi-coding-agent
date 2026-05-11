@@ -9,7 +9,7 @@
     "repo_full_name": "Gurpartap/pi-mermaid",
     "description": "🧜‍♀️ Pi extension that renders Mermaid diagrams as ASCII in the TUI, with width-aware output and safe handling for larger diagrams.",
     "stars": 59,
-    "forks": 7,
+    "forks": 8,
     "open_issues": 6,
     "topics": [
       "pi",

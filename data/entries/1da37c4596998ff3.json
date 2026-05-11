@@ -1,0 +1,33 @@
+{
+  "id": "pi-mono-web-search",
+  "name": "pi-mono-web-search",
+  "url": "https://www.npmjs.com/package/pi-mono-web-search",
+  "source": "npm-search",
+  "description": "Pi extension for web search and page reading using DuckDuckGo and readability extraction",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-mono-web-search",
+    "description": "Pi extension for web search and page reading using DuckDuckGo and readability extraction",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-skill",
+      "web-search",
+      "duckduckgo"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-10T15:20:45.212Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/svkozak/pi-acp",
     "repo_full_name": "svkozak/pi-acp",
     "description": "ACP adapter for pi coding agent",
-    "stars": 319,
+    "stars": 321,
     "forks": 37,
     "open_issues": 21,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2025-12-19T05:05:24Z",
     "pushed_at": "2026-05-10T02:16:57Z",
-    "updated_at": "2026-05-10T07:56:50Z",
+    "updated_at": "2026-05-10T20:23:28Z",
     "size": 155,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
