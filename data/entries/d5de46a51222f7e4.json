@@ -1,0 +1,36 @@
+{
+  "id": "timothyckl-pi-chroma",
+  "name": "timothyckl-pi-chroma",
+  "url": "https://github.com/timothyckl/pi-chroma",
+  "source": "github-search",
+  "description": "chroma vector search for pi",
+  "metadata": {
+    "github_url": "https://github.com/timothyckl/pi-chroma",
+    "repo_full_name": "timothyckl/pi-chroma",
+    "description": "chroma vector search for pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 6,
+    "topics": [
+      "ast",
+      "chromadb",
+      "pi-extension",
+      "pi-package",
+      "tree-sitter",
+      "vector-search"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-10T05:58:23Z",
+    "pushed_at": "2026-05-11T11:39:31Z",
+    "updated_at": "2026-05-11T12:24:53Z",
+    "size": 212,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

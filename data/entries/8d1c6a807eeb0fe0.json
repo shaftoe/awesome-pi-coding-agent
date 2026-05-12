@@ -8,7 +8,7 @@
     "github_url": "https://github.com/coctostan/pi-agent-browser",
     "repo_full_name": "coctostan/pi-agent-browser",
     "description": "",
-    "stars": 24,
+    "stars": 25,
     "forks": 6,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-09T03:39:30Z",
     "pushed_at": "2026-02-09T04:00:14Z",
-    "updated_at": "2026-05-06T16:15:29Z",
+    "updated_at": "2026-05-11T06:37:44Z",
     "size": 304,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

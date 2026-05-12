@@ -1,0 +1,29 @@
+{
+  "id": "christroutner-trout-pi-agent",
+  "name": "christroutner-trout-pi-agent",
+  "url": "https://github.com/christroutner/trout-pi-agent",
+  "source": "github-search",
+  "description": "A boilerplate for creating a Pi Coding Agent, with my favorite default extensions",
+  "metadata": {
+    "github_url": "https://github.com/christroutner/trout-pi-agent",
+    "repo_full_name": "christroutner/trout-pi-agent",
+    "description": "A boilerplate for creating a Pi Coding Agent, with my favorite default extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-11T15:34:17Z",
+    "pushed_at": "2026-05-11T20:04:44Z",
+    "updated_at": "2026-05-11T20:04:49Z",
+    "size": 44,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

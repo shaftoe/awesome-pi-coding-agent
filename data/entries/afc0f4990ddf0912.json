@@ -10,7 +10,7 @@
     "description": "",
     "stars": 5,
     "forks": 2,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "ai-gateway",
       "omniroute",
@@ -27,7 +27,7 @@
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 51,
+    "score": 59,
     "level": "maintained"
   },
   "category": "extension"

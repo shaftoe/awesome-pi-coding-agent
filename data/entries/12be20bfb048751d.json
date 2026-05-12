@@ -9,7 +9,7 @@
     "repo_full_name": "netandreus/pi-cursor-provider",
     "description": "Pi Coding Agent custom provider that routes requests through the Cursor Agent CLI — use your Cursor subscription models (Claude, GPT, Gemini, Grok…) inside Pi.",
     "stars": 26,
-    "forks": 7,
+    "forks": 8,
     "open_issues": 2,
     "topics": [],
     "language": "TypeScript",

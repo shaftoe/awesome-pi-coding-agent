@@ -1,0 +1,29 @@
+{
+  "id": "dantetekanem-pi-agentic-search",
+  "name": "dantetekanem-pi-agentic-search",
+  "url": "https://github.com/dantetekanem/pi-agentic-search",
+  "source": "github-search",
+  "description": "Make AI more intentional, not just wandering around, feeling lost.",
+  "metadata": {
+    "github_url": "https://github.com/dantetekanem/pi-agentic-search",
+    "repo_full_name": "dantetekanem/pi-agentic-search",
+    "description": "Make AI more intentional, not just wandering around, feeling lost.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-10T21:51:58Z",
+    "pushed_at": "2026-05-11T02:29:11Z",
+    "updated_at": "2026-05-11T20:13:32Z",
+    "size": 48,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "gotgenes-pi-subagents",
+  "name": "gotgenes-pi-subagents",
+  "url": "https://github.com/gotgenes/pi-subagents",
+  "source": "github-search",
+  "description": "Friendly fork of tintinweb/pi-subagents — Pi extension for Claude Code-style autonomous sub-agents, with RepOne-required patches.",
+  "metadata": {
+    "github_url": "https://github.com/gotgenes/pi-subagents",
+    "repo_full_name": "gotgenes/pi-subagents",
+    "description": "Friendly fork of tintinweb/pi-subagents — Pi extension for Claude Code-style autonomous sub-agents, with RepOne-required patches.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T01:51:39Z",
+    "pushed_at": "2026-05-12T01:53:52Z",
+    "updated_at": "2026-05-12T01:52:10Z",
+    "size": 11348,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

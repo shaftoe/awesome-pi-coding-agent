@@ -1,0 +1,39 @@
+{
+  "id": "code-yeongyu-pi-anthropic-web-fetch",
+  "name": "code-yeongyu-pi-anthropic-web-fetch",
+  "url": "https://github.com/code-yeongyu/pi-anthropic-web-fetch",
+  "source": "github-search",
+  "description": "Anthropic native web fetch policy extension for the pi coding agent. Ensures native web_fetch tools are present on anthropic-messages payloads and appends web fetch guidance to the system prompt.",
+  "metadata": {
+    "github_url": "https://github.com/code-yeongyu/pi-anthropic-web-fetch",
+    "repo_full_name": "code-yeongyu/pi-anthropic-web-fetch",
+    "description": "Anthropic native web fetch policy extension for the pi coding agent. Ensures native web_fetch tools are present on anthropic-messages payloads and appends web fetch guidance to the system prompt.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "anthropic",
+      "claude",
+      "coding-agent",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-mono",
+      "typescript",
+      "web-fetch"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T04:08:43Z",
+    "pushed_at": "2026-05-12T04:14:47Z",
+    "updated_at": "2026-05-12T04:14:51Z",
+    "size": 47,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

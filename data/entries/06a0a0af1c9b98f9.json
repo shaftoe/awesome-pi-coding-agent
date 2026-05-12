@@ -8,7 +8,7 @@
     "github_url": "https://github.com/joeygibson/pi-extensions",
     "repo_full_name": "joeygibson/pi-extensions",
     "description": "Extensions for the pi coding agent",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-30T19:08:16Z",
     "pushed_at": "2026-05-08T11:46:32Z",
-    "updated_at": "2026-05-08T11:46:42Z",
+    "updated_at": "2026-05-11T19:04:07Z",
     "size": 66,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

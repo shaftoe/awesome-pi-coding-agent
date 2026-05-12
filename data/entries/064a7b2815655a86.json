@@ -8,7 +8,7 @@
     "github_url": "https://github.com/espennilsen/pilot",
     "repo_full_name": "espennilsen/pilot",
     "description": "A desktop coding agent with a GUI. Electron + React app powered by Pi Coding Agent. A chat-driven development with sandboxed file editing, git integration, dependency-aware task management, persistent memory, and an iOS/iPad companion for remote control.",
-    "stars": 29,
+    "stars": 30,
     "forks": 3,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-23T13:30:19Z",
     "pushed_at": "2026-05-09T04:23:22Z",
-    "updated_at": "2026-05-09T04:43:56Z",
+    "updated_at": "2026-05-11T15:09:57Z",
     "size": 23203,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,29 @@
+{
+  "id": "harms-haus-pi-till-done",
+  "name": "harms-haus-pi-till-done",
+  "url": "https://github.com/harms-haus/pi-till-done",
+  "source": "github-search",
+  "description": "pi-coding-agent extension: todo list that iterates until all tasks are done",
+  "metadata": {
+    "github_url": "https://github.com/harms-haus/pi-till-done",
+    "repo_full_name": "harms-haus/pi-till-done",
+    "description": "pi-coding-agent extension: todo list that iterates until all tasks are done",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T02:49:38Z",
+    "pushed_at": "2026-05-12T02:53:23Z",
+    "updated_at": "2026-05-12T02:53:27Z",
+    "size": 14,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

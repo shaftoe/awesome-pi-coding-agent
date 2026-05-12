@@ -17,7 +17,7 @@
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 39,
+    "score": 32,
     "level": "stale"
   },
   "category": "video"

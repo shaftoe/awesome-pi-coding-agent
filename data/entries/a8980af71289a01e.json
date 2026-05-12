@@ -10,7 +10,7 @@
     "description": "Pi coding agent extension for Claude via Google Cloud Vertex AI",
     "stars": 4,
     "forks": 4,
-    "open_issues": 3,
+    "open_issues": 2,
     "topics": [
       "ai",
       "anthropic",

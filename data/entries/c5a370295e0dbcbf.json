@@ -1,0 +1,33 @@
+{
+  "id": "pi-repo-baby",
+  "name": "pi-repo-baby",
+  "url": "https://www.npmjs.com/package/pi-repo-baby",
+  "source": "npm-search",
+  "description": "Repository map generator for Pi — gives the agent structural awareness of any codebase via Tree-sitter",
+  "metadata": {
+    "github_url": "https://github.com/k2-888/pi-repo-baby",
+    "npm_name": "pi-repo-baby",
+    "description": "Repository map generator for Pi — gives the agent structural awareness of any codebase via Tree-sitter",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "repository-map",
+      "tree-sitter",
+      "code-analysis"
+    ],
+    "version": "2.2.0",
+    "published_at": "2026-05-11T11:29:17.682Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

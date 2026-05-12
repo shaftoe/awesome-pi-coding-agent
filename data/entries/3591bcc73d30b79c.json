@@ -8,7 +8,7 @@
     "github_url": "https://github.com/artur-shlyapnikov/pi-north-star",
     "repo_full_name": "artur-shlyapnikov/pi-north-star",
     "description": "persistent /goal workflow extension for Pi coding-agent, enabling Codex-style long-running objectives, pause/resume/clear lifecycle, and goal-aware continuations",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,13 +16,13 @@
     "archived": false,
     "created_at": "2026-05-08T08:43:50Z",
     "pushed_at": "2026-05-10T19:06:50Z",
-    "updated_at": "2026-05-10T19:06:54Z",
+    "updated_at": "2026-05-11T14:12:16Z",
     "size": 87,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
+    "score": 55,
     "level": "maintained"
   },
   "category": "extension"

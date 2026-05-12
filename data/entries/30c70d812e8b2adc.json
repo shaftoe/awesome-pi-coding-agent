@@ -1,0 +1,39 @@
+{
+  "id": "code-yeongyu-pi-google-google-search",
+  "name": "code-yeongyu-pi-google-google-search",
+  "url": "https://github.com/code-yeongyu/pi-google-google-search",
+  "source": "github-search",
+  "description": "Google native search policy extension for the pi coding agent. Ensures native googleSearch tools are present on Google API payloads by default and appends Google Search guidance to the system prompt.",
+  "metadata": {
+    "github_url": "https://github.com/code-yeongyu/pi-google-google-search",
+    "repo_full_name": "code-yeongyu/pi-google-google-search",
+    "description": "Google native search policy extension for the pi coding agent. Ensures native googleSearch tools are present on Google API payloads by default and appends Google Search guidance to the system prompt.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "gemini",
+      "google",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-mono",
+      "search",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T04:08:54Z",
+    "pushed_at": "2026-05-12T04:14:58Z",
+    "updated_at": "2026-05-12T05:14:08Z",
+    "size": 47,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

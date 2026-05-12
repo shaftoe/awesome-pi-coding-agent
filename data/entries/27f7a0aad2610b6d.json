@@ -1,0 +1,29 @@
+{
+  "id": "xuzhixiangya-pi-web-ui",
+  "name": "xuzhixiangya-pi-web-ui",
+  "url": "https://github.com/xuzhixiangya/pi-web-ui",
+  "source": "github-search",
+  "description": "Pi coding agent over web frontend.",
+  "metadata": {
+    "github_url": "https://github.com/xuzhixiangya/pi-web-ui",
+    "repo_full_name": "xuzhixiangya/pi-web-ui",
+    "description": "Pi coding agent over web frontend.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": null,
+    "archived": false,
+    "created_at": "2026-05-05T15:40:26Z",
+    "pushed_at": "2026-04-27T19:34:54Z",
+    "updated_at": "2026-05-05T15:40:26Z",
+    "size": 1888,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

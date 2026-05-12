@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ronnieops/pi-search-multi",
     "repo_full_name": "ronnieops/pi-search-multi",
     "description": "Unified web search extension for pi — 11 backends (DuckDuckGo, Tavily, Brave, Exa, Serper, Firecrawl, Marginalia, LangSearch, WebSearchAPI, Perplexity Sonar, SearXNG) with auto-fallback, combine mode, rate limiting, and secure key storage.",
-    "stars": 8,
+    "stars": 9,
     "forks": 2,
     "open_issues": 0,
     "topics": [
@@ -29,9 +29,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-04T20:54:02Z",
-    "pushed_at": "2026-05-10T23:51:32Z",
-    "updated_at": "2026-05-10T23:51:36Z",
-    "size": 55,
+    "pushed_at": "2026-05-11T20:51:56Z",
+    "updated_at": "2026-05-11T20:52:01Z",
+    "size": 62,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

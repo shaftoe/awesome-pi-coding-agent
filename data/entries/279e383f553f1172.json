@@ -1,0 +1,38 @@
+{
+  "id": "fitchmultz-agent-eval",
+  "name": "fitchmultz-agent-eval",
+  "url": "https://github.com/fitchmultz/agent-eval",
+  "source": "github-search",
+  "description": "Transcript-first evaluation tool for comparing coding-agent sessions across Codex, Claude Code, and Pi.",
+  "metadata": {
+    "github_url": "https://github.com/fitchmultz/agent-eval",
+    "repo_full_name": "fitchmultz/agent-eval",
+    "description": "Transcript-first evaluation tool for comparing coding-agent sessions across Codex, Claude Code, and Pi.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-eval",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "evaluation",
+      "pi",
+      "transcripts",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-06T18:55:59Z",
+    "pushed_at": "2026-05-11T19:08:52Z",
+    "updated_at": "2026-05-11T19:09:28Z",
+    "size": 1088,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}
