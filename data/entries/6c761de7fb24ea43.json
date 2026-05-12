@@ -8,7 +8,7 @@
     "github_url": "https://github.com/RimuruW/pi-advisor",
     "repo_full_name": "RimuruW/pi-advisor",
     "description": "Pi extension package that adds an advisor tool for strategic guidance during complex agent tasks.",
-    "stars": 5,
+    "stars": 6,
     "forks": 2,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-10T11:39:36Z",
     "pushed_at": "2026-05-09T18:32:51Z",
-    "updated_at": "2026-05-09T18:32:55Z",
+    "updated_at": "2026-05-11T09:22:43Z",
     "size": 57,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

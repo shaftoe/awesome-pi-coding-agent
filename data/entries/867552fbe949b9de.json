@@ -1,0 +1,24 @@
+{
+  "id": "YT_FDjFogArwWA",
+  "name": "Your AI Agent Is Coding Blind — GitNexus Changes That",
+  "url": "https://youtube.com/watch?v=FDjFogArwWA",
+  "source": "youtube-search",
+  "description": "Your AI coding agent doesn't know your codebase — it knows your files. GitNexus fixes that with a knowledge graph built for ...",
+  "metadata": {
+    "title": "Your AI Agent Is Coding Blind — GitNexus Changes That",
+    "name": "Your AI Agent Is Coding Blind — GitNexus Changes That",
+    "description": "Your AI coding agent doesn't know your codebase — it knows your files. GitNexus fixes that with a knowledge graph built for ...",
+    "channel": "Panda Making Money",
+    "published_at": "2026-05-12T03:57:18Z",
+    "thumbnail": "https://i.ytimg.com/vi/FDjFogArwWA/hqdefault.jpg",
+    "views": 75,
+    "likes": 12,
+    "comments": 1,
+    "discovery_hint": "youtube:pi-coding-agent"
+  },
+  "health": {
+    "score": 44,
+    "level": "maintained"
+  },
+  "category": "video"
+}

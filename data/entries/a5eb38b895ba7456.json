@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ifiokjr/oh-pi",
     "repo_full_name": "ifiokjr/oh-pi",
     "description": "One-click setup for pi-coding-agent — extensions, themes, prompts, skills, and ant-colony swarm. Like oh-my-zsh for pi.",
-    "stars": 102,
+    "stars": 105,
     "forks": 12,
     "open_issues": 29,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-08T08:33:14Z",
     "pushed_at": "2026-05-10T13:12:03Z",
-    "updated_at": "2026-05-11T05:29:30Z",
+    "updated_at": "2026-05-12T05:07:52Z",
     "size": 5812,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

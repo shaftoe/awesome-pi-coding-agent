@@ -1,0 +1,39 @@
+{
+  "id": "code-yeongyu-pi-google-code-execution",
+  "name": "code-yeongyu-pi-google-code-execution",
+  "url": "https://github.com/code-yeongyu/pi-google-code-execution",
+  "source": "github-search",
+  "description": "Google native code execution policy extension for the pi coding agent. Ensures native codeExecution tools are present on Google API payloads when opt-in env toggle is enabled and appends Code Execution guidance to the system prompt.",
+  "metadata": {
+    "github_url": "https://github.com/code-yeongyu/pi-google-code-execution",
+    "repo_full_name": "code-yeongyu/pi-google-code-execution",
+    "description": "Google native code execution policy extension for the pi coding agent. Ensures native codeExecution tools are present on Google API payloads when opt-in env toggle is enabled and appends Code Execution guidance to the system prompt.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "code-execution",
+      "coding-agent",
+      "gemini",
+      "google",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-mono",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T04:08:50Z",
+    "pushed_at": "2026-05-12T04:14:56Z",
+    "updated_at": "2026-05-12T04:14:59Z",
+    "size": 48,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

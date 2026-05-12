@@ -9,7 +9,7 @@
     "repo_full_name": "drsh4dow/pi-delegate",
     "description": "Pi extension that adds one delegate tool for isolated child-agent tasks without polluting the main  context.",
     "stars": 2,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "ai-agent",

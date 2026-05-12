@@ -1,0 +1,29 @@
+{
+  "id": "SamMorrowDrums-mcpi-ext",
+  "name": "SamMorrowDrums-mcpi-ext",
+  "url": "https://github.com/SamMorrowDrums/mcpi-ext",
+  "source": "github-search",
+  "description": "MCP focused pi agent",
+  "metadata": {
+    "github_url": "https://github.com/SamMorrowDrums/mcpi-ext",
+    "repo_full_name": "SamMorrowDrums/mcpi-ext",
+    "description": "MCP focused pi agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 5,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-23T07:55:38Z",
+    "pushed_at": "2026-05-11T20:45:18Z",
+    "updated_at": "2026-05-11T20:38:28Z",
+    "size": 1094,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 66,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

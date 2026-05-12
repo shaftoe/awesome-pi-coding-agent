@@ -1,0 +1,38 @@
+{
+  "id": "pi-zai-mcp",
+  "name": "pi-zai-mcp",
+  "url": "https://www.npmjs.com/package/pi-zai-mcp",
+  "source": "npm-search",
+  "description": "Z.ai MCP server bridge for pi with web search, reader, zread, and vision tools.",
+  "metadata": {
+    "github_url": "https://github.com/fitchmultz/pi-zai-mcp",
+    "repo_full_name": "fitchmultz/pi-zai-mcp",
+    "description": "Z.ai MCP server bridge for pi with web search, reader, zread, and vision tools.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "mcp",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "typescript",
+      "vision",
+      "web-search",
+      "zai"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-29T13:46:04Z",
+    "pushed_at": "2026-05-11T15:11:55Z",
+    "updated_at": "2026-05-11T15:27:12Z",
+    "size": 101,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

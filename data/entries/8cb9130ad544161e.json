@@ -1,0 +1,37 @@
+{
+  "id": "Qredence-fleet-pi",
+  "name": "Qredence-fleet-pi",
+  "url": "https://github.com/Qredence/fleet-pi",
+  "source": "github-search",
+  "description": "Fleet Pi , workspace for Pi-powered coding agents, with durable plans, memory, and repo-scoped tools",
+  "metadata": {
+    "github_url": "https://github.com/Qredence/fleet-pi",
+    "repo_full_name": "Qredence/fleet-pi",
+    "description": "Fleet Pi , workspace for Pi-powered coding agents, with durable plans, memory, and repo-scoped tools",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-skill",
+      "agentic-ai",
+      "ai-agents",
+      "coding-agent",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-25T15:49:53Z",
+    "pushed_at": "2026-05-12T02:06:32Z",
+    "updated_at": "2026-05-12T03:53:23Z",
+    "size": 1163,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

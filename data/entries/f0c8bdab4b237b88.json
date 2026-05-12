@@ -10,7 +10,7 @@
     "description": "GitHub Action to invoke the PI coding agent on issues and PRs via comment triggers",
     "stars": 23,
     "forks": 2,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 64,
-    "level": "maintained"
+    "score": 72,
+    "level": "active"
   },
   "category": "misc"
 }

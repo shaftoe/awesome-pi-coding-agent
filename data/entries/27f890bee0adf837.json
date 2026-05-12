@@ -1,0 +1,29 @@
+{
+  "id": "codestreamkr-pi-agent-init",
+  "name": "codestreamkr-pi-agent-init",
+  "url": "https://github.com/codestreamkr/pi-agent-init",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/codestreamkr/pi-agent-init",
+    "repo_full_name": "codestreamkr/pi-agent-init",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T01:59:33Z",
+    "pushed_at": "2026-05-12T02:08:41Z",
+    "updated_at": "2026-05-12T02:08:44Z",
+    "size": 4,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

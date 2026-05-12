@@ -8,7 +8,7 @@
     "github_url": "https://github.com/code-yeongyu/pi-goal",
     "repo_full_name": "code-yeongyu/pi-goal",
     "description": "Persistent Codex-style goal tracking extension for pi",
-    "stars": 5,
+    "stars": 7,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-07T02:17:03Z",
-    "pushed_at": "2026-05-11T04:25:53Z",
-    "updated_at": "2026-05-11T04:25:57Z",
-    "size": 341,
+    "pushed_at": "2026-05-12T04:14:54Z",
+    "updated_at": "2026-05-12T04:14:58Z",
+    "size": 351,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

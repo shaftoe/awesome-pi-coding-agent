@@ -8,7 +8,7 @@
     "github_url": "https://github.com/sudosubin/pi-frontier",
     "repo_full_name": "sudosubin/pi-frontier",
     "description": "Leverages the power of frontier Coding Agents, empowering pi with their capabilities.",
-    "stars": 22,
+    "stars": 23,
     "forks": 4,
     "open_issues": 8,
     "topics": [
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-02-07T16:09:10Z",
     "pushed_at": "2026-04-12T14:22:49Z",
-    "updated_at": "2026-05-08T00:06:20Z",
+    "updated_at": "2026-05-11T18:24:50Z",
     "size": 1219,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

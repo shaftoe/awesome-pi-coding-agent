@@ -1,0 +1,29 @@
+{
+  "id": "Neonotso-pi-agent-web",
+  "name": "Neonotso-pi-agent-web",
+  "url": "https://github.com/Neonotso/pi-agent-web",
+  "source": "github-search",
+  "description": "Web interface for the Pi coding agent with multi-session sidebar and PWA support for iPhone/Mac",
+  "metadata": {
+    "github_url": "https://github.com/Neonotso/pi-agent-web",
+    "repo_full_name": "Neonotso/pi-agent-web",
+    "description": "Web interface for the Pi coding agent with multi-session sidebar and PWA support for iPhone/Mac",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-11T22:56:21Z",
+    "pushed_at": "2026-05-12T03:49:10Z",
+    "updated_at": "2026-05-12T03:49:13Z",
+    "size": 85,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

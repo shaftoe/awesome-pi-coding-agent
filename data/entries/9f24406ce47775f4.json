@@ -3,33 +3,45 @@
   "name": "@synadia-ai/nats-pi-headless",
   "url": "https://www.npmjs.com/package/@synadia-ai/nats-pi-headless",
   "source": "npm-search",
-  "description": "NATS Agent Protocol channel for PI Agent. Makes every PI session a discoverable, spec-compliant agent on NATS.",
+  "description": "SDKs and reference implementations for the Synadia Agent Protocol for NATS",
   "metadata": {
     "github_url": "https://github.com/synadia-ai/synadia-agents",
-    "npm_name": "@synadia-ai/nats-pi-channel",
-    "description": "NATS Agent Protocol channel for PI Agent. Makes every PI session a discoverable, spec-compliant agent on NATS.",
-    "keywords": [
-      "pi-package",
-      "pi-agent",
+    "repo_full_name": "synadia-ai/synadia-agents",
+    "description": "SDKs and reference implementations for the Synadia Agent Protocol for NATS",
+    "stars": 32,
+    "forks": 1,
+    "open_issues": 3,
+    "topics": [
+      "agent-protocol",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "dspy",
+      "hermes-agent",
+      "llm",
+      "multi-agent",
+      "multi-agent-system",
       "nats",
-      "agent",
-      "channel",
-      "nats-agent-protocol",
-      "synadia-agents"
+      "nats-io",
+      "open-agents",
+      "openclaw",
+      "pi-coding-agent",
+      "python",
+      "sdk",
+      "typescript"
     ],
-    "version": "0.5.2",
-    "published_at": "2026-05-04T20:43:07.968Z",
-    "npm_downloads_monthly": 128,
-    "npm_downloads_weekly": 128,
-    "npm_score_final": 17.357243,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-22T16:18:14Z",
+    "pushed_at": "2026-05-11T22:02:40Z",
+    "updated_at": "2026-05-12T03:58:03Z",
+    "size": 2592,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 82,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
-  "category": "extension"
+  "category": "misc"
 }

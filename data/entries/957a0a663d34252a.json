@@ -1,0 +1,39 @@
+{
+  "id": "code-yeongyu-pi-google-url-context",
+  "name": "code-yeongyu-pi-google-url-context",
+  "url": "https://github.com/code-yeongyu/pi-google-url-context",
+  "source": "github-search",
+  "description": "Google native URL context policy extension for the pi coding agent. Ensures native urlContext tools are present on Google API payloads when default-on env toggle is enabled and appends URL Context guidance to the system prompt.",
+  "metadata": {
+    "github_url": "https://github.com/code-yeongyu/pi-google-url-context",
+    "repo_full_name": "code-yeongyu/pi-google-url-context",
+    "description": "Google native URL context policy extension for the pi coding agent. Ensures native urlContext tools are present on Google API payloads when default-on env toggle is enabled and appends URL Context guidance to the system prompt.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "gemini",
+      "google",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-mono",
+      "typescript",
+      "url-context"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T04:08:58Z",
+    "pushed_at": "2026-05-12T04:14:59Z",
+    "updated_at": "2026-05-12T04:15:03Z",
+    "size": 47,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

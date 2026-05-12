@@ -8,9 +8,9 @@
     "github_url": "https://github.com/eko24ive/pi-ask",
     "repo_full_name": "eko24ive/pi-ask",
     "description": "Interactive clarification flows for Pi coding agent",
-    "stars": 17,
+    "stars": 18,
     "forks": 4,
-    "open_issues": 5,
+    "open_issues": 4,
     "topics": [
       "ai",
       "ask",
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-03-05T10:13:09Z",
     "pushed_at": "2026-05-06T12:27:04Z",
-    "updated_at": "2026-05-08T05:31:28Z",
+    "updated_at": "2026-05-12T04:42:04Z",
     "size": 4009,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

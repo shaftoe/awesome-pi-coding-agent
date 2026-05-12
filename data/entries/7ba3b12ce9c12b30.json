@@ -9,7 +9,7 @@
     "repo_full_name": "fgrehm/pi-ollama-cloud",
     "description": "Ollama Cloud plugin for Pi coding agent (API Key based)",
     "stars": 17,
-    "forks": 3,
+    "forks": 4,
     "open_issues": 1,
     "topics": [],
     "language": "TypeScript",

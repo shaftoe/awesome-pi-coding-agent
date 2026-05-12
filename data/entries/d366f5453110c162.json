@@ -1,0 +1,37 @@
+{
+  "id": "pi-packs",
+  "name": "pi-packs",
+  "url": "https://www.npmjs.com/package/pi-packs",
+  "source": "npm-search",
+  "description": "Umbrella Pi package: /install picker for a curated set of pi extensions (pi-qq, pi-chrome, pi-linter, pi-bar, pi-prompt-shelf, pi-caveman).",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-packs",
+    "description": "Umbrella Pi package: /install picker for a curated set of pi extensions (pi-qq, pi-chrome, pi-linter, pi-bar, pi-prompt-shelf, pi-caveman).",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-packs",
+      "pi-qq",
+      "pi-chrome",
+      "pi-linter",
+      "pi-bar",
+      "pi-prompt-shelf",
+      "pi-caveman"
+    ],
+    "version": "0.7.8",
+    "published_at": "2026-05-12T05:27:12.779Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

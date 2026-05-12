@@ -1,0 +1,38 @@
+{
+  "id": "pi-bar",
+  "name": "pi-bar",
+  "url": "https://www.npmjs.com/package/pi-bar",
+  "source": "npm-search",
+  "description": "Never accidentally run Opus on a typo. Pi footer/statusline showing active model, thinking level, and context usage.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-bar",
+    "description": "Never accidentally run Opus on a typo. Pi footer/statusline showing active model, thinking level, and context usage.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-bar",
+      "footer",
+      "statusline",
+      "model",
+      "thinking",
+      "context",
+      "context-window"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-05-12T03:17:57.749Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

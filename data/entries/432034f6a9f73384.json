@@ -10,7 +10,7 @@
     "description": "memory for the people of pi (with help of hindsight)",
     "stars": 2,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "hindsight",
       "hindsight-memory",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-25T15:16:43Z",
-    "pushed_at": "2026-05-10T12:20:58Z",
+    "pushed_at": "2026-05-11T23:33:34Z",
     "updated_at": "2026-05-10T12:20:42Z",
-    "size": 1957,
+    "size": 2079,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

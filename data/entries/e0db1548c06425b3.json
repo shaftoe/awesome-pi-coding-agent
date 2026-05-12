@@ -3,26 +3,26 @@
   "name": "pi-vision-proxy",
   "url": "https://www.npmjs.com/package/pi-vision-proxy",
   "source": "npm-search",
-  "description": "Automatic image description for non-vision models in Pi. Routes images to a vision model and injects descriptions into context.",
+  "description": "Automatic image, video and audio description for any model in Pi. Routes media to a multimodal model and injects descriptions into context.",
   "metadata": {
     "github_url": "https://github.com/pungggi/pi-vision-proxy",
-    "npm_name": "pi-vision-proxy",
-    "description": "Automatic image description for non-vision models in Pi. Routes images to a vision model and injects descriptions into context.",
+    "npm_name": "pi-multimodal-proxy",
+    "description": "Automatic image, video and audio description for any model in Pi. Routes media to a multimodal model and injects descriptions into context.",
     "keywords": [
       "pi-package"
     ],
-    "version": "1.4.0-beta.3",
-    "published_at": "2026-05-07T21:12:46.883Z",
-    "npm_downloads_monthly": 979,
-    "npm_downloads_weekly": 979,
-    "npm_score_final": 26.1867,
+    "version": "1.6.0-beta.0",
+    "published_at": "2026-05-11T18:12:57.687Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 82,
+    "score": 72,
     "level": "active"
   },
   "category": "extension"
