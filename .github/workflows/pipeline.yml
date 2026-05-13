@@ -96,7 +96,7 @@ jobs:
       - name: Upload fixed data artifacts
         uses: actions/upload-artifact@v7
         with:
-          name: pipeline-data
+          name: pipeline-data-fixed
           path: |
             data/
             README.md
@@ -111,7 +111,7 @@ jobs:
 
       - uses: actions/download-artifact@v8
         with:
-          name: pipeline-data
+          name: pipeline-data-fixed
           path: .
 
       - name: Configure git
