@@ -10,7 +10,7 @@
     "description": "Pi extension that auto-formats agent-edited files at prompt end so formatting doesn't fail later at commit time.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 3,
     "topics": [
       "autoformat",
       "biome",
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-28T21:48:44Z",
-    "pushed_at": "2026-05-08T03:48:48Z",
-    "updated_at": "2026-05-08T03:48:08Z",
-    "size": 661,
+    "pushed_at": "2026-05-13T14:30:16Z",
+    "updated_at": "2026-05-13T15:07:08Z",
+    "size": 675,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

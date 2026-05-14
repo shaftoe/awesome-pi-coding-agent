@@ -1,0 +1,29 @@
+{
+  "id": "lucas-stellet-pi-os",
+  "name": "lucas-stellet-pi-os",
+  "url": "https://github.com/lucas-stellet/pi-os",
+  "source": "github-search",
+  "description": "pi-os is a workbench for the Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/lucas-stellet/pi-os",
+    "repo_full_name": "lucas-stellet/pi-os",
+    "description": "pi-os is a workbench for the Pi coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": null,
+    "archived": false,
+    "created_at": "2026-05-13T23:26:39Z",
+    "pushed_at": "2026-05-13T18:42:43Z",
+    "updated_at": "2026-05-13T23:30:19Z",
+    "size": 1766,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

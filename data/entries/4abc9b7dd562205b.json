@@ -8,7 +8,7 @@
     "github_url": "https://github.com/FaiyazAwsaf/convex-sandbox-chatbot",
     "repo_full_name": "FaiyazAwsaf/convex-sandbox-chatbot",
     "description": "Chatbot app where each conversation spins up its own isolated VM with a Pi Agent, orchestrated by Convex.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-18T08:35:40Z",
     "pushed_at": "2026-04-19T11:42:26Z",
-    "updated_at": "2026-04-25T09:17:33Z",
+    "updated_at": "2026-05-13T10:53:27Z",
     "size": 255,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

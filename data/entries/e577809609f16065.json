@@ -8,7 +8,7 @@
     "github_url": "https://github.com/warpdot-dev/craft-agents-oss",
     "repo_full_name": "warpdot-dev/craft-agents-oss",
     "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
-    "stars": 217,
+    "stars": 218,
     "forks": 242,
     "open_issues": 0,
     "topics": [
@@ -35,7 +35,7 @@
     "archived": false,
     "created_at": "2026-05-01T07:19:21Z",
     "pushed_at": "2026-05-01T07:20:30Z",
-    "updated_at": "2026-05-10T07:42:22Z",
+    "updated_at": "2026-05-13T20:02:10Z",
     "size": 15106,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

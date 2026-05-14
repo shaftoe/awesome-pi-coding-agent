@@ -10,7 +10,7 @@
     "description": "A pi extension that lets LLMs ask structured questions to users via an interactive TUI form.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 4,
+    "open_issues": 6,
     "topics": [
       "extension",
       "pi-agent"
@@ -18,9 +18,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-18T13:21:07Z",
-    "pushed_at": "2026-05-09T05:20:15Z",
+    "pushed_at": "2026-05-13T09:00:16Z",
     "updated_at": "2026-04-23T22:45:09Z",
-    "size": 4965,
+    "size": 4967,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

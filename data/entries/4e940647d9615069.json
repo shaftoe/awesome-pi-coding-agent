@@ -1,0 +1,29 @@
+{
+  "id": "roaanv-macpi",
+  "name": "roaanv-macpi",
+  "url": "https://github.com/roaanv/macpi",
+  "source": "github-search",
+  "description": "GUI for Pi Agent",
+  "metadata": {
+    "github_url": "https://github.com/roaanv/macpi",
+    "repo_full_name": "roaanv/macpi",
+    "description": "GUI for Pi Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T10:32:36Z",
+    "pushed_at": "2026-05-13T12:41:01Z",
+    "updated_at": "2026-05-13T12:41:06Z",
+    "size": 4159,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

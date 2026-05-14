@@ -1,0 +1,29 @@
+{
+  "id": "@aveltens/pi-kit-linked-data",
+  "name": "@aveltens/pi-kit-linked-data",
+  "url": "https://www.npmjs.com/package/@aveltens/pi-kit-linked-data",
+  "source": "npm-search",
+  "description": "Skills and extensions for the Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/angelo-v/pi-kit",
+    "repo_full_name": "angelo-v/pi-kit",
+    "description": "Skills and extensions for the Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T22:04:26Z",
+    "pushed_at": "2026-05-13T22:21:42Z",
+    "updated_at": "2026-05-13T22:21:46Z",
+    "size": 306,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

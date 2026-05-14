@@ -8,7 +8,7 @@
     "github_url": "https://github.com/samfoy/pi-session-search",
     "repo_full_name": "samfoy/pi-session-search",
     "description": "Semantic search over past pi coding sessions — index, browse, and read your coding history",
-    "stars": 6,
+    "stars": 7,
     "forks": 5,
     "open_issues": 0,
     "topics": [
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-17T18:27:17Z",
-    "pushed_at": "2026-05-11T22:39:03Z",
-    "updated_at": "2026-05-11T22:39:06Z",
-    "size": 165,
+    "pushed_at": "2026-05-13T00:07:02Z",
+    "updated_at": "2026-05-13T00:07:06Z",
+    "size": 230,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

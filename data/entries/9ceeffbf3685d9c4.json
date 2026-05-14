@@ -10,7 +10,7 @@
     "description": "A Pi-native iterative development workflow package with 8 skills and 14 tools for structured brainstorm → plan → work → review → learn cycles.",
     "stars": 11,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "brainstorm",
       "coding-agent",

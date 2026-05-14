@@ -1,0 +1,46 @@
+{
+  "id": "pi-agent-goal",
+  "name": "pi-agent-goal",
+  "url": "https://www.npmjs.com/package/pi-agent-goal",
+  "source": "npm-search",
+  "description": "Pi extension that gives coding agents persistent /goal workflows with branch-aware state, source imports, progress tools, and explicit start handoffs.",
+  "metadata": {
+    "github_url": "https://github.com/KristjanPikhof/Pi-Agent-Goal",
+    "repo_full_name": "KristjanPikhof/Pi-Agent-Goal",
+    "description": "Pi extension that gives coding agents persistent /goal workflows with branch-aware state, source imports, progress tools, and explicit start handoffs.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agents",
+      "ai",
+      "automation",
+      "coding-agent",
+      "developer-tools",
+      "goal",
+      "goal-management",
+      "goal-tracking",
+      "goals",
+      "long-running-agents",
+      "pi",
+      "pi-agent-goal",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-extensions",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T21:20:43Z",
+    "pushed_at": "2026-05-12T23:40:01Z",
+    "updated_at": "2026-05-12T23:40:04Z",
+    "size": 349,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

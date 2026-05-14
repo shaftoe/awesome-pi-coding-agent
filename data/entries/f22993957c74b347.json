@@ -8,7 +8,7 @@
     "github_url": "https://github.com/yeliu84/pi-model-router",
     "repo_full_name": "yeliu84/pi-model-router",
     "description": "Extension for the pi coding agent that intelligently routes each turn to the right LLM tier (high/medium/low) based on task intent, session budget, context size, and custom rules.",
-    "stars": 12,
+    "stars": 13,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-13T15:54:24Z",
     "pushed_at": "2026-05-08T15:52:58Z",
-    "updated_at": "2026-05-08T20:31:32Z",
+    "updated_at": "2026-05-13T19:41:16Z",
     "size": 42766,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

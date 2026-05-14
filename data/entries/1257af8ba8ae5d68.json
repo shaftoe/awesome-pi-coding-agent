@@ -1,0 +1,29 @@
+{
+  "id": "pi-defender",
+  "name": "pi-defender",
+  "url": "https://www.npmjs.com/package/pi-defender",
+  "source": "npm-search",
+  "description": "Defense-in-depth protection for Pi coding agent. Blocks dangerous commands and protects sensitive files via Pi extensions.",
+  "metadata": {
+    "github_url": "https://github.com/Serhioromano/pi-defender",
+    "repo_full_name": "Serhioromano/pi-defender",
+    "description": "Defense-in-depth protection for Pi coding agent. Blocks dangerous commands and protects sensitive files via Pi extensions.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T05:53:42Z",
+    "pushed_at": "2026-05-13T06:33:48Z",
+    "updated_at": "2026-05-13T06:33:50Z",
+    "size": 3918,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

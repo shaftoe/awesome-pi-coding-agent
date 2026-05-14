@@ -10,23 +10,29 @@
     "description": "Persistent shared task lists for Pi agents and MCP clients.",
     "keywords": [
       "pi-package",
+      "pi-extension",
+      "pi-skill",
       "pi",
       "mcp",
       "tasks",
-      "agents"
+      "agents",
+      "task-management",
+      "multi-agent",
+      "coordination",
+      "sqlite"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-05-11T09:52:53.131Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "1.1.1",
+    "published_at": "2026-05-13T09:19:56.810Z",
+    "npm_downloads_monthly": 312,
+    "npm_downloads_weekly": 312,
+    "npm_score_final": 21.99347,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 72,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

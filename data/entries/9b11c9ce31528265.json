@@ -1,0 +1,44 @@
+{
+  "id": "nordbyte-nordrelay",
+  "name": "nordbyte-nordrelay",
+  "url": "https://github.com/nordbyte/nordrelay",
+  "source": "github-search",
+  "description": "NordRelay is a secure remote control bridge for coding agents, connecting Codex, Pi, Hermes, OpenClaw and Claude Code to Telegram/WebUI with streaming replies, sessions, files, voice, queues, artifacts and access controls.",
+  "metadata": {
+    "github_url": "https://github.com/nordbyte/nordrelay",
+    "repo_full_name": "nordbyte/nordrelay",
+    "description": "NordRelay is a secure remote control bridge for coding agents, connecting Codex, Pi, Hermes, OpenClaw and Claude Code to Telegram/WebUI with streaming replies, sessions, files, voice, queues, artifacts and access controls.",
+    "stars": 3,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claw",
+      "codex",
+      "coding-agent",
+      "hermes",
+      "hermes-agent",
+      "openai",
+      "openclaw",
+      "pi",
+      "pi-agent",
+      "remote-control",
+      "telegram"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T10:21:14Z",
+    "pushed_at": "2026-05-13T18:51:14Z",
+    "updated_at": "2026-05-13T18:51:19Z",
+    "size": 1517,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

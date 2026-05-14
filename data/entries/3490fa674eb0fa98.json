@@ -1,0 +1,39 @@
+{
+  "id": "swt-labs-stop-wasting-tokens",
+  "name": "swt-labs-stop-wasting-tokens",
+  "url": "https://github.com/swt-labs/stop-wasting-tokens",
+  "source": "github-search",
+  "description": "Methodology-first SDLC for vendor-agnostic coding agents. v3 (Pi-native, worktree-isolated) in design on main — see TDD2.md; v2.3.5 (Codex CLI) lives on the v2-archive branch.",
+  "metadata": {
+    "github_url": "https://github.com/swt-labs/stop-wasting-tokens",
+    "repo_full_name": "swt-labs/stop-wasting-tokens",
+    "description": "Methodology-first SDLC for vendor-agnostic coding agents. v3 (Pi-native, worktree-isolated) in design on main — see TDD2.md; v2.3.5 (Codex CLI) lives on the v2-archive branch.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [
+      "agents",
+      "cli",
+      "methodology",
+      "npm",
+      "pi",
+      "pi-sdk",
+      "redesign",
+      "typescript",
+      "vibe-coding"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-05T16:21:35Z",
+    "pushed_at": "2026-05-13T22:26:35Z",
+    "updated_at": "2026-05-13T22:27:12Z",
+    "size": 4985,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 66,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

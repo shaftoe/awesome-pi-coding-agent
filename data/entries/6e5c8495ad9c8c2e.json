@@ -13,18 +13,18 @@
       "pi-extension",
       "codex"
     ],
-    "version": "0.1.11",
-    "published_at": "2026-02-28T03:54:27.563Z",
-    "npm_downloads_monthly": 332,
-    "npm_downloads_weekly": 43,
-    "npm_score_final": 21.419256,
+    "version": "0.1.12",
+    "published_at": "2026-05-13T02:49:43.116Z",
+    "npm_downloads_monthly": 352,
+    "npm_downloads_weekly": 91,
+    "npm_score_final": 22.735012,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 75,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

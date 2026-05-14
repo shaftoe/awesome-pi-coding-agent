@@ -1,0 +1,29 @@
+{
+  "id": "pi-mom",
+  "name": "pi-mom",
+  "url": "https://www.npmjs.com/package/pi-mom",
+  "source": "npm-search",
+  "description": "Pi extensions and packages monorepo",
+  "metadata": {
+    "github_url": "https://github.com/vmarinogg/pi-packages",
+    "repo_full_name": "vmarinogg/pi-packages",
+    "description": "Pi extensions and packages monorepo",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-13T13:12:06Z",
+    "pushed_at": "2026-05-13T14:43:56Z",
+    "updated_at": "2026-05-13T15:16:15Z",
+    "size": 470,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

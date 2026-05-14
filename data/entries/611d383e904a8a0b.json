@@ -8,7 +8,7 @@
     "github_url": "https://github.com/robzolkos/pi-nocchio",
     "repo_full_name": "robzolkos/pi-nocchio",
     "description": "A tiny Pi package that adds a CLI flag for printing Pi's assembled system prompt.",
-    "stars": 20,
+    "stars": 22,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-04-29T01:55:24Z",
     "pushed_at": "2026-05-07T21:00:47Z",
-    "updated_at": "2026-05-07T21:00:51Z",
+    "updated_at": "2026-05-12T10:22:49Z",
     "size": 4,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

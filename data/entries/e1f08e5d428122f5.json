@@ -10,7 +10,7 @@
     "description": "",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 35,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 62,
-    "level": "maintained"
+    "score": 70,
+    "level": "active"
   },
   "category": "misc"
 }

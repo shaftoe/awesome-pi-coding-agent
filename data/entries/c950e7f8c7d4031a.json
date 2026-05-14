@@ -1,0 +1,29 @@
+{
+  "id": "the-metafactory-sage",
+  "name": "the-metafactory-sage",
+  "url": "https://github.com/the-metafactory/sage",
+  "source": "github-search",
+  "description": "Botanical-named code review agent on pi.dev substrate, speaking Myelin envelopes",
+  "metadata": {
+    "github_url": "https://github.com/the-metafactory/sage",
+    "repo_full_name": "the-metafactory/sage",
+    "description": "Botanical-named code review agent on pi.dev substrate, speaking Myelin envelopes",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T20:32:50Z",
+    "pushed_at": "2026-05-13T23:50:06Z",
+    "updated_at": "2026-05-13T22:59:23Z",
+    "size": 200,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

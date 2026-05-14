@@ -9,8 +9,8 @@
     "repo_full_name": "code-yeongyu/pi-nested-agents-md",
     "description": "Nested AGENTS.md context injection for pi-mono coding-agent — ported from omo (oh-my-openagent). Walks up from any read file, injects nearby AGENTS.md into the tool result, with TUI status line, optional widget, /nested-agents toggle, --no-nested-agents flag, realpath-based root containment, code-point-safe truncation.",
     "stars": 4,
-    "forks": 0,
-    "open_issues": 5,
+    "forks": 2,
+    "open_issues": 6,
     "topics": [
       "agents-md",
       "claude-md",
@@ -27,9 +27,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-29T05:46:37Z",
-    "pushed_at": "2026-05-12T04:15:02Z",
+    "pushed_at": "2026-05-13T17:13:29Z",
     "updated_at": "2026-05-12T04:15:06Z",
-    "size": 311,
+    "size": 310,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

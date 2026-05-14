@@ -1,0 +1,29 @@
+{
+  "id": "BillJr99-pi-openai-compat",
+  "name": "BillJr99-pi-openai-compat",
+  "url": "https://github.com/BillJr99/pi-openai-compat",
+  "source": "github-search",
+  "description": "pi coding agent extension that registers OpenAI-compatible LLM providers (OpenRouter, Ollama, NVIDIA NIM, Nous Research, or any custom endpoint) as native first-class models in pi's /model picker and Ctrl+L selector.",
+  "metadata": {
+    "github_url": "https://github.com/BillJr99/pi-openai-compat",
+    "repo_full_name": "BillJr99/pi-openai-compat",
+    "description": "pi coding agent extension that registers OpenAI-compatible LLM providers (OpenRouter, Ollama, NVIDIA NIM, Nous Research, or any custom endpoint) as native first-class models in pi's /model picker and Ctrl+L selector.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T17:05:30Z",
+    "pushed_at": "2026-05-13T13:51:24Z",
+    "updated_at": "2026-05-13T18:15:10Z",
+    "size": 22,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

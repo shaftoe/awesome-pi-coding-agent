@@ -1,0 +1,29 @@
+{
+  "id": "sacenox-pi-linux-use",
+  "name": "sacenox-pi-linux-use",
+  "url": "https://github.com/sacenox/pi-linux-use",
+  "source": "github-search",
+  "description": "Looking into allowing the Pi coding agent to use a linux desktop.",
+  "metadata": {
+    "github_url": "https://github.com/sacenox/pi-linux-use",
+    "repo_full_name": "sacenox/pi-linux-use",
+    "description": "Looking into allowing the Pi coding agent to use a linux desktop.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-13T14:46:10Z",
+    "pushed_at": "2026-05-13T21:50:06Z",
+    "updated_at": "2026-05-13T21:50:11Z",
+    "size": 50,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -11,14 +11,14 @@
     "channel": "AI with Eric",
     "published_at": "2026-05-11T18:33:29Z",
     "thumbnail": "https://i.ytimg.com/vi/hvqiRdGko6g/hqdefault.jpg",
-    "views": 79,
-    "likes": 5,
+    "views": 153,
+    "likes": 8,
     "comments": 4,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 39,
-    "level": "stale"
+    "score": 50,
+    "level": "maintained"
   },
   "category": "video"
 }

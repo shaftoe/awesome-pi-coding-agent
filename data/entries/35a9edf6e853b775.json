@@ -1,0 +1,34 @@
+{
+  "id": "pi-browser-cdp-extension",
+  "name": "pi-browser-cdp-extension",
+  "url": "https://www.npmjs.com/package/pi-browser-cdp-extension",
+  "source": "npm-search",
+  "description": "A real-browser CDP execution extension for Pi agents.",
+  "metadata": {
+    "github_url": "https://github.com/citrolabs/pi-browser-cdp-extension",
+    "repo_full_name": "citrolabs/pi-browser-cdp-extension",
+    "description": "A real-browser CDP execution extension for Pi agents.",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "browser",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-13T07:42:00Z",
+    "pushed_at": "2026-05-13T12:19:26Z",
+    "updated_at": "2026-05-13T12:22:10Z",
+    "size": 699,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}
