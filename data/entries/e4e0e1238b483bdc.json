@@ -1,0 +1,29 @@
+{
+  "id": "@furbyhaxx/pi-prompt-history",
+  "name": "@furbyhaxx/pi-prompt-history",
+  "url": "https://www.npmjs.com/package/@furbyhaxx/pi-prompt-history",
+  "source": "npm-search",
+  "description": "A slim pi coding agent extension that keeps persists session-scoped prompt history between sessions.",
+  "metadata": {
+    "github_url": "https://github.com/furbyhaxx/pi-prompt-history",
+    "repo_full_name": "furbyhaxx/pi-prompt-history",
+    "description": "A slim pi coding agent extension that keeps persists session-scoped prompt history between sessions.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-13T10:02:03Z",
+    "pushed_at": "2026-05-13T10:29:17Z",
+    "updated_at": "2026-05-13T10:30:02Z",
+    "size": 43,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

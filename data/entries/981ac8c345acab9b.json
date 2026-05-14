@@ -8,7 +8,7 @@
     "github_url": "https://github.com/weauratech/pi-memctx",
     "repo_full_name": "weauratech/pi-memctx",
     "description": "Local-first memory context for Pi coding agents.",
-    "stars": 13,
+    "stars": 14,
     "forks": 3,
     "open_issues": 6,
     "topics": [
@@ -30,7 +30,7 @@
     "archived": false,
     "created_at": "2026-04-30T18:54:27Z",
     "pushed_at": "2026-05-09T23:30:59Z",
-    "updated_at": "2026-05-09T23:38:05Z",
+    "updated_at": "2026-05-13T14:49:36Z",
     "size": 532,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

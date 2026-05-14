@@ -11,13 +11,16 @@
     "stars": 0,
     "forks": 0,
     "open_issues": 0,
-    "topics": [],
+    "topics": [
+      "agent-client-protocol",
+      "pi-coding-agent"
+    ],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-04T11:56:12Z",
-    "pushed_at": "2026-05-08T16:19:58Z",
-    "updated_at": "2026-05-08T16:20:03Z",
-    "size": 295,
+    "pushed_at": "2026-05-13T09:25:17Z",
+    "updated_at": "2026-05-13T09:25:24Z",
+    "size": 296,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

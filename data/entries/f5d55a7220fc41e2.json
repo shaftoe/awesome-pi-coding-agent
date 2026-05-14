@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tanvesh01/pierre-diffs",
     "repo_full_name": "tanvesh01/pierre-diffs",
     "description": "Pierre-themed inline diff rendering for Pi edit and write tool results.",
-    "stars": 10,
+    "stars": 11,
     "forks": 3,
     "open_issues": 2,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-07T11:18:52Z",
     "pushed_at": "2026-04-09T06:33:30Z",
-    "updated_at": "2026-04-19T21:25:17Z",
+    "updated_at": "2026-05-12T18:57:31Z",
     "size": 52,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

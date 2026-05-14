@@ -1,0 +1,38 @@
+{
+  "id": "pi-discover-web",
+  "name": "pi-discover-web",
+  "url": "https://www.npmjs.com/package/pi-discover-web",
+  "source": "npm-search",
+  "description": "Anthropic web_search delegation discovery extension for the pi coding agent. Injects a single `discover` tool into the main model and delegates web research to a smaller Sonnet model via the user's existing pi-authenticated provider channel, returning a n",
+  "metadata": {
+    "github_url": "https://github.com/jason2077/pi-discover-web",
+    "npm_name": "pi-discover-web",
+    "description": "Anthropic web_search delegation discovery extension for the pi coding agent. Injects a single `discover` tool into the main model and delegates web research to a smaller Sonnet model via the user's existing pi-authenticated provider channel, returning a n",
+    "keywords": [
+      "pi",
+      "pi-mono",
+      "pi-coding-agent",
+      "pi-extension",
+      "coding-agent",
+      "anthropic",
+      "web-search",
+      "discovery",
+      "claude",
+      "typescript"
+    ],
+    "version": "0.7.2",
+    "published_at": "2026-05-13T09:34:52.400Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

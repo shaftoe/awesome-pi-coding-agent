@@ -1,0 +1,29 @@
+{
+  "id": "elowen53-feynman-learning",
+  "name": "elowen53-feynman-learning",
+  "url": "https://github.com/elowen53/feynman-learning",
+  "source": "github-search",
+  "description": "A strict Feynman learning coach package for Pi Coding Agent.",
+  "metadata": {
+    "github_url": "https://github.com/elowen53/feynman-learning",
+    "repo_full_name": "elowen53/feynman-learning",
+    "description": "A strict Feynman learning coach package for Pi Coding Agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-13T11:16:42Z",
+    "pushed_at": "2026-05-13T11:22:06Z",
+    "updated_at": "2026-05-13T11:22:10Z",
+    "size": 15,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

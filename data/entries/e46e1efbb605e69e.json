@@ -1,0 +1,37 @@
+{
+  "id": "@boti-ormandi/pi-web",
+  "name": "@boti-ormandi/pi-web",
+  "url": "https://www.npmjs.com/package/@boti-ormandi/pi-web",
+  "source": "npm-search",
+  "description": "web_search and web_fetch tools for the pi coding agent. Same Anthropic OAuth bearer and server-side tools Claude Code uses, with the knobs Claude Code locks down exposed as per-call parameters.",
+  "metadata": {
+    "github_url": "https://github.com/Boti-Ormandi/pi-web",
+    "repo_full_name": "Boti-Ormandi/pi-web",
+    "description": "web_search and web_fetch tools for the pi coding agent. Same Anthropic OAuth bearer and server-side tools Claude Code uses, with the knobs Claude Code locks down exposed as per-call parameters.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "anthropic",
+      "claude",
+      "coding-agent",
+      "llm-tools",
+      "pi",
+      "web-fetch",
+      "web-search"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T21:25:57Z",
+    "pushed_at": "2026-05-12T21:38:51Z",
+    "updated_at": "2026-05-12T21:58:24Z",
+    "size": 112,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

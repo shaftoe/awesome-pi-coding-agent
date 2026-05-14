@@ -1,0 +1,29 @@
+{
+  "id": "dpopsuev-alef",
+  "name": "dpopsuev-alef",
+  "url": "https://github.com/dpopsuev/alef",
+  "source": "github-search",
+  "description": "alef (א) agent — fork of pi-mono / pi agent toolkit",
+  "metadata": {
+    "github_url": "https://github.com/dpopsuev/alef",
+    "repo_full_name": "dpopsuev/alef",
+    "description": "alef (א) agent — fork of pi-mono / pi agent toolkit",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-09T21:08:29Z",
+    "pushed_at": "2026-05-13T15:59:04Z",
+    "updated_at": "2026-05-13T16:13:20Z",
+    "size": 45854,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

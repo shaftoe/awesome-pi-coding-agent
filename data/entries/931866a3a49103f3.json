@@ -8,7 +8,7 @@
     "github_url": "https://github.com/danielscholl/pi-chamber",
     "repo_full_name": "danielscholl/pi-chamber",
     "description": "Pi extension package: durable agent identities (Genesis minds), single- and multi-mind conversations (mind, room), and a TUI lens viewer (observatory).",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 2,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-03T01:24:34Z",
     "pushed_at": "2026-05-05T04:02:31Z",
-    "updated_at": "2026-05-08T17:40:50Z",
+    "updated_at": "2026-05-13T02:29:04Z",
     "size": 1019,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

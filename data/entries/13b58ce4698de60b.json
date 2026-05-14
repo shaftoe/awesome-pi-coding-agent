@@ -1,0 +1,29 @@
+{
+  "id": "pi-sub-agent",
+  "name": "pi-sub-agent",
+  "url": "https://www.npmjs.com/package/pi-sub-agent",
+  "source": "npm-search",
+  "description": "an extension for Pi agent that provides sub-agent functionality.",
+  "metadata": {
+    "github_url": "https://github.com/HamdiMaz/pi-sub-agent",
+    "repo_full_name": "HamdiMaz/pi-sub-agent",
+    "description": "an extension for Pi agent that provides sub-agent functionality.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T16:12:12Z",
+    "pushed_at": "2026-05-13T22:46:30Z",
+    "updated_at": "2026-05-13T22:46:51Z",
+    "size": 145,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

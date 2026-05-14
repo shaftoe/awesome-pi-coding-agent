@@ -1,0 +1,29 @@
+{
+  "id": "finito-org-pi-agent-setup",
+  "name": "finito-org-pi-agent-setup",
+  "url": "https://github.com/finito-org/pi-agent-setup",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/finito-org/pi-agent-setup",
+    "repo_full_name": "finito-org/pi-agent-setup",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T22:33:14Z",
+    "pushed_at": "2026-05-13T08:37:32Z",
+    "updated_at": "2026-05-13T08:37:37Z",
+    "size": 118,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

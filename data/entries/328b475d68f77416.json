@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tickernelz/pi-mcp-tools",
     "repo_full_name": "tickernelz/pi-mcp-tools",
     "description": "Universal MCP tools extension for pi coding agent — connect to filesystem, GitHub, databases, and more",
-    "stars": 6,
+    "stars": 7,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -20,7 +20,7 @@
     "archived": false,
     "created_at": "2026-02-17T13:13:45Z",
     "pushed_at": "2026-02-18T13:31:54Z",
-    "updated_at": "2026-05-05T23:14:30Z",
+    "updated_at": "2026-05-13T19:45:08Z",
     "size": 273,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

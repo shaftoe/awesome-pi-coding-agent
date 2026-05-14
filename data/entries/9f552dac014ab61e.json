@@ -1,0 +1,33 @@
+{
+  "id": "@josephyoung/pi-file-reference",
+  "name": "@josephyoung/pi-file-reference",
+  "url": "https://www.npmjs.com/package/@josephyoung/pi-file-reference",
+  "source": "npm-search",
+  "description": "Pi extension: resolve @filepath (files & directories) in AGENTS.md, inject into system prompt",
+  "metadata": {
+    "github_url": "https://github.com/josephyoung/pi-file-reference",
+    "npm_name": "@josephyoung/pi-file-reference",
+    "description": "Pi extension: resolve @filepath (files & directories) in AGENTS.md, inject into system prompt",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "context",
+      "file-reference"
+    ],
+    "version": "0.1.5",
+    "published_at": "2026-05-13T08:40:33.797Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

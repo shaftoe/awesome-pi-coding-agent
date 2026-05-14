@@ -1,0 +1,33 @@
+{
+  "id": "@matheusbbarni/pi-stitch-mcp",
+  "name": "@matheusbbarni/pi-stitch-mcp",
+  "url": "https://www.npmjs.com/package/@matheusbbarni/pi-stitch-mcp",
+  "source": "npm-search",
+  "description": "Pi extension that bridges Google Stitch MCP tools into Pi.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@matheusbbarni/pi-stitch-mcp",
+    "description": "Pi extension that bridges Google Stitch MCP tools into Pi.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "stitch",
+      "mcp",
+      "google-stitch"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-05-13T13:32:52.769Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

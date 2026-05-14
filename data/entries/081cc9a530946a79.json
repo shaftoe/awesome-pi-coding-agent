@@ -1,0 +1,40 @@
+{
+  "id": "pi-use-claude-seo",
+  "name": "pi-use-claude-seo",
+  "url": "https://www.npmjs.com/package/pi-use-claude-seo",
+  "source": "npm-search",
+  "description": "Claude SEO ported to pi runtime. 25 SEO skills, 18 subagents, and 30 Python scripts for comprehensive SEO analysis — technical audits, content quality (E-E-A-T), schema markup, GEO/AI search, local SEO, backlinks, rank tracking, drift monitoring, and more",
+  "metadata": {
+    "github_url": "https://github.com/zzapp-uk/pi-use-claude-seo",
+    "npm_name": "pi-use-claude-seo",
+    "description": "Claude SEO ported to pi runtime. 25 SEO skills, 18 subagents, and 30 Python scripts for comprehensive SEO analysis — technical audits, content quality (E-E-A-T), schema markup, GEO/AI search, local SEO, backlinks, rank tracking, drift monitoring, and more",
+    "keywords": [
+      "pi-package",
+      "seo",
+      "technical-seo",
+      "geo",
+      "ai-search",
+      "e-e-a-t",
+      "schema-markup",
+      "local-seo",
+      "backlinks",
+      "content-quality",
+      "core-web-vitals",
+      "claude-seo"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-05-13T14:43:07.441Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

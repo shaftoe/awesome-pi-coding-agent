@@ -3,11 +3,11 @@
   "name": "omniroute-pi-ext-integration",
   "url": "https://www.npmjs.com/package/omniroute-pi-ext-integration",
   "source": "npm-search",
-  "description": "Pi Coding Agent extension for OmniRoute — manage combos, browse providers, track limits, and see which model actually served each response in the status bar",
+  "description": "Pi Coding Agent extension for OmniRoute — view combos, browse providers, and sync models with enriched metadata (context windows, max tokens, reasoning, and vision) to the Ctrl+P picker",
   "metadata": {
     "github_url": "https://github.com/md-riaz/omniroute-pi-ext-integration",
     "npm_name": "omniroute-pi-ext-integration",
-    "description": "Pi Coding Agent extension for OmniRoute — manage combos, browse providers, track limits, and see which model actually served each response in the status bar",
+    "description": "Pi Coding Agent extension for OmniRoute — view combos, browse providers, and sync models with enriched metadata (context windows, max tokens, reasoning, and vision) to the Ctrl+P picker",
     "keywords": [
       "pi-package",
       "pi-coding-agent",
@@ -17,8 +17,8 @@
       "extension",
       "coding-agent"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-05-12T04:08:26.920Z",
+    "version": "1.0.1",
+    "published_at": "2026-05-13T04:31:16.703Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

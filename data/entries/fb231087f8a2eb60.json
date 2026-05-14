@@ -8,7 +8,7 @@
     "github_url": "https://github.com/loopyd/pi-archon",
     "repo_full_name": "loopyd/pi-archon",
     "description": "Archon workflow extension package for Pi coding agent",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-02T04:17:33Z",
     "pushed_at": "2026-05-04T11:18:22Z",
-    "updated_at": "2026-05-11T14:22:41Z",
+    "updated_at": "2026-05-13T00:12:20Z",
     "size": 202,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

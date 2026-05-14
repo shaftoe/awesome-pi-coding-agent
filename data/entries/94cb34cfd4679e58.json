@@ -1,0 +1,29 @@
+{
+  "id": "oray749616-smart-search-pi-extension",
+  "name": "oray749616-smart-search-pi-extension",
+  "url": "https://github.com/oray749616/smart-search-pi-extension",
+  "source": "github-search",
+  "description": "Pi Coding Agent extension for the smart-search CLI.",
+  "metadata": {
+    "github_url": "https://github.com/oray749616/smart-search-pi-extension",
+    "repo_full_name": "oray749616/smart-search-pi-extension",
+    "description": "Pi Coding Agent extension for the smart-search CLI.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-13T08:31:54Z",
+    "pushed_at": "2026-05-13T09:10:49Z",
+    "updated_at": "2026-05-13T09:10:54Z",
+    "size": 10,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

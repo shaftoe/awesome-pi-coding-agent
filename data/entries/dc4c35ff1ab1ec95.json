@@ -1,0 +1,29 @@
+{
+  "id": "@furbyhaxx/pi-teardown-screen",
+  "name": "@furbyhaxx/pi-teardown-screen",
+  "url": "https://www.npmjs.com/package/@furbyhaxx/pi-teardown-screen",
+  "source": "npm-search",
+  "description": "A slim pi coding agent extension that prints a session teardown screen with a resume command and stats when exiting an interactive session",
+  "metadata": {
+    "github_url": "https://github.com/furbyhaxx/pi-teardown-screen",
+    "repo_full_name": "furbyhaxx/pi-teardown-screen",
+    "description": "A slim pi coding agent extension that prints a session teardown screen with a resume command and stats when exiting an interactive session",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-13T08:54:56Z",
+    "pushed_at": "2026-05-13T09:18:20Z",
+    "updated_at": "2026-05-13T09:18:36Z",
+    "size": 40,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

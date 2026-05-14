@@ -1,0 +1,29 @@
+{
+  "id": "arcanemachine-pi-inter-agent",
+  "name": "arcanemachine-pi-inter-agent",
+  "url": "https://github.com/arcanemachine/pi-inter-agent",
+  "source": "github-search",
+  "description": "Pi extension for connecting to the [inter-agent](https://github.com/arcanemachine/inter-agent) message bus.",
+  "metadata": {
+    "github_url": "https://github.com/arcanemachine/pi-inter-agent",
+    "repo_full_name": "arcanemachine/pi-inter-agent",
+    "description": "Pi extension for connecting to the [inter-agent](https://github.com/arcanemachine/inter-agent) message bus.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T21:17:18Z",
+    "pushed_at": "2026-05-13T06:00:23Z",
+    "updated_at": "2026-05-13T06:00:27Z",
+    "size": 58,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

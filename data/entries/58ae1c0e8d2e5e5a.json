@@ -1,0 +1,29 @@
+{
+  "id": "Corythebeast7-pi-bash-guard",
+  "name": "Corythebeast7-pi-bash-guard",
+  "url": "https://github.com/Corythebeast7/pi-bash-guard",
+  "source": "github-search",
+  "description": "A pi coding agent extension that guards bash execution with LLM-powered safety checks",
+  "metadata": {
+    "github_url": "https://github.com/Corythebeast7/pi-bash-guard",
+    "repo_full_name": "Corythebeast7/pi-bash-guard",
+    "description": "A pi coding agent extension that guards bash execution with LLM-powered safety checks",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-13T20:37:42Z",
+    "pushed_at": "2026-05-13T20:37:45Z",
+    "updated_at": "2026-05-13T20:37:49Z",
+    "size": 7,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

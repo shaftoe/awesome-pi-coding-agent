@@ -1,0 +1,37 @@
+{
+  "id": "@santiago-r/pi-ml-intern",
+  "name": "@santiago-r/pi-ml-intern",
+  "url": "https://www.npmjs.com/package/@santiago-r/pi-ml-intern",
+  "source": "npm-search",
+  "description": "ML Intern extension for Pi — autonomous ML research & implementation with literature-backed recipes. Inspired by Hugging Face's ml-intern.",
+  "metadata": {
+    "github_url": "https://github.com/Santiago-R/pi-ml-intern",
+    "npm_name": "@santiago-r/pi-ml-intern",
+    "description": "ML Intern extension for Pi — autonomous ML research & implementation with literature-backed recipes. Inspired by Hugging Face's ml-intern.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "ml-intern",
+      "machine-learning",
+      "hugging-face",
+      "fine-tuning",
+      "training",
+      "ai-agent",
+      "coding-agent"
+    ],
+    "version": "0.1.5",
+    "published_at": "2026-05-13T08:57:59.831Z",
+    "npm_downloads_monthly": 528,
+    "npm_downloads_weekly": 528,
+    "npm_score_final": 24.168612,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ellinokon-dot-pi-agent",
+  "name": "ellinokon-dot-pi-agent",
+  "url": "https://github.com/ellinokon/dot-pi-agent",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/ellinokon/dot-pi-agent",
+    "repo_full_name": "ellinokon/dot-pi-agent",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T19:23:31Z",
+    "pushed_at": "2026-05-13T08:56:00Z",
+    "updated_at": "2026-05-13T08:56:04Z",
+    "size": 65,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

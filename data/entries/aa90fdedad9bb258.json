@@ -20,14 +20,14 @@
     "published_at": "2026-04-12T11:49:29.296Z",
     "npm_downloads_monthly": 193,
     "npm_downloads_weekly": 40,
-    "npm_score_final": 19.167088,
+    "npm_score_final": 20.115917,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 82,
+    "score": 75,
     "level": "active"
   },
   "category": "extension"
