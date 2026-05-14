@@ -1,0 +1,21 @@
+{
+  "id": "MANUAL_engine.build_agent-sandboxes",
+  "name": "Agent Sandboxes - The Full Landscape",
+  "url": "https://engine.build/lab/agent-sandboxes",
+  "source": "manual",
+  "description": "Every AI agent sandbox provider compared. Isolation, cold starts, persistence, pricing, and what makes each one different.",
+  "metadata": {
+    "title": "Agent Sandboxes - The Full Landscape",
+    "name": "Agent Sandboxes - The Full Landscape",
+    "description": "Every AI agent sandbox provider compared. Isolation, cold starts, persistence, pricing, and what makes each one different.",
+    "published_at": "2026-05-14T00:00:00Z",
+    "source_site": "engine.build",
+    "source_url": "https://engine.build/lab/agent-sandboxes",
+    "discovery_hint": "manual:add-url"
+  },
+  "health": {
+    "score": 13,
+    "level": "dead"
+  },
+  "category": "misc"
+}
