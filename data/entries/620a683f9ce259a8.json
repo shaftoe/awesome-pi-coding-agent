@@ -3,11 +3,11 @@
   "name": "@mrclrchtr/supi-flow",
   "url": "https://www.npmjs.com/package/@mrclrchtr/supi-flow",
   "source": "npm-search",
-  "description": "PI extension for spec-driven workflow (brainstorm → plan → apply → archive) with TNDM ticket coordination, custom tools, and 6 auto-discovered skills",
+  "description": "PI extension for spec-driven workflow (brainstorm → plan → apply → archive) with TNDM ticket coordination, custom tools, and 5 auto-discovered skills",
   "metadata": {
     "github_url": "https://github.com/mrclrchtr/tandem",
     "npm_name": "@mrclrchtr/supi-flow",
-    "description": "PI extension for spec-driven workflow (brainstorm → plan → apply → archive) with TNDM ticket coordination, custom tools, and 6 auto-discovered skills",
+    "description": "PI extension for spec-driven workflow (brainstorm → plan → apply → archive) with TNDM ticket coordination, custom tools, and 5 auto-discovered skills",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -15,18 +15,18 @@
       "workflow",
       "ticket-coordination"
     ],
-    "version": "0.9.0",
-    "published_at": "2026-05-12T04:14:03.742Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.10.1",
+    "published_at": "2026-05-14T00:55:06.436Z",
+    "npm_downloads_monthly": 205,
+    "npm_downloads_weekly": 205,
+    "npm_score_final": 19.694414,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 72,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

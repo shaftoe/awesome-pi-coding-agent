@@ -1,0 +1,36 @@
+{
+  "id": "runchr-works-eta-desktop",
+  "name": "runchr-works-eta-desktop",
+  "url": "https://github.com/runchr-works/eta-desktop",
+  "source": "github-search",
+  "description": "Desktop for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/runchr-works/eta-desktop",
+    "repo_full_name": "runchr-works/eta-desktop",
+    "description": "Desktop for Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "desktop",
+      "desktop-app",
+      "pi",
+      "picode",
+      "picodingagent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-14T05:07:41Z",
+    "pushed_at": "2026-05-14T07:45:03Z",
+    "updated_at": "2026-05-14T07:45:07Z",
+    "size": 101,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

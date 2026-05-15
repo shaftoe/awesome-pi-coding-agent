@@ -3,21 +3,21 @@
   "name": "@mrclrchtr/supi",
   "url": "https://www.npmjs.com/package/@mrclrchtr/supi",
   "source": "npm-search",
-  "description": "SuPi (Super Pi) — The opinionated way to extend PI",
+  "description": "SuPi bash-timeout extension — injects default timeout on bash tool calls",
   "metadata": {
-    "github_url": "https://github.com/mrclrchtr/SuPi",
-    "npm_name": "@mrclrchtr/supi",
-    "description": "SuPi (Super Pi) — The opinionated way to extend PI",
+    "github_url": "https://github.com/mrclrchtr/supi",
+    "npm_name": "@mrclrchtr/supi-bash-timeout",
+    "description": "SuPi bash-timeout extension — injects default timeout on bash tool calls",
     "keywords": [
       "pi-package",
       "pi",
       "pi-coding-agent"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-04-14T23:07:03.996Z",
-    "npm_downloads_monthly": 220,
+    "version": "0.2.0",
+    "published_at": "2026-05-14T10:37:53.001Z",
+    "npm_downloads_monthly": 108,
     "npm_downloads_weekly": 10,
-    "npm_score_final": 20.485338,
+    "npm_score_final": 17.065773,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
@@ -27,5 +27,5 @@
     "score": 82,
     "level": "active"
   },
-  "category": "misc"
+  "category": "extension"
 }

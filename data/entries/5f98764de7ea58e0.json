@@ -1,0 +1,29 @@
+{
+  "id": "pi-daily-cost",
+  "name": "pi-daily-cost",
+  "url": "https://www.npmjs.com/package/pi-daily-cost",
+  "source": "npm-search",
+  "description": "Daily spend tracker for the Pi coding agent — shows total API cost across all of today's sessions in the footer",
+  "metadata": {
+    "github_url": "https://github.com/briandoll/pi-daily-cost",
+    "repo_full_name": "briandoll/pi-daily-cost",
+    "description": "Daily spend tracker for the Pi coding agent — shows total API cost across all of today's sessions in the footer",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-14T00:26:27Z",
+    "pushed_at": "2026-05-14T00:26:30Z",
+    "updated_at": "2026-05-14T00:26:34Z",
+    "size": 3,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "harms-haus-pi-searxng",
+  "name": "harms-haus-pi-searxng",
+  "url": "https://github.com/harms-haus/pi-searxng",
+  "source": "github-search",
+  "description": "SearXNG web search extension for pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/harms-haus/pi-searxng",
+    "repo_full_name": "harms-haus/pi-searxng",
+    "description": "SearXNG web search extension for pi-coding-agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-14T05:33:27Z",
+    "pushed_at": "2026-05-14T05:33:30Z",
+    "updated_at": "2026-05-14T05:33:33Z",
+    "size": 50,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

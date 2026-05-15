@@ -1,0 +1,35 @@
+{
+  "id": "@mcowger/pi-suppress-providers",
+  "name": "@mcowger/pi-suppress-providers",
+  "url": "https://www.npmjs.com/package/@mcowger/pi-suppress-providers",
+  "source": "npm-search",
+  "description": "Pi extension that limits which providers appear in model selection by suppressing env vars for non-enabled providers",
+  "metadata": {
+    "github_url": "https://github.com/mcowger/pi-suppress-providers",
+    "npm_name": "@mcowger/pi-suppress-providers",
+    "description": "Pi extension that limits which providers appear in model selection by suppressing env vars for non-enabled providers",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-suppress",
+      "provider",
+      "suppress",
+      "enabledProviders"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-05-14T04:59:02.728Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

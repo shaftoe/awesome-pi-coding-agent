@@ -9,7 +9,7 @@
     "repo_full_name": "exospherehost/failproofai",
     "description": "Runtime failure resolution for coding agents. Hooks into Claude Code and Codex. Catches loops, dangerous actions, and secret leaks before they become incidents. Zero latency. Runs locally.",
     "stars": 78,
-    "forks": 12,
+    "forks": 11,
     "open_issues": 13,
     "topics": [
       "agent-reliability",

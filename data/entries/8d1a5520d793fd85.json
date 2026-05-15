@@ -10,7 +10,7 @@
     "description": "🪢 Tailnet-only WS harness for CLI coding agents (pi, claude-code, …)",
     "stars": 0,
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 1,
     "topics": [
       "bun",
       "claude-code",

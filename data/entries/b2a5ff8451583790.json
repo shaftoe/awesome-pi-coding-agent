@@ -1,0 +1,37 @@
+{
+  "id": "pi-redline",
+  "name": "pi-redline",
+  "url": "https://www.npmjs.com/package/pi-redline",
+  "source": "npm-search",
+  "description": "Redline pi sessions: an overlay TUI showing every file changed in the current pi session with syntax-highlighted diffs, per-line selection, fix/explain annotations, and a one-key submit-as-prompt flow.",
+  "metadata": {
+    "github_url": "https://github.com/alonmartin2222/pi-redline",
+    "npm_name": "pi-redline",
+    "description": "Redline pi sessions: an overlay TUI showing every file changed in the current pi session with syntax-highlighted diffs, per-line selection, fix/explain annotations, and a one-key submit-as-prompt flow.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "diff",
+      "annotations",
+      "code-review",
+      "redline",
+      "session",
+      "tui",
+      "productivity"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-05-14T21:13:02.168Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

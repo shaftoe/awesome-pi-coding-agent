@@ -3,19 +3,19 @@
   "name": "@catdaemon/pi-cmux",
   "url": "https://www.npmjs.com/package/@catdaemon/pi-cmux",
   "source": "npm-search",
-  "description": "Conversation todo tools, prompt guidance, and status sidebar for Pi.",
+  "description": "Shared status-card sidebar helpers for Pi extensions.",
   "metadata": {
     "github_url": "https://github.com/Catdaemon/pi-extensions",
-    "npm_name": "@catdaemon/pi-agent-todos",
-    "description": "Conversation todo tools, prompt guidance, and status sidebar for Pi.",
+    "npm_name": "@catdaemon/pi-sidebar",
+    "description": "Shared status-card sidebar helpers for Pi extensions.",
     "keywords": [
       "pi-package",
       "pi",
-      "todos",
-      "agent-tools"
+      "sidebar",
+      "status-card"
     ],
-    "version": "0.1.4",
-    "published_at": "2026-05-10T22:43:39.414Z",
+    "version": "0.1.2",
+    "published_at": "2026-05-10T22:43:41.422Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

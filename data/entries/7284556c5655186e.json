@@ -9,7 +9,7 @@
     "repo_full_name": "ArtemisAI/pi-loop",
     "description": "Recurring prompt scheduling and cron job management for pi-coding-agent",
     "stars": 7,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "automation",

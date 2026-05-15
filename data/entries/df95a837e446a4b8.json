@@ -10,7 +10,7 @@
     "description": "Nix packages, skills, extensions for coding-agents (Claude Code, Gemini CLI, Pi Coding Agent, Codex)",
     "stars": 6,
     "forks": 1,
-    "open_issues": 7,
+    "open_issues": 8,
     "topics": [
       "agent-skills",
       "coding-agents",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-14T13:32:06Z",
-    "pushed_at": "2026-05-13T23:30:16Z",
-    "updated_at": "2026-05-13T23:30:20Z",
-    "size": 1164,
+    "pushed_at": "2026-05-14T23:24:40Z",
+    "updated_at": "2026-05-14T23:24:43Z",
+    "size": 1433,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

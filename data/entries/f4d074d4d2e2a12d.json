@@ -1,0 +1,37 @@
+{
+  "id": "pi-openapi-tools",
+  "name": "pi-openapi-tools",
+  "url": "https://www.npmjs.com/package/pi-openapi-tools",
+  "source": "npm-search",
+  "description": "Pi extension that generates LLM tools from any OpenAPI/Swagger URL.",
+  "metadata": {
+    "github_url": "https://github.com/gtesei/pi-openapi-tools",
+    "repo_full_name": "gtesei/pi-openapi-tools",
+    "description": "Pi extension that generates LLM tools from any OpenAPI/Swagger URL.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-tools",
+      "llm-tools",
+      "openapi",
+      "openapi3",
+      "pi",
+      "pi-package",
+      "swagger"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T08:37:32Z",
+    "pushed_at": "2026-05-14T00:37:16Z",
+    "updated_at": "2026-05-14T00:58:29Z",
+    "size": 16176,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/samfoy/pi-knowledge-search",
     "repo_full_name": "samfoy/pi-knowledge-search",
     "description": "Semantic search over local files for pi. Indexes text/markdown, watches for changes, exposes a knowledge_search tool to the LLM.",
-    "stars": 2,
+    "stars": 3,
     "forks": 4,
     "open_issues": 0,
     "topics": [
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-13T19:52:25Z",
-    "pushed_at": "2026-05-12T18:35:05Z",
-    "updated_at": "2026-05-12T18:35:49Z",
-    "size": 289,
+    "pushed_at": "2026-05-14T15:01:54Z",
+    "updated_at": "2026-05-14T15:01:58Z",
+    "size": 366,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

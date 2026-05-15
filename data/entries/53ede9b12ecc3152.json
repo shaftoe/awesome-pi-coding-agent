@@ -1,0 +1,29 @@
+{
+  "id": "cemoody-pi-remote-control",
+  "name": "cemoody-pi-remote-control",
+  "url": "https://github.com/cemoody/pi-remote-control",
+  "source": "github-search",
+  "description": "Mobile-first self-hosted web control plane for many concurrent Pi coding-agent sessions",
+  "metadata": {
+    "github_url": "https://github.com/cemoody/pi-remote-control",
+    "repo_full_name": "cemoody/pi-remote-control",
+    "description": "Mobile-first self-hosted web control plane for many concurrent Pi coding-agent sessions",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 3,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-11T18:54:25Z",
+    "pushed_at": "2026-05-14T21:12:56Z",
+    "updated_at": "2026-05-14T21:30:35Z",
+    "size": 37647,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 76,
+    "level": "active"
+  },
+  "category": "misc"
+}

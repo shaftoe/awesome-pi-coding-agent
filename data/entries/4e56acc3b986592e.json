@@ -3,30 +3,31 @@
   "name": "@juicesharp/rpiv-advisor",
   "url": "https://www.npmjs.com/package/@juicesharp/rpiv-advisor",
   "source": "npm-search",
-  "description": "Pi extension. The localization foundation for rpiv-* skills: locale detection, the /languages command, the --locale flag, and a cross-package locale registry.",
+  "description": "Pi extension. The /btw slash command, for putting a one-off side question to the same primary model without polluting the main conversation.",
   "metadata": {
     "github_url": "https://github.com/juicesharp/rpiv-mono",
-    "npm_name": "@juicesharp/rpiv-i18n",
-    "description": "Pi extension. The localization foundation for rpiv-* skills: locale detection, the /languages command, the --locale flag, and a cross-package locale registry.",
+    "npm_name": "@juicesharp/rpiv-btw",
+    "description": "Pi extension. The /btw slash command, for putting a one-off side question to the same primary model without polluting the main conversation.",
     "keywords": [
       "pi-package",
       "pi-extension",
       "rpiv",
-      "i18n",
-      "localization"
+      "btw",
+      "side-question",
+      "overlay"
     ],
-    "version": "1.5.2",
-    "published_at": "2026-05-13T17:02:18.719Z",
-    "npm_downloads_monthly": 3313,
-    "npm_downloads_weekly": 2316,
-    "npm_score_final": 32.245075,
+    "version": "1.6.1",
+    "published_at": "2026-05-14T20:15:16.848Z",
+    "npm_downloads_monthly": 10483,
+    "npm_downloads_weekly": 2514,
+    "npm_score_final": 36.37776,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 91,
+    "score": 100,
     "level": "active"
   },
   "category": "extension"

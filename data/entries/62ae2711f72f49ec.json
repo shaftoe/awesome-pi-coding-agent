@@ -1,0 +1,33 @@
+{
+  "id": "pi-telegram-tool-status",
+  "name": "pi-telegram-tool-status",
+  "url": "https://www.npmjs.com/package/pi-telegram-tool-status",
+  "source": "npm-search",
+  "description": "Companion extension for pi-telegram (by llblab) — posts a compact live-updating service message listing tools used by the agent during Telegram-originated turns only.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-telegram-tool-status",
+    "description": "Companion extension for pi-telegram (by llblab) — posts a compact live-updating service message listing tools used by the agent during Telegram-originated turns only.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "telegram",
+      "tools"
+    ],
+    "version": "1.0.4",
+    "published_at": "2026-05-14T07:54:17.390Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

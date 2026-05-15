@@ -3,36 +3,37 @@
   "name": "pi-effort",
   "url": "https://www.npmjs.com/package/pi-effort",
   "source": "npm-search",
-  "description": "Pi slash command for inspecting and changing session and default thinking effort",
+  "description": "Pi extension for controlling thinking effort with model-adaptive min/max aliases",
   "metadata": {
     "github_url": "https://github.com/ricardofrantz/pi-effort",
-    "repo_full_name": "ricardofrantz/pi-effort",
-    "description": "Pi slash command for inspecting and changing session and default thinking effort",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "topics": [
-      "command-line",
-      "developer-tools",
-      "llm",
+    "npm_name": "pi-effort",
+    "description": "Pi extension for controlling thinking effort with model-adaptive min/max aliases",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
       "pi",
       "pi-coding-agent",
-      "pi-extension",
+      "llm",
+      "developer-tools",
+      "command-line",
       "productivity",
-      "reasoning"
+      "reasoning",
+      "thinking",
+      "effort"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-04-23T15:23:31Z",
-    "pushed_at": "2026-05-04T10:50:48Z",
-    "updated_at": "2026-05-04T10:50:43Z",
-    "size": 119,
-    "license": "NOASSERTION",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "version": "0.0.5",
+    "published_at": "2026-05-04T10:48:12.537Z",
+    "npm_downloads_monthly": 549,
+    "npm_downloads_weekly": 158,
+    "npm_score_final": 23.864834,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 82,
+    "level": "active"
   },
   "category": "extension"
 }

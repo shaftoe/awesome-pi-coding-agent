@@ -15,10 +15,10 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-12T02:49:38Z",
-    "pushed_at": "2026-05-13T00:41:39Z",
-    "updated_at": "2026-05-13T00:41:43Z",
-    "size": 112,
-    "license": null,
+    "pushed_at": "2026-05-14T23:39:17Z",
+    "updated_at": "2026-05-14T23:39:20Z",
+    "size": 142,
+    "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
