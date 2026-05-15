@@ -1,0 +1,43 @@
+{
+  "id": "tap-skill",
+  "name": "tap-skill",
+  "url": "https://www.npmjs.com/package/tap-skill",
+  "source": "npm-search",
+  "description": "thalix-auto — multi-agent orchestration skill for Claude Code, Codex CLI, and Pi (pi.dev). Forked from oh-my-claudecode.",
+  "metadata": {
+    "github_url": "https://github.com/manateeit/thalix-auto",
+    "npm_name": "tap-skill",
+    "description": "thalix-auto — multi-agent orchestration skill for Claude Code, Codex CLI, and Pi (pi.dev). Forked from oh-my-claudecode.",
+    "keywords": [
+      "claude",
+      "claude-code",
+      "codex",
+      "pi",
+      "pi-package",
+      "pi.dev",
+      "thalix",
+      "thalix-auto",
+      "tap",
+      "ai",
+      "agent",
+      "multi-agent",
+      "orchestration",
+      "anthropic",
+      "llm"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-05-14T02:32:38.890Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

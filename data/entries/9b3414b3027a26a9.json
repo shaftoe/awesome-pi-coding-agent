@@ -1,0 +1,46 @@
+{
+  "id": "ronnieops-pi-search-hub",
+  "name": "ronnieops-pi-search-hub",
+  "url": "https://github.com/ronnieops/pi-search-hub",
+  "source": "github-search",
+  "description": "Unified web search + content extraction extension for pi — 12 backends (DuckDuckGo, Jina AI, Tavily, Brave, Exa, Serper, Firecrawl, Marginalia, LangSearch, WebSearchAPI, Perplexity Sonar, SearXNG) with auto-fallback, RRF combine mode, web_read tool, and env/shell credential resolution.",
+  "metadata": {
+    "github_url": "https://github.com/ronnieops/pi-search-hub",
+    "repo_full_name": "ronnieops/pi-search-hub",
+    "description": "Unified web search + content extraction extension for pi — 12 backends (DuckDuckGo, Jina AI, Tavily, Brave, Exa, Serper, Firecrawl, Marginalia, LangSearch, WebSearchAPI, Perplexity Sonar, SearXNG) with auto-fallback, RRF combine mode, web_read tool, and env/shell credential resolution.",
+    "stars": 11,
+    "forks": 6,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "cli-tool",
+      "coding-agent",
+      "combine-mode",
+      "jina",
+      "open-source",
+      "perplexity",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "reciprocal-rank-fusion",
+      "rrf",
+      "searxng",
+      "typescript",
+      "web-search"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-04T20:54:02Z",
+    "pushed_at": "2026-05-14T10:44:02Z",
+    "updated_at": "2026-05-14T10:44:05Z",
+    "size": 126,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "pi-cavallo",
+  "name": "pi-cavallo",
+  "url": "https://www.npmjs.com/package/pi-cavallo",
+  "source": "npm-search",
+  "description": "Generate and edit video in pi using Alibaba HappyHorse models (I2V, T2V, R2V, Video-Edit).",
+  "metadata": {
+    "github_url": "https://github.com/Fornace/pi-cavallo",
+    "npm_name": "pi-cavallo",
+    "description": "Generate and edit video in pi using Alibaba HappyHorse models (I2V, T2V, R2V, Video-Edit).",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "alibaba",
+      "dashscope",
+      "happyhorse",
+      "video-generation",
+      "terminal"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-05-14T10:28:38.997Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

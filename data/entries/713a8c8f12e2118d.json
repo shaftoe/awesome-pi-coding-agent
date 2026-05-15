@@ -1,0 +1,35 @@
+{
+  "id": "willyamjarcand-pi-catacombs",
+  "name": "willyamjarcand-pi-catacombs",
+  "url": "https://github.com/willyamjarcand/pi-catacombs",
+  "source": "github-search",
+  "description": "A pixel-art roguelike dungeon for the pi coding agent. Plays in a TUI overlay using half-block + 24-bit color rendering.",
+  "metadata": {
+    "github_url": "https://github.com/willyamjarcand/pi-catacombs",
+    "repo_full_name": "willyamjarcand/pi-catacombs",
+    "description": "A pixel-art roguelike dungeon for the pi coding agent. Plays in a TUI overlay using half-block + 24-bit color rendering.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "dungeon-crawler",
+      "pi-extension",
+      "pi-package",
+      "roguelike",
+      "tui-game"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-14T19:09:37Z",
+    "pushed_at": "2026-05-14T19:09:40Z",
+    "updated_at": "2026-05-14T19:18:15Z",
+    "size": 37,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

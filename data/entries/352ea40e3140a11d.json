@@ -1,0 +1,34 @@
+{
+  "id": "pi-favorites-commands",
+  "name": "pi-favorites-commands",
+  "url": "https://www.npmjs.com/package/pi-favorites-commands",
+  "source": "npm-search",
+  "description": "Star and reorder your favorite slash commands in pi. Favorites appear at the top of the / autocomplete dropdown with a ★ glyph, in the order you choose.",
+  "metadata": {
+    "github_url": "https://github.com/alonmartin2222/pi-favorites-commands",
+    "npm_name": "pi-favorites-commands",
+    "description": "Star and reorder your favorite slash commands in pi. Favorites appear at the top of the / autocomplete dropdown with a ★ glyph, in the order you choose.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "slash-commands",
+      "autocomplete",
+      "favorites",
+      "productivity"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-05-14T19:48:14.437Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

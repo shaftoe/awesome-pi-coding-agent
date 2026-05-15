@@ -1,0 +1,41 @@
+{
+  "id": "project-memory-kit",
+  "name": "project-memory-kit",
+  "url": "https://www.npmjs.com/package/project-memory-kit",
+  "source": "npm-search",
+  "description": "Project memory kit for AI coding agents: shared docs initialization, plan/archive workflow, and Pi plan mode extension.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "project-memory-kit",
+    "description": "Project memory kit for AI coding agents: shared docs initialization, plan/archive workflow, and Pi plan mode extension.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "ai-agent",
+      "project-memory",
+      "agent-memory",
+      "documentation",
+      "skill",
+      "extension",
+      "project-initializer",
+      "plan-mode",
+      "project-loader",
+      "context-loader"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-05-14T12:48:15.408Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

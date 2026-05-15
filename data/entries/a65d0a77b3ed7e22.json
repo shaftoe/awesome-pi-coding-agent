@@ -3,11 +3,11 @@
   "name": "darkhorseprojects-pi-vo",
   "url": "https://github.com/darkhorseprojects/pi-vo",
   "source": "github-search",
-  "description": "The best lightweight, efficient, opinionated, pi, voice solution for dark horse projects, and maybe other people.",
+  "description": "The best lightweight, efficient, opinionated, pi, voice solution.",
   "metadata": {
     "github_url": "https://github.com/darkhorseprojects/pi-vo",
     "repo_full_name": "darkhorseprojects/pi-vo",
-    "description": "The best lightweight, efficient, opinionated, pi, voice solution for dark horse projects, and maybe other people.",
+    "description": "The best lightweight, efficient, opinionated, pi, voice solution.",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,
@@ -22,14 +22,14 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-10T21:56:44Z",
-    "pushed_at": "2026-05-13T22:43:00Z",
-    "updated_at": "2026-05-13T22:43:05Z",
-    "size": 291,
-    "license": null,
+    "pushed_at": "2026-05-14T20:31:46Z",
+    "updated_at": "2026-05-14T20:31:51Z",
+    "size": 45,
+    "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 53,
+    "score": 50,
     "level": "maintained"
   },
   "category": "misc"

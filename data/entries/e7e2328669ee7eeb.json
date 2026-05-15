@@ -1,0 +1,29 @@
+{
+  "id": "agenticoding-pi-agenticoding",
+  "name": "agenticoding-pi-agenticoding",
+  "url": "https://github.com/agenticoding/pi-agenticoding",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/agenticoding/pi-agenticoding",
+    "repo_full_name": "agenticoding/pi-agenticoding",
+    "description": "",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-14T06:16:03Z",
+    "pushed_at": "2026-05-14T06:37:55Z",
+    "updated_at": "2026-05-14T06:37:59Z",
+    "size": 34,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

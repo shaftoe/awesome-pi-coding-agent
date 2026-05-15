@@ -10,19 +10,19 @@
     "description": "GUI experience for the popular Pi Coding Agent",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-06T22:31:02Z",
-    "pushed_at": "2026-05-13T20:56:21Z",
-    "updated_at": "2026-05-13T20:55:27Z",
-    "size": 1977,
+    "pushed_at": "2026-05-14T10:43:06Z",
+    "updated_at": "2026-05-14T10:41:54Z",
+    "size": 2645,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 58,
+    "score": 66,
     "level": "maintained"
   },
   "category": "misc"

@@ -1,0 +1,43 @@
+{
+  "id": "pi-semantic-memory",
+  "name": "pi-semantic-memory",
+  "url": "https://www.npmjs.com/package/pi-semantic-memory",
+  "source": "npm-search",
+  "description": "Local-first semantic memory for Pi coding agent — powered by LogosDB MCP (stdio). Auto-indexes projects, persists turn records and thinking traces across sessions, injects relevant context on every prompt. Zero cloud.",
+  "metadata": {
+    "github_url": "https://github.com/jose-compu/pi-semantic-memory",
+    "repo_full_name": "jose-compu/pi-semantic-memory",
+    "description": "Local-first semantic memory for Pi coding agent — powered by LogosDB MCP (stdio). Auto-indexes projects, persists turn records and thinking traces across sessions, injects relevant context on every prompt. Zero cloud.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "cross-session",
+      "embeddings",
+      "local-first",
+      "logosdb",
+      "mcp",
+      "memory",
+      "pi-coding-agent",
+      "pi-package",
+      "rag",
+      "semantic-search",
+      "thinking-traces",
+      "typescript",
+      "vector-search"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-14T10:31:56Z",
+    "pushed_at": "2026-05-14T21:31:42Z",
+    "updated_at": "2026-05-14T21:31:45Z",
+    "size": 18,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

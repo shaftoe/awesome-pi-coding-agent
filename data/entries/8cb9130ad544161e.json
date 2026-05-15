@@ -10,7 +10,7 @@
     "description": "Fleet Pi , workspace for Pi-powered coding agents, with durable plans, memory, and repo-scoped tools",
     "stars": 1,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "agent-skill",
       "agentic-ai",
@@ -23,15 +23,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-25T15:49:53Z",
-    "pushed_at": "2026-05-13T21:43:44Z",
-    "updated_at": "2026-05-12T15:39:55Z",
-    "size": 1236,
+    "pushed_at": "2026-05-14T04:10:59Z",
+    "updated_at": "2026-05-14T04:11:05Z",
+    "size": 1248,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 70,
-    "level": "active"
+    "score": 62,
+    "level": "maintained"
   },
   "category": "extension"
 }

@@ -1,0 +1,21 @@
+{
+  "id": "BRAVE_discourse.nixos.org_2",
+  "name": "Pi coding agent: how to install (npm) extensions? - #2 by boxenlude - Help - NixOS Discourse",
+  "url": "https://discourse.nixos.org/t/pi-coding-agent-how-to-install-npm-extensions/77030/2",
+  "source": "brave-web-search",
+  "description": "Hi all! I’ve installed the pi-coding-agent package from unstable. It works fine, but installing extensions (e.g. pi-mcp-adapter) does not work, because it calls npm install under the hood (I assume) and thus results in: …",
+  "metadata": {
+    "title": "Pi coding agent: how to install (npm) extensions? - #2 by boxenlude - Help - NixOS Discourse",
+    "name": "Pi coding agent: how to install (npm) extensions? - #2 by boxenlude - Help - NixOS Discourse",
+    "description": "Hi all! I’ve installed the pi-coding-agent package from unstable. It works fine, but installing extensions (e.g. pi-mcp-adapter) does not work, because it calls npm install under the hood (I assume) and thus results in: …",
+    "published_at": "2026-04-17T07:15:36",
+    "source_site": "NixOS Discourse",
+    "source_url": "https://discourse.nixos.org/t/pi-coding-agent-how-to-install-npm-extensions/77030/2",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "health": {
+    "score": 46,
+    "level": "maintained"
+  },
+  "category": "article"
+}
