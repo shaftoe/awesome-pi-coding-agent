@@ -8,8 +8,8 @@
     "github_url": "https://github.com/MasuRii/pi-rtk-optimizer",
     "repo_full_name": "MasuRii/pi-rtk-optimizer",
     "description": "Pi extension that optimizes RTK command rewriting and tool output compaction for the coding agent.",
-    "stars": 96,
-    "forks": 9,
+    "stars": 99,
+    "forks": 10,
     "open_issues": 1,
     "topics": [
       "coding-agent",
@@ -32,14 +32,14 @@
     "archived": false,
     "created_at": "2026-03-01T17:46:59Z",
     "pushed_at": "2026-05-08T16:44:53Z",
-    "updated_at": "2026-05-14T17:36:25Z",
+    "updated_at": "2026-05-15T16:22:28Z",
     "size": 1395,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 82,
+    "level": "active"
   },
   "category": "extension"
 }

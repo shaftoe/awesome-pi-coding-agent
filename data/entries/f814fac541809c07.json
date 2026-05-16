@@ -1,0 +1,29 @@
+{
+  "id": "Enigmadie-pi-agent",
+  "name": "Enigmadie-pi-agent",
+  "url": "https://github.com/Enigmadie/pi-agent",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/Enigmadie/pi-agent",
+    "repo_full_name": "Enigmadie/pi-agent",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-14T21:48:16Z",
+    "pushed_at": "2026-05-15T23:00:48Z",
+    "updated_at": "2026-05-15T23:00:53Z",
+    "size": 0,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/luxus/pi-hindsight",
     "repo_full_name": "luxus/pi-hindsight",
     "description": "memory for the people of pi (with help of hindsight)",
-    "stars": 5,
+    "stars": 8,
     "forks": 0,
     "open_issues": 2,
     "topics": [
@@ -23,14 +23,14 @@
     "archived": false,
     "created_at": "2026-04-25T15:16:43Z",
     "pushed_at": "2026-05-13T12:52:59Z",
-    "updated_at": "2026-05-14T14:43:42Z",
+    "updated_at": "2026-05-15T16:39:17Z",
     "size": 1749,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 67,
+    "level": "maintained"
   },
   "category": "extension"
 }

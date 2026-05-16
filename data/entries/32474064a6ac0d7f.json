@@ -10,7 +10,7 @@
     "description": "Pi extension package for Jujutsu workflows",
     "stars": 4,
     "forks": 2,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 42,
+    "level": "maintained"
   },
   "category": "extension"
 }

@@ -1,0 +1,32 @@
+{
+  "id": "@hugo-hsi-dev/pi-interactive-questionnaire",
+  "name": "@hugo-hsi-dev/pi-interactive-questionnaire",
+  "url": "https://www.npmjs.com/package/@hugo-hsi-dev/pi-interactive-questionnaire",
+  "source": "npm-search",
+  "description": "Pi extension for asking users structured questions with choices and a custom answer path.",
+  "metadata": {
+    "github_url": "https://github.com/hugo-hsi-dev/dot-pi",
+    "npm_name": "@hugo-hsi-dev/pi-interactive-questionnaire",
+    "description": "Pi extension for asking users structured questions with choices and a custom answer path.",
+    "keywords": [
+      "ask-user",
+      "interactive-questionnaire",
+      "pi-extension",
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-15T14:49:07.496Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

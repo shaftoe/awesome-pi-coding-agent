@@ -1,0 +1,29 @@
+{
+  "id": "hkfuertes-ask-pi-extension",
+  "name": "hkfuertes-ask-pi-extension",
+  "url": "https://github.com/hkfuertes/ask-pi-extension",
+  "source": "github-search",
+  "description": "Sub-agents for pi with Claude Code look and feel — parallel execution, live widget, custom agent types, mid-run steering and more ...",
+  "metadata": {
+    "github_url": "https://github.com/hkfuertes/ask-pi-extension",
+    "repo_full_name": "hkfuertes/ask-pi-extension",
+    "description": "Sub-agents for pi with Claude Code look and feel — parallel execution, live widget, custom agent types, mid-run steering and more ...",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": null,
+    "archived": false,
+    "created_at": "2026-05-15T16:29:10Z",
+    "pushed_at": "2026-05-14T17:20:04Z",
+    "updated_at": "2026-05-15T16:38:03Z",
+    "size": 11270,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

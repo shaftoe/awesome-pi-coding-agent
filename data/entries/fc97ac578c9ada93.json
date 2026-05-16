@@ -10,7 +10,7 @@
     "description": "Pi coding agent extension to help visualize token consumption",
     "stars": 6,
     "forks": 1,
-    "open_issues": 3,
+    "open_issues": 4,
     "topics": [
       "ai",
       "pi-coding-agent",
@@ -20,15 +20,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-06T22:42:37Z",
-    "pushed_at": "2026-05-14T08:38:40Z",
+    "pushed_at": "2026-05-15T08:49:52Z",
     "updated_at": "2026-05-12T13:57:14Z",
-    "size": 400,
+    "size": 402,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 70,
+    "level": "active"
   },
   "category": "extension"
 }

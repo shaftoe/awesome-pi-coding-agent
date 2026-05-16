@@ -8,7 +8,7 @@
     "github_url": "https://github.com/samfoy/pi-ralph",
     "repo_full_name": "samfoy/pi-ralph",
     "description": "Hat-based multi-agent orchestration loops for pi coding agent",
-    "stars": 12,
+    "stars": 13,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -23,14 +23,14 @@
     "archived": false,
     "created_at": "2026-03-04T03:45:24Z",
     "pushed_at": "2026-05-14T15:01:59Z",
-    "updated_at": "2026-05-14T15:02:23Z",
+    "updated_at": "2026-05-15T21:25:12Z",
     "size": 236,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 73,
+    "level": "active"
   },
   "category": "extension"
 }

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/edlsh/pi-ask-user",
     "repo_full_name": "edlsh/pi-ask-user",
     "description": "Interactive decision-gating extension for pi — lets AI agents ask users questions with multiple-choice and freeform answers",
-    "stars": 77,
+    "stars": 78,
     "forks": 10,
     "open_issues": 2,
     "topics": [
@@ -25,14 +25,14 @@
     "archived": false,
     "created_at": "2026-02-16T17:44:39Z",
     "pushed_at": "2026-05-09T23:16:16Z",
-    "updated_at": "2026-05-14T19:38:11Z",
+    "updated_at": "2026-05-15T22:05:24Z",
     "size": 1935,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 82,
+    "level": "active"
   },
   "category": "extension"
 }

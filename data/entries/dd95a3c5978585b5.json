@@ -6,30 +6,32 @@
   "description": "Pi extension providing deterministic GitHub CI, release, and issue tools.",
   "metadata": {
     "github_url": "https://github.com/gotgenes/pi-github-tools",
-    "npm_name": "@gotgenes/pi-github-tools",
+    "repo_full_name": "gotgenes/pi-github-tools",
     "description": "Pi extension providing deterministic GitHub CI, release, and issue tools.",
-    "keywords": [
-      "pi-package",
-      "pi",
-      "pi-extension",
-      "pi-coding-agent",
-      "github",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
       "ci",
+      "github-tools",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
       "release"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-05-14T23:21:27.522Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-14T21:38:37Z",
+    "pushed_at": "2026-05-15T03:25:15Z",
+    "updated_at": "2026-05-15T03:24:39Z",
+    "size": 154,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 72,
-    "level": "active"
+    "score": 60,
+    "level": "maintained"
   },
   "category": "extension"
 }

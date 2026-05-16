@@ -18,14 +18,14 @@
     "archived": false,
     "created_at": "2026-02-03T03:39:05Z",
     "pushed_at": "2026-04-22T22:27:35Z",
-    "updated_at": "2026-05-14T14:03:38Z",
+    "updated_at": "2026-05-15T21:25:01Z",
     "size": 4891,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 77,
+    "level": "active"
   },
   "category": "misc"
 }

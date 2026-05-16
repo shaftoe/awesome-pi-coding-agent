@@ -1,0 +1,29 @@
+{
+  "id": "thegreatsantiny-AIfred",
+  "name": "thegreatsantiny-AIfred",
+  "url": "https://github.com/thegreatsantiny/AIfred",
+  "source": "github-search",
+  "description": "A somatic butler for the pi coding agent — Alfred Pennyworth as code",
+  "metadata": {
+    "github_url": "https://github.com/thegreatsantiny/AIfred",
+    "repo_full_name": "thegreatsantiny/AIfred",
+    "description": "A somatic butler for the pi coding agent — Alfred Pennyworth as code",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-15T22:06:37Z",
+    "pushed_at": "2026-05-15T22:47:46Z",
+    "updated_at": "2026-05-15T22:47:49Z",
+    "size": 61,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

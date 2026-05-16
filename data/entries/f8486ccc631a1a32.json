@@ -1,0 +1,29 @@
+{
+  "id": "pimotte-agents-orchestra-pi",
+  "name": "pimotte-agents-orchestra-pi",
+  "url": "https://github.com/pimotte-agents/orchestra-pi",
+  "source": "github-search",
+  "description": "Pi extensions for agent orchestration",
+  "metadata": {
+    "github_url": "https://github.com/pimotte-agents/orchestra-pi",
+    "repo_full_name": "pimotte-agents/orchestra-pi",
+    "description": "Pi extensions for agent orchestration",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-15T08:13:22Z",
+    "pushed_at": "2026-05-15T09:12:33Z",
+    "updated_at": "2026-05-15T09:12:38Z",
+    "size": 38,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/mavam/pi-web-providers",
     "repo_full_name": "mavam/pi-web-providers",
     "description": "Configurable web access extension for pi that routes search, contents, answers, and research across Claude, Codex, Exa, Gemini, Parallel, and Valyu providers.",
-    "stars": 64,
+    "stars": 65,
     "forks": 11,
     "open_issues": 4,
     "topics": [
@@ -30,14 +30,14 @@
     "archived": false,
     "created_at": "2026-03-09T08:17:35Z",
     "pushed_at": "2026-05-08T06:53:49Z",
-    "updated_at": "2026-05-10T09:12:39Z",
+    "updated_at": "2026-05-15T21:25:14Z",
     "size": 953,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 82,
+    "level": "active"
   },
   "category": "extension"
 }
