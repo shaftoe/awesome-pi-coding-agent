@@ -1,0 +1,29 @@
+{
+  "id": "deblasis-pi-visual",
+  "name": "deblasis-pi-visual",
+  "url": "https://github.com/deblasis/pi-visual",
+  "source": "github-search",
+  "description": "Visual interaction extension for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/deblasis/pi-visual",
+    "repo_full_name": "deblasis/pi-visual",
+    "description": "Visual interaction extension for pi coding agent",
+    "stars": 8,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-14T01:38:19Z",
+    "pushed_at": "2026-05-15T17:59:04Z",
+    "updated_at": "2026-05-15T17:59:09Z",
+    "size": 29535,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 68,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "abboskhonov-pi-dotfiles",
+  "name": "abboskhonov-pi-dotfiles",
+  "url": "https://github.com/abboskhonov/pi-dotfiles",
+  "source": "github-search",
+  "description": "Pi coding agent dotfiles and configuration",
+  "metadata": {
+    "github_url": "https://github.com/abboskhonov/pi-dotfiles",
+    "repo_full_name": "abboskhonov/pi-dotfiles",
+    "description": "Pi coding agent dotfiles and configuration",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-15T13:48:54Z",
+    "pushed_at": "2026-05-15T14:09:08Z",
+    "updated_at": "2026-05-15T14:09:12Z",
+    "size": 276,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

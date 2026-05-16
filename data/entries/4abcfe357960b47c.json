@@ -8,7 +8,7 @@
     "github_url": "https://github.com/dustinbyrne/kb",
     "repo_full_name": "dustinbyrne/kb",
     "description": "pi extension for agentic development - kanban style",
-    "stars": 21,
+    "stars": 22,
     "forks": 6,
     "open_issues": 3,
     "topics": [],
@@ -16,14 +16,14 @@
     "archived": false,
     "created_at": "2026-03-26T13:56:08Z",
     "pushed_at": "2026-03-29T03:57:09Z",
-    "updated_at": "2026-05-14T20:01:57Z",
+    "updated_at": "2026-05-15T06:09:03Z",
     "size": 1438,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 60,
+    "level": "maintained"
   },
   "category": "extension"
 }

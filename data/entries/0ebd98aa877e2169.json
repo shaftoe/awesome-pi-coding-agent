@@ -10,7 +10,7 @@
     "description": "Context window attribution bar for the Pi coding agent. Color-coded token breakdown in your TUI footer.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
@@ -22,7 +22,7 @@
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 53,
+    "score": 61,
     "level": "maintained"
   },
   "category": "extension"

@@ -1,0 +1,35 @@
+{
+  "id": "@os-eco/seeds-cli",
+  "name": "@os-eco/seeds-cli",
+  "url": "https://www.npmjs.com/package/@os-eco/seeds-cli",
+  "source": "npm-search",
+  "description": "Git-native issue tracker for AI agent workflows",
+  "metadata": {
+    "github_url": "https://github.com/jayminwest/seeds",
+    "npm_name": "@os-eco/seeds-cli",
+    "description": "Git-native issue tracker for AI agent workflows",
+    "keywords": [
+      "issue-tracking",
+      "git",
+      "ai",
+      "agents",
+      "cli",
+      "developer-tools",
+      "pi-package"
+    ],
+    "version": "0.4.6",
+    "published_at": "2026-05-15T22:37:33.928Z",
+    "npm_downloads_monthly": 1250,
+    "npm_downloads_weekly": 802,
+    "npm_score_final": 26.951115,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 91,
+    "level": "active"
+  },
+  "category": "misc"
+}

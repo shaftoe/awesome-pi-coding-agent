@@ -1,0 +1,48 @@
+{
+  "id": "pi-git-assistant",
+  "name": "pi-git-assistant",
+  "url": "https://www.npmjs.com/package/pi-git-assistant",
+  "source": "npm-search",
+  "description": "AI-powered git commit assistant for the Pi coding agent. Automatically analyzes diffs, manages git branches, writes conventional commit messages, and generates professional pull request descriptions.",
+  "metadata": {
+    "github_url": "https://github.com/elt7613/pi-git-assistant",
+    "repo_full_name": "elt7613/pi-git-assistant",
+    "description": " AI-powered git commit assistant for the Pi coding agent. Automatically analyzes diffs, manages git branches, writes conventional commit messages, and generates professional pull request descriptions.",
+    "stars": 5,
+    "forks": 1,
+    "open_issues": 1,
+    "topics": [
+      "ai-agent",
+      "ai-coding-assistant",
+      "ai-developer-tools",
+      "automation",
+      "cli",
+      "commit-message-generator",
+      "conventional-commits",
+      "developer-productivity",
+      "developer-tools",
+      "git",
+      "git-commit",
+      "llm",
+      "pi-agent",
+      "pi-extension",
+      "pi-git-assistant",
+      "prompt-engineering",
+      "pull-request-generator",
+      "workflow-automation"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-15T12:41:13Z",
+    "pushed_at": "2026-05-15T23:01:35Z",
+    "updated_at": "2026-05-15T22:08:01Z",
+    "size": 24819,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 63,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

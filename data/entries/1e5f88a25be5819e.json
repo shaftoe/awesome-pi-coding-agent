@@ -1,0 +1,29 @@
+{
+  "id": "ai-ecoverse-pi-grok",
+  "name": "ai-ecoverse-pi-grok",
+  "url": "https://github.com/ai-ecoverse/pi-grok",
+  "source": "github-search",
+  "description": "Grok Build provider and extension for the Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/ai-ecoverse/pi-grok",
+    "repo_full_name": "ai-ecoverse/pi-grok",
+    "description": "Grok Build provider and extension for the Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-15T20:30:25Z",
+    "pushed_at": "2026-05-15T21:47:47Z",
+    "updated_at": "2026-05-15T21:47:51Z",
+    "size": 54,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

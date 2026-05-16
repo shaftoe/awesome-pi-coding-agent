@@ -1,0 +1,29 @@
+{
+  "id": "Joselay-pi-agent-config",
+  "name": "Joselay-pi-agent-config",
+  "url": "https://github.com/Joselay/pi-agent-config",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/Joselay/pi-agent-config",
+    "repo_full_name": "Joselay/pi-agent-config",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-15T07:29:35Z",
+    "pushed_at": "2026-05-15T16:26:03Z",
+    "updated_at": "2026-05-15T16:26:07Z",
+    "size": 21,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

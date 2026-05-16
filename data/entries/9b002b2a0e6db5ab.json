@@ -1,0 +1,29 @@
+{
+  "id": "sykar-f-pi-config",
+  "name": "sykar-f-pi-config",
+  "url": "https://github.com/sykar-f/pi-config",
+  "source": "github-search",
+  "description": "Configuration Pi.dev coding agent — Qwen self-hosted, fetch_clean, deep-researcher",
+  "metadata": {
+    "github_url": "https://github.com/sykar-f/pi-config",
+    "repo_full_name": "sykar-f/pi-config",
+    "description": "Configuration Pi.dev coding agent — Qwen self-hosted, fetch_clean, deep-researcher",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-06T20:29:46Z",
+    "pushed_at": "2026-05-07T10:47:07Z",
+    "updated_at": "2026-05-15T09:05:20Z",
+    "size": 43,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

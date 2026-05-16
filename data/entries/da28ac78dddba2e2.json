@@ -15,14 +15,14 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-04T10:54:30Z",
-    "pushed_at": "2026-05-10T19:52:33Z",
-    "updated_at": "2026-05-10T19:52:38Z",
-    "size": 78,
+    "pushed_at": "2026-05-15T19:24:03Z",
+    "updated_at": "2026-05-15T19:24:06Z",
+    "size": 156,
     "license": "AGPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
+    "score": 53,
     "level": "maintained"
   },
   "category": "extension"

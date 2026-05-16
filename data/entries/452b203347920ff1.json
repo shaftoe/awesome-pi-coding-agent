@@ -1,0 +1,29 @@
+{
+  "id": "the-grove-ai-autonomaton-pi",
+  "name": "the-grove-ai-autonomaton-pi",
+  "url": "https://github.com/the-grove-ai/autonomaton-pi",
+  "source": "github-search",
+  "description": "GRV-001 Autonomaton scaffold for pi-coding-agent — five-stage invariant telemetry pipeline. See SPEC.md.",
+  "metadata": {
+    "github_url": "https://github.com/the-grove-ai/autonomaton-pi",
+    "repo_full_name": "the-grove-ai/autonomaton-pi",
+    "description": "GRV-001 Autonomaton scaffold for pi-coding-agent — five-stage invariant telemetry pipeline. See SPEC.md.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 5,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-15T00:54:13Z",
+    "pushed_at": "2026-05-15T23:47:52Z",
+    "updated_at": "2026-05-15T23:47:56Z",
+    "size": 107,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/perminder-klair/locca",
     "repo_full_name": "perminder-klair/locca",
     "description": "A TUI around llama.cpp for running, managing, and benchmarking local GGUF models and launching the pi coding agent against your local server.",
-    "stars": 5,
+    "stars": 6,
     "forks": 0,
     "open_issues": 2,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-04-29T20:10:29Z",
     "pushed_at": "2026-05-14T09:02:32Z",
-    "updated_at": "2026-05-11T19:38:08Z",
+    "updated_at": "2026-05-15T14:34:41Z",
     "size": 5310,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

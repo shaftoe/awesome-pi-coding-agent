@@ -10,7 +10,7 @@
     "description": "Android phone control for pi-agent — 36 tools to see, touch, and automate any device via ADB",
     "stars": 5,
     "forks": 1,
-    "open_issues": 3,
+    "open_issues": 4,
     "topics": [
       "adb",
       "ai-agent",
@@ -38,8 +38,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 55,
+    "level": "maintained"
   },
   "category": "extension"
 }

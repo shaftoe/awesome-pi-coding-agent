@@ -1,0 +1,29 @@
+{
+  "id": "ForeverYoung1208-pi-config",
+  "name": "ForeverYoung1208-pi-config",
+  "url": "https://github.com/ForeverYoung1208/pi-config",
+  "source": "github-search",
+  "description": "My current config for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/ForeverYoung1208/pi-config",
+    "repo_full_name": "ForeverYoung1208/pi-config",
+    "description": "My current config for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-15T13:50:10Z",
+    "pushed_at": "2026-05-15T14:52:40Z",
+    "updated_at": "2026-05-15T14:52:45Z",
+    "size": 8130,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

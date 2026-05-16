@@ -21161,5 +21161,361 @@
 			"sourceName": "brave",
 			"query": "brave:pi-theme"
 		}
+	},
+	{
+		"url": "https://social.gabekangas.com/users/$APOX9tlNiFASXL3NVA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.064Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=xShGjTBJbjE",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-15T23:54:44.1Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.virtuability.com/blog/2026-02-22-ai-isnt-a-hammer/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.118Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=e5aud8zON8o",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.168Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=8Dt0HM8HIq4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.179Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=FOkLJ1pGPck",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.187Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://arxiv.org/html/2605.09183v1",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.196Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=T87hJTZY7O0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.201Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://finance.yahoo.com/quote/FMEN.MX/earnings/FMEN.MX-Q4-2025-earnings_call-380094.html",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.216Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/jamie-smith-uk/jamie-agent-pipeline",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.22Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=lK9o5Wu2upU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.23Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=riYMqR6GDBU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.247Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/milanglacier/pi-theme-switcher",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.26Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/aa89227/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.266Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/syxc/omp-acp",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.311Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=6xXjHM3V1zM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.315Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/punzik/pi-cut-the-think",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.334Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.tipranks.com/news/private-companies/replit-showcases-internal-ai-tool-development-to-highlight-platform-flexibility",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.363Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ow1we5PzK-o",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.377Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=8QTPWt4XEWY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.395Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=LmCd7cx5mT8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.419Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://education.economictimes.indiatimes.com/amp/news/higher-education/pema-khandu-appeals-for-cuet-2026-centres-in-arunachal-pradesh/130955262",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.43Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://blog.scottlogic.com/2026/05/13/alternative-coding-agents-pi.html",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.45Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/oneye5/pie",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.459Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=WNmBJHNZDSE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.461Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://nader.substack.com/p/how-to-build-a-custom-agent-framework",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.467Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/rdandnayak/search-agent-pi",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.473Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=bybJAl15jR8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.488Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://arunachaltimes.in/index.php/2026/05/09/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.514Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://www.anthropic.com/research/teaching-claude-why?vid=15",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.519Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=dDgH9DFGA9A",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-15T23:54:44.527Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.stocktitan.net/sec-filings/AACI/10-q-armada-acquisition-corp-iii-quarterly-earnings-report-bd9d76345179.html",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.568Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://arunachalobserver.org/2026/05/09/dc-dont-compromise-with-quality-of-works/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.581Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=bFO0uAMPx1g",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.608Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/gotgenes/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-15T23:54:44.625Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-marathon-theme",
+		"reason": "Duplicate of https://github.com/justinclayton/pi-marathon-theme (same repo, higher health score in d4509f75c84f7cc7.json)",
+		"blacklisted_at": "2026-05-15T23:57:07.698Z",
+		"source": "manual"
 	}
 ]

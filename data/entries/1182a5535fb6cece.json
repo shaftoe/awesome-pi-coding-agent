@@ -1,0 +1,29 @@
+{
+  "id": "luxus-pi-xai-text",
+  "name": "luxus-pi-xai-text",
+  "url": "https://github.com/luxus/pi-xai-text",
+  "source": "github-search",
+  "description": "Pi extension for xAI / Grok (Responses API + native OAuth for Grok Build / Coding Plan). Full multi-agent, tools, reasoning, and binary-free auth.",
+  "metadata": {
+    "github_url": "https://github.com/luxus/pi-xai-text",
+    "repo_full_name": "luxus/pi-xai-text",
+    "description": "Pi extension for xAI / Grok (Responses API + native OAuth for Grok Build / Coding Plan). Full multi-agent, tools, reasoning, and binary-free auth.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-15T11:22:38Z",
+    "pushed_at": "2026-05-15T12:41:33Z",
+    "updated_at": "2026-05-15T12:41:37Z",
+    "size": 70,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

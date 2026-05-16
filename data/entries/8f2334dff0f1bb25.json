@@ -1,0 +1,29 @@
+{
+  "id": "frgmt0-ale",
+  "name": "frgmt0-ale",
+  "url": "https://github.com/frgmt0/ale",
+  "source": "github-search",
+  "description": "Ale is a cloud delegation service specifically for Pi agents",
+  "metadata": {
+    "github_url": "https://github.com/frgmt0/ale",
+    "repo_full_name": "frgmt0/ale",
+    "description": "Ale is a cloud delegation service specifically for Pi agents",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-29T07:14:10Z",
+    "pushed_at": "2026-05-03T08:00:46Z",
+    "updated_at": "2026-05-03T08:00:49Z",
+    "size": 239,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

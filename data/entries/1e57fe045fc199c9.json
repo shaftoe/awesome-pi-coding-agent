@@ -10,20 +10,20 @@
     "description": "Pi Agent Extensions",
     "stars": 2,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 3,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-13T18:53:31Z",
-    "pushed_at": "2026-05-14T21:41:38Z",
-    "updated_at": "2026-05-14T21:41:39Z",
-    "size": 42499,
+    "pushed_at": "2026-05-15T23:44:57Z",
+    "updated_at": "2026-05-15T19:21:13Z",
+    "size": 42597,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 64,
+    "level": "maintained"
   },
   "category": "extension"
 }

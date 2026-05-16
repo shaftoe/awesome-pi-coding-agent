@@ -1,0 +1,29 @@
+{
+  "id": "AleksanderEvensen-pi-agent-config",
+  "name": "AleksanderEvensen-pi-agent-config",
+  "url": "https://github.com/AleksanderEvensen/pi-agent-config",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/AleksanderEvensen/pi-agent-config",
+    "repo_full_name": "AleksanderEvensen/pi-agent-config",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-15T20:44:03Z",
+    "pushed_at": "2026-05-15T20:57:34Z",
+    "updated_at": "2026-05-15T23:19:27Z",
+    "size": 12,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}
