@@ -8,7 +8,7 @@
     "github_url": "https://github.com/nordbyte/nordrelay",
     "repo_full_name": "nordbyte/nordrelay",
     "description": "NordRelay is a secure remote control bridge for coding agents, connecting Codex, Pi, Hermes, OpenClaw and Claude Code to Telegram, Discord, Slack, WebUI with streaming replies, sessions, files, voice, queues, artifacts and access controls.",
-    "stars": 3,
+    "stars": 5,
     "forks": 2,
     "open_issues": 1,
     "topics": [
@@ -32,9 +32,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-12T10:21:14Z",
-    "pushed_at": "2026-05-15T20:30:53Z",
-    "updated_at": "2026-05-15T20:30:58Z",
-    "size": 1077,
+    "pushed_at": "2026-05-16T19:01:49Z",
+    "updated_at": "2026-05-16T19:01:55Z",
+    "size": 3191,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

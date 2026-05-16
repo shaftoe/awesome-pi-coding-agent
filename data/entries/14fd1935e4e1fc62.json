@@ -10,7 +10,7 @@
     "description": "A Pi package for browsing and managing packages, skills, extensions, prompts, and themes",
     "stars": 10,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "extensions",
       "pi",
@@ -31,7 +31,7 @@
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 65,
+    "score": 62,
     "level": "maintained"
   },
   "category": "extension"

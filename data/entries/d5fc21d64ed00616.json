@@ -1,0 +1,24 @@
+{
+  "id": "YT__u4PLnc13ME",
+  "name": "Claude Code Wasted 100K Tokens. Pi Did It Better on Local Gemma 4",
+  "url": "https://youtube.com/watch?v=_u4PLnc13ME",
+  "source": "youtube-search",
+  "description": "In this video, I put Claude Code head-to-head against Pi Coding Agent, a minimal, no-nonsense coding agent — and the results ...",
+  "metadata": {
+    "title": "Claude Code Wasted 100K Tokens. Pi Did It Better on Local Gemma 4",
+    "name": "Claude Code Wasted 100K Tokens. Pi Did It Better on Local Gemma 4",
+    "description": "In this video, I put Claude Code head-to-head against Pi Coding Agent, a minimal, no-nonsense coding agent — and the results ...",
+    "channel": "Execute Automation",
+    "published_at": "2026-05-02T07:24:46Z",
+    "thumbnail": "https://i.ytimg.com/vi/_u4PLnc13ME/hqdefault.jpg",
+    "views": 1136,
+    "likes": 19,
+    "comments": 5,
+    "discovery_hint": "youtube:pi-coding-agent"
+  },
+  "health": {
+    "score": 59,
+    "level": "maintained"
+  },
+  "category": "video"
+}

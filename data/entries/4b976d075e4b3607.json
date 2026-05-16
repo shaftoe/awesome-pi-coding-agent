@@ -22,7 +22,7 @@
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
   "health": {
-    "score": 39,
+    "score": 35,
     "level": "stale"
   },
   "category": "extension"

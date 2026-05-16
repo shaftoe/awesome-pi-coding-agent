@@ -1,0 +1,29 @@
+{
+  "id": "shubham-cpp-pi-config",
+  "name": "shubham-cpp-pi-config",
+  "url": "https://github.com/shubham-cpp/pi-config",
+  "source": "github-search",
+  "description": "My Personal PI-agent config",
+  "metadata": {
+    "github_url": "https://github.com/shubham-cpp/pi-config",
+    "repo_full_name": "shubham-cpp/pi-config",
+    "description": "My Personal PI-agent config",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-16T12:08:23Z",
+    "pushed_at": "2026-05-16T12:37:45Z",
+    "updated_at": "2026-05-16T12:37:48Z",
+    "size": 18,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

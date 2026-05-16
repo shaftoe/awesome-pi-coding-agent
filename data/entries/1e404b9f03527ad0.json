@@ -3,14 +3,14 @@
   "name": "gotgenes-pi-autoformat",
   "url": "https://github.com/gotgenes/pi-autoformat",
   "source": "github-search",
-  "description": "Pi extension that auto-formats agent-edited files at prompt end so formatting doesn't fail later at commit time.",
+  "description": "Moved to gotgenes/pi-packages",
   "metadata": {
     "github_url": "https://github.com/gotgenes/pi-autoformat",
     "repo_full_name": "gotgenes/pi-autoformat",
-    "description": "Pi extension that auto-formats agent-edited files at prompt end so formatting doesn't fail later at commit time.",
+    "description": "Moved to gotgenes/pi-packages",
     "stars": 0,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 0,
     "topics": [
       "autoformat",
       "biome",
@@ -23,17 +23,17 @@
       "typescript"
     ],
     "language": "TypeScript",
-    "archived": false,
+    "archived": true,
     "created_at": "2026-04-28T21:48:44Z",
-    "pushed_at": "2026-05-15T02:17:20Z",
-    "updated_at": "2026-05-15T02:16:45Z",
-    "size": 678,
+    "pushed_at": "2026-05-16T00:29:09Z",
+    "updated_at": "2026-05-16T00:29:13Z",
+    "size": 680,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 61,
-    "level": "maintained"
+    "score": 0,
+    "level": "dead"
   },
-  "category": "extension"
+  "category": "misc"
 }

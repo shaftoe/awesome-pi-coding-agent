@@ -1,0 +1,29 @@
+{
+  "id": "wilsonwan-my-pi",
+  "name": "wilsonwan-my-pi",
+  "url": "https://github.com/wilsonwan/my-pi",
+  "source": "github-search",
+  "description": "My personal Pi Coding Agent setup",
+  "metadata": {
+    "github_url": "https://github.com/wilsonwan/my-pi",
+    "repo_full_name": "wilsonwan/my-pi",
+    "description": "My personal Pi Coding Agent setup",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-15T11:07:35Z",
+    "pushed_at": "2026-05-16T14:01:26Z",
+    "updated_at": "2026-05-16T14:01:30Z",
+    "size": 138,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

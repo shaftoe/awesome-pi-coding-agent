@@ -10,20 +10,20 @@
     "description": "Personal extensions for the pi coding agent.",
     "stars": 2,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-27T08:57:44Z",
-    "pushed_at": "2026-05-15T13:33:17Z",
-    "updated_at": "2026-05-15T13:32:46Z",
-    "size": 1257,
+    "pushed_at": "2026-05-16T14:47:43Z",
+    "updated_at": "2026-05-16T14:47:48Z",
+    "size": 1266,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 70,
-    "level": "active"
+    "score": 62,
+    "level": "maintained"
   },
   "category": "extension"
 }

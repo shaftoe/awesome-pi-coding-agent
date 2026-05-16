@@ -8,7 +8,7 @@
     "github_url": "https://github.com/diegopetrucci/pi-extensions",
     "repo_full_name": "diegopetrucci/pi-extensions",
     "description": "A collection of pi extensions I made",
-    "stars": 11,
+    "stars": 12,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -22,14 +22,14 @@
     "archived": false,
     "created_at": "2026-04-15T19:27:56Z",
     "pushed_at": "2026-05-15T21:22:55Z",
-    "updated_at": "2026-05-15T21:23:17Z",
+    "updated_at": "2026-05-16T20:20:14Z",
     "size": 484,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 73,
-    "level": "active"
+    "score": 62,
+    "level": "maintained"
   },
   "category": "extension"
 }

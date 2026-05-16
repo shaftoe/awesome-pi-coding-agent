@@ -14,8 +14,8 @@
     "discovery_hint": "brave:pi-agent"
   },
   "health": {
-    "score": 80,
-    "level": "active"
+    "score": 13,
+    "level": "dead"
   },
   "category": "article"
 }

@@ -9,8 +9,8 @@
     "repo_full_name": "ronnieops/pi-search-hub",
     "description": "Unified web search + content extraction extension for pi — 12 backends (DuckDuckGo, Jina AI, Tavily, Brave, Exa, Serper, Firecrawl, Marginalia, LangSearch, WebSearchAPI, Perplexity Sonar, SearXNG) with auto-fallback, RRF combine mode, web_read tool, and env/shell credential resolution.",
     "stars": 11,
-    "forks": 6,
-    "open_issues": 0,
+    "forks": 7,
+    "open_issues": 1,
     "topics": [
       "ai-agent",
       "cli-tool",
@@ -39,8 +39,8 @@
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 64,
-    "level": "maintained"
+    "score": 72,
+    "level": "active"
   },
   "category": "extension"
 }

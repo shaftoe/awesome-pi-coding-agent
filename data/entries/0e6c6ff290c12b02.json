@@ -1,0 +1,38 @@
+{
+  "id": "pi-smart-compact",
+  "name": "pi-smart-compact",
+  "url": "https://www.npmjs.com/package/pi-smart-compact",
+  "source": "npm-search",
+  "description": "EESV smart compaction extension for Pi Coding Agent — deterministic extraction, exploration, synthesis, verification with redundancy pruning, project fingerprinting, and damage detection.",
+  "metadata": {
+    "github_url": "https://github.com/alpertarhan/pi-smart-compact",
+    "npm_name": "pi-smart-compact",
+    "description": "EESV smart compaction extension for Pi Coding Agent — deterministic extraction, exploration, synthesis, verification with redundancy pruning, project fingerprinting, and damage detection.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "pi-smart-compact",
+      "smart-compaction",
+      "context-compression",
+      "eesv",
+      "conversation-summarization",
+      "llm-context"
+    ],
+    "version": "7.5.2",
+    "published_at": "2026-05-16T23:21:39.427Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

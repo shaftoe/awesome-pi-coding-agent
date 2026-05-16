@@ -10,7 +10,7 @@
     "description": "VSCode Language Model Chat Provider integration for Pi coding agent, making Pi models available in VS Code's model picker for use with GitHub Copilot Chat and any extension that consumes the vscode.lm.* APIs.",
     "stars": 9,
     "forks": 3,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "pi-agent"
     ],
@@ -24,7 +24,7 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 58,
+    "score": 66,
     "level": "maintained"
   },
   "category": "extension"

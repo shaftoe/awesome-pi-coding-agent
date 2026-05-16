@@ -8,21 +8,21 @@
     "github_url": "https://github.com/Crokily/pi-discord-gateway",
     "repo_full_name": "Crokily/pi-discord-gateway",
     "description": "Piscord - Lightweight Discord gateway for pi coding agent. Architecture inspired by NanoClaw.",
-    "stars": 19,
-    "forks": 3,
+    "stars": 20,
+    "forks": 4,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-28T14:24:57Z",
-    "pushed_at": "2026-05-15T13:11:42Z",
-    "updated_at": "2026-05-15T14:06:15Z",
+    "pushed_at": "2026-05-16T23:44:31Z",
+    "updated_at": "2026-05-16T23:44:34Z",
     "size": 241,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 73,
+    "score": 72,
     "level": "active"
   },
   "category": "extension"

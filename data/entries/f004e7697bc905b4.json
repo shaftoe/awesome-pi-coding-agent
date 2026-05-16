@@ -1,0 +1,37 @@
+{
+  "id": "@blackbelt-technology/pi-anthropic-messages",
+  "name": "@blackbelt-technology/pi-anthropic-messages",
+  "url": "https://www.npmjs.com/package/@blackbelt-technology/pi-anthropic-messages",
+  "source": "npm-search",
+  "description": "Anthropic-messages protocol bridge for pi. Activates for any anthropic-messages API session (Anthropic OAuth/API-key + proxy providers): canonicalizes lowercase pi core tools (read/write/bash/grep → Read/Write/Bash/Grep), namespaces custom tools under mcp",
+  "metadata": {
+    "github_url": "https://github.com/BlackBeltTechnology/pi-anthropic-messages",
+    "npm_name": "@blackbelt-technology/pi-anthropic-messages",
+    "description": "Anthropic-messages protocol bridge for pi. Activates for any anthropic-messages API session (Anthropic OAuth/API-key + proxy providers): canonicalizes lowercase pi core tools (read/write/bash/grep → Read/Write/Bash/Grep), namespaces custom tools under mcp",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "anthropic",
+      "anthropic-messages",
+      "mcp",
+      "tool-namespacing",
+      "proxy"
+    ],
+    "version": "0.3.2",
+    "published_at": "2026-05-16T14:10:28.357Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

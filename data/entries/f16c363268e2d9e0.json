@@ -1,0 +1,29 @@
+{
+  "id": "yastrab1-vicinae-pi-agent",
+  "name": "yastrab1-vicinae-pi-agent",
+  "url": "https://github.com/yastrab1/vicinae-pi-agent",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/yastrab1/vicinae-pi-agent",
+    "repo_full_name": "yastrab1/vicinae-pi-agent",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-16T15:56:30Z",
+    "pushed_at": "2026-05-16T15:57:04Z",
+    "updated_at": "2026-05-16T15:57:08Z",
+    "size": 17,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

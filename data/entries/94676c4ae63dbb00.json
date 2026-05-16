@@ -1,0 +1,35 @@
+{
+  "id": "@ersintarhan/pi-auto-context",
+  "name": "@ersintarhan/pi-auto-context",
+  "url": "https://www.npmjs.com/package/@ersintarhan/pi-auto-context",
+  "source": "npm-search",
+  "description": "Automatic context management for pi sessions: anchors, pivots, and cross-session recall — with a status line and auto-truncation of stale tool results.",
+  "metadata": {
+    "github_url": "https://github.com/ersintarhan/pi-auto-context",
+    "npm_name": "@ersintarhan/pi-auto-context",
+    "description": "Automatic context management for pi sessions: anchors, pivots, and cross-session recall — with a status line and auto-truncation of stale tool results.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-skill",
+      "context-management",
+      "anchor",
+      "pivot"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-05-16T22:42:12.589Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

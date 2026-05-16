@@ -3,11 +3,11 @@
   "name": "pi-flow-skills",
   "url": "https://www.npmjs.com/package/pi-flow-skills",
   "source": "npm-search",
-  "description": "BMAD-inspired sprint workflow for Pi: brainstorm, brief, PRD, architecture, epics, sprint, story/dev/review/commit cycle. Includes flow-auto, a bash orchestrator that pipelines stories through fresh Pi sessions.",
+  "description": "BMAD-inspired sprint workflow for Pi with parent + parallel sub-agent orchestration and long-term memory. Story/dev/review phases fan out ephemeral Pi sub-agents (research, prior-art, coupling, tests, adversarial reviewers) and synthesize. Epic closeout c",
   "metadata": {
     "github_url": "https://github.com/edouard-claude/pi-flow-skills",
     "npm_name": "pi-flow-skills",
-    "description": "BMAD-inspired sprint workflow for Pi: brainstorm, brief, PRD, architecture, epics, sprint, story/dev/review/commit cycle. Includes flow-auto, a bash orchestrator that pipelines stories through fresh Pi sessions.",
+    "description": "BMAD-inspired sprint workflow for Pi with parent + parallel sub-agent orchestration and long-term memory. Story/dev/review phases fan out ephemeral Pi sub-agents (research, prior-art, coupling, tests, adversarial reviewers) and synthesize. Epic closeout c",
     "keywords": [
       "pi-package",
       "pi",
@@ -16,21 +16,24 @@
       "workflow",
       "sprint",
       "agent",
+      "subagents",
+      "parallel",
+      "memory",
       "prd",
       "architecture"
     ],
-    "version": "0.3.0",
-    "published_at": "2026-05-13T15:25:08.575Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.9.1",
+    "published_at": "2026-05-16T17:34:27.233Z",
+    "npm_downloads_monthly": 237,
+    "npm_downloads_weekly": 237,
+    "npm_score_final": 20.2157,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 72,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

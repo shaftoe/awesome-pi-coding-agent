@@ -1,0 +1,29 @@
+{
+  "id": "noxmoriens-pi-heimdall",
+  "name": "noxmoriens-pi-heimdall",
+  "url": "https://github.com/noxmoriens/pi-heimdall",
+  "source": "github-search",
+  "description": "Full blown pi agents extensions, this is my personal pi agents extensions cover all of my workflows",
+  "metadata": {
+    "github_url": "https://github.com/noxmoriens/pi-heimdall",
+    "repo_full_name": "noxmoriens/pi-heimdall",
+    "description": "Full blown pi agents extensions, this is my personal pi agents extensions cover all of my workflows",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-15T07:03:32Z",
+    "pushed_at": "2026-05-16T15:57:56Z",
+    "updated_at": "2026-05-16T15:58:00Z",
+    "size": 136,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

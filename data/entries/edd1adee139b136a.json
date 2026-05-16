@@ -8,9 +8,9 @@
     "github_url": "https://github.com/mksglu/context-mode",
     "repo_full_name": "mksglu/context-mode",
     "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
-    "stars": 14822,
-    "forks": 1053,
-    "open_issues": 11,
+    "stars": 14893,
+    "forks": 1057,
+    "open_issues": 13,
     "topics": [
       "antigravity",
       "claude",
@@ -36,14 +36,14 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-23T05:56:28Z",
-    "pushed_at": "2026-05-15T14:24:31Z",
-    "updated_at": "2026-05-15T23:30:52Z",
-    "size": 15987,
+    "pushed_at": "2026-05-16T20:39:44Z",
+    "updated_at": "2026-05-16T23:36:52Z",
+    "size": 15842,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 100,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

@@ -1,0 +1,35 @@
+{
+  "id": "stnly-pi-grok",
+  "name": "stnly-pi-grok",
+  "url": "https://github.com/stnly/pi-grok",
+  "source": "github-search",
+  "description": "Use your SuperGrok subscription in pi with OAuth login, auto-refresh, and live model discovery",
+  "metadata": {
+    "github_url": "https://github.com/stnly/pi-grok",
+    "repo_full_name": "stnly/pi-grok",
+    "description": "Use your SuperGrok subscription in pi with OAuth login, auto-refresh, and live model discovery",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 1,
+    "topics": [
+      "grok",
+      "pi",
+      "pi-package",
+      "supergrok",
+      "xai"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-16T09:41:11Z",
+    "pushed_at": "2026-05-16T12:05:41Z",
+    "updated_at": "2026-05-16T12:50:23Z",
+    "size": 13,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

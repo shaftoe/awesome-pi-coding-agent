@@ -9,8 +9,8 @@
     "repo_full_name": "nicobailon/pi-powerline-footer",
     "description": "Powerline-style status bar extension for pi coding agent",
     "stars": 240,
-    "forks": 50,
-    "open_issues": 30,
+    "forks": 52,
+    "open_issues": 31,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
@@ -22,7 +22,7 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 90,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"
