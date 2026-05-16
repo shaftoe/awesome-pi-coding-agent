@@ -10,7 +10,7 @@
     "description": "Persistent memory for pi — learns corrections, preferences, and patterns from sessions",
     "stars": 61,
     "forks": 12,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "agent-memory",
       "ai-coding-agent",
@@ -24,12 +24,12 @@
     "created_at": "2026-03-19T21:52:47Z",
     "pushed_at": "2026-05-15T23:41:18Z",
     "updated_at": "2026-05-15T23:41:21Z",
-    "size": 332,
+    "size": 367,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 87,
+    "score": 72,
     "level": "active"
   },
   "category": "extension"

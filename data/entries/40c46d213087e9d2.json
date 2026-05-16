@@ -10,7 +10,7 @@
     "description": "Nix flake for pi, a terminal coding agent.",
     "stars": 26,
     "forks": 6,
-    "open_issues": 3,
+    "open_issues": 2,
     "topics": [
       "coding-agent",
       "flake",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-18T00:19:11Z",
-    "pushed_at": "2026-05-15T07:35:50Z",
-    "updated_at": "2026-05-15T20:51:33Z",
-    "size": 349,
+    "pushed_at": "2026-05-16T13:52:39Z",
+    "updated_at": "2026-05-16T13:52:43Z",
+    "size": 391,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

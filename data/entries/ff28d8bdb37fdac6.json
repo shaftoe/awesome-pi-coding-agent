@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Gurpartap/pi-mermaid",
     "repo_full_name": "Gurpartap/pi-mermaid",
     "description": "🧜‍♀️ Pi extension that renders Mermaid diagrams as ASCII in the TUI, with width-aware output and safe handling for larger diagrams.",
-    "stars": 62,
+    "stars": 63,
     "forks": 8,
     "open_issues": 6,
     "topics": [
@@ -20,13 +20,13 @@
     "archived": false,
     "created_at": "2026-02-05T05:20:06Z",
     "pushed_at": "2026-02-23T19:32:45Z",
-    "updated_at": "2026-05-13T15:04:53Z",
+    "updated_at": "2026-05-16T20:46:38Z",
     "size": 3595,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 60,
+    "score": 52,
     "level": "maintained"
   },
   "category": "extension"

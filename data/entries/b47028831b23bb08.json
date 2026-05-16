@@ -1,0 +1,29 @@
+{
+  "id": "ItsThompson-pi-fleet",
+  "name": "ItsThompson-pi-fleet",
+  "url": "https://github.com/ItsThompson/pi-fleet",
+  "source": "github-search",
+  "description": "the sucessor of pi-watch: A dashboard for observing, grouping and navigating between pi coding agents.",
+  "metadata": {
+    "github_url": "https://github.com/ItsThompson/pi-fleet",
+    "repo_full_name": "ItsThompson/pi-fleet",
+    "description": "the sucessor of pi-watch: A dashboard for observing, grouping and navigating between pi coding agents.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-16T10:31:56Z",
+    "pushed_at": "2026-05-16T17:25:32Z",
+    "updated_at": "2026-05-16T17:25:36Z",
+    "size": 1314,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

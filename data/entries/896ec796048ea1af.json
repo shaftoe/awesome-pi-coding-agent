@@ -10,7 +10,7 @@
     "description": "Configurable web access extension for pi that routes search, contents, answers, and research across Claude, Codex, Exa, Gemini, Parallel, and Valyu providers.",
     "stars": 65,
     "forks": 11,
-    "open_issues": 4,
+    "open_issues": 5,
     "topics": [
       "claude",
       "codex",
@@ -36,7 +36,7 @@
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 82,
+    "score": 72,
     "level": "active"
   },
   "category": "extension"

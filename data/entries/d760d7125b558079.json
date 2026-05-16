@@ -1,0 +1,29 @@
+{
+  "id": "Sylvan-Cheng-pi-firecrawl-extension",
+  "name": "Sylvan-Cheng-pi-firecrawl-extension",
+  "url": "https://github.com/Sylvan-Cheng/pi-firecrawl-extension",
+  "source": "github-search",
+  "description": "pi coding agent extension: Firecrawl web scraping & search tools",
+  "metadata": {
+    "github_url": "https://github.com/Sylvan-Cheng/pi-firecrawl-extension",
+    "repo_full_name": "Sylvan-Cheng/pi-firecrawl-extension",
+    "description": "pi coding agent extension: Firecrawl web scraping & search tools",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-16T14:58:04Z",
+    "pushed_at": "2026-05-16T14:58:09Z",
+    "updated_at": "2026-05-16T14:58:12Z",
+    "size": 9,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

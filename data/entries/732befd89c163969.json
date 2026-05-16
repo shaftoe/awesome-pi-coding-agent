@@ -8,7 +8,7 @@
     "github_url": "https://github.com/yevhen/bo-pi",
     "repo_full_name": "yevhen/bo-pi",
     "description": "My custom extensions for pi agent harness",
-    "stars": 17,
+    "stars": 18,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -18,13 +18,13 @@
     "archived": false,
     "created_at": "2026-02-12T15:13:57Z",
     "pushed_at": "2026-03-01T18:24:09Z",
-    "updated_at": "2026-04-21T16:48:37Z",
+    "updated_at": "2026-05-16T21:41:58Z",
     "size": 372,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 48,
+    "score": 42,
     "level": "maintained"
   },
   "category": "extension"

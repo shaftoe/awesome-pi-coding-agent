@@ -20,15 +20,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-14T13:32:06Z",
-    "pushed_at": "2026-05-15T23:25:08Z",
-    "updated_at": "2026-05-15T23:25:11Z",
-    "size": 1521,
+    "pushed_at": "2026-05-16T23:23:37Z",
+    "updated_at": "2026-05-16T23:23:41Z",
+    "size": 992,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 70,
-    "level": "active"
+    "score": 66,
+    "level": "maintained"
   },
   "category": "extension"
 }

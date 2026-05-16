@@ -3,18 +3,18 @@
   "name": "@eovidiu/pi-extensions",
   "url": "https://www.npmjs.com/package/@eovidiu/pi-extensions",
   "source": "npm-search",
-  "description": "Personal Pi extensions, starting with an opt-in MCP sync bridge.",
+  "description": "Pi extensions, including an opt-in MCP bridge.",
   "metadata": {
     "github_url": "https://github.com/eovidiu/pi-extensions",
     "npm_name": "@eovidiu/pi-extensions",
-    "description": "Personal Pi extensions, starting with an opt-in MCP sync bridge.",
+    "description": "Pi extensions, including an opt-in MCP bridge.",
     "keywords": [
       "pi-package",
       "pi-extension",
       "mcp"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-05-15T15:05:06.992Z",
+    "version": "0.1.1",
+    "published_at": "2026-05-16T05:54:43.680Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

@@ -1,0 +1,29 @@
+{
+  "id": "FieldSwan-pi-config",
+  "name": "FieldSwan-pi-config",
+  "url": "https://github.com/FieldSwan/pi-config",
+  "source": "github-search",
+  "description": "My very opinonated collection of settings and extensions for the pi coding agent. Goes in .pi folder.",
+  "metadata": {
+    "github_url": "https://github.com/FieldSwan/pi-config",
+    "repo_full_name": "FieldSwan/pi-config",
+    "description": "My very opinonated collection of settings and extensions for the pi coding agent. Goes in .pi folder.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-16T01:15:26Z",
+    "pushed_at": "2026-05-16T01:20:58Z",
+    "updated_at": "2026-05-16T01:21:01Z",
+    "size": 20,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

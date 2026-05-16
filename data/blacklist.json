@@ -21517,5 +21517,179 @@
 		"reason": "Duplicate of https://github.com/justinclayton/pi-marathon-theme (same repo, higher health score in d4509f75c84f7cc7.json)",
 		"blacklisted_at": "2026-05-15T23:57:07.698Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=z2aFcYzcrag",
+		"reason": "pi network crypto signal: \"pi network\"",
+		"blacklisted_at": "2026-05-16T23:51:14.53Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/WiseriaAI/pie-ai-agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-16T23:51:14.576Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=opfrPY-H1GY",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-16T23:51:14.58Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=XAXGpFhhhQs",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-16T23:51:14.657Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/jfrianop/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-16T23:51:14.675Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.bloomberg.com/profile/company/2650000D:US",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-16T23:51:14.767Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=mAnQx7sODAA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-16T23:51:14.836Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=-QFHIoCo-Ko",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-16T23:51:14.922Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-16T23:51:14.935Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=1KH3bl5QljY",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-16T23:51:14.946Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/nolaurence/pi_cloud_agent",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-16T23:51:14.974Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=2zxniwoKrYA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-16T23:51:15.04Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5Q7jV8TpMXA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-16T23:51:15.067Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=zG7PsIDXXzw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-16T23:51:15.093Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=boxxWR_7y_E",
+		"reason": "non-english language (spanish)",
+		"blacklisted_at": "2026-05-16T23:51:15.145Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=gJ5lVB9TjDM",
+		"reason": "Non-English: Italian title and description",
+		"blacklisted_at": "2026-05-16T23:53:13.758Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=8NG24KDGdBg",
+		"reason": "Non-English: Indonesian description",
+		"blacklisted_at": "2026-05-16T23:53:17.832Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/NikiforovAll/pi-otel",
+		"reason": "Duplicate of npm pi-otel entry (same project)",
+		"blacklisted_at": "2026-05-16T23:53:24.891Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/r4vi/pi-auto-mode",
+		"reason": "Duplicate of npm entry pi-auto-mode (same project, same score, keeping npm)",
+		"blacklisted_at": "2026-05-16T23:55:34.417Z",
+		"source": "manual"
 	}
 ]

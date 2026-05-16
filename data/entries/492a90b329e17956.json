@@ -10,7 +10,7 @@
     "description": "OpenTelemetry traces & metrics extension for pi coding agent",
     "stars": 5,
     "forks": 1,
-    "open_issues": 2,
+    "open_issues": 3,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
@@ -22,7 +22,7 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
+    "score": 48,
     "level": "maintained"
   },
   "category": "extension"

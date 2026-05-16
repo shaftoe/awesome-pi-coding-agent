@@ -1,0 +1,29 @@
+{
+  "id": "JerryAZR-pi-more-models",
+  "name": "JerryAZR-pi-more-models",
+  "url": "https://github.com/JerryAZR/pi-more-models",
+  "source": "github-search",
+  "description": "Extra model providers for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/JerryAZR/pi-more-models",
+    "repo_full_name": "JerryAZR/pi-more-models",
+    "description": "Extra model providers for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-16T06:25:34Z",
+    "pushed_at": "2026-05-16T07:27:06Z",
+    "updated_at": "2026-05-16T07:27:09Z",
+    "size": 4,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "Composable pi coding agent with MCP, LSP, agent chains, prompt presets, and local eval telemetry",
     "stars": 11,
     "forks": 3,
-    "open_issues": 2,
+    "open_issues": 6,
     "topics": [
       "cli",
       "coding-agent",
@@ -27,15 +27,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-11T21:23:11Z",
-    "pushed_at": "2026-05-15T21:51:35Z",
-    "updated_at": "2026-05-15T21:51:39Z",
-    "size": 1418,
+    "pushed_at": "2026-05-16T20:28:50Z",
+    "updated_at": "2026-05-16T20:28:54Z",
+    "size": 2078,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 73,
-    "level": "active"
+    "score": 62,
+    "level": "maintained"
   },
   "category": "extension"
 }

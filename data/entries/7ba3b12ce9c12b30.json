@@ -8,21 +8,21 @@
     "github_url": "https://github.com/fgrehm/pi-ollama-cloud",
     "repo_full_name": "fgrehm/pi-ollama-cloud",
     "description": "Ollama Cloud plugin for Pi coding agent (API Key based)",
-    "stars": 20,
-    "forks": 5,
-    "open_issues": 1,
+    "stars": 21,
+    "forks": 7,
+    "open_issues": 2,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-14T11:40:24Z",
     "pushed_at": "2026-05-08T01:29:21Z",
-    "updated_at": "2026-05-15T19:33:16Z",
+    "updated_at": "2026-05-16T20:30:20Z",
     "size": 181,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 75,
+    "score": 72,
     "level": "active"
   },
   "category": "extension"

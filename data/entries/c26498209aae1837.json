@@ -9,21 +9,21 @@
     "repo_full_name": "woxQAQ/pi-web",
     "description": "Web shell for pi coding agent.",
     "stars": 12,
-    "forks": 3,
+    "forks": 4,
     "open_issues": 4,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-12T13:18:35Z",
-    "pushed_at": "2026-05-15T11:17:06Z",
-    "updated_at": "2026-05-15T11:17:10Z",
-    "size": 1603,
+    "pushed_at": "2026-05-16T12:54:00Z",
+    "updated_at": "2026-05-16T12:54:04Z",
+    "size": 1604,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 73,
-    "level": "active"
+    "score": 62,
+    "level": "maintained"
   },
   "category": "extension"
 }

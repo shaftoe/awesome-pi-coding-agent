@@ -9,8 +9,8 @@
     "repo_full_name": "fitchmultz/pi-oracle",
     "description": "ChatGPT web-oracle extension for pi with isolated browser auth, async jobs, and project-context archives.",
     "stars": 15,
-    "forks": 7,
-    "open_issues": 0,
+    "forks": 8,
+    "open_issues": 1,
     "topics": [
       "chatgpt",
       "extension",
@@ -30,8 +30,8 @@
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 70,
-    "level": "active"
+    "score": 62,
+    "level": "maintained"
   },
   "category": "extension"
 }

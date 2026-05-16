@@ -25,7 +25,7 @@
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
   "health": {
-    "score": 66,
+    "score": 59,
     "level": "maintained"
   },
   "category": "theme"
