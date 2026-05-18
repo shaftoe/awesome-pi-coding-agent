@@ -9,8 +9,8 @@
     "repo_full_name": "manojlds/pi-rlm",
     "description": "Recursive Language Model extension for Pi coding agent",
     "stars": 8,
-    "forks": 1,
-    "open_issues": 0,
+    "forks": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 42,
-    "level": "maintained"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

@@ -1,0 +1,29 @@
+{
+  "id": "andrii-k6a-pi-packages",
+  "name": "andrii-k6a-pi-packages",
+  "url": "https://github.com/andrii-k6a/pi-packages",
+  "source": "github-search",
+  "description": "Packages for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/andrii-k6a/pi-packages",
+    "repo_full_name": "andrii-k6a/pi-packages",
+    "description": "Packages for Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-16T14:26:20Z",
+    "pushed_at": "2026-05-17T16:28:26Z",
+    "updated_at": "2026-05-17T16:28:29Z",
+    "size": 234,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

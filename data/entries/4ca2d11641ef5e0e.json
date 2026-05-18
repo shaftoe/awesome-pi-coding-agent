@@ -11,7 +11,7 @@
     "published_at": "2026-05-02T00:00:00",
     "source_site": "Pi",
     "source_url": "https://pi.dev/packages/pi-web-access",
-    "discovery_hint": "brave:pi-agent"
+    "discovery_hint": "brave:pi-coding-agent"
   },
   "health": {
     "score": 46,

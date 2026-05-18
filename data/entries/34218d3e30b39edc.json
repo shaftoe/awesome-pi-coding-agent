@@ -8,21 +8,21 @@
     "github_url": "https://github.com/deevus/pi-wayfinder",
     "repo_full_name": "deevus/pi-wayfinder",
     "description": "Structure-aware code navigation and anchor-stable editing tools for pi agents",
-    "stars": 2,
+    "stars": 4,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-10T08:54:31Z",
-    "pushed_at": "2026-05-15T08:31:31Z",
-    "updated_at": "2026-05-16T18:19:59Z",
-    "size": 278,
+    "pushed_at": "2026-05-17T07:26:08Z",
+    "updated_at": "2026-05-17T19:59:36Z",
+    "size": 364,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
+    "score": 55,
     "level": "maintained"
   },
   "category": "extension"

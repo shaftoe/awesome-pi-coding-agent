@@ -10,7 +10,7 @@
     "description": "Use your SuperGrok subscription in pi with OAuth login, auto-refresh, and live model discovery",
     "stars": 0,
     "forks": 1,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "grok",
       "pi",
@@ -21,15 +21,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-16T09:41:11Z",
-    "pushed_at": "2026-05-16T12:05:41Z",
-    "updated_at": "2026-05-16T12:50:23Z",
-    "size": 13,
+    "pushed_at": "2026-05-17T16:21:18Z",
+    "updated_at": "2026-05-17T16:21:21Z",
+    "size": 28,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 58,
+    "score": 50,
     "level": "maintained"
   },
-  "category": "extension"
+  "category": "misc"
 }

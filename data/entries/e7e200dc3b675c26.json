@@ -1,0 +1,29 @@
+{
+  "id": "igun997-pi-sdlc",
+  "name": "igun997-pi-sdlc",
+  "url": "https://github.com/igun997/pi-sdlc",
+  "source": "github-search",
+  "description": "SDLC skills for pi-agents: spec → plan → execute → verify with drift detection",
+  "metadata": {
+    "github_url": "https://github.com/igun997/pi-sdlc",
+    "repo_full_name": "igun997/pi-sdlc",
+    "description": "SDLC skills for pi-agents: spec → plan → execute → verify with drift detection",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-16T09:34:55Z",
+    "pushed_at": "2026-05-17T01:54:51Z",
+    "updated_at": "2026-05-17T06:53:01Z",
+    "size": 167,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pi-branch-agent",
+  "name": "pi-branch-agent",
+  "url": "https://www.npmjs.com/package/pi-branch-agent",
+  "source": "npm-search",
+  "description": "Branch agent extension for Pi Coding Agent.",
+  "metadata": {
+    "github_url": "https://github.com/1144g7/branch-agent",
+    "npm_name": "pi-branch-agent",
+    "description": "Branch agent extension for Pi Coding Agent.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "branch-agent"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-17T08:59:12.456Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

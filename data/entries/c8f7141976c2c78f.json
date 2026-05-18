@@ -1,0 +1,37 @@
+{
+  "id": "arnaugomez-pi-fast-edits",
+  "name": "arnaugomez-pi-fast-edits",
+  "url": "https://github.com/arnaugomez/pi-fast-edits",
+  "source": "github-search",
+  "description": "Faster tools for the Pi coding agent. Edit files using 60% fewer tokens. Inspired by Dirac.",
+  "metadata": {
+    "github_url": "https://github.com/arnaugomez/pi-fast-edits",
+    "repo_full_name": "arnaugomez/pi-fast-edits",
+    "description": "Faster tools for the Pi coding agent. Edit files using 60% fewer tokens. Inspired by Dirac.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agentic-ai",
+      "ai-coding",
+      "ai-coding-agent",
+      "anchored-edits",
+      "coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-17T12:03:45Z",
+    "pushed_at": "2026-05-17T13:36:50Z",
+    "updated_at": "2026-05-17T13:43:23Z",
+    "size": 53,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

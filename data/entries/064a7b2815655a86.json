@@ -10,19 +10,19 @@
     "description": "A desktop coding agent with a GUI. Electron + React app powered by Pi Coding Agent. A chat-driven development with sandboxed file editing, git integration, dependency-aware task management, persistent memory, and an iOS/iPad companion for remote control.",
     "stars": 30,
     "forks": 3,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-23T13:30:19Z",
-    "pushed_at": "2026-05-16T22:40:42Z",
-    "updated_at": "2026-05-15T02:09:04Z",
-    "size": 23280,
+    "pushed_at": "2026-05-17T08:51:51Z",
+    "updated_at": "2026-05-17T08:51:53Z",
+    "size": 23237,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 82,
+    "score": 74,
     "level": "active"
   },
   "category": "misc"

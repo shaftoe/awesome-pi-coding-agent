@@ -21691,5 +21691,261 @@
 		"reason": "Duplicate of npm entry pi-auto-mode (same project, same score, keeping npm)",
 		"blacklisted_at": "2026-05-16T23:55:34.417Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@dumbspacecookie/openeye",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.257Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/vanillagreencom/vstack",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.271Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/davehardy20/pi-lsp-tools",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.276Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=zY1JsGbSiys",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.325Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://news.ontariotechu.ca/archives/2026/05/powering-ai-can-canadas-energy-systems-meet-the-growing-demand.php",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.363Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "http://x.com/search?q=+Rusic",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.367Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/tutar/managed-agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.39Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5O4ULySzO74",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.438Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=HIHxDqGauJU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.474Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=8BP4ElvbnYY",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-17T23:56:41.479Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=FJpYtzNxOHg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.531Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://x.com/CRonaldoNews/status/2052982678811517033",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.54Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=cJp_0N8e7_U",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.557Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=vMhMWPYxLEs",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-17T23:56:41.58Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=o1u_mEELKOQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.634Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=SRPuzT9kAMk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.669Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/SchneiderDaniel/agentcastle",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.741Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/codella/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.745Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/jms830/pi-opencode-session-import",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-05-17T23:56:41.773Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/riicodespretty/pi-soul-agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.78Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/nielpattin/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.867Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/tqhdesilva/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.88Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=EK7zza-p3Cg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.899Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/jms830/pi-omp-session-sync",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.933Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ohbHwBxQd-o",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-17T23:56:41.954Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@darkhorseprojects/pi-circuitry",
+		"reason": "Duplicate of github.com/darkhorseprojects/pi-circuitry (entry 933900537de66afd.json has higher health score)",
+		"blacklisted_at": "2026-05-18T00:00:47.491Z",
+		"source": "manual"
 	}
 ]

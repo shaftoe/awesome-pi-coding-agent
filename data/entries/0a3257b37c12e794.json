@@ -1,0 +1,29 @@
+{
+  "id": "c2tarun-pi-agent-config",
+  "name": "c2tarun-pi-agent-config",
+  "url": "https://github.com/c2tarun/pi-agent-config",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/c2tarun/pi-agent-config",
+    "repo_full_name": "c2tarun/pi-agent-config",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-17T09:37:51Z",
+    "pushed_at": "2026-05-17T09:45:23Z",
+    "updated_at": "2026-05-17T09:45:27Z",
+    "size": 2904,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

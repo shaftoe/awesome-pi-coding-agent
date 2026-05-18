@@ -10,7 +10,7 @@
     "description": "Universal configurable JSONL ledger with qmd hybrid search, tiered HITL, and dynamic context injection for pi",
     "stars": 1,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 1,
     "topics": [
       "agent-tools",
       "ai-agents",
@@ -29,14 +29,14 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-22T07:30:23Z",
-    "pushed_at": "2026-05-07T02:27:55Z",
-    "updated_at": "2026-05-04T03:22:19Z",
+    "pushed_at": "2026-05-17T23:07:56Z",
+    "updated_at": "2026-05-17T23:05:56Z",
     "size": 5142,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 50,
+    "score": 45,
     "level": "maintained"
   },
   "category": "extension"

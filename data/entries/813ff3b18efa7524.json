@@ -1,0 +1,29 @@
+{
+  "id": "zfadhli-pi-workflow",
+  "name": "zfadhli-pi-workflow",
+  "url": "https://github.com/zfadhli/pi-workflow",
+  "source": "github-search",
+  "description": "A collection of workflow-mode extensions for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/zfadhli/pi-workflow",
+    "repo_full_name": "zfadhli/pi-workflow",
+    "description": "A collection of workflow-mode extensions for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-17T15:26:11Z",
+    "pushed_at": "2026-05-17T17:16:05Z",
+    "updated_at": "2026-05-17T17:16:09Z",
+    "size": 69,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -8,22 +8,22 @@
     "github_url": "https://github.com/alvivar/pi-link",
     "repo_full_name": "alvivar/pi-link",
     "description": "A WebSocket-based inter-terminal communication system that creates a local network between multiple Pi coding agent terminals. Enables terminals to discover each other, exchange messages, and orchestrate work across agents, all automatically on localhost.",
-    "stars": 36,
+    "stars": 37,
     "forks": 2,
     "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-23T05:16:44Z",
-    "pushed_at": "2026-05-04T22:56:12Z",
-    "updated_at": "2026-05-15T22:18:04Z",
-    "size": 269,
+    "pushed_at": "2026-05-17T22:01:28Z",
+    "updated_at": "2026-05-17T22:01:32Z",
+    "size": 296,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 72,
-    "level": "active"
+    "score": 60,
+    "level": "maintained"
   },
   "category": "extension"
 }
