@@ -10,19 +10,19 @@
     "description": "Defense-in-depth protection for Pi coding agent. Blocks dangerous commands and protects sensitive files via Pi extensions.",
     "stars": 2,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-12T05:53:42Z",
-    "pushed_at": "2026-05-13T06:33:48Z",
-    "updated_at": "2026-05-15T16:00:01Z",
-    "size": 3918,
+    "pushed_at": "2026-05-17T15:24:51Z",
+    "updated_at": "2026-05-17T15:24:54Z",
+    "size": 3983,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
+    "score": 45,
     "level": "maintained"
   },
   "category": "extension"

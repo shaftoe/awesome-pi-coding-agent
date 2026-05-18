@@ -1,0 +1,29 @@
+{
+  "id": "QubitInfinity-Pi-Coding-Agent-Extensions",
+  "name": "QubitInfinity-Pi-Coding-Agent-Extensions",
+  "url": "https://github.com/QubitInfinity/Pi-Coding-Agent-Extensions",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/QubitInfinity/Pi-Coding-Agent-Extensions",
+    "repo_full_name": "QubitInfinity/Pi-Coding-Agent-Extensions",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-17T08:03:23Z",
+    "pushed_at": "2026-05-17T08:49:03Z",
+    "updated_at": "2026-05-17T08:49:07Z",
+    "size": 13,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

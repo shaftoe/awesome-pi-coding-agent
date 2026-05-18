@@ -1,0 +1,24 @@
+{
+  "id": "YT_ycYESgx_P70",
+  "name": "Pi Coder First Impressions(with GPT 5.5 & Local Models)",
+  "url": "https://youtube.com/watch?v=ycYESgx_P70",
+  "source": "youtube-search",
+  "description": "Let's talk about Pi Coder, a highly customizable minimalist coding agent. For more information, check out https://pi.dev/.",
+  "metadata": {
+    "title": "Pi Coder First Impressions(with GPT 5.5 & Local Models)",
+    "name": "Pi Coder First Impressions(with GPT 5.5 & Local Models)",
+    "description": "Let's talk about Pi Coder, a highly customizable minimalist coding agent. For more information, check out https://pi.dev/.",
+    "channel": "Robert Cowher - AI & Robotics Tinkerer",
+    "published_at": "2026-05-17T00:08:45Z",
+    "thumbnail": "https://i.ytimg.com/vi/ycYESgx_P70/hqdefault.jpg",
+    "views": 33,
+    "likes": 2,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 39,
+    "level": "stale"
+  },
+  "category": "video"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "DanteBasile04-PiTextEditor",
+  "name": "DanteBasile04-PiTextEditor",
+  "url": "https://github.com/DanteBasile04/PiTextEditor",
+  "source": "github-search",
+  "description": "Pi extensions for IDE-like coding: Code Review Panel + VimModalEditor. Built with SDD (Spec-Driven Development) on the Pi coding agent platform.",
+  "metadata": {
+    "github_url": "https://github.com/DanteBasile04/PiTextEditor",
+    "repo_full_name": "DanteBasile04/PiTextEditor",
+    "description": "Pi extensions for IDE-like coding: Code Review Panel + VimModalEditor. Built with SDD (Spec-Driven Development) on the Pi coding agent platform.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-17T19:35:47Z",
+    "pushed_at": "2026-05-17T19:37:23Z",
+    "updated_at": "2026-05-17T19:37:27Z",
+    "size": 68,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

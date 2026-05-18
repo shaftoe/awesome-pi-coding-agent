@@ -8,7 +8,7 @@
     "github_url": "https://github.com/gtesei/pi-openapi-tools",
     "repo_full_name": "gtesei/pi-openapi-tools",
     "description": "Pi extension that generates LLM tools from any OpenAPI/Swagger URL.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -23,14 +23,14 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-12T08:37:32Z",
-    "pushed_at": "2026-05-14T00:37:16Z",
-    "updated_at": "2026-05-14T00:58:29Z",
-    "size": 16176,
+    "pushed_at": "2026-05-17T08:41:50Z",
+    "updated_at": "2026-05-17T08:41:54Z",
+    "size": 16179,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 50,
+    "score": 45,
     "level": "maintained"
   },
   "category": "extension"

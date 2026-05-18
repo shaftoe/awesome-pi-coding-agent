@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Zetaphor/pi-vscode-extension",
     "repo_full_name": "Zetaphor/pi-vscode-extension",
     "description": "Pi coding agent, as a VSCode extension",
-    "stars": 10,
+    "stars": 11,
     "forks": 3,
     "open_issues": 0,
     "topics": [
@@ -20,7 +20,7 @@
     "archived": false,
     "created_at": "2026-04-26T03:50:18Z",
     "pushed_at": "2026-05-08T00:51:26Z",
-    "updated_at": "2026-05-15T14:48:57Z",
+    "updated_at": "2026-05-17T12:56:47Z",
     "size": 285,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

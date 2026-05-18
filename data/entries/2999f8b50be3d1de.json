@@ -1,0 +1,35 @@
+{
+  "id": "@gonrocca/zero-pi",
+  "name": "@gonrocca/zero-pi",
+  "url": "https://www.npmjs.com/package/@gonrocca/zero-pi",
+  "source": "npm-search",
+  "description": "zero-pi — an installable layer for pi (pi.dev): the zero spec-driven development workflow, skill auto-learning, and an animated ZERO startup banner. Adds capability to pi without modifying pi.",
+  "metadata": {
+    "github_url": "https://github.com/gonzalonicolasr/zero",
+    "npm_name": "@gonrocca/zero-pi",
+    "description": "zero-pi — an installable layer for pi (pi.dev): the zero spec-driven development workflow, skill auto-learning, and an animated ZERO startup banner. Adds capability to pi without modifying pi.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "zero",
+      "sdd",
+      "spec-driven-development",
+      "ai-coding-agent"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-05-17T22:49:58.049Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

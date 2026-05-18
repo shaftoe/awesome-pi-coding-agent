@@ -9,8 +9,8 @@
     "repo_full_name": "jo-inc/pi-reflect",
     "description": "Self-improving behavioral files for AI coding agents. Analyzes session transcripts for correction patterns and makes surgical edits to prevent recurrence.",
     "stars": 28,
-    "forks": 5,
-    "open_issues": 6,
+    "forks": 6,
+    "open_issues": 7,
     "topics": [
       "agent-reflection",
       "ai-agent",
@@ -31,8 +31,8 @@
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 72,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

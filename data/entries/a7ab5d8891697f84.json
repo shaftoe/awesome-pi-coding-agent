@@ -15,14 +15,14 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-01-28T09:16:05Z",
-    "pushed_at": "2026-05-07T18:16:28Z",
-    "updated_at": "2026-05-07T18:18:07Z",
-    "size": 686,
+    "pushed_at": "2026-05-17T08:53:40Z",
+    "updated_at": "2026-05-17T08:53:44Z",
+    "size": 705,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 62,
+    "score": 50,
     "level": "maintained"
   },
   "category": "extension"

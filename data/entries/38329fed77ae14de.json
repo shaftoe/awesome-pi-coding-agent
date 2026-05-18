@@ -1,0 +1,35 @@
+{
+  "id": "pi-rnd",
+  "name": "pi-rnd",
+  "url": "https://www.npmjs.com/package/pi-rnd",
+  "source": "npm-search",
+  "description": "Scientific-method R&D orchestration for PI Coding Agent — methodology skills, subagent definitions, /rnd-start pipeline, /rnd-doctor, and a composable tool_call gate registry",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-rnd",
+    "description": "Scientific-method R&D orchestration for PI Coding Agent — methodology skills, subagent definitions, /rnd-start pipeline, /rnd-doctor, and a composable tool_call gate registry",
+    "keywords": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "rnd",
+      "orchestration",
+      "scientific-method",
+      "subagents"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-05-17T12:43:02.278Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

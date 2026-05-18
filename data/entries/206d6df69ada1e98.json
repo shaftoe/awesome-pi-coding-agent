@@ -17,7 +17,7 @@
     "discovery_hint": "hackernews:pi-coding-agent"
   },
   "health": {
-    "score": 32,
+    "score": 25,
     "level": "stale"
   },
   "category": "article"

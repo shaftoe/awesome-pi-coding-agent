@@ -1,0 +1,36 @@
+{
+  "id": "Qusic-pi-telegram",
+  "name": "Qusic-pi-telegram",
+  "url": "https://github.com/Qusic/pi-telegram",
+  "source": "github-search",
+  "description": "Telegram bridge extension for Pi agent",
+  "metadata": {
+    "github_url": "https://github.com/Qusic/pi-telegram",
+    "repo_full_name": "Qusic/pi-telegram",
+    "description": "Telegram bridge extension for Pi agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "telegram",
+      "telegram-bot",
+      "telegram-bot-ai-assistant"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-17T04:28:59Z",
+    "pushed_at": "2026-05-17T17:03:01Z",
+    "updated_at": "2026-05-17T17:03:05Z",
+    "size": 21,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -3,32 +3,31 @@
   "name": "@vahor/pi-hooks",
   "url": "https://www.npmjs.com/package/@vahor/pi-hooks",
   "source": "npm-search",
-  "description": "Vim-like custom keymaps for binding keyboard shortcuts to shell commands in pi.",
+  "description": "Monorepo with customs pi extensions.",
   "metadata": {
     "github_url": "https://github.com/Vahor/pi-extensions",
-    "npm_name": "@vahor/pi-keymap",
-    "description": "Vim-like custom keymaps for binding keyboard shortcuts to shell commands in pi.",
-    "keywords": [
-      "pi-package",
+    "repo_full_name": "Vahor/pi-extensions",
+    "description": "Monorepo with customs pi extensions.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-agent",
       "pi-extension",
-      "keymap",
-      "keybindings",
-      "keymaps",
-      "pi"
+      "pi-project"
     ],
-    "version": "0.0.8",
-    "published_at": "2026-05-08T18:30:11.588Z",
-    "npm_downloads_monthly": 728,
-    "npm_downloads_weekly": 288,
-    "npm_score_final": 24.515295,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-03T13:53:07Z",
+    "pushed_at": "2026-05-17T20:11:51Z",
+    "updated_at": "2026-05-17T20:11:38Z",
+    "size": 205,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 82,
-    "level": "active"
+    "score": 45,
+    "level": "maintained"
   },
   "category": "extension"
 }

@@ -6,14 +6,14 @@
   "description": "",
   "metadata": {
     "github_url": "https://github.com/xl0/pi-firecrawl",
-    "npm_name": "@xl0/firecrawl-web-search",
+    "npm_name": "@xl0/pi-firecrawl",
     "description": "",
     "keywords": [
       "pi-package",
       "firecrawl"
     ],
     "version": "0.1.0",
-    "published_at": "2026-05-15T16:51:36.708Z",
+    "published_at": "2026-05-17T22:23:35.114Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

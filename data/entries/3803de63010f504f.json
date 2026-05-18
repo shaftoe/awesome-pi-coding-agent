@@ -14,8 +14,8 @@
     "discovery_hint": "manual:add-url"
   },
   "health": {
-    "score": 13,
-    "level": "dead"
+    "score": 45,
+    "level": "maintained"
   },
   "category": "misc"
 }

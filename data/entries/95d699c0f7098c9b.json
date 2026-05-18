@@ -9,7 +9,7 @@
     "repo_full_name": "ThewindMom/pi-doom-loop-detector",
     "description": "Detects doom loops in LLM outputs and enables recovery injection for Pi coding agent",
     "stars": 2,
-    "forks": 1,
+    "forks": 2,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

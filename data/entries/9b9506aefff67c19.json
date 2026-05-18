@@ -1,0 +1,33 @@
+{
+  "id": "sapiderman-pi-roasts",
+  "name": "sapiderman-pi-roasts",
+  "url": "https://github.com/sapiderman/pi-roasts",
+  "source": "github-search",
+  "description": "Getting big headed with all the code you produce? pi-roasts brings you back down to earth. Sometimes even gently.",
+  "metadata": {
+    "github_url": "https://github.com/sapiderman/pi-roasts",
+    "repo_full_name": "sapiderman/pi-roasts",
+    "description": "Getting big headed with all the code you produce? pi-roasts brings you back down to earth. Sometimes even gently.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-agent",
+      "pi-agent-extension",
+      "roast"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-17T02:16:18Z",
+    "pushed_at": "2026-05-17T15:30:01Z",
+    "updated_at": "2026-05-17T16:07:57Z",
+    "size": 21,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

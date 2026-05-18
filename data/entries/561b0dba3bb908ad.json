@@ -1,0 +1,29 @@
+{
+  "id": "zqcli-pi-rail-ui",
+  "name": "zqcli-pi-rail-ui",
+  "url": "https://github.com/zqcli/pi-rail-ui",
+  "source": "github-search",
+  "description": "Rail UI extension for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/zqcli/pi-rail-ui",
+    "repo_full_name": "zqcli/pi-rail-ui",
+    "description": "Rail UI extension for Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-17T10:59:17Z",
+    "pushed_at": "2026-05-17T14:53:43Z",
+    "updated_at": "2026-05-17T14:53:47Z",
+    "size": 93,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}
