@@ -9,7 +9,7 @@
     "repo_full_name": "jemavidev/PiCA",
     "description": "PiCA (Pi Coding Agent) is an advanced multi-agent framework that orchestrates specialized agents to deliver comprehensive code solutions. It combines analysis, design, generation, and validation in a unified, safety-first system.",
     "stars": 0,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

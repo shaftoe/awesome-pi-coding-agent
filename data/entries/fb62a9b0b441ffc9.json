@@ -18,15 +18,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-01T03:11:30Z",
-    "pushed_at": "2026-05-17T22:11:34Z",
-    "updated_at": "2026-05-17T22:11:38Z",
-    "size": 730,
+    "pushed_at": "2026-05-18T08:45:14Z",
+    "updated_at": "2026-05-18T08:45:12Z",
+    "size": 807,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 45,
-    "level": "maintained"
+    "score": 35,
+    "level": "stale"
   },
   "category": "extension"
 }

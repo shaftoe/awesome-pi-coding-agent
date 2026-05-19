@@ -3,11 +3,11 @@
   "name": "@zhafron/pi-mcp-tools",
   "url": "https://www.npmjs.com/package/@zhafron/pi-mcp-tools",
   "source": "npm-search",
-  "description": "Universal MCP tools extension for pi coding agent — connect to filesystem, GitHub, databases, and more",
+  "description": "Universal MCP tools extension for pi coding agent \u2014 connect to filesystem, GitHub, databases, and more",
   "metadata": {
     "github_url": "https://github.com/tickernelz/pi-mcp-tools",
     "repo_full_name": "tickernelz/pi-mcp-tools",
-    "description": "Universal MCP tools extension for pi coding agent — connect to filesystem, GitHub, databases, and more",
+    "description": "Universal MCP tools extension for pi coding agent \u2014 connect to filesystem, GitHub, databases, and more",
     "stars": 8,
     "forks": 0,
     "open_issues": 0,
@@ -26,8 +26,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 27,
+    "level": "stale"
   },
   "category": "extension"
 }

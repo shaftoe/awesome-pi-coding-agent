@@ -9,7 +9,7 @@
     "repo_full_name": "Leechael/pi-provider-kimi-code",
     "description": "Reuse your Kimi Code (Moonshot) Coding plan inside pi-coding-agent",
     "stars": 20,
-    "forks": 3,
+    "forks": 4,
     "open_issues": 3,
     "topics": [
       "k2-5",
@@ -30,8 +30,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 49,
+    "level": "maintained"
   },
   "category": "extension"
 }

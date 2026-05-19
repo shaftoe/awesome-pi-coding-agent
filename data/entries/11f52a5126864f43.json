@@ -25,14 +25,14 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-02T19:38:52Z",
-    "pushed_at": "2026-05-17T23:47:12Z",
-    "updated_at": "2026-05-17T23:47:15Z",
-    "size": 790,
+    "pushed_at": "2026-05-18T23:32:39Z",
+    "updated_at": "2026-05-18T23:32:42Z",
+    "size": 1042,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 58,
+    "score": 62,
     "level": "maintained"
   },
   "category": "misc"

@@ -3,11 +3,11 @@
   "name": "container-dashboard",
   "url": "https://www.npmjs.com/package/container-dashboard",
   "source": "npm-search",
-  "description": "🐳 A pi coding agent extension for managing Docker, Podman, and Nerdctl containers — list, logs, prune, stats, inspect, and more — right from your AI agent.",
+  "description": "\ud83d\udc33 A pi coding agent extension for managing Docker, Podman, and Nerdctl containers \u2014 list, logs, prune, stats, inspect, and more \u2014 right from your AI agent.",
   "metadata": {
     "github_url": "https://github.com/k1lgor/pi-container-dashboard",
     "repo_full_name": "k1lgor/pi-container-dashboard",
-    "description": "🐳 A pi coding agent extension for managing Docker, Podman, and Nerdctl containers — list, logs, prune, stats, inspect, and more — right from your AI agent.",
+    "description": "\ud83d\udc33 A pi coding agent extension for managing Docker, Podman, and Nerdctl containers \u2014 list, logs, prune, stats, inspect, and more \u2014 right from your AI agent.",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,
@@ -33,8 +33,8 @@
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 30,
+    "level": "stale"
   },
   "category": "extension"
 }

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/leohenon/pi-mux",
     "repo_full_name": "leohenon/pi-mux",
     "description": "Tmux-powered session multiplexer for Pi.",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-04-21T14:05:48Z",
     "pushed_at": "2026-05-17T10:31:29Z",
-    "updated_at": "2026-05-17T12:13:33Z",
+    "updated_at": "2026-05-18T14:41:00Z",
     "size": 24658,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
@@ -30,5 +30,5 @@
     "score": 68,
     "level": "maintained"
   },
-  "category": "extension"
+  "category": "misc"
 }

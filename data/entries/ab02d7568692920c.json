@@ -3,18 +3,18 @@
   "name": "Pi Coding Agent",
   "url": "https://pi.dev/packages?name=web",
   "source": "brave-web-search",
-  "description": "Extensions, skills, prompt templates, and themes published to npm. Install with pi install npm:. See the package docs for details · Web search, URL fetching, GitHub repo cloning, PDF extraction, YouTube video understanding, and local video analysis for Pi coding agent",
+  "description": "Extensions, skills, prompt templates, and themes published to npm. Install with pi install npm:. See the package docs for details \u00b7 Web search, URL fetching, GitHub repo cloning, PDF extraction, YouTube video understanding, and local video analysis for Pi coding agent",
   "metadata": {
     "title": "Pi Coding Agent",
     "name": "Pi Coding Agent",
-    "description": "Extensions, skills, prompt templates, and themes published to npm. Install with pi install npm:<package>. See the package docs for details · Web search, URL fetching, GitHub repo cloning, PDF extraction, YouTube video understanding, and local video analysis for Pi coding agent",
+    "description": "Extensions, skills, prompt templates, and themes published to npm. Install with pi install npm:<package>. See the package docs for details \u00b7 Web search, URL fetching, GitHub repo cloning, PDF extraction, YouTube video understanding, and local video analysis for Pi coding agent",
     "published_at": null,
     "source_site": "Pi",
     "source_url": "https://pi.dev/packages?name=web",
     "discovery_hint": "brave:pi-coding-agent"
   },
   "health": {
-    "score": 13,
+    "score": 5,
     "level": "dead"
   },
   "category": "article"

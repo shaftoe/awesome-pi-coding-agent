@@ -3,12 +3,12 @@
   "name": "pi-mermaid",
   "url": "https://www.npmjs.com/package/pi-mermaid",
   "source": "npm-search",
-  "description": "🧜‍♀️ Pi extension that renders Mermaid diagrams as ASCII in the TUI, with width-aware output and safe handling for larger diagrams.",
+  "description": "\ud83e\udddc\u200d\u2640\ufe0f Pi extension that renders Mermaid diagrams as ASCII in the TUI, with width-aware output and safe handling for larger diagrams.",
   "metadata": {
     "github_url": "https://github.com/Gurpartap/pi-mermaid",
     "repo_full_name": "Gurpartap/pi-mermaid",
-    "description": "🧜‍♀️ Pi extension that renders Mermaid diagrams as ASCII in the TUI, with width-aware output and safe handling for larger diagrams.",
-    "stars": 64,
+    "description": "\ud83e\udddc\u200d\u2640\ufe0f Pi extension that renders Mermaid diagrams as ASCII in the TUI, with width-aware output and safe handling for larger diagrams.",
+    "stars": 65,
     "forks": 8,
     "open_issues": 6,
     "topics": [
@@ -20,14 +20,14 @@
     "archived": false,
     "created_at": "2026-02-05T05:20:06Z",
     "pushed_at": "2026-02-23T19:32:45Z",
-    "updated_at": "2026-05-17T21:29:26Z",
+    "updated_at": "2026-05-18T17:25:24Z",
     "size": 3595,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 48,
+    "level": "maintained"
   },
   "category": "extension"
 }

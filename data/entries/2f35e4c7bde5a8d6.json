@@ -3,16 +3,16 @@
   "name": "@fgladisch/pi-welcome-message",
   "url": "https://www.npmjs.com/package/@fgladisch/pi-welcome-message",
   "source": "npm-search",
-  "description": "Run Pi user bash commands through zsh with Pi-specific functions",
+  "description": "Configurable compact footer extension for Pi",
   "metadata": {
     "github_url": "https://github.com/fgladisch/pi-extensions",
-    "npm_name": "@fgladisch/pi-zsh-shell",
-    "description": "Run Pi user bash commands through zsh with Pi-specific functions",
+    "npm_name": "@fgladisch/pi-footer",
+    "description": "Configurable compact footer extension for Pi",
     "keywords": [
       "pi-package"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-05-15T13:28:31.196Z",
+    "version": "0.3.0",
+    "published_at": "2026-05-18T22:54:55.298Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

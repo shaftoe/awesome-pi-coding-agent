@@ -8,7 +8,7 @@
     "github_url": "https://github.com/n-r-w/pi-agent-suite",
     "repo_full_name": "n-r-w/pi-agent-suite",
     "description": "Adds a configurable multi-agent layer to Pi Agent, with context management, Codex quota status, a custom footer, and more.",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,14 +22,14 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-27T17:02:34Z",
-    "pushed_at": "2026-05-16T13:54:10Z",
-    "updated_at": "2026-05-16T13:54:09Z",
-    "size": 955,
+    "pushed_at": "2026-05-18T21:37:28Z",
+    "updated_at": "2026-05-18T21:37:52Z",
+    "size": 1184,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 45,
+    "score": 42,
     "level": "maintained"
   },
   "category": "extension"

@@ -3,34 +3,30 @@
   "name": "@shaurya-sethi/primus",
   "url": "https://www.npmjs.com/package/@shaurya-sethi/primus",
   "source": "npm-search",
-  "description": "parametric CAD generation agent",
+  "description": "CAD generation agent built on Pi and build123d",
   "metadata": {
     "github_url": "https://github.com/Shaurya-Sethi/primus",
-    "repo_full_name": "Shaurya-Sethi/primus",
-    "description": "parametric CAD generation agent",
-    "stars": 2,
-    "forks": 0,
-    "open_issues": 0,
-    "topics": [
-      "agentic-ai",
+    "npm_name": "@shaurya-sethi/primus",
+    "description": "CAD generation agent built on Pi and build123d",
+    "keywords": [
+      "pi-package",
       "cad",
-      "mechanical-engineering",
-      "multi-agent-systems",
-      "pi-coding-agent",
-      "typescript"
+      "build123d",
+      "parametric-modeling"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-05-08T18:58:52Z",
-    "pushed_at": "2026-05-15T05:21:03Z",
-    "updated_at": "2026-05-15T15:22:14Z",
-    "size": 602,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "version": "0.1.1",
+    "published_at": "2026-05-15T05:20:44.502Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 45,
-    "level": "maintained"
+    "score": 72,
+    "level": "active"
   },
   "category": "misc"
 }

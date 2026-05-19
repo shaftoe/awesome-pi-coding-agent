@@ -1,0 +1,53 @@
+{
+  "id": "@ersintarhan/pi-toolkit",
+  "name": "@ersintarhan/pi-toolkit",
+  "url": "https://www.npmjs.com/package/@ersintarhan/pi-toolkit",
+  "source": "npm-search",
+  "description": "pi extension that registers Kimi, MiniMax, Xiaomi MiMo, and CrofAI providers with cache fix, Anthropic OAuth adapter, and native web search with provider-override support. Search backends include ZAI MCP, Google, OpenAI, xAI, Anthropic, Claude Code, and C",
+  "metadata": {
+    "github_url": "https://github.com/ersintarhan/pi-toolkit",
+    "npm_name": "@ersintarhan/pi-toolkit",
+    "description": "pi extension that registers Kimi, MiniMax, Xiaomi MiMo, and CrofAI providers with cache fix, Anthropic OAuth adapter, and native web search with provider-override support. Search backends include ZAI MCP, Google, OpenAI, xAI, Anthropic, Claude Code, and C",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-provider",
+      "pi",
+      "pi-coding-agent",
+      "kimi",
+      "kimi-for-coding",
+      "kimi-k2",
+      "moonshot",
+      "minimax",
+      "minimax-m2",
+      "xiaomi",
+      "mimo",
+      "mimo-v2.5",
+      "crofai",
+      "openai",
+      "prompt-caching",
+      "cache",
+      "web-search",
+      "web-fetch",
+      "duckduckgo",
+      "search",
+      "anthropic",
+      "codex",
+      "chatgpt"
+    ],
+    "version": "0.5.5",
+    "published_at": "2026-05-18T05:20:24.350Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

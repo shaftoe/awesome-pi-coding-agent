@@ -3,11 +3,11 @@
   "name": "@marcfargas/brainiac",
   "url": "https://www.npmjs.com/package/@marcfargas/brainiac",
   "source": "npm-search",
-  "description": "Persistent, searchable agent knowledge store for pi — learn, connect, recall",
+  "description": "Persistent, searchable agent knowledge store for pi \u2014 learn, connect, recall",
   "metadata": {
     "github_url": "https://github.com/marcfargas/brainiac",
     "repo_full_name": "marcfargas/brainiac",
-    "description": "Persistent, searchable agent knowledge store for pi — learn, connect, recall",
+    "description": "Persistent, searchable agent knowledge store for pi \u2014 learn, connect, recall",
     "stars": 4,
     "forks": 0,
     "open_issues": 1,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 23,
+    "level": "stale"
   },
   "category": "misc"
 }

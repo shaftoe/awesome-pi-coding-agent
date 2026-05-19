@@ -9,8 +9,8 @@
     "repo_full_name": "latentminds-ai/pi-quotas",
     "description": "Quota monitoring for the Pi coding agent. Anthropic, Codex & Copilot and OpenRouter usage at a glance",
     "stars": 3,
-    "forks": 5,
-    "open_issues": 0,
+    "forks": 7,
+    "open_issues": 1,
     "topics": [
       "anthropic",
       "codex",
@@ -31,7 +31,7 @@
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 45,
+    "score": 46,
     "level": "maintained"
   },
   "category": "extension"

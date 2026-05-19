@@ -3,11 +3,11 @@
   "name": "pi-skill-evolution",
   "url": "https://www.npmjs.com/package/pi-skill-evolution",
   "source": "npm-search",
-  "description": "Meta-skill and self-improvement loop for pi — mines session history for repeated workflows, proposes new skills, and tracks skill health",
+  "description": "Meta-skill and self-improvement loop for pi \u2014 mines session history for repeated workflows, proposes new skills, and tracks skill health",
   "metadata": {
     "github_url": "https://github.com/samfoy/pi-skill-evolution",
     "repo_full_name": "samfoy/pi-skill-evolution",
-    "description": "Meta-skill and self-improvement loop for pi — mines session history for repeated workflows, proposes new skills, and tracks skill health",
+    "description": "Meta-skill and self-improvement loop for pi \u2014 mines session history for repeated workflows, proposes new skills, and tracks skill health",
     "stars": 5,
     "forks": 0,
     "open_issues": 2,
@@ -28,7 +28,7 @@
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
+    "score": 42,
     "level": "maintained"
   },
   "category": "extension"

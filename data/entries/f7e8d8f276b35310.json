@@ -1,0 +1,29 @@
+{
+  "id": "jbutlerdev-llm-wiki",
+  "name": "jbutlerdev-llm-wiki",
+  "url": "https://github.com/jbutlerdev/llm-wiki",
+  "source": "github-search",
+  "description": "LLM-maintained personal wiki with built-in QMD search, embedded Pi agent, and modern web UI",
+  "metadata": {
+    "github_url": "https://github.com/jbutlerdev/llm-wiki",
+    "repo_full_name": "jbutlerdev/llm-wiki",
+    "description": "LLM-maintained personal wiki with built-in QMD search, embedded Pi agent, and modern web UI",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-11T13:40:05Z",
+    "pushed_at": "2026-04-11T13:40:44Z",
+    "updated_at": "2026-04-12T04:29:27Z",
+    "size": 536,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 51,
+    "level": "maintained"
+  },
+  "category": "misc"
+}
