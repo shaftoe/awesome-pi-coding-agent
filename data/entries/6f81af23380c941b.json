@@ -3,11 +3,11 @@
   "name": "@modemdev/glance-pi",
   "url": "https://www.npmjs.com/package/@modemdev/glance-pi",
   "source": "npm-search",
-  "description": "Agent plugins for glance.sh — temporary image sharing for coding agents",
+  "description": "Agent plugins for glance.sh \u2014 temporary image sharing for coding agents",
   "metadata": {
     "github_url": "https://github.com/modem-dev/glance-agent-plugins",
     "repo_full_name": "modem-dev/glance-agent-plugins",
-    "description": "Agent plugins for glance.sh — temporary image sharing for coding agents",
+    "description": "Agent plugins for glance.sh \u2014 temporary image sharing for coding agents",
     "stars": 7,
     "forks": 0,
     "open_issues": 1,
@@ -26,7 +26,7 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
+    "score": 42,
     "level": "maintained"
   },
   "category": "extension"

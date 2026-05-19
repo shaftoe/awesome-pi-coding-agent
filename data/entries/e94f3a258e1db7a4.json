@@ -8,9 +8,9 @@
     "github_url": "https://github.com/fitchmultz/pi-codex-goal",
     "repo_full_name": "fitchmultz/pi-codex-goal",
     "description": "Codex-style goal tracking and continuation for pi.",
-    "stars": 48,
-    "forks": 0,
-    "open_issues": 0,
+    "stars": 50,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "codex",
       "goal",
@@ -22,14 +22,14 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-06T20:01:15Z",
-    "pushed_at": "2026-05-10T00:43:23Z",
-    "updated_at": "2026-05-17T02:11:53Z",
-    "size": 177,
+    "pushed_at": "2026-05-18T13:52:23Z",
+    "updated_at": "2026-05-18T19:10:59Z",
+    "size": 208,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 60,
+    "score": 59,
     "level": "maintained"
   },
   "category": "extension"

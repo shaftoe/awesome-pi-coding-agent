@@ -32,7 +32,7 @@
     "created_at": "2026-04-10T09:42:29Z",
     "pushed_at": "2026-05-17T23:01:23Z",
     "updated_at": "2026-05-17T23:01:27Z",
-    "size": 4282,
+    "size": 4288,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

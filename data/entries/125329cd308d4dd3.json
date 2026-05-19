@@ -1,0 +1,32 @@
+{
+  "id": "@juliusbrussee/caveman-markdown-preview",
+  "name": "@juliusbrussee/caveman-markdown-preview",
+  "url": "https://www.npmjs.com/package/@juliusbrussee/caveman-markdown-preview",
+  "source": "npm-search",
+  "description": "Rendered markdown + LaTeX preview for caveman-code, with terminal, browser, and PDF output",
+  "metadata": {
+    "github_url": "https://github.com/JuliusBrussee/caveman-cli",
+    "npm_name": "@juliusbrussee/caveman-markdown-preview",
+    "description": "Rendered markdown + LaTeX preview for caveman-code, with terminal, browser, and PDF output",
+    "keywords": [
+      "pi-package",
+      "caveman-code",
+      "markdown",
+      "preview"
+    ],
+    "version": "0.9.6",
+    "published_at": "2026-05-18T11:38:31.937Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "misc"
+}

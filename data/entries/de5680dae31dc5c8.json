@@ -3,11 +3,11 @@
   "name": "pi-xiaomi-mimo-provider",
   "url": "https://www.npmjs.com/package/pi-xiaomi-mimo-provider",
   "source": "npm-search",
-  "description": "Xiaomi Mimo provider extension for pi coding agent — registers mimo-v2-pro, mimo-v2-omni, and mimo-v2-tts models",
+  "description": "Xiaomi Mimo provider extension for pi coding agent \u2014 registers mimo-v2-pro, mimo-v2-omni, and mimo-v2-tts models",
   "metadata": {
     "github_url": "https://github.com/ulusoyomer/pi-xiaomi-mimo-provider",
     "repo_full_name": "ulusoyomer/pi-xiaomi-mimo-provider",
-    "description": "Xiaomi Mimo provider extension for pi coding agent — registers mimo-v2-pro, mimo-v2-omni, and mimo-v2-tts models",
+    "description": "Xiaomi Mimo provider extension for pi coding agent \u2014 registers mimo-v2-pro, mimo-v2-omni, and mimo-v2-tts models",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 25,
+    "level": "stale"
   },
   "category": "extension"
 }

@@ -21947,5 +21947,253 @@
 		"reason": "Duplicate of github.com/darkhorseprojects/pi-circuitry (entry 933900537de66afd.json has higher health score)",
 		"blacklisted_at": "2026-05-18T00:00:47.491Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=CEvIs9y1uog",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-19T00:04:40.741Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=LrVe3Sqiks0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-19T00:04:40.859Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=A-8s8hLHRmk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-19T00:04:40.882Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://globaladvisors.biz/2026/02/23/quote-arthur-mensch-4/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-19T00:04:40.888Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/gapigo/hangar",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-05-19T00:04:40.898Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/vurihuang/pi-coder-theme",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-19T00:04:40.915Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/17758268107/promapi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-19T00:04:40.919Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/jamezun/pi-network",
+		"reason": "pi network crypto signal: \"pi-network\"",
+		"blacklisted_at": "2026-05-19T00:04:40.923Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Kx6A63n511o",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-19T00:04:40.933Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=-INveHwbRz4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-19T00:04:40.946Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=fC_BvySeIhY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-19T00:04:40.97Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=lOAYIKgqojs",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-19T00:04:40.977Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=-bgOSiI8VeE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-19T00:04:41.012Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://hochej.github.io/pi-mono/coding-agent/themes/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-19T00:04:41.04Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=t70YWb03vm0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-19T00:04:41.045Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.linkedin.com/posts/medtech-innovator_bright-uro-receives-fda-clearance-for-glean-activity-7458590042425282560-cYJg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-19T00:04:41.061Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=KJqJeCeoK6M",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-19T00:04:41.068Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=BC77DWr6wj8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-19T00:04:41.088Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://seanpedersen.github.io/posts/pi-agent/",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-05-19T00:04:41.141Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=O20pD-GoQ3U",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-19T00:04:41.149Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Fth6FqpZln0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-19T00:04:41.166Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=1bX-GR9L8Pw",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-05-19T00:04:41.179Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=PIdETjcXNIk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-19T00:04:41.252Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=mZ6GWWKsCXc",
+		"reason": "Non-English content: title and description are in Portuguese",
+		"blacklisted_at": "2026-05-19T00:06:28.611Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/ronnieops/pi-search-hub",
+		"reason": "Duplicate of npm entry pi-search-hub with higher health score",
+		"blacklisted_at": "2026-05-19T00:08:35.243Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/marcos2872/pi-config",
+		"reason": "Non-English content: description is in Portuguese (Configuração pessoal do pi coding agent)",
+		"blacklisted_at": "2026-05-19T00:12:19.303Z",
+		"source": "manual"
 	}
 ]

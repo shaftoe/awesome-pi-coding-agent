@@ -1,0 +1,29 @@
+{
+  "id": "abboskhonov-pi-desktop",
+  "name": "abboskhonov-pi-desktop",
+  "url": "https://github.com/abboskhonov/pi-desktop",
+  "source": "github-search",
+  "description": "Electron GUI app for the pi coding agent runtime",
+  "metadata": {
+    "github_url": "https://github.com/abboskhonov/pi-desktop",
+    "repo_full_name": "abboskhonov/pi-desktop",
+    "description": "Electron GUI app for the pi coding agent runtime",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-17T17:28:17Z",
+    "pushed_at": "2026-05-18T19:15:02Z",
+    "updated_at": "2026-05-18T19:15:07Z",
+    "size": 464,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

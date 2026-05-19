@@ -3,12 +3,12 @@
   "name": "@samfp/pi-memory",
   "url": "https://www.npmjs.com/package/@samfp/pi-memory",
   "source": "npm-search",
-  "description": "Persistent memory for pi — learns corrections, preferences, and patterns from sessions",
+  "description": "Persistent memory for pi \u2014 learns corrections, preferences, and patterns from sessions",
   "metadata": {
     "github_url": "https://github.com/samfoy/pi-memory",
     "repo_full_name": "samfoy/pi-memory",
-    "description": "Persistent memory for pi — learns corrections, preferences, and patterns from sessions",
-    "stars": 62,
+    "description": "Persistent memory for pi \u2014 learns corrections, preferences, and patterns from sessions",
+    "stars": 63,
     "forks": 13,
     "open_issues": 3,
     "topics": [
@@ -23,13 +23,13 @@
     "archived": false,
     "created_at": "2026-03-19T21:52:47Z",
     "pushed_at": "2026-05-15T23:41:18Z",
-    "updated_at": "2026-05-17T07:05:09Z",
+    "updated_at": "2026-05-18T13:37:28Z",
     "size": 367,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 65,
+    "score": 67,
     "level": "maintained"
   },
   "category": "extension"

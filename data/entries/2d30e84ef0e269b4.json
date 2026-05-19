@@ -1,0 +1,29 @@
+{
+  "id": "OleMussmann-pi-extension-plan-mode-default",
+  "name": "OleMussmann-pi-extension-plan-mode-default",
+  "url": "https://github.com/OleMussmann/pi-extension-plan-mode-default",
+  "source": "github-search",
+  "description": "pi coding agent starting in plan mode as a default",
+  "metadata": {
+    "github_url": "https://github.com/OleMussmann/pi-extension-plan-mode-default",
+    "repo_full_name": "OleMussmann/pi-extension-plan-mode-default",
+    "description": "pi coding agent starting in plan mode as a default",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-18T14:47:56Z",
+    "pushed_at": "2026-05-18T14:48:14Z",
+    "updated_at": "2026-05-18T14:49:19Z",
+    "size": 8,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

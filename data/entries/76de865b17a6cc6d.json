@@ -3,11 +3,11 @@
   "name": "@linioi/pi-btw",
   "url": "https://www.npmjs.com/package/@linioi/pi-btw",
   "source": "npm-search",
-  "description": "Side-question extension for pi. Ask one-off questions while the agent is working — without derailing the main session or polluting future context.",
+  "description": "Side-question extension for pi. Ask one-off questions while the agent is working \u2014 without derailing the main session or polluting future context.",
   "metadata": {
     "github_url": "https://github.com/RimuruW/pi-btw",
     "repo_full_name": "RimuruW/pi-btw",
-    "description": "Side-question extension for pi. Ask one-off questions while the agent is working — without derailing the main session or polluting future context.",
+    "description": "Side-question extension for pi. Ask one-off questions while the agent is working \u2014 without derailing the main session or polluting future context.",
     "stars": 1,
     "forks": 0,
     "open_issues": 0,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 28,
+    "level": "stale"
   },
   "category": "extension"
 }

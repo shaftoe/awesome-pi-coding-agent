@@ -29,7 +29,7 @@
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 45,
+    "score": 42,
     "level": "maintained"
   },
   "category": "extension"

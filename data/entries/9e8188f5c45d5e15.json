@@ -8,8 +8,8 @@
     "github_url": "https://github.com/tintinweb/pi-messenger-bridge",
     "repo_full_name": "tintinweb/pi-messenger-bridge",
     "description": "Bridge common messengers (Telegram, WhatsApp, Slack, Discord) into",
-    "stars": 36,
-    "forks": 12,
+    "stars": 37,
+    "forks": 13,
     "open_issues": 2,
     "topics": [
       "pi-agent",
@@ -20,14 +20,14 @@
     "archived": false,
     "created_at": "2026-02-11T10:53:03Z",
     "pushed_at": "2026-05-09T18:08:39Z",
-    "updated_at": "2026-05-16T05:01:19Z",
+    "updated_at": "2026-05-18T02:06:18Z",
     "size": 3371,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 57,
+    "level": "maintained"
   },
   "category": "extension"
 }

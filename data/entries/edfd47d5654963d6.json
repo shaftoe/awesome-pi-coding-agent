@@ -3,11 +3,11 @@
   "name": "@samfp/pi-essentials",
   "url": "https://www.npmjs.com/package/@samfp/pi-essentials",
   "source": "npm-search",
-  "description": "Essential extensions for pi — auto session naming, compact header, clipboard images, image pruning, markdown viewer, screenshots, and subagents",
+  "description": "Essential extensions for pi \u2014 auto session naming, compact header, clipboard images, image pruning, markdown viewer, screenshots, and subagents",
   "metadata": {
     "github_url": "https://github.com/samfoy/pi-essentials",
     "repo_full_name": "samfoy/pi-essentials",
-    "description": "Essential extensions for pi — auto session naming, compact header, clipboard images, image pruning, markdown viewer, screenshots, and subagents",
+    "description": "Essential extensions for pi \u2014 auto session naming, compact header, clipboard images, image pruning, markdown viewer, screenshots, and subagents",
     "stars": 5,
     "forks": 3,
     "open_issues": 2,
@@ -26,7 +26,7 @@
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
+    "score": 46,
     "level": "maintained"
   },
   "category": "extension"

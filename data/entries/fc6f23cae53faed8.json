@@ -3,11 +3,11 @@
   "name": "onetool-pi",
   "url": "https://www.npmjs.com/package/onetool-pi",
   "source": "npm-search",
-  "description": "🧿 Pi coding agent extension — the ultimate MCP bridge with 100+ tools including Brave, Google, Context7, Excalidraw, AWS, Excel, File Ops, Database, Playwright, Chrome DevTools and many more",
+  "description": "\ud83e\uddff Pi coding agent extension \u2014 the ultimate MCP bridge with 100+ tools including Brave, Google, Context7, Excalidraw, AWS, Excel, File Ops, Database, Playwright, Chrome DevTools and many more",
   "metadata": {
     "github_url": "https://github.com/beycom/onetool-pi",
     "repo_full_name": "beycom/onetool-pi",
-    "description": "🧿 Pi coding agent extension — the ultimate MCP bridge with 100+ tools including Brave, Google, Context7, Excalidraw, AWS, Excel, File Ops, Database, Playwright, Chrome DevTools and many more",
+    "description": "\ud83e\uddff Pi coding agent extension \u2014 the ultimate MCP bridge with 100+ tools including Brave, Google, Context7, Excalidraw, AWS, Excel, File Ops, Database, Playwright, Chrome DevTools and many more",
     "stars": 4,
     "forks": 1,
     "open_issues": 4,
@@ -28,8 +28,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 27,
+    "level": "stale"
   },
   "category": "extension"
 }

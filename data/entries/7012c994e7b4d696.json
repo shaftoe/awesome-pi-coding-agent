@@ -3,11 +3,11 @@
   "name": "@netandreus/pi-auto",
   "url": "https://www.npmjs.com/package/@netandreus/pi-auto",
   "source": "npm-search",
-  "description": "pi-auto is a Pi package that provides the pi-auto MCP server and a Skill for pi-coding-agent: usage data from @ccusage/pi and tools to switch the active provider by strategy — load-balancing (equalize usage across backends) or high-availability (fixed priority order).",
+  "description": "pi-auto is a Pi package that provides the pi-auto MCP server and a Skill for pi-coding-agent: usage data from @ccusage/pi and tools to switch the active provider by strategy \u2014 load-balancing (equalize usage across backends) or high-availability (fixed priority order).",
   "metadata": {
     "github_url": "https://github.com/netandreus/pi-auto",
     "repo_full_name": "netandreus/pi-auto",
-    "description": "pi-auto is a Pi package that provides the pi-auto MCP server and a Skill for pi-coding-agent: usage data from @ccusage/pi and tools to switch the active provider by strategy — load-balancing (equalize usage across backends) or high-availability (fixed priority order).",
+    "description": "pi-auto is a Pi package that provides the pi-auto MCP server and a Skill for pi-coding-agent: usage data from @ccusage/pi and tools to switch the active provider by strategy \u2014 load-balancing (equalize usage across backends) or high-availability (fixed priority order).",
     "stars": 2,
     "forks": 0,
     "open_issues": 1,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 23,
+    "level": "stale"
   },
   "category": "extension"
 }

@@ -1,0 +1,29 @@
+{
+  "id": "stefanerdmann-psbx",
+  "name": "stefanerdmann-psbx",
+  "url": "https://github.com/stefanerdmann/psbx",
+  "source": "github-search",
+  "description": "CLI tool for sandboxing the pi coding agent in per-project Lima VMs on macOS ARM. Each project gets an isolated Ubuntu VM with pi pre-installed, host files mounted in, and environment-specific config (corporate │ certs, auth tokens, MCP servers) handled automatically. Built for teams using GitHub Copilot Enterprise.",
+  "metadata": {
+    "github_url": "https://github.com/stefanerdmann/psbx",
+    "repo_full_name": "stefanerdmann/psbx",
+    "description": "CLI tool for sandboxing the pi coding agent in per-project Lima VMs on macOS ARM. Each project gets an isolated Ubuntu VM with pi pre-installed, host files mounted in, and environment-specific config (corporate  │ certs, auth tokens, MCP servers) handled automatically. Built for teams using GitHub Copilot Enterprise.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-19T12:36:35Z",
+    "pushed_at": "2026-05-18T14:54:05Z",
+    "updated_at": "2026-05-18T19:14:53Z",
+    "size": 912,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "stegmannb-pi-agent-direnv",
+  "name": "stegmannb-pi-agent-direnv",
+  "url": "https://github.com/stegmannb/pi-agent-direnv",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/stegmannb/pi-agent-direnv",
+    "repo_full_name": "stegmannb/pi-agent-direnv",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T11:13:06Z",
+    "pushed_at": "2026-05-12T11:29:38Z",
+    "updated_at": "2026-05-18T07:36:03Z",
+    "size": 32,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

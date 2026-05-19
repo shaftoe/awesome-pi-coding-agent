@@ -3,12 +3,12 @@
   "name": "@leing2021/super-pi",
   "url": "https://www.npmjs.com/package/@leing2021/super-pi",
   "source": "npm-search",
-  "description": "A Pi-native iterative development workflow package with 8 skills and 14 tools for structured brainstorm → plan → work → review → learn cycles.",
+  "description": "A Pi-native iterative development workflow package with 8 skills and 14 tools for structured brainstorm \u2192 plan \u2192 work \u2192 review \u2192 learn cycles.",
   "metadata": {
     "github_url": "https://github.com/leing2021/super-pi",
     "repo_full_name": "leing2021/super-pi",
-    "description": "A Pi-native iterative development workflow package with 8 skills and 14 tools for structured brainstorm → plan → work → review → learn cycles.",
-    "stars": 12,
+    "description": "A Pi-native iterative development workflow package with 8 skills and 14 tools for structured brainstorm \u2192 plan \u2192 work \u2192 review \u2192 learn cycles.",
+    "stars": 14,
     "forks": 0,
     "open_issues": 1,
     "topics": [
@@ -24,14 +24,14 @@
     "archived": false,
     "created_at": "2026-04-17T14:26:58Z",
     "pushed_at": "2026-05-09T14:17:36Z",
-    "updated_at": "2026-05-17T10:58:59Z",
+    "updated_at": "2026-05-18T06:28:45Z",
     "size": 1964,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 40,
+    "level": "maintained"
   },
   "category": "extension"
 }

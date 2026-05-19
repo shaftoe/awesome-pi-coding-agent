@@ -8,22 +8,22 @@
     "github_url": "https://github.com/mjakl/pi-subagent",
     "repo_full_name": "mjakl/pi-subagent",
     "description": "A lightweight subagent extension for the pi coding agent",
-    "stars": 42,
-    "forks": 8,
+    "stars": 43,
+    "forks": 9,
     "open_issues": 2,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-14T09:52:44Z",
     "pushed_at": "2026-04-08T07:51:41Z",
-    "updated_at": "2026-05-14T00:10:47Z",
+    "updated_at": "2026-05-18T11:15:24Z",
     "size": 80,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 48,
+    "level": "maintained"
   },
   "category": "extension"
 }

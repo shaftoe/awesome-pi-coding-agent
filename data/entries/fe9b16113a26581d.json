@@ -10,7 +10,7 @@
     "description": "Piscord - Lightweight Discord gateway for pi coding agent. Architecture inspired by NanoClaw.",
     "stars": 20,
     "forks": 5,
-    "open_issues": 3,
+    "open_issues": 4,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
@@ -22,7 +22,7 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 60,
+    "score": 58,
     "level": "maintained"
   },
   "category": "extension"

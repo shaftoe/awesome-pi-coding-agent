@@ -1,0 +1,29 @@
+{
+  "id": "BrandtWong-pi-ext-web-fetch",
+  "name": "BrandtWong-pi-ext-web-fetch",
+  "url": "https://github.com/BrandtWong/pi-ext-web-fetch",
+  "source": "github-search",
+  "description": "Web fetch and search tools for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/BrandtWong/pi-ext-web-fetch",
+    "repo_full_name": "BrandtWong/pi-ext-web-fetch",
+    "description": "Web fetch and search tools for Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-18T19:46:10Z",
+    "pushed_at": "2026-05-18T19:52:16Z",
+    "updated_at": "2026-05-18T19:52:20Z",
+    "size": 44,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

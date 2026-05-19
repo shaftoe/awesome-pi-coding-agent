@@ -1,0 +1,37 @@
+{
+  "id": "adampoit-ai",
+  "name": "adampoit-ai",
+  "url": "https://github.com/adampoit/ai",
+  "source": "github-search",
+  "description": "Reusable assets for AI agents (instructions, prompts, and skills) with optional pi and opencode Home Manager modules",
+  "metadata": {
+    "github_url": "https://github.com/adampoit/ai",
+    "repo_full_name": "adampoit/ai",
+    "description": "Reusable assets for AI agents (instructions, prompts, and skills) with optional pi and opencode Home Manager modules",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "home-manager",
+      "nix",
+      "opencode",
+      "pi",
+      "prompts",
+      "skills"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-22T16:03:11Z",
+    "pushed_at": "2026-05-18T01:27:50Z",
+    "updated_at": "2026-05-18T16:28:12Z",
+    "size": 150,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

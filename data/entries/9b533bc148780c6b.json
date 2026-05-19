@@ -15,15 +15,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-12T14:48:40Z",
-    "pushed_at": "2026-05-12T17:18:25Z",
-    "updated_at": "2026-05-14T14:46:36Z",
-    "size": 1842,
+    "pushed_at": "2026-05-18T18:53:23Z",
+    "updated_at": "2026-05-18T18:53:27Z",
+    "size": 1869,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 45,
-    "level": "maintained"
+    "score": 35,
+    "level": "stale"
   },
   "category": "extension"
 }

@@ -3,11 +3,11 @@
   "name": "pi-wc3-sounds",
   "url": "https://www.npmjs.com/package/pi-wc3-sounds",
   "source": "npm-search",
-  "description": "WC3 Sounds — A pi extension that plays Warcraft III voice lines on agent events.",
+  "description": "WC3 Sounds \u2014 A pi extension that plays Warcraft III voice lines on agent events.",
   "metadata": {
     "github_url": "https://github.com/h4nky/pi-wc3-sounds",
     "repo_full_name": "h4nky/pi-wc3-sounds",
-    "description": "WC3 Sounds — A pi extension that plays Warcraft III voice lines on agent events.",
+    "description": "WC3 Sounds \u2014 A pi extension that plays Warcraft III voice lines on agent events.",
     "stars": 1,
     "forks": 1,
     "open_issues": 1,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 22,
+    "level": "stale"
   },
   "category": "extension"
 }

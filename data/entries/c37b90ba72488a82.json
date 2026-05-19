@@ -3,18 +3,18 @@
   "name": "Pi Coding Agent",
   "url": "https://pi.dev/docs/latest/quickstart",
   "source": "brave-web-search",
-  "description": "Guides and references for configuring and extending Pi · This page gets you from install to a useful first pi session",
+  "description": "Guides and references for configuring and extending Pi \u00b7 This page gets you from install to a useful first pi session",
   "metadata": {
     "title": "Pi Coding Agent",
     "name": "Pi Coding Agent",
-    "description": "Guides and references for configuring and extending Pi · This page gets you from install to a useful first pi session",
+    "description": "Guides and references for configuring and extending Pi \u00b7 This page gets you from install to a useful first pi session",
     "published_at": null,
     "source_site": "Pi",
     "source_url": "https://pi.dev/docs/latest/quickstart",
     "discovery_hint": "brave:pi-agent"
   },
   "health": {
-    "score": 13,
+    "score": 5,
     "level": "dead"
   },
   "category": "article"

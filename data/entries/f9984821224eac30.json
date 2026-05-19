@@ -3,11 +3,11 @@
   "name": "pi-readcache",
   "url": "https://www.npmjs.com/package/pi-readcache",
   "source": "npm-search",
-  "description": "🧠 pi-readcache — Replay-aware read caching for Pi (lower token usage, compaction-safe correctness).",
+  "description": "\ud83e\udde0 pi-readcache \u2014 Replay-aware read caching for Pi (lower token usage, compaction-safe correctness).",
   "metadata": {
     "github_url": "https://github.com/Gurpartap/pi-readcache",
     "repo_full_name": "Gurpartap/pi-readcache",
-    "description": "🧠 pi-readcache — Replay-aware read caching for Pi (lower token usage, compaction-safe correctness).",
+    "description": "\ud83e\udde0 pi-readcache \u2014 Replay-aware read caching for Pi (lower token usage, compaction-safe correctness).",
     "stars": 12,
     "forks": 2,
     "open_issues": 0,
@@ -26,8 +26,8 @@
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 29,
+    "level": "stale"
   },
   "category": "extension"
 }

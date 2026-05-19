@@ -1,0 +1,29 @@
+{
+  "id": "nathanstephenson-pi-agents-view",
+  "name": "nathanstephenson-pi-agents-view",
+  "url": "https://github.com/nathanstephenson/pi-agents-view",
+  "source": "github-search",
+  "description": "Pi extension that adds an agents view accessible with pi --agents or /agents",
+  "metadata": {
+    "github_url": "https://github.com/nathanstephenson/pi-agents-view",
+    "repo_full_name": "nathanstephenson/pi-agents-view",
+    "description": "Pi extension that adds an agents view accessible with pi --agents or /agents",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-18T18:47:27Z",
+    "pushed_at": "2026-05-18T23:58:21Z",
+    "updated_at": "2026-05-18T18:49:51Z",
+    "size": 51,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

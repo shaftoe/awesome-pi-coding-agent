@@ -3,11 +3,11 @@
   "name": "pi-claude-boost",
   "url": "https://www.npmjs.com/package/pi-claude-boost",
   "source": "npm-search",
-  "description": "Shows whether Claude's 2x usage boost is active right now — for pi coding agent",
+  "description": "Shows whether Claude's 2x usage boost is active right now \u2014 for pi coding agent",
   "metadata": {
     "github_url": "https://github.com/jjar1/pi-claude-boost",
     "repo_full_name": "jjar1/pi-claude-boost",
-    "description": "Shows whether Claude's 2x usage boost is active right now — for pi coding agent",
+    "description": "Shows whether Claude's 2x usage boost is active right now \u2014 for pi coding agent",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 20,
+    "level": "stale"
   },
   "category": "extension"
 }

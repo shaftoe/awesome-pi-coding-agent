@@ -3,18 +3,18 @@
   "name": "pi - Coding Agent",
   "url": "https://ailearnedtoday.com/ref/pi.dev/",
   "source": "brave-web-search",
-  "description": "There are many coding agents, but this one is mine · Pi is a minimal terminal coding harness. A coding agent designed for customization and control, not dictating workflows",
+  "description": "There are many coding agents, but this one is mine \u00b7 Pi is a minimal terminal coding harness. A coding agent designed for customization and control, not dictating workflows",
   "metadata": {
     "title": "pi - Coding Agent",
     "name": "pi - Coding Agent",
-    "description": "There are many coding agents, but this one is mine · Pi is a minimal terminal coding harness. A coding agent designed for customization and control, not dictating workflows",
+    "description": "There are many coding agents, but this one is mine \u00b7 Pi is a minimal terminal coding harness. A coding agent designed for customization and control, not dictating workflows",
     "published_at": null,
     "source_site": "Ailearnedtoday",
     "source_url": "https://ailearnedtoday.com/ref/pi.dev/",
     "discovery_hint": "brave:pi-coding-agent"
   },
   "health": {
-    "score": 13,
+    "score": 5,
     "level": "dead"
   },
   "category": "article"

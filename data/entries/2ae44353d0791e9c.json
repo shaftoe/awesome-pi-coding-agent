@@ -3,11 +3,11 @@
   "name": "@p8n.ai/pi-remembers",
   "url": "https://www.npmjs.com/package/@p8n.ai/pi-remembers",
   "source": "npm-search",
-  "description": "Persistent memory and project search for the Pi coding agent, powered by Cloudflare AI Search. The North Remembers. 🧠",
+  "description": "Persistent memory and project search for the Pi coding agent, powered by Cloudflare AI Search. The North Remembers. \ud83e\udde0",
   "metadata": {
     "github_url": "https://github.com/p8n-ai/pi-remembers",
     "repo_full_name": "p8n-ai/pi-remembers",
-    "description": "Persistent memory and project search for the Pi coding agent, powered by Cloudflare AI Search. The North Remembers. 🧠 ",
+    "description": "Persistent memory and project search for the Pi coding agent, powered by Cloudflare AI Search. The North Remembers. \ud83e\udde0 ",
     "stars": 3,
     "forks": 1,
     "open_issues": 0,
@@ -33,8 +33,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 37,
+    "level": "stale"
   },
   "category": "extension"
 }
