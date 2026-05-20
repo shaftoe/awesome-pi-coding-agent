@@ -3,11 +3,11 @@
   "name": "pi-theme-sync",
   "url": "https://www.npmjs.com/package/pi-theme-sync",
   "source": "npm-search",
-  "description": "Sync pi theme with system appearance \u2014 works locally and over SSH via OSC 11 terminal queries",
+  "description": "Sync pi theme with system appearance — works locally and over SSH via OSC 11 terminal queries",
   "metadata": {
     "github_url": "https://github.com/mise42/pi-theme-sync",
     "repo_full_name": "mise42/pi-theme-sync",
-    "description": "Sync pi theme with system appearance \u2014 works locally and over SSH via OSC 11 terminal queries",
+    "description": "Sync pi theme with system appearance — works locally and over SSH via OSC 11 terminal queries",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
   "health": {
-    "score": 20,
-    "level": "stale"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

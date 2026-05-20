@@ -1,0 +1,29 @@
+{
+  "id": "@ikuradon/pi-guardian",
+  "name": "@ikuradon/pi-guardian",
+  "url": "https://www.npmjs.com/package/@ikuradon/pi-guardian",
+  "source": "npm-search",
+  "description": "Codex-style sandbox boundary guardian gate for pi-coding-agent.",
+  "metadata": {
+    "github_url": "https://github.com/ikuradon/pi-guardian",
+    "repo_full_name": "ikuradon/pi-guardian",
+    "description": "Codex-style sandbox boundary guardian gate for pi-coding-agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-19T15:15:44Z",
+    "pushed_at": "2026-05-19T15:38:36Z",
+    "updated_at": "2026-05-19T15:46:02Z",
+    "size": 75,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

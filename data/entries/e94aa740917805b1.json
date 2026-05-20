@@ -3,20 +3,19 @@
   "name": "@fadouse/pi-permission",
   "url": "https://www.npmjs.com/package/@fadouse/pi-permission",
   "source": "npm-search",
-  "description": "Native permission and sandbox extension for pi with Codex-compatible behavior.",
+  "description": "Native permission and sandbox extension for pi.",
   "metadata": {
     "github_url": null,
     "npm_name": "@fadouse/pi-permission",
-    "description": "Native permission and sandbox extension for pi with Codex-compatible behavior.",
+    "description": "Native permission and sandbox extension for pi.",
     "keywords": [
       "pi-package",
       "pi",
       "permission",
-      "sandbox",
-      "codex"
+      "sandbox"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-05-18T09:23:12.619Z",
+    "version": "0.1.2",
+    "published_at": "2026-05-19T07:23:18.258Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

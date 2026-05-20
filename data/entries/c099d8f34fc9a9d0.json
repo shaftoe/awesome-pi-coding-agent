@@ -3,11 +3,11 @@
   "name": "@0xkobold/pi-persona",
   "url": "https://www.npmjs.com/package/@0xkobold/pi-persona",
   "source": "npm-search",
-  "description": "Persona extension for pi agents \u2014 SOUL.md, IDENTITY.md, USER.md loading, scaffolding, and system prompt injection",
+  "description": "Persona extension for pi agents — SOUL.md, IDENTITY.md, USER.md loading, scaffolding, and system prompt injection",
   "metadata": {
     "github_url": "https://github.com/0xKobold/pi-persona",
     "repo_full_name": "0xKobold/pi-persona",
-    "description": "Persona extension for pi agents \u2014 SOUL.md, IDENTITY.md, USER.md loading, scaffolding, and system prompt injection",
+    "description": "Persona extension for pi agents — SOUL.md, IDENTITY.md, USER.md loading, scaffolding, and system prompt injection",
     "stars": 2,
     "forks": 0,
     "open_issues": 0,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 28,
-    "level": "stale"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

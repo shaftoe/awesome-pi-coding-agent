@@ -3,11 +3,11 @@
   "name": "pi-session-manager",
   "url": "https://www.npmjs.com/package/pi-session-manager",
   "source": "npm-search",
-  "description": "Session browser for pi coding agent \u2014 browse, resume, rename, and delete sessions",
+  "description": "Session browser for pi coding agent — browse, resume, rename, and delete sessions",
   "metadata": {
     "github_url": "https://github.com/vahidkowsari/pi-session-manager",
     "repo_full_name": "vahidkowsari/pi-session-manager",
-    "description": "Session browser for pi coding agent \u2014 browse, resume, rename, and delete sessions",
+    "description": "Session browser for pi coding agent — browse, resume, rename, and delete sessions",
     "stars": 3,
     "forks": 0,
     "open_issues": 0,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 28,
-    "level": "stale"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

@@ -1,0 +1,29 @@
+{
+  "id": "imkingjh999-pi-game",
+  "name": "imkingjh999-pi-game",
+  "url": "https://github.com/imkingjh999/pi-game",
+  "source": "github-search",
+  "description": "🎮 Retro terminal arcade for Pi coding agent - play Snake, 2048, Minesweeper, Wordle, Hangman, and Tic-Tac-Toe in your terminal",
+  "metadata": {
+    "github_url": "https://github.com/imkingjh999/pi-game",
+    "repo_full_name": "imkingjh999/pi-game",
+    "description": "🎮 Retro terminal arcade for Pi coding agent - play Snake, 2048, Minesweeper, Wordle, Hangman, and Tic-Tac-Toe in your terminal",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-19T16:01:44Z",
+    "pushed_at": "2026-05-19T17:01:29Z",
+    "updated_at": "2026-05-19T17:01:41Z",
+    "size": 70,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

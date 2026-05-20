@@ -1,0 +1,29 @@
+{
+  "id": "FabianLevi-flevinsky-ai",
+  "name": "FabianLevi-flevinsky-ai",
+  "url": "https://github.com/FabianLevi/flevinsky-ai",
+  "source": "github-search",
+  "description": "Cross-agent dev service runner + Claude Code plugin + Pi extension",
+  "metadata": {
+    "github_url": "https://github.com/FabianLevi/flevinsky-ai",
+    "repo_full_name": "FabianLevi/flevinsky-ai",
+    "description": "Cross-agent dev service runner + Claude Code plugin + Pi extension",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-19T23:46:51Z",
+    "pushed_at": "2026-05-19T23:58:02Z",
+    "updated_at": "2026-05-19T23:58:05Z",
+    "size": 0,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pi-comview",
+  "name": "pi-comview",
+  "url": "https://www.npmjs.com/package/pi-comview",
+  "source": "npm-search",
+  "description": "Pi package providing /review command powered by bundled comview binaries",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-comview",
+    "description": "Pi package providing /review command powered by bundled comview binaries",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "comview",
+      "review"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-19T02:57:51.277Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

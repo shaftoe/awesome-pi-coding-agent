@@ -3,11 +3,11 @@
   "name": "pi-read-many",
   "url": "https://www.npmjs.com/package/pi-read-many",
   "source": "npm-search",
-  "description": "\ud83d\udcda Batch file reads for Pi via read_many with adaptive packing, safe heredoc framing, and output-budget awareness",
+  "description": "📚 Batch file reads for Pi via read_many with adaptive packing, safe heredoc framing, and output-budget awareness",
   "metadata": {
     "github_url": "https://github.com/Gurpartap/pi-read-many",
     "repo_full_name": "Gurpartap/pi-read-many",
-    "description": "\ud83d\udcda Batch file reads for Pi via read_many with adaptive packing, safe heredoc framing, and output-budget awareness",
+    "description": "📚 Batch file reads for Pi via read_many with adaptive packing, safe heredoc framing, and output-budget awareness",
     "stars": 6,
     "forks": 1,
     "open_issues": 0,
@@ -33,8 +33,8 @@
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 31,
-    "level": "stale"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

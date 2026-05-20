@@ -1,0 +1,29 @@
+{
+  "id": "brian200508-pi-tools",
+  "name": "brian200508-pi-tools",
+  "url": "https://github.com/brian200508/pi-tools",
+  "source": "github-search",
+  "description": "Pi Coding Agent extension - scope-restricted, approval-gated file system tools fot the AI agent.",
+  "metadata": {
+    "github_url": "https://github.com/brian200508/pi-tools",
+    "repo_full_name": "brian200508/pi-tools",
+    "description": "Pi Coding Agent extension - scope-restricted, approval-gated file system tools fot the AI agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-19T15:33:56Z",
+    "pushed_at": "2026-05-19T15:42:08Z",
+    "updated_at": "2026-05-19T15:46:51Z",
+    "size": 19,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

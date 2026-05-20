@@ -9,7 +9,7 @@
     "repo_full_name": "leing2021/super-pi",
     "description": "A Pi-native iterative development workflow package with 8 skills and 14 tools for structured brainstorm \u2192 plan \u2192 work \u2192 review \u2192 learn cycles.",
     "stars": 14,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 1,
     "topics": [
       "brainstorm",
@@ -30,8 +30,8 @@
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 40,
-    "level": "maintained"
+    "score": 72,
+    "level": "active"
   },
   "category": "extension"
 }

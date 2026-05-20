@@ -3,11 +3,11 @@
   "name": "pi-code-graph",
   "url": "https://www.npmjs.com/package/pi-code-graph",
   "source": "npm-search",
-  "description": "Native TypeScript extension for pi-coding-agent \u2014 code knowledge graphs for AI agents. Ported from code-graph-rag.",
+  "description": "Native TypeScript extension for pi-coding-agent — code knowledge graphs for AI agents. Ported from code-graph-rag.",
   "metadata": {
     "github_url": "https://github.com/picassio/pi-code-graph",
     "repo_full_name": "picassio/pi-code-graph",
-    "description": "Native TypeScript extension for pi-coding-agent \u2014 code knowledge graphs for AI agents. Ported from code-graph-rag.",
+    "description": "Native TypeScript extension for pi-coding-agent — code knowledge graphs for AI agents. Ported from code-graph-rag.",
     "stars": 4,
     "forks": 0,
     "open_issues": 1,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 28,
-    "level": "stale"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

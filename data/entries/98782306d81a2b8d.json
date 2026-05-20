@@ -8,7 +8,7 @@
     "github_url": "https://github.com/emanuelcasco/pi-mono-extensions",
     "repo_full_name": "emanuelcasco/pi-mono-extensions",
     "description": "Collection of pi-mono extensions",
-    "stars": 67,
+    "stars": 68,
     "forks": 9,
     "open_issues": 0,
     "topics": [
@@ -23,14 +23,14 @@
     "archived": false,
     "created_at": "2026-04-03T23:35:52Z",
     "pushed_at": "2026-05-13T22:05:52Z",
-    "updated_at": "2026-05-18T23:53:38Z",
+    "updated_at": "2026-05-19T12:09:10Z",
     "size": 1095,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 63,
-    "level": "maintained"
+    "score": 72,
+    "level": "active"
   },
   "category": "extension"
 }

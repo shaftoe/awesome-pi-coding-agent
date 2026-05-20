@@ -1,0 +1,24 @@
+{
+  "id": "YT_5sBoPualwTY",
+  "name": "Pi Coding Agent Review: The Minimalist AI Harness That Modifies Itself",
+  "url": "https://youtube.com/watch?v=5sBoPualwTY",
+  "source": "youtube-search",
+  "description": "In this video, I take Pi (https://pi.dev) for a spin — the minimal, self-modifying terminal coding agent by Mario Zechner.",
+  "metadata": {
+    "title": "Pi Coding Agent Review: The Minimalist AI Harness That Modifies Itself",
+    "name": "Pi Coding Agent Review: The Minimalist AI Harness That Modifies Itself",
+    "description": "In this video, I take Pi (https://pi.dev) for a spin — the minimal, self-modifying terminal coding agent by Mario Zechner.",
+    "channel": "Dracon Dev & AI",
+    "published_at": "2026-05-19T15:21:50Z",
+    "thumbnail": "https://i.ytimg.com/vi/5sBoPualwTY/hqdefault.jpg",
+    "views": 6,
+    "likes": 0,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 39,
+    "level": "stale"
+  },
+  "category": "video"
+}

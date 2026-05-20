@@ -3,35 +3,34 @@
   "name": "@narumitw/pi-caffeinate",
   "url": "https://www.npmjs.com/package/@narumitw/pi-caffeinate",
   "source": "npm-search",
-  "description": "Pi extension that exposes language-server tools for Biome, ty, and Ruff through a shared LSP runner.",
+  "description": "Pi extension that exposes configurable, language-agnostic LSP tools through a shared runner.",
   "metadata": {
     "github_url": "https://github.com/narumiruna/pi-extensions",
     "npm_name": "@narumitw/pi-lsp",
-    "description": "Pi extension that exposes language-server tools for Biome, ty, and Ruff through a shared LSP runner.",
+    "description": "Pi extension that exposes configurable, language-agnostic LSP tools through a shared runner.",
     "keywords": [
       "pi-package",
       "pi-extension",
       "pi",
       "lsp",
-      "biome",
-      "python",
-      "ty",
-      "ruff",
+      "language-server-protocol",
+      "configurable",
       "lint",
-      "format"
+      "diagnostics",
+      "code-action"
     ],
-    "version": "0.1.26",
-    "published_at": "2026-05-17T18:38:23.502Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.1.27",
+    "published_at": "2026-05-19T13:50:54.664Z",
+    "npm_downloads_monthly": 1052,
+    "npm_downloads_weekly": 1052,
+    "npm_score_final": 27.484877,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 72,
+    "score": 91,
     "level": "active"
   },
   "category": "extension"

@@ -3,11 +3,11 @@
   "name": "@zhafron/pi-memory",
   "url": "https://www.npmjs.com/package/@zhafron/pi-memory",
   "source": "npm-search",
-  "description": "Memory management extension for pi coding agent \u2014 persistent identity, user profile, and daily logs",
+  "description": "Memory management extension for pi coding agent — persistent identity, user profile, and daily logs",
   "metadata": {
     "github_url": "https://github.com/tickernelz/pi-memory",
     "repo_full_name": "tickernelz/pi-memory",
-    "description": "Memory management extension for pi coding agent \u2014 persistent identity, user profile, and daily logs",
+    "description": "Memory management extension for pi coding agent — persistent identity, user profile, and daily logs",
     "stars": 6,
     "forks": 0,
     "open_issues": 0,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 27,
-    "level": "stale"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }
