@@ -10,19 +10,19 @@
     "description": "Hangar-themed UI for context engineering on pi.dev sessions — three-pane workshop (threads / conversation / context rack), session-forest tree, built on HudsonKit.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-11T02:59:45Z",
-    "pushed_at": "2026-05-18T19:06:26Z",
+    "pushed_at": "2026-05-19T15:02:23Z",
     "updated_at": "2026-05-11T22:57:52Z",
-    "size": 188,
+    "size": 295,
     "license": null,
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
   "health": {
-    "score": 58,
+    "score": 66,
     "level": "maintained"
   },
   "category": "theme"

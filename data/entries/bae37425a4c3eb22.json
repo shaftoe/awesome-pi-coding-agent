@@ -1,0 +1,29 @@
+{
+  "id": "@trycedar/pi-mdiff",
+  "name": "@trycedar/pi-mdiff",
+  "url": "https://www.npmjs.com/package/@trycedar/pi-mdiff",
+  "source": "npm-search",
+  "description": "Markdown-aware edit tools for pi coding agent — block-level anchoring and normalized SEARCH matching for prose files",
+  "metadata": {
+    "github_url": "https://github.com/trycedar0x/pi-mdiff",
+    "repo_full_name": "trycedar0x/pi-mdiff",
+    "description": "Markdown-aware edit tools for pi coding agent — block-level anchoring and normalized SEARCH matching for prose files",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-19T17:01:38Z",
+    "pushed_at": "2026-05-19T17:54:57Z",
+    "updated_at": "2026-05-19T17:55:03Z",
+    "size": 154,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -3,12 +3,12 @@
   "name": "@marcfargas/pi-heartbeat",
   "url": "https://www.npmjs.com/package/@marcfargas/pi-heartbeat",
   "source": "npm-search",
-  "description": "Non-blocking timers and heartbeats for pi agents \u2014 stop using sleep",
+  "description": "Non-blocking timers and heartbeats for pi agents — stop using sleep",
   "metadata": {
     "github_url": "https://github.com/marcfargas/pi-heartbeat",
     "repo_full_name": "marcfargas/pi-heartbeat",
-    "description": "Non-blocking timers and heartbeats for pi agents \u2014 stop using sleep",
-    "stars": 7,
+    "description": "Non-blocking timers and heartbeats for pi agents — stop using sleep",
+    "stars": 8,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,14 +16,14 @@
     "archived": false,
     "created_at": "2026-02-21T11:29:54Z",
     "pushed_at": "2026-02-21T11:30:01Z",
-    "updated_at": "2026-05-05T10:23:56Z",
+    "updated_at": "2026-05-19T17:15:02Z",
     "size": 86,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 27,
-    "level": "stale"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

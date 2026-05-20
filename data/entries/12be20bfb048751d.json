@@ -3,14 +3,14 @@
   "name": "@netandreus/pi-cursor-provider",
   "url": "https://www.npmjs.com/package/@netandreus/pi-cursor-provider",
   "source": "npm-search",
-  "description": "Pi Coding Agent custom provider that routes requests through the Cursor Agent CLI \u2014 use your Cursor subscription models (Claude, GPT, Gemini, Grok\u2026) inside Pi.",
+  "description": "Pi Coding Agent custom provider that routes requests through the Cursor Agent CLI — use your Cursor subscription models (Claude, GPT, Gemini, Grok…) inside Pi.",
   "metadata": {
     "github_url": "https://github.com/netandreus/pi-cursor-provider",
     "repo_full_name": "netandreus/pi-cursor-provider",
-    "description": "Pi Coding Agent custom provider that routes requests through the Cursor Agent CLI \u2014 use your Cursor subscription models (Claude, GPT, Gemini, Grok\u2026) inside Pi.",
+    "description": "Pi Coding Agent custom provider that routes requests through the Cursor Agent CLI — use your Cursor subscription models (Claude, GPT, Gemini, Grok…) inside Pi.",
     "stars": 26,
-    "forks": 8,
-    "open_issues": 2,
+    "forks": 9,
+    "open_issues": 3,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 43,
-    "level": "maintained"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

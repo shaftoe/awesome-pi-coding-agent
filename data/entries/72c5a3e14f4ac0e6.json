@@ -1,0 +1,37 @@
+{
+  "id": "sshkeda-pi-script",
+  "name": "sshkeda-pi-script",
+  "url": "https://github.com/sshkeda/pi-script",
+  "source": "github-search",
+  "description": "Pi extension toggling a TypeScript-native single-tool mode for typed agent scripting",
+  "metadata": {
+    "github_url": "https://github.com/sshkeda/pi-script",
+    "repo_full_name": "sshkeda/pi-script",
+    "description": "Pi extension toggling a TypeScript-native single-tool mode for typed agent scripting",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-sdk",
+      "pi",
+      "pi-extension",
+      "pi-mono",
+      "pi-package",
+      "single-tool",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-12T01:16:00Z",
+    "pushed_at": "2026-05-19T03:14:24Z",
+    "updated_at": "2026-05-19T04:08:25Z",
+    "size": 62,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -35,7 +35,7 @@
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 41,
+    "score": 65,
     "level": "maintained"
   },
   "category": "extension"

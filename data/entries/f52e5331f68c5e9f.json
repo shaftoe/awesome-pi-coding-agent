@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tintinweb/pi-schedule-prompt",
     "repo_full_name": "tintinweb/pi-schedule-prompt",
     "description": "Pi's Heartbeat - Schedule recurring and one-shot main agent or background prompts with cron-like functionality",
-    "stars": 56,
+    "stars": 58,
     "forks": 10,
     "open_issues": 6,
     "topics": [
@@ -20,14 +20,14 @@
     "archived": false,
     "created_at": "2026-02-13T10:17:50Z",
     "pushed_at": "2026-05-03T20:02:03Z",
-    "updated_at": "2026-05-18T12:38:06Z",
+    "updated_at": "2026-05-19T04:10:05Z",
     "size": 5808,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 62,
-    "level": "maintained"
+    "score": 72,
+    "level": "active"
   },
   "category": "extension"
 }

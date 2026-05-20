@@ -1,0 +1,29 @@
+{
+  "id": "EasyMetaAu-Agenteam",
+  "name": "EasyMetaAu-Agenteam",
+  "url": "https://github.com/EasyMetaAu/Agenteam",
+  "source": "github-search",
+  "description": "Pi Agent System — Self-hosted multi-agent platform for Feishu/Telegram with tmux-driven Claude Code CLI",
+  "metadata": {
+    "github_url": "https://github.com/EasyMetaAu/Agenteam",
+    "repo_full_name": "EasyMetaAu/Agenteam",
+    "description": "Pi Agent System — Self-hosted multi-agent platform for Feishu/Telegram with tmux-driven Claude Code CLI",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 10,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-19T04:21:36Z",
+    "pushed_at": "2026-05-19T23:25:47Z",
+    "updated_at": "2026-05-19T23:05:04Z",
+    "size": 412,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

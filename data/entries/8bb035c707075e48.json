@@ -9,7 +9,7 @@
     "repo_full_name": "marco-souza/pi-browser-bridge",
     "description": "Let your pi coding agent control the browser. Navigate, click, type, screenshot — all from the terminal over WebSocket.",
     "stars": 2,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "ai",

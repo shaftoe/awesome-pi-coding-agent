@@ -24,8 +24,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 43,
-    "level": "maintained"
+    "score": 36,
+    "level": "stale"
   },
   "category": "misc"
 }

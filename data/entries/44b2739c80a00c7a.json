@@ -3,11 +3,11 @@
   "name": "pi-droid",
   "url": "https://www.npmjs.com/package/pi-droid",
   "source": "npm-search",
-  "description": "Android phone control for pi-agent \u2014 36 tools to see, touch, and automate any device via ADB",
+  "description": "Android phone control for pi-agent — 36 tools to see, touch, and automate any device via ADB",
   "metadata": {
     "github_url": "https://github.com/ArtemisAI/pi-droid",
     "repo_full_name": "ArtemisAI/pi-droid",
-    "description": "Android phone control for pi-agent \u2014 36 tools to see, touch, and automate any device via ADB",
+    "description": "Android phone control for pi-agent — 36 tools to see, touch, and automate any device via ADB",
     "stars": 5,
     "forks": 1,
     "open_issues": 4,
@@ -38,8 +38,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 36,
-    "level": "stale"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

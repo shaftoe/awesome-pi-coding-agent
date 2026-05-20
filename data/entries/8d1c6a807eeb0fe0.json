@@ -3,7 +3,7 @@
   "name": "pi-agent-browser",
   "url": "https://www.npmjs.com/package/pi-agent-browser",
   "source": "npm-search",
-  "description": "Browser automation tool for pi \u2014 interactive browsing, screenshots with inline vision, and session cleanup via agent-browser CLI",
+  "description": "Browser automation tool for pi — interactive browsing, screenshots with inline vision, and session cleanup via agent-browser CLI",
   "metadata": {
     "github_url": "https://github.com/coctostan/pi-agent-browser",
     "repo_full_name": "coctostan/pi-agent-browser",
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 38,
-    "level": "stale"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

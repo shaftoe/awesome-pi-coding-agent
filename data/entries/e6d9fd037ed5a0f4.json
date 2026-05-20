@@ -25,8 +25,8 @@
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
   "health": {
-    "score": 36,
-    "level": "stale"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

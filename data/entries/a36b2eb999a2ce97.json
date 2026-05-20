@@ -3,11 +3,11 @@
   "name": "pi-app-server",
   "url": "https://www.npmjs.com/package/pi-app-server",
   "source": "npm-search",
-  "description": "Session multiplexer for pi-coding-agent \u2014 WebSocket + stdio, the protocol IS the architecture",
+  "description": "Session multiplexer for pi-coding-agent — WebSocket + stdio, the protocol IS the architecture",
   "metadata": {
     "github_url": "https://github.com/tryingET/pi-server",
     "repo_full_name": "tryingET/pi-server",
-    "description": "Session multiplexer for pi-coding-agent \u2014 WebSocket + stdio, the protocol IS the architecture",
+    "description": "Session multiplexer for pi-coding-agent — WebSocket + stdio, the protocol IS the architecture",
     "stars": 10,
     "forks": 1,
     "open_issues": 1,
@@ -29,8 +29,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 34,
-    "level": "stale"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

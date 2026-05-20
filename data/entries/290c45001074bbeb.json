@@ -3,11 +3,11 @@
   "name": "pi-context-zone",
   "url": "https://www.npmjs.com/package/pi-context-zone",
   "source": "npm-search",
-  "description": "Visual context health bar for the Pi coding agent \u2014 see your smart/warm/dumb zone at a glance",
+  "description": "Visual context health bar for the Pi coding agent — see your smart/warm/dumb zone at a glance",
   "metadata": {
     "github_url": "https://github.com/arpagon/pi-context-zone",
     "repo_full_name": "arpagon/pi-context-zone",
-    "description": "Visual context health bar for the Pi coding agent \u2014 see your smart/warm/dumb zone at a glance",
+    "description": "Visual context health bar for the Pi coding agent — see your smart/warm/dumb zone at a glance",
     "stars": 5,
     "forks": 0,
     "open_issues": 0,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 32,
-    "level": "stale"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

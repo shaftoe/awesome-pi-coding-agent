@@ -3,11 +3,11 @@
   "name": "@latent-variable/pi-terminal-bench",
   "url": "https://www.npmjs.com/package/@latent-variable/pi-terminal-bench",
   "source": "npm-search",
-  "description": "Self-contained benchmark suite for Pi. 60 coding tasks across 6 categories \u2014 watch the agent work in real time. No Docker, no external dependencies.",
+  "description": "Self-contained benchmark suite for Pi. 60 coding tasks across 6 categories — watch the agent work in real time. No Docker, no external dependencies.",
   "metadata": {
     "github_url": "https://github.com/latent-variable/pi-terminal-bench",
     "repo_full_name": "latent-variable/pi-terminal-bench",
-    "description": "Self-contained benchmark suite for Pi. 60 coding tasks across 6 categories \u2014 watch the agent work in real time. No Docker, no external dependencies.",
+    "description": "Self-contained benchmark suite for Pi. 60 coding tasks across 6 categories — watch the agent work in real time. No Docker, no external dependencies.",
     "stars": 2,
     "forks": 0,
     "open_issues": 1,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 28,
-    "level": "stale"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

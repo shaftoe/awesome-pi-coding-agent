@@ -26,14 +26,14 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-27T03:30:24Z",
-    "pushed_at": "2026-05-13T15:39:10Z",
-    "updated_at": "2026-05-13T15:45:00Z",
-    "size": 136,
+    "pushed_at": "2026-05-19T18:49:14Z",
+    "updated_at": "2026-05-19T18:49:19Z",
+    "size": 142,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 42,
+    "score": 50,
     "level": "maintained"
   },
   "category": "extension"

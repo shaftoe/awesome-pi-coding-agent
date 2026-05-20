@@ -1,0 +1,29 @@
+{
+  "id": "stegmannb-pi-agent-cmux",
+  "name": "stegmannb-pi-agent-cmux",
+  "url": "https://github.com/stegmannb/pi-agent-cmux",
+  "source": "github-search",
+  "description": "PI extension for cmux",
+  "metadata": {
+    "github_url": "https://github.com/stegmannb/pi-agent-cmux",
+    "repo_full_name": "stegmannb/pi-agent-cmux",
+    "description": "PI extension for cmux",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-19T08:01:38Z",
+    "pushed_at": "2026-05-19T08:18:01Z",
+    "updated_at": "2026-05-19T08:18:06Z",
+    "size": 37,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -9,8 +9,8 @@
     "repo_full_name": "eko24ive/pi-ask",
     "description": "Interactive clarification flows for Pi coding agent",
     "stars": 22,
-    "forks": 3,
-    "open_issues": 4,
+    "forks": 4,
+    "open_issues": 5,
     "topics": [
       "ai",
       "ask",
@@ -29,8 +29,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 49,
-    "level": "maintained"
+    "score": 72,
+    "level": "active"
   },
   "category": "extension"
 }
