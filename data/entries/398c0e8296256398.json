@@ -8,22 +8,22 @@
     "github_url": "https://github.com/jmfederico/pi-web",
     "repo_full_name": "jmfederico/pi-web",
     "description": "Web control plane for remote, agentic software development with Pi Coding Agent",
-    "stars": 14,
+    "stars": 17,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-07T20:24:24Z",
-    "pushed_at": "2026-05-19T20:31:44Z",
-    "updated_at": "2026-05-19T23:42:24Z",
-    "size": 2853,
+    "pushed_at": "2026-05-20T21:16:18Z",
+    "updated_at": "2026-05-20T20:38:44Z",
+    "size": 2930,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 68,
-    "level": "maintained"
+    "score": 76,
+    "level": "active"
   },
   "category": "misc"
 }

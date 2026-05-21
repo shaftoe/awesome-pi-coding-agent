@@ -9,7 +9,7 @@
     "repo_full_name": "code-yeongyu/pi-google-google-search",
     "description": "Google native search policy extension for the pi coding agent. Ensures native googleSearch tools are present on Google API payloads by default and appends Google Search guidance to the system prompt.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "coding-agent",

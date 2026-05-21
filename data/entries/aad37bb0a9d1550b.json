@@ -10,7 +10,7 @@
     "description": "Access Claude plugin marketplaces from Pi Coding Agent.",
     "stars": 0,
     "forks": 1,
-    "open_issues": 6,
+    "open_issues": 7,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
-    "level": "maintained"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

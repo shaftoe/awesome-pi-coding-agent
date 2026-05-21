@@ -9,7 +9,7 @@
     "repo_full_name": "code-yeongyu/pi-websearch",
     "description": "Provider-backed web search tool for pi-coding-agent with config-gated activation, TUI status, and source-aware results.",
     "stars": 2,
-    "forks": 2,
+    "forks": 3,
     "open_issues": 0,
     "topics": [
       "brave",

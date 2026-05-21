@@ -9,7 +9,7 @@
     "repo_full_name": "code-yeongyu/pi-openai-code-interpreter",
     "description": "OpenAI native code interpreter policy extension for the pi coding agent. Ensures native code_interpreter tools are present on Responses API payloads when opt-in is enabled and appends code interpreter guidance to the system prompt.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "code-interpreter",

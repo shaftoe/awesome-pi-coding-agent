@@ -1,0 +1,36 @@
+{
+  "id": "pi-cubing",
+  "name": "pi-cubing",
+  "url": "https://www.npmjs.com/package/pi-cubing",
+  "source": "npm-search",
+  "description": "A cstimer-style Rubik's Cube timer overlay for Pi, with scrambles, averages, ratings, and local solve persistence.",
+  "metadata": {
+    "github_url": "https://github.com/totimorpa/pi-cubing",
+    "npm_name": "pi-cubing",
+    "description": "A cstimer-style Rubik's Cube timer overlay for Pi, with scrambles, averages, ratings, and local solve persistence.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "cubing",
+      "rubiks-cube",
+      "speedcubing",
+      "timer",
+      "cstimer"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-05-20T20:22:05.288Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

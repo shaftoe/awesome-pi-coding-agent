@@ -1,0 +1,50 @@
+{
+  "id": "FailproofAI-failproofai",
+  "name": "FailproofAI-failproofai",
+  "url": "https://github.com/FailproofAI/failproofai",
+  "source": "github-search",
+  "description": "Runtime failure resolution for coding agents. Hooks into Claude Code and Codex. Catches loops, dangerous actions, and secret leaks before they become incidents. Zero latency. Runs locally.",
+  "metadata": {
+    "github_url": "https://github.com/FailproofAI/failproofai",
+    "repo_full_name": "FailproofAI/failproofai",
+    "description": "Runtime failure resolution for coding agents. Hooks into Claude Code and Codex. Catches loops, dangerous actions, and secret leaks before they become incidents. Zero latency. Runs locally.",
+    "stars": 91,
+    "forks": 14,
+    "open_issues": 10,
+    "topics": [
+      "agent-failure",
+      "agent-reliability",
+      "ai",
+      "ai-agent",
+      "claude",
+      "claude-code",
+      "claude-hooks",
+      "codex",
+      "coding-agent",
+      "cursor",
+      "error-handling",
+      "gemini-cli",
+      "hooks",
+      "llm",
+      "llm-failures",
+      "openai",
+      "opencode",
+      "pi-coding-agent",
+      "picode",
+      "reliability"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-06T01:56:39Z",
+    "pushed_at": "2026-05-20T23:45:56Z",
+    "updated_at": "2026-05-20T23:46:00Z",
+    "size": 45931,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 82,
+    "level": "active"
+  },
+  "category": "extension"
+}

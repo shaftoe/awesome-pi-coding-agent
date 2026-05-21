@@ -3,7 +3,7 @@
   "name": "pi-agentarium",
   "url": "https://www.npmjs.com/package/pi-agentarium",
   "source": "npm-search",
-  "description": "Ambient multi-agent observability for Pi \u2014 a terminal habitat for coding agents.",
+  "description": "Ambient multi-agent observability for Pi — a terminal habitat for coding agents.",
   "metadata": {
     "github_url": "https://github.com/damngamerz/pi-agentarium",
     "repo_full_name": "damngamerz/pi-agentarium",
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 30,
-    "level": "stale"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

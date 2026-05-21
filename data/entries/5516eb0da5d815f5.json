@@ -1,0 +1,29 @@
+{
+  "id": "furbyhaxx-pi-agent-roles",
+  "name": "furbyhaxx-pi-agent-roles",
+  "url": "https://github.com/furbyhaxx/pi-agent-roles",
+  "source": "github-search",
+  "description": "Pi extension package for session-scoped runtime roles with model, thinking, tool, prompt, and skill policy switching.",
+  "metadata": {
+    "github_url": "https://github.com/furbyhaxx/pi-agent-roles",
+    "repo_full_name": "furbyhaxx/pi-agent-roles",
+    "description": "Pi extension package for session-scoped runtime roles with model, thinking, tool, prompt, and skill policy switching.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-20T13:58:01Z",
+    "pushed_at": "2026-05-20T15:57:42Z",
+    "updated_at": "2026-05-20T15:58:30Z",
+    "size": 154,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -3,11 +3,11 @@
   "name": "@gregjohnso/pi-monitor",
   "url": "https://www.npmjs.com/package/@gregjohnso/pi-monitor",
   "source": "npm-search",
-  "description": "Background shell command runner for the pi coding agent \u2014 each stdout line becomes a TUI event and enters the LLM's next turn as context.",
+  "description": "Background shell command runner for the pi coding agent — each stdout line becomes a TUI event and enters the LLM's next turn as context.",
   "metadata": {
     "github_url": "https://github.com/gregjohnso/pi-monitor",
     "repo_full_name": "gregjohnso/pi-monitor",
-    "description": "Background shell command runner for the pi coding agent \u2014 each stdout line becomes a TUI event and enters the LLM's next turn as context.",
+    "description": "Background shell command runner for the pi coding agent — each stdout line becomes a TUI event and enters the LLM's next turn as context.",
     "stars": 2,
     "forks": 0,
     "open_issues": 1,
@@ -31,8 +31,8 @@
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 45,
-    "level": "maintained"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

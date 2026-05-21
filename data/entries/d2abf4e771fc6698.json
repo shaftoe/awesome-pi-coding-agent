@@ -10,7 +10,7 @@
     "description": "A pi extension that brings Claude Code-style task tracking and coordination to pi. Track multi-step work with structured tasks, dependency management, and a persistent visual widget.",
     "stars": 77,
     "forks": 20,
-    "open_issues": 10,
+    "open_issues": 11,
     "topics": [
       "pi-agent",
       "pi-extension",
@@ -26,8 +26,8 @@
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 72,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

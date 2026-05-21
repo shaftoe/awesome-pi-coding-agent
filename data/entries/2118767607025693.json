@@ -9,7 +9,7 @@
     "repo_full_name": "code-yeongyu/pi-openai-web-search",
     "description": "OpenAI Responses native web search policy extension for the pi coding agent. Ensures native web_search tools are present on openai-responses and azure-openai-responses payloads and appends web search guidance to the system prompt.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "coding-agent",

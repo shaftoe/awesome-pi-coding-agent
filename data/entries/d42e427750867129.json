@@ -3,11 +3,11 @@
   "name": "@samfp/pi-steering-hooks",
   "url": "https://www.npmjs.com/package/@samfp/pi-steering-hooks",
   "source": "npm-search",
-  "description": "Deterministic tool-call guardrails for pi \u2014 enforce rules with before-tool hooks instead of prompts",
+  "description": "Deterministic tool-call guardrails for pi — enforce rules with before-tool hooks instead of prompts",
   "metadata": {
     "github_url": "https://github.com/samfoy/pi-steering-hooks",
     "repo_full_name": "samfoy/pi-steering-hooks",
-    "description": "Deterministic tool-call guardrails for pi \u2014 enforce rules with before-tool hooks instead of prompts",
+    "description": "Deterministic tool-call guardrails for pi — enforce rules with before-tool hooks instead of prompts",
     "stars": 5,
     "forks": 2,
     "open_issues": 1,
@@ -30,8 +30,8 @@
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 65,
-    "level": "maintained"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

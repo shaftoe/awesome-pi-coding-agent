@@ -10,7 +10,7 @@
     "description": "A local AI coding workspace for Claude Code, Codex, OpenCode, Amp, Factory Droid, Pi, and OpenAI/Anthropic-compatible models.",
     "stars": 16,
     "forks": 4,
-    "open_issues": 27,
+    "open_issues": 28,
     "topics": [
       "ampcode",
       "claude-code",

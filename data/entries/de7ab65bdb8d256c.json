@@ -1,0 +1,36 @@
+{
+  "id": "@davecodes/pi-routines",
+  "name": "@davecodes/pi-routines",
+  "url": "https://www.npmjs.com/package/@davecodes/pi-routines",
+  "source": "npm-search",
+  "description": "A pi extension that gives your agent scheduled and event-driven routines",
+  "metadata": {
+    "github_url": "https://github.com/Davidcreador/pi-routines",
+    "repo_full_name": "Davidcreador/pi-routines",
+    "description": "A pi extension that gives your agent scheduled and event-driven routines ",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "claude-code",
+      "openai",
+      "pi",
+      "routines"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-20T01:30:40Z",
+    "pushed_at": "2026-05-21T00:05:01Z",
+    "updated_at": "2026-05-20T23:37:22Z",
+    "size": 34369,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

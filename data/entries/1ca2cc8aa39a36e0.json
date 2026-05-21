@@ -8,7 +8,7 @@
     "github_url": "https://github.com/narumiruna/pi-extensions",
     "repo_full_name": "narumiruna/pi-extensions",
     "description": "Native Pi coding agent extensions for Chrome DevTools, Firecrawl web scraping, Python LSP with ty and Ruff, goal mode, retries,  statusline, and caffeinate automation.",
-    "stars": 3,
+    "stars": 6,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,15 +22,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-07T13:59:45Z",
-    "pushed_at": "2026-05-19T14:15:41Z",
-    "updated_at": "2026-05-19T14:25:17Z",
-    "size": 595,
+    "pushed_at": "2026-05-20T16:29:20Z",
+    "updated_at": "2026-05-20T16:34:58Z",
+    "size": 575,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
-    "level": "maintained"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

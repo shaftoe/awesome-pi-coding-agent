@@ -8,21 +8,21 @@
     "github_url": "https://github.com/chily-john/suPIerior",
     "repo_full_name": "chily-john/suPIerior",
     "description": "suPIerior tooling for the Pi agent",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 20,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-07T19:32:41Z",
-    "pushed_at": "2026-05-19T20:07:34Z",
-    "updated_at": "2026-05-19T20:07:40Z",
-    "size": 116,
+    "pushed_at": "2026-05-20T21:44:01Z",
+    "updated_at": "2026-05-20T15:28:20Z",
+    "size": 154,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 53,
+    "score": 66,
     "level": "maintained"
   },
   "category": "extension"

@@ -8,21 +8,21 @@
     "github_url": "https://github.com/WindowsRefundDay/pi-antigravity-auth",
     "repo_full_name": "WindowsRefundDay/pi-antigravity-auth",
     "description": "Pi Coding Agent provider extension for Google Antigravity OAuth models, plus Gemini CLI quota routing and multi-account rotation.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-18T14:11:22Z",
     "pushed_at": "2026-05-19T21:53:35Z",
-    "updated_at": "2026-05-19T21:53:48Z",
+    "updated_at": "2026-05-20T05:44:54Z",
     "size": 62,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 55,
+    "score": 63,
     "level": "maintained"
   },
   "category": "extension"

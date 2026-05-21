@@ -22,7 +22,7 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 55,
+    "score": 48,
     "level": "maintained"
   },
   "category": "extension"

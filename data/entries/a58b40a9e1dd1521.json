@@ -1,0 +1,29 @@
+{
+  "id": "mjbmarques-pi-agent-extensions",
+  "name": "mjbmarques-pi-agent-extensions",
+  "url": "https://github.com/mjbmarques/pi-agent-extensions",
+  "source": "github-search",
+  "description": "Pi extensions I created",
+  "metadata": {
+    "github_url": "https://github.com/mjbmarques/pi-agent-extensions",
+    "repo_full_name": "mjbmarques/pi-agent-extensions",
+    "description": "Pi extensions I created",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-08T23:04:50Z",
+    "pushed_at": "2026-05-19T16:08:24Z",
+    "updated_at": "2026-05-20T12:33:23Z",
+    "size": 25,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

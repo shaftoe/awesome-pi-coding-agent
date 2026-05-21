@@ -1,0 +1,29 @@
+{
+  "id": "CodyBontecou-pi-phone-tmux-compact-theme",
+  "name": "CodyBontecou-pi-phone-tmux-compact-theme",
+  "url": "https://github.com/CodyBontecou/pi-phone-tmux-compact-theme",
+  "source": "github-search",
+  "description": "A minimal pi coding agent theme tuned for phones inside tmux.",
+  "metadata": {
+    "github_url": "https://github.com/CodyBontecou/pi-phone-tmux-compact-theme",
+    "repo_full_name": "CodyBontecou/pi-phone-tmux-compact-theme",
+    "description": "A minimal pi coding agent theme tuned for phones inside tmux.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-20T00:01:20Z",
+    "pushed_at": "2026-05-20T00:36:12Z",
+    "updated_at": "2026-05-20T00:36:16Z",
+    "size": 12,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "theme"
+}

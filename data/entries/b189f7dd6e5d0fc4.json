@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tuxevil/pi-antigravity-rotator",
     "repo_full_name": "tuxevil/pi-antigravity-rotator",
     "description": "Intelligent multi-account rotation proxy for Google Antigravity with per-model routing, real-time quota tracking, automatic token management, and infringement detection.",
-    "stars": 9,
+    "stars": 10,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -26,15 +26,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-22T01:33:34Z",
-    "pushed_at": "2026-05-19T23:51:38Z",
-    "updated_at": "2026-05-19T23:51:25Z",
-    "size": 2123,
+    "pushed_at": "2026-05-20T14:20:06Z",
+    "updated_at": "2026-05-20T14:25:43Z",
+    "size": 2485,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 75,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

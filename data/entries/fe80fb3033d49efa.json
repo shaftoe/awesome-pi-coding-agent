@@ -3,11 +3,11 @@
   "name": "pi-pkg-guard",
   "url": "https://www.npmjs.com/package/pi-pkg-guard",
   "source": "npm-search",
-  "description": "Guards against unregistered pi packages \u2014 installed via npm but not registered in pi's settings",
+  "description": "Guards against unregistered pi packages — installed via npm but not registered in pi's settings",
   "metadata": {
     "github_url": "https://github.com/alexleekt/pi-pkg-guard",
     "repo_full_name": "alexleekt/pi-pkg-guard",
-    "description": "Guards against unregistered pi packages \u2014 installed via npm but not registered in pi's settings",
+    "description": "Guards against unregistered pi packages — installed via npm but not registered in pi's settings",
     "stars": 1,
     "forks": 0,
     "open_issues": 0,
@@ -28,8 +28,8 @@
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 45,
-    "level": "maintained"
+    "score": 0,
+    "level": "dead"
   },
   "category": "extension"
 }

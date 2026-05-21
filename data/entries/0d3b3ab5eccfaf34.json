@@ -3,11 +3,11 @@
   "name": "pi-elixir",
   "url": "https://www.npmjs.com/package/pi-elixir",
   "source": "npm-search",
-  "description": "BEAM runtime tools for pi \u2014 connects to the running Elixir app via Tidewave",
+  "description": "BEAM runtime tools for pi — connects to the running Elixir app via Tidewave",
   "metadata": {
     "github_url": "https://github.com/dannote/pi-elixir",
     "repo_full_name": "dannote/pi-elixir",
-    "description": "BEAM runtime tools for pi \u2014 connects to the running Elixir app via Tidewave",
+    "description": "BEAM runtime tools for pi — connects to the running Elixir app via Tidewave",
     "stars": 71,
     "forks": 5,
     "open_issues": 0,
@@ -30,8 +30,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 72,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

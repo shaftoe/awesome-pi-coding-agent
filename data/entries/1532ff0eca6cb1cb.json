@@ -3,11 +3,11 @@
   "name": "pi-session-search",
   "url": "https://www.npmjs.com/package/pi-session-search",
   "source": "npm-search",
-  "description": "Semantic search over past pi coding sessions \u2014 index, browse, and read your coding history",
+  "description": "Semantic search over past pi coding sessions — index, browse, and read your coding history",
   "metadata": {
     "github_url": "https://github.com/samfoy/pi-session-search",
     "repo_full_name": "samfoy/pi-session-search",
-    "description": "Semantic search over past pi coding sessions \u2014 index, browse, and read your coding history",
+    "description": "Semantic search over past pi coding sessions — index, browse, and read your coding history",
     "stars": 8,
     "forks": 6,
     "open_issues": 0,
@@ -28,8 +28,8 @@
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 65,
-    "level": "maintained"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

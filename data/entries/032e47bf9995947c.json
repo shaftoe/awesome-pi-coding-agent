@@ -10,7 +10,7 @@
     "description": "Hermes CLI extension for pi-coding-agent — ask any model via /hermes command with autonomous review",
     "stars": 0,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "ai-agent",
       "cli-extension",

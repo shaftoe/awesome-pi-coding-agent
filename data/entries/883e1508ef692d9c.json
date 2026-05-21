@@ -8,8 +8,8 @@
     "github_url": "https://github.com/juanibiapina/pi-powerbar",
     "repo_full_name": "juanibiapina/pi-powerbar",
     "description": "Pi extension that renders a persistent powerline status bar with left/right segments updated via events",
-    "stars": 25,
-    "forks": 3,
+    "stars": 26,
+    "forks": 4,
     "open_issues": 0,
     "topics": [
       "extension",
@@ -21,15 +21,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-06T17:05:26Z",
-    "pushed_at": "2026-05-18T08:30:32Z",
-    "updated_at": "2026-05-18T08:30:28Z",
-    "size": 277,
+    "pushed_at": "2026-05-20T17:01:37Z",
+    "updated_at": "2026-05-20T21:01:50Z",
+    "size": 415,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 72,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

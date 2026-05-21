@@ -3,11 +3,11 @@
   "name": "@s1m0n38/pi-voice",
   "url": "https://www.npmjs.com/package/@s1m0n38/pi-voice",
   "source": "npm-search",
-  "description": "Give voice to your Pi agent \ud83d\udde3\ufe0f",
+  "description": "Give voice to your Pi agent 🗣️",
   "metadata": {
     "github_url": "https://github.com/S1M0N38/pi-voice",
     "repo_full_name": "S1M0N38/pi-voice",
-    "description": "Give voice to your Pi agent \ud83d\udde3\ufe0f",
+    "description": "Give voice to your Pi agent 🗣️",
     "stars": 1,
     "forks": 1,
     "open_issues": 0,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 45,
-    "level": "maintained"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }
