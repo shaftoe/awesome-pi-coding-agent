@@ -3,11 +3,11 @@
   "name": "@the-forge-flow/pi-token-saver",
   "url": "https://www.npmjs.com/package/@the-forge-flow/pi-token-saver",
   "source": "npm-search",
-  "description": "Token-saving proxy for the PI coding agent \u2014 intercepts and compresses API calls to reduce token consumption",
+  "description": "Token-saving proxy for the PI coding agent — intercepts and compresses API calls to reduce token consumption",
   "metadata": {
     "github_url": "https://github.com/MonsieurBarti/pi-token-saver",
     "repo_full_name": "MonsieurBarti/pi-token-saver",
-    "description": "Token-saving proxy for the PI coding agent \u2014 intercepts and compresses API calls to reduce token consumption",
+    "description": "Token-saving proxy for the PI coding agent — intercepts and compresses API calls to reduce token consumption",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 30,
-    "level": "stale"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

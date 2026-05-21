@@ -3,13 +3,13 @@
   "name": "pi-commandcode-provider",
   "url": "https://www.npmjs.com/package/pi-commandcode-provider",
   "source": "npm-search",
-  "description": "pi custom provider for the Command Code API \u2014 18 models including Claude, GPT, DeepSeek, Kimi, GLM, MiniMax, and Qwen",
+  "description": "pi custom provider for the Command Code API — 18 models including Claude, GPT, DeepSeek, Kimi, GLM, MiniMax, and Qwen",
   "metadata": {
     "github_url": "https://github.com/patlux/pi-commandcode-provider",
     "repo_full_name": "patlux/pi-commandcode-provider",
-    "description": "pi custom provider for the Command Code API \u2014 18 models including Claude, GPT, DeepSeek, Kimi, GLM, MiniMax, and Qwen",
+    "description": "pi custom provider for the Command Code API — 18 models including Claude, GPT, DeepSeek, Kimi, GLM, MiniMax, and Qwen",
     "stars": 6,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 2,
     "topics": [
       "ai",
@@ -30,8 +30,8 @@
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 65,
-    "level": "maintained"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

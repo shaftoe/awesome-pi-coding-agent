@@ -15,15 +15,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-04T14:59:42Z",
-    "pushed_at": "2026-05-17T00:13:35Z",
-    "updated_at": "2026-05-17T00:13:38Z",
-    "size": 1042,
+    "pushed_at": "2026-05-20T06:16:28Z",
+    "updated_at": "2026-05-20T06:16:32Z",
+    "size": 1071,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
-    "level": "maintained"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

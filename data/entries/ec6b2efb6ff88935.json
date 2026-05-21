@@ -1,0 +1,32 @@
+{
+  "id": "@alexparamonov/pi-tokf",
+  "name": "@alexparamonov/pi-tokf",
+  "url": "https://www.npmjs.com/package/@alexparamonov/pi-tokf",
+  "source": "npm-search",
+  "description": "pi extension that wraps commands through tokf for compressed output.",
+  "metadata": {
+    "github_url": "https://github.com/AlexParamonov/pi-tokf",
+    "npm_name": "@alexparamonov/pi-tokf",
+    "description": "pi extension that wraps commands through tokf for compressed output.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "tokf"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-20T00:33:12.475Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

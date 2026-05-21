@@ -9,7 +9,7 @@
     "repo_full_name": "ben-vargas/pi-packages",
     "description": "Packages for Pi - extensions, skills, prompt templates, and themes.",
     "stars": 81,
-    "forks": 7,
+    "forks": 8,
     "open_issues": 0,
     "topics": [
       "pi",
@@ -27,8 +27,8 @@
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 72,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

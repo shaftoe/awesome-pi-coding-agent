@@ -22549,5 +22549,167 @@
 		"reason": "Duplicate of existing entry junghan0611-pi-shell-acp (same repo, lower score)",
 		"blacklisted_at": "2026-05-20T00:05:25.452Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/mupt-ai/dari-docs",
+		"reason": "covered by dedicated source: github.com",
+		"blacklisted_at": "2026-05-21T00:06:50.656Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/dsshap/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-21T00:06:50.687Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/totimorpa/pi-cubing",
+		"reason": "covered by dedicated source: github.com",
+		"blacklisted_at": "2026-05-21T00:06:50.771Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=uaRUGJenDE4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-21T00:06:50.776Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=GWFWfqrAEBI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-21T00:06:50.931Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=bdAWIpTq2GQ",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-05-21T00:06:50.948Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=dqalJksIPzE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-21T00:06:50.953Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/woniulol/pbb",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-21T00:06:50.999Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=w3kI6XlZXZQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-21T00:06:51.009Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=RpUTF_U4kiw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-21T00:06:51.068Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=3ZtWKhdGObg",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-05-21T00:06:51.147Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=9tAxRqZoqqE",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-05-21T00:06:51.161Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=fk_Mdx0coqk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-21T00:06:51.188Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=-toK06vYoqk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-21T00:06:51.249Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://bestofjs.org/projects/pi",
+		"reason": "blocked name: pi",
+		"blacklisted_at": "2026-05-21T00:06:51.294Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Qy_bfOcZVxs",
+		"reason": "Non-English (Italian) title and description",
+		"blacklisted_at": "2026-05-21T00:08:08.402Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@undefineds.co/models",
+		"reason": "Not about Pi coding agent - Solid Pod data model contract for LinX apps, unrelated to pi.dev",
+		"blacklisted_at": "2026-05-21T00:22:09.64Z",
+		"source": "manual"
 	}
 ]

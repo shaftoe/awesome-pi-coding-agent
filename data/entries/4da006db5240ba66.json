@@ -6,7 +6,7 @@
   "description": "Unified web search + content extraction extension for pi with 12 backends (DuckDuckGo, Jina AI, Tavily, Brave, Exa, Serper, Firecrawl, Marginalia, LangSearch, WebSearchAPI, Perplexity Sonar, SearXNG). Auto-fallback, RRF combine mode, web_read tool, secure",
   "metadata": {
     "github_url": "https://github.com/ronnieops/pi-search-multi",
-    "npm_name": "pi-search-hub",
+    "npm_name": "pi-search-multi",
     "description": "Unified web search + content extraction extension for pi with 12 backends (DuckDuckGo, Jina AI, Tavily, Brave, Exa, Serper, Firecrawl, Marginalia, LangSearch, WebSearchAPI, Perplexity Sonar, SearXNG). Auto-fallback, RRF combine mode, web_read tool, secure",
     "keywords": [
       "pi-package",

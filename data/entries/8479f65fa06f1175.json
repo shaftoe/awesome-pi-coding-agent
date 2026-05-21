@@ -3,11 +3,11 @@
   "name": "pi-lsp-extension",
   "url": "https://www.npmjs.com/package/pi-lsp-extension",
   "source": "npm-search",
-  "description": "Pi coding agent extension for LSP integration \u2014 gives the LLM access to diagnostics, hover, go-to-definition, references, symbols, and rename",
+  "description": "Pi coding agent extension for LSP integration — gives the LLM access to diagnostics, hover, go-to-definition, references, symbols, and rename",
   "metadata": {
     "github_url": "https://github.com/samfoy/pi-lsp-extension",
     "repo_full_name": "samfoy/pi-lsp-extension",
-    "description": "Pi coding agent extension for LSP integration \u2014 gives the LLM access to diagnostics, hover, go-to-definition, references, symbols, and rename",
+    "description": "Pi coding agent extension for LSP integration — gives the LLM access to diagnostics, hover, go-to-definition, references, symbols, and rename",
     "stars": 16,
     "forks": 7,
     "open_issues": 1,
@@ -29,8 +29,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 72,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

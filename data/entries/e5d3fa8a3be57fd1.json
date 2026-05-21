@@ -3,11 +3,11 @@
   "name": "pi-working-vibe",
   "url": "https://www.npmjs.com/package/pi-working-vibe",
   "source": "npm-search",
-  "description": "Custom Working\u2026 message + tool-aware spinner for pi coding agent. Vibe files with [default] and [tool:] sections.",
+  "description": "Custom Working… message + tool-aware spinner for pi coding agent. Vibe files with [default] and [tool:] sections.",
   "metadata": {
     "github_url": "https://github.com/Davidcreador/pi-working-vibe",
     "repo_full_name": "Davidcreador/pi-working-vibe",
-    "description": "Custom Working\u2026 message + tool-aware spinner for pi coding agent. Vibe files with [default] and [tool:<name>] sections.",
+    "description": "Custom Working… message + tool-aware spinner for pi coding agent. Vibe files with [default] and [tool:<name>] sections.",
     "stars": 1,
     "forks": 0,
     "open_issues": 0,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
-    "level": "maintained"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

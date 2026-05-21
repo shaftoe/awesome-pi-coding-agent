@@ -1,0 +1,29 @@
+{
+  "id": "clashmar-pi-forge-jira",
+  "name": "clashmar-pi-forge-jira",
+  "url": "https://github.com/clashmar/pi-forge-jira",
+  "source": "github-search",
+  "description": "Jira integration for the pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/clashmar/pi-forge-jira",
+    "repo_full_name": "clashmar/pi-forge-jira",
+    "description": "Jira integration for the pi coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-20T14:55:26Z",
+    "pushed_at": "2026-05-20T15:43:08Z",
+    "updated_at": "2026-05-20T15:43:31Z",
+    "size": 50,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

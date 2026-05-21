@@ -3,11 +3,11 @@
   "name": "@capyup/pi-warp",
   "url": "https://www.npmjs.com/package/@capyup/pi-warp",
   "source": "npm-search",
-  "description": "Warp terminal integration for Pi \u2014 tab status, spinner, and rich session notifications via the warp://cli-agent protocol",
+  "description": "Warp terminal integration for Pi — tab status, spinner, and rich session notifications via the warp://cli-agent protocol",
   "metadata": {
     "github_url": "https://github.com/capyup/pi-warp",
     "repo_full_name": "capyup/pi-warp",
-    "description": "Warp terminal integration for Pi \u2014 tab status, spinner, and rich session notifications via the warp://cli-agent protocol",
+    "description": "Warp terminal integration for Pi — tab status, spinner, and rich session notifications via the warp://cli-agent protocol",
     "stars": 1,
     "forks": 0,
     "open_issues": 0,
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 45,
-    "level": "maintained"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

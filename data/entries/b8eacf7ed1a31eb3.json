@@ -1,0 +1,29 @@
+{
+  "id": "FableFatale-pi-coding-agent",
+  "name": "FableFatale-pi-coding-agent",
+  "url": "https://github.com/FableFatale/pi-coding-agent",
+  "source": "github-search",
+  "description": "diy-pi",
+  "metadata": {
+    "github_url": "https://github.com/FableFatale/pi-coding-agent",
+    "repo_full_name": "FableFatale/pi-coding-agent",
+    "description": "diy-pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-20T01:34:18Z",
+    "pushed_at": "2026-05-20T01:35:33Z",
+    "updated_at": "2026-05-20T01:35:54Z",
+    "size": 122861,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

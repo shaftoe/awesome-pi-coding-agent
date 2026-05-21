@@ -3,12 +3,12 @@
   "name": "@codexstar/pi-listen",
   "url": "https://www.npmjs.com/package/@codexstar/pi-listen",
   "source": "npm-search",
-  "description": "Hold-to-talk voice input for Pi CLI \u2014 Deepgram streaming STT with live transcription, voice commands, and cross-platform hold detection",
+  "description": "Hold-to-talk voice input for Pi CLI — Deepgram streaming STT with live transcription, voice commands, and cross-platform hold detection",
   "metadata": {
     "github_url": "https://github.com/codexstar69/pi-listen",
     "repo_full_name": "codexstar69/pi-listen",
-    "description": "Hold-to-talk voice input for Pi CLI \u2014 Deepgram streaming STT with live transcription, voice commands, and cross-platform hold detection",
-    "stars": 59,
+    "description": "Hold-to-talk voice input for Pi CLI — Deepgram streaming STT with live transcription, voice commands, and cross-platform hold detection",
+    "stars": 60,
     "forks": 10,
     "open_issues": 3,
     "topics": [
@@ -29,14 +29,14 @@
     "archived": false,
     "created_at": "2026-03-12T00:59:59Z",
     "pushed_at": "2026-05-01T15:00:39Z",
-    "updated_at": "2026-05-19T14:14:43Z",
+    "updated_at": "2026-05-20T22:08:08Z",
     "size": 52733,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 72,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

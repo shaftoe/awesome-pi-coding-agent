@@ -1,0 +1,29 @@
+{
+  "id": "keIIy-kim-pi-config",
+  "name": "keIIy-kim-pi-config",
+  "url": "https://github.com/keIIy-kim/pi-config",
+  "source": "github-search",
+  "description": "Personal pi coding agent configuration",
+  "metadata": {
+    "github_url": "https://github.com/keIIy-kim/pi-config",
+    "repo_full_name": "keIIy-kim/pi-config",
+    "description": "Personal pi coding agent configuration",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-20T03:52:59Z",
+    "pushed_at": "2026-05-20T05:53:00Z",
+    "updated_at": "2026-05-20T05:53:03Z",
+    "size": 96,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

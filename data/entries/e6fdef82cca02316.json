@@ -9,7 +9,7 @@
     "repo_full_name": "sherif-fanous/pi-rtk",
     "description": "Pi coding agent extension that routes bash commands through rtk for LLM token savings.",
     "stars": 62,
-    "forks": 4,
+    "forks": 5,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
@@ -22,8 +22,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 72,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

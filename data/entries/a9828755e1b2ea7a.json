@@ -8,8 +8,8 @@
     "github_url": "https://github.com/code-yeongyu/pi-lsp-client",
     "repo_full_name": "code-yeongyu/pi-lsp-client",
     "description": "Language Server Protocol integration for the pi coding agent. Faithful port of the LSP tools from oh-my-openagent: shared server pool, refCount lifecycle, idle/init reaping, typed crash retry, and a /lsp inspector.",
-    "stars": 5,
-    "forks": 0,
+    "stars": 6,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "code-intelligence",
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-29T06:03:10Z",
-    "pushed_at": "2026-05-18T07:28:34Z",
-    "updated_at": "2026-05-19T09:32:35Z",
-    "size": 200,
+    "pushed_at": "2026-05-20T05:15:09Z",
+    "updated_at": "2026-05-20T05:15:12Z",
+    "size": 202,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

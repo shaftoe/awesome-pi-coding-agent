@@ -8,8 +8,8 @@
     "github_url": "https://github.com/tmdgusya/roach-pi",
     "repo_full_name": "tmdgusya/roach-pi",
     "description": "Strict engineering discipline and multi-agent orchestration for the pi coding agent",
-    "stars": 176,
-    "forks": 15,
+    "stars": 183,
+    "forks": 16,
     "open_issues": 0,
     "topics": [
       "extensions",
@@ -19,9 +19,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-05T08:56:40Z",
-    "pushed_at": "2026-05-17T14:39:10Z",
-    "updated_at": "2026-05-18T13:36:47Z",
-    "size": 2812,
+    "pushed_at": "2026-05-20T16:31:31Z",
+    "updated_at": "2026-05-20T23:17:36Z",
+    "size": 2243,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

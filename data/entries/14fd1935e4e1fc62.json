@@ -8,7 +8,7 @@
     "github_url": "https://github.com/sodie2323/pi-resource-center",
     "repo_full_name": "sodie2323/pi-resource-center",
     "description": "A Pi package for browsing and managing packages, skills, extensions, prompts, and themes",
-    "stars": 10,
+    "stars": 11,
     "forks": 0,
     "open_issues": 1,
     "topics": [
@@ -25,14 +25,14 @@
     "archived": false,
     "created_at": "2026-03-31T08:15:09Z",
     "pushed_at": "2026-05-08T03:19:07Z",
-    "updated_at": "2026-05-15T12:42:11Z",
+    "updated_at": "2026-05-20T11:48:43Z",
     "size": 149,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 72,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

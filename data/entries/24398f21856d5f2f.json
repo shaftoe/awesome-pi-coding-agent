@@ -8,8 +8,8 @@
     "github_url": "https://github.com/tintinweb/pi-gitnexus",
     "repo_full_name": "tintinweb/pi-gitnexus",
     "description": "GitNexus knowledge graph integration for the Pi coding agent",
-    "stars": 123,
-    "forks": 21,
+    "stars": 127,
+    "forks": 22,
     "open_issues": 2,
     "topics": [
       "pi-agents",
@@ -20,14 +20,14 @@
     "archived": false,
     "created_at": "2026-02-23T13:12:43Z",
     "pushed_at": "2026-05-08T21:12:20Z",
-    "updated_at": "2026-05-19T23:37:03Z",
+    "updated_at": "2026-05-20T20:53:30Z",
     "size": 1929,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 72,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }
