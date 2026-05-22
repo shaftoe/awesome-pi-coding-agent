@@ -1,0 +1,29 @@
+{
+  "id": "gripebomb-pi-codegraph-extension",
+  "name": "gripebomb-pi-codegraph-extension",
+  "url": "https://github.com/gripebomb/pi-codegraph-extension",
+  "source": "github-search",
+  "description": "CodeGraph MCP tools for the original Pi Coding Agent.",
+  "metadata": {
+    "github_url": "https://github.com/gripebomb/pi-codegraph-extension",
+    "repo_full_name": "gripebomb/pi-codegraph-extension",
+    "description": "CodeGraph MCP tools for the original Pi Coding Agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-21T03:25:25Z",
+    "pushed_at": "2026-05-21T03:43:40Z",
+    "updated_at": "2026-05-21T03:43:43Z",
+    "size": 46,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

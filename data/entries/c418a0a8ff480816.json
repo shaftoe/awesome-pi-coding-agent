@@ -9,8 +9,8 @@
     "repo_full_name": "leohenon/pi-mux",
     "description": "Tmux-powered session multiplexer for Pi.",
     "stars": 4,
-    "forks": 0,
-    "open_issues": 0,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "pi",
       "pi-agent",
@@ -27,8 +27,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 68,
-    "level": "maintained"
+    "score": 76,
+    "level": "active"
   },
   "category": "misc"
 }

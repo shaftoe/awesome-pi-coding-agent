@@ -9,7 +9,7 @@
     "repo_full_name": "code-yeongyu/pi-ast-grep",
     "description": "AST-aware code search and rewrite for the pi coding agent. Faithful port of the ast-grep tools from oh-my-openagent.",
     "stars": 6,
-    "forks": 3,
+    "forks": 4,
     "open_issues": 0,
     "topics": [
       "ast",

@@ -1,0 +1,24 @@
+{
+  "id": "YT_KRVYUkM16hE",
+  "name": "Simple Pi Subagents",
+  "url": "https://youtube.com/watch?v=KRVYUkM16hE",
+  "source": "youtube-search",
+  "description": "My current subagents extension for the Pi coding agent. Repo: https://github.com/amosblomqvist/pi-subagents.",
+  "metadata": {
+    "title": "Simple Pi Subagents",
+    "name": "Simple Pi Subagents",
+    "description": "My current subagents extension for the Pi coding agent. Repo: https://github.com/amosblomqvist/pi-subagents.",
+    "channel": "Eero Alvar",
+    "published_at": "2026-05-21T22:46:15Z",
+    "thumbnail": "https://i.ytimg.com/vi/KRVYUkM16hE/hqdefault.jpg",
+    "views": 48,
+    "likes": 9,
+    "comments": 1,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 44,
+    "level": "maintained"
+  },
+  "category": "video"
+}

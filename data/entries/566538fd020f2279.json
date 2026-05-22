@@ -8,8 +8,8 @@
     "github_url": "https://github.com/gnassro/phi",
     "repo_full_name": "gnassro/phi",
     "description": "Phi brings the Pi AI coding agent into VS Code as a native extension. Chat with an AI agent that can read, write, and edit your code",
-    "stars": 10,
-    "forks": 2,
+    "stars": 11,
+    "forks": 4,
     "open_issues": 3,
     "topics": [
       "agent",
@@ -20,7 +20,7 @@
     "archived": false,
     "created_at": "2026-03-25T19:03:31Z",
     "pushed_at": "2026-05-06T10:36:24Z",
-    "updated_at": "2026-05-19T16:23:33Z",
+    "updated_at": "2026-05-21T23:04:06Z",
     "size": 754,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

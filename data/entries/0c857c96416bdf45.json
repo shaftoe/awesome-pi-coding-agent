@@ -1,0 +1,29 @@
+{
+  "id": "GusChenn-pi-config",
+  "name": "GusChenn-pi-config",
+  "url": "https://github.com/GusChenn/pi-config",
+  "source": "github-search",
+  "description": "Personal pi-coding-agent configuration (extensions, skills, memories, settings)",
+  "metadata": {
+    "github_url": "https://github.com/GusChenn/pi-config",
+    "repo_full_name": "GusChenn/pi-config",
+    "description": "Personal pi-coding-agent configuration (extensions, skills, memories, settings)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-21T15:43:13Z",
+    "pushed_at": "2026-05-21T18:06:20Z",
+    "updated_at": "2026-05-21T18:06:25Z",
+    "size": 75,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

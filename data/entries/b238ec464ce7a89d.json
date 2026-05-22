@@ -9,7 +9,7 @@
     "repo_full_name": "fgladisch/pi-skills",
     "description": "Personal skills library for the pi coding agent, mostly adapted from Superpowers",
     "stars": 3,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
