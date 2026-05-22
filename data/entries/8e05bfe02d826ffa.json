@@ -1,0 +1,29 @@
+{
+  "id": "TheAmericanMaker-pi-stbar",
+  "name": "TheAmericanMaker-pi-stbar",
+  "url": "https://github.com/TheAmericanMaker/pi-stbar",
+  "source": "github-search",
+  "description": "DOOM (1993)-inspired skin for the pi coding agent — terminal theme, web face, and a native desktop app with full filesystem + shell. Beveled HUD plates, signal colors, sharp corners.",
+  "metadata": {
+    "github_url": "https://github.com/TheAmericanMaker/pi-stbar",
+    "repo_full_name": "TheAmericanMaker/pi-stbar",
+    "description": "DOOM (1993)-inspired skin for the pi coding agent — terminal theme, web face, and a native desktop app with full filesystem + shell. Beveled HUD plates, signal colors, sharp corners.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-21T01:04:02Z",
+    "pushed_at": "2026-05-21T15:10:31Z",
+    "updated_at": "2026-05-21T15:26:23Z",
+    "size": 910,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

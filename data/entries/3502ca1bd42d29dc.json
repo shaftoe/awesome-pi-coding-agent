@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Helmi/pi-event-monitor",
     "repo_full_name": "Helmi/pi-event-monitor",
     "description": "Adds background event monitors to pi coding agent sessions: watch shell output or file system changes, wake the session only on real events.",
-    "stars": 9,
+    "stars": 10,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -27,7 +27,7 @@
     "archived": false,
     "created_at": "2026-05-12T09:58:18Z",
     "pushed_at": "2026-05-12T14:39:51Z",
-    "updated_at": "2026-05-19T10:27:37Z",
+    "updated_at": "2026-05-21T23:08:43Z",
     "size": 26,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

@@ -9,7 +9,7 @@
     "repo_full_name": "mcowger/pi-action",
     "description": "GitHub Action to invoke the PI coding agent on issues and PRs via comment triggers",
     "stars": 2,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

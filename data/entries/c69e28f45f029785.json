@@ -10,7 +10,7 @@
     "description": "A web UI for viewing and controlling the local pi coding agent in your browser.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "pi-dev",
       "pi-mono"
@@ -18,15 +18,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-13T07:05:06Z",
-    "pushed_at": "2026-05-21T00:03:59Z",
-    "updated_at": "2026-05-20T17:11:31Z",
-    "size": 1336,
+    "pushed_at": "2026-05-21T23:16:57Z",
+    "updated_at": "2026-05-21T23:16:58Z",
+    "size": 1471,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 70,
-    "level": "active"
+    "score": 62,
+    "level": "maintained"
   },
   "category": "misc"
 }

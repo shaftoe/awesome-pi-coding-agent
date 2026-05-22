@@ -8,7 +8,7 @@
     "github_url": "https://github.com/0xKobold/pi-persona",
     "repo_full_name": "0xKobold/pi-persona",
     "description": "Persona extension for pi agents — SOUL.md, IDENTITY.md, USER.md loading, scaffolding, and system prompt injection",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-09T01:47:10Z",
     "pushed_at": "2026-04-09T02:06:01Z",
-    "updated_at": "2026-04-19T04:19:50Z",
+    "updated_at": "2026-05-21T04:15:02Z",
     "size": 20,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

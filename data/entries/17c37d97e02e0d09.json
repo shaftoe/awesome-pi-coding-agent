@@ -1,0 +1,24 @@
+{
+  "id": "YT_LtcklC3FFhg",
+  "name": "Oh My Pi: AI Coding Agent That Actually Understands Your Codebase",
+  "url": "https://youtube.com/watch?v=LtcklC3FFhg",
+  "source": "youtube-search",
+  "description": "Oh My Pi is an AI coding agent designed for developers who want intelligent code editing without the guesswork. It uses ...",
+  "metadata": {
+    "title": "Oh My Pi: AI Coding Agent That Actually Understands Your Codebase",
+    "name": "Oh My Pi: AI Coding Agent That Actually Understands Your Codebase",
+    "description": "Oh My Pi is an AI coding agent designed for developers who want intelligent code editing without the guesswork. It uses ...",
+    "channel": "OnlyCS",
+    "published_at": "2026-05-21T16:06:06Z",
+    "thumbnail": "https://i.ytimg.com/vi/LtcklC3FFhg/hqdefault.jpg",
+    "views": 63,
+    "likes": 1,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-coding-agent"
+  },
+  "health": {
+    "score": 39,
+    "level": "stale"
+  },
+  "category": "video"
+}

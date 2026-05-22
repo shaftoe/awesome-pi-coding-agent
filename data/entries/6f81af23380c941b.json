@@ -10,7 +10,7 @@
     "description": "Agent plugins for glance.sh — temporary image sharing for coding agents",
     "stars": 7,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "coding-agents",
       "opencode",
@@ -19,9 +19,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-07T03:39:46Z",
-    "pushed_at": "2026-05-15T16:46:27Z",
+    "pushed_at": "2026-05-21T16:03:55Z",
     "updated_at": "2026-05-07T13:50:57Z",
-    "size": 261,
+    "size": 262,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

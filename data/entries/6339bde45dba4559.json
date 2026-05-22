@@ -1,0 +1,36 @@
+{
+  "id": "pi-extension-wandb",
+  "name": "pi-extension-wandb",
+  "url": "https://www.npmjs.com/package/pi-extension-wandb",
+  "source": "npm-search",
+  "description": "pi coding agent extension that adds Weights & Biases Inference as a model provider",
+  "metadata": {
+    "github_url": "https://github.com/kirangadhave/pi-extension-wandb",
+    "repo_full_name": "kirangadhave/pi-extension-wandb",
+    "description": "pi coding agent extension that adds Weights & Biases Inference as a model provider",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "inference",
+      "llm",
+      "pi-extension",
+      "wandb",
+      "weights-and-biases"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-21T20:17:19Z",
+    "pushed_at": "2026-05-21T22:20:38Z",
+    "updated_at": "2026-05-21T22:20:42Z",
+    "size": 32,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

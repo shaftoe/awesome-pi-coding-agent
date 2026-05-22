@@ -1,0 +1,39 @@
+{
+  "id": "rjroy-oracle-keep",
+  "name": "rjroy-oracle-keep",
+  "url": "https://github.com/rjroy/oracle-keep",
+  "source": "github-search",
+  "description": "Browser UI for the pi coding agent. Wraps a pi session in a Next.js streaming interface with session persistence, tool call visibility, and compaction status.",
+  "metadata": {
+    "github_url": "https://github.com/rjroy/oracle-keep",
+    "repo_full_name": "rjroy/oracle-keep",
+    "description": "Browser UI for the pi coding agent. Wraps a pi session in a Next.js streaming interface with session persistence, tool call visibility, and compaction status.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai",
+      "bun",
+      "claude",
+      "coding-assistant",
+      "nextjs",
+      "pi-coding-agent",
+      "self-hosted",
+      "streaming",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-13T03:55:21Z",
+    "pushed_at": "2026-05-18T05:15:16Z",
+    "updated_at": "2026-05-21T02:49:14Z",
+    "size": 2761,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

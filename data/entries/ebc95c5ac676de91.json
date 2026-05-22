@@ -10,7 +10,7 @@
     "description": "Anthropic Claude models on Google Cloud Vertex AI for pi coding agent.",
     "stars": 7,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "anthropic",
       "claude",

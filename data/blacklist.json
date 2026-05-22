@@ -22711,5 +22711,293 @@
 		"reason": "Not about Pi coding agent - Solid Pod data model contract for LinX apps, unrelated to pi.dev",
 		"blacklisted_at": "2026-05-21T00:22:09.64Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=RDdB6rV51so",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:56.554Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agent-pattern-labs/iso-route",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:56.569Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/SSUIASDL/PiAgent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:56.631Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5DDjtLFW-RA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:56.641Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/ghostdevv/clank",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:56.653Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/TrebuchetDynamics/pi-package-development-loop",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:56.661Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=-we7iVySwkM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:56.67Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=-G4H2DmhR28",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:56.703Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/kjabal1231/AgentPilot",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:56.755Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=v9CluyLWJZY",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-22T00:00:56.813Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agent-pattern-labs/iso",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:56.818Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ysNItxr7m8c",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:56.841Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/pixel-agents-hq/pixel-agents",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:56.923Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=GYOvZ96DKG8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:56.974Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=awRQWBvE5eQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:56.978Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/gallen/pi-web-ui",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:56.991Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=c9-AbHhoCeI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:57.011Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/pc-style/supply-chain-guard",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:57.085Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/barryroodt/sleuthly",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:57.09Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=AKSaibogJn8",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-22T00:00:57.099Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=3xLpDc_6uVI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:57.125Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agent-pattern-labs/iso-harness",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:57.129Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/joelhooks/shitrat",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:57.132Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=nYH2F2Nbx1Y",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-22T00:00:57.151Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-working-message",
+		"reason": "Duplicate of viartemev-pi-working-message (GitHub entry has higher score 43 vs 5)",
+		"blacklisted_at": "2026-05-22T00:05:33.149Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/skynex-pi",
+		"reason": "Duplicate of joeldevz-skynex-pi (GitHub entry has higher score 53 vs 5)",
+		"blacklisted_at": "2026-05-22T00:05:33.209Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/tarsgate/awto-pi-lot",
+		"reason": "Duplicate of awto-pi-lot (npm entry has higher score 91 vs 66)",
+		"blacklisted_at": "2026-05-22T00:05:42.867Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/cortexkit/magic-context",
+		"reason": "Duplicate of @cortexkit/pi-magic-context (npm entry, same score 91)",
+		"blacklisted_at": "2026-05-22T00:06:05.678Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/jmfederico/pi-web",
+		"reason": "Duplicate of @jmfederico/pi-web (npm entry has higher score 91 vs 76)",
+		"blacklisted_at": "2026-05-22T00:06:29.722Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/gooyoung/pi-langfuse",
+		"reason": "Duplicate of pi-langfuse (npm entry has higher score 82 vs 58)",
+		"blacklisted_at": "2026-05-22T00:06:29.783Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/agenticoding/pi-agenticoding",
+		"reason": "Duplicate of pi-agenticoding (npm entry has higher score 82 vs 58)",
+		"blacklisted_at": "2026-05-22T00:06:50.948Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Felixoid/pi-yank",
+		"reason": "Duplicate of @felixoid/py-yank (npm entry has higher score 72 vs 58)",
+		"blacklisted_at": "2026-05-22T00:08:26.611Z",
+		"source": "manual"
 	}
 ]

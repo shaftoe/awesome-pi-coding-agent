@@ -1,0 +1,36 @@
+{
+  "id": "pi-icm-hook",
+  "name": "pi-icm-hook",
+  "url": "https://www.npmjs.com/package/pi-icm-hook",
+  "source": "npm-search",
+  "description": "Pi extension wrapping ICM (Infinite Context Memory) as native Pi tools and lifecycle hooks — semantic, cross-session, cross-project recall via the local icm CLI.",
+  "metadata": {
+    "github_url": "https://github.com/ta3pks/pi-icm-hook",
+    "npm_name": "pi-icm-hook",
+    "description": "Pi extension wrapping ICM (Infinite Context Memory) as native Pi tools and lifecycle hooks — semantic, cross-session, cross-project recall via the local icm CLI.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "icm",
+      "memory",
+      "persistent",
+      "semantic-search",
+      "context",
+      "recall"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-05-21T16:24:54.491Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

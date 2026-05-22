@@ -1,0 +1,29 @@
+{
+  "id": "fhaze-pi-plan-mode",
+  "name": "fhaze-pi-plan-mode",
+  "url": "https://github.com/fhaze/pi-plan-mode",
+  "source": "github-search",
+  "description": "Read-only plan mode for Pi coding agent with execution tracking",
+  "metadata": {
+    "github_url": "https://github.com/fhaze/pi-plan-mode",
+    "repo_full_name": "fhaze/pi-plan-mode",
+    "description": "Read-only plan mode for Pi coding agent with execution tracking",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-21T01:54:37Z",
+    "pushed_at": "2026-05-21T23:03:34Z",
+    "updated_at": "2026-05-21T23:03:38Z",
+    "size": 83,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

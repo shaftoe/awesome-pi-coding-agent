@@ -16,18 +16,18 @@
       "wizard",
       "skills"
     ],
-    "version": "0.5.1",
-    "published_at": "2026-05-20T15:33:37.225Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.5.4",
+    "published_at": "2026-05-21T11:32:54.419Z",
+    "npm_downloads_monthly": 474,
+    "npm_downloads_weekly": 474,
+    "npm_score_final": 23.559412,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 72,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

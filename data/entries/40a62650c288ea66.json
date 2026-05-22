@@ -1,0 +1,29 @@
+{
+  "id": "juanrgon-pi-thinktank",
+  "name": "juanrgon-pi-thinktank",
+  "url": "https://github.com/juanrgon/pi-thinktank",
+  "source": "github-search",
+  "description": "Thinktank Room Extension for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/juanrgon/pi-thinktank",
+    "repo_full_name": "juanrgon/pi-thinktank",
+    "description": "Thinktank Room Extension for Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-21T20:45:45Z",
+    "pushed_at": "2026-05-21T23:05:06Z",
+    "updated_at": "2026-05-21T23:05:10Z",
+    "size": 61,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}
