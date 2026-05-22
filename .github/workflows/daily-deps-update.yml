@@ -2,67 +2,28 @@ name: Daily Dependency Update
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Runs daily at 06:00 UTC and can also be triggered manually.
-# Calls the reusable update-bun-deps workflow to bump packages and open a PR,
-# then uses the Pi coding agent to review the PR for breaking changes.
+# Calls the reusable update-bun-deps workflow to bump packages and open a PR.
 # ─────────────────────────────────────────────────────────────────────────────
 
 on:
   schedule:
-    - cron: "0 6 * * *" # every day at 06:00 UTC
+    - cron: "0 6 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
-  pull-requests: write
 
 jobs:
   update-deps:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v6
-
-      - uses: actions/setup-node@v6
-        with:
-          node-version: 24
-
-      - uses: oven-sh/setup-bun@v2
-
-      - run: bun install --frozen-lockfile
-
-      - name: Update dependencies
-        uses: shaftoe/update-bun-dependencies-action@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          latest: 'true'
-          create-pr: 'true'
-          pr-branch: 'deps/update'
-          pr-title: 'chore: update dependencies'
-          pr-commit-message: 'chore: update dependencies'
-          pr-labels: 'dependencies,automated'
+    uses: shaftoe/update-bun-dependencies-action/.github/workflows/update-bun-dependencies.yml@v1
+    with:
+      latest: true
+      pr-title: "chore: update dependencies"
+      pr-commit-message: "chore: update dependencies"
+      post-update-run: "bun run test"
 
   update-deps-astro:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v6
-
-      - uses: actions/setup-node@v6
-        with:
-          node-version: 24
-
-      - uses: oven-sh/setup-bun@v2
-
-      - run: bun install --frozen-lockfile
-
-      - name: Update dependencies (Astro)
-        uses: shaftoe/update-bun-dependencies-action@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          working-directory: 'site/'
-          latest: 'true'
-          create-pr: 'true'
-          pr-branch: 'deps/update'
-          pr-title: 'chore: update dependencies (Astro)'
-          pr-commit-message: 'chore: update dependencies (Astro)'
-          pr-labels: 'dependencies,automated'
+    uses: shaftoe/update-bun-dependencies-action/.github/workflows/update-bun-dependencies.yml@v1
+    with:
+      working-directory: "site/"
+      latest: true
+      pr-title: "chore: update dependencies (Astro)"
+      pr-commit-message: "chore: update dependencies (Astro)"
+      post-update-run: "bun run build"
