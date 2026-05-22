@@ -8,7 +8,7 @@
     "github_url": "https://github.com/lawrencewzen/hero-coding",
     "repo_full_name": "lawrencewzen/hero-coding",
     "description": "Minimal autonomous coding agent MVP — drop user stories in inbox/, get git commits out. Built on top of pi-coding-agent.",
-    "stars": 0,
+    "stars": 9,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,13 +16,13 @@
     "archived": false,
     "created_at": "2026-04-28T13:28:36Z",
     "pushed_at": "2026-04-28T14:51:33Z",
-    "updated_at": "2026-04-29T03:37:44Z",
+    "updated_at": "2026-04-30T11:59:05Z",
     "size": 71,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
+    "score": 55,
     "level": "maintained"
   },
   "category": "misc"

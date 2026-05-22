@@ -3,19 +3,19 @@
   "name": "@apmantza/greedysearch-pi",
   "url": "https://www.npmjs.com/package/@apmantza/greedysearch-pi",
   "source": "npm-search",
-  "description": "Headless multi-engine AI search (Perplexity, Bing Copilot, Google AI) via browser automation -- NO API KEYS needed. Extracts answers with sources, optional synthesis. Grounded AI answers from real browser interactions.",
+  "description": "Pi extension: multi-engine AI search (Perplexity, Bing Copilot, Google AI) via browser automation -- NO API KEYS needed. Extracts answers with sources, optional Gemini synthesis. Grounded AI answers from real browser interactions.",
   "metadata": {
     "github_url": "https://github.com/apmantza/GreedySearch-pi",
     "npm_name": "@apmantza/greedysearch-pi",
-    "description": "Headless multi-engine AI search (Perplexity, Bing Copilot, Google AI) via browser automation -- NO API KEYS needed. Extracts answers with sources, optional synthesis. Grounded AI answers from real browser interactions.",
+    "description": "Pi extension: multi-engine AI search (Perplexity, Bing Copilot, Google AI) via browser automation -- NO API KEYS needed. Extracts answers with sources, optional Gemini synthesis. Grounded AI answers from real browser interactions.",
     "keywords": [
       "pi-package"
     ],
-    "version": "1.9.0",
-    "published_at": "2026-05-21T22:44:15.603Z",
-    "npm_downloads_monthly": 2952,
-    "npm_downloads_weekly": 261,
-    "npm_score_final": 31.418608,
+    "version": "1.8.5",
+    "published_at": "2026-04-29T12:12:52.139Z",
+    "npm_downloads_monthly": 4303,
+    "npm_downloads_weekly": 638,
+    "npm_score_final": 34.67729,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
@@ -25,5 +25,5 @@
     "score": 91,
     "level": "active"
   },
-  "category": "misc"
+  "category": "extension"
 }

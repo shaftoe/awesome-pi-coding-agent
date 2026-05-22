@@ -8,7 +8,7 @@
     "github_url": "https://github.com/gordonbrander/pi-memory-blocks",
     "repo_full_name": "gordonbrander/pi-memory-blocks",
     "description": "Letta-style memory blocks for Pi coding agent",
-    "stars": 6,
+    "stars": 5,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-08T04:02:43Z",
     "pushed_at": "2026-03-10T08:09:36Z",
-    "updated_at": "2026-05-20T00:30:39Z",
+    "updated_at": "2026-03-17T17:30:36Z",
     "size": 179,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

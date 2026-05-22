@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Jon-Vii/pi-imagegen",
     "repo_full_name": "Jon-Vii/pi-imagegen",
     "description": "Pi package for OpenAI/Codex subscription image generation with a local browser studio, batches, refs, and sketch inputs",
-    "stars": 5,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-26T15:38:59Z",
-    "pushed_at": "2026-04-30T12:28:47Z",
-    "updated_at": "2026-05-16T01:07:30Z",
-    "size": 5237,
+    "pushed_at": "2026-04-30T12:05:24Z",
+    "updated_at": "2026-04-30T12:05:29Z",
+    "size": 5185,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

@@ -3,34 +3,40 @@
   "name": "pi-agent-booster-pack",
   "url": "https://www.npmjs.com/package/pi-agent-booster-pack",
   "source": "npm-search",
-  "description": "Engineering quality focused skills for AI coding agents. Includes hooks and gates for Pi and Claude Code.",
+  "description": "Agent Booster Pack helps Pi produce code that is well-organized, low in complexity and side effects, and is secure and high-performing.",
   "metadata": {
     "github_url": "https://github.com/kreek/agent-booster-pack",
-    "repo_full_name": "kreek/agent-booster-pack",
-    "description": "Engineering quality focused skills for AI coding agents. Includes hooks and gates for Pi and Claude Code.",
-    "stars": 1,
-    "forks": 0,
-    "open_issues": 0,
-    "topics": [
-      "agentic",
-      "ai-agents",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-skills",
-      "codex-plugin"
+    "npm_name": "pi-agent-booster-pack",
+    "description": "Agent Booster Pack helps Pi produce code that is well-organized, low in complexity and side effects, and is secure and high-performing.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "agent-skills",
+      "skills",
+      "abp",
+      "agent-booster-pack",
+      "engineering",
+      "code-review",
+      "proof",
+      "testing",
+      "security",
+      "debugging",
+      "refactoring"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-04-24T18:23:24Z",
-    "pushed_at": "2026-05-20T11:31:51Z",
-    "updated_at": "2026-05-20T11:31:55Z",
-    "size": 31590,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "version": "4.0.0",
+    "published_at": "2026-04-28T18:45:22.417Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 72,
+    "level": "active"
   },
   "category": "extension"
 }

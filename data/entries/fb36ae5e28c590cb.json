@@ -8,7 +8,7 @@
     "github_url": "https://github.com/minghinmatthewlam/pi-subagents",
     "repo_full_name": "minghinmatthewlam/pi-subagents",
     "description": "Codex-style multi-agent orchestration for pi",
-    "stars": 18,
+    "stars": 17,
     "forks": 3,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-25T15:30:25Z",
     "pushed_at": "2026-03-26T17:21:09Z",
-    "updated_at": "2026-05-01T12:55:08Z",
+    "updated_at": "2026-04-23T15:14:03Z",
     "size": 17448,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -8,9 +8,9 @@
     "github_url": "https://github.com/junghan0611/agent-config",
     "repo_full_name": "junghan0611/agent-config",
     "description": "Contextual continuity infrastructure for AI coding agents — semantic memory across sessions and org-mode knowledge bases. Pi extension + Gemini Embedding 2 + LanceDB.",
-    "stars": 5,
+    "stars": 4,
     "forks": 0,
-    "open_issues": 5,
+    "open_issues": 0,
     "topics": [
       "ai-agent",
       "embedding",
@@ -23,15 +23,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2025-11-14T02:57:43Z",
-    "pushed_at": "2026-05-17T22:47:30Z",
-    "updated_at": "2026-05-17T22:47:34Z",
-    "size": 1421,
+    "pushed_at": "2026-04-30T10:14:48Z",
+    "updated_at": "2026-04-30T10:14:53Z",
+    "size": 1047,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 70,
-    "level": "active"
+    "score": 62,
+    "level": "maintained"
   },
   "category": "extension"
 }

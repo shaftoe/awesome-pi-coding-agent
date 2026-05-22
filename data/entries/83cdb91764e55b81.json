@@ -8,7 +8,7 @@
     "github_url": "https://github.com/zogzog26/rtk-pi",
     "repo_full_name": "zogzog26/rtk-pi",
     "description": "Lightweight Pi extension to the RTK CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Uses's RTK's single Rust binary with zero dependencies.",
-    "stars": 2,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-03-20T20:59:15Z",
     "pushed_at": "2026-04-15T21:05:42Z",
-    "updated_at": "2026-05-15T21:30:42Z",
+    "updated_at": "2026-04-15T21:05:47Z",
     "size": 127,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

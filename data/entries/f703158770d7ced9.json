@@ -8,7 +8,7 @@
     "github_url": "https://github.com/rhnvrm/pi-mesh",
     "repo_full_name": "rhnvrm/pi-mesh",
     "description": "Multi-agent coordination for Pi - presence, messaging, file reservations",
-    "stars": 70,
+    "stars": 69,
     "forks": 1,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-06T08:39:44Z",
     "pushed_at": "2026-04-01T10:29:09Z",
-    "updated_at": "2026-05-20T11:43:13Z",
+    "updated_at": "2026-04-20T17:54:23Z",
     "size": 98,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

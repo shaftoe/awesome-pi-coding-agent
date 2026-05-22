@@ -3,11 +3,11 @@
   "name": "TACH04-pi-calendar",
   "url": "https://github.com/TACH04/pi-calendar",
   "source": "github-search",
-  "description": "Equips pi agent with google calendar tools.",
+  "description": "Equips Pi agent with google calendar tools.",
   "metadata": {
     "github_url": "https://github.com/TACH04/pi-calendar",
     "repo_full_name": "TACH04/pi-calendar",
-    "description": "Equips pi agent with google calendar tools. ",
+    "description": "Equips Pi agent with google calendar tools. ",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-22T23:51:13Z",
     "pushed_at": "2026-04-27T23:37:58Z",
-    "updated_at": "2026-05-01T09:24:08Z",
+    "updated_at": "2026-04-27T23:38:02Z",
     "size": 73,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

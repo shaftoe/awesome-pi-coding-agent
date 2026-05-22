@@ -13,17 +13,17 @@
     ],
     "version": "0.1.0",
     "published_at": "2026-04-02T01:41:17.893Z",
-    "npm_downloads_monthly": 63,
+    "npm_downloads_monthly": 168,
     "npm_downloads_weekly": 11,
-    "npm_score_final": 14.768699,
+    "npm_score_final": 19.814526,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 69,
-    "level": "maintained"
+    "score": 75,
+    "level": "active"
   },
   "category": "extension"
 }

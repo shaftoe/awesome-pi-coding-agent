@@ -8,7 +8,7 @@
     "github_url": "https://github.com/imran-vz/pi-observability",
     "repo_full_name": "imran-vz/pi-observability",
     "description": "A pi extension that replaces the default footer with a live observability bar and provides a full dashboard command.",
-    "stars": 7,
+    "stars": 6,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -19,7 +19,7 @@
     "archived": false,
     "created_at": "2026-04-18T08:35:31Z",
     "pushed_at": "2026-04-29T12:20:07Z",
-    "updated_at": "2026-05-01T22:58:45Z",
+    "updated_at": "2026-04-29T17:00:40Z",
     "size": 14375,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

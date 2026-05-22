@@ -11,13 +11,13 @@
     "channel": "TechWealth Hub",
     "published_at": "2026-02-02T16:27:33Z",
     "thumbnail": "https://i.ytimg.com/vi/0cBr6WVt1t8/hqdefault.jpg",
-    "views": 47,
+    "views": 48,
     "likes": 0,
     "comments": 0,
     "discovery_hint": "youtube:pi-coding-agent"
   },
   "health": {
-    "score": 32,
+    "score": 25,
     "level": "stale"
   },
   "category": "video"

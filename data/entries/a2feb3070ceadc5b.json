@@ -16,18 +16,18 @@
       "orchestration",
       "coding-agent"
     ],
-    "version": "1.0.16",
-    "published_at": "2026-05-13T10:57:41.244Z",
-    "npm_downloads_monthly": 792,
-    "npm_downloads_weekly": 44,
-    "npm_score_final": 25.394918,
+    "version": "1.0.14",
+    "published_at": "2026-04-24T14:56:43.174Z",
+    "npm_downloads_monthly": 1637,
+    "npm_downloads_weekly": 447,
+    "npm_score_final": 29.78935,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 82,
+    "score": 91,
     "level": "active"
   },
   "category": "extension"

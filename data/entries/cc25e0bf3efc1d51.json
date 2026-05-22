@@ -9,7 +9,7 @@
     "repo_full_name": "vedang/pi-prompt-history",
     "description": "A Ctrl-R style prompt history search extension for Pi",
     "stars": 2,
-    "forks": 2,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "pi-package"

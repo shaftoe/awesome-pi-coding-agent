@@ -3,11 +3,11 @@
   "name": "awto-pi-lot",
   "url": "https://www.npmjs.com/package/awto-pi-lot",
   "source": "npm-search",
-  "description": "pi-coding-agent extension that adds PPQ.ai provider and their AutoClaw model",
+  "description": "pi-coding-agent extension that adds PPQ.ai provider and default AutoClaw model",
   "metadata": {
     "github_url": "https://github.com/tarsgate/awto-pi-lot",
     "npm_name": "awto-pi-lot",
-    "description": "pi-coding-agent extension that adds PPQ.ai provider and their AutoClaw model",
+    "description": "pi-coding-agent extension that adds PPQ.ai provider and default AutoClaw model",
     "keywords": [
       "pi",
       "pi-package",
@@ -24,18 +24,18 @@
       "bitcoin",
       "lightning"
     ],
-    "version": "2.73.99",
-    "published_at": "2026-05-08T13:53:46.664Z",
-    "npm_downloads_monthly": 1055,
-    "npm_downloads_weekly": 284,
-    "npm_score_final": 26.994007,
+    "version": "2.70.6",
+    "published_at": "2026-04-29T15:09:17.490Z",
+    "npm_downloads_monthly": 759,
+    "npm_downloads_weekly": 162,
+    "npm_score_final": 26.847057,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 91,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

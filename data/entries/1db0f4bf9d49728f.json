@@ -24,18 +24,18 @@
       "technical-analysis",
       "pi-package"
     ],
-    "version": "0.4.0",
-    "published_at": "2026-05-16T04:02:48.105Z",
-    "npm_downloads_monthly": 1383,
-    "npm_downloads_weekly": 232,
-    "npm_score_final": 27.09713,
+    "version": "0.3.0",
+    "published_at": "2026-04-20T16:40:18.290Z",
+    "npm_downloads_monthly": 578,
+    "npm_downloads_weekly": 218,
+    "npm_score_final": 25.909945,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 91,
+    "score": 75,
     "level": "active"
   },
   "category": "misc"

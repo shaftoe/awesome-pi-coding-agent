@@ -3,31 +3,32 @@
   "name": "@vaayne/pi-rules",
   "url": "https://www.npmjs.com/package/@vaayne/pi-rules",
   "source": "npm-search",
-  "description": "Reusable skills and extensions for Pi coding agent",
+  "description": "Pi extension for delegating tasks to specialized agents",
   "metadata": {
     "github_url": "https://github.com/vaayne/agent-kit",
-    "npm_name": "@vaayne/agent-kit",
-    "description": "Reusable skills and extensions for Pi coding agent",
+    "npm_name": "@vaayne/pi-subagent",
+    "description": "Pi extension for delegating tasks to specialized agents",
     "keywords": [
+      "agent",
+      "ai",
+      "delegation",
+      "pi-extension",
       "pi-package",
-      "ai-agent",
-      "coding-assistant",
-      "skills",
-      "extensions"
+      "agent"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-01-27T08:28:18.692Z",
-    "npm_downloads_monthly": 115,
-    "npm_downloads_weekly": 28,
-    "npm_score_final": 16.858372,
+    "version": "0.3.0",
+    "published_at": "2026-04-16T08:34:42.212Z",
+    "npm_downloads_monthly": 595,
+    "npm_downloads_weekly": 18,
+    "npm_score_final": 26.04196,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 68,
-    "level": "maintained"
+    "score": 75,
+    "level": "active"
   },
   "category": "extension"
 }

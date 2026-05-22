@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Graffioh/pi-super-curl",
     "repo_full_name": "Graffioh/pi-super-curl",
     "description": "pi extension to empower a curl request with coding agent capabilities (slopcoded)",
-    "stars": 9,
+    "stars": 8,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -20,7 +20,7 @@
     "archived": false,
     "created_at": "2026-01-29T10:47:12Z",
     "pushed_at": "2026-04-28T20:40:09Z",
-    "updated_at": "2026-05-11T17:28:06Z",
+    "updated_at": "2026-04-28T20:40:13Z",
     "size": 8079,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

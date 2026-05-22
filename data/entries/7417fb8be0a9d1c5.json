@@ -26,14 +26,14 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-25T21:07:27Z",
-    "pushed_at": "2026-05-08T03:48:04Z",
-    "updated_at": "2026-05-08T03:48:08Z",
-    "size": 16,
+    "pushed_at": "2026-04-06T01:25:51Z",
+    "updated_at": "2026-04-06T01:25:55Z",
+    "size": 13,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
+    "score": 43,
     "level": "maintained"
   },
   "category": "extension"

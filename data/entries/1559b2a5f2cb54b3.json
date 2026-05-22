@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tensorfish/pi-telegram",
     "repo_full_name": "tensorfish/pi-telegram",
     "description": "Connect Pi Agent Harness to Telegram",
-    "stars": 18,
+    "stars": 17,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-17T08:31:22Z",
     "pushed_at": "2026-03-17T23:58:15Z",
-    "updated_at": "2026-05-10T13:41:51Z",
+    "updated_at": "2026-04-10T23:50:36Z",
     "size": 71,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

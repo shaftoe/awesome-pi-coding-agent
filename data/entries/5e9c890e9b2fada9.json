@@ -1,0 +1,31 @@
+{
+  "id": "larsderidder-context-lens",
+  "name": "larsderidder-context-lens",
+  "url": "https://github.com/larsderidder/context-lens",
+  "source": "github-search",
+  "description": "See what your AI sees. Framework-agnostic LLM context window visualizer.",
+  "metadata": {
+    "github_url": "https://github.com/larsderidder/context-lens",
+    "repo_full_name": "larsderidder/context-lens",
+    "description": "See what your AI sees. Framework-agnostic LLM context window visualizer.",
+    "stars": 351,
+    "forks": 29,
+    "open_issues": 7,
+    "topics": [
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-07T22:39:52Z",
+    "pushed_at": "2026-05-19T14:54:36Z",
+    "updated_at": "2026-05-21T10:21:10Z",
+    "size": 6020,
+    "license": "MIT",
+    "discovery_hint": "github:add-url"
+  },
+  "health": {
+    "score": 85,
+    "level": "active"
+  },
+  "category": "misc"
+}

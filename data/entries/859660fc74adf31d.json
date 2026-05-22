@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Yvem/hello-world--pi-agent-core--2026",
     "repo_full_name": "Yvem/hello-world--pi-agent-core--2026",
     "description": "https://github.com/badlogic/pi-mono/tree/main/packages/agent",
-    "stars": 1,
+    "stars": 0,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,13 +16,13 @@
     "archived": false,
     "created_at": "2026-04-19T22:00:06Z",
     "pushed_at": "2026-04-19T22:12:52Z",
-    "updated_at": "2026-05-17T04:52:54Z",
+    "updated_at": "2026-04-19T22:12:56Z",
     "size": 21,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 48,
+    "score": 43,
     "level": "maintained"
   },
   "category": "misc"

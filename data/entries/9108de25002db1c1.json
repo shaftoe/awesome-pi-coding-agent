@@ -10,19 +10,19 @@
     "description": "my personal extensions, skills, themes for pi.dev agent",
     "stars": 0,
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 2,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-26T18:48:49Z",
-    "pushed_at": "2026-05-20T18:39:11Z",
-    "updated_at": "2026-05-20T18:39:15Z",
-    "size": 3998,
+    "pushed_at": "2026-04-30T07:05:08Z",
+    "updated_at": "2026-04-30T07:05:13Z",
+    "size": 150,
     "license": null,
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
   "health": {
-    "score": 66,
+    "score": 61,
     "level": "maintained"
   },
   "category": "extension"

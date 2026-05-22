@@ -8,7 +8,7 @@
     "github_url": "https://github.com/bparlan/pi-specdriven-agenticengineer",
     "repo_full_name": "bparlan/pi-specdriven-agenticengineer",
     "description": "My global Pi.dev / pi-coding-agent setup for Spec-Driven Agentic Engineering — extensions, skills, prompts, memory files, reflect config + one-click restore",
-    "stars": 19,
+    "stars": 18,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-04T18:22:53Z",
     "pushed_at": "2026-03-06T00:28:54Z",
-    "updated_at": "2026-05-11T15:08:00Z",
+    "updated_at": "2026-04-28T05:37:33Z",
     "size": 83,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

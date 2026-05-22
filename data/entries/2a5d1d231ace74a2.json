@@ -8,8 +8,8 @@
     "github_url": "https://github.com/MasuRii/pi-smart-voice-notify",
     "repo_full_name": "MasuRii/pi-smart-voice-notify",
     "description": "Cross-platform smart voice, sound, and desktop notifications for Pi coding agent (Windows, Linux, macOS)",
-    "stars": 8,
-    "forks": 2,
+    "stars": 6,
+    "forks": 1,
     "open_issues": 1,
     "topics": [
       "audio",
@@ -33,9 +33,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-02T07:23:40Z",
-    "pushed_at": "2026-05-08T17:20:03Z",
-    "updated_at": "2026-05-04T03:28:31Z",
-    "size": 2214,
+    "pushed_at": "2026-04-29T22:36:00Z",
+    "updated_at": "2026-04-28T22:34:54Z",
+    "size": 2066,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/rynfar/meridian-plugin-pi-scrub",
     "repo_full_name": "rynfar/meridian-plugin-pi-scrub",
     "description": "Meridian plugin: strip pi-coding-agent identity fingerprints from the system prompt before it reaches Claude",
-    "stars": 7,
+    "stars": 6,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-20T02:57:39Z",
     "pushed_at": "2026-04-26T18:10:45Z",
-    "updated_at": "2026-05-12T17:34:57Z",
+    "updated_at": "2026-04-27T17:08:44Z",
     "size": 18,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

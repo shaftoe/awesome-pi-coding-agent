@@ -8,8 +8,8 @@
     "github_url": "https://github.com/jjmartres/ai-coding-agents",
     "repo_full_name": "jjmartres/ai-coding-agents",
     "description": "Single source of truth for AI coding agent configuration — skills, commands and rules shared across OpenCode and Pi.",
-    "stars": 19,
-    "forks": 2,
+    "stars": 8,
+    "forks": 3,
     "open_issues": 0,
     "topics": [
       "agents",
@@ -27,14 +27,14 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-19T15:31:49Z",
-    "pushed_at": "2026-05-15T15:35:19Z",
-    "updated_at": "2026-05-14T15:47:14Z",
-    "size": 2370,
+    "pushed_at": "2026-04-29T12:41:48Z",
+    "updated_at": "2026-04-30T01:47:07Z",
+    "size": 2293,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 68,
+    "score": 62,
     "level": "maintained"
   },
   "category": "extension"

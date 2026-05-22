@@ -10,20 +10,20 @@
     "description": "Thin flake wrapper around upstream pi-mono with local patches and extension packages",
     "stars": 0,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 10,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-16T20:41:34Z",
-    "pushed_at": "2026-05-17T10:23:16Z",
-    "updated_at": "2026-05-14T23:37:25Z",
-    "size": 16941,
+    "pushed_at": "2026-04-30T11:36:05Z",
+    "updated_at": "2026-04-30T11:36:09Z",
+    "size": 315,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 72,
-    "level": "active"
+    "score": 61,
+    "level": "maintained"
   },
   "category": "extension"
 }

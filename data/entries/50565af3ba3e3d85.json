@@ -8,8 +8,8 @@
     "github_url": "https://github.com/default-anton/pi-subdir-context",
     "repo_full_name": "default-anton/pi-subdir-context",
     "description": "Automatically load AGENTS.md context from subdirectories in pi coding agent",
-    "stars": 26,
-    "forks": 1,
+    "stars": 20,
+    "forks": 0,
     "open_issues": 0,
     "topics": [
       "agents",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-01-27T19:39:55Z",
-    "pushed_at": "2026-05-07T16:49:39Z",
-    "updated_at": "2026-05-16T21:04:04Z",
-    "size": 298,
+    "pushed_at": "2026-04-23T05:45:23Z",
+    "updated_at": "2026-04-26T03:43:22Z",
+    "size": 255,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

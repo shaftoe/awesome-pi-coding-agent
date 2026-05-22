@@ -10,7 +10,7 @@
     "description": "Pi extension that protects sensitive files, blocks secret writes, and optionally redacts protected read output.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "git-protection",
       "pi",
@@ -26,9 +26,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-28T10:38:00Z",
-    "pushed_at": "2026-05-08T18:10:03Z",
-    "updated_at": "2026-05-04T01:27:19Z",
-    "size": 131,
+    "pushed_at": "2026-04-28T10:54:08Z",
+    "updated_at": "2026-04-28T11:08:45Z",
+    "size": 68,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

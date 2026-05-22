@@ -17,18 +17,18 @@
       "hallucination",
       "model-comparison"
     ],
-    "version": "1.5.3",
-    "published_at": "2026-05-02T12:42:52.905Z",
-    "npm_downloads_monthly": 403,
-    "npm_downloads_weekly": 44,
-    "npm_score_final": 22.2063,
+    "version": "1.5.2",
+    "published_at": "2026-04-21T13:07:02.379Z",
+    "npm_downloads_monthly": 246,
+    "npm_downloads_weekly": 139,
+    "npm_score_final": 21.496738,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 82,
+    "score": 75,
     "level": "active"
   },
   "category": "extension"
