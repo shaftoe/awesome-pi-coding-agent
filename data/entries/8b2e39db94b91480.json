@@ -1,0 +1,41 @@
+{
+  "id": "remote-pi",
+  "name": "remote-pi",
+  "url": "https://www.npmjs.com/package/remote-pi",
+  "source": "npm-search",
+  "description": "Mobile remote control and local agent mesh for the Pi coding agent. Pair your phone via QR over a relay, watch tool calls in real time, run multi-Pi sessions over a local Unix Domain Socket broker, and let agents talk to each other through structured requ",
+  "metadata": {
+    "github_url": "https://github.com/jacobaraujo7/remote_pi",
+    "npm_name": "remote-pi",
+    "description": "Mobile remote control and local agent mesh for the Pi coding agent. Pair your phone via QR over a relay, watch tool calls in real time, run multi-Pi sessions over a local Unix Domain Socket broker, and let agents talk to each other through structured requ",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "remote-control",
+      "mobile",
+      "coding-agent",
+      "agent-mesh",
+      "agent-network",
+      "uds",
+      "broker",
+      "qr-pairing",
+      "websocket"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-05-22T20:29:16.623Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

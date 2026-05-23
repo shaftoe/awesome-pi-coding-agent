@@ -1,0 +1,31 @@
+{
+  "id": "pythoninthegrass-pi_config",
+  "name": "pythoninthegrass-pi_config",
+  "url": "https://github.com/pythoninthegrass/pi_config",
+  "source": "github-search",
+  "description": "pi coding agent config",
+  "metadata": {
+    "github_url": "https://github.com/pythoninthegrass/pi_config",
+    "repo_full_name": "pythoninthegrass/pi_config",
+    "description": "pi coding agent config",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-05T22:36:30Z",
+    "pushed_at": "2026-05-22T20:50:08Z",
+    "updated_at": "2026-05-22T20:50:12Z",
+    "size": 72,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 55,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

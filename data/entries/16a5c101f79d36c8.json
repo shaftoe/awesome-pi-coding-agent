@@ -1,0 +1,36 @@
+{
+  "id": "pi-star-router",
+  "name": "pi-star-router",
+  "url": "https://www.npmjs.com/package/pi-star-router",
+  "source": "npm-search",
+  "description": "StarRouter is a focused model-routing extension for Pi. It chooses the best available model and thinking level for each prompt using a deterministic heuristic prompt profiler, Artificial Analysis benchmark data, provider-scoped model pools, strict model i",
+  "metadata": {
+    "github_url": "https://github.com/ketchh/StarRouter",
+    "npm_name": "pi-star-router",
+    "description": "StarRouter is a focused model-routing extension for Pi. It chooses the best available model and thinking level for each prompt using a deterministic heuristic prompt profiler, Artificial Analysis benchmark data, provider-scoped model pools, strict model i",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-star-router",
+      "model-router",
+      "artificial-analysis",
+      "routing",
+      "llm-routing",
+      "pi"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-05-22T23:07:08.500Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

@@ -8,9 +8,9 @@
     "github_url": "https://github.com/mike-heunher/pipane",
     "repo_full_name": "mike-heunher/pipane",
     "description": "PIpane, a web UI for the PI agent",
-    "stars": 20,
-    "forks": 2,
-    "open_issues": 1,
+    "stars": 29,
+    "forks": 4,
+    "open_issues": 2,
     "topics": [
       "pi",
       "pi-mono"
@@ -19,7 +19,7 @@
     "archived": false,
     "created_at": "2026-03-01T19:14:42Z",
     "pushed_at": "2026-03-15T20:22:25Z",
-    "updated_at": "2026-04-30T08:09:35Z",
+    "updated_at": "2026-05-17T15:54:02Z",
     "size": 26259,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

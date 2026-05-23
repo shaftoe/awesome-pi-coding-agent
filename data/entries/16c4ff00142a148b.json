@@ -1,0 +1,36 @@
+{
+  "id": "@giovani-junior-dev/pi-coms-local",
+  "name": "@giovani-junior-dev/pi-coms-local",
+  "url": "https://www.npmjs.com/package/@giovani-junior-dev/pi-coms-local",
+  "source": "npm-search",
+  "description": "Pi-to-Pi local bidirectional communication package for Pi Coding Agent: run planner/coder peer agents on the same machine.",
+  "metadata": {
+    "github_url": "https://github.com/giovani-junior-dev/pi-coms-local",
+    "repo_full_name": "giovani-junior-dev/pi-coms-local",
+    "description": "Pi-to-Pi local bidirectional communication package for Pi Coding Agent: run planner/coder peer agents on the same machine.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-to-agent",
+      "bidirectional-agents",
+      "deepseek",
+      "multi-agent",
+      "pi-coding-agent",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-22T19:08:14Z",
+    "pushed_at": "2026-05-22T20:07:26Z",
+    "updated_at": "2026-05-22T20:07:28Z",
+    "size": 22,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

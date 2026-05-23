@@ -8,7 +8,7 @@
     "github_url": "https://github.com/acoyfellow/pai-agent",
     "repo_full_name": "acoyfellow/pai-agent",
     "description": "Pi Agent Core — Research & analysis agent as a Cloudflare Durable Object with shell access, tool use, and WebSocket streaming",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-12T16:55:45Z",
     "pushed_at": "2026-04-12T17:57:11Z",
-    "updated_at": "2026-04-27T15:30:09Z",
+    "updated_at": "2026-05-15T13:49:29Z",
     "size": 50,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

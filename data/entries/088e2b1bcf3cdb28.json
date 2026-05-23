@@ -10,7 +10,7 @@
     "description": "Adds Gemini ACP tools for prompt, search, research, extraction, summarization, code review, translation, image analysis in Pi",
     "stars": 3,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "gemini",
       "pi",

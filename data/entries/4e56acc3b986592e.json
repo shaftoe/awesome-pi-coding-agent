@@ -3,28 +3,31 @@
   "name": "@juicesharp/rpiv-advisor",
   "url": "https://www.npmjs.com/package/@juicesharp/rpiv-advisor",
   "source": "npm-search",
-  "description": "Pi extension: lets the model ask you a clarifying question with structured options instead of guessing",
+  "description": "Pi extension. The /btw slash command, for putting a one-off side question to the same primary model without polluting the main conversation.",
   "metadata": {
     "github_url": "https://github.com/juicesharp/rpiv-mono",
-    "npm_name": "@juicesharp/rpiv-ask-user-question",
-    "description": "Pi extension: lets the model ask you a clarifying question with structured options instead of guessing",
+    "npm_name": "@juicesharp/rpiv-btw",
+    "description": "Pi extension. The /btw slash command, for putting a one-off side question to the same primary model without polluting the main conversation.",
     "keywords": [
       "pi-package",
       "pi-extension",
-      "rpiv"
+      "rpiv",
+      "btw",
+      "side-question",
+      "overlay"
     ],
-    "version": "1.0.9",
-    "published_at": "2026-04-30T00:08:39.775Z",
-    "npm_downloads_monthly": 5147,
-    "npm_downloads_weekly": 2891,
-    "npm_score_final": 35.88813,
+    "version": "1.12.0",
+    "published_at": "2026-05-21T13:15:52.114Z",
+    "npm_downloads_monthly": 14523,
+    "npm_downloads_weekly": 4974,
+    "npm_score_final": 37.42748,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 91,
+    "score": 100,
     "level": "active"
   },
   "category": "extension"

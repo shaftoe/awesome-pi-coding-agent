@@ -22,17 +22,17 @@
     ],
     "version": "0.1.3",
     "published_at": "2026-04-17T07:29:36.397Z",
-    "npm_downloads_monthly": 472,
-    "npm_downloads_weekly": 472,
-    "npm_score_final": 35.786865,
+    "npm_downloads_monthly": 50,
+    "npm_downloads_weekly": 10,
+    "npm_score_final": 20.563679,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-agent"
   },
   "health": {
-    "score": 75,
-    "level": "active"
+    "score": 69,
+    "level": "maintained"
   },
   "category": "extension"
 }

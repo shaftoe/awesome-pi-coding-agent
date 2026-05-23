@@ -8,21 +8,21 @@
     "github_url": "https://github.com/ghoseb/pi-askuserquestion",
     "repo_full_name": "ghoseb/pi-askuserquestion",
     "description": "A tool for pi Coding Agent to ask questions via the TUI.",
-    "stars": 26,
-    "forks": 3,
-    "open_issues": 0,
+    "stars": 30,
+    "forks": 5,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-21T18:00:45Z",
     "pushed_at": "2026-03-31T12:44:44Z",
-    "updated_at": "2026-04-25T19:51:00Z",
+    "updated_at": "2026-05-21T01:28:44Z",
     "size": 405,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 57,
+    "score": 65,
     "level": "maintained"
   },
   "category": "extension"

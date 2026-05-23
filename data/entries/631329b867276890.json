@@ -15,18 +15,18 @@
       "hindsight",
       "memory"
     ],
-    "version": "1.4.1",
-    "published_at": "2026-04-28T19:31:53.804Z",
-    "npm_downloads_monthly": 879,
-    "npm_downloads_weekly": 659,
-    "npm_score_final": 27.032814,
+    "version": "1.4.2",
+    "published_at": "2026-04-30T18:23:17.900Z",
+    "npm_downloads_monthly": 1365,
+    "npm_downloads_weekly": 44,
+    "npm_score_final": 27.298868,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 82,
+    "score": 91,
     "level": "active"
   },
   "category": "extension"

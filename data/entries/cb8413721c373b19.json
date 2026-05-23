@@ -1,0 +1,29 @@
+{
+  "id": "TophC7-pi.nix",
+  "name": "TophC7-pi.nix",
+  "url": "https://github.com/TophC7/pi.nix",
+  "source": "github-search",
+  "description": "My personal pi agent setup",
+  "metadata": {
+    "github_url": "https://github.com/TophC7/pi.nix",
+    "repo_full_name": "TophC7/pi.nix",
+    "description": "My personal pi agent setup",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-22T02:24:31Z",
+    "pushed_at": "2026-05-22T02:28:51Z",
+    "updated_at": "2026-05-22T02:28:55Z",
+    "size": 762,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

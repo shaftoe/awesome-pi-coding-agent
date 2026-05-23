@@ -8,7 +8,7 @@
     "github_url": "https://github.com/phrazzld/pi-agent-config",
     "repo_full_name": "phrazzld/pi-agent-config",
     "description": "Versioned Pi agent config, ready to sync.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 4,
     "topics": [],
@@ -16,14 +16,14 @@
     "archived": false,
     "created_at": "2026-02-24T02:14:06Z",
     "pushed_at": "2026-03-31T16:08:48Z",
-    "updated_at": "2026-03-31T16:08:58Z",
+    "updated_at": "2026-05-06T03:59:38Z",
     "size": 17994,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 61,
+    "score": 69,
     "level": "maintained"
   },
-  "category": "misc"
+  "category": "extension"
 }

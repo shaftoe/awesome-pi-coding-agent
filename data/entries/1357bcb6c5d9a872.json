@@ -9,7 +9,7 @@
     "repo_full_name": "forjd/pi-package-search",
     "description": "Discover and install Pi packages from npm directly inside Pi.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "developer-tools",

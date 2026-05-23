@@ -3,27 +3,36 @@
   "name": "perminder-klair-locca",
   "url": "https://github.com/perminder-klair/locca",
   "source": "github-search",
-  "description": "A TUI around llama.cpp for running, managing, and benchmarking local GGUF models — and launching the pi coding agent against your local server.",
+  "description": "A TUI around llama.cpp for running, managing, and benchmarking local GGUF models and launching the pi coding agent against your local server.",
   "metadata": {
     "github_url": "https://github.com/perminder-klair/locca",
     "repo_full_name": "perminder-klair/locca",
-    "description": "A TUI around llama.cpp for running, managing, and benchmarking local GGUF models — and launching the pi coding agent against your local server.",
-    "stars": 0,
+    "description": "A TUI around llama.cpp for running, managing, and benchmarking local GGUF models and launching the pi coding agent against your local server.",
+    "stars": 11,
     "forks": 0,
-    "open_issues": 1,
-    "topics": [],
+    "open_issues": 2,
+    "topics": [
+      "coding-agent",
+      "gguf",
+      "huggingface",
+      "llama-cpp",
+      "llm",
+      "local-llm",
+      "openai-compatible",
+      "tui"
+    ],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-29T20:10:29Z",
-    "pushed_at": "2026-04-30T12:02:07Z",
-    "updated_at": "2026-04-30T12:02:10Z",
-    "size": 391,
+    "pushed_at": "2026-05-19T23:25:16Z",
+    "updated_at": "2026-05-22T10:31:11Z",
+    "size": 5386,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 61,
-    "level": "maintained"
+    "score": 76,
+    "level": "active"
   },
-  "category": "misc"
+  "category": "extension"
 }

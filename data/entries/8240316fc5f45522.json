@@ -1,0 +1,37 @@
+{
+  "id": "pi-rtk-rewrite",
+  "name": "pi-rtk-rewrite",
+  "url": "https://www.npmjs.com/package/pi-rtk-rewrite",
+  "source": "npm-search",
+  "description": "Automatic RTK rewrite integration for Pi bash tool calls (token-efficient command output)",
+  "metadata": {
+    "github_url": "https://github.com/viartemev/pi-rtk-rewrite",
+    "repo_full_name": "viartemev/pi-rtk-rewrite",
+    "description": "Automatic RTK rewrite integration for Pi bash tool calls (token-efficient command output)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "llm",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "rtk",
+      "token-optimization"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-05T12:13:12Z",
+    "pushed_at": "2026-05-22T07:52:08Z",
+    "updated_at": "2026-05-22T07:52:11Z",
+    "size": 12,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

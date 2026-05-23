@@ -8,7 +8,7 @@
     "github_url": "https://github.com/arpagon/pi-context-zone",
     "repo_full_name": "arpagon/pi-context-zone",
     "description": "Visual context health bar for the Pi coding agent — see your smart/warm/dumb zone at a glance",
-    "stars": 3,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-27T04:37:49Z",
     "pushed_at": "2026-03-27T04:45:59Z",
-    "updated_at": "2026-04-03T21:19:18Z",
+    "updated_at": "2026-05-15T13:53:04Z",
     "size": 7,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

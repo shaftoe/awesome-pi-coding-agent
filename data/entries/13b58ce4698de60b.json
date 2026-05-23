@@ -3,27 +3,30 @@
   "name": "pi-sub-agent",
   "url": "https://www.npmjs.com/package/pi-sub-agent",
   "source": "npm-search",
-  "description": "an extension for Pi agent that provides sub-agent functionality.",
+  "description": "A Pi package extension that provides sub-agent functionality.",
   "metadata": {
     "github_url": "https://github.com/HamdiMaz/pi-sub-agent",
-    "repo_full_name": "HamdiMaz/pi-sub-agent",
-    "description": "an extension for Pi agent that provides sub-agent functionality.",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "topics": [],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-05-12T16:12:12Z",
-    "pushed_at": "2026-05-18T12:39:34Z",
-    "updated_at": "2026-05-18T12:39:36Z",
-    "size": 422,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "npm_name": "pi-sub-agent",
+    "description": "A Pi package extension that provides sub-agent functionality.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "sub-agent",
+      "agent"
+    ],
+    "version": "0.1.5",
+    "published_at": "2026-05-18T12:41:09.505Z",
+    "npm_downloads_monthly": 662,
+    "npm_downloads_weekly": 552,
+    "npm_score_final": 23.86652,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 82,
+    "level": "active"
   },
   "category": "extension"
 }

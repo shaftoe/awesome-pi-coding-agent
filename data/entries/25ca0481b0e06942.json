@@ -8,8 +8,8 @@
     "github_url": "https://github.com/javiermolinar/pi-zellij",
     "repo_full_name": "javiermolinar/pi-zellij",
     "description": "Pi package with zellij-powered terminal integrations for Pi. Make your workflow agent driven.",
-    "stars": 7,
-    "forks": 0,
+    "stars": 10,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "pi-coding-agent",
@@ -18,9 +18,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-08T18:11:48Z",
-    "pushed_at": "2026-03-31T10:03:59Z",
-    "updated_at": "2026-04-27T01:08:29Z",
-    "size": 13585,
+    "pushed_at": "2026-04-30T14:41:38Z",
+    "updated_at": "2026-05-05T20:55:06Z",
+    "size": 13586,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

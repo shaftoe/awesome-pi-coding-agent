@@ -8,16 +8,16 @@
     "github_url": "https://github.com/Gentleman-Programming/gentle-pi",
     "repo_full_name": "Gentleman-Programming/gentle-pi",
     "description": "Gentle AI made-to-measure Pi agent",
-    "stars": 70,
+    "stars": 71,
     "forks": 15,
-    "open_issues": 14,
+    "open_issues": 12,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-10T10:11:33Z",
-    "pushed_at": "2026-05-18T17:27:30Z",
-    "updated_at": "2026-05-21T23:00:53Z",
-    "size": 43272,
+    "pushed_at": "2026-05-22T22:35:59Z",
+    "updated_at": "2026-05-22T22:35:43Z",
+    "size": 43304,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
@@ -25,5 +25,5 @@
     "score": 5,
     "level": "dead"
   },
-  "category": "misc"
+  "category": "extension"
 }

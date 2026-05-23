@@ -15,11 +15,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-30T05:58:51Z",
-    "pushed_at": "2026-04-30T06:01:09Z",
-    "updated_at": "2026-04-30T06:01:13Z",
-    "size": 41,
+    "pushed_at": "2026-05-10T16:12:03Z",
+    "updated_at": "2026-05-10T16:12:07Z",
+    "size": 46,
     "license": null,
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
     "score": 50,

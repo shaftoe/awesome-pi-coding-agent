@@ -6,24 +6,29 @@
   "description": "Browser automation tool for Pi via agent-browser CLI",
   "metadata": {
     "github_url": "https://github.com/victor-software-house/pi-agent-browser",
-    "repo_full_name": "victor-software-house/pi-agent-browser",
+    "npm_name": "@victor-software-house/pi-agent-browser",
     "description": "Browser automation tool for Pi via agent-browser CLI",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "topics": [],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-03-27T20:01:22Z",
-    "pushed_at": "2026-03-27T21:11:22Z",
-    "updated_at": "2026-03-27T20:03:04Z",
-    "size": 81,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "browser",
+      "automation",
+      "agent-browser"
+    ],
+    "version": "0.0.0",
+    "published_at": "2026-03-27T21:11:14.250Z",
+    "npm_downloads_monthly": 53,
+    "npm_downloads_weekly": 11,
+    "npm_score_final": 13.575437,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 69,
+    "level": "maintained"
   },
   "category": "extension"
 }

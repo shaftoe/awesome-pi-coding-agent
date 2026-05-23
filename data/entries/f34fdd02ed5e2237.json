@@ -11,14 +11,14 @@
     "channel": "WEBdoze",
     "published_at": "2026-05-21T10:46:51Z",
     "thumbnail": "https://i.ytimg.com/vi/gfw3jBeLeqs/hqdefault.jpg",
-    "views": 73,
-    "likes": 5,
+    "views": 122,
+    "likes": 9,
     "comments": 0,
-    "discovery_hint": "youtube:pi-agent"
+    "discovery_hint": "youtube:pi-coding-agent"
   },
   "health": {
-    "score": 39,
-    "level": "stale"
+    "score": 45,
+    "level": "maintained"
   },
   "category": "video"
 }

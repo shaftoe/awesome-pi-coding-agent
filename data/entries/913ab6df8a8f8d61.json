@@ -8,7 +8,7 @@
     "github_url": "https://github.com/agneym/pi-honcho-memory",
     "repo_full_name": "agneym/pi-honcho-memory",
     "description": "Honcho persistent memory extension for pi coding agent",
-    "stars": 11,
+    "stars": 15,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-25T10:59:23Z",
     "pushed_at": "2026-03-26T05:57:26Z",
-    "updated_at": "2026-04-12T12:42:54Z",
+    "updated_at": "2026-05-22T05:04:51Z",
     "size": 168,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

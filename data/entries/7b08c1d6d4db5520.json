@@ -8,7 +8,7 @@
     "github_url": "https://github.com/acarerdinc/pi-telebridge",
     "repo_full_name": "acarerdinc/pi-telebridge",
     "description": "A pi extension that creates a two-way relay between your active pi coding agent session and a Telegram bot.",
-    "stars": 12,
+    "stars": 13,
     "forks": 4,
     "open_issues": 3,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-12T16:19:57Z",
     "pushed_at": "2026-03-14T05:40:20Z",
-    "updated_at": "2026-04-08T18:44:15Z",
+    "updated_at": "2026-05-21T10:16:10Z",
     "size": 64,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
