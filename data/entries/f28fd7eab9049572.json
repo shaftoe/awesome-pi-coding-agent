@@ -8,22 +8,22 @@
     "github_url": "https://github.com/Pascapone/pibo",
     "repo_full_name": "Pascapone/pibo",
     "description": "Pibo turns Pi Coding Agent into an agent-native runtime with discoverable CLI tools, plugins, channels, and local gateways.",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
+    "stars": 1,
+    "forks": 2,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-27T04:25:02Z",
-    "pushed_at": "2026-04-29T22:35:01Z",
-    "updated_at": "2026-04-29T22:35:05Z",
-    "size": 724,
+    "pushed_at": "2026-05-22T23:27:50Z",
+    "updated_at": "2026-05-21T19:15:40Z",
+    "size": 5955,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 53,
-    "level": "maintained"
+    "score": 70,
+    "level": "active"
   },
   "category": "extension"
 }

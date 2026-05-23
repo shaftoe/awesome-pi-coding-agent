@@ -22999,5 +22999,135 @@
 		"reason": "Duplicate of @felixoid/py-yank (npm entry has higher score 72 vs 58)",
 		"blacklisted_at": "2026-05-22T00:08:26.611Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/wangshunnn/pi-academy",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-23T00:05:22.878Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=JyS8A-5LIY8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-23T00:05:23.014Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=M3hnFC5SWVM",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-05-23T00:05:23.07Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=xCPSRkmNNWY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-23T00:05:23.206Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/ch-ms/spotify-shtuka-pi",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-23T00:05:23.212Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ykHhycBm8Jw",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-23T00:05:23.215Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=VW9kDjGcPaA",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-23T00:05:23.275Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.instagram.com/reel/DW4sAtbkg-2/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-23T00:05:23.327Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://pi.dev/packages?page=2",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-23T00:05:23.353Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ODUbrIuxPtc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-23T00:05:23.364Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/koaning/pi-molab-agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-23T00:05:23.381Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=7DEo-e_w4LY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-23T00:05:23.437Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=RcwIEg6DRTY",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-23T00:05:23.482Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
 	}
 ]

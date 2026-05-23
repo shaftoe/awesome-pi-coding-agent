@@ -11,13 +11,13 @@
     "channel": "Execute Automation",
     "published_at": "2026-05-20T08:18:05Z",
     "thumbnail": "https://i.ytimg.com/vi/gBBytfQbIxs/hqdefault.jpg",
-    "views": 888,
-    "likes": 21,
-    "comments": 8,
+    "views": 1401,
+    "likes": 28,
+    "comments": 10,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 50,
+    "score": 59,
     "level": "maintained"
   },
   "category": "video"

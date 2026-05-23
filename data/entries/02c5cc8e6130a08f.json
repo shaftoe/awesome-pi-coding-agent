@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ross-jill-ws/pi-teammate",
     "repo_full_name": "ross-jill-ws/pi-teammate",
     "description": "A pi extension that turns multiple pi sessions into a collaborative team of AI agents. Instead of a top-down orchestrator dispatching tasks to subordinate subagents, pi-teammate creates a peer network where every agent is equal, can communicate with any other agent, and retains context across tasks.",
-    "stars": 1,
+    "stars": 6,
     "forks": 2,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-05T22:18:15Z",
     "pushed_at": "2026-04-18T22:14:24Z",
-    "updated_at": "2026-04-27T21:05:34Z",
+    "updated_at": "2026-05-21T03:02:15Z",
     "size": 1854,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

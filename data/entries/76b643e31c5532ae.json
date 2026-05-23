@@ -8,9 +8,9 @@
     "github_url": "https://github.com/PSPDFKit-labs/pi-skills",
     "repo_full_name": "PSPDFKit-labs/pi-skills",
     "description": "A collection of skills for pi, the AI coding agent by Nutrient — extending agent capabilities with custom tools and workflows",
-    "stars": 13,
+    "stars": 15,
     "forks": 2,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "ai-agents",
       "coding-agent",
@@ -22,14 +22,14 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-05T14:33:07Z",
-    "pushed_at": "2026-03-31T08:12:25Z",
-    "updated_at": "2026-04-26T14:08:40Z",
-    "size": 260,
+    "pushed_at": "2026-05-12T16:06:43Z",
+    "updated_at": "2026-05-12T16:49:52Z",
+    "size": 284,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 65,
+    "score": 64,
     "level": "maintained"
   },
   "category": "extension"

@@ -1,0 +1,29 @@
+{
+  "id": "Lpaydat-pi-undoredo",
+  "name": "Lpaydat-pi-undoredo",
+  "url": "https://github.com/Lpaydat/pi-undoredo",
+  "source": "github-search",
+  "description": "Undo/redo for Pi Coding Agent — /undo with editor prefill, /redo with redo stack",
+  "metadata": {
+    "github_url": "https://github.com/Lpaydat/pi-undoredo",
+    "repo_full_name": "Lpaydat/pi-undoredo",
+    "description": "Undo/redo for Pi Coding Agent — /undo with editor prefill, /redo with redo stack",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-22T07:16:12Z",
+    "pushed_at": "2026-05-22T07:17:36Z",
+    "updated_at": "2026-05-22T21:43:20Z",
+    "size": 2,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

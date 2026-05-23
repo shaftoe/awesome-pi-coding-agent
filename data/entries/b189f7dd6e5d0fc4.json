@@ -3,36 +3,38 @@
   "name": "pi-antigravity-rotator",
   "url": "https://www.npmjs.com/package/pi-antigravity-rotator",
   "source": "npm-search",
-  "description": "Multi-account rotation proxy for Google Antigravity with per-model routing, real-time quota tracking, and infringement detection",
+  "description": "Intelligent multi-account rotation proxy for Google Antigravity with per-model routing, real-time quota tracking, automatic token management, and infringement detection.",
   "metadata": {
     "github_url": "https://github.com/tuxevil/pi-antigravity-rotator",
-    "npm_name": "pi-antigravity-rotator",
-    "description": "Multi-account rotation proxy for Google Antigravity with per-model routing, real-time quota tracking, and infringement detection",
-    "keywords": [
-      "pi-package",
-      "pi",
-      "pi-coding",
-      "pi-coding-agent",
+    "repo_full_name": "tuxevil/pi-antigravity-rotator",
+    "description": "Intelligent multi-account rotation proxy for Google Antigravity with per-model routing, real-time quota tracking, automatic token management, and infringement detection.",
+    "stars": 10,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
       "antigravity",
-      "proxy",
-      "rotation",
-      "google",
-      "quota",
-      "gemini"
+      "claude-code",
+      "codex",
+      "hermes-agent",
+      "openai-api",
+      "openclaw",
+      "pi-agent"
     ],
-    "version": "1.9.3",
-    "published_at": "2026-04-29T21:44:51.061Z",
-    "npm_downloads_monthly": 2063,
-    "npm_downloads_weekly": 2063,
-    "npm_score_final": 30.655458,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-22T01:33:34Z",
+    "pushed_at": "2026-05-22T13:28:44Z",
+    "updated_at": "2026-05-22T13:12:50Z",
+    "size": 2741,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 91,
-    "level": "active"
+    "score": 5,
+    "level": "dead"
   },
   "category": "extension"
 }

@@ -1,0 +1,35 @@
+{
+  "id": "pi-session-exporter",
+  "name": "pi-session-exporter",
+  "url": "https://www.npmjs.com/package/pi-session-exporter",
+  "source": "npm-search",
+  "description": "Export Pi session history as clean Markdown for sharing in PRs, issues, docs, and Slack",
+  "metadata": {
+    "github_url": "https://github.com/Jaraxxxx/pi-session-exporter",
+    "npm_name": "pi-session-exporter",
+    "description": "Export Pi session history as clean Markdown for sharing in PRs, issues, docs, and Slack",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-command",
+      "session",
+      "export",
+      "markdown",
+      "sharing"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-05-22T20:44:31.234Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

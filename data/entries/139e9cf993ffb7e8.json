@@ -8,7 +8,7 @@
     "github_url": "https://github.com/MasuRii/pi-hide-messages",
     "repo_full_name": "MasuRii/pi-hide-messages",
     "description": "Pi extension for hiding older TUI chat history while preserving full session context, with /hide-messages and /restore-messages controls",
-    "stars": 2,
+    "stars": 3,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -34,9 +34,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-01T02:25:45Z",
-    "pushed_at": "2026-04-28T19:21:40Z",
-    "updated_at": "2026-04-28T19:21:44Z",
-    "size": 43,
+    "pushed_at": "2026-05-22T15:56:02Z",
+    "updated_at": "2026-05-22T15:56:03Z",
+    "size": 127,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

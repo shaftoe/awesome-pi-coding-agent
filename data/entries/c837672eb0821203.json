@@ -8,7 +8,7 @@
     "github_url": "https://github.com/axnic/pi-extension-settings",
     "repo_full_name": "axnic/pi-extension-settings",
     "description": "A pi extension to manage settings of other extensions.",
-    "stars": 3,
+    "stars": 7,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -19,7 +19,7 @@
     "archived": false,
     "created_at": "2026-04-11T15:05:20Z",
     "pushed_at": "2026-04-23T23:02:42Z",
-    "updated_at": "2026-04-24T17:39:40Z",
+    "updated_at": "2026-05-09T23:52:02Z",
     "size": 21513,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

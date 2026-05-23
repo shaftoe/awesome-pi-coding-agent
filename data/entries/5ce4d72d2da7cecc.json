@@ -8,7 +8,7 @@
     "github_url": "https://github.com/kylebrodeur/pi-qmd-ledger",
     "repo_full_name": "kylebrodeur/pi-qmd-ledger",
     "description": "Universal configurable JSONL ledger with qmd hybrid search, tiered HITL, and dynamic context injection for pi",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 1,
     "topics": [
@@ -29,9 +29,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-22T07:30:23Z",
-    "pushed_at": "2026-04-27T17:44:23Z",
-    "updated_at": "2026-04-27T17:44:28Z",
-    "size": 5083,
+    "pushed_at": "2026-05-17T23:07:56Z",
+    "updated_at": "2026-05-17T23:05:56Z",
+    "size": 4734,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

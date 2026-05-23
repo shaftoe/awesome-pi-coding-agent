@@ -1,0 +1,31 @@
+{
+  "id": "therynamo-pi-changed-files",
+  "name": "therynamo-pi-changed-files",
+  "url": "https://github.com/therynamo/pi-changed-files",
+  "source": "github-search",
+  "description": "Pi extension showing git-changed files in a floating overlay with diff counts",
+  "metadata": {
+    "github_url": "https://github.com/therynamo/pi-changed-files",
+    "repo_full_name": "therynamo/pi-changed-files",
+    "description": "Pi extension showing git-changed files in a floating overlay with diff counts",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-22T12:08:01Z",
+    "pushed_at": "2026-05-22T21:36:09Z",
+    "updated_at": "2026-05-22T21:36:13Z",
+    "size": 868,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

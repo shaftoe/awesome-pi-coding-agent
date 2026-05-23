@@ -8,7 +8,7 @@
     "github_url": "https://github.com/jandrikus/pi-security-gates",
     "repo_full_name": "jandrikus/pi-security-gates",
     "description": "Tiered permissions gate and project-boundary security gate extensions for the Pi coding agent harness",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,13 +16,13 @@
     "archived": false,
     "created_at": "2026-04-28T17:31:48Z",
     "pushed_at": "2026-04-28T20:34:17Z",
-    "updated_at": "2026-04-28T20:34:21Z",
+    "updated_at": "2026-05-08T00:06:12Z",
     "size": 62,
     "license": "Apache-2.0",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 50,
+    "score": 55,
     "level": "maintained"
   },
   "category": "extension"

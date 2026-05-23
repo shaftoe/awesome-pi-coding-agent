@@ -8,7 +8,7 @@
     "github_url": "https://github.com/dannote/dot-pi",
     "repo_full_name": "dannote/dot-pi",
     "description": "Extensions, skills, and rules for Pi coding agent",
-    "stars": 21,
+    "stars": 27,
     "forks": 3,
     "open_issues": 2,
     "topics": [
@@ -22,15 +22,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-01-13T23:32:56Z",
-    "pushed_at": "2026-04-06T11:13:57Z",
-    "updated_at": "2026-04-28T03:27:40Z",
-    "size": 274,
+    "pushed_at": "2026-05-22T11:10:38Z",
+    "updated_at": "2026-05-22T11:10:43Z",
+    "size": 279,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 65,
-    "level": "maintained"
+    "score": 72,
+    "level": "active"
   },
   "category": "extension"
 }

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/DxVapor/pi-supacode",
     "repo_full_name": "DxVapor/pi-supacode",
     "description": "Pi extension that reports agent lifecycle hooks to the Supacode macOS app",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-04-17T08:21:53Z",
     "pushed_at": "2026-04-17T08:22:42Z",
-    "updated_at": "2026-04-22T12:24:57Z",
+    "updated_at": "2026-05-01T08:33:25Z",
     "size": 8,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
