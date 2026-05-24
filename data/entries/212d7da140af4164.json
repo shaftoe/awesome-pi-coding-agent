@@ -8,7 +8,7 @@
     "github_url": "https://github.com/nicobailon/pi-review-loop",
     "repo_full_name": "nicobailon/pi-review-loop",
     "description": "Automated code review loop extension for Pi coding agent",
-    "stars": 85,
+    "stars": 87,
     "forks": 12,
     "open_issues": 4,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-01-20T21:39:27Z",
     "pushed_at": "2026-04-15T19:00:16Z",
-    "updated_at": "2026-05-22T01:55:50Z",
+    "updated_at": "2026-05-23T22:28:18Z",
     "size": 1421,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,32 @@
+{
+  "id": "pi-prompt-suggestions",
+  "name": "pi-prompt-suggestions",
+  "url": "https://www.npmjs.com/package/pi-prompt-suggestions",
+  "source": "npm-search",
+  "description": "Pi extension that suggests a natural next prompt after an agent response.",
+  "metadata": {
+    "github_url": "https://github.com/SteelDynamite/pi-prompt-suggestions",
+    "npm_name": "pi-prompt-suggestions",
+    "description": "Pi extension that suggests a natural next prompt after an agent response.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "prompt-suggestions"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-05-23T23:21:32.199Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

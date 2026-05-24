@@ -1,0 +1,29 @@
+{
+  "id": "mattoopie-pi-openspec-status",
+  "name": "mattoopie-pi-openspec-status",
+  "url": "https://github.com/mattoopie/pi-openspec-status",
+  "source": "github-search",
+  "description": "Pi coding agent OpenSpec status widget",
+  "metadata": {
+    "github_url": "https://github.com/mattoopie/pi-openspec-status",
+    "repo_full_name": "mattoopie/pi-openspec-status",
+    "description": "Pi coding agent OpenSpec status widget",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-23T12:46:07Z",
+    "pushed_at": "2026-05-23T18:35:26Z",
+    "updated_at": "2026-05-23T18:35:00Z",
+    "size": 56,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

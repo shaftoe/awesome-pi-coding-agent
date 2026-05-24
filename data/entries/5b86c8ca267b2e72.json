@@ -5,24 +5,27 @@
   "source": "npm-search",
   "description": "Piqo - a pi extension which allows user to interact with llm agents directly from files, without the need to use any chat UI.",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/piqoni/pi-piqo",
     "npm_name": "pi-piqo",
     "description": "Piqo - a pi extension which allows user to interact with llm agents directly from files, without the need to use any chat UI.",
     "keywords": [
-      "pi-package"
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "pi-coding-agent"
     ],
-    "version": "0.0.3",
-    "published_at": "2026-05-18T17:43:33.130Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.0.7",
+    "published_at": "2026-05-23T18:22:18.547Z",
+    "npm_downloads_monthly": 349,
+    "npm_downloads_weekly": 349,
+    "npm_score_final": 20.980425,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 72,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

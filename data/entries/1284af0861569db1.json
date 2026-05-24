@@ -8,7 +8,7 @@
     "github_url": "https://github.com/MaliNamNam/pi-phone",
     "repo_full_name": "MaliNamNam/pi-phone",
     "description": " A phone-first remote UI for Pi that lets you drive a real Pi session from your phone.  pi-phone starts a small local web server, launches a dedicated pi --mode rpc subprocess in your current project, and mirrors Pi's session state over WebSocket to a mobile web app.",
-    "stars": 49,
+    "stars": 50,
     "forks": 10,
     "open_issues": 3,
     "topics": [
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-03-16T20:37:10Z",
     "pushed_at": "2026-03-23T03:34:49Z",
-    "updated_at": "2026-05-22T07:36:08Z",
+    "updated_at": "2026-05-23T06:18:26Z",
     "size": 440,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"

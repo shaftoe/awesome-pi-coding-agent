@@ -1,0 +1,29 @@
+{
+  "id": "majido-pi-extensions",
+  "name": "majido-pi-extensions",
+  "url": "https://github.com/majido/pi-extensions",
+  "source": "github-search",
+  "description": "Personal Pi Agent Extension",
+  "metadata": {
+    "github_url": "https://github.com/majido/pi-extensions",
+    "repo_full_name": "majido/pi-extensions",
+    "description": "Personal Pi Agent Extension",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-23T02:08:55Z",
+    "pushed_at": "2026-05-23T02:40:43Z",
+    "updated_at": "2026-05-23T02:40:46Z",
+    "size": 33,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

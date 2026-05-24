@@ -8,7 +8,7 @@
     "github_url": "https://github.com/mprokopov/pi-otel-telemetry",
     "repo_full_name": "mprokopov/pi-otel-telemetry",
     "description": "OpenTelemetry traces & metrics extension for pi coding agent",
-    "stars": 6,
+    "stars": 7,
     "forks": 1,
     "open_issues": 3,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-09T09:45:16Z",
     "pushed_at": "2026-04-13T07:25:44Z",
-    "updated_at": "2026-05-17T10:20:33Z",
+    "updated_at": "2026-05-23T04:11:28Z",
     "size": 819,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

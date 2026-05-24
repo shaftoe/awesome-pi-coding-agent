@@ -23129,5 +23129,91 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-agent"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=8iZUyE7SlXo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-23T23:55:55.483Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=gfin_njMN8M",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-23T23:55:55.519Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/TrebuchetDynamics/pi-package-goal",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-23T23:55:55.638Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@lanten233/pi-hero",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-05-23T23:55:55.648Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Jcateye/PickAgent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-23T23:55:55.702Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/harvszxst/pi-link",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-23T23:55:55.719Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=XSVpRKrRpDA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-05-23T23:55:55.728Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ayulab/oh-my-pi",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-05-23T23:55:55.833Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=XuYxGc0dJwc",
+		"reason": "non-English content (Italian title and description)",
+		"blacklisted_at": "2026-05-23T23:59:29.423Z",
+		"source": "manual"
 	}
 ]

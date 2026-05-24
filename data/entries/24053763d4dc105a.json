@@ -1,0 +1,29 @@
+{
+  "id": "kevin-pics-pi-extensions",
+  "name": "kevin-pics-pi-extensions",
+  "url": "https://github.com/kevin-pics/pi-extensions",
+  "source": "github-search",
+  "description": "Custom extensions for Pi Agent.",
+  "metadata": {
+    "github_url": "https://github.com/kevin-pics/pi-extensions",
+    "repo_full_name": "kevin-pics/pi-extensions",
+    "description": "Custom extensions for Pi Agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-23T06:36:28Z",
+    "pushed_at": "2026-05-23T16:30:00Z",
+    "updated_at": "2026-05-23T16:30:04Z",
+    "size": 47,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

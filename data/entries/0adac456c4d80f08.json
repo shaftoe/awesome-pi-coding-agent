@@ -8,7 +8,7 @@
     "github_url": "https://github.com/samfoy/pi-conductor",
     "repo_full_name": "samfoy/pi-conductor",
     "description": "Pi-coding-agent extension that turns the parent pi session into an orchestrator driving persona-based sub-agents with first-class TUI visibility.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,13 +16,13 @@
     "archived": false,
     "created_at": "2026-05-22T21:45:14Z",
     "pushed_at": "2026-05-22T21:53:23Z",
-    "updated_at": "2026-05-22T21:53:26Z",
+    "updated_at": "2026-05-23T00:31:34Z",
     "size": 1375,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 58,
+    "score": 62,
     "level": "maintained"
   },
   "category": "extension"

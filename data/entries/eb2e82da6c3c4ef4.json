@@ -1,0 +1,29 @@
+{
+  "id": "pi-tmux-spinner",
+  "name": "pi-tmux-spinner",
+  "url": "https://www.npmjs.com/package/pi-tmux-spinner",
+  "source": "npm-search",
+  "description": "Animated tmux window-name spinner for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/adamschlesinger/pi-tmux-spinner",
+    "repo_full_name": "adamschlesinger/pi-tmux-spinner",
+    "description": "Animated tmux window-name spinner for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-23T19:14:59Z",
+    "pushed_at": "2026-05-23T19:22:47Z",
+    "updated_at": "2026-05-23T19:22:51Z",
+    "size": 7,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

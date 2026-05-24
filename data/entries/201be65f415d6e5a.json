@@ -8,7 +8,7 @@
     "github_url": "https://github.com/vahidkowsari/pi-session-manager",
     "repo_full_name": "vahidkowsari/pi-session-manager",
     "description": "Session browser for pi coding agent — browse, resume, rename, and delete sessions",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-10T21:23:14Z",
     "pushed_at": "2026-04-10T21:23:16Z",
-    "updated_at": "2026-04-27T23:22:25Z",
+    "updated_at": "2026-05-23T17:23:29Z",
     "size": 4,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

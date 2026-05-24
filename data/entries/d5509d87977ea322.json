@@ -1,0 +1,29 @@
+{
+  "id": "Jomik-pi-ward",
+  "name": "Jomik-pi-ward",
+  "url": "https://github.com/Jomik/pi-ward",
+  "source": "github-search",
+  "description": "File access guard for the pi coding agent — declarative filesystem boundaries.",
+  "metadata": {
+    "github_url": "https://github.com/Jomik/pi-ward",
+    "repo_full_name": "Jomik/pi-ward",
+    "description": "File access guard for the pi coding agent — declarative filesystem boundaries.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-23T18:54:29Z",
+    "pushed_at": "2026-05-23T19:34:23Z",
+    "updated_at": "2026-05-23T19:27:00Z",
+    "size": 52,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

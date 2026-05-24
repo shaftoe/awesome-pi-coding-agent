@@ -10,7 +10,7 @@
     "description": "Multi-agent orchestration engine with Red/Blue team swarms, live dashboard, and platform adapters for Pi/CC/Codex/Hermes",
     "stars": 1,
     "forks": 0,
-    "open_issues": 36,
+    "open_issues": 37,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

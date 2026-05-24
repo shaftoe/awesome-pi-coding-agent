@@ -9,8 +9,8 @@
     "repo_full_name": "codexstar69/pi-listen",
     "description": "Hold-to-talk voice input for Pi CLI — Deepgram streaming STT with live transcription, voice commands, and cross-platform hold detection",
     "stars": 61,
-    "forks": 10,
-    "open_issues": 4,
+    "forks": 9,
+    "open_issues": 5,
     "topics": [
       "cli",
       "deepgram",

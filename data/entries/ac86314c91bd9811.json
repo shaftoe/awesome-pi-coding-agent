@@ -1,0 +1,29 @@
+{
+  "id": "sathish316-pi-extensions",
+  "name": "sathish316-pi-extensions",
+  "url": "https://github.com/sathish316/pi-extensions",
+  "source": "github-search",
+  "description": "Pi coding agent extensions that i use",
+  "metadata": {
+    "github_url": "https://github.com/sathish316/pi-extensions",
+    "repo_full_name": "sathish316/pi-extensions",
+    "description": "Pi coding agent extensions that i use",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-23T04:33:45Z",
+    "pushed_at": "2026-05-23T04:34:25Z",
+    "updated_at": "2026-05-23T04:34:29Z",
+    "size": 6,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

@@ -11,11 +11,11 @@
     "keywords": [
       "pi-package"
     ],
-    "version": "0.1.11",
-    "published_at": "2026-05-12T14:35:29.078Z",
-    "npm_downloads_monthly": 867,
-    "npm_downloads_weekly": 187,
-    "npm_score_final": 25.247448,
+    "version": "0.1.12",
+    "published_at": "2026-05-23T23:19:57.490Z",
+    "npm_downloads_monthly": 538,
+    "npm_downloads_weekly": 27,
+    "npm_score_final": 23.050245,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
@@ -25,5 +25,5 @@
     "score": 82,
     "level": "active"
   },
-  "category": "extension"
+  "category": "theme"
 }
