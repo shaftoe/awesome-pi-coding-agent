@@ -5,6 +5,10 @@ name: Daily Dependency Update
 # Calls the reusable update-bun-deps workflow to bump packages and open a PR.
 # ─────────────────────────────────────────────────────────────────────────────
 
+permissions:
+  contents: write
+  pull-requests: write
+
 on:
   schedule:
     - cron: "0 6 * * *"
