@@ -2200,7 +2200,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [@hyperprior/pi-subagent](https://www.npmjs.com/package/@hyperprior/pi-subagent) | Delegate tasks to isolated sub-agents (pi subprocesses) | ⬇ 17/mo | 3mo ago |
 | 🟡 | [@hyperprior/pi-todo](https://www.npmjs.com/package/@hyperprior/pi-todo) | Branch-safe todo extension for pi | ⬇ 21/mo | 3mo ago |
 | 🟡 | [@hyperprior/pi-web](https://www.npmjs.com/package/@hyperprior/pi-web) | Web helpers for search and fetch | ⬇ 19/mo | 3mo ago |
-| 🟡 | [@jasonish/pi-default-model](https://www.npmjs.com/package/@jasonish/pi-default-model) | Set a **real** default model | ⬇ 21/mo | 3mo ago |
+| 🟡 | [@jasonish/pi-default-model](https://www.npmjs.com/package/@jasonish/pi-default-model) | Set a **real** default model | ⬇ 21/mo | 4mo ago |
 | 🟡 | [@jasonish/pi-prompt-history](https://www.npmjs.com/package/@jasonish/pi-prompt-history) | Pi extension: search user prompt history across all sessions with Ctrl+Alt+R | ⬇ 20/mo | 3mo ago |
 | 🟡 | [@justram/pi-undo-redo](https://www.npmjs.com/package/@justram/pi-undo-redo) | Buffered undo/redo extension for Pi coding agent | ⬇ 58/mo | 4mo ago |
 | 🟡 | [@marcfargas/pi-tramp](https://www.npmjs.com/package/@marcfargas/pi-tramp) | TRAMP-like transparent remote execution for pi — tools execute remotely, pi stays local | ⬇ 50/mo | 3mo ago |
@@ -2544,7 +2544,7 @@ Status: 🟢 Active · 🟡 Maintained · 🟠 Stale · 🔴 Dead
 | 🟡 | [kschltz-pi-oac](https://github.com/kschltz/pi-oac) | OpenAgents Control (OAC) — plan-first, context-aware workflow with approval gates for the pi coding agent |  | ~1mo ago |
 | 🟡 | [kuyavinny-pi-planning-with-files](https://github.com/kuyavinny/pi-planning-with-files) | Pi-native adaptation of planning-with-files — extension + skill for durable task planning in Pi Coding Agent |  | 22d ago |
 | 🟡 | [leninkhaidem-pi-agents](https://github.com/leninkhaidem/pi-agents) | First-class subagents for pi |  | 29d ago |
-| 🟡 | [lenstr-pi-rich-terminal-ui](https://github.com/lenstr/pi-rich-terminal-ui) | Pi extension: render rich terminal UI specs including charts, dashboards, tables, metrics, and diagrams |  | 26d ago |
+| 🟡 | [lenstr-pi-rich-terminal-ui](https://github.com/lenstr/pi-rich-terminal-ui) | Pi extension: render rich terminal UI specs including charts, dashboards, tables, metrics, and diagrams |  | 27d ago |
 | 🟡 | [lhl-pi-vertex](https://github.com/lhl/pi-vertex) | Google Vertex AI provider for Pi coding agent - forked from ssweens/pi-packages with tests and CI |  | 3d ago |
 | 🟡 | [louiss0-pi-packages](https://github.com/louiss0/pi-packages) | Packages for Pi - extensions, skills, prompts, and related resources. |  | 3d ago |
 | 🟡 | [masta-g3-pi-sessions](https://github.com/masta-g3/pi-sessions) | Tmux-powered session manager for the Pi coding agent. |  | 19d ago |
