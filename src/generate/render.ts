@@ -166,11 +166,19 @@ export function renderREADME(opts: GenerateOptions): string {
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated, auto-discovered directory of resources for the [Pi Coding Agent](https://pi.dev/) ecosystem. Updated daily.
+An auto-discovered, LLM curated directory of resources for the [Pi Coding Agent](https://pi.dev/) ecosystem. Updated daily.
 
 Content available as Markdown here and as website (with search feature) live at <https://awesome-pi.site>.
 
 > Last updated: ${formatDisplayDate()}`);
+
+	// ── How it works ──
+	sections.push(`
+## How it works
+
+A **four-stage data pipeline** runs [daily on CI](.github/workflows/pipeline.yml) — discover from various sources → filter for Pi relevance → deduplicate, classify & health-score → render this list.
+
+→ [Full architecture docs](./docs/ARCHITECTURE.md)`);
 
 	// ── Stats ──
 	const active = opts.byHealth["active"] ?? 0;
