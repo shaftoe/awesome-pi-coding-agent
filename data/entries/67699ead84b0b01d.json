@@ -3,18 +3,19 @@
   "name": "cfal-garcon",
   "url": "https://github.com/cfal/garcon",
   "source": "github-search",
-  "description": "A local AI coding workspace for Claude Code, Codex, OpenCode, Amp, Factory Droid, Pi, and OpenAI/Anthropic-compatible models.",
+  "description": "A local AI coding workspace for Claude Code, Codex, Cursor, OpenCode, Amp, Factory Droid, Pi, and OpenAI/Anthropic-compatible models.",
   "metadata": {
     "github_url": "https://github.com/cfal/garcon",
     "repo_full_name": "cfal/garcon",
-    "description": "A local AI coding workspace for Claude Code, Codex, OpenCode, Amp, Factory Droid, Pi, and OpenAI/Anthropic-compatible models.",
+    "description": "A local AI coding workspace for Claude Code, Codex, Cursor, OpenCode, Amp, Factory Droid, Pi, and OpenAI/Anthropic-compatible models.",
     "stars": 19,
     "forks": 4,
-    "open_issues": 29,
+    "open_issues": 30,
     "topics": [
       "ampcode",
       "claude-code",
       "codex",
+      "cursor-ai",
       "factory-ai",
       "git-workflow",
       "opencode",
@@ -23,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-23T13:42:57Z",
-    "pushed_at": "2026-05-16T14:47:16Z",
-    "updated_at": "2026-05-22T01:40:30Z",
-    "size": 6310,
+    "pushed_at": "2026-05-23T18:36:23Z",
+    "updated_at": "2026-05-23T18:36:57Z",
+    "size": 6579,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
@@ -33,5 +34,5 @@
     "score": 76,
     "level": "active"
   },
-  "category": "extension"
+  "category": "misc"
 }

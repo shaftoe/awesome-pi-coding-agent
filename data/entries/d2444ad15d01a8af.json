@@ -3,31 +3,30 @@
   "name": "pi-roasts",
   "url": "https://www.npmjs.com/package/pi-roasts",
   "source": "npm-search",
-  "description": "Getting big headed with all the code you produce? pi-roasts brings you back down to earth. Sometimes even gently.",
+  "description": "A pi extension that roasts you while you code.",
   "metadata": {
     "github_url": "https://github.com/sapiderman/pi-roasts",
-    "repo_full_name": "sapiderman/pi-roasts",
-    "description": "Getting big headed with all the code you produce? pi-roasts brings you back down to earth. Sometimes even gently.",
-    "stars": 1,
-    "forks": 0,
-    "open_issues": 0,
-    "topics": [
-      "pi-agent",
-      "pi-agent-extension",
-      "roast"
+    "npm_name": "pi-roasts",
+    "description": "A pi extension that roasts you while you code.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "roasts",
+      "pi-extension"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-05-17T02:16:18Z",
-    "pushed_at": "2026-05-22T18:14:02Z",
-    "updated_at": "2026-05-22T18:14:12Z",
-    "size": 117,
-    "license": null,
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "version": "1.0.1",
+    "published_at": "2026-05-23T13:52:13.833Z",
+    "npm_downloads_monthly": 102,
+    "npm_downloads_weekly": 102,
+    "npm_score_final": 16.17209,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 82,
+    "level": "active"
   },
   "category": "extension"
 }

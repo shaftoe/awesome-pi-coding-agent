@@ -1,0 +1,33 @@
+{
+  "id": "@viartemev/pi-caveman",
+  "name": "@viartemev/pi-caveman",
+  "url": "https://www.npmjs.com/package/@viartemev/pi-caveman",
+  "source": "npm-search",
+  "description": "Caveman mode for pi: ultra-compressed responses that save tokens.",
+  "metadata": {
+    "github_url": "https://github.com/viartemev/pi-caveman",
+    "npm_name": "@viartemev/pi-caveman",
+    "description": "Caveman mode for pi: ultra-compressed responses that save tokens.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "caveman",
+      "skills",
+      "productivity"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-05-23T17:17:50.046Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

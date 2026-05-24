@@ -8,9 +8,9 @@
     "github_url": "https://github.com/nicobailon/pi-mcp-adapter",
     "repo_full_name": "nicobailon/pi-mcp-adapter",
     "description": "Token-efficient MCP adapter for Pi coding agent",
-    "stars": 744,
-    "forks": 133,
-    "open_issues": 63,
+    "stars": 754,
+    "forks": 134,
+    "open_issues": 62,
     "topics": [
       "ai",
       "claude",
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-01-19T23:23:58Z",
     "pushed_at": "2026-05-22T19:20:37Z",
-    "updated_at": "2026-05-23T00:01:29Z",
+    "updated_at": "2026-05-23T22:37:42Z",
     "size": 4383,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

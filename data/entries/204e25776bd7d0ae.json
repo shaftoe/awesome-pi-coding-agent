@@ -8,7 +8,7 @@
     "github_url": "https://github.com/cherish-ltt/pi-dev-workflow",
     "repo_full_name": "cherish-ltt/pi-dev-workflow",
     "description": "pi-dev-workflow: Developer workflow toolkit for pi: git agents, code review, Karpathy guidelines, themes ",
-    "stars": 0,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -18,14 +18,14 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-13T10:32:25Z",
-    "pushed_at": "2026-05-22T12:21:21Z",
-    "updated_at": "2026-05-22T12:17:18Z",
-    "size": 476,
+    "pushed_at": "2026-05-23T17:28:27Z",
+    "updated_at": "2026-05-23T17:26:05Z",
+    "size": 585,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 53,
+    "score": 58,
     "level": "maintained"
   },
   "category": "extension"

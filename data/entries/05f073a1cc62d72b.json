@@ -10,7 +10,7 @@
     "description": "Single source of truth for AI coding agent configuration — skills, commands and rules shared across OpenCode and Pi.",
     "stars": 20,
     "forks": 2,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "agents",
       "agentskills",
@@ -34,8 +34,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 68,
-    "level": "maintained"
+    "score": 76,
+    "level": "active"
   },
   "category": "extension"
 }

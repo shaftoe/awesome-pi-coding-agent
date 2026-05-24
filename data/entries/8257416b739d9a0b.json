@@ -1,0 +1,40 @@
+{
+  "id": "Zeromika-pi-orchestration",
+  "name": "Zeromika-pi-orchestration",
+  "url": "https://github.com/Zeromika/pi-orchestration",
+  "source": "github-search",
+  "description": "Composable autonomy primitives for pi: subagent, agent-team, agent-workflow, goal-keeper, autopilot. Five small MIT-licensed pi packages that compose into a long-loop autonomous coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/Zeromika/pi-orchestration",
+    "repo_full_name": "Zeromika/pi-orchestration",
+    "description": "Composable autonomy primitives for pi: subagent, agent-team, agent-workflow, goal-keeper, autopilot. Five small MIT-licensed pi packages that compose into a long-loop autonomous coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "autonomous-agent",
+      "llm",
+      "orchestration",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-23T23:38:20Z",
+    "pushed_at": "2026-05-23T23:38:23Z",
+    "updated_at": "2026-05-23T23:38:38Z",
+    "size": 0,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

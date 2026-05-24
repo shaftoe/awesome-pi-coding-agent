@@ -1,0 +1,29 @@
+{
+  "id": "cemoody-pi-crust",
+  "name": "cemoody-pi-crust",
+  "url": "https://github.com/cemoody/pi-crust",
+  "source": "github-search",
+  "description": "Mobile-first self-hosted web control plane for many concurrent Pi coding-agent sessions",
+  "metadata": {
+    "github_url": "https://github.com/cemoody/pi-crust",
+    "repo_full_name": "cemoody/pi-crust",
+    "description": "Mobile-first self-hosted web control plane for many concurrent Pi coding-agent sessions",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-11T18:54:25Z",
+    "pushed_at": "2026-05-23T22:26:01Z",
+    "updated_at": "2026-05-23T23:00:22Z",
+    "size": 49065,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 76,
+    "level": "active"
+  },
+  "category": "misc"
+}

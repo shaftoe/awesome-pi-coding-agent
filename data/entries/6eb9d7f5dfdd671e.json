@@ -1,0 +1,29 @@
+{
+  "id": "Fatih0234-pi-opencode-go-usage",
+  "name": "Fatih0234-pi-opencode-go-usage",
+  "url": "https://github.com/Fatih0234/pi-opencode-go-usage",
+  "source": "github-search",
+  "description": "Pi Coding Agent extension for tracking OpenCode Go model usage locally",
+  "metadata": {
+    "github_url": "https://github.com/Fatih0234/pi-opencode-go-usage",
+    "repo_full_name": "Fatih0234/pi-opencode-go-usage",
+    "description": "Pi Coding Agent extension for tracking OpenCode Go model usage locally",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-23T17:17:30Z",
+    "pushed_at": "2026-05-23T17:17:33Z",
+    "updated_at": "2026-05-23T17:17:37Z",
+    "size": 48,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

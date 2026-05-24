@@ -9,8 +9,8 @@
     "repo_full_name": "tintinweb/pi-messenger-bridge",
     "description": "Bridge common messengers (Telegram, WhatsApp, Slack, Discord) into",
     "stars": 43,
-    "forks": 15,
-    "open_issues": 2,
+    "forks": 16,
+    "open_issues": 4,
     "topics": [
       "pi-agent",
       "pi-extension",

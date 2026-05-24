@@ -1,0 +1,29 @@
+{
+  "id": "UgoMendesDonelli-pi-tree-sitter",
+  "name": "UgoMendesDonelli-pi-tree-sitter",
+  "url": "https://github.com/UgoMendesDonelli/pi-tree-sitter",
+  "source": "github-search",
+  "description": "Tree Sitter extension for PI the AI coding agent harness",
+  "metadata": {
+    "github_url": "https://github.com/UgoMendesDonelli/pi-tree-sitter",
+    "repo_full_name": "UgoMendesDonelli/pi-tree-sitter",
+    "description": "Tree Sitter extension for PI the AI coding agent harness",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-22T20:45:19Z",
+    "pushed_at": "2026-05-23T16:43:35Z",
+    "updated_at": "2026-05-23T16:43:39Z",
+    "size": 10671,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 64,
+    "level": "maintained"
+  },
+  "category": "extension"
+}
