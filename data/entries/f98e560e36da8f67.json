@@ -1,0 +1,41 @@
+{
+  "id": "pi-glm-ocr",
+  "name": "pi-glm-ocr",
+  "url": "https://www.npmjs.com/package/pi-glm-ocr",
+  "source": "npm-search",
+  "description": "Pi extension: Local OCR via Ollama GLM-OCR (0.9B) — convert images and PDFs to Markdown / LaTeX with high math formula accuracy. Bridges the multimodal gap for non-vision LLMs like DeepSeek.",
+  "metadata": {
+    "github_url": "https://github.com/astronautJack/pi-glm-ocr",
+    "npm_name": "pi-glm-ocr",
+    "description": "Pi extension: Local OCR via Ollama GLM-OCR (0.9B) — convert images and PDFs to Markdown / LaTeX with high math formula accuracy. Bridges the multimodal gap for non-vision LLMs like DeepSeek.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "coding-agent",
+      "ocr",
+      "glm-ocr",
+      "ollama",
+      "latex",
+      "math-ocr",
+      "formula-recognition",
+      "image-to-text",
+      "pdf-to-markdown",
+      "deepseek"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-05-24T15:13:34.809Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

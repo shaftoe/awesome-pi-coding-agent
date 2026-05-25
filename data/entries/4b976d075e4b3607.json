@@ -8,7 +8,7 @@
     "github_url": "https://github.com/chaychoong/pi-profiles",
     "repo_full_name": "chaychoong/pi-profiles",
     "description": "pi.dev profile manager. Switch between multiple sets of settings, extensions, skills, themes, auth.",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-13T02:11:09Z",
     "pushed_at": "2026-03-13T03:25:53Z",
-    "updated_at": "2026-05-11T15:06:33Z",
+    "updated_at": "2026-05-24T05:28:56Z",
     "size": 22,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

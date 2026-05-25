@@ -1,0 +1,29 @@
+{
+  "id": "pi-tokyo-night",
+  "name": "pi-tokyo-night",
+  "url": "https://www.npmjs.com/package/pi-tokyo-night",
+  "source": "npm-search",
+  "description": "Pi Theme for Tokyo Night",
+  "metadata": {
+    "github_url": "https://github.com/MitoroMisaka/pi-tokyo-night",
+    "repo_full_name": "MitoroMisaka/pi-tokyo-night",
+    "description": "Pi Theme for Tokyo Night",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-24T17:28:58Z",
+    "pushed_at": "2026-05-24T17:29:13Z",
+    "updated_at": "2026-05-24T17:29:17Z",
+    "size": 3,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "theme"
+}

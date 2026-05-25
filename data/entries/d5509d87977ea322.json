@@ -10,19 +10,19 @@
     "description": "File access guard for the pi coding agent — declarative filesystem boundaries.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-23T18:54:29Z",
-    "pushed_at": "2026-05-23T19:34:23Z",
-    "updated_at": "2026-05-23T19:27:00Z",
-    "size": 52,
+    "pushed_at": "2026-05-24T11:05:34Z",
+    "updated_at": "2026-05-24T11:05:28Z",
+    "size": 77,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 58,
+    "score": 50,
     "level": "maintained"
   },
   "category": "extension"

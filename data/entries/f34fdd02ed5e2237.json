@@ -11,13 +11,13 @@
     "channel": "WEBdoze",
     "published_at": "2026-05-21T10:46:51Z",
     "thumbnail": "https://i.ytimg.com/vi/gfw3jBeLeqs/hqdefault.jpg",
-    "views": 135,
-    "likes": 9,
+    "views": 146,
+    "likes": 10,
     "comments": 0,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
-    "score": 45,
+    "score": 50,
     "level": "maintained"
   },
   "category": "video"

@@ -1,0 +1,45 @@
+{
+  "id": "kartikkabadi-pi-composer-powerpack",
+  "name": "kartikkabadi-pi-composer-powerpack",
+  "url": "https://github.com/kartikkabadi/pi-composer-powerpack",
+  "source": "github-search",
+  "description": "Cursor Composer 2.5 powerpack for Pi: agent chains, dispatch teams, Pi-Pi experts, live subagents, Pi-to-Pi coms, damage-control safety, curated agents and mono-black theme. Install with pi install. Requires Pi ≥0.75.3.",
+  "metadata": {
+    "github_url": "https://github.com/kartikkabadi/pi-composer-powerpack",
+    "repo_full_name": "kartikkabadi/pi-composer-powerpack",
+    "description": "Cursor Composer 2.5 powerpack for Pi: agent chains, dispatch teams, Pi-Pi experts, live subagents, Pi-to-Pi coms, damage-control safety, curated agents and mono-black theme. Install with pi install. Requires Pi ≥0.75.3.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "cli",
+      "coding-agent",
+      "composer",
+      "cursor",
+      "cursor-composer",
+      "developer-tools",
+      "multi-agent",
+      "orchestration",
+      "pi-coding-agent",
+      "pi-package",
+      "subagent",
+      "terminal",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-24T02:45:08Z",
+    "pushed_at": "2026-05-24T21:54:09Z",
+    "updated_at": "2026-05-24T20:56:00Z",
+    "size": 717,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 61,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

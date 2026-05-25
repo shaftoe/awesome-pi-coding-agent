@@ -11,13 +11,13 @@
     "channel": "neural-nexus",
     "published_at": "2026-05-22T14:00:19Z",
     "thumbnail": "https://i.ytimg.com/vi/e0Mb0bfpaP4/hqdefault.jpg",
-    "views": 148,
-    "likes": 6,
+    "views": 325,
+    "likes": 9,
     "comments": 1,
-    "discovery_hint": "youtube:pi-agent"
+    "discovery_hint": "youtube:pi-coding-agent"
   },
   "health": {
-    "score": 45,
+    "score": 50,
     "level": "maintained"
   },
   "category": "video"

@@ -1,0 +1,29 @@
+{
+  "id": "pi-tasklists",
+  "name": "pi-tasklists",
+  "url": "https://www.npmjs.com/package/pi-tasklists",
+  "source": "npm-search",
+  "description": "Multi-list task management extension for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/strugglingcomic/pi-tasklists",
+    "repo_full_name": "strugglingcomic/pi-tasklists",
+    "description": "Multi-list task management extension for the Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-24T04:37:50Z",
+    "pushed_at": "2026-05-24T04:40:30Z",
+    "updated_at": "2026-05-24T04:40:34Z",
+    "size": 15,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

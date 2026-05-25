@@ -8,7 +8,7 @@
     "github_url": "https://github.com/gustavonline/pi-desktop",
     "repo_full_name": "gustavonline/pi-desktop",
     "description": "Native desktop shell for Pi Coding Agent (Tauri + Lit), extension-first and multi-session aware",
-    "stars": 67,
+    "stars": 69,
     "forks": 7,
     "open_issues": 18,
     "topics": [
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-02-14T18:26:45Z",
     "pushed_at": "2026-04-13T20:25:01Z",
-    "updated_at": "2026-05-18T08:08:23Z",
+    "updated_at": "2026-05-24T04:03:29Z",
     "size": 1915,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

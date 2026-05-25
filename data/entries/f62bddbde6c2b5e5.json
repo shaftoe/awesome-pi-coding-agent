@@ -1,0 +1,41 @@
+{
+  "id": "end-pi",
+  "name": "end-pi",
+  "url": "https://www.npmjs.com/package/end-pi",
+  "source": "npm-search",
+  "description": "Use Pi providers in Codex Desktop with seamless history switching, image input, and a local OpenAI-compatible proxy.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "end-pi",
+    "description": "Use Pi providers in Codex Desktop with seamless history switching, image input, and a local OpenAI-compatible proxy.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "codex",
+      "codex-desktop",
+      "proxy",
+      "openai",
+      "extension",
+      "vision",
+      "oauth",
+      "diagnostics",
+      "doctor",
+      "tools",
+      "agent"
+    ],
+    "version": "0.0.21",
+    "published_at": "2026-05-24T16:17:33.571Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sergiobonfiglio-pi-hashline",
+  "name": "sergiobonfiglio-pi-hashline",
+  "url": "https://github.com/sergiobonfiglio/pi-hashline",
+  "source": "github-search",
+  "description": "Pi extension adding stable line anchors and hash-addressed editing tools",
+  "metadata": {
+    "github_url": "https://github.com/sergiobonfiglio/pi-hashline",
+    "repo_full_name": "sergiobonfiglio/pi-hashline",
+    "description": "Pi extension adding stable line anchors and hash-addressed editing tools",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-extension",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-23T16:00:42Z",
+    "pushed_at": "2026-05-24T11:02:27Z",
+    "updated_at": "2026-05-24T11:09:35Z",
+    "size": 26,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

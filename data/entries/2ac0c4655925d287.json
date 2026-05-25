@@ -1,0 +1,32 @@
+{
+  "id": "pi-footer-manager",
+  "name": "pi-footer-manager",
+  "url": "https://www.npmjs.com/package/pi-footer-manager",
+  "source": "npm-search",
+  "description": "One footer, many extensions: build flexible Pi footers from reusable fragments with configurable layout and built-in fragments instead of competing `setFooter()` calls. `pi-footer-manager` lets one extension own footer rendering while built-in and custom",
+  "metadata": {
+    "github_url": "https://github.com/sergiobonfiglio/pi-footer-manager",
+    "npm_name": "pi-footer-manager",
+    "description": "One footer, many extensions: build flexible Pi footers from reusable fragments with configurable layout and built-in fragments instead of competing `setFooter()` calls. `pi-footer-manager` lets one extension own footer rendering while built-in and custom ",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "footer-manager"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-05-24T18:11:28.187Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

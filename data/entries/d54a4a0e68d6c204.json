@@ -1,0 +1,29 @@
+{
+  "id": "pi-skill-shiori",
+  "name": "pi-skill-shiori",
+  "url": "https://www.npmjs.com/package/pi-skill-shiori",
+  "source": "npm-search",
+  "description": "Pi extension that reduces Agent Skill catalog tokens with policy-based skill retrieval.",
+  "metadata": {
+    "github_url": "https://github.com/eiei114/pi-skill-shiori",
+    "repo_full_name": "eiei114/pi-skill-shiori",
+    "description": "Pi extension that reduces Agent Skill catalog tokens with policy-based skill retrieval.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-24T08:06:57Z",
+    "pushed_at": "2026-05-24T08:14:10Z",
+    "updated_at": "2026-05-24T13:04:52Z",
+    "size": 39,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}

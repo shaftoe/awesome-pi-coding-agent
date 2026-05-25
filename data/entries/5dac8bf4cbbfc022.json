@@ -1,0 +1,24 @@
+{
+  "id": "YT_771PQEDeRmw",
+  "name": "Is Pi the Best Coding Agent? Pi vs OpenCode vs Claude Code",
+  "url": "https://youtube.com/watch?v=771PQEDeRmw",
+  "source": "youtube-search",
+  "description": "I switched from OpenCode to Pi, a minimal and hackable AI coding agent for terminal first developers. In this video I compare Pi vs ...",
+  "metadata": {
+    "title": "Is Pi the Best Coding Agent? Pi vs OpenCode vs Claude Code",
+    "name": "Is Pi the Best Coding Agent? Pi vs OpenCode vs Claude Code",
+    "description": "I switched from OpenCode to Pi, a minimal and hackable AI coding agent for terminal first developers. In this video I compare Pi vs ...",
+    "channel": "pookie",
+    "published_at": "2026-05-24T17:00:20Z",
+    "thumbnail": "https://i.ytimg.com/vi/771PQEDeRmw/hqdefault.jpg",
+    "views": 638,
+    "likes": 31,
+    "comments": 4,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "video"
+}

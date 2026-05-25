@@ -8,7 +8,7 @@
     "github_url": "https://github.com/xRyul/pi-nvidia-nim",
     "repo_full_name": "xRyul/pi-nvidia-nim",
     "description": "NVIDIA NIM API provider extension for pi coding agent - access 100+ models from build.nvidia.com",
-    "stars": 27,
+    "stars": 29,
     "forks": 13,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-10T21:39:35Z",
     "pushed_at": "2026-05-10T20:52:39Z",
-    "updated_at": "2026-05-23T08:15:27Z",
+    "updated_at": "2026-05-24T15:16:57Z",
     "size": 8125,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
