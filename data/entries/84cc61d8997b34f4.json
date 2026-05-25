@@ -9,7 +9,7 @@
     "repo_full_name": "parkiyong/pi-karpathy-guidelines",
     "description": "A Pi extension that enforces Andrej Karpathy's coding guidelines to reduce common LLM coding mistakes.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "pi",

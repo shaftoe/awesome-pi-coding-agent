@@ -1,0 +1,35 @@
+{
+  "id": "pi-typescript-lsp",
+  "name": "pi-typescript-lsp",
+  "url": "https://www.npmjs.com/package/pi-typescript-lsp",
+  "source": "npm-search",
+  "description": "Pi package adding TypeScript LSP navigation, diagnostics, import fixes, and rename tools for coding agents.",
+  "metadata": {
+    "github_url": "https://github.com/IbrahimMohammed47/pi-typescript-lsp",
+    "npm_name": "pi-typescript-lsp",
+    "description": "Pi package adding TypeScript LSP navigation, diagnostics, import fixes, and rename tools for coding agents.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "typescript",
+      "lsp",
+      "language-server",
+      "coding-agent",
+      "extension"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-05-24T17:17:46.500Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

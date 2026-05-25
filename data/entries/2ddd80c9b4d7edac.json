@@ -1,0 +1,32 @@
+{
+  "id": "@mporenta/mg",
+  "name": "@mporenta/mg",
+  "url": "https://www.npmjs.com/package/@mporenta/mg",
+  "source": "npm-search",
+  "description": "Agent-friendly CLI and Pi extension for memory-graph-mcp",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@mporenta/mg",
+    "description": "Agent-friendly CLI and Pi extension for memory-graph-mcp",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "memory-graph",
+      "mg"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-05-24T22:34:58.724Z",
+    "npm_downloads_monthly": 83,
+    "npm_downloads_weekly": 25,
+    "npm_score_final": 15.315226,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 76,
+    "level": "active"
+  },
+  "category": "extension"
+}

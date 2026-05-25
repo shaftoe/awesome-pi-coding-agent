@@ -1,0 +1,31 @@
+{
+  "id": "@mohammedhammoud/pi-local-model-options",
+  "name": "@mohammedhammoud/pi-local-model-options",
+  "url": "https://www.npmjs.com/package/@mohammedhammoud/pi-local-model-options",
+  "source": "npm-search",
+  "description": "Pi extension for per-model local model options.",
+  "metadata": {
+    "github_url": "https://github.com/mohammedhammoud/pi-extensions",
+    "npm_name": "@mohammedhammoud/pi-local-model-options",
+    "description": "Pi extension for per-model local model options.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "local-llm"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-05-24T19:59:37.795Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

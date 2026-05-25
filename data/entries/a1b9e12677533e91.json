@@ -1,0 +1,29 @@
+{
+  "id": "Guanzhw-pi-access-guard",
+  "name": "Guanzhw-pi-access-guard",
+  "url": "https://github.com/Guanzhw/pi-access-guard",
+  "source": "github-search",
+  "description": "Lightweight, cross-platform security guard for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Guanzhw/pi-access-guard",
+    "repo_full_name": "Guanzhw/pi-access-guard",
+    "description": "Lightweight, cross-platform security guard for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-24T11:55:01Z",
+    "pushed_at": "2026-05-24T13:48:40Z",
+    "updated_at": "2026-05-24T13:48:44Z",
+    "size": 51,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

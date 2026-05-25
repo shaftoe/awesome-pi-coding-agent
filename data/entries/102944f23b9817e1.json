@@ -9,7 +9,7 @@
     "repo_full_name": "stefan2904/dockerized-pi",
     "description": "run pi in docker",
     "stars": 5,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "coding-agent",
@@ -19,9 +19,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-01T16:36:56Z",
-    "pushed_at": "2026-05-21T19:36:55Z",
-    "updated_at": "2026-05-21T19:37:21Z",
-    "size": 208,
+    "pushed_at": "2026-05-24T17:11:55Z",
+    "updated_at": "2026-05-24T17:11:59Z",
+    "size": 209,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

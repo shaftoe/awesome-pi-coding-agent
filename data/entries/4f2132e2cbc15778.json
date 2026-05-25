@@ -1,0 +1,38 @@
+{
+  "id": "@matyah00/openpi",
+  "name": "@matyah00/openpi",
+  "url": "https://www.npmjs.com/package/@matyah00/openpi",
+  "source": "npm-search",
+  "description": "Comprehensive, high-performance, and safety-hardened Pi-native multi-agent orchestration package, featuring advanced workflows, damage-control rules, and developer tooling.",
+  "metadata": {
+    "github_url": "https://github.com/haytamAroui/OpenPi",
+    "npm_name": "@matyah00/openpi",
+    "description": "Comprehensive, high-performance, and safety-hardened Pi-native multi-agent orchestration package, featuring advanced workflows, damage-control rules, and developer tooling.",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "commands",
+      "skills",
+      "agents",
+      "workflows",
+      "orchestration",
+      "safety",
+      "multi-agent",
+      "damage-control"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-05-24T23:12:29.824Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

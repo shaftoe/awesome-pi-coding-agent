@@ -10,7 +10,7 @@
     "description": "Pi extension for saving, importing, and applying agent model frontmatter profiles.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "agent-configuration",
       "coding-agent",

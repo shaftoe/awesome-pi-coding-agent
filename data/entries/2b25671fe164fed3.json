@@ -1,0 +1,29 @@
+{
+  "id": "k3-2o-pi-k2",
+  "name": "k3-2o-pi-k2",
+  "url": "https://github.com/k3-2o/pi-k2",
+  "source": "github-search",
+  "description": "k3-2o's pi coding agent extensions, themes, and skills",
+  "metadata": {
+    "github_url": "https://github.com/k3-2o/pi-k2",
+    "repo_full_name": "k3-2o/pi-k2",
+    "description": "k3-2o's pi coding agent extensions, themes, and skills",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-24T21:40:25Z",
+    "pushed_at": "2026-05-24T21:47:31Z",
+    "updated_at": "2026-05-24T21:47:35Z",
+    "size": 47,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

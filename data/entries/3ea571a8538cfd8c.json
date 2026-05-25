@@ -1,0 +1,29 @@
+{
+  "id": "sreeragh-s-mucode",
+  "name": "sreeragh-s-mucode",
+  "url": "https://github.com/sreeragh-s/mucode",
+  "source": "github-search",
+  "description": "mucode is an open source terminal AI coding workspace for running multiple coding agents from one focused TUI. It gives you one local interface for: Codex Claude Code OpenCode pi-ai backed API providers The project is built with Bun, React, and OpenTUI.",
+  "metadata": {
+    "github_url": "https://github.com/sreeragh-s/mucode",
+    "repo_full_name": "sreeragh-s/mucode",
+    "description": "mucode is an open source terminal AI coding workspace for running multiple coding agents from one focused TUI.  It gives you one local interface for:  Codex Claude Code OpenCode pi-ai backed API providers The project is built with Bun, React, and OpenTUI.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-09T20:40:09Z",
+    "pushed_at": "2026-05-18T15:04:36Z",
+    "updated_at": "2026-05-24T10:49:38Z",
+    "size": 230,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

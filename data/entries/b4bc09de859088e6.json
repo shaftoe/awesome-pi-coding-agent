@@ -10,7 +10,7 @@
     "description": "Terminal code review and annotation workflow for Pi",
     "stars": 42,
     "forks": 4,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "annotation-tool",
       "diff-review",

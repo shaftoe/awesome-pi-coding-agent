@@ -1,0 +1,29 @@
+{
+  "id": "Bram-cat-my-pi-setup",
+  "name": "Bram-cat-my-pi-setup",
+  "url": "https://github.com/Bram-cat/my-pi-setup",
+  "source": "github-search",
+  "description": "Personal Pi coding-agent extensions and themes setup",
+  "metadata": {
+    "github_url": "https://github.com/Bram-cat/my-pi-setup",
+    "repo_full_name": "Bram-cat/my-pi-setup",
+    "description": "Personal Pi coding-agent extensions and themes setup",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-24T19:24:05Z",
+    "pushed_at": "2026-05-24T19:34:37Z",
+    "updated_at": "2026-05-24T19:34:40Z",
+    "size": 52,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

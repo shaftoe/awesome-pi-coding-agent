@@ -1,0 +1,29 @@
+{
+  "id": "@alfonzjanfrithz/pi-websearch",
+  "name": "@alfonzjanfrithz/pi-websearch",
+  "url": "https://www.npmjs.com/package/@alfonzjanfrithz/pi-websearch",
+  "source": "npm-search",
+  "description": "Web search and URL content fetching tools for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/alfonzjanfrithz/pi-websearch",
+    "repo_full_name": "alfonzjanfrithz/pi-websearch",
+    "description": "Web search and URL content fetching tools for Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 20,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-24T15:04:15Z",
+    "pushed_at": "2026-05-24T15:51:19Z",
+    "updated_at": "2026-05-24T15:51:21Z",
+    "size": 33,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 5,
+    "level": "dead"
+  },
+  "category": "extension"
+}
