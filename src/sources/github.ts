@@ -15,15 +15,10 @@ import type { Cache } from "../core/cache.ts";
 import { paginate } from "../core/paginate.ts";
 import { SEARCH_TERMS } from "../core/terms.ts";
 import { ThrottledFetcher } from "../core/throttle.ts";
-import {
-	type CategorizedEntry,
-	type Entry,
-	EntrySource,
-	type HealthDimensions,
-} from "../core/types.ts";
+import { type CategorizedEntry, EntrySource } from "../core/types.ts";
 import { writeRaw } from "../discover/runner.ts";
 import type { DiscoveryWriter } from "../discover/writer.ts";
-import { clamp, formatKNumber, scoreActivityDays, scoreFreshness } from "./scoring.ts";
+import { formatKNumber } from "./scoring.ts";
 import type { Source } from "./source.ts";
 
 // ─── Config ────────────────────────────────────────────────────────────────────
@@ -159,7 +154,6 @@ export function createGitHubSource(cache: Cache, opts: GitHubSourceOptions = {})
 		source: EntrySource.GitHubSearch,
 		displayName: "GitHub",
 		priority: 1,
-		healthCap: 100,
 		suggestedCategory: null,
 
 		normalizeUrl(url: string): string {
@@ -192,57 +186,6 @@ export function createGitHubSource(cache: Cache, opts: GitHubSourceOptions = {})
 					process.stderr.write(`[github] ⚠️  Failed: ${err}\n`);
 				}
 			}
-		},
-
-		scoreHealthDimensions(entry: Entry): HealthDimensions {
-			const meta = entry.metadata ?? {};
-
-			const freshness = scoreFreshness(meta["pushed_at"] as string | null | undefined);
-
-			// Popularity: stars
-			const stars = meta["stars"] as number | null | undefined;
-			let popularity: number;
-			if (stars == null) {
-				popularity = 5;
-			} else if (stars >= 1_000) {
-				popularity = 100;
-			} else if (stars >= 100) {
-				popularity = 70;
-			} else if (stars >= 10) {
-				popularity = 40;
-			} else if (stars >= 1) {
-				popularity = 20;
-			} else {
-				popularity = 5;
-			}
-
-			// Activity: updated_at recency + open issues bonus
-			const activity = scoreActivityDays(
-				meta["updated_at"] as string | null | undefined,
-				meta["open_issues"] as number | null | undefined,
-			);
-
-			// Depth: repo size in KB
-			const size = meta["size"] as number | null | undefined;
-			let depth: number;
-			if (size == null) {
-				depth = 10;
-			} else if (size >= 10_000) {
-				depth = 100;
-			} else if (size >= 1_000) {
-				depth = 60;
-			} else if (size >= 100) {
-				depth = 30;
-			} else {
-				depth = 10;
-			}
-
-			return {
-				freshness: clamp(freshness),
-				popularity: clamp(popularity),
-				activity: clamp(activity),
-				depth: clamp(depth),
-			};
 		},
 	};
 }

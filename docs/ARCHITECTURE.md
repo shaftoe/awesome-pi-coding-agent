@@ -45,7 +45,7 @@ Each stage is a self-contained step that reads from one location and writes to t
 |-------|-------|--------|------------------|
 | **1. Discover** | APIs (npm, GitHub, YouTube, Hacker News, Brave Search) | `.cache/candidates/` | Gather raw candidates, cache API responses. **No filtering.** |
 | **2. Filter** | `.cache/candidates/` | `.cache/filtered/` | Relevance filtering, blacklist management. Irrelevant entries are added to blacklist. |
-| **3. Process** | `.cache/filtered/` | `data/` | npm-over-GitHub dedup, classification, health scoring, enrichment. Writes canonical entries. |
+| **3. Process** | `.cache/filtered/` | `data/` | npm-over-GitHub dedup, classification, enrichment. Writes canonical entries. |
 | **4. Generate** | `data/` | `README.md` | Render awesome-list from canonical entries. |
 
 ### Why separate filter from discover?
@@ -59,7 +59,7 @@ By decoupling, discovery becomes a pure "fetch and cache" operation, while filte
 
 ### Why separate process from filter?
 
-Filtering is about relevance (is this about Pi Coding Agent?). Processing is about canonicalisation (which URL wins? what category? how healthy?). Mixing them creates coupling between the rejection rules and the dedup logic — two very different concerns.
+Filtering is about relevance (is this about Pi Coding Agent?). Processing is about canonicalisation (which URL wins? what category?). Mixing them creates coupling between the rejection rules and the dedup logic — two very different concerns.
 
 ---
 
@@ -86,7 +86,7 @@ src/
     ids.ts                            *(removed — ID derivation now in each source's `extractId()`)*
     html.ts                           HTML entity decoding
     dedup.ts                          Duplicate detection (URL + GitHub URL cross-ref)
-    sort.ts                           Canonical entry ordering (health level → score → name)
+    sort.ts                           Canonical entry ordering (popularity → name)
     terms.ts                          Canonical search terms (shared by all sources)
   sources/                          ✅ Source implementations (cross-cutting plugins)
     source.ts                         Source interface + DiscoveryResult/WriteResult types
@@ -95,7 +95,7 @@ src/
     youtube.ts                        YouTube Data API (token-based pagination)
     hackernews.ts                     Hacker News via Algolia API (story search)
     brave.ts                          Brave Web Search API (blog posts, articles)
-    index.ts                          Source registry: createAllSources, getHealthScorer, routeQueries
+    index.ts                          Source registry: createAllSources, routeQueries
     index.test.ts
     scoring.ts                        Shared scoring helpers (scoreFreshness, scoreMetric01, etc.)
   discover/                         ✅ Stage 1: raw gather from APIs
@@ -112,8 +112,6 @@ src/
     index.ts                          CLI entry point (filtered → dedup + classify → data/)
   enrich/
     classify.ts                       ✅ Rule-based category classifier
-    health.ts                         ✅ Generic health combiner (weights + hard rules)
-    health.test.ts                    ✅ Health scoring tests (source scorers + combiner)
   generate/                         ✅ Stage 4: README rendering
     index.ts                          CLI entry point (reads data/ → writes README.md)
     render.ts                         Core rendering: group by category, sort, emit markdown
@@ -182,7 +180,6 @@ All domain vocabularies use TypeScript string enums for compile-time safety and 
 |------|-------|
 | `Category` | `Extension`, `Theme`, `Video`, `Misc` |
 | `EntrySource` | `GitHubSearch`, `NpmSearch`, `YouTubeSearch`, `HackerNewsSearch`, `BraveWebSearch`, `Discord`, `Manual` |
-| `HealthLevel` | `Active`, `Maintained`, `Stale`, `Dead` |
 
 `CATEGORIES` is a `Category[]` in priority order (`Extension > Theme > Video > Misc`), iterable at runtime.
 
@@ -190,9 +187,8 @@ Other types:
 
 | Type | Purpose |
 |------|---------|
-| `Entry` | Final enriched record: id, name, url, source, description, metadata, health |
+| `Entry` | Final enriched record: id, name, url, source, description, metadata |
 | `CategorizedEntry` | Entry + category |
-| `Health` | Score 0–100 + `HealthLevel` |
 | `DiscoveryCandidate` | Raw discovery output: url, source, optional hint/id/metadata |
 | `BlacklistEntry` | url + reason + blacklisted_at + source + optional discovery metadata |
 
@@ -207,10 +203,9 @@ Each source implements several methods on the `Source` interface that were previ
 | `formatPopularity(entry)` | Format popularity metadata for README table (e.g. `⭐314`, `📺10.5k`) | Inline logic in `generate/render.ts` |
 | `displayName` | Human-readable source name for README footer | `sourceLabel()` switch in `generate/render.ts` |
 | `priority` | Dedup priority (lower wins, npm=0, GitHub=1, etc.) | `SOURCE_PRIORITY` map in `process/index.ts` |
-| `healthCap` | Max health score (e.g. 60 for YouTube) | `CAP_YOUTUBE` constant in `enrich/health.ts` |
 | `suggestedCategory` | Category override (e.g. YouTube → Video) | `isYouTubeUrl()` in `enrich/classify.ts` |
 
-Pipeline stages dispatch to the correct source via `sources/index.ts` helper functions: `getSource()`, `normalizeUrl()`, `extractId()`, `formatPopularity()`, `getDisplayName()`, `getHealthCap()`, `getSuggestedCategory()`, `getPriority()`.
+Pipeline stages dispatch to the correct source via `sources/index.ts` helper functions: `getSource()`, `normalizeUrl()`, `extractId()`, `formatPopularity()`, `getDisplayName()`, `getSuggestedCategory()`, `getPriority()`.
 
 ### `repository.ts` — Generic Repository Interface
 
@@ -247,7 +242,7 @@ Composes `ThrottledFetcher` + `Cache` into a paginator.
 | `blacklist.ts` | Load/save URL blacklist (`data/blacklist.json`). Grown by the filter stage. Each entry has url, reason, blacklisted_at (ISO-8601), source (e.g. "filter", "manual", "import"), and optional discovery metadata (source name + query). |
 | `meta.ts` | Read/write pipeline metadata (`data/meta.json`). Records when the process stage last updated the datastore. The site build reads this to display an accurate "last updated" timestamp independent of deploy time. |
 | `store.ts` | Entry store facade for `data/`. Delegates to `FileRepository<CategorizedEntry>`. |
-| `sort.ts` | Canonical entry ordering (health level → score → name). Shared by README render and site. |
+| `sort.ts` | Canonical entry ordering (popularity score → name). Shared by README render and site. |
 | `ids.ts` | *(removed — ID derivation is now a method on the `Source` interface, dispatched via `sources/index.ts`)* |
 | `html.ts` | HTML entity decoding, tag stripping, and `cleanText()` helper. Used by all sources for title/description sanitisation (strips `<strong>`, `<p>`, `<a>` tags, decodes `&#x27;`, `&quot;`, etc.). |
 | `dedup.ts` | Duplicate detection by URL + GitHub URL cross-reference. Used by the process stage. |
@@ -274,7 +269,6 @@ interface Source {
   readonly source: EntrySource; // e.g. EntrySource.NpmSearch
   discover(writer: DiscoveryWriter): Promise<void>;
   enrich?(writer: DiscoveryWriter): Promise<void>; // optional second pass
-  scoreHealthDimensions(entry: Entry): HealthDimensions; // source-specific health scoring
 }
 ```
 
@@ -290,7 +284,7 @@ ID: full npm package name (e.g. `@scope/pi-extension`).
 
 **Metadata fields captured:**
 
-| Field | Type | Source | Health relevance |
+| Field | Type | Source | Purpose |
 |-------|------|--------|-----------------|
 | `npm_name` | `string` | `package.name` | Identifier |
 | `description` | `string` | `package.description` | Classification |
@@ -315,7 +309,7 @@ ID: `owner-repo`.
 
 **Metadata fields captured:**
 
-| Field | Type | Source | Health relevance |
+| Field | Type | Source | Purpose |
 |-------|------|--------|-----------------|
 | `repo_full_name` | `string` | `full_name` | Identifier |
 | `description` | `string` | `description` | Classification |
@@ -344,7 +338,7 @@ ID: `YT_<videoId>`.
 
 **Metadata fields (phase 1 — search):**
 
-| Field | Type | Source | Health relevance |
+| Field | Type | Source | Purpose |
 |-------|------|--------|-----------------|
 | `title` / `name` | `string` | `snippet.title` | Identifier, classification |
 | `description` | `string` | `snippet.description` | Classification, filter |
@@ -354,7 +348,7 @@ ID: `YT_<videoId>`.
 
 **Metadata fields (phase 2 — enrichment via `videos.list`):**
 
-| Field | Type | Source | Health relevance |
+| Field | Type | Source | Purpose |
 |-------|------|--------|-----------------|
 | `views` | `number` | `statistics.viewCount` | Popularity |
 | `likes` | `number` | `statistics.likeCount` | Engagement |
@@ -372,7 +366,7 @@ ID: `HN_<objectId>`.
 
 **Metadata fields captured:**
 
-| Field | Type | Source | Health relevance |
+| Field | Type | Source | Purpose |
 |-------|------|--------|-----------------|
 | `title` / `name` | `string` | `hit.title` | Identifier, classification |
 | `description` | `string` | `hit.story_text` | Classification, filter |
@@ -397,7 +391,7 @@ ID: `BRAVE_<domain>_<slug>` derived from the URL.
 
 **Metadata fields captured:**
 
-| Field | Type | Source | Health relevance |
+| Field | Type | Source | Purpose |
 |-------|------|--------|-----------------|
 | `title` / `name` | `string` | `result.title` | Identifier, classification |
 | `description` | `string` | `result.description` | Classification, filter |
@@ -462,17 +456,16 @@ When a candidate URL matches an existing entry from the **same source** (or same
 1. Fresh metadata from the candidate replaces the existing entry's metadata
 2. `name` and `description` are updated from the fresh candidate
 3. `discovery_hint` is preserved from the existing entry if the candidate has none
-4. Health is recomputed from the fresh metadata using the source-specific scorer + generic combiner
-5. Category is re-evaluated via the classifier
-6. Structural identity (`id`, `url`, `source`) is preserved
-7. Dedup indices are updated with the refreshed entry
+4. Category is re-evaluated via the classifier
+5. Structural identity (`id`, `url`, `source`) is preserved
+6. Dedup indices are updated with the refreshed entry
 
 **Three dedup outcomes:**
 
 | Condition | Action | Example |
 |-----------|--------|----------|
 | Cross-source, higher priority | **Replace** — delete old, save new | npm candidate replaces GitHub entry |
-| Same-source (or same priority) | **Refresh** — merge fresh metadata, recompute health | npm candidate updates npm entry with new downloads |
+| Same-source (or same priority) | **Refresh** — merge fresh metadata | npm candidate updates npm entry with new downloads |
 | No existing entry | **Add** — new entry saved | Brand new discovery |
 
 This means every daily pipeline run automatically refreshes metadata for any existing entry that re-appears in search results.
@@ -480,10 +473,6 @@ This means every daily pipeline run automatically refreshes metadata for any exi
 ### Classification (`enrich/classify.ts`) ✅
 
 Five categories: `Extension > Theme > Video > Article > Misc`. Uses npm name patterns, Pi-specific description signals, README scores, and keyword matching. See [Classification](#classification).
-
-### ✅ Health scoring
-
-Two-layer architecture: each source implements `scoreHealthDimensions()` on the `Source` interface (source-specific metadata interpretation); generic combiner (`enrich/health.ts`) applies weighted formula + hard rules. See [Health Scoring Architecture](#health-scoring-architecture) for full design.
 
 ---
 
@@ -497,16 +486,16 @@ Two-layer architecture: each source implements `scoreHealthDimensions()` on the 
 
 Two files: `index.ts` (CLI entry point) and `render.ts` (pure rendering logic, exported `renderREADME()`).
 
-**Sorting:** Entries are sorted by health level (Active → Maintained → Stale → Dead), then by health score descending, then by name alphabetically. This ensures the healthiest, most popular entries appear first.
+**Sorting:** Entries are sorted by popularity score (downloads/stars/views/points) descending, then by name alphabetically. This ensures the most popular entries appear first.
 
 **Category sections:**
 
 | Category | Layout | Columns / Format |
 |----------|--------|-------------------|
-| Extension | Table | Health, Name, Description, Popularity, Updated |
-| Theme | Table | Health, Name, Description, Popularity, Updated |
-| Video | Table | Health, Name, Description, Popularity, Updated |
-| Misc | Table | Health, Name, Description, Popularity, Updated |
+| Extension | Table | Name, Description, Popularity, Updated |
+| Theme | Table | Name, Description, Popularity, Updated |
+| Video | Table | Name, Description, Popularity, Updated |
+| Misc | Table | Name, Description, Popularity, Updated |
 
 **Popularity column:** Shows the strongest available signal per source:
 
@@ -520,21 +509,12 @@ Two files: `index.ts` (CLI entry point) and `render.ts` (pure rendering logic, e
 
 All sources store the relevant metric in metadata at discovery (YouTube via enrichment phase). No additional API calls needed at render time.
 
-**Health badges:** Colour-coded circles per health level:
-
-| Level | Badge |
-|-------|-------|
-| Active | 🟢 |
-| Maintained | 🟡 |
-| Stale | 🟠 |
-| Dead | 🔴 |
-
 **Timestamps:** Relative time strings ("today", "yesterday", "3d ago", "2mo ago") computed from `pushed_at` / `published_at` / `updated_at` metadata via Temporal.
 
 **Structure:**
 
 1. Header — title, awesome badge, description, site link
-2. Stats — total entries, active/maintained counts, health legend
+2. Stats — total entries
 3. Contents — dynamic TOC with per-category counts and working anchors
 4. Category sections (Extensions → Themes → Videos & Tutorials → Miscellaneous)
 5. Footer — generation date, entry count, source breakdown
@@ -549,7 +529,7 @@ data/entries/*.json
        │
        ▼
   Group by category      extension / theme / video / misc
-  Count by health        active / maintained / stale / dead
+  
   Count by source        npm-search / github-search / youtube-search
        │
        ▼
@@ -601,131 +581,6 @@ The previous taxonomy had 8 categories (`extension`, `tool`, `theme`, `provider`
 - Automated classification was ~60% accurate across 8 categories, ~90%+ across fewer
 
 `provider` is now classified as `Extension` since Pi providers (Claude, Gemini, etc.) ARE extensions. `article` was added as a separate category for blog posts and discussions from Brave/HN sources.
-
-### Health Scoring Architecture
-
-### Two-layer design
-
-Health scoring follows the same pattern as YouTube enrichment: **metadata interpretation is source-specific; the formula is generic.**
-
-```
-┌───────────────────────────────┐     ┌──────────────────────────────┐
-│  Source.scoreHealthDimensions │     │  Generic combiner            │
-│  (per source: npm.ts, etc.)   │────▶│  (enrich/health.ts)          │
-│                               │     │                              │
-│  npm.ts:    metadata → dims   │     │  dims × weights → raw score  │
-│  github.ts: metadata → dims   │     │  hard rules → final Health   │
-│  youtube.ts:metadata → dims   │     │                              │
-└───────────────────────────────┘     └──────────────────────────────┘
-```
-
-**Layer 1 — Source `scoreHealthDimensions()` method** (on the `Source` interface):
-- Each source implements this method to interpret its own metadata fields into `HealthDimensions` (four 0–100 scores).
-- Sources know their own metadata schema: npm reads `npm_downloads_monthly`, GitHub reads `stars`, YouTube reads `views`.
-- Shared helpers (`sources/scoring.ts`) provide `scoreFreshness()`, `scoreMetric01()`, `scoreActivityDays()`, `clamp()`.
-- The `getHealthScorer()` function in `sources/index.ts` provides a registry lookup by `EntrySource` for the process stage.
-
-**Layer 2 — Generic combiner** (`enrich/health.ts`):
-- Takes `HealthDimensions`, applies the weighted formula.
-- Enforces hard rules (archived → Dead, YouTube/HN cap at Maintained).
-- Returns `Health`.
-
-### Types
-
-```typescript
-// core/types.ts — Source interface (excerpt)
-interface Source {
-  readonly name: string;
-  readonly source: EntrySource;
-  discover(writer: DiscoveryWriter): Promise<void>;
-  enrich?(writer: DiscoveryWriter): Promise<void>;
-  scoreHealthDimensions(entry: Entry): HealthDimensions;  // ← Layer 1
-}
-```
-
-### Entry → Health flow (in `process/index.ts`)
-
-```typescript
-const scorer = getHealthScorer(entry.source);  // registry lookup
-const dims = scorer(entry);                      // source.scoreHealthDimensions()
-const health = computeHealth(entry, dims);       // generic combiner
-```
-
-### Health levels
-
-Each entry receives a `Health` object: `{ score: 0–100, level: HealthLevel }`.
-
-| Level | Score | Typical profile |
-|-------|-------|-----------------|
-| `Active` | ≥70 | Recent commit, high npm downloads |
-| `Maintained` | ≥40 | Activity in last 365 days |
-| `Stale` | ≥15 | Low/no activity in 365+ days |
-| `Dead` | <15 | Archived, or no activity in 2+ years |
-
-### Hard rules (override formula)
-
-- `archived: true` → `Dead` immediately (score = 0)
-- No `pushed_at` / `published_at` at all → cap at `Stale` (max 39)
-- Source-specific health cap (e.g. YouTube/HN → cap at `Maintained`, max score 60) — defined by each source's `healthCap` property
-
-### Generic formula
-
-`score = freshness×0.35 + popularity×0.30 + activity×0.20 + depth×0.15`
-
-### Source-specific dimension scoring tables
-
-#### npm
-
-| Dimension | Metadata fields | Scoring |
-|-----------|----------------|---------|
-| **Freshness** (35%) | `published_at` | < 30d → 100, < 90d → 80, < 180d → 60, < 365d → 40, < 730d → 20, ≥ 730d → 5 |
-| **Popularity** (30%) | `npm_downloads_monthly` | ≥ 10k → 100, ≥ 1k → 70, ≥ 100 → 40, ≥ 10 → 20, < 10 → 5 |
-| **Activity** (20%) | `npm_score_maintenance` (0–1) | 1.0 → 100, 0.5 → 50, 0.0 → 5 |
-| **Depth** (15%) | `npm_score_quality` (0–1) | 1.0 → 100, 0.5 → 50, 0.0 → 5 |
-
-#### GitHub
-
-| Dimension | Metadata fields | Scoring |
-|-----------|----------------|---------|
-| **Freshness** (35%) | `pushed_at` | < 30d → 100, < 90d → 80, < 180d → 60, < 365d → 40, < 730d → 20, ≥ 730d → 5 |
-| **Popularity** (30%) | `stars` + `forks` | ≥ 1k stars → 100, ≥ 100 → 70, ≥ 10 → 40, ≥ 1 → 20, 0 → 5 |
-| **Activity** (20%) | `updated_at` + `open_issues` | < 30d + open issues → 100, < 90d → 60, < 365d → 30, ≥ 365d → 5 |
-| **Depth** (15%) | `size` (KB) | ≥ 10k → 100, ≥ 1k → 60, ≥ 100 → 30, < 100 → 10 |
-
-#### YouTube
-
-| Dimension | Metadata fields | Scoring |
-|-----------|----------------|---------|
-| **Freshness** (35%) | `published_at` (video date) | < 30d → 100, < 90d → 80, < 180d → 60, < 365d → 40, ≥ 365d → 20 |
-| **Popularity** (30%) | `views` (from enrichment) | ≥ 10k → 100, ≥ 1k → 60, ≥ 100 → 30, < 100 → 10 |
-| **Activity** (20%) | `likes` + `comments` | Combined engagement: ≥ 1k → 100, ≥ 100 → 60, ≥ 10 → 30, < 10 → 5 |
-| **Depth** (15%) | — | Always 0 (videos have no code depth) |
-
-#### Hacker News
-
-| Dimension | Metadata fields | Scoring |
-|-----------|----------------|---------|
-| **Freshness** (35%) | `published_at` (story date) | < 30d → 100, < 90d → 80, < 180d → 60, < 365d → 40, ≥ 365d → 20 |
-| **Popularity** (30%) | `points` | ≥ 500 → 100, ≥ 100 → 70, ≥ 50 → 50, ≥ 10 → 30, < 10 → 10 |
-| **Activity** (20%) | `num_comments` | ≥ 100 → 100, ≥ 50 → 70, ≥ 10 → 40, ≥ 1 → 20, 0 → 5 |
-| **Depth** (15%) | — | Always 0 (HN stories have no code depth) |
-
-#### Brave Web Search
-
-| Dimension | Metadata fields | Scoring |
-|-----------|----------------|----------|
-| **Freshness** (35%) | `published_at` (`page_age` / `age`) | Standard scoreFreshness thresholds |
-| **Popularity** (30%) | — | Fixed 30 (no numeric metric available from Brave) |
-| **Activity** (20%) | — | Fixed 10 (no meaningful signal for web articles) |
-| **Depth** (15%) | — | Always 0 (web articles have no code depth) |
-
-**Note:** Brave Web Search has a health cap of 60 (Maintained) since web articles lack the popularity/activity signals needed to reach Active status.
-
-### Cross-source boost
-
-When an npm entry has a `github_url` pointing to a GitHub repo also in the dataset, the higher of the two popularity scores is used for the npm entry. This is handled in `process/index.ts` before calling `computeHealth()`.
-
----
 
 ## Identity Model & Storage
 
@@ -843,4 +698,4 @@ bun run generate              # reads from data/
 9. **No base classes for sources** — compose `paginate()` + `ThrottledFetcher` instead of inheriting.
 10. **No global mutable state** — stats returned from functions, not stored in singletons.
 11. **`Repository<T>` interface** — generic storage abstraction. Current `FileRepository<T>` stores flat `dataDir/<sha256-trunc>.json`. Future SQLite swap only requires implementing the interface.
-12. **String enums for domain vocabularies** — `Category`, `EntrySource`, `HealthLevel` are TypeScript string enums. Serializable as plain JSON strings, iterable at runtime via `CATEGORIES`, catch typos at compile time.
+12. **String enums for domain vocabularies** — `Category`, `EntrySource` are TypeScript string enums. Serializable as plain JSON strings, iterable at runtime via `CATEGORIES`, catch typos at compile time.

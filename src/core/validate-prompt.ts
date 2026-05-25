@@ -12,8 +12,7 @@ For each changed data entry, verify and **fix in-place**:
 
 1. **Relevance**: The entry MUST be about the Pi coding agent (pi.dev). If it's about Raspberry Pi, GPIO, embedded hardware, or clearly unrelated — run \`bun run blacklist add <url> <reason>\` to blacklist it, then delete the JSON file.
 2. **English-only**: The entry's name and description MUST be in English. If the description or title is written in a non-English language (Chinese, Russian, Arabic, Hindi, Portuguese, German, etc.), run \`bun run blacklist add <url> <reason>\` to blacklist it, then delete the JSON file.
-3. **Duplicates**: Check for duplicate entries (same URL, same npm/GitHub identifier). If found, keep the entry with the higher health.score and run \`bun run blacklist add <url> <reason>\` on the other, then delete its JSON file.
-4. **Health score accuracy**: health.score (0–100) maps to health.level as: active ≥70, maintained ≥40, stale ≥15, dead <15. If inconsistent with metadata (last_commit date, stars, forks, is_archived), edit the JSON file directly to fix health.score and health.level.
-5. **Category correctness**: The category field in the JSON should match the entry's content (extension, theme, video, article, or misc). If wrong, edit the category field directly in the JSON file.
+3. **Duplicates**: Check for duplicate entries (same URL, same npm/GitHub identifier). If found, keep the entry with the higher popularity metric (downloads/stars) and run \`bun run blacklist add <url> <reason>\` on the other, then delete its JSON file.
+4. **Category correctness**: The category field in the JSON should match the entry's content (extension, theme, video, article, or misc). If wrong, edit the category field directly in the JSON file.
 
 Make all fixes directly. Do not just report issues — edit files, run commands, and resolve them.`;

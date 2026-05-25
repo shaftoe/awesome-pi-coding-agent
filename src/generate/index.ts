@@ -34,7 +34,6 @@ export function cmdGenerate(): void {
 	// Group by category
 	const grouped: Record<string, CategorizedEntry[]> = {};
 	const byCategory: Record<string, number> = {};
-	const byHealth: Record<string, number> = {};
 	const bySource: Record<string, number> = {};
 
 	for (const entry of entries) {
@@ -42,7 +41,6 @@ export function cmdGenerate(): void {
 		grouped[cat] = grouped[cat] ?? [];
 		grouped[cat].push(entry);
 		byCategory[cat] = (byCategory[cat] ?? 0) + 1;
-		byHealth[entry.health.level] = (byHealth[entry.health.level] ?? 0) + 1;
 		bySource[entry.source] = (bySource[entry.source] ?? 0) + 1;
 	}
 
@@ -50,15 +48,10 @@ export function cmdGenerate(): void {
 	for (const [cat, count] of Object.entries(byCategory).sort(([, a], [, b]) => b - a)) {
 		log(`  ${cat}: ${count}`);
 	}
-	log("Health:");
-	for (const [level, count] of Object.entries(byHealth)) {
-		log(`  ${level}: ${count}`);
-	}
 
 	const readme = renderREADME({
 		total: entries.length,
 		byCategory,
-		byHealth,
 		bySource,
 		grouped,
 	});

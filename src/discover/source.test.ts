@@ -23,15 +23,11 @@ function makeSource(name: string, urls: string[]): Source {
 		source: EntrySource.NpmSearch,
 		displayName: name,
 		priority: 0,
-		healthCap: 100,
 		suggestedCategory: null,
 		async discover(writer: DiscoveryWriter) {
 			for (const url of urls) {
 				writer.write(name, { url, source: EntrySource.NpmSearch });
 			}
-		},
-		scoreHealthDimensions() {
-			return { freshness: 5, popularity: 5, activity: 5, depth: 5 };
 		},
 		normalizeUrl: (url: string) => url,
 		extractId: (url: string) => url.split("/").filter(Boolean).pop() ?? url,
@@ -93,13 +89,9 @@ describe("runDiscovery", () => {
 			source: EntrySource.NpmSearch,
 			displayName: "broken",
 			priority: 0,
-			healthCap: 100,
 			suggestedCategory: null,
 			async discover() {
 				throw new Error("API is down");
-			},
-			scoreHealthDimensions() {
-				return { freshness: 5, popularity: 5, activity: 5, depth: 5 };
 			},
 			normalizeUrl: (url: string) => url,
 			extractId: (url: string) => url.split("/").filter(Boolean).pop() ?? url,

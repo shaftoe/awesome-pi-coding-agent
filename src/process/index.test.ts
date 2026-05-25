@@ -1,7 +1,7 @@
 /**
  * Tests for the process stage — metadata refresh for same-source duplicates.
  *
- * Validates Option A: when a candidate URL matches an existing entry from the
+ * Validates: when a candidate URL matches an existing entry from the
  * same source, the existing entry's metadata is refreshed from the fresh candidate
  * instead of being silently skipped.
  */
@@ -17,10 +17,9 @@ import { buildIndices, checkDuplicate } from "../core/dedup.ts";
 import { cleanText } from "../core/html.ts";
 import { FileRepository, type Repository } from "../core/repository.ts";
 import type { Entry } from "../core/types.ts";
-import { type CategorizedEntry, Category, EntrySource, HealthLevel } from "../core/types.ts";
+import { type CategorizedEntry, Category, EntrySource } from "../core/types.ts";
 import { classifyEntry } from "../enrich/classify.ts";
-import { computeHealth } from "../enrich/health.ts";
-import { getHealthScorer, getPriority } from "../sources/index.ts";
+import { getPriority } from "../sources/index.ts";
 
 function sourcePriority(source: string): number {
 	try {
@@ -52,7 +51,7 @@ describe("Process stage — metadata refresh", () => {
 		rmSync(tmpDir, { recursive: true, force: true });
 	});
 
-	test("same-source duplicate refreshes metadata and recomputes health", () => {
+	test("same-source duplicate refreshes metadata", () => {
 		// Seed an existing npm entry with stale metadata
 		const existingEntry: CategorizedEntry = {
 			id: "pi-example",
@@ -68,7 +67,6 @@ describe("Process stage — metadata refresh", () => {
 				version: "1.0.0",
 				discovery_hint: null,
 			},
-			health: { score: 30, level: HealthLevel.Maintained },
 			category: Category.Extension,
 		};
 		entryRepo.set(existingEntry.url, existingEntry);
@@ -124,11 +122,7 @@ describe("Process stage — metadata refresh", () => {
 				discovery_hint:
 					discovery.hint ?? (existing.metadata["discovery_hint"] as string | null) ?? null,
 			},
-			health: { score: 0, level: HealthLevel.Stale },
 		};
-
-		const dims = getHealthScorer(updated.source)(updated);
-		updated.health = computeHealth(updated, dims);
 
 		const classified = classifyEntry(updated);
 
@@ -140,10 +134,6 @@ describe("Process stage — metadata refresh", () => {
 
 		// Verify description was updated
 		expect(classified.description).toBe("Updated Pi extension description");
-
-		// Verify health was recomputed (should be higher with more downloads + recent publish)
-		expect(classified.health.score).toBeGreaterThan(existingEntry.health.score);
-		expect(classified.health.level).not.toBe(HealthLevel.Dead);
 
 		// Verify structural identity preserved
 		expect(classified.url).toBe(existingEntry.url);
@@ -163,7 +153,6 @@ describe("Process stage — metadata refresh", () => {
 				npm_name: "pi-example",
 				discovery_hint: "original-hint",
 			},
-			health: { score: 30, level: HealthLevel.Maintained },
 			category: Category.Extension,
 		};
 		entryRepo.set(existingEntry.url, existingEntry);
@@ -195,7 +184,6 @@ describe("Process stage — metadata refresh", () => {
 				discovery_hint:
 					freshCandidate.hint ?? (existing.metadata["discovery_hint"] as string | null) ?? null,
 			},
-			health: { score: 0, level: HealthLevel.Stale },
 		};
 
 		expect(updated.metadata["discovery_hint"]).toBe("original-hint");
@@ -215,7 +203,6 @@ describe("Process stage — metadata refresh", () => {
 				pushed_at: "2025-06-01T00:00:00Z",
 				archived: false,
 			},
-			health: { score: 35, level: HealthLevel.Maintained },
 			category: Category.Extension,
 		};
 		entryRepo.set(existingEntry.url, existingEntry);
@@ -252,16 +239,11 @@ describe("Process stage — metadata refresh", () => {
 				discovery_hint:
 					freshCandidate.hint ?? (existing.metadata["discovery_hint"] as string | null) ?? null,
 			},
-			health: { score: 0, level: HealthLevel.Stale },
 		};
-
-		const dims = getHealthScorer(updated.source)(updated);
-		updated.health = computeHealth(updated, dims);
 
 		expect(updated.metadata["stars"]).toBe(500);
 		expect(updated.metadata["forks"]).toBe(80);
 		expect(updated.metadata["pushed_at"]).toBe("2026-04-15T00:00:00Z");
-		expect(updated.health.score).toBeGreaterThan(existingEntry.health.score);
 	});
 
 	test("cross-source duplicate (npm > github) still replaces entirely", () => {
@@ -277,7 +259,6 @@ describe("Process stage — metadata refresh", () => {
 				stars: 100,
 				github_url: "https://github.com/owner/pi-ext",
 			},
-			health: { score: 50, level: HealthLevel.Maintained },
 			category: Category.Extension,
 		};
 		entryRepo.set(ghEntry.url, ghEntry);

@@ -13,15 +13,10 @@ import type { Cache } from "../core/cache.ts";
 import { paginate } from "../core/paginate.ts";
 import { SEARCH_TERMS } from "../core/terms.ts";
 import { ThrottledFetcher } from "../core/throttle.ts";
-import {
-	type CategorizedEntry,
-	type Entry,
-	EntrySource,
-	type HealthDimensions,
-} from "../core/types.ts";
+import { type CategorizedEntry, EntrySource } from "../core/types.ts";
 import { writeRaw } from "../discover/runner.ts";
 import type { DiscoveryWriter } from "../discover/writer.ts";
-import { clamp, formatKNumber, scoreFreshness, scoreMetric01 } from "./scoring.ts";
+import { formatKNumber } from "./scoring.ts";
 import type { Source } from "./source.ts";
 
 // ─── Config ────────────────────────────────────────────────────────────────────
@@ -147,7 +142,6 @@ export function createNpmSource(cache: Cache, opts: NpmSourceOptions = {}): Sour
 		source: EntrySource.NpmSearch,
 		displayName: "npm",
 		priority: 0,
-		healthCap: 100,
 		suggestedCategory: null,
 
 		normalizeUrl(url: string): string {
@@ -182,42 +176,6 @@ export function createNpmSource(cache: Cache, opts: NpmSourceOptions = {}): Sour
 					process.stderr.write(`[npm] ⚠️  Failed: ${err}\n`);
 				}
 			}
-		},
-
-		scoreHealthDimensions(entry: Entry): HealthDimensions {
-			const meta = entry.metadata ?? {};
-
-			const freshness = scoreFreshness(meta["published_at"] as string | null | undefined);
-
-			// Popularity: monthly downloads
-			const downloads = meta["npm_downloads_monthly"] as number | null | undefined;
-			let popularity: number;
-			if (downloads == null) {
-				popularity = 5;
-			} else if (downloads >= 10_000) {
-				popularity = 100;
-			} else if (downloads >= 1_000) {
-				popularity = 70;
-			} else if (downloads >= 100) {
-				popularity = 40;
-			} else if (downloads >= 10) {
-				popularity = 20;
-			} else {
-				popularity = 5;
-			}
-
-			// Activity: npm maintenance score (0–1)
-			const activity = scoreMetric01(meta["npm_score_maintenance"] as number | null | undefined);
-
-			// Depth: npm quality score (0–1)
-			const depth = scoreMetric01(meta["npm_score_quality"] as number | null | undefined);
-
-			return {
-				freshness: clamp(freshness),
-				popularity: clamp(popularity),
-				activity: clamp(activity),
-				depth: clamp(depth),
-			};
 		},
 	};
 }

@@ -13,16 +13,10 @@ import type { Cache } from "../core/cache.ts";
 import { cleanText } from "../core/html.ts";
 import { SEARCH_TERMS } from "../core/terms.ts";
 import { ThrottledFetcher } from "../core/throttle.ts";
-import {
-	type CategorizedEntry,
-	Category,
-	type Entry,
-	EntrySource,
-	type HealthDimensions,
-} from "../core/types.ts";
+import { type CategorizedEntry, Category, EntrySource } from "../core/types.ts";
 import { writeRaw } from "../discover/runner.ts";
 import type { DiscoveryWriter } from "../discover/writer.ts";
-import { clamp, formatKNumber, scoreFreshness } from "./scoring.ts";
+import { formatKNumber } from "./scoring.ts";
 import type { Source } from "./source.ts";
 
 // ─── Config ────────────────────────────────────────────────────────────────────
@@ -230,7 +224,6 @@ export function createYouTubeSource(cache: Cache, opts: YouTubeSourceOptions = {
 		source: EntrySource.YouTubeSearch,
 		displayName: "YouTube",
 		priority: 2,
-		healthCap: 60,
 		suggestedCategory: Category.Video,
 
 		normalizeUrl(url: string): string {
@@ -348,52 +341,6 @@ export function createYouTubeSource(cache: Cache, opts: YouTubeSourceOptions = {
 			process.stderr.write(
 				`[youtube] 🔧 Enriched ${enriched}/${lines.length} videos with statistics\n`,
 			);
-		},
-
-		scoreHealthDimensions(entry: Entry): HealthDimensions {
-			const meta = entry.metadata ?? {};
-
-			const freshness = scoreFreshness(meta["published_at"] as string | null | undefined);
-
-			// Popularity: views
-			const views = meta["views"] as number | null | undefined;
-			let popularity: number;
-			if (views == null) {
-				popularity = 5;
-			} else if (views >= 10_000) {
-				popularity = 100;
-			} else if (views >= 1_000) {
-				popularity = 60;
-			} else if (views >= 100) {
-				popularity = 30;
-			} else {
-				popularity = 10;
-			}
-
-			// Activity: likes + comments combined engagement
-			const likes = (meta["likes"] as number | null | undefined) ?? 0;
-			const comments = (meta["comments"] as number | null | undefined) ?? 0;
-			const engagement = likes + comments;
-			let activity: number;
-			if (engagement >= 1_000) {
-				activity = 100;
-			} else if (engagement >= 100) {
-				activity = 60;
-			} else if (engagement >= 10) {
-				activity = 30;
-			} else {
-				activity = 5;
-			}
-
-			// Depth: videos have no code depth
-			const depth = 0;
-
-			return {
-				freshness: clamp(freshness),
-				popularity: clamp(popularity),
-				activity: clamp(activity),
-				depth: clamp(depth),
-			};
 		},
 	};
 }

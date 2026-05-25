@@ -3,7 +3,7 @@
  */
 
 import type { Cache } from "../core/cache.ts";
-import type { CategorizedEntry, Entry, HealthDimensions } from "../core/types.ts";
+import type { CategorizedEntry } from "../core/types.ts";
 import { type Category, EntrySource } from "../core/types.ts";
 import { createBraveWebSearchSource } from "./brave.ts";
 import { createGitHubSource } from "./github.ts";
@@ -199,11 +199,6 @@ export function getDisplayName(source: EntrySource): string {
 	return getSource(source).displayName;
 }
 
-/** Get a source's health cap. */
-export function getHealthCap(source: EntrySource): number {
-	return getSource(source).healthCap;
-}
-
 /** Get a source's suggested category (or null). */
 export function getSuggestedCategory(source: EntrySource): Category | null {
 	return getSource(source).suggestedCategory;
@@ -222,10 +217,8 @@ const UNKNOWN_SOURCE: Source = {
 	source: "manual" as EntrySource,
 	displayName: "Manual",
 	priority: 99,
-	healthCap: 100,
 	suggestedCategory: null,
 	discover: async () => {},
-	scoreHealthDimensions: () => ({ freshness: 5, popularity: 5, activity: 5, depth: 5 }),
 	normalizeUrl: (url: string) => url,
 	extractId: (url: string) => url.split("/").filter(Boolean).pop() ?? url,
 	formatPopularity: () => "",
@@ -260,33 +253,4 @@ export function getSource(source: EntrySource): Source {
 	const result = src ?? UNKNOWN_SOURCE;
 	sourceCache.set(source, result);
 	return result;
-}
-
-// ─── Health scorer registry (convenience) ─────────────────────────────────────
-
-/** Default scorer for unknown sources: all dimensions minimal. */
-function defaultScorer(_entry: Entry): HealthDimensions {
-	return { freshness: 5, popularity: 5, activity: 5, depth: 5 };
-}
-
-/** Lazy-populated registry of source health scorers. */
-const scorerCache = new Map<EntrySource, ((entry: Entry) => HealthDimensions) | null>();
-
-/**
- * Get the health dimension scorer for an entry source.
- *
- * Creates a lightweight source instance to access its `scoreHealthDimensions` method.
- * These are stateless pure functions, so no cache/API infrastructure is needed.
- */
-export function getHealthScorer(source: EntrySource): (entry: Entry) => HealthDimensions {
-	if (scorerCache.has(source)) {
-		const cached = scorerCache.get(source);
-		return cached ? cached : defaultScorer;
-	}
-
-	const src = getSource(source);
-	const scorer = src !== UNKNOWN_SOURCE ? src.scoreHealthDimensions : null;
-
-	scorerCache.set(source, scorer);
-	return scorer ?? defaultScorer;
 }
