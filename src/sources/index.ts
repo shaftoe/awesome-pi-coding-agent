@@ -189,6 +189,11 @@ export function extractId(url: string): string {
 	return url.split("/").filter(Boolean).pop() ?? url;
 }
 
+/** Extract a numeric popularity value from entry metadata (for sorting). */
+export function getPopularityValue(entry: CategorizedEntry): number {
+	return getSource(entry.source).getPopularityValue(entry);
+}
+
 /** Format an entry's popularity for the README table using its source. */
 export function formatPopularity(entry: CategorizedEntry): string {
 	return getSource(entry.source).formatPopularity(entry);
@@ -221,6 +226,7 @@ const UNKNOWN_SOURCE: Source = {
 	discover: async () => {},
 	normalizeUrl: (url: string) => url,
 	extractId: (url: string) => url.split("/").filter(Boolean).pop() ?? url,
+	getPopularityValue: () => 0,
 	formatPopularity: () => "",
 };
 

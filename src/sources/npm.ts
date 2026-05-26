@@ -156,10 +156,14 @@ export function createNpmSource(cache: Cache, opts: NpmSourceOptions = {}): Sour
 			return url.split("/").filter(Boolean).pop() ?? url;
 		},
 
-		formatPopularity(entry: CategorizedEntry): string {
+		getPopularityValue(entry: CategorizedEntry): number {
 			const meta = entry.metadata as Record<string, unknown>;
-			const downloads = meta["npm_downloads_monthly"];
-			if (typeof downloads === "number" && downloads > 0) {
+			return (meta["npm_downloads_monthly"] as number) ?? 0;
+		},
+
+		formatPopularity(entry: CategorizedEntry): string {
+			const downloads = this.getPopularityValue(entry);
+			if (downloads > 0) {
 				return `\u2B07 ${formatKNumber(downloads)}/mo`;
 			}
 			return "";

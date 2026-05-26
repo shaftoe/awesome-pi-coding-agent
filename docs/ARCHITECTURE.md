@@ -201,11 +201,12 @@ Each source implements several methods on the `Source` interface that were previ
 | `normalizeUrl(url)` | Normalize URLs to canonical form (e.g. YouTube `www.` strip, `youtu.be` expansion) | `normalizeUrl()` in `sources/source.ts` (all sources mixed together) |
 | `extractId(url)` | Derive a human-readable ID from a URL (e.g. npm name, GitHub `owner-repo`, `YT_<id>`) | `extractId()` in `core/ids.ts` |
 | `formatPopularity(entry)` | Format popularity metadata for README table (e.g. `⭐314`, `📺10.5k`) | Inline logic in `generate/render.ts` |
+| `getPopularityValue(entry)` | Extract raw numeric popularity for sorting (downloads, stars, views, points) | Inline `getPopularityScore()` in `core/sort.ts` |
 | `displayName` | Human-readable source name for README footer | `sourceLabel()` switch in `generate/render.ts` |
 | `priority` | Dedup priority (lower wins, npm=0, GitHub=1, etc.) | `SOURCE_PRIORITY` map in `process/index.ts` |
 | `suggestedCategory` | Category override (e.g. YouTube → Video) | `isYouTubeUrl()` in `enrich/classify.ts` |
 
-Pipeline stages dispatch to the correct source via `sources/index.ts` helper functions: `getSource()`, `normalizeUrl()`, `extractId()`, `formatPopularity()`, `getDisplayName()`, `getSuggestedCategory()`, `getPriority()`.
+Pipeline stages dispatch to the correct source via `sources/index.ts` helper functions: `getSource()`, `normalizeUrl()`, `extractId()`, `getPopularityValue()`, `formatPopularity()`, `getDisplayName()`, `getSuggestedCategory()`, `getPriority()`.
 
 ### `repository.ts` — Generic Repository Interface
 

@@ -188,10 +188,14 @@ export function createHackerNewsSource(cache: Cache, opts: HackerNewsSourceOptio
 			return url.split("/").filter(Boolean).pop() ?? url;
 		},
 
-		formatPopularity(entry: CategorizedEntry): string {
+		getPopularityValue(entry: CategorizedEntry): number {
 			const meta = entry.metadata as Record<string, unknown>;
-			const points = meta["points"];
-			if (typeof points === "number" && points > 0) {
+			return (meta["points"] as number) ?? 0;
+		},
+
+		formatPopularity(entry: CategorizedEntry): string {
+			const points = this.getPopularityValue(entry);
+			if (points > 0) {
 				return `\u{1F4CC}${points}`;
 			}
 			return "";

@@ -38,6 +38,8 @@ export interface Source {
 	normalizeUrl(url: string): string;
 	/** Derive a human-readable entry ID from a URL. */
 	extractId(url: string): string;
+	/** Extract the raw numeric popularity value from entry metadata (for sorting). Returns 0 if unavailable. */
+	getPopularityValue(entry: CategorizedEntry): number;
 	/** Format an entry's popularity metadata for the README table. Return "" for none. */
 	formatPopularity(entry: CategorizedEntry): string;
 }

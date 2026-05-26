@@ -253,6 +253,10 @@ export function createBraveWebSearchSource(
 			}
 		},
 
+		getPopularityValue(_entry: CategorizedEntry): number {
+			return 0;
+		},
+
 		formatPopularity(entry: CategorizedEntry): string {
 			// Brave search doesn't provide a numeric popularity metric
 			// Show source site if available

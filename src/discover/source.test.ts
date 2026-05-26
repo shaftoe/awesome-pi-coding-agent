@@ -32,6 +32,7 @@ function makeSource(name: string, urls: string[]): Source {
 		normalizeUrl: (url: string) => url,
 		extractId: (url: string) => url.split("/").filter(Boolean).pop() ?? url,
 		formatPopularity: () => "",
+		getPopularityValue: () => 0,
 	};
 }
 
@@ -96,6 +97,7 @@ describe("runDiscovery", () => {
 			normalizeUrl: (url: string) => url,
 			extractId: (url: string) => url.split("/").filter(Boolean).pop() ?? url,
 			formatPopularity: () => "",
+			getPopularityValue: () => 0,
 		};
 		const goodSource = makeSource("npm", ["https://a.com/1"]);
 

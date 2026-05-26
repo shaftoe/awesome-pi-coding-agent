@@ -245,10 +245,14 @@ export function createYouTubeSource(cache: Cache, opts: YouTubeSourceOptions = {
 			return url.split("/").filter(Boolean).pop() ?? url;
 		},
 
-		formatPopularity(entry: CategorizedEntry): string {
+		getPopularityValue(entry: CategorizedEntry): number {
 			const meta = entry.metadata as Record<string, unknown>;
-			const views = meta["views"];
-			if (typeof views === "number" && views > 0) {
+			return (meta["views"] as number) ?? 0;
+		},
+
+		formatPopularity(entry: CategorizedEntry): string {
+			const views = this.getPopularityValue(entry);
+			if (views > 0) {
 				return `\u{1F4FA}${formatKNumber(views)}`;
 			}
 			return "";

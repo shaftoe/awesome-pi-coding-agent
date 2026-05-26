@@ -166,10 +166,14 @@ export function createGitHubSource(cache: Cache, opts: GitHubSourceOptions = {})
 			return url.split("/").filter(Boolean).pop() ?? url;
 		},
 
-		formatPopularity(entry: CategorizedEntry): string {
+		getPopularityValue(entry: CategorizedEntry): number {
 			const meta = entry.metadata as Record<string, unknown>;
-			const stars = meta["stars"];
-			if (typeof stars === "number" && stars > 0) {
+			return (meta["stars"] as number) ?? 0;
+		},
+
+		formatPopularity(entry: CategorizedEntry): string {
+			const stars = this.getPopularityValue(entry);
+			if (stars > 0) {
 				return `\u2B50${formatKNumber(stars)}`;
 			}
 			return "";
