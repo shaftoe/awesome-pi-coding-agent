@@ -6,13 +6,7 @@
  * (discover, process) are generic orchestrators that call Source methods.
  */
 
-import type {
-	CategorizedEntry,
-	Category,
-	Entry,
-	EntrySource,
-	HealthDimensions,
-} from "../core/types.ts";
+import type { CategorizedEntry, Category, EntrySource } from "../core/types.ts";
 import type { DiscoveryWriter } from "../discover/writer.ts";
 
 // ─── Source interface ──────────────────────────────────────────────────────────
@@ -26,8 +20,6 @@ export interface Source {
 	readonly displayName: string;
 	/** Priority for dedup — lower wins (npm=0, GitHub=1, etc.). */
 	readonly priority: number;
-	/** Maximum health score (e.g. 60 for sources that can't be "Active"). Default: 100. */
-	readonly healthCap: number;
 	/** Category override — e.g. YouTube always classifies as Video. Default: null. */
 	readonly suggestedCategory: Category | null;
 	/** Run discovery, streaming candidates to the writer. Should not throw. */
@@ -42,20 +34,12 @@ export interface Source {
 	 * Default: no-op (sources that don't need enrichment simply omit this method).
 	 */
 	enrich?(writer: DiscoveryWriter): Promise<void>;
-	/**
-	 * Score an entry's health dimensions (freshness, popularity, activity, depth).
-	 *
-	 * Each source knows how to interpret its own metadata fields into normalised
-	 * 0–100 dimension scores. The generic combiner (`enrich/health.ts`) then
-	 * applies the weighted formula and hard rules.
-	 *
-	 * This is a stateless pure function — no instance state is needed.
-	 */
-	scoreHealthDimensions(entry: Entry): HealthDimensions;
 	/** Normalize a URL to canonical form (e.g. strip www., expand short URLs). */
 	normalizeUrl(url: string): string;
 	/** Derive a human-readable entry ID from a URL. */
 	extractId(url: string): string;
+	/** Extract the raw numeric popularity value from entry metadata (for sorting). Returns 0 if unavailable. */
+	getPopularityValue(entry: CategorizedEntry): number;
 	/** Format an entry's popularity metadata for the README table. Return "" for none. */
 	formatPopularity(entry: CategorizedEntry): string;
 }

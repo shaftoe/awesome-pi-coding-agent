@@ -17,16 +17,9 @@ import type { Cache } from "../core/cache.ts";
 import { cleanText } from "../core/html.ts";
 import { SEARCH_TERMS } from "../core/terms.ts";
 import { ThrottledFetcher } from "../core/throttle.ts";
-import {
-	type CategorizedEntry,
-	Category,
-	type Entry,
-	EntrySource,
-	type HealthDimensions,
-} from "../core/types.ts";
+import { type CategorizedEntry, Category, EntrySource } from "../core/types.ts";
 import { writeRaw } from "../discover/runner.ts";
 import type { DiscoveryWriter } from "../discover/writer.ts";
-import { clamp, scoreFreshness } from "./scoring.ts";
 import type { Source } from "./source.ts";
 
 // ─── Config ────────────────────────────────────────────────────────────────────
@@ -176,7 +169,6 @@ export function createHackerNewsSource(cache: Cache, opts: HackerNewsSourceOptio
 		source: EntrySource.HackerNewsSearch,
 		displayName: "Hacker News",
 		priority: 3,
-		healthCap: 60,
 		suggestedCategory: Category.Article,
 
 		normalizeUrl(url: string): string {
@@ -196,10 +188,14 @@ export function createHackerNewsSource(cache: Cache, opts: HackerNewsSourceOptio
 			return url.split("/").filter(Boolean).pop() ?? url;
 		},
 
-		formatPopularity(entry: CategorizedEntry): string {
+		getPopularityValue(entry: CategorizedEntry): number {
 			const meta = entry.metadata as Record<string, unknown>;
-			const points = meta["points"];
-			if (typeof points === "number" && points > 0) {
+			return (meta["points"] as number) ?? 0;
+		},
+
+		formatPopularity(entry: CategorizedEntry): string {
+			const points = this.getPopularityValue(entry);
+			if (points > 0) {
 				return `\u{1F4CC}${points}`;
 			}
 			return "";
@@ -216,57 +212,6 @@ export function createHackerNewsSource(cache: Cache, opts: HackerNewsSourceOptio
 					process.stderr.write(`[hackernews] ⚠️  Failed: ${err}\n`);
 				}
 			}
-		},
-
-		scoreHealthDimensions(entry: Entry): HealthDimensions {
-			const meta = entry.metadata ?? {};
-
-			// Freshness: story creation date
-			const freshness = scoreFreshness(meta["published_at"] as string | null | undefined);
-
-			// Popularity: HN points
-			const points = meta["points"] as number | null | undefined;
-			let popularity: number;
-			if (points == null) {
-				popularity = 5;
-			} else if (points >= 500) {
-				popularity = 100;
-			} else if (points >= 100) {
-				popularity = 70;
-			} else if (points >= 50) {
-				popularity = 50;
-			} else if (points >= 10) {
-				popularity = 30;
-			} else {
-				popularity = 10;
-			}
-
-			// Activity: number of comments as engagement signal
-			const comments = meta["num_comments"] as number | null | undefined;
-			let activity: number;
-			if (comments == null) {
-				activity = 5;
-			} else if (comments >= 100) {
-				activity = 100;
-			} else if (comments >= 50) {
-				activity = 70;
-			} else if (comments >= 10) {
-				activity = 40;
-			} else if (comments >= 1) {
-				activity = 20;
-			} else {
-				activity = 5;
-			}
-
-			// Depth: HN stories have no code depth
-			const depth = 0;
-
-			return {
-				freshness: clamp(freshness),
-				popularity: clamp(popularity),
-				activity: clamp(activity),
-				depth: clamp(depth),
-			};
 		},
 	};
 }

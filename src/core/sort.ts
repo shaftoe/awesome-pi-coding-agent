@@ -1,25 +1,25 @@
 /**
  * Entry sorting — shared between README render and site.
  *
- * Sort key: health level (Active first) → health score (desc) → name (asc, case-insensitive).
+ * Sort key: popularity score (desc) → name (asc, case-insensitive).
+ *
+ * Popularity is extracted from source-specific metadata via the Source interface:
+ *   - npm: monthly downloads
+ *   - GitHub: stars
+ *   - YouTube: views
+ *   - Hacker News: points
+ *   - Brave: (no numeric metric, defaults to 0)
  */
 
-import type { CategorizedEntry, HealthLevel } from "./types";
+import { getPopularityValue } from "../sources/index.ts";
+import type { CategorizedEntry } from "./types";
 
-const HEALTH_PRIORITY: Record<HealthLevel, number> = {
-	active: 0,
-	maintained: 1,
-	stale: 2,
-	dead: 3,
-};
-
-/** Sort entries using the canonical ordering: health level → score → name. */
+/** Sort entries using the canonical ordering: popularity (desc) → name (asc). */
 export function sortEntries(entries: CategorizedEntry[]): CategorizedEntry[] {
 	return [...entries].sort((a, b) => {
-		const ha = HEALTH_PRIORITY[a.health.level] ?? 9;
-		const hb = HEALTH_PRIORITY[b.health.level] ?? 9;
-		if (ha !== hb) return ha - hb;
-		if (b.health.score !== a.health.score) return b.health.score - a.health.score;
+		const pa = getPopularityValue(a);
+		const pb = getPopularityValue(b);
+		if (pb !== pa) return pb - pa;
 		return a.name.localeCompare(b.name, undefined, { sensitivity: "base" });
 	});
 }

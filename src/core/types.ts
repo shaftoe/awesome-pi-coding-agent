@@ -1,7 +1,7 @@
 /**
  * Core type definitions for the awesome-pi-coding-agent data pipeline.
  *
- * Uses string enums for categories, sources, and health levels so that
+ * Uses string enums for categories and sources so that
  * both the type system and runtime values are strongly typed.
  */
 
@@ -28,28 +28,6 @@ export const CATEGORIES: readonly Category[] = [
 	Category.Misc,
 ];
 
-// ─── Health ────────────────────────────────────────────────────────────────────
-
-export enum HealthLevel {
-	Active = "active",
-	Maintained = "maintained",
-	Stale = "stale",
-	Dead = "dead",
-}
-
-export interface Health {
-	score: number; // 0–100
-	level: HealthLevel;
-}
-
-/** Normalised dimension scores (each 0–100), produced by source-specific scorers. */
-export interface HealthDimensions {
-	freshness: number;
-	popularity: number;
-	activity: number;
-	depth: number;
-}
-
 // ─── Entry ─────────────────────────────────────────────────────────────────────
 
 export enum EntrySource {
@@ -70,7 +48,6 @@ export interface Entry {
 	description: string;
 	subitems?: SubItem[];
 	metadata: EntryMetadata;
-	health: Health;
 }
 
 export interface CategorizedEntry extends Entry {

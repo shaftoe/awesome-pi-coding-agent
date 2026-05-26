@@ -13,16 +13,10 @@ import { buildIndices, checkDuplicate, type DuplicationIndices } from "../core/d
 import { cleanText } from "../core/html.ts";
 import { writeMeta } from "../core/meta.ts";
 import { getEntryRepo, saveEntry } from "../core/store.ts";
-import {
-	type CategorizedEntry,
-	type DiscoveryCandidate,
-	type Entry,
-	HealthLevel,
-} from "../core/types.ts";
+import type { CategorizedEntry, DiscoveryCandidate, Entry } from "../core/types.ts";
 import { loadDiscoveryLines } from "../discover/writer.ts";
 import { classifyEntry } from "../enrich/classify.ts";
-import { computeHealth } from "../enrich/health.ts";
-import { extractId, getHealthScorer, getPriority } from "../sources/index.ts";
+import { extractId, getPriority } from "../sources/index.ts";
 
 const ROOT_DIR = join(import.meta.dir, "..", "..");
 const DATA_DIR = join(ROOT_DIR, "data");
@@ -80,11 +74,7 @@ function refreshExistingEntry(
 			discovery_hint:
 				discovery.hint ?? (existing.metadata?.["discovery_hint"] as string | null) ?? null,
 		},
-		health: { score: 0, level: HealthLevel.Stale }, // overwritten below
 	};
-
-	const dims = getHealthScorer(updated.source)(updated);
-	updated.health = computeHealth(updated, dims);
 
 	const classified = classifyEntry(updated);
 	saveEntry(classified);
@@ -117,11 +107,7 @@ function addNewEntry(discovery: DiscoveryCandidate, indices: DuplicationIndices)
 			...(discovery.metadata ?? {}),
 			discovery_hint: discovery.hint ?? null,
 		},
-		health: { score: 0, level: HealthLevel.Stale }, // overwritten below
 	};
-
-	const dims = getHealthScorer(entry.source)(entry);
-	entry.health = computeHealth(entry, dims);
 
 	const classified = classifyEntry(entry);
 	saveEntry(classified);

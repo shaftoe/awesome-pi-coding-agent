@@ -37,9 +37,6 @@ function printEntry(entry: CategorizedEntry): void {
 	console.log(`  source:      ${entry.source}`);
 	console.log(`  category:    ${entry.category}`);
 	console.log(`  description: ${entry.description}`);
-	console.log(
-		`  health:      ${healthBadge(entry.health.level)} ${entry.health.score}/100 (${entry.health.level})`,
-	);
 
 	if (entry.subitems?.length) {
 		console.log(`  subitems:`);
@@ -92,21 +89,6 @@ function printBlacklist(url: string): void {
 }
 
 // ─── Helpers ───────────────────────────────────────────────────────────────────
-
-function healthBadge(level: string): string {
-	switch (level) {
-		case "active":
-			return "🟢";
-		case "maintained":
-			return "🟡";
-		case "stale":
-			return "🟠";
-		case "dead":
-			return "🔴";
-		default:
-			return "⚪";
-	}
-}
 
 function formatMetadataValue(value: unknown): string {
 	if (value === null || value === undefined) return "(null)";

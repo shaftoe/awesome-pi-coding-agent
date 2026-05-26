@@ -10,17 +10,8 @@ import "../../src/core/temporal.ts";
 import { readMeta } from "../core/meta.ts";
 import { sortEntries } from "../core/sort.ts";
 import { formatBuildTimestamp, formatIsoTimestamp } from "../core/timestamp.ts";
-import type { CategorizedEntry, HealthLevel } from "../core/types.ts";
+import type { CategorizedEntry } from "../core/types.ts";
 import { formatPopularity, getDisplayName } from "../sources/index.ts";
-
-// ─── Health badge ──────────────────────────────────────────────────────────────
-
-const HEALTH_BADGE: Record<HealthLevel, string> = {
-	active: "\u{1F7E2}", // green circle
-	maintained: "\u{1F7E1}", // yellow circle
-	stale: "\u{1F7E0}", // orange circle
-	dead: "\u{1F534}", // red circle
-};
 
 // ─── Category metadata ────────────────────────────────────────────────────────
 
@@ -132,16 +123,15 @@ function renderTableSection(
 	lines.push("");
 	lines.push(`*${description}*`);
 	lines.push("");
-	lines.push("| Health | Name | Description | Popularity | Updated |");
-	lines.push("|:------:|------|-------------|----------:|--------:|");
+	lines.push("| Name | Description | Popularity | Updated |");
+	lines.push("|------|-------------|----------:|--------:|");
 
 	for (const entry of sorted) {
-		const health = HEALTH_BADGE[entry.health.level] ?? entry.health.level;
 		const name = `[${escapeMarkdown(entry.name)}](${entry.url})`;
 		const desc = escapeMarkdown(entry.description);
 		const popularity = formatPopularity(entry);
 		const updated = formatUpdated(entry);
-		lines.push(`| ${health} | ${name} | ${desc} | ${popularity} | ${updated} |`);
+		lines.push(`| ${name} | ${desc} | ${popularity} | ${updated} |`);
 	}
 
 	lines.push("");
@@ -153,7 +143,6 @@ function renderTableSection(
 export interface GenerateOptions {
 	total: number;
 	byCategory: Record<string, number>;
-	byHealth: Record<string, number>;
 	bySource: Record<string, number>;
 	grouped: Record<string, CategorizedEntry[]>;
 }
@@ -176,19 +165,15 @@ Content available as Markdown here and as website (with search feature) live at 
 	sections.push(`
 ## How it works
 
-A **four-stage data pipeline** runs [daily on CI](.github/workflows/pipeline.yml) — discover from various sources → filter for Pi relevance → deduplicate, classify & health-score → render this list.
+A **four-stage data pipeline** runs [daily on CI](.github/workflows/pipeline.yml) — discover from various sources → filter for Pi relevance → deduplicate & classify → render this list.
 
 → [Full architecture docs](./docs/ARCHITECTURE.md)`);
 
 	// ── Stats ──
-	const active = opts.byHealth["active"] ?? 0;
-	const maintained = opts.byHealth["maintained"] ?? 0;
 	sections.push(`
 ## Stats
 
-**${opts.total} resources** indexed \u00b7 **${active}** active \u00b7 **${maintained}** maintained \u00b7 [Updated daily.](./.github/workflows/pipeline.yml)
-
-Status: \u{1F7E2} Active \u00b7 \u{1F7E1} Maintained \u00b7 \u{1F7E0} Stale \u00b7 \u{1F534} Dead`);
+**${opts.total} resources** indexed · [Updated daily.](./.github/workflows/pipeline.yml)`);
 
 	// ── TOC ──
 	const tocLines: string[] = [];
@@ -203,7 +188,7 @@ Status: \u{1F7E2} Active \u00b7 \u{1F7E1} Maintained \u00b7 \u{1F7E0} Stale \u00
 			.toLowerCase()
 			.replace(/[^a-z0-9 -]/g, "") // strip non-alphanumeric (keep spaces & hyphens)
 			.replace(/ /g, "-"); // spaces to hyphens (preserves double-dash from stripped '&')
-		tocLines.push(`- [${meta.heading}](#${anchor}) \u2014 ${count}`);
+		tocLines.push(`- [${meta.heading}](#${anchor}) — ${count}`);
 	}
 	sections.push(tocLines.join("\n"));
 

@@ -17,16 +17,9 @@ import type { Cache } from "../core/cache.ts";
 import { cleanText } from "../core/html.ts";
 import { SEARCH_TERMS } from "../core/terms.ts";
 import { ThrottledFetcher } from "../core/throttle.ts";
-import {
-	type CategorizedEntry,
-	Category,
-	type Entry,
-	EntrySource,
-	type HealthDimensions,
-} from "../core/types.ts";
+import { type CategorizedEntry, Category, EntrySource } from "../core/types.ts";
 import { writeRaw } from "../discover/runner.ts";
 import type { DiscoveryWriter } from "../discover/writer.ts";
-import { clamp, scoreFreshness } from "./scoring.ts";
 import type { Source } from "./source.ts";
 
 // ─── Config ────────────────────────────────────────────────────────────────────
@@ -237,7 +230,6 @@ export function createBraveWebSearchSource(
 		source: EntrySource.BraveWebSearch,
 		displayName: "Brave Search",
 		priority: 4,
-		healthCap: 60,
 		suggestedCategory: Category.Article,
 
 		normalizeUrl(url: string): string {
@@ -259,6 +251,10 @@ export function createBraveWebSearchSource(
 			} catch {
 				return url.split("/").filter(Boolean).pop() ?? url;
 			}
+		},
+
+		getPopularityValue(_entry: CategorizedEntry): number {
+			return 0;
 		},
 
 		formatPopularity(entry: CategorizedEntry): string {
@@ -291,30 +287,6 @@ export function createBraveWebSearchSource(
 					process.stderr.write(`[brave] ⚠️  Failed: ${err}\n`);
 				}
 			}
-		},
-
-		scoreHealthDimensions(entry: Entry): HealthDimensions {
-			const meta = entry.metadata ?? {};
-
-			// Freshness: article publish date
-			const freshness = scoreFreshness(meta["published_at"] as string | null | undefined);
-
-			// Popularity: no direct metric from Brave — use a minimal default
-			// Articles from web search don't have download/star counts
-			const popularity = 30; // Moderate default for discovered articles
-
-			// Activity: no meaningful signal for web articles
-			const activity = 10;
-
-			// Depth: web articles have no code depth
-			const depth = 0;
-
-			return {
-				freshness: clamp(freshness),
-				popularity: clamp(popularity),
-				activity: clamp(activity),
-				depth: clamp(depth),
-			};
 		},
 	};
 }

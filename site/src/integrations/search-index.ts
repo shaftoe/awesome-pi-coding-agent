@@ -74,7 +74,6 @@ export function searchIndex(): AstroIntegration {
 					url: string;
 					description: string;
 					category: string;
-					health: { score: number; level: string };
 					metadata: Record<string, unknown>;
 				}> = [];
 
@@ -107,7 +106,6 @@ export function searchIndex(): AstroIntegration {
 						d: e.description || "",
 						c: e.category,
 						u: e.url,
-						h: e.health.level,
 						s: pop,
 						p: popLabel,
 					};
