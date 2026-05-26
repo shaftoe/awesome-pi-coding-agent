@@ -5,24 +5,24 @@
   "source": "npm-search",
   "description": "Pi extension that hijacks the bash tool and routes it through Nushell",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/louiss0/pi-packages",
     "npm_name": "@code-fixer-23/pi-bash-tooljack-nu",
     "description": "Pi extension that hijacks the bash tool and routes it through Nushell",
     "keywords": [
       "pi-package"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-05-20T14:21:43.099Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "1.0.2",
+    "published_at": "2026-05-25T17:24:50.515Z",
+    "npm_downloads_monthly": 131,
+    "npm_downloads_weekly": 131,
+    "npm_score_final": 16.821695,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
-    "score": 72,
+    "score": 82,
     "level": "active"
   },
   "category": "extension"

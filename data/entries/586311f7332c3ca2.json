@@ -10,7 +10,7 @@
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid-session, hybrid search retrieves them, and a tiered L0/L1 recall block injects identity + top-ranked records at session start. Works across any AI harnesses like Claude Code, Opencode, & Pi from one database.",
     "stars": 2,
     "forks": 0,
-    "open_issues": 6,
+    "open_issues": 7,
     "topics": [
       "ai-memory",
       "ai-memory-system",

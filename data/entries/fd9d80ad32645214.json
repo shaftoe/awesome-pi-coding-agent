@@ -10,7 +10,7 @@
     "description": "A monorepo of high-quality extensions for the Pi coding agent.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "coding-agent",
       "monorepo",
@@ -21,15 +21,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-03T20:53:55Z",
-    "pushed_at": "2026-05-24T19:15:49Z",
-    "updated_at": "2026-05-24T19:15:43Z",
-    "size": 3506,
+    "pushed_at": "2026-05-25T18:50:28Z",
+    "updated_at": "2026-05-25T18:50:23Z",
+    "size": 3629,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 76,
+    "level": "active"
   },
   "category": "extension"
 }

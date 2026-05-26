@@ -1,0 +1,29 @@
+{
+  "id": "openmyna-extension",
+  "name": "openmyna-extension",
+  "url": "https://www.npmjs.com/package/openmyna-extension",
+  "source": "npm-search",
+  "description": "Pi Coding Agent extension for OpenMyna agent-to-agent messaging (E2EE, discovery, manifests)",
+  "metadata": {
+    "github_url": "https://github.com/Random-Simulation/openmyna",
+    "repo_full_name": "Random-Simulation/openmyna",
+    "description": "Pi Coding Agent extension for OpenMyna agent-to-agent messaging (E2EE, discovery, manifests)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-25T14:47:22Z",
+    "pushed_at": "2026-05-25T18:05:11Z",
+    "updated_at": "2026-05-25T18:05:15Z",
+    "size": 159,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 74,
+    "level": "active"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "Pi coding agent extension for Tavily web search API",
     "stars": 5,
     "forks": 2,
-    "open_issues": 2,
+    "open_issues": 1,
     "topics": [
       "pi-extension",
       "tavily",
@@ -19,15 +19,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-05T02:53:46Z",
-    "pushed_at": "2026-05-22T13:51:49Z",
-    "updated_at": "2026-05-22T13:51:58Z",
-    "size": 208,
+    "pushed_at": "2026-05-25T05:31:34Z",
+    "updated_at": "2026-05-25T05:31:35Z",
+    "size": 212,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 77,
+    "level": "active"
   },
   "category": "extension"
 }

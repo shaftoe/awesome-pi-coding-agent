@@ -9,7 +9,7 @@
     "repo_full_name": "tintinweb/pi-tasks",
     "description": "A pi extension that brings Claude Code-style task tracking and coordination to pi. Track multi-step work with structured tasks, dependency management, and a persistent visual widget.",
     "stars": 83,
-    "forks": 20,
+    "forks": 21,
     "open_issues": 11,
     "topics": [
       "pi-agent",
@@ -26,8 +26,8 @@
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 71,
+    "level": "active"
   },
   "category": "extension"
 }

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/wobondar/pi-codex-fast",
     "repo_full_name": "wobondar/pi-codex-fast",
     "description": "Fast mode toggle for OpenAI and Codex models in pi.",
-    "stars": 1,
+    "stars": 2,
     "forks": 2,
     "open_issues": 0,
     "topics": [
@@ -18,15 +18,15 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-27T23:43:21Z",
-    "pushed_at": "2026-05-18T21:19:16Z",
-    "updated_at": "2026-05-18T21:19:12Z",
-    "size": 282,
+    "pushed_at": "2026-05-25T05:40:12Z",
+    "updated_at": "2026-05-25T05:40:08Z",
+    "size": 586,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 77,
+    "level": "active"
   },
   "category": "extension"
 }

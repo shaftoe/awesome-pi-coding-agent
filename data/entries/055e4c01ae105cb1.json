@@ -1,0 +1,29 @@
+{
+  "id": "@bramgeron/pi-kagi",
+  "name": "@bramgeron/pi-kagi",
+  "url": "https://www.npmjs.com/package/@bramgeron/pi-kagi",
+  "source": "npm-search",
+  "description": "Extensions for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/bgeron/pi-stuff",
+    "repo_full_name": "bgeron/pi-stuff",
+    "description": "Extensions for the Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-25T22:54:48Z",
+    "pushed_at": "2026-05-25T22:58:53Z",
+    "updated_at": "2026-05-25T23:46:21Z",
+    "size": 35,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

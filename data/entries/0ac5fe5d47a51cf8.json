@@ -1,0 +1,29 @@
+{
+  "id": "KarthikRaju391-pi-config",
+  "name": "KarthikRaju391-pi-config",
+  "url": "https://github.com/KarthikRaju391/pi-config",
+  "source": "github-search",
+  "description": "Personal Pi coding-agent configuration",
+  "metadata": {
+    "github_url": "https://github.com/KarthikRaju391/pi-config",
+    "repo_full_name": "KarthikRaju391/pi-config",
+    "description": "Personal Pi coding-agent configuration",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-25T16:40:59Z",
+    "pushed_at": "2026-05-25T19:04:27Z",
+    "updated_at": "2026-05-25T19:04:31Z",
+    "size": 25,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

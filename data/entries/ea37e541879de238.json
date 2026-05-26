@@ -10,7 +10,7 @@
     "description": "Permission enforcement extension for the Pi coding agent.",
     "stars": 68,
     "forks": 18,
-    "open_issues": 3,
+    "open_issues": 4,
     "topics": [
       "access-control",
       "authorization",
@@ -35,8 +35,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 88,
+    "level": "active"
   },
   "category": "extension"
 }

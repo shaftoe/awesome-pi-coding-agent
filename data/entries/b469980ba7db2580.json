@@ -1,0 +1,33 @@
+{
+  "id": "pi-fff-non-ascii-guard",
+  "name": "pi-fff-non-ascii-guard",
+  "url": "https://www.npmjs.com/package/pi-fff-non-ascii-guard",
+  "source": "npm-search",
+  "description": "Pi extension that detects and renames non-ASCII filenames before fff-core can panic on UTF-8 byte boundaries.",
+  "metadata": {
+    "github_url": "https://github.com/eiei114/pi-fff-non-ascii-guard",
+    "npm_name": "pi-fff-non-ascii-guard",
+    "description": "Pi extension that detects and renames non-ASCII filenames before fff-core can panic on UTF-8 byte boundaries.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "fff-core",
+      "filename",
+      "utf-8"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-05-25T23:02:06.815Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

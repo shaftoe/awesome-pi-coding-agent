@@ -1,0 +1,29 @@
+{
+  "id": "abboskhonov-nia-pi",
+  "name": "abboskhonov-nia-pi",
+  "url": "https://github.com/abboskhonov/nia-pi",
+  "source": "github-search",
+  "description": "Official Nia extension for pi.dev — index and search code repos, docs, papers, and packages via Nia AI",
+  "metadata": {
+    "github_url": "https://github.com/abboskhonov/nia-pi",
+    "repo_full_name": "abboskhonov/nia-pi",
+    "description": "Official Nia extension for pi.dev — index and search code repos, docs, papers, and packages via Nia AI",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-25T15:24:21Z",
+    "pushed_at": "2026-05-25T15:48:08Z",
+    "updated_at": "2026-05-25T15:48:11Z",
+    "size": 35,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

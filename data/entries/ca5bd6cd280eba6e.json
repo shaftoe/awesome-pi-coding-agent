@@ -1,0 +1,36 @@
+{
+  "id": "@pgilad/pi-vertex-anthropic",
+  "name": "@pgilad/pi-vertex-anthropic",
+  "url": "https://www.npmjs.com/package/@pgilad/pi-vertex-anthropic",
+  "source": "npm-search",
+  "description": "Pi extension: Claude on Google Cloud Vertex AI via ADC. Uses the official @anthropic-ai/vertex-sdk for real Application Default Credentials (gcloud user creds, service account JSON, GCE/GKE metadata server, workload identity).",
+  "metadata": {
+    "github_url": "https://github.com/pgilad/pi-vertex-anthropic",
+    "npm_name": "@pgilad/pi-vertex-anthropic",
+    "description": "Pi extension: Claude on Google Cloud Vertex AI via ADC. Uses the official @anthropic-ai/vertex-sdk for real Application Default Credentials (gcloud user creds, service account JSON, GCE/GKE metadata server, workload identity).",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "anthropic",
+      "claude",
+      "vertex-ai",
+      "gcp",
+      "adc"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-05-25T13:08:21.842Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

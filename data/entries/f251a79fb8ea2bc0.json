@@ -1,0 +1,35 @@
+{
+  "id": "@kky42/pi-hermes-goal",
+  "name": "@kky42/pi-hermes-goal",
+  "url": "https://www.npmjs.com/package/@kky42/pi-hermes-goal",
+  "source": "npm-search",
+  "description": "Pi extension providing Hermes-style persistent /goal loop with judge-model evaluation, subgoals, and turn budget enforcement",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@kky42/pi-hermes-goal",
+    "description": "Pi extension providing Hermes-style persistent /goal loop with judge-model evaluation, subgoals, and turn budget enforcement",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-goal",
+      "hermes-goal",
+      "goal-loop",
+      "agent-goal",
+      "judge-model"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-05-25T07:56:49.940Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

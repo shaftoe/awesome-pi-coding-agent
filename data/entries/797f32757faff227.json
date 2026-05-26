@@ -1,0 +1,29 @@
+{
+  "id": "@sean_pedersen/pi-codegraph",
+  "name": "@sean_pedersen/pi-codegraph",
+  "url": "https://www.npmjs.com/package/@sean_pedersen/pi-codegraph",
+  "source": "npm-search",
+  "description": "Pi coding agent extension for codegraph (tree-sitter knowledge graph MCP sidecar)",
+  "metadata": {
+    "github_url": "https://github.com/SeanPedersen/pi-codegraph",
+    "repo_full_name": "SeanPedersen/pi-codegraph",
+    "description": "Pi coding agent extension for codegraph (tree-sitter knowledge graph MCP sidecar)",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-25T12:31:29Z",
+    "pushed_at": "2026-05-25T15:23:14Z",
+    "updated_at": "2026-05-25T16:24:06Z",
+    "size": 5,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 75,
+    "level": "active"
+  },
+  "category": "extension"
+}

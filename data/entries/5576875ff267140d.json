@@ -10,7 +10,7 @@
     "description": "Interactive clarification flows for Pi coding agent",
     "stars": 25,
     "forks": 4,
-    "open_issues": 4,
+    "open_issues": 5,
     "topics": [
       "ai",
       "ask",
@@ -30,8 +30,8 @@
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 84,
+    "level": "active"
   },
   "category": "extension"
 }
