@@ -3,20 +3,21 @@
   "name": "@pi-plugins/webfetch",
   "url": "https://www.npmjs.com/package/@pi-plugins/webfetch",
   "source": "npm-search",
-  "description": "WebFetch tool extension for pi-agent.",
+  "description": "Exit command extension for pi-agent.",
   "metadata": {
     "github_url": "https://github.com/k3dom/pi-plugins",
-    "npm_name": "@pi-plugins/webfetch",
-    "description": "WebFetch tool extension for pi-agent.",
+    "npm_name": "@pi-plugins/exit",
+    "description": "Exit command extension for pi-agent.",
     "keywords": [
+      "exit",
       "pi",
       "pi-agent",
       "pi-extension",
       "pi-package",
-      "webfetch"
+      "quit"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-05-23T18:10:52.899Z",
+    "version": "0.1.0",
+    "published_at": "2026-05-25T21:59:13.299Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

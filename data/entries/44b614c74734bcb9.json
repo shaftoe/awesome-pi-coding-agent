@@ -1,0 +1,29 @@
+{
+  "id": "moritz-epeak-pi-speak",
+  "name": "moritz-epeak-pi-speak",
+  "url": "https://github.com/moritz-epeak/pi-speak",
+  "source": "github-search",
+  "description": "Text-to-speech for Pi coding agent. ~90ms latency, 8 voices, self-contained pi package.",
+  "metadata": {
+    "github_url": "https://github.com/moritz-epeak/pi-speak",
+    "repo_full_name": "moritz-epeak/pi-speak",
+    "description": "Text-to-speech for Pi coding agent. ~90ms latency, 8 voices, self-contained pi package.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-25T14:40:13Z",
+    "pushed_at": "2026-05-25T14:40:32Z",
+    "updated_at": "2026-05-25T14:40:36Z",
+    "size": 10,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

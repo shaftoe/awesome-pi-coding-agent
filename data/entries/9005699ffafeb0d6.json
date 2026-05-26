@@ -8,7 +8,7 @@
     "github_url": "https://github.com/juanibiapina/pi-plan",
     "repo_full_name": "juanibiapina/pi-plan",
     "description": "Pi extension for plan mode - read-only exploration and analysis",
-    "stars": 8,
+    "stars": 9,
     "forks": 3,
     "open_issues": 2,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": true,
     "created_at": "2026-02-06T09:50:38Z",
     "pushed_at": "2026-03-10T09:37:37Z",
-    "updated_at": "2026-05-23T04:17:12Z",
+    "updated_at": "2026-05-25T13:37:52Z",
     "size": 153,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

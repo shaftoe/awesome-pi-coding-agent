@@ -1,0 +1,29 @@
+{
+  "id": "Luan-Vn4-pi-mode",
+  "name": "Luan-Vn4-pi-mode",
+  "url": "https://github.com/Luan-Vn4/pi-mode",
+  "source": "github-search",
+  "description": "Pi Coding Agent extension to add Cursor based modes.",
+  "metadata": {
+    "github_url": "https://github.com/Luan-Vn4/pi-mode",
+    "repo_full_name": "Luan-Vn4/pi-mode",
+    "description": "Pi Coding Agent extension to add Cursor based modes.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-25T02:09:55Z",
+    "pushed_at": "2026-05-25T02:13:57Z",
+    "updated_at": "2026-05-25T02:14:01Z",
+    "size": 8,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 50,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

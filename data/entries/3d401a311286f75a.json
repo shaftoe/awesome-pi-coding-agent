@@ -1,0 +1,35 @@
+{
+  "id": "pi-openai-codex-device-login",
+  "name": "pi-openai-codex-device-login",
+  "url": "https://www.npmjs.com/package/pi-openai-codex-device-login",
+  "source": "npm-search",
+  "description": "Pi extension that adds ChatGPT Plus/Pro device-code login for OpenAI Codex",
+  "metadata": {
+    "github_url": "https://github.com/MorseWayne/pi-openai-codex-device-login",
+    "repo_full_name": "MorseWayne/pi-openai-codex-device-login",
+    "description": "Pi extension that adds ChatGPT Plus/Pro device-code login for OpenAI Codex",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "chatgpt",
+      "device-code",
+      "openai-codex",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-25T10:16:13Z",
+    "pushed_at": "2026-05-25T10:16:17Z",
+    "updated_at": "2026-05-25T10:16:57Z",
+    "size": 13,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

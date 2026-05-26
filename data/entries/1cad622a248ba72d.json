@@ -8,7 +8,7 @@
     "github_url": "https://github.com/qualisero/rhubarb-pi",
     "repo_full_name": "qualisero/rhubarb-pi",
     "description": "A collection of small hooks and extensions for the Pi coding agent",
-    "stars": 9,
+    "stars": 10,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -20,13 +20,13 @@
     "archived": false,
     "created_at": "2026-01-05T07:19:29Z",
     "pushed_at": "2026-01-25T22:30:53Z",
-    "updated_at": "2026-05-21T11:51:39Z",
+    "updated_at": "2026-05-25T00:42:27Z",
     "size": 350,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 44,
+    "score": 50,
     "level": "maintained"
   },
   "category": "extension"

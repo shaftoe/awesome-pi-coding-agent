@@ -8,22 +8,22 @@
     "github_url": "https://github.com/coctostan/pi-hashline-readmap",
     "repo_full_name": "coctostan/pi-hashline-readmap",
     "description": "A unified pi-coding-agent extension combining hash-anchored file editing with structural code maps",
-    "stars": 47,
+    "stars": 48,
     "forks": 13,
-    "open_issues": 3,
+    "open_issues": 2,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-28T20:49:22Z",
-    "pushed_at": "2026-05-23T00:37:38Z",
-    "updated_at": "2026-05-23T16:44:36Z",
-    "size": 3992,
+    "pushed_at": "2026-05-25T20:34:39Z",
+    "updated_at": "2026-05-25T20:34:44Z",
+    "size": 3752,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 84,
+    "level": "active"
   },
   "category": "extension"
 }

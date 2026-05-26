@@ -10,7 +10,7 @@
     "description": "Native Pi coding agent extensions for Chrome DevTools, Firecrawl web scraping, Python LSP with ty and Ruff, goal mode, retries,  statusline, and caffeinate automation.",
     "stars": 13,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "nodejs",
       "npm-package",
@@ -29,8 +29,8 @@
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
-    "score": 5,
-    "level": "dead"
+    "score": 79,
+    "level": "active"
   },
   "category": "extension"
 }

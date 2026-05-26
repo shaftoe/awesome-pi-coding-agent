@@ -1,0 +1,29 @@
+{
+  "id": "piotr-oles-sem-pi",
+  "name": "piotr-oles-sem-pi",
+  "url": "https://github.com/piotr-oles/sem-pi",
+  "source": "github-search",
+  "description": "Pi agent extension: semantic code tools via sem CLI",
+  "metadata": {
+    "github_url": "https://github.com/piotr-oles/sem-pi",
+    "repo_full_name": "piotr-oles/sem-pi",
+    "description": "Pi agent extension: semantic code tools via sem CLI",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-25T14:51:48Z",
+    "pushed_at": "2026-05-25T16:29:53Z",
+    "updated_at": "2026-05-25T16:29:56Z",
+    "size": 226,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

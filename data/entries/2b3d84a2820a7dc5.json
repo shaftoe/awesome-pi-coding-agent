@@ -1,0 +1,29 @@
+{
+  "id": "cliftonc-agentic-pi",
+  "name": "cliftonc-agentic-pi",
+  "url": "https://github.com/cliftonc/agentic-pi",
+  "source": "github-search",
+  "description": "An opinionated wrapper for Pi for use in agentic workflows, with built in github app extension and optional sandboxing.",
+  "metadata": {
+    "github_url": "https://github.com/cliftonc/agentic-pi",
+    "repo_full_name": "cliftonc/agentic-pi",
+    "description": "An opinionated wrapper for Pi for use in agentic workflows, with built in github app extension and optional sandboxing.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-23T07:18:24Z",
+    "pushed_at": "2026-05-23T11:19:07Z",
+    "updated_at": "2026-05-25T00:19:28Z",
+    "size": 396,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 58,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

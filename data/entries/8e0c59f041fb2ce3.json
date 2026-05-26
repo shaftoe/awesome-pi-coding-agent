@@ -1,0 +1,29 @@
+{
+  "id": "justbee-pi-extensions",
+  "name": "justbee-pi-extensions",
+  "url": "https://github.com/justbee/pi-extensions",
+  "source": "github-search",
+  "description": "justbee's pi coding agent extensions",
+  "metadata": {
+    "github_url": "https://github.com/justbee/pi-extensions",
+    "repo_full_name": "justbee/pi-extensions",
+    "description": "justbee's pi coding agent extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-17T11:03:28Z",
+    "pushed_at": "2026-05-17T11:17:41Z",
+    "updated_at": "2026-05-25T10:14:08Z",
+    "size": 145,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 53,
+    "level": "maintained"
+  },
+  "category": "extension"
+}

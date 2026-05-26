@@ -8,7 +8,7 @@
     "github_url": "https://github.com/denisshepelin/pi-fff",
     "repo_full_name": "denisshepelin/pi-fff",
     "description": "pi-agent extension to use fff.nvim as file-picker",
-    "stars": 9,
+    "stars": 10,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -18,13 +18,13 @@
     "archived": false,
     "created_at": "2026-02-25T09:37:03Z",
     "pushed_at": "2026-04-10T18:09:05Z",
-    "updated_at": "2026-05-20T19:45:51Z",
+    "updated_at": "2026-05-25T22:47:58Z",
     "size": 48,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
-    "score": 48,
+    "score": 54,
     "level": "maintained"
   },
   "category": "extension"

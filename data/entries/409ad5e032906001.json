@@ -1,0 +1,32 @@
+{
+  "id": "@rajeshkrishnamurthy/pi-workflow-team",
+  "name": "@rajeshkrishnamurthy/pi-workflow-team",
+  "url": "https://www.npmjs.com/package/@rajeshkrishnamurthy/pi-workflow-team",
+  "source": "npm-search",
+  "description": "Shared Pi workflow bundle for todos/routing/execution lanes",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@rajeshkrishnamurthy/pi-workflow-team",
+    "description": "Shared Pi workflow bundle for todos/routing/execution lanes",
+    "keywords": [
+      "pi-package",
+      "workflow",
+      "skills",
+      "extensions"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-05-25T07:38:03.009Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}

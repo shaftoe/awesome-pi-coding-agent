@@ -1,0 +1,29 @@
+{
+  "id": "seemethere-bakery",
+  "name": "seemethere-bakery",
+  "url": "https://github.com/seemethere/bakery",
+  "source": "github-search",
+  "description": "Local-first web UI for running server-backed pi coding-agent sessions against your own workspaces",
+  "metadata": {
+    "github_url": "https://github.com/seemethere/bakery",
+    "repo_full_name": "seemethere/bakery",
+    "description": "Local-first web UI for running server-backed pi coding-agent sessions against your own workspaces",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T03:44:41Z",
+    "pushed_at": "2026-05-25T19:17:58Z",
+    "updated_at": "2026-05-25T19:18:30Z",
+    "size": 5232,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "health": {
+    "score": 62,
+    "level": "maintained"
+  },
+  "category": "misc"
+}

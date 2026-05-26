@@ -1,0 +1,32 @@
+{
+  "id": "pi-provider-service-tier",
+  "name": "pi-provider-service-tier",
+  "url": "https://www.npmjs.com/package/pi-provider-service-tier",
+  "source": "npm-search",
+  "description": "Provider/model-scoped service_tier management extension for Pi",
+  "metadata": {
+    "github_url": "https://github.com/luxmargos/pi-provider-service-tier",
+    "npm_name": "pi-provider-service-tier",
+    "description": "Provider/model-scoped service_tier management extension for Pi",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "service-tier",
+      "fast"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-05-25T17:53:40.864Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "health": {
+    "score": 72,
+    "level": "active"
+  },
+  "category": "extension"
+}
