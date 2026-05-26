@@ -6,7 +6,7 @@
  */
 
 import { sortEntries } from "@pipeline/core/sort";
-import type { CategorizedEntry, Category, HealthLevel } from "@pipeline/core/types";
+import type { CategorizedEntry, Category } from "@pipeline/core/types";
 import { CATEGORIES } from "@pipeline/core/types";
 
 // ─── Category metadata ────────────────────────────────────────────────────────
@@ -75,10 +75,6 @@ export interface CategoryInfo {
 
 export interface Stats {
 	total: number;
-	active: number;
-	maintained: number;
-	stale: number;
-	dead: number;
 }
 
 // ─── Aggregation helpers ──────────────────────────────────────────────────────
@@ -108,19 +104,9 @@ export function getCategories(entries: CategorizedEntry[]): CategoryInfo[] {
 	});
 }
 
-/** Compute health-level counts across all entries. */
+/** Compute stats across all entries. */
 export function getStats(entries: CategorizedEntry[]): Stats {
-	const counts: Record<HealthLevel, number> = {
-		active: 0,
-		maintained: 0,
-		stale: 0,
-		dead: 0,
-	};
-	for (const entry of entries) {
-		counts[entry.health.level]++;
-	}
 	return {
 		total: entries.length,
-		...counts,
 	};
 }

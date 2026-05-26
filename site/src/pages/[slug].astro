@@ -30,7 +30,6 @@ const cards = category.entries.map((entry) => ({
 	popValue: popularityValue(entry),
 	lastCommit: lastUpdated(entry),
 	lang: language(entry),
-	healthLevel: entry.health.level,
 }));
 ---
 
@@ -52,13 +51,7 @@ const cards = category.entries.map((entry) => ({
   <div class="entry-grid">
     {cards.map((card) => (
       <a href={card.url} target="_blank" rel="noopener noreferrer" class="entry-card" data-searchable={`${card.name} ${card.desc} ${card.lang ?? ''}`}>
-        <div style="display:flex;align-items:center;gap:0.5rem">
-          <h3>{card.name}</h3>
-          <span class={`health-badge health-${card.healthLevel}`}>
-            <span class="dot" />
-            {card.healthLevel}
-          </span>
-        </div>
+        <h3>{card.name}</h3>
         <p class="desc">{card.desc}</p>
         <div class="meta">
           {card.pop && <span>{card.pop}</span>}

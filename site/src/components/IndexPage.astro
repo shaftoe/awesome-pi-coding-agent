@@ -15,14 +15,10 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 
 <div class="stats-bar">
   <strong>{stats.total.toLocaleString()} resources</strong>
-  <span class="stat"><span class="dot" style={`background:var(--sl-color-green)`}></span>{stats.active} active</span>
-  <span class="stat"><span class="dot" style={`background:var(--sl-color-yellow, var(--sl-color-orange))`}></span>{stats.maintained} maintained</span>
-  <span class="stat"><span class="dot" style={`background:var(--sl-color-orange)`}></span>{stats.stale} stale</span>
-  <span class="stat"><span class="dot" style={`background:var(--sl-color-red)`}></span>{stats.dead} dead</span>
 </div>
 
 {lastUpdated && (
-  <p class="last-updated">Updated daily · Last updated: {lastUpdated}</p>
+  <p class="last-updated">Last updated: {lastUpdated}</p>
 )}
 
 <global-search-bar class="global-search-bar">
@@ -105,20 +101,10 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 		container.innerHTML = results
 			.map((r) => {
 				const icon = CATEGORY_ICONS[r.c] || '📄';
-				const healthColors: Record<string, string> = {
-					active: 'var(--sl-color-green)',
-					maintained: 'var(--sl-color-yellow, var(--sl-color-orange))',
-					stale: 'var(--sl-color-orange)',
-					dead: 'var(--sl-color-red)',
-				};
-				const dotColor = healthColors[r.h] || 'var(--sl-color-gray-4)';
 				const popHtml = r.p ? `<span>${r.p}</span>` : '';
 				const categoryLabel = r.c.charAt(0).toUpperCase() + r.c.slice(1);
 				return `<a href="${r.u}" target="_blank" rel="noopener noreferrer" class="entry-card">
-					<div style="display:flex;align-items:center;gap:0.5rem">
-						<h3>${icon} ${highlightText(r.n, query)}</h3>
-						<span class="health-badge health-${r.h}"><span class="dot"></span>${r.h}</span>
-					</div>
+					<h3>${icon} ${highlightText(r.n, query)}</h3>
 					<p class="desc">${highlightText(truncateText(r.d, 200), query)}</p>
 					<div class="meta">
 						<span>${categoryLabel}</span>

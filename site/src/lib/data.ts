@@ -11,7 +11,7 @@ export { decodeHtmlEntities } from "@pipeline/core/html";
 export { loadAllEntries } from "@pipeline/core/store";
 
 // Types from pipeline core
-export type { CategorizedEntry, Category, Health, HealthLevel } from "@pipeline/core/types";
+export type { CategorizedEntry, Category } from "@pipeline/core/types";
 
 // Presentation: category metadata + aggregation
 export {
