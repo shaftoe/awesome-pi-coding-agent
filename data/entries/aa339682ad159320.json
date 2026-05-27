@@ -1,0 +1,27 @@
+{
+  "id": "yequsun-pi-token-odometer",
+  "name": "yequsun-pi-token-odometer",
+  "url": "https://github.com/yequsun/pi-token-odometer",
+  "source": "github-search",
+  "description": "A Pi coding agent extension. Animated input/output token odometers for pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/yequsun/pi-token-odometer",
+    "repo_full_name": "yequsun/pi-token-odometer",
+    "description": "A Pi coding agent extension. Animated input/output token odometers for pi coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-26T16:54:58Z",
+    "pushed_at": "2026-05-26T16:59:22Z",
+    "updated_at": "2026-05-26T17:02:51Z",
+    "size": 4,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

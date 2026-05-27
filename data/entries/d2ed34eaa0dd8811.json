@@ -1,0 +1,30 @@
+{
+  "id": "pi-autocontext-erdos",
+  "name": "pi-autocontext-erdos",
+  "url": "https://www.npmjs.com/package/pi-autocontext-erdos",
+  "source": "npm-search",
+  "description": "Pi package for AutoContext-assisted Erdős-style formal math problem loops with Lean verification.",
+  "metadata": {
+    "github_url": "https://github.com/greyhaven-ai/pi-autocontext-erdos",
+    "npm_name": "pi-autocontext-erdos",
+    "description": "Pi package for AutoContext-assisted Erdős-style formal math problem loops with Lean verification.",
+    "keywords": [
+      "pi-package",
+      "autocontext",
+      "erdos",
+      "lean",
+      "formal-math",
+      "proof-search"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-05-26T18:33:50.897Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

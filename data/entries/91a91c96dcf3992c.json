@@ -3,11 +3,11 @@
   "name": "kartikkabadi-pi-composer-powerpack",
   "url": "https://github.com/kartikkabadi/pi-composer-powerpack",
   "source": "github-search",
-  "description": "Cursor Composer 2.5 powerpack for Pi: agent chains, dispatch teams, Pi-Pi experts, live subagents, Pi-to-Pi coms, damage-control safety, curated agents and mono-black theme. Install with pi install. Requires Pi ≥0.75.3.",
+  "description": "Cursor Composer 2.5 powerpack for Pi: agent chains, dispatch teams, Pi-Pi experts, live subagents, Pi-to-Pi coms, damage-control safety, curated agents and mono-black theme. Install with pi install. Requires Pi \u22650.75.3.",
   "metadata": {
     "github_url": "https://github.com/kartikkabadi/pi-composer-powerpack",
     "repo_full_name": "kartikkabadi/pi-composer-powerpack",
-    "description": "Cursor Composer 2.5 powerpack for Pi: agent chains, dispatch teams, Pi-Pi experts, live subagents, Pi-to-Pi coms, damage-control safety, curated agents and mono-black theme. Install with pi install. Requires Pi ≥0.75.3.",
+    "description": "Cursor Composer 2.5 powerpack for Pi: agent chains, dispatch teams, Pi-Pi experts, live subagents, Pi-to-Pi coms, damage-control safety, curated agents and mono-black theme. Install with pi install. Requires Pi \u22650.75.3.",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,
@@ -41,5 +41,5 @@
     "score": 53,
     "level": "maintained"
   },
-  "category": "theme"
+  "category": "extension"
 }

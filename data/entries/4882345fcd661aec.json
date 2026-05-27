@@ -1,0 +1,29 @@
+{
+  "id": "pi-webwright",
+  "name": "pi-webwright",
+  "url": "https://www.npmjs.com/package/pi-webwright",
+  "source": "npm-search",
+  "description": "Pi package that ports Microsoft's Webwright code-as-action browser automation skill and slash commands.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-webwright",
+    "description": "Pi package that ports Microsoft's Webwright code-as-action browser automation skill and slash commands.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "webwright",
+      "playwright",
+      "browser-automation"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-26T10:29:38.544Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

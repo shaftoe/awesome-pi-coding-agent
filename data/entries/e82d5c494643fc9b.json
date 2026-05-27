@@ -10,7 +10,7 @@
     "description": "Adds a configurable multi-agent layer to Pi Agent, with context management, MCP support, Codex quota status, a custom footer, and more.",
     "stars": 8,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "agent",
       "claude",
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-04-27T17:02:34Z",
     "pushed_at": "2026-05-23T09:32:05Z",
-    "updated_at": "2026-05-23T09:32:00Z",
+    "updated_at": "2026-05-26T14:42:31Z",
     "size": 990,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

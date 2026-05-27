@@ -1,0 +1,31 @@
+{
+  "id": "@trevonistrevon/pi-loop",
+  "name": "@trevonistrevon/pi-loop",
+  "url": "https://www.npmjs.com/package/@trevonistrevon/pi-loop",
+  "source": "npm-search",
+  "description": "A pi extension for cron/event-based agent re-wake loops and background process monitoring.",
+  "metadata": {
+    "github_url": "https://github.com/trvon/pi-loop",
+    "npm_name": "@trevonistrevon/pi-loop",
+    "description": "A pi extension for cron/event-based agent re-wake loops and background process monitoring.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "loop",
+      "cron",
+      "monitor",
+      "scheduler"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-05-26T23:01:44.867Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

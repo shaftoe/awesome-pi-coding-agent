@@ -8,7 +8,7 @@
     "github_url": "https://github.com/cv/pi-action",
     "repo_full_name": "cv/pi-action",
     "description": "GitHub Action to invoke the PI coding agent on issues and PRs via comment triggers",
-    "stars": 24,
+    "stars": 25,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-01-04T05:23:41Z",
     "pushed_at": "2026-05-04T08:13:22Z",
-    "updated_at": "2026-05-19T13:26:08Z",
+    "updated_at": "2026-05-26T07:37:59Z",
     "size": 689,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

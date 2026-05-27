@@ -1,0 +1,25 @@
+{
+  "id": "nairiai-pi-nairi-provider",
+  "name": "nairiai-pi-nairi-provider",
+  "url": "https://github.com/nairiai/pi-nairi-provider",
+  "source": "github-search",
+  "description": "Nairi provider extension for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/nairiai/pi-nairi-provider",
+    "repo_full_name": "nairiai/pi-nairi-provider",
+    "description": "Nairi provider extension for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-26T19:47:18Z",
+    "pushed_at": "2026-05-26T20:06:34Z",
+    "updated_at": "2026-05-26T20:07:20Z",
+    "size": 47,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

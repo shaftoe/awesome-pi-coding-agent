@@ -1,0 +1,25 @@
+{
+  "id": "alvpickmans-pi-extensions",
+  "name": "alvpickmans-pi-extensions",
+  "url": "https://github.com/alvpickmans/pi-extensions",
+  "source": "github-search",
+  "description": "Personal extension for pi-agent",
+  "metadata": {
+    "github_url": "https://github.com/alvpickmans/pi-extensions",
+    "repo_full_name": "alvpickmans/pi-extensions",
+    "description": "Personal extension for pi-agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-25T09:33:30Z",
+    "pushed_at": "2026-05-26T21:45:02Z",
+    "updated_at": "2026-05-26T21:45:06Z",
+    "size": 70,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

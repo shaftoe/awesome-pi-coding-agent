@@ -9,7 +9,7 @@
     "repo_full_name": "jo-inc/pi-reflect",
     "description": "Self-improving behavioral files for AI coding agents. Analyzes session transcripts for correction patterns and makes surgical edits to prevent recurrence.",
     "stars": 30,
-    "forks": 6,
+    "forks": 7,
     "open_issues": 7,
     "topics": [
       "agent-reflection",

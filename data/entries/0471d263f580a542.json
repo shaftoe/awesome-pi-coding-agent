@@ -1,0 +1,25 @@
+{
+  "id": "bscholar-tt-pi-t3-plan",
+  "name": "bscholar-tt-pi-t3-plan",
+  "url": "https://github.com/bscholar-tt/pi-t3-plan",
+  "source": "github-search",
+  "description": "Pi coding agent extension: set_plan tool for T3 Code plan mode integration",
+  "metadata": {
+    "github_url": "https://github.com/bscholar-tt/pi-t3-plan",
+    "repo_full_name": "bscholar-tt/pi-t3-plan",
+    "description": "Pi coding agent extension: set_plan tool for T3 Code plan mode integration",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-26T20:34:30Z",
+    "pushed_at": "2026-05-26T20:44:15Z",
+    "updated_at": "2026-05-26T20:44:54Z",
+    "size": 1,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

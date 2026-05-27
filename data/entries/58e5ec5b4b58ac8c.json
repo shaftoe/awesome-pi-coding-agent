@@ -9,7 +9,7 @@
     "repo_full_name": "iamfozzy/coppice",
     "description": "A desktop app for managing Git worktrees, AI agents, and development workflows in a unified interface.  Supports Claude Code and PI Agent.",
     "stars": 5,
-    "forks": 2,
+    "forks": 3,
     "open_issues": 1,
     "topics": [],
     "language": "TypeScript",

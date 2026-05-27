@@ -9,7 +9,7 @@
     "repo_full_name": "arpagon/pi-rewind",
     "description": "Checkpoint/rewind extension for the Pi coding agent. 1 checkpoint per turn, /rewind command, diff preview, safe restore, redo stack.",
     "stars": 68,
-    "forks": 5,
+    "forks": 6,
     "open_issues": 1,
     "topics": [
       "checkpoint",

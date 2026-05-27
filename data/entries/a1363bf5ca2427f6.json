@@ -1,0 +1,30 @@
+{
+  "id": "@nquandt/pi-azure-foundry",
+  "name": "@nquandt/pi-azure-foundry",
+  "url": "https://www.npmjs.com/package/@nquandt/pi-azure-foundry",
+  "source": "npm-search",
+  "description": "Pi extension for Azure AI Foundry — discovers deployments and registers models",
+  "metadata": {
+    "github_url": "https://github.com/nquandt/pi-azure-foundry",
+    "npm_name": "@nquandt/pi-azure-foundry",
+    "description": "Pi extension for Azure AI Foundry — discovers deployments and registers models",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "azure",
+      "foundry",
+      "ai",
+      "provider"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-05-26T16:27:19.108Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

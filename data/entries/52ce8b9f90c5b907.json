@@ -10,7 +10,7 @@
     "description": "Swarm-first multi-agent messaging and task orchestration extension for Pi",
     "stars": 22,
     "forks": 8,
-    "open_issues": 5,
+    "open_issues": 6,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
