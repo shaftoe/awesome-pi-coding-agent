@@ -8,7 +8,7 @@
     "github_url": "https://github.com/mrclrchtr/supi",
     "repo_full_name": "mrclrchtr/supi",
     "description": "SuPi (Super Pi) is my curated extension stack for PI, I use in every project, shared in case they help you too. Bundling LSP, TreeSitter, Ask-User-Tool, context monitoring, and practical small extras.",
-    "stars": 9,
+    "stars": 11,
     "forks": 0,
     "open_issues": 1,
     "topics": [
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-13T19:49:58Z",
-    "pushed_at": "2026-05-25T17:39:28Z",
-    "updated_at": "2026-05-25T17:37:50Z",
-    "size": 12126,
+    "pushed_at": "2026-05-26T01:12:39Z",
+    "updated_at": "2026-05-26T12:21:41Z",
+    "size": 12127,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

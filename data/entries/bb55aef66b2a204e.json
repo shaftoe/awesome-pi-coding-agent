@@ -3,11 +3,11 @@
   "name": "arjun-zosma-dotpi",
   "url": "https://github.com/arjun-zosma/dotpi",
   "source": "github-search",
-  "description": "my pi coding agent setup — themes, prompts, and opinions included",
+  "description": "my pi coding agent setup \u2014 themes, prompts, and opinions included",
   "metadata": {
     "github_url": "https://github.com/arjun-zosma/dotpi",
     "repo_full_name": "arjun-zosma/dotpi",
-    "description": "my pi coding agent setup — themes, prompts, and opinions included",
+    "description": "my pi coding agent setup \u2014 themes, prompts, and opinions included",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,
@@ -25,5 +25,5 @@
     "score": 57,
     "level": "maintained"
   },
-  "category": "theme"
+  "category": "extension"
 }

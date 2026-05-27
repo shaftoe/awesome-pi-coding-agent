@@ -6,20 +6,20 @@
   "description": "Z.ai API quota monitor extension for pi-coding-agent",
   "metadata": {
     "github_url": "https://github.com/harms-haus/pi-zai-usage",
-    "repo_full_name": "harms-haus/pi-zai-usage",
+    "npm_name": "@harms-haus/pi-zai-usage",
     "description": "Z.ai API quota monitor extension for pi-coding-agent",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "topics": [],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-05-22T23:04:50Z",
-    "pushed_at": "2026-05-25T20:05:00Z",
-    "updated_at": "2026-05-25T20:05:04Z",
-    "size": 74,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-25T23:40:50.541Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 72,

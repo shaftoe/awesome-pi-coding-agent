@@ -1,0 +1,25 @@
+{
+  "id": "CaoYuhaoCarl-pi-agent",
+  "name": "CaoYuhaoCarl-pi-agent",
+  "url": "https://github.com/CaoYuhaoCarl/pi-agent",
+  "source": "github-search",
+  "description": "Pi Coding Agent extension playground for custom UIs, agent orchestration, and Pi-to-Pi communication.",
+  "metadata": {
+    "github_url": "https://github.com/CaoYuhaoCarl/pi-agent",
+    "repo_full_name": "CaoYuhaoCarl/pi-agent",
+    "description": "Pi Coding Agent extension playground for custom UIs, agent orchestration, and Pi-to-Pi communication.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-26T14:31:44Z",
+    "pushed_at": "2026-05-26T14:31:50Z",
+    "updated_at": "2026-05-26T23:12:16Z",
+    "size": 5475,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

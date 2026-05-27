@@ -1,0 +1,25 @@
+{
+  "id": "@sean_pedersen/pi-context-skills",
+  "name": "@sean_pedersen/pi-context-skills",
+  "url": "https://www.npmjs.com/package/@sean_pedersen/pi-context-skills",
+  "source": "npm-search",
+  "description": "Pi coding agent extension that selects project-relevant skills",
+  "metadata": {
+    "github_url": "https://github.com/SeanPedersen/pi-context-skills",
+    "repo_full_name": "SeanPedersen/pi-context-skills",
+    "description": "Pi coding agent extension that selects project-relevant skills",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-26T14:51:52Z",
+    "pushed_at": "2026-05-26T16:30:28Z",
+    "updated_at": "2026-05-26T16:30:35Z",
+    "size": 9,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}
