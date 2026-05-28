@@ -9,8 +9,12 @@
 		"preview": "astro preview"
 	},
 	"dependencies": {
-		"@astrojs/starlight": "0.39.2",
-		"astro": "^6.3.8",
+		"@astrojs/mdx": "^6.0.0",
+		"@astrojs/starlight": "^0.39.2",
+		"astro": "^6.4.0",
 		"sharp": "^0.34.5"
+	},
+	"overrides": {
+		"@astrojs/mdx": "^6.0.0"
 	}
 }
