@@ -1,0 +1,33 @@
+{
+  "id": "pi-human-inquire",
+  "name": "pi-human-inquire",
+  "url": "https://www.npmjs.com/package/pi-human-inquire",
+  "source": "npm-search",
+  "description": "Turn plans, specs, RFCs, notes, and diffs into reviewable HTML where users can ask agent questions, leave comments, and send feedback back to Pi.",
+  "metadata": {
+    "github_url": "https://github.com/alpeshvas/pi-human-inquire",
+    "repo_full_name": "alpeshvas/pi-human-inquire",
+    "description": " Turn plans, specs, RFCs, notes, and diffs into reviewable HTML where users can ask agent questions, leave comments, and send  feedback back to Pi.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "document-review",
+      "html-review",
+      "human-in-loop",
+      "pi",
+      "pi-package",
+      "review-tool"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-25T15:43:03Z",
+    "pushed_at": "2026-05-27T18:01:44Z",
+    "updated_at": "2026-05-27T18:06:20Z",
+    "size": 82,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

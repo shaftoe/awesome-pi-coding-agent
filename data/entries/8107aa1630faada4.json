@@ -1,0 +1,32 @@
+{
+  "id": "@koltmcbride/pi-goal",
+  "name": "@koltmcbride/pi-goal",
+  "url": "https://www.npmjs.com/package/@koltmcbride/pi-goal",
+  "source": "npm-search",
+  "description": "Pi extension for goal-directed autonomous work loops — /goal sets a condition and the agent loops until it's met",
+  "metadata": {
+    "github_url": "https://github.com/kolt-mcb/pi-goal",
+    "repo_full_name": "kolt-mcb/pi-goal",
+    "description": "Pi extension for goal-directed autonomous work loops — /goal sets a condition and the agent loops until it's met",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "llm",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-27T16:18:58Z",
+    "pushed_at": "2026-05-27T17:43:34Z",
+    "updated_at": "2026-05-27T17:43:37Z",
+    "size": 44,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/MasuRii/pi-image-tools",
     "repo_full_name": "MasuRii/pi-image-tools",
     "description": "Image attachment and rendering extension for Pi TUI",
-    "stars": 26,
+    "stars": 27,
     "forks": 2,
     "open_issues": 0,
     "topics": [
@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-02T07:20:26Z",
-    "pushed_at": "2026-05-26T14:17:50Z",
-    "updated_at": "2026-05-26T14:38:38Z",
+    "pushed_at": "2026-05-27T00:25:45Z",
+    "updated_at": "2026-05-27T08:11:30Z",
     "size": 1540,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

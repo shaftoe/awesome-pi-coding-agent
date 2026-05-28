@@ -1,0 +1,35 @@
+{
+  "id": "kenxcomp-yoyo-pi",
+  "name": "kenxcomp-yoyo-pi",
+  "url": "https://github.com/kenxcomp/yoyo-pi",
+  "source": "github-search",
+  "description": "Polished pi extension pack: Vim prompt editing, choice pickers, themes, status bars, file tree, context snapshots, and plan mode.",
+  "metadata": {
+    "github_url": "https://github.com/kenxcomp/yoyo-pi",
+    "repo_full_name": "kenxcomp/yoyo-pi",
+    "description": "Polished pi extension pack: Vim prompt editing, choice pickers, themes, status bars, file tree, context snapshots, and plan mode.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-coding",
+      "coding-agent",
+      "developer-tools",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "terminal",
+      "tui",
+      "vim"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-26T09:48:29Z",
+    "pushed_at": "2026-05-27T11:51:17Z",
+    "updated_at": "2026-05-27T11:20:35Z",
+    "size": 1871,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

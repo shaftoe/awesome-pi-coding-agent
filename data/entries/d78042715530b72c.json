@@ -9,7 +9,7 @@
     "repo_full_name": "lhl/pi-vertex",
     "description": "Google Vertex AI provider for Pi coding agent - forked from ssweens/pi-packages with tests and CI",
     "stars": 0,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 1,
     "topics": [],
     "language": "TypeScript",

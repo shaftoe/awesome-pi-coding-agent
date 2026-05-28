@@ -1,0 +1,25 @@
+{
+  "id": "AlphaBril-pi-agent-factory",
+  "name": "AlphaBril-pi-agent-factory",
+  "url": "https://github.com/AlphaBril/pi-agent-factory",
+  "source": "github-search",
+  "description": "Dedicated factory for pi agents",
+  "metadata": {
+    "github_url": "https://github.com/AlphaBril/pi-agent-factory",
+    "repo_full_name": "AlphaBril/pi-agent-factory",
+    "description": "Dedicated factory for pi agents",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-27T14:41:18Z",
+    "pushed_at": "2026-05-27T16:10:31Z",
+    "updated_at": "2026-05-27T16:10:57Z",
+    "size": 103,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

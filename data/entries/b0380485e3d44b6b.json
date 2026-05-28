@@ -1,0 +1,31 @@
+{
+  "id": "pi-code-review-graph",
+  "name": "pi-code-review-graph",
+  "url": "https://www.npmjs.com/package/pi-code-review-graph",
+  "source": "npm-search",
+  "description": "Local-first Pi extension for graph-aware code review. It builds a repo-local code graph, analyzes changed files, maps impact radius, scores review risk, and prepares compact review context with related callers, callees, tests, and package boundaries.",
+  "metadata": {
+    "github_url": "https://github.com/salmanabdurrahman/pi-code-review-graph",
+    "repo_full_name": "salmanabdurrahman/pi-code-review-graph",
+    "description": "Local-first Pi extension for graph-aware code review. It builds a repo-local code graph, analyzes changed files, maps        impact radius, scores review risk, and prepares compact review context with related callers, callees, tests, and package boundaries.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "code-review",
+      "code-review-graph",
+      "llm-tools",
+      "pi",
+      "pi-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-27T00:25:22Z",
+    "pushed_at": "2026-05-27T16:23:56Z",
+    "updated_at": "2026-05-27T16:35:45Z",
+    "size": 280,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

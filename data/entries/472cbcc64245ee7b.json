@@ -1,0 +1,25 @@
+{
+  "id": "VirtualP1rate-pi-desktop",
+  "name": "VirtualP1rate-pi-desktop",
+  "url": "https://github.com/VirtualP1rate/pi-desktop",
+  "source": "github-search",
+  "description": "Desktop chat UI for the Pi coding agent (Tauri + RPC bridge)",
+  "metadata": {
+    "github_url": "https://github.com/VirtualP1rate/pi-desktop",
+    "repo_full_name": "VirtualP1rate/pi-desktop",
+    "description": "Desktop chat UI for the Pi coding agent (Tauri + RPC bridge)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 15,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-26T22:13:56Z",
+    "pushed_at": "2026-05-27T13:28:33Z",
+    "updated_at": "2026-05-27T13:28:37Z",
+    "size": 417,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "title": "Package Catalog · Pi",
     "name": "Package Catalog · Pi",
     "description": "Extensions, skills, prompt templates, and themes published to npm. Install with pi install npm:<package>. See the package docs for details · Web search, URL fetching, GitHub repo cloning, PDF extraction, YouTube video understanding, and local video analysis for Pi coding agent",
-    "published_at": "2026-05-21T11:30:03",
+    "published_at": "2026-05-21T08:20:03",
     "source_site": "Pi",
     "source_url": "https://pi.dev/packages?name=web",
     "discovery_hint": "brave:pi-package"

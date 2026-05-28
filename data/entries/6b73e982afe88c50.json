@@ -3,11 +3,11 @@
   "name": "@codella/pi-mcp-support",
   "url": "https://www.npmjs.com/package/@codella/pi-mcp-support",
   "source": "npm-search",
-  "description": "\ud83c\udf83 Spooky Halloween theme for Pi.",
+  "description": "🎃 Spooky Halloween theme for Pi.",
   "metadata": {
     "github_url": "https://github.com/codella/pi-packages",
     "npm_name": "@codella/pi-theme-halloween",
-    "description": "\ud83c\udf83 Spooky Halloween theme for Pi.",
+    "description": "🎃 Spooky Halloween theme for Pi.",
     "keywords": [
       "pi-package",
       "pi",
@@ -31,5 +31,5 @@
     "score": 82,
     "level": "active"
   },
-  "category": "theme"
+  "category": "extension"
 }

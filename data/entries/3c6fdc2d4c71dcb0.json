@@ -8,7 +8,7 @@
     "github_url": "https://github.com/rchern/pi-claude-cli",
     "repo_full_name": "rchern/pi-claude-cli",
     "description": "Pi coding agent extension that routes LLM calls through the Claude Code CLI",
-    "stars": 61,
+    "stars": 62,
     "forks": 13,
     "open_issues": 9,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-16T00:11:37Z",
     "pushed_at": "2026-03-22T20:05:43Z",
-    "updated_at": "2026-05-25T10:22:59Z",
+    "updated_at": "2026-05-27T21:09:33Z",
     "size": 657,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

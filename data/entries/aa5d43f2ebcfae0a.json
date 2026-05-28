@@ -1,0 +1,35 @@
+{
+  "id": "tychenjiajun-pi-cost-cny",
+  "name": "tychenjiajun-pi-cost-cny",
+  "url": "https://github.com/tychenjiajun/pi-cost-cny",
+  "source": "github-search",
+  "description": "Pi extension to display model costs in CNY (Chinese Yuan)",
+  "metadata": {
+    "github_url": "https://github.com/tychenjiajun/pi-cost-cny",
+    "repo_full_name": "tychenjiajun/pi-cost-cny",
+    "description": "Pi extension to display model costs in CNY (Chinese Yuan)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "cny-cost",
+      "deepseek",
+      "mimo",
+      "minimax",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "pricing",
+      "xiaomi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-23T12:25:26Z",
+    "pushed_at": "2026-05-25T03:37:32Z",
+    "updated_at": "2026-05-27T09:59:03Z",
+    "size": 35,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
