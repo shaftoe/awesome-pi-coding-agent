@@ -9,7 +9,7 @@
     "repo_full_name": "tensorfish/pi-telegram",
     "description": "Connect Pi Agent Harness to Telegram",
     "stars": 18,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

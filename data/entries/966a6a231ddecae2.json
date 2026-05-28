@@ -9,8 +9,8 @@
     "repo_full_name": "jo-inc/pi-mem",
     "description": "Plain-Markdown persistent memory for AI coding agents. Long-term facts, daily logs, scratchpad, and semantic search — works with pi, Claude Code, and any LLM agent.",
     "stars": 55,
-    "forks": 4,
-    "open_issues": 3,
+    "forks": 5,
+    "open_issues": 4,
     "topics": [
       "agent-memory",
       "ai-agent",

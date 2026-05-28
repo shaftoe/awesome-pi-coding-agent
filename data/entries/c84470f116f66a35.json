@@ -3,11 +3,11 @@
   "name": "pi-background-tasks",
   "url": "https://www.npmjs.com/package/pi-background-tasks",
   "source": "npm-search",
-  "description": "Claude-Code-like background shell task manager for Pi: bg_run tools, /bg commands, /tasks UI, bounded logs, kill/timeout safety, and completion wakeups.",
+  "description": "Claude-Code-like named background shell task manager for Pi: bg_run tools, /bg commands, Shift+Down footer dock, bounded logs, kill/timeout safety, and completion wakeups.",
   "metadata": {
     "github_url": "https://github.com/ismailsaleekh/pi-background-tasks",
     "npm_name": "pi-background-tasks",
-    "description": "Claude-Code-like background shell task manager for Pi: bg_run tools, /bg commands, /tasks UI, bounded logs, kill/timeout safety, and completion wakeups.",
+    "description": "Claude-Code-like named background shell task manager for Pi: bg_run tools, /bg commands, Shift+Down footer dock, bounded logs, kill/timeout safety, and completion wakeups.",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -17,8 +17,8 @@
       "shell",
       "tasks"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-05-27T00:01:16.588Z",
+    "version": "0.2.0",
+    "published_at": "2026-05-27T21:23:00.471Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

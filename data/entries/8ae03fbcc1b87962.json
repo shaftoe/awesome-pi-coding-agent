@@ -9,7 +9,7 @@
     "repo_full_name": "gustavonline/pi-desktop",
     "description": "Native desktop shell for Pi Coding Agent (Tauri + Lit), extension-first and multi-session aware",
     "stars": 70,
-    "forks": 9,
+    "forks": 10,
     "open_issues": 18,
     "topics": [
       "coding-agent",

@@ -10,7 +10,7 @@
     "description": "Web search, deep research and fetch content tools for Pi Agent, powered by Exa.",
     "stars": 3,
     "forks": 4,
-    "open_issues": 2,
+    "open_issues": 1,
     "topics": [
       "pi-coding-agent",
       "web-search"
@@ -18,9 +18,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-05T13:16:45Z",
-    "pushed_at": "2026-05-25T09:19:34Z",
-    "updated_at": "2026-05-25T09:19:33Z",
-    "size": 9101,
+    "pushed_at": "2026-05-27T05:25:49Z",
+    "updated_at": "2026-05-27T05:23:45Z",
+    "size": 9162,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

@@ -1,0 +1,31 @@
+{
+  "id": "presmihaylov-pi-loop",
+  "name": "presmihaylov-pi-loop",
+  "url": "https://github.com/presmihaylov/pi-loop",
+  "source": "github-search",
+  "description": "Simple in-session recurring prompt loops for pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/presmihaylov/pi-loop",
+    "repo_full_name": "presmihaylov/pi-loop",
+    "description": "Simple in-session recurring prompt loops for pi-coding-agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "loop",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "scheduler"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-27T16:58:51Z",
+    "pushed_at": "2026-05-27T17:10:44Z",
+    "updated_at": "2026-05-27T17:10:49Z",
+    "size": 10,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

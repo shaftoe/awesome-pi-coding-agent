@@ -8,7 +8,7 @@
     "github_url": "https://github.com/demigodmode/pi-web-agent",
     "repo_full_name": "demigodmode/pi-web-agent",
     "description": "Reliable web tools for Pi: search for sources, fetch over HTTP, and use headless browsing only when explicitly requested.",
-    "stars": 22,
+    "stars": 23,
     "forks": 2,
     "open_issues": 7,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-04-14T22:46:57Z",
     "pushed_at": "2026-05-25T22:24:31Z",
-    "updated_at": "2026-05-26T13:03:14Z",
+    "updated_at": "2026-05-27T12:46:58Z",
     "size": 581,
     "license": "AGPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

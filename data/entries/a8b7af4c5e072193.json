@@ -9,7 +9,7 @@
     "repo_full_name": "tickernelz/pi-memory",
     "description": "Memory management extension for pi coding agent — persistent identity, user profile, and daily logs",
     "stars": 6,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

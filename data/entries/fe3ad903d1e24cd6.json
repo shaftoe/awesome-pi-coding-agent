@@ -1,0 +1,25 @@
+{
+  "id": "AlexWortega-pi-agent",
+  "name": "AlexWortega-pi-agent",
+  "url": "https://github.com/AlexWortega/pi-agent",
+  "source": "github-search",
+  "description": "Pi Agent · Soyuz — in-browser coding agent running llama.cpp via WebGPU",
+  "metadata": {
+    "github_url": "https://github.com/AlexWortega/pi-agent",
+    "repo_full_name": "AlexWortega/pi-agent",
+    "description": "Pi Agent · Soyuz — in-browser coding agent running llama.cpp via WebGPU",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-27T11:05:04Z",
+    "pushed_at": "2026-05-27T19:47:47Z",
+    "updated_at": "2026-05-27T19:47:51Z",
+    "size": 78,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

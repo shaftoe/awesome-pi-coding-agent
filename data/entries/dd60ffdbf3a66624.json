@@ -1,0 +1,29 @@
+{
+  "id": "prdai-pi-config",
+  "name": "prdai-pi-config",
+  "url": "https://github.com/prdai/pi-config",
+  "source": "github-search",
+  "description": "Pi Code Configuration of Mine",
+  "metadata": {
+    "github_url": "https://github.com/prdai/pi-config",
+    "repo_full_name": "prdai/pi-config",
+    "description": "Pi Code Configuration of Mine",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "config",
+      "pi",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-26T03:41:59Z",
+    "pushed_at": "2026-05-27T01:17:49Z",
+    "updated_at": "2026-05-27T02:48:23Z",
+    "size": 93,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

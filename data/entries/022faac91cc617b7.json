@@ -1,0 +1,25 @@
+{
+  "id": "markg85-pi-live-compaction",
+  "name": "markg85-pi-live-compaction",
+  "url": "https://github.com/markg85/pi-live-compaction",
+  "source": "github-search",
+  "description": "Live Tail Compaction — an in-flight context window manager for pi-coding-agent.",
+  "metadata": {
+    "github_url": "https://github.com/markg85/pi-live-compaction",
+    "repo_full_name": "markg85/pi-live-compaction",
+    "description": "Live Tail Compaction — an in-flight context window manager for pi-coding-agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-27T18:25:45Z",
+    "pushed_at": "2026-05-27T22:07:56Z",
+    "updated_at": "2026-05-27T22:08:01Z",
+    "size": 411,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

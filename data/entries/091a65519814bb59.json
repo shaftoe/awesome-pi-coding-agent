@@ -1,0 +1,25 @@
+{
+  "id": "ProbabilityEngineer-pi-ledger-lite",
+  "name": "ProbabilityEngineer-pi-ledger-lite",
+  "url": "https://github.com/ProbabilityEngineer/pi-ledger-lite",
+  "source": "github-search",
+  "description": "Lightweight accountability ledger for Pi agents",
+  "metadata": {
+    "github_url": "https://github.com/ProbabilityEngineer/pi-ledger-lite",
+    "repo_full_name": "ProbabilityEngineer/pi-ledger-lite",
+    "description": "Lightweight accountability ledger for Pi agents",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-27T18:38:03Z",
+    "pushed_at": "2026-05-27T18:38:07Z",
+    "updated_at": "2026-05-27T19:01:42Z",
+    "size": 24,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}
