@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_completeaitraining.com_pi-coding-agent",
+  "name": "Pi Coding Agent",
+  "url": "https://completeaitraining.com/ai-tools/pi-coding-agent/",
+  "source": "brave-web-search",
+  "description": "Pi Coding Agent is a minimal, hackable terminal harness for building and customizing AI coding-agent workflows. Keep the core small and extend or replace context management, sub-agents, permissions and workflows via extensions.",
+  "metadata": {
+    "title": "Pi Coding Agent",
+    "name": "Pi Coding Agent",
+    "description": "Pi Coding Agent is a minimal, hackable terminal harness for building and customizing AI coding-agent workflows. Keep the core small and extend or replace context management, sub-agents, permissions and workflows via extensions.",
+    "published_at": "2026-05-26T09:03:08",
+    "source_site": "Complete AI Training",
+    "source_url": "https://completeaitraining.com/ai-tools/pi-coding-agent/",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

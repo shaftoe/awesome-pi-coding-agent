@@ -1,0 +1,25 @@
+{
+  "id": "@blackbelt-technology/pi-dashboard-subagents",
+  "name": "@blackbelt-technology/pi-dashboard-subagents",
+  "url": "https://www.npmjs.com/package/@blackbelt-technology/pi-dashboard-subagents",
+  "source": "npm-search",
+  "description": "Subagent package for the pi-agent-dashboard project.",
+  "metadata": {
+    "github_url": "https://github.com/BlackBeltTechnology/pi-dashboard-subagents",
+    "repo_full_name": "BlackBeltTechnology/pi-dashboard-subagents",
+    "description": "Subagent package for the pi-agent-dashboard project. ",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-19T04:26:46Z",
+    "pushed_at": "2026-05-28T18:04:55Z",
+    "updated_at": "2026-05-28T18:05:07Z",
+    "size": 328,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

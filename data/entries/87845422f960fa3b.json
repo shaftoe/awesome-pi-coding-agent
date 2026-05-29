@@ -1,0 +1,25 @@
+{
+  "id": "usr-bin-roygbiv-omp-cmux-browser-tools",
+  "name": "usr-bin-roygbiv-omp-cmux-browser-tools",
+  "url": "https://github.com/usr-bin-roygbiv/omp-cmux-browser-tools",
+  "source": "github-search",
+  "description": "Safe native cmux browser tools for OMP and Pi coding-agent sessions.",
+  "metadata": {
+    "github_url": "https://github.com/usr-bin-roygbiv/omp-cmux-browser-tools",
+    "repo_full_name": "usr-bin-roygbiv/omp-cmux-browser-tools",
+    "description": "Safe native cmux browser tools for OMP and Pi coding-agent sessions.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-28T22:29:21Z",
+    "pushed_at": "2026-05-28T23:49:35Z",
+    "updated_at": "2026-05-28T23:49:40Z",
+    "size": 13,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

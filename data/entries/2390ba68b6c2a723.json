@@ -3,16 +3,19 @@
   "name": "@anton-kochev/pi-extensions",
   "url": "https://www.npmjs.com/package/@anton-kochev/pi-extensions",
   "source": "npm-search",
-  "description": "Pi extensions.",
+  "description": "Quietly polish grammar and spelling in your pi prompts.",
   "metadata": {
     "github_url": "https://github.com/anton-kochev/pi-extensions",
-    "npm_name": "@anton-kochev/pi-extensions",
-    "description": "Pi extensions.",
+    "npm_name": "@anton-kochev/squiggle",
+    "description": "Quietly polish grammar and spelling in your pi prompts.",
     "keywords": [
-      "pi-package"
+      "pi-package",
+      "pi-extension",
+      "grammar",
+      "writing"
     ],
-    "version": "0.3.0",
-    "published_at": "2026-05-22T22:37:05.768Z",
+    "version": "0.4.0",
+    "published_at": "2026-05-23T00:41:59.471Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

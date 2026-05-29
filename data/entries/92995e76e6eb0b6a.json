@@ -8,7 +8,7 @@
     "github_url": "https://github.com/BlazeUp-AI/pi-insights",
     "repo_full_name": "BlazeUp-AI/pi-insights",
     "description": "Personal usage analytics for Pi coding agent. Temporal-aware insights, context-aware suggestions, model efficiency analysis.",
-    "stars": 43,
+    "stars": 45,
     "forks": 4,
     "open_issues": 0,
     "topics": [
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-05-25T17:25:12Z",
     "pushed_at": "2026-05-27T14:19:23Z",
-    "updated_at": "2026-05-27T22:30:40Z",
+    "updated_at": "2026-05-28T19:55:45Z",
     "size": 380,
     "license": "AGPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/javiermolinar/pi-zellij",
     "repo_full_name": "javiermolinar/pi-zellij",
     "description": "Pi package with zellij-powered terminal integrations for Pi. Make your workflow agent driven.",
-    "stars": 10,
+    "stars": 11,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -19,7 +19,7 @@
     "archived": false,
     "created_at": "2026-03-08T18:11:48Z",
     "pushed_at": "2026-05-25T13:36:04Z",
-    "updated_at": "2026-05-25T13:36:08Z",
+    "updated_at": "2026-05-28T16:39:41Z",
     "size": 13604,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"

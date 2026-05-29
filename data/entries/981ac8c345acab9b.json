@@ -10,7 +10,7 @@
     "description": "Local-first memory context for Pi coding agents.",
     "stars": 18,
     "forks": 5,
-    "open_issues": 6,
+    "open_issues": 7,
     "topics": [
       "agent-memory",
       "ai",
@@ -29,9 +29,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-30T18:54:27Z",
-    "pushed_at": "2026-05-21T19:49:42Z",
+    "pushed_at": "2026-05-28T20:54:44Z",
     "updated_at": "2026-05-20T14:33:21Z",
-    "size": 536,
+    "size": 567,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

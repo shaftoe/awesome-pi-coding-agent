@@ -1,14 +1,14 @@
 {
   "id": "BRAVE_producthunt.com_pi-coding-agent-3",
-  "name": "The coding-agent harness you can make your own | Pi Coding Agent | Product Hunt",
+  "name": "Pi Coding Agent: The coding-agent harness you can make your own | Product Hunt",
   "url": "https://www.producthunt.com/products/pi-coding-agent-3",
   "source": "brave-web-search",
   "description": "Pi is a minimal terminal coding harness. Adapt Pi to your workflows, not the other way around. Customize Pi with extensions, skills, prompt templates, and themes. Bundle them as Pi packages and share via npm or git.",
   "metadata": {
-    "title": "The coding-agent harness you can make your own | Pi Coding Agent | Product Hunt",
-    "name": "The coding-agent harness you can make your own | Pi Coding Agent | Product Hunt",
+    "title": "Pi Coding Agent: The coding-agent harness you can make your own | Product Hunt",
+    "name": "Pi Coding Agent: The coding-agent harness you can make your own | Product Hunt",
     "description": "Pi is a minimal terminal coding harness. Adapt Pi to your workflows, not the other way around. Customize Pi with extensions, skills, prompt templates, and themes. Bundle them as Pi packages and share via npm or git.",
-    "published_at": "2026-05-25T23:38:07",
+    "published_at": "2026-05-28T01:01:39",
     "source_site": "Product Hunt",
     "source_url": "https://www.producthunt.com/products/pi-coding-agent-3",
     "discovery_hint": "brave:pi-agent"

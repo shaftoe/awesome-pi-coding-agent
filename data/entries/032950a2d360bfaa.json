@@ -1,0 +1,25 @@
+{
+  "id": "Crokily-pi-agent-team",
+  "name": "Crokily-pi-agent-team",
+  "url": "https://github.com/Crokily/pi-agent-team",
+  "source": "github-search",
+  "description": "A minimal convention for running autonomous AI agent teams. No framework, no platform — just directories and a handful of ideas.",
+  "metadata": {
+    "github_url": "https://github.com/Crokily/pi-agent-team",
+    "repo_full_name": "Crokily/pi-agent-team",
+    "description": "A minimal convention for running autonomous AI agent teams. No framework, no platform — just directories and a handful of ideas.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-27T13:49:21Z",
+    "pushed_at": "2026-05-28T12:13:42Z",
+    "updated_at": "2026-05-28T12:45:47Z",
+    "size": 42,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

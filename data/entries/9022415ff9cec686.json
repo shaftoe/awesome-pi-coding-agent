@@ -1,0 +1,25 @@
+{
+  "id": "SmileyChris-pi-sync",
+  "name": "SmileyChris-pi-sync",
+  "url": "https://github.com/SmileyChris/pi-sync",
+  "source": "github-search",
+  "description": "Keep your pi coding agent setup in sync across your own machines.",
+  "metadata": {
+    "github_url": "https://github.com/SmileyChris/pi-sync",
+    "repo_full_name": "SmileyChris/pi-sync",
+    "description": "Keep your pi coding agent setup in sync across your own machines.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-20T05:09:12Z",
+    "pushed_at": "2026-05-27T03:46:10Z",
+    "updated_at": "2026-05-28T21:40:01Z",
+    "size": 131,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

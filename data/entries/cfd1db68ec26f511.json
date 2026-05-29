@@ -9,8 +9,8 @@
     "repo_full_name": "samfoy/pi-memory",
     "description": "Persistent memory for pi — learns corrections, preferences, and patterns from sessions",
     "stars": 67,
-    "forks": 14,
-    "open_issues": 1,
+    "forks": 15,
+    "open_issues": 2,
     "topics": [
       "agent-memory",
       "ai-coding-agent",

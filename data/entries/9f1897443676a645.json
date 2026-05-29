@@ -8,7 +8,7 @@
     "github_url": "https://github.com/NelsonBrandao/pi-agent-extensions",
     "repo_full_name": "NelsonBrandao/pi-agent-extensions",
     "description": "A collection of extensions, skills and themes for the pi coding agent",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-11T20:40:05Z",
     "pushed_at": "2026-04-14T14:14:50Z",
-    "updated_at": "2026-05-03T02:52:48Z",
+    "updated_at": "2026-05-28T09:42:29Z",
     "size": 213,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

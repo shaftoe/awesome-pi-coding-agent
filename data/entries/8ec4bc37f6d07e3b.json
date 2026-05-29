@@ -1,0 +1,29 @@
+{
+  "id": "@ifpi/session-manager",
+  "name": "@ifpi/session-manager",
+  "url": "https://www.npmjs.com/package/@ifpi/session-manager",
+  "source": "npm-search",
+  "description": "TUI session manager for pi — browse, switch, and delete sessions grouped by project path.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@ifpi/session-manager",
+    "description": "TUI session manager for pi — browse, switch, and delete sessions grouped by project path.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "session-manager",
+      "session",
+      "tui"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-05-28T15:42:13.480Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

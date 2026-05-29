@@ -10,7 +10,7 @@
     "description": "Extension for the pi coding agent that intelligently routes each turn to the right LLM tier (high/medium/low) based on task intent, session budget, context size, and custom rules.",
     "stars": 14,
     "forks": 2,
-    "open_issues": 10,
+    "open_issues": 9,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

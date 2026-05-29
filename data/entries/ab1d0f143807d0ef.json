@@ -1,0 +1,25 @@
+{
+  "id": "harms-haus-pi-copilot-usage",
+  "name": "harms-haus-pi-copilot-usage",
+  "url": "https://github.com/harms-haus/pi-copilot-usage",
+  "source": "github-search",
+  "description": "GitHub Copilot quota monitor extension for pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/harms-haus/pi-copilot-usage",
+    "repo_full_name": "harms-haus/pi-copilot-usage",
+    "description": "GitHub Copilot quota monitor extension for pi-coding-agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-28T19:06:50Z",
+    "pushed_at": "2026-05-28T19:18:08Z",
+    "updated_at": "2026-05-28T19:18:14Z",
+    "size": 51,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "Adds Gemini ACP tools for prompt, search, research, extraction, summarization, code review, translation, image analysis in Pi",
     "stars": 4,
     "forks": 1,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "gemini",
       "pi",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-02T04:44:22Z",
-    "pushed_at": "2026-05-19T10:39:37Z",
-    "updated_at": "2026-05-23T04:56:20Z",
-    "size": 1196,
+    "pushed_at": "2026-05-28T22:47:34Z",
+    "updated_at": "2026-05-28T22:11:21Z",
+    "size": 1090,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

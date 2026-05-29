@@ -9,7 +9,7 @@
     "repo_full_name": "arpagon/pi-animations",
     "description": "Animated thinking/working/tool indicators for pi coding agent — 21 terminal animations with ANSI true color and Nerd Font glyphs",
     "stars": 15,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
