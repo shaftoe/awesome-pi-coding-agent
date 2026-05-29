@@ -8,7 +8,7 @@
     "github_url": "https://github.com/bxff/pi-deepseek-search",
     "repo_full_name": "bxff/pi-deepseek-search",
     "description": "Web search for Pi using DeepSeek's server side search",
-    "stars": 7,
+    "stars": 8,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-25T02:58:21Z",
-    "pushed_at": "2026-05-26T17:14:09Z",
-    "updated_at": "2026-05-27T17:05:08Z",
-    "size": 3114,
+    "pushed_at": "2026-05-29T00:08:55Z",
+    "updated_at": "2026-05-29T00:08:59Z",
+    "size": 3134,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

@@ -8,9 +8,9 @@
     "github_url": "https://github.com/synadia-ai/synadia-agents",
     "repo_full_name": "synadia-ai/synadia-agents",
     "description": "SDKs and reference implementations for the Synadia Agent Protocol for NATS",
-    "stars": 52,
-    "forks": 2,
-    "open_issues": 4,
+    "stars": 54,
+    "forks": 4,
+    "open_issues": 5,
     "topics": [
       "agent-protocol",
       "ai",
@@ -34,7 +34,7 @@
     "archived": false,
     "created_at": "2026-04-22T16:18:14Z",
     "pushed_at": "2026-05-27T13:08:32Z",
-    "updated_at": "2026-05-27T14:57:52Z",
+    "updated_at": "2026-05-28T10:10:50Z",
     "size": 3073,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

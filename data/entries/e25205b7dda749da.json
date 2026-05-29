@@ -1,0 +1,26 @@
+{
+  "id": "@liborw/pi-startup-time",
+  "name": "@liborw/pi-startup-time",
+  "url": "https://www.npmjs.com/package/@liborw/pi-startup-time",
+  "source": "npm-search",
+  "description": "pi package that measures startup time and shows the latest reading in the status line",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@liborw/pi-startup-time",
+    "description": "pi package that measures startup time and shows the latest reading in the status line",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-28T10:53:40.199Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

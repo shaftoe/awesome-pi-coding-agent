@@ -1,0 +1,36 @@
+{
+  "id": "pi-agile-coach",
+  "name": "pi-agile-coach",
+  "url": "https://www.npmjs.com/package/pi-agile-coach",
+  "source": "npm-search",
+  "description": "Universal agile coach for pi and Claude Code — structures any project (software, design, hardware, marketing, operations) into sprints with full SDD cycle: backlog, sprint planning, verification, retro, and decision memory. Integrates with any skill.",
+  "metadata": {
+    "github_url": "https://github.com/EdgarNaranjo/pi-agile-coach",
+    "npm_name": "pi-agile-coach",
+    "description": "Universal agile coach for pi and Claude Code — structures any project (software, design, hardware, marketing, operations) into sprints with full SDD cycle: backlog, sprint planning, verification, retro, and decision memory. Integrates with any skill.",
+    "keywords": [
+      "pi-package",
+      "agile",
+      "scrum",
+      "project-management",
+      "sprint",
+      "backlog",
+      "coaching",
+      "pi-coding-agent",
+      "skills",
+      "ai",
+      "sdd",
+      "workflow"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-05-28T12:41:34.647Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

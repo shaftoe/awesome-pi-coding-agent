@@ -1,0 +1,25 @@
+{
+  "id": "@smoose/pi-footer",
+  "name": "@smoose/pi-footer",
+  "url": "https://www.npmjs.com/package/@smoose/pi-footer",
+  "source": "npm-search",
+  "description": "A compact footer/status bar extension for pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/smoosex/pi-footer",
+    "repo_full_name": "smoosex/pi-footer",
+    "description": "A compact footer/status bar extension for pi coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-28T07:31:38Z",
+    "pushed_at": "2026-05-28T09:06:50Z",
+    "updated_at": "2026-05-28T09:06:42Z",
+    "size": 31,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

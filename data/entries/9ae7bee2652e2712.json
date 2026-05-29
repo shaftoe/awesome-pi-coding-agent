@@ -1,0 +1,25 @@
+{
+  "id": "RobertGumeny-pi-memory-akg",
+  "name": "RobertGumeny-pi-memory-akg",
+  "url": "https://github.com/RobertGumeny/pi-memory-akg",
+  "source": "github-search",
+  "description": "A memory package for the Pi agent harness utilizing the Agent Knowledge Graph (AKG) file format and TypeScript SDK",
+  "metadata": {
+    "github_url": "https://github.com/RobertGumeny/pi-memory-akg",
+    "repo_full_name": "RobertGumeny/pi-memory-akg",
+    "description": "A memory package for the Pi agent harness utilizing the Agent Knowledge Graph (AKG) file format and TypeScript SDK",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-28T18:23:46Z",
+    "pushed_at": "2026-05-28T18:27:14Z",
+    "updated_at": "2026-05-28T18:27:19Z",
+    "size": 65,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

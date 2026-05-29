@@ -1,0 +1,30 @@
+{
+  "id": "@slix/pi-file-tracker",
+  "name": "@slix/pi-file-tracker",
+  "url": "https://www.npmjs.com/package/@slix/pi-file-tracker",
+  "source": "npm-search",
+  "description": "Widget that tracks files edited by the agent and shows per-file diff stats above the input",
+  "metadata": {
+    "github_url": "https://github.com/Slix-M-Lestragg/pi-file-tracker",
+    "npm_name": "@slix/pi-file-tracker",
+    "description": "Widget that tracks files edited by the agent and shows per-file diff stats above the input",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "diff",
+      "tracker",
+      "widget"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-05-28T13:40:08.310Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

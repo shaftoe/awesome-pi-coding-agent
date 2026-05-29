@@ -1,0 +1,25 @@
+{
+  "id": "fangwangme-pi-dynamic-title",
+  "name": "fangwangme-pi-dynamic-title",
+  "url": "https://github.com/fangwangme/pi-dynamic-title",
+  "source": "github-search",
+  "description": "State-aware terminal title for Pi Coding Agent — status, model, and smart title in your tab bar",
+  "metadata": {
+    "github_url": "https://github.com/fangwangme/pi-dynamic-title",
+    "repo_full_name": "fangwangme/pi-dynamic-title",
+    "description": " State-aware terminal title for Pi Coding Agent — status, model,  and smart title in your tab bar",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-27T11:00:55Z",
+    "pushed_at": "2026-05-28T15:05:31Z",
+    "updated_at": "2026-05-28T10:36:17Z",
+    "size": 217,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

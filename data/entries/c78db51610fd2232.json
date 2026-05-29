@@ -3,16 +3,16 @@
   "name": "@aphotic/pi-flow-core",
   "url": "https://www.npmjs.com/package/@aphotic/pi-flow-core",
   "source": "npm-search",
-  "description": "Aggregate install package for pi-flow workflow resources.",
+  "description": "Standalone, configurable idea-capture extension for Pi: an `idea` tool and `/ideas` browser backed by docs/ideas/.md artifacts, with JSON-configurable work-menu actions, shortcuts, refine prompt, and command name.",
   "metadata": {
     "github_url": "https://github.com/davidsunglee/pi-flow",
-    "npm_name": "@aphotic/pi-flow",
-    "description": "Aggregate install package for pi-flow workflow resources.",
+    "npm_name": "@aphotic/pi-ideas",
+    "description": "Standalone, configurable idea-capture extension for Pi: an `idea` tool and `/ideas` browser backed by docs/ideas/<8hex>.md artifacts, with JSON-configurable work-menu actions, shortcuts, refine prompt, and command name.",
     "keywords": [
       "pi-package"
     ],
-    "version": "0.5.0",
-    "published_at": "2026-05-24T01:08:29.335Z",
+    "version": "0.6.0",
+    "published_at": "2026-05-28T16:30:40.319Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

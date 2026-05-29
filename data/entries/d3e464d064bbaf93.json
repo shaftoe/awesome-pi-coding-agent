@@ -1,0 +1,26 @@
+{
+  "id": "@foxfirecodes/pi-sandbox",
+  "name": "@foxfirecodes/pi-sandbox",
+  "url": "https://www.npmjs.com/package/@foxfirecodes/pi-sandbox",
+  "source": "npm-search",
+  "description": "OS-level sandboxing for pi with interactive permission prompts (fork)",
+  "metadata": {
+    "github_url": "https://github.com/foxfirecodes/pi-sandbox",
+    "npm_name": "@foxfirecodes/pi-sandbox",
+    "description": "OS-level sandboxing for pi with interactive permission prompts (fork)",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-05-28T02:29:20.910Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

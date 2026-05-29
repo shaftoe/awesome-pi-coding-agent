@@ -8,7 +8,7 @@
     "github_url": "https://github.com/GeneGulanesJr/Pyxis",
     "repo_full_name": "GeneGulanesJr/Pyxis",
     "description": "Context window attribution bar for the Pi coding agent. Color-coded token breakdown in your TUI footer.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 1,
     "topics": [],
@@ -16,10 +16,10 @@
     "archived": false,
     "created_at": "2026-05-09T05:48:55Z",
     "pushed_at": "2026-05-11T07:04:53Z",
-    "updated_at": "2026-05-11T07:05:02Z",
+    "updated_at": "2026-05-28T06:12:14Z",
     "size": 503,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
     "score": 61,
