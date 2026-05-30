@@ -15,9 +15,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-06T20:56:48Z",
-    "pushed_at": "2026-05-28T22:46:53Z",
-    "updated_at": "2026-05-28T22:46:57Z",
-    "size": 5119,
+    "pushed_at": "2026-05-29T18:07:22Z",
+    "updated_at": "2026-05-29T18:07:41Z",
+    "size": 5143,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
@@ -25,5 +25,5 @@
     "score": 68,
     "level": "maintained"
   },
-  "category": "misc"
+  "category": "extension"
 }

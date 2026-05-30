@@ -8,7 +8,7 @@
     "github_url": "https://github.com/joshuadavidthomas/pi-peon-ping",
     "repo_full_name": "joshuadavidthomas/pi-peon-ping",
     "description": "A pi coding agent extension for peon-ping sound notification",
-    "stars": 13,
+    "stars": 14,
     "forks": 3,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-20T03:36:44Z",
     "pushed_at": "2026-02-24T01:08:41Z",
-    "updated_at": "2026-05-12T10:57:40Z",
+    "updated_at": "2026-05-29T09:08:50Z",
     "size": 89,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

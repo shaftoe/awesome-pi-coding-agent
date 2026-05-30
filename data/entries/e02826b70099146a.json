@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Pi extension that bridges Memorix memory hooks into Pi's session lifecycle",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/anh-chu/pi-memorix",
     "npm_name": "pi-memorix",
     "description": "Pi extension that bridges Memorix memory hooks into Pi's session lifecycle",
     "keywords": [
@@ -21,11 +21,11 @@
       "hooks",
       "lifecycle"
     ],
-    "version": "0.1.8",
-    "published_at": "2026-05-18T13:47:42.496Z",
-    "npm_downloads_monthly": 1184,
-    "npm_downloads_weekly": 111,
-    "npm_score_final": 26.825552,
+    "version": "0.1.9",
+    "published_at": "2026-05-29T15:01:17.921Z",
+    "npm_downloads_monthly": 1194,
+    "npm_downloads_weekly": 23,
+    "npm_score_final": 26.538136,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

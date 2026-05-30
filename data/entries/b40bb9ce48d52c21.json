@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tintinweb/pi-supervisor",
     "repo_full_name": "tintinweb/pi-supervisor",
     "description": "A Pi-Agent extension that supervises the coding agent and steers it toward a defined outcome. ",
-    "stars": 48,
+    "stars": 50,
     "forks": 10,
     "open_issues": 2,
     "topics": [
@@ -20,7 +20,7 @@
     "archived": false,
     "created_at": "2026-02-22T11:59:57Z",
     "pushed_at": "2026-05-04T20:12:56Z",
-    "updated_at": "2026-05-19T00:17:57Z",
+    "updated_at": "2026-05-29T13:05:57Z",
     "size": 2278,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

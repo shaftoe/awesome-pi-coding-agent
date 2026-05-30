@@ -1,0 +1,25 @@
+{
+  "id": "pi-openrouter-search-fetch",
+  "name": "pi-openrouter-search-fetch",
+  "url": "https://www.npmjs.com/package/pi-openrouter-search-fetch",
+  "source": "npm-search",
+  "description": "OpenRouter web search & web fetch server tools for Pi — independently toggleable, interactive settings UI",
+  "metadata": {
+    "github_url": "https://github.com/dtmirizzi/pi-openrouter-search-fetch",
+    "npm_name": "pi-openrouter-search-fetch",
+    "description": "OpenRouter web search & web fetch server tools for Pi — independently toggleable, interactive settings UI",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-05-29T23:51:05.138Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

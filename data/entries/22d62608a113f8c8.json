@@ -1,0 +1,25 @@
+{
+  "id": "ssupawat-pi-config-template",
+  "name": "ssupawat-pi-config-template",
+  "url": "https://github.com/ssupawat/pi-config-template",
+  "source": "github-search",
+  "description": "Template for portable pi coding agent config across machines",
+  "metadata": {
+    "github_url": "https://github.com/ssupawat/pi-config-template",
+    "repo_full_name": "ssupawat/pi-config-template",
+    "description": "Template for portable pi coding agent config across machines",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-29T05:48:59Z",
+    "pushed_at": "2026-05-29T06:09:01Z",
+    "updated_at": "2026-05-29T06:09:05Z",
+    "size": 7,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

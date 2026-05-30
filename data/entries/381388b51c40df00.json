@@ -1,0 +1,25 @@
+{
+  "id": "Edward-lyz-pi-edward-plugins",
+  "name": "Edward-lyz-pi-edward-plugins",
+  "url": "https://github.com/Edward-lyz/pi-edward-plugins",
+  "source": "github-search",
+  "description": "Baidu team plugins for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Edward-lyz/pi-edward-plugins",
+    "repo_full_name": "Edward-lyz/pi-edward-plugins",
+    "description": "Baidu team plugins for Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-29T09:54:46Z",
+    "pushed_at": "2026-05-29T10:17:16Z",
+    "updated_at": "2026-05-29T10:17:20Z",
+    "size": 20,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -9,8 +9,8 @@
     "repo_full_name": "NimbleTronAI/pi-code-gui",
     "description": "GUI experience for the popular Pi Coding Agent",
     "stars": 1,
-    "forks": 1,
-    "open_issues": 1,
+    "forks": 2,
+    "open_issues": 2,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
@@ -25,5 +25,5 @@
     "score": 66,
     "level": "maintained"
   },
-  "category": "misc"
+  "category": "extension"
 }

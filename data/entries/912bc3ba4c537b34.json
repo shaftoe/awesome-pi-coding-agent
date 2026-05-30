@@ -1,0 +1,27 @@
+{
+  "id": "pecigonzalo-pi-config",
+  "name": "pecigonzalo-pi-config",
+  "url": "https://github.com/pecigonzalo/pi-config",
+  "source": "github-search",
+  "description": "Personal Pi configuration",
+  "metadata": {
+    "github_url": "https://github.com/pecigonzalo/pi-config",
+    "repo_full_name": "pecigonzalo/pi-config",
+    "description": "Personal Pi configuration",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-21T15:13:05Z",
+    "pushed_at": "2026-05-29T13:05:03Z",
+    "updated_at": "2026-05-29T13:05:07Z",
+    "size": 714,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

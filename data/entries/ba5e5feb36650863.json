@@ -1,0 +1,30 @@
+{
+  "id": "@ifpi/session-files",
+  "name": "@ifpi/session-files",
+  "url": "https://www.npmjs.com/package/@ifpi/session-files",
+  "source": "npm-search",
+  "description": "Track and review files edited by the AI in the current pi session — with TUI browser and VS Code integration.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@ifpi/session-files",
+    "description": "Track and review files edited by the AI in the current pi session — with TUI browser and VS Code integration.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "session",
+      "files",
+      "diff",
+      "vscode"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-29T10:53:30.022Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

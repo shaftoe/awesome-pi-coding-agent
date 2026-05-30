@@ -3,25 +3,23 @@
   "name": "@gonrocca/zero-pi",
   "url": "https://www.npmjs.com/package/@gonrocca/zero-pi",
   "source": "npm-search",
-  "description": "zero-pi — an installable layer for pi (pi.dev): the zero spec-driven development workflow (explore → plan → build → veredicto) with per-phase model autotune and token-efficient batched builds. Adds capability to pi without modifying pi.",
+  "description": "zero-pi-todo — TODOs persistentes para pi, con tool, slash command y overlay aboveEditor.",
   "metadata": {
     "github_url": "https://github.com/gonzalonicolasr/zero-pi",
-    "npm_name": "@gonrocca/zero-pi",
-    "description": "zero-pi — an installable layer for pi (pi.dev): the zero spec-driven development workflow (explore → plan → build → veredicto) with per-phase model autotune and token-efficient batched builds. Adds capability to pi without modifying pi.",
+    "npm_name": "@gonrocca/zero-pi-todo",
+    "description": "zero-pi-todo — TODOs persistentes para pi, con tool, slash command y overlay aboveEditor.",
     "keywords": [
       "pi",
       "pi-package",
       "pi-extension",
-      "zero",
-      "sdd",
-      "spec-driven-development",
-      "ai-coding-agent"
+      "todo",
+      "zero"
     ],
-    "version": "0.1.50",
-    "published_at": "2026-05-24T19:53:23.471Z",
-    "npm_downloads_monthly": 6006,
-    "npm_downloads_weekly": 6006,
-    "npm_score_final": 34.321266,
+    "version": "0.1.0",
+    "published_at": "2026-05-23T16:05:18.424Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
@@ -31,5 +29,5 @@
     "score": 91,
     "level": "active"
   },
-  "category": "misc"
+  "category": "extension"
 }

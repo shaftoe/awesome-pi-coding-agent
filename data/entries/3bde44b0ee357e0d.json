@@ -1,0 +1,25 @@
+{
+  "id": "ssdiwu-pi-marketplace",
+  "name": "ssdiwu-pi-marketplace",
+  "url": "https://github.com/ssdiwu/pi-marketplace",
+  "source": "github-search",
+  "description": "Pi extension for searching, auditing, and installing pi packages from npm — with security review",
+  "metadata": {
+    "github_url": "https://github.com/ssdiwu/pi-marketplace",
+    "repo_full_name": "ssdiwu/pi-marketplace",
+    "description": "Pi extension for searching, auditing, and installing pi packages from npm — with security review",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-29T07:39:45Z",
+    "pushed_at": "2026-05-29T07:40:57Z",
+    "updated_at": "2026-05-29T07:41:01Z",
+    "size": 18,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

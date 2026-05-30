@@ -1,0 +1,25 @@
+{
+  "id": "@qraxiss/pi-gemini-auth",
+  "name": "@qraxiss/pi-gemini-auth",
+  "url": "https://www.npmjs.com/package/@qraxiss/pi-gemini-auth",
+  "source": "npm-search",
+  "description": "Pi extension package for Gemini OAuth compatibility",
+  "metadata": {
+    "github_url": "https://github.com/qraxiss/pi-gemini-auth",
+    "repo_full_name": "qraxiss/pi-gemini-auth",
+    "description": "Pi extension package for Gemini OAuth compatibility",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-29T15:00:56Z",
+    "pushed_at": "2026-05-29T15:22:29Z",
+    "updated_at": "2026-05-29T15:22:57Z",
+    "size": 75,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

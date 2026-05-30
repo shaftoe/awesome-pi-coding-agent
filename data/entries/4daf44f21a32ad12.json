@@ -20,7 +20,7 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-12T15:57:50Z",
-    "pushed_at": "2026-05-28T19:45:53Z",
+    "pushed_at": "2026-05-29T14:15:03Z",
     "updated_at": "2026-05-20T21:05:47Z",
     "size": 112,
     "license": "MIT",
@@ -30,5 +30,5 @@
     "score": 66,
     "level": "maintained"
   },
-  "category": "misc"
+  "category": "extension"
 }
