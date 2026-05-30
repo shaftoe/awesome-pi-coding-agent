@@ -1,0 +1,25 @@
+{
+  "id": "7h145-pi-assorted",
+  "name": "7h145-pi-assorted",
+  "url": "https://github.com/7h145/pi-assorted",
+  "source": "github-search",
+  "description": "Assorted useful Pi coding-agent resources",
+  "metadata": {
+    "github_url": "https://github.com/7h145/pi-assorted",
+    "repo_full_name": "7h145/pi-assorted",
+    "description": "Assorted useful Pi coding-agent resources",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-29T12:43:29Z",
+    "pushed_at": "2026-05-29T13:15:56Z",
+    "updated_at": "2026-05-29T13:16:04Z",
+    "size": 7,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

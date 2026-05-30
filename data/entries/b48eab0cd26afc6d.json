@@ -1,0 +1,25 @@
+{
+  "id": "Jkortex-pi-xkit",
+  "name": "Jkortex-pi-xkit",
+  "url": "https://github.com/Jkortex/pi-xkit",
+  "source": "github-search",
+  "description": "pi agent extensions",
+  "metadata": {
+    "github_url": "https://github.com/Jkortex/pi-xkit",
+    "repo_full_name": "Jkortex/pi-xkit",
+    "description": "pi agent extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-29T09:53:12Z",
+    "pushed_at": "2026-05-29T09:55:09Z",
+    "updated_at": "2026-05-29T09:55:13Z",
+    "size": 11146,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

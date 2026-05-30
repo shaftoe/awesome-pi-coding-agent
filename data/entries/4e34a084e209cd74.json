@@ -1,0 +1,25 @@
+{
+  "id": "pi-ate-workflow",
+  "name": "pi-ate-workflow",
+  "url": "https://www.npmjs.com/package/pi-ate-workflow",
+  "source": "npm-search",
+  "description": "Workflow orchestration extension for pi-coding-agent — subagent spawning, research workflow, output capture",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-ate-workflow",
+    "description": "Workflow orchestration extension for pi-coding-agent — subagent spawning, research workflow, output capture",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-29T09:39:15.294Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

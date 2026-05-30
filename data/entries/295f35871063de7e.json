@@ -1,0 +1,28 @@
+{
+  "id": "@alexanderfortin/pi-stepfun-usage",
+  "name": "@alexanderfortin/pi-stepfun-usage",
+  "url": "https://www.npmjs.com/package/@alexanderfortin/pi-stepfun-usage",
+  "source": "npm-search",
+  "description": "Pi coding agent extension to enrich footer with StepFun current usage",
+  "metadata": {
+    "github_url": "https://github.com/shaftoe/pi-stepfun-usage",
+    "repo_full_name": "shaftoe/pi-stepfun-usage",
+    "description": " Pi coding agent extension to enrich footer with StepFun current usage ",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [
+      "pi-coding-agent",
+      "stepfun"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-29T15:50:35Z",
+    "pushed_at": "2026-05-29T16:29:37Z",
+    "updated_at": "2026-05-29T16:29:41Z",
+    "size": 96,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

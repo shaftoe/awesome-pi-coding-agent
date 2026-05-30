@@ -1,0 +1,25 @@
+{
+  "id": "@kky42/pi-subagents",
+  "name": "@kky42/pi-subagents",
+  "url": "https://www.npmjs.com/package/@kky42/pi-subagents",
+  "source": "npm-search",
+  "description": "Claude Code style subagent extenion for Pi Agent",
+  "metadata": {
+    "github_url": "https://github.com/kky42/pi-subagents",
+    "repo_full_name": "kky42/pi-subagents",
+    "description": "Claude Code style subagent extenion for Pi Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-29T05:04:43Z",
+    "pushed_at": "2026-05-29T18:36:57Z",
+    "updated_at": "2026-05-29T18:36:51Z",
+    "size": 204,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

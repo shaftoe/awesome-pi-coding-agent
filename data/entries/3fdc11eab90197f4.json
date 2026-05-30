@@ -8,9 +8,9 @@
     "github_url": "https://github.com/nicobailon/pi-web-access",
     "repo_full_name": "nicobailon/pi-web-access",
     "description": "Web search and content extraction extension for Pi coding agent",
-    "stars": 570,
+    "stars": 577,
     "forks": 87,
-    "open_issues": 53,
+    "open_issues": 52,
     "topics": [
       "perplexity",
       "pi-coding-agent",
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-01-06T20:20:03Z",
     "pushed_at": "2026-05-02T21:33:15Z",
-    "updated_at": "2026-05-28T23:26:27Z",
+    "updated_at": "2026-05-29T21:34:46Z",
     "size": 7563,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

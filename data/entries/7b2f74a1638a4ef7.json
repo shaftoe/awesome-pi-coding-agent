@@ -9,7 +9,7 @@
     "repo_full_name": "xRyul/pi-nvidia-nim",
     "description": "NVIDIA NIM API provider extension for pi coding agent - access 100+ models from build.nvidia.com",
     "stars": 30,
-    "forks": 14,
+    "forks": 15,
     "open_issues": 2,
     "topics": [],
     "language": "TypeScript",

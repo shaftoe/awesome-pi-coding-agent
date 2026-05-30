@@ -1,0 +1,25 @@
+{
+  "id": "hunter-micro1-pi-monitor",
+  "name": "hunter-micro1-pi-monitor",
+  "url": "https://github.com/hunter-micro1/pi-monitor",
+  "source": "github-search",
+  "description": "Live tmux-aware status monitor for pi coding agents",
+  "metadata": {
+    "github_url": "https://github.com/hunter-micro1/pi-monitor",
+    "repo_full_name": "hunter-micro1/pi-monitor",
+    "description": "Live tmux-aware status monitor for pi coding agents",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-04T13:53:04Z",
+    "pushed_at": "2026-05-28T14:24:48Z",
+    "updated_at": "2026-05-28T14:26:38Z",
+    "size": 676,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

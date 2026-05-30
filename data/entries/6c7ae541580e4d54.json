@@ -1,0 +1,25 @@
+{
+  "id": "pekochan069-pi-microscope",
+  "name": "pekochan069-pi-microscope",
+  "url": "https://github.com/pekochan069/pi-microscope",
+  "source": "github-search",
+  "description": "File picker for pi agent",
+  "metadata": {
+    "github_url": "https://github.com/pekochan069/pi-microscope",
+    "repo_full_name": "pekochan069/pi-microscope",
+    "description": "File picker for pi agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-29T06:32:43Z",
+    "pushed_at": "2026-05-29T07:38:30Z",
+    "updated_at": "2026-05-29T07:38:35Z",
+    "size": 54,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

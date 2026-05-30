@@ -8,7 +8,7 @@
     "github_url": "https://github.com/nicobailon/pi-interactive-shell",
     "repo_full_name": "nicobailon/pi-interactive-shell",
     "description": "Pi coding agent extension that allows Pi to autonomously control interactive CLIs in an observable overlay. Full PTY emulation, no  tmux, token efficient. User can take over anytime.",
-    "stars": 507,
+    "stars": 510,
     "forks": 37,
     "open_issues": 3,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-01-18T01:28:58Z",
     "pushed_at": "2026-04-23T19:25:55Z",
-    "updated_at": "2026-05-26T15:14:58Z",
+    "updated_at": "2026-05-29T21:23:59Z",
     "size": 3190,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

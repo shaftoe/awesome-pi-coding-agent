@@ -10,7 +10,7 @@
     "description": "Ollama Cloud plugin for Pi coding agent (API Key based)",
     "stars": 32,
     "forks": 8,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

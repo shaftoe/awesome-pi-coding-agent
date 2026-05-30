@@ -1,0 +1,25 @@
+{
+  "id": "tvdavies-pi-extensions",
+  "name": "tvdavies-pi-extensions",
+  "url": "https://github.com/tvdavies/pi-extensions",
+  "source": "github-search",
+  "description": "Personal Pi coding agent extensions",
+  "metadata": {
+    "github_url": "https://github.com/tvdavies/pi-extensions",
+    "repo_full_name": "tvdavies/pi-extensions",
+    "description": "Personal Pi coding agent extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-29T15:30:16Z",
+    "pushed_at": "2026-05-29T15:51:35Z",
+    "updated_at": "2026-05-29T15:51:39Z",
+    "size": 79,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

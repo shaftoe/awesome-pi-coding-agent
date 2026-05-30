@@ -8,7 +8,7 @@
     "github_url": "https://github.com/heyhuynhgiabuu/openpi",
     "repo_full_name": "heyhuynhgiabuu/openpi",
     "description": "OpenPi is a desktop workbench for the Pi coding agent.",
-    "stars": 75,
+    "stars": 76,
     "forks": 3,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-13T07:53:31Z",
     "pushed_at": "2026-05-27T16:09:41Z",
-    "updated_at": "2026-05-28T10:16:40Z",
+    "updated_at": "2026-05-29T14:57:17Z",
     "size": 2319,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

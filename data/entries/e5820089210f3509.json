@@ -1,0 +1,32 @@
+{
+  "id": "Jackliu-miaozi-pi-herdr-workflow-kit",
+  "name": "Jackliu-miaozi-pi-herdr-workflow-kit",
+  "url": "https://github.com/Jackliu-miaozi/pi-herdr-workflow-kit",
+  "source": "github-search",
+  "description": "Local Pi + Herdr multi-agent workflow kit with planning, review gates, phased coding, and Git commits",
+  "metadata": {
+    "github_url": "https://github.com/Jackliu-miaozi/pi-herdr-workflow-kit",
+    "repo_full_name": "Jackliu-miaozi/pi-herdr-workflow-kit",
+    "description": "Local Pi + Herdr multi-agent workflow kit with planning, review gates, phased coding, and Git commits",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [
+      "ai-agents",
+      "codex",
+      "herdr",
+      "multi-agent",
+      "pi",
+      "workflow"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-29T06:20:52Z",
+    "pushed_at": "2026-05-29T06:20:56Z",
+    "updated_at": "2026-05-29T17:31:18Z",
+    "size": 31,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

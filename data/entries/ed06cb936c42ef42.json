@@ -1,0 +1,30 @@
+{
+  "id": "eiei114-pi-extension-template",
+  "name": "eiei114-pi-extension-template",
+  "url": "https://github.com/eiei114/pi-extension-template",
+  "source": "github-search",
+  "description": "Template for building Pi packages with extensions, Agent Skills, prompts, and themes.",
+  "metadata": {
+    "github_url": "https://github.com/eiei114/pi-extension-template",
+    "repo_full_name": "eiei114/pi-extension-template",
+    "description": "Template for building Pi packages with extensions, Agent Skills, prompts, and themes.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "agent-skill",
+      "pi",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-29T02:22:11Z",
+    "pushed_at": "2026-05-29T06:40:04Z",
+    "updated_at": "2026-05-29T03:31:30Z",
+    "size": 110,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

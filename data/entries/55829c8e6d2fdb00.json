@@ -1,0 +1,25 @@
+{
+  "id": "chrisyerga-squat-cobbler",
+  "name": "chrisyerga-squat-cobbler",
+  "url": "https://github.com/chrisyerga/squat-cobbler",
+  "source": "github-search",
+  "description": "My collection of extensions for Pi.dev AI coding agent harness",
+  "metadata": {
+    "github_url": "https://github.com/chrisyerga/squat-cobbler",
+    "repo_full_name": "chrisyerga/squat-cobbler",
+    "description": "My collection of extensions for Pi.dev AI coding agent harness",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-29T17:41:18Z",
+    "pushed_at": "2026-05-29T18:53:35Z",
+    "updated_at": "2026-05-29T18:53:39Z",
+    "size": 50,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

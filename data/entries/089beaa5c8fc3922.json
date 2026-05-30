@@ -9,7 +9,7 @@
     "repo_full_name": "FieldSwan/pi-config",
     "description": "My very opinonated collection of settings and extensions for the pi coding agent. Goes in .pi folder.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

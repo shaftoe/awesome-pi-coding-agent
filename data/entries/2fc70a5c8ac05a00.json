@@ -1,0 +1,25 @@
+{
+  "id": "microbial-pangenomes-lab-pi-academiccloud",
+  "name": "microbial-pangenomes-lab-pi-academiccloud",
+  "url": "https://github.com/microbial-pangenomes-lab/pi-academiccloud",
+  "source": "github-search",
+  "description": "pi coding agent extension to use the models hosted in Academic Cloud",
+  "metadata": {
+    "github_url": "https://github.com/microbial-pangenomes-lab/pi-academiccloud",
+    "repo_full_name": "microbial-pangenomes-lab/pi-academiccloud",
+    "description": "pi coding agent extension to use the models hosted in Academic Cloud",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-29T12:00:51Z",
+    "pushed_at": "2026-05-29T21:32:08Z",
+    "updated_at": "2026-05-29T21:32:13Z",
+    "size": 17,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}
