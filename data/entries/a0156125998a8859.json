@@ -1,0 +1,25 @@
+{
+  "id": "daanqq-.pi",
+  "name": "daanqq-.pi",
+  "url": "https://github.com/daanqq/.pi",
+  "source": "github-search",
+  "description": "Personal configuration repository for the pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/daanqq/.pi",
+    "repo_full_name": "daanqq/.pi",
+    "description": "Personal configuration repository for the pi coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-13T17:15:00Z",
+    "pushed_at": "2026-05-30T06:29:55Z",
+    "updated_at": "2026-05-30T06:52:35Z",
+    "size": 197,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

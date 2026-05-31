@@ -8,7 +8,7 @@
     "github_url": "https://github.com/gvkhosla/compound-engineering-pi",
     "repo_full_name": "gvkhosla/compound-engineering-pi",
     "description": "Compound engineering extension for Pi coding agent workflows.",
-    "stars": 40,
+    "stars": 41,
     "forks": 3,
     "open_issues": 0,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-02-12T07:19:04Z",
     "pushed_at": "2026-04-21T18:28:17Z",
-    "updated_at": "2026-05-27T18:01:41Z",
+    "updated_at": "2026-05-30T14:57:45Z",
     "size": 969,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

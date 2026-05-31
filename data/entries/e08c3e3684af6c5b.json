@@ -1,0 +1,25 @@
+{
+  "id": "parkashay-pi-extensions",
+  "name": "parkashay-pi-extensions",
+  "url": "https://github.com/parkashay/pi-extensions",
+  "source": "github-search",
+  "description": "Custom extensions for Pi Coding Agent.",
+  "metadata": {
+    "github_url": "https://github.com/parkashay/pi-extensions",
+    "repo_full_name": "parkashay/pi-extensions",
+    "description": "Custom extensions for Pi Coding Agent. ",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-30T05:43:16Z",
+    "pushed_at": "2026-05-30T05:46:36Z",
+    "updated_at": "2026-05-30T05:46:39Z",
+    "size": 4,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

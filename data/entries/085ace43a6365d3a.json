@@ -1,0 +1,25 @@
+{
+  "id": "unitdhda-pi-dstui",
+  "name": "unitdhda-pi-dstui",
+  "url": "https://github.com/unitdhda/pi-dstui",
+  "source": "github-search",
+  "description": "Domain specific tui and lisp for pi agent",
+  "metadata": {
+    "github_url": "https://github.com/unitdhda/pi-dstui",
+    "repo_full_name": "unitdhda/pi-dstui",
+    "description": "Domain specific tui and lisp for pi agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-28T18:43:04Z",
+    "pushed_at": "2026-05-29T05:21:29Z",
+    "updated_at": "2026-05-30T10:27:36Z",
+    "size": 42,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

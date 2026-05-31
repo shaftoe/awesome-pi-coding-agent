@@ -1,0 +1,25 @@
+{
+  "id": "Perazzojoao-pi-agent-configs",
+  "name": "Perazzojoao-pi-agent-configs",
+  "url": "https://github.com/Perazzojoao/pi-agent-configs",
+  "source": "github-search",
+  "description": "Pi code agent configurations",
+  "metadata": {
+    "github_url": "https://github.com/Perazzojoao/pi-agent-configs",
+    "repo_full_name": "Perazzojoao/pi-agent-configs",
+    "description": "Pi code agent configurations",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-29T01:30:45Z",
+    "pushed_at": "2026-05-30T20:53:29Z",
+    "updated_at": "2026-05-30T20:53:33Z",
+    "size": 480,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

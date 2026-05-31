@@ -1,0 +1,25 @@
+{
+  "id": "CNCSMonster-pi-permission-gate",
+  "name": "CNCSMonster-pi-permission-gate",
+  "url": "https://github.com/CNCSMonster/pi-permission-gate",
+  "source": "github-search",
+  "description": "Rule-based permission gate extension for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/CNCSMonster/pi-permission-gate",
+    "repo_full_name": "CNCSMonster/pi-permission-gate",
+    "description": "Rule-based permission gate extension for the Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-30T12:46:51Z",
+    "pushed_at": "2026-05-30T17:35:42Z",
+    "updated_at": "2026-05-30T17:35:46Z",
+    "size": 15,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

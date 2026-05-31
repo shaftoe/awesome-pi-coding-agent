@@ -9,7 +9,7 @@
     "repo_full_name": "latent-variable/pi-auto-continue",
     "description": "Pi extension: auto-send a continue message after each agent turn, so local agents can run autoresearch-style overnight loops without babysitting.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

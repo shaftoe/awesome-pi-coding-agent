@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-21T21:59:59Z",
-    "pushed_at": "2026-05-29T06:34:13Z",
-    "updated_at": "2026-05-29T14:59:20Z",
-    "size": 67837,
+    "pushed_at": "2026-05-30T06:40:56Z",
+    "updated_at": "2026-05-30T06:40:58Z",
+    "size": 68271,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
@@ -31,5 +31,5 @@
     "score": 82,
     "level": "active"
   },
-  "category": "extension"
+  "category": "misc"
 }

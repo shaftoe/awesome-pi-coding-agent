@@ -8,7 +8,7 @@
     "github_url": "https://github.com/w-winter/dot314",
     "repo_full_name": "w-winter/dot314",
     "description": "Pi extensions",
-    "stars": 109,
+    "stars": 110,
     "forks": 12,
     "open_issues": 0,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-01-19T10:55:46Z",
     "pushed_at": "2026-05-19T01:48:26Z",
-    "updated_at": "2026-05-21T11:11:12Z",
+    "updated_at": "2026-05-30T11:23:55Z",
     "size": 36590,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

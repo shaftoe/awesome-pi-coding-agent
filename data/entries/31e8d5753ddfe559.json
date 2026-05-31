@@ -1,0 +1,28 @@
+{
+  "id": "pi-assisted-by",
+  "name": "pi-assisted-by",
+  "url": "https://www.npmjs.com/package/pi-assisted-by",
+  "source": "npm-search",
+  "description": "A Pi extension that automatically appends an Assisted-by (or other customizable) git trailer to commit messages with the model name",
+  "metadata": {
+    "github_url": "https://github.com/lack/pi-assisted-by",
+    "npm_name": "pi-assisted-by",
+    "description": "A Pi extension that automatically appends an Assisted-by (or other customizable) git trailer to commit messages with the model name",
+    "keywords": [
+      "pi-package",
+      "git",
+      "assisted-by",
+      "pi-extension"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-30T01:28:34.689Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

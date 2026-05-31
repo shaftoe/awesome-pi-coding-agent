@@ -1,0 +1,25 @@
+{
+  "id": "georgi-claude-pipe",
+  "name": "georgi-claude-pipe",
+  "url": "https://github.com/georgi/claude-pipe",
+  "source": "github-search",
+  "description": "Lightweight personal assistant on telegram / discord based on Pi Agent",
+  "metadata": {
+    "github_url": "https://github.com/georgi/claude-pipe",
+    "repo_full_name": "georgi/claude-pipe",
+    "description": "Lightweight personal assistant on telegram / discord based on Pi Agent",
+    "stars": 30,
+    "forks": 3,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-08T13:16:29Z",
+    "pushed_at": "2026-05-27T21:23:49Z",
+    "updated_at": "2026-05-30T09:47:54Z",
+    "size": 52981,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

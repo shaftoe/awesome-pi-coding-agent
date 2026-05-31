@@ -1,0 +1,33 @@
+{
+  "id": "windows-software-installer-skill",
+  "name": "windows-software-installer-skill",
+  "url": "https://www.npmjs.com/package/windows-software-installer-skill",
+  "source": "npm-search",
+  "description": "Safer Windows software installer skill for AI coding agents (pi, Claude Code). Install via Scoop, local installer, or verified download with SHA256/Authenticode checks.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "windows-software-installer-skill",
+    "description": "Safer Windows software installer skill for AI coding agents (pi, Claude Code). Install via Scoop, local installer, or verified download with SHA256/Authenticode checks.",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "claude-code",
+      "ai-agent",
+      "skill",
+      "windows",
+      "installer",
+      "scoop",
+      "winget"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-05-30T06:11:26.322Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

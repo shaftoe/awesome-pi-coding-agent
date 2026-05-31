@@ -1,0 +1,30 @@
+{
+  "id": "pi-tool-stats",
+  "name": "pi-tool-stats",
+  "url": "https://www.npmjs.com/package/pi-tool-stats",
+  "source": "npm-search",
+  "description": "Track skill, prompt-template, extension, and built-in tool usage in pi so you can prune unused resources and keep pi light.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-tool-stats",
+    "description": "Track skill, prompt-template, extension, and built-in tool usage in pi so you can prune unused resources and keep pi light.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "metrics",
+      "usage",
+      "analytics"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-05-30T22:33:21.915Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

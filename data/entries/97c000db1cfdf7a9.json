@@ -10,7 +10,7 @@
     "description": "An opinionated distribution of pi, the coding agent. Extensions for project memory, spec-driven development, local LLM inference, parallel task decomposition, and more.",
     "stars": 3,
     "forks": 3,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "ai-agent",
       "cli",
