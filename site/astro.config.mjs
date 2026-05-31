@@ -15,6 +15,7 @@ const buildDate = meta ? formatIsoTimestamp(meta.lastUpdatedAt) : formatBuildTim
 
 // https://astro.build/config
 export default defineConfig({
+	site: "https://awesome-pi.site",
 	vite: {
 		define: {
 			BUILD_DATE: JSON.stringify(buildDate),
