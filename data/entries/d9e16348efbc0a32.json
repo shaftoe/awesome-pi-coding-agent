@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_mcpmarket.com_pi-coding-agent",
+  "name": "Pi Coding Agent: AI Terminal with Memory, Web Search & GitHub",
+  "url": "https://mcpmarket.com/server/pi-coding-agent",
+  "source": "brave-web-search",
+  "description": "Enhance Pi terminal coding with Pi Coding Agent. Features persistent cross-session memory, integrated web search, and GitHub MCP for AI interactions. Optimized for Nix users.",
+  "metadata": {
+    "title": "Pi Coding Agent: AI Terminal with Memory, Web Search & GitHub",
+    "name": "Pi Coding Agent: AI Terminal with Memory, Web Search & GitHub",
+    "description": "Enhance Pi terminal coding with Pi Coding Agent. Features persistent cross-session memory, integrated web search, and GitHub MCP for AI interactions. Optimized for Nix users.",
+    "published_at": "2026-05-28T13:50:03",
+    "source_site": "MCP Market",
+    "source_url": "https://mcpmarket.com/server/pi-coding-agent",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

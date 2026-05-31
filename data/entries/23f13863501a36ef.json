@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tshu-w/pi-control",
     "repo_full_name": "tshu-w/pi-control",
     "description": "pi extension + skill that gives agents runtime self-control — resume sessions, switch models, navigate history, anchor and pivot — instead of leaving it user-only",
-    "stars": 6,
+    "stars": 7,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-13T09:16:09Z",
     "pushed_at": "2026-05-27T16:25:03Z",
-    "updated_at": "2026-05-27T16:25:09Z",
+    "updated_at": "2026-05-30T00:07:22Z",
     "size": 61,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

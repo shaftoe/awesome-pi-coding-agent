@@ -1,0 +1,25 @@
+{
+  "id": "@d3ara1n/context-include",
+  "name": "@d3ara1n/context-include",
+  "url": "https://www.npmjs.com/package/@d3ara1n/context-include",
+  "source": "npm-search",
+  "description": "A collection of small extensions for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/d3ara1n/pi-extensions",
+    "repo_full_name": "d3ara1n/pi-extensions",
+    "description": "A collection of small extensions for Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-30T07:35:13Z",
+    "pushed_at": "2026-05-30T08:20:28Z",
+    "updated_at": "2026-05-30T08:20:31Z",
+    "size": 32,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

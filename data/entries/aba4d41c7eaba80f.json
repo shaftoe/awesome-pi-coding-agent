@@ -1,0 +1,25 @@
+{
+  "id": "m7l5-pi-msg",
+  "name": "m7l5-pi-msg",
+  "url": "https://github.com/m7l5/pi-msg",
+  "source": "github-search",
+  "description": "Cross-session messaging for Pi agents. Send messages between Pi sessions via Unix sockets with offline inbox, expect-answer flows, and safe non-blocking delivery.",
+  "metadata": {
+    "github_url": "https://github.com/m7l5/pi-msg",
+    "repo_full_name": "m7l5/pi-msg",
+    "description": "Cross-session messaging for Pi agents. Send messages between Pi sessions via Unix sockets with offline inbox, expect-answer flows, and safe non-blocking delivery.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-04T06:29:08Z",
+    "pushed_at": "2026-05-04T07:30:10Z",
+    "updated_at": "2026-05-30T18:03:21Z",
+    "size": 68,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

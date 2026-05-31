@@ -10,7 +10,7 @@
     "description": "Tmux-powered session multiplexer for Pi.",
     "stars": 5,
     "forks": 2,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "pi",
       "pi-agent",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-21T14:05:48Z",
-    "pushed_at": "2026-05-17T10:31:29Z",
-    "updated_at": "2026-05-27T04:36:23Z",
-    "size": 24658,
+    "pushed_at": "2026-05-30T03:01:45Z",
+    "updated_at": "2026-05-30T03:01:48Z",
+    "size": 24671,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

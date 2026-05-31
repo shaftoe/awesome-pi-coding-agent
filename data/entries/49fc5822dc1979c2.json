@@ -1,0 +1,29 @@
+{
+  "id": "pi-multi-grep",
+  "name": "pi-multi-grep",
+  "url": "https://www.npmjs.com/package/pi-multi-grep",
+  "source": "npm-search",
+  "description": "Pi extension that replaces the built-in grep tool with multi-path and multi-glob support.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-multi-grep",
+    "description": "Pi extension that replaces the built-in grep tool with multi-path and multi-glob support.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "grep",
+      "ripgrep",
+      "glob"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-05-30T20:55:34.063Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

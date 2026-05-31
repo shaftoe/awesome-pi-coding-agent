@@ -8,7 +8,7 @@
     "github_url": "https://github.com/kingkillery/pk-pi-hermes-evolve",
     "repo_full_name": "kingkillery/pk-pi-hermes-evolve",
     "description": "Pi package inspired by Hermes Agent Self-Evolution with hybrid TypeScript + optional Python DSPy/GEPA backends.",
-    "stars": 6,
+    "stars": 7,
     "forks": 0,
     "open_issues": 1,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-04-12T18:32:28Z",
     "pushed_at": "2026-05-29T02:23:26Z",
-    "updated_at": "2026-05-13T16:55:28Z",
+    "updated_at": "2026-05-30T03:22:18Z",
     "size": 289,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

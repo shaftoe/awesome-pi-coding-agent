@@ -9,8 +9,8 @@
     "repo_full_name": "robzolkos/pi-slopchop",
     "description": "Terminal code review and annotation workflow for Pi",
     "stars": 45,
-    "forks": 4,
-    "open_issues": 0,
+    "forks": 5,
+    "open_issues": 2,
     "topics": [
       "annotation-tool",
       "diff-review",

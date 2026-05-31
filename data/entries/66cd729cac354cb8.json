@@ -9,7 +9,7 @@
     "repo_full_name": "Gentleman-Programming/gentle-pi",
     "description": "Gentle AI made-to-measure Pi agent",
     "stars": 89,
-    "forks": 21,
+    "forks": 22,
     "open_issues": 17,
     "topics": [],
     "language": "TypeScript",
@@ -25,5 +25,5 @@
     "score": 88,
     "level": "active"
   },
-  "category": "extension"
+  "category": "misc"
 }

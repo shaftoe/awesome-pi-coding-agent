@@ -8,7 +8,7 @@
     "github_url": "https://github.com/anthod0/pi-lab",
     "repo_full_name": "anthod0/pi-lab",
     "description": "A collection of extensions for the pi coding agent.",
-    "stars": 2,
+    "stars": 3,
     "forks": 1,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-20T05:47:30Z",
     "pushed_at": "2026-05-27T07:07:21Z",
-    "updated_at": "2026-05-27T06:58:04Z",
+    "updated_at": "2026-05-30T04:33:43Z",
     "size": 170,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

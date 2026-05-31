@@ -8,7 +8,7 @@
     "github_url": "https://github.com/micuintus/pi-eurouter",
     "repo_full_name": "micuintus/pi-eurouter",
     "description": "EUrouter provider extension for pi coding agent",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,10 +16,10 @@
     "archived": false,
     "created_at": "2026-05-20T12:55:13Z",
     "pushed_at": "2026-05-21T09:48:13Z",
-    "updated_at": "2026-05-21T09:48:17Z",
+    "updated_at": "2026-05-30T20:22:50Z",
     "size": 27,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
     "score": 72,

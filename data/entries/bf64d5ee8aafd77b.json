@@ -1,0 +1,27 @@
+{
+  "id": "shaftoe-pi-usage-lib",
+  "name": "shaftoe-pi-usage-lib",
+  "url": "https://github.com/shaftoe/pi-usage-lib",
+  "source": "github-search",
+  "description": "Shared library for building Pi coding agent usage-monitoring extensions",
+  "metadata": {
+    "github_url": "https://github.com/shaftoe/pi-usage-lib",
+    "repo_full_name": "shaftoe/pi-usage-lib",
+    "description": "Shared library for building Pi coding agent usage-monitoring extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-30T07:50:53Z",
+    "pushed_at": "2026-05-30T20:15:32Z",
+    "updated_at": "2026-05-30T20:15:35Z",
+    "size": 79,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

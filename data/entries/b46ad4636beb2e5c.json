@@ -1,0 +1,28 @@
+{
+  "id": "alps-pi",
+  "name": "alps-pi",
+  "url": "https://www.npmjs.com/package/alps-pi",
+  "source": "npm-search",
+  "description": "Personal pi beautification extension with runtime TUI message frames, fixed bottom input, animations, and theme support.",
+  "metadata": {
+    "github_url": "https://github.com/MrCKR/alps-pi",
+    "npm_name": "alps-pi",
+    "description": "Personal pi beautification extension with runtime TUI message frames, fixed bottom input, animations, and theme support.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-theme",
+      "tui"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-30T11:50:48.377Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

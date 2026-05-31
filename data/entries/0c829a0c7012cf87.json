@@ -1,0 +1,25 @@
+{
+  "id": "@ssweens/pi-account-switcher",
+  "name": "@ssweens/pi-account-switcher",
+  "url": "https://www.npmjs.com/package/@ssweens/pi-account-switcher",
+  "source": "npm-search",
+  "description": "Pi coding agent extension packages",
+  "metadata": {
+    "github_url": "https://github.com/ssweens/pi-packages",
+    "repo_full_name": "ssweens/pi-packages",
+    "description": "Pi coding agent extension packages",
+    "stars": 4,
+    "forks": 6,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-21T03:37:50Z",
+    "pushed_at": "2026-05-30T19:05:58Z",
+    "updated_at": "2026-05-30T19:06:02Z",
+    "size": 15597,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
