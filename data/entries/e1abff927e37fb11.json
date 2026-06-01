@@ -8,9 +8,9 @@
     "github_url": "https://github.com/code-yeongyu/pi-anthropic-tool-search",
     "repo_full_name": "code-yeongyu/pi-anthropic-tool-search",
     "description": "Anthropic native tool-search policy extension for the pi coding agent. Conditionally injects Anthropic tool-search tools based on PI_ANTHROPIC_TOOL_SEARCH and appends tool-search guidance to the system prompt.",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
+    "stars": 1,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "anthropic",
       "claude",
@@ -25,11 +25,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-12T04:08:39Z",
-    "pushed_at": "2026-05-12T04:14:46Z",
-    "updated_at": "2026-05-12T04:14:49Z",
-    "size": 7,
+    "pushed_at": "2026-05-18T06:48:05Z",
+    "updated_at": "2026-05-31T04:30:08Z",
+    "size": 8,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
     "score": 50,

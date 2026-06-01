@@ -1,0 +1,25 @@
+{
+  "id": "runyaga-pi-nincompoop-guys",
+  "name": "runyaga-pi-nincompoop-guys",
+  "url": "https://github.com/runyaga/pi-nincompoop-guys",
+  "source": "github-search",
+  "description": "pi coding-agent extension bridging the Pydantic Logfire OpenTelemetry MCP server into pi as native tools",
+  "metadata": {
+    "github_url": "https://github.com/runyaga/pi-nincompoop-guys",
+    "repo_full_name": "runyaga/pi-nincompoop-guys",
+    "description": "pi coding-agent extension bridging the Pydantic Logfire OpenTelemetry MCP server into pi as native tools",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-31T05:00:48Z",
+    "pushed_at": "2026-05-31T07:47:39Z",
+    "updated_at": "2026-05-31T07:47:42Z",
+    "size": 190,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

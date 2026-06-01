@@ -8,7 +8,7 @@
     "github_url": "https://github.com/zekdevs/pi-config",
     "repo_full_name": "zekdevs/pi-config",
     "description": "my person pi agent setup",
-    "stars": 31,
+    "stars": 33,
     "forks": 3,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-17T04:57:47Z",
     "pushed_at": "2026-05-17T05:02:45Z",
-    "updated_at": "2026-05-30T19:18:21Z",
+    "updated_at": "2026-05-31T23:46:52Z",
     "size": 428,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

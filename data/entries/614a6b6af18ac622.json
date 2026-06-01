@@ -8,7 +8,7 @@
     "github_url": "https://github.com/javiermolinar/pi-cmux",
     "repo_full_name": "javiermolinar/pi-cmux",
     "description": " cmux-powered terminal workflows for  Pi: notifications, split panes, zoxide  jumps, review helpers, and handoff  sessions.",
-    "stars": 23,
+    "stars": 24,
     "forks": 5,
     "open_issues": 1,
     "topics": [
@@ -20,7 +20,7 @@
     "archived": false,
     "created_at": "2026-03-07T11:06:58Z",
     "pushed_at": "2026-05-27T14:24:44Z",
-    "updated_at": "2026-05-27T14:25:20Z",
+    "updated_at": "2026-05-31T03:03:43Z",
     "size": 244,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,31 @@
+{
+  "id": "pi-agent-board",
+  "name": "pi-agent-board",
+  "url": "https://www.npmjs.com/package/pi-agent-board",
+  "source": "npm-search",
+  "description": "Agent-board dashboard for Pi: dispatch, monitor, peek/reply, and attach to background Pi sessions.",
+  "metadata": {
+    "github_url": "https://github.com/rutvikchandla3/pi-agent-board",
+    "npm_name": "pi-agent-board",
+    "description": "Agent-board dashboard for Pi: dispatch, monitor, peek/reply, and attach to background Pi sessions.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "agent-board",
+      "background-agents",
+      "dashboard"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-05-31T08:45:06.292Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

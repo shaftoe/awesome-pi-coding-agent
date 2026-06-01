@@ -8,7 +8,7 @@
     "github_url": "https://github.com/fitchmultz/pi-agent-browser-native",
     "repo_full_name": "fitchmultz/pi-agent-browser-native",
     "description": "pi extension that exposes agent-browser as a native tool for browser automation",
-    "stars": 99,
+    "stars": 100,
     "forks": 5,
     "open_issues": 3,
     "topics": [
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-04-09T14:01:59Z",
     "pushed_at": "2026-05-30T01:33:58Z",
-    "updated_at": "2026-05-30T01:33:55Z",
+    "updated_at": "2026-05-31T10:06:33Z",
     "size": 3426,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

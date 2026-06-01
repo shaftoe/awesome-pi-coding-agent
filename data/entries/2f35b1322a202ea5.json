@@ -1,0 +1,25 @@
+{
+  "id": "disler-pi-agent-observability",
+  "name": "disler-pi-agent-observability",
+  "url": "https://github.com/disler/pi-agent-observability",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/disler/pi-agent-observability",
+    "repo_full_name": "disler/pi-agent-observability",
+    "description": "",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-26T15:31:48Z",
+    "pushed_at": "2026-05-31T17:19:36Z",
+    "updated_at": "2026-05-31T20:57:03Z",
+    "size": 13040,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

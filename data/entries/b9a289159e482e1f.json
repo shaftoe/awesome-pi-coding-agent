@@ -1,0 +1,25 @@
+{
+  "id": "ssdiwu-pi-dteam",
+  "name": "ssdiwu-pi-dteam",
+  "url": "https://github.com/ssdiwu/pi-dteam",
+  "source": "github-search",
+  "description": "Lightweight multi-agent orchestration system — a Pi extension package for multi-agent workflows",
+  "metadata": {
+    "github_url": "https://github.com/ssdiwu/pi-dteam",
+    "repo_full_name": "ssdiwu/pi-dteam",
+    "description": "Lightweight multi-agent orchestration system — a Pi extension package for multi-agent workflows",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-31T08:42:23Z",
+    "pushed_at": "2026-05-31T19:51:56Z",
+    "updated_at": "2026-05-31T19:51:52Z",
+    "size": 346,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

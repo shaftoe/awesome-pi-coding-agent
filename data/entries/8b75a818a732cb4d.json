@@ -9,7 +9,7 @@
     "repo_full_name": "alvivar/pi-link",
     "description": "A WebSocket-based inter-terminal communication system that creates a local network between multiple Pi coding agent terminals. Enables terminals to discover each other, exchange messages, and orchestrate work across agents, all automatically on localhost.",
     "stars": 40,
-    "forks": 2,
+    "forks": 3,
     "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
