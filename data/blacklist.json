@@ -25895,5 +25895,23 @@
 		"reason": "Duplicate of npmjs.com/package/@aaroncql/pim-agent — keeping npm-sourced entry with higher stars",
 		"blacklisted_at": "2026-06-01T00:08:51.337Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=8oLP8oxqtOE",
+		"reason": "not about Pi",
+		"blacklisted_at": "2026-06-01T16:51:20.72Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=uEit1oOJK0w",
+		"reason": "not about Pi",
+		"blacklisted_at": "2026-06-01T16:51:58.116Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=k_D_C3ExypU",
+		"reason": "not about Pi",
+		"blacklisted_at": "2026-06-01T16:52:33.249Z",
+		"source": "manual"
 	}
 ]
