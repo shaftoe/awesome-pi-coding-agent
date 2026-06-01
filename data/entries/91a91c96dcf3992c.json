@@ -10,7 +10,7 @@
     "description": "Cursor Composer 2.5 powerpack for Pi: agent chains, dispatch teams, Pi-Pi experts, live subagents, Pi-to-Pi coms, damage-control safety, curated agents and mono-black theme. Install with pi install. Requires Pi ≥0.75.3.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 5,
     "topics": [
       "agent-orchestration",
       "ai-agents",
@@ -31,9 +31,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-24T02:45:08Z",
-    "pushed_at": "2026-05-25T08:55:57Z",
+    "pushed_at": "2026-05-31T06:14:08Z",
     "updated_at": "2026-05-25T08:56:00Z",
-    "size": 725,
+    "size": 938,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

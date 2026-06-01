@@ -3,23 +3,26 @@
   "name": "@ssweens/pi-account-switcher",
   "url": "https://www.npmjs.com/package/@ssweens/pi-account-switcher",
   "source": "npm-search",
-  "description": "Pi coding agent extension packages",
+  "description": "Pi extension for quickly switching between multiple accounts/API keys per provider.",
   "metadata": {
     "github_url": "https://github.com/ssweens/pi-packages",
-    "repo_full_name": "ssweens/pi-packages",
-    "description": "Pi coding agent extension packages",
-    "stars": 4,
-    "forks": 6,
-    "open_issues": 2,
-    "topics": [],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-02-21T03:37:50Z",
-    "pushed_at": "2026-05-30T19:05:58Z",
-    "updated_at": "2026-05-30T19:06:02Z",
-    "size": 15597,
-    "license": null,
-    "discovery_hint": "github-repo:pi-package language:TypeScript"
+    "npm_name": "@ssweens/pi-account-switcher",
+    "description": "Pi extension for quickly switching between multiple accounts/API keys per provider.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "account-switcher"
+    ],
+    "version": "0.2.4",
+    "published_at": "2026-05-30T19:06:06.098Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

@@ -10,7 +10,7 @@
     "description": "NVIDIA NIM API provider extension for pi coding agent - access 100+ models from build.nvidia.com",
     "stars": 31,
     "forks": 15,
-    "open_issues": 2,
+    "open_issues": 3,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

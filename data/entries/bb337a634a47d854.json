@@ -8,7 +8,7 @@
     "github_url": "https://github.com/MattDevy/pi-extensions",
     "repo_full_name": "MattDevy/pi-extensions",
     "description": "A set of pi-extensions, including pi-continuous-learning that continually improves you pi coding agent experience",
-    "stars": 74,
+    "stars": 75,
     "forks": 7,
     "open_issues": 10,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-03-26T13:05:35Z",
     "pushed_at": "2026-05-24T15:38:00Z",
-    "updated_at": "2026-05-28T02:49:49Z",
+    "updated_at": "2026-05-31T03:52:08Z",
     "size": 2587,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

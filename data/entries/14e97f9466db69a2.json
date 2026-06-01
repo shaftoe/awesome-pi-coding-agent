@@ -8,7 +8,7 @@
     "github_url": "https://github.com/MasuRii/pi-tool-display",
     "repo_full_name": "MasuRii/pi-tool-display",
     "description": "Compact tool call rendering, diff visualization, and output truncation extension for Pi coding agent. Hides, collapses, and truncates verbose tool output for cleaner TUI display.",
-    "stars": 171,
+    "stars": 173,
     "forks": 16,
     "open_issues": 0,
     "topics": [
@@ -31,7 +31,7 @@
     "archived": false,
     "created_at": "2026-03-01T10:41:06Z",
     "pushed_at": "2026-05-27T00:28:04Z",
-    "updated_at": "2026-05-29T20:36:10Z",
+    "updated_at": "2026-05-31T19:22:00Z",
     "size": 1548,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

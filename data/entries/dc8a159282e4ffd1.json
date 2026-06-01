@@ -1,0 +1,25 @@
+{
+  "id": "@aaroncql/pim-agent",
+  "name": "@aaroncql/pim-agent",
+  "url": "https://www.npmjs.com/package/@aaroncql/pim-agent",
+  "source": "npm-search",
+  "description": "A Bun-native extension pack for Pi: web access, subagents, revamped core tools, ANSI-compatible themes, fzf-style completions, Telegram mode, and more.",
+  "metadata": {
+    "github_url": "https://github.com/AaronCQL/pim-agent",
+    "repo_full_name": "AaronCQL/pim-agent",
+    "description": "A Bun-native extension pack for Pi: web access, subagents, revamped core tools, ANSI-compatible themes, fzf-style completions, Telegram mode, and more.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-07T05:29:31Z",
+    "pushed_at": "2026-05-31T02:25:43Z",
+    "updated_at": "2026-05-31T11:35:03Z",
+    "size": 8585,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

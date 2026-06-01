@@ -8,7 +8,7 @@
     "github_url": "https://github.com/chandra447/pi-hermes-memory",
     "repo_full_name": "chandra447/pi-hermes-memory",
     "description": "Hermes-style persistent memory and learning loop for Pi coding agent",
-    "stars": 104,
+    "stars": 106,
     "forks": 21,
     "open_issues": 3,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-23T12:03:56Z",
     "pushed_at": "2026-05-30T02:12:19Z",
-    "updated_at": "2026-05-30T21:38:31Z",
+    "updated_at": "2026-05-31T15:56:04Z",
     "size": 804,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

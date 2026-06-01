@@ -8,7 +8,7 @@
     "github_url": "https://github.com/StarryAlfredo/pi-aim-extension",
     "repo_full_name": "StarryAlfredo/pi-aim-extension",
     "description": "Pi AI Multi-Agent Extension - Agent orchestration, LLM interaction tools, and background services for pi coding agent",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-29T05:04:59Z",
     "pushed_at": "2026-05-29T09:26:52Z",
-    "updated_at": "2026-05-29T09:26:56Z",
+    "updated_at": "2026-05-31T15:11:49Z",
     "size": 547,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

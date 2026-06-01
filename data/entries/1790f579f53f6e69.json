@@ -10,7 +10,7 @@
     "description": "Agentic conversation compaction extension for pi using a virtual filesystem and tool-driven exploration",
     "stars": 1,
     "forks": 1,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

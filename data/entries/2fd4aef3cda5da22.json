@@ -1,0 +1,32 @@
+{
+  "id": "todo-enforcer",
+  "name": "todo-enforcer",
+  "url": "https://www.npmjs.com/package/todo-enforcer",
+  "source": "npm-search",
+  "description": "Todo continuation enforcer for pi-coding-agent — monitors todo state and injects prompts to keep agents working until all tasks complete",
+  "metadata": {
+    "github_url": "https://github.com/buihongduc132/todo-enforcer",
+    "npm_name": "todo-enforcer",
+    "description": "Todo continuation enforcer for pi-coding-agent — monitors todo state and injects prompts to keep agents working until all tasks complete",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "todo",
+      "enforcer",
+      "task-continuation",
+      "agent-productivity"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-05-31T13:58:15.233Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

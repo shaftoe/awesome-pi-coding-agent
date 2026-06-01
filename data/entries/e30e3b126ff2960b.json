@@ -10,7 +10,7 @@
     "description": "Pi coding agent extension for native Ollama — fixes tool calling under streaming",
     "stars": 4,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "extension",
       "llm-tools",

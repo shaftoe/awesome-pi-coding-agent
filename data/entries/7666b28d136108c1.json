@@ -1,0 +1,38 @@
+{
+  "id": "pi-analyst-worker-orchestrator",
+  "name": "pi-analyst-worker-orchestrator",
+  "url": "https://www.npmjs.com/package/pi-analyst-worker-orchestrator",
+  "source": "npm-search",
+  "description": "Token-aware analyst/worker workflow and token ledger extension for Pi Dev coding agents.",
+  "metadata": {
+    "github_url": "https://github.com/UnicornGlade/pi-analyst-worker-orchestrator",
+    "repo_full_name": "UnicornGlade/pi-analyst-worker-orchestrator",
+    "description": "Token-aware analyst/worker workflow and token ledger extension for Pi Dev coding agents.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-orchestration",
+      "ai-agent",
+      "chatgpt",
+      "coding-agent",
+      "cost-optimization",
+      "deepseek",
+      "developer-tools",
+      "llm-workflow",
+      "multi-agent",
+      "pi-dev",
+      "token-ledger",
+      "token-tracking"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-31T19:37:55Z",
+    "pushed_at": "2026-05-31T20:26:47Z",
+    "updated_at": "2026-05-31T20:26:50Z",
+    "size": 51,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

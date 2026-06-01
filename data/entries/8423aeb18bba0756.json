@@ -1,0 +1,30 @@
+{
+  "id": "@pi-vault/pi-usage",
+  "name": "@pi-vault/pi-usage",
+  "url": "https://www.npmjs.com/package/@pi-vault/pi-usage",
+  "source": "npm-search",
+  "description": "Pi extension that displays aggregated usage statistics across all sessions",
+  "metadata": {
+    "github_url": "https://github.com/pi-vault/pi-usage",
+    "repo_full_name": "pi-vault/pi-usage",
+    "description": "Pi extension that displays aggregated usage statistics across all sessions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "pi-usage"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-30T02:16:40Z",
+    "pushed_at": "2026-05-31T21:14:50Z",
+    "updated_at": "2026-05-31T21:11:03Z",
+    "size": 317,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
