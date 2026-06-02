@@ -1,0 +1,25 @@
+{
+  "id": "lucaspimentel-pi-extensions",
+  "name": "lucaspimentel-pi-extensions",
+  "url": "https://github.com/lucaspimentel/pi-extensions",
+  "source": "github-search",
+  "description": "Personal pi-coding-agent extensions and skills",
+  "metadata": {
+    "github_url": "https://github.com/lucaspimentel/pi-extensions",
+    "repo_full_name": "lucaspimentel/pi-extensions",
+    "description": "Personal pi-coding-agent extensions and skills",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-07T04:25:24Z",
+    "pushed_at": "2026-06-01T18:59:20Z",
+    "updated_at": "2026-06-01T18:59:26Z",
+    "size": 659,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

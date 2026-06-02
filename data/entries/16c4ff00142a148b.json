@@ -9,7 +9,7 @@
     "repo_full_name": "giovani-junior-dev/pi-coms-local",
     "description": "Pi-to-Pi local bidirectional communication package for Pi Coding Agent: run planner/coder peer agents on the same machine.",
     "stars": 0,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "agent-to-agent",

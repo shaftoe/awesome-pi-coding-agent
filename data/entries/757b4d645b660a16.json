@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ayuayue/pi-desktop",
     "repo_full_name": "ayuayue/pi-desktop",
     "description": "Desktop workbench for managing multiple pi coding-agent sessions across project folders.",
-    "stars": 1,
+    "stars": 10,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-31T12:40:24Z",
-    "pushed_at": "2026-05-31T17:07:58Z",
-    "updated_at": "2026-05-31T17:07:59Z",
-    "size": 929,
+    "pushed_at": "2026-06-01T16:57:54Z",
+    "updated_at": "2026-06-01T16:57:57Z",
+    "size": 1532,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

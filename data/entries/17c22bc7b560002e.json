@@ -1,0 +1,25 @@
+{
+  "id": "tasercake-pi-extensions",
+  "name": "tasercake-pi-extensions",
+  "url": "https://github.com/tasercake/pi-extensions",
+  "source": "github-search",
+  "description": "A set of extensions for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/tasercake/pi-extensions",
+    "repo_full_name": "tasercake/pi-extensions",
+    "description": "A set of extensions for the Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 3,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-18T08:55:25Z",
+    "pushed_at": "2026-06-01T08:28:06Z",
+    "updated_at": "2026-06-01T08:38:07Z",
+    "size": 2918,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

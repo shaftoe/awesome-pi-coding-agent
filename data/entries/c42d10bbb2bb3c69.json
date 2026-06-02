@@ -9,7 +9,7 @@
     "repo_full_name": "acsezen/pi-memory-honcho",
     "description": "Honcho-backed persistent memory extension for PI coding agent",
     "stars": 1,
-    "forks": 2,
+    "forks": 3,
     "open_issues": 9,
     "topics": [],
     "language": "TypeScript",

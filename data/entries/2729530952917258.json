@@ -1,0 +1,28 @@
+{
+  "id": "@ramarivera/pi-television",
+  "name": "@ramarivera/pi-television",
+  "url": "https://www.npmjs.com/package/@ramarivera/pi-television",
+  "source": "npm-search",
+  "description": "Pi extension that powers native Pi @file picking with background television-style search",
+  "metadata": {
+    "github_url": "https://github.com/ramarivera/pi-television",
+    "npm_name": "@ramarivera/pi-television",
+    "description": "Pi extension that powers native Pi @file picking with background television-style search",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "coding-agent"
+    ],
+    "version": "0.0.5",
+    "published_at": "2026-06-01T11:33:13.757Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

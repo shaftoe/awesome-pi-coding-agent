@@ -8,7 +8,7 @@
     "github_url": "https://github.com/thiago-ss/pi-agent-config",
     "repo_full_name": "thiago-ss/pi-agent-config",
     "description": "Thiago's shareable Pi agent configuration for Pi",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-04-09T15:42:43Z",
     "pushed_at": "2026-04-09T17:14:31Z",
-    "updated_at": "2026-04-29T15:05:38Z",
+    "updated_at": "2026-06-01T17:25:58Z",
     "size": 15,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

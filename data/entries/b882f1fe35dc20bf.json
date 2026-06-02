@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_reddit.com_thesearethepackagesiuse",
+  "name": "r/PiCodingAgent on Reddit: These are the packages i use",
+  "url": "https://www.reddit.com/r/PiCodingAgent/comments/1tbbqn5/these_are_the_packages_i_use/",
+  "source": "brave-web-search",
+  "description": "\"packages\": [ \"npm:pi-mcp-adapter\", \"npm:@tintinweb/pi-subagents\", \"npm:@plannotator/pi-extension\", \"npm:@juicesharp/rpiv-todo\", \"npm:@juicesharp/rpiv-ask-user-question\", \"npm:pi-lens\", \"npm:@juicesharp/rpiv-advisor\", \"npm:pi-btw\", \"npm:pi-rewind-hook\", \"npm:@gotgenes/pi-permission-system\", \"git:github.com/leblancfg/pi-ansi-themes\", \"npm:pi-caveman\", \"npm:@juicesharp/rpiv-pi\", \"npm:@juicesharp/rpiv-args\", \"npm:pi-simplify\", \"npm:pi-studio\", \"npm:@ff-labs/pi-fff\", \"npm:pi-gsd\", \"npm:@aliou/pi-processes\", \"npm:@juicesharp/rpiv-web-tools\", \"git:github.com/ferologics/pi-notify\", \"git:github.com/jayshah5696/pi-agent-extensions\", \"npm:context-mode\", \"npm:pi-agent-browser-native\", \"npm:taskplane\", \"npm:pi-hermes-memory\", \"npm:@apmantza/greedysearch-pi\", \"npm:@feniix/pi-specdocs\", \"npm:@kaiserlich-dev/pi-session-search\", \"npm:pi-interactive-shell\" ] }",
+  "metadata": {
+    "title": "r/PiCodingAgent on Reddit: These are the packages i use",
+    "name": "r/PiCodingAgent on Reddit: These are the packages i use",
+    "description": "\"packages\": [ \"npm:pi-mcp-adapter\", \"npm:@tintinweb/pi-subagents\", \"npm:@plannotator/pi-extension\", \"npm:@juicesharp/rpiv-todo\", \"npm:@juicesharp/rpiv-ask-user-question\", \"npm:pi-lens\", \"npm:@juicesharp/rpiv-advisor\", \"npm:pi-btw\", \"npm:pi-rewind-hook\", \"npm:@gotgenes/pi-permission-system\", \"git:github.com/leblancfg/pi-ansi-themes\", \"npm:pi-caveman\", \"npm:@juicesharp/rpiv-pi\", \"npm:@juicesharp/rpiv-args\", \"npm:pi-simplify\", \"npm:pi-studio\", \"npm:@ff-labs/pi-fff\", \"npm:pi-gsd\", \"npm:@aliou/pi-processes\", \"npm:@juicesharp/rpiv-web-tools\", \"git:github.com/ferologics/pi-notify\", \"git:github.com/jayshah5696/pi-agent-extensions\", \"npm:context-mode\", \"npm:pi-agent-browser-native\", \"npm:taskplane\", \"npm:pi-hermes-memory\", \"npm:@apmantza/greedysearch-pi\", \"npm:@feniix/pi-specdocs\", \"npm:@kaiserlich-dev/pi-session-search\", \"npm:pi-interactive-shell\" ] }",
+    "published_at": "2026-05-12T19:19:20",
+    "source_site": "Reddit",
+    "source_url": "https://www.reddit.com/r/PiCodingAgent/comments/1tbbqn5/these_are_the_packages_i_use/",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}

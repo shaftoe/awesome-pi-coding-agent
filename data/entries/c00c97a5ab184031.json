@@ -8,18 +8,18 @@
     "github_url": "https://github.com/vhallac/semblr",
     "repo_full_name": "vhallac/semblr",
     "description": "An experiment on a non-linear LLM context for pi coding agent",
-    "stars": 0,
+    "stars": 1,
     "forks": 1,
-    "open_issues": 25,
+    "open_issues": 21,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-26T06:17:15Z",
-    "pushed_at": "2026-05-31T13:59:03Z",
-    "updated_at": "2026-05-31T01:33:33Z",
-    "size": 194,
+    "pushed_at": "2026-06-01T08:39:48Z",
+    "updated_at": "2026-06-01T08:44:46Z",
+    "size": 191,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

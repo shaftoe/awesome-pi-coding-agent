@@ -25913,5 +25913,399 @@
 		"reason": "not about Pi",
 		"blacklisted_at": "2026-06-01T16:52:33.249Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/cgarrot/zob-harness",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:58.746Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Yb4rzMNPsOc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:58.791Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=VgsgMEJisks",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:58.829Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/dolphinpi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-02T00:12:58.868Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://hn.algolia.com/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:58.918Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/mahg-es/araya",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:58.944Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=o4KZH_KSqYQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:58.963Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://theme-tools.github.io/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:58.972Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=FRX0Q0IcYbA",
+		"reason": "pi network crypto signal: \"pi network\"",
+		"blacklisted_at": "2026-06-02T00:12:58.981Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/borgius/pi-cloakpipe",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:59.058Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=-cTwniCQ48k",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-06-02T00:12:59.078Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Byd5ETSysEk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:59.101Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@cleepi/crew",
+		"reason": "industrial pi signal: \"historian\"",
+		"blacklisted_at": "2026-06-02T00:12:59.156Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=cvbeK15GCX8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:59.168Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Y_uiV_RilnE",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-06-02T00:12:59.213Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://themes.gohugo.io/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:59.228Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=6IeeJbwaZvg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:59.294Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=OwCEod1S_Ug",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:59.317Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/issacyee/wow",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:59.357Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/WhoSowSee/pi-fireworks-vision",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:59.36Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Iqtq74XyxSU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:59.413Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=o3vT7I22GVE",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-06-02T00:12:59.434Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/biolod1337/pi-mono",
+		"reason": "raspberry pi topic: \"gpio\"",
+		"blacklisted_at": "2026-06-02T00:12:59.439Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=gxx39SE0aDw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:59.448Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/ian-ross/pi-fort",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-02T00:12:59.503Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/kenxcomp/yoyo-pi",
+		"reason": "duplicate of npm package yoyo-pi (same repo, kept npm entry)",
+		"blacklisted_at": "2026-06-02T00:15:38.205Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/viartemev/pi-rtk-rewrite",
+		"reason": "duplicate of npm pi-rtk-rewrite (same package, kept npm entry with 161 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:18.464Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/sapiderman/pi-roasts",
+		"reason": "duplicate of npm pi-roasts (same package, kept npm entry with 250 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:18.526Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Nick-Wolf-HLK/pi-tscg",
+		"reason": "duplicate of npm pi-tscg (same package, kept npm entry with 477 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:18.588Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/harms-haus/pi-tasks",
+		"reason": "duplicate of npm @harms-haus/pi-tasks (same package, kept npm entry with 153 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:18.65Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/wobondar/pi-double-paste",
+		"reason": "duplicate of npm pi-double-paste (same package, kept npm entry with 781 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:18.712Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/harms-haus/pi-zai-usage",
+		"reason": "duplicate of npm @harms-haus/pi-zai-usage (same package, kept npm entry with 158 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:18.772Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/lhl/pi-vertex",
+		"reason": "duplicate of npm @lhl/pi-vertex (same package, kept npm entry with 235 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:18.832Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/DxVapor/pi-splunk-cloud-logs",
+		"reason": "duplicate of npm @dxvapor/pi-splunk-cloud-logs (same package, kept npm entry with 25 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:18.894Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/it-ony/pi-session-context",
+		"reason": "duplicate of npm pi-session-context (same package, kept npm entry with 273 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:18.956Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/akshaykarle/pi-tools",
+		"reason": "duplicate of npm @akshaykarle/pi-tools (same package, kept npm entry with 284 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:19.017Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/harms-haus/pi-subagents",
+		"reason": "duplicate of npm @harms-haus/pi-subagents (same package, kept npm entry with 152 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:19.078Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/gripebomb/Pi-Discord-Activity",
+		"reason": "duplicate of npm pi-discord-activity (same package, kept npm entry with 404 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:19.139Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/shaftoe/pi-usage-lib",
+		"reason": "duplicate of npm @alexanderfortin/pi-usage-lib (same package, kept npm entry with 87 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:19.2Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/lallenlowe/pi-agent-shell",
+		"reason": "duplicate of npm pi-agent-shell (same package, kept npm entry with 132 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:19.261Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/KristjanPikhof/Pi-YAML-Hooks",
+		"reason": "duplicate of npm pi-yaml-hooks (same package, kept npm entry with 327 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:19.321Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/harms-haus/pi-worktrees",
+		"reason": "duplicate of npm @harms-haus/pi-worktrees (same package, kept npm entry with 175 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:19.381Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Veucci/pi-prompt-translate",
+		"reason": "duplicate of npm pi-prompt-translate (same package, kept npm entry with 538 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:19.443Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/jwayong/pi-azure-devops",
+		"reason": "duplicate of npm @jwayong/pi-azure-devops (same package, kept npm entry with 489 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:19.504Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/harms-haus/pi-til-done",
+		"reason": "duplicate of npm @harms-haus/pi-til-done (same package, kept npm entry with 174 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:19.565Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/vahidkowsari/pi-persistent-term",
+		"reason": "duplicate of npm pi-persistent-term (same package, kept npm entry with 258 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:19.629Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/rpollard00/pi-materia",
+		"reason": "duplicate of npm @rpollard00/pi-materia (same package, kept npm entry with 375 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:19.691Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/harms-haus/pi-workflows",
+		"reason": "duplicate of npm @harms-haus/pi-workflows (same package, kept npm entry with 154 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:19.752Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/KristjanPikhof/Pi-Agents-Team",
+		"reason": "duplicate of npm pi-agents-team (same package, kept npm entry with 1381 downloads)",
+		"blacklisted_at": "2026-06-02T00:19:19.813Z",
+		"source": "manual"
 	}
 ]

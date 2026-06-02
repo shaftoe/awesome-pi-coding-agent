@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Shared library for Pi usage monitoring extensions",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/shaftoe/pi-usage-lib",
     "npm_name": "@alexanderfortin/pi-usage-lib",
     "description": "Shared library for Pi usage monitoring extensions",
     "keywords": [
@@ -14,11 +14,11 @@
       "usage-monitoring",
       "api-quota"
     ],
-    "version": "0.0.1",
-    "published_at": "2026-05-29T17:39:47.145Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.0.2",
+    "published_at": "2026-06-01T15:41:43.423Z",
+    "npm_downloads_monthly": 87,
+    "npm_downloads_weekly": 87,
+    "npm_score_final": 15.127874,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

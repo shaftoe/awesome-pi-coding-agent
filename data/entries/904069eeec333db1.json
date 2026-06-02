@@ -1,0 +1,25 @@
+{
+  "id": "@gaodes/pi-gitlab",
+  "name": "@gaodes/pi-gitlab",
+  "url": "https://www.npmjs.com/package/@gaodes/pi-gitlab",
+  "source": "npm-search",
+  "description": "Pi extension for GitLab workflows via glab CLI with in-package skills",
+  "metadata": {
+    "github_url": "https://github.com/gaodes/pi-gitlab",
+    "repo_full_name": "gaodes/pi-gitlab",
+    "description": "Pi extension for GitLab workflows via glab CLI with in-package skills",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-01T02:13:01Z",
+    "pushed_at": "2026-06-01T14:39:11Z",
+    "updated_at": "2026-06-01T15:11:02Z",
+    "size": 128,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

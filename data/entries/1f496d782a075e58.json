@@ -8,7 +8,7 @@
     "github_url": "https://github.com/carderne/pi-sandbox",
     "repo_full_name": "carderne/pi-sandbox",
     "description": "OS-level sandboxing for pi with interactive permission prompts",
-    "stars": 108,
+    "stars": 111,
     "forks": 25,
     "open_issues": 11,
     "topics": [
@@ -18,7 +18,7 @@
     "archived": false,
     "created_at": "2026-02-19T15:16:05Z",
     "pushed_at": "2026-05-09T13:52:08Z",
-    "updated_at": "2026-05-31T18:57:39Z",
+    "updated_at": "2026-06-01T23:15:57Z",
     "size": 1841,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

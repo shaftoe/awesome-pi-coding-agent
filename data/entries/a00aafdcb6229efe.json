@@ -1,0 +1,30 @@
+{
+  "id": "pi-diet-lsp",
+  "name": "pi-diet-lsp",
+  "url": "https://www.npmjs.com/package/pi-diet-lsp",
+  "source": "npm-search",
+  "description": "On-demand LSP code-intelligence tools for Pi without automatic diagnostics or context injection.",
+  "metadata": {
+    "github_url": "https://github.com/ProbabilityEngineer/pi-diet-lsp",
+    "npm_name": "pi-diet-lsp",
+    "description": "On-demand LSP code-intelligence tools for Pi without automatic diagnostics or context injection.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "lsp",
+      "language-server",
+      "code-intelligence"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-06-01T23:03:57.570Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

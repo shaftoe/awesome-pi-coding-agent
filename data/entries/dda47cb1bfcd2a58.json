@@ -1,0 +1,30 @@
+{
+  "id": "Nabsku-pi-workflow-watcher",
+  "name": "Nabsku-pi-workflow-watcher",
+  "url": "https://github.com/Nabsku/pi-workflow-watcher",
+  "source": "github-search",
+  "description": "Repo workflow watcher and nudge tools for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Nabsku/pi-workflow-watcher",
+    "repo_full_name": "Nabsku/pi-workflow-watcher",
+    "description": "Repo workflow watcher and nudge tools for Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-tools",
+      "pi",
+      "pi-coding-agent",
+      "workflow"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-01T07:12:57Z",
+    "pushed_at": "2026-06-01T10:08:19Z",
+    "updated_at": "2026-06-01T10:08:24Z",
+    "size": 198,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

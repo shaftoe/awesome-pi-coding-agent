@@ -10,7 +10,7 @@
     "description": "ChatGPT web-oracle extension for pi with isolated browser auth, async jobs, and project-context archives.",
     "stars": 23,
     "forks": 9,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "chatgpt",
       "extension",

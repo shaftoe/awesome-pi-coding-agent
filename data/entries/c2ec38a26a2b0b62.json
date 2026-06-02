@@ -1,0 +1,25 @@
+{
+  "id": "curtisjm-pi-agent",
+  "name": "curtisjm-pi-agent",
+  "url": "https://github.com/curtisjm/pi-agent",
+  "source": "github-search",
+  "description": "Configuration for my Pi agent harness",
+  "metadata": {
+    "github_url": "https://github.com/curtisjm/pi-agent",
+    "repo_full_name": "curtisjm/pi-agent",
+    "description": "Configuration for my Pi agent harness",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 13,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-24T07:03:24Z",
+    "pushed_at": "2026-06-01T21:49:10Z",
+    "updated_at": "2026-06-01T21:57:33Z",
+    "size": 201,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

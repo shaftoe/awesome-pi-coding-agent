@@ -1,0 +1,33 @@
+{
+  "id": "pi-producthunt",
+  "name": "pi-producthunt",
+  "url": "https://www.npmjs.com/package/pi-producthunt",
+  "source": "npm-search",
+  "description": "Product Hunt research and digest workflows inside Pi.",
+  "metadata": {
+    "github_url": "https://github.com/eiei114/pi-producthunt",
+    "repo_full_name": "eiei114/pi-producthunt",
+    "description": "Product Hunt research and digest workflows inside Pi.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 4,
+    "topics": [
+      "agent-tools",
+      "pi",
+      "pi-package",
+      "product-hunt",
+      "producthunt",
+      "research",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-01T15:07:17Z",
+    "pushed_at": "2026-06-01T23:12:08Z",
+    "updated_at": "2026-06-01T23:12:12Z",
+    "size": 152,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -9,7 +9,7 @@
     "repo_full_name": "Firstp1ck/npm-packages",
     "description": "This repository contains my public JavaScript/TypeScript packages published via npm (using Bun and/or npm).",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "bun",
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-02T19:38:52Z",
-    "pushed_at": "2026-05-31T20:56:59Z",
-    "updated_at": "2026-05-31T20:57:02Z",
-    "size": 1432,
+    "pushed_at": "2026-06-01T23:48:08Z",
+    "updated_at": "2026-06-01T23:48:12Z",
+    "size": 1576,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

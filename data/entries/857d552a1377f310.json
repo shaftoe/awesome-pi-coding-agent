@@ -9,8 +9,8 @@
     "repo_full_name": "spences10/my-pi",
     "description": "Composable pi coding agent with MCP, LSP, agent chains, prompt presets, and local eval telemetry",
     "stars": 37,
-    "forks": 8,
-    "open_issues": 2,
+    "forks": 9,
+    "open_issues": 1,
     "topics": [
       "cli",
       "coding-agent",
@@ -27,9 +27,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-11T21:23:11Z",
-    "pushed_at": "2026-05-31T22:04:14Z",
-    "updated_at": "2026-05-31T20:10:10Z",
-    "size": 3197,
+    "pushed_at": "2026-06-01T20:19:10Z",
+    "updated_at": "2026-06-01T20:19:25Z",
+    "size": 3347,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

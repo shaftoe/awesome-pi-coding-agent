@@ -8,7 +8,7 @@
     "github_url": "https://github.com/nicobailon/pi-messenger",
     "repo_full_name": "nicobailon/pi-messenger",
     "description": "Multi-agent communication extension for pi coding agent",
-    "stars": 592,
+    "stars": 596,
     "forks": 42,
     "open_issues": 8,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-01-23T00:11:20Z",
     "pushed_at": "2026-05-02T18:44:14Z",
-    "updated_at": "2026-05-31T22:02:54Z",
+    "updated_at": "2026-06-01T19:38:52Z",
     "size": 1397,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -8,8 +8,8 @@
     "github_url": "https://github.com/code-yeongyu/pi-anthropic-bash",
     "repo_full_name": "code-yeongyu/pi-anthropic-bash",
     "description": "Anthropic native bash policy extension for the pi coding agent. Ensures native bash tools are present on anthropic-messages payloads when opt-in is enabled and appends bash guidance to the system prompt.",
-    "stars": 0,
-    "forks": 0,
+    "stars": 1,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "anthropic",
@@ -26,10 +26,10 @@
     "archived": false,
     "created_at": "2026-05-12T04:08:23Z",
     "pushed_at": "2026-05-12T04:14:40Z",
-    "updated_at": "2026-05-12T04:14:43Z",
+    "updated_at": "2026-06-01T09:08:57Z",
     "size": 47,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
     "score": 50,
