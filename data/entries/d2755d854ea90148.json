@@ -1,0 +1,35 @@
+{
+  "id": "shahidshabbir-se-my-pi-setup",
+  "name": "shahidshabbir-se-my-pi-setup",
+  "url": "https://github.com/shahidshabbir-se/my-pi-setup",
+  "source": "github-search",
+  "description": "Public Pi Coding Agent setup with curated agents, skills, MCP config, safety defaults, and workflow extensions.",
+  "metadata": {
+    "github_url": "https://github.com/shahidshabbir-se/my-pi-setup",
+    "repo_full_name": "shahidshabbir-se/my-pi-setup",
+    "description": "Public Pi Coding Agent setup with curated agents, skills, MCP config, safety defaults, and workflow extensions.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agents",
+      "ai-coding",
+      "ai-workflow",
+      "automation",
+      "coding-agent",
+      "developer-tools",
+      "mcp",
+      "open-source",
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-31T01:08:24Z",
+    "pushed_at": "2026-05-31T01:47:23Z",
+    "updated_at": "2026-06-01T15:59:38Z",
+    "size": 300,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

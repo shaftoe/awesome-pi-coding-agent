@@ -6,7 +6,7 @@
   "description": "Pi coding agent extension for Magic Context — cross-session memory and context management",
   "metadata": {
     "github_url": "https://github.com/cortexkit/magic-context",
-    "npm_name": "@cortexkit/pi-magic-context",
+    "npm_name": "@wolfx/pi-magic-context",
     "description": "Pi coding agent extension for Magic Context — cross-session memory and context management",
     "keywords": [
       "pi",
@@ -19,10 +19,10 @@
       "llm"
     ],
     "version": "0.21.8",
-    "published_at": "2026-05-22T11:07:49.952Z",
-    "npm_downloads_monthly": 2843,
-    "npm_downloads_weekly": 335,
-    "npm_score_final": 35.9696,
+    "published_at": "2026-06-01T14:34:12.736Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

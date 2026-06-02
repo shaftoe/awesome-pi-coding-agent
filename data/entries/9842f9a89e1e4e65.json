@@ -1,0 +1,29 @@
+{
+  "id": "@ryanchan720/pi-feishu-lark",
+  "name": "@ryanchan720/pi-feishu-lark",
+  "url": "https://www.npmjs.com/package/@ryanchan720/pi-feishu-lark",
+  "source": "npm-search",
+  "description": "Enhanced Feishu/Lark bridge for Pi — session browser, resume, streaming, and more. Fork of AX1202/pi-feishu-lark.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@ryanchan720/pi-feishu-lark",
+    "description": "Enhanced Feishu/Lark bridge for Pi — session browser, resume, streaming, and more. Fork of AX1202/pi-feishu-lark.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "feishu",
+      "lark",
+      "extension"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-06-01T04:30:23.160Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

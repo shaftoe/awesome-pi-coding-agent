@@ -1,0 +1,35 @@
+{
+  "id": "codewithkenzo-pi-blitz",
+  "name": "codewithkenzo-pi-blitz",
+  "url": "https://github.com/codewithkenzo/pi-blitz",
+  "source": "github-search",
+  "description": "Pi extension for Blitz: fast, token-efficient code edits powered by Zig + Treesitter.",
+  "metadata": {
+    "github_url": "https://github.com/codewithkenzo/pi-blitz",
+    "repo_full_name": "codewithkenzo/pi-blitz",
+    "description": "Pi extension for Blitz: fast, token-efficient code edits powered by Zig + Treesitter.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "code-editing",
+      "coding-agents",
+      "developer-tools",
+      "pi",
+      "pi-agent",
+      "pi-extension",
+      "token-efficiency",
+      "tree-sitter",
+      "zig"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-24T09:09:39Z",
+    "pushed_at": "2026-05-24T05:32:48Z",
+    "updated_at": "2026-06-01T13:05:57Z",
+    "size": 143,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

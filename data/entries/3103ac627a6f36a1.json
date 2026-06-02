@@ -1,0 +1,25 @@
+{
+  "id": "linky-fan-pi-web-seeker",
+  "name": "linky-fan-pi-web-seeker",
+  "url": "https://github.com/linky-fan/pi-web-seeker",
+  "source": "github-search",
+  "description": "Web UI for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/linky-fan/pi-web-seeker",
+    "repo_full_name": "linky-fan/pi-web-seeker",
+    "description": "Web UI for the pi coding agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-01T03:28:09Z",
+    "pushed_at": "2026-06-01T06:16:29Z",
+    "updated_at": "2026-06-01T06:16:33Z",
+    "size": 910,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

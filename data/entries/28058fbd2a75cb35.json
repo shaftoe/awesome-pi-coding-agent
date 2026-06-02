@@ -3,12 +3,12 @@
   "name": "Setting Up and Using the Pi Coding Agent | DeepakNess",
   "url": "https://deepakness.com/blog/pi-agent-setup/",
   "source": "brave-web-search",
-  "description": "My experience of setting up the Pi coding agent with DeepSeek, installing packages, and using it for side projects and experiments.",
+  "description": "This package gives Pi the ability to search the web, fetch page content, extract YouTube video transcripts, and explore GitHub repos.",
   "metadata": {
     "title": "Setting Up and Using the Pi Coding Agent | DeepakNess",
     "name": "Setting Up and Using the Pi Coding Agent | DeepakNess",
-    "description": "My experience of setting up the Pi coding agent with DeepSeek, installing packages, and using it for side projects and experiments.",
-    "published_at": "2026-05-29T18:05:02",
+    "description": "This package gives Pi the ability to search the web, fetch page content, extract YouTube video transcripts, and explore GitHub repos.",
+    "published_at": "2026-05-30T00:05:04",
     "source_site": "DeepakNess",
     "source_url": "https://deepakness.com/blog/pi-agent-setup/",
     "discovery_hint": "brave:pi-agent"

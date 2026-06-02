@@ -8,7 +8,7 @@
     "github_url": "https://github.com/mcowger/pi-action",
     "repo_full_name": "mcowger/pi-action",
     "description": "GitHub Action to invoke the PI coding agent on issues and PRs via comment triggers",
-    "stars": 2,
+    "stars": 3,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-19T03:01:38Z",
     "pushed_at": "2026-05-14T00:22:05Z",
-    "updated_at": "2026-05-14T00:22:09Z",
+    "updated_at": "2026-06-01T17:55:22Z",
     "size": 49967,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

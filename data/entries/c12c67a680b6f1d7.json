@@ -1,0 +1,25 @@
+{
+  "id": "@ekil9/pi-readonly",
+  "name": "@ekil9/pi-readonly",
+  "url": "https://www.npmjs.com/package/@ekil9/pi-readonly",
+  "source": "npm-search",
+  "description": "Readonly mode for pi — disables edit/write tools and blocks high-risk bash commands",
+  "metadata": {
+    "github_url": "https://github.com/ekil1100/pi-readonly",
+    "npm_name": "@ekil9/pi-readonly",
+    "description": "Readonly mode for pi — disables edit/write tools and blocks high-risk bash commands",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-06-01T02:40:38.416Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

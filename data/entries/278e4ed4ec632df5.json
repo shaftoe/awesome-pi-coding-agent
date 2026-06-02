@@ -8,9 +8,9 @@
     "github_url": "https://github.com/tmustier/pi-agent-teams",
     "repo_full_name": "tmustier/pi-agent-teams",
     "description": "Experimental agent swarm extension for Pi. Inspired by Claude agent teams.",
-    "stars": 78,
+    "stars": 79,
     "forks": 15,
-    "open_issues": 13,
+    "open_issues": 14,
     "topics": [
       "agent-swarm",
       "agent-teams",
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-02-07T22:07:46Z",
     "pushed_at": "2026-05-07T15:51:41Z",
-    "updated_at": "2026-05-31T22:10:57Z",
+    "updated_at": "2026-06-01T20:05:34Z",
     "size": 626,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

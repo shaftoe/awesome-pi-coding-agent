@@ -1,0 +1,33 @@
+{
+  "id": "@unilinear/pi-file-chat-tracer",
+  "name": "@unilinear/pi-file-chat-tracer",
+  "url": "https://www.npmjs.com/package/@unilinear/pi-file-chat-tracer",
+  "source": "npm-search",
+  "description": "Align Pi conversation tree navigation with git file-state checkpoints for safe AI exploration and rollback.",
+  "metadata": {
+    "github_url": "https://github.com/unilinear/pi-file-chat-tracer",
+    "npm_name": "@unilinear/pi-file-chat-tracer",
+    "description": "Align Pi conversation tree navigation with git file-state checkpoints for safe AI exploration and rollback.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-agent",
+      "agent",
+      "git",
+      "checkpoint",
+      "tracer",
+      "tree",
+      "rollback"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-01T07:53:12.556Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

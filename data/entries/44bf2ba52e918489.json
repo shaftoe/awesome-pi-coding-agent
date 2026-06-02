@@ -1,0 +1,28 @@
+{
+  "id": "pi-extension-template",
+  "name": "pi-extension-template",
+  "url": "https://www.npmjs.com/package/pi-extension-template",
+  "source": "npm-search",
+  "description": "Template for building Pi packages with extensions, Agent Skills, prompts, and themes.",
+  "metadata": {
+    "github_url": "https://github.com/OWNER/REPO",
+    "npm_name": "pi-extension-template",
+    "description": "Template for building Pi packages with extensions, Agent Skills, prompts, and themes.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "agent-skill",
+      "typescript"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-06-01T00:52:01.929Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

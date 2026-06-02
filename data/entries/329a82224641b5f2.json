@@ -1,0 +1,25 @@
+{
+  "id": "codemonkey-df-pi-agent-extensions",
+  "name": "codemonkey-df-pi-agent-extensions",
+  "url": "https://github.com/codemonkey-df/pi-agent-extensions",
+  "source": "github-search",
+  "description": "pi-agent-extensions",
+  "metadata": {
+    "github_url": "https://github.com/codemonkey-df/pi-agent-extensions",
+    "repo_full_name": "codemonkey-df/pi-agent-extensions",
+    "description": "pi-agent-extensions ",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-29T10:13:13Z",
+    "pushed_at": "2026-06-01T06:42:47Z",
+    "updated_at": "2026-06-01T06:42:51Z",
+    "size": 9,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

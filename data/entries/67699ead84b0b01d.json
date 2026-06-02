@@ -10,7 +10,7 @@
     "description": "A local AI coding workspace for Claude Code, Codex, Cursor, OpenCode, Amp, Factory Droid, Pi, and OpenAI/Anthropic-compatible models.",
     "stars": 19,
     "forks": 4,
-    "open_issues": 31,
+    "open_issues": 30,
     "topics": [
       "ampcode",
       "claude-code",
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-23T13:42:57Z",
-    "pushed_at": "2026-05-30T08:06:51Z",
-    "updated_at": "2026-05-30T08:06:55Z",
-    "size": 6118,
+    "pushed_at": "2026-06-01T07:54:16Z",
+    "updated_at": "2026-06-01T07:54:21Z",
+    "size": 6120,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

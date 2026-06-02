@@ -10,7 +10,7 @@
     "description": "Bridge Superwhisper clipboard dictation into the Pi TUI editor on Windows.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 2,
     "topics": [
       "clipboard",
       "pi",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-30T04:32:25Z",
-    "pushed_at": "2026-05-31T12:25:22Z",
-    "updated_at": "2026-05-31T12:23:33Z",
-    "size": 181,
+    "pushed_at": "2026-06-01T14:01:01Z",
+    "updated_at": "2026-06-01T14:19:38Z",
+    "size": 221,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

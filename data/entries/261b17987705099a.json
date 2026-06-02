@@ -1,0 +1,25 @@
+{
+  "id": "bastani-inc-atomic",
+  "name": "bastani-inc-atomic",
+  "url": "https://github.com/bastani-inc/atomic",
+  "source": "github-search",
+  "description": "Dynamic workflows for software engineering with Pi extensions, custom models, MCP, sub-agents, artifacts, review gates, and mid-run steering.",
+  "metadata": {
+    "github_url": "https://github.com/bastani-inc/atomic",
+    "repo_full_name": "bastani-inc/atomic",
+    "description": "Dynamic workflows for software engineering with Pi extensions, custom models, MCP, sub-agents, artifacts, review gates, and mid-run steering.",
+    "stars": 235,
+    "forks": 40,
+    "open_issues": 10,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2025-10-23T04:24:21Z",
+    "pushed_at": "2026-06-01T23:59:49Z",
+    "updated_at": "2026-06-01T20:30:17Z",
+    "size": 79030,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

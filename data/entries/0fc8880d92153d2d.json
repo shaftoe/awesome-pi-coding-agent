@@ -8,7 +8,7 @@
     "github_url": "https://github.com/whonixnetworks/pi-matter",
     "repo_full_name": "whonixnetworks/pi-matter",
     "description": "Mattermost bridge for Pi coding agent sessions — control Pi agents via Mattermost slash commands with real-time streaming",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,10 +16,10 @@
     "archived": false,
     "created_at": "2026-05-23T01:31:16Z",
     "pushed_at": "2026-05-26T12:06:12Z",
-    "updated_at": "2026-05-26T12:06:16Z",
+    "updated_at": "2026-06-01T02:49:14Z",
     "size": 925,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
     "score": 74,
