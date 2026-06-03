@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tintinweb/pi-subagents",
     "repo_full_name": "tintinweb/pi-subagents",
     "description": "Sub-agents for pi with Claude Code look and feel — parallel execution, live widget, custom agent types, mid-run steering and more ...",
-    "stars": 400,
+    "stars": 403,
     "forks": 81,
     "open_issues": 13,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-05T10:08:27Z",
     "pushed_at": "2026-06-01T15:22:40Z",
-    "updated_at": "2026-06-01T16:12:40Z",
+    "updated_at": "2026-06-02T08:29:19Z",
     "size": 11438,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

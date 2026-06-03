@@ -1,0 +1,30 @@
+{
+  "id": "@pi-vault/pi-status",
+  "name": "@pi-vault/pi-status",
+  "url": "https://www.npmjs.com/package/@pi-vault/pi-status",
+  "source": "npm-search",
+  "description": "Pi extension that replaces Pi's default footer with a sparse Codex-style line",
+  "metadata": {
+    "github_url": "https://github.com/pi-vault/pi-status",
+    "repo_full_name": "pi-vault/pi-status",
+    "description": "Pi extension that replaces Pi's default footer with a sparse Codex-style line",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "pi-status"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-26T18:56:22Z",
+    "pushed_at": "2026-06-02T22:45:24Z",
+    "updated_at": "2026-06-02T22:47:49Z",
+    "size": 187,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

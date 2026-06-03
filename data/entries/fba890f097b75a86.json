@@ -1,0 +1,38 @@
+{
+  "id": "pi-holdpty",
+  "name": "pi-holdpty",
+  "url": "https://www.npmjs.com/package/pi-holdpty",
+  "source": "npm-search",
+  "description": "Detached PTY sessions with regex watcher, exit notification, NDJSON events, ownership tracking, and Pi extension wiring. Fork of holdpty.",
+  "metadata": {
+    "github_url": "https://github.com/buihongduc132/pi-holdpty",
+    "npm_name": "pi-holdpty",
+    "description": "Detached PTY sessions with regex watcher, exit notification, NDJSON events, ownership tracking, and Pi extension wiring. Fork of holdpty.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "holdpty-fork",
+      "pty",
+      "terminal",
+      "detach",
+      "attach",
+      "screen",
+      "tmux",
+      "dtach",
+      "node-pty",
+      "cross-platform",
+      "windows",
+      "conpty"
+    ],
+    "version": "0.4.0-pi.1",
+    "published_at": "2026-06-02T23:29:11.838Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -9,7 +9,7 @@
     "repo_full_name": "timm-u/pi-usage",
     "description": "Usage limit checker extension for pi coding agent — shows Codex and OpenCode Go limits at startup",
     "stars": 3,
-    "forks": 2,
+    "forks": 3,
     "open_issues": 1,
     "topics": [],
     "language": "TypeScript",

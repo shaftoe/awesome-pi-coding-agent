@@ -3,21 +3,29 @@
   "name": "Joselay-pi-agent-config",
   "url": "https://github.com/Joselay/pi-agent-config",
   "source": "github-search",
-  "description": "",
+  "description": "Personal Pi coding-agent config tuned for OpenAI Codex.",
   "metadata": {
     "github_url": "https://github.com/Joselay/pi-agent-config",
     "repo_full_name": "Joselay/pi-agent-config",
-    "description": "",
-    "stars": 0,
+    "description": "Personal Pi coding-agent config tuned for OpenAI Codex.",
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
-    "topics": [],
+    "topics": [
+      "ai-agent",
+      "codex",
+      "coding-agent",
+      "config",
+      "openai",
+      "pi",
+      "pi-agent"
+    ],
     "language": "TypeScript",
     "archived": false,
-    "created_at": "2026-05-15T07:29:35Z",
-    "pushed_at": "2026-05-15T16:26:03Z",
-    "updated_at": "2026-05-15T16:26:07Z",
-    "size": 21,
+    "created_at": "2026-05-19T18:31:42Z",
+    "pushed_at": "2026-06-02T14:27:33Z",
+    "updated_at": "2026-06-02T14:36:39Z",
+    "size": 304,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
@@ -25,5 +33,5 @@
     "score": 50,
     "level": "maintained"
   },
-  "category": "extension"
+  "category": "misc"
 }

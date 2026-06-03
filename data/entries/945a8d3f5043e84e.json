@@ -1,0 +1,25 @@
+{
+  "id": "happsie-pi-setup",
+  "name": "happsie-pi-setup",
+  "url": "https://github.com/happsie/pi-setup",
+  "source": "github-search",
+  "description": "PI Agent Harness",
+  "metadata": {
+    "github_url": "https://github.com/happsie/pi-setup",
+    "repo_full_name": "happsie/pi-setup",
+    "description": "PI Agent Harness",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-22T19:23:48Z",
+    "pushed_at": "2026-06-02T12:48:09Z",
+    "updated_at": "2026-06-02T12:48:14Z",
+    "size": 102,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

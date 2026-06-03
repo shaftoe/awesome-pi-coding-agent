@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Leechael/pi-codex-search",
     "repo_full_name": "Leechael/pi-codex-search",
     "description": "Search the web in Pi through your Codex subscription.",
-    "stars": 8,
+    "stars": 9,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-05-23T02:30:50Z",
     "pushed_at": "2026-05-23T15:08:09Z",
-    "updated_at": "2026-05-26T15:56:04Z",
+    "updated_at": "2026-06-02T23:01:48Z",
     "size": 88,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

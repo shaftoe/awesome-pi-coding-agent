@@ -8,7 +8,7 @@
     "github_url": "https://github.com/FaqFirebase/pi-desktop",
     "repo_full_name": "FaqFirebase/pi-desktop",
     "description": "Desktop GUI frontend for the PI coding agent",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-20T15:58:36Z",
     "pushed_at": "2026-05-28T19:46:32Z",
-    "updated_at": "2026-05-30T10:30:38Z",
+    "updated_at": "2026-06-02T04:07:34Z",
     "size": 1521,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
