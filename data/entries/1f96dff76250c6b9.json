@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Ask side questions in pi without polluting the main transcript — /qq or alt+q.",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/tianrendong/pi-qq",
     "npm_name": "pi-qq",
     "description": "Ask side questions in pi without polluting the main transcript — /qq or alt+q.",
     "keywords": [
@@ -22,11 +22,11 @@
       "keybinding",
       "overlay"
     ],
-    "version": "0.1.16",
-    "published_at": "2026-05-18T03:25:39.432Z",
-    "npm_downloads_monthly": 2404,
-    "npm_downloads_weekly": 62,
-    "npm_score_final": 27.589153,
+    "version": "0.1.17",
+    "published_at": "2026-06-02T00:55:43.500Z",
+    "npm_downloads_monthly": 2423,
+    "npm_downloads_weekly": 71,
+    "npm_score_final": 28.726976,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

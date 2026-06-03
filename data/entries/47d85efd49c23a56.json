@@ -10,7 +10,7 @@
     "description": "Semantic search over local files for pi. Indexes text/markdown, watches for changes, exposes a knowledge_search tool to the LLM.",
     "stars": 5,
     "forks": 4,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "ai-coding-agent",
       "developer-tools",

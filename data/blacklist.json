@@ -26307,5 +26307,105 @@
 		"reason": "duplicate of npm pi-agents-team (same package, kept npm entry with 1381 downloads)",
 		"blacklisted_at": "2026-06-02T00:19:19.813Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=GwFCHLV55X4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-03T00:27:22.361Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/huiyu9144/Huiyu-Pi",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-03T00:27:22.415Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/RexYoung000/pi-packages-manager",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-03T00:27:22.436Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=4QPENxUS3_g",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-03T00:27:22.464Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=kmhBmiaD4pQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-03T00:27:22.492Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=gUB3emfBVUM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-03T00:27:22.619Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/qearlyao/familiar",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-03T00:27:22.743Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/loss-and-quick/pi-auto-title",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-03T00:27:22.762Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/daniel-lingar/WRH-Pilot-Deployment-Package",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-03T00:27:22.778Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Dwsy/pi-session-manager",
+		"reason": "covered by dedicated source: github.com",
+		"blacklisted_at": "2026-06-03T00:27:22.9Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-coding-agent"
+		}
 	}
 ]

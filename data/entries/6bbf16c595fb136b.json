@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Pizza mascot and multi-provider auto-router for pi.",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/parkjangwon/pi-pizza",
     "npm_name": "pi-pizza",
     "description": "Pizza mascot and multi-provider auto-router for pi.",
     "keywords": [
@@ -14,8 +14,8 @@
       "pizza",
       "router"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-06-01T06:14:35.301Z",
+    "version": "0.1.2",
+    "published_at": "2026-06-02T14:42:51.732Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

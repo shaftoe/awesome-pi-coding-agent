@@ -1,0 +1,38 @@
+{
+  "id": "pi-cap-context-images",
+  "name": "pi-cap-context-images",
+  "url": "https://www.npmjs.com/package/pi-cap-context-images",
+  "source": "npm-search",
+  "description": "Bound the number of images kept in a pi session's outgoing provider payload. Prevents the 'infinite compaction' loop caused by base64 screenshots (browser/winshot/image tools) accumulating in context — compaction can summarize text but can only keep or dr",
+  "metadata": {
+    "github_url": "https://github.com/Blue-B/pi-cap-context-images",
+    "npm_name": "pi-cap-context-images",
+    "description": "Bound the number of images kept in a pi session's outgoing provider payload. Prevents the 'infinite compaction' loop caused by base64 screenshots (browser/winshot/image tools) accumulating in context — compaction can summarize text but can only keep or dr",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "extension",
+      "compaction",
+      "context",
+      "context-window",
+      "images",
+      "screenshot",
+      "token-budget",
+      "ai-agent",
+      "claude",
+      "codex"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-02T16:37:19.982Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

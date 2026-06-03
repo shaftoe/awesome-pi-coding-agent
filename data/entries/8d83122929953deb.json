@@ -1,0 +1,25 @@
+{
+  "id": "alexandercecil-pi-agent-toolkit",
+  "name": "alexandercecil-pi-agent-toolkit",
+  "url": "https://github.com/alexandercecil/pi-agent-toolkit",
+  "source": "github-search",
+  "description": "Essential Pi coding agent extensions: notifications, response protocol, and terminal management",
+  "metadata": {
+    "github_url": "https://github.com/alexandercecil/pi-agent-toolkit",
+    "repo_full_name": "alexandercecil/pi-agent-toolkit",
+    "description": "Essential Pi coding agent extensions: notifications, response protocol, and terminal management",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-02T00:41:03Z",
+    "pushed_at": "2026-06-02T00:41:06Z",
+    "updated_at": "2026-06-02T00:41:11Z",
+    "size": 15,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

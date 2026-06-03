@@ -1,0 +1,25 @@
+{
+  "id": "MaddieMo1-Pi-Agent-Web",
+  "name": "MaddieMo1-Pi-Agent-Web",
+  "url": "https://github.com/MaddieMo1/Pi-Agent-Web",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/MaddieMo1/Pi-Agent-Web",
+    "repo_full_name": "MaddieMo1/Pi-Agent-Web",
+    "description": "",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-27T07:10:51Z",
+    "pushed_at": "2026-05-29T08:46:20Z",
+    "updated_at": "2026-06-02T16:43:55Z",
+    "size": 2605,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "gorazenxu-obsidian-pisidian",
+  "name": "gorazenxu-obsidian-pisidian",
+  "url": "https://github.com/gorazenxu/obsidian-pisidian",
+  "source": "github-search",
+  "description": "Pisidian Pi Coding Agent for Obsidian",
+  "metadata": {
+    "github_url": "https://github.com/gorazenxu/obsidian-pisidian",
+    "repo_full_name": "gorazenxu/obsidian-pisidian",
+    "description": "Pisidian Pi Coding Agent for Obsidian",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-02T16:03:26Z",
+    "pushed_at": "2026-06-02T16:32:57Z",
+    "updated_at": "2026-06-02T16:23:51Z",
+    "size": 241,
+    "license": "GPL-3.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

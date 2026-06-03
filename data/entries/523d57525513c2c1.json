@@ -1,0 +1,25 @@
+{
+  "id": "@aethrekh/pi-cs",
+  "name": "@aethrekh/pi-cs",
+  "url": "https://www.npmjs.com/package/@aethrekh/pi-cs",
+  "source": "npm-search",
+  "description": "Pisces: The CS Student Edition for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/AshishBagdane/pi-cs",
+    "repo_full_name": "AshishBagdane/pi-cs",
+    "description": "Pisces: The CS Student Edition for Pi Coding Agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-29T05:28:57Z",
+    "pushed_at": "2026-06-02T10:34:00Z",
+    "updated_at": "2026-06-02T12:54:54Z",
+    "size": 241,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

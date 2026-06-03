@@ -10,7 +10,7 @@
     "description": "SuPi (Super Pi) is my curated extension stack for PI, I use in every project, shared in case they help you too. Bundling LSP, TreeSitter, Ask-User-Tool, context monitoring, and practical small extras.",
     "stars": 15,
     "forks": 1,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "agent",
       "extension",
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-13T19:49:58Z",
-    "pushed_at": "2026-06-01T17:48:18Z",
-    "updated_at": "2026-06-01T17:50:11Z",
-    "size": 12596,
+    "pushed_at": "2026-06-02T17:10:22Z",
+    "updated_at": "2026-06-02T17:10:30Z",
+    "size": 12845,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

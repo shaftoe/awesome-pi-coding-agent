@@ -1,0 +1,25 @@
+{
+  "id": "bnema-pi-goals",
+  "name": "bnema-pi-goals",
+  "url": "https://github.com/bnema/pi-goals",
+  "source": "github-search",
+  "description": "Persisted branch-aware thread goals for Pi coding-agent sessions.",
+  "metadata": {
+    "github_url": "https://github.com/bnema/pi-goals",
+    "repo_full_name": "bnema/pi-goals",
+    "description": "Persisted branch-aware thread goals for Pi coding-agent sessions.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-02T16:45:55Z",
+    "pushed_at": "2026-06-02T17:22:33Z",
+    "updated_at": "2026-06-02T17:21:25Z",
+    "size": 82,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

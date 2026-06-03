@@ -8,7 +8,7 @@
     "github_url": "https://github.com/abboskhonov/pi-streak",
     "repo_full_name": "abboskhonov/pi-streak",
     "description": "Bun terminal contribution chart for pi agent session usage",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-30T17:19:45Z",
     "pushed_at": "2026-06-01T18:18:04Z",
-    "updated_at": "2026-06-01T18:18:35Z",
+    "updated_at": "2026-06-02T04:55:07Z",
     "size": 88,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

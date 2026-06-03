@@ -10,7 +10,7 @@
     "description": "Pi coding agent extension for native Ollama — fixes tool calling under streaming",
     "stars": 4,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "extension",
       "llm-tools",
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-01T16:45:01Z",
-    "pushed_at": "2026-05-27T23:49:01Z",
-    "updated_at": "2026-05-27T23:49:04Z",
-    "size": 98,
+    "pushed_at": "2026-06-02T14:40:06Z",
+    "updated_at": "2026-06-02T14:48:24Z",
+    "size": 135,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

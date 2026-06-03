@@ -1,0 +1,25 @@
+{
+  "id": "GeorgeLautenschlager-Blueberry",
+  "name": "GeorgeLautenschlager-Blueberry",
+  "url": "https://github.com/GeorgeLautenschlager/Blueberry",
+  "source": "github-search",
+  "description": "There are many PI coding agents, but this one is mine.",
+  "metadata": {
+    "github_url": "https://github.com/GeorgeLautenschlager/Blueberry",
+    "repo_full_name": "GeorgeLautenschlager/Blueberry",
+    "description": "There are many PI coding agents, but this one is mine.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-02T03:07:55Z",
+    "pushed_at": "2026-06-02T03:41:33Z",
+    "updated_at": "2026-06-02T03:41:44Z",
+    "size": 20883,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}
