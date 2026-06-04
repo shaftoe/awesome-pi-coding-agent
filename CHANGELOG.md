@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.5.2] - 2026-06-04
+
+### Changed
+
+- **deps**: bump astro
+- remove health metadata system (#109)
+
+### Fixed
+
+- include YT title when filtering
+
 ## [2.5.1] - 2026-05-24
 
 ### Fixed
@@ -238,6 +249,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove skills category
 - replace @types/bun with pinned bun-types to fix typecheck (#6)
 
+[2.5.2]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.5.1...v2.5.2
 [2.5.1]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.5.0...v2.5.1
 [2.5.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.4.0...v2.5.0
 [2.4.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.3.4...v2.4.0
