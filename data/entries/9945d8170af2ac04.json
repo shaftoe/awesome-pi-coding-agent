@@ -1,0 +1,29 @@
+{
+  "id": "@lokiyou/pi-web-search",
+  "name": "@lokiyou/pi-web-search",
+  "url": "https://www.npmjs.com/package/@lokiyou/pi-web-search",
+  "source": "npm-search",
+  "description": "Unified web search and URL fetch for Pi Coding Agent. Bilingual search, source caching, search planning, freshness/domain filtering. Auto-selects between Context7, Grok, Tavily, and AnySearch.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@lokiyou/pi-web-search",
+    "description": "Unified web search and URL fetch for Pi Coding Agent. Bilingual search, source caching, search planning, freshness/domain filtering. Auto-selects between Context7, Grok, Tavily, and AnySearch.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "web-search",
+      "search",
+      "fetch"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-06-03T08:16:15.148Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

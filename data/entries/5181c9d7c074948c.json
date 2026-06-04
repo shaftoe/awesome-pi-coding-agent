@@ -8,7 +8,7 @@
     "github_url": "https://github.com/sssstwee/switch-plus-plus",
     "repo_full_name": "sssstwee/switch-plus-plus",
     "description": "Agent Switch: Claude Code, Claude Desktop, Codex CLI, Codex Desktop, Hermes, OpenCode, OpenClaw and AI agent config switcher, model router, and local OpenAI/Anthropic gateway",
-    "stars": 6,
+    "stars": 8,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -37,7 +37,7 @@
     "archived": false,
     "created_at": "2026-05-10T11:46:14Z",
     "pushed_at": "2026-06-02T15:15:49Z",
-    "updated_at": "2026-06-02T16:09:48Z",
+    "updated_at": "2026-06-03T08:36:53Z",
     "size": 8509,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

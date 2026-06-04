@@ -1,0 +1,33 @@
+{
+  "id": "DraconDev-pi-global-context-limit",
+  "name": "DraconDev-pi-global-context-limit",
+  "url": "https://github.com/DraconDev/pi-global-context-limit",
+  "source": "github-search",
+  "description": "Global context limit extension for pi - caps all models to a configurable context window size",
+  "metadata": {
+    "github_url": "https://github.com/DraconDev/pi-global-context-limit",
+    "repo_full_name": "DraconDev/pi-global-context-limit",
+    "description": "Global context limit extension for pi - caps all models to a configurable context window size",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "compaction",
+      "context-limit",
+      "llm",
+      "pi",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-03T21:46:00Z",
+    "pushed_at": "2026-06-04T00:05:30Z",
+    "updated_at": "2026-06-04T00:05:30Z",
+    "size": 4,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

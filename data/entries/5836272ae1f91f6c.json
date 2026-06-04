@@ -1,0 +1,25 @@
+{
+  "id": "FChatin-vs-pi-agent",
+  "name": "FChatin-vs-pi-agent",
+  "url": "https://github.com/FChatin/vs-pi-agent",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/FChatin/vs-pi-agent",
+    "repo_full_name": "FChatin/vs-pi-agent",
+    "description": "",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-31T21:32:19Z",
+    "pushed_at": "2026-06-01T21:42:39Z",
+    "updated_at": "2026-06-03T14:38:49Z",
+    "size": 422,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

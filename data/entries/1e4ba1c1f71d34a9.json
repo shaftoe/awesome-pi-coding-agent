@@ -1,0 +1,25 @@
+{
+  "id": "kkooff2000-learning-jepa",
+  "name": "kkooff2000-learning-jepa",
+  "url": "https://github.com/kkooff2000/learning-jepa",
+  "source": "github-search",
+  "description": "Learning Jepa with pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/kkooff2000/learning-jepa",
+    "repo_full_name": "kkooff2000/learning-jepa",
+    "description": "Learning Jepa with pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-03T13:42:58Z",
+    "pushed_at": "2026-06-03T14:07:43Z",
+    "updated_at": "2026-06-03T14:17:18Z",
+    "size": 150,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

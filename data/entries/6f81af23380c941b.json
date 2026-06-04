@@ -9,7 +9,7 @@
     "repo_full_name": "modem-dev/glance-agent-plugins",
     "description": "Agent plugins for glance.sh — temporary image sharing for coding agents",
     "stars": 7,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 2,
     "topics": [
       "coding-agents",

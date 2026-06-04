@@ -8,7 +8,7 @@
     "github_url": "https://github.com/nandal/pi-ext",
     "repo_full_name": "nandal/pi-ext",
     "description": "Pi Agent Extensions",
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-13T18:53:31Z",
     "pushed_at": "2026-05-28T06:05:53Z",
-    "updated_at": "2026-05-28T06:05:57Z",
+    "updated_at": "2026-06-03T15:18:44Z",
     "size": 42727,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

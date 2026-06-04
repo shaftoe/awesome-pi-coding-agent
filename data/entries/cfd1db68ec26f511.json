@@ -8,8 +8,8 @@
     "github_url": "https://github.com/samfoy/pi-memory",
     "repo_full_name": "samfoy/pi-memory",
     "description": "Persistent memory for pi — learns corrections, preferences, and patterns from sessions",
-    "stars": 69,
-    "forks": 16,
+    "stars": 71,
+    "forks": 17,
     "open_issues": 0,
     "topics": [
       "agent-memory",
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-03-19T21:52:47Z",
     "pushed_at": "2026-06-02T18:39:14Z",
-    "updated_at": "2026-06-02T18:39:18Z",
+    "updated_at": "2026-06-03T06:17:29Z",
     "size": 414,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
