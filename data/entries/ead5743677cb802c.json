@@ -3,29 +3,26 @@
   "name": "@axnic/pi-aks-user-question",
   "url": "https://www.npmjs.com/package/@axnic/pi-aks-user-question",
   "source": "npm-search",
-  "description": "Pi extension — lets LLMs ask structured questions to the user via an interactive TUI form",
+  "description": "A pi extension that lets LLMs ask structured questions to users via an interactive TUI form.",
   "metadata": {
     "github_url": "https://github.com/axnic/pi-aks-user-question",
-    "npm_name": "@axnic/pi-aks-user-question",
-    "description": "Pi extension — lets LLMs ask structured questions to the user via an interactive TUI form",
-    "keywords": [
-      "pi-package",
-      "pi",
-      "pi-extension",
-      "tui",
-      "form",
-      "interactive",
-      "user-input"
+    "repo_full_name": "axnic/pi-aks-user-question",
+    "description": "A pi extension that lets LLMs ask structured questions to users via an interactive TUI form.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "extension",
+      "pi-agent"
     ],
-    "version": "0.2.0",
-    "published_at": "2026-04-23T22:47:19.247Z",
-    "npm_downloads_monthly": 120,
-    "npm_downloads_weekly": 33,
-    "npm_score_final": 16.784752,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-18T13:21:07Z",
+    "pushed_at": "2026-04-23T22:51:49Z",
+    "updated_at": "2026-04-23T22:45:09Z",
+    "size": 4862,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
     "score": 69,

@@ -10,7 +10,7 @@
     "description": "Android phone control for pi-agent — 36 tools to see, touch, and automate any device via ADB",
     "stars": 5,
     "forks": 1,
-    "open_issues": 4,
+    "open_issues": 3,
     "topics": [
       "adb",
       "ai-agent",

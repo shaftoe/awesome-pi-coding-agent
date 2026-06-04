@@ -9,8 +9,8 @@
     "repo_full_name": "tonze/pi-updater",
     "description": "Auto updater for pi",
     "stars": 6,
-    "forks": 5,
-    "open_issues": 2,
+    "forks": 4,
+    "open_issues": 3,
     "topics": [
       "auto-update",
       "claude-code",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-27T13:18:42Z",
-    "pushed_at": "2026-05-22T11:33:52Z",
-    "updated_at": "2026-05-22T11:33:57Z",
-    "size": 87,
+    "pushed_at": "2026-04-29T11:02:59Z",
+    "updated_at": "2026-04-22T15:19:58Z",
+    "size": 192,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

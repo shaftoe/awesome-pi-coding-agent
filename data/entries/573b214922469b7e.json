@@ -8,7 +8,7 @@
     "github_url": "https://github.com/rahulmutt/pi-ralph",
     "repo_full_name": "rahulmutt/pi-ralph",
     "description": "Minimalist Ralph loop for semi-autonomous AI agent orchestration with the Pi coding agent.",
-    "stars": 3,
+    "stars": 0,
     "forks": 0,
     "open_issues": 1,
     "topics": [],
@@ -16,10 +16,10 @@
     "archived": false,
     "created_at": "2026-03-17T16:53:06Z",
     "pushed_at": "2026-04-22T20:00:53Z",
-    "updated_at": "2026-05-18T10:10:14Z",
+    "updated_at": "2026-04-22T20:00:36Z",
     "size": 83,
     "license": "Apache-2.0",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
     "score": 45,

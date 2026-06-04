@@ -30,11 +30,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-09T00:20:56Z",
-    "pushed_at": "2026-04-30T23:15:39Z",
-    "updated_at": "2026-04-30T23:15:43Z",
-    "size": 4878,
+    "pushed_at": "2026-04-25T21:35:47Z",
+    "updated_at": "2026-04-25T22:33:53Z",
+    "size": 7013,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
     "score": 62,

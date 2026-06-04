@@ -30,6 +30,7 @@ function rejectionReason(verdict: { accept: boolean; reason?: string }): string 
 function candidate(overrides: {
 	url: string;
 	id?: string;
+	title?: string;
 	description?: string;
 	topics?: string[];
 	keywords?: string[];
@@ -43,6 +44,7 @@ function candidate(overrides: {
 		},
 	};
 	if (overrides.id !== undefined) result.id = overrides.id;
+	if (overrides.title !== undefined) result.metadata["title"] = overrides.title;
 	return result;
 }
 
@@ -61,11 +63,23 @@ describe("buildFilterContext", () => {
 		expect(ctx.name).toBe("my-repo");
 	});
 
-	it("combines name and description", () => {
+	it("combines name, title, and description", () => {
 		const ctx = buildFilterContext(
 			candidate({ url: "https://example.com/x", id: "pi-tool", description: "A great tool" }),
 		);
-		expect(ctx.combined).toBe("pi-tool a great tool");
+		expect(ctx.combined).toBe("pi-tool  a great tool");
+	});
+
+	it("includes metadata title in combined text", () => {
+		const ctx = buildFilterContext(
+			candidate({
+				url: "https://example.com/x",
+				id: "YT_abc123",
+				title: "Pi Agent Crash Course",
+				description: "Learn all about it",
+			}),
+		);
+		expect(ctx.combined).toBe("yt_abc123 pi agent crash course learn all about it");
 	});
 });
 

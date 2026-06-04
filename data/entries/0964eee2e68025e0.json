@@ -8,7 +8,7 @@
     "github_url": "https://github.com/counterposition/pi",
     "repo_full_name": "counterposition/pi",
     "description": "Skills, extensions, and packages for the Pi coding agent",
-    "stars": 6,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-28T15:56:28Z",
-    "pushed_at": "2026-05-17T21:36:46Z",
-    "updated_at": "2026-05-25T22:18:31Z",
-    "size": 476,
+    "pushed_at": "2026-04-07T03:10:47Z",
+    "updated_at": "2026-04-30T06:21:42Z",
+    "size": 223,
     "license": "GPL-3.0",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

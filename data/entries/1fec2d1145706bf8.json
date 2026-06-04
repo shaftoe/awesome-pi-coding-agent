@@ -3,29 +3,29 @@
   "name": "pk-pi-hermes-evolve",
   "url": "https://www.npmjs.com/package/pk-pi-hermes-evolve",
   "source": "npm-search",
-  "description": "Pi package inspired by Hermes Agent Self-Evolution with hybrid TypeScript + optional Python DSPy/GEPA backends.",
+  "description": "Pi package inspired by Hermes Agent Self-Evolution for reflective improvement of skills, prompts, and instruction files.",
   "metadata": {
     "github_url": "https://github.com/kingkillery/pk-pi-hermes-evolve",
-    "repo_full_name": "kingkillery/pk-pi-hermes-evolve",
-    "description": "Pi package inspired by Hermes Agent Self-Evolution with hybrid TypeScript + optional Python DSPy/GEPA backends.",
-    "stars": 7,
-    "forks": 0,
-    "open_issues": 1,
-    "topics": [
-      "dspy",
-      "hermes",
-      "pi",
+    "npm_name": "pk-pi-hermes-evolve",
+    "description": "Pi package inspired by Hermes Agent Self-Evolution for reflective improvement of skills, prompts, and instruction files.",
+    "keywords": [
       "pi-package",
-      "prompt-engineering"
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "self-evolution",
+      "hermes",
+      "pi-mono"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-04-12T18:32:28Z",
-    "pushed_at": "2026-05-29T02:23:26Z",
-    "updated_at": "2026-05-30T03:22:18Z",
-    "size": 289,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-package language:TypeScript"
+    "version": "0.2.1",
+    "published_at": "2026-04-12T18:37:28.632Z",
+    "npm_downloads_monthly": 398,
+    "npm_downloads_weekly": 30,
+    "npm_score_final": 24.709555,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 77,

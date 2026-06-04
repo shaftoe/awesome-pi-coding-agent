@@ -8,8 +8,8 @@
     "github_url": "https://github.com/parkiyong/pi-karpathy-guidelines",
     "repo_full_name": "parkiyong/pi-karpathy-guidelines",
     "description": "A Pi extension that enforces Andrej Karpathy's coding guidelines to reduce common LLM coding mistakes.",
-    "stars": 1,
-    "forks": 1,
+    "stars": 0,
+    "forks": 0,
     "open_issues": 0,
     "topics": [
       "pi",
@@ -19,7 +19,7 @@
     "archived": false,
     "created_at": "2026-04-27T15:15:22Z",
     "pushed_at": "2026-04-27T15:38:48Z",
-    "updated_at": "2026-05-04T20:35:50Z",
+    "updated_at": "2026-04-27T15:48:07Z",
     "size": 5,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

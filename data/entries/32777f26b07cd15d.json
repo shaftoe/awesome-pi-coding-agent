@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "A Pi extension for configurable, materia-themed agent pipelines.",
   "metadata": {
-    "github_url": "https://github.com/rpollard00/pi-materia",
+    "github_url": null,
     "npm_name": "@rpollard00/pi-materia",
     "description": "A Pi extension for configurable, materia-themed agent pipelines.",
     "keywords": [
@@ -15,11 +15,11 @@
       "pipeline",
       "workflow"
     ],
-    "version": "0.1.6",
-    "published_at": "2026-06-02T04:09:43.504Z",
-    "npm_downloads_monthly": 199,
-    "npm_downloads_weekly": 165,
-    "npm_score_final": 18.519451,
+    "version": "0.1.2",
+    "published_at": "2026-04-28T22:22:51.811Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

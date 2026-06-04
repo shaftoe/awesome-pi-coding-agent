@@ -8,7 +8,7 @@
     "github_url": "https://github.com/cv/pi-bd",
     "repo_full_name": "cv/pi-bd",
     "description": "pi-coding-agent hooks for Beads (bd) issue tracking",
-    "stars": 5,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-01-03T02:45:16Z",
     "pushed_at": "2026-01-03T09:34:07Z",
-    "updated_at": "2026-05-26T01:52:39Z",
+    "updated_at": "2026-04-24T07:21:12Z",
     "size": 31,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

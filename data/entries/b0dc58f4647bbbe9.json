@@ -8,7 +8,7 @@
     "github_url": "https://github.com/dtmirizzi/pi-governance",
     "repo_full_name": "dtmirizzi/pi-governance",
     "description": "Governance, RBAC, audit, DLP, and human-in-the-loop for Pi-based coding agents.",
-    "stars": 13,
+    "stars": 10,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-03-01T16:52:22Z",
     "pushed_at": "2026-04-01T20:27:37Z",
-    "updated_at": "2026-06-03T13:24:53Z",
+    "updated_at": "2026-04-13T12:18:35Z",
     "size": 14668,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

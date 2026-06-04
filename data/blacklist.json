@@ -26599,16 +26599,6 @@
 		}
 	},
 	{
-		"url": "https://youtube.com/watch?v=FJxgz5pN4wU",
-		"reason": "no positive Pi coding agent signal",
-		"blacklisted_at": "2026-06-04T00:30:16.596Z",
-		"source": "filter",
-		"discovery": {
-			"sourceName": "youtube",
-			"query": "youtube:pi-agent"
-		}
-	},
-	{
 		"url": "https://youtube.com/watch?v=1Rmnnu_ZDL8",
 		"reason": "no positive Pi coding agent signal",
 		"blacklisted_at": "2026-06-04T00:30:16.606Z",

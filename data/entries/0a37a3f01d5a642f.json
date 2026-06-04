@@ -9,8 +9,8 @@
     "repo_full_name": "Studio-Sunnyfield/pimagotchi",
     "description": "Tamagotchi like pet for your pi coding agent",
     "stars": 0,
-    "forks": 1,
-    "open_issues": 1,
+    "forks": 0,
+    "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
@@ -19,7 +19,7 @@
     "updated_at": "2026-04-04T06:30:28Z",
     "size": 73,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
     "score": 43,

@@ -515,13 +515,16 @@ export function buildFilterContext(candidate: {
 	const urlLower = url.toLowerCase();
 	const name = (candidate.id ?? extractNameFromUrl(url)).toLowerCase();
 	const description = String(candidate.metadata?.["description"] ?? "").toLowerCase();
+	const title = String(
+		candidate.metadata?.["title"] ?? candidate.metadata?.["name"] ?? "",
+	).toLowerCase();
 	const topics = ((candidate.metadata?.["topics"] as string[] | undefined) ?? []).map((t) =>
 		t.toLowerCase(),
 	);
 	const keywords = ((candidate.metadata?.["keywords"] as string[] | undefined) ?? []).map((k) =>
 		k.toLowerCase(),
 	);
-	const combined = `${name} ${description}`;
+	const combined = `${name} ${title} ${description}`;
 	return {
 		url,
 		urlLower,

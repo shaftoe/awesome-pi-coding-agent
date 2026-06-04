@@ -3,12 +3,12 @@
   "name": "alnah-agent",
   "url": "https://github.com/alnah/agent",
   "source": "github-search",
-  "description": "Those are my Pi extensions, skills, prompts, themes, and context files.",
+  "description": "Pi extensions, skills, prompts, themes, and context files for terminal workflows.",
   "metadata": {
     "github_url": "https://github.com/alnah/agent",
     "repo_full_name": "alnah/agent",
-    "description": "Those are my Pi extensions, skills, prompts, themes, and context files.",
-    "stars": 1,
+    "description": "Pi extensions, skills, prompts, themes, and context files for terminal workflows.",
+    "stars": 0,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -28,9 +28,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-07T17:38:36Z",
-    "pushed_at": "2026-05-31T21:09:53Z",
-    "updated_at": "2026-05-31T21:11:52Z",
-    "size": 193,
+    "pushed_at": "2026-04-26T17:28:07Z",
+    "updated_at": "2026-04-26T17:29:30Z",
+    "size": 183,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },

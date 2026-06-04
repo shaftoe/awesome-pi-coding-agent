@@ -8,7 +8,7 @@
     "github_url": "https://github.com/jkuball/pi-discuss",
     "repo_full_name": "jkuball/pi-discuss",
     "description": "inline-answers for your clanker from the cozyness of your editor",
-    "stars": 6,
+    "stars": 0,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -19,9 +19,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-23T20:43:48Z",
-    "pushed_at": "2026-05-07T11:37:27Z",
-    "updated_at": "2026-05-07T11:37:31Z",
-    "size": 11,
+    "pushed_at": "2026-04-24T08:41:51Z",
+    "updated_at": "2026-04-24T08:41:55Z",
+    "size": 6,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
