@@ -1,0 +1,31 @@
+{
+  "id": "Inv1x-pi-mac-system-theme",
+  "name": "Inv1x-pi-mac-system-theme",
+  "url": "https://github.com/Inv1x/pi-mac-system-theme",
+  "source": "github-search",
+  "description": "MacOS theme detection for Pi Agent",
+  "metadata": {
+    "github_url": "https://github.com/Inv1x/pi-mac-system-theme",
+    "repo_full_name": "Inv1x/pi-mac-system-theme",
+    "description": "MacOS theme detection for Pi Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "extension-pi",
+      "macos",
+      "pi",
+      "pi-agent",
+      "pi-agent-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-03T16:05:12Z",
+    "pushed_at": "2026-06-03T16:18:56Z",
+    "updated_at": "2026-06-03T16:20:46Z",
+    "size": 40,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

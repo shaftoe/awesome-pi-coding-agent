@@ -8,7 +8,7 @@
     "github_url": "https://github.com/rhnvrm/pi-bash-readonly",
     "repo_full_name": "rhnvrm/pi-bash-readonly",
     "description": "Sandboxed read-only bash for Pi agents via bwrap",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-23T09:02:15Z",
     "pushed_at": "2026-04-21T20:27:18Z",
-    "updated_at": "2026-04-24T06:43:17Z",
+    "updated_at": "2026-06-04T00:16:41Z",
     "size": 92,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

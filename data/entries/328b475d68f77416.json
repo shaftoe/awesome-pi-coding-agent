@@ -9,8 +9,8 @@
     "repo_full_name": "tickernelz/pi-mcp-tools",
     "description": "Universal MCP tools extension for pi coding agent — connect to filesystem, GitHub, databases, and more",
     "stars": 9,
-    "forks": 0,
-    "open_issues": 0,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "extension",
       "mcp",

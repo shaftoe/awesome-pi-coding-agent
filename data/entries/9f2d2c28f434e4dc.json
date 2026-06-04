@@ -10,7 +10,7 @@
     "description": "Pi agent hook for rewinding file changes during coding sessions",
     "stars": 136,
     "forks": 13,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

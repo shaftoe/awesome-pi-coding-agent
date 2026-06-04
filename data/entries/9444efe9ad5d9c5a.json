@@ -3,19 +3,19 @@
   "name": "@subsimplicity/pi-extension-design-md",
   "url": "https://www.npmjs.com/package/@subsimplicity/pi-extension-design-md",
   "source": "npm-search",
-  "description": "Pi extension for Google DESIGN.md visual identity specs",
+  "description": "Pi extension for working with Linear issues from coding sessions",
   "metadata": {
     "github_url": "https://github.com/subsimplicity/pi-extensions-public",
-    "npm_name": "@subsimplicity/pi-extension-design-md",
-    "description": "Pi extension for Google DESIGN.md visual identity specs",
+    "npm_name": "@subsimplicity/pi-extension-linear",
+    "description": "Pi extension for working with Linear issues from coding sessions",
     "keywords": [
-      "design-system",
-      "design.md",
+      "linear",
       "pi-package",
-      "visual-identity"
+      "project-management",
+      "issues"
     ],
     "version": "0.1.0",
-    "published_at": "2026-06-02T13:00:16.439Z",
+    "published_at": "2026-06-03T12:29:07.520Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

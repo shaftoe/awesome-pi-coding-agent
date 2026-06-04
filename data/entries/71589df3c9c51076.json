@@ -1,0 +1,30 @@
+{
+  "id": "pi-embark",
+  "name": "pi-embark",
+  "url": "https://www.npmjs.com/package/pi-embark",
+  "source": "npm-search",
+  "description": "Pi extension and remote task runner for dispatching Embark jobs through a Cloudflare broker to remote Pi workers.",
+  "metadata": {
+    "github_url": "https://github.com/danialranjha/pi-embark",
+    "npm_name": "pi-embark",
+    "description": "Pi extension and remote task runner for dispatching Embark jobs through a Cloudflare broker to remote Pi workers.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "embark",
+      "cloudflare",
+      "remote-runner"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-06-03T06:58:53.934Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

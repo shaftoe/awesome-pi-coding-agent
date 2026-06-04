@@ -8,7 +8,7 @@
     "github_url": "https://github.com/marcfargas/pi-server",
     "repo_full_name": "marcfargas/pi-server",
     "description": "Detachable agent sessions for pi — headless daemon + terminal client over WebSocket",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-13T21:00:00Z",
     "pushed_at": "2026-02-21T16:05:04Z",
-    "updated_at": "2026-05-18T21:49:03Z",
+    "updated_at": "2026-06-03T14:19:06Z",
     "size": 305,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

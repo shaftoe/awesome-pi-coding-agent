@@ -8,7 +8,7 @@
     "github_url": "https://github.com/jayshah5696/pi-agent-extensions",
     "repo_full_name": "jayshah5696/pi-agent-extensions",
     "description": "Collection of extensions for pi coding agent (sessions, ask_user, handoff)",
-    "stars": 38,
+    "stars": 39,
     "forks": 3,
     "open_issues": 2,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-06T05:17:51Z",
     "pushed_at": "2026-06-02T18:58:39Z",
-    "updated_at": "2026-06-01T02:19:03Z",
+    "updated_at": "2026-06-03T04:56:55Z",
     "size": 1997,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

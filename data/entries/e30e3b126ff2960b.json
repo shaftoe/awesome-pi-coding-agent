@@ -9,7 +9,7 @@
     "repo_full_name": "CaptCanadaMan/pi-ollama",
     "description": "Pi coding agent extension for native Ollama — fixes tool calling under streaming",
     "stars": 4,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "extension",

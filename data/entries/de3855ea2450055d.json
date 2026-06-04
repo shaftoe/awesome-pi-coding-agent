@@ -10,7 +10,7 @@
     "description": "A collection of pi extensions I made",
     "stars": 15,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "developer-tools",
       "pi",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-15T19:27:56Z",
-    "pushed_at": "2026-06-02T07:30:21Z",
-    "updated_at": "2026-06-02T07:30:25Z",
-    "size": 691,
+    "pushed_at": "2026-06-03T06:48:02Z",
+    "updated_at": "2026-06-03T06:48:04Z",
+    "size": 732,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
