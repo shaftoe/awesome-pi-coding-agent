@@ -1,0 +1,25 @@
+{
+  "id": "sims-tek-pi-shark-backup",
+  "name": "sims-tek-pi-shark-backup",
+  "url": "https://github.com/sims-tek/pi-shark-backup",
+  "source": "github-search",
+  "description": "Backup of pi coding agent extensions and addons",
+  "metadata": {
+    "github_url": "https://github.com/sims-tek/pi-shark-backup",
+    "repo_full_name": "sims-tek/pi-shark-backup",
+    "description": "Backup of pi coding agent extensions and addons",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-07T14:37:43Z",
+    "pushed_at": "2026-06-07T14:43:47Z",
+    "updated_at": "2026-06-07T14:43:50Z",
+    "size": 7,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

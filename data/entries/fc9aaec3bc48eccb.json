@@ -1,0 +1,32 @@
+{
+  "id": "pi-pr-agents",
+  "name": "pi-pr-agents",
+  "url": "https://www.npmjs.com/package/pi-pr-agents",
+  "source": "npm-search",
+  "description": "Graphite/PR-stack orchestration for pi: a main agent that splits work into PRs, dispatches a dedicated worktree subagent per PR, and lays them out as labelled tmux panes.",
+  "metadata": {
+    "github_url": "https://github.com/anonx3247/pi-pr-agents",
+    "npm_name": "pi-pr-agents",
+    "description": "Graphite/PR-stack orchestration for pi: a main agent that splits work into PRs, dispatches a dedicated worktree subagent per PR, and lays them out as labelled tmux panes.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pr",
+      "graphite",
+      "worktree",
+      "tmux",
+      "subagent"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-09T00:33:56.772Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

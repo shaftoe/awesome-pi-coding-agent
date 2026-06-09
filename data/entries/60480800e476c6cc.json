@@ -8,18 +8,18 @@
     "github_url": "https://github.com/lojacobs/pi-roles",
     "repo_full_name": "lojacobs/pi-roles",
     "description": "Role-based session configuration for the pi coding agent",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-26T18:49:09Z",
-    "pushed_at": "2026-04-29T12:40:20Z",
-    "updated_at": "2026-04-29T12:40:23Z",
-    "size": 123,
+    "pushed_at": "2026-05-05T19:26:27Z",
+    "updated_at": "2026-06-09T06:43:10Z",
+    "size": 454,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
     "score": 57,

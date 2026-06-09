@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Davidcreador/pi-routines",
     "repo_full_name": "Davidcreador/pi-routines",
     "description": "A pi extension that gives your agent scheduled and event-driven routines ",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-05-20T01:30:40Z",
     "pushed_at": "2026-05-21T00:27:05Z",
-    "updated_at": "2026-05-21T00:27:09Z",
+    "updated_at": "2026-06-07T15:44:44Z",
     "size": 34484,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

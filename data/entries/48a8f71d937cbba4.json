@@ -8,18 +8,18 @@
     "github_url": "https://github.com/dilljens/pi-dotfiles",
     "repo_full_name": "dilljens/pi-dotfiles",
     "description": "personal pi coding agent setup — agents, extensions, skills, and config",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-23T09:59:08Z",
-    "pushed_at": "2026-06-03T07:51:17Z",
-    "updated_at": "2026-06-03T07:51:21Z",
-    "size": 302,
+    "pushed_at": "2026-06-04T09:16:20Z",
+    "updated_at": "2026-06-04T09:16:24Z",
+    "size": 316,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
     "score": 53,

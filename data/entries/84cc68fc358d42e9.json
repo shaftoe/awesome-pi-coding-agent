@@ -1,0 +1,30 @@
+{
+  "id": "@raquezha/noleaks",
+  "name": "@raquezha/noleaks",
+  "url": "https://www.npmjs.com/package/@raquezha/noleaks",
+  "source": "npm-search",
+  "description": "Security credentials protector shield for the Pi Coding Agent — blocks LLM access to .env, keys, and secrets",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@raquezha/noleaks",
+    "description": "Security credentials protector shield for the Pi Coding Agent — blocks LLM access to .env, keys, and secrets",
+    "keywords": [
+      "pi-agent",
+      "security",
+      "secrets",
+      "credentials",
+      "protection",
+      "pi-package"
+    ],
+    "version": "0.0.3",
+    "published_at": "2026-06-09T08:19:52.360Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

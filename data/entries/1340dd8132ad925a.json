@@ -1,0 +1,31 @@
+{
+  "id": "pi-zai-agents",
+  "name": "pi-zai-agents",
+  "url": "https://www.npmjs.com/package/pi-zai-agents",
+  "source": "npm-search",
+  "description": "Unofficial pi package exposing Z.AI Agent API tools for Slide/Poster, Translation, and Video Effect Template agents.",
+  "metadata": {
+    "github_url": "https://github.com/fitchmultz/pi-zai-agents",
+    "npm_name": "pi-zai-agents",
+    "description": "Unofficial pi package exposing Z.AI Agent API tools for Slide/Poster, Translation, and Video Effect Template agents.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "extension",
+      "z-ai",
+      "zai",
+      "agents"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-05T16:16:20.822Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

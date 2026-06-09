@@ -1,0 +1,30 @@
+{
+  "id": "arey-pi",
+  "name": "arey-pi",
+  "url": "https://www.npmjs.com/package/arey-pi",
+  "source": "npm-search",
+  "description": "A Pi package for canonical Gherkin specs, non-negotiable TDD, spec synchronisation, AI harness readiness, and senior-quality software delivery.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "arey-pi",
+    "description": "A Pi package for canonical Gherkin specs, non-negotiable TDD, spec synchronisation, AI harness readiness, and senior-quality software delivery.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "spec-driven-development",
+      "gherkin",
+      "tdd",
+      "software-engineering"
+    ],
+    "version": "0.6.3",
+    "published_at": "2026-06-08T13:04:10.711Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Use fish shell backend for Pi user bash commands (! and !!).",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/Firstp1ck/npm-packages",
     "npm_name": "@firstpick/pi-extension-fish-user-bash",
     "description": "Use fish shell backend for Pi user bash commands (! and !!).",
     "keywords": [
@@ -14,11 +14,11 @@
       "pi-coding-agent",
       "extension"
     ],
-    "version": "0.1.7",
-    "published_at": "2026-05-12T21:19:55.650Z",
-    "npm_downloads_monthly": 1067,
-    "npm_downloads_weekly": 17,
-    "npm_score_final": 26.501804,
+    "version": "0.2.0",
+    "published_at": "2026-06-08T21:34:33.496Z",
+    "npm_downloads_monthly": 499,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 21.266335,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

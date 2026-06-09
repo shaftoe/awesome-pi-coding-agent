@@ -1,0 +1,25 @@
+{
+  "id": "libaohome-pi-agent",
+  "name": "libaohome-pi-agent",
+  "url": "https://github.com/libaohome/pi-agent",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/libaohome/pi-agent",
+    "repo_full_name": "libaohome/pi-agent",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-05T05:51:31Z",
+    "pushed_at": "2026-06-05T09:28:02Z",
+    "updated_at": "2026-06-05T09:28:08Z",
+    "size": 214,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -10,7 +10,7 @@
     "description": "Verification-oriented smart compaction extension for the Pi Coding Agent.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 2,
     "topics": [
       "ai-agent",
       "bun",
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-16T22:57:07Z",
-    "pushed_at": "2026-05-30T20:18:31Z",
-    "updated_at": "2026-05-30T20:15:27Z",
-    "size": 7862,
+    "pushed_at": "2026-06-08T20:45:47Z",
+    "updated_at": "2026-06-08T19:27:49Z",
+    "size": 7898,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

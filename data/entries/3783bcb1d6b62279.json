@@ -3,27 +3,28 @@
   "name": "@kmiyh/pi-full-text-paste",
   "url": "https://www.npmjs.com/package/@kmiyh/pi-full-text-paste",
   "source": "npm-search",
-  "description": "Pi extension that keeps large pasted text expanded instead of collapsing it into [paste #...] markers.",
+  "description": "Pi extension that keeps pasted text as full editor text",
   "metadata": {
     "github_url": "https://github.com/Kmiyh/pi-full-text-paste",
-    "npm_name": "@kmiyh/pi-full-text-paste",
-    "description": "Pi extension that keeps large pasted text expanded instead of collapsing it into [paste #...] markers.",
-    "keywords": [
-      "pi-package",
-      "pi-agent",
-      "pi-extension",
+    "repo_full_name": "Kmiyh/pi-full-text-paste",
+    "description": "Pi extension that keeps pasted text as full editor text",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "full-paste",
       "paste",
-      "clipboard"
+      "pi",
+      "pi-package"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-04-17T13:24:06.985Z",
-    "npm_downloads_monthly": 134,
-    "npm_downloads_weekly": 134,
-    "npm_score_final": 19.2821,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-17T13:12:22Z",
+    "pushed_at": "2026-04-17T13:23:33Z",
+    "updated_at": "2026-05-08T08:08:46Z",
+    "size": 35,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
     "score": 42,

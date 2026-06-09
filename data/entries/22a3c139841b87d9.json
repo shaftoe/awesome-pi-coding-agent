@@ -1,0 +1,28 @@
+{
+  "id": "@mjakl/pi-processes",
+  "name": "@mjakl/pi-processes",
+  "url": "https://www.npmjs.com/package/@mjakl/pi-processes",
+  "source": "npm-search",
+  "description": "> **Note** > This is a stripped down fork of https://github.com/aliou/pi-processes. > Most people should likely use the original project instead.",
+  "metadata": {
+    "github_url": "https://github.com/mjakl/pi-processes",
+    "npm_name": "@mjakl/pi-processes",
+    "description": "> **Note** > This is a stripped down fork of https://github.com/aliou/pi-processes. > Most people should likely use the original project instead.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "processes"
+    ],
+    "version": "0.8.0",
+    "published_at": "2026-06-04T09:24:13.302Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

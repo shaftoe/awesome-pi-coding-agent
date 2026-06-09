@@ -1,0 +1,25 @@
+{
+  "id": "TooonyChen-wechat-pi-voice-bridge",
+  "name": "TooonyChen-wechat-pi-voice-bridge",
+  "url": "https://github.com/TooonyChen/wechat-pi-voice-bridge",
+  "source": "github-search",
+  "description": "a bridge connects wechat and pi-agent",
+  "metadata": {
+    "github_url": "https://github.com/TooonyChen/wechat-pi-voice-bridge",
+    "repo_full_name": "TooonyChen/wechat-pi-voice-bridge",
+    "description": "a bridge connects wechat and pi-agent",
+    "stars": 1,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-07T00:00:22Z",
+    "pushed_at": "2026-06-07T00:20:23Z",
+    "updated_at": "2026-06-07T00:20:26Z",
+    "size": 58,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

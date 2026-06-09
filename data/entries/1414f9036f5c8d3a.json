@@ -10,7 +10,7 @@
     "description": "Pi package for project-local semantic file discovery with qmd and adaptive feedback",
     "stars": 1,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 0,
     "topics": [
       "file-discovery",
       "pi",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-20T18:55:25Z",
-    "pushed_at": "2026-06-03T20:05:22Z",
-    "updated_at": "2026-06-03T12:36:26Z",
-    "size": 170,
+    "pushed_at": "2026-06-08T23:44:23Z",
+    "updated_at": "2026-06-08T23:44:16Z",
+    "size": 258,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

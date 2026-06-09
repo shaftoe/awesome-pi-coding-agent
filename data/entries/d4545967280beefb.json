@@ -8,8 +8,8 @@
     "github_url": "https://github.com/nrednav/pi-redactor",
     "repo_full_name": "nrednav/pi-redactor",
     "description": "Pi extension that redacts sensitive strings from messages before the LLM provider sees them.",
-    "stars": 0,
-    "forks": 0,
+    "stars": 1,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "llm",
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-03-11T03:56:14Z",
     "pushed_at": "2026-03-14T04:08:49Z",
-    "updated_at": "2026-03-14T04:42:48Z",
+    "updated_at": "2026-05-16T18:18:58Z",
     "size": 96,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

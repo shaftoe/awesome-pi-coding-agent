@@ -1,0 +1,34 @@
+{
+  "id": "pi-smart-context-manager",
+  "name": "pi-smart-context-manager",
+  "url": "https://www.npmjs.com/package/pi-smart-context-manager",
+  "source": "npm-search",
+  "description": "Intelligent context management for long-session AI agents. Solves U-shaped attention curve and context decay problems with four-level memory hierarchy.",
+  "metadata": {
+    "github_url": "https://github.com/bailianfa/smart-context-manager",
+    "npm_name": "pi-smart-context-manager",
+    "description": "Intelligent context management for long-session AI agents. Solves U-shaped attention curve and context decay problems with four-level memory hierarchy.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "skill",
+      "context-management",
+      "memory",
+      "ai-agent",
+      "llm",
+      "attention-curve",
+      "context-decay"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-06-05T05:32:31.636Z",
+    "npm_downloads_monthly": 140,
+    "npm_downloads_weekly": 140,
+    "npm_score_final": 16.613611,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

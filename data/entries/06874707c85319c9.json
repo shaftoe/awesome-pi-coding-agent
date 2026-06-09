@@ -1,0 +1,31 @@
+{
+  "id": "@milanglacier/pi-plan-mode",
+  "name": "@milanglacier/pi-plan-mode",
+  "url": "https://www.npmjs.com/package/@milanglacier/pi-plan-mode",
+  "source": "npm-search",
+  "description": "Planning mode extension for pi with persistent plan files and branch-aware planning.",
+  "metadata": {
+    "github_url": "https://github.com/milanglacier/pi-plan-mode",
+    "npm_name": "@milanglacier/pi-plan-mode",
+    "description": "Planning mode extension for pi with persistent plan files and branch-aware planning.",
+    "keywords": [
+      "branch-planning",
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "plan-mode",
+      "planning",
+      "research"
+    ],
+    "version": "0.5.5",
+    "published_at": "2026-06-07T23:47:50.838Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

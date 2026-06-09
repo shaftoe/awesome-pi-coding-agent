@@ -1,0 +1,25 @@
+{
+  "id": "@sting8k/pi-srcwalk",
+  "name": "@sting8k/pi-srcwalk",
+  "url": "https://www.npmjs.com/package/@sting8k/pi-srcwalk",
+  "source": "npm-search",
+  "description": "A Pi extension wrapper around [https://github.com/sting8k/srcwalk] - makes structural code-intelligence easy for AI coding agents",
+  "metadata": {
+    "github_url": "https://github.com/sting8k/pi-srcwalk",
+    "repo_full_name": "sting8k/pi-srcwalk",
+    "description": "A Pi extension wrapper around [https://github.com/sting8k/srcwalk] - makes structural code-intelligence easy for AI coding agents",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-06T03:09:04Z",
+    "pushed_at": "2026-06-09T12:27:31Z",
+    "updated_at": "2026-06-09T12:27:08Z",
+    "size": 291,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

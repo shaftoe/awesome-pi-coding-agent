@@ -8,7 +8,7 @@
     "github_url": "https://github.com/samfoy/pi-slack-bot",
     "repo_full_name": "samfoy/pi-slack-bot",
     "description": "Slack bot that exposes pi as a conversational coding agent",
-    "stars": 5,
+    "stars": 6,
     "forks": 2,
     "open_issues": 0,
     "topics": [
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-04T03:41:54Z",
-    "pushed_at": "2026-04-21T19:25:23Z",
-    "updated_at": "2026-04-21T19:25:22Z",
-    "size": 667,
+    "pushed_at": "2026-05-14T15:02:04Z",
+    "updated_at": "2026-06-04T22:50:52Z",
+    "size": 602,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

@@ -5,17 +5,20 @@
   "source": "npm-search",
   "description": "Pi package that customizes session tree display with timestamps and preview behavior.",
   "metadata": {
-    "github_url": "https://github.com/zigai/pi-ui-tweaks",
+    "github_url": "https://github.com/zigai/pi-tweaks",
     "npm_name": "@zigai/pi-tree",
     "description": "Pi package that customizes session tree display with timestamps and preview behavior.",
     "keywords": [
+      "pi",
+      "pi-coding-agent",
       "pi-extension",
       "pi-package",
+      "pi-tweaks",
       "timestamps",
       "tree"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-06-03T19:36:22.241Z",
+    "version": "0.1.5",
+    "published_at": "2026-06-07T18:20:01.407Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

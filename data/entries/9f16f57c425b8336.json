@@ -1,0 +1,25 @@
+{
+  "id": "applepi-ai-file-talk",
+  "name": "applepi-ai-file-talk",
+  "url": "https://github.com/applepi-ai/file-talk",
+  "source": "github-search",
+  "description": "Pi extension package: file-talk",
+  "metadata": {
+    "github_url": "https://github.com/applepi-ai/file-talk",
+    "repo_full_name": "applepi-ai/file-talk",
+    "description": "Pi extension package: file-talk",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-05T17:26:11Z",
+    "pushed_at": "2026-06-05T17:39:13Z",
+    "updated_at": "2026-06-05T17:39:16Z",
+    "size": 7,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

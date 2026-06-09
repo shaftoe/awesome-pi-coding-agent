@@ -1,0 +1,30 @@
+{
+  "id": "pi-diet",
+  "name": "pi-diet",
+  "url": "https://www.npmjs.com/package/pi-diet",
+  "source": "npm-search",
+  "description": "Compact oversized Pi tool results with transparent previews and spill files.",
+  "metadata": {
+    "github_url": "https://github.com/ProbabilityEngineer/pi-diet",
+    "npm_name": "pi-diet",
+    "description": "Compact oversized Pi tool results with transparent previews and spill files.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "tool-results",
+      "context",
+      "sessions"
+    ],
+    "version": "0.1.6",
+    "published_at": "2026-06-05T05:40:48.555Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

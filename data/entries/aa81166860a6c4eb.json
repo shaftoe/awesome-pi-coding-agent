@@ -1,0 +1,31 @@
+{
+  "id": "@aidan200/pi-helix",
+  "name": "@aidan200/pi-helix",
+  "url": "https://www.npmjs.com/package/@aidan200/pi-helix",
+  "source": "npm-search",
+  "description": "Helix package for pi: vibe coding runtime, todo, plan mode, multi-agent collaboration, tracing, and Claude Code plugin compatibility.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@aidan200/pi-helix",
+    "description": "Helix package for pi: vibe coding runtime, todo, plan mode, multi-agent collaboration, tracing, and Claude Code plugin compatibility.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "helix",
+      "vibe-coding-runtime",
+      "claude-code-plugin",
+      "multi-agent",
+      "plan-mode"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-08T08:17:42.503Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -9,10 +9,15 @@
     "npm_name": "pi-workflow-engine",
     "description": "A customisable multi-agent workflow-orchestration engine for the pi coding agent.",
     "keywords": [
-      "pi-package"
+      "pi-package",
+      "pi-extension",
+      "pi-workflow",
+      "workflow-engine",
+      "multi-agent",
+      "coding-agent"
     ],
-    "version": "0.3.0",
-    "published_at": "2026-06-03T20:01:31.852Z",
+    "version": "0.6.1",
+    "published_at": "2026-06-08T08:41:31.920Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Agents should invoke this skill for high-stakes or complex research needing multi-source evidence, scientific/technical fact-checking, decision traces, or rigorous verification. Runs deterministic two-phase research with schema/policy validation.",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/Firstp1ck/npm-packages",
     "npm_name": "@firstpick/pi-skill-deep-research",
     "description": "Agents should invoke this skill for high-stakes or complex research needing multi-source evidence, scientific/technical fact-checking, decision traces, or rigorous verification. Runs deterministic two-phase research with schema/policy validation.",
     "keywords": [
@@ -16,11 +16,11 @@
       "agent-skill",
       "deep-research"
     ],
-    "version": "0.1.4",
-    "published_at": "2026-06-01T16:12:55.865Z",
-    "npm_downloads_monthly": 562,
-    "npm_downloads_weekly": 206,
-    "npm_score_final": 22.66409,
+    "version": "0.1.6",
+    "published_at": "2026-06-08T21:36:30.365Z",
+    "npm_downloads_monthly": 716,
+    "npm_downloads_weekly": 351,
+    "npm_score_final": 23.77511,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

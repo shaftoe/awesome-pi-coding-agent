@@ -1,0 +1,26 @@
+{
+  "id": "pi-operator-tickets",
+  "name": "pi-operator-tickets",
+  "url": "https://www.npmjs.com/package/pi-operator-tickets",
+  "source": "npm-search",
+  "description": "Create bounded, proof-driven Operator Tickets for complex AI-agent tasks",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-operator-tickets",
+    "description": "Create bounded, proof-driven Operator Tickets for complex AI-agent tasks",
+    "keywords": [
+      "pi-package",
+      "operator-tickets"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-06-04T20:56:27.779Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

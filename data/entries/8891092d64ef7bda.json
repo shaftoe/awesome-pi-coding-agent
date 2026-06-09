@@ -1,0 +1,38 @@
+{
+  "id": "CaoYuhaoCarl-Taogen",
+  "name": "CaoYuhaoCarl-Taogen",
+  "url": "https://github.com/CaoYuhaoCarl/Taogen",
+  "source": "github-search",
+  "description": "Build agents that build agents. 🌱",
+  "metadata": {
+    "github_url": "https://github.com/CaoYuhaoCarl/Taogen",
+    "repo_full_name": "CaoYuhaoCarl/Taogen",
+    "description": "Build agents that build agents. 🌱",
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 3,
+    "topics": [
+      "agent",
+      "ai-agent",
+      "ai-tools",
+      "claude-code",
+      "codex",
+      "gemini-cli",
+      "harness-engineering",
+      "hermes",
+      "openclaw",
+      "opencode",
+      "pi-agent",
+      "skills"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-27T11:52:42Z",
+    "pushed_at": "2026-06-05T13:06:46Z",
+    "updated_at": "2026-06-08T15:50:34Z",
+    "size": 6099,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

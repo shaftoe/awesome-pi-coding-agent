@@ -1,0 +1,39 @@
+{
+  "id": "pi-shazam",
+  "name": "pi-shazam",
+  "url": "https://www.npmjs.com/package/pi-shazam",
+  "source": "npm-search",
+  "description": "Pi coding agent native codebase awareness extension — 14 structural analysis tools for AI agents. Also supports MCP (Cursor, Claude Desktop, Windsurf, etc.)",
+  "metadata": {
+    "github_url": "https://github.com/gjczone/pi-shazam",
+    "repo_full_name": "gjczone/pi-shazam",
+    "description": "Pi coding agent native codebase awareness extension — 14 structural analysis tools for AI agents. Also supports MCP (Cursor, Claude Desktop, Windsurf, etc.)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-coding",
+      "ast",
+      "claude-desktop",
+      "code-analysis",
+      "codebase-analysis",
+      "cursor",
+      "dependency-graph",
+      "lsp",
+      "mcp",
+      "pagerank",
+      "pi-agent",
+      "pi-package",
+      "tree-sitter"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-05T07:44:20Z",
+    "pushed_at": "2026-06-09T10:54:17Z",
+    "updated_at": "2026-06-09T10:54:21Z",
+    "size": 800,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

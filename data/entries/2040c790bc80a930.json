@@ -8,7 +8,7 @@
     "github_url": "https://github.com/fitchmultz/pi-zai-mcp",
     "repo_full_name": "fitchmultz/pi-zai-mcp",
     "description": "Z.ai MCP server bridge for pi with web search, reader, zread, and vision tools.",
-    "stars": 1,
+    "stars": 2,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-29T13:46:04Z",
-    "pushed_at": "2026-05-30T01:50:10Z",
-    "updated_at": "2026-05-29T00:59:19Z",
-    "size": 272,
+    "pushed_at": "2026-06-05T16:29:23Z",
+    "updated_at": "2026-06-08T02:14:51Z",
+    "size": 328,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

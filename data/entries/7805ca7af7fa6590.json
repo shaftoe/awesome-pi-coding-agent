@@ -1,0 +1,25 @@
+{
+  "id": "renato145-pi-config",
+  "name": "renato145-pi-config",
+  "url": "https://github.com/renato145/pi-config",
+  "source": "github-search",
+  "description": "pi agent configuration",
+  "metadata": {
+    "github_url": "https://github.com/renato145/pi-config",
+    "repo_full_name": "renato145/pi-config",
+    "description": "pi agent configuration",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-31T05:14:28Z",
+    "pushed_at": "2026-06-06T21:58:29Z",
+    "updated_at": "2026-06-06T21:58:34Z",
+    "size": 63,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

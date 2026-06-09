@@ -1,0 +1,27 @@
+{
+  "id": "@capotej/pi-zsearch",
+  "name": "@capotej/pi-zsearch",
+  "url": "https://www.npmjs.com/package/@capotej/pi-zsearch",
+  "source": "npm-search",
+  "description": "Adds web_search and web_read tools powered by the Z.AI API.",
+  "metadata": {
+    "github_url": "https://github.com/capotej/pi-zsearch",
+    "npm_name": "@capotej/pi-zsearch",
+    "description": "Adds web_search and web_read tools powered by the Z.AI API.",
+    "keywords": [
+      "pi-package",
+      "zai",
+      "zsearch"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-06-07T14:57:10.712Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

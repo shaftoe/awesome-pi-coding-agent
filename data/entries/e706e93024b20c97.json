@@ -1,0 +1,25 @@
+{
+  "id": "tzynb112-pi-agent-desktop",
+  "name": "tzynb112-pi-agent-desktop",
+  "url": "https://github.com/tzynb112/pi-agent-desktop",
+  "source": "github-search",
+  "description": "Unofficial desktop client for the open-source Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/tzynb112/pi-agent-desktop",
+    "repo_full_name": "tzynb112/pi-agent-desktop",
+    "description": "Unofficial desktop client for the open-source Pi coding agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-06T16:26:48Z",
+    "pushed_at": "2026-06-09T12:41:49Z",
+    "updated_at": "2026-06-09T12:43:26Z",
+    "size": 83978,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

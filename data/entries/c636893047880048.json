@@ -6,20 +6,25 @@
   "description": "Convert pi coding agent sessions to clean, mobile-friendly HTML transcripts",
   "metadata": {
     "github_url": "https://github.com/psg2/pi-transcript",
-    "repo_full_name": "psg2/pi-transcript",
+    "npm_name": "@psg2/pi-transcript",
     "description": "Convert pi coding agent sessions to clean, mobile-friendly HTML transcripts",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "topics": [],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-02-24T20:28:05Z",
-    "pushed_at": "2026-03-16T01:39:15Z",
-    "updated_at": "2026-03-16T01:39:18Z",
-    "size": 77,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "claude",
+      "transcript",
+      "html",
+      "coding-agent"
+    ],
+    "version": "2.2.0",
+    "published_at": "2026-03-04T22:26:26.573Z",
+    "npm_downloads_monthly": 87,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 18.530687,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "health": {
     "score": 30,

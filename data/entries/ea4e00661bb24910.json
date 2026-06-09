@@ -1,0 +1,36 @@
+{
+  "id": "pi-killswitch",
+  "name": "pi-killswitch",
+  "url": "https://www.npmjs.com/package/pi-killswitch",
+  "source": "npm-search",
+  "description": "☠️ Killswitch - Keep Pi runs controlled with automatic context-budget wrap-up and kill thresholds.",
+  "metadata": {
+    "github_url": "https://github.com/boadij/pi-killswitch",
+    "repo_full_name": "boadij/pi-killswitch",
+    "description": "☠️ Killswitch - Keep Pi runs controlled with automatic context-budget wrap-up and kill thresholds.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "context-budget",
+      "context-window",
+      "killswitch",
+      "llm",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "run-control",
+      "token-limit"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-08T14:24:41Z",
+    "pushed_at": "2026-06-08T15:26:43Z",
+    "updated_at": "2026-06-08T15:27:57Z",
+    "size": 477,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -9,8 +9,8 @@
     "repo_full_name": "psg2/pi-costs",
     "description": "Analyze cost and token usage from pi coding agent sessions",
     "stars": 1,
-    "forks": 0,
-    "open_issues": 0,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
@@ -19,7 +19,7 @@
     "updated_at": "2026-04-19T20:57:24Z",
     "size": 18,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
     "score": 33,

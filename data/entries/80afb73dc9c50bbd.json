@@ -10,7 +10,7 @@
     "description": "Langfuse observability extension for Pi coding agent. Sends traces to Langfuse for monitoring tokens, costs, model, and tool calls. Install: pi install npm:@ravan08/pi-langfuse",
     "stars": 1,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

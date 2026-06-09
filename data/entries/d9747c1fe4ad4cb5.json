@@ -1,0 +1,28 @@
+{
+  "id": "pi-mixlayer",
+  "name": "pi-mixlayer",
+  "url": "https://www.npmjs.com/package/pi-mixlayer",
+  "source": "npm-search",
+  "description": "Mixlayer provider extension for pi.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-mixlayer",
+    "description": "Mixlayer provider extension for pi.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-provider",
+      "mixlayer"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-07T01:49:51.801Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "HaDaSimSim-pi-skills",
+  "name": "HaDaSimSim-pi-skills",
+  "url": "https://github.com/HaDaSimSim/pi-skills",
+  "source": "github-search",
+  "description": "Go skill binaries + TypeScript extensions for the pi coding agent, installed into ~/.pi/agent/ by one Makefile",
+  "metadata": {
+    "github_url": "https://github.com/HaDaSimSim/pi-skills",
+    "repo_full_name": "HaDaSimSim/pi-skills",
+    "description": "Go skill binaries + TypeScript extensions for the pi coding agent, installed into ~/.pi/agent/ by one Makefile",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "developer-tools",
+      "golang",
+      "pi",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-31T08:58:21Z",
+    "pushed_at": "2026-06-08T05:48:43Z",
+    "updated_at": "2026-06-08T05:48:47Z",
+    "size": 268,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

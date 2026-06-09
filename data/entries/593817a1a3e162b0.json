@@ -1,0 +1,26 @@
+{
+  "id": "@mammothb/pi-tokyonight-storm",
+  "name": "@mammothb/pi-tokyonight-storm",
+  "url": "https://www.npmjs.com/package/@mammothb/pi-tokyonight-storm",
+  "source": "npm-search",
+  "description": "Tokyo Night Storm theme for pi coding agent — colors corrected to match folke/tokyonight.nvim",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@mammothb/pi-tokyonight-storm",
+    "description": "Tokyo Night Storm theme for pi coding agent — colors corrected to match folke/tokyonight.nvim",
+    "keywords": [
+      "pi-package",
+      "pi-theme"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-06-07T04:59:59.966Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "theme"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pi-undo-redo",
+  "name": "pi-undo-redo",
+  "url": "https://www.npmjs.com/package/pi-undo-redo",
+  "source": "npm-search",
+  "description": "Undo/redo for Pi conversations and workspace changes with hybrid git and non-git snapshots.",
+  "metadata": {
+    "github_url": "https://github.com/Yueby/pi-undo-redo",
+    "npm_name": "pi-undo-redo",
+    "description": "Undo/redo for Pi conversations and workspace changes with hybrid git and non-git snapshots.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "opencode",
+      "undo",
+      "redo",
+      "snapshot",
+      "rollback"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-06-04T14:14:05.241Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

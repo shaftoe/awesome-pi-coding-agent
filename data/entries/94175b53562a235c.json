@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Agents should invoke this skill to create, update, or implement standardized PATCH.md documents that describe reproducible source code patches.",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/Firstp1ck/npm-packages",
     "npm_name": "@firstpick/pi-skill-patch-md",
     "description": "Agents should invoke this skill to create, update, or implement standardized PATCH.md documents that describe reproducible source code patches.",
     "keywords": [
@@ -17,11 +17,11 @@
       "patch",
       "patch-md"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-05-27T15:18:23.622Z",
+    "version": "0.1.2",
+    "published_at": "2026-06-08T21:36:52.014Z",
     "npm_downloads_monthly": 83,
     "npm_downloads_weekly": 83,
-    "npm_score_final": 15.81965,
+    "npm_score_final": 14.436281,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

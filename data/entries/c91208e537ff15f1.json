@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_vibecodinghub.org_pi-coding-agent",
+  "name": "Pi Review - Minimal open-source terminal coding agent focused on extensibility, tree-structured sessions, and shell-native repo workflows.",
+  "url": "https://vibecodinghub.org/tools/pi-coding-agent",
+  "source": "brave-web-search",
+  "description": "Pi is Mario Zechner's open-source terminal coding agent for developers who want a coding harness they can bend to their workflow instead of another locked IDE shell. The official docs emphasize extensibility through TypeScript extensions, skills, prompt templates, themes, packages, SDK, and ...",
+  "metadata": {
+    "title": "Pi Review - Minimal open-source terminal coding agent focused on extensibility, tree-structured sessions, and shell-native repo workflows.",
+    "name": "Pi Review - Minimal open-source terminal coding agent focused on extensibility, tree-structured sessions, and shell-native repo workflows.",
+    "description": "Pi is Mario Zechner's open-source terminal coding agent for developers who want a coding harness they can bend to their workflow instead of another locked IDE shell. The official docs emphasize extensibility through TypeScript extensions, skills, prompt templates, themes, packages, SDK, and ...",
+    "published_at": "2026-04-06T00:00:00",
+    "source_site": "Vibecodinghub",
+    "source_url": "https://vibecodinghub.org/tools/pi-coding-agent",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

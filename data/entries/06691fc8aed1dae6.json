@@ -1,0 +1,25 @@
+{
+  "id": "gorazenxu-pimate",
+  "name": "gorazenxu-pimate",
+  "url": "https://github.com/gorazenxu/pimate",
+  "source": "github-search",
+  "description": "Pisidian Pi Coding Agent for Obsidian",
+  "metadata": {
+    "github_url": "https://github.com/gorazenxu/pimate",
+    "repo_full_name": "gorazenxu/pimate",
+    "description": "Pisidian Pi Coding Agent for Obsidian",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-02T16:03:26Z",
+    "pushed_at": "2026-06-08T14:36:53Z",
+    "updated_at": "2026-06-08T14:39:50Z",
+    "size": 1412,
+    "license": "GPL-3.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

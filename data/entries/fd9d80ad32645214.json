@@ -9,7 +9,7 @@
     "repo_full_name": "jmcombs/pi-extensions",
     "description": "A monorepo of high-quality extensions for the Pi coding agent.",
     "stars": 0,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 2,
     "topics": [
       "coding-agent",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-03T20:53:55Z",
-    "pushed_at": "2026-06-01T20:46:29Z",
-    "updated_at": "2026-06-01T20:46:31Z",
-    "size": 5045,
+    "pushed_at": "2026-06-07T21:06:23Z",
+    "updated_at": "2026-06-07T21:06:17Z",
+    "size": 5086,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Agents should invoke this skill before modifying unfamiliar codebases, answering where/how something is implemented, tracing dependencies, mapping repo structure, or planning changes. Explores a repository and returns a strict JSON handoff with key files,",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/Firstp1ck/npm-packages",
     "npm_name": "@firstpick/pi-skill-repo-explorer",
     "description": "Agents should invoke this skill before modifying unfamiliar codebases, answering where/how something is implemented, tracing dependencies, mapping repo structure, or planning changes. Explores a repository and returns a strict JSON handoff with key files,",
     "keywords": [
@@ -17,11 +17,11 @@
       "extension",
       "repo-explorer"
     ],
-    "version": "0.1.5",
-    "published_at": "2026-06-01T16:13:07.518Z",
-    "npm_downloads_monthly": 696,
-    "npm_downloads_weekly": 319,
-    "npm_score_final": 24.259338,
+    "version": "0.1.7",
+    "published_at": "2026-06-08T21:37:00.844Z",
+    "npm_downloads_monthly": 833,
+    "npm_downloads_weekly": 449,
+    "npm_score_final": 24.14805,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
