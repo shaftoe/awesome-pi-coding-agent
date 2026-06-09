@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.5.3] - 2026-06-09
+
+### Fixed
+
+- keep validation prompt under action limits (#124)
+
 ## [2.5.2] - 2026-06-04
 
 ### Changed
@@ -249,6 +255,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove skills category
 - replace @types/bun with pinned bun-types to fix typecheck (#6)
 
+[2.5.3]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.5.2...v2.5.3
 [2.5.2]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.5.1...v2.5.2
 [2.5.1]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.5.0...v2.5.1
 [2.5.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.4.0...v2.5.0
