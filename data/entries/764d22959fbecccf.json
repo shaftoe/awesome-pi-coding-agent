@@ -1,0 +1,25 @@
+{
+  "id": "thelastpolaris-pi-kit",
+  "name": "thelastpolaris-pi-kit",
+  "url": "https://github.com/thelastpolaris/pi-kit",
+  "source": "github-search",
+  "description": "Shared Pi extensions and skills package",
+  "metadata": {
+    "github_url": "https://github.com/thelastpolaris/pi-kit",
+    "repo_full_name": "thelastpolaris/pi-kit",
+    "description": "Shared Pi extensions and skills package",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-04T13:08:24Z",
+    "pushed_at": "2026-06-04T13:08:33Z",
+    "updated_at": "2026-06-04T13:08:38Z",
+    "size": 3140,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

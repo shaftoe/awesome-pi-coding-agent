@@ -8,7 +8,7 @@
     "github_url": "https://github.com/kylebrodeur/pi-agent-bus",
     "repo_full_name": "kylebrodeur/pi-agent-bus",
     "description": "Agent orchestration runtime with MessageBus pub/sub coordination for the Pi coding agent ecosystem. Monorepo containing pi-agent-bus-node (core) and pi-agent-bus (Pi extension).",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-23T15:03:59Z",
-    "pushed_at": "2026-04-26T04:15:57Z",
-    "updated_at": "2026-04-29T08:49:47Z",
-    "size": 211,
+    "pushed_at": "2026-06-05T17:53:44Z",
+    "updated_at": "2026-06-07T16:29:00Z",
+    "size": 271,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

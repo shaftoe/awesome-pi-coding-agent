@@ -1,0 +1,25 @@
+{
+  "id": "@cad0p/pi-timestamps",
+  "name": "@cad0p/pi-timestamps",
+  "url": "https://www.npmjs.com/package/@cad0p/pi-timestamps",
+  "source": "npm-search",
+  "description": "Inline UTC timestamps for every message in pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/cad0p/pi-timestamps",
+    "repo_full_name": "cad0p/pi-timestamps",
+    "description": "Inline UTC timestamps for every message in pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-05T21:58:16Z",
+    "pushed_at": "2026-06-06T02:46:28Z",
+    "updated_at": "2026-06-06T02:46:30Z",
+    "size": 34,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

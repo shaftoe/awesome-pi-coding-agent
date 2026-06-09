@@ -1,0 +1,25 @@
+{
+  "id": "richardthombs-pi2pi",
+  "name": "richardthombs-pi2pi",
+  "url": "https://github.com/richardthombs/pi2pi",
+  "source": "github-search",
+  "description": "Peer-to-peer messaging between pi coding agent instances",
+  "metadata": {
+    "github_url": "https://github.com/richardthombs/pi2pi",
+    "repo_full_name": "richardthombs/pi2pi",
+    "description": "Peer-to-peer messaging between pi coding agent instances",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-04T16:15:50Z",
+    "pushed_at": "2026-06-09T14:07:54Z",
+    "updated_at": "2026-06-09T05:56:52Z",
+    "size": 193,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

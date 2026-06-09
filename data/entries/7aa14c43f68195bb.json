@@ -10,7 +10,7 @@
     "description": " Pi coding agent extension to enrich footer with DeepSeek current usage ",
     "stars": 3,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "deepseek",
       "pi-coding-agent",
@@ -19,9 +19,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-13T12:58:20Z",
-    "pushed_at": "2026-06-01T15:44:45Z",
-    "updated_at": "2026-06-01T15:59:53Z",
-    "size": 129,
+    "pushed_at": "2026-06-08T09:35:15Z",
+    "updated_at": "2026-06-08T09:35:36Z",
+    "size": 199,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

@@ -1,0 +1,25 @@
+{
+  "id": "joelhooks-pi-notes",
+  "name": "joelhooks-pi-notes",
+  "url": "https://github.com/joelhooks/pi-notes",
+  "source": "github-search",
+  "description": "🧠 Local Brain review pages for Pi: data-backed notes, Svelte renderers, and browser-to-agent feedback.",
+  "metadata": {
+    "github_url": "https://github.com/joelhooks/pi-notes",
+    "repo_full_name": "joelhooks/pi-notes",
+    "description": "🧠 Local Brain review pages for Pi: data-backed notes, Svelte renderers, and browser-to-agent feedback.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-16T23:57:30Z",
+    "pushed_at": "2026-06-08T17:28:01Z",
+    "updated_at": "2026-06-08T17:28:06Z",
+    "size": 588,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

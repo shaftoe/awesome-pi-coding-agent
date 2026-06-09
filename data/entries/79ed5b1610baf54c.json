@@ -8,7 +8,7 @@
     "github_url": "https://github.com/code-yeongyu/pi-bash-timeout",
     "repo_full_name": "code-yeongyu/pi-bash-timeout",
     "description": "Bash timeout policy extension for the pi coding agent",
-    "stars": 1,
+    "stars": 2,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-05-01T08:14:08Z",
     "pushed_at": "2026-05-18T07:19:13Z",
-    "updated_at": "2026-05-18T07:19:17Z",
+    "updated_at": "2026-06-06T09:48:50Z",
     "size": 55,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

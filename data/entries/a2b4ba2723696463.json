@@ -9,8 +9,8 @@
     "repo_full_name": "lukaspanni/pi-execution-time",
     "description": "Pi extension that shows live task execution time in the footer",
     "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "pi",
       "pi-extension",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-25T08:57:03Z",
-    "pushed_at": "2026-04-25T09:13:55Z",
-    "updated_at": "2026-04-25T09:13:59Z",
-    "size": 74,
+    "pushed_at": "2026-04-30T15:05:04Z",
+    "updated_at": "2026-04-30T15:05:08Z",
+    "size": 109,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

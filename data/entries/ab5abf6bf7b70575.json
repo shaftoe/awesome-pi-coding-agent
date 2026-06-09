@@ -3,23 +3,31 @@
   "name": "pi-skill-guard",
   "url": "https://www.npmjs.com/package/pi-skill-guard",
   "source": "npm-search",
-  "description": "Pi extension for protecting against incorrect skill-in-tool-call behavior",
+  "description": "Pi extension that guards against common LLM tool call mistakes: missing skill documentation injection, unknown tool bash fallback, and argument normalization",
   "metadata": {
-    "github_url": null,
-    "npm_name": "pi-skill-guard",
-    "description": "Pi extension for protecting against incorrect skill-in-tool-call behavior",
-    "keywords": [
-      "pi-package"
+    "github_url": "https://github.com/tychenjiajun/pi-skill-guard",
+    "repo_full_name": "tychenjiajun/pi-skill-guard",
+    "description": "Pi extension that guards against common LLM tool call mistakes: missing skill documentation injection, unknown tool bash fallback, and argument normalization",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "argument-normalization",
+      "bash-fallback",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "skill-guard",
+      "tool-correction"
     ],
-    "version": "0.0.1",
-    "published_at": "2026-04-30T07:48:35.253Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
-    "npm_score_popularity": 1,
-    "npm_score_quality": 1,
-    "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-30T07:46:10Z",
+    "pushed_at": "2026-05-23T14:49:42Z",
+    "updated_at": "2026-05-27T09:59:29Z",
+    "size": 185,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
     "score": 82,

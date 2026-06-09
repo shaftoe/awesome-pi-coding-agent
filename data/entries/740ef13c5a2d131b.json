@@ -1,0 +1,25 @@
+{
+  "id": "mapleluvr-pi-ui-ux-pro-max",
+  "name": "mapleluvr-pi-ui-ux-pro-max",
+  "url": "https://github.com/mapleluvr/pi-ui-ux-pro-max",
+  "source": "github-search",
+  "description": "Pi extension and skill package for UI/UX Pro Max design intelligence.",
+  "metadata": {
+    "github_url": "https://github.com/mapleluvr/pi-ui-ux-pro-max",
+    "repo_full_name": "mapleluvr/pi-ui-ux-pro-max",
+    "description": "Pi extension and skill package for UI/UX Pro Max design intelligence.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-07T06:17:55Z",
+    "pushed_at": "2026-06-07T06:18:05Z",
+    "updated_at": "2026-06-07T06:18:09Z",
+    "size": 386,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -8,8 +8,8 @@
     "github_url": "https://github.com/wilfredinni/pi-openplan",
     "repo_full_name": "wilfredinni/pi-openplan",
     "description": "Read-only plan mode for pi — structured planning, phased execution, and token optimization ",
-    "stars": 4,
-    "forks": 0,
+    "stars": 5,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "agents",
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-05-28T20:21:58Z",
     "pushed_at": "2026-06-03T19:57:59Z",
-    "updated_at": "2026-06-04T00:17:08Z",
+    "updated_at": "2026-06-05T21:36:29Z",
     "size": 423,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

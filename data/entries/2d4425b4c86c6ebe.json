@@ -8,7 +8,7 @@
     "github_url": "https://github.com/mfmezger/pi-cmdr",
     "repo_full_name": "mfmezger/pi-cmdr",
     "description": "Commands for Pi coding agent.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-24T02:53:48Z",
     "pushed_at": "2026-04-27T18:50:24Z",
-    "updated_at": "2026-04-27T18:50:29Z",
+    "updated_at": "2026-05-11T18:25:45Z",
     "size": 56,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,33 @@
+{
+  "id": "SamuNatsu-wechat-pi-acp",
+  "name": "SamuNatsu-wechat-pi-acp",
+  "url": "https://github.com/SamuNatsu/wechat-pi-acp",
+  "source": "github-search",
+  "description": "WeChat-to-Pi ACP bridge — connect WeChat to Pi agent via QR login",
+  "metadata": {
+    "github_url": "https://github.com/SamuNatsu/wechat-pi-acp",
+    "repo_full_name": "SamuNatsu/wechat-pi-acp",
+    "description": "WeChat-to-Pi ACP bridge — connect WeChat to Pi agent via QR login",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "acp",
+      "agent",
+      "ai",
+      "pi",
+      "pi-acp",
+      "pi-agent",
+      "wechat"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-08T12:57:15Z",
+    "pushed_at": "2026-06-09T12:19:23Z",
+    "updated_at": "2026-06-09T12:21:19Z",
+    "size": 212,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

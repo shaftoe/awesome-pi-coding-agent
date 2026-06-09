@@ -8,7 +8,7 @@
     "github_url": "https://github.com/netandreus/pi-auto",
     "repo_full_name": "netandreus/pi-auto",
     "description": "pi-auto is a Pi package that provides the pi-auto MCP server and a Skill for pi-coding-agent: usage data from @ccusage/pi and tools to switch the active provider by strategy — load-balancing (equalize usage across backends) or high-availability (fixed priority order).",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-20T11:14:43Z",
     "pushed_at": "2026-02-21T18:06:04Z",
-    "updated_at": "2026-02-21T18:06:08Z",
+    "updated_at": "2026-05-04T13:26:23Z",
     "size": 1668,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

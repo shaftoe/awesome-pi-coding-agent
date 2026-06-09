@@ -1,0 +1,32 @@
+{
+  "id": "openlore",
+  "name": "openlore",
+  "url": "https://www.npmjs.com/package/openlore",
+  "source": "npm-search",
+  "description": "Persistent architectural memory and structural cognition for AI coding agents.",
+  "metadata": {
+    "github_url": "https://github.com/clay-good/openlore",
+    "npm_name": "openlore",
+    "description": "Persistent architectural memory and structural cognition for AI coding agents.",
+    "keywords": [
+      "openspec",
+      "spec-driven",
+      "code-analysis",
+      "documentation",
+      "reverse-engineering",
+      "specification",
+      "cli",
+      "pi-package"
+    ],
+    "version": "2.0.14",
+    "published_at": "2026-06-09T01:38:03.739Z",
+    "npm_downloads_monthly": 1604,
+    "npm_downloads_weekly": 1013,
+    "npm_score_final": 27.36524,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

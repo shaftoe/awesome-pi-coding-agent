@@ -8,7 +8,7 @@
     "github_url": "https://github.com/SaintNerona/pi-reddit-research",
     "repo_full_name": "SaintNerona/pi-reddit-research",
     "description": "Reddit JSON research tools and skill for pi coding agent",
-    "stars": 13,
+    "stars": 14,
     "forks": 2,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-07T09:44:29Z",
     "pushed_at": "2026-05-08T10:08:40Z",
-    "updated_at": "2026-05-23T06:42:21Z",
+    "updated_at": "2026-06-05T19:43:09Z",
     "size": 22,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

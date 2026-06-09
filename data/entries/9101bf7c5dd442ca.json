@@ -3,24 +3,24 @@
   "name": "@schilderlabs/pitown-package",
   "url": "https://www.npmjs.com/package/@schilderlabs/pitown-package",
   "source": "npm-search",
-  "description": "Globally installable CLI for Pi Town",
+  "description": "Pi package resources for Pi Town",
   "metadata": {
     "github_url": "https://github.com/RobSchilderr/pitown",
-    "npm_name": "@schilderlabs/pitown",
-    "description": "Globally installable CLI for Pi Town",
+    "npm_name": "@schilderlabs/pitown-package",
+    "description": "Pi package resources for Pi Town",
     "keywords": [
-      "automation",
-      "cli",
+      "agents",
+      "night-shift",
       "orchestration",
+      "pi",
       "pi-package",
-      "pi-town",
       "pitown"
     ],
     "version": "0.2.7",
-    "published_at": "2026-03-16T21:14:21.254Z",
-    "npm_downloads_monthly": 51,
-    "npm_downloads_weekly": 15,
-    "npm_score_final": 14.975736,
+    "published_at": "2026-03-16T21:14:19.988Z",
+    "npm_downloads_monthly": 26,
+    "npm_downloads_weekly": 1,
+    "npm_score_final": 10.16086,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
@@ -30,5 +30,5 @@
     "score": 69,
     "level": "maintained"
   },
-  "category": "misc"
+  "category": "extension"
 }

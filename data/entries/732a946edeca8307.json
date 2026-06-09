@@ -1,0 +1,25 @@
+{
+  "id": "sebastianrowek-pi-coding-agent",
+  "name": "sebastianrowek-pi-coding-agent",
+  "url": "https://github.com/sebastianrowek/pi-coding-agent",
+  "source": "github-search",
+  "description": "Customized fork of Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/sebastianrowek/pi-coding-agent",
+    "repo_full_name": "sebastianrowek/pi-coding-agent",
+    "description": "Customized fork of Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-04T05:17:50Z",
+    "pushed_at": "2026-06-09T05:52:44Z",
+    "updated_at": "2026-06-09T05:53:27Z",
+    "size": 47995,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

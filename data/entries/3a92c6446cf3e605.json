@@ -1,0 +1,30 @@
+{
+  "id": "pi-scheduled-router",
+  "name": "pi-scheduled-router",
+  "url": "https://www.npmjs.com/package/pi-scheduled-router",
+  "source": "npm-search",
+  "description": "Switch Pi's AI provider and model based on time of day via YAML time-slot configuration.",
+  "metadata": {
+    "github_url": "https://github.com/eiei114/pi-scheduled-router",
+    "npm_name": "pi-scheduled-router",
+    "description": "Switch Pi's AI provider and model based on time of day via YAML time-slot configuration.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "agent-skill",
+      "typescript",
+      "model-router",
+      "scheduled"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-06-08T01:11:50.101Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

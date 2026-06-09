@@ -1,0 +1,30 @@
+{
+  "id": "pi-prompt-control",
+  "name": "pi-prompt-control",
+  "url": "https://www.npmjs.com/package/pi-prompt-control",
+  "source": "npm-search",
+  "description": "Manage and minimize Pi's system prompt — config-driven patches, interactive skill toggle, and probe-based prompt capture.",
+  "metadata": {
+    "github_url": "https://github.com/sylac/pi-prompt-control",
+    "npm_name": "pi-prompt-control",
+    "description": "Manage and minimize Pi's system prompt — config-driven patches, interactive skill toggle, and probe-based prompt capture.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "prompt",
+      "extension",
+      "system-prompt",
+      "skills"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-06-09T09:46:59.689Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

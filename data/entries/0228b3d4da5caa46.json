@@ -1,0 +1,25 @@
+{
+  "id": "Bill-vvv-Pi-Coding-Agent-GUI",
+  "name": "Bill-vvv-Pi-Coding-Agent-GUI",
+  "url": "https://github.com/Bill-vvv/Pi-Coding-Agent-GUI",
+  "source": "github-search",
+  "description": "Desktop/web GUI for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/Bill-vvv/Pi-Coding-Agent-GUI",
+    "repo_full_name": "Bill-vvv/Pi-Coding-Agent-GUI",
+    "description": "Desktop/web GUI for Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-07T20:36:37Z",
+    "pushed_at": "2026-06-07T21:13:35Z",
+    "updated_at": "2026-06-07T21:13:44Z",
+    "size": 699,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

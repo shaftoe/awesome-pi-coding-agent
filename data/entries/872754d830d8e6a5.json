@@ -3,11 +3,11 @@
   "name": "@lokiyou/modelscope-vision",
   "url": "https://www.npmjs.com/package/@lokiyou/modelscope-vision",
   "source": "npm-search",
-  "description": "Pi Coding Agent extension: vision/image understanding via ModelScope API. Slash-command configuration for API key and model.",
+  "description": "Simple image understanding for Pi Coding Agent. Install it, set your API key, and ask normal questions about images.",
   "metadata": {
     "github_url": null,
     "npm_name": "@lokiyou/modelscope-vision",
-    "description": "Pi Coding Agent extension: vision/image understanding via ModelScope API. Slash-command configuration for API key and model.",
+    "description": "Simple image understanding for Pi Coding Agent. Install it, set your API key, and ask normal questions about images.",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -16,8 +16,8 @@
       "image",
       "multi-modal"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-06-03T00:43:48.058Z",
+    "version": "0.1.3",
+    "published_at": "2026-06-04T02:20:14.794Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

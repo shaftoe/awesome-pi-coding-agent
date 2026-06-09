@@ -1,0 +1,25 @@
+{
+  "id": "maximilianhagerf-pi-ralph",
+  "name": "maximilianhagerf-pi-ralph",
+  "url": "https://github.com/maximilianhagerf/pi-ralph",
+  "source": "github-search",
+  "description": "Ralph autonomous coding agent extension for pi",
+  "metadata": {
+    "github_url": "https://github.com/maximilianhagerf/pi-ralph",
+    "repo_full_name": "maximilianhagerf/pi-ralph",
+    "description": "Ralph autonomous coding agent extension for pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-04T12:16:03Z",
+    "pushed_at": "2026-06-04T13:53:53Z",
+    "updated_at": "2026-06-04T13:52:38Z",
+    "size": 56,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

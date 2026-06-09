@@ -1,0 +1,43 @@
+{
+  "id": "Egonex-AI-Understand-Anything",
+  "name": "Egonex-AI-Understand-Anything",
+  "url": "https://github.com/Egonex-AI/Understand-Anything",
+  "source": "github-search",
+  "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+  "metadata": {
+    "github_url": "https://github.com/Egonex-AI/Understand-Anything",
+    "repo_full_name": "Egonex-AI/Understand-Anything",
+    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "stars": 55737,
+    "forks": 4618,
+    "open_issues": 188,
+    "topics": [
+      "antigravity-skills",
+      "business-knowledge",
+      "claude-code",
+      "claude-skills",
+      "codebase-analysis",
+      "codex",
+      "codex-skills",
+      "developer-tools-ai-agent",
+      "gemini-cli-skills",
+      "karpathy-llm-wiki",
+      "knowledge-base",
+      "knowledge-graph",
+      "memory",
+      "opencode-skills",
+      "pi-agent",
+      "understandcode",
+      "vibe-coding"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-15T02:30:51Z",
+    "pushed_at": "2026-06-09T05:25:10Z",
+    "updated_at": "2026-06-09T14:29:57Z",
+    "size": 32978,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

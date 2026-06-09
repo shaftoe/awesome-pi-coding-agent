@@ -8,9 +8,9 @@
     "github_url": "https://github.com/ArtemisAI/pi-loop",
     "repo_full_name": "ArtemisAI/pi-loop",
     "description": "Recurring prompt scheduling and cron job management for pi-coding-agent",
-    "stars": 3,
-    "forks": 0,
-    "open_issues": 0,
+    "stars": 7,
+    "forks": 2,
+    "open_issues": 1,
     "topics": [
       "automation",
       "cron",
@@ -27,7 +27,7 @@
     "archived": false,
     "created_at": "2026-04-13T18:30:18Z",
     "pushed_at": "2026-04-17T17:45:13Z",
-    "updated_at": "2026-04-24T17:25:38Z",
+    "updated_at": "2026-05-09T23:56:06Z",
     "size": 9411,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

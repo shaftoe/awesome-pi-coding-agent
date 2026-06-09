@@ -8,9 +8,9 @@
     "github_url": "https://github.com/patlux/pi-commandcode-provider",
     "repo_full_name": "patlux/pi-commandcode-provider",
     "description": "pi custom provider for the Command Code API — 18 models including Claude, GPT, DeepSeek, Kimi, GLM, MiniMax, and Qwen",
-    "stars": 30,
-    "forks": 10,
-    "open_issues": 4,
+    "stars": 37,
+    "forks": 15,
+    "open_issues": 5,
     "topics": [
       "ai",
       "commandcode",
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-05-05T11:37:11Z",
     "pushed_at": "2026-06-02T08:59:59Z",
-    "updated_at": "2026-06-03T18:50:04Z",
+    "updated_at": "2026-06-08T11:16:54Z",
     "size": 277,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

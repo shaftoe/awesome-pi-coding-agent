@@ -1,0 +1,25 @@
+{
+  "id": "thiennamdinh-pi-config",
+  "name": "thiennamdinh-pi-config",
+  "url": "https://github.com/thiennamdinh/pi-config",
+  "source": "github-search",
+  "description": "Configuration documents for PI Coding agent",
+  "metadata": {
+    "github_url": "https://github.com/thiennamdinh/pi-config",
+    "repo_full_name": "thiennamdinh/pi-config",
+    "description": "Configuration documents for PI Coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-28T06:22:15Z",
+    "pushed_at": "2026-06-08T00:31:11Z",
+    "updated_at": "2026-06-08T00:31:18Z",
+    "size": 70,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

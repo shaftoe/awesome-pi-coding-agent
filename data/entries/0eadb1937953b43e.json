@@ -8,7 +8,7 @@
     "github_url": "https://github.com/gandazgul/pi-mnemosyne",
     "repo_full_name": "gandazgul/pi-mnemosyne",
     "description": "A Pi agent extension for Mnemosyne",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-04T21:50:59Z",
     "pushed_at": "2026-04-25T22:07:13Z",
-    "updated_at": "2026-04-25T22:07:18Z",
+    "updated_at": "2026-06-01T06:33:54Z",
     "size": 38,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

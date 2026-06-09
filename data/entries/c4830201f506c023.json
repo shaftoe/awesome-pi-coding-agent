@@ -10,7 +10,7 @@
     "description": "Monorepo with customs pi extensions.",
     "stars": 3,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "pi-agent",
       "pi-extension",

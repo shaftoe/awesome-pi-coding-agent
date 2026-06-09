@@ -8,7 +8,7 @@
     "github_url": "https://github.com/cemoody/pi-crust",
     "repo_full_name": "cemoody/pi-crust",
     "description": "Mobile-first self-hosted web control plane for many concurrent Pi coding-agent sessions",
-    "stars": 5,
+    "stars": 6,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-11T18:54:25Z",
     "pushed_at": "2026-06-03T22:05:54Z",
-    "updated_at": "2026-06-03T22:05:59Z",
+    "updated_at": "2026-06-07T14:43:54Z",
     "size": 54322,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

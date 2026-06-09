@@ -1,0 +1,30 @@
+{
+  "id": "@raquezha/noagy",
+  "name": "@raquezha/noagy",
+  "url": "https://www.npmjs.com/package/@raquezha/noagy",
+  "source": "npm-search",
+  "description": "OAuth login provider extension for Google Antigravity models in the Pi Coding Agent",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@raquezha/noagy",
+    "description": "OAuth login provider extension for Google Antigravity models in the Pi Coding Agent",
+    "keywords": [
+      "pi-agent",
+      "antigravity",
+      "oauth",
+      "google",
+      "provider",
+      "pi-package"
+    ],
+    "version": "0.0.3",
+    "published_at": "2026-06-09T08:19:52.457Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

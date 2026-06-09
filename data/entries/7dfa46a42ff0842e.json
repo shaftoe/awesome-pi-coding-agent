@@ -1,0 +1,32 @@
+{
+  "id": "@yusukeshib/pi-stash",
+  "name": "@yusukeshib/pi-stash",
+  "url": "https://www.npmjs.com/package/@yusukeshib/pi-stash",
+  "source": "npm-search",
+  "description": "A personal stash of reusable prompt fragments for the Pi coding agent. Push prompts you think of mid-task, then pop them into the editor when you need them.",
+  "metadata": {
+    "github_url": "https://github.com/yusukeshib/pi-stash",
+    "npm_name": "@yusukeshib/pi-stash",
+    "description": "A personal stash of reusable prompt fragments for the Pi coding agent. Push prompts you think of mid-task, then pop them into the editor when you need them.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "prompt",
+      "stash",
+      "snippets",
+      "productivity"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-06T17:10:16.794Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
