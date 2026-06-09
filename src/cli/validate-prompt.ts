@@ -6,40 +6,55 @@
  * Also used by the CI pipeline to inject the prompt into the
  * Pi coding-agent action without hardcoding it in the YAML.
  *
- * Appends a git diff section (modified tracked files + untracked new files)
- * so the LLM knows exactly which files changed without having to figure it out itself.
+ * Appends the entry files that need semantic validation. Bulk metric updates are
+ * intentionally omitted so the GitHub Action input stays below process limits.
  */
-import { execSync } from "node:child_process";
+import { execFileSync } from "node:child_process";
 import { VALIDATE_PROMPT } from "../core/validate-prompt";
 
-// Collect modified tracked files
-let diffStat = "";
-try {
-	diffStat = execSync("git diff --stat", {
-		encoding: "utf-8",
-		stdio: ["pipe", "pipe", "pipe"],
-	}).trim();
-} catch {
-	// Not in a git repo or no diff — that's fine
+function git(args: string[]): string {
+	try {
+		return execFileSync("git", args, {
+			encoding: "utf-8",
+			stdio: ["pipe", "pipe", "pipe"],
+		}).trim();
+	} catch {
+		return "";
+	}
 }
 
-// Collect new untracked files (e.g. newly discovered entries)
-let untracked = "";
-try {
-	untracked = execSync("git ls-files --others --exclude-standard", {
-		encoding: "utf-8",
-		stdio: ["pipe", "pipe", "pipe"],
-	}).trim();
-} catch {
-	// Not in a git repo — that's fine
+function entryPathsFrom(output: string): string[] {
+	if (!output) return [];
+	return output
+		.split("\n")
+		.map((path) => path.trim())
+		.filter((path) => path.startsWith("data/entries/") && path.endsWith(".json"));
 }
+
+const modifiedEntries = entryPathsFrom(
+	git([
+		"diff",
+		"--name-only",
+		"--diff-filter=AM",
+		"-G",
+		'"(name|description|url|category)"',
+		"--",
+		"data/entries",
+	]),
+);
+
+const newEntries = entryPathsFrom(
+	git(["ls-files", "--others", "--exclude-standard", "--", "data/entries"]),
+);
+
+const entriesToValidate = Array.from(new Set([...modifiedEntries, ...newEntries])).sort();
 
 let prompt = VALIDATE_PROMPT;
-if (diffStat || untracked) {
-	let section = "\n\nChanged files:";
-	if (diffStat) section += `\n\nModified:\n${diffStat}\n`;
-	if (untracked) section += `\n\nNew (untracked):\n${untracked}\n`;
-	prompt += section;
+if (entriesToValidate.length > 0) {
+	prompt += `\n\nEntry files requiring validation:\n${entriesToValidate.join("\n")}`;
+} else {
+	prompt +=
+		"\n\nNo entry files require semantic validation; only generated metadata or popularity metrics changed.";
 }
 
 process.stdout.write(prompt);
