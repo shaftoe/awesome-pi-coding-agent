@@ -8,7 +8,7 @@
     "github_url": "https://github.com/injaneity/pi-computer-use",
     "repo_full_name": "injaneity/pi-computer-use",
     "description": "control your applications using pi-coding-agent. fully invisible.",
-    "stars": 583,
+    "stars": 584,
     "forks": 45,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-20T10:18:18Z",
     "pushed_at": "2026-06-05T10:35:26Z",
-    "updated_at": "2026-06-09T06:40:03Z",
+    "updated_at": "2026-06-09T21:40:44Z",
     "size": 30491,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

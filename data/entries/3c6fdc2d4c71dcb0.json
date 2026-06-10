@@ -9,7 +9,7 @@
     "repo_full_name": "rchern/pi-claude-cli",
     "description": "Pi coding agent extension that routes LLM calls through the Claude Code CLI",
     "stars": 63,
-    "forks": 14,
+    "forks": 15,
     "open_issues": 9,
     "topics": [],
     "language": "TypeScript",

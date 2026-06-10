@@ -8,7 +8,7 @@
     "github_url": "https://github.com/dannote/dot-pi",
     "repo_full_name": "dannote/dot-pi",
     "description": "Curated Pi package with extensions, skills, prompt shortcuts, and rules",
-    "stars": 39,
+    "stars": 41,
     "forks": 5,
     "open_issues": 1,
     "topics": [
@@ -27,9 +27,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-01-13T23:32:56Z",
-    "pushed_at": "2026-06-09T13:54:04Z",
-    "updated_at": "2026-06-09T14:06:35Z",
-    "size": 548,
+    "pushed_at": "2026-06-10T00:09:45Z",
+    "updated_at": "2026-06-10T00:09:49Z",
+    "size": 664,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

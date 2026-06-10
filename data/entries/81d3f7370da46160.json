@@ -1,0 +1,25 @@
+{
+  "id": "JaskoCoder-pi-org-bootstrap",
+  "name": "JaskoCoder-pi-org-bootstrap",
+  "url": "https://github.com/JaskoCoder/pi-org-bootstrap",
+  "source": "github-search",
+  "description": "Self-assembling autonomous agent framework for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/JaskoCoder/pi-org-bootstrap",
+    "repo_full_name": "JaskoCoder/pi-org-bootstrap",
+    "description": "Self-assembling autonomous agent framework for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-09T15:11:20Z",
+    "pushed_at": "2026-06-09T23:58:35Z",
+    "updated_at": "2026-06-09T23:58:39Z",
+    "size": 33,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

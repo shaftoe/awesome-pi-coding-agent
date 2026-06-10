@@ -1,0 +1,25 @@
+{
+  "id": "harms-haus-pi-ymir",
+  "name": "harms-haus-pi-ymir",
+  "url": "https://github.com/harms-haus/pi-ymir",
+  "source": "github-search",
+  "description": "pi-coding-agent extension: exposes agent status to ymir-terminal",
+  "metadata": {
+    "github_url": "https://github.com/harms-haus/pi-ymir",
+    "repo_full_name": "harms-haus/pi-ymir",
+    "description": "pi-coding-agent extension: exposes agent status to ymir-terminal",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-09T21:59:39Z",
+    "pushed_at": "2026-06-09T22:01:29Z",
+    "updated_at": "2026-06-09T22:01:36Z",
+    "size": 50,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

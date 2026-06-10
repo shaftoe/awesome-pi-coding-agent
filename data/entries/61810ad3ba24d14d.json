@@ -1,0 +1,29 @@
+{
+  "id": "oh-my-tps",
+  "name": "oh-my-tps",
+  "url": "https://www.npmjs.com/package/oh-my-tps",
+  "source": "npm-search",
+  "description": "Tiny live TTFT and TPS readouts for the Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/EnderLiquid/oh-my-tps",
+    "npm_name": "oh-my-tps",
+    "description": "Tiny live TTFT and TPS readouts for the Pi coding agent.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "tps",
+      "ttft"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-09T14:36:50.557Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
