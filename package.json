@@ -1,6 +1,6 @@
 {
   "name": "awesome-pi-coding-agent",
-  "version": "2.5.3",
+  "version": "2.5.4",
   "module": "src/index.ts",
   "type": "module",
   "private": true,

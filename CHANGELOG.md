@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.5.4] - 2026-06-10
+
+### Fixed
+
+- preserve higher-priority source metadata (#127)
+
 ## [2.5.3] - 2026-06-09
 
 ### Fixed
@@ -255,6 +261,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove skills category
 - replace @types/bun with pinned bun-types to fix typecheck (#6)
 
+[2.5.4]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.5.3...v2.5.4
 [2.5.3]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.5.2...v2.5.3
 [2.5.2]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.5.1...v2.5.2
 [2.5.1]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.5.0...v2.5.1
