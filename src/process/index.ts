@@ -16,42 +16,18 @@ import { getEntryRepo, saveEntry } from "../core/store.ts";
 import type { CategorizedEntry, DiscoveryCandidate, Entry } from "../core/types.ts";
 import { loadDiscoveryLines } from "../discover/writer.ts";
 import { classifyEntry } from "../enrich/classify.ts";
-import { extractId, getPriority } from "../sources/index.ts";
+import { extractId } from "../sources/index.ts";
+import { resolveDuplicateAction, sourcePriority } from "./duplicate-action.ts";
 
 const ROOT_DIR = join(import.meta.dir, "..", "..");
 const DATA_DIR = join(ROOT_DIR, "data");
 const CACHE_DIR = join(ROOT_DIR, ".cache");
 const FILTERED_DIR = join(CACHE_DIR, "filtered");
 
-/** Source priority for dedup — delegated to source.priority. */
-function sourcePriority(source: string): number {
-	try {
-		return getPriority(source as Entry["source"]);
-	} catch {
-		return 9;
-	}
-}
-
 // biome-ignore lint/suspicious/noConsole: CLI output
 const log = console.log;
 
 // ─── Duplicate resolution ──────────────────────────────────────────────────────
-
-type DuplicateAction = "replace" | "refresh" | "skip";
-
-/** Decide what to do with a duplicate candidate based on source priorities. */
-function resolveDuplicateAction(
-	discovery: DiscoveryCandidate,
-	dup: { existingEntry?: CategorizedEntry },
-): DuplicateAction {
-	if (!dup.existingEntry) return "skip";
-
-	const candidatePriority = sourcePriority(discovery.source);
-	const existingPriority = sourcePriority(dup.existingEntry.source);
-
-	if (candidatePriority < existingPriority) return "replace";
-	return "refresh";
-}
 
 /** Merge fresh metadata from a same-source candidate into an existing entry. */
 function refreshExistingEntry(
