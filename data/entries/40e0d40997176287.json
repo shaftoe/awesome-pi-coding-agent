@@ -1,0 +1,32 @@
+{
+  "id": "@mem0/pi-agent-plugin",
+  "name": "@mem0/pi-agent-plugin",
+  "url": "https://www.npmjs.com/package/@mem0/pi-agent-plugin",
+  "source": "npm-search",
+  "description": "Mem0 memory extension for Pi Agent persistent, scoped, semantic memory across sessions and projects",
+  "metadata": {
+    "github_url": "https://github.com/mem0ai/mem0",
+    "npm_name": "@mem0/pi-agent-plugin",
+    "description": "Mem0 memory extension for Pi Agent persistent, scoped, semantic memory across sessions and projects",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "skills",
+      "memory",
+      "mem0",
+      "semantic-memory",
+      "persistent-memory",
+      "agent-memory"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-09T19:43:45.612Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ogulcancelik/pi-extensions",
     "repo_full_name": "ogulcancelik/pi-extensions",
     "description": "Extensions for pi, the terminal-based coding agent",
-    "stars": 131,
+    "stars": 132,
     "forks": 18,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-17T15:58:50Z",
     "pushed_at": "2026-06-07T23:35:11Z",
-    "updated_at": "2026-06-08T20:25:22Z",
+    "updated_at": "2026-06-09T18:23:29Z",
     "size": 2720,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

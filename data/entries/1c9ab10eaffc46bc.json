@@ -6,7 +6,7 @@
   "description": "Pi plugin: Tools to maintain and improve AGENTS.md files — audit quality, capture session learnings, and keep project memory current.",
   "metadata": {
     "github_url": "https://github.com/Lynskylate/agent-md-management",
-    "npm_name": "agent-md-management",
+    "npm_name": "@lynskylate/agent-md-management",
     "description": "Pi plugin: Tools to maintain and improve AGENTS.md files — audit quality, capture session learnings, and keep project memory current.",
     "keywords": [
       "pi-package",
@@ -15,7 +15,7 @@
       "maintenance"
     ],
     "version": "1.0.0",
-    "published_at": "2026-06-08T08:44:04.644Z",
+    "published_at": "2026-06-08T08:39:43.180Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

@@ -8,9 +8,9 @@
     "github_url": "https://github.com/QuintinShaw/pi-dynamic-workflows",
     "repo_full_name": "QuintinShaw/pi-dynamic-workflows",
     "description": "Claude Code–style dynamic workflows for Pi: code-mode subagents with real model routing, journaled resume, git-worktree isolation, cost accounting, an interactive /workflows TUI, an /ultracode standing opt-in, and deep research.",
-    "stars": 21,
-    "forks": 4,
-    "open_issues": 0,
+    "stars": 22,
+    "forks": 5,
+    "open_issues": 1,
     "topics": [
       "agentic-workflows",
       "claude-code",
@@ -30,7 +30,7 @@
     "archived": false,
     "created_at": "2026-05-30T18:02:49Z",
     "pushed_at": "2026-06-09T12:29:31Z",
-    "updated_at": "2026-06-09T13:10:02Z",
+    "updated_at": "2026-06-09T15:36:52Z",
     "size": 9184,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

@@ -1,0 +1,25 @@
+{
+  "id": "furbyhaxx-pi-agent-skills",
+  "name": "furbyhaxx-pi-agent-skills",
+  "url": "https://github.com/furbyhaxx/pi-agent-skills",
+  "source": "github-search",
+  "description": "Full Agent Skills compatibility layer for the pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/furbyhaxx/pi-agent-skills",
+    "repo_full_name": "furbyhaxx/pi-agent-skills",
+    "description": "Full Agent Skills compatibility layer for the pi coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-09T15:38:20Z",
+    "pushed_at": "2026-06-09T18:05:57Z",
+    "updated_at": "2026-06-09T18:07:04Z",
+    "size": 92,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

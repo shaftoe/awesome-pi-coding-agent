@@ -6,7 +6,7 @@
   "description": "Reserved — spec-driven development workflow for pi. See @victor-software-house/pi-kiro.",
   "metadata": {
     "github_url": "https://github.com/victor-software-house/pi-kiro",
-    "npm_name": "pi-sdd",
+    "npm_name": "pi-kiro-workflow",
     "description": "Reserved — spec-driven development workflow for pi. See @victor-software-house/pi-kiro.",
     "keywords": [
       "pi-package",
@@ -15,7 +15,7 @@
       "kiro"
     ],
     "version": "0.0.0",
-    "published_at": "2026-06-03T10:49:05.879Z",
+    "published_at": "2026-06-03T10:49:09.852Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

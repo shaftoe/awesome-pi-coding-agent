@@ -1,0 +1,25 @@
+{
+  "id": "vcsoc-pi-auto-lint",
+  "name": "vcsoc-pi-auto-lint",
+  "url": "https://github.com/vcsoc/pi-auto-lint",
+  "source": "github-search",
+  "description": "Auto-lint pi package that watches write and edit results, detects common lint/typecheck commands for Node, Python, Rust, and .NET projects, runs them automatically after changes, and posts pass/fail results back into the pi session.",
+  "metadata": {
+    "github_url": "https://github.com/vcsoc/pi-auto-lint",
+    "repo_full_name": "vcsoc/pi-auto-lint",
+    "description": "Auto-lint pi package that watches write and edit results, detects common lint/typecheck commands for Node, Python, Rust, and .NET projects, runs them automatically after changes, and posts pass/fail  results back into the pi session.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-09T17:05:01Z",
+    "pushed_at": "2026-06-09T17:06:30Z",
+    "updated_at": "2026-06-09T17:09:15Z",
+    "size": 3,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

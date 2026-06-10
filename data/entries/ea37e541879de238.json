@@ -10,7 +10,7 @@
     "description": "Permission enforcement extension for the Pi coding agent.",
     "stars": 82,
     "forks": 19,
-    "open_issues": 3,
+    "open_issues": 4,
     "topics": [
       "access-control",
       "authorization",

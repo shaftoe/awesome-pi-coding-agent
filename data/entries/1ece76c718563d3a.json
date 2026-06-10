@@ -1,0 +1,27 @@
+{
+  "id": "intulint-pi-websearch",
+  "name": "intulint-pi-websearch",
+  "url": "https://github.com/intulint/pi-websearch",
+  "source": "github-search",
+  "description": "Pi extension: web search, content extraction, and date tools for the Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/intulint/pi-websearch",
+    "repo_full_name": "intulint/pi-websearch",
+    "description": "Pi extension: web search, content extraction, and date tools for the Pi coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-09T20:22:07Z",
+    "pushed_at": "2026-06-09T21:33:11Z",
+    "updated_at": "2026-06-09T21:33:20Z",
+    "size": 105,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}
