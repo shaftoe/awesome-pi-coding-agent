@@ -6,12 +6,14 @@ import { getPriority } from "../sources/index.ts";
 
 export type DuplicateAction = "replace" | "refresh" | "skip";
 
+const UNKNOWN_SOURCE_PRIORITY = 9;
+
 /** Source priority for dedup, delegated to source.priority. */
 export function sourcePriority(source: string): number {
 	try {
 		return getPriority(source as Entry["source"]);
 	} catch {
-		return 9;
+		return UNKNOWN_SOURCE_PRIORITY;
 	}
 }
 
