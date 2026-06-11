@@ -4,9 +4,10 @@
  * `meta.json` records when the datastore was last updated by the process stage.
  * The site build reads this to show an accurate "last updated" date
  * (independent of deploy time).
+ *
+ * Callers that use Temporal (e.g. writeMeta) must ensure the Temporal polyfill
+ * is imported before calling. Pipeline entry points already import `./temporal.ts`.
  */
-
-import "./temporal.ts";
 
 import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
