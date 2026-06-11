@@ -1,0 +1,32 @@
+{
+  "id": "kylebrodeur-pi-extension-toolkit",
+  "name": "kylebrodeur-pi-extension-toolkit",
+  "url": "https://github.com/kylebrodeur/pi-extension-toolkit",
+  "source": "github-search",
+  "description": "A Pi Coding Agent extension to create, retrofit, and verify other extensions. Safe upgrades with manifest tracking, dry-run previews, and a programmatic API.",
+  "metadata": {
+    "github_url": "https://github.com/kylebrodeur/pi-extension-toolkit",
+    "repo_full_name": "kylebrodeur/pi-extension-toolkit",
+    "description": "A Pi Coding Agent extension to create, retrofit, and verify other extensions. Safe upgrades with manifest tracking, dry-run previews, and a programmatic API.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "extension-toolkit",
+      "pi-extension",
+      "pi-package",
+      "pi-tools",
+      "scaffolding",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T22:48:36Z",
+    "pushed_at": "2026-06-10T02:43:04Z",
+    "updated_at": "2026-06-10T02:43:07Z",
+    "size": 139,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

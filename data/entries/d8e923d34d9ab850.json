@@ -8,7 +8,7 @@
     "github_url": "https://github.com/k1000/pi-archivist",
     "repo_full_name": "k1000/pi-archivist",
     "description": "Pi extension package: pi-archivist",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-09T12:03:28Z",
     "pushed_at": "2026-06-02T20:56:56Z",
-    "updated_at": "2026-06-02T20:56:59Z",
+    "updated_at": "2026-06-10T12:49:14Z",
     "size": 239,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

@@ -6,20 +6,25 @@
   "description": "Create, switch, and manage persona-based harness profiles for Pi Coding Agent.",
   "metadata": {
     "github_url": "https://github.com/kswift1/pi-harness-factory",
-    "repo_full_name": "kswift1/pi-harness-factory",
+    "npm_name": "pi-harness-factory",
     "description": "Create, switch, and manage persona-based harness profiles for Pi Coding Agent.",
-    "stars": 1,
-    "forks": 0,
-    "open_issues": 0,
-    "topics": [],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-05-27T12:51:57Z",
-    "pushed_at": "2026-05-28T02:34:57Z",
-    "updated_at": "2026-05-29T21:22:19Z",
-    "size": 58,
-    "license": null,
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "coding-agent",
+      "harness",
+      "persona",
+      "factory"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-05-28T01:40:31.397Z",
+    "npm_downloads_monthly": 171,
+    "npm_downloads_weekly": 171,
+    "npm_score_final": 17.717848,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

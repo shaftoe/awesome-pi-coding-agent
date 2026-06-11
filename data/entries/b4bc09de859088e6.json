@@ -3,30 +3,28 @@
   "name": "pi-slopchop",
   "url": "https://www.npmjs.com/package/pi-slopchop",
   "source": "npm-search",
-  "description": "Terminal code review and annotation workflow for Pi",
+  "description": "Terminal-native code review and annotation workflow for the Pi coding agent.",
   "metadata": {
     "github_url": "https://github.com/robzolkos/pi-slopchop",
-    "repo_full_name": "robzolkos/pi-slopchop",
-    "description": "Terminal code review and annotation workflow for Pi",
-    "stars": 48,
-    "forks": 6,
-    "open_issues": 0,
-    "topics": [
-      "annotation-tool",
-      "diff-review",
+    "npm_name": "pi-slopchop",
+    "description": "Terminal-native code review and annotation workflow for the Pi coding agent.",
+    "keywords": [
+      "pi-package",
       "pi",
-      "pi-coding-agent",
-      "pi-extension",
-      "pi-package"
+      "diff-review",
+      "code-review",
+      "annotation",
+      "terminal"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-04-24T19:20:25Z",
-    "pushed_at": "2026-06-04T15:14:04Z",
-    "updated_at": "2026-06-08T21:37:18Z",
-    "size": 287,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-package language:TypeScript"
+    "version": "0.9.1",
+    "published_at": "2026-06-04T15:13:59.808Z",
+    "npm_downloads_monthly": 2900,
+    "npm_downloads_weekly": 619,
+    "npm_score_final": 29.293407,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 82,

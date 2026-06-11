@@ -5,15 +5,15 @@
   "source": "npm-search",
   "description": "MCP Gateway for Pi — stdio/SSE/Streamable HTTP transports, session recovery, connection pooling, structured error handling.",
   "metadata": {
-    "github_url": "https://github.com/huanghui-dev/pi-mcp-connector",
+    "github_url": null,
     "npm_name": "pi-mcp-connector",
     "description": "MCP Gateway for Pi — stdio/SSE/Streamable HTTP transports, session recovery, connection pooling, structured error handling.",
     "keywords": [
       "pi-package",
       "mcp"
     ],
-    "version": "1.0.1",
-    "published_at": "2026-06-03T10:16:00.661Z",
+    "version": "1.0.2",
+    "published_at": "2026-06-10T14:34:45.314Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

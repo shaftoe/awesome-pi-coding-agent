@@ -3,32 +3,27 @@
   "name": "pi-codex-account",
   "url": "https://www.npmjs.com/package/pi-codex-account",
   "source": "npm-search",
-  "description": "Pi extension for switching between multiple OpenAI Codex accounts",
+  "description": "Pi extension to switch between multiple OpenAI Codex OAuth accounts and show usage for the active account.",
   "metadata": {
     "github_url": "https://github.com/fadilsflow/pi-codex-account",
-    "repo_full_name": "fadilsflow/pi-codex-account",
-    "description": "Pi extension for switching between multiple OpenAI Codex accounts",
-    "stars": 8,
-    "forks": 0,
-    "open_issues": 0,
-    "topics": [
-      "chatgpt",
-      "codex",
-      "oauth",
-      "openai",
-      "pi",
-      "pi-extension",
+    "npm_name": "pi-codex-account",
+    "description": "Pi extension to switch between multiple OpenAI Codex OAuth accounts and show usage for the active account.",
+    "keywords": [
       "pi-package",
-      "typescript"
+      "pi-extension",
+      "codex",
+      "openai",
+      "oauth"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-06-04T19:46:09Z",
-    "pushed_at": "2026-06-06T15:33:02Z",
-    "updated_at": "2026-06-06T15:33:05Z",
-    "size": 526,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-package language:TypeScript"
+    "version": "0.1.1",
+    "published_at": "2026-06-04T20:14:41.774Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

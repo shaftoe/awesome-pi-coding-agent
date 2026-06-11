@@ -3,30 +3,28 @@
   "name": "pi-app-server",
   "url": "https://www.npmjs.com/package/pi-app-server",
   "source": "npm-search",
-  "description": "Session multiplexer for pi-coding-agent — WebSocket + stdio, the protocol IS the architecture",
+  "description": "Session multiplexer for pi-coding-agent",
   "metadata": {
     "github_url": "https://github.com/tryingET/pi-server",
-    "repo_full_name": "tryingET/pi-server",
-    "description": "Session multiplexer for pi-coding-agent — WebSocket + stdio, the protocol IS the architecture",
-    "stars": 10,
-    "forks": 1,
-    "open_issues": 1,
-    "topics": [
-      "coding-agent",
-      "multiplexer",
+    "npm_name": "pi-app-server",
+    "description": "Session multiplexer for pi-coding-agent",
+    "keywords": [
       "pi",
-      "session-management",
+      "pi-server",
+      "session-multiplexer",
+      "websocket",
       "stdio",
-      "websocket"
+      "pi-package"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-02-25T20:36:07Z",
-    "pushed_at": "2026-03-13T04:58:51Z",
-    "updated_at": "2026-05-25T11:33:36Z",
-    "size": 566,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "version": "2.0.0",
+    "published_at": "2026-03-01T03:55:19.326Z",
+    "npm_downloads_monthly": 121,
+    "npm_downloads_weekly": 27,
+    "npm_score_final": 17.368103,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 37,

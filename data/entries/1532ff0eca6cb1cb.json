@@ -3,29 +3,28 @@
   "name": "pi-session-search",
   "url": "https://www.npmjs.com/package/pi-session-search",
   "source": "npm-search",
-  "description": "Semantic search over past pi coding sessions — index, browse, and read your coding history",
+  "description": "Index, summarize, and search past pi sessions. Covers both active and archived sessions, enabling semantic search and introspection over your coding history.",
   "metadata": {
     "github_url": "https://github.com/samfoy/pi-session-search",
-    "repo_full_name": "samfoy/pi-session-search",
-    "description": "Semantic search over past pi coding sessions — index, browse, and read your coding history",
-    "stars": 11,
-    "forks": 7,
-    "open_issues": 0,
-    "topics": [
-      "ai-coding-agent",
-      "developer-tools",
-      "pi-coding-agent",
+    "npm_name": "pi-session-search",
+    "description": "Index, summarize, and search past pi sessions. Covers both active and archived sessions, enabling semantic search and introspection over your coding history.",
+    "keywords": [
+      "pi-package",
+      "extension",
+      "session",
+      "search",
       "semantic-search",
-      "session-history"
+      "embeddings"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-03-17T18:27:17Z",
-    "pushed_at": "2026-06-04T23:25:45Z",
-    "updated_at": "2026-06-04T23:25:49Z",
-    "size": 472,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "version": "1.4.3",
+    "published_at": "2026-06-10T18:28:05.045Z",
+    "npm_downloads_monthly": 1565,
+    "npm_downloads_weekly": 97,
+    "npm_score_final": 27.536192,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 70,

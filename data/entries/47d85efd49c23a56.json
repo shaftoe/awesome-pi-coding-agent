@@ -3,30 +3,24 @@
   "name": "pi-knowledge-search",
   "url": "https://www.npmjs.com/package/pi-knowledge-search",
   "source": "npm-search",
-  "description": "Semantic search over local files for pi. Indexes text/markdown, watches for changes, exposes a knowledge_search tool to the LLM.",
+  "description": "Semantic search over local files for pi. Indexes a directory of text files, watches for changes, and exposes a knowledge_search tool to the LLM.",
   "metadata": {
     "github_url": "https://github.com/samfoy/pi-knowledge-search",
-    "repo_full_name": "samfoy/pi-knowledge-search",
-    "description": "Semantic search over local files for pi. Indexes text/markdown, watches for changes, exposes a knowledge_search tool to the LLM.",
-    "stars": 7,
-    "forks": 4,
-    "open_issues": 0,
-    "topics": [
-      "ai-coding-agent",
-      "developer-tools",
-      "knowledge-base",
-      "pi-coding-agent",
-      "rag",
-      "semantic-search"
+    "npm_name": "pi-knowledge-search",
+    "description": "Semantic search over local files for pi. Indexes a directory of text files, watches for changes, and exposes a knowledge_search tool to the LLM.",
+    "keywords": [
+      "pi-package",
+      "extension"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-03-13T19:52:25Z",
-    "pushed_at": "2026-05-15T23:24:27Z",
-    "updated_at": "2026-06-06T12:36:09Z",
-    "size": 442,
-    "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "version": "1.3.5",
+    "published_at": "2026-06-10T18:27:51.456Z",
+    "npm_downloads_monthly": 1027,
+    "npm_downloads_weekly": 209,
+    "npm_score_final": 25.121466,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 70,

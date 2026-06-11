@@ -10,7 +10,7 @@
     "description": "Runtime failure resolution for coding agents. Hooks into Claude Code and Codex. Catches loops, dangerous actions, and secret leaks before they become incidents. Zero latency. Runs locally.",
     "stars": 110,
     "forks": 19,
-    "open_issues": 10,
+    "open_issues": 11,
     "topics": [
       "agent-failure",
       "agent-reliability",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-06T01:56:39Z",
-    "pushed_at": "2026-06-09T13:33:43Z",
-    "updated_at": "2026-06-09T23:59:57Z",
-    "size": 46126,
+    "pushed_at": "2026-06-10T16:54:56Z",
+    "updated_at": "2026-06-10T16:55:28Z",
+    "size": 46392,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

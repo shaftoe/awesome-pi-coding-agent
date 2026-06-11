@@ -3,30 +3,27 @@
   "name": "@twogiants/pi-anthropic-vertex",
   "url": "https://www.npmjs.com/package/@twogiants/pi-anthropic-vertex",
   "source": "npm-search",
-  "description": "Anthropic Claude models on Google Cloud Vertex AI for pi coding agent.",
+  "description": "Anthropic Claude models on Google Cloud Vertex AI for pi",
   "metadata": {
     "github_url": "https://github.com/twoGiants/pi-anthropic-vertex",
-    "repo_full_name": "twoGiants/pi-anthropic-vertex",
-    "description": "Anthropic Claude models on Google Cloud Vertex AI for pi coding agent.",
-    "stars": 9,
-    "forks": 2,
-    "open_issues": 1,
-    "topics": [
-      "anthropic",
-      "claude",
-      "pi-coding-agent",
-      "pi-extension",
+    "npm_name": "@twogiants/pi-anthropic-vertex",
+    "description": "Anthropic Claude models on Google Cloud Vertex AI for pi",
+    "keywords": [
       "pi-package",
-      "vertex-ai"
+      "pi-extension",
+      "anthropic",
+      "vertex-ai",
+      "claude"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-04-14T11:36:55Z",
-    "pushed_at": "2026-06-01T16:24:14Z",
-    "updated_at": "2026-06-01T16:41:11Z",
-    "size": 131,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-package language:TypeScript"
+    "version": "0.1.9",
+    "published_at": "2026-06-01T16:24:38.496Z",
+    "npm_downloads_monthly": 1716,
+    "npm_downloads_weekly": 344,
+    "npm_score_final": 27.011786,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 77,

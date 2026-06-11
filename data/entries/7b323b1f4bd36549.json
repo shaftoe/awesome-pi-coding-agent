@@ -3,28 +3,27 @@
   "name": "@yusukeshib/pi-working-status",
   "url": "https://www.npmjs.com/package/@yusukeshib/pi-working-status",
   "source": "npm-search",
-  "description": "pi extension: a live, detailed Working... status line (request phase, streaming tokens/sec/bytes, active tool calls)",
+  "description": "Replace pi's plain \"Working...\" loader with a live, detailed status line that tracks the agent through every phase of a turn.",
   "metadata": {
     "github_url": "https://github.com/yusukeshib/pi-working-status",
-    "repo_full_name": "yusukeshib/pi-working-status",
-    "description": "pi extension: a live, detailed Working... status line (request phase, streaming tokens/sec/bytes, active tool calls)",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "topics": [
-      "cli",
-      "pi",
+    "npm_name": "@yusukeshib/pi-working-status",
+    "description": "Replace pi's plain \"Working...\" loader with a live, detailed status line that tracks the agent through every phase of a turn.",
+    "keywords": [
+      "pi-package",
       "pi-extension",
-      "pi-package"
+      "status",
+      "loader",
+      "spinner"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-05-30T11:11:27Z",
-    "pushed_at": "2026-06-06T02:21:14Z",
-    "updated_at": "2026-06-07T19:20:03Z",
-    "size": 280,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-package language:TypeScript"
+    "version": "0.1.1",
+    "published_at": "2026-06-06T02:22:58.509Z",
+    "npm_downloads_monthly": 148,
+    "npm_downloads_weekly": 148,
+    "npm_score_final": 18.20488,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

@@ -1,0 +1,28 @@
+{
+  "id": "@r3b1s/pi-vim-stash",
+  "name": "@r3b1s/pi-vim-stash",
+  "url": "https://www.npmjs.com/package/@r3b1s/pi-vim-stash",
+  "source": "npm-search",
+  "description": "Pi-native skill creator extension and bundled skill workflow.",
+  "metadata": {
+    "github_url": "https://github.com/r3b1s/pi-things",
+    "npm_name": "@r3b1s/pi-skill-creator",
+    "description": "Pi-native skill creator extension and bundled skill workflow.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "agent-skills",
+      "skill-creator"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-06-10T20:47:59.338Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

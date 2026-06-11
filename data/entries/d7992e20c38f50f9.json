@@ -3,29 +3,28 @@
   "name": "pi-lazy-loader",
   "url": "https://www.npmjs.com/package/pi-lazy-loader",
   "source": "npm-search",
-  "description": "Lazy-load pi-coding-agent extensions on first slash-command use.",
+  "description": "Lazy-load pi-coding-agent extensions on first slash-command use. Keeps slash commands discoverable while deferring heavy module loads until activation.",
   "metadata": {
     "github_url": "https://github.com/vxio/pi-lazy-loader",
-    "repo_full_name": "vxio/pi-lazy-loader",
-    "description": "Lazy-load pi-coding-agent extensions on first slash-command use.",
-    "stars": 1,
-    "forks": 0,
-    "open_issues": 0,
-    "topics": [
-      "lazy-loading",
-      "pi-coding-agent",
-      "pi-extension",
+    "npm_name": "pi-lazy-loader",
+    "description": "Lazy-load pi-coding-agent extensions on first slash-command use. Keeps slash commands discoverable while deferring heavy module loads until activation.",
+    "keywords": [
       "pi-package",
-      "typescript"
+      "pi-extension",
+      "pi-coding-agent",
+      "lazy-loading",
+      "performance",
+      "startup"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-04-27T04:13:00Z",
-    "pushed_at": "2026-04-27T06:14:48Z",
-    "updated_at": "2026-04-29T22:48:06Z",
-    "size": 113,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-package language:TypeScript"
+    "version": "0.1.0",
+    "published_at": "2026-04-27T06:07:00.125Z",
+    "npm_downloads_monthly": 50,
+    "npm_downloads_weekly": 11,
+    "npm_score_final": 13.072672,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 60,

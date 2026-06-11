@@ -3,31 +3,27 @@
   "name": "pi-human-inquire",
   "url": "https://www.npmjs.com/package/pi-human-inquire",
   "source": "npm-search",
-  "description": "Turn plans, specs, RFCs, notes, and diffs into reviewable HTML where users can ask agent questions, leave comments, and send feedback back to Pi.",
+  "description": "Human-in-the-loop document inquiry and feedback for Pi.",
   "metadata": {
     "github_url": "https://github.com/alpeshvas/pi-human-inquire",
-    "repo_full_name": "alpeshvas/pi-human-inquire",
-    "description": " Turn plans, specs, RFCs, notes, and diffs into reviewable HTML where users can ask agent questions, leave comments, and send  feedback back to Pi.",
-    "stars": 1,
-    "forks": 0,
-    "open_issues": 0,
-    "topics": [
-      "ai-agent",
-      "document-review",
-      "html-review",
-      "human-in-loop",
-      "pi",
+    "npm_name": "pi-human-inquire",
+    "description": "Human-in-the-loop document inquiry and feedback for Pi.",
+    "keywords": [
       "pi-package",
-      "review-tool"
+      "pi",
+      "human-in-the-loop",
+      "review",
+      "html-review"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-05-25T15:43:03Z",
-    "pushed_at": "2026-06-09T07:12:06Z",
-    "updated_at": "2026-06-09T07:12:07Z",
-    "size": 119,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-package language:TypeScript"
+    "version": "0.1.1",
+    "published_at": "2026-05-27T17:54:40.972Z",
+    "npm_downloads_monthly": 278,
+    "npm_downloads_weekly": 278,
+    "npm_score_final": 20.419971,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

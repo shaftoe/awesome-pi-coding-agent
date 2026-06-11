@@ -3,11 +3,11 @@
   "name": "pi-tmux-task",
   "url": "https://www.npmjs.com/package/pi-tmux-task",
   "source": "npm-search",
-  "description": "Pi extension for managing long-running background tasks with tmux.",
+  "description": "A minimal tmux-based task manager for agents, with skills and notifications only.",
   "metadata": {
     "github_url": "https://github.com/ttttmr/pi-tmux-task",
     "npm_name": "pi-tmux-task",
-    "description": "Pi extension for managing long-running background tasks with tmux.",
+    "description": "A minimal tmux-based task manager for agents, with skills and notifications only.",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -18,8 +18,8 @@
       "task-runner",
       "automation"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-06-09T13:45:45.525Z",
+    "version": "0.1.1",
+    "published_at": "2026-06-10T07:58:43.752Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

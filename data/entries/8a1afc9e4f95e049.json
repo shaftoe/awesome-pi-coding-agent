@@ -1,0 +1,32 @@
+{
+  "id": "@talex-touch/touch-pie",
+  "name": "@talex-touch/touch-pie",
+  "url": "https://www.npmjs.com/package/@talex-touch/touch-pie",
+  "source": "npm-search",
+  "description": "One-command Talex Touch Pi experience kit: startup UI, powerline footer, quiet WeChat bridge, setup, verify, and rollback tools.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@talex-touch/touch-pie",
+    "description": "One-command Talex Touch Pi experience kit: startup UI, powerline footer, quiet WeChat bridge, setup, verify, and rollback tools.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "powerline",
+      "wechat",
+      "weixin",
+      "talex-touch",
+      "touch-pie"
+    ],
+    "version": "0.1.11",
+    "published_at": "2026-06-10T17:06:04.076Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

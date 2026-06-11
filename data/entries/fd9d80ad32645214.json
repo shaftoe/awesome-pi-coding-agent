@@ -3,29 +3,28 @@
   "name": "@jmcombs/pi-tavily-search",
   "url": "https://www.npmjs.com/package/@jmcombs/pi-tavily-search",
   "source": "npm-search",
-  "description": "A monorepo of high-quality extensions for the Pi coding agent.",
+  "description": "1Password integration for the Pi coding agent. Read secrets and run commands with 1Password credential injection via the op CLI.",
   "metadata": {
     "github_url": "https://github.com/jmcombs/pi-extensions",
-    "repo_full_name": "jmcombs/pi-extensions",
-    "description": "A monorepo of high-quality extensions for the Pi coding agent.",
-    "stars": 0,
-    "forks": 1,
-    "open_issues": 2,
-    "topics": [
-      "coding-agent",
-      "monorepo",
-      "pi-extension",
+    "npm_name": "@jmcombs/pi-1password",
+    "description": "1Password integration for the Pi coding agent. Read secrets and run commands with 1Password credential injection via the op CLI.",
+    "keywords": [
       "pi-package",
-      "typescript"
+      "pi-extension",
+      "1password",
+      "op",
+      "credentials",
+      "secrets"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-05-03T20:53:55Z",
-    "pushed_at": "2026-06-07T21:06:23Z",
-    "updated_at": "2026-06-07T21:06:17Z",
-    "size": 5086,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-package language:TypeScript"
+    "version": "1.0.1",
+    "published_at": "2026-05-25T01:08:55.585Z",
+    "npm_downloads_monthly": 404,
+    "npm_downloads_weekly": 28,
+    "npm_score_final": 21.379358,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 76,

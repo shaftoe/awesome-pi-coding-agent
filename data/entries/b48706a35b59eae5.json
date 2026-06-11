@@ -1,0 +1,28 @@
+{
+  "id": "pi-minimax-m3-caching-fix",
+  "name": "pi-minimax-m3-caching-fix",
+  "url": "https://www.npmjs.com/package/pi-minimax-m3-caching-fix",
+  "source": "npm-search",
+  "description": "MiniMax-M3 on the OpenAI-compatible endpoint with passive caching, plus a thinking-strip hook for current pi-ai versions that predate the upstream skipThinkingBlock compat flag.",
+  "metadata": {
+    "github_url": "https://github.com/rwese/pi-minimax-m3-caching-fix",
+    "npm_name": "pi-minimax-m3-caching-fix",
+    "description": "MiniMax-M3 on the OpenAI-compatible endpoint with passive caching, plus a thinking-strip hook for current pi-ai versions that predate the upstream skipThinkingBlock compat flag.",
+    "keywords": [
+      "pi-package",
+      "minimax",
+      "minimax-m3",
+      "caching"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-10T18:06:41.425Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
