@@ -1,0 +1,25 @@
+{
+  "id": "INAPP-Mobile-pi-peer-work-extension",
+  "name": "INAPP-Mobile-pi-peer-work-extension",
+  "url": "https://github.com/INAPP-Mobile/pi-peer-work-extension",
+  "source": "github-search",
+  "description": "Peer workflow extension for pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/INAPP-Mobile/pi-peer-work-extension",
+    "repo_full_name": "INAPP-Mobile/pi-peer-work-extension",
+    "description": "Peer workflow extension for pi-coding-agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-10T16:19:41Z",
+    "pushed_at": "2026-06-10T19:38:13Z",
+    "updated_at": "2026-06-10T19:38:17Z",
+    "size": 25576,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

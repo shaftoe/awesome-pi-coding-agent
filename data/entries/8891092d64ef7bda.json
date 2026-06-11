@@ -3,14 +3,14 @@
   "name": "CaoYuhaoCarl-Taogen",
   "url": "https://github.com/CaoYuhaoCarl/Taogen",
   "source": "github-search",
-  "description": "Build agents that build agents. 🌱",
+  "description": "P2P multi-agent scenario system for the Pi coding agent: comms-net hub (HTTP/SSE, cross-device) + one-command scenario launcher. Agents that build agents.🌱",
   "metadata": {
     "github_url": "https://github.com/CaoYuhaoCarl/Taogen",
     "repo_full_name": "CaoYuhaoCarl/Taogen",
-    "description": "Build agents that build agents. 🌱",
+    "description": "P2P multi-agent scenario system for the Pi coding agent: comms-net hub (HTTP/SSE, cross-device) + one-command scenario launcher. Agents that build agents.🌱",
     "stars": 5,
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 0,
     "topics": [
       "agent",
       "ai-agent",
@@ -28,11 +28,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-27T11:52:42Z",
-    "pushed_at": "2026-06-05T13:06:46Z",
-    "updated_at": "2026-06-08T15:50:34Z",
-    "size": 6099,
-    "license": "MIT",
+    "pushed_at": "2026-06-10T15:19:34Z",
+    "updated_at": "2026-06-10T15:24:14Z",
+    "size": 6202,
+    "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
-  "category": "misc"
+  "category": "extension"
 }

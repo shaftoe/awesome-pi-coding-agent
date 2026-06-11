@@ -3,11 +3,11 @@
   "name": "@mediadatafusion/pi-workflow-suite",
   "url": "https://www.npmjs.com/package/@mediadatafusion/pi-workflow-suite",
   "source": "npm-search",
-  "description": "Multi-agent workflow suite for Pi with Idle, Standard, Plan, and Mission modes; approval gates; reviewer and validator roles; configurable sub-agent orchestration; model routing; web search/fetch; browser checks; diagrams; compaction; settings, presets, t",
+  "description": "Multi-agent workflow suite for Pi with Idle, Standard, Plan, Mission, approval gates, reviewer/validator roles, sub-agents, model routing, web search/fetch, browser checks, diagrams, compaction, presets, settings, themes, widgets, and Repo Lock.",
   "metadata": {
     "github_url": "https://github.com/MediaDataFusion/pi-workflow-suite",
     "npm_name": "@mediadatafusion/pi-workflow-suite",
-    "description": "Multi-agent workflow suite for Pi with Idle, Standard, Plan, and Mission modes; approval gates; reviewer and validator roles; configurable sub-agent orchestration; model routing; web search/fetch; browser checks; diagrams; compaction; settings, presets, t",
+    "description": "Multi-agent workflow suite for Pi with Idle, Standard, Plan, Mission, approval gates, reviewer/validator roles, sub-agents, model routing, web search/fetch, browser checks, diagrams, compaction, presets, settings, themes, widgets, and Repo Lock.",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -41,11 +41,11 @@
       "extensions",
       "themes"
     ],
-    "version": "0.0.17",
-    "published_at": "2026-06-09T23:37:39.559Z",
+    "version": "0.0.19",
+    "published_at": "2026-06-10T17:07:06.295Z",
     "npm_downloads_monthly": 1704,
     "npm_downloads_weekly": 287,
-    "npm_score_final": 27.355734,
+    "npm_score_final": 27.155762,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

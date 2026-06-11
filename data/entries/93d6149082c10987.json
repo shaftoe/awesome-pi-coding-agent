@@ -3,11 +3,11 @@
   "name": "pi-trust-defer",
   "url": "https://www.npmjs.com/package/pi-trust-defer",
   "source": "npm-search",
-  "description": "Skip the startup trust prompt in pi — auto-decline project trust so you're immediately interactive, then /trustnow to save + reload",
+  "description": "Skip the startup trust prompt in pi — auto-decline project trust so you're immediately interactive, then /trust + /reload when ready",
   "metadata": {
     "github_url": "https://github.com/monotykamary/pi-trust-defer",
     "npm_name": "pi-trust-defer",
-    "description": "Skip the startup trust prompt in pi — auto-decline project trust so you're immediately interactive, then /trustnow to save + reload",
+    "description": "Skip the startup trust prompt in pi — auto-decline project trust so you're immediately interactive, then /trust + /reload when ready",
     "keywords": [
       "pi-package",
       "pi",
@@ -20,8 +20,8 @@
       "interactive",
       "auto-trust"
     ],
-    "version": "1.0.2",
-    "published_at": "2026-06-09T02:06:26.294Z",
+    "version": "1.2.0",
+    "published_at": "2026-06-10T02:11:11.426Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

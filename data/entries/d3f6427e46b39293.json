@@ -3,28 +3,28 @@
   "name": "pi-cursor-agent",
   "url": "https://www.npmjs.com/package/pi-cursor-agent",
   "source": "npm-search",
-  "description": "Leverages the power of frontier Coding Agents, empowering pi with their capabilities.",
+  "description": "Cursor Agent provider extension for pi",
   "metadata": {
     "github_url": "https://github.com/sudosubin/pi-frontier",
-    "repo_full_name": "sudosubin/pi-frontier",
-    "description": "Leverages the power of frontier Coding Agents, empowering pi with their capabilities.",
-    "stars": 25,
-    "forks": 7,
-    "open_issues": 11,
-    "topics": [
+    "npm_name": "pi-cursor-agent",
+    "description": "Cursor Agent provider extension for pi",
+    "keywords": [
       "pi",
-      "pi-agent",
       "pi-coding-agent",
-      "pi-package"
+      "pi-package",
+      "cursor",
+      "cursor-agent",
+      "cursor-cli"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-02-07T16:09:10Z",
-    "pushed_at": "2026-04-12T14:22:49Z",
-    "updated_at": "2026-06-02T08:44:02Z",
-    "size": 1219,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-package language:TypeScript"
+    "version": "0.4.4",
+    "published_at": "2026-04-04T14:22:04.658Z",
+    "npm_downloads_monthly": 1220,
+    "npm_downloads_weekly": 141,
+    "npm_score_final": 25.649668,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 54,

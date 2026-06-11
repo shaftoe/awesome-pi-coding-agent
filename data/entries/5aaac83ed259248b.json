@@ -3,30 +3,28 @@
   "name": "@royalrat-pack/pi-extension-nvidia-build-provider",
   "url": "https://www.npmjs.com/package/@royalrat-pack/pi-extension-nvidia-build-provider",
   "source": "npm-search",
-  "description": "Pi extension: NVIDIA Build API provider with /login + /model support",
+  "description": "Pi extension that adds NVIDIA Build API models with /login support and /model integration.",
   "metadata": {
     "github_url": "https://github.com/debarch777/pi-extension-nvidia-build-provider",
-    "repo_full_name": "debarch777/pi-extension-nvidia-build-provider",
-    "description": "Pi extension: NVIDIA Build API provider with /login + /model support",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "topics": [
-      "coding-agent",
-      "llm",
+    "npm_name": "@royalrat-pack/pi-extension-nvidia-build-provider",
+    "description": "Pi extension that adds NVIDIA Build API models with /login support and /model integration.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
       "nvidia",
       "nvidia-build-api",
-      "pi-extension",
-      "pi-package"
+      "llm",
+      "coding-agent"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-04-26T14:52:33Z",
-    "pushed_at": "2026-04-26T15:42:44Z",
-    "updated_at": "2026-04-26T15:42:47Z",
-    "size": 7,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-package language:TypeScript"
+    "version": "0.1.0",
+    "published_at": "2026-04-26T15:30:50.965Z",
+    "npm_downloads_monthly": 43,
+    "npm_downloads_weekly": 10,
+    "npm_score_final": 12.492559,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 55,

@@ -1,0 +1,20 @@
+{
+  "id": "YT_P7AZ-iDbIoc",
+  "name": "Deploying Pi Coding Agents in Docker Sandboxes",
+  "url": "https://youtube.com/watch?v=P7AZ-iDbIoc",
+  "source": "youtube-search",
+  "description": "This video details how to deploy the Pi coding agent within a secure, isolated microVM using the Docker Sandbox (sbx) CLI.",
+  "metadata": {
+    "title": "Deploying Pi Coding Agents in Docker Sandboxes",
+    "name": "Deploying Pi Coding Agents in Docker Sandboxes",
+    "description": "This video details how to deploy the Pi coding agent within a secure, isolated microVM using the Docker Sandbox (sbx) CLI.",
+    "channel": "Collabnix, Docker and DevOps",
+    "published_at": "2026-06-10T04:58:41Z",
+    "thumbnail": "https://i.ytimg.com/vi/P7AZ-iDbIoc/hqdefault.jpg",
+    "views": 7,
+    "likes": 0,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "category": "video"
+}

@@ -6,20 +6,25 @@
   "description": "Pi Coding Agent custom provider that routes requests through the Cursor Agent CLI — use your Cursor subscription models (Claude, GPT, Gemini, Grok…) inside Pi.",
   "metadata": {
     "github_url": "https://github.com/netandreus/pi-cursor-provider",
-    "repo_full_name": "netandreus/pi-cursor-provider",
+    "npm_name": "@netandreus/pi-cursor-provider",
     "description": "Pi Coding Agent custom provider that routes requests through the Cursor Agent CLI — use your Cursor subscription models (Claude, GPT, Gemini, Grok…) inside Pi.",
-    "stars": 28,
-    "forks": 11,
-    "open_issues": 4,
-    "topics": [],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-02-19T08:37:09Z",
-    "pushed_at": "2026-02-21T17:45:01Z",
-    "updated_at": "2026-05-30T12:21:39Z",
-    "size": 1777,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "keywords": [
+      "pi-package",
+      "pi",
+      "cursor",
+      "llm",
+      "ai",
+      "custom-provider"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-02-21T17:45:31.471Z",
+    "npm_downloads_monthly": 415,
+    "npm_downloads_weekly": 139,
+    "npm_score_final": 21.350832,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 30,

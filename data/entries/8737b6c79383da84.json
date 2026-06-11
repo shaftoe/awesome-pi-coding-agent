@@ -1,0 +1,29 @@
+{
+  "id": "@monotykamary/pi-vcc",
+  "name": "@monotykamary/pi-vcc",
+  "url": "https://www.npmjs.com/package/@monotykamary/pi-vcc",
+  "source": "npm-search",
+  "description": "Algorithmic conversation compactor for pi - transcript-preserving structured summaries, no LLM calls",
+  "metadata": {
+    "github_url": "https://github.com/monotykamary/pi-vcc",
+    "npm_name": "@monotykamary/pi-vcc",
+    "description": "Algorithmic conversation compactor for pi - transcript-preserving structured summaries, no LLM calls",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "vcc",
+      "compact",
+      "compaction"
+    ],
+    "version": "0.3.17",
+    "published_at": "2026-06-10T20:44:06.723Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

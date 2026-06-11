@@ -3,27 +3,28 @@
   "name": "@alexanderfortin/pi-tavily-tools",
   "url": "https://www.npmjs.com/package/@alexanderfortin/pi-tavily-tools",
   "source": "npm-search",
-  "description": "Pi coding agent extension for Tavily web search API",
+  "description": "Pi coding agent extension for web search and content extraction using Tavily",
   "metadata": {
     "github_url": "https://github.com/shaftoe/pi-tavily-tools",
-    "repo_full_name": "shaftoe/pi-tavily-tools",
-    "description": "Pi coding agent extension for Tavily web search API",
-    "stars": 6,
-    "forks": 2,
-    "open_issues": 3,
-    "topics": [
-      "pi-extension",
+    "npm_name": "@alexanderfortin/pi-tavily-tools",
+    "description": "Pi coding agent extension for web search and content extraction using Tavily",
+    "keywords": [
+      "pi-package",
       "tavily",
-      "web-search"
+      "web-search",
+      "web-extract",
+      "content-extraction",
+      "search"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-04-05T02:53:46Z",
-    "pushed_at": "2026-06-09T09:31:18Z",
-    "updated_at": "2026-06-06T11:37:57Z",
-    "size": 481,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "version": "0.6.0",
+    "published_at": "2026-06-10T14:06:43.257Z",
+    "npm_downloads_monthly": 1187,
+    "npm_downloads_weekly": 272,
+    "npm_score_final": 25.375113,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 77,

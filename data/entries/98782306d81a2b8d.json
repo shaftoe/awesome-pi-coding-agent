@@ -3,30 +3,24 @@
   "name": "pi-mono-clear",
   "url": "https://www.npmjs.com/package/pi-mono-clear",
   "source": "npm-search",
-  "description": "Collection of pi-mono extensions",
+  "description": "Pi extension that adds git branch and richer stats to the footer",
   "metadata": {
     "github_url": "https://github.com/emanuelcasco/pi-mono-extensions",
-    "repo_full_name": "emanuelcasco/pi-mono-extensions",
-    "description": "Collection of pi-mono extensions",
-    "stars": 80,
-    "forks": 11,
-    "open_issues": 0,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "pi-ai",
-      "pi-coding-agent",
-      "pi-extensions",
-      "pi-mono"
+    "npm_name": "pi-mono-status-line",
+    "description": "Pi extension that adds git branch and richer stats to the footer",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-04-03T23:35:52Z",
-    "pushed_at": "2026-06-04T19:49:48Z",
-    "updated_at": "2026-06-07T14:03:04Z",
-    "size": 1129,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "version": "1.7.3",
+    "published_at": "2026-05-08T22:43:30.156Z",
+    "npm_downloads_monthly": 403,
+    "npm_downloads_weekly": 40,
+    "npm_score_final": 21.096825,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 88,

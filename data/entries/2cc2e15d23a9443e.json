@@ -3,23 +3,23 @@
   "name": "@geminixiang/pi-simplify",
   "url": "https://www.npmjs.com/package/@geminixiang/pi-simplify",
   "source": "npm-search",
-  "description": "/simplify - code reuse, quality, and efficiency review for pi coding agent",
+  "description": "Simplify: Review changed code for reuse, quality, and efficiency",
   "metadata": {
     "github_url": "https://github.com/geminixiang/pi-simplify",
-    "repo_full_name": "geminixiang/pi-simplify",
-    "description": "/simplify - code reuse, quality, and efficiency review for pi coding agent",
-    "stars": 2,
-    "forks": 0,
-    "open_issues": 0,
-    "topics": [],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-04-08T07:39:49Z",
-    "pushed_at": "2026-06-09T10:07:58Z",
-    "updated_at": "2026-06-09T10:15:43Z",
-    "size": 330,
-    "license": null,
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "npm_name": "@geminixiang/pi-simplify",
+    "description": "Simplify: Review changed code for reuse, quality, and efficiency",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-03T16:04:36.669Z",
+    "npm_downloads_monthly": 1194,
+    "npm_downloads_weekly": 421,
+    "npm_score_final": 26.958858,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 77,

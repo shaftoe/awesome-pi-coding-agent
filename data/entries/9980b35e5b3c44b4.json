@@ -1,0 +1,28 @@
+{
+  "id": "@liushihao456/pi-emacs",
+  "name": "@liushihao456/pi-emacs",
+  "url": "https://www.npmjs.com/package/@liushihao456/pi-emacs",
+  "source": "npm-search",
+  "description": "Pi extension that opens emacsclient in a popup terminal and tracks recently edited files.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@liushihao456/pi-emacs",
+    "description": "Pi extension that opens emacsclient in a popup terminal and tracks recently edited files.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "emacs",
+      "emacsclient"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-10T14:00:01.226Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

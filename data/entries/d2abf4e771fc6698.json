@@ -3,27 +3,29 @@
   "name": "@jeonghyeon.net/pi-tasks",
   "url": "https://www.npmjs.com/package/@jeonghyeon.net/pi-tasks",
   "source": "npm-search",
-  "description": "A pi extension that brings Claude Code-style task tracking and coordination to pi. Track multi-step work with structured tasks, dependency management, and a persistent visual widget.",
+  "description": "A pi extension that brings Claude Code-style task tracking and coordination to pi.",
   "metadata": {
     "github_url": "https://github.com/tintinweb/pi-tasks",
-    "repo_full_name": "tintinweb/pi-tasks",
-    "description": "A pi extension that brings Claude Code-style task tracking and coordination to pi. Track multi-step work with structured tasks, dependency management, and a persistent visual widget.",
-    "stars": 96,
-    "forks": 26,
-    "open_issues": 8,
-    "topics": [
-      "pi-agent",
+    "npm_name": "@tintinweb/pi-tasks",
+    "description": "A pi extension that brings Claude Code-style task tracking and coordination to pi.",
+    "keywords": [
+      "pi-package",
+      "pi",
       "pi-extension",
-      "pi-package"
+      "task",
+      "tasks",
+      "todo",
+      "coordination"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-03-11T23:37:53Z",
-    "pushed_at": "2026-05-30T20:54:03Z",
-    "updated_at": "2026-06-09T08:53:15Z",
-    "size": 6784,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-package language:TypeScript"
+    "version": "0.7.0",
+    "published_at": "2026-05-30T20:54:38.222Z",
+    "npm_downloads_monthly": 2637,
+    "npm_downloads_weekly": 1214,
+    "npm_score_final": 28.911144,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 71,

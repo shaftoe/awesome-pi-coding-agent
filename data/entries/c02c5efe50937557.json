@@ -1,0 +1,32 @@
+{
+  "id": "josephkern-pi-code-tool",
+  "name": "josephkern-pi-code-tool",
+  "url": "https://github.com/josephkern/pi-code-tool",
+  "source": "github-search",
+  "description": "Code-mode python tool for the pi coding agent — sandboxed via @pydantic/monty; agents compose host tools in code and save reusable ephemeral tools",
+  "metadata": {
+    "github_url": "https://github.com/josephkern/pi-code-tool",
+    "repo_full_name": "josephkern/pi-code-tool",
+    "description": "Code-mode python tool for the pi coding agent — sandboxed via @pydantic/monty; agents compose host tools in code and save reusable ephemeral tools",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "code-mode",
+      "monty",
+      "pi",
+      "pi-package",
+      "python",
+      "sandbox"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-10T18:09:44Z",
+    "pushed_at": "2026-06-10T21:05:43Z",
+    "updated_at": "2026-06-10T21:06:23Z",
+    "size": 185,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

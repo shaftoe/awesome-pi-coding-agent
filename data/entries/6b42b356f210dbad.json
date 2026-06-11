@@ -6,27 +6,25 @@
   "description": "Matte graphite, molten copper Forge theme and visual atmosphere for Pi.",
   "metadata": {
     "github_url": "https://github.com/BareTread/pi-forge",
-    "repo_full_name": "BareTread/pi-forge",
+    "npm_name": "@baretread/pi-forge",
     "description": "Matte graphite, molten copper Forge theme and visual atmosphere for Pi.",
-    "stars": 1,
-    "forks": 0,
-    "open_issues": 2,
-    "topics": [
-      "forge",
-      "pi",
-      "pi-extension",
+    "keywords": [
       "pi-package",
       "pi-theme",
-      "terminal-theme"
+      "pi-extension",
+      "pi-ui",
+      "terminal-theme",
+      "forge"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-05-07T13:06:28Z",
-    "pushed_at": "2026-06-04T12:57:01Z",
-    "updated_at": "2026-05-09T03:18:18Z",
-    "size": 2425,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-package language:TypeScript"
+    "version": "0.1.1",
+    "published_at": "2026-05-07T14:49:24.214Z",
+    "npm_downloads_monthly": 275,
+    "npm_downloads_weekly": 16,
+    "npm_score_final": 20.791233,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 62,

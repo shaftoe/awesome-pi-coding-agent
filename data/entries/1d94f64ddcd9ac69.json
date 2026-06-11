@@ -3,23 +3,23 @@
   "name": "@aphotic/pi-mux-subagents",
   "url": "https://www.npmjs.com/package/@aphotic/pi-mux-subagents",
   "source": "npm-search",
-  "description": "Subagents for the pi coding agent that support interaction by spawning in mux panes.",
+  "description": "Interactive + headless subagent framework for pi and Claude Code, with mux-pane support, sync/async orchestration, and a multi-CLI design.",
   "metadata": {
     "github_url": "https://github.com/davidsunglee/pi-mux-subagents",
-    "repo_full_name": "davidsunglee/pi-mux-subagents",
-    "description": "Subagents for the pi coding agent that support interaction by spawning in mux panes.",
-    "stars": 1,
-    "forks": 0,
-    "open_issues": 1,
-    "topics": [],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-05-20T21:55:30Z",
-    "pushed_at": "2026-06-09T23:13:11Z",
-    "updated_at": "2026-06-09T23:13:15Z",
-    "size": 1033,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "npm_name": "@aphotic/pi-mux-subagents",
+    "description": "Interactive + headless subagent framework for pi and Claude Code, with mux-pane support, sync/async orchestration, and a multi-CLI design.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-06-09T23:04:04.390Z",
+    "npm_downloads_monthly": 115,
+    "npm_downloads_weekly": 23,
+    "npm_score_final": 16.269312,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 74,

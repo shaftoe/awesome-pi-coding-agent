@@ -3,29 +3,30 @@
   "name": "pi-grok-build",
   "url": "https://www.npmjs.com/package/pi-grok-build",
   "source": "npm-search",
-  "description": "Pi extension for delegating to xAI Grok Build with Pi-native lifecycle, artifacts, and safety controls.",
+  "description": "Use Grok Build from Pi as a managed collaborator for review, research, edits, and media.",
   "metadata": {
     "github_url": "https://github.com/Tiziano-AI/pi-grok-build",
-    "repo_full_name": "Tiziano-AI/pi-grok-build",
-    "description": "Pi extension for delegating to xAI Grok Build with Pi-native lifecycle, artifacts, and safety controls.",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
-    "topics": [
-      "grok-build",
+    "npm_name": "pi-grok-build",
+    "description": "Use Grok Build from Pi as a managed collaborator for review, research, edits, and media.",
+    "keywords": [
+      "pi-package",
       "pi",
       "pi-extension",
-      "pi-package",
-      "xai"
+      "pi-coding-agent",
+      "grok-build",
+      "grok",
+      "xai",
+      "coding-agent"
     ],
-    "language": "TypeScript",
-    "archived": false,
-    "created_at": "2026-05-25T20:11:51Z",
-    "pushed_at": "2026-05-27T14:02:39Z",
-    "updated_at": "2026-05-27T14:02:47Z",
-    "size": 123,
-    "license": "MIT",
-    "discovery_hint": "github-repo:pi-package language:TypeScript"
+    "version": "0.1.0",
+    "published_at": "2026-05-27T15:09:12.211Z",
+    "npm_downloads_monthly": 916,
+    "npm_downloads_weekly": 525,
+    "npm_score_final": 24.662165,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 72,
