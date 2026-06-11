@@ -1,4 +1,5 @@
 import path from "node:path";
+import "temporal-polyfill/global";
 import starlight from "@astrojs/starlight";
 import { defineConfig } from "astro/config";
 import { readMeta } from "../src/core/meta.ts";
@@ -7,6 +8,7 @@ import { buildChecks } from "./src/integrations/build-checks";
 import { searchIndex } from "./src/integrations/search-index";
 
 const rootDir = path.resolve(import.meta.dirname, "..");
+const siteDir = import.meta.dirname;
 
 // Use the datastore's last-update timestamp (from data/meta.json) for the site.
 // Falls back to build time if meta.json doesn't exist (e.g. first deploy).
@@ -23,6 +25,9 @@ export default defineConfig({
 		resolve: {
 			alias: {
 				"@pipeline": path.join(rootDir, "src"),
+				// Resolve temporal-polyfill from site/node_modules so the Astro build
+				// works even when root node_modules is absent (e.g. CI site-only install).
+				"temporal-polyfill": path.join(siteDir, "node_modules", "temporal-polyfill"),
 			},
 		},
 	},

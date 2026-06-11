@@ -168,6 +168,8 @@ The codebase uses **`Temporal`** (TC39 successor to `Date`) exclusively. Bun 1.3
 
 Every test file that uses Temporal imports `"../core/temporal.ts"` to activate the polyfill.
 
+The Astro site (`site/`) has its own `temporal-polyfill` dependency so the build works independently of root `node_modules`. The site config imports `temporal-polyfill/global` directly and uses a Vite resolve alias to ensure Rollup can resolve the package from `site/node_modules/` even when processing files in `../src/core/`.
+
 ---
 
 ## Core Modules
