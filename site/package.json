@@ -1,6 +1,6 @@
 {
 	"name": "awesome-pi-site",
-	"version": "2.5.4",
+	"version": "2.5.5",
 	"type": "module",
 	"private": true,
 	"scripts": {
