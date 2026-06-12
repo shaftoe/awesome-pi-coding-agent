@@ -1,0 +1,30 @@
+{
+  "id": "@karutoil/pi-lsp",
+  "name": "@karutoil/pi-lsp",
+  "url": "https://www.npmjs.com/package/@karutoil/pi-lsp",
+  "source": "npm-search",
+  "description": "Instant tree-sitter syntax diagnostics for Pi coding agent — 80+ languages, sub-ms parses, auto-checks after every edit",
+  "metadata": {
+    "github_url": "https://github.com/karutoil/pi-lsp",
+    "npm_name": "@karutoil/pi-lsp",
+    "description": "Instant tree-sitter syntax diagnostics for Pi coding agent — 80+ languages, sub-ms parses, auto-checks after every edit",
+    "keywords": [
+      "pi-package",
+      "tree-sitter",
+      "lsp",
+      "diagnostics",
+      "syntax",
+      "parser"
+    ],
+    "version": "2.0.0",
+    "published_at": "2026-06-11T19:07:46.088Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

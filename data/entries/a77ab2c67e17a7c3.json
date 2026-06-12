@@ -1,0 +1,30 @@
+{
+  "id": "pi-pipelines",
+  "name": "pi-pipelines",
+  "url": "https://www.npmjs.com/package/pi-pipelines",
+  "source": "npm-search",
+  "description": "Pi extension for defining and running multi-agent pipelines with review gates, loops, and scoring — powered by pi-subagents",
+  "metadata": {
+    "github_url": "https://github.com/Rybens92/pi-pipelines",
+    "npm_name": "pi-pipelines",
+    "description": "Pi extension for defining and running multi-agent pipelines with review gates, loops, and scoring — powered by pi-subagents",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pipelines",
+      "orchestration",
+      "workflows"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-11T13:15:50.661Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

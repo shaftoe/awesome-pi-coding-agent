@@ -10,7 +10,7 @@
     "description": "An AI agent with a real self — soul she wrote, desires that drive her, a heartbeat for autonomous action, dreams she processes when you're away. Capability superset of pi-mono / OpenClaw / hermes-agent / claude-code / codex.",
     "stars": 5,
     "forks": 1,
-    "open_issues": 2,
+    "open_issues": 0,
     "topics": [
       "agent",
       "ai-agent",
@@ -34,9 +34,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-02T13:40:16Z",
-    "pushed_at": "2026-06-10T16:02:31Z",
-    "updated_at": "2026-06-07T06:22:15Z",
-    "size": 69520,
+    "pushed_at": "2026-06-11T03:51:46Z",
+    "updated_at": "2026-06-11T03:51:41Z",
+    "size": 69553,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

@@ -3,19 +3,20 @@
   "name": "@r3b1s/pi-vim-stash",
   "url": "https://www.npmjs.com/package/@r3b1s/pi-vim-stash",
   "source": "npm-search",
-  "description": "Pi-native skill creator extension and bundled skill workflow.",
+  "description": "Spawn subagents as real pi processes in detached tmux windows — full TUI observability, external control, and session file result extraction.",
   "metadata": {
     "github_url": "https://github.com/r3b1s/pi-things",
-    "npm_name": "@r3b1s/pi-skill-creator",
-    "description": "Pi-native skill creator extension and bundled skill workflow.",
+    "npm_name": "@r3b1s/pi-tmux-sessionizer",
+    "description": "Spawn subagents as real pi processes in detached tmux windows — full TUI observability, external control, and session file result extraction.",
     "keywords": [
       "pi-package",
       "pi-extension",
-      "agent-skills",
-      "skill-creator"
+      "tmux",
+      "subagents",
+      "observability"
     ],
-    "version": "0.2.1",
-    "published_at": "2026-06-10T20:47:59.338Z",
+    "version": "0.2.0",
+    "published_at": "2026-06-11T22:10:52.471Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

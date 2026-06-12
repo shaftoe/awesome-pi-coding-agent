@@ -1,0 +1,25 @@
+{
+  "id": "duppypro-princess-pi-packages",
+  "name": "duppypro-princess-pi-packages",
+  "url": "https://github.com/duppypro/princess-pi-packages",
+  "source": "github-search",
+  "description": "My extensions and configurations I use with the Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/duppypro/princess-pi-packages",
+    "repo_full_name": "duppypro/princess-pi-packages",
+    "description": "My extensions and configurations I use with the Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-11T19:38:02Z",
+    "pushed_at": "2026-06-11T22:43:16Z",
+    "updated_at": "2026-06-11T22:43:20Z",
+    "size": 74,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "drsh4dow-pi-delegate",
+  "name": "drsh4dow-pi-delegate",
+  "url": "https://github.com/drsh4dow/pi-delegate",
+  "source": "github-search",
+  "description": "Pi extension that adds one delegate tool for isolated child-agent tasks without polluting the main context.",
+  "metadata": {
+    "github_url": "https://github.com/drsh4dow/pi-delegate",
+    "repo_full_name": "drsh4dow/pi-delegate",
+    "description": "Pi extension that adds one delegate tool for isolated child-agent tasks without polluting the main  context.",
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "bun",
+      "coding-agent",
+      "context-management",
+      "delegation",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "subagent",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T03:30:24Z",
+    "pushed_at": "2026-05-23T21:49:10Z",
+    "updated_at": "2026-05-23T21:49:14Z",
+    "size": 147,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

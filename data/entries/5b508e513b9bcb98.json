@@ -8,7 +8,7 @@
     "github_url": "https://github.com/FaqFirebase/pi-desktop",
     "repo_full_name": "FaqFirebase/pi-desktop",
     "description": "PI Desktop — a free, open-source Electron GUI for the PI coding agent. Chat, edit files, run a terminal, and review diffs in one window. Builds for Linux, macOS, and Windows.",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -29,9 +29,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-20T15:58:36Z",
-    "pushed_at": "2026-06-09T00:21:27Z",
-    "updated_at": "2026-06-09T00:21:31Z",
-    "size": 1451,
+    "pushed_at": "2026-06-11T12:43:43Z",
+    "updated_at": "2026-06-11T03:09:22Z",
+    "size": 1472,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
