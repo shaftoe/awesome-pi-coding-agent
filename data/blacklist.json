@@ -28239,5 +28239,147 @@
 		"reason": "Not about Pi coding agent: spam/irrelevant YouTube video - musical professor pI theme song fart remix",
 		"blacklisted_at": "2026-06-11T00:22:23.889Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=bge58bdxXcI",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-06-12T00:18:25.428Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=OtDx5oHF_UQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-12T00:18:25.53Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=9pj8YnGAzjs",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-12T00:18:25.549Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=EU87iIMXcGE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-12T00:18:25.619Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/osmargm1202/pi-awareness",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-12T00:18:25.651Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=frPLeH0KH4A",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-12T00:18:25.76Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/osmargm1202/pi-clear",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-12T00:18:25.799Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-jinyong-xia",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-12T00:18:25.811Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/osmargm1202/pi-subagents",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-12T00:18:25.893Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=CSRskru_VKA",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-06-12T00:18:25.904Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/osmargm1202/pi-notify",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-12T00:18:25.908Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/storywithoutend/pi-multi-agent-building-blocks",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-12T00:18:26.056Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/osmargm1202/pi-limit",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-12T00:18:26.064Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=aPYZEw-p5hE",
+		"reason": "Non-English title and description (Portuguese)",
+		"blacklisted_at": "2026-06-12T00:20:06.71Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://pi.dev/packages/pi-web-access?type=extension",
+		"reason": "Duplicate of https://pi.dev/packages/pi-web-access (same package, different URL param)",
+		"blacklisted_at": "2026-06-12T00:21:36.311Z",
+		"source": "manual"
 	}
 ]

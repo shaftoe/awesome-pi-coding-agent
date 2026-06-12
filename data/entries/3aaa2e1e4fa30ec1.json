@@ -1,0 +1,31 @@
+{
+  "id": "@datadog/pi-plugin",
+  "name": "@datadog/pi-plugin",
+  "url": "https://www.npmjs.com/package/@datadog/pi-plugin",
+  "source": "npm-search",
+  "description": "Use Datadog directly in the Pi coding agent through a preconfigured Datadog MCP server. Query logs, metrics, traces, dashboards, and more through natural conversation. This plugin is in preview.",
+  "metadata": {
+    "github_url": "https://github.com/datadog-labs/pi-plugin",
+    "npm_name": "@datadog/pi-plugin",
+    "description": "Use Datadog directly in the Pi coding agent through a preconfigured Datadog MCP server. Query logs, metrics, traces, dashboards, and more through natural conversation. This plugin is in preview.",
+    "keywords": [
+      "datadog",
+      "infrastructure",
+      "mcp",
+      "observability",
+      "productivity",
+      "pi",
+      "pi-package"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-06-11T17:02:09.650Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

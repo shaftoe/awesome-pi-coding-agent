@@ -3,11 +3,11 @@
   "name": "pi-company",
   "url": "https://www.npmjs.com/package/pi-company",
   "source": "npm-search",
-  "description": "Pi-native agent company runtime for local multi-agent project work.",
+  "description": "Run visible Pi agents like a local project team.",
   "metadata": {
     "github_url": "https://github.com/aa2246740/pi-company",
     "npm_name": "pi-company",
-    "description": "Pi-native agent company runtime for local multi-agent project work.",
+    "description": "Run visible Pi agents like a local project team.",
     "keywords": [
       "pi-package",
       "pi",
@@ -15,8 +15,8 @@
       "multi-agent",
       "cmux"
     ],
-    "version": "0.1.17",
-    "published_at": "2026-06-10T09:38:34.717Z",
+    "version": "0.1.20",
+    "published_at": "2026-06-11T06:57:08.118Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

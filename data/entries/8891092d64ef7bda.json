@@ -10,7 +10,7 @@
     "description": "P2P multi-agent scenario system for the Pi coding agent: comms-net hub (HTTP/SSE, cross-device) + one-command scenario launcher. Agents that build agents.🌱",
     "stars": 5,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "agent",
       "ai-agent",
@@ -28,9 +28,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-27T11:52:42Z",
-    "pushed_at": "2026-06-10T15:19:34Z",
-    "updated_at": "2026-06-10T15:24:14Z",
-    "size": 6202,
+    "pushed_at": "2026-06-11T15:16:26Z",
+    "updated_at": "2026-06-11T12:31:17Z",
+    "size": 6311,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

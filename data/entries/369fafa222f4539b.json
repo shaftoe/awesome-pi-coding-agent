@@ -1,0 +1,42 @@
+{
+  "id": "drsh4dow-pi-web-minimal",
+  "name": "drsh4dow-pi-web-minimal",
+  "url": "https://github.com/drsh4dow/pi-web-minimal",
+  "source": "github-search",
+  "description": "Web research tools for Pi agents that don't trash the context window. Retrieves via Exa + Context7, stores raw payloads out-of-band, returns short source-cited briefs through a distillation firewall.",
+  "metadata": {
+    "github_url": "https://github.com/drsh4dow/pi-web-minimal",
+    "repo_full_name": "drsh4dow/pi-web-minimal",
+    "description": "Web research tools for Pi agents that don't trash the context window. Retrieves via Exa + Context7, stores raw payloads out-of-band, returns short source-cited briefs through a distillation firewall.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-tools",
+      "anti-context-pollution",
+      "bun",
+      "code-search",
+      "context-engineering",
+      "context7",
+      "documentation",
+      "exa",
+      "pi",
+      "pi-coding-agent",
+      "pi-extensions",
+      "pi-package",
+      "retrieval",
+      "typescript",
+      "web-fetch",
+      "web-search"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T19:32:22Z",
+    "pushed_at": "2026-05-25T13:32:57Z",
+    "updated_at": "2026-05-25T13:33:01Z",
+    "size": 103,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

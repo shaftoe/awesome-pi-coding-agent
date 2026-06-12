@@ -1,5 +1,5 @@
 {
-  "id": "BRAVE_pi.dev_pi-subagents",
+  "id": "BRAVE_pi.dev_@tintinweb_pi-subagents",
   "name": "tintinweb/pi-subagents - Pi Coding Agent",
   "url": "https://pi.dev/packages/@tintinweb/pi-subagents",
   "source": "brave-web-search",
@@ -17,5 +17,5 @@
     "score": 46,
     "level": "maintained"
   },
-  "category": "article"
+  "category": "extension"
 }

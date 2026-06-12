@@ -1,0 +1,25 @@
+{
+  "id": "veschin-pi-apodex",
+  "name": "veschin-pi-apodex",
+  "url": "https://github.com/veschin/pi-apodex",
+  "source": "github-search",
+  "description": "Verification-centric inference-time reasoning layer for the Pi coding agent — an open replication of the Apodex-1.0 agent-team method (GVR, causal-evidence selection, claim-level audit)",
+  "metadata": {
+    "github_url": "https://github.com/veschin/pi-apodex",
+    "repo_full_name": "veschin/pi-apodex",
+    "description": "Verification-centric inference-time reasoning layer for the Pi coding agent — an open replication of the Apodex-1.0 agent-team method (GVR, causal-evidence selection, claim-level audit)",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-11T19:09:56Z",
+    "pushed_at": "2026-06-11T20:10:16Z",
+    "updated_at": "2026-06-11T20:10:21Z",
+    "size": 544,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

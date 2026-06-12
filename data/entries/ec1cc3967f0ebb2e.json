@@ -1,0 +1,25 @@
+{
+  "id": "vinzenzu-pi-auto-reviewer",
+  "name": "vinzenzu-pi-auto-reviewer",
+  "url": "https://github.com/vinzenzu/pi-auto-reviewer",
+  "source": "github-search",
+  "description": "Auto-review commands your Pi agent (pi.dev) wants to execute",
+  "metadata": {
+    "github_url": "https://github.com/vinzenzu/pi-auto-reviewer",
+    "repo_full_name": "vinzenzu/pi-auto-reviewer",
+    "description": "Auto-review commands your Pi agent (pi.dev) wants to execute",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-11T16:30:51Z",
+    "pushed_at": "2026-06-11T17:05:02Z",
+    "updated_at": "2026-06-11T17:05:17Z",
+    "size": 8,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

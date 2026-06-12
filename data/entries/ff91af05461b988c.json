@@ -1,0 +1,25 @@
+{
+  "id": "slicefsm-omp",
+  "name": "slicefsm-omp",
+  "url": "https://www.npmjs.com/package/slicefsm-omp",
+  "source": "npm-search",
+  "description": "slicefsm harness for omp: an omp/pi extension that enforces the slice FSM (block + log + per-turn tool gating + affordance) by bridging to the slicefsm python hook",
+  "metadata": {
+    "github_url": "https://github.com/hionpu/slicefsm-omp",
+    "npm_name": "slicefsm-omp",
+    "description": "slicefsm harness for omp: an omp/pi extension that enforces the slice FSM (block + log + per-turn tool gating + affordance) by bridging to the slicefsm python hook",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-06-11T03:23:49.312Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

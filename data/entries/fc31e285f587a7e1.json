@@ -1,0 +1,25 @@
+{
+  "id": "alexanderop-pi-references",
+  "name": "alexanderop-pi-references",
+  "url": "https://github.com/alexanderop/pi-references",
+  "source": "github-search",
+  "description": "Pi extension that adds OpenCode-style references: local directories and Git repositories as agent context",
+  "metadata": {
+    "github_url": "https://github.com/alexanderop/pi-references",
+    "repo_full_name": "alexanderop/pi-references",
+    "description": "Pi extension that adds OpenCode-style references: local directories and Git repositories as agent context",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-11T10:15:47Z",
+    "pushed_at": "2026-06-11T22:45:49Z",
+    "updated_at": "2026-06-11T22:45:51Z",
+    "size": 5527,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}
