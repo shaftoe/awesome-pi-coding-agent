@@ -1,0 +1,25 @@
+{
+  "id": "springcomp-pi-pwsh",
+  "name": "springcomp-pi-pwsh",
+  "url": "https://github.com/springcomp/pi-pwsh",
+  "source": "github-search",
+  "description": "A pi coding agent extension that replaces bash with pwsh",
+  "metadata": {
+    "github_url": "https://github.com/springcomp/pi-pwsh",
+    "repo_full_name": "springcomp/pi-pwsh",
+    "description": "A pi coding agent extension that replaces bash with pwsh",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-12T10:11:34Z",
+    "pushed_at": "2026-06-12T11:43:07Z",
+    "updated_at": "2026-06-12T11:43:11Z",
+    "size": 98,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

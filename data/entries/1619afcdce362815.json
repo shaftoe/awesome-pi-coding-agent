@@ -1,0 +1,25 @@
+{
+  "id": "losnappas-pi-code-formatter",
+  "name": "losnappas-pi-code-formatter",
+  "url": "https://github.com/losnappas/pi-code-formatter",
+  "source": "github-search",
+  "description": "Formatter for Pi coding agent, inspired by opencode",
+  "metadata": {
+    "github_url": "https://github.com/losnappas/pi-code-formatter",
+    "repo_full_name": "losnappas/pi-code-formatter",
+    "description": "Formatter for Pi coding agent, inspired by opencode",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-12T11:26:23Z",
+    "pushed_at": "2026-06-12T11:38:26Z",
+    "updated_at": "2026-06-12T11:38:29Z",
+    "size": 6,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

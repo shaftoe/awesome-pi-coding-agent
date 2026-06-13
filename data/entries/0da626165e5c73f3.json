@@ -1,0 +1,31 @@
+{
+  "id": "mapleluvr-pi-email-owner",
+  "name": "mapleluvr-pi-email-owner",
+  "url": "https://github.com/mapleluvr/pi-email-owner",
+  "source": "github-search",
+  "description": "Pi extension package that lets the Agent email a configured Owner via SMTP.",
+  "metadata": {
+    "github_url": "https://github.com/mapleluvr/pi-email-owner",
+    "repo_full_name": "mapleluvr/pi-email-owner",
+    "description": "Pi extension package that lets the Agent email a configured Owner via SMTP.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "email",
+      "nodemailer",
+      "pi-extension",
+      "pi-package",
+      "smtp"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-12T11:03:49Z",
+    "pushed_at": "2026-06-12T11:03:53Z",
+    "updated_at": "2026-06-12T11:04:34Z",
+    "size": 33,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

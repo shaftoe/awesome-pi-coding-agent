@@ -1,0 +1,31 @@
+{
+  "id": "sainzs-reckoner",
+  "name": "sainzs-reckoner",
+  "url": "https://github.com/sainzs/reckoner",
+  "source": "github-search",
+  "description": "Memory and policy package for the pi coding agent: persistent lessons, guardrails, and verification loops so agents compound competence across sessions",
+  "metadata": {
+    "github_url": "https://github.com/sainzs/reckoner",
+    "repo_full_name": "sainzs/reckoner",
+    "description": "Memory and policy package for the pi coding agent: persistent lessons, guardrails, and verification loops so agents compound competence across sessions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "coding-agent",
+      "developer-tools",
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-12T20:34:07Z",
+    "pushed_at": "2026-06-12T20:34:13Z",
+    "updated_at": "2026-06-12T20:34:19Z",
+    "size": 195,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

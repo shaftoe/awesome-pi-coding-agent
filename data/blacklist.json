@@ -28381,5 +28381,151 @@
 		"reason": "Duplicate of https://pi.dev/packages/pi-web-access (same package, different URL param)",
 		"blacklisted_at": "2026-06-12T00:21:36.311Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/ACS-USP/scidekick",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-13T00:19:24.91Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/johncmunson/pi-openai-fast-mode",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-13T00:19:24.926Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=V45fdjp_JXM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-13T00:19:24.973Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=GvHUxRXcgI0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-13T00:19:25.123Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@bluerangala/feishu-lawtools",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-13T00:19:25.158Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=QqtW2q9ftu0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-13T00:19:25.171Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=GhjU-KvXtT0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-13T00:19:25.183Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=UhK3ukd8jVc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-13T00:19:25.195Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/porameht/pi-autodesk-fusion",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-13T00:19:25.345Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=4gxBmLei8_o",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-13T00:19:25.408Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/andresborelly/Pixels-Agents",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-13T00:19:25.456Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/tale-project/tale",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-13T00:19:25.556Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=DPgJjRdQWrg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-13T00:19:25.639Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=EmwW59QMadY",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-13T00:19:25.643Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-observational-memory-pct",
+		"reason": "Non-English description (Portuguese): Fork de pi-observational-memory com suporte a percentuais nos thresholds",
+		"blacklisted_at": "2026-06-13T00:21:08.9Z",
+		"source": "manual"
 	}
 ]

@@ -1,0 +1,25 @@
+{
+  "id": "jiangge-pi-router",
+  "name": "jiangge-pi-router",
+  "url": "https://github.com/jiangge/pi-router",
+  "source": "github-search",
+  "description": "Transparent two-tier router for pi coding agent — routes channels first, with opt-in model fallback chain. Zero protocol coupling.",
+  "metadata": {
+    "github_url": "https://github.com/jiangge/pi-router",
+    "repo_full_name": "jiangge/pi-router",
+    "description": "Transparent two-tier router for pi coding agent — routes channels first, with opt-in model fallback chain. Zero protocol coupling.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-12T09:22:57Z",
+    "pushed_at": "2026-06-12T09:23:02Z",
+    "updated_at": "2026-06-12T15:53:11Z",
+    "size": 5,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

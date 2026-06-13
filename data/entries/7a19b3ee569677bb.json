@@ -3,11 +3,11 @@
   "name": "@sting8k/pi-srcwalk",
   "url": "https://www.npmjs.com/package/@sting8k/pi-srcwalk",
   "source": "npm-search",
-  "description": "Agent-friendly srcwalk wrapper for Pi coding agents",
+  "description": "Makes structural code-intelligence easy for AI coding agents",
   "metadata": {
     "github_url": "https://github.com/sting8k/pi-srcwalk",
     "npm_name": "@sting8k/pi-srcwalk",
-    "description": "Agent-friendly srcwalk wrapper for Pi coding agents",
+    "description": "Makes structural code-intelligence easy for AI coding agents",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -16,8 +16,8 @@
       "semantic-query",
       "semantic-grep"
     ],
-    "version": "1.2.1",
-    "published_at": "2026-06-09T15:58:51.354Z",
+    "version": "1.2.2",
+    "published_at": "2026-06-12T04:28:06.976Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,
