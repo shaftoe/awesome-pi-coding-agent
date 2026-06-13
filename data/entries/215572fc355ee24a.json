@@ -8,7 +8,7 @@
     "github_url": "https://github.com/9963KK/obsidian-pi-ide",
     "repo_full_name": "9963KK/obsidian-pi-ide",
     "description": "Connect Obsidian to Pi Coding Agent via the pi-ide protocol.",
-    "stars": 2,
+    "stars": 3,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-06T10:05:10Z",
     "pushed_at": "2026-06-07T03:33:15Z",
-    "updated_at": "2026-06-08T14:34:14Z",
+    "updated_at": "2026-06-12T21:01:09Z",
     "size": 38,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

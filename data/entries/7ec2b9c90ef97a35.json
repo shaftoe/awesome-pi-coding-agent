@@ -1,0 +1,25 @@
+{
+  "id": "osmargm1202-pi-banner",
+  "name": "osmargm1202-pi-banner",
+  "url": "https://github.com/osmargm1202/pi-banner",
+  "source": "github-search",
+  "description": "ORGM Pi extension package: banner",
+  "metadata": {
+    "github_url": "https://github.com/osmargm1202/pi-banner",
+    "repo_full_name": "osmargm1202/pi-banner",
+    "description": "ORGM Pi extension package: banner",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-11T18:21:54Z",
+    "pushed_at": "2026-06-12T17:31:16Z",
+    "updated_at": "2026-06-12T17:31:22Z",
+    "size": 66,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

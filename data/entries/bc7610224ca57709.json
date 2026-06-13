@@ -1,0 +1,31 @@
+{
+  "id": "yboyer-pi-config",
+  "name": "yboyer-pi-config",
+  "url": "https://github.com/yboyer/pi-config",
+  "source": "github-search",
+  "description": "Pi package with custom extensions, skills, and prompt templates",
+  "metadata": {
+    "github_url": "https://github.com/yboyer/pi-config",
+    "repo_full_name": "yboyer/pi-config",
+    "description": "Pi package with custom extensions, skills, and prompt templates",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "extensions",
+      "pi",
+      "pi-package",
+      "prompts",
+      "skills"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-17T14:09:31Z",
+    "pushed_at": "2026-06-12T17:07:43Z",
+    "updated_at": "2026-06-12T17:08:32Z",
+    "size": 1056,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_medium.com_a-sovereign-coding-agent-on-macos-pi-in-",
+  "name": "A Sovereign Coding Agent on macOS — PI in an Apple Container; Zero npm on the Host",
+  "url": "https://medium.com/@michael.hannecke/a-sovereign-coding-agent-on-macos-pi-in-an-apple-container-zero-npm-on-the-host-46f62ffade0a",
+  "source": "brave-web-search",
+  "description": "Run the pi coding agent in a disposable Apple container, with local MLX inference on Apple Silicon and no npm or Node on the host. Sovereign and auditable.",
+  "metadata": {
+    "title": "A Sovereign Coding Agent on macOS — PI in an Apple Container; Zero npm on the Host",
+    "name": "A Sovereign Coding Agent on macOS — PI in an Apple Container; Zero npm on the Host",
+    "description": "Run the pi coding agent in a disposable Apple container, with local MLX inference on Apple Silicon and no npm or Node on the host. Sovereign and auditable.",
+    "published_at": "2026-05-20T09:44:19",
+    "source_site": "Medium",
+    "source_url": "https://medium.com/@michael.hannecke/a-sovereign-coding-agent-on-macos-pi-in-an-apple-container-zero-npm-on-the-host-46f62ffade0a",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

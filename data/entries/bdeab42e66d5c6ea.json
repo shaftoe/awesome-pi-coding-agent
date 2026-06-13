@@ -10,7 +10,7 @@
     "description": "Rule context loader extension for the pi coding agent",
     "stars": 8,
     "forks": 1,
-    "open_issues": 2,
+    "open_issues": 1,
     "topics": [
       "agent-rules",
       "agents-md",
@@ -31,9 +31,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-29T08:05:46Z",
-    "pushed_at": "2026-06-10T19:24:17Z",
-    "updated_at": "2026-06-05T23:29:05Z",
-    "size": 234,
+    "pushed_at": "2026-06-12T02:59:21Z",
+    "updated_at": "2026-06-12T02:59:24Z",
+    "size": 235,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

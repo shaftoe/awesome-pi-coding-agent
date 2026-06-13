@@ -1,0 +1,25 @@
+{
+  "id": "purplesmoke05-pi-config",
+  "name": "purplesmoke05-pi-config",
+  "url": "https://github.com/purplesmoke05/pi-config",
+  "source": "github-search",
+  "description": "Personal pi coding agent customizations: extensions, skills, and prompt templates",
+  "metadata": {
+    "github_url": "https://github.com/purplesmoke05/pi-config",
+    "repo_full_name": "purplesmoke05/pi-config",
+    "description": "Personal pi coding agent customizations: extensions, skills, and prompt templates",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-12T17:08:49Z",
+    "pushed_at": "2026-06-12T17:08:52Z",
+    "updated_at": "2026-06-12T17:09:05Z",
+    "size": 19,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

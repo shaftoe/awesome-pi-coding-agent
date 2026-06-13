@@ -1,0 +1,34 @@
+{
+  "id": "pi-build-ios-apps",
+  "name": "pi-build-ios-apps",
+  "url": "https://www.npmjs.com/package/pi-build-ios-apps",
+  "source": "npm-search",
+  "description": "Build, launch, and browser-debug iOS Simulator apps from Pi.",
+  "metadata": {
+    "github_url": "https://github.com/aa2246740/pi-build-ios-apps",
+    "npm_name": "pi-build-ios-apps",
+    "description": "Build, launch, and browser-debug iOS Simulator apps from Pi.",
+    "keywords": [
+      "pi-package",
+      "pi-agent",
+      "pi-extension",
+      "ios",
+      "xcode",
+      "simulator",
+      "serve-sim",
+      "cmux",
+      "pi-company",
+      "mobile"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-06-12T17:57:41.043Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
