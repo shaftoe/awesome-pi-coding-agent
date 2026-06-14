@@ -1,0 +1,25 @@
+{
+  "id": "iwtown-pi-artisan",
+  "name": "iwtown-pi-artisan",
+  "url": "https://github.com/iwtown/pi-artisan",
+  "source": "github-search",
+  "description": "Pi Agent artisan quality gate — validates skills, extensions, prompts, themes, packages for the human-packaged capability track",
+  "metadata": {
+    "github_url": "https://github.com/iwtown/pi-artisan",
+    "repo_full_name": "iwtown/pi-artisan",
+    "description": "Pi Agent artisan quality gate — validates skills, extensions, prompts, themes, packages for the human-packaged capability track",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-13T01:23:17Z",
+    "pushed_at": "2026-06-13T06:39:27Z",
+    "updated_at": "2026-06-13T06:39:30Z",
+    "size": 118,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "pi-simple-voice",
+  "name": "pi-simple-voice",
+  "url": "https://www.npmjs.com/package/pi-simple-voice",
+  "source": "npm-search",
+  "description": "Streaming, verbatim Kokoro TTS for the Pi agent — speaks the assistant's output as it streams, no summarization.",
+  "metadata": {
+    "github_url": "https://github.com/grrowl/pi-simple-voice",
+    "npm_name": "pi-simple-voice",
+    "description": "Streaming, verbatim Kokoro TTS for the Pi agent — speaks the assistant's output as it streams, no summarization.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "tts",
+      "kokoro",
+      "speech-synthesis",
+      "streaming"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-06-13T09:17:06.793Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

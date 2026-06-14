@@ -1,0 +1,25 @@
+{
+  "id": "ajjaic-pi-ext-tool-context7",
+  "name": "ajjaic-pi-ext-tool-context7",
+  "url": "https://github.com/ajjaic/pi-ext-tool-context7",
+  "source": "github-search",
+  "description": "An extension for the Pi coding agent that provides 2 tools to the agent for searching for libraries/packages for various use cases and for querying those libraries/packages for how to use them",
+  "metadata": {
+    "github_url": "https://github.com/ajjaic/pi-ext-tool-context7",
+    "repo_full_name": "ajjaic/pi-ext-tool-context7",
+    "description": "An extension for the Pi coding agent that provides 2 tools to the agent for searching for libraries/packages for various use cases and for querying those libraries/packages for how to use them",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-13T12:19:02Z",
+    "pushed_at": "2026-06-13T12:22:02Z",
+    "updated_at": "2026-06-13T12:22:06Z",
+    "size": 17,
+    "license": "AGPL-3.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

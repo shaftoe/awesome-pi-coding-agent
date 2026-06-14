@@ -1,0 +1,33 @@
+{
+  "id": "adityavkk-pi-familiar-tools",
+  "name": "adityavkk-pi-familiar-tools",
+  "url": "https://github.com/adityavkk/pi-familiar-tools",
+  "source": "github-search",
+  "description": "Provider-familiar Claude, Codex, and Gemini tool surfaces for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/adityavkk/pi-familiar-tools",
+    "repo_full_name": "adityavkk/pi-familiar-tools",
+    "description": "Provider-familiar Claude, Codex, and Gemini tool surfaces for the Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "claude",
+      "codex",
+      "gemini",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-13T21:20:33Z",
+    "pushed_at": "2026-06-13T21:21:12Z",
+    "updated_at": "2026-06-13T21:20:51Z",
+    "size": 185,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

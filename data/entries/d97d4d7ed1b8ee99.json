@@ -1,0 +1,35 @@
+{
+  "id": "pi-rust-skills",
+  "name": "pi-rust-skills",
+  "url": "https://www.npmjs.com/package/pi-rust-skills",
+  "source": "npm-search",
+  "description": "Rust programming skills and a lightweight Rust project context tool for Pi Coding Agent.",
+  "metadata": {
+    "github_url": "https://github.com/gripebomb/pi-rust-skills",
+    "npm_name": "pi-rust-skills",
+    "description": "Rust programming skills and a lightweight Rust project context tool for Pi Coding Agent.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "agent-skills",
+      "skills",
+      "rust",
+      "cargo",
+      "clippy",
+      "rustfmt",
+      "tokio"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-06-13T22:22:35.875Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

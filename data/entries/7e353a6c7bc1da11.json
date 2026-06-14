@@ -23,7 +23,7 @@
     "created_at": "2026-06-02T15:26:51Z",
     "pushed_at": "2026-06-13T00:15:58Z",
     "updated_at": "2026-06-13T00:15:36Z",
-    "size": 920,
+    "size": 898,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

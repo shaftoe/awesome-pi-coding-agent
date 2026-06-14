@@ -1,0 +1,28 @@
+{
+  "id": "lantisprime-pi-extensions",
+  "name": "lantisprime-pi-extensions",
+  "url": "https://github.com/lantisprime/pi-extensions",
+  "source": "github-search",
+  "description": "Pi Coding Agent Extensions",
+  "metadata": {
+    "github_url": "https://github.com/lantisprime/pi-extensions",
+    "repo_full_name": "lantisprime/pi-extensions",
+    "description": "Pi Coding Agent Extensions",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-agent",
+      "pi-agent-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-13T11:47:21Z",
+    "pushed_at": "2026-06-13T15:53:57Z",
+    "updated_at": "2026-06-13T15:59:39Z",
+    "size": 77,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

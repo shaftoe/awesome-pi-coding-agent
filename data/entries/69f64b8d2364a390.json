@@ -10,7 +10,7 @@
     "description": "Custom pi agent setup bootstrap with extensions, skills, prompts, themes, and install scripts",
     "stars": 0,
     "forks": 0,
-    "open_issues": 7,
+    "open_issues": 9,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

@@ -1,0 +1,25 @@
+{
+  "id": "somaholiday-vscode-pi-bridge",
+  "name": "somaholiday-vscode-pi-bridge",
+  "url": "https://github.com/somaholiday/vscode-pi-bridge",
+  "source": "github-search",
+  "description": "Claude-Code-style /ide awareness for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/somaholiday/vscode-pi-bridge",
+    "repo_full_name": "somaholiday/vscode-pi-bridge",
+    "description": "Claude-Code-style /ide awareness for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-13T06:15:24Z",
+    "pushed_at": "2026-06-13T20:44:01Z",
+    "updated_at": "2026-06-13T20:44:05Z",
+    "size": 21,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

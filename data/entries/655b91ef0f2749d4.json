@@ -1,0 +1,40 @@
+{
+  "id": "david-aistudio-hera",
+  "name": "david-aistudio-hera",
+  "url": "https://github.com/david-aistudio/hera",
+  "source": "github-search",
+  "description": "Complete architecture reference for building production-grade AI coding agents. Verified from Pi Agent (62K stars). Code templates, validation, deployment guides, 18+ agents supported.",
+  "metadata": {
+    "github_url": "https://github.com/david-aistudio/hera",
+    "repo_full_name": "david-aistudio/hera",
+    "description": "Complete architecture reference for building production-grade AI coding agents. Verified from Pi Agent (62K stars). Code templates, validation, deployment guides, 18+ agents supported.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "architecture",
+      "claude",
+      "coding-agent",
+      "copilot",
+      "cursor",
+      "framework",
+      "hera",
+      "llm",
+      "openai",
+      "pi-agent",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-13T05:24:06Z",
+    "pushed_at": "2026-06-13T19:15:52Z",
+    "updated_at": "2026-06-13T19:15:56Z",
+    "size": 852,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}
