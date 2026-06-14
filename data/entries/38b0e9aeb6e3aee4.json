@@ -1,0 +1,41 @@
+{
+  "id": "Relrin-pi-deck",
+  "name": "Relrin-pi-deck",
+  "url": "https://github.com/Relrin/pi-deck",
+  "source": "github-search",
+  "description": "A friendly desktop client for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Relrin/pi-deck",
+    "repo_full_name": "Relrin/pi-deck",
+    "description": "A friendly desktop client for Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-coding-agent",
+      "assistant",
+      "chat",
+      "coding-agent",
+      "cross-platform",
+      "desktop",
+      "developer-tools",
+      "electron",
+      "open-source",
+      "pi",
+      "pi-coding-agent",
+      "pi-dev",
+      "typescript",
+      "web",
+      "webview"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-08T21:48:42Z",
+    "pushed_at": "2026-06-13T21:51:07Z",
+    "updated_at": "2026-06-13T21:51:11Z",
+    "size": 2083,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -3,13 +3,13 @@
   "name": "selimozten-elek",
   "url": "https://github.com/selimozten/elek",
   "source": "github-search",
-  "description": "AI code review GitHub Action — model-agnostic via pi (DeepSeek, Z.AI, OpenAI, Anthropic, Google, …). Posts inline review threads on changed lines. Cannot approve, merge, or close (structural guarantee, not a runtime check).",
+  "description": "AI code review GitHub Action for pull requests, model-agnostic via pi and ready for OpenRouter, DeepSeek, OpenAI, Anthropic, Google, and more. Posts inline review threads without approve, merge, or close powers.",
   "metadata": {
     "github_url": "https://github.com/selimozten/elek",
     "repo_full_name": "selimozten/elek",
-    "description": "AI code review GitHub Action — model-agnostic via pi (DeepSeek, Z.AI, OpenAI, Anthropic, Google, …). Posts inline review threads on changed lines. Cannot approve, merge, or close (structural guarantee, not a runtime check).",
-    "stars": 2,
-    "forks": 0,
+    "description": "AI code review GitHub Action for pull requests, model-agnostic via pi and ready for OpenRouter, DeepSeek, OpenAI, Anthropic, Google, and more. Posts inline review threads without approve, merge, or close powers.",
+    "stars": 3,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "ai",
@@ -28,6 +28,7 @@
       "model-agnostic",
       "model-context-protocol",
       "openai",
+      "openrouter",
       "pi-coding-agent",
       "pull-request",
       "typescript"
@@ -35,10 +36,10 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-03T15:29:23Z",
-    "pushed_at": "2026-05-03T23:06:49Z",
-    "updated_at": "2026-06-08T14:52:38Z",
-    "size": 287,
-    "license": null,
+    "pushed_at": "2026-06-13T21:33:38Z",
+    "updated_at": "2026-06-13T21:33:41Z",
+    "size": 363,
+    "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {

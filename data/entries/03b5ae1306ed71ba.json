@@ -8,7 +8,7 @@
     "github_url": "https://github.com/corwinm/coding-agents-tmux",
     "repo_full_name": "corwinm/coding-agents-tmux",
     "description": "Track, monitor, and jump between agent sessions in tmux",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-03-09T07:05:03Z",
     "pushed_at": "2026-06-07T22:44:13Z",
-    "updated_at": "2026-06-07T22:44:15Z",
+    "updated_at": "2026-06-13T12:31:51Z",
     "size": 5677,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
