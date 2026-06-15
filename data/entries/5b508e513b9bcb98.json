@@ -31,7 +31,7 @@
     "created_at": "2026-05-20T15:58:36Z",
     "pushed_at": "2026-06-13T23:15:18Z",
     "updated_at": "2026-06-11T03:09:22Z",
-    "size": 1483,
+    "size": 1525,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

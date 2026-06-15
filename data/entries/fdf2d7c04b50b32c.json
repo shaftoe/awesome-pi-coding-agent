@@ -1,0 +1,25 @@
+{
+  "id": "shivam2014-pi-files",
+  "name": "shivam2014-pi-files",
+  "url": "https://github.com/shivam2014/pi-files",
+  "source": "github-search",
+  "description": "Pi coding agent extensions, skills, and config files",
+  "metadata": {
+    "github_url": "https://github.com/shivam2014/pi-files",
+    "repo_full_name": "shivam2014/pi-files",
+    "description": "Pi coding agent extensions, skills, and config files",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-11T13:33:07Z",
+    "pushed_at": "2026-06-14T15:57:44Z",
+    "updated_at": "2026-06-14T15:57:48Z",
+    "size": 196,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}
