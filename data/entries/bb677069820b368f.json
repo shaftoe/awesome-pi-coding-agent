@@ -9,7 +9,7 @@
     "repo_full_name": "selimozten/elek",
     "description": "AI code review GitHub Action for pull requests, model-agnostic via pi and ready for OpenRouter, DeepSeek, OpenAI, Anthropic, Google, and more. Posts inline review threads without approve, merge, or close powers.",
     "stars": 3,
-    "forks": 1,
+    "forks": 0,
     "open_issues": 0,
     "topics": [
       "ai",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-03T15:29:23Z",
-    "pushed_at": "2026-06-13T21:33:38Z",
-    "updated_at": "2026-06-13T21:33:41Z",
-    "size": 363,
+    "pushed_at": "2026-06-14T08:08:24Z",
+    "updated_at": "2026-06-14T08:08:27Z",
+    "size": 394,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

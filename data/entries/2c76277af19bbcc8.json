@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ayuayue/PiDeck",
     "repo_full_name": "ayuayue/PiDeck",
     "description": "Desktop workbench for managing multiple pi coding-agent sessions across project folders.",
-    "stars": 94,
+    "stars": 105,
     "forks": 10,
     "open_issues": 1,
     "topics": [
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-31T12:40:24Z",
-    "pushed_at": "2026-06-13T18:37:58Z",
-    "updated_at": "2026-06-13T18:39:03Z",
-    "size": 3638,
+    "pushed_at": "2026-06-14T15:45:58Z",
+    "updated_at": "2026-06-14T20:40:15Z",
+    "size": 4804,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

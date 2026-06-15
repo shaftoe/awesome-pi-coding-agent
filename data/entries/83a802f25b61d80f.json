@@ -1,0 +1,30 @@
+{
+  "id": "pi-monitor-plugin",
+  "name": "pi-monitor-plugin",
+  "url": "https://www.npmjs.com/package/pi-monitor-plugin",
+  "source": "npm-search",
+  "description": "Background, monitor, loop, and schedule jobs for the pi coding agent, with idle-aware session notifications. Ships a skill that watches GitHub for PRs awaiting your review and notifies your session.",
+  "metadata": {
+    "github_url": "https://github.com/Shodocan/pi-monitor-plugin",
+    "npm_name": "pi-monitor-plugin",
+    "description": "Background, monitor, loop, and schedule jobs for the pi coding agent, with idle-aware session notifications. Ships a skill that watches GitHub for PRs awaiting your review and notifies your session.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "background-jobs",
+      "monitoring",
+      "notifications",
+      "github"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-14T00:54:11.872Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

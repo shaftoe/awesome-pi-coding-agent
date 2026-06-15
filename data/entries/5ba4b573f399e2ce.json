@@ -1,0 +1,25 @@
+{
+  "id": "kanhub-007-pi-extensions",
+  "name": "kanhub-007-pi-extensions",
+  "url": "https://github.com/kanhub-007/pi-extensions",
+  "source": "github-search",
+  "description": "Pi coding agent extensions (review commands, TDD, spec tools)",
+  "metadata": {
+    "github_url": "https://github.com/kanhub-007/pi-extensions",
+    "repo_full_name": "kanhub-007/pi-extensions",
+    "description": "Pi coding agent extensions (review commands, TDD, spec tools)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-14T12:22:04Z",
+    "pushed_at": "2026-06-14T12:39:57Z",
+    "updated_at": "2026-06-14T12:40:01Z",
+    "size": 90,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

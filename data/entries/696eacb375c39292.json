@@ -1,0 +1,28 @@
+{
+  "id": "jarcelao-pi-exa-api",
+  "name": "jarcelao-pi-exa-api",
+  "url": "https://github.com/jarcelao/pi-exa-api",
+  "source": "github-search",
+  "description": "Web search and content fetching for pi via the Exa API",
+  "metadata": {
+    "github_url": "https://github.com/jarcelao/pi-exa-api",
+    "repo_full_name": "jarcelao/pi-exa-api",
+    "description": "Web search and content fetching for pi via the Exa API",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "exa",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": true,
+    "created_at": "2026-03-19T07:12:27Z",
+    "pushed_at": "2026-06-13T17:43:37Z",
+    "updated_at": "2026-06-13T17:44:01Z",
+    "size": 254,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

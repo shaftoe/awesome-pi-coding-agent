@@ -28847,5 +28847,151 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-package"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=o7kTmsmacB4",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-06-15T00:07:25.148Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=GTuSklCtIEY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-15T00:07:25.326Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=gqR5N9eVVXs",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-15T00:07:25.354Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=R5AKjlrER8E",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-15T00:07:25.398Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/joelhooks/pi-rhizomatic",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-15T00:07:25.413Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/xhongc/spark-novel",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-15T00:07:25.453Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=YoBx0PMNNFI",
+		"reason": "pop culture pi signal: \"magnum pi\"",
+		"blacklisted_at": "2026-06-15T00:07:25.504Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/Ramtoi/skill-tree",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-15T00:07:25.543Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=6CCh29dQAmg",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-06-15T00:07:25.613Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=snn4xYhftxE",
+		"reason": "pop culture pi signal: \"magnum pi\"",
+		"blacklisted_at": "2026-06-15T00:07:25.654Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=atmxwwjjl1Q",
+		"reason": "non-english language (indonesian)",
+		"blacklisted_at": "2026-06-15T00:07:25.716Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=AKu9uH7YcjY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-15T00:07:25.736Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=DtFsA0etymA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-15T00:07:25.783Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=3whLVGeI3EU",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-06-15T00:07:25.799Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/acoyfellow/cache-layer",
+		"reason": "Not about Pi coding agent - general AI cache layer, 'pi proof' refers to mathematical pi",
+		"blacklisted_at": "2026-06-15T00:09:26.587Z",
+		"source": "manual"
 	}
 ]

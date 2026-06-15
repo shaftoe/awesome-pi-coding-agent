@@ -1,0 +1,27 @@
+{
+  "id": "pi-retention",
+  "name": "pi-retention",
+  "url": "https://www.npmjs.com/package/pi-retention",
+  "source": "npm-search",
+  "description": "Local retention tracker for Pi skills and extensions.",
+  "metadata": {
+    "github_url": "https://github.com/eiei114/pi-retention",
+    "npm_name": "pi-retention",
+    "description": "Local retention tracker for Pi skills and extensions.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "typescript"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-06-14T15:06:34.644Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

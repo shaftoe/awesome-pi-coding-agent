@@ -8,7 +8,7 @@
     "github_url": "https://github.com/MaddieMo1/Pi-Agent-Web",
     "repo_full_name": "MaddieMo1/Pi-Agent-Web",
     "description": "",
-    "stars": 7,
+    "stars": 8,
     "forks": 0,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-27T07:10:51Z",
     "pushed_at": "2026-06-09T08:33:30Z",
-    "updated_at": "2026-06-12T03:27:17Z",
+    "updated_at": "2026-06-14T04:02:57Z",
     "size": 60118,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

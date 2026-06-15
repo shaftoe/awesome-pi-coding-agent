@@ -9,8 +9,8 @@
     "repo_full_name": "leohenon/pi-anthropic-oauth",
     "description": "Pi extension for Anthropic OAuth with Claude Pro/Max.",
     "stars": 46,
-    "forks": 9,
-    "open_issues": 1,
+    "forks": 10,
+    "open_issues": 2,
     "topics": [
       "claude",
       "pi",

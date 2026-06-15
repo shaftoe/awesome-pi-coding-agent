@@ -1,0 +1,27 @@
+{
+  "id": "intulint-pi-extension-manager",
+  "name": "intulint-pi-extension-manager",
+  "url": "https://github.com/intulint/pi-extension-manager",
+  "source": "github-search",
+  "description": "An interactive TUI extension for pi-coding-agent — manage extensions, packages, skills, and tools directly from the pi command line.",
+  "metadata": {
+    "github_url": "https://github.com/intulint/pi-extension-manager",
+    "repo_full_name": "intulint/pi-extension-manager",
+    "description": "An interactive TUI extension for pi-coding-agent — manage extensions, packages, skills, and tools directly from the pi command line.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-10T18:58:23Z",
+    "pushed_at": "2026-06-14T18:51:03Z",
+    "updated_at": "2026-06-14T18:51:07Z",
+    "size": 74,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
