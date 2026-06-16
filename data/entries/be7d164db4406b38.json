@@ -1,0 +1,25 @@
+{
+  "id": "BrettBedarf-pi-pipe",
+  "name": "BrettBedarf-pi-pipe",
+  "url": "https://github.com/BrettBedarf/pi-pipe",
+  "source": "github-search",
+  "description": "Pi coding agent slopstension to pipe last agent message to cmd in overlay",
+  "metadata": {
+    "github_url": "https://github.com/BrettBedarf/pi-pipe",
+    "repo_full_name": "BrettBedarf/pi-pipe",
+    "description": "Pi coding agent slopstension  to pipe last agent message to cmd in overlay",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-15T03:25:05Z",
+    "pushed_at": "2026-06-15T03:31:23Z",
+    "updated_at": "2026-06-15T03:31:26Z",
+    "size": 27,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

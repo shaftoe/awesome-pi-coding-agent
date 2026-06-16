@@ -1,0 +1,30 @@
+{
+  "id": "pi-lazy-extensions",
+  "name": "pi-lazy-extensions",
+  "url": "https://www.npmjs.com/package/pi-lazy-extensions",
+  "source": "npm-search",
+  "description": "Lazy-load pi extensions on demand via a ToolSearch-style proxy tool",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-lazy-extensions",
+    "description": "Lazy-load pi extensions on demand via a ToolSearch-style proxy tool",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "lazy",
+      "extension",
+      "coding-agent",
+      "tool-search"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-06-15T19:56:27.559Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

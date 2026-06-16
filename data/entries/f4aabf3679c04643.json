@@ -10,7 +10,7 @@
     "description": "Production agent harness — kernel + plugin layer built on @mariozechner/pi-ai. Hook-first design, 4 hook shapes, parallel tool exec, 11 plugins, 3 controllers.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

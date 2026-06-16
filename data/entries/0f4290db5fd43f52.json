@@ -1,0 +1,25 @@
+{
+  "id": "ww2521-pi-a2a-adaptor",
+  "name": "ww2521-pi-a2a-adaptor",
+  "url": "https://github.com/ww2521/pi-a2a-adaptor",
+  "source": "github-search",
+  "description": "a2a adaptor for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/ww2521/pi-a2a-adaptor",
+    "repo_full_name": "ww2521/pi-a2a-adaptor",
+    "description": "a2a adaptor for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-15T12:55:57Z",
+    "pushed_at": "2026-06-15T14:03:18Z",
+    "updated_at": "2026-06-15T14:04:00Z",
+    "size": 11692,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

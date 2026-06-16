@@ -1,0 +1,28 @@
+{
+  "id": "pi-submarine",
+  "name": "pi-submarine",
+  "url": "https://www.npmjs.com/package/pi-submarine",
+  "source": "npm-search",
+  "description": "A no-nonsense Pi extension for focused foreground child-session delegation.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-submarine",
+    "description": "A no-nonsense Pi extension for focused foreground child-session delegation.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "subagent",
+      "pi"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-15T00:48:13.071Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/neevparikh/pi-cas-provider",
     "repo_full_name": "neevparikh/pi-cas-provider",
     "description": "Pi extension: Claude provider via @anthropic-ai/claude-agent-sdk. Inherits Claude Code auth, supports fast mode on Opus.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-18T18:55:52Z",
     "pushed_at": "2026-06-08T17:32:46Z",
-    "updated_at": "2026-06-08T17:32:51Z",
+    "updated_at": "2026-06-15T06:13:39Z",
     "size": 658,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

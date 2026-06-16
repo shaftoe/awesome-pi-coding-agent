@@ -1,0 +1,25 @@
+{
+  "id": "pi-autoresearch-harness",
+  "name": "pi-autoresearch-harness",
+  "url": "https://www.npmjs.com/package/pi-autoresearch-harness",
+  "source": "npm-search",
+  "description": "Autonomous experiment loop for pi — run, measure, keep or discard. Inspired by karpathy/autoresearch.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-autoresearch-harness",
+    "description": "Autonomous experiment loop for pi — run, measure, keep or discard. Inspired by karpathy/autoresearch.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-06-15T00:41:10.391Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

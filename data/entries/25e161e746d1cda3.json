@@ -1,0 +1,33 @@
+{
+  "id": "pi-double-esc",
+  "name": "pi-double-esc",
+  "url": "https://www.npmjs.com/package/pi-double-esc",
+  "source": "npm-search",
+  "description": "Prevent accidental Escape from aborting the LLM — requires double-press to interrupt while streaming",
+  "metadata": {
+    "github_url": "https://github.com/monotykamary/pi-double-esc",
+    "npm_name": "pi-double-esc",
+    "description": "Prevent accidental Escape from aborting the LLM — requires double-press to interrupt while streaming",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "escape",
+      "debounce",
+      "double-escape",
+      "interrupt",
+      "abort"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-06-15T19:56:17.913Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "gvkhosla-pi-fusion",
+  "name": "gvkhosla-pi-fusion",
+  "url": "https://github.com/gvkhosla/pi-fusion",
+  "source": "github-search",
+  "description": "Use OpenRouter Fusion from Pi as a first-class model provider",
+  "metadata": {
+    "github_url": "https://github.com/gvkhosla/pi-fusion",
+    "repo_full_name": "gvkhosla/pi-fusion",
+    "description": "Use OpenRouter Fusion from Pi as a first-class model provider",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "fusion",
+      "openrouter",
+      "pi",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-15T15:22:46Z",
+    "pushed_at": "2026-06-15T15:34:55Z",
+    "updated_at": "2026-06-15T15:36:07Z",
+    "size": 45,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/huggingface/pi-llama",
     "repo_full_name": "huggingface/pi-llama",
     "description": "Pi coding agent extension: llama.cpp provider with dynamic model + context window discovery",
-    "stars": 26,
+    "stars": 27,
     "forks": 6,
     "open_issues": 3,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-15T17:59:52Z",
     "pushed_at": "2026-06-14T19:07:33Z",
-    "updated_at": "2026-06-14T19:07:35Z",
+    "updated_at": "2026-06-15T12:43:23Z",
     "size": 23,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
