@@ -1,0 +1,25 @@
+{
+  "id": "k3-2o-pi-chrollo",
+  "name": "k3-2o-pi-chrollo",
+  "url": "https://github.com/k3-2o/pi-chrollo",
+  "source": "github-search",
+  "description": "Agentic memory for Pi — auto-captures conversations, grep + thesaurus retrieval, 0 deps",
+  "metadata": {
+    "github_url": "https://github.com/k3-2o/pi-chrollo",
+    "repo_full_name": "k3-2o/pi-chrollo",
+    "description": "Agentic memory for Pi — auto-captures conversations, grep + thesaurus retrieval, 0 deps",
+    "stars": 3,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-11T00:10:47Z",
+    "pushed_at": "2026-06-11T04:01:47Z",
+    "updated_at": "2026-06-15T23:51:04Z",
+    "size": 104,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

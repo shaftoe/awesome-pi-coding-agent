@@ -1,0 +1,28 @@
+{
+  "id": "pi-system-prompt-manager",
+  "name": "pi-system-prompt-manager",
+  "url": "https://www.npmjs.com/package/pi-system-prompt-manager",
+  "source": "npm-search",
+  "description": "Manage a library of named system prompts in pi, with per-session enable/disable, selection, and optional per-model scoping.",
+  "metadata": {
+    "github_url": "https://github.com/tombystrican/pi-system-prompt-manager",
+    "npm_name": "pi-system-prompt-manager",
+    "description": "Manage a library of named system prompts in pi, with per-session enable/disable, selection, and optional per-model scoping.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "system-prompt"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-06-15T01:02:06.646Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

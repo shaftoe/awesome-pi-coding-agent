@@ -1,0 +1,30 @@
+{
+  "id": "pi-morph-plugin",
+  "name": "pi-morph-plugin",
+  "url": "https://www.npmjs.com/package/pi-morph-plugin",
+  "source": "npm-search",
+  "description": "Pi extension for Morph SDK — Fast Apply, WarpGrep, Public Repo Context, and Compaction",
+  "metadata": {
+    "github_url": "https://github.com/morphllm/pi-morph-plugin",
+    "npm_name": "pi-morph-plugin",
+    "description": "Pi extension for Morph SDK — Fast Apply, WarpGrep, Public Repo Context, and Compaction",
+    "keywords": [
+      "pi-package",
+      "morph",
+      "fast-apply",
+      "warpgrep",
+      "code-search",
+      "code-editing"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-06-15T19:56:38.121Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

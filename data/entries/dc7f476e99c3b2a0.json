@@ -15,10 +15,10 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-28T18:56:04Z",
-    "pushed_at": "2026-06-14T22:06:52Z",
-    "updated_at": "2026-06-14T22:08:30Z",
-    "size": 1854,
-    "license": null,
+    "pushed_at": "2026-06-15T21:23:16Z",
+    "updated_at": "2026-06-15T21:23:07Z",
+    "size": 2150,
+    "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "category": "misc"

@@ -1,0 +1,35 @@
+{
+  "id": "SonnyTaylor-pi-tps",
+  "name": "SonnyTaylor-pi-tps",
+  "url": "https://github.com/SonnyTaylor/pi-tps",
+  "source": "github-search",
+  "description": "Pi extension that measures and displays model TPS in the status bar",
+  "metadata": {
+    "github_url": "https://github.com/SonnyTaylor/pi-tps",
+    "repo_full_name": "SonnyTaylor/pi-tps",
+    "description": "Pi extension that measures and displays model TPS in the status bar",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai",
+      "coding-agent",
+      "extension",
+      "performance",
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "tokens-per-second",
+      "tps"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-15T00:31:21Z",
+    "pushed_at": "2026-06-15T00:44:43Z",
+    "updated_at": "2026-06-15T00:44:39Z",
+    "size": 22,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

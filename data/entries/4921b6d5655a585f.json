@@ -1,0 +1,25 @@
+{
+  "id": "ravenhall-pi-speak",
+  "name": "ravenhall-pi-speak",
+  "url": "https://github.com/ravenhall/pi-speak",
+  "source": "github-search",
+  "description": "Speech output extension for the pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/ravenhall/pi-speak",
+    "repo_full_name": "ravenhall/pi-speak",
+    "description": "Speech output extension for the pi-coding-agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-15T21:26:56Z",
+    "pushed_at": "2026-06-15T21:49:57Z",
+    "updated_at": "2026-06-15T21:50:01Z",
+    "size": 51,
+    "license": "GPL-3.0",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "yboyer-ai-config",
+  "name": "yboyer-ai-config",
+  "url": "https://github.com/yboyer/ai-config",
+  "source": "github-search",
+  "description": "Package with custom extensions, skills, prompt and agents",
+  "metadata": {
+    "github_url": "https://github.com/yboyer/ai-config",
+    "repo_full_name": "yboyer/ai-config",
+    "description": "Package with custom extensions, skills, prompt and agents",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "extensions",
+      "pi",
+      "pi-package",
+      "prompts",
+      "skills"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-17T14:09:31Z",
+    "pushed_at": "2026-06-15T23:14:27Z",
+    "updated_at": "2026-06-15T23:14:32Z",
+    "size": 49276,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

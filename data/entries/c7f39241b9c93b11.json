@@ -1,0 +1,35 @@
+{
+  "id": "pi-p2p-sync",
+  "name": "pi-p2p-sync",
+  "url": "https://www.npmjs.com/package/pi-p2p-sync",
+  "source": "npm-search",
+  "description": "Standalone CLI that pulls a Pi agent config from one reachable machine onto another over SSH.",
+  "metadata": {
+    "github_url": "https://github.com/anh-chu/pi-p2p-sync",
+    "npm_name": "pi-p2p-sync",
+    "description": "Standalone CLI that pulls a Pi agent config from one reachable machine onto another over SSH.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-coding-agent",
+      "sync",
+      "config",
+      "dotfiles",
+      "backup",
+      "ssh",
+      "peer-to-peer",
+      "cli",
+      "mirror"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-15T14:12:07.434Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

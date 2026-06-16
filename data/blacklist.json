@@ -28993,5 +28993,151 @@
 		"reason": "Not about Pi coding agent - general AI cache layer, 'pi proof' refers to mathematical pi",
 		"blacklisted_at": "2026-06-15T00:09:26.587Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=-vb9hMeiKPE",
+		"reason": "pop culture pi signal: \"magnum pi\"",
+		"blacklisted_at": "2026-06-16T00:29:43.543Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/omp-comment-checker",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-06-16T00:29:43.567Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=dLwJPfXVMcA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-16T00:29:43.67Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=D1BHGv4gB6c",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-16T00:29:43.825Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ol9_NnC9-cc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-16T00:29:43.855Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=zS1P2iFY13M",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-16T00:29:43.919Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/linlic-agent",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-16T00:29:43.961Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=oGE_Dwz-rMk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-16T00:29:44.022Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/ForestHubAI/edge-agents",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-06-16T00:29:44.08Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/pxwg/pi-extension-math-markdown-renderer",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-16T00:29:44.123Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/conpiracy/lvrged-pi-harness",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-16T00:29:44.151Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=141biWM1mlE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-16T00:29:44.157Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/coleam00/agent-control-plane",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-16T00:29:44.202Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=7ZFfFN30x_8",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-06-16T00:29:44.221Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://pypi.org/project/pi-coding-agent/",
+		"reason": "Different Python project on PyPI — the pi.dev coding agent is a TypeScript/npm tool, not a Python package",
+		"blacklisted_at": "2026-06-16T00:33:54.162Z",
+		"source": "manual"
 	}
 ]

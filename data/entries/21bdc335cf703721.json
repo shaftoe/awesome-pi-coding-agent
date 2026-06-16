@@ -1,0 +1,35 @@
+{
+  "id": "vforge-pi-config",
+  "name": "vforge-pi-config",
+  "url": "https://github.com/vforge/pi-config",
+  "source": "github-search",
+  "description": "Personal Pi coding agent package with SSH tools, cwd skills, and web search/fetch extensions",
+  "metadata": {
+    "github_url": "https://github.com/vforge/pi-config",
+    "repo_full_name": "vforge/pi-config",
+    "description": "Personal Pi coding agent package with SSH tools, cwd skills, and web search/fetch extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-tools",
+      "coding-agent",
+      "developer-tools",
+      "dotfiles",
+      "pi",
+      "pi-agent",
+      "pi-package",
+      "ssh",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-15T17:35:26Z",
+    "pushed_at": "2026-06-15T17:42:34Z",
+    "updated_at": "2026-06-15T17:42:41Z",
+    "size": 18,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
