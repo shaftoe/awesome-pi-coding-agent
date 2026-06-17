@@ -1,0 +1,25 @@
+{
+  "id": "vishn9893-pi-agent-continuity",
+  "name": "vishn9893-pi-agent-continuity",
+  "url": "https://github.com/vishn9893/pi-agent-continuity",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/vishn9893/pi-agent-continuity",
+    "repo_full_name": "vishn9893/pi-agent-continuity",
+    "description": "",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-15T17:28:12Z",
+    "pushed_at": "2026-06-15T17:41:55Z",
+    "updated_at": "2026-06-16T20:56:11Z",
+    "size": 27,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

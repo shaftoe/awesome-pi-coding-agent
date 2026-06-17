@@ -1,0 +1,29 @@
+{
+  "id": "pi-tally",
+  "name": "pi-tally",
+  "url": "https://www.npmjs.com/package/pi-tally",
+  "source": "npm-search",
+  "description": "Local prompt counters for the Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/wdphoto/pi-tally",
+    "npm_name": "pi-tally",
+    "description": "Local prompt counters for the Pi coding agent.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "tally",
+      "stats"
+    ],
+    "version": "0.0.4",
+    "published_at": "2026-06-16T18:29:38.404Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "AI code review GitHub Action for pull requests, model-agnostic via pi and ready for OpenRouter, DeepSeek, OpenAI, Anthropic, Google, and more. Posts inline review threads without approve, merge, or close powers.",
     "stars": 3,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "ai",
       "anthropic",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-03T15:29:23Z",
-    "pushed_at": "2026-06-15T08:22:57Z",
-    "updated_at": "2026-06-14T08:08:27Z",
-    "size": 396,
+    "pushed_at": "2026-06-16T15:35:55Z",
+    "updated_at": "2026-06-16T14:24:38Z",
+    "size": 581,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

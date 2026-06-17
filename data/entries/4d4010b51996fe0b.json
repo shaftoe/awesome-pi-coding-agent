@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Fatih0234/btw",
     "repo_full_name": "Fatih0234/btw",
     "description": "Ephemeral side questions for Pi Coding Agent — ask /btw without interrupting the main session",
-    "stars": 8,
+    "stars": 9,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-29T16:16:01Z",
     "pushed_at": "2026-04-30T17:01:56Z",
-    "updated_at": "2026-06-07T05:12:15Z",
+    "updated_at": "2026-06-16T12:57:45Z",
     "size": 19,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

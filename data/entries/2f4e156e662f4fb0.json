@@ -8,18 +8,18 @@
     "github_url": "https://github.com/v2nic/pi-prospector",
     "repo_full_name": "v2nic/pi-prospector",
     "description": "Incremental session indexing and proposal generation for the Pi coding agent",
-    "stars": 0,
+    "stars": 1,
     "forks": 1,
-    "open_issues": 2,
+    "open_issues": 7,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-26T07:13:28Z",
-    "pushed_at": "2026-06-02T15:12:34Z",
-    "updated_at": "2026-05-30T03:33:01Z",
-    "size": 220,
+    "pushed_at": "2026-06-16T21:05:20Z",
+    "updated_at": "2026-06-16T21:05:26Z",
+    "size": 534,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }
