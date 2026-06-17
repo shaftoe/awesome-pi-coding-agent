@@ -1,0 +1,25 @@
+{
+  "id": "brainage04-pi-customizations",
+  "name": "brainage04-pi-customizations",
+  "url": "https://github.com/brainage04/pi-customizations",
+  "source": "github-search",
+  "description": "Personal pi coding agent extensions and patches",
+  "metadata": {
+    "github_url": "https://github.com/brainage04/pi-customizations",
+    "repo_full_name": "brainage04/pi-customizations",
+    "description": "Personal pi coding agent extensions and patches",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-16T01:28:18Z",
+    "pushed_at": "2026-06-16T23:47:33Z",
+    "updated_at": "2026-06-16T23:47:36Z",
+    "size": 8,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

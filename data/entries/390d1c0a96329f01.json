@@ -1,0 +1,32 @@
+{
+  "id": "pi-sigrok",
+  "name": "pi-sigrok",
+  "url": "https://www.npmjs.com/package/pi-sigrok",
+  "source": "npm-search",
+  "description": "Logic analyzer control and protocol decoding via sigrok-cli. Supports DreamSourceLab DSLogic and other sigrok-compatible devices.",
+  "metadata": {
+    "github_url": "https://github.com/ZCB1208/pi-sigrok",
+    "npm_name": "pi-sigrok",
+    "description": "Logic analyzer control and protocol decoding via sigrok-cli. Supports DreamSourceLab DSLogic and other sigrok-compatible devices.",
+    "keywords": [
+      "pi-package",
+      "sigrok",
+      "logic-analyzer",
+      "dslogic",
+      "uart",
+      "spi",
+      "i2c",
+      "protocol-decoder"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-06-16T01:01:20.953Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

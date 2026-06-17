@@ -1,0 +1,25 @@
+{
+  "id": "Paramveersingh-S-fluffy-harness",
+  "name": "Paramveersingh-S-fluffy-harness",
+  "url": "https://github.com/Paramveersingh-S/fluffy-harness",
+  "source": "github-search",
+  "description": "Welcome to the Pi Agent Improvement Suite! This repository provides enterprise-grade extensions, integrations, and core patches for the earendil-works/pi coding agent. It drastically enhances Pi's security, operational reliability, and ecosystem connectivity.",
+  "metadata": {
+    "github_url": "https://github.com/Paramveersingh-S/fluffy-harness",
+    "repo_full_name": "Paramveersingh-S/fluffy-harness",
+    "description": "Welcome to the Pi Agent Improvement Suite! This repository provides enterprise-grade extensions, integrations, and core patches for the earendil-works/pi coding agent. It drastically enhances Pi's security, operational reliability, and ecosystem connectivity.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-15T15:19:23Z",
+    "pushed_at": "2026-06-15T17:08:23Z",
+    "updated_at": "2026-06-16T14:13:17Z",
+    "size": 498,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}
