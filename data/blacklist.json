@@ -29945,5 +29945,11 @@
 		"reason": "Non-English Danish title and description",
 		"blacklisted_at": "2026-06-18T00:20:12.238Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@hypabolic/pi-hypa",
+		"reason": "possibly malware, see https://socket.dev/npm/package/%40hypabolic%2Fpi-hypa",
+		"blacklisted_at": "2026-06-18T12:08:25.364Z",
+		"source": "manual"
 	}
 ]
