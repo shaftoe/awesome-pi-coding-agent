@@ -1,0 +1,30 @@
+{
+  "id": "pi-icarus-hook",
+  "name": "pi-icarus-hook",
+  "url": "https://www.npmjs.com/package/pi-icarus-hook",
+  "source": "npm-search",
+  "description": "Thin Pi lifecycle bridge to local Hermes/Icarus Memory OS hooks and tools",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-icarus-hook",
+    "description": "Thin Pi lifecycle bridge to local Hermes/Icarus Memory OS hooks and tools",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "icarus",
+      "hermes",
+      "memory-os"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-06-17T20:00:37.437Z",
+    "npm_downloads_monthly": 128,
+    "npm_downloads_weekly": 128,
+    "npm_score_final": 16.564281,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

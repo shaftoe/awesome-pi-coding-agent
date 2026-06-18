@@ -1,0 +1,40 @@
+{
+  "id": "betaHi-pi-loom",
+  "name": "betaHi-pi-loom",
+  "url": "https://github.com/betaHi/pi-loom",
+  "source": "github-search",
+  "description": "Deterministic multi-agent workflow orchestration on the open-source pi agent harness — a faithful clone of Claude Code's dynamic-workflow primitives.",
+  "metadata": {
+    "github_url": "https://github.com/betaHi/pi-loom",
+    "repo_full_name": "betaHi/pi-loom",
+    "description": "Deterministic multi-agent workflow orchestration on the open-source pi agent harness — a faithful clone of Claude Code's dynamic-workflow primitives.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "agent-orchestration",
+      "ai-agents",
+      "claude-code",
+      "dynamic-workflows",
+      "harness",
+      "llm",
+      "multi-agent",
+      "orchestration",
+      "pi",
+      "structured-output",
+      "subagents",
+      "typescript",
+      "workflow"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-16T05:00:48Z",
+    "pushed_at": "2026-06-17T13:10:27Z",
+    "updated_at": "2026-06-17T13:11:36Z",
+    "size": 2514,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -8,8 +8,8 @@
     "github_url": "https://github.com/Egonex-AI/Understand-Anything",
     "repo_full_name": "Egonex-AI/Understand-Anything",
     "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-    "stars": 61585,
-    "forks": 5074,
+    "stars": 62767,
+    "forks": 5171,
     "open_issues": 213,
     "topics": [
       "antigravity-skills",
@@ -34,7 +34,7 @@
     "archived": false,
     "created_at": "2026-03-15T02:30:51Z",
     "pushed_at": "2026-06-16T07:51:27Z",
-    "updated_at": "2026-06-17T00:12:31Z",
+    "updated_at": "2026-06-18T00:09:49Z",
     "size": 32992,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

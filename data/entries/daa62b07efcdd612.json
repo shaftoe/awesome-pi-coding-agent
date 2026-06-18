@@ -1,0 +1,29 @@
+{
+  "id": "pi-parallel-sessions",
+  "name": "pi-parallel-sessions",
+  "url": "https://www.npmjs.com/package/pi-parallel-sessions",
+  "source": "npm-search",
+  "description": "Run multiple live sessions in parallel in pi agent",
+  "metadata": {
+    "github_url": "https://github.com/liushihao456/pi-sessions",
+    "npm_name": "pi-parallel-sessions",
+    "description": "Run multiple live sessions in parallel in pi agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-agent",
+      "sessions",
+      "parallel-sessions"
+    ],
+    "version": "0.2.3",
+    "published_at": "2026-06-17T11:59:02.227Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

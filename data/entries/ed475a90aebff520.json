@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_npmx.dev_3E0740",
+  "name": "@earendil-works/pi-coding-agent - npmx",
+  "url": "https://npmx.dev/package/@earendil-works/pi-coding-agent/v/%3E=0.74.0",
+  "source": "brave-web-search",
+  "description": "Coding agent CLI with read, bash, edit, write tools and session management",
+  "metadata": {
+    "title": "@earendil-works/pi-coding-agent - npmx",
+    "name": "@earendil-works/pi-coding-agent - npmx",
+    "description": "Coding agent CLI with read, bash, edit, write tools and session management",
+    "published_at": "2026-06-09T00:00:00",
+    "source_site": "npmx",
+    "source_url": "https://npmx.dev/package/@earendil-works/pi-coding-agent/v/%3E=0.74.0",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "misc"
+}

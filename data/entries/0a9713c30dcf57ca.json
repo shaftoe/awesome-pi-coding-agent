@@ -8,7 +8,7 @@
     "github_url": "https://github.com/rnorth/sandboxed-pi",
     "repo_full_name": "rnorth/sandboxed-pi",
     "description": "Sandboxed execution wrapper for the pi coding agent — all tool calls run inside ephemeral Docker containers",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 13,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-03T07:46:08Z",
     "pushed_at": "2026-06-13T00:17:25Z",
-    "updated_at": "2026-06-08T09:54:06Z",
+    "updated_at": "2026-06-17T13:28:17Z",
     "size": 161,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

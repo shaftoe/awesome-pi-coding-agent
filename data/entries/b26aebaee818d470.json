@@ -9,7 +9,7 @@
     "repo_full_name": "HazAT/pi-interactive-subagents",
     "description": "Interactive subagents for pi — spawn, orchestrate, and manage sub-agent sessions in cmux terminals",
     "stars": 504,
-    "forks": 87,
+    "forks": 88,
     "open_issues": 18,
     "topics": [],
     "language": "TypeScript",

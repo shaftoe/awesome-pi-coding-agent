@@ -1,0 +1,25 @@
+{
+  "id": "bobcao3-cpi",
+  "name": "bobcao3-cpi",
+  "url": "https://github.com/bobcao3/cpi",
+  "source": "github-search",
+  "description": "Shared extensions and skills for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/bobcao3/cpi",
+    "repo_full_name": "bobcao3/cpi",
+    "description": "Shared extensions and skills for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-17T23:27:55Z",
+    "pushed_at": "2026-06-17T23:28:03Z",
+    "updated_at": "2026-06-17T23:28:07Z",
+    "size": 0,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

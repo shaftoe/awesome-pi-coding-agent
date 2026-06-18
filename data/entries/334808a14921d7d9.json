@@ -8,10 +8,10 @@
     "title": "How To Install Pi Coding Agent and Set Up Your First Project",
     "name": "How To Install Pi Coding Agent and Set Up Your First Project",
     "description": "Install Pi Coding Agent from the official npm package, authenticate one provider, write a practical AGENTS.md file, run a read-only smoke test, and make a controlled first edit. This intermediate tutorial shows the setup order that keeps package choice, credentials, project rules, settings, ...",
-    "published_at": "2026-05-18T18:10:03",
+    "published_at": "2026-05-18T06:19:50",
     "source_site": "Implicator",
     "source_url": "https://www.implicator.ai/how-to-install-pi-coding-agent-and-set-up-your-first-project/",
-    "discovery_hint": "brave:pi-agent"
+    "discovery_hint": "brave:pi-coding-agent"
   },
   "health": {
     "score": 46,

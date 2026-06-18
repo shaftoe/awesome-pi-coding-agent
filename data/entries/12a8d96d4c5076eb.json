@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ghoseb/pi-splash",
     "repo_full_name": "ghoseb/pi-splash",
     "description": "A simple splash screen for pi coding agent.",
-    "stars": 2,
+    "stars": 1,
     "forks": 0,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-14T11:45:40Z",
     "pushed_at": "2026-05-21T07:01:14Z",
-    "updated_at": "2026-05-21T07:01:19Z",
+    "updated_at": "2026-06-17T13:08:38Z",
     "size": 822,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
