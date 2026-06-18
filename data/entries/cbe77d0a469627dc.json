@@ -1,0 +1,27 @@
+{
+  "id": "@hypabolic/pi-hypa",
+  "name": "@hypabolic/pi-hypa",
+  "url": "https://www.npmjs.com/package/@hypabolic/pi-hypa",
+  "source": "npm-search",
+  "description": "Pi extension for Hypa command rewrite and CLI-backed tools",
+  "metadata": {
+    "github_url": "https://github.com/Hypabolic/Hypa",
+    "npm_name": "@hypabolic/pi-hypa",
+    "description": "Pi extension for Hypa command rewrite and CLI-backed tools",
+    "keywords": [
+      "pi-package",
+      "hypa",
+      "pi"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-06-01T08:16:25.517Z",
+    "npm_downloads_monthly": 104808,
+    "npm_downloads_weekly": 92940,
+    "npm_score_final": 43.524155,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
