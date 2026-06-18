@@ -8,7 +8,7 @@
     "github_url": "https://github.com/joelhooks/pi-workflow-os",
     "repo_full_name": "joelhooks/pi-workflow-os",
     "description": "XState-backed workflow orchestration tool for Pi agents.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-03T04:14:16Z",
     "pushed_at": "2026-06-03T05:14:03Z",
-    "updated_at": "2026-06-13T16:38:26Z",
+    "updated_at": "2026-06-17T14:21:36Z",
     "size": 145,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

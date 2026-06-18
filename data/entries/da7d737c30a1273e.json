@@ -1,0 +1,25 @@
+{
+  "id": "@cortexkit/pi-openai-auth",
+  "name": "@cortexkit/pi-openai-auth",
+  "url": "https://www.npmjs.com/package/@cortexkit/pi-openai-auth",
+  "source": "npm-search",
+  "description": "Pi package for CortexKit OpenAI Codex OAuth support. It overrides Pi's built-in `openai-codex` provider with a CortexKit provider extension backed by Pi's OpenAI Codex Responses transport and OAuth primitives.",
+  "metadata": {
+    "github_url": "https://github.com/cortexkit/openai-auth",
+    "npm_name": "@cortexkit/pi-openai-auth",
+    "description": "Pi package for CortexKit OpenAI Codex OAuth support. It overrides Pi's built-in `openai-codex` provider with a CortexKit provider extension backed by Pi's OpenAI Codex Responses transport and OAuth primitives.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-17T10:49:15.454Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

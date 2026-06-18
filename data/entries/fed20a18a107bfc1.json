@@ -10,7 +10,7 @@
     "description": "AI-assisted reading and research with tree-structured conversations. Local-first, bring your own key.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 13,
+    "open_issues": 0,
     "topics": [
       "ai",
       "ai-reading",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-29T01:46:35Z",
-    "pushed_at": "2026-06-17T00:12:55Z",
-    "updated_at": "2026-06-17T00:09:09Z",
-    "size": 16431,
+    "pushed_at": "2026-06-17T15:25:32Z",
+    "updated_at": "2026-06-17T15:29:03Z",
+    "size": 15636,
     "license": "AGPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

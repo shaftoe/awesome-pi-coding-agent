@@ -1,0 +1,29 @@
+{
+  "id": "@fbraza/pi-cite",
+  "name": "@fbraza/pi-cite",
+  "url": "https://www.npmjs.com/package/@fbraza/pi-cite",
+  "source": "npm-search",
+  "description": "Pi extension with PubMed, Semantic Scholar, literature search, and full-text retrieval tools.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@fbraza/pi-cite",
+    "description": "Pi extension with PubMed, Semantic Scholar, literature search, and full-text retrieval tools.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "literature",
+      "pubmed",
+      "semantic-scholar"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-06-17T12:02:38.975Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

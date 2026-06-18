@@ -10,7 +10,7 @@
     "description": "Provider-agnostic agentic coding harness. Hard fork of pi-mono.",
     "stars": 14,
     "forks": 6,
-    "open_issues": 12,
+    "open_issues": 14,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

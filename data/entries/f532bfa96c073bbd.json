@@ -1,0 +1,32 @@
+{
+  "id": "@contextcompany/pi",
+  "name": "@contextcompany/pi",
+  "url": "https://www.npmjs.com/package/@contextcompany/pi",
+  "source": "npm-search",
+  "description": "The Context Company instrumentation for Pi Agent SDK",
+  "metadata": {
+    "github_url": "https://github.com/The-Context-Company/observatory",
+    "npm_name": "@contextcompany/pi",
+    "description": "The Context Company instrumentation for Pi Agent SDK",
+    "keywords": [
+      "pi",
+      "pi-mono",
+      "agent",
+      "observability",
+      "tracing",
+      "monitoring",
+      "context-company",
+      "pi-package"
+    ],
+    "version": "1.2.0",
+    "published_at": "2026-06-17T04:14:59.423Z",
+    "npm_downloads_monthly": 172,
+    "npm_downloads_weekly": 50,
+    "npm_score_final": 18.737835,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

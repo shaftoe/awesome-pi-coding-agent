@@ -8,7 +8,7 @@
     "github_url": "https://github.com/adobe/second-o-pi-nion",
     "repo_full_name": "adobe/second-o-pi-nion",
     "description": "A pi-coding-agent extension that lets the LLM ask a different LLM for a second opinion when it gets stuck.",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-29T17:49:54Z",
     "pushed_at": "2026-06-01T10:36:54Z",
-    "updated_at": "2026-06-07T12:35:40Z",
+    "updated_at": "2026-06-17T21:25:08Z",
     "size": 124,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,28 @@
+{
+  "id": "@fbraza/pi-todo-store",
+  "name": "@fbraza/pi-todo-store",
+  "url": "https://www.npmjs.com/package/@fbraza/pi-todo-store",
+  "source": "npm-search",
+  "description": "Pi extension for file-based todo storage and management.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@fbraza/pi-todo-store",
+    "description": "Pi extension for file-based todo storage and management.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "todos",
+      "todo-store"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-17T19:26:34.984Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
