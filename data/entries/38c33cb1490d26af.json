@@ -1,0 +1,28 @@
+{
+  "id": "@zhachory1/mewrite-markdown-preview",
+  "name": "@zhachory1/mewrite-markdown-preview",
+  "url": "https://www.npmjs.com/package/@zhachory1/mewrite-markdown-preview",
+  "source": "npm-search",
+  "description": "Rendered markdown + LaTeX preview for mewrite-code, with terminal, browser, and PDF output",
+  "metadata": {
+    "github_url": "https://github.com/Zhachory1/mewritecode",
+    "npm_name": "@zhachory1/mewrite-markdown-preview",
+    "description": "Rendered markdown + LaTeX preview for mewrite-code, with terminal, browser, and PDF output",
+    "keywords": [
+      "pi-package",
+      "mewrite-code",
+      "markdown",
+      "preview"
+    ],
+    "version": "0.9.6",
+    "published_at": "2026-06-18T17:00:49.391Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

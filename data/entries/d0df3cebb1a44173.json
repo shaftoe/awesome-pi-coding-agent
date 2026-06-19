@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Agentic-Engineering-Agency/pi-seshat",
     "repo_full_name": "Agentic-Engineering-Agency/pi-seshat",
     "description": "Seshat the Ghola — a custom Pi coding-agent harness with Honcho memory bridge, SpecSafe slice lifecycle, and agent-aware git traceability.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-24T17:16:43Z",
     "pushed_at": "2026-06-16T19:29:29Z",
-    "updated_at": "2026-05-21T19:19:00Z",
+    "updated_at": "2026-06-18T22:07:21Z",
     "size": 562,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

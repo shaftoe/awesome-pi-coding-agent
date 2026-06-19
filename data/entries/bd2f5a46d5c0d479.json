@@ -1,0 +1,30 @@
+{
+  "id": "pi-skill-recommender",
+  "name": "pi-skill-recommender",
+  "url": "https://www.npmjs.com/package/pi-skill-recommender",
+  "source": "npm-search",
+  "description": "Pi package that observes repeated workflows and drafts reusable skills from them.",
+  "metadata": {
+    "github_url": "https://github.com/steveafrost/pi-skill-recommender",
+    "npm_name": "pi-skill-recommender",
+    "description": "Pi package that observes repeated workflows and drafts reusable skills from them.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "skills",
+      "automation",
+      "productivity"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-18T17:58:30.477Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

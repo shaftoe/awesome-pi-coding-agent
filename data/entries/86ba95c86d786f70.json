@@ -1,0 +1,33 @@
+{
+  "id": "@buihongduc132/pi-acp-agents",
+  "name": "@buihongduc132/pi-acp-agents",
+  "url": "https://www.npmjs.com/package/@buihongduc132/pi-acp-agents",
+  "source": "npm-search",
+  "description": "Pi extension: ACP agent client — spawn and control ACP-compatible agents (Gemini CLI, etc.) from within pi",
+  "metadata": {
+    "github_url": "https://github.com/buihongduc132/pi-acp-agents",
+    "npm_name": "@buihongduc132/pi-acp-agents",
+    "description": "Pi extension: ACP agent client — spawn and control ACP-compatible agents (Gemini CLI, etc.) from within pi",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "acp",
+      "agent-client-protocol",
+      "multi-agent",
+      "pi",
+      "pi-coding-agent"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-06-18T00:28:04.289Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

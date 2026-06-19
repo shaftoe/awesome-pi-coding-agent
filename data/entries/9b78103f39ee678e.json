@@ -1,0 +1,25 @@
+{
+  "id": "@yandy0725/pi-web-tools",
+  "name": "@yandy0725/pi-web-tools",
+  "url": "https://www.npmjs.com/package/@yandy0725/pi-web-tools",
+  "source": "npm-search",
+  "description": "pi package providing web_search, deep_search, image_search and web_fetch tools",
+  "metadata": {
+    "github_url": "https://github.com/yandy/pi-packages",
+    "npm_name": "@yandy0725/pi-web-tools",
+    "description": "pi package providing web_search, deep_search, image_search and web_fetch tools",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-06-18T19:51:57.852Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

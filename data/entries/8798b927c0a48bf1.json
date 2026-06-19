@@ -10,7 +10,7 @@
     "description": "A full-stack web interface for the Pi coding agent, providing browser access to a system-level Pi agent with bash, file read/write/edit, and extension tools.",
     "stars": 9,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "pi-coding-agent"
     ],

@@ -1,0 +1,39 @@
+{
+  "id": "pi-meter",
+  "name": "pi-meter",
+  "url": "https://www.npmjs.com/package/pi-meter",
+  "source": "npm-search",
+  "description": "LLM spend tracking, budget alerts, auto-downshift, and hard cutoff for AI coding agents — as a CLI, an MCP server, a Claude/Cursor skill, or a pi extension.",
+  "metadata": {
+    "github_url": "https://github.com/vaibhav-patel/pi-meter",
+    "npm_name": "pi-meter",
+    "description": "LLM spend tracking, budget alerts, auto-downshift, and hard cutoff for AI coding agents — as a CLI, an MCP server, a Claude/Cursor skill, or a pi extension.",
+    "keywords": [
+      "pi-package",
+      "pi-meter",
+      "pimeter",
+      "llm",
+      "cost",
+      "budget",
+      "tokens",
+      "spend",
+      "token-usage",
+      "mcp",
+      "claude",
+      "cursor",
+      "pi",
+      "coding-agent",
+      "ai-agents"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-06-18T18:12:47.431Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pi-opencode-go-cache",
+  "name": "pi-opencode-go-cache",
+  "url": "https://www.npmjs.com/package/pi-opencode-go-cache",
+  "source": "npm-search",
+  "description": "Brings OpenCode CLI–equivalent prompt caching to Pi for the OpenCode Go provider (kimi, deepseek, glm, mimo, qwen, minimax). Sets prompt_cache_key, 24h retention, and Anthropic-style cache_control markers on every request.",
+  "metadata": {
+    "github_url": "https://github.com/nnocte/pi-opencode-go-cache",
+    "npm_name": "pi-opencode-go-cache",
+    "description": "Brings OpenCode CLI–equivalent prompt caching to Pi for the OpenCode Go provider (kimi, deepseek, glm, mimo, qwen, minimax). Sets prompt_cache_key, 24h retention, and Anthropic-style cache_control markers on every request.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "opencode-go",
+      "prompt-cache",
+      "cache-control"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-06-18T11:27:19.304Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

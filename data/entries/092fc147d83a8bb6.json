@@ -8,7 +8,7 @@
     "github_url": "https://github.com/clawdia-lobster/pi-latex",
     "repo_full_name": "clawdia-lobster/pi-latex",
     "description": "Inline LaTeX rendering for Pi coding agent TUI",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,10 +16,10 @@
     "archived": false,
     "created_at": "2026-06-03T17:25:13Z",
     "pushed_at": "2026-06-03T17:25:22Z",
-    "updated_at": "2026-06-03T17:25:38Z",
+    "updated_at": "2026-06-18T15:21:16Z",
     "size": 56,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

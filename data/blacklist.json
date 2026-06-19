@@ -29945,5 +29945,277 @@
 		"reason": "Non-English Danish title and description",
 		"blacklisted_at": "2026-06-18T00:20:12.238Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=UztrFXaSWv0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-19T00:25:03.941Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=DY2wTxyVjxk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-19T00:25:03.961Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=STCofdwYtJ4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-19T00:25:03.973Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@chronova/omp-comment-checker",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-06-19T00:25:03.987Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@codesook/omp-welcome-screen",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-06-19T00:25:04.034Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=A4ZXBzB7p4M",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-19T00:25:04.045Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=6C0DMNW40h8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-19T00:25:04.053Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=LSSjfdOp9hY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-19T00:25:04.082Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/inouemoby/pi-volcengine",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-19T00:25:04.185Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/tyanxie/paimon",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-19T00:25:04.223Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://m.facebook.com/IvonHuan/photos/%E6%9C%80%E8%BF%91%E6%89%8D%E7%99%BC%E7%8F%BEubuntu%E9%85%8D%E5%B0%8Dairpods%E7%9A%84%E6%99%82%E5%80%99%E6%B2%92%E6%9C%89aac%E7%B7%A8%E7%A2%BC%E4%BD%86%E6%88%91%E6%9C%A8%E8%80%B3%E9%83%BD%E6%B2%92%E7%99%BC%E7%8F%BE-sbc-xq%E7%9A%84%E9%9F%B3%E8%B3%AA%E5%8F%AF%E8%83%BD%E9%83%BD%E8%B6%85%E8%B6%8Aaac%E4%BA%86%E5%9C%A8ubuntu%E8%88%87kubuntu%E7%B3%BB%E7%B5%B1%E9%80%A3%E6%8E%A5airp/1055683559913817/",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-19T00:25:04.226Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=hGTQGRfmXc0",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-06-19T00:25:04.334Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=X9qEHb-4s-E",
+		"reason": "pop culture pi signal: \"magnum pi\"",
+		"blacklisted_at": "2026-06-19T00:25:04.356Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=cehwwQmKO5A",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-19T00:25:04.401Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5mgde2Br4ik",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-19T00:25:04.408Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=M2CUXwZQy7s",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-19T00:25:04.427Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=sRJYzV8p_b0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-19T00:25:04.455Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=UJk9H9K5Xnc",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-06-19T00:25:04.461Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/deepak-oli/pi-code-agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-19T00:25:04.47Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=oTfBInvy5pM",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-06-19T00:25:04.514Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=FPbj4abMsdA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-19T00:25:04.542Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/nnocte/pi-opencode-go-cache",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-19T00:25:04.561Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=RVEaDvh6f5A",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-19T00:25:04.609Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/zsh-pi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-19T00:25:04.679Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=HfyhNPEcG_A",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-06-19T00:25:04.697Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/jasontang-ai/godel",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-19T00:25:04.703Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/nathandaven/pi-omlx-tps",
+		"reason": "Duplicate of npm package pi-omlx-tps (same project, same name, published within seconds); npm URL is canonical",
+		"blacklisted_at": "2026-06-19T00:29:30.186Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/hobocode-ofc/thought-layer-kit",
+		"reason": "Duplicate of npm package @hobocode/thought-layer (same author hobocode, near-identical description); npm entry has higher popularity (69 downloads vs 0 stars)",
+		"blacklisted_at": "2026-06-19T00:31:29.491Z",
+		"source": "manual"
 	}
 ]

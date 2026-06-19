@@ -1,0 +1,28 @@
+{
+  "id": "pi-agentmd",
+  "name": "pi-agentmd",
+  "url": "https://www.npmjs.com/package/pi-agentmd",
+  "source": "npm-search",
+  "description": "Prompt template: scan a codebase and generate comprehensive AGENTS.md documentation",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-agentmd",
+    "description": "Prompt template: scan a codebase and generate comprehensive AGENTS.md documentation",
+    "keywords": [
+      "pi-package",
+      "prompt",
+      "agents.md",
+      "documentation"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-06-18T10:56:59.840Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
