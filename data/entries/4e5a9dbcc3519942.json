@@ -6,16 +6,16 @@
   "description": "Fuzzy file picker for pi – fzf-powered @file autocomplete",
   "metadata": {
     "github_url": "https://github.com/burneikis/pi-fzfp",
-    "npm_name": "@burneikis/pi-fzfp",
+    "npm_name": "pi-fzfp",
     "description": "Fuzzy file picker for pi – fzf-powered @file autocomplete",
     "keywords": [
       "pi-package"
     ],
-    "version": "2.4.0",
-    "published_at": "2026-04-30T21:57:44.348Z",
-    "npm_downloads_monthly": 270,
-    "npm_downloads_weekly": 65,
-    "npm_score_final": 19.592781,
+    "version": "2.5.0",
+    "published_at": "2026-06-18T21:26:41.533Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

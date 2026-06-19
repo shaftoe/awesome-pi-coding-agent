@@ -9,7 +9,7 @@
     "repo_full_name": "FailproofAI/failproofai",
     "description": "Runtime failure resolution for coding agents. Hooks into Claude Code and Codex. Catches loops, dangerous actions, and secret leaks before they become incidents. Zero latency. Runs locally.",
     "stars": 113,
-    "forks": 19,
+    "forks": 20,
     "open_issues": 21,
     "topics": [
       "agent-failure",

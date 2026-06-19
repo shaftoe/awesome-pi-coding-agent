@@ -1,0 +1,25 @@
+{
+  "id": "Thomson-Lam-Pi-Package",
+  "name": "Thomson-Lam-Pi-Package",
+  "url": "https://github.com/Thomson-Lam/Pi-Package",
+  "source": "github-search",
+  "description": "extensions & skills for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Thomson-Lam/Pi-Package",
+    "repo_full_name": "Thomson-Lam/Pi-Package",
+    "description": "extensions & skills for Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-18T18:19:56Z",
+    "pushed_at": "2026-06-18T18:53:38Z",
+    "updated_at": "2026-06-18T18:53:43Z",
+    "size": 124,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

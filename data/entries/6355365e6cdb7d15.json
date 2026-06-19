@@ -8,7 +8,7 @@
     "github_url": "https://github.com/spfunctions/harness",
     "repo_full_name": "spfunctions/harness",
     "description": "Dual pi-agent runtime harness. Two agents (local + Cloudflare) negotiate, share state, and self-modify via a 5-message protocol.",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -28,7 +28,7 @@
     "archived": false,
     "created_at": "2026-03-21T07:09:13Z",
     "pushed_at": "2026-06-16T20:43:39Z",
-    "updated_at": "2026-06-16T20:44:54Z",
+    "updated_at": "2026-06-18T04:13:25Z",
     "size": 189,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

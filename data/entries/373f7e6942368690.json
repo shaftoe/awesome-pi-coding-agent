@@ -1,0 +1,29 @@
+{
+  "id": "charly-vibes-ruta",
+  "name": "charly-vibes-ruta",
+  "url": "https://github.com/charly-vibes/ruta",
+  "source": "github-search",
+  "description": "Pi package for a seven-day spec-immersion workflow with extensions, prompt constants, and bundled skills",
+  "metadata": {
+    "github_url": "https://github.com/charly-vibes/ruta",
+    "repo_full_name": "charly-vibes/ruta",
+    "description": "Pi package for a seven-day spec-immersion workflow with extensions, prompt constants, and bundled skills",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 4,
+    "topics": [
+      "pi",
+      "typescript",
+      "workflow"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-21T19:53:00Z",
+    "pushed_at": "2026-05-19T17:05:06Z",
+    "updated_at": "2026-06-18T11:40:44Z",
+    "size": 1148,
+    "license": "GPL-3.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

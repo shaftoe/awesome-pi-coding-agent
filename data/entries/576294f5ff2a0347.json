@@ -1,0 +1,25 @@
+{
+  "id": "tthuwng-pi",
+  "name": "tthuwng-pi",
+  "url": "https://github.com/tthuwng/pi",
+  "source": "github-search",
+  "description": "Pi coding-agent config",
+  "metadata": {
+    "github_url": "https://github.com/tthuwng/pi",
+    "repo_full_name": "tthuwng/pi",
+    "description": "Pi coding-agent config",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-18T18:11:21Z",
+    "pushed_at": "2026-06-19T00:10:52Z",
+    "updated_at": "2026-06-19T00:10:57Z",
+    "size": 1713,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}
