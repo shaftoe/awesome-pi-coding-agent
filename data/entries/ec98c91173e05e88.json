@@ -1,0 +1,25 @@
+{
+  "id": "happytomatoe-pi-themes",
+  "name": "happytomatoe-pi-themes",
+  "url": "https://github.com/happytomatoe/pi-themes",
+  "source": "github-search",
+  "description": "Live-preview theme selector extension for pi",
+  "metadata": {
+    "github_url": "https://github.com/happytomatoe/pi-themes",
+    "repo_full_name": "happytomatoe/pi-themes",
+    "description": "Live-preview theme selector extension for pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-19T06:45:45Z",
+    "pushed_at": "2026-06-19T06:46:09Z",
+    "updated_at": "2026-06-19T06:46:12Z",
+    "size": 10,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

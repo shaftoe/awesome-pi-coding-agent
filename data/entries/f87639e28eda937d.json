@@ -8,7 +8,7 @@
     "github_url": "https://github.com/leblancfg/pi-fusion",
     "repo_full_name": "leblancfg/pi-fusion",
     "description": "Compound model panel for pi: parallel model calls, then one synthesis response.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -31,9 +31,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-14T12:34:56Z",
-    "pushed_at": "2026-06-18T00:50:09Z",
-    "updated_at": "2026-06-18T00:50:13Z",
-    "size": 23774,
+    "pushed_at": "2026-06-19T21:24:09Z",
+    "updated_at": "2026-06-19T22:32:13Z",
+    "size": 23804,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

@@ -1,0 +1,37 @@
+{
+  "id": "@fodx/codelens",
+  "name": "@fodx/codelens",
+  "url": "https://www.npmjs.com/package/@fodx/codelens",
+  "source": "npm-search",
+  "description": "Local, branch-aware code search & relation graph. SQLite FTS5 + tree-sitter symbols + source-graph edges, exposed as an MCP server and CLI. No chat LLM required.",
+  "metadata": {
+    "github_url": "https://github.com/ex-git/codeLens",
+    "npm_name": "@fodx/codelens",
+    "description": "Local, branch-aware code search & relation graph. SQLite FTS5 + tree-sitter symbols + source-graph edges, exposed as an MCP server and CLI. No chat LLM required.",
+    "keywords": [
+      "pi-package",
+      "mcp",
+      "mcp-server",
+      "modelcontextprotocol",
+      "code-search",
+      "code-graph",
+      "code-index",
+      "tree-sitter",
+      "claude-code",
+      "cursor",
+      "gemini-cli",
+      "opencode",
+      "codex"
+    ],
+    "version": "1.2.0",
+    "published_at": "2026-06-19T15:47:58.650Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

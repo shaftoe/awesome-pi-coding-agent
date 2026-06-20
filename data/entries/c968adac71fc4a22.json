@@ -36,5 +36,5 @@
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
-  "category": "extension"
+  "category": "misc"
 }
