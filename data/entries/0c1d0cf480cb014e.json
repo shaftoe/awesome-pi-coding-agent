@@ -10,7 +10,7 @@
     "description": "Use Claude Code, Codex, and Gemini CLI through Agent Client Protocol (ACP) inside pi — and make native Claude Code sessions garden-addressable peers.",
     "stars": 18,
     "forks": 3,
-    "open_issues": 10,
+    "open_issues": 11,
     "topics": [
       "acp",
       "agent-client-protocol",
@@ -27,9 +27,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-16T07:04:48Z",
-    "pushed_at": "2026-06-18T23:50:42Z",
+    "pushed_at": "2026-06-19T12:20:00Z",
     "updated_at": "2026-06-17T14:42:16Z",
-    "size": 17520,
+    "size": 18360,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

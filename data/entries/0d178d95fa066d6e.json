@@ -1,0 +1,25 @@
+{
+  "id": "jameskimthing-pi-setup",
+  "name": "jameskimthing-pi-setup",
+  "url": "https://github.com/jameskimthing/pi-setup",
+  "source": "github-search",
+  "description": "my setup for utilizing the pi agent",
+  "metadata": {
+    "github_url": "https://github.com/jameskimthing/pi-setup",
+    "repo_full_name": "jameskimthing/pi-setup",
+    "description": "my setup for utilizing the pi agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-14T06:17:24Z",
+    "pushed_at": "2026-06-19T06:57:56Z",
+    "updated_at": "2026-06-19T14:20:55Z",
+    "size": 585,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

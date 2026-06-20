@@ -1,0 +1,25 @@
+{
+  "id": "OleMussmann-pi_config",
+  "name": "OleMussmann-pi_config",
+  "url": "https://github.com/OleMussmann/pi_config",
+  "source": "github-search",
+  "description": "Configuration for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/OleMussmann/pi_config",
+    "repo_full_name": "OleMussmann/pi_config",
+    "description": "Configuration for the Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-19T21:20:16Z",
+    "pushed_at": "2026-06-19T21:20:33Z",
+    "updated_at": "2026-06-19T21:20:37Z",
+    "size": 2,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pi-roam-code",
+  "name": "pi-roam-code",
+  "url": "https://www.npmjs.com/package/pi-roam-code",
+  "source": "npm-search",
+  "description": "Roam compile/verify hooks for pi — injects pre-computed plan context before agent turns and auto-fixes post-edit findings",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-roam-code",
+    "description": "Roam compile/verify hooks for pi — injects pre-computed plan context before agent turns and auto-fixes post-edit findings",
+    "keywords": [
+      "pi-package",
+      "roam",
+      "pi-extension"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-06-19T04:47:17.618Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

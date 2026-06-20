@@ -10,7 +10,7 @@
     "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid-session, hybrid search retrieves them, and a tiered L0/L1 recall block injects identity + top-ranked records at session start. Works across any AI harnesses like Claude Code, Opencode, & Pi from one database.",
     "stars": 2,
     "forks": 0,
-    "open_issues": 31,
+    "open_issues": 23,
     "topics": [
       "ai-memory",
       "ai-memory-system",
@@ -28,9 +28,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-04T16:05:05Z",
-    "pushed_at": "2026-06-19T00:11:01Z",
-    "updated_at": "2026-06-19T00:10:05Z",
-    "size": 8448,
+    "pushed_at": "2026-06-19T22:50:05Z",
+    "updated_at": "2026-06-19T22:50:09Z",
+    "size": 8457,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

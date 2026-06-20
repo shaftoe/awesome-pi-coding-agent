@@ -1,0 +1,25 @@
+{
+  "id": "@barajas123/pi-skills",
+  "name": "@barajas123/pi-skills",
+  "url": "https://www.npmjs.com/package/@barajas123/pi-skills",
+  "source": "npm-search",
+  "description": "Pi agent skills bundle — starts with skill-create, a meta-skill for designing and writing new agent skills following the agentskills.io specification.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@barajas123/pi-skills",
+    "description": "Pi agent skills bundle — starts with skill-create, a meta-skill for designing and writing new agent skills following the agentskills.io specification.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-06-19T02:55:19.856Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

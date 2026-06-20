@@ -8,7 +8,7 @@
     "github_url": "https://github.com/jgrumboe/pi-github-copilot-auto",
     "repo_full_name": "jgrumboe/pi-github-copilot-auto",
     "description": "Pure GitHub Copilot Auto model provider for pi",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -20,7 +20,7 @@
     "archived": false,
     "created_at": "2026-06-18T18:32:55Z",
     "pushed_at": "2026-06-18T20:23:31Z",
-    "updated_at": "2026-06-18T20:23:35Z",
+    "updated_at": "2026-06-19T12:38:19Z",
     "size": 19,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

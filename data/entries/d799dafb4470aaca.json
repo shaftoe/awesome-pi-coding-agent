@@ -10,7 +10,7 @@
     "description": "Unofficial Pi extension that connects Pi to Executor via Executor's MCP server",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "executor",
       "mcp",

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/steel-experiments/pi-steel",
     "repo_full_name": "steel-experiments/pi-steel",
     "description": "Steel browser automation tools for the Pi coding agent.",
-    "stars": 9,
+    "stars": 10,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-04-13T13:30:51Z",
     "pushed_at": "2026-04-14T13:06:52Z",
-    "updated_at": "2026-06-02T11:30:39Z",
+    "updated_at": "2026-06-19T05:44:38Z",
     "size": 138,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

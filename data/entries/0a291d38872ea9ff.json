@@ -1,0 +1,25 @@
+{
+  "id": "ai-outfitter-deepwork",
+  "name": "ai-outfitter-deepwork",
+  "url": "https://github.com/ai-outfitter/deepwork",
+  "source": "github-search",
+  "description": "Pi extension package: deepwork",
+  "metadata": {
+    "github_url": "https://github.com/ai-outfitter/deepwork",
+    "repo_full_name": "ai-outfitter/deepwork",
+    "description": "Pi extension package: deepwork",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-05T17:26:05Z",
+    "pushed_at": "2026-06-19T15:42:36Z",
+    "updated_at": "2026-06-19T15:55:01Z",
+    "size": 312,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

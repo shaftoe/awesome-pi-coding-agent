@@ -1,0 +1,25 @@
+{
+  "id": "mhalikosen-pi-config",
+  "name": "mhalikosen-pi-config",
+  "url": "https://github.com/mhalikosen/pi-config",
+  "source": "github-search",
+  "description": "Personal reference of the diff applied to pi coding agent: settings, npm packages, and the extensions I wrote.",
+  "metadata": {
+    "github_url": "https://github.com/mhalikosen/pi-config",
+    "repo_full_name": "mhalikosen/pi-config",
+    "description": "Personal reference of the diff applied to pi coding agent: settings, npm packages, and the extensions I wrote.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-19T12:01:59Z",
+    "pushed_at": "2026-06-19T12:11:00Z",
+    "updated_at": "2026-06-19T12:11:03Z",
+    "size": 7,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

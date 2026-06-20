@@ -1,0 +1,25 @@
+{
+  "id": "hirotake111-pi-agent",
+  "name": "hirotake111-pi-agent",
+  "url": "https://github.com/hirotake111/pi-agent",
+  "source": "github-search",
+  "description": "config folder for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/hirotake111/pi-agent",
+    "repo_full_name": "hirotake111/pi-agent",
+    "description": "config folder for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-19T22:50:59Z",
+    "pushed_at": "2026-06-19T23:09:16Z",
+    "updated_at": "2026-06-19T23:09:19Z",
+    "size": 39,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}
