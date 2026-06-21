@@ -1,0 +1,30 @@
+{
+  "id": "pi-context-loader",
+  "name": "pi-context-loader",
+  "url": "https://www.npmjs.com/package/pi-context-loader",
+  "source": "npm-search",
+  "description": "Config-driven context injection for Pi agents. Loads files at session start and injects them as system prompt or message.",
+  "metadata": {
+    "github_url": "https://github.com/juanje/pi-context-loader",
+    "npm_name": "pi-context-loader",
+    "description": "Config-driven context injection for Pi agents. Loads files at session start and injects them as system prompt or message.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "context",
+      "context-loader",
+      "system-prompt"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-20T17:33:28.507Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/mattoopie/pi-openspec-status",
     "repo_full_name": "mattoopie/pi-openspec-status",
     "description": "Pi coding agent OpenSpec status widget",
-    "stars": 2,
+    "stars": 3,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-23T12:46:07Z",
     "pushed_at": "2026-05-28T14:16:42Z",
-    "updated_at": "2026-06-10T05:45:13Z",
+    "updated_at": "2026-06-20T05:05:42Z",
     "size": 173,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

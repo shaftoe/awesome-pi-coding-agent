@@ -1,0 +1,30 @@
+{
+  "id": "@pi-vault/pi-guardrails",
+  "name": "@pi-vault/pi-guardrails",
+  "url": "https://www.npmjs.com/package/@pi-vault/pi-guardrails",
+  "source": "npm-search",
+  "description": "Pi extension for damage control - prevents dangerous operations, protects env files, gates destructive commands",
+  "metadata": {
+    "github_url": "https://github.com/pi-vault/pi-guardrails",
+    "npm_name": "@pi-vault/pi-guardrails",
+    "description": "Pi extension for damage control - prevents dangerous operations, protects env files, gates destructive commands",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "pi-extension",
+      "pi-guardrails",
+      "damage-control"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-20T02:41:29.279Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

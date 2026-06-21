@@ -1,0 +1,37 @@
+{
+  "id": "@gintasz/pi-neuralyzer",
+  "name": "@gintasz/pi-neuralyzer",
+  "url": "https://www.npmjs.com/package/@gintasz/pi-neuralyzer",
+  "source": "npm-search",
+  "description": "AI agent harness tool allowing it to wipe its own session context and re-run the first message",
+  "metadata": {
+    "github_url": "https://github.com/gintasz/neuralyzer",
+    "npm_name": "@gintasz/pi-neuralyzer",
+    "description": "AI agent harness tool allowing it to wipe its own session context and re-run the first message",
+    "keywords": [
+      "ai",
+      "agent",
+      "ai-agent",
+      "agentic-coding",
+      "harness",
+      "ralph-wiggum",
+      "ralph-loop",
+      "loop-engineering",
+      "context-window",
+      "context-engineering",
+      "pi",
+      "pi-extension",
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-06-20T12:05:28.047Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

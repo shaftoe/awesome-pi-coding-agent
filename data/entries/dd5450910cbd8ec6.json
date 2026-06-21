@@ -10,7 +10,7 @@
     "description": "A Pi Coding Agent extension to create, retrofit, and verify other extensions. Safe upgrades with manifest tracking, dry-run previews, and a programmatic API.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "extension-toolkit",
       "pi-extension",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-27T22:48:36Z",
-    "pushed_at": "2026-06-10T02:43:04Z",
+    "pushed_at": "2026-06-20T09:13:19Z",
     "updated_at": "2026-06-10T02:43:07Z",
-    "size": 139,
+    "size": 178,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
