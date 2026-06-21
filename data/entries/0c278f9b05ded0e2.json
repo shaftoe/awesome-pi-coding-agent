@@ -1,0 +1,28 @@
+{
+  "id": "@rezabaram/amux",
+  "name": "@rezabaram/amux",
+  "url": "https://www.npmjs.com/package/@rezabaram/amux",
+  "source": "npm-search",
+  "description": "Agent Multiplexer -- multi-agent coordination for AI coding agents",
+  "metadata": {
+    "github_url": "https://github.com/rezabaram/amux",
+    "npm_name": "@rezabaram/amux",
+    "description": "Agent Multiplexer -- multi-agent coordination for AI coding agents",
+    "keywords": [
+      "pi-package",
+      "multi-agent",
+      "agent-coordination",
+      "ai-agents"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-06-20T14:42:18.523Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

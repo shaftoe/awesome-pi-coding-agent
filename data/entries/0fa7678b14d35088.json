@@ -9,7 +9,7 @@
     "repo_full_name": "opsCoffee/pi-continuous-learning-v2",
     "description": "Continuous Learning v2 for pi-coding-agent. Learns project-scoped instincts from sessions and   generates reusable skills and prompts from real repository workflows.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

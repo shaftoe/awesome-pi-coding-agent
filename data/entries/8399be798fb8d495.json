@@ -1,0 +1,34 @@
+{
+  "id": "@estebanforge/pi-go-review",
+  "name": "@estebanforge/pi-go-review",
+  "url": "https://www.npmjs.com/package/@estebanforge/pi-go-review",
+  "source": "npm-search",
+  "description": "Go code-review tool for Pi. Grades your git diffs against the 100 Go Mistakes rubric (https://100go.co/) and returns categorized findings (Bug / Suggestion / Nit / Good pattern) with an Approve or Request-Changes verdict. Not a linter; pairs with go vet a",
+  "metadata": {
+    "github_url": "https://github.com/EstebanForge/pi-go-review",
+    "npm_name": "@estebanforge/pi-go-review",
+    "description": "Go code-review tool for Pi. Grades your git diffs against the 100 Go Mistakes rubric (https://100go.co/) and returns categorized findings (Bug / Suggestion / Nit / Good pattern) with an Approve or Request-Changes verdict. Not a linter; pairs with go vet a",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "go",
+      "golang",
+      "code-review",
+      "code-reviewer",
+      "100-go-mistakes",
+      "rubric",
+      "checklist",
+      "git-diff"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-06-20T01:39:21.619Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

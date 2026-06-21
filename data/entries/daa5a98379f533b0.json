@@ -1,0 +1,25 @@
+{
+  "id": "zkareemz-skills",
+  "name": "zkareemz-skills",
+  "url": "https://github.com/zkareemz/skills",
+  "source": "github-search",
+  "description": "Agent skills for coding harnesses. pi-delegate: offload implementation work to the pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/zkareemz/skills",
+    "repo_full_name": "zkareemz/skills",
+    "description": "Agent skills for coding harnesses. pi-delegate: offload implementation work to the pi coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-20T22:53:21Z",
+    "pushed_at": "2026-06-20T22:59:32Z",
+    "updated_at": "2026-06-20T22:59:35Z",
+    "size": 52,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

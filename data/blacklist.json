@@ -31079,5 +31079,141 @@
 		"reason": "Duplicate of @artale/pi-real-engineering - unscoped alias of the same package, same version 0.2.2",
 		"blacklisted_at": "2026-06-20T00:11:52.196Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/superpowers-zh",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-21T00:05:00.86Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=kzx-MDm87pk",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-21T00:05:00.919Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/GrenAnHao/GrenAgent",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-21T00:05:00.991Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/FablerTan/pi-package",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-21T00:05:01.159Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=xF_2kGu0yaw",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-06-21T00:05:01.243Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=8rVOqciMOyk",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-21T00:05:01.279Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/O-Pencil/Catui",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-21T00:05:01.284Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/wendeus0/AI-dotfiles",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-21T00:05:01.337Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=kV8Hrfp8ccI",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-21T00:05:01.422Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ggmKMze5N9g",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-21T00:05:01.441Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/808-Heavy-LLC/panel",
+		"reason": "Raspberry Pi kiosk/network dashboard (UDM Pro Max), unrelated to the Pi coding agent at pi.dev",
+		"blacklisted_at": "2026-06-21T00:12:29.093Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/leblancfg/pi-fusion",
+		"reason": "Duplicate of npm package @leblancfg/pi-fusion (428 monthly downloads vs 3 stars); keeping higher-popularity npm entry",
+		"blacklisted_at": "2026-06-21T00:12:36.23Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-gentic",
+		"reason": "Duplicate of GitHub repo CodeByPeete/pi-gentic (1 star vs 0 npm downloads); keeping higher-popularity GitHub entry",
+		"blacklisted_at": "2026-06-21T00:12:36.25Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=znGqkKF72bY",
+		"reason": "Non-English content (Italian title and description)",
+		"blacklisted_at": "2026-06-21T00:15:04.527Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@aretw0/dgk-skills",
+		"reason": "Non-English description (Portuguese)",
+		"blacklisted_at": "2026-06-21T00:15:04.592Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@k3_2o/pi-chrollo",
+		"reason": "Duplicate of GitHub repo k3-2o/pi-chrollo (5 stars vs 0 npm downloads); keeping higher-popularity GitHub entry",
+		"blacklisted_at": "2026-06-21T00:15:04.657Z",
+		"source": "manual"
 	}
 ]
