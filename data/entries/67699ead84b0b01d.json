@@ -8,7 +8,7 @@
     "github_url": "https://github.com/cfal/garcon",
     "repo_full_name": "cfal/garcon",
     "description": "A local AI coding workspace for Claude Code, Codex, Cursor, OpenCode, Amp, Factory Droid, Pi, and OpenAI/Anthropic-compatible models.",
-    "stars": 25,
+    "stars": 26,
     "forks": 4,
     "open_issues": 33,
     "topics": [
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-23T13:42:57Z",
-    "pushed_at": "2026-06-20T19:17:14Z",
-    "updated_at": "2026-06-20T19:17:18Z",
-    "size": 7426,
+    "pushed_at": "2026-06-21T10:50:59Z",
+    "updated_at": "2026-06-21T10:51:02Z",
+    "size": 7536,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

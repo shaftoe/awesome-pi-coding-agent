@@ -1,0 +1,28 @@
+{
+  "id": "@ratel-factory/pi-extension",
+  "name": "@ratel-factory/pi-extension",
+  "url": "https://www.npmjs.com/package/@ratel-factory/pi-extension",
+  "source": "npm-search",
+  "description": "Ratel Factory — native Pi Coding Agent extension. Runs the Ratel orchestrator in-process (no HTTP service, no `ratel --serve`) and registers Pi commands, tools, lifecycle hooks, and a bundled skill so Pi users can run Ratel missions directly inside Pi.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@ratel-factory/pi-extension",
+    "description": "Ratel Factory — native Pi Coding Agent extension. Runs the Ratel orchestrator in-process (no HTTP service, no `ratel --serve`) and registers Pi commands, tools, lifecycle hooks, and a bundled skill so Pi users can run Ratel missions directly inside Pi.",
+    "keywords": [
+      "pi-package",
+      "ratel",
+      "ai-software-factory",
+      "pi-extension"
+    ],
+    "version": "0.2.2",
+    "published_at": "2026-06-21T10:08:53.804Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

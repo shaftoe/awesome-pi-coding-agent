@@ -1,0 +1,25 @@
+{
+  "id": "flashruler-pi-agent",
+  "name": "flashruler-pi-agent",
+  "url": "https://github.com/flashruler/pi-agent",
+  "source": "github-search",
+  "description": "My personal configuration of pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/flashruler/pi-agent",
+    "repo_full_name": "flashruler/pi-agent",
+    "description": "My personal configuration of pi coding agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-21T01:42:31Z",
+    "pushed_at": "2026-06-21T04:58:48Z",
+    "updated_at": "2026-06-21T04:58:51Z",
+    "size": 11,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

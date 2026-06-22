@@ -10,7 +10,7 @@
     "description": "Private Telegram remote bot for Pi sessions",
     "stars": 9,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "developer-tools",
       "nodejs",

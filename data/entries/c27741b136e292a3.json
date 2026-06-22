@@ -1,0 +1,25 @@
+{
+  "id": "michaelmjhhhh-pi-agent-dotfiles",
+  "name": "michaelmjhhhh-pi-agent-dotfiles",
+  "url": "https://github.com/michaelmjhhhh/pi-agent-dotfiles",
+  "source": "github-search",
+  "description": "my pi agent configuration",
+  "metadata": {
+    "github_url": "https://github.com/michaelmjhhhh/pi-agent-dotfiles",
+    "repo_full_name": "michaelmjhhhh/pi-agent-dotfiles",
+    "description": "my pi agent configuration",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-21T12:26:17Z",
+    "pushed_at": "2026-06-21T14:22:49Z",
+    "updated_at": "2026-06-21T14:22:52Z",
+    "size": 28,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

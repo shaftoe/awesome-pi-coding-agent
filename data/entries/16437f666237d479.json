@@ -1,0 +1,25 @@
+{
+  "id": "HackXIt-pi-ssh-tools",
+  "name": "HackXIt-pi-ssh-tools",
+  "url": "https://github.com/HackXIt/pi-ssh-tools",
+  "source": "github-search",
+  "description": "HackXIt Pi extension package",
+  "metadata": {
+    "github_url": "https://github.com/HackXIt/pi-ssh-tools",
+    "repo_full_name": "HackXIt/pi-ssh-tools",
+    "description": "HackXIt Pi extension package",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-21T10:05:50Z",
+    "pushed_at": "2026-06-21T19:07:44Z",
+    "updated_at": "2026-06-21T19:07:47Z",
+    "size": 11,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

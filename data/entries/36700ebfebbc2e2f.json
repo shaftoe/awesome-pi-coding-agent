@@ -1,0 +1,30 @@
+{
+  "id": "@asm3r96/pi-loops",
+  "name": "@asm3r96/pi-loops",
+  "url": "https://www.npmjs.com/package/@asm3r96/pi-loops",
+  "source": "npm-search",
+  "description": "A reusable Pi extension that adds a supervised loop harness around the normal Pi coding agent. Supports bounded LLM nodes, deterministic gates, steering, evidence collection, and composable workflow definitions.",
+  "metadata": {
+    "github_url": "https://github.com/Asm3r96/pi-loops",
+    "npm_name": "@asm3r96/pi-loops",
+    "description": "A reusable Pi extension that adds a supervised loop harness around the normal Pi coding agent. Supports bounded LLM nodes, deterministic gates, steering, evidence collection, and composable workflow definitions.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-loops",
+      "coding-agent",
+      "automation",
+      "workflow"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-21T18:30:37.686Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
