@@ -1,0 +1,20 @@
+{
+  "id": "YT_2FozVUkp3yo",
+  "name": "PI coding agent first config - Using Ollama Custom Model",
+  "url": "https://youtube.com/watch?v=2FozVUkp3yo",
+  "source": "youtube-search",
+  "description": "How to config Pi coding agent to use a local model instead of api key or subscription https://pi.dev/ If you want a more detailed ...",
+  "metadata": {
+    "title": "PI coding agent first config - Using Ollama Custom Model",
+    "name": "PI coding agent first config - Using Ollama Custom Model",
+    "description": "How to config Pi coding agent to use a local model instead of api key or subscription https://pi.dev/ If you want a more detailed ...",
+    "channel": "Boards Discovery",
+    "published_at": "2026-06-21T07:52:27Z",
+    "thumbnail": "https://i.ytimg.com/vi/2FozVUkp3yo/hqdefault.jpg",
+    "views": 7,
+    "likes": 0,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "category": "video"
+}
