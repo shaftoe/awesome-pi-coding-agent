@@ -1,0 +1,29 @@
+{
+  "id": "IzumiSy-pi-ts-code-search",
+  "name": "IzumiSy-pi-ts-code-search",
+  "url": "https://github.com/IzumiSy/pi-ts-code-search",
+  "source": "github-search",
+  "description": "TypeScript/TSX-oriented code search for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/IzumiSy/pi-ts-code-search",
+    "repo_full_name": "IzumiSy/pi-ts-code-search",
+    "description": "TypeScript/TSX-oriented code search for Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "code-search",
+      "pidev",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-23T06:13:57Z",
+    "pushed_at": "2026-06-23T12:53:57Z",
+    "updated_at": "2026-06-23T12:54:08Z",
+    "size": 136,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

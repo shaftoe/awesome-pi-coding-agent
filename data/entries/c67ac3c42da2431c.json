@@ -1,0 +1,28 @@
+{
+  "id": "IzumiSy-pi-file-tree-browser",
+  "name": "IzumiSy-pi-file-tree-browser",
+  "url": "https://github.com/IzumiSy/pi-file-tree-browser",
+  "source": "github-search",
+  "description": "A TUI file browser extension for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/IzumiSy/pi-file-tree-browser",
+    "repo_full_name": "IzumiSy/pi-file-tree-browser",
+    "description": "A TUI file browser extension for Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "file-browser",
+      "pidev"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-18T07:33:17Z",
+    "pushed_at": "2026-06-23T14:42:39Z",
+    "updated_at": "2026-06-23T14:42:44Z",
+    "size": 1581,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

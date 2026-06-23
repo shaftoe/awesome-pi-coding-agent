@@ -1,0 +1,25 @@
+{
+  "id": "qagushaq-pi-coding-agent-vscode",
+  "name": "qagushaq-pi-coding-agent-vscode",
+  "url": "https://github.com/qagushaq/pi-coding-agent-vscode",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/qagushaq/pi-coding-agent-vscode",
+    "repo_full_name": "qagushaq/pi-coding-agent-vscode",
+    "description": "",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-23T10:57:10Z",
+    "pushed_at": "2026-06-23T12:52:14Z",
+    "updated_at": "2026-06-23T12:52:19Z",
+    "size": 23,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

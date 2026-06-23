@@ -32017,5 +32017,131 @@
 		"reason": "Not about Pi coding agent — this is an AIBP receiver extension for opencode, not Pi",
 		"blacklisted_at": "2026-06-23T00:08:22.505Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=rNgUoH7Wbv8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-23T23:55:11.051Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=NN5onOAR2EI",
+		"reason": "non-english language (italian)",
+		"blacklisted_at": "2026-06-23T23:55:11.134Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://creators.spotify.com/pod/profile/bostoncc/episodes/062224-npm-install-everything-with-Evan-Boehs-e2l6kua",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-23T23:55:11.167Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Vistyy/pi-fork",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-23T23:55:11.237Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/AstraNoctis03/omp-kit",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-23T23:55:11.306Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/aadishv/skills",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-23T23:55:11.312Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/wusiration/pi-agent-tutorial",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-23T23:55:11.36Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Vistyy/pi-lavish",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-23T23:55:11.389Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=DogTO1jjFtI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-23T23:55:11.425Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/joelhooks/pi-ast-grep",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-23T23:55:11.499Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Vistyy/pi-observational-memory",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-23T23:55:11.524Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-cache-extension",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-23T23:55:11.553Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/dataforseo-api-cli",
+		"reason": "Not relevant to Pi coding agent — generic SEO/keyword-research CLI tool for DataForSEO API, 'pi-package' keyword is spam/keyword-stuffing",
+		"blacklisted_at": "2026-06-23T23:58:09.946Z",
+		"source": "manual"
 	}
 ]

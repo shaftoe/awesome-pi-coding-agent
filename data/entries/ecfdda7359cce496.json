@@ -1,0 +1,32 @@
+{
+  "id": "@xl0/pi-lovely-comment",
+  "name": "@xl0/pi-lovely-comment",
+  "url": "https://www.npmjs.com/package/@xl0/pi-lovely-comment",
+  "source": "npm-search",
+  "description": "Open the last assistant message in your editor and sync edits back into the prompt",
+  "metadata": {
+    "github_url": "https://github.com/xl0/agent-files",
+    "npm_name": "@xl0/pi-lovely-comment",
+    "description": "Open the last assistant message in your editor and sync edits back into the prompt",
+    "keywords": [
+      "pi-package",
+      "comment",
+      "editor",
+      "pi",
+      "vscode",
+      "zed",
+      "cursor",
+      "windsurf"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-23T01:15:28.992Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

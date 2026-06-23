@@ -1,0 +1,25 @@
+{
+  "id": "ptlzc-pi-extensions",
+  "name": "ptlzc-pi-extensions",
+  "url": "https://github.com/ptlzc/pi-extensions",
+  "source": "github-search",
+  "description": "A collection of Pi coding agent extensions",
+  "metadata": {
+    "github_url": "https://github.com/ptlzc/pi-extensions",
+    "repo_full_name": "ptlzc/pi-extensions",
+    "description": "A collection of Pi coding agent extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-23T01:14:10Z",
+    "pushed_at": "2026-06-23T03:04:49Z",
+    "updated_at": "2026-06-23T03:04:52Z",
+    "size": 46,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

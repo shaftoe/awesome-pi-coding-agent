@@ -1,0 +1,25 @@
+{
+  "id": "doodledood-pi-plugins",
+  "name": "doodledood-pi-plugins",
+  "url": "https://github.com/doodledood/pi-plugins",
+  "source": "github-search",
+  "description": "Installable Pi extensions, theme, and setup profile templates.",
+  "metadata": {
+    "github_url": "https://github.com/doodledood/pi-plugins",
+    "repo_full_name": "doodledood/pi-plugins",
+    "description": "Installable Pi extensions, theme, and setup profile templates.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-23T14:22:59Z",
+    "pushed_at": "2026-06-23T22:20:12Z",
+    "updated_at": "2026-06-23T22:20:17Z",
+    "size": 149,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}
