@@ -16,7 +16,7 @@ jobs:
     outputs:
       has_changes: ${{ steps.check-changes.outputs.has_changes }}
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
 
       - uses: oven-sh/setup-bun@v2
 
@@ -59,7 +59,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: pipeline
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
 
       - uses: oven-sh/setup-bun@v2
 
@@ -107,7 +107,7 @@ jobs:
     if: needs.run-pipeline.outputs.has_changes == 'true'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
 
       - uses: actions/download-artifact@v8
         with:
