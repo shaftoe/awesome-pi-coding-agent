@@ -1,0 +1,25 @@
+{
+  "id": "dantetekanem-pi-workflow",
+  "name": "dantetekanem-pi-workflow",
+  "url": "https://github.com/dantetekanem/pi-workflow",
+  "source": "github-search",
+  "description": "Solid workflows for Pi agents",
+  "metadata": {
+    "github_url": "https://github.com/dantetekanem/pi-workflow",
+    "repo_full_name": "dantetekanem/pi-workflow",
+    "description": "Solid workflows for Pi agents",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-20T20:59:17Z",
+    "pushed_at": "2026-06-21T18:31:44Z",
+    "updated_at": "2026-06-23T10:07:27Z",
+    "size": 258,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

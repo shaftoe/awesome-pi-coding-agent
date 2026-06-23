@@ -1,0 +1,40 @@
+{
+  "id": "getpipher-pi-package-index",
+  "name": "getpipher-pi-package-index",
+  "url": "https://github.com/getpipher/pi-package-index",
+  "source": "github-search",
+  "description": "Unofficial community index of Pi coding-agent packages — ranked by downloads + stars + maintenance, with a public API. Not affiliated with earendil-works.",
+  "metadata": {
+    "github_url": "https://github.com/getpipher/pi-package-index",
+    "repo_full_name": "getpipher/pi-package-index",
+    "description": "Unofficial community index of Pi coding-agent packages — ranked by downloads + stars + maintenance, with a public API. Not affiliated with earendil-works.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "community",
+      "directory",
+      "discovery",
+      "nextjs",
+      "npm",
+      "package-index",
+      "packages",
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "search",
+      "tailwind",
+      "typescript",
+      "vercel"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-23T10:32:56Z",
+    "pushed_at": "2026-06-23T23:42:05Z",
+    "updated_at": "2026-06-23T23:42:09Z",
+    "size": 2343,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

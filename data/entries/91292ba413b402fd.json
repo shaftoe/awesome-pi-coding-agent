@@ -1,0 +1,29 @@
+{
+  "id": "@bb84/quailbot-pi",
+  "name": "@bb84/quailbot-pi",
+  "url": "https://www.npmjs.com/package/@bb84/quailbot-pi",
+  "source": "npm-search",
+  "description": "Quailbot Pi -- a Pi agent extension that turns a quantum instrument workspace into a measurement-readback action loop, with experiment logging and a workspace calibrator.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@bb84/quailbot-pi",
+    "description": "Quailbot Pi -- a Pi agent extension that turns a quantum instrument workspace into a measurement-readback action loop, with experiment logging and a workspace calibrator.",
+    "keywords": [
+      "pi-package",
+      "instrument-automation",
+      "nanonis",
+      "stm",
+      "quailbot"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-06-23T18:32:18.564Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

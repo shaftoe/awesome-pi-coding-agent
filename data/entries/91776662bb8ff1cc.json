@@ -1,0 +1,27 @@
+{
+  "id": "@mcowger/pi-llmgateway",
+  "name": "@mcowger/pi-llmgateway",
+  "url": "https://www.npmjs.com/package/@mcowger/pi-llmgateway",
+  "source": "npm-search",
+  "description": "A Pi extension that adds [LLM Gateway](https://llmgateway.io) as a model provider, giving you access to 160+ chat models from OpenAI, Anthropic, Google, xAI, Mistral, DeepSeek, and many others through a single OpenAI-compatible API.",
+  "metadata": {
+    "github_url": "https://github.com/mcowger/pi-llmgateway",
+    "npm_name": "@mcowger/pi-llmgateway",
+    "description": "A Pi extension that adds [LLM Gateway](https://llmgateway.io) as a model provider, giving you access to 160+ chat models from OpenAI, Anthropic, Google, xAI, Mistral, DeepSeek, and many others through a single OpenAI-compatible API.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-06-23T04:33:45.326Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
