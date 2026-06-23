@@ -8,7 +8,7 @@
     "github_url": "https://github.com/stnly/pi-grok",
     "repo_full_name": "stnly/pi-grok",
     "description": "Use your x.com Premium / SuperGrok subscription in pi with OAuth login, auto-refresh, and live model discovery. Supports grok-composer-2.5-fast, grok-build, grok-4.3,, x_search.",
-    "stars": 4,
+    "stars": 5,
     "forks": 2,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-05-16T09:41:11Z",
     "pushed_at": "2026-06-10T06:29:59Z",
-    "updated_at": "2026-06-18T15:48:10Z",
+    "updated_at": "2026-06-22T19:36:07Z",
     "size": 43,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"

@@ -5,17 +5,17 @@
   "source": "npm-search",
   "description": "WebFetch tool extension for pi coding agent",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/anthod0/pi-lab",
     "npm_name": "@pi-lab/webfetch",
     "description": "WebFetch tool extension for pi coding agent",
     "keywords": [
       "pi-package"
     ],
-    "version": "1.0.2",
-    "published_at": "2026-05-11T04:21:18.496Z",
-    "npm_downloads_monthly": 171,
-    "npm_downloads_weekly": 52,
-    "npm_score_final": 16.946869,
+    "version": "1.0.3",
+    "published_at": "2026-06-22T06:46:48.305Z",
+    "npm_downloads_monthly": 165,
+    "npm_downloads_weekly": 43,
+    "npm_score_final": 16.668325,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

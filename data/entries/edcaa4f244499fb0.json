@@ -1,0 +1,35 @@
+{
+  "id": "@mancioshell/pi-board-agent",
+  "name": "@mancioshell/pi-board-agent",
+  "url": "https://www.npmjs.com/package/@mancioshell/pi-board-agent",
+  "source": "npm-search",
+  "description": "Autonomous GitHub Project (v2) board executor for Pi — picks Ready cards, implements them in parallel git worktrees via pi-dynamic-workflows, and opens one PR per plan.",
+  "metadata": {
+    "github_url": "https://github.com/mancioshell/pi-board-agent",
+    "npm_name": "@mancioshell/pi-board-agent",
+    "description": "Autonomous GitHub Project (v2) board executor for Pi — picks Ready cards, implements them in parallel git worktrees via pi-dynamic-workflows, and opens one PR per plan.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-agent",
+      "pi-extension",
+      "github",
+      "github-projects",
+      "kanban",
+      "automation",
+      "spec-kit",
+      "agents",
+      "workflows"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-06-22T21:53:18.314Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

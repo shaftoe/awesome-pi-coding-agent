@@ -1,0 +1,36 @@
+{
+  "id": "@marttinn/screenshotter",
+  "name": "@marttinn/screenshotter",
+  "url": "https://www.npmjs.com/package/@marttinn/screenshotter",
+  "source": "npm-search",
+  "description": "Local-first macOS screenshot optimizer for AI coding agents.",
+  "metadata": {
+    "github_url": "https://github.com/mgranados/screenshotter",
+    "npm_name": "@marttinn/screenshotter",
+    "description": "Local-first macOS screenshot optimizer for AI coding agents.",
+    "keywords": [
+      "pi-package",
+      "screenshots",
+      "ai-agents",
+      "apple-vision",
+      "codex",
+      "codex-cli",
+      "claude",
+      "claude-code",
+      "mcp",
+      "screenshot-compression",
+      "image-optimization",
+      "macos"
+    ],
+    "version": "0.0.1",
+    "published_at": "2026-06-22T16:16:39.748Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}
