@@ -1,0 +1,25 @@
+{
+  "id": "schnaitter-pifm",
+  "name": "schnaitter-pifm",
+  "url": "https://github.com/schnaitter/pifm",
+  "source": "github-search",
+  "description": "pi-coding-agent provider extension for Apple Foundation Models via fm CLI",
+  "metadata": {
+    "github_url": "https://github.com/schnaitter/pifm",
+    "repo_full_name": "schnaitter/pifm",
+    "description": "pi-coding-agent provider extension for Apple Foundation Models via fm CLI",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-14T15:07:09Z",
+    "pushed_at": "2026-06-14T16:30:53Z",
+    "updated_at": "2026-06-22T22:13:02Z",
+    "size": 16,
+    "license": "CC0-1.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

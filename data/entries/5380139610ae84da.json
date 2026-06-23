@@ -1,0 +1,30 @@
+{
+  "id": "bscordeiro-pi-twiddle",
+  "name": "bscordeiro-pi-twiddle",
+  "url": "https://github.com/bscordeiro/pi-twiddle",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/bscordeiro/pi-twiddle",
+    "repo_full_name": "bscordeiro/pi-twiddle",
+    "description": "",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "pi",
+      "pi-agent",
+      "prompt-engineering"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-14T13:36:55Z",
+    "pushed_at": "2026-06-21T02:16:49Z",
+    "updated_at": "2026-06-22T01:27:40Z",
+    "size": 1590,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

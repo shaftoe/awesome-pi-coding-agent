@@ -10,7 +10,7 @@
     "description": "Mobile-first self-hosted web control plane for many concurrent Pi coding-agent sessions",
     "stars": 6,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

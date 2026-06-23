@@ -1,0 +1,30 @@
+{
+  "id": "pi-context-firewall",
+  "name": "pi-context-firewall",
+  "url": "https://www.npmjs.com/package/pi-context-firewall",
+  "source": "npm-search",
+  "description": "Natively route noisy Pi shell commands through Context Firewall to save context.",
+  "metadata": {
+    "github_url": "https://github.com/nik1t7n/pi-context-firewall",
+    "npm_name": "pi-context-firewall",
+    "description": "Natively route noisy Pi shell commands through Context Firewall to save context.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "context-firewall",
+      "cfw",
+      "ai-agents"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-22T03:25:37.746Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

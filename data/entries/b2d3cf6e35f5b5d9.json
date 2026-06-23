@@ -9,7 +9,7 @@
     "repo_full_name": "sergical/pi-sentry-monitor",
     "description": "Sentry AI Monitoring extension for pi coding agent — traces sessions, tool calls, and LLM requests",
     "stars": 2,
-    "forks": 4,
+    "forks": 5,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

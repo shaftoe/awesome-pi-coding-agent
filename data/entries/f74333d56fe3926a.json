@@ -8,7 +8,7 @@
     "github_url": "https://github.com/sshkeda/pi-mock",
     "repo_full_name": "sshkeda/pi-mock",
     "description": "Integration testing harness for pi extensions. Mock LLM APIs (Anthropic, OpenAI, Google), Docker sandbox with network isolation, fault injection, record/replay, CLI.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -27,7 +27,7 @@
     "archived": false,
     "created_at": "2026-03-29T03:13:10Z",
     "pushed_at": "2026-05-18T00:39:38Z",
-    "updated_at": "2026-05-18T00:39:42Z",
+    "updated_at": "2026-06-22T16:01:11Z",
     "size": 487,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

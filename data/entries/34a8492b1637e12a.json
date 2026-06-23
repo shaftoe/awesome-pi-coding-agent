@@ -8,7 +8,7 @@
     "github_url": "https://github.com/volker48/agent-customization",
     "repo_full_name": "volker48/agent-customization",
     "description": "Extensions etc. to customize agents like opencode, pi-mono, etc.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 2,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-09T13:50:19Z",
     "pushed_at": "2026-06-18T20:45:17Z",
-    "updated_at": "2026-06-18T11:38:07Z",
+    "updated_at": "2026-06-22T19:58:25Z",
     "size": 652,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

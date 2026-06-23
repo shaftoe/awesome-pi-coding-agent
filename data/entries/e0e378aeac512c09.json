@@ -1,0 +1,30 @@
+{
+  "id": "adagradschool-theta",
+  "name": "adagradschool-theta",
+  "url": "https://github.com/adagradschool/theta",
+  "source": "github-search",
+  "description": "Browser first agent runtime",
+  "metadata": {
+    "github_url": "https://github.com/adagradschool/theta",
+    "repo_full_name": "adagradschool/theta",
+    "description": "Browser first agent runtime",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "electric-sql",
+      "opfs",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-22T03:09:20Z",
+    "pushed_at": "2026-06-22T03:17:45Z",
+    "updated_at": "2026-06-22T15:50:50Z",
+    "size": 3560,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

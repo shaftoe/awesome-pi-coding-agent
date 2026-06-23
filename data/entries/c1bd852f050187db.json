@@ -1,0 +1,30 @@
+{
+  "id": "brief-ctx",
+  "name": "brief-ctx",
+  "url": "https://www.npmjs.com/package/brief-ctx",
+  "source": "npm-search",
+  "description": "Adds /brief for generating and updating AI coding agent project context. Works with Pi, Claude Code, and Codex.",
+  "metadata": {
+    "github_url": "https://github.com/diomari/brief-ctx",
+    "npm_name": "brief-ctx",
+    "description": "Adds /brief for generating and updating AI coding agent project context. Works with Pi, Claude Code, and Codex.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "ai-coding",
+      "agent-context",
+      "repo-map"
+    ],
+    "version": "1.2.0",
+    "published_at": "2026-06-22T13:14:32.596Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}
