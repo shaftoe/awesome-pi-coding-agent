@@ -1,0 +1,25 @@
+{
+  "id": "gianniacquisto-pi-extensions",
+  "name": "gianniacquisto-pi-extensions",
+  "url": "https://github.com/gianniacquisto/pi-extensions",
+  "source": "github-search",
+  "description": "Collection of pi coding agent extensions",
+  "metadata": {
+    "github_url": "https://github.com/gianniacquisto/pi-extensions",
+    "repo_full_name": "gianniacquisto/pi-extensions",
+    "description": "Collection of pi coding agent extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-24T20:45:11Z",
+    "pushed_at": "2026-06-24T20:45:23Z",
+    "updated_at": "2026-06-24T20:45:28Z",
+    "size": 3,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

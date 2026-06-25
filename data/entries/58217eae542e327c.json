@@ -1,0 +1,33 @@
+{
+  "id": "@estebanforge/pi-glm-tweaks",
+  "name": "@estebanforge/pi-glm-tweaks",
+  "url": "https://www.npmjs.com/package/@estebanforge/pi-glm-tweaks",
+  "source": "npm-search",
+  "description": "Pi-native tweaks for Z.AI's GLM-5.2. Restricts the Pi thinking-level UI to the three modes GLM-5.2 actually supports (off, high, max), wires the native thinkingFormat:\"zai\" wire translation, and auto-clamps hidden levels when the model is selected.",
+  "metadata": {
+    "github_url": "https://github.com/EstebanForge/pi-glm-tweaks",
+    "npm_name": "@estebanforge/pi-glm-tweaks",
+    "description": "Pi-native tweaks for Z.AI's GLM-5.2. Restricts the Pi thinking-level UI to the three modes GLM-5.2 actually supports (off, high, max), wires the native thinkingFormat:\"zai\" wire translation, and auto-clamps hidden levels when the model is selected.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "zai",
+      "z-ai",
+      "glm",
+      "glm-5.2",
+      "thinking",
+      "reasoning_effort",
+      "thinking-mode"
+    ],
+    "version": "1.1.1",
+    "published_at": "2026-06-24T19:03:23.773Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

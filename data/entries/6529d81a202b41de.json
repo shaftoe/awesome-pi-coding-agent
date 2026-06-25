@@ -8,7 +8,7 @@
     "github_url": "https://github.com/leohenon/pi-vim",
     "repo_full_name": "leohenon/pi-vim",
     "description": "Vim mode for pi with motions, text objects, and visual mode.",
-    "stars": 10,
+    "stars": 9,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-04-03T13:59:41Z",
     "pushed_at": "2026-05-30T11:45:19Z",
-    "updated_at": "2026-05-17T12:12:25Z",
+    "updated_at": "2026-06-24T19:57:04Z",
     "size": 1589,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

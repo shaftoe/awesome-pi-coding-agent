@@ -10,7 +10,7 @@
     "description": "Template for building Pi packages with extensions, Agent Skills, prompts, and themes.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 1,
     "topics": [
       "agent-skill",
       "pi",
@@ -20,8 +20,8 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-29T02:22:11Z",
-    "pushed_at": "2026-06-23T00:05:52Z",
-    "updated_at": "2026-06-23T00:03:58Z",
+    "pushed_at": "2026-06-24T00:21:55Z",
+    "updated_at": "2026-06-24T00:19:49Z",
     "size": 230,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

@@ -5,14 +5,14 @@
   "source": "npm-search",
   "description": "Pi extension for user-controlled agent role switching with markdown-defined agents",
   "metadata": {
-    "github_url": "https://github.com/KunCheng-He/opencode-k-skills",
+    "github_url": "https://github.com/KunCheng-He/kk-ai",
     "npm_name": "pi-agent-switcher",
     "description": "Pi extension for user-controlled agent role switching with markdown-defined agents",
     "keywords": [
       "pi-package"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-06-23T16:04:56.199Z",
+    "version": "0.2.0",
+    "published_at": "2026-06-24T06:45:13.532Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

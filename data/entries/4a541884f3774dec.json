@@ -1,0 +1,36 @@
+{
+  "id": "@estebanforge/pi-ts-review",
+  "name": "@estebanforge/pi-ts-review",
+  "url": "https://www.npmjs.com/package/@estebanforge/pi-ts-review",
+  "source": "npm-search",
+  "description": "TypeScript / React code-review tool for Pi. Grades your git diffs against a focused TS + React rubric (2 sections, 14 entries: TypeScript type-system + React/JSX semantic mistakes). Targets .ts/.mts/.cts/.tsx. Each entry has a bad/good pair; the LLM propo",
+  "metadata": {
+    "github_url": "https://github.com/EstebanForge/pi-ts-review",
+    "npm_name": "@estebanforge/pi-ts-review",
+    "description": "TypeScript / React code-review tool for Pi. Grades your git diffs against a focused TS + React rubric (2 sections, 14 entries: TypeScript type-system + React/JSX semantic mistakes). Targets .ts/.mts/.cts/.tsx. Each entry has a bad/good pair; the LLM propo",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "typescript",
+      "react",
+      "tsx",
+      "jsx",
+      "code-review",
+      "code-reviewer",
+      "anti-patterns",
+      "code-smells",
+      "rubric",
+      "git-diff"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-06-24T16:21:28.681Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/sting8k/pi-droid-styling",
     "repo_full_name": "sting8k/pi-droid-styling",
     "description": "You won't believe this is a PI theme.",
-    "stars": 10,
+    "stars": 12,
     "forks": 1,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-19T13:47:24Z",
     "pushed_at": "2026-06-23T07:41:04Z",
-    "updated_at": "2026-06-23T01:51:11Z",
+    "updated_at": "2026-06-24T19:01:14Z",
     "size": 979,
     "license": null,
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

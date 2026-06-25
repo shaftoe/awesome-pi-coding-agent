@@ -3,11 +3,11 @@
   "name": "@roodriigoooo/pi-huff",
   "url": "https://www.npmjs.com/package/@roodriigoooo/pi-huff",
   "source": "npm-search",
-  "description": "Shiki-highlighted terminal diffs and a read-only Hunk review bridge for the pi coding agent.",
+  "description": "Configurable Shiki terminal diffs and read-only Hunk review notes for pi.",
   "metadata": {
     "github_url": "https://github.com/roodriigoooo/pi-huff",
     "npm_name": "@roodriigoooo/pi-huff",
-    "description": "Shiki-highlighted terminal diffs and a read-only Hunk review bridge for the pi coding agent.",
+    "description": "Configurable Shiki terminal diffs and read-only Hunk review notes for pi.",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -16,8 +16,8 @@
       "shiki",
       "terminal"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-06-23T23:22:04.637Z",
+    "version": "0.3.0",
+    "published_at": "2026-06-24T01:52:18.728Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

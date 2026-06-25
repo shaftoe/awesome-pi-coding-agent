@@ -10,7 +10,7 @@
     "description": "Pi Orchestrator for verified AI development workflows.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 0,
     "topics": [
       "ai-workflow",
       "github-automation",
@@ -21,10 +21,10 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-23T12:41:44Z",
-    "pushed_at": "2026-06-23T22:07:56Z",
-    "updated_at": "2026-06-23T20:15:05Z",
-    "size": 119,
-    "license": null,
+    "pushed_at": "2026-06-24T16:51:01Z",
+    "updated_at": "2026-06-24T16:51:04Z",
+    "size": 132,
+    "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "category": "misc"

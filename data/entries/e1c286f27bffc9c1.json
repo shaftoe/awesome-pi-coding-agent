@@ -8,18 +8,18 @@
     "github_url": "https://github.com/stansz/agent-hive",
     "repo_full_name": "stansz/agent-hive",
     "description": "Self-hosted coding agent server — pi.dev SDK + Fastify. One VPS, one API, any orchestrator.",
-    "stars": 0,
-    "forks": 0,
+    "stars": 1,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-28T04:49:51Z",
     "pushed_at": "2026-05-18T09:08:32Z",
-    "updated_at": "2026-05-18T09:08:36Z",
+    "updated_at": "2026-06-24T08:20:03Z",
     "size": 195,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
     "score": 53,
