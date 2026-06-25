@@ -1,0 +1,25 @@
+{
+  "id": "AndekeX-dotfiles",
+  "name": "AndekeX-dotfiles",
+  "url": "https://github.com/AndekeX/dotfiles",
+  "source": "github-search",
+  "description": "Pi coding agent dotfiles",
+  "metadata": {
+    "github_url": "https://github.com/AndekeX/dotfiles",
+    "repo_full_name": "AndekeX/dotfiles",
+    "description": "Pi coding agent dotfiles",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-24T23:05:45Z",
+    "pushed_at": "2026-06-24T23:43:23Z",
+    "updated_at": "2026-06-24T23:43:27Z",
+    "size": 7,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

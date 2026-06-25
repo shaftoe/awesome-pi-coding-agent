@@ -8,7 +8,7 @@
     "github_url": "https://github.com/abhinand5/pi-setup",
     "repo_full_name": "abhinand5/pi-setup",
     "description": "Personal Pi coding agent setup",
-    "stars": 256,
+    "stars": 257,
     "forks": 31,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-06-06T07:56:45Z",
     "pushed_at": "2026-06-15T18:23:19Z",
-    "updated_at": "2026-06-23T19:38:44Z",
+    "updated_at": "2026-06-24T10:20:45Z",
     "size": 2447,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

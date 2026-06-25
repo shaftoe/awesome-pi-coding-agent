@@ -1,0 +1,25 @@
+{
+  "id": "VanKurnia-pi-agent-setup",
+  "name": "VanKurnia-pi-agent-setup",
+  "url": "https://github.com/VanKurnia/pi-agent-setup",
+  "source": "github-search",
+  "description": "simple pi agent setup for web dev",
+  "metadata": {
+    "github_url": "https://github.com/VanKurnia/pi-agent-setup",
+    "repo_full_name": "VanKurnia/pi-agent-setup",
+    "description": "simple pi agent setup for web dev",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-18T16:10:33Z",
+    "pushed_at": "2026-06-24T23:57:30Z",
+    "updated_at": "2026-06-24T23:57:33Z",
+    "size": 420,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

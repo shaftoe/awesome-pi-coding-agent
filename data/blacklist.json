@@ -32143,5 +32143,219 @@
 		"reason": "Not relevant to Pi coding agent — generic SEO/keyword-research CLI tool for DataForSEO API, 'pi-package' keyword is spam/keyword-stuffing",
 		"blacklisted_at": "2026-06-23T23:58:09.946Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=tbcJ28cZTcY",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-06-25T00:08:50.522Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://x.com/Replit/status/2052837476369039438",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-25T00:08:50.587Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=adt0dmZcQg0",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-06-25T00:08:50.599Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/EnjoyWT/PiAgent-GUI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-25T00:08:50.649Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=hPbRia50Em8",
+		"reason": "pop culture pi signal: \"magnum pi\"",
+		"blacklisted_at": "2026-06-25T00:08:50.67Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ZrniwnzXv2g",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-25T00:08:50.724Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=RdsYg1Lwets",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-25T00:08:50.864Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=zJbmjklMVRs",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-25T00:08:50.951Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=EuzYhzB0vbI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-25T00:08:51.027Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=kmC8JaLwmjs",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-25T00:08:51.075Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=xV7NeMAM9mE",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-06-25T00:08:51.136Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=7GDw96LR51U",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-25T00:08:51.167Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=wAncnD5Ld48",
+		"reason": "pop culture pi signal: \"magnum pi\"",
+		"blacklisted_at": "2026-06-25T00:08:51.175Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/blksails/pi-web",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-25T00:08:51.193Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/MRGRD56/pi-omp-skills-autocomplete",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-06-25T00:08:51.245Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5SQMq9Ullmo",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-25T00:08:51.268Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/rxw2023/Cloud_Pi_Agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-25T00:08:51.384Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=oX25rZrBIXE",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-25T00:08:51.403Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/iZiTTMarvin/Nova-agent",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-25T00:08:51.411Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=WJs_V2q9Nek",
+		"reason": "Non-English content (Spanish title and description)",
+		"blacklisted_at": "2026-06-25T00:12:09.421Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://pi.dev/packages/pi-web-access",
+		"reason": "Duplicate of npm package pi-web-access (kept the npm entry with higher popularity)",
+		"blacklisted_at": "2026-06-25T00:12:09.432Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=UHrkAMXsn_0",
+		"reason": "Not about Pi coding agent — musical clip video unrelated to pi.dev",
+		"blacklisted_at": "2026-06-25T00:13:17.244Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=Bns3-MEDn4w",
+		"reason": "Not about Pi coding agent — unrelated video about personal pi",
+		"blacklisted_at": "2026-06-25T00:13:20.124Z",
+		"source": "manual"
 	}
 ]

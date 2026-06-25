@@ -1,0 +1,32 @@
+{
+  "id": "HCAHOI-pi-code-index",
+  "name": "HCAHOI-pi-code-index",
+  "url": "https://github.com/HCAHOI/pi-code-index",
+  "source": "github-search",
+  "description": "Local semantic code search for pi — find code by intent. LanceDB + tree-sitter, incremental reindex, .index_tag filtering.",
+  "metadata": {
+    "github_url": "https://github.com/HCAHOI/pi-code-index",
+    "repo_full_name": "HCAHOI/pi-code-index",
+    "description": "Local semantic code search for pi — find code by intent. LanceDB + tree-sitter, incremental reindex, .index_tag filtering.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "code-index",
+      "lancedb",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "semantic-search"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-24T14:30:32Z",
+    "pushed_at": "2026-06-24T14:30:38Z",
+    "updated_at": "2026-06-24T14:33:11Z",
+    "size": 87,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

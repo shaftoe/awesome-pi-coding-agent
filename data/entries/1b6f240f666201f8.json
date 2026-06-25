@@ -1,0 +1,35 @@
+{
+  "id": "getpipher-zai-media",
+  "name": "getpipher-zai-media",
+  "url": "https://github.com/getpipher/zai-media",
+  "source": "github-search",
+  "description": "Z.AI media tools for Pi — generate images (GLM-Image) and OCR documents (GLM-OCR) as agent-invokable tools. The tool-adapter pattern for non-chat models.",
+  "metadata": {
+    "github_url": "https://github.com/getpipher/zai-media",
+    "repo_full_name": "getpipher/zai-media",
+    "description": "Z.AI media tools for Pi — generate images (GLM-Image) and OCR documents (GLM-OCR) as agent-invokable tools. The tool-adapter pattern for non-chat models.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-tools",
+      "glm",
+      "image-generation",
+      "ocr",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "vision",
+      "zai"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-24T05:29:18Z",
+    "pushed_at": "2026-06-24T05:29:54Z",
+    "updated_at": "2026-06-24T05:29:26Z",
+    "size": 10,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
