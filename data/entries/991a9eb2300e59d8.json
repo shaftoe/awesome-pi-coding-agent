@@ -8,7 +8,7 @@
     "github_url": "https://github.com/FoundDream/PiDesk",
     "repo_full_name": "FoundDream/PiDesk",
     "description": "Built on pi-mono agent engine — gets TUI, agent loop, coding tools, session persistence, compaction, multi-provider support, and model switching for free.",
-    "stars": 8,
+    "stars": 7,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-02-12T14:57:54Z",
     "pushed_at": "2026-02-12T14:58:31Z",
-    "updated_at": "2026-04-04T12:36:17Z",
+    "updated_at": "2026-06-25T09:41:08Z",
     "size": 47,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

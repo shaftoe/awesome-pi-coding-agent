@@ -1,0 +1,25 @@
+{
+  "id": "aprimediet-pi-codewalker",
+  "name": "aprimediet-pi-codewalker",
+  "url": "https://github.com/aprimediet/pi-codewalker",
+  "source": "github-search",
+  "description": "Project Snapshot Intelligence for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/aprimediet/pi-codewalker",
+    "repo_full_name": "aprimediet/pi-codewalker",
+    "description": "Project Snapshot Intelligence for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-25T12:24:08Z",
+    "pushed_at": "2026-06-25T12:24:43Z",
+    "updated_at": "2026-06-25T12:25:04Z",
+    "size": 18,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

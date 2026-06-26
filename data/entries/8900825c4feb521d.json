@@ -1,0 +1,25 @@
+{
+  "id": "metmirr-pikey",
+  "name": "metmirr-pikey",
+  "url": "https://github.com/metmirr/pikey",
+  "source": "github-search",
+  "description": "A small pi extension that turns your agent's terminal into a word-based typing tutor",
+  "metadata": {
+    "github_url": "https://github.com/metmirr/pikey",
+    "repo_full_name": "metmirr/pikey",
+    "description": "A small pi extension that turns your agent's terminal into a word-based typing tutor",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-24T20:30:47Z",
+    "pushed_at": "2026-06-24T20:34:37Z",
+    "updated_at": "2026-06-25T08:57:25Z",
+    "size": 10,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

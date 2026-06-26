@@ -1,0 +1,25 @@
+{
+  "id": "blueif16-PiFlow",
+  "name": "blueif16-PiFlow",
+  "url": "https://github.com/blueif16/PiFlow",
+  "source": "github-search",
+  "description": "Claude Code skill: run a proven Claude Code Workflow on a cheap pi-agent fleet by extracting its exact prompts + DAG — no port, no codegen, no drift.",
+  "metadata": {
+    "github_url": "https://github.com/blueif16/PiFlow",
+    "repo_full_name": "blueif16/PiFlow",
+    "description": "Claude Code skill: run a proven Claude Code Workflow on a cheap pi-agent fleet by extracting its exact prompts + DAG — no port, no codegen, no drift.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-09T00:40:31Z",
+    "pushed_at": "2026-06-25T06:41:27Z",
+    "updated_at": "2026-06-25T06:41:31Z",
+    "size": 6461,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

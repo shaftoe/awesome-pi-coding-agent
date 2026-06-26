@@ -10,7 +10,7 @@
     "description": "Desktop GUI for the pi coding agent — open-source Claude Cowork alternative",
     "stars": 92,
     "forks": 13,
-    "open_issues": 72,
+    "open_issues": 71,
     "topics": [
       "agent",
       "ai-assistant",
@@ -31,9 +31,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-28T03:07:04Z",
-    "pushed_at": "2026-06-23T19:07:01Z",
-    "updated_at": "2026-06-23T18:54:29Z",
-    "size": 33384,
+    "pushed_at": "2026-06-25T23:51:18Z",
+    "updated_at": "2026-06-25T23:35:19Z",
+    "size": 42898,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

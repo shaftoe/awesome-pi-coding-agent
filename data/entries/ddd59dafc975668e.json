@@ -1,0 +1,25 @@
+{
+  "id": "Traveler0014-pi-extension-template",
+  "name": "Traveler0014-pi-extension-template",
+  "url": "https://github.com/Traveler0014/pi-extension-template",
+  "source": "github-search",
+  "description": "extension template for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Traveler0014/pi-extension-template",
+    "repo_full_name": "Traveler0014/pi-extension-template",
+    "description": "extension template for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-25T14:52:12Z",
+    "pushed_at": "2026-06-25T18:44:05Z",
+    "updated_at": "2026-06-25T18:44:09Z",
+    "size": 56,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

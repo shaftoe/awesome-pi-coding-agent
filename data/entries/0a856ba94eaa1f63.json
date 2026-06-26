@@ -9,7 +9,7 @@
     "repo_full_name": "therynamo/pi-agent-time",
     "description": "Pi extension showing per-turn and cumulative LLM response times in the status bar",
     "stars": 2,
-    "forks": 1,
+    "forks": 0,
     "open_issues": 0,
     "topics": [
       "pi-package"

@@ -3,11 +3,11 @@
   "name": "HCAHOI-pi-ssh",
   "url": "https://github.com/HCAHOI/pi-ssh",
   "source": "github-search",
-  "description": "SSH remote execution for pi — edit locally, run remotely.",
+  "description": "SSH remote execution for pi \u2014 edit locally, run remotely.",
   "metadata": {
     "github_url": "https://github.com/HCAHOI/pi-ssh",
     "repo_full_name": "HCAHOI/pi-ssh",
-    "description": "SSH remote execution for pi — edit locally, run remotely. ",
+    "description": "SSH remote execution for pi \u2014 edit locally, run remotely. ",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,

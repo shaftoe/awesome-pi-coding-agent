@@ -3,11 +3,11 @@
   "name": "@pi-vault/pi-plan",
   "url": "https://www.npmjs.com/package/@pi-vault/pi-plan",
   "source": "npm-search",
-  "description": "Pi extension that enables plan mode",
+  "description": "Pi extension that adds a read-only plan mode for exploring first and producing a decision-complete implementation plan",
   "metadata": {
     "github_url": "https://github.com/pi-vault/pi-plan",
     "npm_name": "@pi-vault/pi-plan",
-    "description": "Pi extension that enables plan mode",
+    "description": "Pi extension that adds a read-only plan mode for exploring first and producing a decision-complete implementation plan",
     "keywords": [
       "pi",
       "pi-package",
@@ -15,8 +15,8 @@
       "pi-plan",
       "plan-mode"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-06-24T04:49:20.439Z",
+    "version": "0.2.0",
+    "published_at": "2026-06-25T02:20:52.530Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

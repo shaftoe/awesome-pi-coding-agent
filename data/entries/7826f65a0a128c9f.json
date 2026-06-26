@@ -10,7 +10,7 @@
     "description": "Pi coding agent extensions that helps you connect to all coding agents from one place using ACP and maximize your AI credits across Cursor, Codex, Claude Code, Rovo",
     "stars": 3,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 2,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

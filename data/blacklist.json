@@ -32357,5 +32357,97 @@
 		"reason": "Not about Pi coding agent — unrelated video about personal pi",
 		"blacklisted_at": "2026-06-25T00:13:20.124Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=7clJ8IH784Q",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-26T00:08:16.655Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=KLOgfmG9TFM",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-26T00:08:16.676Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://dietpi.com/docs/software/hardware_projects/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-26T00:08:16.747Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Vistyy/pi-subagent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-26T00:08:16.807Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/pinpawo/pinpawo-agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-26T00:08:16.862Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=E4l91XKQSgw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-26T00:08:16.909Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=caYF4Bn3enU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-26T00:08:16.972Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5duo9qHw660",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-26T00:08:17.08Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=jQX78HuZqxE",
+		"reason": "non-English (Italian) content",
+		"blacklisted_at": "2026-06-26T00:26:03.165Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/aprimediet/pi-memory",
+		"reason": "duplicate of npm package @aprimediet/memory",
+		"blacklisted_at": "2026-06-26T00:26:03.183Z",
+		"source": "manual"
 	}
 ]

@@ -1,0 +1,26 @@
+{
+  "id": "@mgiles/perk",
+  "name": "@mgiles/perk",
+  "url": "https://www.npmjs.com/package/@mgiles/perk",
+  "source": "npm-search",
+  "description": "perk Pi extension (session interior) for the plan-oriented workflow.",
+  "metadata": {
+    "github_url": "https://github.com/mattgiles/perk",
+    "npm_name": "@mgiles/perk",
+    "description": "perk Pi extension (session interior) for the plan-oriented workflow.",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-06-25T00:19:47.457Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

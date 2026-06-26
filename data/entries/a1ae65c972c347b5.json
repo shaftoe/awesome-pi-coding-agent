@@ -3,11 +3,11 @@
   "name": "@oresk/tidy-bash",
   "url": "https://www.npmjs.com/package/@oresk/tidy-bash",
   "source": "npm-search",
-  "description": "Tidy bash output for pi — splits multi-command chains (&&, ;, ||, |) into readable lines with clean status summaries",
+  "description": "Tidy bash output for pi \u2014 splits multi-command chains (&&, ;, ||, |) into readable lines with clean status summaries",
   "metadata": {
     "github_url": "https://github.com/oresk/tidy-bash",
     "npm_name": "@oresk/tidy-bash",
-    "description": "Tidy bash output for pi — splits multi-command chains (&&, ;, ||, |) into readable lines with clean status summaries",
+    "description": "Tidy bash output for pi \u2014 splits multi-command chains (&&, ;, ||, |) into readable lines with clean status summaries",
     "keywords": [
       "pi-package",
       "pi-extension",
