@@ -1,0 +1,30 @@
+{
+  "id": "pi-mdxml-context",
+  "name": "pi-mdxml-context",
+  "url": "https://www.npmjs.com/package/pi-mdxml-context",
+  "source": "npm-search",
+  "description": "Pi extension that converts Markdown context to XML-like structure at model send time",
+  "metadata": {
+    "github_url": "https://github.com/eiei114/pi-mdxml-context",
+    "npm_name": "pi-mdxml-context",
+    "description": "Pi extension that converts Markdown context to XML-like structure at model send time",
+    "keywords": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "markdown",
+      "xml",
+      "context"
+    ],
+    "version": "0.1.7",
+    "published_at": "2026-06-25T20:08:39.550Z",
+    "npm_downloads_monthly": 308,
+    "npm_downloads_weekly": 9,
+    "npm_score_final": 20.083466,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

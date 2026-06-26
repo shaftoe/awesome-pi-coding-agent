@@ -1,0 +1,25 @@
+{
+  "id": "ujang19-pi-corev",
+  "name": "ujang19-pi-corev",
+  "url": "https://github.com/ujang19/pi-corev",
+  "source": "github-search",
+  "description": "Pi Corev — 5-layer pre-push review gate pipeline for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/ujang19/pi-corev",
+    "repo_full_name": "ujang19/pi-corev",
+    "description": "Pi Corev — 5-layer pre-push review gate pipeline for Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-25T09:18:11Z",
+    "pushed_at": "2026-06-25T17:25:21Z",
+    "updated_at": "2026-06-25T17:25:25Z",
+    "size": 52,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

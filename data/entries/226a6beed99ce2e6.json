@@ -1,0 +1,25 @@
+{
+  "id": "rxw2023-Cloud-Pi-Agent",
+  "name": "rxw2023-Cloud-Pi-Agent",
+  "url": "https://github.com/rxw2023/Cloud-Pi-Agent",
+  "source": "github-search",
+  "description": "Cloud agent",
+  "metadata": {
+    "github_url": "https://github.com/rxw2023/Cloud-Pi-Agent",
+    "repo_full_name": "rxw2023/Cloud-Pi-Agent",
+    "description": "Cloud agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-24T10:22:26Z",
+    "pushed_at": "2026-06-25T12:38:16Z",
+    "updated_at": "2026-06-25T13:48:06Z",
+    "size": 6034,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

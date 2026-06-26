@@ -8,7 +8,7 @@
     "github_url": "https://github.com/EziosWJ/pi-provider-manager",
     "repo_full_name": "EziosWJ/pi-provider-manager",
     "description": "Interactive provider and model manager for pi coding agent",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-08T16:39:56Z",
     "pushed_at": "2026-06-09T15:32:18Z",
-    "updated_at": "2026-06-13T07:02:53Z",
+    "updated_at": "2026-06-25T11:28:52Z",
     "size": 186,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

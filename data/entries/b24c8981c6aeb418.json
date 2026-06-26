@@ -1,0 +1,25 @@
+{
+  "id": "IzumiSy-pi-packages",
+  "name": "IzumiSy-pi-packages",
+  "url": "https://github.com/IzumiSy/pi-packages",
+  "source": "github-search",
+  "description": "Custom Pi extensions for my development workflow.",
+  "metadata": {
+    "github_url": "https://github.com/IzumiSy/pi-packages",
+    "repo_full_name": "IzumiSy/pi-packages",
+    "description": "Custom Pi extensions for my development workflow.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-25T07:55:44Z",
+    "pushed_at": "2026-06-25T07:57:56Z",
+    "updated_at": "2026-06-25T07:58:15Z",
+    "size": 60,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

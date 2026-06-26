@@ -1,0 +1,31 @@
+{
+  "id": "pi-commit-lint",
+  "name": "pi-commit-lint",
+  "url": "https://www.npmjs.com/package/pi-commit-lint",
+  "source": "npm-search",
+  "description": "Validate commit messages against Conventional Commits format with configurable rules",
+  "metadata": {
+    "github_url": "https://github.com/ZachDreamZ/pi-commit-lint",
+    "npm_name": "pi-commit-lint",
+    "description": "Validate commit messages against Conventional Commits format with configurable rules",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "commit-lint",
+      "conventional-commits",
+      "validation",
+      "git"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-06-25T11:36:14.331Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

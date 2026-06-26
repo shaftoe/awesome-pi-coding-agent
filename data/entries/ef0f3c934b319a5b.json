@@ -1,0 +1,25 @@
+{
+  "id": "evandrodevbr-PiAgentUI",
+  "name": "evandrodevbr-PiAgentUI",
+  "url": "https://github.com/evandrodevbr/PiAgentUI",
+  "source": "github-search",
+  "description": "Professional AI Agent Desktop & Web UI — sessions, MCP tools, skills browser, voice input, terminal, file explorer, Tauri desktop app. Pi Agent · Claude Code · Codex · OpenCode · Cursor · Copilot",
+  "metadata": {
+    "github_url": "https://github.com/evandrodevbr/PiAgentUI",
+    "repo_full_name": "evandrodevbr/PiAgentUI",
+    "description": "Professional AI Agent Desktop & Web UI — sessions, MCP tools, skills browser, voice input, terminal, file explorer, Tauri desktop app. Pi Agent · Claude Code · Codex · OpenCode · Cursor · Copilot",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-01T03:50:21Z",
+    "pushed_at": "2026-06-01T03:50:35Z",
+    "updated_at": "2026-06-25T22:06:05Z",
+    "size": 12181,
+    "license": "GPL-3.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

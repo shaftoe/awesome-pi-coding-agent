@@ -1,0 +1,29 @@
+{
+  "id": "@cgh567/agent",
+  "name": "@cgh567/agent",
+  "url": "https://www.npmjs.com/package/@cgh567/agent",
+  "source": "npm-search",
+  "description": "Helios agent runtime — full stack: extensions, skills, daemon, brain-v2, HEMA, governance",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@cgh567/agent",
+    "description": "Helios agent runtime — full stack: extensions, skills, daemon, brain-v2, HEMA, governance",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "helios",
+      "ai-agent",
+      "graph-brain"
+    ],
+    "version": "2.4.1",
+    "published_at": "2026-06-25T22:01:47.446Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

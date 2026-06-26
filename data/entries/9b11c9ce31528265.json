@@ -10,7 +10,7 @@
     "description": "NordRelay is a secure remote control bridge for coding agents, connecting Codex, Pi, Hermes, OpenClaw and Claude Code to Telegram, Discord, Slack, WebUI with streaming replies, sessions, files, voice, queues, artifacts and access controls.",
     "stars": 9,
     "forks": 2,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "anthropic",
       "claude",

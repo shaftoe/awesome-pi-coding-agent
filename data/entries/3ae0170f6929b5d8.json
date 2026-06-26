@@ -1,0 +1,25 @@
+{
+  "id": "evanokeefe39-pi-designer",
+  "name": "evanokeefe39-pi-designer",
+  "url": "https://github.com/evanokeefe39/pi-designer",
+  "source": "github-search",
+  "description": "A pi coding-agent extension for building design systems: OKLCH color ramps, type/spacing scales, and token exporters for websites, reports, social carousels, and email.",
+  "metadata": {
+    "github_url": "https://github.com/evanokeefe39/pi-designer",
+    "repo_full_name": "evanokeefe39/pi-designer",
+    "description": "A pi coding-agent extension for building design systems: OKLCH color ramps, type/spacing scales, and token exporters for websites, reports, social carousels, and email.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-24T13:39:00Z",
+    "pushed_at": "2026-06-25T10:27:41Z",
+    "updated_at": "2026-06-25T15:02:20Z",
+    "size": 151,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

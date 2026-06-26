@@ -10,7 +10,7 @@
     "description": "Usage limit checker extension for pi coding agent — shows Codex and OpenCode Go limits at startup",
     "stars": 4,
     "forks": 5,
-    "open_issues": 4,
+    "open_issues": 3,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

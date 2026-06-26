@@ -1,0 +1,25 @@
+{
+  "id": "Traveler0014-pi-providers",
+  "name": "Traveler0014-pi-providers",
+  "url": "https://github.com/Traveler0014/pi-providers",
+  "source": "github-search",
+  "description": "extend model providers for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Traveler0014/pi-providers",
+    "repo_full_name": "Traveler0014/pi-providers",
+    "description": "extend model providers for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-25T14:47:45Z",
+    "pushed_at": "2026-06-25T14:50:39Z",
+    "updated_at": "2026-06-25T14:50:59Z",
+    "size": 28,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

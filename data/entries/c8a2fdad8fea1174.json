@@ -3,11 +3,11 @@
   "name": "pi-haiku",
   "url": "https://www.npmjs.com/package/pi-haiku",
   "source": "npm-search",
-  "description": "A warm, minimal theme plus a structured footer and keymap header replacement for Pi coding agent. Bundles the 'haiku' theme with a footer that surfaces location, model, context, tokens, cache, and cost — and a startup keymap that stays readable on any ter",
+  "description": "A warm, minimal theme plus a structured footer and keymap header replacement for Pi coding agent. Bundles the 'haiku' theme with a footer that surfaces location, model, context, tokens, cache, and cost \u2014 and a startup keymap that stays readable on any ter",
   "metadata": {
     "github_url": "https://github.com/nnocte/pi-haiku",
     "npm_name": "pi-haiku",
-    "description": "A warm, minimal theme plus a structured footer and keymap header replacement for Pi coding agent. Bundles the 'haiku' theme with a footer that surfaces location, model, context, tokens, cache, and cost — and a startup keymap that stays readable on any ter",
+    "description": "A warm, minimal theme plus a structured footer and keymap header replacement for Pi coding agent. Bundles the 'haiku' theme with a footer that surfaces location, model, context, tokens, cache, and cost \u2014 and a startup keymap that stays readable on any ter",
     "keywords": [
       "pi-package",
       "pi",

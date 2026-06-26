@@ -1,0 +1,25 @@
+{
+  "id": "@aprimediet/self-taught",
+  "name": "@aprimediet/self-taught",
+  "url": "https://www.npmjs.com/package/@aprimediet/self-taught",
+  "source": "npm-search",
+  "description": "Self-learning skill generator — reads your project, generates agentskills.io-compatible skills, and keeps them updated.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@aprimediet/self-taught",
+    "description": "Self-learning skill generator — reads your project, generates agentskills.io-compatible skills, and keeps them updated.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-06-25T15:16:18.479Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
