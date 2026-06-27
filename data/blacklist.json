@@ -32449,5 +32449,281 @@
 		"reason": "duplicate of npm package @aprimediet/memory",
 		"blacklisted_at": "2026-06-26T00:26:03.183Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/peyloride/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-27T00:04:49.796Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=PkKXm_mKCCM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-27T00:04:49.915Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ObHU5fKBBXc",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-27T00:04:49.932Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=I82j7AzMU80",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-27T00:04:49.948Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/es11225599/pi-9router",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-27T00:04:50.032Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=fjOx4IYBHBo",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-06-27T00:04:50.04Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=W6x-hb44C0c",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-27T00:04:50.052Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=KoNPJDGmdp8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-27T00:04:50.063Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=7bi6Ll0q07U",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-27T00:04:50.087Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=PyBnErHNExo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-27T00:04:50.092Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/osvald-go2/pi-mini",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-27T00:04:50.103Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/anjanaed/Realtime-Voice-Agent-Pipeline",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-27T00:04:50.116Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/joelhooks/pi-bellwether",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-27T00:04:50.123Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Zy23kl9n1sM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-27T00:04:50.149Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=T3qGwJARb1s",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-06-27T00:04:50.165Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/bmbester666/pi-lark-bridge",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-27T00:04:50.231Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=yvwPppP40Co",
+		"reason": "pop culture pi signal: \"magnum pi\"",
+		"blacklisted_at": "2026-06-27T00:04:50.359Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=XY11ZETkiR4",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-27T00:04:50.381Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/hamilton-seguin/amazon-pinterest-agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-27T00:04:50.39Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Yp_u1NpbkJg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-27T00:04:50.415Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pinet/model-aware-compaction",
+		"reason": "pi network crypto signal: \"pinet\"",
+		"blacklisted_at": "2026-06-27T00:04:50.445Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=i8z6fEgaYgM",
+		"reason": "pop culture pi signal: \"magnum pi\"",
+		"blacklisted_at": "2026-06-27T00:04:50.475Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=bYPVSJRlzkw",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-27T00:04:50.482Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=c4SGouqnCHM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-27T00:04:50.563Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ArGhkv45tjQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-27T00:04:50.609Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=1HpXJ8mQYvE",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-27T00:04:50.623Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=2xuFcmUAQUc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-27T00:04:50.668Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=mFqEAwyWabY",
+		"reason": "Not about pi.dev coding agent — this is about Pluto7's supply-chain 'Pi Agent' product built on Google Cloud Gemini (inventory cost reduction), unrelated to the Pi coding agent at pi.dev",
+		"blacklisted_at": "2026-06-27T00:06:44.961Z",
+		"source": "manual"
 	}
 ]

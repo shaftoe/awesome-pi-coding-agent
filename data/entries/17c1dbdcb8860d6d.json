@@ -1,0 +1,25 @@
+{
+  "id": "daz9e-pi-git-sync",
+  "name": "daz9e-pi-git-sync",
+  "url": "https://github.com/daz9e/pi-git-sync",
+  "source": "github-search",
+  "description": "Git config synchronisation extension for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/daz9e/pi-git-sync",
+    "repo_full_name": "daz9e/pi-git-sync",
+    "description": "Git config synchronisation extension for Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-25T15:24:07Z",
+    "pushed_at": "2026-06-26T15:10:37Z",
+    "updated_at": "2026-06-26T15:11:33Z",
+    "size": 8,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

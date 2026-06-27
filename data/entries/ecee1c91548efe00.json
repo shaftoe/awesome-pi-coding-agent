@@ -1,0 +1,25 @@
+{
+  "id": "aprimediet-pi-webtools",
+  "name": "aprimediet-pi-webtools",
+  "url": "https://github.com/aprimediet/pi-webtools",
+  "source": "github-search",
+  "description": "Webtools extensions for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/aprimediet/pi-webtools",
+    "repo_full_name": "aprimediet/pi-webtools",
+    "description": "Webtools extensions for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-25T07:57:59Z",
+    "pushed_at": "2026-06-25T12:44:07Z",
+    "updated_at": "2026-06-25T12:44:11Z",
+    "size": 33821,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "mbtiongson1-pi-config",
+  "name": "mbtiongson1-pi-config",
+  "url": "https://github.com/mbtiongson1/pi-config",
+  "source": "github-search",
+  "description": "This is my pi config for my own set up. Minimal, only extensions I use on the fly. Works with antigravity models and enterprise API proxies. Copy it if you want!",
+  "metadata": {
+    "github_url": "https://github.com/mbtiongson1/pi-config",
+    "repo_full_name": "mbtiongson1/pi-config",
+    "description": "This is my pi config for my own set up. Minimal, only extensions I use on the fly. Works with antigravity models and enterprise API proxies. Copy it if you want!",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-26T18:24:33Z",
+    "pushed_at": "2026-06-26T18:50:36Z",
+    "updated_at": "2026-06-26T18:50:40Z",
+    "size": 3231,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

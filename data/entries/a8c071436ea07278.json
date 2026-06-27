@@ -1,0 +1,33 @@
+{
+  "id": "@rolemodel/pi-manage-permissions",
+  "name": "@rolemodel/pi-manage-permissions",
+  "url": "https://www.npmjs.com/package/@rolemodel/pi-manage-permissions",
+  "source": "npm-search",
+  "description": "Provides a command to manage permissions for @gotgenes/pi-permission-system",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@rolemodel/pi-manage-permissions",
+    "description": "Provides a command to manage permissions for @gotgenes/pi-permission-system",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "PI Agent",
+      "PI Coding Agent",
+      "PI Extension",
+      "permissions",
+      "permission system",
+      "manage permissions"
+    ],
+    "version": "0.0.1",
+    "published_at": "2026-06-26T07:59:27.800Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

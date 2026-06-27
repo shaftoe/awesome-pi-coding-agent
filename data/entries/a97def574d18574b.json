@@ -1,0 +1,30 @@
+{
+  "id": "pi-webveil",
+  "name": "pi-webveil",
+  "url": "https://www.npmjs.com/package/pi-webveil",
+  "source": "npm-search",
+  "description": "Pi extension: web_search and web_fetch tools backed by webveil. A drop-in, anonymity-capable replacement for Ollama's web_search/web_fetch.",
+  "metadata": {
+    "github_url": "https://github.com/wighawag/webveil",
+    "npm_name": "pi-webveil",
+    "description": "Pi extension: web_search and web_fetch tools backed by webveil. A drop-in, anonymity-capable replacement for Ollama's web_search/web_fetch.",
+    "keywords": [
+      "pi-extension",
+      "pi-package",
+      "web-search",
+      "web-fetch",
+      "ollama",
+      "anonymous"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-26T21:10:29.483Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
