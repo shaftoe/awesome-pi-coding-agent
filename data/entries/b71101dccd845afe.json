@@ -1,0 +1,32 @@
+{
+  "id": "pi-repro",
+  "name": "pi-repro",
+  "url": "https://www.npmjs.com/package/pi-repro",
+  "source": "npm-search",
+  "description": "Reproduce the quantitative results of an academic paper — ingest, gap-analyze the code, plan, reproduce each claim, and report what does and doesn't replicate. A pi extension.",
+  "metadata": {
+    "github_url": "https://github.com/EricJahns/pi-repro",
+    "npm_name": "pi-repro",
+    "description": "Reproduce the quantitative results of an academic paper — ingest, gap-analyze the code, plan, reproduce each claim, and report what does and doesn't replicate. A pi extension.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "reproduce",
+      "reproducibility",
+      "research",
+      "paper",
+      "coding-agent"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-06-26T22:46:30.372Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

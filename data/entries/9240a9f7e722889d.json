@@ -8,7 +8,7 @@
     "github_url": "https://github.com/crustyhacker/pi-zerg-swarm",
     "repo_full_name": "crustyhacker/pi-zerg-swarm",
     "description": "Pi coding-agent extension for high-capacity agentic coding teams/subagents.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-04T23:09:16Z",
     "pushed_at": "2026-05-26T02:25:44Z",
-    "updated_at": "2026-05-25T17:52:38Z",
+    "updated_at": "2026-06-26T15:50:52Z",
     "size": 784,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

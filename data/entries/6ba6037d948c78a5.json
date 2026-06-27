@@ -8,7 +8,7 @@
     "github_url": "https://github.com/code-yeongyu/pi-webfetch",
     "repo_full_name": "code-yeongyu/pi-webfetch",
     "description": "Web fetch tool extension for the pi coding agent",
-    "stars": 4,
+    "stars": 5,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-01T07:14:52Z",
-    "pushed_at": "2026-06-25T02:58:58Z",
-    "updated_at": "2026-06-25T02:59:01Z",
-    "size": 156,
+    "pushed_at": "2026-06-26T03:02:19Z",
+    "updated_at": "2026-06-26T18:54:35Z",
+    "size": 163,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

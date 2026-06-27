@@ -1,0 +1,28 @@
+{
+  "id": "@es11225599/pi-9router",
+  "name": "@es11225599/pi-9router",
+  "url": "https://www.npmjs.com/package/@es11225599/pi-9router",
+  "source": "npm-search",
+  "description": "Pi package that connects to 9router and enriches its models with metadata from models.dev",
+  "metadata": {
+    "github_url": "https://github.com/es11225599/pi-9router",
+    "npm_name": "@es11225599/pi-9router",
+    "description": "Pi package that connects to 9router and enriches its models with metadata from models.dev",
+    "keywords": [
+      "pi-package",
+      "9router",
+      "ai-router",
+      "model-router"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-26T18:58:37.146Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

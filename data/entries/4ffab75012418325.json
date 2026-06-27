@@ -1,0 +1,31 @@
+{
+  "id": "@czottmann/pi-umans",
+  "name": "@czottmann/pi-umans",
+  "url": "https://www.npmjs.com/package/@czottmann/pi-umans",
+  "source": "npm-search",
+  "description": "Umans provider extension for pi coding agent. (No extra tools, no vision proxy, just the provider.)",
+  "metadata": {
+    "github_url": "https://github.com/czottmann/pi-umans",
+    "npm_name": "@czottmann/pi-umans",
+    "description": "Umans provider extension for pi coding agent. (No extra tools, no vision proxy, just the provider.)",
+    "keywords": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "umans",
+      "llm",
+      "subscription",
+      "coding-agent"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-06-26T18:29:23.803Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
