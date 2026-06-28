@@ -1,0 +1,29 @@
+{
+  "id": "@nerisma/pi-theme-nerisma",
+  "name": "@nerisma/pi-theme-nerisma",
+  "url": "https://www.npmjs.com/package/@nerisma/pi-theme-nerisma",
+  "source": "npm-search",
+  "description": "Nerisma — a deep purple dark theme for pi",
+  "metadata": {
+    "github_url": "https://github.com/nerisma/pi-theme-nerisma",
+    "npm_name": "@nerisma/pi-theme-nerisma",
+    "description": "Nerisma — a deep purple dark theme for pi",
+    "keywords": [
+      "pi-package",
+      "pi-themes",
+      "pi-coding-agent",
+      "themes",
+      "terminal"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-06-27T11:14:22.081Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "theme"
+}

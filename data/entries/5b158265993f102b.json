@@ -1,0 +1,31 @@
+{
+  "id": "pi-subagents-j0k3r",
+  "name": "pi-subagents-j0k3r",
+  "url": "https://www.npmjs.com/package/pi-subagents-j0k3r",
+  "source": "npm-search",
+  "description": "Installable Pi package that adds markdown-defined subagents, delegated task tools, history, and model profiles.",
+  "metadata": {
+    "github_url": "https://github.com/j0k3r-dev-rgl/pi-subagents-j0k3r",
+    "npm_name": "pi-subagents-j0k3r",
+    "description": "Installable Pi package that adds markdown-defined subagents, delegated task tools, history, and model profiles.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "subagents",
+      "coding-agent",
+      "agent",
+      "delegation"
+    ],
+    "version": "1.1.1",
+    "published_at": "2026-06-27T22:21:40.966Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

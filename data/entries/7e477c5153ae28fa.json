@@ -1,0 +1,31 @@
+{
+  "id": "hobostay-pi-claude-min",
+  "name": "hobostay-pi-claude-min",
+  "url": "https://github.com/hobostay/pi-claude-min",
+  "source": "github-search",
+  "description": "A lightweight Claude Code style coding agent built on the Pi framework with CLI, HTTP API, SSE, and TypeScript SDK.",
+  "metadata": {
+    "github_url": "https://github.com/hobostay/pi-claude-min",
+    "repo_full_name": "hobostay/pi-claude-min",
+    "description": "A lightweight Claude Code style coding agent built on the Pi framework with CLI, HTTP API, SSE, and TypeScript SDK.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "cli",
+      "coding-agent",
+      "pi",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-19T09:09:27Z",
+    "pushed_at": "2026-06-27T07:30:45Z",
+    "updated_at": "2026-06-27T07:30:49Z",
+    "size": 71,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

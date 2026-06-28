@@ -1,0 +1,35 @@
+{
+  "id": "@realvendex/pi-cache",
+  "name": "@realvendex/pi-cache",
+  "url": "https://www.npmjs.com/package/@realvendex/pi-cache",
+  "source": "npm-search",
+  "description": "Pi-native runtime cache and memoization toolkit for pi.dev extension tools: deterministic cache keys, TTL/SWR policies, tag/namespace invalidation, optional local persistence.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@realvendex/pi-cache",
+    "description": "Pi-native runtime cache and memoization toolkit for pi.dev extension tools: deterministic cache keys, TTL/SWR policies, tag/namespace invalidation, optional local persistence.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "cache",
+      "memoization",
+      "ttl",
+      "lru",
+      "runtime",
+      "extension",
+      "pi-cache",
+      "stale-while-revalidate",
+      "invalidation"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-06-27T20:32:02.614Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
