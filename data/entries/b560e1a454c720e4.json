@@ -8,7 +8,7 @@
     "github_url": "https://github.com/lemonade-sdk/lemonade-pi-plugin",
     "repo_full_name": "lemonade-sdk/lemonade-pi-plugin",
     "description": "Lemonade Pi Agent CLI Plugin",
-    "stars": 13,
+    "stars": 14,
     "forks": 3,
     "open_issues": 2,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-10T20:15:45Z",
     "pushed_at": "2026-06-09T21:48:43Z",
-    "updated_at": "2026-06-19T12:14:23Z",
+    "updated_at": "2026-06-27T21:19:16Z",
     "size": 25,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

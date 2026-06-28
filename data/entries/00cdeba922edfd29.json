@@ -1,0 +1,25 @@
+{
+  "id": "vnedyalk0v-pi-subagent-kernel",
+  "name": "vnedyalk0v-pi-subagent-kernel",
+  "url": "https://github.com/vnedyalk0v/pi-subagent-kernel",
+  "source": "github-search",
+  "description": "A Pi Coding Agent extension for safe, observable subagents with isolated contexts, structured handoffs, model routing, subprocess/worktree execution, and Codex/Claude-compatible agent definitions.",
+  "metadata": {
+    "github_url": "https://github.com/vnedyalk0v/pi-subagent-kernel",
+    "repo_full_name": "vnedyalk0v/pi-subagent-kernel",
+    "description": "A Pi Coding Agent extension for safe, observable subagents with isolated contexts, structured handoffs, model routing, subprocess/worktree execution, and Codex/Claude-compatible agent definitions.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 28,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-26T11:34:29Z",
+    "pushed_at": "2026-06-27T13:02:26Z",
+    "updated_at": "2026-06-27T13:02:27Z",
+    "size": 196,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

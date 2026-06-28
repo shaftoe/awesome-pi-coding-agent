@@ -1,0 +1,25 @@
+{
+  "id": "@primp9053/pi-subagent",
+  "name": "@primp9053/pi-subagent",
+  "url": "https://www.npmjs.com/package/@primp9053/pi-subagent",
+  "source": "npm-search",
+  "description": "Concurrent sub-agents for pi. /sub opens a fork-point selector so you can pick any user message as the sub's inherited context (Enter = latest); /subn spawns from latest without the selector; status line shows main/sub1/sub2; alt+s cycles su",
+  "metadata": {
+    "github_url": "https://github.com/primp9053/pi-subagent",
+    "npm_name": "@primp9053/pi-subagent",
+    "description": "Concurrent sub-agents for pi. /sub <task> opens a fork-point selector so you can pick any user message as the sub's inherited context (Enter = latest); /subn <task> spawns from latest without the selector; status line shows main/sub1/sub2; alt+s cycles su",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.8",
+    "published_at": "2026-06-27T18:08:36.219Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

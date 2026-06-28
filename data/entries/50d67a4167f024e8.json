@@ -1,0 +1,33 @@
+{
+  "id": "1am2syman-pi-continue-better",
+  "name": "1am2syman-pi-continue-better",
+  "url": "https://github.com/1am2syman/pi-continue-better",
+  "source": "github-search",
+  "description": "Same-session, high-fidelity compaction for pi-coding-agent. /handoff fidelity without leaving your session. Fuses pi-continue + grounded-compaction.",
+  "metadata": {
+    "github_url": "https://github.com/1am2syman/pi-continue-better",
+    "repo_full_name": "1am2syman/pi-continue-better",
+    "description": "Same-session, high-fidelity compaction for pi-coding-agent. /handoff fidelity without leaving your session. Fuses pi-continue + grounded-compaction.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "compaction",
+      "context-management",
+      "extension",
+      "handoff",
+      "pi",
+      "pi-coding-agent",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-27T14:27:51Z",
+    "pushed_at": "2026-06-27T15:34:11Z",
+    "updated_at": "2026-06-27T15:34:15Z",
+    "size": 18,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

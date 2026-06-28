@@ -1,0 +1,33 @@
+{
+  "id": "Observal-pi-insights",
+  "name": "Observal-pi-insights",
+  "url": "https://github.com/Observal/pi-insights",
+  "source": "github-search",
+  "description": "Personal usage analytics for Pi coding agent. Temporal-aware insights, context-aware suggestions, model efficiency analysis.",
+  "metadata": {
+    "github_url": "https://github.com/Observal/pi-insights",
+    "repo_full_name": "Observal/pi-insights",
+    "description": "Personal usage analytics for Pi coding agent. Temporal-aware insights, context-aware suggestions, model efficiency analysis.",
+    "stars": 56,
+    "forks": 4,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "analytics",
+      "insights",
+      "observability",
+      "pi-coding-agent",
+      "pi-extension",
+      "usage-analytics"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-25T17:25:12Z",
+    "pushed_at": "2026-05-27T14:19:23Z",
+    "updated_at": "2026-06-18T12:51:18Z",
+    "size": 380,
+    "license": "AGPL-3.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}
