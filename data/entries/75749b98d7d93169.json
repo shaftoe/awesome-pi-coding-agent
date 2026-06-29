@@ -8,7 +8,7 @@
     "github_url": "https://github.com/gvkhosla/pi-fusion",
     "repo_full_name": "gvkhosla/pi-fusion",
     "description": "Use OpenRouter Fusion from Pi as a first-class model provider",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-06-15T15:22:46Z",
     "pushed_at": "2026-06-15T15:34:55Z",
-    "updated_at": "2026-06-15T15:36:07Z",
+    "updated_at": "2026-06-28T17:40:53Z",
     "size": 45,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

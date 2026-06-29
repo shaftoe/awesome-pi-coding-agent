@@ -33701,5 +33701,191 @@
 		"reason": "Duplicate of GitHub repo PaulKinlan/pi-chaos-relay (1 star vs 0 npm downloads)",
 		"blacklisted_at": "2026-06-28T00:06:54.762Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/hazrid93/pi-advisor",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-06-29T00:06:53.091Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@baguette-studios/journeytest-core",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-29T00:06:53.112Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/six-ddc/codex-dynamic-workflows",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-29T00:06:53.122Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/xintaofei/codeg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-29T00:06:53.153Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=tmyH9aeecgE",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-29T00:06:53.203Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=69NDUdhwXH4",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-29T00:06:53.328Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=2MI9JotXF4k",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-29T00:06:53.386Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Y4zwmp22vw8",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-29T00:06:53.41Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=6AwWY_b2nlY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-29T00:06:53.463Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=oh50KFF8A_0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-29T00:06:53.613Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/ApolloZhangOnGithub/pi-coding-master-release",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-29T00:06:53.649Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/try-works/role-model",
+		"reason": "covered by dedicated source: github.com",
+		"blacklisted_at": "2026-06-29T00:06:53.764Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=PL_lV8xBGTg",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-06-29T00:06:53.807Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=FUFWGhuHwh8",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-06-29T00:06:53.814Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=sz-kzaNbBGo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-29T00:06:53.831Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=tfn7Hic0ZeI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-29T00:06:53.887Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://raw.githubusercontent.com/atakanaltok/awesome-useful-websites/refs/heads/main/README.md",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-29T00:06:53.922Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=V-NG92tXIqQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-06-29T00:06:53.926Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=q_WNUUY06SY",
+		"reason": "Not about the Pi coding agent (pi.dev) — this is about 'Pi Agent by Plexara Hub', a social media content planning tool",
+		"blacklisted_at": "2026-06-29T00:08:56.916Z",
+		"source": "manual"
 	}
 ]

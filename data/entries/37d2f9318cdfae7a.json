@@ -1,0 +1,29 @@
+{
+  "id": "leonidgrishenkov-pi-extensions",
+  "name": "leonidgrishenkov-pi-extensions",
+  "url": "https://github.com/leonidgrishenkov/pi-extensions",
+  "source": "github-search",
+  "description": "My extensions for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/leonidgrishenkov/pi-extensions",
+    "repo_full_name": "leonidgrishenkov/pi-extensions",
+    "description": "My extensions for Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-28T19:47:09Z",
+    "pushed_at": "2026-06-28T21:03:41Z",
+    "updated_at": "2026-06-28T21:03:45Z",
+    "size": 96,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -9,13 +9,17 @@
     "npm_name": "pi-omlx-picker",
     "description": "Pi extension that discovers models from a local OMLX server and registers them as a native Pi provider.",
     "keywords": [
-      "pi-package"
+      "pi-package",
+      "omlx",
+      "pi",
+      "picker",
+      "model"
     ],
-    "version": "0.2.5",
-    "published_at": "2026-05-31T20:49:57.885Z",
-    "npm_downloads_monthly": 405,
-    "npm_downloads_weekly": 48,
-    "npm_score_final": 20.81344,
+    "version": "0.3.1",
+    "published_at": "2026-06-28T23:04:29.753Z",
+    "npm_downloads_monthly": 484,
+    "npm_downloads_weekly": 137,
+    "npm_score_final": 21.229607,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
