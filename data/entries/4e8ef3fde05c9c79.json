@@ -1,0 +1,25 @@
+{
+  "id": "ming-kang-pi-config",
+  "name": "ming-kang-pi-config",
+  "url": "https://github.com/ming-kang/pi-config",
+  "source": "github-search",
+  "description": "Commonly used Pi extensions (advisor, rewind, todo, statusline, etc.) and themes, as a standalone Pi package.",
+  "metadata": {
+    "github_url": "https://github.com/ming-kang/pi-config",
+    "repo_full_name": "ming-kang/pi-config",
+    "description": "Commonly used Pi extensions (advisor, rewind, todo, statusline, etc.) and themes, as a standalone Pi package.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-28T01:16:11Z",
+    "pushed_at": "2026-06-28T08:50:02Z",
+    "updated_at": "2026-06-28T08:50:06Z",
+    "size": 95,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

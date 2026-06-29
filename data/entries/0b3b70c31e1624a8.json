@@ -1,0 +1,30 @@
+{
+  "id": "@jetmiky/pigram",
+  "name": "@jetmiky/pigram",
+  "url": "https://www.npmjs.com/package/@jetmiky/pigram",
+  "source": "npm-search",
+  "description": "Clean, session-local Telegram bridge for the pi coding agent — chat with pi from your phone with rich text, streaming previews, file attachments, and native inline-keyboard dialogs.",
+  "metadata": {
+    "github_url": "https://github.com/jetmiky/pigram",
+    "npm_name": "@jetmiky/pigram",
+    "description": "Clean, session-local Telegram bridge for the pi coding agent — chat with pi from your phone with rich text, streaming previews, file attachments, and native inline-keyboard dialogs.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "telegram",
+      "bot",
+      "extension",
+      "coding-agent"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-06-28T03:58:03.678Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

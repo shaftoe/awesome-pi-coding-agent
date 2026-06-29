@@ -1,0 +1,25 @@
+{
+  "id": "Tensorboyalive-pi-concentrate",
+  "name": "Tensorboyalive-pi-concentrate",
+  "url": "https://github.com/Tensorboyalive/pi-concentrate",
+  "source": "github-search",
+  "description": "Concentrate AI provider package for pi",
+  "metadata": {
+    "github_url": "https://github.com/Tensorboyalive/pi-concentrate",
+    "repo_full_name": "Tensorboyalive/pi-concentrate",
+    "description": "Concentrate AI provider package for pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-28T20:53:11Z",
+    "pushed_at": "2026-06-28T21:33:42Z",
+    "updated_at": "2026-06-28T21:33:46Z",
+    "size": 13,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

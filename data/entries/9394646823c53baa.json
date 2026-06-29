@@ -1,0 +1,25 @@
+{
+  "id": "fl4p-pi-extensions",
+  "name": "fl4p-pi-extensions",
+  "url": "https://github.com/fl4p/pi-extensions",
+  "source": "github-search",
+  "description": "Personal pi coding-agent extensions",
+  "metadata": {
+    "github_url": "https://github.com/fl4p/pi-extensions",
+    "repo_full_name": "fl4p/pi-extensions",
+    "description": "Personal pi coding-agent extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-28T17:58:37Z",
+    "pushed_at": "2026-06-28T17:58:40Z",
+    "updated_at": "2026-06-28T17:58:44Z",
+    "size": 3,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

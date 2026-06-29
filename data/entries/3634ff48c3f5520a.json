@@ -8,7 +8,7 @@
     "github_url": "https://github.com/renezander030/pi-code-context",
     "repo_full_name": "renezander030/pi-code-context",
     "description": "Automatic semantic code indexing for pi — Qdrant + Ollama, shared with the code-context MCP search_code tool",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-06-27T07:55:27Z",
     "pushed_at": "2026-06-27T08:11:02Z",
-    "updated_at": "2026-06-27T08:11:06Z",
+    "updated_at": "2026-06-28T19:45:31Z",
     "size": 17,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

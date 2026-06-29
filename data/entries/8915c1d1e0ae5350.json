@@ -1,0 +1,31 @@
+{
+  "id": "@czottmann/pi-tensorx",
+  "name": "@czottmann/pi-tensorx",
+  "url": "https://www.npmjs.com/package/@czottmann/pi-tensorx",
+  "source": "npm-search",
+  "description": "TensorX.ai API provider extension for pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/czottmann/pi-tensorx",
+    "npm_name": "@czottmann/pi-tensorx",
+    "description": "TensorX.ai API provider extension for pi coding agent.",
+    "keywords": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "tensorx",
+      "llm",
+      "router",
+      "coding-agent"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-06-28T14:48:12.199Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

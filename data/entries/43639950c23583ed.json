@@ -1,0 +1,32 @@
+{
+  "id": "@vclawhub/vclaw",
+  "name": "@vclawhub/vclaw",
+  "url": "https://www.npmjs.com/package/@vclawhub/vclaw",
+  "source": "npm-search",
+  "description": "VClaw Agent — one-command setup for pi.dev + pi-web.dev + NATS leaf node + vchat.email network",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@vclawhub/vclaw",
+    "description": "VClaw Agent — one-command setup for pi.dev + pi-web.dev + NATS leaf node + vchat.email network",
+    "keywords": [
+      "pi-agent",
+      "pi-web",
+      "coding-agent",
+      "ai-agent",
+      "vclaw",
+      "vchat",
+      "nats",
+      "bun"
+    ],
+    "version": "0.2.10",
+    "published_at": "2026-06-28T22:08:24.331Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "misc"
+}

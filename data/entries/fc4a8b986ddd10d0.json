@@ -1,0 +1,30 @@
+{
+  "id": "pi-stats-ext",
+  "name": "pi-stats-ext",
+  "url": "https://www.npmjs.com/package/pi-stats-ext",
+  "source": "npm-search",
+  "description": "Dense local-first Pi coding-agent usage dashboard for tokens, costs, models, projects, and sessions.",
+  "metadata": {
+    "github_url": "https://github.com/irfansofyana/pi-stats-ext",
+    "npm_name": "pi-stats-ext",
+    "description": "Dense local-first Pi coding-agent usage dashboard for tokens, costs, models, projects, and sessions.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "stats",
+      "usage",
+      "tokens"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-28T09:41:50.859Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
