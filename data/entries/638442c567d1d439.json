@@ -1,0 +1,31 @@
+{
+  "id": "@ttiimmaahh/pi-xcode",
+  "name": "@ttiimmaahh/pi-xcode",
+  "url": "https://www.npmjs.com/package/@ttiimmaahh/pi-xcode",
+  "source": "npm-search",
+  "description": "Use the Pi coding agent as an Xcode Intelligence ACP agent.",
+  "metadata": {
+    "github_url": "https://github.com/ttiimmaahh/pi-xcode",
+    "npm_name": "@ttiimmaahh/pi-xcode",
+    "description": "Use the Pi coding agent as an Xcode Intelligence ACP agent.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "xcode",
+      "acp",
+      "agent-client-protocol",
+      "coding-agent"
+    ],
+    "version": "0.2.3",
+    "published_at": "2026-06-29T19:46:08.711Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

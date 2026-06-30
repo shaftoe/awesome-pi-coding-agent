@@ -1,0 +1,38 @@
+{
+  "id": "pi-process-monitor",
+  "name": "pi-process-monitor",
+  "url": "https://www.npmjs.com/package/pi-process-monitor",
+  "source": "npm-search",
+  "description": "Non-blocking background watcher for pi — start a process, SSH poll, or log tail and get pinged in-session on milestones, failure, or exit. Claude Code's Monitor tool, with conditional delivery.",
+  "metadata": {
+    "github_url": "https://github.com/Fornace/pi-process-monitor",
+    "npm_name": "pi-process-monitor",
+    "description": "Non-blocking background watcher for pi — start a process, SSH poll, or log tail and get pinged in-session on milestones, failure, or exit. Claude Code's Monitor tool, with conditional delivery.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "monitor",
+      "watcher",
+      "background",
+      "long-running",
+      "training",
+      "ssh",
+      "log-tail",
+      "notifications",
+      "claude-code",
+      "ai",
+      "agent"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-06-29T13:34:49.492Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

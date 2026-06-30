@@ -1,0 +1,25 @@
+{
+  "id": "suderman-pi",
+  "name": "suderman-pi",
+  "url": "https://github.com/suderman/pi",
+  "source": "github-search",
+  "description": "Jon's personal pi coding agent configuration",
+  "metadata": {
+    "github_url": "https://github.com/suderman/pi",
+    "repo_full_name": "suderman/pi",
+    "description": "Jon's personal pi coding agent configuration",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-29T16:24:06Z",
+    "pushed_at": "2026-06-29T23:15:38Z",
+    "updated_at": "2026-06-29T23:15:42Z",
+    "size": 10,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

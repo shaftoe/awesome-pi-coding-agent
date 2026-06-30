@@ -1,0 +1,25 @@
+{
+  "id": "asiachrispy-pi-app",
+  "name": "asiachrispy-pi-app",
+  "url": "https://github.com/asiachrispy/pi-app",
+  "source": "github-search",
+  "description": "Web UI for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/asiachrispy/pi-app",
+    "repo_full_name": "asiachrispy/pi-app",
+    "description": "Web UI for the pi coding agent",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-03T00:20:52Z",
+    "pushed_at": "2026-06-29T20:20:08Z",
+    "updated_at": "2026-06-29T20:20:10Z",
+    "size": 18089,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

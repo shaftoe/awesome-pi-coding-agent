@@ -1,0 +1,39 @@
+{
+  "id": "pi-clinepass-provider",
+  "name": "pi-clinepass-provider",
+  "url": "https://www.npmjs.com/package/pi-clinepass-provider",
+  "source": "npm-search",
+  "description": "ClinePass provider for pi — access GLM-5.2, Kimi K2.7, DeepSeek V4 and more open-weight coding models through Cline's $9.99/mo subscription",
+  "metadata": {
+    "github_url": "https://github.com/jellydn/pi-clinepass-provider",
+    "npm_name": "pi-clinepass-provider",
+    "description": "ClinePass provider for pi — access GLM-5.2, Kimi K2.7, DeepSeek V4 and more open-weight coding models through Cline's $9.99/mo subscription",
+    "keywords": [
+      "ai",
+      "cline",
+      "cline-pass",
+      "clinepass",
+      "deepseek",
+      "glm",
+      "kimi",
+      "llm",
+      "mimo",
+      "minimax",
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "provider",
+      "qwen"
+    ],
+    "version": "1.0.3",
+    "published_at": "2026-06-29T23:16:50.511Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

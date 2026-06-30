@@ -1,0 +1,25 @@
+{
+  "id": "mnavarrocarter-pi-agent-stuff",
+  "name": "mnavarrocarter-pi-agent-stuff",
+  "url": "https://github.com/mnavarrocarter/pi-agent-stuff",
+  "source": "github-search",
+  "description": "My custom extensions, skills and agents for Pi",
+  "metadata": {
+    "github_url": "https://github.com/mnavarrocarter/pi-agent-stuff",
+    "repo_full_name": "mnavarrocarter/pi-agent-stuff",
+    "description": "My custom extensions, skills and agents for Pi",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-26T23:23:02Z",
+    "pushed_at": "2026-06-27T08:47:10Z",
+    "updated_at": "2026-06-29T10:54:02Z",
+    "size": 66,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "oscarlehuu-nuncio",
+  "name": "oscarlehuu-nuncio",
+  "url": "https://github.com/oscarlehuu/nuncio",
+  "source": "github-search",
+  "description": "Self-hosted, mobile-first web app for delegating tasks to AI coding agents (Pi, Cursor) — like Devin but provider-neutral.",
+  "metadata": {
+    "github_url": "https://github.com/oscarlehuu/nuncio",
+    "repo_full_name": "oscarlehuu/nuncio",
+    "description": "Self-hosted, mobile-first web app for delegating tasks to AI coding agents (Pi, Cursor) — like Devin but provider-neutral.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "ai-agents",
+      "ai-coding-agent",
+      "bun",
+      "coding-agent",
+      "mobile-first",
+      "nestjs",
+      "pwa",
+      "react",
+      "self-hosted",
+      "shadcn-ui",
+      "sqlite",
+      "sse",
+      "tailscale",
+      "tailwindcss",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-26T11:31:12Z",
+    "pushed_at": "2026-06-29T14:37:14Z",
+    "updated_at": "2026-06-29T14:32:20Z",
+    "size": 5921,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}
