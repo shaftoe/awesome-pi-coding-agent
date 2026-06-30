@@ -1,0 +1,29 @@
+{
+  "id": "pi-sidequest",
+  "name": "pi-sidequest",
+  "url": "https://www.npmjs.com/package/pi-sidequest",
+  "source": "npm-search",
+  "description": "A side channel for context-aware questions in Pi.",
+  "metadata": {
+    "github_url": "https://github.com/peterp/pi-sidequest",
+    "npm_name": "pi-sidequest",
+    "description": "A side channel for context-aware questions in Pi.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "sidequest",
+      "terminal",
+      "ai"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-06-29T08:15:35.210Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

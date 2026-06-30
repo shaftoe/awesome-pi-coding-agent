@@ -1,0 +1,28 @@
+{
+  "id": "pi-jump-tree",
+  "name": "pi-jump-tree",
+  "url": "https://www.npmjs.com/package/pi-jump-tree",
+  "source": "npm-search",
+  "description": "Pi extension for showing the current session tree leaf ID and jumping to entries by ID or label.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-jump-tree",
+    "description": "Pi extension for showing the current session tree leaf ID and jumping to entries by ID or label.",
+    "keywords": [
+      "pi-extension",
+      "pi-package",
+      "session-tree",
+      "navigation"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-06-29T22:22:57.969Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

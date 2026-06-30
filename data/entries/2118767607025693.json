@@ -8,7 +8,7 @@
     "github_url": "https://github.com/code-yeongyu/pi-openai-web-search",
     "repo_full_name": "code-yeongyu/pi-openai-web-search",
     "description": "OpenAI Responses native web search policy extension for the pi coding agent. Ensures native web_search tools are present on openai-responses and azure-openai-responses payloads and appends web search guidance to the system prompt.",
-    "stars": 1,
+    "stars": 2,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -26,10 +26,10 @@
     "archived": false,
     "created_at": "2026-05-12T04:09:07Z",
     "pushed_at": "2026-05-18T06:46:55Z",
-    "updated_at": "2026-05-28T02:38:09Z",
+    "updated_at": "2026-06-29T14:15:05Z",
     "size": 53,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
     "score": 55,
