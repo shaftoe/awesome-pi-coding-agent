@@ -8,7 +8,7 @@
     "github_url": "https://github.com/htlin222/mini-claw",
     "repo_full_name": "htlin222/mini-claw",
     "description": "Telegram bot for persistent Claude/ChatGPT conversations using Pi agent — zero-cost multi-turn AI sessions with file attachments, shell access, and local storage",
-    "stars": 92,
+    "stars": 91,
     "forks": 14,
     "open_issues": 0,
     "topics": [
@@ -32,7 +32,7 @@
     "archived": false,
     "created_at": "2026-02-01T03:52:34Z",
     "pushed_at": "2026-03-28T02:19:13Z",
-    "updated_at": "2026-06-19T11:20:52Z",
+    "updated_at": "2026-06-30T16:55:39Z",
     "size": 58,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

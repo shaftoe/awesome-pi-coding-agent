@@ -1,0 +1,33 @@
+{
+  "id": "cervantesh-pi-hashline-edit-plus",
+  "name": "cervantesh-pi-hashline-edit-plus",
+  "url": "https://github.com/cervantesh/pi-hashline-edit-plus",
+  "source": "github-search",
+  "description": "Cross-platform Pi hashline read/edit override that avoids fragile oldText exact-match failures.",
+  "metadata": {
+    "github_url": "https://github.com/cervantesh/pi-hashline-edit-plus",
+    "repo_full_name": "cervantesh/pi-hashline-edit-plus",
+    "description": "Cross-platform Pi hashline read/edit override that avoids fragile oldText exact-match failures.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "crlf",
+      "hashline",
+      "pi",
+      "pi-package",
+      "tool-override",
+      "windows"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-30T12:27:41Z",
+    "pushed_at": "2026-06-30T12:28:03Z",
+    "updated_at": "2026-06-30T12:28:07Z",
+    "size": 154,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

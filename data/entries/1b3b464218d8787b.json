@@ -23,5 +23,5 @@
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
-  "category": "misc"
+  "category": "extension"
 }

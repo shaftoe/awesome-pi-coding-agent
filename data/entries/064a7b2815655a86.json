@@ -9,7 +9,7 @@
     "repo_full_name": "espennilsen/pilot",
     "description": "A desktop coding agent with a GUI. Electron + React app powered by Pi Coding Agent. A chat-driven development with sandboxed file editing, git integration, dependency-aware task management, persistent memory, and an iOS/iPad companion for remote control.",
     "stars": 35,
-    "forks": 3,
+    "forks": 4,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

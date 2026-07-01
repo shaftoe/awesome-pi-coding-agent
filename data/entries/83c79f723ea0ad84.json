@@ -1,0 +1,25 @@
+{
+  "id": "VanKurnia-pi-vscode-ext",
+  "name": "VanKurnia-pi-vscode-ext",
+  "url": "https://github.com/VanKurnia/pi-vscode-ext",
+  "source": "github-search",
+  "description": "VS Code Extension for Pi Agent",
+  "metadata": {
+    "github_url": "https://github.com/VanKurnia/pi-vscode-ext",
+    "repo_full_name": "VanKurnia/pi-vscode-ext",
+    "description": "VS Code Extension for Pi Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-30T17:21:51Z",
+    "pushed_at": "2026-07-01T00:01:55Z",
+    "updated_at": "2026-07-01T00:01:58Z",
+    "size": 140,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

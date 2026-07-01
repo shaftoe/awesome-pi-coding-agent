@@ -1,0 +1,33 @@
+{
+  "id": "@haemmid/pi-processes",
+  "name": "@haemmid/pi-processes",
+  "url": "https://www.npmjs.com/package/@haemmid/pi-processes",
+  "source": "npm-search",
+  "description": "Agent-facing background process manager for Pi and pi-web automation workflows.",
+  "metadata": {
+    "github_url": "https://github.com/haemmid/pi-processes",
+    "npm_name": "@haemmid/pi-processes",
+    "description": "Agent-facing background process manager for Pi and pi-web automation workflows.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-web",
+      "processes",
+      "background-processes",
+      "dev-server",
+      "astro",
+      "vite"
+    ],
+    "version": "0.9.0",
+    "published_at": "2026-06-30T23:10:02.220Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
