@@ -1,0 +1,35 @@
+{
+  "id": "bun-docx",
+  "name": "bun-docx",
+  "url": "https://www.npmjs.com/package/bun-docx",
+  "source": "npm-search",
+  "description": "Read, edit, redline, and comment on Microsoft Word .docx files from the command line — built for AI agents.",
+  "metadata": {
+    "github_url": "https://github.com/kklimuk/docx-cli",
+    "npm_name": "bun-docx",
+    "description": "Read, edit, redline, and comment on Microsoft Word .docx files from the command line — built for AI agents.",
+    "keywords": [
+      "docx",
+      "openxml",
+      "ooxml",
+      "word",
+      "cli",
+      "ai",
+      "claude",
+      "codex",
+      "agentic",
+      "agent-skill",
+      "pi-package"
+    ],
+    "version": "0.19.1",
+    "published_at": "2026-06-30T20:33:33.781Z",
+    "npm_downloads_monthly": 1793,
+    "npm_downloads_weekly": 715,
+    "npm_score_final": 27.096167,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

@@ -10,7 +10,7 @@
     "description": "WSL-first Pi extension that bridges Windows clipboard screenshots into Pi via temp image paths",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 9,
     "topics": [
       "clipboard",
       "pi",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-10T20:46:52Z",
-    "pushed_at": "2026-06-10T05:08:03Z",
-    "updated_at": "2026-06-29T06:57:17Z",
-    "size": 52,
+    "pushed_at": "2026-06-30T08:11:04Z",
+    "updated_at": "2026-06-30T04:39:19Z",
+    "size": 158,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

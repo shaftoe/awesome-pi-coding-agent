@@ -1,0 +1,25 @@
+{
+  "id": "bhushan6-picode",
+  "name": "bhushan6-picode",
+  "url": "https://github.com/bhushan6/picode",
+  "source": "github-search",
+  "description": "Desktop app for PI coding agent",
+  "metadata": {
+    "github_url": "https://github.com/bhushan6/picode",
+    "repo_full_name": "bhushan6/picode",
+    "description": "Desktop app for PI coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-30T17:59:32Z",
+    "pushed_at": "2026-06-30T18:00:43Z",
+    "updated_at": "2026-06-30T18:01:04Z",
+    "size": 553,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

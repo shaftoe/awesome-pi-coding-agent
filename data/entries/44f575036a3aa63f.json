@@ -1,0 +1,25 @@
+{
+  "id": "gvarela-workbench-pi",
+  "name": "gvarela-workbench-pi",
+  "url": "https://github.com/gvarela/workbench-pi",
+  "source": "github-search",
+  "description": "Coding agent workbench flow for the Pi Coding Agent.",
+  "metadata": {
+    "github_url": "https://github.com/gvarela/workbench-pi",
+    "repo_full_name": "gvarela/workbench-pi",
+    "description": "Coding agent workbench flow for the Pi Coding Agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-30T02:25:52Z",
+    "pushed_at": "2026-06-30T17:34:01Z",
+    "updated_at": "2026-06-30T17:34:05Z",
+    "size": 84,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

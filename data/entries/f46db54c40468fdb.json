@@ -1,0 +1,30 @@
+{
+  "id": "pi-coderabbit",
+  "name": "pi-coderabbit",
+  "url": "https://www.npmjs.com/package/pi-coderabbit",
+  "source": "npm-search",
+  "description": "Manual Pi slash command for running the official CodeRabbit CLI.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-coderabbit",
+    "description": "Manual Pi slash command for running the official CodeRabbit CLI.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "coderabbit",
+      "code-review"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-06-30T11:27:25.823Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

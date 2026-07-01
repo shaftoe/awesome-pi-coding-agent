@@ -10,7 +10,7 @@
     "description": "A TUI around llama.cpp for running, managing, and benchmarking local GGUF models and launching the pi coding agent against your local server.",
     "stars": 23,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 3,
     "topics": [
       "coding-agent",
       "gguf",

@@ -3,11 +3,11 @@
   "name": "junghan0611-entwurf",
   "url": "https://github.com/junghan0611/entwurf",
   "source": "github-search",
-  "description": "Use Claude Code, Codex, and Gemini CLI through Agent Client Protocol (ACP) inside pi — and make native Claude Code sessions garden-addressable peers.",
+  "description": "Garden-citizen dispatch substrate + meta-bridge: make Claude Code, Codex, Antigravity, and pi sessions garden-addressable peers — with a Claude-first ACP plugin (Cortex/vendor ACP backends are future lanes).",
   "metadata": {
     "github_url": "https://github.com/junghan0611/entwurf",
     "repo_full_name": "junghan0611/entwurf",
-    "description": "Use Claude Code, Codex, and Gemini CLI through Agent Client Protocol (ACP) inside pi — and make native Claude Code sessions garden-addressable peers.",
+    "description": "Garden-citizen dispatch substrate + meta-bridge: make Claude Code, Codex, Antigravity, and pi sessions garden-addressable peers — with a Claude-first ACP plugin (Cortex/vendor ACP backends are future lanes).",
     "stars": 20,
     "forks": 3,
     "open_issues": 13,
@@ -27,11 +27,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-16T07:04:48Z",
-    "pushed_at": "2026-06-27T10:55:44Z",
-    "updated_at": "2026-06-24T16:18:41Z",
-    "size": 17853,
+    "pushed_at": "2026-06-30T04:03:06Z",
+    "updated_at": "2026-06-30T04:03:10Z",
+    "size": 19420,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
-  "category": "misc"
+  "category": "extension"
 }
