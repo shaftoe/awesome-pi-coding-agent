@@ -1,0 +1,25 @@
+{
+  "id": "paulbkim-dev-pkpi",
+  "name": "paulbkim-dev-pkpi",
+  "url": "https://github.com/paulbkim-dev/pkpi",
+  "source": "github-search",
+  "description": "Paul Kim's private Pi extensions and agent packages monorepo",
+  "metadata": {
+    "github_url": "https://github.com/paulbkim-dev/pkpi",
+    "repo_full_name": "paulbkim-dev/pkpi",
+    "description": "Paul Kim's private Pi extensions and agent packages monorepo",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-16T05:42:03Z",
+    "pushed_at": "2026-06-30T22:12:33Z",
+    "updated_at": "2026-07-01T07:45:45Z",
+    "size": 311,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

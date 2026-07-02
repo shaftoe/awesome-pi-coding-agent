@@ -1,0 +1,30 @@
+{
+  "id": "@iflytekopensource/adapters",
+  "name": "@iflytekopensource/adapters",
+  "url": "https://www.npmjs.com/package/@iflytekopensource/adapters",
+  "source": "npm-search",
+  "description": "Host lifecycle adapters for wiring MemFlywheel into agent runtimes.",
+  "metadata": {
+    "github_url": "https://github.com/iflytek/memflywheel",
+    "npm_name": "@iflytekopensource/adapters",
+    "description": "Host lifecycle adapters for wiring MemFlywheel into agent runtimes.",
+    "keywords": [
+      "agent-memory",
+      "adapters",
+      "llm",
+      "memory",
+      "pi-package",
+      "typescript"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-01T07:59:56.060Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

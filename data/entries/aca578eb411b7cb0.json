@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Small Pi safety extension for cwd access, protected paths, runtime config confirmation, and common destructive bash commands.",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/devnazim/pi-cwd-guard",
     "npm_name": "pi-cwd-guard",
     "description": "Small Pi safety extension for cwd access, protected paths, runtime config confirmation, and common destructive bash commands.",
     "keywords": [
@@ -15,11 +15,11 @@
       "guard",
       "safety"
     ],
-    "version": "0.3.5",
-    "published_at": "2026-05-31T13:56:58.169Z",
-    "npm_downloads_monthly": 486,
-    "npm_downloads_weekly": 20,
-    "npm_score_final": 21.90598,
+    "version": "0.4.0",
+    "published_at": "2026-07-01T15:17:06.964Z",
+    "npm_downloads_monthly": 348,
+    "npm_downloads_weekly": 22,
+    "npm_score_final": 20.816467,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

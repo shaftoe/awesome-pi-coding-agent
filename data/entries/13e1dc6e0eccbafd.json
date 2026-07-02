@@ -9,7 +9,7 @@
     "repo_full_name": "noctuid/epimetheus",
     "description": "(beta) Hindsight integration for pi coding agent (with queueing, past session ingestion, and a focus on best practices)",
     "stars": 17,
-    "forks": 1,
+    "forks": 2,
     "open_issues": 12,
     "topics": [],
     "language": "TypeScript",

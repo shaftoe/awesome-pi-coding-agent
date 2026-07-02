@@ -1,0 +1,29 @@
+{
+  "id": "@sevten/pi-data-masking",
+  "name": "@sevten/pi-data-masking",
+  "url": "https://www.npmjs.com/package/@sevten/pi-data-masking",
+  "source": "npm-search",
+  "description": "Pi extension that masks sensitive data before it reaches the LLM and restores it for users and tools.",
+  "metadata": {
+    "github_url": "https://github.com/sevten/pi-data-masking",
+    "npm_name": "@sevten/pi-data-masking",
+    "description": "Pi extension that masks sensitive data before it reaches the LLM and restores it for users and tools.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "data-masking",
+      "ai-agent"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-07-01T16:11:38.489Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -3,11 +3,11 @@
   "name": "@ghoulm370/pi-subagent-ui",
   "url": "https://www.npmjs.com/package/@ghoulm370/pi-subagent-ui",
   "source": "npm-search",
-  "description": "Pi extension that adds a subagent tool with live status/widgets for pi-web.",
+  "description": "Pi extension: subagent tool with background runs, intercom, watchdog, live status/widgets for pi-web.",
   "metadata": {
     "github_url": null,
     "npm_name": "@ghoulm370/pi-subagent-ui",
-    "description": "Pi extension that adds a subagent tool with live status/widgets for pi-web.",
+    "description": "Pi extension: subagent tool with background runs, intercom, watchdog, live status/widgets for pi-web.",
     "keywords": [
       "pi",
       "pi-coding-agent",
@@ -16,8 +16,8 @@
       "agent-orchestration",
       "pi-web"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-06-30T00:52:26.874Z",
+    "version": "0.1.1",
+    "published_at": "2026-07-01T10:22:04.167Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

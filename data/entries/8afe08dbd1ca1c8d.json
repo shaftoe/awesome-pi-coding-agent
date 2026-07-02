@@ -1,0 +1,29 @@
+{
+  "id": "pi-fixit",
+  "name": "pi-fixit",
+  "url": "https://www.npmjs.com/package/pi-fixit",
+  "source": "npm-search",
+  "description": "Bug-fix delivery pipeline — ClickUp ticket in, worktrees + MR out",
+  "metadata": {
+    "github_url": "https://github.com/fabkho/pi-fixit",
+    "npm_name": "pi-fixit",
+    "description": "Bug-fix delivery pipeline — ClickUp ticket in, worktrees + MR out",
+    "keywords": [
+      "pi-package",
+      "omp-package",
+      "coding-agent",
+      "git",
+      "workflow"
+    ],
+    "version": "0.5.5",
+    "published_at": "2026-07-01T22:47:05.218Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "bp2070-pi-zellij-tab-status",
+  "name": "bp2070-pi-zellij-tab-status",
+  "url": "https://github.com/bp2070/pi-zellij-tab-status",
+  "source": "github-search",
+  "description": "show pi agent status (working, waiting, done) in zellij tab",
+  "metadata": {
+    "github_url": "https://github.com/bp2070/pi-zellij-tab-status",
+    "repo_full_name": "bp2070/pi-zellij-tab-status",
+    "description": "show pi agent status (working, waiting, done) in zellij tab",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-26T15:01:25Z",
+    "pushed_at": "2026-06-26T15:07:39Z",
+    "updated_at": "2026-07-01T13:54:54Z",
+    "size": 11,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}
