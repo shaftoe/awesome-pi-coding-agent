@@ -10,7 +10,7 @@
     "description": "A task tool for pi agents — session-scoped tasks with a live above-editor widget and compact tool output",
     "stars": 0,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "llm-tools",
       "pi",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-19T06:40:00Z",
-    "pushed_at": "2026-06-22T19:16:38Z",
+    "pushed_at": "2026-07-01T19:27:20Z",
     "updated_at": "2026-05-02T05:23:13Z",
-    "size": 237,
+    "size": 239,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

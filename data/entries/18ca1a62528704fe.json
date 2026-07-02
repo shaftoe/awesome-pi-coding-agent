@@ -3,11 +3,11 @@
   "name": "pi-autopilot",
   "url": "https://www.npmjs.com/package/pi-autopilot",
   "source": "npm-search",
-  "description": "Autopilot orchestration package for Pi: /autopilot, /autopilot-restart, context budget activation, and child runner wiring.",
+  "description": "Autopilot orchestration package for Pi: /autopilot, /autopilot-onboard, /autopilot-handoff, context budget activation, and child runner wiring.",
   "metadata": {
     "github_url": "https://github.com/ismailsaleekh/pi-autopilot",
     "npm_name": "pi-autopilot",
-    "description": "Autopilot orchestration package for Pi: /autopilot, /autopilot-restart, context budget activation, and child runner wiring.",
+    "description": "Autopilot orchestration package for Pi: /autopilot, /autopilot-onboard, /autopilot-handoff, context budget activation, and child runner wiring.",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -15,8 +15,8 @@
       "autopilot",
       "orchestration"
     ],
-    "version": "0.1.2",
-    "published_at": "2026-06-30T20:20:07.146Z",
+    "version": "0.2.1",
+    "published_at": "2026-07-01T18:28:49.842Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

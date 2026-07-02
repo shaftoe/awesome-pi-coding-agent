@@ -1,0 +1,30 @@
+{
+  "id": "jensen",
+  "name": "jensen",
+  "url": "https://www.npmjs.com/package/jensen",
+  "source": "npm-search",
+  "description": "Jensen Theme - A Cyber Renaissance theme inspired by Deus Ex: Human Revolution",
+  "metadata": {
+    "github_url": "https://github.com/tomaytotomato/jensen",
+    "npm_name": "jensen",
+    "description": "Jensen Theme - A Cyber Renaissance theme inspired by Deus Ex: Human Revolution",
+    "keywords": [
+      "theme",
+      "deus-ex",
+      "color-scheme",
+      "jensen",
+      "pi-package",
+      "pi-theme"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-07-01T12:25:08.896Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "theme"
+}

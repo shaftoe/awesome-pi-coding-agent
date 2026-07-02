@@ -9,8 +9,8 @@
     "repo_full_name": "praneybehl/llm-wiki-plugin",
     "description": "Andrej Karpathy's LLM Wiki pattern as a Claude Code plugin — turn accumulated sources into a self-maintaining, scalable markdown knowledge base.",
     "stars": 56,
-    "forks": 7,
-    "open_issues": 0,
+    "forks": 9,
+    "open_issues": 3,
     "topics": [
       "ai-tools",
       "anthropic-claude",

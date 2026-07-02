@@ -1,0 +1,31 @@
+{
+  "id": "aaalexliu-pi-cachew",
+  "name": "aaalexliu-pi-cachew",
+  "url": "https://github.com/aaalexliu/pi-cachew",
+  "source": "github-search",
+  "description": "🥜 pi extension that keeps your prompt cache warm so your next prompt is a cheap cache read instead of an expensive write",
+  "metadata": {
+    "github_url": "https://github.com/aaalexliu/pi-cachew",
+    "repo_full_name": "aaalexliu/pi-cachew",
+    "description": "🥜 pi extension that keeps your prompt cache warm so your next prompt is a cheap cache read instead of an expensive write",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "anthropic",
+      "bedrock",
+      "pi",
+      "pi-package",
+      "prompt-cache"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-01T19:13:20Z",
+    "pushed_at": "2026-07-01T20:02:21Z",
+    "updated_at": "2026-07-01T20:02:29Z",
+    "size": 70,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
