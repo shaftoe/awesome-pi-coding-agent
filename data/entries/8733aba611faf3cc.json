@@ -1,0 +1,25 @@
+{
+  "id": "bogdan-d-pi-stuff",
+  "name": "bogdan-d-pi-stuff",
+  "url": "https://github.com/bogdan-d/pi-stuff",
+  "source": "github-search",
+  "description": "Personal Pi Coding Agent extensions, prompts, themes, customizations",
+  "metadata": {
+    "github_url": "https://github.com/bogdan-d/pi-stuff",
+    "repo_full_name": "bogdan-d/pi-stuff",
+    "description": "Personal Pi Coding Agent extensions, prompts, themes, customizations",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-02T15:07:28Z",
+    "pushed_at": "2026-07-02T16:07:04Z",
+    "updated_at": "2026-07-02T16:07:21Z",
+    "size": 75,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

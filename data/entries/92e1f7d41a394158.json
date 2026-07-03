@@ -1,0 +1,33 @@
+{
+  "id": "@kmmuntasir/pi-nested-subagents",
+  "name": "@kmmuntasir/pi-nested-subagents",
+  "url": "https://www.npmjs.com/package/@kmmuntasir/pi-nested-subagents",
+  "source": "npm-search",
+  "description": "A pi extension that brings Claude Code-style autonomous sub-agents to pi, with safe configurable nesting depth and built-in ground-truth verification. Fork of tintinweb/pi-subagents.",
+  "metadata": {
+    "github_url": "https://github.com/kmmuntasir/pi-nested-subagents",
+    "npm_name": "@kmmuntasir/pi-nested-subagents",
+    "description": "A pi extension that brings Claude Code-style autonomous sub-agents to pi, with safe configurable nesting depth and built-in ground-truth verification. Fork of tintinweb/pi-subagents.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "subagent",
+      "agent",
+      "autonomous",
+      "nested",
+      "nesting",
+      "verification"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-02T13:32:08.276Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

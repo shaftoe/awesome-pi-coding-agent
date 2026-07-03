@@ -8,7 +8,7 @@
     "github_url": "https://github.com/shuowu/pi-tree",
     "repo_full_name": "shuowu/pi-tree",
     "description": "AI-assisted reading and research with tree-structured conversations. Local-first, bring your own key.",
-    "stars": 2,
+    "stars": 3,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -36,8 +36,8 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-29T01:46:35Z",
-    "pushed_at": "2026-06-27T03:08:36Z",
-    "updated_at": "2026-06-27T03:08:40Z",
+    "pushed_at": "2026-07-02T23:15:48Z",
+    "updated_at": "2026-07-02T23:15:53Z",
     "size": 21320,
     "license": "AGPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

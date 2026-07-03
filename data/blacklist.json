@@ -34777,5 +34777,111 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-agent"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=TKLjARgPtgw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-03T00:04:43.417Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=-eBuqzfxuY4",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-03T00:04:43.454Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/EstebanForge/pi-mixture-of-agents",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-03T00:04:43.533Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=bvP-Ok7ljOk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-03T00:04:43.562Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=gQe7SJcIIyI",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-03T00:04:43.72Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=jANpo1gntcI",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-07-03T00:04:43.838Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=y3k1dCvY_zg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-03T00:04:44.153Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=40ikbH0Ba-g",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-03T00:04:44.211Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=XEYh38XGoSA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-03T00:04:44.232Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@codesook/pi-welcome-screen",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-07-03T00:04:44.279Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@burmese/pi",
+		"reason": "Not about the Pi coding agent — GitHub repo is 'pet-assistant', empty description, likely a Burmese-language pet assistant unrelated to pi.dev",
+		"blacklisted_at": "2026-07-03T00:08:08.032Z",
+		"source": "manual"
 	}
 ]

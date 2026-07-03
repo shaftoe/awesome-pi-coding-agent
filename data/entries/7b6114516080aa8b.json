@@ -1,0 +1,25 @@
+{
+  "id": "crnvl96-pi-config",
+  "name": "crnvl96-pi-config",
+  "url": "https://github.com/crnvl96/pi-config",
+  "source": "github-search",
+  "description": "my config for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/crnvl96/pi-config",
+    "repo_full_name": "crnvl96/pi-config",
+    "description": "my config for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-02T01:40:59Z",
+    "pushed_at": "2026-07-02T17:17:27Z",
+    "updated_at": "2026-07-02T17:17:38Z",
+    "size": 30,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

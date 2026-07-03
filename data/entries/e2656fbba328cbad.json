@@ -3,19 +3,19 @@
   "name": "pi-multi-skills",
   "url": "https://www.npmjs.com/package/pi-multi-skills",
   "source": "npm-search",
-  "description": "Reference any installed pi skill from anywhere in your prompt using $skill_name syntax. Supports multi-skill invocation with automatic SKILL.md injection into the system prompt.",
+  "description": "Reference any installed pi skill from anywhere in your prompt using $skill_name syntax. Expands inline to XML (same format as Pi's native /skill:xxx) — no system prompt injection.",
   "metadata": {
     "github_url": "https://github.com/QuangThai/pi-multi-skills",
     "npm_name": "pi-multi-skills",
-    "description": "Reference any installed pi skill from anywhere in your prompt using $skill_name syntax. Supports multi-skill invocation with automatic SKILL.md injection into the system prompt.",
+    "description": "Reference any installed pi skill from anywhere in your prompt using $skill_name syntax. Expands inline to <skill> XML (same format as Pi's native /skill:xxx) — no system prompt injection.",
     "keywords": [
       "pi-package",
       "pi-coding-agent",
       "pi-extension",
       "agent-skills"
     ],
-    "version": "1.0.3",
-    "published_at": "2026-06-30T03:47:18.067Z",
+    "version": "1.1.2",
+    "published_at": "2026-07-02T15:56:13.385Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

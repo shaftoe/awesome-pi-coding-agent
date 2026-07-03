@@ -1,0 +1,31 @@
+{
+  "id": "junghwan16-pi-flow",
+  "name": "junghwan16-pi-flow",
+  "url": "https://github.com/junghwan16/pi-flow",
+  "source": "github-search",
+  "description": "Strict graph workflow harness for Pi",
+  "metadata": {
+    "github_url": "https://github.com/junghwan16/pi-flow",
+    "repo_full_name": "junghwan16/pi-flow",
+    "description": "Strict graph workflow harness for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-coding",
+      "developer-tools",
+      "pi",
+      "pi-package",
+      "workflow"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-02T21:10:55Z",
+    "pushed_at": "2026-07-02T21:24:08Z",
+    "updated_at": "2026-07-02T21:23:34Z",
+    "size": 170,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
