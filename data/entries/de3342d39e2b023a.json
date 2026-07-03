@@ -1,0 +1,28 @@
+{
+  "id": "@bacnh85/pi-ponytail",
+  "name": "@bacnh85/pi-ponytail",
+  "url": "https://www.npmjs.com/package/@bacnh85/pi-ponytail",
+  "source": "npm-search",
+  "description": "Pi-ponytail — lazy senior dev mode for your Pi agent. Forked from DietrichGebert/ponytail.",
+  "metadata": {
+    "github_url": "https://github.com/bacnh85/pi-extensions",
+    "npm_name": "@bacnh85/pi-ponytail",
+    "description": "Pi-ponytail — lazy senior dev mode for your Pi agent. Forked from DietrichGebert/ponytail.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "ponytail",
+      "skills"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-02T14:47:18.951Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

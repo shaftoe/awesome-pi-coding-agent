@@ -9,7 +9,7 @@
     "repo_full_name": "aaalexliu/pi-cachew",
     "description": "🥜 pi extension that keeps your prompt cache warm so your next prompt is a cheap cache read instead of an expensive write",
     "stars": 0,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "anthropic",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-01T19:13:20Z",
-    "pushed_at": "2026-07-01T20:02:21Z",
-    "updated_at": "2026-07-01T20:02:29Z",
-    "size": 70,
+    "pushed_at": "2026-07-02T21:29:12Z",
+    "updated_at": "2026-07-02T21:29:16Z",
+    "size": 2852,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

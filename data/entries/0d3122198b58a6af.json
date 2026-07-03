@@ -1,0 +1,30 @@
+{
+  "id": "pi-everything-search",
+  "name": "pi-everything-search",
+  "url": "https://www.npmjs.com/package/pi-everything-search",
+  "source": "npm-search",
+  "description": "Pi extension: ultra-fast file search via Everything (voidtools) — replaces slow find/ls/grep",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-everything-search",
+    "description": "Pi extension: ultra-fast file search via Everything (voidtools) — replaces slow find/ls/grep",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "everything",
+      "file-search",
+      "voidtools"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-07-02T16:07:46.710Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

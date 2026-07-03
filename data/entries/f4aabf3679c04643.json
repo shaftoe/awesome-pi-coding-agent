@@ -10,7 +10,7 @@
     "description": "Hook-first agent harness on @earendil-works/pi-ai — minimal kernel + 20 plugins + ~13 controllers + first-party tools. Backend/worker runtime for pi-ai agents; not a fork of pi-coding-agent.",
     "stars": 2,
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 28,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

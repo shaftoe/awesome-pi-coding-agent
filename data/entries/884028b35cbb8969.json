@@ -1,0 +1,25 @@
+{
+  "id": "AllenX95-pi-vc-core",
+  "name": "AllenX95-pi-vc-core",
+  "url": "https://github.com/AllenX95/pi-vc-core",
+  "source": "github-search",
+  "description": "personal packages for pi agent in vc investments",
+  "metadata": {
+    "github_url": "https://github.com/AllenX95/pi-vc-core",
+    "repo_full_name": "AllenX95/pi-vc-core",
+    "description": "personal packages for pi agent in vc investments",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-02T17:44:17Z",
+    "pushed_at": "2026-07-02T17:50:59Z",
+    "updated_at": "2026-07-02T17:51:07Z",
+    "size": 80,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

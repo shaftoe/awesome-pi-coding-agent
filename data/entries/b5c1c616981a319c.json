@@ -1,0 +1,25 @@
+{
+  "id": "@chaotic1988/pi-subagent",
+  "name": "@chaotic1988/pi-subagent",
+  "url": "https://www.npmjs.com/package/@chaotic1988/pi-subagent",
+  "source": "npm-search",
+  "description": "A [pi](https://github.com/mariozechner/pi) extension for delegating tasks to subagents. Each subagent runs as an in-process SDK session with its own isolated context window — ideal for parallel work, specialist prompts, or keeping noisy subtasks out of yo",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@chaotic1988/pi-subagent",
+    "description": "A [pi](https://github.com/mariozechner/pi) extension for delegating tasks to subagents. Each subagent runs as an in-process SDK session with its own isolated context window — ideal for parallel work, specialist prompts, or keeping noisy subtasks out of yo",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-07-02T08:09:16.700Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
