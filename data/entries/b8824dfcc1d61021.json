@@ -8,7 +8,7 @@
     "github_url": "https://github.com/R-Dson/pi-codebase",
     "repo_full_name": "R-Dson/pi-codebase",
     "description": "A fast, lightweight codebase indexing and search extension for pi-coding-agent. It provides instant symbol navigation, incremental re-indexing via content hashing, and powerful reference search (leveraging ripgrep/grep), and zero runtime dependencies.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-03T22:08:58Z",
     "pushed_at": "2026-04-05T18:54:41Z",
-    "updated_at": "2026-04-05T18:54:47Z",
+    "updated_at": "2026-07-03T14:42:36Z",
     "size": 89,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

@@ -1,0 +1,25 @@
+{
+  "id": "T50-Systems-pi-anchor-edit-core",
+  "name": "T50-Systems-pi-anchor-edit-core",
+  "url": "https://github.com/T50-Systems/pi-anchor-edit-core",
+  "source": "github-search",
+  "description": "Shared anchor-based edit core for Pi packages such as pi-hashline-edit-plus and pi-smart-edit",
+  "metadata": {
+    "github_url": "https://github.com/T50-Systems/pi-anchor-edit-core",
+    "repo_full_name": "T50-Systems/pi-anchor-edit-core",
+    "description": "Shared anchor-based edit core for Pi packages such as pi-hashline-edit-plus and pi-smart-edit",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-02T04:12:03Z",
+    "pushed_at": "2026-07-02T04:26:24Z",
+    "updated_at": "2026-07-03T10:24:31Z",
+    "size": 5011,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

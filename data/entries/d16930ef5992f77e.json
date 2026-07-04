@@ -1,0 +1,25 @@
+{
+  "id": "RunMintOn-research-about-how-pi-using-opencode-models-for-free",
+  "name": "RunMintOn-research-about-how-pi-using-opencode-models-for-free",
+  "url": "https://github.com/RunMintOn/research-about-how-pi-using-opencode-models-for-free",
+  "source": "github-search",
+  "description": "Source analysis of 6 Pi Coding Agent community extension packages, with the goal of using OpenCode Free Models in Pi for free (no API key, no login required).",
+  "metadata": {
+    "github_url": "https://github.com/RunMintOn/research-about-how-pi-using-opencode-models-for-free",
+    "repo_full_name": "RunMintOn/research-about-how-pi-using-opencode-models-for-free",
+    "description": "Source analysis of 6 Pi Coding Agent community extension packages, with the goal of using OpenCode Free Models in Pi for free (no API key, no login required).",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-03T15:24:50Z",
+    "pushed_at": "2026-07-03T15:54:16Z",
+    "updated_at": "2026-07-03T15:55:12Z",
+    "size": 2344,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

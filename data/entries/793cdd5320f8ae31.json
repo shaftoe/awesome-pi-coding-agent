@@ -1,0 +1,29 @@
+{
+  "id": "pi-discord-bridge",
+  "name": "pi-discord-bridge",
+  "url": "https://www.npmjs.com/package/pi-discord-bridge",
+  "source": "npm-search",
+  "description": "Bridge Pi coding sessions to Discord — per-project channels, session threads, two-way control",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-discord-bridge",
+    "description": "Bridge Pi coding sessions to Discord — per-project channels, session threads, two-way control",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "discord",
+      "remote",
+      "extension"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-07-03T12:36:22.239Z",
+    "npm_downloads_monthly": 73,
+    "npm_downloads_weekly": 73,
+    "npm_score_final": 13.933957,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

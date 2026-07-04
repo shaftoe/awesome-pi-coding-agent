@@ -1,0 +1,40 @@
+{
+  "id": "sounkou-bioinfo-pi-bio-agent",
+  "name": "sounkou-bioinfo-pi-bio-agent",
+  "url": "https://github.com/sounkou-bioinfo/pi-bio-agent",
+  "source": "github-search",
+  "description": "Provider-agnostic bioinformatics agent substrate: manifests + SQL over DuckDB are the program",
+  "metadata": {
+    "github_url": "https://github.com/sounkou-bioinfo/pi-bio-agent",
+    "repo_full_name": "sounkou-bioinfo/pi-bio-agent",
+    "description": "Provider-agnostic bioinformatics agent substrate: manifests + SQL over DuckDB are the program",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "apache-arrow",
+      "bioinformatics",
+      "duckdb",
+      "duckhts",
+      "ducknng",
+      "genomics",
+      "knowledge-graph",
+      "llm",
+      "ontology",
+      "pi-agent",
+      "provider-agnostic",
+      "reproducibility",
+      "sql"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-27T21:53:37Z",
+    "pushed_at": "2026-07-03T00:44:18Z",
+    "updated_at": "2026-07-03T06:03:22Z",
+    "size": 2238,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

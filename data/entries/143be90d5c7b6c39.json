@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Notifications for Pi coding agent",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/steven-rothwell/pi-utilities",
     "npm_name": "@steven-rothwell/pi-notifier",
     "description": "Notifications for Pi coding agent",
     "keywords": [
@@ -14,8 +14,8 @@
       "windows",
       "desktop"
     ],
-    "version": "1.0.2",
-    "published_at": "2026-07-01T01:54:30.577Z",
+    "version": "1.0.3",
+    "published_at": "2026-07-03T02:28:03.715Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

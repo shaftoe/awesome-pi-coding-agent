@@ -1,0 +1,31 @@
+{
+  "id": "pi-loop-mode",
+  "name": "pi-loop-mode",
+  "url": "https://www.npmjs.com/package/pi-loop-mode",
+  "source": "npm-search",
+  "description": "Unattended loop mode for pi — separate goal/prepare/run phases with per-phase model selection, endless by default, objective goal function (--check) with score/regression tracking, error retry with backoff, layered anti-repetition defenses (near-duplicate",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-loop-mode",
+    "description": "Unattended loop mode for pi — separate goal/prepare/run phases with per-phase model selection, endless by default, objective goal function (--check) with score/regression tracking, error retry with backoff, layered anti-repetition defenses (near-duplicate",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "agent",
+      "loop",
+      "unattended",
+      "autonomous",
+      "llm"
+    ],
+    "version": "2.5.1",
+    "published_at": "2026-07-03T12:04:03.706Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

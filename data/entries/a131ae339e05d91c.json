@@ -3,11 +3,11 @@
   "name": "pi-external-advisor",
   "url": "https://www.npmjs.com/package/pi-external-advisor",
   "source": "npm-search",
-  "description": "Pi extension that replaces pi's built-in LLM provider with an external agent CLI (Codex CLI, Claude CLI, OpenCode, etc.) for advisor consultation.",
+  "description": "Pi extension that replaces pi's built-in LLM provider with an external agent CLI (Codex CLI or Claude CLI) for advisor consultation.",
   "metadata": {
     "github_url": "https://github.com/hwei/pi-external-advisor",
     "npm_name": "pi-external-advisor",
-    "description": "Pi extension that replaces pi's built-in LLM provider with an external agent CLI (Codex CLI, Claude CLI, OpenCode, etc.) for advisor consultation.",
+    "description": "Pi extension that replaces pi's built-in LLM provider with an external agent CLI (Codex CLI or Claude CLI) for advisor consultation.",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -16,8 +16,8 @@
       "codex-cli",
       "external-cli"
     ],
-    "version": "0.5.0",
-    "published_at": "2026-07-01T02:26:06.917Z",
+    "version": "0.6.0",
+    "published_at": "2026-07-03T07:56:41.230Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

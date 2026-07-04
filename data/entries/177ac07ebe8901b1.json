@@ -1,0 +1,25 @@
+{
+  "id": "invisibleDesigner-pi-extension",
+  "name": "invisibleDesigner-pi-extension",
+  "url": "https://github.com/invisibleDesigner/pi-extension",
+  "source": "github-search",
+  "description": "Monorepo of extensions for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/invisibleDesigner/pi-extension",
+    "repo_full_name": "invisibleDesigner/pi-extension",
+    "description": "Monorepo of extensions for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-03T03:12:58Z",
+    "pushed_at": "2026-07-03T03:13:02Z",
+    "updated_at": "2026-07-03T03:13:06Z",
+    "size": 36,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}
