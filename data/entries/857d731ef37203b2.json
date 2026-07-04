@@ -1,0 +1,29 @@
+{
+  "id": "@snehalyelmati/pi-tmux-sidechat",
+  "name": "@snehalyelmati/pi-tmux-sidechat",
+  "url": "https://www.npmjs.com/package/@snehalyelmati/pi-tmux-sidechat",
+  "source": "npm-search",
+  "description": "Pi extension for read-only tmux side-chat sessions.",
+  "metadata": {
+    "github_url": "https://github.com/snehalyelmati/pi-tmux-sidechat",
+    "npm_name": "@snehalyelmati/pi-tmux-sidechat",
+    "description": "Pi extension for read-only tmux side-chat sessions.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "tmux",
+      "side-chat",
+      "read-only"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-03T18:38:09.991Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

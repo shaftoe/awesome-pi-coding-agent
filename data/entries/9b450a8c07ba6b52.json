@@ -1,0 +1,43 @@
+{
+  "id": "mmprotest-villani-flight-recorder",
+  "name": "mmprotest-villani-flight-recorder",
+  "url": "https://github.com/mmprotest/villani-flight-recorder",
+  "source": "github-search",
+  "description": "See what your coding agent is doing",
+  "metadata": {
+    "github_url": "https://github.com/mmprotest/villani-flight-recorder",
+    "repo_full_name": "mmprotest/villani-flight-recorder",
+    "description": "See what your coding agent is doing",
+    "stars": 0,
+    "forks": 2,
+    "open_issues": 0,
+    "topics": [
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "codex-cli",
+      "codex-desktop",
+      "codex-download",
+      "codex-plugin",
+      "codex-skill",
+      "codex-skills",
+      "observability",
+      "pi-automation",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-01T06:55:18Z",
+    "pushed_at": "2026-07-03T02:32:34Z",
+    "updated_at": "2026-07-03T03:49:51Z",
+    "size": 653,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
