@@ -1,0 +1,31 @@
+{
+  "id": "markbrutx-pi-jutsu",
+  "name": "markbrutx-pi-jutsu",
+  "url": "https://github.com/markbrutx/pi-jutsu",
+  "source": "github-search",
+  "description": "Techniques for the pi coding agent: shadow-clone swarms, autonomous goals, stealth browser control, parallel code review",
+  "metadata": {
+    "github_url": "https://github.com/markbrutx/pi-jutsu",
+    "repo_full_name": "markbrutx/pi-jutsu",
+    "description": "Techniques for the pi coding agent: shadow-clone swarms, autonomous goals, stealth browser control, parallel code review",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "coding-agent",
+      "multi-agent",
+      "pi-extension",
+      "subagents"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-04T15:51:39Z",
+    "pushed_at": "2026-07-04T15:51:54Z",
+    "updated_at": "2026-07-04T20:00:05Z",
+    "size": 686,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

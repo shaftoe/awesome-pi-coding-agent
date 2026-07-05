@@ -1,0 +1,25 @@
+{
+  "id": "@redentor_dev/pi-orchestrator",
+  "name": "@redentor_dev/pi-orchestrator",
+  "url": "https://www.npmjs.com/package/@redentor_dev/pi-orchestrator",
+  "source": "npm-search",
+  "description": "Pi orchestrator delegation workflow with researcher, implementor, design agents, and live per-role agents status tracking.",
+  "metadata": {
+    "github_url": "https://github.com/redentordev/pi-orchestrator",
+    "npm_name": "@redentor_dev/pi-orchestrator",
+    "description": "Pi orchestrator delegation workflow with researcher, implementor, design agents, and live per-role agents status tracking.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-07-04T20:12:19.493Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

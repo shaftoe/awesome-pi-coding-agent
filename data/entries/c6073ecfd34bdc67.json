@@ -10,7 +10,7 @@
     "description": "Background server for Pi Coding Agent to enable metrics, scheduled jobs, and alerts",
     "stars": 1,
     "forks": 0,
-    "open_issues": 13,
+    "open_issues": 14,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

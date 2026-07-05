@@ -3,11 +3,11 @@
   "name": "pi-dock",
   "url": "https://www.npmjs.com/package/pi-dock",
   "source": "npm-search",
-  "description": "Named detached Pi agents that outlive your shell. Start, continue, list, watch, and stop them. (Under development \u2014 name reserved.)",
+  "description": "Named detached Pi agents that outlive your shell. Start, continue, list, watch, and stop them. (Under development — name reserved.)",
   "metadata": {
     "github_url": "https://github.com/alvivar/pi-dock",
     "npm_name": "pi-dock",
-    "description": "Named detached Pi agents that outlive your shell. Start, continue, list, watch, and stop them. (Under development \u2014 name reserved.)",
+    "description": "Named detached Pi agents that outlive your shell. Start, continue, list, watch, and stop them. (Under development — name reserved.)",
     "keywords": [
       "pi-package",
       "pi",

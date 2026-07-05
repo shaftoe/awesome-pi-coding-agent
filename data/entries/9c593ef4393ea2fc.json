@@ -3,11 +3,11 @@
   "name": "Extensions - Awesome Pi Coding Agent",
   "url": "https://awesome-pi.site/extensions/",
   "source": "brave-web-search",
-  "description": "Extend Pi's capabilities — custom tools, hooks, integrations, skills, and MCP servers · Pi extension that keeps noisy tool output out of your context window. Automatically rewrites shell commands through Hypa for local, deterministic compression, context-aware file tools, and recoverable evidence",
+  "description": "Web search, URL fetching, GitHub repo cloning, PDF extraction, YouTube video understanding, and local video analysis for Pi coding agent.",
   "metadata": {
     "title": "Extensions - Awesome Pi Coding Agent",
     "name": "Extensions - Awesome Pi Coding Agent",
-    "description": "Extend Pi's capabilities — custom tools, hooks, integrations, skills, and MCP servers · Pi extension that keeps noisy tool output out of your context window. Automatically rewrites shell commands through Hypa for local, deterministic compression, context-aware file tools, and recoverable evidence",
+    "description": "Web search, URL fetching, GitHub repo cloning, PDF extraction, YouTube video understanding, and local video analysis for Pi coding agent.",
     "published_at": null,
     "source_site": "Awesome-pi",
     "source_url": "https://awesome-pi.site/extensions/",

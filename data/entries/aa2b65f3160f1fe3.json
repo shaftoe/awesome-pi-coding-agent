@@ -9,7 +9,7 @@
     "repo_full_name": "melihmucuk/pi-crew",
     "description": "Non-blocking subagent orchestration for pi. Spawn isolated agents that work in parallel while your session stays interactive.",
     "stars": 60,
-    "forks": 3,
+    "forks": 4,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

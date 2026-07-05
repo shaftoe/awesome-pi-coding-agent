@@ -1,0 +1,28 @@
+{
+  "id": "Alchemyst-ai-pi-alchemyst",
+  "name": "Alchemyst-ai-pi-alchemyst",
+  "url": "https://github.com/Alchemyst-ai/pi-alchemyst",
+  "source": "github-search",
+  "description": "The Alchemyst package for Pi the coding harness",
+  "metadata": {
+    "github_url": "https://github.com/Alchemyst-ai/pi-alchemyst",
+    "repo_full_name": "Alchemyst-ai/pi-alchemyst",
+    "description": "The Alchemyst package for Pi the coding harness ",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "alchemyst-ai",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-04T17:26:59Z",
+    "pushed_at": "2026-07-04T17:27:11Z",
+    "updated_at": "2026-07-04T18:23:18Z",
+    "size": 37,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

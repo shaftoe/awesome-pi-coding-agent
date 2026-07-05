@@ -1,0 +1,25 @@
+{
+  "id": "keen99-pi-notify",
+  "name": "keen99-pi-notify",
+  "url": "https://github.com/keen99/pi-notify",
+  "source": "github-search",
+  "description": "pi extension: desktop notification when agent finishes",
+  "metadata": {
+    "github_url": "https://github.com/keen99/pi-notify",
+    "repo_full_name": "keen99/pi-notify",
+    "description": "pi extension: desktop notification when agent finishes",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-21T19:45:20Z",
+    "pushed_at": "2026-06-21T19:45:22Z",
+    "updated_at": "2026-07-04T00:53:52Z",
+    "size": 3,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

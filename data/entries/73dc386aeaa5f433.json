@@ -1,0 +1,38 @@
+{
+  "id": "rlaope-agentbox",
+  "name": "rlaope-agentbox",
+  "url": "https://github.com/rlaope/agentbox",
+  "source": "github-search",
+  "description": "The AI Agent Framework — sandboxed multi-agent orchestration, high-throughput, session manager & runtime for pi / codex / claude",
+  "metadata": {
+    "github_url": "https://github.com/rlaope/agentbox",
+    "repo_full_name": "rlaope/agentbox",
+    "description": "The AI Agent Framework — sandboxed multi-agent orchestration, high-throughput, session manager & runtime for pi / codex / claude",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "ai",
+      "claude",
+      "codex",
+      "coding-agent",
+      "framework",
+      "harness",
+      "llm",
+      "orchestration",
+      "saas",
+      "sandbox",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-04T02:13:29Z",
+    "pushed_at": "2026-07-04T05:39:18Z",
+    "updated_at": "2026-07-04T05:39:22Z",
+    "size": 1578,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

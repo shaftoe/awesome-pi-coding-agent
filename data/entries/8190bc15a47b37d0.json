@@ -8,7 +8,7 @@
     "github_url": "https://github.com/DanGreinke/pi-command-center",
     "repo_full_name": "DanGreinke/pi-command-center",
     "description": "TUI command center extension for pi coding agent — live dashboard for multi-agent tmux workflows",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,10 +16,10 @@
     "archived": false,
     "created_at": "2026-05-17T20:52:08Z",
     "pushed_at": "2026-05-17T22:37:42Z",
-    "updated_at": "2026-05-17T22:37:45Z",
+    "updated_at": "2026-07-04T02:13:14Z",
     "size": 27,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
     "score": 50,

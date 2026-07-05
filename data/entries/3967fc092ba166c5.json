@@ -1,0 +1,32 @@
+{
+  "id": "frankhildebrandt-pi-openrouter-free-rate-limit-resilience",
+  "name": "frankhildebrandt-pi-openrouter-free-rate-limit-resilience",
+  "url": "https://github.com/frankhildebrandt/pi-openrouter-free-rate-limit-resilience",
+  "source": "github-search",
+  "description": "Installable pi.dev extension for quiet, resilient OpenRouter free-model retries",
+  "metadata": {
+    "github_url": "https://github.com/frankhildebrandt/pi-openrouter-free-rate-limit-resilience",
+    "repo_full_name": "frankhildebrandt/pi-openrouter-free-rate-limit-resilience",
+    "description": "Installable pi.dev extension for quiet, resilient OpenRouter free-model retries",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "openrouter",
+      "pi-dev",
+      "pi-extension",
+      "pi-package",
+      "rate-limit",
+      "resilience"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-04T10:39:06Z",
+    "pushed_at": "2026-07-04T10:47:36Z",
+    "updated_at": "2026-07-04T10:47:40Z",
+    "size": 7,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

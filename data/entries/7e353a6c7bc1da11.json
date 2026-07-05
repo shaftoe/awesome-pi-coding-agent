@@ -10,7 +10,7 @@
     "description": "Small observability and context management extensions for the Pi coding agent",
     "stars": 6,
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 4,
     "topics": [
       "context-management",
       "context-window",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-02T15:26:51Z",
-    "pushed_at": "2026-07-02T15:43:10Z",
-    "updated_at": "2026-07-02T15:39:07Z",
-    "size": 3517,
+    "pushed_at": "2026-07-04T14:16:27Z",
+    "updated_at": "2026-07-04T14:16:31Z",
+    "size": 4428,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
