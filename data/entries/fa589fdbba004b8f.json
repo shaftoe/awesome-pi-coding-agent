@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pt-act-pi-mono.mintlify.app_coding-agent",
+  "name": "@mariozechner/pi-coding-agent - Pi",
+  "url": "https://pt-act-pi-mono.mintlify.app/packages/coding-agent",
+  "source": "brave-web-search",
+  "description": "Full-featured coding agent CLI with tools, sessions, and extensibility",
+  "metadata": {
+    "title": "@mariozechner/pi-coding-agent - Pi",
+    "name": "@mariozechner/pi-coding-agent - Pi",
+    "description": "Full-featured coding agent CLI with tools, sessions, and extensibility",
+    "published_at": null,
+    "source_site": "Pi",
+    "source_url": "https://pt-act-pi-mono.mintlify.app/packages/coding-agent",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

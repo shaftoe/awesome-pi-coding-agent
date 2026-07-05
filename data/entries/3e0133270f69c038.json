@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Pick and configure external editors for Pi — supports Windows GUI editors that Pi can't wait for natively",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/ryanchan720/pi-editor-picker",
     "npm_name": "pi-editor-picker",
     "description": "Pick and configure external editors for Pi — supports Windows GUI editors that Pi can't wait for natively",
     "keywords": [
@@ -14,11 +14,10 @@
       "ctrl-g",
       "editor-selector",
       "typora",
-      "obsidian",
       "notepad++"
     ],
-    "version": "0.1.4",
-    "published_at": "2026-07-03T13:44:09.808Z",
+    "version": "0.1.6",
+    "published_at": "2026-07-04T08:43:05.719Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

@@ -1,0 +1,35 @@
+{
+  "id": "senad-d-ProtectMe",
+  "name": "senad-d-ProtectMe",
+  "url": "https://github.com/senad-d/ProtectMe",
+  "source": "github-search",
+  "description": "ProtectMe is a lightweight extension that uses website allow lists to let agents browse the internet freely and safely.",
+  "metadata": {
+    "github_url": "https://github.com/senad-d/ProtectMe",
+    "repo_full_name": "senad-d/ProtectMe",
+    "description": "ProtectMe is a lightweight extension that uses website allow lists to let agents browse the internet freely and safely.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-security",
+      "allowlist",
+      "guardrails",
+      "network-security",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "typescript",
+      "website-access"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-03T07:41:11Z",
+    "pushed_at": "2026-07-04T09:59:41Z",
+    "updated_at": "2026-07-04T12:23:06Z",
+    "size": 1008,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

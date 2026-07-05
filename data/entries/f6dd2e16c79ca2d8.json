@@ -8,7 +8,7 @@
     "github_url": "https://github.com/dungle-scrubs/tallow",
     "repo_full_name": "dungle-scrubs/tallow",
     "description": "A coding agent CLI and library built on pi-coding-agent",
-    "stars": 70,
+    "stars": 69,
     "forks": 7,
     "open_issues": 2,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-11T04:49:10Z",
     "pushed_at": "2026-05-18T09:21:09Z",
-    "updated_at": "2026-06-11T13:26:39Z",
+    "updated_at": "2026-07-04T20:41:07Z",
     "size": 19797,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

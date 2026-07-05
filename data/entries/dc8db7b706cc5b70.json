@@ -3,11 +3,11 @@
   "name": "pi-canvas-design",
   "url": "https://www.npmjs.com/package/pi-canvas-design",
   "source": "npm-search",
-  "description": "Infinite design canvas & freeform visual frontend builder for pi \u2014 draw primitives, drag components, snap, and export code",
+  "description": "Infinite design canvas & freeform visual frontend builder for pi — draw primitives, drag components, snap, and export code",
   "metadata": {
     "github_url": "https://github.com/b-iurea/pi-ui-design",
     "npm_name": "pi-canvas-design",
-    "description": "Infinite design canvas & freeform visual frontend builder for pi \u2014 draw primitives, drag components, snap, and export code",
+    "description": "Infinite design canvas & freeform visual frontend builder for pi — draw primitives, drag components, snap, and export code",
     "keywords": [
       "pi-package",
       "canvas-design",

@@ -1,0 +1,25 @@
+{
+  "id": "@thurstonsand/pi-librarian",
+  "name": "@thurstonsand/pi-librarian",
+  "url": "https://www.npmjs.com/package/@thurstonsand/pi-librarian",
+  "source": "npm-search",
+  "description": "GitHub research subagent for pi: deep-dive specific repos, discover across the ecosystem",
+  "metadata": {
+    "github_url": "https://github.com/thurstonsand/pi-librarian",
+    "npm_name": "@thurstonsand/pi-librarian",
+    "description": "GitHub research subagent for pi: deep-dive specific repos, discover across the ecosystem",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-04T17:21:47.842Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
