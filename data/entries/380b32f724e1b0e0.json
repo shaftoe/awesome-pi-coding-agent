@@ -9,7 +9,7 @@
     "repo_full_name": "intulint/pi-extension-manager",
     "description": "An interactive TUI extension for pi-coding-agent — manage extensions, packages, skills, and tools directly from the pi command line.",
     "stars": 0,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "pi"

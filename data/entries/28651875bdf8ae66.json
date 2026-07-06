@@ -1,0 +1,29 @@
+{
+  "id": "@pandi-coding-agent/pandi-goal",
+  "name": "@pandi-coding-agent/pandi-goal",
+  "url": "https://www.npmjs.com/package/@pandi-coding-agent/pandi-goal",
+  "source": "npm-search",
+  "description": "Pi theme package with Panda Syntax dark and light themes, the visual companion to the Pandi mascot.",
+  "metadata": {
+    "github_url": "https://github.com/andrestobelem/pandi-extensions",
+    "npm_name": "@pandi-coding-agent/pandi-theme",
+    "description": "Pi theme package with Panda Syntax dark and light themes, the visual companion to the Pandi mascot.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-theme",
+      "theme",
+      "panda"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-07-05T18:26:21.318Z",
+    "npm_downloads_monthly": 403,
+    "npm_downloads_weekly": 403,
+    "npm_score_final": 19.995087,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "theme"
+}

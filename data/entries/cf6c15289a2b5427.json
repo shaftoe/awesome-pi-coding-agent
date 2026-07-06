@@ -10,7 +10,7 @@
     "description": "pi coding agent - auto dark/light theme extension",
     "stars": 10,
     "forks": 2,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "dark-mode",
       "light-mode",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-08T02:07:31Z",
-    "pushed_at": "2026-05-02T23:39:42Z",
-    "updated_at": "2026-06-17T18:37:34Z",
-    "size": 1226,
+    "pushed_at": "2026-07-05T02:46:31Z",
+    "updated_at": "2026-07-05T02:46:35Z",
+    "size": 1283,
     "license": null,
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
