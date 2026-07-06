@@ -35931,5 +35931,111 @@
 		"reason": "Duplicate of npm package @senad-d/analyseme (same project/repo); keeping higher-popularity npm entry (81 downloads > 1 star)",
 		"blacklisted_at": "2026-07-05T00:08:55.584Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=IGoKsMmc6Ic",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-06T00:03:48.307Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=qP-r9Sq4Btc",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-07-06T00:03:48.362Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=6VEbaD_JQN8",
+		"reason": "non-english language (german)",
+		"blacklisted_at": "2026-07-06T00:03:48.624Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/lidong266/pi-kunlun",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-06T00:03:48.651Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=fLvCwI9-u-g",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-06T00:03:48.739Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.llmreference.com/agents/pi",
+		"reason": "blocked name: pi",
+		"blacklisted_at": "2026-07-06T00:03:48.839Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pipeline-worker",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-06T00:03:48.873Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=SzVJsC_rq8c",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-06T00:03:48.935Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/inotives/agent-pipe",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-06T00:03:49.127Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.facebook.com/groups/techtitansgroup/posts/1521970009130312/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-06T00:03:49.136Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=gw5HKQbmFvc",
+		"reason": "Non-English content: title and description are in Spanish",
+		"blacklisted_at": "2026-07-06T00:05:28.838Z",
+		"source": "manual"
 	}
 ]

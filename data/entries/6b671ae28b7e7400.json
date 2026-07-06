@@ -1,0 +1,25 @@
+{
+  "id": "codingfragments-pi-extensions",
+  "name": "codingfragments-pi-extensions",
+  "url": "https://github.com/codingfragments/pi-extensions",
+  "source": "github-search",
+  "description": "Monorepo of pi (pi.dev) coding agent extensions",
+  "metadata": {
+    "github_url": "https://github.com/codingfragments/pi-extensions",
+    "repo_full_name": "codingfragments/pi-extensions",
+    "description": "Monorepo of pi (pi.dev) coding agent extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-05T10:20:11Z",
+    "pushed_at": "2026-07-05T10:20:16Z",
+    "updated_at": "2026-07-05T10:20:19Z",
+    "size": 26,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pi-context-control",
+  "name": "pi-context-control",
+  "url": "https://www.npmjs.com/package/pi-context-control",
+  "source": "npm-search",
+  "description": "Pi extension for session-local skill and extension-tool toggles.",
+  "metadata": {
+    "github_url": "https://github.com/lukaspanni/pi-context-control",
+    "npm_name": "pi-context-control",
+    "description": "Pi extension for session-local skill and extension-tool toggles.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "agent-skill",
+      "context-control"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-05T09:34:17.565Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

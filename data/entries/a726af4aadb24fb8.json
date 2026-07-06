@@ -1,0 +1,29 @@
+{
+  "id": "@ifdog/pi-statuswrap",
+  "name": "@ifdog/pi-statuswrap",
+  "url": "https://www.npmjs.com/package/@ifdog/pi-statuswrap",
+  "source": "npm-search",
+  "description": "One extension status per footer line. Fixes pi's core footer truncating concurrent extension statuses to a single line and silently dropping the ones that sort later.",
+  "metadata": {
+    "github_url": "https://github.com/ifdog/pi-statuswrap",
+    "npm_name": "@ifdog/pi-statuswrap",
+    "description": "One extension status per footer line. Fixes pi's core footer truncating concurrent extension statuses to a single line and silently dropping the ones that sort later.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "footer",
+      "status",
+      "statusline"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-07-05T08:25:43.143Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

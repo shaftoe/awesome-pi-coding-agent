@@ -8,18 +8,18 @@
     "github_url": "https://github.com/zenyui/vscode-pi",
     "repo_full_name": "zenyui/vscode-pi",
     "description": "VS Code extension for Pi coding agent 🤖",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-02T20:30:05Z",
-    "pushed_at": "2026-07-04T17:10:08Z",
-    "updated_at": "2026-07-04T17:10:11Z",
-    "size": 99,
+    "pushed_at": "2026-07-05T14:32:59Z",
+    "updated_at": "2026-07-05T18:25:44Z",
+    "size": 105,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

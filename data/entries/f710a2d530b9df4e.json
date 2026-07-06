@@ -8,7 +8,7 @@
     "github_url": "https://github.com/burningportra/pi-agent-flywheel",
     "repo_full_name": "burningportra/pi-agent-flywheel",
     "description": "Multi-agent orchestrator extension for pi — deep planning, parallel execution, guided review gates, compound memory. Based on the Agentic Coding Flywheel.",
-    "stars": 1,
+    "stars": 2,
     "forks": 3,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-20T03:53:17Z",
     "pushed_at": "2026-06-29T18:47:09Z",
-    "updated_at": "2026-07-04T15:57:29Z",
+    "updated_at": "2026-07-05T23:32:08Z",
     "size": 6591,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
