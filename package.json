@@ -24,7 +24,7 @@
     "semantic-release": "semantic-release"
   },
   "devDependencies": {
-    "@alexanderfortin/semantic-release-keep-a-changelog": "^0.4.5",
+    "@alexanderfortin/semantic-release-keep-a-changelog": "^0.4.6",
     "@biomejs/biome": "^2.5.2",
     "@semantic-release/commit-analyzer": "^13.0.1",
     "@semantic-release/exec": "^7.1.0",
