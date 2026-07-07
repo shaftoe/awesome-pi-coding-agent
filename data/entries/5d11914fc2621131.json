@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ni3do/pi-remote-agent",
     "repo_full_name": "ni3do/pi-remote-agent",
     "description": "Run a pi coding agent on your server, talk to it via Discord, Slack, or web UI",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-28T14:54:20Z",
     "pushed_at": "2026-03-08T07:43:33Z",
-    "updated_at": "2026-03-08T07:43:36Z",
+    "updated_at": "2026-07-06T12:01:32Z",
     "size": 99,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

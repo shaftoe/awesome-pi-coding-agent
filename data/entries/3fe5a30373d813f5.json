@@ -1,0 +1,25 @@
+{
+  "id": "studioschade-simplesay",
+  "name": "studioschade-simplesay",
+  "url": "https://github.com/studioschade/simplesay",
+  "source": "github-search",
+  "description": "A simple Pi extension that speaks an agent's reply live while it's still streaming, not after generation finishes like most voice systems. Skips code/tables for free with zero extra tokens, and its tag mode gets reliable speech from small local models that flub tool calls. No bundled TTS, just shells out to any endpoint.",
+  "metadata": {
+    "github_url": "https://github.com/studioschade/simplesay",
+    "repo_full_name": "studioschade/simplesay",
+    "description": "A simple Pi extension that speaks an agent's reply live while it's still streaming, not after generation finishes like most voice systems. Skips code/tables for free with zero extra tokens, and its tag mode gets reliable speech from small local models that flub tool calls. No bundled TTS, just shells out to any endpoint. ",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-06T01:41:37Z",
+    "pushed_at": "2026-07-06T01:57:02Z",
+    "updated_at": "2026-07-06T23:09:14Z",
+    "size": 27,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

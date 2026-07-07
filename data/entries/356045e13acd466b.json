@@ -1,0 +1,25 @@
+{
+  "id": "bearInTheRoad-dylanku2077-pi-agent",
+  "name": "bearInTheRoad-dylanku2077-pi-agent",
+  "url": "https://github.com/bearInTheRoad/dylanku2077-pi-agent",
+  "source": "github-search",
+  "description": "this is how I'd like to regulate my coding agent, using pi as an example",
+  "metadata": {
+    "github_url": "https://github.com/bearInTheRoad/dylanku2077-pi-agent",
+    "repo_full_name": "bearInTheRoad/dylanku2077-pi-agent",
+    "description": "this is how I'd like to regulate my coding agent, using pi as an example",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-06T08:17:19Z",
+    "pushed_at": "2026-07-06T08:18:38Z",
+    "updated_at": "2026-07-06T11:27:18Z",
+    "size": 9,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

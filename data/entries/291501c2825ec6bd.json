@@ -1,0 +1,32 @@
+{
+  "id": "pi-ssh-image-clipboard",
+  "name": "pi-ssh-image-clipboard",
+  "url": "https://www.npmjs.com/package/pi-ssh-image-clipboard",
+  "source": "npm-search",
+  "description": "Pi extension: Ctrl+V image paste into remote pi sessions over ssh/Eternal Terminal reverse tunnels, multi-client-box aware via tmux.",
+  "metadata": {
+    "github_url": "https://github.com/pasky/pi-ssh-image-clipboard",
+    "npm_name": "pi-ssh-image-clipboard",
+    "description": "Pi extension: Ctrl+V image paste into remote pi sessions over ssh/Eternal Terminal reverse tunnels, multi-client-box aware via tmux.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "clipboard",
+      "ssh",
+      "eternal-terminal",
+      "tmux"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-07-06T00:15:44.131Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

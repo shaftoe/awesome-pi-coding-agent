@@ -1,0 +1,33 @@
+{
+  "id": "pi-branch-cost-footer",
+  "name": "pi-branch-cost-footer",
+  "url": "https://www.npmjs.com/package/pi-branch-cost-footer",
+  "source": "npm-search",
+  "description": "pi footer extension that shows cumulative token usage and cost for the current session branch only, not the whole session.",
+  "metadata": {
+    "github_url": "https://github.com/monotykamary/pi-branch-cost-footer",
+    "npm_name": "pi-branch-cost-footer",
+    "description": "pi footer extension that shows cumulative token usage and cost for the current session branch only, not the whole session.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "extension",
+      "footer",
+      "cost",
+      "branch",
+      "session",
+      "tokens",
+      "usage"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-07-06T18:32:49.597Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/picassio/pi-squad",
     "repo_full_name": "picassio/pi-squad",
     "description": "Multi-agent collaboration extension for pi — task decomposition, dependency management, parallel execution, TUI panel",
-    "stars": 44,
+    "stars": 45,
     "forks": 2,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-29T08:09:16Z",
     "pushed_at": "2026-03-30T11:37:56Z",
-    "updated_at": "2026-04-26T12:30:28Z",
+    "updated_at": "2026-07-06T23:34:49Z",
     "size": 168,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

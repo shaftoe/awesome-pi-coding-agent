@@ -1,0 +1,38 @@
+{
+  "id": "sero-labs-sero",
+  "name": "sero-labs-sero",
+  "url": "https://github.com/sero-labs/sero",
+  "source": "github-search",
+  "description": "Local-first desktop workspace for AI agents: browser, terminal, memory, plugins, runtimes, and durable loops.",
+  "metadata": {
+    "github_url": "https://github.com/sero-labs/sero",
+    "repo_full_name": "sero-labs/sero",
+    "description": "Local-first desktop workspace for AI agents: browser, terminal, memory, plugins, runtimes, and durable loops.",
+    "stars": 16,
+    "forks": 2,
+    "open_issues": 9,
+    "topics": [
+      "agent-workspace",
+      "ai",
+      "ai-agent",
+      "automation",
+      "coding-agent",
+      "desktop-app",
+      "developer-tools",
+      "electron",
+      "local-first",
+      "open-source",
+      "pi-agent",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-07T21:21:15Z",
+    "pushed_at": "2026-07-06T22:08:54Z",
+    "updated_at": "2026-07-06T21:36:03Z",
+    "size": 34618,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

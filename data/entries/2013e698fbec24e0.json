@@ -1,0 +1,25 @@
+{
+  "id": "josmunpen-my-pi-setup",
+  "name": "josmunpen-my-pi-setup",
+  "url": "https://github.com/josmunpen/my-pi-setup",
+  "source": "github-search",
+  "description": "A set of extensions to improve pi coding agent experience.",
+  "metadata": {
+    "github_url": "https://github.com/josmunpen/my-pi-setup",
+    "repo_full_name": "josmunpen/my-pi-setup",
+    "description": "A set of extensions to improve pi coding agent experience.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-04T13:55:18Z",
+    "pushed_at": "2026-07-05T15:22:20Z",
+    "updated_at": "2026-07-06T13:52:15Z",
+    "size": 12,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

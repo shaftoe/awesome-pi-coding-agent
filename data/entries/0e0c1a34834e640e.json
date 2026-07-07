@@ -8,7 +8,7 @@
     "github_url": "https://github.com/aliou/obsidian-flint",
     "repo_full_name": "aliou/obsidian-flint",
     "description": "AI agent inside your Obsidian vault — reads, writes, searches, and queries Bases directly from the sidebar",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-05-16T16:12:20Z",
     "pushed_at": "2026-06-30T13:42:14Z",
-    "updated_at": "2026-07-01T11:31:17Z",
+    "updated_at": "2026-07-06T20:20:13Z",
     "size": 229,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

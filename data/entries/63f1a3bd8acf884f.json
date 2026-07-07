@@ -1,0 +1,29 @@
+{
+  "id": "pi-reply",
+  "name": "pi-reply",
+  "url": "https://www.npmjs.com/package/pi-reply",
+  "source": "npm-search",
+  "description": "Browser reply workspace for quoting and steering Pi chats",
+  "metadata": {
+    "github_url": "https://github.com/chronoAP/pi-reply",
+    "npm_name": "pi-reply",
+    "description": "Browser reply workspace for quoting and steering Pi chats",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "reply",
+      "quote"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-07-06T17:56:36.779Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
