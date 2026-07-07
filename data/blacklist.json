@@ -36037,5 +36037,127 @@
 		"reason": "Non-English content: title and description are in Spanish",
 		"blacklisted_at": "2026-07-06T00:05:28.838Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/bighu630/piplus",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-07T00:05:52.567Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Icebear898/Pizza-Ordering-AI-Agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-07T00:05:52.611Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/barvhaim/pi-openwiki",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-07T00:05:52.626Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/liamvinberg/pi-claude-agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-07T00:05:52.719Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=h31TWtWEjis",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-07-07T00:05:52.829Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=LpQ9_HBohaQ",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-07-07T00:05:52.853Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=uuUo7gWuH9w",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-07T00:05:52.913Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/chknd1nner/pi-imessage",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-07T00:05:52.935Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=4ItFgQI2NOM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-07T00:05:53.08Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=kFmhSTh167U",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-07-07T00:05:53.094Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=hJ9hzHIVHCA",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-07T00:05:53.118Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=fyrloZ_R6QA",
+		"reason": "Not about Pi coding agent — Dynasty Warriors video-game OST ('Xia Pi' is a place name), matched only on the search term 'pi-theme'",
+		"blacklisted_at": "2026-07-07T00:08:41.777Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@clevercloud/pi-remote-control",
+		"reason": "Placeholder/name-reservation package (v0.0.1) with no functionality; description explicitly says 'Do not install this placeholder'",
+		"blacklisted_at": "2026-07-07T00:08:41.801Z",
+		"source": "manual"
 	}
 ]

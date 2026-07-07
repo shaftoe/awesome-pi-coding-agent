@@ -8,7 +8,7 @@
     "github_url": "https://github.com/k3-2o/pi-chrollo",
     "repo_full_name": "k3-2o/pi-chrollo",
     "description": "Agentic memory for Pi — verbatim session capture + grep retrieval",
-    "stars": 9,
+    "stars": 11,
     "forks": 2,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-11T00:10:47Z",
     "pushed_at": "2026-07-04T11:58:17Z",
-    "updated_at": "2026-07-04T11:58:20Z",
+    "updated_at": "2026-07-06T20:22:23Z",
     "size": 192,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

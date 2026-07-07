@@ -1,0 +1,30 @@
+{
+  "id": "robertgreiner-pi-retro",
+  "name": "robertgreiner-pi-retro",
+  "url": "https://github.com/robertgreiner/pi-retro",
+  "source": "github-search",
+  "description": "Pi extension that turns agent sessions into retrospective HTML slide decks",
+  "metadata": {
+    "github_url": "https://github.com/robertgreiner/pi-retro",
+    "repo_full_name": "robertgreiner/pi-retro",
+    "description": "Pi extension that turns agent sessions into retrospective HTML slide decks",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "developer-tools",
+      "pi-package",
+      "retrospective"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-06T23:03:52Z",
+    "pushed_at": "2026-07-06T23:03:55Z",
+    "updated_at": "2026-07-06T23:04:16Z",
+    "size": 4,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

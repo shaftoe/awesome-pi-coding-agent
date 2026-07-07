@@ -1,0 +1,20 @@
+{
+  "id": "YT_j9s5w_pFZVQ",
+  "name": "I make a pi extension",
+  "url": "https://youtube.com/watch?v=j9s5w_pFZVQ",
+  "source": "youtube-search",
+  "description": "Hi, I released a plugin for Pi Coding Agent called pi-discuss-mode. It lets you talk things over with the Agent without worry.",
+  "metadata": {
+    "title": "I make a pi extension",
+    "name": "I make a pi extension",
+    "description": "Hi, I released a plugin for Pi Coding Agent called pi-discuss-mode. It lets you talk things over with the Agent without worry.",
+    "channel": "Vinen",
+    "published_at": "2026-07-06T02:16:54Z",
+    "thumbnail": "https://i.ytimg.com/vi/j9s5w_pFZVQ/hqdefault.jpg",
+    "views": 13,
+    "likes": 0,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-coding-agent"
+  },
+  "category": "video"
+}
