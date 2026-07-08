@@ -1,0 +1,31 @@
+{
+  "id": "pi-requesty-discover",
+  "name": "pi-requesty-discover",
+  "url": "https://www.npmjs.com/package/pi-requesty-discover",
+  "source": "npm-search",
+  "description": "Discover available Requesty models for the Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/enolive/pi-requesty-discover",
+    "npm_name": "pi-requesty-discover",
+    "description": "Discover available Requesty models for the Pi Coding Agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extensions",
+      "requesty",
+      "openai-compatible",
+      "models"
+    ],
+    "version": "1.0.3",
+    "published_at": "2026-07-07T23:03:11.005Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

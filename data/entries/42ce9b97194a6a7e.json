@@ -1,0 +1,25 @@
+{
+  "id": "CleverCloud-pi-remote-control",
+  "name": "CleverCloud-pi-remote-control",
+  "url": "https://github.com/CleverCloud/pi-remote-control",
+  "source": "github-search",
+  "description": "pi.dev extension: remote-control a live pi coding-agent session from your phone or the web (relay is a separate private repo).",
+  "metadata": {
+    "github_url": "https://github.com/CleverCloud/pi-remote-control",
+    "repo_full_name": "CleverCloud/pi-remote-control",
+    "description": "pi.dev extension: remote-control a live pi coding-agent session from your phone or the web (relay is a separate private repo).",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-02T09:02:25Z",
+    "pushed_at": "2026-07-03T14:23:06Z",
+    "updated_at": "2026-07-07T07:43:55Z",
+    "size": 25,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "@fingerskier/pi-council",
+  "name": "@fingerskier/pi-council",
+  "url": "https://www.npmjs.com/package/@fingerskier/pi-council",
+  "source": "npm-search",
+  "description": "Council deliberation plugin for Pi with roster templates, personas, audit records, and council workflow prompts",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@fingerskier/pi-council",
+    "description": "Council deliberation plugin for Pi with roster templates, personas, audit records, and council workflow prompts",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "council",
+      "deliberation",
+      "multi-agent",
+      "subagents",
+      "orchestration",
+      "skill",
+      "prompt"
+    ],
+    "version": "2026.7.4",
+    "published_at": "2026-07-07T20:18:42.829Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

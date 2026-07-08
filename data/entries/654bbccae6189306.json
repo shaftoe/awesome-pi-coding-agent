@@ -10,7 +10,7 @@
     "description": "Telegram bridge for the Pi coding agent — continue sessions from your phone with voice, images, and handback",
     "stars": 115,
     "forks": 20,
-    "open_issues": 6,
+    "open_issues": 5,
     "topics": [
       "ai-agents",
       "coding-agent",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-19T22:04:51Z",
-    "pushed_at": "2026-05-16T05:36:27Z",
-    "updated_at": "2026-07-05T07:48:49Z",
-    "size": 702,
+    "pushed_at": "2026-07-07T18:05:46Z",
+    "updated_at": "2026-07-07T18:06:10Z",
+    "size": 366,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

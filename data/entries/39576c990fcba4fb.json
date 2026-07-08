@@ -1,0 +1,25 @@
+{
+  "id": "aposner2-pi-tools",
+  "name": "aposner2-pi-tools",
+  "url": "https://github.com/aposner2/pi-tools",
+  "source": "github-search",
+  "description": "Consolidated pi coding agent tools: A2A WebSocket chat with mDNS peer discovery, and a sudoer extension that handles password prompts securely. Includes skills and prompts for multi-agent coordination.",
+  "metadata": {
+    "github_url": "https://github.com/aposner2/pi-tools",
+    "repo_full_name": "aposner2/pi-tools",
+    "description": "Consolidated pi coding agent tools: A2A WebSocket chat with mDNS peer discovery, and a sudoer extension that handles password prompts securely. Includes skills and prompts for multi-agent coordination.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-20T20:00:04Z",
+    "pushed_at": "2026-07-04T02:47:47Z",
+    "updated_at": "2026-07-07T07:58:20Z",
+    "size": 67,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}
