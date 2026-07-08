@@ -1,0 +1,20 @@
+{
+  "id": "YT_dPkeDxBfI2M",
+  "name": "Pi is a minimal agent harness",
+  "url": "https://youtube.com/watch?v=dPkeDxBfI2M",
+  "source": "youtube-search",
+  "description": "Pi is a minimal agent harness. https://pi.dev/ i ships with powerful defaults but skips features like sub-agents and plan mode.",
+  "metadata": {
+    "title": "Pi is a minimal agent harness",
+    "name": "Pi is a minimal agent harness",
+    "description": "Pi is a minimal agent harness. https://pi.dev/ i ships with powerful defaults but skips features like sub-agents and plan mode.",
+    "channel": "RandomTechAce",
+    "published_at": "2026-07-07T11:04:13Z",
+    "thumbnail": "https://i.ytimg.com/vi/dPkeDxBfI2M/hqdefault.jpg",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-package"
+  },
+  "category": "video"
+}

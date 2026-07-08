@@ -1,0 +1,25 @@
+{
+  "id": "dmaxz-pi-agent-copilot-extension",
+  "name": "dmaxz-pi-agent-copilot-extension",
+  "url": "https://github.com/dmaxz/pi-agent-copilot-extension",
+  "source": "github-search",
+  "description": "Pi Agent Copilot Extension — terminal-native AI copilot with orchestrator, workplan server, zero-trust execution, and MCP bridge",
+  "metadata": {
+    "github_url": "https://github.com/dmaxz/pi-agent-copilot-extension",
+    "repo_full_name": "dmaxz/pi-agent-copilot-extension",
+    "description": "Pi Agent Copilot Extension — terminal-native AI copilot with orchestrator, workplan server, zero-trust execution, and MCP bridge",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-03T03:28:28Z",
+    "pushed_at": "2026-07-07T04:52:47Z",
+    "updated_at": "2026-07-07T04:52:51Z",
+    "size": 73,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/iwtown/pi-artisan",
     "repo_full_name": "iwtown/pi-artisan",
     "description": "Pi Agent artisan quality gate — validates skills, extensions, prompts, themes, packages for the human-packaged capability track",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-13T01:23:17Z",
     "pushed_at": "2026-07-04T09:42:19Z",
-    "updated_at": "2026-07-04T09:42:24Z",
+    "updated_at": "2026-07-07T08:01:31Z",
     "size": 293,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

@@ -1,0 +1,33 @@
+{
+  "id": "clankercode-pi-c2c",
+  "name": "clankercode-pi-c2c",
+  "url": "https://github.com/clankercode/pi-c2c",
+  "source": "github-search",
+  "description": "Pi extension for native c2c peer messaging between AI coding agents",
+  "metadata": {
+    "github_url": "https://github.com/clankercode/pi-c2c",
+    "repo_full_name": "clankercode/pi-c2c",
+    "description": "Pi extension for native c2c peer messaging between AI coding agents",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "c2c",
+      "coding-agents",
+      "messaging",
+      "pi",
+      "pi-extension",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-18T11:19:45Z",
+    "pushed_at": "2026-07-06T13:45:09Z",
+    "updated_at": "2026-07-07T07:57:28Z",
+    "size": 807,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "stdfox-pi-random",
+  "name": "stdfox-pi-random",
+  "url": "https://github.com/stdfox/pi-random",
+  "source": "github-search",
+  "description": "Add a random ability to your Pi Agent",
+  "metadata": {
+    "github_url": "https://github.com/stdfox/pi-random",
+    "repo_full_name": "stdfox/pi-random",
+    "description": "Add a random ability to your Pi Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-agent",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "pi-skill"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-07T06:24:08Z",
+    "pushed_at": "2026-07-07T23:22:13Z",
+    "updated_at": "2026-07-07T23:22:17Z",
+    "size": 42,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

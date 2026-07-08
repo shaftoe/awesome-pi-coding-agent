@@ -8,7 +8,7 @@
     "github_url": "https://github.com/offline-ant/pi-ant",
     "repo_full_name": "offline-ant/pi-ant",
     "description": "Ant's local pi extension package",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-23T06:15:54Z",
     "pushed_at": "2026-07-03T17:43:59Z",
-    "updated_at": "2026-07-03T17:44:03Z",
+    "updated_at": "2026-07-07T07:57:14Z",
     "size": 475,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"

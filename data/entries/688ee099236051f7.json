@@ -8,7 +8,7 @@
     "github_url": "https://github.com/lulucatdev/pi-themes",
     "repo_full_name": "lulucatdev/pi-themes",
     "description": "OpenCode-ported themes and interactive /theme command for pi",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-21T00:30:05Z",
     "pushed_at": "2026-03-21T22:14:49Z",
-    "updated_at": "2026-07-05T01:44:51Z",
+    "updated_at": "2026-07-07T20:53:50Z",
     "size": 17,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

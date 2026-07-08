@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ang-XWBWZ/pi-agent-extensions",
     "repo_full_name": "ang-XWBWZ/pi-agent-extensions",
     "description": "",
-    "stars": 6,
+    "stars": 7,
     "forks": 0,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-15T16:33:03Z",
     "pushed_at": "2026-06-29T09:18:10Z",
-    "updated_at": "2026-06-29T09:18:22Z",
+    "updated_at": "2026-07-07T07:45:45Z",
     "size": 707,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

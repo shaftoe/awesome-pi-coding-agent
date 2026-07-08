@@ -1,0 +1,25 @@
+{
+  "id": "eiei114-pi-agent-bundles",
+  "name": "eiei114-pi-agent-bundles",
+  "url": "https://github.com/eiei114/pi-agent-bundles",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/eiei114/pi-agent-bundles",
+    "repo_full_name": "eiei114/pi-agent-bundles",
+    "description": "",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 4,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-30T05:38:00Z",
+    "pushed_at": "2026-07-07T20:34:44Z",
+    "updated_at": "2026-07-07T19:57:46Z",
+    "size": 673,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

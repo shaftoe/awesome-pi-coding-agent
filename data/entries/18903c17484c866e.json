@@ -1,0 +1,31 @@
+{
+  "id": "@nguyenquangthai/pi-btw",
+  "name": "@nguyenquangthai/pi-btw",
+  "url": "https://www.npmjs.com/package/@nguyenquangthai/pi-btw",
+  "source": "npm-search",
+  "description": "Ask non-blocking side questions in Pi without interrupting your main coding session.",
+  "metadata": {
+    "github_url": "https://github.com/QuangThai/pi-btw",
+    "npm_name": "@nguyenquangthai/pi-btw",
+    "description": "Ask non-blocking side questions in Pi without interrupting your main coding session.",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "pi-extension",
+      "btw",
+      "side-questions",
+      "agent",
+      "tui"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-07-07T16:49:27.680Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

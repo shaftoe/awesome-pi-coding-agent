@@ -1,0 +1,25 @@
+{
+  "id": "supperjet-hi-pi",
+  "name": "supperjet-hi-pi",
+  "url": "https://github.com/supperjet/hi-pi",
+  "source": "github-search",
+  "description": "Pi agent lessons",
+  "metadata": {
+    "github_url": "https://github.com/supperjet/hi-pi",
+    "repo_full_name": "supperjet/hi-pi",
+    "description": "Pi agent lessons",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-02T07:58:34Z",
+    "pushed_at": "2026-07-02T08:17:09Z",
+    "updated_at": "2026-07-07T01:20:35Z",
+    "size": 830,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

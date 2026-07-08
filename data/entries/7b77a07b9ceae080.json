@@ -3,11 +3,11 @@
   "name": "@alexeiled/pi-fusion",
   "url": "https://www.npmjs.com/package/@alexeiled/pi-fusion",
   "source": "npm-search",
-  "description": "Subagent-native multi-model deliberation for Pi",
+  "description": "Stronger answers for hard Pi questions via a parallel model panel + judge, built on pi-subagents",
   "metadata": {
     "github_url": "https://github.com/alexei-led/pi-fusion",
     "npm_name": "@alexeiled/pi-fusion",
-    "description": "Subagent-native multi-model deliberation for Pi",
+    "description": "Stronger answers for hard Pi questions via a parallel model panel + judge, built on pi-subagents",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -16,8 +16,8 @@
       "multi-agent",
       "multi-model"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-07-06T16:14:48.264Z",
+    "version": "0.2.2",
+    "published_at": "2026-07-07T16:09:13.573Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

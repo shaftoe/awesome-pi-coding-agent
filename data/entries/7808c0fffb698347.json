@@ -1,0 +1,25 @@
+{
+  "id": "aprimediet-pi-self-taught",
+  "name": "aprimediet-pi-self-taught",
+  "url": "https://github.com/aprimediet/pi-self-taught",
+  "source": "github-search",
+  "description": "Extension for pi coding agent that enable pi to automatically learn project and create related skills",
+  "metadata": {
+    "github_url": "https://github.com/aprimediet/pi-self-taught",
+    "repo_full_name": "aprimediet/pi-self-taught",
+    "description": "Extension for pi coding agent that enable pi to automatically learn project and create related skills",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-25T13:24:32Z",
+    "pushed_at": "2026-06-25T13:26:08Z",
+    "updated_at": "2026-07-07T07:38:09Z",
+    "size": 32,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

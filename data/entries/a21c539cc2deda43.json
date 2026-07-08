@@ -1,0 +1,33 @@
+{
+  "id": "rodh-pi-foreman",
+  "name": "rodh-pi-foreman",
+  "url": "https://github.com/rodh/pi-foreman",
+  "source": "github-search",
+  "description": "A Pi extension that directs coding agents but never writes code itself — plans with you, dispatches context-isolated tasks to small local models, and verifies every result against the git diff.",
+  "metadata": {
+    "github_url": "https://github.com/rodh/pi-foreman",
+    "repo_full_name": "rodh/pi-foreman",
+    "description": "A Pi extension that directs coding agents but never writes code itself — plans with you, dispatches context-isolated tasks to small local models, and verifies every result against the git diff.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agentic-workflow",
+      "ai-agents",
+      "coding-agent",
+      "llm",
+      "local-llm",
+      "pi",
+      "qwen"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-03T23:23:34Z",
+    "pushed_at": "2026-07-03T23:23:37Z",
+    "updated_at": "2026-07-07T07:59:11Z",
+    "size": 13,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

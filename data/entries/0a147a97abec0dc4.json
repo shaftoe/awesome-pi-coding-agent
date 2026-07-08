@@ -8,7 +8,7 @@
     "github_url": "https://github.com/quanpersie2001/pi-rules",
     "repo_full_name": "quanpersie2001/pi-rules",
     "description": "Native Pi extension for path-scoped project rules — auto-injects context-aware .pi/rules into agent turns.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-06-15T22:01:56Z",
     "pushed_at": "2026-07-02T19:48:47Z",
-    "updated_at": "2026-07-02T19:48:46Z",
+    "updated_at": "2026-07-07T07:44:38Z",
     "size": 552,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

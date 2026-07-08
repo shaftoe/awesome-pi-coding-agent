@@ -1,0 +1,25 @@
+{
+  "id": "donovan-yohan-pod",
+  "name": "donovan-yohan-pod",
+  "url": "https://github.com/donovan-yohan/pod",
+  "source": "github-search",
+  "description": "pod — build your own coding agent, one Pi extension at a time. A self-hosting walkthrough: bare Pi agent → self-built capabilities (pi + Claude).",
+  "metadata": {
+    "github_url": "https://github.com/donovan-yohan/pod",
+    "repo_full_name": "donovan-yohan/pod",
+    "description": "pod — build your own coding agent, one Pi extension at a time. A self-hosting walkthrough: bare Pi agent → self-built capabilities (pi + Claude).",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 7,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-01T22:24:43Z",
+    "pushed_at": "2026-07-01T23:42:48Z",
+    "updated_at": "2026-07-07T06:24:39Z",
+    "size": 23,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}
