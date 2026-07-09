@@ -1,0 +1,25 @@
+{
+  "id": "rubengarciajr-pi-desktop",
+  "name": "rubengarciajr-pi-desktop",
+  "url": "https://github.com/rubengarciajr/pi-desktop",
+  "source": "github-search",
+  "description": "Pi Desktop - a full-featured macOS desktop app for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/rubengarciajr/pi-desktop",
+    "repo_full_name": "rubengarciajr/pi-desktop",
+    "description": "Pi Desktop - a full-featured macOS desktop app for the Pi coding agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-21T17:06:24Z",
+    "pushed_at": "2026-07-08T22:49:37Z",
+    "updated_at": "2026-07-08T22:49:40Z",
+    "size": 2075,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

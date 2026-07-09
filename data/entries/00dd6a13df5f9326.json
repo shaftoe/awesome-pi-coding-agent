@@ -1,0 +1,25 @@
+{
+  "id": "gattjoe-pi-hotmail",
+  "name": "gattjoe-pi-hotmail",
+  "url": "https://github.com/gattjoe/pi-hotmail",
+  "source": "github-search",
+  "description": "Microsoft/Hotmail email access for the Pi coding agent, via Microsoft Graph",
+  "metadata": {
+    "github_url": "https://github.com/gattjoe/pi-hotmail",
+    "repo_full_name": "gattjoe/pi-hotmail",
+    "description": "Microsoft/Hotmail email access for the Pi coding agent, via Microsoft Graph",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-07T02:34:29Z",
+    "pushed_at": "2026-07-08T13:20:11Z",
+    "updated_at": "2026-07-08T17:12:54Z",
+    "size": 9,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

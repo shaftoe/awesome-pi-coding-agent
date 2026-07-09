@@ -3,19 +3,19 @@
   "name": "pi-universal-hud",
   "url": "https://www.npmjs.com/package/pi-universal-hud",
   "source": "npm-search",
-  "description": "Universal HUD statusline/footer extension for Pi with Codex usage windows and Solarized Light styling.",
+  "description": "Universal HUD statusline/footer extension for Pi with Codex usage windows and theme-aware Solarized styling.",
   "metadata": {
     "github_url": null,
     "npm_name": "pi-universal-hud",
-    "description": "Universal HUD statusline/footer extension for Pi with Codex usage windows and Solarized Light styling.",
+    "description": "Universal HUD statusline/footer extension for Pi with Codex usage windows and theme-aware Solarized styling.",
     "keywords": [
       "pi-package",
       "pi-extension",
       "hud",
       "statusline"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-07-07T14:24:08.886Z",
+    "version": "0.1.2",
+    "published_at": "2026-07-08T17:19:40.933Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

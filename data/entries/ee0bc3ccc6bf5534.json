@@ -1,0 +1,33 @@
+{
+  "id": "calionauta-pi-leakguard",
+  "name": "calionauta-pi-leakguard",
+  "url": "https://github.com/calionauta/pi-leakguard",
+  "source": "github-search",
+  "description": "seatbelt for my pi.dev agent: blocks secret-file access, redacts creds from output, blocks egress + git leaks.",
+  "metadata": {
+    "github_url": "https://github.com/calionauta/pi-leakguard",
+    "repo_full_name": "calionauta/pi-leakguard",
+    "description": "seatbelt for my pi.dev agent: blocks secret-file access, redacts creds from output, blocks egress + git leaks.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "dlp",
+      "llm",
+      "pi-coding-agent",
+      "prompt-injection",
+      "secrets",
+      "security",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-08T11:44:56Z",
+    "pushed_at": "2026-07-08T21:22:56Z",
+    "updated_at": "2026-07-08T21:22:40Z",
+    "size": 148,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

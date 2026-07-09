@@ -1,0 +1,31 @@
+{
+  "id": "pi-terminal-bell",
+  "name": "pi-terminal-bell",
+  "url": "https://www.npmjs.com/package/pi-terminal-bell",
+  "source": "npm-search",
+  "description": "Rings the terminal bell when a pi session finishes and is waiting on you, staying quiet when you're already looking at its tmux pane.",
+  "metadata": {
+    "github_url": "https://github.com/thmtz/pi-terminal-bell",
+    "npm_name": "pi-terminal-bell",
+    "description": "Rings the terminal bell when a pi session finishes and is waiting on you, staying quiet when you're already looking at its tmux pane.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "terminal",
+      "bell",
+      "notification",
+      "tmux"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-08T23:05:39.186Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

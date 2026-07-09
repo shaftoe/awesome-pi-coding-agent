@@ -1,0 +1,31 @@
+{
+  "id": "@bytesbrains/pi-review-gate",
+  "name": "@bytesbrains/pi-review-gate",
+  "url": "https://www.npmjs.com/package/@bytesbrains/pi-review-gate",
+  "source": "npm-search",
+  "description": "CI-level merge guardian for AI agents — required reviewers, breaking change detection, stale PR cleanup, and review automation.",
+  "metadata": {
+    "github_url": "https://github.com/bytesbrains/pi-review-gate",
+    "npm_name": "@bytesbrains/pi-review-gate",
+    "description": "CI-level merge guardian for AI agents — required reviewers, breaking change detection, stale PR cleanup, and review automation.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "governance",
+      "ci",
+      "code-review",
+      "merge-gate",
+      "breaking-changes"
+    ],
+    "version": "1.1.4",
+    "published_at": "2026-07-08T01:06:42.732Z",
+    "npm_downloads_monthly": 71,
+    "npm_downloads_weekly": 22,
+    "npm_score_final": 14.067096,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

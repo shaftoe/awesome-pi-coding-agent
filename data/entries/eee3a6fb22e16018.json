@@ -1,0 +1,30 @@
+{
+  "id": "@hugowiz/pi-tree-sitter",
+  "name": "@hugowiz/pi-tree-sitter",
+  "url": "https://www.npmjs.com/package/@hugowiz/pi-tree-sitter",
+  "source": "npm-search",
+  "description": "Pi extension: Tree-sitter structural code analysis for the AI assistant — AST querying, directory analysis, docstring extraction, and dependency/call/inheritance graphs",
+  "metadata": {
+    "github_url": "https://github.com/UgoMendesDonelli/pi-tree-sitter",
+    "npm_name": "@hugowiz/pi-tree-sitter",
+    "description": "Pi extension: Tree-sitter structural code analysis for the AI assistant — AST querying, directory analysis, docstring extraction, and dependency/call/inheritance graphs",
+    "keywords": [
+      "pi-package",
+      "tree-sitter",
+      "code-analysis",
+      "ast",
+      "static-analysis",
+      "code-graph"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-07-08T10:33:23.637Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

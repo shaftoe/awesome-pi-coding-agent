@@ -1,0 +1,29 @@
+{
+  "id": "pi-tmux-status",
+  "name": "pi-tmux-status",
+  "url": "https://www.npmjs.com/package/pi-tmux-status",
+  "source": "npm-search",
+  "description": "Show pi panel status (idle/working/asking) as colored icons in the tmux status bar",
+  "metadata": {
+    "github_url": "https://github.com/chanson/pi-tmux-status",
+    "npm_name": "pi-tmux-status",
+    "description": "Show pi panel status (idle/working/asking) as colored icons in the tmux status bar",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "tmux",
+      "status",
+      "statusbar"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-07-08T18:54:28.814Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
