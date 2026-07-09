@@ -1,0 +1,31 @@
+{
+  "id": "@bytesbrains/pi-tool-awareness-gate",
+  "name": "@bytesbrains/pi-tool-awareness-gate",
+  "url": "https://www.npmjs.com/package/@bytesbrains/pi-tool-awareness-gate",
+  "source": "npm-search",
+  "description": "Tool limitation awareness layer for AI agents — intercepts tool results, infers quality signals, injects limitation reminders, and logs structured envelopes for evaluation.",
+  "metadata": {
+    "github_url": "https://github.com/bytesbrains/pi-tool-awareness-gate",
+    "npm_name": "@bytesbrains/pi-tool-awareness-gate",
+    "description": "Tool limitation awareness layer for AI agents — intercepts tool results, infers quality signals, injects limitation reminders, and logs structured envelopes for evaluation.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "tool-awareness",
+      "quality-signals",
+      "limitation-detection",
+      "agent-protocol",
+      "observability"
+    ],
+    "version": "1.0.4",
+    "published_at": "2026-07-08T01:06:32.001Z",
+    "npm_downloads_monthly": 32,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 11.340566,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

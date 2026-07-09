@@ -1,0 +1,29 @@
+{
+  "id": "pi-extension-no-timeout",
+  "name": "pi-extension-no-timeout",
+  "url": "https://www.npmjs.com/package/pi-extension-no-timeout",
+  "source": "npm-search",
+  "description": "Strips the timeout parameter from all bash tool calls in pi coding agent, preventing long-running commands from being killed.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-extension-no-timeout",
+    "description": "Strips the timeout parameter from all bash tool calls in pi coding agent, preventing long-running commands from being killed.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "timeout",
+      "bash"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-07-08T13:40:30.463Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

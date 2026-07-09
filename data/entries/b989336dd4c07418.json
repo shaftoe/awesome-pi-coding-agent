@@ -1,0 +1,31 @@
+{
+  "id": "@bytesbrains/pi-contrib-gate",
+  "name": "@bytesbrains/pi-contrib-gate",
+  "url": "https://www.npmjs.com/package/@bytesbrains/pi-contrib-gate",
+  "source": "npm-search",
+  "description": "Contribution gateway for AI agents — enforce branch naming, conventional commits, pre-commit quality gates, and PR automation.",
+  "metadata": {
+    "github_url": "https://github.com/bytesbrains/pi-contrib-gate",
+    "npm_name": "@bytesbrains/pi-contrib-gate",
+    "description": "Contribution gateway for AI agents — enforce branch naming, conventional commits, pre-commit quality gates, and PR automation.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "governance",
+      "git",
+      "conventional-commits",
+      "ci",
+      "devops"
+    ],
+    "version": "1.9.1",
+    "published_at": "2026-07-08T01:06:45.390Z",
+    "npm_downloads_monthly": 78,
+    "npm_downloads_weekly": 20,
+    "npm_score_final": 14.307848,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

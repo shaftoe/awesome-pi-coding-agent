@@ -3,11 +3,11 @@
   "name": "pi-devin-fusion",
   "url": "https://www.npmjs.com/package/pi-devin-fusion",
   "source": "npm-search",
-  "description": "Devin sidekick planner/executor split for pi, inspired by devin fusion",
+  "description": "Devin sidekick planner/executor split for pi, inspired by opencode-fusion",
   "metadata": {
     "github_url": "https://github.com/khanhdeptraivaicachuong/pi-devin-fusion",
     "npm_name": "pi-devin-fusion",
-    "description": "Devin sidekick planner/executor split for pi, inspired by devin fusion",
+    "description": "Devin sidekick planner/executor split for pi, inspired by opencode-fusion",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -19,8 +19,8 @@
       "coding-agent",
       "llm"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-07-07T11:44:24.510Z",
+    "version": "0.1.1",
+    "published_at": "2026-07-08T11:34:05.615Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

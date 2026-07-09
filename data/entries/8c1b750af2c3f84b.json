@@ -1,0 +1,25 @@
+{
+  "id": "rokcso-pi-volcengine-agent-plan",
+  "name": "rokcso-pi-volcengine-agent-plan",
+  "url": "https://github.com/rokcso/pi-volcengine-agent-plan",
+  "source": "github-search",
+  "description": "A pi extension that registers Volcengine Ark Agent Plan as a custom OpenAI-compatible provider, with verified thinking-depth support for domestic coding models (Doubao, DeepSeek, GLM, Kimi, MiniMax).",
+  "metadata": {
+    "github_url": "https://github.com/rokcso/pi-volcengine-agent-plan",
+    "repo_full_name": "rokcso/pi-volcengine-agent-plan",
+    "description": "A pi extension that registers Volcengine Ark Agent Plan as a custom OpenAI-compatible provider, with verified thinking-depth support for domestic coding models (Doubao, DeepSeek, GLM, Kimi, MiniMax).",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-07T10:50:38Z",
+    "pushed_at": "2026-07-08T03:34:34Z",
+    "updated_at": "2026-07-08T07:13:04Z",
+    "size": 15,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

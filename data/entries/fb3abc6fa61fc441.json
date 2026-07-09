@@ -1,0 +1,31 @@
+{
+  "id": "@bytesbrains/pi-factory-gate",
+  "name": "@bytesbrains/pi-factory-gate",
+  "url": "https://www.npmjs.com/package/@bytesbrains/pi-factory-gate",
+  "source": "npm-search",
+  "description": "AI Factory gateway for pi agents — dispatch jobs, manage environments, list agents/workers/workflows, stream results from a wrok.in orchestrator.",
+  "metadata": {
+    "github_url": "https://github.com/bytesbrains/pi-factory-gate",
+    "npm_name": "@bytesbrains/pi-factory-gate",
+    "description": "AI Factory gateway for pi agents — dispatch jobs, manage environments, list agents/workers/workflows, stream results from a wrok.in orchestrator.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "ai-factory",
+      "orchestrator",
+      "agent-management",
+      "job-dispatch",
+      "workflow"
+    ],
+    "version": "1.0.3",
+    "published_at": "2026-07-08T01:06:48.200Z",
+    "npm_downloads_monthly": 29,
+    "npm_downloads_weekly": 6,
+    "npm_score_final": 10.85174,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "@bytesbrains/pi-project-gate",
+  "name": "@bytesbrains/pi-project-gate",
+  "url": "https://www.npmjs.com/package/@bytesbrains/pi-project-gate",
+  "source": "npm-search",
+  "description": "Project orchestration gate for AI agents — structured issues, WIP limits, dependency blocking, and auto-generated release notes.",
+  "metadata": {
+    "github_url": "https://github.com/bytesbrains/pi-project-gate",
+    "npm_name": "@bytesbrains/pi-project-gate",
+    "description": "Project orchestration gate for AI agents — structured issues, WIP limits, dependency blocking, and auto-generated release notes.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "governance",
+      "project-management",
+      "release-notes",
+      "issue-tracking"
+    ],
+    "version": "1.2.3",
+    "published_at": "2026-07-08T01:06:40.041Z",
+    "npm_downloads_monthly": 45,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 12.366681,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

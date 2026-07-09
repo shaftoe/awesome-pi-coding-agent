@@ -9,8 +9,8 @@
     "repo_full_name": "reesepj/reese-pi",
     "description": "A reproducible, agent-first workstation: verifier loop, Claude Code routing, Pi-to-Pi agent comms, browser control, and a production Telegram agent.",
     "stars": 1,
-    "forks": 0,
-    "open_issues": 0,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "agent-orchestration",
       "agentic-ai",
@@ -26,9 +26,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-19T03:42:49Z",
-    "pushed_at": "2026-06-18T05:38:58Z",
-    "updated_at": "2026-06-18T05:39:01Z",
-    "size": 7401,
+    "pushed_at": "2026-07-08T14:05:30Z",
+    "updated_at": "2026-07-08T14:07:10Z",
+    "size": 7428,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

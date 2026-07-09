@@ -3,11 +3,11 @@
   "name": "pi-maestro-teammate",
   "url": "https://www.npmjs.com/package/pi-maestro-teammate",
   "source": "npm-search",
-  "description": "Pi extension for teammate dispatch with P0 three-axis decoupling (name, reply_to, lifecycle)",
+  "description": "Pi extension for teammate dispatch with P0 three-axis decoupling (name, reply_to)",
   "metadata": {
     "github_url": null,
     "npm_name": "pi-maestro-teammate",
-    "description": "Pi extension for teammate dispatch with P0 three-axis decoupling (name, reply_to, lifecycle)",
+    "description": "Pi extension for teammate dispatch with P0 three-axis decoupling (name, reply_to)",
     "keywords": [
       "pi-package",
       "pi",
@@ -15,8 +15,8 @@
       "teammate",
       "agents"
     ],
-    "version": "0.2.0",
-    "published_at": "2026-07-07T06:38:21.435Z",
+    "version": "0.3.0",
+    "published_at": "2026-07-08T03:27:17.236Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

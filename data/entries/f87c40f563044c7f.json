@@ -1,0 +1,25 @@
+{
+  "id": "anunkai1-pi-venice-image",
+  "name": "anunkai1-pi-venice-image",
+  "url": "https://github.com/anunkai1/pi-venice-image",
+  "source": "github-search",
+  "description": "Venice image-generation tool for the pi coding agent. Registers venice_generate_image + venice_generate_images.",
+  "metadata": {
+    "github_url": "https://github.com/anunkai1/pi-venice-image",
+    "repo_full_name": "anunkai1/pi-venice-image",
+    "description": "Venice image-generation tool for the pi coding agent. Registers venice_generate_image + venice_generate_images.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-08T22:17:07Z",
+    "pushed_at": "2026-07-08T22:17:13Z",
+    "updated_at": "2026-07-08T22:18:44Z",
+    "size": 8,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

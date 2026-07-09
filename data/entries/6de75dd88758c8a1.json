@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Traveler0014/awesome-pi-agent",
     "repo_full_name": "Traveler0014/awesome-pi-agent",
     "description": "awesome extensions for pi coding agent",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,10 +16,10 @@
     "archived": false,
     "created_at": "2026-06-26T12:58:02Z",
     "pushed_at": "2026-06-26T12:59:33Z",
-    "updated_at": "2026-06-26T12:59:38Z",
+    "updated_at": "2026-07-08T19:30:21Z",
     "size": 27,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

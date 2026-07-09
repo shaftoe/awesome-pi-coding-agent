@@ -8,7 +8,7 @@
     "github_url": "https://github.com/getpipher/pi-package-index",
     "repo_full_name": "getpipher/pi-package-index",
     "description": "Unofficial community index of Pi coding-agent packages — ranked by downloads + stars + maintenance, with a public API. Not affiliated with earendil-works.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -30,9 +30,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-23T10:32:56Z",
-    "pushed_at": "2026-07-07T08:52:19Z",
-    "updated_at": "2026-07-07T08:52:25Z",
-    "size": 5628,
+    "pushed_at": "2026-07-08T08:03:08Z",
+    "updated_at": "2026-07-08T21:34:04Z",
+    "size": 5770,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
