@@ -1,0 +1,27 @@
+{
+  "id": "@agent-plan/pi-adapter",
+  "name": "@agent-plan/pi-adapter",
+  "url": "https://www.npmjs.com/package/@agent-plan/pi-adapter",
+  "source": "npm-search",
+  "description": "Pi agent extension for Agent Plan — structured project planning in .planner/",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@agent-plan/pi-adapter",
+    "description": "Pi agent extension for Agent Plan — structured project planning in .planner/",
+    "keywords": [
+      "pi-package",
+      "agent-plan",
+      "planner"
+    ],
+    "version": "0.2.5",
+    "published_at": "2026-07-09T14:31:41.876Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

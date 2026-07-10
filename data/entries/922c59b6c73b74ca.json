@@ -1,0 +1,34 @@
+{
+  "id": "pi-context-optimizer",
+  "name": "pi-context-optimizer",
+  "url": "https://www.npmjs.com/package/pi-context-optimizer",
+  "source": "npm-search",
+  "description": "Plan → Review → Execute → Walkthrough loop for the pi coding agent. A structured, gate-driven workflow engine with human-in-the-loop approval.",
+  "metadata": {
+    "github_url": "https://github.com/tufaan42/pi-context-optimizer",
+    "npm_name": "pi-context-optimizer",
+    "description": "Plan → Review → Execute → Walkthrough loop for the pi coding agent. A structured, gate-driven workflow engine with human-in-the-loop approval.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "context-optimizer",
+      "plan",
+      "review",
+      "approve",
+      "workflow",
+      "gate",
+      "human-in-the-loop"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-07-09T18:00:53.293Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

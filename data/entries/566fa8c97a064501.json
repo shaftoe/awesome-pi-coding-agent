@@ -8,8 +8,8 @@
     "github_url": "https://github.com/perezdap/pi-xai-grok-oauth",
     "repo_full_name": "perezdap/pi-xai-grok-oauth",
     "description": "xAI Grok OAuth provider for pi (SuperGrok / Premium subscription support)",
-    "stars": 0,
-    "forks": 0,
+    "stars": 1,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "ai",
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-05-16T02:20:18Z",
     "pushed_at": "2026-06-09T01:22:08Z",
-    "updated_at": "2026-06-09T01:22:12Z",
+    "updated_at": "2026-07-09T15:56:21Z",
     "size": 64,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

@@ -1,0 +1,26 @@
+{
+  "id": "avtc-pi-parallel-work-guardrail",
+  "name": "avtc-pi-parallel-work-guardrail",
+  "url": "https://www.npmjs.com/package/avtc-pi-parallel-work-guardrail",
+  "source": "npm-search",
+  "description": "Parallel work guardrail for pi — block/confirm git operations that disrupt parallel work",
+  "metadata": {
+    "github_url": "https://github.com/avtc/avtc-pi-parallel-work-guardrail",
+    "npm_name": "avtc-pi-parallel-work-guardrail",
+    "description": "Parallel work guardrail for pi — block/confirm git operations that disrupt parallel work",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-07-10T00:01:06.934Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -3,15 +3,15 @@
   "name": "Extensions - Awesome Pi Coding Agent",
   "url": "https://awesome-pi.site/extensions/",
   "source": "brave-web-search",
-  "description": "Extend Pi's capabilities — custom tools, hooks, integrations, skills, and MCP servers · Pi extension that keeps noisy tool output out of your context window. Automatically rewrites shell commands through Hypa for local, deterministic compression, context-aware file tools, and recoverable evidence",
+  "description": "A Bun-native extension pack for Pi: web access, subagents, revamped core tools, ANSI-compatible themes, fzf-style completions, Telegram mode, and more. ... Configurable web access extension for pi with per-tool provider routing and explicit provider option schemas for search, contents, quick grounded answers, and research. ... Pi tools for context-safe plain-text web, GitHub, Wikipedia, Reddit search, and page fetch.",
   "metadata": {
     "title": "Extensions - Awesome Pi Coding Agent",
     "name": "Extensions - Awesome Pi Coding Agent",
-    "description": "Extend Pi's capabilities — custom tools, hooks, integrations, skills, and MCP servers · Pi extension that keeps noisy tool output out of your context window. Automatically rewrites shell commands through Hypa for local, deterministic compression, context-aware file tools, and recoverable evidence",
+    "description": "A Bun-native extension pack for Pi: web access, subagents, revamped core tools, ANSI-compatible themes, fzf-style completions, Telegram mode, and more. ... Configurable web access extension for pi with per-tool provider routing and explicit provider option schemas for search, contents, quick grounded answers, and research. ... Pi tools for context-safe plain-text web, GitHub, Wikipedia, Reddit search, and page fetch.",
     "published_at": "2026-05-30T00:00:00",
     "source_site": "Awesome-pi",
     "source_url": "https://awesome-pi.site/extensions/",
-    "discovery_hint": "brave:pi-agent"
+    "discovery_hint": "brave:pi-theme"
   },
   "category": "article"
 }
