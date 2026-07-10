@@ -1,0 +1,25 @@
+{
+  "id": "KedraVt-gstack-pi",
+  "name": "KedraVt-gstack-pi",
+  "url": "https://github.com/KedraVt/gstack-pi",
+  "source": "github-search",
+  "description": "gstack-pi is a native extension for the Pi coding agent harness. It gives users the possibility to integrate gstack browser tools, workflows and skills.",
+  "metadata": {
+    "github_url": "https://github.com/KedraVt/gstack-pi",
+    "repo_full_name": "KedraVt/gstack-pi",
+    "description": "gstack-pi is a native extension for the Pi coding agent harness. It gives users the possibility to integrate gstack browser tools, workflows and skills.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-08T22:58:34Z",
+    "pushed_at": "2026-07-09T00:52:02Z",
+    "updated_at": "2026-07-09T13:17:43Z",
+    "size": 431,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lloupp-pi-config",
+  "name": "lloupp-pi-config",
+  "url": "https://github.com/lloupp/pi-config",
+  "source": "github-search",
+  "description": "Personal Pi Coding Agent configuration for Termux",
+  "metadata": {
+    "github_url": "https://github.com/lloupp/pi-config",
+    "repo_full_name": "lloupp/pi-config",
+    "description": "Personal Pi Coding Agent configuration for Termux",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-09T17:34:05Z",
+    "pushed_at": "2026-07-09T23:24:15Z",
+    "updated_at": "2026-07-09T23:24:18Z",
+    "size": 71,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -23,7 +23,6 @@
       "cursor",
       "cursor-ai",
       "cursor-cli",
-      "gemini-cli",
       "goose",
       "kilo",
       "kilo-code",
@@ -31,14 +30,15 @@
       "multi-agent",
       "opencode",
       "opencode-ai",
-      "pi-coding-agent"
+      "pi-coding-agent",
+      "reasonix"
     ],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-06T06:07:09Z",
-    "pushed_at": "2026-07-08T22:28:10Z",
-    "updated_at": "2026-07-08T01:08:30Z",
-    "size": 18437,
+    "pushed_at": "2026-07-09T23:48:04Z",
+    "updated_at": "2026-07-09T16:33:19Z",
+    "size": 18061,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

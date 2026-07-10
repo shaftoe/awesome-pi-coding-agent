@@ -5,17 +5,17 @@
   "source": "npm-search",
   "description": "Long-term memory plugin for pi with Dream Engine for insight generation — designed to collaborate with pi-esr",
   "metadata": {
-    "github_url": "https://github.com/skepsun/pi-weave",
+    "github_url": "https://github.com/skepsun/pi-loom",
     "npm_name": "@skepsun/pi-loom",
     "description": "Long-term memory plugin for pi with Dream Engine for insight generation — designed to collaborate with pi-esr",
     "keywords": [
       "pi-package",
-      "pi-weave",
+      "pi-loom",
       "memory",
       "dream-engine"
     ],
-    "version": "0.4.0",
-    "published_at": "2026-07-08T02:28:52.143Z",
+    "version": "0.5.0",
+    "published_at": "2026-07-09T09:43:24.467Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

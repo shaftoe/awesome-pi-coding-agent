@@ -1,0 +1,25 @@
+{
+  "id": "leemeichin-pibarm",
+  "name": "leemeichin-pibarm",
+  "url": "https://github.com/leemeichin/pibarm",
+  "source": "github-search",
+  "description": "My pi agent setup",
+  "metadata": {
+    "github_url": "https://github.com/leemeichin/pibarm",
+    "repo_full_name": "leemeichin/pibarm",
+    "description": "My pi agent setup",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-09T14:18:23Z",
+    "pushed_at": "2026-07-09T18:27:17Z",
+    "updated_at": "2026-07-09T18:27:31Z",
+    "size": 84,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_awesome-pi.site_articles",
+  "name": "Articles - Awesome Pi Coding Agent",
+  "url": "https://awesome-pi.site/articles/",
+  "source": "brave-web-search",
+  "description": "Blog posts, discussions, and community coverage from around the web · A new Emacs mode for AI-assisted coding (Claude Code style), with native Emacs buffers instead of a flickering terminal. Built on top of pi, a no-bs open source Claude Code alternative. It supports Claude, GPT, Gemini, Ollama.",
+  "metadata": {
+    "title": "Articles - Awesome Pi Coding Agent",
+    "name": "Articles - Awesome Pi Coding Agent",
+    "description": "Blog posts, discussions, and community coverage from around the web · A new Emacs mode for AI-assisted coding (Claude Code style), with native Emacs buffers instead of a flickering terminal. Built on top of pi, a no-bs open source Claude Code alternative. It supports Claude, GPT, Gemini, Ollama.",
+    "published_at": "2026-05-11T15:49:03",
+    "source_site": "Awesome-pi",
+    "source_url": "https://awesome-pi.site/articles/",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

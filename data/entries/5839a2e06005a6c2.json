@@ -1,0 +1,20 @@
+{
+  "id": "YT_M6anngSckxs",
+  "name": "Piren - the Pi Runtime ENvironment",
+  "url": "https://youtube.com/watch?v=M6anngSckxs",
+  "source": "youtube-search",
+  "description": "Piren is a lightweight, local-first agent runtime on top of Pi Coding Agent. It keeps agent identity, operational state, logs, sessions, ...",
+  "metadata": {
+    "title": "Piren - the Pi Runtime ENvironment",
+    "name": "Piren - the Pi Runtime ENvironment",
+    "description": "Piren is a lightweight, local-first agent runtime on top of Pi Coding Agent. It keeps agent identity, operational state, logs, sessions, ...",
+    "channel": "Davide Lucchesi",
+    "published_at": "2026-07-09T09:26:37Z",
+    "thumbnail": "https://i.ytimg.com/vi/M6anngSckxs/hqdefault.jpg",
+    "views": 10,
+    "likes": 1,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "category": "video"
+}

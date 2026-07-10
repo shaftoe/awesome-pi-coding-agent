@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_packages",
+  "name": "Package Catalog · Pi",
+  "url": "https://pi.dev/packages?name=search",
+  "source": "brave-web-search",
+  "description": "Extensions, skills, prompt templates, and themes published to npm. Install with pi install npm:. See the package docs for details · Web search, URL fetching, GitHub repo cloning, PDF extraction, YouTube video understanding, and local video analysis for Pi coding agent.",
+  "metadata": {
+    "title": "Package Catalog · Pi",
+    "name": "Package Catalog · Pi",
+    "description": "Extensions, skills, prompt templates, and themes published to npm. Install with pi install npm:<package>. See the package docs for details · Web search, URL fetching, GitHub repo cloning, PDF extraction, YouTube video understanding, and local video analysis for Pi coding agent.",
+    "published_at": null,
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages?name=search",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}

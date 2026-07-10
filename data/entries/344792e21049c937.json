@@ -10,7 +10,7 @@
     "description": "Connect your own pi coding agent to Linear Agent Sessions.",
     "stars": 5,
     "forks": 3,
-    "open_issues": 0,
+    "open_issues": 8,
     "topics": [
       "agent",
       "linear",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-12T20:20:08Z",
-    "pushed_at": "2026-05-12T20:52:09Z",
-    "updated_at": "2026-06-19T04:19:11Z",
-    "size": 75,
+    "pushed_at": "2026-07-09T13:10:23Z",
+    "updated_at": "2026-07-09T13:10:35Z",
+    "size": 183,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

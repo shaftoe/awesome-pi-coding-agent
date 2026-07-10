@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_awesome-pi.site_misc",
+  "name": "Miscellaneous - Awesome Pi Coding Agent",
+  "url": "https://awesome-pi.site/misc/",
+  "source": "brave-web-search",
+  "description": "CLIs, dashboards, providers, templates, configurations, and other Pi-related projects · Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more",
+  "metadata": {
+    "title": "Miscellaneous - Awesome Pi Coding Agent",
+    "name": "Miscellaneous - Awesome Pi Coding Agent",
+    "description": "CLIs, dashboards, providers, templates, configurations, and other Pi-related projects · Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more",
+    "published_at": null,
+    "source_site": "Awesome-pi",
+    "source_url": "https://awesome-pi.site/misc/",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

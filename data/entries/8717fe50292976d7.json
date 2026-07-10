@@ -10,7 +10,7 @@
     "description": "GitHub action to integrate https://pi.dev/ coding agent with GitHub-compatible CI/CD, issues and PRs",
     "stars": 47,
     "forks": 10,
-    "open_issues": 5,
+    "open_issues": 4,
     "topics": [
       "ai-assisted",
       "code-review",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-21T21:59:59Z",
-    "pushed_at": "2026-07-08T20:40:56Z",
+    "pushed_at": "2026-07-09T07:18:12Z",
     "updated_at": "2026-07-08T20:13:33Z",
-    "size": 158510,
+    "size": 158506,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

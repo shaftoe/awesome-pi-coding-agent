@@ -1,0 +1,29 @@
+{
+  "id": "pi-door",
+  "name": "pi-door",
+  "url": "https://www.npmjs.com/package/pi-door",
+  "source": "npm-search",
+  "description": "A silly pi package that adds /fart and a bundled fart skill.",
+  "metadata": {
+    "github_url": "https://github.com/or1ginald/pi-door",
+    "npm_name": "pi-door",
+    "description": "A silly pi package that adds /fart and a bundled fart skill.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-skill",
+      "fart"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-07-09T11:15:26.898Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

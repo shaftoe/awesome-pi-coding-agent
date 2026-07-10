@@ -1,0 +1,29 @@
+{
+  "id": "pi-pr-review",
+  "name": "pi-pr-review",
+  "url": "https://www.npmjs.com/package/pi-pr-review",
+  "source": "npm-search",
+  "description": "Model-agnostic GitHub PR code review prompt for pi. Pass a PR number; it derives the base and head branches from the PR in the current repo, reviews the diff, and returns structured JSON findings.",
+  "metadata": {
+    "github_url": "https://github.com/10ego/pi-pr-review",
+    "npm_name": "pi-pr-review",
+    "description": "Model-agnostic GitHub PR code review prompt for pi. Pass a PR number; it derives the base and head branches from the PR in the current repo, reviews the diff, and returns structured JSON findings.",
+    "keywords": [
+      "pi-package",
+      "code-review",
+      "github",
+      "pull-request",
+      "prompt-template"
+    ],
+    "version": "1.1.2",
+    "published_at": "2026-07-09T19:34:01.385Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
