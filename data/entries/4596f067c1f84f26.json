@@ -1,0 +1,25 @@
+{
+  "id": "FasalZein-pi-markdown-blocks",
+  "name": "FasalZein-pi-markdown-blocks",
+  "url": "https://github.com/FasalZein/pi-markdown-blocks",
+  "source": "github-search",
+  "description": "Polished, theme-aware fenced Markdown blocks for Pi, with syntax highlighting and clean clipboard support.",
+  "metadata": {
+    "github_url": "https://github.com/FasalZein/pi-markdown-blocks",
+    "repo_full_name": "FasalZein/pi-markdown-blocks",
+    "description": "Polished, theme-aware fenced Markdown blocks for Pi, with syntax highlighting and clean clipboard support.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-10T17:36:43Z",
+    "pushed_at": "2026-07-10T17:36:47Z",
+    "updated_at": "2026-07-10T17:40:48Z",
+    "size": 23,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

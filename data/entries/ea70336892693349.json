@@ -8,7 +8,7 @@
     "github_url": "https://github.com/romiluz13/auto-pi",
     "repo_full_name": "romiluz13/auto-pi",
     "description": "The best Pi coding agent setup — 10 packages, 59 skills, 10-step autonomous workflow. Zero bloat, zero MCP, pure Pi ideology.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-07-02T11:53:23Z",
     "pushed_at": "2026-07-09T20:14:18Z",
-    "updated_at": "2026-07-09T20:14:25Z",
+    "updated_at": "2026-07-10T19:23:45Z",
     "size": 361,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

@@ -1,0 +1,25 @@
+{
+  "id": "pesnik-pi-pesnik",
+  "name": "pesnik-pi-pesnik",
+  "url": "https://github.com/pesnik/pi-pesnik",
+  "source": "github-search",
+  "description": "Personal pi-coding-agent package — extensions, skills, and config.",
+  "metadata": {
+    "github_url": "https://github.com/pesnik/pi-pesnik",
+    "repo_full_name": "pesnik/pi-pesnik",
+    "description": "Personal pi-coding-agent package — extensions, skills, and config.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-10T18:15:02Z",
+    "pushed_at": "2026-07-10T18:47:14Z",
+    "updated_at": "2026-07-10T21:03:15Z",
+    "size": 23280,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

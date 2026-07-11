@@ -1,0 +1,26 @@
+{
+  "id": "avtc-pi-subagent-ui-bridge",
+  "name": "avtc-pi-subagent-ui-bridge",
+  "url": "https://www.npmjs.com/package/avtc-pi-subagent-ui-bridge",
+  "source": "npm-search",
+  "description": "Lets extensions' interactive dialogs from nested subagents render in the root session, with the subagent's last message as context, via simple integration.",
+  "metadata": {
+    "github_url": "https://github.com/avtc/avtc-pi-subagent-ui-bridge",
+    "npm_name": "avtc-pi-subagent-ui-bridge",
+    "description": "Lets extensions' interactive dialogs from nested subagents render in the root session, with the subagent's last message as context, via simple integration.",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "1.0.3",
+    "published_at": "2026-07-10T17:17:09.775Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

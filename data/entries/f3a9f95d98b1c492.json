@@ -1,0 +1,31 @@
+{
+  "id": "backnotprop-orchestrator",
+  "name": "backnotprop-orchestrator",
+  "url": "https://github.com/backnotprop/orchestrator",
+  "source": "github-search",
+  "description": "Agents orchestrating other agents",
+  "metadata": {
+    "github_url": "https://github.com/backnotprop/orchestrator",
+    "repo_full_name": "backnotprop/orchestrator",
+    "description": "Agents orchestrating other agents",
+    "stars": 73,
+    "forks": 2,
+    "open_issues": 0,
+    "topics": [
+      "claude-code",
+      "codex",
+      "copilot",
+      "grok-build",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-17T21:38:20Z",
+    "pushed_at": "2026-07-10T03:11:50Z",
+    "updated_at": "2026-07-10T23:37:25Z",
+    "size": 2431,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

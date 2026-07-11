@@ -37611,5 +37611,311 @@
 		"reason": "Not about Pi coding agent — this is a Claude Code plugin",
 		"blacklisted_at": "2026-07-10T00:04:49.119Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=ELt4hZW9x7Q",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:34.484Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/DOUIYA/pi-client",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:34.573Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=AOnHOQ2L8Xo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:34.59Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ArxNhYvTQlY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:34.673Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/praneybehl/omp-reflect",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-07-10T23:56:34.686Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=2WcSFRYkN2A",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:34.707Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=iMhrpY-_GJo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:34.754Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=lj7_S2z6XUs",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:34.787Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@d3ara1n/pi-provider-sensenova",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-10T23:56:34.846Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=tqHqdSVYdeA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:34.882Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/viraniaman94/pi-live-theme",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:35.011Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/eimg/helix",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:35.016Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=hkD5G8HrnqU",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-10T23:56:35.061Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=JWs9z6rMIjY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:35.095Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=fUOCWuoEpDU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:35.136Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=AJioFQgIviI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:35.142Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/jujoycode/pi-oven",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:35.162Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/TungLamC/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:35.183Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=w2eWXqr9Dqg",
+		"reason": "pi network crypto signal: \"pi network\"",
+		"blacklisted_at": "2026-07-10T23:56:35.197Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/yu-d1/pi-extensions",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-10T23:56:35.205Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/darjss/herdr-orchestrate",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:35.273Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=uXUKVWV7FOQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:35.283Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=KproICjrNhg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:35.298Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=sh8IX5D3By0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:35.319Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=x14zycB6nyc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:35.349Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=MU_Q-Hmz6gY",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-10T23:56:35.356Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=4Rl5kyCzDOI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:35.414Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=1vAzsw1ZUR4",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-10T23:56:35.504Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=KoaMt7wFrC0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:35.518Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=jjze-8Wia38",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-10T23:56:35.538Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=U458hd9IFZg",
+		"reason": "Title and description in Spanish — non-English entry",
+		"blacklisted_at": "2026-07-10T23:59:38.374Z",
+		"source": "manual"
 	}
 ]

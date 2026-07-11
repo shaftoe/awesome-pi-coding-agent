@@ -1,0 +1,40 @@
+{
+  "id": "@ssbun/csl-agent-kit",
+  "name": "@ssbun/csl-agent-kit",
+  "url": "https://www.npmjs.com/package/@ssbun/csl-agent-kit",
+  "source": "npm-search",
+  "description": "Personal agent toolkit for skills, plugins, commands, hooks, and Pi extensions across Claude Code, Codex, Cursor, and Pi.",
+  "metadata": {
+    "github_url": "https://github.com/SSBun/csl-agent-kit",
+    "npm_name": "@ssbun/csl-agent-kit",
+    "description": "Personal agent toolkit for skills, plugins, commands, hooks, and Pi extensions across Claude Code, Codex, Cursor, and Pi.",
+    "keywords": [
+      "pi-package",
+      "skills",
+      "agent-skills",
+      "agent-toolkit",
+      "plugins",
+      "commands",
+      "hooks",
+      "ios",
+      "macos",
+      "swift",
+      "app-icon",
+      "release",
+      "project-analysis",
+      "code-review",
+      "figma",
+      "sop"
+    ],
+    "version": "2.0.0",
+    "published_at": "2026-07-10T04:56:31.313Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

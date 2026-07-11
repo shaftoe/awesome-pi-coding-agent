@@ -1,0 +1,31 @@
+{
+  "id": "@awesamarth/pi-supermemory",
+  "name": "@awesamarth/pi-supermemory",
+  "url": "https://www.npmjs.com/package/@awesamarth/pi-supermemory",
+  "source": "npm-search",
+  "description": "Persistent private memory for Pi coding agent — powered by Supermemory Local",
+  "metadata": {
+    "github_url": "https://github.com/awesamarth/pi-supermemory",
+    "npm_name": "@awesamarth/pi-supermemory",
+    "description": "Persistent private memory for Pi coding agent — powered by Supermemory Local",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "supermemory",
+      "supermemory-local",
+      "memory",
+      "private-agents",
+      "coding-agent"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-10T12:09:39.725Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
