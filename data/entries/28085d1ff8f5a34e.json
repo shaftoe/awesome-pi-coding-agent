@@ -3,16 +3,16 @@
   "name": "avtc-pi-logger",
   "url": "https://www.npmjs.com/package/avtc-pi-logger",
   "source": "npm-search",
-  "description": "File-based logging library for pi extensions — per-extension date-partitioned logs under ~/.pi/logs/{name}/ with rotation",
+  "description": "File-based logging library for pi extensions — date-partitioned with rotation.",
   "metadata": {
     "github_url": "https://github.com/avtc/avtc-pi-logger",
     "npm_name": "avtc-pi-logger",
-    "description": "File-based logging library for pi extensions — per-extension date-partitioned logs under ~/.pi/logs/{name}/ with rotation",
+    "description": "File-based logging library for pi extensions — date-partitioned with rotation.",
     "keywords": [
       "pi-package"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-07-09T23:28:18.910Z",
+    "version": "1.0.2",
+    "published_at": "2026-07-10T17:17:02.594Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

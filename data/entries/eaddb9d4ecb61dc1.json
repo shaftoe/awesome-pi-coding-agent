@@ -10,7 +10,7 @@
     "description": "Pi extension that adds one delegate tool for isolated child-agent tasks without polluting the main  context.",
     "stars": 2,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "ai-agent",
       "bun",

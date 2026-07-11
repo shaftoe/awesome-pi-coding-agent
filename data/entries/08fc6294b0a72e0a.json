@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_packages",
+  "name": "Package Catalog · Pi",
+  "url": "https://pi.dev/packages?page=3&type=theme",
+  "source": "brave-web-search",
+  "description": "Extensions, skills, prompt templates, and themes published to npm. Install with pi install npm:. See the package docs for details · Pendant-inspired theme for PI WEB: Source Sans 3 body font, Press Start 2P pixel accents, sharp corners, flat surfaces, subtle pixel grid.",
+  "metadata": {
+    "title": "Package Catalog · Pi",
+    "name": "Package Catalog · Pi",
+    "description": "Extensions, skills, prompt templates, and themes published to npm. Install with pi install npm:<package>. See the package docs for details · Pendant-inspired theme for PI WEB: Source Sans 3 body font, Press Start 2P pixel accents, sharp corners, flat surfaces, subtle pixel grid.",
+    "published_at": "2026-07-06T20:25:05",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages?page=3&type=theme",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "category": "misc"
+}

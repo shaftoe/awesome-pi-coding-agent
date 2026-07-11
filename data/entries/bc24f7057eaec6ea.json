@@ -1,0 +1,30 @@
+{
+  "id": "@ozancakir/pi-pop",
+  "name": "@ozancakir/pi-pop",
+  "url": "https://www.npmjs.com/package/@ozancakir/pi-pop",
+  "source": "npm-search",
+  "description": "Pop open a floating viewer to read Pi coding agent panels: Shift+Alt+arrow (or /pop) shows any collapsed panel's content without expanding it or snapping the scroll (cross-platform, works over SSH); scroll with the mouse wheel. Ask the agent to \"show the",
+  "metadata": {
+    "github_url": "https://github.com/ozancakir/pi-pop",
+    "npm_name": "@ozancakir/pi-pop",
+    "description": "Pop open a floating viewer to read Pi coding agent panels: Shift+Alt+arrow (or /pop) shows any collapsed panel's content without expanding it or snapping the scroll (cross-platform, works over SSH); scroll with the mouse wheel. Ask the agent to \"show the ",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "tui",
+      "terminal",
+      "extension"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-07-10T23:39:26.766Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

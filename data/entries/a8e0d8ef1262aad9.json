@@ -3,16 +3,16 @@
   "name": "avtc-pi-settings-ui",
   "url": "https://www.npmjs.com/package/avtc-pi-settings-ui",
   "source": "npm-search",
-  "description": "Schema-driven settings infrastructure for pi extensions",
+  "description": "A schema-driven settings UI for pi extensions — define your settings, get a tabbed modal, a /:settings command, and layered persistence.",
   "metadata": {
     "github_url": "https://github.com/avtc/avtc-pi-settings-ui",
     "npm_name": "avtc-pi-settings-ui",
-    "description": "Schema-driven settings infrastructure for pi extensions",
+    "description": "A schema-driven settings UI for pi extensions — define your settings, get a tabbed modal, a /<name>:settings command, and layered persistence.",
     "keywords": [
       "pi-package"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-07-09T23:33:17.443Z",
+    "version": "1.0.4",
+    "published_at": "2026-07-10T17:17:20.529Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

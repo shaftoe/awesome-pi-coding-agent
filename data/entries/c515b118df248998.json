@@ -3,17 +3,17 @@
   "name": "avtc-pi-parallel-work-guardrail",
   "url": "https://www.npmjs.com/package/avtc-pi-parallel-work-guardrail",
   "source": "npm-search",
-  "description": "Parallel work guardrail for pi — block/confirm git operations that disrupt parallel work",
+  "description": "Lets you block or approve agent-called git operations that would disrupt parallel work — worktree-aware, with auto-decide after timeout.",
   "metadata": {
     "github_url": "https://github.com/avtc/avtc-pi-parallel-work-guardrail",
     "npm_name": "avtc-pi-parallel-work-guardrail",
-    "description": "Parallel work guardrail for pi — block/confirm git operations that disrupt parallel work",
+    "description": "Lets you block or approve agent-called git operations that would disrupt parallel work — worktree-aware, with auto-decide after timeout.",
     "keywords": [
       "pi-package",
       "pi-extension"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-07-10T00:01:06.934Z",
+    "version": "1.0.3",
+    "published_at": "2026-07-10T17:24:51.681Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

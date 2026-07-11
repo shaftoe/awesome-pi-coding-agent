@@ -8,7 +8,7 @@
     "github_url": "https://github.com/bnema/pi-codegraph",
     "repo_full_name": "bnema/pi-codegraph",
     "description": "Use CodeGraph from Pi.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-06-12T16:29:27Z",
     "pushed_at": "2026-06-12T16:29:41Z",
-    "updated_at": "2026-06-12T16:29:44Z",
+    "updated_at": "2026-07-10T01:54:42Z",
     "size": 28,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

@@ -1,0 +1,25 @@
+{
+  "id": "HermesVC-pi-agentic-loops",
+  "name": "HermesVC-pi-agentic-loops",
+  "url": "https://github.com/HermesVC/pi-agentic-loops",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/HermesVC/pi-agentic-loops",
+    "repo_full_name": "HermesVC/pi-agentic-loops",
+    "description": "",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-10T18:26:03Z",
+    "pushed_at": "2026-07-10T21:40:26Z",
+    "updated_at": "2026-07-10T21:40:33Z",
+    "size": 67,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

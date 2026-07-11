@@ -1,0 +1,27 @@
+{
+  "id": "@aneviaro/pi-ask-user-question",
+  "name": "@aneviaro/pi-ask-user-question",
+  "url": "https://www.npmjs.com/package/@aneviaro/pi-ask-user-question",
+  "source": "npm-search",
+  "description": "A blocking user-question tool for Pi coding agent.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@aneviaro/pi-ask-user-question",
+    "description": "A blocking user-question tool for Pi coding agent.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-10T13:01:33.356Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
