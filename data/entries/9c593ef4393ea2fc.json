@@ -3,11 +3,11 @@
   "name": "Extensions - Awesome Pi Coding Agent",
   "url": "https://awesome-pi.site/extensions/",
   "source": "brave-web-search",
-  "description": "A Bun-native extension pack for Pi: web access, subagents, revamped core tools, ANSI-compatible themes, fzf-style completions, Telegram mode, and more. ... Configurable web access extension for pi with per-tool provider routing and explicit provider option schemas for search, contents, quick grounded answers, and research. ... Pi tools for context-safe plain-text web, GitHub, Wikipedia, Reddit search, and page fetch.",
+  "description": "Firstpick's custom Pi coding agent themes. ... Passive token optimization for Pi sessions. Auto-optimizes large files (300+ lines) with no configuration required. ... Delegating task/subagent extension for Pi: foreground/background subagents, widgets, tmux observability, SDK fallback. ... YAML hook automation for the PI coding agent: tool guards, session hooks, prompts, notifications, and bash actions. ... Pi extension: open a GitHub-like git diff viewer in the browser.",
   "metadata": {
     "title": "Extensions - Awesome Pi Coding Agent",
     "name": "Extensions - Awesome Pi Coding Agent",
-    "description": "A Bun-native extension pack for Pi: web access, subagents, revamped core tools, ANSI-compatible themes, fzf-style completions, Telegram mode, and more. ... Configurable web access extension for pi with per-tool provider routing and explicit provider option schemas for search, contents, quick grounded answers, and research. ... Pi tools for context-safe plain-text web, GitHub, Wikipedia, Reddit search, and page fetch.",
+    "description": "Firstpick's custom Pi coding agent themes. ... Passive token optimization for Pi sessions. Auto-optimizes large files (300+ lines) with no configuration required. ... Delegating task/subagent extension for Pi: foreground/background subagents, widgets, tmux observability, SDK fallback. ... YAML hook automation for the PI coding agent: tool guards, session hooks, prompts, notifications, and bash actions. ... Pi extension: open a GitHub-like git diff viewer in the browser.",
     "published_at": "2026-05-30T00:00:00",
     "source_site": "Awesome-pi",
     "source_url": "https://awesome-pi.site/extensions/",

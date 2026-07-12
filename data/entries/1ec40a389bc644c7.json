@@ -6,7 +6,7 @@
   "description": "Run anything long-lived under babysit — one supervision substrate for processes and pi subagents, surfaced to the agent as babysit_run/check/send/wait/kill.",
   "metadata": {
     "github_url": "https://github.com/yusukeshib/pi-babysit",
-    "npm_name": "pi-babysit",
+    "npm_name": "@yusukeshib/pi-babysit",
     "description": "Run anything long-lived under babysit — one supervision substrate for processes and pi subagents, surfaced to the agent as babysit_run/check/send/wait/kill.",
     "keywords": [
       "pi-package",
@@ -14,7 +14,7 @@
       "babysit"
     ],
     "version": "0.2.0",
-    "published_at": "2026-07-10T13:12:53.854Z",
+    "published_at": "2026-07-11T14:48:11.971Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

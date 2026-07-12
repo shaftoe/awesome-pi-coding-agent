@@ -10,7 +10,7 @@
     "description": "Telegram bridge for the Pi coding agent — continue sessions from your phone with voice, images, and handback",
     "stars": 118,
     "forks": 20,
-    "open_issues": 5,
+    "open_issues": 6,
     "topics": [
       "ai-agents",
       "coding-agent",

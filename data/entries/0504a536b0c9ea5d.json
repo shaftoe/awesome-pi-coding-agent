@@ -1,0 +1,25 @@
+{
+  "id": "stew675-pi-orchestration",
+  "name": "stew675-pi-orchestration",
+  "url": "https://github.com/stew675/pi-orchestration",
+  "source": "github-search",
+  "description": "pi coding agent extension for multi-agent task orchestration",
+  "metadata": {
+    "github_url": "https://github.com/stew675/pi-orchestration",
+    "repo_full_name": "stew675/pi-orchestration",
+    "description": "pi coding agent extension for multi-agent task orchestration",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-11T10:46:52Z",
+    "pushed_at": "2026-07-11T20:36:04Z",
+    "updated_at": "2026-07-11T20:36:08Z",
+    "size": 281,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

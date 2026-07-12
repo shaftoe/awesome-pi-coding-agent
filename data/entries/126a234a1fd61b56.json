@@ -1,0 +1,29 @@
+{
+  "id": "@lbk-open/super-spec",
+  "name": "@lbk-open/super-spec",
+  "url": "https://www.npmjs.com/package/@lbk-open/super-spec",
+  "source": "npm-search",
+  "description": "Spec-driven development toolkit for AI coding agents: end-to-end workflows, multi-agent coding and review, living specs, and engineering guardrails",
+  "metadata": {
+    "github_url": "https://github.com/lbk-open/super-spec",
+    "npm_name": "@lbk-open/super-spec",
+    "description": "Spec-driven development toolkit for AI coding agents: end-to-end workflows, multi-agent coding and review, living specs, and engineering guardrails",
+    "keywords": [
+      "pi-package",
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "opencode"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-11T18:09:43.647Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
