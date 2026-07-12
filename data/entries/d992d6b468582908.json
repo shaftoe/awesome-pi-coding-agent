@@ -1,0 +1,37 @@
+{
+  "id": "pi-ext-int-search",
+  "name": "pi-ext-int-search",
+  "url": "https://www.npmjs.com/package/pi-ext-int-search",
+  "source": "npm-search",
+  "description": "Hardened fork of nicobailon/pi-web-access with our own settings + added internal search. External + internal search for the Pi coding agent. EXTERNAL: web_search across OpenAI, Brave, Parallel, Tavily, Exa, Perplexity, Gemini (with URL fetch, GitHub clone",
+  "metadata": {
+    "github_url": "https://github.com/axelbaumlisto/pi-web-access",
+    "npm_name": "pi-ext-int-search",
+    "description": "Hardened fork of nicobailon/pi-web-access with our own settings + added internal search. External + internal search for the Pi coding agent. EXTERNAL: web_search across OpenAI, Brave, Parallel, Tavily, Exa, Perplexity, Gemini (with URL fetch, GitHub clone",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "web-search",
+      "memory-search",
+      "internal-search",
+      "external-search",
+      "perplexity",
+      "exa",
+      "gemini",
+      "fetch",
+      "scraping"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-07-12T16:50:23.073Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

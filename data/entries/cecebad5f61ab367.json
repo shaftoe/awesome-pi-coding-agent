@@ -1,0 +1,25 @@
+{
+  "id": "Sqowe-wingman",
+  "name": "Sqowe-wingman",
+  "url": "https://github.com/Sqowe/wingman",
+  "source": "github-search",
+  "description": "Sqowe Wingman is a graphical front-end (\"skin\") over the @earendil-works/pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/Sqowe/wingman",
+    "repo_full_name": "Sqowe/wingman",
+    "description": "Sqowe Wingman is a graphical front-end (\"skin\") over the @earendil-works/pi-coding-agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-24T11:21:25Z",
+    "pushed_at": "2026-07-12T11:36:25Z",
+    "updated_at": "2026-07-12T11:37:16Z",
+    "size": 3349,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

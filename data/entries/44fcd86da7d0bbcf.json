@@ -1,0 +1,29 @@
+{
+  "id": "pi-loop-guard",
+  "name": "pi-loop-guard",
+  "url": "https://www.npmjs.com/package/pi-loop-guard",
+  "source": "npm-search",
+  "description": "Pi coding agent extension that detects repeating tool-call loops and breaks them before they waste tokens.",
+  "metadata": {
+    "github_url": "https://github.com/GDWhisper/pi-loop-guard",
+    "npm_name": "pi-loop-guard",
+    "description": "Pi coding agent extension that detects repeating tool-call loops and breaks them before they waste tokens.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "loop-detection",
+      "agent-guard",
+      "llm-tools"
+    ],
+    "version": "1.0.4",
+    "published_at": "2026-07-12T05:36:18.127Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

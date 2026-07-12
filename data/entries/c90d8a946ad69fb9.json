@@ -1,0 +1,25 @@
+{
+  "id": "sageveil-pi",
+  "name": "sageveil-pi",
+  "url": "https://github.com/sageveil/pi",
+  "source": "github-search",
+  "description": "Sageveil TUI theme for Pi Coding Agent.",
+  "metadata": {
+    "github_url": "https://github.com/sageveil/pi",
+    "repo_full_name": "sageveil/pi",
+    "description": "Sageveil TUI theme for Pi Coding Agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-02T14:02:09Z",
+    "pushed_at": "2026-07-12T22:22:49Z",
+    "updated_at": "2026-07-12T22:22:53Z",
+    "size": 10,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

@@ -3,11 +3,11 @@
   "name": "@earendil-works/pi-coding-agent - npmx",
   "url": "https://npmx.dev/package/@earendil-works/pi-coding-agent/v/%3E=0.74.0",
   "source": "brave-web-search",
-  "description": "Coding agent CLI with read, bash, edit, write tools and session management",
+  "description": "Find packages on npmjs.com or Discord. Security: Pi packages run with full system access. Extensions execute arbitrary code, and skills can instruct the model to perform any action including running executables. Review source code before installing third-party packages. ... pi install npm:@foo/pi-tools pi install npm:@foo/pi-tools@1.2.3 # pinned version pi install git:github.com/user/repo pi install git:github.com/user/repo@v1 # tag or commit pi install git:git@github.com:user/repo pi install git:git@github.com:user/repo@v1 # tag or commit pi install https://github.com/user/repo pi install htt",
   "metadata": {
     "title": "@earendil-works/pi-coding-agent - npmx",
     "name": "@earendil-works/pi-coding-agent - npmx",
-    "description": "Coding agent CLI with read, bash, edit, write tools and session management",
+    "description": "Find packages on npmjs.com or Discord. Security: Pi packages run with full system access. Extensions execute arbitrary code, and skills can instruct the model to perform any action including running executables. Review source code before installing third-party packages. ... pi install npm:@foo/pi-tools pi install npm:@foo/pi-tools@1.2.3 # pinned version pi install git:github.com/user/repo pi install git:github.com/user/repo@v1 # tag or commit pi install git:git@github.com:user/repo pi install git:git@github.com:user/repo@v1 # tag or commit pi install https://github.com/user/repo pi install htt",
     "published_at": "2026-06-23T14:45:04",
     "source_site": "npmx",
     "source_url": "https://npmx.dev/package/@earendil-works/pi-coding-agent/v/%3E=0.74.0",
