@@ -1,0 +1,29 @@
+{
+  "id": "@dreki-gg/pi-doc-search",
+  "name": "@dreki-gg/pi-doc-search",
+  "url": "https://www.npmjs.com/package/@dreki-gg/pi-doc-search",
+  "source": "npm-search",
+  "description": "Library doc-search tools for pi, powered by Context7 — direct HTTP, persistent cache, no MCP dependency",
+  "metadata": {
+    "github_url": "https://github.com/jalbarrang/pi-doc-search",
+    "npm_name": "@dreki-gg/pi-doc-search",
+    "description": "Library doc-search tools for pi, powered by Context7 — direct HTTP, persistent cache, no MCP dependency",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "docs",
+      "documentation",
+      "context7"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-07-11T19:17:36.423Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

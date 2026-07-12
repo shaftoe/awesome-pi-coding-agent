@@ -3,19 +3,19 @@
   "name": "hyperresearch-pi",
   "url": "https://www.npmjs.com/package/hyperresearch-pi",
   "source": "npm-search",
-  "description": "Deep research harness for pi — tier-adaptive 16-step pipeline with adversarial audit, source provenance, and a persistent searchable vault. Wraps the hyperresearch Python CLI.",
+  "description": "Deep research harness for pi \u2014 tier-adaptive 16-step pipeline with adversarial audit, source provenance, and a persistent searchable vault. Wraps the hyperresearch Python CLI.",
   "metadata": {
     "github_url": null,
     "npm_name": "hyperresearch-pi",
-    "description": "Deep research harness for pi — tier-adaptive 16-step pipeline with adversarial audit, source provenance, and a persistent searchable vault. Wraps the hyperresearch Python CLI.",
+    "description": "Deep research harness for pi \u2014 tier-adaptive 16-step pipeline with adversarial audit, source provenance, and a persistent searchable vault. Wraps the hyperresearch Python CLI.",
     "keywords": [
       "pi-package",
       "hyperresearch",
       "deep-research",
       "research"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-07-10T13:28:27.348Z",
+    "version": "0.1.6",
+    "published_at": "2026-07-11T08:46:50.506Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

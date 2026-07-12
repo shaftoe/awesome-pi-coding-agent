@@ -3,11 +3,11 @@
   "name": "avtc-pi-todo",
   "url": "https://www.npmjs.com/package/avtc-pi-todo",
   "source": "npm-search",
-  "description": "A working-memory plan the agent manages — breaks multi-stage work into items when needed, and completing each surfaces the next's details to keep the agent on track.",
+  "description": "A working-memory plan the agent manages \u2014 breaks multi-stage work into items when needed, and completing each surfaces the next's details to keep the agent on track.",
   "metadata": {
     "github_url": "https://github.com/avtc/avtc-pi-todo",
     "npm_name": "avtc-pi-todo",
-    "description": "A working-memory plan the agent manages — breaks multi-stage work into items when needed, and completing each surfaces the next's details to keep the agent on track.",
+    "description": "A working-memory plan the agent manages \u2014 breaks multi-stage work into items when needed, and completing each surfaces the next's details to keep the agent on track.",
     "keywords": [
       "pi-package",
       "pi-extension"

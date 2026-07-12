@@ -1,0 +1,30 @@
+{
+  "id": "@xaccefy/sweep",
+  "name": "@xaccefy/sweep",
+  "url": "https://www.npmjs.com/package/@xaccefy/sweep",
+  "source": "npm-search",
+  "description": "Lazy senior dev mode for the Pi agent harness. The best code is the code you never wrote.",
+  "metadata": {
+    "github_url": "https://github.com/x4cc3/sweep",
+    "npm_name": "@xaccefy/sweep",
+    "description": "Lazy senior dev mode for the Pi agent harness. The best code is the code you never wrote.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "skills",
+      "sweep",
+      "lazy",
+      "yagni"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-11T22:45:25.772Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

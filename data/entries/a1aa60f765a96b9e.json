@@ -1,0 +1,31 @@
+{
+  "id": "sylv-io-pi-anthropic-auth",
+  "name": "sylv-io-pi-anthropic-auth",
+  "url": "https://github.com/sylv-io/pi-anthropic-auth",
+  "source": "github-search",
+  "description": "Use an Anthropic Claude plan with the Pi coding agent through OAuth.",
+  "metadata": {
+    "github_url": "https://github.com/sylv-io/pi-anthropic-auth",
+    "repo_full_name": "sylv-io/pi-anthropic-auth",
+    "description": "Use an Anthropic Claude plan with the Pi coding agent through OAuth.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "anthropic",
+      "claude",
+      "oauth",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-11T14:07:12Z",
+    "pushed_at": "2026-07-11T16:15:28Z",
+    "updated_at": "2026-07-11T16:15:36Z",
+    "size": 47,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

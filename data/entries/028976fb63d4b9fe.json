@@ -8,7 +8,7 @@
     "github_url": "https://github.com/joelhooks/pi-cmux",
     "repo_full_name": "joelhooks/pi-cmux",
     "description": "cmux integration extension for pi — sidebar status, notifications, live tool activity, workspace control. Standalone package for orchestrator and worker agents.",
-    "stars": 10,
+    "stars": 11,
     "forks": 1,
     "open_issues": 9,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-18T16:10:13Z",
     "pushed_at": "2026-06-25T06:05:58Z",
-    "updated_at": "2026-06-05T20:28:54Z",
+    "updated_at": "2026-07-11T01:45:12Z",
     "size": 361,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"

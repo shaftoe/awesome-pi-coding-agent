@@ -1,0 +1,25 @@
+{
+  "id": "JiaWeiXie-swarm-pi-code-plugin",
+  "name": "JiaWeiXie-swarm-pi-code-plugin",
+  "url": "https://github.com/JiaWeiXie/swarm-pi-code-plugin",
+  "source": "github-search",
+  "description": "connects Claude Code and Codex to a bounded Pi coding worker for repository-grounded analysis, planning, review, and implementation. It is designed for teams that want a second coding-agent perspective without giving that worker unrestricted shell access or ownership of Git delivery.",
+  "metadata": {
+    "github_url": "https://github.com/JiaWeiXie/swarm-pi-code-plugin",
+    "repo_full_name": "JiaWeiXie/swarm-pi-code-plugin",
+    "description": "connects Claude Code and Codex to a bounded Pi coding worker for repository-grounded analysis, planning, review, and implementation. It is designed for teams that want a second coding-agent perspective without giving that worker unrestricted shell access or ownership of Git delivery.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-11T12:06:58Z",
+    "pushed_at": "2026-07-11T14:34:56Z",
+    "updated_at": "2026-07-11T15:57:00Z",
+    "size": 2767,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

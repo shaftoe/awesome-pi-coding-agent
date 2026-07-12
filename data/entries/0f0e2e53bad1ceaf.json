@@ -9,7 +9,7 @@
     "repo_full_name": "doodledood/pi-plugins",
     "description": "Installable Pi extensions, theme, and setup profile templates.",
     "stars": 3,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

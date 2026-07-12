@@ -8,7 +8,7 @@
     "github_url": "https://github.com/geanatz/curion",
     "repo_full_name": "geanatz/curion",
     "description": "Curion is a project-local memory layer for AI coding agents, published as an MCP server for Claude Code, Codex, OpenCode, and other MCP clients.",
-    "stars": 23,
+    "stars": 30,
     "forks": 0,
     "open_issues": 1,
     "topics": [
@@ -35,7 +35,7 @@
     "archived": false,
     "created_at": "2026-06-12T08:22:25Z",
     "pushed_at": "2026-07-09T23:37:43Z",
-    "updated_at": "2026-07-10T14:16:10Z",
+    "updated_at": "2026-07-11T22:33:39Z",
     "size": 2621,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
