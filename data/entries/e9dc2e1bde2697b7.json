@@ -1,0 +1,33 @@
+{
+  "id": "gonzalonicolasr-miscosas",
+  "name": "gonzalonicolasr-miscosas",
+  "url": "https://github.com/gonzalonicolasr/miscosas",
+  "source": "github-search",
+  "description": "fzf for your AI agent sessions — search, browse and resume Claude Code / Codex / pi sessions from a fast sunset-themed TUI",
+  "metadata": {
+    "github_url": "https://github.com/gonzalonicolasr/miscosas",
+    "repo_full_name": "gonzalonicolasr/miscosas",
+    "description": "fzf for your AI agent sessions — search, browse and resume Claude Code / Codex / pi sessions from a fast sunset-themed TUI",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "bun",
+      "claude-code",
+      "codex",
+      "fzf",
+      "opentui",
+      "sqlite",
+      "tui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-12T00:26:47Z",
+    "pushed_at": "2026-07-12T00:26:51Z",
+    "updated_at": "2026-07-12T00:26:55Z",
+    "size": 1582,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "misc"
+}

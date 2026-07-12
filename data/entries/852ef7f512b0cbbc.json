@@ -3,11 +3,11 @@
   "name": "avtc-pi-portrait",
   "url": "https://www.npmjs.com/package/avtc-pi-portrait",
   "source": "npm-search",
-  "description": "Builds a behavioral portrait from your session history \u2014 learns your corrections and injects them into the system prompt so the agent anticipates them before responding.",
+  "description": "Builds a behavioral portrait from your session history — learns your corrections and injects them into the system prompt so the agent anticipates them before responding.",
   "metadata": {
     "github_url": "https://github.com/avtc/avtc-pi-portrait",
     "npm_name": "avtc-pi-portrait",
-    "description": "Builds a behavioral portrait from your session history \u2014 learns your corrections and injects them into the system prompt so the agent anticipates them before responding.",
+    "description": "Builds a behavioral portrait from your session history — learns your corrections and injects them into the system prompt so the agent anticipates them before responding.",
     "keywords": [
       "pi-package",
       "pi-extension"

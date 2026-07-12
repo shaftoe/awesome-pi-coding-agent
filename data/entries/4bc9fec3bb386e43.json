@@ -1,0 +1,32 @@
+{
+  "id": "mattpocock-skills-unofficial-plugin",
+  "name": "mattpocock-skills-unofficial-plugin",
+  "url": "https://www.npmjs.com/package/mattpocock-skills-unofficial-plugin",
+  "source": "npm-search",
+  "description": "Unofficial community distribution of Matt Pocock's agent skills as an OMP plugin",
+  "metadata": {
+    "github_url": "https://github.com/xloouis/mattpocock-skills-unofficial-plugin",
+    "npm_name": "mattpocock-skills-unofficial-plugin",
+    "description": "Unofficial community distribution of Matt Pocock's agent skills as an OMP plugin",
+    "keywords": [
+      "omp",
+      "oh-my-pi",
+      "pi-package",
+      "plugin",
+      "skills",
+      "claude",
+      "unofficial",
+      "mattpocock"
+    ],
+    "version": "1.1.0-omp.1",
+    "published_at": "2026-07-12T14:36:42.565Z",
+    "npm_downloads_monthly": 143,
+    "npm_downloads_weekly": 143,
+    "npm_score_final": 15.768851,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

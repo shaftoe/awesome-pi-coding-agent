@@ -1,0 +1,37 @@
+{
+  "id": "pi-permission-modes",
+  "name": "pi-permission-modes",
+  "url": "https://www.npmjs.com/package/pi-permission-modes",
+  "source": "npm-search",
+  "description": "Declarative, user-definable permission modes for the pi coding agent: OS-level sandboxing (bubblewrap / sandbox-exec), an allow/ask/deny policy engine, real bash AST gating (tree-sitter), tool hiding, and skill/custom-tool gating.",
+  "metadata": {
+    "github_url": "https://github.com/wynainfo/pi-permission-modes",
+    "npm_name": "pi-permission-modes",
+    "description": "Declarative, user-definable permission modes for the pi coding agent: OS-level sandboxing (bubblewrap / sandbox-exec), an allow/ask/deny policy engine, real bash AST gating (tree-sitter), tool hiding, and skill/custom-tool gating.",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "permission",
+      "permissions",
+      "sandbox",
+      "bubblewrap",
+      "security",
+      "plan-mode",
+      "tree-sitter",
+      "policy",
+      "opencode"
+    ],
+    "version": "2.1.1",
+    "published_at": "2026-07-12T17:37:13.167Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

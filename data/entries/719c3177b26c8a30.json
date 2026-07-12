@@ -1,0 +1,25 @@
+{
+  "id": "obodnikov-pi-md-export",
+  "name": "obodnikov-pi-md-export",
+  "url": "https://github.com/obodnikov/pi-md-export",
+  "source": "github-search",
+  "description": "A pi (https://www.npmjs.com/package/@earendil-works/pi-coding-agent) coding-agent extension that adds /export-md [file] — write the current session to a Markdown transcript.",
+  "metadata": {
+    "github_url": "https://github.com/obodnikov/pi-md-export",
+    "repo_full_name": "obodnikov/pi-md-export",
+    "description": "A pi (https://www.npmjs.com/package/@earendil-works/pi-coding-agent) coding-agent extension that adds /export-md [file] — write the current session to a Markdown transcript.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-12T09:23:59Z",
+    "pushed_at": "2026-07-12T11:18:34Z",
+    "updated_at": "2026-07-12T11:32:39Z",
+    "size": 10,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

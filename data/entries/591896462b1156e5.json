@@ -1,0 +1,25 @@
+{
+  "id": "@hhyy668/pi-desktop-ui",
+  "name": "@hhyy668/pi-desktop-ui",
+  "url": "https://www.npmjs.com/package/@hhyy668/pi-desktop-ui",
+  "source": "npm-search",
+  "description": "A native desktop GUI for pi — full chat window with real-time streaming, markdown rendering, and workspace management",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@hhyy668/pi-desktop-ui",
+    "description": "A native desktop GUI for pi — full chat window with real-time streaming, markdown rendering, and workspace management",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.3.1",
+    "published_at": "2026-07-12T14:12:24.543Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

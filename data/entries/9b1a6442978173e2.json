@@ -1,0 +1,32 @@
+{
+  "id": "hjanuschka-shitty-chat",
+  "name": "hjanuschka-shitty-chat",
+  "url": "https://github.com/hjanuschka/shitty-chat",
+  "source": "github-search",
+  "description": "E2E-encrypted cross-machine chat + delegation for pi coding agents",
+  "metadata": {
+    "github_url": "https://github.com/hjanuschka/shitty-chat",
+    "repo_full_name": "hjanuschka/shitty-chat",
+    "description": "E2E-encrypted cross-machine chat + delegation for pi coding agents",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "chat",
+      "delegation",
+      "e2e-encryption",
+      "pi-agent",
+      "websocket"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-09T11:31:57Z",
+    "pushed_at": "2026-07-09T14:08:53Z",
+    "updated_at": "2026-07-12T19:50:28Z",
+    "size": 559,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

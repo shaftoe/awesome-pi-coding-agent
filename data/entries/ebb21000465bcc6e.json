@@ -1,0 +1,25 @@
+{
+  "id": "moreheadm-pi-playpen",
+  "name": "moreheadm-pi-playpen",
+  "url": "https://github.com/moreheadm/pi-playpen",
+  "source": "github-search",
+  "description": "Sandboxing for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/moreheadm/pi-playpen",
+    "repo_full_name": "moreheadm/pi-playpen",
+    "description": "Sandboxing for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-11T14:16:42Z",
+    "pushed_at": "2026-07-11T14:56:17Z",
+    "updated_at": "2026-07-11T14:56:21Z",
+    "size": 70,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

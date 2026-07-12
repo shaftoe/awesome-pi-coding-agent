@@ -3,11 +3,11 @@
   "name": "Extensions - Awesome Pi Coding Agent",
   "url": "https://awesome-pi.site/extensions/",
   "source": "brave-web-search",
-  "description": "Firstpick's custom Pi coding agent themes. ... Passive token optimization for Pi sessions. Auto-optimizes large files (300+ lines) with no configuration required. ... Delegating task/subagent extension for Pi: foreground/background subagents, widgets, tmux observability, SDK fallback. ... YAML hook automation for the PI coding agent: tool guards, session hooks, prompts, notifications, and bash actions. ... Pi extension: open a GitHub-like git diff viewer in the browser.",
+  "description": "AFTC toolset: Footer widget with usage costs, cache, turns, ctx window I/O analysis etc. Additional shortcuts, SSH via a PyQt6 GUI isolating SSH credentials from pi and any AI model, skills (designed for low context), 3 themes and more.",
   "metadata": {
     "title": "Extensions - Awesome Pi Coding Agent",
     "name": "Extensions - Awesome Pi Coding Agent",
-    "description": "Firstpick's custom Pi coding agent themes. ... Passive token optimization for Pi sessions. Auto-optimizes large files (300+ lines) with no configuration required. ... Delegating task/subagent extension for Pi: foreground/background subagents, widgets, tmux observability, SDK fallback. ... YAML hook automation for the PI coding agent: tool guards, session hooks, prompts, notifications, and bash actions. ... Pi extension: open a GitHub-like git diff viewer in the browser.",
+    "description": "AFTC toolset: Footer widget with usage costs, cache, turns, ctx window I/O analysis etc. Additional shortcuts, SSH via a PyQt6 GUI isolating SSH credentials from pi and any AI model, skills (designed for low context), 3 themes and more.",
     "published_at": "2026-05-30T00:00:00",
     "source_site": "Awesome-pi",
     "source_url": "https://awesome-pi.site/extensions/",

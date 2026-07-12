@@ -1,0 +1,30 @@
+{
+  "id": "shreeve1-pi-config",
+  "name": "shreeve1-pi-config",
+  "url": "https://github.com/shreeve1/pi-config",
+  "source": "github-search",
+  "description": "Personal Pi coding-agent config — agent teams, skills, extensions, themes.",
+  "metadata": {
+    "github_url": "https://github.com/shreeve1/pi-config",
+    "repo_full_name": "shreeve1/pi-config",
+    "description": "Personal Pi coding-agent config — agent teams, skills, extensions, themes.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "configuration",
+      "developer-tools",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-10T15:50:03Z",
+    "pushed_at": "2026-04-01T19:56:45Z",
+    "updated_at": "2026-07-12T20:26:28Z",
+    "size": 5381,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "misc"
+}

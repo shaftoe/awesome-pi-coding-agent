@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-github",
+  "name": "pi-github · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-github",
+  "source": "brave-web-search",
+  "description": "GitHub tool extension for Pi: format threads, list issues/PRs, and inspect PR diffs/images · Install pi-github from npm and Pi will load the resources declared by the package manifest",
+  "metadata": {
+    "title": "pi-github · Packages · Pi",
+    "name": "pi-github · Packages · Pi",
+    "description": "GitHub tool extension for Pi: format threads, list issues/PRs, and inspect PR diffs/images · Install pi-github from npm and Pi will load the resources declared by the package manifest",
+    "published_at": "2026-03-03T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-github",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}
