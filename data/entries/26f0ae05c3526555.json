@@ -20,11 +20,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-06T09:56:25Z",
-    "pushed_at": "2026-07-09T09:00:03Z",
-    "updated_at": "2026-07-09T09:00:08Z",
-    "size": 63,
+    "pushed_at": "2026-07-13T09:39:58Z",
+    "updated_at": "2026-07-13T09:39:32Z",
+    "size": 98,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
-  "category": "extension"
+  "category": "misc"
 }

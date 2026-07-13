@@ -1,0 +1,28 @@
+{
+  "id": "pi-wayfinder-guard",
+  "name": "pi-wayfinder-guard",
+  "url": "https://www.npmjs.com/package/pi-wayfinder-guard",
+  "source": "npm-search",
+  "description": "Pi extension enforcing no-implementation during wayfinder (fog mode), with a parallel two-axis code review.",
+  "metadata": {
+    "github_url": "https://github.com/yinloo-ola/pi-wayfinder-guard",
+    "npm_name": "pi-wayfinder-guard",
+    "description": "Pi extension enforcing no-implementation during wayfinder (fog mode), with a parallel two-axis code review.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "wayfinder",
+      "code-review"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-07-13T11:03:22.864Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

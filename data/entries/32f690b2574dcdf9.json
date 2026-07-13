@@ -10,7 +10,7 @@
     "description": "Multi-persona PR review agent on Pi (earendil-works). Cross-runner session resume with correct cache_read accounting.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 7,
     "topics": [
       "code-review",
       "github-action",
@@ -19,9 +19,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-26T04:55:09Z",
-    "pushed_at": "2026-07-11T05:49:39Z",
-    "updated_at": "2026-07-11T05:49:33Z",
-    "size": 723,
+    "pushed_at": "2026-07-13T07:35:11Z",
+    "updated_at": "2026-07-13T07:03:09Z",
+    "size": 870,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Dwsy/pi-extensions-skill",
     "repo_full_name": "Dwsy/pi-extensions-skill",
     "description": "Progressive learning guide for Pi coding agent extensions",
-    "stars": 10,
+    "stars": 11,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-11T09:38:20Z",
     "pushed_at": "2026-06-27T14:56:29Z",
-    "updated_at": "2026-07-06T03:04:08Z",
+    "updated_at": "2026-07-13T01:06:38Z",
     "size": 153,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -10,14 +10,17 @@
     "description": "My pi agent setup",
     "stars": 3,
     "forks": 0,
-    "open_issues": 45,
-    "topics": [],
+    "open_issues": 3,
+    "topics": [
+      "ai-agent",
+      "pi"
+    ],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-09T14:18:23Z",
-    "pushed_at": "2026-07-12T21:51:38Z",
-    "updated_at": "2026-07-12T15:08:40Z",
-    "size": 4880,
+    "pushed_at": "2026-07-13T18:54:39Z",
+    "updated_at": "2026-07-13T18:54:44Z",
+    "size": 5378,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

@@ -1,0 +1,29 @@
+{
+  "id": "pi-bob",
+  "name": "pi-bob",
+  "url": "https://www.npmjs.com/package/pi-bob",
+  "source": "npm-search",
+  "description": "Pi provider extension for IBM Bob / IBM-approved compatible model endpoints.",
+  "metadata": {
+    "github_url": "https://github.com/songlining/pi-bob",
+    "npm_name": "pi-bob",
+    "description": "Pi provider extension for IBM Bob / IBM-approved compatible model endpoints.",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "ibm",
+      "bob",
+      "llm-provider"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-13T03:39:27.992Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
