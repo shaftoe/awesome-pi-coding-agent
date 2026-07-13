@@ -9,7 +9,7 @@
     "repo_full_name": "adobe/pi-session-search",
     "description": "A pi-coding-agent extension that lets the LLM (and you) search prior pi sessions on disk without resuming them.",
     "stars": 8,
-    "forks": 1,
+    "forks": 2,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

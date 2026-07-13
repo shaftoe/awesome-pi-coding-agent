@@ -1,0 +1,28 @@
+{
+  "id": "pi-telegram-manager",
+  "name": "pi-telegram-manager",
+  "url": "https://www.npmjs.com/package/pi-telegram-manager",
+  "source": "npm-search",
+  "description": "Telegram bridge for Pi local coding agents: terminal-continuation and business manager modes",
+  "metadata": {
+    "github_url": "https://github.com/m62624/pi-telegram-manager",
+    "npm_name": "pi-telegram-manager",
+    "description": "Telegram bridge for Pi local coding agents: terminal-continuation and business manager modes",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "telegram",
+      "local-ai"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-07-13T21:47:44.512Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

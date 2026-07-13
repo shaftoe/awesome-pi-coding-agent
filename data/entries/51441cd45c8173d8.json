@@ -1,0 +1,30 @@
+{
+  "id": "imgify-pi",
+  "name": "imgify-pi",
+  "url": "https://www.npmjs.com/package/imgify-pi",
+  "source": "npm-search",
+  "description": "pi extension: convert a written prompt into an image and send it to the chat model",
+  "metadata": {
+    "github_url": "https://github.com/mandavkarpranjal/imgify",
+    "npm_name": "imgify-pi",
+    "description": "pi extension: convert a written prompt into an image and send it to the chat model",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-plugin",
+      "image",
+      "text-to-image",
+      "vision"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-13T17:29:18.668Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

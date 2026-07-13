@@ -10,7 +10,7 @@
     "description": "Self-hosted browser workspace to run coding agents in parallel, steer work as it runs, review diffs, and ship.",
     "stars": 37,
     "forks": 5,
-    "open_issues": 30,
+    "open_issues": 31,
     "topics": [
       "agent-harness",
       "agent-orchestration",

@@ -1,0 +1,42 @@
+{
+  "id": "noopolis-daimon",
+  "name": "noopolis-daimon",
+  "url": "https://github.com/noopolis/daimon",
+  "source": "github-search",
+  "description": "Noopolis-native agent harness for running Pi-backed agents in Spawnfile organizations.",
+  "metadata": {
+    "github_url": "https://github.com/noopolis/daimon",
+    "repo_full_name": "noopolis/daimon",
+    "description": "Noopolis-native agent harness for running Pi-backed agents in Spawnfile organizations.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-harness",
+      "agent-orchestration",
+      "agent-runtime",
+      "agentic-organization",
+      "ai-agents",
+      "autonomous-agents",
+      "claude-code",
+      "codex",
+      "daimon",
+      "local-first",
+      "moltnet",
+      "multi-agent",
+      "ollama",
+      "pi-agent",
+      "spawnfile",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-21T23:32:48Z",
+    "pushed_at": "2026-06-30T23:06:41Z",
+    "updated_at": "2026-07-13T20:45:47Z",
+    "size": 160,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

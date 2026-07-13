@@ -10,7 +10,7 @@
     "description": "The best Pi coding agent setup — 10 packages, 59 skills, 10-step autonomous workflow. Zero bloat, zero MCP, pure Pi ideology.",
     "stars": 7,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "agent-setup",
       "ai-agent",
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-02T11:53:23Z",
-    "pushed_at": "2026-07-12T22:46:49Z",
-    "updated_at": "2026-07-12T17:42:30Z",
-    "size": 516,
+    "pushed_at": "2026-07-13T22:51:25Z",
+    "updated_at": "2026-07-13T22:51:30Z",
+    "size": 619,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

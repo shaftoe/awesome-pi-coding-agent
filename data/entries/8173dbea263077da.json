@@ -1,0 +1,25 @@
+{
+  "id": "holygrolli-pi-opa-enforcer",
+  "name": "holygrolli-pi-opa-enforcer",
+  "url": "https://github.com/holygrolli/pi-opa-enforcer",
+  "source": "github-search",
+  "description": "An Open Policy Agent extension for Pi agent",
+  "metadata": {
+    "github_url": "https://github.com/holygrolli/pi-opa-enforcer",
+    "repo_full_name": "holygrolli/pi-opa-enforcer",
+    "description": "An Open Policy Agent extension for Pi agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-13T05:41:07Z",
+    "pushed_at": "2026-07-13T06:00:01Z",
+    "updated_at": "2026-07-13T08:08:57Z",
+    "size": 36,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

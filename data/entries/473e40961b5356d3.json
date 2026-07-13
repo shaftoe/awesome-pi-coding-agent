@@ -18,13 +18,13 @@
       "typescript"
     ],
     "language": "TypeScript",
-    "archived": false,
+    "archived": true,
     "created_at": "2026-03-10T15:50:03Z",
     "pushed_at": "2026-04-01T19:56:45Z",
-    "updated_at": "2026-07-12T20:26:28Z",
+    "updated_at": "2026-07-13T22:05:16Z",
     "size": 5381,
     "license": null,
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
-  "category": "misc"
+  "category": "extension"
 }
