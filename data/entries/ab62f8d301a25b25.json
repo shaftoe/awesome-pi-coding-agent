@@ -1,0 +1,32 @@
+{
+  "id": "BevalZ-pi-sync",
+  "name": "BevalZ-pi-sync",
+  "url": "https://github.com/BevalZ/pi-sync",
+  "source": "github-search",
+  "description": "WebDAV config sync for Pi coding agent — backup/restore models, settings, skills, extensions",
+  "metadata": {
+    "github_url": "https://github.com/BevalZ/pi-sync",
+    "repo_full_name": "BevalZ/pi-sync",
+    "description": "WebDAV config sync for Pi coding agent — backup/restore models, settings, skills, extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "backup",
+      "coding-agent",
+      "pi",
+      "pi-package",
+      "sync",
+      "webdav"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-03T18:35:28Z",
+    "pushed_at": "2026-07-14T09:49:31Z",
+    "updated_at": "2026-07-14T09:49:36Z",
+    "size": 239,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

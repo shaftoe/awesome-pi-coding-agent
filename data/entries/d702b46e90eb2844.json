@@ -1,0 +1,38 @@
+{
+  "id": "amAbdoMo-Pi",
+  "name": "amAbdoMo-Pi",
+  "url": "https://github.com/amAbdoMo/Pi",
+  "source": "github-search",
+  "description": "An OpenCode-inspired terminal workbench, theme, and extension suite for Pi—with agents, MCP, RTL support, workflows, tools, and portable setup.",
+  "metadata": {
+    "github_url": "https://github.com/amAbdoMo/Pi",
+    "repo_full_name": "amAbdoMo/Pi",
+    "description": "An OpenCode-inspired terminal workbench, theme, and extension suite for Pi—with agents, MCP, RTL support, workflows, tools, and portable setup.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "developer-tools",
+      "mcp",
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "rtl",
+      "subagents",
+      "terminal-theme",
+      "terminal-ui",
+      "tui",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-25T12:21:34Z",
+    "pushed_at": "2026-07-14T21:00:20Z",
+    "updated_at": "2026-07-14T21:00:43Z",
+    "size": 481,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

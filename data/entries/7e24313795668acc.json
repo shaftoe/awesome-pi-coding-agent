@@ -1,0 +1,31 @@
+{
+  "id": "@thebinaryguy/pi-fast-mode",
+  "name": "@thebinaryguy/pi-fast-mode",
+  "url": "https://www.npmjs.com/package/@thebinaryguy/pi-fast-mode",
+  "source": "npm-search",
+  "description": "Toggle persistent OpenAI Codex Fast mode in Pi using priority service tier requests.",
+  "metadata": {
+    "github_url": "https://github.com/TheBinaryGuy/pi-fast-mode",
+    "npm_name": "@thebinaryguy/pi-fast-mode",
+    "description": "Toggle persistent OpenAI Codex Fast mode in Pi using priority service tier requests.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "openai",
+      "codex",
+      "fast-mode",
+      "priority"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-07-14T20:01:28.328Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

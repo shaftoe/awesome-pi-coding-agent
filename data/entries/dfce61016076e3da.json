@@ -3,19 +3,19 @@
   "name": "@pi-kaush/pi-double-paste",
   "url": "https://www.npmjs.com/package/@pi-kaush/pi-double-paste",
   "source": "npm-search",
-  "description": "Paste the same large block twice to expand Pi's paste markers into editable text.",
+  "description": "Highlight $skill aliases and route one inline skill reference through Pi's native skill command.",
   "metadata": {
     "github_url": "https://github.com/kaushikgopal/pi-kaush",
-    "npm_name": "@pi-kaush/pi-double-paste",
-    "description": "Paste the same large block twice to expand Pi's paste markers into editable text.",
+    "npm_name": "@pi-kaush/pi-inline-skill-identifier",
+    "description": "Highlight $skill aliases and route one inline skill reference through Pi's native skill command.",
     "keywords": [
       "pi-package",
       "pi-extension",
-      "paste",
-      "editor"
+      "skills",
+      "inline-aliases"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-07-13T17:50:37.207Z",
+    "version": "0.1.1",
+    "published_at": "2026-07-14T21:39:34.857Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/leapmux/leapmux",
     "repo_full_name": "leapmux/leapmux",
     "description": "AI Coding Agent Multiplexer",
-    "stars": 59,
+    "stars": 60,
     "forks": 7,
     "open_issues": 8,
     "topics": [
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-06T06:07:09Z",
-    "pushed_at": "2026-07-13T20:18:17Z",
-    "updated_at": "2026-07-13T00:55:11Z",
-    "size": 18404,
+    "pushed_at": "2026-07-14T23:36:38Z",
+    "updated_at": "2026-07-14T22:03:39Z",
+    "size": 18441,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

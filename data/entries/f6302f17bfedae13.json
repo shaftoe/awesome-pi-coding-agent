@@ -1,0 +1,32 @@
+{
+  "id": "@agent-sh/computer-use-linux",
+  "name": "@agent-sh/computer-use-linux",
+  "url": "https://www.npmjs.com/package/@agent-sh/computer-use-linux",
+  "source": "npm-search",
+  "description": "Linux desktop-control MCP server: AT-SPI accessibility trees, Wayland/X11 input, screenshots, and compositor window targeting.",
+  "metadata": {
+    "github_url": "https://github.com/agent-sh/computer-use-linux",
+    "npm_name": "@agent-sh/computer-use-linux",
+    "description": "Linux desktop-control MCP server: AT-SPI accessibility trees, Wayland/X11 input, screenshots, and compositor window targeting.",
+    "keywords": [
+      "mcp",
+      "computer-use",
+      "linux",
+      "wayland",
+      "accessibility",
+      "hermes-agent",
+      "codex",
+      "pi-package"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-07-14T22:54:57.274Z",
+    "npm_downloads_monthly": 1614,
+    "npm_downloads_weekly": 120,
+    "npm_score_final": 26.840147,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

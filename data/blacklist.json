@@ -38955,5 +38955,127 @@
 		"reason": "Non-English content (Portuguese title and description)",
 		"blacklisted_at": "2026-07-13T23:57:27.556Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@7n/rules",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-14T23:52:29.811Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5zl0gEnX2GY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-14T23:52:29.897Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=WRn5MlwVZGg",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-14T23:52:29.994Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=MsPhMhfvgD4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-14T23:52:30.095Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/ashebanow/pi-gotgenes-subagent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-14T23:52:30.155Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5PKioGcJv4E",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-14T23:52:30.183Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=0tD5GQt6lDI",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-14T23:52:30.328Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=qB_HcPZuKvA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-14T23:52:30.589Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/0liveiraaa/pi-loop-graph-sdk",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-14T23:52:30.595Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=TCA6XO1y7aE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-14T23:52:30.61Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=X2AqWSJaa-s",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-14T23:52:30.74Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/DaWasteh/DaWastehs-Pi",
+		"reason": "Non-English description (German)",
+		"blacklisted_at": "2026-07-14T23:56:24.453Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/sageveil/pi",
+		"reason": "Duplicate of @sageveil/pi npm package (higher popularity: 224 monthly downloads vs 0 stars)",
+		"blacklisted_at": "2026-07-14T23:56:34.696Z",
+		"source": "manual"
 	}
 ]

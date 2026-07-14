@@ -8,7 +8,7 @@
     "github_url": "https://github.com/jillesme/pi-simple-web-tools",
     "repo_full_name": "jillesme/pi-simple-web-tools",
     "description": "Minimal Pi coding agent extension: web_search (Exa) + fetch_content (markdown content-negotiation, Readability, lazy Playwright fallback)",
-    "stars": 3,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-09T14:41:23Z",
     "pushed_at": "2026-07-10T15:49:53Z",
-    "updated_at": "2026-07-10T16:22:49Z",
+    "updated_at": "2026-07-14T09:57:43Z",
     "size": 49,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

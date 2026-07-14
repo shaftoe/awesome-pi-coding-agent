@@ -8,7 +8,7 @@
     "github_url": "https://github.com/monotykamary/pi-double-esc",
     "repo_full_name": "monotykamary/pi-double-esc",
     "description": "Prevent accidental Escape from aborting the LLM — requires double-press to interrupt while streaming",
-    "stars": 5,
+    "stars": 6,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-05-07T13:21:03Z",
     "pushed_at": "2026-07-11T01:33:58Z",
-    "updated_at": "2026-07-11T01:34:02Z",
+    "updated_at": "2026-07-14T00:46:17Z",
     "size": 174,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"

@@ -1,0 +1,35 @@
+{
+  "id": "wunaitianwang-pi-coding-agent-qqbot",
+  "name": "wunaitianwang-pi-coding-agent-qqbot",
+  "url": "https://github.com/wunaitianwang/pi-coding-agent-qqbot",
+  "source": "github-search",
+  "description": "QQ Bot extension for Pi Coding Agent with text, image, voice, document, multimodal and Markdown support.",
+  "metadata": {
+    "github_url": "https://github.com/wunaitianwang/pi-coding-agent-qqbot",
+    "repo_full_name": "wunaitianwang/pi-coding-agent-qqbot",
+    "description": "QQ Bot extension for Pi Coding Agent with text, image, voice, document, multimodal and Markdown support.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "coding-agent",
+      "multimodal",
+      "pi",
+      "pi-coding-agent",
+      "qq-bot",
+      "qq-robot",
+      "qqbot",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-08T08:56:42Z",
+    "pushed_at": "2026-07-14T10:50:17Z",
+    "updated_at": "2026-07-14T10:50:21Z",
+    "size": 145,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

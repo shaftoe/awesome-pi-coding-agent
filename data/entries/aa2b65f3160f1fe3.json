@@ -8,7 +8,7 @@
     "github_url": "https://github.com/melihmucuk/pi-crew",
     "repo_full_name": "melihmucuk/pi-crew",
     "description": "Non-blocking subagent orchestration for pi. Spawn isolated agents that work in parallel while your session stays interactive.",
-    "stars": 63,
+    "stars": 64,
     "forks": 4,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-30T13:04:33Z",
     "pushed_at": "2026-07-10T20:33:07Z",
-    "updated_at": "2026-07-10T20:33:18Z",
+    "updated_at": "2026-07-13T23:54:19Z",
     "size": 7603,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
