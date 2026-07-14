@@ -3,11 +3,11 @@
   "name": "Extensions - Awesome Pi Coding Agent",
   "url": "https://awesome-pi.site/extensions/",
   "source": "brave-web-search",
-  "description": "AFTC toolset: Footer widget with usage costs, cache, turns, ctx window I/O analysis etc. Additional shortcuts, SSH via a PyQt6 GUI isolating SSH credentials from pi and any AI model, skills (designed for low context), 3 themes and more.",
+  "description": "Extend Pi's capabilities — custom tools, hooks, integrations, skills, and MCP servers · Pi extension that keeps noisy tool output out of your context window. Automatically rewrites shell commands through Hypa for local, deterministic compression, context-aware file tools, and recoverable evidence",
   "metadata": {
     "title": "Extensions - Awesome Pi Coding Agent",
     "name": "Extensions - Awesome Pi Coding Agent",
-    "description": "AFTC toolset: Footer widget with usage costs, cache, turns, ctx window I/O analysis etc. Additional shortcuts, SSH via a PyQt6 GUI isolating SSH credentials from pi and any AI model, skills (designed for low context), 3 themes and more.",
+    "description": "Extend Pi's capabilities — custom tools, hooks, integrations, skills, and MCP servers · Pi extension that keeps noisy tool output out of your context window. Automatically rewrites shell commands through Hypa for local, deterministic compression, context-aware file tools, and recoverable evidence",
     "published_at": "2026-05-30T00:00:00",
     "source_site": "Awesome-pi",
     "source_url": "https://awesome-pi.site/extensions/",

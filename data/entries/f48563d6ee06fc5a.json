@@ -1,0 +1,33 @@
+{
+  "id": "zhangyu-ch-pi-permission-windows-notifier",
+  "name": "zhangyu-ch-pi-permission-windows-notifier",
+  "url": "https://github.com/zhangyu-ch/pi-permission-windows-notifier",
+  "source": "github-search",
+  "description": "Windows sound and toast notifications for Pi permission prompts.",
+  "metadata": {
+    "github_url": "https://github.com/zhangyu-ch/pi-permission-windows-notifier",
+    "repo_full_name": "zhangyu-ch/pi-permission-windows-notifier",
+    "description": "Windows sound and toast notifications for Pi permission prompts.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "notifications",
+      "permissions",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "powershell",
+      "windows"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-14T14:07:48Z",
+    "pushed_at": "2026-07-14T15:52:34Z",
+    "updated_at": "2026-07-14T15:53:17Z",
+    "size": 30,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

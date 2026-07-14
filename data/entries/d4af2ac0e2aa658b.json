@@ -1,0 +1,25 @@
+{
+  "id": "555cute-pi-switch",
+  "name": "555cute-pi-switch",
+  "url": "https://github.com/555cute/pi-switch",
+  "source": "github-search",
+  "description": "Desktop All-in-One manager for the pi coding agent — providers, tokens, skills, packages",
+  "metadata": {
+    "github_url": "https://github.com/555cute/pi-switch",
+    "repo_full_name": "555cute/pi-switch",
+    "description": "Desktop All-in-One manager for the pi coding agent — providers, tokens, skills, packages",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-14T17:29:01Z",
+    "pushed_at": "2026-07-14T23:05:24Z",
+    "updated_at": "2026-07-14T23:05:29Z",
+    "size": 351,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

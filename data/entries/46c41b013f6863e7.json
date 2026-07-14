@@ -10,7 +10,7 @@
     "description": "AI-powered coding assistant desktop app — Electron · React · Pi Agent · OpenAI-compatible",
     "stars": 1,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 1,
     "topics": [
       "ai",
       "coding-assistant",
@@ -26,9 +26,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-03T06:49:09Z",
-    "pushed_at": "2026-07-09T09:20:44Z",
-    "updated_at": "2026-07-09T07:45:32Z",
-    "size": 1752,
+    "pushed_at": "2026-07-14T22:55:40Z",
+    "updated_at": "2026-07-14T22:55:41Z",
+    "size": 2019,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

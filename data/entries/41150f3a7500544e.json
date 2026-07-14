@@ -8,7 +8,7 @@
     "github_url": "https://github.com/sonpiaz/hidrix-tools",
     "repo_full_name": "sonpiaz/hidrix-tools",
     "description": "Standalone MCP server: web search, social media search, web fetch tools for Claude Code / Pi agent",
-    "stars": 42,
+    "stars": 43,
     "forks": 19,
     "open_issues": 4,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-03T00:57:12Z",
     "pushed_at": "2026-04-23T20:41:31Z",
-    "updated_at": "2026-07-06T16:21:52Z",
+    "updated_at": "2026-07-14T05:14:28Z",
     "size": 172,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

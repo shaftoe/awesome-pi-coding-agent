@@ -1,0 +1,25 @@
+{
+  "id": "jatinparab-my-pi",
+  "name": "jatinparab-my-pi",
+  "url": "https://github.com/jatinparab/my-pi",
+  "source": "github-search",
+  "description": "My Pi coding agent & extensions",
+  "metadata": {
+    "github_url": "https://github.com/jatinparab/my-pi",
+    "repo_full_name": "jatinparab/my-pi",
+    "description": "My Pi coding agent & extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-12T13:38:23Z",
+    "pushed_at": "2026-07-14T04:59:11Z",
+    "updated_at": "2026-07-14T04:59:14Z",
+    "size": 18,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}
