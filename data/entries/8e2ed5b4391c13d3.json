@@ -8,7 +8,7 @@
     "github_url": "https://github.com/run-llama/liteparse-pi-extension",
     "repo_full_name": "run-llama/liteparse-pi-extension",
     "description": "LiteParse extension for Pi agents",
-    "stars": 2,
+    "stars": 3,
     "forks": 2,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-22T20:04:03Z",
     "pushed_at": "2026-06-05T19:51:10Z",
-    "updated_at": "2026-06-17T13:07:59Z",
+    "updated_at": "2026-07-15T05:14:49Z",
     "size": 48,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,25 @@
+{
+  "id": "DZunke-pi-waldemar",
+  "name": "DZunke-pi-waldemar",
+  "url": "https://github.com/DZunke/pi-waldemar",
+  "source": "github-search",
+  "description": "A portable pi.dev coding-agent package for a disciplined personal codewright: Waldemar of Falkensee",
+  "metadata": {
+    "github_url": "https://github.com/DZunke/pi-waldemar",
+    "repo_full_name": "DZunke/pi-waldemar",
+    "description": "A portable pi.dev coding-agent package for a disciplined personal codewright: Waldemar of Falkensee",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-15T18:42:52Z",
+    "pushed_at": "2026-07-15T20:02:01Z",
+    "updated_at": "2026-07-15T20:02:17Z",
+    "size": 3773,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

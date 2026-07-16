@@ -9,7 +9,7 @@
     "repo_full_name": "skidvis/pi-coordinator",
     "description": "A pi extension that transforms the primary agent into a pure dispatcher/orchestrator. The coordinator is locked to one tools (dispatch_agent) and delegates all real work to a built-in team of three specialist subagents.",
     "stars": 7,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

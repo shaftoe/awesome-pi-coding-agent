@@ -1,0 +1,30 @@
+{
+  "id": "joelhooks-herdr-pings",
+  "name": "joelhooks-herdr-pings",
+  "url": "https://github.com/joelhooks/herdr-pings",
+  "source": "github-search",
+  "description": "Turn-level wake events for AI agents in herdr panes — pi extension, wait CLI, crash bridge, and Discworld callsigns for your workers",
+  "metadata": {
+    "github_url": "https://github.com/joelhooks/herdr-pings",
+    "repo_full_name": "joelhooks/herdr-pings",
+    "description": "Turn-level wake events for AI agents in herdr panes — pi extension, wait CLI, crash bridge, and Discworld callsigns for your workers",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "herdr",
+      "herdr-plugin",
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-12T17:32:56Z",
+    "pushed_at": "2026-07-15T16:51:38Z",
+    "updated_at": "2026-07-15T16:52:26Z",
+    "size": 50,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

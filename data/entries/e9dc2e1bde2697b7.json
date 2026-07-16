@@ -8,7 +8,7 @@
     "github_url": "https://github.com/gonzalonicolasr/miscosas",
     "repo_full_name": "gonzalonicolasr/miscosas",
     "description": "fzf for your AI agent sessions — search, browse and resume Claude Code / Codex / pi sessions from a fast sunset-themed TUI",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-07-12T00:26:47Z",
     "pushed_at": "2026-07-14T05:23:28Z",
-    "updated_at": "2026-07-14T20:09:16Z",
+    "updated_at": "2026-07-15T14:00:09Z",
     "size": 1597,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

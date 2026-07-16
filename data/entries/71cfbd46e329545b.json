@@ -1,0 +1,33 @@
+{
+  "id": "CorbinCald-pi-agents",
+  "name": "CorbinCald-pi-agents",
+  "url": "https://github.com/CorbinCald/pi-agents",
+  "source": "github-search",
+  "description": "Independent Pi distribution with a built-in persistent Agents workspace",
+  "metadata": {
+    "github_url": "https://github.com/CorbinCald/pi-agents",
+    "repo_full_name": "CorbinCald/pi-agents",
+    "description": "Independent Pi distribution with a built-in persistent Agents workspace",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "coding-agent",
+      "git-worktree",
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "tmux"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-10T14:39:32Z",
+    "pushed_at": "2026-07-15T23:24:25Z",
+    "updated_at": "2026-07-15T23:24:29Z",
+    "size": 52056,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ericnunes30-agent-usage-dashboard",
+  "name": "ericnunes30-agent-usage-dashboard",
+  "url": "https://github.com/ericnunes30/agent-usage-dashboard",
+  "source": "github-search",
+  "description": "Local-first dashboard to visualize token usage and costs across AI coding agents (pi, Claude Code, Codex, etc). Built on top of tokscale JSON output.",
+  "metadata": {
+    "github_url": "https://github.com/ericnunes30/agent-usage-dashboard",
+    "repo_full_name": "ericnunes30/agent-usage-dashboard",
+    "description": "Local-first dashboard to visualize token usage and costs across AI coding agents (pi, Claude Code, Codex, etc). Built on top of tokscale JSON output.",
+    "stars": 1,
+    "forks": 1,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-13T21:33:58Z",
+    "pushed_at": "2026-07-14T18:16:36Z",
+    "updated_at": "2026-07-15T14:21:15Z",
+    "size": 175,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "choialdrichdy-pi-config",
+  "name": "choialdrichdy-pi-config",
+  "url": "https://github.com/choialdrichdy/pi-config",
+  "source": "github-search",
+  "description": "My Pi Coding Agent Personal Configuration",
+  "metadata": {
+    "github_url": "https://github.com/choialdrichdy/pi-config",
+    "repo_full_name": "choialdrichdy/pi-config",
+    "description": "My Pi Coding Agent Personal Configuration",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-15T13:42:31Z",
+    "pushed_at": "2026-07-15T13:42:58Z",
+    "updated_at": "2026-07-15T13:43:20Z",
+    "size": 15,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

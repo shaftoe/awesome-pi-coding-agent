@@ -1,0 +1,34 @@
+{
+  "id": "betterwright",
+  "name": "betterwright",
+  "url": "https://www.npmjs.com/package/betterwright",
+  "source": "npm-search",
+  "description": "A persistent, policy-guarded Playwright browser for AI agents with network controls, trusted credential filling, proof screenshots, and CAPTCHA helpers.",
+  "metadata": {
+    "github_url": "https://github.com/CuriosityOS/betterwright",
+    "npm_name": "betterwright",
+    "description": "A persistent, policy-guarded Playwright browser for AI agents with network controls, trusted credential filling, proof screenshots, and CAPTCHA helpers.",
+    "keywords": [
+      "playwright",
+      "browser",
+      "automation",
+      "agent",
+      "llm",
+      "ai",
+      "captcha",
+      "browser-use",
+      "web-agent",
+      "pi-package"
+    ],
+    "version": "0.5.0",
+    "published_at": "2026-07-15T17:39:37.161Z",
+    "npm_downloads_monthly": 123,
+    "npm_downloads_weekly": 123,
+    "npm_score_final": 16.060984,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

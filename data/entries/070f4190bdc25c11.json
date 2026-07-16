@@ -1,0 +1,25 @@
+{
+  "id": "lolren-pi-ext-auto-continue",
+  "name": "lolren-pi-ext-auto-continue",
+  "url": "https://github.com/lolren/pi-ext-auto-continue",
+  "source": "github-search",
+  "description": "Auto-continue loop for pi coding agent — sends follow-up messages with Escape-to-pause, custom messages, and live footer status",
+  "metadata": {
+    "github_url": "https://github.com/lolren/pi-ext-auto-continue",
+    "repo_full_name": "lolren/pi-ext-auto-continue",
+    "description": "Auto-continue loop for pi coding agent — sends follow-up messages with Escape-to-pause, custom messages, and live footer status",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-04T18:15:42Z",
+    "pushed_at": "2026-06-05T06:51:17Z",
+    "updated_at": "2026-07-15T18:32:07Z",
+    "size": 13,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

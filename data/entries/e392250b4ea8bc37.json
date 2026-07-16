@@ -1,0 +1,32 @@
+{
+  "id": "pi-secure-it",
+  "name": "pi-secure-it",
+  "url": "https://www.npmjs.com/package/pi-secure-it",
+  "source": "npm-search",
+  "description": "In-process tool guard and subagent posture hardening for Pi coding agent. Enforces filesystem allow/deny lists and domain allowlists on read, write, edit, fetch_content, web_search, and get_search_content — with interactive ask-tier prompts to grant acces",
+  "metadata": {
+    "github_url": "https://github.com/hannesro/pi-secure-it",
+    "npm_name": "pi-secure-it",
+    "description": "In-process tool guard and subagent posture hardening for Pi coding agent. Enforces filesystem allow/deny lists and domain allowlists on read, write, edit, fetch_content, web_search, and get_search_content — with interactive ask-tier prompts to grant acces",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "security",
+      "sandbox",
+      "guard",
+      "policy"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-07-15T17:22:05.059Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -3,19 +3,19 @@
   "name": "intent-petri",
   "url": "https://www.npmjs.com/package/intent-petri",
   "source": "npm-search",
-  "description": "A Pi coding-agent extension for a certain current execution stack, provisional future paths, and replayable Intent Petri views.",
+  "description": "A Pi coding-agent extension for a certain current execution stack, provisional future paths, and a multi-session local web hub viewer.",
   "metadata": {
     "github_url": "https://github.com/songlairui/intent-petri",
     "npm_name": "intent-petri",
-    "description": "A Pi coding-agent extension for a certain current execution stack, provisional future paths, and replayable Intent Petri views.",
+    "description": "A Pi coding-agent extension for a certain current execution stack, provisional future paths, and a multi-session local web hub viewer.",
     "keywords": [
       "pi-package",
       "coding-agent",
       "petri-net",
       "intent-map"
     ],
-    "version": "0.2.0",
-    "published_at": "2026-07-14T13:07:47.620Z",
+    "version": "0.3.0",
+    "published_at": "2026-07-15T09:29:47.491Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

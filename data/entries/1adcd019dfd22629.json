@@ -8,7 +8,7 @@
     "github_url": "https://github.com/twcrews/crust",
     "repo_full_name": "twcrews/crust",
     "description": "Pi Coding Agent extension for VS Code",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 11,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-12T20:53:50Z",
     "pushed_at": "2026-07-10T14:54:35Z",
-    "updated_at": "2026-06-01T13:46:34Z",
+    "updated_at": "2026-07-15T10:09:21Z",
     "size": 2178,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
