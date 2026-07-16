@@ -1,0 +1,35 @@
+{
+  "id": "zmarketplace",
+  "name": "zmarketplace",
+  "url": "https://www.npmjs.com/package/zmarketplace",
+  "source": "npm-search",
+  "description": "Cross-agent marketplace search: find, audit, and install plugins/skills/themes/prompts across pi, omp, claude code, opencode, gemini cli, and codex",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "zmarketplace",
+    "description": "Cross-agent marketplace search: find, audit, and install plugins/skills/themes/prompts across pi, omp, claude code, opencode, gemini cli, and codex",
+    "keywords": [
+      "pi-package",
+      "claude-code",
+      "opencode",
+      "gemini-cli",
+      "codex",
+      "npm",
+      "marketplace",
+      "plugin",
+      "search",
+      "install",
+      "audit"
+    ],
+    "version": "0.7.3",
+    "published_at": "2026-07-15T21:19:59.515Z",
+    "npm_downloads_monthly": 826,
+    "npm_downloads_weekly": 826,
+    "npm_score_final": 23.594948,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

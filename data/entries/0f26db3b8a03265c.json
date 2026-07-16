@@ -1,0 +1,32 @@
+{
+  "id": "1st-pi",
+  "name": "1st-pi",
+  "url": "https://www.npmjs.com/package/1st-pi",
+  "source": "npm-search",
+  "description": "est7's Pi coding agent preset — skills, extensions, prompts, and themes.",
+  "metadata": {
+    "github_url": "https://github.com/est7/1st-pi",
+    "npm_name": "1st-pi",
+    "description": "est7's Pi coding agent preset — skills, extensions, prompts, and themes.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-agent",
+      "preset",
+      "skills",
+      "extensions",
+      "prompts",
+      "themes"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-15T13:43:07.103Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

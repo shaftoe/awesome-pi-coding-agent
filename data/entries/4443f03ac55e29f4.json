@@ -1,0 +1,30 @@
+{
+  "id": "@piex-dev/plan",
+  "name": "@piex-dev/plan",
+  "url": "https://www.npmjs.com/package/@piex-dev/plan",
+  "source": "npm-search",
+  "description": "Dark Terminal theme for pi — high-contrast terminal-inspired dark theme with vivid green, blue, and red accents",
+  "metadata": {
+    "github_url": "https://github.com/piex-dev/piex",
+    "npm_name": "@piex-dev/theme-dark-terminal",
+    "description": "Dark Terminal theme for pi — high-contrast terminal-inspired dark theme with vivid green, blue, and red accents",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-theme",
+      "dark-terminal",
+      "terminal-theme",
+      "high-contrast"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-15T12:53:50.388Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-theme"
+  },
+  "category": "theme"
+}

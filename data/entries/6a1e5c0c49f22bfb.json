@@ -1,0 +1,30 @@
+{
+  "id": "@vchatemail/pi-a2a-network",
+  "name": "@vchatemail/pi-a2a-network",
+  "url": "https://www.npmjs.com/package/@vchatemail/pi-a2a-network",
+  "source": "npm-search",
+  "description": "vchat.email A2A coordination extension for pi.dev — agent discovery, messaging, and fabric membership. Installed via curl -fsSL https://vchat.email/join.sh | sh",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@vchatemail/pi-a2a-network",
+    "description": "vchat.email A2A coordination extension for pi.dev — agent discovery, messaging, and fabric membership. Installed via curl -fsSL https://vchat.email/join.sh | sh",
+    "keywords": [
+      "pi-package",
+      "pi-agent",
+      "nats",
+      "a2a",
+      "agent-to-agent",
+      "vchat"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-07-15T04:02:05.831Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

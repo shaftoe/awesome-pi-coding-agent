@@ -1,0 +1,31 @@
+{
+  "id": "vinitkumar-pi-vscode-workspace",
+  "name": "vinitkumar-pi-vscode-workspace",
+  "url": "https://github.com/vinitkumar/pi-vscode-workspace",
+  "source": "github-search",
+  "description": "Load VS Code multi-root workspace files into a Pi coding-agent session",
+  "metadata": {
+    "github_url": "https://github.com/vinitkumar/pi-vscode-workspace",
+    "repo_full_name": "vinitkumar/pi-vscode-workspace",
+    "description": "Load VS Code multi-root workspace files into a Pi coding-agent session",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-extension",
+      "typescript",
+      "vscode",
+      "workspace"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-15T15:04:19Z",
+    "pushed_at": "2026-07-15T15:04:57Z",
+    "updated_at": "2026-07-15T15:17:01Z",
+    "size": 5,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

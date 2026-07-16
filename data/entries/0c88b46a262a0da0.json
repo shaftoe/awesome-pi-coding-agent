@@ -1,0 +1,41 @@
+{
+  "id": "@mtrojnar/pi-usage",
+  "name": "@mtrojnar/pi-usage",
+  "url": "https://www.npmjs.com/package/@mtrojnar/pi-usage",
+  "source": "npm-search",
+  "description": "Usage limit checker for pi coding agent — shows Codex, Anthropic, Copilot, OpenCode, and compatible subscription limits at startup",
+  "metadata": {
+    "github_url": "https://github.com/mtrojnar/pi-usage",
+    "npm_name": "@mtrojnar/pi-usage",
+    "description": "Usage limit checker for pi coding agent — shows Codex, Anthropic, Copilot, OpenCode, and compatible subscription limits at startup",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "usage",
+      "rate-limits",
+      "codex",
+      "anthropic",
+      "claude",
+      "copilot",
+      "github-copilot",
+      "opencode",
+      "opencode-go",
+      "opencode-zen",
+      "kimi",
+      "zai",
+      "xiaomi",
+      "monitoring"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-15T11:55:40.020Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

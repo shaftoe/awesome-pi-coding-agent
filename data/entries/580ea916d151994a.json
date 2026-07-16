@@ -1,0 +1,29 @@
+{
+  "id": "leter-pi-packages",
+  "name": "leter-pi-packages",
+  "url": "https://github.com/leter/pi-packages",
+  "source": "github-search",
+  "description": "Public monorepo for Pi extensions, skills, prompts, and themes",
+  "metadata": {
+    "github_url": "https://github.com/leter/pi-packages",
+    "repo_full_name": "leter/pi-packages",
+    "description": "Public monorepo for Pi extensions, skills, prompts, and themes",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "pi-coding-agent",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-15T10:31:40Z",
+    "pushed_at": "2026-07-15T17:33:18Z",
+    "updated_at": "2026-07-15T17:33:33Z",
+    "size": 372,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

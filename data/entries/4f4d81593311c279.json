@@ -10,7 +10,7 @@
     "description": "Reusable assets for AI agents (instructions, prompts, and skills) with optional pi and opencode Home Manager modules",
     "stars": 2,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "ai-agents",
       "home-manager",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-22T16:03:11Z",
-    "pushed_at": "2026-07-14T05:23:55Z",
-    "updated_at": "2026-07-14T00:32:17Z",
-    "size": 460,
+    "pushed_at": "2026-07-15T05:21:04Z",
+    "updated_at": "2026-07-15T05:21:08Z",
+    "size": 465,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

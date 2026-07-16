@@ -8,7 +8,7 @@
     "github_url": "https://github.com/a-Fig/Accordion",
     "repo_full_name": "a-Fig/Accordion",
     "description": "🏆 AI Hackathon 2026 @ UC Berkeley  Intelligent context management for developers",
-    "stars": 202,
+    "stars": 201,
     "forks": 17,
     "open_issues": 18,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-06-20T19:31:53Z",
     "pushed_at": "2026-07-13T23:44:34Z",
-    "updated_at": "2026-07-13T23:44:46Z",
+    "updated_at": "2026-07-15T09:28:51Z",
     "size": 37775,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

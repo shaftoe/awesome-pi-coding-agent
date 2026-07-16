@@ -1,0 +1,25 @@
+{
+  "id": "kortiene-iroh-pi-agent",
+  "name": "kortiene-iroh-pi-agent",
+  "url": "https://github.com/kortiene/iroh-pi-agent",
+  "source": "github-search",
+  "description": "Pi Coding Agent as the default agent harness for kortiene/iroh-room",
+  "metadata": {
+    "github_url": "https://github.com/kortiene/iroh-pi-agent",
+    "repo_full_name": "kortiene/iroh-pi-agent",
+    "description": "Pi Coding Agent as the default agent harness for kortiene/iroh-room",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-06T06:34:40Z",
+    "pushed_at": "2026-07-08T18:07:55Z",
+    "updated_at": "2026-07-15T22:42:15Z",
+    "size": 493,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

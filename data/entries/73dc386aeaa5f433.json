@@ -9,7 +9,7 @@
     "repo_full_name": "rlaope/agentbox",
     "description": "The AI Agent Framework — sandboxed multi-agent orchestration, high-throughput, session manager & runtime for pi / codex / claude",
     "stars": 2,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "agent",
