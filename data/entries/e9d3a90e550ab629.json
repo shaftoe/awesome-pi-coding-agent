@@ -1,0 +1,25 @@
+{
+  "id": "vekexasia-pi-extensible-workflows",
+  "name": "vekexasia-pi-extensible-workflows",
+  "url": "https://github.com/vekexasia/pi-extensible-workflows",
+  "source": "github-search",
+  "description": "Deterministic multi-agent workflow orchestration for Pi",
+  "metadata": {
+    "github_url": "https://github.com/vekexasia/pi-extensible-workflows",
+    "repo_full_name": "vekexasia/pi-extensible-workflows",
+    "description": "Deterministic multi-agent workflow orchestration for Pi",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-12T20:45:52Z",
+    "pushed_at": "2026-07-17T19:26:09Z",
+    "updated_at": "2026-07-17T19:26:12Z",
+    "size": 2683,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

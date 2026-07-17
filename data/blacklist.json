@@ -39359,5 +39359,177 @@
 		"reason": "Not about pi.dev coding agent - this is Pi Agent by Pluto7, a retail/inventory solution",
 		"blacklisted_at": "2026-07-17T00:00:15.801Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/devfuel",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-17T23:50:32.666Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/Caravaca-Labs/puzzletide-cli",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-17T23:50:32.695Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=FdlcEdnrTpk",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-17T23:50:32.744Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-approval-guardian",
+		"reason": "pi network crypto signal: \"pi app\"",
+		"blacklisted_at": "2026-07-17T23:50:32.863Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/noahwc/pi-package-updater",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-17T23:50:32.913Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/proma-ai/Proma",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-17T23:50:32.976Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=lmmgzIuWEbk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-17T23:50:33.076Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/brainwavesio/pi-digby",
+		"reason": "covered by dedicated source: github.com",
+		"blacklisted_at": "2026-07-17T23:50:33.123Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=jZ_xSFaOs5A",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-17T23:50:33.167Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=hBfZCl9rlXo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-17T23:50:33.207Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/gugu91/pinet",
+		"reason": "pi network crypto signal: \"pinet\"",
+		"blacklisted_at": "2026-07-17T23:50:33.428Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/fthsrbst/mnema",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-07-17T23:50:33.441Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=YgLnr4LeCoY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-17T23:50:33.462Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=iVTYBplXxSk",
+		"reason": "pop culture pi signal: \"magnum pi\"",
+		"blacklisted_at": "2026-07-17T23:50:33.507Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=8HJs7BCqtL0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-17T23:50:33.54Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/shauryakapoor3108-ui/holdco",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-17T23:50:33.589Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=D-I-dbnOAOo",
+		"reason": "Non-English title and description (Italian)",
+		"blacklisted_at": "2026-07-17T23:53:41.544Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=GRWBU-ZVqZg",
+		"reason": "Not about pi.dev coding agent - this is about Pluto7 Pi Agent for supply chain management",
+		"blacklisted_at": "2026-07-17T23:53:44.743Z",
+		"source": "manual"
 	}
 ]

@@ -10,7 +10,7 @@
     "description": "Track, monitor, and jump between agent sessions in tmux",
     "stars": 4,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "claude-code-plugin",
       "codex-plugin",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-09T07:05:03Z",
-    "pushed_at": "2026-07-11T02:09:32Z",
-    "updated_at": "2026-07-14T23:16:42Z",
-    "size": 5728,
+    "pushed_at": "2026-07-17T22:35:29Z",
+    "updated_at": "2026-07-17T17:00:40Z",
+    "size": 5745,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

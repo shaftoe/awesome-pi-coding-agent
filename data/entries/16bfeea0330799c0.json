@@ -1,0 +1,30 @@
+{
+  "id": "evaera-pi-pretty-statusline",
+  "name": "evaera-pi-pretty-statusline",
+  "url": "https://github.com/evaera/pi-pretty-statusline",
+  "source": "github-search",
+  "description": "A colorful single-line powerline footer for Pi",
+  "metadata": {
+    "github_url": "https://github.com/evaera/pi-pretty-statusline",
+    "repo_full_name": "evaera/pi-pretty-statusline",
+    "description": "A colorful single-line powerline footer for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-extension",
+      "pi-package",
+      "statusline",
+      "terminal"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-17T18:11:24Z",
+    "pushed_at": "2026-07-17T18:11:28Z",
+    "updated_at": "2026-07-17T18:12:07Z",
+    "size": 30,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
