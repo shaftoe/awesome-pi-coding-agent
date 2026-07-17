@@ -8,13 +8,13 @@
     "title": "Pi Coding Agent + Regolo AI Setup | Configure models.json and Start Coding",
     "name": "Pi Coding Agent + Regolo AI Setup | Configure models.json and Start Coding",
     "description": "Install Pi Coding Agent and connect it to Regolo in minutes. In this step-by-step tutorial, you'll learn how to install Pi from npm, ...",
-    "channel": "regolo ai",
+    "channel": "regolo",
     "published_at": "2026-06-22T17:10:35Z",
     "thumbnail": "https://i.ytimg.com/vi/UUd9gC4zRm8/hqdefault.jpg",
-    "views": 798,
+    "views": 805,
     "likes": 0,
     "comments": 2,
-    "discovery_hint": "youtube:pi-agent"
+    "discovery_hint": "youtube:pi-coding-agent"
   },
   "category": "video"
 }

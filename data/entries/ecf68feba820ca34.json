@@ -8,7 +8,7 @@
     "github_url": "https://github.com/alpozcan/pi-triage",
     "repo_full_name": "alpozcan/pi-triage",
     "description": "Smart model router for pi coding agent, multi-signal triage with keyword matching, heuristic analysis, AI fallback, and auto-discovery",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-12T21:58:16Z",
     "pushed_at": "2026-04-12T22:25:14Z",
-    "updated_at": "2026-04-28T15:04:28Z",
+    "updated_at": "2026-07-17T21:28:28Z",
     "size": 50,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,32 @@
+{
+  "id": "Erobrine2811-pi-usage-history-dashboard",
+  "name": "Erobrine2811-pi-usage-history-dashboard",
+  "url": "https://github.com/Erobrine2811/pi-usage-history-dashboard",
+  "source": "github-search",
+  "description": "Interactive local token and cost history dashboard for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Erobrine2811/pi-usage-history-dashboard",
+    "repo_full_name": "Erobrine2811/pi-usage-history-dashboard",
+    "description": "Interactive local token and cost history dashboard for the Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "cost-dashboard",
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "token-usage",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-17T14:54:33Z",
+    "pushed_at": "2026-07-17T14:54:41Z",
+    "updated_at": "2026-07-17T14:55:23Z",
+    "size": 34,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

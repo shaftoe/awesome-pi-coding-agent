@@ -3,11 +3,11 @@
   "name": "not-narleeek-pi-ghidra",
   "url": "https://github.com/not-narleeek/pi-ghidra",
   "source": "github-search",
-  "description": "Drive Ghidra from pi \u2014 decompile, disassemble, search & cross-reference binaries during CTF reverse-engineering, no GUI needed.",
+  "description": "Drive Ghidra from pi — decompile, disassemble, search & cross-reference binaries during CTF reverse-engineering, no GUI needed.",
   "metadata": {
     "github_url": "https://github.com/not-narleeek/pi-ghidra",
     "repo_full_name": "not-narleeek/pi-ghidra",
-    "description": "Drive Ghidra from pi \u2014 decompile, disassemble, search & cross-reference binaries during CTF reverse-engineering, no GUI needed.",
+    "description": "Drive Ghidra from pi — decompile, disassemble, search & cross-reference binaries during CTF reverse-engineering, no GUI needed.",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,

@@ -9,7 +9,7 @@
     "repo_full_name": "OFRBG/pi-threading",
     "description": "Cross-agent communication for pi agents. Independent coordination, observable.",
     "stars": 2,
-    "forks": 1,
+    "forks": 0,
     "open_issues": 0,
     "topics": [
       "pi",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-02T01:23:38Z",
-    "pushed_at": "2026-07-16T23:12:38Z",
+    "pushed_at": "2026-07-17T17:18:56Z",
     "updated_at": "2026-07-16T23:12:42Z",
-    "size": 291,
+    "size": 297,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

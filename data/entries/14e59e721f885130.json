@@ -9,7 +9,7 @@
     "repo_full_name": "Soleone/pi-tasks",
     "description": "An extension for pi coding agent to manage tasks, via beads or alternative task backends.",
     "stars": 21,
-    "forks": 4,
+    "forks": 5,
     "open_issues": 2,
     "topics": [],
     "language": "TypeScript",

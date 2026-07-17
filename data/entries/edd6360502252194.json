@@ -3,11 +3,11 @@
   "name": "not-narleeek-pi-vpn",
   "url": "https://github.com/not-narleeek/pi-vpn",
   "source": "github-search",
-  "description": "Drive OpenVPN from pi \u2014 bring up CTF & lab tunnels from an .ovpn, with a live status footer, a daemon that survives pi quitting, and a standalone tmux-friendly TUI.",
+  "description": "Drive OpenVPN from pi — bring up CTF & lab tunnels from an .ovpn, with a live status footer, a daemon that survives pi quitting, and a standalone tmux-friendly TUI.",
   "metadata": {
     "github_url": "https://github.com/not-narleeek/pi-vpn",
     "repo_full_name": "not-narleeek/pi-vpn",
-    "description": "Drive OpenVPN from pi \u2014 bring up CTF & lab tunnels from an .ovpn, with a live status footer, a daemon that survives pi quitting, and a standalone tmux-friendly TUI.",
+    "description": "Drive OpenVPN from pi — bring up CTF & lab tunnels from an .ovpn, with a live status footer, a daemon that survives pi quitting, and a standalone tmux-friendly TUI.",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,

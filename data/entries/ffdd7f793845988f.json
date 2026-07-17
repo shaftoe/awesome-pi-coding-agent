@@ -1,0 +1,32 @@
+{
+  "id": "@5dive/telegram-pi-bridge",
+  "name": "@5dive/telegram-pi-bridge",
+  "url": "https://www.npmjs.com/package/@5dive/telegram-pi-bridge",
+  "source": "npm-search",
+  "description": "Telegram channel for the pi CLI (earendil-works/pi-coding-agent) — a long-running relay that hosts pi in-process via its SDK, with pairing/access control, streaming edit-in-place, and a sandboxed-by-default permission gate (bash/write/edit are tapped once",
+  "metadata": {
+    "github_url": "https://github.com/5dive-ai/5dive-plugins",
+    "npm_name": "@5dive/telegram-pi-bridge",
+    "description": "Telegram channel for the pi CLI (earendil-works/pi-coding-agent) — a long-running relay that hosts pi in-process via its SDK, with pairing/access control, streaming edit-in-place, and a sandboxed-by-default permission gate (bash/write/edit are tapped once",
+    "keywords": [
+      "telegram",
+      "pi",
+      "pi-coding-agent",
+      "coding-agent",
+      "relay",
+      "bridge",
+      "sandbox",
+      "permission-gating"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-17T00:39:07.123Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "alfonsograziano-agentic-pi",
+  "name": "alfonsograziano-agentic-pi",
+  "url": "https://github.com/alfonsograziano/agentic-pi",
+  "source": "github-search",
+  "description": "An opinionated wrapper for Pi for use in agentic workflows, with built in github app extension and optional sandboxing.",
+  "metadata": {
+    "github_url": "https://github.com/alfonsograziano/agentic-pi",
+    "repo_full_name": "alfonsograziano/agentic-pi",
+    "description": "An opinionated wrapper for Pi for use in agentic workflows, with built in github app extension and optional sandboxing.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": null,
+    "archived": false,
+    "created_at": "2026-07-11T20:21:11Z",
+    "pushed_at": "2026-07-11T20:21:23Z",
+    "updated_at": "2026-07-17T17:54:37Z",
+    "size": 320,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

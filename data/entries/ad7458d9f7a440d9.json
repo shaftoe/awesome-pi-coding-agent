@@ -1,0 +1,29 @@
+{
+  "id": "wujunchuan-pi-fork-session-herdr",
+  "name": "wujunchuan-pi-fork-session-herdr",
+  "url": "https://github.com/wujunchuan/pi-fork-session-herdr",
+  "source": "github-search",
+  "description": "A Pi extension that forks the current persisted session into a new Herdr pane without replacing or stopping the Pi session in the original pane.",
+  "metadata": {
+    "github_url": "https://github.com/wujunchuan/pi-fork-session-herdr",
+    "repo_full_name": "wujunchuan/pi-fork-session-herdr",
+    "description": "A Pi extension that forks the current persisted session into a new Herdr pane without replacing or stopping the Pi session in the original pane.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-agent-extension",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-17T15:03:37Z",
+    "pushed_at": "2026-07-17T15:03:43Z",
+    "updated_at": "2026-07-17T15:19:22Z",
+    "size": 20,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
