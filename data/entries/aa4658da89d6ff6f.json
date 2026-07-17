@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_aur.archlinux.org_pi-coding-agent",
+  "name": "AUR (en) - pi-coding-agent - Arch Linux",
+  "url": "https://aur.archlinux.org/packages/pi-coding-agent",
+  "source": "brave-web-search",
+  "description": "1&nbsp2 Next › Last » · There IS a way of having the npm dependencies inside the package, all tracked by pacman",
+  "metadata": {
+    "title": "AUR (en) - pi-coding-agent - Arch Linux",
+    "name": "AUR (en) - pi-coding-agent - Arch Linux",
+    "description": "1&nbsp2 Next › Last » · There IS a way of having the npm dependencies inside the package, all tracked by pacman",
+    "published_at": null,
+    "source_site": "Arch Linux",
+    "source_url": "https://aur.archlinux.org/packages/pi-coding-agent",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

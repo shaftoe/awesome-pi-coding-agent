@@ -3,19 +3,19 @@
   "name": "@nklisch/pi-nates-toolkit",
   "url": "https://www.npmjs.com/package/@nklisch/pi-nates-toolkit",
   "source": "npm-search",
-  "description": "Sparse cross-agent coordination ledger for shared repositories.",
+  "description": "Standalone code audit skills that write markdown reports.",
   "metadata": {
     "github_url": "https://github.com/nklisch/skills",
-    "npm_name": "@nklisch/pi-agent-coordination",
-    "description": "Sparse cross-agent coordination ledger for shared repositories.",
+    "npm_name": "@nklisch/pi-code-audit",
+    "description": "Standalone code audit skills that write markdown reports.",
     "keywords": [
       "pi-package",
       "agent-skills",
-      "agent-coordination",
-      "multi-agent"
+      "code-audit",
+      "repo-audit"
     ],
-    "version": "0.1.2",
-    "published_at": "2026-07-11T19:46:40.739Z",
+    "version": "0.2.0",
+    "published_at": "2026-07-11T19:46:50.446Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

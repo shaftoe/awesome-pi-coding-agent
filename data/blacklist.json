@@ -39223,5 +39223,141 @@
 		"reason": "Unrelated to Pi coding agent - event staffing MCP server, pi-package keyword added spuriously",
 		"blacklisted_at": "2026-07-16T00:00:41.43Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/kingkillery/oh-my-pi",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-07-16T23:57:01.718Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/evaera/pi-jump",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-16T23:57:01.767Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/belaViro/liroah-ai",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-16T23:57:01.802Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://uk.finance.yahoo.com/news/powerlaw-corp-nasdaq-pwrl-announces-131500428.html",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-16T23:57:01.82Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/FB208/pi-coding-agent-cn",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-16T23:57:01.937Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://cohere.com/total-cost-of-ai-ownership",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-16T23:57:01.997Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/Huti-K/Trailin",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-16T23:57:02.006Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/isaaclins/pi-terminal-kit",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-16T23:57:02.097Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=yk-tnjRR-pI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-16T23:57:02.21Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://cohere.com/blog/authors/ariana-milligan",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-16T23:57:02.427Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/ByteTrue/pi-package-mono",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-16T23:57:02.486Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=TMpcM5AADy4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-16T23:57:02.493Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=pi-PQJWeC2k",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-16T23:57:02.668Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=z3pi-1sP6oo",
+		"reason": "Not about pi.dev coding agent - this is Pi Agent by Pluto7, a retail/inventory solution",
+		"blacklisted_at": "2026-07-17T00:00:15.801Z",
+		"source": "manual"
 	}
 ]

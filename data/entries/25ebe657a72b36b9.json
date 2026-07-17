@@ -3,23 +3,28 @@
   "name": "OFRBG-pi-threading",
   "url": "https://github.com/OFRBG/pi-threading",
   "source": "github-search",
-  "description": "Cross-thread communication extension for pi coding agent — independent threads that coordinate work, share state, and converse without losing context",
+  "description": "Cross-agent communication for pi agents. Independent coordination, observable.",
   "metadata": {
     "github_url": "https://github.com/OFRBG/pi-threading",
     "repo_full_name": "OFRBG/pi-threading",
-    "description": "Cross-thread communication extension for pi coding agent — independent threads that coordinate work, share state, and converse without losing context",
-    "stars": 1,
-    "forks": 0,
+    "description": "Cross-agent communication for pi agents. Independent coordination, observable.",
+    "stars": 2,
+    "forks": 1,
     "open_issues": 0,
-    "topics": [],
+    "topics": [
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "subagents"
+    ],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-02T01:23:38Z",
-    "pushed_at": "2026-07-14T23:15:19Z",
-    "updated_at": "2026-07-14T23:15:23Z",
-    "size": 543,
+    "pushed_at": "2026-07-16T23:12:38Z",
+    "updated_at": "2026-07-16T23:12:42Z",
+    "size": 291,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

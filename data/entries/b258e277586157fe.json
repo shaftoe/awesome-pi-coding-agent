@@ -3,11 +3,11 @@
   "name": "pi-xai",
   "url": "https://www.npmjs.com/package/pi-xai",
   "source": "npm-search",
-  "description": "Pi extension for xAI Grok Build — Responses API, OAuth, agentic tools, multi-agent",
+  "description": "xAI / Grok extras for Pi — Grok Build protocol, Imagine tools, usage QoL, agentic APIs (provider transitional)",
   "metadata": {
     "github_url": "https://github.com/luxus/pi-xai",
     "npm_name": "pi-xai",
-    "description": "Pi extension for xAI Grok Build — Responses API, OAuth, agentic tools, multi-agent",
+    "description": "xAI / Grok extras for Pi — Grok Build protocol, Imagine tools, usage QoL, agentic APIs (provider transitional)",
     "keywords": [
       "coding-plan",
       "grok",
@@ -16,11 +16,11 @@
       "responses-api",
       "xai"
     ],
-    "version": "0.16.2",
-    "published_at": "2026-07-15T23:29:41.587Z",
+    "version": "0.17.0",
+    "published_at": "2026-07-16T01:09:04.768Z",
     "npm_downloads_monthly": 1338,
     "npm_downloads_weekly": 625,
-    "npm_score_final": 25.273685,
+    "npm_score_final": 24.882565,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

@@ -10,7 +10,7 @@
     "description": "AI Coding Agent Multiplexer",
     "stars": 60,
     "forks": 7,
-    "open_issues": 10,
+    "open_issues": 22,
     "topics": [
       "acp",
       "ai-agent",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-06T06:07:09Z",
-    "pushed_at": "2026-07-15T17:47:09Z",
+    "pushed_at": "2026-07-16T23:23:22Z",
     "updated_at": "2026-07-14T22:03:39Z",
-    "size": 18609,
+    "size": 16243,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

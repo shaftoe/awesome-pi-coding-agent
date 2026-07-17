@@ -8,7 +8,7 @@
     "github_url": "https://github.com/skyfallsin/pi-room",
     "repo_full_name": "skyfallsin/pi-room",
     "description": "Multi-agent awareness for pi coding agent — agents discover peers, peek at their work, and coordinate via tmux.",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-03-22T18:25:45Z",
     "pushed_at": "2026-04-25T20:50:36Z",
-    "updated_at": "2026-07-11T05:01:53Z",
+    "updated_at": "2026-07-16T15:44:57Z",
     "size": 7,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

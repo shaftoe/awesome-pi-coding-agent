@@ -1,0 +1,32 @@
+{
+  "id": "zenspc-pi-extensions",
+  "name": "zenspc-pi-extensions",
+  "url": "https://github.com/zenspc/pi-extensions",
+  "source": "github-search",
+  "description": "Pi coding agent extensions",
+  "metadata": {
+    "github_url": "https://github.com/zenspc/pi-extensions",
+    "repo_full_name": "zenspc/pi-extensions",
+    "description": "Pi coding agent extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "extensions",
+      "github-copilot",
+      "npm-package",
+      "pi",
+      "pi-coding-agent",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-16T09:26:31Z",
+    "pushed_at": "2026-07-16T19:40:44Z",
+    "updated_at": "2026-07-16T19:40:51Z",
+    "size": 125,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

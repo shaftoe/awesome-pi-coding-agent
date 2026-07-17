@@ -1,0 +1,36 @@
+{
+  "id": "not-narleeek-pi-vpn",
+  "name": "not-narleeek-pi-vpn",
+  "url": "https://github.com/not-narleeek/pi-vpn",
+  "source": "github-search",
+  "description": "Drive OpenVPN from pi \u2014 bring up CTF & lab tunnels from an .ovpn, with a live status footer, a daemon that survives pi quitting, and a standalone tmux-friendly TUI.",
+  "metadata": {
+    "github_url": "https://github.com/not-narleeek/pi-vpn",
+    "repo_full_name": "not-narleeek/pi-vpn",
+    "description": "Drive OpenVPN from pi \u2014 bring up CTF & lab tunnels from an .ovpn, with a live status footer, a daemon that survives pi quitting, and a standalone tmux-friendly TUI.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "automation",
+      "bug-bounty",
+      "ctf",
+      "openvpn",
+      "pentest",
+      "pi",
+      "pi-package",
+      "security",
+      "vpn"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-16T17:26:22Z",
+    "pushed_at": "2026-07-16T21:12:09Z",
+    "updated_at": "2026-07-16T21:57:40Z",
+    "size": 73,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -3,11 +3,11 @@
   "name": "privateer-workflow",
   "url": "https://www.npmjs.com/package/privateer-workflow",
   "source": "npm-search",
-  "description": "Declarative, routed multi-agent workflows for Pi — a Microsoft-agentic-workflow-style YAML grammar (typed steps, conditional routes, parallel/for_each fan-out, human gates, sub-workflows) run by a decoupled, fail-closed state machine with a sandboxed temp",
+  "description": "Declarative, routed multi-agent workflows for Pi \u2014 a Microsoft-agentic-workflow-style YAML grammar (typed steps, conditional routes, parallel/for_each fan-out, human gates, sub-workflows) run by a decoupled, fail-closed state machine with a sandboxed temp",
   "metadata": {
     "github_url": "https://github.com/privateer-agent/privateer-workflow",
     "npm_name": "privateer-workflow",
-    "description": "Declarative, routed multi-agent workflows for Pi — a Microsoft-agentic-workflow-style YAML grammar (typed steps, conditional routes, parallel/for_each fan-out, human gates, sub-workflows) run by a decoupled, fail-closed state machine with a sandboxed temp",
+    "description": "Declarative, routed multi-agent workflows for Pi \u2014 a Microsoft-agentic-workflow-style YAML grammar (typed steps, conditional routes, parallel/for_each fan-out, human gates, sub-workflows) run by a decoupled, fail-closed state machine with a sandboxed temp",
     "keywords": [
       "pi-package",
       "pi",

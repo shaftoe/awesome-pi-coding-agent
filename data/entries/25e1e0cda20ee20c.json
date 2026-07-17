@@ -8,7 +8,7 @@
     "github_url": "https://github.com/skyfallsin/pi-projects",
     "repo_full_name": "skyfallsin/pi-projects",
     "description": "Self-contained project directories for the pi coding agent",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-01T20:46:07Z",
     "pushed_at": "2026-06-11T22:03:08Z",
-    "updated_at": "2026-06-11T22:03:13Z",
+    "updated_at": "2026-07-16T15:45:02Z",
     "size": 68,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

@@ -1,0 +1,31 @@
+{
+  "id": "aarsh21-oh-senpi",
+  "name": "aarsh21-oh-senpi",
+  "url": "https://github.com/aarsh21/oh-senpi",
+  "source": "github-search",
+  "description": "A curated monorepo of Pi extensions, multi-agent tools, UI customizations, skills, and themes",
+  "metadata": {
+    "github_url": "https://github.com/aarsh21/oh-senpi",
+    "repo_full_name": "aarsh21/oh-senpi",
+    "description": "A curated monorepo of Pi extensions, multi-agent tools, UI customizations, skills, and themes",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "ai-agents",
+      "pi-coding-agent",
+      "pi-package",
+      "terminal",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-16T15:50:55Z",
+    "pushed_at": "2026-07-16T16:12:39Z",
+    "updated_at": "2026-07-16T16:13:06Z",
+    "size": 513,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

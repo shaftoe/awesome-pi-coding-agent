@@ -10,7 +10,7 @@
     "description": "Add vision support to any text-only model in pi coding agent — transparent image description via a configured vision model.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
