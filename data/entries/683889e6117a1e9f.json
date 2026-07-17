@@ -1,0 +1,33 @@
+{
+  "id": "pi-feishu-monitor",
+  "name": "pi-feishu-monitor",
+  "url": "https://www.npmjs.com/package/pi-feishu-monitor",
+  "source": "npm-search",
+  "description": "Feishu long-connection bridge that runs Pi 24/7 with phone control and remote approval.",
+  "metadata": {
+    "github_url": "https://github.com/goehou/pi-feishu-monitor",
+    "npm_name": "pi-feishu-monitor",
+    "description": "Feishu long-connection bridge that runs Pi 24/7 with phone control and remote approval.",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "feishu",
+      "lark",
+      "24-7",
+      "automation",
+      "monitor",
+      "remote-control",
+      "approval"
+    ],
+    "version": "0.3.8",
+    "published_at": "2026-07-16T03:34:59.985Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

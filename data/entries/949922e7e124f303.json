@@ -1,0 +1,25 @@
+{
+  "id": "pro-vi-pi-rov",
+  "name": "pro-vi-pi-rov",
+  "url": "https://github.com/pro-vi/pi-rov",
+  "source": "github-search",
+  "description": "pro-vi's suite of Pi coding-agent extensions (pi-canvas, pi-tool-distill, pi-codex-fast-mode)",
+  "metadata": {
+    "github_url": "https://github.com/pro-vi/pi-rov",
+    "repo_full_name": "pro-vi/pi-rov",
+    "description": "pro-vi's suite of Pi coding-agent extensions (pi-canvas, pi-tool-distill, pi-codex-fast-mode)",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-10T01:56:32Z",
+    "pushed_at": "2026-07-10T02:19:50Z",
+    "updated_at": "2026-07-16T20:22:33Z",
+    "size": 337,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

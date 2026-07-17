@@ -3,11 +3,11 @@
   "name": "avtc-pi-featyard",
   "url": "https://www.npmjs.com/package/avtc-pi-featyard",
   "source": "npm-search",
-  "description": "Predictable, deterministic feature development for pi — deep upfront design, configurable comprehensive review and verification rigor, and auto-agents draining a backlog",
+  "description": "Predictable, deterministic feature development for pi \u2014 deep upfront design, configurable comprehensive review and verification rigor, and auto-agents draining a backlog",
   "metadata": {
     "github_url": "https://github.com/avtc/avtc-pi-featyard",
     "npm_name": "avtc-pi-featyard",
-    "description": "Predictable, deterministic feature development for pi — deep upfront design, configurable comprehensive review and verification rigor, and auto-agents draining a backlog",
+    "description": "Predictable, deterministic feature development for pi \u2014 deep upfront design, configurable comprehensive review and verification rigor, and auto-agents draining a backlog",
     "keywords": [
       "pi-package",
       "pi-extension"

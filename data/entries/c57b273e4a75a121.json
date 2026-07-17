@@ -1,0 +1,30 @@
+{
+  "id": "evaera-pi-enter-exit-worktree",
+  "name": "evaera-pi-enter-exit-worktree",
+  "url": "https://github.com/evaera/pi-enter-exit-worktree",
+  "source": "github-search",
+  "description": "Move live Pi sessions between managed Git worktrees",
+  "metadata": {
+    "github_url": "https://github.com/evaera/pi-enter-exit-worktree",
+    "repo_full_name": "evaera/pi-enter-exit-worktree",
+    "description": "Move live Pi sessions between managed Git worktrees",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "git",
+      "pi-extension",
+      "pi-package",
+      "worktree"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-16T01:05:03Z",
+    "pushed_at": "2026-07-16T16:41:28Z",
+    "updated_at": "2026-07-16T16:41:49Z",
+    "size": 42,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

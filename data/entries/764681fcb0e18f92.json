@@ -1,0 +1,33 @@
+{
+  "id": "pi-spacexai",
+  "name": "pi-spacexai",
+  "url": "https://www.npmjs.com/package/pi-spacexai",
+  "source": "npm-search",
+  "description": "Grok Imagine, TTS/STT, voice input, and auto-speak for pi — uses built-in xAI OAuth from auth.json",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-spacexai",
+    "description": "Grok Imagine, TTS/STT, voice input, and auto-speak for pi — uses built-in xAI OAuth from auth.json",
+    "keywords": [
+      "pi-package",
+      "spacexai",
+      "xai",
+      "grok",
+      "oauth",
+      "tts",
+      "stt",
+      "image-generation",
+      "video-generation"
+    ],
+    "version": "0.0.5",
+    "published_at": "2026-07-16T17:00:20.991Z",
+    "npm_downloads_monthly": 495,
+    "npm_downloads_weekly": 495,
+    "npm_score_final": 21.294928,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "runchr-works-pi-hindsight",
+  "name": "runchr-works-pi-hindsight",
+  "url": "https://github.com/runchr-works/pi-hindsight",
+  "source": "github-search",
+  "description": "Self-learning extension for Pi coding agent. Inspired by Hermes Agent's self-improvement loop. After each session, forks Pi in the background to review what happened and save patterns. Injects relevant patterns before each task so Pi gets better the more you use it.",
+  "metadata": {
+    "github_url": "https://github.com/runchr-works/pi-hindsight",
+    "repo_full_name": "runchr-works/pi-hindsight",
+    "description": "Self-learning extension for Pi coding agent.  Inspired by Hermes Agent's self-improvement loop. After each session, forks Pi in the background to review what happened and save patterns. Injects relevant patterns before each task so Pi gets better the more you use it.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "hermes",
+      "hermes-agent",
+      "pi",
+      "pi-agent",
+      "pi-agent-extension",
+      "self-learning"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-04T16:03:18Z",
+    "pushed_at": "2026-07-04T16:37:21Z",
+    "updated_at": "2026-07-16T04:06:55Z",
+    "size": 42,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

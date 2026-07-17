@@ -1,0 +1,25 @@
+{
+  "id": "NickPittas-pi-model-guardrails",
+  "name": "NickPittas-pi-model-guardrails",
+  "url": "https://github.com/NickPittas/pi-model-guardrails",
+  "source": "github-search",
+  "description": "Model-specific guardrails for pi coding agent. Auto-injects output discipline when using smaller local models like Gemma 4 12B.",
+  "metadata": {
+    "github_url": "https://github.com/NickPittas/pi-model-guardrails",
+    "repo_full_name": "NickPittas/pi-model-guardrails",
+    "description": "Model-specific guardrails for pi coding agent. Auto-injects output discipline when using smaller local models like Gemma 4 12B.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-10T15:47:04Z",
+    "pushed_at": "2026-06-11T16:06:23Z",
+    "updated_at": "2026-07-16T06:43:48Z",
+    "size": 44,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

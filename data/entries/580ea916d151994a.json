@@ -10,7 +10,7 @@
     "description": "Public monorepo for Pi extensions, skills, prompts, and themes",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 5,
     "topics": [
       "ai-agents",
       "pi-coding-agent",
@@ -19,9 +19,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-15T10:31:40Z",
-    "pushed_at": "2026-07-15T17:33:18Z",
-    "updated_at": "2026-07-15T17:33:33Z",
-    "size": 372,
+    "pushed_at": "2026-07-16T19:15:53Z",
+    "updated_at": "2026-07-16T19:16:06Z",
+    "size": 703,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
