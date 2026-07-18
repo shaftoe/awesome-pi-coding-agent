@@ -1,0 +1,35 @@
+{
+  "id": "abmind",
+  "name": "abmind",
+  "url": "https://www.npmjs.com/package/abmind",
+  "source": "npm-search",
+  "description": "Standalone AI agent memory system — SQLite, FTS5, embeddings, 4-layer recall, sleep maintenance",
+  "metadata": {
+    "github_url": "https://github.com/aksika/abmind",
+    "npm_name": "abmind",
+    "description": "Standalone AI agent memory system — SQLite, FTS5, embeddings, 4-layer recall, sleep maintenance",
+    "keywords": [
+      "ai",
+      "agent",
+      "memory",
+      "llm",
+      "sqlite",
+      "fts5",
+      "embeddings",
+      "recall",
+      "sleep",
+      "consolidation",
+      "pi-package"
+    ],
+    "version": "0.2.7",
+    "published_at": "2026-07-18T16:38:24.024Z",
+    "npm_downloads_monthly": 6585,
+    "npm_downloads_weekly": 644,
+    "npm_score_final": 30.34236,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/sfiorini/pi-stef",
     "repo_full_name": "sfiorini/pi-stef",
     "description": "Curated package catalog for Pi",
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-28T18:56:04Z",
     "pushed_at": "2026-07-17T21:31:00Z",
-    "updated_at": "2026-07-17T21:31:07Z",
+    "updated_at": "2026-07-18T18:46:38Z",
     "size": 2598,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

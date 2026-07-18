@@ -8,7 +8,7 @@
     "github_url": "https://github.com/aldoborrero/pi-agent-kit",
     "repo_full_name": "aldoborrero/pi-agent-kit",
     "description": "My public repository for Skills",
-    "stars": 1,
+    "stars": 2,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2025-10-21T18:41:35Z",
     "pushed_at": "2026-06-22T09:21:19Z",
-    "updated_at": "2026-06-29T19:05:20Z",
+    "updated_at": "2026-07-18T19:59:28Z",
     "size": 811,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

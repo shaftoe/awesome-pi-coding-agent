@@ -1,0 +1,32 @@
+{
+  "id": "bgtendtofree-pi-extension-template",
+  "name": "bgtendtofree-pi-extension-template",
+  "url": "https://github.com/bgtendtofree/pi-extension-template",
+  "source": "github-search",
+  "description": "Production-ready Node 24, Bun, TypeScript 7, and Biome template for Pi extensions",
+  "metadata": {
+    "github_url": "https://github.com/bgtendtofree/pi-extension-template",
+    "repo_full_name": "bgtendtofree/pi-extension-template",
+    "description": "Production-ready Node 24, Bun, TypeScript 7, and Biome template for Pi extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "biome",
+      "bun",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-18T16:19:28Z",
+    "pushed_at": "2026-07-18T16:19:32Z",
+    "updated_at": "2026-07-18T16:20:48Z",
+    "size": 22,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "@zachwill/pi-orchestrate",
+  "name": "@zachwill/pi-orchestrate",
+  "url": "https://www.npmjs.com/package/@zachwill/pi-orchestrate",
+  "source": "npm-search",
+  "description": "Concurrent worker orchestration for Pi",
+  "metadata": {
+    "github_url": "https://github.com/zachwill/pi-orchestrate",
+    "npm_name": "@zachwill/pi-orchestrate",
+    "description": "Concurrent worker orchestration for Pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "workers",
+      "orchestration"
+    ],
+    "version": "0.4.2",
+    "published_at": "2026-07-18T23:13:37.793Z",
+    "npm_downloads_monthly": 122,
+    "npm_downloads_weekly": 122,
+    "npm_score_final": 15.290596,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

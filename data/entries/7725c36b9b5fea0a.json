@@ -1,0 +1,38 @@
+{
+  "id": "appautomaton-pi-arcweld",
+  "name": "appautomaton-pi-arcweld",
+  "url": "https://github.com/appautomaton/pi-arcweld",
+  "source": "github-search",
+  "description": "An auditable local workspace for Pi: pinned upstream source, curated extensions, bounded MCP tooling, and a reproducible external runtime.",
+  "metadata": {
+    "github_url": "https://github.com/appautomaton/pi-arcweld",
+    "repo_full_name": "appautomaton/pi-arcweld",
+    "description": "An auditable local workspace for Pi: pinned upstream source, curated extensions, bounded MCP tooling, and a reproducible external runtime.",
+    "stars": 4,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "agent-extensions",
+      "agentic-ai",
+      "ai-agent",
+      "coding-agent",
+      "developer-tools",
+      "local-first",
+      "mcp",
+      "model-context-protocol",
+      "pi",
+      "pi-agent",
+      "reproducible-builds",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-13T17:09:56Z",
+    "pushed_at": "2026-07-17T14:09:45Z",
+    "updated_at": "2026-07-18T23:03:14Z",
+    "size": 370,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

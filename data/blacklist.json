@@ -39531,5 +39531,201 @@
 		"reason": "Not about pi.dev coding agent - this is about Pluto7 Pi Agent for supply chain management",
 		"blacklisted_at": "2026-07-17T23:53:44.743Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=rdO618EX9rA",
+		"reason": "pop culture pi signal: \"magnum pi\"",
+		"blacklisted_at": "2026-07-18T23:52:07.843Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=vMs6wRAtUaU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-18T23:52:07.901Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=QpceyQQwC_E",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-18T23:52:07.956Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=iXGaraQa9XY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-18T23:52:08.006Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=94rd6CkJKEI",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-18T23:52:08.021Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=mFNWkQamkVw",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-07-18T23:52:08.078Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@shelken/copy-cut",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-18T23:52:08.213Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=sXW01izWlJU",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-07-18T23:52:08.218Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=CmaFU1Y7FJc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-18T23:52:08.241Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=3xthRVDBKqY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-18T23:52:08.355Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=OYAuISB9h7Q",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-18T23:52:08.42Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/linzi007/learn-pi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-18T23:52:08.482Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/wuyaos/pi-packages",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-18T23:52:08.561Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=JCYrWfaMzgE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-18T23:52:08.601Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=etTefUycoMQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-18T23:52:08.637Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/m7l5/pi-claude-runtime",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-18T23:52:08.714Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/m7l5/pi-quota-footer",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-18T23:52:08.785Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ZyT0JOBTAoA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-18T23:52:08.824Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/delete/share",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-18T23:52:08.844Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/SipengXie2024/pi-agent-learning-journal",
+		"reason": "Non-English content (Chinese): Interactive Chinese learning journal for Pi Agent Runtime",
+		"blacklisted_at": "2026-07-18T23:54:12.623Z",
+		"source": "manual"
 	}
 ]
