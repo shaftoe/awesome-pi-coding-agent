@@ -9,7 +9,7 @@
     "repo_full_name": "kartikkabadi/pi-composer-powerpack",
     "description": "Cursor Composer 2.5 powerpack for Pi: agent chains, dispatch teams, Pi-Pi experts, live subagents, Pi-to-Pi coms, damage-control safety, curated agents and mono-black theme. Install with pi install. Requires Pi ≥0.75.3.",
     "stars": 2,
-    "forks": 1,
+    "forks": 0,
     "open_issues": 6,
     "topics": [
       "agent-orchestration",

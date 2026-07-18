@@ -8,7 +8,7 @@
     "github_url": "https://github.com/FailproofAI/failproofai",
     "repo_full_name": "FailproofAI/failproofai",
     "description": "Runtime failure resolution for coding agents. Hooks into Claude Code, Codex & your favourite harnesses. Catches loops, dangerous actions, and secret leaks before they become incidents. Zero latency. Runs locally.",
-    "stars": 139,
+    "stars": 141,
     "forks": 28,
     "open_issues": 28,
     "topics": [
@@ -37,7 +37,7 @@
     "archived": false,
     "created_at": "2026-04-06T01:56:39Z",
     "pushed_at": "2026-07-17T17:57:35Z",
-    "updated_at": "2026-07-17T17:49:12Z",
+    "updated_at": "2026-07-18T18:24:30Z",
     "size": 62545,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

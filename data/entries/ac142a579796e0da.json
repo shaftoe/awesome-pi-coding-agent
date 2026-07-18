@@ -1,0 +1,31 @@
+{
+  "id": "@sovorn/pi-observational-memory",
+  "name": "@sovorn/pi-observational-memory",
+  "url": "https://www.npmjs.com/package/@sovorn/pi-observational-memory",
+  "source": "npm-search",
+  "description": "Observational memory for Pi with bounded reflection context during compaction.",
+  "metadata": {
+    "github_url": "https://github.com/sovorn-c/pi-observational-memory",
+    "npm_name": "@sovorn/pi-observational-memory",
+    "description": "Observational memory for Pi with bounded reflection context during compaction.",
+    "keywords": [
+      "pi",
+      "pi-agent",
+      "pi-package",
+      "extension",
+      "observational-memory",
+      "memory",
+      "compaction"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-07-18T07:45:25.123Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

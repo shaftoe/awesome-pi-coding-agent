@@ -1,0 +1,30 @@
+{
+  "id": "robobryce-pi-local-otel",
+  "name": "robobryce-pi-local-otel",
+  "url": "https://github.com/robobryce/pi-local-otel",
+  "source": "github-search",
+  "description": "Metadata-only OpenTelemetry lifecycle spans for Pi, logged to private local JSONL files.",
+  "metadata": {
+    "github_url": "https://github.com/robobryce/pi-local-otel",
+    "repo_full_name": "robobryce/pi-local-otel",
+    "description": "Metadata-only OpenTelemetry lifecycle spans for Pi, logged to private local JSONL files.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [
+      "observability",
+      "opentelemetry",
+      "pi-package",
+      "telemetry"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-18T22:13:12Z",
+    "pushed_at": "2026-07-18T22:31:39Z",
+    "updated_at": "2026-07-18T22:31:42Z",
+    "size": 36,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

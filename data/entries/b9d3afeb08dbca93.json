@@ -1,0 +1,32 @@
+{
+  "id": "@thunstack/auto-compact",
+  "name": "@thunstack/auto-compact",
+  "url": "https://www.npmjs.com/package/@thunstack/auto-compact",
+  "source": "npm-search",
+  "description": "Early, configurable context auto-compaction for Pi with safe tool-turn resumption.",
+  "metadata": {
+    "github_url": "https://github.com/aashishd/pi-auto-compact-plugin",
+    "npm_name": "@thunstack/auto-compact",
+    "description": "Early, configurable context auto-compaction for Pi with safe tool-turn resumption.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "auto-compact",
+      "compaction",
+      "context-window",
+      "context-management",
+      "ai-agent"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-18T12:42:17.621Z",
+    "npm_downloads_monthly": 63,
+    "npm_downloads_weekly": 63,
+    "npm_score_final": 13.041096,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

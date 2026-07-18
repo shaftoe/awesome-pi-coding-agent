@@ -8,7 +8,7 @@
     "github_url": "https://github.com/dkmaker/hass-pi-agent",
     "repo_full_name": "dkmaker/hass-pi-agent",
     "description": "Pi Agent for Home Assistant — AI coding agent add-on with full HA access",
-    "stars": 8,
+    "stars": 9,
     "forks": 2,
     "open_issues": 3,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-07T23:39:48Z",
     "pushed_at": "2026-06-21T03:12:36Z",
-    "updated_at": "2026-06-10T09:13:14Z",
+    "updated_at": "2026-07-18T23:49:52Z",
     "size": 18759,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

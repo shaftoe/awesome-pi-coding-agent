@@ -1,0 +1,30 @@
+{
+  "id": "pi-blinkenlights",
+  "name": "pi-blinkenlights",
+  "url": "https://www.npmjs.com/package/pi-blinkenlights",
+  "source": "npm-search",
+  "description": "Physical Caps Lock LED notifications for the Pi coding agent on macOS",
+  "metadata": {
+    "github_url": "https://github.com/shubhxms/pi-blinkenlights",
+    "npm_name": "pi-blinkenlights",
+    "description": "Physical Caps Lock LED notifications for the Pi coding agent on macOS",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "macos",
+      "caps-lock",
+      "notifications",
+      "blinkenlights"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-18T21:26:18.081Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

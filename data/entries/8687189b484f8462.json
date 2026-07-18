@@ -1,0 +1,25 @@
+{
+  "id": "Skitre-PiDeck",
+  "name": "Skitre-PiDeck",
+  "url": "https://github.com/Skitre/PiDeck",
+  "source": "github-search",
+  "description": "A Windows-first desktop GUI for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/Skitre/PiDeck",
+    "repo_full_name": "Skitre/PiDeck",
+    "description": "A Windows-first desktop GUI for Pi Coding Agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-18T14:50:29Z",
+    "pushed_at": "2026-07-18T15:58:11Z",
+    "updated_at": "2026-07-18T15:58:20Z",
+    "size": 467,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}
