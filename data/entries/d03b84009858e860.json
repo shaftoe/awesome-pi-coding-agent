@@ -1,0 +1,29 @@
+{
+  "id": "madhavajay-alex",
+  "name": "madhavajay-alex",
+  "url": "https://github.com/madhavajay/alex",
+  "source": "github-search",
+  "description": "Local Rust proxy with an optional UI that routes Pi and other coding agents across providers, with local trace capture, scriptable middleware, subscription bonding, failover, and messenger-assisted re-authentication.",
+  "metadata": {
+    "github_url": "https://github.com/madhavajay/alex",
+    "repo_full_name": "madhavajay/alex",
+    "description": "Local Rust proxy with an optional UI that routes Pi and other coding agents across providers, with local trace capture, scriptable middleware, subscription bonding, failover, and messenger-assisted re-authentication.",
+    "stars": 28,
+    "forks": 4,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-08T04:42:05Z",
+    "pushed_at": "2026-07-17T22:39:56Z",
+    "updated_at": "2026-07-17T22:40:00Z",
+    "size": 36399,
+    "license": "Apache-2.0",
+    "discovery_hint": "manual:pi-integration"
+  },
+  "health": {
+    "score": 98,
+    "level": "active"
+  },
+  "category": "extension"
+}
