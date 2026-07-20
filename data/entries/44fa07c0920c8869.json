@@ -1,0 +1,25 @@
+{
+  "id": "Berrion-Garden-pi-manager",
+  "name": "Berrion-Garden-pi-manager",
+  "url": "https://github.com/Berrion-Garden/pi-manager",
+  "source": "github-search",
+  "description": "Browser-based control panel for Pi AI coding assistant agents. Monitor executions, approve/review gates, manage instances, and launch new tasks — all from a dark-themed dashboard.",
+  "metadata": {
+    "github_url": "https://github.com/Berrion-Garden/pi-manager",
+    "repo_full_name": "Berrion-Garden/pi-manager",
+    "description": "Browser-based control panel for Pi AI coding assistant agents. Monitor executions, approve/review gates, manage instances, and launch new tasks — all from a dark-themed dashboard.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-15T21:44:33Z",
+    "pushed_at": "2026-07-19T18:56:29Z",
+    "updated_at": "2026-07-19T18:57:33Z",
+    "size": 2122,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/youpele52/bigbud",
     "repo_full_name": "youpele52/bigbud",
     "description": "",
-    "stars": 23,
+    "stars": 24,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -31,9 +31,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-21T14:50:37Z",
-    "pushed_at": "2026-07-18T22:50:23Z",
-    "updated_at": "2026-07-16T12:15:34Z",
-    "size": 122985,
+    "pushed_at": "2026-07-19T06:56:01Z",
+    "updated_at": "2026-07-19T06:46:28Z",
+    "size": 123031,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

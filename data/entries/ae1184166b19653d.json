@@ -1,0 +1,28 @@
+{
+  "id": "@async23/pi-codex-fast",
+  "name": "@async23/pi-codex-fast",
+  "url": "https://www.npmjs.com/package/@async23/pi-codex-fast",
+  "source": "npm-search",
+  "description": "Interactively enable or disable Pi Context instruction files",
+  "metadata": {
+    "github_url": "https://github.com/Async23/pi-packages",
+    "npm_name": "@async23/pi-context-control",
+    "description": "Interactively enable or disable Pi Context instruction files",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "context",
+      "agents-md"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-19T20:10:33.259Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

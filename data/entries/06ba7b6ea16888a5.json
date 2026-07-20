@@ -1,0 +1,25 @@
+{
+  "id": "henriquearthur-pi-agent-cc-setup",
+  "name": "henriquearthur-pi-agent-cc-setup",
+  "url": "https://github.com/henriquearthur/pi-agent-cc-setup",
+  "source": "github-search",
+  "description": "Make Pi Agent feel like Claude Code — TUI, plan mode, theme, prompts, and one-command setup.",
+  "metadata": {
+    "github_url": "https://github.com/henriquearthur/pi-agent-cc-setup",
+    "repo_full_name": "henriquearthur/pi-agent-cc-setup",
+    "description": "Make Pi Agent feel like Claude Code — TUI, plan mode, theme, prompts, and one-command setup.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-19T20:58:01Z",
+    "pushed_at": "2026-07-19T21:05:06Z",
+    "updated_at": "2026-07-19T21:05:10Z",
+    "size": 150,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "misc"
+}

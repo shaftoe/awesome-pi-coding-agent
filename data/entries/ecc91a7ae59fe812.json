@@ -1,0 +1,33 @@
+{
+  "id": "@bruschill/pi-plugin-security-audit",
+  "name": "@bruschill/pi-plugin-security-audit",
+  "url": "https://www.npmjs.com/package/@bruschill/pi-plugin-security-audit",
+  "source": "npm-search",
+  "description": "Static security audit + tamper-evidence tooling for Pi agent extensions, plugins, and skills. Installs the guard, fingerprint engine, launchd watchdog, and audit/approve scripts into ~/.pi/agent at their fixed integrity-anchored paths.",
+  "metadata": {
+    "github_url": "https://github.com/bruschill/pi-plugin-security-audit",
+    "npm_name": "@bruschill/pi-plugin-security-audit",
+    "description": "Static security audit + tamper-evidence tooling for Pi agent extensions, plugins, and skills. Installs the guard, fingerprint engine, launchd watchdog, and audit/approve scripts into ~/.pi/agent at their fixed integrity-anchored paths.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "security",
+      "audit",
+      "supply-chain",
+      "tamper-evidence",
+      "integrity",
+      "plugin-security"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-07-19T22:23:16.434Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

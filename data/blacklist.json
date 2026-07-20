@@ -39727,5 +39727,171 @@
 		"reason": "Non-English content (Chinese): Interactive Chinese learning journal for Pi Agent Runtime",
 		"blacklisted_at": "2026-07-18T23:54:12.623Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/hhyqhh/inno-agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-19T23:55:18.535Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/dev-hobin/agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-19T23:55:18.767Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/ilyichv/my-pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-19T23:55:18.832Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Pythoughts-labs/claude-architect",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-19T23:55:18.904Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/kky42/pievo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-19T23:55:18.989Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Bartok9/pi-openclaw-bridge",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-19T23:55:19.046Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/conpiracy/bigtony",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-19T23:55:19.129Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/SirTenzin/chagent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-19T23:55:19.181Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@acetamido/agentsession",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-19T23:55:19.201Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=JDgm2s01qfw",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-07-19T23:55:19.294Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@acetamido/agentsession-mcp",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-19T23:55:19.326Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/LHXHL/Kila-Public",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-19T23:55:19.414Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/4fuu/pi-bin-hints",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-19T23:55:19.436Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Li7777777/pi-leetcode-tools",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-19T23:55:19.455Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=akuZ8R5w_wM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-19T23:55:19.486Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=UFGKppBzCMs",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-19T23:55:19.508Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "youtube.com/watch?v=kmwexWIa9aQ",
+		"reason": "Non-English (German) title and description",
+		"blacklisted_at": "2026-07-19T23:58:07.493Z",
+		"source": "manual"
 	}
 ]
