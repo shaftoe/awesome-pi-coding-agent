@@ -8,7 +8,7 @@
     "github_url": "https://github.com/edxeth/pi-subagents",
     "repo_full_name": "edxeth/pi-subagents",
     "description": "Power-user multi-agent framework for Pi: named agents, interactive sessions via Herdr/cmux/tmux/zellij/WezTerm, background workers, async/sync coordination, fork/resume, child-to-parent messaging, orchestrator mode, and a live TUI",
-    "stars": 84,
+    "stars": 86,
     "forks": 14,
     "open_issues": 2,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-16T15:13:11Z",
     "pushed_at": "2026-07-17T21:43:33Z",
-    "updated_at": "2026-07-17T21:43:37Z",
+    "updated_at": "2026-07-19T18:24:46Z",
     "size": 795,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

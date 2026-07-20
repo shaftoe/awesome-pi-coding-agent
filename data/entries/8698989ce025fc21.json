@@ -1,0 +1,31 @@
+{
+  "id": "ribbons-digital-pi-advisor",
+  "name": "ribbons-digital-pi-advisor",
+  "url": "https://github.com/ribbons-digital/pi-advisor",
+  "source": "github-search",
+  "description": "Automatic isolated secondary review for Pi coding agent sessions",
+  "metadata": {
+    "github_url": "https://github.com/ribbons-digital/pi-advisor",
+    "repo_full_name": "ribbons-digital/pi-advisor",
+    "description": "Automatic isolated secondary review for Pi coding agent sessions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "advisor",
+      "ai-agent",
+      "pi",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-16T02:29:06Z",
+    "pushed_at": "2026-07-19T08:11:19Z",
+    "updated_at": "2026-07-19T08:11:03Z",
+    "size": 812,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

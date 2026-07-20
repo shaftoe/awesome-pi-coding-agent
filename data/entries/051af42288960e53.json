@@ -9,7 +9,7 @@
     "repo_full_name": "quincycs/pi-qcode",
     "description": "Native vscode extension for pi coding agent.  aka pi-vscode-qcode",
     "stars": 10,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

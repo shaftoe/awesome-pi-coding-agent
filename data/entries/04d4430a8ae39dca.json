@@ -10,7 +10,7 @@
     "description": "Self-hosted, mobile-first web app for delegating tasks to AI coding agents (Pi, Cursor) — like Devin but provider-neutral.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 4,
     "topics": [
       "ai-agents",
       "ai-coding-agent",
@@ -31,9 +31,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-26T11:31:12Z",
-    "pushed_at": "2026-07-18T23:42:32Z",
+    "pushed_at": "2026-07-19T22:58:32Z",
     "updated_at": "2026-07-05T07:10:30Z",
-    "size": 13781,
+    "size": 14388,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

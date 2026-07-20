@@ -1,0 +1,35 @@
+{
+  "id": "@bitmonk8/pi-theta",
+  "name": "@bitmonk8/pi-theta",
+  "url": "https://www.npmjs.com/package/@bitmonk8/pi-theta",
+  "source": "npm-search",
+  "description": "A scripting language for Pi agents: write the predictable parts of an agent task as code and leave only the fuzzy parts to the model.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@bitmonk8/pi-theta",
+    "description": "A scripting language for Pi agents: write the predictable parts of an agent task as code and leave only the fuzzy parts to the model.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "extension",
+      "theta",
+      "scripting-language",
+      "dsl",
+      "agent",
+      "subagent",
+      "prompt-engineering"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-07-19T21:48:21.099Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

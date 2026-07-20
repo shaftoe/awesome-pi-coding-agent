@@ -1,0 +1,32 @@
+{
+  "id": "pi-run-mode",
+  "name": "pi-run-mode",
+  "url": "https://www.npmjs.com/package/pi-run-mode",
+  "source": "npm-search",
+  "description": "Ask, plan, and auto workflows for pi — control permissions, plan safely, and execute with the right model",
+  "metadata": {
+    "github_url": "https://github.com/ouzhenkun/pi-run-mode",
+    "npm_name": "pi-run-mode",
+    "description": "Ask, plan, and auto workflows for pi — control permissions, plan safely, and execute with the right model",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "mode",
+      "plan",
+      "permission",
+      "ask",
+      "auto"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-07-19T05:34:27.029Z",
+    "npm_downloads_monthly": 254,
+    "npm_downloads_weekly": 254,
+    "npm_score_final": 17.946665,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

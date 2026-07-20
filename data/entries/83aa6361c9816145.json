@@ -1,0 +1,25 @@
+{
+  "id": "@agentoom/pi-reviewer",
+  "name": "@agentoom/pi-reviewer",
+  "url": "https://www.npmjs.com/package/@agentoom/pi-reviewer",
+  "source": "npm-search",
+  "description": "Post-task multi-area code review extension for pi — 7 specialised review areas (general, security, code quality, UI/UX, testing, performance, scope) with a checkbox picker UI",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@agentoom/pi-reviewer",
+    "description": "Post-task multi-area code review extension for pi — 7 specialised review areas (general, security, code quality, UI/UX, testing, performance, scope) with a checkbox picker UI",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-07-19T09:13:15.105Z",
+    "npm_downloads_monthly": 201,
+    "npm_downloads_weekly": 201,
+    "npm_score_final": 17.37402,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
