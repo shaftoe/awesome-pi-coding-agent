@@ -1,0 +1,29 @@
+{
+  "id": "pi-tian-repo-model",
+  "name": "pi-tian-repo-model",
+  "url": "https://www.npmjs.com/package/pi-tian-repo-model",
+  "source": "npm-search",
+  "description": "Per-repository skill enable and disable controls for the pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/TianZuo555/pi-tian-extensions",
+    "npm_name": "pi-tian-repo-skills",
+    "description": "Per-repository skill enable and disable controls for the pi coding agent.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "skills"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-21T12:14:32.398Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

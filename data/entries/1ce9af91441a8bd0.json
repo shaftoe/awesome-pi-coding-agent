@@ -1,0 +1,25 @@
+{
+  "id": "pi-compact-tui",
+  "name": "pi-compact-tui",
+  "url": "https://www.npmjs.com/package/pi-compact-tui",
+  "source": "npm-search",
+  "description": "Pi extension bundle with compact, distraction-free editor and footer components for a focused coding experience",
+  "metadata": {
+    "github_url": "https://github.com/saltfishpr/pi-compact-tui",
+    "npm_name": "pi-compact-tui",
+    "description": "Pi extension bundle with compact, distraction-free editor and footer components for a focused coding experience",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-07-21T12:38:32.200Z",
+    "npm_downloads_monthly": 133,
+    "npm_downloads_weekly": 133,
+    "npm_score_final": 15.98722,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

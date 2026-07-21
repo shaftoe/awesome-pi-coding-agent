@@ -1,0 +1,25 @@
+{
+  "id": "EEEEEEEEdison-pi-my-config",
+  "name": "EEEEEEEEdison-pi-my-config",
+  "url": "https://github.com/EEEEEEEEdison/pi-my-config",
+  "source": "github-search",
+  "description": "Personal Pi coding-agent package: OpenSpec skills/prompts + RTK extension",
+  "metadata": {
+    "github_url": "https://github.com/EEEEEEEEdison/pi-my-config",
+    "repo_full_name": "EEEEEEEEdison/pi-my-config",
+    "description": "Personal Pi coding-agent package: OpenSpec skills/prompts + RTK extension",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-21T06:54:19Z",
+    "pushed_at": "2026-07-21T06:54:24Z",
+    "updated_at": "2026-07-21T06:55:32Z",
+    "size": 28,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

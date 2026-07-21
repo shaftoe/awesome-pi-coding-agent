@@ -1,0 +1,30 @@
+{
+  "id": "joshbochu-pi-code-tool-ts",
+  "name": "joshbochu-pi-code-tool-ts",
+  "url": "https://github.com/joshbochu/pi-code-tool-ts",
+  "source": "github-search",
+  "description": "TypeScript-first code mode for Pi with persistent Bun execution and tool-calling",
+  "metadata": {
+    "github_url": "https://github.com/joshbochu/pi-code-tool-ts",
+    "repo_full_name": "joshbochu/pi-code-tool-ts",
+    "description": "TypeScript-first code mode for Pi with persistent Bun execution and tool-calling",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "bun",
+      "pi",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-19T21:36:56Z",
+    "pushed_at": "2026-07-21T07:48:41Z",
+    "updated_at": "2026-07-21T07:49:18Z",
+    "size": 80,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
