@@ -1,0 +1,25 @@
+{
+  "id": "kafeg-pi-grep-ast",
+  "name": "kafeg-pi-grep-ast",
+  "url": "https://github.com/kafeg/pi-grep-ast",
+  "source": "github-search",
+  "description": "Pi Agent Package for https://github.com/Aider-AI/grep-ast",
+  "metadata": {
+    "github_url": "https://github.com/kafeg/pi-grep-ast",
+    "repo_full_name": "kafeg/pi-grep-ast",
+    "description": "Pi Agent Package for https://github.com/Aider-AI/grep-ast",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-21T19:59:29Z",
+    "pushed_at": "2026-07-21T20:42:05Z",
+    "updated_at": "2026-07-21T20:42:21Z",
+    "size": 4,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "session-orchestrator",
+  "name": "session-orchestrator",
+  "url": "https://www.npmjs.com/package/session-orchestrator",
+  "source": "npm-search",
+  "description": "Loop engineering for AI coding agents — turn ad-hoc sessions into a repeatable research → plan → wave-execute → close loop with verification gates. Runs on Claude Code, Codex CLI, Cursor, and Pi.",
+  "metadata": {
+    "github_url": "https://github.com/Kanevry/session-orchestrator",
+    "npm_name": "session-orchestrator",
+    "description": "Loop engineering for AI coding agents — turn ad-hoc sessions into a repeatable research → plan → wave-execute → close loop with verification gates. Runs on Claude Code, Codex CLI, Cursor, and Pi.",
+    "keywords": [
+      "pi-package",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "cursor",
+      "ai-agents",
+      "agentic-coding",
+      "subagents",
+      "orchestration",
+      "developer-tools",
+      "mcp",
+      "llm"
+    ],
+    "version": "3.17.0",
+    "published_at": "2026-07-21T06:06:56.262Z",
+    "npm_downloads_monthly": 142,
+    "npm_downloads_weekly": 142,
+    "npm_score_final": 15.443165,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

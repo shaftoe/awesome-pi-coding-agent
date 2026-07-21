@@ -1,0 +1,25 @@
+{
+  "id": "max-miller1204-pi-build-conductor",
+  "name": "max-miller1204-pi-build-conductor",
+  "url": "https://github.com/max-miller1204/pi-build-conductor",
+  "source": "github-search",
+  "description": "Safe multi-agent build orchestration for Pi",
+  "metadata": {
+    "github_url": "https://github.com/max-miller1204/pi-build-conductor",
+    "repo_full_name": "max-miller1204/pi-build-conductor",
+    "description": "Safe multi-agent build orchestration for Pi",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-20T15:17:41Z",
+    "pushed_at": "2026-07-20T16:19:22Z",
+    "updated_at": "2026-07-21T19:55:49Z",
+    "size": 77,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Reindeer-AI-pi-context-curator",
+  "name": "Reindeer-AI-pi-context-curator",
+  "url": "https://github.com/Reindeer-AI/pi-context-curator",
+  "source": "github-search",
+  "description": "Human-in-the-loop semantic context curation for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Reindeer-AI/pi-context-curator",
+    "repo_full_name": "Reindeer-AI/pi-context-curator",
+    "description": "Human-in-the-loop semantic context curation for the Pi coding agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-20T15:51:56Z",
+    "pushed_at": "2026-07-20T19:52:51Z",
+    "updated_at": "2026-07-21T08:41:09Z",
+    "size": 296,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ediab-pi-elias",
+  "name": "ediab-pi-elias",
+  "url": "https://github.com/ediab/pi-elias",
+  "source": "github-search",
+  "description": "One-shot installer for the pi coding-agent harness + Elias's packages and skills",
+  "metadata": {
+    "github_url": "https://github.com/ediab/pi-elias",
+    "repo_full_name": "ediab/pi-elias",
+    "description": "One-shot installer for the pi coding-agent harness + Elias's packages and skills",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-18T10:00:25Z",
+    "pushed_at": "2026-07-21T04:06:16Z",
+    "updated_at": "2026-07-21T04:06:22Z",
+    "size": 21,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

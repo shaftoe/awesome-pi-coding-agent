@@ -1,0 +1,29 @@
+{
+  "id": "pi-workspace-pi-workspace",
+  "name": "pi-workspace-pi-workspace",
+  "url": "https://github.com/pi-workspace/pi-workspace",
+  "source": "github-search",
+  "description": "Pi Workspace is a local desktop app for working with Pi across Git repositories and long-running goals. Plan, implement, and pick up where you left off.",
+  "metadata": {
+    "github_url": "https://github.com/pi-workspace/pi-workspace",
+    "repo_full_name": "pi-workspace/pi-workspace",
+    "description": "Pi Workspace is a local desktop app for working with Pi across Git repositories and long-running goals. Plan, implement, and pick up where you left off.",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [
+      "coding-agent",
+      "developer-tools",
+      "pi-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-26T14:10:03Z",
+    "pushed_at": "2026-07-21T19:01:44Z",
+    "updated_at": "2026-07-21T23:00:42Z",
+    "size": 1103,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

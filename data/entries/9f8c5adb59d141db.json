@@ -8,7 +8,7 @@
     "github_url": "https://github.com/aadishv/pi-agy",
     "repo_full_name": "aadishv/pi-agy",
     "description": "Vibe coded minimal CLI to use Antigravity OAuth models via Pi coding agent. Heavily WIP",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": true,
     "created_at": "2025-12-20T04:33:48Z",
     "pushed_at": "2025-12-20T06:46:24Z",
-    "updated_at": "2026-07-19T03:32:56Z",
+    "updated_at": "2026-07-21T20:19:41Z",
     "size": 36,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

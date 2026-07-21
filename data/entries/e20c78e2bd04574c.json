@@ -1,0 +1,25 @@
+{
+  "id": "ViperJuice-agents",
+  "name": "ViperJuice-agents",
+  "url": "https://github.com/ViperJuice/agents",
+  "source": "github-search",
+  "description": "Fleet Pi agent packages and extensions for coding harnesses",
+  "metadata": {
+    "github_url": "https://github.com/ViperJuice/agents",
+    "repo_full_name": "ViperJuice/agents",
+    "description": "Fleet Pi agent packages and extensions for coding harnesses",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-29T06:40:40Z",
+    "pushed_at": "2026-07-21T15:30:43Z",
+    "updated_at": "2026-07-21T15:31:38Z",
+    "size": 67,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
