@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tadatuta/logseq-pi-integration",
     "repo_full_name": "tadatuta/logseq-pi-integration",
     "description": "Logseq plugin that connects to the Pi Coding Agent via slash command",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-03-11T12:12:49Z",
     "pushed_at": "2026-03-11T12:13:13Z",
-    "updated_at": "2026-03-11T12:14:18Z",
+    "updated_at": "2026-07-20T07:28:06Z",
     "size": 63,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

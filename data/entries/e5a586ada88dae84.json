@@ -1,0 +1,29 @@
+{
+  "id": "hs094-pi-tui-commands",
+  "name": "hs094-pi-tui-commands",
+  "url": "https://github.com/hs094/pi-tui-commands",
+  "source": "github-search",
+  "description": "Pi extension for interactive /command management — toggle TUI tools (lazygit, nvim, hunk, btop, yazi, …) as slash commands with built-in binary checks, │ custom registration, and persistent config",
+  "metadata": {
+    "github_url": "https://github.com/hs094/pi-tui-commands",
+    "repo_full_name": "hs094/pi-tui-commands",
+    "description": "Pi extension for interactive /command management — toggle TUI tools (lazygit, nvim, hunk, btop, yazi, …) as slash commands with built-in binary checks,  │ custom registration, and persistent config",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "pi-package",
+      "quality-of-life",
+      "tui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-18T14:33:05Z",
+    "pushed_at": "2026-07-20T17:32:01Z",
+    "updated_at": "2026-07-20T17:32:08Z",
+    "size": 1261,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

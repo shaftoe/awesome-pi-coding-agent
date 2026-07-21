@@ -1,0 +1,25 @@
+{
+  "id": "cmoyates-my-pi-setup",
+  "name": "cmoyates-my-pi-setup",
+  "url": "https://github.com/cmoyates/my-pi-setup",
+  "source": "github-search",
+  "description": "My pi coding-agent setup",
+  "metadata": {
+    "github_url": "https://github.com/cmoyates/my-pi-setup",
+    "repo_full_name": "cmoyates/my-pi-setup",
+    "description": "My pi coding-agent setup",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-20T23:27:06Z",
+    "pushed_at": "2026-07-20T23:32:58Z",
+    "updated_at": "2026-07-20T23:33:02Z",
+    "size": 0,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

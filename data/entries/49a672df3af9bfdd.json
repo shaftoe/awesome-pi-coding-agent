@@ -1,0 +1,29 @@
+{
+  "id": "andreeich-pi-agent-kickstart",
+  "name": "andreeich-pi-agent-kickstart",
+  "url": "https://github.com/andreeich/pi-agent-kickstart",
+  "source": "github-search",
+  "description": "Minimal Pi coding-agent setup with reusable extensions, skills, prompts, themes, and permission-safe defaults.",
+  "metadata": {
+    "github_url": "https://github.com/andreeich/pi-agent-kickstart",
+    "repo_full_name": "andreeich/pi-agent-kickstart",
+    "description": "Minimal Pi coding-agent setup with reusable extensions, skills, prompts, themes, and permission-safe defaults.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "cli",
+      "pi-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-20T07:56:46Z",
+    "pushed_at": "2026-07-20T07:57:03Z",
+    "updated_at": "2026-07-20T07:59:52Z",
+    "size": 139,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pi-ultra",
+  "name": "pi-ultra",
+  "url": "https://www.npmjs.com/package/pi-ultra",
+  "source": "npm-search",
+  "description": "Codex-style Ultra mode for Pi: GPT-5.6 Sol at max reasoning with proactive subagent delegation.",
+  "metadata": {
+    "github_url": "https://github.com/filipores/pi-ultra",
+    "npm_name": "pi-ultra",
+    "description": "Codex-style Ultra mode for Pi: GPT-5.6 Sol at max reasoning with proactive subagent delegation.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "codex",
+      "subagents",
+      "ultra"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-13T11:44:48.339Z",
+    "npm_downloads_monthly": 130,
+    "npm_downloads_weekly": 130,
+    "npm_score_final": 15.829552,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

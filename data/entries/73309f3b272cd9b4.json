@@ -1,0 +1,30 @@
+{
+  "id": "paipeline-pi-boss-voice",
+  "name": "paipeline-pi-boss-voice",
+  "url": "https://github.com/paipeline/pi-boss-voice",
+  "source": "github-search",
+  "description": "A Pi extension that speaks concise boss-style completion reports",
+  "metadata": {
+    "github_url": "https://github.com/paipeline/pi-boss-voice",
+    "repo_full_name": "paipeline/pi-boss-voice",
+    "description": "A Pi extension that speaks concise boss-style completion reports",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-agent",
+      "pi-package",
+      "text-to-speech",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-20T11:44:49Z",
+    "pushed_at": "2026-07-20T11:45:04Z",
+    "updated_at": "2026-07-20T11:45:48Z",
+    "size": 157,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

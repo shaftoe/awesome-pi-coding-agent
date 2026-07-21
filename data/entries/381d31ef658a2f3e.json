@@ -1,0 +1,25 @@
+{
+  "id": "gtonic-agent-pi",
+  "name": "gtonic-agent-pi",
+  "url": "https://github.com/gtonic/agent-pi",
+  "source": "github-search",
+  "description": "Containerized Pi (pi.dev) DevOps agent that manages self-describing services (llm-router): inspection, metrics/logs, and approval-gated lifecycle & config.",
+  "metadata": {
+    "github_url": "https://github.com/gtonic/agent-pi",
+    "repo_full_name": "gtonic/agent-pi",
+    "description": "Containerized Pi (pi.dev) DevOps agent that manages self-describing services (llm-router): inspection, metrics/logs, and approval-gated lifecycle & config.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-18T07:21:45Z",
+    "pushed_at": "2026-07-20T18:57:07Z",
+    "updated_at": "2026-07-20T20:07:08Z",
+    "size": 317,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

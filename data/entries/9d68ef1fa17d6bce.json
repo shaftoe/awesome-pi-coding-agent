@@ -1,0 +1,31 @@
+{
+  "id": "@nikolauska/linear-axi",
+  "name": "@nikolauska/linear-axi",
+  "url": "https://www.npmjs.com/package/@nikolauska/linear-axi",
+  "source": "npm-search",
+  "description": "AXI wrapper for the Linear MCP server",
+  "metadata": {
+    "github_url": "https://github.com/nikolauska/linear-axi",
+    "npm_name": "@nikolauska/linear-axi",
+    "description": "AXI wrapper for the Linear MCP server",
+    "keywords": [
+      "agent",
+      "agent-skills",
+      "axi",
+      "cli",
+      "linear",
+      "mcp",
+      "pi-package"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-07-20T21:05:11.742Z",
+    "npm_downloads_monthly": 397,
+    "npm_downloads_weekly": 397,
+    "npm_score_final": 19.436695,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

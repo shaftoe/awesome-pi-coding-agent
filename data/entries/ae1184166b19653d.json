@@ -3,19 +3,21 @@
   "name": "@async23/pi-codex-fast",
   "url": "https://www.npmjs.com/package/@async23/pi-codex-fast",
   "source": "npm-search",
-  "description": "Interactively enable or disable Pi Context instruction files",
+  "description": "Native macOS completion notifications for Pi with tmux click-to-focus",
   "metadata": {
     "github_url": "https://github.com/Async23/pi-packages",
-    "npm_name": "@async23/pi-context-control",
-    "description": "Interactively enable or disable Pi Context instruction files",
+    "npm_name": "@async23/pi-notify",
+    "description": "Native macOS completion notifications for Pi with tmux click-to-focus",
     "keywords": [
       "pi-package",
       "pi-coding-agent",
-      "context",
-      "agents-md"
+      "notifications",
+      "macos",
+      "ghostty",
+      "tmux"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-07-19T20:10:33.259Z",
+    "version": "0.1.1",
+    "published_at": "2026-07-20T18:25:04.382Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

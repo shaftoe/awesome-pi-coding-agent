@@ -1,0 +1,25 @@
+{
+  "id": "osolmaz-onurpi",
+  "name": "osolmaz-onurpi",
+  "url": "https://github.com/osolmaz/onurpi",
+  "source": "github-search",
+  "description": "Pi coding agent extensions and reproducible configuration",
+  "metadata": {
+    "github_url": "https://github.com/osolmaz/onurpi",
+    "repo_full_name": "osolmaz/onurpi",
+    "description": "Pi coding agent extensions and reproducible configuration",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-19T13:43:02Z",
+    "pushed_at": "2026-07-20T17:03:26Z",
+    "updated_at": "2026-07-20T17:04:31Z",
+    "size": 263,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "clankercode-pi-goal-expander",
+  "name": "clankercode-pi-goal-expander",
+  "url": "https://github.com/clankercode/pi-goal-expander",
+  "source": "github-search",
+  "description": "Expand a rough goal into concrete objective, acceptance criteria, subgoals, and open questions for Pi sessions.",
+  "metadata": {
+    "github_url": "https://github.com/clankercode/pi-goal-expander",
+    "repo_full_name": "clankercode/pi-goal-expander",
+    "description": "Expand a rough goal into concrete objective, acceptance criteria, subgoals, and open questions for Pi sessions.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "acceptance-criteria",
+      "coding-agent",
+      "goal",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "planning",
+      "subgoals",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-20T08:09:06Z",
+    "pushed_at": "2026-07-20T16:48:44Z",
+    "updated_at": "2026-07-20T16:49:20Z",
+    "size": 249,
+    "license": "Unlicense",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

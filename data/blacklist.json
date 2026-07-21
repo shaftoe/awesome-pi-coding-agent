@@ -39893,5 +39893,177 @@
 		"reason": "Non-English (German) title and description",
 		"blacklisted_at": "2026-07-19T23:58:07.493Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/77zane/oh-my-agent-platform",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-20T23:56:25.057Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=AQl5Q-0l7FQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-20T23:56:25.178Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/disler/fusion-harness",
+		"reason": "covered by dedicated source: github.com",
+		"blacklisted_at": "2026-07-20T23:56:25.253Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/PSeitz/prompt-history-pi-package",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-20T23:56:25.27Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Vt-mmm/pi_agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-20T23:56:25.297Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Huti-K/Marlen",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-20T23:56:25.326Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/kryoz/caveman-plugin",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-07-20T23:56:25.362Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/jonj20/minicode",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-20T23:56:25.431Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Lnearfar/pi-provider-usage-status",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-20T23:56:25.523Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/PSeitz/no-expert-pi-package",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-20T23:56:25.619Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=gMrNQbW5Am8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-20T23:56:25.628Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/joshbochu/pi-oscura-theme",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-20T23:56:25.657Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/salus-ryan/mobile-agent-guardian",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-20T23:56:25.736Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/534529531/ralph-flow-pi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-20T23:56:25.746Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/iflytek/memflywheel",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-20T23:56:25.843Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/skxingyu/pi-thinking-zh-hook",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-20T23:56:25.899Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=kmwexWIa9aQ",
+		"reason": "Non-English title and description (German)",
+		"blacklisted_at": "2026-07-20T23:59:31.215Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@igor-guari/pi-recap",
+		"reason": "Non-English description (Portuguese)",
+		"blacklisted_at": "2026-07-20T23:59:31.25Z",
+		"source": "manual"
 	}
 ]

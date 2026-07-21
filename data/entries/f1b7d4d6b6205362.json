@@ -8,7 +8,7 @@
     "github_url": "https://github.com/jnsahaj/pi-agent-browser-screenshot",
     "repo_full_name": "jnsahaj/pi-agent-browser-screenshot",
     "description": "pi extension: inline agent-browser screenshots in the TUI, including inside tmux via kitty Unicode placeholders",
-    "stars": 11,
+    "stars": 12,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-16T19:39:50Z",
     "pushed_at": "2026-07-16T19:47:51Z",
-    "updated_at": "2026-07-18T12:11:38Z",
+    "updated_at": "2026-07-20T11:23:44Z",
     "size": 215,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

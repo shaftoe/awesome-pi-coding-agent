@@ -1,0 +1,25 @@
+{
+  "id": "Shreyasd10-pi-grok-style-tools",
+  "name": "Shreyasd10-pi-grok-style-tools",
+  "url": "https://github.com/Shreyasd10/pi-grok-style-tools",
+  "source": "github-search",
+  "description": "Grok Build–style TUI for Pi: GrokNight theme, braille spinner, ◆ tools, prompt box",
+  "metadata": {
+    "github_url": "https://github.com/Shreyasd10/pi-grok-style-tools",
+    "repo_full_name": "Shreyasd10/pi-grok-style-tools",
+    "description": "Grok Build–style TUI for Pi: GrokNight theme, braille spinner, ◆ tools, prompt box",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-20T18:37:24Z",
+    "pushed_at": "2026-07-20T18:37:28Z",
+    "updated_at": "2026-07-20T18:38:41Z",
+    "size": 88,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

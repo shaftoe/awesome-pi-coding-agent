@@ -1,0 +1,25 @@
+{
+  "id": "tuong-nguyen-vn-pi-hd-config",
+  "name": "tuong-nguyen-vn-pi-hd-config",
+  "url": "https://github.com/tuong-nguyen-vn/pi-hd-config",
+  "source": "github-search",
+  "description": "Pi coding-agent config for HD proxy (anthropic/openai/google native APIs + painter/view-media/subagent extensions)",
+  "metadata": {
+    "github_url": "https://github.com/tuong-nguyen-vn/pi-hd-config",
+    "repo_full_name": "tuong-nguyen-vn/pi-hd-config",
+    "description": "Pi coding-agent config for HD proxy (anthropic/openai/google native APIs + painter/view-media/subagent extensions)",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-20T11:10:36Z",
+    "pushed_at": "2026-07-20T14:30:24Z",
+    "updated_at": "2026-07-20T14:38:38Z",
+    "size": 64,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}
