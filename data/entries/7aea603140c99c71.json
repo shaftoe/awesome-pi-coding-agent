@@ -1,0 +1,25 @@
+{
+  "id": "LiusuZeng-pi-deck",
+  "name": "LiusuZeng-pi-deck",
+  "url": "https://github.com/LiusuZeng/pi-deck",
+  "source": "github-search",
+  "description": "Pi Deck — a local command deck for Pi agents.",
+  "metadata": {
+    "github_url": "https://github.com/LiusuZeng/pi-deck",
+    "repo_full_name": "LiusuZeng/pi-deck",
+    "description": "Pi Deck — a local command deck for Pi agents.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-27T05:05:52Z",
+    "pushed_at": "2026-07-18T06:27:21Z",
+    "updated_at": "2026-07-20T01:49:56Z",
+    "size": 1478,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

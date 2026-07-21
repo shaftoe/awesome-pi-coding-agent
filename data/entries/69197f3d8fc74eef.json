@@ -1,0 +1,35 @@
+{
+  "id": "@qianhuan-lxs/pi-mcp-bridge",
+  "name": "@qianhuan-lxs/pi-mcp-bridge",
+  "url": "https://www.npmjs.com/package/@qianhuan-lxs/pi-mcp-bridge",
+  "source": "npm-search",
+  "description": "Pi Agent extension that bridges MCP servers to the LLM via two dynamic-context tools (CallMcpTool + FetchMcpResource). Filesystem-is-everything: each MCP server is described by meta.json + tools/*.json, loaded into context on session start.",
+  "metadata": {
+    "github_url": "https://github.com/qianhuan-lxs/pi-mcp-bridge",
+    "npm_name": "@qianhuan-lxs/pi-mcp-bridge",
+    "description": "Pi Agent extension that bridges MCP servers to the LLM via two dynamic-context tools (CallMcpTool + FetchMcpResource). Filesystem-is-everything: each MCP server is described by meta.json + tools/*.json, loaded into context on session start.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "mcp",
+      "model-context-protocol",
+      "ai",
+      "coding-agent",
+      "extension",
+      "dynamic-context",
+      "cursor",
+      "llm",
+      "bridge"
+    ],
+    "version": "0.5.6",
+    "published_at": "2026-07-19T09:25:57.482Z",
+    "npm_downloads_monthly": 2214,
+    "npm_downloads_weekly": 2214,
+    "npm_score_final": 27.646656,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

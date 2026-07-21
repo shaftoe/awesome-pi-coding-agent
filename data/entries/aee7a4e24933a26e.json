@@ -1,0 +1,28 @@
+{
+  "id": "@reddb-io/red-skills-internal",
+  "name": "@reddb-io/red-skills-internal",
+  "url": "https://www.npmjs.com/package/@reddb-io/red-skills-internal",
+  "source": "npm-search",
+  "description": "reddb.io memory plugin - governed operational memory for code agents that lives on top of dev. Supports markdown notes, RedDB graph memory, zero-token governed recall, context packs, claim checks, readiness, optional lifecycle hooks, MCP/HTTP read surface",
+  "metadata": {
+    "github_url": "https://github.com/reddb-io/red-skills",
+    "npm_name": "@reddb-io/red-skills-memory",
+    "description": "reddb.io memory plugin - governed operational memory for code agents that lives on top of dev. Supports markdown notes, RedDB graph memory, zero-token governed recall, context packs, claim checks, readiness, optional lifecycle hooks, MCP/HTTP read surface",
+    "keywords": [
+      "pi-package",
+      "reddb-io",
+      "red-skills",
+      "dep:dev"
+    ],
+    "version": "2.77.0",
+    "published_at": "2026-07-20T20:07:45.430Z",
+    "npm_downloads_monthly": 71,
+    "npm_downloads_weekly": 71,
+    "npm_score_final": 13.134568,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

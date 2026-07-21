@@ -1,0 +1,30 @@
+{
+  "id": "andrewtchilds-pi-defender-xdr",
+  "name": "andrewtchilds-pi-defender-xdr",
+  "url": "https://github.com/andrewtchilds/pi-defender-xdr",
+  "source": "github-search",
+  "description": "Microsoft Defender XDR Advanced Hunting extension and investigation skills for pi",
+  "metadata": {
+    "github_url": "https://github.com/andrewtchilds/pi-defender-xdr",
+    "repo_full_name": "andrewtchilds/pi-defender-xdr",
+    "description": "Microsoft Defender XDR Advanced Hunting extension and investigation skills for pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "advanced-hunting",
+      "kql",
+      "microsoft-defender-xdr",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-20T06:53:40Z",
+    "pushed_at": "2026-07-20T06:57:59Z",
+    "updated_at": "2026-07-20T06:57:13Z",
+    "size": 158,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "jejay-pi-for-each",
+  "name": "jejay-pi-for-each",
+  "url": "https://github.com/jejay/pi-for-each",
+  "source": "github-search",
+  "description": "A pi extension that adds a /for-$each prompt loop – and hides it from your LLM! Supports children-in-directory and line-in-files iteration. Like subagents but much simpler, sequential and with more control for the user. Instead of describing the loop to the agent, just make a loop.",
+  "metadata": {
+    "github_url": "https://github.com/jejay/pi-for-each",
+    "repo_full_name": "jejay/pi-for-each",
+    "description": "A pi extension that adds a /for-$each prompt loop – and hides it from your LLM! Supports children-in-directory and line-in-files iteration. Like subagents but much simpler, sequential and with more control for the user. Instead of describing the loop to the agent, just make a loop.",
+    "stars": 13,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-20T07:20:12Z",
+    "pushed_at": "2026-07-20T10:17:38Z",
+    "updated_at": "2026-07-20T20:54:42Z",
+    "size": 1749,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
