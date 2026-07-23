@@ -40311,5 +40311,117 @@
 		"reason": "Not relevant: Pi-hole is a network DNS ad-blocker, not related to the Pi coding agent",
 		"blacklisted_at": "2026-07-21T23:57:58.833Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/arpagon/pi-web-providers-codex-cf",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-23T00:00:31.001Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@xevy/cli",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-23T00:00:31.18Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/ramtinJ95/pi-infra-command-guard",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-23T00:00:31.451Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/CorneliusTantius/pi-theme",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-23T00:00:31.497Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@brushes/course-proxy-ordering",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-23T00:00:31.549Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=0jatg-8RL_Q",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-23T00:00:31.629Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@yivin-agent/plugin-sdk",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-23T00:00:31.647Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=eo0nTmyiXgM",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-07-23T00:00:31.661Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/briankeefe/herdr-omp",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-23T00:00:31.677Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/gabelul/bpx-council",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-23T00:00:31.762Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@igor-guari/pi-omniroute",
+		"reason": "Description in Portuguese (non-English)",
+		"blacklisted_at": "2026-07-23T00:03:37.236Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/naicoi92/pi-reviewer-bot",
+		"reason": "Description in Vietnamese (non-English)",
+		"blacklisted_at": "2026-07-23T00:03:37.266Z",
+		"source": "manual"
 	}
 ]

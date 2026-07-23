@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "A polished TUI for Pi coding agent: animated logo header, Starship-style footer, rounded editor with model metadata, and prompt-box user messages. Combines the best of pi-haiku, pi-claude-code-tui, and pi-zentui.",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/OldSuns/pi-open-tui",
     "npm_name": "pi-open-tui",
     "description": "A polished TUI for Pi coding agent: animated logo header, Starship-style footer, rounded editor with model metadata, and prompt-box user messages. Combines the best of pi-haiku, pi-claude-code-tui, and pi-zentui.",
     "keywords": [
@@ -17,8 +17,8 @@
       "starship",
       "theme"
     ],
-    "version": "0.2.4",
-    "published_at": "2026-07-21T16:36:55.942Z",
+    "version": "0.2.5",
+    "published_at": "2026-07-22T03:10:59.583Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

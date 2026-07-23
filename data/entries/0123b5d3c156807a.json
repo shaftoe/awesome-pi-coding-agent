@@ -1,0 +1,25 @@
+{
+  "id": "Allegheny-Computer-Science-pi-config",
+  "name": "Allegheny-Computer-Science-pi-config",
+  "url": "https://github.com/Allegheny-Computer-Science/pi-config",
+  "source": "github-search",
+  "description": "Base configuration for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Allegheny-Computer-Science/pi-config",
+    "repo_full_name": "Allegheny-Computer-Science/pi-config",
+    "description": "Base configuration for Pi coding agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-21T15:50:07Z",
+    "pushed_at": "2026-07-22T23:00:14Z",
+    "updated_at": "2026-07-22T23:51:05Z",
+    "size": 12,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

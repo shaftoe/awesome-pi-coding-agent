@@ -1,0 +1,38 @@
+{
+  "id": "@enlavin/pi-computer-noises",
+  "name": "@enlavin/pi-computer-noises",
+  "url": "https://www.npmjs.com/package/@enlavin/pi-computer-noises",
+  "source": "npm-search",
+  "description": "Retro mainframe ambience for pi: hum + data blips while the agent thinks (70s/80s sci-fi console). One shared instance across all agents.",
+  "metadata": {
+    "github_url": "https://github.com/enlavin/pi-computer-noises",
+    "npm_name": "@enlavin/pi-computer-noises",
+    "description": "Retro mainframe ambience for pi: hum + data blips while the agent thinks (70s/80s sci-fi console). One shared instance across all agents.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "ai",
+      "cli",
+      "sounds",
+      "beeps",
+      "terminal",
+      "audio",
+      "ambience",
+      "retro",
+      "mainframe",
+      "synthesizer"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-07-22T19:34:07.058Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

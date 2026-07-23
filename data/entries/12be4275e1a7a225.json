@@ -1,0 +1,31 @@
+{
+  "id": "alexei-ciobanu-pi-session-callbacks",
+  "name": "alexei-ciobanu-pi-session-callbacks",
+  "url": "https://github.com/alexei-ciobanu/pi-session-callbacks",
+  "source": "github-search",
+  "description": "Durable background jobs and per-session callbacks for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/alexei-ciobanu/pi-session-callbacks",
+    "repo_full_name": "alexei-ciobanu/pi-session-callbacks",
+    "description": "Durable background jobs and per-session callbacks for the Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "background-jobs",
+      "callbacks",
+      "coding-agent",
+      "pi",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-22T06:01:04Z",
+    "pushed_at": "2026-07-22T06:01:07Z",
+    "updated_at": "2026-07-22T06:01:32Z",
+    "size": 37,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

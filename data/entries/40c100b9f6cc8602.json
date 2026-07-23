@@ -1,0 +1,29 @@
+{
+  "id": "@noice-tech/pi-changelog",
+  "name": "@noice-tech/pi-changelog",
+  "url": "https://www.npmjs.com/package/@noice-tech/pi-changelog",
+  "source": "npm-search",
+  "description": "Terminal bell notifications when Pi is ready.",
+  "metadata": {
+    "github_url": "https://github.com/noice-tech/noice-pi",
+    "npm_name": "@noice-tech/pi-terminal-bell",
+    "description": "Terminal bell notifications when Pi is ready.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "terminal",
+      "bell",
+      "notification"
+    ],
+    "version": "1.1.2",
+    "published_at": "2026-07-22T20:09:37.718Z",
+    "npm_downloads_monthly": 418,
+    "npm_downloads_weekly": 418,
+    "npm_score_final": 20.415833,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

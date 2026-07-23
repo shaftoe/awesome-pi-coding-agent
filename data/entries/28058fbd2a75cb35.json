@@ -8,10 +8,10 @@
     "title": "Setting Up and Using the Pi Coding Agent | DeepakNess",
     "name": "Setting Up and Using the Pi Coding Agent | DeepakNess",
     "description": "With this package, Pi can search the web, read documentation, understand YouTube videos, and clone and explore GitHub repositories – all without leaving the terminal.",
-    "published_at": "2026-06-13T00:00:00",
+    "published_at": "2026-05-29T00:00:00",
     "source_site": "DeepakNess",
     "source_url": "https://deepakness.com/blog/pi-agent-setup/",
-    "discovery_hint": "brave:pi-agent"
+    "discovery_hint": "brave:pi-coding-agent"
   },
   "category": "article"
 }

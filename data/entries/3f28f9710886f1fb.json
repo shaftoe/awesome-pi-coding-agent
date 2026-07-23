@@ -8,7 +8,7 @@
     "github_url": "https://github.com/TheArchitectit/pi-mega-compact",
     "repo_full_name": "TheArchitectit/pi-mega-compact",
     "description": "Layered, local, vector-backed context compressor for the pi coding agent (extension, no remote server).",
-    "stars": 6,
+    "stars": 7,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-11T17:44:58Z",
     "pushed_at": "2026-07-21T22:13:35Z",
-    "updated_at": "2026-07-21T22:19:51Z",
+    "updated_at": "2026-07-22T04:41:26Z",
     "size": 2325,
     "license": "BSD-2-Clause",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

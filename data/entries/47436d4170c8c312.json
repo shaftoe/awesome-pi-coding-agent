@@ -1,0 +1,29 @@
+{
+  "id": "@urizafrir/pi-reader",
+  "name": "@urizafrir/pi-reader",
+  "url": "https://www.npmjs.com/package/@urizafrir/pi-reader",
+  "source": "npm-search",
+  "description": "Browse files pi has read during the session.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@urizafrir/pi-reader",
+    "description": "Browse files pi has read during the session.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "file-browser",
+      "session-history",
+      "file-reader"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-15T14:30:08.938Z",
+    "npm_downloads_monthly": 79,
+    "npm_downloads_weekly": 79,
+    "npm_score_final": 14.332897,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

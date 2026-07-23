@@ -1,0 +1,25 @@
+{
+  "id": "ylli-crypto-Pi",
+  "name": "ylli-crypto-Pi",
+  "url": "https://github.com/ylli-crypto/Pi",
+  "source": "github-search",
+  "description": "Pi-Coding-Agent",
+  "metadata": {
+    "github_url": "https://github.com/ylli-crypto/Pi",
+    "repo_full_name": "ylli-crypto/Pi",
+    "description": "Pi-Coding-Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-22T10:43:40Z",
+    "pushed_at": "2026-07-22T20:23:43Z",
+    "updated_at": "2026-07-22T20:23:47Z",
+    "size": 1865,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Quit1yru-pi-working-gradient",
+  "name": "Quit1yru-pi-working-gradient",
+  "url": "https://github.com/Quit1yru/pi-working-gradient",
+  "source": "github-search",
+  "description": "Animated monochrome working indicators for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Quit1yru/pi-working-gradient",
+    "repo_full_name": "Quit1yru/pi-working-gradient",
+    "description": "Animated monochrome working indicators for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "animation",
+      "pi-coding-agent",
+      "pi-package",
+      "terminal",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-22T18:53:15Z",
+    "pushed_at": "2026-07-22T18:59:43Z",
+    "updated_at": "2026-07-22T19:00:25Z",
+    "size": 9,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

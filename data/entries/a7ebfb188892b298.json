@@ -1,0 +1,25 @@
+{
+  "id": "@coryrylan/tools",
+  "name": "@coryrylan/tools",
+  "url": "https://www.npmjs.com/package/@coryrylan/tools",
+  "source": "npm-search",
+  "description": "Shared ESLint, Prettier, Stylelint, Vale, Vite, and Vitest configs, custom lint rules, and pi coding-agent extensions - for keeping codebases maintainable when coding agents are the primary contributors.",
+  "metadata": {
+    "github_url": "https://github.com/coryrylan/tools",
+    "npm_name": "@coryrylan/tools",
+    "description": "Shared ESLint, Prettier, Stylelint, Vale, Vite, and Vitest configs, custom lint rules, and pi coding-agent extensions - for keeping codebases maintainable when coding agents are the primary contributors.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-07-22T13:57:52.200Z",
+    "npm_downloads_monthly": 151,
+    "npm_downloads_weekly": 151,
+    "npm_score_final": 17.086134,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

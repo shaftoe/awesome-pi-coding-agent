@@ -8,7 +8,7 @@
     "github_url": "https://github.com/md-riaz/omniroute-agent-extension",
     "repo_full_name": "md-riaz/omniroute-agent-extension",
     "description": "A seamless Pi Coding Agent extension that brings OmniRoute — the ultimate AI gateway — directly into your editor environment.",
-    "stars": 5,
+    "stars": 6,
     "forks": 6,
     "open_issues": 4,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-12T03:52:17Z",
     "pushed_at": "2026-06-04T15:08:38Z",
-    "updated_at": "2026-07-21T03:35:24Z",
+    "updated_at": "2026-07-22T13:23:36Z",
     "size": 152,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
