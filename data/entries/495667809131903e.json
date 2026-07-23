@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Hdaisen/pi-memory-system",
     "repo_full_name": "Hdaisen/pi-memory-system",
     "description": "🧠 A three-layer Markdown memory system for Pi Coding Agent — brains are for thinking, not for remembering",
-    "stars": 19,
+    "stars": 20,
     "forks": 2,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-11T11:37:23Z",
     "pushed_at": "2026-06-19T13:01:54Z",
-    "updated_at": "2026-07-04T07:26:24Z",
+    "updated_at": "2026-07-22T21:57:01Z",
     "size": 276,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

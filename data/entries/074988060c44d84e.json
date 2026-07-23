@@ -1,0 +1,28 @@
+{
+  "id": "usecases-skill",
+  "name": "usecases-skill",
+  "url": "https://www.npmjs.com/package/usecases-skill",
+  "source": "npm-search",
+  "description": "Pi skill for managing use cases (Cockburn): registry, summary/user-goal/subfunction UCs, decomposition, PlantUML maps, OpenSpec linkage.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "usecases-skill",
+    "description": "Pi skill for managing use cases (Cockburn): registry, summary/user-goal/subfunction UCs, decomposition, PlantUML maps, OpenSpec linkage.",
+    "keywords": [
+      "pi-package",
+      "use-cases",
+      "cockburn",
+      "agent-skills"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-15T09:00:20.474Z",
+    "npm_downloads_monthly": 301,
+    "npm_downloads_weekly": 301,
+    "npm_score_final": 19.441683,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

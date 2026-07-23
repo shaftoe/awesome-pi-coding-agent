@@ -1,0 +1,25 @@
+{
+  "id": "parth-thakre-pi-config",
+  "name": "parth-thakre-pi-config",
+  "url": "https://github.com/parth-thakre/pi-config",
+  "source": "github-search",
+  "description": "My pi coding agent configuration",
+  "metadata": {
+    "github_url": "https://github.com/parth-thakre/pi-config",
+    "repo_full_name": "parth-thakre/pi-config",
+    "description": "My pi coding agent configuration",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-18T11:46:48Z",
+    "pushed_at": "2026-07-22T11:11:49Z",
+    "updated_at": "2026-07-22T12:04:24Z",
+    "size": 844,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

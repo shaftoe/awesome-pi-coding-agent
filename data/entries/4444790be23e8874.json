@@ -1,0 +1,28 @@
+{
+  "id": "@alexeiled/architect",
+  "name": "@alexeiled/architect",
+  "url": "https://www.npmjs.com/package/@alexeiled/architect",
+  "source": "npm-search",
+  "description": "Evidence-based architecture design and review skills and subagent for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/alexei-led/architect",
+    "npm_name": "@alexeiled/architect",
+    "description": "Evidence-based architecture design and review skills and subagent for Pi.",
+    "keywords": [
+      "pi-package",
+      "architecture",
+      "code-review",
+      "coding-agent"
+    ],
+    "version": "0.9.2",
+    "published_at": "2026-07-15T14:18:50.947Z",
+    "npm_downloads_monthly": 227,
+    "npm_downloads_weekly": 227,
+    "npm_score_final": 18.35737,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

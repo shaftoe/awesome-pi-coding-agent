@@ -1,0 +1,25 @@
+{
+  "id": "danielboothcloud-pi-aio",
+  "name": "danielboothcloud-pi-aio",
+  "url": "https://github.com/danielboothcloud/pi-aio",
+  "source": "github-search",
+  "description": "All in one package/plugin for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/danielboothcloud/pi-aio",
+    "repo_full_name": "danielboothcloud/pi-aio",
+    "description": "All in one package/plugin for Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-22T06:34:50Z",
+    "pushed_at": "2026-07-22T17:13:26Z",
+    "updated_at": "2026-07-22T11:19:12Z",
+    "size": 442,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

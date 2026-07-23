@@ -1,0 +1,34 @@
+{
+  "id": "@false00/pi-linkedin",
+  "name": "@false00/pi-linkedin",
+  "url": "https://www.npmjs.com/package/@false00/pi-linkedin",
+  "source": "npm-search",
+  "description": "Production-focused LinkedIn job search tools for the Pi coding agent — resume-driven search, ranking, and public job detail extraction from LinkedIn guest job pages",
+  "metadata": {
+    "github_url": "https://github.com/false00/pi-linkedin",
+    "npm_name": "@false00/pi-linkedin",
+    "description": "Production-focused LinkedIn job search tools for the Pi coding agent — resume-driven search, ranking, and public job detail extraction from LinkedIn guest job pages",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "linkedin",
+      "linkedin-jobs",
+      "job-search",
+      "resume-matching",
+      "career",
+      "automation",
+      "false00"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-22T03:06:30.495Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

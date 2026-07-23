@@ -9,7 +9,7 @@
     "repo_full_name": "edxeth/pi-langfuse",
     "description": "Session-safe Langfuse v5 and OpenTelemetry observability for Pi agent with redacted traces, raw JSONL exports, local self-hosting, and privacy controls.",
     "stars": 12,
-    "forks": 4,
+    "forks": 5,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

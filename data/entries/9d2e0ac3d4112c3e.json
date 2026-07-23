@@ -1,0 +1,25 @@
+{
+  "id": "noonghunna-club-3090-pi-extensions",
+  "name": "noonghunna-club-3090-pi-extensions",
+  "url": "https://github.com/noonghunna/club-3090-pi-extensions",
+  "source": "github-search",
+  "description": "Pi coding-agent extensions for the club-3090 inference stack: observable zellij job execution (zellij_job) + a bash transcript mirror",
+  "metadata": {
+    "github_url": "https://github.com/noonghunna/club-3090-pi-extensions",
+    "repo_full_name": "noonghunna/club-3090-pi-extensions",
+    "description": "Pi coding-agent extensions for the club-3090 inference stack: observable zellij job execution (zellij_job) + a bash transcript mirror",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-22T10:29:14Z",
+    "pushed_at": "2026-07-22T23:07:34Z",
+    "updated_at": "2026-07-22T23:07:38Z",
+    "size": 44,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}
