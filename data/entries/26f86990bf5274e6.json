@@ -18,11 +18,11 @@
       "silicon-valley"
     ],
     "language": "TypeScript",
-    "archived": false,
+    "archived": true,
     "created_at": "2026-07-20T19:32:22Z",
-    "pushed_at": "2026-07-21T13:11:06Z",
-    "updated_at": "2026-07-21T13:51:32Z",
-    "size": 5,
+    "pushed_at": "2026-07-23T14:31:40Z",
+    "updated_at": "2026-07-23T14:33:19Z",
+    "size": 6,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

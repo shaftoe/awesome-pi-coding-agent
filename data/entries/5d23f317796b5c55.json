@@ -1,0 +1,25 @@
+{
+  "id": "gchigoo-pi-session-recall",
+  "name": "gchigoo-pi-session-recall",
+  "url": "https://github.com/gchigoo/pi-session-recall",
+  "source": "github-search",
+  "description": "Local-first Pi package for read-only session indexing and recall",
+  "metadata": {
+    "github_url": "https://github.com/gchigoo/pi-session-recall",
+    "repo_full_name": "gchigoo/pi-session-recall",
+    "description": "Local-first Pi package for read-only session indexing and recall",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-23T02:09:02Z",
+    "pushed_at": "2026-07-23T05:57:27Z",
+    "updated_at": "2026-07-23T05:57:55Z",
+    "size": 174,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

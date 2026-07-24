@@ -3,20 +3,20 @@
   "name": "pi-tian-repo-model",
   "url": "https://www.npmjs.com/package/pi-tian-repo-model",
   "source": "npm-search",
-  "description": "Ask the user a multiple-choice question (with a free-form fallback) from the pi coding agent.",
+  "description": "Per-repository skill enable and disable controls for the pi coding agent.",
   "metadata": {
     "github_url": "https://github.com/TianZuo555/pi-tian-extensions",
-    "npm_name": "pi-tian-ask-user",
-    "description": "Ask the user a multiple-choice question (with a free-form fallback) from the pi coding agent.",
+    "npm_name": "pi-tian-repo-skills",
+    "description": "Per-repository skill enable and disable controls for the pi coding agent.",
     "keywords": [
       "pi",
       "pi-package",
       "pi-extension",
       "pi-coding-agent",
-      "ask-user"
+      "skills"
     ],
     "version": "0.1.0",
-    "published_at": "2026-07-22T10:00:43.401Z",
+    "published_at": "2026-07-21T12:14:32.398Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

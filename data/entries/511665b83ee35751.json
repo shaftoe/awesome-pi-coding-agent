@@ -6,7 +6,7 @@
   "description": "Claude-Code-style dynamic workflows for Pi — fan a task out across 100s of subagents with real model routing, token/cost accounting, resume, git-worktree isolation, an interactive /workflows TUI, and a real /deep-research.",
   "metadata": {
     "github_url": "https://github.com/QuintinShaw/pi-dynamic-workflows",
-    "npm_name": "@quintinshaw/pi-dynamic-workflows",
+    "npm_name": "pi-dynamic-workflows-mingrui",
     "description": "Claude-Code-style dynamic workflows for Pi — fan a task out across 100s of subagents with real model routing, token/cost accounting, resume, git-worktree isolation, an interactive /workflows TUI, and a real /deep-research.",
     "keywords": [
       "pi-package",
@@ -27,15 +27,15 @@
       "code-review",
       "llm"
     ],
-    "version": "3.4.1",
-    "published_at": "2026-07-22T22:19:57.499Z",
-    "npm_downloads_monthly": 28027,
-    "npm_downloads_weekly": 9055,
-    "npm_score_final": 37.17548,
+    "version": "3.3.1",
+    "published_at": "2026-07-21T16:37:41.285Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "category": "extension"
 }

@@ -1,0 +1,25 @@
+{
+  "id": "pi-recent-user",
+  "name": "pi-recent-user",
+  "url": "https://www.npmjs.com/package/pi-recent-user",
+  "source": "npm-search",
+  "description": "pi extension: persistent widget showing your recent prompts, so you can resume context fast when returning to a long session.",
+  "metadata": {
+    "github_url": "https://github.com/ichewm/pi-recent-user",
+    "npm_name": "pi-recent-user",
+    "description": "pi extension: persistent widget showing your recent prompts, so you can resume context fast when returning to a long session.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-16T07:46:20.282Z",
+    "npm_downloads_monthly": 141,
+    "npm_downloads_weekly": 141,
+    "npm_score_final": 16.189104,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

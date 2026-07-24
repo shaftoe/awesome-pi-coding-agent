@@ -3,19 +3,19 @@
   "name": "@tmustier/extending-pi",
   "url": "https://www.npmjs.com/package/@tmustier/extending-pi",
   "source": "npm-search",
-  "description": "Pick code blocks or inline snippets from recent assistant messages to copy or insert.",
+  "description": "Detailed guidance for creating Agent Skills (Pi-compatible Agent Skills format).",
   "metadata": {
     "github_url": "https://github.com/tmustier/pi-extensions",
-    "npm_name": "@tmustier/pi-code-actions",
-    "description": "Pick code blocks or inline snippets from recent assistant messages to copy or insert.",
+    "npm_name": "@tmustier/pi-skill-creator",
+    "description": "Detailed guidance for creating Agent Skills (Pi-compatible Agent Skills format).",
     "keywords": [
       "pi-package"
     ],
-    "version": "0.1.5",
-    "published_at": "2026-05-07T16:17:05.791Z",
-    "npm_downloads_monthly": 105,
-    "npm_downloads_weekly": 20,
-    "npm_score_final": 15.176602,
+    "version": "0.3.4",
+    "published_at": "2026-07-16T14:26:35.316Z",
+    "npm_downloads_monthly": 353,
+    "npm_downloads_weekly": 290,
+    "npm_score_final": 19.343285,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
@@ -25,5 +25,5 @@
     "score": 84,
     "level": "active"
   },
-  "category": "misc"
+  "category": "extension"
 }

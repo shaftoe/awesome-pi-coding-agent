@@ -1,0 +1,29 @@
+{
+  "id": "@edgehero/pi-dispatch-admin",
+  "name": "@edgehero/pi-dispatch-admin",
+  "url": "https://www.npmjs.com/package/@edgehero/pi-dispatch-admin",
+  "source": "npm-search",
+  "description": "Operator console (a pi extension) + skill for the pi-dispatch self-hosted agent service: a /dispatch TUI for queue, spend, run history, triggers, and scheduled pause windows. Runs against a live pi-dispatch deployment.",
+  "metadata": {
+    "github_url": "https://github.com/edgehero/pi-dispatch",
+    "npm_name": "@edgehero/pi-dispatch-admin",
+    "description": "Operator console (a pi extension) + skill for the pi-dispatch self-hosted agent service: a /dispatch TUI for queue, spend, run history, triggers, and scheduled pause windows. Runs against a live pi-dispatch deployment.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "coding-agent",
+      "extension"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-23T17:44:12.346Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

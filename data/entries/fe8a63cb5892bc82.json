@@ -1,0 +1,25 @@
+{
+  "id": "skilled-labour",
+  "name": "skilled-labour",
+  "url": "https://www.npmjs.com/package/skilled-labour",
+  "source": "npm-search",
+  "description": "pi extension: compact block + single load_skill tool",
+  "metadata": {
+    "github_url": "https://github.com/jwdevantier/skilled-labour",
+    "npm_name": "skilled-labour",
+    "description": "pi extension: compact <available_skills> block + single load_skill tool",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-07-16T10:43:26.147Z",
+    "npm_downloads_monthly": 136,
+    "npm_downloads_weekly": 136,
+    "npm_score_final": 15.948173,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

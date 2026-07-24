@@ -1,0 +1,29 @@
+{
+  "id": "mistgc-pi-voice-input",
+  "name": "mistgc-pi-voice-input",
+  "url": "https://github.com/mistgc/pi-voice-input",
+  "source": "github-search",
+  "description": "Local, offline Chinese/English voice dictation extension for Pi coding agent — powered by SenseVoice via sherpa-onnx WASM. No cloud API keys required.",
+  "metadata": {
+    "github_url": "https://github.com/mistgc/pi-voice-input",
+    "repo_full_name": "mistgc/pi-voice-input",
+    "description": "Local, offline Chinese/English voice dictation extension for Pi coding agent — powered by SenseVoice via sherpa-onnx WASM. No cloud API keys required.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "asr",
+      "local",
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-23T10:44:33Z",
+    "pushed_at": "2026-07-23T15:54:45Z",
+    "updated_at": "2026-07-23T15:54:50Z",
+    "size": 58,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

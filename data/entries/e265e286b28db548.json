@@ -1,0 +1,25 @@
+{
+  "id": "RodCor-kimetsu-pi",
+  "name": "RodCor-kimetsu-pi",
+  "url": "https://github.com/RodCor/kimetsu-pi",
+  "source": "github-search",
+  "description": "Kimetsu brain as a Pi.dev package: persistent cross-session memory for the Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/RodCor/kimetsu-pi",
+    "repo_full_name": "RodCor/kimetsu-pi",
+    "description": "Kimetsu brain as a Pi.dev package: persistent cross-session memory for the Pi coding agent.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-23T02:20:24Z",
+    "pushed_at": "2026-07-23T12:54:41Z",
+    "updated_at": "2026-07-23T12:54:41Z",
+    "size": 21,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

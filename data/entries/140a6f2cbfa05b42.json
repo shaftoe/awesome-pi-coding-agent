@@ -3,32 +3,25 @@
   "name": "@firstpick/pi-utils",
   "url": "https://www.npmjs.com/package/@firstpick/pi-utils",
   "source": "npm-search",
-  "description": "Reusable Agent Skill for creating modern green HTML/CSS/JS presentations for chemical production QC laboratory audiences.",
+  "description": "Shared utilities for Firstpick Pi extension packages.",
   "metadata": {
     "github_url": "https://github.com/Firstp1ck/npm-packages",
-    "npm_name": "@firstpick/pi-skill-lab-qc-presentation-theme",
-    "description": "Reusable Agent Skill for creating modern green HTML/CSS/JS presentations for chemical production QC laboratory audiences.",
+    "npm_name": "@firstpick/pi-utils",
+    "description": "Shared utilities for Firstpick Pi extension packages.",
     "keywords": [
-      "pi-package",
       "pi",
       "pi-coding-agent",
-      "skill",
-      "agent-skill",
-      "presentation",
-      "html-presentation",
-      "quality-control",
-      "laboratory",
-      "chemical-production"
+      "utility"
     ],
-    "version": "0.1.3",
-    "published_at": "2026-06-16T22:34:13.245Z",
-    "npm_downloads_monthly": 102,
-    "npm_downloads_weekly": 25,
-    "npm_score_final": 15.020555,
+    "version": "0.2.4",
+    "published_at": "2026-07-20T16:01:14.980Z",
+    "npm_downloads_monthly": 7415,
+    "npm_downloads_weekly": 2617,
+    "npm_score_final": 39.19391,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "health": {
     "score": 91,

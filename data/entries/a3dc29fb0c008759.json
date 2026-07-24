@@ -1,0 +1,29 @@
+{
+  "id": "Lbryany-pi-plugins",
+  "name": "Lbryany-pi-plugins",
+  "url": "https://github.com/Lbryany/pi-plugins",
+  "source": "github-search",
+  "description": "A monorepo of pi extensions maintained by Lbryany",
+  "metadata": {
+    "github_url": "https://github.com/Lbryany/pi-plugins",
+    "repo_full_name": "Lbryany/pi-plugins",
+    "description": "A monorepo of pi extensions maintained by Lbryany",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "codebuddy",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-23T03:21:18Z",
+    "pushed_at": "2026-07-23T03:21:27Z",
+    "updated_at": "2026-07-23T03:22:20Z",
+    "size": 81,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

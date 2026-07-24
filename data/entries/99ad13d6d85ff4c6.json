@@ -1,0 +1,33 @@
+{
+  "id": "Ralph-Abejuela-react-fundamentals",
+  "name": "Ralph-Abejuela-react-fundamentals",
+  "url": "https://github.com/Ralph-Abejuela/react-fundamentals",
+  "source": "github-search",
+  "description": "React fundamentals enforced in your Pi coding agent. Auto-enriches context with React.dev best practices whenever you work with TSX/JSX files, plus a manual audit skill. Covers component purity, state management, effects, JSX rules, and common pitfalls.",
+  "metadata": {
+    "github_url": "https://github.com/Ralph-Abejuela/react-fundamentals",
+    "repo_full_name": "Ralph-Abejuela/react-fundamentals",
+    "description": "React fundamentals enforced in your Pi coding agent. Auto-enriches context with React.dev best practices whenever you work with TSX/JSX files, plus a manual audit skill. Covers component purity, state management, effects, JSX rules, and common pitfalls.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-skills",
+      "best-practices",
+      "code-quality",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "react"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-23T13:22:42Z",
+    "pushed_at": "2026-07-23T13:52:59Z",
+    "updated_at": "2026-07-23T13:54:24Z",
+    "size": 34,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
