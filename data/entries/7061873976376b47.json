@@ -1,0 +1,31 @@
+{
+  "id": "@psnext/s-subagents",
+  "name": "@psnext/s-subagents",
+  "url": "https://www.npmjs.com/package/@psnext/s-subagents",
+  "source": "npm-search",
+  "description": "sling extension for delegating tasks to subagents with chains, parallel execution, and TUI clarification",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@psnext/s-subagents",
+    "description": "sling extension for delegating tasks to subagents with chains, parallel execution, and TUI clarification",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "subagents",
+      "ai",
+      "agents",
+      "cli"
+    ],
+    "version": "0.1.20260723-1",
+    "published_at": "2026-07-23T18:45:28.933Z",
+    "npm_downloads_monthly": 442,
+    "npm_downloads_weekly": 63,
+    "npm_score_final": 20.099394,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

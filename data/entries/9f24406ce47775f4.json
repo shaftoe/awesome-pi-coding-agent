@@ -3,32 +3,33 @@
   "name": "@synadia-ai/nats-pi-headless",
   "url": "https://www.npmjs.com/package/@synadia-ai/nats-pi-headless",
   "source": "npm-search",
-  "description": "Headless NATS agent host that spawns, prompts, and stops PI coding-agent sessions as first-class Synadia Agent Protocol for NATS v0.3 instances. Each session registers as agents.prompt.pi-headless..; a small controller service adds verb",
+  "description": "Synadia Agent Protocol for NATS channel for PI Agent. Makes every PI session a discoverable, spec-compliant agent on NATS.",
   "metadata": {
     "github_url": "https://github.com/synadia-ai/synadia-agents",
-    "npm_name": "@synadia-ai/nats-pi-headless",
-    "description": "Headless NATS agent host that spawns, prompts, and stops PI coding-agent sessions as first-class Synadia Agent Protocol for NATS v0.3 instances. Each session registers as agents.prompt.pi-headless.<owner>.<session_id>; a small controller service adds verb",
+    "npm_name": "@synadia-ai/nats-pi-channel",
+    "description": "Synadia Agent Protocol for NATS channel for PI Agent. Makes every PI session a discoverable, spec-compliant agent on NATS.",
     "keywords": [
-      "nats",
-      "agents",
-      "agent-protocol",
-      "pi",
+      "pi-package",
       "pi-agent",
+      "nats",
+      "agent",
+      "channel",
+      "synadia-agent-protocol",
       "synadia-agents"
     ],
-    "version": "0.5.5",
-    "published_at": "2026-05-12T17:21:17.479Z",
-    "npm_downloads_monthly": 97,
-    "npm_downloads_weekly": 8,
-    "npm_score_final": 24.597857,
+    "version": "0.5.6",
+    "published_at": "2026-05-26T14:56:07.992Z",
+    "npm_downloads_monthly": 118,
+    "npm_downloads_weekly": 28,
+    "npm_score_final": 15.2798,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 88,
     "level": "active"
   },
-  "category": "misc"
+  "category": "extension"
 }

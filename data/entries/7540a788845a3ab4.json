@@ -1,0 +1,31 @@
+{
+  "id": "vigbe-pi-odoo-develop",
+  "name": "vigbe-pi-odoo-develop",
+  "url": "https://github.com/vigbe/pi-odoo-develop",
+  "source": "github-search",
+  "description": "Version-aware Odoo development for the Pi coding agent — guarantees the Odoo version is known before any code is written.",
+  "metadata": {
+    "github_url": "https://github.com/vigbe/pi-odoo-develop",
+    "repo_full_name": "vigbe/pi-odoo-develop",
+    "description": "Version-aware Odoo development for the Pi coding agent — guarantees the Odoo version is known before any code is written.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "odoo",
+      "odoo-development",
+      "pi-coding-agent",
+      "pi-package",
+      "version-aware"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-23T20:33:47Z",
+    "pushed_at": "2026-07-23T20:33:51Z",
+    "updated_at": "2026-07-23T20:35:21Z",
+    "size": 454,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

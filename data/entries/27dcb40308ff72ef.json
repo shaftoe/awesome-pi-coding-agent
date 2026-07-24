@@ -1,0 +1,25 @@
+{
+  "id": "LosFurina-horsepower",
+  "name": "LosFurina-horsepower",
+  "url": "https://github.com/LosFurina/horsepower",
+  "source": "github-search",
+  "description": "Explicit multi-agent execution and runtime evidence for Pi, governed by OpenSpec.",
+  "metadata": {
+    "github_url": "https://github.com/LosFurina/horsepower",
+    "repo_full_name": "LosFurina/horsepower",
+    "description": "Explicit multi-agent execution and runtime evidence for Pi, governed by OpenSpec.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-21T16:38:31Z",
+    "pushed_at": "2026-07-23T16:14:02Z",
+    "updated_at": "2026-07-23T16:14:05Z",
+    "size": 1782,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

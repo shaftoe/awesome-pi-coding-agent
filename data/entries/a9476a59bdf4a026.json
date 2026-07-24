@@ -1,0 +1,38 @@
+{
+  "id": "getpipher-term",
+  "name": "getpipher-term",
+  "url": "https://github.com/getpipher/term",
+  "source": "github-search",
+  "description": "Programmatic tmux driver for the pi coding agent — spawn/drive a tmux session (send-keys, capture-pane, wait-for-pattern/quiet, resize, kill) for autonomous TUI QA. tmux-only; ships as an importable lib + a thin pi extension.",
+  "metadata": {
+    "github_url": "https://github.com/getpipher/term",
+    "repo_full_name": "getpipher/term",
+    "description": "Programmatic tmux driver for the pi coding agent — spawn/drive a tmux session (send-keys, capture-pane, wait-for-pattern/quiet, resize, kill) for autonomous TUI QA. tmux-only; ships as an importable lib + a thin pi extension.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "automation",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "programmatic-terminal",
+      "qa",
+      "terminal",
+      "testing",
+      "tmux",
+      "tui",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-22T09:41:15Z",
+    "pushed_at": "2026-07-23T09:25:21Z",
+    "updated_at": "2026-07-23T09:25:26Z",
+    "size": 92,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

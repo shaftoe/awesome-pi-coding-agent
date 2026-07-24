@@ -8,7 +8,7 @@
     "github_url": "https://github.com/dafei1288/pi-agent-hud",
     "repo_full_name": "dafei1288/pi-agent-hud",
     "description": "The inspiration for pi-hub comes from claude-hub",
-    "stars": 5,
+    "stars": 6,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-28T11:42:02Z",
     "pushed_at": "2026-06-11T06:48:18Z",
-    "updated_at": "2026-07-01T07:34:15Z",
+    "updated_at": "2026-07-23T08:45:33Z",
     "size": 2110,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

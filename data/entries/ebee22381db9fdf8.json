@@ -6,7 +6,7 @@
   "description": "Pi extension that restores the Antigravity (Gemini 3, Claude, GPT-OSS) OAuth provider.",
   "metadata": {
     "github_url": "https://github.com/yofriadi/pi-extensions",
-    "npm_name": "@yofriadi/pi-provider-antigravity",
+    "npm_name": "@yofriadi/pi-antigravity-oauth",
     "description": "Pi extension that restores the Antigravity (Gemini 3, Claude, GPT-OSS) OAuth provider.",
     "keywords": [
       "pi-package",
@@ -17,11 +17,11 @@
       "claude",
       "oauth"
     ],
-    "version": "0.2.0",
-    "published_at": "2026-07-22T07:00:10.944Z",
-    "npm_downloads_monthly": 51,
-    "npm_downloads_weekly": 51,
-    "npm_score_final": 12.759884,
+    "version": "0.3.0",
+    "published_at": "2026-06-22T20:06:49.346Z",
+    "npm_downloads_monthly": 358,
+    "npm_downloads_weekly": 94,
+    "npm_score_final": 19.559767,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

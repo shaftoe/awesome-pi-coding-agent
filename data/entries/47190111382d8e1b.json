@@ -1,0 +1,32 @@
+{
+  "id": "pi-tidy-footer",
+  "name": "pi-tidy-footer",
+  "url": "https://www.npmjs.com/package/pi-tidy-footer",
+  "source": "npm-search",
+  "description": "Tidy footer for Pi coding agent — native layout, layered with new features: extension sorting and wrapping, token balance display, git file status, and tool activity indicators; minor display tweaks for extension labels.",
+  "metadata": {
+    "github_url": "https://github.com/eriiic7z/pi-tidy-footer",
+    "npm_name": "pi-tidy-footer",
+    "description": "Tidy footer for Pi coding agent — native layout, layered with new features: extension sorting and wrapping, token balance display, git file status, and tool activity indicators; minor display tweaks for extension labels.",
+    "keywords": [
+      "tidy-footer",
+      "footer",
+      "balance",
+      "statusline",
+      "pi",
+      "tui",
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.5.2",
+    "published_at": "2026-07-23T17:30:35.895Z",
+    "npm_downloads_monthly": 124,
+    "npm_downloads_weekly": 124,
+    "npm_score_final": 15.474472,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

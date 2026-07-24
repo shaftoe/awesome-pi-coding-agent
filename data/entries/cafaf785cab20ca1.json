@@ -1,0 +1,30 @@
+{
+  "id": "pi-toast",
+  "name": "pi-toast",
+  "url": "https://www.npmjs.com/package/pi-toast",
+  "source": "npm-search",
+  "description": "Ephemeral toast overlays for the Pi TUI",
+  "metadata": {
+    "github_url": "https://github.com/santychuy/pi-setup",
+    "npm_name": "pi-toast",
+    "description": "Ephemeral toast overlays for the Pi TUI",
+    "keywords": [
+      "notification",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "toast",
+      "tui"
+    ],
+    "version": "1.1.1",
+    "published_at": "2026-05-12T05:03:13.327Z",
+    "npm_downloads_monthly": 70,
+    "npm_downloads_weekly": 17,
+    "npm_score_final": 13.181931,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
