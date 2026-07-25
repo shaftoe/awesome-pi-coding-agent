@@ -10,7 +10,7 @@
     "description": "🔄️ Sync pi.dev agent sessions to SQLite for analytics, uses node:sqlite",
     "stars": 3,
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 2,
     "topics": [
       "node-sqlite",
       "pi-coding-agent",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-12T15:57:50Z",
-    "pushed_at": "2026-07-22T03:30:51Z",
-    "updated_at": "2026-07-20T21:12:57Z",
-    "size": 256,
+    "pushed_at": "2026-07-24T21:09:53Z",
+    "updated_at": "2026-07-24T21:09:36Z",
+    "size": 257,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

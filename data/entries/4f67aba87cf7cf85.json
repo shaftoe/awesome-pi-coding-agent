@@ -1,0 +1,31 @@
+{
+  "id": "@yuanbopang/frugal",
+  "name": "@yuanbopang/frugal",
+  "url": "https://www.npmjs.com/package/@yuanbopang/frugal",
+  "source": "npm-search",
+  "description": "Cloud cost awareness plugin for coding agents (Claude Code, Codex, Copilot, Qoder, Gemini CLI, OpenCode, pi, Cursor, Windsurf, Cline, Kiro)",
+  "metadata": {
+    "github_url": "https://github.com/yuanboP/frugal",
+    "npm_name": "@yuanbopang/frugal",
+    "description": "Cloud cost awareness plugin for coding agents (Claude Code, Codex, Copilot, Qoder, Gemini CLI, OpenCode, pi, Cursor, Windsurf, Cline, Kiro)",
+    "keywords": [
+      "cost",
+      "billing",
+      "cloud",
+      "agents",
+      "opencode-plugin",
+      "pi-package",
+      "skills"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-07-17T22:13:34.905Z",
+    "npm_downloads_monthly": 242,
+    "npm_downloads_weekly": 242,
+    "npm_score_final": 17.860708,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

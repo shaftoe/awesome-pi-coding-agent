@@ -40725,5 +40725,171 @@
 		"reason": "Not about Pi coding agent - separate AI coding agent called PixaAgent",
 		"blacklisted_at": "2026-07-24T00:04:12.172Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/edxeth/pi-subagents",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T00:01:34.06Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/115ctln",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-25T00:01:34.131Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=sVuiYXDdoxs",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T00:01:34.22Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/mzwing/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T00:01:34.262Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=N5zfDZQRGRo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T00:01:34.428Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@tdwhere/do-it",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T00:01:34.481Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://jobs.entrepreneurs.utoronto.ca/companies/cohere-2-735e1f36-781c-460d-afb7-2515d59858b7/jobs/86394782-lead-us-government-affairs-public-policy",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T00:01:34.501Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@d3ara1n/pi-provider-stepfun",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-25T00:01:34.506Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/smart-approve",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-07-25T00:01:34.54Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/nextbridgehq/package-pilot",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T00:01:34.555Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/bennettgarcia-hs/pi-standard",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T00:01:34.606Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5Qu2SkSQeBU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T00:01:34.664Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@wuyaos/pi-model-roles",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-25T00:01:34.691Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/MostakemHossain/AI-powered-theme-builder-ThemePilot",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T00:01:34.711Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/telepath-computer/pi-tools",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T00:01:34.796Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@suwenguang/pi-kb",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-25T00:01:34.939Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/IgorGuariroba/pi-omniroute",
+		"reason": "Non-English description (Portuguese)",
+		"blacklisted_at": "2026-07-25T00:04:57.131Z",
+		"source": "manual"
 	}
 ]

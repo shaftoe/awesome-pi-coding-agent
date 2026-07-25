@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-themes",
+  "name": "@smoose/pi-themes · Packages · Pi",
+  "url": "https://pi.dev/packages/@smoose/pi-themes",
+  "source": "brave-web-search",
+  "description": "Theme pack for pi with file-based theme switching · Install @smoose/pi-themes from npm and Pi will load the resources declared by the package manifest",
+  "metadata": {
+    "title": "@smoose/pi-themes · Packages · Pi",
+    "name": "@smoose/pi-themes · Packages · Pi",
+    "description": "Theme pack for pi with file-based theme switching · Install @smoose/pi-themes from npm and Pi will load the resources declared by the package manifest",
+    "published_at": "2026-05-29T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/@smoose/pi-themes",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "category": "theme"
+}

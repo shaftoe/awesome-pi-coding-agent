@@ -9,7 +9,7 @@
     "repo_full_name": "timvdhoorn/cc-my-pi",
     "description": "Claude Code-style UI bundle for the Pi coding agent — tool rendering, spinner, statusline, themes, setup wizard",
     "stars": 2,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

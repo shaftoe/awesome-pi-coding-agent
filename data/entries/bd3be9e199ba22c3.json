@@ -1,0 +1,28 @@
+{
+  "id": "vibemaxxing-pi-cloud",
+  "name": "vibemaxxing-pi-cloud",
+  "url": "https://www.npmjs.com/package/vibemaxxing-pi-cloud",
+  "source": "npm-search",
+  "description": "Dedicated Azure Foundry and AWS Bedrock provider policy for Pi",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "vibemaxxing-pi-cloud",
+    "description": "Dedicated Azure Foundry and AWS Bedrock provider policy for Pi",
+    "keywords": [
+      "pi-package",
+      "azure-foundry",
+      "amazon-bedrock",
+      "vibemaxxing"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-17T10:07:47.492Z",
+    "npm_downloads_monthly": 149,
+    "npm_downloads_weekly": 149,
+    "npm_score_final": 15.876671,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pi-harper-grammar",
+  "name": "pi-harper-grammar",
+  "url": "https://www.npmjs.com/package/pi-harper-grammar",
+  "source": "npm-search",
+  "description": "Type it right, make the agent guess less — live grammar-check (and one-key alt+g fix) for the Pi/OMP chat input, powered by Harper.",
+  "metadata": {
+    "github_url": "https://github.com/LoneExile/pi-harper-grammar",
+    "npm_name": "pi-harper-grammar",
+    "description": "Type it right, make the agent guess less — live grammar-check (and one-key alt+g fix) for the Pi/OMP chat input, powered by Harper.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "omp",
+      "oh-my-pi",
+      "extension",
+      "grammar",
+      "harper",
+      "spell-check",
+      "writing"
+    ],
+    "version": "0.2.5",
+    "published_at": "2026-07-23T08:40:53.768Z",
+    "npm_downloads_monthly": 1292,
+    "npm_downloads_weekly": 1292,
+    "npm_score_final": 23.764145,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

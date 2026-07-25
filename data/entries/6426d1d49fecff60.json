@@ -1,0 +1,30 @@
+{
+  "id": "pi-terminal-notifier",
+  "name": "pi-terminal-notifier",
+  "url": "https://www.npmjs.com/package/pi-terminal-notifier",
+  "source": "npm-search",
+  "description": "macOS native notifications for pi — focus-aware, click-to-activate, with event bus",
+  "metadata": {
+    "github_url": "https://github.com/ouzhenkun/pi-terminal-notifier",
+    "npm_name": "pi-terminal-notifier",
+    "description": "macOS native notifications for pi — focus-aware, click-to-activate, with event bus",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "macos",
+      "notification",
+      "notify"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-07-17T17:12:13.266Z",
+    "npm_downloads_monthly": 131,
+    "npm_downloads_weekly": 131,
+    "npm_score_final": 15.448508,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

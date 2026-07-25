@@ -1,0 +1,29 @@
+{
+  "id": "@riccardopll/pi-openai-usage",
+  "name": "@riccardopll/pi-openai-usage",
+  "url": "https://www.npmjs.com/package/@riccardopll/pi-openai-usage",
+  "source": "npm-search",
+  "description": "Pi extension that shows OpenAI weekly usage.",
+  "metadata": {
+    "github_url": "https://github.com/riccardopll/pi-openai-usage",
+    "npm_name": "@riccardopll/pi-openai-usage",
+    "description": "Pi extension that shows OpenAI weekly usage.",
+    "keywords": [
+      "codex",
+      "openai",
+      "pi-extension",
+      "pi-package",
+      "usage"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-07-24T10:51:12.588Z",
+    "npm_downloads_monthly": 70,
+    "npm_downloads_weekly": 70,
+    "npm_score_final": 13.189744,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

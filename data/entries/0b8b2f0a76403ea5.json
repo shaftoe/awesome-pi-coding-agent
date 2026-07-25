@@ -1,0 +1,31 @@
+{
+  "id": "noickare-pi-tmux-agents",
+  "name": "noickare-pi-tmux-agents",
+  "url": "https://github.com/noickare/pi-tmux-agents",
+  "source": "github-search",
+  "description": "Persistent tmux-backed subagents, orchestration, watchdogs, worktrees, and polished TUI for pi",
+  "metadata": {
+    "github_url": "https://github.com/noickare/pi-tmux-agents",
+    "repo_full_name": "noickare/pi-tmux-agents",
+    "description": "Persistent tmux-backed subagents, orchestration, watchdogs, worktrees, and polished TUI for pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "developer-tools",
+      "pi-package",
+      "tmux",
+      "tui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-24T03:22:17Z",
+    "pushed_at": "2026-07-24T21:16:32Z",
+    "updated_at": "2026-07-24T21:16:17Z",
+    "size": 294,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

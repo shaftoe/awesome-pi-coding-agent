@@ -1,0 +1,35 @@
+{
+  "id": "getpipher-welcome",
+  "name": "getpipher-welcome",
+  "url": "https://github.com/getpipher/welcome",
+  "source": "github-search",
+  "description": "Stunning, dismissible home-page overlay for the pi coding agent — branded RECTOR LABS splash at startup, then 100% native pi. No native hotkey rebinding.",
+  "metadata": {
+    "github_url": "https://github.com/getpipher/welcome",
+    "repo_full_name": "getpipher/welcome",
+    "description": "Stunning, dismissible home-page overlay for the pi coding agent — branded RECTOR LABS splash at startup, then 100% native pi. No native hotkey rebinding.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "dashboard",
+      "getpipher",
+      "home",
+      "pi-extension",
+      "pi-package",
+      "rector-labs",
+      "splash",
+      "tui",
+      "welcome"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-24T14:45:10Z",
+    "pushed_at": "2026-07-24T15:48:25Z",
+    "updated_at": "2026-07-24T15:49:33Z",
+    "size": 77,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

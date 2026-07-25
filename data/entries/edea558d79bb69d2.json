@@ -1,0 +1,33 @@
+{
+  "id": "pi-tool-wal",
+  "name": "pi-tool-wal",
+  "url": "https://www.npmjs.com/package/pi-tool-wal",
+  "source": "npm-search",
+  "description": "Write-ahead log for Pi tool calls: record intent before execution, reconcile results after, persist to SQLite for audit and crash recovery",
+  "metadata": {
+    "github_url": "https://github.com/boyuruan/pi-tool-wal",
+    "npm_name": "pi-tool-wal",
+    "description": "Write-ahead log for Pi tool calls: record intent before execution, reconcile results after, persist to SQLite for audit and crash recovery",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "wal",
+      "write-ahead-log",
+      "audit",
+      "sqlite",
+      "tool-call",
+      "extension"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-24T07:04:17.410Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

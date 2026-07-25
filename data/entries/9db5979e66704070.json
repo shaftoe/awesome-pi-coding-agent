@@ -1,0 +1,28 @@
+{
+  "id": "pi-acp-dev",
+  "name": "pi-acp-dev",
+  "url": "https://www.npmjs.com/package/pi-acp-dev",
+  "source": "npm-search",
+  "description": "ACP adapter for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/simonsmh/pi-acp",
+    "npm_name": "pi-acp-dev",
+    "description": "ACP adapter for pi coding agent",
+    "keywords": [
+      "acp",
+      "agent-client-protocol",
+      "pi-coding-agent",
+      "adapter"
+    ],
+    "version": "0.0.33",
+    "published_at": "2026-07-24T07:18:54.297Z",
+    "npm_downloads_monthly": 212,
+    "npm_downloads_weekly": 212,
+    "npm_score_final": 21.906778,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
