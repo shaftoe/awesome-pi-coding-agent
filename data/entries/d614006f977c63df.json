@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Local notes CRUD extension for Pi with optional rule-note prompt injection.",
   "metadata": {
-    "github_url": "https://github.com/Firstp1ck/npm-packages",
+    "github_url": "https://github.com/Firstp1ck/pi-coding-agent-forge",
     "npm_name": "@firstpick/pi-extension-notes",
     "description": "Local notes CRUD extension for Pi with optional rule-note prompt injection.",
     "keywords": [
@@ -14,11 +14,11 @@
       "pi-coding-agent",
       "extension"
     ],
-    "version": "0.2.2",
-    "published_at": "2026-06-08T21:34:50.487Z",
-    "npm_downloads_monthly": 159,
-    "npm_downloads_weekly": 20,
-    "npm_score_final": 16.712353,
+    "version": "0.2.3",
+    "published_at": "2026-07-24T00:47:54.090Z",
+    "npm_downloads_monthly": 128,
+    "npm_downloads_weekly": 18,
+    "npm_score_final": 15.6785965,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

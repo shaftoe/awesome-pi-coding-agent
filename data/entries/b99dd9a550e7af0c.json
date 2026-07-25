@@ -1,0 +1,31 @@
+{
+  "id": "@carlosgtrz/tpsreader-agent-skill",
+  "name": "@carlosgtrz/tpsreader-agent-skill",
+  "url": "https://www.npmjs.com/package/@carlosgtrz/tpsreader-agent-skill",
+  "source": "npm-search",
+  "description": "Multi-agent skill for safely reading Clarion TopSpeed TPS files with TpsReader.",
+  "metadata": {
+    "github_url": "https://github.com/CarlosGtrz/TpsReader",
+    "npm_name": "@carlosgtrz/tpsreader-agent-skill",
+    "description": "Multi-agent skill for safely reading Clarion TopSpeed TPS files with TpsReader.",
+    "keywords": [
+      "pi-package",
+      "agent-skill",
+      "clarion",
+      "topspeed",
+      "tps",
+      "database",
+      "read-only"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-07-24T15:37:49.193Z",
+    "npm_downloads_monthly": 48,
+    "npm_downloads_weekly": 48,
+    "npm_score_final": 11.885016,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

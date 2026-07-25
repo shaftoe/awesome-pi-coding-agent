@@ -8,7 +8,7 @@
     "github_url": "https://github.com/MuseLinn/MusePi",
     "repo_full_name": "MuseLinn/MusePi",
     "description": "MusePi — a fork of the Pi coding agent that became its own agent: native video understanding, hashline editing, MCP, advisor, memory, seven-scope skills, grouped settings, own update channel",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -26,11 +26,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-20T20:16:22Z",
-    "pushed_at": "2026-07-23T08:37:12Z",
-    "updated_at": "2026-07-23T09:50:10Z",
-    "size": 6776,
+    "pushed_at": "2026-07-24T23:39:03Z",
+    "updated_at": "2026-07-24T23:39:04Z",
+    "size": 53624,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

@@ -1,0 +1,31 @@
+{
+  "id": "Juanjuan-mm-PatchRace",
+  "name": "Juanjuan-mm-PatchRace",
+  "url": "https://github.com/Juanjuan-mm/PatchRace",
+  "source": "github-search",
+  "description": "Local-first coding-agent races, evidence-linked diagnosis, and project-local Pi workflow improvement.",
+  "metadata": {
+    "github_url": "https://github.com/Juanjuan-mm/PatchRace",
+    "repo_full_name": "Juanjuan-mm/PatchRace",
+    "description": "Local-first coding-agent races, evidence-linked diagnosis, and project-local Pi workflow improvement.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agents",
+      "evals",
+      "local-first",
+      "pi",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-23T11:41:16Z",
+    "pushed_at": "2026-07-24T02:44:30Z",
+    "updated_at": "2026-07-24T02:44:34Z",
+    "size": 613,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

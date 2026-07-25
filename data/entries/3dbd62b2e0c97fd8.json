@@ -1,0 +1,29 @@
+{
+  "id": "pi-kimi-code-headers",
+  "name": "pi-kimi-code-headers",
+  "url": "https://www.npmjs.com/package/pi-kimi-code-headers",
+  "source": "npm-search",
+  "description": "Injects Kimi Code device-identity headers when using Kimi providers in pi, so the Kimi backend treats pi traffic as Kimi Code traffic.",
+  "metadata": {
+    "github_url": "https://github.com/cyzlmh/pi-kimi-code-headers",
+    "npm_name": "pi-kimi-code-headers",
+    "description": "Injects Kimi Code device-identity headers when using Kimi providers in pi, so the Kimi backend treats pi traffic as Kimi Code traffic.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "kimi",
+      "kimi-code",
+      "moonshot"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-07-17T08:53:11.039Z",
+    "npm_downloads_monthly": 140,
+    "npm_downloads_weekly": 140,
+    "npm_score_final": 15.848081,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "iurysza-pi-extensions",
+  "name": "iurysza-pi-extensions",
+  "url": "https://github.com/iurysza/pi-extensions",
+  "source": "github-search",
+  "description": "Pi extension packages",
+  "metadata": {
+    "github_url": "https://github.com/iurysza/pi-extensions",
+    "repo_full_name": "iurysza/pi-extensions",
+    "description": "Pi extension packages",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agentic-coding",
+      "agentic-coding-tool",
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-24T10:50:58Z",
+    "pushed_at": "2026-07-24T12:27:15Z",
+    "updated_at": "2026-07-24T12:28:39Z",
+    "size": 4435,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

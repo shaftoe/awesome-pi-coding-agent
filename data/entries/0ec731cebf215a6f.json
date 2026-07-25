@@ -1,0 +1,25 @@
+{
+  "id": "@dorky/pi",
+  "name": "@dorky/pi",
+  "url": "https://www.npmjs.com/package/@dorky/pi",
+  "source": "npm-search",
+  "description": "Dorky machines as native Pi models",
+  "metadata": {
+    "github_url": "https://github.com/awhitty/graph",
+    "npm_name": "@dorky/pi",
+    "description": "Dorky machines as native Pi models",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0-rc.1",
+    "published_at": "2026-07-17T05:47:29.791Z",
+    "npm_downloads_monthly": 81,
+    "npm_downloads_weekly": 81,
+    "npm_score_final": 13.679416,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

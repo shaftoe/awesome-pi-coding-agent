@@ -21,10 +21,10 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-23T20:33:47Z",
-    "pushed_at": "2026-07-23T20:33:51Z",
-    "updated_at": "2026-07-23T20:35:21Z",
-    "size": 454,
-    "license": null,
+    "pushed_at": "2026-07-24T13:59:01Z",
+    "updated_at": "2026-07-24T13:59:42Z",
+    "size": 467,
+    "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "category": "extension"

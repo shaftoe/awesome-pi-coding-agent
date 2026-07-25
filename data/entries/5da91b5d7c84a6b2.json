@@ -1,0 +1,31 @@
+{
+  "id": "noosxe-worker-mcp",
+  "name": "noosxe-worker-mcp",
+  "url": "https://github.com/noosxe/worker-mcp",
+  "source": "github-search",
+  "description": "local agent orchestrator mcp using pi agent",
+  "metadata": {
+    "github_url": "https://github.com/noosxe/worker-mcp",
+    "repo_full_name": "noosxe/worker-mcp",
+    "description": "local agent orchestrator mcp using pi agent",
+    "stars": 1,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "llm",
+      "local-ai",
+      "mcp",
+      "worker"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-18T14:03:43Z",
+    "pushed_at": "2026-07-24T14:15:48Z",
+    "updated_at": "2026-07-24T14:21:32Z",
+    "size": 119,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

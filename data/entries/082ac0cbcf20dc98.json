@@ -1,0 +1,25 @@
+{
+  "id": "aefreedman-pi-skill-evals",
+  "name": "aefreedman-pi-skill-evals",
+  "url": "https://github.com/aefreedman/pi-skill-evals",
+  "source": "github-search",
+  "description": "Package-owned behavioral skill evaluation workflows for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/aefreedman/pi-skill-evals",
+    "repo_full_name": "aefreedman/pi-skill-evals",
+    "description": "Package-owned behavioral skill evaluation workflows for Pi.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-24T14:44:36Z",
+    "pushed_at": "2026-07-24T14:45:05Z",
+    "updated_at": "2026-07-24T14:45:32Z",
+    "size": 40,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

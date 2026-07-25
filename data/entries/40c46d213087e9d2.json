@@ -8,7 +8,7 @@
     "github_url": "https://github.com/lukasl-dev/pi.nix",
     "repo_full_name": "lukasl-dev/pi.nix",
     "description": "Nix flake for pi, a terminal coding agent.",
-    "stars": 65,
+    "stars": 66,
     "forks": 10,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-03-18T00:19:11Z",
     "pushed_at": "2026-07-23T01:21:37Z",
-    "updated_at": "2026-07-23T01:21:40Z",
+    "updated_at": "2026-07-24T13:09:39Z",
     "size": 1230,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

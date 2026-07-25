@@ -1,0 +1,32 @@
+{
+  "id": "@monotykamary/pi-loop",
+  "name": "@monotykamary/pi-loop",
+  "url": "https://www.npmjs.com/package/@monotykamary/pi-loop",
+  "source": "npm-search",
+  "description": "A pi extension that closes the verification loop on task completion",
+  "metadata": {
+    "github_url": "https://github.com/monotykamary/pi-loop",
+    "npm_name": "@monotykamary/pi-loop",
+    "description": "A pi extension that closes the verification loop on task completion",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "loop",
+      "verification",
+      "close-loop",
+      "agent",
+      "productivity"
+    ],
+    "version": "0.1.13",
+    "published_at": "2026-07-17T08:44:35.876Z",
+    "npm_downloads_monthly": 288,
+    "npm_downloads_weekly": 288,
+    "npm_score_final": 18.652925,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

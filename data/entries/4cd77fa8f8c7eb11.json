@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Agents should invoke this skill for broad multi-claim research projects needing planning, parallel investigation, source merging, gap closure, citation audit, and final synthesis when narrower research skills are insufficient.",
   "metadata": {
-    "github_url": "https://github.com/Firstp1ck/npm-packages",
+    "github_url": "https://github.com/Firstp1ck/pi-coding-agent-forge",
     "npm_name": "@firstpick/pi-skill-research-orchestration",
     "description": "Agents should invoke this skill for broad multi-claim research projects needing planning, parallel investigation, source merging, gap closure, citation audit, and final synthesis when narrower research skills are insufficient.",
     "keywords": [
@@ -16,11 +16,11 @@
       "agent-skill",
       "research-orchestration"
     ],
-    "version": "0.1.4",
-    "published_at": "2026-06-08T21:37:04.027Z",
+    "version": "0.1.5",
+    "published_at": "2026-07-24T00:51:06.413Z",
     "npm_downloads_monthly": 497,
-    "npm_downloads_weekly": 30,
-    "npm_score_final": 20.59825,
+    "npm_downloads_weekly": 19,
+    "npm_score_final": 20.265482,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

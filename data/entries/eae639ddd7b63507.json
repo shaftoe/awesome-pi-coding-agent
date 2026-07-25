@@ -1,0 +1,34 @@
+{
+  "id": "provider-retry-proxy",
+  "name": "provider-retry-proxy",
+  "url": "https://www.npmjs.com/package/provider-retry-proxy",
+  "source": "npm-search",
+  "description": "OMP/Pi extension: configurable HTTP retry proxy for LLM providers with triangular backoff, infinite retry, and per-provider overrides",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "provider-retry-proxy",
+    "description": "OMP/Pi extension: configurable HTTP retry proxy for LLM providers with triangular backoff, infinite retry, and per-provider overrides",
+    "keywords": [
+      "omp",
+      "pi",
+      "omp-plugin",
+      "pi-package",
+      "pi-extension",
+      "retry",
+      "proxy",
+      "backoff",
+      "503",
+      "provider"
+    ],
+    "version": "1.3.0",
+    "published_at": "2026-07-24T14:16:01.769Z",
+    "npm_downloads_monthly": 373,
+    "npm_downloads_weekly": 373,
+    "npm_score_final": 19.65757,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

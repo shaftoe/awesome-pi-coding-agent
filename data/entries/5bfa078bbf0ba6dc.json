@@ -1,0 +1,25 @@
+{
+  "id": "CorneliusTantius-pi-ext-mgr",
+  "name": "CorneliusTantius-pi-ext-mgr",
+  "url": "https://github.com/CorneliusTantius/pi-ext-mgr",
+  "source": "github-search",
+  "description": "Extension manager for pi agent — enable/disable packages via /extensions",
+  "metadata": {
+    "github_url": "https://github.com/CorneliusTantius/pi-ext-mgr",
+    "repo_full_name": "CorneliusTantius/pi-ext-mgr",
+    "description": "Extension manager for pi agent — enable/disable packages via /extensions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-24T02:42:06Z",
+    "pushed_at": "2026-07-24T02:58:05Z",
+    "updated_at": "2026-07-24T02:58:09Z",
+    "size": 3,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
