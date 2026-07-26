@@ -1,0 +1,28 @@
+{
+  "id": "amanai-reward-watcher",
+  "name": "amanai-reward-watcher",
+  "url": "https://www.npmjs.com/package/amanai-reward-watcher",
+  "source": "npm-search",
+  "description": "Passive local notification for Amanai reward tokens in final Pi responses.",
+  "metadata": {
+    "github_url": "https://github.com/Fernado03/amanai-reward-watcher",
+    "npm_name": "amanai-reward-watcher",
+    "description": "Passive local notification for Amanai reward tokens in final Pi responses.",
+    "keywords": [
+      "oh-my-pi",
+      "pi-package",
+      "amanai",
+      "reward-watcher"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-07-25T09:37:32.303Z",
+    "npm_downloads_monthly": 119,
+    "npm_downloads_weekly": 119,
+    "npm_score_final": 15.1059885,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

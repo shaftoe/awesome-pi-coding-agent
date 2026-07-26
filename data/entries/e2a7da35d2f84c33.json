@@ -10,7 +10,7 @@
     "description": "Metadata-only OpenTelemetry lifecycle spans for Pi, logged to private local JSONL files.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 6,
     "topics": [
       "observability",
       "opentelemetry",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-18T22:13:12Z",
-    "pushed_at": "2026-07-21T10:01:19Z",
+    "pushed_at": "2026-07-25T17:13:04Z",
     "updated_at": "2026-07-21T10:02:17Z",
-    "size": 52,
+    "size": 146,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

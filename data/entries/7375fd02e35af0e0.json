@@ -10,7 +10,7 @@
     "description": "Route the pi coding agent through Switchboard: Unified router with metering, spend controls, and billing built in ",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "ai",
       "claude",
@@ -27,9 +27,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-20T09:47:59Z",
-    "pushed_at": "2026-07-24T20:47:16Z",
-    "updated_at": "2026-07-24T20:46:43Z",
-    "size": 77,
+    "pushed_at": "2026-07-25T18:30:41Z",
+    "updated_at": "2026-07-25T17:09:38Z",
+    "size": 81,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

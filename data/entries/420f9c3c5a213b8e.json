@@ -1,0 +1,30 @@
+{
+  "id": "manuelcecchetto-pi-7tv",
+  "name": "manuelcecchetto-pi-7tv",
+  "url": "https://github.com/manuelcecchetto/pi-7tv",
+  "source": "github-search",
+  "description": "Pi extension for contextual 7TV emotes, inline markers, autocomplete, and emote etiquette",
+  "metadata": {
+    "github_url": "https://github.com/manuelcecchetto/pi-7tv",
+    "repo_full_name": "manuelcecchetto/pi-7tv",
+    "description": "Pi extension for contextual 7TV emotes, inline markers, autocomplete, and emote etiquette",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "7tv",
+      "pi-extension",
+      "pi-package",
+      "terminal"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-25T16:14:34Z",
+    "pushed_at": "2026-07-25T16:58:32Z",
+    "updated_at": "2026-07-25T16:59:03Z",
+    "size": 39,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

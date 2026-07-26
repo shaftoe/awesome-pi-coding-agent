@@ -3,15 +3,15 @@
   "name": "pi-package-template",
   "url": "https://pi.dev/packages/pi-package-template",
   "source": "brave-web-search",
-  "description": "# 1. Clone this template git clone https://github.com/YOU/pi-package-template.git my-pi-package cd my-pi-package # 2. Install dev dependencies (for type checking) npm install # 3. Edit package.json — set name, description, author, repository # 4. Start building!",
+  "description": "A minimal starter template for building pi packages · Install pi-package-template from npm and Pi will load the resources declared by the package manifest",
   "metadata": {
     "title": "pi-package-template",
     "name": "pi-package-template",
-    "description": "# 1. Clone this template git clone https://github.com/YOU/pi-package-template.git my-pi-package cd my-pi-package # 2. Install dev dependencies (for type checking) npm install # 3. Edit package.json — set name, description, author, repository # 4. Start building!",
-    "published_at": "2026-05-03T09:50:03",
+    "description": "A minimal starter template for building pi packages · Install pi-package-template from npm and Pi will load the resources declared by the package manifest",
+    "published_at": "2026-05-04T00:00:00",
     "source_site": "Pi",
     "source_url": "https://pi.dev/packages/pi-package-template",
-    "discovery_hint": "brave:pi-package"
+    "discovery_hint": "brave:pi-theme"
   },
   "health": {
     "score": 46,

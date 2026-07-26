@@ -8,8 +8,8 @@
     "github_url": "https://github.com/mackt/pi-language-tutor",
     "repo_full_name": "mackt/pi-language-tutor",
     "description": "Learn a foreign language while you code — a pi extension that reviews your prompts for spelling, grammar, and natural phrasing, and renders agent replies as bilingual immersive translations.",
-    "stars": 39,
-    "forks": 3,
+    "stars": 50,
+    "forks": 4,
     "open_issues": 0,
     "topics": [
       "language-learning",
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-07-11T18:34:15Z",
     "pushed_at": "2026-07-24T08:03:20Z",
-    "updated_at": "2026-07-24T22:34:33Z",
+    "updated_at": "2026-07-25T23:48:36Z",
     "size": 1411,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

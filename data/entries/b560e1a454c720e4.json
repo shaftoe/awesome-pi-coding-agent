@@ -9,7 +9,7 @@
     "repo_full_name": "lemonade-sdk/lemonade-pi-plugin",
     "description": "Lemonade Pi Agent CLI Plugin",
     "stars": 15,
-    "forks": 5,
+    "forks": 6,
     "open_issues": 3,
     "topics": [],
     "language": "TypeScript",

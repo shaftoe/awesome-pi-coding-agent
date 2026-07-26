@@ -1,0 +1,25 @@
+{
+  "id": "SpideXD-pi-subagents",
+  "name": "SpideXD-pi-subagents",
+  "url": "https://github.com/SpideXD/pi-subagents",
+  "source": "github-search",
+  "description": "A focused, in-process sub-agent core for pi — forked from @gotgenes/pi-subagents. Adds last_n parameter, incremental UI rendering, and viewport stability fixes.",
+  "metadata": {
+    "github_url": "https://github.com/SpideXD/pi-subagents",
+    "repo_full_name": "SpideXD/pi-subagents",
+    "description": "A focused, in-process sub-agent core for pi — forked from @gotgenes/pi-subagents. Adds last_n parameter, incremental UI rendering, and viewport stability fixes.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-13T21:59:36Z",
+    "pushed_at": "2026-07-13T21:59:42Z",
+    "updated_at": "2026-07-25T20:44:40Z",
+    "size": 9582,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

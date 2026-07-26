@@ -1,0 +1,29 @@
+{
+  "id": "cline-pi",
+  "name": "cline-pi",
+  "url": "https://www.npmjs.com/package/cline-pi",
+  "source": "npm-search",
+  "description": "Cline provider extension for pi with dynamic model fetching and dual auth",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "cline-pi",
+    "description": "Cline provider extension for pi with dynamic model fetching and dual auth",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "pi-extension",
+      "cline"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-07-25T19:44:58.430Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
