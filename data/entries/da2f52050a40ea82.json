@@ -1,0 +1,27 @@
+{
+  "id": "@hhyy668/pi-skills-library",
+  "name": "@hhyy668/pi-skills-library",
+  "url": "https://www.npmjs.com/package/@hhyy668/pi-skills-library",
+  "source": "npm-search",
+  "description": "Curated Pi skills for lookfor.cc image generation and Tavily search guidance",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@hhyy668/pi-skills-library",
+    "description": "Curated Pi skills for lookfor.cc image generation and Tavily search guidance",
+    "keywords": [
+      "pi-package",
+      "pi-skills",
+      "agent-skills"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-18T09:45:25.511Z",
+    "npm_downloads_monthly": 68,
+    "npm_downloads_weekly": 68,
+    "npm_score_final": 13.216014,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

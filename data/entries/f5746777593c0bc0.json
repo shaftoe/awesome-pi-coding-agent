@@ -1,0 +1,39 @@
+{
+  "id": "tbrandenburg-pi-desktop",
+  "name": "tbrandenburg-pi-desktop",
+  "url": "https://github.com/tbrandenburg/pi-desktop",
+  "source": "github-search",
+  "description": "A portable AI agent desktop app for everyone — no vendor lock-in, no dev tools required. Electron + React UI on top of pi-ai/pi-agent-core, with zero-config first launch from your Pi CLI settings.",
+  "metadata": {
+    "github_url": "https://github.com/tbrandenburg/pi-desktop",
+    "repo_full_name": "tbrandenburg/pi-desktop",
+    "description": "A portable AI agent desktop app for everyone — no vendor lock-in, no dev tools required. Electron + React UI on top of pi-ai/pi-agent-core, with zero-config first launch from your Pi CLI settings.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "chat-application",
+      "desktop-app",
+      "electron",
+      "gui",
+      "llm",
+      "openai",
+      "pi",
+      "pi-ai",
+      "react",
+      "streaming",
+      "typescript",
+      "ui",
+      "vite"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-24T07:04:09Z",
+    "pushed_at": "2026-07-25T21:32:57Z",
+    "updated_at": "2026-07-25T21:33:01Z",
+    "size": 1789,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pi-hunk",
+  "name": "pi-hunk",
+  "url": "https://www.npmjs.com/package/pi-hunk",
+  "source": "npm-search",
+  "description": "Review Pi coding-agent changes in a native, persistent Hunk overlay",
+  "metadata": {
+    "github_url": "https://github.com/igshehata/pi-hunk",
+    "npm_name": "pi-hunk",
+    "description": "Review Pi coding-agent changes in a native, persistent Hunk overlay",
+    "keywords": [
+      "code-review",
+      "coding-agent",
+      "diff",
+      "hunk",
+      "overlay",
+      "pi-extension",
+      "pi-package",
+      "tui"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-18T17:16:50.916Z",
+    "npm_downloads_monthly": 295,
+    "npm_downloads_weekly": 295,
+    "npm_score_final": 18.412222,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

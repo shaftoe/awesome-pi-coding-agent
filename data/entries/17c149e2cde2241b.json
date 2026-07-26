@@ -1,0 +1,32 @@
+{
+  "id": "barryking-pi-goal-harness",
+  "name": "barryking-pi-goal-harness",
+  "url": "https://github.com/barryking/pi-goal-harness",
+  "source": "github-search",
+  "description": "Plan, execute, independently verify, and retain verifier-gated memory in Pi.",
+  "metadata": {
+    "github_url": "https://github.com/barryking/pi-goal-harness",
+    "repo_full_name": "barryking/pi-goal-harness",
+    "description": "Plan, execute, independently verify, and retain verifier-gated memory in Pi.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-memory",
+      "coala",
+      "coding-agent",
+      "pi",
+      "pi-package",
+      "plan-execute-verify"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-25T13:39:18Z",
+    "pushed_at": "2026-07-25T20:54:08Z",
+    "updated_at": "2026-07-25T20:54:12Z",
+    "size": 130,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -9,7 +9,7 @@
     "repo_full_name": "tintinweb/vscode-pi-model-chat-provider",
     "description": "VSCode Language Model Chat Provider integration for Pi coding agent, making Pi models available in VS Code's model picker for use with GitHub Copilot Chat and any extension that consumes the vscode.lm.* APIs.",
     "stars": 14,
-    "forks": 6,
+    "forks": 7,
     "open_issues": 2,
     "topics": [
       "pi-agent"

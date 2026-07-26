@@ -40891,5 +40891,141 @@
 		"reason": "Non-English description (Portuguese)",
 		"blacklisted_at": "2026-07-25T00:04:57.131Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=86Bw1HCbYgE",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-07-25T23:58:49.191Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/kelvinschen/acpus",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T23:58:49.255Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@fernado03/oh-my-pi-supreme-token-saver",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-07-25T23:58:49.34Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=qAiivspEHmU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T23:58:49.501Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@rotart/pi-cliproxy-provider",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-25T23:58:49.511Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=sJt1sQO87sc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T23:58:49.713Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=i90mW1yvtnQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T23:58:49.93Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/FuSheng-MG/Pi-Agent-Extend",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-25T23:58:49.952Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=0sI0MbCt4f4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T23:58:50.011Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/aefreedman/pi-plastic",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T23:58:50.102Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/ax128/pi-llmgates",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-25T23:58:50.117Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5moUVZro0Uo",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-25T23:58:50.209Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/giuliastro/harness-remote",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-25T23:58:50.232Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@igor-guari/pi-web-research",
+		"reason": "Description is in Portuguese, not English",
+		"blacklisted_at": "2026-07-26T00:04:42.851Z",
+		"source": "manual"
 	}
 ]

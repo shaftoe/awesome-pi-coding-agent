@@ -1,0 +1,25 @@
+{
+  "id": "tareqmlx-pi-config",
+  "name": "tareqmlx-pi-config",
+  "url": "https://github.com/tareqmlx/pi-config",
+  "source": "github-search",
+  "description": "My custom Pi coding agent setup includes extensions, skills, and themes.",
+  "metadata": {
+    "github_url": "https://github.com/tareqmlx/pi-config",
+    "repo_full_name": "tareqmlx/pi-config",
+    "description": "My custom Pi coding agent setup includes extensions, skills, and themes.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-25T08:37:32Z",
+    "pushed_at": "2026-07-25T13:41:59Z",
+    "updated_at": "2026-07-25T09:14:33Z",
+    "size": 2042,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "JessePomeroy-rhubarb",
+  "name": "JessePomeroy-rhubarb",
+  "url": "https://github.com/JessePomeroy/rhubarb",
+  "source": "github-search",
+  "description": "A customized pi coding-agent setup with subagents, ultracode workflows, Firecrawl, background terminals, and a Catppuccin UI",
+  "metadata": {
+    "github_url": "https://github.com/JessePomeroy/rhubarb",
+    "repo_full_name": "JessePomeroy/rhubarb",
+    "description": "A customized pi coding-agent setup with subagents, ultracode workflows, Firecrawl, background terminals, and a Catppuccin UI",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-21T22:18:09Z",
+    "pushed_at": "2026-07-24T02:57:12Z",
+    "updated_at": "2026-07-25T16:51:34Z",
+    "size": 370,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

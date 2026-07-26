@@ -9,7 +9,7 @@
     "repo_full_name": "jal-co/pi-codex-micro",
     "description": "Pi extension for the Work Louder Codex Micro: command keys, dial, joystick input, and two-way agent-state LED feedback.",
     "stars": 3,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

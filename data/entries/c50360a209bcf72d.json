@@ -1,0 +1,25 @@
+{
+  "id": "oqtopus-team-pi-qdash",
+  "name": "oqtopus-team-pi-qdash",
+  "url": "https://github.com/oqtopus-team/pi-qdash",
+  "source": "github-search",
+  "description": "Pi extension for querying QDash, the large-scale QPU calibration platform in the OQTOPUS ecosystem, directly from the pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/oqtopus-team/pi-qdash",
+    "repo_full_name": "oqtopus-team/pi-qdash",
+    "description": "Pi extension for querying QDash, the large-scale QPU calibration platform in the OQTOPUS ecosystem, directly from the pi coding agent.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-24T01:23:33Z",
+    "pushed_at": "2026-07-25T22:59:17Z",
+    "updated_at": "2026-07-25T22:59:01Z",
+    "size": 498,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "osolmaz-pi-huggingface-oauth",
+  "name": "osolmaz-pi-huggingface-oauth",
+  "url": "https://github.com/osolmaz/pi-huggingface-oauth",
+  "source": "github-search",
+  "description": "Browser-based Hugging Face login for Pi Inference Providers",
+  "metadata": {
+    "github_url": "https://github.com/osolmaz/pi-huggingface-oauth",
+    "repo_full_name": "osolmaz/pi-huggingface-oauth",
+    "description": "Browser-based Hugging Face login for Pi Inference Providers",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "huggingface",
+      "inference-providers",
+      "oauth",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-25T14:07:17Z",
+    "pushed_at": "2026-07-25T17:27:21Z",
+    "updated_at": "2026-07-25T17:27:24Z",
+    "size": 98,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

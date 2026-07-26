@@ -1,0 +1,33 @@
+{
+  "id": "pi-titlebar-spinner",
+  "name": "pi-titlebar-spinner",
+  "url": "https://www.npmjs.com/package/pi-titlebar-spinner",
+  "source": "npm-search",
+  "description": "A pi extension that sets the terminal title to π and animates a braille spinner while the agent is working",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-titlebar-spinner",
+    "description": "A pi extension that sets the terminal title to π and animates a braille spinner while the agent is working",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "cli",
+      "tui",
+      "titlebar",
+      "spinner",
+      "terminal",
+      "ai"
+    ],
+    "version": "0.0.1",
+    "published_at": "2026-07-18T22:46:57.309Z",
+    "npm_downloads_monthly": 121,
+    "npm_downloads_weekly": 121,
+    "npm_score_final": 14.995986,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
