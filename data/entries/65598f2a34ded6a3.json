@@ -1,0 +1,25 @@
+{
+  "id": "daoguademeng-pi-ask-user-question-glimpse",
+  "name": "daoguademeng-pi-ask-user-question-glimpse",
+  "url": "https://github.com/daoguademeng/pi-ask-user-question-glimpse",
+  "source": "github-search",
+  "description": "Pi extension: ask_user_question as a polished native WebView dialog (glimpseui) — uniform custom answers, notes, and previews; themeable; TUI-safe",
+  "metadata": {
+    "github_url": "https://github.com/daoguademeng/pi-ask-user-question-glimpse",
+    "repo_full_name": "daoguademeng/pi-ask-user-question-glimpse",
+    "description": "Pi extension: ask_user_question as a polished native WebView dialog (glimpseui) — uniform custom answers, notes, and previews; themeable; TUI-safe",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-26T09:28:01Z",
+    "pushed_at": "2026-07-26T09:36:05Z",
+    "updated_at": "2026-07-26T10:06:30Z",
+    "size": 82,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

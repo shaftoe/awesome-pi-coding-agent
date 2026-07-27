@@ -1,0 +1,31 @@
+{
+  "id": "@itc-steve/pi-ask-complete",
+  "name": "@itc-steve/pi-ask-complete",
+  "url": "https://www.npmjs.com/package/@itc-steve/pi-ask-complete",
+  "source": "npm-search",
+  "description": "Pi extension: bottom-panel ask_user + bash permission gate (Allow / Allow permanently / Deny with reason) writing ~/.pi/agent/permission.json",
+  "metadata": {
+    "github_url": "https://github.com/itc-steve/pi-ask-complete",
+    "npm_name": "@itc-steve/pi-ask-complete",
+    "description": "Pi extension: bottom-panel ask_user + bash permission gate (Allow / Allow permanently / Deny with reason) writing ~/.pi/agent/permission.json",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "ask-user",
+      "permissions",
+      "yolo"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-26T13:43:36.953Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

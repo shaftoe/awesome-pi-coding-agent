@@ -1,0 +1,29 @@
+{
+  "id": "jtsang4-pi-extensions",
+  "name": "jtsang4-pi-extensions",
+  "url": "https://github.com/jtsang4/pi-extensions",
+  "source": "github-search",
+  "description": "Opinionated Pi extensions.",
+  "metadata": {
+    "github_url": "https://github.com/jtsang4/pi-extensions",
+    "repo_full_name": "jtsang4/pi-extensions",
+    "description": "Opinionated Pi extensions.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-26T17:08:04Z",
+    "pushed_at": "2026-07-26T19:20:57Z",
+    "updated_at": "2026-07-26T19:21:00Z",
+    "size": 43,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "buihongduc132-pi-forge",
+  "name": "buihongduc132-pi-forge",
+  "url": "https://github.com/buihongduc132/pi-forge",
+  "source": "github-search",
+  "description": "Extensions and packages for the Pi coding agent ecosystem",
+  "metadata": {
+    "github_url": "https://github.com/buihongduc132/pi-forge",
+    "repo_full_name": "buihongduc132/pi-forge",
+    "description": "Extensions and packages for the Pi coding agent ecosystem",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-26T14:07:03Z",
+    "pushed_at": "2026-07-26T16:26:08Z",
+    "updated_at": "2026-07-26T16:26:51Z",
+    "size": 771,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

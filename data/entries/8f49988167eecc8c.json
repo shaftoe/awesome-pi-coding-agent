@@ -1,0 +1,32 @@
+{
+  "id": "pi-focus-guard",
+  "name": "pi-focus-guard",
+  "url": "https://www.npmjs.com/package/pi-focus-guard",
+  "source": "npm-search",
+  "description": "Pi extension that groups discuss, write, and commit guards under focus-prefixed commands.",
+  "metadata": {
+    "github_url": "https://github.com/cgint/pi-focus-guard",
+    "npm_name": "pi-focus-guard",
+    "description": "Pi extension that groups discuss, write, and commit guards under focus-prefixed commands.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "extension",
+      "focus",
+      "write-protection",
+      "discussion",
+      "commit-guard"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-07-19T06:37:30.533Z",
+    "npm_downloads_monthly": 277,
+    "npm_downloads_weekly": 277,
+    "npm_score_final": 17.982334,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

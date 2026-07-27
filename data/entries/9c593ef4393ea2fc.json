@@ -1,12 +1,12 @@
 {
   "id": "BRAVE_awesome-pi.site_extensions",
-  "name": "Extensions - Awesome Pi Coding Agent",
+  "name": "Extensions - | Awesome Pi Coding Agent",
   "url": "https://awesome-pi.site/extensions/",
   "source": "brave-web-search",
   "description": "Extend Pi's capabilities — custom tools, hooks, integrations, skills, and MCP servers · Multi-phase security audits with specialist sub-agents, isolated context windows, capped concurrency, and resumable state — packaged as a Pi extension",
   "metadata": {
-    "title": "Extensions - Awesome Pi Coding Agent",
-    "name": "Extensions - Awesome Pi Coding Agent",
+    "title": "Extensions - | Awesome Pi Coding Agent",
+    "name": "Extensions - | Awesome Pi Coding Agent",
     "description": "Extend Pi's capabilities — custom tools, hooks, integrations, skills, and MCP servers · Multi-phase security audits with specialist sub-agents, isolated context windows, capped concurrency, and resumable state — packaged as a Pi extension",
     "published_at": "2026-05-30T00:00:00",
     "source_site": "Awesome-pi",

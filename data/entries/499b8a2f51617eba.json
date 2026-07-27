@@ -1,0 +1,32 @@
+{
+  "id": "Inas1234-pi-desktop",
+  "name": "Inas1234-pi-desktop",
+  "url": "https://github.com/Inas1234/pi-desktop",
+  "source": "github-search",
+  "description": "A fast, minimal Windows desktop client for the Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/Inas1234/pi-desktop",
+    "repo_full_name": "Inas1234/pi-desktop",
+    "description": "A fast, minimal Windows desktop client for the Pi coding agent.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [
+      "coding-agent",
+      "pi",
+      "react",
+      "rust",
+      "tauri",
+      "windows"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-18T19:35:05Z",
+    "pushed_at": "2026-07-26T03:08:07Z",
+    "updated_at": "2026-07-26T13:36:07Z",
+    "size": 676,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

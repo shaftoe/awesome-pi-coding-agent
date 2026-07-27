@@ -1,0 +1,31 @@
+{
+  "id": "pi-olla-autodetect",
+  "name": "pi-olla-autodetect",
+  "url": "https://www.npmjs.com/package/pi-olla-autodetect",
+  "source": "npm-search",
+  "description": "Pi extension that auto-discovers models from an Olla gateway endpoint and registers them as a provider.",
+  "metadata": {
+    "github_url": "https://github.com/cgint/pi-olla-autodetect",
+    "npm_name": "pi-olla-autodetect",
+    "description": "Pi extension that auto-discovers models from an Olla gateway endpoint and registers them as a provider.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "extension",
+      "olla",
+      "llm-gateway",
+      "model-discovery"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-07-19T07:07:32.856Z",
+    "npm_downloads_monthly": 627,
+    "npm_downloads_weekly": 627,
+    "npm_score_final": 21.664015,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
