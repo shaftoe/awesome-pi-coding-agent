@@ -8,7 +8,7 @@
     "github_url": "https://github.com/itsmekene/pi-design-deck",
     "repo_full_name": "itsmekene/pi-design-deck",
     "description": "Present multi-slide visual decision decks for Pi coding agent, enabling clear comparisons of code, diagrams, and mockups to guide implementation choices.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -35,8 +35,8 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-07T03:45:44Z",
-    "pushed_at": "2026-04-30T09:01:06Z",
-    "updated_at": "2026-04-30T09:01:10Z",
+    "pushed_at": "2026-07-26T23:04:13Z",
+    "updated_at": "2026-07-26T23:04:17Z",
     "size": 1894,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

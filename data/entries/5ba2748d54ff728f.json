@@ -3,11 +3,11 @@
   "name": "@itc-steve/pi-herdr",
   "url": "https://www.npmjs.com/package/@itc-steve/pi-herdr",
   "source": "npm-search",
-  "description": "Pi extension: Herdr-visible subagent herd — local-first difficulty routing, pointer-batched results, markdown handoffs, and herdr terminal control.",
+  "description": "Pi extension for Herdr-visible subagent herds - local-first preference, single-stream local seat, and difficulty-based model routing.",
   "metadata": {
     "github_url": "https://github.com/itc-steve/pi-herdr",
     "npm_name": "@itc-steve/pi-herdr",
-    "description": "Pi extension: Herdr-visible subagent herd — local-first difficulty routing, pointer-batched results, markdown handoffs, and herdr terminal control.",
+    "description": "Pi extension for Herdr-visible subagent herds - local-first preference, single-stream local seat, and difficulty-based model routing.",
     "keywords": [
       "pi-package",
       "pi",
@@ -19,8 +19,8 @@
       "vllm",
       "pane-management"
     ],
-    "version": "1.1.0",
-    "published_at": "2026-07-25T17:55:09.213Z",
+    "version": "1.1.1",
+    "published_at": "2026-07-26T23:33:59.366Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

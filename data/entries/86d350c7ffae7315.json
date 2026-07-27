@@ -1,0 +1,28 @@
+{
+  "id": "@izhimu/pi-caveman",
+  "name": "@izhimu/pi-caveman",
+  "url": "https://www.npmjs.com/package/@izhimu/pi-caveman",
+  "source": "npm-search",
+  "description": "Caveman mode for pi — ultra-compressed communication, 65% output token savings",
+  "metadata": {
+    "github_url": "https://github.com/izhimu/pi-caveman",
+    "npm_name": "@izhimu/pi-caveman",
+    "description": "Caveman mode for pi — ultra-compressed communication, 65% output token savings",
+    "keywords": [
+      "pi-package",
+      "caveman",
+      "token-savings",
+      "compression"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-19T05:54:31.435Z",
+    "npm_downloads_monthly": 71,
+    "npm_downloads_weekly": 71,
+    "npm_score_final": 12.967189,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "aolin12138-pi-web",
+  "name": "aolin12138-pi-web",
+  "url": "https://github.com/aolin12138/pi-web",
+  "source": "github-search",
+  "description": "Modern web UI for the Pi coding agent — Preact + Zustand + WebSocket + D3.js. Streaming chat, 6 themes, wiki knowledge graph, mobile responsive.",
+  "metadata": {
+    "github_url": "https://github.com/aolin12138/pi-web",
+    "repo_full_name": "aolin12138/pi-web",
+    "description": "Modern web UI for the Pi coding agent — Preact + Zustand + WebSocket + D3.js. Streaming chat, 6 themes, wiki knowledge graph, mobile responsive.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-26T04:51:06Z",
+    "pushed_at": "2026-07-26T04:51:19Z",
+    "updated_at": "2026-07-26T04:51:29Z",
+    "size": 15709,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

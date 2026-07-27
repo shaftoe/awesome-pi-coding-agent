@@ -1,0 +1,28 @@
+{
+  "id": "decent-curl-impersonate",
+  "name": "decent-curl-impersonate",
+  "url": "https://www.npmjs.com/package/decent-curl-impersonate",
+  "source": "npm-search",
+  "description": "Browser-impersonated HTTP tools for Pi backed by curl_cffi",
+  "metadata": {
+    "github_url": "https://github.com/404prefrontalcortexnotfound/decent-curl-impersonate",
+    "npm_name": "decent-curl-impersonate",
+    "description": "Browser-impersonated HTTP tools for Pi backed by curl_cffi",
+    "keywords": [
+      "pi-package",
+      "curl",
+      "http",
+      "browser-impersonation"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-07-26T12:26:49.062Z",
+    "npm_downloads_monthly": 132,
+    "npm_downloads_weekly": 132,
+    "npm_score_final": 15.799064,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

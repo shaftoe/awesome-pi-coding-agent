@@ -1,0 +1,25 @@
+{
+  "id": "simonteague6-pi-engineering-kit",
+  "name": "simonteague6-pi-engineering-kit",
+  "url": "https://github.com/simonteague6/pi-engineering-kit",
+  "source": "github-search",
+  "description": "Subagent roles, model-tier presets, and extension ideas for running Matt Pocock engineering skills on the pi coding agent. Work in progress.",
+  "metadata": {
+    "github_url": "https://github.com/simonteague6/pi-engineering-kit",
+    "repo_full_name": "simonteague6/pi-engineering-kit",
+    "description": "Subagent roles, model-tier presets, and extension ideas for running Matt Pocock engineering skills on the pi coding agent. Work in progress.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 7,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-26T02:17:36Z",
+    "pushed_at": "2026-07-26T14:40:08Z",
+    "updated_at": "2026-07-26T14:40:27Z",
+    "size": 30,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

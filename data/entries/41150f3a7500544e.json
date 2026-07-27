@@ -10,7 +10,7 @@
     "description": "Standalone MCP server: web search, social media search, web fetch tools for Claude Code / Pi agent",
     "stars": 43,
     "forks": 20,
-    "open_issues": 4,
+    "open_issues": 5,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

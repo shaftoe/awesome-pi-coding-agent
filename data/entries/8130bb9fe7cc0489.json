@@ -8,7 +8,7 @@
     "github_url": "https://github.com/smarzban/pi-extensions",
     "repo_full_name": "smarzban/pi-extensions",
     "description": "Pi packages monorepo — installable extensions for the pi coding agent (npm @pi-extensions). Includes Pac-Man working/thinking indicator.",
-    "stars": 5,
+    "stars": 10,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-07-17T20:17:52Z",
     "pushed_at": "2026-07-22T17:13:32Z",
-    "updated_at": "2026-07-22T17:16:37Z",
+    "updated_at": "2026-07-26T17:08:08Z",
     "size": 540,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

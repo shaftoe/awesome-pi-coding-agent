@@ -1,0 +1,31 @@
+{
+  "id": "@53able/pi-agent-browser",
+  "name": "@53able/pi-agent-browser",
+  "url": "https://www.npmjs.com/package/@53able/pi-agent-browser",
+  "source": "npm-search",
+  "description": "Typed Pi tools for browser automation, rendered-page context extraction, screenshots, and saved session state via agent-browser.",
+  "metadata": {
+    "github_url": "https://github.com/53able/pi-agent-browser",
+    "npm_name": "@53able/pi-agent-browser",
+    "description": "Typed Pi tools for browser automation, rendered-page context extraction, screenshots, and saved session state via agent-browser.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "browser",
+      "agent-browser",
+      "web-automation",
+      "context-extraction"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-07-26T03:16:48.146Z",
+    "npm_downloads_monthly": 201,
+    "npm_downloads_weekly": 201,
+    "npm_score_final": 16.510366,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

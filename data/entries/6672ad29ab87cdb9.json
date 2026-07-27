@@ -1,0 +1,25 @@
+{
+  "id": "ldarren-pi-iwe-kb",
+  "name": "ldarren-pi-iwe-kb",
+  "url": "https://github.com/ldarren/pi-iwe-kb",
+  "source": "github-search",
+  "description": "pi.dev × IWE — markdown knowledge-graph memory for the pi coding agent. Uses pi's LLM for ingestion, no second key required.",
+  "metadata": {
+    "github_url": "https://github.com/ldarren/pi-iwe-kb",
+    "repo_full_name": "ldarren/pi-iwe-kb",
+    "description": "pi.dev × IWE — markdown knowledge-graph memory for the pi coding agent. Uses pi's LLM for ingestion, no second key required.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-14T18:42:36Z",
+    "pushed_at": "2026-06-14T18:57:27Z",
+    "updated_at": "2026-07-26T01:08:00Z",
+    "size": 54,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "@jachy/pi-git-sync",
+  "name": "@jachy/pi-git-sync",
+  "url": "https://www.npmjs.com/package/@jachy/pi-git-sync",
+  "source": "npm-search",
+  "description": "Sync Pi configuration across machines via GitHub Private Repository",
+  "metadata": {
+    "github_url": "https://github.com/jachy-h/pi-git-sync",
+    "npm_name": "@jachy/pi-git-sync",
+    "description": "Sync Pi configuration across machines via GitHub Private Repository",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "git-sync",
+      "pi",
+      "sync",
+      "config",
+      "dotfiles"
+    ],
+    "version": "0.1.16",
+    "published_at": "2026-07-26T09:43:24.778Z",
+    "npm_downloads_monthly": 266,
+    "npm_downloads_weekly": 266,
+    "npm_score_final": 18.450212,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

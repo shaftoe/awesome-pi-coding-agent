@@ -3,11 +3,11 @@
   "name": "dyllonj-pi-goose-swarm",
   "url": "https://github.com/dyllonj/pi-goose-swarm",
   "source": "github-search",
-  "description": "Goose working indicator and parallel subagent swarm for Pi",
+  "description": "Goose working indicator and parallel subagent swarm for Pi agent harness",
   "metadata": {
     "github_url": "https://github.com/dyllonj/pi-goose-swarm",
     "repo_full_name": "dyllonj/pi-goose-swarm",
-    "description": "Goose working indicator and parallel subagent swarm for Pi",
+    "description": "Goose working indicator and parallel subagent swarm for Pi agent harness",
     "stars": 1,
     "forks": 0,
     "open_issues": 0,
@@ -21,10 +21,10 @@
     "archived": false,
     "created_at": "2026-07-20T00:37:21Z",
     "pushed_at": "2026-07-20T00:37:25Z",
-    "updated_at": "2026-07-20T00:39:20Z",
+    "updated_at": "2026-07-26T16:14:19Z",
     "size": 8,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
-  "category": "misc"
+  "category": "extension"
 }

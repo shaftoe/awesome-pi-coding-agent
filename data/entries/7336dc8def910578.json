@@ -1,0 +1,32 @@
+{
+  "id": "pi-health-check",
+  "name": "pi-health-check",
+  "url": "https://www.npmjs.com/package/pi-health-check",
+  "source": "npm-search",
+  "description": "Startup diagnostics for the pi extension ecosystem: detect missing dependencies, duplicate packages, and skills referencing unregistered tools.",
+  "metadata": {
+    "github_url": "https://github.com/fengshuai/pi-health-check",
+    "npm_name": "pi-health-check",
+    "description": "Startup diagnostics for the pi extension ecosystem: detect missing dependencies, duplicate packages, and skills referencing unregistered tools.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "doctor",
+      "diagnostics",
+      "extension",
+      "dependencies",
+      "health-check"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-07-26T15:33:09.258Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

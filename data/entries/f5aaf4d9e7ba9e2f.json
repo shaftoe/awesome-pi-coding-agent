@@ -1,0 +1,30 @@
+{
+  "id": "pi-continuous-orchestration",
+  "name": "pi-continuous-orchestration",
+  "url": "https://www.npmjs.com/package/pi-continuous-orchestration",
+  "source": "npm-search",
+  "description": "Pi extension that keeps a main agent working toward a high-level goal with durable Markdown memory and independent adversarial verification",
+  "metadata": {
+    "github_url": "https://github.com/dat-lequoc/agi3",
+    "npm_name": "pi-continuous-orchestration",
+    "description": "Pi extension that keeps a main agent working toward a high-level goal with durable Markdown memory and independent adversarial verification",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "orchestration",
+      "agents",
+      "ai"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-26T18:04:27.724Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

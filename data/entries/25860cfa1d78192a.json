@@ -1,0 +1,25 @@
+{
+  "id": "Federicocervelli-my-pi-config",
+  "name": "Federicocervelli-my-pi-config",
+  "url": "https://github.com/Federicocervelli/my-pi-config",
+  "source": "github-search",
+  "description": "Public Pi coding-agent configuration, extensions, themes, and skills.",
+  "metadata": {
+    "github_url": "https://github.com/Federicocervelli/my-pi-config",
+    "repo_full_name": "Federicocervelli/my-pi-config",
+    "description": "Public Pi coding-agent configuration, extensions, themes, and skills.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-26T08:52:08Z",
+    "pushed_at": "2026-07-26T19:55:35Z",
+    "updated_at": "2026-07-26T19:55:38Z",
+    "size": 1072,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}
