@@ -1,0 +1,40 @@
+{
+  "id": "jianghuawang-CodePi",
+  "name": "jianghuawang-CodePi",
+  "url": "https://github.com/jianghuawang/CodePi",
+  "source": "github-search",
+  "description": "Open-source Pi GUI for macOS — a desktop client for the Pi coding agent with parallel sessions, Git worktrees, terminal, previews, and usage tracking.",
+  "metadata": {
+    "github_url": "https://github.com/jianghuawang/CodePi",
+    "repo_full_name": "jianghuawang/CodePi",
+    "description": "Open-source Pi GUI for macOS — a desktop client for the Pi coding agent with parallel sessions, Git worktrees, terminal, previews, and usage tracking.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 3,
+    "topics": [
+      "ai-coding-agent",
+      "coding-agent",
+      "desktop-app",
+      "developer-tools",
+      "electron",
+      "git",
+      "git-worktree",
+      "gui",
+      "macos",
+      "pi",
+      "pi-coding-agent",
+      "pi-gui",
+      "react",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-11T12:00:24Z",
+    "pushed_at": "2026-07-27T03:59:25Z",
+    "updated_at": "2026-07-27T04:02:15Z",
+    "size": 1250,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

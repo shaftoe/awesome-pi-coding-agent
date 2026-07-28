@@ -1,0 +1,25 @@
+{
+  "id": "v1b3coder-pi-agent-config",
+  "name": "v1b3coder-pi-agent-config",
+  "url": "https://github.com/v1b3coder/pi-agent-config",
+  "source": "github-search",
+  "description": "Pi agent configuration - skills, extensions, and settings",
+  "metadata": {
+    "github_url": "https://github.com/v1b3coder/pi-agent-config",
+    "repo_full_name": "v1b3coder/pi-agent-config",
+    "description": "Pi agent configuration - skills, extensions, and settings",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-04T09:27:48Z",
+    "pushed_at": "2026-06-18T22:39:14Z",
+    "updated_at": "2026-07-27T09:00:09Z",
+    "size": 218,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

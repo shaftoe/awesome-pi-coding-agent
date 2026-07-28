@@ -1,0 +1,28 @@
+{
+  "id": "edheltzel-pi-extensions",
+  "name": "edheltzel-pi-extensions",
+  "url": "https://github.com/edheltzel/pi-extensions",
+  "source": "github-search",
+  "description": "Just my personal list of Extensions for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/edheltzel/pi-extensions",
+    "repo_full_name": "edheltzel/pi-extensions",
+    "description": "Just my personal list of Extensions for the Pi coding agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-ecosystem",
+      "pi-extensions"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-27T13:51:01Z",
+    "pushed_at": "2026-07-27T15:12:22Z",
+    "updated_at": "2026-07-27T23:31:57Z",
+    "size": 1933,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

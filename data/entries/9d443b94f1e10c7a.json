@@ -1,0 +1,28 @@
+{
+  "id": "@wyattjoh/wayfinder-pi",
+  "name": "@wyattjoh/wayfinder-pi",
+  "url": "https://www.npmjs.com/package/@wyattjoh/wayfinder-pi",
+  "source": "npm-search",
+  "description": "Pi extension that shows the Wayfinder router's model decision after each routed turn",
+  "metadata": {
+    "github_url": "https://github.com/wyattjoh/wayfinder-pi",
+    "npm_name": "@wyattjoh/wayfinder-pi",
+    "description": "Pi extension that shows the Wayfinder router's model decision after each routed turn",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "wayfinder",
+      "llm-routing"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-20T19:37:02.355Z",
+    "npm_downloads_monthly": 133,
+    "npm_downloads_weekly": 133,
+    "npm_score_final": 14.962725,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

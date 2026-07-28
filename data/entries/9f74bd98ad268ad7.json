@@ -1,0 +1,25 @@
+{
+  "id": "zurrll-pi-collab",
+  "name": "zurrll-pi-collab",
+  "url": "https://github.com/zurrll/pi-collab",
+  "source": "github-search",
+  "description": "Multi-agent collaboration extension for pi — enables multiple pi instances to communicate and collaborate on shared tasks",
+  "metadata": {
+    "github_url": "https://github.com/zurrll/pi-collab",
+    "repo_full_name": "zurrll/pi-collab",
+    "description": "Multi-agent collaboration extension for pi — enables multiple pi instances to communicate and collaborate on shared tasks",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-26T02:58:10Z",
+    "pushed_at": "2026-07-26T03:28:23Z",
+    "updated_at": "2026-07-27T16:17:02Z",
+    "size": 30,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

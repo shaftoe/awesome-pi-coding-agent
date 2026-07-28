@@ -1,0 +1,25 @@
+{
+  "id": "xl0-pi-lovely-markdown",
+  "name": "xl0-pi-lovely-markdown",
+  "url": "https://github.com/xl0/pi-lovely-markdown",
+  "source": "github-search",
+  "description": "Pi extension package for Markdown rendering customizations",
+  "metadata": {
+    "github_url": "https://github.com/xl0/pi-lovely-markdown",
+    "repo_full_name": "xl0/pi-lovely-markdown",
+    "description": "Pi extension package for Markdown rendering customizations",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-27T23:05:39Z",
+    "pushed_at": "2026-07-27T23:05:42Z",
+    "updated_at": "2026-07-27T23:05:48Z",
+    "size": 0,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

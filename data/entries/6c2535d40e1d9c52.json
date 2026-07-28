@@ -1,0 +1,30 @@
+{
+  "id": "yangfriendship-pi-inline-skills",
+  "name": "yangfriendship-pi-inline-skills",
+  "url": "https://github.com/yangfriendship/pi-inline-skills",
+  "source": "github-search",
+  "description": "Inline autocomplete and multi-skill prompts for Pi",
+  "metadata": {
+    "github_url": "https://github.com/yangfriendship/pi-inline-skills",
+    "repo_full_name": "yangfriendship/pi-inline-skills",
+    "description": "Inline autocomplete and multi-skill prompts for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-skills",
+      "autocomplete",
+      "pi",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-27T19:02:35Z",
+    "pushed_at": "2026-07-27T19:24:16Z",
+    "updated_at": "2026-07-27T19:24:21Z",
+    "size": 5,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

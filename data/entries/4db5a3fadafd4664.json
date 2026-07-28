@@ -1,0 +1,31 @@
+{
+  "id": "@arcanemachine/pi-advice",
+  "name": "@arcanemachine/pi-advice",
+  "url": "https://www.npmjs.com/package/@arcanemachine/pi-advice",
+  "source": "npm-search",
+  "description": "Step back from current work to reconsider it with a configured model, then continue the same work.",
+  "metadata": {
+    "github_url": "https://github.com/arcanemachine/pi-advice",
+    "npm_name": "@arcanemachine/pi-advice",
+    "description": "Step back from current work to reconsider it with a configured model, then continue the same work.",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "advice",
+      "advisor",
+      "review"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-27T02:49:16.823Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

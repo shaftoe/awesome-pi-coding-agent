@@ -1,0 +1,25 @@
+{
+  "id": "fatwang2-pi-factory-droid",
+  "name": "fatwang2-pi-factory-droid",
+  "url": "https://github.com/fatwang2/pi-factory-droid",
+  "source": "github-search",
+  "description": "Pi Coding Agent provider extension that exposes Factory Droid models via @factory/droid-sdk with account-aware model discovery, autonomy-aware permissions, and fallback snapshots.",
+  "metadata": {
+    "github_url": "https://github.com/fatwang2/pi-factory-droid",
+    "repo_full_name": "fatwang2/pi-factory-droid",
+    "description": "Pi Coding Agent provider extension that exposes Factory Droid models via @factory/droid-sdk with account-aware model discovery, autonomy-aware permissions, and fallback snapshots.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-26T14:04:04Z",
+    "pushed_at": "2026-07-27T14:13:15Z",
+    "updated_at": "2026-07-27T14:19:24Z",
+    "size": 86,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

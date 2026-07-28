@@ -1,0 +1,32 @@
+{
+  "id": "@structupath/pi-tilldone",
+  "name": "@structupath/pi-tilldone",
+  "url": "https://www.npmjs.com/package/@structupath/pi-tilldone",
+  "source": "npm-search",
+  "description": "Task-discipline extension for the Pi coding agent — the agent must declare tasks before it can touch write/execute tools, and gets nudged until every task is done. Includes cmux tab-status integration.",
+  "metadata": {
+    "github_url": "https://github.com/StructuPath/pi-tilldone",
+    "npm_name": "@structupath/pi-tilldone",
+    "description": "Task-discipline extension for the Pi coding agent — the agent must declare tasks before it can touch write/execute tools, and gets nudged until every task is done. Includes cmux tab-status integration.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "tasks",
+      "todo",
+      "discipline",
+      "planning",
+      "agent-workflow",
+      "cmux"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-20T01:52:28.049Z",
+    "npm_downloads_monthly": 68,
+    "npm_downloads_weekly": 68,
+    "npm_score_final": 12.629649,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
