@@ -1,0 +1,30 @@
+{
+  "id": "pi-schedule",
+  "name": "pi-schedule",
+  "url": "https://www.npmjs.com/package/pi-schedule",
+  "source": "npm-search",
+  "description": "Scheduled actions for pi agents — prompts, shell checks, notifications, one-shots, and bounded polls",
+  "metadata": {
+    "github_url": "https://github.com/pungggi/pi-schedule",
+    "npm_name": "pi-schedule",
+    "description": "Scheduled actions for pi agents — prompts, shell checks, notifications, one-shots, and bounded polls",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "schedule",
+      "cron",
+      "recurring",
+      "tasks"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-07-27T14:14:42.478Z",
+    "npm_downloads_monthly": 115,
+    "npm_downloads_weekly": 115,
+    "npm_score_final": 15.057163,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

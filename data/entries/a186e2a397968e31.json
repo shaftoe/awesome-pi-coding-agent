@@ -10,6 +10,7 @@
     "description": "Web browser workspace for Pi — a standalone web server that manages multiple live Pi RPC sessions in parallel.",
     "keywords": [
       "pi",
+      "pi-package",
       "pi-coding-agent",
       "ai-agent",
       "ai-coding-agent",
@@ -21,15 +22,15 @@
       "standalone",
       "multi-session"
     ],
-    "version": "1.0.14",
-    "published_at": "2026-07-25T03:11:40.146Z",
-    "npm_downloads_monthly": 473,
-    "npm_downloads_weekly": 473,
-    "npm_score_final": 25.348137,
+    "version": "1.0.15",
+    "published_at": "2026-07-27T23:30:13.466Z",
+    "npm_downloads_monthly": 484,
+    "npm_downloads_weekly": 484,
+    "npm_score_final": 19.81069,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

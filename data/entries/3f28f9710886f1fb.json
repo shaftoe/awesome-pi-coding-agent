@@ -15,10 +15,10 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-11T17:44:58Z",
-    "pushed_at": "2026-07-26T16:51:15Z",
-    "updated_at": "2026-07-26T16:29:36Z",
-    "size": 5557,
-    "license": "BSD-2-Clause",
+    "pushed_at": "2026-07-27T22:02:46Z",
+    "updated_at": "2026-07-27T22:02:57Z",
+    "size": 3412,
+    "license": "BSD-3-Clause",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"

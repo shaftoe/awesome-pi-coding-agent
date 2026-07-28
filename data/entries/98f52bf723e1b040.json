@@ -1,0 +1,25 @@
+{
+  "id": "adeci-pi-agent-config",
+  "name": "adeci-pi-agent-config",
+  "url": "https://github.com/adeci/pi-agent-config",
+  "source": "github-search",
+  "description": "my global pi coding agent configuration",
+  "metadata": {
+    "github_url": "https://github.com/adeci/pi-agent-config",
+    "repo_full_name": "adeci/pi-agent-config",
+    "description": "my global pi coding agent configuration",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-27T21:25:27Z",
+    "pushed_at": "2026-07-27T21:43:10Z",
+    "updated_at": "2026-07-27T22:05:46Z",
+    "size": 265,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

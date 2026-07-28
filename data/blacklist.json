@@ -41253,5 +41253,181 @@
 		"reason": "Not about the Pi coding agent (pi.dev) — this is Pluto7's supply chain 'PI Agent' with Gemini/AlphaEvolve, completely unrelated",
 		"blacklisted_at": "2026-07-27T00:03:46.713Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@cnife/pi-footer",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-28T00:01:18.261Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/igshehata/pi-hunk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T00:01:18.282Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/OiAnthony/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T00:01:18.288Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=j0Z5cngKDeo",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-28T00:01:18.371Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@liziy/db-plugin",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-28T00:01:18.413Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/serhattemel/pi-galatasaray-theme",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T00:01:18.596Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/NEWBIE0413/simply",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T00:01:18.911Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/ImYoyoData/pi-desktop",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-28T00:01:19.068Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Jeecabs/pilot-manual-enjoyer",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T00:01:19.092Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Po1nt9/omp-web",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-07-28T00:01:19.183Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/sambitcreate/aiden-agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T00:01:19.203Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=bnHWdGP2ikQ",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-07-28T00:01:19.211Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/muse-mesh/mu",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-07-28T00:01:19.232Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=UuSh2qkrplw",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-07-28T00:01:19.246Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5Kg1kVzGFpA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T00:01:19.254Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/falk-eysen/magic-context-native-compaction",
+		"reason": "industrial pi signal: \"historian\"",
+		"blacklisted_at": "2026-07-28T00:01:19.3Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/npm-DreaMaX/Triple-pi",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T00:01:19.318Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-huly",
+		"reason": "Non-English description (Vietnamese): Native Huly support cho pi-coding-agent — tools + skills + subagent (KHÔNG MCP, gọi thẳng WebSocket API)",
+		"blacklisted_at": "2026-07-28T00:05:44.098Z",
+		"source": "manual"
 	}
 ]

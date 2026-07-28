@@ -1,0 +1,31 @@
+{
+  "id": "psychobarge-pi-deepseek-peak",
+  "name": "psychobarge-pi-deepseek-peak",
+  "url": "https://github.com/psychobarge/pi-deepseek-peak",
+  "source": "github-search",
+  "description": "A small pi extention to show Deepseek peak hour status.",
+  "metadata": {
+    "github_url": "https://github.com/psychobarge/pi-deepseek-peak",
+    "repo_full_name": "psychobarge/pi-deepseek-peak",
+    "description": "A small pi extention to show Deepseek peak hour status.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "deepseek",
+      "llm-tools",
+      "pi-coding-agent",
+      "pi-extensions",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-25T16:36:46Z",
+    "pushed_at": "2026-07-27T09:52:42Z",
+    "updated_at": "2026-07-27T11:31:31Z",
+    "size": 7,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

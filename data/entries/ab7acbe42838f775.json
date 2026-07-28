@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Self-hosted agent event loop for the pi coding agent: cron and webhook triggers, a durable queue with spend caps, and outbound notifications to Telegram/Slack.",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/pacoyang/pi-reactor",
     "npm_name": "pi-reactor",
     "description": "Self-hosted agent event loop for the pi coding agent: cron and webhook triggers, a durable queue with spend caps, and outbound notifications to Telegram/Slack.",
     "keywords": [
@@ -22,8 +22,8 @@
       "webhook",
       "telegram"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-07-26T15:37:09.623Z",
+    "version": "0.1.5",
+    "published_at": "2026-07-27T04:28:10.715Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

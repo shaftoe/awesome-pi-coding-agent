@@ -3,11 +3,11 @@
   "name": "@minhduydev/pi-learning",
   "url": "https://www.npmjs.com/package/@minhduydev/pi-learning",
   "source": "npm-search",
-  "description": "Default-off, append-only project-local learning store with human-gated trust transitions for Pi. Selective fork of Matt Devy's pi-continuous-learning.",
+  "description": "Append-only project-local learning ledger for Pi with two separate trust gates: manual human approval, and a bounded auto-safe machine gate that is on by default in Pi-trusted projects. Selective fork of Matt Devy's pi-continuous-learning.",
   "metadata": {
     "github_url": "https://github.com/minhduydev/pi-learning",
     "npm_name": "@minhduydev/pi-learning",
-    "description": "Default-off, append-only project-local learning store with human-gated trust transitions for Pi. Selective fork of Matt Devy's pi-continuous-learning.",
+    "description": "Append-only project-local learning ledger for Pi with two separate trust gates: manual human approval, and a bounded auto-safe machine gate that is on by default in Pi-trusted projects. Selective fork of Matt Devy's pi-continuous-learning.",
     "keywords": [
       "pi",
       "pi-package",
@@ -19,8 +19,8 @@
       "trust",
       "selective-fork"
     ],
-    "version": "0.2.1",
-    "published_at": "2026-07-26T11:49:21.910Z",
+    "version": "0.4.0",
+    "published_at": "2026-07-27T14:42:30.270Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

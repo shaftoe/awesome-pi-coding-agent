@@ -8,9 +8,9 @@
     "github_url": "https://github.com/markokocic/pi-tree-sitter",
     "repo_full_name": "markokocic/pi-tree-sitter",
     "description": "Pre-write syntax validation for pi using tree-sitter WASM grammars",
-    "stars": 0,
+    "stars": 1,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "pi-extension",
       "pi-package",
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-07-06T09:56:25Z",
     "pushed_at": "2026-07-24T14:25:17Z",
-    "updated_at": "2026-07-24T14:25:50Z",
+    "updated_at": "2026-07-27T08:10:27Z",
     "size": 138,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

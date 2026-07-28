@@ -1,0 +1,25 @@
+{
+  "id": "DRoma82-tmux-pi-state",
+  "name": "DRoma82-tmux-pi-state",
+  "url": "https://github.com/DRoma82/tmux-pi-state",
+  "source": "github-search",
+  "description": "TPM-compatible tmux plugin and Pi package for showing Pi coding-agent state in tmux.",
+  "metadata": {
+    "github_url": "https://github.com/DRoma82/tmux-pi-state",
+    "repo_full_name": "DRoma82/tmux-pi-state",
+    "description": "TPM-compatible tmux plugin and Pi package for showing Pi coding-agent state in tmux.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-27T14:57:20Z",
+    "pushed_at": "2026-07-27T15:46:37Z",
+    "updated_at": "2026-07-27T15:49:19Z",
+    "size": 3,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
