@@ -10,7 +10,7 @@
     "description": "Railyard is a local desktop app for working with Pi across Git repositories and long-running goals. Plan, implement, and pick up where you left off.",
     "stars": 25,
     "forks": 0,
-    "open_issues": 4,
+    "open_issues": 2,
     "topics": [
       "coding-agent",
       "developer-tools",
@@ -19,9 +19,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-26T14:10:03Z",
-    "pushed_at": "2026-07-27T20:02:52Z",
-    "updated_at": "2026-07-27T19:23:11Z",
-    "size": 1767,
+    "pushed_at": "2026-07-28T20:17:49Z",
+    "updated_at": "2026-07-28T19:57:55Z",
+    "size": 1636,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

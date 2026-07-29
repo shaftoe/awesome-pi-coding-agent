@@ -8,7 +8,7 @@
     "github_url": "https://github.com/grikomsn/pi-provider-poolside",
     "repo_full_name": "grikomsn/pi-provider-poolside",
     "description": "Poolside AI model provider for Pi with live model discovery and reasoning controls",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-07-22T19:04:53Z",
     "pushed_at": "2026-07-26T01:53:58Z",
-    "updated_at": "2026-07-26T01:54:02Z",
+    "updated_at": "2026-07-28T15:11:19Z",
     "size": 56,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

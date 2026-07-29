@@ -1,0 +1,29 @@
+{
+  "id": "FuJuntao-pi-aio",
+  "name": "FuJuntao-pi-aio",
+  "url": "https://github.com/FuJuntao/pi-aio",
+  "source": "github-search",
+  "description": "All-in-one pi package bundling extensions, skills, prompt templates, and themes for the pi coding agent (@fujuntao/pi-aio).",
+  "metadata": {
+    "github_url": "https://github.com/FuJuntao/pi-aio",
+    "repo_full_name": "FuJuntao/pi-aio",
+    "description": "All-in-one pi package bundling extensions, skills, prompt templates, and themes for the pi coding agent (@fujuntao/pi-aio).",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [
+      "pi",
+      "pi-coding-agent",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-23T06:02:51Z",
+    "pushed_at": "2026-07-28T18:07:34Z",
+    "updated_at": "2026-07-28T17:53:45Z",
+    "size": 189,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

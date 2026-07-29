@@ -9,7 +9,7 @@
     "repo_full_name": "code-yeongyu/pi-anthropic-tool-search",
     "description": "Anthropic native tool-search policy extension for the pi coding agent. Conditionally injects Anthropic tool-search tools based on PI_ANTHROPIC_TOOL_SEARCH and appends tool-search guidance to the system prompt.",
     "stars": 1,
-    "forks": 1,
+    "forks": 0,
     "open_issues": 1,
     "topics": [
       "anthropic",

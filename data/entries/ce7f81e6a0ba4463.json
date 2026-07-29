@@ -1,0 +1,33 @@
+{
+  "id": "everettjf-graphchat",
+  "name": "everettjf-graphchat",
+  "url": "https://github.com/everettjf/graphchat",
+  "source": "github-search",
+  "description": "Local-first, graph-native AI learning workspace powered by Pi.",
+  "metadata": {
+    "github_url": "https://github.com/everettjf/graphchat",
+    "repo_full_name": "everettjf/graphchat",
+    "description": "Local-first, graph-native AI learning workspace powered by Pi.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai",
+      "bun",
+      "knowledge-graph",
+      "local-first",
+      "pi-agent",
+      "react",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-26T15:17:41Z",
+    "pushed_at": "2026-07-28T14:20:54Z",
+    "updated_at": "2026-07-28T14:27:11Z",
+    "size": 1223,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

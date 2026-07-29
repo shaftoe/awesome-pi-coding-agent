@@ -1,0 +1,32 @@
+{
+  "id": "maxbin123-pi-matt-flow",
+  "name": "maxbin123-pi-matt-flow",
+  "url": "https://github.com/maxbin123/pi-matt-flow",
+  "source": "github-search",
+  "description": "Resumable idea-to-ship workflow for pi using Matt Pocock's engineering skills",
+  "metadata": {
+    "github_url": "https://github.com/maxbin123/pi-matt-flow",
+    "repo_full_name": "maxbin123/pi-matt-flow",
+    "description": "Resumable idea-to-ship workflow for pi using Matt Pocock's engineering skills",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-skills",
+      "code-review",
+      "pi-coding-agent",
+      "pi-package",
+      "tdd",
+      "workflow"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-28T03:34:42Z",
+    "pushed_at": "2026-07-28T04:26:52Z",
+    "updated_at": "2026-07-28T04:26:59Z",
+    "size": 53,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

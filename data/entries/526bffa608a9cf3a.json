@@ -9,7 +9,7 @@
     "repo_full_name": "code-yeongyu/pi-anthropic-bash",
     "description": "Anthropic native bash policy extension for the pi coding agent. Ensures native bash tools are present on anthropic-messages payloads when opt-in is enabled and appends bash guidance to the system prompt.",
     "stars": 1,
-    "forks": 1,
+    "forks": 0,
     "open_issues": 0,
     "topics": [
       "anthropic",
