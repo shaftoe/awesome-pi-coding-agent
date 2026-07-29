@@ -1,0 +1,30 @@
+{
+  "id": "@danypops/pi-ipv4-fallback",
+  "name": "@danypops/pi-ipv4-fallback",
+  "url": "https://www.npmjs.com/package/@danypops/pi-ipv4-fallback",
+  "source": "npm-search",
+  "description": "Probes IPv6 reachability once at pi startup and prefers IPv4 for the whole process if it's broken (e.g. VPNs that blackhole IPv6 instead of rejecting it), fixing opaque OAuth/network timeouts like the Vertex AI ADC token fetch.",
+  "metadata": {
+    "github_url": "https://github.com/DanyPops/pi-ipv4-fallback",
+    "npm_name": "@danypops/pi-ipv4-fallback",
+    "description": "Probes IPv6 reachability once at pi startup and prefers IPv4 for the whole process if it's broken (e.g. VPNs that blackhole IPv6 instead of rejecting it), fixing opaque OAuth/network timeouts like the Vertex AI ADC token fetch.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "network",
+      "ipv6",
+      "ipv4",
+      "vertex"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-21T08:41:28.116Z",
+    "npm_downloads_monthly": 75,
+    "npm_downloads_weekly": 75,
+    "npm_score_final": 12.8549185,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

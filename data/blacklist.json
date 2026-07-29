@@ -41429,5 +41429,209 @@
 		"reason": "Non-English description (Vietnamese): Native Huly support cho pi-coding-agent — tools + skills + subagent (KHÔNG MCP, gọi thẳng WebSocket API)",
 		"blacklisted_at": "2026-07-28T00:05:44.098Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/atvalerie/piplusplus",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T23:56:45.872Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=zhErL1QeZm0",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-07-28T23:56:45.959Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/erichll/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T23:56:46.014Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/anti-ai",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T23:56:46.113Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=0ujh7hfutq0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T23:56:46.213Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=E9iSr0TNvKg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T23:56:46.291Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/vekexasia/pi-config",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T23:56:46.301Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/aefreedman/pi-package-development",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T23:56:46.318Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=azX59iLvADE",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-07-28T23:56:46.536Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@nativepi/extension-api",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T23:56:46.583Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/animepics/agent-dashboard",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T23:56:46.627Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=txW5vBk7C64",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T23:56:46.649Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/aefreedman/pi-package-references",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T23:56:46.654Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/gustbr/pi-observability-package",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T23:56:46.668Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/nosuiyi/codegraph-pi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-28T23:56:46.674Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@everettjf/graphchat",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-07-28T23:56:46.815Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=8EFdJof0_iQ",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-07-28T23:56:46.859Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/open-code-war",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-07-28T23:56:46.883Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@igor-guari/pi-loop",
+		"reason": "Non-English description (Portuguese)",
+		"blacklisted_at": "2026-07-28T23:58:51.208Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-profiler",
+		"reason": "Non-English description (Portuguese)",
+		"blacklisted_at": "2026-07-28T23:58:51.233Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=bXkCRYoqpGo",
+		"reason": "Not about Pi coding agent - Pi Day math holiday merchandise",
+		"blacklisted_at": "2026-07-28T23:58:51.255Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=3OwmeB06TtA",
+		"reason": "Not about Pi coding agent - Power Integrity chip/PCB analysis",
+		"blacklisted_at": "2026-07-29T00:01:58.304Z",
+		"source": "manual"
 	}
 ]

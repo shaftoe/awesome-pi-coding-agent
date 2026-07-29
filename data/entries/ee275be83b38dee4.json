@@ -1,0 +1,25 @@
+{
+  "id": "pi-tool-manager",
+  "name": "pi-tool-manager",
+  "url": "https://www.npmjs.com/package/pi-tool-manager",
+  "source": "npm-search",
+  "description": "Pi extension: interactive tool browser with toggle disable/enable",
+  "metadata": {
+    "github_url": "https://github.com/Star-233/pi-tool-manager",
+    "npm_name": "pi-tool-manager",
+    "description": "Pi extension: interactive tool browser with toggle disable/enable",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-21T01:44:54.469Z",
+    "npm_downloads_monthly": 286,
+    "npm_downloads_weekly": 286,
+    "npm_score_final": 18.594276,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

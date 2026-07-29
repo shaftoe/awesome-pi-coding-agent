@@ -1,0 +1,32 @@
+{
+  "id": "cCcC0-pi-otty-images",
+  "name": "cCcC0-pi-otty-images",
+  "url": "https://github.com/cCcC0/pi-otty-images",
+  "source": "github-search",
+  "description": "Sharp, correctly positioned Kitty PNG images in Otty 1.3+ for Pi, with Sixel rollback",
+  "metadata": {
+    "github_url": "https://github.com/cCcC0/pi-otty-images",
+    "repo_full_name": "cCcC0/pi-otty-images",
+    "description": "Sharp, correctly positioned Kitty PNG images in Otty 1.3+ for Pi, with Sixel rollback",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "kitty-graphics",
+      "otty",
+      "pi-extension",
+      "pi-package",
+      "sixel",
+      "terminal-images"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-28T19:06:35Z",
+    "pushed_at": "2026-07-28T19:14:22Z",
+    "updated_at": "2026-07-28T19:16:29Z",
+    "size": 153,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

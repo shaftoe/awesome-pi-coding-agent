@@ -1,0 +1,25 @@
+{
+  "id": "KirschBluteX-pi-coding-harness",
+  "name": "KirschBluteX-pi-coding-harness",
+  "url": "https://github.com/KirschBluteX/pi-coding-harness",
+  "source": "github-search",
+  "description": "Opt-in Pi Coding Agent execution harness with durable Single and role-isolated Multi workflows.",
+  "metadata": {
+    "github_url": "https://github.com/KirschBluteX/pi-coding-harness",
+    "repo_full_name": "KirschBluteX/pi-coding-harness",
+    "description": "Opt-in Pi Coding Agent execution harness with durable Single and role-isolated Multi workflows.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-28T15:50:19Z",
+    "pushed_at": "2026-07-28T16:13:53Z",
+    "updated_at": "2026-07-28T16:14:40Z",
+    "size": 1030,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}
