@@ -1,0 +1,34 @@
+{
+  "id": "joematthews-pi-plate",
+  "name": "joematthews-pi-plate",
+  "url": "https://github.com/joematthews/pi-plate",
+  "source": "github-search",
+  "description": "Facts the model cannot know -- the date, the machine, and your git state -- delivered to pi as blocks.",
+  "metadata": {
+    "github_url": "https://github.com/joematthews/pi-plate",
+    "repo_full_name": "joematthews/pi-plate",
+    "description": "Facts the model cannot know -- the date, the machine, and your git state -- delivered to pi as <pi-note> blocks.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "coding-agent",
+      "context",
+      "grounding",
+      "llama-cpp",
+      "local-models",
+      "pi",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-25T20:28:39Z",
+    "pushed_at": "2026-07-29T07:05:27Z",
+    "updated_at": "2026-07-29T13:13:37Z",
+    "size": 369,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

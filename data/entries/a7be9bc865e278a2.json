@@ -3,11 +3,11 @@
   "name": "@cgh567/agent",
   "url": "https://www.npmjs.com/package/@cgh567/agent",
   "source": "npm-search",
-  "description": "Helios agent runtime â€” full stack: extensions, skills, daemon, brain-v2, HEMA, governance",
+  "description": "Helios self-improvement lab",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/helios-agi/helios-agent",
     "npm_name": "@cgh567/agent",
-    "description": "Helios agent runtime â€” full stack: extensions, skills, daemon, brain-v2, HEMA, governance",
+    "description": "Helios self-improvement lab",
     "keywords": [
       "pi-package",
       "pi-coding-agent",
@@ -15,15 +15,15 @@
       "ai-agent",
       "graph-brain"
     ],
-    "version": "2.6.6",
-    "published_at": "2026-07-27T19:07:23.018Z",
-    "npm_downloads_monthly": 2645,
-    "npm_downloads_weekly": 359,
-    "npm_score_final": 26.510971,
+    "version": "2.6.9",
+    "published_at": "2026-07-29T17:30:02.748Z",
+    "npm_downloads_monthly": 2897,
+    "npm_downloads_weekly": 1514,
+    "npm_score_final": 27.818926,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "extension"
+  "category": "misc"
 }

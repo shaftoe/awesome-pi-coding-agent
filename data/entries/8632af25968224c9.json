@@ -1,0 +1,28 @@
+{
+  "id": "pi-typeless-input",
+  "name": "pi-typeless-input",
+  "url": "https://www.npmjs.com/package/pi-typeless-input",
+  "source": "npm-search",
+  "description": "Debounce and merge Typeless voice input fragments for pi TUI",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-typeless-input",
+    "description": "Debounce and merge Typeless voice input fragments for pi TUI",
+    "keywords": [
+      "pi-package",
+      "typeless",
+      "voice-input",
+      "debounce"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-22T13:33:53.406Z",
+    "npm_downloads_monthly": 123,
+    "npm_downloads_weekly": 123,
+    "npm_score_final": 15.304225,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

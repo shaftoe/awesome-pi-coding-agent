@@ -6,7 +6,7 @@
   "description": "Pi coding agent extension for Magic Context — cross-session memory and context management",
   "metadata": {
     "github_url": "https://github.com/hheei/magic-context",
-    "npm_name": "@hheei/pi-magic-context",
+    "npm_name": "@hheei/hepi-mctx",
     "description": "Pi coding agent extension for Magic Context — cross-session memory and context management",
     "keywords": [
       "pi",
@@ -18,8 +18,8 @@
       "ai",
       "llm"
     ],
-    "version": "0.33.1-hepi.0",
-    "published_at": "2026-07-28T04:47:48.653Z",
+    "version": "0.1.2",
+    "published_at": "2026-07-29T14:51:28.552Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

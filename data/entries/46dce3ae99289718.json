@@ -10,7 +10,7 @@
     "description": "Configurable proactive native compaction for Pi",
     "stars": 3,
     "forks": 1,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "compaction",
       "context-window",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-15T17:19:13Z",
-    "pushed_at": "2026-07-28T15:23:33Z",
-    "updated_at": "2026-07-28T15:28:10Z",
-    "size": 61,
+    "pushed_at": "2026-07-29T14:47:39Z",
+    "updated_at": "2026-07-29T14:53:33Z",
+    "size": 85,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

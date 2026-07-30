@@ -1,0 +1,25 @@
+{
+  "id": "mark-dingwall-pykrete",
+  "name": "mark-dingwall-pykrete",
+  "url": "https://github.com/mark-dingwall/pykrete",
+  "source": "github-search",
+  "description": "Headless launcher wiring the pi coding agent to NanoGPT — model-family failover, frozen exit-code contract, and transport-liveness guards.",
+  "metadata": {
+    "github_url": "https://github.com/mark-dingwall/pykrete",
+    "repo_full_name": "mark-dingwall/pykrete",
+    "description": "Headless launcher wiring the pi coding agent to NanoGPT — model-family failover, frozen exit-code contract, and transport-liveness guards.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-22T01:43:41Z",
+    "pushed_at": "2026-07-25T21:23:21Z",
+    "updated_at": "2026-07-29T06:26:14Z",
+    "size": 213,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

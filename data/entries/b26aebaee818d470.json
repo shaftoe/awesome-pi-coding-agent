@@ -8,7 +8,7 @@
     "github_url": "https://github.com/HazAT/pi-interactive-subagents",
     "repo_full_name": "HazAT/pi-interactive-subagents",
     "description": "Interactive subagents for pi — spawn, orchestrate, and manage sub-agent sessions in cmux terminals",
-    "stars": 603,
+    "stars": 606,
     "forks": 110,
     "open_issues": 23,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-16T20:13:07Z",
     "pushed_at": "2026-05-12T22:21:08Z",
-    "updated_at": "2026-07-28T20:25:33Z",
+    "updated_at": "2026-07-29T15:54:18Z",
     "size": 283,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

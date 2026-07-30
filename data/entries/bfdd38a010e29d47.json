@@ -1,0 +1,25 @@
+{
+  "id": "fitchmultz-pi-todo-list",
+  "name": "fitchmultz-pi-todo-list",
+  "url": "https://github.com/fitchmultz/pi-todo-list",
+  "source": "github-search",
+  "description": "Persistent nested todo list extension for Pi agents",
+  "metadata": {
+    "github_url": "https://github.com/fitchmultz/pi-todo-list",
+    "repo_full_name": "fitchmultz/pi-todo-list",
+    "description": "Persistent nested todo list extension for Pi agents",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-27T14:47:12Z",
+    "pushed_at": "2026-07-27T15:12:03Z",
+    "updated_at": "2026-07-29T06:23:14Z",
+    "size": 9,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}
