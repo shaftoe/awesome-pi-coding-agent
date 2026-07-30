@@ -1,0 +1,30 @@
+{
+  "id": "marketingagents",
+  "name": "marketingagents",
+  "url": "https://www.npmjs.com/package/marketingagents",
+  "source": "npm-search",
+  "description": "Open-source AI marketing operating system for technical founders — research, positioning, launch, acquisition, measurement, and iteration. Built on Pi.",
+  "metadata": {
+    "github_url": "https://github.com/youmake-ai/marketingagents",
+    "npm_name": "marketingagents",
+    "description": "Open-source AI marketing operating system for technical founders — research, positioning, launch, acquisition, measurement, and iteration. Built on Pi.",
+    "keywords": [
+      "pi-package",
+      "marketing-agent",
+      "marketing-automation",
+      "creative-generation",
+      "meta-ads",
+      "higgsfield"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-22T19:00:10.609Z",
+    "npm_downloads_monthly": 149,
+    "npm_downloads_weekly": 149,
+    "npm_score_final": 16.024677,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

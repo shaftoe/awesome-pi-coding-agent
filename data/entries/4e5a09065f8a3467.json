@@ -1,0 +1,30 @@
+{
+  "id": "@youdotcom-oss/pi",
+  "name": "@youdotcom-oss/pi",
+  "url": "https://www.npmjs.com/package/@youdotcom-oss/pi",
+  "source": "npm-search",
+  "description": "Pi extension for You.com MCP tools and skills",
+  "metadata": {
+    "github_url": "https://github.com/youdotcom-oss/agent-skills",
+    "npm_name": "@youdotcom-oss/pi",
+    "description": "Pi extension for You.com MCP tools and skills",
+    "keywords": [
+      "pi-package",
+      "you.com",
+      "web-search",
+      "research",
+      "content-extraction",
+      "mcp"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-07-28T21:22:10.418Z",
+    "npm_downloads_monthly": 345,
+    "npm_downloads_weekly": 345,
+    "npm_score_final": 19.337584,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

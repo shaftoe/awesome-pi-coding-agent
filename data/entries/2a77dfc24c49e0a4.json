@@ -1,0 +1,27 @@
+{
+  "id": "@anrans001/pi-spark-pi-extension",
+  "name": "@anrans001/pi-spark-pi-extension",
+  "url": "https://www.npmjs.com/package/@anrans001/pi-spark-pi-extension",
+  "source": "npm-search",
+  "description": "Pi extension for delegating agent work to pi-spark.",
+  "metadata": {
+    "github_url": "https://github.com/AnranS/pi_spark",
+    "npm_name": "@anrans001/pi-spark-pi-extension",
+    "description": "Pi extension for delegating agent work to pi-spark.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "distributed-agents"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-22T08:59:58.146Z",
+    "npm_downloads_monthly": 71,
+    "npm_downloads_weekly": 71,
+    "npm_score_final": 13.30498,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

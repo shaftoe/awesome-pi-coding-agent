@@ -1,0 +1,31 @@
+{
+  "id": "pi-power-paste",
+  "name": "pi-power-paste",
+  "url": "https://www.npmjs.com/package/pi-power-paste",
+  "source": "npm-search",
+  "description": "OpenCode-grade clipboard paste for pi on Windows: instant Ctrl+V image attachments, Explorer file drops as collapsible blocks, large-text collapsing, persistent clipboard helper",
+  "metadata": {
+    "github_url": "https://github.com/LvFireFly/pi-power-paste",
+    "npm_name": "pi-power-paste",
+    "description": "OpenCode-grade clipboard paste for pi on Windows: instant Ctrl+V image attachments, Explorer file drops as collapsible blocks, large-text collapsing, persistent clipboard helper",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "paste",
+      "clipboard",
+      "image-attachments",
+      "windows",
+      "opencode"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-22T08:43:45.473Z",
+    "npm_downloads_monthly": 100,
+    "npm_downloads_weekly": 100,
+    "npm_score_final": 15.02672,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

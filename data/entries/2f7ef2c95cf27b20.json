@@ -10,7 +10,7 @@
     "description": "AST-aware code search and rewrite for the pi coding agent. Faithful port of the ast-grep tools from oh-my-openagent.",
     "stars": 14,
     "forks": 4,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "ast",
       "ast-grep",

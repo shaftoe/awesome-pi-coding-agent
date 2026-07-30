@@ -1,0 +1,29 @@
+{
+  "id": "pi-devops-tools",
+  "name": "pi-devops-tools",
+  "url": "https://www.npmjs.com/package/pi-devops-tools",
+  "source": "npm-search",
+  "description": "Database workspace extension for pi — query MySQL with schema caching, relation graph, and query history",
+  "metadata": {
+    "github_url": "https://github.com/zavier/pi-devops-tools",
+    "npm_name": "pi-devops-tools",
+    "description": "Database workspace extension for pi — query MySQL with schema caching, relation graph, and query history",
+    "keywords": [
+      "database",
+      "devops",
+      "mysql",
+      "pi-extension",
+      "pi-package"
+    ],
+    "version": "0.7.0",
+    "published_at": "2026-07-29T16:58:41.735Z",
+    "npm_downloads_monthly": 1129,
+    "npm_downloads_weekly": 1129,
+    "npm_score_final": 23.826021,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "araketski-pi-packages",
+  "name": "araketski-pi-packages",
+  "url": "https://github.com/araketski/pi-packages",
+  "source": "github-search",
+  "description": "Collection of pi agent packages I created for my daily tasks",
+  "metadata": {
+    "github_url": "https://github.com/araketski/pi-packages",
+    "repo_full_name": "araketski/pi-packages",
+    "description": "Collection of pi agent packages I created for my daily tasks ",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-26T09:46:41Z",
+    "pushed_at": "2026-07-27T19:28:18Z",
+    "updated_at": "2026-07-27T19:28:22Z",
+    "size": 1146,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

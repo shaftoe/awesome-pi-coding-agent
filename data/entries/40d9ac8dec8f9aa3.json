@@ -1,0 +1,28 @@
+{
+  "id": "pi-streaming-guard",
+  "name": "pi-streaming-guard",
+  "url": "https://www.npmjs.com/package/pi-streaming-guard",
+  "source": "npm-search",
+  "description": "Keep Pi's TUI responsive during long streamed responses with incremental Markdown rendering",
+  "metadata": {
+    "github_url": "https://github.com/monotykamary/pi-streaming-guard",
+    "npm_name": "pi-streaming-guard",
+    "description": "Keep Pi's TUI responsive during long streamed responses with incremental Markdown rendering",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "performance",
+      "streaming"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-07-29T23:04:32.621Z",
+    "npm_downloads_monthly": 139,
+    "npm_downloads_weekly": 139,
+    "npm_score_final": 15.957007,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

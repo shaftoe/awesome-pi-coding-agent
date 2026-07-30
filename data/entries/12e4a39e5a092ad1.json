@@ -3,11 +3,11 @@
   "name": "awesome-pi-themes",
   "url": "https://www.npmjs.com/package/awesome-pi-themes",
   "source": "npm-search",
-  "description": "A curated collection of 26 original dark themes for Pi Coding Agent with a live web preview",
+  "description": "A curated collection of 27 original dark themes for Pi Coding Agent with a live web preview",
   "metadata": {
     "github_url": "https://github.com/isashi/awesome-pi-themes",
     "npm_name": "awesome-pi-themes",
-    "description": "A curated collection of 26 original dark themes for Pi Coding Agent with a live web preview",
+    "description": "A curated collection of 27 original dark themes for Pi Coding Agent with a live web preview",
     "keywords": [
       "pi-package",
       "pi",
@@ -25,15 +25,15 @@
       "awesome-pi",
       "github-pages"
     ],
-    "version": "1.0.1",
-    "published_at": "2026-07-28T19:06:32.690Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "1.1.0",
+    "published_at": "2026-07-29T20:32:02.837Z",
+    "npm_downloads_monthly": 732,
+    "npm_downloads_weekly": 732,
+    "npm_score_final": 22.66973,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-theme"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "theme"
 }

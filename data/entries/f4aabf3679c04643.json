@@ -8,7 +8,7 @@
     "github_url": "https://github.com/chasey-myagi/harness-pi",
     "repo_full_name": "chasey-myagi/harness-pi",
     "description": "Hook-first agent harness on @earendil-works/pi-ai — minimal kernel + 20 plugins + ~13 controllers + first-party tools. Backend/worker runtime for pi-ai agents; not a fork of pi-coding-agent.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 50,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-24T04:35:59Z",
     "pushed_at": "2026-07-25T20:55:02Z",
-    "updated_at": "2026-07-25T13:23:19Z",
+    "updated_at": "2026-07-29T06:54:21Z",
     "size": 1462,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,31 @@
+{
+  "id": "sunipan-pi-claude-plan",
+  "name": "sunipan-pi-claude-plan",
+  "url": "https://github.com/sunipan/pi-claude-plan",
+  "source": "github-search",
+  "description": "Unofficial Claude Pro/Max OAuth provider package for Pi, adapted from ex-machina-co/opencode-anthropic-auth.",
+  "metadata": {
+    "github_url": "https://github.com/sunipan/pi-claude-plan",
+    "repo_full_name": "sunipan/pi-claude-plan",
+    "description": "Unofficial Claude Pro/Max OAuth provider package for Pi, adapted from ex-machina-co/opencode-anthropic-auth.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "anthropic",
+      "claude",
+      "oauth",
+      "pi-coding-agent",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-29T20:16:21Z",
+    "pushed_at": "2026-07-29T20:58:30Z",
+    "updated_at": "2026-07-29T20:58:33Z",
+    "size": 55,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

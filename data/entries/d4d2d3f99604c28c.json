@@ -1,0 +1,31 @@
+{
+  "id": "adstastic-pi-apple-fm",
+  "name": "adstastic-pi-apple-fm",
+  "url": "https://github.com/adstastic/pi-apple-fm",
+  "source": "github-search",
+  "description": "Pi provider for Apple Foundation Models on macOS",
+  "metadata": {
+    "github_url": "https://github.com/adstastic/pi-apple-fm",
+    "repo_full_name": "adstastic/pi-apple-fm",
+    "description": "Pi provider for Apple Foundation Models on macOS",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "apple-foundation-models",
+      "apple-intelligence",
+      "macos",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-29T12:18:00Z",
+    "pushed_at": "2026-07-29T12:18:05Z",
+    "updated_at": "2026-07-29T12:19:01Z",
+    "size": 37,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
