@@ -1,0 +1,25 @@
+{
+  "id": "@danypops/pi-lector",
+  "name": "@danypops/pi-lector",
+  "url": "https://www.npmjs.com/package/@danypops/pi-lector",
+  "source": "npm-search",
+  "description": "Pi host adapter for Lector: overrides read/write/edit with a daemon-backed, hash-guarded filesystem",
+  "metadata": {
+    "github_url": "https://github.com/DanyPops/lector",
+    "npm_name": "@danypops/pi-lector",
+    "description": "Pi host adapter for Lector: overrides read/write/edit with a daemon-backed, hash-guarded filesystem",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.8.0",
+    "published_at": "2026-07-30T22:03:49.902Z",
+    "npm_downloads_monthly": 1737,
+    "npm_downloads_weekly": 1737,
+    "npm_score_final": 25.113037,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

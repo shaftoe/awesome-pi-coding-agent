@@ -1,0 +1,31 @@
+{
+  "id": "@bigking67/review-craft",
+  "name": "@bigking67/review-craft",
+  "url": "https://www.npmjs.com/package/@bigking67/review-craft",
+  "source": "npm-search",
+  "description": "Evidence-driven engineering review, validation, remediation planning, and quality governance for real codebases.",
+  "metadata": {
+    "github_url": "https://github.com/bigKING67/review-craft",
+    "npm_name": "@bigking67/review-craft",
+    "description": "Evidence-driven engineering review, validation, remediation planning, and quality governance for real codebases.",
+    "keywords": [
+      "pi-package",
+      "agent-skill",
+      "engineering-review",
+      "architecture",
+      "maintainability",
+      "performance",
+      "repository-governance"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-07-30T14:55:26.276Z",
+    "npm_downloads_monthly": 190,
+    "npm_downloads_weekly": 190,
+    "npm_score_final": 16.692017,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

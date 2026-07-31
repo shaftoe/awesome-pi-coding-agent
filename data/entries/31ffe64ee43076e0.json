@@ -10,7 +10,7 @@
     "description": "Andrej Karpathy's LLM Wiki pattern as a skill & Claude Code plugin — turn accumulated sources into a self-maintaining, scalable markdown knowledge base.",
     "stars": 79,
     "forks": 13,
-    "open_issues": 2,
+    "open_issues": 1,
     "topics": [
       "ai-tools",
       "claude-code-plugin",

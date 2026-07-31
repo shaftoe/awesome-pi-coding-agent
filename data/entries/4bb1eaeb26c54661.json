@@ -1,0 +1,30 @@
+{
+  "id": "mteam88-pi-config",
+  "name": "mteam88-pi-config",
+  "url": "https://github.com/mteam88/pi-config",
+  "source": "github-search",
+  "description": "Portable Pi coding-agent configuration, extensions, skills, and theme",
+  "metadata": {
+    "github_url": "https://github.com/mteam88/pi-config",
+    "repo_full_name": "mteam88/pi-config",
+    "description": "Portable Pi coding-agent configuration, extensions, skills, and theme",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-skills",
+      "dotfiles",
+      "pi-coding-agent",
+      "pi-extensions"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-30T21:13:14Z",
+    "pushed_at": "2026-07-30T21:13:18Z",
+    "updated_at": "2026-07-30T23:55:50Z",
+    "size": 257,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

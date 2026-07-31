@@ -8,7 +8,7 @@
     "github_url": "https://github.com/yonilerner/pi-auto",
     "repo_full_name": "yonilerner/pi-auto",
     "description": "LLM-based tool-call auto-approval for the pi coding agent. Inspired by Codex's Auto-review/Guardian system.",
-    "stars": 3,
+    "stars": 4,
     "forks": 2,
     "open_issues": 7,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-07T04:10:02Z",
     "pushed_at": "2026-07-16T21:56:39Z",
-    "updated_at": "2026-07-16T21:56:42Z",
+    "updated_at": "2026-07-30T07:59:53Z",
     "size": 698,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

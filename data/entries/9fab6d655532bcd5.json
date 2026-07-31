@@ -1,0 +1,29 @@
+{
+  "id": "pi-provider-mux",
+  "name": "pi-provider-mux",
+  "url": "https://www.npmjs.com/package/pi-provider-mux",
+  "source": "npm-search",
+  "description": "Create reusable Pi provider aliases for separate logins.",
+  "metadata": {
+    "github_url": "https://github.com/NikolaiUgelvik/pi-provider-mux",
+    "npm_name": "pi-provider-mux",
+    "description": "Create reusable Pi provider aliases for separate logins.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "provider",
+      "login"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-07-30T10:03:35.798Z",
+    "npm_downloads_monthly": 342,
+    "npm_downloads_weekly": 342,
+    "npm_score_final": 19.439753,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

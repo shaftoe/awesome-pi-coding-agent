@@ -8,18 +8,18 @@
     "github_url": "https://github.com/T-DWAG/pi-english-tutor",
     "repo_full_name": "T-DWAG/pi-english-tutor",
     "description": "English conversation tutor plugin for pi coding agent — bilingual AI responses, CEFR levels, input guard, and study reports",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-29T10:17:18Z",
-    "pushed_at": "2026-07-29T10:17:29Z",
-    "updated_at": "2026-07-29T10:29:56Z",
-    "size": 8,
+    "pushed_at": "2026-07-30T03:11:17Z",
+    "updated_at": "2026-07-30T08:24:03Z",
+    "size": 11,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

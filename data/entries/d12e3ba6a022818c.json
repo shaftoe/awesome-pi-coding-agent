@@ -1,0 +1,25 @@
+{
+  "id": "ringoshiina-pi-thinking-orbs",
+  "name": "ringoshiina-pi-thinking-orbs",
+  "url": "https://github.com/ringoshiina/pi-thinking-orbs",
+  "source": "github-search",
+  "description": "Animated Thinking Orbs activity states for the Pi coding agent terminal UI.",
+  "metadata": {
+    "github_url": "https://github.com/ringoshiina/pi-thinking-orbs",
+    "repo_full_name": "ringoshiina/pi-thinking-orbs",
+    "description": "Animated Thinking Orbs activity states for the Pi coding agent terminal UI.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-30T01:54:52Z",
+    "pushed_at": "2026-07-30T02:57:27Z",
+    "updated_at": "2026-07-30T03:05:30Z",
+    "size": 2198,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

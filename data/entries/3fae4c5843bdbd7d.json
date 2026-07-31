@@ -1,0 +1,30 @@
+{
+  "id": "pi-cockpit",
+  "name": "pi-cockpit",
+  "url": "https://www.npmjs.com/package/pi-cockpit",
+  "source": "npm-search",
+  "description": "Agent cockpit for Pi: a list-mode status stack (live teammates + todo plan) pinned above the editor, plus a Starship-style footer. Renders only via public extension APIs (setWidget/setFooter).",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-cockpit",
+    "description": "Agent cockpit for Pi: a list-mode status stack (live teammates + todo plan) pinned above the editor, plus a Starship-style footer. Renders only via public extension APIs (setWidget/setFooter).",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "tui",
+      "teammate",
+      "todo"
+    ],
+    "version": "0.5.1",
+    "published_at": "2026-07-30T16:13:59.109Z",
+    "npm_downloads_monthly": 778,
+    "npm_downloads_weekly": 778,
+    "npm_score_final": 22.056553,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
