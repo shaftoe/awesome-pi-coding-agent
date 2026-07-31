@@ -1,0 +1,31 @@
+{
+  "id": "Bukutsu-pi-background-agents",
+  "name": "Bukutsu-pi-background-agents",
+  "url": "https://github.com/Bukutsu/pi-background-agents",
+  "source": "github-search",
+  "description": "Minimal background execution and subagent delegation extension for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Bukutsu/pi-background-agents",
+    "repo_full_name": "Bukutsu/pi-background-agents",
+    "description": "Minimal background execution and subagent delegation extension for Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "background-execution",
+      "pi-agent",
+      "pi-extension",
+      "pi-package",
+      "subagent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-25T16:27:38Z",
+    "pushed_at": "2026-07-30T18:20:07Z",
+    "updated_at": "2026-07-30T18:24:46Z",
+    "size": 390,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

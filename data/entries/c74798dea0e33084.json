@@ -1,0 +1,30 @@
+{
+  "id": "roccoangelella-PiLink",
+  "name": "roccoangelella-PiLink",
+  "url": "https://github.com/roccoangelella/PiLink",
+  "source": "github-search",
+  "description": "MCP server to orchestrate GPT web chat into a local coding agent using Pi agent's harness.",
+  "metadata": {
+    "github_url": "https://github.com/roccoangelella/PiLink",
+    "repo_full_name": "roccoangelella/PiLink",
+    "description": "MCP server to orchestrate GPT web chat into a local coding agent using Pi agent's harness.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "chatgpt",
+      "coding-agent",
+      "mcp-server",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-30T09:36:13Z",
+    "pushed_at": "2026-07-30T13:03:26Z",
+    "updated_at": "2026-07-30T13:17:06Z",
+    "size": 242,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

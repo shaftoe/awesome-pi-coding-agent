@@ -24,11 +24,11 @@
     "published_at": "2026-04-15T09:22:43.220Z",
     "npm_downloads_monthly": 46,
     "npm_downloads_weekly": 7,
-    "npm_score_final": 11.916569,
+    "npm_score_final": 14.91295,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "health": {
     "score": 69,

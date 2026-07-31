@@ -1,0 +1,29 @@
+{
+  "id": "zzwtsy-pi-byted-web-search",
+  "name": "zzwtsy-pi-byted-web-search",
+  "url": "https://github.com/zzwtsy/pi-byted-web-search",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/zzwtsy/pi-byted-web-search",
+    "repo_full_name": "zzwtsy/pi-byted-web-search",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-30T08:10:04Z",
+    "pushed_at": "2026-07-30T08:56:51Z",
+    "updated_at": "2026-07-30T08:56:37Z",
+    "size": 134,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

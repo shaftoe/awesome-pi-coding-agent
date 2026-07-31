@@ -1,0 +1,29 @@
+{
+  "id": "@sagmans/pi-history",
+  "name": "@sagmans/pi-history",
+  "url": "https://www.npmjs.com/package/@sagmans/pi-history",
+  "source": "npm-search",
+  "description": "Ghost completion for prompt history in pi's TUI",
+  "metadata": {
+    "github_url": "https://github.com/sagmans/pi-history",
+    "npm_name": "@sagmans/pi-history",
+    "description": "Ghost completion for prompt history in pi's TUI",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "history",
+      "ghost-completion"
+    ],
+    "version": "0.1.5",
+    "published_at": "2026-07-30T14:05:33.418Z",
+    "npm_downloads_monthly": 255,
+    "npm_downloads_weekly": 255,
+    "npm_score_final": 19.036356,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

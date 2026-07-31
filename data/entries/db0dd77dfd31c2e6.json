@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "A cozy knowledge home for pi. Distributed as a global package; brain clones are content-only and inherit skills, prompts, themes, tools, and the extension from the install.",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/misabegovic/pi-brain",
     "npm_name": "@misabegovic/pi-brain",
     "description": "A cozy knowledge home for pi. Distributed as a global package; brain clones are content-only and inherit skills, prompts, themes, tools, and the extension from the install.",
     "keywords": [
@@ -15,11 +15,11 @@
       "wiki",
       "memory"
     ],
-    "version": "0.3.2",
-    "published_at": "2026-07-27T14:48:28.934Z",
-    "npm_downloads_monthly": 257,
-    "npm_downloads_weekly": 257,
-    "npm_score_final": 17.910229,
+    "version": "0.3.3",
+    "published_at": "2026-07-30T12:35:18.550Z",
+    "npm_downloads_monthly": 714,
+    "npm_downloads_weekly": 714,
+    "npm_score_final": 23.053028,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

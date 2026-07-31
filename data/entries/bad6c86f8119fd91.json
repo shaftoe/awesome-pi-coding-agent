@@ -1,0 +1,30 @@
+{
+  "id": "pi-powerbi-desktop",
+  "name": "pi-powerbi-desktop",
+  "url": "https://www.npmjs.com/package/pi-powerbi-desktop",
+  "source": "npm-search",
+  "description": "CLI-first Power BI Desktop Bridge integration and Pi extension",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-powerbi-desktop",
+    "description": "CLI-first Power BI Desktop Bridge integration and Pi extension",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "powerbi",
+      "power-bi",
+      "desktop-bridge"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-23T05:28:52.210Z",
+    "npm_downloads_monthly": 310,
+    "npm_downloads_weekly": 310,
+    "npm_score_final": 19.071016,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
