@@ -1,0 +1,30 @@
+{
+  "id": "pi-pwsh-native",
+  "name": "pi-pwsh-native",
+  "url": "https://www.npmjs.com/package/pi-pwsh-native",
+  "source": "npm-search",
+  "description": "Native PowerShell 7 tooling for the Pi coding agent on Windows",
+  "metadata": {
+    "github_url": "https://github.com/takomine/pi-pwsh-native",
+    "npm_name": "pi-pwsh-native",
+    "description": "Native PowerShell 7 tooling for the Pi coding agent on Windows",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "powershell",
+      "pwsh",
+      "windows"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-08-01T12:05:42.086Z",
+    "npm_downloads_monthly": 349,
+    "npm_downloads_weekly": 349,
+    "npm_score_final": 19.117483,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -3,15 +3,15 @@
   "name": "Agent engineering: Pi - Roman Imankulov",
   "url": "https://roman.pt/posts/pi-dev-version/",
   "source": "brave-web-search",
-  "description": "What happens when your coding agent gives you seven tools and tells you to build the rest.",
+  "description": "You are a news scraper agent. Your job is to fetch tech news and save relevant items. Fetch the front page of Hacker News (news.ycombinator.com) and Lobsters (lobste.rs). Identify items relevant to: Python, developer tools, AI/ML, and software ...",
   "metadata": {
     "title": "Agent engineering: Pi - Roman Imankulov",
     "name": "Agent engineering: Pi - Roman Imankulov",
-    "description": "What happens when your coding agent gives you seven tools and tells you to build the rest.",
+    "description": "You are a news scraper agent. Your job is to fetch tech news and save relevant items. Fetch the front page of Hacker News (news.ycombinator.com) and Lobsters (lobste.rs). Identify items relevant to: Python, developer tools, AI/ML, and software ...",
     "published_at": "2026-06-07T09:00:00",
     "source_site": "Roman Imankulov",
     "source_url": "https://roman.pt/posts/pi-dev-version/",
-    "discovery_hint": "brave:pi-package"
+    "discovery_hint": "brave:pi-agent"
   },
   "category": "article"
 }

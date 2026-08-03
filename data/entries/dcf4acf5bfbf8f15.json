@@ -1,0 +1,29 @@
+{
+  "id": "@memongo/pi-extension",
+  "name": "@memongo/pi-extension",
+  "url": "https://www.npmjs.com/package/@memongo/pi-extension",
+  "source": "npm-search",
+  "description": "Pi coding-agent extension — exposes Memongo's durable, cross-project, MongoDB-backed semantic memory as additive tools alongside pi-hermes-memory.",
+  "metadata": {
+    "github_url": "https://github.com/romiluz13/memongo",
+    "npm_name": "@memongo/pi-extension",
+    "description": "Pi coding-agent extension — exposes Memongo's durable, cross-project, MongoDB-backed semantic memory as additive tools alongside pi-hermes-memory.",
+    "keywords": [
+      "pi-package",
+      "memongo",
+      "memory",
+      "mongodb",
+      "pi-extension"
+    ],
+    "version": "2.1.1",
+    "published_at": "2026-08-02T20:25:38.956Z",
+    "npm_downloads_monthly": 191,
+    "npm_downloads_weekly": 191,
+    "npm_score_final": 16.90485,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

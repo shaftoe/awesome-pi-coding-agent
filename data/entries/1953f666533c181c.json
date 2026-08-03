@@ -1,0 +1,25 @@
+{
+  "id": "zekurio-agent-stuff",
+  "name": "zekurio-agent-stuff",
+  "url": "https://github.com/zekurio/agent-stuff",
+  "source": "github-search",
+  "description": "Personal extensions, skills, and themes for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/zekurio/agent-stuff",
+    "repo_full_name": "zekurio/agent-stuff",
+    "description": "Personal extensions, skills, and themes for Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-01T21:47:54Z",
+    "pushed_at": "2026-08-01T21:47:58Z",
+    "updated_at": "2026-08-01T21:48:02Z",
+    "size": 112,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

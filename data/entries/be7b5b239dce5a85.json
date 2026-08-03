@@ -1,0 +1,29 @@
+{
+  "id": "@iurysza/pi-token-tank",
+  "name": "@iurysza/pi-token-tank",
+  "url": "https://www.npmjs.com/package/@iurysza/pi-token-tank",
+  "source": "npm-search",
+  "description": "Explore Pi's loaded resources in a read-only Neovim snapshot.",
+  "metadata": {
+    "github_url": "https://github.com/iurysza/pi-extensions",
+    "npm_name": "@iurysza/pi-agent-explorer",
+    "description": "Explore Pi's loaded resources in a read-only Neovim snapshot.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "herdr",
+      "neovim"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-24T11:53:59.063Z",
+    "npm_downloads_monthly": 76,
+    "npm_downloads_weekly": 76,
+    "npm_score_final": 13.381524,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

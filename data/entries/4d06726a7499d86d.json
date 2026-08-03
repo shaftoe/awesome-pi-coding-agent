@@ -1,0 +1,31 @@
+{
+  "id": "n-WN-pi-user-metadata",
+  "name": "n-WN-pi-user-metadata",
+  "url": "https://github.com/n-WN/pi-user-metadata",
+  "source": "github-search",
+  "description": "Pi extension that injects a Claude-Code-shaped metadata.user_id into Anthropic Messages requests, for gateways that route or attribute traffic by that field",
+  "metadata": {
+    "github_url": "https://github.com/n-WN/pi-user-metadata",
+    "repo_full_name": "n-WN/pi-user-metadata",
+    "description": "Pi extension that injects a Claude-Code-shaped metadata.user_id into Anthropic Messages requests, for gateways that route or attribute traffic by that field",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "anthropic",
+      "pi",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-02T17:56:34Z",
+    "pushed_at": "2026-08-02T17:56:38Z",
+    "updated_at": "2026-08-02T17:56:53Z",
+    "size": 4,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

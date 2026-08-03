@@ -9,7 +9,7 @@
     "repo_full_name": "v2nic/pi-caveman",
     "description": "Caveman mode for Pi coding agent - ultra-compressed communication that cuts ~75% of output tokens",
     "stars": 44,
-    "forks": 3,
+    "forks": 4,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

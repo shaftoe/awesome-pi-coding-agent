@@ -1,0 +1,35 @@
+{
+  "id": "damupi-pi-subagents-compatible",
+  "name": "damupi-pi-subagents-compatible",
+  "url": "https://github.com/damupi/pi-subagents-compatible",
+  "source": "github-search",
+  "description": "Claude-compatible subagent workflow for Pi",
+  "metadata": {
+    "github_url": "https://github.com/damupi/pi-subagents-compatible",
+    "repo_full_name": "damupi/pi-subagents-compatible",
+    "description": "Claude-compatible subagent workflow for Pi",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "claude-compatible",
+      "coding-agent",
+      "developer-tools",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "subagents",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-01T12:16:39Z",
+    "pushed_at": "2026-08-01T13:06:08Z",
+    "updated_at": "2026-08-01T14:34:09Z",
+    "size": 29,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

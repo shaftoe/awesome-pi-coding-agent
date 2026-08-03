@@ -1,0 +1,33 @@
+{
+  "id": "OldSuns-pi-notifier",
+  "name": "OldSuns-pi-notifier",
+  "url": "https://github.com/OldSuns/pi-notifier",
+  "source": "github-search",
+  "description": "Windows desktop notifications for Pi",
+  "metadata": {
+    "github_url": "https://github.com/OldSuns/pi-notifier",
+    "repo_full_name": "OldSuns/pi-notifier",
+    "description": "Windows desktop notifications for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "notifications",
+      "pi",
+      "pi-package",
+      "powershell",
+      "toast",
+      "windows",
+      "winforms"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-31T01:30:04Z",
+    "pushed_at": "2026-07-31T01:43:30Z",
+    "updated_at": "2026-07-31T01:43:33Z",
+    "size": 13,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -3,11 +3,11 @@
   "name": "@simonesiega/codex-limits",
   "url": "https://www.npmjs.com/package/@simonesiega/codex-limits",
   "source": "npm-search",
-  "description": "Check Codex usage limits, reset times, and reset-credit coupons from a fast, read-only terminal dashboard.",
+  "description": "Inspect Codex usage limits, reset times, and reset-credit coupons from the terminal, or explicitly confirm a remote usage reset.",
   "metadata": {
     "github_url": "https://github.com/simonesiega/codex-limits",
     "npm_name": "@simonesiega/codex-limits",
-    "description": "Check Codex usage limits, reset times, and reset-credit coupons from a fast, read-only terminal dashboard.",
+    "description": "Inspect Codex usage limits, reset times, and reset-credit coupons from the terminal, or explicitly confirm a remote usage reset.",
     "keywords": [
       "codex",
       "openai",
@@ -22,15 +22,15 @@
       "pi-package",
       "github-copilot-cli"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-07-23T13:56:34.730Z",
-    "npm_downloads_monthly": 1358,
-    "npm_downloads_weekly": 259,
-    "npm_score_final": 24.630987,
+    "version": "1.1.0",
+    "published_at": "2026-07-31T15:38:16.118Z",
+    "npm_downloads_monthly": 1379,
+    "npm_downloads_weekly": 108,
+    "npm_score_final": 24.035982,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "misc"
+  "category": "extension"
 }

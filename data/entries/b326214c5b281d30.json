@@ -1,0 +1,25 @@
+{
+  "id": "lucassstory-pi-kimi-tools",
+  "name": "lucassstory-pi-kimi-tools",
+  "url": "https://github.com/lucassstory/pi-kimi-tools",
+  "source": "github-search",
+  "description": "Web search and URL content extraction tools for the pi coding agent, powered by Kimi.",
+  "metadata": {
+    "github_url": "https://github.com/lucassstory/pi-kimi-tools",
+    "repo_full_name": "lucassstory/pi-kimi-tools",
+    "description": "Web search and URL content extraction tools for the pi coding agent, powered by Kimi.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-01T06:50:44Z",
+    "pushed_at": "2026-08-01T06:50:49Z",
+    "updated_at": "2026-08-01T09:23:09Z",
+    "size": 50,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

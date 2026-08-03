@@ -1,0 +1,28 @@
+{
+  "id": "@npm-ken/pi-macos-notify",
+  "name": "@npm-ken/pi-macos-notify",
+  "url": "https://www.npmjs.com/package/@npm-ken/pi-macos-notify",
+  "source": "npm-search",
+  "description": "Pi extension that sends configurable macOS notifications for Pi events.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@npm-ken/pi-macos-notify",
+    "description": "Pi extension that sends configurable macOS notifications for Pi events.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "macos",
+      "notifications"
+    ],
+    "version": "0.8.0",
+    "published_at": "2026-08-01T04:42:08.590Z",
+    "npm_downloads_monthly": 830,
+    "npm_downloads_weekly": 830,
+    "npm_score_final": 21.347141,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

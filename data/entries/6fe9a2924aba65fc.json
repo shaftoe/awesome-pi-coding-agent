@@ -1,0 +1,31 @@
+{
+  "id": "spyfree-pi-media-guard",
+  "name": "spyfree-pi-media-guard",
+  "url": "https://github.com/spyfree/pi-media-guard",
+  "source": "github-search",
+  "description": "Deterministic aggregate media budgets and safe request projections for Pi",
+  "metadata": {
+    "github_url": "https://github.com/spyfree/pi-media-guard",
+    "repo_full_name": "spyfree/pi-media-guard",
+    "description": "Deterministic aggregate media budgets and safe request projections for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "image",
+      "llm",
+      "multimodal",
+      "pi",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-02T08:36:26Z",
+    "pushed_at": "2026-08-02T11:49:20Z",
+    "updated_at": "2026-08-02T11:49:50Z",
+    "size": 97,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

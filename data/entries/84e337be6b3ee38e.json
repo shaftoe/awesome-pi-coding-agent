@@ -10,7 +10,7 @@
     "description": "All-in-one pi package bundling extensions, skills, prompt templates, and themes for the pi coding agent (@fujuntao/pi-aio).",
     "stars": 0,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 1,
     "topics": [
       "pi",
       "pi-coding-agent",
@@ -19,9 +19,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-23T06:02:51Z",
-    "pushed_at": "2026-07-30T17:43:33Z",
-    "updated_at": "2026-07-30T13:41:43Z",
-    "size": 147,
+    "pushed_at": "2026-08-02T06:54:27Z",
+    "updated_at": "2026-08-02T06:54:52Z",
+    "size": 149,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

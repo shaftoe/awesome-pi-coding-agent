@@ -1,0 +1,30 @@
+{
+  "id": "@jalco/pi-herdr-worktree",
+  "name": "@jalco/pi-herdr-worktree",
+  "url": "https://www.npmjs.com/package/@jalco/pi-herdr-worktree",
+  "source": "npm-search",
+  "description": "Pi extension: git worktrees via Herdr's native worktree API, with project-level post-create/pre-remove hooks.",
+  "metadata": {
+    "github_url": "https://github.com/jal-co/pi-herdr-worktree",
+    "npm_name": "@jalco/pi-herdr-worktree",
+    "description": "Pi extension: git worktrees via Herdr's native worktree API, with project-level post-create/pre-remove hooks.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "herdr",
+      "worktree",
+      "git",
+      "coding-agent"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-25T17:48:34.641Z",
+    "npm_downloads_monthly": 247,
+    "npm_downloads_weekly": 247,
+    "npm_score_final": 17.36906,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

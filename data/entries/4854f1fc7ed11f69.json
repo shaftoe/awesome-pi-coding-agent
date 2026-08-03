@@ -1,0 +1,31 @@
+{
+  "id": "n-WN-pi-runtime-stats",
+  "name": "n-WN-pi-runtime-stats",
+  "url": "https://github.com/n-WN/pi-runtime-stats",
+  "source": "github-search",
+  "description": "Pi extension: turn/step timing, TTFT, decode rate, prompt-cache hit rates and session busy ratio in the footer, plus a live per-request timer",
+  "metadata": {
+    "github_url": "https://github.com/n-WN/pi-runtime-stats",
+    "repo_full_name": "n-WN/pi-runtime-stats",
+    "description": "Pi extension: turn/step timing, TTFT, decode rate, prompt-cache hit rates and session busy ratio in the footer, plus a live per-request timer",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "statusline",
+      "telemetry"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-02T19:10:47Z",
+    "pushed_at": "2026-08-02T19:10:50Z",
+    "updated_at": "2026-08-02T19:11:00Z",
+    "size": 6,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

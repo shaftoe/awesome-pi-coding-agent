@@ -8,7 +8,7 @@
     "github_url": "https://github.com/pithings/pi-vscode",
     "repo_full_name": "pithings/pi-vscode",
     "description": "Minimal VS Code extension for PI Coding Agent.",
-    "stars": 154,
+    "stars": 155,
     "forks": 32,
     "open_issues": 19,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-26T17:18:17Z",
     "pushed_at": "2026-04-24T13:20:45Z",
-    "updated_at": "2026-07-29T23:28:07Z",
+    "updated_at": "2026-08-01T17:20:28Z",
     "size": 181,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

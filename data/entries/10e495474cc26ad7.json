@@ -1,0 +1,25 @@
+{
+  "id": "isWittHere-pi-web-desktop",
+  "name": "isWittHere-pi-web-desktop",
+  "url": "https://github.com/isWittHere/pi-web-desktop",
+  "source": "github-search",
+  "description": "Electron desktop app for the pi coding agent with a richer UI",
+  "metadata": {
+    "github_url": "https://github.com/isWittHere/pi-web-desktop",
+    "repo_full_name": "isWittHere/pi-web-desktop",
+    "description": "Electron desktop app for the pi coding agent with a richer UI",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-02T16:06:33Z",
+    "pushed_at": "2026-08-02T16:23:01Z",
+    "updated_at": "2026-08-02T20:32:38Z",
+    "size": 5135,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

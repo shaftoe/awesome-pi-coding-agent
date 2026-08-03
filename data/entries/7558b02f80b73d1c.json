@@ -9,7 +9,7 @@
     "repo_full_name": "BevalZ/pi-provider",
     "description": "Provider manager for Pi coding agent — add/edit/test providers with adaptive capability self-check",
     "stars": 4,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "coding-agent",

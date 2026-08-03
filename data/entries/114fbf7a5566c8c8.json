@@ -1,0 +1,30 @@
+{
+  "id": "pnpancholi-pi-review-panel",
+  "name": "pnpancholi-pi-review-panel",
+  "url": "https://github.com/pnpancholi/pi-review-panel",
+  "source": "github-search",
+  "description": "Session-aware review panel for the pi coding agent. Tracks every file the agent changes during a session and presents an interactive, keyboard-navigable diff view so you can review changes before committing.",
+  "metadata": {
+    "github_url": "https://github.com/pnpancholi/pi-review-panel",
+    "repo_full_name": "pnpancholi/pi-review-panel",
+    "description": "Session-aware review panel for the pi coding agent. Tracks every file the agent changes during a session and presents an interactive, keyboard-navigable diff view so you can review changes before committing.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "code-review",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-01T20:13:35Z",
+    "pushed_at": "2026-08-02T18:26:36Z",
+    "updated_at": "2026-08-02T18:26:48Z",
+    "size": 38,
+    "license": "GPL-3.0",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

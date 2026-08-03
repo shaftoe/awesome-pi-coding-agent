@@ -10,7 +10,7 @@
     "description": "Native macOS desktop app for the Pi coding agent",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "agentic-coding",
       "bun",
@@ -30,9 +30,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-09T00:20:56Z",
-    "pushed_at": "2026-07-27T20:11:07Z",
+    "pushed_at": "2026-08-01T05:52:51Z",
     "updated_at": "2026-07-24T05:07:11Z",
-    "size": 5720,
+    "size": 5704,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

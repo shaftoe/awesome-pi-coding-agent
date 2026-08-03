@@ -1,0 +1,29 @@
+{
+  "id": "giangdvdotdev-pi-english-tutor",
+  "name": "giangdvdotdev-pi-english-tutor",
+  "url": "https://github.com/giangdvdotdev/pi-english-tutor",
+  "source": "github-search",
+  "description": "pi extension that grades your English as you write",
+  "metadata": {
+    "github_url": "https://github.com/giangdvdotdev/pi-english-tutor",
+    "repo_full_name": "giangdvdotdev/pi-english-tutor",
+    "description": "pi extension that grades your English as you write",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-25T08:22:31Z",
+    "pushed_at": "2026-07-28T04:01:38Z",
+    "updated_at": "2026-07-31T13:13:25Z",
+    "size": 129,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

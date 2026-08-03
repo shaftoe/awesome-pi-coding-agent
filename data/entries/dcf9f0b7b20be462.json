@@ -1,0 +1,29 @@
+{
+  "id": "@howaboua/pi-gippity-control",
+  "name": "@howaboua/pi-gippity-control",
+  "url": "https://www.npmjs.com/package/@howaboua/pi-gippity-control",
+  "source": "npm-search",
+  "description": "GipPity voice and LAN remote control for any Pi model",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@howaboua/pi-gippity-control",
+    "description": "GipPity voice and LAN remote control for any Pi model",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "voice",
+      "dictation",
+      "lan"
+    ],
+    "version": "0.0.5",
+    "published_at": "2026-07-31T22:40:22.978Z",
+    "npm_downloads_monthly": 239,
+    "npm_downloads_weekly": 239,
+    "npm_score_final": 17.501978,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

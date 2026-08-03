@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ifiokjr/monopi",
     "repo_full_name": "ifiokjr/monopi",
     "description": "One-click setup for pi-coding-agent — extensions, themes, prompts, skills, and ant-colony swarm. Like oh-my-zsh for pi.",
-    "stars": 144,
+    "stars": 145,
     "forks": 21,
     "open_issues": 2,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-08T08:33:14Z",
     "pushed_at": "2026-07-12T15:27:52Z",
-    "updated_at": "2026-07-29T14:38:02Z",
+    "updated_at": "2026-08-01T16:51:05Z",
     "size": 5336,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

@@ -1,0 +1,25 @@
+{
+  "id": "nosafer-pi-simple-theme",
+  "name": "nosafer-pi-simple-theme",
+  "url": "https://github.com/nosafer/pi-simple-theme",
+  "source": "github-search",
+  "description": "Black-red Pi theme + custom header/footer (block π logo, configurable fields)",
+  "metadata": {
+    "github_url": "https://github.com/nosafer/pi-simple-theme",
+    "repo_full_name": "nosafer/pi-simple-theme",
+    "description": "Black-red Pi theme + custom header/footer (block π logo, configurable fields)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-02T09:08:17Z",
+    "pushed_at": "2026-08-02T17:21:24Z",
+    "updated_at": "2026-08-02T17:21:31Z",
+    "size": 73,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

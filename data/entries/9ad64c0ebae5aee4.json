@@ -8,7 +8,7 @@
     "github_url": "https://github.com/mlanza/nt",
     "repo_full_name": "mlanza/nt",
     "description": "Conjure home-grown, auto-expanding context from Logseq into agent conversations.",
-    "stars": 13,
+    "stars": 14,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2025-12-23T22:08:12Z",
     "pushed_at": "2026-07-17T18:31:29Z",
-    "updated_at": "2026-07-17T15:21:03Z",
+    "updated_at": "2026-08-01T15:09:23Z",
     "size": 12450,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

@@ -1,0 +1,25 @@
+{
+  "id": "@everyx/pi-subagent",
+  "name": "@everyx/pi-subagent",
+  "url": "https://www.npmjs.com/package/@everyx/pi-subagent",
+  "source": "npm-search",
+  "description": "Sub‑agent tool for pi – delegate tasks to isolated pi instances via tmux",
+  "metadata": {
+    "github_url": "https://github.com/everyx/pi-subagent",
+    "npm_name": "@everyx/pi-subagent",
+    "description": "Sub‑agent tool for pi – delegate tasks to isolated pi instances via tmux",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-07-26T15:35:48.782Z",
+    "npm_downloads_monthly": 73,
+    "npm_downloads_weekly": 73,
+    "npm_score_final": 13.32555,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
