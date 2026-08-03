@@ -1,0 +1,31 @@
+{
+  "id": "pi-dictation",
+  "name": "pi-dictation",
+  "url": "https://www.npmjs.com/package/pi-dictation",
+  "source": "npm-search",
+  "description": "Safe push-to-talk dictation for Pi with pluggable transcription backends",
+  "metadata": {
+    "github_url": "https://github.com/yasuhito/pi-dictation",
+    "npm_name": "pi-dictation",
+    "description": "Safe push-to-talk dictation for Pi with pluggable transcription backends",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "dictation",
+      "speech-to-text",
+      "voice-input",
+      "linux",
+      "macos"
+    ],
+    "version": "0.6.0",
+    "published_at": "2026-08-01T09:20:41.371Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

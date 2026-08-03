@@ -1,0 +1,30 @@
+{
+  "id": "pi-relay-models",
+  "name": "pi-relay-models",
+  "url": "https://www.npmjs.com/package/pi-relay-models",
+  "source": "npm-search",
+  "description": "Mixed-protocol relay model discovery and metadata matching for pi",
+  "metadata": {
+    "github_url": "https://github.com/Xichun123/pi-relay-models",
+    "npm_name": "pi-relay-models",
+    "description": "Mixed-protocol relay model discovery and metadata matching for pi",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "llm",
+      "relay",
+      "openai",
+      "anthropic"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-08-02T03:41:10.209Z",
+    "npm_downloads_monthly": 420,
+    "npm_downloads_weekly": 420,
+    "npm_score_final": 19.044903,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

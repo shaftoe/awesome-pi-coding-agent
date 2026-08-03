@@ -1,0 +1,30 @@
+{
+  "id": "@aiwayds/pi-powerline-footer",
+  "name": "@aiwayds/pi-powerline-footer",
+  "url": "https://www.npmjs.com/package/@aiwayds/pi-powerline-footer",
+  "source": "npm-search",
+  "description": "Powerline-style status bar footer for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/fan56/pi-powerline-footer",
+    "npm_name": "@aiwayds/pi-powerline-footer",
+    "description": "Powerline-style status bar footer for pi coding agent",
+    "keywords": [
+      "pi",
+      "extension",
+      "powerline",
+      "footer",
+      "status-bar",
+      "pi-package"
+    ],
+    "version": "1.2.0",
+    "published_at": "2026-08-02T10:28:43.909Z",
+    "npm_downloads_monthly": 347,
+    "npm_downloads_weekly": 291,
+    "npm_score_final": 18.365164,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

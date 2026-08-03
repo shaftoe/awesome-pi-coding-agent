@@ -1,0 +1,30 @@
+{
+  "id": "pi-querit-search",
+  "name": "pi-querit-search",
+  "url": "https://www.npmjs.com/package/pi-querit-search",
+  "source": "npm-search",
+  "description": "Querit web search and content retrieval tools for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/MCapricorns/pi-querit-search",
+    "npm_name": "pi-querit-search",
+    "description": "Querit web search and content retrieval tools for the Pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "querit",
+      "web-search",
+      "ai",
+      "llm"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-07-31T12:19:50.368Z",
+    "npm_downloads_monthly": 103,
+    "npm_downloads_weekly": 103,
+    "npm_score_final": 14.260207,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

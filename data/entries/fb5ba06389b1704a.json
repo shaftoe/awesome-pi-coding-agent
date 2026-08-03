@@ -1,0 +1,28 @@
+{
+  "id": "namtx-pi-herd",
+  "name": "namtx-pi-herd",
+  "url": "https://github.com/namtx/pi-herd",
+  "source": "github-search",
+  "description": "pi extension: herdr sub-agent management — spawn, prompt, wait, read, and tear down sub-agents in herdr workspaces",
+  "metadata": {
+    "github_url": "https://github.com/namtx/pi-herd",
+    "repo_full_name": "namtx/pi-herd",
+    "description": "pi extension: herdr sub-agent management — spawn, prompt, wait, read, and tear down sub-agents in herdr workspaces",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "herdr",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-01T04:15:47Z",
+    "pushed_at": "2026-08-01T04:15:50Z",
+    "updated_at": "2026-08-01T04:16:28Z",
+    "size": 31,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

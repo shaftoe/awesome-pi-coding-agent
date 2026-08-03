@@ -8,7 +8,7 @@
     "github_url": "https://github.com/nicobailon/pi-memory-workbench",
     "repo_full_name": "nicobailon/pi-memory-workbench",
     "description": "Durable, session-safe Markdown memory for the Pi coding agent.",
-    "stars": 5,
+    "stars": 6,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-25T20:01:21Z",
     "pushed_at": "2026-07-25T20:02:31Z",
-    "updated_at": "2026-07-28T07:05:54Z",
+    "updated_at": "2026-07-31T19:56:31Z",
     "size": 68,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

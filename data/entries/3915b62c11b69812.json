@@ -10,7 +10,7 @@
     "description": "roark is a small CLI workflow runner around the Pi coding-agent SDK. It turns GitHub issues into isolated agent runs, review artifacts, verification gates, and draft pull requests.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 3,
     "topics": [
       "agent",
       "coding"

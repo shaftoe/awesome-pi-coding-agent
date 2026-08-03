@@ -1,0 +1,28 @@
+{
+  "id": "@rahulvramesh/pi-let",
+  "name": "@rahulvramesh/pi-let",
+  "url": "https://www.npmjs.com/package/@rahulvramesh/pi-let",
+  "source": "npm-search",
+  "description": "Persistent, branch-scoped autonomous goals for the Pi coding agent",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@rahulvramesh/pi-let",
+    "description": "Persistent, branch-scoped autonomous goals for the Pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "coding-agent",
+      "autonomous-agent"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-24T16:26:26.057Z",
+    "npm_downloads_monthly": 72,
+    "npm_downloads_weekly": 72,
+    "npm_score_final": 12.849678,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

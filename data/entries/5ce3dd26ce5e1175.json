@@ -1,0 +1,32 @@
+{
+  "id": "@miaoy0ushan/fp",
+  "name": "@miaoy0ushan/fp",
+  "url": "https://www.npmjs.com/package/@miaoy0ushan/fp",
+  "source": "npm-search",
+  "description": "FP — Finish with Proof. A portable execution protocol for coding agents. 77 lines, 3 core rules, on-demand profiles.",
+  "metadata": {
+    "github_url": "https://github.com/MiaoY0uShan/FP",
+    "npm_name": "@miaoy0ushan/fp",
+    "description": "FP — Finish with Proof. A portable execution protocol for coding agents. 77 lines, 3 core rules, on-demand profiles.",
+    "keywords": [
+      "pi-package",
+      "coding-agent",
+      "skill",
+      "execution-protocol",
+      "agent-engineering",
+      "prompt-engineering",
+      "finish-with-proof",
+      "fp"
+    ],
+    "version": "0.5.0",
+    "published_at": "2026-07-26T13:01:28.431Z",
+    "npm_downloads_monthly": 79,
+    "npm_downloads_weekly": 79,
+    "npm_score_final": 13.608511,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

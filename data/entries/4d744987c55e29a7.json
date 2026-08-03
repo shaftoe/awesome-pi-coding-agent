@@ -1,0 +1,34 @@
+{
+  "id": "erazemkos-pi-copy-on-select",
+  "name": "erazemkos-pi-copy-on-select",
+  "url": "https://github.com/erazemkos/pi-copy-on-select",
+  "source": "github-search",
+  "description": "Copy-on-select for the pi coding agent: mouse selections land on the clipboard, a bottom-right toast confirms it, and the highlight clears itself",
+  "metadata": {
+    "github_url": "https://github.com/erazemkos/pi-copy-on-select",
+    "repo_full_name": "erazemkos/pi-copy-on-select",
+    "description": "Copy-on-select for the pi coding agent: mouse selections land on the clipboard, a bottom-right toast confirms it, and the highlight clears itself",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "clipboard",
+      "coding-agent",
+      "copy-on-select",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "terminal",
+      "tui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-31T12:53:19Z",
+    "pushed_at": "2026-07-31T14:20:43Z",
+    "updated_at": "2026-07-31T14:21:17Z",
+    "size": 65,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

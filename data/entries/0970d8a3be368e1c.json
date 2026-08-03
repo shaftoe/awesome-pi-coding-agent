@@ -1,0 +1,30 @@
+{
+  "id": "pi-outrider",
+  "name": "pi-outrider",
+  "url": "https://www.npmjs.com/package/pi-outrider",
+  "source": "npm-search",
+  "description": "Guide-to-executor model handoffs for Pi coding agent",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-outrider",
+    "description": "Guide-to-executor model handoffs for Pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "model-handoff",
+      "model-routing"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-08-02T00:25:03.392Z",
+    "npm_downloads_monthly": 102,
+    "npm_downloads_weekly": 102,
+    "npm_score_final": 14.057786,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pi-mythic-memory",
+  "name": "pi-mythic-memory",
+  "url": "https://www.npmjs.com/package/pi-mythic-memory",
+  "source": "npm-search",
+  "description": "Model-agnostic, local-first persistent memory for the Pi coding agent — Fable 5's memory structure minus the overzealous parts",
+  "metadata": {
+    "github_url": "https://github.com/rcwells1879/Pi-Mythic-Memory",
+    "npm_name": "pi-mythic-memory",
+    "description": "Model-agnostic, local-first persistent memory for the Pi coding agent — Fable 5's memory structure minus the overzealous parts",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-skill",
+      "memory",
+      "persistent-memory",
+      "mythic"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-24T03:46:53.375Z",
+    "npm_downloads_monthly": 277,
+    "npm_downloads_weekly": 277,
+    "npm_score_final": 17.479532,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "CheerioCorner-pi-todo-journal",
+  "name": "CheerioCorner-pi-todo-journal",
+  "url": "https://github.com/CheerioCorner/pi-todo-journal",
+  "source": "github-search",
+  "description": "Pi extension for reliable Todo and daily journal synchronization",
+  "metadata": {
+    "github_url": "https://github.com/CheerioCorner/pi-todo-journal",
+    "repo_full_name": "CheerioCorner/pi-todo-journal",
+    "description": "Pi extension for reliable Todo and daily journal synchronization",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "journal",
+      "obsidian",
+      "pi-extension",
+      "pi-package",
+      "productivity",
+      "todo"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-01T11:11:14Z",
+    "pushed_at": "2026-08-01T13:00:56Z",
+    "updated_at": "2026-08-01T13:01:04Z",
+    "size": 94,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

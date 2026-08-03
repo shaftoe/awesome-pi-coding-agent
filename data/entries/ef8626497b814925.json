@@ -3,34 +3,32 @@
   "name": "pi-semantic-edit",
   "url": "https://www.npmjs.com/package/pi-semantic-edit",
   "source": "npm-search",
-  "description": "Semantic search/replace edit tool for Pi — model-agnostic, meaning-aware matching that replaces the built-in edit.",
+  "description": "Aider-format SEARCH/REPLACE edit tool for Pi — OpenDev 9-pass fuzzy matcher chain, uniqueness guard, stale-read detection, zero runtime deps. Replaces the built-in edit.",
   "metadata": {
     "github_url": "https://github.com/k3-2o/pi-semantic-edit",
     "npm_name": "pi-semantic-edit",
-    "description": "Semantic search/replace edit tool for Pi — model-agnostic, meaning-aware matching that replaces the built-in edit.",
+    "description": "Aider-format SEARCH/REPLACE edit tool for Pi — OpenDev 9-pass fuzzy matcher chain, uniqueness guard, stale-read detection, zero runtime deps. Replaces the built-in edit.",
     "keywords": [
       "pi-package",
-      "semantic-replace",
+      "aider-format",
+      "search-replace-blocks",
+      "fuzzy-matching",
       "model-agnostic",
       "code-editing",
       "intent-resolution",
-      "search-replace-blocks",
-      "anchor-matching",
-      "coherence-check",
-      "joint-scoring",
-      "token-fingerprint",
       "zero-dependencies",
-      "pi-coding-agent"
+      "pi-coding-agent",
+      "semantic-edit"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-07-27T18:11:16.463Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.2.5",
+    "published_at": "2026-08-01T03:57:23.951Z",
+    "npm_downloads_monthly": 152,
+    "npm_downloads_weekly": 152,
+    "npm_score_final": 15.454448,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

@@ -1,0 +1,25 @@
+{
+  "id": "humanrouter-pi-local-harness",
+  "name": "humanrouter-pi-local-harness",
+  "url": "https://github.com/humanrouter/pi-local-harness",
+  "source": "github-search",
+  "description": "A reliability harness for running Pi coding agents with local language models.",
+  "metadata": {
+    "github_url": "https://github.com/humanrouter/pi-local-harness",
+    "repo_full_name": "humanrouter/pi-local-harness",
+    "description": "A reliability harness for running Pi coding agents with local language models.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-02T13:21:37Z",
+    "pushed_at": "2026-08-02T13:55:43Z",
+    "updated_at": "2026-08-02T22:52:58Z",
+    "size": 266,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

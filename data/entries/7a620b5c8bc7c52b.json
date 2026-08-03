@@ -1,0 +1,32 @@
+{
+  "id": "amnn-pi-clutch",
+  "name": "amnn-pi-clutch",
+  "url": "https://github.com/amnn/pi-clutch",
+  "source": "github-search",
+  "description": "Plan mode for Pi: toggle between exploratory planning and normal, edit-enabled operation.",
+  "metadata": {
+    "github_url": "https://github.com/amnn/pi-clutch",
+    "repo_full_name": "amnn/pi-clutch",
+    "description": "Plan mode for Pi: toggle between exploratory planning and normal, edit-enabled operation.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-agent",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "plan-mode"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-01T23:18:24Z",
+    "pushed_at": "2026-08-01T23:22:59Z",
+    "updated_at": "2026-08-01T23:29:22Z",
+    "size": 43,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

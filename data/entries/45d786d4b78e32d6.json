@@ -1,0 +1,25 @@
+{
+  "id": "edxeth-pi-tasks",
+  "name": "edxeth-pi-tasks",
+  "url": "https://github.com/edxeth/pi-tasks",
+  "source": "github-search",
+  "description": "Task system for Pi, inspired by Claude Code. Keeps long agent sessions on track with a live task widget, durable per-session state, and gentle reminders when work drifts.",
+  "metadata": {
+    "github_url": "https://github.com/edxeth/pi-tasks",
+    "repo_full_name": "edxeth/pi-tasks",
+    "description": "Task system for Pi, inspired by Claude Code. Keeps long agent sessions on track with a live task widget, durable per-session state, and gentle reminders when work drifts.",
+    "stars": 18,
+    "forks": 4,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-16T19:40:34Z",
+    "pushed_at": "2026-07-20T14:51:55Z",
+    "updated_at": "2026-08-01T20:46:23Z",
+    "size": 6816,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

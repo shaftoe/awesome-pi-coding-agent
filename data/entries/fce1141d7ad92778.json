@@ -1,0 +1,25 @@
+{
+  "id": "DuskyElf-piBTW",
+  "name": "DuskyElf-piBTW",
+  "url": "https://github.com/DuskyElf/piBTW",
+  "source": "github-search",
+  "description": "My pi agent config",
+  "metadata": {
+    "github_url": "https://github.com/DuskyElf/piBTW",
+    "repo_full_name": "DuskyElf/piBTW",
+    "description": "My pi agent config",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-22T09:32:23Z",
+    "pushed_at": "2026-08-02T12:48:04Z",
+    "updated_at": "2026-08-02T12:48:10Z",
+    "size": 68,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

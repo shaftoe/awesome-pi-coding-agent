@@ -1,0 +1,30 @@
+{
+  "id": "pi-loop-graph-sdk",
+  "name": "pi-loop-graph-sdk",
+  "url": "https://www.npmjs.com/package/pi-loop-graph-sdk",
+  "source": "npm-search",
+  "description": "Turn skill-constrained workflows into monitored loop graphs — typed stages, mechanism constraints, full replay. Comprehensive AI-friendly docs",
+  "metadata": {
+    "github_url": "https://github.com/0liveiraaa/pi-loop-graph-sdk",
+    "npm_name": "pi-loop-graph-sdk",
+    "description": "Turn skill-constrained workflows into monitored loop graphs — typed stages, mechanism constraints, full replay. Comprehensive AI-friendly docs",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "agent-workflow",
+      "graph",
+      "loop-graph",
+      "pi"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-07-24T18:57:16.304Z",
+    "npm_downloads_monthly": 125,
+    "npm_downloads_weekly": 125,
+    "npm_score_final": 14.945086,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every time.",
     "stars": 3,
     "forks": 0,
-    "open_issues": 33,
+    "open_issues": 34,
     "topics": [
       "ai-memory",
       "ai-memory-system",

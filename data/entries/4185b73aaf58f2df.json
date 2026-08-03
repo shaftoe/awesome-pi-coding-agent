@@ -1,0 +1,25 @@
+{
+  "id": "dante7222-pi-setup",
+  "name": "dante7222-pi-setup",
+  "url": "https://github.com/dante7222/pi-setup",
+  "source": "github-search",
+  "description": "Personal Pi extensions, skills, prompt templates, and themes.",
+  "metadata": {
+    "github_url": "https://github.com/dante7222/pi-setup",
+    "repo_full_name": "dante7222/pi-setup",
+    "description": "Personal Pi extensions, skills, prompt templates, and themes.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-31T22:24:38Z",
+    "pushed_at": "2026-08-02T09:01:10Z",
+    "updated_at": "2026-08-02T09:01:24Z",
+    "size": 337,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

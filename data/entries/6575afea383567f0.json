@@ -3,12 +3,12 @@
   "name": "nonlooped-nativepi",
   "url": "https://github.com/nonlooped/nativepi",
   "source": "github-search",
-  "description": "Free, open-source Windows desktop app for the Pi coding agent. Projects, conversations, streamed tool activity, diffs, model controls, and graphical extensions in one native workspace.",
+  "description": "Free, open-source cross-platform desktop app for the Pi coding agent on Windows, macOS, and Linux. Projects, conversations, streamed tool activity, diffs, model controls, and graphical extensions in one native workspace.",
   "metadata": {
     "github_url": "https://github.com/nonlooped/nativepi",
     "repo_full_name": "nonlooped/nativepi",
-    "description": "Free, open-source Windows desktop app for the Pi coding agent. Projects, conversations, streamed tool activity, diffs, model controls, and graphical extensions in one native workspace.",
-    "stars": 1,
+    "description": "Free, open-source cross-platform desktop app for the Pi coding agent on Windows, macOS, and Linux. Projects, conversations, streamed tool activity, diffs, model controls, and graphical extensions in one native workspace.",
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -17,11 +17,14 @@
       "ai-coding-assistant",
       "bun",
       "coding-agent",
+      "cross-platform",
       "desktop-app",
       "developer-tools",
       "electron",
       "electron-vite",
+      "linux",
       "llm",
+      "macos",
       "open-source",
       "pi-coding-agent",
       "react",
@@ -31,11 +34,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-25T20:39:16Z",
-    "pushed_at": "2026-07-30T21:28:33Z",
-    "updated_at": "2026-07-30T21:28:37Z",
-    "size": 2993,
+    "pushed_at": "2026-08-02T23:34:30Z",
+    "updated_at": "2026-08-02T23:28:16Z",
+    "size": 3499,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

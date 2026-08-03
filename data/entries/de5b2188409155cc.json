@@ -1,0 +1,29 @@
+{
+  "id": "@kimchi-dev/kimchi-workflows",
+  "name": "@kimchi-dev/kimchi-workflows",
+  "url": "https://www.npmjs.com/package/@kimchi-dev/kimchi-workflows",
+  "source": "npm-search",
+  "description": "Define arbitrary workflows in TypeScript and run them inside the PI coding harness.",
+  "metadata": {
+    "github_url": "https://github.com/getkimchi/kimchi-workflows",
+    "npm_name": "@kimchi-dev/kimchi-workflows",
+    "description": "Define arbitrary workflows in TypeScript and run them inside the PI coding harness.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "workflow",
+      "agent",
+      "coding-agent"
+    ],
+    "version": "0.0.1-alpha.2",
+    "published_at": "2026-07-31T15:10:34.329Z",
+    "npm_downloads_monthly": 280,
+    "npm_downloads_weekly": 280,
+    "npm_score_final": 17.712374,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

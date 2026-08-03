@@ -1,0 +1,30 @@
+{
+  "id": "pi-herdr-spawn",
+  "name": "pi-herdr-spawn",
+  "url": "https://www.npmjs.com/package/pi-herdr-spawn",
+  "source": "npm-search",
+  "description": "Spawn pi agents in isolated Herdr panes for parallel task execution",
+  "metadata": {
+    "github_url": "https://github.com/duskoide/pi-herdr-spawn",
+    "npm_name": "pi-herdr-spawn",
+    "description": "Spawn pi agents in isolated Herdr panes for parallel task execution",
+    "keywords": [
+      "pi-package",
+      "herdr",
+      "agent",
+      "spawn",
+      "parallel",
+      "multiplexer"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-07-26T14:48:41.893Z",
+    "npm_downloads_monthly": 148,
+    "npm_downloads_weekly": 148,
+    "npm_score_final": 15.544353,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

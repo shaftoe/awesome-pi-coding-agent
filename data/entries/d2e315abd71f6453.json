@@ -1,0 +1,25 @@
+{
+  "id": "@mightguy/pi-ui",
+  "name": "@mightguy/pi-ui",
+  "url": "https://www.npmjs.com/package/@mightguy/pi-ui",
+  "source": "npm-search",
+  "description": "Custom pi terminal UI with themes, layout, and message rendering",
+  "metadata": {
+    "github_url": "https://github.com/might-guy106/pi-ui",
+    "npm_name": "@mightguy/pi-ui",
+    "description": "Custom pi terminal UI with themes, layout, and message rendering",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.2.2",
+    "published_at": "2026-08-02T12:34:46.490Z",
+    "npm_downloads_monthly": 68,
+    "npm_downloads_weekly": 68,
+    "npm_score_final": 12.800402,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

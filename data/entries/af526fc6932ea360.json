@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Guanzhw/pi-weixin-cli",
     "repo_full_name": "Guanzhw/pi-weixin-cli",
     "description": "WeChat integration for pi coding agent — bridge WeChat messages to pi sessions via ilinkai long-polling",
-    "stars": 1,
+    "stars": 2,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,10 +16,10 @@
     "archived": false,
     "created_at": "2026-05-26T14:13:04Z",
     "pushed_at": "2026-05-27T18:15:03Z",
-    "updated_at": "2026-07-26T05:51:05Z",
+    "updated_at": "2026-07-31T06:24:55Z",
     "size": 106,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

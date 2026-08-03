@@ -3,23 +3,32 @@
   "name": "LiusuZeng-pi-deck",
   "url": "https://github.com/LiusuZeng/pi-deck",
   "source": "github-search",
-  "description": "Pi Deck — a local command deck for Pi agents.",
+  "description": "A local macOS desktop app for running, monitoring, and steering multiple Pi coding-agent sessions.",
   "metadata": {
     "github_url": "https://github.com/LiusuZeng/pi-deck",
     "repo_full_name": "LiusuZeng/pi-deck",
-    "description": "Pi Deck — a local command deck for Pi agents.",
+    "description": "A local macOS desktop app for running, monitoring, and steering multiple Pi coding-agent sessions.",
     "stars": 1,
     "forks": 0,
     "open_issues": 0,
-    "topics": [],
+    "topics": [
+      "ai-agents",
+      "coding-agents",
+      "developer-tools",
+      "electron",
+      "macos",
+      "pi-coding-agent",
+      "react",
+      "typescript"
+    ],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-27T05:05:52Z",
-    "pushed_at": "2026-07-30T06:33:04Z",
-    "updated_at": "2026-07-30T06:23:41Z",
-    "size": 1575,
+    "pushed_at": "2026-08-02T00:47:16Z",
+    "updated_at": "2026-08-02T00:50:54Z",
+    "size": 1163,
     "license": null,
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
-  "category": "extension"
+  "category": "misc"
 }

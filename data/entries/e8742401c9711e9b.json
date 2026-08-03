@@ -1,0 +1,37 @@
+{
+  "id": "pi-serve-static",
+  "name": "pi-serve-static",
+  "url": "https://www.npmjs.com/package/pi-serve-static",
+  "source": "npm-search",
+  "description": "A pi extension that serves the cwd with live-server (live reload) via /serve-start and /serve-stop",
+  "metadata": {
+    "github_url": "https://github.com/richardanaya/pi-serve-static",
+    "npm_name": "pi-serve-static",
+    "description": "A pi extension that serves the cwd with live-server (live reload) via /serve-start and /serve-stop",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "cli",
+      "tui",
+      "static-server",
+      "http",
+      "preview",
+      "browser",
+      "local-server",
+      "live-reload",
+      "hot-reload",
+      "live-server"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-07-26T21:44:49.636Z",
+    "npm_downloads_monthly": 309,
+    "npm_downloads_weekly": 192,
+    "npm_score_final": 17.955023,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

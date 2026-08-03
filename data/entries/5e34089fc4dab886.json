@@ -1,0 +1,32 @@
+{
+  "id": "Cyanistic-pi-toolbelt",
+  "name": "Cyanistic-pi-toolbelt",
+  "url": "https://github.com/Cyanistic/pi-toolbelt",
+  "source": "github-search",
+  "description": "Progressive tool discovery for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/Cyanistic/pi-toolbelt",
+    "repo_full_name": "Cyanistic/pi-toolbelt",
+    "description": "Progressive tool discovery for Pi.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "dynamic-tools",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "tool-search"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-23T06:13:07Z",
+    "pushed_at": "2026-08-02T05:17:50Z",
+    "updated_at": "2026-08-02T05:18:34Z",
+    "size": 316,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
