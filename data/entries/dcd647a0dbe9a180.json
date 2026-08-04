@@ -10,7 +10,7 @@
     "description": "Pause Pi coding workflows for developer decisions over Telegram, with a local questionnaire fallback.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 4,
     "topics": [
       "human-in-the-loop",
       "pi-coding-agent",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-28T22:11:02Z",
-    "pushed_at": "2026-07-28T22:46:00Z",
+    "pushed_at": "2026-08-03T18:36:25Z",
     "updated_at": "2026-07-28T22:45:11Z",
-    "size": 67,
+    "size": 89,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

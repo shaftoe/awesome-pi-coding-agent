@@ -1,0 +1,30 @@
+{
+  "id": "@leojlin/pi-backtrack-fable",
+  "name": "@leojlin/pi-backtrack-fable",
+  "url": "https://www.npmjs.com/package/@leojlin/pi-backtrack-fable",
+  "source": "npm-search",
+  "description": "Wrong-path detection, context rollback with distilled failure lessons, git working-tree restore, and automatic retry for the pi coding agent.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@leojlin/pi-backtrack-fable",
+    "description": "Wrong-path detection, context rollback with distilled failure lessons, git working-tree restore, and automatic retry for the pi coding agent.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "agent",
+      "rollback",
+      "backtrack",
+      "context-engineering"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-27T07:05:58.994Z",
+    "npm_downloads_monthly": 105,
+    "npm_downloads_weekly": 105,
+    "npm_score_final": 13.99325,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

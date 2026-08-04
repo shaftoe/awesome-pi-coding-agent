@@ -9,7 +9,7 @@
     "repo_full_name": "Guanzhw/pi-weixin-cli",
     "description": "WeChat integration for pi coding agent — bridge WeChat messages to pi sessions via ilinkai long-polling",
     "stars": 2,
-    "forks": 1,
+    "forks": 2,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

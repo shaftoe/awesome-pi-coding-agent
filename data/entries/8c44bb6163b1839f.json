@@ -8,18 +8,18 @@
     "github_url": "https://github.com/ttiimmaahh/pi-sap-aicore",
     "repo_full_name": "ttiimmaahh/pi-sap-aicore",
     "description": "SAP AI Core (orchestration & foundation) custom provider for the pi coding agent",
-    "stars": 1,
-    "forks": 0,
-    "open_issues": 1,
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 2,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-16T00:10:34Z",
     "pushed_at": "2026-07-25T04:32:46Z",
-    "updated_at": "2026-07-21T17:29:30Z",
+    "updated_at": "2026-08-03T19:05:10Z",
     "size": 464,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
     "score": 53,
