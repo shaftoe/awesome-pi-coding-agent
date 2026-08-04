@@ -15,7 +15,7 @@ permissions:
 
 jobs:
   pi-agent:
-    uses: shaftoe/pi-coding-agent-action/.github/workflows/pi.yml@v2
+    uses: shaftoe/pi-coding-agent-action/.github/workflows/pi.yml@v2.26.0
     with:
       allowed_actor: shaftoe
     secrets:
