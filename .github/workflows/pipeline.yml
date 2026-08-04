@@ -77,7 +77,7 @@ jobs:
           echo "EOF" >> "$GITHUB_OUTPUT"
 
       - name: Validate entries and apply fixes
-        uses: shaftoe/pi-coding-agent-action@v2
+        uses: shaftoe/pi-coding-agent-action@v2.26.0
         env:
           BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
