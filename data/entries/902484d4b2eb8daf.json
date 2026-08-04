@@ -1,0 +1,25 @@
+{
+  "id": "leonyvon-deeptutor-lite",
+  "name": "leonyvon-deeptutor-lite",
+  "url": "https://github.com/leonyvon/deeptutor-lite",
+  "source": "github-search",
+  "description": "Lightweight deeptutor on pi agent: RAG Q&A, web search, multi-KB, quiz, research, solve, visualize, mastery learning path. Install as a pi-package.",
+  "metadata": {
+    "github_url": "https://github.com/leonyvon/deeptutor-lite",
+    "repo_full_name": "leonyvon/deeptutor-lite",
+    "description": "Lightweight deeptutor on pi agent: RAG Q&A, web search, multi-KB, quiz, research, solve, visualize, mastery learning path. Install as a pi-package.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-03T12:06:07Z",
+    "pushed_at": "2026-08-03T14:53:09Z",
+    "updated_at": "2026-08-03T14:57:28Z",
+    "size": 58,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

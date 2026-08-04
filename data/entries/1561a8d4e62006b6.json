@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_ai.miraheze.org_Pidev",
+  "name": "Pi.dev - Learn AI",
+  "url": "https://ai.miraheze.org/wiki/Pi.dev",
+  "source": "brave-web-search",
+  "description": "Pi is an open-source, terminal-based AI coding agent and agent harness created by Austrian software engineer Mario Zechner, known by his online handle badlogic and...",
+  "metadata": {
+    "title": "Pi.dev - Learn AI",
+    "name": "Pi.dev - Learn AI",
+    "description": "Pi is an open-source, terminal-based AI coding agent and agent harness created by Austrian software engineer Mario Zechner, known by his online handle badlogic and...",
+    "published_at": "2026-06-30T21:45:43",
+    "source_site": "Learn AI",
+    "source_url": "https://ai.miraheze.org/wiki/Pi.dev",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

@@ -10,7 +10,7 @@
     "description": "ProtectMe is a lightweight extension that uses website allow lists to let agents browse the internet freely and safely.",
     "stars": 2,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 2,
     "topics": [
       "agent-security",
       "allowlist",
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-03T07:41:11Z",
-    "pushed_at": "2026-07-28T11:25:11Z",
+    "pushed_at": "2026-08-03T04:22:04Z",
     "updated_at": "2026-07-28T11:20:21Z",
-    "size": 1297,
+    "size": 1383,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

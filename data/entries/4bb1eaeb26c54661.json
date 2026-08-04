@@ -10,7 +10,7 @@
     "description": "Portable Pi coding-agent configuration, extensions, skills, and theme",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 2,
     "topics": [
       "agent-skills",
       "dotfiles",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-30T21:13:14Z",
-    "pushed_at": "2026-07-30T21:13:18Z",
+    "pushed_at": "2026-08-03T22:33:07Z",
     "updated_at": "2026-07-30T23:55:50Z",
-    "size": 257,
+    "size": 287,
     "license": null,
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },

@@ -1,0 +1,31 @@
+{
+  "id": "pi-signal",
+  "name": "pi-signal",
+  "url": "https://www.npmjs.com/package/pi-signal",
+  "source": "npm-search",
+  "description": "Simplified cockpit-style TUI for Pi agent workstreams, activated with /signal.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-signal",
+    "description": "Simplified cockpit-style TUI for Pi agent workstreams, activated with /signal.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "signal",
+      "dashboard",
+      "tui",
+      "agent-ui"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-27T17:32:58.431Z",
+    "npm_downloads_monthly": 149,
+    "npm_downloads_weekly": 149,
+    "npm_score_final": 16.204086,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

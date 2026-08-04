@@ -1,0 +1,28 @@
+{
+  "id": "pi-codex-session",
+  "name": "pi-codex-session",
+  "url": "https://www.npmjs.com/package/pi-codex-session",
+  "source": "npm-search",
+  "description": "Pi extension + skill: @ fuzzy-match Codex CLI sessions by title, and read session context via codex-session skill",
+  "metadata": {
+    "github_url": "https://github.com/toosean/pi-codex-session",
+    "npm_name": "pi-codex-session",
+    "description": "Pi extension + skill: @ fuzzy-match Codex CLI sessions by title, and read session context via codex-session skill",
+    "keywords": [
+      "pi-package",
+      "codex",
+      "autocomplete",
+      "sessions"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-03T09:14:00.029Z",
+    "npm_downloads_monthly": 241,
+    "npm_downloads_weekly": 241,
+    "npm_score_final": 17.093586,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -9,8 +9,8 @@
     "repo_full_name": "DxVapor/pi-supacode",
     "description": "Pi extension that reports agent lifecycle hooks to the Supacode macOS app",
     "stars": 3,
-    "forks": 0,
-    "open_issues": 0,
+    "forks": 1,
+    "open_issues": 2,
     "topics": [
       "coding-agent",
       "pi",

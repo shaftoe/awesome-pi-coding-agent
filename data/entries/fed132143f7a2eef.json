@@ -1,0 +1,30 @@
+{
+  "id": "pi-gondolin-mount",
+  "name": "pi-gondolin-mount",
+  "url": "https://www.npmjs.com/package/pi-gondolin-mount",
+  "source": "npm-search",
+  "description": "pi extension that sandboxes LLM coding agents inside a Gondolin micro-VM with configurable additional mounts",
+  "metadata": {
+    "github_url": "https://github.com/abobco/pi-gondolin-mount",
+    "npm_name": "pi-gondolin-mount",
+    "description": "pi extension that sandboxes LLM coding agents inside a Gondolin micro-VM with configurable additional mounts",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "gondolin",
+      "sandbox",
+      "vm",
+      "mounts"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-07-27T05:00:53.413Z",
+    "npm_downloads_monthly": 214,
+    "npm_downloads_weekly": 214,
+    "npm_score_final": 16.463184,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

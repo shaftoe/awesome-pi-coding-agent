@@ -1,0 +1,25 @@
+{
+  "id": "Wayaans-me-pie",
+  "name": "Wayaans-me-pie",
+  "url": "https://github.com/Wayaans/me-pie",
+  "source": "github-search",
+  "description": "my personal pi package for pi-coding-agent usage",
+  "metadata": {
+    "github_url": "https://github.com/Wayaans/me-pie",
+    "repo_full_name": "Wayaans/me-pie",
+    "description": "my personal pi package for pi-coding-agent usage",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-03T08:48:16Z",
+    "pushed_at": "2026-08-03T08:48:37Z",
+    "updated_at": "2026-08-03T08:51:38Z",
+    "size": 130,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pi-vigil",
+  "name": "pi-vigil",
+  "url": "https://www.npmjs.com/package/pi-vigil",
+  "source": "npm-search",
+  "description": "Pi extension for asynchronous, turn-based subagents",
+  "metadata": {
+    "github_url": "https://github.com/itgeorge/pi-vigil",
+    "npm_name": "pi-vigil",
+    "description": "Pi extension for asynchronous, turn-based subagents",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "vigil",
+      "subagent",
+      "subagents",
+      "coding-agent",
+      "async",
+      "orchestration"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-03T16:18:10.201Z",
+    "npm_downloads_monthly": 236,
+    "npm_downloads_weekly": 236,
+    "npm_score_final": 17.47295,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

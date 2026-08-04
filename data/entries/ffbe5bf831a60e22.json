@@ -1,0 +1,31 @@
+{
+  "id": "Whamp-pi-session-recall",
+  "name": "Whamp-pi-session-recall",
+  "url": "https://github.com/Whamp/pi-session-recall",
+  "source": "github-search",
+  "description": "Source-backed semantic and exact-text recall for Pi session history.",
+  "metadata": {
+    "github_url": "https://github.com/Whamp/pi-session-recall",
+    "repo_full_name": "Whamp/pi-session-recall",
+    "description": "Source-backed semantic and exact-text recall for Pi session history.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 3,
+    "topics": [
+      "ai-agents",
+      "conversation-memory",
+      "pi-package",
+      "semantic-search",
+      "zvec"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-25T02:10:45Z",
+    "pushed_at": "2026-08-03T20:00:58Z",
+    "updated_at": "2026-08-03T20:02:57Z",
+    "size": 2664,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

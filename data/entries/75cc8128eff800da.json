@@ -1,0 +1,29 @@
+{
+  "id": "@miskamyasa/pi-model-project-persist",
+  "name": "@miskamyasa/pi-model-project-persist",
+  "url": "https://www.npmjs.com/package/@miskamyasa/pi-model-project-persist",
+  "source": "npm-search",
+  "description": "Persist pi's selected model and thinking level per project instead of globally",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@miskamyasa/pi-model-project-persist",
+    "description": "Persist pi's selected model and thinking level per project instead of globally",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "model",
+      "settings"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-07-27T09:41:37.102Z",
+    "npm_downloads_monthly": 80,
+    "npm_downloads_weekly": 80,
+    "npm_score_final": 13.057562,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

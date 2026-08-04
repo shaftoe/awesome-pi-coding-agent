@@ -1,0 +1,25 @@
+{
+  "id": "KayanoLiam-pi-vision",
+  "name": "KayanoLiam-pi-vision",
+  "url": "https://github.com/KayanoLiam/pi-vision",
+  "source": "github-search",
+  "description": "Pi Agent extension: auto handoff images to OpenAI-compatible vision models when the main model lacks image input",
+  "metadata": {
+    "github_url": "https://github.com/KayanoLiam/pi-vision",
+    "repo_full_name": "KayanoLiam/pi-vision",
+    "description": "Pi Agent extension: auto handoff images to OpenAI-compatible vision models when the main model lacks image input",
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-02T18:59:05Z",
+    "pushed_at": "2026-08-02T20:21:14Z",
+    "updated_at": "2026-08-03T09:46:41Z",
+    "size": 61,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

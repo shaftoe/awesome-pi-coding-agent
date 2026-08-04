@@ -1,0 +1,28 @@
+{
+  "id": "@ulysseszheng/pi-quota-status",
+  "name": "@ulysseszheng/pi-quota-status",
+  "url": "https://www.npmjs.com/package/@ulysseszheng/pi-quota-status",
+  "source": "npm-search",
+  "description": "Pi extension package that adds compact provider quota/reset status to the footer.",
+  "metadata": {
+    "github_url": "https://github.com/zhengyongjie16/pi-quota-status",
+    "npm_name": "@ulysseszheng/pi-quota-status",
+    "description": "Pi extension package that adds compact provider quota/reset status to the footer.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "quota",
+      "statusline"
+    ],
+    "version": "0.3.3",
+    "published_at": "2026-08-03T09:39:27.536Z",
+    "npm_downloads_monthly": 62,
+    "npm_downloads_weekly": 62,
+    "npm_score_final": 13.592255,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

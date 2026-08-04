@@ -1,0 +1,40 @@
+{
+  "id": "Signet-AI-signetai",
+  "name": "Signet-AI-signetai",
+  "url": "https://github.com/Signet-AI/signetai",
+  "source": "github-search",
+  "description": "local-first memory and context layer for AI agents",
+  "metadata": {
+    "github_url": "https://github.com/Signet-AI/signetai",
+    "repo_full_name": "Signet-AI/signetai",
+    "description": "local-first memory and context layer for AI agents",
+    "stars": 229,
+    "forks": 40,
+    "open_issues": 34,
+    "topics": [
+      "agent-memory",
+      "ai-memory",
+      "claude-code",
+      "codex",
+      "hermes-agent",
+      "hermes-agent-plugin",
+      "hermes-plugin",
+      "oh-my-pi",
+      "openclaw",
+      "opencode",
+      "opencode-plugin",
+      "pi-coding-agent",
+      "pi-extension",
+      "self-hosted"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-11T05:38:32Z",
+    "pushed_at": "2026-08-03T23:49:31Z",
+    "updated_at": "2026-08-03T20:55:29Z",
+    "size": 82657,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}
