@@ -9,7 +9,7 @@
     "repo_full_name": "hs094/pi-tui-commands",
     "description": "Pi extension for interactive /command management — toggle TUI tools (lazygit, nvim, hunk, btop, yazi, …) as slash commands with built-in binary checks,  │ custom registration, and persistent config",
     "stars": 0,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 1,
     "topics": [
       "pi-package",

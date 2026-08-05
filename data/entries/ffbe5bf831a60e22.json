@@ -10,7 +10,7 @@
     "description": "Source-backed semantic and exact-text recall for Pi session history.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 4,
     "topics": [
       "ai-agents",
       "conversation-memory",
@@ -27,5 +27,5 @@
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
-  "category": "extension"
+  "category": "misc"
 }

@@ -1,0 +1,30 @@
+{
+  "id": "opencode-engram-learning",
+  "name": "opencode-engram-learning",
+  "url": "https://www.npmjs.com/package/opencode-engram-learning",
+  "source": "npm-search",
+  "description": "Evidence-based learning engine for OpenCode — learn anything, verify by free recall, schedule with FSRS, adapt from your own data.",
+  "metadata": {
+    "github_url": "https://github.com/nagisanzenin/engram",
+    "npm_name": "opencode-engram-learning",
+    "description": "Evidence-based learning engine for OpenCode — learn anything, verify by free recall, schedule with FSRS, adapt from your own data.",
+    "keywords": [
+      "opencode",
+      "plugin",
+      "learning",
+      "fsrs",
+      "spaced-repetition",
+      "pi-package"
+    ],
+    "version": "1.11.1",
+    "published_at": "2026-08-04T03:36:51.214Z",
+    "npm_downloads_monthly": 1558,
+    "npm_downloads_weekly": 400,
+    "npm_score_final": 25.896584,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

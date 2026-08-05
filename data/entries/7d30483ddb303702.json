@@ -1,0 +1,27 @@
+{
+  "id": "tmux-agents-status-pi",
+  "name": "tmux-agents-status-pi",
+  "url": "https://www.npmjs.com/package/tmux-agents-status-pi",
+  "source": "npm-search",
+  "description": "Pi lifecycle adapter for tmux-agents-status",
+  "metadata": {
+    "github_url": "https://github.com/hiback/tmux-agents-status",
+    "npm_name": "tmux-agents-status-pi",
+    "description": "Pi lifecycle adapter for tmux-agents-status",
+    "keywords": [
+      "pi-package",
+      "tmux",
+      "coding-agent"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-28T15:38:16.483Z",
+    "npm_downloads_monthly": 245,
+    "npm_downloads_weekly": 245,
+    "npm_score_final": 17.785084,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

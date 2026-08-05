@@ -1,0 +1,30 @@
+{
+  "id": "@giladbarnea/pi-pretty-bash",
+  "name": "@giladbarnea/pi-pretty-bash",
+  "url": "https://www.npmjs.com/package/@giladbarnea/pi-pretty-bash",
+  "source": "npm-search",
+  "description": "Syntax-highlight Bash tool calls and JSON output in Pi's TUI.",
+  "metadata": {
+    "github_url": "https://github.com/giladbarnea/pi-pretty-bash",
+    "npm_name": "@giladbarnea/pi-pretty-bash",
+    "description": "Syntax-highlight Bash tool calls and JSON output in Pi's TUI.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-agent",
+      "pi-coding-agent",
+      "bash",
+      "syntax-highlighting"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-08-04T07:09:31.647Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

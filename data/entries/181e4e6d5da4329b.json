@@ -1,0 +1,34 @@
+{
+  "id": "pi-deepseek-cost",
+  "name": "pi-deepseek-cost",
+  "url": "https://www.npmjs.com/package/pi-deepseek-cost",
+  "source": "npm-search",
+  "description": "DeepSeek usage & cost tracker for Pi — live session cost in the status bar, /ds-cost and /ds-estimate overlay panels, bilingual UI, peak/off-peak pricing support",
+  "metadata": {
+    "github_url": "https://github.com/hacxy/pi-deepseek-cost",
+    "npm_name": "pi-deepseek-cost",
+    "description": "DeepSeek usage & cost tracker for Pi — live session cost in the status bar, /ds-cost and /ds-estimate overlay panels, bilingual UI, peak/off-peak pricing support",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "deepseek",
+      "cost",
+      "usage",
+      "ai",
+      "agents",
+      "cli"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-04T05:21:27.396Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

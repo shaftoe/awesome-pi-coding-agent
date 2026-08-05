@@ -42827,5 +42827,211 @@
 		"reason": "Non-English: title and description are in Italian",
 		"blacklisted_at": "2026-08-04T00:14:59.83Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@mrclrchtr/supi-tree-sitter",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T00:00:58.009Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=9lcwGn7TuF0",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T00:00:58.075Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5qtS301-kDA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T00:00:58.111Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/idefav/web-search",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T00:00:58.257Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/ronybrail/pi-project-aware",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T00:00:58.271Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=pd4kWf2YZGg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T00:00:58.32Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=V6EMABLtuwQ",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T00:00:58.342Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/Elohia/pi-evolve",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T00:00:58.442Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ePi8pYe_pVU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T00:00:58.619Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/xz-dev/pi-continue-watchdog",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T00:00:58.644Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@mrclrchtr/supi-core",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T00:00:58.679Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/mentalfl0w/omp-session-store",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-08-05T00:00:58.806Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/LankfordAI/omp-ui",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T00:00:58.881Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/ZY-LI-F/pi-workbench",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T00:00:58.892Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-config-ui",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T00:00:58.901Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/omp-session-store",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-08-05T00:00:58.958Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://twitter.com/Vercantez/status/2082138839888589200",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T00:00:58.967Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@adensxp/pi-status-plus",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T00:00:58.978Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-feishu-agent",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T00:00:58.992Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@mrclrchtr/supi-lsp",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T00:00:59.042Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=gLxZdH-UXUM",
+		"reason": "Non-English title and description (Spanish)",
+		"blacklisted_at": "2026-08-05T00:05:23.249Z",
+		"source": "manual"
 	}
 ]

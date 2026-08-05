@@ -9,7 +9,7 @@
     "repo_full_name": "shaftoe/pi-coding-agent-action",
     "description": "GitHub action to integrate https://pi.dev/ coding agent with GitHub-compatible CI/CD, issues and PRs",
     "stars": 53,
-    "forks": 14,
+    "forks": 13,
     "open_issues": 4,
     "topics": [
       "ai-assisted",

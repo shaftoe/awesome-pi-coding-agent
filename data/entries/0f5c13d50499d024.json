@@ -1,0 +1,33 @@
+{
+  "id": "@hisence666/pi-tool-renderer",
+  "name": "@hisence666/pi-tool-renderer",
+  "url": "https://www.npmjs.com/package/@hisence666/pi-tool-renderer",
+  "source": "npm-search",
+  "description": "High-performance compact Pi tool renderer with cached terminal chrome, configurable OSC 8 file links, tool_batch, and rich diffs.",
+  "metadata": {
+    "github_url": "https://github.com/hisence999/pi-tool-renderer",
+    "npm_name": "@hisence666/pi-tool-renderer",
+    "description": "High-performance compact Pi tool renderer with cached terminal chrome, configurable OSC 8 file links, tool_batch, and rich diffs.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "tools",
+      "renderer",
+      "shiki",
+      "diff",
+      "mcp",
+      "apply-patch"
+    ],
+    "version": "1.8.0",
+    "published_at": "2026-07-28T09:32:35.903Z",
+    "npm_downloads_monthly": 74,
+    "npm_downloads_weekly": 74,
+    "npm_score_final": 13.121902,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

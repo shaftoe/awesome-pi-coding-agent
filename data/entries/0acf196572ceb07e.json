@@ -1,0 +1,39 @@
+{
+  "id": "JetBrains-thinkrail",
+  "name": "JetBrains-thinkrail",
+  "url": "https://github.com/JetBrains/thinkrail",
+  "source": "github-search",
+  "description": "Vibe code with pi in a lightweight, real IDE - The Vibe You Need",
+  "metadata": {
+    "github_url": "https://github.com/JetBrains/thinkrail",
+    "repo_full_name": "JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE - The Vibe You Need",
+    "stars": 17,
+    "forks": 5,
+    "open_issues": 40,
+    "topics": [
+      "agent",
+      "agent-skills",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai-coding",
+      "ai-tools",
+      "pi-agent",
+      "pi-agent-extension",
+      "spec-driven",
+      "spec-driven-coding",
+      "spec-driven-development",
+      "vibe-coding",
+      "vibecoding"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-08T07:40:43Z",
+    "pushed_at": "2026-08-04T22:23:30Z",
+    "updated_at": "2026-08-04T12:43:39Z",
+    "size": 3326,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}
