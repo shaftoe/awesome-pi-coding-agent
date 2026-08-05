@@ -1,0 +1,25 @@
+{
+  "id": "yoyo406-pi-claude-mascot",
+  "name": "yoyo406-pi-claude-mascot",
+  "url": "https://github.com/yoyo406/pi-claude-mascot",
+  "source": "github-search",
+  "description": "Theme-aware pixel-art mascot widget for Pi. Displays small mascot above editor, aligned left.",
+  "metadata": {
+    "github_url": "https://github.com/yoyo406/pi-claude-mascot",
+    "repo_full_name": "yoyo406/pi-claude-mascot",
+    "description": "Theme-aware pixel-art mascot widget for Pi. Displays small mascot above editor, aligned left.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-04T11:02:53Z",
+    "pushed_at": "2026-08-04T19:03:56Z",
+    "updated_at": "2026-08-04T19:04:29Z",
+    "size": 47,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

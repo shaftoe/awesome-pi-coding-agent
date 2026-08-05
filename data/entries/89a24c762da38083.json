@@ -1,0 +1,32 @@
+{
+  "id": "oliverzhu823-vizruna",
+  "name": "oliverzhu823-vizruna",
+  "url": "https://github.com/oliverzhu823/vizruna",
+  "source": "github-search",
+  "description": "A visible, controllable, local-first desktop workspace for Pi-powered AI agents.",
+  "metadata": {
+    "github_url": "https://github.com/oliverzhu823/vizruna",
+    "repo_full_name": "oliverzhu823/vizruna",
+    "description": "A visible, controllable, local-first desktop workspace for Pi-powered AI agents.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "desktop-app",
+      "electron",
+      "local-first",
+      "pi-agent",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-28T09:03:31Z",
+    "pushed_at": "2026-08-03T03:57:22Z",
+    "updated_at": "2026-08-04T02:58:41Z",
+    "size": 2284,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

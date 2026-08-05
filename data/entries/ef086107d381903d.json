@@ -1,0 +1,25 @@
+{
+  "id": "saiashirwad-pi-docent",
+  "name": "saiashirwad-pi-docent",
+  "url": "https://github.com/saiashirwad/pi-docent",
+  "source": "github-search",
+  "description": "Guided code tours for the pi coding agent — generated once by the LLM, replayed interactively for zero tokens",
+  "metadata": {
+    "github_url": "https://github.com/saiashirwad/pi-docent",
+    "repo_full_name": "saiashirwad/pi-docent",
+    "description": "Guided code tours for the pi coding agent — generated once by the LLM, replayed interactively for zero tokens",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-03T12:49:05Z",
+    "pushed_at": "2026-07-03T13:32:11Z",
+    "updated_at": "2026-08-04T14:08:48Z",
+    "size": 17,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

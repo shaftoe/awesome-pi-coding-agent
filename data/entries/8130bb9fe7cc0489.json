@@ -10,7 +10,7 @@
     "description": "Pi packages monorepo — installable extensions for the pi coding agent (npm @pi-extensions). Includes Pac-Man working/thinking indicator.",
     "stars": 10,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "cli",
       "coding-agent",
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-17T20:17:52Z",
-    "pushed_at": "2026-07-22T17:13:32Z",
+    "pushed_at": "2026-08-04T15:37:40Z",
     "updated_at": "2026-07-26T17:08:08Z",
-    "size": 540,
+    "size": 590,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

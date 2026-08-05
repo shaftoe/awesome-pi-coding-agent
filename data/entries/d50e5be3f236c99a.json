@@ -3,30 +3,30 @@
   "name": "@firstpick/pi-package-learnings",
   "url": "https://www.npmjs.com/package/@firstpick/pi-package-learnings",
   "source": "npm-search",
-  "description": "File-based troubleshooting LEARNINGS archive for Pi agents, with retrieval workflow, summary prompts, and sync scripts.",
+  "description": "Native TUI and RPC questionnaires for the Pi coding agent, with resumable clarification.",
   "metadata": {
     "github_url": "https://github.com/Firstp1ck/pi-coding-agent-forge",
-    "npm_name": "@firstpick/pi-package-learnings",
-    "description": "File-based troubleshooting LEARNINGS archive for Pi agents, with retrieval workflow, summary prompts, and sync scripts.",
+    "npm_name": "@firstpick/pi-package-questionnaire",
+    "description": "Native TUI and RPC questionnaires for the Pi coding agent, with resumable clarification.",
     "keywords": [
       "pi-package",
       "pi",
       "pi-coding-agent",
-      "skill",
       "extension",
-      "prompt-template",
-      "learnings",
-      "troubleshooting-memory"
+      "skill",
+      "questionnaire",
+      "tui",
+      "rpc"
     ],
-    "version": "0.1.5",
-    "published_at": "2026-07-24T00:49:01.956Z",
-    "npm_downloads_monthly": 248,
-    "npm_downloads_weekly": 174,
-    "npm_score_final": 17.194723,
+    "version": "0.1.0",
+    "published_at": "2026-08-04T00:35:40.270Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "health": {
     "score": 76,

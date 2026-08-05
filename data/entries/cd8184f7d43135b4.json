@@ -1,0 +1,31 @@
+{
+  "id": "@kassing/pi-menu",
+  "name": "@kassing/pi-menu",
+  "url": "https://www.npmjs.com/package/@kassing/pi-menu",
+  "source": "npm-search",
+  "description": "Interactive menus & input for pi — proactive multi-question tabs, option search filter, single/multi select, typed input (text/secret/number/date/path), minimal emoji-free UI",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@kassing/pi-menu",
+    "description": "Interactive menus & input for pi — proactive multi-question tabs, option search filter, single/multi select, typed input (text/secret/number/date/path), minimal emoji-free UI",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "menu",
+      "interactive",
+      "ask",
+      "clarify",
+      "prompt"
+    ],
+    "version": "0.2.4",
+    "published_at": "2026-08-04T11:57:51.181Z",
+    "npm_downloads_monthly": 270,
+    "npm_downloads_weekly": 270,
+    "npm_score_final": 18.375803,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

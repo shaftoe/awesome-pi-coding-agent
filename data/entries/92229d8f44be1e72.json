@@ -6,7 +6,7 @@
   "description": "Deterministic, CPU-first model/thinking routing extension for Pi",
   "metadata": {
     "github_url": "https://github.com/ayhanblt/ay-pi",
-    "npm_name": "ay-pi",
+    "npm_name": "@ayhanblt/ay-pi",
     "description": "Deterministic, CPU-first model/thinking routing extension for Pi",
     "keywords": [
       "pi-package",
@@ -15,11 +15,11 @@
       "workflow",
       "model-routing"
     ],
-    "version": "1.0.3",
-    "published_at": "2026-07-27T23:14:21.305Z",
-    "npm_downloads_monthly": 361,
-    "npm_downloads_weekly": 361,
-    "npm_score_final": 20.664644,
+    "version": "1.1.1",
+    "published_at": "2026-08-04T11:36:45.120Z",
+    "npm_downloads_monthly": 82,
+    "npm_downloads_weekly": 82,
+    "npm_score_final": 13.802209,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

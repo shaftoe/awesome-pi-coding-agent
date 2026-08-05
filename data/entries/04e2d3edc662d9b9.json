@@ -1,0 +1,25 @@
+{
+  "id": "@jyooi/pi-ask-user-question",
+  "name": "@jyooi/pi-ask-user-question",
+  "url": "https://www.npmjs.com/package/@jyooi/pi-ask-user-question",
+  "source": "npm-search",
+  "description": "A structured ask_user_question tool for interactive pi sessions.",
+  "metadata": {
+    "github_url": "https://github.com/jyooi/pi-ask-user-question",
+    "npm_name": "@jyooi/pi-ask-user-question",
+    "description": "A structured ask_user_question tool for interactive pi sessions.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-04T14:01:30.282Z",
+    "npm_downloads_monthly": 76,
+    "npm_downloads_weekly": 76,
+    "npm_score_final": 13.142045,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "PGHQdev-pi-aiand",
+  "name": "PGHQdev-pi-aiand",
+  "url": "https://github.com/PGHQdev/pi-aiand",
+  "source": "github-search",
+  "description": "pi coding agent extension — adds ai& open-weight models (one free, 1M-context from $0.15) to /model. Zero config",
+  "metadata": {
+    "github_url": "https://github.com/PGHQdev/pi-aiand",
+    "repo_full_name": "PGHQdev/pi-aiand",
+    "description": "pi coding agent extension — adds ai& open-weight models (one free, 1M-context from $0.15) to /model. Zero config",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-provider",
+      "glm",
+      "inference",
+      "kimi",
+      "kimi-ai",
+      "llm",
+      "open-weights",
+      "openai-compatible",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "qwen"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-17T09:12:48Z",
+    "pushed_at": "2026-07-28T11:01:19Z",
+    "updated_at": "2026-08-02T03:54:53Z",
+    "size": 6,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

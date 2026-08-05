@@ -1,0 +1,27 @@
+{
+  "id": "agent-simple-english",
+  "name": "agent-simple-english",
+  "url": "https://www.npmjs.com/package/agent-simple-english",
+  "source": "npm-search",
+  "description": "Technical and house-style English lint engine, CLI, and host adapters",
+  "metadata": {
+    "github_url": "https://github.com/jyooi/agent-simple-english",
+    "npm_name": "agent-simple-english",
+    "description": "Technical and house-style English lint engine, CLI, and host adapters",
+    "keywords": [
+      "pi-package",
+      "simplified-technical-english",
+      "linter"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-04T14:00:40.530Z",
+    "npm_downloads_monthly": 114,
+    "npm_downloads_weekly": 114,
+    "npm_score_final": 15.790202,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
