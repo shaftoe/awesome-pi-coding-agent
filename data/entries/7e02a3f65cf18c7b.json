@@ -1,0 +1,30 @@
+{
+  "id": "MachineLearning-Nerd-pi-plan-build-mode",
+  "name": "MachineLearning-Nerd-pi-plan-build-mode",
+  "url": "https://github.com/MachineLearning-Nerd/pi-plan-build-mode",
+  "source": "github-search",
+  "description": "Polished Plan/Build workflow for Pi with read-only planning, sandboxed scratch experiments, approval gates, and native TUI progress.",
+  "metadata": {
+    "github_url": "https://github.com/MachineLearning-Nerd/pi-plan-build-mode",
+    "repo_full_name": "MachineLearning-Nerd/pi-plan-build-mode",
+    "description": "Polished Plan/Build workflow for Pi with read-only planning, sandboxed scratch experiments, approval gates, and native TUI progress.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "pi-extension",
+      "pi-package",
+      "plan-mode"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-05T15:57:16Z",
+    "pushed_at": "2026-08-05T18:26:30Z",
+    "updated_at": "2026-08-05T18:27:11Z",
+    "size": 200,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -3,27 +3,27 @@
   "name": "@geminixiang/pi-simplify",
   "url": "https://www.npmjs.com/package/@geminixiang/pi-simplify",
   "source": "npm-search",
-  "description": "Render Mermaid diagrams as Unicode art inside the pi terminal UI",
+  "description": "Rule-agnostic independent Pi agent sessions with private mailboxes and causal audit",
   "metadata": {
     "github_url": "https://github.com/geminixiang/pi-stuff",
-    "npm_name": "@geminixiang/pi-mermaid",
-    "description": "Render Mermaid diagrams as Unicode art inside the pi terminal UI",
+    "npm_name": "@geminixiang/pi-agent-team",
+    "description": "Rule-agnostic independent Pi agent sessions with private mailboxes and causal audit",
     "keywords": [
-      "pi-package",
-      "pi-extension",
-      "mermaid",
-      "terminal",
-      "diagram"
+      "pi",
+      "pi-coding-agent",
+      "agent-team",
+      "multi-agent",
+      "extension"
     ],
-    "version": "0.1.2",
-    "published_at": "2026-07-25T18:35:44.219Z",
-    "npm_downloads_monthly": 412,
-    "npm_downloads_weekly": 412,
-    "npm_score_final": 18.55451,
+    "version": "0.1.1",
+    "published_at": "2026-08-05T15:45:03.050Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "health": {
     "score": 77,

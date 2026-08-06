@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_edward40.com_pi-agent-internal",
+  "name": "Inside Pi Agent - Shilin's Blog",
+  "url": "https://edward40.com/p/pi-agent-internal/",
+  "source": "brave-web-search",
+  "description": "A guided tour of Pi's agent loop, context construction, tools, sessions, extensions, terminal UI, compaction, and skills.",
+  "metadata": {
+    "title": "Inside Pi Agent - Shilin's Blog",
+    "name": "Inside Pi Agent - Shilin's Blog",
+    "description": "A guided tour of Pi's agent loop, context construction, tools, sessions, extensions, terminal UI, compaction, and skills.",
+    "published_at": "2026-07-21T07:00:00",
+    "source_site": "Shilin's Blog",
+    "source_url": "https://edward40.com/p/pi-agent-internal/",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

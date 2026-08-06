@@ -10,7 +10,7 @@
     "description": "Pi Desktop — a free, open-source Electron GUI for the Pi coding agent. Chat, edit files, run a terminal, and review diffs in one window. Builds for Linux, macOS, and Windows.",
     "stars": 36,
     "forks": 3,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "ai",
       "ai-agent",
@@ -29,9 +29,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-20T15:58:36Z",
-    "pushed_at": "2026-08-04T13:37:08Z",
+    "pushed_at": "2026-08-05T21:16:34Z",
     "updated_at": "2026-08-04T22:57:57Z",
-    "size": 5124,
+    "size": 5195,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

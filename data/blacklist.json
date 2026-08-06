@@ -43033,5 +43033,1039 @@
 		"reason": "Non-English title and description (Spanish)",
 		"blacklisted_at": "2026-08-05T00:05:23.249Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=4dNry5zP0Jo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:28.608Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=0fAMlarIELw",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-08-05T23:58:28.623Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://9to5linux.com/raspberry-pi-os-gets-new-dark-gtk-theme-better-raspberry-pi-5-support",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-05T23:58:28.667Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=kW2DvZbXePI",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-08-05T23:58:28.673Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=-lgU58kpk2A",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:28.683Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.sparknotes.com/lit/lifeofpi/themes/",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-08-05T23:58:28.691Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://badlogic-pi-mono.mintlify.app/coding-agent/themes",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:28.707Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://literarydevices.net/life-of-pi-themes/",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-08-05T23:58:28.716Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://coinmarketcap.com/currencies/pi/",
+		"reason": "blocked name: pi",
+		"blacklisted_at": "2026-08-05T23:58:28.747Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://www.raspberryconnect.com/raspbian-packages",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-05T23:58:28.764Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=xb5A0tRix8I",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:28.779Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=HmbBLMvATKQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:28.79Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.raspberrypi.com/documentation/computers/os.html",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-05T23:58:28.801Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=AuuiIFqQ1tY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:28.851Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://zed.dev/acp/agent/pi",
+		"reason": "blocked name: pi",
+		"blacklisted_at": "2026-08-05T23:58:28.858Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=zxbzWuqBPLE",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T23:58:28.873Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.zenml.io/llmops-database/building-pi-a-minimal-extensible-coding-agent-framework",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:28.884Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ox6upguli7U",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:28.897Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=b1vce4nW8EI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:28.904Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://docs.z.ai/devpack/tool/pi",
+		"reason": "blocked name: pi",
+		"blacklisted_at": "2026-08-05T23:58:28.933Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/Elohia/pi-mm-vision",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T23:58:28.941Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://aiidelist.com/ide/pi",
+		"reason": "blocked name: pi",
+		"blacklisted_at": "2026-08-05T23:58:28.952Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=pWIQe8gHCLw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:28.96Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://pi-apps.io/",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-05T23:58:28.967Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://medium.com/@shohagmahmudsaif/10-life-lessons-from-the-life-of-pi-movie-based-on-its-themes-of-survival-spirituality-and-187dfbd8d3c6",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-08-05T23:58:28.978Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.shmoop.com/study-guides/life-of-pi/themes.html",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-08-05T23:58:28.983Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=-9cxgRfM66w",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:28.991Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://cloud.withgoogle.com/agentfinder/product/369f45b8-100e-4b44-bc3e-bce376520a65/",
+		"reason": "industrial pi signal: \"planning in a box\"",
+		"blacklisted_at": "2026-08-05T23:58:29.005Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.gradesaver.com/life-of-pi/study-guide/themes",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-08-05T23:58:29.034Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.reddit.com/r/PiCodingAgent/comments/1tfqx5w/which_are_the_top_packages_for_you_in_pi/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.049Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/KuaaMU/mcp-vision-bridge",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.055Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=YFqLg3ner68",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.062Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=SG64nSdNC28",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.084Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://stackoverflow.com/questions/79768002/how-to-install-dev-packages-for-raspberry-pi-cross-compiling",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-05T23:58:29.092Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://www.reddit.com/r/TrueFilm/comments/1dvd1b/life_of_pi_analysis_themes_and_plot_explained/",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-08-05T23:58:29.106Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=mAlffiYqssM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.11Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=6DaJ22st0tI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.151Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=igpsT_7oIu0",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T23:58:29.159Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=TyDPTjqvX3I",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.181Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/xiatianliang1024gm/sigpi",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.19Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=-z4buk4z5uU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.201Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=gQCTAlA0V1w",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.234Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.cliffsnotes.com/study-notes/16937965",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-08-05T23:58:29.246Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.reddit.com/r/PiCodingAgent/comments/1tvko93/a_bit_late_into_the_party_but_pi_is_awesome_and/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.256Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://shivamagarwal7.medium.com/agentic-ai-pi-anatomy-of-a-minimal-coding-agent-powering-openclaw-5ecd4dd6b440",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.279Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=iaQVjdJ2O20",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.322Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://docs.ollama.com/integrations/pi",
+		"reason": "blocked name: pi",
+		"blacklisted_at": "2026-08-05T23:58:29.362Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://www.reddit.com/r/raspberry_pi/comments/1mhfom1/how_to_install_themes_icons_custom_panel_and/",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-05T23:58:29.374Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=XPQaoEZa9Y4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.385Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-kis",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T23:58:29.398Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://agentwiki.daytonellwanger.com/tools/pi/",
+		"reason": "blocked name: pi",
+		"blacklisted_at": "2026-08-05T23:58:29.423Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-agent"
+		}
+	},
+	{
+		"url": "https://forums.raspberrypi.com/viewtopic.php?t=106340",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-05T23:58:29.428Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://paseo.sh/pi",
+		"reason": "blocked name: pi",
+		"blacklisted_at": "2026-08-05T23:58:29.435Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=rTEh54yUKGI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.445Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=4sAmpcSOVEw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.453Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@m2atrid/pis",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T23:58:29.466Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=E_is-iUNfPU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.479Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@efrembaraldo/gsd-pi-discussion-arena",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.507Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=oQNlA_i3-Sk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.537Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/KaKmi/tgbuddy",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T23:58:29.553Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://forums.raspberrypi.com/viewtopic.php?t=223856",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-05T23:58:29.565Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=AcGR6o1_Yjo",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T23:58:29.569Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://paakhibhatnagar.wordpress.com/2017/04/02/life-of-pi-theme-and-character-pt-1/",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-08-05T23:58:29.576Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=hnG0hedCY3w",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T23:58:29.583Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://packaging.python.org/tutorials/installing-packages/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.605Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=MDWT7xQ9q7w",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.613Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=BxMO-kYtiUA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.623Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://martinlifeofpi.weebly.com/major-themes.html",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-08-05T23:58:29.629Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ru1sDfYHXNk",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T23:58:29.642Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=BxLNV6K-yCk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.653Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://projects.raspberrypi.org/en/projects/generic-python-installing-with-pip",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-05T23:58:29.667Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://blog.packagecloud.io/package-management-on-the-raspberry-pi/",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-05T23:58:29.676Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=8q-fKAXHZa0",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T23:58:29.693Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/JagoWang/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.737Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.litcharts.com/lit/life-of-pi/themes",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-08-05T23:58:29.743Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=4wjMKKVWPgs",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T23:58:29.755Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://deepwiki.com/davis7dotsh/my-pi-setup/6-themes",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.774Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/sting8k/pi-peer",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.783Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=GJoQRtkcWkk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.8Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://forums.raspberrypi.com/viewtopic.php?t=101211",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-05T23:58:29.805Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://forums.raspberrypi.com/viewtopic.php?t=318508",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-05T23:58:29.812Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=S2Sn_kwCRjE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.843Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.coingecko.com/en/coins/pi-network",
+		"reason": "pi network crypto signal: \"pi network\"",
+		"blacklisted_at": "2026-08-05T23:58:29.857Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://www.raspberrypi.com/news/im-theme-ing-of-a-dark-christmas/",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-05T23:58:29.864Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=KqaRXNKMLvM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.892Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.coursehero.com/lit/Life-of-Pi/themes/",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-08-05T23:58:29.902Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=MgHQncHjDhs",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.916Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=bBK33guZw-w",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.935Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=j2r9s3I1M3s",
+		"reason": "pi network crypto signal: \"pi network\"",
+		"blacklisted_at": "2026-08-05T23:58:29.952Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Z1TVYl-znC8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.958Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=k9VPAOIgPyM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.976Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.birkey.co/2026-04-19-why-i-love-pi.html",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:29.999Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=z0L8KOd6ewg",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T23:58:30.018Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=m7pF4OMEYEk",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T23:58:30.03Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-memory-spaced",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-05T23:58:30.055Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/JustSnow/pi-ast-grep",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:30.104Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=IMLwvK08JVc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:30.117Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=g_iDPqIRvfI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:30.122Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=G75wdkBTqFA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-05T23:58:30.127Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://pypi.org/project/pi/",
+		"reason": "blocked name: pi",
+		"blacklisted_at": "2026-08-05T23:58:30.141Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://raspberrytips.com/pimp-my-raspberry-pi/",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-05T23:58:30.147Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://pypi.org/project/pi-agent/",
+		"reason": "Not about the Pi coding agent (pi.dev) — this is a separate Python library 'pi-agent' for building AI agents, unrelated to pi.dev",
+		"blacklisted_at": "2026-08-06T00:04:29.65Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://pluto7.com/pi-agent/",
+		"reason": "Not about the Pi coding agent (pi.dev) — this is Pluto7's supply chain 'Pi Agent' product for autonomous commerce, unrelated to pi.dev",
+		"blacklisted_at": "2026-08-06T00:04:29.686Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://pi.gate.ac.uk/pages/package.html",
+		"reason": "Not about the Pi coding agent (pi.dev) — about packaging Debian software for Raspberry Pi",
+		"blacklisted_at": "2026-08-06T00:04:29.705Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=em8w0SwgT5Q",
+		"reason": "Not about the Pi coding agent (pi.dev) — about 'Litos', a separate C#/.NET coding agent, not Pi",
+		"blacklisted_at": "2026-08-06T00:04:39.439Z",
+		"source": "manual"
 	}
 ]

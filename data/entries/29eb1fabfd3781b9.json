@@ -1,0 +1,25 @@
+{
+  "id": "@usmanghani23/model-router",
+  "name": "@usmanghani23/model-router",
+  "url": "https://www.npmjs.com/package/@usmanghani23/model-router",
+  "source": "npm-search",
+  "description": "A [Pi coding agent](https://github.com/earendil-works/pi-coding-agent) extension that routes each coding request to the cheapest model capable of handling it. The idea: not every task needs the same model. A quick \"what does this function return?\" costs a",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@usmanghani23/model-router",
+    "description": "A [Pi coding agent](https://github.com/earendil-works/pi-coding-agent) extension that routes each coding request to the cheapest model capable of handling it. The idea: not every task needs the same model. A quick \"what does this function return?\" costs a",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.9",
+    "published_at": "2026-07-29T10:47:17.153Z",
+    "npm_downloads_monthly": 1060,
+    "npm_downloads_weekly": 1060,
+    "npm_score_final": 23.969488,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

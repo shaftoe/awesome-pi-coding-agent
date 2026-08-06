@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_formulae.brew.sh_pi-coding-agent",
+  "name": "Homebrew Formulae: pi-coding-agent",
+  "url": "https://formulae.brew.sh/formula/pi-coding-agent",
+  "source": "brave-web-search",
+  "description": "Development: Pull requests · Formula JSON API: /api/formula/pi-coding-agent.json",
+  "metadata": {
+    "title": "Homebrew Formulae: pi-coding-agent",
+    "name": "Homebrew Formulae: pi-coding-agent",
+    "description": "Development: Pull requests · Formula JSON API: /api/formula/pi-coding-agent.json",
+    "published_at": null,
+    "source_site": "Homebrew",
+    "source_url": "https://formulae.brew.sh/formula/pi-coding-agent",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/philipp-spiess/modern",
     "repo_full_name": "philipp-spiess/modern",
     "description": "Agentic development environment for pi",
-    "stars": 43,
+    "stars": 44,
     "forks": 4,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-21T21:29:51Z",
     "pushed_at": "2026-03-02T21:41:27Z",
-    "updated_at": "2026-07-17T19:17:40Z",
+    "updated_at": "2026-08-05T21:15:06Z",
     "size": 10383,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,29 @@
+{
+  "id": "pi-subagent-timeout-safety",
+  "name": "pi-subagent-timeout-safety",
+  "url": "https://www.npmjs.com/package/pi-subagent-timeout-safety",
+  "source": "npm-search",
+  "description": "Mutation-safe timeout policy for pi-subagents launches",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-subagent-timeout-safety",
+    "description": "Mutation-safe timeout policy for pi-subagents launches",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-subagents",
+      "timeout",
+      "safety"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-07-29T06:12:12.593Z",
+    "npm_downloads_monthly": 135,
+    "npm_downloads_weekly": 135,
+    "npm_score_final": 15.576336,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

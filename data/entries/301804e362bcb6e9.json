@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-auto-theme",
+  "name": "@whynothugo/pi-auto-theme · Packages · Pi",
+  "url": "https://pi.dev/packages/@whynothugo/pi-auto-theme",
+  "source": "brave-web-search",
+  "description": "Install @whynothugo/pi-auto-theme from npm and Pi will load the resources declared by the package manifest.",
+  "metadata": {
+    "title": "@whynothugo/pi-auto-theme · Packages · Pi",
+    "name": "@whynothugo/pi-auto-theme · Packages · Pi",
+    "description": "Install @whynothugo/pi-auto-theme from npm and Pi will load the resources declared by the package manifest.",
+    "published_at": "2026-05-10T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/@whynothugo/pi-auto-theme",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "category": "article"
+}

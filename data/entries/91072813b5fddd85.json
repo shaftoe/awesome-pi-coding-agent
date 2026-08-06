@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_ailinklab.com_pi-agent-harness",
+  "name": "Pi: A Coding Agent That Refuses to Own Your Workflow",
+  "url": "https://www.ailinklab.com/en/opensource/pi-agent-harness/",
+  "source": "brave-web-search",
+  "description": "Pi is an open-source TypeScript coding agent harness from earendil-works. This review covers its architecture, extensibility, provider support, supply-chain stance, and trade-offs.",
+  "metadata": {
+    "title": "Pi: A Coding Agent That Refuses to Own Your Workflow",
+    "name": "Pi: A Coding Agent That Refuses to Own Your Workflow",
+    "description": "Pi is an open-source TypeScript coding agent harness from earendil-works. This review covers its architecture, extensibility, provider support, supply-chain stance, and trade-offs.",
+    "published_at": "2026-05-23T13:00:00",
+    "source_site": "AI Link Lab",
+    "source_url": "https://www.ailinklab.com/en/opensource/pi-agent-harness/",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

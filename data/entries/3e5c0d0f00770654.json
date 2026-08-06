@@ -3,11 +3,11 @@
   "name": "giuseppe-trisciuoglio-pi-rules",
   "url": "https://github.com/giuseppe-trisciuoglio/pi-rules",
   "source": "github-search",
-  "description": "",
+  "description": "pi-rules is a lightweight AI configuration pack for Pi Coding Agent. It delivers standardized, tech-stack-aware rules to guide the agent’s behavior, enforce coding best practices, and improve code consistency.",
   "metadata": {
     "github_url": "https://github.com/giuseppe-trisciuoglio/pi-rules",
     "repo_full_name": "giuseppe-trisciuoglio/pi-rules",
-    "description": "",
+    "description": "pi-rules is a lightweight AI configuration pack for Pi Coding Agent. It delivers standardized, tech-stack-aware rules to guide the agent’s behavior, enforce coding best practices, and improve code consistency.",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,
@@ -24,10 +24,10 @@
     "archived": false,
     "created_at": "2026-08-04T20:22:08Z",
     "pushed_at": "2026-08-04T20:29:46Z",
-    "updated_at": "2026-08-04T20:32:05Z",
+    "updated_at": "2026-08-05T08:56:33Z",
     "size": 130,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
-  "category": "misc"
+  "category": "extension"
 }

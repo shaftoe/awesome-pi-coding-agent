@@ -1,0 +1,25 @@
+{
+  "id": "abijith-suresh-my-pi-setup",
+  "name": "abijith-suresh-my-pi-setup",
+  "url": "https://github.com/abijith-suresh/my-pi-setup",
+  "source": "github-search",
+  "description": "My pi coding agent setup: Catppuccin theme + subagent support",
+  "metadata": {
+    "github_url": "https://github.com/abijith-suresh/my-pi-setup",
+    "repo_full_name": "abijith-suresh/my-pi-setup",
+    "description": "My pi coding agent setup: Catppuccin theme + subagent support",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-27T16:00:44Z",
+    "pushed_at": "2026-08-05T18:44:44Z",
+    "updated_at": "2026-08-05T18:46:30Z",
+    "size": 79,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_latest",
+  "name": "Pi Coding Agent",
+  "url": "https://pi.dev/docs/latest",
+  "source": "brave-web-search",
+  "description": "For pnpm, Yarn, or Bun installs, use the matching global remove command: pnpm remove -g @earendil-works/pi-coding-agent, yarn global remove @earendil-works/pi-coding-agent, or bun uninstall -g @earendil-works/pi-coding-agent.",
+  "metadata": {
+    "title": "Pi Coding Agent",
+    "name": "Pi Coding Agent",
+    "description": "For pnpm, Yarn, or Bun installs, use the matching global remove command: pnpm remove -g @earendil-works/pi-coding-agent, yarn global remove @earendil-works/pi-coding-agent, or bun uninstall -g @earendil-works/pi-coding-agent.",
+    "published_at": null,
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/docs/latest",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

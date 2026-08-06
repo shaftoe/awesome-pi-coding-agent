@@ -8,7 +8,7 @@
     "github_url": "https://github.com/TimYuann/Learn-as-you-go",
     "repo_full_name": "TimYuann/Learn-as-you-go",
     "description": "Plain-language Chinese (↳) beside technical AI output — skill + Pi extension for non-technical readers",
-    "stars": 1,
+    "stars": 6,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-08-02T05:02:52Z",
     "pushed_at": "2026-08-02T13:14:24Z",
-    "updated_at": "2026-08-02T13:14:36Z",
+    "updated_at": "2026-08-05T11:23:17Z",
     "size": 24,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

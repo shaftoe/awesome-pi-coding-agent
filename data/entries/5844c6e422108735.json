@@ -1,0 +1,37 @@
+{
+  "id": "aleksandarlabs-akrcontext",
+  "name": "aleksandarlabs-akrcontext",
+  "url": "https://github.com/aleksandarlabs/akrcontext",
+  "source": "github-search",
+  "description": "Workflow discipline specification for AI coding agents. Task capsules, workflow selection, context budgets, merge safety, and independent judge — portable across Codex, Claude Code, Copilot, and Pi.",
+  "metadata": {
+    "github_url": "https://github.com/aleksandarlabs/akrcontext",
+    "repo_full_name": "aleksandarlabs/akrcontext",
+    "description": "Workflow discipline specification for AI coding agents. Task capsules, workflow selection, context budgets, merge safety, and independent judge — portable across Codex, Claude Code, Copilot, and Pi.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agents",
+      "context-engineering",
+      "copilot",
+      "developer-tools",
+      "harness-engineering",
+      "task-capsule",
+      "typescript",
+      "workflow"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-25T15:19:02Z",
+    "pushed_at": "2026-08-05T18:18:26Z",
+    "updated_at": "2026-08-05T18:18:34Z",
+    "size": 1113,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

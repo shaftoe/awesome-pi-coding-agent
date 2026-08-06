@@ -8,7 +8,7 @@
     "github_url": "https://github.com/psychobarge/pi-deepseek-peak",
     "repo_full_name": "psychobarge/pi-deepseek-peak",
     "description": "A small pi extention to show Deepseek peak hour status.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-07-25T16:36:46Z",
     "pushed_at": "2026-07-28T17:18:53Z",
-    "updated_at": "2026-07-28T17:18:55Z",
+    "updated_at": "2026-08-05T09:27:39Z",
     "size": 14,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"

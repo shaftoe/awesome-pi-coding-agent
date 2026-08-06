@@ -10,7 +10,7 @@
     "description": "LLM-based tool-call auto-approval for the pi coding agent. Inspired by Codex's Auto-review/Guardian system.",
     "stars": 4,
     "forks": 3,
-    "open_issues": 8,
+    "open_issues": 9,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

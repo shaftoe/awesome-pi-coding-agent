@@ -8,9 +8,9 @@
     "github_url": "https://github.com/mentalfl0w/omp-wechat",
     "repo_full_name": "mentalfl0w/omp-wechat",
     "description": "Bridge WeChat messages to OMP/Pi — receive messages via the iLink Bot API, process with the AI engine, and reply automatically. Runs as an in-process extension with singleton port lock and boot-time auto-start.",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
+    "stars": 1,
+    "forks": 1,
+    "open_issues": 4,
     "topics": [
       "oh-my-pi",
       "omp-extension",
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-07-23T12:44:31Z",
     "pushed_at": "2026-07-25T04:11:29Z",
-    "updated_at": "2026-07-25T04:11:33Z",
+    "updated_at": "2026-08-05T09:49:48Z",
     "size": 145,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
