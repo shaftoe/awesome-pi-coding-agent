@@ -1,0 +1,36 @@
+{
+  "id": "@heathhe/pi-agent-notify",
+  "name": "@heathhe/pi-agent-notify",
+  "url": "https://www.npmjs.com/package/@heathhe/pi-agent-notify",
+  "source": "npm-search",
+  "description": "Pi extension that sends host terminal or desktop notifications when an agent run finishes or fails.",
+  "metadata": {
+    "github_url": "https://github.com/Heath-Jian/pi-agent-notify",
+    "npm_name": "@heathhe/pi-agent-notify",
+    "description": "Pi extension that sends host terminal or desktop notifications when an agent run finishes or fails.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "notification",
+      "notify",
+      "agent",
+      "desktop-notifications",
+      "terminal",
+      "zap",
+      "macos",
+      "windows",
+      "linux"
+    ],
+    "version": "0.6.3",
+    "published_at": "2026-08-05T03:15:46.638Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

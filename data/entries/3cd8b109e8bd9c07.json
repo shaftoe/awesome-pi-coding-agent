@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_reddit.com_anygreattutorialofhowusethistool",
+  "name": "r/PiCodingAgent on Reddit: Any great tutorial of how use this tool?",
+  "url": "https://www.reddit.com/r/PiCodingAgent/comments/1sttlg9/any_great_tutorial_of_how_use_this_tool/",
+  "source": "brave-web-search",
+  "description": "P.D: Working with Rust + PG, I like the idea of having a \"plan, code, test, review\" loop and from https://mariozechner.at/posts/2025-11-30-pi-coding-agent/ find appealing to slowly write on \"md\" files the instructions more than \"chat\" with the model.",
+  "metadata": {
+    "title": "r/PiCodingAgent on Reddit: Any great tutorial of how use this tool?",
+    "name": "r/PiCodingAgent on Reddit: Any great tutorial of how use this tool?",
+    "description": "P.D: Working with Rust + PG, I like the idea of having a \"plan, code, test, review\" loop and from https://mariozechner.at/posts/2025-11-30-pi-coding-agent/ find appealing to slowly write on \"md\" files the instructions more than \"chat\" with the model.",
+    "published_at": "2026-04-23T19:57:41",
+    "source_site": "Reddit",
+    "source_url": "https://www.reddit.com/r/PiCodingAgent/comments/1sttlg9/any_great_tutorial_of_how_use_this_tool/",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

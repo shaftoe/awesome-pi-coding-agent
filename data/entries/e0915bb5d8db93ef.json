@@ -1,0 +1,36 @@
+{
+  "id": "bladebro",
+  "name": "bladebro",
+  "url": "https://www.npmjs.com/package/bladebro",
+  "source": "npm-search",
+  "description": "God-tier agentic browser driver for AI agents. Few tools, full control, real stealth, max token efficiency.",
+  "metadata": {
+    "github_url": "https://github.com/dondai44423/bladebro",
+    "npm_name": "bladebro",
+    "description": "God-tier agentic browser driver for AI agents. Few tools, full control, real stealth, max token efficiency.",
+    "keywords": [
+      "pi-package",
+      "browser",
+      "automation",
+      "agent",
+      "ai",
+      "mcp",
+      "cdp",
+      "chrome",
+      "stealth",
+      "scraper",
+      "puppeteer",
+      "playwright"
+    ],
+    "version": "3.0.13",
+    "published_at": "2026-08-05T12:25:01.949Z",
+    "npm_downloads_monthly": 1689,
+    "npm_downloads_weekly": 1689,
+    "npm_score_final": 24.878115,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

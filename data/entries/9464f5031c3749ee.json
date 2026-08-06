@@ -1,0 +1,33 @@
+{
+  "id": "@bzzimmy/pi-claude",
+  "name": "@bzzimmy/pi-claude",
+  "url": "https://www.npmjs.com/package/@bzzimmy/pi-claude",
+  "source": "npm-search",
+  "description": "Claude (Anthropic OAuth/subscription) compatibility layer for pi-coding-agent — keeps ALL extension tools usable under the Claude subscription by mapping unknown flat tool names to mcp__pi__ on the wire instead of dropping them.",
+  "metadata": {
+    "github_url": "https://github.com/bzzimmy/pi-claude",
+    "npm_name": "@bzzimmy/pi-claude",
+    "description": "Claude (Anthropic OAuth/subscription) compatibility layer for pi-coding-agent — keeps ALL extension tools usable under the Claude subscription by mapping unknown flat tool names to mcp__pi__<name> on the wire instead of dropping them.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-provider",
+      "pi-coding-agent",
+      "anthropic",
+      "claude",
+      "oauth",
+      "subscription",
+      "tools"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-05T23:46:34.638Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

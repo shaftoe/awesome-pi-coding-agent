@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_maximilian-schwarzmueller.com_pi-coding-agent",
+  "name": "Pi: A Coding Agent That Gets Out Of The Way",
+  "url": "https://maximilian-schwarzmueller.com/articles/pi-coding-agent",
+  "source": "brave-web-search",
+  "description": "Pi is a minimal terminal coding agent that can read, edit and run code - but its real strength is how easily you can adapt it to your own workflow.",
+  "metadata": {
+    "title": "Pi: A Coding Agent That Gets Out Of The Way",
+    "name": "Pi: A Coding Agent That Gets Out Of The Way",
+    "description": "Pi is a minimal terminal coding agent that can read, edit and run code - but its real strength is how easily you can adapt it to your own workflow.",
+    "published_at": "2026-05-05T00:00:00",
+    "source_site": "Maximilian-schwarzmueller",
+    "source_url": "https://maximilian-schwarzmueller.com/articles/pi-coding-agent",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

@@ -9,7 +9,7 @@
     "repo_full_name": "alexanderop/pi-references",
     "description": "Pi extension that adds OpenCode-style references: local directories and Git repositories as agent context",
     "stars": 2,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

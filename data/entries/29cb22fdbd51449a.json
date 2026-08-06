@@ -1,0 +1,29 @@
+{
+  "id": "@andreaarrighi/pi-meat",
+  "name": "@andreaarrighi/pi-meat",
+  "url": "https://www.npmjs.com/package/@andreaarrighi/pi-meat",
+  "source": "npm-search",
+  "description": "Read code changes without the gristle: navigable reading diffs for Pi, powered by Meat.",
+  "metadata": {
+    "github_url": "https://github.com/arro000/pi-meat",
+    "npm_name": "@andreaarrighi/pi-meat",
+    "description": "Read code changes without the gristle: navigable reading diffs for Pi, powered by Meat.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "code-review",
+      "git-diff",
+      "meat"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-08-05T19:12:04.955Z",
+    "npm_downloads_monthly": 74,
+    "npm_downloads_weekly": 74,
+    "npm_score_final": 13.893165,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

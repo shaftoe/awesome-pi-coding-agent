@@ -1,0 +1,38 @@
+{
+  "id": "pi-mcb",
+  "name": "pi-mcb",
+  "url": "https://www.npmjs.com/package/pi-mcb",
+  "source": "npm-search",
+  "description": "Unified compaction + observational memory extension for Pi — compresses conversation context while preserving durable observations and reflections",
+  "metadata": {
+    "github_url": "https://github.com/MohamedElashri/pi-mcb",
+    "npm_name": "pi-mcb",
+    "description": "Unified compaction + observational memory extension for Pi — compresses conversation context while preserving durable observations and reflections",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "pi-agent",
+      "pi-mcb",
+      "mcb",
+      "compact",
+      "compaction",
+      "observational-memory",
+      "recall",
+      "ai",
+      "agents",
+      "cli"
+    ],
+    "version": "0.1.5",
+    "published_at": "2026-08-05T21:05:16.655Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

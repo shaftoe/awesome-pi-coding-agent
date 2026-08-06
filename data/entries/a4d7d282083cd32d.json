@@ -1,0 +1,31 @@
+{
+  "id": "BlockedPath-pi-meta-oauth",
+  "name": "BlockedPath-pi-meta-oauth",
+  "url": "https://github.com/BlockedPath/pi-meta-oauth",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/BlockedPath/pi-meta-oauth",
+    "repo_full_name": "BlockedPath/pi-meta-oauth",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "meta",
+      "muse-spark",
+      "oauth",
+      "pi",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-05T22:34:44Z",
+    "pushed_at": "2026-08-05T22:59:59Z",
+    "updated_at": "2026-08-05T23:00:04Z",
+    "size": 469,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

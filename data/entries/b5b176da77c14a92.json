@@ -1,0 +1,37 @@
+{
+  "id": "revazi-pi-career",
+  "name": "revazi-pi-career",
+  "url": "https://github.com/revazi/pi-career",
+  "source": "github-search",
+  "description": "Self-contained native Pi extension and Agent Skill for deterministic Career Core workflows",
+  "metadata": {
+    "github_url": "https://github.com/revazi/pi-career",
+    "repo_full_name": "revazi/pi-career",
+    "description": "Self-contained native Pi extension and Agent Skill for deterministic Career Core workflows",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ats",
+      "career-tools",
+      "deterministic",
+      "job-matching",
+      "job-search",
+      "local-first",
+      "pi-extension",
+      "pi-package",
+      "resume",
+      "resume-analysis",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-04T17:54:39Z",
+    "pushed_at": "2026-08-05T22:32:29Z",
+    "updated_at": "2026-08-05T22:32:32Z",
+    "size": 3282,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

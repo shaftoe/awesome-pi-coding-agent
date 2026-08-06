@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi-gui.com",
+  "name": "pi-gui — A native desktop for AI coding agents",
+  "url": "https://www.pi-gui.com/",
+  "source": "brave-web-search",
+  "description": "A beta macOS and Linux desktop interface for AI coding agents with GitHub Releases, persistent workspaces, and real-time session review.",
+  "metadata": {
+    "title": "pi-gui — A native desktop for AI coding agents",
+    "name": "pi-gui — A native desktop for AI coding agents",
+    "description": "A beta macOS and Linux desktop interface for AI coding agents with GitHub Releases, persistent workspaces, and real-time session review.",
+    "published_at": null,
+    "source_site": "pi-gui",
+    "source_url": "https://www.pi-gui.com/",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

@@ -3,11 +3,11 @@
   "name": "Pi Packages - Pi",
   "url": "https://badlogic-pi-mono.mintlify.app/coding-agent/pi-packages",
   "source": "brave-web-search",
-  "description": "# GitHub shorthand pi install git:github.com/user/repo # Full HTTPS URL pi install https://github.com/user/repo # With tag/commit (pinned) pi install git:github.com/user/repo@v1 pi install https://github.com/user/repo@v1.0.0",
+  "description": "Installing and creating Pi packages to share extensions, skills, prompts, and themes via npm or git",
   "metadata": {
     "title": "Pi Packages - Pi",
     "name": "Pi Packages - Pi",
-    "description": "# GitHub shorthand pi install git:github.com/user/repo # Full HTTPS URL pi install https://github.com/user/repo # With tag/commit (pinned) pi install git:github.com/user/repo@v1 pi install https://github.com/user/repo@v1.0.0",
+    "description": "Installing and creating Pi packages to share extensions, skills, prompts, and themes via npm or git",
     "published_at": "2026-02-28T07:45:10",
     "source_site": "Pi",
     "source_url": "https://badlogic-pi-mono.mintlify.app/coding-agent/pi-packages",

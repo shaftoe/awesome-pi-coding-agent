@@ -3,15 +3,15 @@
   "name": "Pi Coding Agent: A Self-Documenting, Extensible AI Partner - DEV Community",
   "url": "https://dev.to/theoklitosbam7/pi-coding-agent-a-self-documenting-extensible-ai-partner-dn",
   "source": "brave-web-search",
-  "description": "Exploring Pi's ability to read its own documentation, understand its codebase, and help extend or modify its behavior through natural conversation. Tagged with ai, agents, agentskills.",
+  "description": "\"Pi ships with powerful defaults but skips features like sub agents and plan mode. Instead, you can ask pi to build what you want or install a third party pi package that matches your workflow.\"",
   "metadata": {
     "title": "Pi Coding Agent: A Self-Documenting, Extensible AI Partner - DEV Community",
     "name": "Pi Coding Agent: A Self-Documenting, Extensible AI Partner - DEV Community",
-    "description": "Exploring <strong>Pi</strong>&#x27;s ability to read its own documentation, understand its codebase, and help extend or modify its behavior through natural conversation. Tagged with ai, <strong>agents</strong>, agentskills.",
+    "description": "\"Pi ships with powerful defaults but skips features like sub agents and plan mode. Instead, you can ask pi to build what you want or install a third party pi package that matches your workflow.\"",
     "published_at": "2026-04-13T11:40:30",
     "source_site": "DEV Community",
     "source_url": "https://dev.to/theoklitosbam7/pi-coding-agent-a-self-documenting-extensible-ai-partner-dn",
-    "discovery_hint": "brave:pi-coding-agent"
+    "discovery_hint": "brave:pi-package"
   },
   "health": {
     "score": 39,

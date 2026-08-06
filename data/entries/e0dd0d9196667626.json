@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-plugin-manager",
+  "name": "pi-plugin-manager · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-plugin-manager",
+  "source": "brave-web-search",
+  "description": "Review the source before installing third-party packages. A TUI for managing Pi plugins — see what's installed, search the catalog, install and remove packages, and bulk-update everything that's out of date.",
+  "metadata": {
+    "title": "pi-plugin-manager · Packages · Pi",
+    "name": "pi-plugin-manager · Packages · Pi",
+    "description": "Review the source before installing third-party packages. A TUI for managing Pi plugins — see what's installed, search the catalog, install and remove packages, and bulk-update everything that's out of date.",
+    "published_at": "2026-06-30T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-plugin-manager",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}
