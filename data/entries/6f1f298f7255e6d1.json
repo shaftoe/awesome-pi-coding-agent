@@ -1,0 +1,29 @@
+{
+  "id": "resume-from",
+  "name": "resume-from",
+  "url": "https://www.npmjs.com/package/resume-from",
+  "source": "npm-search",
+  "description": "Continue a coding session in a different agent, or a different profile.",
+  "metadata": {
+    "github_url": "https://github.com/alexei-led/resume-from",
+    "npm_name": "resume-from",
+    "description": "Continue a coding session in a different agent, or a different profile.",
+    "keywords": [
+      "pi-package",
+      "coding-agent",
+      "session-handoff",
+      "claude-code",
+      "codex"
+    ],
+    "version": "0.1.6",
+    "published_at": "2026-08-07T14:07:53.756Z",
+    "npm_downloads_monthly": 248,
+    "npm_downloads_weekly": 248,
+    "npm_score_final": 17.776163,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

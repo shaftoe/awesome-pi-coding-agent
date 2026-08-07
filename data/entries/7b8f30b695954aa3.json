@@ -10,7 +10,7 @@
     "description": "Pins the user message you are reading to the top of the pi transcript - it slides up, stops, and hands over to the previous turn as you scroll back",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 3,
     "topics": [
       "coding-agent",
       "pi",
@@ -22,10 +22,10 @@
     ],
     "language": "TypeScript",
     "archived": false,
-    "created_at": "2026-08-06T22:34:05Z",
-    "pushed_at": "2026-08-06T22:57:28Z",
-    "updated_at": "2026-08-06T22:57:37Z",
-    "size": 3626,
+    "created_at": "2026-08-07T06:42:03Z",
+    "pushed_at": "2026-08-07T19:13:10Z",
+    "updated_at": "2026-08-07T06:42:22Z",
+    "size": 645,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

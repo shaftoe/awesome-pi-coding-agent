@@ -1,0 +1,30 @@
+{
+  "id": "pi-grok-usage",
+  "name": "pi-grok-usage",
+  "url": "https://www.npmjs.com/package/pi-grok-usage",
+  "source": "npm-search",
+  "description": "Pi extension that shows xAI SuperGrok subscription usage in the status line",
+  "metadata": {
+    "github_url": "https://github.com/puetsua/pi-grok-usage",
+    "npm_name": "pi-grok-usage",
+    "description": "Pi extension that shows xAI SuperGrok subscription usage in the status line",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "xai",
+      "grok",
+      "usage",
+      "status-line"
+    ],
+    "version": "1.0.4",
+    "published_at": "2026-07-31T18:24:42.164Z",
+    "npm_downloads_monthly": 653,
+    "npm_downloads_weekly": 653,
+    "npm_score_final": 20.945309,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

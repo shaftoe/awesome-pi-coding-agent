@@ -8,9 +8,9 @@
     "github_url": "https://github.com/praneybehl/llm-wiki-plugin",
     "repo_full_name": "praneybehl/llm-wiki-plugin",
     "description": "Andrej Karpathy's LLM Wiki pattern as a skill & Claude Code plugin — turn accumulated sources into a self-maintaining, scalable markdown knowledge base.",
-    "stars": 84,
+    "stars": 85,
     "forks": 15,
-    "open_issues": 11,
+    "open_issues": 12,
     "topics": [
       "ai-tools",
       "claude-code-plugin",
@@ -35,7 +35,7 @@
     "archived": false,
     "created_at": "2026-04-15T08:33:42Z",
     "pushed_at": "2026-07-20T15:48:47Z",
-    "updated_at": "2026-08-07T01:00:53Z",
+    "updated_at": "2026-08-07T06:23:31Z",
     "size": 3591,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

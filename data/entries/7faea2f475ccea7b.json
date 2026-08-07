@@ -1,0 +1,32 @@
+{
+  "id": "waylake-poketokenbar-sync",
+  "name": "waylake-poketokenbar-sync",
+  "url": "https://github.com/waylake/poketokenbar-sync",
+  "source": "github-search",
+  "description": "pi coding agent extension — syncs your pi token usage into PokeTokenBar (OpenCode data path). Realtime + backfill, no double counting, verified against PokeTokenBar's real parser.",
+  "metadata": {
+    "github_url": "https://github.com/waylake/poketokenbar-sync",
+    "repo_full_name": "waylake/poketokenbar-sync",
+    "description": "pi coding agent extension — syncs your pi token usage into PokeTokenBar (OpenCode data path). Realtime + backfill, no double counting, verified against PokeTokenBar's real parser.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "openai-compatible",
+      "opencode",
+      "pi-extension",
+      "pi-package",
+      "poketokenbar",
+      "token-usage"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-07T12:08:02Z",
+    "pushed_at": "2026-08-07T12:41:53Z",
+    "updated_at": "2026-08-07T12:42:02Z",
+    "size": 98,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

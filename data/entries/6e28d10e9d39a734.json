@@ -1,0 +1,25 @@
+{
+  "id": "@moyai/pi-session-hoarder",
+  "name": "@moyai/pi-session-hoarder",
+  "url": "https://www.npmjs.com/package/@moyai/pi-session-hoarder",
+  "source": "npm-search",
+  "description": "🐿️ A Pi extension that archives sessions into local content-addressed storage.",
+  "metadata": {
+    "github_url": "https://github.com/moyai-ai/pi-session-hoarder",
+    "npm_name": "@moyai/pi-session-hoarder",
+    "description": "🐿️ A Pi extension that archives sessions into local content-addressed storage.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-07T12:55:21.514Z",
+    "npm_downloads_monthly": 84,
+    "npm_downloads_weekly": 84,
+    "npm_score_final": 13.501199,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

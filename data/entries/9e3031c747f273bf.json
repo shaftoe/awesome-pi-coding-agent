@@ -1,0 +1,29 @@
+{
+  "id": "pi-multilang-alias",
+  "name": "pi-multilang-alias",
+  "url": "https://www.npmjs.com/package/pi-multilang-alias",
+  "source": "npm-search",
+  "description": "Multilingual and keyboard-layout aliases for Pi commands",
+  "metadata": {
+    "github_url": "https://github.com/hyein-cbio/pi-multilang-alias",
+    "npm_name": "pi-multilang-alias",
+    "description": "Multilingual and keyboard-layout aliases for Pi commands",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "multilingual",
+      "keyboard-layout",
+      "command-alias"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-31T17:54:04.045Z",
+    "npm_downloads_monthly": 148,
+    "npm_downloads_weekly": 148,
+    "npm_score_final": 15.645972,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

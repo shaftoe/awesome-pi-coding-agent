@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Curated pi extension suite: powerline status bar + random vibe + token/elapsed-time stats, /context, and ccstyle tool rendering",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/hotsnow-sean/pi-zero",
     "npm_name": "@zerosnow/pi-zero",
     "description": "Curated pi extension suite: powerline status bar + random vibe + token/elapsed-time stats, /context, and ccstyle tool rendering",
     "keywords": [
@@ -16,8 +16,8 @@
       "powerline",
       "vibe"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-08-06T03:18:00.066Z",
+    "version": "0.2.0",
+    "published_at": "2026-08-07T06:20:31.531Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,
