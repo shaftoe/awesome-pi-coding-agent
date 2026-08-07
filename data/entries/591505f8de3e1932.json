@@ -11,7 +11,7 @@
     "published_at": "2026-07-31T16:00:04",
     "source_site": "DeepSeek",
     "source_url": "https://api-docs.deepseek.com/quick_start/agent_integrations/pi_mono/",
-    "discovery_hint": "brave:pi-agent"
+    "discovery_hint": "brave:pi-coding-agent"
   },
   "category": "article"
 }

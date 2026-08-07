@@ -1,0 +1,38 @@
+{
+  "id": "SASUKE40-pi-daemon",
+  "name": "SASUKE40-pi-daemon",
+  "url": "https://github.com/SASUKE40/pi-daemon",
+  "source": "github-search",
+  "description": "Run the Pi coding agent in a persistent session with a mobile PWA secured by Cloudflare Tunnel and Access.",
+  "metadata": {
+    "github_url": "https://github.com/SASUKE40/pi-daemon",
+    "repo_full_name": "SASUKE40/pi-daemon",
+    "description": "Run the Pi coding agent in a persistent session with a mobile PWA secured by Cloudflare Tunnel and Access.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "cloudflare-access",
+      "cloudflare-tunnel",
+      "coding-agent",
+      "nodejs",
+      "pi-coding-agent",
+      "progressive-web-app",
+      "pwa",
+      "remote-development",
+      "self-hosted",
+      "typescript",
+      "web-push"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-06T04:44:10Z",
+    "pushed_at": "2026-08-07T23:19:53Z",
+    "updated_at": "2026-08-07T23:19:49Z",
+    "size": 1002,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

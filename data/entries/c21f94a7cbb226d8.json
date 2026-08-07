@@ -8,7 +8,7 @@
     "github_url": "https://github.com/num-scope/pix",
     "repo_full_name": "num-scope/pix",
     "description": "The best way to use pi agent.",
-    "stars": 51,
+    "stars": 52,
     "forks": 9,
     "open_issues": 7,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-14T03:35:50Z",
     "pushed_at": "2026-08-04T05:28:13Z",
-    "updated_at": "2026-08-06T03:46:47Z",
+    "updated_at": "2026-08-07T11:11:01Z",
     "size": 6182,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

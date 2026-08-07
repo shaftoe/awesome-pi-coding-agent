@@ -1,0 +1,31 @@
+{
+  "id": "pi-local-ocr",
+  "name": "pi-local-ocr",
+  "url": "https://www.npmjs.com/package/pi-local-ocr",
+  "source": "npm-search",
+  "description": "Local OCR for Pi — extract text and pixel coordinates from any image via macOS Vision. No network, no API keys. Ideal for reading simulator screenshots when the model cannot see images.",
+  "metadata": {
+    "github_url": "https://github.com/Ayagikei/pi-local-ocr",
+    "npm_name": "pi-local-ocr",
+    "description": "Local OCR for Pi — extract text and pixel coordinates from any image via macOS Vision. No network, no API keys. Ideal for reading simulator screenshots when the model cannot see images.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "ocr",
+      "screenshot",
+      "vision"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-07T17:13:22.878Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

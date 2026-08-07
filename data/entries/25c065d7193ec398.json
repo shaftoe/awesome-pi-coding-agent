@@ -8,18 +8,18 @@
     "github_url": "https://github.com/doner21/pi-config",
     "repo_full_name": "doner21/pi-config",
     "description": "Pi coding agent configuration — agents, skills, extensions, and NenFlow v3 setup",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-01T17:32:45Z",
-    "pushed_at": "2026-05-01T17:35:22Z",
-    "updated_at": "2026-05-03T11:41:16Z",
-    "size": 3220,
+    "pushed_at": "2026-08-07T18:18:18Z",
+    "updated_at": "2026-08-07T18:18:24Z",
+    "size": 18372,
     "license": null,
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
     "score": 58,

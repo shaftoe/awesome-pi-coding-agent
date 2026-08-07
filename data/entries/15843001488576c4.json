@@ -1,0 +1,25 @@
+{
+  "id": "@yargote/matty",
+  "name": "@yargote/matty",
+  "url": "https://www.npmjs.com/package/@yargote/matty",
+  "source": "npm-search",
+  "description": "Matty Core for Pi",
+  "metadata": {
+    "github_url": "https://github.com/yersonargotev/matty",
+    "npm_name": "@yargote/matty",
+    "description": "Matty Core for Pi",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-07-31T02:23:34.140Z",
+    "npm_downloads_monthly": 260,
+    "npm_downloads_weekly": 260,
+    "npm_score_final": 17.876558,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

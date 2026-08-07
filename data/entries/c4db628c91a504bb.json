@@ -1,0 +1,25 @@
+{
+  "id": "pi-oilrig-oilrig-hub",
+  "name": "pi-oilrig-oilrig-hub",
+  "url": "https://github.com/pi-oilrig/oilrig-hub",
+  "source": "github-search",
+  "description": "pi extension: the one extension pi installs — loads, hot-reloads, syncs and manages every registered package, mcp server or skill through a dispatch proxy; serves skills (SKILL.md or pi.skills globs) through the on-demand `skill` tool.",
+  "metadata": {
+    "github_url": "https://github.com/pi-oilrig/oilrig-hub",
+    "repo_full_name": "pi-oilrig/oilrig-hub",
+    "description": "pi extension: the one extension pi installs — loads, hot-reloads, syncs and manages every registered package, mcp server or skill through a dispatch proxy; serves skills (SKILL.md or pi.skills globs) through the on-demand `skill` tool.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-07T09:15:34Z",
+    "pushed_at": "2026-08-07T14:10:26Z",
+    "updated_at": "2026-08-07T14:12:19Z",
+    "size": 64,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

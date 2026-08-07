@@ -1,0 +1,31 @@
+{
+  "id": "vieko-pi-prose",
+  "name": "vieko-pi-prose",
+  "url": "https://github.com/vieko/pi-prose",
+  "source": "github-search",
+  "description": "Make every model write the way you want, with consistent prose rules and styles you can switch instantly without restarting Pi.",
+  "metadata": {
+    "github_url": "https://github.com/vieko/pi-prose",
+    "repo_full_name": "vieko/pi-prose",
+    "description": "Make every model write the way you want, with consistent prose rules and styles you can switch instantly without restarting Pi.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "llm",
+      "output-styles",
+      "pi",
+      "pi-package",
+      "system-prompt"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-07T21:24:20Z",
+    "pushed_at": "2026-08-07T22:02:56Z",
+    "updated_at": "2026-08-07T22:02:59Z",
+    "size": 68,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

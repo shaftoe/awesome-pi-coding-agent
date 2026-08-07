@@ -1,0 +1,25 @@
+{
+  "id": "tayyabmh-pi-trending",
+  "name": "tayyabmh-pi-trending",
+  "url": "https://github.com/tayyabmh/pi-trending",
+  "source": "github-search",
+  "description": "Discover trending Pi Coding Agent packages from the terminal",
+  "metadata": {
+    "github_url": "https://github.com/tayyabmh/pi-trending",
+    "repo_full_name": "tayyabmh/pi-trending",
+    "description": "Discover trending Pi Coding Agent packages from the terminal",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-07T14:27:42Z",
+    "pushed_at": "2026-08-07T14:33:19Z",
+    "updated_at": "2026-08-07T14:33:59Z",
+    "size": 26,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "pi-agent-backup-migrate",
+  "name": "pi-agent-backup-migrate",
+  "url": "https://www.npmjs.com/package/pi-agent-backup-migrate",
+  "source": "npm-search",
+  "description": "Backup, restore, and migrate the complete pi coding agent state (long-term memory, sessions, skills, extensions, config) across machines. Cross-platform: Windows (Git Bash) / macOS / Linux.",
+  "metadata": {
+    "github_url": "https://github.com/fengfanfan-max/pi-agent-backup-migrate",
+    "npm_name": "pi-agent-backup-migrate",
+    "description": "Backup, restore, and migrate the complete pi coding agent state (long-term memory, sessions, skills, extensions, config) across machines. Cross-platform: Windows (Git Bash) / macOS / Linux.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "skill",
+      "backup",
+      "migrate",
+      "agent-state"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-07T08:05:59.215Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

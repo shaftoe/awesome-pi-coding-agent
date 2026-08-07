@@ -1,0 +1,25 @@
+{
+  "id": "Wayaans-heishi",
+  "name": "Wayaans-heishi",
+  "url": "https://github.com/Wayaans/heishi",
+  "source": "github-search",
+  "description": "Pi subagent with A Bun-managed, strict TypeScript package for project-local pi extensions.",
+  "metadata": {
+    "github_url": "https://github.com/Wayaans/heishi",
+    "repo_full_name": "Wayaans/heishi",
+    "description": "Pi subagent with A Bun-managed, strict TypeScript package for project-local pi extensions.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-07T06:33:05Z",
+    "pushed_at": "2026-08-07T06:38:08Z",
+    "updated_at": "2026-08-07T06:38:57Z",
+    "size": 70,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

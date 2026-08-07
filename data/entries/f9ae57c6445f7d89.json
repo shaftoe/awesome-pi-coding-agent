@@ -1,0 +1,31 @@
+{
+  "id": "@zhenhuang/pi-xai-search",
+  "name": "@zhenhuang/pi-xai-search",
+  "url": "https://www.npmjs.com/package/@zhenhuang/pi-xai-search",
+  "source": "npm-search",
+  "description": "Model-independent live X search for Pi, powered by xAI's native x_search tool",
+  "metadata": {
+    "github_url": "https://github.com/ZhenHuangLab/pi-xai-search",
+    "npm_name": "@zhenhuang/pi-xai-search",
+    "description": "Model-independent live X search for Pi, powered by xAI's native x_search tool",
+    "keywords": [
+      "grok",
+      "pi-extension",
+      "pi-package",
+      "search",
+      "twitter",
+      "x-search",
+      "xai"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-07-31T08:44:37.630Z",
+    "npm_downloads_monthly": 372,
+    "npm_downloads_weekly": 372,
+    "npm_score_final": 19.259113,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

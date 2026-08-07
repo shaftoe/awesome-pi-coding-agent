@@ -9,7 +9,7 @@
     "repo_full_name": "leohenon/pi-vim",
     "description": "Vim mode for pi with motions, text objects, and visual mode.",
     "stars": 10,
-    "forks": 2,
+    "forks": 3,
     "open_issues": 0,
     "topics": [
       "pi-agent",

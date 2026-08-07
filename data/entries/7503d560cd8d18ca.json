@@ -1,0 +1,26 @@
+{
+  "id": "pi-mcp-kit",
+  "name": "pi-mcp-kit",
+  "url": "https://www.npmjs.com/package/pi-mcp-kit",
+  "source": "npm-search",
+  "description": "MCP Gateway for Pi — stdio/SSE/Streamable HTTP transports, session recovery, connection pooling, structured error handling.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-mcp-kit",
+    "description": "MCP Gateway for Pi — stdio/SSE/Streamable HTTP transports, session recovery, connection pooling, structured error handling.",
+    "keywords": [
+      "pi-package",
+      "mcp"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-07-31T16:23:04.286Z",
+    "npm_downloads_monthly": 153,
+    "npm_downloads_weekly": 153,
+    "npm_score_final": 15.733074,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

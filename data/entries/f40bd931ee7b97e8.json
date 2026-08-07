@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Myka2003/pi-dpi",
     "repo_full_name": "Myka2003/pi-dpi",
     "description": "dπ — decouple & distribute your AI agent: git-versioned personas, skills, extensions, and sessions for the pi coding agent\"",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,10 +16,10 @@
     "archived": false,
     "created_at": "2026-07-21T07:34:47Z",
     "pushed_at": "2026-08-05T01:58:26Z",
-    "updated_at": "2026-08-05T01:58:30Z",
+    "updated_at": "2026-08-07T06:12:35Z",
     "size": 40075,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }
