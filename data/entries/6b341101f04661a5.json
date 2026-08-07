@@ -3,11 +3,11 @@
   "name": "Package Catalog · Pi",
   "url": "https://pi.dev/packages?type=theme",
   "source": "brave-web-search",
-  "description": "Extensions, skills, prompt templates, and themes published to npm. Install with pi install npm:. See the package docs for details · Personal Pi toolkit: extensions and themes",
+  "description": "Claude Code–style startup header for Pi — animated Pi logo with a 9-color palette, toggleable IBM stripes and Minecraft themes; configurable info bar displays version, model, resource stats, AGENTS.md marker, cwd, and a customizable slogan.",
   "metadata": {
     "title": "Package Catalog · Pi",
     "name": "Package Catalog · Pi",
-    "description": "Extensions, skills, prompt templates, and themes published to npm. Install with pi install npm:<package>. See the package docs for details · Personal Pi toolkit: extensions and themes",
+    "description": "Claude Code–style startup header for Pi — animated Pi logo with a 9-color palette, toggleable IBM stripes and Minecraft themes; configurable info bar displays version, model, resource stats, AGENTS.md marker, cwd, and a customizable slogan.",
     "published_at": "2026-07-06T20:30:02",
     "source_site": "Pi",
     "source_url": "https://pi.dev/packages?type=theme",

@@ -1,0 +1,25 @@
+{
+  "id": "auchan-pi-on-code",
+  "name": "auchan-pi-on-code",
+  "url": "https://github.com/auchan/pi-on-code",
+  "source": "github-search",
+  "description": "GUI experience for the popular Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/auchan/pi-on-code",
+    "repo_full_name": "auchan/pi-on-code",
+    "description": "GUI experience for the popular Pi Coding Agent",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-19T09:44:15Z",
+    "pushed_at": "2026-08-06T17:56:24Z",
+    "updated_at": "2026-08-06T17:58:39Z",
+    "size": 3986,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

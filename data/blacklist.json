@@ -44067,5 +44067,231 @@
 		"reason": "Not about the Pi coding agent (pi.dev) — about 'Litos', a separate C#/.NET coding agent, not Pi",
 		"blacklisted_at": "2026-08-06T00:04:39.439Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/alexei-led/resume-from",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-07T01:42:28.454Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://docs.aveva.com/bundle/connect-to-pi-agent/page/1513096.html",
+		"reason": "industrial pi signal: \"aveva\"",
+		"blacklisted_at": "2026-08-07T01:42:28.471Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@cnife/pi-prune-context",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-07T01:42:28.531Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://agent-safehouse.dev/docs/agent-investigations/pi",
+		"reason": "blocked name: pi",
+		"blacklisted_at": "2026-08-07T01:42:28.622Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/todd-zhao/pi-studio-team-server",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-07T01:42:28.64Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=nVN-6VfOJXM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-07T01:42:28.651Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Pheobe-Southwood/SnowLuma-agent",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-07T01:42:28.673Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=VwHxnjoTMYw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-07T01:42:28.681Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=xJEFjE88wdw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-07T01:42:28.72Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=lw49R4hCbJU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-07T01:42:28.732Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=YFmvmbguCic",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-07T01:42:28.876Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://bookanalysis.com/yann-martel/life-of-pi/themes-analysis/",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-08-07T01:42:28.944Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=2-5ESMlXk4M",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-07T01:42:29.075Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=t_GeNnbkUCw",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-07T01:42:29.126Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/nguyenphutrong/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-07T01:42:29.154Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@zhushanwen/pi-rename-session",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-07T01:42:29.228Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.pi-top.com/blog/10-software-packages-you-can-add-to-your-pi-top-4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-07T01:42:29.269Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=J4sVCxrTRBk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-07T01:42:29.29Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=o8-EgQhqdU0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-07T01:42:29.344Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/mwrshah/flitterbot",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-07T01:42:29.35Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@brushes/course-ordering-plus",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-07T01:42:29.372Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://forums.raspberrypi.com/viewtopic.php?t=359247",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-07T01:42:29.439Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://developer.puter.com/labs/node/",
+		"reason": "Not about the pi.dev coding agent — Node.js browser runtime that only mentions Pi Agent in passing",
+		"blacklisted_at": "2026-08-07T01:49:58.285Z",
+		"source": "manual"
 	}
 ]

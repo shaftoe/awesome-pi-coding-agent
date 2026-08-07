@@ -1,0 +1,28 @@
+{
+  "id": "pi-grok-build-acp",
+  "name": "pi-grok-build-acp",
+  "url": "https://www.npmjs.com/package/pi-grok-build-acp",
+  "source": "npm-search",
+  "description": "Use the official Grok Build ACP agent from Pi with interactive permission bridging.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-grok-build-acp",
+    "description": "Use the official Grok Build ACP agent from Pi with interactive permission bridging.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "grok-build",
+      "acp"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-30T11:10:45.063Z",
+    "npm_downloads_monthly": 148,
+    "npm_downloads_weekly": 148,
+    "npm_score_final": 15.8356695,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

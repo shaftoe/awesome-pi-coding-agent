@@ -1,0 +1,29 @@
+{
+  "id": "@xtsoftwarelabs/neatcontext-pi",
+  "name": "@xtsoftwarelabs/neatcontext-pi",
+  "url": "https://www.npmjs.com/package/@xtsoftwarelabs/neatcontext-pi",
+  "source": "npm-search",
+  "description": "Save pi work as reusable, domain-aware context",
+  "metadata": {
+    "github_url": "https://github.com/XTSoftwareLabs/neatcontext-plugins",
+    "npm_name": "@xtsoftwarelabs/neatcontext-pi",
+    "description": "Save pi work as reusable, domain-aware context",
+    "keywords": [
+      "pi-package",
+      "neatcontext",
+      "context",
+      "knowledge-management",
+      "grounding"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-30T21:29:05.548Z",
+    "npm_downloads_monthly": 86,
+    "npm_downloads_weekly": 86,
+    "npm_score_final": 13.900113,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

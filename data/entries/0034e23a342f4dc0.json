@@ -1,0 +1,25 @@
+{
+  "id": "LieGeee-pi--",
+  "name": "LieGeee-pi--",
+  "url": "https://github.com/LieGeee/pi--",
+  "source": "github-search",
+  "description": "Pi coding agent suite: Pi config/skills/extensions, pi-gui desktop source, and mobile (uni-app client, web client, relay, Android APK).",
+  "metadata": {
+    "github_url": "https://github.com/LieGeee/pi--",
+    "repo_full_name": "LieGeee/pi--",
+    "description": "Pi coding agent suite: Pi config/skills/extensions, pi-gui desktop source, and mobile (uni-app client, web client, relay, Android APK).",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-04T09:08:29Z",
+    "pushed_at": "2026-08-06T10:12:40Z",
+    "updated_at": "2026-08-06T10:13:52Z",
+    "size": 9695,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

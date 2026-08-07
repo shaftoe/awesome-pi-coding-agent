@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_daily.dev_how-i-turned-pi-into-the-ultimate-coding",
+  "name": "How I Turned Pi Into the Ultimate Coding Agent | daily.dev",
+  "url": "https://daily.dev/posts/how-i-turned-pi-into-the-ultimate-coding-agent-ptd0ojlb5",
+  "source": "brave-web-search",
+  "description": "A deep dive into customizing the Pi coding agent through its extension system, comparing it to Neovim in terms of deep configurability. Pi ships with a minimal...",
+  "metadata": {
+    "title": "How I Turned Pi Into the Ultimate Coding Agent | daily.dev",
+    "name": "How I Turned Pi Into the Ultimate Coding Agent | daily.dev",
+    "description": "A deep dive into customizing the Pi coding agent through its extension system, comparing it to Neovim in terms of deep configurability. Pi ships with a minimal...",
+    "published_at": "2026-06-09T18:17:40",
+    "source_site": "daily.dev",
+    "source_url": "https://daily.dev/posts/how-i-turned-pi-into-the-ultimate-coding-agent-ptd0ojlb5",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

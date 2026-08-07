@@ -1,0 +1,30 @@
+{
+  "id": "@feature-forge/cli",
+  "name": "@feature-forge/cli",
+  "url": "https://www.npmjs.com/package/@feature-forge/cli",
+  "source": "npm-search",
+  "description": "Pi extension for autonomous software engineering — structured discovery, ADR-driven design, and multi-agent implementation from idea to PR.",
+  "metadata": {
+    "github_url": "https://github.com/misiekhardcore/feature-forge",
+    "npm_name": "@feature-forge/cli",
+    "description": "Pi extension for autonomous software engineering — structured discovery, ADR-driven design, and multi-agent implementation from idea to PR.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "coding-agent",
+      "orchestrator",
+      "autonomous",
+      "software-engineering"
+    ],
+    "version": "0.1.5",
+    "published_at": "2026-07-30T22:57:13.195Z",
+    "npm_downloads_monthly": 247,
+    "npm_downloads_weekly": 247,
+    "npm_score_final": 17.723545,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

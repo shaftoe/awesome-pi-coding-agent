@@ -10,7 +10,7 @@
     "description": "A personal suite of extensions and resources for Pi",
     "stars": 0,
     "forks": 0,
-    "open_issues": 4,
+    "open_issues": 5,
     "topics": [
       "bun",
       "pi",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-31T13:55:00Z",
-    "pushed_at": "2026-08-05T23:56:43Z",
+    "pushed_at": "2026-08-06T00:02:15Z",
     "updated_at": "2026-08-05T23:56:47Z",
-    "size": 43379,
+    "size": 43662,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

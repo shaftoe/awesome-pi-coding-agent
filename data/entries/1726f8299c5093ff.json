@@ -1,0 +1,29 @@
+{
+  "id": "rinco-pi-sakura",
+  "name": "rinco-pi-sakura",
+  "url": "https://www.npmjs.com/package/rinco-pi-sakura",
+  "source": "npm-search",
+  "description": "Rinco's personal Sakura Macaron theme and animated cyberdeck header for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/Rinisnotarobot/rinco-pi-sakura",
+    "npm_name": "rinco-pi-sakura",
+    "description": "Rinco's personal Sakura Macaron theme and animated cyberdeck header for Pi.",
+    "keywords": [
+      "pi-package",
+      "pi-theme",
+      "pi-extension",
+      "tui",
+      "sakura"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-08-06T08:13:54.828Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-theme"
+  },
+  "category": "theme"
+}

@@ -10,7 +10,7 @@
     "description": "Facts the model cannot know -- the date, the machine, and your git state -- delivered to pi as <pi-note> blocks.",
     "stars": 4,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "coding-agent",
       "context",
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-25T20:28:39Z",
-    "pushed_at": "2026-07-29T07:05:27Z",
+    "pushed_at": "2026-08-05T05:54:51Z",
     "updated_at": "2026-08-01T16:49:47Z",
-    "size": 369,
+    "size": 440,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

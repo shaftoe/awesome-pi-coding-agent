@@ -1,0 +1,32 @@
+{
+  "id": "park-csu-pi-latex-renderer",
+  "name": "park-csu-pi-latex-renderer",
+  "url": "https://github.com/park-csu/pi-latex-renderer",
+  "source": "github-search",
+  "description": "Render LaTeX in Pi assistant messages with terminal-native images",
+  "metadata": {
+    "github_url": "https://github.com/park-csu/pi-latex-renderer",
+    "repo_full_name": "park-csu/pi-latex-renderer",
+    "description": "Render LaTeX in Pi assistant messages with terminal-native images",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "latex",
+      "mathjax",
+      "pi-coding-agent",
+      "pi-package",
+      "terminal",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-06T05:55:15Z",
+    "pushed_at": "2026-08-06T07:15:24Z",
+    "updated_at": "2026-08-06T07:15:47Z",
+    "size": 196,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "pi-job-search",
+  "name": "pi-job-search",
+  "url": "https://www.npmjs.com/package/pi-job-search",
+  "source": "npm-search",
+  "description": "A local-first Pi package for discovering jobs, ranking fit, drafting applications, and tracking outcomes.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-job-search",
+    "description": "A local-first Pi package for discovering jobs, ranking fit, drafting applications, and tracking outcomes.",
+    "keywords": [
+      "pi-package",
+      "job-search",
+      "career",
+      "job-application"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-30T15:35:01.421Z",
+    "npm_downloads_monthly": 137,
+    "npm_downloads_weekly": 137,
+    "npm_score_final": 15.44885,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

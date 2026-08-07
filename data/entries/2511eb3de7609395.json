@@ -10,7 +10,7 @@
     "description": "The last harness you'll ever need.",
     "stars": 21,
     "forks": 2,
-    "open_issues": 51,
+    "open_issues": 54,
     "topics": [
       "agent-orchestration",
       "cli",
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-09T10:16:20Z",
-    "pushed_at": "2026-08-05T21:09:33Z",
-    "updated_at": "2026-08-05T21:09:51Z",
-    "size": 6334,
+    "pushed_at": "2026-08-06T20:46:03Z",
+    "updated_at": "2026-08-06T09:53:00Z",
+    "size": 6543,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/iurysza/pi-extensions",
     "repo_full_name": "iurysza/pi-extensions",
     "description": "Pi extension packages",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -20,7 +20,7 @@
     "archived": false,
     "created_at": "2026-07-24T10:50:58Z",
     "pushed_at": "2026-08-05T11:56:00Z",
-    "updated_at": "2026-08-05T13:47:51Z",
+    "updated_at": "2026-08-06T12:43:25Z",
     "size": 16854,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

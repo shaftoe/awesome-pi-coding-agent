@@ -1,0 +1,25 @@
+{
+  "id": "hasna-skills",
+  "name": "hasna-skills",
+  "url": "https://github.com/hasna/skills",
+  "source": "github-search",
+  "description": "API-based skills for AI coding agents — one contract that works with Claude, Codex, Cursor, OpenCode, Gemini, Windsurf and Pi, and any MCP host.",
+  "metadata": {
+    "github_url": "https://github.com/hasna/skills",
+    "repo_full_name": "hasna/skills",
+    "description": "API-based skills for AI coding agents — one contract that works with Claude, Codex, Cursor, OpenCode, Gemini, Windsurf and Pi, and any MCP host.",
+    "stars": 24,
+    "forks": 25,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-14T10:40:22Z",
+    "pushed_at": "2026-08-06T17:50:11Z",
+    "updated_at": "2026-08-06T17:05:34Z",
+    "size": 4804,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

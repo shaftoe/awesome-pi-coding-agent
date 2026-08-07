@@ -3,26 +3,26 @@
   "name": "@hobin/developer",
   "url": "https://www.npmjs.com/package/@hobin/developer",
   "source": "npm-search",
-  "description": "A Pi root runtime for explicit coding judgments, bounded mutation, and claim-relative verification.",
+  "description": "Branch-aware judgment routing, evidence gates, and focused development skills for Pi.",
   "metadata": {
     "github_url": "https://github.com/dev-hobin/agent",
     "npm_name": "@hobin/developer",
-    "description": "A Pi root runtime for explicit coding judgments, bounded mutation, and claim-relative verification.",
+    "description": "Branch-aware judgment routing, evidence gates, and focused development skills for Pi.",
     "keywords": [
       "pi-package",
       "pi",
       "developer",
       "skills"
     ],
-    "version": "0.1.18",
-    "published_at": "2026-08-03T17:53:17.899Z",
-    "npm_downloads_monthly": 2169,
-    "npm_downloads_weekly": 761,
-    "npm_score_final": 25.626146,
+    "version": "0.1.19",
+    "published_at": "2026-08-06T02:04:26.350Z",
+    "npm_downloads_monthly": 2475,
+    "npm_downloads_weekly": 846,
+    "npm_score_final": 25.714626,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "misc"
+  "category": "extension"
 }

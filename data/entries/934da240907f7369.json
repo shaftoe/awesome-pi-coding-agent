@@ -1,0 +1,30 @@
+{
+  "id": "phyzess-pi-webseek",
+  "name": "phyzess-pi-webseek",
+  "url": "https://github.com/phyzess/pi-webseek",
+  "source": "github-search",
+  "description": "Pi extension: DeepSeek V4 Flash native web search (server-side search/read/verify/summarize) with fast/external/verify modes",
+  "metadata": {
+    "github_url": "https://github.com/phyzess/pi-webseek",
+    "repo_full_name": "phyzess/pi-webseek",
+    "description": "Pi extension: DeepSeek V4 Flash native web search (server-side search/read/verify/summarize) with fast/external/verify modes",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "deepseek",
+      "pi-extension",
+      "pi-package",
+      "web-search"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-06T02:43:09Z",
+    "pushed_at": "2026-08-06T02:53:07Z",
+    "updated_at": "2026-08-06T02:53:10Z",
+    "size": 205,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

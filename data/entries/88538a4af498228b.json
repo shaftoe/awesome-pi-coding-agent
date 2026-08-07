@@ -1,0 +1,25 @@
+{
+  "id": "cyril265-pi-extensions",
+  "name": "cyril265-pi-extensions",
+  "url": "https://github.com/cyril265/pi-extensions",
+  "source": "github-search",
+  "description": "Extensions, packages, and utilities for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/cyril265/pi-extensions",
+    "repo_full_name": "cyril265/pi-extensions",
+    "description": "Extensions, packages, and utilities for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-06T21:17:58Z",
+    "pushed_at": "2026-08-06T21:18:01Z",
+    "updated_at": "2026-08-06T21:18:05Z",
+    "size": 338,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
