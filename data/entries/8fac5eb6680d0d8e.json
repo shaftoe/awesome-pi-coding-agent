@@ -3,11 +3,11 @@
   "name": "wangrzneu-pi-agent-config",
   "url": "https://github.com/wangrzneu/pi-agent-config",
   "source": "github-search",
-  "description": "",
+  "description": "A curated set of extensions, skills, and prompts that make Pi safer, more focused, and more efficient — with sandboxing, planning mode, and a rich TUI toolkit.",
   "metadata": {
     "github_url": "https://github.com/wangrzneu/pi-agent-config",
     "repo_full_name": "wangrzneu/pi-agent-config",
-    "description": "",
+    "description": "A curated set of extensions, skills, and prompts that make Pi safer, more focused, and more efficient — with sandboxing, planning mode, and a rich TUI toolkit.",
     "stars": 2,
     "forks": 0,
     "open_issues": 0,
@@ -15,11 +15,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-21T14:07:52Z",
-    "pushed_at": "2026-08-05T14:28:52Z",
-    "updated_at": "2026-08-05T14:30:43Z",
-    "size": 355,
+    "pushed_at": "2026-08-06T18:11:33Z",
+    "updated_at": "2026-08-06T18:11:41Z",
+    "size": 503,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
-  "category": "misc"
+  "category": "extension"
 }

@@ -9,7 +9,7 @@
     "repo_full_name": "sherif-fanous/pi-presets-plus",
     "description": "A Pi coding agent extension for presets that bundle a model, thinking level, tools, and system prompt, with a TUI on top.",
     "stars": 2,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

@@ -1,0 +1,27 @@
+{
+  "id": "@nicknisi/pi-save-md",
+  "name": "@nicknisi/pi-save-md",
+  "url": "https://www.npmjs.com/package/@nicknisi/pi-save-md",
+  "source": "npm-search",
+  "description": "Custom rotating verbs for the working spinner",
+  "metadata": {
+    "github_url": "https://github.com/nicknisi/pi-extensions",
+    "npm_name": "@nicknisi/pi-spinner",
+    "description": "Custom rotating verbs for the working spinner",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-07T00:29:09.935Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

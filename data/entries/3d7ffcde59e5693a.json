@@ -1,0 +1,30 @@
+{
+  "id": "@zerosnow/pi-zero",
+  "name": "@zerosnow/pi-zero",
+  "url": "https://www.npmjs.com/package/@zerosnow/pi-zero",
+  "source": "npm-search",
+  "description": "Curated pi extension suite: powerline status bar + random vibe + token/elapsed-time stats, /context, and ccstyle tool rendering",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@zerosnow/pi-zero",
+    "description": "Curated pi extension suite: powerline status bar + random vibe + token/elapsed-time stats, /context, and ccstyle tool rendering",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "status-bar",
+      "powerline",
+      "vibe"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-06T03:18:00.066Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

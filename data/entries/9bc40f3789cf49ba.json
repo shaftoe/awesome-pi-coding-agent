@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_yudesk.dev_concept",
+  "name": "What is Pi Agent",
+  "url": "https://yudesk.dev/en/docs/notes/pi-agent/concept",
+  "source": "brave-web-search",
+  "description": "A Complete Guide to Claude's System ArchitectureThe Complete Guide to Claude WorktreeThe Complete Guide to Claude Agent Teams ... This note clarifies the core positioning of Pi Agent: it's not a new model, nor a more feature-rich IDE, but a minimalist, transparent, and extensible coding agent ...",
+  "metadata": {
+    "title": "What is Pi Agent",
+    "name": "What is Pi Agent",
+    "description": "A Complete Guide to Claude's System ArchitectureThe Complete Guide to Claude WorktreeThe Complete Guide to Claude Agent Teams ... This note clarifies the core positioning of Pi Agent: it's not a new model, nor a more feature-rich IDE, but a minimalist, transparent, and extensible coding agent ...",
+    "published_at": null,
+    "source_site": "Yu's Cyber Desk",
+    "source_url": "https://yudesk.dev/en/docs/notes/pi-agent/concept",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

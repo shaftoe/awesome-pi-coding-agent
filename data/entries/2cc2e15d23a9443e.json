@@ -9,14 +9,16 @@
     "npm_name": "@geminixiang/pi-agent-team",
     "description": "Rule-agnostic independent Pi agent sessions with private mailboxes and causal audit",
     "keywords": [
+      "pi-package",
+      "pi-extension",
       "pi",
       "pi-coding-agent",
       "agent-team",
       "multi-agent",
       "extension"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-08-05T15:45:03.050Z",
+    "version": "0.2.1",
+    "published_at": "2026-08-06T04:03:54.726Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

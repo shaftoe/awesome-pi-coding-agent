@@ -10,7 +10,7 @@
     "description": "Navigable reading diffs for Pi, powered by Meat and your existing Pi model.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 5,
+    "open_issues": 0,
     "topics": [
       "code-review",
       "git-diff",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-04T14:06:30Z",
-    "pushed_at": "2026-08-04T16:50:47Z",
-    "updated_at": "2026-08-04T16:50:45Z",
-    "size": 185,
+    "pushed_at": "2026-08-06T07:53:52Z",
+    "updated_at": "2026-08-06T07:55:24Z",
+    "size": 370,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

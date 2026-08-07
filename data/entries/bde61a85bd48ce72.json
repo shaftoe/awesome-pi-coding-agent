@@ -1,0 +1,30 @@
+{
+  "id": "Lan-zk-pi-ds-web-search",
+  "name": "Lan-zk-pi-ds-web-search",
+  "url": "https://github.com/Lan-zk/pi-ds-web-search",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/Lan-zk/pi-ds-web-search",
+    "repo_full_name": "Lan-zk/pi-ds-web-search",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "deepseek",
+      "pi",
+      "pi-package",
+      "web-search"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-06T02:23:20Z",
+    "pushed_at": "2026-08-06T02:49:14Z",
+    "updated_at": "2026-08-06T02:39:48Z",
+    "size": 47,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

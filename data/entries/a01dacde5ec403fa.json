@@ -1,0 +1,28 @@
+{
+  "id": "pi-calm",
+  "name": "pi-calm",
+  "url": "https://www.npmjs.com/package/pi-calm",
+  "source": "npm-search",
+  "description": "Make Pi easier to follow while it works: keep the conversation and Working... visible while quietly hiding tool chatter and optional thinking. Toggle it with /calm on, /calm thinking, and /calm off.",
+  "metadata": {
+    "github_url": "https://github.com/JesseZhang97/pi-calm",
+    "npm_name": "pi-calm",
+    "description": "Make Pi easier to follow while it works: keep the conversation and Working... visible while quietly hiding tool chatter and optional thinking. Toggle it with /calm on, /calm thinking, and /calm off.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "calm",
+      "tui"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-07-30T03:43:31.277Z",
+    "npm_downloads_monthly": 288,
+    "npm_downloads_weekly": 288,
+    "npm_score_final": 18.025108,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

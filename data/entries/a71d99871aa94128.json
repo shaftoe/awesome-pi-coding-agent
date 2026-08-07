@@ -3,11 +3,11 @@
   "name": "@spences10/pi-themes · Packages · Pi",
   "url": "https://pi.dev/packages/@spences10/pi-themes?type=theme",
   "source": "brave-web-search",
-  "description": "Polished theme pack for Pi that improves contrast, mood, and visual hierarchy in the terminal UI · Install @spences10/pi-themes from npm and Pi will load the resources declared by the package manifest",
+  "description": "This package is included in the Vite+ workspace, but its package-level build and test scripts are currently no-ops because it ships static theme assets. pnpm --filter @spences10/pi-themes run check pnpm --filter @spences10/pi-themes run build",
   "metadata": {
     "title": "@spences10/pi-themes · Packages · Pi",
     "name": "@spences10/pi-themes · Packages · Pi",
-    "description": "Polished theme pack for Pi that improves contrast, mood, and visual hierarchy in the terminal UI · Install @spences10/pi-themes from npm and Pi will load the resources declared by the package manifest",
+    "description": "This package is included in the Vite+ workspace, but its package-level build and test scripts are currently no-ops because it ships static theme assets. pnpm --filter @spences10/pi-themes run check pnpm --filter @spences10/pi-themes run build",
     "published_at": null,
     "source_site": "Pi",
     "source_url": "https://pi.dev/packages/@spences10/pi-themes?type=theme",

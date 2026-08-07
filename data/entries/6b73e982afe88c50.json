@@ -3,11 +3,11 @@
   "name": "@codella/pi-mcp-support",
   "url": "https://www.npmjs.com/package/@codella/pi-mcp-support",
   "source": "npm-search",
-  "description": "🎄 Festive Christmas theme for Pi.",
+  "description": "\ud83c\udf84 Festive Christmas theme for Pi.",
   "metadata": {
     "github_url": "https://github.com/codella/pi-packages",
     "npm_name": "@codella/pi-theme-christmas",
-    "description": "🎄 Festive Christmas theme for Pi.",
+    "description": "\ud83c\udf84 Festive Christmas theme for Pi.",
     "keywords": [
       "pi-package",
       "pi",
@@ -21,7 +21,7 @@
     "published_at": "2026-05-26T21:10:49.931Z",
     "npm_downloads_monthly": 23,
     "npm_downloads_weekly": 9,
-    "npm_score_final": 15.594752,
+    "npm_score_final": 15.518287,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

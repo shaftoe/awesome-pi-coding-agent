@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_explainx.ai_pi-minimal-agent-harness-mario-zechner-g",
+  "name": "Pi Agent Harness (pi.dev): Minimal Coding Agent by Mario Zechner (2026) | explainx.ai Blog | explainx.ai",
+  "url": "https://www.explainx.ai/blog/pi-minimal-agent-harness-mario-zechner-guide-2026",
+  "source": "brave-web-search",
+  "description": "Pi is Mario Zechner's minimal terminal agent harness — extensions, skills, tree sessions, 15+ providers. How Pi maps to agent harness design and when to use it vs Claude Code or OpenClaw.",
+  "metadata": {
+    "title": "Pi Agent Harness (pi.dev): Minimal Coding Agent by Mario Zechner (2026) | explainx.ai Blog | explainx.ai",
+    "name": "Pi Agent Harness (pi.dev): Minimal Coding Agent by Mario Zechner (2026) | explainx.ai Blog | explainx.ai",
+    "description": "Pi is Mario Zechner's minimal terminal agent harness — extensions, skills, tree sessions, 15+ providers. How Pi maps to agent harness design and when to use it vs Claude Code or OpenClaw.",
+    "published_at": "2026-06-19T00:00:00",
+    "source_site": "Explainx",
+    "source_url": "https://www.explainx.ai/blog/pi-minimal-agent-harness-mario-zechner-guide-2026",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

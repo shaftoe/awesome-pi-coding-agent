@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-agents",
+  "name": "Pi Coding Agent",
+  "url": "https://pi.dev/packages/pi-agents",
+  "source": "brave-web-search",
+  "description": "The originating Pi process owns workflow orchestration. A delegated process is a terminal workflow leaf: pi-agents does not register its tools, commands, hooks, RPC endpoint, catalogs, run manager, or UI there.",
+  "metadata": {
+    "title": "Pi Coding Agent",
+    "name": "Pi Coding Agent",
+    "description": "The originating Pi process owns workflow orchestration. A delegated process is a terminal workflow leaf: pi-agents does not register its tools, commands, hooks, RPC endpoint, catalogs, run manager, or UI there.",
+    "published_at": "2026-07-27T21:30:03",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-agents",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

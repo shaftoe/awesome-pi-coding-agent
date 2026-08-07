@@ -3,11 +3,11 @@
   "name": "gonzalonicolasr-miscosas",
   "url": "https://github.com/gonzalonicolasr/miscosas",
   "source": "github-search",
-  "description": "fzf for your AI agent sessions — search, browse and resume Claude Code / Codex / pi sessions from a fast sunset-themed TUI",
+  "description": "fzf for your AI agent sessions \u2014 search, browse and resume Claude Code / Codex / pi sessions from a fast sunset-themed TUI",
   "metadata": {
     "github_url": "https://github.com/gonzalonicolasr/miscosas",
     "repo_full_name": "gonzalonicolasr/miscosas",
-    "description": "fzf for your AI agent sessions — search, browse and resume Claude Code / Codex / pi sessions from a fast sunset-themed TUI",
+    "description": "fzf for your AI agent sessions \u2014 search, browse and resume Claude Code / Codex / pi sessions from a fast sunset-themed TUI",
     "stars": 2,
     "forks": 0,
     "open_issues": 0,
@@ -29,5 +29,5 @@
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
-  "category": "extension"
+  "category": "misc"
 }

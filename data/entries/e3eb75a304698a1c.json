@@ -1,0 +1,29 @@
+{
+  "id": "@khanhicetea/web-access-kit",
+  "name": "@khanhicetea/web-access-kit",
+  "url": "https://www.npmjs.com/package/@khanhicetea/web-access-kit",
+  "source": "npm-search",
+  "description": "Webpage reader and real-time Google search tools for pi, powered by curl, Defuddle, and Antigravity CLI.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@khanhicetea/web-access-kit",
+    "description": "Webpage reader and real-time Google search tools for pi, powered by curl, Defuddle, and Antigravity CLI.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "web-search",
+      "curl",
+      "antigravity"
+    ],
+    "version": "0.2.2",
+    "published_at": "2026-08-06T02:30:17.875Z",
+    "npm_downloads_monthly": 253,
+    "npm_downloads_weekly": 253,
+    "npm_score_final": 17.505573,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

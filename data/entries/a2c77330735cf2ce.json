@@ -1,0 +1,30 @@
+{
+  "id": "christopherarter-deep-pi",
+  "name": "christopherarter-deep-pi",
+  "url": "https://github.com/christopherarter/deep-pi",
+  "source": "github-search",
+  "description": "Optimizer for DeepSeek API on Pi harness",
+  "metadata": {
+    "github_url": "https://github.com/christopherarter/deep-pi",
+    "repo_full_name": "christopherarter/deep-pi",
+    "description": "Optimizer for DeepSeek API on Pi harness",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-06T21:37:50Z",
+    "pushed_at": "2026-08-06T21:47:31Z",
+    "updated_at": "2026-08-06T21:47:44Z",
+    "size": 94,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

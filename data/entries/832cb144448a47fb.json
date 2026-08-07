@@ -8,8 +8,8 @@
     "github_url": "https://github.com/JustGenius-s/e-pi",
     "repo_full_name": "JustGenius-s/e-pi",
     "description": "E-Pi — focused desktop shell for Pi sessions, packages, and terminal workflows",
-    "stars": 0,
-    "forks": 0,
+    "stars": 1,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "ai-agent",
@@ -21,10 +21,10 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-05T07:32:38Z",
-    "pushed_at": "2026-08-05T16:57:24Z",
-    "updated_at": "2026-08-05T16:58:23Z",
-    "size": 1477,
-    "license": null,
+    "pushed_at": "2026-08-06T17:23:46Z",
+    "updated_at": "2026-08-06T17:24:09Z",
+    "size": 2477,
+    "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "category": "misc"

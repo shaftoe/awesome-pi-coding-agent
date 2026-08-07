@@ -1,0 +1,25 @@
+{
+  "id": "Bukutsu-pi-ping",
+  "name": "Bukutsu-pi-ping",
+  "url": "https://github.com/Bukutsu/pi-ping",
+  "source": "github-search",
+  "description": "Pi coding agent extension: ping only when you're away and it's worth it",
+  "metadata": {
+    "github_url": "https://github.com/Bukutsu/pi-ping",
+    "repo_full_name": "Bukutsu/pi-ping",
+    "description": "Pi coding agent extension: ping only when you're away and it's worth it",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-02T10:14:45Z",
+    "pushed_at": "2026-08-06T19:11:32Z",
+    "updated_at": "2026-08-06T19:11:43Z",
+    "size": 49,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}
