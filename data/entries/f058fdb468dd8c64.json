@@ -1,0 +1,31 @@
+{
+  "id": "pi-ollama-cloud-usage",
+  "name": "pi-ollama-cloud-usage",
+  "url": "https://www.npmjs.com/package/pi-ollama-cloud-usage",
+  "source": "npm-search",
+  "description": "Pi extension that shows Ollama Cloud quota usage in the status line",
+  "metadata": {
+    "github_url": "https://github.com/puetsua/pi-ollama-cloud-usage",
+    "npm_name": "pi-ollama-cloud-usage",
+    "description": "Pi extension that shows Ollama Cloud quota usage in the status line",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "ollama",
+      "ollama-cloud",
+      "usage",
+      "quota",
+      "status-line"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-08-01T10:52:41.829Z",
+    "npm_downloads_monthly": 279,
+    "npm_downloads_weekly": 279,
+    "npm_score_final": 17.954252,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

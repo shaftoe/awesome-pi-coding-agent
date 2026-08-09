@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_matteochieppa.com_pi-coding-agent-complete-guide",
+  "name": "Matteochieppa",
+  "url": "https://www.matteochieppa.com/en/blog/pi-coding-agent-complete-guide",
+  "source": "brave-web-search",
+  "description": "A five-trial-per-task Terminal-Bench ... for Codex, Cursor, and Windsurf using their native models. This was a dated leaderboard comparison, not a controlled experiment isolating the harness. Pi lives in the badlogic/pi-mono TypeScript monorepo. Internal dependencies form a directed acyclic graph: lower packages do not depend on the user interface or coding-agent ...",
+  "metadata": {
+    "title": "Matteochieppa",
+    "name": "Matteochieppa",
+    "description": "A five-trial-per-task Terminal-Bench ... for Codex, Cursor, and Windsurf using their native models. This was a dated leaderboard comparison, not a controlled experiment isolating the harness. Pi lives in the badlogic/pi-mono TypeScript monorepo. Internal dependencies form a directed acyclic graph: lower packages do not depend on the user interface or coding-agent ...",
+    "published_at": "2026-04-27T00:00:00",
+    "source_site": "Matteochieppa",
+    "source_url": "https://www.matteochieppa.com/en/blog/pi-coding-agent-complete-guide",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

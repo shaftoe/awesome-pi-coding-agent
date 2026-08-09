@@ -1,0 +1,31 @@
+{
+  "id": "pi-codeui",
+  "name": "pi-codeui",
+  "url": "https://www.npmjs.com/package/pi-codeui",
+  "source": "npm-search",
+  "description": "Conversation-first, code-aware terminal workspace for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/alpertarhan/pi-codeui",
+    "npm_name": "pi-codeui",
+    "description": "Conversation-first, code-aware terminal workspace for Pi Coding Agent",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "terminal-ui",
+      "developer-tools",
+      "chat",
+      "git",
+      "tui"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-08-08T13:02:53.781Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

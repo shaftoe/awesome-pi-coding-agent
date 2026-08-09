@@ -1,0 +1,30 @@
+{
+  "id": "irfansofyana-pi-mermaid-studio",
+  "name": "irfansofyana-pi-mermaid-studio",
+  "url": "https://github.com/irfansofyana/pi-mermaid-studio",
+  "source": "github-search",
+  "description": "Stateful Mermaid workbench for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/irfansofyana/pi-mermaid-studio",
+    "repo_full_name": "irfansofyana/pi-mermaid-studio",
+    "description": "Stateful Mermaid workbench for the Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-tools",
+      "coding-agent",
+      "mermaid",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-08T16:02:34Z",
+    "pushed_at": "2026-08-08T23:34:18Z",
+    "updated_at": "2026-08-08T23:34:21Z",
+    "size": 791,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

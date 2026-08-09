@@ -1,0 +1,27 @@
+{
+  "id": "pi-model-doctor",
+  "name": "pi-model-doctor",
+  "url": "https://www.npmjs.com/package/pi-model-doctor",
+  "source": "npm-search",
+  "description": "Safe lifecycle management for Pi models.json using models.dev metadata.",
+  "metadata": {
+    "github_url": "https://github.com/jiangge/pi-model-doctor",
+    "npm_name": "pi-model-doctor",
+    "description": "Safe lifecycle management for Pi models.json using models.dev metadata.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "models.dev"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-08T01:55:43.418Z",
+    "npm_downloads_monthly": 131,
+    "npm_downloads_weekly": 131,
+    "npm_score_final": 15.195776,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

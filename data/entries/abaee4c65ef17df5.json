@@ -1,0 +1,25 @@
+{
+  "id": "pi-package-manager-pipm",
+  "name": "pi-package-manager-pipm",
+  "url": "https://github.com/pi-package-manager/pipm",
+  "source": "github-search",
+  "description": "pipm — Pi Package Manager: immutable registry for Pi.dev",
+  "metadata": {
+    "github_url": "https://github.com/pi-package-manager/pipm",
+    "repo_full_name": "pi-package-manager/pipm",
+    "description": "pipm — Pi Package Manager: immutable registry for Pi.dev",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-09T04:29:12Z",
+    "pushed_at": "2026-08-09T05:36:46Z",
+    "updated_at": "2026-08-09T05:36:50Z",
+    "size": 323,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

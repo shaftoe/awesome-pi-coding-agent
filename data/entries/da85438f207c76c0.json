@@ -1,0 +1,25 @@
+{
+  "id": "iamlucianojr-pi-cockpit-tui",
+  "name": "iamlucianojr-pi-cockpit-tui",
+  "url": "https://github.com/iamlucianojr/pi-cockpit-tui",
+  "source": "github-search",
+  "description": "Terminal UI for pi: footers with git status, task tracking, tool counters, subagent widgets and theme cycling in one hot-reloadable extension.",
+  "metadata": {
+    "github_url": "https://github.com/iamlucianojr/pi-cockpit-tui",
+    "repo_full_name": "iamlucianojr/pi-cockpit-tui",
+    "description": "Terminal UI for pi: footers with git status, task tracking, tool counters, subagent widgets and theme cycling in one hot-reloadable extension.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-08T11:19:36Z",
+    "pushed_at": "2026-08-08T11:23:37Z",
+    "updated_at": "2026-08-08T11:23:40Z",
+    "size": 670,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

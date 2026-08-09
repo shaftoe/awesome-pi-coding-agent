@@ -1,0 +1,25 @@
+{
+  "id": "@henkaku-center/chi-sync",
+  "name": "@henkaku-center/chi-sync",
+  "url": "https://www.npmjs.com/package/@henkaku-center/chi-sync",
+  "source": "npm-search",
+  "description": "Chi sync: Pi-only scanned cross-machine session sync/resume.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@henkaku-center/chi-sync",
+    "description": "Chi sync: Pi-only scanned cross-machine session sync/resume.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-09T08:20:09.300Z",
+    "npm_downloads_monthly": 77,
+    "npm_downloads_weekly": 77,
+    "npm_score_final": 13.084071,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

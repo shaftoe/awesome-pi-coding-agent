@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "pi-guard — guard extension for pi coding agent (initial skeleton)",
   "metadata": {
-    "github_url": "https://github.com/geebos/pi-guard",
+    "github_url": "https://github.com/geebos/pi-process-guard",
     "npm_name": "pi-process-guard",
     "description": "pi-guard — guard extension for pi coding agent (initial skeleton)",
     "keywords": [
@@ -15,8 +15,8 @@
       "pi-coding-agent",
       "guard"
     ],
-    "version": "1.0.6",
-    "published_at": "2026-08-07T16:03:31.467Z",
+    "version": "2.0.2",
+    "published_at": "2026-08-08T02:54:42.059Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

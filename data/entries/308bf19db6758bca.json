@@ -1,0 +1,20 @@
+{
+  "id": "YT_ndy7TYXGvI8",
+  "name": "Mastering the Pi Agent",
+  "url": "https://youtube.com/watch?v=ndy7TYXGvI8",
+  "source": "youtube-search",
+  "description": "",
+  "metadata": {
+    "title": "Mastering the Pi Agent",
+    "name": "Mastering the Pi Agent",
+    "description": "",
+    "channel": "cshdev",
+    "published_at": "2026-08-08T08:20:53Z",
+    "thumbnail": "https://i.ytimg.com/vi/ndy7TYXGvI8/hqdefault.jpg",
+    "views": 2,
+    "likes": 0,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "category": "video"
+}

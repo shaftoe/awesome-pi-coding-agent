@@ -1,0 +1,28 @@
+{
+  "id": "pi-tail",
+  "name": "pi-tail",
+  "url": "https://www.npmjs.com/package/pi-tail",
+  "source": "npm-search",
+  "description": "A real-time terminal visualizer for pi agent telemetry logs.",
+  "metadata": {
+    "github_url": "https://github.com/distalx/pi-tail",
+    "npm_name": "pi-tail",
+    "description": "A real-time terminal visualizer for pi agent telemetry logs.",
+    "keywords": [
+      "cli",
+      "visualizer",
+      "telemetry",
+      "pi-agent"
+    ],
+    "version": "0.2.3",
+    "published_at": "2026-08-09T06:17:06.994Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

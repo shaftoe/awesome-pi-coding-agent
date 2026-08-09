@@ -9,8 +9,8 @@
     "repo_full_name": "tmustier/pine-of-glass",
     "description": "Small observability and context management extensions for the Pi coding agent",
     "stars": 39,
-    "forks": 5,
-    "open_issues": 11,
+    "forks": 6,
+    "open_issues": 12,
     "topics": [
       "context-management",
       "context-window",

@@ -1,0 +1,32 @@
+{
+  "id": "pi-fabric-role-router",
+  "name": "pi-fabric-role-router",
+  "url": "https://www.npmjs.com/package/pi-fabric-role-router",
+  "source": "npm-search",
+  "description": "Centralized role-based model, thinking, and tool routing for Pi Fabric",
+  "metadata": {
+    "github_url": "https://github.com/hazrid93/pi-fabric-role-router",
+    "npm_name": "pi-fabric-role-router",
+    "description": "Centralized role-based model, thinking, and tool routing for Pi Fabric",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-fabric",
+      "roles",
+      "routing",
+      "agents",
+      "orchestration",
+      "multi-agent"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-08-01T15:57:52.091Z",
+    "npm_downloads_monthly": 323,
+    "npm_downloads_weekly": 323,
+    "npm_score_final": 18.117886,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

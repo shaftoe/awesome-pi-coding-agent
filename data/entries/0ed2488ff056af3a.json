@@ -1,0 +1,30 @@
+{
+  "id": "@shift-labs/pi-rlm",
+  "name": "@shift-labs/pi-rlm",
+  "url": "https://www.npmjs.com/package/@shift-labs/pi-rlm",
+  "source": "npm-search",
+  "description": "A pi extension with a single tool: execute, running TypeScript in a persistent Bun evaluator",
+  "metadata": {
+    "github_url": "https://github.com/shift-labs-ai/pi-rlm",
+    "npm_name": "@shift-labs/pi-rlm",
+    "description": "A pi extension with a single tool: execute, running TypeScript in a persistent Bun evaluator",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "agent",
+      "bun",
+      "typescript",
+      "repl"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-08-09T09:10:44.699Z",
+    "npm_downloads_monthly": 298,
+    "npm_downloads_weekly": 298,
+    "npm_score_final": 17.972792,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

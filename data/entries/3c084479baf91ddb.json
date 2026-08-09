@@ -1,0 +1,31 @@
+{
+  "id": "pi-dp-browser",
+  "name": "pi-dp-browser",
+  "url": "https://www.npmjs.com/package/pi-dp-browser",
+  "source": "npm-search",
+  "description": "DrissionPage-based persistent browser control skill for pi: open/switch tabs, click, input, select, press keys, scroll, run JS, screenshot, and take human-visible page snapshots (links/buttons/inputs/selects/text/headings/images, no CSS/JS internals). Bro",
+  "metadata": {
+    "github_url": "https://github.com/xing-shuyin/pi-dp-browser",
+    "npm_name": "pi-dp-browser",
+    "description": "DrissionPage-based persistent browser control skill for pi: open/switch tabs, click, input, select, press keys, scroll, run JS, screenshot, and take human-visible page snapshots (links/buttons/inputs/selects/text/headings/images, no CSS/JS internals). Bro",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "skill",
+      "browser",
+      "drissionpage",
+      "automation"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-08T08:58:44.378Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

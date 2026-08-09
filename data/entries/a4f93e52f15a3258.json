@@ -1,0 +1,28 @@
+{
+  "id": "pi-worktree-extension",
+  "name": "pi-worktree-extension",
+  "url": "https://www.npmjs.com/package/pi-worktree-extension",
+  "source": "npm-search",
+  "description": "Managed Git worktrees and session transitions for Pi",
+  "metadata": {
+    "github_url": "https://github.com/AjayPoshak/pi-worktree-extension",
+    "npm_name": "pi-worktree-extension",
+    "description": "Managed Git worktrees and session transitions for Pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "git",
+      "worktree"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-08-01T14:15:17.600Z",
+    "npm_downloads_monthly": 149,
+    "npm_downloads_weekly": 149,
+    "npm_score_final": 15.279309,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

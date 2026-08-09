@@ -9,7 +9,7 @@
     "repo_full_name": "cfal/garcon",
     "description": "Self-hosted browser workspace to run coding agents in parallel, steer work as it runs, review diffs, and ship.",
     "stars": 51,
-    "forks": 8,
+    "forks": 9,
     "open_issues": 32,
     "topics": [
       "agent-harness",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-23T13:42:57Z",
-    "pushed_at": "2026-08-07T16:37:35Z",
-    "updated_at": "2026-08-07T16:37:39Z",
-    "size": 18212,
+    "pushed_at": "2026-08-09T09:59:56Z",
+    "updated_at": "2026-08-08T09:52:23Z",
+    "size": 18185,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

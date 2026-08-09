@@ -3,26 +3,26 @@
   "name": "edit-o-matic",
   "url": "https://www.npmjs.com/package/edit-o-matic",
   "source": "npm-search",
-  "description": "Whitespace-tolerant edit fallback for Pi — not a replacement for the built-in edit tool, but for local/quantized LLM users who also use gentle-pi. Progressive fallback matching (exact → fuzzy → indentation-stripped → combined → line-by-line) with ambiguit",
+  "description": "Whitespace-tolerant edit fallback for Pi — fail-closed relative-indent matching, match-failure diagnostics, dry-run preview, correct indent-unit detection, Myers line diffs, multi-edit hardening, backups, atomic writes, and remapped Python syntax errors.",
   "metadata": {
     "github_url": "https://github.com/bighornwoods/edit-o-matic",
     "npm_name": "edit-o-matic",
-    "description": "Whitespace-tolerant edit fallback for Pi — not a replacement for the built-in edit tool, but for local/quantized LLM users who also use gentle-pi. Progressive fallback matching (exact → fuzzy → indentation-stripped → combined → line-by-line) with ambiguit",
+    "description": "Whitespace-tolerant edit fallback for Pi — fail-closed relative-indent matching, match-failure diagnostics, dry-run preview, correct indent-unit detection, Myers line diffs, multi-edit hardening, backups, atomic writes, and remapped Python syntax errors.",
     "keywords": [
       "pi-package",
       "pi-extension",
       "smart-edit",
       "whitespace-tolerant"
     ],
-    "version": "1.0.4",
-    "published_at": "2026-08-07T14:47:38.104Z",
+    "version": "1.1.0",
+    "published_at": "2026-08-08T03:13:24.980Z",
     "npm_downloads_monthly": 606,
     "npm_downloads_weekly": 606,
-    "npm_score_final": 20.963413,
+    "npm_score_final": 20.698235,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "extension"
+  "category": "misc"
 }
