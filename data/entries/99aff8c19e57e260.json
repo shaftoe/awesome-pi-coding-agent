@@ -10,7 +10,7 @@
     "description": "Browser automation tools for the pi coding agent, backed by Playwright. Connect to your running browser via CDP.",
     "stars": 5,
     "forks": 3,
-    "open_issues": 3,
+    "open_issues": 4,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

@@ -1,0 +1,25 @@
+{
+  "id": "ArakawaHenri-cyclotomy",
+  "name": "ArakawaHenri-cyclotomy",
+  "url": "https://github.com/ArakawaHenri/cyclotomy",
+  "source": "github-search",
+  "description": "A single-state workspace checkpointer for Pi Coding Agent.",
+  "metadata": {
+    "github_url": "https://github.com/ArakawaHenri/cyclotomy",
+    "repo_full_name": "ArakawaHenri/cyclotomy",
+    "description": "A single-state workspace checkpointer for Pi Coding Agent.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-08T18:49:01Z",
+    "pushed_at": "2026-08-09T01:19:36Z",
+    "updated_at": "2026-08-09T03:19:55Z",
+    "size": 321,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -15,10 +15,10 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-29T13:56:36Z",
-    "pushed_at": "2026-07-31T14:58:00Z",
-    "updated_at": "2026-07-31T15:26:02Z",
-    "size": 71,
-    "license": "Apache-2.0",
+    "pushed_at": "2026-08-09T07:37:31Z",
+    "updated_at": "2026-08-09T07:37:37Z",
+    "size": 173,
+    "license": "GPL-3.0",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "category": "extension"

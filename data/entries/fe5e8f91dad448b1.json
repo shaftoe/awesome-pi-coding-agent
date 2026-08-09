@@ -1,0 +1,25 @@
+{
+  "id": "DerekChin12138-MyPiPackage",
+  "name": "DerekChin12138-MyPiPackage",
+  "url": "https://github.com/DerekChin12138/MyPiPackage",
+  "source": "github-search",
+  "description": "My pi extensions and skills to be defaultly loaded.",
+  "metadata": {
+    "github_url": "https://github.com/DerekChin12138/MyPiPackage",
+    "repo_full_name": "DerekChin12138/MyPiPackage",
+    "description": "My pi extensions and skills to be defaultly loaded.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-08T12:23:40Z",
+    "pushed_at": "2026-08-09T05:20:47Z",
+    "updated_at": "2026-08-09T05:20:55Z",
+    "size": 49,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

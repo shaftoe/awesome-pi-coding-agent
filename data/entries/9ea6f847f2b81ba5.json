@@ -8,7 +8,7 @@
     "github_url": "https://github.com/eleqtrizit/pi-tasks",
     "repo_full_name": "eleqtrizit/pi-tasks",
     "description": "Claude Code's Task System for Pi Coding Agent",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-06T17:41:23Z",
     "pushed_at": "2026-05-31T03:36:55Z",
-    "updated_at": "2026-05-31T03:36:58Z",
+    "updated_at": "2026-08-08T05:54:50Z",
     "size": 173,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

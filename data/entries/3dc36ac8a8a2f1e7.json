@@ -8,7 +8,7 @@
     "github_url": "https://github.com/pasky/pi-gondolin",
     "repo_full_name": "pasky/pi-gondolin",
     "description": "Pi coding agent extension: run tools inside a Gondolin micro-VM sandbox",
-    "stars": 10,
+    "stars": 11,
     "forks": 1,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-19T03:51:54Z",
     "pushed_at": "2026-02-19T03:51:56Z",
-    "updated_at": "2026-06-25T00:03:02Z",
+    "updated_at": "2026-08-08T10:44:10Z",
     "size": 8,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

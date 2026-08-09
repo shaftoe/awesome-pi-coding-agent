@@ -1,0 +1,32 @@
+{
+  "id": "Joselay-pi-kit",
+  "name": "Joselay-pi-kit",
+  "url": "https://github.com/Joselay/pi-kit",
+  "source": "github-search",
+  "description": "Personal Pi Coding Agent toolkit with extensions, skills, prompts, and themes",
+  "metadata": {
+    "github_url": "https://github.com/Joselay/pi-kit",
+    "repo_full_name": "Joselay/pi-kit",
+    "description": "Personal Pi Coding Agent toolkit with extensions, skills, prompts, and themes",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "automation",
+      "coding-agent",
+      "developer-tools",
+      "pi-coding-agent",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-08T12:39:55Z",
+    "pushed_at": "2026-08-08T20:31:27Z",
+    "updated_at": "2026-08-08T20:31:30Z",
+    "size": 271,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

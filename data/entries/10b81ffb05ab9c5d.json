@@ -10,7 +10,7 @@
     "description": "Bridge Pi agent sessions to Pi Session Manager",
     "stars": 3,
     "forks": 1,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/code-yeongyu/pi-cua-integration",
     "repo_full_name": "code-yeongyu/pi-cua-integration",
     "description": "Cua (trycua/cua) computer-use integration extension for the pi/senpi coding agent",
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "open_issues": 9,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-13T09:57:08Z",
     "pushed_at": "2026-08-01T01:07:42Z",
-    "updated_at": "2026-07-25T18:51:44Z",
+    "updated_at": "2026-08-09T06:32:51Z",
     "size": 366,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,31 @@
+{
+  "id": "@khanhicetea/pi-wui",
+  "name": "@khanhicetea/pi-wui",
+  "url": "https://www.npmjs.com/package/@khanhicetea/pi-wui",
+  "source": "npm-search",
+  "description": "A session-scoped Web UI portal for Pi and MCP-compatible coding agents",
+  "metadata": {
+    "github_url": "https://github.com/khanhicetea/pi-wui",
+    "npm_name": "@khanhicetea/pi-wui",
+    "description": "A session-scoped Web UI portal for Pi and MCP-compatible coding agents",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "codex",
+      "coding-agent",
+      "mcp",
+      "generative-ui",
+      "json-render"
+    ],
+    "version": "0.1.5",
+    "published_at": "2026-08-01T03:23:20.624Z",
+    "npm_downloads_monthly": 95,
+    "npm_downloads_weekly": 95,
+    "npm_score_final": 13.922893,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

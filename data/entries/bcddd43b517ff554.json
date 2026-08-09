@@ -1,0 +1,33 @@
+{
+  "id": "SSHdotCodes-auto-pi",
+  "name": "SSHdotCodes-auto-pi",
+  "url": "https://github.com/SSHdotCodes/auto-pi",
+  "source": "github-search",
+  "description": "Automatic tool-call review for pi — a local encoder approves safe tool calls and blocks dangerous ones before they run",
+  "metadata": {
+    "github_url": "https://github.com/SSHdotCodes/auto-pi",
+    "repo_full_name": "SSHdotCodes/auto-pi",
+    "description": "Automatic tool-call review for pi — a local encoder approves safe tool calls and blocks dangerous ones before they run",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-safety",
+      "ai-safety",
+      "guardrails",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "tool-calling"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-09T02:53:55Z",
+    "pushed_at": "2026-08-09T06:36:52Z",
+    "updated_at": "2026-08-09T06:36:55Z",
+    "size": 32,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

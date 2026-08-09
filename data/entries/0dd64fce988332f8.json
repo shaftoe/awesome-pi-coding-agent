@@ -1,0 +1,33 @@
+{
+  "id": "pi-inferx-provider",
+  "name": "pi-inferx-provider",
+  "url": "https://www.npmjs.com/package/pi-inferx-provider",
+  "source": "npm-search",
+  "description": "Pi coding-agent extension that registers InferX (https://model.inferx.net) as a model provider — live /v1/models discovery with a disk cache, a built-in public catalog fallback, and vLLM compatibility shims (system role, max_tokens, Qwen/DeepSeek/GLM thin",
+  "metadata": {
+    "github_url": "https://github.com/nrynss/pi-inferx-provider",
+    "npm_name": "pi-inferx-provider",
+    "description": "Pi coding-agent extension that registers InferX (https://model.inferx.net) as a model provider — live /v1/models discovery with a disk cache, a built-in public catalog fallback, and vLLM compatibility shims (system role, max_tokens, Qwen/DeepSeek/GLM thin",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "inferx",
+      "provider",
+      "llm",
+      "openai-compatible",
+      "vllm",
+      "ai"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-08T13:55:52.504Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

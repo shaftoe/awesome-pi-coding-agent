@@ -1,0 +1,31 @@
+{
+  "id": "@haksolot/ank",
+  "name": "@haksolot/ank",
+  "url": "https://www.npmjs.com/package/@haksolot/ank",
+  "source": "npm-search",
+  "description": "The stupid coordination tool: tasks and architecture decisions in your repo, behind one CLI any coding agent can call.",
+  "metadata": {
+    "github_url": "https://github.com/haksolot/ank",
+    "npm_name": "@haksolot/ank",
+    "description": "The stupid coordination tool: tasks and architecture decisions in your repo, behind one CLI any coding agent can call.",
+    "keywords": [
+      "cli",
+      "agent",
+      "adr",
+      "architecture-decision-record",
+      "tasks",
+      "coordination",
+      "pi-package"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-08-08T17:45:53.724Z",
+    "npm_downloads_monthly": 133,
+    "npm_downloads_weekly": 133,
+    "npm_score_final": 15.108602,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "thagorx-pi-task-delta",
+  "name": "thagorx-pi-task-delta",
+  "url": "https://github.com/thagorx/pi-task-delta",
+  "source": "github-search",
+  "description": "Task-scoped Git change summaries with compact totals and expandable per-file details for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/thagorx/pi-task-delta",
+    "repo_full_name": "thagorx/pi-task-delta",
+    "description": "Task-scoped Git change summaries with compact totals and expandable per-file details for the Pi coding agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-07T09:02:46Z",
+    "pushed_at": "2026-08-07T16:45:53Z",
+    "updated_at": "2026-08-08T14:16:44Z",
+    "size": 938,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}
