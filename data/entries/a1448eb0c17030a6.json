@@ -1,0 +1,25 @@
+{
+  "id": "brunoorsolon-pi-agent-profiles",
+  "name": "brunoorsolon-pi-agent-profiles",
+  "url": "https://github.com/brunoorsolon/pi-agent-profiles",
+  "source": "github-search",
+  "description": "Pi agent plugin that allows you to quickly select models and effort level porfiles from a list or switch between them with a keyboard shortcut.",
+  "metadata": {
+    "github_url": "https://github.com/brunoorsolon/pi-agent-profiles",
+    "repo_full_name": "brunoorsolon/pi-agent-profiles",
+    "description": "Pi agent plugin that allows you to quickly select models and effort level porfiles from a list or switch between them with a keyboard shortcut.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-30T22:03:15Z",
+    "pushed_at": "2026-07-30T23:13:47Z",
+    "updated_at": "2026-08-09T21:15:46Z",
+    "size": 8,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

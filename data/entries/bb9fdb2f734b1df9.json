@@ -1,0 +1,29 @@
+{
+  "id": "pi-statusbar-control",
+  "name": "pi-statusbar-control",
+  "url": "https://www.npmjs.com/package/pi-statusbar-control",
+  "source": "npm-search",
+  "description": "Show or hide status-bar elements injected by any pi extension via ctx.ui.setStatus, with a toggle list that persists across restarts.",
+  "metadata": {
+    "github_url": "https://github.com/anh-chu/pi-statusbar-control",
+    "npm_name": "pi-statusbar-control",
+    "description": "Show or hide status-bar elements injected by any pi extension via ctx.ui.setStatus, with a toggle list that persists across restarts.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "status-bar",
+      "footer",
+      "tui"
+    ],
+    "version": "0.5.0",
+    "published_at": "2026-08-02T20:30:45.567Z",
+    "npm_downloads_monthly": 644,
+    "npm_downloads_weekly": 644,
+    "npm_score_final": 20.456266,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

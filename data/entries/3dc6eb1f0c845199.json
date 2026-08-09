@@ -8,7 +8,7 @@
     "github_url": "https://github.com/beautifulrem/pi-sakura-cyberdeck",
     "repo_full_name": "beautifulrem/pi-sakura-cyberdeck",
     "description": "Sakura Macaron theme, cyberdeck header, animated Matrix rain, and polished Zentui for Pi",
-    "stars": 11,
+    "stars": 12,
     "forks": 2,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-22T10:40:57Z",
     "pushed_at": "2026-08-07T21:16:54Z",
-    "updated_at": "2026-08-07T21:16:58Z",
+    "updated_at": "2026-08-09T12:55:44Z",
     "size": 194,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

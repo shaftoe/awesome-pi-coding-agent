@@ -1,0 +1,25 @@
+{
+  "id": "punt-labs-pi-tools",
+  "name": "punt-labs-pi-tools",
+  "url": "https://github.com/punt-labs/pi-tools",
+  "source": "github-search",
+  "description": "Shared Punt Labs Pi extensions, skills, prompts, and themes",
+  "metadata": {
+    "github_url": "https://github.com/punt-labs/pi-tools",
+    "repo_full_name": "punt-labs/pi-tools",
+    "description": "Shared Punt Labs Pi extensions, skills, prompts, and themes",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-09T20:40:07Z",
+    "pushed_at": "2026-08-09T22:28:53Z",
+    "updated_at": "2026-08-09T20:40:31Z",
+    "size": 138,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

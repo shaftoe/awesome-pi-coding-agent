@@ -1,0 +1,20 @@
+{
+  "id": "YT_fcxxgl3U2ag",
+  "name": "La soluzione al thinking loop: test su Qwen 3.6 27B e Pi Agent",
+  "url": "https://youtube.com/watch?v=fcxxgl3U2ag",
+  "source": "youtube-search",
+  "description": "Uno dei problemi più fastidiosi dei LLM in locale — soprattutto della famiglia Qwen — è la tendenza a bloccarsi in un loop infinito ...",
+  "metadata": {
+    "title": "La soluzione al thinking loop: test su Qwen 3.6 27B e Pi Agent",
+    "name": "La soluzione al thinking loop: test su Qwen 3.6 27B e Pi Agent",
+    "description": "Uno dei problemi più fastidiosi dei LLM in locale — soprattutto della famiglia Qwen — è la tendenza a bloccarsi in un loop infinito ...",
+    "channel": "Alessio Garau",
+    "published_at": "2026-07-09T14:01:01Z",
+    "thumbnail": "https://i.ytimg.com/vi/fcxxgl3U2ag/hqdefault.jpg",
+    "views": 1590,
+    "likes": 69,
+    "comments": 15,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "category": "video"
+}

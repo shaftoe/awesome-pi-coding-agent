@@ -10,7 +10,7 @@
     "description": "Public Pi harness: linked extensions, model-routed subagents, active skills, MCP, and safe setup.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 2,
     "topics": [
       "agents",
       "pi",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-13T16:44:51Z",
-    "pushed_at": "2026-08-09T06:54:08Z",
-    "updated_at": "2026-08-09T06:53:51Z",
-    "size": 2003,
+    "pushed_at": "2026-08-09T23:19:27Z",
+    "updated_at": "2026-08-09T23:18:59Z",
+    "size": 1783,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

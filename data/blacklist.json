@@ -45241,5 +45241,145 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-package"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=oysokmATIT0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-09T23:28:18.346Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=8ZgpAXe5V5w",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-09T23:28:18.386Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=j4HGR0r7t_E",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-09T23:28:18.439Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/ephraimduncan/pi-omp-tools",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-08-09T23:28:18.485Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=QJYPXL2qMsM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-09T23:28:18.667Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/thaodangspace/pi-seatbelt-sandbox",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-09T23:28:18.704Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=WbMrE3slCbc",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-08-09T23:28:18.741Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=EcieGm2bqi8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-09T23:28:18.924Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=d1WeQHb2fTw",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-09T23:28:19.072Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=T8xGnOONaDI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-09T23:28:19.225Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=NL46-mD49Wo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-09T23:28:19.324Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/kevinchennewbee/PenglaiAgent",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-09T23:28:19.336Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/SaladDay/pi-from-scratch",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-09T23:28:19.378Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Roni1993/pi-workflow",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-09T23:28:19.402Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
 	}
 ]

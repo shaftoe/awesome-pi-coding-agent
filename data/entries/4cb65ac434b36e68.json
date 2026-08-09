@@ -9,8 +9,8 @@
     "repo_full_name": "Signet-AI/signetai",
     "description": "local-first memory and context layer for AI agents",
     "stars": 237,
-    "forks": 40,
-    "open_issues": 13,
+    "forks": 39,
+    "open_issues": 34,
     "topics": [
       "agent-memory",
       "ai-memory",
@@ -30,9 +30,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-11T05:38:32Z",
-    "pushed_at": "2026-08-09T09:57:08Z",
-    "updated_at": "2026-08-09T09:46:22Z",
-    "size": 101099,
+    "pushed_at": "2026-08-09T23:25:30Z",
+    "updated_at": "2026-08-09T14:17:47Z",
+    "size": 103809,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
