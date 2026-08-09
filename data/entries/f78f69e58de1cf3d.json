@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-terminal-theme",
+  "name": "pi-terminal-theme · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-terminal-theme",
+  "source": "brave-web-search",
+  "description": "Install pi-terminal-theme from npm and Pi will load the resources declared by the package manifest.",
+  "metadata": {
+    "title": "pi-terminal-theme · Packages · Pi",
+    "name": "pi-terminal-theme · Packages · Pi",
+    "description": "Install pi-terminal-theme from npm and Pi will load the resources declared by the package manifest.",
+    "published_at": null,
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-terminal-theme",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "category": "article"
+}

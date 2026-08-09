@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tmustier/pi-auto-compact",
     "repo_full_name": "tmustier/pi-auto-compact",
     "description": "Configurable proactive native compaction for Pi",
-    "stars": 4,
+    "stars": 5,
     "forks": 3,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-07-15T17:19:13Z",
     "pushed_at": "2026-08-08T23:47:33Z",
-    "updated_at": "2026-08-08T23:46:55Z",
+    "updated_at": "2026-08-09T13:05:06Z",
     "size": 105,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

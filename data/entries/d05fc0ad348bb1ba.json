@@ -1,0 +1,25 @@
+{
+  "id": "@rembric/pi",
+  "name": "@rembric/pi",
+  "url": "https://www.npmjs.com/package/@rembric/pi",
+  "source": "npm-search",
+  "description": "Persistent memory for Pi — Rembric's MCP tools, slash commands, nudges and session capture",
+  "metadata": {
+    "github_url": "https://github.com/susomejias/rembric",
+    "npm_name": "@rembric/pi",
+    "description": "Persistent memory for Pi — Rembric's MCP tools, slash commands, nudges and session capture",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.26.0",
+    "published_at": "2026-08-09T21:21:48.572Z",
+    "npm_downloads_monthly": 367,
+    "npm_downloads_weekly": 367,
+    "npm_score_final": 18.249279,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

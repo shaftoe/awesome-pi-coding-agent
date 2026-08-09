@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_yooiu.com_pi-agent",
+  "name": "Pi Agent - Yooiu",
+  "url": "https://yooiu.com/products/pi-agent",
+  "source": "brave-web-search",
+  "description": "Pi Agent - Open coding agent harness with TUI, SDK and 15+ providers, supporting AGENTS.md and branchable sessions.",
+  "metadata": {
+    "title": "Pi Agent - Yooiu",
+    "name": "Pi Agent - Yooiu",
+    "description": "Pi Agent - Open coding agent harness with TUI, SDK and 15+ providers, supporting AGENTS.md and branchable sessions.",
+    "published_at": null,
+    "source_site": "Yooiu",
+    "source_url": "https://yooiu.com/products/pi-agent",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

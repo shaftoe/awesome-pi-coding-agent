@@ -1,0 +1,29 @@
+{
+  "id": "the-sleeping-teemo-pi-ask-user-question",
+  "name": "the-sleeping-teemo-pi-ask-user-question",
+  "url": "https://github.com/the-sleeping-teemo/pi-ask-user-question",
+  "source": "github-search",
+  "description": "Interactive single and batch question tools for Pi",
+  "metadata": {
+    "github_url": "https://github.com/the-sleeping-teemo/pi-ask-user-question",
+    "repo_full_name": "the-sleeping-teemo/pi-ask-user-question",
+    "description": "Interactive single and batch question tools for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-coding-agent",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-09T16:51:01Z",
+    "pushed_at": "2026-08-09T16:55:45Z",
+    "updated_at": "2026-08-09T16:56:12Z",
+    "size": 72,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

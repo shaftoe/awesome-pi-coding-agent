@@ -1,0 +1,32 @@
+{
+  "id": "@ret2hell/pi-herdr-orchestrator",
+  "name": "@ret2hell/pi-herdr-orchestrator",
+  "url": "https://www.npmjs.com/package/@ret2hell/pi-herdr-orchestrator",
+  "source": "npm-search",
+  "description": "Pi-native orchestrator over Herdr: plan, dispatch worker agents, review with an independent reviewer, all gated on your approval.",
+  "metadata": {
+    "github_url": "https://github.com/Ret2Hell/pi-extensions",
+    "npm_name": "@ret2hell/pi-herdr-orchestrator",
+    "description": "Pi-native orchestrator over Herdr: plan, dispatch worker agents, review with an independent reviewer, all gated on your approval.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "herdr",
+      "pane-management",
+      "agent-workflows",
+      "dev-server",
+      "watch",
+      "coding-agent"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-02T18:21:17.052Z",
+    "npm_downloads_monthly": 383,
+    "npm_downloads_weekly": 383,
+    "npm_score_final": 18.693277,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
