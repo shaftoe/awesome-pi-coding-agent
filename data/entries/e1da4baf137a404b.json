@@ -1,0 +1,30 @@
+{
+  "id": "muhameddelic-pi-openai-codex-usage",
+  "name": "muhameddelic-pi-openai-codex-usage",
+  "url": "https://github.com/muhameddelic/pi-openai-codex-usage",
+  "source": "github-search",
+  "description": "Pi extension that displays OpenAI Codex subscription usage in the TUI",
+  "metadata": {
+    "github_url": "https://github.com/muhameddelic/pi-openai-codex-usage",
+    "repo_full_name": "muhameddelic/pi-openai-codex-usage",
+    "description": "Pi extension that displays OpenAI Codex subscription usage in the TUI",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "openai-codex",
+      "pi-extension",
+      "pi-package",
+      "usage"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-11T07:13:56Z",
+    "pushed_at": "2026-08-11T07:50:50Z",
+    "updated_at": "2026-08-11T07:51:05Z",
+    "size": 47,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

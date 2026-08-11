@@ -8,7 +8,7 @@
     "github_url": "https://github.com/joelhooks/pi-tools",
     "repo_full_name": "joelhooks/pi-tools",
     "description": "🔧 Power tools for pi — repo autopsy, tsgo LSP, codex background loops, session reader, and more",
-    "stars": 81,
+    "stars": 82,
     "forks": 1,
     "open_issues": 24,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-02-13T04:05:14Z",
     "pushed_at": "2026-08-09T19:06:54Z",
-    "updated_at": "2026-08-09T19:07:12Z",
+    "updated_at": "2026-08-10T06:10:27Z",
     "size": 6001,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"

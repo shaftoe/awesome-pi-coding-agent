@@ -1,0 +1,32 @@
+{
+  "id": "pi-vlm-proxy",
+  "name": "pi-vlm-proxy",
+  "url": "https://www.npmjs.com/package/pi-vlm-proxy",
+  "source": "npm-search",
+  "description": "Generic vision proxy extension for pi: lets non-multimodal models (e.g. DeepSeek) delegate image analysis to ANY OpenAI-compatible multimodal model. Zero vendor hardcoding - a model is just baseUrl + apiKey + model id. Auto-hides itself when the main mode",
+  "metadata": {
+    "github_url": "https://github.com/lawrencewzen/pi-vlm-proxy",
+    "npm_name": "pi-vlm-proxy",
+    "description": "Generic vision proxy extension for pi: lets non-multimodal models (e.g. DeepSeek) delegate image analysis to ANY OpenAI-compatible multimodal model. Zero vendor hardcoding - a model is just baseUrl + apiKey + model id. Auto-hides itself when the main mode",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "vision",
+      "multimodal",
+      "image-analysis",
+      "describe-image",
+      "openai-compatible",
+      "vlm"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-03T08:40:01.967Z",
+    "npm_downloads_monthly": 329,
+    "npm_downloads_weekly": 329,
+    "npm_score_final": 18.94679,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

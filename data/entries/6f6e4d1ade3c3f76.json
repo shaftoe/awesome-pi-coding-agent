@@ -1,0 +1,38 @@
+{
+  "id": "plandeck",
+  "name": "plandeck",
+  "url": "https://www.npmjs.com/package/plandeck",
+  "source": "npm-search",
+  "description": "The visual Kanban for long-running AI agents. Your plan organizes itself: dependencies unlock into Ready, the critical path lights up, the one next move is obvious. Nobody wants to read a markdown plan. Zero dependencies, works with Claude Code, Codex, an",
+  "metadata": {
+    "github_url": "https://github.com/OthmanAdi/plandeck",
+    "npm_name": "plandeck",
+    "description": "The visual Kanban for long-running AI agents. Your plan organizes itself: dependencies unlock into Ready, the critical path lights up, the one next move is obvious. Nobody wants to read a markdown plan. Zero dependencies, works with Claude Code, Codex, an",
+    "keywords": [
+      "kanban",
+      "planning",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "cursor",
+      "agent-skill",
+      "task-board",
+      "critical-path",
+      "estimation",
+      "crash-proof",
+      "skill",
+      "pi-package",
+      "pi-skill"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-08-03T10:30:02.569Z",
+    "npm_downloads_monthly": 132,
+    "npm_downloads_weekly": 132,
+    "npm_score_final": 15.59325,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

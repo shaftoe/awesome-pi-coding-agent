@@ -1,0 +1,29 @@
+{
+  "id": "@ericzhaozzz/wechat-channel",
+  "name": "@ericzhaozzz/wechat-channel",
+  "url": "https://www.npmjs.com/package/@ericzhaozzz/wechat-channel",
+  "source": "npm-search",
+  "description": "@ericzhaozzz/wechat-channel — iLink Bot API integration for Pi Agent",
+  "metadata": {
+    "github_url": "https://github.com/EricZhaoZzz/wechat-channel",
+    "npm_name": "@ericzhaozzz/wechat-channel",
+    "description": "@ericzhaozzz/wechat-channel — iLink Bot API integration for Pi Agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "wechat",
+      "extension",
+      "ilink"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-10T01:33:21.984Z",
+    "npm_downloads_monthly": 129,
+    "npm_downloads_weekly": 129,
+    "npm_score_final": 15.606332,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

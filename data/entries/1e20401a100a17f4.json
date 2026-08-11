@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ArtificialNotImbecile/pi-desktop",
     "repo_full_name": "ArtificialNotImbecile/pi-desktop",
     "description": "An independent, modern desktop GUI for the Pi coding agent.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -26,11 +26,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-06T14:46:41Z",
-    "pushed_at": "2026-08-09T15:38:46Z",
-    "updated_at": "2026-08-09T15:39:08Z",
-    "size": 9583,
+    "pushed_at": "2026-08-11T09:26:24Z",
+    "updated_at": "2026-08-11T09:27:24Z",
+    "size": 10658,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

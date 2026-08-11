@@ -1,0 +1,25 @@
+{
+  "id": "trotsky1997-pi-workflow-engine",
+  "name": "trotsky1997-pi-workflow-engine",
+  "url": "https://github.com/trotsky1997/pi-workflow-engine",
+  "source": "github-search",
+  "description": "Dynamic-workflow engine for pi: a JS orchestration sandbox that spawns isolated subagents via agent()/parallel()/pipeline() and returns only the final synthesized value. Claude-Code-style dynamic workflows, token+cache tuned.",
+  "metadata": {
+    "github_url": "https://github.com/trotsky1997/pi-workflow-engine",
+    "repo_full_name": "trotsky1997/pi-workflow-engine",
+    "description": "Dynamic-workflow engine for pi: a JS orchestration sandbox that spawns isolated subagents via agent()/parallel()/pipeline() and returns only the final synthesized value. Claude-Code-style dynamic workflows, token+cache tuned.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-08T12:12:42Z",
+    "pushed_at": "2026-08-09T14:21:27Z",
+    "updated_at": "2026-08-11T23:14:47Z",
+    "size": 48,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

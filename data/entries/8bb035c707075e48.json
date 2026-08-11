@@ -26,11 +26,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-03T14:15:41Z",
-    "pushed_at": "2026-05-03T16:10:57Z",
-    "updated_at": "2026-05-15T10:20:48Z",
-    "size": 532,
+    "pushed_at": "2026-08-10T14:33:00Z",
+    "updated_at": "2026-08-10T14:36:01Z",
+    "size": 544,
     "license": null,
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
     "score": 58,

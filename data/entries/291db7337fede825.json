@@ -1,0 +1,25 @@
+{
+  "id": "@henkaku-center/chi-buzz",
+  "name": "@henkaku-center/chi-buzz",
+  "url": "https://www.npmjs.com/package/@henkaku-center/chi-buzz",
+  "source": "npm-search",
+  "description": "Buzz collaboration module for Chi and Pi coding sessions.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@henkaku-center/chi-buzz",
+    "description": "Buzz collaboration module for Chi and Pi coding sessions.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-05T03:52:05.711Z",
+    "npm_downloads_monthly": 74,
+    "npm_downloads_weekly": 74,
+    "npm_score_final": 13.57455,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

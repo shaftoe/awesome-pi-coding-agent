@@ -1,0 +1,33 @@
+{
+  "id": "@matthewfl/pi-contemplator",
+  "name": "@matthewfl/pi-contemplator",
+  "url": "https://www.npmjs.com/package/@matthewfl/pi-contemplator",
+  "source": "npm-search",
+  "description": "A Pi extension that keeps long-running agentic sessions on track with background memory, contemplation, and structural review.",
+  "metadata": {
+    "github_url": "https://github.com/matthewfl/pi-contemplator",
+    "npm_name": "@matthewfl/pi-contemplator",
+    "description": "A Pi extension that keeps long-running agentic sessions on track with background memory, contemplation, and structural review.",
+    "keywords": [
+      "pi",
+      "pi-agent",
+      "pi-package",
+      "extension",
+      "contemplator",
+      "observational-memory",
+      "memory",
+      "compaction",
+      "agentic"
+    ],
+    "version": "0.0.3",
+    "published_at": "2026-08-11T15:55:40.334Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

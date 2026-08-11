@@ -1,0 +1,42 @@
+{
+  "id": "@youkale/pi-hermes-memory",
+  "name": "@youkale/pi-hermes-memory",
+  "url": "https://www.npmjs.com/package/@youkale/pi-hermes-memory",
+  "source": "npm-search",
+  "description": "🧠 Persistent memory + 🔍 session search + 🛡️ secret scanning for Pi. Token-aware policy-only memory by default, SQLite FTS5 search, auto-consolidation, procedural skills. 368 tests. Ported from Hermes agent.",
+  "metadata": {
+    "github_url": "https://github.com/youkale/pi-hermes-memory",
+    "npm_name": "@youkale/pi-hermes-memory",
+    "description": "🧠 Persistent memory + 🔍 session search + 🛡️ secret scanning for Pi. Token-aware policy-only memory by default, SQLite FTS5 search, auto-consolidation, procedural skills. 368 tests. Ported from Hermes agent.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "memory",
+      "persistent-memory",
+      "session-search",
+      "sqlite",
+      "fts5",
+      "skills",
+      "learning-loop",
+      "agent",
+      "hermes",
+      "secret-scanning",
+      "content-scanner",
+      "correction-detection",
+      "auto-consolidation",
+      "memory-aging",
+      "context-fencing",
+      "two-tier-memory"
+    ],
+    "version": "0.7.15",
+    "published_at": "2026-08-03T16:54:48.412Z",
+    "npm_downloads_monthly": 97,
+    "npm_downloads_weekly": 97,
+    "npm_score_final": 14.470603,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_thomas-wiegold.com_pi-coding-agent",
+  "name": "Pi Coding Agent: The SDK Is the Real Reason to Care | Thomas Wiegold Blog",
+  "url": "https://thomas-wiegold.com/blog/pi-coding-agent/",
+  "source": "brave-web-search",
+  "description": "I spent a week with the Pi coding agent. The CLI is good, not revolutionary — the TypeScript SDK is what makes it worth switching. Setup, extensions, and a working build.",
+  "metadata": {
+    "title": "Pi Coding Agent: The SDK Is the Real Reason to Care | Thomas Wiegold Blog",
+    "name": "Pi Coding Agent: The SDK Is the Real Reason to Care | Thomas Wiegold Blog",
+    "description": "I spent a week with the Pi coding agent. The CLI is good, not revolutionary — the TypeScript SDK is what makes it worth switching. Setup, extensions, and a working build.",
+    "published_at": "2026-08-08T23:10:03",
+    "source_site": "Thomas-wiegold",
+    "source_url": "https://thomas-wiegold.com/blog/pi-coding-agent/",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

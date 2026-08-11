@@ -1,0 +1,27 @@
+{
+  "id": "pi-session-id-footer",
+  "name": "pi-session-id-footer",
+  "url": "https://www.npmjs.com/package/pi-session-id-footer",
+  "source": "npm-search",
+  "description": "Show the current Pi session id in the footer.",
+  "metadata": {
+    "github_url": "https://github.com/patlux/pi-session-id-footer",
+    "npm_name": "pi-session-id-footer",
+    "description": "Show the current Pi session id in the footer.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-04T18:34:16.231Z",
+    "npm_downloads_monthly": 163,
+    "npm_downloads_weekly": 163,
+    "npm_score_final": 16.163591,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "giuseppecrj-pi-honcho",
+  "name": "giuseppecrj-pi-honcho",
+  "url": "https://github.com/giuseppecrj/pi-honcho",
+  "source": "github-search",
+  "description": "Durable, privacy-aware Honcho memory for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/giuseppecrj/pi-honcho",
+    "repo_full_name": "giuseppecrj/pi-honcho",
+    "description": "Durable, privacy-aware Honcho memory for Pi.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "honcho",
+      "memory",
+      "pi",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-11T15:05:31Z",
+    "pushed_at": "2026-08-11T18:58:34Z",
+    "updated_at": "2026-08-11T18:59:30Z",
+    "size": 1518,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

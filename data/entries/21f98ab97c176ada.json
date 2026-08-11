@@ -1,0 +1,31 @@
+{
+  "id": "pi-task-orientation",
+  "name": "pi-task-orientation",
+  "url": "https://www.npmjs.com/package/pi-task-orientation",
+  "source": "npm-search",
+  "description": "Continuous task orientation for weak models: plan() is a gated mandatory first step (skills + AGENTS.md rules + execution checklist), task_todo() keeps the checklist live, turn-end checkpoints re-orient mid-task, and an agent-end check catches unfinished",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-task-orientation",
+    "description": "Continuous task orientation for weak models: plan() is a gated mandatory first step (skills + AGENTS.md rules + execution checklist), task_todo() keeps the checklist live, turn-end checkpoints re-orient mid-task, and an agent-end check catches unfinished ",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "skills",
+      "rules",
+      "todo",
+      "plan",
+      "agent"
+    ],
+    "version": "2.0.1",
+    "published_at": "2026-08-11T10:52:14.382Z",
+    "npm_downloads_monthly": 242,
+    "npm_downloads_weekly": 242,
+    "npm_score_final": 17.596598,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

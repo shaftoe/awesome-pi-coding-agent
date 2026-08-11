@@ -16,10 +16,10 @@
       "pi"
     ],
     "language": "TypeScript",
-    "archived": false,
+    "archived": true,
     "created_at": "2026-07-09T14:18:23Z",
     "pushed_at": "2026-08-05T10:18:06Z",
-    "updated_at": "2026-08-05T09:01:31Z",
+    "updated_at": "2026-08-10T18:26:10Z",
     "size": 5691,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

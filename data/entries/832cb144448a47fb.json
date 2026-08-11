@@ -10,7 +10,7 @@
     "description": "E-Pi — focused desktop shell for Pi sessions, packages, and terminal workflows",
     "stars": 2,
     "forks": 1,
-    "open_issues": 2,
+    "open_issues": 0,
     "topics": [
       "ai-agent",
       "desktop",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-05T07:32:38Z",
-    "pushed_at": "2026-08-08T10:52:25Z",
-    "updated_at": "2026-08-08T10:52:34Z",
-    "size": 2860,
+    "pushed_at": "2026-08-11T08:23:33Z",
+    "updated_at": "2026-08-11T08:23:51Z",
+    "size": 3204,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

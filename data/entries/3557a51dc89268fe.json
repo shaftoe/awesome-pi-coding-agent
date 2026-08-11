@@ -8,7 +8,7 @@
     "github_url": "https://github.com/sunipan/pi-claude-plan",
     "repo_full_name": "sunipan/pi-claude-plan",
     "description": "Unofficial Claude Pro/Max OAuth provider package for Pi, adapted from ex-machina-co/opencode-anthropic-auth.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-07-29T20:16:21Z",
     "pushed_at": "2026-07-29T20:58:30Z",
-    "updated_at": "2026-07-29T20:58:33Z",
+    "updated_at": "2026-08-10T18:55:47Z",
     "size": 55,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

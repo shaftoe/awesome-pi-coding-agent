@@ -1,0 +1,29 @@
+{
+  "id": "@masonchow/pi-hud",
+  "name": "@masonchow/pi-hud",
+  "url": "https://www.npmjs.com/package/@masonchow/pi-hud",
+  "source": "npm-search",
+  "description": "Pi extension: consume .claude/rules/ with Claude Code semantics (paths frontmatter, glob matching, /rules command)",
+  "metadata": {
+    "github_url": "https://github.com/MasonChow/pi-hub",
+    "npm_name": "@masonchow/pi-claude-rules",
+    "description": "Pi extension: consume .claude/rules/ with Claude Code semantics (paths frontmatter, glob matching, /rules command)",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "claude-code",
+      "rules",
+      "memory"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-03T10:22:59.239Z",
+    "npm_downloads_monthly": 88,
+    "npm_downloads_weekly": 88,
+    "npm_score_final": 13.36959,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

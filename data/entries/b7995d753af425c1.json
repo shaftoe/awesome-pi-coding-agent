@@ -1,0 +1,25 @@
+{
+  "id": "TmxjTmxj-pi-agent-omnipotent",
+  "name": "TmxjTmxj-pi-agent-omnipotent",
+  "url": "https://github.com/TmxjTmxj/pi-agent-omnipotent",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/TmxjTmxj/pi-agent-omnipotent",
+    "repo_full_name": "TmxjTmxj/pi-agent-omnipotent",
+    "description": "",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-11T04:28:50Z",
+    "pushed_at": "2026-08-11T04:28:54Z",
+    "updated_at": "2026-08-11T11:24:17Z",
+    "size": 19,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

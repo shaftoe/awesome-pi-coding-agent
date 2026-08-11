@@ -3,11 +3,11 @@
   "name": "Setting Up and Using the Pi Coding Agent | DeepakNess",
   "url": "https://deepakness.com/blog/pi-agent-setup/",
   "source": "brave-web-search",
-  "description": "My experience of setting up the Pi coding agent with DeepSeek, installing packages, and using it for side projects and experiments.",
+  "description": "I use this alongside pi-web-access. Web search finds the information, and the browser lets me interact with live pages, read documentation on sites that need JavaScript, and check things visually. It also adds the agent_browser_web_search tool, which is a quicker way to search the web than opening a full browser page. If you already pay for a Cursor subscription, this package lets you use it inside Pi so you are not paying twice.",
   "metadata": {
     "title": "Setting Up and Using the Pi Coding Agent | DeepakNess",
     "name": "Setting Up and Using the Pi Coding Agent | DeepakNess",
-    "description": "My experience of setting up the Pi coding agent with DeepSeek, installing packages, and using it for side projects and experiments.",
+    "description": "I use this alongside pi-web-access. Web search finds the information, and the browser lets me interact with live pages, read documentation on sites that need JavaScript, and check things visually. It also adds the agent_browser_web_search tool, which is a quicker way to search the web than opening a full browser page. If you already pay for a Cursor subscription, this package lets you use it inside Pi so you are not paying twice.",
     "published_at": "2026-07-21T00:00:00",
     "source_site": "DeepakNess",
     "source_url": "https://deepakness.com/blog/pi-agent-setup/",

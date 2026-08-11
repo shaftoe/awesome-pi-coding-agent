@@ -1,0 +1,33 @@
+{
+  "id": "superfly-pi-sprites",
+  "name": "superfly-pi-sprites",
+  "url": "https://github.com/superfly/pi-sprites",
+  "source": "github-search",
+  "description": "First-class Sprites environments for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/superfly/pi-sprites",
+    "repo_full_name": "superfly/pi-sprites",
+    "description": "First-class Sprites environments for the Pi coding agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "fly-io",
+      "pi",
+      "pi-package",
+      "remote-development",
+      "sandbox",
+      "sprites"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-06T19:02:14Z",
+    "pushed_at": "2026-08-10T18:36:40Z",
+    "updated_at": "2026-08-10T21:55:26Z",
+    "size": 111,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

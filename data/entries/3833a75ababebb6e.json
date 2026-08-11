@@ -8,7 +8,7 @@
     "github_url": "https://github.com/nicobailon/pi-boomerang",
     "repo_full_name": "nicobailon/pi-boomerang",
     "description": "Token-efficient autonomous task execution with context collapse for pi coding agent",
-    "stars": 291,
+    "stars": 292,
     "forks": 20,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-02T16:07:34Z",
     "pushed_at": "2026-08-03T07:28:36Z",
-    "updated_at": "2026-08-08T21:46:17Z",
+    "updated_at": "2026-08-11T16:51:10Z",
     "size": 2877,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

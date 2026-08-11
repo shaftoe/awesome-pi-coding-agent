@@ -3,33 +3,26 @@
   "name": "@stdd/cli",
   "url": "https://www.npmjs.com/package/@stdd/cli",
   "source": "npm-search",
-  "description": "Spec + Test Driven Development — a markdown-first methodology kit for teams building software with AI coding agents",
+  "description": "Universal STDD workflow skills and lifecycle integration for Codex, Claude Code, and Pi",
   "metadata": {
     "github_url": "https://github.com/vsem-azamat/stdd",
-    "npm_name": "@stdd/cli",
-    "description": "Spec + Test Driven Development — a markdown-first methodology kit for teams building software with AI coding agents",
+    "npm_name": "@stdd/plugin",
+    "description": "Universal STDD workflow skills and lifecycle integration for Codex, Claude Code, and Pi",
     "keywords": [
-      "sdd",
-      "tdd",
       "stdd",
-      "spec-driven-development",
-      "test-driven-development",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "pi-coding-agent",
-      "methodology",
-      "workflow"
+      "pi-package",
+      "codex-plugin",
+      "claude-code-plugin"
     ],
-    "version": "0.9.1",
-    "published_at": "2026-08-05T13:12:31.454Z",
-    "npm_downloads_monthly": 10305,
-    "npm_downloads_weekly": 856,
-    "npm_score_final": 38.37257,
+    "version": "0.9.2",
+    "published_at": "2026-08-11T08:01:00.997Z",
+    "npm_downloads_monthly": 248,
+    "npm_downloads_weekly": 248,
+    "npm_score_final": 17.179369,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "misc"
+  "category": "extension"
 }

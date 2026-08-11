@@ -3,11 +3,11 @@
   "name": "@lucascardozo/pi-edit-guard",
   "url": "https://www.npmjs.com/package/@lucascardozo/pi-edit-guard",
   "source": "npm-search",
-  "description": "Pi extension that wraps the native edit tool with indentation-drift recovery and uniqueness enforcement. Fixes the most common LLM failure mode in code editing.",
+  "description": "Pi extension that wraps the native edit tool with indentation-drift recovery, uniqueness enforcement, and batch-aware error reporting. Fixes the most common LLM failure mode in code editing.",
   "metadata": {
     "github_url": null,
     "npm_name": "@lucascardozo/pi-edit-guard",
-    "description": "Pi extension that wraps the native edit tool with indentation-drift recovery and uniqueness enforcement. Fixes the most common LLM failure mode in code editing.",
+    "description": "Pi extension that wraps the native edit tool with indentation-drift recovery, uniqueness enforcement, and batch-aware error reporting. Fixes the most common LLM failure mode in code editing.",
     "keywords": [
       "pi-package",
       "pi",
@@ -18,15 +18,15 @@
       "ai",
       "coding-agent"
     ],
-    "version": "0.5.0",
-    "published_at": "2026-08-09T23:05:37.001Z",
-    "npm_downloads_monthly": 34,
-    "npm_downloads_weekly": 34,
-    "npm_score_final": 13.013019,
+    "version": "0.6.1",
+    "published_at": "2026-08-11T20:52:56.749Z",
+    "npm_downloads_monthly": 673,
+    "npm_downloads_weekly": 673,
+    "npm_score_final": 21.724571,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

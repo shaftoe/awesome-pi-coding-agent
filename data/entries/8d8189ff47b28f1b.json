@@ -1,0 +1,25 @@
+{
+  "id": "@henkaku-center/chi-base",
+  "name": "@henkaku-center/chi-base",
+  "url": "https://www.npmjs.com/package/@henkaku-center/chi-base",
+  "source": "npm-search",
+  "description": "Shared coordination infrastructure for Chi Pi extensions.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@henkaku-center/chi-base",
+    "description": "Shared coordination infrastructure for Chi Pi extensions.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-05T03:51:57.310Z",
+    "npm_downloads_monthly": 70,
+    "npm_downloads_weekly": 70,
+    "npm_score_final": 13.126034,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

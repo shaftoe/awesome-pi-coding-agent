@@ -8,8 +8,8 @@
     "github_url": "https://github.com/DLYZZT/pi-desktop",
     "repo_full_name": "DLYZZT/pi-desktop",
     "description": "A local-first, cross-platform Electron desktop workspace for Pi Coding Agent, with sessions, project files, browser tools, skills, plugins, and messaging integrations.",
-    "stars": 79,
-    "forks": 9,
+    "stars": 86,
+    "forks": 10,
     "open_issues": 3,
     "topics": [
       "agentic-ai",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-12T01:46:30Z",
-    "pushed_at": "2026-08-08T16:04:20Z",
-    "updated_at": "2026-08-09T17:07:59Z",
-    "size": 2203,
+    "pushed_at": "2026-08-11T02:53:18Z",
+    "updated_at": "2026-08-11T15:51:20Z",
+    "size": 2434,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

@@ -1,0 +1,30 @@
+{
+  "id": "pi-media-guard",
+  "name": "pi-media-guard",
+  "url": "https://www.npmjs.com/package/pi-media-guard",
+  "source": "npm-search",
+  "description": "Deterministic aggregate media budgets and safe request projections for Pi",
+  "metadata": {
+    "github_url": "https://github.com/spyfree/pi-media-guard",
+    "npm_name": "pi-media-guard",
+    "description": "Deterministic aggregate media budgets and safe request projections for Pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "llm",
+      "image",
+      "media",
+      "multimodal"
+    ],
+    "version": "0.1.0-beta.2",
+    "published_at": "2026-08-10T03:01:11.733Z",
+    "npm_downloads_monthly": 421,
+    "npm_downloads_weekly": 421,
+    "npm_score_final": 18.84695,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
