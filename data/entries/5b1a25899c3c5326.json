@@ -1,0 +1,31 @@
+{
+  "id": "openui-forge",
+  "name": "openui-forge",
+  "url": "https://www.npmjs.com/package/openui-forge",
+  "source": "npm-search",
+  "description": "Cross-IDE, multi-stack agent skill for OpenUI (the Open Standard for Generative UI). Core skill plus stack variants for OpenAI, Anthropic, LangChain, Vercel, Python, Go, Rust, C#, Java, Ruby, PHP, Elixir.",
+  "metadata": {
+    "github_url": "https://github.com/OthmanAdi/openui-forge",
+    "npm_name": "openui-forge",
+    "description": "Cross-IDE, multi-stack agent skill for OpenUI (the Open Standard for Generative UI). Core skill plus stack variants for OpenAI, Anthropic, LangChain, Vercel, Python, Go, Rust, C#, Java, Ruby, PHP, Elixir.",
+    "keywords": [
+      "pi-package",
+      "pi-skill",
+      "openui",
+      "generative-ui",
+      "agent-skill",
+      "claude-code",
+      "skill"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-08-03T13:29:20.410Z",
+    "npm_downloads_monthly": 128,
+    "npm_downloads_weekly": 128,
+    "npm_score_final": 15.548162,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

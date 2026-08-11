@@ -1,0 +1,32 @@
+{
+  "id": "ferdousbhai-pi-muse-bridge",
+  "name": "ferdousbhai-pi-muse-bridge",
+  "url": "https://github.com/ferdousbhai/pi-muse-bridge",
+  "source": "github-search",
+  "description": "Run Muse Spark as a pi subagent through Muse Code using existing Meta auth.",
+  "metadata": {
+    "github_url": "https://github.com/ferdousbhai/pi-muse-bridge",
+    "repo_full_name": "ferdousbhai/pi-muse-bridge",
+    "description": "Run Muse Spark as a pi subagent through Muse Code using existing Meta auth.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "muse-code",
+      "muse-spark",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "subagent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-10T08:42:36Z",
+    "pushed_at": "2026-08-10T11:31:00Z",
+    "updated_at": "2026-08-10T11:32:14Z",
+    "size": 27,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

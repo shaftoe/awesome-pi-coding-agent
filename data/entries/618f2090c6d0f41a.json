@@ -1,0 +1,25 @@
+{
+  "id": "GoNow1231-prism-gate",
+  "name": "GoNow1231-prism-gate",
+  "url": "https://github.com/GoNow1231/prism-gate",
+  "source": "github-search",
+  "description": "Fail-closed optical context for Pi agents. Interface-only integration for external MemOCR and Glyph-compatible services.",
+  "metadata": {
+    "github_url": "https://github.com/GoNow1231/prism-gate",
+    "repo_full_name": "GoNow1231/prism-gate",
+    "description": "Fail-closed optical context for Pi agents. Interface-only integration for external MemOCR and Glyph-compatible services.",
+    "stars": 16,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-10T07:13:38Z",
+    "pushed_at": "2026-08-10T07:18:07Z",
+    "updated_at": "2026-08-11T23:23:27Z",
+    "size": 191,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "Garden-citizen dispatch substrate + meta-bridge: make Claude Code, Codex, Antigravity, and pi sessions garden-addressable peers — with a Claude-first ACP plugin (Cortex/vendor ACP backends are future lanes).",
     "stars": 25,
     "forks": 4,
-    "open_issues": 18,
+    "open_issues": 3,
     "topics": [
       "acp",
       "agent-client-protocol",
@@ -27,9 +27,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-16T07:04:48Z",
-    "pushed_at": "2026-08-09T07:51:55Z",
-    "updated_at": "2026-08-09T07:51:59Z",
-    "size": 23789,
+    "pushed_at": "2026-08-10T04:17:21Z",
+    "updated_at": "2026-08-11T13:44:56Z",
+    "size": 23899,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

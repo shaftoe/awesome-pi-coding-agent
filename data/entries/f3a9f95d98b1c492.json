@@ -8,7 +8,7 @@
     "github_url": "https://github.com/backnotprop/orchestrator",
     "repo_full_name": "backnotprop/orchestrator",
     "description": "Agents orchestrating other agents",
-    "stars": 103,
+    "stars": 105,
     "forks": 2,
     "open_issues": 2,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-06-17T21:38:20Z",
     "pushed_at": "2026-07-10T03:11:50Z",
-    "updated_at": "2026-08-06T18:50:51Z",
+    "updated_at": "2026-08-11T21:54:46Z",
     "size": 2431,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

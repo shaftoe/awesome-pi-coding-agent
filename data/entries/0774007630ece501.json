@@ -1,0 +1,30 @@
+{
+  "id": "@parke.dev/pi-dashboard",
+  "name": "@parke.dev/pi-dashboard",
+  "url": "https://www.npmjs.com/package/@parke.dev/pi-dashboard",
+  "source": "npm-search",
+  "description": "Shared bounded-retry HTTP client for Pi integration packages",
+  "metadata": {
+    "github_url": "https://github.com/LukasParke/pi-extensions",
+    "npm_name": "@parke.dev/pi-integration-http",
+    "description": "Shared bounded-retry HTTP client for Pi integration packages",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "integration",
+      "http",
+      "library",
+      "parke.dev"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-11T18:11:52.851Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

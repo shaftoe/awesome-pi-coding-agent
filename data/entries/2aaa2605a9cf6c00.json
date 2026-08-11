@@ -1,0 +1,25 @@
+{
+  "id": "cv-pic",
+  "name": "cv-pic",
+  "url": "https://github.com/cv/pic",
+  "source": "github-search",
+  "description": "A Pi agent whose live session and interface are a Chrome DOM",
+  "metadata": {
+    "github_url": "https://github.com/cv/pic",
+    "repo_full_name": "cv/pic",
+    "description": "A Pi agent whose live session and interface are a Chrome DOM",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-07T18:06:48Z",
+    "pushed_at": "2026-08-11T21:47:53Z",
+    "updated_at": "2026-08-11T21:47:57Z",
+    "size": 5573,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

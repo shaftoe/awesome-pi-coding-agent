@@ -1,0 +1,25 @@
+{
+  "id": "stijnVanHorenbeek-pi-ste-writing",
+  "name": "stijnVanHorenbeek-pi-ste-writing",
+  "url": "https://github.com/stijnVanHorenbeek/pi-ste-writing",
+  "source": "github-search",
+  "description": "A Pi-native skill for human-facing technical prose. It improves clarity without changing technical meaning. The package adapts useful ASD-STE100 practices for software documentation. It does not make normal Pi coding conversations conform to strict Simplified Technical English (STE).",
+  "metadata": {
+    "github_url": "https://github.com/stijnVanHorenbeek/pi-ste-writing",
+    "repo_full_name": "stijnVanHorenbeek/pi-ste-writing",
+    "description": "A Pi-native skill for human-facing technical prose. It improves clarity without changing technical meaning.  The package adapts useful ASD-STE100 practices for software documentation. It does not make normal Pi coding conversations conform to strict Simplified Technical English (STE).",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-09T08:31:29Z",
+    "pushed_at": "2026-08-11T15:34:59Z",
+    "updated_at": "2026-08-11T15:36:52Z",
+    "size": 1007,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

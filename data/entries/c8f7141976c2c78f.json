@@ -10,7 +10,7 @@
     "description": "Faster tools for the Pi coding agent. Edit files using 60% fewer tokens. Inspired by Dirac.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "agentic-ai",
       "ai-coding",

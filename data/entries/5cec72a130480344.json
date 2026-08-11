@@ -8,7 +8,7 @@
     "github_url": "https://github.com/AizenvoltPrime/damocles",
     "repo_full_name": "AizenvoltPrime/damocles",
     "description": "A VS Code extension that embeds an AI coding agent (Claude and GPT and other models) in your editor, powered by the Pi agent runtime.",
-    "stars": 70,
+    "stars": 72,
     "forks": 6,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2025-12-23T18:43:39Z",
     "pushed_at": "2026-08-08T16:44:52Z",
-    "updated_at": "2026-08-08T16:44:52Z",
+    "updated_at": "2026-08-11T03:00:57Z",
     "size": 22726,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

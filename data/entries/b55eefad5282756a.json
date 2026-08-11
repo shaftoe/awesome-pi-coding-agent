@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_lobehub.com_yukukotani-pi-voice-pi-coding-agent-conf",
+  "name": "pi-coding-agent-config | Skills Marketplace · LobeHub",
+  "url": "https://lobehub.com/skills/yukukotani-pi-voice-pi-coding-agent-config",
+  "source": "brave-web-search",
+  "description": "Reference for customizing and configuring pi-coding-agent (pi). Covers settings files (settings.json), extensions, skills, prompt templates, package manageme...",
+  "metadata": {
+    "title": "pi-coding-agent-config | Skills Marketplace · LobeHub",
+    "name": "pi-coding-agent-config | Skills Marketplace · LobeHub",
+    "description": "Reference for customizing and configuring pi-coding-agent (pi). Covers settings files (settings.json), extensions, skills, prompt templates, package manageme...",
+    "published_at": "2026-07-28T08:50:02",
+    "source_site": "LobeHub",
+    "source_url": "https://lobehub.com/skills/yukukotani-pi-voice-pi-coding-agent-config",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

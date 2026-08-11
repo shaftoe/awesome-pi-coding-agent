@@ -8,7 +8,7 @@
     "github_url": "https://github.com/deskwand/agent",
     "repo_full_name": "deskwand/agent",
     "description": "Desktop AI Agent",
-    "stars": 5,
+    "stars": 4,
     "forks": 2,
     "open_issues": 0,
     "topics": [
@@ -30,7 +30,7 @@
     "archived": false,
     "created_at": "2026-06-19T01:57:53Z",
     "pushed_at": "2026-08-08T16:56:55Z",
-    "updated_at": "2026-08-08T16:56:59Z",
+    "updated_at": "2026-08-11T20:56:27Z",
     "size": 25008,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

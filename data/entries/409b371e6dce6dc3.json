@@ -1,0 +1,25 @@
+{
+  "id": "kartikkabadi-pi-handoff",
+  "name": "kartikkabadi-pi-handoff",
+  "url": "https://github.com/kartikkabadi/pi-handoff",
+  "source": "github-search",
+  "description": "OMP-style session handoff for the pi coding agent. One /handoff command writes a structured handoff document and starts a fresh session that continues the work. Install with pi install.",
+  "metadata": {
+    "github_url": "https://github.com/kartikkabadi/pi-handoff",
+    "repo_full_name": "kartikkabadi/pi-handoff",
+    "description": "OMP-style session handoff for the pi coding agent. One /handoff command writes a structured handoff document and starts a fresh session that continues the work. Install with pi install.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-11T16:15:17Z",
+    "pushed_at": "2026-08-11T19:09:53Z",
+    "updated_at": "2026-08-11T21:33:07Z",
+    "size": 46520,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

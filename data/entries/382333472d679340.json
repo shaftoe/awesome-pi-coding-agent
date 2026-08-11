@@ -1,0 +1,25 @@
+{
+  "id": "gwokfun-my-pi-extensions",
+  "name": "gwokfun-my-pi-extensions",
+  "url": "https://github.com/gwokfun/my-pi-extensions",
+  "source": "github-search",
+  "description": "Personal pi extensions, skills, prompts, and themes",
+  "metadata": {
+    "github_url": "https://github.com/gwokfun/my-pi-extensions",
+    "repo_full_name": "gwokfun/my-pi-extensions",
+    "description": "Personal pi extensions, skills, prompts, and themes",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-10T15:20:20Z",
+    "pushed_at": "2026-08-11T16:11:04Z",
+    "updated_at": "2026-08-11T16:10:05Z",
+    "size": 124,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

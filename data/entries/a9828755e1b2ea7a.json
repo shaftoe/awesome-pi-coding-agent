@@ -9,7 +9,7 @@
     "repo_full_name": "code-yeongyu/pi-lsp-client",
     "description": "Language Server Protocol integration for the pi coding agent. Faithful port of the LSP tools from oh-my-openagent: shared server pool, refCount lifecycle, idle/init reaping, typed crash retry, and a /lsp inspector.",
     "stars": 14,
-    "forks": 3,
+    "forks": 4,
     "open_issues": 2,
     "topics": [
       "code-intelligence",

@@ -1,0 +1,27 @@
+{
+  "id": "@lollyz/pi-jira-extension",
+  "name": "@lollyz/pi-jira-extension",
+  "url": "https://www.npmjs.com/package/@lollyz/pi-jira-extension",
+  "source": "npm-search",
+  "description": "Jira Cloud integration for Pi",
+  "metadata": {
+    "github_url": "https://github.com/Lollyz/pi-jira-extension",
+    "npm_name": "@lollyz/pi-jira-extension",
+    "description": "Jira Cloud integration for Pi",
+    "keywords": [
+      "pi-package",
+      "jira",
+      "atlassian"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-08-04T14:19:31.083Z",
+    "npm_downloads_monthly": 98,
+    "npm_downloads_weekly": 98,
+    "npm_score_final": 13.48668,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

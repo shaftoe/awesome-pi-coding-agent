@@ -1,0 +1,31 @@
+{
+  "id": "pi-image-vision",
+  "name": "pi-image-vision",
+  "url": "https://www.npmjs.com/package/pi-image-vision",
+  "source": "npm-search",
+  "description": "Image understanding for text-only LLMs in pi — paste transcription + read_image tool via your configured vision providers",
+  "metadata": {
+    "github_url": "https://github.com/thomasheep/pi-image-vision",
+    "npm_name": "pi-image-vision",
+    "description": "Image understanding for text-only LLMs in pi — paste transcription + read_image tool via your configured vision providers",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "vision",
+      "ocr",
+      "image",
+      "mimo"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-10T13:22:14.118Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "lukasl-dev-pithon",
+  "name": "lukasl-dev-pithon",
+  "url": "https://github.com/lukasl-dev/pithon",
+  "source": "github-search",
+  "description": "Persistent IPython kernel extension for pi, with session state, notebook export, and Nix packaging.",
+  "metadata": {
+    "github_url": "https://github.com/lukasl-dev/pithon",
+    "repo_full_name": "lukasl-dev/pithon",
+    "description": "Persistent IPython kernel extension for pi, with session state, notebook export, and Nix packaging.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ipython",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "python"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-07T18:26:19Z",
+    "pushed_at": "2026-08-10T13:31:20Z",
+    "updated_at": "2026-08-11T09:45:24Z",
+    "size": 54,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "@8monkey/pi-media",
+  "name": "@8monkey/pi-media",
+  "url": "https://www.npmjs.com/package/@8monkey/pi-media",
+  "source": "npm-search",
+  "description": "Pi extension that attaches local media files mentioned with @ to the request.",
+  "metadata": {
+    "github_url": "https://github.com/8monkey-ai/pi-media",
+    "npm_name": "@8monkey/pi-media",
+    "description": "Pi extension that attaches local media files mentioned with @ to the request.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "media",
+      "attachments",
+      "files"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-03T19:19:01.494Z",
+    "npm_downloads_monthly": 91,
+    "npm_downloads_weekly": 91,
+    "npm_score_final": 13.514937,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

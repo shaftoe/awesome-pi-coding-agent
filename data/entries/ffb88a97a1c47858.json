@@ -10,7 +10,7 @@
     "description": "oh-my-dag — the full harness around the model, on the pi coding-agent runtime. DAG execution engine (typed nodes, concurrent fan-out, cross-model verify, escalate on failure), pathfinder planning, agent-template registry, self-consolidating memory, code-enforced gates, MCP router, 22 skills. omd is the bundled terminal agent.",
     "stars": 36,
     "forks": 1,
-    "open_issues": 5,
+    "open_issues": 4,
     "topics": [
       "agent-runtime",
       "agentic-ai",
@@ -32,9 +32,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-04T08:12:23Z",
-    "pushed_at": "2026-08-09T06:07:24Z",
-    "updated_at": "2026-08-09T06:07:34Z",
-    "size": 7625,
+    "pushed_at": "2026-08-11T15:21:42Z",
+    "updated_at": "2026-08-11T15:25:09Z",
+    "size": 9660,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

@@ -3,28 +3,30 @@
   "name": "Jaxton07-pi-desktop",
   "url": "https://github.com/Jaxton07/pi-desktop",
   "source": "github-search",
-  "description": "A desktop GUI for the Pi coding agent — Pi's power and extensibility, with a visual interface.",
+  "description": "pi-desktop Minimalist desktop GUI for the Pi coding agent — the same engine as the Pi CLI, in a clean visual interface. Multi-session chat, visual tool approvals, and custom themes.",
   "metadata": {
     "github_url": "https://github.com/Jaxton07/pi-desktop",
     "repo_full_name": "Jaxton07/pi-desktop",
-    "description": "A desktop GUI for the Pi coding agent — Pi's power and extensibility, with a visual interface.",
-    "stars": 1,
-    "forks": 0,
+    "description": "pi-desktop Minimalist desktop GUI for the Pi coding agent — the same engine as the Pi CLI, in a clean visual interface. Multi-session chat, visual tool approvals, and custom themes.",
+    "stars": 51,
+    "forks": 4,
     "open_issues": 0,
     "topics": [
       "agent",
       "ai-agent",
       "desktop-app",
-      "pi"
+      "gui",
+      "pi",
+      "pi-desktop"
     ],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-08T04:37:46Z",
-    "pushed_at": "2026-08-09T08:22:40Z",
-    "updated_at": "2026-08-09T08:22:25Z",
-    "size": 6674,
+    "pushed_at": "2026-08-11T13:53:56Z",
+    "updated_at": "2026-08-11T23:02:32Z",
+    "size": 8954,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
   "category": "extension"
 }

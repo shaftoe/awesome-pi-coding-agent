@@ -1,0 +1,27 @@
+{
+  "id": "wyattjoh-pi-claude-bridge",
+  "name": "wyattjoh-pi-claude-bridge",
+  "url": "https://github.com/wyattjoh/pi-claude-bridge",
+  "source": "github-search",
+  "description": "Pi extension for opt-in Claude Code peer messaging",
+  "metadata": {
+    "github_url": "https://github.com/wyattjoh/pi-claude-bridge",
+    "repo_full_name": "wyattjoh/pi-claude-bridge",
+    "description": "Pi extension for opt-in Claude Code peer messaging",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-10T22:11:47Z",
+    "pushed_at": "2026-08-11T15:28:53Z",
+    "updated_at": "2026-08-10T22:29:14Z",
+    "size": 72,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

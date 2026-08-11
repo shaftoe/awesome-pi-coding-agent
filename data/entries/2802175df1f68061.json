@@ -1,0 +1,40 @@
+{
+  "id": "tuxevil-tuxevil-rotator",
+  "name": "tuxevil-tuxevil-rotator",
+  "url": "https://github.com/tuxevil/tuxevil-rotator",
+  "source": "github-search",
+  "description": "Multi-provider, multi-account AI proxy rotator with per-model routing, quota tracking, and provider compatibility.",
+  "metadata": {
+    "github_url": "https://github.com/tuxevil/tuxevil-rotator",
+    "repo_full_name": "tuxevil/tuxevil-rotator",
+    "description": "Multi-provider, multi-account AI proxy rotator with per-model routing, quota tracking, and provider compatibility.",
+    "stars": 35,
+    "forks": 9,
+    "open_issues": 0,
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "antigravity",
+      "api-rotation",
+      "claude-code",
+      "codex",
+      "gemini-ai",
+      "gemini-api",
+      "hermes-agent",
+      "openai-api",
+      "openai-proxy",
+      "openclaw",
+      "pi-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-22T01:33:34Z",
+    "pushed_at": "2026-08-11T23:30:05Z",
+    "updated_at": "2026-08-11T20:37:39Z",
+    "size": 9602,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

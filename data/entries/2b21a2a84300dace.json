@@ -1,0 +1,30 @@
+{
+  "id": "@jackice/pi-handoff",
+  "name": "@jackice/pi-handoff",
+  "url": "https://www.npmjs.com/package/@jackice/pi-handoff",
+  "source": "npm-search",
+  "description": "Handoff extension for pi coding agent - transfer context to a new session (ported from omp)",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@jackice/pi-handoff",
+    "description": "Handoff extension for pi coding agent - transfer context to a new session (ported from omp)",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "handoff",
+      "session",
+      "context-transfer"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-11T14:07:19.373Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

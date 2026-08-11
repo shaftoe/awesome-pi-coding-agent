@@ -1,0 +1,25 @@
+{
+  "id": "runecraftai-harness",
+  "name": "runecraftai-harness",
+  "url": "https://github.com/runecraftai/harness",
+  "source": "github-search",
+  "description": "Runecraft Harness — multi-agent harness for the Pi coding agent: guards, verification, evals, resilience, memory and coded routing around four forked tools.",
+  "metadata": {
+    "github_url": "https://github.com/runecraftai/harness",
+    "repo_full_name": "runecraftai/harness",
+    "description": "Runecraft Harness — multi-agent harness for the Pi coding agent: guards, verification, evals, resilience, memory and coded routing around four forked tools.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-09T01:12:58Z",
+    "pushed_at": "2026-08-11T09:13:46Z",
+    "updated_at": "2026-08-11T09:13:55Z",
+    "size": 6048,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

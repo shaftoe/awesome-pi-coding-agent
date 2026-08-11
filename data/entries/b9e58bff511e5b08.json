@@ -1,0 +1,32 @@
+{
+  "id": "pi-extension-persona",
+  "name": "pi-extension-persona",
+  "url": "https://www.npmjs.com/package/pi-extension-persona",
+  "source": "npm-search",
+  "description": "Pi extension that loads persona (system prompt) into pi session with namespaced sources (hermes/hat/json)",
+  "metadata": {
+    "github_url": "https://github.com/buihongduc132/pi-extension-persona",
+    "npm_name": "pi-extension-persona",
+    "description": "Pi extension that loads persona (system prompt) into pi session with namespaced sources (hermes/hat/json)",
+    "keywords": [
+      "pi-extension",
+      "pi-package",
+      "pi",
+      "persona",
+      "system-prompt",
+      "hermes",
+      "wear-hats",
+      "session"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-08-04T19:56:29.900Z",
+    "npm_downloads_monthly": 277,
+    "npm_downloads_weekly": 277,
+    "npm_score_final": 18.087584,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

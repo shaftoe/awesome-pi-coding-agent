@@ -1,0 +1,31 @@
+{
+  "id": "geto-graph",
+  "name": "geto-graph",
+  "url": "https://www.npmjs.com/package/geto-graph",
+  "source": "npm-search",
+  "description": "SQLite + BM25 codebase symbol graph for pi. Query-first reading: search, refs, blast radius.",
+  "metadata": {
+    "github_url": "https://github.com/mr-jones123/geto",
+    "npm_name": "geto-graph",
+    "description": "SQLite + BM25 codebase symbol graph for pi. Query-first reading: search, refs, blast radius.",
+    "keywords": [
+      "pi-package",
+      "geto-graph",
+      "symbol-graph",
+      "codebase",
+      "sqlite",
+      "bm25",
+      "tree-sitter"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-10T05:58:35.044Z",
+    "npm_downloads_monthly": 236,
+    "npm_downloads_weekly": 236,
+    "npm_score_final": 16.822584,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

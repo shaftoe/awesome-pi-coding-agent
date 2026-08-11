@@ -8,7 +8,7 @@
     "github_url": "https://github.com/CaptCanadaMan/pi-rpc-bridge",
     "repo_full_name": "CaptCanadaMan/pi-rpc-bridge",
     "description": "HTTP + WebSocket bridge for pi-mono's RPC mode. Drive the pi coding agent remotely from any client, over any transport.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -26,10 +26,10 @@
     "archived": false,
     "created_at": "2026-05-05T01:16:27Z",
     "pushed_at": "2026-06-16T23:15:23Z",
-    "updated_at": "2026-08-03T14:59:57Z",
+    "updated_at": "2026-08-10T15:21:15Z",
     "size": 78,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
     "score": 50,

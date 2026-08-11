@@ -1,0 +1,25 @@
+{
+  "id": "MaxGzLi-pi-feishu-im",
+  "name": "MaxGzLi-pi-feishu-im",
+  "url": "https://github.com/MaxGzLi/pi-feishu-im",
+  "source": "github-search",
+  "description": "Connect multiple Pi coding agents through one Feishu/Lark group with guided setup and strict peer routing.",
+  "metadata": {
+    "github_url": "https://github.com/MaxGzLi/pi-feishu-im",
+    "repo_full_name": "MaxGzLi/pi-feishu-im",
+    "description": "Connect multiple Pi coding agents through one Feishu/Lark group with guided setup and strict peer routing.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-10T09:11:58Z",
+    "pushed_at": "2026-08-11T07:09:33Z",
+    "updated_at": "2026-08-11T07:09:42Z",
+    "size": 233,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

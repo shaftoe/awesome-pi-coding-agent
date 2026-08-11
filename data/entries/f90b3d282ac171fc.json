@@ -1,0 +1,25 @@
+{
+  "id": "yorch-pi-statusbar",
+  "name": "yorch-pi-statusbar",
+  "url": "https://github.com/yorch/pi-statusbar",
+  "source": "github-search",
+  "description": "Theme-aware status bar (footer) for the pi coding agent — modular segments, presets, rich git status, context progress bar, session clock, Nerd Font icons.",
+  "metadata": {
+    "github_url": "https://github.com/yorch/pi-statusbar",
+    "repo_full_name": "yorch/pi-statusbar",
+    "description": "Theme-aware status bar (footer) for the pi coding agent — modular segments, presets, rich git status, context progress bar, session clock, Nerd Font icons.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-11T04:01:49Z",
+    "pushed_at": "2026-08-11T06:22:13Z",
+    "updated_at": "2026-08-11T06:22:17Z",
+    "size": 84,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}
