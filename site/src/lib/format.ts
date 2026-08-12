@@ -8,7 +8,7 @@
 import "@pipeline/core/temporal.ts";
 
 import { decodeHtmlEntities } from "@pipeline/core/html";
-import type { CategorizedEntry } from "@pipeline/core/types";
+import { type CategorizedEntry, EntrySource } from "@pipeline/core/types";
 
 // ─── Display name ─────────────────────────────────────────────────────────────
 
@@ -52,27 +52,40 @@ export function formatStars(n: number): string {
 
 /**
  * Source-aware popularity string.
- * Returns the strongest available signal: YouTube views, GitHub stars, npm downloads.
+ * - YouTube: views
+ * - GitHub: stars
+ * - npm: downloads + stars (when enriched with GitHub data)
  */
 export function popularity(entry: CategorizedEntry): string {
 	const meta = entry.metadata as Record<string, unknown>;
 
 	// YouTube entries: views
-	const views = meta["views"];
-	if (typeof views === "number" && views > 0) {
-		return `📺${formatNumber(views)}`;
+	if (entry.source === EntrySource.YouTubeSearch) {
+		const views = meta["views"];
+		if (typeof views === "number" && views > 0) {
+			return `📺${formatNumber(views)}`;
+		}
+		return "";
 	}
 
-	// GitHub entries: stars
+	// npm entries: downloads + stars (enriched)
+	if (entry.source === EntrySource.NpmSearch) {
+		const parts: string[] = [];
+		const downloads = meta["npm_downloads_monthly"];
+		if (typeof downloads === "number" && downloads > 0) {
+			parts.push(`⬇ ${formatNumber(downloads)}/mo`);
+		}
+		const stars = meta["stars"];
+		if (typeof stars === "number" && stars > 0) {
+			parts.push(`⭐${formatNumber(stars)}`);
+		}
+		return parts.join(" ");
+	}
+
+	// GitHub and other entries: stars
 	const stars = meta["stars"];
 	if (typeof stars === "number" && stars > 0) {
 		return `⭐${formatNumber(stars)}`;
-	}
-
-	// npm entries: monthly downloads
-	const downloads = meta["npm_downloads_monthly"];
-	if (typeof downloads === "number" && downloads > 0) {
-		return `⬇ ${formatNumber(downloads)}/mo`;
 	}
 
 	return "";
@@ -126,7 +139,13 @@ export function timeAgo(isoDate: string | null): string {
 /** Pick the most relevant "last updated" timestamp from entry metadata. */
 export function lastUpdated(entry: CategorizedEntry): string | null {
 	const meta = entry.metadata as Record<string, unknown>;
-	for (const field of ["pushed_at", "published_at", "updated_at"] as const) {
+	for (const field of [
+		"github_pushed_at",
+		"pushed_at",
+		"published_at",
+		"github_updated_at",
+		"updated_at",
+	] as const) {
 		if (typeof meta[field] === "string") return meta[field] as string;
 	}
 	return null;
@@ -134,7 +153,7 @@ export function lastUpdated(entry: CategorizedEntry): string | null {
 
 // ─── Language ─────────────────────────────────────────────────────────────────
 
-/** Extract the primary language from entry metadata (GitHub entries only). */
+/** Extract the primary language from entry metadata (GitHub and enriched npm entries). */
 export function language(entry: CategorizedEntry): string | null {
 	const meta = entry.metadata as Record<string, unknown>;
 	return typeof meta["language"] === "string" ? meta["language"] : null;
