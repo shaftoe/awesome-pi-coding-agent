@@ -1,0 +1,31 @@
+{
+  "id": "pi-feishu-link",
+  "name": "pi-feishu-link",
+  "url": "https://www.npmjs.com/package/pi-feishu-link",
+  "source": "npm-search",
+  "description": "High-reliability Feishu/Lark bridge for Pi — zero-config onboarding, persistent outbox (at-least-once), streaming output, native pi command adapter, permission bridge, one-click diagnostics",
+  "metadata": {
+    "github_url": "https://github.com/amlyczz/pi-feishu-link",
+    "npm_name": "pi-feishu-link",
+    "description": "High-reliability Feishu/Lark bridge for Pi — zero-config onboarding, persistent outbox (at-least-once), streaming output, native pi command adapter, permission bridge, one-click diagnostics",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "feishu",
+      "lark",
+      "bridge",
+      "bot"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-08-12T15:39:45.498Z",
+    "npm_downloads_monthly": 128,
+    "npm_downloads_weekly": 128,
+    "npm_score_final": 14.7617855,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

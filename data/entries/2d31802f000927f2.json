@@ -1,0 +1,30 @@
+{
+  "id": "getdatasurge-token-phish-blocker",
+  "name": "getdatasurge-token-phish-blocker",
+  "url": "https://github.com/getdatasurge/token-phish-blocker",
+  "source": "github-search",
+  "description": "Always-on anti-hedging policy for the Pi coding agent — auto-fix instead of caveat, with audit trail and live counter.",
+  "metadata": {
+    "github_url": "https://github.com/getdatasurge/token-phish-blocker",
+    "repo_full_name": "getdatasurge/token-phish-blocker",
+    "description": "Always-on anti-hedging policy for the Pi coding agent — auto-fix instead of caveat, with audit trail and live counter.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "coding-agent",
+      "pi",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-12T01:54:39Z",
+    "pushed_at": "2026-08-12T14:43:30Z",
+    "updated_at": "2026-08-12T14:45:11Z",
+    "size": 1323,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

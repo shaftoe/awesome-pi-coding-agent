@@ -10,7 +10,7 @@
     "description": "🔧 Power tools for pi — repo autopsy, tsgo LSP, codex background loops, session reader, and more",
     "stars": 82,
     "forks": 1,
-    "open_issues": 24,
+    "open_issues": 25,
     "topics": [
       "codex",
       "extensions",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-13T04:05:14Z",
-    "pushed_at": "2026-08-09T19:06:54Z",
+    "pushed_at": "2026-08-12T19:02:00Z",
     "updated_at": "2026-08-10T06:10:27Z",
-    "size": 6001,
+    "size": 6015,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

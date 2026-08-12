@@ -3,19 +3,20 @@
   "name": "@gamaraan/next-prompt",
   "url": "https://www.npmjs.com/package/@gamaraan/next-prompt",
   "source": "npm-search",
-  "description": "pi coding-agent extension that suggests the next logical prompt after an agent turn settles (inline ghost, below-editor widget, or both).",
+  "description": "pi and Oh My Pi (OMP) coding-agent extension that suggests the next logical prompt after an agent turn settles (inline ghost, below-editor widget, or both).",
   "metadata": {
     "github_url": "https://github.com/gamaraan/next-prompt-extension",
     "npm_name": "@gamaraan/next-prompt",
-    "description": "pi coding-agent extension that suggests the next logical prompt after an agent turn settles (inline ghost, below-editor widget, or both).",
+    "description": "pi and Oh My Pi (OMP) coding-agent extension that suggests the next logical prompt after an agent turn settles (inline ghost, below-editor widget, or both).",
     "keywords": [
-      "pi-package"
+      "pi-package",
+      "omp"
     ],
-    "version": "0.1.6",
-    "published_at": "2026-08-11T17:59:03.864Z",
+    "version": "0.2.0",
+    "published_at": "2026-08-12T04:26:29.213Z",
     "npm_downloads_monthly": 562,
     "npm_downloads_weekly": 562,
-    "npm_score_final": 19.450438,
+    "npm_score_final": 20.514969,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

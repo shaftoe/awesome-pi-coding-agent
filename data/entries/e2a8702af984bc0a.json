@@ -1,0 +1,32 @@
+{
+  "id": "Xaaaa-bip-pi-recon",
+  "name": "Xaaaa-bip-pi-recon",
+  "url": "https://github.com/Xaaaa-bip/pi-recon",
+  "source": "github-search",
+  "description": "Pi plugin: recon and asset discovery",
+  "metadata": {
+    "github_url": "https://github.com/Xaaaa-bip/pi-recon",
+    "repo_full_name": "Xaaaa-bip/pi-recon",
+    "description": "Pi plugin: recon and asset discovery",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pentest",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "recon",
+      "red-team"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-11T02:14:22Z",
+    "pushed_at": "2026-08-11T02:34:29Z",
+    "updated_at": "2026-08-12T06:39:47Z",
+    "size": 411,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

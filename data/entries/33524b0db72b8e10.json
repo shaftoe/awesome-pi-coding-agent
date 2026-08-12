@@ -1,0 +1,25 @@
+{
+  "id": "apolinario-community-symbient",
+  "name": "apolinario-community-symbient",
+  "url": "https://github.com/apolinario/community-symbient",
+  "source": "github-search",
+  "description": "Concurrent Modular Agent framework for community symbients — markdown memory, local-first providers, Pi Agent runtime. Feÿ deployment included as reference.",
+  "metadata": {
+    "github_url": "https://github.com/apolinario/community-symbient",
+    "repo_full_name": "apolinario/community-symbient",
+    "description": "Concurrent Modular Agent framework for community symbients — markdown memory, local-first providers, Pi Agent runtime. Feÿ deployment included as reference.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-09T07:06:21Z",
+    "pushed_at": "2026-07-11T10:44:58Z",
+    "updated_at": "2026-08-12T14:01:29Z",
+    "size": 1091,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

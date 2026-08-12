@@ -1,0 +1,31 @@
+{
+  "id": "uttkarsh-26-pi-browser-harness-stable",
+  "name": "uttkarsh-26-pi-browser-harness-stable",
+  "url": "https://github.com/uttkarsh-26/pi-browser-harness-stable",
+  "source": "github-search",
+  "description": "Stable Pi browser harness with demand-driven Chrome reconnects",
+  "metadata": {
+    "github_url": "https://github.com/uttkarsh-26/pi-browser-harness-stable",
+    "repo_full_name": "uttkarsh-26/pi-browser-harness-stable",
+    "description": "Stable Pi browser harness with demand-driven Chrome reconnects",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "browser-automation",
+      "chrome-devtools-protocol",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-12T13:33:05Z",
+    "pushed_at": "2026-08-12T13:33:39Z",
+    "updated_at": "2026-08-12T13:34:26Z",
+    "size": 1996,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

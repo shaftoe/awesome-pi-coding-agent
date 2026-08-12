@@ -1,0 +1,25 @@
+{
+  "id": "vocsong-Vocs-Pi-Control",
+  "name": "vocsong-Vocs-Pi-Control",
+  "url": "https://github.com/vocsong/Vocs-Pi-Control",
+  "source": "github-search",
+  "description": "Secure sandboxed control plane for Pi coding agents with isolated workspaces, persistent sessions, Git worktrees and multi-agent.",
+  "metadata": {
+    "github_url": "https://github.com/vocsong/Vocs-Pi-Control",
+    "repo_full_name": "vocsong/Vocs-Pi-Control",
+    "description": "Secure sandboxed control plane for Pi coding agents with isolated workspaces, persistent sessions, Git worktrees and multi-agent.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-11T07:09:01Z",
+    "pushed_at": "2026-08-12T15:33:01Z",
+    "updated_at": "2026-08-12T15:33:38Z",
+    "size": 3555,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

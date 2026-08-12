@@ -10,7 +10,7 @@
     "description": "Claude Code-style UI bundle for the Pi coding agent — tool rendering, spinner, statusline, themes, setup wizard",
     "stars": 3,
     "forks": 1,
-    "open_issues": 2,
+    "open_issues": 3,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

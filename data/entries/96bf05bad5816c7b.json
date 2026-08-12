@@ -1,0 +1,31 @@
+{
+  "id": "Jeecabs-moron-guard",
+  "name": "Jeecabs-moron-guard",
+  "url": "https://github.com/Jeecabs/moron-guard",
+  "source": "github-search",
+  "description": "In-process destructive-command guard for Pi",
+  "metadata": {
+    "github_url": "https://github.com/Jeecabs/moron-guard",
+    "repo_full_name": "Jeecabs/moron-guard",
+    "description": "In-process destructive-command guard for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 4,
+    "topics": [
+      "pi",
+      "pi-package",
+      "security",
+      "shell",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-13T06:25:20Z",
+    "pushed_at": "2026-08-12T02:20:58Z",
+    "updated_at": "2026-08-12T02:21:02Z",
+    "size": 394,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

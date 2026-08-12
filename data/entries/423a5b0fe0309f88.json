@@ -3,21 +3,21 @@
   "name": "pi-tmux-bell",
   "url": "https://www.npmjs.com/package/pi-tmux-bell",
   "source": "npm-search",
-  "description": "Pi extension that rings the terminal bell when a task completes or needs input — perfect for tmux notifications",
+  "description": "Pi extension that sends cmux notifications when Pi finishes or needs input",
   "metadata": {
     "github_url": "https://github.com/satyam-mishra-pce/pi-tmux-bell",
     "npm_name": "pi-tmux-bell",
-    "description": "Pi extension that rings the terminal bell when a task completes or needs input — perfect for tmux notifications",
+    "description": "Pi extension that sends cmux notifications when Pi finishes or needs input",
     "keywords": [
       "pi-package",
       "pi-extension",
       "pi-coding-agent",
-      "tmux",
-      "terminal-bell",
-      "notification"
+      "cmux",
+      "notification",
+      "agent-notifications"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-08-11T10:38:21.024Z",
+    "version": "0.1.1",
+    "published_at": "2026-08-12T10:22:32.785Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

@@ -1,0 +1,31 @@
+{
+  "id": "pi-caduceus",
+  "name": "pi-caduceus",
+  "url": "https://www.npmjs.com/package/pi-caduceus",
+  "source": "npm-search",
+  "description": "Persona Contract package for pi. Injects a deterministic, testable, line-citable persona prompt segment before the first token of a pi session, given (mode, locale).",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-caduceus",
+    "description": "Persona Contract package for pi. Injects a deterministic, testable, line-citable persona prompt segment before the first token of a pi session, given (mode, locale).",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "caduceus",
+      "persona",
+      "prompt-orchestration",
+      "persona-contract"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-12T08:06:20.853Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cliproxy-usage",
+  "name": "cliproxy-usage",
+  "url": "https://www.npmjs.com/package/cliproxy-usage",
+  "source": "npm-search",
+  "description": "Compact CLIProxyAPI account usage meters for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/Zigerry/cliproxy-usage",
+    "npm_name": "cliproxy-usage",
+    "description": "Compact CLIProxyAPI account usage meters for Pi Coding Agent",
+    "keywords": [
+      "pi-package",
+      "cliproxyapi",
+      "usage"
+    ],
+    "version": "0.5.0",
+    "published_at": "2026-08-05T03:09:50.951Z",
+    "npm_downloads_monthly": 719,
+    "npm_downloads_weekly": 719,
+    "npm_score_final": 21.55883,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "@agentskit/doc-bridge",
+  "name": "@agentskit/doc-bridge",
+  "url": "https://www.npmjs.com/package/@agentskit/doc-bridge",
+  "source": "npm-search",
+  "description": "Human↔agent documentation bridge — deterministic handoffs, doc-site links, memory→docs, optional AgentsKit RAG/chat.",
+  "metadata": {
+    "github_url": "https://github.com/AgentsKit-io/doc-bridge",
+    "npm_name": "@agentskit/doc-bridge",
+    "description": "Human↔agent documentation bridge — deterministic handoffs, doc-site links, memory→docs, optional AgentsKit RAG/chat.",
+    "keywords": [
+      "agentskit",
+      "documentation",
+      "mcp",
+      "pi-package",
+      "for-agents",
+      "llms-txt",
+      "agent-handoff",
+      "rag",
+      "human-agent-bridge"
+    ],
+    "version": "1.4.1",
+    "published_at": "2026-08-12T14:20:01.511Z",
+    "npm_downloads_monthly": 2449,
+    "npm_downloads_weekly": 470,
+    "npm_score_final": 26.081118,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

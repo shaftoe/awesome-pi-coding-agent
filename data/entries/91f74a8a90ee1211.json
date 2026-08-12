@@ -1,0 +1,37 @@
+{
+  "id": "pi-extension-qwen-token-plan-cn-ex",
+  "name": "pi-extension-qwen-token-plan-cn-ex",
+  "url": "https://www.npmjs.com/package/pi-extension-qwen-token-plan-cn-ex",
+  "source": "npm-search",
+  "description": "Enhanced Qwen Token Plan CN provider for pi. Speaks the OpenAI Responses API (not chat-completions) to activate the platform's server-side Harness tools — web search, code interpreter, web extraction, and image search — that the built-in qwen-token-plan-c",
+  "metadata": {
+    "github_url": "https://github.com/shamiao/pi-extension-qwen-token-plan-cn-ex",
+    "npm_name": "pi-extension-qwen-token-plan-cn-ex",
+    "description": "Enhanced Qwen Token Plan CN provider for pi. Speaks the OpenAI Responses API (not chat-completions) to activate the platform's server-side Harness tools — web search, code interpreter, web extraction, and image search — that the built-in qwen-token-plan-c",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "qwen",
+      "qwen-token-plan",
+      "aliyun",
+      "alibaba-cloud",
+      "dashscope",
+      "bailian",
+      "responses-api",
+      "openai-responses",
+      "web-search",
+      "llm"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-05T06:59:05.894Z",
+    "npm_downloads_monthly": 137,
+    "npm_downloads_weekly": 137,
+    "npm_score_final": 15.607709,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
