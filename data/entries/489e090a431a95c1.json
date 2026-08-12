@@ -1,0 +1,25 @@
+{
+  "id": "Karmak0ma-pi-tools",
+  "name": "Karmak0ma-pi-tools",
+  "url": "https://github.com/Karmak0ma/pi-tools",
+  "source": "github-search",
+  "description": "Set of extensions and themes for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Karmak0ma/pi-tools",
+    "repo_full_name": "Karmak0ma/pi-tools",
+    "description": "Set of extensions and themes for pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-11T19:55:18Z",
+    "pushed_at": "2026-08-12T22:54:00Z",
+    "updated_at": "2026-08-12T22:54:05Z",
+    "size": 1,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

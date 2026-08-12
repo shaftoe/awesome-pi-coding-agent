@@ -1,0 +1,30 @@
+{
+  "id": "bkase-pi-anti-clonking",
+  "name": "bkase-pi-anti-clonking",
+  "url": "https://github.com/bkase/pi-anti-clonking",
+  "source": "github-search",
+  "description": "Consent-based continuity handoffs instead of silent context compaction for Pi",
+  "metadata": {
+    "github_url": "https://github.com/bkase/pi-anti-clonking",
+    "repo_full_name": "bkase/pi-anti-clonking",
+    "description": "Consent-based continuity handoffs instead of silent context compaction for Pi",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "context-management",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-12T09:59:00Z",
+    "pushed_at": "2026-08-12T10:00:56Z",
+    "updated_at": "2026-08-12T20:31:21Z",
+    "size": 15,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

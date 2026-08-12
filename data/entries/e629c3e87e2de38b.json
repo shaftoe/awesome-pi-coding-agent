@@ -1,0 +1,25 @@
+{
+  "id": "DysektAI-pi-extensions",
+  "name": "DysektAI-pi-extensions",
+  "url": "https://github.com/DysektAI/pi-extensions",
+  "source": "github-search",
+  "description": "Public-safe Pi coding-agent extensions (tasks, search, LSP, goal, UX helpers)",
+  "metadata": {
+    "github_url": "https://github.com/DysektAI/pi-extensions",
+    "repo_full_name": "DysektAI/pi-extensions",
+    "description": "Public-safe Pi coding-agent extensions (tasks, search, LSP, goal, UX helpers)",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-14T17:58:27Z",
+    "pushed_at": "2026-07-24T05:09:49Z",
+    "updated_at": "2026-08-11T23:58:29Z",
+    "size": 169,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

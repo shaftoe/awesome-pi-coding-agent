@@ -3,11 +3,11 @@
   "name": "Pi Agent — The Minimalist Coding Harness That Adapts to YOU | Alejandro AO",
   "url": "https://alejandro-ao.com/pi-agent-overview/",
   "source": "brave-web-search",
-  "description": "Bundle extensions, skills, prompts, and themes into Pi packages and share them via npm or git:",
+  "description": "You define templates in ~/.pi/agent/prompts/ as Markdown files. Any template in that directory becomes a slash command. It’s like having a library of expert prompts on speed dial. Skills are self-contained capability packages.",
   "metadata": {
     "title": "Pi Agent — The Minimalist Coding Harness That Adapts to YOU | Alejandro AO",
     "name": "Pi Agent — The Minimalist Coding Harness That Adapts to YOU | Alejandro AO",
-    "description": "Bundle extensions, skills, prompts, and themes into Pi packages and share them via npm or git:",
+    "description": "You define templates in ~/.pi/agent/prompts/ as Markdown files. Any template in that directory becomes a slash command. It’s like having a library of expert prompts on speed dial. Skills are self-contained capability packages.",
     "published_at": "2026-05-05T00:00:00",
     "source_site": "Alejandro AO",
     "source_url": "https://alejandro-ao.com/pi-agent-overview/",

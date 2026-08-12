@@ -10,7 +10,7 @@
     "description": "Microsoft Defender XDR Advanced Hunting extension and investigation skills for pi",
     "stars": 0,
     "forks": 0,
-    "open_issues": 5,
+    "open_issues": 6,
     "topics": [
       "advanced-hunting",
       "kql",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-20T06:53:40Z",
-    "pushed_at": "2026-08-01T12:57:28Z",
+    "pushed_at": "2026-08-12T07:10:01Z",
     "updated_at": "2026-07-25T16:35:07Z",
-    "size": 341,
+    "size": 381,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

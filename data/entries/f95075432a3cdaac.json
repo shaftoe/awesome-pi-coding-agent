@@ -1,0 +1,25 @@
+{
+  "id": "eko24ive-pi-config",
+  "name": "eko24ive-pi-config",
+  "url": "https://github.com/eko24ive/pi-config",
+  "source": "github-search",
+  "description": "Curated Pi coding-agent configuration, skills, and package setup.",
+  "metadata": {
+    "github_url": "https://github.com/eko24ive/pi-config",
+    "repo_full_name": "eko24ive/pi-config",
+    "description": "Curated Pi coding-agent configuration, skills, and package setup.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-20T08:29:25Z",
+    "pushed_at": "2026-08-12T17:25:16Z",
+    "updated_at": "2026-08-12T17:25:22Z",
+    "size": 305,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

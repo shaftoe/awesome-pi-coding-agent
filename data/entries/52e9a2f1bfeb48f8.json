@@ -1,0 +1,25 @@
+{
+  "id": "Kiriketsuki-chrysaki-pi",
+  "name": "Kiriketsuki-chrysaki-pi",
+  "url": "https://github.com/Kiriketsuki/chrysaki-pi",
+  "source": "github-search",
+  "description": "Independent Chrysaki theme integration for Pi",
+  "metadata": {
+    "github_url": "https://github.com/Kiriketsuki/chrysaki-pi",
+    "repo_full_name": "Kiriketsuki/chrysaki-pi",
+    "description": "Independent Chrysaki theme integration for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-12T01:29:21Z",
+    "pushed_at": "2026-08-12T08:41:40Z",
+    "updated_at": "2026-08-12T08:41:48Z",
+    "size": 397,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

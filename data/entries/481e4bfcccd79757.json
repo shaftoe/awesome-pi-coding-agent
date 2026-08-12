@@ -1,0 +1,31 @@
+{
+  "id": "Powfu-zwx-pi-proofline",
+  "name": "Powfu-zwx-pi-proofline",
+  "url": "https://github.com/Powfu-zwx/pi-proofline",
+  "source": "github-search",
+  "description": "Pi extension that records every agent run as a verifiable proofline bundle",
+  "metadata": {
+    "github_url": "https://github.com/Powfu-zwx/pi-proofline",
+    "repo_full_name": "Powfu-zwx/pi-proofline",
+    "description": "Pi extension that records every agent run as a verifiable proofline bundle",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "pi-package",
+      "proofline",
+      "provenance",
+      "verifiable-ai"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-12T05:45:26Z",
+    "pushed_at": "2026-08-12T06:57:14Z",
+    "updated_at": "2026-08-12T08:00:05Z",
+    "size": 26,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

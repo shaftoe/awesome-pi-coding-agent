@@ -10,7 +10,7 @@
     "description": "Local-first coding-agent races, evidence-linked diagnosis, and project-local Pi workflow improvement.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 3,
     "topics": [
       "coding-agents",
       "evals",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-23T11:41:16Z",
-    "pushed_at": "2026-08-09T21:04:40Z",
+    "pushed_at": "2026-08-12T02:18:12Z",
     "updated_at": "2026-07-26T14:08:34Z",
-    "size": 957,
+    "size": 990,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

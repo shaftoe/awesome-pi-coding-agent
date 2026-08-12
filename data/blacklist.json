@@ -45791,5 +45791,145 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-agent"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=QEU9JDeqkhU",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-12T23:38:00.528Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/kelvincushman/orphus",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-12T23:38:00.747Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/grad0x/mini-pi",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-12T23:38:00.889Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=TXYVGKMf1Sw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-12T23:38:00.895Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@adensxp/pi-cost-meter",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-12T23:38:00.903Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=XoCg5QrOiLQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-12T23:38:00.971Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@codeninza/aicouncil",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-08-12T23:38:01.057Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/al-ula/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-12T23:38:01.107Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/0x-jerry/pi-package",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-12T23:38:01.123Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=40342MDDLNo",
+		"reason": "pi network crypto signal: \"pi network\"",
+		"blacklisted_at": "2026-08-12T23:38:01.338Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Howryann/skillcoffer",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-12T23:38:01.397Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=-RL9ssUT7fM",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-08-12T23:38:01.407Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/pika-monitor/pika-default-theme",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-12T23:38:01.44Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=MBA99IMYjPc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-12T23:38:01.574Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
 	}
 ]

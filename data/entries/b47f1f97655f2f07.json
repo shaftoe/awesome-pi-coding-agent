@@ -1,0 +1,27 @@
+{
+  "id": "@ai-outfitter/channels",
+  "name": "@ai-outfitter/channels",
+  "url": "https://www.npmjs.com/package/@ai-outfitter/channels",
+  "source": "npm-search",
+  "description": "Pi extension that pushes channel events (email/Slack/Signal/…) into an agent session, waking it only when real work arrives.",
+  "metadata": {
+    "github_url": "https://github.com/ai-outfitter/channels",
+    "npm_name": "@ai-outfitter/channels",
+    "description": "Pi extension that pushes channel events (email/Slack/Signal/…) into an agent session, waking it only when real work arrives.",
+    "keywords": [
+      "pi-package",
+      "ai-outfitter",
+      "channels"
+    ],
+    "version": "1.5.0",
+    "published_at": "2026-08-04T16:35:17.958Z",
+    "npm_downloads_monthly": 119,
+    "npm_downloads_weekly": 119,
+    "npm_score_final": 14.917936,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

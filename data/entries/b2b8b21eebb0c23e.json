@@ -8,9 +8,9 @@
     "github_url": "https://github.com/L2ncE/pi-recap",
     "repo_full_name": "L2ncE/pi-recap",
     "description": "Claude Code-style session recap for pi agent — a stable one-line status recap above the footer",
-    "stars": 5,
-    "forks": 0,
-    "open_issues": 0,
+    "stars": 9,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "extension",
       "pi-agent",
@@ -20,7 +20,7 @@
     "archived": false,
     "created_at": "2026-08-10T08:22:11Z",
     "pushed_at": "2026-08-11T02:59:02Z",
-    "updated_at": "2026-08-11T20:16:43Z",
+    "updated_at": "2026-08-12T11:23:39Z",
     "size": 2110,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

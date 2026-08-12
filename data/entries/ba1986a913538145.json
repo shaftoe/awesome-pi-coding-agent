@@ -1,0 +1,31 @@
+{
+  "id": "@qoder-ai/better-harness",
+  "name": "@qoder-ai/better-harness",
+  "url": "https://www.npmjs.com/package/@qoder-ai/better-harness",
+  "source": "npm-search",
+  "description": "Build an AI-ready engineering system for safe coding-agent delivery and continuous software improvement.",
+  "metadata": {
+    "github_url": "https://github.com/QoderAI/better-harness",
+    "npm_name": "@qoder-ai/better-harness",
+    "description": "Build an AI-ready engineering system for safe coding-agent delivery and continuous software improvement.",
+    "keywords": [
+      "coding-agent",
+      "qoder",
+      "better-harness",
+      "ai-delivery",
+      "continuous-improvement",
+      "agent-harness",
+      "pi-package"
+    ],
+    "version": "0.5.0",
+    "published_at": "2026-08-04T12:18:32.588Z",
+    "npm_downloads_monthly": 482,
+    "npm_downloads_weekly": 482,
+    "npm_score_final": 19.405243,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

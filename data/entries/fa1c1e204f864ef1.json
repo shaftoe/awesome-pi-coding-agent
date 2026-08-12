@@ -1,0 +1,25 @@
+{
+  "id": "skai-in-ai-dev-flow",
+  "name": "skai-in-ai-dev-flow",
+  "url": "https://github.com/skai-in-ai/dev-flow",
+  "source": "github-search",
+  "description": "Spec-driven development workflow on Pi Coding Agent: isolated implementation, deterministic tests, independent AI review, recoverable human checkpoints, and GitHub Issue-to-Draft-PR automation.",
+  "metadata": {
+    "github_url": "https://github.com/skai-in-ai/dev-flow",
+    "repo_full_name": "skai-in-ai/dev-flow",
+    "description": "Spec-driven development workflow on Pi Coding Agent: isolated implementation, deterministic tests, independent AI review, recoverable human checkpoints, and GitHub Issue-to-Draft-PR automation.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-06T14:38:27Z",
+    "pushed_at": "2026-08-12T17:32:35Z",
+    "updated_at": "2026-08-12T17:33:35Z",
+    "size": 514,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

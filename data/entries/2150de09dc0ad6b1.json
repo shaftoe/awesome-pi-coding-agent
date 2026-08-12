@@ -1,0 +1,31 @@
+{
+  "id": "ste-guard",
+  "name": "ste-guard",
+  "url": "https://www.npmjs.com/package/ste-guard",
+  "source": "npm-search",
+  "description": "Keeps agent replies in Simplified Technical English. Ships for pi, Claude Code, and Codex from one rule engine.",
+  "metadata": {
+    "github_url": "https://github.com/ofrusch/ste-guard",
+    "npm_name": "ste-guard",
+    "description": "Keeps agent replies in Simplified Technical English. Ships for pi, Claude Code, and Codex from one rule engine.",
+    "keywords": [
+      "pi-package",
+      "writing",
+      "style",
+      "ste",
+      "asd-ste100",
+      "linter",
+      "anti-slop"
+    ],
+    "version": "0.6.1",
+    "published_at": "2026-08-12T18:55:37.098Z",
+    "npm_downloads_monthly": 249,
+    "npm_downloads_weekly": 249,
+    "npm_score_final": 17.694948,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

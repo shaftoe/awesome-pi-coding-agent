@@ -1,0 +1,29 @@
+{
+  "id": "eggmasonvalue-pi-setup",
+  "name": "eggmasonvalue-pi-setup",
+  "url": "https://github.com/eggmasonvalue/pi-setup",
+  "source": "github-search",
+  "description": "Pi package distributing maintained extensions, skills, themes, and bootstrap tooling for configuring Pi installations.",
+  "metadata": {
+    "github_url": "https://github.com/eggmasonvalue/pi-setup",
+    "repo_full_name": "eggmasonvalue/pi-setup",
+    "description": "Pi package distributing maintained extensions, skills, themes, and bootstrap tooling for configuring Pi installations.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-skills",
+      "agent-tooling",
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-21T05:45:25Z",
+    "pushed_at": "2026-08-12T20:39:12Z",
+    "updated_at": "2026-08-12T20:39:16Z",
+    "size": 293,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
