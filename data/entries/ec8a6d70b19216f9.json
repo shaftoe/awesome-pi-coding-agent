@@ -17,11 +17,11 @@
     ],
     "language": "TypeScript",
     "archived": false,
-    "created_at": "2026-07-27T13:51:01Z",
-    "pushed_at": "2026-07-29T13:11:46Z",
-    "updated_at": "2026-07-29T13:13:53Z",
-    "size": 3419,
-    "license": "MIT",
+    "created_at": "2026-08-12T20:10:05Z",
+    "pushed_at": "2026-08-13T00:04:18Z",
+    "updated_at": "2026-08-13T00:19:54Z",
+    "size": 4478,
+    "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "category": "extension"

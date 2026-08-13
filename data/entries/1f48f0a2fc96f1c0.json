@@ -1,0 +1,31 @@
+{
+  "id": "chenleji-hermes-memory-sync",
+  "name": "chenleji-hermes-memory-sync",
+  "url": "https://github.com/chenleji/hermes-memory-sync",
+  "source": "github-search",
+  "description": "Pi extension for additive export and import of pi-hermes-memory archives",
+  "metadata": {
+    "github_url": "https://github.com/chenleji/hermes-memory-sync",
+    "repo_full_name": "chenleji/hermes-memory-sync",
+    "description": "Pi extension for additive export and import of pi-hermes-memory archives",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "memory",
+      "migration",
+      "pi-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-13T07:17:03Z",
+    "pushed_at": "2026-08-13T07:59:13Z",
+    "updated_at": "2026-08-13T08:00:05Z",
+    "size": 67,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

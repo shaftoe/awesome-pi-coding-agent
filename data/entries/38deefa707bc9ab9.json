@@ -1,0 +1,28 @@
+{
+  "id": "@hk_net/pi-advisor",
+  "name": "@hk_net/pi-advisor",
+  "url": "https://www.npmjs.com/package/@hk_net/pi-advisor",
+  "source": "npm-search",
+  "description": "Pi advisor extension: consult a configured reviewer model on the full conversation transcript",
+  "metadata": {
+    "github_url": "https://github.com/hknet/pi-extensions",
+    "npm_name": "@hk_net/pi-advisor",
+    "description": "Pi advisor extension: consult a configured reviewer model on the full conversation transcript",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "advisor"
+    ],
+    "version": "0.1.7",
+    "published_at": "2026-08-13T08:53:53.776Z",
+    "npm_downloads_monthly": 573,
+    "npm_downloads_weekly": 25,
+    "npm_score_final": 20.645077,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "@wolido/async-subagent-isolation",
+  "name": "@wolido/async-subagent-isolation",
+  "url": "https://www.npmjs.com/package/@wolido/async-subagent-isolation",
+  "source": "npm-search",
+  "description": "A pi extension that asynchronously delegates tasks to specialized subagents running in isolated pi processes.",
+  "metadata": {
+    "github_url": "https://github.com/Wolido/async-subagent-isolation",
+    "npm_name": "@wolido/async-subagent-isolation",
+    "description": "A pi extension that asynchronously delegates tasks to specialized subagents running in isolated pi processes.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "subagent",
+      "isolation",
+      "async",
+      "background"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-08-13T12:49:39.392Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

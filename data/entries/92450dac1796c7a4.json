@@ -8,7 +8,7 @@
     "github_url": "https://github.com/pekochan069/pi-vimmode",
     "repo_full_name": "pekochan069/pi-vimmode",
     "description": "Vim mode for pi agent",
-    "stars": 8,
+    "stars": 9,
     "forks": 6,
     "open_issues": 18,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-26T06:25:31Z",
     "pushed_at": "2026-07-31T00:45:26Z",
-    "updated_at": "2026-08-11T15:07:50Z",
+    "updated_at": "2026-08-13T06:05:42Z",
     "size": 5848,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

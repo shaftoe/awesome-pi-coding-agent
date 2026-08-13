@@ -8,10 +8,10 @@
     "title": "Integrate with Pi | DeepSeek API Docs",
     "name": "Integrate with Pi | DeepSeek API Docs",
     "description": "Pi (pi-mono) is a minimal, aggressively extensible terminal coding harness. It adapts to your workflows through TypeScript extensions, skills, prompt templates, and themes — with tree-structured sessions and 15+ built-in providers.",
-    "published_at": "2026-07-31T16:00:04",
+    "published_at": "2026-08-13T17:35:02",
     "source_site": "DeepSeek",
     "source_url": "https://api-docs.deepseek.com/quick_start/agent_integrations/pi_mono/",
-    "discovery_hint": "brave:pi-coding-agent"
+    "discovery_hint": "brave:pi-agent"
   },
   "category": "article"
 }

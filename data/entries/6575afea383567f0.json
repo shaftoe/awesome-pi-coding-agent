@@ -10,7 +10,7 @@
     "description": "Free, open-source cross-platform desktop app for the Pi coding agent on Windows, macOS, and Linux. Projects, conversations, streamed tool activity, diffs, model controls, and graphical extensions in one native workspace.",
     "stars": 3,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 2,
     "topics": [
       "agentic-coding",
       "ai-agent",
@@ -34,9 +34,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-25T20:39:16Z",
-    "pushed_at": "2026-08-11T22:28:44Z",
-    "updated_at": "2026-08-11T22:28:48Z",
-    "size": 4323,
+    "pushed_at": "2026-08-12T23:50:23Z",
+    "updated_at": "2026-08-12T23:42:26Z",
+    "size": 5630,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

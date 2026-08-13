@@ -8,7 +8,7 @@
     "github_url": "https://github.com/harrylyu2006/pi-tgbot",
     "repo_full_name": "harrylyu2006/pi-tgbot",
     "description": "Security-conscious Telegram daemon for the pi coding agent SDK",
-    "stars": 1,
+    "stars": 2,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -21,11 +21,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-10T16:14:46Z",
-    "pushed_at": "2026-08-12T04:05:34Z",
-    "updated_at": "2026-08-12T13:31:47Z",
-    "size": 215,
+    "pushed_at": "2026-08-13T11:21:52Z",
+    "updated_at": "2026-08-13T11:22:28Z",
+    "size": 277,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

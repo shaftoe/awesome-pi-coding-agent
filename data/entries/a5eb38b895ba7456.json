@@ -3,29 +3,29 @@
   "name": "@ifi/pi-plan",
   "url": "https://www.npmjs.com/package/@ifi/pi-plan",
   "source": "npm-search",
-  "description": "Prompt-completion diagnostics extension for pi with timestamps, durations, per-turn timing, and a live widget.",
+  "description": "Reactive background shell tasks for pi with /bg, Ctrl+Shift+B, log viewing, and agent wakeups on output.",
   "metadata": {
     "github_url": "https://github.com/ifiokjr/oh-pi",
-    "npm_name": "@ifi/pi-diagnostics",
-    "description": "Prompt-completion diagnostics extension for pi with timestamps, durations, per-turn timing, and a live widget.",
+    "npm_name": "@ifi/pi-background-tasks",
+    "description": "Reactive background shell tasks for pi with /bg, Ctrl+Shift+B, log viewing, and agent wakeups on output.",
     "keywords": [
-      "diagnostics",
-      "observability",
+      "automation",
+      "background-tasks",
       "pi",
       "pi-coding-agent",
       "pi-package",
-      "timestamps",
-      "timing"
+      "shell",
+      "watch"
     ],
     "version": "0.5.1",
-    "published_at": "2026-04-28T05:50:12.173Z",
-    "npm_downloads_monthly": 44,
-    "npm_downloads_weekly": 12,
-    "npm_score_final": 14.728558,
+    "published_at": "2026-04-28T05:50:06.294Z",
+    "npm_downloads_monthly": 175,
+    "npm_downloads_weekly": 38,
+    "npm_score_final": 16.415697,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "health": {
     "score": 91,

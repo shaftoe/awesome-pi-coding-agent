@@ -10,7 +10,7 @@
     "description": "Cyberful is an open-source application-security workbench for discovering, exploiting, verifying, and remediating vulnerabilities.",
     "stars": 29,
     "forks": 3,
-    "open_issues": 11,
+    "open_issues": 9,
     "topics": [
       "agents",
       "ai-hacking",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-13T18:21:25Z",
-    "pushed_at": "2026-08-10T04:42:14Z",
-    "updated_at": "2026-08-11T02:56:43Z",
-    "size": 16500,
+    "pushed_at": "2026-08-13T14:22:46Z",
+    "updated_at": "2026-08-13T09:23:39Z",
+    "size": 17499,
     "license": "AGPL-3.0",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
