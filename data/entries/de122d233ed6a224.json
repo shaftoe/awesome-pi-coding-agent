@@ -8,7 +8,7 @@
     "github_url": "https://github.com/vibheksoni/pi-t3chat",
     "repo_full_name": "vibheksoni/pi-t3chat",
     "description": "pi-t3chat  t3.chat extension for Pi coding agent. 50+ frontier AI models (Claude Fable-5, GPT-5.6, Gemini 3.5, Grok 4.3, DeepSeek V4, Llama 4, Qwen 3) via t3.chat subscription. TLS impersonation, dynamic model discovery, tool calling, MCP wrapper tools.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -37,7 +37,7 @@
     "archived": false,
     "created_at": "2026-07-02T01:33:25Z",
     "pushed_at": "2026-07-02T03:03:05Z",
-    "updated_at": "2026-07-02T03:58:37Z",
+    "updated_at": "2026-08-13T09:52:25Z",
     "size": 336,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

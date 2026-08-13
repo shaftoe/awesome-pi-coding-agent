@@ -1,0 +1,25 @@
+{
+  "id": "ian-pascoe-pi-adaptive-thinking",
+  "name": "ian-pascoe-pi-adaptive-thinking",
+  "url": "https://github.com/ian-pascoe/pi-adaptive-thinking",
+  "source": "github-search",
+  "description": "Pi Coding Agent Adaptive Thinking Plugin",
+  "metadata": {
+    "github_url": "https://github.com/ian-pascoe/pi-adaptive-thinking",
+    "repo_full_name": "ian-pascoe/pi-adaptive-thinking",
+    "description": "Pi Coding Agent Adaptive Thinking Plugin",
+    "stars": 3,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-26T17:30:26Z",
+    "pushed_at": "2026-05-27T00:04:57Z",
+    "updated_at": "2026-08-12T03:30:44Z",
+    "size": 128,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

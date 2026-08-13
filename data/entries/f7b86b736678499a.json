@@ -1,0 +1,25 @@
+{
+  "id": "orkuhh-pichamber",
+  "name": "orkuhh-pichamber",
+  "url": "https://github.com/orkuhh/pichamber",
+  "source": "github-search",
+  "description": "Desktop and web interface for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/orkuhh/pichamber",
+    "repo_full_name": "orkuhh/pichamber",
+    "description": "Desktop and web interface for Pi coding agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-11T22:39:09Z",
+    "pushed_at": "2026-08-12T13:25:39Z",
+    "updated_at": "2026-08-13T00:13:04Z",
+    "size": 14594,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

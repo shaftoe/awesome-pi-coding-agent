@@ -1,0 +1,25 @@
+{
+  "id": "iamcheyan-pi-minimal",
+  "name": "iamcheyan-pi-minimal",
+  "url": "https://github.com/iamcheyan/pi-minimal",
+  "source": "github-search",
+  "description": "Minimalist REPL-style extension for the pi coding agent: cyan prompt, border-free UI, lean chrome",
+  "metadata": {
+    "github_url": "https://github.com/iamcheyan/pi-minimal",
+    "repo_full_name": "iamcheyan/pi-minimal",
+    "description": "Minimalist REPL-style extension for the pi coding agent: cyan prompt, border-free UI, lean chrome",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-26T12:33:41Z",
+    "pushed_at": "2026-07-18T11:53:44Z",
+    "updated_at": "2026-08-13T15:48:59Z",
+    "size": 361,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

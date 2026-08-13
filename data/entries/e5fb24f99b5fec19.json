@@ -1,0 +1,25 @@
+{
+  "id": "fanshuangstrive-pi-agent-memory-tencentdb",
+  "name": "fanshuangstrive-pi-agent-memory-tencentdb",
+  "url": "https://github.com/fanshuangstrive/pi-agent-memory-tencentdb",
+  "source": "github-search",
+  "description": "A Pi coding-agent extension that connects Pi to a TencentDB Agent Memory (MemoryCore) Gateway, giving Pi users team-level, cross-framework persistent memory.",
+  "metadata": {
+    "github_url": "https://github.com/fanshuangstrive/pi-agent-memory-tencentdb",
+    "repo_full_name": "fanshuangstrive/pi-agent-memory-tencentdb",
+    "description": "A Pi coding-agent extension that connects Pi to a TencentDB Agent Memory (MemoryCore) Gateway, giving Pi users team-level, cross-framework persistent memory.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-13T08:30:02Z",
+    "pushed_at": "2026-08-13T09:44:31Z",
+    "updated_at": "2026-08-13T10:46:14Z",
+    "size": 13,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

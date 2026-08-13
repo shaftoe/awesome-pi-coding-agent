@@ -1,0 +1,28 @@
+{
+  "id": "codex-images",
+  "name": "codex-images",
+  "url": "https://www.npmjs.com/package/codex-images",
+  "source": "npm-search",
+  "description": "Generate and edit images in Pi through an existing OpenAI Codex login.",
+  "metadata": {
+    "github_url": "https://github.com/aeturnal/codex-images",
+    "npm_name": "codex-images",
+    "description": "Generate and edit images in Pi through an existing OpenAI Codex login.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "codex",
+      "image-generation"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-06T03:10:48.497Z",
+    "npm_downloads_monthly": 138,
+    "npm_downloads_weekly": 138,
+    "npm_score_final": 15.520672,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

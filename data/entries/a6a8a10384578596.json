@@ -1,0 +1,30 @@
+{
+  "id": "weijiafu14-pi2dsh",
+  "name": "weijiafu14-pi2dsh",
+  "url": "https://github.com/weijiafu14/pi2dsh",
+  "source": "github-search",
+  "description": "Convert Pi packages into audited, installable DeepSeek Harness bundles",
+  "metadata": {
+    "github_url": "https://github.com/weijiafu14/pi2dsh",
+    "repo_full_name": "weijiafu14/pi2dsh",
+    "description": "Convert Pi packages into audited, installable DeepSeek Harness bundles",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "deepseek-harness",
+      "pi-agent",
+      "plugin-migration"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-13T19:05:34Z",
+    "pushed_at": "2026-08-13T19:15:59Z",
+    "updated_at": "2026-08-13T19:16:37Z",
+    "size": 133,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

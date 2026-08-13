@@ -9,7 +9,7 @@
     "repo_full_name": "steel-experiments/durable-researcher",
     "description": "Self-hosted deep research agent with durable execution. Pi Agent SDK + Absurd + Steel.",
     "stars": 22,
-    "forks": 1,
+    "forks": 2,
     "open_issues": 1,
     "topics": [],
     "language": "TypeScript",

@@ -1,0 +1,32 @@
+{
+  "id": "@yqt5421/vision-router",
+  "name": "@yqt5421/vision-router",
+  "url": "https://www.npmjs.com/package/@yqt5421/vision-router",
+  "source": "npm-search",
+  "description": "Vision channel auto-maintenance and intelligent routing for pi — read images with any model",
+  "metadata": {
+    "github_url": "https://github.com/yqt5420/pi-extensions",
+    "npm_name": "@yqt5421/vision-router",
+    "description": "Vision channel auto-maintenance and intelligent routing for pi — read images with any model",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "extension",
+      "vision",
+      "image",
+      "routing",
+      "multimodal",
+      "fallback"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-08-06T15:20:04.731Z",
+    "npm_downloads_monthly": 249,
+    "npm_downloads_weekly": 249,
+    "npm_score_final": 17.513893,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

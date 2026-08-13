@@ -8,7 +8,7 @@
     "github_url": "https://github.com/superpiorg/superpi",
     "repo_full_name": "superpiorg/superpi",
     "description": "pi agent management via desktop app",
-    "stars": 8,
+    "stars": 9,
     "forks": 1,
     "open_issues": 7,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-26T15:03:27Z",
     "pushed_at": "2026-07-07T09:58:31Z",
-    "updated_at": "2026-08-05T00:36:41Z",
+    "updated_at": "2026-08-13T15:49:01Z",
     "size": 202,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

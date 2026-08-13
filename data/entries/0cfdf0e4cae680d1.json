@@ -3,19 +3,20 @@
   "name": "@zbzdr/pi-legal-core",
   "url": "https://www.npmjs.com/package/@zbzdr/pi-legal-core",
   "source": "npm-search",
-  "description": "All-in-one bundle of the implemented Pi legal core and practice-area skills.",
+  "description": "Commercial contract, NDA, SaaS, DOCX redline, amendment, and renewal review skills for Pi.",
   "metadata": {
     "github_url": "https://github.com/Zbzdr/pi-for-legal",
-    "npm_name": "@zbzdr/pi-legal-suite",
-    "description": "All-in-one bundle of the implemented Pi legal core and practice-area skills.",
+    "npm_name": "@zbzdr/pi-commercial-legal",
+    "description": "Commercial contract, NDA, SaaS, DOCX redline, amendment, and renewal review skills for Pi.",
     "keywords": [
       "pi-package",
       "pi-coding-agent",
       "legal",
-      "legal-suite"
+      "contract-review",
+      "saas"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-08-12T09:31:55.844Z",
+    "version": "0.2.0",
+    "published_at": "2026-08-13T06:25:30.259Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

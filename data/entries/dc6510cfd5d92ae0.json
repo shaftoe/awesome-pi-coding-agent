@@ -8,7 +8,7 @@
     "github_url": "https://github.com/earlyaidopters/marks-pi-harness",
     "repo_full_name": "earlyaidopters/marks-pi-harness",
     "description": "Mark's pi coding agent harness for fully-local LM Studio models: 14 extensions (visual self-verification, gates, offline guard) + website-building skills a local 122B can one-shot",
-    "stars": 5,
+    "stars": 7,
     "forks": 6,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-10T15:38:43Z",
     "pushed_at": "2026-08-10T21:34:01Z",
-    "updated_at": "2026-08-12T05:50:22Z",
+    "updated_at": "2026-08-13T20:32:02Z",
     "size": 4035,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,30 @@
+{
+  "id": "dsh-plugin-pi-bridge",
+  "name": "dsh-plugin-pi-bridge",
+  "url": "https://www.npmjs.com/package/dsh-plugin-pi-bridge",
+  "source": "npm-search",
+  "description": "Bridge Pi Agent's skills and configuration into DeepSeek Harness",
+  "metadata": {
+    "github_url": "https://github.com/YYTbit/dsh-plugin-pi-bridge",
+    "npm_name": "dsh-plugin-pi-bridge",
+    "description": "Bridge Pi Agent's skills and configuration into DeepSeek Harness",
+    "keywords": [
+      "dsh-plugin",
+      "deepseek-harness",
+      "pi-agent",
+      "pi",
+      "skills",
+      "bridge"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-13T14:52:02.811Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}
