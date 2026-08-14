@@ -1,0 +1,32 @@
+{
+  "id": "woolcoxm-zero-mem-pi",
+  "name": "woolcoxm-zero-mem-pi",
+  "url": "https://github.com/woolcoxm/zero-mem-pi",
+  "source": "github-search",
+  "description": "Zero-Mem: Zero-Token Memory Operations for the pi coding agent (faithful reimplementation of arXiv:2607.29377)",
+  "metadata": {
+    "github_url": "https://github.com/woolcoxm/zero-mem-pi",
+    "repo_full_name": "woolcoxm/zero-mem-pi",
+    "description": "Zero-Mem: Zero-Token Memory Operations for the pi coding agent (faithful reimplementation of arXiv:2607.29377)",
+    "stars": 12,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "agents",
+      "embeddings",
+      "llm",
+      "memory",
+      "pi-coding-agent",
+      "retrieval-augmented-generation"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-13T15:51:22Z",
+    "pushed_at": "2026-08-14T16:11:03Z",
+    "updated_at": "2026-08-14T22:51:09Z",
+    "size": 548,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "@mnemoclaw/pi",
+  "name": "@mnemoclaw/pi",
+  "url": "https://www.npmjs.com/package/@mnemoclaw/pi",
+  "source": "npm-search",
+  "description": "Extensions pi pour brancher le système de mémoires MnemoClaw (immune + facts) sur l'agent de code pi.",
+  "metadata": {
+    "github_url": "https://github.com/Mnemoclaw/mnemoclaw-pi",
+    "npm_name": "@mnemoclaw/pi",
+    "description": "Extensions pi pour brancher le système de mémoires MnemoClaw (immune + facts) sur l'agent de code pi.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "mnemoclaw",
+      "immune-system",
+      "adaptive-memory",
+      "rag",
+      "embeddings",
+      "coding-agent"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-08-07T20:10:01.885Z",
+    "npm_downloads_monthly": 380,
+    "npm_downloads_weekly": 380,
+    "npm_score_final": 19.026451,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

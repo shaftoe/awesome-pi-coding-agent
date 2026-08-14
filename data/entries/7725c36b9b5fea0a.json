@@ -9,7 +9,7 @@
     "repo_full_name": "appautomaton/pi-arcweld",
     "description": "Pi Arcweld, an auditable local workspace for Pi: pinned upstream source, curated extensions, bounded MCP tooling, and a reproducible external runtime (pi-arcweld)",
     "stars": 5,
-    "forks": 2,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "agent-extensions",
@@ -28,8 +28,8 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-13T17:09:56Z",
-    "pushed_at": "2026-08-10T22:32:20Z",
-    "updated_at": "2026-08-10T22:32:28Z",
+    "pushed_at": "2026-08-14T22:54:23Z",
+    "updated_at": "2026-08-14T22:54:59Z",
     "size": 747,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

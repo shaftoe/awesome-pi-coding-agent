@@ -8,7 +8,7 @@
     "github_url": "https://github.com/code-yeongyu/pi-rules",
     "repo_full_name": "code-yeongyu/pi-rules",
     "description": "Rule context loader extension for the pi coding agent",
-    "stars": 8,
+    "stars": 9,
     "forks": 3,
     "open_issues": 6,
     "topics": [
@@ -32,7 +32,7 @@
     "archived": false,
     "created_at": "2026-04-29T08:05:46Z",
     "pushed_at": "2026-08-12T19:24:18Z",
-    "updated_at": "2026-08-03T07:14:20Z",
+    "updated_at": "2026-08-14T16:24:01Z",
     "size": 382,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

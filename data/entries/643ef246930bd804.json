@@ -1,0 +1,28 @@
+{
+  "id": "dsh-pi-adapter",
+  "name": "dsh-pi-adapter",
+  "url": "https://www.npmjs.com/package/dsh-pi-adapter",
+  "source": "npm-search",
+  "description": "Run pi coding-agent extensions (ExtensionAPI) inside DeepSeek Harness via a cordis plugin bridge.",
+  "metadata": {
+    "github_url": "https://github.com/cyzlmh/dsh-pi-adapter",
+    "npm_name": "dsh-pi-adapter",
+    "description": "Run pi coding-agent extensions (ExtensionAPI) inside DeepSeek Harness via a cordis plugin bridge.",
+    "keywords": [
+      "dsh-plugin",
+      "deepseek-harness",
+      "pi-coding-agent",
+      "cordis"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-14T03:32:30.713Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

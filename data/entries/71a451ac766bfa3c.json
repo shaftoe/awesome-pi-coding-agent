@@ -1,0 +1,31 @@
+{
+  "id": "pi-task-delta",
+  "name": "pi-task-delta",
+  "url": "https://www.npmjs.com/package/pi-task-delta",
+  "source": "npm-search",
+  "description": "Browse and explain task-scoped Git changes with configurable model and effort settings.",
+  "metadata": {
+    "github_url": "https://github.com/thagorx/pi-task-delta",
+    "npm_name": "pi-task-delta",
+    "description": "Browse and explain task-scoped Git changes with configurable model and effort settings.",
+    "keywords": [
+      "pi-package",
+      "git-diff",
+      "git-summary",
+      "task-delta",
+      "code-explanation",
+      "change-rationale",
+      "developer-tools"
+    ],
+    "version": "0.3.4",
+    "published_at": "2026-08-07T16:46:30.120Z",
+    "npm_downloads_monthly": 1046,
+    "npm_downloads_weekly": 1046,
+    "npm_score_final": 22.393568,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Xaaaa-bip/pi-recon",
     "repo_full_name": "Xaaaa-bip/pi-recon",
     "description": "Pi plugin: recon and asset discovery",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-08-11T02:14:22Z",
     "pushed_at": "2026-08-11T02:34:29Z",
-    "updated_at": "2026-08-12T06:39:47Z",
+    "updated_at": "2026-08-14T07:51:24Z",
     "size": 411,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"

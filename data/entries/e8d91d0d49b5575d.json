@@ -3,23 +3,29 @@
   "name": "ang-XWBWZ-pi-agent-extensions",
   "url": "https://github.com/ang-XWBWZ/pi-agent-extensions",
   "source": "github-search",
-  "description": "",
+  "description": "Engineering extensions for Pi Coding Agent — parallel subagents, controlled workflows, model switching, context observability, Windows tooling, MCP and Pwiki integration.",
   "metadata": {
     "github_url": "https://github.com/ang-XWBWZ/pi-agent-extensions",
     "repo_full_name": "ang-XWBWZ/pi-agent-extensions",
-    "description": "",
+    "description": "Engineering extensions for Pi Coding Agent — parallel subagents, controlled workflows, model switching, context observability, Windows tooling, MCP and Pwiki integration.",
     "stars": 11,
     "forks": 0,
     "open_issues": 2,
-    "topics": [],
+    "topics": [
+      "pi-agent",
+      "pi-automation",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-15T16:33:03Z",
-    "pushed_at": "2026-08-12T08:49:46Z",
-    "updated_at": "2026-08-12T08:52:02Z",
-    "size": 1418,
+    "pushed_at": "2026-08-14T04:07:46Z",
+    "updated_at": "2026-08-14T04:07:56Z",
+    "size": 1450,
     "license": null,
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
     "score": 58,

@@ -10,7 +10,7 @@
     "description": "Effect-based temporal loops for Pi",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "cron",
       "effect-ts",

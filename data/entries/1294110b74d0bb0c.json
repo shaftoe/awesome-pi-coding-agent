@@ -1,0 +1,25 @@
+{
+  "id": "tthuwng-pi-extensions",
+  "name": "tthuwng-pi-extensions",
+  "url": "https://github.com/tthuwng/pi-extensions",
+  "source": "github-search",
+  "description": "Personal Pi extensions and packages",
+  "metadata": {
+    "github_url": "https://github.com/tthuwng/pi-extensions",
+    "repo_full_name": "tthuwng/pi-extensions",
+    "description": "Personal Pi extensions and packages",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-14T20:53:22Z",
+    "pushed_at": "2026-08-14T23:16:36Z",
+    "updated_at": "2026-08-14T23:16:48Z",
+    "size": 124,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

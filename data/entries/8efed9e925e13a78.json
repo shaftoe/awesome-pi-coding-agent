@@ -1,0 +1,25 @@
+{
+  "id": "HyeokjaeLee-pi-agent-config",
+  "name": "HyeokjaeLee-pi-agent-config",
+  "url": "https://github.com/HyeokjaeLee/pi-agent-config",
+  "source": "github-search",
+  "description": "pi coding-agent configuration (agents, skills, extensions, scopes) - sanitized",
+  "metadata": {
+    "github_url": "https://github.com/HyeokjaeLee/pi-agent-config",
+    "repo_full_name": "HyeokjaeLee/pi-agent-config",
+    "description": "pi coding-agent configuration (agents, skills, extensions, scopes) - sanitized",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-14T05:20:05Z",
+    "pushed_at": "2026-08-14T05:26:05Z",
+    "updated_at": "2026-08-14T06:49:20Z",
+    "size": 1594,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

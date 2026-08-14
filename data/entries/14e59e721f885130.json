@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Soleone/pi-tasks",
     "repo_full_name": "Soleone/pi-tasks",
     "description": "An extension for pi coding agent to manage tasks, via beads or alternative task backends.",
-    "stars": 21,
+    "stars": 22,
     "forks": 5,
     "open_issues": 2,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-08T06:48:16Z",
     "pushed_at": "2026-05-08T20:48:13Z",
-    "updated_at": "2026-07-03T12:39:49Z",
+    "updated_at": "2026-08-14T21:36:14Z",
     "size": 138,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
