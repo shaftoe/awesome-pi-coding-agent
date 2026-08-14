@@ -1,0 +1,25 @@
+{
+  "id": "jede87-pi-on-staik",
+  "name": "jede87-pi-on-staik",
+  "url": "https://github.com/jede87/pi-on-staik",
+  "source": "github-search",
+  "description": "Ready-to-use pi coding-agent setup for Staik — autonomous dev + codebase-analysis agent",
+  "metadata": {
+    "github_url": "https://github.com/jede87/pi-on-staik",
+    "repo_full_name": "jede87/pi-on-staik",
+    "description": "Ready-to-use pi coding-agent setup for Staik — autonomous dev + codebase-analysis agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-01T21:19:19Z",
+    "pushed_at": "2026-07-01T21:19:21Z",
+    "updated_at": "2026-08-14T16:51:26Z",
+    "size": 55,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

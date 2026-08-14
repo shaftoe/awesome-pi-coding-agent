@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-themes",
+  "name": "@bacnh85/pi-themes · Packages · Pi",
+  "url": "https://pi.dev/packages/@bacnh85/pi-themes?name=web",
+  "source": "brave-web-search",
+  "description": "This is a themes collection. Additional variants (e.g., solarized, nord, custom) will be added as new JSON files in this package. Colors sourced from ayu-colors. Initial pi theme port based on iodic/pi-ayu-themes.",
+  "metadata": {
+    "title": "@bacnh85/pi-themes · Packages · Pi",
+    "name": "@bacnh85/pi-themes · Packages · Pi",
+    "description": "This is a themes collection. Additional variants (e.g., solarized, nord, custom) will be added as new JSON files in this package. Colors sourced from ayu-colors. Initial pi theme port based on iodic/pi-ayu-themes.",
+    "published_at": null,
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/@bacnh85/pi-themes?name=web",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "category": "article"
+}

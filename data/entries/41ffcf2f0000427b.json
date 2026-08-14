@@ -1,0 +1,35 @@
+{
+  "id": "pi-relay-switch",
+  "name": "pi-relay-switch",
+  "url": "https://www.npmjs.com/package/pi-relay-switch",
+  "source": "npm-search",
+  "description": "Manage multiple OpenAI/Anthropic-compatible API relays in pi: switch relays, pull model lists, manage API keys, and wire thinking levels (shift+tab) through to the relay.",
+  "metadata": {
+    "github_url": "https://github.com/n0rt6/pi-relay-switch",
+    "npm_name": "pi-relay-switch",
+    "description": "Manage multiple OpenAI/Anthropic-compatible API relays in pi: switch relays, pull model lists, manage API keys, and wire thinking levels (shift+tab) through to the relay.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "relay",
+      "api-relay",
+      "openai-compatible",
+      "openai-responses",
+      "anthropic",
+      "thinking-level",
+      "reasoning"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-14T15:00:01.140Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

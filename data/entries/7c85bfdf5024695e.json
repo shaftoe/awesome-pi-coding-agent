@@ -3,11 +3,11 @@
   "name": "pi-caduceus",
   "url": "https://www.npmjs.com/package/pi-caduceus",
   "source": "npm-search",
-  "description": "Persona Contract package for pi. Injects a deterministic, testable, line-citable persona prompt segment before the first token of a pi session, given (mode, locale).",
+  "description": "Persona-aware general-purpose lifecycle harness for the pi coding agent. Injects a deterministic, testable, byte-citable persona prompt segment before the first token of a pi session, and drives a full Spec-Driven Development lifecycle (explore -> propose",
   "metadata": {
     "github_url": null,
     "npm_name": "pi-caduceus",
-    "description": "Persona Contract package for pi. Injects a deterministic, testable, line-citable persona prompt segment before the first token of a pi session, given (mode, locale).",
+    "description": "Persona-aware general-purpose lifecycle harness for the pi coding agent. Injects a deterministic, testable, byte-citable persona prompt segment before the first token of a pi session, and drives a full Spec-Driven Development lifecycle (explore -> propose",
     "keywords": [
       "pi-package",
       "pi",
@@ -15,10 +15,14 @@
       "caduceus",
       "persona",
       "prompt-orchestration",
-      "persona-contract"
+      "persona-contract",
+      "sdd",
+      "spec-driven-development",
+      "review-gate",
+      "constitutional-ai"
     ],
-    "version": "0.3.1",
-    "published_at": "2026-08-13T07:28:10.519Z",
+    "version": "0.5.0",
+    "published_at": "2026-08-14T08:19:38.320Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

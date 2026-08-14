@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Davidcreador/pi-ui-pack",
     "repo_full_name": "Davidcreador/pi-ui-pack",
     "description": "OMP-style UI layer for Pi with framed tool cards, powerline editor chrome, live session stats, and bundled themes.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-11T23:49:11Z",
     "pushed_at": "2026-08-12T22:19:48Z",
-    "updated_at": "2026-08-12T22:19:52Z",
+    "updated_at": "2026-08-14T18:09:28Z",
     "size": 157,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

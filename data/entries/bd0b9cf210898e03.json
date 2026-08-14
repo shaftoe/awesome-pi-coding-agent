@@ -8,7 +8,7 @@
     "github_url": "https://github.com/superfly/pi-sprites",
     "repo_full_name": "superfly/pi-sprites",
     "description": "First-class Sprites environments for the Pi coding agent",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-08-06T19:02:14Z",
     "pushed_at": "2026-08-10T18:36:40Z",
-    "updated_at": "2026-08-10T21:55:26Z",
+    "updated_at": "2026-08-14T18:31:04Z",
     "size": 111,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

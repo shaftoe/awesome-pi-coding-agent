@@ -8,7 +8,7 @@
     "github_url": "https://github.com/AbyssCN/oh-my-dag",
     "repo_full_name": "AbyssCN/oh-my-dag",
     "description": "oh-my-dag — the full harness around the model, on the pi coding-agent runtime. DAG execution engine (typed nodes, concurrent fan-out, cross-model verify, escalate on failure), pathfinder planning, agent-template registry, self-consolidating memory, code-enforced gates, MCP router, 22 skills. omd is the bundled terminal agent.",
-    "stars": 36,
+    "stars": 37,
     "forks": 1,
     "open_issues": 4,
     "topics": [
@@ -32,9 +32,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-04T08:12:23Z",
-    "pushed_at": "2026-08-13T20:56:24Z",
-    "updated_at": "2026-08-13T20:56:30Z",
-    "size": 10300,
+    "pushed_at": "2026-08-14T21:23:26Z",
+    "updated_at": "2026-08-14T21:23:33Z",
+    "size": 11086,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

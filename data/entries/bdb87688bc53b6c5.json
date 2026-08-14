@@ -1,0 +1,32 @@
+{
+  "id": "dbydd-pi-anchored-tool-for-dspro",
+  "name": "dbydd-pi-anchored-tool-for-dspro",
+  "url": "https://github.com/dbydd/pi-anchored-tool-for-dspro",
+  "source": "github-search",
+  "description": "Pi extension: anchor a target model's first request to a minimal tool catalog (shell + read), restore the full catalog after the first tool call. For DeepSeek V4 Pro — 91/92 Standard vs 99/96 Minimal on Project2. Port of xiaobright/dsh-anchored-standard.",
+  "metadata": {
+    "github_url": "https://github.com/dbydd/pi-anchored-tool-for-dspro",
+    "repo_full_name": "dbydd/pi-anchored-tool-for-dspro",
+    "description": "Pi extension: anchor a target model's first request to a minimal tool catalog (shell + read), restore the full catalog after the first tool call. For DeepSeek V4 Pro — 91/92 Standard vs 99/96 Minimal on Project2. Port of xiaobright/dsh-anchored-standard.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "anchored-standard",
+      "deepseek",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "tool-bootstrap"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-14T16:48:20Z",
+    "pushed_at": "2026-08-14T16:55:16Z",
+    "updated_at": "2026-08-14T22:55:17Z",
+    "size": 10,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

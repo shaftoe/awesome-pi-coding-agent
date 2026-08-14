@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-memory",
+  "name": "pi-memory · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-memory",
+  "source": "brave-web-search",
+  "description": "Review the source before installing third-party packages. The most popular memory extension for pi — listed in the official pi package directory, with semantic search powered by qmd.",
+  "metadata": {
+    "title": "pi-memory · Packages · Pi",
+    "name": "pi-memory · Packages · Pi",
+    "description": "Review the source before installing third-party packages. The most popular memory extension for pi — listed in the official pi package directory, with semantic search powered by qmd.",
+    "published_at": "2026-08-12T06:15:04",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-memory",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}

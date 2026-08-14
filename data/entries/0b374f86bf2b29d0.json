@@ -10,7 +10,7 @@
     "description": "Compress Pi agent reasoning blocks to keep the context short.",
     "stars": 3,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

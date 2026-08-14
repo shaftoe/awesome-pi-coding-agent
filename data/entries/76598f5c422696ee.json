@@ -1,0 +1,25 @@
+{
+  "id": "elrond298-pi-skillful",
+  "name": "elrond298-pi-skillful",
+  "url": "https://github.com/elrond298/pi-skillful",
+  "source": "github-search",
+  "description": "Fork of jvm/pi-mono packages/pi-skillful with dollar-skill autocomplete popup",
+  "metadata": {
+    "github_url": "https://github.com/elrond298/pi-skillful",
+    "repo_full_name": "elrond298/pi-skillful",
+    "description": "Fork of jvm/pi-mono packages/pi-skillful with dollar-skill autocomplete popup",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-14T04:59:06Z",
+    "pushed_at": "2026-08-14T04:59:17Z",
+    "updated_at": "2026-08-14T04:59:25Z",
+    "size": 977,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

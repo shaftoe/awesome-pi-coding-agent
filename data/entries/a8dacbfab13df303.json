@@ -1,0 +1,40 @@
+{
+  "id": "zqkra-plano",
+  "name": "zqkra-plano",
+  "url": "https://github.com/zqkra/plano",
+  "source": "github-search",
+  "description": "Orchestrate AI coding agents that actually talk to each other — Claude Code, Codex, Gemini, Pi. One agent spawns three more, delegates work and waits for their reports. Whichever model, whichever CLI, one mesh. 100% local: your CLIs, your subscriptions, no cloud.",
+  "metadata": {
+    "github_url": "https://github.com/zqkra/plano",
+    "repo_full_name": "zqkra/plano",
+    "description": "Orchestrate AI coding agents that actually talk to each other — Claude Code, Codex, Gemini, Pi. One agent spawns three more, delegates work and waits for their reports. Whichever model, whichever CLI, one mesh. 100% local: your CLIs, your subscriptions, no cloud.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "ai-coding-assistant",
+      "claude-code",
+      "codex",
+      "desktop-app",
+      "developer-tools",
+      "electron",
+      "infinite-canvas",
+      "local-first",
+      "multi-agent",
+      "react",
+      "terminal",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-15T09:03:16Z",
+    "pushed_at": "2026-08-14T19:39:24Z",
+    "updated_at": "2026-08-14T23:16:30Z",
+    "size": 6149,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

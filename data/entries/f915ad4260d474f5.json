@@ -1,0 +1,29 @@
+{
+  "id": "cad0p-pi-config",
+  "name": "cad0p-pi-config",
+  "url": "https://github.com/cad0p/pi-config",
+  "source": "github-search",
+  "description": "PierPi coding agent config: my ~/.pi",
+  "metadata": {
+    "github_url": "https://github.com/cad0p/pi-config",
+    "repo_full_name": "cad0p/pi-config",
+    "description": "PierPi coding agent config: my ~/.pi",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-coding-agent",
+      "pi-config",
+      "pierpi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-14T12:51:34Z",
+    "pushed_at": "2026-08-14T19:54:43Z",
+    "updated_at": "2026-08-14T19:54:47Z",
+    "size": 47,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

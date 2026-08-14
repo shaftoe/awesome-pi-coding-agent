@@ -1,0 +1,32 @@
+{
+  "id": "TGYD-helige-dsh-pi",
+  "name": "TGYD-helige-dsh-pi",
+  "url": "https://github.com/TGYD-helige/dsh-pi",
+  "source": "github-search",
+  "description": "Run trusted Pi extensions inside DeepSeek Harness through a compatibility host.",
+  "metadata": {
+    "github_url": "https://github.com/TGYD-helige/dsh-pi",
+    "repo_full_name": "TGYD-helige/dsh-pi",
+    "description": "Run trusted Pi extensions inside DeepSeek Harness through a compatibility host.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "deepseek-harness",
+      "dsh-plugin",
+      "pi-coding-agent",
+      "pi-extension",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-13T16:14:47Z",
+    "pushed_at": "2026-08-14T15:23:59Z",
+    "updated_at": "2026-08-14T16:59:40Z",
+    "size": 181,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

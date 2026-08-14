@@ -19,7 +19,7 @@
     "updated_at": "2026-08-12T15:33:38Z",
     "size": 3555,
     "license": "Apache-2.0",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "category": "extension"
 }

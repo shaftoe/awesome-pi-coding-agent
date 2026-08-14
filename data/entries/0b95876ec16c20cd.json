@@ -9,8 +9,8 @@
     "repo_full_name": "junghan0611/entwurf",
     "description": "Garden-citizen dispatch substrate + meta-bridge: make Claude Code, Codex, Antigravity, and pi sessions garden-addressable peers — with a Claude-first ACP plugin (Cortex/vendor ACP backends are future lanes).",
     "stars": 25,
-    "forks": 4,
-    "open_issues": 4,
+    "forks": 5,
+    "open_issues": 6,
     "topics": [
       "acp",
       "agent-client-protocol",

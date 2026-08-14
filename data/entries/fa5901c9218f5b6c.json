@@ -1,0 +1,25 @@
+{
+  "id": "garnetlyx-pi-goal-kit",
+  "name": "garnetlyx-pi-goal-kit",
+  "url": "https://github.com/garnetlyx/pi-goal-kit",
+  "source": "github-search",
+  "description": "Goal-gated workflow extensions for Pi: the gated-goal plan-act-review loop, subagent delegation, todo nudges, and agent-authored wait conditions.",
+  "metadata": {
+    "github_url": "https://github.com/garnetlyx/pi-goal-kit",
+    "repo_full_name": "garnetlyx/pi-goal-kit",
+    "description": "Goal-gated workflow extensions for Pi: the gated-goal plan-act-review loop, subagent delegation, todo nudges, and agent-authored wait conditions.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-14T01:53:23Z",
+    "pushed_at": "2026-08-14T20:49:14Z",
+    "updated_at": "2026-08-14T20:50:08Z",
+    "size": 95,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

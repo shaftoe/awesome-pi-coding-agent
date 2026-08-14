@@ -1,0 +1,29 @@
+{
+  "id": "pi-workspace-sessions",
+  "name": "pi-workspace-sessions",
+  "url": "https://www.npmjs.com/package/pi-workspace-sessions",
+  "source": "npm-search",
+  "description": "Run and switch parallel Pi sessions in the launch workspace.",
+  "metadata": {
+    "github_url": "https://github.com/so1ve/pi-workspace-sessions",
+    "npm_name": "pi-workspace-sessions",
+    "description": "Run and switch parallel Pi sessions in the launch workspace.",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "pi-extension",
+      "sessions",
+      "parallel-sessions"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-14T09:06:54.992Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -3,11 +3,11 @@
   "name": "Lan-zk-pi-ds-web-search",
   "url": "https://github.com/Lan-zk/pi-ds-web-search",
   "source": "github-search",
-  "description": "",
+  "description": "DeepSeek's built-in server-side web search for Pi — silent by default.",
   "metadata": {
     "github_url": "https://github.com/Lan-zk/pi-ds-web-search",
     "repo_full_name": "Lan-zk/pi-ds-web-search",
-    "description": "",
+    "description": "DeepSeek's built-in server-side web search for Pi — silent by default.",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,
@@ -21,10 +21,10 @@
     "archived": false,
     "created_at": "2026-08-06T02:23:20Z",
     "pushed_at": "2026-08-06T02:49:14Z",
-    "updated_at": "2026-08-06T02:39:48Z",
+    "updated_at": "2026-08-14T01:02:32Z",
     "size": 47,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
-  "category": "misc"
+  "category": "extension"
 }
