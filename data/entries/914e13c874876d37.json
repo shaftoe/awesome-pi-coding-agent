@@ -1,0 +1,41 @@
+{
+  "id": "zgs225-pi2.nvim",
+  "name": "zgs225-pi2.nvim",
+  "url": "https://github.com/zgs225/pi2.nvim",
+  "source": "github-search",
+  "description": "Use the pi coding agent (pi.dev) without leaving Neovim — π², a heavily extended fork of alex35mil/pi.nvim",
+  "metadata": {
+    "github_url": "https://github.com/zgs225/pi2.nvim",
+    "repo_full_name": "zgs225/pi2.nvim",
+    "description": "Use the pi coding agent (pi.dev) without leaving Neovim — π², a heavily extended fork of alex35mil/pi.nvim",
+    "stars": 15,
+    "forks": 2,
+    "open_issues": 0,
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-coding",
+      "chat",
+      "coding-agent",
+      "developer-tools",
+      "llm",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "Lua",
+    "archived": false,
+    "created_at": "2026-07-26T00:56:46Z",
+    "pushed_at": "2026-08-14T08:34:30Z",
+    "updated_at": "2026-08-14T09:10:10Z",
+    "size": 3365,
+    "license": "MIT",
+    "discovery_hint": "github:add-url"
+  },
+  "category": "misc"
+}
