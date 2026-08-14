@@ -11,9 +11,9 @@
 	"dependencies": {
 		"@astrojs/mdx": "^7.0.5",
 		"@astrojs/starlight": "^0.41.7",
-		"astro": "^7.2.1",
+		"astro": "^7.2.2",
 		"sharp": "^0.35.3",
-		"temporal-polyfill": "^1.0.3"
+		"temporal-polyfill": "^1.0.4"
 	},
 	"overrides": {
 		"@astrojs/mdx": "^6.0.0"
