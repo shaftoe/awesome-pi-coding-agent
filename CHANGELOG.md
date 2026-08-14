@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.6.0] - 2026-08-14
+
+### Added
+
+- **list**: add zgs225/pi2.nvim (Neovim frontend for pi) (#248)
+
 ## [2.5.7] - 2026-06-18
 
 ## [2.5.6] - 2026-06-13
@@ -275,6 +281,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove skills category
 - replace @types/bun with pinned bun-types to fix typecheck (#6)
 
+[2.6.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.5.7...v2.6.0
 [2.5.7]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.5.6...v2.5.7
 [2.5.6]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.5.5...v2.5.6
 [2.5.5]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.5.4...v2.5.5
