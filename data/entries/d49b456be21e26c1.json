@@ -1,0 +1,31 @@
+{
+  "id": "wtfzambo-speak-like-you-eat",
+  "name": "wtfzambo-speak-like-you-eat",
+  "url": "https://github.com/wtfzambo/speak-like-you-eat",
+  "source": "github-search",
+  "description": "Translate AI garbage to human language. A Pi package for plain-language companion rewrites.",
+  "metadata": {
+    "github_url": "https://github.com/wtfzambo/speak-like-you-eat",
+    "repo_full_name": "wtfzambo/speak-like-you-eat",
+    "description": "Translate AI garbage to human language. A Pi package for plain-language companion rewrites.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "llm",
+      "pi",
+      "pi-package",
+      "plain-language",
+      "writing"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-15T15:49:26Z",
+    "pushed_at": "2026-08-15T21:29:31Z",
+    "updated_at": "2026-08-15T21:29:43Z",
+    "size": 1707,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

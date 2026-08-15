@@ -1,0 +1,31 @@
+{
+  "id": "jd7h-minimal-agent",
+  "name": "jd7h-minimal-agent",
+  "url": "https://github.com/jd7h/minimal-agent",
+  "source": "github-search",
+  "description": "Minimal agent that runs in pi on exe.dev VMs",
+  "metadata": {
+    "github_url": "https://github.com/jd7h/minimal-agent",
+    "repo_full_name": "jd7h/minimal-agent",
+    "description": "Minimal agent that runs in pi on exe.dev VMs",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agents",
+      "exe-dev",
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-13T14:37:33Z",
+    "pushed_at": "2026-08-13T14:55:40Z",
+    "updated_at": "2026-08-15T09:14:52Z",
+    "size": 58,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

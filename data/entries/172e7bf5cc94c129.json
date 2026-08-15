@@ -8,7 +8,7 @@
     "github_url": "https://github.com/jal-co/pi-codex-micro",
     "repo_full_name": "jal-co/pi-codex-micro",
     "description": "Pi extension for the Work Louder Codex Micro: command keys, dial, joystick input, and two-way agent-state LED feedback.",
-    "stars": 4,
+    "stars": 5,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-20T01:21:11Z",
     "pushed_at": "2026-07-23T17:05:30Z",
-    "updated_at": "2026-07-30T18:09:08Z",
+    "updated_at": "2026-08-15T03:55:30Z",
     "size": 1311,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

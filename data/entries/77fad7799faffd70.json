@@ -1,0 +1,30 @@
+{
+  "id": "kevinvargasl-pi-quiet-activity",
+  "name": "kevinvargasl-pi-quiet-activity",
+  "url": "https://github.com/kevinvargasl/pi-quiet-activity",
+  "source": "github-search",
+  "description": "Final-answer-only interactive mode with live activity labels for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/kevinvargasl/pi-quiet-activity",
+    "repo_full_name": "kevinvargasl/pi-quiet-activity",
+    "description": "Final-answer-only interactive mode with live activity labels for Pi.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-15T03:43:45Z",
+    "pushed_at": "2026-08-15T03:50:22Z",
+    "updated_at": "2026-08-15T03:50:17Z",
+    "size": 28,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

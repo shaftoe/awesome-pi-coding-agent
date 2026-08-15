@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Nuctori/pi-reasoning-tools",
     "repo_full_name": "Nuctori/pi-reasoning-tools",
     "description": "Monorepo of one-tool-per-package pi extensions (env-probe, code-intel-guide, repo-state)",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-09T15:06:24Z",
     "pushed_at": "2026-08-09T15:10:08Z",
-    "updated_at": "2026-08-09T15:10:41Z",
+    "updated_at": "2026-08-15T08:40:39Z",
     "size": 45,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"

@@ -1,0 +1,32 @@
+{
+  "id": "ccch1mneyyy-working-activity",
+  "name": "ccch1mneyyy-working-activity",
+  "url": "https://github.com/ccch1mneyyy/working-activity",
+  "source": "github-search",
+  "description": "Lively Working-line extension for pi CLI and DSH",
+  "metadata": {
+    "github_url": "https://github.com/ccch1mneyyy/working-activity",
+    "repo_full_name": "ccch1mneyyy/working-activity",
+    "description": "Lively Working-line extension for pi CLI and DSH",
+    "stars": 644,
+    "forks": 230,
+    "open_issues": 1,
+    "topics": [
+      "deepseek-harness",
+      "dsh-plugin",
+      "pi-coding-agent",
+      "pi-plugin",
+      "statusline",
+      "working-line"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-23T09:35:08Z",
+    "pushed_at": "2026-08-15T05:37:59Z",
+    "updated_at": "2026-08-15T23:03:30Z",
+    "size": 234,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

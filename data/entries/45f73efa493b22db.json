@@ -1,0 +1,31 @@
+{
+  "id": "miko-misa-pi-detour",
+  "name": "miko-misa-pi-detour",
+  "url": "https://github.com/miko-misa/pi-detour",
+  "source": "github-search",
+  "description": "Take a live detour in Pi, then merge it back",
+  "metadata": {
+    "github_url": "https://github.com/miko-misa/pi-detour",
+    "repo_full_name": "miko-misa/pi-detour",
+    "description": "Take a live detour in Pi, then merge it back",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "developer-tools",
+      "pi",
+      "pi-coding-agent",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-15T07:54:25Z",
+    "pushed_at": "2026-08-15T19:50:33Z",
+    "updated_at": "2026-08-15T19:50:39Z",
+    "size": 61,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}
