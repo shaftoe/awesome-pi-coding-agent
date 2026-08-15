@@ -10,7 +10,7 @@
     "description": "",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 3,
     "topics": [
       "pi-agent",
       "pi-agent-extension",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-01T09:17:33Z",
-    "pushed_at": "2026-08-01T09:35:14Z",
-    "updated_at": "2026-08-06T03:37:00Z",
-    "size": 121,
+    "pushed_at": "2026-08-15T19:07:33Z",
+    "updated_at": "2026-08-15T19:08:00Z",
+    "size": 338,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

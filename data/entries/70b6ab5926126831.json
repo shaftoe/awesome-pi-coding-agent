@@ -10,7 +10,7 @@
     "description": "Secure setup and permission hardening extension for the Pi coding agent.",
     "stars": 7,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "coding-agent",
       "hardening",

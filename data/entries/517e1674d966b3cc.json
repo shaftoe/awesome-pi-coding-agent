@@ -9,6 +9,7 @@
     "npm_name": "pi-acp-jetbrain",
     "description": "ACP adapter for the pi coding agent (JetBrains IDEs primary host)",
     "keywords": [
+      "pi-package",
       "acp",
       "agent-client-protocol",
       "pi-coding-agent",
@@ -18,8 +19,8 @@
       "intellij",
       "mcp"
     ],
-    "version": "0.0.36",
-    "published_at": "2026-08-14T17:16:13.371Z",
+    "version": "0.0.39",
+    "published_at": "2026-08-15T11:30:11.341Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

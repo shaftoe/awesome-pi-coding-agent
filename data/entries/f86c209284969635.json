@@ -1,0 +1,32 @@
+{
+  "id": "@xaccefy/pi-codeintel",
+  "name": "@xaccefy/pi-codeintel",
+  "url": "https://www.npmjs.com/package/@xaccefy/pi-codeintel",
+  "source": "npm-search",
+  "description": "Authenticated-session manager for Pi Agent — store and resolve cookie, OAuth client-credentials, and mTLS auth for authorized pentest targets",
+  "metadata": {
+    "github_url": "https://github.com/x4cc3/pi-xpi",
+    "npm_name": "@xaccefy/pi-engage",
+    "description": "Authenticated-session manager for Pi Agent — store and resolve cookie, OAuth client-credentials, and mTLS auth for authorized pentest targets",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "xpi",
+      "security",
+      "pentest",
+      "auth",
+      "oauth",
+      "mtls"
+    ],
+    "version": "0.5.4",
+    "published_at": "2026-07-18T14:04:44.075Z",
+    "npm_downloads_monthly": 971,
+    "npm_downloads_weekly": 26,
+    "npm_score_final": 22.043169,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "yimo-pi-kit",
+  "name": "yimo-pi-kit",
+  "url": "https://www.npmjs.com/package/yimo-pi-kit",
+  "source": "npm-search",
+  "description": "A portable Pi coding-agent profile with extensions, subagents, skills, prompts, themes, DeepSeek Responses Web Search, and optional local code-review graph/MCP integration.",
+  "metadata": {
+    "github_url": "https://github.com/baka-world/yimo-pi-kit",
+    "npm_name": "yimo-pi-kit",
+    "description": "A portable Pi coding-agent profile with extensions, subagents, skills, prompts, themes, DeepSeek Responses Web Search, and optional local code-review graph/MCP integration.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "subagents",
+      "agent-skills",
+      "mcp",
+      "deepseek",
+      "responses-api",
+      "web-search",
+      "code-review",
+      "knowledge-graph"
+    ],
+    "version": "0.4.5",
+    "published_at": "2026-08-08T07:30:13.928Z",
+    "npm_downloads_monthly": 1285,
+    "npm_downloads_weekly": 1285,
+    "npm_score_final": 22.6486,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

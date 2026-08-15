@@ -1,0 +1,33 @@
+{
+  "id": "OceanEyeFF-pi-deepseek-v4pro-anchored",
+  "name": "OceanEyeFF-pi-deepseek-v4pro-anchored",
+  "url": "https://github.com/OceanEyeFF/pi-deepseek-v4pro-anchored",
+  "source": "github-search",
+  "description": "A Pi Package that applies a DSH-style anchored C2 workflow to DeepSeek V4 Pro.",
+  "metadata": {
+    "github_url": "https://github.com/OceanEyeFF/pi-deepseek-v4pro-anchored",
+    "repo_full_name": "OceanEyeFF/pi-deepseek-v4pro-anchored",
+    "description": "A Pi Package that applies a DSH-style anchored C2 workflow to DeepSeek V4 Pro.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-harness",
+      "deepseek",
+      "deepseek-v4-pro",
+      "dsh",
+      "pi",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-15T14:09:10Z",
+    "pushed_at": "2026-08-15T18:23:34Z",
+    "updated_at": "2026-08-15T18:14:42Z",
+    "size": 145,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -9,7 +9,7 @@
     "repo_full_name": "earlyaidopters/marks-pi-harness",
     "description": "Mark's pi coding agent harness for fully-local LM Studio models: 14 extensions (visual self-verification, gates, offline guard) + website-building skills a local 122B can one-shot",
     "stars": 7,
-    "forks": 6,
+    "forks": 7,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

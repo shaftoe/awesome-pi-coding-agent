@@ -1,0 +1,30 @@
+{
+  "id": "apoapostolov-pi-wsl",
+  "name": "apoapostolov-pi-wsl",
+  "url": "https://github.com/apoapostolov/pi-wsl",
+  "source": "github-search",
+  "description": "Pi extension: run WSL commands without Git Bash rewriting /mnt/c, UNC, or $VARS",
+  "metadata": {
+    "github_url": "https://github.com/apoapostolov/pi-wsl",
+    "repo_full_name": "apoapostolov/pi-wsl",
+    "description": "Pi extension: run WSL commands without Git Bash rewriting /mnt/c, UNC, or $VARS",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-extension",
+      "pi-package",
+      "windows",
+      "wsl"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-15T23:16:32Z",
+    "pushed_at": "2026-08-15T23:16:43Z",
+    "updated_at": "2026-08-15T23:16:44Z",
+    "size": 0,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

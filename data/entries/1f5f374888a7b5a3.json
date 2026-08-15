@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Structured choice and text forms for agent-user decisions. ask_user extension for the pi coding agent.",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/QMahyar/pi-ask",
     "npm_name": "@qmahyar/pi-ask",
     "description": "Structured choice and text forms for agent-user decisions. ask_user extension for the pi coding agent.",
     "keywords": [
@@ -20,8 +20,8 @@
       "tui",
       "forms"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-08-11T04:25:33.368Z",
+    "version": "1.1.0",
+    "published_at": "2026-08-15T19:50:45.537Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

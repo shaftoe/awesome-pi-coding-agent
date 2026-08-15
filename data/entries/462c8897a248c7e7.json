@@ -3,11 +3,11 @@
   "name": "Pi: A Coding Agent That Gets Out Of The Way",
   "url": "https://maximilian-schwarzmueller.com/articles/pi-coding-agent",
   "source": "brave-web-search",
-  "description": "Pi is a terminal-based coding agent. In practical terms, that means you start it in a project folder, talk to it, and it can inspect files, edit code, run commands and help you move through a task.",
+  "description": "Pi is a minimal terminal coding agent that can read, edit and run code - but its real strength is how easily you can adapt it to your own workflow.",
   "metadata": {
     "title": "Pi: A Coding Agent That Gets Out Of The Way",
     "name": "Pi: A Coding Agent That Gets Out Of The Way",
-    "description": "Pi is a terminal-based coding agent. In practical terms, that means you start it in a project folder, talk to it, and it can inspect files, edit code, run commands and help you move through a task.",
+    "description": "Pi is a minimal terminal coding agent that can read, edit and run code - but its real strength is how easily you can adapt it to your own workflow.",
     "published_at": "2026-05-05T00:00:00",
     "source_site": "Maximilian-schwarzmueller",
     "source_url": "https://maximilian-schwarzmueller.com/articles/pi-coding-agent",

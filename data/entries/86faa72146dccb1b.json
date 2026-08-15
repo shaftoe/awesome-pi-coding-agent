@@ -1,0 +1,32 @@
+{
+  "id": "pi-output-styles",
+  "name": "pi-output-styles",
+  "url": "https://www.npmjs.com/package/pi-output-styles",
+  "source": "npm-search",
+  "description": "Named, swappable, append-only system-prompt styles for Oh My Pi (OMP) and Pi — with a live /style switcher.",
+  "metadata": {
+    "github_url": "https://github.com/LoneExile/pi-output-styles",
+    "npm_name": "pi-output-styles",
+    "description": "Named, swappable, append-only system-prompt styles for Oh My Pi (OMP) and Pi — with a live /style switcher.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "omp",
+      "oh-my-pi",
+      "extension",
+      "output-styles",
+      "system-prompt",
+      "persona"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-08-08T03:21:16.637Z",
+    "npm_downloads_monthly": 165,
+    "npm_downloads_weekly": 165,
+    "npm_score_final": 15.649836,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

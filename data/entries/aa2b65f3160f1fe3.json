@@ -10,7 +10,7 @@
     "description": "Non-blocking subagent orchestration for pi. Spawn isolated agents that work in parallel while your session stays interactive.",
     "stars": 69,
     "forks": 4,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

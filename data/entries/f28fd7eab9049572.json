@@ -10,7 +10,7 @@
     "description": "Pibo turns Pi Coding Agent into an agent-native runtime with discoverable CLI tools, plugins, channels, and local gateways.",
     "stars": 2,
     "forks": 2,
-    "open_issues": 3,
+    "open_issues": 25,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

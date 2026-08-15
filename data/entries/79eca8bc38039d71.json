@@ -25,10 +25,10 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-04T12:34:52Z",
-    "pushed_at": "2026-08-14T16:03:00Z",
-    "updated_at": "2026-08-14T12:07:52Z",
-    "size": 19331,
-    "license": "MIT",
+    "pushed_at": "2026-08-15T21:42:26Z",
+    "updated_at": "2026-08-15T15:35:15Z",
+    "size": 19972,
+    "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "misc"

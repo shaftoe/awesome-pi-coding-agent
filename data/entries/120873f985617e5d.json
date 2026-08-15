@@ -1,0 +1,31 @@
+{
+  "id": "aarsh21-my-pi-config",
+  "name": "aarsh21-my-pi-config",
+  "url": "https://github.com/aarsh21/my-pi-config",
+  "source": "github-search",
+  "description": "A curated monorepo of Pi extensions, multi-agent tools, UI customizations, skills, and themes",
+  "metadata": {
+    "github_url": "https://github.com/aarsh21/my-pi-config",
+    "repo_full_name": "aarsh21/my-pi-config",
+    "description": "A curated monorepo of Pi extensions, multi-agent tools, UI customizations, skills, and themes",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "ai-agents",
+      "pi-coding-agent",
+      "pi-package",
+      "terminal",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-16T15:50:55Z",
+    "pushed_at": "2026-08-15T00:58:36Z",
+    "updated_at": "2026-08-15T00:58:51Z",
+    "size": 614,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

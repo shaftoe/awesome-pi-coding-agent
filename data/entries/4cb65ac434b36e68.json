@@ -10,7 +10,7 @@
     "description": "Sync and store memories, shared identity files (AGENTS.md, CLAUDE.md), session transcripts, institutional knowledge, and secrets between all of your favorite harnesses and models.",
     "stars": 245,
     "forks": 40,
-    "open_issues": 33,
+    "open_issues": 17,
     "topics": [
       "agent-memory",
       "ai-memory",
@@ -30,9 +30,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-11T05:38:32Z",
-    "pushed_at": "2026-08-14T22:24:14Z",
-    "updated_at": "2026-08-14T21:21:39Z",
-    "size": 100680,
+    "pushed_at": "2026-08-15T22:34:22Z",
+    "updated_at": "2026-08-15T22:34:25Z",
+    "size": 111286,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

@@ -1,0 +1,30 @@
+{
+  "id": "fatwang2-pi-dsh",
+  "name": "fatwang2-pi-dsh",
+  "url": "https://github.com/fatwang2/pi-dsh",
+  "source": "github-search",
+  "description": "Pi Coding Agent provider extension that exposes the DeepSeek Harness (dsh) as a selectable provider — Pi host, DSH engine.",
+  "metadata": {
+    "github_url": "https://github.com/fatwang2/pi-dsh",
+    "repo_full_name": "fatwang2/pi-dsh",
+    "description": "Pi Coding Agent provider extension that exposes the DeepSeek Harness (dsh) as a selectable provider — Pi host, DSH engine.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "pi",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-15T01:47:21Z",
+    "pushed_at": "2026-08-15T04:07:10Z",
+    "updated_at": "2026-08-15T16:21:43Z",
+    "size": 78,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

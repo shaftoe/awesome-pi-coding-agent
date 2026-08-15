@@ -1,0 +1,32 @@
+{
+  "id": "xiao-hans-pi-config",
+  "name": "xiao-hans-pi-config",
+  "url": "https://github.com/xiao-hans/pi-config",
+  "source": "github-search",
+  "description": "Portable Pi Coding Agent configuration: gold theme, memory extension, statusline, and npm package patches with a one-shot setup script",
+  "metadata": {
+    "github_url": "https://github.com/xiao-hans/pi-config",
+    "repo_full_name": "xiao-hans/pi-config",
+    "description": "Portable Pi Coding Agent configuration: gold theme, memory extension, statusline, and npm package patches with a one-shot setup script",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "configuration",
+      "dotfiles",
+      "extensions",
+      "pi",
+      "pi-coding-agent",
+      "theme"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-15T11:34:14Z",
+    "pushed_at": "2026-08-15T13:22:35Z",
+    "updated_at": "2026-08-15T13:22:52Z",
+    "size": 31,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
