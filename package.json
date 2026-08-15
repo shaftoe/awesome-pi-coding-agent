@@ -24,7 +24,7 @@
     "semantic-release": "semantic-release"
   },
   "devDependencies": {
-    "@alexanderfortin/semantic-release-keep-a-changelog": "^0.4.11",
+    "@alexanderfortin/semantic-release-keep-a-changelog": "^0.4.12",
     "@biomejs/biome": "^2.5.8",
     "@semantic-release/commit-analyzer": "^13.0.1",
     "@semantic-release/exec": "^7.1.0",
@@ -39,6 +39,6 @@
     "typescript": "^7.0.2"
   },
   "dependencies": {
-    "temporal-polyfill": "^1.0.3"
+    "temporal-polyfill": "^1.0.4"
   }
 }
