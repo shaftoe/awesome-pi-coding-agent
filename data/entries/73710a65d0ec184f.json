@@ -1,0 +1,30 @@
+{
+  "id": "pi-grok-tui",
+  "name": "pi-grok-tui",
+  "url": "https://www.npmjs.com/package/pi-grok-tui",
+  "source": "npm-search",
+  "description": "Grok-styled theme and TUI chrome for the pi coding agent: framed logo header with a real startup animation, single-line footer, square editor frame.",
+  "metadata": {
+    "github_url": "https://github.com/lawrencewzen/pi-grok-tui",
+    "npm_name": "pi-grok-tui",
+    "description": "Grok-styled theme and TUI chrome for the pi coding agent: framed logo header with a real startup animation, single-line footer, square editor frame.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "theme",
+      "tui",
+      "grok"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-08-17T05:00:21.774Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

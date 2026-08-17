@@ -1,0 +1,31 @@
+{
+  "id": "YoungJurry-pi-native-todo",
+  "name": "YoungJurry-pi-native-todo",
+  "url": "https://github.com/YoungJurry/pi-native-todo",
+  "source": "github-search",
+  "description": "Native task planning and state tracking for Pi with branch replay and a live TUI widget",
+  "metadata": {
+    "github_url": "https://github.com/YoungJurry/pi-native-todo",
+    "repo_full_name": "YoungJurry/pi-native-todo",
+    "description": "Native task planning and state tracking for Pi with branch replay and a live TUI widget",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "pi-coding-agent",
+      "pi-package",
+      "task-management",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-27T14:21:42Z",
+    "pushed_at": "2026-07-30T02:26:19Z",
+    "updated_at": "2026-07-30T02:24:00Z",
+    "size": 28,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

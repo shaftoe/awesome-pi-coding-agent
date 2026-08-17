@@ -3,23 +3,23 @@
   "name": "iqbalabiyoga-pi-vscode-chat",
   "url": "https://github.com/iqbalabiyoga/pi-vscode-chat",
   "source": "github-search",
-  "description": "VS Code chat sidebar powered by your local pi coding agent — streaming, steering, edit tracking, multi-agent. All pi extensions & skills work out of the box.",
+  "description": "Pi Chat — Copilot-like chat sidebar for VS Code, powered by your local pi coding agent",
   "metadata": {
     "github_url": "https://github.com/iqbalabiyoga/pi-vscode-chat",
     "repo_full_name": "iqbalabiyoga/pi-vscode-chat",
-    "description": "VS Code chat sidebar powered by your local pi coding agent — streaming, steering, edit tracking, multi-agent. All pi extensions & skills work out of the box.",
+    "description": "Pi Chat — Copilot-like chat sidebar for VS Code, powered by your local pi coding agent",
     "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
-    "created_at": "2026-07-08T05:56:38Z",
-    "pushed_at": "2026-07-08T06:01:52Z",
-    "updated_at": "2026-07-10T08:55:28Z",
-    "size": 87,
+    "created_at": "2026-08-01T23:08:45Z",
+    "pushed_at": "2026-08-03T15:43:43Z",
+    "updated_at": "2026-08-17T17:28:37Z",
+    "size": 777,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
-  "category": "extension"
+  "category": "misc"
 }

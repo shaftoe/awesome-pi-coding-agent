@@ -1,0 +1,29 @@
+{
+  "id": "@agimon-ai/doompi-ui",
+  "name": "@agimon-ai/doompi-ui",
+  "url": "https://www.npmjs.com/package/@agimon-ai/doompi-ui",
+  "source": "npm-search",
+  "description": "Doom-inspired interactive UI extension for Pi",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@agimon-ai/doompi-ui",
+    "description": "Doom-inspired interactive UI extension for Pi",
+    "keywords": [
+      "ai",
+      "coding-agent",
+      "developer-tools",
+      "doompi",
+      "pi-package"
+    ],
+    "version": "0.0.1-alpha.21",
+    "published_at": "2026-08-17T14:03:58.896Z",
+    "npm_downloads_monthly": 2224,
+    "npm_downloads_weekly": 2224,
+    "npm_score_final": 24.93723,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "musichen-pi-telegram-multi",
+  "name": "musichen-pi-telegram-multi",
+  "url": "https://github.com/musichen/pi-telegram-multi",
+  "source": "github-search",
+  "description": "Multi-account and multi-bot Telegram DM bridge for pi: allowlist multiple Telegram users and assign a separate bot to each pi session, so you can drive multiple coding-agent sessions in parallel.",
+  "metadata": {
+    "github_url": "https://github.com/musichen/pi-telegram-multi",
+    "repo_full_name": "musichen/pi-telegram-multi",
+    "description": "Multi-account and multi-bot Telegram DM bridge for pi: allowlist multiple Telegram users and assign a separate bot to each pi session, so you can drive multiple coding-agent sessions in parallel.",
+    "stars": 11,
+    "forks": 4,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-15T12:28:00Z",
+    "pushed_at": "2026-08-17T10:10:53Z",
+    "updated_at": "2026-08-17T10:12:29Z",
+    "size": 1501,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "czottmann-pi-whoami",
+  "name": "czottmann-pi-whoami",
+  "url": "https://github.com/czottmann/pi-whoami",
+  "source": "github-search",
+  "description": "A `whoami` tool for pi, reporting the active provider, model, thinking level, and project dir of the current pi session.",
+  "metadata": {
+    "github_url": "https://github.com/czottmann/pi-whoami",
+    "repo_full_name": "czottmann/pi-whoami",
+    "description": "A `whoami` tool for pi, reporting the active provider, model, thinking level, and project dir of the current pi session.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "pi-plugin",
+      "whoami"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-16T13:11:57Z",
+    "pushed_at": "2026-08-16T13:43:16Z",
+    "updated_at": "2026-08-17T04:29:57Z",
+    "size": 24,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

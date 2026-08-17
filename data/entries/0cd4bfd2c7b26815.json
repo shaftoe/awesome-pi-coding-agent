@@ -1,0 +1,32 @@
+{
+  "id": "onsails-fork-in",
+  "name": "onsails-fork-in",
+  "url": "https://github.com/onsails/fork-in",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/onsails/fork-in",
+    "repo_full_name": "onsails/fork-in",
+    "description": "",
+    "stars": 3,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "herdr",
+      "oh-my-pi",
+      "oh-my-pi-extension",
+      "omp",
+      "pi-agent",
+      "pi-agent-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-14T22:51:58Z",
+    "pushed_at": "2026-08-17T13:06:50Z",
+    "updated_at": "2026-08-17T13:09:24Z",
+    "size": 99,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "@xamfoo/pi-openrouter-pin",
+  "name": "@xamfoo/pi-openrouter-pin",
+  "url": "https://www.npmjs.com/package/@xamfoo/pi-openrouter-pin",
+  "source": "npm-search",
+  "description": "Pi extension to pin an OpenRouter model to a provider.",
+  "metadata": {
+    "github_url": "https://github.com/xamfoo/pi-openrouter-pin",
+    "npm_name": "@xamfoo/pi-openrouter-pin",
+    "description": "Pi extension to pin an OpenRouter model to a provider.",
+    "keywords": [
+      "pi-package",
+      "openrouter",
+      "routing",
+      "pi"
+    ],
+    "version": "0.1.5",
+    "published_at": "2026-08-16T17:36:51.328Z",
+    "npm_downloads_monthly": 952,
+    "npm_downloads_weekly": 952,
+    "npm_score_final": 21.925158,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

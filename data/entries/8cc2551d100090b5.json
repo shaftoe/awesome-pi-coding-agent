@@ -1,0 +1,29 @@
+{
+  "id": "pi-context-seeker",
+  "name": "pi-context-seeker",
+  "url": "https://www.npmjs.com/package/pi-context-seeker",
+  "source": "npm-search",
+  "description": "Adaptive questions for building precise, token-efficient shared context between Pi agents and users",
+  "metadata": {
+    "github_url": "https://github.com/the-sleeping-teemo/pi-context-seeker",
+    "npm_name": "pi-context-seeker",
+    "description": "Adaptive questions for building precise, token-efficient shared context between Pi agents and users",
+    "keywords": [
+      "pi-package",
+      "questions",
+      "context",
+      "clarification",
+      "ai-agent"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-10T00:36:40.649Z",
+    "npm_downloads_monthly": 141,
+    "npm_downloads_weekly": 141,
+    "npm_score_final": 14.891333,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

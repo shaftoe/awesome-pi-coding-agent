@@ -1,0 +1,25 @@
+{
+  "id": "@aefree/pi-project-management",
+  "name": "@aefree/pi-project-management",
+  "url": "https://www.npmjs.com/package/@aefree/pi-project-management",
+  "source": "npm-search",
+  "description": "Pi project-management skills and prompt templates.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@aefree/pi-project-management",
+    "description": "Pi project-management skills and prompt templates.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-09T13:48:41.408Z",
+    "npm_downloads_monthly": 70,
+    "npm_downloads_weekly": 70,
+    "npm_score_final": 13.766718,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

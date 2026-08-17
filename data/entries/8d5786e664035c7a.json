@@ -1,0 +1,32 @@
+{
+  "id": "WangTingYeYe-pi-alibaba-bailian",
+  "name": "WangTingYeYe-pi-alibaba-bailian",
+  "url": "https://github.com/WangTingYeYe/pi-alibaba-bailian",
+  "source": "github-search",
+  "description": "Pi provider extension for Alibaba Cloud Model Studio (Bailian/DashScope) API keys",
+  "metadata": {
+    "github_url": "https://github.com/WangTingYeYe/pi-alibaba-bailian",
+    "repo_full_name": "WangTingYeYe/pi-alibaba-bailian",
+    "description": "Pi provider extension for Alibaba Cloud Model Studio (Bailian/DashScope) API keys",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "alibaba-cloud",
+      "bailian",
+      "dashscope",
+      "pi-extension",
+      "pi-package",
+      "qwen"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-17T12:38:44Z",
+    "pushed_at": "2026-08-17T12:39:01Z",
+    "updated_at": "2026-08-17T12:40:28Z",
+    "size": 33,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

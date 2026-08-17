@@ -3,11 +3,11 @@
   "name": "r/PiCodingAgent on Reddit: My powerful Pi agent Setup",
   "url": "https://www.reddit.com/r/PiCodingAgent/comments/1t41thp/my_powerful_pi_agent_setup/",
   "source": "brave-web-search",
-  "description": "176 votes, 61 comments. Hello guys! Today i want to share my Pi agent setup, i think i got something in hands here that can benefit the community to…",
+  "description": "This two agents give access to the main agent to different points of view less biased, with clean context windows. The reviewer takes care of code quality, security and ux of the changes introduced by the main agent. The advisor is for strategical decisions around architecture and product. pi-codemapper: a wrapper of codemapper that enables efficient codebase exploration.",
   "metadata": {
     "title": "r/PiCodingAgent on Reddit: My powerful Pi agent Setup",
     "name": "r/PiCodingAgent on Reddit: My powerful Pi agent Setup",
-    "description": "176 votes, 61 comments. Hello guys! Today i want to share my Pi agent setup, i think i got something in hands here that can benefit the community to…",
+    "description": "This two agents give access to the main agent to different points of view less biased, with clean context windows. The reviewer takes care of code quality, security and ux of the changes introduced by the main agent. The advisor is for strategical decisions around architecture and product. pi-codemapper: a wrapper of codemapper that enables efficient codebase exploration.",
     "published_at": "2026-05-05T01:57:43",
     "source_site": "Reddit",
     "source_url": "https://www.reddit.com/r/PiCodingAgent/comments/1t41thp/my_powerful_pi_agent_setup/",

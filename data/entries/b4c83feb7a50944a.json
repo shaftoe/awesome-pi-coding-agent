@@ -1,0 +1,28 @@
+{
+  "id": "pi-shadow-mind",
+  "name": "pi-shadow-mind",
+  "url": "https://www.npmjs.com/package/pi-shadow-mind",
+  "source": "npm-search",
+  "description": "Parallel cognitive runtime for Pi",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-shadow-mind",
+    "description": "Parallel cognitive runtime for Pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "agent",
+      "multi-agent"
+    ],
+    "version": "0.1.11",
+    "published_at": "2026-08-16T14:49:15.856Z",
+    "npm_downloads_monthly": 586,
+    "npm_downloads_weekly": 586,
+    "npm_score_final": 19.85454,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

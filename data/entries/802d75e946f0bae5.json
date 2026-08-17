@@ -10,7 +10,7 @@
     "description": "skills, extensions, themes and prompts for pi coding agent",
     "stars": 1,
     "forks": 1,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "ai-agent",
       "coding-agent",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-05T20:47:55Z",
-    "pushed_at": "2026-08-15T19:12:58Z",
-    "updated_at": "2026-08-15T18:33:24Z",
-    "size": 286,
+    "pushed_at": "2026-08-17T17:53:41Z",
+    "updated_at": "2026-08-17T17:54:32Z",
+    "size": 372,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

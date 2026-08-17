@@ -1,0 +1,32 @@
+{
+  "id": "Chenxxxxxx06-pi-deck",
+  "name": "Chenxxxxxx06-pi-deck",
+  "url": "https://github.com/Chenxxxxxx06/pi-deck",
+  "source": "github-search",
+  "description": "Bilingual local desktop and web client for the Pi coding agent, powered by Pi RPC",
+  "metadata": {
+    "github_url": "https://github.com/Chenxxxxxx06/pi-deck",
+    "repo_full_name": "Chenxxxxxx06/pi-deck",
+    "description": "Bilingual local desktop and web client for the Pi coding agent, powered by Pi RPC",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "bilingual",
+      "coding-agent",
+      "desktop",
+      "electron",
+      "pi-agent",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-17T05:16:49Z",
+    "pushed_at": "2026-08-17T05:19:17Z",
+    "updated_at": "2026-08-17T05:19:20Z",
+    "size": 819,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

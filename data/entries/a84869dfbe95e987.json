@@ -1,0 +1,29 @@
+{
+  "id": "pi2dsh",
+  "name": "pi2dsh",
+  "url": "https://www.npmjs.com/package/pi2dsh",
+  "source": "npm-search",
+  "description": "Bridge the Pi and DeepSeek Harness ecosystems: a general Pi Host ABI that runs unmodified Pi extensions as native DSH plugins, plus per-package conversion and MCP config translation.",
+  "metadata": {
+    "github_url": "https://github.com/weijiafu14/pi2dsh",
+    "npm_name": "pi2dsh",
+    "description": "Bridge the Pi and DeepSeek Harness ecosystems: a general Pi Host ABI that runs unmodified Pi extensions as native DSH plugins, plus per-package conversion and MCP config translation.",
+    "keywords": [
+      "deepseek-harness",
+      "dsh-plugin",
+      "pi-package",
+      "migration",
+      "compatibility"
+    ],
+    "version": "0.12.3",
+    "published_at": "2026-08-16T16:28:22.255Z",
+    "npm_downloads_monthly": 1482,
+    "npm_downloads_weekly": 1482,
+    "npm_score_final": 23.051237,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

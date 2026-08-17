@@ -1,0 +1,29 @@
+{
+  "id": "@agimon-ai/doompi-extension-contracts",
+  "name": "@agimon-ai/doompi-extension-contracts",
+  "url": "https://www.npmjs.com/package/@agimon-ai/doompi-extension-contracts",
+  "source": "npm-search",
+  "description": "Validated event protocols shared by Doompi extensions",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@agimon-ai/doompi-extension-contracts",
+    "description": "Validated event protocols shared by Doompi extensions",
+    "keywords": [
+      "ai",
+      "coding-agent",
+      "developer-tools",
+      "doompi",
+      "pi-package"
+    ],
+    "version": "0.0.1-alpha.21",
+    "published_at": "2026-08-17T14:03:55.354Z",
+    "npm_downloads_monthly": 2373,
+    "npm_downloads_weekly": 2373,
+    "npm_score_final": 24.731298,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

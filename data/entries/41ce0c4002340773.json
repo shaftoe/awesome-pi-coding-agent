@@ -1,0 +1,36 @@
+{
+  "id": "pi-herdr-live-agents",
+  "name": "pi-herdr-live-agents",
+  "url": "https://www.npmjs.com/package/pi-herdr-live-agents",
+  "source": "npm-search",
+  "description": "Visible Pi (sub)agents that run as real, live Pi sessions in Herdr panes.",
+  "metadata": {
+    "github_url": "https://github.com/aaaxn/pi-herdr-live-agents",
+    "npm_name": "pi-herdr-live-agents",
+    "description": "Visible Pi (sub)agents that run as real, live Pi sessions in Herdr panes.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "herdr",
+      "agents",
+      "live-agents",
+      "subagent",
+      "subagents",
+      "multi-agent",
+      "orchestration",
+      "terminal",
+      "panes"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-08-17T16:43:35.956Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

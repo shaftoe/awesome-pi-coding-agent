@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_brightdata.com_pi-agent-with-web-mcp",
+  "name": "Using Bright Data's Web MCP with Pi Agent",
+  "url": "https://brightdata.com/blog/ai/pi-agent-with-web-mcp",
+  "source": "brave-web-search",
+  "description": "Learn how to connect Pi Agent to Bright Data's Web MCP server to give your terminal-based coding agent real-time search and scraping capabilities.",
+  "metadata": {
+    "title": "Using Bright Data's Web MCP with Pi Agent",
+    "name": "Using Bright Data's Web MCP with Pi Agent",
+    "description": "Learn how to connect Pi Agent to Bright Data's Web MCP server to give your terminal-based coding agent real-time search and scraping capabilities.",
+    "published_at": "2026-08-12T11:01:53",
+    "source_site": "Bright Data",
+    "source_url": "https://brightdata.com/blog/ai/pi-agent-with-web-mcp",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

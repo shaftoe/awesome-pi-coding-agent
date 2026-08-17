@@ -1,0 +1,30 @@
+{
+  "id": "i-am-cooking",
+  "name": "i-am-cooking",
+  "url": "https://www.npmjs.com/package/i-am-cooking",
+  "source": "npm-search",
+  "description": "Pi extension: when the user is away cooking, the agent works autonomously. When blocked or when work is done, it shouts loudly — through sound, TTS, desktop toast, and phone push — so the user can come back from the kitchen.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "i-am-cooking",
+    "description": "Pi extension: when the user is away cooking, the agent works autonomously. When blocked or when work is done, it shouts loudly — through sound, TTS, desktop toast, and phone push — so the user can come back from the kitchen.",
+    "keywords": [
+      "pi-package",
+      "notification",
+      "cooking",
+      "tui",
+      "agent",
+      "autonomy"
+    ],
+    "version": "0.7.0",
+    "published_at": "2026-08-17T11:32:06.739Z",
+    "npm_downloads_monthly": 270,
+    "npm_downloads_weekly": 270,
+    "npm_score_final": 17.298677,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

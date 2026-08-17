@@ -1,0 +1,32 @@
+{
+  "id": "pi-mail",
+  "name": "pi-mail",
+  "url": "https://www.npmjs.com/package/pi-mail",
+  "source": "npm-search",
+  "description": "Local mailbox communication for independent Pi coding sessions, with peer discovery and a human Web UI.",
+  "metadata": {
+    "github_url": "https://github.com/frostime/pi-mail",
+    "npm_name": "pi-mail",
+    "description": "Local mailbox communication for independent Pi coding sessions, with peer discovery and a human Web UI.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "agent",
+      "mail",
+      "mailbox",
+      "multi-agent",
+      "communication"
+    ],
+    "version": "0.8.0",
+    "published_at": "2026-08-16T16:02:09.825Z",
+    "npm_downloads_monthly": 329,
+    "npm_downloads_weekly": 329,
+    "npm_score_final": 17.818441,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

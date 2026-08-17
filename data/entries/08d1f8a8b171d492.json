@@ -1,0 +1,30 @@
+{
+  "id": "@specode/pi-kimi-cu",
+  "name": "@specode/pi-kimi-cu",
+  "url": "https://www.npmjs.com/package/@specode/pi-kimi-cu",
+  "source": "npm-search",
+  "description": "Lightweight Kimi Computer Use installer and MCP setup for Pi",
+  "metadata": {
+    "github_url": "https://github.com/specode/pi-kimi-cu",
+    "npm_name": "@specode/pi-kimi-cu",
+    "description": "Lightweight Kimi Computer Use installer and MCP setup for Pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "kimi",
+      "computer-use",
+      "mcp",
+      "macos"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-09T15:07:54.526Z",
+    "npm_downloads_monthly": 416,
+    "npm_downloads_weekly": 416,
+    "npm_score_final": 18.418442,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

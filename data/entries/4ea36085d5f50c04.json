@@ -1,0 +1,30 @@
+{
+  "id": "theumarrana-pi-teamwork-extension",
+  "name": "theumarrana-pi-teamwork-extension",
+  "url": "https://github.com/theumarrana/pi-teamwork-extension",
+  "source": "github-search",
+  "description": "Pi extension for direct, stable access to the Teamwork.com API",
+  "metadata": {
+    "github_url": "https://github.com/theumarrana/pi-teamwork-extension",
+    "repo_full_name": "theumarrana/pi-teamwork-extension",
+    "description": "Pi extension for direct, stable access to the Teamwork.com API",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "teamwork"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-16T15:07:17Z",
+    "pushed_at": "2026-08-01T13:23:16Z",
+    "updated_at": "2026-08-01T13:32:12Z",
+    "size": 75,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
