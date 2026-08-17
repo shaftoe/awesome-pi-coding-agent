@@ -1,0 +1,33 @@
+{
+  "id": "@0xfig/indie",
+  "name": "@0xfig/indie",
+  "url": "https://www.npmjs.com/package/@0xfig/indie",
+  "source": "npm-search",
+  "description": "Independent developer product strategy, delivery and launch skills for OMP/Pi and generic Agent Skills hosts.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@0xfig/indie",
+    "description": "Independent developer product strategy, delivery and launch skills for OMP/Pi and generic Agent Skills hosts.",
+    "keywords": [
+      "agent-skills",
+      "omp",
+      "pi",
+      "codex",
+      "indie-developer",
+      "product-development",
+      "ui-ux",
+      "hallmark",
+      "pi-package"
+    ],
+    "version": "1.2.3",
+    "published_at": "2026-08-09T00:18:18.829Z",
+    "npm_downloads_monthly": 1033,
+    "npm_downloads_weekly": 1033,
+    "npm_score_final": 21.544315,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

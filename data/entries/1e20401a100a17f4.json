@@ -10,7 +10,7 @@
     "description": "An independent, modern desktop GUI for the Pi coding agent.",
     "stars": 2,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "ai-agent",
       "coding-agent",
@@ -26,9 +26,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-06T14:46:41Z",
-    "pushed_at": "2026-08-15T10:25:26Z",
-    "updated_at": "2026-08-13T12:58:00Z",
-    "size": 12639,
+    "pushed_at": "2026-08-17T03:55:11Z",
+    "updated_at": "2026-08-17T03:55:30Z",
+    "size": 12084,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

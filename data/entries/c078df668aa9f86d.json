@@ -9,7 +9,7 @@
     "repo_full_name": "spott/pi-task-compaction",
     "description": "Provider-agnostic, agent-driven task-region compaction for pi",
     "stars": 10,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

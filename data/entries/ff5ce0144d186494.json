@@ -9,8 +9,8 @@
     "repo_full_name": "monotykamary/pi-double-esc",
     "description": "Prevent accidental Escape from aborting the LLM — requires double-press to interrupt while streaming",
     "stars": 6,
-    "forks": 0,
-    "open_issues": 0,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "debounce",
       "double-escape",

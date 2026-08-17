@@ -1,0 +1,25 @@
+{
+  "id": "felixnorden-pi-mono",
+  "name": "felixnorden-pi-mono",
+  "url": "https://github.com/felixnorden/pi-mono",
+  "source": "github-search",
+  "description": "A monorepo of various Pi-related packages",
+  "metadata": {
+    "github_url": "https://github.com/felixnorden/pi-mono",
+    "repo_full_name": "felixnorden/pi-mono",
+    "description": "A monorepo of various Pi-related packages",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-17T21:31:34Z",
+    "pushed_at": "2026-08-17T21:38:11Z",
+    "updated_at": "2026-08-17T21:38:16Z",
+    "size": 219,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "theme"
+}

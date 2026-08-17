@@ -8,7 +8,7 @@
     "github_url": "https://github.com/bilalbentoumi/pi-vsc",
     "repo_full_name": "bilalbentoumi/pi-vsc",
     "description": "Pintra — Pi Agent for VS Code",
-    "stars": 6,
+    "stars": 7,
     "forks": 3,
     "open_issues": 0,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-07-17T22:24:14Z",
     "pushed_at": "2026-08-09T20:28:11Z",
-    "updated_at": "2026-08-09T20:27:09Z",
+    "updated_at": "2026-08-17T08:02:48Z",
     "size": 2090,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

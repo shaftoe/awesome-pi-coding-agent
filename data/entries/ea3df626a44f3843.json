@@ -1,0 +1,31 @@
+{
+  "id": "pi-thinking-realtime-tps",
+  "name": "pi-thinking-realtime-tps",
+  "url": "https://www.npmjs.com/package/pi-thinking-realtime-tps",
+  "source": "npm-search",
+  "description": "Pi extension that adds elapsed time, directional tokens, and real-time tokens-per-second (TPS) to Pi's original working/thinking loader.",
+  "metadata": {
+    "github_url": "https://github.com/Lxxyx/pi-thinking-messaging",
+    "npm_name": "pi-thinking-realtime-tps",
+    "description": "Pi extension that adds elapsed time, directional tokens, and real-time tokens-per-second (TPS) to Pi's original working/thinking loader.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "thinking",
+      "working-message",
+      "tokens",
+      "tps",
+      "token-speed"
+    ],
+    "version": "0.1.5",
+    "published_at": "2026-08-10T08:48:00.035Z",
+    "npm_downloads_monthly": 360,
+    "npm_downloads_weekly": 360,
+    "npm_score_final": 18.130678,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

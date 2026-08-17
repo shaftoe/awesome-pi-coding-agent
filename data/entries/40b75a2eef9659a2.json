@@ -1,0 +1,30 @@
+{
+  "id": "pi-auto-resume",
+  "name": "pi-auto-resume",
+  "url": "https://www.npmjs.com/package/pi-auto-resume",
+  "source": "npm-search",
+  "description": "Pi coding agent extension that auto-resumes on token limits, rate limits, and provider plan exhaustion",
+  "metadata": {
+    "github_url": "https://github.com/kasaiarashi/pi-auto-resume",
+    "npm_name": "pi-auto-resume",
+    "description": "Pi coding agent extension that auto-resumes on token limits, rate limits, and provider plan exhaustion",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "auto-resume",
+      "token-limit",
+      "rate-limit"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-08-09T15:13:37.867Z",
+    "npm_downloads_monthly": 157,
+    "npm_downloads_weekly": 157,
+    "npm_score_final": 15.247887,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

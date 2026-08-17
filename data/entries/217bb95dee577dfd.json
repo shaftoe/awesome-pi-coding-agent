@@ -1,0 +1,29 @@
+{
+  "id": "pi-extension-agentrouter",
+  "name": "pi-extension-agentrouter",
+  "url": "https://www.npmjs.com/package/pi-extension-agentrouter",
+  "source": "npm-search",
+  "description": "AgentRouter provider for pi — routes to GPT-5.6 Sol and Claude Opus 5",
+  "metadata": {
+    "github_url": "https://github.com/bismawy/pi-extension-agentrouter",
+    "npm_name": "pi-extension-agentrouter",
+    "description": "AgentRouter provider for pi — routes to GPT-5.6 Sol and Claude Opus 5",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "agentrouter",
+      "provider"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-08-16T09:59:19.314Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

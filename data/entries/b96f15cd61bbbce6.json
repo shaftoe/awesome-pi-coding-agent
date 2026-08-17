@@ -8,7 +8,7 @@
     "github_url": "https://github.com/justhil/pi-app",
     "repo_full_name": "justhil/pi-app",
     "description": "An elegant GUI implementation of pi-agent",
-    "stars": 294,
+    "stars": 299,
     "forks": 27,
     "open_issues": 10,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-20T18:13:17Z",
     "pushed_at": "2026-08-14T09:12:55Z",
-    "updated_at": "2026-08-15T17:50:14Z",
+    "updated_at": "2026-08-17T12:53:50Z",
     "size": 7300,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,31 @@
+{
+  "id": "one-code-extension",
+  "name": "one-code-extension",
+  "url": "https://www.npmjs.com/package/one-code-extension",
+  "source": "npm-search",
+  "description": "One Code as a pi package — the Claude Code experience on your own pi install: ported system prompt, Claude-Code-format permissions, .claude/ compatibility, ToolSearch-style deferred tools, and system-reminder steering. For the bundled app, install `@one-a",
+  "metadata": {
+    "github_url": "https://github.com/IsuruMaduranga/one-code",
+    "npm_name": "one-code-extension",
+    "description": "One Code as a pi package — the Claude Code experience on your own pi install: ported system prompt, Claude-Code-format permissions, .claude/ compatibility, ToolSearch-style deferred tools, and system-reminder steering. For the bundled app, install `@one-a",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "claude-code",
+      "coding-agent",
+      "mcp",
+      "agent"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-08-10T11:40:24.295Z",
+    "npm_downloads_monthly": 733,
+    "npm_downloads_weekly": 733,
+    "npm_score_final": 20.736996,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

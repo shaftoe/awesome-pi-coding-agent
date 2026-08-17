@@ -10,7 +10,7 @@
     "description": "SAP AI Core (orchestration & foundation) custom provider for the pi coding agent",
     "stars": 2,
     "forks": 1,
-    "open_issues": 3,
+    "open_issues": 2,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
@@ -19,7 +19,7 @@
     "updated_at": "2026-08-03T19:05:10Z",
     "size": 507,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
     "score": 53,

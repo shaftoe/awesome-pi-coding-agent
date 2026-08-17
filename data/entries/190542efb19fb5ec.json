@@ -1,0 +1,29 @@
+{
+  "id": "pi-sandbox-docker",
+  "name": "pi-sandbox-docker",
+  "url": "https://www.npmjs.com/package/pi-sandbox-docker",
+  "source": "npm-search",
+  "description": "On-demand disposable Docker sandbox for Pi: run code in a fresh, offline Debian container with read-only project mount and per-run network approval.",
+  "metadata": {
+    "github_url": "https://github.com/Kiy-K/pi-sandbox-docker",
+    "npm_name": "pi-sandbox-docker",
+    "description": "On-demand disposable Docker sandbox for Pi: run code in a fresh, offline Debian container with read-only project mount and per-run network approval.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "docker",
+      "sandbox",
+      "container"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-10T13:24:48.122Z",
+    "npm_downloads_monthly": 136,
+    "npm_downloads_weekly": 136,
+    "npm_score_final": 14.791088,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

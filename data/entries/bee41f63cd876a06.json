@@ -1,0 +1,42 @@
+{
+  "id": "abhishekgahlot2-pi-dsh",
+  "name": "abhishekgahlot2-pi-dsh",
+  "url": "https://github.com/abhishekgahlot2/pi-dsh",
+  "source": "github-search",
+  "description": "Pi coding-agent harness with durable sessions, causal history, reversible components, and approval-gated host self-extension.",
+  "metadata": {
+    "github_url": "https://github.com/abhishekgahlot2/pi-dsh",
+    "repo_full_name": "abhishekgahlot2/pi-dsh",
+    "description": "Pi coding-agent harness with durable sessions, causal history, reversible components, and approval-gated host self-extension.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-harness",
+      "agent-runtime",
+      "ai-agents",
+      "causal-tracing",
+      "coding-agent",
+      "coding-agents",
+      "crash-recovery",
+      "dsh",
+      "durable-execution",
+      "event-sourcing",
+      "pi-agent",
+      "pi-coding-agent",
+      "pi-mono",
+      "self-extensible",
+      "session-replay",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-16T20:33:57Z",
+    "pushed_at": "2026-08-17T15:46:52Z",
+    "updated_at": "2026-08-17T15:46:55Z",
+    "size": 1025,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

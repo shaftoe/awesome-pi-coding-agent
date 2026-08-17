@@ -1,0 +1,30 @@
+{
+  "id": "theumarrana-pi-clickup-extension",
+  "name": "theumarrana-pi-clickup-extension",
+  "url": "https://github.com/theumarrana/pi-clickup-extension",
+  "source": "github-search",
+  "description": "Pi extension for direct, full-control access to ClickUp's Public API v2/v3",
+  "metadata": {
+    "github_url": "https://github.com/theumarrana/pi-clickup-extension",
+    "repo_full_name": "theumarrana/pi-clickup-extension",
+    "description": "Pi extension for direct, full-control access to ClickUp's Public API v2/v3",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "clickup",
+      "pi",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-14T16:03:54Z",
+    "pushed_at": "2026-08-01T13:05:22Z",
+    "updated_at": "2026-08-01T13:32:11Z",
+    "size": 62,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "@agimon-ai/doompi-runner",
+  "name": "@agimon-ai/doompi-runner",
+  "url": "https://www.npmjs.com/package/@agimon-ai/doompi-runner",
+  "source": "npm-search",
+  "description": "Pi bash tool replacement with background process supervision",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@agimon-ai/doompi-runner",
+    "description": "Pi bash tool replacement with background process supervision",
+    "keywords": [
+      "ai",
+      "coding-agent",
+      "developer-tools",
+      "doompi",
+      "pi-package"
+    ],
+    "version": "0.0.1-alpha.21",
+    "published_at": "2026-08-17T14:04:30.780Z",
+    "npm_downloads_monthly": 1585,
+    "npm_downloads_weekly": 1585,
+    "npm_score_final": 23.322962,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

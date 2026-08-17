@@ -1,0 +1,43 @@
+{
+  "id": "loopwithai-LoopWithAI",
+  "name": "loopwithai-LoopWithAI",
+  "url": "https://github.com/loopwithai/LoopWithAI",
+  "source": "github-search",
+  "description": "Multi-agent DeepSeek Harness workbench with switchable Pi, OpenAI Codex, Claude Code, and native DeepSeek Agent Loops.",
+  "metadata": {
+    "github_url": "https://github.com/loopwithai/LoopWithAI",
+    "repo_full_name": "loopwithai/LoopWithAI",
+    "description": "Multi-agent DeepSeek Harness workbench with switchable Pi, OpenAI Codex, Claude Code, and native DeepSeek Agent Loops.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "agent-loop",
+      "ai-agent",
+      "ai-coding",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "cordis",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh-plugin",
+      "llm",
+      "local-first",
+      "multi-agent",
+      "openai-codex",
+      "pi-coding-agent",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-12T15:47:39Z",
+    "pushed_at": "2026-08-15T04:14:54Z",
+    "updated_at": "2026-08-17T00:53:41Z",
+    "size": 2097,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

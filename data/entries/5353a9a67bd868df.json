@@ -1,0 +1,35 @@
+{
+  "id": "pi-token-usage-statistics",
+  "name": "pi-token-usage-statistics",
+  "url": "https://www.npmjs.com/package/pi-token-usage-statistics",
+  "source": "npm-search",
+  "description": "Pi extension collecting token usage, cost, and cache-hit statistics across sessions, with interactive TUI and Pi Web dashboards.",
+  "metadata": {
+    "github_url": "https://github.com/Techd81/pi-usage-statistics",
+    "npm_name": "pi-token-usage-statistics",
+    "description": "Pi extension collecting token usage, cost, and cache-hit statistics across sessions, with interactive TUI and Pi Web dashboards.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "token-usage",
+      "statistics",
+      "cost",
+      "usage",
+      "tui",
+      "pi-web",
+      "dashboard",
+      "cache-hit",
+      "pricing"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-16T07:51:06.413Z",
+    "npm_downloads_monthly": 136,
+    "npm_downloads_weekly": 136,
+    "npm_score_final": 14.791088,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

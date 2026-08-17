@@ -1,0 +1,36 @@
+{
+  "id": "@nifrajs/skills",
+  "name": "@nifrajs/skills",
+  "url": "https://www.npmjs.com/package/@nifrajs/skills",
+  "source": "npm-search",
+  "description": "Agent skills for nifra - portable SKILL.md bundles that teach a coding agent Nifra's contracts, boundaries, and CI gates, and point it at the live MCP server instead of stale recall.",
+  "metadata": {
+    "github_url": "https://github.com/nifrajs/nifra",
+    "npm_name": "@nifrajs/skills",
+    "description": "Agent skills for nifra - portable SKILL.md bundles that teach a coding agent Nifra's contracts, boundaries, and CI gates, and point it at the live MCP server instead of stale recall.",
+    "keywords": [
+      "pi-package",
+      "nifra",
+      "bun",
+      "typescript",
+      "ai-agent",
+      "agent-skills",
+      "skills",
+      "claude-code",
+      "cursor",
+      "mcp",
+      "agents-md",
+      "web-framework"
+    ],
+    "version": "3.1.0",
+    "published_at": "2026-08-17T17:52:38.621Z",
+    "npm_downloads_monthly": 216,
+    "npm_downloads_weekly": 216,
+    "npm_score_final": 16.519407,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

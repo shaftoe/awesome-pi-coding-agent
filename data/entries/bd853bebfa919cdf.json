@@ -10,7 +10,7 @@
     "description": "Thin flake wrapper around upstream pi-mono with local patches and extension packages",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 2,
     "topics": [
       "coding-agent",
       "nix",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-16T20:41:34Z",
-    "pushed_at": "2026-08-15T14:55:09Z",
-    "updated_at": "2026-08-15T14:55:45Z",
-    "size": 19955,
+    "pushed_at": "2026-08-16T15:53:48Z",
+    "updated_at": "2026-08-16T15:51:47Z",
+    "size": 20040,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

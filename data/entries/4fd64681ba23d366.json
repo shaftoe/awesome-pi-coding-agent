@@ -1,0 +1,30 @@
+{
+  "id": "pi-session-prs",
+  "name": "pi-session-prs",
+  "url": "https://www.npmjs.com/package/pi-session-prs",
+  "source": "npm-search",
+  "description": "Pi extension that shows the GitHub PRs of the current session in the footer, grouped by state, with /prs to open one in the browser.",
+  "metadata": {
+    "github_url": "https://github.com/marcoskichel/pi-session-prs",
+    "npm_name": "pi-session-prs",
+    "description": "Pi extension that shows the GitHub PRs of the current session in the footer, grouped by state, with /prs to open one in the browser.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "coding-agent",
+      "github",
+      "pull-requests"
+    ],
+    "version": "1.1.1",
+    "published_at": "2026-08-17T19:27:54.254Z",
+    "npm_downloads_monthly": 171,
+    "npm_downloads_weekly": 171,
+    "npm_score_final": 15.658474,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

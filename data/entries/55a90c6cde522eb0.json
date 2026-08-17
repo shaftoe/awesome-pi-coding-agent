@@ -6,7 +6,7 @@
   "description": "A pi extension for parallel side conversations with /btw",
   "metadata": {
     "github_url": "https://github.com/dbachelder/pi-btw",
-    "npm_name": "pi-btw",
+    "npm_name": "@xzzpig/pi-btw",
     "description": "A pi extension for parallel side conversations with /btw",
     "keywords": [
       "pi-package",
@@ -16,14 +16,14 @@
       "tui"
     ],
     "version": "0.4.1",
-    "published_at": "2026-06-09T22:18:29.759Z",
-    "npm_downloads_monthly": 8436,
-    "npm_downloads_weekly": 1997,
-    "npm_score_final": 29.73899,
+    "published_at": "2026-08-16T09:53:24.050Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "health": {
     "score": 100,

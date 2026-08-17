@@ -1,0 +1,35 @@
+{
+  "id": "@longhun12346/file-encoding",
+  "name": "@longhun12346/file-encoding",
+  "url": "https://www.npmjs.com/package/@longhun12346/file-encoding",
+  "source": "npm-search",
+  "description": "Encoding guard for Windows C++ projects (GBK/ANSI/UTF-16): blocks unsafe native edits and steers agents to transcode tools. Works as a Claude Code plugin and a Pi extension.",
+  "metadata": {
+    "github_url": "https://github.com/longhun12346/artifact-skills",
+    "npm_name": "@longhun12346/file-encoding",
+    "description": "Encoding guard for Windows C++ projects (GBK/ANSI/UTF-16): blocks unsafe native edits and steers agents to transcode tools. Works as a Claude Code plugin and a Pi extension.",
+    "keywords": [
+      "pi-package",
+      "claude-code",
+      "plugin",
+      "skill",
+      "encoding",
+      "gbk",
+      "ansi",
+      "utf-16",
+      "windows",
+      "cpp",
+      "mojibake"
+    ],
+    "version": "3.1.0",
+    "published_at": "2026-08-09T13:58:48.855Z",
+    "npm_downloads_monthly": 121,
+    "npm_downloads_weekly": 121,
+    "npm_score_final": 14.642945,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

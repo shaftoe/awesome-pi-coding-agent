@@ -1,0 +1,25 @@
+{
+  "id": "dafei1288-dsh-hud",
+  "name": "dafei1288-dsh-hud",
+  "url": "https://github.com/dafei1288/dsh-hud",
+  "source": "github-search",
+  "description": "dsh-hud form pi-agent-hud",
+  "metadata": {
+    "github_url": "https://github.com/dafei1288/dsh-hud",
+    "repo_full_name": "dafei1288/dsh-hud",
+    "description": "dsh-hud form pi-agent-hud",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-16T10:41:15Z",
+    "pushed_at": "2026-08-16T15:29:37Z",
+    "updated_at": "2026-08-17T07:03:05Z",
+    "size": 4443,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

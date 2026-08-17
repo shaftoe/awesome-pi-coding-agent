@@ -1,0 +1,25 @@
+{
+  "id": "AlexBSoD-pi-pack",
+  "name": "AlexBSoD-pi-pack",
+  "url": "https://github.com/AlexBSoD/pi-pack",
+  "source": "github-search",
+  "description": "pi extensions: guardrails on dangerous tool calls, custom statusline footer, themed working messages",
+  "metadata": {
+    "github_url": "https://github.com/AlexBSoD/pi-pack",
+    "repo_full_name": "AlexBSoD/pi-pack",
+    "description": "pi extensions: guardrails on dangerous tool calls, custom statusline footer, themed working messages",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-16T05:59:07Z",
+    "pushed_at": "2026-08-17T17:00:23Z",
+    "updated_at": "2026-08-17T17:01:50Z",
+    "size": 53,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "RealAlexandreAI-pi-gemini-multimodal",
+  "name": "RealAlexandreAI-pi-gemini-multimodal",
+  "url": "https://github.com/RealAlexandreAI/pi-gemini-multimodal",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/RealAlexandreAI/pi-gemini-multimodal",
+    "repo_full_name": "RealAlexandreAI/pi-gemini-multimodal",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "gemini",
+      "multimodal",
+      "pi",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-17T13:26:20Z",
+    "pushed_at": "2026-08-17T13:26:24Z",
+    "updated_at": "2026-08-17T13:31:30Z",
+    "size": 26,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

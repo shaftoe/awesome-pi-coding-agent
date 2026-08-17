@@ -1,0 +1,34 @@
+{
+  "id": "pi-harness-model-proposer",
+  "name": "pi-harness-model-proposer",
+  "url": "https://www.npmjs.com/package/pi-harness-model-proposer",
+  "source": "npm-search",
+  "description": "Dedicated-model proposer for pi-continual-harness. Registers a /refine proposer ('model') that makes its own one-shot LLM call (via the harness's injected complete closure) to produce evidence-backed CRUD deltas directly — hidden from the transcript but a",
+  "metadata": {
+    "github_url": "https://github.com/pungggi/pi-harness-model-proposer",
+    "npm_name": "pi-harness-model-proposer",
+    "description": "Dedicated-model proposer for pi-continual-harness. Registers a /refine proposer ('model') that makes its own one-shot LLM call (via the harness's injected complete closure) to produce evidence-backed CRUD deltas directly — hidden from the transcript but a",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi.dev",
+      "pi-extension",
+      "pi-continual-harness",
+      "continual-harness",
+      "proposer",
+      "refine",
+      "self-improvement",
+      "model"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-09T14:32:40.936Z",
+    "npm_downloads_monthly": 121,
+    "npm_downloads_weekly": 121,
+    "npm_score_final": 14.504179,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

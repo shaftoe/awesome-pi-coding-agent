@@ -1,0 +1,31 @@
+{
+  "id": "pi-session-worktrees",
+  "name": "pi-session-worktrees",
+  "url": "https://www.npmjs.com/package/pi-session-worktrees",
+  "source": "npm-search",
+  "description": "Pi extension that maps the git worktrees used by the current session, shows them in the footer, and publishes them as JSON for external tools like tmux pickers.",
+  "metadata": {
+    "github_url": "https://github.com/marcoskichel/pi-session-worktrees",
+    "npm_name": "pi-session-worktrees",
+    "description": "Pi extension that maps the git worktrees used by the current session, shows them in the footer, and publishes them as JSON for external tools like tmux pickers.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "coding-agent",
+      "git",
+      "worktree",
+      "tmux"
+    ],
+    "version": "1.0.3",
+    "published_at": "2026-08-17T19:27:35.214Z",
+    "npm_downloads_monthly": 182,
+    "npm_downloads_weekly": 182,
+    "npm_score_final": 15.756752,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

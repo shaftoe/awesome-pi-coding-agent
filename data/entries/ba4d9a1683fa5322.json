@@ -1,0 +1,35 @@
+{
+  "id": "YoungJurry-pi-web-lite",
+  "name": "YoungJurry-pi-web-lite",
+  "url": "https://github.com/YoungJurry/pi-web-lite",
+  "source": "github-search",
+  "description": "Lightweight Pi web_search and fetch extension with Exa, Tavily, Brave, Doubao, routing, failover, and tests.",
+  "metadata": {
+    "github_url": "https://github.com/YoungJurry/pi-web-lite",
+    "repo_full_name": "YoungJurry/pi-web-lite",
+    "description": "Lightweight Pi web_search and fetch extension with Exa, Tavily, Brave, Doubao, routing, failover, and tests.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "brave-search",
+      "developer-tools",
+      "exa",
+      "pi",
+      "pi-package",
+      "tavily",
+      "typescript",
+      "web-search"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-30T06:39:31Z",
+    "pushed_at": "2026-08-01T13:23:21Z",
+    "updated_at": "2026-08-01T13:23:25Z",
+    "size": 56,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

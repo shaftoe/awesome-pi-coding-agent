@@ -1,0 +1,30 @@
+{
+  "id": "equaxis-agent",
+  "name": "equaxis-agent",
+  "url": "https://www.npmjs.com/package/equaxis-agent",
+  "source": "npm-search",
+  "description": "Equaxis: a governed, observable and reliable agent runtime powered by Pi.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "equaxis-agent",
+    "description": "Equaxis: a governed, observable and reliable agent runtime powered by Pi.",
+    "keywords": [
+      "equaxis",
+      "pi",
+      "pi-package",
+      "agent",
+      "reliability",
+      "extension"
+    ],
+    "version": "0.3.6",
+    "published_at": "2026-08-16T08:40:38.671Z",
+    "npm_downloads_monthly": 349,
+    "npm_downloads_weekly": 349,
+    "npm_score_final": 18.023056,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}
