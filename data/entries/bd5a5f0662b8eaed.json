@@ -1,0 +1,33 @@
+{
+  "id": "omp-matrix-welcome",
+  "name": "omp-matrix-welcome",
+  "url": "https://www.npmjs.com/package/omp-matrix-welcome",
+  "source": "npm-search",
+  "description": "Matrix-style start screen for Oh My Pi (omp): full-width digital rain with a block banner, version, model and recent sessions",
+  "metadata": {
+    "github_url": "https://github.com/p1x3l4rtd3v/omp-matrix-welcome",
+    "npm_name": "omp-matrix-welcome",
+    "description": "Matrix-style start screen for Oh My Pi (omp): full-width digital rain with a block banner, version, model and recent sessions",
+    "keywords": [
+      "omp",
+      "omp-plugin",
+      "pi-package",
+      "extension",
+      "coding-agent",
+      "welcome",
+      "matrix",
+      "ascii",
+      "tui"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-08-11T07:24:12.238Z",
+    "npm_downloads_monthly": 125,
+    "npm_downloads_weekly": 125,
+    "npm_score_final": 14.570421,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

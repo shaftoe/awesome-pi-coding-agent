@@ -1,0 +1,25 @@
+{
+  "id": "@r3b1s/pi-token-killer",
+  "name": "@r3b1s/pi-token-killer",
+  "url": "https://www.npmjs.com/package/@r3b1s/pi-token-killer",
+  "source": "npm-search",
+  "description": "RTK (Rust Token Killer) extension for pi-coding-agent — routes eligible bash commands through rtk",
+  "metadata": {
+    "github_url": "https://github.com/r3b1s/pi-things",
+    "npm_name": "@r3b1s/pi-token-killer",
+    "description": "RTK (Rust Token Killer) extension for pi-coding-agent — routes eligible bash commands through rtk",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-06-11T04:11:28.437Z",
+    "npm_downloads_monthly": 73,
+    "npm_downloads_weekly": 10,
+    "npm_score_final": 13.4818125,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

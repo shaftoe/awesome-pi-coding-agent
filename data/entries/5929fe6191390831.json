@@ -8,7 +8,7 @@
     "github_url": "https://github.com/santychuy/pi-setup",
     "repo_full_name": "santychuy/pi-setup",
     "description": "Pi Agent Setup",
-    "stars": 4,
+    "stars": 5,
     "forks": 1,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-06T17:28:23Z",
     "pushed_at": "2026-05-19T06:30:08Z",
-    "updated_at": "2026-07-03T22:18:19Z",
+    "updated_at": "2026-08-18T09:32:09Z",
     "size": 665,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

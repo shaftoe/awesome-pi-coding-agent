@@ -9,20 +9,25 @@
     "npm_name": "pi-submarine",
     "description": "A no-nonsense Pi extension for focused foreground child-session delegation.",
     "keywords": [
-      "pi-package",
+      "agents",
+      "ai",
+      "cli",
+      "pi",
+      "pi-coding-agent",
       "pi-extension",
+      "pi-package",
       "subagent",
-      "pi"
+      "subagents"
     ],
-    "version": "0.1.2",
-    "published_at": "2026-06-25T23:20:37.526Z",
-    "npm_downloads_monthly": 70,
-    "npm_downloads_weekly": 16,
-    "npm_score_final": 13.09137,
+    "version": "0.1.4",
+    "published_at": "2026-08-18T07:07:11.548Z",
+    "npm_downloads_monthly": 68,
+    "npm_downloads_weekly": 14,
+    "npm_score_final": 15.997444,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "category": "extension"
 }

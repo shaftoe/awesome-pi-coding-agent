@@ -1,0 +1,25 @@
+{
+  "id": "OldJobobo-pi-skill-manager",
+  "name": "OldJobobo-pi-skill-manager",
+  "url": "https://github.com/OldJobobo/pi-skill-manager",
+  "source": "github-search",
+  "description": "Interactive skill context controls and presets for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/OldJobobo/pi-skill-manager",
+    "repo_full_name": "OldJobobo/pi-skill-manager",
+    "description": "Interactive skill context controls and presets for the Pi coding agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-18T04:41:08Z",
+    "pushed_at": "2026-08-18T05:15:20Z",
+    "updated_at": "2026-08-18T05:28:04Z",
+    "size": 484,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

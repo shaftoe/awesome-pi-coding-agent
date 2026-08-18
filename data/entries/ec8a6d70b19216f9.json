@@ -10,7 +10,7 @@
     "description": "Just my personal list of Extensions for the Pi coding agent",
     "stars": 2,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "pi-ecosystem",
       "pi-extensions"
@@ -18,11 +18,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-12T20:10:05Z",
-    "pushed_at": "2026-08-14T14:33:49Z",
-    "updated_at": "2026-08-16T08:23:03Z",
-    "size": 4487,
+    "pushed_at": "2026-08-18T19:43:17Z",
+    "updated_at": "2026-08-18T16:33:12Z",
+    "size": 4519,
     "license": null,
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "category": "extension"
 }

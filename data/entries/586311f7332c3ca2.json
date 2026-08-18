@@ -10,7 +10,7 @@
     "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every time.",
     "stars": 3,
     "forks": 0,
-    "open_issues": 34,
+    "open_issues": 35,
     "topics": [
       "ai-memory",
       "ai-memory-system",
@@ -28,9 +28,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-04T16:05:05Z",
-    "pushed_at": "2026-08-06T17:43:57Z",
+    "pushed_at": "2026-08-18T20:05:04Z",
     "updated_at": "2026-08-06T17:44:01Z",
-    "size": 9738,
+    "size": 10099,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

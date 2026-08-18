@@ -9,8 +9,8 @@
     "repo_full_name": "Mr-remon219/pi-search-boost",
     "description": "The plunge for pi to boost his search ability",
     "stars": 3,
-    "forks": 0,
-    "open_issues": 0,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "deep-research",
       "extension",
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-15T06:20:44Z",
-    "pushed_at": "2026-08-17T02:54:51Z",
-    "updated_at": "2026-08-17T02:54:58Z",
-    "size": 422,
+    "pushed_at": "2026-08-18T04:23:30Z",
+    "updated_at": "2026-08-18T04:23:51Z",
+    "size": 168,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

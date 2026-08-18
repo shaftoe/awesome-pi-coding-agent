@@ -8,7 +8,7 @@
     "github_url": "https://github.com/YoungJurry/pi-beautiful-tui",
     "repo_full_name": "YoungJurry/pi-beautiful-tui",
     "description": "A polished, multilingual and themeable TUI extension for the Pi coding agent",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-08-02T07:40:41Z",
     "pushed_at": "2026-08-02T12:25:37Z",
-    "updated_at": "2026-08-02T12:25:27Z",
+    "updated_at": "2026-08-18T02:27:42Z",
     "size": 52,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

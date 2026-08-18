@@ -1,0 +1,31 @@
+{
+  "id": "palmtom316-pi-models",
+  "name": "palmtom316-pi-models",
+  "url": "https://github.com/palmtom316/pi-models",
+  "source": "github-search",
+  "description": "Pi TUI overlay wizard: add a relay or self-hosted gateway as a provider, fetch /models, and write models.json",
+  "metadata": {
+    "github_url": "https://github.com/palmtom316/pi-models",
+    "repo_full_name": "palmtom316/pi-models",
+    "description": "Pi TUI overlay wizard: add a relay or self-hosted gateway as a provider, fetch /models, and write models.json",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "models",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "tui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-17T07:12:43Z",
+    "pushed_at": "2026-08-18T14:41:51Z",
+    "updated_at": "2026-08-18T14:56:01Z",
+    "size": 207,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

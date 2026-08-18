@@ -8,7 +8,7 @@
     "github_url": "https://github.com/czottmann/pi-whoami",
     "repo_full_name": "czottmann/pi-whoami",
     "description": "A `whoami` tool for pi, reporting the active provider, model, thinking level, and project dir of the current pi session.",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-08-16T13:11:57Z",
     "pushed_at": "2026-08-16T13:43:16Z",
-    "updated_at": "2026-08-17T04:29:57Z",
+    "updated_at": "2026-08-18T01:14:46Z",
     "size": 24,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

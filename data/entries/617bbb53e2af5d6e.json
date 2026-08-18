@@ -10,7 +10,7 @@
     "description": "Quote previous messages in Pi's editor",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "pi",
       "pi-agent",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-31T00:15:52Z",
-    "pushed_at": "2026-08-10T23:32:26Z",
+    "pushed_at": "2026-08-18T18:25:24Z",
     "updated_at": "2026-08-10T23:32:46Z",
-    "size": 98,
+    "size": 120,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

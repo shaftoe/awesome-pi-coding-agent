@@ -1,0 +1,29 @@
+{
+  "id": "@lisang233/pi-sync",
+  "name": "@lisang233/pi-sync",
+  "url": "https://www.npmjs.com/package/@lisang233/pi-sync",
+  "source": "npm-search",
+  "description": "Personal Pi extension that syncs Pi configuration through Git with background auto-sync and git-style fetch/merge conflict handling.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@lisang233/pi-sync",
+    "description": "Personal Pi extension that syncs Pi configuration through Git with background auto-sync and git-style fetch/merge conflict handling.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "sync",
+      "git"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-08-11T10:15:42.354Z",
+    "npm_downloads_monthly": 474,
+    "npm_downloads_weekly": 474,
+    "npm_score_final": 19.00231,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

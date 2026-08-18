@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-13T18:21:25Z",
-    "pushed_at": "2026-08-17T04:23:21Z",
+    "pushed_at": "2026-08-18T14:05:41Z",
     "updated_at": "2026-08-13T09:23:39Z",
-    "size": 17498,
+    "size": 20939,
     "license": "AGPL-3.0",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
