@@ -1,0 +1,29 @@
+{
+  "id": "pi-reverse-search",
+  "name": "pi-reverse-search",
+  "url": "https://www.npmjs.com/package/pi-reverse-search",
+  "source": "npm-search",
+  "description": "Ctrl+R reverse prompt search for Pi's TUI editor, inspired by shell reverse-i-search.",
+  "metadata": {
+    "github_url": "https://github.com/viggy28/pi-reverse-search",
+    "npm_name": "pi-reverse-search",
+    "description": "Ctrl+R reverse prompt search for Pi's TUI editor, inspired by shell reverse-i-search.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "reverse-search",
+      "ctrl-r",
+      "tui"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-11T00:28:01.757Z",
+    "npm_downloads_monthly": 279,
+    "npm_downloads_weekly": 279,
+    "npm_score_final": 17.134026,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

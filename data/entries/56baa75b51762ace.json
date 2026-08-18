@@ -10,7 +10,7 @@
     "description": "Manage Pi providers and models from a TUI with native models.json persistence, header profiles, proxy routing, and protocol compatibility.",
     "stars": 17,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "anthropic",
       "model-manager",

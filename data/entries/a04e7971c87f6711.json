@@ -3,27 +3,29 @@
   "name": "@agimon-ai/doompi-goal",
   "url": "https://www.npmjs.com/package/@agimon-ai/doompi-goal",
   "source": "npm-search",
-  "description": "Goal execution minor mode for DoomPi",
+  "description": "Pi minor mode for persistent agent goals, token budgets, and goal history.",
   "metadata": {
     "github_url": null,
     "npm_name": "@agimon-ai/doompi-goal",
-    "description": "Goal execution minor mode for DoomPi",
+    "description": "Pi minor mode for persistent agent goals, token budgets, and goal history.",
     "keywords": [
-      "ai",
+      "agent-goals",
       "coding-agent",
-      "developer-tools",
       "doompi",
-      "pi-package"
+      "goal-management",
+      "pi-coding-agent",
+      "pi-extension",
+      "token-budget"
     ],
-    "version": "0.0.1-alpha.11",
-    "published_at": "2026-08-17T14:04:21.408Z",
+    "version": "0.0.1-alpha.13",
+    "published_at": "2026-08-18T12:51:11.175Z",
     "npm_downloads_monthly": 201,
     "npm_downloads_weekly": 201,
-    "npm_score_final": 17.748758,
+    "npm_score_final": 21.544933,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "category": "misc"
 }

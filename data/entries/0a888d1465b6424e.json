@@ -8,7 +8,7 @@
     "github_url": "https://github.com/lilbitty007/pi-agent-tutorial",
     "repo_full_name": "lilbitty007/pi-agent-tutorial",
     "description": "",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-28T08:47:26Z",
     "pushed_at": "2026-05-28T08:47:47Z",
-    "updated_at": "2026-08-17T10:28:16Z",
+    "updated_at": "2026-08-18T08:49:22Z",
     "size": 18415,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

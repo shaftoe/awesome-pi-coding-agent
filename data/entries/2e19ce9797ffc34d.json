@@ -3,27 +3,29 @@
   "name": "@agimon-ai/doompi-team",
   "url": "https://www.npmjs.com/package/@agimon-ai/doompi-team",
   "source": "npm-search",
-  "description": "Async-only subagent team runtime for Pi: named agents, peer messaging, shared task board",
+  "description": "Asynchronous named subagents, team runs, intercom, and model policy for Pi coding agents.",
   "metadata": {
     "github_url": null,
     "npm_name": "@agimon-ai/doompi-team",
-    "description": "Async-only subagent team runtime for Pi: named agents, peer messaging, shared task board",
+    "description": "Asynchronous named subagents, team runs, intercom, and model policy for Pi coding agents.",
     "keywords": [
-      "ai",
+      "agent-team",
       "coding-agent",
-      "developer-tools",
       "doompi",
-      "pi-package"
+      "inter-agent-communication",
+      "multi-agent",
+      "pi-coding-agent",
+      "subagents"
     ],
-    "version": "0.0.1-alpha.21",
-    "published_at": "2026-08-17T14:04:08.243Z",
+    "version": "0.0.1-alpha.23",
+    "published_at": "2026-08-18T12:50:59.194Z",
     "npm_downloads_monthly": 1623,
     "npm_downloads_weekly": 1623,
-    "npm_score_final": 25.739653,
+    "npm_score_final": 31.244959,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "category": "extension"
 }

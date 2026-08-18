@@ -1,0 +1,31 @@
+{
+  "id": "@agimon-ai/doompi-help",
+  "name": "@agimon-ai/doompi-help",
+  "url": "https://www.npmjs.com/package/@agimon-ai/doompi-help",
+  "source": "npm-search",
+  "description": "Activation-gated package guidance and help skills for DoomPi and Pi extensions.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@agimon-ai/doompi-help",
+    "description": "Activation-gated package guidance and help skills for DoomPi and Pi extensions.",
+    "keywords": [
+      "agent-documentation",
+      "coding-agent",
+      "doompi",
+      "help-system",
+      "pi-coding-agent",
+      "pi-extension",
+      "skills"
+    ],
+    "version": "0.0.1-alpha.6",
+    "published_at": "2026-08-18T12:51:18.382Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

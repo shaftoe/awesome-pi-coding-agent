@@ -1,0 +1,25 @@
+{
+  "id": "sunshine-lang-pi-agent",
+  "name": "sunshine-lang-pi-agent",
+  "url": "https://github.com/sunshine-lang/pi-agent",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/sunshine-lang/pi-agent",
+    "repo_full_name": "sunshine-lang/pi-agent",
+    "description": "",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-27T08:51:01Z",
+    "pushed_at": "2026-05-28T08:22:40Z",
+    "updated_at": "2026-08-18T16:59:34Z",
+    "size": 955,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

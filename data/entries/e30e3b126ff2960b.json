@@ -8,9 +8,9 @@
     "github_url": "https://github.com/CaptCanadaMan/pi-ollama",
     "repo_full_name": "CaptCanadaMan/pi-ollama",
     "description": "Pi coding agent extension for native Ollama — fixes tool calling under streaming",
-    "stars": 4,
-    "forks": 3,
-    "open_issues": 0,
+    "stars": 5,
+    "forks": 4,
+    "open_issues": 1,
     "topics": [
       "extension",
       "llm-tools",
@@ -24,8 +24,8 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-01T16:45:01Z",
-    "pushed_at": "2026-08-17T16:38:28Z",
-    "updated_at": "2026-08-17T16:39:14Z",
+    "pushed_at": "2026-08-18T00:42:59Z",
+    "updated_at": "2026-08-18T09:26:44Z",
     "size": 188,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

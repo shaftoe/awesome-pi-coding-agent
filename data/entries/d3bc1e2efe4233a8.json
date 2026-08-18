@@ -8,7 +8,7 @@
     "github_url": "https://github.com/timvdhoorn/cc-my-pi",
     "repo_full_name": "timvdhoorn/cc-my-pi",
     "description": "Claude Code-style UI bundle for the Pi coding agent — tool rendering, spinner, statusline, themes, setup wizard",
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "open_issues": 3,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-20T18:09:50Z",
     "pushed_at": "2026-08-10T09:52:46Z",
-    "updated_at": "2026-08-10T09:53:41Z",
+    "updated_at": "2026-08-18T08:38:29Z",
     "size": 2941,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

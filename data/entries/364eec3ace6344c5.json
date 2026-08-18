@@ -8,7 +8,7 @@
     "github_url": "https://github.com/YoungJurry/pi-codex-agents",
     "repo_full_name": "YoungJurry/pi-codex-agents",
     "description": "Persistent in-process Codex-style multi-agent collaboration for Pi",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-08-15T03:45:55Z",
     "pushed_at": "2026-08-15T12:02:40Z",
-    "updated_at": "2026-08-15T12:03:03Z",
+    "updated_at": "2026-08-18T02:27:34Z",
     "size": 97,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

@@ -3,27 +3,29 @@
   "name": "@agimon-ai/doompi-mcp",
   "url": "https://www.npmjs.com/package/@agimon-ai/doompi-mcp",
   "source": "npm-search",
-  "description": "MCP server tools for Doompi",
+  "description": "Domain-aware MCP server selection and access boundaries for Pi sessions composed with DoomPi.",
   "metadata": {
     "github_url": null,
     "npm_name": "@agimon-ai/doompi-mcp",
-    "description": "MCP server tools for Doompi",
+    "description": "Domain-aware MCP server selection and access boundaries for Pi sessions composed with DoomPi.",
     "keywords": [
-      "ai",
       "coding-agent",
-      "developer-tools",
       "doompi",
-      "pi-package"
+      "mcp",
+      "model-context-protocol",
+      "pi-coding-agent",
+      "pi-extension",
+      "server-selection"
     ],
-    "version": "0.0.1-alpha.21",
-    "published_at": "2026-08-17T14:04:02.420Z",
+    "version": "0.0.1-alpha.23",
+    "published_at": "2026-08-18T12:50:54.232Z",
     "npm_downloads_monthly": 1136,
     "npm_downloads_weekly": 1136,
-    "npm_score_final": 22.552101,
+    "npm_score_final": 29.157742,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "category": "extension"
 }

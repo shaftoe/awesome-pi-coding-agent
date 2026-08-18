@@ -1,0 +1,39 @@
+{
+  "id": "pi-memsearch",
+  "name": "pi-memsearch",
+  "url": "https://www.npmjs.com/package/pi-memsearch",
+  "source": "npm-search",
+  "description": "Long-term memory for pi — semantic recall over a memsearch store shared with Claude Code, Codex and OpenCode",
+  "metadata": {
+    "github_url": "https://github.com/sripwoud/pi-memsearch",
+    "npm_name": "pi-memsearch",
+    "description": "Long-term memory for pi — semantic recall over a memsearch store shared with Claude Code, Codex and OpenCode",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "memory",
+      "long-term-memory",
+      "semantic-search",
+      "vector-search",
+      "recall",
+      "memsearch",
+      "milvus",
+      "rag",
+      "claude-code",
+      "codex",
+      "opencode"
+    ],
+    "version": "1.2.0",
+    "published_at": "2026-08-18T21:49:28.870Z",
+    "npm_downloads_monthly": 181,
+    "npm_downloads_weekly": 181,
+    "npm_score_final": 16.613396,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

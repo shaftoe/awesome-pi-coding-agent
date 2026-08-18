@@ -9,7 +9,7 @@
     "repo_full_name": "code-yeongyu/pi-rules",
     "description": "Rule context loader extension for the pi coding agent",
     "stars": 9,
-    "forks": 3,
+    "forks": 4,
     "open_issues": 6,
     "topics": [
       "agent-rules",

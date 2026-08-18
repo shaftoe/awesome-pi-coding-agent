@@ -1,0 +1,30 @@
+{
+  "id": "real-wudaoshi-pi-ustc-provider",
+  "name": "real-wudaoshi-pi-ustc-provider",
+  "url": "https://github.com/real-wudaoshi/pi-ustc-provider",
+  "source": "github-search",
+  "description": "USTC provider plugin for pi agent.",
+  "metadata": {
+    "github_url": "https://github.com/real-wudaoshi/pi-ustc-provider",
+    "repo_full_name": "real-wudaoshi/pi-ustc-provider",
+    "description": "USTC provider plugin for pi agent.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "litellm",
+      "pi-extension",
+      "pi-package",
+      "ustc"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-18T07:57:19Z",
+    "pushed_at": "2026-08-18T08:02:17Z",
+    "updated_at": "2026-08-18T08:04:00Z",
+    "size": 6,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

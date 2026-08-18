@@ -8,7 +8,7 @@
     "github_url": "https://github.com/shuuul/obsidian-pivi",
     "repo_full_name": "shuuul/obsidian-pivi",
     "description": "Pi as the Vault Intelligence: it embeds the Pi agent directly inside your Obsidian vault",
-    "stars": 13,
+    "stars": 15,
     "forks": 3,
     "open_issues": 0,
     "topics": [
@@ -18,9 +18,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-23T13:48:13Z",
-    "pushed_at": "2026-08-15T09:00:42Z",
-    "updated_at": "2026-08-16T07:13:18Z",
-    "size": 11720,
+    "pushed_at": "2026-08-18T13:58:30Z",
+    "updated_at": "2026-08-18T14:05:14Z",
+    "size": 11773,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

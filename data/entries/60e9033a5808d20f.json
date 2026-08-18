@@ -1,0 +1,30 @@
+{
+  "id": "clawdbot58-pixel-t3code-pi",
+  "name": "clawdbot58-pixel-t3code-pi",
+  "url": "https://github.com/clawdbot58-pixel/t3code-pi",
+  "source": "github-search",
+  "description": "Community fork of T3 Code with a first-class provider driver for the pi coding agent (pi --mode rpc).",
+  "metadata": {
+    "github_url": "https://github.com/clawdbot58-pixel/t3code-pi",
+    "repo_full_name": "clawdbot58-pixel/t3code-pi",
+    "description": "Community fork of T3 Code with a first-class provider driver for the pi coding agent (pi --mode rpc).",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-harness",
+      "fork",
+      "pi-coding-agent",
+      "t3-code"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-18T09:56:15Z",
+    "pushed_at": "2026-08-18T09:56:24Z",
+    "updated_at": "2026-08-18T10:06:03Z",
+    "size": 74024,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}
