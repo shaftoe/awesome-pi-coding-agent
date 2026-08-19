@@ -1,0 +1,31 @@
+{
+  "id": "@jnardiello/pi-smart-plan",
+  "name": "@jnardiello/pi-smart-plan",
+  "url": "https://www.npmjs.com/package/@jnardiello/pi-smart-plan",
+  "source": "npm-search",
+  "description": "Plan mode for pi: file edits are blocked while planning; plans and journals live in an extension-owned store outside the repo",
+  "metadata": {
+    "github_url": "https://github.com/jnardiello/pi-smart-plan",
+    "npm_name": "@jnardiello/pi-smart-plan",
+    "description": "Plan mode for pi: file edits are blocked while planning; plans and journals live in an extension-owned store outside the repo",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "plan",
+      "plan-mode",
+      "planner"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-19T13:17:42.692Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

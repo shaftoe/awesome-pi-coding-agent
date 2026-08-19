@@ -1,0 +1,25 @@
+{
+  "id": "stormgraser-ux-redcode",
+  "name": "stormgraser-ux-redcode",
+  "url": "https://github.com/stormgraser-ux/redcode",
+  "source": "github-search",
+  "description": "The crimson profile for the pi coding agent: theme, extensions, and /connect for private OpenAI-compatible model servers",
+  "metadata": {
+    "github_url": "https://github.com/stormgraser-ux/redcode",
+    "repo_full_name": "stormgraser-ux/redcode",
+    "description": "The crimson profile for the pi coding agent: theme, extensions, and /connect for private OpenAI-compatible model servers",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-19T02:09:49Z",
+    "pushed_at": "2026-08-19T02:57:17Z",
+    "updated_at": "2026-08-19T02:57:40Z",
+    "size": 116,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

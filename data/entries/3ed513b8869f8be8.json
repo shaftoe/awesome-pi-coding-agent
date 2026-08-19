@@ -9,7 +9,7 @@
     "repo_full_name": "kirang89/pi-todo",
     "description": "A pi coding agent extension that adds a persistent todo widget and tool for tracking multi-step task progress",
     "stars": 2,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

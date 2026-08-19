@@ -1,0 +1,35 @@
+{
+  "id": "pi-tool-ports",
+  "name": "pi-tool-ports",
+  "url": "https://www.npmjs.com/package/pi-tool-ports",
+  "source": "npm-search",
+  "description": "Combine tool extensions as pluggable adapters in Pi",
+  "metadata": {
+    "github_url": "https://github.com/AlexParamonov/pi-tool-ports",
+    "npm_name": "pi-tool-ports",
+    "description": "Combine tool extensions as pluggable adapters in Pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-agent",
+      "pi-coding-agent",
+      "pi-extension",
+      "tools",
+      "edit",
+      "write",
+      "syntax-validation",
+      "adapters",
+      "linter"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-19T15:47:43.649Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_osrepos.com_earendil-works-pi",
+  "name": "Pi Agent Harness: An AI Agent Toolkit for LLMs and Coding - OSRepos",
+  "url": "https://osrepos.com/repo/earendil-works-pi",
+  "source": "brave-web-search",
+  "description": "Pi Agent Harness is a comprehensive AI agent toolkit designed for building and deploying intelligent agents. It features a unified API for various Large Language Models, a robust agent runtime with tool calling, and an interactive coding agent CLI. This project provides a modular and extensible ...",
+  "metadata": {
+    "title": "Pi Agent Harness: An AI Agent Toolkit for LLMs and Coding - OSRepos",
+    "name": "Pi Agent Harness: An AI Agent Toolkit for LLMs and Coding - OSRepos",
+    "description": "Pi Agent Harness is a comprehensive AI agent toolkit designed for building and deploying intelligent agents. It features a unified API for various Large Language Models, a robust agent runtime with tool calling, and an interactive coding agent CLI. This project provides a modular and extensible ...",
+    "published_at": "2026-08-10T16:11:22",
+    "source_site": "OSRepos",
+    "source_url": "https://osrepos.com/repo/earendil-works-pi",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "skuramatata-my-pi-agent",
+  "name": "skuramatata-my-pi-agent",
+  "url": "https://github.com/skuramatata/my-pi-agent",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/skuramatata/my-pi-agent",
+    "repo_full_name": "skuramatata/my-pi-agent",
+    "description": "",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-08T10:57:30Z",
+    "pushed_at": "2026-07-10T06:34:22Z",
+    "updated_at": "2026-08-19T22:33:30Z",
+    "size": 6313,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

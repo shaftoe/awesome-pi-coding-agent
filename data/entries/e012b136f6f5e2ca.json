@@ -1,0 +1,31 @@
+{
+  "id": "drawde-nadroj-pi-subagent-supervisor",
+  "name": "drawde-nadroj-pi-subagent-supervisor",
+  "url": "https://github.com/drawde-nadroj/pi-subagent-supervisor",
+  "source": "github-search",
+  "description": "Supervise isolated, configurable subagents for Pi",
+  "metadata": {
+    "github_url": "https://github.com/drawde-nadroj/pi-subagent-supervisor",
+    "repo_full_name": "drawde-nadroj/pi-subagent-supervisor",
+    "description": "Supervise isolated, configurable subagents for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "pi-coding-agent",
+      "pi-package",
+      "subagents",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-19T22:17:02Z",
+    "pushed_at": "2026-08-19T22:42:22Z",
+    "updated_at": "2026-08-19T22:43:41Z",
+    "size": 188,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}
