@@ -10,7 +10,7 @@
     "description": "Source-backed semantic and exact-text recall for Pi session history.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 3,
     "topics": [
       "ai-agents",
       "conversation-memory",

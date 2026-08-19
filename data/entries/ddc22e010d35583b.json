@@ -6,7 +6,7 @@
   "description": "A Pi extension that sends a native OS notification when a long-running task completes",
   "metadata": {
     "github_url": "https://github.com/yuru7/my-pi-extensions",
-    "npm_name": "pi-native-notify",
+    "npm_name": "@yuru7/pi-native-notify",
     "description": "A Pi extension that sends a native OS notification when a long-running task completes",
     "keywords": [
       "pi-package",
@@ -14,8 +14,8 @@
       "pi-extension",
       "notifications"
     ],
-    "version": "0.3.1",
-    "published_at": "2026-08-18T14:44:38.265Z",
+    "version": "0.3.2",
+    "published_at": "2026-08-19T13:51:03.313Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

@@ -6,7 +6,7 @@
   "description": "Goal mode extension for pi: durable long-running objectives, five model tools, structured tasks, independent completion audit, Sisyphus mode, auto-continue, and a status overlay.",
   "metadata": {
     "github_url": "https://github.com/tmonk/pi-goal-x",
-    "npm_name": "pi-goal-x",
+    "npm_name": "@xzzpig/pi-goal-x",
     "description": "Goal mode extension for pi: durable long-running objectives, five model tools, structured tasks, independent completion audit, Sisyphus mode, auto-continue, and a status overlay.",
     "keywords": [
       "pi-package",
@@ -18,11 +18,11 @@
       "agent-loop",
       "long-running"
     ],
-    "version": "0.27.4",
-    "published_at": "2026-08-11T09:44:35.954Z",
-    "npm_downloads_monthly": 5413,
-    "npm_downloads_weekly": 2076,
-    "npm_score_final": 28.814964,
+    "version": "0.2.0",
+    "published_at": "2026-08-19T18:46:12.570Z",
+    "npm_downloads_monthly": 351,
+    "npm_downloads_weekly": 351,
+    "npm_score_final": 18.882137,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

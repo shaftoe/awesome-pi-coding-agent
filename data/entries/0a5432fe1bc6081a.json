@@ -1,0 +1,28 @@
+{
+  "id": "@gwokfun/my-pi-extensions",
+  "name": "@gwokfun/my-pi-extensions",
+  "url": "https://www.npmjs.com/package/@gwokfun/my-pi-extensions",
+  "source": "npm-search",
+  "description": "Personal pi extensions, skills, prompts, and themes",
+  "metadata": {
+    "github_url": "https://github.com/gwokfun/my-pi-extensions",
+    "npm_name": "@gwokfun/my-pi-extensions",
+    "description": "Personal pi extensions, skills, prompts, and themes",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extensions",
+      "coding-agent"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-12T02:08:25.597Z",
+    "npm_downloads_monthly": 235,
+    "npm_downloads_weekly": 235,
+    "npm_score_final": 17.492628,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

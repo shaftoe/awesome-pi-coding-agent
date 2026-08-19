@@ -1,0 +1,29 @@
+{
+  "id": "pi-agent-wait",
+  "name": "pi-agent-wait",
+  "url": "https://www.npmjs.com/package/pi-agent-wait",
+  "source": "npm-search",
+  "description": "Interruptible, token-idle wait/yield primitives for Pi agents with aggregated host UI, batched wake coordination, event-driven background-task watches, and pi-subagents integration.",
+  "metadata": {
+    "github_url": "https://github.com/AledHe/pi-agent-wait",
+    "npm_name": "pi-agent-wait",
+    "description": "Interruptible, token-idle wait/yield primitives for Pi agents with aggregated host UI, batched wake coordination, event-driven background-task watches, and pi-subagents integration.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "agent",
+      "background-tasks",
+      "subagents"
+    ],
+    "version": "0.6.0",
+    "published_at": "2026-08-12T14:56:18.395Z",
+    "npm_downloads_monthly": 123,
+    "npm_downloads_weekly": 123,
+    "npm_score_final": 15.331338,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

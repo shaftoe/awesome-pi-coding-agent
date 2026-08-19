@@ -9,8 +9,8 @@
     "repo_full_name": "Owen718/snapgrep",
     "description": "An in-process trigram index that makes code search in Pi&DSH 20-70x faster than ripgrep, with identical results and no sidecar process.",
     "stars": 8,
-    "forks": 0,
-    "open_issues": 1,
+    "forks": 1,
+    "open_issues": 3,
     "topics": [
       "ai-coding-agent",
       "code-search",

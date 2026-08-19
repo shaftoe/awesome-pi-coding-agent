@@ -1,0 +1,30 @@
+{
+  "id": "drgnchan-pi-notify",
+  "name": "drgnchan-pi-notify",
+  "url": "https://github.com/drgnchan/pi-notify",
+  "source": "github-search",
+  "description": "Smart mobile and desktop notifications for Pi, with Telegram support.",
+  "metadata": {
+    "github_url": "https://github.com/drgnchan/pi-notify",
+    "repo_full_name": "drgnchan/pi-notify",
+    "description": "Smart mobile and desktop notifications for Pi, with Telegram support.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "notifications",
+      "pi-extension",
+      "pi-package",
+      "telegram"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-19T16:47:33Z",
+    "pushed_at": "2026-08-19T16:49:30Z",
+    "updated_at": "2026-08-19T16:51:18Z",
+    "size": 10,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "@jamiefutch/pi-hermes-memory-cleanup",
+  "name": "@jamiefutch/pi-hermes-memory-cleanup",
+  "url": "https://www.npmjs.com/package/@jamiefutch/pi-hermes-memory-cleanup",
+  "source": "npm-search",
+  "description": "Pi package: utility for cleaning up and optimizing Hermes persistent memory storage used by the Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/jamiefutch/pi-hermes-memory-cleanup",
+    "npm_name": "@jamiefutch/pi-hermes-memory-cleanup",
+    "description": "Pi package: utility for cleaning up and optimizing Hermes persistent memory storage used by the Pi coding agent.",
+    "keywords": [
+      "pi",
+      "pi-package"
+    ],
+    "version": "0.1.6",
+    "published_at": "2026-08-19T02:24:18.152Z",
+    "npm_downloads_monthly": 842,
+    "npm_downloads_weekly": 842,
+    "npm_score_final": 22.063705,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pi-trajectory",
+  "name": "pi-trajectory",
+  "url": "https://www.npmjs.com/package/pi-trajectory",
+  "source": "npm-search",
+  "description": "Trajectory For All — a browser-based inspection surface for pi coding agent sessions.",
+  "metadata": {
+    "github_url": "https://github.com/ktappdev/pi-Trajectory",
+    "npm_name": "pi-trajectory",
+    "description": "Trajectory For All — a browser-based inspection surface for pi coding agent sessions.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-08-19T16:28:27.781Z",
+    "npm_downloads_monthly": 272,
+    "npm_downloads_weekly": 272,
+    "npm_score_final": 17.153658,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

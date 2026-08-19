@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-opencode-theme",
+  "name": "pi-opencode-theme · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-opencode-theme",
+  "source": "brave-web-search",
+  "description": "Pi packages can execute code and influence agent behavior. Review the source before installing third-party packages. An opencode-inspired theme for pi.",
+  "metadata": {
+    "title": "pi-opencode-theme · Packages · Pi",
+    "name": "pi-opencode-theme · Packages · Pi",
+    "description": "Pi packages can execute code and influence agent behavior. Review the source before installing third-party packages. An opencode-inspired theme for pi.",
+    "published_at": "2026-05-06T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-opencode-theme",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "category": "article"
+}

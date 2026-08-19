@@ -1,0 +1,20 @@
+{
+  "id": "YT_dlo1_IIvjXo",
+  "name": "How PI Agent Evolved: SQLite Sessions, CBOR Wire Protocol & Harness v3",
+  "url": "https://youtube.com/watch?v=dlo1_IIvjXo",
+  "source": "youtube-search",
+  "description": "In this architectural deep dive into PI Agent (Part 2), we break down the major systems evolution over the past 10 weeks: replacing ...",
+  "metadata": {
+    "title": "How PI Agent Evolved: SQLite Sessions, CBOR Wire Protocol & Harness v3",
+    "name": "How PI Agent Evolved: SQLite Sessions, CBOR Wire Protocol & Harness v3",
+    "description": "In this architectural deep dive into PI Agent (Part 2), we break down the major systems evolution over the past 10 weeks: replacing ...",
+    "channel": "AgenticEngineering",
+    "published_at": "2026-08-19T17:00:17Z",
+    "thumbnail": "https://i.ytimg.com/vi/dlo1_IIvjXo/hqdefault.jpg",
+    "views": 10,
+    "likes": 3,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "category": "video"
+}

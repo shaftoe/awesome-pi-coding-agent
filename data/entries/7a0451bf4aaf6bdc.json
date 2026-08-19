@@ -1,0 +1,25 @@
+{
+  "id": "zhaob1n-pi-mcp",
+  "name": "zhaob1n-pi-mcp",
+  "url": "https://github.com/zhaob1n/pi-mcp",
+  "source": "github-search",
+  "description": "MCP server exposing pi coding-agent tools",
+  "metadata": {
+    "github_url": "https://github.com/zhaob1n/pi-mcp",
+    "repo_full_name": "zhaob1n/pi-mcp",
+    "description": "MCP server exposing pi coding-agent tools",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-19T01:19:59Z",
+    "pushed_at": "2026-08-19T03:50:07Z",
+    "updated_at": "2026-08-19T05:12:09Z",
+    "size": 66,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

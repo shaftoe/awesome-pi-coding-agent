@@ -1,0 +1,25 @@
+{
+  "id": "JC1DA-pi-cockpit",
+  "name": "JC1DA-pi-cockpit",
+  "url": "https://github.com/JC1DA/pi-cockpit",
+  "source": "github-search",
+  "description": "Stream your pi coding session to a password-protected web page: watch the agent work live from your LAN and steer it with messages and a stop button.",
+  "metadata": {
+    "github_url": "https://github.com/JC1DA/pi-cockpit",
+    "repo_full_name": "JC1DA/pi-cockpit",
+    "description": "Stream your pi coding session to a password-protected web page: watch the agent work live from your LAN and steer it with messages and a stop button.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-17T07:51:12Z",
+    "pushed_at": "2026-08-19T05:51:46Z",
+    "updated_at": "2026-08-19T15:21:12Z",
+    "size": 642,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}
