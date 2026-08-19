@@ -22,11 +22,11 @@ A **four-stage data pipeline** runs [daily on CI](.github/workflows/pipeline.yml
 
 ## Contents
 
-- [Extensions](#extensions) — 7360
+- [Extensions](#extensions) — 7361
 - [Themes](#themes) — 42
 - [Videos & Tutorials](#videos--tutorials) — 186
 - [Articles](#articles) — 114
-- [Miscellaneous](#miscellaneous) — 908
+- [Miscellaneous](#miscellaneous) — 907
 
 ## Extensions
 
@@ -5685,6 +5685,7 @@ A **four-stage data pipeline** runs [daily on CI](.github/workflows/pipeline.yml
 | [md-riaz-omniroute-agent-extension](https://github.com/md-riaz/omniroute-agent-extension) | A seamless Pi Coding Agent extension that brings OmniRoute — the ultimate AI gateway — directly into your editor environment. | ⭐15 | 3mo ago |
 | [TheArchitectit-pi-mega-compact](https://github.com/TheArchitectit/pi-mega-compact) | Layered, local, vector-backed context compressor for the pi coding agent (extension, no remote server). | ⭐15 | 4d ago |
 | [tintinweb-vscode-pi-model-chat-provider](https://github.com/tintinweb/vscode-pi-model-chat-provider) | VSCode Language Model Chat Provider integration for Pi coding agent, making Pi models available in VS Code's model picker for use with GitHub Copilot Chat and any extension that consumes the vscode.lm | ⭐15 | 26d ago |
+| [zgs225-pi2.nvim](https://github.com/zgs225/pi2.nvim) | Use the pi coding agent (pi.dev) without leaving Neovim — π², a heavily extended fork of alex35mil/pi.nvim | ⭐15 | 4d ago |
 | [gnassro-phi](https://github.com/gnassro/phi) | Phi brings the Pi AI coding agent into VS Code as a native extension. Chat with an AI agent that can read, write, and edit your code | ⭐14 | 12d ago |
 | [k3-2o-pi-chrollo](https://github.com/k3-2o/pi-chrollo) | Agentic memory for Pi — verbatim session capture + grep retrieval | ⭐14 | 2d ago |
 | [kartikkabadi-pi-adviser](https://github.com/kartikkabadi/pi-adviser) | Lean second-opinion reviewer for the pi coding agent. Watches tool activity, asks the main agent sharp questions. One small model call per turn. | ⭐14 | 7d ago |
@@ -8126,7 +8127,6 @@ A **four-stage data pipeline** runs [daily on CI](.github/workflows/pipeline.yml
 | [MaddieMo1-Pi-Agent-Web](https://github.com/MaddieMo1/Pi-Agent-Web) |  | ⭐17 | ~1mo ago |
 | [tensorfish-pi-telegram](https://github.com/tensorfish/pi-telegram) | Connect Pi Agent Harness to Telegram | ⭐17 | 5mo ago |
 | [shuuul-obsidian-pivi](https://github.com/shuuul/obsidian-pivi) | Pi as the Vault Intelligence: it embeds the Pi agent directly inside your Obsidian vault | ⭐15 | today |
-| [zgs225-pi2.nvim](https://github.com/zgs225/pi2.nvim) | Use the pi coding agent (pi.dev) without leaving Neovim — π², a heavily extended fork of alex35mil/pi.nvim | ⭐15 | 4d ago |
 | [mlanza-nt](https://github.com/mlanza/nt) | Conjure home-grown, auto-expanding context from Logseq into agent conversations. | ⭐14 | ~1mo ago |
 | [sssstwee-switch-plus-plus](https://github.com/sssstwee/switch-plus-plus) | Agent Switch: Claude Code, Claude Desktop, Codex CLI, Codex Desktop, Hermes, OpenCode, OpenClaw and AI agent config switcher, model router, and local OpenAI/Anthropic gateway | ⭐14 | 5d ago |
 | [lukasl-dev-pi-mono.nix](https://github.com/lukasl-dev/pi-mono.nix) | Nix flake for pi, a terminal coding agent. | ⭐13 | 4mo ago |
