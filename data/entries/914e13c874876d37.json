@@ -37,5 +37,5 @@
     "license": "MIT",
     "discovery_hint": "github:add-url"
   },
-  "category": "misc"
+  "category": "extension"
 }
