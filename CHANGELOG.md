@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.7.1] - 2026-08-19
+
+### Fixed
+
+- **list**: move pi2.nvim entry from misc to extensions category (#258)
+
 ## [2.7.0] - 2026-08-17
 
 ### Added
@@ -287,6 +293,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove skills category
 - replace @types/bun with pinned bun-types to fix typecheck (#6)
 
+[2.7.1]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.7.0...v2.7.1
 [2.7.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.6.0...v2.7.0
 [2.6.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.5.7...v2.6.0
 [2.5.7]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.5.6...v2.5.7
