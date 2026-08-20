@@ -1,0 +1,30 @@
+{
+  "id": "v587d-pi-ocgo-usage",
+  "name": "v587d-pi-ocgo-usage",
+  "url": "https://github.com/v587d/pi-ocgo-usage",
+  "source": "github-search",
+  "description": "A Pi coding agent extension that displays OpenCode Go subscription usage in the footer when using an opencode-go/* model.",
+  "metadata": {
+    "github_url": "https://github.com/v587d/pi-ocgo-usage",
+    "repo_full_name": "v587d/pi-ocgo-usage",
+    "description": "A Pi coding agent extension that displays OpenCode Go subscription usage in the footer when using an opencode-go/* model.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "easy-config",
+      "opencode-go-usage",
+      "pi-extension",
+      "quota-monitor"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-10T01:27:27Z",
+    "pushed_at": "2026-08-20T19:00:11Z",
+    "updated_at": "2026-08-20T19:03:06Z",
+    "size": 248,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

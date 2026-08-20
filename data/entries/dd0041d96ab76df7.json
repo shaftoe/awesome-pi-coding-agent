@@ -1,0 +1,31 @@
+{
+  "id": "@haichiuuu/pi-ask-user-question-lite",
+  "name": "@haichiuuu/pi-ask-user-question-lite",
+  "url": "https://www.npmjs.com/package/@haichiuuu/pi-ask-user-question-lite",
+  "source": "npm-search",
+  "description": "A minimal, timeout-free AskUserQuestion tool for Pi with TUI, RPC, and headless support.",
+  "metadata": {
+    "github_url": "https://github.com/haichiu/pi-ask-user-question-lite",
+    "npm_name": "@haichiuuu/pi-ask-user-question-lite",
+    "description": "A minimal, timeout-free AskUserQuestion tool for Pi with TUI, RPC, and headless support.",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "pi-extension",
+      "ask-user-question",
+      "human-in-the-loop",
+      "tui",
+      "rpc"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-20T18:50:59.331Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

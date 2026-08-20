@@ -8,7 +8,7 @@
     "github_url": "https://github.com/samfoy/pi-dashboard",
     "repo_full_name": "samfoy/pi-dashboard",
     "description": "Web dashboard for the pi coding agent — multi-session chat, file browser, doc collaboration, terminal, and more",
-    "stars": 49,
+    "stars": 48,
     "forks": 8,
     "open_issues": 0,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-04-14T23:33:54Z",
     "pushed_at": "2026-07-22T21:56:50Z",
-    "updated_at": "2026-08-17T06:19:15Z",
+    "updated_at": "2026-08-20T14:25:38Z",
     "size": 9208,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

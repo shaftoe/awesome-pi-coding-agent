@@ -1,0 +1,30 @@
+{
+  "id": "braintrustdata-braintrust-pi-extension",
+  "name": "braintrustdata-braintrust-pi-extension",
+  "url": "https://github.com/braintrustdata/braintrust-pi-extension",
+  "source": "github-search",
+  "description": "The braintrust pi extension now lives in a new monorepo: https://github.com/braintrustdata/braintrust-coding-agent-plugins",
+  "metadata": {
+    "github_url": "https://github.com/braintrustdata/braintrust-pi-extension",
+    "repo_full_name": "braintrustdata/braintrust-pi-extension",
+    "description": "The braintrust pi extension now lives in a new monorepo: https://github.com/braintrustdata/braintrust-coding-agent-plugins",
+    "stars": 8,
+    "forks": 1,
+    "open_issues": 5,
+    "topics": [
+      "ai",
+      "braintrust",
+      "pi",
+      "tracing"
+    ],
+    "language": "TypeScript",
+    "archived": true,
+    "created_at": "2026-03-30T19:10:30Z",
+    "pushed_at": "2026-08-20T15:40:40Z",
+    "updated_at": "2026-08-20T15:56:41Z",
+    "size": 1716,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

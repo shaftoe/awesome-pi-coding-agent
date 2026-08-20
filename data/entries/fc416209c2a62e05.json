@@ -10,22 +10,26 @@
     "description": "Typed configuration loading, validation, and host adapters for composing DoomPi sessions.",
     "keywords": [
       "agent-configuration",
+      "ai",
+      "coding-agent",
       "configuration",
       "dependency-injection",
+      "developer-tools",
       "doompi",
       "pi-coding-agent",
+      "pi-package",
       "typescript",
       "yaml"
     ],
-    "version": "0.0.1-alpha.23",
-    "published_at": "2026-08-18T12:50:50.089Z",
-    "npm_downloads_monthly": 1823,
-    "npm_downloads_weekly": 1823,
-    "npm_score_final": 31.4798,
+    "version": "0.0.1-alpha.25",
+    "published_at": "2026-08-20T22:04:14.652Z",
+    "npm_downloads_monthly": 4047,
+    "npm_downloads_weekly": 3537,
+    "npm_score_final": 27.47737,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

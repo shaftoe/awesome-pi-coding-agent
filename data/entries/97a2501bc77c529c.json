@@ -1,0 +1,31 @@
+{
+  "id": "leon-zym-pi-agent-web",
+  "name": "leon-zym-pi-agent-web",
+  "url": "https://github.com/leon-zym/pi-agent-web",
+  "source": "github-search",
+  "description": "A local web workbench for Pi Coding Agent's RPC mode.",
+  "metadata": {
+    "github_url": "https://github.com/leon-zym/pi-agent-web",
+    "repo_full_name": "leon-zym/pi-agent-web",
+    "description": "A local web workbench for Pi Coding Agent's RPC mode.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 13,
+    "topics": [
+      "pi-coding-agent",
+      "pi-package",
+      "react",
+      "rpc",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-20T01:19:31Z",
+    "pushed_at": "2026-08-20T22:07:38Z",
+    "updated_at": "2026-08-20T01:25:59Z",
+    "size": 4505,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

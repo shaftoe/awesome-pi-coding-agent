@@ -10,22 +10,25 @@
     "description": "Activation-gated package guidance and help skills for DoomPi and Pi extensions.",
     "keywords": [
       "agent-documentation",
+      "ai",
       "coding-agent",
+      "developer-tools",
       "doompi",
       "help-system",
       "pi-coding-agent",
       "pi-extension",
+      "pi-package",
       "skills"
     ],
-    "version": "0.0.1-alpha.6",
-    "published_at": "2026-08-18T12:51:18.382Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.0.1-alpha.8",
+    "published_at": "2026-08-20T22:04:49.128Z",
+    "npm_downloads_monthly": 1153,
+    "npm_downloads_weekly": 1153,
+    "npm_score_final": 22.854855,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

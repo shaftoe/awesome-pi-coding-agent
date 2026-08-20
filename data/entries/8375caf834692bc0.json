@@ -10,7 +10,7 @@
     "description": "Package with custom extensions, skills, prompt and agents",
     "stars": 0,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "extensions",
       "pi",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-17T14:09:31Z",
-    "pushed_at": "2026-08-19T22:45:58Z",
+    "pushed_at": "2026-08-20T14:42:53Z",
     "updated_at": "2026-08-19T22:46:39Z",
-    "size": 1282,
+    "size": 1350,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
