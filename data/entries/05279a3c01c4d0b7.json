@@ -1,0 +1,34 @@
+{
+  "id": "@agimon-ai/doompi-major-mode",
+  "name": "@agimon-ai/doompi-major-mode",
+  "url": "https://www.npmjs.com/package/@agimon-ai/doompi-major-mode",
+  "source": "npm-search",
+  "description": "Named major-mode selection and layer composition switching for DoomPi sessions.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@agimon-ai/doompi-major-mode",
+    "description": "Named major-mode selection and layer composition switching for DoomPi sessions.",
+    "keywords": [
+      "ai",
+      "coding-agent",
+      "developer-tools",
+      "doompi",
+      "layer-composition",
+      "major-mode",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "session-reload"
+    ],
+    "version": "0.0.1-alpha.3",
+    "published_at": "2026-08-20T22:04:46.183Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "misc"
+}

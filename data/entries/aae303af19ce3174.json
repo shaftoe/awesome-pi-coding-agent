@@ -8,7 +8,7 @@
     "github_url": "https://github.com/woolcoxm/zero-mem-pi",
     "repo_full_name": "woolcoxm/zero-mem-pi",
     "description": "Zero-Mem: Zero-Token Memory Operations for the pi coding agent (faithful reimplementation of arXiv:2607.29377)",
-    "stars": 34,
+    "stars": 35,
     "forks": 2,
     "open_issues": 0,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-08-13T15:51:22Z",
     "pushed_at": "2026-08-14T16:11:03Z",
-    "updated_at": "2026-08-18T08:06:52Z",
+    "updated_at": "2026-08-20T00:55:02Z",
     "size": 548,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

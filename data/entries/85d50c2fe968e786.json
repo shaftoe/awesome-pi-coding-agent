@@ -1,0 +1,27 @@
+{
+  "id": "pi-focus-aware-blinking-cursor",
+  "name": "pi-focus-aware-blinking-cursor",
+  "url": "https://www.npmjs.com/package/pi-focus-aware-blinking-cursor",
+  "source": "npm-search",
+  "description": "Blinking cursor when focused; border dims when the terminal loses focus (pi TUI)",
+  "metadata": {
+    "github_url": "https://github.com/tangentyh/pi-collections",
+    "npm_name": "pi-focus-aware-blinking-cursor",
+    "description": "Blinking cursor when focused; border dims when the terminal loses focus (pi TUI)",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "tui"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-20T17:00:19.866Z",
+    "npm_downloads_monthly": 127,
+    "npm_downloads_weekly": 127,
+    "npm_score_final": 15.234788,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

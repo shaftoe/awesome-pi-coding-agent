@@ -10,7 +10,7 @@
     "description": "macOS orchestrator for Pi and Claude Code. Every stream of work gets its own git worktree, and an agent can drive the app itself — spawn sub-agents, delegate, integrate.",
     "stars": 5,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "ai-agents",
       "claude-code",
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-04T12:34:52Z",
-    "pushed_at": "2026-08-19T20:40:31Z",
-    "updated_at": "2026-08-19T20:38:32Z",
-    "size": 23493,
+    "pushed_at": "2026-08-20T19:14:34Z",
+    "updated_at": "2026-08-20T19:19:55Z",
+    "size": 13492,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

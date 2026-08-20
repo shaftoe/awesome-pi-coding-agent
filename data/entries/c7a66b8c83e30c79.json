@@ -8,7 +8,7 @@
     "github_url": "https://github.com/iqbalabiyoga/pi-vscode-chat",
     "repo_full_name": "iqbalabiyoga/pi-vscode-chat",
     "description": "Pi Chat — Copilot-like chat sidebar for VS Code, powered by your local pi coding agent",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-01T23:08:45Z",
     "pushed_at": "2026-08-03T15:43:43Z",
-    "updated_at": "2026-08-17T17:28:37Z",
+    "updated_at": "2026-08-20T22:59:02Z",
     "size": 777,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

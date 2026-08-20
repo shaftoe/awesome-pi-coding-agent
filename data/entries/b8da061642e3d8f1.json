@@ -21,7 +21,7 @@
     "created_at": "2026-08-09T16:51:01Z",
     "pushed_at": "2026-08-19T23:15:04Z",
     "updated_at": "2026-08-19T23:15:36Z",
-    "size": 222,
+    "size": 225,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

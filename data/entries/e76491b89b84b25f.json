@@ -1,0 +1,30 @@
+{
+  "id": "@johansja/pi-permission-gate",
+  "name": "@johansja/pi-permission-gate",
+  "url": "https://www.npmjs.com/package/@johansja/pi-permission-gate",
+  "source": "npm-search",
+  "description": "LLM-powered safety gate for pi: classifies bash and MCP tool calls by risk before execution, with CWD-aware judgments.",
+  "metadata": {
+    "github_url": "https://github.com/johansja/pi-permission-gate",
+    "npm_name": "@johansja/pi-permission-gate",
+    "description": "LLM-powered safety gate for pi: classifies bash and MCP tool calls by risk before execution, with CWD-aware judgments.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "permission-gate",
+      "safety",
+      "coding-agent",
+      "llm"
+    ],
+    "version": "0.5.0",
+    "published_at": "2026-08-20T08:10:44.213Z",
+    "npm_downloads_monthly": 185,
+    "npm_downloads_weekly": 185,
+    "npm_score_final": 16.193111,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

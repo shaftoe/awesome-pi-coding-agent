@@ -8,7 +8,7 @@
     "github_url": "https://github.com/joelhooks/pi-effect",
     "repo_full_name": "joelhooks/pi-effect",
     "description": "Source-first Effect guardrails for Pi agents: clone the spellbook before casting the damn spell.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 2,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-20T17:02:29Z",
     "pushed_at": "2026-07-18T05:45:09Z",
-    "updated_at": "2026-08-07T15:56:19Z",
+    "updated_at": "2026-08-20T11:30:27Z",
     "size": 29,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

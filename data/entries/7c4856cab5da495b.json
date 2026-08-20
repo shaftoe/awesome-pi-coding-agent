@@ -1,0 +1,29 @@
+{
+  "id": "@xinizai/pi-vision-tool",
+  "name": "@xinizai/pi-vision-tool",
+  "url": "https://www.npmjs.com/package/@xinizai/pi-vision-tool",
+  "source": "npm-search",
+  "description": "A Pi extension that delegates current-turn image understanding to a separately configured OpenAI-compatible Vision Provider.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@xinizai/pi-vision-tool",
+    "description": "A Pi extension that delegates current-turn image understanding to a separately configured OpenAI-compatible Vision Provider.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "vision",
+      "image-understanding",
+      "openai-compatible"
+    ],
+    "version": "0.3.3",
+    "published_at": "2026-08-20T12:09:40.857Z",
+    "npm_downloads_monthly": 234,
+    "npm_downloads_weekly": 234,
+    "npm_score_final": 17.443295,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

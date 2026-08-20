@@ -1,0 +1,30 @@
+{
+  "id": "oscarprdev-pi-roast-mode",
+  "name": "oscarprdev-pi-roast-mode",
+  "url": "https://github.com/oscarprdev/pi-roast-mode",
+  "source": "github-search",
+  "description": "Read-only roast mode for Pi: evidence-grounded critique, ranked hit list, before any code changes.",
+  "metadata": {
+    "github_url": "https://github.com/oscarprdev/pi-roast-mode",
+    "repo_full_name": "oscarprdev/pi-roast-mode",
+    "description": "   Read-only roast mode for Pi: evidence-grounded critique, ranked hit list, before any code changes.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-agent",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-20T08:15:01Z",
+    "pushed_at": "2026-08-20T17:28:16Z",
+    "updated_at": "2026-08-20T21:49:42Z",
+    "size": 134,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

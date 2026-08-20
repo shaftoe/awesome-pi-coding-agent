@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Web Endpoint as PI Package for PI Agent (pi.dev), with Ollama API and OpenAI API compability.",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/drdoc-com/pi-openai-api-wrapper",
     "npm_name": "@drdoc-com/pi-openai-api-wrapper",
     "description": "Web Endpoint as PI Package for PI Agent (pi.dev), with Ollama API and OpenAI API compability.",
     "keywords": [
@@ -15,15 +15,15 @@
       "api",
       "ollama"
     ],
-    "version": "1.0.2",
-    "published_at": "2026-08-19T16:26:31.187Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "1.0.4",
+    "published_at": "2026-08-20T16:20:19.795Z",
+    "npm_downloads_monthly": 263,
+    "npm_downloads_weekly": 263,
+    "npm_score_final": 17.7669,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

@@ -1,0 +1,31 @@
+{
+  "id": "@oai404iao/pi-telegram-notify",
+  "name": "@oai404iao/pi-telegram-notify",
+  "url": "https://www.npmjs.com/package/@oai404iao/pi-telegram-notify",
+  "source": "npm-search",
+  "description": "Freeze default model/thinking in settings.json so switching models or toggling thinking never rewrites the defaults.",
+  "metadata": {
+    "github_url": "https://github.com/oai404iao/omp",
+    "npm_name": "@oai404iao/pi-keep-defaults",
+    "description": "Freeze default model/thinking in settings.json so switching models or toggling thinking never rewrites the defaults.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "settings",
+      "default-model",
+      "thinking"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-08-20T09:41:17.553Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

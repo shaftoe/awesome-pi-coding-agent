@@ -9,8 +9,8 @@
     "repo_full_name": "dannote/dot-pi",
     "description": "Curated Pi package with extensions, skills, prompt shortcuts, and rules",
     "stars": 48,
-    "forks": 5,
-    "open_issues": 1,
+    "forks": 4,
+    "open_issues": 0,
     "topics": [
       "agent-skills",
       "ast-grep",
