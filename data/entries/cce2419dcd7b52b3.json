@@ -1,0 +1,32 @@
+{
+  "id": "@sakiko233/pi-subagent",
+  "name": "@sakiko233/pi-subagent",
+  "url": "https://www.npmjs.com/package/@sakiko233/pi-subagent",
+  "source": "npm-search",
+  "description": "Pi extension for one inspect-only background subagent with a frozen conversation seed, verified result retrieval, and attested single-child Pi runs, built on the shared pi-background-tasks task service.",
+  "metadata": {
+    "github_url": "https://github.com/SakikoTogawa233/pi-subagent",
+    "npm_name": "@sakiko233/pi-subagent",
+    "description": "Pi extension for one inspect-only background subagent with a frozen conversation seed, verified result retrieval, and attested single-child Pi runs, built on the shared pi-background-tasks task service.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "subagent",
+      "delegation",
+      "background",
+      "attestation"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-21T17:48:20.119Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

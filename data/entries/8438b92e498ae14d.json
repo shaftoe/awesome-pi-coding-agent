@@ -8,7 +8,7 @@
     "github_url": "https://github.com/cad0p/pi-fallback-provider",
     "repo_full_name": "cad0p/pi-fallback-provider",
     "description": "Automatic model cycling when the pi agent gets stuck on errors",
-    "stars": 4,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-02T14:13:55Z",
     "pushed_at": "2026-08-14T01:59:20Z",
-    "updated_at": "2026-08-20T09:11:36Z",
+    "updated_at": "2026-08-21T18:02:41Z",
     "size": 61,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

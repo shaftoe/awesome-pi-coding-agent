@@ -1,0 +1,31 @@
+{
+  "id": "@drdoc-com/pi-drdoc",
+  "name": "@drdoc-com/pi-drdoc",
+  "url": "https://www.npmjs.com/package/@drdoc-com/pi-drdoc",
+  "source": "npm-search",
+  "description": "Dr.DOC DMS Integration Package for PI Agent",
+  "metadata": {
+    "github_url": "https://github.com/drdoc-com/pi-drdoc",
+    "npm_name": "@drdoc-com/pi-drdoc",
+    "description": "Dr.DOC DMS Integration Package for PI Agent",
+    "keywords": [
+      "pi-package",
+      "pi-agent",
+      "rest-api",
+      "skill",
+      "drdoc",
+      "Dr.DOC",
+      "dms"
+    ],
+    "version": "1.0.4",
+    "published_at": "2026-08-21T13:55:01.514Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

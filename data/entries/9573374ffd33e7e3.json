@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Dwsy/pi-gateway",
     "repo_full_name": "Dwsy/pi-gateway",
     "description": "Local AI Gateway for pi agent — Telegram, Discord, WebChat, and more",
-    "stars": 5,
+    "stars": 6,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-21T04:24:54Z",
     "pushed_at": "2026-03-21T07:27:13Z",
-    "updated_at": "2026-08-07T06:51:13Z",
+    "updated_at": "2026-08-21T07:19:36Z",
     "size": 1203,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

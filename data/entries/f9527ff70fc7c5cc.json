@@ -1,0 +1,35 @@
+{
+  "id": "voidverse-xyz-.pi",
+  "name": "voidverse-xyz-.pi",
+  "url": "https://github.com/voidverse-xyz/.pi",
+  "source": "github-search",
+  "description": "Portable Pi coding-agent configuration with custom extensions, skills, subagents, procedures, themes, and safety tooling.",
+  "metadata": {
+    "github_url": "https://github.com/voidverse-xyz/.pi",
+    "repo_full_name": "voidverse-xyz/.pi",
+    "description": "Portable Pi coding-agent configuration with custom extensions, skills, subagents, procedures, themes, and safety tooling.",
+    "stars": 0,
+    "forks": 1,
+    "open_issues": 8,
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "cli",
+      "coding-agent",
+      "developer-tools",
+      "mcp",
+      "pi-coding-agent",
+      "subagents",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-21T00:22:24Z",
+    "pushed_at": "2026-08-21T00:30:57Z",
+    "updated_at": "2026-08-21T00:50:41Z",
+    "size": 3780,
+    "license": "GPL-3.0",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

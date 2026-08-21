@@ -1,0 +1,25 @@
+{
+  "id": "Nightfallsh4-eregion",
+  "name": "Nightfallsh4-eregion",
+  "url": "https://github.com/Nightfallsh4/eregion",
+  "source": "github-search",
+  "description": "A software factory config for pi coding agent for specialised workflows",
+  "metadata": {
+    "github_url": "https://github.com/Nightfallsh4/eregion",
+    "repo_full_name": "Nightfallsh4/eregion",
+    "description": "A software factory config for pi coding agent for specialised workflows",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-21T11:54:10Z",
+    "pushed_at": "2026-08-21T12:28:05Z",
+    "updated_at": "2026-08-21T14:49:31Z",
+    "size": 175,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

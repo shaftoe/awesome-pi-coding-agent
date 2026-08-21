@@ -1,0 +1,33 @@
+{
+  "id": "@agimon-ai/doompi-read",
+  "name": "@agimon-ai/doompi-read",
+  "url": "https://www.npmjs.com/package/@agimon-ai/doompi-read",
+  "source": "npm-search",
+  "description": "Snapshot-bound hashline read tool for Pi and DoomPi.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@agimon-ai/doompi-read",
+    "description": "Snapshot-bound hashline read tool for Pi and DoomPi.",
+    "keywords": [
+      "ai",
+      "coding-agent",
+      "developer-tools",
+      "doompi",
+      "hashline",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "read"
+    ],
+    "version": "0.0.1-alpha.2",
+    "published_at": "2026-08-21T14:11:04.982Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

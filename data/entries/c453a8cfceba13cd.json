@@ -1,0 +1,27 @@
+{
+  "id": "allye-pi",
+  "name": "allye-pi",
+  "url": "https://www.npmjs.com/package/allye-pi",
+  "source": "npm-search",
+  "description": "Pi package adapter for the canonical Allye workflow",
+  "metadata": {
+    "github_url": "https://github.com/allye-app/allye-plugin",
+    "npm_name": "allye-pi",
+    "description": "Pi package adapter for the canonical Allye workflow",
+    "keywords": [
+      "pi-package",
+      "allye",
+      "workflow"
+    ],
+    "version": "1.7.1",
+    "published_at": "2026-08-14T22:40:55.470Z",
+    "npm_downloads_monthly": 722,
+    "npm_downloads_weekly": 627,
+    "npm_score_final": 21.05753,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

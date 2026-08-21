@@ -1,0 +1,29 @@
+{
+  "id": "@sakiko233/pi-agent-runtime",
+  "name": "@sakiko233/pi-agent-runtime",
+  "url": "https://www.npmjs.com/package/@sakiko233/pi-agent-runtime",
+  "source": "npm-search",
+  "description": "Shared audited child-agent runtime primitives for Pi subagent and Fusion packages.",
+  "metadata": {
+    "github_url": "https://github.com/SakikoTogawa233/pi-agent-runtime",
+    "npm_name": "@sakiko233/pi-agent-runtime",
+    "description": "Shared audited child-agent runtime primitives for Pi subagent and Fusion packages.",
+    "keywords": [
+      "pi-coding-agent",
+      "agent-runtime",
+      "child-process",
+      "oauth",
+      "anthropic"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-21T16:16:00.010Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

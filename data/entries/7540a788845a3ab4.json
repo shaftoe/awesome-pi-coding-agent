@@ -8,7 +8,7 @@
     "github_url": "https://github.com/vigbe/pi-odoo-develop",
     "repo_full_name": "vigbe/pi-odoo-develop",
     "description": "Version-aware Odoo development for the Pi coding agent — guarantees the Odoo version is known before any code is written.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-07-23T20:33:47Z",
     "pushed_at": "2026-07-30T12:22:03Z",
-    "updated_at": "2026-07-30T12:23:01Z",
+    "updated_at": "2026-08-21T22:04:26Z",
     "size": 481,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

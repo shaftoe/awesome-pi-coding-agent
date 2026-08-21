@@ -1,0 +1,32 @@
+{
+  "id": "pi-super-devteam",
+  "name": "pi-super-devteam",
+  "url": "https://www.npmjs.com/package/pi-super-devteam",
+  "source": "npm-search",
+  "description": "Pi extension that turns the coding agent into a governed delivery team: intent routing, a visible plan DAG, read-only review seats, deterministic acceptance gates, and honest delivery language. Ported from UmaDev.",
+  "metadata": {
+    "github_url": "https://github.com/patrickleehua/pi-super-devteam",
+    "npm_name": "pi-super-devteam",
+    "description": "Pi extension that turns the coding agent into a governed delivery team: intent routing, a visible plan DAG, read-only review seats, deterministic acceptance gates, and honest delivery language. Ported from UmaDev.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "umadev",
+      "ai",
+      "agents",
+      "code-review",
+      "quality-gate"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-21T10:16:54.127Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

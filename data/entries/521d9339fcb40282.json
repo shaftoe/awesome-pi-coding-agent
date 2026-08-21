@@ -1,0 +1,33 @@
+{
+  "id": "ngctro-pi-save-my-stuffs",
+  "name": "ngctro-pi-save-my-stuffs",
+  "url": "https://github.com/ngctro/pi-save-my-stuffs",
+  "source": "github-search",
+  "description": "Automatically back up your pi settings, extensions, skills, themes, and prompts to a git remote",
+  "metadata": {
+    "github_url": "https://github.com/ngctro/pi-save-my-stuffs",
+    "repo_full_name": "ngctro/pi-save-my-stuffs",
+    "description": "Automatically back up your pi settings, extensions, skills, themes, and prompts to a git remote",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "backup",
+      "coding-agent",
+      "dotfiles",
+      "extension",
+      "git",
+      "pi-coding-agent",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-21T11:22:39Z",
+    "pushed_at": "2026-08-21T14:13:59Z",
+    "updated_at": "2026-08-21T14:14:31Z",
+    "size": 60,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

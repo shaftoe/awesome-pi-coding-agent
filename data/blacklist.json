@@ -48501,5 +48501,263 @@
 			"sourceName": "github",
 			"query": "github-repo:pi-package language:TypeScript"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=mJUpQ5xxP6Q",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-21T23:20:39.595441425Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/UNLINEARITY/CLI-WeChat-Bridge",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-21T23:20:39.663563813Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=1HO9KARIb_E",
+		"reason": "non-english language (indonesian)",
+		"blacklisted_at": "2026-08-21T23:20:39.70137414Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/RyderAsKing/PiChamber",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-21T23:20:39.78527993Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-zense",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-21T23:20:39.843058087Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-kimi-code-headers",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-21T23:20:39.895062367Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=82Y3_d6_Fcw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-21T23:20:39.934014279Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=_udXsVbWyhk",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-21T23:20:39.951061646Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/barbatdev/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-21T23:20:39.965875979Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Qa-uUQZR6D8",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-21T23:20:40.011171964Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=JQoCmX-bLwo",
+		"reason": "pi network crypto signal: \"pi network\"",
+		"blacklisted_at": "2026-08-21T23:20:40.055918384Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "http://www.geom.uiuc.edu/~huberty/math5337/groupe/digits.html",
+		"reason": "mathematical pi signal: \"digits of pi\"",
+		"blacklisted_at": "2026-08-21T23:20:40.063165098Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=g8B8Ze8EE8U",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-21T23:20:40.129280246Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=2f5hmKRi0k4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-21T23:20:40.171493166Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=J12lO8Z2GvM",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-21T23:20:40.220273842Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/huangbh2020/mcode",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-21T23:20:40.231565818Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/lg320531124/pi-team-extension",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-08-21T23:20:40.280747719Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/zenworr/pi-context-threshold",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-21T23:20:40.302955924Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@liziy/pi-sub",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-21T23:20:40.397219081Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/guoxiucai/dsh-code",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-21T23:20:40.412318027Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/JoaoGalante16/Agente-Auditor-Pipeline",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-21T23:20:40.429096915Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Wormh0-le/pi-obsidian-capture",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-21T23:20:40.496659686Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@kenzone/pi-kit",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-21T23:20:40.568566488Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=y5buGMNg8Qg",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-21T23:20:40.580469196Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@gamaraan/ask-tool",
+		"reason": "Duplicate of @gamaraan/ask-tool (12e4a39e5a092ad1)",
+		"blacklisted_at": "2026-08-21T23:22:28.904357781Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@tian.zuo/pi-ask-user",
+		"reason": "Duplicate of @tian.zuo/pi-ask-user (40358c9b9f02a187)",
+		"blacklisted_at": "2026-08-21T23:23:05.143803767Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-tidy-footer",
+		"reason": "Duplicate of pi-tidy-footer (47190111382d8e1b)",
+		"blacklisted_at": "2026-08-21T23:23:09.136905891Z",
+		"source": "manual"
 	}
 ]

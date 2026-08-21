@@ -11,10 +11,11 @@
     "keywords": [
       "pi",
       "pi-extension",
-      "pi-theme"
+      "pi-theme",
+      "pi-package"
     ],
-    "version": "0.1.2",
-    "published_at": "2026-08-20T12:38:07.729Z",
+    "version": "0.4.0",
+    "published_at": "2026-08-21T17:23:51.719Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,
