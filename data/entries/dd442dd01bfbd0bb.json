@@ -1,0 +1,31 @@
+{
+  "id": "hudrazine-pi-engineer",
+  "name": "hudrazine-pi-engineer",
+  "url": "https://github.com/hudrazine/pi-engineer",
+  "source": "github-search",
+  "description": "A Pi Package that provides a portable software-engineering system prompt.",
+  "metadata": {
+    "github_url": "https://github.com/hudrazine/pi-engineer",
+    "repo_full_name": "hudrazine/pi-engineer",
+    "description": "A Pi Package that provides a portable software-engineering system prompt.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-agent-harness",
+      "pi-extensions",
+      "pi-package",
+      "system-prompt"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-18T10:55:37Z",
+    "pushed_at": "2026-08-21T14:48:24Z",
+    "updated_at": "2026-08-21T14:55:55Z",
+    "size": 153,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "the-color-cyan-cy-pi",
+  "name": "the-color-cyan-cy-pi",
+  "url": "https://github.com/the-color-cyan/cy-pi",
+  "source": "github-search",
+  "description": "extensions, skills, themes, etc. for cyan's pi agent",
+  "metadata": {
+    "github_url": "https://github.com/the-color-cyan/cy-pi",
+    "repo_full_name": "the-color-cyan/cy-pi",
+    "description": "extensions, skills, themes, etc. for cyan's pi agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T03:22:50Z",
+    "pushed_at": "2026-08-21T16:39:34Z",
+    "updated_at": "2026-08-21T16:40:26Z",
+    "size": 1447,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

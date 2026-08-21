@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ChengAoShen/LazyPi",
     "repo_full_name": "ChengAoShen/LazyPi",
     "description": "Lazy, personal-first Pi coding-agent configuration with background jobs, sub-agents, and side chat.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-22T18:05:14Z",
-    "pushed_at": "2026-06-26T19:57:01Z",
-    "updated_at": "2026-06-26T19:57:05Z",
-    "size": 147,
+    "pushed_at": "2026-08-21T19:42:22Z",
+    "updated_at": "2026-08-21T19:42:30Z",
+    "size": 162,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

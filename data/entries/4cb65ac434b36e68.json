@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Signet-AI/signetai",
     "repo_full_name": "Signet-AI/signetai",
     "description": "Sync and store memories, shared identity files (AGENTS.md, CLAUDE.md), session transcripts, institutional knowledge, and secrets between all of your favorite harnesses and models.",
-    "stars": 253,
+    "stars": 254,
     "forks": 39,
     "open_issues": 20,
     "topics": [
@@ -30,9 +30,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-11T05:38:32Z",
-    "pushed_at": "2026-08-20T22:17:52Z",
-    "updated_at": "2026-08-20T23:20:20Z",
-    "size": 97516,
+    "pushed_at": "2026-08-21T22:53:37Z",
+    "updated_at": "2026-08-21T19:29:37Z",
+    "size": 97575,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

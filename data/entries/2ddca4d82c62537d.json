@@ -1,0 +1,30 @@
+{
+  "id": "Th1nhNg0-pi-extensions",
+  "name": "Th1nhNg0-pi-extensions",
+  "url": "https://github.com/Th1nhNg0/pi-extensions",
+  "source": "github-search",
+  "description": "Personal collection of custom extensions and utilities for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/Th1nhNg0/pi-extensions",
+    "repo_full_name": "Th1nhNg0/pi-extensions",
+    "description": "Personal collection of custom extensions and utilities for Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-21T00:43:54Z",
+    "pushed_at": "2026-08-21T00:47:32Z",
+    "updated_at": "2026-08-21T00:48:05Z",
+    "size": 13,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

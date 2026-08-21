@@ -9,7 +9,7 @@
     "repo_full_name": "zqkra/plano",
     "description": "Orchestrate AI coding agents that actually talk to each other — Claude Code, Codex, Gemini, Pi. One agent spawns three more, delegates work and waits for their reports. Whichever model, whichever CLI, one mesh. 100% local: your CLIs, your subscriptions, no cloud.",
     "stars": 4,
-    "forks": 1,
+    "forks": 2,
     "open_issues": 0,
     "topics": [
       "agent-orchestration",

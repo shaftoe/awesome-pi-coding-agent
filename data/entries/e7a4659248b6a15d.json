@@ -1,0 +1,29 @@
+{
+  "id": "chartinger-pi-provider-melious",
+  "name": "chartinger-pi-provider-melious",
+  "url": "https://github.com/chartinger/pi-provider-melious",
+  "source": "github-search",
+  "description": "A pi extension that registers Melious as an OpenAI-compatible LLM provider.",
+  "metadata": {
+    "github_url": "https://github.com/chartinger/pi-provider-melious",
+    "repo_full_name": "chartinger/pi-provider-melious",
+    "description": "A pi extension that registers Melious as an OpenAI-compatible LLM provider.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-extension",
+      "pi-package",
+      "provider"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-21T19:11:17Z",
+    "pushed_at": "2026-08-21T20:43:43Z",
+    "updated_at": "2026-08-21T20:27:33Z",
+    "size": 5,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

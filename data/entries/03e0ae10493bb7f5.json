@@ -1,1 +1,25 @@
-{ "id": "linuxing3-pi-native", "name": "linuxing3-pi-native", "url": "https://github.com/linuxing3/pi-native", "source": "github-search", "description": "Native SDK desktop shell for the pi coding agent", "metadata": { "github_url": "https://github.com/linuxing3/pi-native", "repo_full_name": "linuxing3/pi-native", "description": "Native SDK desktop shell for the pi coding agent", "stars": 1, "forks": 0, "open_issues": 0, "topics": [], "language": "TypeScript", "archived": false, "created_at": "2026-08-20T15:48:12Z", "pushed_at": "2026-08-20T21:25:13Z", "updated_at": "2026-08-20T23:16:15Z", "size": 858, "license": null, "discovery_hint": "github-repo:pi-coding-agent language:TypeScript" }, "category": "extension" }
+{
+  "id": "linuxing3-pi-native",
+  "name": "linuxing3-pi-native",
+  "url": "https://github.com/linuxing3/pi-native",
+  "source": "github-search",
+  "description": "Native SDK desktop shell for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/linuxing3/pi-native",
+    "repo_full_name": "linuxing3/pi-native",
+    "description": "Native SDK desktop shell for the pi coding agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-20T15:48:12Z",
+    "pushed_at": "2026-08-21T18:59:50Z",
+    "updated_at": "2026-08-21T18:59:56Z",
+    "size": 906,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

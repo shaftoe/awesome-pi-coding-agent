@@ -10,7 +10,7 @@
     "description": "A local-first desktop workbench for the pi coding agent",
     "stars": 3,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 5,
     "topics": [
       "ai-coding",
       "coding-agent",
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-14T03:35:06Z",
-    "pushed_at": "2026-08-20T21:52:22Z",
-    "updated_at": "2026-08-20T13:36:53Z",
-    "size": 2835,
+    "pushed_at": "2026-08-21T09:10:21Z",
+    "updated_at": "2026-08-21T09:13:17Z",
+    "size": 3470,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

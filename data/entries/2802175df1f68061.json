@@ -9,7 +9,7 @@
     "repo_full_name": "tuxevil/tuxevil-rotator",
     "description": "Multi-provider, multi-account AI proxy rotator with per-model routing, quota tracking, and provider compatibility.",
     "stars": 38,
-    "forks": 10,
+    "forks": 11,
     "open_issues": 0,
     "topics": [
       "ai",
@@ -30,9 +30,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-22T01:33:34Z",
-    "pushed_at": "2026-08-19T19:57:18Z",
-    "updated_at": "2026-08-19T19:57:30Z",
-    "size": 11830,
+    "pushed_at": "2026-08-21T20:07:54Z",
+    "updated_at": "2026-08-21T20:08:21Z",
+    "size": 7981,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
