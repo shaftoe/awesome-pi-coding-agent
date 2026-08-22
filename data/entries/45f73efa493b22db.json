@@ -8,7 +8,7 @@
     "github_url": "https://github.com/miko-misa/pi-detour",
     "repo_full_name": "miko-misa/pi-detour",
     "description": "Take a live detour in Pi, then merge it back",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-08-15T07:54:25Z",
     "pushed_at": "2026-08-17T05:46:59Z",
-    "updated_at": "2026-08-17T05:45:44Z",
+    "updated_at": "2026-08-22T06:11:00Z",
     "size": 84,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

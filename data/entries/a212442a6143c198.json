@@ -1,0 +1,29 @@
+{
+  "id": "@bermudi/pi-codex",
+  "name": "@bermudi/pi-codex",
+  "url": "https://www.npmjs.com/package/@bermudi/pi-codex",
+  "source": "npm-search",
+  "description": "Codex-native apply_patch, web search, and remote compaction for pi",
+  "metadata": {
+    "github_url": "https://github.com/bermudi/manaflow-pi-codex",
+    "npm_name": "@bermudi/pi-codex",
+    "description": "Codex-native apply_patch, web search, and remote compaction for pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "codex",
+      "apply-patch",
+      "web-search"
+    ],
+    "version": "0.1.5",
+    "published_at": "2026-08-15T04:35:11.870Z",
+    "npm_downloads_monthly": 214,
+    "npm_downloads_weekly": 214,
+    "npm_score_final": 16.321125,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

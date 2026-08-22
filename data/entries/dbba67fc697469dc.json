@@ -1,0 +1,33 @@
+{
+  "id": "pi-smithy",
+  "name": "pi-smithy",
+  "url": "https://www.npmjs.com/package/pi-smithy",
+  "source": "npm-search",
+  "description": "A workshop for crafting Pi packages — extension, skill, prompt template, theme, and release tooling from one scaffold.",
+  "metadata": {
+    "github_url": "https://github.com/MerverliPy/pi-smithy",
+    "npm_name": "pi-smithy",
+    "description": "A workshop for crafting Pi packages — extension, skill, prompt template, theme, and release tooling from one scaffold.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "starter",
+      "scaffold",
+      "extension",
+      "skill",
+      "theme",
+      "prompt"
+    ],
+    "version": "0.3.2",
+    "published_at": "2026-08-15T09:13:52.637Z",
+    "npm_downloads_monthly": 284,
+    "npm_downloads_weekly": 284,
+    "npm_score_final": 17.435574,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

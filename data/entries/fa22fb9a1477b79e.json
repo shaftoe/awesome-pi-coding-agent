@@ -1,0 +1,29 @@
+{
+  "id": "pi-main-menu",
+  "name": "pi-main-menu",
+  "url": "https://www.npmjs.com/package/pi-main-menu",
+  "source": "npm-search",
+  "description": "A configurable Pi startup welcome screen with greetings, ASCII art, and project context.",
+  "metadata": {
+    "github_url": "https://github.com/doriangironde/pi-main-menu",
+    "npm_name": "pi-main-menu",
+    "description": "A configurable Pi startup welcome screen with greetings, ASCII art, and project context.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "terminal",
+      "ascii-art"
+    ],
+    "version": "0.2.5",
+    "published_at": "2026-08-15T15:52:16.282Z",
+    "npm_downloads_monthly": 296,
+    "npm_downloads_weekly": 296,
+    "npm_score_final": 17.71627,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

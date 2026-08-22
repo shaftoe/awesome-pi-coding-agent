@@ -1,0 +1,30 @@
+{
+  "id": "@crushro/pi-agent-beautify",
+  "name": "@crushro/pi-agent-beautify",
+  "url": "https://www.npmjs.com/package/@crushro/pi-agent-beautify",
+  "source": "npm-search",
+  "description": "Terminal visual polish for pi coding agent: natural multi-level headings, tool-panel code blocks, user message accent bar, clipboard image chips, and CJK Markdown bold/emphasis auto-formatting",
+  "metadata": {
+    "github_url": "https://github.com/ustc21xyx/pi-agent-beautify",
+    "npm_name": "@crushro/pi-agent-beautify",
+    "description": "Terminal visual polish for pi coding agent: natural multi-level headings, tool-panel code blocks, user message accent bar, clipboard image chips, and CJK Markdown bold/emphasis auto-formatting",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "beautify",
+      "markdown",
+      "terminal"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-15T17:12:05.504Z",
+    "npm_downloads_monthly": 100,
+    "npm_downloads_weekly": 100,
+    "npm_score_final": 13.920471,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

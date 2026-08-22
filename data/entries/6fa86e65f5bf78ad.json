@@ -1,0 +1,29 @@
+{
+  "id": "pi-aia-asf",
+  "name": "pi-aia-asf",
+  "url": "https://www.npmjs.com/package/pi-aia-asf",
+  "source": "npm-search",
+  "description": "Ai Applied Agentic Software Factory — codifies the full software development flow: intake, research, spec capture, adversarial analysis, planning with approval gates, test-first implementation, and release. Requires pi-vigilant, pi-smart-web-search, pi-sm",
+  "metadata": {
+    "github_url": "https://github.com/brunoj/pi-aia-asf",
+    "npm_name": "pi-aia-asf",
+    "description": "Ai Applied Agentic Software Factory — codifies the full software development flow: intake, research, spec capture, adversarial analysis, planning with approval gates, test-first implementation, and release. Requires pi-vigilant, pi-smart-web-search, pi-sm",
+    "keywords": [
+      "pi-package",
+      "software-factory",
+      "asf",
+      "specs",
+      "planning"
+    ],
+    "version": "0.2.2",
+    "published_at": "2026-08-15T13:55:33.080Z",
+    "npm_downloads_monthly": 257,
+    "npm_downloads_weekly": 257,
+    "npm_score_final": 17.087189,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

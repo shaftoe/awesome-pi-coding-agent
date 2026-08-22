@@ -8,7 +8,7 @@
     "github_url": "https://github.com/giuseppe-trisciuoglio/pi-jetbrains-mcp",
     "repo_full_name": "giuseppe-trisciuoglio/pi-jetbrains-mcp",
     "description": "Pi extentions brings the power of JetBrains IDEs to life by integrating the MCP directly into your development workflow. Seamlessly connect with AI models, automate tasks, and leverage intelligent code suggestions within your favorite JetBrains IDEs (IntelliJ IDEA, WebStorm, etc.).",
-    "stars": 2,
+    "stars": 7,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-07-25T08:20:35Z",
     "pushed_at": "2026-08-21T14:56:14Z",
-    "updated_at": "2026-08-21T15:07:47Z",
+    "updated_at": "2026-08-22T23:08:56Z",
     "size": 292,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

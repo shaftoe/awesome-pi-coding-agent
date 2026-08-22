@@ -48759,5 +48759,155 @@
 		"reason": "Duplicate of pi-tidy-footer (47190111382d8e1b)",
 		"blacklisted_at": "2026-08-21T23:23:09.136905891Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=jtyV7O4Pt0s",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-22T23:17:50.765082995Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=7tNIw_gHeSI",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-22T23:17:50.815653531Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-tui-pro",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-22T23:17:50.845238129Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/jakeryderv/pi-cli-tools",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-22T23:17:50.880398267Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@izhimu/pi-codegraph",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-08-22T23:17:50.905242336Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/czheo/my-pi-package",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-22T23:17:50.921926024Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Hpw4fAHlHDw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-22T23:17:50.971886287Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/Barrierml/tako-pi",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-22T23:17:51.022924368Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=mVgLS541-PI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-22T23:17:51.049379258Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-extension-tokendance",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-22T23:17:51.071301597Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=7Z7ID5BbZU4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-22T23:17:51.083145338Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=xECXZ3tyONo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-22T23:17:51.102271999Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Sectimus/pi-ext-mono",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-22T23:17:51.108112339Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=fW_TC2HRBXw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-22T23:17:51.129258098Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=d5htLmIb0XQ",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-08-22T23:17:51.168702148Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
 	}
 ]

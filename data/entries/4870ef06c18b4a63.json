@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Opinionated, composable Pi distribution for scoped agent tools, skills, MCP servers, and developer workflows.",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/AgiFlow/doompi",
     "npm_name": "@agimon-ai/doompi",
     "description": "Opinionated, composable Pi distribution for scoped agent tools, skills, MCP servers, and developer workflows.",
     "keywords": [
@@ -17,11 +17,11 @@
       "pi-coding-agent",
       "pi-package"
     ],
-    "version": "0.0.1-alpha.30",
-    "published_at": "2026-08-21T14:11:21.689Z",
-    "npm_downloads_monthly": 3076,
-    "npm_downloads_weekly": 2606,
-    "npm_score_final": 25.847876,
+    "version": "0.0.1-alpha.37",
+    "published_at": "2026-08-22T10:32:50.494Z",
+    "npm_downloads_monthly": 4195,
+    "npm_downloads_weekly": 2968,
+    "npm_score_final": 26.74466,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

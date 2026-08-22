@@ -1,0 +1,29 @@
+{
+  "id": "pedrostarkealexis-pi-opencode-free",
+  "name": "pedrostarkealexis-pi-opencode-free",
+  "url": "https://github.com/pedrostarkealexis/pi-opencode-free",
+  "source": "github-search",
+  "description": "Free OpenCode models in Pi, no API key",
+  "metadata": {
+    "github_url": "https://github.com/pedrostarkealexis/pi-opencode-free",
+    "repo_full_name": "pedrostarkealexis/pi-opencode-free",
+    "description": "Free OpenCode models in Pi, no API key",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "free-models",
+      "pi",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-22T05:58:41Z",
+    "pushed_at": "2026-08-22T07:16:13Z",
+    "updated_at": "2026-08-22T07:25:27Z",
+    "size": 109,
+    "license": "GPL-3.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

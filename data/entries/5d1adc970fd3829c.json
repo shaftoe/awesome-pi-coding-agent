@@ -1,0 +1,35 @@
+{
+  "id": "pi-boundary-boost",
+  "name": "pi-boundary-boost",
+  "url": "https://www.npmjs.com/package/pi-boundary-boost",
+  "source": "npm-search",
+  "description": "Show remaining quota and balance for LLM providers in pi — /status panel for Kimi Coding, Zhipu ZAI, MiniMax, DeepSeek, OpenRouter, Claude and Codex subscription windows",
+  "metadata": {
+    "github_url": "https://github.com/cyzlmh/pi-extensions",
+    "npm_name": "pi-provider-status",
+    "description": "Show remaining quota and balance for LLM providers in pi — /status panel for Kimi Coding, Zhipu ZAI, MiniMax, DeepSeek, OpenRouter, Claude and Codex subscription windows",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "quota",
+      "usage",
+      "rate-limit",
+      "kimi",
+      "zhipu",
+      "minimax",
+      "deepseek"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-22T15:43:32.876Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

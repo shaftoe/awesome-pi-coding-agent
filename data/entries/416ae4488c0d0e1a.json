@@ -1,0 +1,33 @@
+{
+  "id": "pi-aws-bedrock-mantle",
+  "name": "pi-aws-bedrock-mantle",
+  "url": "https://www.npmjs.com/package/pi-aws-bedrock-mantle",
+  "source": "npm-search",
+  "description": "Pi extension: all Bedrock Mantle models (GPT-5.5, DeepSeek, Qwen3, Mistral, Kimi, ...) via SigV4 — no long-term API key needed",
+  "metadata": {
+    "github_url": "https://github.com/0xRichardH/pi-aws-bedrock-mantle",
+    "npm_name": "pi-aws-bedrock-mantle",
+    "description": "Pi extension: all Bedrock Mantle models (GPT-5.5, DeepSeek, Qwen3, Mistral, Kimi, ...) via SigV4 — no long-term API key needed",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "bedrock",
+      "bedrock-mantle",
+      "gpt-5",
+      "openai",
+      "aws",
+      "sigv4"
+    ],
+    "version": "1.0.3",
+    "published_at": "2026-08-15T02:58:59.137Z",
+    "npm_downloads_monthly": 143,
+    "npm_downloads_weekly": 143,
+    "npm_score_final": 14.931866,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

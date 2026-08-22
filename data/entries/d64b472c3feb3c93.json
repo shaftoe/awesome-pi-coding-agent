@@ -3,11 +3,11 @@
   "name": "Pi Agent - Obsidian Plugin",
   "url": "https://community.obsidian.md/plugins/pi-agent",
   "source": "brave-web-search",
-  "description": "Chat with Pi using context from your notes, links, backlinks, tags, and search results.",
+  "description": "Chat with Pi from an Obsidian sidebar. Attach current-note context automatically. Include linked notes, backlinks, tags, frontmatter, headings, selected text, and explicit search attachments. Choose tool modes: Chat, Review, Edit, and Full agent.",
   "metadata": {
     "title": "Pi Agent - Obsidian Plugin",
     "name": "Pi Agent - Obsidian Plugin",
-    "description": "Chat with Pi using context from your notes, links, backlinks, tags, and search results.",
+    "description": "Chat with Pi from an Obsidian sidebar. Attach current-note context automatically. Include linked notes, backlinks, tags, frontmatter, headings, selected text, and explicit search attachments. Choose tool modes: Chat, Review, Edit, and Full agent.",
     "published_at": "2026-07-23T17:45:04",
     "source_site": "Obsidian",
     "source_url": "https://community.obsidian.md/plugins/pi-agent",

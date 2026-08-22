@@ -1,0 +1,25 @@
+{
+  "id": "@pixs/cbm-tools",
+  "name": "@pixs/cbm-tools",
+  "url": "https://www.npmjs.com/package/@pixs/cbm-tools",
+  "source": "npm-search",
+  "description": "Native pi tools (cbm_*) wrapping the codebase-memory-mcp binary's cli subcommand - graph search, code snippets, indexing, with worktree-aware project resolution.",
+  "metadata": {
+    "github_url": "https://github.com/dzag/pixs-cbm-tools",
+    "npm_name": "@pixs/cbm-tools",
+    "description": "Native pi tools (cbm_*) wrapping the codebase-memory-mcp binary's cli subcommand - graph search, code snippets, indexing, with worktree-aware project resolution.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-15T08:55:49.709Z",
+    "npm_downloads_monthly": 258,
+    "npm_downloads_weekly": 258,
+    "npm_score_final": 17.200445,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
