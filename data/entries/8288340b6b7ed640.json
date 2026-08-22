@@ -1,0 +1,31 @@
+{
+  "id": "drgnchan-pi-gpt-image",
+  "name": "drgnchan-pi-gpt-image",
+  "url": "https://github.com/drgnchan/pi-gpt-image",
+  "source": "github-search",
+  "description": "Pi extension for generating PNG images with GPT Image 2 using ChatGPT/Codex OAuth",
+  "metadata": {
+    "github_url": "https://github.com/drgnchan/pi-gpt-image",
+    "repo_full_name": "drgnchan/pi-gpt-image",
+    "description": "Pi extension for generating PNG images with GPT Image 2 using ChatGPT/Codex OAuth",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "codex",
+      "gpt-image-2",
+      "image-generation",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-22T05:59:49Z",
+    "pushed_at": "2026-08-22T06:00:34Z",
+    "updated_at": "2026-08-22T06:00:22Z",
+    "size": 37,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

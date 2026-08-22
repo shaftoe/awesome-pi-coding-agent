@@ -8,7 +8,7 @@
     "github_url": "https://github.com/flowflic/Pi-Studio",
     "repo_full_name": "flowflic/Pi-Studio",
     "description": "A Windows GUI based on pi agent ",
-    "stars": 25,
+    "stars": 24,
     "forks": 6,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-04T15:02:20Z",
     "pushed_at": "2026-08-21T15:58:46Z",
-    "updated_at": "2026-08-21T16:01:03Z",
+    "updated_at": "2026-08-22T03:10:43Z",
     "size": 2231,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

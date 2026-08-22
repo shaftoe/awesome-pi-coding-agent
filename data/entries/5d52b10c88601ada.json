@@ -1,0 +1,25 @@
+{
+  "id": "jakeryderv-pi-agent-bridge",
+  "name": "jakeryderv-pi-agent-bridge",
+  "url": "https://github.com/jakeryderv/pi-agent-bridge",
+  "source": "github-search",
+  "description": "A pi extension that lets pi delegate work to external coding-agent runtimes like Codex CLI and Claude Code, while keeping pi as the primary/orchestrating agent.",
+  "metadata": {
+    "github_url": "https://github.com/jakeryderv/pi-agent-bridge",
+    "repo_full_name": "jakeryderv/pi-agent-bridge",
+    "description": "A pi extension that lets pi delegate work to external coding-agent runtimes like Codex CLI and Claude Code, while keeping pi as the primary/orchestrating agent.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 3,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-22T17:42:35Z",
+    "pushed_at": "2026-08-22T19:54:24Z",
+    "updated_at": "2026-08-22T19:53:23Z",
+    "size": 161,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

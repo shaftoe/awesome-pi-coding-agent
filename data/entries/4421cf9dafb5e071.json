@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Typed lifecycle, protocol, and Leader contracts for independently bundled DoomPi extensions.",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/AgiFlow/doompi",
     "npm_name": "@agimon-ai/doompi-extension-contracts",
     "description": "Typed lifecycle, protocol, and Leader contracts for independently bundled DoomPi extensions.",
     "keywords": [
@@ -21,11 +21,11 @@
       "protocol",
       "typescript"
     ],
-    "version": "0.0.1-alpha.30",
-    "published_at": "2026-08-21T14:10:37.647Z",
-    "npm_downloads_monthly": 5341,
-    "npm_downloads_weekly": 4696,
-    "npm_score_final": 27.94555,
+    "version": "0.0.1-alpha.37",
+    "published_at": "2026-08-22T10:32:06.274Z",
+    "npm_downloads_monthly": 7649,
+    "npm_downloads_weekly": 5691,
+    "npm_score_final": 29.105385,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

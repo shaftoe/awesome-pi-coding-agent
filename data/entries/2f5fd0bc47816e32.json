@@ -1,0 +1,29 @@
+{
+  "id": "XRSec-pi-session-distill",
+  "name": "XRSec-pi-session-distill",
+  "url": "https://github.com/XRSec/pi-session-distill",
+  "source": "github-search",
+  "description": "Agent State Handoff cleanup, merge, verification, and repeatable re-cleaning for Pi sessions",
+  "metadata": {
+    "github_url": "https://github.com/XRSec/pi-session-distill",
+    "repo_full_name": "XRSec/pi-session-distill",
+    "description": "Agent State Handoff cleanup, merge, verification, and repeatable re-cleaning for Pi sessions",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-extension",
+      "pi-package",
+      "session-cleanup"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-22T14:37:00Z",
+    "pushed_at": "2026-08-22T16:08:01Z",
+    "updated_at": "2026-08-22T16:08:05Z",
+    "size": 183,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

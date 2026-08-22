@@ -1,0 +1,29 @@
+{
+  "id": "@heykb/pi-tree-time",
+  "name": "@heykb/pi-tree-time",
+  "url": "https://www.npmjs.com/package/@heykb/pi-tree-time",
+  "source": "npm-search",
+  "description": "Show a timestamp on every row of pi's built-in session tree view",
+  "metadata": {
+    "github_url": "https://github.com/heykb/pi-tree-time",
+    "npm_name": "@heykb/pi-tree-time",
+    "description": "Show a timestamp on every row of pi's built-in session tree view",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "session-tree",
+      "timestamp"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-22T16:14:48.942Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

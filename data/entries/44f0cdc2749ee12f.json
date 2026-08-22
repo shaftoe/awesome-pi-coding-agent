@@ -1,0 +1,29 @@
+{
+  "id": "pi-peer-comms",
+  "name": "pi-peer-comms",
+  "url": "https://www.npmjs.com/package/pi-peer-comms",
+  "source": "npm-search",
+  "description": "Peer-to-peer communication between running Pi sessions",
+  "metadata": {
+    "github_url": "https://github.com/shantanugoel/pi-peer-comms",
+    "npm_name": "pi-peer-comms",
+    "description": "Peer-to-peer communication between running Pi sessions",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "peer-to-peer",
+      "agents"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-15T09:38:39.258Z",
+    "npm_downloads_monthly": 130,
+    "npm_downloads_weekly": 130,
+    "npm_score_final": 14.766369,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

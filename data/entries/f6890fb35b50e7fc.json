@@ -1,0 +1,30 @@
+{
+  "id": "@naxodev/pi-music-dock",
+  "name": "@naxodev/pi-music-dock",
+  "url": "https://www.npmjs.com/package/@naxodev/pi-music-dock",
+  "source": "npm-search",
+  "description": "Pi status-line dock and responsive side panel for macOS system Now Playing (media-control)",
+  "metadata": {
+    "github_url": "https://github.com/naxodev/ai",
+    "npm_name": "@naxodev/pi-music-dock",
+    "description": "Pi status-line dock and responsive side panel for macOS system Now Playing (media-control)",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "macos",
+      "now-playing",
+      "media-control",
+      "statusline"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-22T17:44:13.431Z",
+    "npm_downloads_monthly": 120,
+    "npm_downloads_weekly": 120,
+    "npm_score_final": 14.503833,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
