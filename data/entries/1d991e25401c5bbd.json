@@ -1,0 +1,30 @@
+{
+  "id": "pi-process-native",
+  "name": "pi-process-native",
+  "url": "https://www.npmjs.com/package/pi-process-native",
+  "source": "npm-search",
+  "description": "Deterministic background process supervision for the Pi coding agent on Windows",
+  "metadata": {
+    "github_url": "https://github.com/takomine/pi-process-native",
+    "npm_name": "pi-process-native",
+    "description": "Deterministic background process supervision for the Pi coding agent on Windows",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "process-manager",
+      "background-process",
+      "windows"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-16T03:00:06.230Z",
+    "npm_downloads_monthly": 288,
+    "npm_downloads_weekly": 288,
+    "npm_score_final": 17.397966,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

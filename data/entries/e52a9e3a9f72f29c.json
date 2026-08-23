@@ -1,0 +1,30 @@
+{
+  "id": "pi-routing-suite",
+  "name": "pi-routing-suite",
+  "url": "https://www.npmjs.com/package/pi-routing-suite",
+  "source": "npm-search",
+  "description": "Task-aware reasoning-mode routing for pi — three-band persona anchoring (spec/react/weak) ported from dsh-routing-suite",
+  "metadata": {
+    "github_url": "https://github.com/zhexulong/pi-routing-suite",
+    "npm_name": "pi-routing-suite",
+    "description": "Task-aware reasoning-mode routing for pi — three-band persona anchoring (spec/react/weak) ported from dsh-routing-suite",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "routing",
+      "reasoning-mode",
+      "dsh",
+      "router"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-08-16T15:55:18.520Z",
+    "npm_downloads_monthly": 178,
+    "npm_downloads_weekly": 178,
+    "npm_score_final": 15.579879,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

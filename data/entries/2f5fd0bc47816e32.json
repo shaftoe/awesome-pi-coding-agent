@@ -12,6 +12,7 @@
     "forks": 0,
     "open_issues": 0,
     "topics": [
+      "pi",
       "pi-extension",
       "pi-package",
       "session-cleanup"
@@ -19,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-22T14:37:00Z",
-    "pushed_at": "2026-08-22T16:08:01Z",
-    "updated_at": "2026-08-22T16:08:05Z",
-    "size": 183,
+    "pushed_at": "2026-08-23T02:22:03Z",
+    "updated_at": "2026-08-23T14:12:09Z",
+    "size": 265,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

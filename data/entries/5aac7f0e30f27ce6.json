@@ -1,0 +1,30 @@
+{
+  "id": "@fyeeme/pi-subagent-core",
+  "name": "@fyeeme/pi-subagent-core",
+  "url": "https://www.npmjs.com/package/@fyeeme/pi-subagent-core",
+  "source": "npm-search",
+  "description": "Shared dispatch core for spawning pi subprocess agents: spawnAgent, mapWithConcurrencyLimit, createSpawnRegistry, abortAgent, getPiInvocation. Also ships an optional pi extension (sub-agent.ts) that renders live agent state as an above-editor widget, a be",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@fyeeme/pi-subagent-core",
+    "description": "Shared dispatch core for spawning pi subprocess agents: spawnAgent, mapWithConcurrencyLimit, createSpawnRegistry, abortAgent, getPiInvocation. Also ships an optional pi extension (sub-agent.ts) that renders live agent state as an above-editor widget, a be",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "subagent",
+      "spawn",
+      "dispatch",
+      "multi-agent"
+    ],
+    "version": "0.5.0",
+    "published_at": "2026-08-23T16:11:10.866Z",
+    "npm_downloads_monthly": 1133,
+    "npm_downloads_weekly": 242,
+    "npm_score_final": 21.955542,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

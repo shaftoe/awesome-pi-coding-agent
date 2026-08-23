@@ -1,0 +1,29 @@
+{
+  "id": "peterstorm-pi-goal",
+  "name": "peterstorm-pi-goal",
+  "url": "https://github.com/peterstorm/pi-goal",
+  "source": "github-search",
+  "description": "Bounded, resumable goal loops for Pi",
+  "metadata": {
+    "github_url": "https://github.com/peterstorm/pi-goal",
+    "repo_full_name": "peterstorm/pi-goal",
+    "description": "Bounded, resumable goal loops for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "goal-loop",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-23T05:46:10Z",
+    "pushed_at": "2026-08-23T06:11:03Z",
+    "updated_at": "2026-08-23T06:14:45Z",
+    "size": 144,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

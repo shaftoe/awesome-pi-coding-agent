@@ -3,11 +3,11 @@
   "name": "@brglng/pi-permission-system",
   "url": "https://www.npmjs.com/package/@brglng/pi-permission-system",
   "source": "npm-search",
-  "description": "Portable session directory names for the Pi coding agent: rename the per-project session storage directory to a machine-independent form (home prefix -> HOME, other roots -> ROOT, remainder URL-encoded), so the same project maps to the same directory name",
+  "description": "Sync Pi coding agent session files to an external mirror directory with three-way conflict merging. Per-project session directories use portable names compatible with pi-portable-sessions, but this extension is independent and does not depend on or read t",
   "metadata": {
     "github_url": "https://github.com/brglng/pi-packages",
-    "npm_name": "@brglng/pi-portable-sessions",
-    "description": "Portable session directory names for the Pi coding agent: rename the per-project session storage directory to a machine-independent form (home prefix -> HOME, other roots -> ROOT, remainder URL-encoded), so the same project maps to the same directory name",
+    "npm_name": "@brglng/pi-session-sync",
+    "description": "Sync Pi coding agent session files to an external mirror directory with three-way conflict merging. Per-project session directories use portable names compatible with pi-portable-sessions, but this extension is independent and does not depend on or read t",
     "keywords": [
       "pi-package",
       "pi",
@@ -15,12 +15,12 @@
       "pi-coding-agent",
       "coding-agent",
       "sessions",
+      "sync",
       "portable",
-      "paths",
-      "directory"
+      "git"
     ],
-    "version": "0.4.0",
-    "published_at": "2026-08-16T09:09:15.548Z",
+    "version": "0.1.0",
+    "published_at": "2026-08-23T03:02:41.016Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

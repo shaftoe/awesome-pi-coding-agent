@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-lens",
+  "name": "pi-lens · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-lens",
+  "source": "brave-web-search",
+  "description": "Review the source before installing third-party packages. pi-lens gives AI coding agents fast, language-aware feedback while they write/edit.",
+  "metadata": {
+    "title": "pi-lens · Packages · Pi",
+    "name": "pi-lens · Packages · Pi",
+    "description": "Review the source before installing third-party packages. pi-lens gives AI coding agents fast, language-aware feedback while they write/edit.",
+    "published_at": "2026-08-20T20:40:03",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-lens",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}

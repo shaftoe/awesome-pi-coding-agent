@@ -8,7 +8,7 @@
     "github_url": "https://github.com/wangmiaozero/pi-harness",
     "repo_full_name": "wangmiaozero/pi-harness",
     "description": "The Complete Desktop Harness for Pi Coding Agent",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -29,9 +29,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-20T12:29:47Z",
-    "pushed_at": "2026-08-22T15:44:54Z",
-    "updated_at": "2026-08-22T23:05:53Z",
-    "size": 16457,
+    "pushed_at": "2026-08-23T13:46:31Z",
+    "updated_at": "2026-08-23T13:48:20Z",
+    "size": 16501,
     "license": "AGPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

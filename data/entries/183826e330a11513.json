@@ -10,7 +10,7 @@
     "description": "My collection of Pi extensions, tools, skills, UI packages, and integrations.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 2,
     "topics": [
       "agent-tools",
       "developer-tools",
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-08T21:15:17Z",
-    "pushed_at": "2026-08-22T22:47:33Z",
-    "updated_at": "2026-08-22T20:51:29Z",
-    "size": 986,
+    "pushed_at": "2026-08-23T20:29:10Z",
+    "updated_at": "2026-08-23T20:29:34Z",
+    "size": 1648,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

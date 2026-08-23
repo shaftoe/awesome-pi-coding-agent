@@ -9,13 +9,15 @@
     "npm_name": "@danypops/pi-papyrus",
     "description": "Pi host extension for Papyrus: native tools, TUI panels, and context injection over the daemon-backed graph store",
     "keywords": [
-      "pi-package"
+      "pi-package",
+      "task-management",
+      "knowledge-graph"
     ],
-    "version": "0.57.9",
-    "published_at": "2026-08-21T21:18:23.977Z",
-    "npm_downloads_monthly": 13156,
-    "npm_downloads_weekly": 2640,
-    "npm_score_final": 30.887,
+    "version": "0.57.10",
+    "published_at": "2026-08-23T11:54:05.863Z",
+    "npm_downloads_monthly": 14342,
+    "npm_downloads_weekly": 3663,
+    "npm_score_final": 30.73846,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

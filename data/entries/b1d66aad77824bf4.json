@@ -1,0 +1,35 @@
+{
+  "id": "@destiner/pi-usage",
+  "name": "@destiner/pi-usage",
+  "url": "https://www.npmjs.com/package/@destiner/pi-usage",
+  "source": "npm-search",
+  "description": "/usage for pi: how much of each coding subscription is spent — Claude Code, Codex, Cursor, Copilot, OpenCode Go, Z.ai, OpenRouter",
+  "metadata": {
+    "github_url": "https://github.com/Destiner/pi-usage",
+    "npm_name": "@destiner/pi-usage",
+    "description": "/usage for pi: how much of each coding subscription is spent — Claude Code, Codex, Cursor, Copilot, OpenCode Go, Z.ai, OpenRouter",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "usage",
+      "subscription",
+      "rate-limit",
+      "claude-code",
+      "codex",
+      "cursor",
+      "github-copilot",
+      "opencode",
+      "openrouter"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-08-23T14:08:11.613Z",
+    "npm_downloads_monthly": 286,
+    "npm_downloads_weekly": 286,
+    "npm_score_final": 17.956135,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -3,32 +3,29 @@
   "name": "@agimon-ai/doompi-autostop",
   "url": "https://www.npmjs.com/package/@agimon-ai/doompi-autostop",
   "source": "npm-search",
-  "description": "Shuts a DoomPi session down once the agent settles and stays idle.",
+  "description": "Headless DoomPi session server: supervises a Pi RPC agent behind an authenticated unix socket so clients can attach and reattach",
   "metadata": {
     "github_url": "https://github.com/AgiFlow/doompi",
-    "npm_name": "@agimon-ai/doompi-autostop",
-    "description": "Shuts a DoomPi session down once the agent settles and stays idle.",
+    "npm_name": "@agimon-ai/doompi-server",
+    "description": "Headless DoomPi session server: supervises a Pi RPC agent behind an authenticated unix socket so clients can attach and reattach",
     "keywords": [
-      "ai",
-      "auto-stop",
+      "agent-server",
       "coding-agent",
-      "developer-tools",
       "doompi",
-      "idle-timeout",
+      "headless",
       "pi-coding-agent",
-      "pi-extension",
-      "pi-package",
-      "session-shutdown"
+      "rpc",
+      "session-server"
     ],
-    "version": "0.0.1-alpha.15",
-    "published_at": "2026-08-22T10:33:37.017Z",
-    "npm_downloads_monthly": 950,
-    "npm_downloads_weekly": 950,
-    "npm_score_final": 21.49163,
+    "version": "0.0.1-alpha.0",
+    "published_at": "2026-08-23T13:23:37.083Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "category": "misc"
 }
