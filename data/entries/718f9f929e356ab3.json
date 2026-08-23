@@ -10,7 +10,7 @@
     "description": "🏆 AI Hackathon 2026 @ UC Berkeley  Intelligent context management for developers",
     "stars": 232,
     "forks": 18,
-    "open_issues": 39,
+    "open_issues": 40,
     "topics": [
       "ai-agents",
       "context-window",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-20T19:31:53Z",
-    "pushed_at": "2026-08-22T23:11:12Z",
-    "updated_at": "2026-08-22T23:06:20Z",
-    "size": 39912,
+    "pushed_at": "2026-08-22T23:56:33Z",
+    "updated_at": "2026-08-23T13:27:18Z",
+    "size": 39959,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

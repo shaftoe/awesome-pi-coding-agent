@@ -1,0 +1,31 @@
+{
+  "id": "@hyav/pi-search",
+  "name": "@hyav/pi-search",
+  "url": "https://www.npmjs.com/package/@hyav/pi-search",
+  "source": "npm-search",
+  "description": "LLM-driven web search and content extraction extension for Pi — built-in Tavily, AnySearch, and Jina providers.",
+  "metadata": {
+    "github_url": "https://github.com/hyav/pi-search",
+    "npm_name": "@hyav/pi-search",
+    "description": "LLM-driven web search and content extraction extension for Pi — built-in Tavily, AnySearch, and Jina providers.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "search",
+      "web-search",
+      "tavily",
+      "anysearch",
+      "jina"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-08-23T17:07:44.611Z",
+    "npm_downloads_monthly": 640,
+    "npm_downloads_weekly": 640,
+    "npm_score_final": 20.376074,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

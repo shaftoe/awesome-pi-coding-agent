@@ -8,7 +8,7 @@
     "github_url": "https://github.com/kartikkabadi/pi-composer-powerpack",
     "repo_full_name": "kartikkabadi/pi-composer-powerpack",
     "description": "Cursor Composer 2.5 powerpack for Pi: agent chains, dispatch teams, Pi-Pi experts, live subagents, Pi-to-Pi coms, damage-control safety, curated agents and mono-black theme. Install with pi install. Requires Pi ≥0.75.3.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 6,
     "topics": [
@@ -32,7 +32,7 @@
     "archived": false,
     "created_at": "2026-05-24T02:45:08Z",
     "pushed_at": "2026-08-16T06:13:02Z",
-    "updated_at": "2026-08-11T10:40:06Z",
+    "updated_at": "2026-08-23T15:43:53Z",
     "size": 1084,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

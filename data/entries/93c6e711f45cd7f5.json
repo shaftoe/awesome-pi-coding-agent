@@ -1,0 +1,26 @@
+{
+  "id": "@yalieny/pi-better-cost-display-footer",
+  "name": "@yalieny/pi-better-cost-display-footer",
+  "url": "https://www.npmjs.com/package/@yalieny/pi-better-cost-display-footer",
+  "source": "npm-search",
+  "description": "pi extension: scriptable peak/off-peak tier rules per provider with an enhanced footer (tier label, cache-hit-rate precision, custom currency symbol)",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@yalieny/pi-better-cost-display-footer",
+    "description": "pi extension: scriptable peak/off-peak tier rules per provider with an enhanced footer (tier label, cache-hit-rate precision, custom currency symbol)",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "2.0.1",
+    "published_at": "2026-08-23T05:40:26.169Z",
+    "npm_downloads_monthly": 632,
+    "npm_downloads_weekly": 632,
+    "npm_score_final": 20.132317,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

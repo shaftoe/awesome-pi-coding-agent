@@ -1,0 +1,31 @@
+{
+  "id": "@czottmann/pi-whoami",
+  "name": "@czottmann/pi-whoami",
+  "url": "https://www.npmjs.com/package/@czottmann/pi-whoami",
+  "source": "npm-search",
+  "description": "pi extension that adds a `whoami` tool reporting the active provider, model, and thinking level.",
+  "metadata": {
+    "github_url": "https://github.com/czottmann/pi-whoami",
+    "npm_name": "@czottmann/pi-whoami",
+    "description": "pi extension that adds a `whoami` tool reporting the active provider, model, and thinking level.",
+    "keywords": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "pi-plugin",
+      "whoami",
+      "llm",
+      "coding-agent"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-08-16T13:31:55.075Z",
+    "npm_downloads_monthly": 177,
+    "npm_downloads_weekly": 177,
+    "npm_score_final": 16.237864,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

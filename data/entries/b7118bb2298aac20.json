@@ -1,0 +1,33 @@
+{
+  "id": "pi-l1-cache",
+  "name": "pi-l1-cache",
+  "url": "https://www.npmjs.com/package/pi-l1-cache",
+  "source": "npm-search",
+  "description": "L1 in-memory cache extension for pi — CPU/RAM optimized, production-ready",
+  "metadata": {
+    "github_url": "https://github.com/tobias-weiss-ai-xr/pi-l1-cache",
+    "npm_name": "pi-l1-cache",
+    "description": "L1 in-memory cache extension for pi — CPU/RAM optimized, production-ready",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "extension",
+      "cache",
+      "performance",
+      "L1",
+      "memory",
+      "caching"
+    ],
+    "version": "1.2.2",
+    "published_at": "2026-08-23T17:09:37.301Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

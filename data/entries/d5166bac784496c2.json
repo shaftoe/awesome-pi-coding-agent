@@ -1,0 +1,32 @@
+{
+  "id": "@palmtom/pi-models",
+  "name": "@palmtom/pi-models",
+  "url": "https://www.npmjs.com/package/@palmtom/pi-models",
+  "source": "npm-search",
+  "description": "Pi TUI overlay wizard: add a relay or self-hosted gateway as a provider, fetch /models, and write models.json",
+  "metadata": {
+    "github_url": "https://github.com/palmtom316/pi-models",
+    "npm_name": "@palmtom/pi-models",
+    "description": "Pi TUI overlay wizard: add a relay or self-hosted gateway as a provider, fetch /models, and write models.json",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "models.json",
+      "models.dev",
+      "openai",
+      "anthropic",
+      "gemini"
+    ],
+    "version": "0.2.4",
+    "published_at": "2026-08-23T12:54:31.599Z",
+    "npm_downloads_monthly": 712,
+    "npm_downloads_weekly": 712,
+    "npm_score_final": 20.291983,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

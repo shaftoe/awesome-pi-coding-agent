@@ -8,7 +8,7 @@
     "github_url": "https://github.com/quincycs/pi-qcode",
     "repo_full_name": "quincycs/pi-qcode",
     "description": "Native vscode extension for pi coding agent.  aka pi-vscode-qcode",
-    "stars": 13,
+    "stars": 14,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-01T04:20:58Z",
     "pushed_at": "2026-08-19T19:57:30Z",
-    "updated_at": "2026-08-19T19:57:40Z",
+    "updated_at": "2026-08-23T16:21:12Z",
     "size": 1144,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

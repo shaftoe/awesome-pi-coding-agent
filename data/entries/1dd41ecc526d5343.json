@@ -1,0 +1,30 @@
+{
+  "id": "ocramz-pi-agent-experiments",
+  "name": "ocramz-pi-agent-experiments",
+  "url": "https://github.com/ocramz/pi-agent-experiments",
+  "source": "github-search",
+  "description": "Experiments with the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/ocramz/pi-agent-experiments",
+    "repo_full_name": "ocramz/pi-agent-experiments",
+    "description": "Experiments with the Pi coding agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "ai-agent",
+      "ai-coding",
+      "pi-agent",
+      "pi-agent-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-20T11:03:14Z",
+    "pushed_at": "2026-08-23T20:30:13Z",
+    "updated_at": "2026-08-23T15:23:33Z",
+    "size": 236,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

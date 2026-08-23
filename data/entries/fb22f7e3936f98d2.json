@@ -1,0 +1,25 @@
+{
+  "id": "@harnessctl/pi-tools",
+  "name": "@harnessctl/pi-tools",
+  "url": "https://www.npmjs.com/package/@harnessctl/pi-tools",
+  "source": "npm-search",
+  "description": "Pi tools for harnessctl.",
+  "metadata": {
+    "github_url": "https://github.com/dragoscirjan/harnessctl-v2",
+    "npm_name": "@harnessctl/pi-tools",
+    "description": "Pi tools for harnessctl.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.8",
+    "published_at": "2026-08-23T13:37:51.788Z",
+    "npm_downloads_monthly": 553,
+    "npm_downloads_weekly": 504,
+    "npm_score_final": 19.861961,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

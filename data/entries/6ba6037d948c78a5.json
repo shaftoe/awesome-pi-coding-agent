@@ -9,8 +9,8 @@
     "repo_full_name": "code-yeongyu/pi-webfetch",
     "description": "Web fetch tool extension for the pi coding agent",
     "stars": 7,
-    "forks": 1,
-    "open_issues": 1,
+    "forks": 2,
+    "open_issues": 2,
     "topics": [
       "coding-agent",
       "fetch",

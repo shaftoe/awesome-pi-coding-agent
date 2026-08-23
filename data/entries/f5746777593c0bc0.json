@@ -10,7 +10,7 @@
     "description": "A portable AI agent desktop app for everyone — no vendor lock-in, no dev tools required. Electron + React UI on top of pi-ai/pi-agent-core, with zero-config first launch from your Pi CLI settings.",
     "stars": 3,
     "forks": 0,
-    "open_issues": 10,
+    "open_issues": 9,
     "topics": [
       "chat-application",
       "desktop-app",
@@ -24,16 +24,14 @@
       "streaming",
       "typescript",
       "ui",
-      "vite",
-      "web-bridge",
-      "websocket"
+      "web"
     ],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-24T07:04:09Z",
-    "pushed_at": "2026-08-22T16:57:47Z",
-    "updated_at": "2026-08-22T16:57:52Z",
-    "size": 4568,
+    "pushed_at": "2026-08-23T19:01:41Z",
+    "updated_at": "2026-08-23T19:01:50Z",
+    "size": 4438,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
