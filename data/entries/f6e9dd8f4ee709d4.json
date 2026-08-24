@@ -1,0 +1,30 @@
+{
+  "id": "pi-rubber-duck",
+  "name": "pi-rubber-duck",
+  "url": "https://www.npmjs.com/package/pi-rubber-duck",
+  "source": "npm-search",
+  "description": "A rubber duck for your coding agent. The model explains its problem out loud; the duck never answers.",
+  "metadata": {
+    "github_url": "https://github.com/ChWehner/pi-rubber-duck",
+    "npm_name": "pi-rubber-duck",
+    "description": "A rubber duck for your coding agent. The model explains its problem out loud; the duck never answers.",
+    "keywords": [
+      "pi",
+      "pi-extension",
+      "rubber-duck",
+      "debugging",
+      "coding-agent",
+      "pi-package"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-08-17T15:23:34.739Z",
+    "npm_downloads_monthly": 338,
+    "npm_downloads_weekly": 338,
+    "npm_score_final": 17.764511,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

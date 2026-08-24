@@ -8,7 +8,7 @@
     "github_url": "https://github.com/asoules/pi-worker",
     "repo_full_name": "asoules/pi-worker",
     "description": "Pi coding agent running in a Cloudflare Worker with persistent filesystem and git",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-25T12:27:28Z",
     "pushed_at": "2026-03-25T13:13:32Z",
-    "updated_at": "2026-03-25T14:20:21Z",
+    "updated_at": "2026-08-24T20:14:18Z",
     "size": 78,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

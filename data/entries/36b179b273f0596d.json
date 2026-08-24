@@ -1,0 +1,36 @@
+{
+  "id": "pi-tagteam",
+  "name": "pi-tagteam",
+  "url": "https://www.npmjs.com/package/pi-tagteam",
+  "source": "npm-search",
+  "description": "Tag Pi in when Claude Code or Codex hits rate limits, context windows, or crashes. Seamlessly transfer context, uncommitted git work, and subagent tasks.",
+  "metadata": {
+    "github_url": "https://github.com/bharath31/pi-tagteam",
+    "npm_name": "pi-tagteam",
+    "description": "Tag Pi in when Claude Code or Codex hits rate limits, context windows, or crashes. Seamlessly transfer context, uncommitted git work, and subagent tasks.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-skill",
+      "pi-prompt",
+      "claude-code",
+      "codex",
+      "handoff",
+      "tagteam",
+      "session-relay",
+      "context-bridge",
+      "worktrees",
+      "subagents"
+    ],
+    "version": "0.1.5",
+    "published_at": "2026-08-17T06:27:40.691Z",
+    "npm_downloads_monthly": 881,
+    "npm_downloads_weekly": 881,
+    "npm_score_final": 21.25537,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

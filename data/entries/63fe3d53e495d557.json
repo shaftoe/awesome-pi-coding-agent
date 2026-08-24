@@ -1,0 +1,30 @@
+{
+  "id": "infinity-harness",
+  "name": "infinity-harness",
+  "url": "https://www.npmjs.com/package/infinity-harness",
+  "source": "npm-search",
+  "description": "A pi agent extension that runs a gated build pipeline unattended — enforces phases, validates with deterministic gates, and keeps working for hours or days without losing the plan.",
+  "metadata": {
+    "github_url": "https://github.com/bakr-bagaber/infinity-harness",
+    "npm_name": "infinity-harness",
+    "description": "A pi agent extension that runs a gated build pipeline unattended — enforces phases, validates with deterministic gates, and keeps working for hours or days without losing the plan.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "harness",
+      "agent-pipeline",
+      "autonomous",
+      "continuous-development"
+    ],
+    "version": "2.4.0",
+    "published_at": "2026-08-24T12:43:40.031Z",
+    "npm_downloads_monthly": 935,
+    "npm_downloads_weekly": 935,
+    "npm_score_final": 21.462536,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

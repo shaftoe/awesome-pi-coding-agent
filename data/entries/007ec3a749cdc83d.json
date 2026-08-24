@@ -1,0 +1,30 @@
+{
+  "id": "pi-deepseek-route",
+  "name": "pi-deepseek-route",
+  "url": "https://www.npmjs.com/package/pi-deepseek-route",
+  "source": "npm-search",
+  "description": "Task-aware reasoning-mode routing for DeepSeek V4 Flash — Flash-only gate, first-turn anchoring, near-field guidance. Ported from dsh-routing-suite mode-boost (official-API measured).",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-deepseek-route",
+    "description": "Task-aware reasoning-mode routing for DeepSeek V4 Flash — Flash-only gate, first-turn anchoring, near-field guidance. Ported from dsh-routing-suite mode-boost (official-API measured).",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "deepseek",
+      "flash",
+      "routing",
+      "reasoning"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-17T09:58:40.859Z",
+    "npm_downloads_monthly": 601,
+    "npm_downloads_weekly": 601,
+    "npm_score_final": 19.746395,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

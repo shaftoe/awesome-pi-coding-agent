@@ -8,7 +8,7 @@
     "github_url": "https://github.com/nicobailon/pi-model-switch",
     "repo_full_name": "nicobailon/pi-model-switch",
     "description": "Pi coding agent extension that gives the agent the ability to switch models on its own",
-    "stars": 93,
+    "stars": 96,
     "forks": 9,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-01-18T19:44:29Z",
     "pushed_at": "2026-08-23T16:27:21Z",
-    "updated_at": "2026-08-23T16:25:04Z",
+    "updated_at": "2026-08-24T21:29:57Z",
     "size": 37,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

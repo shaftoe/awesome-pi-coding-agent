@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_sourceforge.net_download",
+  "name": "Download pi-0.84.2-source.tar.gz (Pi Agent)",
+  "url": "https://sourceforge.net/projects/pi-agent.mirror/files/v0.84.2/pi-0.84.2-source.tar.gz/download",
+  "source": "brave-web-search",
+  "description": "Download Pi Agent pi-0.84.2-source.tar.gz. AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI",
+  "metadata": {
+    "title": "Download pi-0.84.2-source.tar.gz (Pi Agent)",
+    "name": "Download pi-0.84.2-source.tar.gz (Pi Agent)",
+    "description": "Download Pi Agent pi-0.84.2-source.tar.gz. AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI",
+    "published_at": "2026-08-21T01:55:03",
+    "source_site": "SourceForge",
+    "source_url": "https://sourceforge.net/projects/pi-agent.mirror/files/v0.84.2/pi-0.84.2-source.tar.gz/download",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

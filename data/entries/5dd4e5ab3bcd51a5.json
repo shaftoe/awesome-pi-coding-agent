@@ -1,0 +1,25 @@
+{
+  "id": "@guionai/pi-web",
+  "name": "@guionai/pi-web",
+  "url": "https://www.npmjs.com/package/@guionai/pi-web",
+  "source": "npm-search",
+  "description": "Pi extension for web research with direct and optional agent-browser page-fetch backends.",
+  "metadata": {
+    "github_url": "https://github.com/GuionAI/web",
+    "npm_name": "@guionai/pi-web",
+    "description": "Pi extension for web research with direct and optional agent-browser page-fetch backends.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-24T17:10:32.491Z",
+    "npm_downloads_monthly": 387,
+    "npm_downloads_weekly": 387,
+    "npm_score_final": 18.034948,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

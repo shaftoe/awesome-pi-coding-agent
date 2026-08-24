@@ -1,0 +1,30 @@
+{
+  "id": "pi-keep-going",
+  "name": "pi-keep-going",
+  "url": "https://www.npmjs.com/package/pi-keep-going",
+  "source": "npm-search",
+  "description": "Pi extension: one-shot /kg scheduling and usage-limit auto-resume for Anthropic, Codex, and Gemini.",
+  "metadata": {
+    "github_url": "https://github.com/ohlulu/pi-keep-going",
+    "npm_name": "pi-keep-going",
+    "description": "Pi extension: one-shot /kg scheduling and usage-limit auto-resume for Anthropic, Codex, and Gemini.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "scheduler",
+      "usage-limit",
+      "auto-resume"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-08-17T07:07:08.499Z",
+    "npm_downloads_monthly": 140,
+    "npm_downloads_weekly": 140,
+    "npm_score_final": 15.144006,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

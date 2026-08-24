@@ -8,7 +8,7 @@
     "github_url": "https://github.com/daugasauron/piodide",
     "repo_full_name": "daugasauron/piodide",
     "description": "A pi coding-agent terminal running entirely in the browser with Ghostty Web and Pyodide",
-    "stars": 9,
+    "stars": 10,
     "forks": 0,
     "open_issues": 4,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-25T06:09:20Z",
     "pushed_at": "2026-08-20T23:26:24Z",
-    "updated_at": "2026-08-20T23:27:07Z",
+    "updated_at": "2026-08-24T01:38:32Z",
     "size": 6560,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

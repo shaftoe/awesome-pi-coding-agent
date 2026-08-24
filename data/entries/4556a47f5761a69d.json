@@ -1,0 +1,33 @@
+{
+  "id": "pi-dsh-mimic",
+  "name": "pi-dsh-mimic",
+  "url": "https://www.npmjs.com/package/pi-dsh-mimic",
+  "source": "npm-search",
+  "description": "Unlock DeepSeek V4 Pro's DSH Minimal capability in Pi while keeping Pi's full plugin ecosystem",
+  "metadata": {
+    "github_url": "https://github.com/Utopia-V/mixagents",
+    "npm_name": "pi-dsh-mimic",
+    "description": "Unlock DeepSeek V4 Pro's DSH Minimal capability in Pi while keeping Pi's full plugin ecosystem",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "deepseek",
+      "deepseek-v4-pro",
+      "dsh",
+      "dsh-minimal",
+      "mimic",
+      "pi-plugins"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-17T12:45:28.849Z",
+    "npm_downloads_monthly": 318,
+    "npm_downloads_weekly": 318,
+    "npm_score_final": 17.340221,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

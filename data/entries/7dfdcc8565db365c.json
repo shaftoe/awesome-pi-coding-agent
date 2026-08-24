@@ -1,0 +1,30 @@
+{
+  "id": "MircoBlitz-pi-simple-handoff",
+  "name": "MircoBlitz-pi-simple-handoff",
+  "url": "https://github.com/MircoBlitz/pi-simple-handoff",
+  "source": "github-search",
+  "description": "Continue work in a fresh Pi session without losing momentum.",
+  "metadata": {
+    "github_url": "https://github.com/MircoBlitz/pi-simple-handoff",
+    "repo_full_name": "MircoBlitz/pi-simple-handoff",
+    "description": "Continue work in a fresh Pi session without losing momentum.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "context-window",
+      "handoff",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-24T15:01:07Z",
+    "pushed_at": "2026-08-24T15:57:11Z",
+    "updated_at": "2026-08-24T16:22:12Z",
+    "size": 49,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

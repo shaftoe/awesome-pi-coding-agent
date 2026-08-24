@@ -1,0 +1,31 @@
+{
+  "id": "@misunders2d/learn-anything",
+  "name": "@misunders2d/learn-anything",
+  "url": "https://www.npmjs.com/package/@misunders2d/learn-anything",
+  "source": "npm-search",
+  "description": "Build adaptive browser learning workspaces for any topic or project",
+  "metadata": {
+    "github_url": "https://github.com/misunders2d/learn-anything",
+    "npm_name": "@misunders2d/learn-anything",
+    "description": "Build adaptive browser learning workspaces for any topic or project",
+    "keywords": [
+      "agent-skill",
+      "pi-package",
+      "omp",
+      "coding-agent",
+      "learning",
+      "adaptive-ui",
+      "local-first"
+    ],
+    "version": "0.1.7",
+    "published_at": "2026-08-24T16:19:25.845Z",
+    "npm_downloads_monthly": 242,
+    "npm_downloads_weekly": 242,
+    "npm_score_final": 16.682856,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}
