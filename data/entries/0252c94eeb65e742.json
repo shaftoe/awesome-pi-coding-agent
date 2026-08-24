@@ -8,7 +8,7 @@
     "github_url": "https://github.com/kartikkabadi/pi-adviser",
     "repo_full_name": "kartikkabadi/pi-adviser",
     "description": "Lean second-opinion reviewer for the pi coding agent. Watches tool activity, asks the main agent sharp questions. One small model call per turn.",
-    "stars": 14,
+    "stars": 15,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-11T10:39:08Z",
     "pushed_at": "2026-08-23T11:02:08Z",
-    "updated_at": "2026-08-23T09:43:02Z",
+    "updated_at": "2026-08-24T16:47:10Z",
     "size": 68,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

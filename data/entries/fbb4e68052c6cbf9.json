@@ -1,0 +1,25 @@
+{
+  "id": "xy1092-pi-switch",
+  "name": "xy1092-pi-switch",
+  "url": "https://github.com/xy1092/pi-switch",
+  "source": "github-search",
+  "description": "Desktop provider and model configuration manager for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/xy1092/pi-switch",
+    "repo_full_name": "xy1092/pi-switch",
+    "description": "Desktop provider and model configuration manager for Pi Coding Agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-27T12:32:35Z",
+    "pushed_at": "2026-07-28T09:38:08Z",
+    "updated_at": "2026-08-24T15:24:19Z",
+    "size": 396,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

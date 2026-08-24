@@ -10,7 +10,7 @@
     "description": "Pi as the Vault Intelligence: it embeds the Pi agent directly inside your Obsidian vault",
     "stars": 17,
     "forks": 3,
-    "open_issues": 2,
+    "open_issues": 0,
     "topics": [
       "agent",
       "obsidian-plugin"
@@ -18,9 +18,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-23T13:48:13Z",
-    "pushed_at": "2026-08-22T07:27:17Z",
-    "updated_at": "2026-08-22T07:27:17Z",
-    "size": 9930,
+    "pushed_at": "2026-08-24T16:21:42Z",
+    "updated_at": "2026-08-24T16:26:38Z",
+    "size": 10129,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

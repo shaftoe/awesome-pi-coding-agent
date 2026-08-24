@@ -1,0 +1,31 @@
+{
+  "id": "@easiest-ai/pi-compaction-manager",
+  "name": "@easiest-ai/pi-compaction-manager",
+  "url": "https://www.npmjs.com/package/@easiest-ai/pi-compaction-manager",
+  "source": "npm-search",
+  "description": "Makes pi's auto-compaction configurable: cap context windows, set compaction trigger targets, improve summarization quality, and manage settings via an interactive /compaction command.",
+  "metadata": {
+    "github_url": "https://github.com/easiest-ai/pi-compaction-manager",
+    "npm_name": "@easiest-ai/pi-compaction-manager",
+    "description": "Makes pi's auto-compaction configurable: cap context windows, set compaction trigger targets, improve summarization quality, and manage settings via an interactive /compaction command.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "compaction",
+      "context",
+      "context-window",
+      "auto-compact",
+      "summarization"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-08-13T05:18:37.448Z",
+    "npm_downloads_monthly": 78,
+    "npm_downloads_weekly": 78,
+    "npm_score_final": 13.795432,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

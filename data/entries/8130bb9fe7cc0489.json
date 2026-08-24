@@ -10,7 +10,7 @@
     "description": "Pi packages monorepo — installable extensions for the pi coding agent.",
     "stars": 10,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "cli",
       "coding-agent",
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-17T20:17:52Z",
-    "pushed_at": "2026-08-20T21:14:19Z",
+    "pushed_at": "2026-08-24T22:49:46Z",
     "updated_at": "2026-08-20T21:16:55Z",
-    "size": 624,
+    "size": 673,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

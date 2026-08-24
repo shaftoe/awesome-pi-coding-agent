@@ -8,9 +8,9 @@
     "github_url": "https://github.com/kkgogogo17/pi-pstack",
     "repo_full_name": "kkgogogo17/pi-pstack",
     "description": "Pi-native port of pstack skills, sticky Poteto Mode, and isolated subagents.",
-    "stars": 3,
-    "forks": 1,
-    "open_issues": 1,
+    "stars": 4,
+    "forks": 2,
+    "open_issues": 2,
     "topics": [
       "pi",
       "pi-package",
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-08-08T03:34:56Z",
     "pushed_at": "2026-08-08T03:54:54Z",
-    "updated_at": "2026-08-20T11:34:31Z",
+    "updated_at": "2026-08-24T05:43:00Z",
     "size": 253,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

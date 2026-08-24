@@ -8,7 +8,7 @@
     "github_url": "https://github.com/regadas/pi-acp",
     "repo_full_name": "regadas/pi-acp",
     "description": "Independently maintained ACP adapter for the pi coding agent",
-    "stars": 1,
+    "stars": 2,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-07-10T12:25:09Z",
     "pushed_at": "2026-08-18T10:00:31Z",
-    "updated_at": "2026-08-18T10:03:41Z",
+    "updated_at": "2026-08-24T06:29:58Z",
     "size": 781,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

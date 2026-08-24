@@ -1,0 +1,30 @@
+{
+  "id": "13075061852-pi-model-quota",
+  "name": "13075061852-pi-model-quota",
+  "url": "https://github.com/13075061852/pi-model-quota",
+  "source": "github-search",
+  "description": "Lightweight Pi extension for model quota, balance, and reset-time display",
+  "metadata": {
+    "github_url": "https://github.com/13075061852/pi-model-quota",
+    "repo_full_name": "13075061852/pi-model-quota",
+    "description": "Lightweight Pi extension for model quota, balance, and reset-time display",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "model-quota",
+      "pi-extension",
+      "pi-package",
+      "rate-limit"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-24T13:19:17Z",
+    "pushed_at": "2026-08-24T13:22:06Z",
+    "updated_at": "2026-08-24T13:23:30Z",
+    "size": 19,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_jprokay.com_018-pi-coding-agent",
+  "name": "pi: The Coding Agent For Your Workflow | jprokay",
+  "url": "https://jprokay.com/post/018-pi-coding-agent",
+  "source": "brave-web-search",
+  "description": "Most coding agents (and especially their interfaces) have limited extensibility. pi is a minimal terminal harness you extend with TypeScript — custom tools, commands, and even the TUI. Here's how I built three extensions that turned it into an agentic IDE.",
+  "metadata": {
+    "title": "pi: The Coding Agent For Your Workflow | jprokay",
+    "name": "pi: The Coding Agent For Your Workflow | jprokay",
+    "description": "Most coding agents (and especially their interfaces) have limited extensibility. pi is a minimal terminal harness you extend with TypeScript — custom tools, commands, and even the TUI. Here's how I built three extensions that turned it into an agentic IDE.",
+    "published_at": "2026-02-15T00:00:00",
+    "source_site": "jprokay",
+    "source_url": "https://jprokay.com/post/018-pi-coding-agent",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

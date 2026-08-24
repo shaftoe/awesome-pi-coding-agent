@@ -8,7 +8,7 @@
     "github_url": "https://github.com/JC1DA/pi-cockpit",
     "repo_full_name": "JC1DA/pi-cockpit",
     "description": "Stream your pi coding session to a password-protected web page: watch the agent work live from your LAN and steer it with messages and a stop button.",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-17T07:51:12Z",
     "pushed_at": "2026-08-19T05:51:46Z",
-    "updated_at": "2026-08-19T15:21:12Z",
+    "updated_at": "2026-08-24T04:43:22Z",
     "size": 642,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

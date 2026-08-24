@@ -1,0 +1,25 @@
+{
+  "id": "heykb-pi-skill-path-hint",
+  "name": "heykb-pi-skill-path-hint",
+  "url": "https://github.com/heykb/pi-skill-path-hint",
+  "source": "github-search",
+  "description": "Pi extension: invoke skill-package scripts by bare filename — lazy PATH registration + contextual hint",
+  "metadata": {
+    "github_url": "https://github.com/heykb/pi-skill-path-hint",
+    "repo_full_name": "heykb/pi-skill-path-hint",
+    "description": "Pi extension: invoke skill-package scripts by bare filename — lazy PATH registration + contextual hint",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-24T09:21:58Z",
+    "pushed_at": "2026-08-24T10:54:25Z",
+    "updated_at": "2026-08-24T10:55:39Z",
+    "size": 865,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

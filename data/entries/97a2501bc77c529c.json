@@ -9,8 +9,8 @@
     "repo_full_name": "leon-zym/pi-agent-web",
     "description": "A local web workbench for Pi Coding Agent's RPC mode.",
     "stars": 1,
-    "forks": 0,
-    "open_issues": 12,
+    "forks": 1,
+    "open_issues": 13,
     "topics": [
       "pi-coding-agent",
       "pi-package",
