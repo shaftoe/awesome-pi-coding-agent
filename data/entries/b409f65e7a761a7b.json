@@ -1,0 +1,34 @@
+{
+  "id": "revenkroz-pi-schema-harness",
+  "name": "revenkroz-pi-schema-harness",
+  "url": "https://github.com/revenkroz/pi-schema-harness",
+  "source": "github-search",
+  "description": "Schema-harness for the pi coding agent: the agent records its assumptions as beliefs with shell checks, verifies them before planning, and drops any plan reality disagrees with",
+  "metadata": {
+    "github_url": "https://github.com/revenkroz/pi-schema-harness",
+    "repo_full_name": "revenkroz/pi-schema-harness",
+    "description": "Schema-harness for the pi coding agent: the agent records its assumptions as beliefs with shell checks, verifies them before planning, and drops any plan reality disagrees with",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-harness",
+      "ai-agents",
+      "coding-agent",
+      "llm-agent",
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "world-model"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-24T21:32:28Z",
+    "pushed_at": "2026-08-24T21:32:32Z",
+    "updated_at": "2026-08-25T22:42:39Z",
+    "size": 17,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

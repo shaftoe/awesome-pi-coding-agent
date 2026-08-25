@@ -8,7 +8,7 @@
     "github_url": "https://github.com/kevinvargasl/pi-quiet-activity",
     "repo_full_name": "kevinvargasl/pi-quiet-activity",
     "description": "Final-answer-only interactive mode with live activity labels for Pi.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-08-15T03:43:45Z",
     "pushed_at": "2026-08-24T00:50:47Z",
-    "updated_at": "2026-08-24T00:51:00Z",
+    "updated_at": "2026-08-25T15:35:24Z",
     "size": 75,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

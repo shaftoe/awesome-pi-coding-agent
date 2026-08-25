@@ -8,9 +8,9 @@
     "github_url": "https://github.com/vekexasia/pi-extensible-workflows",
     "repo_full_name": "vekexasia/pi-extensible-workflows",
     "description": "Deterministic multi-agent workflow orchestration for Pi",
-    "stars": 192,
-    "forks": 21,
-    "open_issues": 9,
+    "stars": 193,
+    "forks": 22,
+    "open_issues": 12,
     "topics": [
       "herdr-plugin",
       "pi",
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-07-12T20:45:52Z",
     "pushed_at": "2026-08-24T07:15:54Z",
-    "updated_at": "2026-08-24T16:03:38Z",
+    "updated_at": "2026-08-25T05:16:04Z",
     "size": 5998,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

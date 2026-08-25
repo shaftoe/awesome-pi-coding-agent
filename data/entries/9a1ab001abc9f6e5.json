@@ -1,0 +1,34 @@
+{
+  "id": "owo-local",
+  "name": "owo-local",
+  "url": "https://www.npmjs.com/package/owo-local",
+  "source": "npm-search",
+  "description": "Connect Pi to local and self-hosted OpenAI-compatible LLM servers with configurable URL and optional API key",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "owo-local",
+    "description": "Connect Pi to local and self-hosted OpenAI-compatible LLM servers with configurable URL and optional API key",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "local-llm",
+      "openai-compatible",
+      "self-hosted",
+      "sglang",
+      "ollama",
+      "lm-studio",
+      "llama.cpp",
+      "vllm"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-08-18T19:36:52.915Z",
+    "npm_downloads_monthly": 395,
+    "npm_downloads_weekly": 259,
+    "npm_score_final": 19.419619,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ackneal-pi-gear",
+  "name": "ackneal-pi-gear",
+  "url": "https://github.com/ackneal/pi-gear",
+  "source": "github-search",
+  "description": "Pi coding-agent extension with macOS-sandboxed Bash, filesystem and network policy, task planning, subagents, and LSP tools.",
+  "metadata": {
+    "github_url": "https://github.com/ackneal/pi-gear",
+    "repo_full_name": "ackneal/pi-gear",
+    "description": "Pi coding-agent extension with macOS-sandboxed Bash, filesystem and network policy, task planning, subagents, and LSP tools.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agentic-ai",
+      "devloper-tools",
+      "pi-coding-agnet",
+      "pi-extension",
+      "pi-package",
+      "sandbox-environment"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-16T16:45:42Z",
+    "pushed_at": "2026-08-25T05:16:48Z",
+    "updated_at": "2026-08-25T05:17:14Z",
+    "size": 201,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

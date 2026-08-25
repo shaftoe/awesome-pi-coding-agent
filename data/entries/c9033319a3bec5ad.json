@@ -1,0 +1,30 @@
+{
+  "id": "pi-cursor-bridge",
+  "name": "pi-cursor-bridge",
+  "url": "https://www.npmjs.com/package/pi-cursor-bridge",
+  "source": "npm-search",
+  "description": "Let Pi plan and verify work while Grok Build executes through the persistent Grok Build Supervisor.",
+  "metadata": {
+    "github_url": "https://github.com/Vanyangyang/cursor-bridge",
+    "npm_name": "pi-grok-build-supervisor",
+    "description": "Let Pi plan and verify work while Grok Build executes through the persistent Grok Build Supervisor.",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "grok-build",
+      "mcp",
+      "agent-orchestration",
+      "coding-agent"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-08-25T11:40:00.982Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

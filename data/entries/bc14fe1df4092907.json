@@ -1,0 +1,33 @@
+{
+  "id": "pi-pr-session-title",
+  "name": "pi-pr-session-title",
+  "url": "https://www.npmjs.com/package/pi-pr-session-title",
+  "source": "npm-search",
+  "description": "Names PR-review sessions after the pull request's real subject, so the session list and terminal tab read \"PR review 1234: \".",
+  "metadata": {
+    "github_url": "https://github.com/lepht/pi-pr-session-title",
+    "npm_name": "pi-pr-session-title",
+    "description": "Names PR-review sessions after the pull request's real subject, so the session list and terminal tab read \"PR review 1234: <PR title>\".",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "oh-my-pi",
+      "omp",
+      "extension",
+      "github",
+      "pull-request",
+      "session-title"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-25T20:07:27.880Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/linlic2005/linlic-agent",
     "repo_full_name": "linlic2005/linlic-agent",
     "description": "Research workflow package for Pi Coding Agent",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-03T08:24:04Z",
     "pushed_at": "2026-06-15T13:06:00Z",
-    "updated_at": "2026-06-15T05:47:25Z",
+    "updated_at": "2026-08-25T12:07:53Z",
     "size": 5556,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

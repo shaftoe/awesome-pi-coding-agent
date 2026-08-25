@@ -20,14 +20,16 @@
       "macos",
       "mcp",
       "multi-agent",
-      "orchestrator"
+      "orchestrator",
+      "pi-agent",
+      "pi-coding-agent"
     ],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-04T12:34:52Z",
-    "pushed_at": "2026-08-24T21:38:01Z",
-    "updated_at": "2026-08-24T21:39:39Z",
-    "size": 13848,
+    "pushed_at": "2026-08-25T19:18:08Z",
+    "updated_at": "2026-08-25T18:27:24Z",
+    "size": 14698,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

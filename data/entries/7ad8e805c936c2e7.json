@@ -1,0 +1,37 @@
+{
+  "id": "agent-ste",
+  "name": "agent-ste",
+  "url": "https://www.npmjs.com/package/agent-ste",
+  "source": "npm-search",
+  "description": "Simplified Technical English (ASD-STE100) enforcement for a coding agent. It gates a write, a commit message and a reply in pi and in Claude Code.",
+  "metadata": {
+    "github_url": "https://github.com/ctotheameron/agent-ste",
+    "npm_name": "agent-ste",
+    "description": "Simplified Technical English (ASD-STE100) enforcement for a coding agent. It gates a write, a commit message and a reply in pi and in Claude Code.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "ste",
+      "asd-ste100",
+      "simplified-technical-english",
+      "technical-writing",
+      "claude-code",
+      "claude-code-plugin",
+      "lint",
+      "linter",
+      "prose",
+      "gleam"
+    ],
+    "version": "0.5.2",
+    "published_at": "2026-08-18T07:03:38.327Z",
+    "npm_downloads_monthly": 394,
+    "npm_downloads_weekly": 368,
+    "npm_score_final": 18.26089,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

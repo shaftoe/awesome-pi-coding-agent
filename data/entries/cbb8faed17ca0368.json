@@ -1,0 +1,25 @@
+{
+  "id": "GeorgeTheo99-pi-shared",
+  "name": "GeorgeTheo99-pi-shared",
+  "url": "https://github.com/GeorgeTheo99/pi-shared",
+  "source": "github-search",
+  "description": "Shared Pi coding-agent resources: extensions (memory, subagents, browser, deep-research, work plans), skills, prompts, themes, workflows",
+  "metadata": {
+    "github_url": "https://github.com/GeorgeTheo99/pi-shared",
+    "repo_full_name": "GeorgeTheo99/pi-shared",
+    "description": "Shared Pi coding-agent resources: extensions (memory, subagents, browser, deep-research, work plans), skills, prompts, themes, workflows",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-25T18:50:34Z",
+    "pushed_at": "2026-08-25T22:13:57Z",
+    "updated_at": "2026-08-25T22:17:02Z",
+    "size": 979,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

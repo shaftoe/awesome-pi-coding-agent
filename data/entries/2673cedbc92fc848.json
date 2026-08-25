@@ -3,21 +3,21 @@
   "name": "@earthchen/pi-proactive-compact",
   "url": "https://www.npmjs.com/package/@earthchen/pi-proactive-compact",
   "source": "npm-search",
-  "description": "Proactive context compaction for pi: agent-judged + occupancy-threshold compaction.",
+  "description": "Mid-line '/' triggers /skill:* command suggestions in the pi editor.",
   "metadata": {
     "github_url": "https://github.com/EarthChen/pi-extensions",
-    "npm_name": "@earthchen/pi-proactive-compact",
-    "description": "Proactive context compaction for pi: agent-judged + occupancy-threshold compaction.",
+    "npm_name": "@earthchen/pi-skill-hint",
+    "description": "Mid-line '/' triggers /skill:* command suggestions in the pi editor.",
     "keywords": [
       "pi",
       "pi-agent",
       "pi-package",
       "extension",
-      "compaction",
-      "context"
+      "autocomplete",
+      "skills"
     ],
-    "version": "0.0.2",
-    "published_at": "2026-08-22T03:04:07.469Z",
+    "version": "0.0.5",
+    "published_at": "2026-08-25T11:46:55.924Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

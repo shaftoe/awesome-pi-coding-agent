@@ -49411,5 +49411,241 @@
 		"reason": "Not Pi coding agent — Beta Theta Pi fraternity theme",
 		"blacklisted_at": "2026-08-24T23:21:57.301877667Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=oONWQBOUbbo",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-25T23:22:57.999222717Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://wangxiancao.github.io/pi_doc_zh/themes",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-25T23:22:58.02477369Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/mcp-orchestrate",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-25T23:22:58.07954949Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/heycalvin/AiAgentLearn",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-25T23:22:58.119733367Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://piwheels.org/",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-25T23:22:58.1486353Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pgooone/next-step-pi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-25T23:22:58.194730195Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/academica-sh/academica-mcp",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-25T23:22:58.319372563Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/work-with-llamacpp",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-25T23:22:58.405645115Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=FYO_2FP56G8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-25T23:22:58.43336986Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/getsimpledirect/vinci-code-cli",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-25T23:22:58.478723087Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-web-console",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-25T23:22:58.496309266Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/zhaji2333/ck-finder",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-25T23:22:58.505524506Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=f6-VdUrrAEM",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-25T23:22:58.545704508Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=xBByvFrqmWU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-25T23:22:58.563523519Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.pishop.us/product-category/raspberry-pi/raspberry-pi-5/",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-25T23:22:58.574095034Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=1ZMWq6GmrtI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-25T23:22:58.585856983Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@liziy/model-provider",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-25T23:22:58.654578734Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/FaqFirebase/pi-desktop",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-08-25T23:22:58.675901254Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/FleetingEcho/dsh-handoff",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-25T23:22:58.710952515Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=7nY3UfQjhaY",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-25T23:22:58.791204033Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/tridha643/pi-oc2",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-25T23:22:58.82290771Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/helsome/miniclaw",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-25T23:22:58.873192908Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pinet/agent-goal",
+		"reason": "pi network crypto signal: \"pinet\"",
+		"blacklisted_at": "2026-08-25T23:22:58.881407598Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/superfly/pi-sprites",
+		"reason": "hardware-related: Fly.io Sprites",
+		"blacklisted_at": "2026-08-25T23:25:29.645441008Z",
+		"source": "manual"
 	}
 ]
