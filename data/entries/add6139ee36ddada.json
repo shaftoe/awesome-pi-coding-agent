@@ -1,0 +1,31 @@
+{
+  "id": "jillesme-pi-simple-ntfy",
+  "name": "jillesme-pi-simple-ntfy",
+  "url": "https://github.com/jillesme/pi-simple-ntfy",
+  "source": "github-search",
+  "description": "A small Pi extension for explicit, model-triggered ntfy notifications.",
+  "metadata": {
+    "github_url": "https://github.com/jillesme/pi-simple-ntfy",
+    "repo_full_name": "jillesme/pi-simple-ntfy",
+    "description": "A small Pi extension for explicit, model-triggered ntfy notifications.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "notifications",
+      "ntfy",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-24T15:14:41Z",
+    "pushed_at": "2026-08-24T15:14:46Z",
+    "updated_at": "2026-08-25T12:35:14Z",
+    "size": 4,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "Self-hosted browser workspace to run coding agents in parallel, steer work as it runs, review diffs, and ship.",
     "stars": 62,
     "forks": 12,
-    "open_issues": 40,
+    "open_issues": 39,
     "topics": [
       "agent-harness",
       "agent-orchestration",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-23T13:42:57Z",
-    "pushed_at": "2026-08-24T21:52:22Z",
-    "updated_at": "2026-08-24T21:52:26Z",
-    "size": 20742,
+    "pushed_at": "2026-08-25T20:49:01Z",
+    "updated_at": "2026-08-25T20:49:04Z",
+    "size": 20815,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

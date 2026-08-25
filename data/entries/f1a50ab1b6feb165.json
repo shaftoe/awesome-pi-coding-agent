@@ -1,0 +1,33 @@
+{
+  "id": "pi-freeflow",
+  "name": "pi-freeflow",
+  "url": "https://www.npmjs.com/package/pi-freeflow",
+  "source": "npm-search",
+  "description": "Thin provider for OMP/Pi — model list + dumb relay proxy + log; host pi-ai owns thinking/normalization",
+  "metadata": {
+    "github_url": "https://github.com/trefeon/pi-freeflow",
+    "npm_name": "pi-freeflow",
+    "description": "Thin provider for OMP/Pi — model list + dumb relay proxy + log; host pi-ai owns thinking/normalization",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "oh-my-pi",
+      "omp",
+      "free-models",
+      "opencode",
+      "kilocode",
+      "ai-models",
+      "relay"
+    ],
+    "version": "1.4.0",
+    "published_at": "2026-08-25T20:23:11.331Z",
+    "npm_downloads_monthly": 2670,
+    "npm_downloads_weekly": 2670,
+    "npm_score_final": 26.613354,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

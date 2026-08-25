@@ -8,7 +8,7 @@
     "github_url": "https://github.com/abhishekgahlot2/pi-dsh",
     "repo_full_name": "abhishekgahlot2/pi-dsh",
     "description": "Pi coding-agent harness with durable sessions, causal history, reversible components, and approval-gated host self-extension.",
-    "stars": 33,
+    "stars": 27,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -33,7 +33,7 @@
     "archived": false,
     "created_at": "2026-08-16T20:33:57Z",
     "pushed_at": "2026-08-17T15:46:52Z",
-    "updated_at": "2026-08-24T07:16:43Z",
+    "updated_at": "2026-08-25T08:22:29Z",
     "size": 1025,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

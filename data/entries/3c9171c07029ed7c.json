@@ -1,0 +1,29 @@
+{
+  "id": "@sanif/pi-chat-summary",
+  "name": "@sanif/pi-chat-summary",
+  "url": "https://www.npmjs.com/package/@sanif/pi-chat-summary",
+  "source": "npm-search",
+  "description": "A concise session recap with responsive bullet details for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/sanif/pi-chat-summary",
+    "npm_name": "@sanif/pi-chat-summary",
+    "description": "A concise session recap with responsive bullet details for Pi.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "chat-summary",
+      "session-summary",
+      "developer-tools"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-18T10:55:09.342Z",
+    "npm_downloads_monthly": 177,
+    "npm_downloads_weekly": 177,
+    "npm_score_final": 16.61797,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

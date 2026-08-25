@@ -1,0 +1,37 @@
+{
+  "id": "@munstar0s/pishora",
+  "name": "@munstar0s/pishora",
+  "url": "https://www.npmjs.com/package/@munstar0s/pishora",
+  "source": "npm-search",
+  "description": "Multi-model deliberation (OpenRouter fusion-style) as a native pi coding-agent extension",
+  "metadata": {
+    "github_url": "https://github.com/Munstar0s/PiShora",
+    "npm_name": "@munstar0s/pishora",
+    "description": "Multi-model deliberation (OpenRouter fusion-style) as a native pi coding-agent extension",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-agent",
+      "pi-coding-agent",
+      "extension",
+      "openrouter",
+      "openrouter fusion",
+      "fusion",
+      "multi-model",
+      "deliberation",
+      "fusion harness",
+      "ai",
+      "llm"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-25T19:42:01.466Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

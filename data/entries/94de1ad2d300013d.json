@@ -1,0 +1,31 @@
+{
+  "id": "xchang1121-pi",
+  "name": "xchang1121-pi",
+  "url": "https://github.com/xchang1121/pi",
+  "source": "github-search",
+  "description": "Standalone speculative-action package for Pi",
+  "metadata": {
+    "github_url": "https://github.com/xchang1121/pi",
+    "repo_full_name": "xchang1121/pi",
+    "description": "Standalone speculative-action package for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "pattern-learning",
+      "pi-agent",
+      "speculative-execution",
+      "tool-use"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-25T06:10:08Z",
+    "pushed_at": "2026-08-25T14:55:12Z",
+    "updated_at": "2026-08-25T15:04:27Z",
+    "size": 1121,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

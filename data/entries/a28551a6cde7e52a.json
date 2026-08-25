@@ -8,7 +8,7 @@
     "github_url": "https://github.com/kolt-mcb/pocket-pi",
     "repo_full_name": "kolt-mcb/pocket-pi",
     "description": "Your pi session, live on your phone — full terminal mirror, QR pairing, end-to-end encrypted",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -20,7 +20,7 @@
     "archived": false,
     "created_at": "2026-05-28T15:46:50Z",
     "pushed_at": "2026-08-04T17:22:08Z",
-    "updated_at": "2026-08-04T17:25:10Z",
+    "updated_at": "2026-08-25T17:44:29Z",
     "size": 6219,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

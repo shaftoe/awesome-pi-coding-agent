@@ -8,7 +8,7 @@
     "github_url": "https://github.com/v2nic/pi-caveman",
     "repo_full_name": "v2nic/pi-caveman",
     "description": "Caveman mode for Pi coding agent - ultra-compressed communication that cuts ~75% of output tokens",
-    "stars": 45,
+    "stars": 46,
     "forks": 4,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-07T13:48:12Z",
     "pushed_at": "2026-04-07T13:57:29Z",
-    "updated_at": "2026-08-24T21:30:05Z",
+    "updated_at": "2026-08-25T07:57:58Z",
     "size": 8,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,30 @@
+{
+  "id": "@kennyfrc/pi-deepseek-minimal-mode",
+  "name": "@kennyfrc/pi-deepseek-minimal-mode",
+  "url": "https://www.npmjs.com/package/@kennyfrc/pi-deepseek-minimal-mode",
+  "source": "npm-search",
+  "description": "Strict-by-default DeepSeek Harness composition for Pi, with an opt-in augmented profile that inlines configured extra tool definitions and durable AGENTS context.",
+  "metadata": {
+    "github_url": "https://github.com/kennyfrc/pi-deepseek-minimal-mode",
+    "npm_name": "@kennyfrc/pi-deepseek-minimal-mode",
+    "description": "Strict-by-default DeepSeek Harness composition for Pi, with an opt-in augmented profile that inlines configured extra tool definitions and durable AGENTS context.",
+    "keywords": [
+      "pi-package",
+      "deepseek",
+      "minimal-mode",
+      "direct-tools",
+      "rl-parity",
+      "reminders"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-08-18T12:50:32.429Z",
+    "npm_downloads_monthly": 575,
+    "npm_downloads_weekly": 174,
+    "npm_score_final": 19.560732,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

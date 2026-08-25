@@ -1,0 +1,38 @@
+{
+  "id": "@rabjs/kit",
+  "name": "@rabjs/kit",
+  "url": "https://www.npmjs.com/package/@rabjs/kit",
+  "source": "npm-search",
+  "description": "Typed lodash-shaped utilities for humans and coding agents.",
+  "metadata": {
+    "github_url": "https://github.com/ximing/kit",
+    "npm_name": "@rabjs/kit",
+    "description": "Typed lodash-shaped utilities for humans and coding agents.",
+    "keywords": [
+      "utility",
+      "toolkit",
+      "lodash",
+      "helpers",
+      "typescript",
+      "array",
+      "object",
+      "string",
+      "function",
+      "promise",
+      "date",
+      "collection",
+      "pi-package",
+      "skills"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-08-25T05:55:35.890Z",
+    "npm_downloads_monthly": 186,
+    "npm_downloads_weekly": 179,
+    "npm_score_final": 16.79936,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

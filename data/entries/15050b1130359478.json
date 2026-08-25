@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Mohamed-El-Sharqawy/agent-tutor",
     "repo_full_name": "Mohamed-El-Sharqawy/agent-tutor",
     "description": "The agent-agnostic AI tutor skill that writes into your Obsidian vault — works with Claude Code, Codex, Cursor, Windsurf, pi, and 70+ agents.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 1,
     "topics": [
@@ -29,10 +29,10 @@
     "archived": false,
     "created_at": "2026-08-21T04:41:51Z",
     "pushed_at": "2026-08-22T05:09:21Z",
-    "updated_at": "2026-08-22T05:37:46Z",
+    "updated_at": "2026-08-25T12:23:40Z",
     "size": 24805,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

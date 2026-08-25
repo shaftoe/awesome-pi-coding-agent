@@ -1,0 +1,31 @@
+{
+  "id": "cloudcode-pi-provider",
+  "name": "cloudcode-pi-provider",
+  "url": "https://www.npmjs.com/package/cloudcode-pi-provider",
+  "source": "npm-search",
+  "description": "Use CloudCode.ONE pay-as-you-go models (DeepSeek V4, GLM, Kimi) inside the pi coding agent, with live pricing and automatic vision routing.",
+  "metadata": {
+    "github_url": "https://github.com/cloudforge-oy/cloudcode-pi-provider",
+    "npm_name": "cloudcode-pi-provider",
+    "description": "Use CloudCode.ONE pay-as-you-go models (DeepSeek V4, GLM, Kimi) inside the pi coding agent, with live pricing and automatic vision routing.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "cloudcode",
+      "deepseek",
+      "glm",
+      "kimi",
+      "llm-provider"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-18T11:40:45.995Z",
+    "npm_downloads_monthly": 146,
+    "npm_downloads_weekly": 146,
+    "npm_score_final": 14.623278,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
