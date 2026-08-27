@@ -1,0 +1,35 @@
+{
+  "id": "radiano2-pi-theme-nebula",
+  "name": "radiano2-pi-theme-nebula",
+  "url": "https://github.com/radiano2/pi-theme-nebula",
+  "source": "github-search",
+  "description": "Nebula — a deep-space theme + animated parallax starfield for the Pi CLI coding agent. Two theme variants, warp effect while the agent thinks, /space command.",
+  "metadata": {
+    "github_url": "https://github.com/radiano2/pi-theme-nebula",
+    "repo_full_name": "radiano2/pi-theme-nebula",
+    "description": "Nebula — a deep-space theme + animated parallax starfield for the Pi CLI coding agent. Two theme variants, warp effect while the agent thinks, /space command.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "animation",
+      "colorscheme",
+      "pi",
+      "pi-package",
+      "pi-theme",
+      "terminal",
+      "theme",
+      "tui",
+      "tui-widget"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-26T12:03:12Z",
+    "pushed_at": "2026-08-26T12:19:27Z",
+    "updated_at": "2026-08-26T12:20:52Z",
+    "size": 9,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

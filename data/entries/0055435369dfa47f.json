@@ -1,0 +1,35 @@
+{
+  "id": "PedroRojasF-pi-color-preview",
+  "name": "PedroRojasF-pi-color-preview",
+  "url": "https://github.com/PedroRojasF/pi-color-preview",
+  "source": "github-search",
+  "description": "🎨 Visual ANSI TrueColor swatches, WCAG 2.1 accessibility checker, and palette inspector for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/PedroRojasF/pi-color-preview",
+    "repo_full_name": "PedroRojasF/pi-color-preview",
+    "description": "🎨 Visual ANSI TrueColor swatches, WCAG 2.1 accessibility checker, and palette inspector for Pi Coding Agent",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "accessibility",
+      "ansi",
+      "colors",
+      "pi-extension",
+      "pi-package",
+      "terminal",
+      "truecolor",
+      "tui",
+      "wcag"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-26T19:08:46Z",
+    "pushed_at": "2026-08-26T20:20:46Z",
+    "updated_at": "2026-08-26T20:41:34Z",
+    "size": 193,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

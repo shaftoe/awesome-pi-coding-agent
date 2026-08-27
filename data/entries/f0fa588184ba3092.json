@@ -1,0 +1,28 @@
+{
+  "id": "pi-devin-provider",
+  "name": "pi-devin-provider",
+  "url": "https://www.npmjs.com/package/pi-devin-provider",
+  "source": "npm-search",
+  "description": "Devin OAuth provider for Pi",
+  "metadata": {
+    "github_url": "https://github.com/fadlee/pi-devin-provider",
+    "npm_name": "pi-devin-provider",
+    "description": "Devin OAuth provider for Pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "devin",
+      "cognition"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-19T23:06:08.003Z",
+    "npm_downloads_monthly": 167,
+    "npm_downloads_weekly": 167,
+    "npm_score_final": 16.046347,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

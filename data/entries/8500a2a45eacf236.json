@@ -1,0 +1,29 @@
+{
+  "id": "pi-agent-session-recap",
+  "name": "pi-agent-session-recap",
+  "url": "https://www.npmjs.com/package/pi-agent-session-recap",
+  "source": "npm-search",
+  "description": "Live task summary and detailed idle-session recap extension for the Pi coding agent.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-agent-session-recap",
+    "description": "Live task summary and detailed idle-session recap extension for the Pi coding agent.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "session-recap",
+      "task-summary"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-26T09:31:59.168Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

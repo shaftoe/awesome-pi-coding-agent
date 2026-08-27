@@ -1,0 +1,28 @@
+{
+  "id": "Jawfish-pi-background-tasks",
+  "name": "Jawfish-pi-background-tasks",
+  "url": "https://github.com/Jawfish/pi-background-tasks",
+  "source": "github-search",
+  "description": "Session-scoped background shell tasks for Pi",
+  "metadata": {
+    "github_url": "https://github.com/Jawfish/pi-background-tasks",
+    "repo_full_name": "Jawfish/pi-background-tasks",
+    "description": "Session-scoped background shell tasks for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-26T19:45:34Z",
+    "pushed_at": "2026-08-27T02:02:41Z",
+    "updated_at": "2026-08-27T02:05:14Z",
+    "size": 50,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

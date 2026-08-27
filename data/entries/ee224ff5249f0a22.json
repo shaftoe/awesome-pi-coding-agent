@@ -8,7 +8,7 @@
     "github_url": "https://github.com/skuramatata/my-pi-agent",
     "repo_full_name": "skuramatata/my-pi-agent",
     "description": "",
-    "stars": 94,
+    "stars": 112,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-08T10:57:30Z",
     "pushed_at": "2026-07-10T06:34:22Z",
-    "updated_at": "2026-08-25T22:29:24Z",
+    "updated_at": "2026-08-26T19:36:43Z",
     "size": 6313,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

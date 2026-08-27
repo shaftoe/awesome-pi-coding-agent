@@ -1,0 +1,27 @@
+{
+  "id": "@rambledesk/pi",
+  "name": "@rambledesk/pi",
+  "url": "https://www.npmjs.com/package/@rambledesk/pi",
+  "source": "npm-search",
+  "description": "Pi package for native RambleDesk request/get/wait feedback flow.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@rambledesk/pi",
+    "description": "Pi package for native RambleDesk request/get/wait feedback flow.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "rambledesk"
+    ],
+    "version": "0.3.0-rc.4",
+    "published_at": "2026-08-19T15:44:43.016Z",
+    "npm_downloads_monthly": 159,
+    "npm_downloads_weekly": 159,
+    "npm_score_final": 15.946599,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

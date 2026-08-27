@@ -10,7 +10,7 @@
     "description": "Pi as the Vault Intelligence: it embeds the Pi agent directly inside your Obsidian vault",
     "stars": 17,
     "forks": 3,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "agent",
       "obsidian-plugin"

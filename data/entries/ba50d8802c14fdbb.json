@@ -9,7 +9,7 @@
     "repo_full_name": "georgebashi/pi-transcribe",
     "description": "Speech-to-text dictation extension for pi coding agent — hold spacebar, speak, release. All transcription runs locally.",
     "stars": 2,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

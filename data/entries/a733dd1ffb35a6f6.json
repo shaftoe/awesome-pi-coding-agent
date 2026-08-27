@@ -1,0 +1,33 @@
+{
+  "id": "HuangYuChuh-pi-tuix",
+  "name": "HuangYuChuh-pi-tuix",
+  "url": "https://github.com/HuangYuChuh/pi-tuix",
+  "source": "github-search",
+  "description": "Claude Code-inspired TUI extension for Pi Agent",
+  "metadata": {
+    "github_url": "https://github.com/HuangYuChuh/pi-tuix",
+    "repo_full_name": "HuangYuChuh/pi-tuix",
+    "description": "Claude Code-inspired TUI extension for Pi Agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "pi-coding-agent",
+      "pi-tui",
+      "piagent",
+      "terminal-ui",
+      "tui",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-26T05:56:22Z",
+    "pushed_at": "2026-08-27T03:56:28Z",
+    "updated_at": "2026-08-27T03:57:27Z",
+    "size": 153,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

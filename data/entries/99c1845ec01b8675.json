@@ -1,0 +1,30 @@
+{
+  "id": "win4r-dsh-pi-review",
+  "name": "win4r-dsh-pi-review",
+  "url": "https://github.com/win4r/dsh-pi-review",
+  "source": "github-search",
+  "description": "Read-only Pi Agent code review plugin for DeepSeek Harness",
+  "metadata": {
+    "github_url": "https://github.com/win4r/dsh-pi-review",
+    "repo_full_name": "win4r/dsh-pi-review",
+    "description": "Read-only Pi Agent code review plugin for DeepSeek Harness",
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "code-review",
+      "deepseek-harness",
+      "dsh-plugin",
+      "pi-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-23T06:38:31Z",
+    "pushed_at": "2026-08-23T11:20:25Z",
+    "updated_at": "2026-08-26T14:17:33Z",
+    "size": 121,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

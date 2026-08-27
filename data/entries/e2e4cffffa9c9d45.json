@@ -1,0 +1,35 @@
+{
+  "id": "mosonlab-agentos",
+  "name": "mosonlab-agentos",
+  "url": "https://github.com/mosonlab/agentos",
+  "source": "github-search",
+  "description": "A local control plane for coding agents. You write the spec; a twelve-step chain plans, reviews, implements, verifies and merges it. Orchestrates Codex CLI, Claude Code and Pi on your own Mac.",
+  "metadata": {
+    "github_url": "https://github.com/mosonlab/agentos",
+    "repo_full_name": "mosonlab/agentos",
+    "description": "A local control plane for coding agents. You write the spec; a twelve-step chain plans, reviews, implements, verifies and merges it. Orchestrates Codex CLI, Claude Code and Pi on your own Mac.",
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "agent-orchestration",
+      "agentos",
+      "ai-agents",
+      "claude-agent-sdk",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "pi",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-19T16:23:27Z",
+    "pushed_at": "2026-08-27T04:07:03Z",
+    "updated_at": "2026-08-27T04:08:20Z",
+    "size": 7118,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "@lalalic/channel",
+  "name": "@lalalic/channel",
+  "url": "https://www.npmjs.com/package/@lalalic/channel",
+  "source": "npm-search",
+  "description": "Transparent channel bridge for pi — Discord and WeChat. No LLM tools. Inbound plain passthrough, auto-forward responses to last active channel.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@lalalic/channel",
+    "description": "Transparent channel bridge for pi — Discord and WeChat. No LLM tools. Inbound plain passthrough, auto-forward responses to last active channel.",
+    "keywords": [
+      "pi-package",
+      "discord",
+      "wechat",
+      "channel",
+      "messaging",
+      "chat"
+    ],
+    "version": "1.0.3",
+    "published_at": "2026-08-26T20:33:38.345Z",
+    "npm_downloads_monthly": 143,
+    "npm_downloads_weekly": 143,
+    "npm_score_final": 15.492396,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

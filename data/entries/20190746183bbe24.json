@@ -1,0 +1,27 @@
+{
+  "id": "@jy02414216/pi-task-timer",
+  "name": "@jy02414216/pi-task-timer",
+  "url": "https://www.npmjs.com/package/@jy02414216/pi-task-timer",
+  "source": "npm-search",
+  "description": "A Pi extension that displays the elapsed time of each agent task.",
+  "metadata": {
+    "github_url": "https://github.com/jy02414216/pi-extensions",
+    "npm_name": "@jy02414216/pi-task-timer",
+    "description": "A Pi extension that displays the elapsed time of each agent task.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "task-timer"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-08-19T15:38:44.012Z",
+    "npm_downloads_monthly": 114,
+    "npm_downloads_weekly": 114,
+    "npm_score_final": 14.927467,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

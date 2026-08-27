@@ -1,0 +1,27 @@
+{
+  "id": "@danielsuhett/pi-openspec-tracker",
+  "name": "@danielsuhett/pi-openspec-tracker",
+  "url": "https://www.npmjs.com/package/@danielsuhett/pi-openspec-tracker",
+  "source": "npm-search",
+  "description": "Read-only OpenSpec task tracker extension for Pi",
+  "metadata": {
+    "github_url": "https://github.com/DanielSuhett/pi-openspec-tracker",
+    "npm_name": "@danielsuhett/pi-openspec-tracker",
+    "description": "Read-only OpenSpec task tracker extension for Pi",
+    "keywords": [
+      "pi-package",
+      "openspec",
+      "pi-extension"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-19T01:52:33.751Z",
+    "npm_downloads_monthly": 302,
+    "npm_downloads_weekly": 302,
+    "npm_score_final": 18.469366,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

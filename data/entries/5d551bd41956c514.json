@@ -9,8 +9,8 @@
     "repo_full_name": "jiangge/pi-router",
     "description": "Transparent two-tier router for pi coding agent — routes channels first, with opt-in model fallback chain. Zero protocol coupling.",
     "stars": 3,
-    "forks": 0,
-    "open_issues": 0,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "pi",
       "router"

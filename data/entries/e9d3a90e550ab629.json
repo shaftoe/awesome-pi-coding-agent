@@ -10,7 +10,7 @@
     "description": "Deterministic multi-agent workflow orchestration for Pi",
     "stars": 193,
     "forks": 22,
-    "open_issues": 12,
+    "open_issues": 14,
     "topics": [
       "herdr-plugin",
       "pi",

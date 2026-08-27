@@ -1,0 +1,31 @@
+{
+  "id": "@lizychy0329/pi-ax",
+  "name": "@lizychy0329/pi-ax",
+  "url": "https://www.npmjs.com/package/@lizychy0329/pi-ax",
+  "source": "npm-search",
+  "description": "ax integration for pi: structured web extraction via CSS selectors and HTTP API calls",
+  "metadata": {
+    "github_url": "https://github.com/lizyChy0329/pi-ax",
+    "npm_name": "@lizychy0329/pi-ax",
+    "description": "ax integration for pi: structured web extraction via CSS selectors and HTTP API calls",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-skill",
+      "web",
+      "extraction",
+      "scraping",
+      "ax"
+    ],
+    "version": "0.0.5",
+    "published_at": "2026-08-26T11:15:35.603Z",
+    "npm_downloads_monthly": 100,
+    "npm_downloads_weekly": 100,
+    "npm_score_final": 14.454629,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

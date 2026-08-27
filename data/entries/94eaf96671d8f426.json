@@ -1,0 +1,36 @@
+{
+  "id": "pi-viewport-mouse",
+  "name": "pi-viewport-mouse",
+  "url": "https://www.npmjs.com/package/pi-viewport-mouse",
+  "source": "npm-search",
+  "description": "Mouse click routing for the Pi coding agent. Resolves clicks to the transcript components under them and publishes them as events other extensions can subscribe to. Requires Pi's fullscreen TUI mode, which is not the default.",
+  "metadata": {
+    "github_url": "https://github.com/laveesingh/awesome-pi-extensions",
+    "npm_name": "pi-viewport-mouse",
+    "description": "Mouse click routing for the Pi coding agent. Resolves clicks to the transcript components under them and publishes them as events other extensions can subscribe to. Requires Pi's fullscreen TUI mode, which is not the default.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "pi-tui",
+      "coding-agent",
+      "tui",
+      "mouse",
+      "click",
+      "hit-test",
+      "events",
+      "viewport"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-27T01:29:41.919Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
