@@ -8,7 +8,7 @@
     "github_url": "https://github.com/mentalfl0w/provider-retry-proxy",
     "repo_full_name": "mentalfl0w/provider-retry-proxy",
     "description": "Configurable local HTTP retry proxy for LLM providers (OMP/Pi extension) — triangular backoff, infinite retry, and permanent-error classification. Seizes scarce provider capacity windows without hammering.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-07-23T03:59:48Z",
     "pushed_at": "2026-08-09T10:39:32Z",
-    "updated_at": "2026-08-09T10:39:43Z",
+    "updated_at": "2026-08-27T02:06:21Z",
     "size": 42,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

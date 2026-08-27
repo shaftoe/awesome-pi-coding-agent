@@ -1,0 +1,32 @@
+{
+  "id": "pi-footer-widget",
+  "name": "pi-footer-widget",
+  "url": "https://www.npmjs.com/package/pi-footer-widget",
+  "source": "npm-search",
+  "description": "Composer-agnostic footer widget surface for the pi coding agent. Bridges pi-statusbar, pi-powerline-footer, and the stock footer with a unified push/pull interface.",
+  "metadata": {
+    "github_url": "https://github.com/elecnix/pi-footer-widget",
+    "npm_name": "pi-footer-widget",
+    "description": "Composer-agnostic footer widget surface for the pi coding agent. Bridges pi-statusbar, pi-powerline-footer, and the stock footer with a unified push/pull interface.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-footer",
+      "footer",
+      "statusbar",
+      "powerline",
+      "widget",
+      "adapter"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-19T22:33:17.658Z",
+    "npm_downloads_monthly": 154,
+    "npm_downloads_weekly": 154,
+    "npm_score_final": 15.831954,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "@camillof/pi-session-autoname",
+  "name": "@camillof/pi-session-autoname",
+  "url": "https://www.npmjs.com/package/@camillof/pi-session-autoname",
+  "source": "npm-search",
+  "description": "Automatically name new Pi sessions with a dedicated configured model.",
+  "metadata": {
+    "github_url": "https://github.com/camillof/pi-session-autoname",
+    "npm_name": "@camillof/pi-session-autoname",
+    "description": "Automatically name new Pi sessions with a dedicated configured model.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "session-name",
+      "autoname"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-26T22:36:32.254Z",
+    "npm_downloads_monthly": 236,
+    "npm_downloads_weekly": 236,
+    "npm_score_final": 17.2846,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "pi-vision-native",
+  "name": "pi-vision-native",
+  "url": "https://www.npmjs.com/package/pi-vision-native",
+  "source": "npm-search",
+  "description": "Native vision for text-only pi models (DeepSeek, Llama, ...). Capability-aware chat attachment interception + vision-describe/vision-ask tools via any OpenAI-compatible vision endpoint (ModelScope, SiliconFlow, OpenRouter, GLM, Ollama), with intent detect",
+  "metadata": {
+    "github_url": "https://github.com/fengxbin/pi-vision-native",
+    "npm_name": "pi-vision-native",
+    "description": "Native vision for text-only pi models (DeepSeek, Llama, ...). Capability-aware chat attachment interception + vision-describe/vision-ask tools via any OpenAI-compatible vision endpoint (ModelScope, SiliconFlow, OpenRouter, GLM, Ollama), with intent detect",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "vision",
+      "image",
+      "multi-modal",
+      "deepseek",
+      "qwen",
+      "vl",
+      "modelscope",
+      "siliconflow",
+      "openrouter",
+      "glm",
+      "ollama"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-08-19T20:03:02.844Z",
+    "npm_downloads_monthly": 167,
+    "npm_downloads_weekly": 167,
+    "npm_score_final": 15.776801,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

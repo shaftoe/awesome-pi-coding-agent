@@ -1,0 +1,27 @@
+{
+  "id": "@sakiv/sagent",
+  "name": "@sakiv/sagent",
+  "url": "https://www.npmjs.com/package/@sakiv/sagent",
+  "source": "npm-search",
+  "description": "Governed multi-agent orchestration, map-reduce, and real-time status for Pi",
+  "metadata": {
+    "github_url": "https://github.com/sakiv-io/sagent",
+    "npm_name": "@sakiv/sagent",
+    "description": "Governed multi-agent orchestration, map-reduce, and real-time status for Pi",
+    "keywords": [
+      "pi-package",
+      "multi-agent",
+      "coding-agent"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-19T04:51:56.640Z",
+    "npm_downloads_monthly": 282,
+    "npm_downloads_weekly": 282,
+    "npm_score_final": 18.186735,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

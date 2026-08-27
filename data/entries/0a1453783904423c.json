@@ -1,0 +1,30 @@
+{
+  "id": "pi-ai-usage",
+  "name": "pi-ai-usage",
+  "url": "https://www.npmjs.com/package/pi-ai-usage",
+  "source": "npm-search",
+  "description": "AI quota / usage monitor for the pi coding agent — Claude, GPT (Codex), Grok, CodeBuddy, Antigravity, DeepSeek.",
+  "metadata": {
+    "github_url": "https://github.com/yizixu/pi-ai-usage",
+    "npm_name": "pi-ai-usage",
+    "description": "AI quota / usage monitor for the pi coding agent — Claude, GPT (Codex), Grok, CodeBuddy, Antigravity, DeepSeek.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "usage",
+      "quota",
+      "rate-limit"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-26T09:44:19.176Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

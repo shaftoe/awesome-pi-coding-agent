@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Pi package that adds the /tdd ticket-driven TDD orchestration command.",
   "metadata": {
-    "github_url": "https://github.com/nivoset/the-forge",
+    "github_url": "https://github.com/b-koop/ai-local-tdd",
     "npm_name": "@ai-local/tdd",
     "description": "Pi package that adds the /tdd ticket-driven TDD orchestration command.",
     "keywords": [
@@ -14,11 +14,11 @@
       "forge",
       "tdd"
     ],
-    "version": "4.7.1",
-    "published_at": "2026-07-26T17:14:29.763Z",
-    "npm_downloads_monthly": 338,
-    "npm_downloads_weekly": 30,
-    "npm_score_final": 17.734425,
+    "version": "4.7.3",
+    "published_at": "2026-08-26T16:52:38.259Z",
+    "npm_downloads_monthly": 197,
+    "npm_downloads_weekly": 32,
+    "npm_score_final": 16.911629,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

@@ -1,0 +1,26 @@
+{
+  "id": "pi-profiles-manager",
+  "name": "pi-profiles-manager",
+  "url": "https://www.npmjs.com/package/pi-profiles-manager",
+  "source": "npm-search",
+  "description": "Interactive SDD model profile management built natively for the Pi Coding Agent.",
+  "metadata": {
+    "github_url": "https://github.com/javinnav/pi-profiles-manager",
+    "npm_name": "pi-profiles-manager",
+    "description": "Interactive SDD model profile management built natively for the Pi Coding Agent.",
+    "keywords": [
+      "pi-agent-extension",
+      "pi-package"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-08-20T00:48:47.194Z",
+    "npm_downloads_monthly": 159,
+    "npm_downloads_weekly": 159,
+    "npm_score_final": 16.103886,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

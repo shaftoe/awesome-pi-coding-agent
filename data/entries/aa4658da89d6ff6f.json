@@ -8,7 +8,7 @@
     "title": "AUR (en) - pi-coding-agent - Arch Linux",
     "name": "AUR (en) - pi-coding-agent - Arch Linux",
     "description": "This package has been transferred as part of a \"merge request\" process from user dcreager to imjiaoyuan. The merged packages were pi-coding-agent-bin and pi-coding-agent. I have inspected the PKGBUILD and it looks okay as of now.",
-    "published_at": "2026-08-18T10:25:02",
+    "published_at": "2026-08-17T15:05:20",
     "source_site": "Arch Linux",
     "source_url": "https://aur.archlinux.org/packages/pi-coding-agent",
     "discovery_hint": "brave:pi-coding-agent"

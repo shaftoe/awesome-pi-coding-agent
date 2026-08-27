@@ -1,0 +1,25 @@
+{
+  "id": "johnkai-kai-pi-environment-monitor",
+  "name": "johnkai-kai-pi-environment-monitor",
+  "url": "https://github.com/johnkai-kai/pi-environment-monitor",
+  "source": "github-search",
+  "description": "On-demand inventory panel for the pi coding agent: every installed skill, extension, MCP server, package, theme and prompt template, with its real path on disk.",
+  "metadata": {
+    "github_url": "https://github.com/johnkai-kai/pi-environment-monitor",
+    "repo_full_name": "johnkai-kai/pi-environment-monitor",
+    "description": "On-demand inventory panel for the pi coding agent: every installed skill, extension, MCP server, package, theme and prompt template, with its real path on disk.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-26T16:57:23Z",
+    "pushed_at": "2026-08-27T03:29:40Z",
+    "updated_at": "2026-08-27T04:03:25Z",
+    "size": 114,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

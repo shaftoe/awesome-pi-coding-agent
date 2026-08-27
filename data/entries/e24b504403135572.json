@@ -1,0 +1,32 @@
+{
+  "id": "pi-clinepass",
+  "name": "pi-clinepass",
+  "url": "https://www.npmjs.com/package/pi-clinepass",
+  "source": "npm-search",
+  "description": "ClinePass provider for pi — static measured-price catalog, server-truth billing meter, free models",
+  "metadata": {
+    "github_url": "https://github.com/fifidayone/pi-clinepass",
+    "npm_name": "pi-clinepass",
+    "description": "ClinePass provider for pi — static measured-price catalog, server-truth billing meter, free models",
+    "keywords": [
+      "ai",
+      "cline",
+      "cline-pass",
+      "clinepass",
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-26T11:49:03.529Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

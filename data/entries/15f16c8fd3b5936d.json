@@ -8,7 +8,7 @@
     "github_url": "https://github.com/cuongvd23/pi-tmux-notify",
     "repo_full_name": "cuongvd23/pi-tmux-notify",
     "description": "Pi extension: desktop notifications when the agent finishes, click to jump back to the firing tmux pane",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-08-24T18:19:22Z",
     "pushed_at": "2026-08-25T01:33:24Z",
-    "updated_at": "2026-08-25T03:55:54Z",
+    "updated_at": "2026-08-26T02:34:17Z",
     "size": 21,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

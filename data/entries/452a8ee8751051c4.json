@@ -10,7 +10,7 @@
     "description": "Compact live mcpc session status and controls for Pi",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "mcp",
       "mcpc",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-14T08:20:20Z",
-    "pushed_at": "2026-08-17T11:22:35Z",
+    "pushed_at": "2026-08-26T13:46:53Z",
     "updated_at": "2026-08-17T11:22:51Z",
-    "size": 9,
+    "size": 28,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
