@@ -1,0 +1,33 @@
+{
+  "id": "marcoskichel-pi-theme-lumon",
+  "name": "marcoskichel-pi-theme-lumon",
+  "url": "https://github.com/marcoskichel/pi-theme-lumon",
+  "source": "github-search",
+  "description": "Lumon Industries theme for pi — navy voids, fluorescent cyan edges, sterile blue-gray surfaces. Inspired by Severance and omarchy-lumon-theme.",
+  "metadata": {
+    "github_url": "https://github.com/marcoskichel/pi-theme-lumon",
+    "repo_full_name": "marcoskichel/pi-theme-lumon",
+    "description": "Lumon Industries theme for pi — navy voids, fluorescent cyan edges, sterile blue-gray surfaces. Inspired by Severance and omarchy-lumon-theme.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "ai-tools",
+      "lumon",
+      "pi",
+      "pi-theme",
+      "severance",
+      "terminal-theme",
+      "theme"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-27T19:29:32Z",
+    "pushed_at": "2026-08-27T20:24:14Z",
+    "updated_at": "2026-08-27T20:30:23Z",
+    "size": 429,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

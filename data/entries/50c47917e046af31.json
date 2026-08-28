@@ -1,0 +1,31 @@
+{
+  "id": "pi-cc-style-tools",
+  "name": "pi-cc-style-tools",
+  "url": "https://www.npmjs.com/package/pi-cc-style-tools",
+  "source": "npm-search",
+  "description": "Claude Code-style rendering for Pi's built-in read/bash/write/edit tools — status dots (gray/green/red), white assistant circle, multi-hunk diffs for Update. Rendering only, zero behavior changes.",
+  "metadata": {
+    "github_url": "https://github.com/newCman1/pi-cc-style-tools",
+    "npm_name": "pi-cc-style-tools",
+    "description": "Claude Code-style rendering for Pi's built-in read/bash/write/edit tools — status dots (gray/green/red), white assistant circle, multi-hunk diffs for Update. Rendering only, zero behavior changes.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "claude-code",
+      "tool-rendering",
+      "tui"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-08-27T12:42:50.671Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

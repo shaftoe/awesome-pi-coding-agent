@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ilovepixelart/pi-code",
     "repo_full_name": "ilovepixelart/pi-code",
     "description": "Claude Code experience for the pi coding agent, in one package: reads your .claude config (rules, commands, skills, hooks, output styles, MCP, agents) and adds todo, checkpoints, memory, web, and subagents.",
-    "stars": 15,
+    "stars": 16,
     "forks": 3,
     "open_issues": 0,
     "topics": [
@@ -27,7 +27,7 @@
     "archived": false,
     "created_at": "2026-07-17T12:24:59Z",
     "pushed_at": "2026-08-18T13:49:24Z",
-    "updated_at": "2026-08-26T04:15:57Z",
+    "updated_at": "2026-08-27T11:33:22Z",
     "size": 6186,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/lijian-ui/Pi-DeskTop",
     "repo_full_name": "lijian-ui/Pi-DeskTop",
     "description": "Desktop shell for the Pi AI coding agent — native window, real terminal, multi-workspace, auto-update; Windows/macOS with local & cloud models.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -24,10 +24,10 @@
     "archived": false,
     "created_at": "2026-07-28T05:43:07Z",
     "pushed_at": "2026-08-26T14:17:53Z",
-    "updated_at": "2026-08-27T01:18:52Z",
+    "updated_at": "2026-08-27T08:44:01Z",
     "size": 14189,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "misc"
 }

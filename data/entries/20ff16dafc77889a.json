@@ -1,0 +1,25 @@
+{
+  "id": "@rmirandasv/pi-ask",
+  "name": "@rmirandasv/pi-ask",
+  "url": "https://www.npmjs.com/package/@rmirandasv/pi-ask",
+  "source": "npm-search",
+  "description": "Adds an ask mode toggle to flip pi into a read-only conversation mode without restarting.",
+  "metadata": {
+    "github_url": "https://github.com/rmirandasv/pi-ask",
+    "npm_name": "@rmirandasv/pi-ask",
+    "description": "Adds an ask mode toggle to flip pi into a read-only conversation mode without restarting.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-20T06:03:17.692Z",
+    "npm_downloads_monthly": 162,
+    "npm_downloads_weekly": 162,
+    "npm_score_final": 15.44756,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pi-amq",
+  "name": "pi-amq",
+  "url": "https://www.npmjs.com/package/pi-amq",
+  "source": "npm-search",
+  "description": "A daemonless AMQ bridge and governed worker runtime for pi",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-amq",
+    "description": "A daemonless AMQ bridge and governed worker runtime for pi",
+    "keywords": [
+      "pi-package",
+      "amq",
+      "agent"
+    ],
+    "version": "0.1.6",
+    "published_at": "2026-08-21T05:34:12.169Z",
+    "npm_downloads_monthly": 872,
+    "npm_downloads_weekly": 872,
+    "npm_score_final": 21.89844,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

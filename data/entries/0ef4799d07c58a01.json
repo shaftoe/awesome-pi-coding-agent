@@ -1,0 +1,25 @@
+{
+  "id": "MaxInGaussian-pi-plans",
+  "name": "MaxInGaussian-pi-plans",
+  "url": "https://github.com/MaxInGaussian/pi-plans",
+  "source": "github-search",
+  "description": "Human-in-the-loop planning extension for the Pi coding agent. Turns rough change requests into versioned Markdown plans, stores them in a configurable artifact root, refines them through reviewer/criticizer subagents, and gates implementation behind tracked execution and explicit approval.",
+  "metadata": {
+    "github_url": "https://github.com/MaxInGaussian/pi-plans",
+    "repo_full_name": "MaxInGaussian/pi-plans",
+    "description": "Human-in-the-loop planning extension for the Pi coding agent. Turns rough change requests into versioned Markdown plans, stores them in a configurable artifact root, refines them through reviewer/criticizer subagents, and gates implementation behind tracked execution and explicit approval.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-26T08:36:58Z",
+    "pushed_at": "2026-08-27T21:39:23Z",
+    "updated_at": "2026-08-28T01:38:37Z",
+    "size": 101,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

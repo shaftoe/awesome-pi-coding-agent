@@ -1,0 +1,25 @@
+{
+  "id": "Ga-hou-pi-claude-style-tui",
+  "name": "Ga-hou-pi-claude-style-tui",
+  "url": "https://github.com/Ga-hou/pi-claude-style-tui",
+  "source": "github-search",
+  "description": "Private Claude Code-inspired TUI package for Pi",
+  "metadata": {
+    "github_url": "https://github.com/Ga-hou/pi-claude-style-tui",
+    "repo_full_name": "Ga-hou/pi-claude-style-tui",
+    "description": "Private Claude Code-inspired TUI package for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-27T02:19:39Z",
+    "pushed_at": "2026-08-27T07:11:45Z",
+    "updated_at": "2026-08-27T07:17:38Z",
+    "size": 59,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

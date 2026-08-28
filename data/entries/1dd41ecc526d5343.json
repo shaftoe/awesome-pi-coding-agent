@@ -10,7 +10,7 @@
     "description": "Experiments with the Pi coding agent",
     "stars": 1,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "ai-agent",
       "ai-coding",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-20T11:03:14Z",
-    "pushed_at": "2026-08-25T17:23:43Z",
-    "updated_at": "2026-08-25T08:51:54Z",
-    "size": 566,
+    "pushed_at": "2026-08-28T05:22:59Z",
+    "updated_at": "2026-08-27T10:45:21Z",
+    "size": 607,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

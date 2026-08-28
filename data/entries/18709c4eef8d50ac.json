@@ -10,7 +10,7 @@
     "description": "Concurrent child-agent orchestration for Pi",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "pi-extension",
       "pi-package"
@@ -18,9 +18,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-26T19:45:34Z",
-    "pushed_at": "2026-08-26T19:45:38Z",
-    "updated_at": "2026-08-26T20:57:36Z",
-    "size": 110,
+    "pushed_at": "2026-08-28T04:33:08Z",
+    "updated_at": "2026-08-28T02:51:41Z",
+    "size": 308,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

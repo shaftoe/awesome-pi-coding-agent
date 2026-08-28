@@ -1,0 +1,31 @@
+{
+  "id": "YoungJurry-pi-agents",
+  "name": "YoungJurry-pi-agents",
+  "url": "https://github.com/YoungJurry/pi-agents",
+  "source": "github-search",
+  "description": "Persistent in-process Codex-style multi-agent collaboration for Pi",
+  "metadata": {
+    "github_url": "https://github.com/YoungJurry/pi-agents",
+    "repo_full_name": "YoungJurry/pi-agents",
+    "description": "Persistent in-process Codex-style multi-agent collaboration for Pi",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "codex",
+      "multi-agent",
+      "pi-extension",
+      "pi-package",
+      "subagent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-15T03:45:55Z",
+    "pushed_at": "2026-08-27T16:02:12Z",
+    "updated_at": "2026-08-27T16:27:58Z",
+    "size": 100,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

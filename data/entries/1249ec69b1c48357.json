@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_ofox.ai_pi-coding-agent-custom-provider-setup-20",
+  "name": "Pi Coding Agent Custom Provider: Setup, Cost, and 3 Fixes",
+  "url": "https://ofox.ai/blog/pi-coding-agent-custom-provider-setup-2026/",
+  "source": "brave-web-search",
+  "description": "Pi reports $0 for every session on a custom provider, and reasoning models 500 on Anthropic routes. Both are config, not bugs. Tested on pi 0.84.1.",
+  "metadata": {
+    "title": "Pi Coding Agent Custom Provider: Setup, Cost, and 3 Fixes",
+    "name": "Pi Coding Agent Custom Provider: Setup, Cost, and 3 Fixes",
+    "description": "Pi reports $0 for every session on a custom provider, and reasoning models 500 on Anthropic routes. Both are config, not bugs. Tested on pi 0.84.1.",
+    "published_at": "2026-08-18T00:00:00",
+    "source_site": "Ofox",
+    "source_url": "https://ofox.ai/blog/pi-coding-agent-custom-provider-setup-2026/",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

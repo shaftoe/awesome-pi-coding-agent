@@ -1,0 +1,29 @@
+{
+  "id": "@failed-to-load/pi-webui",
+  "name": "@failed-to-load/pi-webui",
+  "url": "https://www.npmjs.com/package/@failed-to-load/pi-webui",
+  "source": "npm-search",
+  "description": "Web UI bridge for Pi coding agent — exposes the agent session over HTTP/WebSocket so a browser extension (or any HTTP+WS client) can drive the TUI.",
+  "metadata": {
+    "github_url": "https://github.com/programming666/pi-webui",
+    "npm_name": "@failed-to-load/pi-webui",
+    "description": "Web UI bridge for Pi coding agent — exposes the agent session over HTTP/WebSocket so a browser extension (or any HTTP+WS client) can drive the TUI.",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "webui",
+      "extension",
+      "websocket"
+    ],
+    "version": "0.1.8",
+    "published_at": "2026-08-27T17:11:46.839Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
