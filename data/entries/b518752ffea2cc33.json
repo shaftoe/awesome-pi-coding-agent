@@ -1,0 +1,25 @@
+{
+  "id": "pi-ate-feishu",
+  "name": "pi-ate-feishu",
+  "url": "https://www.npmjs.com/package/pi-ate-feishu",
+  "source": "npm-search",
+  "description": "Feishu (Lark) bridge extension for pi-coding-agent — outbound broadcast + inbound remote control",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-ate-feishu",
+    "description": "Feishu (Lark) bridge extension for pi-coding-agent — outbound broadcast + inbound remote control",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-20T07:21:42.104Z",
+    "npm_downloads_monthly": 157,
+    "npm_downloads_weekly": 157,
+    "npm_score_final": 15.339012,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

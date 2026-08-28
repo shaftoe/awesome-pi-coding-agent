@@ -1,0 +1,27 @@
+{
+  "id": "@pi-atelier/rpiv-ask-user",
+  "name": "@pi-atelier/rpiv-ask-user",
+  "url": "https://www.npmjs.com/package/@pi-atelier/rpiv-ask-user",
+  "source": "npm-search",
+  "description": "Fork of @juicesharp/rpiv-ask-user-question with a programmatic answer channel (submitAskUserAnswer) for remote front-ends.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@pi-atelier/rpiv-ask-user",
+    "description": "Fork of @juicesharp/rpiv-ask-user-question with a programmatic answer channel (submitAskUserAnswer) for remote front-ends.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "rpiv"
+    ],
+    "version": "3.0.0",
+    "published_at": "2026-08-21T02:47:53.741Z",
+    "npm_downloads_monthly": 828,
+    "npm_downloads_weekly": 828,
+    "npm_score_final": 21.479969,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

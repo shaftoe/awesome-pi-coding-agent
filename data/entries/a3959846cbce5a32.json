@@ -1,0 +1,32 @@
+{
+  "id": "0xrsydn-pstack-pi",
+  "name": "0xrsydn-pstack-pi",
+  "url": "https://github.com/0xrsydn/pstack-pi",
+  "source": "github-search",
+  "description": "Port of Lauren Tan's pstack (Cursor plugin) to the pi coding agent: 44 workflow & principle skills plus subagent fan-out with per-role models.",
+  "metadata": {
+    "github_url": "https://github.com/0xrsydn/pstack-pi",
+    "repo_full_name": "0xrsydn/pstack-pi",
+    "description": "Port of Lauren Tan's pstack (Cursor plugin) to the pi coding agent: 44 workflow & principle skills plus subagent fan-out with per-role models.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-skills",
+      "coding-agent",
+      "cursor-plugin-port",
+      "llm-workflows",
+      "pi-package",
+      "subagents"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-27T13:45:19Z",
+    "pushed_at": "2026-08-28T04:33:18Z",
+    "updated_at": "2026-08-28T04:34:11Z",
+    "size": 279,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

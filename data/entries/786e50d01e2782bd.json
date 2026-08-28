@@ -1,0 +1,25 @@
+{
+  "id": "rcrohmana-pi-alpakyros",
+  "name": "rcrohmana-pi-alpakyros",
+  "url": "https://github.com/rcrohmana/pi-alpakyros",
+  "source": "github-search",
+  "description": "Alpakyros provider package for pi coding agent — 9 verified models, one-command install",
+  "metadata": {
+    "github_url": "https://github.com/rcrohmana/pi-alpakyros",
+    "repo_full_name": "rcrohmana/pi-alpakyros",
+    "description": "Alpakyros provider package for pi coding agent — 9 verified models, one-command install",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-28T03:31:45Z",
+    "pushed_at": "2026-08-28T03:35:50Z",
+    "updated_at": "2026-08-28T03:36:00Z",
+    "size": 4,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

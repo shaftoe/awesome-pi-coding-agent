@@ -1,0 +1,25 @@
+{
+  "id": "buyi1net-pi-tui",
+  "name": "buyi1net-pi-tui",
+  "url": "https://github.com/buyi1net/pi-tui",
+  "source": "github-search",
+  "description": "Terminal UI enhancements, telemetry, Git status, provider usage, and themes for Pi",
+  "metadata": {
+    "github_url": "https://github.com/buyi1net/pi-tui",
+    "repo_full_name": "buyi1net/pi-tui",
+    "description": "Terminal UI enhancements, telemetry, Git status, provider usage, and themes for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-28T00:28:36Z",
+    "pushed_at": "2026-08-28T00:28:44Z",
+    "updated_at": "2026-08-28T00:28:51Z",
+    "size": 204,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

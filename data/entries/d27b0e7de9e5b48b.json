@@ -1,0 +1,28 @@
+{
+  "id": "pi-eda",
+  "name": "pi-eda",
+  "url": "https://www.npmjs.com/package/pi-eda",
+  "source": "npm-search",
+  "description": "Pi tooling for interactive exploratory data analysis.",
+  "metadata": {
+    "github_url": "https://github.com/shivam-v-verma/pi-eda",
+    "npm_name": "pi-eda",
+    "description": "Pi tooling for interactive exploratory data analysis.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "eda",
+      "exploratory-data-analysis"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-27T19:21:12.771Z",
+    "npm_downloads_monthly": 135,
+    "npm_downloads_weekly": 135,
+    "npm_score_final": 14.816979,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

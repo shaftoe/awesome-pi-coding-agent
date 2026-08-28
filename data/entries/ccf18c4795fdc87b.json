@@ -10,7 +10,7 @@
     "description": "Navigable reading diffs for Pi, powered by Meat and your existing Pi model.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "code-review",
       "git-diff",

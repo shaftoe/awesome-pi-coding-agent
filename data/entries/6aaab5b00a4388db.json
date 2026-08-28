@@ -1,0 +1,29 @@
+{
+  "id": "pi-curated-tools",
+  "name": "pi-curated-tools",
+  "url": "https://www.npmjs.com/package/pi-curated-tools",
+  "source": "npm-search",
+  "description": "Intent-driven read and bash output curation with durable token savings and cost tracking for Pi",
+  "metadata": {
+    "github_url": "https://github.com/claudiolaas/curated-tool-outputs",
+    "npm_name": "pi-curated-tools",
+    "description": "Intent-driven read and bash output curation with durable token savings and cost tracking for Pi",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "context-management",
+      "token-tracking"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-08-20T10:24:52.000Z",
+    "npm_downloads_monthly": 148,
+    "npm_downloads_weekly": 148,
+    "npm_score_final": 15.132086,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

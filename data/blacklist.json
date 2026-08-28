@@ -50135,5 +50135,165 @@
 		"reason": "Not about Pi coding agent - this is Shopify AI Toolkit, not a Pi coding agent extension",
 		"blacklisted_at": "2026-08-27T04:21:09.156819428Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=C6eycfP8T2c",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-28T06:30:25.214886563Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-provider-ucloud-coding-plan",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-28T06:30:25.238898975Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/dinhanhthi/coding-friend",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-08-28T06:30:25.307259782Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://forums.raspberrypi.com/viewtopic.php?t=398089",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-08-28T06:30:25.323956525Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-timeline-widget",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-28T06:30:25.350381978Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Ct-mtWqV3Ro",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-28T06:30:25.483210202Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/green-night-pi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-28T06:30:25.521979831Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/codet-pi-note-sync",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-28T06:30:25.768789495Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/WJBFks/pi-wj-agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-28T06:30:25.833268367Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/yankewei/pi-web-search",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-28T06:30:25.840948329Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-zh-cn",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-28T06:30:26.01115549Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/mountainyldc/HuiZhi-Agent",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-28T06:30:26.028112379Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/hoangtmbk/pi-config",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-28T06:30:26.128080782Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/kujolang/kujo-pi",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-28T06:30:26.151056769Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/copilot-auto",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-08-28T06:30:26.239513274Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/evanqhuang/pi-config",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-28T06:30:26.27832583Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
 	}
 ]

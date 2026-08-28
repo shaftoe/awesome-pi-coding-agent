@@ -1,0 +1,25 @@
+{
+  "id": "yanickxia-my-pi-agent",
+  "name": "yanickxia-my-pi-agent",
+  "url": "https://github.com/yanickxia/my-pi-agent",
+  "source": "github-search",
+  "description": "Custom Pi package — extensions, skills, prompt templates, and themes for my pi-agent setup.",
+  "metadata": {
+    "github_url": "https://github.com/yanickxia/my-pi-agent",
+    "repo_full_name": "yanickxia/my-pi-agent",
+    "description": "Custom Pi package — extensions, skills, prompt templates, and themes for my pi-agent setup.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-27T16:44:28Z",
+    "pushed_at": "2026-08-27T16:44:34Z",
+    "updated_at": "2026-08-27T17:05:30Z",
+    "size": 5,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

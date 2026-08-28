@@ -8,7 +8,7 @@
     "github_url": "https://github.com/SamuelLHuber/pi-time-tracker",
     "repo_full_name": "SamuelLHuber/pi-time-tracker",
     "description": "Session timing extension for pi-coding-agent",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-15T19:28:28Z",
     "pushed_at": "2026-07-17T14:01:23Z",
-    "updated_at": "2026-07-17T13:57:40Z",
+    "updated_at": "2026-08-27T14:10:47Z",
     "size": 12,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/manaflow-ai/pi-codex",
     "repo_full_name": "manaflow-ai/pi-codex",
     "description": "Codex-native apply_patch, remote compaction, and cmux titles for pi",
-    "stars": 2,
+    "stars": 3,
     "forks": 1,
     "open_issues": 4,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-08-03T22:09:46Z",
     "pushed_at": "2026-08-13T10:21:12Z",
-    "updated_at": "2026-08-13T21:20:23Z",
+    "updated_at": "2026-08-27T16:11:36Z",
     "size": 168,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

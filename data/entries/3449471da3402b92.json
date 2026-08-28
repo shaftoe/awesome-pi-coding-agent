@@ -10,7 +10,7 @@
     "description": "Provider-agnostic bioinformatics agent substrate: manifests + SQL over DuckDB are the program",
     "stars": 6,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 0,
     "topics": [
       "ai-agents",
       "apache-arrow",
@@ -30,9 +30,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-27T21:53:37Z",
-    "pushed_at": "2026-08-05T09:23:38Z",
-    "updated_at": "2026-08-03T20:29:31Z",
-    "size": 4160,
+    "pushed_at": "2026-08-27T11:00:52Z",
+    "updated_at": "2026-08-27T11:10:01Z",
+    "size": 4164,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

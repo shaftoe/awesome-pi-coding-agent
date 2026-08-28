@@ -1,0 +1,28 @@
+{
+  "id": "pi-deepseek-balance",
+  "name": "pi-deepseek-balance",
+  "url": "https://www.npmjs.com/package/pi-deepseek-balance",
+  "source": "npm-search",
+  "description": "DeepSeek API account balance in the pi footer — CNY-correct currency selection, burn rate, low-balance alerts, /deepseek-balance report. Unofficial, not affiliated with DeepSeek.",
+  "metadata": {
+    "github_url": "https://github.com/frederick-wang/pi-deepseek-balance",
+    "npm_name": "pi-deepseek-balance",
+    "description": "DeepSeek API account balance in the pi footer — CNY-correct currency selection, burn rate, low-balance alerts, /deepseek-balance report. Unofficial, not affiliated with DeepSeek.",
+    "keywords": [
+      "pi-package",
+      "deepseek",
+      "balance",
+      "usage"
+    ],
+    "version": "0.1.6",
+    "published_at": "2026-08-27T20:22:27.058Z",
+    "npm_downloads_monthly": 447,
+    "npm_downloads_weekly": 447,
+    "npm_score_final": 19.596518,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
