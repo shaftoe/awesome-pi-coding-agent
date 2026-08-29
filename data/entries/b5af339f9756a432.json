@@ -8,7 +8,7 @@
     "github_url": "https://github.com/LabidySabidy/pi-agent-harness",
     "repo_full_name": "LabidySabidy/pi-agent-harness",
     "description": "",
-    "stars": 2,
+    "stars": 3,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-06T04:00:30Z",
     "pushed_at": "2026-07-09T01:50:21Z",
-    "updated_at": "2026-08-27T05:05:05Z",
+    "updated_at": "2026-08-28T10:33:02Z",
     "size": 203,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

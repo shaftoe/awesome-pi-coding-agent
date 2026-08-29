@@ -22,15 +22,15 @@
       "rtk",
       "x64"
     ],
-    "version": "0.0.1-alpha.39",
-    "published_at": "2026-08-26T23:59:45.915Z",
-    "npm_downloads_monthly": 986,
-    "npm_downloads_weekly": 986,
-    "npm_score_final": 21.74272,
+    "version": "0.0.1-alpha.40",
+    "published_at": "2026-08-28T23:43:46.851Z",
+    "npm_downloads_monthly": 1241,
+    "npm_downloads_weekly": 1241,
+    "npm_score_final": 22.343122,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "extension"
+  "category": "misc"
 }

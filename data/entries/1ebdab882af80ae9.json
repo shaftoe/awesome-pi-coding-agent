@@ -1,0 +1,25 @@
+{
+  "id": "kix-sisigai-kfp",
+  "name": "kix-sisigai-kfp",
+  "url": "https://github.com/kix-sisigai/kfp",
+  "source": "github-search",
+  "description": "Kix Flavoured Pi — extensions, themes, and customizations for pi",
+  "metadata": {
+    "github_url": "https://github.com/kix-sisigai/kfp",
+    "repo_full_name": "kix-sisigai/kfp",
+    "description": "Kix Flavoured Pi — extensions, themes, and customizations for pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-29T03:28:15Z",
+    "pushed_at": "2026-08-29T03:29:49Z",
+    "updated_at": "2026-08-29T03:30:07Z",
+    "size": 0,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

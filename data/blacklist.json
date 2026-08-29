@@ -50295,5 +50295,185 @@
 			"sourceName": "github",
 			"query": "github-repo:pi-package language:TypeScript"
 		}
+	},
+	{
+		"url": "https://github.com/TGMax233Michael/Ariku-Theme",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-29T04:01:39.199686481Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/czottmann/pi-automode",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-08-29T04:01:39.269627612Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-cn",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-29T04:01:39.295459177Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/bushm2092-del/agent-weave",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-29T04:01:39.332115209Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=X1b_SU81oso",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-29T04:01:39.360128856Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-qwen_dashscope",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-29T04:01:39.421687877Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/kvidzibo/pi-web-access",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-29T04:01:39.54992221Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=IE0uErOi-PI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-29T04:01:39.772579538Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-lazy-evo",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-29T04:01:39.794832507Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-omp-advisor",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-08-29T04:01:39.802905604Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Uqlm6GTs-pI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-29T04:01:39.871655798Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/blksails/pi-web.old",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-29T04:01:39.931102827Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=vxrZWbZ2fZA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-29T04:01:39.983865819Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@liuchen64/pi-web-tools",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-29T04:01:40.007476188Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/renchenxuan/Umami",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-29T04:01:40.037306505Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=y4m2lRgZwwY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-29T04:01:40.074829749Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=bIK18jm6EEo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-08-29T04:01:40.171405779Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@wuyaos/pi-zotero",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-08-29T04:01:40.181992216Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
 	}
 ]

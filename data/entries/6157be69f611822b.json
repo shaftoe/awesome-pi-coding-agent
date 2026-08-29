@@ -1,0 +1,32 @@
+{
+  "id": "100xprism",
+  "name": "100xprism",
+  "url": "https://www.npmjs.com/package/100xprism",
+  "source": "npm-search",
+  "description": "68 cross-tool modules (workflows + skills). Quality gates on every commit. Works with Claude Code, Cursor, Codex, and Pi.",
+  "metadata": {
+    "github_url": "https://github.com/rajitsaha/100xprism",
+    "npm_name": "100xprism",
+    "description": "68 cross-tool modules (workflows + skills). Quality gates on every commit. Works with Claude Code, Cursor, Codex, and Pi.",
+    "keywords": [
+      "claude-code",
+      "cursor",
+      "codex",
+      "pi",
+      "pi-package",
+      "ai-coding",
+      "developer-workflow",
+      "slash-commands"
+    ],
+    "version": "3.2.0",
+    "published_at": "2026-08-28T17:14:31.841Z",
+    "npm_downloads_monthly": 464,
+    "npm_downloads_weekly": 20,
+    "npm_score_final": 18.935114,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

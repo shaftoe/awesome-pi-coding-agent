@@ -8,7 +8,7 @@
     "github_url": "https://github.com/thecodacus/pithagoras",
     "repo_full_name": "thecodacus/pithagoras",
     "description": "Pithagoras — hosted web UI for the pi coding agent. Give it a task, close the browser, come back when it's done.",
-    "stars": 116,
+    "stars": 117,
     "forks": 28,
     "open_issues": 9,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-27T19:49:37Z",
     "pushed_at": "2026-08-24T22:07:24Z",
-    "updated_at": "2026-08-25T19:03:38Z",
+    "updated_at": "2026-08-28T10:29:56Z",
     "size": 1697,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

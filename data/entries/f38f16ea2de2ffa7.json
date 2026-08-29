@@ -1,0 +1,25 @@
+{
+  "id": "pi-is-ephemeral",
+  "name": "pi-is-ephemeral",
+  "url": "https://www.npmjs.com/package/pi-is-ephemeral",
+  "source": "npm-search",
+  "description": "Show ephemeral session state in Pi's built-in footer.",
+  "metadata": {
+    "github_url": "https://github.com/hyein-cbio/pi-is-ephemeral",
+    "npm_name": "pi-is-ephemeral",
+    "description": "Show ephemeral session state in Pi's built-in footer.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-21T15:09:18.938Z",
+    "npm_downloads_monthly": 141,
+    "npm_downloads_weekly": 141,
+    "npm_score_final": 15.070141,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

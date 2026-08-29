@@ -1,0 +1,37 @@
+{
+  "id": "sfroment-pi-ntn",
+  "name": "sfroment-pi-ntn",
+  "url": "https://github.com/sfroment/pi-ntn",
+  "source": "github-search",
+  "description": "Pi extension wrapping the Notion ntn CLI as a single typed tool (direct CLI, not MCP).",
+  "metadata": {
+    "github_url": "https://github.com/sfroment/pi-ntn",
+    "repo_full_name": "sfroment/pi-ntn",
+    "description": "Pi extension wrapping the Notion ntn CLI as a single typed tool (direct CLI, not MCP).",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "bun",
+      "cli",
+      "coding-agent",
+      "developer-tools",
+      "notion",
+      "notion-cli",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-28T12:31:19Z",
+    "pushed_at": "2026-08-28T12:51:44Z",
+    "updated_at": "2026-08-28T12:52:56Z",
+    "size": 92,
+    "license": "GPL-3.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

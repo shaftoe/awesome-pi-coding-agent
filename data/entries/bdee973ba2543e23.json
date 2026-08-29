@@ -1,0 +1,30 @@
+{
+  "id": "@aduverger/pi-ship",
+  "name": "@aduverger/pi-ship",
+  "url": "https://www.npmjs.com/package/@aduverger/pi-ship",
+  "source": "npm-search",
+  "description": "Workspace-aware simplify, review, and GitHub pull request workflow for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/aduverger/pi-ship",
+    "npm_name": "@aduverger/pi-ship",
+    "description": "Workspace-aware simplify, review, and GitHub pull request workflow for Pi.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "code-review",
+      "github",
+      "pull-request",
+      "workspace"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-21T10:35:43.952Z",
+    "npm_downloads_monthly": 289,
+    "npm_downloads_weekly": 289,
+    "npm_score_final": 17.721622,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

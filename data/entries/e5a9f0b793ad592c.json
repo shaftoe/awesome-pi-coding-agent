@@ -1,0 +1,30 @@
+{
+  "id": "@yurin_nowhere/pi-anchored-standard",
+  "name": "@yurin_nowhere/pi-anchored-standard",
+  "url": "https://www.npmjs.com/package/@yurin_nowhere/pi-anchored-standard",
+  "source": "npm-search",
+  "description": "pi coding agent extension: two-stage RL-anchored scaffold (anchored-standard) for DeepSeek V4 Pro",
+  "metadata": {
+    "github_url": "https://github.com/LiYulin-s/pi-anchored-standard",
+    "npm_name": "@yurin_nowhere/pi-anchored-standard",
+    "description": "pi coding agent extension: two-stage RL-anchored scaffold (anchored-standard) for DeepSeek V4 Pro",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "deepseek",
+      "anchored-standard",
+      "harness"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-14T21:36:31.474Z",
+    "npm_downloads_monthly": 108,
+    "npm_downloads_weekly": 36,
+    "npm_score_final": 13.8836355,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

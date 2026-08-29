@@ -8,7 +8,7 @@
     "github_url": "https://github.com/jermaine123123/agent-context-editor",
     "repo_full_name": "jermaine123123/agent-context-editor",
     "description": "Cross-agent plugin for manually excluding and editing AI conversation context, with search, filtering, hide/restore, undo, and original Session preservation.",
-    "stars": 10,
+    "stars": 11,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -32,7 +32,7 @@
     "archived": false,
     "created_at": "2026-08-18T00:10:06Z",
     "pushed_at": "2026-08-26T23:48:17Z",
-    "updated_at": "2026-08-27T23:42:29Z",
+    "updated_at": "2026-08-29T03:37:34Z",
     "size": 613,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
