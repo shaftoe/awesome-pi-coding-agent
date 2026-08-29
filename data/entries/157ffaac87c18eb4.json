@@ -1,0 +1,29 @@
+{
+  "id": "pi-npm-release",
+  "name": "pi-npm-release",
+  "url": "https://www.npmjs.com/package/pi-npm-release",
+  "source": "npm-search",
+  "description": "A safe, semi-automated npm and Pi package release workflow for Pi agents.",
+  "metadata": {
+    "github_url": "https://github.com/xinizai/pi-npm-release",
+    "npm_name": "pi-npm-release",
+    "description": "A safe, semi-automated npm and Pi package release workflow for Pi agents.",
+    "keywords": [
+      "pi-package",
+      "pi-skill",
+      "npm",
+      "release",
+      "skills"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-21T11:38:15.673Z",
+    "npm_downloads_monthly": 135,
+    "npm_downloads_weekly": 135,
+    "npm_score_final": 14.918851,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

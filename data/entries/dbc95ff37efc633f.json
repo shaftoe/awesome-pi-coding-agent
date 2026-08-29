@@ -1,0 +1,40 @@
+{
+  "id": "sfroment-pi-koyeb",
+  "name": "sfroment-pi-koyeb",
+  "url": "https://github.com/sfroment/pi-koyeb",
+  "source": "github-search",
+  "description": "Pi extension wrapping the Koyeb koyeb CLI as a single typed tool (direct CLI, not MCP).",
+  "metadata": {
+    "github_url": "https://github.com/sfroment/pi-koyeb",
+    "repo_full_name": "sfroment/pi-koyeb",
+    "description": "Pi extension wrapping the Koyeb koyeb CLI as a single typed tool (direct CLI, not MCP).",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "bun",
+      "cli",
+      "coding-agent",
+      "deploy",
+      "developer-tools",
+      "koyeb",
+      "koyeb-cli",
+      "mistral",
+      "mistral-ai",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-28T14:28:54Z",
+    "pushed_at": "2026-08-28T14:32:36Z",
+    "updated_at": "2026-08-28T14:34:28Z",
+    "size": 88,
+    "license": "GPL-3.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

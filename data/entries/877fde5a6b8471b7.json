@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Nuctori/pi-dag-core",
     "repo_full_name": "Nuctori/pi-dag-core",
     "description": "Production-ready DAG workflow state machine for pi: AI orchestrates, human approves, agents follow the protocol (state machine + payload attribution + artifact verification)",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-10T20:44:58Z",
     "pushed_at": "2026-08-15T01:11:50Z",
-    "updated_at": "2026-08-26T14:58:02Z",
+    "updated_at": "2026-08-28T16:53:46Z",
     "size": 600,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

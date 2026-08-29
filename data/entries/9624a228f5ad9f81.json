@@ -8,7 +8,7 @@
     "github_url": "https://github.com/xcjy8bao/pi-plugin-signal-grep",
     "repo_full_name": "xcjy8bao/pi-plugin-signal-grep",
     "description": "Context-efficient, correctness-first ripgrep search for the Pi coding agent",
-    "stars": 15,
+    "stars": 41,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-27T11:39:55Z",
-    "pushed_at": "2026-08-27T16:57:40Z",
-    "updated_at": "2026-08-28T06:13:12Z",
-    "size": 122,
+    "pushed_at": "2026-08-28T10:42:02Z",
+    "updated_at": "2026-08-28T20:28:40Z",
+    "size": 161,
     "license": "AGPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

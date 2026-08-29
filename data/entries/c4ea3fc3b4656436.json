@@ -8,7 +8,7 @@
     "github_url": "https://github.com/not-narleeek/pi-ghidra",
     "repo_full_name": "not-narleeek/pi-ghidra",
     "description": "Drive Ghidra from pi — decompile, disassemble, search & cross-reference binaries during CTF reverse-engineering, no GUI needed.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -27,7 +27,7 @@
     "archived": false,
     "created_at": "2026-07-16T17:22:13Z",
     "pushed_at": "2026-07-16T21:12:09Z",
-    "updated_at": "2026-08-04T04:31:50Z",
+    "updated_at": "2026-08-28T22:29:10Z",
     "size": 55,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

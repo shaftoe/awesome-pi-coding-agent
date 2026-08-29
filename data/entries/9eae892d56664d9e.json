@@ -1,0 +1,33 @@
+{
+  "id": "pi-ds-files",
+  "name": "pi-ds-files",
+  "url": "https://www.npmjs.com/package/pi-ds-files",
+  "source": "npm-search",
+  "description": "DeepSeek Files API for Pi — upload images once, reuse file_id references in requests to deepseek-v4-flash-vision-exp, slash fewer bandwidth bills.",
+  "metadata": {
+    "github_url": "https://github.com/siva-sub/pi-ds-files",
+    "npm_name": "pi-ds-files",
+    "description": "DeepSeek Files API for Pi — upload images once, reuse file_id references in requests to deepseek-v4-flash-vision-exp, slash fewer bandwidth bills.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "deepseek",
+      "deepseek-files-api",
+      "files-api",
+      "vision",
+      "multimodal",
+      "file_id"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-21T09:51:30.167Z",
+    "npm_downloads_monthly": 126,
+    "npm_downloads_weekly": 126,
+    "npm_score_final": 14.87533,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -24,7 +24,7 @@
     "updated_at": "2026-08-26T23:03:15Z",
     "size": 203,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-package language:TypeScript"
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
   "category": "misc"
 }

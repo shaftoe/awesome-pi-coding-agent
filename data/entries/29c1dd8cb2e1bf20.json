@@ -1,0 +1,29 @@
+{
+  "id": "pi-rpc-web",
+  "name": "pi-rpc-web",
+  "url": "https://www.npmjs.com/package/pi-rpc-web",
+  "source": "npm-search",
+  "description": "Headless RPC-powered browser interface for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/tohlh/pi-rpc-web",
+    "npm_name": "pi-rpc-web",
+    "description": "Headless RPC-powered browser interface for the pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "web-ui",
+      "rpc",
+      "remote"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-28T11:56:12.159Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

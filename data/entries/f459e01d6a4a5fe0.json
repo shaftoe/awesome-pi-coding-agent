@@ -1,0 +1,30 @@
+{
+  "id": "ygncode-pi-bro",
+  "name": "ygncode-pi-bro",
+  "url": "https://github.com/ygncode/pi-bro",
+  "source": "github-search",
+  "description": "Plain-language side-channel explanations for Pi conversations",
+  "metadata": {
+    "github_url": "https://github.com/ygncode/pi-bro",
+    "repo_full_name": "ygncode/pi-bro",
+    "description": "Plain-language side-channel explanations for Pi conversations",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-28T15:50:32Z",
+    "pushed_at": "2026-08-28T15:50:37Z",
+    "updated_at": "2026-08-28T15:52:06Z",
+    "size": 30,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

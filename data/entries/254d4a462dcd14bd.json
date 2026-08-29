@@ -3,11 +3,11 @@
   "name": "@bismawy/pi-agentrouter",
   "url": "https://www.npmjs.com/package/@bismawy/pi-agentrouter",
   "source": "npm-search",
-  "description": "AgentRouter provider for pi — routes to GPT-5.6 Sol, Claude Opus 5, DeepSeek V4 Flash, and GLM 5.3",
+  "description": "AgentRouter provider for pi — routes to GPT-5.6 Sol, Claude Opus 4.8, Claude Opus 5, DeepSeek V4 Flash, and GLM 5.3",
   "metadata": {
     "github_url": "https://github.com/bismawy/pi-agentrouter",
     "npm_name": "@bismawy/pi-agentrouter",
-    "description": "AgentRouter provider for pi — routes to GPT-5.6 Sol, Claude Opus 5, DeepSeek V4 Flash, and GLM 5.3",
+    "description": "AgentRouter provider for pi — routes to GPT-5.6 Sol, Claude Opus 4.8, Claude Opus 5, DeepSeek V4 Flash, and GLM 5.3",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -16,8 +16,8 @@
       "agentrouter",
       "provider"
     ],
-    "version": "1.0.3",
-    "published_at": "2026-08-28T04:13:06.433Z",
+    "version": "1.0.6",
+    "published_at": "2026-08-29T02:19:02.503Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

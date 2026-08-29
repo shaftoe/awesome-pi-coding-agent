@@ -10,7 +10,7 @@
     "description": "A local web workbench for Pi Coding Agent's RPC mode.",
     "stars": 1,
     "forks": 1,
-    "open_issues": 23,
+    "open_issues": 21,
     "topics": [
       "agent",
       "harness",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-20T01:19:31Z",
-    "pushed_at": "2026-08-27T16:56:12Z",
-    "updated_at": "2026-08-27T17:16:53Z",
-    "size": 5851,
+    "pushed_at": "2026-08-28T18:09:34Z",
+    "updated_at": "2026-08-28T18:13:27Z",
+    "size": 6501,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

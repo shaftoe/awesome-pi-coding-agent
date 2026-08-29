@@ -1,0 +1,28 @@
+{
+  "id": "@onkernel/browser-loop",
+  "name": "@onkernel/browser-loop",
+  "url": "https://www.npmjs.com/package/@onkernel/browser-loop",
+  "source": "npm-search",
+  "description": "Browser tools for your agent: framework-neutral tool catalog, per-model compilation, Kernel-browser execution, and a pi binding + extension",
+  "metadata": {
+    "github_url": "https://github.com/kernel/browser-loop",
+    "npm_name": "@onkernel/browser-loop",
+    "description": "Browser tools for your agent: framework-neutral tool catalog, per-model compilation, Kernel-browser execution, and a pi binding + extension",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "computer-use",
+      "kernel"
+    ],
+    "version": "0.12.0",
+    "published_at": "2026-08-21T15:10:48.528Z",
+    "npm_downloads_monthly": 266,
+    "npm_downloads_weekly": 266,
+    "npm_score_final": 17.5184,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
