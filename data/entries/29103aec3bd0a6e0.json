@@ -1,0 +1,25 @@
+{
+  "id": "mwijanarko1-pi-agent-setup",
+  "name": "mwijanarko1-pi-agent-setup",
+  "url": "https://github.com/mwijanarko1/pi-agent-setup",
+  "source": "github-search",
+  "description": "Reusable Pi agents, extensions, skills, prompts, and themes",
+  "metadata": {
+    "github_url": "https://github.com/mwijanarko1/pi-agent-setup",
+    "repo_full_name": "mwijanarko1/pi-agent-setup",
+    "description": "Reusable Pi agents, extensions, skills, prompts, and themes",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-29T14:11:37Z",
+    "pushed_at": "2026-08-29T14:11:42Z",
+    "updated_at": "2026-08-29T14:19:33Z",
+    "size": 740,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

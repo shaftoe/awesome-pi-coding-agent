@@ -1,0 +1,38 @@
+{
+  "id": "linbei0-EcomGen",
+  "name": "linbei0-EcomGen",
+  "url": "https://github.com/linbei0/EcomGen",
+  "source": "github-search",
+  "description": "Local-first AI e-commerce image suite for sellers: Pi Agent storyboards, product-truth protection, OpenAI-compatible image providers, review, editing, and ZIP export.",
+  "metadata": {
+    "github_url": "https://github.com/linbei0/EcomGen",
+    "repo_full_name": "linbei0/EcomGen",
+    "description": "Local-first AI e-commerce image suite for sellers: Pi Agent storyboards, product-truth protection, OpenAI-compatible image providers, review, editing, and ZIP export.",
+    "stars": 24,
+    "forks": 5,
+    "open_issues": 0,
+    "topics": [
+      "ai-image-generation",
+      "bullmq",
+      "ecommerce",
+      "fastify",
+      "openai-compatible",
+      "pi-agent",
+      "product-photography",
+      "react",
+      "redis",
+      "self-hosted",
+      "seller-tools",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-17T18:03:32Z",
+    "pushed_at": "2026-08-29T14:07:57Z",
+    "updated_at": "2026-08-30T00:39:23Z",
+    "size": 25434,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

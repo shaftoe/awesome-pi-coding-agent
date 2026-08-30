@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Entelligentsia/forge-cli",
     "repo_full_name": "Entelligentsia/forge-cli",
     "description": "Forge CLI — Forge SDLC ported onto pi-coding-agent (TypeScript pi extension)",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 2,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-08T08:37:50Z",
     "pushed_at": "2026-07-25T05:50:59Z",
-    "updated_at": "2026-08-20T13:32:22Z",
+    "updated_at": "2026-08-29T16:18:15Z",
     "size": 104489,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

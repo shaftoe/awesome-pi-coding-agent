@@ -1,0 +1,37 @@
+{
+  "id": "@geohar/un-bien",
+  "name": "@geohar/un-bien",
+  "url": "https://www.npmjs.com/package/@geohar/un-bien",
+  "source": "npm-search",
+  "description": "Mobile remote control and local agent mesh for the Pi coding agent. Pair your phone via QR over a relay, watch tool calls in real time, run multi-Pi sessions over a local Unix Domain Socket broker, and let agents talk to each other through structured requ",
+  "metadata": {
+    "github_url": "https://github.com/georgeharker/un-bien",
+    "npm_name": "@geohar/un-bien",
+    "description": "Mobile remote control and local agent mesh for the Pi coding agent. Pair your phone via QR over a relay, watch tool calls in real time, run multi-Pi sessions over a local Unix Domain Socket broker, and let agents talk to each other through structured requ",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "remote-control",
+      "mobile",
+      "coding-agent",
+      "agent-mesh",
+      "agent-network",
+      "uds",
+      "broker",
+      "qr-pairing",
+      "websocket"
+    ],
+    "version": "0.8.0",
+    "published_at": "2026-08-29T20:23:49.101Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

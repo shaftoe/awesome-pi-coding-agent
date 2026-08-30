@@ -8,8 +8,8 @@
     "github_url": "https://github.com/Waishnav/devspace",
     "repo_full_name": "Waishnav/devspace",
     "description": "Turn ChatGPT into Codex! OR Turn Claude Web into Claude Code!",
-    "stars": 4096,
-    "forks": 452,
+    "stars": 4201,
+    "forks": 455,
     "open_issues": 60,
     "topics": [
       "agent-orchestration",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-14T16:57:27Z",
-    "pushed_at": "2026-08-26T19:25:35Z",
-    "updated_at": "2026-08-29T03:38:44Z",
-    "size": 3816,
+    "pushed_at": "2026-08-29T07:17:05Z",
+    "updated_at": "2026-08-30T00:50:56Z",
+    "size": 3840,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

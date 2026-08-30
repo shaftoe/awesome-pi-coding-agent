@@ -9,8 +9,8 @@
     "repo_full_name": "ai-outfitter/outfitter",
     "description": "Swap between configurations in Pi — it's like dotfiles for your coding agent.",
     "stars": 19,
-    "forks": 2,
-    "open_issues": 11,
+    "forks": 3,
+    "open_issues": 13,
     "topics": [
       "ai",
       "ai-agents",

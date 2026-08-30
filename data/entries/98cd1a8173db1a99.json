@@ -1,0 +1,32 @@
+{
+  "id": "pi-zhipu-usage",
+  "name": "pi-zhipu-usage",
+  "url": "https://www.npmjs.com/package/pi-zhipu-usage",
+  "source": "npm-search",
+  "description": "Pi extension: show GLM Coding Plan usage and reset countdown in the footer. Supports Zhipu domestic (open.bigmodel.cn), international (api.z.ai), and local proxy / Headroom setups.",
+  "metadata": {
+    "github_url": "https://github.com/caimaoy/pi-glm-usage",
+    "npm_name": "pi-zhipu-usage",
+    "description": "Pi extension: show GLM Coding Plan usage and reset countdown in the footer. Supports Zhipu domestic (open.bigmodel.cn), international (api.z.ai), and local proxy / Headroom setups.",
+    "keywords": [
+      "pi-package",
+      "glm",
+      "zhipu",
+      "bigmodel",
+      "z-ai",
+      "coding-plan",
+      "usage",
+      "quota"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-22T04:42:56.400Z",
+    "npm_downloads_monthly": 170,
+    "npm_downloads_weekly": 170,
+    "npm_score_final": 15.287016,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
