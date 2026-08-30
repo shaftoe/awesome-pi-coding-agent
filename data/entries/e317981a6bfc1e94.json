@@ -3,11 +3,11 @@
   "name": "gitUmaru-pi-pretty",
   "url": "https://github.com/gitUmaru/pi-pretty",
   "source": "github-search",
-  "description": "A pi extension that adds a pretty looking header. Features a fancy ASCII pi logo that can blink and change colors according to your theme.",
+  "description": "A pi extension that adds a pretty looking header. Features a fancy ASCII pi logo that can blink and change colors according to your theme. This repo is AI coded.",
   "metadata": {
     "github_url": "https://github.com/gitUmaru/pi-pretty",
     "repo_full_name": "gitUmaru/pi-pretty",
-    "description": "A pi extension that adds a pretty looking header. Features a fancy ASCII pi logo that can blink and change colors according to your theme.",
+    "description": "A pi extension that adds a pretty looking header. Features a fancy ASCII pi logo that can blink and change colors according to your theme. This repo is AI coded.",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-08-25T20:07:37Z",
     "pushed_at": "2026-08-25T20:55:58Z",
-    "updated_at": "2026-08-28T03:18:04Z",
+    "updated_at": "2026-08-29T19:56:58Z",
     "size": 1809,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

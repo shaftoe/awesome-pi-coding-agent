@@ -1,0 +1,31 @@
+{
+  "id": "@zaycruz/pi-context-manager",
+  "name": "@zaycruz/pi-context-manager",
+  "url": "https://www.npmjs.com/package/@zaycruz/pi-context-manager",
+  "source": "npm-search",
+  "description": "Let Pi and OMP agents inspect and selectively manage their conversation context before runtime compaction.",
+  "metadata": {
+    "github_url": "https://github.com/zaycruz/pi-context-manager",
+    "npm_name": "@zaycruz/pi-context-manager",
+    "description": "Let Pi and OMP agents inspect and selectively manage their conversation context before runtime compaction.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "oh-my-pi",
+      "context-management",
+      "compaction",
+      "agent"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-08-29T22:00:12.263Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

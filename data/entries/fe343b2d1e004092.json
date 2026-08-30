@@ -1,0 +1,38 @@
+{
+  "id": "getpipher-pi-statusline",
+  "name": "getpipher-pi-statusline",
+  "url": "https://github.com/getpipher/pi-statusline",
+  "source": "github-search",
+  "description": "Feature-rich custom footer (statusline) extension for the Pi Coding Agent — model, git, token usage, cost, context %, burn rate, themes.",
+  "metadata": {
+    "github_url": "https://github.com/getpipher/pi-statusline",
+    "repo_full_name": "getpipher/pi-statusline",
+    "description": "Feature-rich custom footer (statusline) extension for the Pi Coding Agent — model, git, token usage, cost, context %, burn rate, themes.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "catppuccin",
+      "cli",
+      "developer-experience",
+      "developer-tools",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-footer",
+      "status-bar",
+      "statusline",
+      "terminal",
+      "themable",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-12T08:21:26Z",
+    "pushed_at": "2026-08-30T00:53:35Z",
+    "updated_at": "2026-08-30T00:53:39Z",
+    "size": 156,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "@vectorfield/pi-prs",
+  "name": "@vectorfield/pi-prs",
+  "url": "https://www.npmjs.com/package/@vectorfield/pi-prs",
+  "source": "npm-search",
+  "description": "Fork of pi-prs: GitHub pull request feedback/watching with explicit PR URL or number targeting, plus a pr_watch LLM tool for zero-token approval gating from the routing session.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@vectorfield/pi-prs",
+    "description": "Fork of pi-prs: GitHub pull request feedback/watching with explicit PR URL or number targeting, plus a pr_watch LLM tool for zero-token approval gating from the routing session.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "github",
+      "pull-request",
+      "code-review",
+      "release"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-29T07:21:14.444Z",
+    "npm_downloads_monthly": 121,
+    "npm_downloads_weekly": 121,
+    "npm_score_final": 14.136254,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/HCAHOI/pi-ssh",
     "repo_full_name": "HCAHOI/pi-ssh",
     "description": "SSH remote execution for pi — edit locally, run remotely. ",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-06-24T14:24:48Z",
     "pushed_at": "2026-07-03T17:24:13Z",
-    "updated_at": "2026-07-07T06:58:17Z",
+    "updated_at": "2026-08-29T06:47:11Z",
     "size": 550,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

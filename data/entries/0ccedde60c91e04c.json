@@ -1,0 +1,27 @@
+{
+  "id": "pi-peak-hours",
+  "name": "pi-peak-hours",
+  "url": "https://www.npmjs.com/package/pi-peak-hours",
+  "source": "npm-search",
+  "description": "Peak/off-peak billing-hours indicator for LLM APIs (DeepSeek, GLM Coding Plan) in the pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/oglenyaboss/pi-peak-hours",
+    "npm_name": "pi-peak-hours",
+    "description": "Peak/off-peak billing-hours indicator for LLM APIs (DeepSeek, GLM Coding Plan) in the pi coding agent.",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "tui"
+    ],
+    "version": "1.0.3",
+    "published_at": "2026-08-29T12:08:30.100Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

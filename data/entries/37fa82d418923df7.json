@@ -1,0 +1,41 @@
+{
+  "id": "tianemon-EasyMint",
+  "name": "tianemon-EasyMint",
+  "url": "https://github.com/tianemon/EasyMint",
+  "source": "github-search",
+  "description": "Open-source AI coding harness built on Pi Agent (pi-coding-agent) — a graphical AI programming assistant that lets non-technical users drive AI through the full software development flow (Electron)",
+  "metadata": {
+    "github_url": "https://github.com/tianemon/EasyMint",
+    "repo_full_name": "tianemon/EasyMint",
+    "description": "Open-source AI coding harness built on Pi Agent (pi-coding-agent) — a graphical AI programming assistant that lets non-technical users drive AI through the full software development flow (Electron)",
+    "stars": 21,
+    "forks": 2,
+    "open_issues": 0,
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "ai-assistant",
+      "ai-coding",
+      "ai-programming",
+      "desktop-app",
+      "developer-tools",
+      "electron",
+      "harness",
+      "llm",
+      "pi",
+      "pi-agent",
+      "pi-coding-agent",
+      "piagent",
+      "productivity"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-03T14:17:21Z",
+    "pushed_at": "2026-08-29T10:28:27Z",
+    "updated_at": "2026-08-29T10:28:57Z",
+    "size": 26099,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

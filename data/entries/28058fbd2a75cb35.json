@@ -3,11 +3,11 @@
   "name": "Setting Up and Using the Pi Coding Agent | DeepakNess",
   "url": "https://deepakness.com/blog/pi-agent-setup/",
   "source": "brave-web-search",
-  "description": "My experience of setting up the Pi coding agent with DeepSeek models, installing packages, and making it my daily driver.",
+  "description": "Pi is an open-source terminal coding agent created by Mario Zechner. It works in your terminal and gives the AI model four tools by default – read, write, edit, and bash – to work with your codebase.",
   "metadata": {
     "title": "Setting Up and Using the Pi Coding Agent | DeepakNess",
     "name": "Setting Up and Using the Pi Coding Agent | DeepakNess",
-    "description": "My experience of setting up the Pi coding agent with DeepSeek models, installing packages, and making it my daily driver.",
+    "description": "Pi is an open-source terminal coding agent created by Mario Zechner. It works in your terminal and gives the AI model four tools by default – read, write, edit, and bash – to work with your codebase.",
     "published_at": "2026-05-29T17:04:47",
     "source_site": "DeepakNess",
     "source_url": "https://deepakness.com/blog/pi-agent-setup/",
