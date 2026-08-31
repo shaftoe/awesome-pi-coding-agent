@@ -1,0 +1,32 @@
+{
+  "id": "gandazgul-pi-mnemoteca",
+  "name": "gandazgul-pi-mnemoteca",
+  "url": "https://github.com/gandazgul/pi-mnemoteca",
+  "source": "github-search",
+  "description": "Pi extension for Mnemoteca — local memory for every agent",
+  "metadata": {
+    "github_url": "https://github.com/gandazgul/pi-mnemoteca",
+    "repo_full_name": "gandazgul/pi-mnemoteca",
+    "description": "Pi extension for Mnemoteca — local memory for every agent",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-memory",
+      "local-first",
+      "mnemoteca",
+      "pi",
+      "pi-extension",
+      "semantic-search"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-04T21:50:59Z",
+    "pushed_at": "2026-08-31T00:59:29Z",
+    "updated_at": "2026-08-31T01:00:19Z",
+    "size": 56,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

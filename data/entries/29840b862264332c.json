@@ -1,0 +1,29 @@
+{
+  "id": "pi-cc-permission",
+  "name": "pi-cc-permission",
+  "url": "https://www.npmjs.com/package/pi-cc-permission",
+  "source": "npm-search",
+  "description": "Plan mode + permission modes (manual / auto / bypass) for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/sowyer666/pi-cc-permission",
+    "npm_name": "pi-cc-permission",
+    "description": "Plan mode + permission modes (manual / auto / bypass) for the pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "permission",
+      "plan-mode"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-30T16:36:22.846Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

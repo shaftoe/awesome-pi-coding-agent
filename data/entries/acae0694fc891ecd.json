@@ -1,0 +1,29 @@
+{
+  "id": "pi-aia-browser",
+  "name": "pi-aia-browser",
+  "url": "https://www.npmjs.com/package/pi-aia-browser",
+  "source": "npm-search",
+  "description": "Full browser automation for pi — persistent Playwright daemon, multi-tab, screenshots, JS injection, user profiles, cookies. Installs Chromium automatically on install.",
+  "metadata": {
+    "github_url": "https://github.com/brunoj/pi-aia-browser",
+    "npm_name": "pi-aia-browser",
+    "description": "Full browser automation for pi — persistent Playwright daemon, multi-tab, screenshots, JS injection, user profiles, cookies. Installs Chromium automatically on install.",
+    "keywords": [
+      "pi-package",
+      "browser",
+      "playwright",
+      "chromium",
+      "automation"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-14T14:35:37.908Z",
+    "npm_downloads_monthly": 93,
+    "npm_downloads_weekly": 19,
+    "npm_score_final": 13.598053,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

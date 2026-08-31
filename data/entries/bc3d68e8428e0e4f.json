@@ -8,7 +8,7 @@
     "github_url": "https://github.com/OpenInsightHQ/one-pi",
     "repo_full_name": "OpenInsightHQ/one-pi",
     "description": "browser-based PI agent:  The Reasoning Engine of AI Employees",
-    "stars": 25,
+    "stars": 32,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-08-03T13:38:00Z",
     "pushed_at": "2026-08-28T08:36:38Z",
-    "updated_at": "2026-08-29T10:43:03Z",
+    "updated_at": "2026-08-30T23:58:59Z",
     "size": 4937,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

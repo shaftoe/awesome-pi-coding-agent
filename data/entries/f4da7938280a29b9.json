@@ -1,0 +1,29 @@
+{
+  "id": "pi-critique-model",
+  "name": "pi-critique-model",
+  "url": "https://www.npmjs.com/package/pi-critique-model",
+  "source": "npm-search",
+  "description": "pi critique: work review + prompt challenge.",
+  "metadata": {
+    "github_url": "https://github.com/noguerol/critique",
+    "npm_name": "pi-critique-model",
+    "description": "pi critique: work review + prompt challenge.",
+    "keywords": [
+      "pi-package",
+      "review",
+      "critique",
+      "adversarial-review",
+      "prompt-critique"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-08-31T00:27:14.924Z",
+    "npm_downloads_monthly": 118,
+    "npm_downloads_weekly": 118,
+    "npm_score_final": 14.309982,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

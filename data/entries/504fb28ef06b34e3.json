@@ -1,0 +1,37 @@
+{
+  "id": "pi-exa-search-api",
+  "name": "pi-exa-search-api",
+  "url": "https://www.npmjs.com/package/pi-exa-search-api",
+  "source": "npm-search",
+  "description": "Exa for pi across seven tools: search, contents, find similar, answer, code context, agent runs, and scheduled monitors. Structured output with field-level citations and confidence.",
+  "metadata": {
+    "github_url": "https://github.com/william-wei-zhu/pi-exa-search-api",
+    "npm_name": "pi-exa-search-api",
+    "description": "Exa for pi across seven tools: search, contents, find similar, answer, code context, agent runs, and scheduled monitors. Structured output with field-level citations and confidence.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-skill",
+      "exa",
+      "web-search",
+      "deep-search",
+      "web-research",
+      "exa-code",
+      "agent-api",
+      "context-api",
+      "monitors",
+      "grounding",
+      "citations"
+    ],
+    "version": "2.0.1",
+    "published_at": "2026-08-23T19:08:41.821Z",
+    "npm_downloads_monthly": 333,
+    "npm_downloads_weekly": 333,
+    "npm_score_final": 17.898132,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

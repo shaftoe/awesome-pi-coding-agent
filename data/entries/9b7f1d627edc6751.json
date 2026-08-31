@@ -1,0 +1,30 @@
+{
+  "id": "pi-openspec-context",
+  "name": "pi-openspec-context",
+  "url": "https://www.npmjs.com/package/pi-openspec-context",
+  "source": "npm-search",
+  "description": "Lightweight Pi extension for automatic OpenSpec context injection into system prompts",
+  "metadata": {
+    "github_url": "https://github.com/raphaelbahat/pi-openspec-context",
+    "npm_name": "pi-openspec-context",
+    "description": "Lightweight Pi extension for automatic OpenSpec context injection into system prompts",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "openspec",
+      "extension",
+      "context",
+      "spec-driven-development"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-08-23T13:09:58.715Z",
+    "npm_downloads_monthly": 501,
+    "npm_downloads_weekly": 501,
+    "npm_score_final": 19.318731,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

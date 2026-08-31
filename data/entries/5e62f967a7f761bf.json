@@ -9,8 +9,8 @@
     "repo_full_name": "lallenlowe/even-terminal-pi",
     "description": "A pi (@earendil-works/pi-coding-agent) provider for @evenrealities/even-terminal — run the pi coding agent on Even Realities G2 smart glasses + R1 ring.",
     "stars": 1,
-    "forks": 3,
-    "open_issues": 0,
+    "forks": 4,
+    "open_issues": 1,
     "topics": [
       "ai",
       "ai-agent",

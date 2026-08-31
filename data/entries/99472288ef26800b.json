@@ -8,7 +8,7 @@
     "github_url": "https://github.com/nostalfinals/cooperate",
     "repo_full_name": "nostalfinals/cooperate",
     "description": "A minimal subagent extension for Pi",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-04T23:59:46Z",
-    "pushed_at": "2026-08-08T11:36:31Z",
-    "updated_at": "2026-08-08T11:38:05Z",
-    "size": 658,
+    "pushed_at": "2026-08-29T14:16:44Z",
+    "updated_at": "2026-08-30T22:27:15Z",
+    "size": 666,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
