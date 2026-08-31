@@ -10,7 +10,7 @@
     "description": "Claude Code experience for the pi coding agent, in one package: reads your .claude config (rules, commands, skills, hooks, output styles, MCP, agents) and adds todo, checkpoints, memory, web, and subagents.",
     "stars": 16,
     "forks": 3,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "ai-agent",
       "claude-code",

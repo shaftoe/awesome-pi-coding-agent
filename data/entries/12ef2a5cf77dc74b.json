@@ -1,0 +1,29 @@
+{
+  "id": "pi-ccswitch-auto-switch",
+  "name": "pi-ccswitch-auto-switch",
+  "url": "https://www.npmjs.com/package/pi-ccswitch-auto-switch",
+  "source": "npm-search",
+  "description": "Provider-first automatic model failover extension for Pi and CC Switch",
+  "metadata": {
+    "github_url": "https://github.com/JunyWuuuu91/pi-ccswitch-auto-switch",
+    "npm_name": "pi-ccswitch-auto-switch",
+    "description": "Provider-first automatic model failover extension for Pi and CC Switch",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "ccswitch",
+      "failover",
+      "model-routing"
+    ],
+    "version": "0.3.5",
+    "published_at": "2026-08-30T08:55:24.489Z",
+    "npm_downloads_monthly": 528,
+    "npm_downloads_weekly": 528,
+    "npm_score_final": 19.501476,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/kvv256512-ux/turbo-ai",
     "repo_full_name": "kvv256512-ux/turbo-ai",
     "description": "Retro DOS / Turbo Pascal 7.0 TUI frontend for the Pi coding agent",
-    "stars": 39,
+    "stars": 47,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -29,9 +29,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-26T12:06:14Z",
-    "pushed_at": "2026-08-27T15:02:54Z",
-    "updated_at": "2026-08-28T18:19:22Z",
-    "size": 257,
+    "pushed_at": "2026-08-30T21:57:44Z",
+    "updated_at": "2026-08-30T21:57:50Z",
+    "size": 284,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

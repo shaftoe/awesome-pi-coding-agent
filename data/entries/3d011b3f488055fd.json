@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tmustier/pi-unpacked",
     "repo_full_name": "tmustier/pi-unpacked",
     "description": "Interactive exploration of pi coding agent internals — v0.64.0",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-01T11:13:44Z",
     "pushed_at": "2026-08-05T16:48:09Z",
-    "updated_at": "2026-08-09T13:08:31Z",
+    "updated_at": "2026-08-30T21:27:02Z",
     "size": 220,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

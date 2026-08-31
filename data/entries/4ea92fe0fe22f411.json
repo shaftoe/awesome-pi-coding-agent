@@ -10,20 +10,19 @@
     "description": "Rounded-corner frames for pi's built-in tool calls and results. A minimal alternative to colored shells — just the corners.",
     "keywords": [
       "pi-package",
-      "pi",
       "pi-extension",
-      "ui",
-      "theme"
+      "pi-theme",
+      "rounded-corners"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-07-28T12:02:23.183Z",
-    "npm_downloads_monthly": 120,
-    "npm_downloads_weekly": 15,
-    "npm_score_final": 14.531138,
+    "version": "0.1.3",
+    "published_at": "2026-08-30T12:37:05.345Z",
+    "npm_downloads_monthly": 73,
+    "npm_downloads_weekly": 12,
+    "npm_score_final": 24.27243,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-theme"
   },
   "category": "extension"
 }

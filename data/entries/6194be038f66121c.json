@@ -10,7 +10,7 @@
     "description": "Local-first desktop workspace for AI agents: browser, terminal, memory, plugins, runtimes, and durable loops.",
     "stars": 21,
     "forks": 1,
-    "open_issues": 55,
+    "open_issues": 58,
     "topics": [
       "agent-workspace",
       "ai",
@@ -28,9 +28,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-07T21:21:15Z",
-    "pushed_at": "2026-08-29T22:37:38Z",
-    "updated_at": "2026-08-29T22:37:47Z",
-    "size": 108453,
+    "pushed_at": "2026-08-30T22:50:52Z",
+    "updated_at": "2026-08-30T16:50:43Z",
+    "size": 111439,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

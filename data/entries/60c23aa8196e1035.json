@@ -8,7 +8,7 @@
     "github_url": "https://github.com/aerovato/container",
     "repo_full_name": "aerovato/container",
     "description": "Safely run OpenCode, Codex, Claude Code with full permissions.",
-    "stars": 341,
+    "stars": 342,
     "forks": 33,
     "open_issues": 0,
     "topics": [
@@ -37,7 +37,7 @@
     "archived": false,
     "created_at": "2026-01-08T14:50:55Z",
     "pushed_at": "2026-08-22T14:49:39Z",
-    "updated_at": "2026-08-29T00:29:23Z",
+    "updated_at": "2026-08-30T13:05:49Z",
     "size": 2227,
     "license": "BSD-3-Clause",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

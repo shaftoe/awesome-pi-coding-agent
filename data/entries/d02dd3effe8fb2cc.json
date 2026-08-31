@@ -1,0 +1,29 @@
+{
+  "id": "pi-openai-codex-usage",
+  "name": "pi-openai-codex-usage",
+  "url": "https://www.npmjs.com/package/pi-openai-codex-usage",
+  "source": "npm-search",
+  "description": "ChatGPT Codex subscription usage in the pi footer — multi-bucket limits, reset credits, consume action, /codex-usage report. Unofficial, not affiliated with OpenAI.",
+  "metadata": {
+    "github_url": "https://github.com/frederick-wang/pi-openai-codex-usage",
+    "npm_name": "pi-openai-codex-usage",
+    "description": "ChatGPT Codex subscription usage in the pi footer — multi-bucket limits, reset credits, consume action, /codex-usage report. Unofficial, not affiliated with OpenAI.",
+    "keywords": [
+      "pi-package",
+      "codex",
+      "openai",
+      "usage",
+      "quota"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-30T16:42:38.018Z",
+    "npm_downloads_monthly": 263,
+    "npm_downloads_weekly": 263,
+    "npm_score_final": 16.596323,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

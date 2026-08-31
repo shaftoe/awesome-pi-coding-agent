@@ -1,0 +1,31 @@
+{
+  "id": "pi-skill-retriever",
+  "name": "pi-skill-retriever",
+  "url": "https://www.npmjs.com/package/pi-skill-retriever",
+  "source": "npm-search",
+  "description": "Keyword-based skill retrieval for the Pi coding agent — scores your prompt against all discovered skills each turn and injects the top matches as context. Zero LLM calls, zero config.",
+  "metadata": {
+    "github_url": "https://github.com/nadimtuhin/pi-skill-retriever",
+    "npm_name": "pi-skill-retriever",
+    "description": "Keyword-based skill retrieval for the Pi coding agent — scores your prompt against all discovered skills each turn and injects the top matches as context. Zero LLM calls, zero config.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "pi",
+      "skills",
+      "retrieval",
+      "agent-skills"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-30T21:22:43.429Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "@jetserge/pi-clear-hotkey",
+  "name": "@jetserge/pi-clear-hotkey",
+  "url": "https://www.npmjs.com/package/@jetserge/pi-clear-hotkey",
+  "source": "npm-search",
+  "description": "Clear pi's terminal viewport from a keyboard shortcut (Ctrl+L by default) without touching the session.",
+  "metadata": {
+    "github_url": "https://github.com/CrazyCoder/pi-clear-hotkey",
+    "npm_name": "@jetserge/pi-clear-hotkey",
+    "description": "Clear pi's terminal viewport from a keyboard shortcut (Ctrl+L by default) without touching the session.",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "pi",
+      "extension",
+      "terminal",
+      "clear-screen",
+      "keybinding",
+      "hotkey"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-30T17:47:16.229Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

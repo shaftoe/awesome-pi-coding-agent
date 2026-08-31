@@ -1,0 +1,35 @@
+{
+  "id": "pi-llamacpp-infra",
+  "name": "pi-llamacpp-infra",
+  "url": "https://www.npmjs.com/package/pi-llamacpp-infra",
+  "source": "npm-search",
+  "description": "Discovery, metrics and control of llama.cpp-family servers for pi (llama.cpp, ZINC, DwarfStar/ds4, lucebox, LM Studio): scan machines (localhost, LAN, Tailscale), register models, live metrics, per-model thinking budgets, vision detection, native config U",
+  "metadata": {
+    "github_url": "https://github.com/noguerol/llamacpp-infra",
+    "npm_name": "pi-llamacpp-infra",
+    "description": "Discovery, metrics and control of llama.cpp-family servers for pi (llama.cpp, ZINC, DwarfStar/ds4, lucebox, LM Studio): scan machines (localhost, LAN, Tailscale), register models, live metrics, per-model thinking budgets, vision detection, native config U",
+    "keywords": [
+      "pi-package",
+      "llamacpp",
+      "llama.cpp",
+      "local-models",
+      "discovery",
+      "metrics",
+      "tailscale",
+      "vision",
+      "thinking",
+      "lm-studio",
+      "lmstudio"
+    ],
+    "version": "1.2.2",
+    "published_at": "2026-08-31T00:27:36.994Z",
+    "npm_downloads_monthly": 551,
+    "npm_downloads_weekly": 551,
+    "npm_score_final": 19.64995,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -27,7 +27,7 @@
     "updated_at": "2026-06-29T01:36:35Z",
     "size": 11,
     "license": "EPL-2.0",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
     "score": 55,

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/thebabush/pi-memento",
     "repo_full_name": "thebabush/pi-memento",
     "description": "Agents that edit their own memory: nested context transactions for the pi coding agent. Commit, compact, squash, or revert an exploration.",
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-08-29T04:05:14Z",
     "pushed_at": "2026-08-29T04:29:29Z",
-    "updated_at": "2026-08-29T23:24:05Z",
+    "updated_at": "2026-08-30T22:39:14Z",
     "size": 128,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,25 @@
+{
+  "id": "ZMGID-fkmem",
+  "name": "ZMGID-fkmem",
+  "url": "https://github.com/ZMGID/fkmem",
+  "source": "github-search",
+  "description": "Runtime-triggered memory for Pi coding agent. Literal matching on observation streams, zero model at match time.",
+  "metadata": {
+    "github_url": "https://github.com/ZMGID/fkmem",
+    "repo_full_name": "ZMGID/fkmem",
+    "description": "Runtime-triggered memory for Pi coding agent. Literal matching on observation streams, zero model at match time.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-24T01:45:00Z",
+    "pushed_at": "2026-08-24T01:57:43Z",
+    "updated_at": "2026-08-30T16:02:57Z",
+    "size": 143,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

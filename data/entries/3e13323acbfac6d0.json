@@ -1,0 +1,32 @@
+{
+  "id": "pi-opencode-go-usage",
+  "name": "pi-opencode-go-usage",
+  "url": "https://www.npmjs.com/package/pi-opencode-go-usage",
+  "source": "npm-search",
+  "description": "Track OpenCode Go usage limits (rolling 5h / weekly / monthly) in Pi — status bar + /opencode-go report via HTML scrape.",
+  "metadata": {
+    "github_url": "https://github.com/Dakai/pi-opencode-go-usage",
+    "npm_name": "pi-opencode-go-usage",
+    "description": "Track OpenCode Go usage limits (rolling 5h / weekly / monthly) in Pi — status bar + /opencode-go report via HTML scrape.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "omp",
+      "opencode",
+      "usage",
+      "go",
+      "quota",
+      "status-bar"
+    ],
+    "version": "1.0.3",
+    "published_at": "2026-08-23T20:31:55.738Z",
+    "npm_downloads_monthly": 683,
+    "npm_downloads_weekly": 683,
+    "npm_score_final": 19.878494,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

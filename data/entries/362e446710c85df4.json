@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_docs.bswen.com_2026-08-30-what-is-pi-coding-agent-pi-de",
+  "name": "What Is Pi Coding Agent? Pi.dev Architecture, Extensions and Why Harnesses Build on It | BSWEN",
+  "url": "https://docs.bswen.com/blog/2026-08-30-what-is-pi-coding-agent-pi-dev/",
+  "source": "brave-web-search",
+  "description": "This post explains what Pi coding agent (pi.dev) actually is: a minimal, vendor-neutral coding-agent harness and runtime with an agent loop, a small tool surface, a session tree, a provider abstraction, and a TypeScript extension system. The key point is that Pi is programmable agent ...",
+  "metadata": {
+    "title": "What Is Pi Coding Agent? Pi.dev Architecture, Extensions and Why Harnesses Build on It | BSWEN",
+    "name": "What Is Pi Coding Agent? Pi.dev Architecture, Extensions and Why Harnesses Build on It | BSWEN",
+    "description": "This post explains what Pi coding agent (pi.dev) actually is: a minimal, vendor-neutral coding-agent harness and runtime with an agent loop, a small tool surface, a session tree, a provider abstraction, and a TypeScript extension system. The key point is that Pi is programmable agent ...",
+    "published_at": null,
+    "source_site": "BSWEN",
+    "source_url": "https://docs.bswen.com/blog/2026-08-30-what-is-pi-coding-agent-pi-dev/",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

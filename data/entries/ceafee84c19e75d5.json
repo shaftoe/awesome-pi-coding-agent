@@ -1,0 +1,35 @@
+{
+  "id": "pi-extended-teams",
+  "name": "pi-extended-teams",
+  "url": "https://www.npmjs.com/package/pi-extended-teams",
+  "source": "npm-search",
+  "description": "Control-first, session-connected subagents for Pi with live navigation and intent-tier routing",
+  "metadata": {
+    "github_url": "https://github.com/dantetekanem/pi-extended-teams",
+    "npm_name": "pi-extended-teams",
+    "description": "Control-first, session-connected subagents for Pi with live navigation and intent-tier routing",
+    "keywords": [
+      "pi-package",
+      "ai-agent",
+      "multi-agent",
+      "agent-teams",
+      "agent-coordination",
+      "autonomous-agents",
+      "task-management",
+      "team-collaboration",
+      "agent-orchestration",
+      "coding-assistant",
+      "tmux"
+    ],
+    "version": "2.1.18",
+    "published_at": "2026-08-24T00:47:54.550Z",
+    "npm_downloads_monthly": 468,
+    "npm_downloads_weekly": 468,
+    "npm_score_final": 18.542406,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

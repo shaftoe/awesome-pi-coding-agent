@@ -8,7 +8,7 @@
     "github_url": "https://github.com/AarnoStormborn/my-pi",
     "repo_full_name": "AarnoStormborn/my-pi",
     "description": "My personal pi coding agent configuration, packaged as a portable repo",
-    "stars": 0,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-28T21:32:13Z",
     "pushed_at": "2026-08-29T17:54:30Z",
-    "updated_at": "2026-08-29T17:54:46Z",
+    "updated_at": "2026-08-30T18:47:35Z",
     "size": 71,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
