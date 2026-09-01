@@ -1,0 +1,29 @@
+{
+  "id": "pi-signal-footer",
+  "name": "pi-signal-footer",
+  "url": "https://www.npmjs.com/package/pi-signal-footer",
+  "source": "npm-search",
+  "description": "A readable status footer for Pi Coding Agent: model, tokens, cache, cost, context bar, streaming rate, and MCP/LSP status.",
+  "metadata": {
+    "github_url": "https://github.com/chengzhi-c/pi-signal-footer",
+    "npm_name": "pi-signal-footer",
+    "description": "A readable status footer for Pi Coding Agent: model, tokens, cache, cost, context bar, streaming rate, and MCP/LSP status.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "footer",
+      "statusline",
+      "tui"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-08-31T14:25:06.831Z",
+    "npm_downloads_monthly": 371,
+    "npm_downloads_weekly": 371,
+    "npm_score_final": 17.645514,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

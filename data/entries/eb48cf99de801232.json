@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_dwsy.github.io_agent",
+  "name": "Pi Agent — The AI Engineer You Actually Want",
+  "url": "https://dwsy.github.io/agent/",
+  "source": "brave-web-search",
+  "description": "Pi Agent — a programmable coding-agent runtime with persistent context, role memory, native generative UI, observability, extensions, and gateway orchestration.",
+  "metadata": {
+    "title": "Pi Agent — The AI Engineer You Actually Want",
+    "name": "Pi Agent — The AI Engineer You Actually Want",
+    "description": "Pi Agent — a programmable coding-agent runtime with persistent context, role memory, native generative UI, observability, extensions, and gateway orchestration.",
+    "published_at": null,
+    "source_site": "Dwsy",
+    "source_url": "https://dwsy.github.io/agent/",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

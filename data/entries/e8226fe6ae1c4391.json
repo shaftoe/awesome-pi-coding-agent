@@ -9,7 +9,7 @@
     "repo_full_name": "sigilmakes/spindle",
     "description": "Persistent JavaScript REPL for context manipulation, MCP integration, and focused sub-agent orchestration. A pi extension.",
     "stars": 25,
-    "forks": 2,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

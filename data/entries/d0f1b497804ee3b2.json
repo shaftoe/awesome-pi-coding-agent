@@ -1,0 +1,28 @@
+{
+  "id": "pi-codex-toolkit",
+  "name": "pi-codex-toolkit",
+  "url": "https://www.npmjs.com/package/pi-codex-toolkit",
+  "source": "npm-search",
+  "description": "Bounded OpenAI and Codex capabilities for Pi",
+  "metadata": {
+    "github_url": "https://github.com/duo/pi-codex-toolkit",
+    "npm_name": "pi-codex-toolkit",
+    "description": "Bounded OpenAI and Codex capabilities for Pi",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "openai",
+      "codex"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-31T03:27:02.120Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "pi-extension-console",
+  "name": "pi-extension-console",
+  "url": "https://www.npmjs.com/package/pi-extension-console",
+  "source": "npm-search",
+  "description": "A read-only console for inspecting discovered Pi extensions, commands, and tools.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-extension-console",
+    "description": "A read-only console for inspecting discovered Pi extensions, commands, and tools.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "developer-tools"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-24T18:57:59.011Z",
+    "npm_downloads_monthly": 124,
+    "npm_downloads_weekly": 124,
+    "npm_score_final": 13.98938,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

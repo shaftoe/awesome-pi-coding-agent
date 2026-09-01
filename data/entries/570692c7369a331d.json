@@ -1,0 +1,31 @@
+{
+  "id": "program-notebook",
+  "name": "program-notebook",
+  "url": "https://www.npmjs.com/package/program-notebook",
+  "source": "npm-search",
+  "description": "Program notebook skill, plugin, and check tool for Codex, OpenCode, Kimi Code, and Pi.",
+  "metadata": {
+    "github_url": "https://github.com/LycanW/program-notebook",
+    "npm_name": "program-notebook",
+    "description": "Program notebook skill, plugin, and check tool for Codex, OpenCode, Kimi Code, and Pi.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "documentation",
+      "architecture",
+      "project-context",
+      "notebook"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-08-31T20:44:19.633Z",
+    "npm_downloads_monthly": 1495,
+    "npm_downloads_weekly": 12,
+    "npm_score_final": 23.025213,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

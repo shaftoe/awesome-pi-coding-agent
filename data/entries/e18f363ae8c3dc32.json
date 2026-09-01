@@ -1,0 +1,31 @@
+{
+  "id": "rukaachan-pi-timeout",
+  "name": "rukaachan-pi-timeout",
+  "url": "https://github.com/rukaachan/pi-timeout",
+  "source": "github-search",
+  "description": "Prevent Pi from freezing when an LLM sets an excessive shell timeout — Pi uses seconds.",
+  "metadata": {
+    "github_url": "https://github.com/rukaachan/pi-timeout",
+    "repo_full_name": "rukaachan/pi-timeout",
+    "description": "Prevent Pi from freezing when an LLM sets an excessive shell timeout — Pi uses seconds.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "timeout"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-31T12:17:45Z",
+    "pushed_at": "2026-08-31T12:18:41Z",
+    "updated_at": "2026-08-31T12:59:18Z",
+    "size": 6,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

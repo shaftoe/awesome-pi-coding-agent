@@ -1,0 +1,35 @@
+{
+  "id": "@keywaytech/pi-provider-manager",
+  "name": "@keywaytech/pi-provider-manager",
+  "url": "https://www.npmjs.com/package/@keywaytech/pi-provider-manager",
+  "source": "npm-search",
+  "description": "A pi-coding-agent extension that provides a local web UI to manage custom LLM API providers & models. Edit models.json + default provider/model/thinking-level, auto-backup, localhost-only.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@keywaytech/pi-provider-manager",
+    "description": "A pi-coding-agent extension that provides a local web UI to manage custom LLM API providers & models. Edit models.json + default provider/model/thinking-level, auto-backup, localhost-only.",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "pi",
+      "llm",
+      "llm-provider",
+      "openai-compatible",
+      "model-config",
+      "extension",
+      "typescript",
+      "react",
+      "vite"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-31T09:20:56.768Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

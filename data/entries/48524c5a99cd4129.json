@@ -3,11 +3,11 @@
   "name": "pi-prompt-diet",
   "url": "https://www.npmjs.com/package/pi-prompt-diet",
   "source": "npm-search",
-  "description": "A high-efficiency System Prompt optimizer for Pi Coding Agent that reduces baseline token overhead by 60%+ while keeping all tools fully functional.",
+  "description": "An adaptive capability router for Pi with progressive tool-guideline and Skill distillation.",
   "metadata": {
     "github_url": "https://github.com/XRSec/pi-prompt-diet",
     "npm_name": "pi-prompt-diet",
-    "description": "A high-efficiency System Prompt optimizer for Pi Coding Agent that reduces baseline token overhead by 60%+ while keeping all tools fully functional.",
+    "description": "An adaptive capability router for Pi with progressive tool-guideline and Skill distillation.",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -17,8 +17,8 @@
       "context-window",
       "llm"
     ],
-    "version": "1.2.2",
-    "published_at": "2026-08-30T13:15:35.461Z",
+    "version": "3.0.0",
+    "published_at": "2026-08-31T11:24:21.594Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

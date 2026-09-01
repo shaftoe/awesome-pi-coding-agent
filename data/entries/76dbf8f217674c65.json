@@ -8,7 +8,7 @@
     "github_url": "https://github.com/MarshallEriksen-Neura/pi-agent-desktop",
     "repo_full_name": "MarshallEriksen-Neura/pi-agent-desktop",
     "description": "",
-    "stars": 10,
+    "stars": 13,
     "forks": 3,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-26T12:35:42Z",
     "pushed_at": "2026-08-30T08:19:18Z",
-    "updated_at": "2026-08-30T08:19:24Z",
+    "updated_at": "2026-08-31T15:10:30Z",
     "size": 21555,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -9,7 +9,7 @@
     "repo_full_name": "zenyui/picrophone",
     "description": "Talk to the pi coding agent with local voice models",
     "stars": 4,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 7,
     "topics": [
       "extension",

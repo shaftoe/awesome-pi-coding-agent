@@ -1,0 +1,28 @@
+{
+  "id": "@spikes/ata-skill",
+  "name": "@spikes/ata-skill",
+  "url": "https://www.npmjs.com/package/@spikes/ata-skill",
+  "source": "npm-search",
+  "description": "A cross-agent master/worker collaboration protocol for project planning, handoff, review, and document maintenance.",
+  "metadata": {
+    "github_url": "https://github.com/spikeRHCgit/ata-skill",
+    "npm_name": "@spikes/ata-skill",
+    "description": "A cross-agent master/worker collaboration protocol for project planning, handoff, review, and document maintenance.",
+    "keywords": [
+      "agent-skill",
+      "pi-package",
+      "multi-agent",
+      "collaboration"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-24T05:20:30.245Z",
+    "npm_downloads_monthly": 92,
+    "npm_downloads_weekly": 92,
+    "npm_score_final": 13.604334,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
