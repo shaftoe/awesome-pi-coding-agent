@@ -8,7 +8,7 @@
     "github_url": "https://github.com/leandr0ck/pi-find-skills",
     "repo_full_name": "leandr0ck/pi-find-skills",
     "description": "Extension for Pi coding agent.  Search, discover, and install AI agent skills from different providers.",
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-28T15:32:02Z",
     "pushed_at": "2026-03-29T01:35:49Z",
-    "updated_at": "2026-05-15T17:06:40Z",
+    "updated_at": "2026-08-31T16:32:20Z",
     "size": 252,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,30 @@
+{
+  "id": "pi-bulletin",
+  "name": "pi-bulletin",
+  "url": "https://www.npmjs.com/package/pi-bulletin",
+  "source": "npm-search",
+  "description": "Bulletin-first agent coordination for Pi: cheap eventing + batched digests + reconcile-on-conflict (blackboard pattern).",
+  "metadata": {
+    "github_url": "https://github.com/forrestbthomas/pi-bulletin",
+    "npm_name": "pi-bulletin",
+    "description": "Bulletin-first agent coordination for Pi: cheap eventing + batched digests + reconcile-on-conflict (blackboard pattern).",
+    "keywords": [
+      "pi-package",
+      "multi-agent",
+      "agent-coordination",
+      "blackboard",
+      "bulletin",
+      "spike"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-08-24T01:58:59.940Z",
+    "npm_downloads_monthly": 480,
+    "npm_downloads_weekly": 480,
+    "npm_score_final": 18.51953,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

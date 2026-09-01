@@ -1,0 +1,25 @@
+{
+  "id": "SeasyecN-pi-subagent-framework",
+  "name": "SeasyecN-pi-subagent-framework",
+  "url": "https://github.com/SeasyecN/pi-subagent-framework",
+  "source": "github-search",
+  "description": "Agent-neutral subagent execution and policy framework for Pi Coding Agent.",
+  "metadata": {
+    "github_url": "https://github.com/SeasyecN/pi-subagent-framework",
+    "repo_full_name": "SeasyecN/pi-subagent-framework",
+    "description": "Agent-neutral subagent execution and policy framework for Pi Coding Agent.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-30T20:41:44Z",
+    "pushed_at": "2026-08-31T19:41:12Z",
+    "updated_at": "2026-08-31T19:46:06Z",
+    "size": 1309,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

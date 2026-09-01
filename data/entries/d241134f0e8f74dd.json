@@ -1,0 +1,29 @@
+{
+  "id": "@thiagocbarreto/pi-timestamp-context",
+  "name": "@thiagocbarreto/pi-timestamp-context",
+  "url": "https://www.npmjs.com/package/@thiagocbarreto/pi-timestamp-context",
+  "source": "npm-search",
+  "description": "Adds each user message's timestamp and local datetime to Pi's LLM context.",
+  "metadata": {
+    "github_url": "https://github.com/thiagocbarreto/pi-timestamp-context",
+    "npm_name": "@thiagocbarreto/pi-timestamp-context",
+    "description": "Adds each user message's timestamp and local datetime to Pi's LLM context.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "timestamp",
+      "context"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-31T16:53:09.277Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

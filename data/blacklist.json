@@ -51027,5 +51027,225 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-coding-agent"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=hUELQyUJoMw",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-09-01T01:37:00.737233437Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=kXKD5Ap076E",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-09-01T01:37:00.748442547Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/vizruna",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-01T01:37:00.759702373Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Dcb6GGzOYnY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-01T01:37:00.839129335Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@disappear00/ink-subagent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-01T01:37:00.864604389Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/umlink/chat-data-pilot-agent",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-01T01:37:00.942390067Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=dmLKlzJ9KuU",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-01T01:37:00.983998046Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@disappear00/ink-todo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-01T01:37:01.055585892Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/zxbdzh/pi-redraw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-01T01:37:01.065361042Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=7qDe5TlpVtw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-01T01:37:01.075426471Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@disappear00/ink-tools",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-01T01:37:01.108150123Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=b3JxaIXM_v4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-01T01:37:01.169624627Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/multi-model-review",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-09-01T01:37:01.223512261Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-tianqing",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-01T01:37:01.250541207Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=_u0M8h11FQk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-01T01:37:01.267168875Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/kongweiguang/kerminal",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-01T01:37:01.571748471Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-fluent-korean",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-01T01:37:01.619363935Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/shang-ou/pi-context-window-picker",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-01T01:37:01.6314029Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=fmEFIf7vjAE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-01T01:37:01.683383452Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=OMk0RZA5mE8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-01T01:37:01.729030212Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=uN8S86KCtt4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-01T01:37:01.738919288Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=RJ7IQkzUaPY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-01T01:37:01.755520371Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
 	}
 ]

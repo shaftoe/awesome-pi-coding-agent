@@ -19,7 +19,7 @@
     "updated_at": "2026-08-04T12:41:55Z",
     "size": 69,
     "license": "NOASSERTION",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "category": "extension"
 }

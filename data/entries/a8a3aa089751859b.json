@@ -1,0 +1,25 @@
+{
+  "id": "tejasa97-pi-b-ai-provider",
+  "name": "tejasa97-pi-b-ai-provider",
+  "url": "https://github.com/tejasa97/pi-b-ai-provider",
+  "source": "github-search",
+  "description": "Pi provider package for b.ai — OpenAI-compatible gateway with dynamic model discovery",
+  "metadata": {
+    "github_url": "https://github.com/tejasa97/pi-b-ai-provider",
+    "repo_full_name": "tejasa97/pi-b-ai-provider",
+    "description": "Pi provider package for b.ai — OpenAI-compatible gateway with dynamic model discovery",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-31T08:10:28Z",
+    "pushed_at": "2026-08-31T08:10:32Z",
+    "updated_at": "2026-08-31T08:12:43Z",
+    "size": 5,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

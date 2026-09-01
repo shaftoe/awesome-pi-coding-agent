@@ -1,0 +1,25 @@
+{
+  "id": "LycanW-pi-command-code-provider",
+  "name": "LycanW-pi-command-code-provider",
+  "url": "https://github.com/LycanW/pi-command-code-provider",
+  "source": "github-search",
+  "description": "Command Code GOAT model provider package for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/LycanW/pi-command-code-provider",
+    "repo_full_name": "LycanW/pi-command-code-provider",
+    "description": "Command Code GOAT model provider package for the Pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-31T08:57:15Z",
+    "pushed_at": "2026-08-31T08:57:22Z",
+    "updated_at": "2026-08-31T09:01:03Z",
+    "size": 30,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

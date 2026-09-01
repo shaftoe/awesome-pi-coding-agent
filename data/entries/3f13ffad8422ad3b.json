@@ -6,7 +6,7 @@
   "description": "Native task planning and state tracking for Pi with branch replay and a live TUI widget",
   "metadata": {
     "github_url": "https://github.com/smithyyang/pi-native-todo",
-    "npm_name": "@youngjurry/todo-list",
+    "npm_name": "pi-native-todo",
     "description": "Native task planning and state tracking for Pi with branch replay and a live TUI widget",
     "keywords": [
       "pi-package",
@@ -17,15 +17,15 @@
       "task-management",
       "todo"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-08-30T03:54:56.714Z",
-    "npm_downloads_monthly": 102,
-    "npm_downloads_weekly": 6,
-    "npm_score_final": 17.282244,
+    "version": "0.2.1",
+    "published_at": "2026-08-30T03:54:53.003Z",
+    "npm_downloads_monthly": 422,
+    "npm_downloads_weekly": 18,
+    "npm_score_final": 18.690895,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

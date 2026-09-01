@@ -3,11 +3,11 @@
   "name": "adam01110-pi-suite",
   "url": "https://github.com/adam01110/pi-suite",
   "source": "github-search",
-  "description": "Personal Pi extension suite with compatibility integrations and Nix packaging.",
+  "description": "[Mirror] Personal Pi extension suite with compatibility integrations and Nix packaging.",
   "metadata": {
     "github_url": "https://github.com/adam01110/pi-suite",
     "repo_full_name": "adam01110/pi-suite",
-    "description": "Personal Pi extension suite with compatibility integrations and Nix packaging.",
+    "description": "[Mirror] Personal Pi extension suite with compatibility integrations and Nix packaging.",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,
@@ -15,10 +15,10 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-26T20:17:22Z",
-    "pushed_at": "2026-08-26T21:55:00Z",
-    "updated_at": "2026-08-26T22:03:50Z",
-    "size": 175,
-    "license": null,
+    "pushed_at": "2026-08-31T20:46:59Z",
+    "updated_at": "2026-08-31T20:47:23Z",
+    "size": 208,
+    "license": "GPL-3.0",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "category": "extension"

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/vedang/pi-watcher",
     "repo_full_name": "vedang/pi-watcher",
     "description": "Editor comment watch mode for `pi-coding-agent`, inspired by Aider",
-    "stars": 1,
+    "stars": 2,
     "forks": 1,
     "open_issues": 2,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-10T06:30:19Z",
     "pushed_at": "2026-07-19T17:28:47Z",
-    "updated_at": "2026-08-13T09:15:09Z",
+    "updated_at": "2026-08-31T12:29:03Z",
     "size": 3692,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

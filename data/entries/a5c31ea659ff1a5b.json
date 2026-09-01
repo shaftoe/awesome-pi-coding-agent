@@ -1,0 +1,35 @@
+{
+  "id": "@agntn/forges",
+  "name": "@agntn/forges",
+  "url": "https://www.npmjs.com/package/@agntn/forges",
+  "source": "npm-search",
+  "description": "Unified Git Provider - single TypeScript API for GitHub, GitLab, Gitea, and GitBucket",
+  "metadata": {
+    "github_url": "https://github.com/agntn/forges",
+    "npm_name": "@agntn/forges",
+    "description": "Unified Git Provider - single TypeScript API for GitHub, GitLab, Gitea, and GitBucket",
+    "keywords": [
+      "api",
+      "git",
+      "gitbucket",
+      "gitea",
+      "github",
+      "gitlab",
+      "mcp",
+      "omp-extension",
+      "pi-package",
+      "provider",
+      "unified"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-08-31T17:02:25.050Z",
+    "npm_downloads_monthly": 170,
+    "npm_downloads_weekly": 170,
+    "npm_score_final": 16.470573,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "Codex-native apply_patch, remote compaction, and cmux titles for pi",
     "stars": 3,
     "forks": 1,
-    "open_issues": 4,
+    "open_issues": 5,
     "topics": [
       "cmux",
       "codex",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-03T22:09:46Z",
-    "pushed_at": "2026-08-13T10:21:12Z",
+    "pushed_at": "2026-08-31T20:47:13Z",
     "updated_at": "2026-08-27T16:11:36Z",
-    "size": 168,
+    "size": 97,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

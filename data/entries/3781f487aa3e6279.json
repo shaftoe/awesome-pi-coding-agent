@@ -9,7 +9,7 @@
     "repo_full_name": "spksoft/pi-sub-anthropic",
     "description": "An extension for using anthropic subscription in Pi Agent.",
     "stars": 3,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

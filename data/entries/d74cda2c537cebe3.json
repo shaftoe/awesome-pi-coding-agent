@@ -8,7 +8,7 @@
     "github_url": "https://github.com/osolmaz/pi-workflows",
     "repo_full_name": "osolmaz/pi-workflows",
     "description": "Workflow engine, JSON control-flow tool, and live terminal viewer for the pi coding agent",
-    "stars": 237,
+    "stars": 243,
     "forks": 14,
     "open_issues": 2,
     "topics": [
@@ -17,9 +17,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-18T18:45:52Z",
-    "pushed_at": "2026-08-30T19:53:54Z",
-    "updated_at": "2026-08-30T22:58:01Z",
-    "size": 4142,
+    "pushed_at": "2026-08-31T18:02:30Z",
+    "updated_at": "2026-08-31T19:33:32Z",
+    "size": 4343,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
