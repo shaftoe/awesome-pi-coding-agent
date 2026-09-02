@@ -9,10 +9,10 @@
 		"preview": "astro preview"
 	},
 	"dependencies": {
-		"@astrojs/mdx": "^7.0.7",
-		"@astrojs/starlight": "^0.41.7",
-		"astro": "^7.2.4",
-		"sharp": "^0.35.3",
+		"@astrojs/mdx": "^8.0.0",
+		"@astrojs/starlight": "^0.41.11",
+		"astro": "^7.2.10",
+		"sharp": "^0.35.4",
 		"temporal-polyfill": "^1.0.4"
 	},
 	"overrides": {
