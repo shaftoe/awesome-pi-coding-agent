@@ -78,8 +78,51 @@ export function searchIndex(): AstroIntegration {
 				}> = [];
 
 				for (const file of readdirSync(dataDir).filter((f) => f.endsWith(".json"))) {
-					const raw = readFileSync(join(dataDir, file), "utf-8");
-					entries.push(JSON.parse(raw));
+					const raw = readFileSync(join(dataDir, file), "utf-8").trim();
+					if (!raw) continue;
+					try {
+						entries.push(JSON.parse(raw));
+					} catch (err) {
+						// Recover from malformed trailing characters (e.g. extra "}" — see 12ac2bc357afdde1.json).
+						// Try stripping trailing bytes until JSON parses, then warn.
+						let parsed: unknown | null = null;
+						// Fast path: extra closing braces
+						let trimmed = raw;
+						while (trimmed.endsWith("}") || trimmed.endsWith("]")) {
+							try {
+								parsed = JSON.parse(trimmed);
+								break;
+							} catch {
+								// If the last char is a brace/bracket but parse failed due to
+								// extra trailing brace, drop one and retry
+								const withoutLast = trimmed.slice(0, -1).trimEnd();
+								if (withoutLast === trimmed) break;
+								trimmed = withoutLast;
+							}
+						}
+						if (parsed !== null && typeof parsed === "object") {
+							// biome-ignore lint/suspicious/noConsole: build logging
+							console.warn(
+								`[search-index] Recovered malformed JSON in ${file} (trimmed ${raw.length - trimmed.length} trailing chars)`,
+							);
+							entries.push(parsed as (typeof entries)[number]);
+						} else {
+							// Fallback: try first JSON value only (handles concatenated JSON / trailing garbage)
+							const lastBrace = raw.lastIndexOf("}");
+							if (lastBrace !== -1) {
+								try {
+									const candidate = raw.slice(0, lastBrace + 1);
+									parsed = JSON.parse(candidate);
+									// biome-ignore lint/suspicious/noConsole: build logging
+									console.warn(`[search-index] Recovered ${file} by truncating to last '}'`);
+									entries.push(parsed as (typeof entries)[number]);
+									continue;
+								} catch {}
+							}
+							// biome-ignore lint/suspicious/noConsole: build logging
+							console.warn(`[search-index] Skipping invalid JSON in ${file}: ${err}`);
+						}
+					}
 				}
 
 				const index = entries.map((e) => {
