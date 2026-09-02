@@ -8,9 +8,9 @@
     "github_url": "https://github.com/frostime/pi-mail",
     "repo_full_name": "frostime/pi-mail",
     "description": "Project-local asynchronous mailboxes for independent Pi coding sessions",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "mailbox",
       "multi-agent",
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-08-12T16:34:54Z",
     "pushed_at": "2026-08-26T18:25:06Z",
-    "updated_at": "2026-08-26T18:43:40Z",
+    "updated_at": "2026-09-01T16:35:51Z",
     "size": 1223,
     "license": "GPL-3.0",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

@@ -21,5 +21,5 @@
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
-  "category": "extension"
+  "category": "video"
 }

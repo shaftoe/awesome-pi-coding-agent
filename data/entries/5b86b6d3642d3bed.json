@@ -3,27 +3,26 @@
   "name": "@stagefright5/pi-provider-url-logger",
   "url": "https://www.npmjs.com/package/@stagefright5/pi-provider-url-logger",
   "source": "npm-search",
-  "description": "Automatically continue pi after a user-entered single-bang shell command",
+  "description": "Ask before decisions by applying a one-turn interaction policy in pi",
   "metadata": {
     "github_url": "https://github.com/stagefright5/pi-agent-extensions",
-    "npm_name": "@stagefright5/pi-bang-dont-ghost",
-    "description": "Automatically continue pi after a user-entered single-bang shell command",
+    "npm_name": "@stagefright5/pi-ask",
+    "description": "Ask before decisions by applying a one-turn interaction policy in pi",
     "keywords": [
       "pi-package",
       "pi-extension",
-      "bash",
-      "shell",
-      "follow-up"
+      "ask",
+      "prompt-policy"
     ],
-    "version": "0.0.1",
-    "published_at": "2026-08-24T07:46:09.137Z",
-    "npm_downloads_monthly": 99,
-    "npm_downloads_weekly": 99,
-    "npm_score_final": 13.685067,
+    "version": "0.1.0",
+    "published_at": "2026-08-23T14:14:47.957Z",
+    "npm_downloads_monthly": 92,
+    "npm_downloads_weekly": 92,
+    "npm_score_final": 14.095863,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "extension"
+  "category": "misc"
 }

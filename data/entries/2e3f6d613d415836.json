@@ -8,9 +8,9 @@
     "github_url": "https://github.com/rynfar/meridian",
     "repo_full_name": "rynfar/meridian",
     "description": "Use your Claude Max subscription with OpenCode, Pi, Droid, Aider, Crush, Cline, Jcode. Proxy that bridges Anthropic's official SDK to enable Claude Max in third-party tools.",
-    "stars": 1960,
+    "stars": 1961,
     "forks": 215,
-    "open_issues": 60,
+    "open_issues": 59,
     "topics": [
       "ai-coding",
       "aider",
@@ -34,9 +34,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-01-20T21:39:40Z",
-    "pushed_at": "2026-08-31T23:05:07Z",
-    "updated_at": "2026-09-01T00:46:14Z",
-    "size": 5203,
+    "pushed_at": "2026-09-01T16:26:52Z",
+    "updated_at": "2026-09-01T17:59:22Z",
+    "size": 5352,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
@@ -44,5 +44,5 @@
     "score": 94,
     "level": "active"
   },
-  "category": "extension"
+  "category": "misc"
 }

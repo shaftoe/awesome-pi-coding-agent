@@ -25,11 +25,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-14T03:35:06Z",
-    "pushed_at": "2026-08-31T17:29:43Z",
-    "updated_at": "2026-08-31T17:32:25Z",
-    "size": 5479,
+    "pushed_at": "2026-09-01T18:57:58Z",
+    "updated_at": "2026-09-01T11:12:22Z",
+    "size": 4329,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
-  "category": "extension"
+  "category": "misc"
 }

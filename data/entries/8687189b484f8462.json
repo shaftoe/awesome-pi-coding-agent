@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Skitre/PiDeck",
     "repo_full_name": "Skitre/PiDeck",
     "description": "A desktop interface for Pi Coding Agent, with visual workflows for conversations, tool calls, sessions, models, and packages.",
-    "stars": 83,
+    "stars": 86,
     "forks": 8,
     "open_issues": 2,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-18T14:50:29Z",
     "pushed_at": "2026-08-23T15:51:17Z",
-    "updated_at": "2026-08-31T15:53:08Z",
+    "updated_at": "2026-09-01T13:45:08Z",
     "size": 25408,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

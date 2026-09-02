@@ -9,8 +9,8 @@
     "repo_full_name": "cherish-ltt/pi-dev-workflow",
     "description": "pi-dev-workflow: Developer workflow toolkit for pi: git agents, code review, Karpathy guidelines, themes ",
     "stars": 9,
-    "forks": 3,
-    "open_issues": 1,
+    "forks": 2,
+    "open_issues": 0,
     "topics": [
       "pi",
       "pi-package"
@@ -28,5 +28,5 @@
     "score": 58,
     "level": "maintained"
   },
-  "category": "extension"
+  "category": "article"
 }

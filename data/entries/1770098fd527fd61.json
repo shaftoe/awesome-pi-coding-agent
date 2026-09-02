@@ -1,0 +1,40 @@
+{
+  "id": "@gang-of-beads/pi-web",
+  "name": "@gang-of-beads/pi-web",
+  "url": "https://www.npmjs.com/package/@gang-of-beads/pi-web",
+  "source": "npm-search",
+  "description": "Web UI for persistent Pi Coding Agent sessions in real workspaces.",
+  "metadata": {
+    "github_url": "https://github.com/Gang-of-Beads/pi-web",
+    "npm_name": "@gang-of-beads/pi-web",
+    "description": "Web UI for persistent Pi Coding Agent sessions in real workspaces.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-web",
+      "pi-web-ui",
+      "pi-webui",
+      "pi-coding-agent",
+      "pi-coding-agent-web-ui",
+      "coding-agent",
+      "ai-coding-agent",
+      "agentic-development",
+      "developer-tools",
+      "web-ui",
+      "webui",
+      "browser-ui",
+      "remote-development",
+      "persistent-sessions"
+    ],
+    "version": "1.202609.4",
+    "published_at": "2026-09-01T19:17:43.858Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "theme"
+}

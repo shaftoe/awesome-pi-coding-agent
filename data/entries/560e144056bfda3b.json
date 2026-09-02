@@ -3,24 +3,23 @@
   "name": "@alexleekt/pi-bump",
   "url": "https://www.npmjs.com/package/@alexleekt/pi-bump",
   "source": "npm-search",
-  "description": "Invisible continuation for the Pi agent. Double-tap Enter on empty chat to resume the agentic loop without sending the LLM a single token.",
+  "description": "Know where you are at a glance. One-line session heading widget for the Pi agent.",
   "metadata": {
     "github_url": "https://github.com/alexleekt/pi-extensions",
-    "npm_name": "@alexleekt/pi-bump",
-    "description": "Invisible continuation for the Pi agent. Double-tap Enter on empty chat to resume the agentic loop without sending the LLM a single token.",
+    "npm_name": "@alexleekt/pi-heading",
+    "description": "Know where you are at a glance. One-line session heading widget for the Pi agent.",
     "keywords": [
       "pi-package",
       "pi-extension",
       "pi",
-      "bump",
-      "invisible",
-      "continue"
+      "heading",
+      "session-summary"
     ],
-    "version": "0.3.3",
-    "published_at": "2026-08-29T01:25:56.056Z",
-    "npm_downloads_monthly": 104,
-    "npm_downloads_weekly": 14,
-    "npm_score_final": 13.853666,
+    "version": "0.3.1",
+    "published_at": "2026-08-31T04:11:28.446Z",
+    "npm_downloads_monthly": 249,
+    "npm_downloads_weekly": 146,
+    "npm_score_final": 17.691656,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
@@ -30,5 +29,5 @@
     "score": 76,
     "level": "active"
   },
-  "category": "extension"
+  "category": "misc"
 }

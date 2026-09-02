@@ -1,0 +1,28 @@
+{
+  "id": "pi-fuzz",
+  "name": "pi-fuzz",
+  "url": "https://www.npmjs.com/package/pi-fuzz",
+  "source": "npm-search",
+  "description": "Fuzz out the screen during long pi sessions to rest your eyes. Any key unfuzzes.",
+  "metadata": {
+    "github_url": "https://github.com/MrNeth/pi-fuzz",
+    "npm_name": "pi-fuzz",
+    "description": "Fuzz out the screen during long pi sessions to rest your eyes. Any key unfuzzes.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "eye-strain",
+      "screensaver"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-26T00:01:59.519Z",
+    "npm_downloads_monthly": 154,
+    "npm_downloads_weekly": 154,
+    "npm_score_final": 15.113142,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

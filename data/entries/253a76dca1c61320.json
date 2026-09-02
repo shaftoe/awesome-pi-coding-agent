@@ -3,26 +3,26 @@
   "name": "@henryqw/pi-ask-question",
   "url": "https://www.npmjs.com/package/@henryqw/pi-ask-question",
   "source": "npm-search",
-  "description": "Use multiple ChatGPT Codex OAuth accounts in Pi.",
+  "description": "Ask Pi users one interactive question with choices or a custom answer.",
   "metadata": {
     "github_url": "https://github.com/HenryQW/pi-harness",
-    "npm_name": "@henryqw/pi-multi-codex",
-    "description": "Use multiple ChatGPT Codex OAuth accounts in Pi.",
+    "npm_name": "@henryqw/pi-ask-question",
+    "description": "Ask Pi users one interactive question with choices or a custom answer.",
     "keywords": [
       "pi-package",
       "pi",
-      "codex",
-      "oauth"
+      "question",
+      "interactive"
     ],
-    "version": "0.3.19",
-    "published_at": "2026-08-30T15:59:56.896Z",
-    "npm_downloads_monthly": 1840,
-    "npm_downloads_weekly": 1511,
-    "npm_score_final": 25.23808,
+    "version": "0.2.5",
+    "published_at": "2026-09-01T17:52:19.182Z",
+    "npm_downloads_monthly": 1967,
+    "npm_downloads_weekly": 1310,
+    "npm_score_final": 24.210846,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "extension"
+  "category": "misc"
 }

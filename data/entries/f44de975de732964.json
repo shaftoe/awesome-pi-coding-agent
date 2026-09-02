@@ -8,7 +8,7 @@
     "github_url": "https://github.com/glassesneo/pi-decision-ui",
     "repo_full_name": "glassesneo/pi-decision-ui",
     "description": "Accessible adaptive decision flows and a question extension for Pi",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-08-31T05:13:30Z",
     "pushed_at": "2026-08-31T05:57:56Z",
-    "updated_at": "2026-08-31T07:22:03Z",
+    "updated_at": "2026-09-01T08:29:17Z",
     "size": 63,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

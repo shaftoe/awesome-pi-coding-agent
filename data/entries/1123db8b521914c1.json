@@ -1,0 +1,30 @@
+{
+  "id": "@ladbabynpm/picc-loop",
+  "name": "@ladbabynpm/picc-loop",
+  "url": "https://www.npmjs.com/package/@ladbabynpm/picc-loop",
+  "source": "npm-search",
+  "description": "Cron-based scheduling for pi: CronCreate/CronDelete/CronList tools + /loop command with cross-session leader election.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@ladbabynpm/picc-loop",
+    "description": "Cron-based scheduling for pi: CronCreate/CronDelete/CronList tools + /loop command with cross-session leader election.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "cron",
+      "scheduling",
+      "loop"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-20T12:25:42.381Z",
+    "npm_downloads_monthly": 96,
+    "npm_downloads_weekly": 96,
+    "npm_score_final": 14.248432,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

@@ -32,9 +32,9 @@
     ],
     "version": "2026.8.11",
     "published_at": "2026-08-11T13:12:01.067Z",
-    "npm_downloads_monthly": 3175,
-    "npm_downloads_weekly": 445,
-    "npm_score_final": 24.87495,
+    "npm_downloads_monthly": 2967,
+    "npm_downloads_weekly": 377,
+    "npm_score_final": 26.736555,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
@@ -44,5 +44,5 @@
     "score": 82,
     "level": "active"
   },
-  "category": "extension"
+  "category": "misc"
 }

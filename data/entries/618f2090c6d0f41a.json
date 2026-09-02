@@ -21,5 +21,5 @@
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
-  "category": "extension"
+  "category": "misc"
 }

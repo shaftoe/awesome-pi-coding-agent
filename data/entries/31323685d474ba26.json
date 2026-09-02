@@ -9,8 +9,8 @@
     "repo_full_name": "Zetaphor/pi-vscode-extension",
     "description": "Pi coding agent, as a VSCode extension",
     "stars": 44,
-    "forks": 8,
-    "open_issues": 1,
+    "forks": 7,
+    "open_issues": 0,
     "topics": [
       "harness",
       "pi-coding-agent",

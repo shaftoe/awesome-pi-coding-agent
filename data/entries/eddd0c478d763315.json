@@ -11,8 +11,8 @@
     "channel": "Vilson Vieira",
     "published_at": "2026-04-29T16:57:10Z",
     "thumbnail": "https://i.ytimg.com/vi/yAPKzHrx3eo/hqdefault.jpg",
-    "views": 33673,
-    "likes": 1066,
+    "views": 33891,
+    "likes": 1068,
     "comments": 122,
     "discovery_hint": "youtube:pi-agent"
   },
@@ -20,5 +20,5 @@
     "score": 60,
     "level": "maintained"
   },
-  "category": "video"
+  "category": "misc"
 }

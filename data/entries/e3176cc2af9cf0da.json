@@ -20,15 +20,15 @@
       "prompt-scheduler",
       "recurring-tasks"
     ],
-    "version": "0.0.1-alpha.45",
-    "published_at": "2026-08-31T14:01:27.391Z",
+    "version": "0.0.1-alpha.48",
+    "published_at": "2026-09-01T23:24:25.159Z",
     "npm_downloads_monthly": 6833,
     "npm_downloads_weekly": 1214,
-    "npm_score_final": 28.30901,
+    "npm_score_final": 28.034237,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "extension"
+  "category": "misc"
 }

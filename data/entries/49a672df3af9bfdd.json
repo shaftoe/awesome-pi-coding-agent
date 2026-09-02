@@ -25,5 +25,5 @@
     "license": null,
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
-  "category": "extension"
+  "category": "theme"
 }
