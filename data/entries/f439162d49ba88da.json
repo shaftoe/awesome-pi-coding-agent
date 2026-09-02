@@ -1,0 +1,30 @@
+{
+  "id": "pi-tool-missing-guard",
+  "name": "pi-tool-missing-guard",
+  "url": "https://www.npmjs.com/package/pi-tool-missing-guard",
+  "source": "npm-search",
+  "description": "Pi extension that detects missing tools/commands, interrupts the agent instead of letting it improvise with substitutes, and tells the user what to install plus available alternatives.",
+  "metadata": {
+    "github_url": "https://github.com/thomas-yanga/pi-tool-missing-guard",
+    "npm_name": "pi-tool-missing-guard",
+    "description": "Pi extension that detects missing tools/commands, interrupts the agent instead of letting it improvise with substitutes, and tells the user what to install plus available alternatives.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "tool-missing",
+      "command-not-found",
+      "alternatives"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-25T06:28:13.606Z",
+    "npm_downloads_monthly": 432,
+    "npm_downloads_weekly": 432,
+    "npm_score_final": 18.898626,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

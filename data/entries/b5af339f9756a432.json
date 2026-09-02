@@ -3,21 +3,26 @@
   "name": "LabidySabidy-pi-agent-harness",
   "url": "https://github.com/LabidySabidy/pi-agent-harness",
   "source": "github-search",
-  "description": "",
+  "description": "Solo-developer agent harness: composable skills, project memory, event-driven extensions for the Pi coding agent.",
   "metadata": {
     "github_url": "https://github.com/LabidySabidy/pi-agent-harness",
     "repo_full_name": "LabidySabidy/pi-agent-harness",
-    "description": "",
+    "description": "Solo-developer agent harness: composable skills, project memory, event-driven extensions for the Pi coding agent.",
     "stars": 3,
     "forks": 1,
     "open_issues": 0,
-    "topics": [],
+    "topics": [
+      "agent",
+      "automation",
+      "cli",
+      "typescript"
+    ],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-06T04:00:30Z",
-    "pushed_at": "2026-07-09T01:50:21Z",
-    "updated_at": "2026-08-28T10:33:02Z",
-    "size": 203,
+    "pushed_at": "2026-09-01T06:45:22Z",
+    "updated_at": "2026-09-01T06:46:17Z",
+    "size": 220,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
@@ -25,5 +30,5 @@
     "score": 50,
     "level": "maintained"
   },
-  "category": "misc"
+  "category": "extension"
 }

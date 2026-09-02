@@ -10,7 +10,7 @@
     "description": "A polished, multilingual and themeable TUI extension for the Pi coding agent",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "pi-coding-agent",
       "pi-package",
@@ -27,5 +27,5 @@
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
-  "category": "extension"
+  "category": "theme"
 }

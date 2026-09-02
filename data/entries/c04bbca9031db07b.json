@@ -1,0 +1,32 @@
+{
+  "id": "ArdaYILDIZ-DEV-pi-prompt-snippets",
+  "name": "ArdaYILDIZ-DEV-pi-prompt-snippets",
+  "url": "https://github.com/ArdaYILDIZ-DEV/pi-prompt-snippets",
+  "source": "github-search",
+  "description": "Composable prompt snippet injection extension with an interactive TUI menu and multi-tier directory support for Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/ArdaYILDIZ-DEV/pi-prompt-snippets",
+    "repo_full_name": "ArdaYILDIZ-DEV/pi-prompt-snippets",
+    "description": "Composable prompt snippet injection extension with an interactive TUI menu and multi-tier directory support for Pi coding agent.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "prompt-snippets",
+      "tui",
+      "workflow-automation"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-01T11:52:34Z",
+    "pushed_at": "2026-09-01T11:57:35Z",
+    "updated_at": "2026-09-01T12:13:14Z",
+    "size": 19,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "theme"
+}

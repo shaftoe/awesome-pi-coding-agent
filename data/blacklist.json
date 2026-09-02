@@ -51247,5 +51247,255 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-theme"
 		}
+	},
+	{
+		"url": "https://github.com/doccker/ui-refactor",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-02T00:48:49.53898122Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/nick8cyber/bb-addons",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-02T00:48:49.553530524Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-manage",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-02T00:48:49.578203395Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/lyxhnu/my-pi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-02T00:48:49.592190437Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/proxysoul/empryo-bench",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-02T00:48:49.646281656Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=fmoxxjqE22w",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-02T00:48:49.66272179Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/CandyMuj/pi-candy-extensions",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-02T00:48:49.704505707Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@muzi3/fuzzy-selector",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-02T00:48:49.778946888Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@disappear00/ink-api",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-02T00:48:49.846087751Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/omp_hub_client",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-09-02T00:48:49.881574439Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/fyc09/pi-weixin-bridge",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-02T00:48:49.906576805Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@capdiem/pi-repetition-guard",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-02T00:48:49.926090759Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/glebis/pibot",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-02T00:48:49.935095525Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@unifan/pi-unifan-zh",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-02T00:48:49.974967427Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@unifan/pi-review-zh",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-02T00:48:50.014900003Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=jFqrXIjttE8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-02T00:48:50.023943651Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/oscabriel/pi-unslop",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-02T00:48:50.23354767Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=DN2ClouOhk0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-02T00:48:50.311030928Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@disappear00/ink-tui",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-02T00:48:50.362959204Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@disappear00/ink-cli",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-02T00:48:50.37197519Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-agents-local-md",
+		"reason": "industrial pi signal: \"pi system\"",
+		"blacklisted_at": "2026-09-02T00:48:50.635884216Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/psychoticbeef/pi-caveman",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-02T00:48:50.644705008Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@muzi3/comate-quota",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-02T00:48:50.653606852Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=OCwb7LaEHzw",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-02T00:48:50.686006666Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@liuchen64/pi-codegraph-tools",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-02T00:48:50.709222131Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
 	}
 ]

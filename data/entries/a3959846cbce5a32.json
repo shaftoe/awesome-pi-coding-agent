@@ -9,7 +9,7 @@
     "repo_full_name": "0xrsydn/pstack-pi",
     "description": "Port of Lauren Tan's pstack (Cursor plugin) to the pi coding agent: 44 workflow & principle skills plus subagent fan-out with per-role models.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "agent-skills",

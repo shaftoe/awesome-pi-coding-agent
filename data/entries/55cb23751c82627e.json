@@ -15,11 +15,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-22T11:43:00Z",
-    "pushed_at": "2026-09-01T00:41:44Z",
-    "updated_at": "2026-09-01T00:42:22Z",
-    "size": 2193,
+    "pushed_at": "2026-09-01T08:23:02Z",
+    "updated_at": "2026-09-01T08:35:23Z",
+    "size": 2634,
     "license": null,
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
-  "category": "extension"
+  "category": "theme"
 }

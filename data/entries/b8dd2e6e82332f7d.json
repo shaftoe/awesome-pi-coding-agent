@@ -17,15 +17,15 @@
       "llm",
       "pi-package"
     ],
-    "version": "0.1.54",
-    "published_at": "2026-08-31T15:47:26.329Z",
+    "version": "0.1.55",
+    "published_at": "2026-09-01T02:22:04.632Z",
     "npm_downloads_monthly": 13368,
     "npm_downloads_weekly": 7409,
-    "npm_score_final": 29.725311,
+    "npm_score_final": 32.245804,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "extension"
+  "category": "misc"
 }

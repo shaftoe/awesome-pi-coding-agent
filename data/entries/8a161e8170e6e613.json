@@ -1,0 +1,31 @@
+{
+  "id": "@wxk6b1203/pi-init",
+  "name": "@wxk6b1203/pi-init",
+  "url": "https://www.npmjs.com/package/@wxk6b1203/pi-init",
+  "source": "npm-search",
+  "description": "pi extension: /init command that explores the project and creates or updates AGENTS.md",
+  "metadata": {
+    "github_url": "https://github.com/wxk6b1203/pi-init",
+    "npm_name": "@wxk6b1203/pi-init",
+    "description": "pi extension: /init command that explores the project and creates or updates AGENTS.md",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "agents-md",
+      "init",
+      "coding-agent"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-01T13:50:20.873Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

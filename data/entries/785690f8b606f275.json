@@ -1,0 +1,29 @@
+{
+  "id": "@estebanforge/pi-hostname",
+  "name": "@estebanforge/pi-hostname",
+  "url": "https://www.npmjs.com/package/@estebanforge/pi-hostname",
+  "source": "npm-search",
+  "description": "Hostname indicator for Pi. Shows the machine hostname as the first item in the footer status line (bottom left), so you always know which box a session runs on across remote machines.",
+  "metadata": {
+    "github_url": "https://github.com/EstebanForge/pi-hostname",
+    "npm_name": "@estebanforge/pi-hostname",
+    "description": "Hostname indicator for Pi. Shows the machine hostname as the first item in the footer status line (bottom left), so you always know which box a session runs on across remote machines.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "hostname",
+      "status-bar",
+      "footer"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-08-24T13:58:18.279Z",
+    "npm_downloads_monthly": 97,
+    "npm_downloads_weekly": 97,
+    "npm_score_final": 14.409026,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

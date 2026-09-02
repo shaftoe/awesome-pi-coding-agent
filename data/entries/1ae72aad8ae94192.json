@@ -1,0 +1,25 @@
+{
+  "id": "pi-git-bash-only",
+  "name": "pi-git-bash-only",
+  "url": "https://www.npmjs.com/package/pi-git-bash-only",
+  "source": "npm-search",
+  "description": "Enforce Git Bash as the only shell for pi on Windows: hard-block powershell/pwsh/cmd calls, inject shell policy into the system prompt, verify shell configuration, and install wmicu + gbk (GBK to UTF-8 wrappers for native exe output).",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-git-bash-only",
+    "description": "Enforce Git Bash as the only shell for pi on Windows: hard-block powershell/pwsh/cmd calls, inject shell policy into the system prompt, verify shell configuration, and install wmicu + gbk (GBK to UTF-8 wrappers for native exe output).",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.1.1",
+    "published_at": "2026-08-25T03:51:35.735Z",
+    "npm_downloads_monthly": 425,
+    "npm_downloads_weekly": 425,
+    "npm_score_final": 18.6061,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

@@ -8,8 +8,8 @@
     "github_url": "https://github.com/osolmaz/pi-workflows",
     "repo_full_name": "osolmaz/pi-workflows",
     "description": "Workflow engine, JSON control-flow tool, and live terminal viewer for the pi coding agent",
-    "stars": 243,
-    "forks": 14,
+    "stars": 251,
+    "forks": 15,
     "open_issues": 2,
     "topics": [
       "herdr-plugin"
@@ -17,11 +17,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-18T18:45:52Z",
-    "pushed_at": "2026-08-31T18:02:30Z",
-    "updated_at": "2026-08-31T19:33:32Z",
-    "size": 4343,
+    "pushed_at": "2026-09-02T00:30:30Z",
+    "updated_at": "2026-09-01T18:12:20Z",
+    "size": 4358,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
-  "category": "extension"
+  "category": "misc"
 }

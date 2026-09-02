@@ -8,7 +8,7 @@
     "github_url": "https://github.com/deepclause/deepclause-pi",
     "repo_full_name": "deepclause/deepclause-pi",
     "description": "DeepClause Extension for the Pi Coding Agent",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-19T13:20:46Z",
     "pushed_at": "2026-08-23T04:01:55Z",
-    "updated_at": "2026-08-23T04:01:57Z",
+    "updated_at": "2026-09-01T23:57:43Z",
     "size": 100,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

@@ -3,23 +3,24 @@
   "name": "pi-web-kit",
   "url": "https://www.npmjs.com/package/pi-web-kit",
   "source": "npm-search",
-  "description": "Persistent long-running goals for Pi.",
+  "description": "Generate AGENTS.md contributor guides for Pi repositories.",
   "metadata": {
     "github_url": "https://github.com/jvm/pi-mono",
-    "npm_name": "@mocito/pi-goal",
-    "description": "Persistent long-running goals for Pi.",
+    "npm_name": "pi-agentsmd",
+    "description": "Generate AGENTS.md contributor guides for Pi repositories.",
     "keywords": [
       "pi-package",
       "pi-extension",
       "pi",
-      "goal",
-      "automation"
+      "agents-md",
+      "documentation",
+      "repository-guidelines"
     ],
-    "version": "0.1.11",
-    "published_at": "2026-07-17T21:22:49.053Z",
-    "npm_downloads_monthly": 97,
-    "npm_downloads_weekly": 11,
-    "npm_score_final": 13.615278,
+    "version": "0.1.4",
+    "published_at": "2026-08-20T07:18:24.791Z",
+    "npm_downloads_monthly": 536,
+    "npm_downloads_weekly": 287,
+    "npm_score_final": 20.482914,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
@@ -29,5 +30,5 @@
     "score": 82,
     "level": "active"
   },
-  "category": "extension"
+  "category": "article"
 }

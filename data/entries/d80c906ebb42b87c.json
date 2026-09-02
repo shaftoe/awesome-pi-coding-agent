@@ -9,7 +9,7 @@
     "repo_full_name": "prateekmedia/claude-agent-sdk-pi",
     "description": "Claude agent sdk as a provider for pi",
     "stars": 116,
-    "forks": 23,
+    "forks": 22,
     "open_issues": 10,
     "topics": [],
     "language": "TypeScript",
@@ -25,5 +25,5 @@
     "score": 72,
     "level": "active"
   },
-  "category": "extension"
+  "category": "misc"
 }

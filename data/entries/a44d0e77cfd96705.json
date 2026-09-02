@@ -21,15 +21,15 @@
       "lm-studio",
       "lmstudio"
     ],
-    "version": "1.2.3",
-    "published_at": "2026-08-31T02:20:12.112Z",
+    "version": "1.2.4",
+    "published_at": "2026-09-01T11:16:25.737Z",
     "npm_downloads_monthly": 551,
     "npm_downloads_weekly": 551,
-    "npm_score_final": 19.560472,
+    "npm_score_final": 19.370876,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "extension"
+  "category": "misc"
 }

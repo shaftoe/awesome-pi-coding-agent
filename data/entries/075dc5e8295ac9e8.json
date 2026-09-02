@@ -11,7 +11,7 @@
     "channel": "Michael",
     "published_at": "2026-02-21T19:56:49Z",
     "thumbnail": "https://i.ytimg.com/vi/XqFun9XCXPw/hqdefault.jpg",
-    "views": 22731,
+    "views": 22852,
     "likes": 434,
     "comments": 31,
     "discovery_hint": "youtube:pi-package"
@@ -20,5 +20,5 @@
     "score": 60,
     "level": "maintained"
   },
-  "category": "video"
+  "category": "extension"
 }

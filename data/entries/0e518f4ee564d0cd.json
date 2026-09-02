@@ -9,7 +9,7 @@
     "repo_full_name": "kkgogogo17/pi-pstack",
     "description": "Pi-native port of pstack skills, sticky Poteto Mode, and isolated subagents.",
     "stars": 5,
-    "forks": 4,
+    "forks": 3,
     "open_issues": 2,
     "topics": [
       "pi",
@@ -27,5 +27,5 @@
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
-  "category": "extension"
+  "category": "misc"
 }

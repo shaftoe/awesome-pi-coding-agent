@@ -13,15 +13,15 @@
       "pi-extension",
       "pi-coding-agent"
     ],
-    "version": "0.2.4",
-    "published_at": "2026-08-27T20:20:40.316Z",
-    "npm_downloads_monthly": 979,
-    "npm_downloads_weekly": 206,
-    "npm_score_final": 20.91897,
+    "version": "0.2.5",
+    "published_at": "2026-09-02T00:39:41.409Z",
+    "npm_downloads_monthly": 890,
+    "npm_downloads_weekly": 204,
+    "npm_score_final": 21.42934,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "extension"
+  "category": "misc"
 }

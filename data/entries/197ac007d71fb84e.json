@@ -8,16 +8,16 @@
     "github_url": "https://github.com/luongnv89/pi-extensions",
     "repo_full_name": "luongnv89/pi-extensions",
     "description": "Collection of extensions and themes for Pi Coding Agent",
-    "stars": 101,
-    "forks": 6,
-    "open_issues": 0,
+    "stars": 102,
+    "forks": 7,
+    "open_issues": 3,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-19T21:12:28Z",
-    "pushed_at": "2026-08-28T08:59:34Z",
-    "updated_at": "2026-08-31T05:49:43Z",
-    "size": 4289,
+    "pushed_at": "2026-09-01T22:54:38Z",
+    "updated_at": "2026-09-01T17:03:01Z",
+    "size": 4335,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
@@ -25,5 +25,5 @@
     "score": 58,
     "level": "maintained"
   },
-  "category": "extension"
+  "category": "theme"
 }

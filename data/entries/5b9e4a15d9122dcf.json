@@ -10,7 +10,7 @@
     "description": "Lively Working-line extension for pi CLI and DSH",
     "stars": 656,
     "forks": 233,
-    "open_issues": 5,
+    "open_issues": 6,
     "topics": [
       "deepseek-harness",
       "dsh-plugin",

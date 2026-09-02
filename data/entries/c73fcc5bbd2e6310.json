@@ -1,0 +1,33 @@
+{
+  "id": "pi-subagent-extension",
+  "name": "pi-subagent-extension",
+  "url": "https://www.npmjs.com/package/pi-subagent-extension",
+  "source": "npm-search",
+  "description": "Subagent delegation for pi: single, parallel, and chained runs in isolated pi processes, with a user-defined agent roster, model resolution, and slash commands.",
+  "metadata": {
+    "github_url": "https://github.com/Fornace/pi-subagent-extension",
+    "npm_name": "pi-subagent-extension",
+    "description": "Subagent delegation for pi: single, parallel, and chained runs in isolated pi processes, with a user-defined agent roster, model resolution, and slash commands.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "subagent",
+      "agents",
+      "delegation",
+      "parallel",
+      "orchestration",
+      "isolated-context"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-09-01T14:54:31.070Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "misc"
+}

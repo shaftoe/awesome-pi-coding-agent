@@ -22,11 +22,11 @@
       "ai-coding-agent",
       "agent-harness"
     ],
-    "version": "2.2.0",
-    "published_at": "2026-08-17T20:14:47.691Z",
+    "version": "2.3.0",
+    "published_at": "2026-09-01T11:22:04.900Z",
     "npm_downloads_monthly": 7297,
     "npm_downloads_weekly": 1742,
-    "npm_score_final": 28.402578,
+    "npm_score_final": 30.289297,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
@@ -36,5 +36,5 @@
     "score": 88,
     "level": "active"
   },
-  "category": "extension"
+  "category": "misc"
 }

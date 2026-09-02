@@ -10,7 +10,7 @@
     "description": "A process-memory prompt stack for Pi",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "pi",
       "pi-package",
@@ -19,9 +19,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-25T21:09:28Z",
-    "pushed_at": "2026-08-26T22:48:45Z",
+    "pushed_at": "2026-09-01T01:48:34Z",
     "updated_at": "2026-08-26T22:58:31Z",
-    "size": 58,
+    "size": 85,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

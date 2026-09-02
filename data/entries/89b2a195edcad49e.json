@@ -1,0 +1,25 @@
+{
+  "id": "xinyang920-pi-prompt-enhancer",
+  "name": "xinyang920-pi-prompt-enhancer",
+  "url": "https://github.com/xinyang920/pi-prompt-enhancer",
+  "source": "github-search",
+  "description": "prompt enhance for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/xinyang920/pi-prompt-enhancer",
+    "repo_full_name": "xinyang920/pi-prompt-enhancer",
+    "description": "prompt enhance for pi coding agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-01T15:15:44Z",
+    "pushed_at": "2026-09-01T15:38:14Z",
+    "updated_at": "2026-09-01T15:55:27Z",
+    "size": 14,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}
