@@ -1,0 +1,35 @@
+{
+  "id": "@patimweb/pi-nodejs-bestpractices",
+  "name": "@patimweb/pi-nodejs-bestpractices",
+  "url": "https://www.npmjs.com/package/@patimweb/pi-nodejs-bestpractices",
+  "source": "npm-search",
+  "description": "Node.js best practices for the Pi coding agent — Matteo Collina's `node` skill, vendored 1:1 from mcollina/skills (MIT). TypeScript type-stripping, async patterns, error handling, streams, performance, profiling, testing, and more.",
+  "metadata": {
+    "github_url": "https://github.com/Smotherer007/pi-nodejs-bestpractices",
+    "npm_name": "@patimweb/pi-nodejs-bestpractices",
+    "description": "Node.js best practices for the Pi coding agent — Matteo Collina's `node` skill, vendored 1:1 from mcollina/skills (MIT). TypeScript type-stripping, async patterns, error handling, streams, performance, profiling, testing, and more.",
+    "keywords": [
+      "pi-package",
+      "pi-skill",
+      "nodejs",
+      "node",
+      "best-practices",
+      "typescript",
+      "type-stripping",
+      "performance",
+      "streams",
+      "testing",
+      "coding-agent"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-08-25T09:41:35.786Z",
+    "npm_downloads_monthly": 396,
+    "npm_downloads_weekly": 396,
+    "npm_score_final": 19.566877,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "@danievanzyl/code-skills",
+  "name": "@danievanzyl/code-skills",
+  "url": "https://www.npmjs.com/package/@danievanzyl/code-skills",
+  "source": "npm-search",
+  "description": "Pi extensions for shared status UI, background subagents, GitHub status, and terminal workflow",
+  "metadata": {
+    "github_url": "https://github.com/danievanzyl/code-skills",
+    "npm_name": "@danievanzyl/code-skills",
+    "description": "Pi extensions for shared status UI, background subagents, GitHub status, and terminal workflow",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "coding-agent",
+      "subagents",
+      "terminal-ui"
+    ],
+    "version": "0.1.50",
+    "published_at": "2026-09-02T15:04:45.895Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

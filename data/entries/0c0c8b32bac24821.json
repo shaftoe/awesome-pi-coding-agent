@@ -1,0 +1,35 @@
+{
+  "id": "pi-herdr-subagents-planning",
+  "name": "pi-herdr-subagents-planning",
+  "url": "https://www.npmjs.com/package/pi-herdr-subagents-planning",
+  "source": "npm-search",
+  "description": "Single pi package for the entire /plan grill-and-plan workflow — one interactive planner does grilling + domain-modeling → pointer plan + todos → sequential workers → reviewer, all on herdr subagents.",
+  "metadata": {
+    "github_url": "https://github.com/giacolees/plan-herdr-subagents",
+    "npm_name": "pi-herdr-subagents-planning",
+    "description": "Single pi package for the entire /plan grill-and-plan workflow — one interactive planner does grilling + domain-modeling → pointer plan + todos → sequential workers → reviewer, all on herdr subagents.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "herdr",
+      "subagents",
+      "plan",
+      "grilling",
+      "domain-modeling",
+      "planner",
+      "worker",
+      "reviewer",
+      "scout"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-08-26T14:55:21.076Z",
+    "npm_downloads_monthly": 302,
+    "npm_downloads_weekly": 302,
+    "npm_score_final": 18.375132,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

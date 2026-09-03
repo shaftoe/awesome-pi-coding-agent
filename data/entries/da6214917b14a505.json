@@ -1,0 +1,36 @@
+{
+  "id": "dingdinglz-pi-gpt-fast-extension",
+  "name": "dingdinglz-pi-gpt-fast-extension",
+  "url": "https://github.com/dingdinglz/pi-gpt-fast-extension",
+  "source": "github-search",
+  "description": "Persistent GPT Fast Mode (OpenAI priority service tier) extension for the Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/dingdinglz/pi-gpt-fast-extension",
+    "repo_full_name": "dingdinglz/pi-gpt-fast-extension",
+    "description": "Persistent GPT Fast Mode (OpenAI priority service tier) extension for the Pi coding agent.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "fast-mode",
+      "gpt",
+      "openai",
+      "openai-codex",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "priority",
+      "service-tier"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-02T03:01:00Z",
+    "pushed_at": "2026-09-02T03:05:30Z",
+    "updated_at": "2026-09-02T03:07:17Z",
+    "size": 7,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

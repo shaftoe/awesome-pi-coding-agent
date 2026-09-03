@@ -8,7 +8,7 @@
     "github_url": "https://github.com/zen8labs/pi-cloud-agent",
     "repo_full_name": "zen8labs/pi-cloud-agent",
     "description": "A minimal and self-contained cloud agent built from first principles",
-    "stars": 2,
+    "stars": 3,
     "forks": 1,
     "open_issues": 2,
     "topics": [
@@ -25,10 +25,10 @@
     "archived": false,
     "created_at": "2026-06-05T08:01:52Z",
     "pushed_at": "2026-08-24T13:09:16Z",
-    "updated_at": "2026-08-24T03:52:42Z",
+    "updated_at": "2026-09-01T14:29:00Z",
     "size": 2449,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "misc"
 }

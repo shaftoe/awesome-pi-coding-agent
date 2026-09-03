@@ -1,0 +1,33 @@
+{
+  "id": "panbergco-pi-peer-agent",
+  "name": "panbergco-pi-peer-agent",
+  "url": "https://github.com/panbergco/pi-peer-agent",
+  "source": "github-search",
+  "description": "Resident peer agents for pi — long-running partners inside your session that tick on their own rhythm, watch the work, and push findings back into the conversation.",
+  "metadata": {
+    "github_url": "https://github.com/panbergco/pi-peer-agent",
+    "repo_full_name": "panbergco/pi-peer-agent",
+    "description": "Resident peer agents for pi — long-running partners inside your session that tick on their own rhythm, watch the work, and push findings back into the conversation.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "code-review",
+      "multi-agent",
+      "pi",
+      "pi-extension",
+      "tui",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-05T00:13:05Z",
+    "pushed_at": "2026-08-28T21:39:04Z",
+    "updated_at": "2026-09-01T20:12:19Z",
+    "size": 574,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

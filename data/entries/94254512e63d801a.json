@@ -29,5 +29,5 @@
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
-  "category": "theme"
+  "category": "extension"
 }

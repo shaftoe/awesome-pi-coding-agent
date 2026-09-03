@@ -1,0 +1,25 @@
+{
+  "id": "MayaArden-KayaCode",
+  "name": "MayaArden-KayaCode",
+  "url": "https://github.com/MayaArden/KayaCode",
+  "source": "github-search",
+  "description": "Kaya — standalone terminal AI coding agent built on Pi's published packages: client-server by construction, own extension system, MCP client, Telegram bot client.",
+  "metadata": {
+    "github_url": "https://github.com/MayaArden/KayaCode",
+    "repo_full_name": "MayaArden/KayaCode",
+    "description": "Kaya — standalone terminal AI coding agent built on Pi's published packages: client-server by construction, own extension system, MCP client, Telegram bot client.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-02T11:48:26Z",
+    "pushed_at": "2026-09-02T18:20:48Z",
+    "updated_at": "2026-09-02T18:22:46Z",
+    "size": 140,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

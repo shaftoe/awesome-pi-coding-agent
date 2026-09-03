@@ -1,0 +1,31 @@
+{
+  "id": "@bhardwj-sarvesh-projects/curlycoder",
+  "name": "@bhardwj-sarvesh-projects/curlycoder",
+  "url": "https://www.npmjs.com/package/@bhardwj-sarvesh-projects/curlycoder",
+  "source": "npm-search",
+  "description": "Lazy senior dev mode for AI agents. The best code is the code you never wrote.",
+  "metadata": {
+    "github_url": "https://github.com/bhardwj-sarvesh-projects/CurlyCoder",
+    "npm_name": "@bhardwj-sarvesh-projects/curlycoder",
+    "description": "Lazy senior dev mode for AI agents. The best code is the code you never wrote.",
+    "keywords": [
+      "opencode-plugin",
+      "opencode",
+      "curlycoder",
+      "pi-package",
+      "pi",
+      "skills",
+      "qoder"
+    ],
+    "version": "5.7.4",
+    "published_at": "2026-08-26T19:24:54.871Z",
+    "npm_downloads_monthly": 121,
+    "npm_downloads_weekly": 121,
+    "npm_score_final": 14.276112,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

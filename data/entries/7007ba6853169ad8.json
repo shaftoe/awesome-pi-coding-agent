@@ -1,0 +1,25 @@
+{
+  "id": "runecraftai-skills",
+  "name": "runecraftai-skills",
+  "url": "https://github.com/runecraftai/skills",
+  "source": "github-search",
+  "description": "Runecraft Skills — agent skill catalog (SKILL.md packages) with a drill-style interactive installer TUI for pi, claude, codex and opencode",
+  "metadata": {
+    "github_url": "https://github.com/runecraftai/skills",
+    "repo_full_name": "runecraftai/skills",
+    "description": "Runecraft Skills — agent skill catalog (SKILL.md packages) with a drill-style interactive installer TUI for pi, claude, codex and opencode",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-13T00:30:36Z",
+    "pushed_at": "2026-09-02T21:47:16Z",
+    "updated_at": "2026-09-02T22:18:17Z",
+    "size": 399,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

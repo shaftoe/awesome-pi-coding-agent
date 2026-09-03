@@ -8,7 +8,7 @@
     "github_url": "https://github.com/dhruvkelawala/loopwatch",
     "repo_full_name": "dhruvkelawala/loopwatch",
     "description": "Loopwatch — a local, passive convergence layer for AI coding agents (Pi, Codex, Claude Code): watches sessions, recommends loops, flags drift. Design + v1 PRD.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 14,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-06-19T10:43:07Z",
     "pushed_at": "2026-07-14T15:48:50Z",
-    "updated_at": "2026-07-04T12:05:11Z",
+    "updated_at": "2026-09-02T04:56:29Z",
     "size": 689,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

@@ -27,11 +27,11 @@
     "published_at": "2026-08-31T06:11:26.978Z",
     "npm_downloads_monthly": 240,
     "npm_downloads_weekly": 240,
-    "npm_score_final": 17.557968,
+    "npm_score_final": 16.870111,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "misc"
+  "category": "extension"
 }

@@ -24,11 +24,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-29T17:36:16Z",
-    "pushed_at": "2026-09-01T17:49:29Z",
-    "updated_at": "2026-08-31T14:55:29Z",
-    "size": 218,
+    "pushed_at": "2026-09-02T14:53:12Z",
+    "updated_at": "2026-09-02T15:06:17Z",
+    "size": 349,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
-  "category": "video"
+  "category": "extension"
 }

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/pandysp/pi-mcp-server",
     "repo_full_name": "pandysp/pi-mcp-server",
     "description": "MCP server wrapping the Pi coding agent as tools",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-10T20:48:56Z",
     "pushed_at": "2026-02-11T12:38:22Z",
-    "updated_at": "2026-02-11T12:38:26Z",
+    "updated_at": "2026-09-02T14:35:31Z",
     "size": 88,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
@@ -25,5 +25,5 @@
     "score": 30,
     "level": "stale"
   },
-  "category": "misc"
+  "category": "extension"
 }

@@ -3,11 +3,11 @@
   "name": "@tejasa97/pi-cline-provider",
   "url": "https://www.npmjs.com/package/@tejasa97/pi-cline-provider",
   "source": "npm-search",
-  "description": "Pi provider for Cline's model gateway — free z-ai models (GLM 5.3 Flash) by default, full catalog via CLINE_MODELS=all",
+  "description": "Pi provider for Cline's model gateway — z-ai models (GLM 5.3 Flash, GLM 5.2, and more) by default, full catalog via CLINE_MODELS=all. Free-tier availability follows your Cline plan and may change.",
   "metadata": {
     "github_url": "https://github.com/tejasa97/pi-cline-provider",
     "npm_name": "@tejasa97/pi-cline-provider",
-    "description": "Pi provider for Cline's model gateway — free z-ai models (GLM 5.3 Flash) by default, full catalog via CLINE_MODELS=all",
+    "description": "Pi provider for Cline's model gateway — z-ai models (GLM 5.3 Flash, GLM 5.2, and more) by default, full catalog via CLINE_MODELS=all. Free-tier availability follows your Cline plan and may change.",
     "keywords": [
       "ai",
       "cline",
@@ -21,8 +21,8 @@
       "provider",
       "z-ai"
     ],
-    "version": "0.2.0",
-    "published_at": "2026-08-30T07:33:05.086Z",
+    "version": "0.2.1",
+    "published_at": "2026-09-02T06:50:49.854Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

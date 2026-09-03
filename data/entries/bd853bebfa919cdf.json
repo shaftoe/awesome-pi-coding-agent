@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-16T20:41:34Z",
-    "pushed_at": "2026-09-01T21:48:00Z",
-    "updated_at": "2026-09-01T21:45:58Z",
-    "size": 22120,
+    "pushed_at": "2026-09-02T18:41:11Z",
+    "updated_at": "2026-09-02T18:41:50Z",
+    "size": 22240,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
@@ -31,5 +31,5 @@
     "score": 72,
     "level": "active"
   },
-  "category": "video"
+  "category": "extension"
 }

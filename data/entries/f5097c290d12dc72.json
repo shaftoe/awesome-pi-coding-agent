@@ -1,0 +1,31 @@
+{
+  "id": "@maheidem/pi-delegate",
+  "name": "@maheidem/pi-delegate",
+  "url": "https://www.npmjs.com/package/@maheidem/pi-delegate",
+  "source": "npm-search",
+  "description": "Foreground isolated delegation and strict coordinator mode for the Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/Maheidem/pi-delegate",
+    "npm_name": "@maheidem/pi-delegate",
+    "description": "Foreground isolated delegation and strict coordinator mode for the Pi coding agent.",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "delegate",
+      "subagent",
+      "orchestration",
+      "coordinator"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-09-02T20:43:08.704Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

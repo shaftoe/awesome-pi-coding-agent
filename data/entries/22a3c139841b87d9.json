@@ -16,13 +16,13 @@
     ],
     "version": "2.0.0",
     "published_at": "2026-08-19T11:47:45.016Z",
-    "npm_downloads_monthly": 430,
-    "npm_downloads_weekly": 201,
-    "npm_score_final": 19.771423,
+    "npm_downloads_monthly": 439,
+    "npm_downloads_weekly": 52,
+    "npm_score_final": 19.559242,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "misc"
+  "category": "extension"
 }

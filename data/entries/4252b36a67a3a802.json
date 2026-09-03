@@ -9,7 +9,7 @@
     "repo_full_name": "mike-heunher/pipane",
     "description": "PIpane, a web UI for the PI agent",
     "stars": 38,
-    "forks": 4,
+    "forks": 3,
     "open_issues": 2,
     "topics": [
       "pi",
@@ -28,5 +28,5 @@
     "score": 75,
     "level": "active"
   },
-  "category": "theme"
+  "category": "extension"
 }

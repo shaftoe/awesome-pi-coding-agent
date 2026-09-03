@@ -8,7 +8,7 @@
     "github_url": "https://github.com/hazrid93/pi-fabric-role-router",
     "repo_full_name": "hazrid93/pi-fabric-role-router",
     "description": "Centralized role-based model, thinking, and tool routing for Pi Fabric",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -24,10 +24,10 @@
     "archived": false,
     "created_at": "2026-07-19T04:44:41Z",
     "pushed_at": "2026-08-27T10:16:00Z",
-    "updated_at": "2026-08-27T10:21:48Z",
+    "updated_at": "2026-09-02T16:09:25Z",
     "size": 294,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
-  "category": "misc"
+  "category": "extension"
 }

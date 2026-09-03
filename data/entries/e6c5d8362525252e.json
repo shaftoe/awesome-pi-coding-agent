@@ -1,0 +1,31 @@
+{
+  "id": "hxy91819-pi-compact-tools",
+  "name": "hxy91819-pi-compact-tools",
+  "url": "https://github.com/hxy91819/pi-compact-tools",
+  "source": "github-search",
+  "description": "Compact, collapsible built-in tool-call rendering for Pi Coding Agent.",
+  "metadata": {
+    "github_url": "https://github.com/hxy91819/pi-compact-tools",
+    "repo_full_name": "hxy91819/pi-compact-tools",
+    "description": "Compact, collapsible built-in tool-call rendering for Pi Coding Agent.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "developer-tools",
+      "pi-coding-agent",
+      "pi-package",
+      "terminal-ui",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-02T10:05:53Z",
+    "pushed_at": "2026-09-02T15:57:52Z",
+    "updated_at": "2026-09-02T11:50:30Z",
+    "size": 160,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

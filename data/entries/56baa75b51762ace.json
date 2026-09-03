@@ -9,7 +9,7 @@
     "repo_full_name": "Qihuanxishini/pi-model-manager",
     "description": "Manage Pi providers and models from a TUI with native models.json persistence, header profiles, proxy routing, and protocol compatibility.",
     "stars": 20,
-    "forks": 2,
+    "forks": 1,
     "open_issues": 1,
     "topics": [
       "anthropic",
@@ -24,10 +24,10 @@
     "archived": false,
     "created_at": "2026-07-26T02:22:31Z",
     "pushed_at": "2026-09-01T08:59:47Z",
-    "updated_at": "2026-09-01T16:06:06Z",
+    "updated_at": "2026-09-02T13:21:45Z",
     "size": 942,
     "license": "AGPL-3.0",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
-  "category": "theme"
+  "category": "extension"
 }

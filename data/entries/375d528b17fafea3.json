@@ -3,15 +3,15 @@
   "name": "Themes - Awesome Pi Coding Agent",
   "url": "https://awesome-pi.site/themes/",
   "source": "brave-web-search",
-  "description": "An opinionated Pi agent configuration. Includes: custom theme, plan mode, artifacts, subagents, LLM council, configurable restrictions, MCP support and a styled UI.",
+  "description": "A pi package that gives the TUI a polished Pi startup header and Codex-style input box. ... An OMP-inspired visual theme and TUI presentation extension for Pi.",
   "metadata": {
     "title": "Themes - Awesome Pi Coding Agent",
     "name": "Themes - Awesome Pi Coding Agent",
-    "description": "An opinionated Pi agent configuration. Includes: custom theme, plan mode, artifacts, subagents, LLM council, configurable restrictions, MCP support and a styled UI.",
+    "description": "A pi package that gives the TUI a polished Pi startup header and Codex-style input box. ... An OMP-inspired visual theme and TUI presentation extension for Pi.",
     "published_at": null,
     "source_site": "Awesome-pi",
     "source_url": "https://awesome-pi.site/themes/",
     "discovery_hint": "brave:pi-theme"
   },
-  "category": "theme"
+  "category": "article"
 }

@@ -38,5 +38,5 @@
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
-  "category": "misc"
+  "category": "extension"
 }

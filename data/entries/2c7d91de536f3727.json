@@ -11,8 +11,8 @@
     "channel": "Armin Ronacher",
     "published_at": "2026-01-25T19:29:28Z",
     "thumbnail": "https://i.ytimg.com/vi/uPR7aAneg2U/hqdefault.jpg",
-    "views": 11879,
-    "likes": 297,
+    "views": 11915,
+    "likes": 298,
     "comments": 18,
     "discovery_hint": "youtube:pi-agent"
   },
@@ -20,5 +20,5 @@
     "score": 51,
     "level": "maintained"
   },
-  "category": "extension"
+  "category": "video"
 }

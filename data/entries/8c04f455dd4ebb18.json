@@ -9,7 +9,7 @@
     "repo_full_name": "huggingface/pi-llama",
     "description": "Pi coding agent extension: llama.cpp provider with dynamic model + context window discovery",
     "stars": 99,
-    "forks": 19,
+    "forks": 20,
     "open_issues": 12,
     "topics": [],
     "language": "TypeScript",

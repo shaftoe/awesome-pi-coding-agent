@@ -1,0 +1,25 @@
+{
+  "id": "realOliverSama-pi-kimi-keepalive",
+  "name": "realOliverSama-pi-kimi-keepalive",
+  "url": "https://github.com/realOliverSama/pi-kimi-keepalive",
+  "source": "github-search",
+  "description": "Prompt-cache keepalive for Kimi (kimi-coding) sessions in the Pi coding agent — replays your last real request to keep the prefix cache warm, with setup wizard and guardrails",
+  "metadata": {
+    "github_url": "https://github.com/realOliverSama/pi-kimi-keepalive",
+    "repo_full_name": "realOliverSama/pi-kimi-keepalive",
+    "description": "Prompt-cache keepalive for Kimi (kimi-coding) sessions in the Pi coding agent — replays your last real request to keep the prefix cache warm, with setup wizard and guardrails",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-31T09:07:45Z",
+    "pushed_at": "2026-08-31T14:01:54Z",
+    "updated_at": "2026-09-02T04:54:52Z",
+    "size": 72,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

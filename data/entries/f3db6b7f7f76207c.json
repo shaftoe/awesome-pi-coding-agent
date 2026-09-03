@@ -23,5 +23,5 @@
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
-  "category": "theme"
+  "category": "misc"
 }

@@ -1,0 +1,25 @@
+{
+  "id": "pi-redmine",
+  "name": "pi-redmine",
+  "url": "https://www.npmjs.com/package/pi-redmine",
+  "source": "npm-search",
+  "description": "Pi package that adds curated Redmine tools to the Pi coding agent via the Redmine REST API.",
+  "metadata": {
+    "github_url": "https://github.com/meraks/pi-redmine",
+    "npm_name": "pi-redmine",
+    "description": "Pi package that adds curated Redmine tools to the Pi coding agent via the Redmine REST API.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-09-02T11:38:01.657Z",
+    "npm_downloads_monthly": 404,
+    "npm_downloads_weekly": 404,
+    "npm_score_final": 19.218744,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

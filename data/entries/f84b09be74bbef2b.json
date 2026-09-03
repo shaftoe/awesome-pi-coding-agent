@@ -1,0 +1,28 @@
+{
+  "id": "DUNHKpcc-dpcc-harness",
+  "name": "DUNHKpcc-dpcc-harness",
+  "url": "https://github.com/DUNHKpcc/dpcc-harness",
+  "source": "github-search",
+  "description": "Open-source, desktop client/UI build to harness Pi and any other Agent accepting Agent Client Protocol. Run multiple AI coding agents side by side with rich tool visualization, MCP integrations, built-in terminal, git, browser and just about anything else you may need.",
+  "metadata": {
+    "github_url": "https://github.com/DUNHKpcc/dpcc-harness",
+    "repo_full_name": "DUNHKpcc/dpcc-harness",
+    "description": "Open-source, desktop client/UI build to harness Pi and any other Agent accepting Agent Client Protocol. Run multiple AI coding agents side by side with rich tool visualization, MCP integrations, built-in terminal, git, browser and just about anything else you may need.",
+    "stars": 6,
+    "forks": 1,
+    "open_issues": 4,
+    "topics": [
+      "dpccc",
+      "electron"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-17T03:13:07Z",
+    "pushed_at": "2026-09-03T00:20:46Z",
+    "updated_at": "2026-09-03T00:20:53Z",
+    "size": 20349,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

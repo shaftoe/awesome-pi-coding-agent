@@ -15,9 +15,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-24T21:40:25Z",
-    "pushed_at": "2026-09-01T22:32:28Z",
-    "updated_at": "2026-09-01T22:32:42Z",
-    "size": 380,
+    "pushed_at": "2026-09-02T21:24:13Z",
+    "updated_at": "2026-09-02T21:24:17Z",
+    "size": 393,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
@@ -25,5 +25,5 @@
     "score": 50,
     "level": "maintained"
   },
-  "category": "theme"
+  "category": "extension"
 }
