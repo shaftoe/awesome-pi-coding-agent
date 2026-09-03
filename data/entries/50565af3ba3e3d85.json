@@ -18,7 +18,7 @@
     "published_at": "2026-05-07T16:50:09.965Z",
     "npm_downloads_monthly": 547,
     "npm_downloads_weekly": 113,
-    "npm_score_final": 20.734617,
+    "npm_score_final": 20.310207,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
@@ -28,5 +28,5 @@
     "score": 65,
     "level": "maintained"
   },
-  "category": "misc"
+  "category": "extension"
 }

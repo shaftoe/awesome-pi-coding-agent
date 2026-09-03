@@ -11,8 +11,8 @@
     "channel": "Ben Holmes",
     "published_at": "2026-05-21T15:28:39Z",
     "thumbnail": "https://i.ytimg.com/vi/pr2WGRhVKys/hqdefault.jpg",
-    "views": 41862,
-    "likes": 933,
+    "views": 42094,
+    "likes": 934,
     "comments": 69,
     "discovery_hint": "youtube:pi-agent"
   },
@@ -20,5 +20,5 @@
     "score": 60,
     "level": "maintained"
   },
-  "category": "misc"
+  "category": "video"
 }

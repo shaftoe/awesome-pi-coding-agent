@@ -1,0 +1,29 @@
+{
+  "id": "software-design-agent-skill",
+  "name": "software-design-agent-skill",
+  "url": "https://www.npmjs.com/package/software-design-agent-skill",
+  "source": "npm-search",
+  "description": "Agent skill: a practitioner's checklist distilled from John Ousterhout's A Philosophy of Software Design, for code review and design discussions.",
+  "metadata": {
+    "github_url": "https://github.com/lukeramsden/software-design-agent-skill",
+    "npm_name": "software-design-agent-skill",
+    "description": "Agent skill: a practitioner's checklist distilled from John Ousterhout's A Philosophy of Software Design, for code review and design discussions.",
+    "keywords": [
+      "pi-package",
+      "pi-skill",
+      "pi-coding-agent",
+      "agent-skill",
+      "software-design"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-09-02T15:26:30.383Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

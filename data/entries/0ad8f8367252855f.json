@@ -1,0 +1,31 @@
+{
+  "id": "MisterBrookT-pix",
+  "name": "MisterBrookT-pix",
+  "url": "https://github.com/MisterBrookT/pix",
+  "source": "github-search",
+  "description": "A focused Pi package with web access, bounded subagents, todo tracking, LSP, Claude CLI models, and health checks.",
+  "metadata": {
+    "github_url": "https://github.com/MisterBrookT/pix",
+    "repo_full_name": "MisterBrookT/pix",
+    "description": "A focused Pi package with web access, bounded subagents, todo tracking, LSP, Claude CLI models, and health checks.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "pi",
+      "pi-package",
+      "subagents",
+      "web-search"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-02T18:10:29Z",
+    "pushed_at": "2026-09-02T18:55:40Z",
+    "updated_at": "2026-09-02T18:56:00Z",
+    "size": 95,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

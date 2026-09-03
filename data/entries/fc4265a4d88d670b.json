@@ -11,8 +11,8 @@
     "channel": "DevOnDuty",
     "published_at": "2026-04-12T21:36:18Z",
     "thumbnail": "https://i.ytimg.com/vi/O-96yYDPMOc/hqdefault.jpg",
-    "views": 10038,
-    "likes": 256,
+    "views": 10054,
+    "likes": 257,
     "comments": 32,
     "discovery_hint": "youtube:pi-agent"
   },
@@ -20,5 +20,5 @@
     "score": 58,
     "level": "maintained"
   },
-  "category": "misc"
+  "category": "video"
 }

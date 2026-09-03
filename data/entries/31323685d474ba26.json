@@ -10,7 +10,7 @@
     "description": "Pi coding agent, as a VSCode extension",
     "stars": 44,
     "forks": 7,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "harness",
       "pi-coding-agent",
@@ -20,7 +20,7 @@
     "archived": false,
     "created_at": "2026-04-26T03:50:18Z",
     "pushed_at": "2026-05-08T00:51:26Z",
-    "updated_at": "2026-08-24T21:29:50Z",
+    "updated_at": "2026-09-02T12:51:12Z",
     "size": 285,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

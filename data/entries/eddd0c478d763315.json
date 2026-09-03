@@ -11,14 +11,14 @@
     "channel": "Vilson Vieira",
     "published_at": "2026-04-29T16:57:10Z",
     "thumbnail": "https://i.ytimg.com/vi/yAPKzHrx3eo/hqdefault.jpg",
-    "views": 33891,
-    "likes": 1068,
-    "comments": 122,
+    "views": 34149,
+    "likes": 1072,
+    "comments": 121,
     "discovery_hint": "youtube:pi-agent"
   },
   "health": {
     "score": 60,
     "level": "maintained"
   },
-  "category": "misc"
+  "category": "video"
 }

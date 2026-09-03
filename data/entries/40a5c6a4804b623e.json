@@ -22,11 +22,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-23T00:27:49Z",
-    "pushed_at": "2026-09-01T02:37:53Z",
-    "updated_at": "2026-09-01T02:37:57Z",
-    "size": 5456,
+    "pushed_at": "2026-09-02T13:42:11Z",
+    "updated_at": "2026-09-02T13:31:49Z",
+    "size": 5642,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
-  "category": "theme"
+  "category": "extension"
 }

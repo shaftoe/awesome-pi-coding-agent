@@ -17,15 +17,15 @@
       "starship",
       "theme"
     ],
-    "version": "0.3.0",
-    "published_at": "2026-08-27T05:18:02.376Z",
-    "npm_downloads_monthly": 6316,
-    "npm_downloads_weekly": 2055,
-    "npm_score_final": 27.95276,
+    "version": "0.3.1",
+    "published_at": "2026-09-02T07:14:08.472Z",
+    "npm_downloads_monthly": 7154,
+    "npm_downloads_weekly": 2572,
+    "npm_score_final": 30.2475,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "theme"
+  "category": "extension"
 }

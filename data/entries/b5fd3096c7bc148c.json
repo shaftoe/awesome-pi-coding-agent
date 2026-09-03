@@ -1,0 +1,27 @@
+{
+  "id": "@bingzizkli/pi-vimmode",
+  "name": "@bingzizkli/pi-vimmode",
+  "url": "https://www.npmjs.com/package/@bingzizkli/pi-vimmode",
+  "source": "npm-search",
+  "description": "Vim mode for Pi coding agent (fork of pi-vimmode with local enhancements)",
+  "metadata": {
+    "github_url": "https://github.com/bingDai21/pi-vimmode",
+    "npm_name": "@bingzizkli/pi-vimmode",
+    "description": "Vim mode for Pi coding agent (fork of pi-vimmode with local enhancements)",
+    "keywords": [
+      "pi",
+      "pi-extension",
+      "pi-package"
+    ],
+    "version": "0.9.0-yy.10",
+    "published_at": "2026-08-26T04:41:53.900Z",
+    "npm_downloads_monthly": 288,
+    "npm_downloads_weekly": 288,
+    "npm_score_final": 17.506615,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

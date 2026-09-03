@@ -1,0 +1,29 @@
+{
+  "id": "piotrekd00-pi-titanium",
+  "name": "piotrekd00-pi-titanium",
+  "url": "https://github.com/piotrekd00/pi-titanium",
+  "source": "github-search",
+  "description": "Titanium theme and OMP-style editor chrome for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/piotrekd00/pi-titanium",
+    "repo_full_name": "piotrekd00/pi-titanium",
+    "description": "Titanium theme and OMP-style editor chrome for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-coding-agent",
+      "theme"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-02T13:53:46Z",
+    "pushed_at": "2026-09-02T13:53:54Z",
+    "updated_at": "2026-09-02T13:59:56Z",
+    "size": 9,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

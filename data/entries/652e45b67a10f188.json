@@ -11,7 +11,7 @@
     "channel": "Mario Zechner",
     "published_at": "2025-11-13T01:14:04Z",
     "thumbnail": "https://i.ytimg.com/vi/4p2uQ4FQtis/hqdefault.jpg",
-    "views": 17783,
+    "views": 17799,
     "likes": 455,
     "comments": 26,
     "discovery_hint": "youtube:pi-agent"
@@ -20,5 +20,5 @@
     "score": 56,
     "level": "maintained"
   },
-  "category": "extension"
+  "category": "video"
 }

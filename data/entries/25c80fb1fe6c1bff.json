@@ -16,15 +16,15 @@
       "rename",
       "title"
     ],
-    "version": "0.2.0",
-    "published_at": "2026-08-26T00:36:42.686Z",
+    "version": "0.2.1",
+    "published_at": "2026-09-03T00:53:41.930Z",
     "npm_downloads_monthly": 338,
     "npm_downloads_weekly": 209,
-    "npm_score_final": 18.802778,
+    "npm_score_final": 18.066154,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "misc"
+  "category": "extension"
 }

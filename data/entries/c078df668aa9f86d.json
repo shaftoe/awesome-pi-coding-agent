@@ -8,7 +8,7 @@
     "github_url": "https://github.com/spott/pi-task-compaction",
     "repo_full_name": "spott/pi-task-compaction",
     "description": "Provider-agnostic, agent-driven task-region compaction for pi",
-    "stars": 12,
+    "stars": 13,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,10 +16,10 @@
     "archived": false,
     "created_at": "2026-08-08T02:03:41Z",
     "pushed_at": "2026-08-21T22:21:35Z",
-    "updated_at": "2026-08-21T22:21:41Z",
+    "updated_at": "2026-09-02T11:03:54Z",
     "size": 391,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
-  "category": "misc"
+  "category": "extension"
 }

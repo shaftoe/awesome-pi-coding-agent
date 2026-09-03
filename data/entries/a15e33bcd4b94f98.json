@@ -10,7 +10,7 @@
     "description": "Multi-agent orchestration for pi; chain, parallel, and dependency-graph delegation with per-step model routing, preset-driven tool scoping, and background execution with live monitoring.",
     "stars": 3,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "agent-orchestration",
       "ai-agents",
@@ -27,11 +27,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-08T09:55:38Z",
-    "pushed_at": "2026-09-01T15:25:03Z",
-    "updated_at": "2026-09-01T16:05:33Z",
-    "size": 14910,
+    "pushed_at": "2026-09-02T11:01:28Z",
+    "updated_at": "2026-09-02T11:03:57Z",
+    "size": 14988,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
-  "category": "misc"
+  "category": "extension"
 }

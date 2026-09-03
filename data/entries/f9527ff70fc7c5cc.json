@@ -31,5 +31,5 @@
     "license": "GPL-3.0",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
-  "category": "theme"
+  "category": "extension"
 }

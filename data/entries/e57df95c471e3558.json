@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_skills.rest_pi-agent",
+  "name": "pi-agent: Wrap Pi agent core for Cloudflare Durable Objects edge deployment | skills.rest",
+  "url": "https://skills.rest/skill/pi-agent",
+  "source": "brave-web-search",
+  "description": "Use the pi-agent skill to effortlessly wrap pi agent core for cloudflare durable objects edge deployment. A reliable, executable skill for Claude, contributed by joelhooks, designed for Software Engineering workflows.",
+  "metadata": {
+    "title": "pi-agent: Wrap Pi agent core for Cloudflare Durable Objects edge deployment | skills.rest",
+    "name": "pi-agent: Wrap Pi agent core for Cloudflare Durable Objects edge deployment | skills.rest",
+    "description": "Use the pi-agent skill to effortlessly wrap pi agent core for cloudflare durable objects edge deployment. A reliable, executable skill for Claude, contributed by joelhooks, designed for Software Engineering workflows.",
+    "published_at": "2026-03-31T07:27:49",
+    "source_site": "Skills",
+    "source_url": "https://skills.rest/skill/pi-agent",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

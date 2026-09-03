@@ -3,11 +3,11 @@
   "name": "@dianel/pi-hooks-rules",
   "url": "https://www.npmjs.com/package/@dianel/pi-hooks-rules",
   "source": "npm-search",
-  "description": "Pi HUD Overlay — always-on-top real-time status panel",
+  "description": "Pi Task Monitor — always-on-top real-time task panel",
   "metadata": {
     "github_url": "https://github.com/Dianel555/Pi-tools",
     "npm_name": "@dianel/pi-hud",
-    "description": "Pi HUD Overlay — always-on-top real-time status panel",
+    "description": "Pi Task Monitor — always-on-top real-time task panel",
     "keywords": [
       "pi-package",
       "pi-coding-agent",
@@ -16,8 +16,8 @@
       "hud",
       "overlay"
     ],
-    "version": "1.0.1",
-    "published_at": "2026-08-31T02:47:19.401Z",
+    "version": "1.0.2",
+    "published_at": "2026-09-01T08:38:27.686Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

@@ -10,7 +10,7 @@
     "description": "Practical extensions for the pi coding agent",
     "stars": 0,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "coding-agent",
       "pi-extension",
@@ -19,9 +19,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-24T07:18:01Z",
-    "pushed_at": "2026-09-01T03:13:57Z",
-    "updated_at": "2026-08-31T12:51:20Z",
-    "size": 120,
+    "pushed_at": "2026-09-02T11:14:36Z",
+    "updated_at": "2026-09-02T10:55:17Z",
+    "size": 131,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

@@ -13,13 +13,13 @@
     ],
     "version": "0.4.0",
     "published_at": "2026-07-15T06:33:40.344Z",
-    "npm_downloads_monthly": 108,
-    "npm_downloads_weekly": 18,
-    "npm_score_final": 14.077051,
+    "npm_downloads_monthly": 137,
+    "npm_downloads_weekly": 38,
+    "npm_score_final": 14.699953,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "article"
+  "category": "extension"
 }

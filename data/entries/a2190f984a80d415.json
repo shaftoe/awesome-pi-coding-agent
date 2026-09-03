@@ -1,0 +1,25 @@
+{
+  "id": "AeonDave-pi-theme-1337",
+  "name": "AeonDave-pi-theme-1337",
+  "url": "https://github.com/AeonDave/pi-theme-1337",
+  "source": "github-search",
+  "description": "Phosphor CRT theme and framed TUI for Pi",
+  "metadata": {
+    "github_url": "https://github.com/AeonDave/pi-theme-1337",
+    "repo_full_name": "AeonDave/pi-theme-1337",
+    "description": "Phosphor CRT theme and framed TUI for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-02T11:38:14Z",
+    "pushed_at": "2026-09-02T11:38:17Z",
+    "updated_at": "2026-09-02T11:41:37Z",
+    "size": 277,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

@@ -9,7 +9,7 @@
     "repo_full_name": "leon-zym/pi-agent-web",
     "description": "A local web workbench for Pi Coding Agent's RPC mode.",
     "stars": 1,
-    "forks": 1,
+    "forks": 2,
     "open_issues": 12,
     "topics": [
       "agent",
@@ -28,5 +28,5 @@
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
-  "category": "misc"
+  "category": "extension"
 }

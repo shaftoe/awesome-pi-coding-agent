@@ -10,7 +10,7 @@
     "description": "pi-dev-workflow: Developer workflow toolkit for pi: git agents, code review, Karpathy guidelines, themes ",
     "stars": 9,
     "forks": 2,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "pi",
       "pi-package"
@@ -28,5 +28,5 @@
     "score": 58,
     "level": "maintained"
   },
-  "category": "article"
+  "category": "extension"
 }

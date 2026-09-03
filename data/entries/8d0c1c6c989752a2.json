@@ -33,5 +33,5 @@
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
-  "category": "theme"
+  "category": "extension"
 }

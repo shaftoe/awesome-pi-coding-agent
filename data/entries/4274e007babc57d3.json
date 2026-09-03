@@ -3,11 +3,11 @@
   "name": "advisor-pi",
   "url": "https://www.npmjs.com/package/advisor-pi",
   "source": "npm-search",
-  "description": "Prompt-cache keep-alive for Pi with avoided-miss and USD-saved metrics (enabled by default)",
+  "description": "Opt-in prompt-cache keep-alive for Pi with avoided-miss and USD-saved metrics",
   "metadata": {
     "github_url": "https://github.com/luongnv89/pi-extensions",
     "npm_name": "cache-warm",
-    "description": "Prompt-cache keep-alive for Pi with avoided-miss and USD-saved metrics (enabled by default)",
+    "description": "Opt-in prompt-cache keep-alive for Pi with avoided-miss and USD-saved metrics",
     "keywords": [
       "pi-package",
       "pi",
@@ -16,11 +16,11 @@
       "keep-alive",
       "cache-warm"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-08-24T08:14:01.969Z",
+    "version": "0.2.0",
+    "published_at": "2026-09-02T08:09:15.573Z",
     "npm_downloads_monthly": 347,
     "npm_downloads_weekly": 245,
-    "npm_score_final": 18.986664,
+    "npm_score_final": 18.71113,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

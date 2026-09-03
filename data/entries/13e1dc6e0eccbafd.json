@@ -10,7 +10,7 @@
     "description": "(beta) Hindsight integration for pi coding agent (with queueing, past session ingestion, and a focus on best practices)",
     "stars": 23,
     "forks": 3,
-    "open_issues": 13,
+    "open_issues": 14,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
@@ -21,5 +21,5 @@
     "license": "GPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
-  "category": "misc"
+  "category": "extension"
 }
