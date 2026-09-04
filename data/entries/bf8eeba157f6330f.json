@@ -1,0 +1,25 @@
+{
+  "id": "pifydev-pretty",
+  "name": "pifydev-pretty",
+  "url": "https://github.com/pifydev/pretty",
+  "source": "github-search",
+  "description": "compact, theme-aware rendering for pi's built-in tools",
+  "metadata": {
+    "github_url": "https://github.com/pifydev/pretty",
+    "repo_full_name": "pifydev/pretty",
+    "description": "compact, theme-aware rendering for pi's built-in tools",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-03T23:40:58Z",
+    "pushed_at": "2026-09-03T23:41:04Z",
+    "updated_at": "2026-09-03T23:51:53Z",
+    "size": 24,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

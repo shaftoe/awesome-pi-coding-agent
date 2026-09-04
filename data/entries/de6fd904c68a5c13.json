@@ -8,7 +8,7 @@
     "github_url": "https://github.com/aletheics/zeno",
     "repo_full_name": "aletheics/zeno",
     "description": "Desktop shell for the pi coding agent",
-    "stars": 84,
+    "stars": 85,
     "forks": 9,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-11T07:55:43Z",
     "pushed_at": "2026-08-29T13:13:40Z",
-    "updated_at": "2026-09-02T11:23:19Z",
+    "updated_at": "2026-09-03T08:58:41Z",
     "size": 5463,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

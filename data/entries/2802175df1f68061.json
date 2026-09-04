@@ -10,7 +10,7 @@
     "description": "Multi-provider, multi-account AI proxy rotator with per-model routing, quota tracking, and provider compatibility.",
     "stars": 50,
     "forks": 12,
-    "open_issues": 2,
+    "open_issues": 1,
     "topics": [
       "ai",
       "ai-agent",
@@ -30,9 +30,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-22T01:33:34Z",
-    "pushed_at": "2026-08-30T17:40:38Z",
-    "updated_at": "2026-09-02T12:29:16Z",
-    "size": 8442,
+    "pushed_at": "2026-09-03T17:46:29Z",
+    "updated_at": "2026-09-03T17:49:10Z",
+    "size": 8973,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

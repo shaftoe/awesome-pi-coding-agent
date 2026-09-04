@@ -8,7 +8,7 @@
     "github_url": "https://github.com/matrixfede/pi-local-servers",
     "repo_full_name": "matrixfede/pi-local-servers",
     "description": "pi extension: start the local inference server behind the selected model, stop it when the session ends",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-08-18T14:19:42Z",
     "pushed_at": "2026-08-18T14:47:35Z",
-    "updated_at": "2026-08-18T14:54:50Z",
+    "updated_at": "2026-09-03T15:45:31Z",
     "size": 20,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

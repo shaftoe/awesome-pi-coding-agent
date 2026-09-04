@@ -1,0 +1,28 @@
+{
+  "id": "@eric.wien/pi-work-resources",
+  "name": "@eric.wien/pi-work-resources",
+  "url": "https://www.npmjs.com/package/@eric.wien/pi-work-resources",
+  "source": "npm-search",
+  "description": "Supply-chain verification gate before dependency installation",
+  "metadata": {
+    "github_url": "https://github.com/eric-wien/pi-extensions",
+    "npm_name": "@eric.wien/pi-skill-verify-dependencies-before-install",
+    "description": "Supply-chain verification gate before dependency installation",
+    "keywords": [
+      "pi-package",
+      "agent-skill",
+      "dependencies",
+      "supply-chain-security"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-27T14:20:17.054Z",
+    "npm_downloads_monthly": 99,
+    "npm_downloads_weekly": 99,
+    "npm_score_final": 14.259009,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

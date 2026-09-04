@@ -1,0 +1,30 @@
+{
+  "id": "@0xrsydn/pstack-pi",
+  "name": "@0xrsydn/pstack-pi",
+  "url": "https://www.npmjs.com/package/@0xrsydn/pstack-pi",
+  "source": "npm-search",
+  "description": "Port of pstack (Lauren Tan's Cursor plugin) to pi: poteto-mode workflows, principle skills, and subagent fan-out with per-role models.",
+  "metadata": {
+    "github_url": "https://github.com/cursor/plugins",
+    "npm_name": "@0xrsydn/pstack-pi",
+    "description": "Port of pstack (Lauren Tan's Cursor plugin) to pi: poteto-mode workflows, principle skills, and subagent fan-out with per-role models.",
+    "keywords": [
+      "pi-package",
+      "pstack",
+      "poteto-mode",
+      "workflow",
+      "principles",
+      "subagents"
+    ],
+    "version": "0.15.1",
+    "published_at": "2026-08-27T14:12:52.453Z",
+    "npm_downloads_monthly": 151,
+    "npm_downloads_weekly": 151,
+    "npm_score_final": 14.879188,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

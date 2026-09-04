@@ -1,0 +1,28 @@
+{
+  "id": "brettinternet-pi-live-codex",
+  "name": "brettinternet-pi-live-codex",
+  "url": "https://github.com/brettinternet/pi-live-codex",
+  "source": "github-search",
+  "description": "gpt-live-1-codex with pi",
+  "metadata": {
+    "github_url": "https://github.com/brettinternet/pi-live-codex",
+    "repo_full_name": "brettinternet/pi-live-codex",
+    "description": "gpt-live-1-codex with pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-coding-agent",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-03T21:54:39Z",
+    "pushed_at": "2026-09-03T22:59:00Z",
+    "updated_at": "2026-09-03T22:59:04Z",
+    "size": 72,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

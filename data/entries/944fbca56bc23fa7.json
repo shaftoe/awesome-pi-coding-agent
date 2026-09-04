@@ -1,0 +1,33 @@
+{
+  "id": "pi-tab-status",
+  "name": "pi-tab-status",
+  "url": "https://www.npmjs.com/package/pi-tab-status",
+  "source": "npm-search",
+  "description": "pi coding agent tab-title status extension: state glyphs (spinner/blink) + shell label + OSC 9;4 taskbar progress",
+  "metadata": {
+    "github_url": "https://github.com/Zzz210s/pi-tab-status",
+    "npm_name": "pi-tab-status",
+    "description": "pi coding agent tab-title status extension: state glyphs (spinner/blink) + shell label + OSC 9;4 taskbar progress",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "terminal",
+      "tab-title",
+      "status",
+      "conemu",
+      "windows-terminal"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-09-03T09:27:49.720Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

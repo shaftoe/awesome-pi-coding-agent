@@ -9,8 +9,8 @@
     "repo_full_name": "markokocic/pi-tree-sitter",
     "description": "Pre-write syntax validation for pi using tree-sitter WASM grammars",
     "stars": 2,
-    "forks": 3,
-    "open_issues": 3,
+    "forks": 4,
+    "open_issues": 4,
     "topics": [
       "pi-extension",
       "pi-package",

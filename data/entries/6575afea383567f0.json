@@ -35,10 +35,10 @@
     "archived": false,
     "created_at": "2026-07-25T20:39:16Z",
     "pushed_at": "2026-08-29T05:46:20Z",
-    "updated_at": "2026-08-14T12:00:17Z",
+    "updated_at": "2026-09-03T05:03:12Z",
     "size": 6055,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "category": "extension"
 }

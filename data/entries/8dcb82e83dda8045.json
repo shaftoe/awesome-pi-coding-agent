@@ -1,0 +1,25 @@
+{
+  "id": "nicbet-pi-claude-skills-extension",
+  "name": "nicbet-pi-claude-skills-extension",
+  "url": "https://github.com/nicbet/pi-claude-skills-extension",
+  "source": "github-search",
+  "description": "A dependency-free [Pi](https://pi.dev) extension that loads [Agent Skills](https://agentskills.io/specification) from a project's `.claude/skills/` directory.",
+  "metadata": {
+    "github_url": "https://github.com/nicbet/pi-claude-skills-extension",
+    "repo_full_name": "nicbet/pi-claude-skills-extension",
+    "description": "A dependency-free [Pi](https://pi.dev) extension that loads [Agent Skills](https://agentskills.io/specification) from a project's `.claude/skills/` directory.",
+    "stars": 3,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-19T16:16:42Z",
+    "pushed_at": "2026-08-19T16:20:00Z",
+    "updated_at": "2026-09-03T02:02:35Z",
+    "size": 18,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

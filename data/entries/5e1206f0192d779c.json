@@ -1,0 +1,38 @@
+{
+  "id": "@luminascale/pi-zvec-grep",
+  "name": "@luminascale/pi-zvec-grep",
+  "url": "https://www.npmjs.com/package/@luminascale/pi-zvec-grep",
+  "source": "npm-search",
+  "description": "🔍 zvec-grep's local-first hybrid (semantic + exact) search as native pi tools",
+  "metadata": {
+    "github_url": "https://github.com/MikkelKappelPersson/pi-zvec-grep",
+    "npm_name": "@luminascale/pi-zvec-grep",
+    "description": "🔍 zvec-grep's local-first hybrid (semantic + exact) search as native pi tools",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-agent",
+      "extension",
+      "zvec",
+      "zvec-grep",
+      "grep",
+      "search",
+      "semantic-search",
+      "vector-search",
+      "bm25",
+      "ripgrep",
+      "code-search",
+      "local-first"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-09-03T21:09:56.207Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

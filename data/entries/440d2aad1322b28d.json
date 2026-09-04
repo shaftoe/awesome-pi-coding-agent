@@ -8,9 +8,9 @@
     "github_url": "https://github.com/jczhang02/pi-stuff",
     "repo_full_name": "jczhang02/pi-stuff",
     "description": "A personal suite of extensions and resources for Pi",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
-    "open_issues": 5,
+    "open_issues": 7,
     "topics": [
       "bun",
       "pi",
@@ -20,11 +20,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-31T13:55:00Z",
-    "pushed_at": "2026-08-26T16:55:06Z",
-    "updated_at": "2026-08-26T16:55:13Z",
-    "size": 61930,
+    "pushed_at": "2026-09-04T00:08:23Z",
+    "updated_at": "2026-09-03T13:00:26Z",
+    "size": 67495,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
-  "category": "theme"
+  "category": "extension"
 }
