@@ -3,29 +3,28 @@
   "name": "pi-quiet",
   "url": "https://www.npmjs.com/package/pi-quiet",
   "source": "npm-search",
-  "description": "Channels for the pi coding agent: connect channel servers that push events into a live session — wake it when idle, queue when busy — and proxy their tools. A client for the claude/channel convention.",
+  "description": "Calm tool rendering for the pi coding agent: each bash call collapses to one line; ctrl+o brings back full built-in rendering. Display-only — execution, permissions, and model context are untouched.",
   "metadata": {
     "github_url": "https://github.com/schuettc/pi-extensions",
-    "npm_name": "channels.tools",
-    "description": "Channels for the pi coding agent: connect channel servers that push events into a live session — wake it when idle, queue when busy — and proxy their tools. A client for the claude/channel convention.",
+    "npm_name": "pi-quiet",
+    "description": "Calm tool rendering for the pi coding agent: each bash call collapses to one line; ctrl+o brings back full built-in rendering. Display-only — execution, permissions, and model context are untouched.",
     "keywords": [
       "pi-package",
       "pi-extension",
       "pi-coding-agent",
-      "channels",
-      "claude-channel",
-      "agent-wake",
-      "event-driven"
+      "tui",
+      "tool-output",
+      "quiet"
     ],
-    "version": "0.1.5",
-    "published_at": "2026-09-02T05:09:39.441Z",
-    "npm_downloads_monthly": 758,
-    "npm_downloads_weekly": 758,
-    "npm_score_final": 21.48656,
+    "version": "0.1.2",
+    "published_at": "2026-08-28T18:57:40.852Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "category": "extension"
 }

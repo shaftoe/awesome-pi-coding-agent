@@ -1,0 +1,25 @@
+{
+  "id": "Po1ynomial-pi-ssh-tools",
+  "name": "Po1ynomial-pi-ssh-tools",
+  "url": "https://github.com/Po1ynomial/pi-ssh-tools",
+  "source": "github-search",
+  "description": "Cross platform SSH tool extension for the Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/Po1ynomial/pi-ssh-tools",
+    "repo_full_name": "Po1ynomial/pi-ssh-tools",
+    "description": "Cross platform SSH tool extension for the Pi coding agent.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-28T18:22:54Z",
+    "pushed_at": "2026-08-29T20:28:29Z",
+    "updated_at": "2026-09-03T05:52:09Z",
+    "size": 48,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

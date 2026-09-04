@@ -1,0 +1,27 @@
+{
+  "id": "@timiliang/pi-quotas",
+  "name": "@timiliang/pi-quotas",
+  "url": "https://www.npmjs.com/package/@timiliang/pi-quotas",
+  "source": "npm-search",
+  "description": "Compact provider quota transcript and active-provider footer for Pi, with Grok, GLM China, and guided OpenCode Go setup.",
+  "metadata": {
+    "github_url": "https://github.com/LJC-god/pi-quotas",
+    "npm_name": "@timiliang/pi-quotas",
+    "description": "Compact provider quota transcript and active-provider footer for Pi, with Grok, GLM China, and guided OpenCode Go setup.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi"
+    ],
+    "version": "0.5.2",
+    "published_at": "2026-08-27T12:48:56.996Z",
+    "npm_downloads_monthly": 396,
+    "npm_downloads_weekly": 396,
+    "npm_score_final": 18.320885,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

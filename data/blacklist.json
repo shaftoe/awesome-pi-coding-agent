@@ -51727,5 +51727,125 @@
 			"sourceName": "npm",
 			"query": "npm:keywords:pi-package"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=tgKSE8pgNdU",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-04T00:43:54.120830281Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@muzi3/dev-tools",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-04T00:43:54.189575574Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Yeshwanthyk/agent-skills",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-04T00:43:54.232241823Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=hb9mOZ49GnY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-04T00:43:54.254524255Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=uxiw7i5a6YU",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-09-04T00:43:54.267300081Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/zhangnan/pi-matt-skill-router",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-04T00:43:54.34713402Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=fxHyzDXw140",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-04T00:43:54.627903776Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=_T93Uy6Bg7I",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-04T00:43:54.765487858Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/Escape-z/pi-mode-switcher",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-04T00:43:54.866691926Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/turtlebyte-dev/pi-extensions",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-04T00:43:54.904729851Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=n-UjvWp2qJ8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-04T00:43:54.962368667Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=KKpBvzqbN94",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-04T00:43:55.121886154Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
 	}
 ]

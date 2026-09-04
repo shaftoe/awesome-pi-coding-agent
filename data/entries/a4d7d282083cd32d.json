@@ -8,7 +8,7 @@
     "github_url": "https://github.com/BlockedPath/pi-meta-oauth",
     "repo_full_name": "BlockedPath/pi-meta-oauth",
     "description": "",
-    "stars": 5,
+    "stars": 6,
     "forks": 3,
     "open_issues": 2,
     "topics": [
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-05T22:34:44Z",
-    "pushed_at": "2026-08-21T11:58:21Z",
-    "updated_at": "2026-09-01T13:39:00Z",
-    "size": 741,
+    "pushed_at": "2026-09-03T04:12:52Z",
+    "updated_at": "2026-09-03T06:51:16Z",
+    "size": 612,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

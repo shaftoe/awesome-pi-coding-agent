@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ccch1mneyyy/working-activity",
     "repo_full_name": "ccch1mneyyy/working-activity",
     "description": "Lively Working-line extension for pi CLI and DSH",
-    "stars": 656,
+    "stars": 657,
     "forks": 233,
     "open_issues": 6,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-07-23T09:35:08Z",
     "pushed_at": "2026-08-30T18:41:47Z",
-    "updated_at": "2026-08-30T18:44:09Z",
+    "updated_at": "2026-09-03T03:13:54Z",
     "size": 527,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/lehhair/PiUI",
     "repo_full_name": "lehhair/PiUI",
     "description": "Pi coding agent client",
-    "stars": 10,
+    "stars": 11,
     "forks": 2,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-04T13:42:31Z",
     "pushed_at": "2026-08-23T13:18:32Z",
-    "updated_at": "2026-09-02T02:08:15Z",
+    "updated_at": "2026-09-03T03:50:29Z",
     "size": 6719,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

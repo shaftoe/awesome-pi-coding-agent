@@ -1,0 +1,33 @@
+{
+  "id": "1zhangyy1-pi-human-message",
+  "name": "1zhangyy1-pi-human-message",
+  "url": "https://github.com/1zhangyy1/pi-human-message",
+  "source": "github-search",
+  "description": "A Pi extension for agent-authored, human-shaped chat messages",
+  "metadata": {
+    "github_url": "https://github.com/1zhangyy1/pi-human-message",
+    "repo_full_name": "1zhangyy1/pi-human-message",
+    "description": "A Pi extension for agent-authored, human-shaped chat messages",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "chat",
+      "pi-agent",
+      "pi-extension",
+      "pi-package",
+      "telegram-bot",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-02T14:56:22Z",
+    "pushed_at": "2026-09-03T17:13:49Z",
+    "updated_at": "2026-09-03T17:14:23Z",
+    "size": 3290,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

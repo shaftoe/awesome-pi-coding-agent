@@ -1,0 +1,33 @@
+{
+  "id": "pi-ask-popup",
+  "name": "pi-ask-popup",
+  "url": "https://www.npmjs.com/package/pi-ask-popup",
+  "source": "npm-search",
+  "description": "Pi extension. A tabbed terminal questionnaire the model can put to you when it would otherwise guess, with typed options, markdown previews and notes instead of free-form replies.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-ask-popup",
+    "description": "Pi extension. A tabbed terminal questionnaire the model can put to you when it would otherwise guess, with typed options, markdown previews and notes instead of free-form replies.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "ask",
+      "ask-user-question",
+      "questionnaire",
+      "dialog",
+      "tui"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-03T04:25:35.808Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -3,32 +3,33 @@
   "name": "@pi-claudian/sync-session",
   "url": "https://www.npmjs.com/package/@pi-claudian/sync-session",
   "source": "npm-search",
-  "description": "Pi extension that automatically saves each completed conversation turn as a markdown file with YAML frontmatter, one file per session-tree branch.",
+  "description": "Pi extension that syncs Pi /tree, /clone and /fork session changes into Claudian's conversation metadata.",
   "metadata": {
     "github_url": "https://github.com/licongy/pi-claudian",
-    "npm_name": "pi-auto-save-to-markdown",
-    "description": "Pi extension that automatically saves each completed conversation turn as a markdown file with YAML frontmatter, one file per session-tree branch.",
+    "npm_name": "@pi-claudian/sync-session",
+    "description": "Pi extension that syncs Pi /tree, /clone and /fork session changes into Claudian's conversation metadata.",
     "keywords": [
       "pi",
       "pi-package",
       "pi-extension",
       "pi-coding-agent",
-      "markdown",
-      "conversation",
-      "session",
-      "export",
-      "auto-save",
-      "archive"
+      "pi-claudian",
+      "claudian",
+      "session-tree",
+      "session-fork",
+      "session-clone",
+      "leaf-sync",
+      "session-sync"
     ],
-    "version": "0.9.1",
-    "published_at": "2026-09-02T15:24:54.894Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.2.2",
+    "published_at": "2026-09-02T10:33:13.047Z",
+    "npm_downloads_monthly": 1296,
+    "npm_downloads_weekly": 179,
+    "npm_score_final": 22.892977,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

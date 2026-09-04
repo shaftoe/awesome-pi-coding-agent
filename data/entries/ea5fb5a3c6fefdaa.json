@@ -1,0 +1,29 @@
+{
+  "id": "pi-cursor-auth",
+  "name": "pi-cursor-auth",
+  "url": "https://www.npmjs.com/package/pi-cursor-auth",
+  "source": "npm-search",
+  "description": "pi extension: Cursor models through pi's harness (extensions and pi tools stay in the loop)",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-cursor-auth",
+    "description": "pi extension: Cursor models through pi's harness (extensions and pi tools stay in the loop)",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "cursor",
+      "cursor-sdk",
+      "ai"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-08-27T02:13:26.989Z",
+    "npm_downloads_monthly": 706,
+    "npm_downloads_weekly": 706,
+    "npm_score_final": 21.33883,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

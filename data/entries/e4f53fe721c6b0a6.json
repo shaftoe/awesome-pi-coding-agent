@@ -3,27 +3,34 @@
   "name": "dantetekanem-pi-agentic-search",
   "url": "https://github.com/dantetekanem/pi-agentic-search",
   "source": "github-search",
-  "description": "Make AI more intentional, not just wandering around, feeling lost.",
+  "description": "Agent-oriented ranked code search for Pi",
   "metadata": {
     "github_url": "https://github.com/dantetekanem/pi-agentic-search",
     "repo_full_name": "dantetekanem/pi-agentic-search",
-    "description": "Make AI more intentional, not just wandering around, feeling lost.",
+    "description": "Agent-oriented ranked code search for Pi",
     "stars": 4,
     "forks": 0,
     "open_issues": 0,
-    "topics": [],
+    "topics": [
+      "ai-coding",
+      "code-search",
+      "developer-tools",
+      "pi",
+      "pi-package",
+      "ripgrep"
+    ],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-10T21:51:58Z",
-    "pushed_at": "2026-08-24T00:39:39Z",
-    "updated_at": "2026-08-24T00:40:30Z",
-    "size": 153,
-    "license": null,
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "pushed_at": "2026-09-03T17:54:21Z",
+    "updated_at": "2026-09-03T17:54:39Z",
+    "size": 211,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "health": {
     "score": 55,
     "level": "maintained"
   },
-  "category": "misc"
+  "category": "extension"
 }

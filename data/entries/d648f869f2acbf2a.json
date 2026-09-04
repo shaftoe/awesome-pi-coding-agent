@@ -3,33 +3,29 @@
   "name": "@agimon-ai/doompi-log",
   "url": "https://www.npmjs.com/package/@agimon-ai/doompi-log",
   "source": "npm-search",
-  "description": "Pi session metrics, findings, sink status, and a Log Metrics overlay for agent observability.",
+  "description": "Headless DoomPi session server: supervises a Pi RPC agent behind an authenticated unix socket so clients can attach and reattach",
   "metadata": {
     "github_url": "https://github.com/AgiFlow/doompi",
-    "npm_name": "@agimon-ai/doompi-log",
-    "description": "Pi session metrics, findings, sink status, and a Log Metrics overlay for agent observability.",
+    "npm_name": "@agimon-ai/doompi-server",
+    "description": "Headless DoomPi session server: supervises a Pi RPC agent behind an authenticated unix socket so clients can attach and reattach",
     "keywords": [
-      "agent-observability",
-      "ai",
+      "agent-server",
       "coding-agent",
-      "developer-tools",
       "doompi",
-      "log-sink",
-      "logging",
-      "metrics",
-      "pi-extension",
-      "pi-package",
-      "telemetry"
+      "headless",
+      "pi-coding-agent",
+      "rpc",
+      "session-server"
     ],
-    "version": "0.0.1-alpha.49",
-    "published_at": "2026-09-02T04:57:17.738Z",
-    "npm_downloads_monthly": 6689,
-    "npm_downloads_weekly": 1122,
-    "npm_score_final": 29.41368,
+    "version": "0.0.1-alpha.16",
+    "published_at": "2026-09-03T12:08:43.852Z",
+    "npm_downloads_monthly": 766,
+    "npm_downloads_weekly": 766,
+    "npm_score_final": 27.427229,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "category": "misc"
 }

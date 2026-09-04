@@ -3,20 +3,20 @@
   "name": "pi-rakit-custom-provider",
   "url": "https://www.npmjs.com/package/pi-rakit-custom-provider",
   "source": "npm-search",
-  "description": "Track Pi session time, prompts, turns, and tool calls",
+  "description": "Configurable OpenAI-compatible custom provider for Pi",
   "metadata": {
     "github_url": "https://github.com/4nndmw/pi-rakit",
-    "npm_name": "pi-rakit-session-stats",
-    "description": "Track Pi session time, prompts, turns, and tool calls",
+    "npm_name": "pi-rakit-custom-provider",
+    "description": "Configurable OpenAI-compatible custom provider for Pi",
     "keywords": [
       "pi-package",
       "pi-coding-agent",
       "extension",
-      "session",
-      "statistics"
+      "custom-provider",
+      "openai-compatible"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-09-01T15:46:33.408Z",
+    "version": "0.1.2",
+    "published_at": "2026-09-01T12:34:18.937Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

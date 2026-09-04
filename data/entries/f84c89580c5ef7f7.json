@@ -1,0 +1,25 @@
+{
+  "id": "ianprime0509-pi-custom",
+  "name": "ianprime0509-pi-custom",
+  "url": "https://github.com/ianprime0509/pi-custom",
+  "source": "github-search",
+  "description": "Personal Pi agent customization package",
+  "metadata": {
+    "github_url": "https://github.com/ianprime0509/pi-custom",
+    "repo_full_name": "ianprime0509/pi-custom",
+    "description": "Personal Pi agent customization package",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-03T03:27:08Z",
+    "pushed_at": "2026-09-03T03:27:46Z",
+    "updated_at": "2026-09-03T03:27:51Z",
+    "size": 3,
+    "license": "0BSD",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

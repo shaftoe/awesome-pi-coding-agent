@@ -1,0 +1,30 @@
+{
+  "id": "pi-markdown-box",
+  "name": "pi-markdown-box",
+  "url": "https://www.npmjs.com/package/pi-markdown-box",
+  "source": "npm-search",
+  "description": "Pi extension that renders inline Markdown fenced code blocks and tables as terminal boxes (╭─╮ style). Fork of pi-codeblock-box with broader scope.",
+  "metadata": {
+    "github_url": "https://github.com/MciG-ggg/pi-markdown-box",
+    "npm_name": "pi-markdown-box",
+    "description": "Pi extension that renders inline Markdown fenced code blocks and tables as terminal boxes (╭─╮ style). Fork of pi-codeblock-box with broader scope.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "markdown",
+      "codeblock",
+      "table",
+      "tui"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-27T11:53:24.194Z",
+    "npm_downloads_monthly": 122,
+    "npm_downloads_weekly": 122,
+    "npm_score_final": 14.484412,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

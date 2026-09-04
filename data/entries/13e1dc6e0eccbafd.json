@@ -8,7 +8,7 @@
     "github_url": "https://github.com/noctuid/epimetheus",
     "repo_full_name": "noctuid/epimetheus",
     "description": "(beta) Hindsight integration for pi coding agent (with queueing, past session ingestion, and a focus on best practices)",
-    "stars": 23,
+    "stars": 24,
     "forks": 3,
     "open_issues": 14,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-19T22:42:05Z",
     "pushed_at": "2026-08-11T22:34:24Z",
-    "updated_at": "2026-08-18T06:17:46Z",
+    "updated_at": "2026-09-03T12:46:30Z",
     "size": 5093,
     "license": "GPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/danielcherubini/pi-archimedes",
     "repo_full_name": "danielcherubini/pi-archimedes",
     "description": "Visual polish and useful context for the Pi coding agent TUI",
-    "stars": 125,
+    "stars": 126,
     "forks": 39,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-04T13:16:05Z",
     "pushed_at": "2026-09-01T05:52:49Z",
-    "updated_at": "2026-09-01T09:00:16Z",
+    "updated_at": "2026-09-03T10:01:06Z",
     "size": 1931,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

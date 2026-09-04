@@ -10,7 +10,7 @@
     "description": "Use your x.com Premium / SuperGrok subscription in pi with OAuth login, privacy toggle, auto-refresh and live model discovery. Supports grok-4.6, grok-composer-2.5-fast, x_search.",
     "stars": 23,
     "forks": 5,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "composer-2p5",
       "grok",
