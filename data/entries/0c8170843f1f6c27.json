@@ -1,0 +1,33 @@
+{
+  "id": "yiz-hhh-learn-pi-agent",
+  "name": "yiz-hhh-learn-pi-agent",
+  "url": "https://github.com/yiz-hhh/learn-pi-agent",
+  "source": "github-search",
+  "description": "Learn agent harness design by rebuilding Pi from a single LLM call to a coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/yiz-hhh/learn-pi-agent",
+    "repo_full_name": "yiz-hhh/learn-pi-agent",
+    "description": "Learn agent harness design by rebuilding Pi from a single LLM call to a coding agent.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "agent-loop",
+      "ai-agent",
+      "llm",
+      "pi",
+      "tutorial",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-03T18:33:26Z",
+    "pushed_at": "2026-09-04T11:59:53Z",
+    "updated_at": "2026-09-04T12:01:25Z",
+    "size": 333,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

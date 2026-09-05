@@ -1,0 +1,31 @@
+{
+  "id": "@dhcurry/pi-context-manager",
+  "name": "@dhcurry/pi-context-manager",
+  "url": "https://www.npmjs.com/package/@dhcurry/pi-context-manager",
+  "source": "npm-search",
+  "description": "Graphical context inspector for Pi agent - visualize, trace and edit the context sent to the LLM",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@dhcurry/pi-context-manager",
+    "description": "Graphical context inspector for Pi agent - visualize, trace and edit the context sent to the LLM",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "context",
+      "inspector",
+      "debug",
+      "visualization",
+      "echarts"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-08-21T03:50:56.697Z",
+    "npm_downloads_monthly": 96,
+    "npm_downloads_weekly": 25,
+    "npm_score_final": 13.870083,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

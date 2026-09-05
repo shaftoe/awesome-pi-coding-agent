@@ -8,7 +8,7 @@
     "github_url": "https://github.com/zhu327/pi",
     "repo_full_name": "zhu327/pi",
     "description": "My own Pi coding agent configuration",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-16T11:20:43Z",
     "pushed_at": "2026-08-28T08:25:41Z",
-    "updated_at": "2026-08-28T08:26:56Z",
+    "updated_at": "2026-09-04T08:22:37Z",
     "size": 320,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

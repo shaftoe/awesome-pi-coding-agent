@@ -10,7 +10,7 @@
     "description": "Portable Pi coding-agent configuration with custom extensions, skills, subagents, procedures, themes, and safety tooling.",
     "stars": 0,
     "forks": 1,
-    "open_issues": 2,
+    "open_issues": 4,
     "topics": [
       "agent-skills",
       "ai-agents",

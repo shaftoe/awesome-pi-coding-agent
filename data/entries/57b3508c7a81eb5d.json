@@ -10,7 +10,7 @@
     "description": "Swap between configurations in Pi — it's like dotfiles for your coding agent.",
     "stars": 19,
     "forks": 2,
-    "open_issues": 21,
+    "open_issues": 25,
     "topics": [
       "ai",
       "ai-agents",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-27T20:43:37Z",
-    "pushed_at": "2026-09-03T19:04:23Z",
-    "updated_at": "2026-09-03T19:06:10Z",
-    "size": 3588,
+    "pushed_at": "2026-09-04T22:39:49Z",
+    "updated_at": "2026-09-04T22:37:18Z",
+    "size": 3575,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

@@ -1,0 +1,29 @@
+{
+  "id": "pi-skill-cue",
+  "name": "pi-skill-cue",
+  "url": "https://www.npmjs.com/package/pi-skill-cue",
+  "source": "npm-search",
+  "description": "Skill router for pi. Matches every prompt to the right skill, injects it where the model will actually see it, and optionally blocks work until it is read.",
+  "metadata": {
+    "github_url": "https://github.com/SraavanChevireddy/pi-skill-cue",
+    "npm_name": "pi-skill-cue",
+    "description": "Skill router for pi. Matches every prompt to the right skill, injects it where the model will actually see it, and optionally blocks work until it is read.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "skill",
+      "router",
+      "skills"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-28T10:25:09.269Z",
+    "npm_downloads_monthly": 307,
+    "npm_downloads_weekly": 307,
+    "npm_score_final": 17.232002,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

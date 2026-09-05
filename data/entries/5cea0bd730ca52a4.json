@@ -8,9 +8,9 @@
     "github_url": "https://github.com/Waishnav/devspace",
     "repo_full_name": "Waishnav/devspace",
     "description": "Minimal Coding Agent Harness on MCP for ChatGPT, Claude, Hermes, Grok Bot, OpenClaw",
-    "stars": 4446,
-    "forks": 477,
-    "open_issues": 69,
+    "stars": 4467,
+    "forks": 482,
+    "open_issues": 71,
     "topics": [
       "agent-orchestration",
       "chatgpt",
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-06-14T16:57:27Z",
     "pushed_at": "2026-08-31T16:33:04Z",
-    "updated_at": "2026-09-03T23:44:58Z",
+    "updated_at": "2026-09-04T23:42:45Z",
     "size": 4170,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

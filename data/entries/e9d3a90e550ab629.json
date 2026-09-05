@@ -10,7 +10,7 @@
     "description": "Deterministic multi-agent workflow orchestration for Pi",
     "stars": 202,
     "forks": 23,
-    "open_issues": 10,
+    "open_issues": 8,
     "topics": [
       "herdr-plugin",
       "pi",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-12T20:45:52Z",
-    "pushed_at": "2026-09-03T19:14:08Z",
-    "updated_at": "2026-09-03T19:14:13Z",
-    "size": 5981,
+    "pushed_at": "2026-09-04T20:49:12Z",
+    "updated_at": "2026-09-04T20:49:17Z",
+    "size": 6398,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

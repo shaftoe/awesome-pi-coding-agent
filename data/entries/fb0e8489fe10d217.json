@@ -1,0 +1,30 @@
+{
+  "id": "@felores/pi-session-search",
+  "name": "@felores/pi-session-search",
+  "url": "https://www.npmjs.com/package/@felores/pi-session-search",
+  "source": "npm-search",
+  "description": "Local, read-only conversation search for Pi sessions",
+  "metadata": {
+    "github_url": "https://github.com/felores/pi-session-search",
+    "npm_name": "@felores/pi-session-search",
+    "description": "Local, read-only conversation search for Pi sessions",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "session-search",
+      "conversation-search",
+      "sqlite",
+      "fts5"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-28T20:30:10.013Z",
+    "npm_downloads_monthly": 111,
+    "npm_downloads_weekly": 111,
+    "npm_score_final": 13.792731,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
