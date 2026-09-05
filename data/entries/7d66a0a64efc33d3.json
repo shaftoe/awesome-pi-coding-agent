@@ -1,0 +1,36 @@
+{
+  "id": "pi-passport",
+  "name": "pi-passport",
+  "url": "https://www.npmjs.com/package/pi-passport",
+  "source": "npm-search",
+  "description": "Browse the web as yourself from a Pi agent — your real logged-in session, scoped to the sites you grant. Copies only those origins' cookies out of your own Chromium profile into an ephemeral snapshot, drives it with your own browser binary, and gates ever",
+  "metadata": {
+    "github_url": "https://github.com/privateer-agent/pi-passport",
+    "npm_name": "pi-passport",
+    "description": "Browse the web as yourself from a Pi agent — your real logged-in session, scoped to the sites you grant. Copies only those origins' cookies out of your own Chromium profile into an ephemeral snapshot, drives it with your own browser binary, and gates ever",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "browser",
+      "browser-automation",
+      "playwright",
+      "chromium",
+      "cookies",
+      "authenticated-browsing",
+      "session",
+      "privacy",
+      "consent"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-28T08:53:30.624Z",
+    "npm_downloads_monthly": 140,
+    "npm_downloads_weekly": 140,
+    "npm_score_final": 15.14349,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

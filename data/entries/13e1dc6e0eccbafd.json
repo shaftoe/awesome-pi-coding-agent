@@ -10,7 +10,7 @@
     "description": "(beta) Hindsight integration for pi coding agent (with queueing, past session ingestion, and a focus on best practices)",
     "stars": 24,
     "forks": 3,
-    "open_issues": 14,
+    "open_issues": 16,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

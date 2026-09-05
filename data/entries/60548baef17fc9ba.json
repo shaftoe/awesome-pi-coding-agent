@@ -8,7 +8,7 @@
     "github_url": "https://github.com/cyberful/cyberful",
     "repo_full_name": "cyberful/cyberful",
     "description": "Cyberful is an open-source AI Red Team for discovering, exploiting, verifying, and remediating vulnerabilities.",
-    "stars": 119,
+    "stars": 122,
     "forks": 15,
     "open_issues": 2,
     "topics": [
@@ -37,7 +37,7 @@
     "archived": false,
     "created_at": "2026-07-13T18:21:25Z",
     "pushed_at": "2026-08-24T17:27:06Z",
-    "updated_at": "2026-09-01T08:32:46Z",
+    "updated_at": "2026-09-04T22:04:44Z",
     "size": 20952,
     "license": "AGPL-3.0",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

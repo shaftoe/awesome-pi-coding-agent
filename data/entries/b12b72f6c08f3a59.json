@@ -1,0 +1,29 @@
+{
+  "id": "@jingoz/pi-image-input",
+  "name": "@jingoz/pi-image-input",
+  "url": "https://www.npmjs.com/package/@jingoz/pi-image-input",
+  "source": "npm-search",
+  "description": "Pi TUI clipboard image attachment bridge",
+  "metadata": {
+    "github_url": "https://github.com/jeffery-zhang/pi-plugins",
+    "npm_name": "@jingoz/pi-image-input",
+    "description": "Pi TUI clipboard image attachment bridge",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "image",
+      "clipboard",
+      "tui"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-28T09:48:30.616Z",
+    "npm_downloads_monthly": 247,
+    "npm_downloads_weekly": 247,
+    "npm_score_final": 16.493898,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

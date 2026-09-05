@@ -1,0 +1,30 @@
+{
+  "id": "@petrel-cn/workspace-guard",
+  "name": "@petrel-cn/workspace-guard",
+  "url": "https://www.npmjs.com/package/@petrel-cn/workspace-guard",
+  "source": "npm-search",
+  "description": "Keep file writes within the current workspace, prompting for approval on anything outside it.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@petrel-cn/workspace-guard",
+    "description": "Keep file writes within the current workspace, prompting for approval on anything outside it.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "workspace",
+      "guard",
+      "approval",
+      "security"
+    ],
+    "version": "2.4.0",
+    "published_at": "2026-08-28T18:14:59.283Z",
+    "npm_downloads_monthly": 101,
+    "npm_downloads_weekly": 101,
+    "npm_score_final": 13.789956,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

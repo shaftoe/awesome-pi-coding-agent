@@ -9,7 +9,7 @@
     "repo_full_name": "monotykamary/heddlework",
     "description": "A native, harness-neutral workspace for agent sessions, task graphs, diffs, and durable work — Pi first, Codex and Claude next.",
     "stars": 8,
-    "forks": 1,
+    "forks": 2,
     "open_issues": 1,
     "topics": [
       "agentic-development",
@@ -26,9 +26,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-27T03:46:35Z",
-    "pushed_at": "2026-08-31T06:51:36Z",
-    "updated_at": "2026-09-03T01:13:01Z",
-    "size": 1279,
+    "pushed_at": "2026-09-04T21:32:01Z",
+    "updated_at": "2026-09-04T21:32:08Z",
+    "size": 763,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

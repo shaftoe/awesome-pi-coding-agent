@@ -9,7 +9,7 @@
     "repo_full_name": "rnorth/sandboxed-pi",
     "description": "Sandboxed execution wrapper for the pi coding agent — all tool calls run inside ephemeral Docker containers",
     "stars": 4,
-    "forks": 1,
+    "forks": 0,
     "open_issues": 17,
     "topics": [],
     "language": "TypeScript",

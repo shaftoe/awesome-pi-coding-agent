@@ -10,7 +10,7 @@
     "description": "A local-first visual management platform for coding-agent — unified management of agents, skills, command, knowledge graph, and visual workflow editor. Built with Electron + React + TypeScript.",
     "stars": 6,
     "forks": 0,
-    "open_issues": 12,
+    "open_issues": 14,
     "topics": [
       "claude-code",
       "harness-engineering",

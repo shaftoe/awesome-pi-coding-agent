@@ -1,0 +1,32 @@
+{
+  "id": "@kushalkhemka/pi-docker",
+  "name": "@kushalkhemka/pi-docker",
+  "url": "https://www.npmjs.com/package/@kushalkhemka/pi-docker",
+  "source": "npm-search",
+  "description": "A safe, flexible, all-in-one Docker management tool for the Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/Kushalkhemka/pi-docker",
+    "npm_name": "@kushalkhemka/pi-docker",
+    "description": "A safe, flexible, all-in-one Docker management tool for the Pi coding agent.",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "docker",
+      "docker-compose",
+      "docker-swarm",
+      "buildx",
+      "containers",
+      "ai-agent"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-09-04T20:45:50.726Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

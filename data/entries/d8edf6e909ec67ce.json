@@ -9,8 +9,8 @@
     "repo_full_name": "pedrostarkealexis/pi-opencode-free",
     "description": "Free OpenCode models in Pi, no API key",
     "stars": 1,
-    "forks": 0,
-    "open_issues": 0,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "free-models",
       "pi",

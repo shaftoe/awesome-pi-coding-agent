@@ -1,0 +1,29 @@
+{
+  "id": "vim-mode-pi",
+  "name": "vim-mode-pi",
+  "url": "https://www.npmjs.com/package/vim-mode-pi",
+  "source": "npm-search",
+  "description": "Vim modal editor for pi's TUI input",
+  "metadata": {
+    "github_url": "https://github.com/Javier-Romario/vim-mode-pi",
+    "npm_name": "vim-mode-pi",
+    "description": "Vim modal editor for pi's TUI input",
+    "keywords": [
+      "pi-package",
+      "vim",
+      "editor",
+      "modal",
+      "tui"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-28T05:57:00.935Z",
+    "npm_downloads_monthly": 115,
+    "npm_downloads_weekly": 115,
+    "npm_score_final": 13.805868,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

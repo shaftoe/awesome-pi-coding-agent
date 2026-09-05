@@ -1,0 +1,33 @@
+{
+  "id": "floydous-pi-agent-kernel",
+  "name": "floydous-pi-agent-kernel",
+  "url": "https://github.com/floydous/pi-agent-kernel",
+  "source": "github-search",
+  "description": "Pi coding agent extension for focused code retrieval, grounded edits, safety checks, and language-server support.",
+  "metadata": {
+    "github_url": "https://github.com/floydous/pi-agent-kernel",
+    "repo_full_name": "floydous/pi-agent-kernel",
+    "description": "Pi coding agent extension for focused code retrieval, grounded edits, safety checks, and language-server support.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "coding-agents",
+      "coding-assistant",
+      "developer-tools",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-28T04:06:17Z",
+    "pushed_at": "2026-09-04T11:21:39Z",
+    "updated_at": "2026-09-04T14:36:44Z",
+    "size": 1122,
+    "license": "ISC",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

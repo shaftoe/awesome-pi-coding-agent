@@ -10,7 +10,7 @@
     "description": "Pi-native port of pstack skills, sticky Poteto Mode, and isolated subagents.",
     "stars": 5,
     "forks": 3,
-    "open_issues": 2,
+    "open_issues": 3,
     "topics": [
       "pi",
       "pi-package",
