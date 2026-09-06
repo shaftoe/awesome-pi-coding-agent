@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tomsej/pi-ext",
     "repo_full_name": "tomsej/pi-ext",
     "description": "Extensions, skills, and themes for Pi coding agent",
-    "stars": 69,
+    "stars": 70,
     "forks": 6,
     "open_issues": 3,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-23T20:37:58Z",
     "pushed_at": "2026-09-03T17:02:35Z",
-    "updated_at": "2026-09-03T17:04:46Z",
+    "updated_at": "2026-09-05T16:52:54Z",
     "size": 2045,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

@@ -1,0 +1,30 @@
+{
+  "id": "pi-test-driven-development",
+  "name": "pi-test-driven-development",
+  "url": "https://www.npmjs.com/package/pi-test-driven-development",
+  "source": "npm-search",
+  "description": "Risk-based test-driven development skill for Pi",
+  "metadata": {
+    "github_url": "https://github.com/stijnVanHorenbeek/pi-test-driven-development",
+    "npm_name": "pi-test-driven-development",
+    "description": "Risk-based test-driven development skill for Pi",
+    "keywords": [
+      "pi-package",
+      "pi-skill",
+      "test-driven-development",
+      "testing",
+      "tdd",
+      "tests"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-29T00:55:13.856Z",
+    "npm_downloads_monthly": 219,
+    "npm_downloads_weekly": 166,
+    "npm_score_final": 16.527157,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

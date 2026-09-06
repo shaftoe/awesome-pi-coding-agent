@@ -1,0 +1,25 @@
+{
+  "id": "@tkoyama010/pi-webcam",
+  "name": "@tkoyama010/pi-webcam",
+  "url": "https://www.npmjs.com/package/@tkoyama010/pi-webcam",
+  "source": "npm-search",
+  "description": "pi extension for webcam snapshot capture — let your coding agent see through your camera",
+  "metadata": {
+    "github_url": "https://github.com/tkoyama010/pi-webcam",
+    "npm_name": "@tkoyama010/pi-webcam",
+    "description": "pi extension for webcam snapshot capture — let your coding agent see through your camera",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-24T15:51:19.810Z",
+    "npm_downloads_monthly": 145,
+    "npm_downloads_weekly": 145,
+    "npm_score_final": 14.731227,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

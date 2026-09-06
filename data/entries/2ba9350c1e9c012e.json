@@ -8,7 +8,7 @@
     "github_url": "https://github.com/osolmaz/pi-demo-mode",
     "repo_full_name": "osolmaz/pi-demo-mode",
     "description": "Pi extension package: self-driving story demo mode with a stripped-down TUI",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-26T05:03:36Z",
     "pushed_at": "2026-08-19T18:07:04Z",
-    "updated_at": "2026-08-19T18:12:08Z",
+    "updated_at": "2026-09-05T17:51:44Z",
     "size": 39,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

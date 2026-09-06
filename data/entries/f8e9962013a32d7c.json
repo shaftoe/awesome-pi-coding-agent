@@ -1,0 +1,32 @@
+{
+  "id": "pi-compaction-control",
+  "name": "pi-compaction-control",
+  "url": "https://www.npmjs.com/package/pi-compaction-control",
+  "source": "npm-search",
+  "description": "Pi Coding Agent extension: granular per-model context-window hard cap + configurable compaction summariser model, all from settings.json.",
+  "metadata": {
+    "github_url": "https://github.com/aalexren/pi-compaction-control",
+    "npm_name": "pi-compaction-control",
+    "description": "Pi Coding Agent extension: granular per-model context-window hard cap + configurable compaction summariser model, all from settings.json.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "compaction",
+      "context-window",
+      "context-cap",
+      "compaction-model",
+      "llm"
+    ],
+    "version": "0.4.5",
+    "published_at": "2026-09-05T21:47:11.476Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "A desktop client for Pi Coding Agent with native session recovery, multi-target execution, remote control, and SQLite-backed offline history.",
     "stars": 19,
     "forks": 5,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "ai-coding",
       "coding-agent",
@@ -27,9 +27,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-26T12:35:42Z",
-    "pushed_at": "2026-09-03T14:06:38Z",
-    "updated_at": "2026-09-04T18:24:43Z",
-    "size": 22863,
+    "pushed_at": "2026-09-05T15:44:09Z",
+    "updated_at": "2026-09-05T15:44:13Z",
+    "size": 22998,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

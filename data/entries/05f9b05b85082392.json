@@ -1,0 +1,20 @@
+{
+  "id": "YT_LoNKx1Ctg1k",
+  "name": "Run Pi Coding Agent Locally with llama.cpp",
+  "url": "https://youtube.com/watch?v=LoNKx1Ctg1k",
+  "source": "youtube-search",
+  "description": "Run the Pi Coding Agent entirely against a local llama.cpp server. In this video, I walk through how to connect Pi to llama.cpp, ...",
+  "metadata": {
+    "title": "Run Pi Coding Agent Locally with llama.cpp",
+    "name": "Run Pi Coding Agent Locally with llama.cpp",
+    "description": "Run the Pi Coding Agent entirely against a local llama.cpp server. In this video, I walk through how to connect Pi to llama.cpp, ...",
+    "channel": "Dainamo",
+    "published_at": "2026-09-04T19:00:05Z",
+    "thumbnail": "https://i.ytimg.com/vi/LoNKx1Ctg1k/hqdefault.jpg",
+    "views": 96,
+    "likes": 2,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-coding-agent"
+  },
+  "category": "video"
+}

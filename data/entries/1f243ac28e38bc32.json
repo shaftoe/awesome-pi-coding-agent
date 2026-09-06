@@ -1,0 +1,25 @@
+{
+  "id": "RajarshiB21-pi-remoticon",
+  "name": "RajarshiB21-pi-remoticon",
+  "url": "https://github.com/RajarshiB21/pi-remoticon",
+  "source": "github-search",
+  "description": "A package that extends the pi coding harness (https://pi.dev) — adding capability and a fresh interface on top of pi's core, without forking or modifying it.",
+  "metadata": {
+    "github_url": "https://github.com/RajarshiB21/pi-remoticon",
+    "repo_full_name": "RajarshiB21/pi-remoticon",
+    "description": "A package that extends the pi coding harness (https://pi.dev) — adding capability and a fresh interface on top of pi's core, without forking or modifying it.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-04T10:21:47Z",
+    "pushed_at": "2026-09-05T19:10:48Z",
+    "updated_at": "2026-09-05T19:09:17Z",
+    "size": 58,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

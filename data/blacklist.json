@@ -52577,5 +52577,111 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-coding-agent"
 		}
+	},
+	{
+		"url": "https://github.com/vitaliyslion/pi-obsidian",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-06T00:33:55.998933937Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/shuo-huge/pi-backup-restore",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-06T00:33:56.102349495Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=kCLOlpXGGlg",
+		"reason": "pi network crypto signal: \"pi network\"",
+		"blacklisted_at": "2026-09-06T00:33:56.114358397Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/ngctro/pistack",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-06T00:33:56.169042771Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/torkbot/harness",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-06T00:33:56.25819805Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=mcp9kTOZUQY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-06T00:33:56.323735906Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Coffelix2023/xpi-minifooter",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-06T00:33:56.381396479Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Jul1en-Lin/pi-image-placeholder",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-06T00:33:56.444500503Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/eachann1024/pi-mini-lens",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-06T00:33:56.479459092Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Qt40ftraJFU",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-09-06T00:33:56.490165874Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/bun-pdf",
+		"reason": "UNRELATED - general PDF CLI for AI agents, not Pi coding agent specific",
+		"blacklisted_at": "2026-09-06T00:36:25.575897526Z",
+		"source": "manual"
 	}
 ]

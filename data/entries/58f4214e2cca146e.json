@@ -8,8 +8,8 @@
     "github_url": "https://github.com/palmtom316/pi-models",
     "repo_full_name": "palmtom316/pi-models",
     "description": "Pi TUI overlay wizard: add a relay or self-hosted gateway as a provider, fetch /models, and write models.json",
-    "stars": 2,
-    "forks": 0,
+    "stars": 3,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "models",
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-08-17T07:12:43Z",
     "pushed_at": "2026-09-02T16:02:37Z",
-    "updated_at": "2026-09-02T16:07:06Z",
+    "updated_at": "2026-09-05T14:55:14Z",
     "size": 414,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
