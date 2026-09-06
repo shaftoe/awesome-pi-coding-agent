@@ -1,0 +1,37 @@
+{
+  "id": "dingdinglz-pi-worktree",
+  "name": "dingdinglz-pi-worktree",
+  "url": "https://github.com/dingdinglz/pi-worktree",
+  "source": "github-search",
+  "description": "Safe, AI-assisted Git worktree workflows for the Pi coding agent — isolated workspaces, verified PR publishing, and resumable merges back to the original checkout.",
+  "metadata": {
+    "github_url": "https://github.com/dingdinglz/pi-worktree",
+    "repo_full_name": "dingdinglz/pi-worktree",
+    "description": "Safe, AI-assisted Git worktree workflows for the Pi coding agent — isolated workspaces, verified PR publishing, and resumable merges back to the original checkout.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-assisted-development",
+      "coding-agent",
+      "developer-tools",
+      "git",
+      "git-worktree",
+      "github-cli",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "typescript",
+      "worktree"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-02T08:16:15Z",
+    "pushed_at": "2026-09-06T16:44:39Z",
+    "updated_at": "2026-09-06T16:51:12Z",
+    "size": 152,
+    "license": "MIT",
+    "discovery_hint": "github:add-url"
+  },
+  "category": "extension"
+}
