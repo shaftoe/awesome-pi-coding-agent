@@ -8,7 +8,7 @@
     "github_url": "https://github.com/pandysp/pi-hydra",
     "repo_full_name": "pandysp/pi-hydra",
     "description": "Extra heads for your pi coding agent: live oversight through prompt-cache replay",
-    "stars": 12,
+    "stars": 13,
     "forks": 2,
     "open_issues": 4,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-16T15:05:59Z",
     "pushed_at": "2026-08-20T15:32:35Z",
-    "updated_at": "2026-08-20T15:39:55Z",
+    "updated_at": "2026-09-05T15:58:45Z",
     "size": 19439,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

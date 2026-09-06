@@ -1,0 +1,25 @@
+{
+  "id": "last-p",
+  "name": "last-p",
+  "url": "https://www.npmjs.com/package/last-p",
+  "source": "npm-search",
+  "description": "Show a five-word summary of the latest pi prompt in the status bar.",
+  "metadata": {
+    "github_url": "https://github.com/juanmackie/Last-P-extension",
+    "npm_name": "last-p",
+    "description": "Show a five-word summary of the latest pi prompt in the status bar.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-08-29T09:47:37.097Z",
+    "npm_downloads_monthly": 276,
+    "npm_downloads_weekly": 276,
+    "npm_score_final": 16.702692,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

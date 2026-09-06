@@ -9,7 +9,7 @@
     "repo_full_name": "TGYD-helige/dsh-pi",
     "description": "Run trusted Pi extensions inside DeepSeek Harness through a compatibility host.",
     "stars": 4,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "ai-agents",

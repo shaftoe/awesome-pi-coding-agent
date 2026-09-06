@@ -1,0 +1,25 @@
+{
+  "id": "CosmosMind-ai-RSI-Harness",
+  "name": "CosmosMind-ai-RSI-Harness",
+  "url": "https://github.com/CosmosMind-ai/RSI-Harness",
+  "source": "github-search",
+  "description": "RSIH — versionable, shareable agent harness: Pi coding agent + Genome config layer",
+  "metadata": {
+    "github_url": "https://github.com/CosmosMind-ai/RSI-Harness",
+    "repo_full_name": "CosmosMind-ai/RSI-Harness",
+    "description": "RSIH — versionable, shareable agent harness: Pi coding agent + Genome config layer",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-03T08:45:37Z",
+    "pushed_at": "2026-09-03T12:02:21Z",
+    "updated_at": "2026-09-05T09:07:55Z",
+    "size": 197,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

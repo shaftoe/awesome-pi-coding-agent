@@ -1,0 +1,32 @@
+{
+  "id": "@kushalkhemka/pi-openrouter",
+  "name": "@kushalkhemka/pi-openrouter",
+  "url": "https://www.npmjs.com/package/@kushalkhemka/pi-openrouter",
+  "source": "npm-search",
+  "description": "Provider-pinned OpenRouter models and exact cost, cache, TPS, and subagent accounting for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/Kushalkhemka/pi-openrouter",
+    "npm_name": "@kushalkhemka/pi-openrouter",
+    "description": "Provider-pinned OpenRouter models and exact cost, cache, TPS, and subagent accounting for Pi.",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "openrouter",
+      "llm-routing",
+      "prompt-cache",
+      "token-cost",
+      "tps",
+      "subagents"
+    ],
+    "version": "1.0.7",
+    "published_at": "2026-09-05T10:36:06.728Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
