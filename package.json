@@ -31,7 +31,7 @@
     "@semantic-release/git": "^11.0.1",
     "@semantic-release/github": "^12.0.9",
     "@semantic-release/npm": "^13.1.5",
-    "bun-types": "^1.4.0",
+    "bun-types": "^1.4.2",
     "conventional-changelog-conventionalcommits": "^10.4.0",
     "semantic-release": "^25.0.9"
   },
