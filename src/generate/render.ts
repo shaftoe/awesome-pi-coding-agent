@@ -151,7 +151,7 @@ export function renderREADME(opts: GenerateOptions): string {
 	const sections: string[] = [];
 
 	// ── Header ──
-	sections.push(`# Awesome Pi Coding Agent
+	sections.push(`# Awesome <img src="https://pi.dev/logo-auto.svg" alt="Pi" width="28" style="vertical-align: -0.3em" /> Coding Agent
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
