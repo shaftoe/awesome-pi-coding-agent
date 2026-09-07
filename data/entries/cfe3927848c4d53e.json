@@ -9,7 +9,7 @@
     "repo_full_name": "huang-sh/PiX",
     "description": " A non-linear AI agent workbench — session is a tree: branch anytime, and context follows the branch",
     "stars": 3,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "ai-agents",
@@ -19,9 +19,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-04T08:20:23Z",
-    "pushed_at": "2026-09-05T11:32:35Z",
-    "updated_at": "2026-09-05T11:32:38Z",
-    "size": 1660,
+    "pushed_at": "2026-09-06T21:51:21Z",
+    "updated_at": "2026-09-06T21:51:27Z",
+    "size": 2294,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

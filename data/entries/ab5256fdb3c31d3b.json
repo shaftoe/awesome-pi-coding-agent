@@ -3,11 +3,11 @@
   "name": "pi-papercuts",
   "url": "https://www.npmjs.com/package/pi-papercuts",
   "source": "npm-search",
-  "description": "CodeMode for Pi and OMP: read, write, edit, and bash with source selection and bounded results.",
+  "description": "One CodeMode invocation for Pi and OMP, with four guest commands, automatic read batching and source context.",
   "metadata": {
     "github_url": "https://github.com/AdityaVG13/pi-stack",
     "npm_name": "pi-supernova",
-    "description": "CodeMode for Pi and OMP: read, write, edit, and bash with source selection and bounded results.",
+    "description": "One CodeMode invocation for Pi and OMP, with four guest commands, automatic read batching and source context.",
     "keywords": [
       "pi-package",
       "pi",
@@ -20,8 +20,8 @@
       "supernova",
       "progressive-discovery"
     ],
-    "version": "0.2.0",
-    "published_at": "2026-09-04T22:22:26.580Z",
+    "version": "0.3.1",
+    "published_at": "2026-09-06T09:41:25.025Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

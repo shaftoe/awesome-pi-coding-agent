@@ -10,7 +10,7 @@
     "description": "Small observability and context management extensions for the Pi coding agent",
     "stars": 48,
     "forks": 11,
-    "open_issues": 14,
+    "open_issues": 15,
     "topics": [
       "context-management",
       "context-window",

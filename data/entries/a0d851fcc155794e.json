@@ -1,0 +1,25 @@
+{
+  "id": "spksoft-pi-model-roles",
+  "name": "spksoft-pi-model-roles",
+  "url": "https://github.com/spksoft/pi-model-roles",
+  "source": "github-search",
+  "description": "The Pi Agent packages for auto switching model based on tasks",
+  "metadata": {
+    "github_url": "https://github.com/spksoft/pi-model-roles",
+    "repo_full_name": "spksoft/pi-model-roles",
+    "description": "The Pi Agent packages for auto switching model based on tasks",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-06T05:28:21Z",
+    "pushed_at": "2026-09-06T15:17:27Z",
+    "updated_at": "2026-09-06T15:17:31Z",
+    "size": 500,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

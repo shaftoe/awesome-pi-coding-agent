@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tangentyh/pi-collections",
     "repo_full_name": "tangentyh/pi-collections",
     "description": "A development-only npm workspace collecting pi extensions (blinking cursor, scroll speed, and more) — each under extensions/ is an independent distributable pi package",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-08-17T14:45:09Z",
     "pushed_at": "2026-09-04T15:59:37Z",
-    "updated_at": "2026-09-04T16:00:45Z",
+    "updated_at": "2026-09-06T17:51:44Z",
     "size": 666,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

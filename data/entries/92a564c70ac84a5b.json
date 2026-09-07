@@ -8,7 +8,7 @@
     "github_url": "https://github.com/MinhDuyDEV/pi-harness",
     "repo_full_name": "MinhDuyDEV/pi-harness",
     "description": "Reusable Pi Coding Agent harness package — extensions, skills, prompts, and themes.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-24T02:15:58Z",
     "pushed_at": "2026-08-08T16:04:22Z",
-    "updated_at": "2026-08-08T16:04:25Z",
+    "updated_at": "2026-09-06T19:09:10Z",
     "size": 9229,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

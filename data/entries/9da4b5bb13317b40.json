@@ -1,0 +1,32 @@
+{
+  "id": "pi-tk-tickets",
+  "name": "pi-tk-tickets",
+  "url": "https://www.npmjs.com/package/pi-tk-tickets",
+  "source": "npm-search",
+  "description": "Compact tk ticket workflow extension for Pi agents with low prompt overhead.",
+  "metadata": {
+    "github_url": "https://github.com/ProbabilityEngineer/pi-tk-tickets",
+    "npm_name": "pi-tk-tickets",
+    "description": "Compact tk ticket workflow extension for Pi agents with low prompt overhead.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "tickets",
+      "ticketing",
+      "tk",
+      "tasks",
+      "workflow"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-30T00:31:05.899Z",
+    "npm_downloads_monthly": 266,
+    "npm_downloads_weekly": 266,
+    "npm_score_final": 16.67099,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

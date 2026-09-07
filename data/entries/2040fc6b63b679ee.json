@@ -1,0 +1,40 @@
+{
+  "id": "pi-edit-guard",
+  "name": "pi-edit-guard",
+  "url": "https://www.npmjs.com/package/pi-edit-guard",
+  "source": "npm-search",
+  "description": "Override the built-in edit tool in pi coding agent to make edits reliable where models fail or struggle with the built-in one",
+  "metadata": {
+    "github_url": "https://github.com/k0valik/pi-edit-guard",
+    "npm_name": "pi-edit-guard",
+    "description": "Override the built-in edit tool in pi coding agent to make edits reliable where models fail or struggle with the built-in one",
+    "keywords": [
+      "code-editing",
+      "edit",
+      "edit-tool",
+      "extension",
+      "file-editing",
+      "fuzzy-matching",
+      "model-agnostic",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "replace",
+      "replace-all",
+      "search-replace",
+      "stormbreaker",
+      "typescript"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-06T18:15:49.277Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
