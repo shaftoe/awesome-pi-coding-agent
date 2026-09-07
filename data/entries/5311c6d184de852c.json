@@ -1,0 +1,33 @@
+{
+  "id": "pi-coauthor",
+  "name": "pi-coauthor",
+  "url": "https://www.npmjs.com/package/pi-coauthor",
+  "source": "npm-search",
+  "description": "Pi extension that installs a per-repository prepare-commit-msg git hook adding Co-authored-by and Generated-By trailers to commit messages.",
+  "metadata": {
+    "github_url": "https://github.com/alexandregz/pi-coauthor",
+    "npm_name": "pi-coauthor",
+    "description": "Pi extension that installs a per-repository prepare-commit-msg git hook adding Co-authored-by and Generated-By trailers to commit messages.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "extension",
+      "git",
+      "hook",
+      "prepare-commit-msg",
+      "co-author"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-09-06T22:39:59.027Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "One-command isolated dev sandboxes with headed display (noVNC), Pi agent, Chromium/OAuth, and GitHub-token forwarding. npx @gannonh/devbox init",
     "stars": 7,
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 2,
     "topics": [
       "coding-agent",
       "container",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-28T20:46:04Z",
-    "pushed_at": "2026-09-02T21:54:20Z",
-    "updated_at": "2026-09-02T21:54:26Z",
-    "size": 1443,
+    "pushed_at": "2026-09-06T21:49:12Z",
+    "updated_at": "2026-09-06T21:49:16Z",
+    "size": 1445,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

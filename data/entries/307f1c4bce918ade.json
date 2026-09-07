@@ -10,7 +10,7 @@
     "description": "Workflow harness for Pi coding agent",
     "stars": 2,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "agent",
       "extension",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-24T11:07:00Z",
-    "pushed_at": "2026-09-04T18:42:12Z",
+    "pushed_at": "2026-09-06T18:57:22Z",
     "updated_at": "2026-09-04T18:42:01Z",
-    "size": 83371,
+    "size": 83408,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

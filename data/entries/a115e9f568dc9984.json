@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Thin Pi adapter for an explicit subagent provider and Rust Component-owned native lifecycle exchanges.",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/pzzld-org/shepherd",
     "npm_name": "@pzzld/pi-shepherd",
     "description": "Thin Pi adapter for an explicit subagent provider and Rust Component-owned native lifecycle exchanges.",
     "keywords": [
@@ -16,11 +16,11 @@
       "agents",
       "cli"
     ],
-    "version": "6.6.3",
-    "published_at": "2026-08-30T02:27:51.129Z",
-    "npm_downloads_monthly": 1082,
-    "npm_downloads_weekly": 402,
-    "npm_score_final": 22.19208,
+    "version": "6.7.1",
+    "published_at": "2026-09-06T14:33:07.511Z",
+    "npm_downloads_monthly": 1280,
+    "npm_downloads_weekly": 579,
+    "npm_score_final": 22.545895,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

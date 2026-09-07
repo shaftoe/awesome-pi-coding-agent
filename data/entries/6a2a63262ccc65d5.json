@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Vistyy/nopus",
     "repo_full_name": "Vistyy/nopus",
     "description": "Deterministic prose checks for clearer coding-agent responses",
-    "stars": 274,
+    "stars": 275,
     "forks": 12,
     "open_issues": 1,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-08-15T12:53:20Z",
     "pushed_at": "2026-08-19T16:26:34Z",
-    "updated_at": "2026-09-05T17:30:04Z",
+    "updated_at": "2026-09-06T20:14:09Z",
     "size": 16628,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/spksoft/pi-sub-anthropic",
     "repo_full_name": "spksoft/pi-sub-anthropic",
     "description": "An extension for using anthropic subscription in Pi Agent.",
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-23T08:21:21Z",
     "pushed_at": "2026-08-29T06:30:46Z",
-    "updated_at": "2026-08-29T06:30:46Z",
+    "updated_at": "2026-09-06T05:00:55Z",
     "size": 136,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
