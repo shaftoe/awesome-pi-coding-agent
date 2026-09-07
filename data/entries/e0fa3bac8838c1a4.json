@@ -1,0 +1,29 @@
+{
+  "id": "@dinglz/pi-worktree",
+  "name": "@dinglz/pi-worktree",
+  "url": "https://www.npmjs.com/package/@dinglz/pi-worktree",
+  "source": "npm-search",
+  "description": "Safe, AI-assisted Git worktree workflows for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/dingdinglz/pi-worktree",
+    "npm_name": "@dinglz/pi-worktree",
+    "description": "Safe, AI-assisted Git worktree workflows for the pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "git",
+      "worktree",
+      "github"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-07T02:22:40.833Z",
+    "npm_downloads_monthly": null,
+    "npm_downloads_weekly": null,
+    "npm_score_final": null,
+    "npm_score_popularity": null,
+    "npm_score_quality": null,
+    "npm_score_maintenance": null,
+    "discovery_hint": "npm:add-url"
+  },
+  "category": "extension"
+}
