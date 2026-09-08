@@ -1,0 +1,29 @@
+{
+  "id": "@genee/omp-opsx-addon",
+  "name": "@genee/omp-opsx-addon",
+  "url": "https://www.npmjs.com/package/@genee/omp-opsx-addon",
+  "source": "npm-search",
+  "description": "Pi Extension: OpenSpec workflow orchestration - coder/reviewer/planner agents, session title & progress",
+  "metadata": {
+    "github_url": "https://github.com/iamfat/genee-teams",
+    "npm_name": "@genee/omp-opsx-addon",
+    "description": "Pi Extension: OpenSpec workflow orchestration - coder/reviewer/planner agents, session title & progress",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "openspec",
+      "session-title",
+      "opsx"
+    ],
+    "version": "0.7.0",
+    "published_at": "2026-09-07T09:10:43.328Z",
+    "npm_downloads_monthly": 939,
+    "npm_downloads_weekly": 939,
+    "npm_score_final": 22.579384,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

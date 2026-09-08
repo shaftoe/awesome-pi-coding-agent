@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_codeagentswarm.com_how-to-use-pi-coding-agent",
+  "name": "Pi Coding Agent: Install, Sign In and Start Coding",
+  "url": "https://www.codeagentswarm.com/en/guides/how-to-use-pi-coding-agent",
+  "source": "brave-web-search",
+  "description": "Learn what Pi coding agent does, install the current npm package, connect a model and resume sessions. Includes the status of Pi in CodeAgentSwarm beta.",
+  "metadata": {
+    "title": "Pi Coding Agent: Install, Sign In and Start Coding",
+    "name": "Pi Coding Agent: Install, Sign In and Start Coding",
+    "description": "Learn what Pi coding agent does, install the current npm package, connect a model and resume sessions. Includes the status of Pi in CodeAgentSwarm beta.",
+    "published_at": "2026-09-06T14:20:05",
+    "source_site": "CodeAgentSwarm",
+    "source_url": "https://www.codeagentswarm.com/en/guides/how-to-use-pi-coding-agent",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

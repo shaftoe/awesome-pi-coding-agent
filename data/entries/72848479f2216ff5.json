@@ -8,7 +8,7 @@
     "github_url": "https://github.com/lebonbruce/pi-hippocampus",
     "repo_full_name": "lebonbruce/pi-hippocampus",
     "description": "A bio-mimetic memory extension for pi-agent with Hippocampus architecture.",
-    "stars": 8,
+    "stars": 9,
     "forks": 0,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-02T03:55:11Z",
     "pushed_at": "2026-02-05T07:38:55Z",
-    "updated_at": "2026-05-01T00:22:26Z",
+    "updated_at": "2026-09-07T10:37:28Z",
     "size": 451,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

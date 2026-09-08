@@ -1,0 +1,28 @@
+{
+  "id": "@pi-sysadmin/prompt-buffet",
+  "name": "@pi-sysadmin/prompt-buffet",
+  "url": "https://www.npmjs.com/package/@pi-sysadmin/prompt-buffet",
+  "source": "npm-search",
+  "description": "Next-prompt suggestions for Pi: LLM-generated follow-ups after each agent turn.",
+  "metadata": {
+    "github_url": "https://github.com/dnv/prompt-buffet",
+    "npm_name": "@pi-sysadmin/prompt-buffet",
+    "description": "Next-prompt suggestions for Pi: LLM-generated follow-ups after each agent turn.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "prompt-suggestions"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-07T16:23:49.436Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

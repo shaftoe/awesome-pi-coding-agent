@@ -1,0 +1,30 @@
+{
+  "id": "jczhang02-pi-stuff-old",
+  "name": "jczhang02-pi-stuff-old",
+  "url": "https://github.com/jczhang02/pi-stuff-old",
+  "source": "github-search",
+  "description": "A personal suite of extensions and resources for Pi",
+  "metadata": {
+    "github_url": "https://github.com/jczhang02/pi-stuff-old",
+    "repo_full_name": "jczhang02/pi-stuff-old",
+    "description": "A personal suite of extensions and resources for Pi",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 24,
+    "topics": [
+      "bun",
+      "pi",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-31T13:55:00Z",
+    "pushed_at": "2026-09-07T21:56:02Z",
+    "updated_at": "2026-09-07T17:29:37Z",
+    "size": 71195,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

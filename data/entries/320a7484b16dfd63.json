@@ -1,0 +1,33 @@
+{
+  "id": "CinloDev-pi-sdd-profiles",
+  "name": "CinloDev-pi-sdd-profiles",
+  "url": "https://github.com/CinloDev/pi-sdd-profiles",
+  "source": "github-search",
+  "description": "Keyboard-first SDD and subagent model profile manager with interactive floating modal for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/CinloDev/pi-sdd-profiles",
+    "repo_full_name": "CinloDev/pi-sdd-profiles",
+    "description": "Keyboard-first SDD and subagent model profile manager with interactive floating modal for Pi Coding Agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "multiagent",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "sdd",
+      "subagents"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-07T06:53:14Z",
+    "pushed_at": "2026-09-07T21:00:26Z",
+    "updated_at": "2026-09-07T21:01:26Z",
+    "size": 786,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

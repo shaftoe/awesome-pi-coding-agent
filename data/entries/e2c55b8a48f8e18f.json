@@ -1,0 +1,37 @@
+{
+  "id": "@senad-d/pi-k8s-knowledge",
+  "name": "@senad-d/pi-k8s-knowledge",
+  "url": "https://www.npmjs.com/package/@senad-d/pi-k8s-knowledge",
+  "source": "npm-search",
+  "description": "Official Kubernetes documentation evidence and citations for Pi, without cluster access",
+  "metadata": {
+    "github_url": "https://github.com/senad-d/pi-k8s-knowledge",
+    "npm_name": "@senad-d/pi-k8s-knowledge",
+    "description": "Official Kubernetes documentation evidence and citations for Pi, without cluster access",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "cli",
+      "terminal",
+      "typescript",
+      "coding-agent",
+      "kubernetes",
+      "k8s",
+      "documentation",
+      "retrieval",
+      "citations"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-07T08:57:48.979Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

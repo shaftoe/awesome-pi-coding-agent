@@ -1,0 +1,25 @@
+{
+  "id": "pi-tandem",
+  "name": "pi-tandem",
+  "url": "https://www.npmjs.com/package/pi-tandem",
+  "source": "npm-search",
+  "description": "Shared agent system prompt and skills for pi, from the tandem-skills repo",
+  "metadata": {
+    "github_url": "https://github.com/skhoroshavin/tandem-skills",
+    "npm_name": "pi-tandem",
+    "description": "Shared agent system prompt and skills for pi, from the tandem-skills repo",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.4.6",
+    "published_at": "2026-09-07T07:51:22.245Z",
+    "npm_downloads_monthly": 1469,
+    "npm_downloads_weekly": 1469,
+    "npm_score_final": 22.01361,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

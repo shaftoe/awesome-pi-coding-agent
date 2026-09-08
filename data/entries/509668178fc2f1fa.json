@@ -1,0 +1,33 @@
+{
+  "id": "pi-debug-mode",
+  "name": "pi-debug-mode",
+  "url": "https://www.npmjs.com/package/pi-debug-mode",
+  "source": "npm-search",
+  "description": "Cursor-style debug mode for the Pi coding agent, with evidence-first debugging and targeted runtime probes.",
+  "metadata": {
+    "github_url": "https://github.com/liush2yuxjtu/pi-debug-mode",
+    "npm_name": "pi-debug-mode",
+    "description": "Cursor-style debug mode for the Pi coding agent, with evidence-first debugging and targeted runtime probes.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi coding agent",
+      "debug mode",
+      "evidence-driven debugging",
+      "hypothesis-driven debugging",
+      "runtime instrumentation",
+      "developer tools",
+      "cursor debug mode"
+    ],
+    "version": "0.1.7",
+    "published_at": "2026-09-07T07:04:22.152Z",
+    "npm_downloads_monthly": 421,
+    "npm_downloads_weekly": 421,
+    "npm_score_final": 18.04611,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

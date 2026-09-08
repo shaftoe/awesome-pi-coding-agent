@@ -1,0 +1,31 @@
+{
+  "id": "alpertarhan-omp-forgejo",
+  "name": "alpertarhan-omp-forgejo",
+  "url": "https://github.com/alpertarhan/omp-forgejo",
+  "source": "github-search",
+  "description": "Multi-server Forgejo workflows, watches, reviews, and Actions tools for the omp coding agent",
+  "metadata": {
+    "github_url": "https://github.com/alpertarhan/omp-forgejo",
+    "repo_full_name": "alpertarhan/omp-forgejo",
+    "description": "Multi-server Forgejo workflows, watches, reviews, and Actions tools for the omp coding agent",
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "bun",
+      "forgejo",
+      "pi",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-12T14:19:30Z",
+    "pushed_at": "2026-09-07T18:34:20Z",
+    "updated_at": "2026-09-07T18:35:06Z",
+    "size": 1983,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

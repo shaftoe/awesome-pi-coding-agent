@@ -1,0 +1,29 @@
+{
+  "id": "@everme/pi",
+  "name": "@everme/pi",
+  "url": "https://www.npmjs.com/package/@everme/pi",
+  "source": "npm-search",
+  "description": "EverMe long-term memory for the Pi coding agent: profile and recall injection, automatic turn capture, and four memory tools.",
+  "metadata": {
+    "github_url": "https://github.com/EverMind-AI/EverMe",
+    "npm_name": "@everme/pi",
+    "description": "EverMe long-term memory for the Pi coding agent: profile and recall injection, automatic turn capture, and four memory tools.",
+    "keywords": [
+      "pi-package",
+      "evermind",
+      "everme",
+      "pi",
+      "memory"
+    ],
+    "version": "0.6.4",
+    "published_at": "2026-09-07T09:42:59.869Z",
+    "npm_downloads_monthly": 189,
+    "npm_downloads_weekly": 189,
+    "npm_score_final": 15.10226,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

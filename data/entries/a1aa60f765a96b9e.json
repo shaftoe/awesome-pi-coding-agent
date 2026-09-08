@@ -8,7 +8,7 @@
     "github_url": "https://github.com/sylv-io/pi-anthropic-auth",
     "repo_full_name": "sylv-io/pi-anthropic-auth",
     "description": "Use an Anthropic Claude plan with the Pi coding agent through OAuth.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-07-11T14:07:12Z",
     "pushed_at": "2026-07-14T07:35:35Z",
-    "updated_at": "2026-07-14T07:35:38Z",
+    "updated_at": "2026-09-07T16:34:36Z",
     "size": 48,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

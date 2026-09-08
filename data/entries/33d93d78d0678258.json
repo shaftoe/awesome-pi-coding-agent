@@ -1,0 +1,29 @@
+{
+  "id": "@pify/plan-mode",
+  "name": "@pify/plan-mode",
+  "url": "https://www.npmjs.com/package/@pify/plan-mode",
+  "source": "npm-search",
+  "description": "Read-only planning mode for pi with an explicit approve-then-execute gate: enforced tool policy, plan files, approach options, fresh-session handoff",
+  "metadata": {
+    "github_url": "https://github.com/pifydev/plan-mode",
+    "npm_name": "@pify/plan-mode",
+    "description": "Read-only planning mode for pi with an explicit approve-then-execute gate: enforced tool policy, plan files, approach options, fresh-session handoff",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pify",
+      "plan-mode"
+    ],
+    "version": "0.4.2",
+    "published_at": "2026-09-07T14:33:02.999Z",
+    "npm_downloads_monthly": 546,
+    "npm_downloads_weekly": 546,
+    "npm_score_final": 19.391985,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
