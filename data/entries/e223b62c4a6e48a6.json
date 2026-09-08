@@ -1,0 +1,25 @@
+{
+  "id": "runling",
+  "name": "runling",
+  "url": "https://www.npmjs.com/package/runling",
+  "source": "npm-search",
+  "description": "TypeScript workflows for coding agents, with a CLI and live web console.",
+  "metadata": {
+    "github_url": "https://github.com/chattocorp/runling",
+    "npm_name": "runling",
+    "description": "TypeScript workflows for coding agents, with a CLI and live web console.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.6.0",
+    "published_at": "2026-09-07T16:35:46.674Z",
+    "npm_downloads_monthly": 424,
+    "npm_downloads_weekly": 424,
+    "npm_score_final": 18.036331,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

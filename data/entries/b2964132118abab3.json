@@ -3,33 +3,32 @@
   "name": "@agimon-ai/doompi-grep",
   "url": "https://www.npmjs.com/package/@agimon-ai/doompi-grep",
   "source": "npm-search",
-  "description": "Prebuilt RTK v0.45.0 log processor for DoomPi Runner on Linux arm64.",
+  "description": "Per-model system prompt guidance for Pi agents, layered across global and repository scope.",
   "metadata": {
     "github_url": "https://github.com/AgiFlow/doompi",
-    "npm_name": "@agimon-ai/doompi-runner-rtk-linux-arm64",
-    "description": "Prebuilt RTK v0.45.0 log processor for DoomPi Runner on Linux arm64.",
+    "npm_name": "@agimon-ai/doompi-model-guidance",
+    "description": "Per-model system prompt guidance for Pi agents, layered across global and repository scope.",
     "keywords": [
       "ai",
-      "arm64",
       "coding-agent",
       "developer-tools",
-      "doom-runner",
       "doompi",
-      "linux",
-      "log-processing",
-      "native-runtime",
+      "model-guidance",
+      "pi-coding-agent",
+      "pi-extension",
       "pi-package",
-      "rtk"
+      "system-prompt",
+      "typescript"
     ],
-    "version": "0.0.1-alpha.54",
-    "published_at": "2026-09-05T12:14:48.807Z",
-    "npm_downloads_monthly": 1707,
-    "npm_downloads_weekly": 771,
-    "npm_score_final": 23.40269,
+    "version": "0.0.1-alpha.63",
+    "published_at": "2026-09-07T22:25:41.029Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
-  "category": "misc"
+  "category": "extension"
 }

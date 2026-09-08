@@ -1,0 +1,33 @@
+{
+  "id": "grknbyk-pi-umbra",
+  "name": "grknbyk-pi-umbra",
+  "url": "https://github.com/grknbyk/pi-umbra",
+  "source": "github-search",
+  "description": "A dark look for pi, and the small extensions that grew around it.",
+  "metadata": {
+    "github_url": "https://github.com/grknbyk/pi-umbra",
+    "repo_full_name": "grknbyk/pi-umbra",
+    "description": "A dark look for pi, and the small extensions that grew around it.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "pi-theme",
+      "terminal",
+      "theme",
+      "tui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-07T20:52:52Z",
+    "pushed_at": "2026-09-07T20:57:33Z",
+    "updated_at": "2026-09-07T20:57:40Z",
+    "size": 82,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

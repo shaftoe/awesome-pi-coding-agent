@@ -1,0 +1,29 @@
+{
+  "id": "tyf1996-pi-personal-preferences",
+  "name": "tyf1996-pi-personal-preferences",
+  "url": "https://github.com/tyf1996/pi-personal-preferences",
+  "source": "github-search",
+  "description": "Self-contained personal preference groups and Git-synced evolution for Pi",
+  "metadata": {
+    "github_url": "https://github.com/tyf1996/pi-personal-preferences",
+    "repo_full_name": "tyf1996/pi-personal-preferences",
+    "description": "Self-contained personal preference groups and Git-synced evolution for Pi",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "personal-preferences",
+      "pi-coding-agent",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-03T12:07:12Z",
+    "pushed_at": "2026-09-07T11:09:01Z",
+    "updated_at": "2026-09-07T11:09:07Z",
+    "size": 426,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

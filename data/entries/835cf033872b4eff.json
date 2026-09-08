@@ -10,7 +10,7 @@
     "description": "A Pi-native, polyglot duplication guardrail powered by jscpd.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 10,
     "topics": [
       "ai-coding-agent",
       "code-quality",

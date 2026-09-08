@@ -1,0 +1,29 @@
+{
+  "id": "@audsiui/pi-graphify",
+  "name": "@audsiui/pi-graphify",
+  "url": "https://www.npmjs.com/package/@audsiui/pi-graphify",
+  "source": "npm-search",
+  "description": "Five Pi tools over a graphify codebase knowledge graph — query, path, explain, incremental refresh. Nothing registered, nothing running.",
+  "metadata": {
+    "github_url": "https://github.com/audsiui/pi-graphify",
+    "npm_name": "@audsiui/pi-graphify",
+    "description": "Five Pi tools over a graphify codebase knowledge graph — query, path, explain, incremental refresh. Nothing registered, nothing running.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "graphify",
+      "knowledge-graph",
+      "codebase-navigation"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-08-31T07:20:59.671Z",
+    "npm_downloads_monthly": 284,
+    "npm_downloads_weekly": 284,
+    "npm_score_final": 17.145424,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

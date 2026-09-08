@@ -10,7 +10,7 @@
     "description": "Persistent browser-session layer for the ego-lite ego-browser skill: screenshot gallery, task-space dashboard, HTML export, and learnings recorder for the Pi coding agent.",
     "stars": 12,
     "forks": 2,
-    "open_issues": 2,
+    "open_issues": 3,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

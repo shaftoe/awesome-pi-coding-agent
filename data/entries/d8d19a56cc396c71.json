@@ -8,7 +8,7 @@
     "github_url": "https://github.com/yuanlang12/OpenPipal",
     "repo_full_name": "yuanlang12/OpenPipal",
     "description": "Open-source visual Agent client built on the Pi agent framework. No terminal required — connect a model and start.",
-    "stars": 32,
+    "stars": 35,
     "forks": 3,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-08-13T08:13:41Z",
     "pushed_at": "2026-09-06T10:12:45Z",
-    "updated_at": "2026-09-06T14:57:26Z",
+    "updated_at": "2026-09-07T13:54:08Z",
     "size": 7244,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -10,7 +10,7 @@
     "description": "Unofficial Claude Pro/Max OAuth provider package for Pi, adapted from ex-machina-co/opencode-anthropic-auth.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "anthropic",
       "claude",

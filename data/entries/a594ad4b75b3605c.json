@@ -1,0 +1,31 @@
+{
+  "id": "pi-asterisk-tui",
+  "name": "pi-asterisk-tui",
+  "url": "https://www.npmjs.com/package/pi-asterisk-tui",
+  "source": "npm-search",
+  "description": "Polished Pi coding agent TUI: transcript collapse modes (native / per-tool / grouped / run lines), claude-hud style dashboard, telemetry, and bilingual settings.",
+  "metadata": {
+    "github_url": "https://github.com/No-World/pi-asterisk-tui",
+    "npm_name": "pi-asterisk-tui",
+    "description": "Polished Pi coding agent TUI: transcript collapse modes (native / per-tool / grouped / run lines), claude-hud style dashboard, telemetry, and bilingual settings.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "tui",
+      "starship",
+      "theme"
+    ],
+    "version": "0.5.0",
+    "published_at": "2026-09-07T09:52:43.696Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

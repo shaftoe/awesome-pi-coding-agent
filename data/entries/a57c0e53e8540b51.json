@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_cursor-alternatives.com_pi-coding-agent",
+  "name": "Pi Coding Agent - Cursor-Alternatives.com",
+  "url": "https://cursor-alternatives.com/cli-agents/pi-coding-agent/",
+  "source": "brave-web-search",
+  "description": "A minimal terminal-based AI coding agent with extensible skills, provider flexibility, and shell-first workflows.",
+  "metadata": {
+    "title": "Pi Coding Agent - Cursor-Alternatives.com",
+    "name": "Pi Coding Agent - Cursor-Alternatives.com",
+    "description": "A minimal terminal-based AI coding agent with extensible skills, provider flexibility, and shell-first workflows.",
+    "published_at": null,
+    "source_site": "Cursor-alternatives",
+    "source_url": "https://cursor-alternatives.com/cli-agents/pi-coding-agent/",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

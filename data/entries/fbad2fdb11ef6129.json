@@ -8,10 +8,10 @@
     "title": "Pi Coding Agent Tutorial 2026: Installation, Setup, Workflow & Common Pitfalls | BSWEN",
     "name": "Pi Coding Agent Tutorial 2026: Installation, Setup, Workflow & Common Pitfalls | BSWEN",
     "description": "This post shows how to install Pi, wire up a model provider, and run a real coding workflow, plus the pitfalls that trip up people coming from Claude Code or OpenCode.",
-    "published_at": null,
+    "published_at": "2026-08-11T00:00:00",
     "source_site": "BSWEN",
     "source_url": "https://docs.bswen.com/blog/2026-08-10-pi-coding-agent-tutorial-2026/",
-    "discovery_hint": "brave:pi-agent"
+    "discovery_hint": "brave:pi-coding-agent"
   },
   "category": "article"
 }
