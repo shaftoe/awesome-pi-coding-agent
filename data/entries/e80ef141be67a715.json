@@ -1,0 +1,29 @@
+{
+  "id": "pi-memory-evolution",
+  "name": "pi-memory-evolution",
+  "url": "https://www.npmjs.com/package/pi-memory-evolution",
+  "source": "npm-search",
+  "description": "Automatic cross-session memory using Pi's active model, transactional local storage, and topic-based recall across directories.",
+  "metadata": {
+    "github_url": "https://github.com/btnalit/pi-memory-evolution",
+    "npm_name": "pi-memory-evolution",
+    "description": "Automatic cross-session memory using Pi's active model, transactional local storage, and topic-based recall across directories.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-agent",
+      "memory",
+      "self-evolution"
+    ],
+    "version": "0.2.2",
+    "published_at": "2026-09-08T19:54:19.918Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

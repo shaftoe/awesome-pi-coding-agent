@@ -8,7 +8,7 @@
     "github_url": "https://github.com/roccoangelella/PiLink",
     "repo_full_name": "roccoangelella/PiLink",
     "description": "MCP server to orchestrate GPT web chat into a local coding agent using Pi agent's harness.",
-    "stars": 16,
+    "stars": 18,
     "forks": 2,
     "open_issues": 0,
     "topics": [
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-30T09:36:13Z",
-    "pushed_at": "2026-09-07T13:48:49Z",
-    "updated_at": "2026-09-07T08:41:36Z",
-    "size": 29665,
+    "pushed_at": "2026-09-08T07:07:37Z",
+    "updated_at": "2026-09-08T20:34:43Z",
+    "size": 29683,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

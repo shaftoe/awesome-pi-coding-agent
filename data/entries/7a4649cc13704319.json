@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Pi extension. Delegate a batch of read-only research tasks to child agents, with dependency edges between them, a model and thinking effort you pick, and a two-way channel back to the parent.",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/derangga/pi-extensions",
     "npm_name": "pi-broodmother",
     "description": "Pi extension. Delegate a batch of read-only research tasks to child agents, with dependency edges between them, a model and thinking effort you pick, and a two-way channel back to the parent.",
     "keywords": [
@@ -18,8 +18,8 @@
       "delegation",
       "effect"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-09-07T06:23:20.622Z",
+    "version": "0.2.0",
+    "published_at": "2026-09-08T09:03:01.884Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

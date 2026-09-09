@@ -1,0 +1,37 @@
+{
+  "id": "@muzi3/herdr",
+  "name": "@muzi3/herdr",
+  "url": "https://www.npmjs.com/package/@muzi3/herdr",
+  "source": "npm-search",
+  "description": "Herdr for pi: the herdr operate skill (control Herdr from inside a pane), the herdr-guide skill (teach a human to set up and troubleshoot Herdr), and the herdr-agent-state extension (report agent state to Herdr).",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@muzi3/herdr",
+    "description": "Herdr for pi: the herdr operate skill (control Herdr from inside a pane), the herdr-guide skill (teach a human to set up and troubleshoot Herdr), and the herdr-agent-state extension (report agent state to Herdr).",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "skill",
+      "herdr",
+      "terminal-multiplexer",
+      "tmux",
+      "agent",
+      "guide",
+      "setup",
+      "troubleshooting",
+      "agent-state",
+      "pane",
+      "integration"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-26T06:23:03.748Z",
+    "npm_downloads_monthly": 96,
+    "npm_downloads_weekly": 96,
+    "npm_score_final": 14.323532,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

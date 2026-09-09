@@ -8,9 +8,9 @@
     "github_url": "https://github.com/BlockedPath/pi-meta-oauth",
     "repo_full_name": "BlockedPath/pi-meta-oauth",
     "description": "",
-    "stars": 6,
+    "stars": 7,
     "forks": 4,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "meta",
       "muse-spark",
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-08-05T22:34:44Z",
     "pushed_at": "2026-09-04T22:41:39Z",
-    "updated_at": "2026-09-04T22:41:40Z",
+    "updated_at": "2026-09-08T05:24:54Z",
     "size": 639,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

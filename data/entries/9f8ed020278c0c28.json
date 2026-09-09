@@ -1,0 +1,29 @@
+{
+  "id": "pi-verbatim-compaction",
+  "name": "pi-verbatim-compaction",
+  "url": "https://www.npmjs.com/package/pi-verbatim-compaction",
+  "source": "npm-search",
+  "description": "Provider-neutral verbatim-line compaction with deterministic pruning for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/pi-pod/pi-verbatim-compaction",
+    "npm_name": "pi-verbatim-compaction",
+    "description": "Provider-neutral verbatim-line compaction with deterministic pruning for Pi.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "compaction",
+      "verbatim",
+      "context"
+    ],
+    "version": "0.2.3",
+    "published_at": "2026-09-01T21:25:32.896Z",
+    "npm_downloads_monthly": 148,
+    "npm_downloads_weekly": 148,
+    "npm_score_final": 14.572099,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

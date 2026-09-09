@@ -3,11 +3,11 @@
   "name": "pi-browser-use",
   "url": "https://www.npmjs.com/package/pi-browser-use",
   "source": "npm-search",
-  "description": "Opinionated browser-use for the Pi coding agent, powered by chrome-devtools-mcp (not Playwright). Fresh headless by default, authenticated persistent profile opt-in, CLI-first policy bundled.",
+  "description": "Opinionated browser automation via chrome-devtools-mcp: native Pi extension and portable Agent Plugins 1.0 skills + MCP server.",
   "metadata": {
     "github_url": "https://github.com/0xPlayerOne/pi-browser-use",
     "npm_name": "pi-browser-use",
-    "description": "Opinionated browser-use for the Pi coding agent, powered by chrome-devtools-mcp (not Playwright). Fresh headless by default, authenticated persistent profile opt-in, CLI-first policy bundled.",
+    "description": "Opinionated browser automation via chrome-devtools-mcp: native Pi extension and portable Agent Plugins 1.0 skills + MCP server.",
     "keywords": [
       "automation",
       "browser",
@@ -17,11 +17,11 @@
       "pi",
       "pi-package"
     ],
-    "version": "0.9.3",
-    "published_at": "2026-09-07T18:39:40.021Z",
+    "version": "0.10.1",
+    "published_at": "2026-09-08T23:25:08.764Z",
     "npm_downloads_monthly": 2528,
     "npm_downloads_weekly": 2528,
-    "npm_score_final": 24.676716,
+    "npm_score_final": 24.935728,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

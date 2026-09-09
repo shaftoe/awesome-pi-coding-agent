@@ -1,0 +1,25 @@
+{
+  "id": "huccihuang-pi-themes",
+  "name": "huccihuang-pi-themes",
+  "url": "https://github.com/huccihuang/pi-themes",
+  "source": "github-search",
+  "description": "Themes for pi + a /theme switcher extension with live preview",
+  "metadata": {
+    "github_url": "https://github.com/huccihuang/pi-themes",
+    "repo_full_name": "huccihuang/pi-themes",
+    "description": "Themes for pi + a /theme switcher extension with live preview",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-08T03:51:53Z",
+    "pushed_at": "2026-09-08T03:51:58Z",
+    "updated_at": "2026-09-08T03:52:02Z",
+    "size": 11,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

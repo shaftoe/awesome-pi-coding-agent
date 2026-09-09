@@ -1,0 +1,27 @@
+{
+  "id": "omp-settings-sync",
+  "name": "omp-settings-sync",
+  "url": "https://www.npmjs.com/package/omp-settings-sync",
+  "source": "npm-search",
+  "description": "Securely sync your ~/.omp/agent configuration across machines through a private git repo with hard secret guards.",
+  "metadata": {
+    "github_url": "https://github.com/aaxyat/omp-settings-sync",
+    "npm_name": "omp-settings-sync",
+    "description": "Securely sync your ~/.omp/agent configuration across machines through a private git repo with hard secret guards.",
+    "keywords": [
+      "omp-package",
+      "omp-plugin",
+      "pi-package"
+    ],
+    "version": "0.1.6",
+    "published_at": "2026-09-01T11:13:49.351Z",
+    "npm_downloads_monthly": 918,
+    "npm_downloads_weekly": 918,
+    "npm_score_final": 20.476177,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

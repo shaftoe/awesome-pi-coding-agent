@@ -1,0 +1,32 @@
+{
+  "id": "pi-blocklist",
+  "name": "pi-blocklist",
+  "url": "https://www.npmjs.com/package/pi-blocklist",
+  "source": "npm-search",
+  "description": "Blocks destructive shell commands before a pi agent runs them. A linter for accidents, not a sandbox.",
+  "metadata": {
+    "github_url": "https://github.com/SeraphimSerapis/pi-blocklist",
+    "npm_name": "pi-blocklist",
+    "description": "Blocks destructive shell commands before a pi agent runs them. A linter for accidents, not a sandbox.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "safety",
+      "guardrail",
+      "shell",
+      "destructive-commands"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-08T09:59:25.096Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

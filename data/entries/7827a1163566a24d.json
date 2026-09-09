@@ -1,0 +1,29 @@
+{
+  "id": "@widnyana/design-thinking",
+  "name": "@widnyana/design-thinking",
+  "url": "https://www.npmjs.com/package/@widnyana/design-thinking",
+  "source": "npm-search",
+  "description": "Design Thinking · Design Graph · Graph Protocol — a stack-agnostic design methodology for pi. Turns every plan, review, and refactor into an annotated call graph. Method originally by r17x; generalized to a pi package by widnyana.",
+  "metadata": {
+    "github_url": "https://github.com/widnyana/eyay-toolkits",
+    "npm_name": "@widnyana/design-thinking",
+    "description": "Design Thinking · Design Graph · Graph Protocol — a stack-agnostic design methodology for pi. Turns every plan, review, and refactor into an annotated call graph. Method originally by r17x; generalized to a pi package by widnyana.",
+    "keywords": [
+      "pi-package",
+      "design",
+      "architecture",
+      "methodology",
+      "call-graph"
+    ],
+    "version": "0.0.6",
+    "published_at": "2026-09-02T08:47:46.869Z",
+    "npm_downloads_monthly": 97,
+    "npm_downloads_weekly": 97,
+    "npm_score_final": 14.360897,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
