@@ -1,0 +1,29 @@
+{
+  "id": "@williamcr01/pi-subagents",
+  "name": "@williamcr01/pi-subagents",
+  "url": "https://www.npmjs.com/package/@williamcr01/pi-subagents",
+  "source": "npm-search",
+  "description": "Recursive, isolated, asynchronous subagents for Pi",
+  "metadata": {
+    "github_url": "https://github.com/williamcr01/pi-subagents",
+    "npm_name": "@williamcr01/pi-subagents",
+    "description": "Recursive, isolated, asynchronous subagents for Pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "subagents",
+      "agents"
+    ],
+    "version": "0.2.5",
+    "published_at": "2026-09-08T12:24:57.930Z",
+    "npm_downloads_monthly": 681,
+    "npm_downloads_weekly": 681,
+    "npm_score_final": 21.312935,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

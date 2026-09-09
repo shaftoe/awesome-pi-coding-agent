@@ -1,0 +1,29 @@
+{
+  "id": "pi-atelier-sidebar-only",
+  "name": "pi-atelier-sidebar-only",
+  "url": "https://www.npmjs.com/package/pi-atelier-sidebar-only",
+  "source": "npm-search",
+  "description": "A sidebar-only Pi Atelier fork that preserves the existing footer and editor",
+  "metadata": {
+    "github_url": "https://github.com/jacqueline-JQ/pi-atelier-sidebar-only",
+    "npm_name": "pi-atelier-sidebar-only",
+    "description": "A sidebar-only Pi Atelier fork that preserves the existing footer and editor",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "tui",
+      "status-bar"
+    ],
+    "version": "0.10.0-sidebar.2",
+    "published_at": "2026-09-01T08:30:45.776Z",
+    "npm_downloads_monthly": 285,
+    "npm_downloads_weekly": 285,
+    "npm_score_final": 16.585842,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

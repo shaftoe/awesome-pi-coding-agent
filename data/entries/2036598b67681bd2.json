@@ -1,0 +1,25 @@
+{
+  "id": "mkaros2025-pi-ssh",
+  "name": "mkaros2025-pi-ssh",
+  "url": "https://github.com/mkaros2025/pi-ssh",
+  "source": "github-search",
+  "description": "SSH remote development package for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/mkaros2025/pi-ssh",
+    "repo_full_name": "mkaros2025/pi-ssh",
+    "description": "SSH remote development package for Pi Coding Agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-08T17:33:56Z",
+    "pushed_at": "2026-09-08T17:35:32Z",
+    "updated_at": "2026-09-08T17:35:39Z",
+    "size": 22,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

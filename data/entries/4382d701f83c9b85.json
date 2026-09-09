@@ -1,0 +1,25 @@
+{
+  "id": "@taylorsatula/pi-timestamp",
+  "name": "@taylorsatula/pi-timestamp",
+  "url": "https://www.npmjs.com/package/@taylorsatula/pi-timestamp",
+  "source": "npm-search",
+  "description": "Timestamp injection extension for Pi — appends the current wall-clock time to the tail of user messages and vocalizations just-in-time (cache-safe, no synthetic tool calls), so the model always knows what time it is.",
+  "metadata": {
+    "github_url": "https://github.com/taylorsatula/pi-timestamp",
+    "npm_name": "@taylorsatula/pi-timestamp",
+    "description": "Timestamp injection extension for Pi — appends the current wall-clock time to the tail of user messages and vocalizations just-in-time (cache-safe, no synthetic tool calls), so the model always knows what time it is.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-09-02T04:38:41.308Z",
+    "npm_downloads_monthly": 97,
+    "npm_downloads_weekly": 97,
+    "npm_score_final": 14.260287,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

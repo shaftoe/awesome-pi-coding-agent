@@ -21,7 +21,7 @@
     "created_at": "2026-08-14T12:51:34Z",
     "pushed_at": "2026-09-08T00:36:51Z",
     "updated_at": "2026-09-08T00:36:56Z",
-    "size": 136,
+    "size": 180,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

@@ -1,0 +1,25 @@
+{
+  "id": "@beu-l/pi-beep",
+  "name": "@beu-l/pi-beep",
+  "url": "https://www.npmjs.com/package/@beu-l/pi-beep",
+  "source": "npm-search",
+  "description": "Beep notifier for pi: short-long beep when the agent finishes or asks a question. /beep on|off, volume control, no dependencies.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@beu-l/pi-beep",
+    "description": "Beep notifier for pi: short-long beep when the agent finishes or asks a question. /beep on|off, volume control, no dependencies.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.2",
+    "published_at": "2026-09-08T19:15:20.255Z",
+    "npm_downloads_monthly": 478,
+    "npm_downloads_weekly": 478,
+    "npm_score_final": 20.170631,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

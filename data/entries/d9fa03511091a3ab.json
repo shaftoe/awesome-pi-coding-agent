@@ -8,7 +8,7 @@
     "github_url": "https://github.com/whycatdothis/pigi",
     "repo_full_name": "whycatdothis/pigi",
     "description": "A sleek GUI for Pi Agent 🐷",
-    "stars": 4,
+    "stars": 5,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-11T09:37:54Z",
-    "pushed_at": "2026-09-07T07:52:12Z",
-    "updated_at": "2026-09-07T07:52:28Z",
-    "size": 4653,
+    "pushed_at": "2026-09-08T16:14:39Z",
+    "updated_at": "2026-09-08T16:51:56Z",
+    "size": 4660,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

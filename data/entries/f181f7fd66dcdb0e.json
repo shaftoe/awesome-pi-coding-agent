@@ -3,37 +3,38 @@
   "name": "zosmaai-zosma-cowork",
   "url": "https://github.com/zosmaai/zosma-cowork",
   "source": "github-search",
-  "description": "Desktop GUI for the pi coding agent — open-source Claude Cowork alternative",
+  "description": "Open-source AI work platform for teams — run Pi and other agent harnesses across machines with supervision, approvals, and shared results.",
   "metadata": {
     "github_url": "https://github.com/zosmaai/zosma-cowork",
     "repo_full_name": "zosmaai/zosma-cowork",
-    "description": "Desktop GUI for the pi coding agent — open-source Claude Cowork alternative",
-    "stars": 111,
+    "description": "Open-source AI work platform for teams — run Pi and other agent harnesses across machines with supervision, approvals, and shared results.",
+    "stars": 112,
     "forks": 20,
     "open_issues": 0,
     "topics": [
       "agent",
+      "agent-platform",
+      "ai-agent",
       "ai-assistant",
-      "chat-ui",
       "coding-agent",
       "desktop-app",
-      "llm",
+      "developer-tools",
+      "local-first",
       "open-source",
       "pi",
       "pi-coding-agent",
-      "react",
-      "rust",
-      "sidecar",
+      "self-hosted",
       "tauri",
-      "tauri-app",
-      "typescript"
+      "team-collaboration",
+      "typescript",
+      "workflow-automation"
     ],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-28T03:07:04Z",
-    "pushed_at": "2026-09-07T18:51:16Z",
-    "updated_at": "2026-09-06T22:24:50Z",
-    "size": 51067,
+    "pushed_at": "2026-09-08T22:53:58Z",
+    "updated_at": "2026-09-08T22:57:45Z",
+    "size": 51414,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
@@ -41,5 +42,5 @@
     "score": 76,
     "level": "active"
   },
-  "category": "extension"
+  "category": "misc"
 }

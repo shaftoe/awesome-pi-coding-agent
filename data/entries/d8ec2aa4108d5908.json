@@ -1,0 +1,32 @@
+{
+  "id": "@frostime/pi-usage-analytics",
+  "name": "@frostime/pi-usage-analytics",
+  "url": "https://www.npmjs.com/package/@frostime/pi-usage-analytics",
+  "source": "npm-search",
+  "description": "Tracing and usage analytics for Pi, covering provider/model, directory, timeline, history import, and safe daily compaction.",
+  "metadata": {
+    "github_url": "https://github.com/frostime/pi-usage-analytics",
+    "npm_name": "@frostime/pi-usage-analytics",
+    "description": "Tracing and usage analytics for Pi, covering provider/model, directory, timeline, history import, and safe daily compaction.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "usage",
+      "analytics",
+      "tokens",
+      "cost",
+      "sqlite"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-09-01T17:57:26.347Z",
+    "npm_downloads_monthly": 293,
+    "npm_downloads_weekly": 293,
+    "npm_score_final": 18.141647,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

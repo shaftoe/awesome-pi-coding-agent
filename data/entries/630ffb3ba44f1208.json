@@ -1,0 +1,32 @@
+{
+  "id": "@cr1ms0n/pi-subagent",
+  "name": "@cr1ms0n/pi-subagent",
+  "url": "https://www.npmjs.com/package/@cr1ms0n/pi-subagent",
+  "source": "npm-search",
+  "description": "Community fork of Luke Parke's pi-subagent with explicit model policy and model visibility for Pi",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@cr1ms0n/pi-subagent",
+    "description": "Community fork of Luke Parke's pi-subagent with explicit model policy and model visibility for Pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "subagent",
+      "agents",
+      "coding-agent",
+      "extension",
+      "community-fork"
+    ],
+    "version": "0.8.1",
+    "published_at": "2026-09-08T09:31:18.373Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

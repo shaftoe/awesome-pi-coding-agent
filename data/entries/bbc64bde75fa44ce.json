@@ -1,0 +1,38 @@
+{
+  "id": "@giuseppe.trisciuoglio/pi-prevent-destructive-commands",
+  "name": "@giuseppe.trisciuoglio/pi-prevent-destructive-commands",
+  "url": "https://www.npmjs.com/package/@giuseppe.trisciuoglio/pi-prevent-destructive-commands",
+  "source": "npm-search",
+  "description": "Unconditionally blocks destructive bash commands before execution. A pi extension that guards against rm, git reset --hard, docker rm, aws delete operations, and more.",
+  "metadata": {
+    "github_url": "https://github.com/giuseppe-trisciuoglio/pi-prevent-destructive-commands",
+    "npm_name": "@giuseppe.trisciuoglio/pi-prevent-destructive-commands",
+    "description": "Unconditionally blocks destructive bash commands before execution. A pi extension that guards against rm, git reset --hard, docker rm, aws delete operations, and more.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "ai-agent",
+      "safety",
+      "destructive-commands",
+      "bash",
+      "shell",
+      "guard",
+      "security",
+      "rm",
+      "git",
+      "docker",
+      "aws"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-09-01T13:37:33.289Z",
+    "npm_downloads_monthly": 211,
+    "npm_downloads_weekly": 171,
+    "npm_score_final": 15.589998,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -3,11 +3,11 @@
   "name": "MisterBrookT-pi-x",
   "url": "https://github.com/MisterBrookT/pi-x",
   "source": "github-search",
-  "description": "Pi, equipped with the essentials.",
+  "description": "Pix gives Pi wings for everyday coding.",
   "metadata": {
     "github_url": "https://github.com/MisterBrookT/pi-x",
     "repo_full_name": "MisterBrookT/pi-x",
-    "description": "Pi, equipped with the essentials.",
+    "description": "Pix gives Pi wings for everyday coding.",
     "stars": 1,
     "forks": 0,
     "open_issues": 0,
@@ -21,11 +21,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-02T18:10:29Z",
-    "pushed_at": "2026-09-06T18:52:38Z",
-    "updated_at": "2026-09-06T18:52:42Z",
-    "size": 292,
+    "pushed_at": "2026-09-08T10:36:34Z",
+    "updated_at": "2026-09-08T10:49:50Z",
+    "size": 491,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
-  "category": "misc"
+  "category": "extension"
 }
