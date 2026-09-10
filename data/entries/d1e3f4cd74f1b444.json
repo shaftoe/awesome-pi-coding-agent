@@ -1,0 +1,29 @@
+{
+  "id": "pi-model-switcher",
+  "name": "pi-model-switcher",
+  "url": "https://www.npmjs.com/package/pi-model-switcher",
+  "source": "npm-search",
+  "description": "Switch Pi models by pi-model-alias name with an optional thinking level.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-model-switcher",
+    "description": "Switch Pi models by pi-model-alias name with an optional thinking level.",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "pi-extension",
+      "model-alias",
+      "model-switcher"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-09T09:01:36.325Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

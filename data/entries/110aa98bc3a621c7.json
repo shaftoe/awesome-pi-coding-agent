@@ -23,10 +23,10 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-07T20:52:52Z",
-    "pushed_at": "2026-09-07T20:57:33Z",
-    "updated_at": "2026-09-07T20:57:40Z",
-    "size": 82,
-    "license": null,
+    "pushed_at": "2026-09-08T21:57:02Z",
+    "updated_at": "2026-09-08T21:57:10Z",
+    "size": 92,
+    "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
   "category": "extension"

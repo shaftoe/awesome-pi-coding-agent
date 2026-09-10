@@ -10,7 +10,7 @@
     "description": "Orchestrator for Pi and Claude Code. Every stream of work gets its own git worktree, and an agent can drive the app itself — spawn sub-agents, delegate, integrate.",
     "stars": 8,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "ai-agents",
       "appimage",
@@ -29,9 +29,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-04T12:34:52Z",
-    "pushed_at": "2026-09-08T23:30:35Z",
-    "updated_at": "2026-09-08T22:48:27Z",
-    "size": 30864,
+    "pushed_at": "2026-09-09T22:09:30Z",
+    "updated_at": "2026-09-09T22:09:40Z",
+    "size": 31928,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

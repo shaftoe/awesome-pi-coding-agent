@@ -8,7 +8,7 @@
     "github_url": "https://github.com/shoelace66/AutoPi",
     "repo_full_name": "shoelace66/AutoPi",
     "description": "AutoPi: desktop and command-line AI agent with event-driven Wake automation, derived from Pi.",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -32,7 +32,7 @@
     "archived": false,
     "created_at": "2026-08-10T09:29:56Z",
     "pushed_at": "2026-08-25T02:57:43Z",
-    "updated_at": "2026-08-25T09:17:52Z",
+    "updated_at": "2026-09-09T15:41:36Z",
     "size": 63880,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

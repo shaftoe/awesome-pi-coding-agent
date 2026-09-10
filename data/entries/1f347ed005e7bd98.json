@@ -1,0 +1,35 @@
+{
+  "id": "@ankurkumarz/pi-gpu-sre-ops",
+  "name": "@ankurkumarz/pi-gpu-sre-ops",
+  "url": "https://www.npmjs.com/package/@ankurkumarz/pi-gpu-sre-ops",
+  "source": "npm-search",
+  "description": "Runtime-configurable Pi package for safe GPU inference SRE, token efficiency analysis, and proposal-only optimization workflows.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@ankurkumarz/pi-gpu-sre-ops",
+    "description": "Runtime-configurable Pi package for safe GPU inference SRE, token efficiency analysis, and proposal-only optimization workflows.",
+    "keywords": [
+      "pi-package",
+      "pi-agent",
+      "gpu",
+      "sre",
+      "llm",
+      "inference",
+      "vllm",
+      "sglang",
+      "triton",
+      "observability",
+      "token-optimization"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-09-09T01:08:42.524Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

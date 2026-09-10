@@ -1,0 +1,29 @@
+{
+  "id": "joeljuca-pi-explabs",
+  "name": "joeljuca-pi-explabs",
+  "url": "https://github.com/joeljuca/pi-explabs",
+  "source": "github-search",
+  "description": "Pi extension for Experiential Labs",
+  "metadata": {
+    "github_url": "https://github.com/joeljuca/pi-explabs",
+    "repo_full_name": "joeljuca/pi-explabs",
+    "description": "Pi extension for Experiential Labs",
+    "stars": 9,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-package",
+      "pi-packages"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-08T20:10:38Z",
+    "pushed_at": "2026-09-09T20:53:52Z",
+    "updated_at": "2026-09-09T23:21:11Z",
+    "size": 101,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

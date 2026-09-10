@@ -1,0 +1,25 @@
+{
+  "id": "manuelstolze-pi-integrations",
+  "name": "manuelstolze-pi-integrations",
+  "url": "https://github.com/manuelstolze/pi-integrations",
+  "source": "github-search",
+  "description": "Pi coding agent extensions, integrations, and reusable skills published as independent npm packages.",
+  "metadata": {
+    "github_url": "https://github.com/manuelstolze/pi-integrations",
+    "repo_full_name": "manuelstolze/pi-integrations",
+    "description": " Pi coding agent extensions, integrations, and reusable skills published as independent npm packages.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-08T17:35:01Z",
+    "pushed_at": "2026-09-09T19:01:08Z",
+    "updated_at": "2026-09-09T19:01:47Z",
+    "size": 246,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Micheleww-dsh-pi-agent",
+  "name": "Micheleww-dsh-pi-agent",
+  "url": "https://github.com/Micheleww/dsh-pi-agent",
+  "source": "github-search",
+  "description": "Run the Pi coding agent loop inside DeepSeek Harness (DSH): a DSH Agent plugin that drives a headless pi --mode rpc process, so the web frontend works unchanged.",
+  "metadata": {
+    "github_url": "https://github.com/Micheleww/dsh-pi-agent",
+    "repo_full_name": "Micheleww/dsh-pi-agent",
+    "description": "Run the Pi coding agent loop inside DeepSeek Harness (DSH): a DSH Agent plugin that drives a headless pi --mode rpc process, so the web frontend works unchanged.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-23T04:29:10Z",
+    "pushed_at": "2026-08-23T07:16:26Z",
+    "updated_at": "2026-09-09T06:19:17Z",
+    "size": 37,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "@mostlyworks/pi-delegator",
+  "name": "@mostlyworks/pi-delegator",
+  "url": "https://www.npmjs.com/package/@mostlyworks/pi-delegator",
+  "source": "npm-search",
+  "description": "A small, reliability-first delegation extension for Pi",
+  "metadata": {
+    "github_url": "https://github.com/itmostlyworks/pi-delegator",
+    "npm_name": "@mostlyworks/pi-delegator",
+    "description": "A small, reliability-first delegation extension for Pi",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.5.6",
+    "published_at": "2026-09-09T16:46:45.804Z",
+    "npm_downloads_monthly": 755,
+    "npm_downloads_weekly": 254,
+    "npm_score_final": 20.42852,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

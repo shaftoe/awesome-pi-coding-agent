@@ -1,0 +1,28 @@
+{
+  "id": "pi-crofai-provider",
+  "name": "pi-crofai-provider",
+  "url": "https://www.npmjs.com/package/pi-crofai-provider",
+  "source": "npm-search",
+  "description": "CrofAI provider for the pi coding agent — chat completions + Responses API from one catalog, with vision-by-id detection, fetch timeout, and /reload refresh.",
+  "metadata": {
+    "github_url": "https://github.com/dawidmachon/pi-crofai-provider",
+    "npm_name": "pi-crofai-provider",
+    "description": "CrofAI provider for the pi coding agent — chat completions + Responses API from one catalog, with vision-by-id detection, fetch timeout, and /reload refresh.",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "crofai",
+      "provider"
+    ],
+    "version": "1.0.5",
+    "published_at": "2026-09-09T14:07:39.485Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

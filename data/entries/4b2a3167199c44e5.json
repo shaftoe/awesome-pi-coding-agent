@@ -1,0 +1,36 @@
+{
+  "id": "pi-relay-config",
+  "name": "pi-relay-config",
+  "url": "https://www.npmjs.com/package/pi-relay-config",
+  "source": "npm-search",
+  "description": "Configure pi to use third-party AI relay stations / coding-plan endpoints: OpenAI/Codex, Claude, GLM, Grok/xAI, Kimi, DeepSeek, Qwen. Probe protocols, write models.json, verify models.",
+  "metadata": {
+    "github_url": "https://github.com/Dithob/pi-relay-config",
+    "npm_name": "pi-relay-config",
+    "description": "Configure pi to use third-party AI relay stations / coding-plan endpoints: OpenAI/Codex, Claude, GLM, Grok/xAI, Kimi, DeepSeek, Qwen. Probe protocols, write models.json, verify models.",
+    "keywords": [
+      "pi-package",
+      "pi-skill",
+      "relay",
+      "proxy",
+      "models.json",
+      "codex",
+      "claude",
+      "glm",
+      "grok",
+      "kimi",
+      "deepseek",
+      "openai"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-02T12:30:18.251Z",
+    "npm_downloads_monthly": 140,
+    "npm_downloads_weekly": 140,
+    "npm_score_final": 15.496891,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

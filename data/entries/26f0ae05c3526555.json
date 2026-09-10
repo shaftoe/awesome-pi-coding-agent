@@ -10,7 +10,7 @@
     "description": "Pre-write syntax validation for pi using tree-sitter WASM grammars",
     "stars": 2,
     "forks": 4,
-    "open_issues": 4,
+    "open_issues": 5,
     "topics": [
       "pi-extension",
       "pi-package",

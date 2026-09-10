@@ -1,0 +1,37 @@
+{
+  "id": "@fanchaozz/pi-db",
+  "name": "@fanchaozz/pi-db",
+  "url": "https://www.npmjs.com/package/@fanchaozz/pi-db",
+  "source": "npm-search",
+  "description": "Unified database extension for pi coding agent: one db_* toolset across SQL Server 2008 (sqlcmd backend) and MySQL 8 (mysql2 pool), with an extensible dialect registry for future databases.",
+  "metadata": {
+    "github_url": "https://github.com/fanchaozz/pi-db",
+    "npm_name": "@fanchaozz/pi-db",
+    "description": "Unified database extension for pi coding agent: one db_* toolset across SQL Server 2008 (sqlcmd backend) and MySQL 8 (mysql2 pool), with an extensible dialect registry for future databases.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-agent",
+      "database",
+      "sqlserver",
+      "sql-server",
+      "mysql",
+      "sqlcmd",
+      "mysql2",
+      "extension",
+      "db-tools",
+      "agent-tools"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-09-09T06:32:08.233Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

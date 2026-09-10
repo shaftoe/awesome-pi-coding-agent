@@ -9,8 +9,8 @@
     "repo_full_name": "tmustier/pi-queue-steer",
     "description": "Cursor-style visible follow-up queue with inline editing for Pi",
     "stars": 34,
-    "forks": 3,
-    "open_issues": 1,
+    "forks": 4,
+    "open_issues": 2,
     "topics": [
       "cursor-style",
       "pi-extension",

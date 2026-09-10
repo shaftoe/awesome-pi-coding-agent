@@ -1,0 +1,33 @@
+{
+  "id": "@eysenfalk/pi-herdr-status",
+  "name": "@eysenfalk/pi-herdr-status",
+  "url": "https://www.npmjs.com/package/@eysenfalk/pi-herdr-status",
+  "source": "npm-search",
+  "description": "A standalone Herdr Pi integration with prompt, async-subagent, and recovery-aware status.",
+  "metadata": {
+    "github_url": "https://github.com/eysenfalk/pi-herdr-status",
+    "npm_name": "@eysenfalk/pi-herdr-status",
+    "description": "A standalone Herdr Pi integration with prompt, async-subagent, and recovery-aware status.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "herdr",
+      "status",
+      "lifecycle",
+      "terminal",
+      "tui",
+      "developer-tools"
+    ],
+    "version": "1.0.0-rc.0",
+    "published_at": "2026-09-09T09:15:05.272Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
