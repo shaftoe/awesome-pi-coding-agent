@@ -8,7 +8,7 @@
     "title": "Pi Coding Agent: Install, Sign In and Start Coding",
     "name": "Pi Coding Agent: Install, Sign In and Start Coding",
     "description": "Pi is a terminal coding agent that connects a language model to your project files and tools. You choose the provider; Pi manages the conversation and tool execution. This guide gets a standalone Pi session running before explaining the ...",
-    "published_at": "2026-09-06T11:30:04",
+    "published_at": "2026-09-06T04:50:04",
     "source_site": "CodeAgentSwarm",
     "source_url": "https://www.codeagentswarm.com/en/guides/how-to-use-pi-coding-agent",
     "discovery_hint": "brave:pi-coding-agent"

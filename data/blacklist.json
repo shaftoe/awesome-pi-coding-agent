@@ -53365,5 +53365,175 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-package"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=OncLkZo2F3U",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-09-10T00:49:30.384618216Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@jiah-liu/pi-wechat-assistant",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-10T00:49:30.422782954Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=HV8JmTnn9gQ",
+		"reason": "non-english language (indonesian)",
+		"blacklisted_at": "2026-09-10T00:49:30.505219226Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=oKq0ZybEpIE",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-10T00:49:30.522862775Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=cer1yDKQqF8",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-09-10T00:49:30.553179129Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=WTxMyEjw3Vg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-10T00:49:30.766049024Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@foolsecret/pi-usager",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-10T00:49:30.790042835Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=HCeULoGcTJo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-10T00:49:30.823167519Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@muzi3/pi-code-review",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-10T00:49:30.869612236Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/KawaiiLLM/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-10T00:49:30.974254872Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/ElevenMrcui/pi-feishubot",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-10T00:49:31.042318918Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Lu1UWqVTbQg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-10T00:49:31.169544393Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.expedia.com/Phi-Phi-Islands.d553248635921599120.Destination-Travel-Guides",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-10T00:49:31.17917197Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/superpowers-manager",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-10T00:49:31.204889129Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=SQJ3GsB5LsE",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-09-10T00:49:31.296693617Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@jiah-liu/pi-channel-assistant",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-10T00:49:31.395152523Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=oRw0dzjOgOI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-10T00:49:31.425073992Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
 	}
 ]

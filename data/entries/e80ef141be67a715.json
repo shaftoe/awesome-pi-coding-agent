@@ -3,11 +3,11 @@
   "name": "pi-memory-evolution",
   "url": "https://www.npmjs.com/package/pi-memory-evolution",
   "source": "npm-search",
-  "description": "Automatic cross-session memory using Pi's active model, transactional local storage, and topic-based recall across directories.",
+  "description": "Memory that maintains itself. Pi learns what matters, injects what this session needs, and recalls the rest — nothing to configure, no commands to learn.",
   "metadata": {
     "github_url": "https://github.com/btnalit/pi-memory-evolution",
     "npm_name": "pi-memory-evolution",
-    "description": "Automatic cross-session memory using Pi's active model, transactional local storage, and topic-based recall across directories.",
+    "description": "Memory that maintains itself. Pi learns what matters, injects what this session needs, and recalls the rest — nothing to configure, no commands to learn.",
     "keywords": [
       "pi-package",
       "pi",
@@ -15,8 +15,8 @@
       "memory",
       "self-evolution"
     ],
-    "version": "0.2.2",
-    "published_at": "2026-09-08T19:54:19.918Z",
+    "version": "0.2.7",
+    "published_at": "2026-09-09T16:46:56.373Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/cyprx/pi.nix",
     "repo_full_name": "cyprx/pi.nix",
     "description": "Pi Coding Agent for Nix Users",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -20,11 +20,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-16T08:40:10Z",
-    "pushed_at": "2026-06-10T08:55:34Z",
-    "updated_at": "2026-09-01T05:20:15Z",
-    "size": 582,
+    "pushed_at": "2026-09-09T01:42:07Z",
+    "updated_at": "2026-09-09T01:42:16Z",
+    "size": 593,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "health": {
     "score": 53,

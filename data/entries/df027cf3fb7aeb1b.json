@@ -1,0 +1,33 @@
+{
+  "id": "@njuptlzf/mcp-adapter",
+  "name": "@njuptlzf/mcp-adapter",
+  "url": "https://www.npmjs.com/package/@njuptlzf/mcp-adapter",
+  "source": "npm-search",
+  "description": "Universal MCP (Model Context Protocol) adapter — Pi as a first-class host, plus any MCP-compatible coding agent via the universal mcp-server entry",
+  "metadata": {
+    "github_url": "https://github.com/njuptlzf/mcp-adapter",
+    "npm_name": "@njuptlzf/mcp-adapter",
+    "description": "Universal MCP (Model Context Protocol) adapter — Pi as a first-class host, plus any MCP-compatible coding agent via the universal mcp-server entry",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "mcp",
+      "model-context-protocol",
+      "ai",
+      "coding-agent",
+      "extension",
+      "claude",
+      "llm"
+    ],
+    "version": "2.29.0-0.0.4",
+    "published_at": "2026-09-02T12:57:51.336Z",
+    "npm_downloads_monthly": 576,
+    "npm_downloads_weekly": 576,
+    "npm_score_final": 20.848406,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

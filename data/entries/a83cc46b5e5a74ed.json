@@ -3,11 +3,11 @@
   "name": "@vshulcz/pi-deja",
   "url": "https://www.npmjs.com/package/@vshulcz/pi-deja",
   "source": "npm-search",
-  "description": "deja-vu memory for pi: the coding sessions already on this machine — pi, Claude Code, Codex, Cursor and 19 more — recalled at session start and on every prompt, searchable with /deja. A local index, no LLM.",
+  "description": "deja-vu memory for pi: the coding sessions already on this machine — pi, Claude Code, Codex, Cursor and 21 more — recalled at session start and on every prompt, searchable with /deja. A local index, no LLM.",
   "metadata": {
     "github_url": "https://github.com/vshulcz/deja-vu",
     "npm_name": "@vshulcz/pi-deja",
-    "description": "deja-vu memory for pi: the coding sessions already on this machine — pi, Claude Code, Codex, Cursor and 19 more — recalled at session start and on every prompt, searchable with /deja. A local index, no LLM.",
+    "description": "deja-vu memory for pi: the coding sessions already on this machine — pi, Claude Code, Codex, Cursor and 21 more — recalled at session start and on every prompt, searchable with /deja. A local index, no LLM.",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -18,8 +18,8 @@
       "session-history",
       "agent"
     ],
-    "version": "0.19.4",
-    "published_at": "2026-09-07T16:06:02.167Z",
+    "version": "0.19.5",
+    "published_at": "2026-09-09T22:03:21.286Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

@@ -1,0 +1,35 @@
+{
+  "id": "@patimweb/pi-sentinel",
+  "name": "@patimweb/pi-sentinel",
+  "url": "https://www.npmjs.com/package/@patimweb/pi-sentinel",
+  "source": "npm-search",
+  "description": "Astra/Codex-style in-loop verification & rollback hardening for Pi coding agent. Prunes failed tool-execution traces, runs type/lint/test pipelines, and rolls back on invariant violations.",
+  "metadata": {
+    "github_url": "https://github.com/Smotherer007/pi-sentinel",
+    "npm_name": "@patimweb/pi-sentinel",
+    "description": "Astra/Codex-style in-loop verification & rollback hardening for Pi coding agent. Prunes failed tool-execution traces, runs type/lint/test pipelines, and rolls back on invariant violations.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "verification",
+      "rollback",
+      "trace-pruning",
+      "linter",
+      "tsc",
+      "ast",
+      "git"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-09-09T06:33:16.341Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

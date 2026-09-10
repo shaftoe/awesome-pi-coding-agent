@@ -8,9 +8,9 @@
     "github_url": "https://github.com/Ark0N/Codeman",
     "repo_full_name": "Ark0N/Codeman",
     "description": "Self-hosted mission control for AI coding agents: run Claude Code, OpenCode, Pi, Codex, and Antigravity & Gemini CLI 24/7, from any device, watch every subagent live",
-    "stars": 743,
+    "stars": 746,
     "forks": 106,
-    "open_issues": 20,
+    "open_issues": 24,
     "topics": [
       "agent",
       "ai-agents",
@@ -35,7 +35,7 @@
     "archived": false,
     "created_at": "2026-01-21T13:09:45Z",
     "pushed_at": "2026-09-08T17:27:50Z",
-    "updated_at": "2026-09-08T17:30:12Z",
+    "updated_at": "2026-09-09T14:12:39Z",
     "size": 102573,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

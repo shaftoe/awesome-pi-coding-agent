@@ -1,0 +1,20 @@
+{
+  "id": "YT_B5guXKTOoE0",
+  "name": "pi agent comm",
+  "url": "https://youtube.com/watch?v=B5guXKTOoE0",
+  "source": "youtube-search",
+  "description": "",
+  "metadata": {
+    "title": "pi agent comm",
+    "name": "pi agent comm",
+    "description": "",
+    "channel": "Nish Shukla",
+    "published_at": "2026-08-23T06:00:47Z",
+    "thumbnail": "https://i.ytimg.com/vi/B5guXKTOoE0/hqdefault.jpg",
+    "views": 10,
+    "likes": 0,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "category": "video"
+}

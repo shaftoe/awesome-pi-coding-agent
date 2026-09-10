@@ -10,7 +10,7 @@
     "description": "A minimal and self-contained cloud agent built from first principles",
     "stars": 3,
     "forks": 1,
-    "open_issues": 3,
+    "open_issues": 2,
     "topics": [
       "agent",
       "agents",
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-05T08:01:52Z",
-    "pushed_at": "2026-09-08T20:59:09Z",
-    "updated_at": "2026-09-08T05:39:48Z",
-    "size": 3118,
+    "pushed_at": "2026-09-09T06:34:54Z",
+    "updated_at": "2026-09-09T06:35:53Z",
+    "size": 3194,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

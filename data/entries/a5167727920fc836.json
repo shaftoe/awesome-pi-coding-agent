@@ -1,0 +1,32 @@
+{
+  "id": "@monotykamary/pi-better-grok",
+  "name": "@monotykamary/pi-better-grok",
+  "url": "https://www.npmjs.com/package/@monotykamary/pi-better-grok",
+  "source": "npm-search",
+  "description": "Improve Grok/xAI in pi with fast mode, subscription usage stats, banked reset redemption, multiprovider pools, footer polish, and settings — mirroring pi-better-openai.",
+  "metadata": {
+    "github_url": "https://github.com/monotykamary/pi-better-grok",
+    "npm_name": "@monotykamary/pi-better-grok",
+    "description": "Improve Grok/xAI in pi with fast mode, subscription usage stats, banked reset redemption, multiprovider pools, footer polish, and settings — mirroring pi-better-openai.",
+    "keywords": [
+      "footer",
+      "grok",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "supergrok",
+      "usage",
+      "xai"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-09-09T13:38:49.575Z",
+    "npm_downloads_monthly": 808,
+    "npm_downloads_weekly": 515,
+    "npm_score_final": 21.637445,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

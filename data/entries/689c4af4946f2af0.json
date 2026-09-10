@@ -1,0 +1,35 @@
+{
+  "id": "bitnahian-agent-message-broker",
+  "name": "bitnahian-agent-message-broker",
+  "url": "https://github.com/bitnahian/agent-message-broker",
+  "source": "github-search",
+  "description": "Local pub/sub broker that routes real-world events (GitHub, Jira, Google Workspace, polled URLs, webhooks) into live coding-agent sessions (pi, Claude Code, Codex)",
+  "metadata": {
+    "github_url": "https://github.com/bitnahian/agent-message-broker",
+    "repo_full_name": "bitnahian/agent-message-broker",
+    "description": "Local pub/sub broker that routes real-world events (GitHub, Jira, Google Workspace, polled URLs, webhooks) into live coding-agent sessions (pi, Claude Code, Codex)",
+    "stars": 7,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "events",
+      "llm",
+      "message-broker",
+      "pi",
+      "webhooks"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-27T13:25:07Z",
+    "pushed_at": "2026-09-09T13:48:24Z",
+    "updated_at": "2026-09-09T13:57:50Z",
+    "size": 575,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

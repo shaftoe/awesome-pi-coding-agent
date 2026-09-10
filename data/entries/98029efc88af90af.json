@@ -10,7 +10,7 @@
     "description": "A Pi extension for agent-authored, human-shaped chat messages",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 2,
     "topics": [
       "ai-agent",
       "chat",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-02T14:56:22Z",
-    "pushed_at": "2026-09-08T13:36:12Z",
+    "pushed_at": "2026-09-09T08:24:58Z",
     "updated_at": "2026-09-08T13:37:30Z",
-    "size": 3410,
+    "size": 3457,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
