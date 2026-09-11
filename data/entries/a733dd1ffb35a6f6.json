@@ -10,7 +10,7 @@
     "description": "Claude Code-inspired TUI extension for Pi Agent",
     "stars": 2,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 2,
     "topics": [
       "agent",
       "pi-coding-agent",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-26T05:56:22Z",
-    "pushed_at": "2026-09-08T14:03:00Z",
+    "pushed_at": "2026-09-10T19:15:24Z",
     "updated_at": "2026-09-08T16:32:25Z",
-    "size": 828,
+    "size": 874,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

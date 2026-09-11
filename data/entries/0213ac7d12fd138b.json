@@ -1,0 +1,36 @@
+{
+  "id": "@prjct.app/pi-team",
+  "name": "@prjct.app/pi-team",
+  "url": "https://www.npmjs.com/package/@prjct.app/pi-team",
+  "source": "npm-search",
+  "description": "Coordinate independent PI Agent sessions with local team messaging, queued tasks, and shared results.",
+  "metadata": {
+    "github_url": "https://github.com/prjct-app/pi-team",
+    "npm_name": "@prjct.app/pi-team",
+    "description": "Coordinate independent PI Agent sessions with local team messaging, queued tasks, and shared results.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-agent",
+      "pi-coding-agent",
+      "pi-extension",
+      "ai-coding",
+      "developer-tools",
+      "multi-agent",
+      "agent-collaboration",
+      "messaging",
+      "task-queue",
+      "local-first"
+    ],
+    "version": "0.6.0",
+    "published_at": "2026-09-10T23:49:33.294Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

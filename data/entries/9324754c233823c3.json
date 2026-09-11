@@ -3,15 +3,15 @@
   "name": "Pi Agent — The Minimalist Coding Harness That Adapts to YOU | Alejandro AO",
   "url": "https://alejandro-ao.com/pi-agent-overview/",
   "source": "brave-web-search",
-  "description": "Bundle extensions, skills, prompts, and themes into Pi packages and share them via npm or git:",
+  "description": "An introduction to Pi Agent, a minimal terminal coding harness with four built-in tools and infinite extensibility.",
   "metadata": {
     "title": "Pi Agent — The Minimalist Coding Harness That Adapts to YOU | Alejandro AO",
     "name": "Pi Agent — The Minimalist Coding Harness That Adapts to YOU | Alejandro AO",
-    "description": "Bundle extensions, skills, prompts, and themes into Pi packages and share them via npm or git:",
+    "description": "An introduction to Pi Agent, a minimal terminal coding harness with four built-in tools and infinite extensibility.",
     "published_at": "2026-05-05T00:00:00",
     "source_site": "Alejandro AO",
     "source_url": "https://alejandro-ao.com/pi-agent-overview/",
-    "discovery_hint": "brave:pi-package"
+    "discovery_hint": "brave:pi-agent"
   },
   "category": "article"
 }

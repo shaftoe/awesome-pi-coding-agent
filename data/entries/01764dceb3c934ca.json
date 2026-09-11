@@ -1,0 +1,35 @@
+{
+  "id": "@prjct.app/pi-plan",
+  "name": "@prjct.app/pi-plan",
+  "url": "https://www.npmjs.com/package/@prjct.app/pi-plan",
+  "source": "npm-search",
+  "description": "Plan before editing in PI Agent with read-only tool restrictions, an approval step, and task progress tracking.",
+  "metadata": {
+    "github_url": "https://github.com/prjct-app/pi-plan",
+    "npm_name": "@prjct.app/pi-plan",
+    "description": "Plan before editing in PI Agent with read-only tool restrictions, an approval step, and task progress tracking.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-agent",
+      "pi-coding-agent",
+      "pi-extension",
+      "ai-coding",
+      "developer-tools",
+      "planning",
+      "plan-mode",
+      "task-management",
+      "human-in-the-loop"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-09-10T18:00:17.026Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

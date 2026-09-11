@@ -3,11 +3,11 @@
   "name": "Themes - Awesome Pi Coding Agent",
   "url": "https://awesome-pi.site/themes/",
   "source": "brave-web-search",
-  "description": "Pi extension that shows session LLM energy as an equivalent diesel-car distance. ... Color themes for pi: cyberpunk, nord, gruvbox, tokyo-night, catppuccin, and more.",
+  "description": "Named Pi profiles (modlists) for switching active tools and extension packages. Tool changes apply instantly; extension-package changes show a diff, require confirmation, update settings.json, and reload Pi resources. ... Color themes for pi: cyberpunk, nord, gruvbox, tokyo-night, catppuccin, and more.",
   "metadata": {
     "title": "Themes - Awesome Pi Coding Agent",
     "name": "Themes - Awesome Pi Coding Agent",
-    "description": "Pi extension that shows session LLM energy as an equivalent diesel-car distance. ... Color themes for pi: cyberpunk, nord, gruvbox, tokyo-night, catppuccin, and more.",
+    "description": "Named Pi profiles (modlists) for switching active tools and extension packages. Tool changes apply instantly; extension-package changes show a diff, require confirmation, update settings.json, and reload Pi resources. ... Color themes for pi: cyberpunk, nord, gruvbox, tokyo-night, catppuccin, and more.",
     "published_at": null,
     "source_site": "Awesome-pi",
     "source_url": "https://awesome-pi.site/themes/",

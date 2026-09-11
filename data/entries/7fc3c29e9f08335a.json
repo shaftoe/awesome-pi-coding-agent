@@ -1,0 +1,38 @@
+{
+  "id": "versot-pi-web",
+  "name": "versot-pi-web",
+  "url": "https://github.com/versot/pi-web",
+  "source": "github-search",
+  "description": "Web GUI for the pi coding agent — chat, models, sessions, MCP, and skills in your browser",
+  "metadata": {
+    "github_url": "https://github.com/versot/pi-web",
+    "repo_full_name": "versot/pi-web",
+    "description": "Web GUI for the pi coding agent — chat, models, sessions, MCP, and skills in your browser",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "chat-ui",
+      "coding-agent",
+      "gui",
+      "llm",
+      "local-first",
+      "mcp",
+      "pi",
+      "pi-coding-agent",
+      "self-hosted",
+      "typescript",
+      "web-ui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-30T11:35:56Z",
+    "pushed_at": "2026-09-10T15:05:59Z",
+    "updated_at": "2026-09-10T15:15:25Z",
+    "size": 718,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

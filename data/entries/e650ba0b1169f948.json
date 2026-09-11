@@ -3,11 +3,11 @@
   "name": "@wassname2/pi-goals",
   "url": "https://www.npmjs.com/package/@wassname2/pi-goals",
   "source": "npm-search",
-  "description": "One plan file per session: set goals in plan mode, work them, sign off only when a read-only judge checks the evidence.",
+  "description": "Set goals in plan.md; a smart supervisor guides cheap worker subagents through long autonomous sessions until your goals are signed off, with every agent's pane visible to you.",
   "metadata": {
     "github_url": "https://github.com/wassname/pi-goals",
     "npm_name": "@wassname2/pi-goals",
-    "description": "One plan file per session: set goals in plan mode, work them, sign off only when a read-only judge checks the evidence.",
+    "description": "Set goals in plan.md; a smart supervisor guides cheap worker subagents through long autonomous sessions until your goals are signed off, with every agent's pane visible to you.",
     "keywords": [
       "pi-package",
       "pi",
@@ -17,13 +17,14 @@
       "proof",
       "uat",
       "evidence",
-      "judge"
+      "supervisor",
+      "herdr"
     ],
-    "version": "0.2.2",
-    "published_at": "2026-08-31T11:17:48.780Z",
+    "version": "0.3.3",
+    "published_at": "2026-09-10T12:45:09.371Z",
     "npm_downloads_monthly": 305,
     "npm_downloads_weekly": 272,
-    "npm_score_final": 17.704584,
+    "npm_score_final": 17.537237,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

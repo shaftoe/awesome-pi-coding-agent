@@ -53535,5 +53535,151 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-agent"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=9UAxrdcDjjU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-11T00:50:05.752479729Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=MzSU8jdpkFQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-11T00:50:05.775092903Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=O7UQfUIOpUI",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-09-11T00:50:05.808872469Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=2K2DQsSn274",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-11T00:50:05.906230924Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=_Tt9xzmWNz4",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-11T00:50:05.956860027Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/ThanabordeeN/pi-superpowers-subagents-bridge",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-11T00:50:06.088431501Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=-HoFDh_J-0c",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-11T00:50:06.149853641Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Kczd5ZTuQE8",
+		"reason": "non-english language (italian)",
+		"blacklisted_at": "2026-09-11T00:50:06.198181264Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=p4kGb9qq7Fw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-11T00:50:06.247279411Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=h7hpOGGeSuo",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-11T00:50:06.28715085Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/Yesifan/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-11T00:50:06.403780013Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=CymOCuTZyFE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-11T00:50:06.44548667Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Mosky-G/pi-live-preview",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-11T00:50:06.454807282Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Coffelix2023/xpi-diagram",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-11T00:50:06.481237462Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=DqNSQjePO7Q",
+		"reason": "Not about pi.dev coding agent; Hindi news video about paytm pi agent",
+		"blacklisted_at": "2026-09-11T00:53:46.703929808Z",
+		"source": "manual"
 	}
 ]

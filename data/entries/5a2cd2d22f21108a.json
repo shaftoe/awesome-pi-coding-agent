@@ -1,0 +1,36 @@
+{
+  "id": "@sevten/pi-time-context",
+  "name": "@sevten/pi-time-context",
+  "url": "https://www.npmjs.com/package/@sevten/pi-time-context",
+  "source": "npm-search",
+  "description": "Pi extension that gives conversations wall-clock context: sparse, deterministic timestamps and idle gaps for user messages and tool results.",
+  "metadata": {
+    "github_url": "https://github.com/Sevten/pi-time-context",
+    "npm_name": "@sevten/pi-time-context",
+    "description": "Pi extension that gives conversations wall-clock context: sparse, deterministic timestamps and idle gaps for user messages and tool results.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "time-context",
+      "timestamps",
+      "wall-clock",
+      "llm",
+      "ai-agent",
+      "context-management",
+      "prompt-caching",
+      "developer-tools",
+      "typescript"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-10T16:35:02.477Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Aprilarina/pi-agents-talk-to-each-other",
     "repo_full_name": "Aprilarina/pi-agents-talk-to-each-other",
     "description": "A Pi package that lets multiple local Pi agents join the same room, see each other's status, and send messages/tasks to each other.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-19T18:00:13Z",
     "pushed_at": "2026-08-19T19:03:01Z",
-    "updated_at": "2026-08-19T19:04:27Z",
+    "updated_at": "2026-09-10T11:03:11Z",
     "size": 33,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

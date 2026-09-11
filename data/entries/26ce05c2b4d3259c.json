@@ -8,7 +8,7 @@
     "github_url": "https://github.com/am-will/gooey-pi",
     "repo_full_name": "am-will/gooey-pi",
     "description": "Desktop workspace for Pi, OMP, and Prime Agent",
-    "stars": 878,
+    "stars": 879,
     "forks": 67,
     "open_issues": 19,
     "topics": [
@@ -26,7 +26,7 @@
     "archived": false,
     "created_at": "2026-08-06T03:02:41Z",
     "pushed_at": "2026-09-09T21:07:56Z",
-    "updated_at": "2026-09-09T21:11:11Z",
+    "updated_at": "2026-09-10T17:36:16Z",
     "size": 71400,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
