@@ -1,0 +1,38 @@
+{
+  "id": "kyaulabs-prism",
+  "name": "kyaulabs-prism",
+  "url": "https://github.com/kyaulabs/prism",
+  "source": "github-search",
+  "description": "Coding harness for pi that guides one coding agent through specification, TDD, review, and pull-request preparation with reusable skills, safety controls, and stack adapters.",
+  "metadata": {
+    "github_url": "https://github.com/kyaulabs/prism",
+    "repo_full_name": "kyaulabs/prism",
+    "description": "Coding harness for pi that guides one coding agent through specification, TDD, review, and pull-request preparation with reusable skills, safety controls, and stack adapters.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "ai-assisted-development",
+      "code-review",
+      "coding-agent",
+      "coding-harness",
+      "conventional-commits",
+      "developer-tools",
+      "php",
+      "pi",
+      "pi-package",
+      "semgrep",
+      "software-engineering",
+      "test-driven-development"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2023-05-17T02:11:00Z",
+    "pushed_at": "2026-09-10T03:05:56Z",
+    "updated_at": "2026-09-10T03:02:50Z",
+    "size": 8789,
+    "license": "AGPL-3.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

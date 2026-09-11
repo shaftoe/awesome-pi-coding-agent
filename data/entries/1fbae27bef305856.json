@@ -1,0 +1,33 @@
+{
+  "id": "@sangyaahub/pi-marg",
+  "name": "@sangyaahub/pi-marg",
+  "url": "https://www.npmjs.com/package/@sangyaahub/pi-marg",
+  "source": "npm-search",
+  "description": "A governed, model-routed development path for Pi Agent and Oh My Pi.",
+  "metadata": {
+    "github_url": "https://github.com/sangyaahub/pi-marg",
+    "npm_name": "@sangyaahub/pi-marg",
+    "description": "A governed, model-routed development path for Pi Agent and Oh My Pi.",
+    "keywords": [
+      "pi-package",
+      "omp-plugin",
+      "pi-agent",
+      "oh-my-pi",
+      "agent-workflow",
+      "model-routing",
+      "approval-gates",
+      "multi-agent",
+      "sangyaa"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-09-10T02:23:42.304Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

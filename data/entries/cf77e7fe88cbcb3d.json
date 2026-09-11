@@ -9,7 +9,7 @@
     "repo_full_name": "williamcr01/pi-subagents",
     "description": "Recursive, isolated, asynchronous subagents for the Pi coding agent",
     "stars": 12,
-    "forks": 2,
+    "forks": 3,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

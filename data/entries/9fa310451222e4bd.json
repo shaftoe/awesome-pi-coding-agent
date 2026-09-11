@@ -1,0 +1,37 @@
+{
+  "id": "@prjct.app/pi-workflows",
+  "name": "@prjct.app/pi-workflows",
+  "url": "https://www.npmjs.com/package/@prjct.app/pi-workflows",
+  "source": "npm-search",
+  "description": "Add planning, specification, debugging, code review, and QA commands to PI Agent, with bundled development skills.",
+  "metadata": {
+    "github_url": "https://github.com/prjct-app/pi-workflows",
+    "npm_name": "@prjct.app/pi-workflows",
+    "description": "Add planning, specification, debugging, code review, and QA commands to PI Agent, with bundled development skills.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-agent",
+      "pi-coding-agent",
+      "pi-extension",
+      "ai-coding",
+      "developer-tools",
+      "agentic-workflows",
+      "planning",
+      "debugging",
+      "code-review",
+      "test-driven-development",
+      "agent-skills"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-09-10T02:28:51.147Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

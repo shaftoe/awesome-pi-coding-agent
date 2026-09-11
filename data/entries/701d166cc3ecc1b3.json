@@ -1,0 +1,28 @@
+{
+  "id": "pi-slash-suggest",
+  "name": "pi-slash-suggest",
+  "url": "https://www.npmjs.com/package/pi-slash-suggest",
+  "source": "npm-search",
+  "description": "Mid-text `/` autocomplete + slash-token highlight for pi's editor (custom editor override + provider wrapper, no core patch)",
+  "metadata": {
+    "github_url": "https://github.com/th-dev-git/pi-slash-suggest",
+    "npm_name": "pi-slash-suggest",
+    "description": "Mid-text `/` autocomplete + slash-token highlight for pi's editor (custom editor override + provider wrapper, no core patch)",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "autocomplete"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-10T10:42:36.994Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

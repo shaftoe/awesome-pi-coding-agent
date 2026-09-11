@@ -1,0 +1,31 @@
+{
+  "id": "CrazyCoder-pi-telegram-ask-mirror",
+  "name": "CrazyCoder-pi-telegram-ask-mirror",
+  "url": "https://github.com/CrazyCoder/pi-telegram-ask-mirror",
+  "source": "github-search",
+  "description": "Mirrors Pi's ask_user_question questionnaire onto Telegram inline keyboards while keeping the local TUI overlay live. First surface to answer wins.",
+  "metadata": {
+    "github_url": "https://github.com/CrazyCoder/pi-telegram-ask-mirror",
+    "repo_full_name": "CrazyCoder/pi-telegram-ask-mirror",
+    "description": "Mirrors Pi's ask_user_question questionnaire onto Telegram inline keyboards while keeping the local TUI overlay live. First surface to answer wins.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "human-in-the-loop",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "telegram"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-02T23:40:40Z",
+    "pushed_at": "2026-09-02T23:48:11Z",
+    "updated_at": "2026-09-10T01:41:47Z",
+    "size": 75,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}
