@@ -3,20 +3,20 @@
   "name": "pi-rakit-custom-provider",
   "url": "https://www.npmjs.com/package/pi-rakit-custom-provider",
   "source": "npm-search",
-  "description": "Configurable OpenAI-compatible custom provider for Pi",
+  "description": "Read-only planning and tracked plan execution for Pi",
   "metadata": {
     "github_url": "https://github.com/4nndmw/pi-rakit",
-    "npm_name": "pi-rakit-custom-provider",
-    "description": "Configurable OpenAI-compatible custom provider for Pi",
+    "npm_name": "@anandamw/plan-mode",
+    "description": "Read-only planning and tracked plan execution for Pi",
     "keywords": [
       "pi-package",
       "pi-coding-agent",
       "extension",
-      "custom-provider",
-      "openai-compatible"
+      "planning",
+      "read-only"
     ],
-    "version": "0.1.7",
-    "published_at": "2026-09-04T15:14:12.471Z",
+    "version": "0.1.0",
+    "published_at": "2026-09-11T07:52:20.054Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

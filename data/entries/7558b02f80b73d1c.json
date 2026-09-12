@@ -8,8 +8,8 @@
     "github_url": "https://github.com/BevalZ/pi-provider",
     "repo_full_name": "BevalZ/pi-provider",
     "description": "Provider manager for Pi coding agent — add/edit/test providers with adaptive capability self-check",
-    "stars": 5,
-    "forks": 1,
+    "stars": 6,
+    "forks": 2,
     "open_issues": 0,
     "topics": [
       "coding-agent",
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-07-14T10:26:22Z",
     "pushed_at": "2026-07-22T23:10:03Z",
-    "updated_at": "2026-08-18T07:41:01Z",
+    "updated_at": "2026-09-11T18:47:23Z",
     "size": 60,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

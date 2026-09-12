@@ -8,9 +8,9 @@
     "github_url": "https://github.com/nostalfinals/pi-compact-thinking",
     "repo_full_name": "nostalfinals/pi-compact-thinking",
     "description": "Compact animated thinking previews for Pi",
-    "stars": 10,
-    "forks": 0,
-    "open_issues": 0,
+    "stars": 11,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "pi-agent",
       "pi-agent-extension",
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-07-19T05:43:35Z",
     "pushed_at": "2026-08-15T14:25:16Z",
-    "updated_at": "2026-09-09T02:46:27Z",
+    "updated_at": "2026-09-11T03:26:24Z",
     "size": 45,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

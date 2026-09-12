@@ -53681,5 +53681,195 @@
 		"reason": "Not about pi.dev coding agent; Hindi news video about paytm pi agent",
 		"blacklisted_at": "2026-09-11T00:53:46.703929808Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Coffelix2023/xpi-model-cfg",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-12T00:53:41.483206555Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/PRCABK/pi-switch",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-12T00:53:41.534302457Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Coffelix2023/xpi-visualoop",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-12T00:53:41.566902275Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-zcode-headers",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-12T00:53:41.603072665Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/say4n/pi-sync",
+		"reason": "covered by dedicated source: github.com",
+		"blacklisted_at": "2026-09-12T00:53:41.620613661Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-ccswitch-balance",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-12T00:53:41.716598753Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/PAndreew/termsinator",
+		"reason": "covered by dedicated source: github.com",
+		"blacklisted_at": "2026-09-12T00:53:41.768204763Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-agent"
+		}
+	},
+	{
+		"url": "https://pi.dev/packages/bigpowers",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-12T00:53:41.785751227Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/jollyxenon/pi-ssh-monitor",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-12T00:53:41.806229655Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/esseener/VesPi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-12T00:53:41.820361782Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Yeti-Trix/sylo-news",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-12T00:53:41.828637086Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-zvec-grep-ext",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-12T00:53:41.839490962Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@zhgengr/tapd-test-platform",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-12T00:53:41.845545298Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/paseo-room",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-12T00:53:41.860996639Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/Onweekendd/ScreenWright",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-12T00:53:41.871908109Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/NVlabs/SoL-Pi",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-12T00:53:41.904575242Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Yeti-Trix/sylo-reddit",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-12T00:53:41.966174911Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/tiago-peixoto/pi-codex-accounts",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-12T00:53:41.982095875Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-task-title",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-12T00:53:42.047475093Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
 	}
 ]

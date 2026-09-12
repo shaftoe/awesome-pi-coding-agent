@@ -1,0 +1,31 @@
+{
+  "id": "@4242labs/pi-tron-clu",
+  "name": "@4242labs/pi-tron-clu",
+  "url": "https://www.npmjs.com/package/@4242labs/pi-tron-clu",
+  "source": "npm-search",
+  "description": "TRON-CLU for Pi — a supervisor extension that drives a fleet of Pi seats through a build/review/merge pipeline.",
+  "metadata": {
+    "github_url": "https://github.com/4242labs/tron-clu-pi",
+    "npm_name": "@4242labs/pi-tron-clu",
+    "description": "TRON-CLU for Pi — a supervisor extension that drives a fleet of Pi seats through a build/review/merge pipeline.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "tron",
+      "clu",
+      "orchestration",
+      "multi-agent"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-14T21:06:11.941Z",
+    "npm_downloads_monthly": 107,
+    "npm_downloads_weekly": 11,
+    "npm_score_final": 13.863667,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

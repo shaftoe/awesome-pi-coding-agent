@@ -8,9 +8,9 @@
     "github_url": "https://github.com/agustinsacco/phosphor",
     "repo_full_name": "agustinsacco/phosphor",
     "description": "Desktop IDE for the pi coding agent: chat, diffs, files, terminal and artifacts in one window. Every pi provider, plus Claude Pro/Max and ChatGPT subscriptions. macOS, Linux, Windows.",
-    "stars": 2,
+    "stars": 8,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "agentic-coding",
       "ai-coding-assistant",
@@ -29,11 +29,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-03T13:36:13Z",
-    "pushed_at": "2026-09-10T15:23:09Z",
-    "updated_at": "2026-09-10T16:11:13Z",
-    "size": 29668,
+    "pushed_at": "2026-09-11T03:49:00Z",
+    "updated_at": "2026-09-12T00:24:00Z",
+    "size": 29707,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

@@ -1,0 +1,32 @@
+{
+  "id": "@darkrei08/pi-cockpit-tools-sync",
+  "name": "@darkrei08/pi-cockpit-tools-sync",
+  "url": "https://www.npmjs.com/package/@darkrei08/pi-cockpit-tools-sync",
+  "source": "npm-search",
+  "description": "Pi extension that reads desktop cockpit-tools accounts/quotas, syncs Pi auth, and provisions a multi-account rotator (commands: /cockpit-sync, /cockpit-provision, /cockpit-proxy).",
+  "metadata": {
+    "github_url": "https://github.com/darkrei08/pi-cockpit-tools-sync",
+    "npm_name": "@darkrei08/pi-cockpit-tools-sync",
+    "description": "Pi extension that reads desktop cockpit-tools accounts/quotas, syncs Pi auth, and provisions a multi-account rotator (commands: /cockpit-sync, /cockpit-provision, /cockpit-proxy).",
+    "keywords": [
+      "pi",
+      "pi-extension",
+      "pi-agent",
+      "cockpit-tools",
+      "ai-proxy",
+      "antigravity",
+      "rotator",
+      "multi-account"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-12T00:23:25.301Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/gorazenxu/pimate",
     "repo_full_name": "gorazenxu/pimate",
     "description": "Pisidian Pi Coding Agent for Obsidian",
-    "stars": 10,
+    "stars": 11,
     "forks": 1,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-02T16:03:26Z",
     "pushed_at": "2026-09-05T07:37:49Z",
-    "updated_at": "2026-09-10T03:49:37Z",
+    "updated_at": "2026-09-11T12:25:25Z",
     "size": 3214,
     "license": "GPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

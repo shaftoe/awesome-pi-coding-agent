@@ -1,0 +1,25 @@
+{
+  "id": "Yeti-Trix-sylo-logicforge",
+  "name": "Yeti-Trix-sylo-logicforge",
+  "url": "https://github.com/Yeti-Trix/sylo-logicforge",
+  "source": "github-search",
+  "description": "LogicForge engine package for Sylo — L5X parser + template builder/executor for Allen-Bradley logic authoring (pi coding-agent package)",
+  "metadata": {
+    "github_url": "https://github.com/Yeti-Trix/sylo-logicforge",
+    "repo_full_name": "Yeti-Trix/sylo-logicforge",
+    "description": "LogicForge engine package for Sylo — L5X parser + template builder/executor for Allen-Bradley logic authoring (pi coding-agent package)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-11T23:32:16Z",
+    "pushed_at": "2026-09-11T23:32:19Z",
+    "updated_at": "2026-09-11T23:32:23Z",
+    "size": 285,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

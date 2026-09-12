@@ -1,0 +1,36 @@
+{
+  "id": "@groeponline/pi-agent-control-extension",
+  "name": "@groeponline/pi-agent-control-extension",
+  "url": "https://www.npmjs.com/package/@groeponline/pi-agent-control-extension",
+  "source": "npm-search",
+  "description": "Pi extension for terminal, CLI, browser-routing, capture, QA evidence, verification, usage observability, and control hub workflows",
+  "metadata": {
+    "github_url": "https://github.com/GroepOnline/pi-agent-control-extension",
+    "npm_name": "@groeponline/pi-agent-control-extension",
+    "description": "Pi extension for terminal, CLI, browser-routing, capture, QA evidence, verification, usage observability, and control hub workflows",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "agent-control",
+      "terminal-automation",
+      "browser-routing",
+      "browser-cdp",
+      "tui",
+      "qa",
+      "qa-evidence",
+      "usage-observability",
+      "verification",
+      "showcase"
+    ],
+    "version": "5.2.9",
+    "published_at": "2026-09-11T13:14:41.971Z",
+    "npm_downloads_monthly": 645,
+    "npm_downloads_weekly": 639,
+    "npm_score_final": 19.614933,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -22,15 +22,15 @@
       "task-queue",
       "local-first"
     ],
-    "version": "0.6.0",
-    "published_at": "2026-09-10T23:49:33.294Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.6.1",
+    "published_at": "2026-09-11T01:22:20.856Z",
+    "npm_downloads_monthly": 2629,
+    "npm_downloads_weekly": 2629,
+    "npm_score_final": 24.681068,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

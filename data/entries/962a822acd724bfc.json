@@ -1,0 +1,30 @@
+{
+  "id": "@evreke/pi-grill-deck",
+  "name": "@evreke/pi-grill-deck",
+  "url": "https://www.npmjs.com/package/@evreke/pi-grill-deck",
+  "source": "npm-search",
+  "description": "Interactive question deck for pi — grill the user round by round: all questions of a frontier in one TUI, recommendation fast-accept, defer, structured answers back to the model.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@evreke/pi-grill-deck",
+    "description": "Interactive question deck for pi — grill the user round by round: all questions of a frontier in one TUI, recommendation fast-accept, defer, structured answers back to the model.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "grilling",
+      "interview",
+      "requirements"
+    ],
+    "version": "1.4.1",
+    "published_at": "2026-09-04T15:53:31.781Z",
+    "npm_downloads_monthly": 580,
+    "npm_downloads_weekly": 173,
+    "npm_score_final": 20.183453,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

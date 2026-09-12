@@ -1,0 +1,25 @@
+{
+  "id": "@leojlin/personal-pi",
+  "name": "@leojlin/personal-pi",
+  "url": "https://www.npmjs.com/package/@leojlin/personal-pi",
+  "source": "npm-search",
+  "description": "Personal Pi extensions",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@leojlin/personal-pi",
+    "description": "Personal Pi extensions",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-28T15:08:04.599Z",
+    "npm_downloads_monthly": 144,
+    "npm_downloads_weekly": 18,
+    "npm_score_final": 14.744305,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
