@@ -10,7 +10,7 @@
     "description": "A local-first visual management platform for coding-agent — unified management of agents, skills, command, knowledge graph, and visual workflow editor. Built with Electron + React + TypeScript.",
     "stars": 6,
     "forks": 0,
-    "open_issues": 21,
+    "open_issues": 22,
     "topics": [
       "claude-code",
       "harness-engineering",
@@ -19,9 +19,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-18T15:44:39Z",
-    "pushed_at": "2026-09-10T19:16:18Z",
-    "updated_at": "2026-09-10T19:16:24Z",
-    "size": 1553,
+    "pushed_at": "2026-09-11T04:31:01Z",
+    "updated_at": "2026-09-11T02:55:14Z",
+    "size": 1589,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

@@ -1,0 +1,27 @@
+{
+  "id": "@tsaokoming/auto-compact",
+  "name": "@tsaokoming/auto-compact",
+  "url": "https://www.npmjs.com/package/@tsaokoming/auto-compact",
+  "source": "npm-search",
+  "description": "Background compaction for Pi using a dedicated model",
+  "metadata": {
+    "github_url": "https://github.com/csrutil/auto-compact",
+    "npm_name": "@tsaokoming/auto-compact",
+    "description": "Background compaction for Pi using a dedicated model",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "compaction"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-09-03T00:22:09.984Z",
+    "npm_downloads_monthly": 111,
+    "npm_downloads_weekly": 111,
+    "npm_score_final": 13.653042,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

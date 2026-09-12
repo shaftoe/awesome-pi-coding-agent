@@ -1,0 +1,31 @@
+{
+  "id": "chisle",
+  "name": "chisle",
+  "url": "https://www.npmjs.com/package/chisle",
+  "source": "npm-search",
+  "description": "Maximum-efficiency dev mode for AI coding agents. Zero-fluff prose, YAGNI-first code, and safe tool-output compression.",
+  "metadata": {
+    "github_url": "https://github.com/JayPokale/Chisle",
+    "npm_name": "chisle",
+    "description": "Maximum-efficiency dev mode for AI coding agents. Zero-fluff prose, YAGNI-first code, and safe tool-output compression.",
+    "keywords": [
+      "claude-code",
+      "claude-code-plugin",
+      "pi-package",
+      "pi-coding-agent",
+      "productivity",
+      "yagni",
+      "minimal"
+    ],
+    "version": "3.1.0",
+    "published_at": "2026-09-11T18:05:51.137Z",
+    "npm_downloads_monthly": 108,
+    "npm_downloads_weekly": 71,
+    "npm_score_final": 13.761301,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

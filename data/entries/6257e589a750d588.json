@@ -1,0 +1,29 @@
+{
+  "id": "pi-context-shake",
+  "name": "pi-context-shake",
+  "url": "https://www.npmjs.com/package/pi-context-shake",
+  "source": "npm-search",
+  "description": "pi extension: /shake tools|images|thinking — rebuilds session history in place to free context space",
+  "metadata": {
+    "github_url": "https://github.com/corrm/pi-context-shake",
+    "npm_name": "pi-context-shake",
+    "description": "pi extension: /shake tools|images|thinking — rebuilds session history in place to free context space",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "context",
+      "compaction",
+      "history"
+    ],
+    "version": "1.0.4",
+    "published_at": "2026-09-11T14:27:24.584Z",
+    "npm_downloads_monthly": 407,
+    "npm_downloads_weekly": 407,
+    "npm_score_final": 18.006308,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "@pwguler/pi-pengepul-provider",
+  "name": "@pwguler/pi-pengepul-provider",
+  "url": "https://www.npmjs.com/package/@pwguler/pi-pengepul-provider",
+  "source": "npm-search",
+  "description": "pi custom provider for pengepul, a local relay that pools your Claude/Codex subscriptions. Connects pi to http://127.0.0.1:8317 over the native Anthropic Messages and OpenAI Chat Completions wires.",
+  "metadata": {
+    "github_url": "https://github.com/pwguler/pi-pengepul-provider",
+    "npm_name": "@pwguler/pi-pengepul-provider",
+    "description": "pi custom provider for pengepul, a local relay that pools your Claude/Codex subscriptions. Connects pi to http://127.0.0.1:8317 over the native Anthropic Messages and OpenAI Chat Completions wires.",
+    "keywords": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "pi-pengepul-provider",
+      "pengepul",
+      "provider"
+    ],
+    "version": "0.2.3",
+    "published_at": "2026-09-11T19:20:47.952Z",
+    "npm_downloads_monthly": 447,
+    "npm_downloads_weekly": 447,
+    "npm_score_final": 18.53965,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "@chorus-aidlc/chorus-pi",
+  "name": "@chorus-aidlc/chorus-pi",
+  "url": "https://www.npmjs.com/package/@chorus-aidlc/chorus-pi",
+  "source": "npm-search",
+  "description": "Chorus AI-DLC collaboration platform extension for the Pi coding agent. Provides skills for every stage of the AI-DLC lifecycle, read-only reviewer subagents, and session-aware extension hooks. The Chorus MCP server is auto-discovered from the repo's .mcp",
+  "metadata": {
+    "github_url": "https://github.com/Chorus-AIDLC/Chorus",
+    "npm_name": "@chorus-aidlc/chorus-pi",
+    "description": "Chorus AI-DLC collaboration platform extension for the Pi coding agent. Provides skills for every stage of the AI-DLC lifecycle, read-only reviewer subagents, and session-aware extension hooks. The Chorus MCP server is auto-discovered from the repo's .mcp",
+    "keywords": [
+      "chorus",
+      "ai-dlc",
+      "project-management",
+      "multi-agent",
+      "collaboration",
+      "pi-extension",
+      "pi-package"
+    ],
+    "version": "0.18.0",
+    "published_at": "2026-09-11T15:28:12.987Z",
+    "npm_downloads_monthly": 231,
+    "npm_downloads_weekly": 231,
+    "npm_score_final": 16.293253,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

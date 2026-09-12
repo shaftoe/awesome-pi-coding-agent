@@ -8,7 +8,7 @@
     "github_url": "https://github.com/LEUNGUU/pi-agent-config",
     "repo_full_name": "LEUNGUU/pi-agent-config",
     "description": "Personal pi-coding-agent configuration: custom extensions, themes, prompts, presets, and skills for cross-environment sync.",
-    "stars": 8,
+    "stars": 9,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-01-17T08:12:20Z",
     "pushed_at": "2026-09-05T05:45:16Z",
-    "updated_at": "2026-09-05T05:45:21Z",
+    "updated_at": "2026-09-11T13:33:32Z",
     "size": 429,
     "license": null,
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

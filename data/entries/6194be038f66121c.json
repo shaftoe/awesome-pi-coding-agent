@@ -10,7 +10,7 @@
     "description": "Local-first desktop workspace for AI agents: browser, terminal, memory, plugins, runtimes, and durable loops.",
     "stars": 24,
     "forks": 1,
-    "open_issues": 45,
+    "open_issues": 46,
     "topics": [
       "agent-workspace",
       "ai",

@@ -1,0 +1,32 @@
+{
+  "id": "dsh-pi-agent-providers",
+  "name": "dsh-pi-agent-providers",
+  "url": "https://www.npmjs.com/package/dsh-pi-agent-providers",
+  "source": "npm-search",
+  "description": "The pi agent's provider catalog (~/.pi/agent/models.json) as DeepSeek Harness LLM routes — installable and removable with `dsh plugin`, no dsh source patch",
+  "metadata": {
+    "github_url": "https://github.com/52sujiu/dsh-pi-agent-providers",
+    "npm_name": "dsh-pi-agent-providers",
+    "description": "The pi agent's provider catalog (~/.pi/agent/models.json) as DeepSeek Harness LLM routes — installable and removable with `dsh plugin`, no dsh source patch",
+    "keywords": [
+      "dsh",
+      "deepseek-harness",
+      "dsh-tui",
+      "pi",
+      "pi-agent",
+      "llm",
+      "provider",
+      "cordis-plugin"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-11T09:13:22.679Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

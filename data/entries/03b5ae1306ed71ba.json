@@ -9,7 +9,7 @@
     "repo_full_name": "corwinm/coding-agents-tmux",
     "description": "Track, monitor, and jump between agent sessions in tmux",
     "stars": 5,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 4,
     "topics": [
       "claude-code-plugin",
