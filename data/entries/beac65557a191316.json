@@ -5,17 +5,17 @@
   "source": "npm-search",
   "description": "Rich footer status bar for pi-archimedes",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/danielcherubini/pi-archimedes",
     "npm_name": "@pi-archimedes/footer",
     "description": "Rich footer status bar for pi-archimedes",
     "keywords": [
       "pi-package"
     ],
-    "version": "2.6.3",
-    "published_at": "2026-09-11T15:51:22.299Z",
-    "npm_downloads_monthly": 1660,
-    "npm_downloads_weekly": 93,
-    "npm_score_final": 23.310522,
+    "version": "2.7.0",
+    "published_at": "2026-09-12T17:27:28.894Z",
+    "npm_downloads_monthly": 1920,
+    "npm_downloads_weekly": 360,
+    "npm_score_final": 23.563942,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

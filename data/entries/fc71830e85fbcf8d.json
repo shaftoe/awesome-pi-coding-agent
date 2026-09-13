@@ -1,0 +1,25 @@
+{
+  "id": "pi-image-placeholder",
+  "name": "pi-image-placeholder",
+  "url": "https://www.npmjs.com/package/pi-image-placeholder",
+  "source": "npm-search",
+  "description": "Atomic image placeholders for pi 0.85.0 on macOS",
+  "metadata": {
+    "github_url": "https://github.com/Jul1en-Lin/pi-image-placeholder",
+    "npm_name": "pi-image-placeholder",
+    "description": "Atomic image placeholders for pi 0.85.0 on macOS",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-05T14:10:53.483Z",
+    "npm_downloads_monthly": 159,
+    "npm_downloads_weekly": 159,
+    "npm_score_final": 14.8946085,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

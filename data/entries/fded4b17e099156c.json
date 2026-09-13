@@ -1,0 +1,32 @@
+{
+  "id": "pi-project-manager",
+  "name": "pi-project-manager",
+  "url": "https://www.npmjs.com/package/pi-project-manager",
+  "source": "npm-search",
+  "description": "Pi extension: Raycast/Telescope-style modern two-pane project manager with instant search, live Git/session preview, and scratchpad mode",
+  "metadata": {
+    "github_url": "https://github.com/jiangkoumo/pi-project-manager",
+    "npm_name": "pi-project-manager",
+    "description": "Pi extension: Raycast/Telescope-style modern two-pane project manager with instant search, live Git/session preview, and scratchpad mode",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "project",
+      "workspace",
+      "session",
+      "scratchpad",
+      "codex"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-09-05T10:16:38.555Z",
+    "npm_downloads_monthly": 426,
+    "npm_downloads_weekly": 426,
+    "npm_score_final": 18.24232,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_piagent.fyi",
+  "name": "Piagent — The resource map & news hub for the Pi coding agent",
+  "url": "https://piagent.fyi/",
+  "source": "brave-web-search",
+  "description": "Piagent tracks the Pi coding agent ecosystem: releases, extensions, themes, tutorials and community projects — verified data, zero fluff.",
+  "metadata": {
+    "title": "Piagent — The resource map & news hub for the Pi coding agent",
+    "name": "Piagent — The resource map & news hub for the Pi coding agent",
+    "description": "Piagent tracks the Pi coding agent ecosystem: releases, extensions, themes, tutorials and community projects — verified data, zero fluff.",
+    "published_at": null,
+    "source_site": "Piagent",
+    "source_url": "https://piagent.fyi/",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

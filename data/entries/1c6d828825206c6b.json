@@ -1,0 +1,28 @@
+{
+  "id": "pi-better-auto-compact",
+  "name": "pi-better-auto-compact",
+  "url": "https://www.npmjs.com/package/pi-better-auto-compact",
+  "source": "npm-search",
+  "description": "pi coding agent extension: additional auto-compact thresholds (percent of context window / used tokens), taking the lowest of all thresholds including pi's built-in remaining-tokens threshold",
+  "metadata": {
+    "github_url": "https://github.com/fishcat37/pi-better-auto-compact",
+    "npm_name": "pi-better-auto-compact",
+    "description": "pi coding agent extension: additional auto-compact thresholds (percent of context window / used tokens), taking the lowest of all thresholds including pi's built-in remaining-tokens threshold",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "auto-compact",
+      "compaction"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-09-05T12:28:24.694Z",
+    "npm_downloads_monthly": 1740,
+    "npm_downloads_weekly": 258,
+    "npm_score_final": 22.708555,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

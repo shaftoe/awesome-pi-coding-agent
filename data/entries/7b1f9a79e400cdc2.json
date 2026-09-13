@@ -8,7 +8,7 @@
     "github_url": "https://github.com/panbergco/pi-peer-agent",
     "repo_full_name": "panbergco/pi-peer-agent",
     "description": "Resident peer agents for pi — long-running partners inside your session that tick on their own rhythm, watch the work, and push findings back into the conversation.",
-    "stars": 4,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-08-05T00:13:05Z",
     "pushed_at": "2026-09-05T09:55:11Z",
-    "updated_at": "2026-09-05T09:55:13Z",
+    "updated_at": "2026-09-12T21:41:35Z",
     "size": 620,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,30 @@
+{
+  "id": "khimaros-pi-sandbox",
+  "name": "khimaros-pi-sandbox",
+  "url": "https://github.com/khimaros/pi-sandbox",
+  "source": "github-search",
+  "description": "runs pi's built-in tools inside a local micro-VM",
+  "metadata": {
+    "github_url": "https://github.com/khimaros/pi-sandbox",
+    "repo_full_name": "khimaros/pi-sandbox",
+    "description": "runs pi's built-in tools inside a local micro-VM",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "gondolin",
+      "pi-coding-agent",
+      "pi-extension",
+      "qemu"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-11T17:38:25Z",
+    "pushed_at": "2026-09-12T04:50:21Z",
+    "updated_at": "2026-09-12T04:50:24Z",
+    "size": 47,
+    "license": "GPL-3.0",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

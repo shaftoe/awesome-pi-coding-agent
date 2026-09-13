@@ -10,7 +10,7 @@
     "description": "Compact animated thinking previews for Pi",
     "stars": 11,
     "forks": 1,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "pi-agent",
       "pi-agent-extension",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-19T05:43:35Z",
-    "pushed_at": "2026-08-15T14:25:16Z",
-    "updated_at": "2026-09-11T03:26:24Z",
-    "size": 45,
+    "pushed_at": "2026-09-12T10:04:22Z",
+    "updated_at": "2026-09-12T10:04:23Z",
+    "size": 48,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
