@@ -1,0 +1,40 @@
+{
+  "id": "codebase-lens",
+  "name": "codebase-lens",
+  "url": "https://www.npmjs.com/package/codebase-lens",
+  "source": "npm-search",
+  "description": "Resumable, evidence-backed codebase reading with coverage maps, linked symbols, domain concepts, HTML reports, impact analysis, and opt-in demos.",
+  "metadata": {
+    "github_url": "https://github.com/fookhsu/skills",
+    "npm_name": "codebase-lens",
+    "description": "Resumable, evidence-backed codebase reading with coverage maps, linked symbols, domain concepts, HTML reports, impact analysis, and opt-in demos.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-skill",
+      "agent-skill",
+      "ai-agent",
+      "ai-coding",
+      "coding-agent",
+      "codebase",
+      "codebase-understanding",
+      "code-reading",
+      "architecture",
+      "impact-analysis",
+      "static-analysis",
+      "developer-tools",
+      "onboarding",
+      "prototype"
+    ],
+    "version": "0.3.5",
+    "published_at": "2026-09-12T19:22:20.552Z",
+    "npm_downloads_monthly": 150,
+    "npm_downloads_weekly": 150,
+    "npm_score_final": 14.858706,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

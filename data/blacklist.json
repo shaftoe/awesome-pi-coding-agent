@@ -53871,5 +53871,301 @@
 			"sourceName": "npm",
 			"query": "npm:keywords:pi-package"
 		}
+	},
+	{
+		"url": "https://github.com/ccompactor/ccompactor",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-13T00:36:59.326069976Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=mwQyT8PBbVc",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-09-13T00:36:59.356067479Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=IW8ME0rhkcY",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-09-13T00:36:59.365345876Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=weSZ_yZoObE",
+		"reason": "pop culture pi signal: \"magnum pi\"",
+		"blacklisted_at": "2026-09-13T00:36:59.415573378Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=pI-zmXNXM7o",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-13T00:36:59.428073906Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Grandova/Novxix-HeroUI-Pink-Theme",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-13T00:36:59.447085967Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-fun-placeholder",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-13T00:36:59.452799236Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=EC-zVoC83R4",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-13T00:36:59.481621546Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=_LNBytaWGug",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-13T00:36:59.498598397Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=PHOr84k_xE0",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-09-13T00:36:59.635082272Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=stXvMZ1JJAo",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-09-13T00:36:59.663623058Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=2m0Lnw3kv7o",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-13T00:36:59.757575742Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=6LNlCpQPYFc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-13T00:36:59.776153638Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Q7PEZMCHmxA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-13T00:36:59.78379777Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@foolsecret/pi-planmode",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-13T00:36:59.822765576Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=uYTlw8nEUTA",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-09-13T00:36:59.861832001Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-request-meter",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-13T00:36:59.876385836Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Coffelix2023/xpi-research",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-13T00:36:59.887085807Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sukeai/pi-logfwd",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-13T00:36:59.903433369Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=QOK3KxlkPlM",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-13T00:36:59.918914874Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=sg864Y-VkF4",
+		"reason": "pop culture pi signal: \"magnum pi\"",
+		"blacklisted_at": "2026-09-13T00:36:59.948275486Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-dsh-plus-surface",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-13T00:36:59.971365088Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ioi51c0L9WU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-13T00:36:59.995164151Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=oReHvyY2nrI",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-09-13T00:37:00.030513298Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Dm4ow7GqXRY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-13T00:37:00.03831678Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@shuohuge-org/webnovel-writer-pi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-13T00:37:00.057351475Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-cometixline",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-13T00:37:00.07397317Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=YuAauqejE7E",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-13T00:37:00.100424754Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/olivezane/opencode2pi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-13T00:37:00.110189234Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/junghan0611/entwurf",
+		"reason": "Duplicate of npm package @junghanacs/entwurf (same GitHub repo, NPM has higher popularity: 2273 downloads vs 27 stars)",
+		"blacklisted_at": "2026-09-13T00:43:42.648494406Z",
+		"source": "manual"
 	}
 ]

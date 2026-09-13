@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-theme-tokyo-night-storm-improved",
+  "name": "pi-theme-tokyo-night-storm-improved · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-theme-tokyo-night-storm-improved",
+  "source": "brave-web-search",
+  "description": "Pi packages can execute code and influence agent behavior. Review the source before installing third-party packages. A refined version of the Tokyo Night Storm theme for the Pi coding agent, focused on clearer visual hierarchy and reduced color noise.",
+  "metadata": {
+    "title": "pi-theme-tokyo-night-storm-improved · Packages · Pi",
+    "name": "pi-theme-tokyo-night-storm-improved · Packages · Pi",
+    "description": "Pi packages can execute code and influence agent behavior. Review the source before installing third-party packages. A refined version of the Tokyo Night Storm theme for the Pi coding agent, focused on clearer visual hierarchy and reduced color noise.",
+    "published_at": "2026-07-15T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-theme-tokyo-night-storm-improved",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "category": "theme"
+}

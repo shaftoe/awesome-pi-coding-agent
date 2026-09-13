@@ -1,0 +1,35 @@
+{
+  "id": "@aaroncarry/pi-usage",
+  "name": "@aaroncarry/pi-usage",
+  "url": "https://www.npmjs.com/package/@aaroncarry/pi-usage",
+  "source": "npm-search",
+  "description": "Usage and balance viewer for pi: subscription quota windows, prepaid balances, and session consumption in a footer status line and a /usage card",
+  "metadata": {
+    "github_url": "https://github.com/aaroncarry/pi-usage",
+    "npm_name": "@aaroncarry/pi-usage",
+    "description": "Usage and balance viewer for pi: subscription quota windows, prepaid balances, and session consumption in a footer status line and a /usage card",
+    "keywords": [
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "usage",
+      "balance",
+      "quota",
+      "codex",
+      "openai",
+      "glm",
+      "zai",
+      "deepseek"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-12T19:02:42.119Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

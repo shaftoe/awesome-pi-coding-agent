@@ -1,0 +1,31 @@
+{
+  "id": "@fookhsu/pi-scheduler",
+  "name": "@fookhsu/pi-scheduler",
+  "url": "https://www.npmjs.com/package/@fookhsu/pi-scheduler",
+  "source": "npm-search",
+  "description": "Cron-driven scheduled prompt tasks, each run in an isolated agent session",
+  "metadata": {
+    "github_url": "https://github.com/fookhsu/pi-scheduler",
+    "npm_name": "@fookhsu/pi-scheduler",
+    "description": "Cron-driven scheduled prompt tasks, each run in an isolated agent session",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "scheduler",
+      "cron",
+      "task-scheduler",
+      "automation"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-09-12T19:03:50.644Z",
+    "npm_downloads_monthly": 244,
+    "npm_downloads_weekly": 244,
+    "npm_score_final": 16.142323,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

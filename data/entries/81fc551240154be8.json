@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-theme-haruka",
+  "name": "pi-theme-haruka · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-theme-haruka?type=theme&page=2",
+  "source": "brave-web-search",
+  "description": "Pi packages can execute code and influence agent behavior. Review the source before installing third-party packages. Haruka — a cool blue-purple theme for the pi coding agent.",
+  "metadata": {
+    "title": "pi-theme-haruka · Packages · Pi",
+    "name": "pi-theme-haruka · Packages · Pi",
+    "description": "Pi packages can execute code and influence agent behavior. Review the source before installing third-party packages. Haruka — a cool blue-purple theme for the pi coding agent.",
+    "published_at": "2026-08-15T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-theme-haruka?type=theme&page=2",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "category": "theme"
+}

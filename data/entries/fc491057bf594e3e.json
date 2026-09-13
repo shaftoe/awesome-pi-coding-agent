@@ -1,0 +1,33 @@
+{
+  "id": "pi-browser-control",
+  "name": "pi-browser-control",
+  "url": "https://www.npmjs.com/package/pi-browser-control",
+  "source": "npm-search",
+  "description": "Fix UI bugs by giving Pi Agent direct control of your browser. Pi opens your web app, inspects visual layout issues, clicks & tests interactive elements, and fixes frontend code live.",
+  "metadata": {
+    "github_url": "https://github.com/gouravraghuwanshi/pi-browser-control",
+    "npm_name": "pi-browser-control",
+    "description": "Fix UI bugs by giving Pi Agent direct control of your browser. Pi opens your web app, inspects visual layout issues, clicks & tests interactive elements, and fixes frontend code live.",
+    "keywords": [
+      "pi-package",
+      "ui-fixer",
+      "fix-ui-bugs",
+      "frontend-debugging",
+      "browser-control",
+      "visual-debugging",
+      "css-inspector",
+      "set-of-marks",
+      "pi-extension"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-09-05T07:40:20.029Z",
+    "npm_downloads_monthly": 161,
+    "npm_downloads_weekly": 161,
+    "npm_score_final": 14.858954,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

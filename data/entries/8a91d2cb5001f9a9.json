@@ -1,0 +1,29 @@
+{
+  "id": "planweft",
+  "name": "planweft",
+  "url": "https://www.npmjs.com/package/planweft",
+  "source": "npm-search",
+  "description": "Persistent planning, project documentation and evidence for coding agents",
+  "metadata": {
+    "github_url": "https://github.com/psiQAQ/planweft",
+    "npm_name": "planweft",
+    "description": "Persistent planning, project documentation and evidence for coding agents",
+    "keywords": [
+      "pi-package",
+      "opencode-plugin",
+      "agent-skills",
+      "planning",
+      "documentation"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-09-10T03:50:34.626Z",
+    "npm_downloads_monthly": 1493,
+    "npm_downloads_weekly": 1493,
+    "npm_score_final": 22.180695,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

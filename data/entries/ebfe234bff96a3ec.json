@@ -1,0 +1,29 @@
+{
+  "id": "pi-impeccable-help",
+  "name": "pi-impeccable-help",
+  "url": "https://www.npmjs.com/package/pi-impeccable-help",
+  "source": "npm-search",
+  "description": "Browse Impeccable guidance inside Pi and prepare commands without sending a message.",
+  "metadata": {
+    "github_url": "https://github.com/Yivas/pi-impeccable-help",
+    "npm_name": "pi-impeccable-help",
+    "description": "Browse Impeccable guidance inside Pi and prepare commands without sending a message.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "impeccable",
+      "terminal",
+      "help"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-05T01:45:13.814Z",
+    "npm_downloads_monthly": 163,
+    "npm_downloads_weekly": 163,
+    "npm_score_final": 15.140261,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "@waow.tech/lore",
+  "name": "@waow.tech/lore",
+  "url": "https://www.npmjs.com/package/@waow.tech/lore",
+  "source": "npm-search",
+  "description": "breadcrumbs an agent leaves while working with you, kept as records in a space on your PDS. a pi extension.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@waow.tech/lore",
+    "description": "breadcrumbs an agent leaves while working with you, kept as records in a space on your PDS. a pi extension.",
+    "keywords": [
+      "pi-package",
+      "atproto"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-09-05T04:42:31.603Z",
+    "npm_downloads_monthly": 203,
+    "npm_downloads_weekly": 203,
+    "npm_score_final": 15.633066,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "omnilight-pi-mcp-trace",
+  "name": "omnilight-pi-mcp-trace",
+  "url": "https://github.com/omnilight/pi-mcp-trace",
+  "source": "github-search",
+  "description": "Observe-only live dashboard for the Pi coding agent: watch how the agent uses MCP tools in real time — tools catalog with token budget, event timeline, provider I/O, raw JSON",
+  "metadata": {
+    "github_url": "https://github.com/omnilight/pi-mcp-trace",
+    "repo_full_name": "omnilight/pi-mcp-trace",
+    "description": "Observe-only live dashboard for the Pi coding agent: watch how the agent uses MCP tools in real time — tools catalog with token budget, event timeline, provider I/O, raw JSON",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "mcp",
+      "model-context-protocol",
+      "observability",
+      "pi",
+      "pi-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-08T07:52:31Z",
+    "pushed_at": "2026-07-08T08:17:20Z",
+    "updated_at": "2026-09-12T01:51:27Z",
+    "size": 41,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

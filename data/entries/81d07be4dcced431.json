@@ -1,0 +1,30 @@
+{
+  "id": "pi-claude-supervisor",
+  "name": "pi-claude-supervisor",
+  "url": "https://www.npmjs.com/package/pi-claude-supervisor",
+  "source": "npm-search",
+  "description": "A policy-gated Pi supervisor for observing and verifying Claude Code workers.",
+  "metadata": {
+    "github_url": "https://github.com/btnalit/pi-claude-supervisor",
+    "npm_name": "pi-claude-supervisor",
+    "description": "A policy-gated Pi supervisor for observing and verifying Claude Code workers.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-agent",
+      "claude-code",
+      "supervisor",
+      "worker"
+    ],
+    "version": "0.2.2",
+    "published_at": "2026-09-12T15:18:33.205Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "khimaros-pi-dump",
+  "name": "khimaros-pi-dump",
+  "url": "https://github.com/khimaros/pi-dump",
+  "source": "github-search",
+  "description": "simple extension for pi.dev which dumps the first request and exits",
+  "metadata": {
+    "github_url": "https://github.com/khimaros/pi-dump",
+    "repo_full_name": "khimaros/pi-dump",
+    "description": "simple extension for pi.dev which dumps the first request and exits",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-coding-agent",
+      "pi-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-11T02:46:50Z",
+    "pushed_at": "2026-09-11T02:51:36Z",
+    "updated_at": "2026-09-12T04:53:41Z",
+    "size": 14,
+    "license": "GPL-3.0",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

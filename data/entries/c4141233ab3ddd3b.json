@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-ayu-themes",
+  "name": "pi-ayu-themes · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-ayu-themes?type=theme",
+  "source": "brave-web-search",
+  "description": "Pi packages can execute code and influence agent behavior. Review the source before installing third-party packages. Ayu color themes for pi — all three variants: dark, mirage, and light.",
+  "metadata": {
+    "title": "pi-ayu-themes · Packages · Pi",
+    "name": "pi-ayu-themes · Packages · Pi",
+    "description": "Pi packages can execute code and influence agent behavior. Review the source before installing third-party packages. Ayu color themes for pi — all three variants: dark, mirage, and light.",
+    "published_at": "2026-06-22T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-ayu-themes?type=theme",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "category": "theme"
+}

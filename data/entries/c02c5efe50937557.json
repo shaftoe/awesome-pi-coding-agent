@@ -9,7 +9,7 @@
     "repo_full_name": "josephkern/pi-code-tool",
     "description": "Code-mode python tool for the pi coding agent — sandboxed via @pydantic/monty; agents compose host tools in code and save reusable ephemeral tools",
     "stars": 9,
-    "forks": 1,
+    "forks": 2,
     "open_issues": 0,
     "topics": [
       "code-mode",

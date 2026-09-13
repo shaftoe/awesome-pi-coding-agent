@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_amp-themes",
+  "name": "amp-themes · Packages · Pi",
+  "url": "https://pi.dev/packages/amp-themes",
+  "source": "brave-web-search",
+  "description": "Amp-inspired UI for Pi: Amp dark/light themes that auto-switch to follow device appearance, rounded editor chrome, synchronized thinking-level colors, compact user messages, and self-authored Amp-style tool rendering.",
+  "metadata": {
+    "title": "amp-themes · Packages · Pi",
+    "name": "amp-themes · Packages · Pi",
+    "description": "Amp-inspired UI for Pi: Amp dark/light themes that auto-switch to follow device appearance, rounded editor chrome, synchronized thinking-level colors, compact user messages, and self-authored Amp-style tool rendering.",
+    "published_at": null,
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/amp-themes",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "category": "theme"
+}
