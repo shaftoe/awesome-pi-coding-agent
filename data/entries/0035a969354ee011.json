@@ -1,0 +1,32 @@
+{
+  "id": "pios-web",
+  "name": "pios-web",
+  "url": "https://www.npmjs.com/package/pios-web",
+  "source": "npm-search",
+  "description": "Web chat interface for the pi coding agent, powered by the pi SDK (@earendil-works/pi-coding-agent) — one-command run, systemd/launchd deployable",
+  "metadata": {
+    "github_url": "https://github.com/mrytsr/pios",
+    "npm_name": "pios-web",
+    "description": "Web chat interface for the pi coding agent, powered by the pi SDK (@earendil-works/pi-coding-agent) — one-command run, systemd/launchd deployable",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "coding-agent",
+      "ai",
+      "chat",
+      "web-ui",
+      "terminal",
+      "llm"
+    ],
+    "version": "0.0.1",
+    "published_at": "2026-08-30T15:48:07.314Z",
+    "npm_downloads_monthly": 167,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 14.788093,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

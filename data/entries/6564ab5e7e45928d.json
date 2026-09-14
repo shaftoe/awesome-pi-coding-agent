@@ -1,0 +1,30 @@
+{
+  "id": "pi-attention",
+  "name": "pi-attention",
+  "url": "https://www.npmjs.com/package/pi-attention",
+  "source": "npm-search",
+  "description": "Pi extension for iTerm2/Orca attention: title shows the first user request, notify on completion, and alert when pi is waiting for your selection (permission dialogs, plan-mode menus).",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-attention",
+    "description": "Pi extension for iTerm2/Orca attention: title shows the first user request, notify on completion, and alert when pi is waiting for your selection (permission dialogs, plan-mode menus).",
+    "keywords": [
+      "pi-package",
+      "iterm2",
+      "attention",
+      "title",
+      "notification",
+      "macos"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-09-06T15:30:22.449Z",
+    "npm_downloads_monthly": 259,
+    "npm_downloads_weekly": 259,
+    "npm_score_final": 16.295067,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

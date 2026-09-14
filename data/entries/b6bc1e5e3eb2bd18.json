@@ -1,0 +1,25 @@
+{
+  "id": "maestri-pi-operator",
+  "name": "maestri-pi-operator",
+  "url": "https://www.npmjs.com/package/maestri-pi-operator",
+  "source": "npm-search",
+  "description": "Native Maestri transport tools for Pi.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "maestri-pi-operator",
+    "description": "Native Maestri transport tools for Pi.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.3.3",
+    "published_at": "2026-09-06T07:00:25.064Z",
+    "npm_downloads_monthly": 468,
+    "npm_downloads_weekly": 468,
+    "npm_score_final": 18.405354,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

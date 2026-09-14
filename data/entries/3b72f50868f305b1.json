@@ -1,0 +1,29 @@
+{
+  "id": "pi-browse-replies",
+  "name": "pi-browse-replies",
+  "url": "https://www.npmjs.com/package/pi-browse-replies",
+  "source": "npm-search",
+  "description": "Browse, edit, and cleanly copy previous Pi assistant replies from the prompt editor.",
+  "metadata": {
+    "github_url": "https://github.com/dreveman/pi-browse-replies",
+    "npm_name": "pi-browse-replies",
+    "description": "Browse, edit, and cleanly copy previous Pi assistant replies from the prompt editor.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "clipboard",
+      "history",
+      "terminal"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-30T22:03:41.931Z",
+    "npm_downloads_monthly": 186,
+    "npm_downloads_weekly": 15,
+    "npm_score_final": 15.319075,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

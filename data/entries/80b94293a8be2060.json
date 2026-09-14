@@ -1,0 +1,28 @@
+{
+  "id": "pi-agent-model-select",
+  "name": "pi-agent-model-select",
+  "url": "https://www.npmjs.com/package/pi-agent-model-select",
+  "source": "npm-search",
+  "description": "Select models and supported thinking for the current Pi session, project defaults and subagent roles",
+  "metadata": {
+    "github_url": "https://github.com/KANAsho116/pi-agent-model-select",
+    "npm_name": "pi-agent-model-select",
+    "description": "Select models and supported thinking for the current Pi session, project defaults and subagent roles",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "agents",
+      "models"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-06T10:21:16.749Z",
+    "npm_downloads_monthly": 182,
+    "npm_downloads_weekly": 182,
+    "npm_score_final": 15.373267,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

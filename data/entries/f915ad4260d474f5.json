@@ -10,7 +10,7 @@
     "description": "PierPi coding agent config: my ~/.pi",
     "stars": 2,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "pi-coding-agent",
       "pi-config",
@@ -19,9 +19,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-14T12:51:34Z",
-    "pushed_at": "2026-09-11T17:47:07Z",
-    "updated_at": "2026-09-11T17:47:11Z",
-    "size": 257,
+    "pushed_at": "2026-09-13T17:07:47Z",
+    "updated_at": "2026-09-13T17:07:51Z",
+    "size": 267,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

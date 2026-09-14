@@ -1,0 +1,35 @@
+{
+  "id": "pi-reasoning-field-remap",
+  "name": "pi-reasoning-field-remap",
+  "url": "https://www.npmjs.com/package/pi-reasoning-field-remap",
+  "source": "npm-search",
+  "description": "omp/pi extension: remap non-standard reasoning wire fields (e.g. delta.thinking) from OpenAI-compatible gateways to reasoning_content, in-process, no proxy.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-reasoning-field-remap",
+    "description": "omp/pi extension: remap non-standard reasoning wire fields (e.g. delta.thinking) from OpenAI-compatible gateways to reasoning_content, in-process, no proxy.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "oh-my-pi",
+      "omp",
+      "omp-extension",
+      "reasoning",
+      "thinking",
+      "reasoning_content",
+      "openai-completions",
+      "gateway",
+      "provider"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-08-30T14:24:04.845Z",
+    "npm_downloads_monthly": 159,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 14.796319,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

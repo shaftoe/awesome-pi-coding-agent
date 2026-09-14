@@ -1,0 +1,31 @@
+{
+  "id": "pi-prompt-toggle",
+  "name": "pi-prompt-toggle",
+  "url": "https://www.npmjs.com/package/pi-prompt-toggle",
+  "source": "npm-search",
+  "description": "Toggle stackable prompt instructions inside a single pi session",
+  "metadata": {
+    "github_url": "https://github.com/ai-setups/pi-prompt-toggle",
+    "npm_name": "pi-prompt-toggle",
+    "description": "Toggle stackable prompt instructions inside a single pi session",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "extension",
+      "prompt",
+      "system-prompt",
+      "toggle"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-09-13T21:55:37.499Z",
+    "npm_downloads_monthly": 135,
+    "npm_downloads_weekly": 135,
+    "npm_score_final": 14.370481,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pi-gogs-cli",
+  "name": "pi-gogs-cli",
+  "url": "https://www.npmjs.com/package/pi-gogs-cli",
+  "source": "npm-search",
+  "description": "pi coding agent skill: gh-style CLI for self-hosted Gogs — repos, issues, labels over the Gogs API; pull requests via headless Web-UI form POSTs (Gogs has no PR API). Python 3 stdlib only, cross-platform",
+  "metadata": {
+    "github_url": "https://github.com/summerway/pi-gogs-cli",
+    "npm_name": "pi-gogs-cli",
+    "description": "pi coding agent skill: gh-style CLI for self-hosted Gogs — repos, issues, labels over the Gogs API; pull requests via headless Web-UI form POSTs (Gogs has no PR API). Python 3 stdlib only, cross-platform",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-skill",
+      "gogs",
+      "cli",
+      "git",
+      "self-hosted"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-09-13T03:22:22.171Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

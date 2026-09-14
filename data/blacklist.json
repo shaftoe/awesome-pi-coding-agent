@@ -54167,5 +54167,105 @@
 		"reason": "Duplicate of npm package @junghanacs/entwurf (same GitHub repo, NPM has higher popularity: 2273 downloads vs 27 stars)",
 		"blacklisted_at": "2026-09-13T00:43:42.648494406Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-voice-mode",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-14T00:41:43.083533803Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-glmbridger",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-14T00:41:43.152715166Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=UDoJEOjvJdY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-14T00:41:43.164354308Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=yt0N2rFnG0k",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-14T00:41:43.350997686Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=1l4xJk7re-A",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-14T00:41:43.545104063Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Km-4ZqaVnQg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-14T00:41:43.598804255Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=wtxMOThsoE4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-14T00:41:43.899330727Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=qxiYnqJDT6w",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-14T00:41:43.996497456Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@foolsecret/pi-pricer",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-14T00:41:44.061269405Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/v2naix/pi-package-catalog",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-14T00:41:44.098939899Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
 	}
 ]

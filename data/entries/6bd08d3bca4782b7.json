@@ -1,0 +1,29 @@
+{
+  "id": "@pwguler/pi-loop",
+  "name": "@pwguler/pi-loop",
+  "url": "https://www.npmjs.com/package/@pwguler/pi-loop",
+  "source": "npm-search",
+  "description": "A pi extension for loop.",
+  "metadata": {
+    "github_url": "https://github.com/pwguler/pi-loop",
+    "npm_name": "@pwguler/pi-loop",
+    "description": "A pi extension for loop.",
+    "keywords": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "pi-loop",
+      "loop"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-06T21:19:03.481Z",
+    "npm_downloads_monthly": 261,
+    "npm_downloads_weekly": 261,
+    "npm_score_final": 16.587746,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

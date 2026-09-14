@@ -1,0 +1,30 @@
+{
+  "id": "@adi-mudi/pi-velpari",
+  "name": "@adi-mudi/pi-velpari",
+  "url": "https://www.npmjs.com/package/@adi-mudi/pi-velpari",
+  "source": "npm-search",
+  "description": "Stage-gated pre-production orchestration for Pi — Brainstorm → PRD → RTM → Feasibility → Design → Pseudocode → Test Plan, with 4-scout visible subagents per stage and structured doctor audit.",
+  "metadata": {
+    "github_url": "https://github.com/Adi-Mudi/pi-velpari",
+    "npm_name": "@adi-mudi/pi-velpari",
+    "description": "Stage-gated pre-production orchestration for Pi — Brainstorm → PRD → RTM → Feasibility → Design → Pseudocode → Test Plan, with 4-scout visible subagents per stage and structured doctor audit.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "orchestration",
+      "prd",
+      "rtm"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-09-13T03:42:06.114Z",
+    "npm_downloads_monthly": 154,
+    "npm_downloads_weekly": 154,
+    "npm_score_final": 14.812026,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

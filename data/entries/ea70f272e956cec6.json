@@ -1,0 +1,25 @@
+{
+  "id": "panbergco-pi-reverse",
+  "name": "panbergco-pi-reverse",
+  "url": "https://github.com/panbergco/pi-reverse",
+  "source": "github-search",
+  "description": "Reverse mode for the pi coding agent: prompt pinned to the top, newest Q&A pair first, one-screen answer windows.",
+  "metadata": {
+    "github_url": "https://github.com/panbergco/pi-reverse",
+    "repo_full_name": "panbergco/pi-reverse",
+    "description": "Reverse mode for the pi coding agent: prompt pinned to the top, newest Q&A pair first, one-screen answer windows.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-13T00:01:48Z",
+    "pushed_at": "2026-09-13T20:56:18Z",
+    "updated_at": "2026-09-13T20:56:21Z",
+    "size": 1200,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}
