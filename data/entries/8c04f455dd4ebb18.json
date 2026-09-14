@@ -10,7 +10,7 @@
     "description": "Pi coding agent extension: llama.cpp provider with dynamic model + context window discovery",
     "stars": 103,
     "forks": 21,
-    "open_issues": 7,
+    "open_issues": 8,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

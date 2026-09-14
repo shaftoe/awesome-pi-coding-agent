@@ -1,0 +1,32 @@
+{
+  "id": "pi-beer-promptbook",
+  "name": "pi-beer-promptbook",
+  "url": "https://www.npmjs.com/package/pi-beer-promptbook",
+  "source": "npm-search",
+  "description": "Task-routed prompt profiles for Pi — a dumb registry: profiles are markdown files declaring a task; consumers ask resolveTask(\"task\") and get the prompt. No roles, no decisions. — appends markdown rule profiles to the system prompt via the official before",
+  "metadata": {
+    "github_url": "https://github.com/DanHuy-04/pi-beer-promptbook",
+    "npm_name": "pi-beer-promptbook",
+    "description": "Task-routed prompt profiles for Pi — a dumb registry: profiles are markdown files declaring a task; consumers ask resolveTask(\"task\") and get the prompt. No roles, no decisions. — appends markdown rule profiles to the system prompt via the official before",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "prompt",
+      "system-prompt",
+      "rules",
+      "multilingual",
+      "injection",
+      "task-routing"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-30T20:01:32.311Z",
+    "npm_downloads_monthly": 163,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 14.687155,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_open-vsx.org_phi-agent",
+  "name": "Phi — Pi AI Agent – Open VSX Registry",
+  "url": "https://open-vsx.org/extension/gnassro/phi-agent",
+  "source": "brave-web-search",
+  "description": "The Pi AI coding agent, natively inside VS Code. Full session continuity, real-time streaming, and deep editor context awareness.",
+  "metadata": {
+    "title": "Phi — Pi AI Agent – Open VSX Registry",
+    "name": "Phi — Pi AI Agent – Open VSX Registry",
+    "description": "The Pi AI coding agent, natively inside VS Code. Full session continuity, real-time streaming, and deep editor context awareness.",
+    "published_at": null,
+    "source_site": "Open VSX Registry",
+    "source_url": "https://open-vsx.org/extension/gnassro/phi-agent",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

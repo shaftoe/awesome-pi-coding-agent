@@ -1,0 +1,31 @@
+{
+  "id": "pifydev-homepage",
+  "name": "pifydev-homepage",
+  "url": "https://github.com/pifydev/homepage",
+  "source": "github-search",
+  "description": "Landing page for pify.dev: Pi Packages for the pi coding agent, the @pify/cli front door, and the Pify Agent Book",
+  "metadata": {
+    "github_url": "https://github.com/pifydev/homepage",
+    "repo_full_name": "pifydev/homepage",
+    "description": "Landing page for pify.dev: Pi Packages for the pi coding agent, the @pify/cli front door, and the Pify Agent Book",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "landing-page",
+      "nextjs",
+      "pi-coding-agent",
+      "pify",
+      "vercel"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-13T13:17:22Z",
+    "pushed_at": "2026-09-13T15:14:02Z",
+    "updated_at": "2026-09-13T15:14:05Z",
+    "size": 376,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

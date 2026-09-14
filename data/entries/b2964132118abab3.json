@@ -3,25 +3,22 @@
   "name": "@agimon-ai/doompi-grep",
   "url": "https://www.npmjs.com/package/@agimon-ai/doompi-grep",
   "source": "npm-search",
-  "description": "Per-model system prompt guidance for Pi agents, layered across global and repository scope.",
+  "description": "Doompi runtime systems and reusable core services.",
   "metadata": {
     "github_url": "https://github.com/AgiFlow/doompi",
-    "npm_name": "@agimon-ai/doompi-model-guidance",
-    "description": "Per-model system prompt guidance for Pi agents, layered across global and repository scope.",
+    "npm_name": "@agimon-ai/doompi-core",
+    "description": "Doompi runtime systems and reusable core services.",
     "keywords": [
       "ai",
       "coding-agent",
       "developer-tools",
       "doompi",
-      "model-guidance",
+      "pi",
       "pi-coding-agent",
-      "pi-extension",
-      "pi-package",
-      "system-prompt",
-      "typescript"
+      "pi-package"
     ],
-    "version": "0.0.1-alpha.68",
-    "published_at": "2026-09-09T04:44:59.174Z",
+    "version": "0.0.1-alpha.70",
+    "published_at": "2026-09-13T21:38:14.149Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,
@@ -30,5 +27,5 @@
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-coding-agent"
   },
-  "category": "extension"
+  "category": "misc"
 }

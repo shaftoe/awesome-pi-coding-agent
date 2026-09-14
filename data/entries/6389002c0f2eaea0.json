@@ -1,0 +1,29 @@
+{
+  "id": "@ssk_dev/rpiv-ask-user-question-lean",
+  "name": "@ssk_dev/rpiv-ask-user-question-lean",
+  "url": "https://www.npmjs.com/package/@ssk_dev/rpiv-ask-user-question-lean",
+  "source": "npm-search",
+  "description": "Lean Pi ask-user-question extension with full features: 215 initial tokens (82.9% fewer than current upstream).",
+  "metadata": {
+    "github_url": "https://github.com/kunkun9527/rpiv-ask-user-question-lean",
+    "npm_name": "@ssk_dev/rpiv-ask-user-question-lean",
+    "description": "Lean Pi ask-user-question extension with full features: 215 initial tokens (82.9% fewer than current upstream).",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "rpiv",
+      "ask-user-question",
+      "token-efficient"
+    ],
+    "version": "2.10.1",
+    "published_at": "2026-09-13T22:20:16.704Z",
+    "npm_downloads_monthly": 676,
+    "npm_downloads_weekly": 213,
+    "npm_score_final": 19.807352,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

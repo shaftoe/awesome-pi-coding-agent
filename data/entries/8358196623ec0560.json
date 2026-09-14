@@ -1,0 +1,28 @@
+{
+  "id": "pi-aws-knowledge",
+  "name": "pi-aws-knowledge",
+  "url": "https://www.npmjs.com/package/pi-aws-knowledge",
+  "source": "npm-search",
+  "description": "A Pi extension for searching and retrieving official AWS documentation",
+  "metadata": {
+    "github_url": "https://github.com/senad-d/pi-aws-knowledge",
+    "npm_name": "pi-aws-knowledge",
+    "description": "A Pi extension for searching and retrieving official AWS documentation",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "aws",
+      "aws-documentation"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-09-06T04:59:48.449Z",
+    "npm_downloads_monthly": 325,
+    "npm_downloads_weekly": 320,
+    "npm_score_final": 17.14814,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

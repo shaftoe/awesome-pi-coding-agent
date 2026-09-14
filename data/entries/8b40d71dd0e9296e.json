@@ -9,7 +9,7 @@
     "repo_full_name": "musichen/pi-telegram-multi",
     "description": "Multi-account and multi-bot Telegram DM bridge for pi: allowlist multiple Telegram users and assign a separate bot to each pi session, so you can drive multiple coding-agent sessions in parallel.",
     "stars": 29,
-    "forks": 13,
+    "forks": 14,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

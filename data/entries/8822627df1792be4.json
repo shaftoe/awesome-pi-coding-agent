@@ -9,8 +9,8 @@
     "repo_full_name": "monotykamary/heddlework",
     "description": "A native, harness-neutral workspace for agent sessions, task graphs, diffs, and durable work — Pi first, Codex and Claude next.",
     "stars": 9,
-    "forks": 3,
-    "open_issues": 2,
+    "forks": 4,
+    "open_issues": 19,
     "topics": [
       "agentic-development",
       "bun",
