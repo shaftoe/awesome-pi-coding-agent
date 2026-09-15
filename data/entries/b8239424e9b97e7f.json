@@ -1,0 +1,33 @@
+{
+  "id": "Haichiu-pi-ask-user-question-lite",
+  "name": "Haichiu-pi-ask-user-question-lite",
+  "url": "https://github.com/Haichiu/pi-ask-user-question-lite",
+  "source": "github-search",
+  "description": "A minimal, timeout-free AskUserQuestion tool for Pi with TUI, RPC, and headless support.",
+  "metadata": {
+    "github_url": "https://github.com/Haichiu/pi-ask-user-question-lite",
+    "repo_full_name": "Haichiu/pi-ask-user-question-lite",
+    "description": "A minimal, timeout-free AskUserQuestion tool for Pi with TUI, RPC, and headless support.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ask-user-question",
+      "human-in-the-loop",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "rpc",
+      "tui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-20T17:52:31Z",
+    "pushed_at": "2026-08-23T07:28:58Z",
+    "updated_at": "2026-09-14T10:55:52Z",
+    "size": 45,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

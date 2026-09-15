@@ -8,7 +8,7 @@
     "github_url": "https://github.com/WyrdWerk/pi-singularity-provider",
     "repo_full_name": "WyrdWerk/pi-singularity-provider",
     "description": "pi coding-agent provider for SingularityAPI — 13 chat models (DeepSeek V3.2/V4, Kimi K2/K3, GLM 5.3, GPT-5.6/6-Astra) with live catalog sync, verified thinking levels, cached-input pricing, and per-request receipts",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-09-13T13:35:24Z",
     "pushed_at": "2026-09-13T14:53:55Z",
-    "updated_at": "2026-09-13T16:17:34Z",
+    "updated_at": "2026-09-14T14:38:13Z",
     "size": 97,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

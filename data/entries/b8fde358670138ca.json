@@ -1,0 +1,32 @@
+{
+  "id": "pi-filler",
+  "name": "pi-filler",
+  "url": "https://www.npmjs.com/package/pi-filler",
+  "source": "npm-search",
+  "description": "Deterministic DOCX, PDF, and XLSX tooling for Pi",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-filler",
+    "description": "Deterministic DOCX, PDF, and XLSX tooling for Pi",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "docx",
+      "pptx",
+      "pdf",
+      "xlsx",
+      "pandoc",
+      "document-processing"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-09-14T22:10:42.604Z",
+    "npm_downloads_monthly": 121,
+    "npm_downloads_weekly": 121,
+    "npm_score_final": 14.315821,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

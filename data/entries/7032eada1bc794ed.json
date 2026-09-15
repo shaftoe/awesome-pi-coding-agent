@@ -1,0 +1,34 @@
+{
+  "id": "shaneconner-canon",
+  "name": "shaneconner-canon",
+  "url": "https://github.com/shaneconner/canon",
+  "source": "github-search",
+  "description": "Canonical project memory for the Pi coding agent: one governing article per asset, an append-only journal, capsule surfacing. A project wiki with a spine.",
+  "metadata": {
+    "github_url": "https://github.com/shaneconner/canon",
+    "repo_full_name": "shaneconner/canon",
+    "description": "Canonical project memory for the Pi coding agent: one governing article per asset, an append-only journal, capsule surfacing. A project wiki with a spine.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-memory",
+      "claude-code",
+      "codex",
+      "deepseek-harness",
+      "dsh-plugin",
+      "llm-wiki",
+      "memory",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-10T11:38:36Z",
+    "pushed_at": "2026-09-03T01:13:03Z",
+    "updated_at": "2026-09-14T07:14:49Z",
+    "size": 4814,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
