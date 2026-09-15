@@ -54267,5 +54267,217 @@
 			"sourceName": "github",
 			"query": "github-repo:pi-package language:TypeScript"
 		}
+	},
+	{
+		"url": "https://github.com/deepclause/pi-box",
+		"reason": "covered by dedicated source: github.com",
+		"blacklisted_at": "2026-09-15T01:10:32.756470035Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=sfGDycIrD-w",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-15T01:10:32.864834023Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Cst1A4pR48k",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-15T01:10:32.896940309Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ganziliang/pi-aa-speed-overlay",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-15T01:10:32.923320137Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@codeflow-ai/cli",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-15T01:10:33.102203254Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/DavidEasden/pi-cc-compat",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-15T01:10:33.1375763Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/nduchecp/attendance",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-09-15T01:10:33.16773731Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/niklasfyi/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-15T01:10:33.182252884Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sectimus/omp-hello-status",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-09-15T01:10:33.203422698Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/DavidEasden/pi-compact",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-15T01:10:33.250959221Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-strict-ask-mode",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-15T01:10:33.283235979Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/zzong12/atelier",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-15T01:10:33.344688539Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=uL5SPA281Gw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-15T01:10:33.366359394Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/nsyan/pi-plugins",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-15T01:10:33.394472675Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/zion-zion-zion/pi-extension",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-15T01:10:33.549811156Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@nsyan/db",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-15T01:10:33.614658587Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=E2NWSp9vjQo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-15T01:10:33.623540911Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-design-mode",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-15T01:10:33.713623898Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=1sAn3-fdjM4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-15T01:10:33.727774332Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=rjqz_whc2PQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-15T01:10:33.846662904Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=WushR-fTltU",
+		"reason": "Video content is in Tamil (non-English language)",
+		"blacklisted_at": "2026-09-15T01:14:01.423130694Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@muzi3/type-easier",
+		"reason": "non-english language (Chinese characters in description)",
+		"blacklisted_at": "2026-09-15T01:21:11.455578551Z",
+		"source": "manual"
 	}
 ]

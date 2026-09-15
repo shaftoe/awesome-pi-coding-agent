@@ -10,7 +10,7 @@
     "description": "Portable Pi coding-agent configuration with custom extensions, skills, subagents, procedures, themes, and safety tooling.",
     "stars": 0,
     "forks": 1,
-    "open_issues": 10,
+    "open_issues": 6,
     "topics": [
       "agent-skills",
       "ai-agents",
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-21T00:22:24Z",
-    "pushed_at": "2026-09-10T00:18:00Z",
-    "updated_at": "2026-09-10T00:18:11Z",
-    "size": 3899,
+    "pushed_at": "2026-09-15T01:08:48Z",
+    "updated_at": "2026-09-15T01:08:52Z",
+    "size": 3959,
     "license": "GPL-3.0",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },

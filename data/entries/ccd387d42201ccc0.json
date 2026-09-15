@@ -19,7 +19,7 @@
     "updated_at": "2026-03-01T17:24:44Z",
     "size": 2258,
     "license": null,
-    "discovery_hint": "github-repo:pi-package language:TypeScript"
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
   "health": {
     "score": 51,

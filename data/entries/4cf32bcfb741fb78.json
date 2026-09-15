@@ -1,0 +1,31 @@
+{
+  "id": "gvkhosla-pi-swarm-supervisor",
+  "name": "gvkhosla-pi-swarm-supervisor",
+  "url": "https://github.com/gvkhosla/pi-swarm-supervisor",
+  "source": "github-search",
+  "description": "Pi package for supervising multiple coding agents at once — live status, stuck detection, and role presets.",
+  "metadata": {
+    "github_url": "https://github.com/gvkhosla/pi-swarm-supervisor",
+    "repo_full_name": "gvkhosla/pi-swarm-supervisor",
+    "description": "Pi package for supervising multiple coding agents at once — live status, stuck detection, and role presets.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "multi-agent",
+      "pi",
+      "pi-package",
+      "supervisor"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-15T20:03:55Z",
+    "pushed_at": "2026-09-14T08:10:22Z",
+    "updated_at": "2026-09-14T08:51:54Z",
+    "size": 45,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

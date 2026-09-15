@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_morphllm.com_pi-coding-agent",
+  "name": "Pi Coding Agent: Install, Models, Setup, and Safety Guide",
+  "url": "https://www.morphllm.com/pi-coding-agent",
+  "source": "brave-web-search",
+  "description": "Pi is a minimal terminal coding harness you can reshape with extensions, skills, and custom models. Install it, configure a provider, and verify it safely.",
+  "metadata": {
+    "title": "Pi Coding Agent: Install, Models, Setup, and Safety Guide",
+    "name": "Pi Coding Agent: Install, Models, Setup, and Safety Guide",
+    "description": "Pi is a minimal terminal coding harness you can reshape with extensions, skills, and custom models. Install it, configure a provider, and verify it safely.",
+    "published_at": "2026-09-07T00:00:00",
+    "source_site": "Morph",
+    "source_url": "https://www.morphllm.com/pi-coding-agent",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

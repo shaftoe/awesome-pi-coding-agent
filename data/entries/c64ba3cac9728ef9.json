@@ -1,0 +1,29 @@
+{
+  "id": "Miskamyasa-pi-agent-config",
+  "name": "Miskamyasa-pi-agent-config",
+  "url": "https://github.com/Miskamyasa/pi-agent-config",
+  "source": "github-search",
+  "description": "My personal pi agent config and extensions",
+  "metadata": {
+    "github_url": "https://github.com/Miskamyasa/pi-agent-config",
+    "repo_full_name": "Miskamyasa/pi-agent-config",
+    "description": "My personal pi agent config and extensions",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agents",
+      "llm-agents",
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-30T13:31:11Z",
+    "pushed_at": "2026-09-14T20:40:45Z",
+    "updated_at": "2026-09-14T22:54:01Z",
+    "size": 306,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

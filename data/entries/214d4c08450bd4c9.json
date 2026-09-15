@@ -1,0 +1,29 @@
+{
+  "id": "@glassesneo/pi-decision-ui",
+  "name": "@glassesneo/pi-decision-ui",
+  "url": "https://www.npmjs.com/package/@glassesneo/pi-decision-ui",
+  "source": "npm-search",
+  "description": "Accessible adaptive decision flows and a Pi question extension",
+  "metadata": {
+    "github_url": "https://github.com/glassesneo/pi-decision-ui",
+    "npm_name": "@glassesneo/pi-decision-ui",
+    "description": "Accessible adaptive decision flows and a Pi question extension",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "decision",
+      "tui",
+      "accessibility"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-31T05:56:51.943Z",
+    "npm_downloads_monthly": 273,
+    "npm_downloads_weekly": 13,
+    "npm_score_final": 16.29792,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

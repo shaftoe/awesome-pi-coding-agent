@@ -10,7 +10,7 @@
     "description": "Long-term memory for pi — semantic recall over a memsearch store shared with Claude Code, Codex and OpenCode",
     "stars": 3,
     "forks": 0,
-    "open_issues": 7,
+    "open_issues": 8,
     "topics": [
       "bge-m3",
       "claude-code",
@@ -29,9 +29,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-13T15:34:00Z",
-    "pushed_at": "2026-09-11T13:46:14Z",
-    "updated_at": "2026-09-11T13:46:18Z",
-    "size": 482,
+    "pushed_at": "2026-09-14T14:09:27Z",
+    "updated_at": "2026-09-14T08:20:25Z",
+    "size": 487,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

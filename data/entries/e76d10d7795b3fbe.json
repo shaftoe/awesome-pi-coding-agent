@@ -1,0 +1,25 @@
+{
+  "id": "getkimchi-pi-agent-colab",
+  "name": "getkimchi-pi-agent-colab",
+  "url": "https://github.com/getkimchi/pi-agent-colab",
+  "source": "github-search",
+  "description": "Live session-to-session collaboration for pi & kimchi coding agents discover local sessions, delegate tasks to a peer session as a worker, A2A loopback transport. Installable as a pi package.",
+  "metadata": {
+    "github_url": "https://github.com/getkimchi/pi-agent-colab",
+    "repo_full_name": "getkimchi/pi-agent-colab",
+    "description": "Live session-to-session collaboration for pi & kimchi coding agents discover local sessions, delegate tasks to a peer session as a worker, A2A loopback transport. Installable as a pi package.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-14T10:06:10Z",
+    "pushed_at": "2026-09-14T10:11:08Z",
+    "updated_at": "2026-09-14T10:11:39Z",
+    "size": 62,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

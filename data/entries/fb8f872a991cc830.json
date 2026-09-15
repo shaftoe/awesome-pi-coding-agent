@@ -13,10 +13,10 @@
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
-    "archived": false,
+    "archived": true,
     "created_at": "2026-04-19T03:01:38Z",
     "pushed_at": "2026-07-14T06:14:11Z",
-    "updated_at": "2026-07-14T06:14:15Z",
+    "updated_at": "2026-09-14T22:33:16Z",
     "size": 50083,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
