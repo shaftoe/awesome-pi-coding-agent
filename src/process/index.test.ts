@@ -16,10 +16,11 @@ import { join } from "node:path";
 import { buildIndices, checkDuplicate } from "../core/dedup.ts";
 import { cleanText } from "../core/html.ts";
 import { FileRepository, type Repository } from "../core/repository.ts";
-import type { Entry } from "../core/types.ts";
+import type { DiscoveryCandidate, Entry } from "../core/types.ts";
 import { type CategorizedEntry, Category, EntrySource } from "../core/types.ts";
 import { classifyEntry } from "../enrich/classify.ts";
 import { getPriority } from "../sources/index.ts";
+import { resolveDuplicateAction } from "./duplicate-action.ts";
 
 function sourcePriority(source: string): number {
 	try {
@@ -289,5 +290,147 @@ describe("Process stage — metadata refresh", () => {
 		const npmHigher = sourcePriority(npmCandidate.source) < sourcePriority(existing.source);
 		expect(npmHigher).toBe(true);
 		// This should trigger the full replacement path, not the refresh path
+	});
+});
+
+describe("Process stage — monorepo packages sharing a repository (#303)", () => {
+	const REPO_URL = "https://github.com/example/monorepo";
+
+	let tmpDir: string;
+	let entriesDir: string;
+	let entryRepo: Repository<CategorizedEntry>;
+
+	beforeEach(() => {
+		tmpDir = mkdtempSync(join(tmpdir(), "process-test-"));
+		entriesDir = join(tmpDir, "entries");
+		entryRepo = new FileRepository<CategorizedEntry>(entriesDir);
+		entryRepo.init();
+	});
+
+	afterEach(() => {
+		rmSync(tmpDir, { recursive: true, force: true });
+	});
+
+	function npmEntry(id: string, metadata: Record<string, unknown> = {}): CategorizedEntry {
+		return {
+			id,
+			name: id,
+			url: `https://www.npmjs.com/package/${id}`,
+			source: EntrySource.NpmSearch,
+			description: `The ${id} package`,
+			metadata: { npm_name: id, github_url: REPO_URL, ...metadata },
+			category: Category.Extension,
+		};
+	}
+
+	function npmCandidate(id: string, metadata: Record<string, unknown> = {}): DiscoveryCandidate {
+		return {
+			url: `https://www.npmjs.com/package/${id}`,
+			source: EntrySource.NpmSearch,
+			metadata: { npm_name: id, github_url: REPO_URL, ...metadata },
+		};
+	}
+
+	test("distinct npm packages of one monorepo are not duplicates", () => {
+		const packageA = npmEntry("@example/package-a");
+		entryRepo.set(packageA.url, packageA);
+		const indices = buildIndices(entryRepo);
+
+		const dup = checkDuplicate(npmCandidate("@example/package-b"), indices);
+		expect(dup.isDuplicate).toBe(false);
+	});
+
+	test("the same npm package still dedupes by URL", () => {
+		const packageA = npmEntry("@example/package-a");
+		entryRepo.set(packageA.url, packageA);
+		const indices = buildIndices(entryRepo);
+
+		const dup = checkDuplicate(npmCandidate("@example/package-a"), indices);
+		expect(dup.isDuplicate).toBe(true);
+		expect(dup.matchedBy).toBe("url");
+		expect(getExisting(dup).id).toBe("@example/package-a");
+	});
+
+	test("sibling packages remain addable after earlier siblings join the indices", () => {
+		const packageA = npmEntry("@example/package-a");
+		entryRepo.set(packageA.url, packageA);
+		const indices = buildIndices(entryRepo);
+
+		// First sibling: not a duplicate, so the process loop adds it as a new entry
+		expect(checkDuplicate(npmCandidate("@example/package-b"), indices).isDuplicate).toBe(false);
+
+		// Simulate the index updates made by addNewEntry for package-b
+		const packageB = npmEntry("@example/package-b");
+		indices.byUrl.set(packageB.url, packageB);
+		indices.byGitHubUrl.set(REPO_URL, packageB);
+
+		// Second sibling must still be addable despite byGitHubUrl now pointing at package-b
+		expect(checkDuplicate(npmCandidate("@example/package-c"), indices).isDuplicate).toBe(false);
+	});
+
+	test("cross-source dedup via repository is preserved: a repo already represented by an npm package skips the GitHub candidate", () => {
+		const packageA = npmEntry("@example/package-a");
+		entryRepo.set(packageA.url, packageA);
+		const indices = buildIndices(entryRepo);
+
+		const githubCandidate: DiscoveryCandidate = {
+			url: REPO_URL,
+			source: EntrySource.GitHubSearch,
+			metadata: { github_url: REPO_URL, repo_full_name: "example/monorepo" },
+		};
+
+		const dup = checkDuplicate(githubCandidate, indices);
+		expect(dup.isDuplicate).toBe(true);
+		expect(dup.matchedBy).toBe("github_url");
+		expect(resolveDuplicateAction(githubCandidate, { existingEntry: getExisting(dup) })).toBe(
+			"skip",
+		);
+	});
+
+	test("#303 mislabeled entry: sibling added as new, stale identity corrected when its own package is rediscovered", () => {
+		// Seed the mismatched entry from the issue: identity of one package,
+		// metadata of its sibling.
+		const stale = npmEntry("@example/context-include", { npm_name: "@example/pi-access-denied" });
+		entryRepo.set(stale.url, stale);
+		const indices = buildIndices(entryRepo);
+
+		// The mislabeled sibling is no longer swallowed — it gets its own entry
+		const accessDenied = checkDuplicate(npmCandidate("@example/pi-access-denied"), indices);
+		expect(accessDenied.isDuplicate).toBe(false);
+
+		// The stale identity matches by URL and refreshes from the real candidate,
+		// correcting the overwritten metadata (works only while the entry's own
+		// package still exists on npm — see the phantom-entry test below)
+		const contextInclude = checkDuplicate(npmCandidate("@example/context-include"), indices);
+		expect(contextInclude.isDuplicate).toBe(true);
+		expect(contextInclude.matchedBy).toBe("url");
+		const existing = getExisting(contextInclude);
+		expect(existing.id).toBe("@example/context-include");
+		expect(
+			resolveDuplicateAction(npmCandidate("@example/context-include"), { existingEntry: existing }),
+		).toBe("refresh");
+	});
+
+	test("#303 phantom entry: an entry whose package no longer exists is left untouched instead of absorbing siblings", () => {
+		// The stored #303 entry references a package that no longer exists on
+		// npm, so no candidate ever matches it by URL. It must not absorb
+		// sibling metadata either — the stale file needs one-off data cleanup.
+		const phantom = npmEntry("@example/renamed-away", { npm_name: "@example/pi-access-denied" });
+		entryRepo.set(phantom.url, phantom);
+		const indices = buildIndices(entryRepo);
+
+		// Siblings sharing the repository are added as their own entries…
+		expect(checkDuplicate(npmCandidate("@example/pi-access-denied"), indices).isDuplicate).toBe(
+			false,
+		);
+		expect(checkDuplicate(npmCandidate("@example/context-include"), indices).isDuplicate).toBe(
+			false,
+		);
+
+		// …while the phantom itself is neither refreshed nor replaced by them;
+		// only a candidate for its own URL would still refresh it.
+		const ownPackage = checkDuplicate(npmCandidate("@example/renamed-away"), indices);
+		expect(ownPackage.isDuplicate).toBe(true);
+		expect(ownPackage.matchedBy).toBe("url");
 	});
 });
