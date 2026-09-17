@@ -8,7 +8,7 @@
     "github_url": "https://github.com/grikomsn/bb-plugins",
     "repo_full_name": "grikomsn/bb-plugins",
     "description": "Monorepo of bb plugins that surface the Pi coding agent's extension event stream inside the bb desktop app",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-20T05:19:04Z",
     "pushed_at": "2026-08-30T19:20:11Z",
-    "updated_at": "2026-09-02T22:05:59Z",
+    "updated_at": "2026-09-15T13:29:09Z",
     "size": 510,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

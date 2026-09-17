@@ -1,0 +1,31 @@
+{
+  "id": "@estebanforge/pi-zendesk-me",
+  "name": "@estebanforge/pi-zendesk-me",
+  "url": "https://www.npmjs.com/package/@estebanforge/pi-zendesk-me",
+  "source": "npm-search",
+  "description": "Zendesk Support read tools for Pi. Adds 7 LLM-callable tools (zendesk_*) that query the Zendesk Support API v2 over HTTPS: fetch a ticket (by id or agent URL), read the comment thread, search tickets, look up users and organizations, download attachments",
+  "metadata": {
+    "github_url": "https://github.com/EstebanForge/pi-zendesk-me",
+    "npm_name": "@estebanforge/pi-zendesk-me",
+    "description": "Zendesk Support read tools for Pi. Adds 7 LLM-callable tools (zendesk_*) that query the Zendesk Support API v2 over HTTPS: fetch a ticket (by id or agent URL), read the comment thread, search tickets, look up users and organizations, download attachments ",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "zendesk",
+      "support",
+      "tickets",
+      "rest-api",
+      "coding-agent"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-08-28T17:52:45.586Z",
+    "npm_downloads_monthly": 104,
+    "npm_downloads_weekly": 10,
+    "npm_score_final": 13.746181,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pi-agent-stack",
+  "name": "pi-agent-stack",
+  "url": "https://www.npmjs.com/package/pi-agent-stack",
+  "source": "npm-search",
+  "description": "A chartered project-manager agent plus the specialist team it delegates to: kernel/charter pm, pack-based intake interview, researcher, oracle, worker, and the ship-gate reviewers. Bundles the subagent runtime and the execution pipeline.",
+  "metadata": {
+    "github_url": "https://github.com/KrisGray/pi-agent-stack",
+    "npm_name": "pi-agent-stack",
+    "description": "A chartered project-manager agent plus the specialist team it delegates to: kernel/charter pm, pack-based intake interview, researcher, oracle, worker, and the ship-gate reviewers. Bundles the subagent runtime and the execution pipeline.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "ai",
+      "agent",
+      "project-management",
+      "personas"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-09-15T08:12:24.440Z",
+    "npm_downloads_monthly": 130,
+    "npm_downloads_weekly": 130,
+    "npm_score_final": 14.30432,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

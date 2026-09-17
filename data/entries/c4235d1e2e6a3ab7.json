@@ -1,0 +1,25 @@
+{
+  "id": "@smayan-kulkarni/pi-decision-graph",
+  "name": "@smayan-kulkarni/pi-decision-graph",
+  "url": "https://www.npmjs.com/package/@smayan-kulkarni/pi-decision-graph",
+  "source": "npm-search",
+  "description": "Temporal decision graph: captures the agent's decisions, why, and file changes into a project-local store.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@smayan-kulkarni/pi-decision-graph",
+    "description": "Temporal decision graph: captures the agent's decisions, why, and file changes into a project-local store.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.84.1",
+    "published_at": "2026-08-17T12:23:16.109Z",
+    "npm_downloads_monthly": 103,
+    "npm_downloads_weekly": 1,
+    "npm_score_final": 13.855047,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

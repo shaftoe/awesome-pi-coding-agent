@@ -8,7 +8,7 @@
     "title": "Pi Coding Agent - Visual Studio Marketplace",
     "name": "Pi Coding Agent - Visual Studio Marketplace",
     "description": "Extension for Visual Studio Code - VS Code extension for pi coding agent",
-    "published_at": null,
+    "published_at": "2026-04-24T00:00:00",
     "source_site": "Visual Studio Marketplace",
     "source_url": "https://marketplace.visualstudio.com/items?itemName=pi0.pi-vscode",
     "discovery_hint": "brave:pi-agent"

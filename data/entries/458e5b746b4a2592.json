@@ -1,0 +1,26 @@
+{
+  "id": "pi-command-actions",
+  "name": "pi-command-actions",
+  "url": "https://www.npmjs.com/package/pi-command-actions",
+  "source": "npm-search",
+  "description": "Copy or run shell blocks from Pi responses",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-command-actions",
+    "description": "Copy or run shell blocks from Pi responses",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-09T15:43:21.282Z",
+    "npm_downloads_monthly": 127,
+    "npm_downloads_weekly": 127,
+    "npm_score_final": 14.575124,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

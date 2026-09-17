@@ -1,0 +1,29 @@
+{
+  "id": "lo-pi",
+  "name": "lo-pi",
+  "url": "https://www.npmjs.com/package/lo-pi",
+  "source": "npm-search",
+  "description": "pi coding agent extension: toggle a lofi radio stream (/lopi) with an animated gradient equalizer in the footer",
+  "metadata": {
+    "github_url": "https://github.com/shreyashp77/lo-pi",
+    "npm_name": "lo-pi",
+    "description": "pi coding agent extension: toggle a lofi radio stream (/lopi) with an animated gradient equalizer in the footer",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "extension",
+      "lofi"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-09-09T17:28:52.426Z",
+    "npm_downloads_monthly": 143,
+    "npm_downloads_weekly": 143,
+    "npm_score_final": 14.830888,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

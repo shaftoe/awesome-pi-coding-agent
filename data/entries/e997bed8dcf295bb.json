@@ -1,0 +1,25 @@
+{
+  "id": "matheusmedrado-omaPi",
+  "name": "matheusmedrado-omaPi",
+  "url": "https://github.com/matheusmedrado/omaPi",
+  "source": "github-search",
+  "description": "An 8-bit, omarchy-native face for pi: animated block logo, dense status strip, hand-tuned themes.",
+  "metadata": {
+    "github_url": "https://github.com/matheusmedrado/omaPi",
+    "repo_full_name": "matheusmedrado/omaPi",
+    "description": "An 8-bit, omarchy-native face for pi: animated block logo, dense status strip, hand-tuned themes.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-16T02:32:04Z",
+    "pushed_at": "2026-09-16T03:40:25Z",
+    "updated_at": "2026-09-16T03:40:29Z",
+    "size": 170,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

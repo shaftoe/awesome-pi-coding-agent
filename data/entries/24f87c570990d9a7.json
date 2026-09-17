@@ -1,0 +1,25 @@
+{
+  "id": "ssssnail-agent-live",
+  "name": "ssssnail-agent-live",
+  "url": "https://github.com/ssssnail/agent-live",
+  "source": "github-search",
+  "description": "A live pixel office for AI coding agents, starting with Pi.",
+  "metadata": {
+    "github_url": "https://github.com/ssssnail/agent-live",
+    "repo_full_name": "ssssnail/agent-live",
+    "description": "A live pixel office for AI coding agents, starting with Pi.",
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-07T02:38:43Z",
+    "pushed_at": "2026-09-15T04:17:19Z",
+    "updated_at": "2026-09-16T08:13:47Z",
+    "size": 6212,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

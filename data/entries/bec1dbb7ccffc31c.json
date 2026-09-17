@@ -3,28 +3,29 @@
   "name": "@firstpick/pi-extension-wiki-tools",
   "url": "https://www.npmjs.com/package/@firstpick/pi-extension-wiki-tools",
   "source": "npm-search",
-  "description": "Offer a plan-only Pi recovery flow for classified Anthropic compatibility errors.",
+  "description": "Pi tools and skill for scaffolding local wiki extension packages from repository templates.",
   "metadata": {
     "github_url": "https://github.com/Firstp1ck/pi-coding-agent-forge",
-    "npm_name": "@firstpick/pi-extension-anthropic-auth-recovery",
-    "description": "Offer a plan-only Pi recovery flow for classified Anthropic compatibility errors.",
+    "npm_name": "@firstpick/pi-extension-wiki-tools",
+    "description": "Pi tools and skill for scaffolding local wiki extension packages from repository templates.",
     "keywords": [
       "pi-package",
       "pi",
       "pi-coding-agent",
       "extension",
-      "anthropic",
-      "recovery"
+      "skill",
+      "wiki",
+      "scaffold"
     ],
-    "version": "0.3.1",
-    "published_at": "2026-09-05T15:17:09.097Z",
-    "npm_downloads_monthly": 4900,
-    "npm_downloads_weekly": 287,
-    "npm_score_final": 26.005608,
+    "version": "0.1.6",
+    "published_at": "2026-08-07T20:46:20.066Z",
+    "npm_downloads_monthly": 65,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 15.613268,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "category": "extension"
 }

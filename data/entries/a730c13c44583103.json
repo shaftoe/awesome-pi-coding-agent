@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Qusic/pi-telegram",
     "repo_full_name": "Qusic/pi-telegram",
     "description": "Telegram bridge extension for Pi agent",
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-05-17T04:28:59Z",
     "pushed_at": "2026-09-13T21:24:43Z",
-    "updated_at": "2026-09-13T21:20:15Z",
+    "updated_at": "2026-09-15T07:42:01Z",
     "size": 179,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

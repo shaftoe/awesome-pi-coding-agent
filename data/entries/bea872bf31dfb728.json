@@ -8,7 +8,7 @@
     "github_url": "https://github.com/fitchmultz/pi-posthorse",
     "repo_full_name": "fitchmultz/pi-posthorse",
     "description": "Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork of the Pi coding agent, with rollover tools, durable notes, and history recovery.",
-    "stars": 243,
+    "stars": 244,
     "forks": 7,
     "open_issues": 0,
     "topics": [
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-31T15:06:23Z",
-    "pushed_at": "2026-09-10T19:29:52Z",
-    "updated_at": "2026-09-13T21:30:23Z",
-    "size": 3359,
+    "pushed_at": "2026-09-15T15:36:40Z",
+    "updated_at": "2026-09-15T15:35:52Z",
+    "size": 3475,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

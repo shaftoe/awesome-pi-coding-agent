@@ -8,7 +8,7 @@
     "github_url": "https://github.com/oratis/LISA",
     "repo_full_name": "oratis/LISA",
     "description": "An AI agent with a real self — soul she wrote, desires that drive her, a heartbeat for autonomous action, dreams she processes when you're away. Capability superset of pi-mono / OpenClaw / hermes-agent / claude-code / codex.",
-    "stars": 174,
+    "stars": 175,
     "forks": 0,
     "open_issues": 6,
     "topics": [
@@ -35,7 +35,7 @@
     "archived": false,
     "created_at": "2026-05-02T13:40:16Z",
     "pushed_at": "2026-09-14T01:11:31Z",
-    "updated_at": "2026-09-14T13:24:43Z",
+    "updated_at": "2026-09-16T03:30:55Z",
     "size": 241796,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

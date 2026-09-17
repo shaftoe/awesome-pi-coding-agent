@@ -9,8 +9,8 @@
     "repo_full_name": "sshkeda/pi-mock",
     "description": "Integration testing harness for pi extensions. Mock LLM APIs (Anthropic, OpenAI, Google), Docker sandbox with network isolation, fault injection, record/replay, CLI.",
     "stars": 1,
-    "forks": 0,
-    "open_issues": 0,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "anthropic",
       "docker",

@@ -1,0 +1,28 @@
+{
+  "id": "pi-model-fallback-alias",
+  "name": "pi-model-fallback-alias",
+  "url": "https://www.npmjs.com/package/pi-model-fallback-alias",
+  "source": "npm-search",
+  "description": "Stable Pi model aliases with ordered fallback, cooldowns, and latency controls",
+  "metadata": {
+    "github_url": "https://github.com/unrelentingfox/pi-model-fallback-alias",
+    "npm_name": "pi-model-fallback-alias",
+    "description": "Stable Pi model aliases with ordered fallback, cooldowns, and latency controls",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "model-alias",
+      "fallback"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-09-16T16:07:11.274Z",
+    "npm_downloads_monthly": 196,
+    "npm_downloads_weekly": 196,
+    "npm_score_final": 15.742587,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

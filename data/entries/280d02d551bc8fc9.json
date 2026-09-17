@@ -8,7 +8,7 @@
     "github_url": "https://github.com/testzugang/pi-plugins",
     "repo_full_name": "testzugang/pi-plugins",
     "description": "Skills, Extensions, Themes etc. for the pi coding agent",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-08T08:54:16Z",
     "pushed_at": "2026-07-16T09:15:53Z",
-    "updated_at": "2026-07-16T09:16:03Z",
+    "updated_at": "2026-09-15T12:56:49Z",
     "size": 560,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

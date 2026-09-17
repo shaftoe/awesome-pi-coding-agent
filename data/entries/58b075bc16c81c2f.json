@@ -8,7 +8,7 @@
     "github_url": "https://github.com/YoungJurry/pi-subagent-lite",
     "repo_full_name": "YoungJurry/pi-subagent-lite",
     "description": "Lightweight Pi subagent extension with isolated child processes, async parallel batches, file-based outputs, and diagnostics.",
-    "stars": 2,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-06-12T01:16:04Z",
     "pushed_at": "2026-08-30T03:53:35Z",
-    "updated_at": "2026-08-30T03:53:47Z",
+    "updated_at": "2026-09-16T07:53:32Z",
     "size": 89,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

@@ -1,0 +1,30 @@
+{
+  "id": "@luffysolution/omnischolar-pi",
+  "name": "@luffysolution/omnischolar-pi",
+  "url": "https://www.npmjs.com/package/@luffysolution/omnischolar-pi",
+  "source": "npm-search",
+  "description": "Pi MCP bridge for the OmniScholar research toolkit",
+  "metadata": {
+    "github_url": "https://github.com/luffysolution-svg/omnischolar",
+    "npm_name": "@luffysolution/omnischolar-pi",
+    "description": "Pi MCP bridge for the OmniScholar research toolkit",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "mcp",
+      "research",
+      "literature",
+      "zotero"
+    ],
+    "version": "0.1.13",
+    "published_at": "2026-09-16T16:50:26.642Z",
+    "npm_downloads_monthly": 254,
+    "npm_downloads_weekly": 254,
+    "npm_score_final": 16.798988,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

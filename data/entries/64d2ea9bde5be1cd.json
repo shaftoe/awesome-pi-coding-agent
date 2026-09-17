@@ -1,0 +1,31 @@
+{
+  "id": "AlbinLind-pgp",
+  "name": "AlbinLind-pgp",
+  "url": "https://github.com/AlbinLind/pgp",
+  "source": "github-search",
+  "description": "Pi extension: triage GitHub PR review feedback and have the agent fix or explain it (read-only)",
+  "metadata": {
+    "github_url": "https://github.com/AlbinLind/pgp",
+    "repo_full_name": "AlbinLind/pgp",
+    "description": "Pi extension: triage GitHub PR review feedback and have the agent fix or explain it (read-only)",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "code-review",
+      "github",
+      "pi-extension",
+      "pi-package",
+      "pull-request"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-14T19:48:11Z",
+    "pushed_at": "2026-09-15T19:49:29Z",
+    "updated_at": "2026-09-16T11:35:12Z",
+    "size": 178,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
