@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.8.1] - 2026-09-17
+
+### Fixed
+
+- **dedup**: keep same-source entries distinct when they share a repository (#307)
+
 ## [2.8.0] - 2026-09-06
 
 ### Added
@@ -305,6 +311,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove skills category
 - replace @types/bun with pinned bun-types to fix typecheck (#6)
 
+[2.8.1]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.8.0...v2.8.1
 [2.8.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.7.2...v2.8.0
 [2.7.2]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.7.1...v2.7.2
 [2.7.1]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.7.0...v2.7.1
