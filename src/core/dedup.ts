@@ -4,10 +4,15 @@
  * With the flattened repository (keyed by URL), the Repository itself handles
  * URL uniqueness. This module provides priority-aware merging: when an npm
  * package and a GitHub repo point to the same project, the npm entry wins.
+ *
+ * Repository-level matching (`github_url`) is a cross-source identity check
+ * only: entries from the same source that merely share a repository (e.g. two
+ * npm packages published from one monorepo) are distinct items, not
+ * duplicates.
  */
 
 import type { Repository } from "./repository.ts";
-import type { CategorizedEntry } from "./types.ts";
+import type { CategorizedEntry, EntrySource } from "./types.ts";
 
 // ─── Indices ───────────────────────────────────────────────────────────────────
 
@@ -42,7 +47,7 @@ export interface DuplicateCheck {
 }
 
 export function checkDuplicate(
-	candidate: { url: string; metadata?: Record<string, unknown> },
+	candidate: { url: string; source?: EntrySource; metadata?: Record<string, unknown> },
 	indices: DuplicationIndices,
 ): DuplicateCheck {
 	// Check by URL (primary key)
@@ -51,10 +56,16 @@ export function checkDuplicate(
 		return { isDuplicate: true, matchedBy: "url", existingEntry: byUrl };
 	}
 
-	// Check by GitHub URL — npm packages may reference a GitHub repo
+	// Check by GitHub URL — npm packages may reference a GitHub repo.
+	// A same-source match is not a duplicate: distinct entries from one source
+	// (e.g. two npm packages of a monorepo) legitimately share a repository.
+	// Only a cross-source match indicates the same project.
 	if (candidate.metadata?.["github_url"] && typeof candidate.metadata["github_url"] === "string") {
 		const byGhUrl = indices.byGitHubUrl.get(candidate.metadata["github_url"] as string);
 		if (byGhUrl) {
+			if (candidate.source !== undefined && candidate.source === byGhUrl.source) {
+				return { isDuplicate: false };
+			}
 			return { isDuplicate: true, matchedBy: "github_url", existingEntry: byGhUrl };
 		}
 	}
