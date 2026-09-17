@@ -1,0 +1,25 @@
+{
+  "id": "RexVane-PiWeb",
+  "name": "RexVane-PiWeb",
+  "url": "https://github.com/RexVane/PiWeb",
+  "source": "github-search",
+  "description": "A modern, responsive web UI for the Pi Coding Agent inspired by DeepSeek Harness (dsh).",
+  "metadata": {
+    "github_url": "https://github.com/RexVane/PiWeb",
+    "repo_full_name": "RexVane/PiWeb",
+    "description": "A modern, responsive web UI for the Pi Coding Agent inspired by DeepSeek Harness (dsh).",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-07T04:46:40Z",
+    "pushed_at": "2026-09-16T06:00:41Z",
+    "updated_at": "2026-09-16T18:30:28Z",
+    "size": 8959,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

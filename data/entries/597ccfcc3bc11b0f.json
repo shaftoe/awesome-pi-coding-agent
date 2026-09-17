@@ -1,0 +1,33 @@
+{
+  "id": "@cwillam/pi-minimax-usage",
+  "name": "@cwillam/pi-minimax-usage",
+  "url": "https://www.npmjs.com/package/@cwillam/pi-minimax-usage",
+  "source": "npm-search",
+  "description": "Pi extension: live MiniMax Token Plan usage (5h + weekly) in the status bar. Not affiliated with MiniMax Inc.",
+  "metadata": {
+    "github_url": "https://github.com/cwillam/pi-minimax-usage",
+    "npm_name": "@cwillam/pi-minimax-usage",
+    "description": "Pi extension: live MiniMax Token Plan usage (5h + weekly) in the status bar. Not affiliated with MiniMax Inc.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "minimax",
+      "minimax-api",
+      "minimax-token-plan",
+      "usage",
+      "status-bar",
+      "quota"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-09-09T10:03:25.757Z",
+    "npm_downloads_monthly": 255,
+    "npm_downloads_weekly": 255,
+    "npm_score_final": 16.579113,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "HMDRAMS-DEV-pi-status-indicator",
+  "name": "HMDRAMS-DEV-pi-status-indicator",
+  "url": "https://github.com/HMDRAMS-DEV/pi-status-indicator",
+  "source": "github-search",
+  "description": "Claude Code-style status indicator for pi: ping-ponging half-circle while working, a hand while waiting on you, a check when done, and a 2-4 word session theme in the terminal header.",
+  "metadata": {
+    "github_url": "https://github.com/HMDRAMS-DEV/pi-status-indicator",
+    "repo_full_name": "HMDRAMS-DEV/pi-status-indicator",
+    "description": "Claude Code-style status indicator for pi: ping-ponging half-circle while working, a hand while waiting on you, a check when done, and a 2-4 word session theme in the terminal header.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-16T02:16:59Z",
+    "pushed_at": "2026-09-16T14:50:25Z",
+    "updated_at": "2026-09-16T14:50:31Z",
+    "size": 56,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

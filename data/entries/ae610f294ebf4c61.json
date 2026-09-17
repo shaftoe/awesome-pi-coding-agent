@@ -11,14 +11,14 @@
     "channel": "Build Things With AI",
     "published_at": "2026-05-19T14:22:33Z",
     "thumbnail": "https://i.ytimg.com/vi/8PJepXx0Jd0/hqdefault.jpg",
-    "views": 540,
-    "likes": 24,
+    "views": 632,
+    "likes": 25,
     "comments": 0,
-    "discovery_hint": "youtube:pi-agent"
+    "discovery_hint": "youtube:pi-coding-agent"
   },
   "health": {
     "score": 45,
     "level": "maintained"
   },
-  "category": "misc"
+  "category": "video"
 }

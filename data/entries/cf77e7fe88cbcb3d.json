@@ -8,7 +8,7 @@
     "github_url": "https://github.com/williamcr01/pi-subagents",
     "repo_full_name": "williamcr01/pi-subagents",
     "description": "Recursive, isolated, asynchronous subagents for the Pi coding agent",
-    "stars": 12,
+    "stars": 13,
     "forks": 3,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-09-03T16:45:25Z",
     "pushed_at": "2026-09-08T12:24:03Z",
-    "updated_at": "2026-09-08T12:24:19Z",
+    "updated_at": "2026-09-15T07:57:18Z",
     "size": 538,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

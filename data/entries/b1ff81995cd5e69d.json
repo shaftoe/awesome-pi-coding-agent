@@ -1,0 +1,31 @@
+{
+  "id": "y0usaf-pi-jev",
+  "name": "y0usaf-pi-jev",
+  "url": "https://github.com/y0usaf/pi-jev",
+  "source": "github-search",
+  "description": "TypeSafe Jev as a decision layer for the Pi coding agent: a measured tool-call gate plus jev_ask for typed, calibrated answers",
+  "metadata": {
+    "github_url": "https://github.com/y0usaf/pi-jev",
+    "repo_full_name": "y0usaf/pi-jev",
+    "description": "TypeSafe Jev as a decision layer for the Pi coding agent: a measured tool-call gate plus jev_ask for typed, calibrated answers",
+    "stars": 8,
+    "forks": 2,
+    "open_issues": 0,
+    "topics": [
+      "guardrails",
+      "jev",
+      "pi-extension",
+      "pi-package",
+      "typesafe"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-16T05:57:10Z",
+    "pushed_at": "2026-09-16T07:28:39Z",
+    "updated_at": "2026-09-16T23:02:06Z",
+    "size": 34,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

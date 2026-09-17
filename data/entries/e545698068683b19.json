@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pify.dev",
+  "name": "Pify: Pi packages for the parts pi left out",
+  "url": "https://pify.dev/",
+  "source": "brave-web-search",
+  "description": "Sixteen MIT-licensed Pi Packages for the pi coding agent: plan mode, subagents, persistent memory, task tracking, a safety gate with an undo trail, and more. Plus the @pify/cli front door and the Pify Agent Book.",
+  "metadata": {
+    "title": "Pify: Pi packages for the parts pi left out",
+    "name": "Pify: Pi packages for the parts pi left out",
+    "description": "Sixteen MIT-licensed Pi Packages for the pi coding agent: plan mode, subagents, persistent memory, task tracking, a safety gate with an undo trail, and more. Plus the @pify/cli front door and the Pify Agent Book.",
+    "published_at": null,
+    "source_site": "Pify",
+    "source_url": "https://pify.dev/",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}

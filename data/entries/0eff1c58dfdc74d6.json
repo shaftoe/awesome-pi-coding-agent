@@ -3,18 +3,18 @@
   "name": "@sting8k/pi-utils",
   "url": "https://www.npmjs.com/package/@sting8k/pi-utils",
   "source": "npm-search",
-  "description": "Utility extensions for the Pi coding agent: deep fs-search (grep/glob) and background shell (shell-bg)",
+  "description": "Utility extensions for the Pi coding agent: deep fs-search (grep/glob), background shell (shell-bg), script-mode edit, and the skills write layer (skill_write)",
   "metadata": {
     "github_url": null,
     "npm_name": "@sting8k/pi-utils",
-    "description": "Utility extensions for the Pi coding agent: deep fs-search (grep/glob) and background shell (shell-bg)",
+    "description": "Utility extensions for the Pi coding agent: deep fs-search (grep/glob), background shell (shell-bg), script-mode edit, and the skills write layer (skill_write)",
     "keywords": [
       "pi-package",
       "pi-extension",
       "pi-coding-agent"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-09-14T09:26:10.687Z",
+    "version": "0.3.1",
+    "published_at": "2026-09-16T04:32:20.825Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

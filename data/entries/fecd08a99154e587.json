@@ -3,11 +3,11 @@
   "name": "pi-unsloth-webtools",
   "url": "https://www.npmjs.com/package/pi-unsloth-webtools",
   "source": "npm-search",
-  "description": "Pi extension: web_search and web_fetch tools ported from the Unsloth Studio codebase (DuckDuckGo search, SSRF-safe direct fetching, HTML-to-Markdown extraction)",
+  "description": "Pi extension: web_search and web_fetch tools that began as a port of the Unsloth Studio codebase and now diverge from it (multi-engine search, opt-in SSRF guard, HTML-to-Markdown extraction)",
   "metadata": {
     "github_url": "https://github.com/YuGiMob/pi-unsloth-webtools",
     "npm_name": "pi-unsloth-webtools",
-    "description": "Pi extension: web_search and web_fetch tools ported from the Unsloth Studio codebase (DuckDuckGo search, SSRF-safe direct fetching, HTML-to-Markdown extraction)",
+    "description": "Pi extension: web_search and web_fetch tools that began as a port of the Unsloth Studio codebase and now diverge from it (multi-engine search, opt-in SSRF guard, HTML-to-Markdown extraction)",
     "keywords": [
       "pi-package",
       "pi",
@@ -19,11 +19,11 @@
       "duckduckgo",
       "ssrf"
     ],
-    "version": "0.6.0",
-    "published_at": "2026-09-05T19:44:01.857Z",
+    "version": "0.7.1",
+    "published_at": "2026-09-16T19:55:05.916Z",
     "npm_downloads_monthly": 2315,
     "npm_downloads_weekly": 314,
-    "npm_score_final": 23.34528,
+    "npm_score_final": 25.575367,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

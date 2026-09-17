@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-themes-bundle",
+  "name": "@firstpick/pi-themes-bundle · Packages · Pi",
+  "url": "https://pi.dev/packages/@firstpick/pi-themes-bundle",
+  "source": "brave-web-search",
+  "description": "Pi packages can execute code and influence agent behavior. Review the source before installing third-party packages. Adds a collection of familiar color themes to Pi.",
+  "metadata": {
+    "title": "@firstpick/pi-themes-bundle · Packages · Pi",
+    "name": "@firstpick/pi-themes-bundle · Packages · Pi",
+    "description": "Pi packages can execute code and influence agent behavior. Review the source before installing third-party packages. Adds a collection of familiar color themes to Pi.",
+    "published_at": null,
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/@firstpick/pi-themes-bundle",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "category": "article"
+}

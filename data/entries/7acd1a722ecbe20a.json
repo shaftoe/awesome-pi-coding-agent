@@ -1,0 +1,27 @@
+{
+  "id": "kifaru",
+  "name": "kifaru",
+  "url": "https://www.npmjs.com/package/kifaru",
+  "source": "npm-search",
+  "description": "Kifaru security agent on the Pi runtime",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "kifaru",
+    "description": "Kifaru security agent on the Pi runtime",
+    "keywords": [
+      "pi-package",
+      "kifaru",
+      "security"
+    ],
+    "version": "1.0.164",
+    "published_at": "2026-09-16T19:39:15.883Z",
+    "npm_downloads_monthly": 1512,
+    "npm_downloads_weekly": 459,
+    "npm_score_final": 22.633963,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

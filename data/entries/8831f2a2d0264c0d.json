@@ -1,0 +1,31 @@
+{
+  "id": "liyu1981-pi-tweaks",
+  "name": "liyu1981-pi-tweaks",
+  "url": "https://github.com/liyu1981/pi-tweaks",
+  "source": "github-search",
+  "description": "A small collection of pi extensions bundled as one pi package. Fixes three everyday annoyances when you use pi with a mixed model set.",
+  "metadata": {
+    "github_url": "https://github.com/liyu1981/pi-tweaks",
+    "repo_full_name": "liyu1981/pi-tweaks",
+    "description": "A small collection of pi extensions bundled as one pi package. Fixes three everyday annoyances when you use pi with a mixed model set.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "nodejs",
+      "pi-agent",
+      "pi-agent-extension",
+      "piagent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-15T12:05:04Z",
+    "pushed_at": "2026-09-15T14:15:43Z",
+    "updated_at": "2026-09-15T14:17:04Z",
+    "size": 70,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

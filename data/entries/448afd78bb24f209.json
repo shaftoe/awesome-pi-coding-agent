@@ -10,7 +10,7 @@
     "description": "Web dashboard for the pi coding agent — multi-session chat, file browser, doc collaboration, terminal, and more",
     "stars": 49,
     "forks": 9,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "ai-coding-agent",
       "chat-ui",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-14T23:33:54Z",
-    "pushed_at": "2026-07-22T21:56:50Z",
-    "updated_at": "2026-09-07T03:17:14Z",
-    "size": 9208,
+    "pushed_at": "2026-09-16T21:24:41Z",
+    "updated_at": "2026-09-16T21:24:50Z",
+    "size": 9238,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

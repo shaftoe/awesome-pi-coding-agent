@@ -1,0 +1,29 @@
+{
+  "id": "@pureooze/pi-knowledge-graph",
+  "name": "@pureooze/pi-knowledge-graph",
+  "url": "https://www.npmjs.com/package/@pureooze/pi-knowledge-graph",
+  "source": "npm-search",
+  "description": "Local, evidence-backed shared knowledge search and maintenance tools for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/pureooze/pi-config",
+    "npm_name": "@pureooze/pi-knowledge-graph",
+    "description": "Local, evidence-backed shared knowledge search and maintenance tools for Pi.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "knowledge-graph",
+      "memory"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-14T01:30:44.755Z",
+    "npm_downloads_monthly": 85,
+    "npm_downloads_weekly": 5,
+    "npm_score_final": 13.895913,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

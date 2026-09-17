@@ -16,8 +16,8 @@
     "archived": false,
     "created_at": "2026-04-19T22:42:05Z",
     "pushed_at": "2026-09-15T00:29:42Z",
-    "updated_at": "2026-09-15T00:29:45Z",
-    "size": 4640,
+    "updated_at": "2026-09-15T13:26:35Z",
+    "size": 7401,
     "license": "GPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

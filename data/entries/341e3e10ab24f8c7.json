@@ -1,0 +1,25 @@
+{
+  "id": "yukikisaku-pi-agent-status",
+  "name": "yukikisaku-pi-agent-status",
+  "url": "https://github.com/yukikisaku/pi-agent-status",
+  "source": "github-search",
+  "description": "Terminal status extensions for the Pi coding agent (tmux, Zed, Orca, Herdr)",
+  "metadata": {
+    "github_url": "https://github.com/yukikisaku/pi-agent-status",
+    "repo_full_name": "yukikisaku/pi-agent-status",
+    "description": "Terminal status extensions for the Pi coding agent (tmux, Zed, Orca, Herdr)",
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-03T08:02:27Z",
+    "pushed_at": "2026-09-16T09:05:17Z",
+    "updated_at": "2026-09-16T09:05:20Z",
+    "size": 201,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

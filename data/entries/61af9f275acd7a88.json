@@ -1,0 +1,32 @@
+{
+  "id": "@dohmboy64bit/pi-qwizard",
+  "name": "@dohmboy64bit/pi-qwizard",
+  "url": "https://www.npmjs.com/package/@dohmboy64bit/pi-qwizard",
+  "source": "npm-search",
+  "description": "Interactive question tools for Pi — single questions, multi-step questionnaires with validation, conditional types, and open-ended input",
+  "metadata": {
+    "github_url": "https://github.com/DohmBoy64Bit/pi-qwizard",
+    "npm_name": "@dohmboy64bit/pi-qwizard",
+    "description": "Interactive question tools for Pi — single questions, multi-step questionnaires with validation, conditional types, and open-ended input",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "questions",
+      "qna",
+      "wizard",
+      "questionnaire",
+      "interactive",
+      "tui"
+    ],
+    "version": "1.7.1",
+    "published_at": "2026-09-15T13:15:45.779Z",
+    "npm_downloads_monthly": 1161,
+    "npm_downloads_weekly": 1161,
+    "npm_score_final": 21.73346,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

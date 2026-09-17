@@ -1,0 +1,27 @@
+{
+  "id": "@shreyashp7/noti-pi",
+  "name": "@shreyashp7/noti-pi",
+  "url": "https://www.npmjs.com/package/@shreyashp7/noti-pi",
+  "source": "npm-search",
+  "description": "pi extension: desktop notification when the agent finishes (Linux, notify-send + xdotool focus gate)",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@shreyashp7/noti-pi",
+    "description": "pi extension: desktop notification when the agent finishes (Linux, notify-send + xdotool focus gate)",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "notifications"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-09T17:45:34.090Z",
+    "npm_downloads_monthly": 86,
+    "npm_downloads_weekly": 86,
+    "npm_score_final": 13.938007,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
