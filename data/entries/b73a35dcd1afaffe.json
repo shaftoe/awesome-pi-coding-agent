@@ -1,0 +1,25 @@
+{
+  "id": "@yosuang/pi-agent-stuff",
+  "name": "@yosuang/pi-agent-stuff",
+  "url": "https://www.npmjs.com/package/@yosuang/pi-agent-stuff",
+  "source": "npm-search",
+  "description": "Small, general-purpose Pi extensions and skills from Water.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@yosuang/pi-agent-stuff",
+    "description": "Small, general-purpose Pi extensions and skills from Water.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.0.1",
+    "published_at": "2026-09-10T23:54:18.486Z",
+    "npm_downloads_monthly": 97,
+    "npm_downloads_weekly": 97,
+    "npm_score_final": 14.216098,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

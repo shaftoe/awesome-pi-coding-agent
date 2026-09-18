@@ -9,7 +9,7 @@
     "repo_full_name": "vastsa/PI-Desktop-Legacy",
     "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
     "stars": 4,
-    "forks": 1,
+    "forks": 2,
     "open_issues": 1,
     "topics": [
       "ai-agent",

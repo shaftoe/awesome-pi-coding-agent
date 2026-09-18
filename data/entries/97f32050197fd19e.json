@@ -1,0 +1,33 @@
+{
+  "id": "@pi-unipi/kanboard",
+  "name": "@pi-unipi/kanboard",
+  "url": "https://www.npmjs.com/package/@pi-unipi/kanboard",
+  "source": "npm-search",
+  "description": "Visualization layer for unipi workflow — HTTP server with htmx/Alpine.js UI, modular parsers, TUI overlay, and kanban board",
+  "metadata": {
+    "github_url": "https://github.com/Neuron-Mr-White/unipi",
+    "npm_name": "@pi-unipi/kanboard",
+    "description": "Visualization layer for unipi workflow — HTTP server with htmx/Alpine.js UI, modular parsers, TUI overlay, and kanban board",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "unipi",
+      "kanboard",
+      "kanban",
+      "visualization",
+      "milestones",
+      "workflow"
+    ],
+    "version": "2.20.3",
+    "published_at": "2026-09-17T10:21:19.598Z",
+    "npm_downloads_monthly": 2858,
+    "npm_downloads_weekly": 231,
+    "npm_score_final": 26.470182,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "@touchtechclub/pi-oc-web-tools",
+  "name": "@touchtechclub/pi-oc-web-tools",
+  "url": "https://www.npmjs.com/package/@touchtechclub/pi-oc-web-tools",
+  "source": "npm-search",
+  "description": "Pi coding-agent extension: web fetch and web search tools with MCP transport. Opencode-inspired.",
+  "metadata": {
+    "github_url": "https://github.com/TouchTechClub/pi-toolkit",
+    "npm_name": "@touchtechclub/pi-oc-web-tools",
+    "description": "Pi coding-agent extension: web fetch and web search tools with MCP transport. Opencode-inspired.",
+    "keywords": [
+      "pi-coding-agent",
+      "pi-package",
+      "pi-extension",
+      "opencode",
+      "web",
+      "webfetch",
+      "websearch",
+      "mcp"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-07-06T05:28:36.987Z",
+    "npm_downloads_monthly": 50,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 14.157773,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

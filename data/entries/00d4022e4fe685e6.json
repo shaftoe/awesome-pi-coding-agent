@@ -1,0 +1,28 @@
+{
+  "id": "@tifan/pi-copy-response",
+  "name": "@tifan/pi-copy-response",
+  "url": "https://www.npmjs.com/package/@tifan/pi-copy-response",
+  "source": "npm-search",
+  "description": "Pick and copy an assistant response from the current pi session.",
+  "metadata": {
+    "github_url": "https://github.com/tifandotme/pi-extensions",
+    "npm_name": "@tifan/pi-copy-response",
+    "description": "Pick and copy an assistant response from the current pi session.",
+    "keywords": [
+      "clipboard",
+      "pi",
+      "pi-extension",
+      "pi-package"
+    ],
+    "version": "0.2.7",
+    "published_at": "2026-09-14T12:35:22.516Z",
+    "npm_downloads_monthly": 200,
+    "npm_downloads_weekly": 95,
+    "npm_score_final": 16.814318,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

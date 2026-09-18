@@ -1,0 +1,30 @@
+{
+  "id": "@xzzpig/pi-context-cap",
+  "name": "@xzzpig/pi-context-cap",
+  "url": "https://www.npmjs.com/package/@xzzpig/pi-context-cap",
+  "source": "npm-search",
+  "description": "Extension for the pi coding agent: enforce a context token budget (defaulting to the model's configured context window; 200k when unknown) by forcing compaction, including mid-turn during long tool loops, instead of riding long-context models up to their",
+  "metadata": {
+    "github_url": "https://github.com/xzzpig/pi-extensions",
+    "npm_name": "@xzzpig/pi-context-cap",
+    "description": "Extension for the pi coding agent: enforce a context token budget (defaulting to the model's configured context window; 200k when unknown) by forcing compaction, including mid-turn during long tool loops, instead of riding long-context models up to their ",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "context-window",
+      "compaction",
+      "context-management"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-09-06T14:10:22.236Z",
+    "npm_downloads_monthly": 452,
+    "npm_downloads_weekly": 201,
+    "npm_score_final": 18.906996,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

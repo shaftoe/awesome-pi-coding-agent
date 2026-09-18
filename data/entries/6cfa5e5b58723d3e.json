@@ -1,0 +1,30 @@
+{
+  "id": "pi-multi-research",
+  "name": "pi-multi-research",
+  "url": "https://www.npmjs.com/package/pi-multi-research",
+  "source": "npm-search",
+  "description": "Pi skill: multi-model cross-checked research — dispatch several researchers on different models in parallel for the same question, then an oracle cross-checks and merges them into one Chinese analysis report with comparison, conflicts, source adjudication",
+  "metadata": {
+    "github_url": "https://github.com/the-ultra-nexus/pi-packages",
+    "npm_name": "pi-multi-research",
+    "description": "Pi skill: multi-model cross-checked research — dispatch several researchers on different models in parallel for the same question, then an oracle cross-checks and merges them into one Chinese analysis report with comparison, conflicts, source adjudication",
+    "keywords": [
+      "pi-package",
+      "pi-skill",
+      "research",
+      "multi-model",
+      "oracle",
+      "cross-check"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-09-06T15:30:12.071Z",
+    "npm_downloads_monthly": 251,
+    "npm_downloads_weekly": 251,
+    "npm_score_final": 16.549511,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

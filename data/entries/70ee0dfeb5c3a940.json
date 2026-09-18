@@ -1,0 +1,33 @@
+{
+  "id": "@maheidem/pi-audio-transcribe",
+  "name": "@maheidem/pi-audio-transcribe",
+  "url": "https://www.npmjs.com/package/@maheidem/pi-audio-transcribe",
+  "source": "npm-search",
+  "description": "Pi extension: transcribe audio with oMLX STT (Qwen3-ASR), validate the speech, and persist a JSON transcript sidecar beside each audio file.",
+  "metadata": {
+    "github_url": "https://github.com/Maheidem/pi-coder-management",
+    "npm_name": "@maheidem/pi-audio-transcribe",
+    "description": "Pi extension: transcribe audio with oMLX STT (Qwen3-ASR), validate the speech, and persist a JSON transcript sidecar beside each audio file.",
+    "keywords": [
+      "pi-package",
+      "extension",
+      "speech-to-text",
+      "stt",
+      "asr",
+      "omlx",
+      "qwen3-asr",
+      "mlx",
+      "transcription"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-09-10T22:42:08.387Z",
+    "npm_downloads_monthly": 252,
+    "npm_downloads_weekly": 252,
+    "npm_score_final": 16.828093,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

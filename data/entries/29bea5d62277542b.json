@@ -1,0 +1,29 @@
+{
+  "id": "@diegopetrucci/pi-openai-fast",
+  "name": "@diegopetrucci/pi-openai-fast",
+  "url": "https://www.npmjs.com/package/@diegopetrucci/pi-openai-fast",
+  "source": "npm-search",
+  "description": "A pi extension that enables OpenAI Codex Fast mode for ChatGPT-auth GPT-5.5 and GPT-5.6 Codex variants by injecting the priority service tier.",
+  "metadata": {
+    "github_url": "https://github.com/diegopetrucci/pi-extensions",
+    "npm_name": "@diegopetrucci/pi-openai-fast",
+    "description": "A pi extension that enables OpenAI Codex Fast mode for ChatGPT-auth GPT-5.5 and GPT-5.6 Codex variants by injecting the priority service tier.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "openai",
+      "codex",
+      "fast"
+    ],
+    "version": "0.1.17",
+    "published_at": "2026-09-01T16:53:11.775Z",
+    "npm_downloads_monthly": 5113,
+    "npm_downloads_weekly": 156,
+    "npm_score_final": 28.588276,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pi-red-green",
+  "name": "pi-red-green",
+  "url": "https://www.npmjs.com/package/pi-red-green",
+  "source": "npm-search",
+  "description": "A Pi extension that enforces Test-Driven Development (RED-GREEN-REFACTOR) discipline during agent coding sessions.",
+  "metadata": {
+    "github_url": "https://github.com/MattDevy/pi-extensions",
+    "npm_name": "pi-red-green",
+    "description": "A Pi extension that enforces Test-Driven Development (RED-GREEN-REFACTOR) discipline during agent coding sessions.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "tdd",
+      "red-green-refactor",
+      "test-driven-development",
+      "ai",
+      "llm",
+      "ai-agent",
+      "coding-assistant",
+      "developer-tools"
+    ],
+    "version": "0.2.2",
+    "published_at": "2026-05-14T10:40:07.530Z",
+    "npm_downloads_monthly": 105,
+    "npm_downloads_weekly": 17,
+    "npm_score_final": 13.707289,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

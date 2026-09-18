@@ -1,0 +1,31 @@
+{
+  "id": "@yceachan/pi-better-mermaid",
+  "name": "@yceachan/pi-better-mermaid",
+  "url": "https://www.npmjs.com/package/@yceachan/pi-better-mermaid",
+  "source": "npm-search",
+  "description": "pi extension + skill: the writing-mermaid rules bundled as the better-mermaid skill, gated by an mmdc validation tool — deliver a diagram, get structured errors, fix, repeat (3 strikes)",
+  "metadata": {
+    "github_url": "https://github.com/yceachan/ea-pi-extensions",
+    "npm_name": "@yceachan/pi-better-mermaid",
+    "description": "pi extension + skill: the writing-mermaid rules bundled as the better-mermaid skill, gated by an mmdc validation tool — deliver a diagram, get structured errors, fix, repeat (3 strikes)",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "mermaid",
+      "mmdc",
+      "diagram",
+      "validation"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-08-14T17:16:14.852Z",
+    "npm_downloads_monthly": 330,
+    "npm_downloads_weekly": 9,
+    "npm_score_final": 17.816263,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "@spences10/pi-lsp",
+  "name": "@spences10/pi-lsp",
+  "url": "https://www.npmjs.com/package/@spences10/pi-lsp",
+  "source": "npm-search",
+  "description": "Language Server Protocol tools for Pi agents to inspect diagnostics, hovers, definitions, references, and symbols",
+  "metadata": {
+    "github_url": "https://github.com/spences10/my-pi",
+    "npm_name": "@spences10/pi-lsp",
+    "description": "Language Server Protocol tools for Pi agents to inspect diagnostics, hovers, definitions, references, and symbols",
+    "keywords": [
+      "language-server",
+      "lsp",
+      "pi",
+      "pi-package"
+    ],
+    "version": "0.0.47",
+    "published_at": "2026-09-12T17:48:12.256Z",
+    "npm_downloads_monthly": 1047,
+    "npm_downloads_weekly": 53,
+    "npm_score_final": 21.754942,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

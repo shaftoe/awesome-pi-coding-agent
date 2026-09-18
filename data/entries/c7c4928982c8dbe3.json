@@ -1,0 +1,31 @@
+{
+  "id": "@getpipher/design",
+  "name": "@getpipher/design",
+  "url": "https://www.npmjs.com/package/@getpipher/design",
+  "source": "npm-search",
+  "description": "UI/UX analysis skill — analyze any website's design and generate AI-friendly prompts (read-only, safe anywhere).",
+  "metadata": {
+    "github_url": "https://github.com/getpipher/skills",
+    "npm_name": "@getpipher/design",
+    "description": "UI/UX analysis skill — analyze any website's design and generate AI-friendly prompts (read-only, safe anywhere).",
+    "keywords": [
+      "pi-package",
+      "pi-skills",
+      "design",
+      "ui",
+      "ux",
+      "analysis",
+      "prompts"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-09-09T02:50:10.669Z",
+    "npm_downloads_monthly": 188,
+    "npm_downloads_weekly": 161,
+    "npm_score_final": 15.684999,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "@herbertgao/resume-from",
+  "name": "@herbertgao/resume-from",
+  "url": "https://www.npmjs.com/package/@herbertgao/resume-from",
+  "source": "npm-search",
+  "description": "Continue a coding session in a different agent, or a different profile.",
+  "metadata": {
+    "github_url": "https://github.com/HerbertGao/pi-extensions",
+    "npm_name": "@herbertgao/resume-from",
+    "description": "Continue a coding session in a different agent, or a different profile.",
+    "keywords": [
+      "pi-package",
+      "coding-agent",
+      "session-handoff",
+      "claude-code",
+      "codex"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-24T10:29:25.657Z",
+    "npm_downloads_monthly": 183,
+    "npm_downloads_weekly": 16,
+    "npm_score_final": 15.72695,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "@villoh/pi-skills-manager",
+  "name": "@villoh/pi-skills-manager",
+  "url": "https://www.npmjs.com/package/@villoh/pi-skills-manager",
+  "source": "npm-search",
+  "description": "Interactive /skills selector for enabling and disabling Pi skills.",
+  "metadata": {
+    "github_url": "https://github.com/Villoh/pi-extensions",
+    "npm_name": "@villoh/pi-skills-manager",
+    "description": "Interactive /skills selector for enabling and disabling Pi skills.",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.0.3",
+    "published_at": "2026-08-26T17:58:07.622Z",
+    "npm_downloads_monthly": 290,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 18.156803,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

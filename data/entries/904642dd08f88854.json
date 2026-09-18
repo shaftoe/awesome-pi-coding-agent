@@ -1,0 +1,29 @@
+{
+  "id": "@ian-pascoe/pi-bible-verses",
+  "name": "@ian-pascoe/pi-bible-verses",
+  "url": "https://www.npmjs.com/package/@ian-pascoe/pi-bible-verses",
+  "source": "npm-search",
+  "description": "Offline Bible passages for Pi working messages",
+  "metadata": {
+    "github_url": "https://github.com/ian-pascoe/pi-extensions",
+    "npm_name": "@ian-pascoe/pi-bible-verses",
+    "description": "Offline Bible passages for Pi working messages",
+    "keywords": [
+      "bible",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "working-message"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-08-26T14:01:38.601Z",
+    "npm_downloads_monthly": 708,
+    "npm_downloads_weekly": 31,
+    "npm_score_final": 20.149666,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

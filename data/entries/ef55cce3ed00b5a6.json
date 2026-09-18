@@ -1,0 +1,33 @@
+{
+  "id": "@juicesharp/rpiv-args",
+  "name": "@juicesharp/rpiv-args",
+  "url": "https://www.npmjs.com/package/@juicesharp/rpiv-args",
+  "source": "npm-search",
+  "description": "Pi extension. Shell-style $1 / $ARGUMENTS placeholders and !`cmd` / ```! shell substitution, expanded into your Pi skills at invocation.",
+  "metadata": {
+    "github_url": "https://github.com/juicesharp/rpiv-mono",
+    "npm_name": "@juicesharp/rpiv-args",
+    "description": "Pi extension. Shell-style $1 / $ARGUMENTS placeholders and !`cmd` / ```! shell substitution, expanded into your Pi skills at invocation.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "rpiv",
+      "skills",
+      "arguments",
+      "shell",
+      "shell-substitution",
+      "backtick",
+      "prompt"
+    ],
+    "version": "2.10.1",
+    "published_at": "2026-09-13T12:12:54.032Z",
+    "npm_downloads_monthly": 5364,
+    "npm_downloads_weekly": 412,
+    "npm_score_final": 26.949215,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

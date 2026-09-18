@@ -1,0 +1,32 @@
+{
+  "id": "@arvoretech/pi-design-copilot",
+  "name": "@arvoretech/pi-design-copilot",
+  "url": "https://www.npmjs.com/package/@arvoretech/pi-design-copilot",
+  "source": "npm-search",
+  "description": "PI extension that makes the model much better at Árvore UI work: searchable icon index (find_icon), brand asset registry (find_asset), and a design review that looks at the rendered screen and reports at most three findings — or nothing. Data (icon manife",
+  "metadata": {
+    "github_url": "https://github.com/arvoreeducacao/arvore-pi-extensions",
+    "npm_name": "@arvoretech/pi-design-copilot",
+    "description": "PI extension that makes the model much better at Árvore UI work: searchable icon index (find_icon), brand asset registry (find_asset), and a design review that looks at the rendered screen and reports at most three findings — or nothing. Data (icon manife",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "design",
+      "design-system",
+      "bonsai",
+      "icons",
+      "heuristics"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-08-13T16:43:19.478Z",
+    "npm_downloads_monthly": 177,
+    "npm_downloads_weekly": 4,
+    "npm_score_final": 15.3414755,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "@inobit/pi-themes",
+  "name": "@inobit/pi-themes",
+  "url": "https://www.npmjs.com/package/@inobit/pi-themes",
+  "source": "npm-search",
+  "description": "Curated themes for the Pi coding agent: Rosé Pine (dawn/main), Tokyonight (day/night), Catppuccin (latte/frappé/macchiato/mocha) and Solarized (light/dark) — light & dark variants ready for automatic terminal-following switching.",
+  "metadata": {
+    "github_url": "https://github.com/inobit/pi-packages",
+    "npm_name": "@inobit/pi-themes",
+    "description": "Curated themes for the Pi coding agent: Rosé Pine (dawn/main), Tokyonight (day/night), Catppuccin (latte/frappé/macchiato/mocha) and Solarized (light/dark) — light & dark variants ready for automatic terminal-following switching.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-theme",
+      "pi-coding-agent",
+      "theme",
+      "rosepine",
+      "tokyonight",
+      "catppuccin",
+      "solarized"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-22T02:04:48.871Z",
+    "npm_downloads_monthly": 485,
+    "npm_downloads_weekly": 42,
+    "npm_score_final": 18.971117,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

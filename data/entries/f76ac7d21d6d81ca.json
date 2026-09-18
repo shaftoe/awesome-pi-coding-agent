@@ -1,0 +1,28 @@
+{
+  "id": "@henryqw/pi-config-store",
+  "name": "@henryqw/pi-config-store",
+  "url": "https://www.npmjs.com/package/@henryqw/pi-config-store",
+  "source": "npm-search",
+  "description": "Safe JSON configuration storage for Pi extensions.",
+  "metadata": {
+    "github_url": "https://github.com/HenryQW/pi-harness",
+    "npm_name": "@henryqw/pi-config-store",
+    "description": "Safe JSON configuration storage for Pi extensions.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "config",
+      "storage"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-09-08T09:42:52.781Z",
+    "npm_downloads_monthly": 2744,
+    "npm_downloads_weekly": 1288,
+    "npm_score_final": 24.791119,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

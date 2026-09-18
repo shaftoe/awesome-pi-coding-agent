@@ -1,0 +1,28 @@
+{
+  "id": "@pi-unipi/trajectory",
+  "name": "@pi-unipi/trajectory",
+  "url": "https://www.npmjs.com/package/@pi-unipi/trajectory",
+  "source": "npm-search",
+  "description": "Live UniPi trajectory inspector for Pi sessions",
+  "metadata": {
+    "github_url": "https://github.com/Neuron-Mr-White/unipi",
+    "npm_name": "@pi-unipi/trajectory",
+    "description": "Live UniPi trajectory inspector for Pi sessions",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "trajectory",
+      "observability"
+    ],
+    "version": "2.20.3",
+    "published_at": "2026-09-17T10:24:30.489Z",
+    "npm_downloads_monthly": 1814,
+    "npm_downloads_weekly": 222,
+    "npm_score_final": 23.661383,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "@oipsanthony/pi-model-roles",
+  "name": "@oipsanthony/pi-model-roles",
+  "url": "https://www.npmjs.com/package/@oipsanthony/pi-model-roles",
+  "source": "npm-search",
+  "description": "Shared model role resolution and optional role cycling for Pi extensions.",
+  "metadata": {
+    "github_url": "https://github.com/OiAnthony/pi-extensions",
+    "npm_name": "@oipsanthony/pi-model-roles",
+    "description": "Shared model role resolution and optional role cycling for Pi extensions.",
+    "keywords": [
+      "pi-package",
+      "model-roles",
+      "model-selection"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-26T03:49:29.624Z",
+    "npm_downloads_monthly": 704,
+    "npm_downloads_weekly": 27,
+    "npm_score_final": 20.13028,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

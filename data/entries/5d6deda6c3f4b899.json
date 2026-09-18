@@ -1,0 +1,32 @@
+{
+  "id": "@mrclrchtr/supi-review",
+  "name": "@mrclrchtr/supi-review",
+  "url": "https://www.npmjs.com/package/@mrclrchtr/supi-review",
+  "source": "npm-search",
+  "description": "Parallel inspection-only reviews of exact Git targets",
+  "metadata": {
+    "github_url": "https://github.com/mrclrchtr/supi",
+    "npm_name": "@mrclrchtr/supi-review",
+    "description": "Parallel inspection-only reviews of exact Git targets",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "code-review",
+      "review",
+      "llm-review",
+      "tui"
+    ],
+    "version": "7.1.0",
+    "published_at": "2026-09-16T23:56:17.210Z",
+    "npm_downloads_monthly": 1395,
+    "npm_downloads_weekly": 156,
+    "npm_score_final": 22.609276,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "@ifi/pi-shared-qna",
+  "name": "@ifi/pi-shared-qna",
+  "url": "https://www.npmjs.com/package/@ifi/pi-shared-qna",
+  "source": "npm-search",
+  "description": "Shared TUI question-and-answer component for pi extensions.",
+  "metadata": {
+    "github_url": "https://github.com/ifiokjr/oh-pi",
+    "npm_name": "@ifi/pi-shared-qna",
+    "description": "Shared TUI question-and-answer component for pi extensions.",
+    "keywords": [
+      "components",
+      "extension-library",
+      "pi",
+      "pi-coding-agent",
+      "qna",
+      "tui"
+    ],
+    "version": "0.5.1",
+    "published_at": "2026-04-28T05:50:21.332Z",
+    "npm_downloads_monthly": 170,
+    "npm_downloads_weekly": 59,
+    "npm_score_final": 20.049742,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

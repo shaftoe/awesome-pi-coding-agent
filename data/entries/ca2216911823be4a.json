@@ -1,0 +1,29 @@
+{
+  "id": "@pithos-kit/translate",
+  "name": "@pithos-kit/translate",
+  "url": "https://www.npmjs.com/package/@pithos-kit/translate",
+  "source": "npm-search",
+  "description": "Translate interactive input into English and assistant output into a chosen language for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/anton-kochev/pithos-kit",
+    "npm_name": "@pithos-kit/translate",
+    "description": "Translate interactive input into English and assistant output into a chosen language for Pi.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pithos",
+      "translation",
+      "i18n"
+    ],
+    "version": "2.0.0",
+    "published_at": "2026-09-04T18:42:28.588Z",
+    "npm_downloads_monthly": 489,
+    "npm_downloads_weekly": 192,
+    "npm_score_final": 18.816593,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

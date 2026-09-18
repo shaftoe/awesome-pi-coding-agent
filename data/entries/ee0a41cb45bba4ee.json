@@ -1,0 +1,30 @@
+{
+  "id": "@narumitw/pi-langfuse",
+  "name": "@narumitw/pi-langfuse",
+  "url": "https://www.npmjs.com/package/@narumitw/pi-langfuse",
+  "source": "npm-search",
+  "description": "Pi extension that traces LLM generations and tool activity to Langfuse.",
+  "metadata": {
+    "github_url": "https://github.com/narumiruna/pi-extensions",
+    "npm_name": "@narumitw/pi-langfuse",
+    "description": "Pi extension that traces LLM generations and tool activity to Langfuse.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "langfuse",
+      "observability",
+      "tracing"
+    ],
+    "version": "0.50.6",
+    "published_at": "2026-09-12T15:04:49.938Z",
+    "npm_downloads_monthly": 1434,
+    "npm_downloads_weekly": 19,
+    "npm_score_final": 22.48593,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

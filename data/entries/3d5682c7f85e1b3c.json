@@ -1,0 +1,28 @@
+{
+  "id": "@xynogen/pix-todo",
+  "name": "@xynogen/pix-todo",
+  "url": "https://www.npmjs.com/package/@xynogen/pix-todo",
+  "source": "npm-search",
+  "description": "Pi tool — durable execution checklist (todo)",
+  "metadata": {
+    "github_url": "https://github.com/xynogen/pix-mono",
+    "npm_name": "@xynogen/pix-todo",
+    "description": "Pi tool — durable execution checklist (todo)",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "todo"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-09-11T19:15:51.432Z",
+    "npm_downloads_monthly": 1699,
+    "npm_downloads_weekly": 158,
+    "npm_score_final": 23.147715,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

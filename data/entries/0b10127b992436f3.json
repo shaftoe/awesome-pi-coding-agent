@@ -1,0 +1,30 @@
+{
+  "id": "@indexyz/pi-custom-provider",
+  "name": "@indexyz/pi-custom-provider",
+  "url": "https://www.npmjs.com/package/@indexyz/pi-custom-provider",
+  "source": "npm-search",
+  "description": "A generic pi provider extension for OpenAI-compatible, Anthropic-compatible, OpenAI Responses, and Ollama chat endpoints",
+  "metadata": {
+    "github_url": "https://github.com/5aaee9/pi-agent-extensions",
+    "npm_name": "@indexyz/pi-custom-provider",
+    "description": "A generic pi provider extension for OpenAI-compatible, Anthropic-compatible, OpenAI Responses, and Ollama chat endpoints",
+    "keywords": [
+      "anthropic",
+      "llm",
+      "openai",
+      "pi",
+      "pi-package",
+      "provider"
+    ],
+    "version": "0.1.35",
+    "published_at": "2026-09-15T06:45:48.382Z",
+    "npm_downloads_monthly": 749,
+    "npm_downloads_weekly": 749,
+    "npm_score_final": 20.418806,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

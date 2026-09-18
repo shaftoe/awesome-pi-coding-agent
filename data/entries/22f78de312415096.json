@@ -1,0 +1,32 @@
+{
+  "id": "@dihak/pix-display",
+  "name": "@dihak/pix-display",
+  "url": "https://www.npmjs.com/package/@dihak/pix-display",
+  "source": "npm-search",
+  "description": "Pi core extension — paste chips, fuzzy file complete, thinking blocks, and framed code rendering",
+  "metadata": {
+    "github_url": "https://github.com/dihak/pix-mono",
+    "npm_name": "@dihak/pix-display",
+    "description": "Pi core extension — paste chips, fuzzy file complete, thinking blocks, and framed code rendering",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "paste-chips",
+      "thinking",
+      "code-rendering",
+      "syntax-highlighting",
+      "display"
+    ],
+    "version": "0.1.13",
+    "published_at": "2026-08-12T02:49:15.692Z",
+    "npm_downloads_monthly": 113,
+    "npm_downloads_weekly": 39,
+    "npm_score_final": 13.955635,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

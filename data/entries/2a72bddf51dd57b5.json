@@ -1,0 +1,36 @@
+{
+  "id": "@qusic/pi-copilot-sync",
+  "name": "@qusic/pi-copilot-sync",
+  "url": "https://www.npmjs.com/package/@qusic/pi-copilot-sync",
+  "source": "npm-search",
+  "description": "Sync live GitHub Copilot model capabilities into Pi.",
+  "metadata": {
+    "github_url": "https://github.com/Qusic/pi-extensions",
+    "npm_name": "@qusic/pi-copilot-sync",
+    "description": "Sync live GitHub Copilot model capabilities into Pi.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "github-copilot",
+      "copilot",
+      "models",
+      "model-discovery",
+      "model-catalog",
+      "context-window",
+      "reasoning",
+      "provider"
+    ],
+    "version": "0.20260915.0",
+    "published_at": "2026-09-15T06:07:32.584Z",
+    "npm_downloads_monthly": 84,
+    "npm_downloads_weekly": 84,
+    "npm_score_final": 16.343966,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

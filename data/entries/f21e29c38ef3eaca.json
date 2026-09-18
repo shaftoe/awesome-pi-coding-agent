@@ -1,0 +1,32 @@
+{
+  "id": "pi-skill-manager",
+  "name": "pi-skill-manager",
+  "url": "https://www.npmjs.com/package/pi-skill-manager",
+  "source": "npm-search",
+  "description": "A /skills browser for Pi that toggles a skill between visible and hidden by writing disable-model-invocation into its SKILL.md frontmatter, keeping it loadable on demand while it is out of the system prompt.",
+  "metadata": {
+    "github_url": "https://github.com/Mattschoe/pi-extensions",
+    "npm_name": "pi-skill-manager",
+    "description": "A /skills browser for Pi that toggles a skill between visible and hidden by writing disable-model-invocation into its SKILL.md frontmatter, keeping it loadable on demand while it is out of the system prompt.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "skills",
+      "system-prompt",
+      "tui"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-10T13:48:01.106Z",
+    "npm_downloads_monthly": 63,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 15.423368,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

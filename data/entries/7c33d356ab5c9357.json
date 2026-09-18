@@ -1,0 +1,29 @@
+{
+  "id": "@yassimba/pi-loom-mermaid",
+  "name": "@yassimba/pi-loom-mermaid",
+  "url": "https://www.npmjs.com/package/@yassimba/pi-loom-mermaid",
+  "source": "npm-search",
+  "description": "Loom's advanced Mermaid renderer for Pi, with better routing and color.",
+  "metadata": {
+    "github_url": "https://github.com/Yassimba/loom",
+    "npm_name": "@yassimba/pi-loom-mermaid",
+    "description": "Loom's advanced Mermaid renderer for Pi, with better routing and color.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "mermaid",
+      "terminal"
+    ],
+    "version": "0.7.0",
+    "published_at": "2026-09-14T17:24:07.196Z",
+    "npm_downloads_monthly": 393,
+    "npm_downloads_weekly": 393,
+    "npm_score_final": 18.137556,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pi-rakit-session-delete",
+  "name": "pi-rakit-session-delete",
+  "url": "https://www.npmjs.com/package/pi-rakit-session-delete",
+  "source": "npm-search",
+  "description": "Interactively delete saved Pi sessions with confirmation",
+  "metadata": {
+    "github_url": "https://github.com/4nndmw/pi-rakit",
+    "npm_name": "pi-rakit-session-delete",
+    "description": "Interactively delete saved Pi sessions with confirmation",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "extension",
+      "session",
+      "delete"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-03T00:36:12.223Z",
+    "npm_downloads_monthly": 23,
+    "npm_downloads_weekly": 15,
+    "npm_score_final": 11.085134,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

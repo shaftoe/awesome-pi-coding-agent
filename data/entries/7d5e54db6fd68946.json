@@ -1,0 +1,34 @@
+{
+  "id": "@pithos-kit/atlas",
+  "name": "@pithos-kit/atlas",
+  "url": "https://www.npmjs.com/package/@pithos-kit/atlas",
+  "source": "npm-search",
+  "description": "Session names, catalog, diagnostics, configuration, and guarded Pi runtime patches for pithos-kit.",
+  "metadata": {
+    "github_url": "https://github.com/anton-kochev/pithos-kit",
+    "npm_name": "@pithos-kit/atlas",
+    "description": "Session names, catalog, diagnostics, configuration, and guarded Pi runtime patches for pithos-kit.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pithos",
+      "atlas",
+      "catalog",
+      "configuration",
+      "session-names",
+      "session-naming",
+      "runtime-patches",
+      "footer"
+    ],
+    "version": "0.8.1",
+    "published_at": "2026-09-03T20:54:33.938Z",
+    "npm_downloads_monthly": 867,
+    "npm_downloads_weekly": 76,
+    "npm_score_final": 21.169744,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

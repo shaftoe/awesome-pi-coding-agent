@@ -1,0 +1,34 @@
+{
+  "id": "@mporenta/pi-verifier-agent",
+  "name": "@mporenta/pi-verifier-agent",
+  "url": "https://www.npmjs.com/package/@mporenta/pi-verifier-agent",
+  "source": "npm-search",
+  "description": "Pi extension package for a read-only verifier agent that runs beside a builder session.",
+  "metadata": {
+    "github_url": "https://github.com/mporenta/pi-dev",
+    "npm_name": "@mporenta/pi-verifier-agent",
+    "description": "Pi extension package for a read-only verifier agent that runs beside a builder session.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "ai",
+      "agents",
+      "cli",
+      "verifier",
+      "review",
+      "quality"
+    ],
+    "version": "0.1.21",
+    "published_at": "2026-06-22T20:31:49.177Z",
+    "npm_downloads_monthly": 86,
+    "npm_downloads_weekly": 14,
+    "npm_score_final": 16.540527,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

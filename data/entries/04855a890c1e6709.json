@@ -1,0 +1,28 @@
+{
+  "id": "@xynogen/pix-models",
+  "name": "@xynogen/pix-models",
+  "url": "https://www.npmjs.com/package/@xynogen/pix-models",
+  "source": "npm-search",
+  "description": "Pi extension — enhanced /models picker with BenchLM ranks",
+  "metadata": {
+    "github_url": "https://github.com/xynogen/pix-mono",
+    "npm_name": "@xynogen/pix-models",
+    "description": "Pi extension — enhanced /models picker with BenchLM ranks",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pix"
+    ],
+    "version": "0.2.6",
+    "published_at": "2026-09-11T19:17:24.115Z",
+    "npm_downloads_monthly": 1750,
+    "npm_downloads_weekly": 161,
+    "npm_score_final": 23.390997,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

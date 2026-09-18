@@ -1,0 +1,28 @@
+{
+  "id": "@sp1in/kimi-agent",
+  "name": "@sp1in/kimi-agent",
+  "url": "https://www.npmjs.com/package/@sp1in/kimi-agent",
+  "source": "npm-search",
+  "description": "Kimi CLI bridge — type /kimi, scan QR code, chat with Kimi from WeChat",
+  "metadata": {
+    "github_url": "https://github.com/corespeed-io/wechatbot",
+    "npm_name": "@sp1in/kimi-agent",
+    "description": "Kimi CLI bridge — type /kimi, scan QR code, chat with Kimi from WeChat",
+    "keywords": [
+      "pi-package",
+      "kimi",
+      "wechat",
+      "bridge"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-04-29T15:50:25.034Z",
+    "npm_downloads_monthly": 396,
+    "npm_downloads_weekly": 12,
+    "npm_score_final": 18.231823,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

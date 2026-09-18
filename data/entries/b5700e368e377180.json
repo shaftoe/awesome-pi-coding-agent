@@ -1,0 +1,30 @@
+{
+  "id": "@guygrigsby/pi-image-paste",
+  "name": "@guygrigsby/pi-image-paste",
+  "url": "https://www.npmjs.com/package/@guygrigsby/pi-image-paste",
+  "source": "npm-search",
+  "description": "Paste images from the Mac clipboard into pi running on a remote machine over ssh. A launchd socket service on the Mac serves the clipboard image; an ssh RemoteForward carries it; the extension fetches it on ctrl+v and attaches it like a native paste.",
+  "metadata": {
+    "github_url": "https://github.com/guygrigsby/pi-extensions",
+    "npm_name": "@guygrigsby/pi-image-paste",
+    "description": "Paste images from the Mac clipboard into pi running on a remote machine over ssh. A launchd socket service on the Mac serves the clipboard image; an ssh RemoteForward carries it; the extension fetches it on ctrl+v and attaches it like a native paste.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "clipboard",
+      "image",
+      "ssh"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-25T16:11:23.186Z",
+    "npm_downloads_monthly": 128,
+    "npm_downloads_weekly": 6,
+    "npm_score_final": 14.501292,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

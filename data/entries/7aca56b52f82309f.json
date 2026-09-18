@@ -1,0 +1,31 @@
+{
+  "id": "@iaziz786/pi-cmd-login",
+  "name": "@iaziz786/pi-cmd-login",
+  "url": "https://www.npmjs.com/package/@iaziz786/pi-cmd-login",
+  "source": "npm-search",
+  "description": "Pi extension that adds Command Code (commandcode.ai) as a model provider via its OpenAI-compatible chat completions API.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@iaziz786/pi-cmd-login",
+    "description": "Pi extension that adds Command Code (commandcode.ai) as a model provider via its OpenAI-compatible chat completions API.",
+    "keywords": [
+      "pi-package",
+      "extension",
+      "command-code",
+      "deepseek",
+      "kimi",
+      "glm",
+      "qwen"
+    ],
+    "version": "0.4.11",
+    "published_at": "2026-09-10T06:51:36.411Z",
+    "npm_downloads_monthly": 224,
+    "npm_downloads_weekly": 200,
+    "npm_score_final": 16.221624,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

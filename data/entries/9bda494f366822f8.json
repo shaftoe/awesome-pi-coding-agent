@@ -1,0 +1,28 @@
+{
+  "id": "@pi-orca/cleanup",
+  "name": "@pi-orca/cleanup",
+  "url": "https://www.npmjs.com/package/@pi-orca/cleanup",
+  "source": "npm-search",
+  "description": "Retention sweeps and orphan detection",
+  "metadata": {
+    "github_url": "https://github.com/binduwavell/pi-orca",
+    "npm_name": "@pi-orca/cleanup",
+    "description": "Retention sweeps and orphan detection",
+    "keywords": [
+      "pi-package",
+      "pi-orca",
+      "pi-agent",
+      "pi-extension"
+    ],
+    "version": "0.0.5",
+    "published_at": "2026-05-27T04:09:37.197Z",
+    "npm_downloads_monthly": 60,
+    "npm_downloads_weekly": 22,
+    "npm_score_final": 21.05689,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

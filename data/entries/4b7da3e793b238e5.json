@@ -1,0 +1,31 @@
+{
+  "id": "@wierdbytes/pi-anthropic",
+  "name": "@wierdbytes/pi-anthropic",
+  "url": "https://www.npmjs.com/package/@wierdbytes/pi-anthropic",
+  "source": "npm-search",
+  "description": "Claude Pro/Max OAuth extension for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/wierdbytes/pi-wierd-stuff",
+    "npm_name": "@wierdbytes/pi-anthropic",
+    "description": "Claude Pro/Max OAuth extension for the pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "extension",
+      "anthropic",
+      "claude",
+      "oauth"
+    ],
+    "version": "0.2.3",
+    "published_at": "2026-09-01T23:20:52.415Z",
+    "npm_downloads_monthly": 202,
+    "npm_downloads_weekly": 16,
+    "npm_score_final": 16.118933,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

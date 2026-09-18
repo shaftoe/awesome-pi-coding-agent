@@ -1,0 +1,29 @@
+{
+  "id": "@blackbelt-technology/pi-dashboard-session-distiller",
+  "name": "@blackbelt-technology/pi-dashboard-session-distiller",
+  "url": "https://www.npmjs.com/package/@blackbelt-technology/pi-dashboard-session-distiller",
+  "source": "npm-search",
+  "description": "Offline miner: distill reusable artifacts from pi session JSONL logs",
+  "metadata": {
+    "github_url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard",
+    "npm_name": "@blackbelt-technology/pi-dashboard-session-distiller",
+    "description": "Offline miner: distill reusable artifacts from pi session JSONL logs",
+    "keywords": [
+      "pi-package",
+      "pi-session",
+      "session-mining",
+      "knowledge-distillation",
+      "pi-dashboard"
+    ],
+    "version": "0.8.0",
+    "published_at": "2026-08-26T12:07:39.379Z",
+    "npm_downloads_monthly": 524,
+    "npm_downloads_weekly": 76,
+    "npm_score_final": 19.237076,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

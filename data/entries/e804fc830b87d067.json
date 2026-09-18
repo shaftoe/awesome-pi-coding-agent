@@ -6,7 +6,7 @@
   "description": "Pi Agent extension for stock analysis, screening, and strategy backtesting across A/HK/US markets",
   "metadata": {
     "github_url": "https://github.com/Weaxs/stock-analysis-plugin",
-    "npm_name": "stock-analysis-plugin",
+    "npm_name": "@weaxs/stock-analysis-plugin",
     "description": "Pi Agent extension for stock analysis, screening, and strategy backtesting across A/HK/US markets",
     "keywords": [
       "pi-agent",
@@ -31,10 +31,10 @@
       "tushare"
     ],
     "version": "0.1.15",
-    "published_at": "2026-09-16T15:37:00.980Z",
-    "npm_downloads_monthly": 572,
-    "npm_downloads_weekly": 204,
-    "npm_score_final": 32.525684,
+    "published_at": "2026-09-16T15:36:27.520Z",
+    "npm_downloads_monthly": 1135,
+    "npm_downloads_weekly": 302,
+    "npm_score_final": 35.95536,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

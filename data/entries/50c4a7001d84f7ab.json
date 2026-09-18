@@ -1,0 +1,29 @@
+{
+  "id": "@yishan-io/pi-codegraph",
+  "name": "@yishan-io/pi-codegraph",
+  "url": "https://www.npmjs.com/package/@yishan-io/pi-codegraph",
+  "source": "npm-search",
+  "description": "Pi extension exposing stable CodeGraph structural-code navigation tools.",
+  "metadata": {
+    "github_url": "https://github.com/yishan-io/yishan-mono",
+    "npm_name": "@yishan-io/pi-codegraph",
+    "description": "Pi extension exposing stable CodeGraph structural-code navigation tools.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "codegraph",
+      "code-navigation"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-21T09:30:42.461Z",
+    "npm_downloads_monthly": 167,
+    "npm_downloads_weekly": 3,
+    "npm_score_final": 15.169915,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

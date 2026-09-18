@@ -1,0 +1,31 @@
+{
+  "id": "@parke.dev/pi-github",
+  "name": "@parke.dev/pi-github",
+  "url": "https://www.npmjs.com/package/@parke.dev/pi-github",
+  "source": "npm-search",
+  "description": "GitHub pull requests, reviews, checks and issues for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/LukasParke/pi-extensions",
+    "npm_name": "@parke.dev/pi-github",
+    "description": "GitHub pull requests, reviews, checks and issues for the Pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "github",
+      "integration",
+      "extension",
+      "parke.dev"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-11T18:40:28.163Z",
+    "npm_downloads_monthly": 42,
+    "npm_downloads_weekly": 5,
+    "npm_score_final": 13.431854,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

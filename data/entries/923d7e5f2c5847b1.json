@@ -1,0 +1,31 @@
+{
+  "id": "@zigai/pi-keymap-tweaks",
+  "name": "@zigai/pi-keymap-tweaks",
+  "url": "https://www.npmjs.com/package/@zigai/pi-keymap-tweaks",
+  "source": "npm-search",
+  "description": "Pi package for opinionated editor and message-submit key tweaks.",
+  "metadata": {
+    "github_url": "https://github.com/zigai/pi-tweaks",
+    "npm_name": "@zigai/pi-keymap-tweaks",
+    "description": "Pi package for opinionated editor and message-submit key tweaks.",
+    "keywords": [
+      "keybindings",
+      "keymap",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "pi-tweaks"
+    ],
+    "version": "0.2.2",
+    "published_at": "2026-08-28T07:07:17.947Z",
+    "npm_downloads_monthly": 260,
+    "npm_downloads_weekly": 17,
+    "npm_score_final": 17.761835,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

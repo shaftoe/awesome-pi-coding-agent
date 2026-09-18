@@ -1,0 +1,30 @@
+{
+  "id": "@yceachan/pi-shelld",
+  "name": "@yceachan/pi-shelld",
+  "url": "https://www.npmjs.com/package/@yceachan/pi-shelld",
+  "source": "npm-search",
+  "description": "pi extension: session-scoped background shells with shell_daemon, a TUI monitor, and pi.events service discovery",
+  "metadata": {
+    "github_url": "https://github.com/yceachan/ea-pi-extensions",
+    "npm_name": "@yceachan/pi-shelld",
+    "description": "pi extension: session-scoped background shells with shell_daemon, a TUI monitor, and pi.events service discovery",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "shell",
+      "background-process",
+      "tui"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-08-31T17:18:51.566Z",
+    "npm_downloads_monthly": 450,
+    "npm_downloads_weekly": 24,
+    "npm_score_final": 18.670046,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

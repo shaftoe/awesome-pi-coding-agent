@@ -1,0 +1,30 @@
+{
+  "id": "@pi-unipi/info-screen",
+  "name": "@pi-unipi/info-screen",
+  "url": "https://www.npmjs.com/package/@pi-unipi/info-screen",
+  "source": "npm-search",
+  "description": "Dashboard and module registry for Unipi — configurable info overlay with tabbed groups",
+  "metadata": {
+    "github_url": "https://github.com/Neuron-Mr-White/unipi",
+    "npm_name": "@pi-unipi/info-screen",
+    "description": "Dashboard and module registry for Unipi — configurable info overlay with tabbed groups",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "unipi",
+      "info-screen",
+      "dashboard"
+    ],
+    "version": "2.20.3",
+    "published_at": "2026-09-17T10:25:07.305Z",
+    "npm_downloads_monthly": 4436,
+    "npm_downloads_weekly": 1535,
+    "npm_score_final": 26.852755,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

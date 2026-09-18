@@ -1,0 +1,35 @@
+{
+  "id": "@mattschoe/pi-plan",
+  "name": "@mattschoe/pi-plan",
+  "url": "https://www.npmjs.com/package/@mattschoe/pi-plan",
+  "source": "npm-search",
+  "description": "Plan mode, accept-edits mode, readable bash approval reasons, and plan execution tracking for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/Mattschoe/pi-extensions",
+    "npm_name": "@mattschoe/pi-plan",
+    "description": "Plan mode, accept-edits mode, readable bash approval reasons, and plan execution tracking for Pi.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "plan-mode",
+      "accept-edits",
+      "planning",
+      "todos",
+      "permissions",
+      "approval"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-09-11T08:37:44.947Z",
+    "npm_downloads_monthly": 147,
+    "npm_downloads_weekly": 13,
+    "npm_score_final": 15.70558,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

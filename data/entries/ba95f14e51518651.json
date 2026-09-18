@@ -1,0 +1,27 @@
+{
+  "id": "@nicknisi/pi-codemode",
+  "name": "@nicknisi/pi-codemode",
+  "url": "https://www.npmjs.com/package/@nicknisi/pi-codemode",
+  "source": "npm-search",
+  "description": "Execute model-written TypeScript that orchestrates subagents compositionally — one codemode tool over the first-party in-process runtime",
+  "metadata": {
+    "github_url": "https://github.com/nicknisi/pi-extensions",
+    "npm_name": "@nicknisi/pi-codemode",
+    "description": "Execute model-written TypeScript that orchestrates subagents compositionally — one codemode tool over the first-party in-process runtime",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-package"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-08-26T17:59:26.477Z",
+    "npm_downloads_monthly": 807,
+    "npm_downloads_weekly": 33,
+    "npm_score_final": 20.490562,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

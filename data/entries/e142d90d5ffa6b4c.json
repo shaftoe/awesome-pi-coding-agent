@@ -1,0 +1,25 @@
+{
+  "id": "@monopi/extension-goal",
+  "name": "@monopi/extension-goal",
+  "url": "https://www.npmjs.com/package/@monopi/extension-goal",
+  "source": "npm-search",
+  "description": "Monopi goal pi extension for long-running objectives.",
+  "metadata": {
+    "github_url": "https://github.com/ifiokjr/monopi",
+    "npm_name": "@monopi/extension-goal",
+    "description": "Monopi goal pi extension for long-running objectives.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.6.1",
+    "published_at": "2026-08-28T13:47:28.048Z",
+    "npm_downloads_monthly": 287,
+    "npm_downloads_weekly": 16,
+    "npm_score_final": 17.004385,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

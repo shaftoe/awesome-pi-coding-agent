@@ -1,0 +1,33 @@
+{
+  "id": "@blackbelt-technology/pi-dashboard-frontend-patterns",
+  "name": "@blackbelt-technology/pi-dashboard-frontend-patterns",
+  "url": "https://www.npmjs.com/package/@blackbelt-technology/pi-dashboard-frontend-patterns",
+  "source": "npm-search",
+  "description": "Frontend implementation-pattern skills for pi sessions — accessibility-a11y (WCAG, keyboard nav, focus, ARIA), component-architecture (reusable card/section/form/layout patterns), responsive-mobile-first (sticky headers, drawers, floating CTAs, touch), ta",
+  "metadata": {
+    "github_url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard",
+    "npm_name": "@blackbelt-technology/pi-dashboard-frontend-patterns",
+    "description": "Frontend implementation-pattern skills for pi sessions — accessibility-a11y (WCAG, keyboard nav, focus, ARIA), component-architecture (reusable card/section/form/layout patterns), responsive-mobile-first (sticky headers, drawers, floating CTAs, touch), ta",
+    "keywords": [
+      "pi-package",
+      "pi-skill",
+      "frontend",
+      "react",
+      "tailwind",
+      "shadcn",
+      "accessibility",
+      "typescript",
+      "forms"
+    ],
+    "version": "0.8.0",
+    "published_at": "2026-08-26T12:07:54.700Z",
+    "npm_downloads_monthly": 269,
+    "npm_downloads_weekly": 11,
+    "npm_score_final": 17.108713,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

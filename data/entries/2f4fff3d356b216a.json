@@ -1,0 +1,29 @@
+{
+  "id": "@handy_wote/pi-subagent",
+  "name": "@handy_wote/pi-subagent",
+  "url": "https://www.npmjs.com/package/@handy_wote/pi-subagent",
+  "source": "npm-search",
+  "description": "Persistent foreground and background subagents for pi",
+  "metadata": {
+    "github_url": "https://github.com/HandyWote/pi",
+    "npm_name": "@handy_wote/pi-subagent",
+    "description": "Persistent foreground and background subagents for pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "subagent",
+      "agent"
+    ],
+    "version": "0.4.3",
+    "published_at": "2026-08-28T09:54:17.517Z",
+    "npm_downloads_monthly": 756,
+    "npm_downloads_weekly": 17,
+    "npm_score_final": 20.62625,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

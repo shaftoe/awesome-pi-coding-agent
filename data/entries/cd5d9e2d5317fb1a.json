@@ -1,0 +1,29 @@
+{
+  "id": "@hank-warren/pi-plan-mode",
+  "name": "@hank-warren/pi-plan-mode",
+  "url": "https://www.npmjs.com/package/@hank-warren/pi-plan-mode",
+  "source": "npm-search",
+  "description": "Plan mode for Pi: research and design with a durable plan file that survives compaction.",
+  "metadata": {
+    "github_url": "https://github.com/hank-warren/pi-extensions",
+    "npm_name": "@hank-warren/pi-plan-mode",
+    "description": "Plan mode for Pi: research and design with a durable plan file that survives compaction.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "plan-mode",
+      "planning"
+    ],
+    "version": "1.8.0",
+    "published_at": "2026-09-10T19:32:35.445Z",
+    "npm_downloads_monthly": 2080,
+    "npm_downloads_weekly": 498,
+    "npm_score_final": 23.930885,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "@vanillagreen/pi-output-policy",
+  "name": "@vanillagreen/pi-output-policy",
+  "url": "https://www.npmjs.com/package/@vanillagreen/pi-output-policy",
+  "source": "npm-search",
+  "description": "Large-output policy for Pi: runaway model-output guards plus tool-result minimization, truncation, and spill preservation.",
+  "metadata": {
+    "github_url": "https://github.com/vanillagreencom/kendex",
+    "npm_name": "@vanillagreen/pi-output-policy",
+    "description": "Large-output policy for Pi: runaway model-output guards plus tool-result minimization, truncation, and spill preservation.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "truncation",
+      "output"
+    ],
+    "version": "2.0.1",
+    "published_at": "2026-09-06T05:25:56.366Z",
+    "npm_downloads_monthly": 639,
+    "npm_downloads_weekly": 207,
+    "npm_score_final": 20.109152,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

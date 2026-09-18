@@ -10,7 +10,7 @@
     "description": "Read-only Pi Agent code review plugin for DeepSeek Harness",
     "stars": 2,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "code-review",
       "deepseek-harness",
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-08-23T06:38:31Z",
     "pushed_at": "2026-08-23T11:20:25Z",
-    "updated_at": "2026-08-26T14:17:33Z",
+    "updated_at": "2026-09-17T02:21:29Z",
     "size": 121,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

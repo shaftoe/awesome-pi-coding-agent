@@ -1,0 +1,25 @@
+{
+  "id": "a-canary-pi-compaction-rank",
+  "name": "a-canary-pi-compaction-rank",
+  "url": "https://github.com/a-canary/pi-compaction-rank",
+  "source": "github-search",
+  "description": "Sandboxed stress harness + ranking for pi (pi-coding-agent) compaction extensions: 13 packages, pathological corpus, real-session baseline, verified bug list",
+  "metadata": {
+    "github_url": "https://github.com/a-canary/pi-compaction-rank",
+    "repo_full_name": "a-canary/pi-compaction-rank",
+    "description": "Sandboxed stress harness + ranking for pi (pi-coding-agent) compaction extensions: 13 packages, pathological corpus, real-session baseline, verified bug list",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-17T14:58:35Z",
+    "pushed_at": "2026-09-17T16:12:35Z",
+    "updated_at": "2026-09-17T16:12:39Z",
+    "size": 32,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

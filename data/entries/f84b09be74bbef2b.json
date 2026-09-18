@@ -10,7 +10,7 @@
     "description": "Open-source, desktop client/UI build to harness Pi and any other Agent accepting Agent Client Protocol. Run multiple AI coding agents side by side with rich tool visualization, MCP integrations, built-in terminal, git, browser and just about anything else you may need.",
     "stars": 6,
     "forks": 2,
-    "open_issues": 3,
+    "open_issues": 4,
     "topics": [
       "dpccc",
       "electron"

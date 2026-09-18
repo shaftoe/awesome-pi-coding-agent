@@ -10,7 +10,7 @@
     "description": "Local-only long-term memory for the pi coding agent: indexes allow-listed ACP compression summaries into SQLite FTS5 and exposes the memory_search tool.",
     "stars": 2,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "acp-extension",
       "fts5",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-09T03:31:52Z",
-    "pushed_at": "2026-09-14T05:36:14Z",
+    "pushed_at": "2026-09-17T11:54:24Z",
     "updated_at": "2026-09-14T05:36:20Z",
-    "size": 437,
+    "size": 479,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

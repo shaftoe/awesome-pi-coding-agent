@@ -1,0 +1,33 @@
+{
+  "id": "@vanillagreen/pi-tool-renderer",
+  "name": "@vanillagreen/pi-tool-renderer",
+  "url": "https://www.npmjs.com/package/@vanillagreen/pi-tool-renderer",
+  "source": "npm-search",
+  "description": "Compact Claude/opencode-style renderers for Pi tools with rich diffs, apply_patch, generic/MCP rendering, and optional global chrome.",
+  "metadata": {
+    "github_url": "https://github.com/vanillagreencom/kendex",
+    "npm_name": "@vanillagreen/pi-tool-renderer",
+    "description": "Compact Claude/opencode-style renderers for Pi tools with rich diffs, apply_patch, generic/MCP rendering, and optional global chrome.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "tools",
+      "renderer",
+      "shiki",
+      "diff",
+      "mcp",
+      "apply-patch"
+    ],
+    "version": "2.0.1",
+    "published_at": "2026-09-06T05:27:09.896Z",
+    "npm_downloads_monthly": 2143,
+    "npm_downloads_weekly": 351,
+    "npm_score_final": 24.318796,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

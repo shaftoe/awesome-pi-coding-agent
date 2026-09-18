@@ -8,18 +8,18 @@
     "github_url": "https://github.com/tyuan511/fastvibe",
     "repo_full_name": "tyuan511/fastvibe",
     "description": "fastvibe is a desktop agent client for work and coding, built on pi-coding-agent.",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-11T05:17:32Z",
-    "pushed_at": "2026-09-16T14:21:23Z",
-    "updated_at": "2026-09-16T14:21:25Z",
-    "size": 21106,
+    "pushed_at": "2026-09-18T00:55:25Z",
+    "updated_at": "2026-09-18T00:55:29Z",
+    "size": 21163,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
-  "category": "misc"
+  "category": "extension"
 }
