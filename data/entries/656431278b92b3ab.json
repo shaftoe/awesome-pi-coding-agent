@@ -1,0 +1,30 @@
+{
+  "id": "pi-bang",
+  "name": "pi-bang",
+  "url": "https://www.npmjs.com/package/pi-bang",
+  "source": "npm-search",
+  "description": "React to `!` shell commands: when a user-run bash command completes, trigger a model turn so the session responds to the output instead of waiting for the next prompt.",
+  "metadata": {
+    "github_url": "https://github.com/schuettc/pi-extensions",
+    "npm_name": "pi-bang",
+    "description": "React to `!` shell commands: when a user-run bash command completes, trigger a model turn so the session responds to the output instead of waiting for the next prompt.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "bash",
+      "user_bash",
+      "shell"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-10T06:08:48.487Z",
+    "npm_downloads_monthly": 153,
+    "npm_downloads_weekly": 153,
+    "npm_score_final": 15.161568,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

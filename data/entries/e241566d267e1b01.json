@@ -1,0 +1,28 @@
+{
+  "id": "pi-dynamic-context-pruning",
+  "name": "pi-dynamic-context-pruning",
+  "url": "https://www.npmjs.com/package/pi-dynamic-context-pruning",
+  "source": "npm-search",
+  "description": "A pi extension that dynamically prunes stale context to keep sessions lean.",
+  "metadata": {
+    "github_url": "https://github.com/diegopetrucci/pi-extensions",
+    "npm_name": "pi-dynamic-context-pruning",
+    "description": "A pi extension that dynamically prunes stale context to keep sessions lean.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "context",
+      "pruning"
+    ],
+    "version": "0.1.9",
+    "published_at": "2026-09-08T19:09:47.490Z",
+    "npm_downloads_monthly": 573,
+    "npm_downloads_weekly": 100,
+    "npm_score_final": 19.730453,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

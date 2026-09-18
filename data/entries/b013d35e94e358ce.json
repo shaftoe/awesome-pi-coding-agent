@@ -1,0 +1,27 @@
+{
+  "id": "@henryqw/pi-memory",
+  "name": "@henryqw/pi-memory",
+  "url": "https://www.npmjs.com/package/@henryqw/pi-memory",
+  "source": "npm-search",
+  "description": "Auto-managed markdown memory for Pi: capped MEMORY.md/USER.md entry stores with frozen session snapshots.",
+  "metadata": {
+    "github_url": "https://github.com/HenryQW/pi-harness",
+    "npm_name": "@henryqw/pi-memory",
+    "description": "Auto-managed markdown memory for Pi: capped MEMORY.md/USER.md entry stores with frozen session snapshots.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "memory"
+    ],
+    "version": "6.0.5",
+    "published_at": "2026-09-08T12:54:00.549Z",
+    "npm_downloads_monthly": 4907,
+    "npm_downloads_weekly": 666,
+    "npm_score_final": 28.438509,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

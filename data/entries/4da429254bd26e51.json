@@ -1,0 +1,31 @@
+{
+  "id": "@synadia-ai/nats-pi-channel",
+  "name": "@synadia-ai/nats-pi-channel",
+  "url": "https://www.npmjs.com/package/@synadia-ai/nats-pi-channel",
+  "source": "npm-search",
+  "description": "Synadia Agent Protocol for NATS channel for PI Agent. Makes every PI session a discoverable, spec-compliant agent on NATS.",
+  "metadata": {
+    "github_url": "https://github.com/synadia-ai/synadia-agents",
+    "npm_name": "@synadia-ai/nats-pi-channel",
+    "description": "Synadia Agent Protocol for NATS channel for PI Agent. Makes every PI session a discoverable, spec-compliant agent on NATS.",
+    "keywords": [
+      "pi-package",
+      "pi-agent",
+      "nats",
+      "agent",
+      "channel",
+      "synadia-agent-protocol",
+      "synadia-agents"
+    ],
+    "version": "0.5.6",
+    "published_at": "2026-05-26T14:56:07.992Z",
+    "npm_downloads_monthly": 72,
+    "npm_downloads_weekly": 10,
+    "npm_score_final": 21.712957,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

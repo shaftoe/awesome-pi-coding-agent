@@ -1,0 +1,31 @@
+{
+  "id": "@feniix/pi-notion",
+  "name": "@feniix/pi-notion",
+  "url": "https://www.npmjs.com/package/@feniix/pi-notion",
+  "source": "npm-search",
+  "description": "Notion API extension for pi — read, search, and manage Notion pages, databases, and content",
+  "metadata": {
+    "github_url": "https://github.com/feniix/pi-extensions",
+    "npm_name": "@feniix/pi-notion",
+    "description": "Notion API extension for pi — read, search, and manage Notion pages, databases, and content",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "ai",
+      "notion",
+      "productivity"
+    ],
+    "version": "3.0.3",
+    "published_at": "2026-08-23T15:08:25.978Z",
+    "npm_downloads_monthly": 514,
+    "npm_downloads_weekly": 50,
+    "npm_score_final": 19.353134,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

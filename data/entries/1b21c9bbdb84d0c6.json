@@ -1,0 +1,25 @@
+{
+  "id": "@signalridge/pi-ralph-wiggum",
+  "name": "@signalridge/pi-ralph-wiggum",
+  "url": "https://www.npmjs.com/package/@signalridge/pi-ralph-wiggum",
+  "source": "npm-search",
+  "description": "Long-running agent loops for iterative development in Pi.",
+  "metadata": {
+    "github_url": "https://github.com/signalridge/pi-extensions",
+    "npm_name": "@signalridge/pi-ralph-wiggum",
+    "description": "Long-running agent loops for iterative development in Pi.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.2.4",
+    "published_at": "2026-09-09T13:06:28.692Z",
+    "npm_downloads_monthly": 737,
+    "npm_downloads_weekly": 172,
+    "npm_score_final": 20.538063,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pi-better-ssh",
+  "name": "pi-better-ssh",
+  "url": "https://www.npmjs.com/package/pi-better-ssh",
+  "source": "npm-search",
+  "description": "Pi extension for safe synchronous remote bash commands over reusable SSH connections.",
+  "metadata": {
+    "github_url": "https://github.com/1aboveio/pi-better-harness",
+    "npm_name": "pi-better-ssh",
+    "description": "Pi extension for safe synchronous remote bash commands over reusable SSH connections.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "ssh",
+      "remote-bash"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-23T23:12:34.390Z",
+    "npm_downloads_monthly": 325,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 17.763376,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

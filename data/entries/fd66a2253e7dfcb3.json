@@ -1,0 +1,38 @@
+{
+  "id": "pi-accounts",
+  "name": "pi-accounts",
+  "url": "https://www.npmjs.com/package/pi-accounts",
+  "source": "npm-search",
+  "description": "Pi extension for switching named provider-owned OAuth accounts.",
+  "metadata": {
+    "github_url": "https://github.com/narumiruna/pi-extensions",
+    "npm_name": "pi-accounts",
+    "description": "Pi extension for switching named provider-owned OAuth accounts.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "accounts",
+      "oauth",
+      "codex",
+      "anthropic",
+      "claude",
+      "github-copilot",
+      "kimi",
+      "openrouter",
+      "radius",
+      "xai",
+      "grok"
+    ],
+    "version": "0.50.0",
+    "published_at": "2026-08-28T08:56:09.617Z",
+    "npm_downloads_monthly": 170,
+    "npm_downloads_weekly": 14,
+    "npm_score_final": 15.205303,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

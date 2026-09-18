@@ -1,0 +1,32 @@
+{
+  "id": "@touchtechclub/pi-oc-question",
+  "name": "@touchtechclub/pi-oc-question",
+  "url": "https://www.npmjs.com/package/@touchtechclub/pi-oc-question",
+  "source": "npm-search",
+  "description": "Pi coding-agent extension: unified ask-the-user question tool with multi-select, opencode-inspired. Opencode-shaped, RPC-compatible.",
+  "metadata": {
+    "github_url": "https://github.com/TouchTechClub/pi-toolkit",
+    "npm_name": "@touchtechclub/pi-oc-question",
+    "description": "Pi coding-agent extension: unified ask-the-user question tool with multi-select, opencode-inspired. Opencode-shaped, RPC-compatible.",
+    "keywords": [
+      "pi-coding-agent",
+      "pi-package",
+      "pi-extension",
+      "opencode",
+      "question",
+      "ask",
+      "user-input",
+      "rpc"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-02T17:03:37.522Z",
+    "npm_downloads_monthly": 29,
+    "npm_downloads_weekly": 2,
+    "npm_score_final": 12.784433,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

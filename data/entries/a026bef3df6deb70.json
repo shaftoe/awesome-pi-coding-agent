@@ -1,0 +1,35 @@
+{
+  "id": "@alexion42/pi-scheduler",
+  "name": "@alexion42/pi-scheduler",
+  "url": "https://www.npmjs.com/package/@alexion42/pi-scheduler",
+  "source": "npm-search",
+  "description": "Give Pi coding agents a clock: schedule reminders, shell commands, and self-waking prompts for CI polling and autonomous follow-ups.",
+  "metadata": {
+    "github_url": "https://github.com/jl1990/pi-scheduler",
+    "npm_name": "@alexion42/pi-scheduler",
+    "description": "Give Pi coding agents a clock: schedule reminders, shell commands, and self-waking prompts for CI polling and autonomous follow-ups.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "coding-agent",
+      "ai-agents",
+      "scheduler",
+      "automation",
+      "reminders",
+      "ci-cd",
+      "developer-tools",
+      "typescript"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-09-06T16:40:51.351Z",
+    "npm_downloads_monthly": 105,
+    "npm_downloads_weekly": 105,
+    "npm_score_final": 13.739289,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

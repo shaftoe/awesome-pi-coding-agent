@@ -1,0 +1,32 @@
+{
+  "id": "@mrclrchtr/supi-insights",
+  "name": "@mrclrchtr/supi-insights",
+  "url": "https://www.npmjs.com/package/@mrclrchtr/supi-insights",
+  "source": "npm-search",
+  "description": "Historical Pi-session reports and shareable HTML",
+  "metadata": {
+    "github_url": "https://github.com/mrclrchtr/supi",
+    "npm_name": "@mrclrchtr/supi-insights",
+    "description": "Historical Pi-session reports and shareable HTML",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "analytics",
+      "session-analysis",
+      "usage-report",
+      "html-report"
+    ],
+    "version": "7.1.0",
+    "published_at": "2026-09-16T23:52:54.594Z",
+    "npm_downloads_monthly": 1418,
+    "npm_downloads_weekly": 115,
+    "npm_score_final": 22.41109,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

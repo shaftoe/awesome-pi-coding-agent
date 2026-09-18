@@ -1,0 +1,38 @@
+{
+  "id": "@tian.zuo/pi-web-search",
+  "name": "@tian.zuo/pi-web-search",
+  "url": "https://www.npmjs.com/package/@tian.zuo/pi-web-search",
+  "source": "npm-search",
+  "description": "Web search and fetch with configurable fallback order across OpenAI, Exa, Tavily, Firecrawl, Monid, Ollama, and direct HTTP.",
+  "metadata": {
+    "github_url": "https://github.com/TianZuo555/pi-extensions",
+    "npm_name": "@tian.zuo/pi-web-search",
+    "description": "Web search and fetch with configurable fallback order across OpenAI, Exa, Tavily, Firecrawl, Monid, Ollama, and direct HTTP.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "web-search",
+      "web-fetch",
+      "search",
+      "openai",
+      "exa",
+      "tavily",
+      "firecrawl",
+      "monid",
+      "tinyfish",
+      "ollama"
+    ],
+    "version": "0.8.1",
+    "published_at": "2026-09-17T02:23:22.152Z",
+    "npm_downloads_monthly": 1434,
+    "npm_downloads_weekly": 260,
+    "npm_score_final": 22.920263,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "@yassimba/pi-guardrails",
+  "name": "@yassimba/pi-guardrails",
+  "url": "https://www.npmjs.com/package/@yassimba/pi-guardrails",
+  "source": "npm-search",
+  "description": "Security guardrails for Pi: protected paths, workspace boundaries, and dangerous-command gates.",
+  "metadata": {
+    "github_url": "https://github.com/Yassimba/loom",
+    "npm_name": "@yassimba/pi-guardrails",
+    "description": "Security guardrails for Pi: protected paths, workspace boundaries, and dangerous-command gates.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "guardrails",
+      "security"
+    ],
+    "version": "0.19.0",
+    "published_at": "2026-09-15T10:20:41.468Z",
+    "npm_downloads_monthly": 82,
+    "npm_downloads_weekly": 6,
+    "npm_score_final": 13.617491,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "pi-rakit-git",
+  "name": "pi-rakit-git",
+  "url": "https://www.npmjs.com/package/pi-rakit-git",
+  "source": "npm-search",
+  "description": "Focused and confirmation-gated Git commands for Pi",
+  "metadata": {
+    "github_url": "https://github.com/4nndmw/pi-rakit",
+    "npm_name": "pi-rakit-git",
+    "description": "Focused and confirmation-gated Git commands for Pi",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "extension",
+      "git"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-01T12:34:46.324Z",
+    "npm_downloads_monthly": 272,
+    "npm_downloads_weekly": 22,
+    "npm_score_final": 16.945978,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

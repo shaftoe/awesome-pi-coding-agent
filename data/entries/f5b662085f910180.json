@@ -1,0 +1,29 @@
+{
+  "id": "@maheidem/pi-loop",
+  "name": "@maheidem/pi-loop",
+  "url": "https://www.npmjs.com/package/@maheidem/pi-loop",
+  "source": "npm-search",
+  "description": "Pi extension: /loop — a generic recurring-prompt loop (Claude Code /loop style) delivered as in-session steer custom messages. Skills (e.g. shepherd) are consumers of /loop, not part of it.",
+  "metadata": {
+    "github_url": "https://github.com/Maheidem/pi-coder-management",
+    "npm_name": "@maheidem/pi-loop",
+    "description": "Pi extension: /loop — a generic recurring-prompt loop (Claude Code /loop style) delivered as in-session steer custom messages. Skills (e.g. shepherd) are consumers of /loop, not part of it.",
+    "keywords": [
+      "pi-package",
+      "extension",
+      "loop",
+      "cron",
+      "recurring"
+    ],
+    "version": "0.7.1",
+    "published_at": "2026-09-10T22:44:16.104Z",
+    "npm_downloads_monthly": 251,
+    "npm_downloads_weekly": 251,
+    "npm_score_final": 16.710255,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

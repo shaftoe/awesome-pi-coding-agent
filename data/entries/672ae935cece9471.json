@@ -1,0 +1,28 @@
+{
+  "id": "@pi-orca/debug",
+  "name": "@pi-orca/debug",
+  "url": "https://www.npmjs.com/package/@pi-orca/debug",
+  "source": "npm-search",
+  "description": "Debug log viewer and diagnostics overlay",
+  "metadata": {
+    "github_url": "https://github.com/binduwavell/pi-orca",
+    "npm_name": "@pi-orca/debug",
+    "description": "Debug log viewer and diagnostics overlay",
+    "keywords": [
+      "pi-package",
+      "pi-orca",
+      "pi-agent",
+      "pi-extension"
+    ],
+    "version": "0.0.5",
+    "published_at": "2026-05-27T04:09:39.673Z",
+    "npm_downloads_monthly": 45,
+    "npm_downloads_weekly": 6,
+    "npm_score_final": 17.895487,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "@yassimba/pi-mindwalk",
+  "name": "@yassimba/pi-mindwalk",
+  "url": "https://www.npmjs.com/package/@yassimba/pi-mindwalk",
+  "source": "npm-search",
+  "description": "Open the current Pi coding-agent session as a Mindwalk 3D codebase replay",
+  "metadata": {
+    "github_url": "https://github.com/Yassimba/ai-setup",
+    "npm_name": "@yassimba/pi-mindwalk",
+    "description": "Open the current Pi coding-agent session as a Mindwalk 3D codebase replay",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "mindwalk",
+      "visualization",
+      "session-replay"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-16T16:08:22.611Z",
+    "npm_downloads_monthly": 61,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 14.991619,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

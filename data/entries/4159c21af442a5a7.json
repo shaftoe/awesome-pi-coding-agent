@@ -1,0 +1,30 @@
+{
+  "id": "@xynogen/pix-graph",
+  "name": "@xynogen/pix-graph",
+  "url": "https://www.npmjs.com/package/@xynogen/pix-graph",
+  "source": "npm-search",
+  "description": "Pi extension — native TS code knowledge graph (extract, cluster, analyze, query)",
+  "metadata": {
+    "github_url": "https://github.com/xynogen/pix-mono",
+    "npm_name": "@xynogen/pix-graph",
+    "description": "Pi extension — native TS code knowledge graph (extract, cluster, analyze, query)",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pix",
+      "knowledge-graph",
+      "code-analysis"
+    ],
+    "version": "0.2.3",
+    "published_at": "2026-09-03T05:20:20.907Z",
+    "npm_downloads_monthly": 506,
+    "npm_downloads_weekly": 34,
+    "npm_score_final": 20.174202,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

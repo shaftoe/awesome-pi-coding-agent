@@ -1,0 +1,30 @@
+{
+  "id": "pi-gemini-empty-continuation",
+  "name": "pi-gemini-empty-continuation",
+  "url": "https://www.npmjs.com/package/pi-gemini-empty-continuation",
+  "source": "npm-search",
+  "description": "Pi extension that auto-recovers from Gemini thinking truncation and zero-token empty responses (Antigravity agy/jetski pattern)",
+  "metadata": {
+    "github_url": "https://github.com/sususu98/pi-gemini-empty-continuation",
+    "npm_name": "pi-gemini-empty-continuation",
+    "description": "Pi extension that auto-recovers from Gemini thinking truncation and zero-token empty responses (Antigravity agy/jetski pattern)",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "gemini",
+      "antigravity",
+      "thinking",
+      "continuation"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-09-10T09:22:38.629Z",
+    "npm_downloads_monthly": 268,
+    "npm_downloads_weekly": 268,
+    "npm_score_final": 16.934769,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

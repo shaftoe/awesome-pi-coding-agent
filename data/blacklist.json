@@ -54929,5 +54929,1703 @@
 			"sourceName": "github",
 			"query": "github-repo:pi-theme language:TypeScript"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=gygXqthLQkA",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-18T01:00:38.517996215Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=QHyByRCKJRg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:38.574330522Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=9WjPdgOK-68",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:38.604899519Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=nglqTHwuZ-8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:38.615802472Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=kr9Fp_DjFVg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:38.631771121Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=7EcA67SM1Uo",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-18T01:00:38.641901651Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Fmr_72cYZo8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:38.665646113Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=K_cha25S4Qo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:38.676520844Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=RXlIVOCczBI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:38.696956777Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=CSbQEIB2roQ",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-18T01:00:38.724992938Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=NBUW3YoO3Dw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:38.734805459Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=jCLK9IE8yYk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:38.766235938Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=cVISUZpHBrg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:38.800238286Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@unifan/pi-workflow-zh",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-18T01:00:38.813024517Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=mYZ6dlrOcWM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:38.833232055Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=EhcaRX0Vp2U",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-18T01:00:38.84642582Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/agent-hygiene-cli",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:38.915829135Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=9FwlN-LDXws",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:38.945029944Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Jwn7G70ekrk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:38.99484925Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/anbiyas-pi-setup",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.020816573Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=sYNOgpDKTvE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.036663389Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=DcDcHrlxCi8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.04496344Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=KrEKLG_eQbo",
+		"reason": "non-english language (spanish)",
+		"blacklisted_at": "2026-09-18T01:00:39.058803019Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/cherish-ltt/pi-dev-workflow",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-18T01:00:39.080430078Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=mZjCjAbBPyU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.106122284Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=jxoYrILd7qg",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-18T01:00:39.166124758Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=IzCjsWPnHkI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.19776692Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/DenisSud/pi-setup",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.225647005Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=nkPlspPACRI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.256915289Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=gsWOXrJdsaw",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-18T01:00:39.296621504Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=KoVxhQ8gqYw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.304797908Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=WCCyQYlHZA0",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-18T01:00:39.321409128Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=2BtAuW955o8",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-09-18T01:00:39.33576109Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://pypi.org/project/i-pi",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.370225954Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=hghsOZYZIAg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.383350574Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=PYUD1pv8FSw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.390405136Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=6L4Mt7G5s0I",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.395661009Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=VGVhFiMuxxg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.422933612Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=bM_sY9vmCMo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.453091532Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=wIHcDB44kog",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.499137405Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=05nhnvWIk7g",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.523887641Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Cs0UJQfRJGE",
+		"reason": "pi network crypto signal: \"pi network\"",
+		"blacklisted_at": "2026-09-18T01:00:39.534750991Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=PndmC6sYkRI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.607697683Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=xfqZlN8dBVM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.6302465Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=TOmRvDbotyY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.638748908Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/NazzarenoGiannelli/tuiboard",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.685040123Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=R8rFhhY222E",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.71859743Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=BElLEbodY8Q",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-18T01:00:39.775917666Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-utils",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:04.68951689Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-git-footer-status",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:04.740702393Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-themes-bundle",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:04.789461578Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-tools",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:04.837616106Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-setup-skills",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:04.886635701Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-safety-guard",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:04.936167333Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-stats",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:04.984995715Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-todo-progress",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.03392579Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-grill-me",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.083333057Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-release-npm",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.132299147Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-fish-user-bash",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.182042249Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-prompts-code-workflows",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.232106783Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-reverse-last",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.279893271Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-package-learnings",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.32922378Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-tech-news",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.379666797Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-deep-research",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.42943677Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-prompts-git-pr",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.479444886Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-bang-command-autocomplete",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.528651835Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-package-skill-lifecycle",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.580558505Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-tauri-django-react",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.631844256Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-nixos-wiki-local",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.680546033Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-brave-search",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.73096259Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-repo-explorer",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.78043381Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-release-aur",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.828485528Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-notes",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.880777365Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-patch-md",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.93092592Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-code-security",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:05.981858606Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-paper-summarizer",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.032594297Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-tech-deep-dive",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.084744497Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-plan-executor",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.134934933Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-plan-mode-toggle",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.185262424Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-deployment-automation",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.235903684Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-design-patterns",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.285838389Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-hyprland-wiki-local",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.337420424Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-archwiki-local",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.387835883Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-network-diagnostics",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.437249547Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-vulnerability-scanner",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.488336681Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-shoo-auth",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.539500687Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-performance-optimizer",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.588960333Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-architecture-review",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.638029589Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-spec-vs-impl-checker",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.687708664Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-server-audit",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.735995164Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-refactoring-advisor",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.785200764Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-acceptance-tester",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.835684538Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-code-quality",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.88396231Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-research-orchestration",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.933407632Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-prompts-agent-memory",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:06.983961813Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-tech-debt-tracker",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.033047619Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-competitor-analysis",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.084725455Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-test-plan-generator",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.134945077Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-backup-manager",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.184415629Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-prompts-release-docs",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.234193737Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-skill-bug-reporter",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.284929078Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@firstpick/pi-extension-wiki-tools",
+		"reason": "Duplicate of @firstpick/pi-package-webui (same GitHub repo https://github.com/Firstp1ck/pi-coding-agent-forge); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.334357247Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@weave-os/router",
+		"reason": "Duplicate of @workweave/router (same GitHub repo https://github.com/weave-os/router); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.385920909Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/sting8k/pi-droid-styling",
+		"reason": "Duplicate of @sting8k/pi-droid-styling (same GitHub repo https://github.com/sting8k/pi-droid-styling); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.436630962Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-archimedes/image-paste",
+		"reason": "Duplicate of @pi-archimedes/core (same GitHub repo https://github.com/danielcherubini/pi-archimedes); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.486240228Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-archimedes/notify",
+		"reason": "Duplicate of @pi-archimedes/core (same GitHub repo https://github.com/danielcherubini/pi-archimedes); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.536497908Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-archimedes/footer",
+		"reason": "Duplicate of @pi-archimedes/core (same GitHub repo https://github.com/danielcherubini/pi-archimedes); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.58706388Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-archimedes/todo",
+		"reason": "Duplicate of @pi-archimedes/core (same GitHub repo https://github.com/danielcherubini/pi-archimedes); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.636699443Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-archimedes/diff",
+		"reason": "Duplicate of @pi-archimedes/core (same GitHub repo https://github.com/danielcherubini/pi-archimedes); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.687531971Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-archimedes/subagent",
+		"reason": "Duplicate of @pi-archimedes/core (same GitHub repo https://github.com/danielcherubini/pi-archimedes); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.738544333Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-archimedes/ask",
+		"reason": "Duplicate of @pi-archimedes/core (same GitHub repo https://github.com/danielcherubini/pi-archimedes); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.788079096Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-archimedes",
+		"reason": "Duplicate of @pi-archimedes/core (same GitHub repo https://github.com/danielcherubini/pi-archimedes); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.83782645Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-archimedes/session-name",
+		"reason": "Duplicate of @pi-archimedes/core (same GitHub repo https://github.com/danielcherubini/pi-archimedes); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.887402176Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-archimedes/mcp",
+		"reason": "Duplicate of @pi-archimedes/core (same GitHub repo https://github.com/danielcherubini/pi-archimedes); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.937023752Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-archimedes/sudo",
+		"reason": "Duplicate of @pi-archimedes/core (same GitHub repo https://github.com/danielcherubini/pi-archimedes); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:07.986828253Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/danielcherubini/pi-archimedes",
+		"reason": "Duplicate of @pi-archimedes/core (same GitHub repo https://github.com/danielcherubini/pi-archimedes); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.039491466Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-ui",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.090726816Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-extension-contracts",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.140960862Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-config",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.192243849Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-loop",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.243564853Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-task",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.296081301Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-runner",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.346077899Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-team",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.39757228Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-mcp",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.448861731Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-log",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.500750137Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-autocompact",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.550144332Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-voice",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.600486033Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.652085178Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-workflow",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.702390172Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-file-edit",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.753446186Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-plan",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.803972408Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-runner-rmux-linux-x64",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.854652Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-goal",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.904520192Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-user-feedback",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:08.956207207Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-runner-rmux-darwin-arm64",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.003826901Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-help",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.052344623Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-runner-rmux-darwin-x64",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.103391867Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-profile",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.151708621Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-domain",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.200994527Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-notification",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.249706323Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-skill",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.297703631Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-hook",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.347020159Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-autostop",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.39682098Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-edit",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.448864306Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-read",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.498951352Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/doompi-grep",
+		"reason": "Duplicate of @agimon-ai/doompi-telemetry (same GitHub repo https://github.com/AgiFlow/doompi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.550688962Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/noguerol/llama-infra",
+		"reason": "Duplicate of pi-llama-infra (same GitHub repo https://github.com/noguerol/llama-infra); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.600135834Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@robhowley/pi-structured-return",
+		"reason": "Duplicate of @robhowley/pi-spinner-verbs (same GitHub repo https://github.com/robhowley/pi-userland); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.649384929Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/MaxInGaussian/pi-plans",
+		"reason": "Duplicate of pi-plans (same GitHub repo https://github.com/MaxInGaussian/pi-plans); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.699033873Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stagefright5/pi-provider-url-logger",
+		"reason": "Duplicate of @stagefright5/pi-bang-dont-ghost (same GitHub repo https://github.com/stagefright5/pi-agent-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.748870377Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stagefright5/pi-plan-mode",
+		"reason": "Duplicate of @stagefright5/pi-bang-dont-ghost (same GitHub repo https://github.com/stagefright5/pi-agent-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.79783044Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stagefright5/pi-ask",
+		"reason": "Duplicate of @stagefright5/pi-bang-dont-ghost (same GitHub repo https://github.com/stagefright5/pi-agent-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.847463811Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-stef/catalog",
+		"reason": "Duplicate of @pi-stef/atlassian (same GitHub repo https://github.com/sfiorini/pi-stef); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.897856784Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-stef/paths",
+		"reason": "Duplicate of @pi-stef/atlassian (same GitHub repo https://github.com/sfiorini/pi-stef); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.947782061Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-stef/web",
+		"reason": "Duplicate of @pi-stef/atlassian (same GitHub repo https://github.com/sfiorini/pi-stef); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:09.998438805Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-stef/figma",
+		"reason": "Duplicate of @pi-stef/atlassian (same GitHub repo https://github.com/sfiorini/pi-stef); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.047963323Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-stef/agent-workflows",
+		"reason": "Duplicate of @pi-stef/atlassian (same GitHub repo https://github.com/sfiorini/pi-stef); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.096155843Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-stef/superpowers-adapter",
+		"reason": "Duplicate of @pi-stef/atlassian (same GitHub repo https://github.com/sfiorini/pi-stef); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.146081557Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-stef/azure-foundry",
+		"reason": "Duplicate of @pi-stef/atlassian (same GitHub repo https://github.com/sfiorini/pi-stef); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.194643689Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@oipsanthony/pi-codex-compaction",
+		"reason": "Duplicate of @oipsanthony/pi-command-history (same GitHub repo https://github.com/OiAnthony/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.244427235Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/shanepadgett/tau-agent",
+		"reason": "Duplicate of @shanepadgett/tau-agent (same GitHub repo https://github.com/shanepadgett/tau-agent); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.294740292Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/ilovepixelart/pi-code",
+		"reason": "Duplicate of pi-code (same GitHub repo https://github.com/ilovepixelart/pi-code); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.343644925Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@eiei114/pi-sub-bar",
+		"reason": "Duplicate of @eiei114/pi-sub-core (same GitHub repo https://github.com/eiei114/pi-sub); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.392609761Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@eiei114/pi-sub-status",
+		"reason": "Duplicate of @eiei114/pi-sub-core (same GitHub repo https://github.com/eiei114/pi-sub); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.442874684Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/grok-pi",
+		"reason": "Duplicate of opencode-pi (same GitHub repo https://github.com/luongnv89/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.49236091Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/advisor-pi",
+		"reason": "Duplicate of opencode-pi (same GitHub repo https://github.com/luongnv89/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.542613851Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/luongnv89/pi-extensions",
+		"reason": "Duplicate of opencode-pi (same GitHub repo https://github.com/luongnv89/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.59048239Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@fractaal/pi-agentic-processes",
+		"reason": "Duplicate of @fractaal/pi-goal-x (same GitHub repo https://github.com/fractaal/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.639951594Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@fractaal/pi-cross-agent-memory",
+		"reason": "Duplicate of @fractaal/pi-goal-x (same GitHub repo https://github.com/fractaal/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.687797779Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@fractaal/pi-context-window",
+		"reason": "Duplicate of @fractaal/pi-goal-x (same GitHub repo https://github.com/fractaal/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.735038471Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@narumitw/pi-btw",
+		"reason": "Duplicate of @narumitw/pi-goal (same GitHub repo https://github.com/narumiruna/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.783152372Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@narumitw/pi-statusline",
+		"reason": "Duplicate of @narumitw/pi-goal (same GitHub repo https://github.com/narumiruna/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.8314649Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@narumitw/pi-firecrawl",
+		"reason": "Duplicate of @narumitw/pi-goal (same GitHub repo https://github.com/narumiruna/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.881052355Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@narumitw/pi-chrome-devtools",
+		"reason": "Duplicate of @narumitw/pi-goal (same GitHub repo https://github.com/narumiruna/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.929428465Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@narumitw/pi-caffeinate",
+		"reason": "Duplicate of @narumitw/pi-goal (same GitHub repo https://github.com/narumiruna/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:10.977870603Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@narumitw/pi-retry",
+		"reason": "Duplicate of @narumitw/pi-goal (same GitHub repo https://github.com/narumiruna/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:10:11.027214135Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@henryqw/pi-ask-question",
+		"reason": "Duplicate of @henryqw/pi-auto-compact (same GitHub repo https://github.com/HenryQW/pi-harness); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:06.972573374Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@henryqw/pi-deps",
+		"reason": "Duplicate of @henryqw/pi-auto-compact (same GitHub repo https://github.com/HenryQW/pi-harness); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.023260284Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@howaboua/pi-subagent-review",
+		"reason": "Duplicate of @howaboua/pi-codex-conversion (same GitHub repo https://github.com/IgorWarzocha/howaboua-pi-stuff); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.070996683Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@howaboua/pi-auto-trees",
+		"reason": "Duplicate of @howaboua/pi-codex-conversion (same GitHub repo https://github.com/IgorWarzocha/howaboua-pi-stuff); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.120836208Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@howaboua/pi-smart-btw",
+		"reason": "Duplicate of @howaboua/pi-codex-conversion (same GitHub repo https://github.com/IgorWarzocha/howaboua-pi-stuff); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.169637814Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-compound-engineering",
+		"reason": "Duplicate of pi-codex-image-gen (same GitHub repo https://github.com/jvm/pi-mono); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.219083806Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-skillful",
+		"reason": "Duplicate of pi-codex-image-gen (same GitHub repo https://github.com/jvm/pi-mono); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.269988627Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-web-kit",
+		"reason": "Duplicate of pi-codex-image-gen (same GitHub repo https://github.com/jvm/pi-mono); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.318954862Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@yassimba/pi-herdr-worktree",
+		"reason": "Duplicate of @yassimba/pi-openai-fast (same GitHub repo https://github.com/Yassimba/loom); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.367571318Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@shog-lab/pi-bus",
+		"reason": "Duplicate of @shog-lab/pi-toolkit (same GitHub repo https://github.com/shog-lab/pi-mind); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.41647856Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@geminixiang/pi-diff",
+		"reason": "Duplicate of @geminixiang/pi-simplify (same GitHub repo https://github.com/geminixiang/pi-stuff); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.464779452Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@zigai/pi-model-filter",
+		"reason": "Duplicate of @zigai/pi-footer (same GitHub repo https://github.com/zigai/pi-tweaks); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.513480364Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@xaccefy/pi-xtodo",
+		"reason": "Duplicate of @xaccefy/pi-shared (same GitHub repo https://github.com/xaccefy/pi-xpi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.562057324Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/osolmaz/onurpi",
+		"reason": "Duplicate of onurpi (same GitHub repo https://github.com/osolmaz/onurpi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.611335178Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-lab/env",
+		"reason": "Duplicate of @pi-lab/webfetch (same GitHub repo https://github.com/anthod0/pi-lab); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.659400084Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-lab/input-history",
+		"reason": "Duplicate of @pi-lab/webfetch (same GitHub repo https://github.com/anthod0/pi-lab); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.707890092Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-lab/permissions",
+		"reason": "Duplicate of @pi-lab/webfetch (same GitHub repo https://github.com/anthod0/pi-lab); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.758076492Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-lab/notify",
+		"reason": "Duplicate of @pi-lab/webfetch (same GitHub repo https://github.com/anthod0/pi-lab); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.806356036Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@hk_net/pi-timestamp",
+		"reason": "Duplicate of @hk_net/pi-thinking-command (same GitHub repo https://github.com/hknet/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.853659916Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@hk_net/pi-advisor",
+		"reason": "Duplicate of @hk_net/pi-thinking-command (same GitHub repo https://github.com/hknet/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.902806655Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Xaaaa-bip/pi-recon",
+		"reason": "Duplicate of pi-recon (same GitHub repo https://github.com/Xaaaa-bip/pi-recon); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:07.951087252Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/brettinternet/pi-extensions",
+		"reason": "Duplicate of @brettinternet/pi-loop (same GitHub repo https://github.com/brettinternet/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.001086991Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/dabito/pi-hledit",
+		"reason": "Duplicate of pi-hledit (same GitHub repo https://github.com/dabito/pi-hledit); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.051115817Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@bacnh85/pi-rtk",
+		"reason": "Duplicate of @bacnh85/pi-ponytail (same GitHub repo https://github.com/bacnh85/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.099011032Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@bacnh85/pi-themes",
+		"reason": "Duplicate of @bacnh85/pi-ponytail (same GitHub repo https://github.com/bacnh85/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.147597894Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@casualjim/pi-cavekit",
+		"reason": "Duplicate of @casualjim/pi-heimdall (same GitHub repo https://github.com/casualjim/pi-mimir); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.197579388Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/pifydev/pretty",
+		"reason": "Duplicate of @pify/pretty (same GitHub repo https://github.com/pifydev/pretty); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.245352145Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@tylerho/pi-skills-banner-split",
+		"reason": "Duplicate of @tylerho/pi-summaries (same GitHub repo https://github.com/tylerho5/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.294159924Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-agent-hud",
+		"reason": "Duplicate of @ganziliang/zhizh-pi-agent-hud (same GitHub repo https://github.com/dafei1288/pi-agent-hud); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.342741446Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/deepclause/deepclause-pi",
+		"reason": "Duplicate of deepclause-pi (same GitHub repo https://github.com/deepclause/deepclause-pi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.391128351Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/mozilla-ai/pi-otari",
+		"reason": "Duplicate of @mozilla-ai/pi-otari (same GitHub repo https://github.com/mozilla-ai/pi-otari); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.439602837Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@nklisch/pi-mcp-adapter",
+		"reason": "Duplicate of @nklisch/pi-plugins (same GitHub repo https://github.com/nklisch/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.48847375Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@nklisch/pi-subagents",
+		"reason": "Duplicate of @nklisch/pi-plugins (same GitHub repo https://github.com/nklisch/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.536268116Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@gotgenes/pi-subagents",
+		"reason": "Duplicate of @gotgenes/pi-permission-system (same GitHub repo https://github.com/gotgenes/pi-packages); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.585676789Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@gotgenes/pi-github-tools",
+		"reason": "Duplicate of @gotgenes/pi-permission-system (same GitHub repo https://github.com/gotgenes/pi-packages); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.635693114Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@gotgenes/pi-autoformat",
+		"reason": "Duplicate of @gotgenes/pi-permission-system (same GitHub repo https://github.com/gotgenes/pi-packages); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.684212777Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@alexleekt/pi-bump",
+		"reason": "Duplicate of @alexleekt/pi-ask-user-glimpse (same GitHub repo https://github.com/alexleekt/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.732328024Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-footer-mode",
+		"reason": "Duplicate of pi-codex-limit (same GitHub repo https://github.com/santychuy/pi-setup); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.779701024Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-toast",
+		"reason": "Duplicate of pi-codex-limit (same GitHub repo https://github.com/santychuy/pi-setup); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.828124186Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/BlockedPath/pi-meta-oauth",
+		"reason": "Duplicate of pi-meta-oauth (same GitHub repo https://github.com/BlockedPath/pi-meta-oauth); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.87690662Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/ccch1mneyyy/working-activity",
+		"reason": "Duplicate of pi-working-activity (same GitHub repo https://github.com/ccch1mneyyy/working-activity); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.927762062Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-boundary-boost",
+		"reason": "Duplicate of pi-fork-pane (same GitHub repo https://github.com/cyzlmh/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:08.976070247Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-dev-inspector",
+		"reason": "Duplicate of pi-fork-pane (same GitHub repo https://github.com/cyzlmh/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.025123341Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-lean-search",
+		"reason": "Duplicate of pi-lean-dimension (same GitHub repo https://github.com/coreyryanhanson/pi-lean-dimension); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.076070774Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@vtstech/pi-shared",
+		"reason": "Duplicate of @vtstech/pi-openrouter-sync (same GitHub repo https://github.com/VTSTech/pi-coding-agent); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.123944922Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@vtstech/pi-soul",
+		"reason": "Duplicate of @vtstech/pi-openrouter-sync (same GitHub repo https://github.com/VTSTech/pi-coding-agent); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.173000536Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@vtstech/pi-diag",
+		"reason": "Duplicate of @vtstech/pi-openrouter-sync (same GitHub repo https://github.com/VTSTech/pi-coding-agent); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.223007926Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@vtstech/pi-react-fallback",
+		"reason": "Duplicate of @vtstech/pi-openrouter-sync (same GitHub repo https://github.com/VTSTech/pi-coding-agent); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.270694309Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-status-widget",
+		"reason": "Duplicate of pi-broodmother (same GitHub repo https://github.com/derangga/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.320740261Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-ask-popup",
+		"reason": "Duplicate of pi-broodmother (same GitHub repo https://github.com/derangga/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.369731234Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-unslop-rules",
+		"reason": "Duplicate of pi-broodmother (same GitHub repo https://github.com/derangga/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.417270049Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@zenspc/pi-quiet",
+		"reason": "Duplicate of @zenspc/pi-devtools (same GitHub repo https://github.com/zenspc/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.467117016Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@matheusbbarni/pi-goal-extension",
+		"reason": "Duplicate of @matheusbbarni/pi-message-queue (same GitHub repo https://github.com/MatheusBBarni/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.517006075Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Vistyy/nopus",
+		"reason": "Duplicate of @syzom/nopus (same GitHub repo https://github.com/Vistyy/nopus); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.564551828Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@fgladisch/pi-user-select",
+		"reason": "Duplicate of @fgladisch/pi-bash-approval (same GitHub repo https://github.com/fgladisch/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.613483321Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ryonakae/shepherd-pi",
+		"reason": "Duplicate of @ryonakae/shepherd (same GitHub repo https://github.com/ryonakae/shepherd); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.663529523Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi-orca/tasks",
+		"reason": "Duplicate of @pi-orca/models (same GitHub repo https://github.com/binduwavell/pi-orca); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.711704997Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/July24/pier",
+		"reason": "Duplicate of pi-pier (same GitHub repo https://github.com/July24/pier); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.76049388Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@monopi/web-server",
+		"reason": "Duplicate of @monopi/shared-qna (same GitHub repo https://github.com/ifiokjr/monopi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.809041971Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/revazi/pi-jscpd",
+		"reason": "Duplicate of pi-jscpd (same GitHub repo https://github.com/revazi/pi-jscpd); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.85784497Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@tryinget/pi-little-helpers",
+		"reason": "Duplicate of @tryinget/pi-editor-registry (same GitHub repo https://github.com/tryingET/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.906448087Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/pedrostarkealexis/pi-opencode-free",
+		"reason": "Duplicate of pi-opencode-free (same GitHub repo https://github.com/pedrostarkealexis/pi-opencode-free); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:09.954687954Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/tangentyh/pi-collections",
+		"reason": "Duplicate of pi-focus-aware-blinking-cursor (same GitHub repo https://github.com/tangentyh/pi-collections); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:10.002685491Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@code-fixer-23/pi-bash-tooljack-nu",
+		"reason": "Duplicate of @code-fixer-23/pi-session-manager (same GitHub repo https://github.com/louiss0/pi-packages); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:10.052257227Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/RodCor/kimetsu-pi",
+		"reason": "Duplicate of kimetsu-pi (same GitHub repo https://github.com/RodCor/kimetsu-pi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:10.101937956Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@nativepi/ask-user",
+		"reason": "Duplicate of @nativepi/service-tier (same GitHub repo https://github.com/nonlooped/nativepi); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:10.150486067Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@yansircc/pi-loop",
+		"reason": "Duplicate of @yansircc/pi-chrome (same GitHub repo https://github.com/yansircc/pipee); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:10.199663015Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/v587d/pi-ocgo-usage",
+		"reason": "Duplicate of pi-ocgo-usage (same GitHub repo https://github.com/v587d/pi-ocgo-usage); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:10.250642687Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/vekexasia/pi-extensible-workflows",
+		"reason": "Duplicate of pi-extensible-workflows (same GitHub repo https://github.com/vekexasia/pi-extensible-workflows); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:10.299328947Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-sub2api-provider",
+		"reason": "Duplicate of pi-herdr-status (same GitHub repo https://github.com/dereknex/pi-extensions); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:10.349126671Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/giuseppe-trisciuoglio/pi-jetbrains-mcp",
+		"reason": "Duplicate of @giuseppe.trisciuoglio/pi-jetbrains-mcp (same GitHub repo https://github.com/giuseppe-trisciuoglio/pi-jetbrains-mcp); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:10.397322266Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/espadat-studio/pi-memsearch",
+		"reason": "Duplicate of pi-memsearch (same GitHub repo https://github.com/espadat-studio/pi-memsearch); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:10.445934663Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/fitchmultz/pi-posthorse",
+		"reason": "Duplicate of pi-posthorse (same GitHub repo https://github.com/fitchmultz/pi-posthorse); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:10.494207843Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/osolmaz/pi-workflows",
+		"reason": "Duplicate of @osolmaz/pi-workflows (same GitHub repo https://github.com/osolmaz/pi-workflows); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:10.544766645Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-vscode-panels",
+		"reason": "Duplicate of pi-vscode-fork (same GitHub repo https://github.com/dcalsky/pi-vscode); lower popularity",
+		"blacklisted_at": "2026-09-18T01:11:10.592690502Z",
+		"source": "manual"
 	}
 ]

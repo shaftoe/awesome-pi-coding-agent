@@ -1,0 +1,30 @@
+{
+  "id": "@spences10/pi-factory",
+  "name": "@spences10/pi-factory",
+  "url": "https://www.npmjs.com/package/@spences10/pi-factory",
+  "source": "npm-search",
+  "description": "Experimental reviewed local Pi execution on pi-harness",
+  "metadata": {
+    "github_url": "https://github.com/spences10/my-pi",
+    "npm_name": "@spences10/pi-factory",
+    "description": "Experimental reviewed local Pi execution on pi-harness",
+    "keywords": [
+      "agent",
+      "factory",
+      "harness",
+      "pi",
+      "pi-package",
+      "review"
+    ],
+    "version": "0.0.16",
+    "published_at": "2026-08-27T18:49:20.771Z",
+    "npm_downloads_monthly": 691,
+    "npm_downloads_weekly": 41,
+    "npm_score_final": 21.305626,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

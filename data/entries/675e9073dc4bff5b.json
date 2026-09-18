@@ -1,0 +1,31 @@
+{
+  "id": "@monopi/provider-cursor",
+  "name": "@monopi/provider-cursor",
+  "url": "https://www.npmjs.com/package/@monopi/provider-cursor",
+  "source": "npm-search",
+  "description": "Experimental Cursor provider for pi with OAuth login, model discovery, and direct AgentService streaming.",
+  "metadata": {
+    "github_url": "https://github.com/ifiokjr/monopi",
+    "npm_name": "@monopi/provider-cursor",
+    "description": "Experimental Cursor provider for pi with OAuth login, model discovery, and direct AgentService streaming.",
+    "keywords": [
+      "cursor",
+      "experimental",
+      "oauth",
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "provider"
+    ],
+    "version": "0.6.1",
+    "published_at": "2026-08-28T13:47:41.857Z",
+    "npm_downloads_monthly": 301,
+    "npm_downloads_weekly": 15,
+    "npm_score_final": 18.291529,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

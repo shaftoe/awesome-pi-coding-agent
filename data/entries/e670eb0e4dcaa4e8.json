@@ -3,29 +3,28 @@
   "name": "@monopi/shared-qna",
   "url": "https://www.npmjs.com/package/@monopi/shared-qna",
   "source": "npm-search",
-  "description": "Pretty terminal output for pi — syntax-highlighted file reads, colored bash output, tree-view directory listings, and more.",
+  "description": "Shared TUI question-and-answer component for pi extensions.",
   "metadata": {
     "github_url": "https://github.com/ifiokjr/monopi",
-    "npm_name": "@monopi/pretty",
-    "description": "Pretty terminal output for pi — syntax-highlighted file reads, colored bash output, tree-view directory listings, and more.",
+    "npm_name": "@monopi/shared-qna",
+    "description": "Shared TUI question-and-answer component for pi extensions.",
     "keywords": [
+      "components",
+      "extension-library",
       "pi",
-      "pi-extension",
-      "pi-package",
-      "pretty-print",
-      "shiki",
-      "syntax-highlighting",
-      "terminal"
+      "pi-coding-agent",
+      "qna",
+      "tui"
     ],
     "version": "0.6.1",
-    "published_at": "2026-08-28T13:47:39.851Z",
-    "npm_downloads_monthly": 258,
-    "npm_downloads_weekly": 20,
-    "npm_score_final": 16.737228,
+    "published_at": "2026-08-28T13:48:40.267Z",
+    "npm_downloads_monthly": 392,
+    "npm_downloads_weekly": 21,
+    "npm_score_final": 23.187376,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
-  "category": "misc"
+  "category": "extension"
 }

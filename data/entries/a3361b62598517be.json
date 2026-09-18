@@ -1,0 +1,29 @@
+{
+  "id": "@guygrigsby/pi-promptdump",
+  "name": "@guygrigsby/pi-promptdump",
+  "url": "https://www.npmjs.com/package/@guygrigsby/pi-promptdump",
+  "source": "npm-search",
+  "description": "Dev tool: on every provider request, dump the exact payload pi sends (final system prompt plus messages) to a file so you can see precisely what the model receives.",
+  "metadata": {
+    "github_url": "https://github.com/guygrigsby/pi-extensions",
+    "npm_name": "@guygrigsby/pi-promptdump",
+    "description": "Dev tool: on every provider request, dump the exact payload pi sends (final system prompt plus messages) to a file so you can see precisely what the model receives.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "debug",
+      "prompt"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-07T21:06:30.886Z",
+    "npm_downloads_monthly": 102,
+    "npm_downloads_weekly": 6,
+    "npm_score_final": 14.395608,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

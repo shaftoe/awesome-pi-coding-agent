@@ -1,0 +1,34 @@
+{
+  "id": "@bacnh85/pi-notebooklm",
+  "name": "@bacnh85/pi-notebooklm",
+  "url": "https://www.npmjs.com/package/@bacnh85/pi-notebooklm",
+  "source": "npm-search",
+  "description": "Pi extension for Google NotebookLM — notebooks, sources, chat, research, and Studio artifacts via notebooklm-py CLI bridge.",
+  "metadata": {
+    "github_url": "https://github.com/bacnh85/pi-extensions",
+    "npm_name": "@bacnh85/pi-notebooklm",
+    "description": "Pi extension for Google NotebookLM — notebooks, sources, chat, research, and Studio artifacts via notebooklm-py CLI bridge.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-skill",
+      "notebooklm",
+      "google-notebooklm",
+      "notebooklm-py",
+      "notebooks",
+      "ai-notebooks",
+      "podcast",
+      "audio-overview"
+    ],
+    "version": "0.1.9",
+    "published_at": "2026-09-12T09:11:09.311Z",
+    "npm_downloads_monthly": 206,
+    "npm_downloads_weekly": 53,
+    "npm_score_final": 16.134026,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

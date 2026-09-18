@@ -1,0 +1,28 @@
+{
+  "id": "@dihak/pix-models",
+  "name": "@dihak/pix-models",
+  "url": "https://www.npmjs.com/package/@dihak/pix-models",
+  "source": "npm-search",
+  "description": "Pi extension — enhanced /models picker with BenchLM ranks",
+  "metadata": {
+    "github_url": "https://github.com/dihak/pix-mono",
+    "npm_name": "@dihak/pix-models",
+    "description": "Pi extension — enhanced /models picker with BenchLM ranks",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pix"
+    ],
+    "version": "0.1.25",
+    "published_at": "2026-09-01T01:42:52.465Z",
+    "npm_downloads_monthly": 315,
+    "npm_downloads_weekly": 47,
+    "npm_score_final": 17.3827,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

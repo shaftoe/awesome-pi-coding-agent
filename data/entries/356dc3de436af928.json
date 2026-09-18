@@ -1,0 +1,30 @@
+{
+  "id": "@arvoretech/pi-worktree",
+  "name": "@arvoretech/pi-worktree",
+  "url": "https://www.npmjs.com/package/@arvoretech/pi-worktree",
+  "source": "npm-search",
+  "description": "PI extension to manage git worktrees across multi-repo workspaces with tree-themed names",
+  "metadata": {
+    "github_url": "https://github.com/arvoreeducacao/arvore-pi-extensions",
+    "npm_name": "@arvoretech/pi-worktree",
+    "description": "PI extension to manage git worktrees across multi-repo workspaces with tree-themed names",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "worktree",
+      "git",
+      "multi-repo"
+    ],
+    "version": "1.11.2",
+    "published_at": "2026-07-17T01:10:56.715Z",
+    "npm_downloads_monthly": 190,
+    "npm_downloads_weekly": 62,
+    "npm_score_final": 15.907644,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

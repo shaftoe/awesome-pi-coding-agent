@@ -1,0 +1,29 @@
+{
+  "id": "pi-better-subagents",
+  "name": "pi-better-subagents",
+  "url": "https://www.npmjs.com/package/pi-better-subagents",
+  "source": "npm-search",
+  "description": "Pi extension for detached, sandboxed subagent runs that keep the foreground session free.",
+  "metadata": {
+    "github_url": "https://github.com/1aboveio/pi-better-harness",
+    "npm_name": "pi-better-subagents",
+    "description": "Pi extension for detached, sandboxed subagent runs that keep the foreground session free.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "subagents",
+      "sandboxed-agents"
+    ],
+    "version": "0.1.28",
+    "published_at": "2026-09-17T02:15:09.657Z",
+    "npm_downloads_monthly": 1397,
+    "npm_downloads_weekly": 492,
+    "npm_score_final": 22.477015,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

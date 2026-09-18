@@ -1,0 +1,29 @@
+{
+  "id": "@amaster.ai/pi-wecom",
+  "name": "@amaster.ai/pi-wecom",
+  "url": "https://www.npmjs.com/package/@amaster.ai/pi-wecom",
+  "source": "npm-search",
+  "description": "Pi extension for WeCom (enterprise WeChat) workspace — contacts, messages, meetings, schedules, docs and more via wecom-cli.",
+  "metadata": {
+    "github_url": "https://github.com/TGYD-helige/pi",
+    "npm_name": "@amaster.ai/pi-wecom",
+    "description": "Pi extension for WeCom (enterprise WeChat) workspace — contacts, messages, meetings, schedules, docs and more via wecom-cli.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "wecom",
+      "enterprise-wechat"
+    ],
+    "version": "0.1.15",
+    "published_at": "2026-09-11T06:36:52.035Z",
+    "npm_downloads_monthly": 3332,
+    "npm_downloads_weekly": 673,
+    "npm_score_final": 25.456907,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

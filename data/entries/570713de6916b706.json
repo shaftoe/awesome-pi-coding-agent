@@ -1,0 +1,28 @@
+{
+  "id": "@xynogen/pix-9router",
+  "name": "@xynogen/pix-9router",
+  "url": "https://www.npmjs.com/package/@xynogen/pix-9router",
+  "source": "npm-search",
+  "description": "Pi extension — 9Router provider + fetch/search tools via router API",
+  "metadata": {
+    "github_url": "https://github.com/xynogen/pix-mono",
+    "npm_name": "@xynogen/pix-9router",
+    "description": "Pi extension — 9Router provider + fetch/search tools via router API",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "9router"
+    ],
+    "version": "0.4.4",
+    "published_at": "2026-09-03T05:20:21.007Z",
+    "npm_downloads_monthly": 1566,
+    "npm_downloads_weekly": 89,
+    "npm_score_final": 23.22675,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

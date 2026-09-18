@@ -1,0 +1,28 @@
+{
+  "id": "@blackbelt-technology/pi-image-fit-extension",
+  "name": "@blackbelt-technology/pi-image-fit-extension",
+  "url": "https://www.npmjs.com/package/@blackbelt-technology/pi-image-fit-extension",
+  "source": "npm-search",
+  "description": "Pi extension that resizes oversize images at Read-time so they fit model byte and pixel ceilings.",
+  "metadata": {
+    "github_url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard",
+    "npm_name": "@blackbelt-technology/pi-image-fit-extension",
+    "description": "Pi extension that resizes oversize images at Read-time so they fit model byte and pixel ceilings.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "image",
+      "resize"
+    ],
+    "version": "0.8.0",
+    "published_at": "2026-08-26T12:06:16.499Z",
+    "npm_downloads_monthly": 310,
+    "npm_downloads_weekly": 15,
+    "npm_score_final": 17.26621,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

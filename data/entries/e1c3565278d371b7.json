@@ -1,0 +1,26 @@
+{
+  "id": "@valdo766hi/pi-fast",
+  "name": "@valdo766hi/pi-fast",
+  "url": "https://www.npmjs.com/package/@valdo766hi/pi-fast",
+  "source": "npm-search",
+  "description": "Pi extension for OpenAI priority service-tier requests",
+  "metadata": {
+    "github_url": "https://github.com/valdo766hi/pi-packages",
+    "npm_name": "@valdo766hi/pi-fast",
+    "description": "Pi extension for OpenAI priority service-tier requests",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-08-17T08:01:32.216Z",
+    "npm_downloads_monthly": 318,
+    "npm_downloads_weekly": 14,
+    "npm_score_final": 17.63051,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

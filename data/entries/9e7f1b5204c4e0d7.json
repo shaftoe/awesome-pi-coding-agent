@@ -1,0 +1,30 @@
+{
+  "id": "@tian.zuo/pi-goal",
+  "name": "@tian.zuo/pi-goal",
+  "url": "https://www.npmjs.com/package/@tian.zuo/pi-goal",
+  "source": "npm-search",
+  "description": "Codex-style persistent, evidence-checked goals for the pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/TianZuo555/pi-extensions",
+    "npm_name": "@tian.zuo/pi-goal",
+    "description": "Codex-style persistent, evidence-checked goals for the pi coding agent.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "goal",
+      "autonomous-agent"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-23T02:48:54.929Z",
+    "npm_downloads_monthly": 428,
+    "npm_downloads_weekly": 17,
+    "npm_score_final": 18.42888,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

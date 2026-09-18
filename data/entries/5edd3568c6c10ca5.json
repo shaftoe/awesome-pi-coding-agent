@@ -1,0 +1,30 @@
+{
+  "id": "@ian-pascoe/pi-codemode",
+  "name": "@ian-pascoe/pi-codemode",
+  "url": "https://www.npmjs.com/package/@ian-pascoe/pi-codemode",
+  "source": "npm-search",
+  "description": "Process-isolated persistent TypeScript tool composition for Pi",
+  "metadata": {
+    "github_url": "https://github.com/ian-pascoe/pi-extensions",
+    "npm_name": "@ian-pascoe/pi-codemode",
+    "description": "Process-isolated persistent TypeScript tool composition for Pi",
+    "keywords": [
+      "codemode",
+      "deno",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "typescript"
+    ],
+    "version": "0.7.4",
+    "published_at": "2026-09-14T11:54:47.074Z",
+    "npm_downloads_monthly": 2374,
+    "npm_downloads_weekly": 910,
+    "npm_score_final": 24.442793,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

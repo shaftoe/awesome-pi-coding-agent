@@ -1,0 +1,30 @@
+{
+  "id": "cache-warm",
+  "name": "cache-warm",
+  "url": "https://www.npmjs.com/package/cache-warm",
+  "source": "npm-search",
+  "description": "Opt-in prompt-cache keep-alive for Pi with avoided-miss and USD-saved metrics",
+  "metadata": {
+    "github_url": "https://github.com/luongnv89/pi-extensions",
+    "npm_name": "cache-warm",
+    "description": "Opt-in prompt-cache keep-alive for Pi with avoided-miss and USD-saved metrics",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "cache",
+      "prompt-cache",
+      "keep-alive",
+      "cache-warm"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-09-02T08:09:15.573Z",
+    "npm_downloads_monthly": 569,
+    "npm_downloads_weekly": 45,
+    "npm_score_final": 19.301237,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

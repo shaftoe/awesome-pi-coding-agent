@@ -1,0 +1,29 @@
+{
+  "id": "@noice-tech/pi-terminal-bell",
+  "name": "@noice-tech/pi-terminal-bell",
+  "url": "https://www.npmjs.com/package/@noice-tech/pi-terminal-bell",
+  "source": "npm-search",
+  "description": "Ring your terminal when Pi finishes a long run.",
+  "metadata": {
+    "github_url": "https://github.com/noice-tech/noice-pi",
+    "npm_name": "@noice-tech/pi-terminal-bell",
+    "description": "Ring your terminal when Pi finishes a long run.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "terminal",
+      "bell",
+      "notification"
+    ],
+    "version": "2.1.0",
+    "published_at": "2026-08-23T20:04:27.944Z",
+    "npm_downloads_monthly": 511,
+    "npm_downloads_weekly": 22,
+    "npm_score_final": 20.209887,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

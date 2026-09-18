@@ -1,0 +1,28 @@
+{
+  "id": "@terminalika/pi-play",
+  "name": "@terminalika/pi-play",
+  "url": "https://www.npmjs.com/package/@terminalika/pi-play",
+  "source": "npm-search",
+  "description": "terminalika inside pi: retro games in an overlay that pause themselves the moment the agent finishes or needs you.",
+  "metadata": {
+    "github_url": "https://github.com/terminalika/pi-play",
+    "npm_name": "@terminalika/pi-play",
+    "description": "terminalika inside pi: retro games in an overlay that pause themselves the moment the agent finishes or needs you.",
+    "keywords": [
+      "pi-package",
+      "terminalika",
+      "games",
+      "focus"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-10T13:34:28.256Z",
+    "npm_downloads_monthly": 257,
+    "npm_downloads_weekly": 190,
+    "npm_score_final": 16.950865,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

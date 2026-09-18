@@ -1,0 +1,25 @@
+{
+  "id": "@ctliz/pi-intercom",
+  "name": "@ctliz/pi-intercom",
+  "url": "https://www.npmjs.com/package/@ctliz/pi-intercom",
+  "source": "npm-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/ctliz/agent-intercom-pi",
+    "npm_name": "@ctliz/pi-intercom",
+    "description": "<p>   <img src=\"banner.png\" alt=\"pi-intercom\" width=\"1100\"> </p>",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.12.1",
+    "published_at": "2026-08-18T08:21:18.979Z",
+    "npm_downloads_monthly": 392,
+    "npm_downloads_weekly": 29,
+    "npm_score_final": 18.128859,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

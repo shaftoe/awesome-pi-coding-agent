@@ -1,0 +1,32 @@
+{
+  "id": "@heyhuynhgiabuu/pi-oauth-antigravity",
+  "name": "@heyhuynhgiabuu/pi-oauth-antigravity",
+  "url": "https://www.npmjs.com/package/@heyhuynhgiabuu/pi-oauth-antigravity",
+  "source": "npm-search",
+  "description": "Google Antigravity OAuth provider extension for Pi with Gemini 3.8, prompt cache session affinity, and trajectory chaining.",
+  "metadata": {
+    "github_url": "https://github.com/heyhuynhgiabuu/pi-oauth-antigravity",
+    "npm_name": "@heyhuynhgiabuu/pi-oauth-antigravity",
+    "description": "Google Antigravity OAuth provider extension for Pi with Gemini 3.8, prompt cache session affinity, and trajectory chaining.",
+    "keywords": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "antigravity",
+      "gemini",
+      "google-cloud-code-assist",
+      "oauth",
+      "prompt-caching"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-15T12:49:35.047Z",
+    "npm_downloads_monthly": 93,
+    "npm_downloads_weekly": 21,
+    "npm_score_final": 14.065837,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

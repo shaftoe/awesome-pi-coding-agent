@@ -1,0 +1,28 @@
+{
+  "id": "specpi-delegation",
+  "name": "specpi-delegation",
+  "url": "https://www.npmjs.com/package/specpi-delegation",
+  "source": "npm-search",
+  "description": "Bounded in-house subagents for Pi: child sessions read a frozen source snapshot and report back under fixed call, token and time ceilings",
+  "metadata": {
+    "github_url": "https://github.com/TannerMidd/SpecPi",
+    "npm_name": "specpi-delegation",
+    "description": "Bounded in-house subagents for Pi: child sessions read a frozen source snapshot and report back under fixed call, token and time ceilings",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "subagents",
+      "delegation"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-09-16T20:28:56.597Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ljdou-pi-data-agent",
+  "name": "ljdou-pi-data-agent",
+  "url": "https://www.npmjs.com/package/ljdou-pi-data-agent",
+  "source": "npm-search",
+  "description": "Pi Agent Extension — unified database access layer for MySQL, Trino, and more",
+  "metadata": {
+    "github_url": "https://github.com/LiuJinDou/ljdou-cloud-lab",
+    "npm_name": "ljdou-pi-data-agent",
+    "description": "Pi Agent Extension — unified database access layer for MySQL, Trino, and more",
+    "keywords": [
+      "pi-agent",
+      "database",
+      "mysql",
+      "trino",
+      "data-engineering"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-08-06T02:56:30.331Z",
+    "npm_downloads_monthly": 6,
+    "npm_downloads_weekly": 5,
+    "npm_score_final": 8.500628,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

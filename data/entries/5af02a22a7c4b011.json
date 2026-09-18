@@ -1,0 +1,30 @@
+{
+  "id": "@narumitw/pi-tool",
+  "name": "@narumitw/pi-tool",
+  "url": "https://www.npmjs.com/package/@narumitw/pi-tool",
+  "source": "npm-search",
+  "description": "Browse configured Pi tools and optionally show the active tool set.",
+  "metadata": {
+    "github_url": "https://github.com/narumiruna/pi-extensions",
+    "npm_name": "@narumitw/pi-tool",
+    "description": "Browse configured Pi tools and optionally show the active tool set.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "tools",
+      "tool-catalog",
+      "developer-tools"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-08-26T18:05:58.825Z",
+    "npm_downloads_monthly": 787,
+    "npm_downloads_weekly": 42,
+    "npm_score_final": 20.511684,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

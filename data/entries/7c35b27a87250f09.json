@@ -1,0 +1,30 @@
+{
+  "id": "@vanillagreen/pi-hooks",
+  "name": "@vanillagreen/pi-hooks",
+  "url": "https://www.npmjs.com/package/@vanillagreen/pi-hooks",
+  "source": "npm-search",
+  "description": "The carrier that runs kendex's hooks under Pi: it dispatches the rendered kendex/hooks.json registry on every listener kendex maps a hook event onto, so a PreToolUse, PostToolUse, Stop, TaskCompleted or SessionStart hook fires, the bash guards kendex rend",
+  "metadata": {
+    "github_url": "https://github.com/vanillagreencom/kendex",
+    "npm_name": "@vanillagreen/pi-hooks",
+    "description": "The carrier that runs kendex's hooks under Pi: it dispatches the rendered kendex/hooks.json registry on every listener kendex maps a hook event onto, so a PreToolUse, PostToolUse, Stop, TaskCompleted or SessionStart hook fires, the bash guards kendex rend",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "hooks",
+      "safety",
+      "lint"
+    ],
+    "version": "0.12.0",
+    "published_at": "2026-09-07T04:32:32.819Z",
+    "npm_downloads_monthly": 896,
+    "npm_downloads_weekly": 503,
+    "npm_score_final": 21.083635,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

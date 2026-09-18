@@ -1,0 +1,30 @@
+{
+  "id": "@narumitw/pi-worktree",
+  "name": "@narumitw/pi-worktree",
+  "url": "https://www.npmjs.com/package/@narumitw/pi-worktree",
+  "source": "npm-search",
+  "description": "Pi extension for safe interactive Git worktree management and workspace switching.",
+  "metadata": {
+    "github_url": "https://github.com/narumiruna/pi-extensions",
+    "npm_name": "@narumitw/pi-worktree",
+    "description": "Pi extension for safe interactive Git worktree management and workspace switching.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "git",
+      "worktree",
+      "workspace"
+    ],
+    "version": "0.51.7",
+    "published_at": "2026-09-03T14:05:23.145Z",
+    "npm_downloads_monthly": 2715,
+    "npm_downloads_weekly": 381,
+    "npm_score_final": 25.142656,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

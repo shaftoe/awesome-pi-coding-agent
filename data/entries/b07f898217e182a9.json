@@ -1,0 +1,30 @@
+{
+  "id": "@codella/pi-theme-candy",
+  "name": "@codella/pi-theme-candy",
+  "url": "https://www.npmjs.com/package/@codella/pi-theme-candy",
+  "source": "npm-search",
+  "description": "Bright neon candy theme for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/codella/pi-packages",
+    "npm_name": "@codella/pi-theme-candy",
+    "description": "Bright neon candy theme for Pi.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-theme",
+      "theme",
+      "candy"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-05-26T21:03:35.592Z",
+    "npm_downloads_monthly": 29,
+    "npm_downloads_weekly": 3,
+    "npm_score_final": 18.20603,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-theme"
+  },
+  "category": "extension"
+}

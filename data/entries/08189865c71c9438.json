@@ -1,0 +1,33 @@
+{
+  "id": "@parke.dev/pi-gauntlet",
+  "name": "@parke.dev/pi-gauntlet",
+  "url": "https://www.npmjs.com/package/@parke.dev/pi-gauntlet",
+  "source": "npm-search",
+  "description": "Goal + gauntlet loop for the pi coding agent: named shell checks that must pass before the agent stops iterating",
+  "metadata": {
+    "github_url": "https://github.com/LukasParke/pi-extensions",
+    "npm_name": "@parke.dev/pi-gauntlet",
+    "description": "Goal + gauntlet loop for the pi coding agent: named shell checks that must pass before the agent stops iterating",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "gauntlet",
+      "goal",
+      "loop",
+      "tests",
+      "extension",
+      "parke.dev"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-15T01:46:43.199Z",
+    "npm_downloads_monthly": 131,
+    "npm_downloads_weekly": 3,
+    "npm_score_final": 14.35086,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

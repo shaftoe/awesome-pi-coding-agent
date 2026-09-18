@@ -1,0 +1,32 @@
+{
+  "id": "@mzwing/pi-model-info",
+  "name": "@mzwing/pi-model-info",
+  "url": "https://www.npmjs.com/package/@mzwing/pi-model-info",
+  "source": "npm-search",
+  "description": "Completes third-party model metadata in Pi from the pi.dev and models.dev catalogs",
+  "metadata": {
+    "github_url": "https://github.com/mzwing/pi-packages",
+    "npm_name": "@mzwing/pi-model-info",
+    "description": "Completes third-party model metadata in Pi from the pi.dev and models.dev catalogs",
+    "keywords": [
+      "context-window",
+      "model-metadata",
+      "models.dev",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "pricing"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-31T07:43:09.611Z",
+    "npm_downloads_monthly": 123,
+    "npm_downloads_weekly": 14,
+    "npm_score_final": 14.411862,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

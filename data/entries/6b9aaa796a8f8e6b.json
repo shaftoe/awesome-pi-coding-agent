@@ -1,0 +1,29 @@
+{
+  "id": "@pandi-coding-agent/pandi",
+  "name": "@pandi-coding-agent/pandi",
+  "url": "https://www.npmjs.com/package/@pandi-coding-agent/pandi",
+  "source": "npm-search",
+  "description": "Extensión de Pi que agrega a Pandi, una mascota panda: un encabezado de arranque, un indicador animado de trabajo y el comando /pandi.",
+  "metadata": {
+    "github_url": "https://github.com/andrestobelem/pandi-extensions",
+    "npm_name": "@pandi-coding-agent/pandi",
+    "description": "Extensión de Pi que agrega a Pandi, una mascota panda: un encabezado de arranque, un indicador animado de trabajo y el comando /pandi.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "mascot",
+      "panda"
+    ],
+    "version": "0.1.10",
+    "published_at": "2026-08-16T22:06:53.972Z",
+    "npm_downloads_monthly": 248,
+    "npm_downloads_weekly": 4,
+    "npm_score_final": 17.591024,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

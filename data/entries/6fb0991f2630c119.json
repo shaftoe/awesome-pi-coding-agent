@@ -1,0 +1,31 @@
+{
+  "id": "@hank-warren/pi-multi-login",
+  "name": "@hank-warren/pi-multi-login",
+  "url": "https://www.npmjs.com/package/@hank-warren/pi-multi-login",
+  "source": "npm-search",
+  "description": "Register additional OAuth logins for Pi's built-in providers under aliased provider ids, managed with /multi-login.",
+  "metadata": {
+    "github_url": "https://github.com/hank-warren/pi-extensions",
+    "npm_name": "@hank-warren/pi-multi-login",
+    "description": "Register additional OAuth logins for Pi's built-in providers under aliased provider ids, managed with /multi-login.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "oauth",
+      "login",
+      "provider",
+      "coding-agent"
+    ],
+    "version": "0.3.2",
+    "published_at": "2026-08-31T18:00:21.249Z",
+    "npm_downloads_monthly": 653,
+    "npm_downloads_weekly": 18,
+    "npm_score_final": 20.118896,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

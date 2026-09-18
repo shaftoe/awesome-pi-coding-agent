@@ -1,0 +1,31 @@
+{
+  "id": "@tian.zuo/pi-compact",
+  "name": "@tian.zuo/pi-compact",
+  "url": "https://www.npmjs.com/package/@tian.zuo/pi-compact",
+  "source": "npm-search",
+  "description": "Codex Responses remote compaction via a configurable cheaper model (e.g. gpt-5.6-luna).",
+  "metadata": {
+    "github_url": "https://github.com/TianZuo555/pi-extensions",
+    "npm_name": "@tian.zuo/pi-compact",
+    "description": "Codex Responses remote compaction via a configurable cheaper model (e.g. gpt-5.6-luna).",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "codex",
+      "compaction",
+      "openai"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-09-15T03:09:49.078Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pi-qwizard",
+  "name": "pi-qwizard",
+  "url": "https://www.npmjs.com/package/pi-qwizard",
+  "source": "npm-search",
+  "description": "Interactive question tools for Pi — single questions, multi-step questionnaires, and open-ended input",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-qwizard",
+    "description": "Interactive question tools for Pi — single questions, multi-step questionnaires, and open-ended input",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "questions",
+      "qna",
+      "wizard",
+      "questionnaire",
+      "interactive",
+      "tui"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-09-10T10:54:54.975Z",
+    "npm_downloads_monthly": 131,
+    "npm_downloads_weekly": 131,
+    "npm_score_final": 14.327515,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

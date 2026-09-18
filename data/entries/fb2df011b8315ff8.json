@@ -1,0 +1,25 @@
+{
+  "id": "@tmustier/pi-ralph-wiggum",
+  "name": "@tmustier/pi-ralph-wiggum",
+  "url": "https://www.npmjs.com/package/@tmustier/pi-ralph-wiggum",
+  "source": "npm-search",
+  "description": "Long-running agent loops for iterative development in Pi.",
+  "metadata": {
+    "github_url": "https://github.com/tmustier/pi-extensions",
+    "npm_name": "@tmustier/pi-ralph-wiggum",
+    "description": "Long-running agent loops for iterative development in Pi.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.3",
+    "published_at": "2026-07-21T12:44:22.006Z",
+    "npm_downloads_monthly": 1822,
+    "npm_downloads_weekly": 362,
+    "npm_score_final": 23.265768,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

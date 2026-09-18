@@ -1,0 +1,34 @@
+{
+  "id": "@firstpick/pi-skill-desktop-visual-design",
+  "name": "@firstpick/pi-skill-desktop-visual-design",
+  "url": "https://www.npmjs.com/package/@firstpick/pi-skill-desktop-visual-design",
+  "source": "npm-search",
+  "description": "Portable Agent Skill for designing system-native desktop apps, Quickshell components, panels, popups, and widgets with reusable palette, state, spacing, typography, border, and motion tokens.",
+  "metadata": {
+    "github_url": "https://github.com/Firstp1ck/pi-coding-agent-forge",
+    "npm_name": "@firstpick/pi-skill-desktop-visual-design",
+    "description": "Portable Agent Skill for designing system-native desktop apps, Quickshell components, panels, popups, and widgets with reusable palette, state, spacing, typography, border, and motion tokens.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "skill",
+      "agent-skill",
+      "desktop",
+      "quickshell",
+      "hyprland",
+      "theming",
+      "design-system"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-27T17:40:04.788Z",
+    "npm_downloads_monthly": 334,
+    "npm_downloads_weekly": 11,
+    "npm_score_final": 17.519598,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

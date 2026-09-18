@@ -1,0 +1,25 @@
+{
+  "id": "@tylerho/pi-copy-all",
+  "name": "@tylerho/pi-copy-all",
+  "url": "https://www.npmjs.com/package/@tylerho/pi-copy-all",
+  "source": "npm-search",
+  "description": "Copies the current thread's user and assistant messages to the clipboard as plain text.",
+  "metadata": {
+    "github_url": "https://github.com/tylerho5/pi-extensions",
+    "npm_name": "@tylerho/pi-copy-all",
+    "description": "Copies the current thread's user and assistant messages to the clipboard as plain text.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-22T20:03:47.556Z",
+    "npm_downloads_monthly": 86,
+    "npm_downloads_weekly": 3,
+    "npm_score_final": 13.786978,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

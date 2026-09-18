@@ -1,0 +1,32 @@
+{
+  "id": "@pi-unipi/input-shortcuts",
+  "name": "@pi-unipi/input-shortcuts",
+  "url": "https://www.npmjs.com/package/@pi-unipi/input-shortcuts",
+  "source": "npm-search",
+  "description": "Keyboard shortcuts for stash/restore, undo/redo, clipboard, and thinking toggle — chord-based overlay system",
+  "metadata": {
+    "github_url": "https://github.com/Neuron-Mr-White/unipi",
+    "npm_name": "@pi-unipi/input-shortcuts",
+    "description": "Keyboard shortcuts for stash/restore, undo/redo, clipboard, and thinking toggle — chord-based overlay system",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "unipi",
+      "input-shortcuts",
+      "stash",
+      "undo",
+      "clipboard"
+    ],
+    "version": "2.20.3",
+    "published_at": "2026-09-17T10:20:00.685Z",
+    "npm_downloads_monthly": 2365,
+    "npm_downloads_weekly": 223,
+    "npm_score_final": 25.780876,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -6,7 +6,7 @@
   "description": "Phalanx multi-agent architecture for Pi — shared memory via agora, role dispatch with chain-of-command, shield_wall retry, and consult-the-oracle escalation",
   "metadata": {
     "github_url": "https://github.com/chicamhao/pi-phalanx",
-    "npm_name": "pi-phalanx",
+    "npm_name": "@chicamhao/pi-phalanx",
     "description": "Phalanx multi-agent architecture for Pi — shared memory via agora, role dispatch with chain-of-command, shield_wall retry, and consult-the-oracle escalation",
     "keywords": [
       "pi-package",
@@ -14,11 +14,11 @@
       "multi-agent",
       "chain-of-command"
     ],
-    "version": "0.1.2",
-    "published_at": "2026-09-06T13:07:57.376Z",
-    "npm_downloads_monthly": 164,
-    "npm_downloads_weekly": 164,
-    "npm_score_final": 15.194376,
+    "version": "0.1.1",
+    "published_at": "2026-09-06T10:13:58.078Z",
+    "npm_downloads_monthly": 288,
+    "npm_downloads_weekly": 288,
+    "npm_score_final": 16.988514,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

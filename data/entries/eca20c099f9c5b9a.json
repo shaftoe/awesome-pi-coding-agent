@@ -1,0 +1,28 @@
+{
+  "id": "@xynogen/pix-nudge",
+  "name": "@xynogen/pix-nudge",
+  "url": "https://www.npmjs.com/package/@xynogen/pix-nudge",
+  "source": "npm-search",
+  "description": "Pi extension — model-steering nudges (tools + capability)",
+  "metadata": {
+    "github_url": "https://github.com/xynogen/pix-mono",
+    "npm_name": "@xynogen/pix-nudge",
+    "description": "Pi extension — model-steering nudges (tools + capability)",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pix"
+    ],
+    "version": "0.2.4",
+    "published_at": "2026-09-03T05:20:28.122Z",
+    "npm_downloads_monthly": 1407,
+    "npm_downloads_weekly": 119,
+    "npm_score_final": 23.890936,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

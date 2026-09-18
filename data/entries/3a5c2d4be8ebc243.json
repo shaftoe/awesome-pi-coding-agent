@@ -1,0 +1,29 @@
+{
+  "id": "@async23/pi-tmux-window-wrap",
+  "name": "@async23/pi-tmux-window-wrap",
+  "url": "https://www.npmjs.com/package/@async23/pi-tmux-window-wrap",
+  "source": "npm-search",
+  "description": "Report Pi agent activity to aipane's tmux-window-wrap status indicator",
+  "metadata": {
+    "github_url": "https://github.com/Async23/pi-packages",
+    "npm_name": "@async23/pi-tmux-window-wrap",
+    "description": "Report Pi agent activity to aipane's tmux-window-wrap status indicator",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "tmux",
+      "status-line",
+      "activity"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-31T07:38:15.863Z",
+    "npm_downloads_monthly": 49,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 14.21419,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

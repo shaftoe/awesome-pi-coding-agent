@@ -1,0 +1,30 @@
+{
+  "id": "pi-provider-guard",
+  "name": "pi-provider-guard",
+  "url": "https://www.npmjs.com/package/pi-provider-guard",
+  "source": "npm-search",
+  "description": "A pi coding-agent extension that keeps pi off the metered anthropic provider and appends user-supplied harness policy prose to every turn.",
+  "metadata": {
+    "github_url": "https://github.com/schuettc/pi-extensions",
+    "npm_name": "pi-provider-guard",
+    "description": "A pi coding-agent extension that keeps pi off the metered anthropic provider and appends user-supplied harness policy prose to every turn.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "guardrails",
+      "policy",
+      "model-guard"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-30T01:44:44.323Z",
+    "npm_downloads_monthly": 166,
+    "npm_downloads_weekly": 9,
+    "npm_score_final": 15.149624,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

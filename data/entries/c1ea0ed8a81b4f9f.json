@@ -1,0 +1,27 @@
+{
+  "id": "pi-rakit",
+  "name": "pi-rakit",
+  "url": "https://www.npmjs.com/package/pi-rakit",
+  "source": "npm-search",
+  "description": "Installer interaktif untuk merakit kumpulan ekstensi Pi",
+  "metadata": {
+    "github_url": "https://github.com/4nndmw/pi-rakit",
+    "npm_name": "pi-rakit",
+    "description": "Installer interaktif untuk merakit kumpulan ekstensi Pi",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "installer"
+    ],
+    "version": "0.1.20",
+    "published_at": "2026-09-05T05:13:48.362Z",
+    "npm_downloads_monthly": 2878,
+    "npm_downloads_weekly": 517,
+    "npm_score_final": 25.048433,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

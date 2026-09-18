@@ -1,0 +1,28 @@
+{
+  "id": "@aliaksei-raketski/pi-continuation-gate-inspector",
+  "name": "@aliaksei-raketski/pi-continuation-gate-inspector",
+  "url": "https://www.npmjs.com/package/@aliaksei-raketski/pi-continuation-gate-inspector",
+  "source": "npm-search",
+  "description": "Local inspector for continuation gate diagnostics.",
+  "metadata": {
+    "github_url": "https://github.com/aliaksei-raketski/pi-packages",
+    "npm_name": "@aliaksei-raketski/pi-continuation-gate-inspector",
+    "description": "Local inspector for continuation gate diagnostics.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "continuation-gate-inspector",
+      "pi-extension"
+    ],
+    "version": "0.3.18",
+    "published_at": "2026-07-27T19:43:22.807Z",
+    "npm_downloads_monthly": 102,
+    "npm_downloads_weekly": 12,
+    "npm_score_final": 14.395608,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

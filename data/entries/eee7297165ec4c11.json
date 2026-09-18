@@ -1,0 +1,34 @@
+{
+  "id": "@parke.dev/pi-integrations",
+  "name": "@parke.dev/pi-integrations",
+  "url": "https://www.npmjs.com/package/@parke.dev/pi-integrations",
+  "source": "npm-search",
+  "description": "Git, GitHub, Slack, Linear and Notion integrations for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/LukasParke/pi-extensions",
+    "npm_name": "@parke.dev/pi-integrations",
+    "description": "Git, GitHub, Slack, Linear and Notion integrations for the Pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "github",
+      "slack",
+      "linear",
+      "notion",
+      "git",
+      "integration",
+      "parke.dev"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-11T21:50:26.003Z",
+    "npm_downloads_monthly": 65,
+    "npm_downloads_weekly": 9,
+    "npm_score_final": 15.411771,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "@walterra/pi-web-tools",
+  "name": "@walterra/pi-web-tools",
+  "url": "https://www.npmjs.com/package/@walterra/pi-web-tools",
+  "source": "npm-search",
+  "description": "Web search and page extraction tools for pi using Kagi Search and Jina Reader",
+  "metadata": {
+    "github_url": "https://github.com/walterra/agent-tools",
+    "npm_name": "@walterra/pi-web-tools",
+    "description": "Web search and page extraction tools for pi using Kagi Search and Jina Reader",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "web-search",
+      "kagi",
+      "jina-reader",
+      "web-fetch"
+    ],
+    "version": "0.0.2",
+    "published_at": "2026-08-26T19:34:21.350Z",
+    "npm_downloads_monthly": 253,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 16.737438,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

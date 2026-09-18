@@ -1,0 +1,27 @@
+{
+  "id": "@2wchuang/pro-advisor",
+  "name": "@2wchuang/pro-advisor",
+  "url": "https://www.npmjs.com/package/@2wchuang/pro-advisor",
+  "source": "npm-search",
+  "description": "Pi extension. A second opinion from a stronger reviewer model, kept in one persistent session per executor session.",
+  "metadata": {
+    "github_url": "https://github.com/2wchuang/pro-advisor",
+    "npm_name": "@2wchuang/pro-advisor",
+    "description": "Pi extension. A second opinion from a stronger reviewer model, kept in one persistent session per executor session.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "advisor"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-09-10T10:41:08.540Z",
+    "npm_downloads_monthly": 949,
+    "npm_downloads_weekly": 949,
+    "npm_score_final": 21.414215,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

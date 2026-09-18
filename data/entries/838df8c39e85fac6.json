@@ -1,0 +1,29 @@
+{
+  "id": "@pandi-coding-agent/pandi-doctor",
+  "name": "@pandi-coding-agent/pandi-doctor",
+  "url": "https://www.npmjs.com/package/@pandi-coding-agent/pandi-doctor",
+  "source": "npm-search",
+  "description": "Extensión de Pi que agrega /doctor: una ejecución en sesión del chequeo de entorno de pandi-extensions (scripts/doctor.mjs).",
+  "metadata": {
+    "github_url": "https://github.com/andrestobelem/pandi-extensions",
+    "npm_name": "@pandi-coding-agent/pandi-doctor",
+    "description": "Extensión de Pi que agrega /doctor: una ejecución en sesión del chequeo de entorno de pandi-extensions (scripts/doctor.mjs).",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "doctor",
+      "diagnostics"
+    ],
+    "version": "0.2.13",
+    "published_at": "2026-08-16T22:07:16.503Z",
+    "npm_downloads_monthly": 312,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 17.35007,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

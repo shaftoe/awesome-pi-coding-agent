@@ -1,0 +1,28 @@
+{
+  "id": "@amaster.ai/pi-dingtalk",
+  "name": "@amaster.ai/pi-dingtalk",
+  "url": "https://www.npmjs.com/package/@amaster.ai/pi-dingtalk",
+  "source": "npm-search",
+  "description": "Pi extension for DingTalk workspace — calendar, docs, chat, todo, sheets, mail and more via dws CLI.",
+  "metadata": {
+    "github_url": "https://github.com/TGYD-helige/pi",
+    "npm_name": "@amaster.ai/pi-dingtalk",
+    "description": "Pi extension for DingTalk workspace — calendar, docs, chat, todo, sheets, mail and more via dws CLI.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "dingtalk"
+    ],
+    "version": "0.1.15",
+    "published_at": "2026-09-11T06:38:28.711Z",
+    "npm_downloads_monthly": 3362,
+    "npm_downloads_weekly": 674,
+    "npm_score_final": 25.487644,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

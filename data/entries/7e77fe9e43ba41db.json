@@ -1,0 +1,31 @@
+{
+  "id": "@monopi/bash-live-view",
+  "name": "@monopi/bash-live-view",
+  "url": "https://www.npmjs.com/package/@monopi/bash-live-view",
+  "source": "npm-search",
+  "description": "PTY-backed live bash rendering for pi with a real-time terminal widget and /bash-pty command.",
+  "metadata": {
+    "github_url": "https://github.com/ifiokjr/monopi",
+    "npm_name": "@monopi/bash-live-view",
+    "description": "PTY-backed live bash rendering for pi with a real-time terminal widget and /bash-pty command.",
+    "keywords": [
+      "bash",
+      "live-view",
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "pty",
+      "terminal"
+    ],
+    "version": "0.6.1",
+    "published_at": "2026-08-28T13:47:11.115Z",
+    "npm_downloads_monthly": 303,
+    "npm_downloads_weekly": 13,
+    "npm_score_final": 17.355577,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

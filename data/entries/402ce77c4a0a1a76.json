@@ -8,9 +8,9 @@
     "github_url": "https://github.com/EclipseAditya/pi-muse-spark",
     "repo_full_name": "EclipseAditya/pi-muse-spark",
     "description": "Pi extension for Meta Muse Spark 1.2/1.1 via Model API — fixed auth for pi v0.84+ (fork of seemethere/pi-meta-ai)",
-    "stars": 0,
-    "forks": 0,
-    "open_issues": 0,
+    "stars": 1,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "meta",
       "muse-spark",
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-08-11T17:16:36Z",
     "pushed_at": "2026-08-11T17:24:05Z",
-    "updated_at": "2026-08-11T17:24:13Z",
+    "updated_at": "2026-09-17T14:02:20Z",
     "size": 42,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

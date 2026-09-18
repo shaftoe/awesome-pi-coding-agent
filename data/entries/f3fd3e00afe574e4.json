@@ -1,0 +1,38 @@
+{
+  "id": "datcrazy-remote",
+  "name": "datcrazy-remote",
+  "url": "https://www.npmjs.com/package/datcrazy-remote",
+  "source": "npm-search",
+  "description": "datcrazy-remote: branded fork of remote-pi. Mobile remote control and local agent mesh for the Pi coding agent, isolated under its own config namespace and defaulting to the self-hosted datcrazy relay.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "datcrazy-remote",
+    "description": "datcrazy-remote: branded fork of remote-pi. Mobile remote control and local agent mesh for the Pi coding agent, isolated under its own config namespace and defaulting to the self-hosted datcrazy relay.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "datcrazy",
+      "datcrazy-remote",
+      "remote-control",
+      "mobile",
+      "coding-agent",
+      "agent-mesh",
+      "uds",
+      "broker",
+      "qr-pairing",
+      "websocket"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-17T15:40:19.952Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

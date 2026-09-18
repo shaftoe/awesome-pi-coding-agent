@@ -1,0 +1,30 @@
+{
+  "id": "@async23/pi-notify",
+  "name": "@async23/pi-notify",
+  "url": "https://www.npmjs.com/package/@async23/pi-notify",
+  "source": "npm-search",
+  "description": "Native macOS completion notifications for Pi with tmux click-to-focus",
+  "metadata": {
+    "github_url": "https://github.com/Async23/pi-packages",
+    "npm_name": "@async23/pi-notify",
+    "description": "Native macOS completion notifications for Pi with tmux click-to-focus",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "notifications",
+      "macos",
+      "ghostty",
+      "tmux"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-07-20T18:25:04.382Z",
+    "npm_downloads_monthly": 77,
+    "npm_downloads_weekly": 6,
+    "npm_score_final": 16.20178,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

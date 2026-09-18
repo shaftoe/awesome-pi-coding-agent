@@ -1,0 +1,30 @@
+{
+  "id": "@pithos-kit/answer",
+  "name": "@pithos-kit/answer",
+  "url": "https://www.npmjs.com/package/@pithos-kit/answer",
+  "source": "npm-search",
+  "description": "Interactive Q&A extraction and answer submission for Pi assistant responses.",
+  "metadata": {
+    "github_url": "https://github.com/anton-kochev/pithos-kit",
+    "npm_name": "@pithos-kit/answer",
+    "description": "Interactive Q&A extraction and answer submission for Pi assistant responses.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pithos",
+      "questions",
+      "answers",
+      "prompt-generator"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-09-03T16:27:33.205Z",
+    "npm_downloads_monthly": 109,
+    "npm_downloads_weekly": 30,
+    "npm_score_final": 13.865996,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

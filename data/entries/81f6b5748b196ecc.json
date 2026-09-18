@@ -1,0 +1,31 @@
+{
+  "id": "@inobit/pi-retry",
+  "name": "@inobit/pi-retry",
+  "url": "https://www.npmjs.com/package/@inobit/pi-retry",
+  "source": "npm-search",
+  "description": "Manual transparent retry for Pi coding agent: re-issue the last failed turn without injecting any prompt into the LLM context",
+  "metadata": {
+    "github_url": "https://github.com/inobit/pi-packages",
+    "npm_name": "@inobit/pi-retry",
+    "description": "Manual transparent retry for Pi coding agent: re-issue the last failed turn without injecting any prompt into the LLM context",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "retry",
+      "resilience",
+      "coding-agent"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-22T09:03:00.850Z",
+    "npm_downloads_monthly": 378,
+    "npm_downloads_weekly": 10,
+    "npm_score_final": 18.227497,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "@nicknisi/pi-shared",
+  "name": "@nicknisi/pi-shared",
+  "url": "https://www.npmjs.com/package/@nicknisi/pi-shared",
+  "source": "npm-search",
+  "description": "Shared helpers for Nick's pi extensions (one-off LLM provider access, TUI utilities)",
+  "metadata": {
+    "github_url": "https://github.com/nicknisi/pi-extensions",
+    "npm_name": "@nicknisi/pi-shared",
+    "description": "Shared helpers for Nick's pi extensions (one-off LLM provider access, TUI utilities)",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-package"
+    ],
+    "version": "0.5.1",
+    "published_at": "2026-08-15T15:52:26.003Z",
+    "npm_downloads_monthly": 1051,
+    "npm_downloads_weekly": 145,
+    "npm_score_final": 21.768164,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

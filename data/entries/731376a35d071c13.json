@@ -1,0 +1,32 @@
+{
+  "id": "@firstpick/pi-package-questionnaire",
+  "name": "@firstpick/pi-package-questionnaire",
+  "url": "https://www.npmjs.com/package/@firstpick/pi-package-questionnaire",
+  "source": "npm-search",
+  "description": "Native TUI and RPC questionnaires for the Pi coding agent, with resumable clarification.",
+  "metadata": {
+    "github_url": "https://github.com/Firstp1ck/pi-coding-agent-forge",
+    "npm_name": "@firstpick/pi-package-questionnaire",
+    "description": "Native TUI and RPC questionnaires for the Pi coding agent, with resumable clarification.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "skill",
+      "questionnaire",
+      "tui",
+      "rpc"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-08-07T20:47:01.423Z",
+    "npm_downloads_monthly": 86,
+    "npm_downloads_weekly": 13,
+    "npm_score_final": 17.033253,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "@lnittman/pi-tools",
+  "name": "@lnittman/pi-tools",
+  "url": "https://www.npmjs.com/package/@lnittman/pi-tools",
+  "source": "npm-search",
+  "description": "Tool-pack contract for pi-mono SDK consumers — composable extension factories for code, HIL, orchestration, and annotation capabilities, consumable by any product that uses @mariozechner/pi-coding-agent",
+  "metadata": {
+    "github_url": "https://github.com/creative-int/packages",
+    "npm_name": "@lnittman/pi-tools",
+    "description": "Tool-pack contract for pi-mono SDK consumers — composable extension factories for code, HIL, orchestration, and annotation capabilities, consumable by any product that uses @mariozechner/pi-coding-agent",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "pi-extension",
+      "tool-pack",
+      "factory",
+      "sdk",
+      "developer-tools",
+      "coding-agent"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-04-19T01:20:42.257Z",
+    "npm_downloads_monthly": 15,
+    "npm_downloads_weekly": 2,
+    "npm_score_final": 9.632786,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

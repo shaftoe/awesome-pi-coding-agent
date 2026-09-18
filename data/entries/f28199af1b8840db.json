@@ -9,7 +9,7 @@
     "repo_full_name": "ktappdev/pi-trajectory",
     "description": "Trajectory For All — a browser-based inspection surface for pi coding agent sessions. Local-first, read-only, replay-only.",
     "stars": 2,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
