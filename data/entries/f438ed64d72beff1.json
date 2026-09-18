@@ -1,0 +1,31 @@
+{
+  "id": "clankagent-pi-jev",
+  "name": "clankagent-pi-jev",
+  "url": "https://github.com/clankagent/pi-jev",
+  "source": "github-search",
+  "description": "Jev-powered semantic process conditions and skill suggestions for Pi",
+  "metadata": {
+    "github_url": "https://github.com/clankagent/pi-jev",
+    "repo_full_name": "clankagent/pi-jev",
+    "description": "Jev-powered semantic process conditions and skill suggestions for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "jev",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-17T16:59:15Z",
+    "pushed_at": "2026-09-17T18:44:39Z",
+    "updated_at": "2026-09-17T18:50:05Z",
+    "size": 38,
+    "license": "Unlicense",
+    "discovery_hint": "github:add-url"
+  },
+  "category": "extension"
+}
