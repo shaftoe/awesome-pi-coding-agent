@@ -3,11 +3,11 @@
   "name": "rayedbajwa-spaces",
   "url": "https://github.com/rayedbajwa/spaces",
   "source": "github-search",
-  "description": "Agent-driven SDLC orchestrator: specify \u2192 plan \u2192 tasks \u2192 implement \u2192 verify, backed by AIDLC workflows + the Pi Coding Agent SDK. Human-in-the-loop review gates, per-project sub-agents, app-wide GitHub/Jira/Confluence/Slack integrations.",
+  "description": "Agent-driven SDLC orchestrator: specify → plan → tasks → implement → verify, backed by AIDLC workflows + the Pi Coding Agent SDK. Human-in-the-loop review gates, per-project sub-agents, app-wide GitHub/Jira/Confluence/Slack integrations.",
   "metadata": {
     "github_url": "https://github.com/rayedbajwa/spaces",
     "repo_full_name": "rayedbajwa/spaces",
-    "description": "Agent-driven SDLC orchestrator: specify \u2192 plan \u2192 tasks \u2192 implement \u2192 verify, backed by AIDLC workflows + the Pi Coding Agent SDK. Human-in-the-loop review gates, per-project sub-agents, app-wide GitHub/Jira/Confluence/Slack integrations.",
+    "description": "Agent-driven SDLC orchestrator: specify → plan → tasks → implement → verify, backed by AIDLC workflows + the Pi Coding Agent SDK. Human-in-the-loop review gates, per-project sub-agents, app-wide GitHub/Jira/Confluence/Slack integrations.",
     "stars": 3,
     "forks": 0,
     "open_issues": 0,
@@ -35,11 +35,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-15T06:48:58Z",
-    "pushed_at": "2026-09-16T20:06:09Z",
-    "updated_at": "2026-09-17T19:42:49Z",
-    "size": 2620,
+    "pushed_at": "2026-09-18T21:05:25Z",
+    "updated_at": "2026-09-18T21:05:29Z",
+    "size": 11317,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
-  "category": "extension"
+  "category": "misc"
 }

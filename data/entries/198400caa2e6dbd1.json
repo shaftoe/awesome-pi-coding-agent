@@ -1,0 +1,25 @@
+{
+  "id": "sylo-ignition",
+  "name": "sylo-ignition",
+  "url": "https://www.npmjs.com/package/sylo-ignition",
+  "source": "npm-search",
+  "description": "Ignition 8.3 gateway + project assistant — file-based resource authoring, REST scan/hot-reload, tag scaffolding, screenshot-verified Perspective UI",
+  "metadata": {
+    "github_url": "https://github.com/Yeti-Trix/sylo-ignition",
+    "npm_name": "sylo-ignition",
+    "description": "Ignition 8.3 gateway + project assistant — file-based resource authoring, REST scan/hot-reload, tag scaffolding, screenshot-verified Perspective UI",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-12T00:41:32.487Z",
+    "npm_downloads_monthly": 312,
+    "npm_downloads_weekly": 312,
+    "npm_score_final": 17.341667,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

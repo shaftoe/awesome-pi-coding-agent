@@ -1,0 +1,36 @@
+{
+  "id": "@bachi/pi-coder",
+  "name": "@bachi/pi-coder",
+  "url": "https://www.npmjs.com/package/@bachi/pi-coder",
+  "source": "npm-search",
+  "description": "A complete Pi coding-agent environment: 23 TUI extensions, 3 themes and the global config files that make them work together.",
+  "metadata": {
+    "github_url": "https://github.com/jayli/pi-coder",
+    "npm_name": "@bachi/pi-coder",
+    "description": "A complete Pi coding-agent environment: 23 TUI extensions, 3 themes and the global config files that make them work together.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "extensions",
+      "themes",
+      "theme",
+      "statusline",
+      "tui",
+      "terminal",
+      "coding-agent",
+      "agent"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-09-18T16:30:40.862Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

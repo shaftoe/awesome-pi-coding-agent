@@ -1,0 +1,38 @@
+{
+  "id": "oh-my-subscriptions",
+  "name": "oh-my-subscriptions",
+  "url": "https://www.npmjs.com/package/oh-my-subscriptions",
+  "source": "npm-search",
+  "description": "Track and safely route Claude Code, Codex, Gemini, and Kiro subscription quotas across multiple accounts",
+  "metadata": {
+    "github_url": "https://github.com/goosull/oh-my-subscriptions",
+    "npm_name": "oh-my-subscriptions",
+    "description": "Track and safely route Claude Code, Codex, Gemini, and Kiro subscription quotas across multiple accounts",
+    "keywords": [
+      "pi-package",
+      "ai-subscription-manager",
+      "quota-tracker",
+      "claude-code",
+      "openai-codex",
+      "gemini-cli",
+      "antigravity",
+      "kiro",
+      "multi-account",
+      "oauth",
+      "account-switcher",
+      "usage-monitor",
+      "coding-agent",
+      "terminal"
+    ],
+    "version": "0.33.1",
+    "published_at": "2026-09-18T03:19:59.122Z",
+    "npm_downloads_monthly": 947,
+    "npm_downloads_weekly": 947,
+    "npm_score_final": 20.820599,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "yourChainGod-pi-provider-newapi-hdd",
+  "name": "yourChainGod-pi-provider-newapi-hdd",
+  "url": "https://github.com/yourChainGod/pi-provider-newapi-hdd",
+  "source": "github-search",
+  "description": "Provider-only Pi extension for self-hosted NewAPI gateways",
+  "metadata": {
+    "github_url": "https://github.com/yourChainGod/pi-provider-newapi-hdd",
+    "repo_full_name": "yourChainGod/pi-provider-newapi-hdd",
+    "description": "Provider-only Pi extension for self-hosted NewAPI gateways",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-gateway",
+      "newapi",
+      "pi",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-25T20:09:08Z",
+    "pushed_at": "2026-08-25T20:09:15Z",
+    "updated_at": "2026-09-18T09:44:23Z",
+    "size": 40,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

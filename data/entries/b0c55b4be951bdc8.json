@@ -1,0 +1,28 @@
+{
+  "id": "@po.dev/pi-branch-workspace",
+  "name": "@po.dev/pi-branch-workspace",
+  "url": "https://www.npmjs.com/package/@po.dev/pi-branch-workspace",
+  "source": "npm-search",
+  "description": "Per-git-branch .pi workspace context for pi",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@po.dev/pi-branch-workspace",
+    "description": "Per-git-branch .pi workspace context for pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "branch",
+      "workspace"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-09-18T15:18:13.885Z",
+    "npm_downloads_monthly": 124,
+    "npm_downloads_weekly": 124,
+    "npm_score_final": 13.907105,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "sylo-plc-comms",
+  "name": "sylo-plc-comms",
+  "url": "https://www.npmjs.com/package/sylo-plc-comms",
+  "source": "npm-search",
+  "description": "PLC comms layer for Studio 5000/Logix — CIP (EtherNet/IP via ciplogix, vendored wheel) controller info + tag reads/writes, and OPC UA (asyncua) browse/read/write. No Logix Designer SDK required.",
+  "metadata": {
+    "github_url": "https://github.com/Yeti-Trix/sylo-plc-comms",
+    "npm_name": "sylo-plc-comms",
+    "description": "PLC comms layer for Studio 5000/Logix — CIP (EtherNet/IP via ciplogix, vendored wheel) controller info + tag reads/writes, and OPC UA (asyncua) browse/read/write. No Logix Designer SDK required.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-12T00:52:59.302Z",
+    "npm_downloads_monthly": 306,
+    "npm_downloads_weekly": 306,
+    "npm_score_final": 16.90735,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

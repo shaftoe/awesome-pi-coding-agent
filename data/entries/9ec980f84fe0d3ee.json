@@ -1,0 +1,28 @@
+{
+  "id": "pi-wait",
+  "name": "pi-wait",
+  "url": "https://www.npmjs.com/package/pi-wait",
+  "source": "npm-search",
+  "description": "Send a queued Pi message after a timeout",
+  "metadata": {
+    "github_url": "https://github.com/brettinternet/pi-extensions",
+    "npm_name": "pi-wait",
+    "description": "Send a queued Pi message after a timeout",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "wait",
+      "timer"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-09-18T20:33:30.183Z",
+    "npm_downloads_monthly": 294,
+    "npm_downloads_weekly": 294,
+    "npm_score_final": 17.778074,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pi-footer-styler",
+  "name": "pi-footer-styler",
+  "url": "https://www.npmjs.com/package/pi-footer-styler",
+  "source": "npm-search",
+  "description": "Custom status-bar footer for the pi coding agent — model, thinking level, path, git branch, token usage, cost, context window usage, and cache hit rate, and generation throughput.",
+  "metadata": {
+    "github_url": "https://github.com/ducaoya/pi-footer-styler",
+    "npm_name": "pi-footer-styler",
+    "description": "Custom status-bar footer for the pi coding agent — model, thinking level, path, git branch, token usage, cost, context window usage, and cache hit rate, and generation throughput.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "footer",
+      "status-bar",
+      "extension"
+    ],
+    "version": "0.1.9",
+    "published_at": "2026-09-11T16:06:02.757Z",
+    "npm_downloads_monthly": 621,
+    "npm_downloads_weekly": 600,
+    "npm_score_final": 20.425589,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

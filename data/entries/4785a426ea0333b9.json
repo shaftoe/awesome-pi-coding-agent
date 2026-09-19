@@ -1,0 +1,29 @@
+{
+  "id": "@danielmarbach/pi-tgrep",
+  "name": "@danielmarbach/pi-tgrep",
+  "url": "https://www.npmjs.com/package/@danielmarbach/pi-tgrep",
+  "source": "npm-search",
+  "description": "tgrep-backed code search for pi: auto-indexes the repo and routes all grep traffic through the trigram index",
+  "metadata": {
+    "github_url": "https://github.com/danielmarbach/pi-tgrep",
+    "npm_name": "@danielmarbach/pi-tgrep",
+    "description": "tgrep-backed code search for pi: auto-indexes the repo and routes all grep traffic through the trigram index",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "tgrep",
+      "search"
+    ],
+    "version": "0.2.3",
+    "published_at": "2026-09-18T10:39:15.786Z",
+    "npm_downloads_monthly": 494,
+    "npm_downloads_weekly": 494,
+    "npm_score_final": 18.702644,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "@dihak/pix-ls",
+  "name": "@dihak/pix-ls",
+  "url": "https://www.npmjs.com/package/@dihak/pix-ls",
+  "source": "npm-search",
+  "description": "Pi tool — directory listing with tree view",
+  "metadata": {
+    "github_url": "https://github.com/dihak/pix-mono",
+    "npm_name": "@dihak/pix-ls",
+    "description": "Pi tool — directory listing with tree view",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "ls"
+    ],
+    "version": "0.1.16",
+    "published_at": "2026-09-11T02:28:40.287Z",
+    "npm_downloads_monthly": 258,
+    "npm_downloads_weekly": 216,
+    "npm_score_final": 16.511642,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

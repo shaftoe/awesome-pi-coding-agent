@@ -56627,5 +56627,125 @@
 		"reason": "Duplicate of pi-vscode-fork (same GitHub repo https://github.com/dcalsky/pi-vscode); lower popularity",
 		"blacklisted_at": "2026-09-18T01:11:10.592690502Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/lafco/pi-cze-theme",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-19T00:58:17.202170719Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=K-fJSTTcT_s",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-19T00:58:17.386268321Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=gfhoJY2D4Jc",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-19T00:58:17.573271024Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@foolsecret/pi-prompt",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-19T00:58:17.609329609Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=u2vaM7ppzuE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-19T00:58:17.619191532Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/omp-multi-harness",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-19T00:58:17.673618998Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=_r5B_5Ye5O0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-19T00:58:17.835953665Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=jTaEy2G9FeA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-19T00:58:17.91722426Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/llm-wiki-pi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-19T00:58:17.958402394Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/sammyjoyce/prime-pstack",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-19T00:58:18.010587632Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Tiziano-AI/pi-continue",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-19T00:58:18.162922336Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=xujzWG9AtFI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-19T00:58:18.277558034Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
 	}
 ]

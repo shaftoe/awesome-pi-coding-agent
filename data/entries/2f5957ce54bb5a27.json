@@ -10,7 +10,7 @@
     "description": "A native pi extension that transforms a folder of task files into an autonomous, observable delivery pipeline. It drives a multi-phase execution loop (implementation, review, cleanup, learner, sync) using ephemeral subprocesses with persisted state, spending ceilings, and kill-safe resume capabilities.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 14,
+    "open_issues": 4,
     "topics": [
       "pi",
       "pi-coding-agent",
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-18T08:51:09Z",
-    "pushed_at": "2026-09-17T17:02:22Z",
-    "updated_at": "2026-09-17T17:02:28Z",
-    "size": 1895,
+    "pushed_at": "2026-09-18T16:48:02Z",
+    "updated_at": "2026-09-18T07:36:25Z",
+    "size": 2077,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

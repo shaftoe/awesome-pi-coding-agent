@@ -1,0 +1,25 @@
+{
+  "id": "sylo-allen-bradley",
+  "name": "sylo-allen-bradley",
+  "url": "https://www.npmjs.com/package/sylo-allen-bradley",
+  "source": "npm-search",
+  "description": "Studio 5000 Logix Designer SDK wrapper — controller upload/download and ACD↔L5X export/import. The SDK itself is not bundled (operator-licensed wheel); PLC comms live in sylo-plc-comms, L5X parse/IO scaffold in sylo-logicforge.",
+  "metadata": {
+    "github_url": "https://github.com/Yeti-Trix/sylo-allen-bradley",
+    "npm_name": "sylo-allen-bradley",
+    "description": "Studio 5000 Logix Designer SDK wrapper — controller upload/download and ACD↔L5X export/import. The SDK itself is not bundled (operator-licensed wheel); PLC comms live in sylo-plc-comms, L5X parse/IO scaffold in sylo-logicforge.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-12T00:40:27.601Z",
+    "npm_downloads_monthly": 327,
+    "npm_downloads_weekly": 327,
+    "npm_score_final": 17.295046,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

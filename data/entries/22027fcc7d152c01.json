@@ -1,0 +1,33 @@
+{
+  "id": "kevinpita-pi-jev-context",
+  "name": "kevinpita-pi-jev-context",
+  "url": "https://github.com/kevinpita/pi-jev-context",
+  "source": "github-search",
+  "description": "Reversible context pruning for Pi, powered by TypeSafe Jev. Keep useful context without deleting session history.",
+  "metadata": {
+    "github_url": "https://github.com/kevinpita/pi-jev-context",
+    "repo_full_name": "kevinpita/pi-jev-context",
+    "description": "Reversible context pruning for Pi, powered by TypeSafe Jev. Keep useful context without deleting session history.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "context-pruning",
+      "jev",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "typesafe",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-18T16:04:30Z",
+    "pushed_at": "2026-09-18T16:10:42Z",
+    "updated_at": "2026-09-18T17:12:09Z",
+    "size": 504,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

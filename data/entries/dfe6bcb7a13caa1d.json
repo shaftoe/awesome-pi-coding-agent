@@ -1,0 +1,29 @@
+{
+  "id": "wsjwu58-cmd-Pi-Paper",
+  "name": "wsjwu58-cmd-Pi-Paper",
+  "url": "https://github.com/wsjwu58-cmd/Pi-Paper",
+  "source": "github-search",
+  "description": "AI-native node-based infinite canvas for text, image, video, and audio creation, with Agent orchestration and points-based workflows.",
+  "metadata": {
+    "github_url": "https://github.com/wsjwu58-cmd/Pi-Paper",
+    "repo_full_name": "wsjwu58-cmd/Pi-Paper",
+    "description": "AI-native node-based infinite canvas for text, image, video, and audio creation, with Agent orchestration and points-based workflows.",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-agent",
+      "pi-agent-core",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-11T01:52:37Z",
+    "pushed_at": "2026-09-18T08:54:05Z",
+    "updated_at": "2026-09-18T09:27:41Z",
+    "size": 24790,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

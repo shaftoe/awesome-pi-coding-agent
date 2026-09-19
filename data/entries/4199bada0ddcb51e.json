@@ -1,0 +1,30 @@
+{
+  "id": "@ruivalim/pi-model-filter",
+  "name": "@ruivalim/pi-model-filter",
+  "url": "https://www.npmjs.com/package/@ruivalim/pi-model-filter",
+  "source": "npm-search",
+  "description": "Filter and block models from any provider via declarative allow/block rules. Hide unwanted Copilot models, enforce global allowlists, or block by context window size.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@ruivalim/pi-model-filter",
+    "description": "Filter and block models from any provider via declarative allow/block rules. Hide unwanted Copilot models, enforce global allowlists, or block by context window size.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "model-filter",
+      "pi",
+      "model-blocking",
+      "github-copilot"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-09-11T04:53:02.159Z",
+    "npm_downloads_monthly": 212,
+    "npm_downloads_weekly": 181,
+    "npm_score_final": 15.788212,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
