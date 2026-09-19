@@ -8,7 +8,7 @@
     "github_url": "https://github.com/smarzban/pi-review-panel",
     "repo_full_name": "smarzban/pi-review-panel",
     "description": "Multi-model review panel for pi coding agents",
-    "stars": 14,
+    "stars": 15,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-13T08:25:27Z",
     "pushed_at": "2026-09-05T21:28:57Z",
-    "updated_at": "2026-09-16T15:13:40Z",
+    "updated_at": "2026-09-18T18:30:02Z",
     "size": 339,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

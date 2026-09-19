@@ -1,0 +1,32 @@
+{
+  "id": "LitoMore-agent-discord-presence",
+  "name": "LitoMore-agent-discord-presence",
+  "url": "https://github.com/LitoMore/agent-discord-presence",
+  "source": "github-search",
+  "description": "Discord Rich Presence for Codex, Claude Code, OpenCode, Pi, and DeepSeek Harness, powered by one local service that keeps your active work visible in Discord.",
+  "metadata": {
+    "github_url": "https://github.com/LitoMore/agent-discord-presence",
+    "repo_full_name": "LitoMore/agent-discord-presence",
+    "description": "Discord Rich Presence for Codex, Claude Code, OpenCode, Pi, and DeepSeek Harness, powered by one local service that keeps your active work visible in Discord.",
+    "stars": 4,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "claude-code",
+      "codex",
+      "deepseek-harness",
+      "discord-presence",
+      "dsh-plugin",
+      "pi-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-15T05:22:15Z",
+    "pushed_at": "2026-09-17T08:51:44Z",
+    "updated_at": "2026-09-18T16:10:36Z",
+    "size": 107,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

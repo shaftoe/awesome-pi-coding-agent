@@ -1,0 +1,25 @@
+{
+  "id": "pi-custom-editor",
+  "name": "pi-custom-editor",
+  "url": "https://www.npmjs.com/package/pi-custom-editor",
+  "source": "npm-search",
+  "description": "Custom Pi editor and semantic footer",
+  "metadata": {
+    "github_url": "https://github.com/luan/agents",
+    "npm_name": "pi-custom-editor",
+    "description": "Custom Pi editor and semantic footer",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.3.3",
+    "published_at": "2026-09-12T00:24:53.540Z",
+    "npm_downloads_monthly": 302,
+    "npm_downloads_weekly": 302,
+    "npm_score_final": 17.042,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

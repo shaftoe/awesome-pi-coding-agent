@@ -1,0 +1,31 @@
+{
+  "id": "find-flight",
+  "name": "find-flight",
+  "url": "https://www.npmjs.com/package/find-flight",
+  "source": "npm-search",
+  "description": "Google Flights search for agents — a pi extension (search_flights tool) + portable skill, powered by the fast-flights scraper.",
+  "metadata": {
+    "github_url": "https://github.com/fcan-dev/find-flight",
+    "npm_name": "find-flight",
+    "description": "Google Flights search for agents — a pi extension (search_flights tool) + portable skill, powered by the fast-flights scraper.",
+    "keywords": [
+      "pi-package",
+      "flights",
+      "google-flights",
+      "travel",
+      "flight-search",
+      "fast-flights",
+      "trip"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-09-11T11:58:24.910Z",
+    "npm_downloads_monthly": 191,
+    "npm_downloads_weekly": 182,
+    "npm_score_final": 15.338413,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

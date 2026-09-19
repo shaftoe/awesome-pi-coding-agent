@@ -8,7 +8,7 @@
     "github_url": "https://github.com/gg-skills/pi",
     "repo_full_name": "gg-skills/pi",
     "description": "Use when configuring, extending, or troubleshooting the pi coding agent in your workspace. Covers installation, CLI usage, extension authoring, custom providers, model configuration, package management, multi-agent orchestration, and RPC integration.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-04T05:59:16Z",
     "pushed_at": "2026-07-21T01:52:15Z",
-    "updated_at": "2026-07-21T01:52:19Z",
+    "updated_at": "2026-09-18T05:53:36Z",
     "size": 644,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"

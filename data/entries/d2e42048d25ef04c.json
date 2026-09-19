@@ -1,0 +1,33 @@
+{
+  "id": "Wang-auspicious-pi-jev-compaction",
+  "name": "Wang-auspicious-pi-jev-compaction",
+  "url": "https://github.com/Wang-auspicious/pi-jev-compaction",
+  "source": "github-search",
+  "description": "Jev-powered context compaction for Pi. Keep critical instructions and tool history, prune the noise, and fall back gracefully.",
+  "metadata": {
+    "github_url": "https://github.com/Wang-auspicious/pi-jev-compaction",
+    "repo_full_name": "Wang-auspicious/pi-jev-compaction",
+    "description": "Jev-powered context compaction for Pi. Keep critical instructions and tool history, prune the noise, and fall back gracefully.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "context-compaction",
+      "jev",
+      "pi",
+      "pi-package",
+      "typesafe-ai",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-18T10:43:18Z",
+    "pushed_at": "2026-09-18T11:04:12Z",
+    "updated_at": "2026-09-18T11:14:04Z",
+    "size": 43,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

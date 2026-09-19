@@ -1,0 +1,33 @@
+{
+  "id": "SuperLogicAI-Logic-Loop",
+  "name": "SuperLogicAI-Logic-Loop",
+  "url": "https://github.com/SuperLogicAI/Logic-Loop",
+  "source": "github-search",
+  "description": "Effortlessly switch between multiple concurrent AI coding agent terminal sessions (Agy, Claude, Codex, OpenCode, Dsh, and Pi) — a macOS app by Super Logic AI (early testing for Linux and Windows now available!))",
+  "metadata": {
+    "github_url": "https://github.com/SuperLogicAI/Logic-Loop",
+    "repo_full_name": "SuperLogicAI/Logic-Loop",
+    "description": "Effortlessly switch between multiple concurrent AI coding agent terminal sessions (Agy, Claude, Codex, OpenCode, Dsh, and Pi) — a macOS app by Super Logic AI (early testing for Linux and Windows now available!))",
+    "stars": 12,
+    "forks": 2,
+    "open_issues": 1,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "macos",
+      "react",
+      "rust",
+      "tauri",
+      "terminal"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-12T09:25:03Z",
+    "pushed_at": "2026-09-18T23:07:06Z",
+    "updated_at": "2026-09-18T23:07:09Z",
+    "size": 7808,
+    "license": "GPL-3.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

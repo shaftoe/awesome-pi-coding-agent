@@ -1,0 +1,25 @@
+{
+  "id": "sylo-fieldbrain",
+  "name": "sylo-fieldbrain",
+  "url": "https://www.npmjs.com/package/sylo-fieldbrain",
+  "source": "npm-search",
+  "description": "FieldBrain — shared shop knowledge (projects, docs, brains, maintenance notes)",
+  "metadata": {
+    "github_url": "https://github.com/Yeti-Trix/sylo-fieldbrain",
+    "npm_name": "sylo-fieldbrain",
+    "description": "FieldBrain — shared shop knowledge (projects, docs, brains, maintenance notes)",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-12T00:40:38.526Z",
+    "npm_downloads_monthly": 321,
+    "npm_downloads_weekly": 321,
+    "npm_score_final": 17.24765,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

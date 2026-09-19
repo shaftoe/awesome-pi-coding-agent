@@ -10,7 +10,7 @@
     "description": "A web-based AI workspace with a local execution daemon, with an emerging control-plane architecture for remotely operating AI coworkers across machines.",
     "stars": 117,
     "forks": 20,
-    "open_issues": 2,
+    "open_issues": 1,
     "topics": [
       "agent",
       "agent-platform",
@@ -32,9 +32,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-28T03:07:04Z",
-    "pushed_at": "2026-09-17T09:42:17Z",
-    "updated_at": "2026-09-15T10:35:25Z",
-    "size": 52996,
+    "pushed_at": "2026-09-18T05:36:06Z",
+    "updated_at": "2026-09-18T05:36:12Z",
+    "size": 52997,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

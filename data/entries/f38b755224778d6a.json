@@ -1,0 +1,30 @@
+{
+  "id": "omo-codex-computer",
+  "name": "omo-codex-computer",
+  "url": "https://www.npmjs.com/package/omo-codex-computer",
+  "source": "npm-search",
+  "description": "OMO Native plugin for OpenAI Codex Computer Use and first-party Chrome automation through Codex app-server",
+  "metadata": {
+    "github_url": "https://github.com/mastertyko/omo-codex-computer",
+    "npm_name": "omo-codex-computer",
+    "description": "OMO Native plugin for OpenAI Codex Computer Use and first-party Chrome automation through Codex app-server",
+    "keywords": [
+      "omo",
+      "senpi",
+      "pi-package",
+      "codex",
+      "computer-use",
+      "chrome-automation"
+    ],
+    "version": "0.1.6",
+    "published_at": "2026-09-11T06:14:59.506Z",
+    "npm_downloads_monthly": 445,
+    "npm_downloads_weekly": 359,
+    "npm_score_final": 18.349796,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "betulcalik-opencode-pi-intercom",
+  "name": "betulcalik-opencode-pi-intercom",
+  "url": "https://github.com/betulcalik/opencode-pi-intercom",
+  "source": "github-search",
+  "description": "OpenCode plugin that joins the omp-intercom / pi-intercom broker as a peer",
+  "metadata": {
+    "github_url": "https://github.com/betulcalik/opencode-pi-intercom",
+    "repo_full_name": "betulcalik/opencode-pi-intercom",
+    "description": "OpenCode plugin that joins the omp-intercom / pi-intercom broker as a peer",
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "intercom",
+      "oh-my-pi",
+      "omp",
+      "opencode",
+      "pi",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-18T13:38:05Z",
+    "pushed_at": "2026-09-18T15:30:48Z",
+    "updated_at": "2026-09-18T15:30:52Z",
+    "size": 54,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

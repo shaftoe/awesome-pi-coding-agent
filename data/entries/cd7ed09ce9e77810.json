@@ -1,0 +1,25 @@
+{
+  "id": "bubbleptr-awesome-pi",
+  "name": "bubbleptr-awesome-pi",
+  "url": "https://github.com/bubbleptr/awesome-pi",
+  "source": "github-search",
+  "description": "😎 Awesome Pi - A curated list of Pi Coding Agent extensions, themes, skills, prompt templates, and community resources.",
+  "metadata": {
+    "github_url": "https://github.com/bubbleptr/awesome-pi",
+    "repo_full_name": "bubbleptr/awesome-pi",
+    "description": "😎 Awesome Pi - A curated list of Pi Coding Agent extensions, themes, skills, prompt templates, and community resources.",
+    "stars": 122,
+    "forks": 10,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-30T11:55:01Z",
+    "pushed_at": "2026-09-17T15:46:49Z",
+    "updated_at": "2026-09-17T16:06:13Z",
+    "size": 4955,
+    "license": "CC0-1.0",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}
