@@ -9,8 +9,8 @@
     "repo_full_name": "hazrid93/pi-fabric-role-router",
     "description": "Centralized role-based model, thinking, and tool routing for Pi Fabric",
     "stars": 6,
-    "forks": 0,
-    "open_issues": 0,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "multi-agent",
       "orchestration",

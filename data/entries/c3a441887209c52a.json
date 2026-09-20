@@ -1,0 +1,32 @@
+{
+  "id": "pi-go-quota",
+  "name": "pi-go-quota",
+  "url": "https://www.npmjs.com/package/pi-go-quota",
+  "source": "npm-search",
+  "description": "OpenCode Go plan quota for pi: footer status and /model-go picker showing requests-per-5-hours limits for each Go model.",
+  "metadata": {
+    "github_url": "https://github.com/cicciocanestro/pi-go-quota",
+    "npm_name": "pi-go-quota",
+    "description": "OpenCode Go plan quota for pi: footer status and /model-go picker showing requests-per-5-hours limits for each Go model.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "opencode",
+      "opencode-go",
+      "quota",
+      "rate-limit",
+      "model"
+    ],
+    "version": "1.2.0",
+    "published_at": "2026-09-12T08:47:21.201Z",
+    "npm_downloads_monthly": 192,
+    "npm_downloads_weekly": 186,
+    "npm_score_final": 15.489883,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

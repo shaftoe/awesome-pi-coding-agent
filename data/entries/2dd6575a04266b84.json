@@ -1,0 +1,25 @@
+{
+  "id": "Aquitano-my-pi-setup",
+  "name": "Aquitano-my-pi-setup",
+  "url": "https://github.com/Aquitano/my-pi-setup",
+  "source": "github-search",
+  "description": "Pi extensions, subagents with configurable auto review, workflows, and a GitHub Dark theme.",
+  "metadata": {
+    "github_url": "https://github.com/Aquitano/my-pi-setup",
+    "repo_full_name": "Aquitano/my-pi-setup",
+    "description": "Pi extensions, subagents with configurable auto review, workflows, and a GitHub Dark theme.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 5,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-19T21:36:23Z",
+    "pushed_at": "2026-09-19T22:55:37Z",
+    "updated_at": "2026-09-19T21:36:46Z",
+    "size": 987,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "@agimon-ai/doompi-session",
+  "name": "@agimon-ai/doompi-session",
+  "url": "https://www.npmjs.com/package/@agimon-ai/doompi-session",
+  "source": "npm-search",
+  "description": "Shared session coordination services for DoomPi.",
+  "metadata": {
+    "github_url": "https://github.com/AgiFlow/doompi",
+    "npm_name": "@agimon-ai/doompi-session",
+    "description": "Shared session coordination services for DoomPi.",
+    "keywords": [
+      "ai",
+      "coding-agent",
+      "developer-tools",
+      "doompi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "session"
+    ],
+    "version": "0.0.1-alpha.1",
+    "published_at": "2026-09-19T22:10:15.920Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "misc"
+}

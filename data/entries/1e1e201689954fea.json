@@ -9,7 +9,7 @@
     "repo_full_name": "mralifakbar/pi-usage-dashboard",
     "description": "A web-based dashboard for tracking token usage, costs, sessions, and resources across all your pi coding agent",
     "stars": 3,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "coding-agent",

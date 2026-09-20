@@ -1,0 +1,33 @@
+{
+  "id": "@timmygod/pi-web-local",
+  "name": "@timmygod/pi-web-local",
+  "url": "https://www.npmjs.com/package/@timmygod/pi-web-local",
+  "source": "npm-search",
+  "description": "Local-model and LAN-optimized web UI for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/timmygod/pi-web",
+    "npm_name": "@timmygod/pi-web-local",
+    "description": "Local-model and LAN-optimized web UI for the pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi-web",
+      "local-llm",
+      "self-hosted",
+      "lan",
+      "qwen",
+      "ollama",
+      "coding-agent",
+      "pwa"
+    ],
+    "version": "0.0.1",
+    "published_at": "2026-09-19T12:31:00.103Z",
+    "npm_downloads_monthly": 244,
+    "npm_downloads_weekly": 244,
+    "npm_score_final": 16.060482,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "willfish-pi-observational-memory-jev",
+  "name": "willfish-pi-observational-memory-jev",
+  "url": "https://github.com/willfish/pi-observational-memory-jev",
+  "source": "github-search",
+  "description": "Jev decides what to keep. Compaction never rewrites the transcript.",
+  "metadata": {
+    "github_url": "https://github.com/willfish/pi-observational-memory-jev",
+    "repo_full_name": "willfish/pi-observational-memory-jev",
+    "description": "Jev decides what to keep. Compaction never rewrites the transcript.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-memory",
+      "context-compaction",
+      "jev",
+      "llm-agents",
+      "observational-memory",
+      "pi-coding-agent",
+      "pi-package",
+      "typesafe",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-18T06:42:35Z",
+    "pushed_at": "2026-09-19T07:47:00Z",
+    "updated_at": "2026-09-19T12:48:49Z",
+    "size": 104,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

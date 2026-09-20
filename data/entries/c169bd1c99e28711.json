@@ -1,0 +1,32 @@
+{
+  "id": "@fyeeme/pi-todo",
+  "name": "@fyeeme/pi-todo",
+  "url": "https://www.npmjs.com/package/@fyeeme/pi-todo",
+  "source": "npm-search",
+  "description": "Phased todo list tool for pi — nine operations (init/start/done/rm/drop/block/unblock/append/view) over phase/task state persisted with the session, a /todo command, and a todo_updated event bus broadcast for other extensions.",
+  "metadata": {
+    "github_url": "https://github.com/fyeeme/pi-packages",
+    "npm_name": "@fyeeme/pi-todo",
+    "description": "Phased todo list tool for pi — nine operations (init/start/done/rm/drop/block/unblock/append/view) over phase/task state persisted with the session, a /todo command, and a todo_updated event bus broadcast for other extensions.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "todo",
+      "tasks",
+      "phases",
+      "checklist",
+      "progress"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-09-12T07:12:51.719Z",
+    "npm_downloads_monthly": 282,
+    "npm_downloads_weekly": 205,
+    "npm_score_final": 16.537464,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

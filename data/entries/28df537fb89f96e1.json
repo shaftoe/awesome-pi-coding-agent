@@ -1,0 +1,32 @@
+{
+  "id": "@groeponline/pi-autoresearch",
+  "name": "@groeponline/pi-autoresearch",
+  "url": "https://www.npmjs.com/package/@groeponline/pi-autoresearch",
+  "source": "npm-search",
+  "description": "Pi extension and Agent Skill for bounded, benchmark-driven autoresearch loops in code repositories.",
+  "metadata": {
+    "github_url": "https://github.com/GroepOnline/autoresearch-skill",
+    "npm_name": "@groeponline/pi-autoresearch",
+    "description": "Pi extension and Agent Skill for bounded, benchmark-driven autoresearch loops in code repositories.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-skill",
+      "agent-skill",
+      "autoresearch",
+      "benchmark",
+      "optimization",
+      "coding-agent"
+    ],
+    "version": "1.5.0",
+    "published_at": "2026-09-13T00:05:37.275Z",
+    "npm_downloads_monthly": 421,
+    "npm_downloads_weekly": 421,
+    "npm_score_final": 17.866907,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

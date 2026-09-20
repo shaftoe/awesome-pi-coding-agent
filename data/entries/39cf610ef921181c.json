@@ -1,0 +1,27 @@
+{
+  "id": "@benjamolina/pi-antigravity-guard",
+  "name": "@benjamolina/pi-antigravity-guard",
+  "url": "https://www.npmjs.com/package/@benjamolina/pi-antigravity-guard",
+  "source": "npm-search",
+  "description": "Pi adapter for Antigravity Guard",
+  "metadata": {
+    "github_url": "https://github.com/BenjaMolina/opencode-antigravity-guard",
+    "npm_name": "@benjamolina/pi-antigravity-guard",
+    "description": "Pi adapter for Antigravity Guard",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "antigravity"
+    ],
+    "version": "0.4.6",
+    "published_at": "2026-09-19T23:33:33.695Z",
+    "npm_downloads_monthly": 733,
+    "npm_downloads_weekly": 733,
+    "npm_score_final": 19.688015,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
