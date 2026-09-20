@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Blue-B/pi-custom-packages",
     "repo_full_name": "Blue-B/pi-custom-packages",
     "description": "Ten extensions for the pi coding agent: session guards, image context control, and Windows/WSL screen capture, cursor, and recording.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -29,7 +29,7 @@
     "archived": false,
     "created_at": "2026-06-17T04:35:18Z",
     "pushed_at": "2026-09-15T10:58:20Z",
-    "updated_at": "2026-09-15T10:58:23Z",
+    "updated_at": "2026-09-19T09:25:46Z",
     "size": 980,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

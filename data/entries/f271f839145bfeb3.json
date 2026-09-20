@@ -1,0 +1,29 @@
+{
+  "id": "@maynewong/pi-advisor",
+  "name": "@maynewong/pi-advisor",
+  "url": "https://www.npmjs.com/package/@maynewong/pi-advisor",
+  "source": "npm-search",
+  "description": "A second opinion for your Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/maynewong/pi-advisor",
+    "npm_name": "@maynewong/pi-advisor",
+    "description": "A second opinion for your Pi coding agent.",
+    "keywords": [
+      "pi-package",
+      "pi-advisor",
+      "advisor",
+      "code-review",
+      "ai-assistant"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-12T09:15:04.158Z",
+    "npm_downloads_monthly": 154,
+    "npm_downloads_weekly": 154,
+    "npm_score_final": 14.538221,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

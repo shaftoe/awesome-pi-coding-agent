@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Nyarlathoteppppp/pi-heed",
     "repo_full_name": "Nyarlathoteppppp/pi-heed",
     "description": "Runtime constraints for the pi coding agent: checks every side-effecting tool call against what you said, before it runs. Powered by TypeSafe Jev.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-18T13:12:30Z",
-    "pushed_at": "2026-09-19T00:54:52Z",
-    "updated_at": "2026-09-19T00:54:56Z",
-    "size": 239,
+    "pushed_at": "2026-09-19T12:03:40Z",
+    "updated_at": "2026-09-19T12:03:43Z",
+    "size": 653,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/dairycode/pi-agent-sidebar",
     "repo_full_name": "dairycode/pi-agent-sidebar",
     "description": "",
-    "stars": 4,
+    "stars": 5,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-24T12:11:28Z",
     "pushed_at": "2026-09-12T16:17:53Z",
-    "updated_at": "2026-09-12T16:17:56Z",
+    "updated_at": "2026-09-19T13:51:11Z",
     "size": 1390,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

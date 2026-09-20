@@ -1,0 +1,25 @@
+{
+  "id": "Daedie-git-grok-style-pi",
+  "name": "Daedie-git-grok-style-pi",
+  "url": "https://github.com/Daedie-git/grok-style-pi",
+  "source": "github-search",
+  "description": "Grok Build-inspired TUI chrome for Pi: GrokNight theme, status footer, focused composer, diamond tool rows.",
+  "metadata": {
+    "github_url": "https://github.com/Daedie-git/grok-style-pi",
+    "repo_full_name": "Daedie-git/grok-style-pi",
+    "description": "Grok Build-inspired TUI chrome for Pi: GrokNight theme, status footer, focused composer, diamond tool rows.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-19T21:47:37Z",
+    "pushed_at": "2026-09-19T23:52:37Z",
+    "updated_at": "2026-09-19T23:52:40Z",
+    "size": 35,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

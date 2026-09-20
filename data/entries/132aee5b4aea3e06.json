@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Pi extension: analyze and probe the pi-permission-auto-review classifier. Dry-run or call the model to validate additionalPolicy rules and inspect prompt construction.",
   "metadata": {
-    "github_url": "https://github.com/geohar/pi-permissions-analyzer",
+    "github_url": "https://github.com/georgeharker/pi-permissions-analyzer",
     "npm_name": "@geohar/pi-permissions-analyzer",
     "description": "Pi extension: analyze and probe the pi-permission-auto-review classifier. Dry-run or call the model to validate additionalPolicy rules and inspect prompt construction.",
     "keywords": [
@@ -20,8 +20,8 @@
       "analyzer",
       "permissions-analyzer"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-09-19T00:28:36.162Z",
+    "version": "0.1.10",
+    "published_at": "2026-09-19T19:35:15.890Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

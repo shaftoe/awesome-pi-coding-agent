@@ -16,6 +16,11 @@
       "ai-coding",
       "ai-tools",
       "pi",
+      "pi-addon",
+      "pi-extension",
+      "pi-extensions",
+      "pi-package",
+      "pi-packages",
       "vscode",
       "vscode-extensions",
       "vscode-plugin"
@@ -23,11 +28,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-05T10:53:30Z",
-    "pushed_at": "2026-09-18T10:03:18Z",
-    "updated_at": "2026-09-18T18:54:52Z",
+    "pushed_at": "2026-09-19T08:02:35Z",
+    "updated_at": "2026-09-19T08:04:23Z",
     "size": 6922,
     "license": "NOASSERTION",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "category": "misc"
 }

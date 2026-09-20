@@ -1,0 +1,31 @@
+{
+  "id": "pi-nested-skills",
+  "name": "pi-nested-skills",
+  "url": "https://www.npmjs.com/package/pi-nested-skills",
+  "source": "npm-search",
+  "description": "Pi extension for recursive nested-skill discovery and aliases",
+  "metadata": {
+    "github_url": "https://github.com/maplezzk/pi-extensions",
+    "npm_name": "pi-nested-skills",
+    "description": "Pi extension for recursive nested-skill discovery and aliases",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "coding-agent",
+      "skills",
+      "nested-skills",
+      "autocomplete"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-09-19T07:47:43.543Z",
+    "npm_downloads_monthly": 506,
+    "npm_downloads_weekly": 504,
+    "npm_score_final": 18.749308,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

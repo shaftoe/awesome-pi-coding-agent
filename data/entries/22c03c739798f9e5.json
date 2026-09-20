@@ -10,7 +10,7 @@
     "description": "User Interface for Prime-Agent",
     "stars": 16,
     "forks": 3,
-    "open_issues": 11,
+    "open_issues": 9,
     "topics": [
       "ai-agent",
       "cli",
@@ -27,9 +27,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-10T16:32:16Z",
-    "pushed_at": "2026-09-18T22:08:03Z",
-    "updated_at": "2026-09-18T16:55:38Z",
-    "size": 51600,
+    "pushed_at": "2026-09-19T09:12:06Z",
+    "updated_at": "2026-09-19T09:12:11Z",
+    "size": 51680,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

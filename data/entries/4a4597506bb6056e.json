@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_awesome-pi-themes",
+  "name": "awesome-pi-themes · Packages · Pi",
+  "url": "https://pi.dev/packages/awesome-pi-themes",
+  "source": "brave-web-search",
+  "description": "Pi packages can execute code and influence agent behavior. Review the source before installing third-party packages. A curated collection of 65 original dark themes for pi, with a standalone browser preview and ready-to-copy JSON theme files.",
+  "metadata": {
+    "title": "awesome-pi-themes · Packages · Pi",
+    "name": "awesome-pi-themes · Packages · Pi",
+    "description": "Pi packages can execute code and influence agent behavior. Review the source before installing third-party packages. A curated collection of 65 original dark themes for pi, with a standalone browser preview and ready-to-copy JSON theme files.",
+    "published_at": "2026-09-12T07:39:07",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/awesome-pi-themes",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "category": "article"
+}

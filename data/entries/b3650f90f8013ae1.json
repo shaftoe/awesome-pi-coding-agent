@@ -1,0 +1,32 @@
+{
+  "id": "@narumitw/pi-cache-hit-monitor",
+  "name": "@narumitw/pi-cache-hit-monitor",
+  "url": "https://www.npmjs.com/package/@narumitw/pi-cache-hit-monitor",
+  "source": "npm-search",
+  "description": "Pi extension that shows live prompt-cache reuse and cost diagnostics above the editor.",
+  "metadata": {
+    "github_url": "https://github.com/narumiruna/pi-extensions",
+    "npm_name": "@narumitw/pi-cache-hit-monitor",
+    "description": "Pi extension that shows live prompt-cache reuse and cost diagnostics above the editor.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "prompt-cache",
+      "cache-hit-rate",
+      "observability",
+      "widget",
+      "tui"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-12T14:16:40.802Z",
+    "npm_downloads_monthly": 287,
+    "npm_downloads_weekly": 287,
+    "npm_score_final": 16.839428,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

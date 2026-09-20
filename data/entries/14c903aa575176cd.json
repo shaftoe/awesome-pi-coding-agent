@@ -1,0 +1,32 @@
+{
+  "id": "@iaziz786/pi-merge-gateway-login",
+  "name": "@iaziz786/pi-merge-gateway-login",
+  "url": "https://www.npmjs.com/package/@iaziz786/pi-merge-gateway-login",
+  "source": "npm-search",
+  "description": "Pi extension that adds the Merge Dev gateway (docs.merge.dev/merge-gateway) as a model provider via its OpenAI Responses API, serving GLM 5.3 Flash and DeepSeek V4 Flash / V4.1 Flash under the gateway's own model ids, with the gateway choosing the host.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@iaziz786/pi-merge-gateway-login",
+    "description": "Pi extension that adds the Merge Dev gateway (docs.merge.dev/merge-gateway) as a model provider via its OpenAI Responses API, serving GLM 5.3 Flash and DeepSeek V4 Flash / V4.1 Flash under the gateway's own model ids, with the gateway choosing the host.",
+    "keywords": [
+      "pi-package",
+      "extension",
+      "merge-gateway",
+      "merge-dev",
+      "glm",
+      "zai",
+      "deepseek",
+      "deepseek-v4"
+    ],
+    "version": "0.6.1",
+    "published_at": "2026-09-19T05:37:11.414Z",
+    "npm_downloads_monthly": 524,
+    "npm_downloads_weekly": 498,
+    "npm_score_final": 18.723207,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
