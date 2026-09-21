@@ -10,7 +10,7 @@
     "description": "Chat interface is linear, I never quite liked that for when I would have too many questions, I would end up asking questions in a numbered list and not really have independent branches of conversation. On cli, the pi agent gives you this same functionality. On web, I made Fable make this. BYOK Openrouter - all client side - you can check the network console! https://github.com/srijanshukla18/tree-learn",
     "author": "srijanshukla18",
     "published_at": "2026-09-18T16:21:21Z",
-    "points": 2,
+    "points": 3,
     "num_comments": 0,
     "hn_id": "49756624",
     "external_url": "https://tree-learn.srijanshukla18.workers.dev",

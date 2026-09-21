@@ -1,0 +1,20 @@
+{
+  "id": "YT_w9IBF4AEpfI",
+  "name": "Pi said the repo was clean. My API keys leaked anyway.",
+  "url": "https://youtube.com/watch?v=w9IBF4AEpfI",
+  "source": "youtube-search",
+  "description": "Pi said the repo was clean. My OpenAI key was already in the attacker's inbox. I clone a GitHub repo, ask the Pi coding agent to ...",
+  "metadata": {
+    "title": "Pi said the repo was clean. My API keys leaked anyway.",
+    "name": "Pi said the repo was clean. My API keys leaked anyway.",
+    "description": "Pi said the repo was clean. My OpenAI key was already in the attacker's inbox. I clone a GitHub repo, ask the Pi coding agent to ...",
+    "channel": "Adam Gardner",
+    "published_at": "2026-09-18T11:00:32Z",
+    "thumbnail": "https://i.ytimg.com/vi/w9IBF4AEpfI/hqdefault.jpg",
+    "views": 350,
+    "likes": 10,
+    "comments": 1,
+    "discovery_hint": "youtube:pi-package"
+  },
+  "category": "video"
+}

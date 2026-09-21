@@ -1,0 +1,28 @@
+{
+  "id": "pi-five",
+  "name": "pi-five",
+  "url": "https://www.npmjs.com/package/pi-five",
+  "source": "npm-search",
+  "description": "Reserved: lightweight background-worker fleet experiment for the pi coding agent — 4 subagents + you as the fifth. Dormant, trigger-gated. For production delegation use pi-subagents.",
+  "metadata": {
+    "github_url": "https://github.com/shrwnsan/pi-agent",
+    "npm_name": "pi-five",
+    "description": "Reserved: lightweight background-worker fleet experiment for the pi coding agent — 4 subagents + you as the fifth. Dormant, trigger-gated. For production delegation use pi-subagents.",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "reserved",
+      "placeholder"
+    ],
+    "version": "0.0.1-alpha.1",
+    "published_at": "2026-09-20T13:42:27.723Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

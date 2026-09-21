@@ -1,0 +1,31 @@
+{
+  "id": "@hank-warren/pi-orchestrator",
+  "name": "@hank-warren/pi-orchestrator",
+  "url": "https://www.npmjs.com/package/@hank-warren/pi-orchestrator",
+  "source": "npm-search",
+  "description": "Skill for Pi: supervise first-class pi sessions running in Herdr panes — launch children, read their state cheaply, answer Auto Permissions prompts within policy, steer, wait, verify.",
+  "metadata": {
+    "github_url": "https://github.com/hank-warren/pi-extensions",
+    "npm_name": "@hank-warren/pi-orchestrator",
+    "description": "Skill for Pi: supervise first-class pi sessions running in Herdr panes — launch children, read their state cheaply, answer Auto Permissions prompts within policy, steer, wait, verify.",
+    "keywords": [
+      "pi-package",
+      "pi-skill",
+      "skill",
+      "orchestrator",
+      "herdr",
+      "supervisor",
+      "coding-agent"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-06T17:54:23.842Z",
+    "npm_downloads_monthly": 103,
+    "npm_downloads_weekly": 19,
+    "npm_score_final": 13.53018,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "Pi coding-agent extension with macOS-sandboxed Bash, filesystem and network policy, task planning, subagents, and LSP tools.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "agentic-ai",
       "devloper-tools",
@@ -22,7 +22,7 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-16T16:45:42Z",
-    "pushed_at": "2026-09-01T04:52:51Z",
+    "pushed_at": "2026-09-20T16:01:21Z",
     "updated_at": "2026-09-01T04:52:58Z",
     "size": 289,
     "license": "MIT",

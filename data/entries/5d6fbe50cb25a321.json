@@ -1,0 +1,34 @@
+{
+  "id": "useful-pi-extensions",
+  "name": "useful-pi-extensions",
+  "url": "https://www.npmjs.com/package/useful-pi-extensions",
+  "source": "npm-search",
+  "description": "A small collection of pi extensions, installed with one command — a labelled status line with context pressure, cache, cost, effort, TTFT and tokens/sec, plus an opt-in context breakdown panel.",
+  "metadata": {
+    "github_url": "https://github.com/reedchan7/useful-pi-extensions",
+    "npm_name": "useful-pi-extensions",
+    "description": "A small collection of pi extensions, installed with one command — a labelled status line with context pressure, cache, cost, effort, TTFT and tokens/sec, plus an opt-in context breakdown panel.",
+    "keywords": [
+      "bun",
+      "cli",
+      "footer",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "statusline",
+      "terminal",
+      "tui",
+      "typescript"
+    ],
+    "version": "1.11.2",
+    "published_at": "2026-09-20T15:52:09.946Z",
+    "npm_downloads_monthly": 533,
+    "npm_downloads_weekly": 533,
+    "npm_score_final": 18.401281,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

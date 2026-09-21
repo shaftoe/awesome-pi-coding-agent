@@ -1,0 +1,28 @@
+{
+  "id": "declaw-style-pirate",
+  "name": "declaw-style-pirate",
+  "url": "https://www.npmjs.com/package/declaw-style-pirate",
+  "source": "npm-search",
+  "description": "A minimal third-party Declaw style plugin example.",
+  "metadata": {
+    "github_url": "https://github.com/jzlosman/declaw-style-pirate",
+    "npm_name": "declaw-style-pirate",
+    "description": "A minimal third-party Declaw style plugin example.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "declaw-style",
+      "example"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-13T05:55:09.673Z",
+    "npm_downloads_monthly": 311,
+    "npm_downloads_weekly": 311,
+    "npm_score_final": 16.668213,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

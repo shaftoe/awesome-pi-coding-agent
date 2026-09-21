@@ -1,0 +1,25 @@
+{
+  "id": "ArdaYILDIZ-DEV-pi-agent-starter",
+  "name": "ArdaYILDIZ-DEV-pi-agent-starter",
+  "url": "https://github.com/ArdaYILDIZ-DEV/pi-agent-starter",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/ArdaYILDIZ-DEV/pi-agent-starter",
+    "repo_full_name": "ArdaYILDIZ-DEV/pi-agent-starter",
+    "description": "",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-15T14:07:48Z",
+    "pushed_at": "2026-09-15T14:31:19Z",
+    "updated_at": "2026-09-20T19:58:04Z",
+    "size": 97,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

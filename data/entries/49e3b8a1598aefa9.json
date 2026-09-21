@@ -1,0 +1,32 @@
+{
+  "id": "pi-export-my-chat",
+  "name": "pi-export-my-chat",
+  "url": "https://www.npmjs.com/package/pi-export-my-chat",
+  "source": "npm-search",
+  "description": "pi extension that exports a running chat to one complete, lossless, revivable JSON — the full session tree, every provider request observed (captured to a compact content-addressed journal, deduplicated by content hash), usage/cost/context stats, and timi",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-export-my-chat",
+    "description": "pi extension that exports a running chat to one complete, lossless, revivable JSON — the full session tree, every provider request observed (captured to a compact content-addressed journal, deduplicated by content hash), usage/cost/context stats, and timi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "session",
+      "export",
+      "backup",
+      "portable",
+      "resume"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-09-13T22:24:45.309Z",
+    "npm_downloads_monthly": 337,
+    "npm_downloads_weekly": 337,
+    "npm_score_final": 17.185814,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
