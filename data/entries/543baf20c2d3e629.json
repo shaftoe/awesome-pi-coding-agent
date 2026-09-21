@@ -1,0 +1,33 @@
+{
+  "id": "@narumitw/pi-context-management",
+  "name": "@narumitw/pi-context-management",
+  "url": "https://www.npmjs.com/package/@narumitw/pi-context-management",
+  "source": "npm-search",
+  "description": "Experimental summary-free context rollover, recall, and branch-local notes for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/narumiruna/pi-extensions",
+    "npm_name": "@narumitw/pi-context-management",
+    "description": "Experimental summary-free context rollover, recall, and branch-local notes for Pi.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "context-management",
+      "context-window",
+      "compaction",
+      "memory",
+      "notes",
+      "recall"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-20T08:07:43.761Z",
+    "npm_downloads_monthly": 222,
+    "npm_downloads_weekly": 222,
+    "npm_score_final": 15.798473,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

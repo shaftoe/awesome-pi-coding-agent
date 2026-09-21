@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "reddb.io internal plugin - maintainer-only skills for operating the red-skills repository.",
   "metadata": {
-    "github_url": "https://github.com/reddb-io/red-skills",
+    "github_url": "https://github.com/reddb-io/redskilled",
     "npm_name": "@reddb-io/red-skills-internal",
     "description": "reddb.io internal plugin - maintainer-only skills for operating the red-skills repository.",
     "keywords": [
@@ -13,11 +13,11 @@
       "reddb-io",
       "red-skills"
     ],
-    "version": "4.4.1",
-    "published_at": "2026-08-25T16:09:36.056Z",
-    "npm_downloads_monthly": 15159,
-    "npm_downloads_weekly": 47,
-    "npm_score_final": 29.96255,
+    "version": "4.6.0",
+    "published_at": "2026-09-20T22:15:52.106Z",
+    "npm_downloads_monthly": 9265,
+    "npm_downloads_weekly": 375,
+    "npm_score_final": 28.049213,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

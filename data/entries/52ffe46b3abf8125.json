@@ -1,0 +1,25 @@
+{
+  "id": "safzanpirani-pi-jev-skill-picker",
+  "name": "safzanpirani-pi-jev-skill-picker",
+  "url": "https://github.com/safzanpirani/pi-jev-skill-picker",
+  "source": "github-search",
+  "description": "Rank Pi Agent Skills for the current task with TypeSafe Jev",
+  "metadata": {
+    "github_url": "https://github.com/safzanpirani/pi-jev-skill-picker",
+    "repo_full_name": "safzanpirani/pi-jev-skill-picker",
+    "description": "Rank Pi Agent Skills for the current task with TypeSafe Jev",
+    "stars": 6,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-20T08:33:19Z",
+    "pushed_at": "2026-09-20T10:04:24Z",
+    "updated_at": "2026-09-20T18:09:07Z",
+    "size": 68,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

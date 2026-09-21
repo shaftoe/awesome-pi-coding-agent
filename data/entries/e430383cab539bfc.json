@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ArdaYILDIZ-DEV/pi-interactive-subagents",
     "repo_full_name": "ArdaYILDIZ-DEV/pi-interactive-subagents",
     "description": "Interactive subagent orchestration in dedicated tmux panes with fire-and-forget steering, live status widget, and sandboxing for Pi coding agent.",
-    "stars": 10,
+    "stars": 11,
     "forks": 2,
     "open_issues": 0,
     "topics": [
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-09-01T11:29:44Z",
     "pushed_at": "2026-09-10T17:24:03Z",
-    "updated_at": "2026-09-19T08:23:26Z",
+    "updated_at": "2026-09-20T19:58:16Z",
     "size": 112,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

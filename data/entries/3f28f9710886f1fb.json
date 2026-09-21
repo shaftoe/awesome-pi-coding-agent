@@ -9,7 +9,7 @@
     "repo_full_name": "TheArchitectit/pi-mega-compact",
     "description": "Layered, local, vector-backed context compressor for the pi coding agent (extension, no remote server).",
     "stars": 17,
-    "forks": 2,
+    "forks": 3,
     "open_issues": 5,
     "topics": [],
     "language": "TypeScript",

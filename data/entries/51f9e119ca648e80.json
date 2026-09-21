@@ -1,0 +1,25 @@
+{
+  "id": "yang2020chen-pi-extension-convergence",
+  "name": "yang2020chen-pi-extension-convergence",
+  "url": "https://github.com/yang2020chen/pi-extension-convergence",
+  "source": "github-search",
+  "description": "Production-grade convergence & anti-overthinking steering extension for Pi Coding Agent (tuned for Bonsai 2 / Qwen)",
+  "metadata": {
+    "github_url": "https://github.com/yang2020chen/pi-extension-convergence",
+    "repo_full_name": "yang2020chen/pi-extension-convergence",
+    "description": "Production-grade convergence & anti-overthinking steering extension for Pi Coding Agent (tuned for Bonsai 2 / Qwen)",
+    "stars": 3,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-20T11:18:18Z",
+    "pushed_at": "2026-09-20T11:18:23Z",
+    "updated_at": "2026-09-20T22:45:22Z",
+    "size": 8,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

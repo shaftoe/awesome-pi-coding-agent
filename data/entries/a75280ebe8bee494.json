@@ -1,0 +1,31 @@
+{
+  "id": "pi-slash-anywhere",
+  "name": "pi-slash-anywhere",
+  "url": "https://www.npmjs.com/package/pi-slash-anywhere",
+  "source": "npm-search",
+  "description": "Trigger slash commands, prompt templates, and skills anywhere inline in prompt messages with smart autocomplete and zero-friction expansion.",
+  "metadata": {
+    "github_url": "https://github.com/toRolex/pi-slash-anywhere",
+    "npm_name": "pi-slash-anywhere",
+    "description": "Trigger slash commands, prompt templates, and skills anywhere inline in prompt messages with smart autocomplete and zero-friction expansion.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "slash-commands",
+      "autocomplete",
+      "skills"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-09-20T11:30:29.010Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

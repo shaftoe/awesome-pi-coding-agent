@@ -10,7 +10,7 @@
     "description": "pi extension that exposes a persistent Python execution environment to the agent",
     "stars": 1,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 0,
     "topics": [
       "pi",
       "pi-extension",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-17T14:00:36Z",
-    "pushed_at": "2026-09-19T22:49:42Z",
-    "updated_at": "2026-09-19T09:05:14Z",
-    "size": 192,
+    "pushed_at": "2026-09-20T06:22:36Z",
+    "updated_at": "2026-09-20T06:22:32Z",
+    "size": 214,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

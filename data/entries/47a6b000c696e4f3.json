@@ -1,0 +1,34 @@
+{
+  "id": "DarkKevo-pi-messages",
+  "name": "DarkKevo-pi-messages",
+  "url": "https://github.com/DarkKevo/pi-messages",
+  "source": "github-search",
+  "description": "🎨 Terminal-styled codeblock cards, soft-wrap & keyboard-driven clipboard shortcuts (/cc, /ci) for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/DarkKevo/pi-messages",
+    "repo_full_name": "DarkKevo/pi-messages",
+    "description": "🎨 Terminal-styled codeblock cards, soft-wrap & keyboard-driven clipboard shortcuts (/cc, /ci) for Pi Coding Agent",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "clipboard",
+      "developer-tools",
+      "markdown",
+      "pi-coding-agent",
+      "pi-package",
+      "terminal",
+      "theme",
+      "tui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-20T03:26:09Z",
+    "pushed_at": "2026-09-20T03:41:08Z",
+    "updated_at": "2026-09-20T19:15:57Z",
+    "size": 464,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

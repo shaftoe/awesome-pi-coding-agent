@@ -1,0 +1,30 @@
+{
+  "id": "phanthh-.pi",
+  "name": "phanthh-.pi",
+  "url": "https://github.com/phanthh/.pi",
+  "source": "github-search",
+  "description": "Personal pi setup: TypeScript extensions, skills, and a Tokyo Night theme.",
+  "metadata": {
+    "github_url": "https://github.com/phanthh/.pi",
+    "repo_full_name": "phanthh/.pi",
+    "description": "Personal pi setup: TypeScript extensions, skills, and a Tokyo Night theme.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "dotfiles",
+      "pi",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-01T14:27:01Z",
+    "pushed_at": "2026-09-20T13:39:10Z",
+    "updated_at": "2026-09-20T13:39:14Z",
+    "size": 802,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

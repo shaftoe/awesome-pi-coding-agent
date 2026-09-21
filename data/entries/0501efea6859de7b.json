@@ -1,0 +1,32 @@
+{
+  "id": "@gowthamgts/pi-typesafe-bash-guard",
+  "name": "@gowthamgts/pi-typesafe-bash-guard",
+  "url": "https://www.npmjs.com/package/@gowthamgts/pi-typesafe-bash-guard",
+  "source": "npm-search",
+  "description": "A pi extension that uses TypeSafe AI to review and gate bash commands before execution.",
+  "metadata": {
+    "github_url": "https://github.com/gowthamgts/pi-stuff",
+    "npm_name": "@gowthamgts/pi-typesafe-bash-guard",
+    "description": "A pi extension that uses TypeSafe AI to review and gate bash commands before execution.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "typesafe-ai",
+      "bash",
+      "security",
+      "command-guard"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-20T07:47:05.037Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pi-dream-rsi",
+  "name": "pi-dream-rsi",
+  "url": "https://www.npmjs.com/package/pi-dream-rsi",
+  "source": "npm-search",
+  "description": "Dream-RSI for pi — recursive self-improvement of executable exploration policies over discovery trees (arXiv 2609.14858)",
+  "metadata": {
+    "github_url": "https://github.com/juanmackie/pi-Dream-RSI",
+    "npm_name": "pi-dream-rsi",
+    "description": "Dream-RSI for pi — recursive self-improvement of executable exploration policies over discovery trees (arXiv 2609.14858)",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "dream-rsi",
+      "discovery-tree",
+      "replay-simulator",
+      "policy-improvement",
+      "coding-agent"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-09-20T05:50:45.191Z",
+    "npm_downloads_monthly": 149,
+    "npm_downloads_weekly": 149,
+    "npm_score_final": 14.236514,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

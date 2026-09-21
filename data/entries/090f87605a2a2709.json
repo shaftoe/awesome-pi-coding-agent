@@ -1,0 +1,25 @@
+{
+  "id": "midastruth-pi-resource-manager",
+  "name": "midastruth-pi-resource-manager",
+  "url": "https://github.com/midastruth/pi-resource-manager",
+  "source": "github-search",
+  "description": "A native TUI manager for Pi packages, extensions, and skills",
+  "metadata": {
+    "github_url": "https://github.com/midastruth/pi-resource-manager",
+    "repo_full_name": "midastruth/pi-resource-manager",
+    "description": "A native TUI manager for Pi packages, extensions, and skills",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-20T03:53:58Z",
+    "pushed_at": "2026-09-20T03:55:05Z",
+    "updated_at": "2026-09-20T03:55:08Z",
+    "size": 12,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

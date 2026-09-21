@@ -1,0 +1,28 @@
+{
+  "id": "@yandy0725/pi-lark",
+  "name": "@yandy0725/pi-lark",
+  "url": "https://www.npmjs.com/package/@yandy0725/pi-lark",
+  "source": "npm-search",
+  "description": "Pi package with Lark (Feishu) API skills for AI-powered Lark app development",
+  "metadata": {
+    "github_url": "https://github.com/yandy/pi-packages",
+    "npm_name": "@yandy0725/pi-lark",
+    "description": "Pi package with Lark (Feishu) API skills for AI-powered Lark app development",
+    "keywords": [
+      "pi-package",
+      "lark",
+      "feishu",
+      "skills"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-06-28T16:24:25.158Z",
+    "npm_downloads_monthly": 112,
+    "npm_downloads_weekly": 24,
+    "npm_score_final": 13.336577,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

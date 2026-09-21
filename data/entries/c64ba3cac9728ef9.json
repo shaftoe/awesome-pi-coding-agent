@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Miskamyasa/pi-agent-config",
     "repo_full_name": "Miskamyasa/pi-agent-config",
     "description": "My personal pi agent config and extensions",
-    "stars": 6,
+    "stars": 7,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -20,7 +20,7 @@
     "archived": false,
     "created_at": "2026-08-30T13:31:11Z",
     "pushed_at": "2026-09-19T11:30:31Z",
-    "updated_at": "2026-09-19T11:30:35Z",
+    "updated_at": "2026-09-20T06:38:18Z",
     "size": 241,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

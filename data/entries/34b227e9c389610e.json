@@ -1,0 +1,32 @@
+{
+  "id": "pi-dsml",
+  "name": "pi-dsml",
+  "url": "https://www.npmjs.com/package/pi-dsml",
+  "source": "npm-search",
+  "description": "Pi package: recovers DeepSeek DSML tool calls that arrive as plain assistant text and executes them as real tool calls.",
+  "metadata": {
+    "github_url": "https://github.com/bestony/pi-dsml",
+    "npm_name": "pi-dsml",
+    "description": "Pi package: recovers DeepSeek DSML tool calls that arrive as plain assistant text and executes them as real tool calls.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-agent",
+      "pi-coding-agent",
+      "extension",
+      "dsml",
+      "deepseek",
+      "tool-calls"
+    ],
+    "version": "0.0.1",
+    "published_at": "2026-09-20T15:22:16.502Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

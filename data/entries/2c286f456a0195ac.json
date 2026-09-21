@@ -8,7 +8,7 @@
     "github_url": "https://github.com/HyunjunJeon/pi-quiet-ask",
     "repo_full_name": "HyunjunJeon/pi-quiet-ask",
     "description": "TypeSafe Jev as the pi coding agent's quiet decision layer",
-    "stars": 8,
+    "stars": 9,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-09-17T03:55:53Z",
     "pushed_at": "2026-09-18T01:04:49Z",
-    "updated_at": "2026-09-19T09:55:53Z",
+    "updated_at": "2026-09-20T16:53:24Z",
     "size": 11934,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

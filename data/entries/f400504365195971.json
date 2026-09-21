@@ -1,0 +1,28 @@
+{
+  "id": "pi-codex-account-switcher",
+  "name": "pi-codex-account-switcher",
+  "url": "https://www.npmjs.com/package/pi-codex-account-switcher",
+  "source": "npm-search",
+  "description": "Switch and monitor multiple OpenAI Codex accounts in Pi",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-codex-account-switcher",
+    "description": "Switch and monitor multiple OpenAI Codex accounts in Pi",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "openai-codex",
+      "account-switcher"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-09-20T16:30:45.131Z",
+    "npm_downloads_monthly": 139,
+    "npm_downloads_weekly": 139,
+    "npm_score_final": 14.010923,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

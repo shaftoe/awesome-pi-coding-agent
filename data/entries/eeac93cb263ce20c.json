@@ -1,0 +1,25 @@
+{
+  "id": "pi-mainagent",
+  "name": "pi-mainagent",
+  "url": "https://www.npmjs.com/package/pi-mainagent",
+  "source": "npm-search",
+  "description": "Agent personas for pi, like claude --agent in Claude Code: switch personas with /mainagent and start pi directly with your persisted agent — model, thinking level and tool filters included",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-mainagent",
+    "description": "Agent personas for pi, like claude --agent <name> in Claude Code: switch personas with /mainagent and start pi directly with your persisted agent — model, thinking level and tool filters included",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-09-13T13:33:24.632Z",
+    "npm_downloads_monthly": 290,
+    "npm_downloads_weekly": 290,
+    "npm_score_final": 16.439133,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "baba_always_bypasses_anti-bot",
+  "name": "baba_always_bypasses_anti-bot",
+  "url": "https://www.npmjs.com/package/baba_always_bypasses_anti-bot",
+  "source": "npm-search",
+  "description": "Pi extension over the Camoufox anti-fingerprint browser — the agent writes fixed-step web workflows down as self-healing skills it maintains and fixes itself, so each repeat costs one bash call instead of burning LLM tokens. Log in by hand once; watch it",
+  "metadata": {
+    "github_url": "https://github.com/whispers-from-space/BABA_Always_Bypasses_Anti-bot",
+    "npm_name": "baba_always_bypasses_anti-bot",
+    "description": "Pi extension over the Camoufox anti-fingerprint browser — the agent writes fixed-step web workflows down as self-healing skills it maintains and fixes itself, so each repeat costs one bash call instead of burning LLM tokens. Log in by hand once; watch it ",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "camofox",
+      "browser",
+      "automation",
+      "playwright"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-13T16:39:58.499Z",
+    "npm_downloads_monthly": 158,
+    "npm_downloads_weekly": 158,
+    "npm_score_final": 14.536782,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

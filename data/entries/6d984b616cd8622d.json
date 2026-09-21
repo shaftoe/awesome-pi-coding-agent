@@ -1,0 +1,29 @@
+{
+  "id": "pi-declaw",
+  "name": "pi-declaw",
+  "url": "https://www.npmjs.com/package/pi-declaw",
+  "source": "npm-search",
+  "description": "Rewrite completed Pi answers into clearer readings without changing the original conversation.",
+  "metadata": {
+    "github_url": "https://github.com/jzlosman/declaw",
+    "npm_name": "pi-declaw",
+    "description": "Rewrite completed Pi answers into clearer readings without changing the original conversation.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "declaw",
+      "answer-rewriting",
+      "readability"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-09-13T05:40:12.042Z",
+    "npm_downloads_monthly": 346,
+    "npm_downloads_weekly": 346,
+    "npm_score_final": 17.273544,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

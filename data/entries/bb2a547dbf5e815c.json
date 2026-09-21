@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Q1y1ng/pi-heao-gui",
     "repo_full_name": "Q1y1ng/pi-heao-gui",
     "description": "Windows desktop client for the pi coding agent — the pi-agent-studio chat UI (MIT) in a standalone Electron shell, maintained in this project rather than reimplemented. Installer + portable, auto-update, built-in terminal / file / git dock.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 8,
     "topics": [
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-12T18:20:14Z",
-    "pushed_at": "2026-09-19T19:50:08Z",
-    "updated_at": "2026-09-19T19:50:12Z",
-    "size": 9718,
+    "pushed_at": "2026-09-20T15:31:27Z",
+    "updated_at": "2026-09-20T16:09:53Z",
+    "size": 10030,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

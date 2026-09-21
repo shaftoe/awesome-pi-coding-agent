@@ -1,0 +1,41 @@
+{
+  "id": "search-boost",
+  "name": "search-boost",
+  "url": "https://www.npmjs.com/package/search-boost",
+  "source": "npm-search",
+  "description": "Multi-engine web search for coding agents — one SearchBoost core (fused search, fetch, X) with MCP (Cursor, Codex, Claude Code, Grok Build, Antigravity), pi extension, and DeepSeek Harness bundle adapters",
+  "metadata": {
+    "github_url": "https://github.com/Mr-remon219/search-boost",
+    "npm_name": "search-boost",
+    "description": "Multi-engine web search for coding agents — one SearchBoost core (fused search, fetch, X) with MCP (Cursor, Codex, Claude Code, Grok Build, Antigravity), pi extension, and DeepSeek Harness bundle adapters",
+    "keywords": [
+      "mcp",
+      "cursor",
+      "codex",
+      "claude-code",
+      "grok",
+      "antigravity",
+      "pi-package",
+      "dsh-plugin",
+      "deepseek-harness",
+      "web-search",
+      "x-search",
+      "search-boost",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "dsh",
+      "deepseek"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-09-20T12:22:00.075Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "zaycruz-fast-jev-compaction-pi",
+  "name": "zaycruz-fast-jev-compaction-pi",
+  "url": "https://github.com/zaycruz/fast-jev-compaction-pi",
+  "source": "github-search",
+  "description": "Verbatim Jev-guided context compaction for pi — replaces the built-in compaction summary with fast-jev decisions; stale tool calls/results dropped, everything kept stays verbatim.",
+  "metadata": {
+    "github_url": "https://github.com/zaycruz/fast-jev-compaction-pi",
+    "repo_full_name": "zaycruz/fast-jev-compaction-pi",
+    "description": "Verbatim Jev-guided context compaction for pi — replaces the built-in compaction summary with fast-jev decisions; stale tool calls/results dropped, everything kept stays verbatim.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "compaction",
+      "context-management",
+      "llm",
+      "pi",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-19T00:55:54Z",
+    "pushed_at": "2026-09-19T19:08:14Z",
+    "updated_at": "2026-09-20T16:12:03Z",
+    "size": 165,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
