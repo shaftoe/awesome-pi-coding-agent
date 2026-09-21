@@ -1,13 +1,13 @@
 {
   "id": "cheenulabs-pi-agent-python-sdk",
-  "name": "cheenulabs-pi-agent-python-sdk",
+  "name": "pi-agent-python-sdk",
   "url": "https://github.com/cheenulabs/pi-agent-python-sdk",
   "source": "github-search",
-  "description": "",
+  "description": "Unofficial community Python SDK that launches the Pi CLI in RPC mode and exposes typed sync/async APIs for prompts, streaming, sessions, and RPC control.",
   "metadata": {
     "github_url": "https://github.com/cheenulabs/pi-agent-python-sdk",
     "repo_full_name": "cheenulabs/pi-agent-python-sdk",
-    "description": "",
+    "description": "Unofficial community Python SDK that launches the Pi CLI in RPC mode and exposes typed sync/async APIs for prompts, streaming, sessions, and RPC control.",
     "stars": 0,
     "forks": 0,
     "open_issues": 1,
