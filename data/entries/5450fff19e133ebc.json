@@ -18,15 +18,15 @@
       "pi-package",
       "session"
     ],
-    "version": "0.0.1-alpha.1",
-    "published_at": "2026-09-19T22:10:15.920Z",
-    "npm_downloads_monthly": 95,
-    "npm_downloads_weekly": 95,
-    "npm_score_final": 16.391434,
+    "version": "0.0.1-alpha.3",
+    "published_at": "2026-09-21T21:23:15.677Z",
+    "npm_downloads_monthly": 272,
+    "npm_downloads_weekly": 272,
+    "npm_score_final": 16.073181,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "misc"
 }

@@ -1,0 +1,28 @@
+{
+  "id": "pi-jira-multiproject",
+  "name": "pi-jira-multiproject",
+  "url": "https://www.npmjs.com/package/pi-jira-multiproject",
+  "source": "npm-search",
+  "description": "Jira Cloud (REST API v3) integration for the pi coding agent — JQL search, issues, comments, transitions, filters.",
+  "metadata": {
+    "github_url": "https://github.com/Lauritz30/pi-jira-multiproject",
+    "npm_name": "pi-jira-multiproject",
+    "description": "Jira Cloud (REST API v3) integration for the pi coding agent — JQL search, issues, comments, transitions, filters.",
+    "keywords": [
+      "pi-package",
+      "jira",
+      "jira-cloud",
+      "pi-extension"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-09-14T09:33:15.649Z",
+    "npm_downloads_monthly": 183,
+    "npm_downloads_weekly": 152,
+    "npm_score_final": 14.790026,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

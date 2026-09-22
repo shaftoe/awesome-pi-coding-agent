@@ -3,12 +3,12 @@
   "name": "Nyarlathoteppppp-pi-jev-context",
   "url": "https://github.com/Nyarlathoteppppp/pi-jev-context",
   "source": "github-search",
-  "description": "Cache-neutral context trimming for the pi coding agent, powered by TypeSafe Jev: long tool output cut to verbatim key lines before it enters context, with lossless recall. Measured, with pre-registered benchmarks.",
+  "description": "Model performance first. Token savings second. A Pi extension with freshness-aware read dedupe, Jev log filtering, and searchable verbatim recall. Keeps existing message history intact.",
   "metadata": {
     "github_url": "https://github.com/Nyarlathoteppppp/pi-jev-context",
     "repo_full_name": "Nyarlathoteppppp/pi-jev-context",
-    "description": "Cache-neutral context trimming for the pi coding agent, powered by TypeSafe Jev: long tool output cut to verbatim key lines before it enters context, with lossless recall. Measured, with pre-registered benchmarks.",
-    "stars": 4,
+    "description": "Model performance first. Token savings second. A Pi extension with freshness-aware read dedupe, Jev log filtering, and searchable verbatim recall. Keeps existing message history intact.",
+    "stars": 6,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-18T16:01:16Z",
-    "pushed_at": "2026-09-19T02:22:46Z",
-    "updated_at": "2026-09-20T15:37:56Z",
-    "size": 292,
+    "pushed_at": "2026-09-21T22:58:53Z",
+    "updated_at": "2026-09-21T22:58:56Z",
+    "size": 516,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

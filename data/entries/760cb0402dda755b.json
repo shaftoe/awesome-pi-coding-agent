@@ -1,0 +1,31 @@
+{
+  "id": "nourhelmi-pi-jev-compaction",
+  "name": "nourhelmi-pi-jev-compaction",
+  "url": "https://github.com/nourhelmi/pi-jev-compaction",
+  "source": "github-search",
+  "description": "Automatic Jev context clearing for Pi. Keep the conversation, prune stale tool output, retrieve originals without rerunning commands.",
+  "metadata": {
+    "github_url": "https://github.com/nourhelmi/pi-jev-compaction",
+    "repo_full_name": "nourhelmi/pi-jev-compaction",
+    "description": "Automatic Jev context clearing for Pi. Keep the conversation, prune stale tool output, retrieve originals without rerunning commands.",
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "context-engineering",
+      "jev",
+      "pi-extension",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-18T16:28:37Z",
+    "pushed_at": "2026-09-21T20:02:46Z",
+    "updated_at": "2026-09-21T20:02:50Z",
+    "size": 53,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

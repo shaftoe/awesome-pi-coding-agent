@@ -1,0 +1,31 @@
+{
+  "id": "pi-qoder-account-provider",
+  "name": "pi-qoder-account-provider",
+  "url": "https://www.npmjs.com/package/pi-qoder-account-provider",
+  "source": "npm-search",
+  "description": "Use Qoder account models, including Qwen3.8-Max, as a Pi provider through the official Qoder Agent SDK.",
+  "metadata": {
+    "github_url": "https://github.com/liush2yuxjtu/pi-qoder-account-provider",
+    "npm_name": "pi-qoder-account-provider",
+    "description": "Use Qoder account models, including Qwen3.8-Max, as a Pi provider through the official Qoder Agent SDK.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "qoder",
+      "qwen",
+      "qwen3.8-max",
+      "provider",
+      "coding-agent"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-14T05:34:15.821Z",
+    "npm_downloads_monthly": 188,
+    "npm_downloads_weekly": 168,
+    "npm_score_final": 15.367099,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/zenyui/picrophone",
     "repo_full_name": "zenyui/picrophone",
     "description": "Talk to the pi coding agent with local voice models",
-    "stars": 4,
+    "stars": 5,
     "forks": 1,
     "open_issues": 7,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-07-04T15:01:50Z",
     "pushed_at": "2026-07-09T17:12:42Z",
-    "updated_at": "2026-07-09T17:12:49Z",
+    "updated_at": "2026-09-21T19:24:17Z",
     "size": 17964,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

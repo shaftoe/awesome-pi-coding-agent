@@ -10,7 +10,7 @@
     "description": "Pi extension that uses Jev task classification (via OpenRouter) to route each run to explicitly configured models with fail-open policy. Public Preview.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 15,
+    "open_issues": 5,
     "topics": [
       "jev",
       "model-routing",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-18T07:25:02Z",
-    "pushed_at": "2026-09-20T15:42:22Z",
-    "updated_at": "2026-09-20T11:36:22Z",
-    "size": 573,
+    "pushed_at": "2026-09-21T14:32:36Z",
+    "updated_at": "2026-09-21T14:32:41Z",
+    "size": 603,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

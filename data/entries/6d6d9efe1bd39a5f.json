@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_moge.ai_pi-coding-agent",
+  "name": "Pi Coding Agent:Minimal terminal-based coding harness designed for extensibility, allowing developers to customize workflows through TypeScript extensions and packages. - MOGE",
+  "url": "https://moge.ai/product/pi-coding-agent",
+  "source": "brave-web-search",
+  "description": "Pi Coding Agent is an open-source terminal coding tool that prioritizes minimalism and customization over bundled features. Built by Mario Zechner, it ships with only four core tools (read, write, edit, and bash) and a lean 300-word system prompt, making it one of the most lightweight coding ...",
+  "metadata": {
+    "title": "Pi Coding Agent:Minimal terminal-based coding harness designed for extensibility, allowing developers to customize workflows through TypeScript extensions and packages. - MOGE",
+    "name": "Pi Coding Agent:Minimal terminal-based coding harness designed for extensibility, allowing developers to customize workflows through TypeScript extensions and packages. - MOGE",
+    "description": "Pi Coding Agent is an open-source terminal coding tool that prioritizes minimalism and customization over bundled features. Built by Mario Zechner, it ships with only four core tools (read, write, edit, and bash) and a lean 300-word system prompt, making it one of the most lightweight coding ...",
+    "published_at": null,
+    "source_site": "MOGE",
+    "source_url": "https://moge.ai/product/pi-coding-agent",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

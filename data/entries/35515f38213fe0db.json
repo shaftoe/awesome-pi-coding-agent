@@ -1,0 +1,32 @@
+{
+  "id": "Lykhoyda-pi-cursor-subscription",
+  "name": "Lykhoyda-pi-cursor-subscription",
+  "url": "https://github.com/Lykhoyda/pi-cursor-subscription",
+  "source": "github-search",
+  "description": "Use Cursor subscription models inside Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/Lykhoyda/pi-cursor-subscription",
+    "repo_full_name": "Lykhoyda/pi-cursor-subscription",
+    "description": "Use Cursor subscription models inside Pi Coding Agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 3,
+    "topics": [
+      "cursor",
+      "grok",
+      "grok-subscription",
+      "pi",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-14T16:04:50Z",
+    "pushed_at": "2026-09-21T21:48:43Z",
+    "updated_at": "2026-09-21T21:48:29Z",
+    "size": 1118,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

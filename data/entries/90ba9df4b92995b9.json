@@ -1,0 +1,29 @@
+{
+  "id": "pi-zephyr-testmanager",
+  "name": "pi-zephyr-testmanager",
+  "url": "https://www.npmjs.com/package/pi-zephyr-testmanager",
+  "source": "npm-search",
+  "description": "Zephyr Scale Cloud API integration for the pi coding agent — test cases, test cycles, and test executions.",
+  "metadata": {
+    "github_url": "https://github.com/Lauritz30/pi-zephyr-testmanager",
+    "npm_name": "pi-zephyr-testmanager",
+    "description": "Zephyr Scale Cloud API integration for the pi coding agent — test cases, test cycles, and test executions.",
+    "keywords": [
+      "pi-package",
+      "zephyr",
+      "zephyr-scale",
+      "smartbear",
+      "pi-extension"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-09-14T09:38:55.567Z",
+    "npm_downloads_monthly": 202,
+    "npm_downloads_weekly": 172,
+    "npm_score_final": 15.228116,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

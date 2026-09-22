@@ -1,0 +1,31 @@
+{
+  "id": "pi-ctx-kit",
+  "name": "pi-ctx-kit",
+  "url": "https://www.npmjs.com/package/pi-ctx-kit",
+  "source": "npm-search",
+  "description": "Context engineering for Pi coding agent — dynamic context pruning, slow-call nudges, and smart compaction",
+  "metadata": {
+    "github_url": "https://github.com/sting8k/pi-ctx-kit",
+    "npm_name": "pi-ctx-kit",
+    "description": "Context engineering for Pi coding agent — dynamic context pruning, slow-call nudges, and smart compaction",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "context",
+      "compaction",
+      "pruning",
+      "dcp",
+      "auto-compaction"
+    ],
+    "version": "2.1.0",
+    "published_at": "2026-09-21T07:31:20.591Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

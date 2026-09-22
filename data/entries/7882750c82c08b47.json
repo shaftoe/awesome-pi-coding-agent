@@ -8,7 +8,7 @@
     "github_url": "https://github.com/the-matt-moo/pi-cc-header",
     "repo_full_name": "the-matt-moo/pi-cc-header",
     "description": "Claude Code–style startup header for Pi — animated Pi logo with a 9-color palette, toggleable IBM stripes and Minecraft themes; configurable info bar displays version, model, resource stats, AGENTS.md marker, cwd, and a customizable slogan",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-21T23:35:49Z",
     "pushed_at": "2026-09-20T18:45:30Z",
-    "updated_at": "2026-09-20T18:45:34Z",
+    "updated_at": "2026-09-21T12:18:11Z",
     "size": 3871,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

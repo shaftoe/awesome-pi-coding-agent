@@ -1,0 +1,32 @@
+{
+  "id": "iurysza-pi-voice",
+  "name": "iurysza-pi-voice",
+  "url": "https://github.com/iurysza/pi-voice",
+  "source": "github-search",
+  "description": "Voice control for the Pi coding agent, powered by OpenAI Realtime.",
+  "metadata": {
+    "github_url": "https://github.com/iurysza/pi-voice",
+    "repo_full_name": "iurysza/pi-voice",
+    "description": "Voice control for the Pi coding agent, powered by OpenAI Realtime.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "bun",
+      "openai-realtime",
+      "pi-coding-agent",
+      "pi-extension",
+      "typescript",
+      "voice-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-19T15:41:57Z",
+    "pushed_at": "2026-09-21T20:29:22Z",
+    "updated_at": "2026-09-21T20:29:25Z",
+    "size": 1881,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

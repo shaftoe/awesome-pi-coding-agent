@@ -1,0 +1,31 @@
+{
+  "id": "pi-auto-goal",
+  "name": "pi-auto-goal",
+  "url": "https://www.npmjs.com/package/pi-auto-goal",
+  "source": "npm-search",
+  "description": "Pi stop guard: judges premature agent stops with a second model and continues the task",
+  "metadata": {
+    "github_url": "https://github.com/maplezzk/pi-extensions",
+    "npm_name": "pi-auto-goal",
+    "description": "Pi stop guard: judges premature agent stops with a second model and continues the task",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "coding-agent",
+      "auto-continue",
+      "stop-guard",
+      "agent-supervision"
+    ],
+    "version": "0.6.1",
+    "published_at": "2026-09-21T07:53:11.476Z",
+    "npm_downloads_monthly": 169,
+    "npm_downloads_weekly": 169,
+    "npm_score_final": 14.766066,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
