@@ -57187,5 +57187,185 @@
 			"sourceName": "github",
 			"query": "github-repo:pi-agent language:TypeScript"
 		}
+	},
+	{
+		"url": "https://github.com/oahcz-7891/pi-dragon-theme",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-22T01:26:23.973287941Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=_DAhH3w-clQ",
+		"reason": "pop culture pi signal: \"magnum pi\"",
+		"blacklisted_at": "2026-09-22T01:26:24.00668491Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=v56BIC8YrPw",
+		"reason": "pop culture pi signal: \"magnum pi\"",
+		"blacklisted_at": "2026-09-22T01:26:24.035832953Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=CSKShhPL7DE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-22T01:26:24.054856892Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/goulinkh/omp-semantic-policy",
+		"reason": "covered by dedicated source: github.com",
+		"blacklisted_at": "2026-09-22T01:26:24.066443452Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ganziliang/zhizh-pi-qa-agent",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-22T01:26:24.078752467Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ZGQqmHJfNu0",
+		"reason": "mathematical pi signal: \"digits of pi\"",
+		"blacklisted_at": "2026-09-22T01:26:24.097953708Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@se1zer/pi-copy",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-22T01:26:24.113074741Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sendevia/pi-ask-author",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-22T01:26:24.134177697Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-cost-lens",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-22T01:26:24.143046067Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=OIHwIy7PeLA",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-09-22T01:26:24.169904793Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-zh-cn-i18n",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-22T01:26:24.174448154Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/cookerpapa/pi-cloud",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-22T01:26:24.373907808Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=2rTJW8Oh-ww",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-22T01:26:24.44754567Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-extension-watchdog",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-22T01:26:24.482445256Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Gateton/session-hub",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-22T01:26:24.505563194Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/useLexora/Lexora",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-22T01:26:24.628717471Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/Youzini-afk/Varin",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-22T01:26:24.669812375Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
 	}
 ]

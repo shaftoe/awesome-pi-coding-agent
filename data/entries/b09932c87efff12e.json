@@ -1,0 +1,25 @@
+{
+  "id": "wduo87391-pi-nebula",
+  "name": "wduo87391-pi-nebula",
+  "url": "https://github.com/wduo87391/pi-nebula",
+  "source": "github-search",
+  "description": "One chrome extension + one theme for pi: persistent welcome panel, status bar, metrics bar, editor shell, tool rows — base16 nebula",
+  "metadata": {
+    "github_url": "https://github.com/wduo87391/pi-nebula",
+    "repo_full_name": "wduo87391/pi-nebula",
+    "description": "One chrome extension + one theme for pi: persistent welcome panel, status bar, metrics bar, editor shell, tool rows — base16 nebula",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-21T04:50:35Z",
+    "pushed_at": "2026-09-21T12:32:21Z",
+    "updated_at": "2026-09-21T12:32:24Z",
+    "size": 31,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

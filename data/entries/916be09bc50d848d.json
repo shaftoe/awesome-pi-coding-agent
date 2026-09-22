@@ -1,0 +1,31 @@
+{
+  "id": "pi-show-provider-gentle-pi",
+  "name": "pi-show-provider-gentle-pi",
+  "url": "https://www.npmjs.com/package/pi-show-provider-gentle-pi",
+  "source": "npm-search",
+  "description": "Pi package with a /show-provider-gentle-pi on|off command to show provider/model instead of only model in the gentle-pi shell bar.",
+  "metadata": {
+    "github_url": "https://github.com/alexandregz/pi-show-provider-gentle-pi",
+    "npm_name": "pi-show-provider-gentle-pi",
+    "description": "Pi package with a /show-provider-gentle-pi on|off command to show provider/model instead of only model in the gentle-pi shell bar.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "gentle-pi",
+      "gentle-ai",
+      "extension",
+      "shell-bar",
+      "provider"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-09-14T13:41:28.094Z",
+    "npm_downloads_monthly": 129,
+    "npm_downloads_weekly": 129,
+    "npm_score_final": 13.8815775,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

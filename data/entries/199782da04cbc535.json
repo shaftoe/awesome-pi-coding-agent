@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tonyzdev/pijev",
     "repo_full_name": "tonyzdev/pijev",
     "description": "PiJev: a terminal coding agent with Jev in the loop — Jev ranks the repository's files before the first call, picks skills and triages failures; your coding model writes the code. Built on Pi.",
-    "stars": 2,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -27,10 +27,10 @@
     "archived": false,
     "created_at": "2026-09-17T19:31:31Z",
     "pushed_at": "2026-09-20T02:29:18Z",
-    "updated_at": "2026-09-20T02:29:22Z",
+    "updated_at": "2026-09-21T12:35:01Z",
     "size": 9766,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

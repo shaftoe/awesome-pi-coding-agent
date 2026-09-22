@@ -1,0 +1,32 @@
+{
+  "id": "@tiny-fish/pi",
+  "name": "@tiny-fish/pi",
+  "url": "https://www.npmjs.com/package/@tiny-fish/pi",
+  "source": "npm-search",
+  "description": "TinyFish for the Pi coding agent — free web search and page reading, plus goal-driven browser automation on live and logged-in sites. Skills work standalone; the bundled MCP server activates if you also install pi-mcp-adapter.",
+  "metadata": {
+    "github_url": "https://github.com/tinyfish-io/tinyfish-web-agent-integrations",
+    "npm_name": "@tiny-fish/pi",
+    "description": "TinyFish for the Pi coding agent — free web search and page reading, plus goal-driven browser automation on live and logged-in sites. Skills work standalone; the bundled MCP server activates if you also install pi-mcp-adapter.",
+    "keywords": [
+      "pi-package",
+      "tinyfish",
+      "web-agent",
+      "browser-automation",
+      "web-scraping",
+      "data-extraction",
+      "search",
+      "fetch"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-14T21:06:01.212Z",
+    "npm_downloads_monthly": 155,
+    "npm_downloads_weekly": 155,
+    "npm_score_final": 14.318384,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

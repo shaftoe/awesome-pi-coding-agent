@@ -1,0 +1,29 @@
+{
+  "id": "@niklasfyi/pi-session-name-prompt",
+  "name": "@niklasfyi/pi-session-name-prompt",
+  "url": "https://www.npmjs.com/package/@niklasfyi/pi-session-name-prompt",
+  "source": "npm-search",
+  "description": "Prompt for a human-entered name when a new Pi session starts.",
+  "metadata": {
+    "github_url": "https://github.com/niklasfyi/pi-packages",
+    "npm_name": "@niklasfyi/pi-session-name-prompt",
+    "description": "Prompt for a human-entered name when a new Pi session starts.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "session",
+      "name",
+      "prompt"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-09-14T12:15:08.422Z",
+    "npm_downloads_monthly": 414,
+    "npm_downloads_weekly": 414,
+    "npm_score_final": 17.717007,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "BubbleBuddy is a friendly Discord AI companion powered by Pi, Effect, and discord.js",
     "stars": 4,
     "forks": 0,
-    "open_issues": 12,
+    "open_issues": 15,
     "topics": [
       "discord",
       "discord-bot",
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-24T05:07:37Z",
-    "pushed_at": "2026-09-20T22:30:57Z",
-    "updated_at": "2026-09-20T22:31:01Z",
-    "size": 3184,
+    "pushed_at": "2026-09-21T23:08:57Z",
+    "updated_at": "2026-09-21T20:34:26Z",
+    "size": 3215,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

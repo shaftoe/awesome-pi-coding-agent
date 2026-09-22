@@ -8,7 +8,7 @@
     "github_url": "https://github.com/FazalAAli/pi-agent-for-claude",
     "repo_full_name": "FazalAAli/pi-agent-for-claude",
     "description": "Run pi as a native Claude Code subagent: pi agents in Claude Code's own agent UI, streamed live, on any model pi can reach.",
-    "stars": 16,
+    "stars": 19,
     "forks": 2,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-09-18T04:24:12Z",
     "pushed_at": "2026-09-18T04:48:45Z",
-    "updated_at": "2026-09-21T00:19:10Z",
+    "updated_at": "2026-09-21T23:10:15Z",
     "size": 23,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

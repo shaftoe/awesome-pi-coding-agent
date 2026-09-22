@@ -1,0 +1,28 @@
+{
+  "id": "@prometx/react-doctor",
+  "name": "@prometx/react-doctor",
+  "url": "https://www.npmjs.com/package/@prometx/react-doctor",
+  "source": "npm-search",
+  "description": "Unofficial pinned React Doctor CLI with offline, versioned agent guidance",
+  "metadata": {
+    "github_url": "https://github.com/prometx/react-doctor-wrapper",
+    "npm_name": "@prometx/react-doctor",
+    "description": "Unofficial pinned React Doctor CLI with offline, versioned agent guidance",
+    "keywords": [
+      "agent-skill",
+      "pi-package",
+      "react",
+      "react-doctor"
+    ],
+    "version": "0.9.14",
+    "published_at": "2026-09-16T08:37:03.821Z",
+    "npm_downloads_monthly": 91,
+    "npm_downloads_weekly": 91,
+    "npm_score_final": 14.058044,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

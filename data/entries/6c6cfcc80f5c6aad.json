@@ -1,0 +1,33 @@
+{
+  "id": "dakai-pi-opencode-go-usage",
+  "name": "dakai-pi-opencode-go-usage",
+  "url": "https://github.com/dakai/pi-opencode-go-usage",
+  "source": "github-search",
+  "description": "Track OpenCode Go usage (rolling 5h / weekly / monthly) in Pi — status bar + /opencode-go report via HTML scrape",
+  "metadata": {
+    "github_url": "https://github.com/dakai/pi-opencode-go-usage",
+    "repo_full_name": "dakai/pi-opencode-go-usage",
+    "description": "Track OpenCode Go usage (rolling 5h / weekly / monthly) in Pi — status bar + /opencode-go report via HTML scrape",
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "omp",
+      "opencode",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "status-bar",
+      "usage-tracker"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-16T11:18:13Z",
+    "pushed_at": "2026-09-20T03:12:44Z",
+    "updated_at": "2026-09-20T15:17:03Z",
+    "size": 77,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

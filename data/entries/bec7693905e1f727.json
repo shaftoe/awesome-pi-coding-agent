@@ -1,0 +1,32 @@
+{
+  "id": "pi-usage-cli",
+  "name": "pi-usage-cli",
+  "url": "https://www.npmjs.com/package/pi-usage-cli",
+  "source": "npm-search",
+  "description": "Token, context, and cost usage dashboard for the pi coding agent — a themed CLI plus an interactive /usage command",
+  "metadata": {
+    "github_url": "https://github.com/sumit1612/pi-usage",
+    "npm_name": "pi-usage-cli",
+    "description": "Token, context, and cost usage dashboard for the pi coding agent — a themed CLI plus an interactive /usage command",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "usage",
+      "tokens",
+      "cost",
+      "dashboard",
+      "cli"
+    ],
+    "version": "1.1.3",
+    "published_at": "2026-09-14T13:23:13.319Z",
+    "npm_downloads_monthly": 669,
+    "npm_downloads_weekly": 669,
+    "npm_score_final": 19.30392,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

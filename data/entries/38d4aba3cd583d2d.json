@@ -1,0 +1,28 @@
+{
+  "id": "pi-jev-router",
+  "name": "pi-jev-router",
+  "url": "https://www.npmjs.com/package/pi-jev-router",
+  "source": "npm-search",
+  "description": "Automatic model routing for Pi using TypeSafe's Jev through Vercel AI Gateway",
+  "metadata": {
+    "github_url": "https://github.com/mejiasd3v/pi-jev-router",
+    "npm_name": "pi-jev-router",
+    "description": "Automatic model routing for Pi using TypeSafe's Jev through Vercel AI Gateway",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "model-routing",
+      "jev"
+    ],
+    "version": "0.5.0",
+    "published_at": "2026-09-21T22:12:01.647Z",
+    "npm_downloads_monthly": 351,
+    "npm_downloads_weekly": 351,
+    "npm_score_final": 16.977291,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "@zigai/pi-mention-anything",
+  "name": "@zigai/pi-mention-anything",
+  "url": "https://www.npmjs.com/package/@zigai/pi-mention-anything",
+  "source": "npm-search",
+  "description": "Define arbitrary mention sources and triggers for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/zigai/pi-tweaks",
+    "npm_name": "@zigai/pi-mention-anything",
+    "description": "Define arbitrary mention sources and triggers for Pi.",
+    "keywords": [
+      "autocomplete",
+      "custom",
+      "mention",
+      "pi-extension",
+      "pi-package"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-09-21T22:41:00.330Z",
+    "npm_downloads_monthly": 128,
+    "npm_downloads_weekly": 128,
+    "npm_score_final": 13.744546,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
