@@ -1,0 +1,25 @@
+{
+  "id": "dantetekanem-pi-auto-review",
+  "name": "dantetekanem-pi-auto-review",
+  "url": "https://github.com/dantetekanem/pi-auto-review",
+  "source": "github-search",
+  "description": "Experimental multi-agent code review for Pi, with impact tracing, human-readable reports, and reusable codebase knowledge.",
+  "metadata": {
+    "github_url": "https://github.com/dantetekanem/pi-auto-review",
+    "repo_full_name": "dantetekanem/pi-auto-review",
+    "description": "Experimental multi-agent code review for Pi, with impact tracing, human-readable reports, and reusable codebase knowledge.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-13T16:03:05Z",
+    "pushed_at": "2026-09-16T23:04:46Z",
+    "updated_at": "2026-09-22T16:49:11Z",
+    "size": 514,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "A desktop interface for Pi Coding Agent, with visual workflows for conversations, tool calls, sessions, models, and packages.",
     "stars": 101,
     "forks": 12,
-    "open_issues": 5,
+    "open_issues": 8,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

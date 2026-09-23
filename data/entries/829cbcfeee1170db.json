@@ -1,0 +1,32 @@
+{
+  "id": "pi-roles",
+  "name": "pi-roles",
+  "url": "https://www.npmjs.com/package/pi-roles",
+  "source": "npm-search",
+  "description": "Role-based session configuration for pi coding agent. Launch a session as a named role and hot-swap roles mid-session, with optional pi-intercom and pi-mcp-adapter integration.",
+  "metadata": {
+    "github_url": "https://github.com/lojacobs/pi-roles",
+    "npm_name": "pi-roles",
+    "description": "Role-based session configuration for pi coding agent. Launch a session as a named role and hot-swap roles mid-session, with optional pi-intercom and pi-mcp-adapter integration.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "role",
+      "roles",
+      "session",
+      "agent",
+      "system-prompt"
+    ],
+    "version": "0.2.3",
+    "published_at": "2026-05-05T19:26:32.017Z",
+    "npm_downloads_monthly": 104,
+    "npm_downloads_weekly": 28,
+    "npm_score_final": 13.7464285,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

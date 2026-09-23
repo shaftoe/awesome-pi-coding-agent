@@ -8,7 +8,7 @@
     "github_url": "https://github.com/iamaamir/pi-bifrost",
     "repo_full_name": "iamaamir/pi-bifrost",
     "description": "Automatically route each Pi prompt to a model based on task complexity, price, speed, or context length. Smart model router for pi.",
-    "stars": 52,
+    "stars": 55,
     "forks": 4,
     "open_issues": 7,
     "topics": [
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-07-25T12:28:15Z",
     "pushed_at": "2026-09-21T19:51:01Z",
-    "updated_at": "2026-09-21T09:04:35Z",
+    "updated_at": "2026-09-22T21:31:11Z",
     "size": 1264,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"

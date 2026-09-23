@@ -1,0 +1,32 @@
+{
+  "id": "pi-lakers-theme",
+  "name": "pi-lakers-theme",
+  "url": "https://www.npmjs.com/package/pi-lakers-theme",
+  "source": "npm-search",
+  "description": "Lakers-themed Pi colors: Forum purple and gold on black.",
+  "metadata": {
+    "github_url": "https://github.com/AdityaVG13/pi-stack",
+    "npm_name": "pi-lakers-theme",
+    "description": "Lakers-themed Pi colors: Forum purple and gold on black.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-theme",
+      "theme",
+      "lakers",
+      "purple",
+      "gold"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-22T08:31:19.718Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-theme"
+  },
+  "category": "extension"
+}

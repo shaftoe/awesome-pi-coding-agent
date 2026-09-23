@@ -8,7 +8,7 @@
     "github_url": "https://github.com/win4r/pi-jev-router",
     "repo_full_name": "win4r/pi-jev-router",
     "description": "Task-boundary model routing for Pi Coding Agent, powered by TypeSafe Jev. Conservative policies, exact caching, and observable failover.",
-    "stars": 9,
+    "stars": 11,
     "forks": 2,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-09-20T13:51:07Z",
     "pushed_at": "2026-09-20T13:51:13Z",
-    "updated_at": "2026-09-21T18:40:26Z",
+    "updated_at": "2026-09-22T15:24:17Z",
     "size": 85,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,28 @@
+{
+  "id": "gnubrain",
+  "name": "gnubrain",
+  "url": "https://www.npmjs.com/package/gnubrain",
+  "source": "npm-search",
+  "description": "Currently mid development. Coming soon.",
+  "metadata": {
+    "github_url": "https://github.com/coreyryanhanson/gnubrain",
+    "npm_name": "gnubrain",
+    "description": "Currently mid development. Coming soon.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "siyuan",
+      "knowledge-base"
+    ],
+    "version": "0.0.3",
+    "published_at": "2026-09-15T16:27:56.763Z",
+    "npm_downloads_monthly": 192,
+    "npm_downloads_weekly": 28,
+    "npm_score_final": 15.955301,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

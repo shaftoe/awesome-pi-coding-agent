@@ -1,0 +1,34 @@
+{
+  "id": "pi-localize",
+  "name": "pi-localize",
+  "url": "https://www.npmjs.com/package/pi-localize",
+  "source": "npm-search",
+  "description": "Localize pi's interface — command descriptions and panel descriptions — and generate language packs on demand with /localize.",
+  "metadata": {
+    "github_url": "https://github.com/JBP-1994/pi-localize",
+    "npm_name": "pi-localize",
+    "description": "Localize pi's interface — command descriptions and panel descriptions — and generate language packs on demand with /localize.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "i18n",
+      "l10n",
+      "localization",
+      "translation",
+      "locale",
+      "language",
+      "internationalization"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-09-15T15:11:43.134Z",
+    "npm_downloads_monthly": 285,
+    "npm_downloads_weekly": 47,
+    "npm_score_final": 16.51279,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

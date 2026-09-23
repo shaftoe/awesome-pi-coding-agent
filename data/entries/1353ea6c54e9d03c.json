@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Asana Work Graph tool for Pi. Adds 19 LLM-callable tools (asana_*) that query the Asana REST API over plain HTTP. Mirrors a curated subset of the official Asana MCP tool set &mdash; no MCP server install required. Personal access token auth via ASANA_ACCE",
   "metadata": {
-    "github_url": "https://github.com/EstebanForge/pi-asana-me",
+    "github_url": "https://github.com/EstebanForge/pi-extensions",
     "npm_name": "@estebanforge/pi-asana-me",
     "description": "Asana Work Graph tool for Pi. Adds 19 LLM-callable tools (asana_*) that query the Asana REST API over plain HTTP. Mirrors a curated subset of the official Asana MCP tool set &mdash; no MCP server install required. Personal access token auth via ASANA_ACCE",
     "keywords": [
@@ -17,11 +17,11 @@
       "task-management",
       "coding-agent"
     ],
-    "version": "1.7.1",
-    "published_at": "2026-09-10T14:17:11.502Z",
-    "npm_downloads_monthly": 1021,
-    "npm_downloads_weekly": 417,
-    "npm_score_final": 20.478674,
+    "version": "1.7.2",
+    "published_at": "2026-09-22T12:29:58.820Z",
+    "npm_downloads_monthly": 858,
+    "npm_downloads_weekly": 53,
+    "npm_score_final": 21.148773,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

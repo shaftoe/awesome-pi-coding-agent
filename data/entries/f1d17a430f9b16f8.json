@@ -1,0 +1,29 @@
+{
+  "id": "@dieulc/browser-inspector",
+  "name": "@dieulc/browser-inspector",
+  "url": "https://www.npmjs.com/package/@dieulc/browser-inspector",
+  "source": "npm-search",
+  "description": "Pi extension: inspect browser DevTools (console, network, performance) via CDP",
+  "metadata": {
+    "github_url": "https://github.com/dieuluucanh/pi-workflow",
+    "npm_name": "@dieulc/browser-inspector",
+    "description": "Pi extension: inspect browser DevTools (console, network, performance) via CDP",
+    "keywords": [
+      "pi-package",
+      "browser",
+      "devtools",
+      "cdp",
+      "inspector"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-09-20T06:26:26.119Z",
+    "npm_downloads_monthly": 107,
+    "npm_downloads_weekly": 107,
+    "npm_score_final": 14.528667,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

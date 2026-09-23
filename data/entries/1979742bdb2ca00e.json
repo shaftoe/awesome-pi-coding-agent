@@ -1,0 +1,32 @@
+{
+  "id": "aide-family-Crescent",
+  "name": "aide-family-Crescent",
+  "url": "https://github.com/aide-family/Crescent",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/aide-family/Crescent",
+    "repo_full_name": "aide-family/Crescent",
+    "description": "",
+    "stars": 7,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "openai-api",
+      "pi",
+      "pi-agent",
+      "terminal",
+      "typescipt",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-26T14:30:51Z",
+    "pushed_at": "2026-09-22T07:54:02Z",
+    "updated_at": "2026-09-22T07:54:06Z",
+    "size": 7288,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

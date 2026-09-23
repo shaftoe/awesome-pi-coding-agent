@@ -1,0 +1,31 @@
+{
+  "id": "@oguzhaneren/pi-shunt",
+  "name": "@oguzhaneren/pi-shunt",
+  "url": "https://www.npmjs.com/package/@oguzhaneren/pi-shunt",
+  "source": "npm-search",
+  "description": "Token optimization extension for pi - routes I/O-heavy operations to cheaper worker models",
+  "metadata": {
+    "github_url": "https://github.com/oguzhaneren/pi-shunt",
+    "npm_name": "@oguzhaneren/pi-shunt",
+    "description": "Token optimization extension for pi - routes I/O-heavy operations to cheaper worker models",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "pi-extension",
+      "token-optimization",
+      "model-routing",
+      "delegation"
+    ],
+    "version": "0.2.3",
+    "published_at": "2026-09-15T09:29:51.607Z",
+    "npm_downloads_monthly": 530,
+    "npm_downloads_weekly": 530,
+    "npm_score_final": 19.331348,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

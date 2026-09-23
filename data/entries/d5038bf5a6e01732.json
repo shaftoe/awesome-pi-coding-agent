@@ -1,0 +1,25 @@
+{
+  "id": "kaustav1996-reflex",
+  "name": "kaustav1996-reflex",
+  "url": "https://github.com/kaustav1996/reflex",
+  "source": "github-search",
+  "description": "A coding agent and personal assistant with System One reflexes (TypeSafe Jev) on top of the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/kaustav1996/reflex",
+    "repo_full_name": "kaustav1996/reflex",
+    "description": "A coding agent and personal assistant with System One reflexes (TypeSafe Jev) on top of the Pi coding agent",
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 53,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-18T15:18:29Z",
+    "pushed_at": "2026-09-22T19:28:42Z",
+    "updated_at": "2026-09-22T19:28:43Z",
+    "size": 1150,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

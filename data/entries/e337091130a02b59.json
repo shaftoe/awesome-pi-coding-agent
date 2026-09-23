@@ -1,0 +1,29 @@
+{
+  "id": "@jhnsml/pi-ax",
+  "name": "@jhnsml/pi-ax",
+  "url": "https://www.npmjs.com/package/@jhnsml/pi-ax",
+  "source": "npm-search",
+  "description": "Pi native ax tool for read-only web fetch, discovery, and extraction",
+  "metadata": {
+    "github_url": "https://github.com/jhnsml/pi-tools",
+    "npm_name": "@jhnsml/pi-ax",
+    "description": "Pi native ax tool for read-only web fetch, discovery, and extraction",
+    "keywords": [
+      "ax",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "web-extraction"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-08T19:28:50.478Z",
+    "npm_downloads_monthly": 129,
+    "npm_downloads_weekly": 20,
+    "npm_score_final": 14.479227,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -3,11 +3,11 @@
   "name": "pi-arsenal",
   "url": "https://www.npmjs.com/package/pi-arsenal",
   "source": "npm-search",
-  "description": "A polished workspace for Pi: sessions, skills, MCP, tasks, themes, and splash.",
+  "description": "A terminal control deck for Pi: workspaces, sessions, skills, MCP, tasks, theme, and splash.",
   "metadata": {
     "github_url": "https://github.com/SeiyunSky/Pi-Arsenal",
     "npm_name": "pi-arsenal",
-    "description": "A polished workspace for Pi: sessions, skills, MCP, tasks, themes, and splash.",
+    "description": "A terminal control deck for Pi: workspaces, sessions, skills, MCP, tasks, theme, and splash.",
     "keywords": [
       "pi-package",
       "pi",
@@ -17,8 +17,8 @@
       "skills",
       "sessions"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-09-21T07:32:15.004Z",
+    "version": "0.1.2",
+    "published_at": "2026-09-22T02:59:55.916Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

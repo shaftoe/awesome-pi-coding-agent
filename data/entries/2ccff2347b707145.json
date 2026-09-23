@@ -1,0 +1,37 @@
+{
+  "id": "iamaamir-system-one",
+  "name": "iamaamir-system-one",
+  "url": "https://github.com/iamaamir/system-one",
+  "source": "github-search",
+  "description": "Provider-neutral System One runtime for TypeScript and Pi",
+  "metadata": {
+    "github_url": "https://github.com/iamaamir/system-one",
+    "repo_full_name": "iamaamir/system-one",
+    "description": "Provider-neutral System One runtime for TypeScript and Pi",
+    "stars": 13,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "calibrated-classification",
+      "choice-noul-score",
+      "decision-models",
+      "jev",
+      "model-routing",
+      "pi-coding-agent",
+      "provider-neutral",
+      "reflex",
+      "system-one",
+      "typesafe",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-22T10:20:21Z",
+    "pushed_at": "2026-09-22T21:10:43Z",
+    "updated_at": "2026-09-23T01:05:07Z",
+    "size": 1584,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}
