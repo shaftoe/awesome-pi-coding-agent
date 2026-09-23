@@ -1,0 +1,37 @@
+{
+  "id": "cavaldos-pitago",
+  "name": "pitago",
+  "url": "https://github.com/cavaldos/pitago",
+  "source": "github-search",
+  "description": "A polished terminal UI (TUI) for the pi AI coding agent — real-time chat, multi-provider LLMs, tools and sessions. Built with Go and Bubble Tea.",
+  "metadata": {
+    "github_url": "https://github.com/cavaldos/pitago",
+    "repo_full_name": "cavaldos/pitago",
+    "description": "A polished terminal UI (TUI) for the pi AI coding agent — real-time chat, multi-provider LLMs, tools and sessions. Built with Go and Bubble Tea.",
+    "stars": 13,
+    "forks": 3,
+    "open_issues": 0,
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "bubble-tea",
+      "claude-code",
+      "cli",
+      "coding-agents",
+      "developer-tools",
+      "go",
+      "terminal-ui",
+      "tui"
+    ],
+    "language": "Go",
+    "archived": false,
+    "created_at": "2026-09-19T15:05:41Z",
+    "pushed_at": "2026-09-23T07:30:23Z",
+    "updated_at": "2026-09-23T09:22:22Z",
+    "size": 22419,
+    "license": "MIT",
+    "discovery_hint": "github:add-url"
+  },
+  "category": "misc"
+}
