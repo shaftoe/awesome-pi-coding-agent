@@ -1,0 +1,30 @@
+{
+  "id": "pi-model-trace-direct",
+  "name": "pi-model-trace-direct",
+  "url": "https://www.npmjs.com/package/pi-model-trace-direct",
+  "source": "npm-search",
+  "description": "Raw-API model attribution for the Pi coding agent: probe a provider with numeric fingerprint challenges and score the answers against a bundled ModelTrace bank, with an optional second run that keeps Pi's own system prompt so the two can be compared.",
+  "metadata": {
+    "github_url": "https://github.com/kurihada/pi-model-trace-direct",
+    "npm_name": "pi-model-trace-direct",
+    "description": "Raw-API model attribution for the Pi coding agent: probe a provider with numeric fingerprint challenges and score the answers against a bundled ModelTrace bank, with an optional second run that keeps Pi's own system prompt so the two can be compared.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "fingerprint",
+      "model-attribution",
+      "modeltrace"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-22T08:35:14.574Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

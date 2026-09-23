@@ -8,8 +8,8 @@
     "github_url": "https://github.com/tmustier/pine-of-glass",
     "repo_full_name": "tmustier/pine-of-glass",
     "description": "Small observability and context management extensions for the Pi coding agent",
-    "stars": 56,
-    "forks": 11,
+    "stars": 60,
+    "forks": 12,
     "open_issues": 11,
     "topics": [
       "context-management",
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-06-02T15:26:51Z",
     "pushed_at": "2026-09-21T18:30:01Z",
-    "updated_at": "2026-09-21T22:16:18Z",
+    "updated_at": "2026-09-22T15:50:58Z",
     "size": 8083,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,30 @@
+{
+  "id": "GaganSD-pi-slate",
+  "name": "GaganSD-pi-slate",
+  "url": "https://github.com/GaganSD/pi-slate",
+  "source": "github-search",
+  "description": "Minimal fullscreen TUI and sidebar for Pi",
+  "metadata": {
+    "github_url": "https://github.com/GaganSD/pi-slate",
+    "repo_full_name": "GaganSD/pi-slate",
+    "description": "Minimal fullscreen TUI and sidebar for Pi",
+    "stars": 3,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "pi-extension",
+      "pi-package",
+      "pi-theme",
+      "terminal-ui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-20T23:05:29Z",
+    "pushed_at": "2026-09-22T09:57:35Z",
+    "updated_at": "2026-09-22T09:57:39Z",
+    "size": 1226,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

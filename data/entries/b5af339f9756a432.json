@@ -10,7 +10,7 @@
     "description": "Solo-developer agent harness: composable skills, project memory, event-driven extensions for the Pi coding agent.",
     "stars": 3,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "agent",
       "automation",

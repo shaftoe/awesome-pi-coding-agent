@@ -1,0 +1,33 @@
+{
+  "id": "pi-session-profile-selector",
+  "name": "pi-session-profile-selector",
+  "url": "https://www.npmjs.com/package/pi-session-profile-selector",
+  "source": "npm-search",
+  "description": "Pi extension that asks which session profile to use and selects the matching model and thinking level.",
+  "metadata": {
+    "github_url": "https://github.com/unairada/pi-session-profile-selector",
+    "npm_name": "pi-session-profile-selector",
+    "description": "Pi extension that asks which session profile to use and selects the matching model and thinking level.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-coding-agent",
+      "pi-extension",
+      "model",
+      "model-selector",
+      "session",
+      "profiles",
+      "thinking-level"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-22T18:36:26.318Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

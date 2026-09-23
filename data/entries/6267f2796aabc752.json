@@ -1,0 +1,31 @@
+{
+  "id": "pi-jev-score",
+  "name": "pi-jev-score",
+  "url": "https://www.npmjs.com/package/pi-jev-score",
+  "source": "npm-search",
+  "description": "Pi extension that uses TypeSafe JEV to score final AI responses",
+  "metadata": {
+    "github_url": "https://github.com/marszhongx/pi-jev-score",
+    "npm_name": "pi-jev-score",
+    "description": "Pi extension that uses TypeSafe JEV to score final AI responses",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "jev",
+      "evaluation",
+      "scoring"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-09-22T04:32:04.235Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

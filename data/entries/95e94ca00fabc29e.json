@@ -1,0 +1,25 @@
+{
+  "id": "LUKAWI-my-pi-config",
+  "name": "LUKAWI-my-pi-config",
+  "url": "https://github.com/LUKAWI/my-pi-config",
+  "source": "github-search",
+  "description": "My pi coding agent config — Windows 11 + Herdr tuned: 8 npm packages, footer suite, 300k auto-compact, goal/plan/btw workflows",
+  "metadata": {
+    "github_url": "https://github.com/LUKAWI/my-pi-config",
+    "repo_full_name": "LUKAWI/my-pi-config",
+    "description": "My pi coding agent config — Windows 11 + Herdr tuned: 8 npm packages, footer suite, 300k auto-compact, goal/plan/btw workflows",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-22T02:03:27Z",
+    "pushed_at": "2026-09-22T02:03:34Z",
+    "updated_at": "2026-09-22T02:11:36Z",
+    "size": 134,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "@itsmeares/pi-vision",
+  "name": "@itsmeares/pi-vision",
+  "url": "https://www.npmjs.com/package/@itsmeares/pi-vision",
+  "source": "npm-search",
+  "description": "Delegated vision for text-only Pi models through an isolated Codex CLI worker.",
+  "metadata": {
+    "github_url": "https://github.com/itsmeares/pi-vision",
+    "npm_name": "@itsmeares/pi-vision",
+    "description": "Delegated vision for text-only Pi models through an isolated Codex CLI worker.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "vision",
+      "codex",
+      "image-analysis",
+      "text-only"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-29T15:44:55.620Z",
+    "npm_downloads_monthly": 87,
+    "npm_downloads_weekly": 9,
+    "npm_score_final": 13.802781,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

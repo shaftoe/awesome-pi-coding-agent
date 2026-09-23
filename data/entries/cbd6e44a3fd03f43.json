@@ -1,0 +1,35 @@
+{
+  "id": "pi-session-hub",
+  "name": "pi-session-hub",
+  "url": "https://www.npmjs.com/package/pi-session-hub",
+  "source": "npm-search",
+  "description": "Cross-harness session hub for Pi: browse, search and continue sessions from Claude Code, Codex, OpenCode, Crush and JCode without leaving your chat.",
+  "metadata": {
+    "github_url": "https://github.com/Gateton/pi-session-hub",
+    "npm_name": "pi-session-hub",
+    "description": "Cross-harness session hub for Pi: browse, search and continue sessions from Claude Code, Codex, OpenCode, Crush and JCode without leaving your chat.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "sessions",
+      "session",
+      "resume",
+      "handoff",
+      "claude-code",
+      "codex",
+      "opencode",
+      "crush",
+      "jcode"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-09-22T17:49:38.023Z",
+    "npm_downloads_monthly": 160,
+    "npm_downloads_weekly": 160,
+    "npm_score_final": 14.223484,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
