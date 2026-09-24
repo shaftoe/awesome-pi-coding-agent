@@ -1,0 +1,27 @@
+{
+  "id": "@birdcar/pi-write-for",
+  "name": "@birdcar/pi-write-for",
+  "url": "https://www.npmjs.com/package/@birdcar/pi-write-for",
+  "source": "npm-search",
+  "description": "Pi extension foundation for writing in a selected voice and channel.",
+  "metadata": {
+    "github_url": "https://github.com/birdcar/pi-extensions",
+    "npm_name": "@birdcar/pi-write-for",
+    "description": "Pi extension foundation for writing in a selected voice and channel.",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-package"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-09-23T21:43:50.641Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

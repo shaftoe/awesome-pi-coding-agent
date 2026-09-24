@@ -1,0 +1,30 @@
+{
+  "id": "pi-ollama-sync",
+  "name": "pi-ollama-sync",
+  "url": "https://www.npmjs.com/package/pi-ollama-sync",
+  "source": "npm-search",
+  "description": "Pi Agent extension: synchronize Ollama models into pi's models.json so they appear in the /model picker",
+  "metadata": {
+    "github_url": "https://github.com/hengbo12345/funny_tools",
+    "npm_name": "pi-ollama-sync",
+    "description": "Pi Agent extension: synchronize Ollama models into pi's models.json so they appear in the /model picker",
+    "keywords": [
+      "pi-package",
+      "pi-agent",
+      "ollama",
+      "models",
+      "provider",
+      "sync"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-23T11:45:35.415Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

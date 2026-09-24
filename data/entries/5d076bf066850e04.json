@@ -1,0 +1,30 @@
+{
+  "id": "@y0usaf/pi-jev",
+  "name": "@y0usaf/pi-jev",
+  "url": "https://www.npmjs.com/package/@y0usaf/pi-jev",
+  "source": "npm-search",
+  "description": "TypeSafe Jev as a decision layer for Pi: judges mutating tool calls before they run, reads tool output for secrets and failure class after, and exposes jev_ask for typed calibrated answers instead of prose",
+  "metadata": {
+    "github_url": "https://github.com/y0usaf/pi-jev",
+    "npm_name": "@y0usaf/pi-jev",
+    "description": "TypeSafe Jev as a decision layer for Pi: judges mutating tool calls before they run, reads tool output for secrets and failure class after, and exposes jev_ask for typed calibrated answers instead of prose",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "typesafe",
+      "jev",
+      "guardrails",
+      "classification"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-09-16T07:30:29.765Z",
+    "npm_downloads_monthly": 419,
+    "npm_downloads_weekly": 419,
+    "npm_score_final": 18.347675,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

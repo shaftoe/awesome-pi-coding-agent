@@ -1,0 +1,31 @@
+{
+  "id": "pi-nvim-context",
+  "name": "pi-nvim-context",
+  "url": "https://www.npmjs.com/package/pi-nvim-context",
+  "source": "npm-search",
+  "description": "Bridge Neovim to standalone Pi sessions for accumulated context and explicit model-powered editor suggestions",
+  "metadata": {
+    "github_url": "https://github.com/omaclaren/pi-nvim-context",
+    "npm_name": "pi-nvim-context",
+    "description": "Bridge Neovim to standalone Pi sessions for accumulated context and explicit model-powered editor suggestions",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "neovim",
+      "editor-context",
+      "coding-agent",
+      "lua",
+      "ai"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-09-08T13:40:33.156Z",
+    "npm_downloads_monthly": 110,
+    "npm_downloads_weekly": 11,
+    "npm_score_final": 14.069588,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

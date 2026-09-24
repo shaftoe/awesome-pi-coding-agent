@@ -1,0 +1,30 @@
+{
+  "id": "pi-reverse",
+  "name": "pi-reverse",
+  "url": "https://www.npmjs.com/package/pi-reverse",
+  "source": "npm-search",
+  "description": "Reverse mode for pi: the prompt pinned to the top, Q&A pairs stacked newest first, long answers and questions in their own scrollable windows.",
+  "metadata": {
+    "github_url": "https://github.com/panbergco/pi-reverse",
+    "npm_name": "pi-reverse",
+    "description": "Reverse mode for pi: the prompt pinned to the top, Q&A pairs stacked newest first, long answers and questions in their own scrollable windows.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "tui",
+      "layout"
+    ],
+    "version": "0.17.7",
+    "published_at": "2026-09-24T00:50:54.490Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

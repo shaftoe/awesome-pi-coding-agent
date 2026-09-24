@@ -1,0 +1,30 @@
+{
+  "id": "pi-omapi",
+  "name": "pi-omapi",
+  "url": "https://www.npmjs.com/package/pi-omapi",
+  "source": "npm-search",
+  "description": "An 8-bit, omarchy-native face for pi: animated block logo, dense status strip, and hand-tuned themes.",
+  "metadata": {
+    "github_url": "https://github.com/matheusmedrado/omaPi",
+    "npm_name": "pi-omapi",
+    "description": "An 8-bit, omarchy-native face for pi: animated block logo, dense status strip, and hand-tuned themes.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "theme",
+      "tui",
+      "omarchy",
+      "8-bit"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-16T03:30:03.027Z",
+    "npm_downloads_monthly": 169,
+    "npm_downloads_weekly": 169,
+    "npm_score_final": 15.409584,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
