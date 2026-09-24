@@ -1,0 +1,28 @@
+{
+  "id": "@henryqw/pi-rtk-test",
+  "name": "@henryqw/pi-rtk-test",
+  "url": "https://www.npmjs.com/package/@henryqw/pi-rtk-test",
+  "source": "npm-search",
+  "description": "Route direct Pi pnpm test calls through RTK.",
+  "metadata": {
+    "github_url": "https://github.com/HenryQW/pi-harness",
+    "npm_name": "@henryqw/pi-rtk-test",
+    "description": "Route direct Pi pnpm test calls through RTK.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "rtk",
+      "test"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-09T10:56:06.750Z",
+    "npm_downloads_monthly": 112,
+    "npm_downloads_weekly": 6,
+    "npm_score_final": 14.131453,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

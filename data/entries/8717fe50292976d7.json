@@ -8,7 +8,7 @@
     "github_url": "https://github.com/shaftoe/pi-coding-agent-action",
     "repo_full_name": "shaftoe/pi-coding-agent-action",
     "description": "GitHub action to integrate https://pi.dev/ coding agent with GitHub-compatible CI/CD, issues and PRs",
-    "stars": 69,
+    "stars": 70,
     "forks": 19,
     "open_issues": 5,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-03-21T21:59:59Z",
     "pushed_at": "2026-09-22T09:12:24Z",
-    "updated_at": "2026-09-22T09:12:28Z",
+    "updated_at": "2026-09-23T04:10:43Z",
     "size": 185139,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

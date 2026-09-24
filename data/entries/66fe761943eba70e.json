@@ -1,0 +1,32 @@
+{
+  "id": "pi-status-indicator",
+  "name": "pi-status-indicator",
+  "url": "https://www.npmjs.com/package/pi-status-indicator",
+  "source": "npm-search",
+  "description": "Claude Code-style status indicator for pi: a ping-ponging half-circle while working, a hand while waiting on you, a check when done, and a 2-4 word session theme in the header.",
+  "metadata": {
+    "github_url": "https://github.com/HMDRAMS-DEV/pi-status-indicator",
+    "npm_name": "pi-status-indicator",
+    "description": "Claude Code-style status indicator for pi: a ping-ponging half-circle while working, a hand while waiting on you, a check when done, and a 2-4 word session theme in the header.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "coding-agent",
+      "status",
+      "indicator",
+      "spinner",
+      "tui"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-16T03:18:22.698Z",
+    "npm_downloads_monthly": 327,
+    "npm_downloads_weekly": 327,
+    "npm_score_final": 17.501972,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

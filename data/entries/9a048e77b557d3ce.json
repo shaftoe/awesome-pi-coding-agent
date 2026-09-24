@@ -9,8 +9,8 @@
     "repo_full_name": "code-yeongyu/pi-todotools",
     "description": "Structured todowrite/todoread task management extension for the pi coding agent",
     "stars": 2,
-    "forks": 0,
-    "open_issues": 3,
+    "forks": 1,
+    "open_issues": 4,
     "topics": [
       "coding-agent",
       "pi",

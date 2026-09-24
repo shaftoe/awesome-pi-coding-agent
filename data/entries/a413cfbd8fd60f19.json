@@ -1,0 +1,31 @@
+{
+  "id": "gdrive-publish",
+  "name": "gdrive-publish",
+  "url": "https://www.npmjs.com/package/gdrive-publish",
+  "source": "npm-search",
+  "description": "Publish markdown, CSV and Excel files to Google Drive as native Google Docs and Sheets, rewriting relative links to real Doc URLs with stable sharing links",
+  "metadata": {
+    "github_url": "https://github.com/codingfragments/pi-extensions",
+    "npm_name": "gdrive-publish",
+    "description": "Publish markdown, CSV and Excel files to Google Drive as native Google Docs and Sheets, rewriting relative links to real Doc URLs with stable sharing links",
+    "keywords": [
+      "google-drive",
+      "google-docs",
+      "google-sheets",
+      "markdown",
+      "publish",
+      "cli",
+      "pi-package"
+    ],
+    "version": "0.8.0",
+    "published_at": "2026-09-23T17:10:11.346Z",
+    "npm_downloads_monthly": 840,
+    "npm_downloads_weekly": 840,
+    "npm_score_final": 20.353394,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

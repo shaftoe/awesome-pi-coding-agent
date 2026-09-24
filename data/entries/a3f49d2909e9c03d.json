@@ -1,0 +1,30 @@
+{
+  "id": "@blueocean223/pi-provider",
+  "name": "@blueocean223/pi-provider",
+  "url": "https://www.npmjs.com/package/@blueocean223/pi-provider",
+  "source": "npm-search",
+  "description": "/provider command for pi: add, edit and test custom providers (relays, proxies, local servers) in models.json",
+  "metadata": {
+    "github_url": "https://github.com/BlueOcean223/pi-provider",
+    "npm_name": "@blueocean223/pi-provider",
+    "description": "/provider command for pi: add, edit and test custom providers (relays, proxies, local servers) in models.json",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "provider",
+      "models.json",
+      "relay"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-09-23T07:21:14.206Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

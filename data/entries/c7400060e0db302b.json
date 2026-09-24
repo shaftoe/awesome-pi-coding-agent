@@ -1,0 +1,32 @@
+{
+  "id": "@moguw/pi-lazy-tools",
+  "name": "@moguw/pi-lazy-tools",
+  "url": "https://www.npmjs.com/package/@moguw/pi-lazy-tools",
+  "source": "npm-search",
+  "description": "Skill-led activation of existing Pi tools without duplicating their implementations",
+  "metadata": {
+    "github_url": "https://github.com/Mieluoxxx/pi-ext",
+    "npm_name": "@moguw/pi-lazy-tools",
+    "description": "Skill-led activation of existing Pi tools without duplicating their implementations",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "lazy-loading",
+      "capability",
+      "skills",
+      "tool-activation"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-23T03:23:39.222Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

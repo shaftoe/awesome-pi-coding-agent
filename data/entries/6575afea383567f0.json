@@ -8,7 +8,7 @@
     "github_url": "https://github.com/nonlooped/nativepi",
     "repo_full_name": "nonlooped/nativepi",
     "description": "Free, open-source cross-platform desktop app for the Pi coding agent on Windows, macOS, and Linux. Projects, conversations, streamed tool activity, diffs, model controls, and graphical extensions in one native workspace.",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 2,
     "topics": [
@@ -35,7 +35,7 @@
     "archived": false,
     "created_at": "2026-07-25T20:39:16Z",
     "pushed_at": "2026-09-21T12:01:46Z",
-    "updated_at": "2026-09-21T12:01:50Z",
+    "updated_at": "2026-09-23T07:14:50Z",
     "size": 6063,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

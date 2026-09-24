@@ -1,0 +1,32 @@
+{
+  "id": "pi-anotify",
+  "name": "pi-anotify",
+  "url": "https://www.npmjs.com/package/pi-anotify",
+  "source": "npm-search",
+  "description": "pi extension: push notifications to all your devices (iOS/Mac/PC/Android) when your agent finishes tasks, via Anotify.",
+  "metadata": {
+    "github_url": "https://github.com/zzjcool/anotify-plugins",
+    "npm_name": "pi-anotify",
+    "description": "pi extension: push notifications to all your devices (iOS/Mac/PC/Android) when your agent finishes tasks, via Anotify.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "notification",
+      "push",
+      "anotify",
+      "agent"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-23T06:22:13.836Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
