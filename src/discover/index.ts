@@ -14,11 +14,12 @@ import "../core/temporal.ts";
 import { existsSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 import { Cache } from "../core/cache.ts";
+import { moduleDir } from "../core/paths.ts";
 import { createAllSources, routeQueries, type SourceOverrides } from "../sources/index.ts";
 import { runDiscovery } from "./runner.ts";
 import { DiscoveryWriter } from "./writer.ts";
 
-const ROOT_DIR = join(import.meta.dir, "..", "..");
+const ROOT_DIR = join(moduleDir(import.meta.url), "..", "..");
 const CACHE_DIR = join(ROOT_DIR, ".cache");
 const CANDIDATES_DIR = join(CACHE_DIR, "candidates");
 
@@ -62,7 +63,7 @@ export async function cmdDiscover(opts: DiscoverOptions = {}): Promise<void> {
 		.join(", ");
 	log(`✅ Wrote ${total} discoveries (${summaryStr})`);
 	log(`\nCandidates saved to ${CANDIDATES_DIR}`);
-	log("Run `bun run filter` to filter, then `bun run process` to save entries.");
+	log("Run `pnpm run filter` to filter, then `pnpm run process` to save entries.");
 }
 
 // ─── CLI entry point ───────────────────────────────────────────────────────────

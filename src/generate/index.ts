@@ -9,10 +9,11 @@ import "../core/temporal.ts";
 
 import { readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
+import { moduleDir } from "../core/paths.ts";
 import type { CategorizedEntry } from "../core/types.ts";
 import { renderREADME } from "./render.ts";
 
-const ROOT_DIR = join(import.meta.dir, "..", "..");
+const ROOT_DIR = join(moduleDir(import.meta.url), "..", "..");
 const DATA_DIR = join(ROOT_DIR, "data", "entries");
 const OUTPUT_PATH = join(ROOT_DIR, "README.md");
 
@@ -26,7 +27,7 @@ export function cmdGenerate(): void {
 
 	const entries = loadEntries();
 	if (entries.length === 0) {
-		process.stderr.write("No entries found in data/entries/. Run `bun run process` first.\n");
+		process.stderr.write("No entries found in data/entries/. Run `pnpm run process` first.\n");
 		process.exit(1);
 	}
 	log(`Loaded ${entries.length} entries`);

@@ -1,9 +1,9 @@
 import "../core/temporal.ts";
 
-import { afterEach, beforeEach, describe, expect, it } from "bun:test";
 import { existsSync, mkdtempSync, rmSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
+import { afterEach, beforeEach, describe, expect, it } from "vitest";
 import { type DiscoveryCandidate, EntrySource } from "../core/types.ts";
 import { DiscoveryWriter, loadDiscoveries } from "./writer.ts";
 

@@ -2,10 +2,10 @@
  * CLI for managing the URL blacklist.
  *
  * Usage:
- *   bun run blacklist add <url> <reason>    — add a URL manually
- *   bun run blacklist list                   — list all blacklisted URLs
- *   bun run blacklist check <url>           — check if a URL is blacklisted
- *   bun run blacklist remove <url>          — remove a URL from the blacklist
+ *   pnpm run blacklist add <url> <reason>    — add a URL manually
+ *   pnpm run blacklist list                   — list all blacklisted URLs
+ *   pnpm run blacklist check <url>           — check if a URL is blacklisted
+ *   pnpm run blacklist remove <url>          — remove a URL from the blacklist
  */
 
 import "../core/temporal.ts";
@@ -24,10 +24,10 @@ const [, , command, ...args] = process.argv;
 
 function usage(): never {
 	console.log(`Usage:
-  bun run blacklist add <url> <reason>    Add a URL to the blacklist
-  bun run blacklist list                  List all blacklisted URLs
-  bun run blacklist check <url>           Check if a URL is blacklisted
-  bun run blacklist remove <url>          Remove a URL from the blacklist`);
+  pnpm run blacklist add <url> <reason>    Add a URL to the blacklist
+  pnpm run blacklist list                  List all blacklisted URLs
+  pnpm run blacklist check <url>           Check if a URL is blacklisted
+  pnpm run blacklist remove <url>          Remove a URL from the blacklist`);
 	process.exit(1);
 }
 
@@ -39,7 +39,7 @@ switch (command) {
 		const reason = args.slice(1).join(" ");
 		if (!rawUrl || !reason) {
 			console.error("Error: both <url> and <reason> are required.");
-			console.error("Usage: bun run blacklist add <url> <reason>");
+			console.error("Usage: pnpm run blacklist add <url> <reason>");
 			process.exit(1);
 		}
 		const url = normalizeUrl(rawUrl);
@@ -74,7 +74,7 @@ switch (command) {
 		const rawUrl = args[0];
 		if (!rawUrl) {
 			console.error("Error: <url> is required.");
-			console.error("Usage: bun run blacklist check <url>");
+			console.error("Usage: pnpm run blacklist check <url>");
 			process.exit(1);
 		}
 		const url = normalizeUrl(rawUrl);
@@ -96,7 +96,7 @@ switch (command) {
 		const rawUrl = args[0];
 		if (!rawUrl) {
 			console.error("Error: <url> is required.");
-			console.error("Usage: bun run blacklist remove <url>");
+			console.error("Usage: pnpm run blacklist remove <url>");
 			process.exit(1);
 		}
 		const url = normalizeUrl(rawUrl);

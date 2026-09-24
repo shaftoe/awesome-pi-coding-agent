@@ -1,9 +1,9 @@
 import "../core/temporal.ts";
 
-import { describe, expect, it } from "bun:test";
 import { existsSync, mkdtempSync, rmSync, writeFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
+import { describe, expect, it } from "vitest";
 import { Cache } from "./cache.ts";
 
 function makeCache(now: () => Temporal.Instant = () => Temporal.Now.instant()): {

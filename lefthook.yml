@@ -2,21 +2,21 @@ pre-commit:
   parallel: false
   commands:
     format:
-      run: bun run format
+      run: pnpm run format
       stage_fixed: true
     lint:
-      run: bun run lint:fix
+      run: pnpm run lint:fix
       stage_fixed: true
     validate:
-      run: bun run check
+      run: pnpm run check
     generate:
-      run: bun run generate
+      run: pnpm run generate
       glob: "README.md"
       stage_fixed: true
 
 pre-push:
   commands:
     validate:
-      run: bun run check
+      run: pnpm run check
     test:
-      run: bun test
+      run: pnpm run test

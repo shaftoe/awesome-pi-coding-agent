@@ -1,4 +1,4 @@
-import { describe, expect, test } from "bun:test";
+import { describe, expect, test } from "vitest";
 
 import type { CategorizedEntry, DiscoveryCandidate } from "../core/types.ts";
 import { Category, EntrySource } from "../core/types.ts";

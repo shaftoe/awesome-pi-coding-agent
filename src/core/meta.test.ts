@@ -7,10 +7,11 @@
 
 import "../core/temporal.ts";
 
-import { describe, expect, test } from "bun:test";
 import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
+import { describe, expect, test } from "vitest";
+import { moduleDir } from "../core/paths.ts";
 
 // We test the core logic directly rather than importing writeMeta/readMeta
 // (which resolve paths at import time). Instead we verify the contract:
@@ -22,7 +23,7 @@ import { formatIsoTimestamp } from "./timestamp.ts";
 describe("meta.json contract", () => {
 	test("meta.json contains a valid ISO-8601 lastUpdatedAt", () => {
 		// Verify the actual data/meta.json
-		const metaPath = join(import.meta.dir, "..", "..", "data", "meta.json");
+		const metaPath = join(moduleDir(import.meta.url), "..", "..", "data", "meta.json");
 		if (!existsSync(metaPath)) return; // skip if no meta.json yet
 
 		const raw = readFileSync(metaPath, "utf-8");

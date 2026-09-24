@@ -7,16 +7,17 @@
 
 import "../core/temporal.ts";
 
-import { describe, expect, test } from "bun:test";
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
+import { describe, expect, test } from "vitest";
+import { moduleDir } from "../core/paths.ts";
 import { formatIsoTimestamp } from "../core/timestamp.ts";
 
 // ─── README ↔ site timestamp consistency ───────────────────────────────────────
 
 describe("README and site timestamp consistency", () => {
 	test("README 'Last updated' matches data/meta.json timestamp", () => {
-		const rootDir = join(import.meta.dir, "..", "..");
+		const rootDir = join(moduleDir(import.meta.url), "..", "..");
 		const metaPath = join(rootDir, "data", "meta.json");
 		const readmePath = join(rootDir, "README.md");
 
@@ -34,7 +35,7 @@ describe("README and site timestamp consistency", () => {
 	});
 
 	test("README does NOT generate its own independent timestamp", () => {
-		const rootDir = join(import.meta.dir, "..", "..");
+		const rootDir = join(moduleDir(import.meta.url), "..", "..");
 		const metaPath = join(rootDir, "data", "meta.json");
 		const readmePath = join(rootDir, "README.md");
 
@@ -70,7 +71,7 @@ describe("README and site timestamp consistency", () => {
 
 describe("formatDisplayDate contract (render.ts)", () => {
 	test("when meta.json exists, uses its timestamp (not current time)", () => {
-		const rootDir = join(import.meta.dir, "..", "..");
+		const rootDir = join(moduleDir(import.meta.url), "..", "..");
 		const metaPath = join(rootDir, "data", "meta.json");
 
 		try {

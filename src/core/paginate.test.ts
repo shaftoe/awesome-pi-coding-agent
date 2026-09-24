@@ -1,9 +1,9 @@
 import "./temporal.ts";
 
-import { afterEach, describe, expect, it } from "bun:test";
 import { mkdtempSync, rmSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
+import { afterEach, describe, expect, it } from "vitest";
 import { Cache } from "./cache.ts";
 import { paginate } from "./paginate.ts";
 import { ThrottledFetcher } from "./throttle.ts";

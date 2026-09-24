@@ -1,11 +1,13 @@
 # Architecture
 
-**Last updated:** 2026-04-27
+**Last updated:** 2026-09-24
 
 The project is a **four-stage data pipeline** that discovers, filters, processes, and renders a curated list of resources for the [Pi Coding Agent](https://pi.dev/) ecosystem into an awesome-list database and renders it as
 
 - README Markdown document for the GitHub home page
 - and an Astro static site with search features, live at <https://awesome-list.site>
+
+**Toolchain:** TypeScript run directly on Node.js (type stripping, no build step), managed with **pnpm**, tested with **Vitest**, linted/formatted with **Biome**.
 
 ```
 ┌──────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
@@ -79,7 +81,7 @@ src/
     throttle.test.ts
     paginate.ts                       Generic numbered-page pagination
     paginate.test.ts
-    temporal.ts                       Temporal polyfill (remove when Bun ships native)
+    temporal.ts                       Temporal polyfill (remove when runtimes ship native Temporal)
     blacklist.ts                      URL blacklist with timestamps + discovery metadata
     meta.ts                           Read/write pipeline metadata (data/meta.json)
     store.ts                          Entry store facade (FileRepository<CategorizedEntry>)
@@ -146,14 +148,14 @@ src/
 
 ## Date/Time API (Temporal)
 
-The codebase uses **`Temporal`** (TC39 successor to `Date`) exclusively. Bun 1.3 does not ship native Temporal yet, so `temporal-polyfill` provides the runtime implementation.
+The codebase uses **`Temporal`** (TC39 successor to `Date`) exclusively. No runtime ships native Temporal yet, so `temporal-polyfill` provides the runtime implementation.
 
 | Aspect | Detail |
 |--------|--------|
 | **Runtime polyfill** | [`temporal-polyfill`](https://www.npmjs.com/package/temporal-polyfill) v0.3.2 |
 | **Type definitions** | TypeScript 6.0 built-in (`ESNext` lib includes `esnext.temporal`) |
 | **Polyfill import** | `src/core/temporal.ts` — side-effect import of `temporal-polyfill/global` |
-| **Remove when** | Bun ships native Temporal (delete `temporal.ts`, remove dep) |
+| **Remove when** | A runtime ships native Temporal (delete `temporal.ts`, remove dep) |
 
 ### Patterns
 
@@ -626,37 +628,37 @@ data/                              Meta files
 
 | Command | Stage | Description |
 |---------|-------|-------------|
-| `bun run discover` | 1 | Gather candidates from APIs + cache responses |
-| `bun run discover -- --query [source:]term` | 1 | Override source queries (prefixes: `npm:`, `gh:`, `yt:`, `hn:`, `brave:`) |
-| `bun run discover -- --offline` | 1 | Only use cached API responses |
-| `bun run filter` | 2 | Filter candidates → grow blacklist → write survivors |
-| `bun run process` | 3 | Dedup + classify + enrich → write canonical entries |
-| `bun run generate` | 4 | Render README.md from canonical entries |
-| `bun run pipeline` | 1–4 | Run discover → filter → process → generate sequentially |
-| `bun run add-url <url>` | 1 | Inject a single URL into the candidate pool (auto-detects source) |
-| `bun run lookup <url>` | — | Look up a URL in the data store (entries → candidates → filtered → blacklist) |
-| `bun run blacklist` | — | Manage URL blacklist (`add`, `list`, `check`, `remove` subcommands) |
-| `bun run check` | — | Typecheck + lint |
-| `bun run test` | — | Run all tests |
-| `bun run clean` | — | Delete `data/` and `.cache/` directories |
+| `pnpm run discover` | 1 | Gather candidates from APIs + cache responses |
+| `pnpm run discover -- --query [source:]term` | 1 | Override source queries (prefixes: `npm:`, `gh:`, `yt:`, `hn:`, `brave:`) |
+| `pnpm run discover -- --offline` | 1 | Only use cached API responses |
+| `pnpm run filter` | 2 | Filter candidates → grow blacklist → write survivors |
+| `pnpm run process` | 3 | Dedup + classify + enrich → write canonical entries |
+| `pnpm run generate` | 4 | Render README.md from canonical entries |
+| `pnpm run pipeline` | 1–4 | Run discover → filter → process → generate sequentially |
+| `pnpm run add-url <url>` | 1 | Inject a single URL into the candidate pool (auto-detects source) |
+| `pnpm run lookup <url>` | — | Look up a URL in the data store (entries → candidates → filtered → blacklist) |
+| `pnpm run blacklist` | — | Manage URL blacklist (`add`, `list`, `check`, `remove` subcommands) |
+| `pnpm run check` | — | Typecheck + lint |
+| `pnpm run test` | — | Run all tests |
+| `pnpm run clean` | — | Delete `data/` and `.cache/` directories |
 
 ### Typical Development Workflow
 
 ```bash
 # 1. Seed the cache with targeted queries (hits API, caches responses)
-bun run discover --query "gh:pi-coding-agent"
+pnpm run discover --query "gh:pi-coding-agent"
 
 # 2. Run filter on gathered candidates (no API calls)
-bun run filter
+pnpm run filter
 
 # 3. Process filtered candidates into canonical entries
-bun run process
+pnpm run process
 
 # 4. Generate README
-bun run generate
+pnpm run generate
 
 # Or run everything:
-bun run pipeline
+pnpm run pipeline
 ```
 
 ### Adding a single URL
@@ -664,8 +666,8 @@ bun run pipeline
 Inject a specific URL into the candidate pool, then run the rest of the pipeline:
 
 ```bash
-bun run add-url https://youtu.be/fdbXNWkpPMY
-bun run filter && bun run process && bun run generate
+pnpm run add-url https://youtu.be/fdbXNWkpPMY
+pnpm run filter && pnpm run process && pnpm run generate
 ```
 
 Supported URL patterns:
@@ -680,10 +682,10 @@ Supported URL patterns:
 
 ```bash
 # Re-run any stage without touching the network
-bun run discover --offline   # reads from .cache/ API responses
-bun run filter                # reads from .cache/candidates/
-bun run process               # reads from .cache/filtered/
-bun run generate              # reads from data/
+pnpm run discover --offline   # reads from .cache/ API responses
+pnpm run filter                # reads from .cache/candidates/
+pnpm run process               # reads from .cache/filtered/
+pnpm run generate              # reads from data/
 ```
 
 ---
@@ -694,7 +696,7 @@ bun run generate              # reads from data/
 2. **No filtering at discover time** — sources run in parallel; filtering at gather time creates race conditions and premature rejection. Discovery is a pure fetch-and-cache operation.
 3. **npm URL is canonical** — when the same project appears on both npm and GitHub, the npm URL wins. Resolved in the process stage by sorting npm first and cross-referencing `github_url`.
 4. **Blacklist grows in filter stage** — rejected candidates are added to `data/blacklist.json` with the reason, ISO-8601 timestamp, source type, and optional discovery metadata (source name + query). This is the primary mechanism for handling the noisy long tail.
-5. **Temporal over Date** — all date/time uses `Temporal.Instant` and `Temporal.Now`. `temporal-polyfill` provides runtime support until Bun ships native Temporal.
+5. **Temporal over Date** — all date/time uses `Temporal.Instant` and `Temporal.Now`. `temporal-polyfill` provides runtime support until runtimes ship native Temporal.
 6. **Fully injectable timing** — `Cache` and `ThrottledFetcher` accept `now()`. Tests run in microseconds.
 7. **`ThrottledFetcher.fetch()` never throws** — always returns a `Response`. Only `paginate()` throws on non-OK responses.
 8. **`paginate()` caches raw response bodies** — second call with same URL reads from cache.

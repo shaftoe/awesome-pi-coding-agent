@@ -1,0 +1,20 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended", ":dependencyDashboard", "schedule:daily"],
+  "rangeStrategy": "bump",
+  "prHourlyLimit": 5,
+  "labels": ["dependencies"],
+  "packageRules": [
+    {
+      "description": "Astro site dependencies",
+      "matchFileNames": ["site/**"],
+      "additionalBranchPrefix": "astro-",
+      "commitMessagePrefix": "chore(deps-site):"
+    },
+    {
+      "description": "Group semantic-release tooling",
+      "matchPackagePatterns": ["^@semantic-release/", "^conventional-changelog-", "semantic-release"],
+      "groupName": "semantic-release"
+    }
+  ]
+}

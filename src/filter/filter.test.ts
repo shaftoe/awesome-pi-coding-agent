@@ -1,11 +1,11 @@
-import { afterEach, beforeEach, describe, expect, it, mock } from "bun:test";
+import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import { buildFilterContext, isRelevant } from "./filter.ts";
 
 // ─── Mock blacklist so tests don't touch the real file ─────────────────────────
 
-const mockBlacklist = new Set<string>();
+const { mockBlacklist } = vi.hoisted(() => ({ mockBlacklist: new Set<string>() }));
 
-mock.module("../core/blacklist.ts", () => ({
+vi.mock("../core/blacklist.ts", () => ({
 	isBlacklisted: (url: string) => mockBlacklist.has(url),
 	addToBlacklist: (url: string, _reason: string, _opts?: Record<string, unknown>) => {
 		if (mockBlacklist.has(url)) return false;

@@ -1,44 +1,47 @@
 {
-  "name": "awesome-pi-coding-agent",
-  "version": "2.8.1",
-  "module": "src/index.ts",
-  "type": "module",
-  "private": true,
-  "scripts": {
-    "discover": "bun run src/discover/index.ts",
-    "filter": "bun run src/filter/index.ts",
-    "process": "bun run src/process/index.ts",
-    "generate": "bun run src/generate/index.ts",
-    "pipeline": "bun run discover && bun run filter && bun run process && bun run generate",
-    "typecheck": "tsc --noEmit",
-    "lint": "biome check .",
-    "lint:fix": "biome check --write .",
-    "format": "biome format --write .",
-    "check": "bun run typecheck && bun run lint",
-    "test": "bun test",
-    "validate-prompt": "bun run src/cli/validate-prompt.ts",
-    "blacklist": "bun run src/cli/blacklist.ts",
-    "add-url": "bun run src/cli/add-url.ts",
-    "lookup": "bun run src/cli/lookup.ts",
-    "clean": "rm -rf data/ .cache/",
-    "semantic-release": "semantic-release"
-  },
-  "devDependencies": {
-    "@alexanderfortin/semantic-release-keep-a-changelog": "^0.4.14",
-    "@biomejs/biome": "^2.5.14",
-    "@semantic-release/commit-analyzer": "^13.0.1",
-    "@semantic-release/exec": "^7.1.0",
-    "@semantic-release/git": "^11.0.1",
-    "@semantic-release/github": "^12.0.10",
-    "@semantic-release/npm": "^13.2.0",
-    "bun-types": "^1.4.2",
-    "conventional-changelog-conventionalcommits": "^10.4.0",
-    "semantic-release": "^25.0.9"
-  },
-  "peerDependencies": {
-    "typescript": "^7.0.2"
-  },
-  "dependencies": {
-    "temporal-polyfill": "^1.0.5"
-  }
+	"name": "awesome-pi-coding-agent",
+	"version": "2.8.1",
+	"module": "src/index.ts",
+	"type": "module",
+	"private": true,
+	"packageManager": "pnpm@12.5.1",
+	"scripts": {
+		"discover": "node src/discover/index.ts",
+		"filter": "node src/filter/index.ts",
+		"process": "node src/process/index.ts",
+		"generate": "node src/generate/index.ts",
+		"pipeline": "pnpm run discover && pnpm run filter && pnpm run process && pnpm run generate",
+		"typecheck": "tsc --noEmit",
+		"lint": "biome check .",
+		"lint:fix": "biome check --write .",
+		"format": "biome format --write .",
+		"check": "pnpm run typecheck && pnpm run lint",
+		"test": "vitest run",
+		"test:watch": "vitest",
+		"validate-prompt": "node src/cli/validate-prompt.ts",
+		"blacklist": "node src/cli/blacklist.ts",
+		"add-url": "node src/cli/add-url.ts",
+		"lookup": "node src/cli/lookup.ts",
+		"clean": "rm -rf data/ .cache/",
+		"semantic-release": "semantic-release"
+	},
+	"devDependencies": {
+		"@alexanderfortin/semantic-release-keep-a-changelog": "^0.4.14",
+		"@biomejs/biome": "^2.5.14",
+		"@semantic-release/commit-analyzer": "^13.0.1",
+		"@semantic-release/exec": "^7.1.0",
+		"@semantic-release/git": "^11.0.1",
+		"@semantic-release/github": "^12.0.10",
+		"@semantic-release/npm": "^13.2.0",
+		"@types/node": "^25.0.3",
+		"conventional-changelog-conventionalcommits": "^10.4.0",
+		"semantic-release": "^25.0.9",
+		"vitest": "^4.0.18"
+	},
+	"peerDependencies": {
+		"typescript": "^7.0.2"
+	},
+	"dependencies": {
+		"temporal-polyfill": "^1.0.5"
+	}
 }

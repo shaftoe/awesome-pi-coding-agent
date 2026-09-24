@@ -1,9 +1,9 @@
 import "../core/temporal.ts";
 
-import { afterEach, beforeEach, describe, expect, it, mock } from "bun:test";
 import { mkdtempSync, rmSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
+import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import { EntrySource } from "../core/types.ts";
 import type { Source } from "../sources/source.ts";
 import { runDiscovery, writeRaw } from "./runner.ts";
@@ -37,7 +37,7 @@ function makeSource(name: string, urls: string[]): Source {
 }
 
 // Mock the blacklist so tests don't touch the real file
-mock.module("../core/blacklist.ts", () => ({
+vi.mock("../core/blacklist.ts", () => ({
 	isBlacklisted: (_url: string) => false,
 	addToBlacklist: (_url: string, _reason: string, _opts?: Record<string, unknown>) => true,
 	loadBlacklist: () => ({ entries: [], urlSet: new Set() }),

@@ -1,6 +1,6 @@
 import "../core/temporal.ts";
 
-import { describe, expect, it, mock } from "bun:test";
+import { describe, expect, it, vi } from "vitest";
 import { ThrottledFetcher } from "./throttle.ts";
 
 // ─── Helpers ───────────────────────────────────────────────────────────────────
@@ -25,7 +25,7 @@ function makeFetcher(
 	const clock = fakeClock();
 	const sleepLog: number[] = [];
 
-	const sleepFn = mock(async (ms: number) => {
+	const sleepFn = vi.fn(async (ms: number) => {
 		sleepLog.push(ms);
 		clock.advance(ms);
 	});
@@ -100,7 +100,7 @@ describe("ThrottledFetcher", () => {
 	it("retries on transient errors with exponential backoff", async () => {
 		const clock = fakeClock();
 		const sleepLog: number[] = [];
-		const sleepFn = mock(async (ms: number) => {
+		const sleepFn = vi.fn(async (ms: number) => {
 			sleepLog.push(ms);
 			clock.advance(ms);
 		});

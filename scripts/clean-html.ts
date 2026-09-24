@@ -4,15 +4,16 @@
  * Applies cleanText() from src/core/html.ts to the name, description,
  * and metadata title/name/description fields of all entries in data/entries/.
  *
- * Usage: bun run scripts/clean-html.ts
+ * Usage: pnpm run scripts/clean-html.ts
  */
 
 import { readFileSync, readdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
+import { moduleDir } from "../src/core/paths.ts";
 import { cleanText } from "../src/core/html.ts";
 import type { CategorizedEntry } from "../src/core/types.ts";
 
-const ROOT_DIR = join(import.meta.dir, "..");
+const ROOT_DIR = join(moduleDir(import.meta.url), "..");
 const DATA_DIR = join(ROOT_DIR, "data", "entries");
 
 // biome-ignore lint/suspicious/noConsole: CLI output

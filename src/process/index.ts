@@ -12,6 +12,7 @@ import { join } from "node:path";
 import { buildIndices, checkDuplicate, type DuplicationIndices } from "../core/dedup.ts";
 import { cleanText } from "../core/html.ts";
 import { writeMeta } from "../core/meta.ts";
+import { moduleDir } from "../core/paths.ts";
 import { getEntryRepo, saveEntry } from "../core/store.ts";
 import type { CategorizedEntry, DiscoveryCandidate, Entry } from "../core/types.ts";
 import { loadDiscoveryLines } from "../discover/writer.ts";
@@ -19,7 +20,7 @@ import { classifyEntry } from "../enrich/classify.ts";
 import { extractId } from "../sources/index.ts";
 import { resolveDuplicateAction, sourcePriority } from "./duplicate-action.ts";
 
-const ROOT_DIR = join(import.meta.dir, "..", "..");
+const ROOT_DIR = join(moduleDir(import.meta.url), "..", "..");
 const DATA_DIR = join(ROOT_DIR, "data");
 const CACHE_DIR = join(ROOT_DIR, ".cache");
 const FILTERED_DIR = join(CACHE_DIR, "filtered");
@@ -107,7 +108,7 @@ function addNewEntry(discovery: DiscoveryCandidate, indices: DuplicationIndices)
 export async function cmdProcess(): Promise<void> {
 	if (!existsSync(FILTERED_DIR)) {
 		process.stderr.write(`❌ No filtered candidates found at ${FILTERED_DIR}\n`);
-		process.stderr.write("Run `bun run filter` first.\n");
+		process.stderr.write("Run `pnpm run filter` first.\n");
 		process.exit(1);
 	}
 

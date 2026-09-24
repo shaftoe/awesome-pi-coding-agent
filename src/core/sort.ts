@@ -12,7 +12,7 @@
  */
 
 import { getPopularityValue } from "../sources/index.ts";
-import type { CategorizedEntry } from "./types";
+import type { CategorizedEntry } from "./types.ts";
 
 /** Sort entries using the canonical ordering: popularity (desc) → name (asc). */
 export function sortEntries(entries: CategorizedEntry[]): CategorizedEntry[] {

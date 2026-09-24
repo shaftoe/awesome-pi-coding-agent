@@ -11,6 +11,7 @@
 
 import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
+import { moduleDir } from "../core/paths.ts";
 
 export interface PipelineMeta {
 	/** ISO-8601 instant when the process stage last wrote to the datastore. */
@@ -20,13 +21,13 @@ export interface PipelineMeta {
 /**
  * Resolve data/meta.json path.
  *
- * Uses import.meta.dir when running directly (bun test, bun run),
+ * Uses moduleDir(import.meta.url) when running directly (node, vitest),
  * but falls back to cwd-relative resolution for bundled contexts
- * (e.g. Astro/Vite where import.meta.dir may be undefined).
+ * (e.g. Astro/Vite where the module URL points at the build output).
  */
 function resolveMetaPath(): string {
-	if (import.meta.dir) {
-		const p = join(import.meta.dir, "..", "..", "data", "meta.json");
+	if (moduleDir(import.meta.url)) {
+		const p = join(moduleDir(import.meta.url), "..", "..", "data", "meta.json");
 		if (existsSync(p)) return p;
 	}
 	// Bundled context: resolve from cwd (site/ -> ../data/meta.json)

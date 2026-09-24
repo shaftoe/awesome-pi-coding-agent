@@ -7,7 +7,7 @@
 
 import "../core/temporal.ts";
 
-import { describe, expect, test } from "bun:test";
+import { describe, expect, test } from "vitest";
 import { formatBuildTimestamp, formatIsoTimestamp, formatZdt } from "./timestamp.ts";
 
 // ─── formatZdt ─────────────────────────────────────────────────────────────────

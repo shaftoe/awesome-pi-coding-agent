@@ -158,8 +158,8 @@ All tasks complete. Build passes, all acceptance criteria met.
 
 ## Acceptance Criteria
 
-- [x] `bun run check` passes (typecheck + lint)
-- [x] `cd site && bun run build` succeeds
+- [x] `pnpm run check` passes (typecheck + lint)
+- [x] `cd site `cd site && bun run build``cd site && bun run build` pnpm run build` succeeds
 - [x] Build output has pages for: `/`, `/extensions/`, `/themes/`, `/videos/`, `/misc/`
 - [x] No old category routes (`/tools/`, `/providers/`, `/templates/`) in build output
 - [x] `search-index.json` contains entries from all 4 new categories

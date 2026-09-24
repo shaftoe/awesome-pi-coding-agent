@@ -4,18 +4,19 @@
  * Applies the updated classifier to all existing misc entries,
  * blacklists irrelevant entries, and removes blacklisted entries from data/.
  *
- * Usage: bun run scripts/reclassify.ts
+ * Usage: pnpm run scripts/reclassify.ts
  */
 
 import "../src/core/temporal.ts";
 
 import { readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
+import { moduleDir } from "../src/core/paths.ts";
 import { addToBlacklist, loadBlacklist } from "../src/core/blacklist.ts";
 import { classifyEntry } from "../src/enrich/classify.ts";
 import type { CategorizedEntry } from "../src/core/types.ts";
 
-const ROOT_DIR = join(import.meta.dir, "..");
+const ROOT_DIR = join(moduleDir(import.meta.url), "..");
 const DATA_DIR = join(ROOT_DIR, "data", "entries");
 const BLACKLIST_PATH = join(ROOT_DIR, "data", "blacklist.json");
 

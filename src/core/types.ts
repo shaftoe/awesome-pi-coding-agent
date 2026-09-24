@@ -1,7 +1,7 @@
 /**
  * Core type definitions for the awesome-pi-coding-agent data pipeline.
  *
- * Uses string enums for categories and sources so that
+ * Uses string enums (const objects + union types) for categories and sources so that
  * both the type system and runtime values are strongly typed.
  */
 
@@ -11,13 +11,15 @@
  * Five categories: extension wins over theme, video is URL-only, article for HN/blog content, misc is the catch-all.
  * @see docs/classification.md
  */
-export enum Category {
-	Extension = "extension",
-	Theme = "theme",
-	Video = "video",
-	Article = "article",
-	Misc = "misc",
-}
+export const Category = {
+	Extension: "extension",
+	Theme: "theme",
+	Video: "video",
+	Article: "article",
+	Misc: "misc",
+} as const;
+
+export type Category = (typeof Category)[keyof typeof Category];
 
 /** All category values, in priority order. */
 export const CATEGORIES: readonly Category[] = [
@@ -30,15 +32,17 @@ export const CATEGORIES: readonly Category[] = [
 
 // ─── Entry ─────────────────────────────────────────────────────────────────────
 
-export enum EntrySource {
-	GitHubSearch = "github-search",
-	NpmSearch = "npm-search",
-	YouTubeSearch = "youtube-search",
-	HackerNewsSearch = "hackernews-search",
-	BraveWebSearch = "brave-web-search",
-	Discord = "discord",
-	Manual = "manual",
-}
+export const EntrySource = {
+	GitHubSearch: "github-search",
+	NpmSearch: "npm-search",
+	YouTubeSearch: "youtube-search",
+	HackerNewsSearch: "hackernews-search",
+	BraveWebSearch: "brave-web-search",
+	Discord: "discord",
+	Manual: "manual",
+} as const;
+
+export type EntrySource = (typeof EntrySource)[keyof typeof EntrySource];
 
 export interface Entry {
 	id: string;

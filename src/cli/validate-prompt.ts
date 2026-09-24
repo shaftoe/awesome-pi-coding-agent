@@ -1,7 +1,7 @@
 /**
  * CLI entry point that prints the validation prompt to stdout.
  *
- * Usage: `bun run validate-prompt`
+ * Usage: `pnpm run validate-prompt`
  *
  * Also used by the CI pipeline to inject the prompt into the
  * Pi coding-agent action without hardcoding it in the YAML.
@@ -10,7 +10,7 @@
  * intentionally omitted so the GitHub Action input stays below process limits.
  */
 import { execFileSync } from "node:child_process";
-import { VALIDATE_PROMPT } from "../core/validate-prompt";
+import { VALIDATE_PROMPT } from "../core/validate-prompt.ts";
 
 function git(args: string[]): string {
 	try {

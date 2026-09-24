@@ -3,10 +3,10 @@
  *
  * Detects the source from the URL pattern, fetches metadata from the
  * appropriate API, and writes a candidate to `.cache/candidates/`.
- * Then run `bun run filter && bun run process && bun run generate` as normal.
+ * Then run `pnpm run filter && pnpm run process && pnpm run generate` as normal.
  *
  * Usage:
- *   bun run add-url <url>
+ *   pnpm run add-url <url>
  *
  * Supported URL patterns:
  *   - YouTube:  https://youtube.com/watch?v=ID  or  https://youtu.be/ID
@@ -19,12 +19,13 @@ import "../core/temporal.ts";
 import { existsSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 import { Cache } from "../core/cache.ts";
+import { moduleDir } from "../core/paths.ts";
 import { EntrySource } from "../core/types.ts";
 import { writeRaw } from "../discover/runner.ts";
 import { DiscoveryWriter } from "../discover/writer.ts";
 import { normalizeUrl } from "../sources/index.ts";
 
-const ROOT_DIR = join(import.meta.dir, "..", "..");
+const ROOT_DIR = join(moduleDir(import.meta.url), "..", "..");
 const CACHE_DIR = join(ROOT_DIR, ".cache");
 const CANDIDATES_DIR = join(CACHE_DIR, "candidates");
 
@@ -277,7 +278,7 @@ async function fetchGitHub(
 async function main(): Promise<void> {
 	const rawUrl = process.argv[2];
 	if (!rawUrl) {
-		process.stderr.write("Usage: bun run add-url <url>\n");
+		process.stderr.write("Usage: pnpm run add-url <url>\n");
 		process.stderr.write(
 			"\nSupported:\n  YouTube:  https://youtube.com/watch?v=ID or https://youtu.be/ID\n  npm:      https://www.npmjs.com/package/name\n  GitHub:   https://github.com/owner/repo\n",
 		);
@@ -338,7 +339,7 @@ async function main(): Promise<void> {
 
 	if (written > 0) {
 		log(`✅ Added candidate: ${normalizedUrl}`);
-		log(`   Run: bun run filter && bun run process && bun run generate`);
+		log(`   Run: pnpm run filter && pnpm run process && pnpm run generate`);
 	} else {
 		log(`⚠️  Already exists in candidates: ${normalizedUrl}`);
 	}

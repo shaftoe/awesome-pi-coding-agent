@@ -9,6 +9,7 @@
 
 import { existsSync } from "node:fs";
 import { join } from "node:path";
+import { moduleDir } from "../core/paths.ts";
 import { FileRepository, type Repository } from "./repository.ts";
 import type { CategorizedEntry, Category } from "./types.ts";
 
@@ -17,14 +18,14 @@ const DATA_DIR = resolveDataDir();
 /**
  * Resolve the data directory path.
  *
- * Uses import.meta.dir when running directly (bun test, bun run),
+ * Uses moduleDir(import.meta.url) when running directly (node, vitest),
  * but falls back to cwd-relative resolution for bundled contexts
- * (e.g. Astro prerender where import.meta.dir points to the build output).
+ * (e.g. Astro prerender where the module URL points at the build output).
  */
 function resolveDataDir(): string {
-	// import.meta.dir is undefined in some bundled contexts (e.g. Astro prerender via Node)
-	if (import.meta.dir) {
-		const srcDir = join(import.meta.dir, "..", "..", "data", "entries");
+	// moduleDir() is empty in some bundled contexts (e.g. Astro prerender via Node)
+	if (moduleDir(import.meta.url)) {
+		const srcDir = join(moduleDir(import.meta.url), "..", "..", "data", "entries");
 		if (existsSync(srcDir)) return srcDir;
 	}
 	// Bundled context: resolve from cwd (site/ -> ../data/entries)

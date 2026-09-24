@@ -10,11 +10,12 @@ import "../core/temporal.ts";
 
 import { existsSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
+import { moduleDir } from "../core/paths.ts";
 import { FileRepository, type Repository } from "../core/repository.ts";
 import { type DiscoveryLine, loadDiscoveryLines } from "../discover/writer.ts";
 import { isRelevant } from "./filter.ts";
 
-const ROOT_DIR = join(import.meta.dir, "..", "..");
+const ROOT_DIR = join(moduleDir(import.meta.url), "..", "..");
 const CACHE_DIR = join(ROOT_DIR, ".cache");
 const CANDIDATES_DIR = join(CACHE_DIR, "candidates");
 const FILTERED_DIR = join(CACHE_DIR, "filtered");
@@ -27,7 +28,7 @@ const log = console.log;
 export async function cmdFilter(): Promise<void> {
 	if (!existsSync(CANDIDATES_DIR)) {
 		process.stderr.write(`❌ No candidates found at ${CANDIDATES_DIR}\n`);
-		process.stderr.write("Run `bun run discover` first.\n");
+		process.stderr.write("Run `pnpm run discover` first.\n");
 		process.exit(1);
 	}
 
@@ -91,7 +92,7 @@ export async function cmdFilter(): Promise<void> {
 
 	log(`\n✅ ${accepted} accepted, ${rejected} rejected`);
 	log(`Filtered candidates saved to ${FILTERED_DIR}`);
-	log("Run `bun run process` to dedup, classify, and save entries.");
+	log("Run `pnpm run process` to dedup, classify, and save entries.");
 }
 
 // ─── CLI entry point ───────────────────────────────────────────────────────────

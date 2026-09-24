@@ -10,20 +10,21 @@
  * data is physically stored.
  *
  * Usage:
- *   bun run lookup <url>
+ *   pnpm run lookup <url>
  */
 
 import "../core/temporal.ts";
 
 import { join } from "node:path";
 import { loadBlacklist } from "../core/blacklist.ts";
+import { moduleDir } from "../core/paths.ts";
 import { loadEntry } from "../core/store.ts";
 import type { CategorizedEntry } from "../core/types.ts";
 import type { DiscoveryLine } from "../discover/writer.ts";
 import { lookupDiscoveryLine } from "../discover/writer.ts";
 import { normalizeUrl } from "../sources/index.ts";
 
-const ROOT_DIR = join(import.meta.dir, "..", "..");
+const ROOT_DIR = join(moduleDir(import.meta.url), "..", "..");
 const CANDIDATES_DIR = join(ROOT_DIR, ".cache", "candidates");
 const FILTERED_DIR = join(ROOT_DIR, ".cache", "filtered");
 
@@ -107,7 +108,7 @@ function formatMetadataValue(value: unknown): string {
 
 const rawUrl = process.argv[2];
 if (!rawUrl) {
-	console.error("Usage: bun run lookup <url>");
+	console.error("Usage: pnpm run lookup <url>");
 	console.error("\nLook up a data store entry by URL.");
 	console.error("Searches: data store → candidates → filtered → blacklist.\n");
 	process.exit(1);
