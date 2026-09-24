@@ -1,0 +1,20 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended", ":dependencyDashboard"],
+  "repository": ["shaftoe/awesome-pi-coding-agent"],
+  "timezone": "UTC",
+  "schedule": ["before 6am"],
+  "labels": ["dependencies"],
+  "packageRules": [
+    {
+      "description": "Group GitHub Actions updates into one PR",
+      "matchManagers": ["github-actions"],
+      "groupName": "github-actions"
+    },
+    {
+      "description": "Group all npm dev dependency updates into one PR",
+      "matchDepTypes": ["devDependencies"],
+      "groupName": "npm dev dependencies"
+    }
+  ]
+}
