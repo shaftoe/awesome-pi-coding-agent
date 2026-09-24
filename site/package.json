@@ -11,7 +11,7 @@
 	"dependencies": {
 		"@astrojs/mdx": "^8.0.2",
 		"@astrojs/starlight": "^0.42.3",
-		"astro": "^7.3.4",
+		"astro": "^7.3.5",
 		"sharp": "^0.35.4",
 		"temporal-polyfill": "^1.0.5"
 	},
