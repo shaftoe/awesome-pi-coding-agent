@@ -16,6 +16,6 @@
 		"temporal-polyfill": "^1.0.5"
 	},
 	"overrides": {
-		"@astrojs/mdx": "^6.0.0"
+		"@astrojs/mdx": "^6.0.3"
 	}
 }
