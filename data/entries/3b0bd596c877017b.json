@@ -1,0 +1,27 @@
+{
+  "id": "@mipsel64/pi-fx-ui",
+  "name": "@mipsel64/pi-fx-ui",
+  "url": "https://www.npmjs.com/package/@mipsel64/pi-fx-ui",
+  "source": "npm-search",
+  "description": "Make Pi look like Vercel fx: monochrome themes, ┃ composer, ● tool rows, one-line footer",
+  "metadata": {
+    "github_url": "https://github.com/mipsel64/pi-fx-ui",
+    "npm_name": "@mipsel64/pi-fx-ui",
+    "description": "Make Pi look like Vercel fx: monochrome themes, ┃ composer, ● tool rows, one-line footer",
+    "keywords": [
+      "pi-package",
+      "pi-theme",
+      "fx"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-09-24T11:12:24.824Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-theme"
+  },
+  "category": "extension"
+}

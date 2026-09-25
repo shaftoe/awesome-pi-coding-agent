@@ -1,0 +1,25 @@
+{
+  "id": "klmoretti-pi-file-memory",
+  "name": "klmoretti-pi-file-memory",
+  "url": "https://github.com/klmoretti/pi-file-memory",
+  "source": "github-search",
+  "description": "File-based persistent memory for the pi coding agent — single TypeScript extension, zero runtime dependencies. WorkBuddy-layout compatible.",
+  "metadata": {
+    "github_url": "https://github.com/klmoretti/pi-file-memory",
+    "repo_full_name": "klmoretti/pi-file-memory",
+    "description": "File-based persistent memory for the pi coding agent — single TypeScript extension, zero runtime dependencies. WorkBuddy-layout compatible.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-16T03:36:34Z",
+    "pushed_at": "2026-09-18T03:00:56Z",
+    "updated_at": "2026-09-24T07:47:35Z",
+    "size": 34,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

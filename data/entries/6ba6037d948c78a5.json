@@ -10,7 +10,7 @@
     "description": "Web fetch tool extension for the pi coding agent",
     "stars": 7,
     "forks": 3,
-    "open_issues": 2,
+    "open_issues": 0,
     "topics": [
       "coding-agent",
       "fetch",
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-01T07:14:52Z",
-    "pushed_at": "2026-08-26T16:24:13Z",
-    "updated_at": "2026-08-26T16:24:32Z",
-    "size": 258,
+    "pushed_at": "2026-09-24T06:37:01Z",
+    "updated_at": "2026-09-24T06:36:39Z",
+    "size": 346,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

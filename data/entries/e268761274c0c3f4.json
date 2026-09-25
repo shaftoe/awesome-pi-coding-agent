@@ -8,7 +8,7 @@
     "github_url": "https://github.com/savka777/jev-search",
     "repo_full_name": "savka777/jev-search",
     "description": "Fast deep research for the pi coding agent: reads up to 100 pages in full per round, Jev keeps only the passages that answer your questions.",
-    "stars": 3,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-09-19T15:32:54Z",
     "pushed_at": "2026-09-20T12:08:57Z",
-    "updated_at": "2026-09-22T21:54:23Z",
+    "updated_at": "2026-09-24T20:12:08Z",
     "size": 147,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

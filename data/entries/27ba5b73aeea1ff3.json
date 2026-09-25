@@ -3,11 +3,11 @@
   "name": "@smoose/pi-themes · Packages · Pi",
   "url": "https://pi.dev/packages/@smoose/pi-themes",
   "source": "brave-web-search",
-  "description": "Theme pack for pi with file-based theme switching · Install @smoose/pi-themes from npm and Pi will load the resources declared by the package manifest",
+  "description": "This package currently includes Everforest, Tundra, Rosé Pine, OneDark, Gruvbox, and Bearded Arc. Paired theme families can follow the -light / -dark naming convention; standalone themes can be selected by concrete theme name in the control file.",
   "metadata": {
     "title": "@smoose/pi-themes · Packages · Pi",
     "name": "@smoose/pi-themes · Packages · Pi",
-    "description": "Theme pack for pi with file-based theme switching · Install @smoose/pi-themes from npm and Pi will load the resources declared by the package manifest",
+    "description": "This package currently includes Everforest, Tundra, Rosé Pine, OneDark, Gruvbox, and Bearded Arc. Paired theme families can follow the <family>-light / <family>-dark naming convention; standalone themes can be selected by concrete theme name in the control file.",
     "published_at": "2026-05-29T00:00:00",
     "source_site": "Pi",
     "source_url": "https://pi.dev/packages/@smoose/pi-themes",

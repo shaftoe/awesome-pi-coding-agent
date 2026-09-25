@@ -9,7 +9,7 @@
     "repo_full_name": "czottmann/pi-whoami",
     "description": "A `whoami` tool for pi, reporting the active provider, model, thinking level, and project dir of the current pi session.",
     "stars": 4,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "pi",

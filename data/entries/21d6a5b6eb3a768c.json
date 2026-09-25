@@ -1,0 +1,30 @@
+{
+  "id": "@frankiehue/pi-subagents",
+  "name": "@frankiehue/pi-subagents",
+  "url": "https://www.npmjs.com/package/@frankiehue/pi-subagents",
+  "source": "npm-search",
+  "description": "A compact-UI fork of pi-subagents for headless sub-agents and workflow orchestration in pi.",
+  "metadata": {
+    "github_url": "https://github.com/francisqureshi/pi-subagents",
+    "npm_name": "@frankiehue/pi-subagents",
+    "description": "A compact-UI fork of pi-subagents for headless sub-agents and workflow orchestration in pi.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "subagent",
+      "agent",
+      "autonomous"
+    ],
+    "version": "0.19.1",
+    "published_at": "2026-09-13T15:12:04.815Z",
+    "npm_downloads_monthly": 91,
+    "npm_downloads_weekly": 91,
+    "npm_score_final": 13.851971,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

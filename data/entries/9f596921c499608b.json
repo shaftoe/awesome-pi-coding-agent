@@ -1,0 +1,25 @@
+{
+  "id": "@hugo-ddt/agentglass",
+  "name": "@hugo-ddt/agentglass",
+  "url": "https://www.npmjs.com/package/@hugo-ddt/agentglass",
+  "source": "npm-search",
+  "description": "A novice outcome-approval layer for supported Pi file changes.",
+  "metadata": {
+    "github_url": "https://github.com/1786035110/AgentGlass",
+    "npm_name": "@hugo-ddt/agentglass",
+    "description": "A novice outcome-approval layer for supported Pi file changes.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.8.2",
+    "published_at": "2026-09-17T10:39:25.174Z",
+    "npm_downloads_monthly": 314,
+    "npm_downloads_weekly": 201,
+    "npm_score_final": 17.199114,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "opensec-pi-commandcode",
+  "name": "opensec-pi-commandcode",
+  "url": "https://www.npmjs.com/package/opensec-pi-commandcode",
+  "source": "npm-search",
+  "description": "Production-grade CommandCode Provider API integration for Pi",
+  "metadata": {
+    "github_url": "https://github.com/opensec-git/pi-commandcode-provider",
+    "npm_name": "opensec-pi-commandcode",
+    "description": "Production-grade CommandCode Provider API integration for Pi",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "commandcode",
+      "provider",
+      "llm",
+      "streaming",
+      "prompt-caching"
+    ],
+    "version": "1.0.4",
+    "published_at": "2026-09-17T14:26:27.860Z",
+    "npm_downloads_monthly": 243,
+    "npm_downloads_weekly": 243,
+    "npm_score_final": 16.157642,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -3,11 +3,11 @@
   "name": "What Is Pi Agent?",
   "url": "https://aisoftwaresystems.com/blog/what-is-pi-agent/",
   "source": "brave-web-search",
-  "description": "Unlike feature-heavy agents that include sub-agents, complex planning modes, or excessive permissions, Pi keeps its core radically small: a short system prompt and a minimal toolset that prioritizes reliability and developer control.",
+  "description": "Created by Mario Zechner, the mind behind the libGDX framework, Pi Agent stands out by using only four core tools—read, write, edit, and bash—while offering powerful extensibility through its TypeScript SDK.",
   "metadata": {
     "title": "What Is Pi Agent?",
     "name": "What Is Pi Agent?",
-    "description": "Unlike feature-heavy agents that include sub-agents, complex planning modes, or excessive permissions, Pi keeps its core radically small: a short system prompt and a minimal toolset that prioritizes reliability and developer control.",
+    "description": "Created by Mario Zechner, the mind behind the libGDX framework, Pi Agent stands out by using only four core tools—read, write, edit, and bash—while offering powerful extensibility through its TypeScript SDK.",
     "published_at": "2026-04-07T11:53:21",
     "source_site": "AI Software Systems",
     "source_url": "https://aisoftwaresystems.com/blog/what-is-pi-agent/",

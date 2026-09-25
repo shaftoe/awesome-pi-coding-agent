@@ -1,0 +1,28 @@
+{
+  "id": "@syzom/pi-workgraph",
+  "name": "@syzom/pi-workgraph",
+  "url": "https://www.npmjs.com/package/@syzom/pi-workgraph",
+  "source": "npm-search",
+  "description": "Conversational, durable local work coordination for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/Vistyy/pi-workgraph",
+    "npm_name": "@syzom/pi-workgraph",
+    "description": "Conversational, durable local work coordination for Pi.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "orchestration",
+      "worktree"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-09-17T10:55:30.880Z",
+    "npm_downloads_monthly": 290,
+    "npm_downloads_weekly": 221,
+    "npm_score_final": 16.747366,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

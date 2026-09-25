@@ -1,0 +1,29 @@
+{
+  "id": "@zle13/pi-codex-auth",
+  "name": "@zle13/pi-codex-auth",
+  "url": "https://www.npmjs.com/package/@zle13/pi-codex-auth",
+  "source": "npm-search",
+  "description": "OpenAI Codex multi-account switcher and quota monitor extension for Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/LeZH13/zle-pi",
+    "npm_name": "@zle13/pi-codex-auth",
+    "description": "OpenAI Codex multi-account switcher and quota monitor extension for Pi Coding Agent",
+    "keywords": [
+      "pi-package",
+      "codex",
+      "openai",
+      "auth",
+      "multi-account"
+    ],
+    "version": "0.2.3",
+    "published_at": "2026-09-17T12:05:49.659Z",
+    "npm_downloads_monthly": 320,
+    "npm_downloads_weekly": 230,
+    "npm_score_final": 17.143784,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "lanking-hub-pi-research-loop",
+  "name": "lanking-hub-pi-research-loop",
+  "url": "https://github.com/lanking-hub/pi-research-loop",
+  "source": "github-search",
+  "description": "Autonomous research iteration loop driver for pi — poll remote experiment runs on a GPU server and wake the agent when results land.",
+  "metadata": {
+    "github_url": "https://github.com/lanking-hub/pi-research-loop",
+    "repo_full_name": "lanking-hub/pi-research-loop",
+    "description": "Autonomous research iteration loop driver for pi — poll remote experiment runs on a GPU server and wake the agent when results land.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "automation",
+      "gpu",
+      "pi",
+      "pi-package",
+      "research"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-22T12:28:56Z",
+    "pushed_at": "2026-09-24T11:34:28Z",
+    "updated_at": "2026-09-24T11:34:32Z",
+    "size": 255,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

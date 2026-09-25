@@ -1,0 +1,40 @@
+{
+  "id": "hydra8-memonet",
+  "name": "hydra8-memonet",
+  "url": "https://github.com/hydra8/memonet",
+  "source": "github-search",
+  "description": "Private, authenticated network for Pi coding agents: delegate, fan out and collect answers across terminals and machines. TLS 1.3, LAN discovery, file transfer, Gum launcher.",
+  "metadata": {
+    "github_url": "https://github.com/hydra8/memonet",
+    "repo_full_name": "hydra8/memonet",
+    "description": "Private, authenticated network for Pi coding agents: delegate, fan out and collect answers across terminals and machines. TLS 1.3, LAN discovery, file transfer, Gum launcher.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-communication",
+      "ai-agents",
+      "coding-agents",
+      "gum",
+      "llm",
+      "mdns",
+      "multi-agent",
+      "orchestration",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "terminal",
+      "tls",
+      "tui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-23T21:42:25Z",
+    "pushed_at": "2026-09-23T21:43:44Z",
+    "updated_at": "2026-09-24T20:13:07Z",
+    "size": 3258,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
