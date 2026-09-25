@@ -36,7 +36,7 @@
 		"@types/node": "^25.0.3",
 		"conventional-changelog-conventionalcommits": "^10.4.0",
 		"semantic-release": "^25.0.9",
-		"vitest": "^4.0.18"
+		"vitest": "^4.1.11"
 	},
 	"peerDependencies": {
 		"typescript": "^7.0.2"
