@@ -1,0 +1,32 @@
+{
+  "id": "lune-shell-inspector",
+  "name": "lune-shell-inspector",
+  "url": "https://www.npmjs.com/package/lune-shell-inspector",
+  "source": "npm-search",
+  "description": "Shell dock and /shell inspector for pi's background bash jobs",
+  "metadata": {
+    "github_url": "https://github.com/Nouvelle-Lune/lune-shell-inspector",
+    "npm_name": "lune-shell-inspector",
+    "description": "Shell dock and /shell inspector for pi's background bash jobs",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "shell",
+      "bash",
+      "background-shell",
+      "terminal",
+      "tui"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-09-24T21:25:12.167Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "misc"
+}

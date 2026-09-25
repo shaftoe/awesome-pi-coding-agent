@@ -1,0 +1,28 @@
+{
+  "id": "pi-umbra-skill-matcher",
+  "name": "pi-umbra-skill-matcher",
+  "url": "https://www.npmjs.com/package/pi-umbra-skill-matcher",
+  "source": "npm-search",
+  "description": "Type /huh and reach skill:huh. pi lists every skill under its bare name, which is not the name that dispatches.",
+  "metadata": {
+    "github_url": "https://github.com/grknbyk/pi-umbra",
+    "npm_name": "pi-umbra-skill-matcher",
+    "description": "Type /huh and reach skill:huh. pi lists every skill under its bare name, which is not the name that dispatches.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "autocomplete",
+      "skills"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-09-08T21:55:19.061Z",
+    "npm_downloads_monthly": 89,
+    "npm_downloads_weekly": 21,
+    "npm_score_final": 13.773538,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "pi-mask-public-ip",
+  "name": "pi-mask-public-ip",
+  "url": "https://www.npmjs.com/package/pi-mask-public-ip",
+  "source": "npm-search",
+  "description": "Pi coding agent extension that masks public IP addresses and identifying MAC addresses in the outbound conversation, restoring them when the model echoes a placeholder back into a tool call.",
+  "metadata": {
+    "github_url": "https://github.com/dgon-jd/ai-agent-config",
+    "npm_name": "pi-mask-public-ip",
+    "description": "Pi coding agent extension that masks public IP addresses and identifying MAC addresses in the outbound conversation, restoring them when the model echoes a placeholder back into a tool call.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "privacy",
+      "masking",
+      "ip-address"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-24T12:35:07.087Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -57823,5 +57823,185 @@
 		"reason": "non-english language",
 		"blacklisted_at": "2026-09-24T01:04:28.507543898Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=pI-MQLzh6Fo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-25T01:03:09.177Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/eaonlabs/eaon-code",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-25T01:03:09.193Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=HY7jXAV-cL4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-25T01:03:09.229Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=93ctoqQFRmY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-25T01:03:09.384Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=pdU-Lj9ABnA",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-09-25T01:03:09.443Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/jipsoft-labs/factusync-cli",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-25T01:03:09.47Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=6kDsMTwJm5M",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-25T01:03:09.592Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/yncynotdev/color-theme-picker",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-25T01:03:09.601Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=gcqXOaZDucM",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-09-25T01:03:09.629Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/WeZZard/mcp-vm-relay",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-25T01:03:09.679Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Z7OIS7hXV7E",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-25T01:03:09.82Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://flaviocopes.com/pi/",
+		"reason": "blocked name: pi",
+		"blacklisted_at": "2026-09-25T01:03:09.853Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/mipsel64/pi-fx-ui",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-25T01:03:09.883Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/dgtlntv/pi-theme",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-25T01:03:09.912Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/NoteNerdOfficial/ai-skills-manager",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-25T01:03:10.023Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=o3QLXcaTvoA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-25T01:03:10.051Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=HPS1MKiTc4s",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-25T01:03:10.075Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/boaz2026/pi-theme-creator",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-25T01:03:10.115Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
 	}
 ]

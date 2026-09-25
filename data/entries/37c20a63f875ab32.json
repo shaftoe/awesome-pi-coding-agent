@@ -10,7 +10,7 @@
     "description": "Centralized role-based model, thinking, and tool routing for Pi Fabric",
     "stars": 6,
     "forks": 1,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "multi-agent",
       "orchestration",

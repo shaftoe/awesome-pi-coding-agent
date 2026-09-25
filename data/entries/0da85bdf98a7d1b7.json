@@ -1,0 +1,32 @@
+{
+  "id": "r2mopi-markdownrender",
+  "name": "r2mopi-markdownrender",
+  "url": "https://www.npmjs.com/package/r2mopi-markdownrender",
+  "source": "npm-search",
+  "description": "Markdown report rendering for the Pi coding agent: heading levels, report icons, status-symbol colors, skill links, and a gold Working spinner.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "r2mopi-markdownrender",
+    "description": "Markdown report rendering for the Pi coding agent: heading levels, report icons, status-symbol colors, skill links, and a gold Working spinner.",
+    "keywords": [
+      "pi-package",
+      "r2mopi",
+      "pi",
+      "pi-coding-agent",
+      "markdown",
+      "theme",
+      "report",
+      "extension"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-24T10:02:46.582Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

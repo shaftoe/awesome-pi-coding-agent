@@ -9,7 +9,7 @@
     "repo_full_name": "Qihuanxishini/pi-model-manager",
     "description": "Manage Pi providers and models from a TUI with native models.json persistence, header profiles, proxy routing, and protocol compatibility.",
     "stars": 24,
-    "forks": 3,
+    "forks": 4,
     "open_issues": 1,
     "topics": [
       "anthropic",

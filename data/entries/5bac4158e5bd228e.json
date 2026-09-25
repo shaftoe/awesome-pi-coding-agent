@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-package-manager",
+  "name": "pi-package-manager · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-package-manager",
+  "source": "brave-web-search",
+  "description": "Adds the /packages slash command.Packages ... Install pi-package-manager from npm and Pi will load the resources declared by the package manifest.",
+  "metadata": {
+    "title": "pi-package-manager · Packages · Pi",
+    "name": "pi-package-manager · Packages · Pi",
+    "description": "Adds the /packages slash command.Packages ... Install pi-package-manager from npm and Pi will load the resources declared by the package manifest.",
+    "published_at": "2026-06-18T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-package-manager",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}

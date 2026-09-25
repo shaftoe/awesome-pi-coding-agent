@@ -1,0 +1,25 @@
+{
+  "id": "sekhnat-pi-omp-git",
+  "name": "sekhnat-pi-omp-git",
+  "url": "https://github.com/sekhnat/pi-omp-git",
+  "source": "github-search",
+  "description": "OMP Git/GitHub parity package for upstream Pi (pi extension)",
+  "metadata": {
+    "github_url": "https://github.com/sekhnat/pi-omp-git",
+    "repo_full_name": "sekhnat/pi-omp-git",
+    "description": "OMP Git/GitHub parity package for upstream Pi (pi extension)",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-24T14:50:28Z",
+    "pushed_at": "2026-09-24T16:17:37Z",
+    "updated_at": "2026-09-24T16:17:42Z",
+    "size": 371,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

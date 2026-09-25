@@ -1,0 +1,31 @@
+{
+  "id": "pi-lookout",
+  "name": "pi-lookout",
+  "url": "https://www.npmjs.com/package/pi-lookout",
+  "source": "npm-search",
+  "description": "Pi extension: watches long bash commands and stops them early when Jev judges that the output shows a failure needing intervention and continuing no longer helps.",
+  "metadata": {
+    "github_url": "https://github.com/Awlaursen/pi-lookout",
+    "npm_name": "pi-lookout",
+    "description": "Pi extension: watches long bash commands and stops them early when Jev judges that the output shows a failure needing intervention and continuing no longer helps.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "bash",
+      "jev",
+      "typesafe",
+      "betterleaks"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-24T20:35:32.519Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
