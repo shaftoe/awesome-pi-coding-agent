@@ -195,7 +195,7 @@ importers:
         specifier: ^13.2.0
         version: 13.2.0(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))
       '@types/node':
-        specifier: ^25.0.3
+        specifier: ^25.9.8
         version: 25.9.8
       conventional-changelog-conventionalcommits:
         specifier: ^10.4.0
