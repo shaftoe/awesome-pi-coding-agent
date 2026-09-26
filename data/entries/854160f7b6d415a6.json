@@ -8,7 +8,7 @@
     "github_url": "https://github.com/philippdubach/pi-jev-router",
     "repo_full_name": "philippdubach/pi-jev-router",
     "description": "A minimal Pareto-optimal OpenRouter model router for pi, based on Jev",
-    "stars": 12,
+    "stars": 13,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-20T13:55:31Z",
-    "pushed_at": "2026-09-22T19:38:50Z",
-    "updated_at": "2026-09-24T15:08:33Z",
-    "size": 196,
+    "pushed_at": "2026-09-25T08:09:34Z",
+    "updated_at": "2026-09-25T08:09:38Z",
+    "size": 233,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

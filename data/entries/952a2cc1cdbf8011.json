@@ -1,0 +1,32 @@
+{
+  "id": "pi-verify-gate",
+  "name": "pi-verify-gate",
+  "url": "https://www.npmjs.com/package/pi-verify-gate",
+  "source": "npm-search",
+  "description": "Local verification status for the Pi coding agent: run the project's own check (npm/pnpm/yarn/bun script, cargo test, go test, pytest, make check) only when the working tree actually changed, with a zero-token footer badge, an on-demand verify_status tool",
+  "metadata": {
+    "github_url": "https://github.com/SairaDev02/pi-tools-saira",
+    "npm_name": "pi-verify-gate",
+    "description": "Local verification status for the Pi coding agent: run the project's own check (npm/pnpm/yarn/bun script, cargo test, go test, pytest, make check) only when the working tree actually changed, with a zero-token footer badge, an on-demand verify_status tool",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "verify",
+      "test",
+      "typecheck",
+      "local-ci",
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-25T07:22:51.437Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

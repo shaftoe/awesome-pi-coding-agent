@@ -10,7 +10,7 @@
     "description": "Project-local asynchronous mailboxes for independent Pi coding sessions",
     "stars": 3,
     "forks": 1,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "mailbox",
       "multi-agent",

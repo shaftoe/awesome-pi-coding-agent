@@ -10,7 +10,7 @@
     "description": "Claude-compatible subagent workflow for Pi",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "ai-agent",
       "claude-compatible",

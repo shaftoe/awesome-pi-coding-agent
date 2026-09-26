@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Z761293629/pi-jev-helm",
     "repo_full_name": "Z761293629/pi-jev-helm",
     "description": "Pi extension that uses Jev task classification (via OpenRouter) to route each run to explicitly configured models with fail-open policy. Public Preview.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 5,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-09-18T07:25:02Z",
     "pushed_at": "2026-09-21T14:32:36Z",
-    "updated_at": "2026-09-21T14:32:41Z",
+    "updated_at": "2026-09-25T07:32:02Z",
     "size": 603,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

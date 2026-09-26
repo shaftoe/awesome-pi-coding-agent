@@ -8,7 +8,7 @@
     "github_url": "https://github.com/extracurricular-ai/pi-better-rewind-redo",
     "repo_full_name": "extracurricular-ai/pi-better-rewind-redo",
     "description": "Rewind files and conversations in Pi, with multi-level redo and recoverable checkpoints. Powered by filesnap. No Git required.",
-    "stars": 20,
+    "stars": 18,
     "forks": 2,
     "open_issues": 0,
     "topics": [
@@ -28,7 +28,7 @@
     "archived": false,
     "created_at": "2026-09-10T04:53:37Z",
     "pushed_at": "2026-09-10T06:03:34Z",
-    "updated_at": "2026-09-10T15:11:02Z",
+    "updated_at": "2026-09-25T15:15:48Z",
     "size": 947,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

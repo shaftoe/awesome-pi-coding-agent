@@ -1,0 +1,31 @@
+{
+  "id": "aiwaysmeme",
+  "name": "aiwaysmeme",
+  "url": "https://www.npmjs.com/package/aiwaysmeme",
+  "source": "npm-search",
+  "description": "Your AI answers in memes. Unnecessary, stupid, and rendered right in your terminal.",
+  "metadata": {
+    "github_url": "https://github.com/Gn0m0-dei/AI-waysMeme",
+    "npm_name": "aiwaysmeme",
+    "description": "Your AI answers in memes. Unnecessary, stupid, and rendered right in your terminal.",
+    "keywords": [
+      "pi-package",
+      "opencode",
+      "claude-code",
+      "meme",
+      "terminal",
+      "ansi",
+      "agent-skills"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-19T00:07:29.284Z",
+    "npm_downloads_monthly": 357,
+    "npm_downloads_weekly": 357,
+    "npm_score_final": 17.44988,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

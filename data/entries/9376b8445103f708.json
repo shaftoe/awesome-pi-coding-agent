@@ -1,0 +1,32 @@
+{
+  "id": "@danielgap/gentle-shell-zai-usage",
+  "name": "@danielgap/gentle-shell-zai-usage",
+  "url": "https://www.npmjs.com/package/@danielgap/gentle-shell-zai-usage",
+  "source": "npm-search",
+  "description": "Z.ai GLM Coding Plan usage meter for pi: native Gentle Shell usage bars and panel plus a standalone status segment and /zai:usage command reading the z.ai quota endpoint.",
+  "metadata": {
+    "github_url": "https://github.com/danielgap/pi-zai-usage",
+    "npm_name": "@danielgap/gentle-shell-zai-usage",
+    "description": "Z.ai GLM Coding Plan usage meter for pi: native Gentle Shell usage bars and panel plus a standalone status segment and /zai:usage command reading the z.ai quota endpoint.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "zai",
+      "z.ai",
+      "glm",
+      "usage",
+      "quota"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-09-25T14:56:17.117Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

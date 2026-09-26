@@ -9,7 +9,7 @@
     "repo_full_name": "betulcalik/opencode-pi-intercom",
     "description": "OpenCode plugin that joins the omp-intercom / pi-intercom broker as a peer",
     "stars": 2,
-    "forks": 1,
+    "forks": 2,
     "open_issues": 0,
     "topics": [
       "intercom",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-18T13:38:05Z",
-    "pushed_at": "2026-09-18T15:30:48Z",
-    "updated_at": "2026-09-18T15:30:52Z",
-    "size": 54,
+    "pushed_at": "2026-09-25T11:01:40Z",
+    "updated_at": "2026-09-25T10:44:19Z",
+    "size": 67,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

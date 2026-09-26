@@ -1,0 +1,28 @@
+{
+  "id": "pi-beads-companion",
+  "name": "pi-beads-companion",
+  "url": "https://www.npmjs.com/package/pi-beads-companion",
+  "source": "npm-search",
+  "description": "Native Beads context and recovery checkpoints for Pi and OMP, alongside official Herdr integrations.",
+  "metadata": {
+    "github_url": "https://github.com/jeffhuen/pi-beads-companion",
+    "npm_name": "pi-beads-companion",
+    "description": "Native Beads context and recovery checkpoints for Pi and OMP, alongside official Herdr integrations.",
+    "keywords": [
+      "pi-package",
+      "beads",
+      "pi",
+      "omp"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-18T03:14:05.868Z",
+    "npm_downloads_monthly": 149,
+    "npm_downloads_weekly": 149,
+    "npm_score_final": 14.405554,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

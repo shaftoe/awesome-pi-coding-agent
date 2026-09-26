@@ -1,0 +1,30 @@
+{
+  "id": "@osolmaz/pi-factory-web",
+  "name": "@osolmaz/pi-factory-web",
+  "url": "https://www.npmjs.com/package/@osolmaz/pi-factory-web",
+  "source": "npm-search",
+  "description": "Run a pi-factory app in the browser: a session list and the app's Pi TUI in a web terminal.",
+  "metadata": {
+    "github_url": "https://github.com/osolmaz/pi-factory",
+    "npm_name": "@osolmaz/pi-factory-web",
+    "description": "Run a pi-factory app in the browser: a session list and the app's Pi TUI in a web terminal.",
+    "keywords": [
+      "pi",
+      "pi-factory",
+      "pi-coding-agent",
+      "web",
+      "terminal",
+      "sessions"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-25T14:00:15.479Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "@ladbabynpm/picc-memory",
+  "name": "@ladbabynpm/picc-memory",
+  "url": "https://www.npmjs.com/package/@ladbabynpm/picc-memory",
+  "source": "npm-search",
+  "description": "Claude Code style memory system for pi: CLAUDE.md layers (Managed / User / Project / Local / .claude/rules/) + AutoMem (persistent personal memory) + /memory command.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@ladbabynpm/picc-memory",
+    "description": "Claude Code style memory system for pi: CLAUDE.md layers (Managed / User / Project / Local / .claude/rules/) + AutoMem (persistent personal memory) + /memory command.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "memory",
+      "claude-code",
+      "CLAUDE.md",
+      "automem",
+      "MEMORY.md"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-18T04:22:02.948Z",
+    "npm_downloads_monthly": 279,
+    "npm_downloads_weekly": 185,
+    "npm_score_final": 16.521109,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

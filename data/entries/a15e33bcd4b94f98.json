@@ -10,7 +10,7 @@
     "description": "Multi-agent orchestration for pi; chain, parallel, and dependency-graph delegation with per-step model routing, preset-driven tool scoping, and background execution with live monitoring.",
     "stars": 3,
     "forks": 0,
-    "open_issues": 4,
+    "open_issues": 5,
     "topics": [
       "agent-orchestration",
       "ai-agents",

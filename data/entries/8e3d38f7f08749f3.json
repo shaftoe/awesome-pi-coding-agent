@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pyshine.com_Pi-Agent-Harness-Self-Extensible-Coding-",
+  "name": "Pi: The Agent Harness Where the Coding Agent Extends Itself | PyShine",
+  "url": "https://pyshine.com/Pi-Agent-Harness-Self-Extensible-Coding-Agent/",
+  "source": "brave-web-search",
+  "description": "Pi from earendil-works (MIT, 106k stars, TypeScript) is a layered agent harness: pi-ai unifies every LLM provider, pi-agent-core is the tool-calling runtime, and pi-coding-agent is a self-extensible CLI that reads its own docs and can explain itself. No built-in permission system - three documented ...",
+  "metadata": {
+    "title": "Pi: The Agent Harness Where the Coding Agent Extends Itself | PyShine",
+    "name": "Pi: The Agent Harness Where the Coding Agent Extends Itself | PyShine",
+    "description": "Pi from earendil-works (MIT, 106k stars, TypeScript) is a layered agent harness: pi-ai unifies every LLM provider, pi-agent-core is the tool-calling runtime, and pi-coding-agent is a self-extensible CLI that reads its own docs and can explain itself. No built-in permission system - three documented ...",
+    "published_at": "2026-09-16T00:00:00",
+    "source_site": "PyShine",
+    "source_url": "https://pyshine.com/Pi-Agent-Harness-Self-Extensible-Coding-Agent/",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "itzrnvr-omp-mobile",
+  "name": "itzrnvr-omp-mobile",
+  "url": "https://github.com/itzrnvr/omp-mobile",
+  "source": "github-search",
+  "description": "Remote control app for OMP (Oh My Pi) — control your AI coding agent from your phone via WebSocket + Cloudflare tunnel",
+  "metadata": {
+    "github_url": "https://github.com/itzrnvr/omp-mobile",
+    "repo_full_name": "itzrnvr/omp-mobile",
+    "description": "Remote control app for OMP (Oh My Pi) — control your AI coding agent from your phone via WebSocket + Cloudflare tunnel",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-02T17:40:53Z",
+    "pushed_at": "2026-09-09T00:52:26Z",
+    "updated_at": "2026-09-25T03:23:46Z",
+    "size": 67832,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}
