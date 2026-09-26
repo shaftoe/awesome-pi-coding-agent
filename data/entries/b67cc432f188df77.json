@@ -10,7 +10,7 @@
     "description": "Pi extension for Anthropic OAuth with Claude Pro/Max.",
     "stars": 96,
     "forks": 23,
-    "open_issues": 4,
+    "open_issues": 5,
     "topics": [
       "anthropic",
       "claude",

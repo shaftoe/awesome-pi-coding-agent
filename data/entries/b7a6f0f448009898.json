@@ -1,0 +1,32 @@
+{
+  "id": "ludoroo-pi-gibbon",
+  "name": "ludoroo-pi-gibbon",
+  "url": "https://github.com/ludoroo/pi-gibbon",
+  "source": "github-search",
+  "description": "Keep your Pi session moving with your code: pi-gibbon swings the full conversation into another Git worktree—and, in Herdr, into its destination workspace—without missing a beat.",
+  "metadata": {
+    "github_url": "https://github.com/ludoroo/pi-gibbon",
+    "repo_full_name": "ludoroo/pi-gibbon",
+    "description": "Keep your Pi session moving with your code: pi-gibbon swings the full conversation into another Git worktree—and, in Herdr, into its destination workspace—without missing a beat.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [
+      "git-worktree",
+      "herdr",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "worktrunk"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-21T00:00:27Z",
+    "pushed_at": "2026-09-25T22:39:12Z",
+    "updated_at": "2026-09-25T22:37:55Z",
+    "size": 3049,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

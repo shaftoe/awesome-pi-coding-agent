@@ -3,11 +3,11 @@
   "name": "billion-context",
   "url": "https://www.npmjs.com/package/billion-context",
   "source": "npm-search",
-  "description": "Context-compression proxy that lets AI coding agents run for days — billions of tokens through one context window. Sits between any agent (Claude Code, Codex, Cursor, Aider, …) and its model API, folding consumed conversation into reversible, prefix-cache",
+  "description": "A context-compression plugin — small context windows (a 100K context is enough), 5x fewer tokens, month-long single sessions (billions of tokens), and compression quality — for all agents: pi, OpenCode, Codex, Claude Code, and more. billion-context is all",
   "metadata": {
     "github_url": "https://github.com/ranxianglei/billion-context",
     "npm_name": "billion-context",
-    "description": "Context-compression proxy that lets AI coding agents run for days — billions of tokens through one context window. Sits between any agent (Claude Code, Codex, Cursor, Aider, …) and its model API, folding consumed conversation into reversible, prefix-cache",
+    "description": "A context-compression plugin — small context windows (a 100K context is enough), 5x fewer tokens, month-long single sessions (billions of tokens), and compression quality — for all agents: pi, OpenCode, Codex, Claude Code, and more. billion-context is all",
     "keywords": [
       "context",
       "compression",
@@ -23,15 +23,15 @@
       "openai",
       "pi-package"
     ],
-    "version": "0.1.147",
-    "published_at": "2026-09-24T06:16:30.477Z",
-    "npm_downloads_monthly": 151038,
-    "npm_downloads_weekly": 53790,
-    "npm_score_final": 38.159042,
+    "version": "0.1.153",
+    "published_at": "2026-09-25T15:12:36.343Z",
+    "npm_downloads_monthly": 168836,
+    "npm_downloads_weekly": 79707,
+    "npm_score_final": 37.974506,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "misc"
+  "category": "extension"
 }

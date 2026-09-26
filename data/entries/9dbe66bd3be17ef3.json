@@ -1,0 +1,26 @@
+{
+  "id": "@ladbabynpm/picc-ask-user-question",
+  "name": "@ladbabynpm/picc-ask-user-question",
+  "url": "https://www.npmjs.com/package/@ladbabynpm/picc-ask-user-question",
+  "source": "npm-search",
+  "description": "Claude Code style AskUserQuestion tool for pi. Fork of @juicesharp/rpiv-ask-user-question.",
+  "metadata": {
+    "github_url": "https://github.com/Ladbaby/picc-ask-user-question",
+    "npm_name": "@ladbabynpm/picc-ask-user-question",
+    "description": "Claude Code style AskUserQuestion tool for pi. Fork of @juicesharp/rpiv-ask-user-question.",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-18T04:23:09.883Z",
+    "npm_downloads_monthly": 221,
+    "npm_downloads_weekly": 194,
+    "npm_score_final": 15.748766,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

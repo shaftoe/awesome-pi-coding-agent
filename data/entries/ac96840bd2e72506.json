@@ -1,0 +1,28 @@
+{
+  "id": "@cloudflare/aig-pi-extension",
+  "name": "@cloudflare/aig-pi-extension",
+  "url": "https://www.npmjs.com/package/@cloudflare/aig-pi-extension",
+  "source": "npm-search",
+  "description": "Cloudflare AI Gateway Smart Router support and routing diagnostics for Pi",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@cloudflare/aig-pi-extension",
+    "description": "Cloudflare AI Gateway Smart Router support and routing diagnostics for Pi",
+    "keywords": [
+      "pi-package",
+      "cloudflare",
+      "ai-gateway",
+      "smart-router"
+    ],
+    "version": "2026.9.18",
+    "published_at": "2026-09-18T18:33:18.413Z",
+    "npm_downloads_monthly": 158,
+    "npm_downloads_weekly": 158,
+    "npm_score_final": 15.167081,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

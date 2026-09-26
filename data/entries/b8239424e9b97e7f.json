@@ -10,7 +10,7 @@
     "description": "A minimal, timeout-free AskUserQuestion tool for Pi with TUI, RPC, and headless support.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "ask-user-question",
       "human-in-the-loop",

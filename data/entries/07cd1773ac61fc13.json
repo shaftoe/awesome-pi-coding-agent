@@ -1,0 +1,30 @@
+{
+  "id": "@ejstembler/pi-classifier-router",
+  "name": "@ejstembler/pi-classifier-router",
+  "url": "https://www.npmjs.com/package/@ejstembler/pi-classifier-router",
+  "source": "npm-search",
+  "description": "Classifier-driven model router for pi and Oh My Pi (omp): routes each prompt to a model using Jev (TypeSafe) or Laya typed decisions, with circuit breaking and fallback chains",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@ejstembler/pi-classifier-router",
+    "description": "Classifier-driven model router for pi and Oh My Pi (omp): routes each prompt to a model using Jev (TypeSafe) or Laya typed decisions, with circuit breaking and fallback chains",
+    "keywords": [
+      "pi-package",
+      "omp-extension",
+      "pi-extension",
+      "jev",
+      "laya",
+      "router"
+    ],
+    "version": "1.4.2",
+    "published_at": "2026-09-23T16:12:42.954Z",
+    "npm_downloads_monthly": 1011,
+    "npm_downloads_weekly": 1011,
+    "npm_score_final": 20.847706,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

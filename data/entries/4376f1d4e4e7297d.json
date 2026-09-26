@@ -1,0 +1,25 @@
+{
+  "id": "GMkonan-pi-config",
+  "name": "GMkonan-pi-config",
+  "url": "https://github.com/GMkonan/pi-config",
+  "source": "github-search",
+  "description": "Shareable Pi Coding Agent configuration with extensions, prompts, themes, and MCP setup",
+  "metadata": {
+    "github_url": "https://github.com/GMkonan/pi-config",
+    "repo_full_name": "GMkonan/pi-config",
+    "description": "Shareable Pi Coding Agent configuration with extensions, prompts, themes, and MCP setup",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-25T19:54:27Z",
+    "pushed_at": "2026-09-25T19:54:32Z",
+    "updated_at": "2026-09-25T19:54:38Z",
+    "size": 90,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

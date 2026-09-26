@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Gateton/pi-usage-live",
     "repo_full_name": "Gateton/pi-usage-live",
     "description": "Always-on subscription usage card for Pi: see how much of your Claude, ChatGPT Codex, OpenCode Zen, DeepSeek, Kimi, MiniMax, Moonshot, Z.AI and OpenRouter allowance you have left, live in your terminal, without asking.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -37,7 +37,7 @@
     "archived": false,
     "created_at": "2026-09-22T20:04:28Z",
     "pushed_at": "2026-09-22T20:30:08Z",
-    "updated_at": "2026-09-24T01:22:30Z",
+    "updated_at": "2026-09-25T17:53:51Z",
     "size": 3003,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

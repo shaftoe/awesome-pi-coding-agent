@@ -1,0 +1,35 @@
+{
+  "id": "bouteillerAlan-miel",
+  "name": "bouteillerAlan-miel",
+  "url": "https://github.com/bouteillerAlan/miel",
+  "source": "github-search",
+  "description": "handcrafted theme for tmux, nvim, pi and more",
+  "metadata": {
+    "github_url": "https://github.com/bouteillerAlan/miel",
+    "repo_full_name": "bouteillerAlan/miel",
+    "description": "handcrafted theme for tmux, nvim, pi and more",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "color-scheme",
+      "colorscheme",
+      "neovim",
+      "neovim-colorscheme",
+      "nvim",
+      "pi",
+      "pi-colorscheme",
+      "tmux",
+      "tmux-colorscheme"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-25T22:33:24Z",
+    "pushed_at": "2026-09-25T23:09:57Z",
+    "updated_at": "2026-09-25T23:10:01Z",
+    "size": 29,
+    "license": "GPL-3.0",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

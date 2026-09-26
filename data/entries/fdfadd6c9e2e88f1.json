@@ -3,11 +3,11 @@
   "name": "Pi Coding Agent: Install, Models, Setup, and Safety Guide",
   "url": "https://www.morphllm.com/pi-coding-agent",
   "source": "brave-web-search",
-  "description": "The official Pi site describes four ways to run it: an interactive terminal UI, print or JSON output for scripts, an RPC process, and an embeddable SDK. Sessions are stored as trees, so you can branch from an earlier point without copying a flat transcript. The useful mental model is harness, not sealed assistant. If you want a preassembled agent with a fixed permission system and workflow, compare the broader options in our AI coding agent guide.",
+  "description": "Pi is a minimal terminal coding harness you can reshape with extensions, skills, and custom models. Install it, configure a provider, and verify it safely.",
   "metadata": {
     "title": "Pi Coding Agent: Install, Models, Setup, and Safety Guide",
     "name": "Pi Coding Agent: Install, Models, Setup, and Safety Guide",
-    "description": "The official Pi site describes four ways to run it: an interactive terminal UI, print or JSON output for scripts, an RPC process, and an embeddable SDK. Sessions are stored as trees, so you can branch from an earlier point without copying a flat transcript. The useful mental model is harness, not sealed assistant. If you want a preassembled agent with a fixed permission system and workflow, compare the broader options in our AI coding agent guide.",
+    "description": "Pi is a minimal terminal coding harness you can reshape with extensions, skills, and custom models. Install it, configure a provider, and verify it safely.",
     "published_at": "2026-09-07T00:00:00",
     "source_site": "Morph",
     "source_url": "https://www.morphllm.com/pi-coding-agent",

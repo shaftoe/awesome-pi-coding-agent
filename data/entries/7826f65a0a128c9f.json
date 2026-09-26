@@ -8,7 +8,7 @@
     "github_url": "https://github.com/sathish316/pi-omniagent-extensions",
     "repo_full_name": "sathish316/pi-omniagent-extensions",
     "description": "Pi coding agent extensions that helps you connect to all coding agents from one place using ACP and maximize your AI credits across Cursor, Codex, Claude Code, Rovo",
-    "stars": 5,
+    "stars": 7,
     "forks": 2,
     "open_issues": 3,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-23T04:33:45Z",
     "pushed_at": "2026-07-26T13:05:33Z",
-    "updated_at": "2026-08-11T05:10:27Z",
+    "updated_at": "2026-09-25T21:15:25Z",
     "size": 115,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

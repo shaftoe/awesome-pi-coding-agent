@@ -10,7 +10,7 @@
     "description": "Translate AI garbage to human language. A Pi package for plain-language rewrites.",
     "stars": 89,
     "forks": 6,
-    "open_issues": 4,
+    "open_issues": 2,
     "topics": [
       "llm",
       "pi",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-15T15:49:26Z",
-    "pushed_at": "2026-08-30T10:44:05Z",
-    "updated_at": "2026-09-18T08:30:16Z",
-    "size": 1895,
+    "pushed_at": "2026-09-25T22:08:06Z",
+    "updated_at": "2026-09-25T22:07:26Z",
+    "size": 1796,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
