@@ -1,0 +1,30 @@
+{
+  "id": "pi-solid-tasks",
+  "name": "pi-solid-tasks",
+  "url": "https://www.npmjs.com/package/pi-solid-tasks",
+  "source": "npm-search",
+  "description": "Task tracking for Pi with dependencies, ownership, subtasks, and progress.",
+  "metadata": {
+    "github_url": "https://github.com/dantetekanem/pi-solid-tasks",
+    "npm_name": "pi-solid-tasks",
+    "description": "Task tracking for Pi with dependencies, ownership, subtasks, and progress.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "task",
+      "tasks",
+      "coordination"
+    ],
+    "version": "0.8.14",
+    "published_at": "2026-09-20T00:40:52.146Z",
+    "npm_downloads_monthly": 363,
+    "npm_downloads_weekly": 363,
+    "npm_score_final": 17.25147,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "@btseytlin/pi-duck-mode",
+  "name": "@btseytlin/pi-duck-mode",
+  "url": "https://www.npmjs.com/package/@btseytlin/pi-duck-mode",
+  "source": "npm-search",
+  "description": "pi extension to spend 14x less tokens and achieve 798x more TPS",
+  "metadata": {
+    "github_url": "https://github.com/btseytlin/pi-duck-mode",
+    "npm_name": "@btseytlin/pi-duck-mode",
+    "description": "pi extension to spend 14x less tokens and achieve 798x more TPS",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-19T12:02:59.593Z",
+    "npm_downloads_monthly": 166,
+    "npm_downloads_weekly": 166,
+    "npm_score_final": 14.804668,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -11,7 +11,7 @@
     "published_at": "2026-04-24T00:00:00",
     "source_site": "Visual Studio Marketplace",
     "source_url": "https://marketplace.visualstudio.com/items?itemName=pi0.pi-vscode",
-    "discovery_hint": "brave:pi-coding-agent"
+    "discovery_hint": "brave:pi-agent"
   },
   "category": "article"
 }

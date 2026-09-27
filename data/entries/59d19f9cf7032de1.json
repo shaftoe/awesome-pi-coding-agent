@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_verdent.ai_pi-coding-agent",
+  "name": "Pi Coding Agent: Workflow, Extensions, and Limits - Verdent Guides",
+  "url": "https://www.verdent.ai/guides/coding/pi-coding-agent",
+  "source": "brave-web-search",
+  "description": "Pi coding agent is a minimal terminal harness built for extensibility. Learn how its workflow, extensions, and operational trade-offs fit real projects.",
+  "metadata": {
+    "title": "Pi Coding Agent: Workflow, Extensions, and Limits - Verdent Guides",
+    "name": "Pi Coding Agent: Workflow, Extensions, and Limits - Verdent Guides",
+    "description": "Pi coding agent is a minimal terminal harness built for extensibility. Learn how its workflow, extensions, and operational trade-offs fit real projects.",
+    "published_at": "2026-08-21T09:23:59",
+    "source_site": "Verdent AI",
+    "source_url": "https://www.verdent.ai/guides/coding/pi-coding-agent",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

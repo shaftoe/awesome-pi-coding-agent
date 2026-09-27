@@ -1,0 +1,25 @@
+{
+  "id": "@emizuki/pi-subagents",
+  "name": "@emizuki/pi-subagents",
+  "url": "https://www.npmjs.com/package/@emizuki/pi-subagents",
+  "source": "npm-search",
+  "description": "Delegate tasks to subagents with isolated context, choosing the model and thinking level per call.",
+  "metadata": {
+    "github_url": "https://github.com/emizuki/pi-subagents",
+    "npm_name": "@emizuki/pi-subagents",
+    "description": "Delegate tasks to subagents with isolated context, choosing the model and thinking level per call.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-09-19T07:55:14.148Z",
+    "npm_downloads_monthly": 442,
+    "npm_downloads_weekly": 442,
+    "npm_score_final": 18.05193,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

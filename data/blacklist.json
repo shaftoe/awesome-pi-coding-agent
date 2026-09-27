@@ -58289,5 +58289,75 @@
 		"reason": "Non-English description (Portuguese)",
 		"blacklisted_at": "2026-09-26T01:08:13.583Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=7q7NA4ei-pI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-27T01:03:09.329Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=dy25kcL3R4Q",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-27T01:03:09.537Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=icHXUZ0w86w",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-27T01:03:09.552Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Vk_uhOkUcdM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-27T01:03:09.561Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/tinuxongit/Citropy",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-27T01:03:09.646Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=8J3q7GHpU6I",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-27T01:03:09.699Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=M0NTBf63iNI",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-27T01:03:09.885Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
 	}
 ]

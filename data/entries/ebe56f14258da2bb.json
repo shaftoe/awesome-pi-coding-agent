@@ -1,0 +1,25 @@
+{
+  "id": "@tinoy/pi-deepseek-cost",
+  "name": "@tinoy/pi-deepseek-cost",
+  "url": "https://www.npmjs.com/package/@tinoy/pi-deepseek-cost",
+  "source": "npm-search",
+  "description": "Price the session footer from the configured house tariff, per message timestamp.",
+  "metadata": {
+    "github_url": "https://github.com/tinoy1336/pi-extensions",
+    "npm_name": "@tinoy/pi-deepseek-cost",
+    "description": "Price the session footer from the configured house tariff, per message timestamp.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-09-26T20:05:00.166Z",
+    "npm_downloads_monthly": 523,
+    "npm_downloads_weekly": 523,
+    "npm_score_final": 19.087215,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

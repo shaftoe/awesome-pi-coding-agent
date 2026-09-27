@@ -1,0 +1,29 @@
+{
+  "id": "@mitorizu/scion",
+  "name": "@mitorizu/scion",
+  "url": "https://www.npmjs.com/package/@mitorizu/scion",
+  "source": "npm-search",
+  "description": "Pi extension that routes skills and linked tools into the system prompt instead of listing every skill on every turn.",
+  "metadata": {
+    "github_url": "https://github.com/Mitorizu/scion",
+    "npm_name": "@mitorizu/scion",
+    "description": "Pi extension that routes skills and linked tools into the system prompt instead of listing every skill on every turn.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "skills",
+      "agent",
+      "prompt-engineering"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-19T04:57:18.197Z",
+    "npm_downloads_monthly": 166,
+    "npm_downloads_weekly": 166,
+    "npm_score_final": 14.705002,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

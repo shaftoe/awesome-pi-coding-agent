@@ -1,0 +1,31 @@
+{
+  "id": "@schovest/pi-subagents",
+  "name": "@schovest/pi-subagents",
+  "url": "https://www.npmjs.com/package/@schovest/pi-subagents",
+  "source": "npm-search",
+  "description": "Pi extension for single-agent delegation and scripted multi-agent workflows. Forked from nicobailon/pi-subagents v0.71.0.",
+  "metadata": {
+    "github_url": "https://github.com/schovest/pi-package-mono",
+    "npm_name": "@schovest/pi-subagents",
+    "description": "Pi extension for single-agent delegation and scripted multi-agent workflows. Forked from nicobailon/pi-subagents v0.71.0.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "subagents",
+      "ai",
+      "agents",
+      "cli"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-26T17:59:28.160Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

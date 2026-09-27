@@ -1,0 +1,25 @@
+{
+  "id": "@tinoy/pi-canon",
+  "name": "@tinoy/pi-canon",
+  "url": "https://www.npmjs.com/package/@tinoy/pi-canon",
+  "source": "npm-search",
+  "description": "Durable system-prompt rules for pi: an on-disk canon store, its tools, and the /canon commands.",
+  "metadata": {
+    "github_url": "https://github.com/tinoy1336/pi-extensions",
+    "npm_name": "@tinoy/pi-canon",
+    "description": "Durable system-prompt rules for pi: an on-disk canon store, its tools, and the /canon commands.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.6.1",
+    "published_at": "2026-09-26T20:27:27.266Z",
+    "npm_downloads_monthly": 371,
+    "npm_downloads_weekly": 371,
+    "npm_score_final": 17.469723,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

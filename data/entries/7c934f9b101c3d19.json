@@ -1,17 +1,17 @@
 {
   "id": "BRAVE_pi.dev_pi-package-template",
-  "name": "pi-package-template",
+  "name": "pi-package-template · Packages · Pi",
   "url": "https://pi.dev/packages/pi-package-template",
   "source": "brave-web-search",
-  "description": "A minimal starter template for building pi packages · Install pi-package-template from npm and Pi will load the resources declared by the package manifest",
+  "description": "Review the source before installing third-party packages. A minimal starter template for building pi packages.",
   "metadata": {
-    "title": "pi-package-template",
-    "name": "pi-package-template",
-    "description": "A minimal starter template for building pi packages · Install pi-package-template from npm and Pi will load the resources declared by the package manifest",
+    "title": "pi-package-template · Packages · Pi",
+    "name": "pi-package-template · Packages · Pi",
+    "description": "Review the source before installing third-party packages. A minimal starter template for building pi packages.",
     "published_at": "2026-05-04T00:00:00",
     "source_site": "Pi",
     "source_url": "https://pi.dev/packages/pi-package-template",
-    "discovery_hint": "brave:pi-theme"
+    "discovery_hint": "brave:pi-package"
   },
   "health": {
     "score": 46,

@@ -1,0 +1,25 @@
+{
+  "id": "@tinoy/pi-ext-lib",
+  "name": "@tinoy/pi-ext-lib",
+  "url": "https://www.npmjs.com/package/@tinoy/pi-ext-lib",
+  "source": "npm-search",
+  "description": "Shared helpers for pi extensions: the hook log envelope, TUI tool headers, the system-prompt block seam, and the session-to-session transport.",
+  "metadata": {
+    "github_url": "https://github.com/tinoy1336/pi-extensions",
+    "npm_name": "@tinoy/pi-ext-lib",
+    "description": "Shared helpers for pi extensions: the hook log envelope, TUI tool headers, the system-prompt block seam, and the session-to-session transport.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-09-26T07:59:12.326Z",
+    "npm_downloads_monthly": 830,
+    "npm_downloads_weekly": 830,
+    "npm_score_final": 20.505518,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
