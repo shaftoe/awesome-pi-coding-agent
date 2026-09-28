@@ -1,0 +1,26 @@
+{
+  "id": "@deathbeam/pi-hashline",
+  "name": "@deathbeam/pi-hashline",
+  "url": "https://www.npmjs.com/package/@deathbeam/pi-hashline",
+  "source": "npm-search",
+  "description": "Hashline read/edit/grep tool overrides for Pi",
+  "metadata": {
+    "github_url": "https://github.com/deathbeam/pi-packages",
+    "npm_name": "@deathbeam/pi-hashline",
+    "description": "Hashline read/edit/grep tool overrides for Pi",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.0.6",
+    "published_at": "2026-09-27T20:34:32.242Z",
+    "npm_downloads_monthly": 690,
+    "npm_downloads_weekly": 690,
+    "npm_score_final": 19.6374,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

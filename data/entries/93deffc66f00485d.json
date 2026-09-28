@@ -1,0 +1,29 @@
+{
+  "id": "jev-pi-model-router",
+  "name": "jev-pi-model-router",
+  "url": "https://www.npmjs.com/package/jev-pi-model-router",
+  "source": "npm-search",
+  "description": "pi extension: TypeSafe Jev picks the model for each turn, from pi's own models. No other CLI needed.",
+  "metadata": {
+    "github_url": "https://github.com/damian87x/jev-pi-model-router",
+    "npm_name": "jev-pi-model-router",
+    "description": "pi extension: TypeSafe Jev picks the model for each turn, from pi's own models. No other CLI needed.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "jev",
+      "typesafe",
+      "model-routing"
+    ],
+    "version": "0.3.2",
+    "published_at": "2026-09-27T10:30:06.763Z",
+    "npm_downloads_monthly": 143,
+    "npm_downloads_weekly": 143,
+    "npm_score_final": 14.130913,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

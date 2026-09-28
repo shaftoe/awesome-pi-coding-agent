@@ -1,0 +1,29 @@
+{
+  "id": "@bitbonsai/pi-memory",
+  "name": "@bitbonsai/pi-memory",
+  "url": "https://www.npmjs.com/package/@bitbonsai/pi-memory",
+  "source": "npm-search",
+  "description": "Small persistent memory extension for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/bitbonsai/pi-memory",
+    "npm_name": "@bitbonsai/pi-memory",
+    "description": "Small persistent memory extension for Pi.",
+    "keywords": [
+      "pi-package",
+      "extension",
+      "memory",
+      "learning",
+      "preferences"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-09-20T11:21:58.375Z",
+    "npm_downloads_monthly": 464,
+    "npm_downloads_weekly": 464,
+    "npm_score_final": 17.866974,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

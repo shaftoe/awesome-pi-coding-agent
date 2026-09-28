@@ -10,7 +10,7 @@
     "description": "An extension for pi coding agent to manage tasks, via beads or alternative task backends.",
     "stars": 25,
     "forks": 5,
-    "open_issues": 2,
+    "open_issues": 3,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

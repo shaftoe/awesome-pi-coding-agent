@@ -1,0 +1,31 @@
+{
+  "id": "@wezzard/mcp-vm-relay",
+  "name": "@wezzard/mcp-vm-relay",
+  "url": "https://www.npmjs.com/package/@wezzard/mcp-vm-relay",
+  "source": "npm-search",
+  "description": "MCP server and Claude Code plugin for the VM relay: recorded, snapshot-evidenced computer-use and browser-use in a fresh disposable VM",
+  "metadata": {
+    "github_url": "https://github.com/WeZZard/mcp-vm-relay",
+    "npm_name": "@wezzard/mcp-vm-relay",
+    "description": "MCP server and Claude Code plugin for the VM relay: recorded, snapshot-evidenced computer-use and browser-use in a fresh disposable VM",
+    "keywords": [
+      "pi-package",
+      "mcp",
+      "mcp-server",
+      "claude-code",
+      "computer-use",
+      "browser-use",
+      "vm"
+    ],
+    "version": "0.6.2",
+    "published_at": "2026-09-27T21:28:35.452Z",
+    "npm_downloads_monthly": 949,
+    "npm_downloads_weekly": 949,
+    "npm_score_final": 20.228662,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

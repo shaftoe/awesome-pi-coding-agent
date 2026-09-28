@@ -9,7 +9,7 @@
     "repo_full_name": "kravchenski/FreeKimiQwenDeepseekApi",
     "description": "Unified OpenAI-compatible gateway for Qwen Chat, Kimi Chat and DeepSeek Web with persistent sessions, tool calling, Docker support, and integrations for popular AI coding agents.",
     "stars": 8,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "ai-agents",
@@ -31,9 +31,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-06T09:58:04Z",
-    "pushed_at": "2026-09-26T22:13:30Z",
-    "updated_at": "2026-09-26T22:21:30Z",
-    "size": 995,
+    "pushed_at": "2026-09-27T23:02:11Z",
+    "updated_at": "2026-09-27T22:42:00Z",
+    "size": 1202,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

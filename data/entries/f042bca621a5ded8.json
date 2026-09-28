@@ -1,0 +1,29 @@
+{
+  "id": "@bunshin-cc/bunshin",
+  "name": "@bunshin-cc/bunshin",
+  "url": "https://www.npmjs.com/package/@bunshin-cc/bunshin",
+  "source": "npm-search",
+  "description": "Shared memory for company AI agents. Connect Codex, Claude Code, or Pi to Bunshin.",
+  "metadata": {
+    "github_url": "https://github.com/yiheinchai/bunshin",
+    "npm_name": "@bunshin-cc/bunshin",
+    "description": "Shared memory for company AI agents. Connect Codex, Claude Code, or Pi to Bunshin.",
+    "keywords": [
+      "pi-package",
+      "codex",
+      "claude-code",
+      "memory",
+      "knowledge"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-09-20T13:56:09.874Z",
+    "npm_downloads_monthly": 788,
+    "npm_downloads_weekly": 788,
+    "npm_score_final": 20.226717,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

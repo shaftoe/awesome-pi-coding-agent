@@ -8,7 +8,7 @@
     "title": "Pi Agent - Portkey Docs",
     "name": "Pi Agent - Portkey Docs",
     "description": "Route Pi coding agent through Prisma AIRS AI Gateway for observability, cost tracking, and access to 3,000+ LLMs",
-    "published_at": "2026-09-15T07:02:24",
+    "published_at": "2026-09-21T06:24:20",
     "source_site": "Portkey",
     "source_url": "https://portkey.ai/docs/aigw/integrations/libraries/pi-agent",
     "discovery_hint": "brave:pi-agent"

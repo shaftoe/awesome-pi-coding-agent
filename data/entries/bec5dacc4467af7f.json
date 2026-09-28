@@ -1,0 +1,29 @@
+{
+  "id": "@tahabakhit/pi-research-kit",
+  "name": "@tahabakhit/pi-research-kit",
+  "url": "https://www.npmjs.com/package/@tahabakhit/pi-research-kit",
+  "source": "npm-search",
+  "description": "Ketch-powered web tools and evidence-based research workflows for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/tahabakhit/pi-research-kit",
+    "npm_name": "@tahabakhit/pi-research-kit",
+    "description": "Ketch-powered web tools and evidence-based research workflows for Pi.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "research",
+      "ketch",
+      "web-search"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-20T16:52:22.387Z",
+    "npm_downloads_monthly": 123,
+    "npm_downloads_weekly": 123,
+    "npm_score_final": 13.889501,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

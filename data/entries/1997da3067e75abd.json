@@ -1,0 +1,29 @@
+{
+  "id": "@each1024/pi-jev-route",
+  "name": "@each1024/pi-jev-route",
+  "url": "https://www.npmjs.com/package/@each1024/pi-jev-route",
+  "source": "npm-search",
+  "description": "Automatic Jev model selection at Pi subagent dispatch, with scoped model descriptions and a local HTML audit console.",
+  "metadata": {
+    "github_url": "https://github.com/eachann1024/pi-jev-route",
+    "npm_name": "@each1024/pi-jev-route",
+    "description": "Automatic Jev model selection at Pi subagent dispatch, with scoped model descriptions and a local HTML audit console.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "jev",
+      "subagents",
+      "model-routing"
+    ],
+    "version": "0.9.2",
+    "published_at": "2026-09-20T08:44:44.501Z",
+    "npm_downloads_monthly": 513,
+    "npm_downloads_weekly": 513,
+    "npm_score_final": 18.397463,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

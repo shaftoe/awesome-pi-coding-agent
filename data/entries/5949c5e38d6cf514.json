@@ -1,0 +1,26 @@
+{
+  "id": "@deathbeam/pi-keenable",
+  "name": "@deathbeam/pi-keenable",
+  "url": "https://www.npmjs.com/package/@deathbeam/pi-keenable",
+  "source": "npm-search",
+  "description": "Keenable web_search and web_fetch tools for Pi",
+  "metadata": {
+    "github_url": "https://github.com/deathbeam/pi-packages",
+    "npm_name": "@deathbeam/pi-keenable",
+    "description": "Keenable web_search and web_fetch tools for Pi",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.0.3",
+    "published_at": "2026-09-27T19:49:35.355Z",
+    "npm_downloads_monthly": 252,
+    "npm_downloads_weekly": 252,
+    "npm_score_final": 15.942891,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

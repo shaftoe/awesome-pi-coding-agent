@@ -58359,5 +58359,145 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-agent"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Jb49me5SOI8",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-09-28T01:20:10.675Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/G0-0000/pi-subagent-jev",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-28T01:20:10.734Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-candy-toolbox",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-28T01:20:11.157Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/hakkm/omp-ntfy",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-09-28T01:20:11.185Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-candy-undo",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-28T01:20:11.236Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=WrJAkrfWuS8",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-28T01:20:11.33Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/xtshhhhh/Selkit",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-28T01:20:11.462Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=TJIhrRx3wUk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-28T01:20:11.513Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-candy-win-notify",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-28T01:20:11.616Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=JaGH_ZPTexs",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-09-28T01:20:11.625Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=IARVlnATEHY",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-09-28T01:20:11.688Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/omp-ntfy",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-09-28T01:20:11.706Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@heretek-ai/epistemic-swarm",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-09-28T01:20:11.755Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=g5iDD9OSSU8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-28T01:20:11.865Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
 	}
 ]

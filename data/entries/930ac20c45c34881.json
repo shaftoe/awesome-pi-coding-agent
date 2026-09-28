@@ -1,0 +1,30 @@
+{
+  "id": "@narumitw/pi-progress",
+  "name": "@narumitw/pi-progress",
+  "url": "https://www.npmjs.com/package/@narumitw/pi-progress",
+  "source": "npm-search",
+  "description": "Pi extension for branch-aware multi-step session progress.",
+  "metadata": {
+    "github_url": "https://github.com/narumiruna/pi-extensions",
+    "npm_name": "@narumitw/pi-progress",
+    "description": "Pi extension for branch-aware multi-step session progress.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "progress",
+      "task-progress",
+      "coding-agent"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-09-20T12:15:48.492Z",
+    "npm_downloads_monthly": 326,
+    "npm_downloads_weekly": 326,
+    "npm_score_final": 17.399103,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

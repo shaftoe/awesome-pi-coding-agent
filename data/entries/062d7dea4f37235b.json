@@ -1,0 +1,27 @@
+{
+  "id": "pi-model-customize",
+  "name": "pi-model-customize",
+  "url": "https://www.npmjs.com/package/pi-model-customize",
+  "source": "npm-search",
+  "description": "Per-model thinking levels and token limits for pi, configured with global and project JSON files.",
+  "metadata": {
+    "github_url": "https://github.com/Lumintian/pi-model-customize",
+    "npm_name": "pi-model-customize",
+    "description": "Per-model thinking levels and token limits for pi, configured with global and project JSON files.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "models"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-09-20T15:18:18.796Z",
+    "npm_downloads_monthly": 468,
+    "npm_downloads_weekly": 468,
+    "npm_score_final": 17.968254,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

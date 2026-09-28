@@ -1,0 +1,29 @@
+{
+  "id": "@ersintarhan/pi-lite-compact",
+  "name": "@ersintarhan/pi-lite-compact",
+  "url": "https://www.npmjs.com/package/@ersintarhan/pi-lite-compact",
+  "source": "npm-search",
+  "description": "Pi's native compaction, summarized by a model of your choice. Optional early trigger. Falls back to native on any failure.",
+  "metadata": {
+    "github_url": "https://github.com/ersintarhan/pi-lite-compact",
+    "npm_name": "@ersintarhan/pi-lite-compact",
+    "description": "Pi's native compaction, summarized by a model of your choice. Optional early trigger. Falls back to native on any failure.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "compaction"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-27T11:34:47.181Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

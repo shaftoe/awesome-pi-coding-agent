@@ -11,15 +11,15 @@
     "keywords": [
       "pi-package"
     ],
-    "version": "0.5.0",
-    "published_at": "2026-09-27T00:08:13.748Z",
-    "npm_downloads_monthly": 375,
-    "npm_downloads_weekly": 375,
-    "npm_score_final": 17.358648,
+    "version": "0.6.2",
+    "published_at": "2026-09-27T19:01:52.413Z",
+    "npm_downloads_monthly": 557,
+    "npm_downloads_weekly": 557,
+    "npm_score_final": 18.484964,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "extension"
+  "category": "misc"
 }

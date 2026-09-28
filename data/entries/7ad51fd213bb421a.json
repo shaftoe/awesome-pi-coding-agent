@@ -1,0 +1,28 @@
+{
+  "id": "@pi-unipi/skill-registry",
+  "name": "@pi-unipi/skill-registry",
+  "url": "https://www.npmjs.com/package/@pi-unipi/skill-registry",
+  "source": "npm-search",
+  "description": "Placeholder for the upcoming unipi skill registry — hosts the bundled workflow skills",
+  "metadata": {
+    "github_url": "https://github.com/Neuron-Mr-White/unipi",
+    "npm_name": "@pi-unipi/skill-registry",
+    "description": "Placeholder for the upcoming unipi skill registry — hosts the bundled workflow skills",
+    "keywords": [
+      "pi-package",
+      "pi-skills",
+      "unipi",
+      "skill-registry"
+    ],
+    "version": "3.0.0-alpha.0",
+    "published_at": "2026-09-25T06:04:28.707Z",
+    "npm_downloads_monthly": 345,
+    "npm_downloads_weekly": 345,
+    "npm_score_final": 17.00946,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "MYSTRAVIL-omp-remote",
+  "name": "MYSTRAVIL-omp-remote",
+  "url": "https://github.com/MYSTRAVIL/omp-remote",
+  "source": "github-search",
+  "description": "Control Oh My Pi coding-agent sessions from your phone, end-to-end encrypted through a content-blind server.",
+  "metadata": {
+    "github_url": "https://github.com/MYSTRAVIL/omp-remote",
+    "repo_full_name": "MYSTRAVIL/omp-remote",
+    "description": "Control Oh My Pi coding-agent sessions from your phone, end-to-end encrypted through a content-blind server.",
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-24T20:53:14Z",
+    "pushed_at": "2026-09-27T09:27:28Z",
+    "updated_at": "2026-09-27T09:27:30Z",
+    "size": 1626,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

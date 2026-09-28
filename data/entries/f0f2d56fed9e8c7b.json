@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi-in-go.dev_packages",
+  "name": "Packages · PiG",
+  "url": "https://pi-in-go.dev/packages/",
+  "source": "brave-web-search",
+  "description": "Web search, URL fetching, GitHub repo cloning, PDF extraction, YouTube video understanding, and local video analysis for Pi coding agent. Supports OpenAI, Brave, Parallel, TinyFish, Search1API, Searchinfinity, Querit, Tavily, Firecrawl, Crawl4AI, Jina, SERPdive, Kagi, Ollama, AnySearch, Bright Data SERP, SerpBase, SerpApi, Serply, SearXNG, Exa, Perplexity, Gemini, Kimi, and Mistral. ... Packages can execute code and influence agent behavior.",
+  "metadata": {
+    "title": "Packages · PiG",
+    "name": "Packages · PiG",
+    "description": "Web search, URL fetching, GitHub repo cloning, PDF extraction, YouTube video understanding, and local video analysis for Pi coding agent. Supports OpenAI, Brave, Parallel, TinyFish, Search1API, Searchinfinity, Querit, Tavily, Firecrawl, Crawl4AI, Jina, SERPdive, Kagi, Ollama, AnySearch, Bright Data SERP, SerpBase, SerpApi, Serply, SearXNG, Exa, Perplexity, Gemini, Kimi, and Mistral. ... Packages can execute code and influence agent behavior.",
+    "published_at": null,
+    "source_site": "Pi-in-go",
+    "source_url": "https://pi-in-go.dev/packages/",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}
