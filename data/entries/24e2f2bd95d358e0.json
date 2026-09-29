@@ -10,7 +10,7 @@
     "description": "Jev decides what to keep. Compaction never rewrites the transcript.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "agent-memory",
       "context-compaction",
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-18T06:42:35Z",
-    "pushed_at": "2026-09-19T07:47:00Z",
+    "pushed_at": "2026-09-29T01:22:22Z",
     "updated_at": "2026-09-19T12:48:49Z",
-    "size": 104,
+    "size": 148,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

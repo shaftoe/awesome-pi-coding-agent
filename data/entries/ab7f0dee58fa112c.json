@@ -1,0 +1,30 @@
+{
+  "id": "pi-learn-btw",
+  "name": "pi-learn-btw",
+  "url": "https://www.npmjs.com/package/pi-learn-btw",
+  "source": "npm-search",
+  "description": "Learn English by the way, while coding with AI. Pinned below Pi's editor with git-style code diffs.",
+  "metadata": {
+    "github_url": "https://github.com/chxsong/pi-learn-btw",
+    "npm_name": "pi-learn-btw",
+    "description": "Learn English by the way, while coding with AI. Pinned below Pi's editor with git-style code diffs.",
+    "keywords": [
+      "pi-package",
+      "english-learning",
+      "developer-tools",
+      "diff",
+      "tui",
+      "by-the-way"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-09-21T23:24:01.213Z",
+    "npm_downloads_monthly": 153,
+    "npm_downloads_weekly": 153,
+    "npm_score_final": 14.243083,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "qingzhu521-openchamber-pi-connector",
+  "name": "qingzhu521-openchamber-pi-connector",
+  "url": "https://github.com/qingzhu521/openchamber-pi-connector",
+  "source": "github-search",
+  "description": "Use OpenChamber with the pi coding agent — an OpenCode-API-compatible adapter server backed by pi RPC mode",
+  "metadata": {
+    "github_url": "https://github.com/qingzhu521/openchamber-pi-connector",
+    "repo_full_name": "qingzhu521/openchamber-pi-connector",
+    "description": "Use OpenChamber with the pi coding agent — an OpenCode-API-compatible adapter server backed by pi RPC mode",
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-20T05:35:03Z",
+    "pushed_at": "2026-09-21T05:56:43Z",
+    "updated_at": "2026-09-29T01:28:01Z",
+    "size": 64,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

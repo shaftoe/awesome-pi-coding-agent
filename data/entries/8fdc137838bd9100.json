@@ -10,7 +10,7 @@
     "description": "Experimental Excel sidebar agent add-in. Multi-model. Powered by Pi.",
     "stars": 432,
     "forks": 58,
-    "open_issues": 39,
+    "open_issues": 40,
     "topics": [
       "excel",
       "oss",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-04T17:20:31Z",
-    "pushed_at": "2026-09-24T18:44:48Z",
+    "pushed_at": "2026-09-28T18:45:02Z",
     "updated_at": "2026-09-25T08:46:07Z",
-    "size": 10706,
+    "size": 10506,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

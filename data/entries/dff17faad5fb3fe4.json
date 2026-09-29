@@ -1,0 +1,36 @@
+{
+  "id": "Fatih0234-pi-simple-subagent",
+  "name": "Fatih0234-pi-simple-subagent",
+  "url": "https://github.com/Fatih0234/pi-simple-subagent",
+  "source": "github-search",
+  "description": "Background subagents for the pi coding agent: spawn_agent + wait_agents. Results arrive automatically, no polling, and the LLM never picks the model. ~600 lines.",
+  "metadata": {
+    "github_url": "https://github.com/Fatih0234/pi-simple-subagent",
+    "repo_full_name": "Fatih0234/pi-simple-subagent",
+    "description": "Background subagents for the pi coding agent: spawn_agent + wait_agents. Results arrive automatically, no polling, and the LLM never picks the model. ~600 lines.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "background-agents",
+      "coding-agent",
+      "llm",
+      "parallel-agents",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "subagents"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-28T17:02:19Z",
+    "pushed_at": "2026-09-28T18:28:45Z",
+    "updated_at": "2026-09-28T18:28:49Z",
+    "size": 52,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

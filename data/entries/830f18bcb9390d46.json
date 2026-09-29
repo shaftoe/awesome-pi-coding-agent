@@ -1,0 +1,30 @@
+{
+  "id": "@mu-crew/murmur",
+  "name": "@mu-crew/murmur",
+  "url": "https://www.npmjs.com/package/@mu-crew/murmur",
+  "source": "npm-search",
+  "description": "Agent state across every machine you work on, in one view.",
+  "metadata": {
+    "github_url": "https://github.com/mu-crew/murmur",
+    "npm_name": "@mu-crew/murmur",
+    "description": "Agent state across every machine you work on, in one view.",
+    "keywords": [
+      "tmux",
+      "agents",
+      "ai",
+      "pi-coding-agent",
+      "pi-package",
+      "ssh"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-09-28T13:42:12.287Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "misc"
+}

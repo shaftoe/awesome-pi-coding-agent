@@ -1,0 +1,35 @@
+{
+  "id": "pi-grok-agent",
+  "name": "pi-grok-agent",
+  "url": "https://www.npmjs.com/package/pi-grok-agent",
+  "source": "npm-search",
+  "description": "Pi model provider for Grok Build: Grok keeps its native harness and tools while Pi drives the session over a local WebSocket ACP gateway",
+  "metadata": {
+    "github_url": "https://github.com/JangMan-J/pi-grok-agent",
+    "npm_name": "pi-grok-agent",
+    "description": "Pi model provider for Grok Build: Grok keeps its native harness and tools while Pi drives the session over a local WebSocket ACP gateway",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "model-provider",
+      "grok",
+      "grok-build",
+      "xai",
+      "acp",
+      "agent-client-protocol",
+      "coding-agent"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-09-28T22:26:25.428Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

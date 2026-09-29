@@ -10,16 +10,16 @@
     "description": "Modern web UI for the pi coding agent, driven by the official pi SDK without modifying pi",
     "stars": 3,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 5,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-07T04:46:40Z",
-    "pushed_at": "2026-09-26T18:46:21Z",
+    "pushed_at": "2026-09-28T03:39:07Z",
     "updated_at": "2026-09-26T18:46:25Z",
-    "size": 9787,
+    "size": 10055,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "category": "extension"
 }

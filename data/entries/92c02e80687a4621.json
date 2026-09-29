@@ -1,0 +1,25 @@
+{
+  "id": "GarlandQian-PiPilot",
+  "name": "GarlandQian-PiPilot",
+  "url": "https://github.com/GarlandQian/PiPilot",
+  "source": "github-search",
+  "description": "A desktop client for Pi Agent that makes AI coding workflows visible, controllable, and secure.",
+  "metadata": {
+    "github_url": "https://github.com/GarlandQian/PiPilot",
+    "repo_full_name": "GarlandQian/PiPilot",
+    "description": "A desktop client for Pi Agent that makes AI coding workflows visible, controllable, and secure.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-05T03:36:56Z",
+    "pushed_at": "2026-09-28T14:21:25Z",
+    "updated_at": "2026-09-28T14:21:47Z",
+    "size": 3907,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

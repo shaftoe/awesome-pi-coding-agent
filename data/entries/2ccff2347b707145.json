@@ -8,7 +8,7 @@
     "github_url": "https://github.com/iamaamir/system-one",
     "repo_full_name": "iamaamir/system-one",
     "description": "Provider-neutral System One runtime for TypeScript and Pi",
-    "stars": 63,
+    "stars": 65,
     "forks": 3,
     "open_issues": 2,
     "topics": [
@@ -28,7 +28,7 @@
     "archived": false,
     "created_at": "2026-09-22T10:20:21Z",
     "pushed_at": "2026-09-27T08:30:49Z",
-    "updated_at": "2026-09-28T00:46:01Z",
+    "updated_at": "2026-09-28T23:25:34Z",
     "size": 2788,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

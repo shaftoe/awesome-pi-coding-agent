@@ -1,0 +1,39 @@
+{
+  "id": "open-mercato-cezar",
+  "name": "open-mercato-cezar",
+  "url": "https://github.com/open-mercato/cezar",
+  "source": "github-search",
+  "description": "Open-source orchestrator and ADE for running Claude Code, Codex, OpenCode, Pi and other AI coding agents in parallel — locally or 24/7 on your own server.",
+  "metadata": {
+    "github_url": "https://github.com/open-mercato/cezar",
+    "repo_full_name": "open-mercato/cezar",
+    "description": "Open-source orchestrator and ADE for running Claude Code, Codex, OpenCode, Pi and other AI coding agents in parallel — locally or 24/7 on your own server.",
+    "stars": 264,
+    "forks": 70,
+    "open_issues": 180,
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "autonomous-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "git-worktrees",
+      "multi-agent",
+      "opencode",
+      "parallel-agents",
+      "parallel-coding",
+      "self-hosted"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-19T08:27:50Z",
+    "pushed_at": "2026-09-29T02:10:09Z",
+    "updated_at": "2026-09-28T21:54:24Z",
+    "size": 100979,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

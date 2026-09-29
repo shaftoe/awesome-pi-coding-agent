@@ -9,8 +9,8 @@
     "repo_full_name": "zhangz1w3nCode/Ocean",
     "description": "A local-first visual management platform for coding-agent — unified management of agents, skills, command, knowledge graph, and visual workflow editor. Built with Electron + React + TypeScript.",
     "stars": 7,
-    "forks": 0,
-    "open_issues": 28,
+    "forks": 1,
+    "open_issues": 29,
     "topics": [
       "claude-code",
       "harness-engineering",

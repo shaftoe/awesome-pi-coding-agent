@@ -8,7 +8,7 @@
     "title": "Felo Skills for Pi Coding Agent | Terminal Research Kit",
     "name": "Felo Skills for Pi Coding Agent | Terminal Research Kit",
     "description": "Give Pi live web search, page fetching, YouTube transcripts, and slide drafts without growing its core. Loads from ~/.pi/agent/skills or .pi/skills.",
-    "published_at": "2026-09-23T18:38:02",
+    "published_at": "2026-09-23T08:33:27",
     "source_site": "Felo",
     "source_url": "https://felo.ai/skills/pi-coding-agent",
     "discovery_hint": "brave:pi-agent"

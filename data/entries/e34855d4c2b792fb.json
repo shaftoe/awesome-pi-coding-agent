@@ -1,0 +1,30 @@
+{
+  "id": "felipeadeildo-pi-harness",
+  "name": "felipeadeildo-pi-harness",
+  "url": "https://github.com/felipeadeildo/pi-harness",
+  "source": "github-search",
+  "description": "The extensions I run Pi with: permissions, providers and more, each installable on its own.",
+  "metadata": {
+    "github_url": "https://github.com/felipeadeildo/pi-harness",
+    "repo_full_name": "felipeadeildo/pi-harness",
+    "description": "The extensions I run Pi with: permissions, providers and more, each installable on its own.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "harness",
+      "pi",
+      "pi-dev",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-19T23:31:40Z",
+    "pushed_at": "2026-09-23T18:40:30Z",
+    "updated_at": "2026-09-28T21:38:22Z",
+    "size": 470,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

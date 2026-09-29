@@ -1,0 +1,29 @@
+{
+  "id": "threadroom-pi",
+  "name": "threadroom-pi",
+  "url": "https://www.npmjs.com/package/threadroom-pi",
+  "source": "npm-search",
+  "description": "Private blocking or nonblocking questions and optional durable Threadroom discussions for Pi",
+  "metadata": {
+    "github_url": "https://github.com/Scott-Meyer/threadroom",
+    "npm_name": "threadroom-pi",
+    "description": "Private blocking or nonblocking questions and optional durable Threadroom discussions for Pi",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "ask-user-question",
+      "questionnaire",
+      "ai-agent"
+    ],
+    "version": "0.1.0-beta.0",
+    "published_at": "2026-09-21T13:34:32.267Z",
+    "npm_downloads_monthly": 132,
+    "npm_downloads_weekly": 132,
+    "npm_score_final": 14.2052965,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "pi-e2b",
+  "name": "pi-e2b",
+  "url": "https://www.npmjs.com/package/pi-e2b",
+  "source": "npm-search",
+  "description": "Run Pi's read, edit, write, bash, and grep tools in persistent E2B sandboxes",
+  "metadata": {
+    "github_url": "https://github.com/stym06/pi-e2b",
+    "npm_name": "pi-e2b",
+    "description": "Run Pi's read, edit, write, bash, and grep tools in persistent E2B sandboxes",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "e2b",
+      "sandbox"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-09-28T05:45:16.070Z",
+    "npm_downloads_monthly": 541,
+    "npm_downloads_weekly": 541,
+    "npm_score_final": 19.249502,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

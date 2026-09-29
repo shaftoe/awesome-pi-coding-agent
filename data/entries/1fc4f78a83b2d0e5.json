@@ -1,0 +1,20 @@
+{
+  "id": "YT_Lu94zECApec",
+  "name": "Your Pi agent is not secure out of the box",
+  "url": "https://youtube.com/watch?v=Lu94zECApec",
+  "source": "youtube-search",
+  "description": "Out of the box, Pi runs commands like rm -rf without asking. That's unsafe, and it can wipe your entire system. The fix is in the full ...",
+  "metadata": {
+    "title": "Your Pi agent is not secure out of the box",
+    "name": "Your Pi agent is not secure out of the box",
+    "description": "Out of the box, Pi runs commands like rm -rf without asking. That's unsafe, and it can wipe your entire system. The fix is in the full ...",
+    "channel": "SyntetiCode",
+    "published_at": "2026-09-25T10:01:33Z",
+    "thumbnail": "https://i.ytimg.com/vi/Lu94zECApec/hqdefault.jpg",
+    "views": 70,
+    "likes": 0,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-coding-agent"
+  },
+  "category": "video"
+}

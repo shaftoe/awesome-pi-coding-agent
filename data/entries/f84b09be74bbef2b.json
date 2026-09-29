@@ -10,7 +10,7 @@
     "description": "Open-source, desktop client/UI build to harness Pi and any other Agent accepting Agent Client Protocol. Run multiple AI coding agents side by side with rich tool visualization, MCP integrations, built-in terminal, git, browser and just about anything else you may need.",
     "stars": 6,
     "forks": 2,
-    "open_issues": 7,
+    "open_issues": 4,
     "topics": [
       "dpccc",
       "electron"
@@ -18,9 +18,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-17T03:13:07Z",
-    "pushed_at": "2026-09-26T12:12:53Z",
-    "updated_at": "2026-09-26T12:12:57Z",
-    "size": 20599,
+    "pushed_at": "2026-09-28T07:29:06Z",
+    "updated_at": "2026-09-28T07:29:10Z",
+    "size": 20611,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
