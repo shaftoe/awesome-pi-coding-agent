@@ -1,0 +1,41 @@
+{
+  "id": "orbi-build-orbi",
+  "name": "orbi-build-orbi",
+  "url": "https://github.com/orbi-build/orbi",
+  "source": "github-search",
+  "description": "Open-source (AGPL-3.0), self-hosted autonomous coding agent: label a GitHub Issue, get an independently reviewed, merged PR and a tagged release.",
+  "metadata": {
+    "github_url": "https://github.com/orbi-build/orbi",
+    "repo_full_name": "orbi-build/orbi",
+    "description": "Open-source (AGPL-3.0), self-hosted autonomous coding agent: label a GitHub Issue, get an independently reviewed, merged PR and a tagged release.",
+    "stars": 194,
+    "forks": 23,
+    "open_issues": 27,
+    "topics": [
+      "agpl",
+      "ai-agent",
+      "autonomous-agents",
+      "autonomous-coding-agent",
+      "background-agent",
+      "ci-cd",
+      "coding-agent",
+      "devops",
+      "github-automation",
+      "issue-to-pr",
+      "open-source",
+      "pi-coding-agent",
+      "python",
+      "self-hosted",
+      "software-delivery"
+    ],
+    "language": "Python",
+    "archived": false,
+    "created_at": "2026-08-24T16:08:33Z",
+    "pushed_at": "2026-09-30T11:45:06Z",
+    "updated_at": "2026-09-30T12:31:56Z",
+    "size": 9142,
+    "license": "AGPL-3.0",
+    "discovery_hint": "github:add-url"
+  },
+  "category": "misc"
+}
