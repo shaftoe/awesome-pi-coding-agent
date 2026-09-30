@@ -1,0 +1,25 @@
+{
+  "id": "j62268781-alt-pi-code-chat",
+  "name": "j62268781-alt-pi-code-chat",
+  "url": "https://github.com/j62268781-alt/pi-code-chat",
+  "source": "github-search",
+  "description": "VS Code extension for PI Coding Agent.",
+  "metadata": {
+    "github_url": "https://github.com/j62268781-alt/pi-code-chat",
+    "repo_full_name": "j62268781-alt/pi-code-chat",
+    "description": "VS Code extension for PI Coding Agent.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 9,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-16T10:54:17Z",
+    "pushed_at": "2026-09-29T16:05:19Z",
+    "updated_at": "2026-09-29T16:08:27Z",
+    "size": 7756,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "Piora desktop AI workspace",
     "stars": 7,
     "forks": 2,
-    "open_issues": 7,
+    "open_issues": 8,
     "topics": [
       "ai-coding-assistant",
       "electron",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-31T15:48:35Z",
-    "pushed_at": "2026-09-29T02:07:28Z",
-    "updated_at": "2026-09-28T09:49:53Z",
-    "size": 63399,
+    "pushed_at": "2026-09-30T01:10:21Z",
+    "updated_at": "2026-09-29T08:26:53Z",
+    "size": 65829,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

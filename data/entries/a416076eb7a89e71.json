@@ -1,0 +1,34 @@
+{
+  "id": "pi-exr-reader",
+  "name": "pi-exr-reader",
+  "url": "https://www.npmjs.com/package/pi-exr-reader",
+  "source": "npm-search",
+  "description": "Pi extension: read .exr files — exact full-precision channel stats, pixel values, rect stats, and a PNG preview. Works on Arnold/RenderMan/Blender AOVs, UV/ST maps, and multilayer EXRs.",
+  "metadata": {
+    "github_url": "https://github.com/lrich0/pi-exr-reader",
+    "npm_name": "pi-exr-reader",
+    "description": "Pi extension: read .exr files — exact full-precision channel stats, pixel values, rect stats, and a PNG preview. Works on Arnold/RenderMan/Blender AOVs, UV/ST maps, and multilayer EXRs.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "exr",
+      "openexr",
+      "aov",
+      "arnold",
+      "uv-map",
+      "render",
+      "pixel-inspection"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-08T03:07:46.824Z",
+    "npm_downloads_monthly": 188,
+    "npm_downloads_weekly": 5,
+    "npm_score_final": 14.707574,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pi-duckdb-search",
+  "name": "pi-duckdb-search",
+  "url": "https://www.npmjs.com/package/pi-duckdb-search",
+  "source": "npm-search",
+  "description": "DuckDB-powered BM25 keyword + semantic (ONNX embeddings) + hybrid (RRF) search over Pi session JSONL transcripts. Self-contained — no external APIs, no cloud accounts.",
+  "metadata": {
+    "github_url": "https://github.com/cpagan/pi-duckdb-search",
+    "npm_name": "pi-duckdb-search",
+    "description": "DuckDB-powered BM25 keyword + semantic (ONNX embeddings) + hybrid (RRF) search over Pi session JSONL transcripts. Self-contained — no external APIs, no cloud accounts.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "search",
+      "duckdb",
+      "semantic-search",
+      "embeddings",
+      "bm25",
+      "full-text-search",
+      "session-search",
+      "vector-search",
+      "onnx"
+    ],
+    "version": "2.4.0",
+    "published_at": "2026-09-29T17:55:35.027Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

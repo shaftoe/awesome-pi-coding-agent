@@ -1,0 +1,26 @@
+{
+  "id": "@sherif-fanous/pi-extensions-core",
+  "name": "@sherif-fanous/pi-extensions-core",
+  "url": "https://www.npmjs.com/package/@sherif-fanous/pi-extensions-core",
+  "source": "npm-search",
+  "description": "Pi extension library that provides shared helpers for errors, config files, reports, and TUI surfaces",
+  "metadata": {
+    "github_url": "https://github.com/sherif-fanous/pi-extensions",
+    "npm_name": "@sherif-fanous/pi-extensions-core",
+    "description": "Pi extension library that provides shared helpers for errors, config files, reports, and TUI surfaces",
+    "keywords": [
+      "pi",
+      "pi-coding-agent"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-30T01:19:55.518Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

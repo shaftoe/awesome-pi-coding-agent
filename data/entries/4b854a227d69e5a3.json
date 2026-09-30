@@ -10,7 +10,7 @@
     "description": "Production Pi Coding Agent plugin: MCP, web search/fetch, subagents, todos, and ask-user questions.",
     "stars": 2,
     "forks": 0,
-    "open_issues": 8,
+    "open_issues": 9,
     "topics": [
       "ai",
       "coding-agent",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-04T17:53:05Z",
-    "pushed_at": "2026-09-11T21:54:37Z",
+    "pushed_at": "2026-09-29T23:14:43Z",
     "updated_at": "2026-09-14T04:55:47Z",
-    "size": 709,
+    "size": 768,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

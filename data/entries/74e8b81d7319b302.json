@@ -1,0 +1,25 @@
+{
+  "id": "@tinoy/pi-ipc",
+  "name": "@tinoy/pi-ipc",
+  "url": "https://www.npmjs.com/package/@tinoy/pi-ipc",
+  "source": "npm-search",
+  "description": "Talk to other pi sessions on this machine: list peers, send, ask and wait, or broadcast.",
+  "metadata": {
+    "github_url": "https://github.com/tinoy1336/pi-extensions",
+    "npm_name": "@tinoy/pi-ipc",
+    "description": "Talk to other pi sessions on this machine: list peers, send, ask and wait, or broadcast.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-29T21:26:40.589Z",
+    "npm_downloads_monthly": 114,
+    "npm_downloads_weekly": 114,
+    "npm_score_final": 14.060353,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

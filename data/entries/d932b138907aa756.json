@@ -1,0 +1,30 @@
+{
+  "id": "pi-cache-compact",
+  "name": "pi-cache-compact",
+  "url": "https://www.npmjs.com/package/pi-cache-compact",
+  "source": "npm-search",
+  "description": "Cache-friendly context compaction for Pi: write the handoff summary as a cache-hit continuation instead of a cold, re-serialized prompt.",
+  "metadata": {
+    "github_url": "https://github.com/lennartschoch/pi-cache-compact",
+    "npm_name": "pi-cache-compact",
+    "description": "Cache-friendly context compaction for Pi: write the handoff summary as a cache-hit continuation instead of a cold, re-serialized prompt.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "compaction",
+      "prompt-cache",
+      "llama.cpp"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-22T17:13:21.309Z",
+    "npm_downloads_monthly": 168,
+    "npm_downloads_weekly": 168,
+    "npm_score_final": 15.514968,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

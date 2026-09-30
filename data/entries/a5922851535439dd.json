@@ -3,27 +3,26 @@
   "name": "kankaku",
   "url": "https://www.npmjs.com/package/kankaku",
   "source": "npm-search",
-  "description": "pi extension that records agent work time per prompt, excluding waits for the user, with subagent linkage and task/session views",
+  "description": "Terminal app that shows today's kankaku work across every project on disk",
   "metadata": {
     "github_url": "https://github.com/soyunninja/kankaku",
     "npm_name": "kankaku",
-    "description": "pi extension that records agent work time per prompt, excluding waits for the user, with subagent linkage and task/session views",
+    "description": "Terminal app that shows today's kankaku work across every project on disk",
     "keywords": [
       "pi-package",
-      "pi",
-      "pi-extension",
+      "kankaku",
       "time-tracking",
       "agents"
     ],
-    "version": "0.9.0",
-    "published_at": "2026-09-28T16:15:54.816Z",
-    "npm_downloads_monthly": 1618,
+    "version": "1.3.0",
+    "published_at": "2026-09-29T19:17:26.180Z",
+    "npm_downloads_monthly": 1631,
     "npm_downloads_weekly": 1288,
-    "npm_score_final": 22.625467,
+    "npm_score_final": 22.337517,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "extension"
+  "category": "misc"
 }

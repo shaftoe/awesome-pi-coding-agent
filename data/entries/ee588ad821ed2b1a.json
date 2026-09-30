@@ -1,0 +1,25 @@
+{
+  "id": "akasakariko-pi-vision",
+  "name": "akasakariko-pi-vision",
+  "url": "https://github.com/akasakariko/pi-vision",
+  "source": "github-search",
+  "description": "Pi Agent extension: auto handoff images to OpenAI-compatible vision models when the main model lacks image input",
+  "metadata": {
+    "github_url": "https://github.com/akasakariko/pi-vision",
+    "repo_full_name": "akasakariko/pi-vision",
+    "description": "Pi Agent extension: auto handoff images to OpenAI-compatible vision models when the main model lacks image input",
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-02T18:59:05Z",
+    "pushed_at": "2026-08-07T09:10:56Z",
+    "updated_at": "2026-08-07T09:12:27Z",
+    "size": 64,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

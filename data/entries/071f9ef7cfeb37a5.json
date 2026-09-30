@@ -8,7 +8,7 @@
     "github_url": "https://github.com/irfansofyana/pi-setup",
     "repo_full_name": "irfansofyana/pi-setup",
     "description": "My Pi coding agents setup",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 2,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-10T00:28:59Z",
     "pushed_at": "2026-09-05T17:12:27Z",
-    "updated_at": "2026-09-05T17:07:57Z",
+    "updated_at": "2026-09-29T18:04:22Z",
     "size": 1007,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

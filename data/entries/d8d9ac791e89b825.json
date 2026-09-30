@@ -1,0 +1,33 @@
+{
+  "id": "pi-kiro-agent",
+  "name": "pi-kiro-agent",
+  "url": "https://www.npmjs.com/package/pi-kiro-agent",
+  "source": "npm-search",
+  "description": "Kiro CLI provider for Pi: delegates turns to your local, authenticated kiro-cli. Seat/credit-billed through the official client, with an MCP bridge that exposes the calling Pi session's tools inside delegated runs.",
+  "metadata": {
+    "github_url": "https://github.com/randiskull/pi-kiro-agent",
+    "npm_name": "pi-kiro-agent",
+    "description": "Kiro CLI provider for Pi: delegates turns to your local, authenticated kiro-cli. Seat/credit-billed through the official client, with an MCP bridge that exposes the calling Pi session's tools inside delegated runs.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "kiro",
+      "kiro-cli",
+      "provider",
+      "mcp",
+      "acp",
+      "delegation",
+      "subagents"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-09-15T23:45:14.758Z",
+    "npm_downloads_monthly": 124,
+    "npm_downloads_weekly": 35,
+    "npm_score_final": 14.468973,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

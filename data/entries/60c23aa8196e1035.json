@@ -10,7 +10,7 @@
     "description": "Persistent Linux workspaces for agentic development.",
     "stars": 348,
     "forks": 33,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "anthropic",
       "anthropic-claude",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-01-08T14:50:55Z",
-    "pushed_at": "2026-09-24T10:06:34Z",
-    "updated_at": "2026-09-24T15:05:55Z",
-    "size": 1878,
+    "pushed_at": "2026-09-29T08:55:15Z",
+    "updated_at": "2026-09-29T08:55:20Z",
+    "size": 1948,
     "license": "BSD-3-Clause",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

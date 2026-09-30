@@ -1,0 +1,32 @@
+{
+  "id": "@xzzpig/pi-sentinel",
+  "name": "@xzzpig/pi-sentinel",
+  "url": "https://www.npmjs.com/package/@xzzpig/pi-sentinel",
+  "source": "npm-search",
+  "description": "Declarative natural-language sentinel rules for the pi coding agent: side-loop LLM audits on tool calls, tool results, turn/agent boundaries and context thresholds, with blocking gates and background finding injection.",
+  "metadata": {
+    "github_url": "https://github.com/xzzpig/pi-extensions",
+    "npm_name": "@xzzpig/pi-sentinel",
+    "description": "Declarative natural-language sentinel rules for the pi coding agent: side-loop LLM audits on tool calls, tool results, turn/agent boundaries and context thresholds, with blocking gates and background finding injection.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "sentinel",
+      "audit",
+      "guardrail",
+      "llm-as-judge"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-29T10:27:00.567Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

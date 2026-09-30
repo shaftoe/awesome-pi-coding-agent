@@ -1,0 +1,32 @@
+{
+  "id": "@spences10/pi-talk",
+  "name": "@spences10/pi-talk",
+  "url": "https://www.npmjs.com/package/@spences10/pi-talk",
+  "source": "npm-search",
+  "description": "Opt-in hold-Space Deepgram dictation for Pi",
+  "metadata": {
+    "github_url": "https://github.com/spences10/my-pi",
+    "npm_name": "@spences10/pi-talk",
+    "description": "Opt-in hold-Space Deepgram dictation for Pi",
+    "keywords": [
+      "deepgram",
+      "dictation",
+      "hold-to-talk",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "speech-to-text",
+      "voice"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-22T21:36:34.485Z",
+    "npm_downloads_monthly": 333,
+    "npm_downloads_weekly": 333,
+    "npm_score_final": 17.839087,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

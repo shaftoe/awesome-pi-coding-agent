@@ -10,7 +10,7 @@
     "description": "A native, harness-neutral workspace for agent sessions, task graphs, diffs, and durable work — Pi first, Codex and Claude next.",
     "stars": 13,
     "forks": 5,
-    "open_issues": 19,
+    "open_issues": 8,
     "topics": [
       "agentic-development",
       "bun",
@@ -26,9 +26,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-27T03:46:35Z",
-    "pushed_at": "2026-09-12T16:32:52Z",
-    "updated_at": "2026-09-28T19:05:23Z",
-    "size": 932,
+    "pushed_at": "2026-09-29T04:55:12Z",
+    "updated_at": "2026-09-29T04:55:17Z",
+    "size": 846,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
