@@ -9,7 +9,7 @@
     "repo_full_name": "y0usaf/pi-jev",
     "description": "TypeSafe Jev as a decision layer for the Pi coding agent: a measured tool-call gate plus jev_ask for typed, calibrated answers",
     "stars": 151,
-    "forks": 11,
+    "forks": 13,
     "open_issues": 0,
     "topics": [
       "guardrails",

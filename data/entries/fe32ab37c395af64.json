@@ -1,0 +1,33 @@
+{
+  "id": "@inobit/pi-subagent-presets",
+  "name": "@inobit/pi-subagent-presets",
+  "url": "https://www.npmjs.com/package/@inobit/pi-subagent-presets",
+  "source": "npm-search",
+  "description": "Batch-configure the model and thinking level of pi-subagents agents per project, and export the result as a reusable global profile blueprint.",
+  "metadata": {
+    "github_url": "https://github.com/inobit/pi-packages",
+    "npm_name": "@inobit/pi-subagent-presets",
+    "description": "Batch-configure the model and thinking level of pi-subagents agents per project, and export the result as a reusable global profile blueprint.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "coding-agent",
+      "subagents",
+      "presets",
+      "model",
+      "thinking"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-29T09:16:39.097Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

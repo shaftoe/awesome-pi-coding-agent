@@ -1,0 +1,25 @@
+{
+  "id": "AeonDave-pi-persona",
+  "name": "AeonDave-pi-persona",
+  "url": "https://github.com/AeonDave/pi-persona",
+  "source": "github-search",
+  "description": "Supervised multi-agent orchestration for Pi — async workers, live steering, cross-session collaboration, and switchable personas.",
+  "metadata": {
+    "github_url": "https://github.com/AeonDave/pi-persona",
+    "repo_full_name": "AeonDave/pi-persona",
+    "description": "Supervised multi-agent orchestration for Pi — async workers, live steering, cross-session collaboration, and switchable personas.",
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-25T20:51:20Z",
+    "pushed_at": "2026-09-29T09:00:53Z",
+    "updated_at": "2026-09-29T09:01:00Z",
+    "size": 11266,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

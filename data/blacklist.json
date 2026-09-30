@@ -58809,5 +58809,225 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-coding-agent"
 		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@citie114514/pi-connect-trae",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-30T01:46:42.588Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/talhaumercop/workspace-pixal-theme",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-30T01:46:42.667Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=bYkJFfQANzc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-30T01:46:42.778Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Dwocvg8LHzA",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-09-30T01:46:42.803Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/sherif-fanous/pi-theme-sync",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-30T01:46:42.888Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/nue-ui-skill",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-30T01:46:42.908Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@flowot/pi-pition",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-30T01:46:42.927Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/leeguooooo/open-cross-session",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-30T01:46:42.96Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=GxbU7DzKJ48",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-30T01:46:43.019Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-extension-subagent",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-30T01:46:43.027Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=4SKWxN-Q5q4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-30T01:46:43.049Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Epsirom/braid",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-30T01:46:43.077Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=4YVeQf8huyM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-30T01:46:43.151Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=4R8qZGtEnAE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-30T01:46:43.201Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=SdNMuZ_y-PI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-30T01:46:43.215Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Faikuu/pi-faiku-theme",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-30T01:46:43.246Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=PI-S_qosSQo",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-30T01:46:43.29Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@minheng/hgg-pi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-30T01:46:43.343Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@citie114514/pi-connect-qoder",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-30T01:46:43.367Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@flowot/pition",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-09-30T01:46:43.377Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=zrk8L-q_fCU",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-09-30T01:46:43.428Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=0iXKydywfvQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-09-30T01:46:43.534Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
 	}
 ]

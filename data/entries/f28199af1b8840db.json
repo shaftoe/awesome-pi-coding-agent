@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ktappdev/pi-trajectory",
     "repo_full_name": "ktappdev/pi-trajectory",
     "description": "Trajectory For All — a browser-based inspection surface for pi coding agent sessions. Local-first, read-only, replay-only.",
-    "stars": 2,
+    "stars": 3,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-17T21:46:22Z",
     "pushed_at": "2026-08-23T04:50:13Z",
-    "updated_at": "2026-09-04T09:27:44Z",
+    "updated_at": "2026-09-29T17:07:49Z",
     "size": 649,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

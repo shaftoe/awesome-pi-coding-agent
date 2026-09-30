@@ -1,0 +1,25 @@
+{
+  "id": "huangboming-pi-agent-config",
+  "name": "huangboming-pi-agent-config",
+  "url": "https://github.com/huangboming/pi-agent-config",
+  "source": "github-search",
+  "description": "My Pi setup with custom extensions, workflows, themes, and pinned packages.",
+  "metadata": {
+    "github_url": "https://github.com/huangboming/pi-agent-config",
+    "repo_full_name": "huangboming/pi-agent-config",
+    "description": "My Pi setup with custom extensions, workflows, themes, and pinned packages.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-29T08:18:13Z",
+    "pushed_at": "2026-09-29T11:27:24Z",
+    "updated_at": "2026-09-29T11:27:29Z",
+    "size": 81,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "Claude-compatible subagent workflow for Pi",
     "stars": 1,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 0,
     "topics": [
       "ai-agent",
       "claude-compatible",
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-01T12:16:39Z",
-    "pushed_at": "2026-09-28T14:59:26Z",
-    "updated_at": "2026-09-28T14:24:01Z",
-    "size": 190,
+    "pushed_at": "2026-09-29T12:09:10Z",
+    "updated_at": "2026-09-29T12:09:13Z",
+    "size": 227,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

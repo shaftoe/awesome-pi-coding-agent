@@ -1,0 +1,35 @@
+{
+  "id": "ethan-yi-dev-KubeClue",
+  "name": "ethan-yi-dev-KubeClue",
+  "url": "https://github.com/ethan-yi-dev/KubeClue",
+  "source": "github-search",
+  "description": "Learn Pi-style agent loops through hands-on Kubernetes troubleshooting.",
+  "metadata": {
+    "github_url": "https://github.com/ethan-yi-dev/KubeClue",
+    "repo_full_name": "ethan-yi-dev/KubeClue",
+    "description": "Learn Pi-style agent loops through hands-on Kubernetes troubleshooting.",
+    "stars": 8,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-loop",
+      "educational",
+      "k8s",
+      "kind",
+      "kubernetes",
+      "kubernetes-troubleshooting",
+      "pi",
+      "piagent",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-31T06:08:25Z",
+    "pushed_at": "2026-09-30T01:08:13Z",
+    "updated_at": "2026-09-30T01:13:33Z",
+    "size": 47,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/grknbyk/pi-umbra",
     "repo_full_name": "grknbyk/pi-umbra",
     "description": "Dark themes and terminal extensions for the pi coding agent: tool calls as cards with diffs, a status footer, an input bar with the session name, a live working line and /umb-* commands.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -26,10 +26,10 @@
     "archived": false,
     "created_at": "2026-09-07T20:52:52Z",
     "pushed_at": "2026-09-28T13:47:33Z",
-    "updated_at": "2026-09-28T13:47:38Z",
+    "updated_at": "2026-09-29T04:57:38Z",
     "size": 3089,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "category": "extension"
 }

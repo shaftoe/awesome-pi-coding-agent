@@ -8,7 +8,7 @@
     "github_url": "https://github.com/backnotprop/pi-footer",
     "repo_full_name": "backnotprop/pi-footer",
     "description": "Claude Code style footer for Pi: monitors, sub-agents, update notice",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,10 +16,10 @@
     "archived": false,
     "created_at": "2026-09-19T05:32:29Z",
     "pushed_at": "2026-09-19T05:48:42Z",
-    "updated_at": "2026-09-20T07:11:35Z",
+    "updated_at": "2026-09-29T18:53:24Z",
     "size": 27,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "misc"
 }

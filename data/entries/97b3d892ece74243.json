@@ -3,11 +3,11 @@
   "name": "@edgehero/pi-dispatch",
   "url": "https://www.npmjs.com/package/@edgehero/pi-dispatch",
   "source": "npm-search",
-  "description": "Self-hosted job harness for the pi coding agent: a BullMQ worker that drains the queue, mints scoped forge tokens, and runs one container per job — plus the pi-dispatch CLI (init, up, doctor, service).",
+  "description": "The pi-dispatch worker and CLI: runs the pi coding agent as a self-hosted service, one locked down Docker or Podman container per job, with spend caps checked before anything is spent, plus init, up, doctor and service install.",
   "metadata": {
     "github_url": "https://github.com/edgehero/pi-dispatch",
     "npm_name": "@edgehero/pi-dispatch",
-    "description": "Self-hosted job harness for the pi coding agent: a BullMQ worker that drains the queue, mints scoped forge tokens, and runs one container per job — plus the pi-dispatch CLI (init, up, doctor, service).",
+    "description": "The pi-dispatch worker and CLI: runs the pi coding agent as a self-hosted service, one locked down Docker or Podman container per job, with spend caps checked before anything is spent, plus init, up, doctor and service install.",
     "keywords": [
       "pi",
       "pi-coding-agent",
@@ -24,13 +24,14 @@
       "bullmq",
       "cron",
       "docker",
-      "cli"
+      "cli",
+      "podman"
     ],
-    "version": "1.10.3",
-    "published_at": "2026-09-07T13:19:13.715Z",
+    "version": "2.0.0",
+    "published_at": "2026-09-29T13:19:29.559Z",
     "npm_downloads_monthly": 1967,
     "npm_downloads_weekly": 124,
-    "npm_score_final": 30.263731,
+    "npm_score_final": 30.670853,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

@@ -1,0 +1,29 @@
+{
+  "id": "pi-session-orchestrator",
+  "name": "pi-session-orchestrator",
+  "url": "https://www.npmjs.com/package/pi-session-orchestrator",
+  "source": "npm-search",
+  "description": "Explicit, durable coordinator and focused-session state for Pi",
+  "metadata": {
+    "github_url": "https://github.com/davidjadczyk/pi-session-orchestrator",
+    "npm_name": "pi-session-orchestrator",
+    "description": "Explicit, durable coordinator and focused-session state for Pi",
+    "keywords": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "orchestration",
+      "session-coordination"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-09-22T12:48:27.078Z",
+    "npm_downloads_monthly": 163,
+    "npm_downloads_weekly": 163,
+    "npm_score_final": 14.400911,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
