@@ -1,0 +1,25 @@
+{
+  "id": "NozomiX1-pi-packages",
+  "name": "NozomiX1-pi-packages",
+  "url": "https://github.com/NozomiX1/pi-packages",
+  "source": "github-search",
+  "description": "Pi extensions for Codex hosted web search and background subagents",
+  "metadata": {
+    "github_url": "https://github.com/NozomiX1/pi-packages",
+    "repo_full_name": "NozomiX1/pi-packages",
+    "description": "Pi extensions for Codex hosted web search and background subagents",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-30T04:38:19Z",
+    "pushed_at": "2026-09-30T04:40:25Z",
+    "updated_at": "2026-09-30T04:40:29Z",
+    "size": 92,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

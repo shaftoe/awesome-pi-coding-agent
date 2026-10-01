@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-cc-theme",
+  "name": "pi-cc-theme · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-cc-theme?type=theme&page=3",
+  "source": "brave-web-search",
+  "description": "Pi packages can execute code and influence agent behavior. Review the source before installing third-party packages. ... Full TUI theme companion to pi-cc-header — animated Pi logo header bundled with a blue accent color scheme.",
+  "metadata": {
+    "title": "pi-cc-theme · Packages · Pi",
+    "name": "pi-cc-theme · Packages · Pi",
+    "description": "Pi packages can execute code and influence agent behavior. Review the source before installing third-party packages. ... Full TUI theme companion to pi-cc-header — animated Pi logo header bundled with a blue accent color scheme.",
+    "published_at": null,
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-cc-theme?type=theme&page=3",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "category": "article"
+}

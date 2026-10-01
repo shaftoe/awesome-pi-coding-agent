@@ -1,0 +1,33 @@
+{
+  "id": "@qingwawangzi/pi-speedline",
+  "name": "@qingwawangzi/pi-speedline",
+  "url": "https://www.npmjs.com/package/@qingwawangzi/pi-speedline",
+  "source": "npm-search",
+  "description": "Unified pi speedometer: real-time calibrated tokens/s while streaming + exact per-turn TTFT and throughput in ONE theme-adaptive footer slot. Merges pi-tokens-per-second and pi-throughput-meter, timer-free.",
+  "metadata": {
+    "github_url": "https://github.com/wangcheng666/pi-speedline",
+    "npm_name": "@qingwawangzi/pi-speedline",
+    "description": "Unified pi speedometer: real-time calibrated tokens/s while streaming + exact per-turn TTFT and throughput in ONE theme-adaptive footer slot. Merges pi-tokens-per-second and pi-throughput-meter, timer-free.",
+    "keywords": [
+      "pi-speedline",
+      "speedline",
+      "pi-package",
+      "pi-extension",
+      "tokens-per-second",
+      "ttft",
+      "throughput",
+      "speedometer",
+      "status-bar"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-09-23T06:33:59.385Z",
+    "npm_downloads_monthly": 393,
+    "npm_downloads_weekly": 393,
+    "npm_score_final": 18.448952,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

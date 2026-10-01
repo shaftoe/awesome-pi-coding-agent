@@ -1,0 +1,30 @@
+{
+  "id": "@kivlor/pi-goal",
+  "name": "@kivlor/pi-goal",
+  "url": "https://www.npmjs.com/package/@kivlor/pi-goal",
+  "source": "npm-search",
+  "description": "Goal tracking for pi — set a goal, keep it in view, check it off",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@kivlor/pi-goal",
+    "description": "Goal tracking for pi — set a goal, keep it in view, check it off",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "goal",
+      "task-tracking"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-30T22:08:08.139Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

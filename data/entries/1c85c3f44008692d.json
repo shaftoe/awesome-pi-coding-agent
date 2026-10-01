@@ -10,7 +10,7 @@
     "description": "Worker observability daemon and runtime bridges for Herdr-managed coding agents.",
     "stars": 12,
     "forks": 1,
-    "open_issues": 2,
+    "open_issues": 0,
     "topics": [
       "herdr",
       "herdr-plugin",

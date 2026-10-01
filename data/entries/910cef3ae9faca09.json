@@ -10,7 +10,7 @@
     "description": "Universal mobile devtool for Agents & Humans - control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI",
     "stars": 434,
     "forks": 32,
-    "open_issues": 0,
+    "open_issues": 2,
     "topics": [
       "adb",
       "agent-skills",
@@ -30,9 +30,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-27T12:51:28Z",
-    "pushed_at": "2026-09-13T19:38:19Z",
-    "updated_at": "2026-09-29T14:42:06Z",
-    "size": 49385,
+    "pushed_at": "2026-09-30T22:01:38Z",
+    "updated_at": "2026-09-30T22:01:18Z",
+    "size": 49622,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

@@ -1,0 +1,28 @@
+{
+  "id": "@blackbird-merula/claudishlint",
+  "name": "@blackbird-merula/claudishlint",
+  "url": "https://www.npmjs.com/package/@blackbird-merula/claudishlint",
+  "source": "npm-search",
+  "description": "A Pi extension that lints agent responses for 'Claudish' prose and prompts a plain-English rewrite.",
+  "metadata": {
+    "github_url": "https://github.com/blackbird-merula/claudishlint",
+    "npm_name": "@blackbird-merula/claudishlint",
+    "description": "A Pi extension that lints agent responses for 'Claudish' prose and prompts a plain-English rewrite.",
+    "keywords": [
+      "pi-package",
+      "claudish",
+      "linter",
+      "extension"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-01T18:27:26.776Z",
+    "npm_downloads_monthly": 134,
+    "npm_downloads_weekly": 4,
+    "npm_score_final": 14.472605,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

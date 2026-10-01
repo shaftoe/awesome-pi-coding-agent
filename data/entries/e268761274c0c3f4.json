@@ -9,7 +9,7 @@
     "repo_full_name": "savka777/jev-search",
     "description": "Fast deep research for the pi coding agent: reads up to 100 pages in full per round, Jev keeps only the passages that answer your questions.",
     "stars": 5,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "deep-research",

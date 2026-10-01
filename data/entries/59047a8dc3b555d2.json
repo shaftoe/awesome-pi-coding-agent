@@ -1,0 +1,25 @@
+{
+  "id": "@ikuma.cloud/pix-websearch",
+  "name": "@ikuma.cloud/pix-websearch",
+  "url": "https://www.npmjs.com/package/@ikuma.cloud/pix-websearch",
+  "source": "npm-search",
+  "description": "Keyless multi-provider web search for Pi Coding Agent",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@ikuma.cloud/pix-websearch",
+    "description": "Keyless multi-provider web search for Pi Coding Agent",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.0.1",
+    "published_at": "2026-09-23T10:07:35.352Z",
+    "npm_downloads_monthly": 162,
+    "npm_downloads_weekly": 162,
+    "npm_score_final": 15.020349,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

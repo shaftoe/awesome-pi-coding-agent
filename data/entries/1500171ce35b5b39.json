@@ -1,0 +1,25 @@
+{
+  "id": "suenyiyang-suenyiyang-pi",
+  "name": "suenyiyang-suenyiyang-pi",
+  "url": "https://github.com/suenyiyang/suenyiyang-pi",
+  "source": "github-search",
+  "description": "suenyiyang's personal Pi coding agent preset — extensions, skills, prompts, and themes",
+  "metadata": {
+    "github_url": "https://github.com/suenyiyang/suenyiyang-pi",
+    "repo_full_name": "suenyiyang/suenyiyang-pi",
+    "description": "suenyiyang's personal Pi coding agent preset — extensions, skills, prompts, and themes",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-30T09:26:16Z",
+    "pushed_at": "2026-09-30T09:28:44Z",
+    "updated_at": "2026-09-30T09:28:48Z",
+    "size": 72,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

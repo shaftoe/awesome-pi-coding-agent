@@ -1,0 +1,31 @@
+{
+  "id": "@adeildo/pi-look",
+  "name": "@adeildo/pi-look",
+  "url": "https://www.npmjs.com/package/@adeildo/pi-look",
+  "source": "npm-search",
+  "description": "Pi's start screen, a framed editor and the footer, redrawn around the data that matters and painted only with the theme's colours.",
+  "metadata": {
+    "github_url": "https://github.com/felipeadeildo/pi-harness",
+    "npm_name": "@adeildo/pi-look",
+    "description": "Pi's start screen, a framed editor and the footer, redrawn around the data that matters and painted only with the theme's colours.",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "statusline",
+      "theme",
+      "tui"
+    ],
+    "version": "4.1.0",
+    "published_at": "2026-09-30T14:12:46.074Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
