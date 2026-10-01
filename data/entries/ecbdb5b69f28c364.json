@@ -1,0 +1,32 @@
+{
+  "id": "snorfyang-pi-switch",
+  "name": "snorfyang-pi-switch",
+  "url": "https://github.com/snorfyang/pi-switch",
+  "source": "github-search",
+  "description": "Keep multiple API keys per provider in Pi and automatically switch to the next one when a key runs out of quota or hits its rate limit.",
+  "metadata": {
+    "github_url": "https://github.com/snorfyang/pi-switch",
+    "repo_full_name": "snorfyang/pi-switch",
+    "description": "Keep multiple API keys per provider in Pi and automatically switch to the next one when a key runs out of quota or hits its rate limit.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "api-key",
+      "deepseek",
+      "key-rotation",
+      "key-switch",
+      "pi",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-30T12:16:49Z",
+    "pushed_at": "2026-09-30T14:28:58Z",
+    "updated_at": "2026-09-30T14:29:05Z",
+    "size": 178,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

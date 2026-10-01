@@ -1,0 +1,30 @@
+{
+  "id": "pi-commit-impact",
+  "name": "pi-commit-impact",
+  "url": "https://www.npmjs.com/package/pi-commit-impact",
+  "source": "npm-search",
+  "description": "Pi extension that estimates production regression risk for commits using Jev HTTP plus local heuristics.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-commit-impact",
+    "description": "Pi extension that estimates production regression risk for commits using Jev HTTP plus local heuristics.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "commit-impact",
+      "jev",
+      "risk"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-09-23T14:28:10.914Z",
+    "npm_downloads_monthly": 149,
+    "npm_downloads_weekly": 149,
+    "npm_score_final": 14.954241,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

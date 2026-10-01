@@ -22,7 +22,7 @@
     "created_at": "2026-06-29T07:15:03Z",
     "pushed_at": "2026-09-30T01:36:00Z",
     "updated_at": "2026-09-30T01:36:04Z",
-    "size": 328,
+    "size": 332,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

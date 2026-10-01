@@ -10,7 +10,7 @@
     "description": "Cross-harness research capability tools for Pi: WebSearch, WebFetch, CodeContextSearch, and SiteMap.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 1,
     "topics": [
       "brave-search",
       "exa",
@@ -21,11 +21,11 @@
       "research"
     ],
     "language": "TypeScript",
-    "archived": false,
+    "archived": true,
     "created_at": "2026-03-10T07:22:57Z",
-    "pushed_at": "2026-09-29T20:45:22Z",
-    "updated_at": "2026-09-29T20:45:19Z",
-    "size": 340,
+    "pushed_at": "2026-09-30T16:50:50Z",
+    "updated_at": "2026-09-30T18:49:15Z",
+    "size": 152,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

@@ -1,0 +1,26 @@
+{
+  "id": "csm-pi-session-monitor",
+  "name": "csm-pi-session-monitor",
+  "url": "https://www.npmjs.com/package/csm-pi-session-monitor",
+  "source": "npm-search",
+  "description": "Report pi session activity to Claude Session Monitor",
+  "metadata": {
+    "github_url": "https://github.com/simonrw/claude-session-monitor",
+    "npm_name": "csm-pi-session-monitor",
+    "description": "Report pi session activity to Claude Session Monitor",
+    "keywords": [
+      "pi-package",
+      "session-monitor"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-23T21:29:10.769Z",
+    "npm_downloads_monthly": 330,
+    "npm_downloads_weekly": 330,
+    "npm_score_final": 17.842535,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

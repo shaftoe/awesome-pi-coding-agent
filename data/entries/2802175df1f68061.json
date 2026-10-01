@@ -9,7 +9,7 @@
     "repo_full_name": "tuxevil/tuxevil-rotator",
     "description": "Multi-provider, multi-account AI proxy rotator with per-model routing, quota tracking, and provider compatibility.",
     "stars": 67,
-    "forks": 13,
+    "forks": 14,
     "open_issues": 0,
     "topics": [
       "ai",

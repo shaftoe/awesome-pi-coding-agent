@@ -1,0 +1,29 @@
+{
+  "id": "@viniciosrab/pi-claude-bridge",
+  "name": "@viniciosrab/pi-claude-bridge",
+  "url": "https://www.npmjs.com/package/@viniciosrab/pi-claude-bridge",
+  "source": "npm-search",
+  "description": "Pi extension that uses Claude Code (via Agent SDK) as a model provider and adds an AskClaude tool.",
+  "metadata": {
+    "github_url": "https://github.com/viniciosrab/pi-claude-bridge",
+    "npm_name": "@viniciosrab/pi-claude-bridge",
+    "description": "Pi extension that uses Claude Code (via Agent SDK) as a model provider and adds an AskClaude tool.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "claude-code",
+      "claude-agent-sdk"
+    ],
+    "version": "0.9.1",
+    "published_at": "2026-09-30T23:15:42.370Z",
+    "npm_downloads_monthly": 263,
+    "npm_downloads_weekly": 263,
+    "npm_score_final": 16.335638,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

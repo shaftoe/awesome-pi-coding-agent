@@ -1,0 +1,39 @@
+{
+  "id": "pi-macos-computer-use",
+  "name": "pi-macos-computer-use",
+  "url": "https://www.npmjs.com/package/pi-macos-computer-use",
+  "source": "npm-search",
+  "description": "AX-first macOS computer use for pi: accessibility snapshots with stable refs, background input that never moves your cursor, Unicode typing, menus, windows, apps, set-of-mark screenshots, on-device OCR, verified actions, a deterministic safety policy, and",
+  "metadata": {
+    "github_url": "https://github.com/Sur-Cai/macos-computer-use-kit",
+    "npm_name": "pi-macos-computer-use",
+    "description": "AX-first macOS computer use for pi: accessibility snapshots with stable refs, background input that never moves your cursor, Unicode typing, menus, windows, apps, set-of-mark screenshots, on-device OCR, verified actions, a deterministic safety policy, and",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "macos",
+      "computer-use",
+      "computer-use-agent",
+      "accessibility",
+      "accessibility-tree",
+      "automation",
+      "gui-automation",
+      "desktop-automation",
+      "ocr",
+      "agent-tools",
+      "jev",
+      "typesafe-ai",
+      "system-one-models"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-09-23T13:02:59.116Z",
+    "npm_downloads_monthly": 662,
+    "npm_downloads_weekly": 662,
+    "npm_score_final": 20.212852,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

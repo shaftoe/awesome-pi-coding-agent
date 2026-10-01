@@ -1,0 +1,30 @@
+{
+  "id": "@yangguang760/pi-teammate",
+  "name": "@yangguang760/pi-teammate",
+  "url": "https://www.npmjs.com/package/@yangguang760/pi-teammate",
+  "source": "npm-search",
+  "description": "Pi agent-to-agent team communication via shared SQLite message bus with MAMORU guardian — fork of pi-teammate with identity-takeover rejoin fix, presence leases, and an outbound watchdog",
+  "metadata": {
+    "github_url": "https://github.com/yangguang760/pi-teammate",
+    "npm_name": "@yangguang760/pi-teammate",
+    "description": "Pi agent-to-agent team communication via shared SQLite message bus with MAMORU guardian — fork of pi-teammate with identity-takeover rejoin fix, presence leases, and an outbound watchdog",
+    "keywords": [
+      "pi-package",
+      "teammate",
+      "multi-agent",
+      "agent",
+      "collaboration",
+      "mamoru"
+    ],
+    "version": "0.6.0",
+    "published_at": "2026-09-21T15:33:18.893Z",
+    "npm_downloads_monthly": 123,
+    "npm_downloads_weekly": 123,
+    "npm_score_final": 14.398203,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
