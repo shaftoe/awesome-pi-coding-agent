@@ -1,0 +1,30 @@
+{
+  "id": "pi-trim",
+  "name": "pi-trim",
+  "url": "https://www.npmjs.com/package/pi-trim",
+  "source": "npm-search",
+  "description": "Less Pi in Pi. Strip Pi-specific identity and documentation from the system prompt in memory.",
+  "metadata": {
+    "github_url": "https://github.com/zhexusun10/pi-trim",
+    "npm_name": "pi-trim",
+    "description": "Less Pi in Pi. Strip Pi-specific identity and documentation from the system prompt in memory.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-agent",
+      "pi-extension",
+      "coding-agent",
+      "system-prompt"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-01T16:50:42.720Z",
+    "npm_downloads_monthly": null,
+    "npm_downloads_weekly": null,
+    "npm_score_final": null,
+    "npm_score_popularity": null,
+    "npm_score_quality": null,
+    "npm_score_maintenance": null,
+    "discovery_hint": "npm:add-url"
+  },
+  "category": "extension"
+}
