@@ -59139,5 +59139,205 @@
 			"sourceName": "github",
 			"query": "github-repo:pi-agent language:TypeScript"
 		}
+	},
+	{
+		"url": "https://github.com/sindrip/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-02T01:54:57.996Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-extension-docs-skill",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-02T01:54:58.011Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=9RDb9Hiq_50",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-02T01:54:58.168Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-extension-plan-mode",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-02T01:54:58.195Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-zhiqi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-02T01:54:58.232Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/ChuxinNeko/NekoCodeDesktop",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-02T01:54:58.258Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/woshahua/pi-dotfiles",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-02T01:54:58.323Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/BalderSKY/Selkit",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-02T01:54:58.362Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/mayurathavale18/agent-bridge",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-02T01:54:58.384Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-webdav-backup",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-02T01:54:58.489Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Uo-pQr0WDx8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-02T01:54:58.541Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/mvschwarz/openrig",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-02T01:54:58.601Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pcl-connector-pi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-02T01:54:58.649Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/justhil/pi-app",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-02T01:54:58.707Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://pi.dev/models",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-02T01:54:58.764Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=rVjchfqVfpU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-02T01:54:58.788Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=_UmOY6ek_Y4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-02T01:54:58.834Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-zh-slash",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-02T01:54:58.854Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.aveva.com/en/products/aveva-pi-system/",
+		"reason": "industrial pi signal: \"aveva\"",
+		"blacklisted_at": "2026-10-02T01:54:58.894Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=gsH0_0gB4IY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-02T01:54:59.036Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
 	}
 ]

@@ -1,0 +1,28 @@
+{
+  "id": "pi-llm-rounds",
+  "name": "pi-llm-rounds",
+  "url": "https://www.npmjs.com/package/pi-llm-rounds",
+  "source": "npm-search",
+  "description": "Visualize pi's agent loop: live turn counter, per-LLM-call separators with tokens/duration/tools, run summaries, and /llm-stats.",
+  "metadata": {
+    "github_url": "https://github.com/nilpo/pi-llm-rounds",
+    "npm_name": "pi-llm-rounds",
+    "description": "Visualize pi's agent loop: live turn counter, per-LLM-call separators with tokens/duration/tools, run summaries, and /llm-stats.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "agent-loop",
+      "observability"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-24T05:54:28.340Z",
+    "npm_downloads_monthly": 153,
+    "npm_downloads_weekly": 153,
+    "npm_score_final": 14.988065,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

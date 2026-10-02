@@ -1,0 +1,31 @@
+{
+  "id": "pi-better-render",
+  "name": "pi-better-render",
+  "url": "https://www.npmjs.com/package/pi-better-render",
+  "source": "npm-search",
+  "description": "Streaming-first rich Markdown, code and math rendering for the pi TUI (display-only; never touches LLM context).",
+  "metadata": {
+    "github_url": "https://github.com/JeffeyChou/pi-better-render",
+    "npm_name": "pi-better-render",
+    "description": "Streaming-first rich Markdown, code and math rendering for the pi TUI (display-only; never touches LLM context).",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "markdown",
+      "latex",
+      "mathjax",
+      "kitty",
+      "ghostty"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-09-24T22:10:40.801Z",
+    "npm_downloads_monthly": 366,
+    "npm_downloads_weekly": 366,
+    "npm_score_final": 17.967081,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

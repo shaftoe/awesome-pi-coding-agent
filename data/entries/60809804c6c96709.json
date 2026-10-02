@@ -1,0 +1,30 @@
+{
+  "id": "@hheei/pi-settings",
+  "name": "@hheei/pi-settings",
+  "url": "https://www.npmjs.com/package/@hheei/pi-settings",
+  "source": "npm-search",
+  "description": "Settings surface host and Loadout policy for Pi extensions.",
+  "metadata": {
+    "github_url": "https://github.com/hheei/hepi-mono",
+    "npm_name": "@hheei/pi-settings",
+    "description": "Settings surface host and Loadout policy for Pi extensions.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "hepi",
+      "settings",
+      "loadout"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-09-24T15:01:33.279Z",
+    "npm_downloads_monthly": 233,
+    "npm_downloads_weekly": 187,
+    "npm_score_final": 16.62321,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

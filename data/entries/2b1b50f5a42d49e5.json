@@ -1,0 +1,37 @@
+{
+  "id": "dotcommander-pi-dc-distill",
+  "name": "dotcommander-pi-dc-distill",
+  "url": "https://github.com/dotcommander/pi-dc-distill",
+  "source": "github-search",
+  "description": "Deterministic, local context compaction for the Pi coding agent. No LLM calls; includes tool-output previews and project-scoped recall.",
+  "metadata": {
+    "github_url": "https://github.com/dotcommander/pi-dc-distill",
+    "repo_full_name": "dotcommander/pi-dc-distill",
+    "description": "Deterministic, local context compaction for the Pi coding agent. No LLM calls; includes tool-output previews and project-scoped recall.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "bun",
+      "context-compaction",
+      "context-management",
+      "developer-tools",
+      "local-first",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-16T16:54:25Z",
+    "pushed_at": "2026-10-02T01:48:38Z",
+    "updated_at": "2026-10-02T01:48:55Z",
+    "size": 780,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

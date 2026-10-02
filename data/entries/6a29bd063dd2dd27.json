@@ -1,0 +1,29 @@
+{
+  "id": "pi-commandcode-usage",
+  "name": "pi-commandcode-usage",
+  "url": "https://www.npmjs.com/package/pi-commandcode-usage",
+  "source": "npm-search",
+  "description": "Persistent Command Code usage line (5h / weekly / monthly quota bars) for the pi coding agent — auto-refreshing widget above the default footer",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-commandcode-usage",
+    "description": "Persistent Command Code usage line (5h / weekly / monthly quota bars) for the pi coding agent — auto-refreshing widget above the default footer",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "commandcode",
+      "usage",
+      "quota"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-09-17T11:45:23.289Z",
+    "npm_downloads_monthly": 233,
+    "npm_downloads_weekly": 21,
+    "npm_score_final": 16.331863,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

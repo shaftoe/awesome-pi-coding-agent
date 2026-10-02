@@ -1,0 +1,25 @@
+{
+  "id": "pi-typesafe-yolo",
+  "name": "pi-typesafe-yolo",
+  "url": "https://www.npmjs.com/package/pi-typesafe-yolo",
+  "source": "npm-search",
+  "description": "A natural-language approval filter for Pi, powered by TypeSafe AI.",
+  "metadata": {
+    "github_url": "https://github.com/yugapor/TypesafeYOLO",
+    "npm_name": "pi-typesafe-yolo",
+    "description": "A natural-language approval filter for Pi, powered by TypeSafe AI.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-24T08:12:28.911Z",
+    "npm_downloads_monthly": 157,
+    "npm_downloads_weekly": 157,
+    "npm_score_final": 14.977115,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "@sikongjueluo/pi-permission-ai-judge",
+  "name": "@sikongjueluo/pi-permission-ai-judge",
+  "url": "https://www.npmjs.com/package/@sikongjueluo/pi-permission-ai-judge",
+  "source": "npm-search",
+  "description": "pi extension: AI judge for pending Bash permission prompts — allow / deny / defer verdicts in shadow or enforce mode",
+  "metadata": {
+    "github_url": "https://github.com/SikongJueluo/pi-extensions",
+    "npm_name": "@sikongjueluo/pi-permission-ai-judge",
+    "description": "pi extension: AI judge for pending Bash permission prompts — allow / deny / defer verdicts in shadow or enforce mode",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.0.1",
+    "published_at": "2026-09-17T09:51:35.971Z",
+    "npm_downloads_monthly": 170,
+    "npm_downloads_weekly": 11,
+    "npm_score_final": 15.133578,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

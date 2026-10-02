@@ -10,7 +10,7 @@
     "description": "CLI relay for Claude Code, Codex, OpenCode, and pi. Delegate to Antigravity, Claude, Codex, Gemini, Ollama, OpenCode, or pi with streaming, sessions, and multi-agent teams.",
     "stars": 10,
     "forks": 3,
-    "open_issues": 1,
+    "open_issues": 5,
     "topics": [
       "agent-orchestration",
       "ai-agent",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-20T20:42:37Z",
-    "pushed_at": "2026-09-30T20:40:31Z",
+    "pushed_at": "2026-10-01T06:40:57Z",
     "updated_at": "2026-09-30T19:59:02Z",
-    "size": 11123,
+    "size": 11241,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

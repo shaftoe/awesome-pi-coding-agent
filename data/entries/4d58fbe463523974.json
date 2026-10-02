@@ -1,0 +1,37 @@
+{
+  "id": "@voidmob/mcp",
+  "name": "@voidmob/mcp",
+  "url": "https://www.npmjs.com/package/@voidmob/mcp",
+  "source": "npm-search",
+  "description": "Mobile proxies, non-VoIP SMS verifications, dedicated numbers, and global eSIMs for AI agents and MCP clients.",
+  "metadata": {
+    "github_url": "https://github.com/voidmobcom/voidmob-mcp",
+    "npm_name": "@voidmob/mcp",
+    "description": "Mobile proxies, non-VoIP SMS verifications, dedicated numbers, and global eSIMs for AI agents and MCP clients.",
+    "keywords": [
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "ai-agents",
+      "sms",
+      "sms-verification",
+      "otp",
+      "non-voip",
+      "proxy",
+      "mobile-proxy",
+      "esim",
+      "privacy",
+      "pi-package"
+    ],
+    "version": "1.2.1",
+    "published_at": "2026-10-01T14:40:21.940Z",
+    "npm_downloads_monthly": 701,
+    "npm_downloads_weekly": 471,
+    "npm_score_final": 20.444763,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}
