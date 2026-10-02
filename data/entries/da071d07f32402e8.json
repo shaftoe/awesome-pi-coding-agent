@@ -1,0 +1,32 @@
+{
+  "id": "@brglng/pi-model-discovery",
+  "name": "@brglng/pi-model-discovery",
+  "url": "https://www.npmjs.com/package/@brglng/pi-model-discovery",
+  "source": "npm-search",
+  "description": "Model auto-discovery for Pi using only models.json — no extension development needed",
+  "metadata": {
+    "github_url": "https://github.com/brglng/pi-model-discovery",
+    "npm_name": "@brglng/pi-model-discovery",
+    "description": "Model auto-discovery for Pi using only models.json — no extension development needed",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "coding-agent",
+      "model-discovery",
+      "models-json",
+      "openai",
+      "anthropic"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-03T16:50:53.690Z",
+    "npm_downloads_monthly": 253,
+    "npm_downloads_weekly": 11,
+    "npm_score_final": 16.427109,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

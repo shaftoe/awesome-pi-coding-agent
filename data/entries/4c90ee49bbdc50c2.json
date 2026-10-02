@@ -1,0 +1,33 @@
+{
+  "id": "@liuser/pi-mcp-adapter",
+  "name": "@liuser/pi-mcp-adapter",
+  "url": "https://www.npmjs.com/package/@liuser/pi-mcp-adapter",
+  "source": "npm-search",
+  "description": "MCP (Model Context Protocol) adapter extension for Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/liu-zhengdong/pi-mcp-adapter",
+    "npm_name": "@liuser/pi-mcp-adapter",
+    "description": "MCP (Model Context Protocol) adapter extension for Pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "mcp",
+      "model-context-protocol",
+      "ai",
+      "coding-agent",
+      "extension",
+      "claude",
+      "llm"
+    ],
+    "version": "2.34.1",
+    "published_at": "2026-09-17T03:15:37.331Z",
+    "npm_downloads_monthly": 267,
+    "npm_downloads_weekly": 35,
+    "npm_score_final": 16.776821,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

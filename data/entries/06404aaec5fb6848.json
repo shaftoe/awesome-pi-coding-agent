@@ -1,0 +1,30 @@
+{
+  "id": "@adeildo/pi-ask-questions",
+  "name": "@adeildo/pi-ask-questions",
+  "url": "https://www.npmjs.com/package/@adeildo/pi-ask-questions",
+  "source": "npm-search",
+  "description": "Lets the model ask you instead of guessing: options with a preview of each, a note on any of them, and your own answer, in a dialog that scrolls with the chat.",
+  "metadata": {
+    "github_url": "https://github.com/felipeadeildo/pi-harness",
+    "npm_name": "@adeildo/pi-ask-questions",
+    "description": "Lets the model ask you instead of guessing: options with a preview of each, a note on any of them, and your own answer, in a dialog that scrolls with the chat.",
+    "keywords": [
+      "ask-user-question",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "questionnaire"
+    ],
+    "version": "5.0.0",
+    "published_at": "2026-10-01T17:31:15.112Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

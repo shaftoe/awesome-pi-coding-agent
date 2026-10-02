@@ -1,0 +1,26 @@
+{
+  "id": "pi-work-modes",
+  "name": "pi-work-modes",
+  "url": "https://www.npmjs.com/package/pi-work-modes",
+  "source": "npm-search",
+  "description": "Workflow modes for Pi with tool policies and best-effort shell filters",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-work-modes",
+    "description": "Workflow modes for Pi with tool policies and best-effort shell filters",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.1.0-rc.1",
+    "published_at": "2026-09-24T20:48:00.147Z",
+    "npm_downloads_monthly": 148,
+    "npm_downloads_weekly": 148,
+    "npm_score_final": 15.057486,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

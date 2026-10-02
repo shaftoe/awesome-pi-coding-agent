@@ -9,7 +9,7 @@
     "repo_full_name": "pasky/pi-gondolin",
     "description": "Pi coding agent extension: run tools inside a Gondolin micro-VM sandbox",
     "stars": 18,
-    "forks": 2,
+    "forks": 1,
     "open_issues": 1,
     "topics": [],
     "language": "TypeScript",

@@ -1,0 +1,27 @@
+{
+  "id": "ewgdg-pi-durable-subagents",
+  "name": "ewgdg-pi-durable-subagents",
+  "url": "https://github.com/ewgdg/pi-durable-subagents",
+  "source": "github-search",
+  "description": "Durable Pi agents that collaborate asynchronously under explicit Owner and Spawner supervision.",
+  "metadata": {
+    "github_url": "https://github.com/ewgdg/pi-durable-subagents",
+    "repo_full_name": "ewgdg/pi-durable-subagents",
+    "description": "Durable Pi agents that collaborate asynchronously under explicit Owner and Spawner supervision.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-25T04:57:35Z",
+    "pushed_at": "2026-10-02T01:42:28Z",
+    "updated_at": "2026-10-02T01:42:32Z",
+    "size": 4916,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

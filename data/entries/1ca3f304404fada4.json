@@ -1,0 +1,31 @@
+{
+  "id": "hendrik-bene-perdok-pi-hostyourai-provider",
+  "name": "hendrik-bene-perdok-pi-hostyourai-provider",
+  "url": "https://github.com/hendrik-bene-perdok/pi-hostyourai-provider",
+  "source": "github-search",
+  "description": "Unofficial Pi provider extension for HostYourAI with API-key login and live discovery of available chat models.",
+  "metadata": {
+    "github_url": "https://github.com/hendrik-bene-perdok/pi-hostyourai-provider",
+    "repo_full_name": "hendrik-bene-perdok/pi-hostyourai-provider",
+    "description": "Unofficial Pi provider extension for HostYourAI with API-key login and live discovery of available chat models.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-provider",
+      "hostyourai",
+      "pi",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-01T04:55:10Z",
+    "pushed_at": "2026-10-01T06:51:07Z",
+    "updated_at": "2026-10-01T07:15:38Z",
+    "size": 14,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pi-gearshift",
+  "name": "pi-gearshift",
+  "url": "https://www.npmjs.com/package/pi-gearshift",
+  "source": "npm-search",
+  "description": "Automatic per-turn model and thinking-level routing for Pi, powered by Jev",
+  "metadata": {
+    "github_url": "https://github.com/iharuya/pi-gearshift",
+    "npm_name": "pi-gearshift",
+    "description": "Automatic per-turn model and thinking-level routing for Pi, powered by Jev",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "jev",
+      "typesafe",
+      "model-routing"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-09-24T17:55:20.684Z",
+    "npm_downloads_monthly": 357,
+    "npm_downloads_weekly": 357,
+    "npm_score_final": 17.926607,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

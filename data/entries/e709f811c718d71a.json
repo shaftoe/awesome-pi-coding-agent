@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_innobu.com_pi-coding-agent-minimalismhtml",
+  "name": "Pi Coding Agent: The Harness That Extends Itself | innobu",
+  "url": "https://www.innobu.com/en/articles/pi-coding-agent-minimalism.html",
+  "source": "brave-web-search",
+  "description": "How the Pi coding harness and OpenClaw use a sub-1,000-token system prompt to build self-extending AI. A practical look at minimalist agentic architecture.",
+  "metadata": {
+    "title": "Pi Coding Agent: The Harness That Extends Itself | innobu",
+    "name": "Pi Coding Agent: The Harness That Extends Itself | innobu",
+    "description": "How the Pi coding harness and OpenClaw use a sub-1,000-token system prompt to build self-extending AI. A practical look at minimalist agentic architecture.",
+    "published_at": "2026-02-15T00:00:00",
+    "source_site": "innobu",
+    "source_url": "https://www.innobu.com/en/articles/pi-coding-agent-minimalism.html",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

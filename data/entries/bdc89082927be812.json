@@ -1,0 +1,40 @@
+{
+  "id": "@sentiolabs/pi-code-quality",
+  "name": "@sentiolabs/pi-code-quality",
+  "url": "https://www.npmjs.com/package/@sentiolabs/pi-code-quality",
+  "source": "npm-search",
+  "description": "Pi skills and prompts for deep multi-lens code review, advisory AI-slop and driver-curation assessment, and PR/branch size analysis.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@sentiolabs/pi-code-quality",
+    "description": "Pi skills and prompts for deep multi-lens code review, advisory AI-slop and driver-curation assessment, and PR/branch size analysis.",
+    "keywords": [
+      "pi-package",
+      "pi-skill",
+      "code-quality",
+      "code-review",
+      "deep-review",
+      "security-review",
+      "ai-slop",
+      "ai-authorship",
+      "driver-curation",
+      "idiom-fluency",
+      "solution-fit",
+      "architecture-review",
+      "pr-size",
+      "branch-review",
+      "stacked-prs",
+      "reviewability"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-09-17T21:38:50.612Z",
+    "npm_downloads_monthly": 300,
+    "npm_downloads_weekly": 15,
+    "npm_score_final": 17.191345,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
