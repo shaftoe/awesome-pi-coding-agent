@@ -3,15 +3,15 @@
   "name": "Top 10 Pi Agent Extensions Every Developers Must Install | Composio",
   "url": "https://composio.dev/content/top-pi-extensions",
   "source": "brave-web-search",
-  "description": "I tested the most popular Pi Agent extensions and picked 10 worth installing for MCP, sub-agents, web access, security, planning, and more.",
+  "description": "The core gives the model exactly four tools. read, write, edit, and bash. That’s it. Everything else comes from packages you install yourself. This sounds a bit too weird or limiting, whatever you wanna call it, but only till you realise the pi.dev catalogue already has 5,000+ packages.",
   "metadata": {
     "title": "Top 10 Pi Agent Extensions Every Developers Must Install | Composio",
     "name": "Top 10 Pi Agent Extensions Every Developers Must Install | Composio",
-    "description": "I tested the most popular Pi Agent extensions and picked 10 worth installing for MCP, sub-agents, web access, security, planning, and more.",
+    "description": "The core gives the model exactly four tools. read, write, edit, and bash. That’s it. Everything else comes from packages you install yourself. This sounds a bit too weird or limiting, whatever you wanna call it, but only till you realise the pi.dev catalogue already has 5,000+ packages.",
     "published_at": "2026-08-17T00:00:00",
     "source_site": "Composio",
     "source_url": "https://composio.dev/content/top-pi-extensions",
-    "discovery_hint": "brave:pi-agent"
+    "discovery_hint": "brave:pi-package"
   },
   "category": "article"
 }

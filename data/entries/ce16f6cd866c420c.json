@@ -1,0 +1,25 @@
+{
+  "id": "pi-jev-guardian",
+  "name": "pi-jev-guardian",
+  "url": "https://www.npmjs.com/package/pi-jev-guardian",
+  "source": "npm-search",
+  "description": "Fail-closed JEV checks for Pi tool calls",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-jev-guardian",
+    "description": "Fail-closed JEV checks for Pi tool calls",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-09-25T11:16:03.720Z",
+    "npm_downloads_monthly": 673,
+    "npm_downloads_weekly": 673,
+    "npm_score_final": 20.058615,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

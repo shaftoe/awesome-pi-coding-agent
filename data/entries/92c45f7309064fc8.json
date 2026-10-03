@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_compact",
+  "name": "@pify/compact · Packages · Pi",
+  "url": "https://pi.dev/packages/@pify/compact",
+  "source": "brave-web-search",
+  "description": "Review the source before installing third-party packages. Proactive auto-compaction for pi: when the context window crosses a threshold, compact between turns so a long session never stalls at the wall or forces a restart.",
+  "metadata": {
+    "title": "@pify/compact · Packages · Pi",
+    "name": "@pify/compact · Packages · Pi",
+    "description": "Review the source before installing third-party packages. Proactive auto-compaction for pi: when the context window crosses a threshold, compact between turns so a long session never stalls at the wall or forces a restart.",
+    "published_at": "2026-09-26T18:13:53",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/@pify/compact",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}

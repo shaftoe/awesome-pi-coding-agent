@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_aitinkerers.org_pi-agent",
+  "name": "Pi Agent Projects",
+  "url": "https://aitinkerers.org/technologies/pi-agent",
+  "source": "brave-web-search",
+  "description": "Pi strips away the bloat of heavy AI platforms, delivering a fast, keyboard-first coding assistant built for your existing terminal setup. Operating directly within your local environment, it reads and writes files, runs shell commands, and manages project directories using your preferred LLM providers (including Anthropic and OpenAI). Developers can easily customize the agent ...",
+  "metadata": {
+    "title": "Pi Agent Projects",
+    "name": "Pi Agent Projects",
+    "description": "Pi strips away the bloat of heavy AI platforms, delivering a fast, keyboard-first coding assistant built for your existing terminal setup. Operating directly within your local environment, it reads and writes files, runs shell commands, and manages project directories using your preferred LLM providers (including Anthropic and OpenAI). Developers can easily customize the agent ...",
+    "published_at": "2026-10-01T08:42:00",
+    "source_site": "AI Tinkerers",
+    "source_url": "https://aitinkerers.org/technologies/pi-agent",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

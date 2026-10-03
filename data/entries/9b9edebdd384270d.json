@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_earendil.com_pi-1-0",
+  "name": "Pi 1.0 | Earendil",
+  "url": "https://earendil.com/posts/pi-1-0/",
+  "source": "brave-web-search",
+  "description": "Today we are shipping Pi 1.0, a hardened, minimal, extensible agent harness, alongside Pi Durable, a new experimental substrate for long-running agentic applications.",
+  "metadata": {
+    "title": "Pi 1.0 | Earendil",
+    "name": "Pi 1.0 | Earendil",
+    "description": "Today we are shipping Pi 1.0, a hardened, minimal, extensible agent harness, alongside Pi Durable, a new experimental substrate for long-running agentic applications.",
+    "published_at": "2026-10-01T19:18:04",
+    "source_site": "Earendil",
+    "source_url": "https://earendil.com/posts/pi-1-0/",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

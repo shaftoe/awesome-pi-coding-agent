@@ -10,7 +10,7 @@
     "description": "Steel browser automation tools for the Pi coding agent.",
     "stars": 2,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 3,
     "topics": [
       "agent",
       "agentic-ai",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-29T14:32:57Z",
-    "pushed_at": "2026-07-29T15:20:24Z",
+    "pushed_at": "2026-10-02T07:56:33Z",
     "updated_at": "2026-08-03T18:23:41Z",
-    "size": 172,
+    "size": 222,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

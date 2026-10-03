@@ -1,0 +1,32 @@
+{
+  "id": "@black942026/pi-ask-user",
+  "name": "@black942026/pi-ask-user",
+  "url": "https://www.npmjs.com/package/@black942026/pi-ask-user",
+  "source": "npm-search",
+  "description": "AskUser - a route-forced ask-user interaction component/tool for Pi extensions (custom TUI or native dialogs)",
+  "metadata": {
+    "github_url": "https://github.com/black-94/pi-ask-user",
+    "npm_name": "@black942026/pi-ask-user",
+    "description": "AskUser - a route-forced ask-user interaction component/tool for Pi extensions (custom TUI or native dialogs)",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "ask_user",
+      "AskUser",
+      "interactive"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-02T11:56:13.074Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
