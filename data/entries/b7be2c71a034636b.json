@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_techzine.eu_pi-1-0-will-include-mcp-and-a-dedicated-",
+  "name": "Pi 1.0 will include MCP and a dedicated layer for long-running AI agents - Techzine Global",
+  "url": "https://www.techzine.eu/news/devops/144715/pi-1-0-will-include-mcp-and-a-dedicated-layer-for-long-running-ai-agents/",
+  "source": "brave-web-search",
+  "description": "Pi 1.0 will support the Model Context Protocol (MCP). Developer Earendil is also adding Codemode to control tools and introducing Pi Durable, an experimental component for AI agents that need to remain active for extended periods.",
+  "metadata": {
+    "title": "Pi 1.0 will include MCP and a dedicated layer for long-running AI agents - Techzine Global",
+    "name": "Pi 1.0 will include MCP and a dedicated layer for long-running AI agents - Techzine Global",
+    "description": "Pi 1.0 will support the Model Context Protocol (MCP). Developer Earendil is also adding Codemode to control tools and introducing Pi Durable, an experimental component for AI agents that need to remain active for extended periods.",
+    "published_at": "2026-10-02T09:33:03",
+    "source_site": "Techzine Global",
+    "source_url": "https://www.techzine.eu/news/devops/144715/pi-1-0-will-include-mcp-and-a-dedicated-layer-for-long-running-ai-agents/",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

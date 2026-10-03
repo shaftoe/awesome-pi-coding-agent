@@ -3,11 +3,11 @@
   "name": "Pi Coding Agent Review: Minimal, Hackable AI Coding CLI - Rost Glukhov | AI Systems & Infrastructure",
   "url": "https://www.glukhov.org/ai-devtools/pi/pi-coding-agent-review/",
   "source": "brave-web-search",
-  "description": "Pi Coding Agent review with quickstart, security notes, model support, extensions, sessions, and a practical verdict on this open-source terminal agent.",
+  "description": "Existing code forces the agent to discover constraints, preserve behaviour, choose relevant files and verify its work. Pi’s most important architectural idea is that the coding agent itself should remain editable.",
   "metadata": {
     "title": "Pi Coding Agent Review: Minimal, Hackable AI Coding CLI - Rost Glukhov | AI Systems & Infrastructure",
     "name": "Pi Coding Agent Review: Minimal, Hackable AI Coding CLI - Rost Glukhov | AI Systems & Infrastructure",
-    "description": "Pi Coding Agent review with quickstart, security notes, model support, extensions, sessions, and a practical verdict on this open-source terminal agent.",
+    "description": "Existing code forces the agent to discover constraints, preserve behaviour, choose relevant files and verify its work. Pi’s most important architectural idea is that the coding agent itself should remain editable.",
     "published_at": null,
     "source_site": "Rost Glukhov",
     "source_url": "https://www.glukhov.org/ai-devtools/pi/pi-coding-agent-review/",

@@ -1,0 +1,20 @@
+{
+  "id": "HN_49937304",
+  "name": "Show HN: pi pod – run your pi coding agent in sandboxes on your own server",
+  "url": "https://pipod.dev/",
+  "source": "hackernews-search",
+  "description": "pi pod runs sessions of the pi coding agent (https://github.com/earendil-works/pi) in isolated sandboxes (\"pods\") on a server you run, so an agent can work on a repo without touching your machine.",
+  "metadata": {
+    "title": "Show HN: pi pod – run your pi coding agent in sandboxes on your own server",
+    "name": "Show HN: pi pod – run your pi coding agent in sandboxes on your own server",
+    "description": "pi pod runs sessions of the pi coding agent (https://github.com/earendil-works/pi) in isolated sandboxes (\"pods\") on a server you run, so an agent can work on a repo without touching your machine.",
+    "author": "edverma2",
+    "published_at": "2026-10-02T19:10:38Z",
+    "points": 5,
+    "num_comments": 2,
+    "hn_id": "49937304",
+    "external_url": "https://pipod.dev/",
+    "discovery_hint": "hackernews:pi-coding-agent"
+  },
+  "category": "article"
+}

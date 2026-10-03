@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Professional three-mode thinking-step rendering for Pi's TUI.",
   "metadata": {
-    "github_url": "https://github.com/fluxgear/pi-thinking-steps",
+    "github_url": "https://github.com/crustyhacker/pi-thinking-steps",
     "npm_name": "pi-thinking-steps",
     "description": "Professional three-mode thinking-step rendering for Pi's TUI.",
     "keywords": [
@@ -16,11 +16,11 @@
       "thinking",
       "tui"
     ],
-    "version": "1.0.14",
-    "published_at": "2026-10-01T23:23:20.148Z",
+    "version": "1.0.17",
+    "published_at": "2026-10-02T18:57:24.294Z",
     "npm_downloads_monthly": 195,
     "npm_downloads_weekly": 36,
-    "npm_score_final": 15.7106085,
+    "npm_score_final": 15.473126,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

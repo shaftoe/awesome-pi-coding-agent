@@ -1,0 +1,38 @@
+{
+  "id": "dogalyir-pi-gather-smart-objects",
+  "name": "dogalyir-pi-gather-smart-objects",
+  "url": "https://github.com/dogalyir/pi-gather-smart-objects",
+  "source": "github-search",
+  "description": "Pi Coding Agent extension to control Gather 2.0 Smart Objects via visual presence hooks, custom status, and activity feed.",
+  "metadata": {
+    "github_url": "https://github.com/dogalyir/pi-gather-smart-objects",
+    "repo_full_name": "dogalyir/pi-gather-smart-objects",
+    "description": "Pi Coding Agent extension to control Gather 2.0 Smart Objects via visual presence hooks, custom status, and activity feed.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "automation",
+      "coding-agent",
+      "gather",
+      "gather-town",
+      "pi-extension",
+      "pi-package",
+      "presence",
+      "smart-objects",
+      "typescript",
+      "valibot",
+      "webhook-objects"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-02T12:06:50Z",
+    "pushed_at": "2026-10-02T12:34:03Z",
+    "updated_at": "2026-10-02T12:33:54Z",
+    "size": 83,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "@leo-alvarenga/pi-sqlite",
+  "name": "@leo-alvarenga/pi-sqlite",
+  "url": "https://www.npmjs.com/package/@leo-alvarenga/pi-sqlite",
+  "source": "npm-search",
+  "description": "Lightweight SQLite wrapper for pi extensions with TypeBox schema migration",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@leo-alvarenga/pi-sqlite",
+    "description": "Lightweight SQLite wrapper for pi extensions with TypeBox schema migration",
+    "keywords": [
+      "pi-extension",
+      "pi-package",
+      "pi",
+      "sqlite"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-09-25T15:34:08.754Z",
+    "npm_downloads_monthly": 288,
+    "npm_downloads_weekly": 288,
+    "npm_score_final": 16.618263,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pi-perimeter",
+  "name": "pi-perimeter",
+  "url": "https://www.npmjs.com/package/pi-perimeter",
+  "source": "npm-search",
+  "description": "Workspace-first authorization, scoped approvals, and macOS shell containment for Pi (formerly pi-warden). See SECURITY.md and docs/COMPATIBILITY.md for verified versions and limits.",
+  "metadata": {
+    "github_url": "https://github.com/hiyotim/pi-perimeter",
+    "npm_name": "pi-perimeter",
+    "description": "Workspace-first authorization, scoped approvals, and macOS shell containment for Pi (formerly pi-warden). See SECURITY.md and docs/COMPATIBILITY.md for verified versions and limits.",
+    "keywords": [
+      "pi-package",
+      "pi-perimeter"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-10-02T19:46:26.651Z",
+    "npm_downloads_monthly": 337,
+    "npm_downloads_weekly": 337,
+    "npm_score_final": 17.68562,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

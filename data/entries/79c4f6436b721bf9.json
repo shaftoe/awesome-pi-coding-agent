@@ -1,0 +1,20 @@
+{
+  "id": "YT_rIzbixCoSEs",
+  "name": "Pi Agent 1.0: It Refused MCP. Now It Ships It",
+  "url": "https://youtube.com/watch?v=rIzbixCoSEs",
+  "source": "youtube-search",
+  "description": "Pi Agent 1.0 ships MCP through Codemode, and Pi Durable (a separate, experimental library) lets agents survive crashes.",
+  "metadata": {
+    "title": "Pi Agent 1.0: It Refused MCP. Now It Ships It",
+    "name": "Pi Agent 1.0: It Refused MCP. Now It Ships It",
+    "description": "Pi Agent 1.0 ships MCP through Codemode, and Pi Durable (a separate, experimental library) lets agents survive crashes.",
+    "channel": "Runtime Stack",
+    "published_at": "2026-10-02T15:48:00Z",
+    "thumbnail": "https://i.ytimg.com/vi/rIzbixCoSEs/hqdefault.jpg",
+    "views": 227,
+    "likes": 0,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "category": "video"
+}

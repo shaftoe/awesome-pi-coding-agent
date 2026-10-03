@@ -12,14 +12,15 @@
     "forks": 10,
     "open_issues": 0,
     "topics": [
-      "pi"
+      "pi",
+      "pi-desktop"
     ],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-11T07:55:43Z",
-    "pushed_at": "2026-09-24T13:37:07Z",
-    "updated_at": "2026-10-01T08:26:50Z",
-    "size": 7130,
+    "pushed_at": "2026-10-02T08:31:07Z",
+    "updated_at": "2026-10-02T08:28:14Z",
+    "size": 7284,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

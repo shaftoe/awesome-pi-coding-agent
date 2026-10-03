@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_agent-sandbox.sigs.k8s.io_pi-code-agent",
+  "name": "Pi Code Agent Sandbox Example | Agent Sandbox",
+  "url": "https://agent-sandbox.sigs.k8s.io/docs/use-cases/examples/pi-code-agent/",
+  "source": "brave-web-search",
+  "description": "This example demonstrates how to run Pi, a terminal-based coding agent from Earendil Works, inside the Agent Sandbox using Pi's Plain Docker containerization pattern.",
+  "metadata": {
+    "title": "Pi Code Agent Sandbox Example | Agent Sandbox",
+    "name": "Pi Code Agent Sandbox Example | Agent Sandbox",
+    "description": "This example demonstrates how to run Pi, a terminal-based coding agent from Earendil Works, inside the Agent Sandbox using Pi's Plain Docker containerization pattern.",
+    "published_at": "2026-08-15T00:00:00",
+    "source_site": "Agent Sandbox",
+    "source_url": "https://agent-sandbox.sigs.k8s.io/docs/use-cases/examples/pi-code-agent/",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

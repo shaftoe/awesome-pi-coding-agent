@@ -8,7 +8,7 @@
     "github_url": "https://github.com/joaomj/pi-claude-directsdk",
     "repo_full_name": "joaomj/pi-claude-directsdk",
     "description": "Use your claude sub with Pi without breaking Anthropic ToS.",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-09-23T02:11:42Z",
     "pushed_at": "2026-09-28T14:42:37Z",
-    "updated_at": "2026-09-29T18:46:41Z",
+    "updated_at": "2026-10-02T18:29:03Z",
     "size": 122,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
