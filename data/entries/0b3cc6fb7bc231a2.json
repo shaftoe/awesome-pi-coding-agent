@@ -1,0 +1,20 @@
+{
+  "id": "YT_e7p3uAnhPX8",
+  "name": "21ms vs 300ms: The Pi Coding Agent, Rebuilt as One Go Binary",
+  "url": "https://youtube.com/watch?v=e7p3uAnhPX8",
+  "source": "youtube-search",
+  "description": "Pi, the minimal terminal coding agent, now runs as one native Go binary called PiG. It answers a version check in 21.5 ...",
+  "metadata": {
+    "title": "21ms vs 300ms: The Pi Coding Agent, Rebuilt as One Go Binary",
+    "name": "21ms vs 300ms: The Pi Coding Agent, Rebuilt as One Go Binary",
+    "description": "Pi, the minimal terminal coding agent, now runs as one native Go binary called PiG. It answers a version check in 21.5 ...",
+    "channel": "AILoop",
+    "published_at": "2026-10-03T16:06:12Z",
+    "thumbnail": "https://i.ytimg.com/vi/e7p3uAnhPX8/hqdefault.jpg",
+    "views": 23,
+    "likes": 0,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-coding-agent"
+  },
+  "category": "video"
+}

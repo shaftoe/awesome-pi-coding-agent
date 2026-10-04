@@ -1,0 +1,27 @@
+{
+  "id": "@nicknisi/pi-heads-up",
+  "name": "@nicknisi/pi-heads-up",
+  "url": "https://www.npmjs.com/package/@nicknisi/pi-heads-up",
+  "source": "npm-search",
+  "description": "A side agent that flags, above the editor, things you might miss during long tasks",
+  "metadata": {
+    "github_url": "https://github.com/nicknisi/pi-extensions",
+    "npm_name": "@nicknisi/pi-heads-up",
+    "description": "A side agent that flags, above the editor, things you might miss during long tasks",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-package"
+    ],
+    "version": "0.0.0",
+    "published_at": "2026-10-03T20:56:32.692Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

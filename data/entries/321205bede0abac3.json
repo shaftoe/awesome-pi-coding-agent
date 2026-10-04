@@ -1,0 +1,33 @@
+{
+  "id": "@tokentop/agent-pi",
+  "name": "@tokentop/agent-pi",
+  "url": "https://www.npmjs.com/package/@tokentop/agent-pi",
+  "source": "npm-search",
+  "description": "Pi coding agent session and token tracking for tokentop",
+  "metadata": {
+    "github_url": "https://github.com/tokentopapp/agent-pi",
+    "npm_name": "@tokentop/agent-pi",
+    "description": "Pi coding agent session and token tracking for tokentop",
+    "keywords": [
+      "tokentop",
+      "plugin",
+      "agent",
+      "pi",
+      "pi-coding-agent",
+      "earendil",
+      "ai",
+      "llm",
+      "token-usage"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-03T19:10:14.504Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "misc"
+}

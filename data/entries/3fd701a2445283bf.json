@@ -8,7 +8,7 @@
     "github_url": "https://github.com/3x-haust/oh-my-design",
     "repo_full_name": "3x-haust/oh-my-design",
     "description": "Design cognition loop for Codex, Claude Code, and Pi-compatible agents — frame, diverge, see, reframe",
-    "stars": 197,
+    "stars": 198,
     "forks": 16,
     "open_issues": 1,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-07-10T08:15:57Z",
     "pushed_at": "2026-09-29T06:05:02Z",
-    "updated_at": "2026-10-02T12:54:46Z",
+    "updated_at": "2026-10-03T03:22:02Z",
     "size": 9128,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

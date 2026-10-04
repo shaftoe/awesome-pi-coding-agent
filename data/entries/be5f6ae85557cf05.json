@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-packages-manager",
+  "name": "pi-packages-manager · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-packages-manager",
+  "source": "brave-web-search",
+  "description": "Pi packages can execute code and influence agent behavior.",
+  "metadata": {
+    "title": "pi-packages-manager · Packages · Pi",
+    "name": "pi-packages-manager · Packages · Pi",
+    "description": "Pi packages can execute code and influence agent behavior.",
+    "published_at": "2026-06-15T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-packages-manager",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}

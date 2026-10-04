@@ -3,23 +3,23 @@
   "name": "brl-subagent",
   "url": "https://www.npmjs.com/package/brl-subagent",
   "source": "npm-search",
-  "description": "Subagent extension for pi with configurable model and thinking mode via selection UI",
+  "description": "Subagent delegation for pi — blocking or background runs, chain/parallel/graph modes, presets and task templates, live monitor, and dispatch capability guards.",
   "metadata": {
     "github_url": "https://github.com/azmeenafandi/brl-subagent",
     "npm_name": "brl-subagent",
-    "description": "Subagent extension for pi with configurable model and thinking mode via selection UI",
+    "description": "Subagent delegation for pi — blocking or background runs, chain/parallel/graph modes, presets and task templates, live monitor, and dispatch capability guards.",
     "keywords": [
       "pi-package"
     ],
-    "version": "2.3.9",
-    "published_at": "2026-09-27T01:35:37.521Z",
-    "npm_downloads_monthly": 812,
-    "npm_downloads_weekly": 348,
-    "npm_score_final": 20.437742,
+    "version": "2.4.0",
+    "published_at": "2026-10-03T02:23:13.105Z",
+    "npm_downloads_monthly": 1067,
+    "npm_downloads_weekly": 249,
+    "npm_score_final": 21.159311,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "extension"
+  "category": "misc"
 }
