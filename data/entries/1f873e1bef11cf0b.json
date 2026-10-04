@@ -9,7 +9,7 @@
     "repo_full_name": "lutfi-zain/pi-opencode-fix",
     "description": "Fix HTTP 429 FreeUsageLimitError when using OpenCode Zen / DeepSeek models in Pi Coding Agent and Oh My Pi (omp)",
     "stars": 10,
-    "forks": 1,
+    "forks": 2,
     "open_issues": 0,
     "topics": [
       "deepseek",

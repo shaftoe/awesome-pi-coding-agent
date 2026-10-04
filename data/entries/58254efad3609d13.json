@@ -10,7 +10,7 @@
     "description": "Self-hosted mission control for AI coding agents: run Claude Code, OpenCode, Pi, Codex, and Antigravity & Gemini CLI 24/7, from any device, watch every subagent live",
     "stars": 783,
     "forks": 113,
-    "open_issues": 27,
+    "open_issues": 31,
     "topics": [
       "agent",
       "ai-agents",

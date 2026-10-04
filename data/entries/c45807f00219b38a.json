@@ -3,11 +3,11 @@
   "name": "Pi Coding Agent",
   "url": "https://pi.dev/packages/pi-agents",
   "source": "brave-web-search",
-  "description": "Delegate a review of src/run to an agent. Review src/run and src/ui in parallel, then merge the findings. Pi starts workflows only when you ask for delegation, parallel agents, or a saved workflow.",
+  "description": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours. A generic framework for agent orchestration in pi.Packages",
   "metadata": {
     "title": "Pi Coding Agent",
     "name": "Pi Coding Agent",
-    "description": "Delegate a review of src/run to an agent. Review src/run and src/ui in parallel, then merge the findings. Pi starts workflows only when you ask for delegation, parallel agents, or a saved workflow.",
+    "description": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours. A generic framework for agent orchestration in pi.Packages",
     "published_at": "2026-08-29T00:00:00",
     "source_site": "Pi",
     "source_url": "https://pi.dev/packages/pi-agents",

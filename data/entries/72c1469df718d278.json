@@ -1,0 +1,25 @@
+{
+  "id": "zhaoshuaishuai956-pi-kit",
+  "name": "zhaoshuaishuai956-pi-kit",
+  "url": "https://github.com/zhaoshuaishuai956/pi-kit",
+  "source": "github-search",
+  "description": "Portable Pi coding-agent UI kit: theme, statusline, Chinese command menu, usage bar, council advisors — clone as PI_CODING_AGENT_DIR and it auto-syncs on startup.",
+  "metadata": {
+    "github_url": "https://github.com/zhaoshuaishuai956/pi-kit",
+    "repo_full_name": "zhaoshuaishuai956/pi-kit",
+    "description": "Portable Pi coding-agent UI kit: theme, statusline, Chinese command menu, usage bar, council advisors — clone as PI_CODING_AGENT_DIR and it auto-syncs on startup.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-04T01:03:42Z",
+    "pushed_at": "2026-10-04T01:24:46Z",
+    "updated_at": "2026-10-04T01:24:50Z",
+    "size": 29,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

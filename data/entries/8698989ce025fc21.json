@@ -10,7 +10,7 @@
     "description": "Automatic isolated secondary review for Pi coding agent sessions",
     "stars": 4,
     "forks": 3,
-    "open_issues": 7,
+    "open_issues": 6,
     "topics": [
       "advisor",
       "ai-agent",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-16T02:29:06Z",
-    "pushed_at": "2026-10-02T11:48:22Z",
-    "updated_at": "2026-09-02T01:59:11Z",
-    "size": 1630,
+    "pushed_at": "2026-10-03T03:54:37Z",
+    "updated_at": "2026-10-03T03:50:33Z",
+    "size": 1280,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

@@ -8,9 +8,9 @@
     "github_url": "https://github.com/NomenAK/jev-tools",
     "repo_full_name": "NomenAK/jev-tools",
     "description": "Six evidence-oriented tools for pi and omp coding agents, compatible with the Jev API format.",
-    "stars": 3,
+    "stars": 5,
     "forks": 1,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "code-review",
       "coding-agents",
@@ -24,11 +24,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-02T09:54:54Z",
-    "pushed_at": "2026-10-02T18:37:52Z",
-    "updated_at": "2026-10-02T18:37:55Z",
-    "size": 730,
+    "pushed_at": "2026-10-03T13:46:16Z",
+    "updated_at": "2026-10-03T13:34:13Z",
+    "size": 15900,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

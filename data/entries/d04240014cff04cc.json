@@ -8,7 +8,7 @@
     "title": "Pi Coding Agent",
     "name": "Pi Coding Agent",
     "description": "Pi's minimal system prompt and extensibility let you do actual context engineering. Control what goes into the context window and how it's managed. AGENTS.md: Project instructions loaded at startup from ~/.pi/agent/, parent directories, and the current directory.",
-    "published_at": "2026-10-02T18:08:00",
+    "published_at": "2026-10-03T17:33:55",
     "source_site": "Pi",
     "source_url": "http://pi.dev/",
     "discovery_hint": "brave:pi-agent"

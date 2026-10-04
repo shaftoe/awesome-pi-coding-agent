@@ -1,0 +1,25 @@
+{
+  "id": "just-joshn-pi-customizations",
+  "name": "just-joshn-pi-customizations",
+  "url": "https://github.com/just-joshn/pi-customizations",
+  "source": "github-search",
+  "description": "Extensions, themes, and skills for Pi, the coding agent by Earendil Works. This repository is a personal setup, published as is. Every piece installs separately, so you can take one extension or all of them.",
+  "metadata": {
+    "github_url": "https://github.com/just-joshn/pi-customizations",
+    "repo_full_name": "just-joshn/pi-customizations",
+    "description": "Extensions, themes, and skills for Pi, the coding agent by Earendil Works. This repository is a personal setup, published as is. Every piece installs separately, so you can take one extension or all of them.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-25T20:18:32Z",
+    "pushed_at": "2026-10-04T02:02:48Z",
+    "updated_at": "2026-10-04T01:40:21Z",
+    "size": 8425,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -59529,5 +59529,165 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-package"
 		}
+	},
+	{
+		"url": "https://github.com/NunoFAntunes/PictioTheme",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-04T02:16:36.56Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=jUxWCcSQA68",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-04T02:16:36.572Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5DdZGTgVrlU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-04T02:16:36.635Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@zhushanwen/pi-notify-ledger-host",
+		"reason": "pi network crypto signal: \"pi app\"",
+		"blacklisted_at": "2026-10-04T02:16:36.688Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/fabric-runtime/pi-fovea",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-04T02:16:36.716Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=EOZqTwCukf0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-04T02:16:36.727Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=PpZ0-3W1s6o",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-04T02:16:36.801Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=u2sbzYgREtQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-04T02:16:36.834Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/aldinelabs/pine",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-04T02:16:36.841Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/xMuelsysex/pi-muelsyse-macaron",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-04T02:16:36.928Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/mgpai22/supership",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-10-04T02:16:36.954Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.pi.fyi/ask/cmma3li6m0qx1qo3ki3c10xa2",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-04T02:16:36.961Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=khrRkXyJ_-I",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-04T02:16:36.991Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=RaKnJJrcYpY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-04T02:16:37.012Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=e__vQjoBdx4",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-10-04T02:16:37.127Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=UYxGdHlATZo",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-10-04T02:16:37.141Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
 	}
 ]

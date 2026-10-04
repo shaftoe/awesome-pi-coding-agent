@@ -10,7 +10,7 @@
     "description": " A non-linear AI agent workbench — session is a tree: branch anytime, and context follows the branch",
     "stars": 189,
     "forks": 13,
-    "open_issues": 8,
+    "open_issues": 9,
     "topics": [
       "ai-agent",
       "pi-agent",
@@ -19,9 +19,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-04T08:20:23Z",
-    "pushed_at": "2026-10-02T22:32:14Z",
-    "updated_at": "2026-10-02T22:32:21Z",
-    "size": 4586,
+    "pushed_at": "2026-10-03T09:44:06Z",
+    "updated_at": "2026-10-03T09:44:11Z",
+    "size": 4702,
     "license": "MPL-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

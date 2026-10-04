@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_codeagentswarm.com_pi-coding-agent-on-linux",
+  "name": "How to Install Pi Coding Agent on Linux (2026)",
+  "url": "https://www.codeagentswarm.com/en/guides/pi-coding-agent-on-linux",
+  "source": "brave-web-search",
+  "description": "Install Pi coding agent on Linux with the official installer or npm. Requirements, /login over SSH, common Linux errors and how to run several Pi sessions at once.",
+  "metadata": {
+    "title": "How to Install Pi Coding Agent on Linux (2026)",
+    "name": "How to Install Pi Coding Agent on Linux (2026)",
+    "description": "Install Pi coding agent on Linux with the official installer or npm. Requirements, /login over SSH, common Linux errors and how to run several Pi sessions at once.",
+    "published_at": "2026-09-29T19:27:36",
+    "source_site": "CodeAgentSwarm",
+    "source_url": "https://www.codeagentswarm.com/en/guides/pi-coding-agent-on-linux",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

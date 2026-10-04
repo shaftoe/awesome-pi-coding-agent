@@ -1,0 +1,29 @@
+{
+  "id": "@eagle4302/pi-recap",
+  "name": "@eagle4302/pi-recap",
+  "url": "https://www.npmjs.com/package/@eagle4302/pi-recap",
+  "source": "npm-search",
+  "description": "Grok-style recap block after every exchange for the pi coding agent: a cheap model writes a 2-4 line status summary at the end of each reply.",
+  "metadata": {
+    "github_url": "https://github.com/eagle4302/pi-recap",
+    "npm_name": "@eagle4302/pi-recap",
+    "description": "Grok-style recap block after every exchange for the pi coding agent: a cheap model writes a 2-4 line status summary at the end of each reply.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "recap",
+      "summary",
+      "grok"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-26T08:31:21.602Z",
+    "npm_downloads_monthly": 321,
+    "npm_downloads_weekly": 321,
+    "npm_score_final": 17.03147,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
