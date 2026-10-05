@@ -1,0 +1,31 @@
+{
+  "id": "szxypi-pi-warm-ui",
+  "name": "szxypi-pi-warm-ui",
+  "url": "https://github.com/szxypi/pi-warm-ui",
+  "source": "github-search",
+  "description": "Warm, low-glare themes and a quiet one-line footer for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/szxypi/pi-warm-ui",
+    "repo_full_name": "szxypi/pi-warm-ui",
+    "description": "Warm, low-glare themes and a quiet one-line footer for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-agent",
+      "pi-extension",
+      "pi-package",
+      "theme",
+      "tui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-04T14:49:58Z",
+    "pushed_at": "2026-10-04T16:45:44Z",
+    "updated_at": "2026-10-04T16:45:47Z",
+    "size": 1823,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "misc"
+}

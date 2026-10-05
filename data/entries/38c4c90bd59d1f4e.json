@@ -1,0 +1,25 @@
+{
+  "id": "pi-focus-mode",
+  "name": "pi-focus-mode",
+  "url": "https://www.npmjs.com/package/pi-focus-mode",
+  "source": "npm-search",
+  "description": "Keep Pi exchanges focused with foldable progress and stats.",
+  "metadata": {
+    "github_url": "https://github.com/ezoushen/pi-extensions",
+    "npm_name": "pi-focus-mode",
+    "description": "Keep Pi exchanges focused with foldable progress and stats.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-10-04T17:28:24.591Z",
+    "npm_downloads_monthly": 414,
+    "npm_downloads_weekly": 333,
+    "npm_score_final": 17.731195,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

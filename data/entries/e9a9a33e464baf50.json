@@ -1,0 +1,25 @@
+{
+  "id": "pi-gauge",
+  "name": "pi-gauge",
+  "url": "https://www.npmjs.com/package/pi-gauge",
+  "source": "npm-search",
+  "description": "pi extension: live LLM latency (TTFT) and throughput (tokens/sec) in the status bar",
+  "metadata": {
+    "github_url": "https://github.com/championswimmer/pi-gauge",
+    "npm_name": "pi-gauge",
+    "description": "pi extension: live LLM latency (TTFT) and throughput (tokens/sec) in the status bar",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-09-27T20:05:49.655Z",
+    "npm_downloads_monthly": 824,
+    "npm_downloads_weekly": 824,
+    "npm_score_final": 19.85344,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

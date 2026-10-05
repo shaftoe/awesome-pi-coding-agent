@@ -1,0 +1,29 @@
+{
+  "id": "supanadit-morse",
+  "name": "supanadit-morse",
+  "url": "https://github.com/supanadit/morse",
+  "source": "github-search",
+  "description": "A comfortable GUI for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/supanadit/morse",
+    "repo_full_name": "supanadit/morse",
+    "description": "A comfortable GUI for the Pi coding agent",
+    "stars": 2,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "angular",
+      "nestjs",
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-03T01:20:46Z",
+    "pushed_at": "2026-10-04T17:18:36Z",
+    "updated_at": "2026-10-04T17:18:40Z",
+    "size": 10669,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

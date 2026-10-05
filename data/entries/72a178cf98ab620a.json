@@ -1,0 +1,33 @@
+{
+  "id": "pi-click-model",
+  "name": "pi-click-model",
+  "url": "https://www.npmjs.com/package/pi-click-model",
+  "source": "npm-search",
+  "description": "Click the badges in Pi's footer to switch models and thinking levels with the mouse (fullscreen TUI).",
+  "metadata": {
+    "github_url": "https://github.com/q107580018/pi-click-model",
+    "npm_name": "pi-click-model",
+    "description": "Click the badges in Pi's footer to switch models and thinking levels with the mouse (fullscreen TUI).",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "extension",
+      "model",
+      "model-switch",
+      "thinking-level",
+      "mouse",
+      "tui",
+      "footer"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-04T16:12:02.250Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
