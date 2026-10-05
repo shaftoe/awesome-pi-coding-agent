@@ -1,0 +1,25 @@
+{
+  "id": "Rousseau512-pi-kitty-theme-sync",
+  "name": "Rousseau512-pi-kitty-theme-sync",
+  "url": "https://github.com/Rousseau512/pi-kitty-theme-sync",
+  "source": "github-search",
+  "description": "Pi extension that generates a pi theme from the colors of the current Kitty window.",
+  "metadata": {
+    "github_url": "https://github.com/Rousseau512/pi-kitty-theme-sync",
+    "repo_full_name": "Rousseau512/pi-kitty-theme-sync",
+    "description": "Pi extension that generates a pi theme from the colors of the current Kitty window.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-04T10:09:22Z",
+    "pushed_at": "2026-10-04T10:09:28Z",
+    "updated_at": "2026-10-04T10:09:33Z",
+    "size": 7,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

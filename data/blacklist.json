@@ -17460,7 +17460,7 @@
 	},
 	{
 		"url": "https://youtube.com/watch?v=MxdQFYnPC4I",
-		"reason": "Non-English title/description (Turkish): Pi Kodlama Ajanı - ÇOK DAHA İYİ",
+		"reason": "Non-English title/description (Turkish): Pi Kodlama Ajan\u0131 - \u00c7OK DAHA \u0130Y\u0130",
 		"blacklisted_at": "2026-05-03T08:08:58.969Z",
 		"source": "manual"
 	},
@@ -18430,7 +18430,7 @@
 	},
 	{
 		"url": "https://github.com/marcos2872/agents-config",
-		"reason": "non-english language (Portuguese): Configuração pessoal do pi coding agent",
+		"reason": "non-english language (Portuguese): Configura\u00e7\u00e3o pessoal do pi coding agent",
 		"blacklisted_at": "2026-05-06T14:42:20.298Z",
 		"source": "manual"
 	},
@@ -19268,7 +19268,7 @@
 	},
 	{
 		"url": "https://www.npmjs.com/package/file-upload-cli",
-		"reason": "Not related to Pi coding agent — generic file upload CLI tool for litterbox.catbox.moe",
+		"reason": "Not related to Pi coding agent \u2014 generic file upload CLI tool for litterbox.catbox.moe",
 		"blacklisted_at": "2026-05-09T07:57:32.562Z",
 		"source": "manual"
 	},
@@ -20576,7 +20576,7 @@
 	},
 	{
 		"url": "https://pi.dev/packages/pi-subagents",
-		"reason": "Duplicate ID BRAVE_pi.dev_pi-subagents — keeping @tintinweb/pi-subagents variant",
+		"reason": "Duplicate ID BRAVE_pi.dev_pi-subagents \u2014 keeping @tintinweb/pi-subagents variant",
 		"blacklisted_at": "2026-05-12T07:08:34.353Z",
 		"source": "manual"
 	},
@@ -22192,7 +22192,7 @@
 	},
 	{
 		"url": "https://github.com/marcos2872/pi-config",
-		"reason": "Non-English content: description is in Portuguese (Configuração pessoal do pi coding agent)",
+		"reason": "Non-English content: description is in Portuguese (Configura\u00e7\u00e3o pessoal do pi coding agent)",
 		"blacklisted_at": "2026-05-19T00:12:19.303Z",
 		"source": "manual"
 	},
@@ -25880,19 +25880,19 @@
 	},
 	{
 		"url": "https://www.npmjs.com/package/pi-minimodel-ocr",
-		"reason": "Deprecated — migrated to pi-ocr",
+		"reason": "Deprecated \u2014 migrated to pi-ocr",
 		"blacklisted_at": "2026-06-01T00:08:40.53Z",
 		"source": "manual"
 	},
 	{
 		"url": "https://www.npmjs.com/package/pi-immediate-compaction",
-		"reason": "Duplicate of github.com/buihongduc132/pi-immediate-compaction — keeping GitHub-sourced entry",
+		"reason": "Duplicate of github.com/buihongduc132/pi-immediate-compaction \u2014 keeping GitHub-sourced entry",
 		"blacklisted_at": "2026-06-01T00:08:45.94Z",
 		"source": "manual"
 	},
 	{
 		"url": "https://github.com/AaronCQL/pim-agent",
-		"reason": "Duplicate of npmjs.com/package/@aaroncql/pim-agent — keeping npm-sourced entry with higher stars",
+		"reason": "Duplicate of npmjs.com/package/@aaroncql/pim-agent \u2014 keeping npm-sourced entry with higher stars",
 		"blacklisted_at": "2026-06-01T00:08:51.337Z",
 		"source": "manual"
 	},
@@ -27352,7 +27352,7 @@
 	},
 	{
 		"url": "https://www.npmjs.com/package/@by-lua/lspec-pi",
-		"reason": "Non-English description (Portuguese): contains 'para PI.dev', 'bloqueante', 'obrigatório'",
+		"reason": "Non-English description (Portuguese): contains 'para PI.dev', 'bloqueante', 'obrigat\u00f3rio'",
 		"blacklisted_at": "2026-06-09T14:44:42.965Z",
 		"source": "manual"
 	},
@@ -29136,7 +29136,7 @@
 	},
 	{
 		"url": "https://pypi.org/project/pi-coding-agent/",
-		"reason": "Different Python project on PyPI — the pi.dev coding agent is a TypeScript/npm tool, not a Python package",
+		"reason": "Different Python project on PyPI \u2014 the pi.dev coding agent is a TypeScript/npm tool, not a Python package",
 		"blacklisted_at": "2026-06-16T00:33:54.162Z",
 		"source": "manual"
 	},
@@ -29930,7 +29930,7 @@
 	},
 	{
 		"url": "https://youtube.com/watch?v=xLS4A-ydlFs",
-		"reason": "Not about Pi coding agent — covers FreeBuff, an unrelated tool",
+		"reason": "Not about Pi coding agent \u2014 covers FreeBuff, an unrelated tool",
 		"blacklisted_at": "2026-06-18T00:18:19.718Z",
 		"source": "manual"
 	},
@@ -31070,7 +31070,7 @@
 	},
 	{
 		"url": "https://youtube.com/watch?v=tdG6u999wzU",
-		"reason": "Non-English content: title and description are in Italian (Perché Tutti Stanno Passando a Pi Agent)",
+		"reason": "Non-English content: title and description are in Italian (Perch\u00e9 Tutti Stanno Passando a Pi Agent)",
 		"blacklisted_at": "2026-06-20T00:10:36.784Z",
 		"source": "manual"
 	},
@@ -32014,7 +32014,7 @@
 	},
 	{
 		"url": "https://www.npmjs.com/package/aibp-opencode",
-		"reason": "Not about Pi coding agent — this is an AIBP receiver extension for opencode, not Pi",
+		"reason": "Not about Pi coding agent \u2014 this is an AIBP receiver extension for opencode, not Pi",
 		"blacklisted_at": "2026-06-23T00:08:22.505Z",
 		"source": "manual"
 	},
@@ -32140,7 +32140,7 @@
 	},
 	{
 		"url": "https://www.npmjs.com/package/dataforseo-api-cli",
-		"reason": "Not relevant to Pi coding agent — generic SEO/keyword-research CLI tool for DataForSEO API, 'pi-package' keyword is spam/keyword-stuffing",
+		"reason": "Not relevant to Pi coding agent \u2014 generic SEO/keyword-research CLI tool for DataForSEO API, 'pi-package' keyword is spam/keyword-stuffing",
 		"blacklisted_at": "2026-06-23T23:58:09.946Z",
 		"source": "manual"
 	},
@@ -32348,13 +32348,13 @@
 	},
 	{
 		"url": "https://youtube.com/watch?v=UHrkAMXsn_0",
-		"reason": "Not about Pi coding agent — musical clip video unrelated to pi.dev",
+		"reason": "Not about Pi coding agent \u2014 musical clip video unrelated to pi.dev",
 		"blacklisted_at": "2026-06-25T00:13:17.244Z",
 		"source": "manual"
 	},
 	{
 		"url": "https://youtube.com/watch?v=Bns3-MEDn4w",
-		"reason": "Not about Pi coding agent — unrelated video about personal pi",
+		"reason": "Not about Pi coding agent \u2014 unrelated video about personal pi",
 		"blacklisted_at": "2026-06-25T00:13:20.124Z",
 		"source": "manual"
 	},
@@ -32722,7 +32722,7 @@
 	},
 	{
 		"url": "https://youtube.com/watch?v=mFqEAwyWabY",
-		"reason": "Not about pi.dev coding agent — this is about Pluto7's supply-chain 'Pi Agent' product built on Google Cloud Gemini (inventory cost reduction), unrelated to the Pi coding agent at pi.dev",
+		"reason": "Not about pi.dev coding agent \u2014 this is about Pluto7's supply-chain 'Pi Agent' product built on Google Cloud Gemini (inventory cost reduction), unrelated to the Pi coding agent at pi.dev",
 		"blacklisted_at": "2026-06-27T00:06:44.961Z",
 		"source": "manual"
 	},
@@ -33884,7 +33884,7 @@
 	},
 	{
 		"url": "https://youtube.com/watch?v=q_WNUUY06SY",
-		"reason": "Not about the Pi coding agent (pi.dev) — this is about 'Pi Agent by Plexara Hub', a social media content planning tool",
+		"reason": "Not about the Pi coding agent (pi.dev) \u2014 this is about 'Pi Agent by Plexara Hub', a social media content planning tool",
 		"blacklisted_at": "2026-06-29T00:08:56.916Z",
 		"source": "manual"
 	},
@@ -34880,7 +34880,7 @@
 	},
 	{
 		"url": "https://www.npmjs.com/package/@burmese/pi",
-		"reason": "Not about the Pi coding agent — GitHub repo is 'pet-assistant', empty description, likely a Burmese-language pet assistant unrelated to pi.dev",
+		"reason": "Not about the Pi coding agent \u2014 GitHub repo is 'pet-assistant', empty description, likely a Burmese-language pet assistant unrelated to pi.dev",
 		"blacklisted_at": "2026-07-03T00:08:08.032Z",
 		"source": "manual"
 	},
@@ -36150,7 +36150,7 @@
 	},
 	{
 		"url": "https://youtube.com/watch?v=fyrloZ_R6QA",
-		"reason": "Not about Pi coding agent — Dynasty Warriors video-game OST ('Xia Pi' is a place name), matched only on the search term 'pi-theme'",
+		"reason": "Not about Pi coding agent \u2014 Dynasty Warriors video-game OST ('Xia Pi' is a place name), matched only on the search term 'pi-theme'",
 		"blacklisted_at": "2026-07-07T00:08:41.777Z",
 		"source": "manual"
 	},
@@ -36990,7 +36990,7 @@
 	},
 	{
 		"url": "https://www.npmjs.com/package/jianying-subtitle",
-		"reason": "Not relevant to Pi coding agent — standalone audio/video transcription CLI tool using JianYing/CapCut ASR API",
+		"reason": "Not relevant to Pi coding agent \u2014 standalone audio/video transcription CLI tool using JianYing/CapCut ASR API",
 		"blacklisted_at": "2026-07-09T00:12:33.689Z",
 		"source": "manual"
 	},
@@ -37608,7 +37608,7 @@
 	},
 	{
 		"url": "https://www.npmjs.com/package/@devflow-tools/claude-code-plugin",
-		"reason": "Not about Pi coding agent — this is a Claude Code plugin",
+		"reason": "Not about Pi coding agent \u2014 this is a Claude Code plugin",
 		"blacklisted_at": "2026-07-10T00:04:49.119Z",
 		"source": "manual"
 	},
@@ -37914,7 +37914,7 @@
 	},
 	{
 		"url": "https://youtube.com/watch?v=U458hd9IFZg",
-		"reason": "Title and description in Spanish — non-English entry",
+		"reason": "Title and description in Spanish \u2014 non-English entry",
 		"blacklisted_at": "2026-07-10T23:59:38.374Z",
 		"source": "manual"
 	},
@@ -41250,7 +41250,7 @@
 	},
 	{
 		"url": "https://youtube.com/watch?v=lVqn6Jjaf4c",
-		"reason": "Not about the Pi coding agent (pi.dev) — this is Pluto7's supply chain 'PI Agent' with Gemini/AlphaEvolve, completely unrelated",
+		"reason": "Not about the Pi coding agent (pi.dev) \u2014 this is Pluto7's supply chain 'PI Agent' with Gemini/AlphaEvolve, completely unrelated",
 		"blacklisted_at": "2026-07-27T00:03:46.713Z",
 		"source": "manual"
 	},
@@ -41426,7 +41426,7 @@
 	},
 	{
 		"url": "https://www.npmjs.com/package/pi-huly",
-		"reason": "Non-English description (Vietnamese): Native Huly support cho pi-coding-agent — tools + skills + subagent (KHÔNG MCP, gọi thẳng WebSocket API)",
+		"reason": "Non-English description (Vietnamese): Native Huly support cho pi-coding-agent \u2014 tools + skills + subagent (KH\u00d4NG MCP, g\u1ecdi th\u1eb3ng WebSocket API)",
 		"blacklisted_at": "2026-07-28T00:05:44.098Z",
 		"source": "manual"
 	},
@@ -44046,25 +44046,25 @@
 	},
 	{
 		"url": "https://pypi.org/project/pi-agent/",
-		"reason": "Not about the Pi coding agent (pi.dev) — this is a separate Python library 'pi-agent' for building AI agents, unrelated to pi.dev",
+		"reason": "Not about the Pi coding agent (pi.dev) \u2014 this is a separate Python library 'pi-agent' for building AI agents, unrelated to pi.dev",
 		"blacklisted_at": "2026-08-06T00:04:29.65Z",
 		"source": "manual"
 	},
 	{
 		"url": "https://pluto7.com/pi-agent/",
-		"reason": "Not about the Pi coding agent (pi.dev) — this is Pluto7's supply chain 'Pi Agent' product for autonomous commerce, unrelated to pi.dev",
+		"reason": "Not about the Pi coding agent (pi.dev) \u2014 this is Pluto7's supply chain 'Pi Agent' product for autonomous commerce, unrelated to pi.dev",
 		"blacklisted_at": "2026-08-06T00:04:29.686Z",
 		"source": "manual"
 	},
 	{
 		"url": "https://pi.gate.ac.uk/pages/package.html",
-		"reason": "Not about the Pi coding agent (pi.dev) — about packaging Debian software for Raspberry Pi",
+		"reason": "Not about the Pi coding agent (pi.dev) \u2014 about packaging Debian software for Raspberry Pi",
 		"blacklisted_at": "2026-08-06T00:04:29.705Z",
 		"source": "manual"
 	},
 	{
 		"url": "https://youtube.com/watch?v=em8w0SwgT5Q",
-		"reason": "Not about the Pi coding agent (pi.dev) — about 'Litos', a separate C#/.NET coding agent, not Pi",
+		"reason": "Not about the Pi coding agent (pi.dev) \u2014 about 'Litos', a separate C#/.NET coding agent, not Pi",
 		"blacklisted_at": "2026-08-06T00:04:39.439Z",
 		"source": "manual"
 	},
@@ -44290,7 +44290,7 @@
 	},
 	{
 		"url": "https://developer.puter.com/labs/node/",
-		"reason": "Not about the pi.dev coding agent — Node.js browser runtime that only mentions Pi Agent in passing",
+		"reason": "Not about the pi.dev coding agent \u2014 Node.js browser runtime that only mentions Pi Agent in passing",
 		"blacklisted_at": "2026-08-07T01:49:58.285Z",
 		"source": "manual"
 	},
@@ -49408,7 +49408,7 @@
 	},
 	{
 		"url": "https://youtube.com/watch?v=8GyJXCG0umk",
-		"reason": "Not Pi coding agent — Beta Theta Pi fraternity theme",
+		"reason": "Not Pi coding agent \u2014 Beta Theta Pi fraternity theme",
 		"blacklisted_at": "2026-08-24T23:21:57.301877667Z",
 		"source": "manual"
 	},
@@ -59689,5 +59689,65 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-theme"
 		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@yandy0725/pi-sandbox",
+		"reason": "Non-English content",
+		"blacklisted_at": "2026-10-05T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/tshu-w/pi-control",
+		"reason": "Non-English content",
+		"blacklisted_at": "2026-10-05T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@drix10/agent-flow",
+		"reason": "Non-English content",
+		"blacklisted_at": "2026-10-05T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@esauflores/pi-agent-prompts",
+		"reason": "Not about Pi coding agent (pi.dev)",
+		"blacklisted_at": "2026-10-05T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Pizzaface/PizzaPi",
+		"reason": "Non-English content",
+		"blacklisted_at": "2026-10-05T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@elvinw/pi-qq",
+		"reason": "Non-English content",
+		"blacklisted_at": "2026-10-05T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-umbra-copy-chat",
+		"reason": "Not about Pi coding agent (pi.dev)",
+		"blacklisted_at": "2026-10-05T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.reddit.com/r/PiCodingAgent/comments/1ta2xvd/pi_coding_agent_is_amazing_or_how_i_learned_to/",
+		"reason": "Not about Pi coding agent (pi.dev)",
+		"blacklisted_at": "2026-10-05T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/tc3oliver/piship",
+		"reason": "Non-English content",
+		"blacklisted_at": "2026-10-05T00:00:00Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@mshntnnk/pi-provider-kiro",
+		"reason": "Non-English content",
+		"blacklisted_at": "2026-10-05T00:00:00Z",
+		"source": "manual"
 	}
 ]

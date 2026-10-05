@@ -1,0 +1,29 @@
+{
+  "id": "@ackneal/pi-agy-bridge",
+  "name": "@ackneal/pi-agy-bridge",
+  "url": "https://www.npmjs.com/package/@ackneal/pi-agy-bridge",
+  "source": "npm-search",
+  "description": "Standalone Antigravity CLI provider and Pi capability bridge plugin for Pi",
+  "metadata": {
+    "github_url": "https://github.com/ackneal/pi-agy-bridge",
+    "npm_name": "@ackneal/pi-agy-bridge",
+    "description": "Standalone Antigravity CLI provider and Pi capability bridge plugin for Pi",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "agy",
+      "mcp"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-10-04T13:19:39.923Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
