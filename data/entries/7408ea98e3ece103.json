@@ -8,7 +8,7 @@
     "github_url": "https://github.com/edxeth/pi-langfuse",
     "repo_full_name": "edxeth/pi-langfuse",
     "description": "Session-safe Langfuse v5 and OpenTelemetry observability for Pi agent with redacted traces, raw JSONL exports, local self-hosting, and privacy controls.",
-    "stars": 16,
+    "stars": 15,
     "forks": 6,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-28T14:36:39Z",
     "pushed_at": "2026-09-30T17:53:55Z",
-    "updated_at": "2026-09-30T17:53:59Z",
+    "updated_at": "2026-10-05T08:12:04Z",
     "size": 1969,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

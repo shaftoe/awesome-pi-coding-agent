@@ -10,7 +10,7 @@
     "description": "Multi-agent orchestration framework that routes prompts to twelve AI CLI harnesses (opencode, Claude Code, codex, gemini, cursor-agent, pi, and more) with LLM-driven routing, retry loops, and a runtime permission gate. TypeScript/Express REST API + Vite/React 19 client (Tailwind 4, Pixi.js) in Electron.",
     "stars": 3,
     "forks": 0,
-    "open_issues": 10,
+    "open_issues": 11,
     "topics": [
       "agentic-ai",
       "agentic-framework",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-23T09:49:42Z",
-    "pushed_at": "2026-10-01T10:35:57Z",
-    "updated_at": "2026-10-01T10:35:29Z",
-    "size": 5886,
+    "pushed_at": "2026-10-05T06:09:23Z",
+    "updated_at": "2026-10-05T02:51:22Z",
+    "size": 5995,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

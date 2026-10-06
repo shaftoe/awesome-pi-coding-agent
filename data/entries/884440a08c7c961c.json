@@ -1,0 +1,30 @@
+{
+  "id": "@pi-nostr/pi-nip29",
+  "name": "@pi-nostr/pi-nip29",
+  "url": "https://www.npmjs.com/package/@pi-nostr/pi-nip29",
+  "source": "npm-search",
+  "description": "Nostr rooms (NIP-29) for pi: the agent lists, reads, posts in, joins and leaves relay-hosted groups as its own nostr identity",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@pi-nostr/pi-nip29",
+    "description": "Nostr rooms (NIP-29) for pi: the agent lists, reads, posts in, joins and leaves relay-hosted groups as its own nostr identity",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "nostr",
+      "nip-29",
+      "groups",
+      "rooms"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-05T15:38:56.584Z",
+    "npm_downloads_monthly": 170,
+    "npm_downloads_weekly": 170,
+    "npm_score_final": 14.623045,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

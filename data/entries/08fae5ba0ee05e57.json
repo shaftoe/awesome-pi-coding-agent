@@ -1,0 +1,31 @@
+{
+  "id": "@wangjq4214/pi-open-tui",
+  "name": "@wangjq4214/pi-open-tui",
+  "url": "https://www.npmjs.com/package/@wangjq4214/pi-open-tui",
+  "source": "npm-search",
+  "description": "A polished TUI for Pi coding agent: Starship-style footer, rounded editor with model metadata, and prompt-box user messages.",
+  "metadata": {
+    "github_url": "https://github.com/wangjq4214/pi-delegate",
+    "npm_name": "@wangjq4214/pi-open-tui",
+    "description": "A polished TUI for Pi coding agent: Starship-style footer, rounded editor with model metadata, and prompt-box user messages.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "tui",
+      "starship",
+      "theme"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-06T01:50:19.977Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

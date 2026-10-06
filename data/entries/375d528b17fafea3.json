@@ -1,17 +1,17 @@
 {
   "id": "BRAVE_awesome-pi.site_themes",
-  "name": "Themes - Awesome Pi Coding Agent",
+  "name": "Themes - | Awesome Pi Coding Agent",
   "url": "https://awesome-pi.site/themes/",
   "source": "brave-web-search",
   "description": "Claude Code-style tool rows for pi with Ctrl+O image previews and consistent built-in, MCP, and custom tool rendering ... Color themes for pi: cyberpunk, nord, gruvbox, tokyo-night, catppuccin, and more.",
   "metadata": {
-    "title": "Themes - Awesome Pi Coding Agent",
-    "name": "Themes - Awesome Pi Coding Agent",
+    "title": "Themes - | Awesome Pi Coding Agent",
+    "name": "Themes - | Awesome Pi Coding Agent",
     "description": "Claude Code-style tool rows for pi with Ctrl+O image previews and consistent built-in, MCP, and custom tool rendering ... Color themes for pi: cyberpunk, nord, gruvbox, tokyo-night, catppuccin, and more.",
     "published_at": null,
     "source_site": "Awesome-pi",
     "source_url": "https://awesome-pi.site/themes/",
     "discovery_hint": "brave:pi-theme"
   },
-  "category": "theme"
+  "category": "article"
 }

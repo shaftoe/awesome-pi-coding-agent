@@ -1,0 +1,36 @@
+{
+  "id": "djtoon-pi-forge",
+  "name": "djtoon-pi-forge",
+  "url": "https://github.com/djtoon/pi-forge",
+  "source": "github-search",
+  "description": "The harness that builds harnesses: tell it about your work and it builds a custom AI agent with its own tools, views, skills and UI. Runs in the browser, terminal, headless, or as a standalone app. Built on pi.",
+  "metadata": {
+    "github_url": "https://github.com/djtoon/pi-forge",
+    "repo_full_name": "djtoon/pi-forge",
+    "description": "The harness that builds harnesses: tell it about your work and it builds a custom AI agent with its own tools, views, skills and UI. Runs in the browser, terminal, headless, or as a standalone app. Built on pi.",
+    "stars": 11,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "agent-builder",
+      "agent-harness",
+      "ai",
+      "ai-agents",
+      "claude",
+      "coding-agent",
+      "llm",
+      "pi",
+      "typescript",
+      "web-ui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-04T08:26:21Z",
+    "pushed_at": "2026-10-05T10:42:48Z",
+    "updated_at": "2026-10-05T23:31:00Z",
+    "size": 3047,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}
