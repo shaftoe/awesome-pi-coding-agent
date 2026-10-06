@@ -1,0 +1,40 @@
+{
+  "id": "pi-dsh-adviser",
+  "name": "pi-dsh-adviser",
+  "url": "https://www.npmjs.com/package/pi-dsh-adviser",
+  "source": "npm-search",
+  "description": "Pi extension that turns a DeepSeek Harness runtime into an external adviser: its own context, its own model, per-project adviser sessions",
+  "metadata": {
+    "github_url": "https://github.com/kslamph/pi-dsh-adviser",
+    "npm_name": "pi-dsh-adviser",
+    "description": "Pi extension that turns a DeepSeek Harness runtime into an external adviser: its own context, its own model, per-project adviser sessions",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "dsh",
+      "dsh-plugin",
+      "deepseek-harness",
+      "adviser",
+      "advisor",
+      "second-opinion",
+      "peer-review",
+      "subagent",
+      "multi-agent",
+      "llm",
+      "ai",
+      "coding-agent"
+    ],
+    "version": "0.2.3",
+    "published_at": "2026-10-06T01:21:37.772Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

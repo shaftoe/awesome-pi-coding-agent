@@ -1,0 +1,27 @@
+{
+  "id": "@anishthite/pi-themes",
+  "name": "@anishthite/pi-themes",
+  "url": "https://www.npmjs.com/package/@anishthite/pi-themes",
+  "source": "npm-search",
+  "description": "Theme picker and theme collection for Pi",
+  "metadata": {
+    "github_url": "https://github.com/anishthite/pi-themes",
+    "npm_name": "@anishthite/pi-themes",
+    "description": "Theme picker and theme collection for Pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "themes"
+    ],
+    "version": "0.1.7",
+    "published_at": "2026-10-05T23:56:46.658Z",
+    "npm_downloads_monthly": 295,
+    "npm_downloads_weekly": 295,
+    "npm_score_final": 17.017506,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

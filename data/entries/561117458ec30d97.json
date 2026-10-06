@@ -1,0 +1,31 @@
+{
+  "id": "brethof-brain-pi",
+  "name": "brethof-brain-pi",
+  "url": "https://www.npmjs.com/package/brethof-brain-pi",
+  "source": "npm-search",
+  "description": "brethof-brain memory for Pi — a session brief, the records that bear on every prompt, and every run archived, as one Pi extension.",
+  "metadata": {
+    "github_url": "https://github.com/BrethofAI/brethof-brain-client",
+    "npm_name": "brethof-brain-pi",
+    "description": "brethof-brain memory for Pi — a session brief, the records that bear on every prompt, and every run archived, as one Pi extension.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "memory",
+      "brethof-brain",
+      "ai",
+      "agent"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-04T19:31:07.558Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

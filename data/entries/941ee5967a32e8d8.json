@@ -1,0 +1,25 @@
+{
+  "id": "mjakl-web-pi",
+  "name": "mjakl-web-pi",
+  "url": "https://github.com/mjakl/web-pi",
+  "source": "github-search",
+  "description": "Web UI for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/mjakl/web-pi",
+    "repo_full_name": "mjakl/web-pi",
+    "description": "Web UI for the pi coding agent",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-02T06:22:48Z",
+    "pushed_at": "2026-10-05T21:49:53Z",
+    "updated_at": "2026-10-05T16:58:51Z",
+    "size": 12925,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

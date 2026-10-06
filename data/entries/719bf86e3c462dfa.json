@@ -8,7 +8,7 @@
     "github_url": "https://github.com/cramt/m365-copilot-proxy",
     "repo_full_name": "cramt/m365-copilot-proxy",
     "description": "OpenAI-compatible proxy for Microsoft 365 Copilot — use the Copilot licence you already have as a backend for pi, openclaw and other coding agents. Prompt-emulated tool calling, no extra licence, no MCP.",
-    "stars": 122,
+    "stars": 126,
     "forks": 28,
     "open_issues": 8,
     "topics": [
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-26T21:28:59Z",
-    "pushed_at": "2026-10-02T16:22:52Z",
-    "updated_at": "2026-10-03T05:09:00Z",
-    "size": 1519,
+    "pushed_at": "2026-10-05T20:07:01Z",
+    "updated_at": "2026-10-06T02:12:08Z",
+    "size": 954,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

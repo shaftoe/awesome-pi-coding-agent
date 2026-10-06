@@ -1,0 +1,28 @@
+{
+  "id": "krzyzanowskim-pi-optmem",
+  "name": "krzyzanowskim-pi-optmem",
+  "url": "https://github.com/krzyzanowskim/pi-optmem",
+  "source": "github-search",
+  "description": "OptMem permanent memory for Pi, bundled — TypeScript port, zero setup",
+  "metadata": {
+    "github_url": "https://github.com/krzyzanowskim/pi-optmem",
+    "repo_full_name": "krzyzanowskim/pi-optmem",
+    "description": "OptMem permanent memory for Pi, bundled — TypeScript port, zero setup",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-05T11:10:19Z",
+    "pushed_at": "2026-10-05T11:10:25Z",
+    "updated_at": "2026-10-05T13:16:49Z",
+    "size": 19,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

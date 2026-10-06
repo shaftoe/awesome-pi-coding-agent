@@ -3,23 +3,34 @@
   "name": "Bukutsu-pi-ping",
   "url": "https://github.com/Bukutsu/pi-ping",
   "source": "github-search",
-  "description": "Pi coding agent extension: ping only when you're away and it's worth it",
+  "description": "Minimal desktop notifications for the Pi coding agent when work finishes while you're away. Suppresses alerts when the terminal is known to be focused. Customizable messages and unread tab markers.",
   "metadata": {
     "github_url": "https://github.com/Bukutsu/pi-ping",
     "repo_full_name": "Bukutsu/pi-ping",
-    "description": "Pi coding agent extension: ping only when you're away and it's worth it",
-    "stars": 2,
+    "description": "Minimal desktop notifications for the Pi coding agent when work finishes while you're away. Suppresses alerts when the terminal is known to be focused. Customizable messages and unread tab markers.",
+    "stars": 3,
     "forks": 0,
-    "open_issues": 1,
-    "topics": [],
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "desktop-notifications",
+      "focus-aware",
+      "notifications",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "terminal",
+      "terminal-focus",
+      "tmux"
+    ],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-02T10:14:45Z",
-    "pushed_at": "2026-10-03T06:09:12Z",
-    "updated_at": "2026-10-03T06:09:16Z",
-    "size": 133,
+    "pushed_at": "2026-10-05T15:35:30Z",
+    "updated_at": "2026-10-05T15:35:32Z",
+    "size": 174,
     "license": "NOASSERTION",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
   "category": "extension"
 }

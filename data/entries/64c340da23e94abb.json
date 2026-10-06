@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_x.com_2057468157087162798",
+  "name": "Ed Huang on X: \"Started building a Rust port of pi coding agent → pie. I needed something beyond a general-purpose coding agent, especially around multi-agent communication, task orchestration/assignment, state management, and infrastructure-level extensibility. But, the first step is rebuilding … / X",
+  "url": "https://x.com/dxhuang/status/2057468157087162798",
+  "source": "brave-web-search",
+  "description": "Started building a Rust port of pi coding agent → pie. I needed something beyond a general-purpose coding agent, especially around multi-agent communication, task orchestration/assignment, state management, and infrastructure-level extensibility. But, the first step is rebuilding the core ...",
+  "metadata": {
+    "title": "Ed Huang on X: \"Started building a Rust port of pi coding agent → pie. I needed something beyond a general-purpose coding agent, especially around multi-agent communication, task orchestration/assignment, state management, and infrastructure-level extensibility. But, the first step is rebuilding … / X",
+    "name": "Ed Huang on X: \"Started building a Rust port of pi coding agent → pie. I needed something beyond a general-purpose coding agent, especially around multi-agent communication, task orchestration/assignment, state management, and infrastructure-level extensibility. But, the first step is rebuilding … / X",
+    "description": "Started building a Rust port of pi coding agent → pie. I needed something beyond a general-purpose coding agent, especially around multi-agent communication, task orchestration/assignment, state management, and infrastructure-level extensibility. But, the first step is rebuilding the core ...",
+    "published_at": "2026-05-21T14:26:49",
+    "source_site": "X",
+    "source_url": "https://x.com/dxhuang/status/2057468157087162798",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

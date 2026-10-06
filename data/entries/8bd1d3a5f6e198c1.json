@@ -1,0 +1,29 @@
+{
+  "id": "jonaslsaa-pi-optchat",
+  "name": "jonaslsaa-pi-optchat",
+  "url": "https://github.com/jonaslsaa/pi-optchat",
+  "source": "github-search",
+  "description": "Persistent infinite memory with profiles, background agents, and conversation imports for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/jonaslsaa/pi-optchat",
+    "repo_full_name": "jonaslsaa/pi-optchat",
+    "description": "Persistent infinite memory with profiles, background agents, and conversation imports for Pi.",
+    "stars": 5,
+    "forks": 1,
+    "open_issues": 1,
+    "topics": [
+      "memory",
+      "optchat",
+      "pi-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-04T22:20:47Z",
+    "pushed_at": "2026-10-06T01:23:23Z",
+    "updated_at": "2026-10-06T01:23:23Z",
+    "size": 1391,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

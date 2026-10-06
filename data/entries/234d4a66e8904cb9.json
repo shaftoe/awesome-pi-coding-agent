@@ -1,0 +1,33 @@
+{
+  "id": "HugoLopes45-pi-claude-pro",
+  "name": "HugoLopes45-pi-claude-pro",
+  "url": "https://github.com/HugoLopes45/pi-claude-pro",
+  "source": "github-search",
+  "description": "Use your Claude Pro or Max subscription in Pi.",
+  "metadata": {
+    "github_url": "https://github.com/HugoLopes45/pi-claude-pro",
+    "repo_full_name": "HugoLopes45/pi-claude-pro",
+    "description": "Use your Claude Pro or Max subscription in Pi.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "anthropic",
+      "claude",
+      "claude-max",
+      "claude-pro",
+      "pi-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-05T13:42:56Z",
+    "pushed_at": "2026-10-05T17:51:41Z",
+    "updated_at": "2026-10-05T17:51:41Z",
+    "size": 107,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "bn-l-claude-autoresearch-mod",
+  "name": "bn-l-claude-autoresearch-mod",
+  "url": "https://github.com/bn-l/claude-autoresearch-mod",
+  "source": "github-search",
+  "description": "Autonomous experiment loops for Claude Code ported from pi-autoresearch.",
+  "metadata": {
+    "github_url": "https://github.com/bn-l/claude-autoresearch-mod",
+    "repo_full_name": "bn-l/claude-autoresearch-mod",
+    "description": "Autonomous experiment loops for Claude Code ported from pi-autoresearch.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "autoresearch",
+      "claude-code",
+      "pi-coding-agent",
+      "research-loop"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-01T21:39:51Z",
+    "pushed_at": "2026-10-02T09:16:28Z",
+    "updated_at": "2026-10-05T22:08:58Z",
+    "size": 1163,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

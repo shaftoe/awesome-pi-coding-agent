@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "A programmable tool and agent runtime for Pi",
   "metadata": {
-    "github_url": "https://github.com/monotykamary/pi-fabric",
+    "github_url": "https://github.com/fabric-runtime/pi-fabric",
     "npm_name": "@e4779/pi-fabric",
     "description": "A programmable tool and agent runtime for Pi",
     "keywords": [
@@ -22,11 +22,11 @@
       "rlm",
       "orchestration"
     ],
-    "version": "0.102.0-fork.16",
-    "published_at": "2026-09-30T04:36:54.662Z",
-    "npm_downloads_monthly": 1788,
-    "npm_downloads_weekly": 1327,
-    "npm_score_final": 22.51731,
+    "version": "0.105.0-fork.22",
+    "published_at": "2026-10-05T05:58:36.512Z",
+    "npm_downloads_monthly": 2246,
+    "npm_downloads_weekly": 979,
+    "npm_score_final": 22.933952,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

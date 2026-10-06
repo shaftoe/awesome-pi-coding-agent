@@ -1,0 +1,31 @@
+{
+  "id": "@lukisxyz/pi-add-deliberate",
+  "name": "@lukisxyz/pi-add-deliberate",
+  "url": "https://www.npmjs.com/package/@lukisxyz/pi-add-deliberate",
+  "source": "npm-search",
+  "description": "pi extension: deliberate advise/plan modes — configured read-only second opinions and research-first implementation plans, saved to a configured path.",
+  "metadata": {
+    "github_url": "https://github.com/lksxyz/pi-atelier",
+    "npm_name": "@lukisxyz/pi-add-deliberate",
+    "description": "pi extension: deliberate advise/plan modes — configured read-only second opinions and research-first implementation plans, saved to a configured path.",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "advice",
+      "planning",
+      "subagent"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-10-05T11:46:25.473Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
