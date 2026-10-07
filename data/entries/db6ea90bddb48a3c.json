@@ -1,0 +1,28 @@
+{
+  "id": "pi-commit-split",
+  "name": "pi-commit-split",
+  "url": "https://www.npmjs.com/package/pi-commit-split",
+  "source": "npm-search",
+  "description": "Adaptive topic-based commit and push workflow for Pi",
+  "metadata": {
+    "github_url": "https://github.com/ismailokta/pi-commit-split",
+    "npm_name": "pi-commit-split",
+    "description": "Adaptive topic-based commit and push workflow for Pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "git",
+      "commit"
+    ],
+    "version": "0.1.6",
+    "published_at": "2026-09-29T03:55:24.249Z",
+    "npm_downloads_monthly": 892,
+    "npm_downloads_weekly": 892,
+    "npm_score_final": 21.058514,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -3,11 +3,11 @@
   "name": "pi-hush",
   "url": "https://www.npmjs.com/package/pi-hush",
   "source": "npm-search",
-  "description": "Hush Pi's tool chatter and optional thinking while keeping the conversation and a compact, theme-aware activity animation visible.",
+  "description": "Hide Pi's tool chatter behind a compact activity animation.",
   "metadata": {
     "github_url": "https://github.com/ludoroo/pi-hush",
     "npm_name": "pi-hush",
-    "description": "Hush Pi's tool chatter and optional thinking while keeping the conversation and a compact, theme-aware activity animation visible.",
+    "description": "Hide Pi's tool chatter behind a compact activity animation.",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -17,11 +17,11 @@
       "animation",
       "tui"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-09-29T01:22:24.882Z",
+    "version": "0.3.0",
+    "published_at": "2026-10-07T01:01:27.213Z",
     "npm_downloads_monthly": 175,
     "npm_downloads_weekly": 175,
-    "npm_score_final": 14.727981,
+    "npm_score_final": 14.5570965,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

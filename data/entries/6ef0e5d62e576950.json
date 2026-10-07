@@ -1,0 +1,32 @@
+{
+  "id": "HugoLopes45-pi-context-kit",
+  "name": "HugoLopes45-pi-context-kit",
+  "url": "https://github.com/HugoLopes45/pi-context-kit",
+  "source": "github-search",
+  "description": "Context maintenance for Pi: stale read replacement, pruning, handoff compaction with background notes, and recall.",
+  "metadata": {
+    "github_url": "https://github.com/HugoLopes45/pi-context-kit",
+    "repo_full_name": "HugoLopes45/pi-context-kit",
+    "description": "Context maintenance for Pi: stale read replacement, pruning, handoff compaction with background notes, and recall.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "compaction",
+      "context-window",
+      "handoff",
+      "pi-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-05T15:10:03Z",
+    "pushed_at": "2026-10-06T10:31:16Z",
+    "updated_at": "2026-10-06T10:30:24Z",
+    "size": 171,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

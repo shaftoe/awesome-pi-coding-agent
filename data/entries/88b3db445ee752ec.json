@@ -1,0 +1,28 @@
+{
+  "id": "pi-codemode-diff",
+  "name": "pi-codemode-diff",
+  "url": "https://www.npmjs.com/package/pi-codemode-diff",
+  "source": "npm-search",
+  "description": "Show edit and write diffs inside Pi codemode calls without adding them to model context.",
+  "metadata": {
+    "github_url": "https://github.com/hyein-cbio/pi-codemode-diff",
+    "npm_name": "pi-codemode-diff",
+    "description": "Show edit and write diffs inside Pi codemode calls without adding them to model context.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "codemode",
+      "diff"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-06T12:38:28.466Z",
+    "npm_downloads_monthly": 139,
+    "npm_downloads_weekly": 139,
+    "npm_score_final": 14.685165,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

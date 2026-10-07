@@ -8,7 +8,7 @@
     "github_url": "https://github.com/wsjwu58-cmd/Pi-Paper",
     "repo_full_name": "wsjwu58-cmd/Pi-Paper",
     "description": "AI-native node-based infinite canvas for text, image, video, and audio creation, with Agent orchestration and points-based workflows.",
-    "stars": 13,
+    "stars": 14,
     "forks": 3,
     "open_issues": 0,
     "topics": [
@@ -19,9 +19,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-11T01:52:37Z",
-    "pushed_at": "2026-10-06T01:27:04Z",
-    "updated_at": "2026-10-06T01:27:08Z",
-    "size": 36468,
+    "pushed_at": "2026-10-06T14:59:43Z",
+    "updated_at": "2026-10-06T14:59:48Z",
+    "size": 37587,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

@@ -10,7 +10,7 @@
     "description": "Structured todowrite/todoread task management extension for the pi coding agent",
     "stars": 4,
     "forks": 1,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "coding-agent",
       "pi",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-12T03:30:50Z",
-    "pushed_at": "2026-09-29T23:34:03Z",
+    "pushed_at": "2026-10-06T23:34:38Z",
     "updated_at": "2026-10-05T09:21:31Z",
-    "size": 204,
+    "size": 195,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
