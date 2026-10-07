@@ -3,11 +3,11 @@
   "name": "Pi Coding Agent: Install, Sign In and Start Coding",
   "url": "https://www.codeagentswarm.com/en/guides/how-to-use-pi-coding-agent",
   "source": "brave-web-search",
-  "description": "Pi is a terminal coding agent that connects a language model to your project files and tools. You choose the provider; Pi manages the conversation and tool execution. This guide gets a standalone Pi session running before explaining the ...",
+  "description": "Use Node.js 22.19.0 or newer for the Pi version verified by CodeAgentSwarm, 0.85.1. Check your Node and npm versions before installing the current package. Older tutorials may use the former @mariozechner package name. ... node --version npm --version npm install -g --ignore-scripts @earendil-works/pi-coding-agent pi --version",
   "metadata": {
     "title": "Pi Coding Agent: Install, Sign In and Start Coding",
     "name": "Pi Coding Agent: Install, Sign In and Start Coding",
-    "description": "Pi is a terminal coding agent that connects a language model to your project files and tools. You choose the provider; Pi manages the conversation and tool execution. This guide gets a standalone Pi session running before explaining the ...",
+    "description": "Use Node.js 22.19.0 or newer for the Pi version verified by CodeAgentSwarm, 0.85.1. Check your Node and npm versions before installing the current package. Older tutorials may use the former @mariozechner package name. ... node --version npm --version npm install -g --ignore-scripts @earendil-works/pi-coding-agent pi --version",
     "published_at": "2026-09-24T00:00:00",
     "source_site": "CodeAgentSwarm",
     "source_url": "https://www.codeagentswarm.com/en/guides/how-to-use-pi-coding-agent",

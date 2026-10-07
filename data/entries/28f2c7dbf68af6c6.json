@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_reddit.com_dolspsimprovepiagents",
+  "name": "r/PiCodingAgent on Reddit: Do LSPs improve Pi Agents?",
+  "url": "https://www.reddit.com/r/PiCodingAgent/comments/1wb0ehv/do_lsps_improve_pi_agents/",
+  "source": "brave-web-search",
+  "description": "I was using my agent as a pair programmer and realised that, with Pi, the agent did not have access to the Language Server Protocol (LSP). If you are not familiar with LSPs, they tend to be services on your machine that IDEs use to analyse files with recognised code extensions.",
+  "metadata": {
+    "title": "r/PiCodingAgent on Reddit: Do LSPs improve Pi Agents?",
+    "name": "r/PiCodingAgent on Reddit: Do LSPs improve Pi Agents?",
+    "description": "I was using my agent as a pair programmer and realised that, with Pi, the agent did not have access to the Language Server Protocol (LSP). If you are not familiar with LSPs, they tend to be services on your machine that IDEs use to analyse files with recognised code extensions.",
+    "published_at": "2026-09-08T20:38:16",
+    "source_site": "Reddit",
+    "source_url": "https://www.reddit.com/r/PiCodingAgent/comments/1wb0ehv/do_lsps_improve_pi_agents/",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

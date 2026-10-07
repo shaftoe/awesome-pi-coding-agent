@@ -1,0 +1,28 @@
+{
+  "id": "@esauflores/pi-agent-runtime",
+  "name": "@esauflores/pi-agent-runtime",
+  "url": "https://www.npmjs.com/package/@esauflores/pi-agent-runtime",
+  "source": "npm-search",
+  "description": "Pi integration for recorded local command execution with agent-runtime",
+  "metadata": {
+    "github_url": "https://github.com/esauflores/agent-toolkit",
+    "npm_name": "@esauflores/pi-agent-runtime",
+    "description": "Pi integration for recorded local command execution with agent-runtime",
+    "keywords": [
+      "extension",
+      "pi",
+      "pi-coding-agent",
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-06T19:43:12.419Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

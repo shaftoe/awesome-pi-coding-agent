@@ -1,0 +1,30 @@
+{
+  "id": "pi-polyglot-lsp",
+  "name": "pi-polyglot-lsp",
+  "url": "https://www.npmjs.com/package/pi-polyglot-lsp",
+  "source": "npm-search",
+  "description": "Configurable LSP tools for Pi agents: Go, Rust, Java (Lombok-aware), TypeScript and Vue diagnostics, hovers, definitions, references and symbols",
+  "metadata": {
+    "github_url": "https://github.com/doccker/pi-polyglot-lsp",
+    "npm_name": "pi-polyglot-lsp",
+    "description": "Configurable LSP tools for Pi agents: Go, Rust, Java (Lombok-aware), TypeScript and Vue diagnostics, hovers, definitions, references and symbols",
+    "keywords": [
+      "language-server",
+      "lsp",
+      "pi",
+      "pi-package",
+      "vue",
+      "lombok"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-09-29T05:43:49.104Z",
+    "npm_downloads_monthly": 607,
+    "npm_downloads_weekly": 607,
+    "npm_score_final": 18.804125,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

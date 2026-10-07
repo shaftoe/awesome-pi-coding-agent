@@ -1,0 +1,32 @@
+{
+  "id": "alanhuangyoo-crux",
+  "name": "alanhuangyoo-crux",
+  "url": "https://github.com/alanhuangyoo/crux",
+  "source": "github-search",
+  "description": "Taking the pi coding agent to Claude Code-level performance: 0.539 → 0.773 pass@1 on Terminal-Bench 2.1 with the same self-hosted 27B model, by re-engineering the agent.",
+  "metadata": {
+    "github_url": "https://github.com/alanhuangyoo/crux",
+    "repo_full_name": "alanhuangyoo/crux",
+    "description": "Taking the pi coding agent to Claude Code-level performance: 0.539 → 0.773 pass@1 on Terminal-Bench 2.1 with the same self-hosted 27B model, by re-engineering the agent.",
+    "stars": 187,
+    "forks": 36,
+    "open_issues": 0,
+    "topics": [
+      "agent-evaluation",
+      "ai-agent",
+      "coding-agent",
+      "context-engineering",
+      "llm",
+      "terminal-bench"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-24T16:53:17Z",
+    "pushed_at": "2026-10-06T11:11:27Z",
+    "updated_at": "2026-10-06T14:37:01Z",
+    "size": 67695,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

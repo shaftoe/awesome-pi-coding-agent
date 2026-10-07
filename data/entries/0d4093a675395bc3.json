@@ -1,0 +1,20 @@
+{
+  "id": "YT_FuXyrzX3pik",
+  "name": "Pi-Bolt: a faster, lighter Pi coding agent",
+  "url": "https://youtube.com/watch?v=FuXyrzX3pik",
+  "source": "youtube-search",
+  "description": "Pi-Bolt is the Pi coding agent compiled ahead of time into one native executable for Linux and macOS on Apple silicon.",
+  "metadata": {
+    "title": "Pi-Bolt: a faster, lighter Pi coding agent",
+    "name": "Pi-Bolt: a faster, lighter Pi coding agent",
+    "description": "Pi-Bolt is the Pi coding agent compiled ahead of time into one native executable for Linux and macOS on Apple silicon.",
+    "channel": "Kushal Khemka",
+    "published_at": "2026-10-06T13:33:13Z",
+    "thumbnail": "https://i.ytimg.com/vi/FuXyrzX3pik/hqdefault.jpg",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "category": "video"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "@yukikisaku/pi-hide-tools",
+  "name": "@yukikisaku/pi-hide-tools",
+  "url": "https://www.npmjs.com/package/@yukikisaku/pi-hide-tools",
+  "source": "npm-search",
+  "description": "Hide tool rows by default and toggle a compact one-line view.",
+  "metadata": {
+    "github_url": "https://github.com/yukikisaku/pi-hide-tools",
+    "npm_name": "@yukikisaku/pi-hide-tools",
+    "description": "Hide tool rows by default and toggle a compact one-line view.",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-29T08:44:37.050Z",
+    "npm_downloads_monthly": 333,
+    "npm_downloads_weekly": 205,
+    "npm_score_final": 17.935677,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

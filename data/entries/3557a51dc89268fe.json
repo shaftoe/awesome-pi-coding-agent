@@ -10,7 +10,7 @@
     "description": "Unofficial Claude Pro/Max OAuth provider package for Pi, adapted from ex-machina-co/opencode-anthropic-auth.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 0,
     "topics": [
       "anthropic",
       "claude",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-29T20:16:21Z",
-    "pushed_at": "2026-07-29T20:58:30Z",
-    "updated_at": "2026-08-10T18:55:47Z",
-    "size": 55,
+    "pushed_at": "2026-10-06T22:05:52Z",
+    "updated_at": "2026-10-06T22:01:42Z",
+    "size": 81,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
