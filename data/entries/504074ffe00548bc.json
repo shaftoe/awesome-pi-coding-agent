@@ -1,0 +1,25 @@
+{
+  "id": "pi-model-inherit",
+  "name": "pi-model-inherit",
+  "url": "https://www.npmjs.com/package/pi-model-inherit",
+  "source": "npm-search",
+  "description": "pi extension that lets providers and models inherit shared configuration instead of repeating it",
+  "metadata": {
+    "github_url": "https://github.com/jalaxy33/pi-model-inherit",
+    "npm_name": "pi-model-inherit",
+    "description": "pi extension that lets providers and models inherit shared configuration instead of repeating it",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-09-30T10:08:29.934Z",
+    "npm_downloads_monthly": 378,
+    "npm_downloads_weekly": 378,
+    "npm_score_final": 18.022018,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -9,8 +9,8 @@
     "repo_full_name": "Ark0N/Codeman",
     "description": "Self-hosted mission control for AI coding agents: run Claude Code, OpenCode, Pi, Codex, and Antigravity & Gemini CLI 24/7, from any device, watch every subagent live",
     "stars": 784,
-    "forks": 113,
-    "open_issues": 26,
+    "forks": 114,
+    "open_issues": 29,
     "topics": [
       "agent",
       "ai-agents",

@@ -11,10 +11,10 @@
     "channel": "Stepwise",
     "published_at": "2026-10-04T13:00:01Z",
     "thumbnail": "https://i.ytimg.com/vi/v_gyTuXUKlQ/hqdefault.jpg",
-    "views": 104,
+    "views": 123,
     "likes": 1,
     "comments": 0,
-    "discovery_hint": "youtube:pi-coding-agent"
+    "discovery_hint": "youtube:pi-agent"
   },
   "category": "video"
 }

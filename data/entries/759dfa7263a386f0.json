@@ -1,0 +1,25 @@
+{
+  "id": "pi-jev-decisions",
+  "name": "pi-jev-decisions",
+  "url": "https://www.npmjs.com/package/pi-jev-decisions",
+  "source": "npm-search",
+  "description": "Typed Jev decision tool for Pi via OpenRouter",
+  "metadata": {
+    "github_url": "https://github.com/lodilorenzo/pi-jev-decisions",
+    "npm_name": "pi-jev-decisions",
+    "description": "Typed Jev decision tool for Pi via OpenRouter",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-09-30T19:36:55.069Z",
+    "npm_downloads_monthly": 160,
+    "npm_downloads_weekly": 160,
+    "npm_score_final": 15.044237,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

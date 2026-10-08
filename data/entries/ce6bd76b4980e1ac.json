@@ -1,0 +1,32 @@
+{
+  "id": "@maolon/pi-watcher",
+  "name": "@maolon/pi-watcher",
+  "url": "https://www.npmjs.com/package/@maolon/pi-watcher",
+  "source": "npm-search",
+  "description": "Watch long-running Pi tasks without babysitting: deterministic task monitoring, optional semantic review, and relay-delivered wakes only when something needs the host.",
+  "metadata": {
+    "github_url": "https://github.com/Maolon/pi-watcher",
+    "npm_name": "@maolon/pi-watcher",
+    "description": "Watch long-running Pi tasks without babysitting: deterministic task monitoring, optional semantic review, and relay-delivered wakes only when something needs the host.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "watcher",
+      "monitoring",
+      "long-running-tasks",
+      "agents"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-10-08T01:12:04.126Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

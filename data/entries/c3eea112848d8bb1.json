@@ -1,0 +1,28 @@
+{
+  "id": "@ryan_nookpi/pi-skill-excalidraw",
+  "name": "@ryan_nookpi/pi-skill-excalidraw",
+  "url": "https://www.npmjs.com/package/@ryan_nookpi/pi-skill-excalidraw",
+  "source": "npm-search",
+  "description": "Pi skill that writes .excalidraw diagrams and opens them in a live-synced local Excalidraw window.",
+  "metadata": {
+    "github_url": "https://github.com/Jonghakseo/pi-extension",
+    "npm_name": "@ryan_nookpi/pi-skill-excalidraw",
+    "description": "Pi skill that writes .excalidraw diagrams and opens them in a live-synced local Excalidraw window.",
+    "keywords": [
+      "pi-package",
+      "pi-skill",
+      "excalidraw",
+      "diagram"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-09-30T10:12:24.846Z",
+    "npm_downloads_monthly": 616,
+    "npm_downloads_weekly": 616,
+    "npm_score_final": 19.692354,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

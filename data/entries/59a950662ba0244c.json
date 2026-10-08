@@ -1,0 +1,37 @@
+{
+  "id": "@fastagent-sh/pi-web-access",
+  "name": "@fastagent-sh/pi-web-access",
+  "url": "https://www.npmjs.com/package/@fastagent-sh/pi-web-access",
+  "source": "npm-search",
+  "description": "Web search, URL fetching, GitHub repo cloning, PDF extraction, YouTube video understanding, and local video analysis for Pi coding agent. Supports OpenAI, Brave, Parallel, TinyFish, Search1API, Searchinfinity, Querit, Tavily, Firecrawl, Crawl4AI, Jina, SE",
+  "metadata": {
+    "github_url": "https://github.com/fastagent-sh/pi-web-access",
+    "npm_name": "@fastagent-sh/pi-web-access",
+    "description": "Web search, URL fetching, GitHub repo cloning, PDF extraction, YouTube video understanding, and local video analysis for Pi coding agent. Supports OpenAI, Brave, Parallel, TinyFish, Search1API, Searchinfinity, Querit, Tavily, Firecrawl, Crawl4AI, Jina, SE",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "web-search",
+      "tinyfish",
+      "search1api",
+      "searchinfinity",
+      "querit",
+      "degoog",
+      "perplexity",
+      "fetch",
+      "scraping"
+    ],
+    "version": "0.37.1",
+    "published_at": "2026-10-07T12:12:24.862Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

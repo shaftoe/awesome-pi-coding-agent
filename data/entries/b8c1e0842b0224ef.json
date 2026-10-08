@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_torchtree.com_pi-coding-agent",
+  "name": "Pi Coding Agent: A Terminal AI Coding Agent Built on 418 Lines of Code - TorchTree",
+  "url": "https://torchtree.com/en/post/pi-coding-agent/",
+  "source": "brave-web-search",
+  "description": "Pi is a terminal AI coding agent with a core of just 418 lines, created by Mario Zechner, the author of libGDX. This article dissects its architecture, extension mechanism, and position in the community.",
+  "metadata": {
+    "title": "Pi Coding Agent: A Terminal AI Coding Agent Built on 418 Lines of Code - TorchTree",
+    "name": "Pi Coding Agent: A Terminal AI Coding Agent Built on 418 Lines of Code - TorchTree",
+    "description": "Pi is a terminal AI coding agent with a core of just 418 lines, created by Mario Zechner, the author of libGDX. This article dissects its architecture, extension mechanism, and position in the community.",
+    "published_at": "2026-04-29T00:00:00",
+    "source_site": "TorchTree",
+    "source_url": "https://torchtree.com/en/post/pi-coding-agent/",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}
