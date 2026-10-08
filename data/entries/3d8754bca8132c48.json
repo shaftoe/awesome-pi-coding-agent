@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_mindstudio.ai_pi-durable-long-running-agents",
+  "name": "Pi Durable: What It Is and Why It Matters for Agent Apps | MindStudio",
+  "url": "https://www.mindstudio.ai/blog/pi-durable-long-running-agents",
+  "source": "brave-web-search",
+  "description": "Pi Durable adds crash-resumable, multi-conversation state to AI agent apps. Here's how its checkpointing and storage model actually work.",
+  "metadata": {
+    "title": "Pi Durable: What It Is and Why It Matters for Agent Apps | MindStudio",
+    "name": "Pi Durable: What It Is and Why It Matters for Agent Apps | MindStudio",
+    "description": "Pi Durable adds crash-resumable, multi-conversation state to AI agent apps. Here's how its checkpointing and storage model actually work.",
+    "published_at": "2026-10-04T01:53:27",
+    "source_site": "MindStudio",
+    "source_url": "https://www.mindstudio.ai/blog/pi-durable-long-running-agents",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

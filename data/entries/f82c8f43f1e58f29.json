@@ -8,7 +8,7 @@
     "github_url": "https://github.com/neevparikh/pi-vim",
     "repo_full_name": "neevparikh/pi-vim",
     "description": "vim-style extension for pi coding agent",
-    "stars": 1,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-02-27T00:53:04Z",
     "pushed_at": "2026-05-30T18:52:44Z",
-    "updated_at": "2026-05-30T18:52:47Z",
+    "updated_at": "2026-10-07T17:42:14Z",
     "size": 88,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

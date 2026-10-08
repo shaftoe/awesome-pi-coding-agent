@@ -8,7 +8,7 @@
     "github_url": "https://github.com/catlog22/pi-maestro-flow",
     "repo_full_name": "catlog22/pi-maestro-flow",
     "description": "Maestro workflow tools as Pi extensions — pi-teammate + pi-maestro-agent",
-    "stars": 129,
+    "stars": 130,
     "forks": 20,
     "open_issues": 3,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-07T01:28:13Z",
     "pushed_at": "2026-10-01T16:18:40Z",
-    "updated_at": "2026-10-06T14:08:04Z",
+    "updated_at": "2026-10-07T12:02:39Z",
     "size": 26181,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

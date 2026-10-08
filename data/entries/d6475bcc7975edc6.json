@@ -1,0 +1,31 @@
+{
+  "id": "jev-orchestrator",
+  "name": "jev-orchestrator",
+  "url": "https://www.npmjs.com/package/jev-orchestrator",
+  "source": "npm-search",
+  "description": "Adaptive task orchestration for Pi: Jev (typesafe) typed judgments drive ROUTE / CHECK / FINAL with per-category completion contracts, bounded correction loops, and tunable request budgets.",
+  "metadata": {
+    "github_url": "https://github.com/KaiyoDev/jev-orchestrator",
+    "npm_name": "jev-orchestrator",
+    "description": "Adaptive task orchestration for Pi: Jev (typesafe) typed judgments drive ROUTE / CHECK / FINAL with per-category completion contracts, bounded correction loops, and tunable request budgets.",
+    "keywords": [
+      "pi-extension",
+      "pi-package",
+      "pi-typesafe",
+      "jev",
+      "orchestrator",
+      "agent",
+      "coding-agent"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-09-30T07:29:09.156Z",
+    "npm_downloads_monthly": 155,
+    "npm_downloads_weekly": 155,
+    "npm_score_final": 14.844867,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

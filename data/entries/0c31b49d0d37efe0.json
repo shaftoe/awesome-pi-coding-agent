@@ -3,15 +3,15 @@
   "name": "pi-gui: the desktop app for the pi coding agent",
   "url": "https://www.pi-gui.com/",
   "source": "brave-web-search",
-  "description": "pi is an open source coding agent that runs in your terminal.",
+  "description": "Builds are not code-signed yet, so SmartScreen may ask you to confirm. Building from source is for contributors: see the development guide. ... pi is an open source coding agent that runs in your terminal.",
   "metadata": {
     "title": "pi-gui: the desktop app for the pi coding agent",
     "name": "pi-gui: the desktop app for the pi coding agent",
-    "description": "pi is an open source coding agent that runs in your terminal.",
+    "description": "Builds are not code-signed yet, so SmartScreen may ask you to confirm. Building from source is for contributors: see the development guide. ... pi is an open source coding agent that runs in your terminal.",
     "published_at": null,
     "source_site": "pi-gui",
     "source_url": "https://www.pi-gui.com/",
-    "discovery_hint": "brave:pi-agent"
+    "discovery_hint": "brave:pi-coding-agent"
   },
   "category": "article"
 }

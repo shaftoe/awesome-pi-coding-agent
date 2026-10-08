@@ -1,0 +1,30 @@
+{
+  "id": "@kivlor/pi-memory",
+  "name": "@kivlor/pi-memory",
+  "url": "https://www.npmjs.com/package/@kivlor/pi-memory",
+  "source": "npm-search",
+  "description": "Agent Memory Repo for pi — git-backed cross-session memory: memory_init/search/read/save tools, [[link]] navigation, auto-committed entries, session-start injection",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@kivlor/pi-memory",
+    "description": "Agent Memory Repo for pi — git-backed cross-session memory: memory_init/search/read/save tools, [[link]] navigation, auto-committed entries, session-start injection",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "memory",
+      "agent-memory-repo"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-10-07T09:36:59.279Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

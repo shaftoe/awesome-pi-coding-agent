@@ -1,0 +1,25 @@
+{
+  "id": "juliye2025-pi-agent-notes",
+  "name": "juliye2025-pi-agent-notes",
+  "url": "https://github.com/juliye2025/pi-agent-notes",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/juliye2025/pi-agent-notes",
+    "repo_full_name": "juliye2025/pi-agent-notes",
+    "description": "",
+    "stars": 8,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-03T13:44:04Z",
+    "pushed_at": "2026-10-07T11:15:50Z",
+    "updated_at": "2026-10-08T00:46:10Z",
+    "size": 12942,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

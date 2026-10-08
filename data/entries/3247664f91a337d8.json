@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-crew",
+  "name": "pi-crew · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-crew",
+  "source": "brave-web-search",
+  "description": "Review the source before installing third-party packages. Multi-agent team orchestration for Pi.",
+  "metadata": {
+    "title": "pi-crew · Packages · Pi",
+    "name": "pi-crew · Packages · Pi",
+    "description": "Review the source before installing third-party packages. Multi-agent team orchestration for Pi.",
+    "published_at": "2026-10-04T20:47:36",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-crew",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}

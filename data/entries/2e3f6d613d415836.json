@@ -8,8 +8,8 @@
     "github_url": "https://github.com/rynfar/meridian",
     "repo_full_name": "rynfar/meridian",
     "description": "Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.",
-    "stars": 2098,
-    "forks": 241,
+    "stars": 2100,
+    "forks": 242,
     "open_issues": 43,
     "topics": [
       "ai-agents",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-01-20T21:39:40Z",
-    "pushed_at": "2026-10-06T21:32:54Z",
-    "updated_at": "2026-10-06T23:51:47Z",
-    "size": 11614,
+    "pushed_at": "2026-10-08T02:18:44Z",
+    "updated_at": "2026-10-07T22:56:55Z",
+    "size": 12140,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
