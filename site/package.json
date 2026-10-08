@@ -12,7 +12,7 @@
 		"@astrojs/mdx": "^8.0.2",
 		"@astrojs/starlight": "^0.42.3",
 		"astro": "^7.3.5",
-		"sharp": "^0.35.4",
+		"sharp": "^0.35.5",
 		"temporal-polyfill": "^1.0.5"
 	},
 	"overrides": {
