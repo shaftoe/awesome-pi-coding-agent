@@ -1,0 +1,30 @@
+{
+  "id": "pi-thinking-display",
+  "name": "pi-thinking-display",
+  "url": "https://www.npmjs.com/package/pi-thinking-display",
+  "source": "npm-search",
+  "description": "Thinking-block display for pi: keep only the thinking run that is still streaming expanded, plus a fold marker with hover highlight and click-to-toggle, with a settings panel.",
+  "metadata": {
+    "github_url": "https://github.com/Hayston1001/pi-extensions",
+    "npm_name": "pi-thinking-display",
+    "description": "Thinking-block display for pi: keep only the thinking run that is still streaming expanded, plus a fold marker with hover highlight and click-to-toggle, with a settings panel.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "thinking",
+      "reasoning",
+      "tui",
+      "fold"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-09-30T16:24:24.077Z",
+    "npm_downloads_monthly": 333,
+    "npm_downloads_weekly": 333,
+    "npm_score_final": 18.074533,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

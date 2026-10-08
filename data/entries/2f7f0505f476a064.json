@@ -1,0 +1,40 @@
+{
+  "id": "@zorgzeleniy/hiviz",
+  "name": "@zorgzeleniy/hiviz",
+  "url": "https://www.npmjs.com/package/@zorgzeleniy/hiviz",
+  "source": "npm-search",
+  "description": "HiViz — audit and refactor standing AI-agent instructions (AGENTS.md/CLAUDE.md/skills/MCP) for prompt debt. Trace every rule before cutting it: probe-verified, safety-preserving; drift checks with MCP usage telemetry, constitution tests, blame provenance,",
+  "metadata": {
+    "github_url": "https://github.com/Zorgzeleniy/hiviz",
+    "npm_name": "@zorgzeleniy/hiviz",
+    "description": "HiViz — audit and refactor standing AI-agent instructions (AGENTS.md/CLAUDE.md/skills/MCP) for prompt debt. Trace every rule before cutting it: probe-verified, safety-preserving; drift checks with MCP usage telemetry, constitution tests, blame provenance,",
+    "keywords": [
+      "prompt-debt",
+      "agents-md",
+      "claude-code",
+      "codex",
+      "cursor",
+      "windsurf",
+      "opencode",
+      "omp",
+      "pi",
+      "lint",
+      "agent-instructions",
+      "drift",
+      "translator",
+      "context-engineering",
+      "hiviz",
+      "pi-package"
+    ],
+    "version": "0.7.1",
+    "published_at": "2026-09-30T18:34:35.826Z",
+    "npm_downloads_monthly": 277,
+    "npm_downloads_weekly": 218,
+    "npm_score_final": 17.15684,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

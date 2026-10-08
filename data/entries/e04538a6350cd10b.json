@@ -9,8 +9,8 @@
     "repo_full_name": "Jaxton07/percho",
     "description": "Percho: Minimalist desktop GUI for the Pi coding agent — the same engine as the Pi CLI, in a clean visual interface. Multi-session chat, visual tool approvals, and custom themes.",
     "stars": 388,
-    "forks": 32,
-    "open_issues": 14,
+    "forks": 33,
+    "open_issues": 13,
     "topics": [
       "agent",
       "ai-agent",
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-08T04:37:46Z",
-    "pushed_at": "2026-10-07T01:25:02Z",
-    "updated_at": "2026-10-07T01:25:06Z",
-    "size": 36274,
+    "pushed_at": "2026-10-08T01:26:09Z",
+    "updated_at": "2026-10-08T01:26:14Z",
+    "size": 36653,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },

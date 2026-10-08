@@ -23,11 +23,11 @@
     "published_at": "2026-08-31T08:06:34.944Z",
     "npm_downloads_monthly": 168,
     "npm_downloads_weekly": 42,
-    "npm_score_final": 18.436481,
+    "npm_score_final": 15.259249,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

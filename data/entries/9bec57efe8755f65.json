@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_christiantietze.de_pi-coding-agent-git-commit-identify-the-",
+  "name": "Make the pi Coding Agent Identify the Model in Commits • Christian Tietze",
+  "url": "https://christiantietze.de/posts/2026/03/pi-coding-agent-git-commit-identify-the-model-audit-trail/",
+  "source": "brave-web-search",
+  "description": "Custom coding agents running different models can nevertheless identify themselves during git commits. With pi, you just need to ask.",
+  "metadata": {
+    "title": "Make the pi Coding Agent Identify the Model in Commits • Christian Tietze",
+    "name": "Make the pi Coding Agent Identify the Model in Commits • Christian Tietze",
+    "description": "Custom coding agents running different models can nevertheless identify themselves during git commits. With pi, you just need to ask.",
+    "published_at": "2026-03-17T07:06:29",
+    "source_site": "Christian Tietze",
+    "source_url": "https://christiantietze.de/posts/2026/03/pi-coding-agent-git-commit-identify-the-model-audit-trail/",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

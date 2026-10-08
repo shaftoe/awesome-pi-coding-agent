@@ -1,0 +1,28 @@
+{
+  "id": "pi-permission-bash-cmd-checker",
+  "name": "pi-permission-bash-cmd-checker",
+  "url": "https://www.npmjs.com/package/pi-permission-bash-cmd-checker",
+  "source": "npm-search",
+  "description": "Pi TUI enhancement plugin for @gotgenes/pi-permission-system with bash command explanations and optional risk assessment",
+  "metadata": {
+    "github_url": "https://github.com/gszj2018/pi-permission-bash-cmd-checker",
+    "npm_name": "pi-permission-bash-cmd-checker",
+    "description": "Pi TUI enhancement plugin for @gotgenes/pi-permission-system with bash command explanations and optional risk assessment",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-07T16:49:31.932Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
