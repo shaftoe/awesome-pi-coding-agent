@@ -174,8 +174,8 @@ importers:
         version: 7.0.2
     devDependencies:
       '@alexanderfortin/semantic-release-keep-a-changelog':
-        specifier: ^0.4.14
-        version: 0.4.14(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))
+        specifier: ^0.5.0
+        version: 0.5.0(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))
       '@biomejs/biome':
         specifier: ^2.5.14
         version: 2.5.14
@@ -198,8 +198,8 @@ importers:
         specifier: ^25.9.8
         version: 25.9.8
       conventional-changelog-conventionalcommits:
-        specifier: ^10.4.0
-        version: 10.4.0
+        specifier: ^10.4.1
+        version: 10.4.1
       semantic-release:
         specifier: ^25.0.9
         version: 25.0.9(supports-color@7.2.0)(typescript@7.0.2)
@@ -239,8 +239,9 @@ packages:
   '@actions/io@3.0.2':
     resolution: {integrity: sha512-nRBchcMM+QK1pdjO7/idu86rbJI5YHUKCvKs0KxnSYbVe3F51UfGxuZX4Qy/fWlp6l7gWFwIkrOzN+oUK03kfw==}
 
-  '@alexanderfortin/semantic-release-keep-a-changelog@0.4.14':
-    resolution: {integrity: sha512-TKzLJXC2vcdnG3RImvIJVVWEDO8aIa9vFBGE+Q+etpXGft4HlROmuGcXIt0TWM/547Nr5WeFPqI4Sp4cLPWzKw==}
+  '@alexanderfortin/semantic-release-keep-a-changelog@0.5.0':
+    resolution: {integrity: sha512-xV7IoNksCeNeQak29YbMLha75DG2S1xWwMM6QxWDOrkbs6lMoOrxUxGSJ7iVasN8KMCzUR1cqkOkmBqFaljksw==}
+    engines: {pnpm: '>=12'}
     peerDependencies:
       semantic-release: '>=24.0.0'
 
@@ -1580,8 +1581,8 @@ packages:
     resolution: {integrity: sha512-6gfI3otXK5Ph5DfCOI1dblr+kN3FAm5a97hYoQkqNZxOaYa5WKfXH+AnpsmS+iUH2mgVC2Cg2Qw9m5OKcmNrIg==}
     engines: {node: '>=18'}
 
-  conventional-changelog-conventionalcommits@10.4.0:
-    resolution: {integrity: sha512-Rriac6ZrAlVm6cy9Bz4NSp+WMHpwNXoPIYex+HjCgduAVUSbnew29DQjQw0C4g9u3HtSYzGiGY+pdBXAZo+4aA==}
+  conventional-changelog-conventionalcommits@10.4.1:
+    resolution: {integrity: sha512-jS1LRFSbRoAr6JbhhRy1JYfNNUj5LM3+v49hRE03CgccsiYqgdVj/RTmrw4J1rylrqijHwdOlJWiJa61JHOgHg==}
     engines: {node: '>=22'}
 
   conventional-changelog-writer@8.4.0:
@@ -3429,7 +3430,7 @@ snapshots:
 
   '@actions/io@3.0.2': {}
 
-  '@alexanderfortin/semantic-release-keep-a-changelog@0.4.14(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))':
+  '@alexanderfortin/semantic-release-keep-a-changelog@0.5.0(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))':
     dependencies:
       '@semantic-release/error': 4.0.0
       conventional-changelog-writer: 9.2.1
@@ -4645,7 +4646,7 @@ snapshots:
     dependencies:
       compare-func: 2.0.0
 
-  conventional-changelog-conventionalcommits@10.4.0:
+  conventional-changelog-conventionalcommits@10.4.1:
     dependencies:
       '@conventional-changelog/template': 1.4.0
 
