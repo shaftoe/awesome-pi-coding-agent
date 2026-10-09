@@ -1,0 +1,25 @@
+{
+  "id": "kruthvik-sato",
+  "name": "kruthvik-sato",
+  "url": "https://github.com/kruthvik/sato",
+  "source": "github-search",
+  "description": "learning engine built as a fork of pi-agent utilizing mainstream learning research",
+  "metadata": {
+    "github_url": "https://github.com/kruthvik/sato",
+    "repo_full_name": "kruthvik/sato",
+    "description": "learning engine built as a fork of pi-agent utilizing mainstream learning research ",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-27T15:16:06Z",
+    "pushed_at": "2026-10-06T20:55:38Z",
+    "updated_at": "2026-10-08T02:39:44Z",
+    "size": 1001,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

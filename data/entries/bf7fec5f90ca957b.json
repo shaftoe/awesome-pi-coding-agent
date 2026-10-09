@@ -1,0 +1,30 @@
+{
+  "id": "@tbolp/pi-skill-manager",
+  "name": "@tbolp/pi-skill-manager",
+  "url": "https://www.npmjs.com/package/@tbolp/pi-skill-manager",
+  "source": "npm-search",
+  "description": "Interactive Pi extension to manage skill loading: per-skill toggles at global and per-project scope, with project-level three-state (disable/enable/inherit).",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@tbolp/pi-skill-manager",
+    "description": "Interactive Pi extension to manage skill loading: per-skill toggles at global and per-project scope, with project-level three-state (disable/enable/inherit).",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "skills",
+      "skill-manager",
+      "coding-agent"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-10-01T09:58:28.695Z",
+    "npm_downloads_monthly": 187,
+    "npm_downloads_weekly": 187,
+    "npm_score_final": 15.340551,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "deepu105-pi-automode-classifier",
+  "name": "deepu105-pi-automode-classifier",
+  "url": "https://github.com/deepu105/pi-automode-classifier",
+  "source": "github-search",
+  "description": "Auto mode for Pi: rules first, then a local decision model, then a confirm prompt",
+  "metadata": {
+    "github_url": "https://github.com/deepu105/pi-automode-classifier",
+    "repo_full_name": "deepu105/pi-automode-classifier",
+    "description": "Auto mode for Pi: rules first, then a local decision model, then a confirm prompt",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "guardrails",
+      "llama-cpp",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-08T09:00:33Z",
+    "pushed_at": "2026-10-08T09:32:15Z",
+    "updated_at": "2026-10-08T23:18:02Z",
+    "size": 47,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

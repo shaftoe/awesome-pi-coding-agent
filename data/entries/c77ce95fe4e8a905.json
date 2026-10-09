@@ -1,0 +1,25 @@
+{
+  "id": "@jwilger/pi-development-system",
+  "name": "@jwilger/pi-development-system",
+  "url": "https://www.npmjs.com/package/@jwilger/pi-development-system",
+  "source": "npm-search",
+  "description": "A pi extension package representing a seasoned approach to software development using a full AI SDLC.",
+  "metadata": {
+    "github_url": "https://github.com/jwilger/pi-development-system",
+    "npm_name": "@jwilger/pi-development-system",
+    "description": "A pi extension package representing a seasoned approach to software development using a full AI SDLC.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.89.0",
+    "published_at": "2026-10-08T22:31:10.444Z",
+    "npm_downloads_monthly": 11599,
+    "npm_downloads_weekly": 11599,
+    "npm_score_final": 29.4293,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

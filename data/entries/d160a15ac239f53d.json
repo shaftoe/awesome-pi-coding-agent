@@ -1,0 +1,37 @@
+{
+  "id": "pi-rename",
+  "name": "pi-rename",
+  "url": "https://www.npmjs.com/package/pi-rename",
+  "source": "npm-search",
+  "description": "Pi coding agent extension — auto-name a new session after the first turn, /rename from the last 5 turns, and mirror the session name into the terminal tab title (VS Code pwsh / Git Bash)",
+  "metadata": {
+    "github_url": "https://github.com/ShaneLevs/pi-rename",
+    "npm_name": "pi-rename",
+    "description": "Pi coding agent extension — auto-name a new session after the first turn, /rename from the last 5 turns, and mirror the session name into the terminal tab title (VS Code pwsh / Git Bash)",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "extension",
+      "session",
+      "session-name",
+      "naming",
+      "rename",
+      "title",
+      "terminal",
+      "terminal-title",
+      "vscode"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-10-09T02:05:52.051Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

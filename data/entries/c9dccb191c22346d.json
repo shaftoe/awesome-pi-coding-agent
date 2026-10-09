@@ -1,0 +1,30 @@
+{
+  "id": "pi-durable-subagents",
+  "name": "pi-durable-subagents",
+  "url": "https://www.npmjs.com/package/pi-durable-subagents",
+  "source": "npm-search",
+  "description": "Subagents for pi that never lose work and never do it twice. Crash-safe workflows, automatic recovery, and a live view just like the main agent.",
+  "metadata": {
+    "github_url": "https://github.com/purboo/pi-durable-subagents",
+    "npm_name": "pi-durable-subagents",
+    "description": "Subagents for pi that never lose work and never do it twice. Crash-safe workflows, automatic recovery, and a live view just like the main agent.",
+    "keywords": [
+      "pi-package",
+      "subagents",
+      "workflow",
+      "durable",
+      "orchestration",
+      "multi-agent"
+    ],
+    "version": "1.0.19",
+    "published_at": "2026-10-09T00:19:23.289Z",
+    "npm_downloads_monthly": 1430,
+    "npm_downloads_weekly": 1430,
+    "npm_score_final": 22.42775,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

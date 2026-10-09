@@ -1,0 +1,30 @@
+{
+  "id": "@rogeecn/pi-retry",
+  "name": "@rogeecn/pi-retry",
+  "url": "https://www.npmjs.com/package/@rogeecn/pi-retry",
+  "source": "npm-search",
+  "description": "Normalize unrecognized transient provider errors (e.g. HTTP/2 PROTOCOL_ERROR from cliproxyapi) so pi's agent-level auto-retry kicks in instead of stopping.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@rogeecn/pi-retry",
+    "description": "Normalize unrecognized transient provider errors (e.g. HTTP/2 PROTOCOL_ERROR from cliproxyapi) so pi's agent-level auto-retry kicks in instead of stopping.",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "pi-extension",
+      "retry",
+      "error-normalizer"
+    ],
+    "version": "1.0.3",
+    "published_at": "2026-10-08T06:52:49.164Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

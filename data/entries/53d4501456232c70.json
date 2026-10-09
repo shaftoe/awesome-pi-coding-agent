@@ -1,0 +1,32 @@
+{
+  "id": "@danielgap/pi-claude-usage",
+  "name": "@danielgap/pi-claude-usage",
+  "url": "https://www.npmjs.com/package/@danielgap/pi-claude-usage",
+  "source": "npm-search",
+  "description": "Claude subscription usage meter for pi-claude-bridge: registers the claude-bridge provider as a Gentle Shell usage source so the native usage bar and /gentle:usage panel show the 5-hour and weekly Claude windows.",
+  "metadata": {
+    "github_url": "https://github.com/danielgap/pi-claude-usage",
+    "npm_name": "@danielgap/pi-claude-usage",
+    "description": "Claude subscription usage meter for pi-claude-bridge: registers the claude-bridge provider as a Gentle Shell usage source so the native usage bar and /gentle:usage panel show the 5-hour and weekly Claude windows.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "claude",
+      "claude-code",
+      "pi-claude-bridge",
+      "usage",
+      "quota"
+    ],
+    "version": "0.2.2",
+    "published_at": "2026-10-08T23:55:34.969Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
