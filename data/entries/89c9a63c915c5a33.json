@@ -1,0 +1,37 @@
+{
+  "id": "langgenius-mosoo",
+  "name": "langgenius-mosoo",
+  "url": "https://github.com/langgenius/mosoo",
+  "source": "github-search",
+  "description": "Open-source managed runtime for OpenAI Codex, Claude Agent SDK, OpenCode, and Pi Agent. Run coding agents through one Agents API with isolated cloud sandboxes, durable sessions, tool streaming, and managed files.",
+  "metadata": {
+    "github_url": "https://github.com/langgenius/mosoo",
+    "repo_full_name": "langgenius/mosoo",
+    "description": "Open-source managed runtime for OpenAI Codex, Claude Agent SDK, OpenCode, and Pi Agent. Run coding agents through one Agents API with isolated cloud sandboxes, durable sessions, tool streaming, and managed files.",
+    "stars": 159,
+    "forks": 24,
+    "open_issues": 34,
+    "topics": [
+      "agent-api",
+      "agent-runtime",
+      "agent-sandbox",
+      "agents-api",
+      "claude-agent-sdk",
+      "codex",
+      "codex-api",
+      "openai-codex",
+      "opencode",
+      "pi-agent",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-13T02:18:02Z",
+    "pushed_at": "2026-10-08T09:13:55Z",
+    "updated_at": "2026-10-08T08:18:54Z",
+    "size": 20421,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

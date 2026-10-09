@@ -8,7 +8,7 @@
     "title": "Pi 1.0 Coding Agent Setup: Installation and MCP Guide",
     "name": "Pi 1.0 Coding Agent Setup: Installation and MCP Guide",
     "description": "Install Pi 1.0, add MCP servers with pi mcp add, and use codemode scripts. A setup guide for developers, based on the official Pi docs.",
-    "published_at": "2026-10-03T21:53:25",
+    "published_at": "2026-10-03T23:13:03",
     "source_site": "SitePoint",
     "source_url": "https://www.sitepoint.com/pi-1-0-coding-agent-setup-mcp/",
     "discovery_hint": "brave:pi-coding-agent"

@@ -3,11 +3,11 @@
   "name": "pi-goal-list-loop-audit",
   "url": "https://www.npmjs.com/package/pi-goal-list-loop-audit",
   "source": "npm-search",
-  "description": "Long-running autonomy for Pi: draft goals, build projects from specs, run audited task queues, and recover interrupted work. Independent auditors verify completion.",
+  "description": "Durable work supervision for Pi: turn outcomes into goals, audited queues and spec-driven builds, recover interruptions, and verify completion against evidence.",
   "metadata": {
     "github_url": "https://github.com/DraconDev/pi-goal-list-loop-audit",
     "npm_name": "pi-goal-list-loop-audit",
-    "description": "Long-running autonomy for Pi: draft goals, build projects from specs, run audited task queues, and recover interrupted work. Independent auditors verify completion.",
+    "description": "Durable work supervision for Pi: turn outcomes into goals, audited queues and spec-driven builds, recover interruptions, and verify completion against evidence.",
     "keywords": [
       "pi-package",
       "pi",
@@ -26,11 +26,11 @@
       "spec-driven",
       "task-queue"
     ],
-    "version": "0.39.16",
-    "published_at": "2026-10-07T19:52:32.967Z",
+    "version": "0.39.17",
+    "published_at": "2026-10-08T16:50:45.117Z",
     "npm_downloads_monthly": 14619,
     "npm_downloads_weekly": 3088,
-    "npm_score_final": 31.40236,
+    "npm_score_final": 30.40048,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

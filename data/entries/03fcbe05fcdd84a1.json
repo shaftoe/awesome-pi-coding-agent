@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_changelog",
+  "name": "Pi Coding Agent",
+  "url": "https://pi.dev/changelog",
+  "source": "brave-web-search",
+  "description": "New version of pi. Download from npm or view release on GitHub. Program status reporting: terminals and agent dashboards that support OSC 7501 see whether Pi is working, blocked on a dialog or login, done, or failed.",
+  "metadata": {
+    "title": "Pi Coding Agent",
+    "name": "Pi Coding Agent",
+    "description": "New version of pi. Download from npm or view release on GitHub. Program status reporting: terminals and agent dashboards that support OSC 7501 see whether Pi is working, blocked on a dialog or login, done, or failed.",
+    "published_at": "2026-09-21T18:03:26",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/changelog",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

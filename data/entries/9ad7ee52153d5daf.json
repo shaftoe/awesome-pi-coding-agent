@@ -1,0 +1,30 @@
+{
+  "id": "Eileenes-pi-desktop",
+  "name": "Eileenes-pi-desktop",
+  "url": "https://github.com/Eileenes/pi-desktop",
+  "source": "github-search",
+  "description": "pi-desktop is a Pi-based desktop application designed to give certain users a GUI, providing a smoother and more intuitive user experience.",
+  "metadata": {
+    "github_url": "https://github.com/Eileenes/pi-desktop",
+    "repo_full_name": "Eileenes/pi-desktop",
+    "description": "pi-desktop is a Pi-based desktop application designed to give certain users a GUI, providing a smoother and more intuitive user experience.",
+    "stars": 25,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-agent",
+      "pi-agent-desktop",
+      "pi-desktop"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-25T17:11:22Z",
+    "pushed_at": "2026-10-08T11:32:11Z",
+    "updated_at": "2026-10-08T11:32:07Z",
+    "size": 65858,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

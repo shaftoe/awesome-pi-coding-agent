@@ -1,0 +1,41 @@
+{
+  "id": "WhiteTowerAI-ohmygame",
+  "name": "WhiteTowerAI-ohmygame",
+  "url": "https://github.com/WhiteTowerAI/ohmygame",
+  "source": "github-search",
+  "description": "The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app. Game canvas. Bring your own key.",
+  "metadata": {
+    "github_url": "https://github.com/WhiteTowerAI/ohmygame",
+    "repo_full_name": "WhiteTowerAI/ohmygame",
+    "description": "The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app. Game canvas.  Bring your own key.",
+    "stars": 108,
+    "forks": 9,
+    "open_issues": 1,
+    "topics": [
+      "ai-coding",
+      "ai-coding-agent",
+      "ai-game-design",
+      "ai-game-dev",
+      "ai-game-development",
+      "ai-image",
+      "ai-video",
+      "canvas",
+      "game-ai",
+      "game-assets",
+      "game-development",
+      "gamedev",
+      "open-game",
+      "pi-agent",
+      "pi-coding-agent-theme"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-11T02:24:24Z",
+    "pushed_at": "2026-10-08T18:07:49Z",
+    "updated_at": "2026-10-09T02:37:03Z",
+    "size": 15625,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pi-optchat",
+  "name": "pi-optchat",
+  "url": "https://www.npmjs.com/package/pi-optchat",
+  "source": "npm-search",
+  "description": "OptChat memory for Pi: persistent profiles, zoomable history, background agents, and conversation imports.",
+  "metadata": {
+    "github_url": "https://github.com/jonaslsaa/pi-optchat",
+    "npm_name": "pi-optchat",
+    "description": "OptChat memory for Pi: persistent profiles, zoomable history, background agents, and conversation imports.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "optchat",
+      "uniichat",
+      "memory",
+      "subagents"
+    ],
+    "version": "0.8.1",
+    "published_at": "2026-10-09T00:16:41.356Z",
+    "npm_downloads_monthly": 1473,
+    "npm_downloads_weekly": 1473,
+    "npm_score_final": 22.270094,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-compact-tools",
+  "name": "pi-compact-tools · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-compact-tools",
+  "source": "brave-web-search",
+  "description": "Review the source before installing third-party packages. Tool rows for Pi in three styles: Claude, Codex, and Compact. Pick the look you know from Claude Code or Codex CLI, or Pi's own compact rows, and switch any time with /compact-tools.",
+  "metadata": {
+    "title": "pi-compact-tools · Packages · Pi",
+    "name": "pi-compact-tools · Packages · Pi",
+    "description": "Review the source before installing third-party packages. Tool rows for Pi in three styles: Claude, Codex, and Compact. Pick the look you know from Claude Code or Codex CLI, or Pi's own compact rows, and switch any time with /compact-tools.",
+    "published_at": "2026-10-03T14:03:27",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-compact-tools",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}

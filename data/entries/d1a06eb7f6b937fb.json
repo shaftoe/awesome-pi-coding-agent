@@ -1,0 +1,29 @@
+{
+  "id": "@ian-pascoe/pi-command-deck",
+  "name": "@ian-pascoe/pi-command-deck",
+  "url": "https://www.npmjs.com/package/@ian-pascoe/pi-command-deck",
+  "source": "npm-search",
+  "description": "Pi extension that replaces the prompt editor and footer with a compact Vim command deck.",
+  "metadata": {
+    "github_url": "https://github.com/ian-pascoe/pi-extensions",
+    "npm_name": "@ian-pascoe/pi-command-deck",
+    "description": "Pi extension that replaces the prompt editor and footer with a compact Vim command deck.",
+    "keywords": [
+      "editor",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "vim"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-08T17:58:37.302Z",
+    "npm_downloads_monthly": 472,
+    "npm_downloads_weekly": 472,
+    "npm_score_final": 18.390524,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "@arkkwang/pi-snap",
+  "name": "@arkkwang/pi-snap",
+  "url": "https://www.npmjs.com/package/@arkkwang/pi-snap",
+  "source": "npm-search",
+  "description": "Compact Pi session snapshots for humans and agents",
+  "metadata": {
+    "github_url": "https://github.com/arkkwang/pi-snap",
+    "npm_name": "@arkkwang/pi-snap",
+    "description": "Compact Pi session snapshots for humans and agents",
+    "keywords": [
+      "pi-agent",
+      "ai",
+      "cli"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-09T00:14:57.275Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

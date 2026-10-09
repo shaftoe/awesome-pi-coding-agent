@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Unified Pi coding-agent providers for Kiro, Devin, and Grok — OAuth/CLI auth, streaming, and auto-updating model catalogs with disk TTL cache.",
   "metadata": {
-    "github_url": "https://github.com/ngosangns/ns-pi-provider",
+    "github_url": "https://github.com/ngosangns/ns-bridge",
     "npm_name": "@ngosangns/ns-pi-provider",
     "description": "Unified Pi coding-agent providers for Kiro, Devin, and Grok — OAuth/CLI auth, streaming, and auto-updating model catalogs with disk TTL cache.",
     "keywords": [
@@ -20,15 +20,15 @@
       "provider",
       "oauth"
     ],
-    "version": "0.1.7",
-    "published_at": "2026-10-03T20:37:37.908Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.4.0",
+    "published_at": "2026-10-08T21:08:53.272Z",
+    "npm_downloads_monthly": 1035,
+    "npm_downloads_weekly": 1035,
+    "npm_score_final": 21.081842,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

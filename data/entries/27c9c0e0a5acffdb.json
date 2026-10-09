@@ -8,7 +8,7 @@
     "github_url": "https://github.com/amalavet/pi-reply-guard",
     "repo_full_name": "amalavet/pi-reply-guard",
     "description": "Checks each agent reply against a list of skills. A classifier model determines if the reply adheres to the skill on a scale of 0-1. If a reply does not adhere to the skill, the agent is prompted to edit their reply to adhere to the skill.",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-07T19:47:39Z",
-    "pushed_at": "2026-10-08T00:31:31Z",
-    "updated_at": "2026-10-08T01:07:45Z",
-    "size": 59,
+    "pushed_at": "2026-10-08T17:57:16Z",
+    "updated_at": "2026-10-08T17:57:20Z",
+    "size": 64,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
