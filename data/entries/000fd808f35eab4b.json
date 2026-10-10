@@ -1,0 +1,38 @@
+{
+  "id": "C-W-Z-pi-windows-notifier",
+  "name": "C-W-Z-pi-windows-notifier",
+  "url": "https://github.com/C-W-Z/pi-windows-notifier",
+  "source": "github-search",
+  "description": "A safety notifier for Pi on Windows",
+  "metadata": {
+    "github_url": "https://github.com/C-W-Z/pi-windows-notifier",
+    "repo_full_name": "C-W-Z/pi-windows-notifier",
+    "description": "A safety notifier for Pi on Windows",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "notification",
+      "notification-service",
+      "notification-system",
+      "notifications",
+      "notifier",
+      "notify",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "windows",
+      "windows-10",
+      "windows-11"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-09T03:52:27Z",
+    "pushed_at": "2026-10-09T22:51:41Z",
+    "updated_at": "2026-10-09T22:51:46Z",
+    "size": 253,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

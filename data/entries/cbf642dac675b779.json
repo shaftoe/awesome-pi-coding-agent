@@ -1,0 +1,36 @@
+{
+  "id": "ArdaYILDIZ-DEV-arda-pi-ui",
+  "name": "ArdaYILDIZ-DEV-arda-pi-ui",
+  "url": "https://github.com/ArdaYILDIZ-DEV/arda-pi-ui",
+  "source": "github-search",
+  "description": "Arda's minimal Pi UI: two-row status footer, live token rate, cache timer and compact tool views.",
+  "metadata": {
+    "github_url": "https://github.com/ArdaYILDIZ-DEV/arda-pi-ui",
+    "repo_full_name": "ArdaYILDIZ-DEV/arda-pi-ui",
+    "description": "Arda's minimal Pi UI: two-row status footer, live token rate, cache timer and compact tool views.",
+    "stars": 7,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "cache-ttl",
+      "claude-code",
+      "developer-tools",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "prompt-caching",
+      "terminal-ui",
+      "tui",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-09T18:05:01Z",
+    "pushed_at": "2026-10-09T14:37:37Z",
+    "updated_at": "2026-10-09T14:37:42Z",
+    "size": 423,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

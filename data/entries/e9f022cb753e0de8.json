@@ -1,0 +1,25 @@
+{
+  "id": "jokerx0001-pi-model-system-prompt",
+  "name": "jokerx0001-pi-model-system-prompt",
+  "url": "https://github.com/jokerx0001/pi-model-system-prompt",
+  "source": "github-search",
+  "description": "A Pi agent extension for custom model-based system prompt.",
+  "metadata": {
+    "github_url": "https://github.com/jokerx0001/pi-model-system-prompt",
+    "repo_full_name": "jokerx0001/pi-model-system-prompt",
+    "description": "A Pi agent extension for custom model-based system prompt.",
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-06T12:22:49Z",
+    "pushed_at": "2026-10-09T00:28:44Z",
+    "updated_at": "2026-10-09T15:14:20Z",
+    "size": 397,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

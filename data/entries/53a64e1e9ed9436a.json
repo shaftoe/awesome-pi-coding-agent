@@ -3,15 +3,15 @@
   "name": "Pi Durable | Earendil",
   "url": "https://earendil.com/posts/pi-durable/",
   "source": "brave-web-search",
-  "description": "Pi Durable is a new experimental package for long-running, durable, and malleable agents that can run anywhere. A tour of what we built and why.",
+  "description": "Today Earendil and the Pi community ... to evolve. Together with Pi 1.0, we are shipping an experimental new package called Pi Durable....",
   "metadata": {
     "title": "Pi Durable | Earendil",
     "name": "Pi Durable | Earendil",
-    "description": "Pi Durable is a new experimental package for long-running, durable, and malleable agents that can run anywhere. A tour of what we built and why.",
-    "published_at": "2026-10-01T18:38:00",
+    "description": "Today Earendil and the Pi community ... to evolve. Together with Pi 1.0, we are shipping an experimental new package called Pi Durable....",
+    "published_at": "2026-10-01T00:00:00",
     "source_site": "Earendil",
     "source_url": "https://earendil.com/posts/pi-durable/",
-    "discovery_hint": "brave:pi-agent"
+    "discovery_hint": "brave:pi-package"
   },
   "category": "article"
 }

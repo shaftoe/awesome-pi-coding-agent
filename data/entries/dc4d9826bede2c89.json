@@ -8,7 +8,7 @@
     "title": "Pi coding agent explained: how it works and what Pi 1.0 changed | eesel AI",
     "name": "Pi coding agent explained: how it works and what Pi 1.0 changed | eesel AI",
     "description": "Pi describes itself in one line in its README: \"a minimal, extensible agent harness that you can make your own.\" A harness is the program that wraps a language model with a loop, tools and a user interface, so the model can actually read files, ...",
-    "published_at": "2026-10-07T01:30:29",
+    "published_at": "2026-10-07T09:54:24",
     "source_site": "Eesel AI",
     "source_url": "https://www.eesel.ai/blog/pi-coding-agent",
     "discovery_hint": "brave:pi-coding-agent"

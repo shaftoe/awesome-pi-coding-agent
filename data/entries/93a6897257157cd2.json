@@ -3,15 +3,15 @@
   "name": "Pi coding agent pulls a 180 and adds MCP support",
   "url": "https://www.theregister.com/ai-and-ml/2026/10/02/pi-coding-agent-pulls-a-180-and-adds-mcp-support/5300678",
   "source": "brave-web-search",
-  "description": "Nonetheless, Pi has gained some features. These include Codemode, a harness-side sandbox that helps agents issue tool calls, with support for MCP, decision models, and image models; extension support for virtual models; deferred tool loading; cache warming for Anthropic models; mid-conversation system messages; a new TUI theme; and full-screen mode by default.",
+  "description": "Earendil describes Pi as \"a hardened, minimal, extensible agent harness that you can make your own.\" If Pi were a Python web framework, it would be Flask rather than Django. Nonetheless, Pi has gained some features. These include Codemode, a harness-side sandbox that helps agents issue tool calls, with support for MCP, decision models, and image models; extension support for virtual models; deferred tool loading; cache warming for Anthropic models; mid-conversation system messages; a new TUI theme; and full-screen mode by default.",
   "metadata": {
     "title": "Pi coding agent pulls a 180 and adds MCP support",
     "name": "Pi coding agent pulls a 180 and adds MCP support",
-    "description": "Nonetheless, Pi has gained some features. These include Codemode, a harness-side sandbox that helps agents issue tool calls, with support for MCP, decision models, and image models; extension support for virtual models; deferred tool loading; cache warming for Anthropic models; mid-conversation system messages; a new TUI theme; and full-screen mode by default.",
+    "description": "Earendil describes Pi as \"a hardened, minimal, extensible agent harness that you can make your own.\" If Pi were a Python web framework, it would be Flask rather than Django. Nonetheless, Pi has gained some features. These include Codemode, a harness-side sandbox that helps agents issue tool calls, with support for MCP, decision models, and image models; extension support for virtual models; deferred tool loading; cache warming for Anthropic models; mid-conversation system messages; a new TUI theme; and full-screen mode by default.",
     "published_at": "2026-10-02T05:23:28",
     "source_site": "The Register",
     "source_url": "https://www.theregister.com/ai-and-ml/2026/10/02/pi-coding-agent-pulls-a-180-and-adds-mcp-support/5300678",
-    "discovery_hint": "brave:pi-agent"
+    "discovery_hint": "brave:pi-coding-agent"
   },
   "category": "article"
 }

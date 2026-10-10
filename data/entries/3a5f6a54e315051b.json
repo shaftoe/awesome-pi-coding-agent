@@ -1,0 +1,30 @@
+{
+  "id": "pi-simple-snippets",
+  "name": "pi-simple-snippets",
+  "url": "https://www.npmjs.com/package/pi-simple-snippets",
+  "source": "npm-search",
+  "description": "Expand %snippet markers in Pi prompts. Comes with built-in fuzzy-finder and trivial tweakability",
+  "metadata": {
+    "github_url": "https://github.com/nietaki/pi-simple-snippets",
+    "npm_name": "pi-simple-snippets",
+    "description": "Expand %snippet markers in Pi prompts. Comes with built-in fuzzy-finder and trivial tweakability",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "snippets",
+      "autocomplete",
+      "shortcuts"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-09T22:57:21.170Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
