@@ -3,15 +3,15 @@
   "name": "pi-gui: the desktop app for the pi coding agent",
   "url": "https://www.pi-gui.com/",
   "source": "brave-web-search",
-  "description": "Run the pi coding agent in parallel threads, review every change, and ship from one window. macOS, Linux and Windows.",
+  "description": "pi is an open source coding agent that runs in your terminal.",
   "metadata": {
     "title": "pi-gui: the desktop app for the pi coding agent",
     "name": "pi-gui: the desktop app for the pi coding agent",
-    "description": "Run the pi coding agent in parallel threads, review every change, and ship from one window. macOS, Linux and Windows.",
+    "description": "pi is an open source coding agent that runs in your terminal.",
     "published_at": null,
     "source_site": "pi-gui",
     "source_url": "https://www.pi-gui.com/",
-    "discovery_hint": "brave:pi-coding-agent"
+    "discovery_hint": "brave:pi-agent"
   },
   "category": "article"
 }

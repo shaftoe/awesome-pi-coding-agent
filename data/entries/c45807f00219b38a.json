@@ -3,12 +3,12 @@
   "name": "Pi Coding Agent",
   "url": "https://pi.dev/packages/pi-agents",
   "source": "brave-web-search",
-  "description": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours. A generic framework for agent orchestration in pi.Packages",
+  "description": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours. Durable, named agents for pi, built on pi-durable.Packages",
   "metadata": {
     "title": "Pi Coding Agent",
     "name": "Pi Coding Agent",
-    "description": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours. A generic framework for agent orchestration in pi.Packages",
-    "published_at": "2026-08-29T00:00:00",
+    "description": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours. Durable, named agents for pi, built on pi-durable.Packages",
+    "published_at": "2026-10-09T02:44:23",
     "source_site": "Pi",
     "source_url": "https://pi.dev/packages/pi-agents",
     "discovery_hint": "brave:pi-agent"

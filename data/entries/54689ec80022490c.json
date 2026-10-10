@@ -10,7 +10,7 @@
     "description": "Extensions, subagents, and workflow prompts for the pi AI coding agent",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "agentic-ai",
       "coding-agent",
@@ -19,9 +19,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-20T07:16:49Z",
-    "pushed_at": "2026-10-04T13:24:22Z",
+    "pushed_at": "2026-10-09T20:02:20Z",
     "updated_at": "2026-10-04T13:24:24Z",
-    "size": 338,
+    "size": 386,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

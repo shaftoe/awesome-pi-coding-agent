@@ -1,0 +1,30 @@
+{
+  "id": "@arturleao/pi-intent",
+  "name": "@arturleao/pi-intent",
+  "url": "https://www.npmjs.com/package/@arturleao/pi-intent",
+  "source": "npm-search",
+  "description": "ICED for pi: one-line intent, a few questions, human sign-off, autonomous build, independent verification",
+  "metadata": {
+    "github_url": "https://github.com/arturleao/pi-intent",
+    "npm_name": "@arturleao/pi-intent",
+    "description": "ICED for pi: one-line intent, a few questions, human sign-off, autonomous build, independent verification",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "iced",
+      "idsd",
+      "intent-driven",
+      "agents"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-10-02T15:39:34.864Z",
+    "npm_downloads_monthly": 970,
+    "npm_downloads_weekly": 970,
+    "npm_score_final": 20.848515,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

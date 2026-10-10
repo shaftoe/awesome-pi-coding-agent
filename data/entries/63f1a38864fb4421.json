@@ -8,7 +8,7 @@
     "github_url": "https://github.com/SamMorrowDrums/mcpi-ext",
     "repo_full_name": "SamMorrowDrums/mcpi-ext",
     "description": "MCP focused pi agent",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 20,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-23T07:55:38Z",
     "pushed_at": "2026-10-03T05:27:16Z",
-    "updated_at": "2026-10-03T05:27:21Z",
+    "updated_at": "2026-10-09T06:49:22Z",
     "size": 2202,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

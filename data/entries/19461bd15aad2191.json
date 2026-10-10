@@ -1,0 +1,29 @@
+{
+  "id": "@yuru7/pi-sandbox",
+  "name": "@yuru7/pi-sandbox",
+  "url": "https://www.npmjs.com/package/@yuru7/pi-sandbox",
+  "source": "npm-search",
+  "description": "Process-level, path-transparent sandbox for Pi coding agent with fail-closed workspace protection (bwrap, landlock, seatbelt, windows-acl) and denial-first AI auto-review escalation",
+  "metadata": {
+    "github_url": "https://github.com/yandy/pi-packages",
+    "npm_name": "@yuru7/pi-sandbox",
+    "description": "Process-level, path-transparent sandbox for Pi coding agent with fail-closed workspace protection (bwrap, landlock, seatbelt, windows-acl) and denial-first AI auto-review escalation",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "pi-extension",
+      "sandbox",
+      "auto-review"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-09T15:58:20.028Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

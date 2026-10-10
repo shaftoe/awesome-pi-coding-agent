@@ -1,0 +1,29 @@
+{
+  "id": "@iniesta8888/agent-live-pi",
+  "name": "@iniesta8888/agent-live-pi",
+  "url": "https://www.npmjs.com/package/@iniesta8888/agent-live-pi",
+  "source": "npm-search",
+  "description": "Pi adapter for the Agent Live pixel office",
+  "metadata": {
+    "github_url": "https://github.com/ssssnail/agent-live",
+    "npm_name": "@iniesta8888/agent-live-pi",
+    "description": "Pi adapter for the Agent Live pixel office",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "coding-agent",
+      "agent-live",
+      "pixel-office"
+    ],
+    "version": "0.3.5",
+    "published_at": "2026-10-02T14:20:51.244Z",
+    "npm_downloads_monthly": 276,
+    "npm_downloads_weekly": 193,
+    "npm_score_final": 16.55911,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

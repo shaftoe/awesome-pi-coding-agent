@@ -1,0 +1,30 @@
+{
+  "id": "tinypi-extension-tinysubagent",
+  "name": "tinypi-extension-tinysubagent",
+  "url": "https://github.com/tinypi-extension/tinysubagent",
+  "source": "github-search",
+  "description": "Minimal herdr-native subagent spawning for pi — markdown agent roles, model profiles with classifier routing",
+  "metadata": {
+    "github_url": "https://github.com/tinypi-extension/tinysubagent",
+    "repo_full_name": "tinypi-extension/tinysubagent",
+    "description": "Minimal herdr-native subagent spawning for pi — markdown agent roles, model profiles with classifier routing",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "herdr",
+      "jev",
+      "pi-coding-agent",
+      "subagents"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-11T03:36:12Z",
+    "pushed_at": "2026-10-09T10:32:38Z",
+    "updated_at": "2026-10-09T10:32:43Z",
+    "size": 938,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

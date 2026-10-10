@@ -1,0 +1,32 @@
+{
+  "id": "humblemuzzu-muzzpi",
+  "name": "humblemuzzu-muzzpi",
+  "url": "https://github.com/humblemuzzu/muzzpi",
+  "source": "github-search",
+  "description": "pi, fully loaded: six sub-agents, web search, GitHub and screenshot tools, undoable edits, and a TUI built for all-day agent sessions.",
+  "metadata": {
+    "github_url": "https://github.com/humblemuzzu/muzzpi",
+    "repo_full_name": "humblemuzzu/muzzpi",
+    "description": "pi, fully loaded: six sub-agents, web search, GitHub and screenshot tools, undoable edits, and a TUI built for all-day agent sessions.",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "agent-harness",
+      "ai-agents",
+      "claude",
+      "coding-agent",
+      "pi",
+      "terminal"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-10T16:56:28Z",
+    "pushed_at": "2026-10-09T11:24:19Z",
+    "updated_at": "2026-10-09T11:24:24Z",
+    "size": 3525,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

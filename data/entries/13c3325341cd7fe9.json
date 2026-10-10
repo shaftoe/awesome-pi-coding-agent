@@ -1,0 +1,25 @@
+{
+  "id": "@m-rui/pi-mate-companion",
+  "name": "@m-rui/pi-mate-companion",
+  "url": "https://www.npmjs.com/package/@m-rui/pi-mate-companion",
+  "source": "npm-search",
+  "description": "Persisto Mate companion as an installable pi extension: a learned body clock, real sleep and dreams, its own memory and feelings.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@m-rui/pi-mate-companion",
+    "description": "Persisto Mate companion as an installable pi extension: a learned body clock, real sleep and dreams, its own memory and feelings.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.5.3",
+    "published_at": "2026-10-09T11:35:46.270Z",
+    "npm_downloads_monthly": 320,
+    "npm_downloads_weekly": 320,
+    "npm_score_final": 16.926497,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

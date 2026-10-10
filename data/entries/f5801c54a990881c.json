@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Bukutsu/pi-ping",
     "repo_full_name": "Bukutsu/pi-ping",
     "description": "Minimal desktop notifications for the Pi coding agent when work finishes while you're away. Suppresses alerts when the terminal is known to be focused. Customizable messages and unread tab markers.",
-    "stars": 3,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -27,7 +27,7 @@
     "archived": false,
     "created_at": "2026-08-02T10:14:45Z",
     "pushed_at": "2026-10-09T01:20:45Z",
-    "updated_at": "2026-10-09T01:20:43Z",
+    "updated_at": "2026-10-10T00:25:57Z",
     "size": 214,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

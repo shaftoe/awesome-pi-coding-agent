@@ -1,0 +1,43 @@
+{
+  "id": "@saifymatteo/pi-agent-ask",
+  "name": "@saifymatteo/pi-agent-ask",
+  "url": "https://www.npmjs.com/package/@saifymatteo/pi-agent-ask",
+  "source": "npm-search",
+  "description": "Let your Pi agent ask instead of guessing, and keep working while you answer.",
+  "metadata": {
+    "github_url": "https://github.com/saifymatteo/pi-agent-ask",
+    "npm_name": "@saifymatteo/pi-agent-ask",
+    "description": "Let your Pi agent ask instead of guessing, and keep working while you answer.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "pi-agent",
+      "ai-agent",
+      "coding-agent",
+      "agentic-coding",
+      "agent-tools",
+      "ask-user",
+      "clarification",
+      "human-in-the-loop",
+      "user-input",
+      "decision-making",
+      "background-questions",
+      "questionnaire",
+      "session-history",
+      "terminal-ui",
+      "typescript"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-10-09T14:19:10.329Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

@@ -3,15 +3,15 @@
   "name": "Piagent — The resource map & news hub for the Pi coding agent",
   "url": "https://piagent.fyi/",
   "source": "brave-web-search",
-  "description": "- Added inherited GPT-6 Sol and GPT-6 Luna support for OpenAI API keys and OpenAI Codex subscriptions. - Added inherited Claude Opus 5.5 support for Anthropic with adaptive thinking and a 1M context window. Changed - Changed the defaView all → ... The Pi monorepo: unified LLM API, agent loop, ...",
+  "description": "Piagent tracks the Pi coding agent ecosystem: releases, extensions, themes, tutorials and community projects — verified data, zero fluff.",
   "metadata": {
     "title": "Piagent — The resource map & news hub for the Pi coding agent",
     "name": "Piagent — The resource map & news hub for the Pi coding agent",
-    "description": "- Added inherited GPT-6 Sol and GPT-6 Luna support for OpenAI API keys and OpenAI Codex subscriptions. - Added inherited Claude Opus 5.5 support for Anthropic with adaptive thinking and a 1M context window. Changed - Changed the defaView all → ... The Pi monorepo: unified LLM API, agent loop, ...",
+    "description": "Piagent tracks the Pi coding agent ecosystem: releases, extensions, themes, tutorials and community projects — verified data, zero fluff.",
     "published_at": null,
     "source_site": "Piagent",
     "source_url": "https://piagent.fyi/",
-    "discovery_hint": "brave:pi-coding-agent"
+    "discovery_hint": "brave:pi-agent"
   },
   "category": "article"
 }

@@ -1,0 +1,31 @@
+{
+  "id": "pi-nimble-compact",
+  "name": "pi-nimble-compact",
+  "url": "https://www.npmjs.com/package/pi-nimble-compact",
+  "source": "npm-search",
+  "description": "Automatic Nimble context clearing for Pi. Keep the conversation, prune stale tool output, retrieve originals without rerunning commands.",
+  "metadata": {
+    "github_url": "https://github.com/SirDarcanos/pi-nimble-compact",
+    "npm_name": "pi-nimble-compact",
+    "description": "Automatic Nimble context clearing for Pi. Keep the conversation, prune stale tool output, retrieve originals without rerunning commands.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "nimble",
+      "bespoke",
+      "ollama",
+      "compaction",
+      "context"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-10-02T04:07:57.873Z",
+    "npm_downloads_monthly": 514,
+    "npm_downloads_weekly": 514,
+    "npm_score_final": 18.497122,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
