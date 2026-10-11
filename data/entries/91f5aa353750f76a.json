@@ -8,7 +8,7 @@
     "github_url": "https://github.com/whutlichao/worksplice",
     "repo_full_name": "whutlichao/worksplice",
     "description": "Local workspace for coordinating persistent pi coding agent sessions with shared channels, freshness-checked writes, task review, and reminders.",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -31,9 +31,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-03T03:36:47Z",
-    "pushed_at": "2026-10-10T00:02:32Z",
-    "updated_at": "2026-10-10T00:02:36Z",
-    "size": 9741,
+    "pushed_at": "2026-10-11T01:11:22Z",
+    "updated_at": "2026-10-11T01:11:27Z",
+    "size": 8299,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

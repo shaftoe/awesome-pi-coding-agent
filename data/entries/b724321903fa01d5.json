@@ -1,0 +1,28 @@
+{
+  "id": "@shopwarelabs/github-agent-tools",
+  "name": "@shopwarelabs/github-agent-tools",
+  "url": "https://www.npmjs.com/package/@shopwarelabs/github-agent-tools",
+  "source": "npm-search",
+  "description": "GitHub CLI MCP servers for pull requests, issues, CI, and repositories, with enforcement that keeps the agent on the MCP tools.",
+  "metadata": {
+    "github_url": "https://github.com/shopwareLabs/github-agent-tools",
+    "npm_name": "@shopwarelabs/github-agent-tools",
+    "description": "GitHub CLI MCP servers for pull requests, issues, CI, and repositories, with enforcement that keeps the agent on the MCP tools.",
+    "keywords": [
+      "pi-package",
+      "github",
+      "gh",
+      "mcp"
+    ],
+    "version": "5.0.1",
+    "published_at": "2026-10-03T14:48:54.892Z",
+    "npm_downloads_monthly": 338,
+    "npm_downloads_weekly": 338,
+    "npm_score_final": 17.476574,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

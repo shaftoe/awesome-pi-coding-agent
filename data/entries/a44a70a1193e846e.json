@@ -10,7 +10,7 @@
     "description": "🏗️ AGRO — Agent Governance Runtime Orchestrator. A portable home for autonomous coding agents.",
     "stars": 41,
     "forks": 4,
-    "open_issues": 21,
+    "open_issues": 22,
     "topics": [
       "agent-sandbox",
       "ai-agents",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-27T04:26:44Z",
-    "pushed_at": "2026-10-09T15:57:22Z",
+    "pushed_at": "2026-10-10T21:20:51Z",
     "updated_at": "2026-10-09T15:18:49Z",
-    "size": 23958,
+    "size": 24190,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

@@ -10,7 +10,7 @@
     "description": "Pi extension that keeps supported provider prompt caches warm during long idle gaps",
     "stars": 1,
     "forks": 1,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "pi-extension",
       "pi-package",

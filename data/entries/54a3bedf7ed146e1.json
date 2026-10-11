@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi-desktop.app_en",
+  "name": "Pi Agent Desktop — A true desktop workspace for Pi Coding Agent",
+  "url": "https://pi-desktop.app/en/",
+  "source": "brave-web-search",
+  "description": "Pi Agent Desktop is a local-first workspace for Pi Coding Agent with sessions, project files, a shared browser, Herdr Agent fleets, managed processes, models, extensions, and messaging.",
+  "metadata": {
+    "title": "Pi Agent Desktop — A true desktop workspace for Pi Coding Agent",
+    "name": "Pi Agent Desktop — A true desktop workspace for Pi Coding Agent",
+    "description": "Pi Agent Desktop is a local-first workspace for Pi Coding Agent with sessions, project files, a shared browser, Herdr Agent fleets, managed processes, models, extensions, and messaging.",
+    "published_at": "2026-07-20T00:00:00",
+    "source_site": "Pi-desktop",
+    "source_url": "https://pi-desktop.app/en/",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

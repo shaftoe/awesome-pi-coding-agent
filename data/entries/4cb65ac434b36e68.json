@@ -10,7 +10,7 @@
     "description": "Sync and store memories, shared identity files (AGENTS.md, CLAUDE.md), session transcripts, institutional knowledge, and secrets between all of your favorite harnesses and models.",
     "stars": 305,
     "forks": 43,
-    "open_issues": 87,
+    "open_issues": 88,
     "topics": [
       "agent-memory",
       "ai-memory",

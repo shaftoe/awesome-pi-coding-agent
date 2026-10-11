@@ -1,0 +1,37 @@
+{
+  "id": "pi-session-affinity",
+  "name": "pi-session-affinity",
+  "url": "https://www.npmjs.com/package/pi-session-affinity",
+  "source": "npm-search",
+  "description": "Faster pi on self-hosted and gateway-routed models: keeps each conversation on the inference engine that holds its prompt cache with a per-session routing header, plus an optional post-compaction boundary request.",
+  "metadata": {
+    "github_url": "https://github.com/lobo235/pi-session-affinity",
+    "npm_name": "pi-session-affinity",
+    "description": "Faster pi on self-hosted and gateway-routed models: keeps each conversation on the inference engine that holds its prompt cache with a per-session routing header, plus an optional post-compaction boundary request.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "coding-agent",
+      "llm",
+      "ai-agents",
+      "session-affinity",
+      "prefix-cache",
+      "prompt-caching",
+      "kv-cache",
+      "litellm",
+      "vllm"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-10-10T22:37:51.088Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

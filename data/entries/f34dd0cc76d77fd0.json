@@ -10,7 +10,7 @@
     "description": "Pi extension: let agents change their working directory mid-session (git worktrees, monorepos) — change_dir tool + /cwd command",
     "stars": 3,
     "forks": 0,
-    "open_issues": 4,
+    "open_issues": 5,
     "topics": [
       "coding-agent",
       "git-worktree",
@@ -21,7 +21,7 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-02T03:25:01Z",
-    "pushed_at": "2026-10-08T05:52:35Z",
+    "pushed_at": "2026-10-11T01:11:22Z",
     "updated_at": "2026-10-02T02:01:43Z",
     "size": 304,
     "license": "MIT",

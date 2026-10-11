@@ -10,7 +10,7 @@
     "description": "Your engineering taste, in every coding agent. Shadowclone learns your rules and delivers them as skills to Claude Code, Codex, Cursor, Pi, and Antigravity, and as a GitHub cloud bot.",
     "stars": 9,
     "forks": 0,
-    "open_issues": 4,
+    "open_issues": 3,
     "topics": [
       "agent-skills",
       "agents-md",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-20T16:16:21Z",
-    "pushed_at": "2026-10-10T00:48:48Z",
-    "updated_at": "2026-10-09T23:30:45Z",
-    "size": 6622,
+    "pushed_at": "2026-10-11T01:08:33Z",
+    "updated_at": "2026-10-11T01:06:09Z",
+    "size": 6038,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

@@ -10,7 +10,7 @@
     "description": "IUMBTEMS (I Use My Brain To Express My Self): High-integrity dialectic research agent harness for Claude Code, Pi (pi.dev), and OpenCode V2. Enforces verified empirical citations, dialectic thesis/antithesis swarms, and Socratic grilling.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 21,
+    "open_issues": 157,
     "topics": [
       "ai-agents",
       "autonomous-agents",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-26T16:25:29Z",
-    "pushed_at": "2026-10-10T01:58:46Z",
+    "pushed_at": "2026-10-11T01:14:44Z",
     "updated_at": "2026-10-10T01:33:51Z",
-    "size": 3003,
+    "size": 2055,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

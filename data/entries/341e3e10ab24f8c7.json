@@ -10,7 +10,7 @@
     "description": "Terminal status extensions for the Pi coding agent (tmux, Zed, Orca, Herdr)",
     "stars": 3,
     "forks": 2,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

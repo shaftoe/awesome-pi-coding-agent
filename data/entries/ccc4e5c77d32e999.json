@@ -1,0 +1,35 @@
+{
+  "id": "pi-system-pin",
+  "name": "pi-system-pin",
+  "url": "https://www.npmjs.com/package/pi-system-pin",
+  "source": "npm-search",
+  "description": "Stops pi re-reading your whole conversation when an extension's message starts a run: keeps the system block byte-identical so prefix caches hold. A stopgap for pi#5581; uninstall it once pi fixes that issue.",
+  "metadata": {
+    "github_url": "https://github.com/lobo235/pi-system-pin",
+    "npm_name": "pi-system-pin",
+    "description": "Stops pi re-reading your whole conversation when an extension's message starts a run: keeps the system block byte-identical so prefix caches hold. A stopgap for pi#5581; uninstall it once pi fixes that issue.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "coding-agent",
+      "llm",
+      "ai-agents",
+      "prompt-cache",
+      "prompt-caching",
+      "system-prompt",
+      "kv-cache"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-10-10T22:40:25.694Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
