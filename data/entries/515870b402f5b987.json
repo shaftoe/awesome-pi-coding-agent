@@ -1,0 +1,34 @@
+{
+  "id": "@orbit-labs-ai/translator",
+  "name": "@orbit-labs-ai/translator",
+  "url": "https://www.npmjs.com/package/@orbit-labs-ai/translator",
+  "source": "npm-search",
+  "description": "Isolated Pi and Claude Code translation hooks with history reuse, independent controls, and display-only Chinese output",
+  "metadata": {
+    "github_url": "https://github.com/Orbit-Labs-AI/orbit-tools",
+    "npm_name": "@orbit-labs-ai/translator",
+    "description": "Isolated Pi and Claude Code translation hooks with history reuse, independent controls, and display-only Chinese output",
+    "keywords": [
+      "ai-tools",
+      "ai-agents",
+      "developer-tools",
+      "agent-hooks",
+      "pi",
+      "pi-package",
+      "claude-code",
+      "translation",
+      "prompt-translation",
+      "bilingual"
+    ],
+    "version": "0.6.7",
+    "published_at": "2026-10-10T15:34:26.386Z",
+    "npm_downloads_monthly": 286,
+    "npm_downloads_weekly": 286,
+    "npm_score_final": 16.509636,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

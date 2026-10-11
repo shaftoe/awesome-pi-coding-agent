@@ -1,0 +1,31 @@
+{
+  "id": "@fahrizkyputra/pi-delete-session",
+  "name": "@fahrizkyputra/pi-delete-session",
+  "url": "https://www.npmjs.com/package/@fahrizkyputra/pi-delete-session",
+  "source": "npm-search",
+  "description": "Delete the active Pi session (and start a fresh one), or multi-select saved sessions to clean up. Confirmation first, extra confirmation for favorites, trash-safe deletion.",
+  "metadata": {
+    "github_url": "https://github.com/fahrizkyputra/pi-delete-session",
+    "npm_name": "@fahrizkyputra/pi-delete-session",
+    "description": "Delete the active Pi session (and start a fresh one), or multi-select saved sessions to clean up. Confirmation first, extra confirmation for favorites, trash-safe deletion.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "session",
+      "delete-session",
+      "cleanup",
+      "trash"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-10-10T20:38:13.444Z",
+    "npm_downloads_monthly": 988,
+    "npm_downloads_weekly": 988,
+    "npm_score_final": 20.986223,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

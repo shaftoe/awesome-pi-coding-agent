@@ -10,7 +10,7 @@
     "description": "Automatically route each Pi prompt to a model based on task complexity, price, speed, or context length. Smart model router for pi.",
     "stars": 69,
     "forks": 7,
-    "open_issues": 10,
+    "open_issues": 12,
     "topics": [
       "ai",
       "coding-agent",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-25T12:28:15Z",
-    "pushed_at": "2026-10-09T21:40:16Z",
+    "pushed_at": "2026-10-10T19:10:13Z",
     "updated_at": "2026-10-09T22:43:21Z",
-    "size": 2888,
+    "size": 2311,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

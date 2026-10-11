@@ -10,7 +10,7 @@
     "description": "GitHub action to integrate https://pi.dev/ coding agent with GitHub-compatible CI/CD, issues and PRs",
     "stars": 76,
     "forks": 20,
-    "open_issues": 5,
+    "open_issues": 6,
     "topics": [
       "ai-assisted",
       "code-review",

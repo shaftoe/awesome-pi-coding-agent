@@ -3,11 +3,11 @@
   "name": "@saifymatteo/pi-agent-ask",
   "url": "https://www.npmjs.com/package/@saifymatteo/pi-agent-ask",
   "source": "npm-search",
-  "description": "Let your Pi agent ask instead of guessing, and keep working while you answer.",
+  "description": "Let your Pi agent ask instead of guessing, and keep working while you answer",
   "metadata": {
     "github_url": "https://github.com/saifymatteo/pi-agent-ask",
     "npm_name": "@saifymatteo/pi-agent-ask",
-    "description": "Let your Pi agent ask instead of guessing, and keep working while you answer.",
+    "description": "Let your Pi agent ask instead of guessing, and keep working while you answer",
     "keywords": [
       "pi-package",
       "pi",
@@ -29,8 +29,8 @@
       "terminal-ui",
       "typescript"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-10-09T14:19:10.329Z",
+    "version": "1.0.1",
+    "published_at": "2026-10-10T02:38:50.067Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

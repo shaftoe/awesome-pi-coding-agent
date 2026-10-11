@@ -8,8 +8,8 @@
     "github_url": "https://github.com/temporalio/pi-temporal",
     "repo_full_name": "temporalio/pi-temporal",
     "description": "Temporal executor for the Pi coding agent: kill the worker mid-turn and another machine finishes it.",
-    "stars": 4,
-    "forks": 0,
+    "stars": 5,
+    "forks": 1,
     "open_issues": 6,
     "topics": [
       "ai-agents",
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-08-18T23:57:41Z",
     "pushed_at": "2026-10-09T23:24:24Z",
-    "updated_at": "2026-10-09T23:13:31Z",
+    "updated_at": "2026-10-10T15:26:55Z",
     "size": 584,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

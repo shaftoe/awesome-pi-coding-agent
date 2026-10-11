@@ -1,0 +1,25 @@
+{
+  "id": "manuelcecchetto-pi-context-gc",
+  "name": "manuelcecchetto-pi-context-gc",
+  "url": "https://github.com/manuelcecchetto/pi-context-gc",
+  "source": "github-search",
+  "description": "Agent-triggered semantic context compaction for Pi, with durable checkpoints and automatic continuation.",
+  "metadata": {
+    "github_url": "https://github.com/manuelcecchetto/pi-context-gc",
+    "repo_full_name": "manuelcecchetto/pi-context-gc",
+    "description": "Agent-triggered semantic context compaction for Pi, with durable checkpoints and automatic continuation.",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-15T19:26:00Z",
+    "pushed_at": "2026-10-09T12:42:30Z",
+    "updated_at": "2026-10-10T16:55:15Z",
+    "size": 1428,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

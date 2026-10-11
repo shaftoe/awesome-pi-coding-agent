@@ -1,0 +1,30 @@
+{
+  "id": "pi-owed",
+  "name": "pi-owed",
+  "url": "https://www.npmjs.com/package/pi-owed",
+  "source": "npm-search",
+  "description": "owed — the acceptance ledger for multi-agent task graphs. No receipt, not done.",
+  "metadata": {
+    "github_url": "https://github.com/purboo/pi-owed",
+    "npm_name": "pi-owed",
+    "description": "owed — the acceptance ledger for multi-agent task graphs. No receipt, not done.",
+    "keywords": [
+      "pi-package",
+      "agents",
+      "acceptance",
+      "ledger",
+      "merge-gate",
+      "dag"
+    ],
+    "version": "0.10.0",
+    "published_at": "2026-10-10T17:52:43.666Z",
+    "npm_downloads_monthly": 206,
+    "npm_downloads_weekly": 206,
+    "npm_score_final": 15.327751,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

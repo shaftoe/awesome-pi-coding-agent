@@ -61259,5 +61259,225 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-package"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=C3UwTCepI5s",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-11T01:27:18.345Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=GYI4HHUMFek",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-11T01:27:18.378Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=tP-6HKq2ikU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-11T01:27:18.493Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=baj4_tmAQA8",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-11T01:27:18.536Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/raeeznazar/country-code-phone-picker-rn-package",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-11T01:27:18.577Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=43VKVJP0kKc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-11T01:27:18.708Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=p_K1gQWCgIw",
+		"reason": "pi network crypto signal: \"pi network\"",
+		"blacklisted_at": "2026-10-11T01:27:18.774Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=g4bbnlx27KU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-11T01:27:18.838Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=C4OIsBNSl7Y",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-11T01:27:18.894Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=vBgo3dDAEC8",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-11T01:27:18.912Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/michaelhelvey/theme-picker",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-11T01:27:19.088Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=a3uVCPN_Rr4",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-11T01:27:19.126Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=yKhx21kBzCI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-11T01:27:19.189Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=jd0vN6eyELE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-11T01:27:19.206Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/NekoSekaiMoeForks/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-11T01:27:19.308Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=gY-X1K0pvy0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-11T01:27:19.321Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/SliverKeigo/.Pi-theme",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-11T01:27:19.36Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=nhqM-HzV5yA",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-10-11T01:27:19.404Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=fv-grHedMgk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-11T01:27:19.509Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/respecpow",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-11T01:27:19.546Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=oNS9QaaK9ss",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-10-11T01:27:19.564Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=x2hHDpSoX5w",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-11T01:27:19.596Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
 	}
 ]
