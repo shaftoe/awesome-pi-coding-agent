@@ -174,8 +174,8 @@ importers:
         version: 7.0.2
     devDependencies:
       '@alexanderfortin/semantic-release-keep-a-changelog':
-        specifier: ^0.5.0
-        version: 0.5.0(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))
+        specifier: ^0.5.1
+        version: 0.5.1(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))
       '@biomejs/biome':
         specifier: ^2.5.15
         version: 2.5.15
@@ -239,11 +239,11 @@ packages:
   '@actions/io@3.0.2':
     resolution: {integrity: sha512-nRBchcMM+QK1pdjO7/idu86rbJI5YHUKCvKs0KxnSYbVe3F51UfGxuZX4Qy/fWlp6l7gWFwIkrOzN+oUK03kfw==}
 
-  '@alexanderfortin/semantic-release-keep-a-changelog@0.5.0':
-    resolution: {integrity: sha512-xV7IoNksCeNeQak29YbMLha75DG2S1xWwMM6QxWDOrkbs6lMoOrxUxGSJ7iVasN8KMCzUR1cqkOkmBqFaljksw==}
-    engines: {pnpm: '>=12'}
+  '@alexanderfortin/semantic-release-keep-a-changelog@0.5.1':
+    resolution: {integrity: sha512-Ij0xzVQJA62I03GSolyDj5MTTsAKbdCUlVZf3cVghXS4O49TaRr8HobsbC/4Ax6lq0zRCckmW5fPiOtPf7JBUA==}
+    engines: {pnpm: '>=12.11.2'}
     peerDependencies:
-      semantic-release: '>=24.0.0'
+      semantic-release: '>=24.2.9'
 
   '@astrojs/compiler-binding-android-arm64@0.5.0':
     resolution: {integrity: sha512-wVviC/1KaBqGVF0DbTZ8UtAE3c8TN84CCe7w4ju3SGzo/ByWKn8HCqSU/+1wdltGCCSa30pjVk3H8DQUgnfhRQ==}
@@ -1608,8 +1608,8 @@ packages:
     engines: {node: '>=18'}
     hasBin: true
 
-  conventional-commits-parser@7.1.2:
-    resolution: {integrity: sha512-O+x4N2yH+ijvqWlIyTHsXTAP+algNWgGbjY2duCe8w2vUMvUB95cLRslCPfTMQyLAKlet3bhZTdu6ozn4M+QJQ==}
+  conventional-commits-parser@7.1.3:
+    resolution: {integrity: sha512-Q9oWm1o9uy/oEsZQIraoFMZ4RuPD+79KgwWj6mJVP356tazolCB0piRLZ5Kz9te9p027uSEcUW+Gu44Eh+X79g==}
     engines: {node: '>=22'}
     hasBin: true
 
@@ -3430,12 +3430,12 @@ snapshots:
 
   '@actions/io@3.0.2': {}
 
-  '@alexanderfortin/semantic-release-keep-a-changelog@0.5.0(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))':
+  '@alexanderfortin/semantic-release-keep-a-changelog@0.5.1(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))':
     dependencies:
       '@semantic-release/error': 4.0.0
       conventional-changelog-writer: 9.2.1
       conventional-commits-filter: 6.0.1
-      conventional-commits-parser: 7.1.2
+      conventional-commits-parser: 7.1.3
       get-stream: 9.0.1
       into-stream: 9.1.0
       semantic-release: 25.0.9(supports-color@7.2.0)(typescript@7.0.2)
@@ -4675,7 +4675,7 @@ snapshots:
       '@simple-libs/stream-utils': 1.2.0
       meow: 13.2.0
 
-  conventional-commits-parser@7.1.2:
+  conventional-commits-parser@7.1.3:
     dependencies:
       '@simple-libs/stream-utils': 2.0.0
       argue-cli: 3.2.0
@@ -6300,7 +6300,6 @@ snapshots:
       '@typescript/typescript-sunos-x64': 7.0.2
       '@typescript/typescript-win32-arm64': 7.0.2
       '@typescript/typescript-win32-x64': 7.0.2
-    optional: true
 
   ufo@1.6.4: {}
 
