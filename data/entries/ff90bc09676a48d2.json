@@ -1,0 +1,27 @@
+{
+  "id": "@pi-ext/executor",
+  "name": "@pi-ext/executor",
+  "url": "https://www.npmjs.com/package/@pi-ext/executor",
+  "source": "npm-search",
+  "description": "Executor tools for Pi: search and run TypeScript against a hosted Executor's tool catalog.",
+  "metadata": {
+    "github_url": "https://github.com/aryasaatvik/pi-extensions",
+    "npm_name": "@pi-ext/executor",
+    "description": "Executor tools for Pi: search and run TypeScript against a hosted Executor's tool catalog.",
+    "keywords": [
+      "executor",
+      "pi-extension",
+      "pi-package"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-10-04T11:19:49.847Z",
+    "npm_downloads_monthly": 513,
+    "npm_downloads_weekly": 513,
+    "npm_score_final": 18.581398,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

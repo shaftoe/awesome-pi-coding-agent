@@ -1,0 +1,34 @@
+{
+  "id": "igorkulman-pi-skills",
+  "name": "igorkulman-pi-skills",
+  "url": "https://github.com/igorkulman/pi-skills",
+  "source": "github-search",
+  "description": "Pi skills and workflows for iOS development, code review, Git, Jira, GitLab, and Xcode.",
+  "metadata": {
+    "github_url": "https://github.com/igorkulman/pi-skills",
+    "repo_full_name": "igorkulman/pi-skills",
+    "description": "Pi skills and workflows for iOS development, code review, Git, Jira, GitLab, and Xcode.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-skills",
+      "coding-agent",
+      "gitlab",
+      "ios-development",
+      "jira",
+      "pi-coding-agent",
+      "tdd",
+      "xcode"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-24T10:53:25Z",
+    "pushed_at": "2026-10-08T08:49:08Z",
+    "updated_at": "2026-10-12T00:10:15Z",
+    "size": 119,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

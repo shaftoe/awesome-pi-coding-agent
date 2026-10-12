@@ -61479,5 +61479,3935 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-package"
 		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@falling-ts/pi-working",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-12T01:57:22.578Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://taoofmac.com/space/ai/agentic/pi",
+		"reason": "blocked name: pi",
+		"blacklisted_at": "2026-10-12T01:57:22.639Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=AbpyqAfxZ8c",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-12T01:57:22.715Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/litespm",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-12T01:57:22.759Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=qomfnVR6o_0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-12T01:57:22.856Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/xiaotianna/pi-harness",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-12T01:57:22.897Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=zBeDG3NvWGI",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-10-12T01:57:22.939Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=BsJGo1wFTvQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-12T01:57:23.034Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@falling-ts/pi-chinese",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-12T01:57:23.049Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=6Rt1URjGolA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-12T01:57:23.087Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=RTFJgpyK4a4",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-12T01:57:23.147Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=CUMFxYh8dac",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-12T01:57:23.17Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=caLmGY1xByw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-12T01:57:23.205Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/lanbook",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-12T01:57:23.471Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=DirBj_FOBiU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-12T01:57:23.561Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/lawrencewzen/pi-vlm-proxy",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-12T01:57:23.58Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/ubranch/omp-you-should-know",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-12T01:57:23.649Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=nsXO8zLF7t8",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-10-12T01:57:23.669Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@anandamw/worktree",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:19.361Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@iflytekopensource/adapters",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:19.56Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ask-llm/plugin",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:19.73Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@diffbot/codegpt-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:19.912Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pickforge/pickcheck",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:20.093Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@meowshed/meow-git",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:20.276Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@shaw-h/callsign",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:20.455Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/out-of-project-guard",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:20.636Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@justestif/wiki-agent",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:20.83Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@workweave/router",
+		"reason": "Raspberry Pi content: \"router\"",
+		"blacklisted_at": "2026-10-12T02:02:21.019Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@yoseph_23/implannotator",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:21.395Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/kontra-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:21.583Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ayagmar/session-cost-forensics",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:21.781Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/hotmilk",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:21.966Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pithos-kit/context-bar",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:22.156Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/corwinm/coding-agents-tmux",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:22.335Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/decent-curl-impersonate",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:22.514Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/fp-skills",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:22.69Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@kontextmind/kxm",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:22.864Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/notion-todo",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:23.038Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/semantic-review",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:23.214Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/oscarlehuu/nuncio",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:23.392Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/nearform/agentic-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:23.58Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/code-memory-router",
+		"reason": "Raspberry Pi content: \"router\"",
+		"blacklisted_at": "2026-10-12T02:02:23.765Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ladbabynpm/picc-glob",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:23.946Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@marcfargas/brainiac",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:24.121Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/espresso-agent-tools",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:24.3Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pickforge/review-tutor",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:24.48Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@aethrekh/pisces-tidal",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:24.661Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@lalalic/system-prompt-template",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:24.839Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/openspec-superpower-change",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:25.027Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@odradekk/vera-chimeras",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:25.226Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/jjmartres/ai-coding-agents",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:25.415Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/glitch-lens",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:25.599Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ayagmar/session-memory-search",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:25.773Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/opencode-zen-oauth",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:25.949Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/zlab-weixin-bridge",
+		"reason": "Raspberry Pi content: \"bridge\"",
+		"blacklisted_at": "2026-10-12T02:02:26.133Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/surf-skill",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:26.3Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@petrel-cn/balance",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:26.481Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@hobocode/thought-layer",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:26.652Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/voltron-lions",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:26.827Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@clankie/memory",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:26.999Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@tiagojct/subsub",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:27.197Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/yylo-dev/yylo",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:27.367Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@adia-ai/adia-ui-factory",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:27.55Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ayagmar/improve",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:27.721Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/humblemuzzu/muzzpi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:27.918Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@tw93/waza",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:28.092Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@curl.md/pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:28.271Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/judgement-yields-navigation",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:28.453Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@dk/shipshape",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:28.639Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/omp-designer",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:28.811Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/agent-complexity-optimizer",
+		"reason": "Raspberry Pi content: \"plex\"",
+		"blacklisted_at": "2026-10-12T02:02:28.988Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/declaw-style-pirate",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:29.161Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@os-eco/seeds-cli",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:29.344Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/betterwright",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:29.514Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/smixs/code-quality-skill",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:29.69Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/JetBrains/thinkrail",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:29.873Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@baylarsadigov/omp-undo-redo",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:30.055Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=9JrMAdwNwbs",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:02:30.24Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@rezabaram/amux",
+		"reason": "Raspberry Pi content: \"plex\"",
+		"blacklisted_at": "2026-10-12T02:02:30.592Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/ragabor/pensieve",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:30.955Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/gmail-imap-agent-skill",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:31.126Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/onsails/fork-in",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:31.319Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ikuma.cloud/pix-mcp-prompt",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:31.496Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/sylo-template-docx-writer",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:31.681Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ramarivera/coding-buddy",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:31.868Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@youngjurry/todo-list",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:32.042Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/aliou/obsidian-flint",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:32.232Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@supierior/experimental-workflows",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:32.428Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/ponytail-opencode-v2",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:32.61Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pandi-coding-agent/pandi-local-memory",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:32.785Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=01xvmbBQ900",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:02:32.965Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@dkhokhlov/open-codebase-index",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:33.144Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/agentic-remem",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:33.324Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@senad-d/guardme",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:33.515Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/stefan2904/dockerized-pi",
+		"reason": "Raspberry Pi content: \"docker\"",
+		"blacklisted_at": "2026-10-12T02:02:33.692Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=yany28lQW4U",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:02:33.868Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pandi-coding-agent/pandi-effort",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:34.057Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/btw-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:34.237Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ladbabynpm/picc-loop",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:34.429Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/prime-catppuccin-theme",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:34.616Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/ivanrvpereira/.agents",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:34.786Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/penfieldlabs/PENpi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:34.974Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@xynogen/pix-runtime",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:35.172Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/browser67",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:35.352Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@vkundapur/context-inspector",
+		"reason": "Raspberry Pi content: \"display\"",
+		"blacklisted_at": "2026-10-12T02:02:35.522Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Firstp1ck/npm-packages",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:35.696Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@dpaluy/shaping-skills",
+		"reason": "Raspberry Pi content: \"breadboard\"",
+		"blacklisted_at": "2026-10-12T02:02:35.871Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@juliusbrussee/caveman-markdown-preview",
+		"reason": "Raspberry Pi content: \"usb\"",
+		"blacklisted_at": "2026-10-12T02:02:36.06Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@lbk-open/super-spec",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:36.235Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agntn/puzzles",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:36.414Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@brainervirus/workit-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:36.598Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@bwanamaker/brandobot",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:36.779Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/privateer-workflow",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:36.961Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pandi-coding-agent/pandi-docs",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:37.153Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ssk_dev/rpiv-todo-lean",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:37.343Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ws-rush/conductor",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:37.511Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/deflating/psst",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:37.69Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pandi-coding-agent/pandi-kitty",
+		"reason": "Raspberry Pi content: \"nas\"",
+		"blacklisted_at": "2026-10-12T02:02:37.872Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pify/worktree",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:38.058Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Mohamed-El-Sharqawy/agent-tutor",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:38.226Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=_9ZtQtGn6T0",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:38.406Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=LRVOZ-SfZFQ",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:02:38.593Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/hopper-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:38.774Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/kyaulabs/prism",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:38.946Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@yargote/matty",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:39.13Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@scpz24/piw",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:39.322Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@meowshed/meow-gotask",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:39.503Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@dhoaibao/preview-markdown",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:39.682Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@dietrichgebert/ponytail",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:39.858Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/agent-halter",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:40.046Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ladbabynpm/picc-bash",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:40.256Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@monopi/provider-ollama",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:40.432Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@javiayala/ai-workers",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:40.612Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pithos-kit/squiggle",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:40.789Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/geanatz/curion",
+		"reason": "Raspberry Pi content: \"server\"",
+		"blacklisted_at": "2026-10-12T02:02:40.969Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@tomxprime/planning-with-files",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:41.148Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/mosonlab/anneal",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:41.333Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@qiuyihong/lazypi",
+		"reason": "Raspberry Pi content: \"spi\"",
+		"blacklisted_at": "2026-10-12T02:02:41.526Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@yizixu/agent-work-log",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:41.693Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=LtcklC3FFhg",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:02:41.874Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/opencode-engram-learning",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:42.054Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@odradekk/vera-ccc-tools",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:42.246Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/amutix",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:42.425Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/simvyn",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:42.621Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/nervous-system",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:42.803Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=Sphk79piiqM",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:02:42.987Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@xynogen/pix-voice",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:43.178Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/caveman-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:43.358Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ontomics/ontomics",
+		"reason": "Raspberry Pi content: \"server\"",
+		"blacklisted_at": "2026-10-12T02:02:43.536Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/custom-pi",
+		"reason": "Raspberry Pi content: \"arm \"",
+		"blacklisted_at": "2026-10-12T02:02:43.714Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/opencode-ponytail",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:43.904Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/aiand-router",
+		"reason": "Raspberry Pi content: \"router\"",
+		"blacklisted_at": "2026-10-12T02:02:44.079Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/aide-family/Crescent",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:44.259Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/agent-xlsx",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:44.446Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/sylo-ignition",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:44.649Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/tonyzdev/pijev",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:44.825Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@a-t-h-i/bot-lobby",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:44.995Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/showsignature",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:45.182Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pandi-coding-agent/pandi-typescript-lsp",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:45.378Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@locus-forge/locus-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:45.548Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@vepando/switchyard",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:45.728Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/tau-mirror",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:45.919Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@adlc/pi",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:46.089Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/firecrawl-pool",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:46.258Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/amanai-reward-watcher",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:46.447Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/symphony-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:46.622Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/getpipher/zai-media",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:46.819Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/fish-mode",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:46.999Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/omp-vcc",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:47.197Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@superwhisper/pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:47.374Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/danielmrdev/beautiful-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:47.555Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/ryonakae/shepherd",
+		"reason": "Raspberry Pi content: \"bridge\"",
+		"blacklisted_at": "2026-10-12T02:02:47.746Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/MacLeodMike/twill-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:47.931Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@getpipher/vps-deploy",
+		"reason": "Raspberry Pi content: \"docker\"",
+		"blacklisted_at": "2026-10-12T02:02:48.12Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@fish59fish/dynamic-workflows",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:48.303Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@supierior/feature-workflow",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:48.487Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@reedchan/statusline",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:48.665Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/opencandle",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:48.841Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/prime-status",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:49.025Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/zaycruz/fast-jev-compaction-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:49.203Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/mac-declutter",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:49.378Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/kix-sisigai/kfp",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:49.568Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@linggihlukis/flow",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:49.731Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/theonly1me/shadowclone",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:49.912Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/zhangz1w3nCode/Ocean",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:50.09Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/codebase-lens",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:50.258Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/design-playbook",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:50.445Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=6kQXLUYV2vg",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:50.635Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agntn/urls",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:50.811Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/kling-ai-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:50.99Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ruminaider/linear-cli",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:51.169Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@nikhil8bph/codewiki",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:51.347Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/tarsgate/skynot",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:51.529Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ai-outfitter/deepwork",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:51.712Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ayagmar/product-spec-foundry",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:51.891Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=914G87HDvF4",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:02:52.091Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/deskwand/agent",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:52.259Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=44jKulzowUY",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:02:52.439Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/zob-harness",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:52.613Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/stepstone",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:52.801Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@j3pf/piquota",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:52.977Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@aerovato/operator-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:53.164Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@minhduydev/md-harness",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:53.355Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/ste-guard",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:53.543Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/chisle",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:53.735Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@juancrg90/dracula-themes",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:53.915Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/omp-hooks-plus",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:54.087Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@bigking67/review-craft",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:54.273Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/lune-shell-inspector",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:54.453Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/open-zk-kb",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:54.648Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/sylo-plc-comms",
+		"reason": "Raspberry Pi content: \"ethernet\"",
+		"blacklisted_at": "2026-10-12T02:02:54.826Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/tokenomy-pi",
+		"reason": "Raspberry Pi content: \"router\"",
+		"blacklisted_at": "2026-10-12T02:02:55.008Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@yoyooyoooyoooo/repo-flow",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:55.195Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Qredence/fleet-prime-agent",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:55.403Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@dihak/pix-display",
+		"reason": "Raspberry Pi content: \"display\"",
+		"blacklisted_at": "2026-10-12T02:02:55.594Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/code-notify",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:55.93Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@synadia-ai/agent-fabric-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:56.122Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/openwiki",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:56.306Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/windows-software-installer-skill",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:56.487Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@dieulc/autocompact",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:56.658Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@apmantza/greedysearch-pi",
+		"reason": "Raspberry Pi content: \"plex\"",
+		"blacklisted_at": "2026-10-12T02:02:56.861Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/humanizer-semitic",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:57.051Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/ssssnail/agent-live",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:57.242Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/diegopetrucci/the-last-harness",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:57.428Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@saibolla/ada",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:57.623Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/HarshaDokula/pi_agent_extensions_skills",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:57.805Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/specpi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:57.991Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/fv-skills-baif",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:58.183Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/XYenon/ajevt-browser",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:58.363Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/diffing",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:58.544Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@getpipher/git-tools",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:58.72Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@nobeta/tobe",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:58.899Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/am-will/gooey-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:59.077Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/fitchmultz/agent-eval",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:59.256Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/LosFurina/horsepower",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:02:59.438Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/protonmail-bridge-agent-skill",
+		"reason": "Raspberry Pi content: \"bridge\"",
+		"blacklisted_at": "2026-10-12T02:02:59.618Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/tuxevil/tuxevil-rotator",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:02:59.816Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ayagmar/release-readiness-certification",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:00.167Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@melihmucuk/leash",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:00.351Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=VtwJpJ0KM5E",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:03:00.544Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@piex-dev/xai-oauth",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:00.722Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/NomenAK/jev-tools",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:00.916Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/spotme",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:01.093Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/hsp-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:01.286Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/TheOrdinaryWow/wows-omp-plugins",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:01.472Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/deword",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:01.655Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@treeport/pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:01.835Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/heli-harness",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:02.059Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@raquezha/nodesign",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:02.263Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@maheidem/model-discovery",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:02.44Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/the-jey/codex-sub-imagen",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:02.623Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=Nr5M7af8f58",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:02.805Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@zeerke/ascet-copilot",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:03Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/cliftonc/agentic-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:03.185Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/korallis/KorWF-Pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:03.372Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/cc-grammar",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:03.563Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/geto-subagents",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:03.749Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=uPR7aAneg2U",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:03.928Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/iamaamir/system-one",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:04.105Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@nativepi/throughput",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:04.286Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@haksolot/ank",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:04.477Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@french-castle/jev-code",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:04.655Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=5vmF__kBd4o",
+		"reason": "Raspberry Pi content: \"router\"",
+		"blacklisted_at": "2026-10-12T02:03:04.837Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Egonex-AI/Understand-Anything",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:05.018Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/jpenilla/BubbleBuddy",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:05.196Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/prime-openai-codex-status",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:05.382Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/greenhost87/agent-quality-gate",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:05.564Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@alexjercan/quick-review",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:05.743Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/todo.txt-skill",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:05.928Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/lukasl-dev/pithon",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:06.121Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/fr0ziii/memoria",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:06.49Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/redpanda-code",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:06.691Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@zorgzeleniy/hiviz",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:06.886Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@skkac/pilot-inspector",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:07.069Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/toast-meter",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:07.24Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=qxeL1eEr-Ro",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:03:07.419Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/system-one-router",
+		"reason": "Raspberry Pi content: \"plex\"",
+		"blacklisted_at": "2026-10-12T02:03:07.618Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/pitgram",
+		"reason": "Raspberry Pi content: \"bridge\"",
+		"blacklisted_at": "2026-10-12T02:03:07.795Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/decktective",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:07.974Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ladbabynpm/picc-memory",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:08.149Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/praneybehl/llm-wiki-plugin",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:08.338Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@odradekk/vera-search-tools",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:08.511Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ladbabynpm/picc-edit",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:08.7Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/knoopx/pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:08.886Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pify/plan-mode",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:09.073Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/agent-simple-english",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:09.26Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/shoelace66/AutoPi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:09.451Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/thelobsterpinchy/pinchy-dev",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:09.63Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@hypn4/chappie",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:09.825Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/gzmo-pi",
+		"reason": "Raspberry Pi content: \"redis\"",
+		"blacklisted_at": "2026-10-12T02:03:10.007Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@talex-touch/zlab-weixin-bridge",
+		"reason": "Raspberry Pi content: \"bridge\"",
+		"blacklisted_at": "2026-10-12T02:03:10.191Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/cc-safety-net",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:10.371Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@q5m-ai/cli",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:10.564Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@robhowley/py-pit-skills",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:10.751Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@xynogen/pix-mcp",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:10.955Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=mRD6xUMizZU",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:03:11.137Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pithos-kit/web",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:11.318Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/software-design-agent-skill",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:11.504Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agpenton/chain-as-agent",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:11.701Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/ida-nexus",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:11.89Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pithos-kit/plan",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:12.07Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pithos-kit/answer",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:12.256Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pify/todo",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:12.436Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/prime-agent-feature-factory",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:12.632Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@herbertgao/resume-from",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:12.804Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@demi8-patch/model-council",
+		"reason": "Raspberry Pi content: \"spi\"",
+		"blacklisted_at": "2026-10-12T02:03:12.98Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@tianacloud/agent-skills",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:13.153Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pricewin/pi",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:13.338Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://engine.build/lab/agent-sandboxes",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:13.519Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/no-vibe",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:13.706Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sonsong/prompt-coach",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:13.882Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pandi-coding-agent/pandi-dynamic-workflows",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:14.082Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@zhachory1/mewrite-markdown-preview",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:14.262Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=-axP6Y9hKjo",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:03:14.459Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/voipi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:14.633Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@nifrajs/skills",
+		"reason": "Raspberry Pi content: \"server\"",
+		"blacklisted_at": "2026-10-12T02:03:14.815Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@piex-dev/theme-dark-terminal",
+		"reason": "Raspberry Pi content: \"spi\"",
+		"blacklisted_at": "2026-10-12T02:03:15.002Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/ericnunes30/agent-usage-dashboard",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:15.187Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/cover-plugin",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:15.365Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/env-storage-user-skill",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:15.556Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@crayonlu/qi-bash-bg",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:15.742Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@oribish/brainkit",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:15.929Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/sylo-health",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:16.118Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=U-vzbloo_RQ",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:03:16.3Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@barlevalon/prd-to-plan-skill",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:16.479Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/cline-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:16.65Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@xynogen/pix-display",
+		"reason": "Raspberry Pi content: \"display\"",
+		"blacklisted_at": "2026-10-12T02:03:16.834Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@nativepi/subscription-usage",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:17.01Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=6SnA5m1dBjM",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:03:17.187Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Owen718/snapgrep",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:17.378Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/prime-deepseek-search",
+		"reason": "Raspberry Pi content: \"server\"",
+		"blacklisted_at": "2026-10-12T02:03:17.562Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/qianwan/mono-pilot",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:17.743Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@zaparoo/cli",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:17.925Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@aibyzero/cm-workflow",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:18.115Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@cleepi/atlassian",
+		"reason": "Raspberry Pi content: \"server\"",
+		"blacklisted_at": "2026-10-12T02:03:18.294Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ladbabynpm/picc-init",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:18.48Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/learning-session-organizer",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:18.667Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=XoitaexiCi0",
+		"reason": "Raspberry Pi content: \"plex\"",
+		"blacklisted_at": "2026-10-12T02:03:18.844Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ayagmar/engineering-optimization",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:19.028Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@meowshed/meow-prose-gate",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:19.216Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/oh-my-vul",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:19.413Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sonic182/graphmem",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:19.6Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/omp-hyper-tools",
+		"reason": "Raspberry Pi content: \"arm \"",
+		"blacklisted_at": "2026-10-12T02:03:19.795Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@asnd/skill-creator",
+		"reason": "Raspberry Pi content: \"server\"",
+		"blacklisted_at": "2026-10-12T02:03:19.98Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/memocap",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:20.155Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@simplesiong/maistro",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:20.34Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pandi-coding-agent/pandi-plan",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:20.518Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@danypops/papyrus",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:20.861Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pinchpass/cli",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:21.051Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/sssstwee/agent-switch",
+		"reason": "Raspberry Pi content: \"router\"",
+		"blacklisted_at": "2026-10-12T02:03:21.225Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/ti-trader",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:21.406Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pandi-coding-agent/pandi-worktree",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:21.578Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/oura-hr",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:21.762Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@thruput/pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:21.937Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@arihantdeva/heimdall",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:22.126Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@anfilat/bit-by-bit",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:22.29Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/artifact-guard",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:22.469Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@getpipher/solana-dev",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:22.648Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/lukasl-dev/pi.nix",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:22.833Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@yhong91/cpac",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:23.026Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@connortessaro/pai",
+		"reason": "Raspberry Pi content: \"server\"",
+		"blacklisted_at": "2026-10-12T02:03:23.216Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pelec/homer-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:23.396Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/thoth-agents",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:23.575Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pithos-kit/themes",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:23.763Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=H-MU1gXsf2U",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:03:23.938Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@the-agency/vmpi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:24.112Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/lyfmt/rp4pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:24.289Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@explyt/ai-agent",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:24.48Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@mikefreno/ralpi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:24.655Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@rabjs/kit",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:24.866Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@bimawa/emacsclient-mcp",
+		"reason": "Raspberry Pi content: \"server\"",
+		"blacklisted_at": "2026-10-12T02:03:25.043Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pify/pretty",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:25.241Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@piex-dev/plan",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:25.422Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@alexeiled/architect",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:25.604Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@justestif/nb-agent",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:25.787Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/tgrep-pi",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:25.963Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@freibergergarcia/phone-a-friend",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:26.161Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/potetos-for-everyone",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:26.338Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/context-mode",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:26.539Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=C8EdaqLAxl8",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:03:26.725Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@88potatoes/agent-comments-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:26.912Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pickforge/complexity-gate",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:27.092Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/omp-auto-approval",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:27.273Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@mikefreno/pygienium",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:27.47Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/ai-call",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:27.653Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@arvoretech/hub-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:27.83Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@monopi/background-tasks",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:28.023Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@miclivs/cadcli",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:28.21Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/amp-themes",
+		"reason": "Raspberry Pi content: \"spi\"",
+		"blacklisted_at": "2026-10-12T02:03:28.386Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/EasterCompany/EDE",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:28.583Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@isr4el-silv4/verifier-agent",
+		"reason": "Raspberry Pi content: \"server\"",
+		"blacklisted_at": "2026-10-12T02:03:28.766Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi9/subagent",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:29.113Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stdd/plugin",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:29.307Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@liuli195/myspec",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:29.48Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/slopdocs",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:29.658Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pixs/code-session",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:29.837Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=RKHaecOi0CA",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:03:30.027Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/edit-o-matic",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:30.214Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@tsaokoming/auto-compact",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:30.407Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@relaymessenger/pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:30.58Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/cocolinfff/coli",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:30.766Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/openmerit",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:30.936Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/airic-agent",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:31.125Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/reflex-state",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:31.319Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/planning-with-files",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:31.492Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/mattpocock-skills-unofficial-plugin",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:31.68Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@robhowley/spinner-verbs",
+		"reason": "Raspberry Pi content: \"spi\"",
+		"blacklisted_at": "2026-10-12T02:03:31.87Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pify/autopilot",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:32.051Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sesori/pr-monitor-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:32.26Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@alphazede/bearing-lite",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:32.437Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Signet-AI/signetai",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:32.627Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=Qc5YvYi8AQs",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:03:32.801Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=G-6rIOy3UBA",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:03:32.979Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/to-agent",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:33.171Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@voidmob/mcp",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:33.354Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/sylo-fieldbrain",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:33.555Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@adityaaria/spark",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:33.739Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@0xfig/indie",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:33.911Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/patchmill",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:34.102Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ask-llm/mcp",
+		"reason": "Raspberry Pi content: \"server\"",
+		"blacklisted_at": "2026-10-12T02:03:34.29Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@henkaku-center/chi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:34.467Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/ax-feishu-bridge",
+		"reason": "Raspberry Pi content: \"bridge\"",
+		"blacklisted_at": "2026-10-12T02:03:34.652Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ai-outfitter/outfitter",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:34.845Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/adampoit/ai",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:35.026Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@odradekk/vera-theme",
+		"reason": "Raspberry Pi content: \"spi\"",
+		"blacklisted_at": "2026-10-12T02:03:35.204Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@yuanbopang/frugal",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:35.381Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/scientific-figure-library",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:35.567Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/fito-plugin",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:35.756Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@danypops/enigma",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:35.938Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@odradekk/vera-memory",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:36.134Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/tilldone-bd",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:36.32Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@oritwoen/explorers",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:36.505Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pify/shell-background",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:36.689Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@wystack/agent-kit",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:36.893Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sp1in/kimi-agent",
+		"reason": "Raspberry Pi content: \"bridge\"",
+		"blacklisted_at": "2026-10-12T02:03:37.08Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@misunders2d/agentnet",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:37.268Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@orbit-labs-ai/translator",
+		"reason": "Raspberry Pi content: \"display\"",
+		"blacklisted_at": "2026-10-12T02:03:37.451Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/sssstwee/switch-plus-plus",
+		"reason": "Raspberry Pi content: \"router\"",
+		"blacklisted_at": "2026-10-12T02:03:37.634Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/claude-agent-sdk-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:37.814Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@abianbiya/specflow",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:38.017Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=wb0nI8lbQjM",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:03:38.194Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@denmfv/oh-my-opencode-pi",
+		"reason": "Raspberry Pi content: \"spi\"",
+		"blacklisted_at": "2026-10-12T02:03:38.386Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Kiriketsuki/chrysaki-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:38.568Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pandi-coding-agent/pandi-mdview",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:38.756Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@garygentry/feature-forge",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:38.938Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@vivshaw/loam",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:39.128Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/ayanokoji.md",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:39.323Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/philipp-spiess/modern",
+		"reason": "Raspberry Pi content: \"spi\"",
+		"blacklisted_at": "2026-10-12T02:03:39.502Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ladbabynpm/picc-claude-shim",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:39.672Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/vanillagreencom/kendex",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:39.865Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/engram-cli",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:40.036Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=taMUqsrr-rA",
+		"reason": "Raspberry Pi content: \"hardware\"",
+		"blacklisted_at": "2026-10-12T02:03:40.214Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@howlerops/valhalla",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:40.39Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/azdospec",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:40.571Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=td52e2tQFIU",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:03:40.756Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@fingerskier/augment",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:40.931Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/weasley-autoresearch",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:41.121Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@unbrained/pm-cli",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:41.304Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/copilot-value",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:41.483Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/gnassro/phi",
+		"reason": "Raspberry Pi content: \"nas\"",
+		"blacklisted_at": "2026-10-12T02:03:41.675Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@miadisabelle/mia-presence",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:41.862Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/program-notebook",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:42.052Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/kern-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:42.228Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@cloudfrog/memory",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:42.409Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/confluence-cli",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:42.589Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/ai-outfitter/outfitter",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:42.782Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@lifetimescriptkiddie/agentctl",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:42.969Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Ark0N/Codeman",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:43.136Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/lune-ask-question",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:43.335Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/aleksandarlabs/akrcontext",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:43.512Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@wolido/async-subagent-isolation",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:43.688Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/edheltzel/Recall",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:43.876Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/cavaldos/pitago",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:44.054Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/meta-memory-skill",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:44.229Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/iliagerman/joint-bob",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:44.418Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/ida-mcp",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:44.616Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@odradekk/vera-scheme-sandbox",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:44.809Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@lalalic/project-discovery",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:44.985Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pify/yolo",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:45.165Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@onkernel/browser-loop",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:45.35Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@dannylee1020/kkt",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:45.532Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@genee/omp-whip",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:45.717Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/kevinriverrrr-sudo/prismovit-ai",
+		"reason": "Raspberry Pi content: \"spi\"",
+		"blacklisted_at": "2026-10-12T02:03:45.91Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/no-more-agents-dot-md",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:46.095Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@zeerke/ascet-copilot-ui",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:46.278Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@parcha/parable",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:46.468Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/agents-gitflow-guard",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:46.65Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/openui-forge",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:46.844Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/project-memory-kit",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:47.199Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/no-deceit",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:47.387Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ayagmar/advisor-executor-quality-loop",
+		"reason": "Raspberry Pi content: \"plex\"",
+		"blacklisted_at": "2026-10-12T02:03:47.575Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/vim-mode-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:47.768Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/proper-pacify",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:47.958Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@miaoy0ushan/fp",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:48.139Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/Waishnav/devspace",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:48.326Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ltm-blueverse/alpha-semantic-hub",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:48.5Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@anandamw/custom-provider",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:48.675Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@elompenta/tau-mirror",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:48.869Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=771PQEDeRmw",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:03:49.04Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/burr-memory",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:49.223Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/pinchy-dev/pinchy-dev",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:49.431Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/larsderidder/context-lens",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:49.629Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/saasufy-agent-skills",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:49.968Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/notebooklm-bridge",
+		"reason": "Raspberry Pi content: \"bridge\"",
+		"blacklisted_at": "2026-10-12T02:03:50.274Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@akuzmenko/rgk",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:50.691Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/airspeak",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:51.204Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@rizukirr/vibekit",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:51.456Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/cyberful/cyberful",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:51.642Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@kky42/pievo",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:51.835Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/aerovato/container",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:52.028Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/querit-ai/querit-plugins",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:52.214Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/100xprism",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:52.401Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/sero-labs/sero",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:52.578Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://aiwiki.ai/wiki/pi_agent",
+		"reason": "No Pi coding agent keywords found",
+		"blacklisted_at": "2026-10-12T02:03:52.758Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pify/search",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:52.951Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@geoqiao/paseo-btw",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:53.149Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/wordpress-agent-kit",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:53.345Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/omp-hyper-provider",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:53.531Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@meowshed/meow-markdown",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:53.734Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@lvrged/video-factory",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:53.924Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ssk_dev/rpiv-ask-user-question-lean",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:54.124Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@raquezha/norpiv",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:54.302Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/remove-ai-writing-indicators",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:54.491Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/termux-panel-live",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:54.662Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@simonesiega/codex-limits",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:54.849Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/tau-laconic",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:55.029Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/omp-settings-sync",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:55.231Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@anandamw/doctor",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:55.585Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/proper-flow",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:55.77Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/senad-d/ProtectMe",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:55.972Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/gentle-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:56.145Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@3metajun/mstack",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:56.327Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/model-thinking",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:56.525Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agntn/browsers",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:56.696Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@monopi/provider-cursor",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:56.884Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/cfal/garcon",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:57.055Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@getpipher/x-api",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:57.237Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pandi-coding-agent/pandi-btw",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:57.415Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/artystic",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:57.604Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/llm-wiki-okf",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:57.801Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/bitnahian/agent-message-broker",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:58.138Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/gmira",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:58.324Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/tangzy-btw",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:58.495Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=QZLTrb4mdH4",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:03:58.672Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=7W_H9313DHQ",
+		"reason": "Raspberry Pi content: \"plex\"",
+		"blacklisted_at": "2026-10-12T02:03:59.033Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/trace-memory",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:59.217Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/basemind-opencode",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:59.397Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@awebai/oats-pi",
+		"reason": "Raspberry Pi content: \"bridge\"",
+		"blacklisted_at": "2026-10-12T02:03:59.568Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pify/skills",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:03:59.757Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ladbabynpm/picc-write",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:03:59.936Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pandi-coding-agent/pandi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:00.114Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@stenn/tps-monitor",
+		"reason": "Raspberry Pi content: \"display\"",
+		"blacklisted_at": "2026-10-12T02:04:00.307Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/ohmyjev",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:00.504Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/cuongnbms/herdr-app",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:04:00.688Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/aidenybai/baimin",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:00.871Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pi9/ask",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:01.056Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@anandamw/hello-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:01.231Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@joshbochu/skim",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:04:01.423Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@abianbiya/speclet",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:01.616Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/veil-quant",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:01.794Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=H9rTnmuisC0",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:04:01.988Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@mazurovn/mazzy-vpn-pi",
+		"reason": "Raspberry Pi content: \"vpn\"",
+		"blacklisted_at": "2026-10-12T02:04:02.172Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=nvJ1M_GRj8Q",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:04:02.534Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/lazy-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:02.718Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/resume-from",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:03.063Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@iflytekopensource/memflywheel",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:03.241Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=hvqiRdGko6g",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:04:03.431Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/plandeck",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:03.617Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@modemdev/glance-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:03.799Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/runecraftai/skills",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:03.992Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@psnext/s-subagents",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:04.19Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@lalalic/local-vision-audio",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:04:04.4Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/VOID229/picode",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:04.573Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/a-Fig/Accordion",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:04.754Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/cramt/m365-copilot-proxy",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:04:04.949Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/moonpi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:05.135Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@anandamw/ui",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:05.318Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/sideshow",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:05.504Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/witness-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:05.697Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/whatsapp-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:05.885Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@neonn0d/twin",
+		"reason": "Raspberry Pi content: \"server\"",
+		"blacklisted_at": "2026-10-12T02:04:06.057Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@dorokuma/herdsman",
+		"reason": "Raspberry Pi content: \"bridge\"",
+		"blacklisted_at": "2026-10-12T02:04:06.248Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@advaitpaliwal/feynman",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:06.424Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/rlaope/agentbox",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:06.621Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/simple-subs",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:06.8Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/wisbech/bandit",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:06.97Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.reddit.com/r/PiCodingAgent/comments/1tyef4b/pi_devs_i_have_some_questions_regarding_browsers/",
+		"reason": "No Pi coding agent keywords found",
+		"blacklisted_at": "2026-10-12T02:04:07.157Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/xsyetopz/olympi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:07.352Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/haagent",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:07.552Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@lalalic/channel",
+		"reason": "Raspberry Pi content: \"bridge\"",
+		"blacklisted_at": "2026-10-12T02:04:07.728Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/mnemo-agent-memory",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:08.099Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/marionettist-pathway-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:08.288Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@wezzard/mcp-vm-relay",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:04:08.461Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@icxcoffee/chorus",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:08.658Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/aegis-method-pack",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:08.834Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/beboite/boite",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:09.03Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/agentflux",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:09.209Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@zzs-fun/agent-forum-skills",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:09.401Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@ryonakae/shepherd",
+		"reason": "Raspberry Pi content: \"bridge\"",
+		"blacklisted_at": "2026-10-12T02:04:09.584Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@brushes/xiaohongshu-mcp-server",
+		"reason": "Raspberry Pi content: \"server\"",
+		"blacklisted_at": "2026-10-12T02:04:09.759Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@anandamw/biome",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:09.95Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@kyaulabs/prism-core",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:10.136Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/cache-warm",
+		"reason": "Raspberry Pi content: \"arm \"",
+		"blacklisted_at": "2026-10-12T02:04:10.317Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/chronika-engine",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:10.503Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agentskit/doc-bridge",
+		"reason": "Raspberry Pi content: \"bridge\"",
+		"blacklisted_at": "2026-10-12T02:04:10.676Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@limccn/deepseek-vl-support",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:10.849Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@celia-sh/waypoint",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:11.068Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/ds4-context-engine",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:11.245Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@odradekk/vera-web-tools",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:11.434Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@clankie/web-search",
+		"reason": "Raspberry Pi content: \"headless\"",
+		"blacklisted_at": "2026-10-12T02:04:11.618Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/json-render-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:11.801Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@senad-d/issueme",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:11.99Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@soulfire330/piw",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:12.167Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pandi-coding-agent/pandi-personas",
+		"reason": "Raspberry Pi content: \"nas\"",
+		"blacklisted_at": "2026-10-12T02:04:12.354Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/ensemblr-hq/ensemblr",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:12.539Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@amutix/amux",
+		"reason": "Raspberry Pi content: \"plex\"",
+		"blacklisted_at": "2026-10-12T02:04:12.746Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/job-agent-skills",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:12.923Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/kifaru",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:13.1Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/agent-ste",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:13.317Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@zea.cl/soma-sdk",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:13.495Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@toddzheng024/code-eye",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:13.681Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/equaxis-agent",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:13.869Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@evolvehq/docflow",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:04:14.225Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/eslint-plugin-lookup-table",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:14.406Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://github.com/dhruvkelawala/loopwatch",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:14.582Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=ZHcRu9MWxv8",
+		"reason": "YouTube video without clear Pi coding agent reference",
+		"blacklisted_at": "2026-10-12T02:04:14.772Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/waywf",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:14.949Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/tmux-agents-status-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:15.127Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@pithos-kit/atlas",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:04:15.312Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@rochecompaan/patchmill",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:15.489Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@bhardwj-sarvesh-projects/curlycoder",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:15.668Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/b5-fusion",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:15.855Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@herbertgao/sol-pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:16.027Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/prime-agent-context",
+		"reason": "Raspberry Pi content: \"os\"",
+		"blacklisted_at": "2026-10-12T02:04:16.219Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@monopi/bash-live-view",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:16.407Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/agent-context-card",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:16.607Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/omp-pulse",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:16.788Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/loom-extension",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:16.967Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agnishc/edb-custom-provider",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:17.321Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@junghanacs/entwurf",
+		"reason": "Raspberry Pi content: \"bridge\"",
+		"blacklisted_at": "2026-10-12T02:04:17.506Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@easii/pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:17.706Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@artil-ai/pi",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:18.076Z",
+		"source": "manual"
+	},
+	{
+		"url": "https://www.npmjs.com/package/@adia-ai/adia-ui-forge",
+		"reason": "No Pi coding agent relevance detected",
+		"blacklisted_at": "2026-10-12T02:04:18.264Z",
+		"source": "manual"
 	}
 ]

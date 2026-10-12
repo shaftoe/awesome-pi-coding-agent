@@ -1,0 +1,38 @@
+{
+  "id": "omniroute-agent-extension",
+  "name": "omniroute-agent-extension",
+  "url": "https://www.npmjs.com/package/omniroute-agent-extension",
+  "source": "npm-search",
+  "description": "OmniRoute extension for Pi Coding Agent, OMP, and Prime Agent with model sync, pricing, telemetry, catalog autosync, and OpenAI-compatible routing",
+  "metadata": {
+    "github_url": "https://github.com/md-riaz/omniroute-agent-extension",
+    "npm_name": "omniroute-agent-extension",
+    "description": "OmniRoute extension for Pi Coding Agent, OMP, and Prime Agent with model sync, pricing, telemetry, catalog autosync, and OpenAI-compatible routing",
+    "keywords": [
+      "omp-plugin",
+      "oh-my-pi",
+      "prime-agent",
+      "prime-agent-extension",
+      "pi-package",
+      "pi-coding-agent",
+      "omniroute",
+      "omniroute-extension",
+      "openai-compatible",
+      "model-router",
+      "ai-gateway",
+      "ai-agent-extension",
+      "llm",
+      "extension"
+    ],
+    "version": "3.2.3",
+    "published_at": "2026-10-11T09:55:16.863Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

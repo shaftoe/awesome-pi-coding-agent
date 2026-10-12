@@ -3,15 +3,15 @@
   "name": "Pi coding agent pulls a 180 and adds MCP support",
   "url": "https://www.theregister.com/ai-and-ml/2026/10/02/pi-coding-agent-pulls-a-180-and-adds-mcp-support/5300678",
   "source": "brave-web-search",
-  "description": "To maintain minimalism, a new harness layer has been folded into a separate component",
+  "description": "Verify you are human",
   "metadata": {
     "title": "Pi coding agent pulls a 180 and adds MCP support",
     "name": "Pi coding agent pulls a 180 and adds MCP support",
-    "description": "To maintain minimalism, a new harness layer has been folded into a separate component",
-    "published_at": "2026-10-02T05:23:28",
+    "description": "Verify you are human",
+    "published_at": "2026-10-02T00:00:00",
     "source_site": "The Register",
     "source_url": "https://www.theregister.com/ai-and-ml/2026/10/02/pi-coding-agent-pulls-a-180-and-adds-mcp-support/5300678",
-    "discovery_hint": "brave:pi-agent"
+    "discovery_hint": "brave:pi-coding-agent"
   },
-  "category": "article"
+  "category": "misc"
 }

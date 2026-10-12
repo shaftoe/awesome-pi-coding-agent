@@ -1,0 +1,30 @@
+{
+  "id": "pi-cache-compact-preserved-messages",
+  "name": "pi-cache-compact-preserved-messages",
+  "url": "https://www.npmjs.com/package/pi-cache-compact-preserved-messages",
+  "source": "npm-search",
+  "description": "Cache-friendly Pi compaction that preserves historical user messages and visible assistant responses verbatim.",
+  "metadata": {
+    "github_url": "https://github.com/lennartschoch/pi-cache-compact",
+    "npm_name": "pi-cache-compact-preserved-messages",
+    "description": "Cache-friendly Pi compaction that preserves historical user messages and visible assistant responses verbatim.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "compaction",
+      "prompt-cache",
+      "llama.cpp"
+    ],
+    "version": "1.1.1",
+    "published_at": "2026-10-11T17:33:12.385Z",
+    "npm_downloads_monthly": 446,
+    "npm_downloads_weekly": 446,
+    "npm_score_final": 17.59602,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
