@@ -1,0 +1,31 @@
+{
+  "id": "@onedotmint/charterleaf",
+  "name": "@onedotmint/charterleaf",
+  "url": "https://www.npmjs.com/package/@onedotmint/charterleaf",
+  "source": "npm-search",
+  "description": "Lightweight Agent-Native Constraint Layer: opt-in spec discovery and maintenance for Pi, with a standalone zero-dependency CLI.",
+  "metadata": {
+    "github_url": "https://github.com/onedotmint/charterleaf",
+    "npm_name": "@onedotmint/charterleaf",
+    "description": "Lightweight Agent-Native Constraint Layer: opt-in spec discovery and maintenance for Pi, with a standalone zero-dependency CLI.",
+    "keywords": [
+      "charterleaf",
+      "ai-agent",
+      "coding-agent",
+      "specification",
+      "agent-skills",
+      "pi",
+      "pi-package"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-10-11T11:59:19.704Z",
+    "npm_downloads_monthly": 647,
+    "npm_downloads_weekly": 3,
+    "npm_score_final": 19.315859,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

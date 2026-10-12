@@ -13,5 +13,5 @@
     "source_url": "https://pi.dev/packages/pi-compact-tools",
     "discovery_hint": "brave:pi-package"
   },
-  "category": "article"
+  "category": "extension"
 }

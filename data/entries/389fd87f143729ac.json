@@ -1,0 +1,34 @@
+{
+  "id": "Himavanta-pi-codebuddy-provider",
+  "name": "Himavanta-pi-codebuddy-provider",
+  "url": "https://github.com/Himavanta/pi-codebuddy-provider",
+  "source": "github-search",
+  "description": "Pi extension that registers CodeBuddy (IOA) as an OpenAI-compatible HTTP provider with OAuth/API-key auth",
+  "metadata": {
+    "github_url": "https://github.com/Himavanta/pi-codebuddy-provider",
+    "repo_full_name": "Himavanta/pi-codebuddy-provider",
+    "description": "Pi extension that registers CodeBuddy (IOA) as an OpenAI-compatible HTTP provider with OAuth/API-key auth",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "codebuddy",
+      "extension",
+      "ioa",
+      "oauth",
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "provider"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-11T09:56:33Z",
+    "pushed_at": "2026-10-11T11:29:02Z",
+    "updated_at": "2026-10-11T12:20:24Z",
+    "size": 122,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

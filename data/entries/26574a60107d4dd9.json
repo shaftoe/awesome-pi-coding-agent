@@ -1,0 +1,31 @@
+{
+  "id": "Azhardhiaulhaq-pi-e2e",
+  "name": "Azhardhiaulhaq-pi-e2e",
+  "url": "https://github.com/Azhardhiaulhaq/pi-e2e",
+  "source": "github-search",
+  "description": "Pi package: start local services, drive a headless browser or mobile app, and verify features end to end.",
+  "metadata": {
+    "github_url": "https://github.com/Azhardhiaulhaq/pi-e2e",
+    "repo_full_name": "Azhardhiaulhaq/pi-e2e",
+    "description": "Pi package: start local services, drive a headless browser or mobile app, and verify features end to end.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "e2e",
+      "pi-coding-agent",
+      "pi-package",
+      "playwright",
+      "testing"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-10T09:47:24Z",
+    "pushed_at": "2026-10-10T10:55:46Z",
+    "updated_at": "2026-10-12T01:20:44Z",
+    "size": 52,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

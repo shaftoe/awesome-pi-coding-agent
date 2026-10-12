@@ -1,0 +1,29 @@
+{
+  "id": "pi-nimble-router",
+  "name": "pi-nimble-router",
+  "url": "https://www.npmjs.com/package/pi-nimble-router",
+  "source": "npm-search",
+  "description": "Local-first three-tier model routing for Pi, decided by a local Ollama model.",
+  "metadata": {
+    "github_url": "https://github.com/mdabydeen/pi-nimble-router",
+    "npm_name": "pi-nimble-router",
+    "description": "Local-first three-tier model routing for Pi, decided by a local Ollama model.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "model-routing",
+      "ollama",
+      "router"
+    ],
+    "version": "0.2.3",
+    "published_at": "2026-10-04T23:15:06.628Z",
+    "npm_downloads_monthly": 348,
+    "npm_downloads_weekly": 348,
+    "npm_score_final": 16.886093,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

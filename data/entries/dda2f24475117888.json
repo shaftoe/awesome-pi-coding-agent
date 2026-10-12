@@ -1,0 +1,29 @@
+{
+  "id": "@daxzeit/pi-jev-vcc-memory-relevance",
+  "name": "@daxzeit/pi-jev-vcc-memory-relevance",
+  "url": "https://www.npmjs.com/package/@daxzeit/pi-jev-vcc-memory-relevance",
+  "source": "npm-search",
+  "description": "Logit-scored memory relevance for the Pi coding agent — ranked hints (priors, not verdicts) over your long-term memory index, via JEV (default) or a fully local scorer",
+  "metadata": {
+    "github_url": "https://github.com/DAXZEIT/Pi-JEV-VCC-memory-relevance",
+    "npm_name": "@daxzeit/pi-jev-vcc-memory-relevance",
+    "description": "Logit-scored memory relevance for the Pi coding agent — ranked hints (priors, not verdicts) over your long-term memory index, via JEV (default) or a fully local scorer",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "memory",
+      "relevance",
+      "jev"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-10-04T03:39:06.288Z",
+    "npm_downloads_monthly": 487,
+    "npm_downloads_weekly": 487,
+    "npm_score_final": 18.37027,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

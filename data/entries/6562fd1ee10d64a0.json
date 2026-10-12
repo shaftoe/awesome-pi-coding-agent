@@ -1,0 +1,29 @@
+{
+  "id": "pi-task-checkpoint",
+  "name": "pi-task-checkpoint",
+  "url": "https://www.npmjs.com/package/pi-task-checkpoint",
+  "source": "npm-search",
+  "description": "Durable task checkpoints and bounded continuation for Pi with local models and limited context",
+  "metadata": {
+    "github_url": "https://github.com/kilbiller/pi-task-checkpoint",
+    "npm_name": "pi-task-checkpoint",
+    "description": "Durable task checkpoints and bounded continuation for Pi with local models and limited context",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "checkpoints",
+      "local-llm",
+      "context"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-04T19:44:37.837Z",
+    "npm_downloads_monthly": 464,
+    "npm_downloads_weekly": 464,
+    "npm_score_final": 17.920364,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

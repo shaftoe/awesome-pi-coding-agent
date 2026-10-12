@@ -1,0 +1,31 @@
+{
+  "id": "decision-router",
+  "name": "decision-router",
+  "url": "https://www.npmjs.com/package/decision-router",
+  "source": "npm-search",
+  "description": "Pick the right LLM for each prompt with a calibrated decision model (TypeSafe Jev). CLI, Claude Code plugin and Pi extension.",
+  "metadata": {
+    "github_url": "https://github.com/Ruivalim/decision-router",
+    "npm_name": "decision-router",
+    "description": "Pick the right LLM for each prompt with a calibrated decision model (TypeSafe Jev). CLI, Claude Code plugin and Pi extension.",
+    "keywords": [
+      "llm",
+      "router",
+      "model-router",
+      "claude-code",
+      "pi-package",
+      "typesafe",
+      "jev"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-04T16:20:32.423Z",
+    "npm_downloads_monthly": 469,
+    "npm_downloads_weekly": 469,
+    "npm_score_final": 18.02672,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

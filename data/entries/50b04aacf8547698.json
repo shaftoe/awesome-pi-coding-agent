@@ -1,0 +1,29 @@
+{
+  "id": "pi-file",
+  "name": "pi-file",
+  "url": "https://www.npmjs.com/package/pi-file",
+  "source": "npm-search",
+  "description": "Create temporary Markdown files from Pi command text and embed them in the input editor.",
+  "metadata": {
+    "github_url": "https://github.com/boadij/pi-file",
+    "npm_name": "pi-file",
+    "description": "Create temporary Markdown files from Pi command text and embed them in the input editor.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "file",
+      "context"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-04T22:47:34.637Z",
+    "npm_downloads_monthly": 334,
+    "npm_downloads_weekly": 334,
+    "npm_score_final": 16.923437,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

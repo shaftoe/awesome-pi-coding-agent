@@ -1,0 +1,37 @@
+{
+  "id": "pi-nd-crew",
+  "name": "pi-nd-crew",
+  "url": "https://www.npmjs.com/package/pi-nd-crew",
+  "source": "npm-search",
+  "description": "Five specialist subagents for Pi and an animated status line that shows what each one is doing, what it costs and how full your context is.",
+  "metadata": {
+    "github_url": "https://github.com/aashirjaved/pi-nd-crew",
+    "npm_name": "pi-nd-crew",
+    "description": "Five specialist subagents for Pi and an animated status line that shows what each one is doing, what it costs and how full your context is.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "extension",
+      "subagents",
+      "multi-agent",
+      "orchestration",
+      "statusline",
+      "footer",
+      "neurodivergent",
+      "adhd",
+      "autism"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-11T15:10:31.318Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

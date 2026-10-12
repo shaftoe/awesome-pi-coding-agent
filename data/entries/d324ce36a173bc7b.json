@@ -13,5 +13,5 @@
     "source_url": "https://sourceforge.net/projects/pi-agent.mirror/files/v0.87.0/pi-coding-agent-install-package.json/download",
     "discovery_hint": "brave:pi-agent"
   },
-  "category": "article"
+  "category": "extension"
 }
