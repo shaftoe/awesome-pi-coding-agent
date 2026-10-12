@@ -1,0 +1,25 @@
+{
+  "id": "12nucleus-pi-desktop",
+  "name": "12nucleus-pi-desktop",
+  "url": "https://github.com/12nucleus/pi-desktop",
+  "source": "github-search",
+  "description": "Pi Desktop: a desktop app for the pi coding agent. Chat, agent editor, team workspaces, and themes. Runs pi's SDK in-process and runs in place, with no │ installer.",
+  "metadata": {
+    "github_url": "https://github.com/12nucleus/pi-desktop",
+    "repo_full_name": "12nucleus/pi-desktop",
+    "description": "Pi Desktop: a desktop app for the pi coding agent. Chat, agent editor, team workspaces, and themes. Runs pi's SDK in-process and runs in place, with no  │ installer.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-11T20:35:06Z",
+    "pushed_at": "2026-10-11T22:26:20Z",
+    "updated_at": "2026-10-11T21:42:50Z",
+    "size": 173,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -9,7 +9,7 @@
     "repo_full_name": "yukikisaku/pi-agent-status",
     "description": "Terminal status extensions for the Pi coding agent (tmux, Zed, Orca, Herdr)",
     "stars": 3,
-    "forks": 2,
+    "forks": 3,
     "open_issues": 1,
     "topics": [],
     "language": "TypeScript",

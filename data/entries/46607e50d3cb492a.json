@@ -1,0 +1,29 @@
+{
+  "id": "@neruok/pi-magic8ball",
+  "name": "@neruok/pi-magic8ball",
+  "url": "https://www.npmjs.com/package/@neruok/pi-magic8ball",
+  "source": "npm-search",
+  "description": "Advisory decisions through neutral context and Jev or Clef",
+  "metadata": {
+    "github_url": "https://github.com/neruok/pi-magic8ball",
+    "npm_name": "@neruok/pi-magic8ball",
+    "description": "Advisory decisions through neutral context and Jev or Clef",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "decision-support",
+      "jev",
+      "clef"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-10-11T02:01:47.540Z",
+    "npm_downloads_monthly": 385,
+    "npm_downloads_weekly": 385,
+    "npm_score_final": 17.588795,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "@tquang122/hypatia",
+  "name": "@tquang122/hypatia",
+  "url": "https://www.npmjs.com/package/@tquang122/hypatia",
+  "source": "npm-search",
+  "description": "Research-first CLI agent built on Pi and alphaXiv",
+  "metadata": {
+    "github_url": "https://github.com/TQuang122/hypatia",
+    "npm_name": "@tquang122/hypatia",
+    "description": "Research-first CLI agent built on Pi and alphaXiv",
+    "keywords": [
+      "pi-package",
+      "research-agent",
+      "literature-review",
+      "experiments"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-11T19:53:39.202Z",
+    "npm_downloads_monthly": 181,
+    "npm_downloads_weekly": 181,
+    "npm_score_final": 14.8475685,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

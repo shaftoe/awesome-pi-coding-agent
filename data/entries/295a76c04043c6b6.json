@@ -1,0 +1,30 @@
+{
+  "id": "@lanitech/pi-ja",
+  "name": "@lanitech/pi-ja",
+  "url": "https://www.npmjs.com/package/@lanitech/pi-ja",
+  "source": "npm-search",
+  "description": "Japanese localization pack for the Pi coding agent: Japanese system prompt rules, Japanese UI labels, and Japanese design-doc templates.",
+  "metadata": {
+    "github_url": "https://github.com/lanitech/pi-ja",
+    "npm_name": "@lanitech/pi-ja",
+    "description": "Japanese localization pack for the Pi coding agent: Japanese system prompt rules, Japanese UI labels, and Japanese design-doc templates.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "japanese",
+      "localization",
+      "i18n",
+      "ja"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-04T07:17:52.042Z",
+    "npm_downloads_monthly": 359,
+    "npm_downloads_weekly": 359,
+    "npm_score_final": 17.39211,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

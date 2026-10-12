@@ -13,5 +13,5 @@
     "source_url": "https://api-docs.deepseek.com/quick_start/agent_integrations/pi_mono/",
     "discovery_hint": "brave:pi-coding-agent"
   },
-  "category": "article"
+  "category": "extension"
 }

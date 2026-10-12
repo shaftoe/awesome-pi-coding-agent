@@ -1,0 +1,30 @@
+{
+  "id": "pi-subagents-community",
+  "name": "pi-subagents-community",
+  "url": "https://www.npmjs.com/package/pi-subagents-community",
+  "source": "npm-search",
+  "description": "A pi extension that brings Claude Code-like sub-agents and workflow orchestration to pi — parallel execution, live widget, fleet view, custom agent types, mid-run steering, dynamic workflows, Claude Code compatibility, look and feel.",
+  "metadata": {
+    "github_url": "https://github.com/mt-code/pi-subagents-community",
+    "npm_name": "pi-subagents-community",
+    "description": "A pi extension that brings Claude Code-like sub-agents and workflow orchestration to pi — parallel execution, live widget, fleet view, custom agent types, mid-run steering, dynamic workflows, Claude Code compatibility, look and feel.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "subagent",
+      "agent",
+      "autonomous"
+    ],
+    "version": "0.20.2",
+    "published_at": "2026-10-11T14:11:14.790Z",
+    "npm_downloads_monthly": 551,
+    "npm_downloads_weekly": 551,
+    "npm_score_final": 18.280672,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
