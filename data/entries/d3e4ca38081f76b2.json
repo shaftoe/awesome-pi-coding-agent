@@ -3,15 +3,15 @@
   "name": "Piagent — The resource map & news hub for the Pi coding agent",
   "url": "https://piagent.fyi/",
   "source": "brave-web-search",
-  "description": "New Features - Program status reporting: terminals and agent dashboards that support OSC 7501 see whether Pi is working, blocked on a dialog or login, done, or failed. See Program status. - Claude Haiku 5.5: anthropic/claude-haiku-5-5, with adaptive thinking up to xhigh/max effort. - Adjust default tools with +name/-name: --tools entries like pi -t +codemode...",
+  "description": "New Features - Program status reporting: terminals and agent dashboards that support OSC 7501 see whether Pi is working, blocked on a dialog or login, done, or failed. See Program status. - Claude Haiku 5.5: anthropic/claude-haiku-5-5, with adaptive thinking up to xhigh/max effort.",
   "metadata": {
     "title": "Piagent — The resource map & news hub for the Pi coding agent",
     "name": "Piagent — The resource map & news hub for the Pi coding agent",
-    "description": "New Features - Program status reporting: terminals and agent dashboards that support OSC 7501 see whether Pi is working, blocked on a dialog or login, done, or failed. See Program status. - Claude Haiku 5.5: anthropic/claude-haiku-5-5, with adaptive thinking up to xhigh/max effort. - Adjust default tools with +name/-name: --tools entries like pi -t +codemode...",
+    "description": "New Features - Program status reporting: terminals and agent dashboards that support OSC 7501 see whether Pi is working, blocked on a dialog or login, done, or failed. See Program status. - Claude Haiku 5.5: anthropic/claude-haiku-5-5, with adaptive thinking up to xhigh/max effort.",
     "published_at": null,
     "source_site": "Piagent",
     "source_url": "https://piagent.fyi/",
-    "discovery_hint": "brave:pi-coding-agent"
+    "discovery_hint": "brave:pi-agent"
   },
-  "category": "extension"
+  "category": "article"
 }

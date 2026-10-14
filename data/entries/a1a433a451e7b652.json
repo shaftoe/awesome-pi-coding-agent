@@ -1,0 +1,25 @@
+{
+  "id": "Gyoungwe-Drone",
+  "name": "Gyoungwe-Drone",
+  "url": "https://github.com/Gyoungwe/Drone",
+  "source": "github-search",
+  "description": "Percho: Minimalist desktop GUI for the Pi coding agent — the same engine as the Pi CLI, in a clean visual interface. Multi-session chat, visual tool approvals, and custom themes.",
+  "metadata": {
+    "github_url": "https://github.com/Gyoungwe/Drone",
+    "repo_full_name": "Gyoungwe/Drone",
+    "description": "Percho: Minimalist desktop GUI for the Pi coding agent — the same engine as the Pi CLI, in a clean visual interface. Multi-session chat, visual tool approvals, and custom themes.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-09T16:48:03Z",
+    "pushed_at": "2026-10-13T20:23:39Z",
+    "updated_at": "2026-10-13T19:41:35Z",
+    "size": 27736,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

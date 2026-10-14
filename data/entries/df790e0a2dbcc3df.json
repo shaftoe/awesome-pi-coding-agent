@@ -1,0 +1,25 @@
+{
+  "id": "pi-tui-minimal",
+  "name": "pi-tui-minimal",
+  "url": "https://www.npmjs.com/package/pi-tui-minimal",
+  "source": "npm-search",
+  "description": "Quiet live-then-collapse TUI for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/xcodebuild/pi-tui-minimal",
+    "npm_name": "pi-tui-minimal",
+    "description": "Quiet live-then-collapse TUI for the pi coding agent",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-12T12:01:39.259Z",
+    "npm_downloads_monthly": 407,
+    "npm_downloads_weekly": 407,
+    "npm_score_final": 18.769693,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

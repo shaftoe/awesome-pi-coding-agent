@@ -1,0 +1,37 @@
+{
+  "id": "pi-famulus",
+  "name": "pi-famulus",
+  "url": "https://www.npmjs.com/package/pi-famulus",
+  "source": "npm-search",
+  "description": "Done means done: subagents and long-running background bash for Pi. One daemon owns every shell it starts and wakes the agent when work finishes. No polling.",
+  "metadata": {
+    "github_url": "https://github.com/Leechael/pi-famulus",
+    "npm_name": "pi-famulus",
+    "description": "Done means done: subagents and long-running background bash for Pi. One daemon owns every shell it starts and wakes the agent when work finishes. No polling.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "subagent",
+      "subagents",
+      "background",
+      "background-tasks",
+      "bash",
+      "daemon",
+      "multi-agent",
+      "monitor",
+      "agent-orchestration"
+    ],
+    "version": "0.1.7",
+    "published_at": "2026-10-13T19:54:06.061Z",
+    "npm_downloads_monthly": 812,
+    "npm_downloads_weekly": 321,
+    "npm_score_final": 20.85177,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

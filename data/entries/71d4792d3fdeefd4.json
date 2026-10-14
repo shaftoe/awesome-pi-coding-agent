@@ -9,7 +9,7 @@
     "repo_full_name": "Skitre/PiCove",
     "description": "A desktop interface for Pi Coding Agent, with visual workflows for conversations, tool calls, sessions, models, and packages.",
     "stars": 105,
-    "forks": 12,
+    "forks": 11,
     "open_issues": 8,
     "topics": [],
     "language": "TypeScript",

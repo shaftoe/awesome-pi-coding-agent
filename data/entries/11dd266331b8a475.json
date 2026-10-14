@@ -1,0 +1,32 @@
+{
+  "id": "Finn763-pi-hermes-memory-adv",
+  "name": "Finn763-pi-hermes-memory-adv",
+  "url": "https://github.com/Finn763/pi-hermes-memory-adv",
+  "source": "github-search",
+  "description": "🧠 Persistent memory + session search + secret scanning for Pi, with Hermes-style self-evolving skills (auto-written, notified).",
+  "metadata": {
+    "github_url": "https://github.com/Finn763/pi-hermes-memory-adv",
+    "repo_full_name": "Finn763/pi-hermes-memory-adv",
+    "description": "🧠 Persistent memory + session search + secret scanning for Pi, with Hermes-style self-evolving skills (auto-written, notified).",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-memory",
+      "pi-extension",
+      "pi-package",
+      "procedural-memory",
+      "self-improvement",
+      "sqlite-fts5"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-05T05:25:06Z",
+    "pushed_at": "2026-10-05T05:25:13Z",
+    "updated_at": "2026-10-13T14:20:21Z",
+    "size": 1069,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Thin OpenAPPA guard extension for Pi: gates tool calls through the APPA runtime. No policy logic lives here.",
   "metadata": {
-    "github_url": "https://github.com/aemonge-dev/pi-openappa",
+    "github_url": "https://github.com/aemonge/pi-openappa",
     "npm_name": "pi-openappa",
     "description": "Thin OpenAPPA guard extension for Pi: gates tool calls through the APPA runtime. No policy logic lives here.",
     "keywords": [
@@ -16,11 +16,11 @@
       "guardrails",
       "policy"
     ],
-    "version": "0.3.1",
-    "published_at": "2026-10-09T12:24:04.203Z",
-    "npm_downloads_monthly": 188,
-    "npm_downloads_weekly": 188,
-    "npm_score_final": 15.030356,
+    "version": "0.3.3",
+    "published_at": "2026-10-13T14:40:27.288Z",
+    "npm_downloads_monthly": 572,
+    "npm_downloads_weekly": 572,
+    "npm_score_final": 18.32794,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

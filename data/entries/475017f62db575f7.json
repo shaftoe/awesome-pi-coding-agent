@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_brightdata.com_pi-agent-with-bright-data",
+  "name": "Pi Agent Web Exploration with Bright Data MCP",
+  "url": "https://brightdata.com/blog/ai/pi-agent-with-bright-data",
+  "source": "brave-web-search",
+  "description": "What makes Pi special is its flexibility, as you can shape its behavior, tools, and even UI. It supports multiple LLM providers, session trees, and customization primitives that make it closer to a programmable agent runtime than a fixed CLI assistant.",
+  "metadata": {
+    "title": "Pi Agent Web Exploration with Bright Data MCP",
+    "name": "Pi Agent Web Exploration with Bright Data MCP",
+    "description": "What makes Pi special is its flexibility, as you can shape its behavior, tools, and even UI. It supports multiple LLM providers, session trees, and customization primitives that make it closer to a programmable agent runtime than a fixed CLI assistant.",
+    "published_at": "2026-10-08T16:32:37",
+    "source_site": "Bright Data",
+    "source_url": "https://brightdata.com/blog/ai/pi-agent-with-bright-data",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

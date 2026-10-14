@@ -1,0 +1,27 @@
+{
+  "id": "mcp-gway",
+  "name": "mcp-gway",
+  "url": "https://www.npmjs.com/package/mcp-gway",
+  "source": "npm-search",
+  "description": "One MCP endpoint for every server your agent needs — Code Mode discovers schemas on demand.",
+  "metadata": {
+    "github_url": "https://github.com/deuriib/mcp-gway",
+    "npm_name": "mcp-gway",
+    "description": "One MCP endpoint for every server your agent needs — Code Mode discovers schemas on demand.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-skill"
+    ],
+    "version": "4.7.1",
+    "published_at": "2026-10-12T08:17:34.531Z",
+    "npm_downloads_monthly": 749,
+    "npm_downloads_weekly": 749,
+    "npm_score_final": 19.198357,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

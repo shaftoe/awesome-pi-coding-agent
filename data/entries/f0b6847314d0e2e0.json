@@ -9,8 +9,8 @@
     "repo_full_name": "frostime/pi-vscode-ui",
     "description": "A non-intrusive VS Code extension that offers GUI wrapper for the Pi Coding Agent.",
     "stars": 37,
-    "forks": 0,
-    "open_issues": 1,
+    "forks": 1,
+    "open_issues": 2,
     "topics": [
       "gui",
       "harness",
@@ -26,9 +26,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-16T12:50:27Z",
-    "pushed_at": "2026-10-11T12:34:44Z",
+    "pushed_at": "2026-10-13T17:49:23Z",
     "updated_at": "2026-10-11T12:34:48Z",
-    "size": 3606,
+    "size": 3900,
     "license": "AGPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

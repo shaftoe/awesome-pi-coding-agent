@@ -1,0 +1,25 @@
+{
+  "id": "datnguyentien2006-pi-web",
+  "name": "datnguyentien2006-pi-web",
+  "url": "https://github.com/datnguyentien2006/pi-web",
+  "source": "github-search",
+  "description": "A local web UI for the Pi coding agent. Browse sessions, chat with AI models (Ollama, OpenAI, Anthropic), and manage project files. This fork features an English translation, Aqua theme, bulk session management, and multi-project Workspaces.",
+  "metadata": {
+    "github_url": "https://github.com/datnguyentien2006/pi-web",
+    "repo_full_name": "datnguyentien2006/pi-web",
+    "description": "A local web UI for the Pi coding agent. Browse sessions, chat with AI models (Ollama, OpenAI, Anthropic), and manage project files. This fork features an English translation, Aqua theme, bulk session management, and multi-project Workspaces.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-12T17:03:49Z",
+    "pushed_at": "2026-10-13T00:45:26Z",
+    "updated_at": "2026-10-13T23:53:55Z",
+    "size": 2706,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

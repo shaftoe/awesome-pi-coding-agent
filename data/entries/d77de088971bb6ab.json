@@ -1,0 +1,33 @@
+{
+  "id": "@agimon-ai/po-prompt",
+  "name": "@agimon-ai/po-prompt",
+  "url": "https://www.npmjs.com/package/@agimon-ai/po-prompt",
+  "source": "npm-search",
+  "description": "Staged recent prompts and saved prompt templates for Po",
+  "metadata": {
+    "github_url": "https://github.com/AgiFlow/po",
+    "npm_name": "@agimon-ai/po-prompt",
+    "description": "Staged recent prompts and saved prompt templates for Po",
+    "keywords": [
+      "ai",
+      "coding-agent",
+      "developer-tools",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "po",
+      "prompt-library",
+      "typescript"
+    ],
+    "version": "0.0.0-alpha.1",
+    "published_at": "2026-10-13T11:07:09.451Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "misc"
+}

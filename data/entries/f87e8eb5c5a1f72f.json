@@ -1,0 +1,25 @@
+{
+  "id": "vantuh-pi-kiro-acp",
+  "name": "vantuh-pi-kiro-acp",
+  "url": "https://github.com/vantuh/pi-kiro-acp",
+  "source": "github-search",
+  "description": "AWS Kiro CLI ACP integration for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/vantuh/pi-kiro-acp",
+    "repo_full_name": "vantuh/pi-kiro-acp",
+    "description": "AWS Kiro CLI ACP integration for pi coding agent",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-12T09:36:48Z",
+    "pushed_at": "2026-10-12T11:30:36Z",
+    "updated_at": "2026-10-12T18:36:24Z",
+    "size": 500,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

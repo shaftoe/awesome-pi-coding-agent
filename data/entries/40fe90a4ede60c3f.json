@@ -1,0 +1,38 @@
+{
+  "id": "oopjoy-Pi-Chat",
+  "name": "oopjoy-Pi-Chat",
+  "url": "https://github.com/oopjoy/Pi-Chat",
+  "source": "github-search",
+  "description": "Windows-first, local-first Web/PWA client for the Pi coding agent — conversation UI over Pi RPC with a single-file installer. MIT licensed.",
+  "metadata": {
+    "github_url": "https://github.com/oopjoy/Pi-Chat",
+    "repo_full_name": "oopjoy/Pi-Chat",
+    "description": "Windows-first, local-first Web/PWA client for the Pi coding agent — conversation UI over Pi RPC with a single-file installer. MIT licensed.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-client",
+      "ai-chat",
+      "chat-client",
+      "coding-agent",
+      "llm-client",
+      "local-first",
+      "mit-license",
+      "pi",
+      "pi-coding-agent",
+      "pwa",
+      "web-ui",
+      "windows"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-19T05:56:53Z",
+    "pushed_at": "2026-10-13T15:12:19Z",
+    "updated_at": "2026-10-13T15:12:24Z",
+    "size": 4309,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

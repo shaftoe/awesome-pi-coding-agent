@@ -1,0 +1,25 @@
+{
+  "id": "kinderp-pi-translate",
+  "name": "kinderp-pi-translate",
+  "url": "https://github.com/kinderp/pi-translate",
+  "source": "github-search",
+  "description": "Transparent prompt/output translation extension for pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/kinderp/pi-translate",
+    "repo_full_name": "kinderp/pi-translate",
+    "description": "Transparent prompt/output translation extension for pi coding agent",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-25T16:03:31Z",
+    "pushed_at": "2026-07-26T05:58:50Z",
+    "updated_at": "2026-10-12T14:32:56Z",
+    "size": 34,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

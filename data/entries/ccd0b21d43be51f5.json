@@ -1,0 +1,39 @@
+{
+  "id": "versot-Vagus",
+  "name": "versot-Vagus",
+  "url": "https://github.com/versot/Vagus",
+  "source": "github-search",
+  "description": "A local-first desktop workspace for Claude Code, Codex, OpenCode, Pi, Qoder CLI, and ZCode. Follow agent work live and review code changes turn by turn.",
+  "metadata": {
+    "github_url": "https://github.com/versot/Vagus",
+    "repo_full_name": "versot/Vagus",
+    "description": "A local-first desktop workspace for Claude Code, Codex, OpenCode, Pi, Qoder CLI, and ZCode. Follow agent work live and review code changes turn by turn.",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ade",
+      "agents",
+      "ai-coding",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "desktop-app",
+      "developer-tools",
+      "opencode",
+      "orchestration",
+      "pi",
+      "tauri",
+      "windows"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-12T16:01:19Z",
+    "pushed_at": "2026-10-13T14:32:19Z",
+    "updated_at": "2026-10-13T21:53:16Z",
+    "size": 6864,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

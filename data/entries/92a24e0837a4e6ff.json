@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_webteractive.co_pi-the-agent-harness-that-defers-on-purp",
+  "name": "Pi: The Agent Harness That Defers, On Purpose — Webteractive",
+  "url": "https://webteractive.co/blog/pi-the-agent-harness-that-defers-on-purpose",
+  "source": "brave-web-search",
+  "description": "Earendil's Pi is a minimal coding agent that ships primitives instead of features — deferring MCP, sub-agents, and plan mode to you, your extensions, and the tools you already run.",
+  "metadata": {
+    "title": "Pi: The Agent Harness That Defers, On Purpose — Webteractive",
+    "name": "Pi: The Agent Harness That Defers, On Purpose — Webteractive",
+    "description": "Earendil's Pi is a minimal coding agent that ships primitives instead of features — deferring MCP, sub-agents, and plan mode to you, your extensions, and the tools you already run.",
+    "published_at": "2026-06-16T00:46:04",
+    "source_site": "Webteractive",
+    "source_url": "https://webteractive.co/blog/pi-the-agent-harness-that-defers-on-purpose",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

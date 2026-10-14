@@ -3,15 +3,15 @@
   "name": "Pi Coding Agent Field Guide - vanducng",
   "url": "https://vanducng.dev/2026/08/16/pi-coding-agent-field-guide/",
   "source": "brave-web-search",
-  "description": "Pi is a terminal coding agent that starts almost empty and grows through packages, skills, hooks, and project files. That is the opposite of many agents that ship fully loaded. This post is a compact",
+  "description": "This post is a compact field guide: install and auth, security, sessions (/tree, clone, fork, compaction), packages, AGENTS.md, skills, prompt templates, extensions, and daily TUI habits. Prefer the official docs and pi.dev when flags drift.",
   "metadata": {
     "title": "Pi Coding Agent Field Guide - vanducng",
     "name": "Pi Coding Agent Field Guide - vanducng",
-    "description": "Pi is a terminal coding agent that starts almost empty and grows through packages, skills, hooks, and project files. That is the opposite of many agents that ship fully loaded. This post is a compact",
+    "description": "This post is a compact field guide: install and auth, security, sessions (/tree, clone, fork, compaction), packages, AGENTS.md, skills, prompt templates, extensions, and daily TUI habits. Prefer the official docs and pi.dev when flags drift.",
     "published_at": "2026-08-16T14:00:00",
     "source_site": "vanducng",
     "source_url": "https://vanducng.dev/2026/08/16/pi-coding-agent-field-guide/",
     "discovery_hint": "brave:pi-coding-agent"
   },
-  "category": "extension"
+  "category": "article"
 }

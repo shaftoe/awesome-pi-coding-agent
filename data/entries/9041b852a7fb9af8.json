@@ -1,0 +1,33 @@
+{
+  "id": "mockpit",
+  "name": "mockpit",
+  "url": "https://www.npmjs.com/package/mockpit",
+  "source": "npm-search",
+  "description": "A design-decision loop for terminal coding agents — agents publish mocks with states and variants, ask questions and expose knobs; you answer, tune and comment, then send one reply.",
+  "metadata": {
+    "github_url": "https://github.com/fabiogaliano/mockpit",
+    "npm_name": "mockpit",
+    "description": "A design-decision loop for terminal coding agents — agents publish mocks with states and variants, ask questions and expose knobs; you answer, tune and comment, then send one reply.",
+    "keywords": [
+      "agent-tools",
+      "ai-agents",
+      "claude-code",
+      "coding-agents",
+      "design-review",
+      "html-preview",
+      "mcp",
+      "pi-package",
+      "visualization"
+    ],
+    "version": "1.2.0",
+    "published_at": "2026-10-13T02:46:10.662Z",
+    "npm_downloads_monthly": 441,
+    "npm_downloads_weekly": 441,
+    "npm_score_final": 19.051401,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

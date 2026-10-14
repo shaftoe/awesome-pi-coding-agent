@@ -1,0 +1,40 @@
+{
+  "id": "rainskills",
+  "name": "rainskills",
+  "url": "https://www.npmjs.com/package/rainskills",
+  "source": "npm-search",
+  "description": "Agent Skills for deploying, troubleshooting, and verifying applications on Rainbond from Codex, Claude Code, and other AI coding agents",
+  "metadata": {
+    "github_url": "https://github.com/goodrain/rainskills",
+    "npm_name": "rainskills",
+    "description": "Agent Skills for deploying, troubleshooting, and verifying applications on Rainbond from Codex, Claude Code, and other AI coding agents",
+    "keywords": [
+      "rainbond",
+      "ai-agent",
+      "agent-skills",
+      "deployment",
+      "application-delivery",
+      "self-hosted",
+      "kubernetes",
+      "devops",
+      "vibe-coding",
+      "codex",
+      "claude-code",
+      "pi-agent",
+      "deepseek-harness",
+      "dsh-plugin",
+      "workbuddy",
+      "hermes-agent"
+    ],
+    "version": "0.1.44",
+    "published_at": "2026-10-13T06:34:10.448Z",
+    "npm_downloads_monthly": 1294,
+    "npm_downloads_weekly": 77,
+    "npm_score_final": 38.117485,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

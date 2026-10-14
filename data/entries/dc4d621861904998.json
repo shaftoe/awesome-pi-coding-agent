@@ -3,11 +3,11 @@
   "name": "frostime-pi-midcompact",
   "url": "https://github.com/frostime/pi-midcompact",
   "source": "github-search",
-  "description": "Branch-aware mid-context compression for the Pi coding agent",
+  "description": "Attention-Aware Compression for the Pi Coding Agent: A Self-Driven Approach",
   "metadata": {
     "github_url": "https://github.com/frostime/pi-midcompact",
     "repo_full_name": "frostime/pi-midcompact",
-    "description": "Branch-aware mid-context compression for the Pi coding agent",
+    "description": "Attention-Aware Compression for the Pi Coding Agent: A Self-Driven Approach",
     "stars": 1,
     "forks": 0,
     "open_issues": 0,
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-08-16T07:30:00Z",
     "pushed_at": "2026-10-08T16:34:08Z",
-    "updated_at": "2026-10-08T16:33:55Z",
+    "updated_at": "2026-10-12T19:54:33Z",
     "size": 1862,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"

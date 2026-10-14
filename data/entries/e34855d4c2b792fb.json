@@ -10,7 +10,7 @@
     "description": "The extensions I run Pi with: permissions, providers and more, each installable on its own.",
     "stars": 2,
     "forks": 1,
-    "open_issues": 2,
+    "open_issues": 0,
     "topics": [
       "harness",
       "pi",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-19T23:31:40Z",
-    "pushed_at": "2026-10-11T09:03:01Z",
-    "updated_at": "2026-10-08T23:55:11Z",
-    "size": 4057,
+    "pushed_at": "2026-10-13T13:04:17Z",
+    "updated_at": "2026-10-13T13:04:12Z",
+    "size": 9921,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

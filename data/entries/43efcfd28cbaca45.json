@@ -1,0 +1,32 @@
+{
+  "id": "@estebanforge/pi-peer-review",
+  "name": "@estebanforge/pi-peer-review",
+  "url": "https://www.npmjs.com/package/@estebanforge/pi-peer-review",
+  "source": "npm-search",
+  "description": "Adversarial peer review for Pi: /peer-review diff-reviews every change since the last check under an adversarial frame (task, executor's claim, real diffs, claim audit) and passes BLOCKER/RISK findings to the model as untrusted claims. Also ships the fail",
+  "metadata": {
+    "github_url": "https://github.com/EstebanForge/pi-extensions",
+    "npm_name": "@estebanforge/pi-peer-review",
+    "description": "Adversarial peer review for Pi: /peer-review diff-reviews every change since the last check under an adversarial frame (task, executor's claim, real diffs, claim audit) and passes BLOCKER/RISK findings to the model as untrusted claims. Also ships the fail",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "peer-review",
+      "code-review",
+      "unblock",
+      "consult",
+      "failure-loop",
+      "guard"
+    ],
+    "version": "1.1.2",
+    "published_at": "2026-10-13T22:03:22.771Z",
+    "npm_downloads_monthly": 322,
+    "npm_downloads_weekly": 322,
+    "npm_score_final": 17.654995,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

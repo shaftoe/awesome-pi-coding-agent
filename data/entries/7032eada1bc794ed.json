@@ -8,7 +8,7 @@
     "github_url": "https://github.com/shaneconner/canon",
     "repo_full_name": "shaneconner/canon",
     "description": "Canonical project memory for the Pi coding agent: one governing article per asset, an append-only journal, capsule surfacing. A project wiki with a spine.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-08-10T11:38:36Z",
     "pushed_at": "2026-10-03T09:57:08Z",
-    "updated_at": "2026-10-03T10:02:09Z",
+    "updated_at": "2026-10-13T22:26:36Z",
     "size": 4819,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

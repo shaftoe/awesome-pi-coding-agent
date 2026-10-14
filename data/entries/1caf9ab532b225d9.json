@@ -1,0 +1,30 @@
+{
+  "id": "Gang-of-Beads-pi-web-themes",
+  "name": "Gang-of-Beads-pi-web-themes",
+  "url": "https://github.com/Gang-of-Beads/pi-web-themes",
+  "source": "github-search",
+  "description": "Theme pack for PI WEB: PI WEB, Clay and Material light/dark pairs plus Classic, Night, Paper and High Contrast.",
+  "metadata": {
+    "github_url": "https://github.com/Gang-of-Beads/pi-web-themes",
+    "repo_full_name": "Gang-of-Beads/pi-web-themes",
+    "description": "Theme pack for PI WEB: PI WEB, Clay and Material light/dark pairs plus Classic, Night, Paper and High Contrast.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-package",
+      "pi-web",
+      "pi-web-plugin",
+      "themes"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-04T21:28:43Z",
+    "pushed_at": "2026-10-12T04:00:00Z",
+    "updated_at": "2026-10-12T04:00:07Z",
+    "size": 99,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}
