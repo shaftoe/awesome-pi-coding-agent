@@ -1,0 +1,31 @@
+{
+  "id": "arthurfiorette-pi-episodes",
+  "name": "arthurfiorette-pi-episodes",
+  "url": "https://github.com/arthurfiorette/pi-episodes",
+  "source": "github-search",
+  "description": "Fold finished episodes out of pi's context, and recall, ask or fork them instead of compacting",
+  "metadata": {
+    "github_url": "https://github.com/arthurfiorette/pi-episodes",
+    "repo_full_name": "arthurfiorette/pi-episodes",
+    "description": "Fold finished episodes out of pi's context, and recall, ask or fork them instead of compacting",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "agents",
+      "context",
+      "pi",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-12T20:06:43Z",
+    "pushed_at": "2026-10-12T23:38:59Z",
+    "updated_at": "2026-10-13T23:33:08Z",
+    "size": 518,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "getpipher-omp-statusline",
+  "name": "getpipher-omp-statusline",
+  "url": "https://github.com/getpipher/omp-statusline",
+  "source": "github-search",
+  "description": "Four-line omp statusline widget: zai coding-plan quota (provider-gated), prayer times, hijri clock, API-spend ledger (subagent-inclusive)",
+  "metadata": {
+    "github_url": "https://github.com/getpipher/omp-statusline",
+    "repo_full_name": "getpipher/omp-statusline",
+    "description": "Four-line omp statusline widget: zai coding-plan quota (provider-gated), prayer times, hijri clock, API-spend ledger (subagent-inclusive)",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "getpipher",
+      "llm-costs",
+      "oh-my-pi",
+      "omp",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "prayer-times",
+      "status-bar",
+      "statusline",
+      "terminal",
+      "token-usage",
+      "tui",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-07T02:46:06Z",
+    "pushed_at": "2026-10-12T13:08:08Z",
+    "updated_at": "2026-10-12T18:43:37Z",
+    "size": 155,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

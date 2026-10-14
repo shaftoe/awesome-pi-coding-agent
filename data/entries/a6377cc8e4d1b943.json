@@ -8,7 +8,7 @@
     "github_url": "https://github.com/deepu105/pi-automode-classifier",
     "repo_full_name": "deepu105/pi-automode-classifier",
     "description": "Auto mode for Pi: rules first, then a local decision model, then a confirm prompt",
-    "stars": 6,
+    "stars": 7,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-10-08T09:00:33Z",
     "pushed_at": "2026-10-09T20:16:19Z",
-    "updated_at": "2026-10-09T20:16:22Z",
+    "updated_at": "2026-10-13T12:18:14Z",
     "size": 73,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

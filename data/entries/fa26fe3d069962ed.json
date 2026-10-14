@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_brucehopkins.dev_how-to-set-up-pi-coding-agent-like-claud",
+  "name": "How to Set Up Pi Coding Agent Like Claude Code | Bruce Hopkins",
+  "url": "https://brucehopkins.dev/blog/how-to-set-up-pi-coding-agent-like-claude-code",
+  "source": "brave-web-search",
+  "description": "Exploring how to configure the Pi coding agent more like Claude Code, MCP, Websearch, sub-agents, and LSP. Transform a system prompt from basic to powerful.",
+  "metadata": {
+    "title": "How to Set Up Pi Coding Agent Like Claude Code | Bruce Hopkins",
+    "name": "How to Set Up Pi Coding Agent Like Claude Code | Bruce Hopkins",
+    "description": "Exploring how to configure the Pi coding agent more like Claude Code, MCP, Websearch, sub-agents, and LSP. Transform a system prompt from basic to powerful.",
+    "published_at": "2026-10-12T11:50:02",
+    "source_site": "Blog",
+    "source_url": "https://brucehopkins.dev/blog/how-to-set-up-pi-coding-agent-like-claude-code",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

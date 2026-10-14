@@ -10,7 +10,7 @@
     "description": "The AI software factory for your team: specs go in, reviewed and tested pull requests come out. An assembly line of agents (research → specify → plan → tasks → implement → review → verify → deliver) with human gates, on GitHub Spec Kit and the Pi Coding Agent SDK, following AIDLC. GitHub/Jira/Confluence/Linear/Slack integrations.",
     "stars": 4,
     "forks": 1,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "agentic-ai",
       "agentic-workflows",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-15T06:48:58Z",
-    "pushed_at": "2026-10-11T05:44:41Z",
-    "updated_at": "2026-10-05T11:36:45Z",
-    "size": 16974,
+    "pushed_at": "2026-10-13T18:29:36Z",
+    "updated_at": "2026-10-13T18:29:39Z",
+    "size": 17028,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

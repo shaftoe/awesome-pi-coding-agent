@@ -1,0 +1,30 @@
+{
+  "id": "thonean-pi-context-hint",
+  "name": "thonean-pi-context-hint",
+  "url": "https://github.com/thonean/pi-context-hint",
+  "source": "github-search",
+  "description": "A Pi extension that helps recover project, session, and turn context.",
+  "metadata": {
+    "github_url": "https://github.com/thonean/pi-context-hint",
+    "repo_full_name": "thonean/pi-context-hint",
+    "description": "A Pi extension that helps recover project, session, and turn context.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "context",
+      "pi",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-10T08:53:46Z",
+    "pushed_at": "2026-10-13T07:00:36Z",
+    "updated_at": "2026-10-13T04:42:41Z",
+    "size": 65825,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

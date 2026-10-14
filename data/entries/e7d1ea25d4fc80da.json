@@ -8,7 +8,7 @@
     "github_url": "https://github.com/youpele52/bigbud",
     "repo_full_name": "youpele52/bigbud",
     "description": "An open-source AI workspace for knowledge workers. Bring your own AI subscriptions and use the providers, harnesses, and models you choose to research, write, code, manage files, automate tasks, and control your computer and browser—all in one app. Built to respect and adapt to your workflow.",
-    "stars": 32,
+    "stars": 33,
     "forks": 2,
     "open_issues": 0,
     "topics": [
@@ -30,9 +30,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-21T14:50:37Z",
-    "pushed_at": "2026-10-12T00:11:21Z",
-    "updated_at": "2026-10-01T19:39:03Z",
-    "size": 134359,
+    "pushed_at": "2026-10-12T21:04:08Z",
+    "updated_at": "2026-10-14T00:29:29Z",
+    "size": 134818,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

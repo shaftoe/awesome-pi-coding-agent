@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-package-webui",
+  "name": "@firstpick/pi-package-webui · Packages · Pi",
+  "url": "https://pi.dev/packages/@firstpick/pi-package-webui",
+  "source": "brave-web-search",
+  "description": "Review the source before installing third-party packages. Run Pi in a local browser with multi-session tabs, streaming output, model controls, file uploads, Git workflows, and optional companion features.",
+  "metadata": {
+    "title": "@firstpick/pi-package-webui · Packages · Pi",
+    "name": "@firstpick/pi-package-webui · Packages · Pi",
+    "description": "Review the source before installing third-party packages. Run Pi in a local browser with multi-session tabs, streaming output, model controls, file uploads, Git workflows, and optional companion features.",
+    "published_at": "2026-09-22T10:54:25",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/@firstpick/pi-package-webui",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}

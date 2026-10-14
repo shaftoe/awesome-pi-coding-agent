@@ -1,0 +1,29 @@
+{
+  "id": "@zhushanwen/pi-provider-live-sync",
+  "name": "@zhushanwen/pi-provider-live-sync",
+  "url": "https://www.npmjs.com/package/@zhushanwen/pi-provider-live-sync",
+  "source": "npm-search",
+  "description": "Keep the running pi process's model snapshot in sync with on-disk provider/model/credential config changes.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@zhushanwen/pi-provider-live-sync",
+    "description": "Keep the running pi process's model snapshot in sync with on-disk provider/model/credential config changes.",
+    "keywords": [
+      "pi-package",
+      "extension",
+      "provider",
+      "model",
+      "refresh"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-10-05T17:01:38.011Z",
+    "npm_downloads_monthly": 278,
+    "npm_downloads_weekly": 167,
+    "npm_score_final": 16.003283,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

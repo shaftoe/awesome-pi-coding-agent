@@ -9,7 +9,7 @@
     "repo_full_name": "code-B-rabbit/pi-memory-cc",
     "description": "Bring Claude Code's auto memory to pi-agent",
     "stars": 3,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

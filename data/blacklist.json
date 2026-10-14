@@ -65409,5 +65409,295 @@
 		"reason": "No Pi coding agent relevance detected",
 		"blacklisted_at": "2026-10-12T02:04:18.264Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=Uum-4Agtwik",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-14T01:31:21.135Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/cafeshop-ai/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-14T01:31:21.177Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.linux.org/threads/raspberry-pi-os-debian-app-stores-package-managers.37924/",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-10-14T01:31:21.191Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=P7sK966R3eI",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-14T01:31:21.203Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/lollipopnougat/pi-desktop",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-14T01:31:21.273Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://raspberry-projects.com/pi/pi-operating-systems/raspbian/package-manager-raspbian/apt-package-manager",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-10-14T01:31:21.285Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Iw04ZkSPlHA",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-14T01:31:21.301Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=-obfpBQJ-PI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-14T01:31:21.319Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/xbsheng/learn-pi-agent",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-14T01:31:21.356Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/vimsucks/pi-user-message-box",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-14T01:31:21.399Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@jetcrab/pi-desk-subagent",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-14T01:31:21.432Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/bubbleptr/pinomad",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-14T01:31:21.47Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/po-autocompact",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-14T01:31:21.502Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://medium.com/coding-nexus/setting-up-pi-as-your-daily-coding-agent-start-with-these-10-packages-700dce0602fe",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-14T01:31:21.513Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Rb1jNiXKxV8",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-10-14T01:31:21.56Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/sugarforever/pi-durable-mini-agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-14T01:31:21.758Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=p2kspDx5G6w",
+		"reason": "non-english language (spanish)",
+		"blacklisted_at": "2026-10-14T01:31:21.791Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/acoyfellow/coil",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-14T01:31:21.91Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/vencuts/pi-personal-kit",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-14T01:31:21.935Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/5omeOtherGuy/pi-mistral-subscription",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-14T01:31:21.967Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/zhaochunqi/pi-price-heat",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-14T01:31:21.977Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/SklUpp/omp-termux",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-10-14T01:31:22.042Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/po-web",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-14T01:31:22.105Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/JoaquinCampo/pi-hold-to-talk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-14T01:31:22.141Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=JGV6e0Mno3Q",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-10-14T01:31:22.152Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=4VYr-OqH6WE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-14T01:31:22.209Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@falling-ts/pi-start-command",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-14T01:31:22.276Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-memory-system",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-14T01:31:22.291Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://projects.raspberrypi.org/en/projects/install-python-packages",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-10-14T01:31:22.333Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
 	}
 ]

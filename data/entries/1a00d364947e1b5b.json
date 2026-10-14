@@ -1,0 +1,28 @@
+{
+  "id": "andresaraujo-pi-flashcards",
+  "name": "andresaraujo-pi-flashcards",
+  "url": "https://github.com/andresaraujo/pi-flashcards",
+  "source": "github-search",
+  "description": "Pi extension: turn coding sessions into study flashcards.",
+  "metadata": {
+    "github_url": "https://github.com/andresaraujo/pi-flashcards",
+    "repo_full_name": "andresaraujo/pi-flashcards",
+    "description": "Pi extension: turn coding sessions into study flashcards.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-01-22T23:09:22Z",
+    "pushed_at": "2026-01-26T17:14:53Z",
+    "updated_at": "2026-10-13T19:40:08Z",
+    "size": 1480,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

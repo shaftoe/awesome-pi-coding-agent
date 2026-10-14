@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-packs",
+  "name": "pi-packs · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-packs",
+  "source": "brave-web-search",
+  "description": "Review the source before installing third-party packages. Umbrella Pi package that lets users install a curated set of individually published pi extensions through a single /install picker:",
+  "metadata": {
+    "title": "pi-packs · Packages · Pi",
+    "name": "pi-packs · Packages · Pi",
+    "description": "Review the source before installing third-party packages. Umbrella Pi package that lets users install a curated set of individually published pi extensions through a single /install picker:",
+    "published_at": "2026-06-02T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-packs",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}
