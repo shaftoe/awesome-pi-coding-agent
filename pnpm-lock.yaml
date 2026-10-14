@@ -174,8 +174,8 @@ importers:
         version: 7.0.2
     devDependencies:
       '@alexanderfortin/semantic-release-keep-a-changelog':
-        specifier: ^0.5.1
-        version: 0.5.1(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))
+        specifier: ^0.6.0
+        version: 0.6.0(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))
       '@biomejs/biome':
         specifier: ^2.5.15
         version: 2.5.15
@@ -239,11 +239,11 @@ packages:
   '@actions/io@3.0.2':
     resolution: {integrity: sha512-nRBchcMM+QK1pdjO7/idu86rbJI5YHUKCvKs0KxnSYbVe3F51UfGxuZX4Qy/fWlp6l7gWFwIkrOzN+oUK03kfw==}
 
-  '@alexanderfortin/semantic-release-keep-a-changelog@0.5.1':
-    resolution: {integrity: sha512-Ij0xzVQJA62I03GSolyDj5MTTsAKbdCUlVZf3cVghXS4O49TaRr8HobsbC/4Ax6lq0zRCckmW5fPiOtPf7JBUA==}
+  '@alexanderfortin/semantic-release-keep-a-changelog@0.6.0':
+    resolution: {integrity: sha512-MS+/+kt0QJ8qbOpUPEabcs8TTIZCQVal8hT/B+28kxr89Ua7jHpaOYNaRDle1hZ51bkfH2/smjAfYRL7VlRENQ==}
     engines: {pnpm: '>=12.11.2'}
     peerDependencies:
-      semantic-release: '>=24.2.9'
+      semantic-release: '>=25.0.9'
 
   '@astrojs/compiler-binding-android-arm64@0.5.1':
     resolution: {integrity: sha512-nMb2nMIJtcWLNH+fV75Enmi+jp4tIOYOfsv4XtpgdOWkqc9P4uSSdK5u1xb340AzrXo5V18SxLl/nc3vcqtamQ==}
@@ -3452,7 +3452,7 @@ snapshots:
 
   '@actions/io@3.0.2': {}
 
-  '@alexanderfortin/semantic-release-keep-a-changelog@0.5.1(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))':
+  '@alexanderfortin/semantic-release-keep-a-changelog@0.6.0(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))':
     dependencies:
       '@semantic-release/error': 4.0.0
       conventional-changelog-writer: 9.2.1
