@@ -1,0 +1,35 @@
+{
+  "id": "pi-bulk-sessions",
+  "name": "pi-bulk-sessions",
+  "url": "https://www.npmjs.com/package/pi-bulk-sessions",
+  "source": "npm-search",
+  "description": "Multi-select chat deletion inside pi's own resume browser. /sessions adds a checkbox column to pi's SessionSelectorComponent: alt+s toggles, alt+a toggles all, alt+x deletes the checked chats (trash-safe).",
+  "metadata": {
+    "github_url": "https://github.com/VignetteApril/pi-bulk-sessions",
+    "npm_name": "pi-bulk-sessions",
+    "description": "Multi-select chat deletion inside pi's own resume browser. /sessions adds a checkbox column to pi's SessionSelectorComponent: alt+s toggles, alt+a toggles all, alt+x deletes the checked chats (trash-safe).",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "sessions",
+      "resume",
+      "delete",
+      "bulk",
+      "multi-select",
+      "checkbox",
+      "tui"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-10-14T15:20:18.407Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

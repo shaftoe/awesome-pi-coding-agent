@@ -1,0 +1,20 @@
+{
+  "id": "YT_OkdwQVT3mkg",
+  "name": "Pi Durable Crash Course: Crash Recovery, Replay, and Idempotency",
+  "url": "https://youtube.com/watch?v=OkdwQVT3mkg",
+  "source": "youtube-search",
+  "description": "Pi Durable is an experimental TypeScript library from Earendil, the company behind the Pi coding agent, for agent apps that need ...",
+  "metadata": {
+    "title": "Pi Durable Crash Course: Crash Recovery, Replay, and Idempotency",
+    "name": "Pi Durable Crash Course: Crash Recovery, Replay, and Idempotency",
+    "description": "Pi Durable is an experimental TypeScript library from Earendil, the company behind the Pi coding agent, for agent apps that need ...",
+    "channel": "Will Chen",
+    "published_at": "2026-10-14T20:39:26Z",
+    "thumbnail": "https://i.ytimg.com/vi/OkdwQVT3mkg/hqdefault.jpg",
+    "views": 12,
+    "likes": 0,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-package"
+  },
+  "category": "video"
+}

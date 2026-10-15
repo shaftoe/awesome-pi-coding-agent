@@ -1,0 +1,20 @@
+{
+  "id": "YT_GXdt-j-qEtY",
+  "name": "Recording AI Coding Agent Sessions Locally with Lapdog",
+  "url": "https://youtube.com/watch?v=GXdt-j-qEtY",
+  "source": "youtube-search",
+  "description": "Lapdog (lapdog.datadoghq.com) is a service for recording coding-agent sessions, and it works with or without a Datadog account.",
+  "metadata": {
+    "title": "Recording AI Coding Agent Sessions Locally with Lapdog",
+    "name": "Recording AI Coding Agent Sessions Locally with Lapdog",
+    "description": "Lapdog (lapdog.datadoghq.com) is a service for recording coding-agent sessions, and it works with or without a Datadog account.",
+    "channel": "Datadog Community",
+    "published_at": "2026-10-11T06:00:24Z",
+    "thumbnail": "https://i.ytimg.com/vi/GXdt-j-qEtY/hqdefault.jpg",
+    "views": 199,
+    "likes": 4,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-coding-agent"
+  },
+  "category": "video"
+}

@@ -10,7 +10,7 @@
     "description": "Use your x.com Premium / SuperGrok subscription in pi with OAuth login, privacy toggle, auto-refresh and live model discovery. Supports grok-4.7, grok-composer-2.5-fast, x_search.",
     "stars": 27,
     "forks": 6,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "composer-2p5",
       "grok",
@@ -31,9 +31,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-16T09:41:11Z",
-    "pushed_at": "2026-10-05T03:20:52Z",
+    "pushed_at": "2026-10-14T09:59:17Z",
     "updated_at": "2026-10-05T03:20:52Z",
-    "size": 555,
+    "size": 560,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

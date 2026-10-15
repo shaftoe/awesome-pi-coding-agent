@@ -1,0 +1,25 @@
+{
+  "id": "utpalsinghdev-pi-extensions",
+  "name": "utpalsinghdev-pi-extensions",
+  "url": "https://github.com/utpalsinghdev/pi-extensions",
+  "source": "github-search",
+  "description": "Independently installable extensions for Pi Coding Agent.",
+  "metadata": {
+    "github_url": "https://github.com/utpalsinghdev/pi-extensions",
+    "repo_full_name": "utpalsinghdev/pi-extensions",
+    "description": "Independently installable extensions for Pi Coding Agent.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-14T03:26:54Z",
+    "pushed_at": "2026-10-14T04:56:40Z",
+    "updated_at": "2026-10-14T18:06:43Z",
+    "size": 7100,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

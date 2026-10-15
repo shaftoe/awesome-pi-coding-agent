@@ -1,0 +1,30 @@
+{
+  "id": "pi-ghostty-tab",
+  "name": "pi-ghostty-tab",
+  "url": "https://www.npmjs.com/package/pi-ghostty-tab",
+  "source": "npm-search",
+  "description": "Slot-configurable Ghostty tab title for pi coding agent — braille spinner, LLM session summary, tool tracking, native OSC 9;4 progress bar",
+  "metadata": {
+    "github_url": "https://github.com/Andy8647/pi-ghostty-tab",
+    "npm_name": "pi-ghostty-tab",
+    "description": "Slot-configurable Ghostty tab title for pi coding agent — braille spinner, LLM session summary, tool tracking, native OSC 9;4 progress bar",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "ghostty",
+      "terminal",
+      "tab-title",
+      "progress-bar"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-07T03:26:07.161Z",
+    "npm_downloads_monthly": 199,
+    "npm_downloads_weekly": 199,
+    "npm_score_final": 15.945531,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

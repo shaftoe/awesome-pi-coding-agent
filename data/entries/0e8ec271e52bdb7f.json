@@ -8,7 +8,7 @@
     "github_url": "https://github.com/woosal1337/ade",
     "repo_full_name": "woosal1337/ade",
     "description": "Plan, apply, and revert one agent development environment (MCP servers, skills, instructions, settings, plugins, and config files) across 10 coding agents. CLI and TypeScript SDK.",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -32,9 +32,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-11T07:46:17Z",
-    "pushed_at": "2026-10-13T20:41:00Z",
-    "updated_at": "2026-10-13T20:41:04Z",
-    "size": 2249,
+    "pushed_at": "2026-10-14T10:18:36Z",
+    "updated_at": "2026-10-14T13:57:12Z",
+    "size": 2284,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

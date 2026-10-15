@@ -10,7 +10,7 @@
     "description": "Monorepo For Pi Agent Harness",
     "stars": 24,
     "forks": 3,
-    "open_issues": 7,
+    "open_issues": 6,
     "topics": [
       "pi-coding-agent",
       "pi-extension",
@@ -27,9 +27,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-20T23:05:29Z",
-    "pushed_at": "2026-10-12T14:19:02Z",
-    "updated_at": "2026-10-13T14:36:25Z",
-    "size": 3169,
+    "pushed_at": "2026-10-14T15:25:23Z",
+    "updated_at": "2026-10-14T15:23:31Z",
+    "size": 3405,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

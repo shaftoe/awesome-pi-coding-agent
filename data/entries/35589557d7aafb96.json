@@ -19,7 +19,7 @@
     "updated_at": "2026-05-09T05:49:13Z",
     "size": 34,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-package language:TypeScript"
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
   "category": "extension"
 }

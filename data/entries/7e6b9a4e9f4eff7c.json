@@ -3,11 +3,11 @@
   "name": "Package Catalog · Pi",
   "url": "https://pi.dev/packages?type=extension",
   "source": "brave-web-search",
-  "description": "Extensions, skills, prompt templates, and themes published to npm. Install with pi install npm:. See the package docs for details.",
+  "description": "It replaces the implementation of Pi's built-in Anthropic provider, keeping the `anthropic` provider ID and model IDs, and is backed by the shared `@cortexkit/anthropic-auth-core` package.14m ago@brainervirus/workit-piWorkit native extension for Pi — tools, method skills, and session ...",
   "metadata": {
     "title": "Package Catalog · Pi",
     "name": "Package Catalog · Pi",
-    "description": "Extensions, skills, prompt templates, and themes published to npm. Install with pi install npm:<package>. See the package docs for details.",
+    "description": "It replaces the implementation of Pi's built-in Anthropic provider, keeping the `anthropic` provider ID and model IDs, and is backed by the shared `@cortexkit/anthropic-auth-core` package.14m ago@brainervirus/workit-piWorkit native extension for Pi — tools, method skills, and session ...",
     "published_at": null,
     "source_site": "Pi",
     "source_url": "https://pi.dev/packages?type=extension",
