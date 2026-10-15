@@ -1,0 +1,25 @@
+{
+  "id": "fdietze-pi-infinite-context",
+  "name": "fdietze-pi-infinite-context",
+  "url": "https://github.com/fdietze/pi-infinite-context",
+  "source": "github-search",
+  "description": "pi extension: agent tools for folding its own context.",
+  "metadata": {
+    "github_url": "https://github.com/fdietze/pi-infinite-context",
+    "repo_full_name": "fdietze/pi-infinite-context",
+    "description": "pi extension:  agent tools for folding its own context. ",
+    "stars": 4,
+    "forks": 1,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-27T12:57:44Z",
+    "pushed_at": "2026-10-13T02:01:19Z",
+    "updated_at": "2026-10-14T13:03:14Z",
+    "size": 289,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

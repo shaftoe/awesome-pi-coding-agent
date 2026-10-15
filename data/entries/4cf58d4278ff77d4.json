@@ -10,7 +10,7 @@
     "description": "Model performance first. Token savings second. A Pi extension with freshness-aware read dedupe, Jev log filtering, and searchable verbatim recall. Keeps existing message history intact.",
     "stars": 10,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "context-engineering",
       "jev",

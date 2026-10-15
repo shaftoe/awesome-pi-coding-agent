@@ -8,7 +8,7 @@
     "github_url": "https://github.com/rabden/pi-opencode-zen",
     "repo_full_name": "rabden/pi-opencode-zen",
     "description": "Use OpenCode Zen's free models outside OpenCode — Pi extension with working tool calling and image input",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-10-11T15:48:17Z",
     "pushed_at": "2026-10-12T02:54:28Z",
-    "updated_at": "2026-10-12T12:00:48Z",
+    "updated_at": "2026-10-14T07:03:36Z",
     "size": 32,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

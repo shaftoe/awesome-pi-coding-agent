@@ -10,7 +10,7 @@
     "description": "Run pi as a native Claude Code subagent: pi agents in Claude Code's own agent UI, streamed live, on any model pi can reach.",
     "stars": 23,
     "forks": 2,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

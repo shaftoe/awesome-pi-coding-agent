@@ -3,28 +3,30 @@
   "name": "@tshu-w/pi-agents",
   "url": "https://www.npmjs.com/package/@tshu-w/pi-agents",
   "source": "npm-search",
-  "description": "Multi-agent runtime for Pi: async agents, programmatic delegation, inter-agent messaging, and a workbench for your Sessions",
+  "description": "Multi-agent runtime for Pi: persistent async agents, dynamic workflows, and inter-agent messaging",
   "metadata": {
     "github_url": "https://github.com/tshu-w/pi-agents",
     "npm_name": "@tshu-w/pi-agents",
-    "description": "Multi-agent runtime for Pi: async agents, programmatic delegation, inter-agent messaging, and a workbench for your Sessions",
+    "description": "Multi-agent runtime for Pi: persistent async agents, dynamic workflows, and inter-agent messaging",
     "keywords": [
-      "pi-package",
-      "pi-extension",
-      "pi-coding-agent",
       "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
       "multi-agent",
+      "async-agents",
+      "dynamic-workflows",
       "rlm"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-10-10T07:14:22.863Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.2.0",
+    "published_at": "2026-10-14T17:43:59.800Z",
+    "npm_downloads_monthly": 395,
+    "npm_downloads_weekly": 395,
+    "npm_score_final": 18.060755,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

@@ -1,0 +1,31 @@
+{
+  "id": "pi-live-file-guard",
+  "name": "pi-live-file-guard",
+  "url": "https://www.npmjs.com/package/pi-live-file-guard",
+  "source": "npm-search",
+  "description": "Prevent stale writes across concurrent Pi sessions using read hashes and a Git common-dir bus.",
+  "metadata": {
+    "github_url": "https://github.com/Mrthnx/pi-live-file-guard",
+    "npm_name": "pi-live-file-guard",
+    "description": "Prevent stale writes across concurrent Pi sessions using read hashes and a Git common-dir bus.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "concurrency",
+      "stale-write",
+      "file-guard",
+      "worktree"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-10-07T03:15:57.047Z",
+    "npm_downloads_monthly": 234,
+    "npm_downloads_weekly": 234,
+    "npm_score_final": 15.384159,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "TypeSafe Jev as a decision layer for the Pi coding agent: a measured tool-call gate plus jev_ask for typed, calibrated answers",
     "stars": 165,
     "forks": 17,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "guardrails",
       "jev",
