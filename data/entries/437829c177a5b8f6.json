@@ -1,0 +1,25 @@
+{
+  "id": "@eleith-pi/tool-rendering",
+  "name": "@eleith-pi/tool-rendering",
+  "url": "https://www.npmjs.com/package/@eleith-pi/tool-rendering",
+  "source": "npm-search",
+  "description": "Consistent minimal frames for Pi's built-in tools",
+  "metadata": {
+    "github_url": "https://github.com/eleith/pi-extensions",
+    "npm_name": "@eleith-pi/tool-rendering",
+    "description": "Consistent minimal frames for Pi's built-in tools",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-10-08T22:26:53.815Z",
+    "npm_downloads_monthly": 434,
+    "npm_downloads_weekly": 434,
+    "npm_score_final": 18.17197,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

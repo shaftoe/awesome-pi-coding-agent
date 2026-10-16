@@ -3,11 +3,11 @@
   "name": "@agimon-ai/po-file-edit",
   "url": "https://www.npmjs.com/package/@agimon-ai/po-file-edit",
   "source": "npm-search",
-  "description": "Native Po session-scoped file-change timelines and review APIs.",
+  "description": "Native Po session-scoped file-change timelines, review APIs, and cross-agent edit presence.",
   "metadata": {
     "github_url": "https://github.com/AgiFlow/po",
     "npm_name": "@agimon-ai/po-file-edit",
-    "description": "Native Po session-scoped file-change timelines and review APIs.",
+    "description": "Native Po session-scoped file-change timelines, review APIs, and cross-agent edit presence.",
     "keywords": [
       "ai",
       "coding-agent",
@@ -20,8 +20,8 @@
       "po",
       "session-timeline"
     ],
-    "version": "0.0.0-alpha.2",
-    "published_at": "2026-10-14T20:54:00.828Z",
+    "version": "0.0.0-alpha.6",
+    "published_at": "2026-10-15T22:04:47.964Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

@@ -10,16 +10,16 @@
     "description": "Durable Pi agents that collaborate asynchronously under explicit Owner and Spawner supervision.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 2,
     "topics": [
       "pi-package"
     ],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-25T04:57:35Z",
-    "pushed_at": "2026-10-13T06:17:44Z",
-    "updated_at": "2026-10-13T06:17:46Z",
-    "size": 5374,
+    "pushed_at": "2026-10-15T22:20:52Z",
+    "updated_at": "2026-10-15T22:20:54Z",
+    "size": 5493,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

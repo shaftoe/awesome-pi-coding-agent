@@ -1,0 +1,28 @@
+{
+  "id": "@each1024/pi-final-model",
+  "name": "@each1024/pi-final-model",
+  "url": "https://www.npmjs.com/package/@each1024/pi-final-model",
+  "source": "npm-search",
+  "description": "Rewrite Pi's final answer with a dedicated model, with settings, diagnostic logs, and a verified completion sparkle.",
+  "metadata": {
+    "github_url": "https://github.com/eachann1024/pi-final-model",
+    "npm_name": "@each1024/pi-final-model",
+    "description": "Rewrite Pi's final answer with a dedicated model, with settings, diagnostic logs, and a verified completion sparkle.",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "pi-extension",
+      "magpie"
+    ],
+    "version": "0.2.2",
+    "published_at": "2026-10-15T05:19:03.929Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

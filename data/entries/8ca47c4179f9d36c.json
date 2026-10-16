@@ -10,7 +10,7 @@
     "description": "CLI relay for Claude Code, Codex, OpenCode, and pi. Delegate to Antigravity, Claude, Codex, Gemini, Ollama, OpenCode, or pi with streaming, sessions, and multi-agent teams.",
     "stars": 10,
     "forks": 3,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "agent-orchestration",
       "ai-agent",

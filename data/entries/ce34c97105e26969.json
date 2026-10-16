@@ -8,7 +8,7 @@
     "github_url": "https://github.com/smixs/pi-durable-telegram",
     "repo_full_name": "smixs/pi-durable-telegram",
     "description": "Always-on durable pi agent on your server that you talk to in Telegram. Survives crashes and restarts, keeps history in SQLite. pi-durable Telegram gateway.",
-    "stars": 7,
+    "stars": 8,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-11T00:35:37Z",
-    "pushed_at": "2026-10-14T08:01:08Z",
-    "updated_at": "2026-10-14T08:01:11Z",
-    "size": 1388,
+    "pushed_at": "2026-10-15T23:06:17Z",
+    "updated_at": "2026-10-15T23:06:20Z",
+    "size": 1389,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

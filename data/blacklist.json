@@ -65909,5 +65909,185 @@
 			"sourceName": "npm",
 			"query": "npm:keywords:pi-coding-agent"
 		}
+	},
+	{
+		"url": "https://github.com/ZhenHuangLab/pi-better-math",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-16T00:56:22.755Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/vine-harness",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-16T00:56:22.793Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=UCZ-oChaBn8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-16T00:56:22.812Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/sv3nbeast/agent-manager-lite",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-16T00:56:22.87Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Az1IEbMUKbE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-16T00:56:22.906Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=PtS2EdUsMeo",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-10-16T00:56:22.937Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/ZhenHuangLab/pi-tool-fold",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-16T00:56:23.069Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=YCMCdBwuZq8",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-10-16T00:56:23.084Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/TianZuo555/magpie-portkey",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-16T00:56:23.132Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/ZhenHuangLab/strip-pi-docs",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-16T00:56:23.223Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@chlamydomonos/pi-roleplay",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-16T00:56:23.25Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=M4AOn598wOc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-16T00:56:23.357Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/ZhenHuangLab/pi-xai-search",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-16T00:56:23.381Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=E2VmCTVGjA4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-16T00:56:23.478Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=cgmhTAleJFU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-16T00:56:23.526Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.sunfounder.com/collections/raspberrypi-kits",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-10-16T00:56:23.61Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=rXwJIVXAZPM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-16T00:56:23.723Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=BTDVKo5UuTQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-16T00:56:23.843Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
 	}
 ]
