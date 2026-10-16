@@ -3,11 +3,11 @@
   "name": "@qusic/pi-compact-filter",
   "url": "https://www.npmjs.com/package/@qusic/pi-compact-filter",
   "source": "npm-search",
-  "description": "Prune stale tracked paths from Pi's compaction context.",
+  "description": "Keep Pi compaction file lists scoped to the current summary window.",
   "metadata": {
     "github_url": "https://github.com/Qusic/pi-extensions",
     "npm_name": "@qusic/pi-compact-filter",
-    "description": "Prune stale tracked paths from Pi's compaction context.",
+    "description": "Keep Pi compaction file lists scoped to the current summary window.",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -18,13 +18,13 @@
       "context-pruning",
       "context-management",
       "file-tracking",
-      "path-filtering"
+      "file-operations"
     ],
-    "version": "0.20260915.0",
-    "published_at": "2026-09-15T06:08:22.230Z",
-    "npm_downloads_monthly": 103,
-    "npm_downloads_weekly": 13,
-    "npm_score_final": 16.715223,
+    "version": "0.20261015.0",
+    "published_at": "2026-10-15T22:45:49.420Z",
+    "npm_downloads_monthly": 91,
+    "npm_downloads_weekly": 11,
+    "npm_score_final": 16.6261,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

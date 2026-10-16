@@ -1,0 +1,25 @@
+{
+  "id": "pi-link-extension",
+  "name": "pi-link-extension",
+  "url": "https://www.npmjs.com/package/pi-link-extension",
+  "source": "npm-search",
+  "description": "Pi Link local-product candidate with maintained builtin resources; remote control is experimental and explicit.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-link-extension",
+    "description": "Pi Link local-product candidate with maintained builtin resources; remote control is experimental and explicit.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-08T01:42:48.601Z",
+    "npm_downloads_monthly": 396,
+    "npm_downloads_weekly": 396,
+    "npm_score_final": 17.864216,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "@fractaal/pi-btw",
+  "name": "@fractaal/pi-btw",
+  "url": "https://www.npmjs.com/package/@fractaal/pi-btw",
+  "source": "npm-search",
+  "description": "/btw side conversations for Pi: branch the current context into a tool-blocked panel and optionally send the discussion back.",
+  "metadata": {
+    "github_url": "https://github.com/fractaal/pi-extensions",
+    "npm_name": "@fractaal/pi-btw",
+    "description": "/btw side conversations for Pi: branch the current context into a tool-blocked panel and optionally send the discussion back.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "btw",
+      "side-conversation"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-08T15:05:22.390Z",
+    "npm_downloads_monthly": 211,
+    "npm_downloads_weekly": 211,
+    "npm_score_final": 15.899223,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

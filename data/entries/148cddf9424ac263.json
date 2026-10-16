@@ -1,0 +1,32 @@
+{
+  "id": "@barlevalon/tdd-skill",
+  "name": "@barlevalon/tdd-skill",
+  "url": "https://www.npmjs.com/package/@barlevalon/tdd-skill",
+  "source": "npm-search",
+  "description": "Test-driven development with red-green-refactor loop. Use when user wants to build features or fix bugs using TDD, mentions \"red-green-refactor\", wants integration tests, or asks for test-first development.",
+  "metadata": {
+    "github_url": "https://github.com/barlevalon/skills",
+    "npm_name": "@barlevalon/tdd-skill",
+    "description": "Test-driven development with red-green-refactor loop. Use when user wants to build features or fix bugs using TDD, mentions \"red-green-refactor\", wants integration tests, or asks for test-first development.",
+    "keywords": [
+      "agent-skill",
+      "agent-skills",
+      "ai-agent",
+      "engineering",
+      "pi",
+      "pi-package",
+      "skills",
+      "tdd"
+    ],
+    "version": "2.0.0",
+    "published_at": "2026-10-08T14:20:25.490Z",
+    "npm_downloads_monthly": 247,
+    "npm_downloads_weekly": 195,
+    "npm_score_final": 15.894181,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

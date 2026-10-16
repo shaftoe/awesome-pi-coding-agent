@@ -1,0 +1,31 @@
+{
+  "id": "@fahrizkyputra/pi-session-favorites",
+  "name": "@fahrizkyputra/pi-session-favorites",
+  "url": "https://www.npmjs.com/package/@fahrizkyputra/pi-session-favorites",
+  "source": "npm-search",
+  "description": "Mark Pi sessions as favorites (★ in the session name) so /resume shows which ones to continue later.",
+  "metadata": {
+    "github_url": "https://github.com/fahrizkyputra/pi-session-favorites",
+    "npm_name": "@fahrizkyputra/pi-session-favorites",
+    "description": "Mark Pi sessions as favorites (★ in the session name) so /resume shows which ones to continue later.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "session",
+      "favorite",
+      "bookmark",
+      "resume"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-08T18:23:47.770Z",
+    "npm_downloads_monthly": 386,
+    "npm_downloads_weekly": 386,
+    "npm_score_final": 17.595156,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

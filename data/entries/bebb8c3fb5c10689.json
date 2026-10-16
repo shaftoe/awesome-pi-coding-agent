@@ -8,7 +8,7 @@
     "github_url": "https://github.com/cuongnbms/herdly",
     "repo_full_name": "cuongnbms/herdly",
     "description": "macOS desktop app for the herdr terminal multiplexer: manage Claude Code, pi and other AI coding agents across local and SSH machines, with live agent status, a native terminal and a chat view. Built with Tauri, Rust and React.",
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-03T08:01:22Z",
-    "pushed_at": "2026-10-14T12:20:50Z",
-    "updated_at": "2026-10-14T12:20:52Z",
-    "size": 6022,
+    "pushed_at": "2026-10-15T08:20:48Z",
+    "updated_at": "2026-10-15T08:20:53Z",
+    "size": 6171,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

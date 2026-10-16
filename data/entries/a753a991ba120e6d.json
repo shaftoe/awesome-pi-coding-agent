@@ -1,0 +1,29 @@
+{
+  "id": "pi-vim-editor",
+  "name": "pi-vim-editor",
+  "url": "https://www.npmjs.com/package/pi-vim-editor",
+  "source": "npm-search",
+  "description": "Minimal Vim-style modal editing for Pi's prompt editor that composes with other editor extensions.",
+  "metadata": {
+    "github_url": "https://github.com/mavam/pi-vim-editor",
+    "npm_name": "pi-vim-editor",
+    "description": "Minimal Vim-style modal editing for Pi's prompt editor that composes with other editor extensions.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "coding-agent",
+      "vim",
+      "modal-editing"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-10-15T07:45:31.507Z",
+    "npm_downloads_monthly": 726,
+    "npm_downloads_weekly": 726,
+    "npm_score_final": 19.833057,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

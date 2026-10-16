@@ -1,0 +1,30 @@
+{
+  "id": "@xberg-io/opencode-html-to-markdown",
+  "name": "@xberg-io/opencode-html-to-markdown",
+  "url": "https://www.npmjs.com/package/@xberg-io/opencode-html-to-markdown",
+  "source": "npm-search",
+  "description": "Fast, lossless HTML→Markdown conversion with structured metadata, tables, and document-structure extraction.",
+  "metadata": {
+    "github_url": "https://github.com/xberg-io/html-to-markdown",
+    "npm_name": "@xberg-io/opencode-html-to-markdown",
+    "description": "Fast, lossless HTML→Markdown conversion with structured metadata, tables, and document-structure extraction.",
+    "keywords": [
+      "conversion",
+      "html",
+      "html-to-markdown",
+      "markdown",
+      "metadata",
+      "pi-package"
+    ],
+    "version": "3.18.1",
+    "published_at": "2026-10-15T08:16:25.579Z",
+    "npm_downloads_monthly": 2131,
+    "npm_downloads_weekly": 125,
+    "npm_score_final": 22.804699,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

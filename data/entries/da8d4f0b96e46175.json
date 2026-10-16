@@ -10,7 +10,7 @@
     "description": "Pi coding agent extension for focused code retrieval, grounded edits, safety checks, and language-server support.",
     "stars": 28,
     "forks": 3,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "coding-agent",
       "coding-agents",

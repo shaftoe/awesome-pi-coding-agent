@@ -8,7 +8,7 @@
     "title": "Trace the Pi Coding Agent with Langfuse - Langfuse",
     "name": "Trace the Pi Coding Agent with Langfuse - Langfuse",
     "description": "Trace Pi coding agent sessions with Langfuse — agent turns, model generations, token usage with cache and reasoning splits, cost, tool calls, and nested subagents.",
-    "published_at": "2026-07-13T00:00:00",
+    "published_at": null,
     "source_site": "Langfuse",
     "source_url": "https://langfuse.com/integrations/developer-tools/pi-agent",
     "discovery_hint": "brave:pi-agent"

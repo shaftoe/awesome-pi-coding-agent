@@ -1,0 +1,29 @@
+{
+  "id": "@duncanbeard/pi-tps-meter",
+  "name": "@duncanbeard/pi-tps-meter",
+  "url": "https://www.npmjs.com/package/@duncanbeard/pi-tps-meter",
+  "source": "npm-search",
+  "description": "Pi extension: a live braille graph of output tokens/sec while the model streams, with accurate per-response averages.",
+  "metadata": {
+    "github_url": "https://github.com/DuncanBeard/pi-tps-meter",
+    "npm_name": "@duncanbeard/pi-tps-meter",
+    "description": "Pi extension: a live braille graph of output tokens/sec while the model streams, with accurate per-response averages.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "tps",
+      "tokens-per-second",
+      "throughput"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-10-08T10:11:48.566Z",
+    "npm_downloads_monthly": 225,
+    "npm_downloads_weekly": 225,
+    "npm_score_final": 15.884211,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

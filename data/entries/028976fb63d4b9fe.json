@@ -9,7 +9,7 @@
     "repo_full_name": "joelhooks/pi-cmux",
     "description": "cmux integration extension for pi — sidebar status, notifications, live tool activity, workspace control. Standalone package for orchestrator and worker agents.",
     "stars": 12,
-    "forks": 3,
+    "forks": 4,
     "open_issues": 11,
     "topics": [],
     "language": "TypeScript",
