@@ -9,8 +9,8 @@
     "repo_full_name": "L2ncE/pi-recap",
     "description": "Claude Code-style session recap for pi agent — a stable one-line status recap above the footer",
     "stars": 8,
-    "forks": 3,
-    "open_issues": 1,
+    "forks": 4,
+    "open_issues": 2,
     "topics": [
       "extension",
       "pi-agent",

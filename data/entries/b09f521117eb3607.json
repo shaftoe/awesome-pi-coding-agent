@@ -3,11 +3,11 @@
   "name": "@aleixrocal/pi-multi-skills",
   "url": "https://www.npmjs.com/package/@aleixrocal/pi-multi-skills",
   "source": "npm-search",
-  "description": "Chain several /skill: invocations in one pi message — N skills, one command.",
+  "description": "Chain several /skill: invocations in one pi message \\u2014 N skills, one command.",
   "metadata": {
     "github_url": "https://github.com/AleixRocal/pi-multi-skills",
     "npm_name": "@aleixrocal/pi-multi-skills",
-    "description": "Chain several /skill: invocations in one pi message — N skills, one command.",
+    "description": "Chain several /skill: invocations in one pi message \\u2014 N skills, one command.",
     "keywords": [
       "pi-package",
       "pi-coding-agent",
@@ -16,8 +16,8 @@
       "skills",
       "skill-chaining"
     ],
-    "version": "0.3.0",
-    "published_at": "2026-10-15T14:46:09.563Z",
+    "version": "0.3.1",
+    "published_at": "2026-10-16T08:08:57.023Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

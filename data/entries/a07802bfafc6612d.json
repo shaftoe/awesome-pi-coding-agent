@@ -10,7 +10,7 @@
     "description": "Configurable, typed multi-stage agent workflows for Pi — local console, human gates, MCP, and CI.",
     "stars": 12,
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 4,
     "topics": [
       "agent-orchestration",
       "agent-workflows",
@@ -26,9 +26,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-24T23:09:08Z",
-    "pushed_at": "2026-10-14T20:52:39Z",
-    "updated_at": "2026-10-14T20:52:53Z",
-    "size": 89533,
+    "pushed_at": "2026-10-16T20:39:13Z",
+    "updated_at": "2026-10-16T14:44:35Z",
+    "size": 91296,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

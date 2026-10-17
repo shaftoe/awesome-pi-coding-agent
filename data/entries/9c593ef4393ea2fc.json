@@ -3,15 +3,15 @@
   "name": "Extensions - | Awesome Pi Coding Agent",
   "url": "https://awesome-pi.site/extensions/",
   "source": "brave-web-search",
-  "description": "Extend Pi's capabilities — custom tools, hooks, integrations, skills, and MCP servers · Multi-phase security audits with specialist sub-agents, isolated context windows, capped concurrency, and resumable state — packaged as a Pi extension",
+  "description": "Persistent cross-session memory with MemPalace backend (auto-installed) and SQLite fallback for Pi coding agent ... Persistent status bar for Unipi — subscribes to UNIPI_EVENTS and renders key stats from all unipi packages",
   "metadata": {
     "title": "Extensions - | Awesome Pi Coding Agent",
     "name": "Extensions - | Awesome Pi Coding Agent",
-    "description": "Extend Pi's capabilities — custom tools, hooks, integrations, skills, and MCP servers · Multi-phase security audits with specialist sub-agents, isolated context windows, capped concurrency, and resumable state — packaged as a Pi extension",
-    "published_at": "2026-05-30T00:00:00",
+    "description": "Persistent cross-session memory with MemPalace backend (auto-installed) and SQLite fallback for Pi coding agent ... Persistent status bar for Unipi — subscribes to UNIPI_EVENTS and renders key stats from all unipi packages",
+    "published_at": null,
     "source_site": "Awesome-pi",
     "source_url": "https://awesome-pi.site/extensions/",
-    "discovery_hint": "brave:pi-agent"
+    "discovery_hint": "brave:pi-package"
   },
-  "category": "extension"
+  "category": "article"
 }

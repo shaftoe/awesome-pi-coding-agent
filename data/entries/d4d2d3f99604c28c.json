@@ -8,7 +8,7 @@
     "github_url": "https://github.com/adstastic/pi-apple-fm",
     "repo_full_name": "adstastic/pi-apple-fm",
     "description": "Pi provider for Apple Foundation Models on macOS",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-07-29T12:18:00Z",
     "pushed_at": "2026-07-29T12:18:05Z",
-    "updated_at": "2026-09-18T19:11:27Z",
+    "updated_at": "2026-10-16T13:18:27Z",
     "size": 37,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

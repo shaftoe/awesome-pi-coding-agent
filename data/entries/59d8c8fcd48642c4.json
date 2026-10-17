@@ -8,7 +8,7 @@
     "github_url": "https://github.com/zerochc/pi-fusion",
     "repo_full_name": "zerochc/pi-fusion",
     "description": "Multi-model MoA fusion and workflow orchestration for Pi coding agent",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-16T05:02:30Z",
     "pushed_at": "2026-06-17T00:57:02Z",
-    "updated_at": "2026-06-17T00:57:06Z",
+    "updated_at": "2026-10-16T18:24:56Z",
     "size": 54,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

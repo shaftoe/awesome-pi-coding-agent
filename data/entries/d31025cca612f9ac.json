@@ -1,0 +1,34 @@
+{
+  "id": "pi-everything",
+  "name": "pi-everything",
+  "url": "https://www.npmjs.com/package/pi-everything",
+  "source": "npm-search",
+  "description": "Instant machine-wide file search for the pi coding agent on Windows — native tools (search, content grep, folder size, syntax reference, status) backed by the Everything index via es.exe",
+  "metadata": {
+    "github_url": "https://github.com/driderr/pi-everything",
+    "npm_name": "pi-everything",
+    "description": "Instant machine-wide file search for the pi coding agent on Windows — native tools (search, content grep, folder size, syntax reference, status) backed by the Everything index via es.exe",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "everything",
+      "file-search",
+      "search",
+      "index",
+      "windows",
+      "local-first"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-16T02:02:15.299Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

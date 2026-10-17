@@ -10,7 +10,7 @@
     "description": "OpenCode Zen provider extension for pi: device-flow OAuth workspace login",
     "stars": 3,
     "forks": 3,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "ai-coding-agent",
       "coding-agent",
@@ -26,9 +26,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-24T02:29:34Z",
-    "pushed_at": "2026-10-15T15:36:42Z",
+    "pushed_at": "2026-10-16T01:54:07Z",
     "updated_at": "2026-10-15T15:36:33Z",
-    "size": 360,
+    "size": 369,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

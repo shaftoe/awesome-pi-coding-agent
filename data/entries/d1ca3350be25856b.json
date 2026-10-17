@@ -8,7 +8,7 @@
     "github_url": "https://github.com/aic0d3r/qwen38-strix-halo-harness",
     "repo_full_name": "aic0d3r/qwen38-strix-halo-harness",
     "description": "Local AI coding agent harness for AMD Strix Halo (Ryzen AI Max+ 395): Qwen3.8 125B on the iGPU, NPU side-jobs, crash recovery, logged benchmarks. Works with any OpenAI-compatible engine; cloud optional.",
-    "stars": 27,
+    "stars": 28,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-23T16:32:47Z",
-    "pushed_at": "2026-10-15T19:03:20Z",
-    "updated_at": "2026-10-15T19:03:26Z",
-    "size": 10106,
+    "pushed_at": "2026-10-17T00:05:46Z",
+    "updated_at": "2026-10-17T00:05:50Z",
+    "size": 10254,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

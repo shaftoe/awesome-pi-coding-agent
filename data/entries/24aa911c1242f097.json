@@ -1,0 +1,27 @@
+{
+  "id": "@rustywelch/pi-fuel-gauge",
+  "name": "@rustywelch/pi-fuel-gauge",
+  "url": "https://www.npmjs.com/package/@rustywelch/pi-fuel-gauge",
+  "source": "npm-search",
+  "description": "Pi extensions: context-window awareness with self-compaction, structured code search, iOS Simulator control, and macOS desktop control.",
+  "metadata": {
+    "github_url": "https://github.com/rustywelch/pi-fuel-gauge",
+    "npm_name": "@rustywelch/pi-fuel-gauge",
+    "description": "Pi extensions: context-window awareness with self-compaction, structured code search, iOS Simulator control, and macOS desktop control.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension"
+    ],
+    "version": "1.2.1",
+    "published_at": "2026-10-16T15:11:09.415Z",
+    "npm_downloads_monthly": 197,
+    "npm_downloads_weekly": 197,
+    "npm_score_final": 15.50269,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

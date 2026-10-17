@@ -1,0 +1,32 @@
+{
+  "id": "zigai-pi-extensions",
+  "name": "zigai-pi-extensions",
+  "url": "https://github.com/zigai/pi-extensions",
+  "source": "github-search",
+  "description": "A collection of small Pi coding agent extensions",
+  "metadata": {
+    "github_url": "https://github.com/zigai/pi-extensions",
+    "repo_full_name": "zigai/pi-extensions",
+    "description": "A collection of small Pi coding agent extensions",
+    "stars": 14,
+    "forks": 8,
+    "open_issues": 1,
+    "topics": [
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-ui",
+      "pi-ui-tweaks",
+      "pi-ux"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-26T18:20:36Z",
+    "pushed_at": "2026-10-15T23:47:02Z",
+    "updated_at": "2026-10-16T16:45:22Z",
+    "size": 9934,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

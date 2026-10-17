@@ -1,0 +1,40 @@
+{
+  "id": "motionvideohq-motionvideo.xyz",
+  "name": "motionvideohq-motionvideo.xyz",
+  "url": "https://github.com/motionvideohq/motionvideo.xyz",
+  "source": "github-search",
+  "description": "A directory of AI-powered motion videos, prompts, and skills that teach coding agents motion design",
+  "metadata": {
+    "github_url": "https://github.com/motionvideohq/motionvideo.xyz",
+    "repo_full_name": "motionvideohq/motionvideo.xyz",
+    "description": "A directory of AI-powered motion videos, prompts, and skills that teach coding agents motion design",
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "cloudflare-d1",
+      "cloudflare-r2",
+      "cloudflare-workers",
+      "codex",
+      "directory",
+      "hermes-agent",
+      "motion-design",
+      "opencode",
+      "opus",
+      "opus-5-5",
+      "pi-coding-agent",
+      "tanstack-start"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-28T04:59:28Z",
+    "pushed_at": "2026-10-16T15:26:39Z",
+    "updated_at": "2026-10-17T00:07:19Z",
+    "size": 27787,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}
