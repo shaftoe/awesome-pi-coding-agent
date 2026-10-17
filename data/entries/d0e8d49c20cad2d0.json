@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "A Pi extension that performs the agent's output — prose, reasoning and tool text alike — in time with MIDI music: a beat-synced stage panel, a look-ahead print queue, and a pluggable audio backend.",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/left666/real-vibe-coding",
     "npm_name": "real-vibe-coding",
     "description": "A Pi extension that performs the agent's output — prose, reasoning and tool text alike — in time with MIDI music: a beat-synced stage panel, a look-ahead print queue, and a pluggable audio backend.",
     "keywords": [
@@ -17,8 +17,8 @@
       "music",
       "tui"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-10-15T15:38:55.804Z",
+    "version": "0.1.1",
+    "published_at": "2026-10-16T04:28:57.558Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

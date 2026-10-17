@@ -1,0 +1,32 @@
+{
+  "id": "pi-ws-recovery",
+  "name": "pi-ws-recovery",
+  "url": "https://www.npmjs.com/package/pi-ws-recovery",
+  "source": "npm-search",
+  "description": "WebSocket→SSE fallback indicator and automatic WebSocket recovery for Pi's OpenAI Codex provider",
+  "metadata": {
+    "github_url": "https://github.com/jiuai233/pi-ws-recovery",
+    "npm_name": "pi-ws-recovery",
+    "description": "WebSocket→SSE fallback indicator and automatic WebSocket recovery for Pi's OpenAI Codex provider",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "websocket",
+      "sse",
+      "fallback",
+      "pi-coding-agent",
+      "openai",
+      "codex"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-16T15:17:28.932Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

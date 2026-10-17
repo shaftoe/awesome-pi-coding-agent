@@ -5,17 +5,17 @@
   "source": "npm-search",
   "description": "Recursive self-improving reasoning harness for pi — iterate, verify, improve. Builds task-specific reasoning strategies on top of any LLM.",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/monotykamary/pi-reason-harness",
     "npm_name": "pi-reason-harness",
     "description": "Recursive self-improving reasoning harness for pi — iterate, verify, improve. Builds task-specific reasoning strategies on top of any LLM.",
     "keywords": [
       "pi-package"
     ],
-    "version": "1.0.19",
-    "published_at": "2026-10-15T06:09:07.649Z",
+    "version": "1.0.20",
+    "published_at": "2026-10-16T22:53:26.156Z",
     "npm_downloads_monthly": 1208,
     "npm_downloads_weekly": 259,
-    "npm_score_final": 21.54177,
+    "npm_score_final": 21.457773,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

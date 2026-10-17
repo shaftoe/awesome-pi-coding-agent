@@ -3,11 +3,11 @@
   "name": "Themes - | Awesome Pi Coding Agent",
   "url": "https://awesome-pi.site/themes/",
   "source": "brave-web-search",
-  "description": "A Pi TUI adapter for json-render Ink specs. ... Color themes for pi: cyberpunk, nord, gruvbox, tokyo-night, catppuccin, and more.",
+  "description": "Polished theme pack for Pi that improves contrast, mood, and visual hierarchy in the terminal UI · Install @spences10/pi-themes from npm and Pi will load the resources declared by the package manifest · This package is included in the Vite+ workspace, but its package-level build and test scripts are currently no-ops because it ships static theme assets.",
   "metadata": {
     "title": "Themes - | Awesome Pi Coding Agent",
     "name": "Themes - | Awesome Pi Coding Agent",
-    "description": "A Pi TUI adapter for json-render Ink specs. ... Color themes for pi: cyberpunk, nord, gruvbox, tokyo-night, catppuccin, and more.",
+    "description": "Polished theme pack for Pi that improves contrast, mood, and visual hierarchy in the terminal UI · Install @spences10/pi-themes from npm and Pi will load the resources declared by the package manifest · This package is included in the Vite+ workspace, but its package-level build and test scripts are currently no-ops because it ships static theme assets.",
     "published_at": null,
     "source_site": "Awesome-pi",
     "source_url": "https://awesome-pi.site/themes/",

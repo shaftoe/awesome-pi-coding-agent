@@ -8,10 +8,10 @@
     "title": "catppuccin-pi-theme · Packages · Pi",
     "name": "catppuccin-pi-theme · Packages · Pi",
     "description": "Pi packages can execute code and influence agent behavior. Review the source before installing third-party packages. Soothing pastel themes for the Pi coding agent, ported from Catppuccin for VS Code.",
-    "published_at": null,
+    "published_at": "2026-08-27T00:00:00",
     "source_site": "Pi",
     "source_url": "https://pi.dev/packages/catppuccin-pi-theme?page=51",
     "discovery_hint": "brave:pi-theme"
   },
-  "category": "extension"
+  "category": "article"
 }
