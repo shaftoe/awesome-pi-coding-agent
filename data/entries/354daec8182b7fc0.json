@@ -1,0 +1,32 @@
+{
+  "id": "kalindudc-quests",
+  "name": "kalindudc-quests",
+  "url": "https://github.com/kalindudc/quests",
+  "source": "github-search",
+  "description": "Keep your agent on track, one quest at a time",
+  "metadata": {
+    "github_url": "https://github.com/kalindudc/quests",
+    "repo_full_name": "kalindudc/quests",
+    "description": "Keep your agent on track, one quest at a time",
+    "stars": 6,
+    "forks": 1,
+    "open_issues": 1,
+    "topics": [
+      "npm",
+      "npm-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-10T02:16:30Z",
+    "pushed_at": "2026-10-17T02:27:07Z",
+    "updated_at": "2026-10-17T02:27:10Z",
+    "size": 884,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pi-annotate-anything",
+  "name": "pi-annotate-anything",
+  "url": "https://www.npmjs.com/package/pi-annotate-anything",
+  "source": "npm-search",
+  "description": "Pi extension: annotate arbitrary line/character ranges of any local file, injected as a quote block plus comment",
+  "metadata": {
+    "github_url": "https://github.com/zhang-stephen/pi-annotate-anything",
+    "npm_name": "pi-annotate-anything",
+    "description": "Pi extension: annotate arbitrary line/character ranges of any local file, injected as a quote block plus comment",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "annotation",
+      "vim"
+    ],
+    "version": "1.1.1",
+    "published_at": "2026-10-17T21:20:08.573Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tungbach12-pi-background-tasks-subagents",
+  "name": "tungbach12-pi-background-tasks-subagents",
+  "url": "https://github.com/tungbach12/pi-background-tasks-subagents",
+  "source": "github-search",
+  "description": "Unified background processes, autonomous subagents, and OpenCode-style directional TUI dock for Pi",
+  "metadata": {
+    "github_url": "https://github.com/tungbach12/pi-background-tasks-subagents",
+    "repo_full_name": "tungbach12/pi-background-tasks-subagents",
+    "description": "Unified background processes, autonomous subagents, and OpenCode-style directional TUI dock for Pi",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "orchestrator",
+      "pi-extension",
+      "pi-package",
+      "subagent",
+      "tui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-17T10:17:10Z",
+    "pushed_at": "2026-10-17T12:53:12Z",
+    "updated_at": "2026-10-17T12:53:11Z",
+    "size": 64,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

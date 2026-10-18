@@ -10,7 +10,7 @@
     "description": "Open-source desktop AI coding platform with built-in Pi Agent (pi-coding-agent) — a graphical AI programming assistant that lets non-technical users drive AI through the full software development flow (Electron)",
     "stars": 79,
     "forks": 3,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "agentic-coding",
       "ai-agents",

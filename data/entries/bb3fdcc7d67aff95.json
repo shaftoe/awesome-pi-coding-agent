@@ -1,0 +1,25 @@
+{
+  "id": "@semanaut/zpi-peer",
+  "name": "@semanaut/zpi-peer",
+  "url": "https://www.npmjs.com/package/@semanaut/zpi-peer",
+  "source": "npm-search",
+  "description": "pi extension: equal, durable pi peers managed through tmux panes plus a letter channel between any pi sessions. tmux runs on Unix-like systems (Linux, macOS, BSD; Windows via WSL/Cygwin); native Windows is not supported. Tools: peer_spawn (launch a peer i",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@semanaut/zpi-peer",
+    "description": "pi extension: equal, durable pi peers managed through tmux panes plus a letter channel between any pi sessions. tmux runs on Unix-like systems (Linux, macOS, BSD; Windows via WSL/Cygwin); native Windows is not supported. Tools: peer_spawn (launch a peer i",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "2.1.0",
+    "published_at": "2026-10-17T16:29:15.462Z",
+    "npm_downloads_monthly": 277,
+    "npm_downloads_weekly": 277,
+    "npm_score_final": 16.340921,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

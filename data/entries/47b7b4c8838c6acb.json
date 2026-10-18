@@ -3,11 +3,11 @@
   "name": "pi-pet-reze",
   "url": "https://www.npmjs.com/package/pi-pet-reze",
   "source": "npm-search",
-  "description": "A blinking Reze pet widget for Pi's terminal UI.",
+  "description": "An animated Reze pet widget for Pi's terminal UI.",
   "metadata": {
     "github_url": null,
     "npm_name": "pi-pet-reze",
-    "description": "A blinking Reze pet widget for Pi's terminal UI.",
+    "description": "An animated Reze pet widget for Pi's terminal UI.",
     "keywords": [
       "pi-package",
       "pi",
@@ -16,8 +16,8 @@
       "tui",
       "pet"
     ],
-    "version": "0.3.0",
-    "published_at": "2026-10-16T09:33:44.167Z",
+    "version": "0.3.1",
+    "published_at": "2026-10-17T10:06:58.381Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

@@ -1,0 +1,32 @@
+{
+  "id": "@agimon-ai/po-style-system",
+  "name": "@agimon-ai/po-style-system",
+  "url": "https://www.npmjs.com/package/@agimon-ai/po-style-system",
+  "source": "npm-search",
+  "description": "Optional Po story preview integration for the style-system package.",
+  "metadata": {
+    "github_url": "https://github.com/AgiFlow/po",
+    "npm_name": "@agimon-ai/po-style-system",
+    "description": "Optional Po story preview integration for the style-system package.",
+    "keywords": [
+      "ai",
+      "coding-agent",
+      "developer-tools",
+      "pi-package",
+      "po",
+      "storybook",
+      "style-system",
+      "ui-preview"
+    ],
+    "version": "0.0.0-alpha.17",
+    "published_at": "2026-10-17T21:23:53.397Z",
+    "npm_downloads_monthly": 1127,
+    "npm_downloads_weekly": 1127,
+    "npm_score_final": 20.845098,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

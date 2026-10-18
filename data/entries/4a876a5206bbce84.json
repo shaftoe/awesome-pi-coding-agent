@@ -1,0 +1,30 @@
+{
+  "id": "pi-tier-scheduler",
+  "name": "pi-tier-scheduler",
+  "url": "https://www.npmjs.com/package/pi-tier-scheduler",
+  "source": "npm-search",
+  "description": "Tiered model scheduling for the Pi coding agent: one virtual model routes requests across brain/pillar/crowd tiers.",
+  "metadata": {
+    "github_url": "https://github.com/MicTx/pi-tier-scheduler",
+    "npm_name": "pi-tier-scheduler",
+    "description": "Tiered model scheduling for the Pi coding agent: one virtual model routes requests across brain/pillar/crowd tiers.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "model-routing",
+      "tiered-scheduling",
+      "llm",
+      "coding-agent"
+    ],
+    "version": "0.5.1",
+    "published_at": "2026-10-10T06:19:59.009Z",
+    "npm_downloads_monthly": 1505,
+    "npm_downloads_weekly": 1505,
+    "npm_score_final": 21.438461,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
