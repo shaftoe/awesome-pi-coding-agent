@@ -1,0 +1,31 @@
+{
+  "id": "pi-straw-boss",
+  "name": "pi-straw-boss",
+  "url": "https://www.npmjs.com/package/pi-straw-boss",
+  "source": "npm-search",
+  "description": "Straw Boss coordination for pi in Herdr: sessions join a tab's net by choice, the first joiner is its main agent, a workspace tower opens on demand with a live monitoring dashboard, and boss_broadcast reaches the rest",
+  "metadata": {
+    "github_url": "https://github.com/wayne930242/pi-straw-boss",
+    "npm_name": "pi-straw-boss",
+    "description": "Straw Boss coordination for pi in Herdr: sessions join a tab's net by choice, the first joiner is its main agent, a workspace tower opens on demand with a live monitoring dashboard, and boss_broadcast reaches the rest",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "herdr",
+      "intercom",
+      "orchestration"
+    ],
+    "version": "0.5.2",
+    "published_at": "2026-10-17T16:13:54.471Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

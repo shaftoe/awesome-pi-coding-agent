@@ -66289,5 +66289,155 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-package"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5LRhNA12_qo",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-10-18T00:32:16.779Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/chikagonight/pi-theme-minimalism",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-18T00:32:16.798Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=CBHZy6IBEwE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-18T00:32:16.807Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Oy6tPkQGV7A",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-10-18T00:32:16.816Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=tN6SXwfXSm8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-18T00:32:16.832Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=a6mtrRBQ8bs",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-10-18T00:32:16.844Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/hu3rror/pi-aux-vision",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-18T00:32:16.929Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-ai-meeting",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-18T00:32:16.996Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=_35OxmSp5EM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-18T00:32:17.078Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=8PpKXd8WeLY",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-10-18T00:32:17.11Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@izhimu/pi-caveman",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-10-18T00:32:17.132Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=57x28-XYLPw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-18T00:32:17.15Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/Azd325/skills",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-18T00:32:17.195Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=_CPtuvFU5kw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-18T00:32:17.265Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=5BThfMizJW0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-18T00:32:17.334Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
 	}
 ]

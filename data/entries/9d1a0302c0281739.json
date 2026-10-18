@@ -1,0 +1,33 @@
+{
+  "id": "kalindudc-minions",
+  "name": "kalindudc-minions",
+  "url": "https://github.com/kalindudc/minions",
+  "source": "github-search",
+  "description": "Minions for your pi",
+  "metadata": {
+    "github_url": "https://github.com/kalindudc/minions",
+    "repo_full_name": "kalindudc/minions",
+    "description": "Minions for your pi",
+    "stars": 14,
+    "forks": 4,
+    "open_issues": 6,
+    "topics": [
+      "npm",
+      "npm-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-mono",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-27T14:21:55Z",
+    "pushed_at": "2026-10-17T17:31:16Z",
+    "updated_at": "2026-10-17T17:31:20Z",
+    "size": 64570,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

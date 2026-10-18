@@ -8,7 +8,7 @@
     "github_url": "https://github.com/GaganSD/pi-extensions",
     "repo_full_name": "GaganSD/pi-extensions",
     "description": "Monorepo For Pi Agent Harness",
-    "stars": 25,
+    "stars": 27,
     "forks": 3,
     "open_issues": 2,
     "topics": [
@@ -27,9 +27,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-20T23:05:29Z",
-    "pushed_at": "2026-10-16T06:14:40Z",
-    "updated_at": "2026-10-16T06:14:44Z",
-    "size": 3726,
+    "pushed_at": "2026-10-17T22:25:08Z",
+    "updated_at": "2026-10-17T22:25:13Z",
+    "size": 3939,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

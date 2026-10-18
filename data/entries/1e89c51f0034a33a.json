@@ -1,0 +1,29 @@
+{
+  "id": "@haphazarddev/pi-background-bash",
+  "name": "@haphazarddev/pi-background-bash",
+  "url": "https://www.npmjs.com/package/@haphazarddev/pi-background-bash",
+  "source": "npm-search",
+  "description": "Run and manage shell commands in the background from pi.",
+  "metadata": {
+    "github_url": "https://github.com/HaphazardDev/pi-extensions",
+    "npm_name": "@haphazarddev/pi-background-bash",
+    "description": "Run and manage shell commands in the background from pi.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "background",
+      "bash",
+      "shell"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-10T18:03:09.946Z",
+    "npm_downloads_monthly": 231,
+    "npm_downloads_weekly": 199,
+    "npm_score_final": 15.397157,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -3,11 +3,11 @@
   "name": "@yefengr/pi-reach",
   "url": "https://www.npmjs.com/package/@yefengr/pi-reach",
   "source": "npm-search",
-  "description": "Control your running Pi coding agent from your phone or any browser. Stream responses, send prompts and files, and switch between active Pi sessions.",
+  "description": "Pair your phone or any browser with the Pi coding agent on your computer. Watch replies as they stream in, send prompts and files, and switch between running Pi sessions.",
   "metadata": {
     "github_url": "https://github.com/yefengr/pi-reach",
     "npm_name": "@yefengr/pi-reach",
-    "description": "Control your running Pi coding agent from your phone or any browser. Stream responses, send prompts and files, and switch between active Pi sessions.",
+    "description": "Pair your phone or any browser with the Pi coding agent on your computer. Watch replies as they stream in, send prompts and files, and switch between running Pi sessions.",
     "keywords": [
       "pi",
       "pi-package",
@@ -21,11 +21,11 @@
       "qr-pairing",
       "websocket"
     ],
-    "version": "0.0.10",
-    "published_at": "2026-10-09T23:39:16.777Z",
+    "version": "0.0.11",
+    "published_at": "2026-10-17T05:26:51.251Z",
     "npm_downloads_monthly": 1849,
     "npm_downloads_weekly": 381,
-    "npm_score_final": 23.018461,
+    "npm_score_final": 22.715172,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

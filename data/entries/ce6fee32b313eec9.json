@@ -1,0 +1,28 @@
+{
+  "id": "@djoeyg/pi-tps",
+  "name": "@djoeyg/pi-tps",
+  "url": "https://www.npmjs.com/package/@djoeyg/pi-tps",
+  "source": "npm-search",
+  "description": "Output tokens per second on the working spinner and footer status",
+  "metadata": {
+    "github_url": "https://github.com/D-Joey-G/pi-extensions",
+    "npm_name": "@djoeyg/pi-tps",
+    "description": "Output tokens per second on the working spinner and footer status",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "tokens-per-second",
+      "throughput"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-10T09:55:05.644Z",
+    "npm_downloads_monthly": 183,
+    "npm_downloads_weekly": 183,
+    "npm_score_final": 15.028964,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kunaaal13-pi-minimal-tui",
+  "name": "kunaaal13-pi-minimal-tui",
+  "url": "https://github.com/kunaaal13/pi-minimal-tui",
+  "source": "github-search",
+  "description": "A clean, minimal, fully themeable TUI for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/kunaaal13/pi-minimal-tui",
+    "repo_full_name": "kunaaal13/pi-minimal-tui",
+    "description": "A clean, minimal, fully themeable TUI for the pi coding agent",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-extension",
+      "pi-package",
+      "tui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-03T13:37:39Z",
+    "pushed_at": "2026-10-17T08:34:52Z",
+    "updated_at": "2026-10-17T08:34:55Z",
+    "size": 79,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

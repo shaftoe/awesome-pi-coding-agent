@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "ACP adapter for the pi coding agent, forked from svkozak/pi-acp: client MCP servers, extension slash commands, elicitation for extension input/editor prompts, structured tool results.",
   "metadata": {
-    "github_url": "https://github.com/svkozak/pi-acp",
+    "github_url": "https://github.com/razorbackdb/pi-acp",
     "npm_name": "@razorbackdb/pi-acp",
     "description": "ACP adapter for the pi coding agent, forked from svkozak/pi-acp: client MCP servers, extension slash commands, elicitation for extension input/editor prompts, structured tool results.",
     "keywords": [
@@ -17,8 +17,8 @@
       "zed",
       "jetbrains"
     ],
-    "version": "0.0.35",
-    "published_at": "2026-10-16T13:09:39.095Z",
+    "version": "0.0.36",
+    "published_at": "2026-10-17T20:58:46.832Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

@@ -1,0 +1,27 @@
+{
+  "id": "pi-skill-loader",
+  "name": "pi-skill-loader",
+  "url": "https://www.npmjs.com/package/pi-skill-loader",
+  "source": "npm-search",
+  "description": "Codex-style skill loading for pi - type # to load skills into context without consuming an LLM turn",
+  "metadata": {
+    "github_url": "https://github.com/wildermoth/skill-loader",
+    "npm_name": "pi-skill-loader",
+    "description": "Codex-style skill loading for pi - type # to load skills into context without consuming an LLM turn",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "skills"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-17T13:19:42.884Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
