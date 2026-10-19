@@ -1,0 +1,25 @@
+{
+  "id": "brynne8-pi-caveman",
+  "name": "brynne8-pi-caveman",
+  "url": "https://github.com/brynne8/pi-caveman",
+  "source": "github-search",
+  "description": "Caveman voice for pi: an installable package plugin that injects a terse, answer-first speaking style into the system prompt",
+  "metadata": {
+    "github_url": "https://github.com/brynne8/pi-caveman",
+    "repo_full_name": "brynne8/pi-caveman",
+    "description": "Caveman voice for pi: an installable package plugin that injects a terse, answer-first speaking style into the system prompt",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-14T00:50:18Z",
+    "pushed_at": "2026-10-14T00:50:54Z",
+    "updated_at": "2026-10-18T14:40:00Z",
+    "size": 7,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

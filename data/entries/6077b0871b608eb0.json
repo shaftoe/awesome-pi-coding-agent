@@ -1,0 +1,25 @@
+{
+  "id": "picassio-pi-phone",
+  "name": "picassio-pi-phone",
+  "url": "https://github.com/picassio/pi-phone",
+  "source": "github-search",
+  "description": "pi agent for Android: pi-durable server, React Native app",
+  "metadata": {
+    "github_url": "https://github.com/picassio/pi-phone",
+    "repo_full_name": "picassio/pi-phone",
+    "description": "pi agent for Android: pi-durable server, React Native app",
+    "stars": 11,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-17T04:11:23Z",
+    "pushed_at": "2026-10-18T16:46:05Z",
+    "updated_at": "2026-10-18T20:31:26Z",
+    "size": 5653,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

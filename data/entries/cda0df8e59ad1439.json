@@ -8,7 +8,7 @@
     "github_url": "https://github.com/luandapipi91/Wa-PiAgent",
     "repo_full_name": "luandapipi91/Wa-PiAgent",
     "description": "A desktop GUI client for the pi agent (pi coding agent). Run an AI agent team — MCP, skills, memory, IM channels. macOS / Windows / Linux, Electron + React.",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -36,11 +36,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-29T05:33:06Z",
-    "pushed_at": "2026-10-16T06:11:51Z",
-    "updated_at": "2026-10-16T06:02:37Z",
-    "size": 49270,
+    "pushed_at": "2026-10-18T17:02:31Z",
+    "updated_at": "2026-10-19T00:26:25Z",
+    "size": 46275,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

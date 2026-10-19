@@ -9,8 +9,8 @@
     "repo_full_name": "zenyui/picrophone",
     "description": "Talk to the pi coding agent with local voice models",
     "stars": 6,
-    "forks": 2,
-    "open_issues": 26,
+    "forks": 3,
+    "open_issues": 27,
     "topics": [
       "extension",
       "macos",

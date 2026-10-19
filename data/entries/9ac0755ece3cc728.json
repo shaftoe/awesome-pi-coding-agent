@@ -3,11 +3,11 @@
   "name": "@sven1103-agent/pi-metrics",
   "url": "https://www.npmjs.com/package/@sven1103-agent/pi-metrics",
   "source": "npm-search",
-  "description": "Live LLM latency HUD for the Pi coding agent: TTFT, inter-token latency, throughput and cost.",
+  "description": "Live LLM latency HUD for the Pi coding agent: TTFT, inter-token latency and decode throughput.",
   "metadata": {
     "github_url": "https://github.com/sven1103-agent/pi-metrics",
     "npm_name": "@sven1103-agent/pi-metrics",
-    "description": "Live LLM latency HUD for the Pi coding agent: TTFT, inter-token latency, throughput and cost.",
+    "description": "Live LLM latency HUD for the Pi coding agent: TTFT, inter-token latency and decode throughput.",
     "keywords": [
       "pi-package",
       "pi",
@@ -19,8 +19,8 @@
       "itl",
       "throughput"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-10-17T11:47:29.088Z",
+    "version": "0.1.1",
+    "published_at": "2026-10-18T16:08:00.057Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

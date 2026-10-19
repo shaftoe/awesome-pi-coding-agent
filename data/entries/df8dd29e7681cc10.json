@@ -9,8 +9,8 @@
     "repo_full_name": "rivet-dev/agents",
     "description": "A durable process per agent, with memory that survives restarts",
     "stars": 1609,
-    "forks": 134,
-    "open_issues": 84,
+    "forks": 135,
+    "open_issues": 85,
     "topics": [
       "actor-model",
       "agent-sdk",

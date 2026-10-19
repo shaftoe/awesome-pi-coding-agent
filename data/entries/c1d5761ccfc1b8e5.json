@@ -1,0 +1,35 @@
+{
+  "id": "Momenttttt-pi-extension-suite",
+  "name": "Momenttttt-pi-extension-suite",
+  "url": "https://github.com/Momenttttt/pi-extension-suite",
+  "source": "github-search",
+  "description": "Pi coding-agent extensions: read-before-write edit guard, shared ZCode project memory, context pruning & history snipping, and lightweight in-process subagents.",
+  "metadata": {
+    "github_url": "https://github.com/Momenttttt/pi-extension-suite",
+    "repo_full_name": "Momenttttt/pi-extension-suite",
+    "description": "Pi coding-agent extensions: read-before-write edit guard, shared ZCode project memory, context pruning & history snipping, and lightweight in-process subagents.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agent",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "llm",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-17T15:37:19Z",
+    "pushed_at": "2026-10-18T08:24:31Z",
+    "updated_at": "2026-10-18T13:53:33Z",
+    "size": 386,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

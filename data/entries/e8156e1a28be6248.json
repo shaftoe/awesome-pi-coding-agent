@@ -10,7 +10,7 @@
     "description": "Give Pi one typed tool instead of a toolbox.",
     "stars": 18,
     "forks": 3,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "ai-agent",
       "coding-agent",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-30T09:13:10Z",
-    "pushed_at": "2026-10-18T00:16:27Z",
-    "updated_at": "2026-10-15T03:55:34Z",
-    "size": 17550,
+    "pushed_at": "2026-10-18T03:44:52Z",
+    "updated_at": "2026-10-18T03:44:55Z",
+    "size": 17555,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

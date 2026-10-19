@@ -10,7 +10,7 @@
     "description": "Learn a foreign language while you code — a pi extension that reviews your prompts for spelling, grammar, and natural phrasing, and renders agent replies as bilingual immersive translations.",
     "stars": 68,
     "forks": 11,
-    "open_issues": 3,
+    "open_issues": 4,
     "topics": [
       "language-learning",
       "pi",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-11T18:34:15Z",
-    "pushed_at": "2026-09-29T23:06:04Z",
+    "pushed_at": "2026-10-18T16:47:33Z",
     "updated_at": "2026-10-15T03:19:19Z",
-    "size": 3142,
+    "size": 2998,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
