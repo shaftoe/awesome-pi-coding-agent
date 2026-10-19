@@ -1,0 +1,29 @@
+{
+  "id": "pi-mcp-skills",
+  "name": "pi-mcp-skills",
+  "url": "https://www.npmjs.com/package/pi-mcp-skills",
+  "source": "npm-search",
+  "description": "Discover and load MCP Skills (SEP-2640) from the servers already connected in pi",
+  "metadata": {
+    "github_url": "https://github.com/richardanaya/pi-mcp-skills",
+    "npm_name": "pi-mcp-skills",
+    "description": "Discover and load MCP Skills (SEP-2640) from the servers already connected in pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "mcp",
+      "skills",
+      "sep-2640"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-11T16:54:09.933Z",
+    "npm_downloads_monthly": 370,
+    "npm_downloads_weekly": 370,
+    "npm_score_final": 17.21137,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

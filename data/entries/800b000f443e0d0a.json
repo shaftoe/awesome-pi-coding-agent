@@ -1,0 +1,26 @@
+{
+  "id": "@meowshed/meow-github",
+  "name": "@meowshed/meow-github",
+  "url": "https://www.npmjs.com/package/@meowshed/meow-github",
+  "source": "npm-search",
+  "description": "Reads a GitHub repository's issues, pull requests and comments through gh as one JSON document, projects an approved epic's tasks onto issues and writes nothing else, and asks before a Bash command's gh changes how the repository is governed. It keeps not",
+  "metadata": {
+    "github_url": "https://github.com/meowshed/meowpaw",
+    "npm_name": "@meowshed/meow-github",
+    "description": "Reads a GitHub repository's issues, pull requests and comments through gh as one JSON document, projects an approved epic's tasks onto issues and writes nothing else, and asks before a Bash command's gh changes how the repository is governed. It keeps not",
+    "keywords": [
+      "pi-package",
+      "meowpaw"
+    ],
+    "version": "0.16.0",
+    "published_at": "2026-10-11T11:04:05.493Z",
+    "npm_downloads_monthly": 278,
+    "npm_downloads_weekly": 178,
+    "npm_score_final": 16.275654,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

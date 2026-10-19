@@ -1,0 +1,29 @@
+{
+  "id": "nekopi",
+  "name": "nekopi",
+  "url": "https://www.npmjs.com/package/nekopi",
+  "source": "npm-search",
+  "description": "A minimal Pi flavor: one bash tool, source operations through nek.",
+  "metadata": {
+    "github_url": "https://github.com/k3scat/nekopi",
+    "npm_name": "nekopi",
+    "description": "A minimal Pi flavor: one bash tool, source operations through nek.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "coding-agent",
+      "lsp",
+      "tree-sitter"
+    ],
+    "version": "1.2.1",
+    "published_at": "2026-10-18T03:34:31.220Z",
+    "npm_downloads_monthly": 881,
+    "npm_downloads_weekly": 881,
+    "npm_score_final": 19.425848,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

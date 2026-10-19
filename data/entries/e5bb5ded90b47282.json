@@ -1,0 +1,26 @@
+{
+  "id": "@meowshed/meow-unattended",
+  "name": "@meowshed/meow-unattended",
+  "url": "https://www.npmjs.com/package/@meowshed/meow-unattended",
+  "source": "npm-search",
+  "description": "Prints the posture an unattended run is held to from the [unattended] table a repository declares: the permission mode, the gates the run may decide, its release command and whether it may amend an approved record, with each deny rule and what the rules d",
+  "metadata": {
+    "github_url": "https://github.com/meowshed/meowpaw",
+    "npm_name": "@meowshed/meow-unattended",
+    "description": "Prints the posture an unattended run is held to from the [unattended] table a repository declares: the permission mode, the gates the run may decide, its release command and whether it may amend an approved record, with each deny rule and what the rules d",
+    "keywords": [
+      "pi-package",
+      "meowpaw"
+    ],
+    "version": "0.5.0",
+    "published_at": "2026-10-11T11:04:49.619Z",
+    "npm_downloads_monthly": 271,
+    "npm_downloads_weekly": 192,
+    "npm_score_final": 16.014162,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

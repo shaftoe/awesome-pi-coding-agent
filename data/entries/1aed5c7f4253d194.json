@@ -1,0 +1,25 @@
+{
+  "id": "brynne8-pi-web-bun",
+  "name": "brynne8-pi-web-bun",
+  "url": "https://github.com/brynne8/pi-web-bun",
+  "source": "github-search",
+  "description": "Local browser UI for the pi coding agent, running on Bun with no Node.js toolchain",
+  "metadata": {
+    "github_url": "https://github.com/brynne8/pi-web-bun",
+    "repo_full_name": "brynne8/pi-web-bun",
+    "description": "Local browser UI for the pi coding agent, running on Bun with no Node.js toolchain",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-03T09:14:30Z",
+    "pushed_at": "2026-10-18T14:37:10Z",
+    "updated_at": "2026-10-18T14:45:28Z",
+    "size": 13407,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

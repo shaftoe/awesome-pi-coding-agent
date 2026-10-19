@@ -3,17 +3,17 @@
   "name": "pi-tropos",
   "url": "https://www.npmjs.com/package/pi-tropos",
   "source": "npm-search",
-  "description": "Personal pi customization bundle — context-health indicator, session handoff, session browser",
+  "description": "Personal pi customization bundle — semantic code search, background agents, context-health indicator, session handoff/browser, clean footer and themes",
   "metadata": {
     "github_url": "https://github.com/devsarvesh92/pi-tropos",
     "npm_name": "pi-tropos",
-    "description": "Personal pi customization bundle — context-health indicator, session handoff, session browser",
+    "description": "Personal pi customization bundle — semantic code search, background agents, context-health indicator, session handoff/browser, clean footer and themes",
     "keywords": [
       "pi-package",
       "pi-coding-agent"
     ],
-    "version": "0.10.1",
-    "published_at": "2026-10-17T19:39:44.549Z",
+    "version": "0.13.0",
+    "published_at": "2026-10-18T12:23:29.958Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

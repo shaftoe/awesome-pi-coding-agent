@@ -1,0 +1,31 @@
+{
+  "id": "@jals1212/ci-local",
+  "name": "@jals1212/ci-local",
+  "url": "https://www.npmjs.com/package/@jals1212/ci-local",
+  "source": "npm-search",
+  "description": "Run a Node project's GitHub Actions workflow steps on your machine, in Linux, without touching your development stack, with parity checks that keep the two in step.",
+  "metadata": {
+    "github_url": "https://github.com/jals1212/ci-local",
+    "npm_name": "@jals1212/ci-local",
+    "description": "Run a Node project's GitHub Actions workflow steps on your machine, in Linux, without touching your development stack, with parity checks that keep the two in step.",
+    "keywords": [
+      "ci",
+      "github-actions",
+      "docker",
+      "local",
+      "workflow",
+      "parity",
+      "pi-package"
+    ],
+    "version": "0.7.0",
+    "published_at": "2026-10-18T22:11:37.818Z",
+    "npm_downloads_monthly": 1355,
+    "npm_downloads_weekly": 1355,
+    "npm_score_final": 21.24105,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

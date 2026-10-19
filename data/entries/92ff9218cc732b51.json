@@ -19,11 +19,11 @@
       "tui"
     ],
     "language": "TypeScript",
-    "archived": false,
+    "archived": true,
     "created_at": "2026-10-17T10:17:10Z",
-    "pushed_at": "2026-10-17T12:53:12Z",
-    "updated_at": "2026-10-17T12:53:11Z",
-    "size": 64,
+    "pushed_at": "2026-10-18T02:17:43Z",
+    "updated_at": "2026-10-18T04:25:42Z",
+    "size": 65,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
