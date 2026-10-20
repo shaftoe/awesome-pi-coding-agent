@@ -1,0 +1,28 @@
+{
+  "id": "pi-md-preview",
+  "name": "pi-md-preview",
+  "url": "https://www.npmjs.com/package/pi-md-preview",
+  "source": "npm-search",
+  "description": "Pi extension: render Markdown files as polished web pages with an auto-exiting preview server",
+  "metadata": {
+    "github_url": "https://github.com/MaphicalYng/pi-extension-md-preview",
+    "npm_name": "pi-md-preview",
+    "description": "Pi extension: render Markdown files as polished web pages with an auto-exiting preview server",
+    "keywords": [
+      "pi-package",
+      "markdown",
+      "preview",
+      "report"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-10-19T18:42:01.563Z",
+    "npm_downloads_monthly": 365,
+    "npm_downloads_weekly": 365,
+    "npm_score_final": 16.509398,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

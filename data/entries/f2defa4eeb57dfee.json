@@ -9,8 +9,8 @@
     "repo_full_name": "alphacoder-v0/pi-loops",
     "description": "Cron jobs and stateful loops for the pi coding agent: a loop keeps notes between runs, so it reports what changed rather than everything, and files findings in a triage inbox instead of your conversation. A plain pi extension.",
     "stars": 2,
-    "forks": 0,
-    "open_issues": 14,
+    "forks": 1,
+    "open_issues": 15,
     "topics": [
       "ai-agents",
       "automation",

@@ -3,11 +3,11 @@
   "name": "Extensions - | Awesome Pi Coding Agent",
   "url": "https://awesome-pi.site/extensions/",
   "source": "brave-web-search",
-  "description": "Persistent cross-session memory with MemPalace backend (auto-installed) and SQLite fallback for Pi coding agent ... Persistent status bar for Unipi — subscribes to UNIPI_EVENTS and renders key stats from all unipi packages",
+  "description": "Reusable prompts and skills for CLI LLM tools, with native pi package support. ... Read-only planning mode for pi with an explicit approve-then-execute gate: enforced tool policy, plan files, approach options, fresh-session handoff",
   "metadata": {
     "title": "Extensions - | Awesome Pi Coding Agent",
     "name": "Extensions - | Awesome Pi Coding Agent",
-    "description": "Persistent cross-session memory with MemPalace backend (auto-installed) and SQLite fallback for Pi coding agent ... Persistent status bar for Unipi — subscribes to UNIPI_EVENTS and renders key stats from all unipi packages",
+    "description": "Reusable prompts and skills for CLI LLM tools, with native pi package support. ... Read-only planning mode for pi with an explicit approve-then-execute gate: enforced tool policy, plan files, approach options, fresh-session handoff",
     "published_at": null,
     "source_site": "Awesome-pi",
     "source_url": "https://awesome-pi.site/extensions/",

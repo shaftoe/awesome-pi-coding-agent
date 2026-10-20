@@ -1,0 +1,25 @@
+{
+  "id": "drishal-pi-config",
+  "name": "drishal-pi-config",
+  "url": "https://github.com/drishal/pi-config",
+  "source": "github-search",
+  "description": "My pi coding-agent harness: extensions, themes and setup. ~/.pi is the repo; private state stays out via an allowlist.",
+  "metadata": {
+    "github_url": "https://github.com/drishal/pi-config",
+    "repo_full_name": "drishal/pi-config",
+    "description": "My pi coding-agent harness: extensions, themes and setup. ~/.pi is the repo; private state stays out via an allowlist.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-26T16:16:43Z",
+    "pushed_at": "2026-10-19T11:05:18Z",
+    "updated_at": "2026-10-19T11:05:23Z",
+    "size": 476,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

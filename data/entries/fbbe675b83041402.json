@@ -3,11 +3,11 @@
   "name": "@fahrizkyputra/pi-auto-skill",
   "url": "https://www.npmjs.com/package/@fahrizkyputra/pi-auto-skill",
   "source": "npm-search",
-  "description": "After a task, propose turning it into a project skill: the agent drafts it with writing-great-skills, you review and edit it before it is saved to the repo.",
+  "description": "After a task, propose turning it into a project skill: the agent drafts it with writing-great-skills, you review and edit it before it is saved to the repo. Afterwards the agent restates your original task, so you never have to scroll back for what is lef",
   "metadata": {
     "github_url": "https://github.com/fahrizkyputra/pi-auto-skill",
     "npm_name": "@fahrizkyputra/pi-auto-skill",
-    "description": "After a task, propose turning it into a project skill: the agent drafts it with writing-great-skills, you review and edit it before it is saved to the repo.",
+    "description": "After a task, propose turning it into a project skill: the agent drafts it with writing-great-skills, you review and edit it before it is saved to the repo. Afterwards the agent restates your original task, so you never have to scroll back for what is lef",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -18,11 +18,11 @@
       "automation",
       "project"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-10-11T06:13:52.967Z",
+    "version": "0.2.0",
+    "published_at": "2026-10-19T04:44:18.732Z",
     "npm_downloads_monthly": 354,
     "npm_downloads_weekly": 354,
-    "npm_score_final": 16.881668,
+    "npm_score_final": 16.720707,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

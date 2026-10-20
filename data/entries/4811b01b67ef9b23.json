@@ -1,0 +1,28 @@
+{
+  "id": "KTibow-pi-discord-dms",
+  "name": "KTibow-pi-discord-dms",
+  "url": "https://github.com/KTibow/pi-discord-dms",
+  "source": "github-search",
+  "description": "Text one pi session from one Discord DM",
+  "metadata": {
+    "github_url": "https://github.com/KTibow/pi-discord-dms",
+    "repo_full_name": "KTibow/pi-discord-dms",
+    "description": "Text one pi session from one Discord DM",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-package",
+      "vibe-coded"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-23T23:48:27Z",
+    "pushed_at": "2026-10-20T00:54:10Z",
+    "updated_at": "2026-10-20T00:54:14Z",
+    "size": 47,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

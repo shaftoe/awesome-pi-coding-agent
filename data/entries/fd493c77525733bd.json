@@ -1,0 +1,40 @@
+{
+  "id": "@wang060919/pi-web",
+  "name": "@wang060919/pi-web",
+  "url": "https://www.npmjs.com/package/@wang060919/pi-web",
+  "source": "npm-search",
+  "description": "Customized PI WEB for persistent Pi Coding Agent sessions, maintained by Wang060919.",
+  "metadata": {
+    "github_url": "https://github.com/Wang060919/pi-web",
+    "npm_name": "@wang060919/pi-web",
+    "description": "Customized PI WEB for persistent Pi Coding Agent sessions, maintained by Wang060919.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-web",
+      "pi-web-ui",
+      "pi-webui",
+      "pi-coding-agent",
+      "pi-coding-agent-web-ui",
+      "coding-agent",
+      "ai-coding-agent",
+      "agentic-development",
+      "developer-tools",
+      "web-ui",
+      "webui",
+      "browser-ui",
+      "remote-development",
+      "persistent-sessions"
+    ],
+    "version": "1.202610.4",
+    "published_at": "2026-10-19T17:16:08.466Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

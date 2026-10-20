@@ -1,0 +1,38 @@
+{
+  "id": "backupdrill",
+  "name": "backupdrill",
+  "url": "https://www.npmjs.com/package/backupdrill",
+  "source": "npm-search",
+  "description": "Open-source CLI to back up a Supabase project — Postgres database and Storage files — to your own S3/R2/B2 bucket, with a checksummed manifest.",
+  "metadata": {
+    "github_url": "https://github.com/backupdrill/cli",
+    "npm_name": "backupdrill",
+    "description": "Open-source CLI to back up a Supabase project — Postgres database and Storage files — to your own S3/R2/B2 bucket, with a checksummed manifest.",
+    "keywords": [
+      "supabase",
+      "supabase-backup",
+      "backup",
+      "database-backup",
+      "postgres",
+      "postgresql",
+      "pg_dump",
+      "restore",
+      "s3",
+      "cloudflare-r2",
+      "backblaze-b2",
+      "disaster-recovery",
+      "healthchecks",
+      "pi-package"
+    ],
+    "version": "2.6.0",
+    "published_at": "2026-10-19T18:16:31.056Z",
+    "npm_downloads_monthly": 1553,
+    "npm_downloads_weekly": 474,
+    "npm_score_final": 22.133347,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

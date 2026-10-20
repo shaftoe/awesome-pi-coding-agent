@@ -1,0 +1,31 @@
+{
+  "id": "pi-stats-poster",
+  "name": "pi-stats-poster",
+  "url": "https://www.npmjs.com/package/pi-stats-poster",
+  "source": "npm-search",
+  "description": "Year-to-date token poster for pi, ported from opencode's /stats TUI view.",
+  "metadata": {
+    "github_url": "https://github.com/xprnvd/pi-stats",
+    "npm_name": "pi-stats-poster",
+    "description": "Year-to-date token poster for pi, ported from opencode's /stats TUI view.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "stats",
+      "tokens",
+      "usage",
+      "opencode"
+    ],
+    "version": "0.1.9",
+    "published_at": "2026-10-19T19:27:48.614Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
