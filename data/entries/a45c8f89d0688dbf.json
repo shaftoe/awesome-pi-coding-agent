@@ -10,7 +10,7 @@
     "description": "Desktop IDE for the pi coding agent: chat, diffs, files, terminal and artifacts in one window. Every pi provider, plus Claude Pro/Max and ChatGPT subscriptions. macOS, Linux, Windows.",
     "stars": 11,
     "forks": 2,
-    "open_issues": 1,
+    "open_issues": 6,
     "topics": [
       "agentic-coding",
       "ai-coding-assistant",
@@ -29,9 +29,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-03T13:36:13Z",
-    "pushed_at": "2026-10-18T22:19:56Z",
-    "updated_at": "2026-10-18T21:56:43Z",
-    "size": 45114,
+    "pushed_at": "2026-10-20T01:01:31Z",
+    "updated_at": "2026-10-19T23:38:20Z",
+    "size": 45585,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

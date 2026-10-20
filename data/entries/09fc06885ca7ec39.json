@@ -1,0 +1,28 @@
+{
+  "id": "@mortenmo/vegvisir-pi",
+  "name": "@mortenmo/vegvisir-pi",
+  "url": "https://www.npmjs.com/package/@mortenmo/vegvisir-pi",
+  "source": "npm-search",
+  "description": "Vegvísir extension for pi.dev coding agent",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@mortenmo/vegvisir-pi",
+    "description": "Vegvísir extension for pi.dev coding agent",
+    "keywords": [
+      "pi-package",
+      "vegvisir",
+      "agent",
+      "tools"
+    ],
+    "version": "0.6.0",
+    "published_at": "2026-10-19T16:31:15.007Z",
+    "npm_downloads_monthly": 379,
+    "npm_downloads_weekly": 379,
+    "npm_score_final": 17.45658,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

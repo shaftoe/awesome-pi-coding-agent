@@ -66535,5 +66535,215 @@
 		"reason": "Not about Pi coding agent - personal injury lawyers video",
 		"blacklisted_at": "2026-10-19T00:43:01.688Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://github.com/dancingteeth/agent-looper",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-20T01:23:55.429Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=OLqP8jxJ0Wc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-20T01:23:55.476Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/siriuslan/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-20T01:23:55.545Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/wcx-pi-preset",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-20T01:23:55.627Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=FEsans99Yic",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-20T01:23:55.645Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-origin-power-media-gen",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-20T01:23:55.671Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/po-codemode",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-20T01:23:55.724Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/KaylaONeal/ntfyx-agent-plugins",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-20T01:23:55.776Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ti3vVYwzW4A",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-20T01:23:55.834Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=8PGlCKSqi_E",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-10-20T01:23:55.846Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/smallgavin/pi-device-diagnostic",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-20T01:23:55.883Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/ai4bordon/omp-skill-gate",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-20T01:23:55.902Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/mrdarrengriffin/facet",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-20T01:23:55.935Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=HObQDY7PtrE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-20T01:23:55.965Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=3-sSbJKb-fQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-20T01:23:56.092Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-endpoints",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-20T01:23:56.132Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/ngosangns/ns-bridge",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-10-20T01:23:56.214Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=0gur4zfQuk8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-20T01:23:56.263Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/disler/pi-durable-news-agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-20T01:23:56.376Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Lx8E-biZIxU",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-20T01:23:56.483Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=acvef7lM1NE",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-10-20T01:23:56.496Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
 	}
 ]

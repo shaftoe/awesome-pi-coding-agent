@@ -9,7 +9,7 @@
     "repo_full_name": "nikheal25/circadian-loop",
     "description": "Make a pi agent work on one goal indefinitely: work, checkpoint to disk, sleep, wake with an empty context, continue.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "agent",

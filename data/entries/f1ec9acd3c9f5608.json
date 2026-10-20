@@ -9,7 +9,7 @@
     "repo_full_name": "htlin222/mini-claw",
     "description": "Telegram bot for persistent Claude/ChatGPT conversations using Pi agent — zero-cost multi-turn AI sessions with file attachments, shell access, and local storage",
     "stars": 93,
-    "forks": 14,
+    "forks": 15,
     "open_issues": 0,
     "topics": [
       "ai-assistant",

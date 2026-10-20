@@ -1,0 +1,30 @@
+{
+  "id": "pi-herdr-clean-craft",
+  "name": "pi-herdr-clean-craft",
+  "url": "https://www.npmjs.com/package/pi-herdr-clean-craft",
+  "source": "npm-search",
+  "description": "Unofficial Pi methodology pack inspired by Robert C. Martin's engineering practices. Six explicit-only skills: the craft-mode hub and its TDD, refactor, architecture, quality, and mutation stages, plus an optional /craft-mode command that keeps the hub in",
+  "metadata": {
+    "github_url": "https://github.com/giuseppecrj/pi-herdr-clean-craft",
+    "npm_name": "pi-herdr-clean-craft",
+    "description": "Unofficial Pi methodology pack inspired by Robert C. Martin's engineering practices. Six explicit-only skills: the craft-mode hub and its TDD, refactor, architecture, quality, and mutation stages, plus an optional /craft-mode command that keeps the hub in",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "herdr",
+      "tdd",
+      "refactoring",
+      "clean-code"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-12T22:18:55.327Z",
+    "npm_downloads_monthly": 635,
+    "npm_downloads_weekly": 635,
+    "npm_score_final": 20.015856,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

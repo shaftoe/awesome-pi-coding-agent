@@ -1,0 +1,30 @@
+{
+  "id": "pepetrov0-tinyui",
+  "name": "pepetrov0-tinyui",
+  "url": "https://github.com/pepetrov0/tinyui",
+  "source": "github-search",
+  "description": "Two small touches on pi's TUI, drawn entirely in your theme.",
+  "metadata": {
+    "github_url": "https://github.com/pepetrov0/tinyui",
+    "repo_full_name": "pepetrov0/tinyui",
+    "description": "Two small touches on pi's TUI, drawn entirely in your theme.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-19T19:43:16Z",
+    "pushed_at": "2026-10-19T20:16:38Z",
+    "updated_at": "2026-10-19T20:16:40Z",
+    "size": 18,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

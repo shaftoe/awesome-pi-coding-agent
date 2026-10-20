@@ -3,11 +3,11 @@
   "name": "pi-purge",
   "url": "https://www.npmjs.com/package/pi-purge",
   "source": "npm-search",
-  "description": "pi extension: switch a session between pi's stock system prompt, a trimmed variant, and your own prompt file - for prompt-engineering experiments",
+  "description": "pi extension: switch a session between pi's stock system prompt, a trimmed variant, and a bundled or custom persona prompt - for prompt-engineering experiments",
   "metadata": {
     "github_url": "https://github.com/ZiChuanLan/pi-purge",
     "npm_name": "pi-purge",
-    "description": "pi extension: switch a session between pi's stock system prompt, a trimmed variant, and your own prompt file - for prompt-engineering experiments",
+    "description": "pi extension: switch a session between pi's stock system prompt, a trimmed variant, and a bundled or custom persona prompt - for prompt-engineering experiments",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -17,8 +17,8 @@
       "prompt-engineering",
       "prompt-evaluation"
     ],
-    "version": "0.1.3",
-    "published_at": "2026-10-18T16:25:25.593Z",
+    "version": "0.2.3",
+    "published_at": "2026-10-19T08:10:34.454Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

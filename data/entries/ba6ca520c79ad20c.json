@@ -1,0 +1,31 @@
+{
+  "id": "@wjunhere/session-synapse",
+  "name": "@wjunhere/session-synapse",
+  "url": "https://www.npmjs.com/package/@wjunhere/session-synapse",
+  "source": "npm-search",
+  "description": "A visual, non-linear conversation workspace for the pi coding agent — session map, branches, and canvas organization.",
+  "metadata": {
+    "github_url": "https://github.com/wjunhere/session-synapse",
+    "npm_name": "@wjunhere/session-synapse",
+    "description": "A visual, non-linear conversation workspace for the pi coding agent — session map, branches, and canvas organization.",
+    "keywords": [
+      "pi",
+      "pi-web",
+      "pi-coding-agent",
+      "session",
+      "canvas",
+      "synapse",
+      "visualization"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-10-19T15:36:44.115Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

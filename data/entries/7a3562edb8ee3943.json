@@ -1,0 +1,31 @@
+{
+  "id": "acoyfellow-write-judge",
+  "name": "acoyfellow-write-judge",
+  "url": "https://github.com/acoyfellow/write-judge",
+  "source": "github-search",
+  "description": "Your coding agent can't delete the test to make it pass. Pi extension: every edit is judged before it lands.",
+  "metadata": {
+    "github_url": "https://github.com/acoyfellow/write-judge",
+    "repo_full_name": "acoyfellow/write-judge",
+    "description": "Your coding agent can't delete the test to make it pass. Pi extension: every edit is judged before it lands.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "pi-extension",
+      "pi-package",
+      "testing",
+      "workers-ai"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-19T13:05:49Z",
+    "pushed_at": "2026-10-19T13:28:27Z",
+    "updated_at": "2026-10-19T15:34:14Z",
+    "size": 106,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

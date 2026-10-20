@@ -8,18 +8,18 @@
     "github_url": "https://github.com/ZhaoJiSen/pi-desktop",
     "repo_full_name": "ZhaoJiSen/pi-desktop",
     "description": "A modern, open-source desktop client for Pi Coding Agent.",
-    "stars": 2,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-08T07:14:24Z",
-    "pushed_at": "2026-10-17T16:11:40Z",
-    "updated_at": "2026-10-17T16:11:44Z",
-    "size": 9114,
+    "pushed_at": "2026-10-19T15:32:59Z",
+    "updated_at": "2026-10-19T15:33:05Z",
+    "size": 32503,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }
