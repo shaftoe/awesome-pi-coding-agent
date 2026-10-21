@@ -1,0 +1,25 @@
+{
+  "id": "babariviere-pilot",
+  "name": "babariviere-pilot",
+  "url": "https://github.com/babariviere/pilot",
+  "source": "github-search",
+  "description": "A native macOS app for background pi coding agents, with durable chats, isolated workspaces, and reviewable pull requests.",
+  "metadata": {
+    "github_url": "https://github.com/babariviere/pilot",
+    "repo_full_name": "babariviere/pilot",
+    "description": "A native macOS app for background pi coding agents, with durable chats, isolated workspaces, and reviewable pull requests.",
+    "stars": 5,
+    "forks": 1,
+    "open_issues": 7,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-07T08:45:37Z",
+    "pushed_at": "2026-10-20T20:50:10Z",
+    "updated_at": "2026-10-20T17:27:42Z",
+    "size": 27054,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

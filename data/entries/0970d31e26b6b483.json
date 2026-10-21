@@ -3,12 +3,12 @@
   "name": "Pi Coding Agent: Setup, Local Models and Comparison (2026)",
   "url": "https://vdf.ai/blog/pi-coding-agent-local-llm/",
   "source": "brave-web-search",
-  "description": "Two dates matter if you follow older tutorials. The npm package moved from @mariozechner/pi-coding-agent, deprecated at version 0.73.1 in May 2026, to @earendil-works/pi-coding-agent. And Pi 1.0, released on 1 October 2026, added MCP and codemode, which changed one of Pi’s best-known design choices.",
+  "description": "Pi coding agent explained: install, built-in tools, MCP since Pi 1.0, Ollama and llama.cpp setup, sandboxing, and how it compares with OpenCode and Claude Code.",
   "metadata": {
     "title": "Pi Coding Agent: Setup, Local Models and Comparison (2026)",
     "name": "Pi Coding Agent: Setup, Local Models and Comparison (2026)",
-    "description": "Two dates matter if you follow older tutorials. The npm package moved from @mariozechner/pi-coding-agent, deprecated at version 0.73.1 in May 2026, to @earendil-works/pi-coding-agent. And Pi 1.0, released on 1 October 2026, added MCP and codemode, which changed one of Pi’s best-known design choices.",
-    "published_at": "2026-10-14T00:29:22",
+    "description": "Pi coding agent explained: install, built-in tools, MCP since Pi 1.0, Ollama and llama.cpp setup, sandboxing, and how it compares with OpenCode and Claude Code.",
+    "published_at": "2026-10-14T07:02:39",
     "source_site": "Vdf",
     "source_url": "https://vdf.ai/blog/pi-coding-agent-local-llm/",
     "discovery_hint": "brave:pi-coding-agent"

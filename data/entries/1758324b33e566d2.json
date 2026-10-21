@@ -3,11 +3,11 @@
   "name": "@taylorsatula/pi-durable-memory",
   "url": "https://www.npmjs.com/package/@taylorsatula/pi-durable-memory",
   "source": "npm-search",
-  "description": "Encrypted, embedding-searched long-term memory for pi, with a surface/finish attention-sink loop",
+  "description": "Embedding-searched long-term memory for pi, with a surface/checkpoint attention-sink loop",
   "metadata": {
     "github_url": "https://github.com/taylorsatula/pi-durable-memory",
     "npm_name": "@taylorsatula/pi-durable-memory",
-    "description": "Encrypted, embedding-searched long-term memory for pi, with a surface/finish attention-sink loop",
+    "description": "Embedding-searched long-term memory for pi, with a surface/checkpoint attention-sink loop",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -16,11 +16,11 @@
       "embeddings",
       "encryption"
     ],
-    "version": "0.3.4",
-    "published_at": "2026-10-19T22:03:35.148Z",
+    "version": "0.3.6",
+    "published_at": "2026-10-20T03:53:52.023Z",
     "npm_downloads_monthly": 359,
     "npm_downloads_weekly": 359,
-    "npm_score_final": 16.796227,
+    "npm_score_final": 16.682148,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

@@ -1,0 +1,25 @@
+{
+  "id": "HiepPP-bachuc",
+  "name": "HiepPP-bachuc",
+  "url": "https://github.com/HiepPP/bachuc",
+  "source": "github-search",
+  "description": "Bachuc: a personal fork of Paseo. One interface for Claude Code, Codex, Copilot, OpenCode, and Pi agents, plus fork-only plugins.",
+  "metadata": {
+    "github_url": "https://github.com/HiepPP/bachuc",
+    "repo_full_name": "HiepPP/bachuc",
+    "description": "Bachuc: a personal fork of Paseo. One interface for Claude Code, Codex, Copilot, OpenCode, and Pi agents, plus fork-only plugins.",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-28T05:34:20Z",
+    "pushed_at": "2026-10-20T08:27:43Z",
+    "updated_at": "2026-10-20T18:20:51Z",
+    "size": 206519,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

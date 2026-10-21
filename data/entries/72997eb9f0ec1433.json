@@ -1,0 +1,28 @@
+{
+  "id": "pi-diff-widget",
+  "name": "pi-diff-widget",
+  "url": "https://www.npmjs.com/package/pi-diff-widget",
+  "source": "npm-search",
+  "description": "Interactive diff viewer for pi: uncommitted changes and per-turn diffs",
+  "metadata": {
+    "github_url": "https://github.com/omgzsa/pi-diff-widget",
+    "npm_name": "pi-diff-widget",
+    "description": "Interactive diff viewer for pi: uncommitted changes and per-turn diffs",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "diff",
+      "git"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-10-13T09:50:29.942Z",
+    "npm_downloads_monthly": 677,
+    "npm_downloads_weekly": 677,
+    "npm_score_final": 18.710503,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

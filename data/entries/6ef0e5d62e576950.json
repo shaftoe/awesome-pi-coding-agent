@@ -8,7 +8,7 @@
     "github_url": "https://github.com/HugoLopes45/pi-context-kit",
     "repo_full_name": "HugoLopes45/pi-context-kit",
     "description": "Context maintenance for Pi: stale read replacement, pruning, handoff compaction with background notes, and recall.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 1,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-10-05T15:10:03Z",
     "pushed_at": "2026-10-19T23:46:05Z",
-    "updated_at": "2026-10-06T10:30:24Z",
+    "updated_at": "2026-10-20T13:04:10Z",
     "size": 199,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
