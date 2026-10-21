@@ -10,7 +10,7 @@
     "description": "omp-pstack brings Poteto's P Stack to Oh My Pi (OMP): multi-model AI coding agents, engineering playbooks, verification, and durable automation.",
     "stars": 3,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 1,
     "topics": [
       "agent-skills",
       "ai-coding",
@@ -26,9 +26,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-05T02:36:19Z",
-    "pushed_at": "2026-10-19T08:48:30Z",
-    "updated_at": "2026-10-18T16:00:04Z",
-    "size": 12798,
+    "pushed_at": "2026-10-20T21:39:18Z",
+    "updated_at": "2026-10-20T21:39:23Z",
+    "size": 12800,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

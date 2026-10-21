@@ -1,0 +1,28 @@
+{
+  "id": "@djoeyg/pi-fast",
+  "name": "@djoeyg/pi-fast",
+  "url": "https://www.npmjs.com/package/@djoeyg/pi-fast",
+  "source": "npm-search",
+  "description": "/fast toggle for OpenAI priority service tier (Fast mode)",
+  "metadata": {
+    "github_url": "https://github.com/D-Joey-G/pi-extensions",
+    "npm_name": "@djoeyg/pi-fast",
+    "description": "/fast toggle for OpenAI priority service tier (Fast mode)",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "openai",
+      "priority"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-10T09:55:03.437Z",
+    "npm_downloads_monthly": 179,
+    "npm_downloads_weekly": 179,
+    "npm_score_final": 15.749408,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

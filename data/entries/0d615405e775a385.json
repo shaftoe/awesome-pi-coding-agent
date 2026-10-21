@@ -1,0 +1,30 @@
+{
+  "id": "pi-graph",
+  "name": "pi-graph",
+  "url": "https://www.npmjs.com/package/pi-graph",
+  "source": "npm-search",
+  "description": "Durable DAG execution with owned Pi SDK child agents",
+  "metadata": {
+    "github_url": "https://github.com/HeathHe/pi-graph",
+    "npm_name": "pi-graph",
+    "description": "Durable DAG execution with owned Pi SDK child agents",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "agents",
+      "dag",
+      "multi-agent",
+      "workflow"
+    ],
+    "version": "0.2.3",
+    "published_at": "2026-10-20T09:51:40.708Z",
+    "npm_downloads_monthly": 344,
+    "npm_downloads_weekly": 344,
+    "npm_score_final": 17.79701,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

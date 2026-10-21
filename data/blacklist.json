@@ -66745,5 +66745,161 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-theme"
 		}
+	},
+	{
+		"url": "https://raspberrytips.com/best-themes-for-retropie/",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-10-21T01:10:10.857Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/dong615119371/pi-delegate",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-21T01:10:10.904Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/po-vibe-lint",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-21T01:10:11.036Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/Interwork-ai/agentdrop",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-10-21T01:10:11.101Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=4SBM8AvY_bI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-21T01:10:11.121Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=p81mr84CsFw",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-10-21T01:10:11.171Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/dong615119371/pi-async-jobs",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-21T01:10:11.216Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/daniel-ballance/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-21T01:10:11.234Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/DevZjQx/oh-my-clm",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-21T01:10:11.259Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/liuxincuit/pi-packages",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-21T01:10:11.412Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/VladimirMonin/pi-polza",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-21T01:10:11.585Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/po-dynamic-workflow",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-21T01:10:11.616Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@lhlyu/pi-kit",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-21T01:10:11.68Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/EduardoMoraga/edu",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-21T01:10:11.875Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=AA4TYWTunGU",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-10-21T01:10:12.081Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/xprnvd/pi-permission-system",
+		"reason": "duplicate of npm package @xprnvd/pi-permission-system",
+		"blacklisted_at": "2026-10-21T01:14:31.969Z",
+		"source": "manual"
 	}
 ]

@@ -1,0 +1,36 @@
+{
+  "id": "sinrimin-harness-nexus",
+  "name": "sinrimin-harness-nexus",
+  "url": "https://github.com/sinrimin/harness-nexus",
+  "source": "github-search",
+  "description": "Self-hosted management for your coding agents.",
+  "metadata": {
+    "github_url": "https://github.com/sinrimin/harness-nexus",
+    "repo_full_name": "sinrimin/harness-nexus",
+    "description": "Self-hosted management for your coding agents. ",
+    "stars": 5,
+    "forks": 2,
+    "open_issues": 1,
+    "topics": [
+      "agent-orchestration",
+      "agent-skills",
+      "ai-tools",
+      "claude-code",
+      "codex",
+      "harness",
+      "llm",
+      "mcp-gateway",
+      "opencode",
+      "pi-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-21T07:56:35Z",
+    "pushed_at": "2026-10-20T10:11:10Z",
+    "updated_at": "2026-10-20T10:10:54Z",
+    "size": 5144,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

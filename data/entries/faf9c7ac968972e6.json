@@ -1,0 +1,32 @@
+{
+  "id": "@xprnvd/pi-subagents",
+  "name": "@xprnvd/pi-subagents",
+  "url": "https://www.npmjs.com/package/@xprnvd/pi-subagents",
+  "source": "npm-search",
+  "description": "Pi extension for single-agent delegation and scripted multi-agent workflows",
+  "metadata": {
+    "github_url": "https://github.com/xprnvd/pi-subagents",
+    "npm_name": "@xprnvd/pi-subagents",
+    "description": "Pi extension for single-agent delegation and scripted multi-agent workflows",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "subagents",
+      "ai",
+      "agents",
+      "cli"
+    ],
+    "version": "0.79.2",
+    "published_at": "2026-10-20T10:15:11.549Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
