@@ -1,0 +1,29 @@
+{
+  "id": "@gfgghgftgffg/pi-subagents-lean",
+  "name": "@gfgghgftgffg/pi-subagents-lean",
+  "url": "https://www.npmjs.com/package/@gfgghgftgffg/pi-subagents-lean",
+  "source": "npm-search",
+  "description": "Lean Pi subagents extension: one subagent facade over the full @tintinweb/pi-subagents runtime, with advanced parameters disclosed through help.",
+  "metadata": {
+    "github_url": "https://github.com/gfgghgftgffg/amox_pi_extensions_lean",
+    "npm_name": "@gfgghgftgffg/pi-subagents-lean",
+    "description": "Lean Pi subagents extension: one subagent facade over the full @tintinweb/pi-subagents runtime, with advanced parameters disclosed through help.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "subagents",
+      "multi-agent",
+      "token-efficient"
+    ],
+    "version": "0.1.7",
+    "published_at": "2026-10-21T02:43:28.280Z",
+    "npm_downloads_monthly": 544,
+    "npm_downloads_weekly": 544,
+    "npm_score_final": 19.502705,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

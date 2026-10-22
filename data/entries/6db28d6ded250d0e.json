@@ -8,7 +8,7 @@
     "github_url": "https://github.com/duyban23/pi-opencode-zen",
     "repo_full_name": "duyban23/pi-opencode-zen",
     "description": "OpenCode Zen provider extension for pi: device-flow OAuth workspace login",
-    "stars": 3,
+    "stars": 4,
     "forks": 3,
     "open_issues": 0,
     "topics": [
@@ -27,7 +27,7 @@
     "archived": false,
     "created_at": "2026-09-24T02:29:34Z",
     "pushed_at": "2026-10-17T01:27:39Z",
-    "updated_at": "2026-10-17T01:27:36Z",
+    "updated_at": "2026-10-21T16:25:31Z",
     "size": 378,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

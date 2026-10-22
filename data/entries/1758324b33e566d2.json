@@ -3,11 +3,11 @@
   "name": "@taylorsatula/pi-durable-memory",
   "url": "https://www.npmjs.com/package/@taylorsatula/pi-durable-memory",
   "source": "npm-search",
-  "description": "Embedding-searched long-term memory for pi, with a surface/checkpoint attention-sink loop",
+  "description": "Proper long-term memory for Pi. These are not crude MEMORY.md files. Each memory is stored individually and the agent curates them. Memories are injected into the context window for just-in-time recall. Local SQLite, embedding search.",
   "metadata": {
     "github_url": "https://github.com/taylorsatula/pi-durable-memory",
     "npm_name": "@taylorsatula/pi-durable-memory",
-    "description": "Embedding-searched long-term memory for pi, with a surface/checkpoint attention-sink loop",
+    "description": "Proper long-term memory for Pi. These are not crude MEMORY.md files. Each memory is stored individually and the agent curates them. Memories are injected into the context window for just-in-time recall. Local SQLite, embedding search.",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -16,11 +16,11 @@
       "embeddings",
       "encryption"
     ],
-    "version": "0.3.6",
-    "published_at": "2026-10-20T03:53:52.023Z",
+    "version": "0.4.1",
+    "published_at": "2026-10-21T03:36:47.392Z",
     "npm_downloads_monthly": 359,
     "npm_downloads_weekly": 359,
-    "npm_score_final": 16.682148,
+    "npm_score_final": 16.581732,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

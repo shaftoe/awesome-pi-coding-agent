@@ -1,0 +1,29 @@
+{
+  "id": "@gfgghgftgffg/rpiv-todo-lean",
+  "name": "@gfgghgftgffg/rpiv-todo-lean",
+  "url": "https://www.npmjs.com/package/@gfgghgftgffg/rpiv-todo-lean",
+  "source": "npm-search",
+  "description": "Lean Pi todo extension: the full @juicesharp/rpiv-todo runtime with a compact flat schema and per-session RPC overlay handling preserved.",
+  "metadata": {
+    "github_url": "https://github.com/gfgghgftgffg/amox_pi_extensions_lean",
+    "npm_name": "@gfgghgftgffg/rpiv-todo-lean",
+    "description": "Lean Pi todo extension: the full @juicesharp/rpiv-todo runtime with a compact flat schema and per-session RPC overlay handling preserved.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "rpiv",
+      "todo",
+      "token-efficient"
+    ],
+    "version": "0.1.7",
+    "published_at": "2026-10-21T02:45:23.632Z",
+    "npm_downloads_monthly": 612,
+    "npm_downloads_weekly": 612,
+    "npm_score_final": 18.777632,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

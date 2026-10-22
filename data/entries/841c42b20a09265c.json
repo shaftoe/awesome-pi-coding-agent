@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-extension",
+  "name": "@plannotator/pi-extension · Packages · Pi",
+  "url": "https://pi.dev/packages/@plannotator/pi-extension",
+  "source": "brave-web-search",
+  "description": "Review the source before installing third-party packages. Plannotator integration for the Pi coding agent.",
+  "metadata": {
+    "title": "@plannotator/pi-extension · Packages · Pi",
+    "name": "@plannotator/pi-extension · Packages · Pi",
+    "description": "Review the source before installing third-party packages. Plannotator integration for the Pi coding agent.",
+    "published_at": "2026-10-20T20:53:01",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/@plannotator/pi-extension",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}

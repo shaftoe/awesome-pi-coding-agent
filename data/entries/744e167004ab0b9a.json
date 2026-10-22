@@ -3,11 +3,11 @@
   "name": "pi-cli-guard",
   "url": "https://www.npmjs.com/package/pi-cli-guard",
   "source": "npm-search",
-  "description": "Pi extension that canonicalizes the agent's bash commands to the preferred modern toolchain: grep/egrep/fgrep → rg (ripgrep) and a conservative find → fd subset, applied through the tool_call event so it composes with other bash extensions",
+  "description": "Pi extension that rewrites the agent's bash to the modern toolchain: grep/egrep/fgrep → rg (ripgrep), find → fd (conservative whitelist) — applied at the tool_call event, so it composes with other bash extensions",
   "metadata": {
     "github_url": "https://github.com/tychenjiajun/pi-cli-guard",
     "npm_name": "pi-cli-guard",
-    "description": "Pi extension that canonicalizes the agent's bash commands to the preferred modern toolchain: grep/egrep/fgrep → rg (ripgrep) and a conservative find → fd subset, applied through the tool_call event so it composes with other bash extensions",
+    "description": "Pi extension that rewrites the agent's bash to the modern toolchain: grep/egrep/fgrep → rg (ripgrep), find → fd (conservative whitelist) — applied at the tool_call event, so it composes with other bash extensions",
     "keywords": [
       "pi-package",
       "pi-extension",
@@ -36,15 +36,15 @@
       "developer-tools",
       "cli"
     ],
-    "version": "0.2.0",
-    "published_at": "2026-10-17T02:28:15.111Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.2.1",
+    "published_at": "2026-10-21T05:36:41.068Z",
+    "npm_downloads_monthly": 383,
+    "npm_downloads_weekly": 383,
+    "npm_score_final": 17.416372,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

@@ -1,0 +1,29 @@
+{
+  "id": "@gfgghgftgffg/pi-web-access-lean",
+  "name": "@gfgghgftgffg/pi-web-access-lean",
+  "url": "https://www.npmjs.com/package/@gfgghgftgffg/pi-web-access-lean",
+  "source": "npm-search",
+  "description": "Lean Pi web access extension: one web_access facade over the full pi-web-access runtime, with advanced parameters disclosed through help.",
+  "metadata": {
+    "github_url": "https://github.com/gfgghgftgffg/amox_pi_extensions_lean",
+    "npm_name": "@gfgghgftgffg/pi-web-access-lean",
+    "description": "Lean Pi web access extension: one web_access facade over the full pi-web-access runtime, with advanced parameters disclosed through help.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "web-search",
+      "web-access",
+      "token-efficient"
+    ],
+    "version": "0.1.7",
+    "published_at": "2026-10-21T02:44:09.317Z",
+    "npm_downloads_monthly": 533,
+    "npm_downloads_weekly": 533,
+    "npm_score_final": 19.261772,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

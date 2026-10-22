@@ -1,0 +1,30 @@
+{
+  "id": "@stagefright5/pi-bg-bash",
+  "name": "@stagefright5/pi-bg-bash",
+  "url": "https://www.npmjs.com/package/@stagefright5/pi-bg-bash",
+  "source": "npm-search",
+  "description": "Run pi's bash tool commands in the background once they outlast a short wait, with job tools, finish notifications, and a jobs manager",
+  "metadata": {
+    "github_url": "https://github.com/stagefright5/pi-agent-extensions",
+    "npm_name": "@stagefright5/pi-bg-bash",
+    "description": "Run pi's bash tool commands in the background once they outlast a short wait, with job tools, finish notifications, and a jobs manager",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "bash",
+      "background",
+      "jobs",
+      "tui"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-21T10:29:12.030Z",
+    "npm_downloads_monthly": 257,
+    "npm_downloads_weekly": 257,
+    "npm_score_final": 16.760374,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
