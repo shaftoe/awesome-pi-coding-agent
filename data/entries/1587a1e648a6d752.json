@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-web-ui",
+  "name": "Pi Coding Agent",
+  "url": "https://pi.dev/packages/pi-web-ui",
+  "source": "brave-web-search",
+  "description": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours. Just open your browser to get all your work done — browser cockpit for AI coding agents (chat, code, files, terminal, Git in one tab)Packages",
+  "metadata": {
+    "title": "Pi Coding Agent",
+    "name": "Pi Coding Agent",
+    "description": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours. Just open your browser to get all your work done — browser cockpit for AI coding agents (chat, code, files, terminal, Git in one tab)Packages",
+    "published_at": "2026-10-21T03:23:01",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-web-ui",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

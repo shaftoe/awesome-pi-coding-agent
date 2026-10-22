@@ -1,0 +1,27 @@
+{
+  "id": "@gyoungwe/pi-research",
+  "name": "@gyoungwe/pi-research",
+  "url": "https://www.npmjs.com/package/@gyoungwe/pi-research",
+  "source": "npm-search",
+  "description": "Evidence-gated research retrieval, reading, deposition and source-grounded answer tools for native Pi",
+  "metadata": {
+    "github_url": "https://github.com/Gyoungwe/Drone",
+    "npm_name": "@gyoungwe/pi-research",
+    "description": "Evidence-gated research retrieval, reading, deposition and source-grounded answer tools for native Pi",
+    "keywords": [
+      "pi-package",
+      "research",
+      "evidence"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-21T15:37:52.445Z",
+    "npm_downloads_monthly": 218,
+    "npm_downloads_weekly": 218,
+    "npm_score_final": 16.343773,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

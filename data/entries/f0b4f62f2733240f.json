@@ -9,7 +9,7 @@
     "repo_full_name": "joaomj/pi-claude-directsdk",
     "description": "Use Claude Code subscription as LLM provider for Pi without breaking Anthropic ToS.",
     "stars": 36,
-    "forks": 2,
+    "forks": 3,
     "open_issues": 0,
     "topics": [
       "anthropic-claude",

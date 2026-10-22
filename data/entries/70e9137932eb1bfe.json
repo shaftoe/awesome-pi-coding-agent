@@ -1,0 +1,25 @@
+{
+  "id": "badlogic-explainer",
+  "name": "badlogic-explainer",
+  "url": "https://github.com/badlogic/explainer",
+  "source": "github-search",
+  "description": "Markdown to book-style explainers and in-browser agent walkthroughs (a pi skill). 100% slop.",
+  "metadata": {
+    "github_url": "https://github.com/badlogic/explainer",
+    "repo_full_name": "badlogic/explainer",
+    "description": "Markdown to book-style explainers and in-browser agent walkthroughs (a pi skill). 100% slop.",
+    "stars": 7,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-20T23:16:01Z",
+    "pushed_at": "2026-10-21T21:12:29Z",
+    "updated_at": "2026-10-21T21:12:33Z",
+    "size": 2932,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

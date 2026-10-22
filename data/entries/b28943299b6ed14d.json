@@ -18,10 +18,13 @@
       "stt",
       "tts",
       "whisper",
-      "piper"
+      "piper",
+      "vibevoice",
+      "accessibility",
+      "conversation"
     ],
-    "version": "0.1.4",
-    "published_at": "2026-10-20T01:49:24.898Z",
+    "version": "0.1.8",
+    "published_at": "2026-10-22T00:11:44.372Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,
