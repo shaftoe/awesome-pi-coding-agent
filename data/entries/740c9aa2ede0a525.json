@@ -1,0 +1,38 @@
+{
+  "id": "Ran2424-transportx-agent",
+  "name": "Ran2424-transportx-agent",
+  "url": "https://github.com/Ran2424/transportx-agent",
+  "source": "github-search",
+  "description": "Open-source transportation AI agent harness powered by Pi, with GIS, agent skills, tool execution, traffic data analysis, and an interactive desktop workspace.",
+  "metadata": {
+    "github_url": "https://github.com/Ran2424/transportx-agent",
+    "repo_full_name": "Ran2424/transportx-agent",
+    "description": "Open-source transportation AI agent harness powered by Pi, with GIS, agent skills, tool execution, traffic data analysis, and an interactive desktop workspace.",
+    "stars": 7,
+    "forks": 2,
+    "open_issues": 6,
+    "topics": [
+      "agent-harness",
+      "agent-skills",
+      "ai-agent",
+      "data-analysis",
+      "desktop-agent",
+      "geospatial",
+      "gis",
+      "intelligent-transportation",
+      "mobility",
+      "pi-coding-agent",
+      "traffic-analysis",
+      "transportation"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-09T08:28:50Z",
+    "pushed_at": "2026-10-22T17:41:53Z",
+    "updated_at": "2026-10-22T17:42:50Z",
+    "size": 68560,
+    "license": "AGPL-3.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

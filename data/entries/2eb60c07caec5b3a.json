@@ -8,7 +8,7 @@
     "github_url": "https://github.com/michaloo/casm",
     "repo_full_name": "michaloo/casm",
     "description": "Self-hosted orchestrator for coding agents (Claude Code, Codex, OpenCode, pi): one server per machine, peers, web app/PWA and CLI.",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,11 +22,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-06T11:43:11Z",
-    "pushed_at": "2026-10-19T19:15:37Z",
-    "updated_at": "2026-10-19T19:15:42Z",
-    "size": 14226,
-    "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "pushed_at": "2026-10-22T09:37:24Z",
+    "updated_at": "2026-10-22T10:14:11Z",
+    "size": 14728,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "misc"
 }

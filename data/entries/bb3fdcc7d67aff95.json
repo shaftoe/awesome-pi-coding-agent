@@ -5,17 +5,17 @@
   "source": "npm-search",
   "description": "pi extension: equal, durable pi peers managed through tmux panes plus a letter channel between any pi sessions. tmux runs on Unix-like systems (Linux, macOS, BSD; Windows via WSL/Cygwin); native Windows is not supported. Tools: peer_spawn (launch a peer i",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/spaceater/zpi-peer",
     "npm_name": "@semanaut/zpi-peer",
     "description": "pi extension: equal, durable pi peers managed through tmux panes plus a letter channel between any pi sessions. tmux runs on Unix-like systems (Linux, macOS, BSD; Windows via WSL/Cygwin); native Windows is not supported. Tools: peer_spawn (launch a peer i",
     "keywords": [
       "pi-package"
     ],
-    "version": "2.5.0",
-    "published_at": "2026-10-19T13:15:48.756Z",
+    "version": "2.5.1",
+    "published_at": "2026-10-22T16:25:00.780Z",
     "npm_downloads_monthly": 620,
     "npm_downloads_weekly": 620,
-    "npm_score_final": 19.499628,
+    "npm_score_final": 19.191881,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

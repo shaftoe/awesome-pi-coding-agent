@@ -1,0 +1,32 @@
+{
+  "id": "sugarforever-moose",
+  "name": "sugarforever-moose",
+  "url": "https://github.com/sugarforever/moose",
+  "source": "github-search",
+  "description": "AI Agent for iOS and Android, powered by Pi Durable. Streaming conversations, skills, and optional Android Termux execution.",
+  "metadata": {
+    "github_url": "https://github.com/sugarforever/moose",
+    "repo_full_name": "sugarforever/moose",
+    "description": "AI Agent for iOS and Android, powered by Pi Durable. Streaming conversations, skills, and optional Android Termux execution.",
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [
+      "agent",
+      "agent-skill",
+      "agent-skills",
+      "agents",
+      "pi",
+      "pi-durable"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-18T16:25:33Z",
+    "pushed_at": "2026-10-23T00:58:52Z",
+    "updated_at": "2026-10-23T00:53:17Z",
+    "size": 1787,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

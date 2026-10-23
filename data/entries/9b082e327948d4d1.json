@@ -8,9 +8,9 @@
     "github_url": "https://github.com/rayedbajwa/spaces",
     "repo_full_name": "rayedbajwa/spaces",
     "description": "The AI software factory for your team: specs go in, reviewed and tested pull requests come out. An assembly line of agents (research → specify → plan → tasks → implement → review → verify → deliver) with human gates, on GitHub Spec Kit and the Pi Coding Agent SDK, following AIDLC. GitHub/Jira/Confluence/Linear/Slack integrations.",
-    "stars": 4,
+    "stars": 5,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 2,
     "topics": [
       "agentic-ai",
       "agentic-workflows",
@@ -36,11 +36,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-15T06:48:58Z",
-    "pushed_at": "2026-10-21T19:40:47Z",
-    "updated_at": "2026-10-21T19:40:50Z",
-    "size": 36060,
+    "pushed_at": "2026-10-22T21:13:49Z",
+    "updated_at": "2026-10-22T22:51:27Z",
+    "size": 36801,
     "license": "NOASSERTION",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "misc"
 }
