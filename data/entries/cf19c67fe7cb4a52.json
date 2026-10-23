@@ -1,0 +1,39 @@
+{
+  "id": "pi-web-casual",
+  "name": "pi-web-casual",
+  "url": "https://www.npmjs.com/package/pi-web-casual",
+  "source": "npm-search",
+  "description": "⁂ Casual — a long-running, project-free chat for PI WEB, opened with the Asterism button.",
+  "metadata": {
+    "github_url": "https://github.com/paradise-runner/pi-web-casual",
+    "npm_name": "pi-web-casual",
+    "description": "⁂ Casual — a long-running, project-free chat for PI WEB, opened with the Asterism button.",
+    "keywords": [
+      "pi-web.dev-plugin",
+      "pi-package",
+      "pi",
+      "pi-web",
+      "pi-web-plugin",
+      "pi-web-ui",
+      "pi-coding-agent",
+      "casual-chat",
+      "ai",
+      "chat",
+      "lit",
+      "typescript",
+      "developer-tools",
+      "productivity",
+      "asterism"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-22T16:51:06.215Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

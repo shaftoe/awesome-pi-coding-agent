@@ -1,0 +1,29 @@
+{
+  "id": "pi-iterm2-resize-metadata",
+  "name": "pi-iterm2-resize-metadata",
+  "url": "https://www.npmjs.com/package/pi-iterm2-resize-metadata",
+  "source": "npm-search",
+  "description": "Preserve iTerm2 remote-host and current-directory metadata across Pi TUI redraws.",
+  "metadata": {
+    "github_url": "https://github.com/JackCA/pi-iterm2-resize-metadata",
+    "npm_name": "pi-iterm2-resize-metadata",
+    "description": "Preserve iTerm2 remote-host and current-directory metadata across Pi TUI redraws.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "iterm2",
+      "tmux",
+      "scp"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-10-22T19:26:58.174Z",
+    "npm_downloads_monthly": 452,
+    "npm_downloads_weekly": 452,
+    "npm_score_final": 18.139156,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "Newbluecake-pi-toolkit",
+  "name": "Newbluecake-pi-toolkit",
+  "url": "https://github.com/Newbluecake/pi-toolkit",
+  "source": "github-search",
+  "description": "Toolbox extension for pi: zero-hang subagents (Agent / SubagentWorkflow, watchdog deadlines, live agent tree), project memory, context handoff & cache keepalive, quota/load-aware dispatch, bash auto-background, and an optional browser control plane (Web Hub)",
+  "metadata": {
+    "github_url": "https://github.com/Newbluecake/pi-toolkit",
+    "repo_full_name": "Newbluecake/pi-toolkit",
+    "description": "Toolbox extension for pi: zero-hang subagents (Agent / SubagentWorkflow, watchdog deadlines, live agent tree), project memory, context handoff & cache keepalive, quota/load-aware dispatch, bash auto-background, and an optional browser control plane (Web Hub)",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "coding-agent",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "subagents",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-01T04:04:49Z",
+    "pushed_at": "2026-10-22T11:25:08Z",
+    "updated_at": "2026-10-22T08:00:24Z",
+    "size": 29217,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

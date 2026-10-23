@@ -67111,5 +67111,131 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-package"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=oJ0gSua-fE0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-23T01:08:17.853Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ZBXazVOXEpg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-23T01:08:17.933Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://tict.ticalc.org/archives/files/fileinfo/450/45061.html",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-23T01:08:18.047Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://pi.dev/packages?type=prompt",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-23T01:08:18.104Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Eh8kuJ1fFGM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-23T01:08:18.119Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/minkaworks/mcptocodemode",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-23T01:08:18.133Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=BB84EzZjF3U",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-23T01:08:18.142Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=AxTmJmMKiw8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-23T01:08:18.274Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=nt_am3G22W8",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-10-23T01:08:18.349Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/m-sec-org/Taric",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-23T01:08:18.374Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/po-calendar",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-23T01:08:18.444Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@0gfoundation/0gpc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-23T01:08:18.464Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://pi.dev/packages/awesome-pi-themes?type=theme",
+		"reason": "Duplicate entry for awesome-pi-themes",
+		"blacklisted_at": "2026-10-23T01:13:37.258Z",
+		"source": "manual"
 	}
 ]

@@ -1,0 +1,33 @@
+{
+  "id": "pi-idle-bark",
+  "name": "pi-idle-bark",
+  "url": "https://www.npmjs.com/package/pi-idle-bark",
+  "source": "npm-search",
+  "description": "Presence-aware Bark notifications for the Pi coding agent — only pushes to your iPhone if a session has been waiting for you beyond a threshold.",
+  "metadata": {
+    "github_url": "https://github.com/SeniorHan/pi-idle-bark",
+    "npm_name": "pi-idle-bark",
+    "description": "Presence-aware Bark notifications for the Pi coding agent — only pushes to your iPhone if a session has been waiting for you beyond a threshold.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "bark",
+      "ios",
+      "notification",
+      "idle",
+      "presence"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-10-22T14:22:20.891Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

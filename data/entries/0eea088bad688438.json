@@ -3,11 +3,11 @@
   "name": "pi-herdr-orchestrator",
   "url": "https://www.npmjs.com/package/pi-herdr-orchestrator",
   "source": "npm-search",
-  "description": "herdr-backed subagent orchestrator for the Pi coding agent: real panes, per-agent result contracts, and TypeSafe Jev gates",
+  "description": "herdr-backed subagent orchestrator for the Pi coding agent: real panes, per-agent result contracts, and local deterministic task/result gates",
   "metadata": {
     "github_url": "https://github.com/HaiYangMa13/pi-herdr-orchestrator",
     "npm_name": "pi-herdr-orchestrator",
-    "description": "herdr-backed subagent orchestrator for the Pi coding agent: real panes, per-agent result contracts, and TypeSafe Jev gates",
+    "description": "herdr-backed subagent orchestrator for the Pi coding agent: real panes, per-agent result contracts, and local deterministic task/result gates",
     "keywords": [
       "pi-package",
       "pi",
@@ -19,8 +19,8 @@
       "multi-agent",
       "terminal"
     ],
-    "version": "0.3.0",
-    "published_at": "2026-10-21T07:58:01.079Z",
+    "version": "0.6.1",
+    "published_at": "2026-10-22T08:14:55.847Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-agent-ide",
+  "name": "Pi Coding Agent",
+  "url": "https://pi.dev/packages/pi-agent-ide",
+  "source": "brave-web-search",
+  "description": "Pi Agent IDE gives the Pi coding agent a small set of development tools for understanding, changing, running, debugging, and observing software. The same tools work with local resources and configured Linux SSH targets. All IDE tools support direct calls and Pi's built-in Codemode.",
+  "metadata": {
+    "title": "Pi Coding Agent",
+    "name": "Pi Coding Agent",
+    "description": "Pi Agent IDE gives the Pi coding agent a small set of development tools for understanding, changing, running, debugging, and observing software. The same tools work with local resources and configured Linux SSH targets. All IDE tools support direct calls and Pi's built-in Codemode.",
+    "published_at": "2026-10-21T06:33:26",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-agent-ide",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}
