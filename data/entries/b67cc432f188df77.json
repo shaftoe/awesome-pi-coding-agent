@@ -10,7 +10,7 @@
     "description": "Pi extension for Anthropic OAuth with Claude Pro/Max.",
     "stars": 109,
     "forks": 30,
-    "open_issues": 2,
+    "open_issues": 0,
     "topics": [
       "anthropic",
       "claude",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-09T10:49:09Z",
-    "pushed_at": "2026-10-19T12:15:59Z",
-    "updated_at": "2026-10-21T10:27:14Z",
-    "size": 178,
+    "pushed_at": "2026-10-23T13:38:04Z",
+    "updated_at": "2026-10-23T13:38:08Z",
+    "size": 216,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

@@ -9,8 +9,8 @@
     "repo_full_name": "YoungJurry/pi-beautiful-tui",
     "description": "A polished, multilingual and themeable TUI extension for the Pi coding agent",
     "stars": 3,
-    "forks": 0,
-    "open_issues": 2,
+    "forks": 1,
+    "open_issues": 3,
     "topics": [
       "pi-coding-agent",
       "pi-package",

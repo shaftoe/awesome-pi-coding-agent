@@ -10,7 +10,7 @@
     "description": "A comfortable GUI for the Pi coding agent",
     "stars": 13,
     "forks": 2,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "angular",
       "nestjs",
@@ -19,8 +19,8 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-03T01:20:46Z",
-    "pushed_at": "2026-10-22T15:22:34Z",
-    "updated_at": "2026-10-22T15:22:38Z",
+    "pushed_at": "2026-10-24T00:45:46Z",
+    "updated_at": "2026-10-24T00:45:50Z",
     "size": 9555,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

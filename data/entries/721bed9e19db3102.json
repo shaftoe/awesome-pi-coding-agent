@@ -1,0 +1,25 @@
+{
+  "id": "@eleith-pi/web-fetch",
+  "name": "@eleith-pi/web-fetch",
+  "url": "https://www.npmjs.com/package/@eleith-pi/web-fetch",
+  "source": "npm-search",
+  "description": "Focused browser-fingerprinted web fetching for Pi",
+  "metadata": {
+    "github_url": "https://github.com/eleith/pi-extensions",
+    "npm_name": "@eleith-pi/web-fetch",
+    "description": "Focused browser-fingerprinted web fetching for Pi",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-16T03:10:35.371Z",
+    "npm_downloads_monthly": 395,
+    "npm_downloads_weekly": 395,
+    "npm_score_final": 17.02597,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

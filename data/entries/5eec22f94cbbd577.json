@@ -1,0 +1,31 @@
+{
+  "id": "wa-orchestrator",
+  "name": "wa-orchestrator",
+  "url": "https://www.npmjs.com/package/wa-orchestrator",
+  "source": "npm-search",
+  "description": "Multi-group WhatsApp orchestrator: one process, one WhatsApp account, N groups, one pi-agent brain per group (docker-sandboxed).",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "wa-orchestrator",
+    "description": "Multi-group WhatsApp orchestrator: one process, one WhatsApp account, N groups, one pi-agent brain per group (docker-sandboxed).",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "whatsapp",
+      "wwebjs",
+      "bot",
+      "orchestrator",
+      "docker"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-16T13:12:31.614Z",
+    "npm_downloads_monthly": 293,
+    "npm_downloads_weekly": 293,
+    "npm_score_final": 16.127388,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

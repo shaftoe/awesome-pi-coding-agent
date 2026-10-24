@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-theme-switcher",
+  "name": "pi-theme-switcher · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-theme-switcher",
+  "source": "brave-web-search",
+  "description": "The extension polls every 60 seconds to handle time-based transitions during long TUI sessions. It does not run in RPC, print, or JSON sessions where no terminal TUI theme can be changed. Create a config file at ~/.pi/agent/theme-switcher.json (global) or .pi/agent/theme-switcher.json ...",
+  "metadata": {
+    "title": "pi-theme-switcher · Packages · Pi",
+    "name": "pi-theme-switcher · Packages · Pi",
+    "description": "The extension polls every 60 seconds to handle time-based transitions during long TUI sessions. It does not run in RPC, print, or JSON sessions where no terminal TUI theme can be changed. Create a config file at ~/.pi/agent/theme-switcher.json (global) or .pi/agent/theme-switcher.json ...",
+    "published_at": "2026-10-01T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-theme-switcher",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "category": "article"
+}

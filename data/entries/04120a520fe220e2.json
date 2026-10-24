@@ -1,0 +1,28 @@
+{
+  "id": "@nathancatania/pi-glean",
+  "name": "@nathancatania/pi-glean",
+  "url": "https://www.npmjs.com/package/@nathancatania/pi-glean",
+  "source": "npm-search",
+  "description": "Pi provider for the Glean LLM Gateway.",
+  "metadata": {
+    "github_url": "https://github.com/nathancatania/pi-glean",
+    "npm_name": "@nathancatania/pi-glean",
+    "description": "Pi provider for the Glean LLM Gateway.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "glean",
+      "llm"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-16T08:14:40.228Z",
+    "npm_downloads_monthly": 439,
+    "npm_downloads_weekly": 439,
+    "npm_score_final": 17.768167,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

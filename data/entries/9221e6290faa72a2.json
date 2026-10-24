@@ -10,7 +10,7 @@
     "description": "AI Agent for iOS and Android, powered by Pi Durable. Streaming conversations, skills, and optional Android Termux execution.",
     "stars": 5,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 1,
     "topics": [
       "agent",
       "agent-skill",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-18T16:25:33Z",
-    "pushed_at": "2026-10-23T00:58:52Z",
-    "updated_at": "2026-10-23T00:53:17Z",
-    "size": 1787,
+    "pushed_at": "2026-10-23T01:52:42Z",
+    "updated_at": "2026-10-23T01:52:35Z",
+    "size": 1818,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
