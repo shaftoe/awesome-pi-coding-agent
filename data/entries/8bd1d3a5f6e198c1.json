@@ -10,7 +10,7 @@
     "description": "Persistent infinite memory with profiles, background agents, and conversation imports for Pi.",
     "stars": 310,
     "forks": 29,
-    "open_issues": 11,
+    "open_issues": 10,
     "topics": [
       "memory",
       "optchat",

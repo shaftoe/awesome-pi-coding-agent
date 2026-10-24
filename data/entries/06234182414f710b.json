@@ -1,0 +1,28 @@
+{
+  "id": "@oisin-ee/pi-prewalk-kit",
+  "name": "@oisin-ee/pi-prewalk-kit",
+  "url": "https://www.npmjs.com/package/@oisin-ee/pi-prewalk-kit",
+  "source": "npm-search",
+  "description": "pi-prewalk and pi-todo in one install: a frontier model plans, a cheaper model finishes.",
+  "metadata": {
+    "github_url": "https://github.com/oisin-ee/pi-prewalk",
+    "npm_name": "@oisin-ee/pi-prewalk-kit",
+    "description": "pi-prewalk and pi-todo in one install: a frontier model plans, a cheaper model finishes.",
+    "keywords": [
+      "pi-extension",
+      "pi-package",
+      "prewalk",
+      "todo"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-16T19:17:00.175Z",
+    "npm_downloads_monthly": 423,
+    "npm_downloads_weekly": 423,
+    "npm_score_final": 18.012913,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

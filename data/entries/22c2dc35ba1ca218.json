@@ -1,0 +1,25 @@
+{
+  "id": "nsanta-pi-harness2",
+  "name": "nsanta-pi-harness2",
+  "url": "https://github.com/nsanta/pi-harness2",
+  "source": "github-search",
+  "description": "The harness² recursive agent harnessing method as a native pi coding-agent package (TypeScript, zero deps)",
+  "metadata": {
+    "github_url": "https://github.com/nsanta/pi-harness2",
+    "repo_full_name": "nsanta/pi-harness2",
+    "description": "The harness² recursive agent harnessing method as a native pi coding-agent package (TypeScript, zero deps)",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-21T12:27:27Z",
+    "pushed_at": "2026-10-21T12:44:51Z",
+    "updated_at": "2026-10-24T00:27:09Z",
+    "size": 125,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

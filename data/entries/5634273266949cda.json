@@ -1,0 +1,29 @@
+{
+  "id": "pi-ttyd",
+  "name": "pi-ttyd",
+  "url": "https://www.npmjs.com/package/pi-ttyd",
+  "source": "npm-search",
+  "description": "Set ttyd's tab title, notify when Pi is ready, and accept dropped images.",
+  "metadata": {
+    "github_url": "https://github.com/leocavalcante/pi-ttyd",
+    "npm_name": "pi-ttyd",
+    "description": "Set ttyd's tab title, notify when Pi is ready, and accept dropped images.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "ttyd",
+      "notifications",
+      "pi-extension"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-10-16T13:13:43.972Z",
+    "npm_downloads_monthly": 629,
+    "npm_downloads_weekly": 629,
+    "npm_score_final": 19.071032,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

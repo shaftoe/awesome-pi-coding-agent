@@ -1,0 +1,27 @@
+{
+  "id": "@gang-of-beads/pi-updater",
+  "name": "@gang-of-beads/pi-updater",
+  "url": "https://www.npmjs.com/package/@gang-of-beads/pi-updater",
+  "source": "npm-search",
+  "description": "Codex-style auto-updater for pi. Checks pi and extension packages on startup and prompts to install updates.",
+  "metadata": {
+    "github_url": "https://github.com/Gang-of-Beads/pi-updater",
+    "npm_name": "@gang-of-beads/pi-updater",
+    "description": "Codex-style auto-updater for pi. Checks pi and extension packages on startup and prompts to install updates.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "update"
+    ],
+    "version": "0.6.0",
+    "published_at": "2026-10-16T13:05:35.305Z",
+    "npm_downloads_monthly": 231,
+    "npm_downloads_weekly": 231,
+    "npm_score_final": 15.645693,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

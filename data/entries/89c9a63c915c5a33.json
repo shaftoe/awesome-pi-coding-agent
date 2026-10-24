@@ -9,7 +9,7 @@
     "repo_full_name": "langgenius/mosoo",
     "description": "Open-source managed runtime for OpenAI Codex, Claude Agent SDK, OpenCode, and Pi Agent. Run coding agents through one Agents API with isolated cloud sandboxes, durable sessions, tool streaming, and managed files.",
     "stars": 165,
-    "forks": 25,
+    "forks": 26,
     "open_issues": 41,
     "topics": [
       "agent-api",

@@ -1,0 +1,25 @@
+{
+  "id": "@finngi/pi-delegation",
+  "name": "@finngi/pi-delegation",
+  "url": "https://www.npmjs.com/package/@finngi/pi-delegation",
+  "source": "npm-search",
+  "description": "Pi agent discovery, delegation and communication",
+  "metadata": {
+    "github_url": "https://github.com/finngi/pi-packages",
+    "npm_name": "@finngi/pi-delegation",
+    "description": "Pi agent discovery, delegation and communication",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0-alpha.0",
+    "published_at": "2026-10-16T10:58:40.223Z",
+    "npm_downloads_monthly": 290,
+    "npm_downloads_weekly": 290,
+    "npm_score_final": 16.517054,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

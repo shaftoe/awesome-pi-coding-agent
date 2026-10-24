@@ -1,0 +1,32 @@
+{
+  "id": "pi-ele-picker",
+  "name": "pi-ele-picker",
+  "url": "https://www.npmjs.com/package/pi-ele-picker",
+  "source": "npm-search",
+  "description": "Pick an element in your running page, describe the change, and send it to a pi session. Ships a Vite dev plugin (browser picker + discovery endpoint) and the matching pi bridge extension.",
+  "metadata": {
+    "github_url": "https://github.com/Himangguo/pi-ele-picker",
+    "npm_name": "pi-ele-picker",
+    "description": "Pick an element in your running page, describe the change, and send it to a pi session. Ships a Vite dev plugin (browser picker + discovery endpoint) and the matching pi bridge extension.",
+    "keywords": [
+      "vite",
+      "vite-plugin",
+      "pi",
+      "pi-package",
+      "element-picker",
+      "inspector",
+      "devtools",
+      "ai"
+    ],
+    "version": "0.3.2",
+    "published_at": "2026-10-23T04:10:20.019Z",
+    "npm_downloads_monthly": 356,
+    "npm_downloads_weekly": 356,
+    "npm_score_final": 17.056414,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
