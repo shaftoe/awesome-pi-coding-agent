@@ -10,7 +10,7 @@
     "description": "Theme pack for PI WEB: PI WEB, Clay and Material light/dark pairs plus Classic, Night, Paper and High Contrast.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 4,
+    "open_issues": 5,
     "topics": [
       "pi-package",
       "pi-web",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-04T21:28:43Z",
-    "pushed_at": "2026-10-16T20:30:51Z",
+    "pushed_at": "2026-10-23T22:06:34Z",
     "updated_at": "2026-10-16T20:30:53Z",
-    "size": 186,
+    "size": 201,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },

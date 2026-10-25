@@ -3,24 +3,24 @@
   "name": "@meowshed/meow-core",
   "url": "https://www.npmjs.com/package/@meowshed/meow-core",
   "source": "npm-search",
-  "description": "Shapes every reply Claude Code makes to you: the action first, a failure as cause, location and fix, and no preamble, recap or offer of further help. It replaces your own output style while it is enabled, and keeps up to 4,200 characters in context on eve",
+  "description": "Shapes every reply Pi makes to you: the action first, a failure as cause, location and fix, and no preamble, recap or offer of further help. It replaces your own output style while it is enabled. Distributed as a Pi package.",
   "metadata": {
     "github_url": "https://github.com/meowshed/meowpaw",
     "npm_name": "@meowshed/meow-core",
-    "description": "Shapes every reply Claude Code makes to you: the action first, a failure as cause, location and fix, and no preamble, recap or offer of further help. It replaces your own output style while it is enabled, and keeps up to 4,200 characters in context on eve",
+    "description": "Shapes every reply Pi makes to you: the action first, a failure as cause, location and fix, and no preamble, recap or offer of further help. It replaces your own output style while it is enabled. Distributed as a Pi package.",
     "keywords": [
       "pi-package",
       "meowpaw"
     ],
-    "version": "0.9.1",
-    "published_at": "2026-10-11T14:36:48.649Z",
-    "npm_downloads_monthly": 1215,
-    "npm_downloads_weekly": 496,
-    "npm_score_final": 20.766655,
+    "version": "0.10.2",
+    "published_at": "2026-10-24T13:15:47.321Z",
+    "npm_downloads_monthly": 1247,
+    "npm_downloads_weekly": 34,
+    "npm_score_final": 20.82402,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "misc"
+  "category": "extension"
 }

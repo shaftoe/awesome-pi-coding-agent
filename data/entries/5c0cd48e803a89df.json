@@ -8,7 +8,7 @@
     "github_url": "https://github.com/osolmaz/pi-huggingface-oauth",
     "repo_full_name": "osolmaz/pi-huggingface-oauth",
     "description": "Hugging Face OAuth and provider-specific Inference Provider routes for Pi",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-07-25T14:07:17Z",
     "pushed_at": "2026-10-23T09:18:51Z",
-    "updated_at": "2026-10-23T09:17:01Z",
+    "updated_at": "2026-10-24T07:00:07Z",
     "size": 625,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

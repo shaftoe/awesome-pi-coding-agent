@@ -1,0 +1,32 @@
+{
+  "id": "pi-tps-stats",
+  "name": "pi-tps-stats",
+  "url": "https://www.npmjs.com/package/pi-tps-stats",
+  "source": "npm-search",
+  "description": "Built with Gentle Shell, for Gentle Shell (works on plain Pi too). Live TPS, token and cache usage above the Pi prompt, plus a /tps stats panel.",
+  "metadata": {
+    "github_url": "https://github.com/restevean/pi-tps-stats",
+    "npm_name": "pi-tps-stats",
+    "description": "Built with Gentle Shell, for Gentle Shell (works on plain Pi too). Live TPS, token and cache usage above the Pi prompt, plus a /tps stats panel.",
+    "keywords": [
+      "pi-package",
+      "extension",
+      "tokens",
+      "tps-stats",
+      "tps",
+      "tokens-per-second",
+      "gentle-shell",
+      "gentle-pi"
+    ],
+    "version": "0.1.8",
+    "published_at": "2026-10-24T15:40:39.077Z",
+    "npm_downloads_monthly": 602,
+    "npm_downloads_weekly": 602,
+    "npm_score_final": 18.236296,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

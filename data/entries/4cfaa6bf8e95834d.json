@@ -1,0 +1,25 @@
+{
+  "id": "meatRoll-pi-manager",
+  "name": "meatRoll-pi-manager",
+  "url": "https://github.com/meatRoll/pi-manager",
+  "source": "github-search",
+  "description": "Isolated TUI manager for Pi profiles, packages, skills, extensions, prompts, themes, and context.",
+  "metadata": {
+    "github_url": "https://github.com/meatRoll/pi-manager",
+    "repo_full_name": "meatRoll/pi-manager",
+    "description": "Isolated TUI manager for Pi profiles, packages, skills, extensions, prompts, themes, and context.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-24T18:10:28Z",
+    "pushed_at": "2026-10-24T20:34:48Z",
+    "updated_at": "2026-10-24T20:34:52Z",
+    "size": 142,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

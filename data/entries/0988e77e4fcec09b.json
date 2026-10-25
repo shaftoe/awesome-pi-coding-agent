@@ -10,7 +10,7 @@
     "description": "Personal pi coding-agent extensions packaged as a standalone pi package.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 7,
+    "open_issues": 8,
     "topics": [
       "pi",
       "pi-coding-agent",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-22T09:24:23Z",
-    "pushed_at": "2026-10-23T02:32:36Z",
+    "pushed_at": "2026-10-24T16:32:34Z",
     "updated_at": "2026-10-22T19:06:13Z",
-    "size": 1587,
+    "size": 1589,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

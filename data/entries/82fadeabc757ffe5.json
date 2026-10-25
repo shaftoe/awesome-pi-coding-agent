@@ -1,0 +1,29 @@
+{
+  "id": "ravshansbox-pi-anthropic",
+  "name": "ravshansbox-pi-anthropic",
+  "url": "https://github.com/ravshansbox/pi-anthropic",
+  "source": "github-search",
+  "description": "Anthropic system prompt sanitiser extension for pi",
+  "metadata": {
+    "github_url": "https://github.com/ravshansbox/pi-anthropic",
+    "repo_full_name": "ravshansbox/pi-anthropic",
+    "description": "Anthropic system prompt sanitiser extension for pi",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-extension",
+      "pi-package",
+      "system-prompt"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-21T22:00:17Z",
+    "pushed_at": "2026-10-24T20:09:57Z",
+    "updated_at": "2026-10-24T20:09:34Z",
+    "size": 159,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

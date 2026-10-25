@@ -8,7 +8,7 @@
     "github_url": "https://github.com/xaccefy/pi-xpi",
     "repo_full_name": "xaccefy/pi-xpi",
     "description": "XPI — offensive security tools for Pi Agent: casefile, exploit search, web lookup, code intelligence, todo tracker",
-    "stars": 16,
+    "stars": 17,
     "forks": 3,
     "open_issues": 5,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-05T16:01:27Z",
     "pushed_at": "2026-10-14T17:50:31Z",
-    "updated_at": "2026-10-11T10:07:14Z",
+    "updated_at": "2026-10-24T23:05:49Z",
     "size": 1696,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
