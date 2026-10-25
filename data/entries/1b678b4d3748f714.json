@@ -1,0 +1,25 @@
+{
+  "id": "pi-actor-subagents",
+  "name": "pi-actor-subagents",
+  "url": "https://www.npmjs.com/package/pi-actor-subagents",
+  "source": "npm-search",
+  "description": "Run persistent actor-style subagent swarms inside pi.",
+  "metadata": {
+    "github_url": "https://github.com/fdietze/pi-actor-subagents",
+    "npm_name": "pi-actor-subagents",
+    "description": "Run persistent actor-style subagent swarms inside pi.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.30",
+    "published_at": "2026-10-24T20:29:49.670Z",
+    "npm_downloads_monthly": 327,
+    "npm_downloads_weekly": 327,
+    "npm_score_final": 16.626053,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

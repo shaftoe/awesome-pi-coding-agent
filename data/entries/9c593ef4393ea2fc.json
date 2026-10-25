@@ -3,11 +3,11 @@
   "name": "Extensions - | Awesome Pi Coding Agent",
   "url": "https://awesome-pi.site/extensions/",
   "source": "brave-web-search",
-  "description": "Persistent cross-session memory with MemPalace backend (auto-installed) and SQLite fallback for Pi coding agent ... Persistent status bar for Unipi — subscribes to UNIPI_EVENTS and renders key stats from all unipi packages",
+  "description": "Snapshot-bound hashline edit tool for Pi and Po. ... Activation-gated package guidance and help skills for Po and Pi extensions.",
   "metadata": {
     "title": "Extensions - | Awesome Pi Coding Agent",
     "name": "Extensions - | Awesome Pi Coding Agent",
-    "description": "Persistent cross-session memory with MemPalace backend (auto-installed) and SQLite fallback for Pi coding agent ... Persistent status bar for Unipi — subscribes to UNIPI_EVENTS and renders key stats from all unipi packages",
+    "description": "Snapshot-bound hashline edit tool for Pi and Po. ... Activation-gated package guidance and help skills for Po and Pi extensions.",
     "published_at": null,
     "source_site": "Awesome-pi",
     "source_url": "https://awesome-pi.site/extensions/",

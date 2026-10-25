@@ -1,0 +1,29 @@
+{
+  "id": "@justar_96/pi-telecom",
+  "name": "@justar_96/pi-telecom",
+  "url": "https://www.npmjs.com/package/@justar_96/pi-telecom",
+  "source": "npm-search",
+  "description": "Telecom for pi: parallel pi agents in the same project see each other, talk, claim work, and get told when a peer changes a file they depend on.",
+  "metadata": {
+    "github_url": "https://github.com/Justar96/pi-telecom",
+    "npm_name": "@justar_96/pi-telecom",
+    "description": "Telecom for pi: parallel pi agents in the same project see each other, talk, claim work, and get told when a peer changes a file they depend on.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "multi-agent",
+      "ipc",
+      "coordination"
+    ],
+    "version": "0.5.0",
+    "published_at": "2026-10-24T01:38:55.592Z",
+    "npm_downloads_monthly": 352,
+    "npm_downloads_weekly": 352,
+    "npm_score_final": 17.103338,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

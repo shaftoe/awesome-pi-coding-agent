@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tmustier/pi-for-excel",
     "repo_full_name": "tmustier/pi-for-excel",
     "description": "Experimental Excel sidebar agent add-in. Multi-model. Powered by Pi.",
-    "stars": 437,
+    "stars": 438,
     "forks": 61,
     "open_issues": 42,
     "topics": [
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-02-04T17:20:31Z",
     "pushed_at": "2026-10-21T14:18:54Z",
-    "updated_at": "2026-10-21T03:03:52Z",
+    "updated_at": "2026-10-24T08:56:50Z",
     "size": 10656,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

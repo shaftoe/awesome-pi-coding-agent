@@ -1,0 +1,30 @@
+{
+  "id": "pi-cc-monitor",
+  "name": "pi-cc-monitor",
+  "url": "https://www.npmjs.com/package/pi-cc-monitor",
+  "source": "npm-search",
+  "description": "Claude Code compatible Monitor for the Pi coding agent: a background watch that turns stdout lines or WebSocket frames into notifications that wake the agent.",
+  "metadata": {
+    "github_url": "https://github.com/tarnish233/pi-cc-monitor",
+    "npm_name": "pi-cc-monitor",
+    "description": "Claude Code compatible Monitor for the Pi coding agent: a background watch that turns stdout lines or WebSocket frames into notifications that wake the agent.",
+    "keywords": [
+      "pi-package",
+      "extension",
+      "monitor",
+      "background",
+      "watch",
+      "claude-code"
+    ],
+    "version": "0.7.0",
+    "published_at": "2026-10-24T06:03:10.178Z",
+    "npm_downloads_monthly": 816,
+    "npm_downloads_weekly": 816,
+    "npm_score_final": 20.020985,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

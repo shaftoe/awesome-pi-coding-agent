@@ -9,8 +9,8 @@
     "repo_full_name": "chartinger/pi-provider-melious",
     "description": "A pi extension that registers Melious as an OpenAI-compatible LLM provider.",
     "stars": 1,
-    "forks": 0,
-    "open_issues": 0,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "pi-extension",
       "pi-package",

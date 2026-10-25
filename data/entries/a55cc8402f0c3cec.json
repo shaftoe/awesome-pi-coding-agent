@@ -1,0 +1,20 @@
+{
+  "id": "YT_D8abLQOJWNQ",
+  "name": "Monitoring a Pi Coding Agent Session in Real Time with Lapdog",
+  "url": "https://youtube.com/watch?v=D8abLQOJWNQ",
+  "source": "youtube-search",
+  "description": "While the Pi agent builds the plugin, Ryan asks whether the session is visible in the Lapdog plugin immediately or only after it ...",
+  "metadata": {
+    "title": "Monitoring a Pi Coding Agent Session in Real Time with Lapdog",
+    "name": "Monitoring a Pi Coding Agent Session in Real Time with Lapdog",
+    "description": "While the Pi agent builds the plugin, Ryan asks whether the session is visible in the Lapdog plugin immediately or only after it ...",
+    "channel": "Datadog Community",
+    "published_at": "2026-10-23T06:00:04Z",
+    "thumbnail": "https://i.ytimg.com/vi/D8abLQOJWNQ/hqdefault.jpg",
+    "views": 55,
+    "likes": 1,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-coding-agent"
+  },
+  "category": "video"
+}

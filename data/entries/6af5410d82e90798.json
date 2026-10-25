@@ -1,0 +1,26 @@
+{
+  "id": "@nredd/pi-subscription-router",
+  "name": "@nredd/pi-subscription-router",
+  "url": "https://www.npmjs.com/package/@nredd/pi-subscription-router",
+  "source": "npm-search",
+  "description": "Pi virtual models that route across included subscription quota: Anthropic and ChatGPT Codex usage collectors, confirmed per-family exhaustion, and mid-run quota recovery.",
+  "metadata": {
+    "github_url": "https://github.com/nredd/pi-harness",
+    "npm_name": "@nredd/pi-subscription-router",
+    "description": "Pi virtual models that route across included subscription quota: Anthropic and ChatGPT Codex usage collectors, confirmed per-family exhaustion, and mid-run quota recovery.",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-10-24T10:17:53.522Z",
+    "npm_downloads_monthly": 225,
+    "npm_downloads_weekly": 225,
+    "npm_score_final": 15.525297,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

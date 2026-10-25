@@ -1,0 +1,29 @@
+{
+  "id": "ask-user-more",
+  "name": "ask-user-more",
+  "url": "https://www.npmjs.com/package/ask-user-more",
+  "source": "npm-search",
+  "description": "AskUserMore — richer multiple-choice questions for Claude Code",
+  "metadata": {
+    "github_url": "https://github.com/votrinhan88/ask-user-more",
+    "npm_name": "ask-user-more",
+    "description": "AskUserMore — richer multiple-choice questions for Claude Code",
+    "keywords": [
+      "pi-package",
+      "claude-code-plugin",
+      "ask-user",
+      "mcp",
+      "elicitation"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-17T06:44:32.819Z",
+    "npm_downloads_monthly": 415,
+    "npm_downloads_weekly": 415,
+    "npm_score_final": 17.520596,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

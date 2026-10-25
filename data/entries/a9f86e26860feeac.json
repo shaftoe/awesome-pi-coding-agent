@@ -9,7 +9,7 @@
     "repo_full_name": "thebabush/pi-memento",
     "description": "Agents that edit their own memory: nested context transactions for the pi coding agent. Commit, compact, squash, or revert an exploration.",
     "stars": 6,
-    "forks": 2,
+    "forks": 3,
     "open_issues": 0,
     "topics": [
       "agent",

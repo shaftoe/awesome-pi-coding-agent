@@ -10,7 +10,7 @@
     "description": "Layered, local, vector-backed context compressor for the pi coding agent (extension, no remote server).",
     "stars": 18,
     "forks": 3,
-    "open_issues": 5,
+    "open_issues": 7,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

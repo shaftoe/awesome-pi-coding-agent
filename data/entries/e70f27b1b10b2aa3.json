@@ -3,11 +3,11 @@
   "name": "pi-checkpoints",
   "url": "https://www.npmjs.com/package/pi-checkpoints",
   "source": "npm-search",
-  "description": "Rewind your files along with the conversation: pi's /tree and /fork also restore the files pi edited",
+  "description": "Rewind your files along with the conversation: Pi's /tree and /fork also restore the files Pi edited",
   "metadata": {
     "github_url": "https://github.com/pringled/pi-extensions",
     "npm_name": "pi-checkpoints",
-    "description": "Rewind your files along with the conversation: pi's /tree and /fork also restore the files pi edited",
+    "description": "Rewind your files along with the conversation: Pi's /tree and /fork also restore the files Pi edited",
     "keywords": [
       "pi-package",
       "pi",
@@ -16,15 +16,15 @@
       "rewind",
       "undo"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-10-22T15:25:11.011Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.1.1",
+    "published_at": "2026-10-24T06:51:31.340Z",
+    "npm_downloads_monthly": 351,
+    "npm_downloads_weekly": 351,
+    "npm_score_final": 17.09399,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }
