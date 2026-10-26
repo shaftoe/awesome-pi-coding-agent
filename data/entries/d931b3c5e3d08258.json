@@ -1,0 +1,30 @@
+{
+  "id": "@mozhi0012/pi-terminal-worker",
+  "name": "@mozhi0012/pi-terminal-worker",
+  "url": "https://www.npmjs.com/package/@mozhi0012/pi-terminal-worker",
+  "source": "npm-search",
+  "description": "Pi coding agent extension for supervised worker Pi in independent Windows Terminal window with bi-directional IPC",
+  "metadata": {
+    "github_url": "https://github.com/mozhi012/pi-terminal-worker",
+    "npm_name": "@mozhi0012/pi-terminal-worker",
+    "description": "Pi coding agent extension for supervised worker Pi in independent Windows Terminal window with bi-directional IPC",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "coding-agent",
+      "windows-terminal",
+      "subagent",
+      "worker"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-18T08:57:06.469Z",
+    "npm_downloads_monthly": 310,
+    "npm_downloads_weekly": 194,
+    "npm_score_final": 16.933004,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

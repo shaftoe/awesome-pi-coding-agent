@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Evidence-gated research retrieval, reading, deposition and source-grounded answer tools for native Pi",
   "metadata": {
-    "github_url": "https://github.com/Gyoungwe/Drone",
+    "github_url": "https://github.com/Gyoungwe/drone-plugins",
     "npm_name": "@gyoungwe/pi-research",
     "description": "Evidence-gated research retrieval, reading, deposition and source-grounded answer tools for native Pi",
     "keywords": [
@@ -13,11 +13,11 @@
       "research",
       "evidence"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-10-21T15:37:52.445Z",
-    "npm_downloads_monthly": 218,
-    "npm_downloads_weekly": 218,
-    "npm_score_final": 15.64921,
+    "version": "0.2.0",
+    "published_at": "2026-10-25T13:58:28.655Z",
+    "npm_downloads_monthly": 237,
+    "npm_downloads_weekly": 237,
+    "npm_score_final": 16.039251,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

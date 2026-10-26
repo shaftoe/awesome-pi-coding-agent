@@ -1,0 +1,36 @@
+{
+  "id": "pi-skill-autopilot",
+  "name": "pi-skill-autopilot",
+  "url": "https://www.npmjs.com/package/pi-skill-autopilot",
+  "source": "npm-search",
+  "description": "Plan-aware skill provisioning for pi: after a plan or goal is produced, it predicts which skills each step needs, scores SkillHub store matches, asks you to confirm the batch, installs them, and continues the plan.",
+  "metadata": {
+    "github_url": "https://github.com/chenchenjunren90-collab/pi-skill-autopilot",
+    "npm_name": "pi-skill-autopilot",
+    "description": "Plan-aware skill provisioning for pi: after a plan or goal is produced, it predicts which skills each step needs, scores SkillHub store matches, asks you to confirm the batch, installs them, and continues the plan.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "skills",
+      "agent-skills",
+      "skill-store",
+      "skillhub",
+      "autopilot",
+      "plan",
+      "goal",
+      "auto-install"
+    ],
+    "version": "0.6.3",
+    "published_at": "2026-10-25T12:39:58.790Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -9,7 +9,7 @@
     "repo_full_name": "temporalio/pi-temporal",
     "description": "Temporal executor for the Pi coding agent: kill the worker mid-turn and another machine finishes it.",
     "stars": 15,
-    "forks": 2,
+    "forks": 3,
     "open_issues": 10,
     "topics": [
       "ai-agents",

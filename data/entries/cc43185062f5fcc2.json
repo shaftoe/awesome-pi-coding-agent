@@ -1,0 +1,31 @@
+{
+  "id": "pi-ard",
+  "name": "pi-ard",
+  "url": "https://www.npmjs.com/package/pi-ard",
+  "source": "npm-search",
+  "description": "Agentic Resource Discovery (ARD) for Pi: search any ARD registry, browse catalogs, install skills and add MCP servers after you confirm.",
+  "metadata": {
+    "github_url": "https://github.com/zeroasterisk/pi-ard",
+    "npm_name": "pi-ard",
+    "description": "Agentic Resource Discovery (ARD) for Pi: search any ARD registry, browse catalogs, install skills and add MCP servers after you confirm.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "ard",
+      "agentic-resource-discovery",
+      "ai-catalog",
+      "mcp",
+      "agent-skills"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-10-18T21:34:30.212Z",
+    "npm_downloads_monthly": 433,
+    "npm_downloads_weekly": 433,
+    "npm_score_final": 17.780912,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

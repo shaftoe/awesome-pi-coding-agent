@@ -1,0 +1,25 @@
+{
+  "id": "TheWirelessPhoenix-emberclaw",
+  "name": "TheWirelessPhoenix-emberclaw",
+  "url": "https://github.com/TheWirelessPhoenix/emberclaw",
+  "source": "github-search",
+  "description": "Phoenix-themed, secure agent gateway for pi, Claude Code, Codex, and opencode",
+  "metadata": {
+    "github_url": "https://github.com/TheWirelessPhoenix/emberclaw",
+    "repo_full_name": "TheWirelessPhoenix/emberclaw",
+    "description": "Phoenix-themed, secure agent gateway for pi, Claude Code, Codex, and opencode",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-25T16:10:21Z",
+    "pushed_at": "2026-10-25T16:19:35Z",
+    "updated_at": "2026-10-25T16:19:39Z",
+    "size": 33,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

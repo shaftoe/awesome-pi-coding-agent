@@ -1,0 +1,25 @@
+{
+  "id": "@kcurtet/pi-image-preview",
+  "name": "@kcurtet/pi-image-preview",
+  "url": "https://www.npmjs.com/package/@kcurtet/pi-image-preview",
+  "source": "npm-search",
+  "description": "Hover previews for image paths in the pi coding agent: chips above the editor and in the transcript, kitty/iTerm2 inline rendering, /images viewer",
+  "metadata": {
+    "github_url": "https://github.com/kcurtet/pi-image-preview",
+    "npm_name": "@kcurtet/pi-image-preview",
+    "description": "Hover previews for image paths in the pi coding agent: chips above the editor and in the transcript, kitty/iTerm2 inline rendering, /images viewer",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-18T10:29:40.235Z",
+    "npm_downloads_monthly": 441,
+    "npm_downloads_weekly": 441,
+    "npm_score_final": 17.134209,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

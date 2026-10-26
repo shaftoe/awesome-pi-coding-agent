@@ -1,0 +1,36 @@
+{
+  "id": "@aeondave/pi-persona-mind",
+  "name": "@aeondave/pi-persona-mind",
+  "url": "https://www.npmjs.com/package/@aeondave/pi-persona-mind",
+  "source": "npm-search",
+  "description": "Local memory for Pi with pi-persona — durable project and persona facts, session notes, bounded retrieval, and supervised automatic consolidation.",
+  "metadata": {
+    "github_url": "https://github.com/AeonDave/pi-persona-mind",
+    "npm_name": "@aeondave/pi-persona-mind",
+    "description": "Local memory for Pi with pi-persona — durable project and persona facts, session notes, bounded retrieval, and supervised automatic consolidation.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "pi",
+      "memory",
+      "agent-memory",
+      "persistent-memory",
+      "persona",
+      "long-term-memory",
+      "short-term-memory",
+      "backlog",
+      "pi-persona"
+    ],
+    "version": "0.8.4",
+    "published_at": "2026-10-25T16:30:08.970Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

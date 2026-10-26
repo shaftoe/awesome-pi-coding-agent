@@ -1,0 +1,28 @@
+{
+  "id": "@henryqw/pi-goal",
+  "name": "@henryqw/pi-goal",
+  "url": "https://www.npmjs.com/package/@henryqw/pi-goal",
+  "source": "npm-search",
+  "description": "Persistent Pi goals that continue automatically until completion is proven with evidence.",
+  "metadata": {
+    "github_url": "https://github.com/HenryQW/pi-harness",
+    "npm_name": "@henryqw/pi-goal",
+    "description": "Persistent Pi goals that continue automatically until completion is proven with evidence.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "goal",
+      "autonomous"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-10-25T09:39:43.097Z",
+    "npm_downloads_monthly": 254,
+    "npm_downloads_weekly": 254,
+    "npm_score_final": 15.71546,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

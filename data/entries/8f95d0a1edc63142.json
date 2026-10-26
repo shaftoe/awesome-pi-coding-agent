@@ -1,0 +1,31 @@
+{
+  "id": "sanif-pi-sound-alerts",
+  "name": "sanif-pi-sound-alerts",
+  "url": "https://github.com/sanif/pi-sound-alerts",
+  "source": "github-search",
+  "description": "Sound alerts for Pi: done, question, error, and cancel sounds with original meme-style, arcade, zen, and minimal themes, or your own MP3s.",
+  "metadata": {
+    "github_url": "https://github.com/sanif/pi-sound-alerts",
+    "repo_full_name": "sanif/pi-sound-alerts",
+    "description": "Sound alerts for Pi: done, question, error, and cancel sounds with original meme-style, arcade, zen, and minimal themes, or your own MP3s.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "alerts",
+      "notifications",
+      "pi-extension",
+      "pi-package",
+      "sound"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-25T11:17:27Z",
+    "pushed_at": "2026-10-25T11:46:44Z",
+    "updated_at": "2026-10-25T11:46:45Z",
+    "size": 49,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

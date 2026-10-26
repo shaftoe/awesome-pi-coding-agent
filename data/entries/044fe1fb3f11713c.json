@@ -1,0 +1,25 @@
+{
+  "id": "@pi-spice/collapse-blocks",
+  "name": "@pi-spice/collapse-blocks",
+  "url": "https://www.npmjs.com/package/@pi-spice/collapse-blocks",
+  "source": "npm-search",
+  "description": "Collapse tool rows and thinking blocks into one-line summaries",
+  "metadata": {
+    "github_url": "https://github.com/0x2E/pi-spice",
+    "npm_name": "@pi-spice/collapse-blocks",
+    "description": "Collapse tool rows and thinking blocks into one-line summaries",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-18T07:22:18.983Z",
+    "npm_downloads_monthly": 219,
+    "npm_downloads_weekly": 219,
+    "npm_score_final": 15.776708,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
