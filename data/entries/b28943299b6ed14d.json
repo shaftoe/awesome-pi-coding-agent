@@ -23,15 +23,15 @@
       "accessibility",
       "conversation"
     ],
-    "version": "0.1.8",
-    "published_at": "2026-10-22T00:11:44.372Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.3.0",
+    "published_at": "2026-10-25T21:18:12.675Z",
+    "npm_downloads_monthly": 257,
+    "npm_downloads_weekly": 257,
+    "npm_score_final": 15.43498,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

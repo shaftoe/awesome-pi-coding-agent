@@ -1,0 +1,28 @@
+{
+  "id": "@luxuride-pi/manager-core",
+  "name": "@luxuride-pi/manager-core",
+  "url": "https://www.npmjs.com/package/@luxuride-pi/manager-core",
+  "source": "npm-search",
+  "description": "pi extension: the shared core of the manager-mode extensions (engage command, manager gate, prompt composition, path resolution)",
+  "metadata": {
+    "github_url": "https://github.com/luxuride-pi-extensions/pi-manager-core",
+    "npm_name": "@luxuride-pi/manager-core",
+    "description": "pi extension: the shared core of the manager-mode extensions (engage command, manager gate, prompt composition, path resolution)",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "subagent",
+      "manager"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-18T22:45:01.931Z",
+    "npm_downloads_monthly": 474,
+    "npm_downloads_weekly": 474,
+    "npm_score_final": 17.66009,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

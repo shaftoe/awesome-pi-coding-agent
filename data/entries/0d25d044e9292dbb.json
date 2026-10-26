@@ -10,7 +10,7 @@
     "description": "A local-first, cross-platform Electron desktop workspace for Pi Coding Agent, with sessions, project files, browser tools, skills, plugins, and messaging integrations.",
     "stars": 289,
     "forks": 36,
-    "open_issues": 8,
+    "open_issues": 11,
     "topics": [
       "agentic-ai",
       "ai-agent",

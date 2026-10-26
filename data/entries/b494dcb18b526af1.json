@@ -3,11 +3,11 @@
   "name": "pi-background",
   "url": "https://www.npmjs.com/package/pi-background",
   "source": "npm-search",
-  "description": "Lets pi run long commands in the background and wakes it when they finish, so it never blocks or hangs",
+  "description": "Lets Pi run long commands in the background and wakes it when they finish, so it never blocks or hangs",
   "metadata": {
     "github_url": "https://github.com/pringled/pi-extensions",
     "npm_name": "pi-background",
-    "description": "Lets pi run long commands in the background and wakes it when they finish, so it never blocks or hangs",
+    "description": "Lets Pi run long commands in the background and wakes it when they finish, so it never blocks or hangs",
     "keywords": [
       "pi-package",
       "pi",
@@ -16,15 +16,15 @@
       "jobs",
       "timeout"
     ],
-    "version": "0.2.2",
-    "published_at": "2026-10-23T07:40:56.839Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.3.0",
+    "published_at": "2026-10-25T09:16:26.560Z",
+    "npm_downloads_monthly": 350,
+    "npm_downloads_weekly": 350,
+    "npm_score_final": 17.08149,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

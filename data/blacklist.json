@@ -67603,5 +67603,135 @@
 		"reason": "non-English (Vietnamese)",
 		"blacklisted_at": "2026-10-25T01:24:39.881Z",
 		"source": "manual"
+	},
+	{
+		"url": "https://youtube.com/watch?v=p-zOOzgAqZ4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-26T00:54:08.056Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-bailian-token-plan",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-26T00:54:08.128Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=LfVYY2Plqfo",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-10-26T00:54:08.162Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=KQ5LFiVUqGA",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-26T00:54:08.19Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/GIFO14/Pi-Durable-SRE-Agent",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-26T00:54:08.214Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=G9TKpIoBewQ",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-26T00:54:08.295Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@someok/pi-deepseek-web-tools",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-26T00:54:08.345Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=_N7I-gUh39Y",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-26T00:54:08.353Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/slovx2/litch",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-26T00:54:08.46Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/maverock24/pi-qrspi",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-26T00:54:08.47Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/yisallu/omp-web-galgame",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-26T00:54:08.529Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=uC6slhCTXlA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-26T00:54:08.562Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@lcz007-ai/glm-quota",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-26T00:54:08.617Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
 	}
 ]

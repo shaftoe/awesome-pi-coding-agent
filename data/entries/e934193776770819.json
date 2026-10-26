@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Andy8647/pi-tidy",
     "repo_full_name": "Andy8647/pi-tidy",
     "description": "Claude Code-style tool folding for the pi coding agent — a reply's tool calls collapse to one clickable line",
-    "stars": 16,
+    "stars": 23,
     "forks": 2,
     "open_issues": 0,
     "topics": [
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-07-18T05:59:01Z",
     "pushed_at": "2026-10-24T13:26:56Z",
-    "updated_at": "2026-10-25T00:38:16Z",
+    "updated_at": "2026-10-26T00:50:02Z",
     "size": 4732,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

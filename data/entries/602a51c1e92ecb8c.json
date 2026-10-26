@@ -1,0 +1,31 @@
+{
+  "id": "@momenttttt/pi-context-guard",
+  "name": "@momenttttt/pi-context-guard",
+  "url": "https://www.npmjs.com/package/@momenttttt/pi-context-guard",
+  "source": "npm-search",
+  "description": "Client-side context layers for pi: microcompact placeholders and model-driven history snipping",
+  "metadata": {
+    "github_url": "https://github.com/Momenttttt/pi-extension-suite",
+    "npm_name": "@momenttttt/pi-context-guard",
+    "description": "Client-side context layers for pi: microcompact placeholders and model-driven history snipping",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "context",
+      "compaction",
+      "microcompact",
+      "snip"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-18T09:34:21.529Z",
+    "npm_downloads_monthly": 207,
+    "npm_downloads_weekly": 207,
+    "npm_score_final": 15.058462,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

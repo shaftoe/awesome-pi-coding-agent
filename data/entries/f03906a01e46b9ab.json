@@ -1,0 +1,29 @@
+{
+  "id": "@liucong233333/pi-bettergoal",
+  "name": "@liucong233333/pi-bettergoal",
+  "url": "https://www.npmjs.com/package/@liucong233333/pi-bettergoal",
+  "source": "npm-search",
+  "description": "Enhanced Pi goals with model-selected wait/wake hooks, built on Michaelliv/pi-goal. Conflicts with pi-goal; do not load both.",
+  "metadata": {
+    "github_url": "https://github.com/Liucong-JunZi/pi-bettergoal",
+    "npm_name": "@liucong233333/pi-bettergoal",
+    "description": "Enhanced Pi goals with model-selected wait/wake hooks, built on Michaelliv/pi-goal. Conflicts with pi-goal; do not load both.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "goal",
+      "automation"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-10-18T16:53:09.421Z",
+    "npm_downloads_monthly": 547,
+    "npm_downloads_weekly": 547,
+    "npm_score_final": 17.819141,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

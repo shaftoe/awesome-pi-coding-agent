@@ -10,7 +10,7 @@
     "description": "Runtime constraints for the pi coding agent: checks every side-effecting tool call against what you said, before it runs. Powered by TypeSafe Jev.",
     "stars": 13,
     "forks": 1,
-    "open_issues": 2,
+    "open_issues": 1,
     "topics": [
       "ai-agents",
       "coding-agent",

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/harshil1712/pi-on-cf",
     "repo_full_name": "harshil1712/pi-on-cf",
     "description": "Run Pi Agent on Cloudflare",
-    "stars": 41,
+    "stars": 42,
     "forks": 1,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-07-29T15:40:39Z",
     "pushed_at": "2026-10-17T15:15:40Z",
-    "updated_at": "2026-10-23T19:11:44Z",
+    "updated_at": "2026-10-25T11:21:27Z",
     "size": 980,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
