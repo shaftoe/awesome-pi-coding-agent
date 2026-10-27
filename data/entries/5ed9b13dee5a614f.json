@@ -1,0 +1,32 @@
+{
+  "id": "lprsrts-pi-voice",
+  "name": "lprsrts-pi-voice",
+  "url": "https://github.com/lprsrts/pi-voice",
+  "source": "github-search",
+  "description": "Talk with your coding agent: full-duplex, echo-cancelled voice for Pi on macOS (OpenAI GPT-Live)",
+  "metadata": {
+    "github_url": "https://github.com/lprsrts/pi-voice",
+    "repo_full_name": "lprsrts/pi-voice",
+    "description": "Talk with your coding agent: full-duplex, echo-cancelled voice for Pi on macOS (OpenAI GPT-Live)",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 3,
+    "topics": [
+      "macos",
+      "openai",
+      "pi",
+      "pi-package",
+      "realtime",
+      "voice"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-23T14:56:54Z",
+    "pushed_at": "2026-10-26T20:11:45Z",
+    "updated_at": "2026-10-26T21:32:17Z",
+    "size": 387,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

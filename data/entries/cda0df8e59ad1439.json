@@ -36,11 +36,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-29T05:33:06Z",
-    "pushed_at": "2026-10-25T05:39:37Z",
-    "updated_at": "2026-10-25T05:39:40Z",
-    "size": 48205,
+    "pushed_at": "2026-10-26T14:09:20Z",
+    "updated_at": "2026-10-26T14:09:24Z",
+    "size": 48669,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "category": "extension"
 }

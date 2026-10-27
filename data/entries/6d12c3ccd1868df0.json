@@ -1,0 +1,36 @@
+{
+  "id": "skill-author",
+  "name": "skill-author",
+  "url": "https://www.npmjs.com/package/skill-author",
+  "source": "npm-search",
+  "description": "A meta-skill for creating, validating, and publishing Agent Skills that work across Claude Code, Codex, Pi, OpenCode, GitHub Copilot, and other harnesses.",
+  "metadata": {
+    "github_url": "https://github.com/vijayet1/skill-author",
+    "npm_name": "skill-author",
+    "description": "A meta-skill for creating, validating, and publishing Agent Skills that work across Claude Code, Codex, Pi, OpenCode, GitHub Copilot, and other harnesses.",
+    "keywords": [
+      "skill",
+      "ai",
+      "agent",
+      "claude",
+      "openai",
+      "copilot",
+      "llm",
+      "skills",
+      "pi-package",
+      "pi",
+      "opencode",
+      "agent-skills"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-10-16T22:22:09.781Z",
+    "npm_downloads_monthly": 185,
+    "npm_downloads_weekly": 180,
+    "npm_score_final": 14.347002,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

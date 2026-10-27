@@ -10,7 +10,7 @@
     "description": "Independent Pi Coding Agent packages",
     "stars": 0,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "ai",
       "ai-agents",
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-19T15:18:36Z",
-    "pushed_at": "2026-10-22T12:39:51Z",
-    "updated_at": "2026-10-22T12:38:33Z",
-    "size": 219,
+    "pushed_at": "2026-10-26T09:35:45Z",
+    "updated_at": "2026-10-26T09:33:55Z",
+    "size": 218,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

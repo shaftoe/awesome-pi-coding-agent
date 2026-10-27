@@ -1,0 +1,28 @@
+{
+  "id": "@djoeyg/pi-emoji",
+  "name": "@djoeyg/pi-emoji",
+  "url": "https://www.npmjs.com/package/@djoeyg/pi-emoji",
+  "source": "npm-search",
+  "description": "Slack-style :emoji: and kaomoji completion in the editor, with custom entries",
+  "metadata": {
+    "github_url": "https://github.com/D-Joey-G/pi-extensions",
+    "npm_name": "@djoeyg/pi-emoji",
+    "description": "Slack-style :emoji: and kaomoji completion in the editor, with custom entries",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "emoji",
+      "kaomoji"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-13T13:04:29.257Z",
+    "npm_downloads_monthly": 173,
+    "npm_downloads_weekly": 38,
+    "npm_score_final": 14.47427,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "@2mangoes/pi-shorthand",
+  "name": "@2mangoes/pi-shorthand",
+  "url": "https://www.npmjs.com/package/@2mangoes/pi-shorthand",
+  "source": "npm-search",
+  "description": "Pi tool for editing repositories with Bun programs, with first-class support for TypeScript and JavaScript.",
+  "metadata": {
+    "github_url": "https://github.com/2mangoes/shortsight",
+    "npm_name": "@2mangoes/pi-shorthand",
+    "description": "Pi tool for editing repositories with Bun programs, with first-class support for TypeScript and JavaScript.",
+    "keywords": [
+      "ast-grep",
+      "bun",
+      "code-mode",
+      "overlay",
+      "pi",
+      "pi-extension",
+      "pi-package"
+    ],
+    "version": "0.15.0",
+    "published_at": "2026-10-17T17:25:05.100Z",
+    "npm_downloads_monthly": 177,
+    "npm_downloads_weekly": 177,
+    "npm_score_final": 14.547423,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

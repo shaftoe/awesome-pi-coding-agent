@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Layered, configurable file-access control for pi-coding-agent. Dual region (project_inner / project_outer) x three-tier permissions (read_write / read_only / unread), with session- and persistent-grant memory, audit log, and default-sensitive-path fallbac",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/eliot-ye/permission-guard-pi",
     "npm_name": "permission-guard-pi",
     "description": "Layered, configurable file-access control for pi-coding-agent. Dual region (project_inner / project_outer) x three-tier permissions (read_write / read_only / unread), with session- and persistent-grant memory, audit log, and default-sensitive-path fallbac",
     "keywords": [
@@ -18,8 +18,8 @@
       "safety",
       "audit-log"
     ],
-    "version": "0.1.1",
-    "published_at": "2026-10-23T07:05:36.147Z",
+    "version": "0.2.0",
+    "published_at": "2026-10-26T06:30:16.562Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

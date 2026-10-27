@@ -1,0 +1,28 @@
+{
+  "id": "@ravshansbox/pi-statusline",
+  "name": "@ravshansbox/pi-statusline",
+  "url": "https://www.npmjs.com/package/@ravshansbox/pi-statusline",
+  "source": "npm-search",
+  "description": "Statusline and prompt history extension for pi",
+  "metadata": {
+    "github_url": "https://github.com/ravshansbox/pi-statusline",
+    "npm_name": "@ravshansbox/pi-statusline",
+    "description": "Statusline and prompt history extension for pi",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "statusline",
+      "prompt-history"
+    ],
+    "version": "1.22.0",
+    "published_at": "2026-10-26T09:19:21.458Z",
+    "npm_downloads_monthly": 6303,
+    "npm_downloads_weekly": 6303,
+    "npm_score_final": 25.469284,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
