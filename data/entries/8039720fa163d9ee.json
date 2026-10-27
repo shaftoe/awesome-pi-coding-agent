@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_blog.invidelabs.com_pi-coding-agent-local-models",
+  "name": "Pi coding agent 1.0 with local models and Pi Durable",
+  "url": "https://blog.invidelabs.com/pi-coding-agent-local-models/",
+  "source": "brave-web-search",
+  "description": "Pi 1.0 includes MCP through Codemode. Read how the Pi coding agent works with local models, what its packages do, and when experimental Pi Durable fits.",
+  "metadata": {
+    "title": "Pi coding agent 1.0 with local models and Pi Durable",
+    "name": "Pi coding agent 1.0 with local models and Pi Durable",
+    "description": "Pi 1.0 includes MCP through Codemode. Read how the Pi coding agent works with local models, what its packages do, and when experimental Pi Durable fits.",
+    "published_at": "2026-10-02T07:42:02",
+    "source_site": "Invidelabs",
+    "source_url": "https://blog.invidelabs.com/pi-coding-agent-local-models/",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

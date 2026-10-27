@@ -1,0 +1,33 @@
+{
+  "id": "gentle-emote",
+  "name": "gentle-emote",
+  "url": "https://www.npmjs.com/package/gentle-emote",
+  "source": "npm-search",
+  "description": "Pixel-art Gentleman avatar that lives beside the Pi / Gentle Shell prompt and acts out what the agent is doing. Uses no tokens.",
+  "metadata": {
+    "github_url": "https://github.com/efolchmontiel/gentle-emote",
+    "npm_name": "gentle-emote",
+    "description": "Pixel-art Gentleman avatar that lives beside the Pi / Gentle Shell prompt and acts out what the agent is doing. Uses no tokens.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "gentle-shell",
+      "pixel-art",
+      "emote",
+      "avatar",
+      "tui"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-10-26T22:10:58.554Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "misc"
+}

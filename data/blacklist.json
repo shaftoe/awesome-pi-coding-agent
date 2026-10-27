@@ -67733,5 +67733,125 @@
 			"sourceName": "npm",
 			"query": "npm:keywords:pi-package"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=AWxt9uxRTT0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-27T01:45:24.188Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/dsh-isolation-gate",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-27T01:45:24.46Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=4OUG-sJoa4A",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-10-27T01:45:24.58Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=952oGTWc83s",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-27T01:45:24.667Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=mHM_7pkPx3Y",
+		"reason": "pop culture pi signal: \"life of pi\"",
+		"blacklisted_at": "2026-10-27T01:45:24.958Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pitayax",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-27T01:45:25.015Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.raspberrypi.com/documentation//computers/os.html",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-10-27T01:45:25.045Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=DoL5CVPhEPM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-27T01:45:25.141Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://piagent.fyi/guides/themes-and-color/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-27T01:45:25.237Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=52JX83rGPLc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-27T01:45:25.268Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/Saaaru/solvitu-gentle-shell",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-27T01:45:25.299Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/philvernon/pi-packages",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-10-27T01:45:25.383Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
 	}
 ]

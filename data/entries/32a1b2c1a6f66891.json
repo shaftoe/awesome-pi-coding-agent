@@ -8,7 +8,7 @@
     "github_url": "https://github.com/crystoll/anvil",
     "repo_full_name": "crystoll/anvil",
     "description": "Agent harness experiment - because most others suck (Except Pi.dev)",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-11T15:26:56Z",
     "pushed_at": "2026-10-15T16:44:11Z",
-    "updated_at": "2026-10-15T16:44:15Z",
+    "updated_at": "2026-10-26T08:24:40Z",
     "size": 1439,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

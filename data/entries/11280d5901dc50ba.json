@@ -1,0 +1,30 @@
+{
+  "id": "@lowrouter/pi-provider",
+  "name": "@lowrouter/pi-provider",
+  "url": "https://www.npmjs.com/package/@lowrouter/pi-provider",
+  "source": "npm-search",
+  "description": "LowRouter provider for Pi: EU-run, carbon-aware model router behind one OpenAI-compatible API.",
+  "metadata": {
+    "github_url": "https://github.com/carboniferio/pi-lowrouter-provider",
+    "npm_name": "@lowrouter/pi-provider",
+    "description": "LowRouter provider for Pi: EU-run, carbon-aware model router behind one OpenAI-compatible API.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-provider",
+      "lowrouter",
+      "llm",
+      "provider"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-10-26T10:11:56.408Z",
+    "npm_downloads_monthly": 176,
+    "npm_downloads_weekly": 176,
+    "npm_score_final": 15.651136,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

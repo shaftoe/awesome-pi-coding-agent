@@ -16,15 +16,15 @@
       "jobs",
       "timeout"
     ],
-    "version": "0.3.0",
-    "published_at": "2026-10-25T09:16:26.560Z",
-    "npm_downloads_monthly": 350,
-    "npm_downloads_weekly": 350,
-    "npm_score_final": 17.08149,
+    "version": "0.3.1",
+    "published_at": "2026-10-26T17:29:07.891Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "category": "extension"
 }

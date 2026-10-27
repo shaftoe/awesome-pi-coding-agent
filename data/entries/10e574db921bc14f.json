@@ -9,8 +9,8 @@
     "repo_full_name": "ruvnet/metaharness",
     "description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
     "stars": 716,
-    "forks": 88,
-    "open_issues": 184,
+    "forks": 89,
+    "open_issues": 188,
     "topics": [
       "agent-harness",
       "agent-harness-generator",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-13T18:29:11Z",
-    "pushed_at": "2026-10-25T08:32:58Z",
+    "pushed_at": "2026-10-27T00:43:52Z",
     "updated_at": "2026-10-25T20:12:01Z",
-    "size": 57756,
+    "size": 58052,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
