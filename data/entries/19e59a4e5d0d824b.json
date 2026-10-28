@@ -10,7 +10,7 @@
     "description": "Self-hosted management for your coding agents. ",
     "stars": 5,
     "forks": 3,
-    "open_issues": 5,
+    "open_issues": 9,
     "topics": [
       "agent-orchestration",
       "agent-skills",

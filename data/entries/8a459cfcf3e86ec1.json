@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_sourceforge.net_download",
+  "name": "Download pi-windows-arm64.zip (Pi Agent)",
+  "url": "https://sourceforge.net/projects/pi-agent.mirror/files/v1.4.0/pi-windows-arm64.zip/download",
+  "source": "brave-web-search",
+  "description": "Download Pi Agent pi-windows-arm64.zip. AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI",
+  "metadata": {
+    "title": "Download pi-windows-arm64.zip (Pi Agent)",
+    "name": "Download pi-windows-arm64.zip (Pi Agent)",
+    "description": "Download Pi Agent pi-windows-arm64.zip. AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI",
+    "published_at": "2026-10-22T10:53:01",
+    "source_site": "SourceForge",
+    "source_url": "https://sourceforge.net/projects/pi-agent.mirror/files/v1.4.0/pi-windows-arm64.zip/download",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

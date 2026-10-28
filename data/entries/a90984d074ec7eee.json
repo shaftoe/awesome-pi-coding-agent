@@ -1,0 +1,25 @@
+{
+  "id": "giovannipapini-gipi",
+  "name": "giovannipapini-gipi",
+  "url": "https://github.com/giovannipapini/gipi",
+  "source": "github-search",
+  "description": "pi extensions, themes, and Herdr plugins",
+  "metadata": {
+    "github_url": "https://github.com/giovannipapini/gipi",
+    "repo_full_name": "giovannipapini/gipi",
+    "description": "pi extensions, themes, and Herdr plugins",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-04T21:45:18Z",
+    "pushed_at": "2026-10-27T15:18:01Z",
+    "updated_at": "2026-10-27T15:18:05Z",
+    "size": 350,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "See where your Pi tokens and cost went: local session analytics for models, tools, subagents, skills, integrations, and history.",
     "stars": 5,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "ai-agents",
       "coding-agent",
@@ -32,9 +32,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-07T11:13:45Z",
-    "pushed_at": "2026-10-26T21:24:13Z",
-    "updated_at": "2026-10-15T22:36:56Z",
-    "size": 4246,
+    "pushed_at": "2026-10-27T20:44:10Z",
+    "updated_at": "2026-10-27T20:34:51Z",
+    "size": 3996,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

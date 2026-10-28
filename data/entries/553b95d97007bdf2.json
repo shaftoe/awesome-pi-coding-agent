@@ -1,0 +1,33 @@
+{
+  "id": "@sema-lang/pi-sema",
+  "name": "@sema-lang/pi-sema",
+  "url": "https://www.npmjs.com/package/@sema-lang/pi-sema",
+  "source": "npm-search",
+  "description": "Self-extending Sema toolkit for the Pi coding agent — MCP bridge, tool forging (the agent builds its own tools), and journaled workflows with live TUI status.",
+  "metadata": {
+    "github_url": "https://github.com/sema-lisp/pi-sema",
+    "npm_name": "@sema-lang/pi-sema",
+    "description": "Self-extending Sema toolkit for the Pi coding agent — MCP bridge, tool forging (the agent builds its own tools), and journaled workflows with live TUI status.",
+    "keywords": [
+      "sema",
+      "lisp",
+      "llm",
+      "scheme",
+      "s-expression",
+      "ai",
+      "pi",
+      "pi-extension",
+      "pi-package"
+    ],
+    "version": "0.2.2",
+    "published_at": "2026-10-22T03:45:56.222Z",
+    "npm_downloads_monthly": 127,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 14.646181,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

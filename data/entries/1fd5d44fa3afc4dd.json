@@ -1,0 +1,25 @@
+{
+  "id": "@netzlabor/pi-session-memory",
+  "name": "@netzlabor/pi-session-memory",
+  "url": "https://www.npmjs.com/package/@netzlabor/pi-session-memory",
+  "source": "npm-search",
+  "description": "Pi extension that gives the agent access to knowledge from previous sessions – auto-injected project memory, full-text search, LLM-generated summaries, and cross-project session access.",
+  "metadata": {
+    "github_url": "https://github.com/j-koester/pi-session-memory",
+    "npm_name": "@netzlabor/pi-session-memory",
+    "description": "Pi extension that gives the agent access to knowledge from previous sessions – auto-injected project memory, full-text search, LLM-generated summaries, and cross-project session access.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-03T12:28:45.757Z",
+    "npm_downloads_monthly": 138,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 14.933821,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

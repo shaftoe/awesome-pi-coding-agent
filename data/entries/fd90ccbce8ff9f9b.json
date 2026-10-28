@@ -10,7 +10,7 @@
     "description": "Temporal executor for the Pi coding agent: kill the worker mid-turn and another machine finishes it.",
     "stars": 15,
     "forks": 3,
-    "open_issues": 10,
+    "open_issues": 12,
     "topics": [
       "ai-agents",
       "coding-agent",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-18T23:57:41Z",
-    "pushed_at": "2026-10-20T18:24:58Z",
+    "pushed_at": "2026-10-27T18:25:01Z",
     "updated_at": "2026-10-22T21:01:44Z",
-    "size": 774,
+    "size": 782,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
