@@ -1,0 +1,25 @@
+{
+  "id": "taeold-coding-agents-on-substrate",
+  "name": "taeold-coding-agents-on-substrate",
+  "url": "https://github.com/taeold/coding-agents-on-substrate",
+  "source": "github-search",
+  "description": "Durable AI Coding Agent using @earendil-works/pi-durable on Agent Substrate (GKE / kind)",
+  "metadata": {
+    "github_url": "https://github.com/taeold/coding-agents-on-substrate",
+    "repo_full_name": "taeold/coding-agents-on-substrate",
+    "description": "Durable AI Coding Agent using @earendil-works/pi-durable on Agent Substrate (GKE / kind)",
+    "stars": 13,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-06T21:29:18Z",
+    "pushed_at": "2026-10-27T17:14:03Z",
+    "updated_at": "2026-10-27T17:14:07Z",
+    "size": 132,
+    "license": null,
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

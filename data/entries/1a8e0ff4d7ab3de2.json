@@ -1,0 +1,40 @@
+{
+  "id": "liao96312-teleagent-proxy",
+  "name": "liao96312-teleagent-proxy",
+  "url": "https://github.com/liao96312/teleagent-proxy",
+  "source": "github-search",
+  "description": "TeleAgent model reverse proxy -> local OpenAI-compatible endpoint (research)",
+  "metadata": {
+    "github_url": "https://github.com/liao96312/teleagent-proxy",
+    "repo_full_name": "liao96312/teleagent-proxy",
+    "description": "TeleAgent model reverse proxy -> local OpenAI-compatible endpoint (research)",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [
+      "api-proxy",
+      "go",
+      "hmac-sha256",
+      "llm",
+      "llm-proxy",
+      "mcp",
+      "nodejs",
+      "openai-compatible",
+      "pi-coding-agent",
+      "protocol-analysis",
+      "python",
+      "reverse-engineering",
+      "teleagent",
+      "windows"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-12T01:05:33Z",
+    "pushed_at": "2026-10-13T04:40:04Z",
+    "updated_at": "2026-10-27T03:35:45Z",
+    "size": 1952,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

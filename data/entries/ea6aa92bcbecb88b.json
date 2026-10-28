@@ -9,7 +9,7 @@
     "repo_full_name": "robiteame/dsh-session-tree-extension",
     "description": "dsh-session-tree-extension Append-only, multi-branch conversation trees for DeepSeek-Harness — a PI-Agent-style SessionTree. The agent's history becomes a tree of immutable nodes, forkable at any historical node, with standard LLM message reconstruction, versioned JSON snapshots, and a WebUI tree panel embedded in the existing chat composer (no sta",
     "stars": 20,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 1,
     "topics": [
       "dsh-plugin"

@@ -1,0 +1,25 @@
+{
+  "id": "@samuelho-dev/coordinator",
+  "name": "@samuelho-dev/coordinator",
+  "url": "https://www.npmjs.com/package/@samuelho-dev/coordinator",
+  "source": "npm-search",
+  "description": "Read-only native agent session inspection across self-hosted machines",
+  "metadata": {
+    "github_url": "https://github.com/samuelho-dev/coordinator",
+    "npm_name": "@samuelho-dev/coordinator",
+    "description": "Read-only native agent session inspection across self-hosted machines",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.3.0-beta.1",
+    "published_at": "2026-10-23T18:24:22.180Z",
+    "npm_downloads_monthly": 984,
+    "npm_downloads_weekly": 984,
+    "npm_score_final": 21.797577,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

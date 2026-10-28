@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Pi-native UES coding-agent runtime with V16 deterministic correctness gates, durable evidence integrity, external-data provenance, Windows-safe cleanup, and measured cost-aware routing",
   "metadata": {
-    "github_url": "https://github.com/laivannha0202/opencode-agent-skill-",
+    "github_url": "https://github.com/laivannha0202/pi-agent-skill-",
     "npm_name": "opencode-agent-skill",
     "description": "Pi-native UES coding-agent runtime with V16 deterministic correctness gates, durable evidence integrity, external-data provenance, Windows-safe cleanup, and measured cost-aware routing",
     "keywords": [
@@ -20,11 +20,11 @@
       "verification",
       "multimodal-agents"
     ],
-    "version": "16.16.0",
-    "published_at": "2026-10-09T02:55:48.612Z",
-    "npm_downloads_monthly": 8809,
-    "npm_downloads_weekly": 476,
-    "npm_score_final": 26.52743,
+    "version": "16.19.0",
+    "published_at": "2026-10-28T01:55:24.845Z",
+    "npm_downloads_monthly": 7472,
+    "npm_downloads_weekly": 368,
+    "npm_score_final": 27.520924,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

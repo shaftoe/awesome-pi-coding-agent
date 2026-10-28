@@ -1,0 +1,30 @@
+{
+  "id": "@thruwire/foreman-pi",
+  "name": "@thruwire/foreman-pi",
+  "url": "https://www.npmjs.com/package/@thruwire/foreman-pi",
+  "source": "npm-search",
+  "description": "Pi and Pi Durable bridges to Foreman's attached-worker supervisor",
+  "metadata": {
+    "github_url": "https://github.com/thruwire/foreman",
+    "npm_name": "@thruwire/foreman-pi",
+    "description": "Pi and Pi Durable bridges to Foreman's attached-worker supervisor",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-durable",
+      "foreman",
+      "supervision",
+      "jev"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-07T01:15:52.086Z",
+    "npm_downloads_monthly": 137,
+    "npm_downloads_weekly": 7,
+    "npm_score_final": 14.900276,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

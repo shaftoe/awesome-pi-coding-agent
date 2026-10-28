@@ -10,7 +10,7 @@
     "description": "Open-source transportation AI agent harness powered by Pi, with GIS, agent skills, tool execution, traffic data analysis, and an interactive desktop workspace.",
     "stars": 7,
     "forks": 3,
-    "open_issues": 6,
+    "open_issues": 1,
     "topics": [
       "agent-harness",
       "agent-skills",

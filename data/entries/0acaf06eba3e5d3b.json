@@ -3,11 +3,11 @@
   "name": "pi-context-bar",
   "url": "https://www.npmjs.com/package/pi-context-bar",
   "source": "npm-search",
-  "description": "A one-line pi footer with the model, git branch, a context bar and the session cost",
+  "description": "A one-line Pi footer with the model, git branch, a context bar and the session cost",
   "metadata": {
     "github_url": "https://github.com/pringled/pi-extensions",
     "npm_name": "pi-context-bar",
-    "description": "A one-line pi footer with the model, git branch, a context bar and the session cost",
+    "description": "A one-line Pi footer with the model, git branch, a context bar and the session cost",
     "keywords": [
       "pi-package",
       "pi",
@@ -16,8 +16,8 @@
       "footer",
       "context"
     ],
-    "version": "0.1.0",
-    "published_at": "2026-10-21T15:16:09.117Z",
+    "version": "0.1.1",
+    "published_at": "2026-10-27T05:59:12.897Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

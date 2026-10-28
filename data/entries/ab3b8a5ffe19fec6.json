@@ -1,0 +1,32 @@
+{
+  "id": "@difyz/pi-wecom-knowledge",
+  "name": "@difyz/pi-wecom-knowledge",
+  "url": "https://www.npmjs.com/package/@difyz/pi-wecom-knowledge",
+  "source": "npm-search",
+  "description": "Independent Pi knowledge extension with per-user library access, model allowlists, bounded retrieval, and validated citations.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@difyz/pi-wecom-knowledge",
+    "description": "Independent Pi knowledge extension with per-user library access, model allowlists, bounded retrieval, and validated citations.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "wecom",
+      "knowledge-base",
+      "rag",
+      "question-answering",
+      "citations"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-10-28T00:59:57.432Z",
+    "npm_downloads_monthly": 183,
+    "npm_downloads_weekly": 183,
+    "npm_score_final": 15.9046135,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

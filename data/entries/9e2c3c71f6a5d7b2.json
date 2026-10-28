@@ -1,0 +1,25 @@
+{
+  "id": "sylvainHellin-agent-setup",
+  "name": "sylvainHellin-agent-setup",
+  "url": "https://github.com/sylvainHellin/agent-setup",
+  "source": "github-search",
+  "description": "Blueprint of a pi coding-agent setup: extensions, generic skills, prompts, an HTML report template with a TUM theme",
+  "metadata": {
+    "github_url": "https://github.com/sylvainHellin/agent-setup",
+    "repo_full_name": "sylvainHellin/agent-setup",
+    "description": "Blueprint of a pi coding-agent setup: extensions, generic skills, prompts, an HTML report template with a TUM theme",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-27T19:12:20Z",
+    "pushed_at": "2026-10-27T19:12:27Z",
+    "updated_at": "2026-10-27T19:32:13Z",
+    "size": 1704,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

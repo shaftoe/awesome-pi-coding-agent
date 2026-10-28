@@ -10,7 +10,7 @@
     "description": "Use Claude Code subscription as LLM provider for Pi without breaking Anthropic ToS.",
     "stars": 36,
     "forks": 4,
-    "open_issues": 0,
+    "open_issues": 2,
     "topics": [
       "anthropic-claude",
       "claude-code",
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-23T02:11:42Z",
-    "pushed_at": "2026-10-24T18:55:37Z",
+    "pushed_at": "2026-10-27T16:24:00Z",
     "updated_at": "2026-10-25T20:26:50Z",
-    "size": 274,
+    "size": 320,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
