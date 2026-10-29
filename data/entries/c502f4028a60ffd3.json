@@ -1,0 +1,29 @@
+{
+  "id": "@metimer/ultramarine",
+  "name": "@metimer/ultramarine",
+  "url": "https://www.npmjs.com/package/@metimer/ultramarine",
+  "source": "npm-search",
+  "description": "Ultramarine: bounded optimization experiments for Pi, with a Rust engine and portable research skills",
+  "metadata": {
+    "github_url": "https://github.com/Metimer/autoresearch-toolkit",
+    "npm_name": "@metimer/ultramarine",
+    "description": "Ultramarine: bounded optimization experiments for Pi, with a Rust engine and portable research skills",
+    "keywords": [
+      "pi-package",
+      "ultramarine",
+      "autoresearch",
+      "optimization",
+      "benchmark"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-09-29T17:07:17.639Z",
+    "npm_downloads_monthly": 141,
+    "npm_downloads_weekly": 5,
+    "npm_score_final": 14.293341,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

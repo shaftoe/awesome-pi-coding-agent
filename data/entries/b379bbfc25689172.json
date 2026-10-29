@@ -1,0 +1,25 @@
+{
+  "id": "@comchatx/cx-assistant",
+  "name": "@comchatx/cx-assistant",
+  "url": "https://www.npmjs.com/package/@comchatx/cx-assistant",
+  "source": "npm-search",
+  "description": "Sets up cx as your assistant.",
+  "metadata": {
+    "github_url": "https://github.com/comchatx/cx-assistant",
+    "npm_name": "@comchatx/cx-assistant",
+    "description": "Sets up cx as your assistant.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-10-28T02:25:13.739Z",
+    "npm_downloads_monthly": 265,
+    "npm_downloads_weekly": 265,
+    "npm_score_final": 17.099646,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

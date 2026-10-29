@@ -1,0 +1,37 @@
+{
+  "id": "@khaentertainment/pi-greenlight",
+  "name": "@khaentertainment/pi-greenlight",
+  "url": "https://www.npmjs.com/package/@khaentertainment/pi-greenlight",
+  "source": "npm-search",
+  "description": "Greenlight: System One classifiers (TypeSafe Jev and others, via TypeSafe, OpenRouter, Cloudflare and more) as a decision layer for Pi: judges mutating tool calls before they run, reads tool output for secrets and failure class after, escalates flagged ca",
+  "metadata": {
+    "github_url": "https://github.com/KHAEntertainment/greenlight",
+    "npm_name": "@khaentertainment/pi-greenlight",
+    "description": "Greenlight: System One classifiers (TypeSafe Jev and others, via TypeSafe, OpenRouter, Cloudflare and more) as a decision layer for Pi: judges mutating tool calls before they run, reads tool output for secrets and failure class after, escalates flagged ca",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "greenlight",
+      "typesafe",
+      "jev",
+      "system-one",
+      "openrouter",
+      "cloudflare",
+      "guardrails",
+      "classification",
+      "orchestration",
+      "a2a",
+      "traycer"
+    ],
+    "version": "0.5.2",
+    "published_at": "2026-10-28T21:49:23.775Z",
+    "npm_downloads_monthly": 477,
+    "npm_downloads_weekly": 477,
+    "npm_score_final": 18.910414,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

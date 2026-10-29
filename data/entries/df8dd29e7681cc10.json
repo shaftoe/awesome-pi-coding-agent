@@ -8,7 +8,7 @@
     "github_url": "https://github.com/rivet-dev/agents",
     "repo_full_name": "rivet-dev/agents",
     "description": "A durable process per agent, with memory that survives restarts",
-    "stars": 1612,
+    "stars": 1614,
     "forks": 135,
     "open_issues": 85,
     "topics": [
@@ -30,7 +30,7 @@
     "archived": false,
     "created_at": "2026-01-25T10:03:02Z",
     "pushed_at": "2026-10-27T08:38:15Z",
-    "updated_at": "2026-10-27T09:13:11Z",
+    "updated_at": "2026-10-28T13:31:00Z",
     "size": 68675,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,27 @@
+{
+  "id": "@1aboveio/app-dev-skills",
+  "name": "@1aboveio/app-dev-skills",
+  "url": "https://www.npmjs.com/package/@1aboveio/app-dev-skills",
+  "source": "npm-search",
+  "description": "Next.js, React Native, auth, Prisma, shadcn, Python backends, Airflow and PySpark.",
+  "metadata": {
+    "github_url": "https://github.com/1aboveio/ai",
+    "npm_name": "@1aboveio/app-dev-skills",
+    "description": "Next.js, React Native, auth, Prisma, shadcn, Python backends, Airflow and PySpark.",
+    "keywords": [
+      "pi-package",
+      "agent-skills",
+      "skills"
+    ],
+    "version": "0.1.11",
+    "published_at": "2026-10-29T01:22:49.189Z",
+    "npm_downloads_monthly": 1383,
+    "npm_downloads_weekly": 1383,
+    "npm_score_final": 21.775454,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

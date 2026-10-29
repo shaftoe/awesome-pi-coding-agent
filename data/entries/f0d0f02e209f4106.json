@@ -1,0 +1,29 @@
+{
+  "id": "@pedro_klein/pi-ssh-session",
+  "name": "@pedro_klein/pi-ssh-session",
+  "url": "https://www.npmjs.com/package/@pedro_klein/pi-ssh-session",
+  "source": "npm-search",
+  "description": "Approved commands and file transfers over persistent named SSH shells for Pi",
+  "metadata": {
+    "github_url": "https://github.com/PedroKlein/pi-extensions",
+    "npm_name": "@pedro_klein/pi-ssh-session",
+    "description": "Approved commands and file transfers over persistent named SSH shells for Pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "ssh",
+      "remote",
+      "session"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-05T14:55:34.338Z",
+    "npm_downloads_monthly": 133,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 14.539078,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

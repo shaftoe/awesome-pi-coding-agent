@@ -8,8 +8,8 @@
     "github_url": "https://github.com/vercel-labs/durable-harness",
     "repo_full_name": "vercel-labs/durable-harness",
     "description": "Durable coding-agent harnesses (Claude Code, Codex, OpenCode, Pi, fx) on a Workflow SDK World",
-    "stars": 258,
-    "forks": 12,
+    "stars": 266,
+    "forks": 14,
     "open_issues": 7,
     "topics": [
       "agents",
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-10-16T04:54:47Z",
     "pushed_at": "2026-10-23T15:24:06Z",
-    "updated_at": "2026-10-28T01:46:55Z",
+    "updated_at": "2026-10-28T22:44:18Z",
     "size": 2764,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,32 @@
+{
+  "id": "@vicary/pi-subagents",
+  "name": "@vicary/pi-subagents",
+  "url": "https://www.npmjs.com/package/@vicary/pi-subagents",
+  "source": "npm-search",
+  "description": "Pi extension for single-agent delegation and scripted multi-agent workflows",
+  "metadata": {
+    "github_url": "https://github.com/vicary/pi-subagents",
+    "npm_name": "@vicary/pi-subagents",
+    "description": "Pi extension for single-agent delegation and scripted multi-agent workflows",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "subagents",
+      "ai",
+      "agents",
+      "cli"
+    ],
+    "version": "0.83.1",
+    "published_at": "2026-10-28T09:39:46.124Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

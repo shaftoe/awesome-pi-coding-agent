@@ -1,0 +1,33 @@
+{
+  "id": "@apothic-ai/pi-ghost-text-x",
+  "name": "@apothic-ai/pi-ghost-text-x",
+  "url": "https://www.npmjs.com/package/@apothic-ai/pi-ghost-text-x",
+  "source": "npm-search",
+  "description": "Ghost-text prompt suggestions (inline autocomplete + next-prompt) for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Apothic-AI/pi-ghost-text-x",
+    "npm_name": "@apothic-ai/pi-ghost-text-x",
+    "description": "Ghost-text prompt suggestions (inline autocomplete + next-prompt) for the pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "prompt-suggestions",
+      "prompt",
+      "suggestions",
+      "ghost-text",
+      "autocomplete"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-10-28T18:02:05.304Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

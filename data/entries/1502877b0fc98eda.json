@@ -1,0 +1,31 @@
+{
+  "id": "@blackbelt-technology/pi-dashboard-music-production",
+  "name": "@blackbelt-technology/pi-dashboard-music-production",
+  "url": "https://www.npmjs.com/package/@blackbelt-technology/pi-dashboard-music-production",
+  "source": "npm-search",
+  "description": "Music-production pi skills: analyse a local audio file into a versioned music map (tempo, downbeat cut grid, key, sections, drops, stems), cut it to length on the beat grid with scored click-free joins, and pick irregular camera-punch hits for a beat-sync",
+  "metadata": {
+    "github_url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard",
+    "npm_name": "@blackbelt-technology/pi-dashboard-music-production",
+    "description": "Music-production pi skills: analyse a local audio file into a versioned music map (tempo, downbeat cut grid, key, sections, drops, stems), cut it to length on the beat grid with scored click-free joins, and pick irregular camera-punch hits for a beat-sync",
+    "keywords": [
+      "pi-package",
+      "pi-skill",
+      "music",
+      "beat-grid",
+      "librosa",
+      "video-editing",
+      "showreel"
+    ],
+    "version": "0.11.0",
+    "published_at": "2026-10-26T11:15:29.596Z",
+    "npm_downloads_monthly": 140,
+    "npm_downloads_weekly": 14,
+    "npm_score_final": 14.71357,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

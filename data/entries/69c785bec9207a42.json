@@ -1,0 +1,29 @@
+{
+  "id": "@tryglen/pi",
+  "name": "@tryglen/pi",
+  "url": "https://www.npmjs.com/package/@tryglen/pi",
+  "source": "npm-search",
+  "description": "Shared team memory for coding agents: automatic recall and capture on every turn via the glen CLI.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@tryglen/pi",
+    "description": "Shared team memory for coding agents: automatic recall and capture on every turn via the glen CLI.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "memory",
+      "team",
+      "context"
+    ],
+    "version": "0.6.10",
+    "published_at": "2026-10-28T04:23:44.098Z",
+    "npm_downloads_monthly": 557,
+    "npm_downloads_weekly": 526,
+    "npm_score_final": 18.799896,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

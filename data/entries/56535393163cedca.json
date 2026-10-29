@@ -1,0 +1,35 @@
+{
+  "id": "sunflowerfa-pi-claude-peers",
+  "name": "sunflowerfa-pi-claude-peers",
+  "url": "https://github.com/sunflowerfa/pi-claude-peers",
+  "source": "github-search",
+  "description": "Two-way messaging between pi and Claude Code sessions on the same machine — appear in each other's session lists and exchange messages over Claude Code's cross-session socket protocol.",
+  "metadata": {
+    "github_url": "https://github.com/sunflowerfa/pi-claude-peers",
+    "repo_full_name": "sunflowerfa/pi-claude-peers",
+    "description": "Two-way messaging between pi and Claude Code sessions on the same machine — appear in each other's session lists and exchange messages over Claude Code's cross-session socket protocol.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-to-agent",
+      "claude-code",
+      "coding-agent",
+      "inter-process-communication",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "typescript",
+      "unix-socket"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-07T15:39:12Z",
+    "pushed_at": "2026-09-07T15:57:26Z",
+    "updated_at": "2026-10-28T08:35:19Z",
+    "size": 25,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}
