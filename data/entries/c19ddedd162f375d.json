@@ -1,0 +1,30 @@
+{
+  "id": "@parcha/pi-git-remote",
+  "name": "@parcha/pi-git-remote",
+  "url": "https://www.npmjs.com/package/@parcha/pi-git-remote",
+  "source": "npm-search",
+  "description": "A git repository a host keeps for its agent: commits through plumbing, no repository hook, filter or driver ever runs, and the credential stays in the host's memory.",
+  "metadata": {
+    "github_url": "https://github.com/Parcha-ai/agentrun",
+    "npm_name": "@parcha/pi-git-remote",
+    "description": "A git repository a host keeps for its agent: commits through plumbing, no repository hook, filter or driver ever runs, and the credential stays in the host's memory.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "git",
+      "agent",
+      "plumbing",
+      "credentials"
+    ],
+    "version": "0.1.0-beta.28",
+    "published_at": "2026-10-28T07:29:33.499Z",
+    "npm_downloads_monthly": 569,
+    "npm_downloads_weekly": 569,
+    "npm_score_final": 18.927927,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

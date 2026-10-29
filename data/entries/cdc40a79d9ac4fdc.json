@@ -5,17 +5,17 @@
   "source": "npm-search",
   "description": "Names your conversations and retrieves the messages you quote.",
   "metadata": {
-    "github_url": "https://github.com/HS-Jack-YZY/ComChatX",
+    "github_url": "https://github.com/comchatx/cx-topics",
     "npm_name": "@comchatx/cx-topics",
     "description": "Names your conversations and retrieves the messages you quote.",
     "keywords": [
       "pi-package"
     ],
-    "version": "0.1.2",
-    "published_at": "2026-10-26T03:10:36.281Z",
-    "npm_downloads_monthly": 198,
-    "npm_downloads_weekly": 198,
-    "npm_score_final": 14.599534,
+    "version": "0.1.3",
+    "published_at": "2026-10-28T02:25:26.508Z",
+    "npm_downloads_monthly": 367,
+    "npm_downloads_weekly": 367,
+    "npm_score_final": 17.466406,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

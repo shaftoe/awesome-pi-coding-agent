@@ -1,0 +1,27 @@
+{
+  "id": "@1aboveio/cicd-skills",
+  "name": "@1aboveio/cicd-skills",
+  "url": "https://www.npmjs.com/package/@1aboveio/cicd-skills",
+  "source": "npm-search",
+  "description": "GitHub Actions and flow, Mergify, Docker and Podman, Cloud Build, Cloud Deploy and Google Cloud.",
+  "metadata": {
+    "github_url": "https://github.com/1aboveio/ai",
+    "npm_name": "@1aboveio/cicd-skills",
+    "description": "GitHub Actions and flow, Mergify, Docker and Podman, Cloud Build, Cloud Deploy and Google Cloud.",
+    "keywords": [
+      "pi-package",
+      "agent-skills",
+      "skills"
+    ],
+    "version": "0.1.11",
+    "published_at": "2026-10-29T01:22:41.033Z",
+    "npm_downloads_monthly": 1386,
+    "npm_downloads_weekly": 1386,
+    "npm_score_final": 21.835197,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

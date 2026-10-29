@@ -8,7 +8,7 @@
     "github_url": "https://github.com/nebulaedata/dr-octopus",
     "repo_full_name": "nebulaedata/dr-octopus",
     "description": "A local-first AI agent workspace powered by Pi, combining persistent memory, knowledge bases, and task automation through web and terminal interfaces.",
-    "stars": 7,
+    "stars": 8,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-04-30T00:59:09Z",
     "pushed_at": "2026-10-26T06:45:21Z",
-    "updated_at": "2026-10-27T05:57:16Z",
+    "updated_at": "2026-10-28T07:05:48Z",
     "size": 27790,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

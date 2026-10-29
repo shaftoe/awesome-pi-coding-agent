@@ -9,8 +9,8 @@
     "repo_full_name": "ayagmar/llm-usage-metrics",
     "description": "Token and cost reports for 17 AI coding agents (Claude Code, Codex, Gemini CLI, OpenCode, Copilot, pi and more), read from local session logs across all your machines",
     "stars": 35,
-    "forks": 4,
-    "open_issues": 4,
+    "forks": 5,
+    "open_issues": 6,
     "topics": [
       "ai",
       "ai-coding",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-02-16T21:24:13Z",
-    "pushed_at": "2026-10-24T18:28:49Z",
+    "pushed_at": "2026-10-28T18:06:28Z",
     "updated_at": "2026-10-24T18:28:54Z",
-    "size": 16427,
+    "size": 16532,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

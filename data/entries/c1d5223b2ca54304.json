@@ -9,8 +9,8 @@
     "repo_full_name": "sodre90/mirador",
     "description": "A canvas for your coding agent. It draws what it means, asks you with pictures, and walks you through its changes and reviews, right beside the conversation. Desktop app for macOS, Linux and Windows.",
     "stars": 21,
-    "forks": 2,
-    "open_issues": 4,
+    "forks": 3,
+    "open_issues": 0,
     "topics": [
       "acp",
       "agent-client-protocol",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-30T19:22:33Z",
-    "pushed_at": "2026-10-27T23:30:52Z",
-    "updated_at": "2026-10-27T23:30:51Z",
-    "size": 19179,
+    "pushed_at": "2026-10-28T23:33:24Z",
+    "updated_at": "2026-10-28T23:33:19Z",
+    "size": 18204,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

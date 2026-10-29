@@ -10,7 +10,7 @@
     "description": "Use OpenCode Zen's free models outside OpenCode — Pi extension with working tool calling and image input",
     "stars": 5,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "llm",
       "opencode-zen",

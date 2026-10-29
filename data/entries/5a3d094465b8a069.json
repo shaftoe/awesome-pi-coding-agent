@@ -1,0 +1,20 @@
+{
+  "id": "YT_M--R7xt1hhk",
+  "name": "Pi agent on Myriad",
+  "url": "https://youtube.com/watch?v=M--R7xt1hhk",
+  "source": "youtube-search",
+  "description": "We've a lot of users using various coding agents on our HPC login nodes so I've been asked to look at if it's practical to do ...",
+  "metadata": {
+    "title": "Pi agent on Myriad",
+    "name": "Pi agent on Myriad",
+    "description": "We've a lot of users using various coding agents on our HPC login nodes so I've been asked to look at if it's practical to do ...",
+    "channel": "Owain Kenway",
+    "published_at": "2026-10-01T14:54:08Z",
+    "thumbnail": "https://i.ytimg.com/vi/M--R7xt1hhk/hqdefault.jpg",
+    "views": 58,
+    "likes": 0,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-agent"
+  },
+  "category": "video"
+}

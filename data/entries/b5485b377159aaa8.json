@@ -8,7 +8,7 @@
     "github_url": "https://github.com/sexyAmole/agent-muster",
     "repo_full_name": "sexyAmole/agent-muster",
     "description": "Agent Muster brings Codex, Claude Code, Pi, Gemini CLI, OpenCode, Cursor, and more into one desktop or local-web workspace. Manage projects and sessions with multi-pane layouts, file/Git/terminal side panels, image and file references, and automate tasks via DingTalk, Feishu, WeCom, and WeChat bots.",
-    "stars": 7,
+    "stars": 9,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -31,9 +31,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-30T11:45:04Z",
-    "pushed_at": "2026-10-27T06:01:20Z",
-    "updated_at": "2026-10-27T06:01:24Z",
-    "size": 7832,
+    "pushed_at": "2026-10-28T08:37:15Z",
+    "updated_at": "2026-10-28T08:37:19Z",
+    "size": 7877,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

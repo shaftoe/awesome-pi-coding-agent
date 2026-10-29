@@ -1,0 +1,29 @@
+{
+  "id": "@marcosgilf/pi-footer",
+  "name": "@marcosgilf/pi-footer",
+  "url": "https://www.npmjs.com/package/@marcosgilf/pi-footer",
+  "source": "npm-search",
+  "description": "Responsive Pi footer for session context, Copilot usage, and extension statuses.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@marcosgilf/pi-footer",
+    "description": "Responsive Pi footer for session context, Copilot usage, and extension statuses.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "footer",
+      "statusline"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-28T14:47:04.981Z",
+    "npm_downloads_monthly": 194,
+    "npm_downloads_weekly": 194,
+    "npm_score_final": 15.278139,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

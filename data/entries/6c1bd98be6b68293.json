@@ -1,0 +1,25 @@
+{
+  "id": "mengfei0053-agent-board",
+  "name": "mengfei0053-agent-board",
+  "url": "https://github.com/mengfei0053/agent-board",
+  "source": "github-search",
+  "description": "Local agent task board for pi / Claude Code / Cursor CLI",
+  "metadata": {
+    "github_url": "https://github.com/mengfei0053/agent-board",
+    "repo_full_name": "mengfei0053/agent-board",
+    "description": "Local agent task board for pi / Claude Code / Cursor CLI",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-28T03:30:31Z",
+    "pushed_at": "2026-10-28T09:09:35Z",
+    "updated_at": "2026-10-29T01:37:18Z",
+    "size": 549,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

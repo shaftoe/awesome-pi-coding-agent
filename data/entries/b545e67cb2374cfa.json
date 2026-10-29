@@ -3,11 +3,11 @@
   "name": "dev-loops",
   "url": "https://www.npmjs.com/package/dev-loops",
   "source": "npm-search",
-  "description": "Agent-harness-agnostic dev-loop infrastructure (Pi and Claude Code) for reusable local and remote development loops",
+  "description": "dev-loops ships reviewed, tested PRs with the highest autonomy that is still safe. Deterministic gates and a judge decide; humans decide only what tooling cannot, or what the repo requires.",
   "metadata": {
     "github_url": "https://github.com/mfittko/dev-loops",
     "npm_name": "dev-loops",
-    "description": "Agent-harness-agnostic dev-loop infrastructure (Pi and Claude Code) for reusable local and remote development loops",
+    "description": "dev-loops ships reviewed, tested PRs with the highest autonomy that is still safe. Deterministic gates and a judge decide; humans decide only what tooling cannot, or what the repo requires.",
     "keywords": [
       "dev-loop",
       "workflow",
@@ -19,15 +19,15 @@
       "pi-coding-agent",
       "pi-package"
     ],
-    "version": "1.0.7",
-    "published_at": "2026-10-19T11:20:09.607Z",
-    "npm_downloads_monthly": 2724,
-    "npm_downloads_weekly": 1318,
-    "npm_score_final": 23.187218,
+    "version": "1.0.8",
+    "published_at": "2026-10-28T08:20:57.371Z",
+    "npm_downloads_monthly": 3250,
+    "npm_downloads_weekly": 729,
+    "npm_score_final": 23.7546,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "misc"
+  "category": "extension"
 }

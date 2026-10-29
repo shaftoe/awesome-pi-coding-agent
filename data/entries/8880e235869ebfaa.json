@@ -1,0 +1,35 @@
+{
+  "id": "Xpropel-Pi-Remote",
+  "name": "Xpropel-Pi-Remote",
+  "url": "https://github.com/Xpropel/Pi-Remote",
+  "source": "github-search",
+  "description": "Mirror and remotely control pi terminal sessions from any browser — official pi extension + lightweight relay + unified desktop/mobile UI.",
+  "metadata": {
+    "github_url": "https://github.com/Xpropel/Pi-Remote",
+    "repo_full_name": "Xpropel/Pi-Remote",
+    "description": "Mirror and remotely control pi terminal sessions from any browser — official pi extension + lightweight relay + unified desktop/mobile UI.",
+    "stars": 66,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "developer-tools",
+      "pi",
+      "pi-coding-agent",
+      "react",
+      "relay",
+      "remote-control",
+      "terminal",
+      "typescript",
+      "websocket"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-28T10:46:22Z",
+    "pushed_at": "2026-10-28T19:44:13Z",
+    "updated_at": "2026-10-29T00:57:26Z",
+    "size": 7278,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

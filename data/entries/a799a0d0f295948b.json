@@ -1,0 +1,30 @@
+{
+  "id": "pi-blablador",
+  "name": "pi-blablador",
+  "url": "https://www.npmjs.com/package/pi-blablador",
+  "source": "npm-search",
+  "description": "Blablador (Helmholtz / JSC) provider for Pi: live alias discovery, per-family thinking effort, measured context windows",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-blablador",
+    "description": "Blablador (Helmholtz / JSC) provider for Pi: live alias discovery, per-family thinking effort, measured context windows",
+    "keywords": [
+      "pi-package",
+      "blablador",
+      "provider",
+      "helmholtz",
+      "jsc",
+      "openai-compatible"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-10-28T16:36:28.134Z",
+    "npm_downloads_monthly": 263,
+    "npm_downloads_weekly": 263,
+    "npm_score_final": 17.073374,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

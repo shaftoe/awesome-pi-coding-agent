@@ -1,17 +1,20 @@
 {
-  "id": "BRAVE_deepakness.com_pi-agent-setup",
-  "name": "Setting Up and Using the Pi Coding Agent | DeepakNess",
+  "id": "HN_49156995",
+  "name": "Setting Up and Using the Pi Coding Agent",
   "url": "https://deepakness.com/blog/pi-agent-setup/",
-  "source": "brave-web-search",
-  "description": "My experience of setting up the Pi coding agent with DeepSeek models, installing packages, and making it my daily driver.",
+  "source": "hackernews-search",
+  "description": "",
   "metadata": {
-    "title": "Setting Up and Using the Pi Coding Agent | DeepakNess",
-    "name": "Setting Up and Using the Pi Coding Agent | DeepakNess",
-    "description": "My experience of setting up the Pi coding agent with DeepSeek models, installing packages, and making it my daily driver.",
-    "published_at": "2026-08-14T00:00:00",
-    "source_site": "DeepakNess",
-    "source_url": "https://deepakness.com/blog/pi-agent-setup/",
-    "discovery_hint": "brave:pi-package"
+    "title": "Setting Up and Using the Pi Coding Agent",
+    "name": "Setting Up and Using the Pi Coding Agent",
+    "description": "",
+    "author": "speckx",
+    "published_at": "2026-08-03T15:21:59Z",
+    "points": 1,
+    "num_comments": 0,
+    "hn_id": "49156995",
+    "external_url": "https://deepakness.com/blog/pi-agent-setup/",
+    "discovery_hint": "hackernews:pi-agent"
   },
   "category": "article"
 }

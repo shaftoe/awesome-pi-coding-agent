@@ -1,0 +1,31 @@
+{
+  "id": "@xprnvd/pi-context-view",
+  "name": "@xprnvd/pi-context-view",
+  "url": "https://www.npmjs.com/package/@xprnvd/pi-context-view",
+  "source": "npm-search",
+  "description": "Pi extension to visualize context usage and inspect the hidden parts: base prompt, tools defs, and extension injections",
+  "metadata": {
+    "github_url": "https://github.com/xprnvd/pi-context-view",
+    "npm_name": "@xprnvd/pi-context-view",
+    "description": "Pi extension to visualize context usage and inspect the hidden parts: base prompt, tools defs, and extension injections",
+    "keywords": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "coding-agent",
+      "context",
+      "tokens",
+      "tui"
+    ],
+    "version": "0.8.1",
+    "published_at": "2026-10-28T11:41:17.495Z",
+    "npm_downloads_monthly": 262,
+    "npm_downloads_weekly": 262,
+    "npm_score_final": 15.68719,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

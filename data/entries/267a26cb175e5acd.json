@@ -1,0 +1,32 @@
+{
+  "id": "Master0fFate-fateUI",
+  "name": "Master0fFate-fateUI",
+  "url": "https://github.com/Master0fFate/fateUI",
+  "source": "github-search",
+  "description": "GUI workbench for the Pi Agent",
+  "metadata": {
+    "github_url": "https://github.com/Master0fFate/fateUI",
+    "repo_full_name": "Master0fFate/fateUI",
+    "description": "GUI workbench for the Pi Agent",
+    "stars": 13,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "ade",
+      "ai",
+      "coding-agent",
+      "desktop",
+      "electron",
+      "pi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-23T00:27:49Z",
+    "pushed_at": "2026-10-28T13:47:26Z",
+    "updated_at": "2026-10-28T13:47:30Z",
+    "size": 30939,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}
