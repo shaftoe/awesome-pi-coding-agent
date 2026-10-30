@@ -1,0 +1,28 @@
+{
+  "id": "pi-next",
+  "name": "pi-next",
+  "url": "https://www.npmjs.com/package/pi-next",
+  "source": "npm-search",
+  "description": "Next-prompt suggestions for Pi",
+  "metadata": {
+    "github_url": "https://github.com/omaclaren/pi-next",
+    "npm_name": "pi-next",
+    "description": "Next-prompt suggestions for Pi",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "prompt-suggestions",
+      "ghost-text"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-10-30T00:40:44.585Z",
+    "npm_downloads_monthly": 290,
+    "npm_downloads_weekly": 290,
+    "npm_score_final": 16.426094,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

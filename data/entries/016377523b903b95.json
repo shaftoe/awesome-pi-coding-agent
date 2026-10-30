@@ -1,0 +1,25 @@
+{
+  "id": "pi-autocomplete",
+  "name": "pi-autocomplete",
+  "url": "https://www.npmjs.com/package/pi-autocomplete",
+  "source": "npm-search",
+  "description": "Local SmolLM2 ghost text autocomplete for Pi",
+  "metadata": {
+    "github_url": "https://github.com/SheetHappiness/pi-ghost-autocomplete",
+    "npm_name": "pi-autocomplete",
+    "description": "Local SmolLM2 ghost text autocomplete for Pi",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-22T20:28:09.146Z",
+    "npm_downloads_monthly": 320,
+    "npm_downloads_weekly": 320,
+    "npm_score_final": 16.827307,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

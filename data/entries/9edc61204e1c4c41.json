@@ -3,18 +3,18 @@
   "name": "pi-connect-services",
   "url": "https://www.npmjs.com/package/pi-connect-services",
   "source": "npm-search",
-  "description": "Ensure the local connect endpoints (qoder 39270 / workbuddy 39271 / trae 39272) are running when pi starts — the pi-side half of zcode-ai-connect's launch-on-open design.",
+  "description": "Ensure the local connect endpoints (qoder 39270 / workbuddy 39271 / trae 39272) are running when pi starts, and ask for one more turn when the model closes without giving anything (thinking-only turns, or an announced-but-unexecuted step).",
   "metadata": {
     "github_url": "https://github.com/xiao-hans/zcode-ai-connect",
     "npm_name": "pi-connect-services",
-    "description": "Ensure the local connect endpoints (qoder 39270 / workbuddy 39271 / trae 39272) are running when pi starts — the pi-side half of zcode-ai-connect's launch-on-open design.",
+    "description": "Ensure the local connect endpoints (qoder 39270 / workbuddy 39271 / trae 39272) are running when pi starts, and ask for one more turn when the model closes without giving anything (thinking-only turns, or an announced-but-unexecuted step).",
     "keywords": [
       "pi",
       "pi-coding-agent",
       "extension"
     ],
-    "version": "1.0.0",
-    "published_at": "2026-10-29T00:05:12.164Z",
+    "version": "1.2.1",
+    "published_at": "2026-10-29T16:52:39.967Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

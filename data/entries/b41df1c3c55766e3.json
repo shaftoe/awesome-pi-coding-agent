@@ -1,0 +1,25 @@
+{
+  "id": "@x-magpie/pi",
+  "name": "@x-magpie/pi",
+  "url": "https://www.npmjs.com/package/@x-magpie/pi",
+  "source": "npm-search",
+  "description": "Register a magpie gateway as a pi model provider: dynamic catalog via refreshModels, streaming on pi built-in APIs.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@x-magpie/pi",
+    "description": "Register a magpie gateway as a pi model provider: dynamic catalog via refreshModels, streaming on pi built-in APIs.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-10-29T12:47:49.312Z",
+    "npm_downloads_monthly": 716,
+    "npm_downloads_weekly": 716,
+    "npm_score_final": 20.041142,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

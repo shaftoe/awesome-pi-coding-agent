@@ -3,15 +3,15 @@
   "name": "Pi Coding Agent is now my absolute favorite... | daily.dev",
   "url": "https://daily.dev/posts/pi-coding-agent-is-now-my-absolute-favorite--yxzsptoyy",
   "source": "brave-web-search",
-  "description": "Pi is a minimal, highly customizable coding agent harness designed for developers who prefer a do-it-yourself approach. Unlike OpenCode which comes fully...",
+  "description": "Pi is a minimal, unopinionated agent harness with no built-in features beyond a basic chat interface that edits files, requiring extensions installed via npm for permissions, undo/redo, or web search.",
   "metadata": {
     "title": "Pi Coding Agent is now my absolute favorite... | daily.dev",
     "name": "Pi Coding Agent is now my absolute favorite... | daily.dev",
-    "description": "Pi is a minimal, highly customizable coding agent harness designed for developers who prefer a do-it-yourself approach. Unlike OpenCode which comes fully...",
+    "description": "Pi is a minimal, unopinionated agent harness with no built-in features beyond a basic chat interface that edits files, requiring extensions installed via npm for permissions, undo/redo, or web search.",
     "published_at": "2026-07-20T14:19:02",
     "source_site": "daily.dev",
     "source_url": "https://daily.dev/posts/pi-coding-agent-is-now-my-absolute-favorite--yxzsptoyy",
-    "discovery_hint": "brave:pi-agent"
+    "discovery_hint": "brave:pi-coding-agent"
   },
   "category": "article"
 }

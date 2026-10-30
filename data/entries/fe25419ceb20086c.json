@@ -1,0 +1,29 @@
+{
+  "id": "@orvix-id/pi",
+  "name": "@orvix-id/pi",
+  "url": "https://www.npmjs.com/package/@orvix-id/pi",
+  "source": "npm-search",
+  "description": "Pi extension for the Orvix Coding Plan",
+  "metadata": {
+    "github_url": "https://github.com/Orvix-id/pi-plugin",
+    "npm_name": "@orvix-id/pi",
+    "description": "Pi extension for the Orvix Coding Plan",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "orvix",
+      "orvix-coding",
+      "coding-plan"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-03T13:55:45.182Z",
+    "npm_downloads_monthly": 143,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 14.422108,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cx-amazon-seller",
+  "name": "cx-amazon-seller",
+  "url": "https://www.npmjs.com/package/cx-amazon-seller",
+  "source": "npm-search",
+  "description": "A pi package that tells the model the person it talks with runs a business selling on Amazon.",
+  "metadata": {
+    "github_url": "https://github.com/comchatx/cx-amazon-seller",
+    "npm_name": "cx-amazon-seller",
+    "description": "A pi package that tells the model the person it talks with runs a business selling on Amazon.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-15T02:57:46.071Z",
+    "npm_downloads_monthly": 189,
+    "npm_downloads_weekly": 119,
+    "npm_score_final": 15.530379,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

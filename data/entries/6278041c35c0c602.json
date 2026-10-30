@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_sdk",
+  "name": "Pi Coding Agent",
+  "url": "https://pi.dev/docs/latest/sdk",
+  "source": "brave-web-search",
+  "description": "When Pi reconstructs model context, the manager selects the active branch and applies compaction. SessionManager is authoritative for finalized model context. Restore external history by constructing the session with a manager containing those entries. Assigning session.agent.state.messages ...",
+  "metadata": {
+    "title": "Pi Coding Agent",
+    "name": "Pi Coding Agent",
+    "description": "When Pi reconstructs model context, the manager selects the active branch and applies compaction. SessionManager is authoritative for finalized model context. Restore external history by constructing the session with a manager containing those entries. Assigning session.agent.state.messages ...",
+    "published_at": null,
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/docs/latest/sdk",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

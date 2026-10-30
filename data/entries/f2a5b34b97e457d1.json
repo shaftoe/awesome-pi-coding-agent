@@ -1,0 +1,25 @@
+{
+  "id": "smoosex-pi-footer",
+  "name": "smoosex-pi-footer",
+  "url": "https://github.com/smoosex/pi-footer",
+  "source": "github-search",
+  "description": "A compact footer/status bar extension for pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/smoosex/pi-footer",
+    "repo_full_name": "smoosex/pi-footer",
+    "description": "A compact footer/status bar extension for pi coding agent.",
+    "stars": 3,
+    "forks": 3,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-28T07:31:38Z",
+    "pushed_at": "2026-09-28T01:42:07Z",
+    "updated_at": "2026-10-06T00:36:21Z",
+    "size": 60,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

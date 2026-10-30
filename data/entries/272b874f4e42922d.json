@@ -8,8 +8,8 @@
     "github_url": "https://github.com/GabrielMartinMoran/mind",
     "repo_full_name": "GabrielMartinMoran/mind",
     "description": "Persistent local memory for AI coding agents. Preserve decisions and project context across sessions, compaction, and tools.",
-    "stars": 175,
-    "forks": 15,
+    "stars": 182,
+    "forks": 16,
     "open_issues": 0,
     "topics": [
       "agent-memory",
@@ -35,7 +35,7 @@
     "archived": false,
     "created_at": "2025-04-27T01:47:50Z",
     "pushed_at": "2026-10-27T01:18:38Z",
-    "updated_at": "2026-10-29T00:58:34Z",
+    "updated_at": "2026-10-30T01:39:01Z",
     "size": 29795,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

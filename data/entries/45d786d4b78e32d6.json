@@ -9,7 +9,7 @@
     "repo_full_name": "edxeth/pi-tasks",
     "description": "Task system for Pi, inspired by Claude Code. Keeps long agent sessions on track with a live task widget, durable per-session state, and gentle reminders when work drifts.",
     "stars": 18,
-    "forks": 4,
+    "forks": 5,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

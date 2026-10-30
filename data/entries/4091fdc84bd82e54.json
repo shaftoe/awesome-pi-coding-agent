@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_agentic-ai.readthedocs.io_pi-dev",
+  "name": "Pi (pi.dev) - Agentic AI Knowledge Base",
+  "url": "https://agentic-ai.readthedocs.io/en/latest/AgentHarness/pi-dev/",
+  "source": "brave-web-search",
+  "description": "Pi is a minimal, open-source terminal coding agent harness built around a single design thesis: a coding agent needs exactly four tools — read, write, edit, bash — and a system prompt under 1,000 t...",
+  "metadata": {
+    "title": "Pi (pi.dev) - Agentic AI Knowledge Base",
+    "name": "Pi (pi.dev) - Agentic AI Knowledge Base",
+    "description": "Pi is a minimal, open-source terminal coding agent harness built around a single design thesis: a coding agent needs exactly four tools — read, write, edit, bash — and a system prompt under 1,000 t...",
+    "published_at": null,
+    "source_site": "Readthedocs",
+    "source_url": "https://agentic-ai.readthedocs.io/en/latest/AgentHarness/pi-dev/",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

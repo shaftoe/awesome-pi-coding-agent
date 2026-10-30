@@ -1,0 +1,31 @@
+{
+  "id": "pi-push-to-talk",
+  "name": "pi-push-to-talk",
+  "url": "https://www.npmjs.com/package/pi-push-to-talk",
+  "source": "npm-search",
+  "description": "Hold space to dictate into pi's prompt, transcribed locally with Whisper.",
+  "metadata": {
+    "github_url": "https://github.com/sqwxl/pi-push-to-talk",
+    "npm_name": "pi-push-to-talk",
+    "description": "Hold space to dictate into pi's prompt, transcribed locally with Whisper.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "dictation",
+      "push-to-talk",
+      "speech-to-text",
+      "whisper",
+      "local"
+    ],
+    "version": "0.5.0",
+    "published_at": "2026-10-29T12:59:20.684Z",
+    "npm_downloads_monthly": 650,
+    "npm_downloads_weekly": 650,
+    "npm_score_final": 19.163628,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

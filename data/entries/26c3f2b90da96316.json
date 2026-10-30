@@ -1,0 +1,27 @@
+{
+  "id": "@compn3rd/pi-web-code-review",
+  "name": "@compn3rd/pi-web-code-review",
+  "url": "https://www.npmjs.com/package/@compn3rd/pi-web-code-review",
+  "source": "npm-search",
+  "description": "Workspace file and Git review comments for PI WEB, without host modifications.",
+  "metadata": {
+    "github_url": "https://github.com/CompN3rd/pi-web-code-review",
+    "npm_name": "@compn3rd/pi-web-code-review",
+    "description": "Workspace file and Git review comments for PI WEB, without host modifications.",
+    "keywords": [
+      "pi-web.dev-plugin",
+      "pi-package",
+      "pi-web-plugin"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-10-29T17:53:37.386Z",
+    "npm_downloads_monthly": 436,
+    "npm_downloads_weekly": 219,
+    "npm_score_final": 18.35753,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
