@@ -8,7 +8,7 @@
     "github_url": "https://github.com/momozi1996/momo-code",
     "repo_full_name": "momozi1996/momo-code",
     "description": "MOMO CODE — RSI *JEV*Pi --AI coding agent that evolves with you",
-    "stars": 1108,
+    "stars": 1107,
     "forks": 107,
     "open_issues": 0,
     "topics": [
@@ -35,7 +35,7 @@
     "archived": false,
     "created_at": "2026-06-16T14:40:52Z",
     "pushed_at": "2026-10-27T05:24:51Z",
-    "updated_at": "2026-10-28T17:20:19Z",
+    "updated_at": "2026-10-29T06:50:21Z",
     "size": 10211,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

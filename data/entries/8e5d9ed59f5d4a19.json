@@ -1,0 +1,28 @@
+{
+  "id": "@xynogen/pix-python",
+  "name": "@xynogen/pix-python",
+  "url": "https://www.npmjs.com/package/@xynogen/pix-python",
+  "source": "npm-search",
+  "description": "Pi tool — python_run: run a local Python snippet behind an approval prompt, with indentation repair and a clean card",
+  "metadata": {
+    "github_url": "https://github.com/xynogen/pix-mono",
+    "npm_name": "@xynogen/pix-python",
+    "description": "Pi tool — python_run: run a local Python snippet behind an approval prompt, with indentation repair and a clean card",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "python"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-10-29T03:00:51.109Z",
+    "npm_downloads_monthly": 399,
+    "npm_downloads_weekly": 399,
+    "npm_score_final": 18.164278,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "@rthadani/pi-failover",
+  "name": "@rthadani/pi-failover",
+  "url": "https://www.npmjs.com/package/@rthadani/pi-failover",
+  "source": "npm-search",
+  "description": "A pi provider extension that fails over across an ordered list of compatible models (grouped into capability classes) when a provider runs out of credits or errors, so agent runs never stop when one wallet empties.",
+  "metadata": {
+    "github_url": "https://github.com/rthadani/pi-failover",
+    "npm_name": "@rthadani/pi-failover",
+    "description": "A pi provider extension that fails over across an ordered list of compatible models (grouped into capability classes) when a provider runs out of credits or errors, so agent runs never stop when one wallet empties.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "failover",
+      "model",
+      "provider",
+      "llm",
+      "fallback"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-10-22T22:51:26.370Z",
+    "npm_downloads_monthly": 501,
+    "npm_downloads_weekly": 501,
+    "npm_score_final": 18.828863,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

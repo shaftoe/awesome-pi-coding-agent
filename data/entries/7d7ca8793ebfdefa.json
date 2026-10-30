@@ -1,0 +1,27 @@
+{
+  "id": "pi-workbuddy",
+  "name": "pi-workbuddy",
+  "url": "https://www.npmjs.com/package/pi-workbuddy",
+  "source": "npm-search",
+  "description": "Native WorkBuddy account login and direct model provider for Pi",
+  "metadata": {
+    "github_url": "https://github.com/lutfi238/pi-workbuddy",
+    "npm_name": "pi-workbuddy",
+    "description": "Native WorkBuddy account login and direct model provider for Pi",
+    "keywords": [
+      "pi-package",
+      "workbuddy",
+      "pi-extension"
+    ],
+    "version": "0.2.4",
+    "published_at": "2026-10-22T14:48:50.456Z",
+    "npm_downloads_monthly": 450,
+    "npm_downloads_weekly": 450,
+    "npm_score_final": 17.887255,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

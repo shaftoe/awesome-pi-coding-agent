@@ -1,0 +1,43 @@
+{
+  "id": "zhuwenzhuang-farming",
+  "name": "zhuwenzhuang-farming",
+  "url": "https://github.com/zhuwenzhuang/farming",
+  "source": "github-search",
+  "description": "Open-source, self-hosted browser workspace for running and supervising Codex, Claude Code, OpenCode, Pi, and other AI coding agents.",
+  "metadata": {
+    "github_url": "https://github.com/zhuwenzhuang/farming",
+    "repo_full_name": "zhuwenzhuang/farming",
+    "description": "Open-source, self-hosted browser workspace for running and supervising Codex, Claude Code, OpenCode, Pi, and other AI coding agents.",
+    "stars": 8,
+    "forks": 2,
+    "open_issues": 0,
+    "topics": [
+      "acp",
+      "agent-orchestration",
+      "agent-supervision",
+      "ai-agents",
+      "browser-terminal",
+      "browser-workspace",
+      "claude-code",
+      "codex",
+      "coding-agent-workspace",
+      "coding-agents",
+      "developer-tools",
+      "multi-agent",
+      "opencode",
+      "remote-development",
+      "self-hosted",
+      "typescript",
+      "web-terminal"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-06-30T02:42:22Z",
+    "pushed_at": "2026-10-29T13:39:50Z",
+    "updated_at": "2026-10-29T13:39:54Z",
+    "size": 243737,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

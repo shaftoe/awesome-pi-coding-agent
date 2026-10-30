@@ -8,8 +8,8 @@
     "github_url": "https://github.com/deepu105/pi-automode-classifier",
     "repo_full_name": "deepu105/pi-automode-classifier",
     "description": "Claude Code like auto mode for Pi: each tool call goes through rules, an optional classifier, then a chat model that reads your messages",
-    "stars": 10,
-    "forks": 1,
+    "stars": 11,
+    "forks": 3,
     "open_issues": 0,
     "topics": [
       "coding-agent",
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-10-08T09:00:33Z",
     "pushed_at": "2026-10-28T13:42:26Z",
-    "updated_at": "2026-10-28T21:40:45Z",
+    "updated_at": "2026-10-30T01:23:50Z",
     "size": 458,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

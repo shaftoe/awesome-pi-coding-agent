@@ -1,0 +1,25 @@
+{
+  "id": "pi-asker",
+  "name": "pi-asker",
+  "url": "https://www.npmjs.com/package/pi-asker",
+  "source": "npm-search",
+  "description": "ask_user_question for pi: tabs, multi-select, previews, a review tab, and a way to flag a question for discussion",
+  "metadata": {
+    "github_url": "https://github.com/msvart/pi-asker",
+    "npm_name": "pi-asker",
+    "description": "ask_user_question for pi: tabs, multi-select, previews, a review tab, and a way to flag a question for discussion",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-10-22T11:22:31.041Z",
+    "npm_downloads_monthly": 453,
+    "npm_downloads_weekly": 453,
+    "npm_score_final": 18.597193,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
