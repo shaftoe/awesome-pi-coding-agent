@@ -1,0 +1,29 @@
+{
+  "id": "pi-history-tree",
+  "name": "pi-history-tree",
+  "url": "https://www.npmjs.com/package/pi-history-tree",
+  "source": "npm-search",
+  "description": "Read-only user-message history tree and transcript reader for pi",
+  "metadata": {
+    "github_url": "https://github.com/JXZxiao5/pi-history-tree",
+    "npm_name": "pi-history-tree",
+    "description": "Read-only user-message history tree and transcript reader for pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "history",
+      "conversation",
+      "reader"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-23T11:40:23.835Z",
+    "npm_downloads_monthly": 517,
+    "npm_downloads_weekly": 517,
+    "npm_score_final": 18.23431,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

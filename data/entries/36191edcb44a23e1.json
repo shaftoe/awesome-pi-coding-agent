@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-agent-extensions",
+  "name": "pi-agent-extensions · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-agent-extensions",
+  "source": "brave-web-search",
+  "description": "Review the source before installing third-party packages. A single install for 17 extensions and four themes for the Pi coding agent: session tools, structured questions, handoffs, multi-agent workflows, review utilities, analytics, UI enhancements, and more.",
+  "metadata": {
+    "title": "pi-agent-extensions · Packages · Pi",
+    "name": "pi-agent-extensions · Packages · Pi",
+    "description": "Review the source before installing third-party packages. A single install for 17 extensions and four themes for the Pi coding agent: session tools, structured questions, handoffs, multi-agent workflows, review utilities, analytics, UI enhancements, and more.",
+    "published_at": "2026-10-16T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-agent-extensions",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}

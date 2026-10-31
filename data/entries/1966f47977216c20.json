@@ -1,0 +1,25 @@
+{
+  "id": "pi-hostinger-router",
+  "name": "pi-hostinger-router",
+  "url": "https://www.npmjs.com/package/pi-hostinger-router",
+  "source": "npm-search",
+  "description": "Hostinger Router provider for pi — live model catalog, vision and reasoning detection, USD cost tracking",
+  "metadata": {
+    "github_url": "https://github.com/algirdasc/pi-hostinger-router",
+    "npm_name": "pi-hostinger-router",
+    "description": "Hostinger Router provider for pi — live model catalog, vision and reasoning detection, USD cost tracking",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-10-23T09:46:31.572Z",
+    "npm_downloads_monthly": 658,
+    "npm_downloads_weekly": 658,
+    "npm_score_final": 19.219702,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

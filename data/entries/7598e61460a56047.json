@@ -1,0 +1,31 @@
+{
+  "id": "@mirego/pi-forra-attribution",
+  "name": "@mirego/pi-forra-attribution",
+  "url": "https://www.npmjs.com/package/@mirego/pi-forra-attribution",
+  "source": "npm-search",
+  "description": "Pi extension that attaches Forra usage attribution headers from local git context",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@mirego/pi-forra-attribution",
+    "description": "Pi extension that attaches Forra usage attribution headers from local git context",
+    "keywords": [
+      "pi-package",
+      "forra",
+      "mirego",
+      "pi",
+      "extension",
+      "git",
+      "attribution"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-29T19:14:21.543Z",
+    "npm_downloads_monthly": 171,
+    "npm_downloads_weekly": 171,
+    "npm_score_final": 14.630548,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

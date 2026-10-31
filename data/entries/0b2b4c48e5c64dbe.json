@@ -1,0 +1,26 @@
+{
+  "id": "@pi-minimal/mention-skills",
+  "name": "@pi-minimal/mention-skills",
+  "url": "https://www.npmjs.com/package/@pi-minimal/mention-skills",
+  "source": "npm-search",
+  "description": "Minimal $ mentions for pi: autocomplete skills and prompt templates, and point the agent to their files.",
+  "metadata": {
+    "github_url": "https://github.com/EviHex/pi-minimal",
+    "npm_name": "@pi-minimal/mention-skills",
+    "description": "Minimal $ mentions for pi: autocomplete skills and prompt templates, and point the agent to their files.",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "1.0.3",
+    "published_at": "2026-10-30T12:32:01.662Z",
+    "npm_downloads_monthly": 524,
+    "npm_downloads_weekly": 524,
+    "npm_score_final": 18.21086,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

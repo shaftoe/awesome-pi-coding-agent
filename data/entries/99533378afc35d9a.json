@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-themes",
+  "name": "pi-themes · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-themes?name=pi_t",
+  "source": "brave-web-search",
+  "description": "A collection of major color themes for pi, the coding agent — packaged as a pi extension that also ships a /theme command and Ctrl+Shift+T shortcut to switch themes interactively.",
+  "metadata": {
+    "title": "pi-themes · Packages · Pi",
+    "name": "pi-themes · Packages · Pi",
+    "description": "A collection of major color themes for pi, the coding agent — packaged as a pi extension that also ships a /theme command and Ctrl+Shift+T shortcut to switch themes interactively.",
+    "published_at": null,
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-themes?name=pi_t",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "category": "article"
+}

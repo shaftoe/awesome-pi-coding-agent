@@ -1,0 +1,29 @@
+{
+  "id": "pi-governor",
+  "name": "pi-governor",
+  "url": "https://www.npmjs.com/package/pi-governor",
+  "source": "npm-search",
+  "description": "A guard layer for pi tool calls: rules that allow, ask or never allow each call, shared by every package",
+  "metadata": {
+    "github_url": "https://github.com/one24-ai/pi-governor",
+    "npm_name": "pi-governor",
+    "description": "A guard layer for pi tool calls: rules that allow, ask or never allow each call, shared by every package",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "guard",
+      "permissions",
+      "sandbox"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-10-23T06:12:32.162Z",
+    "npm_downloads_monthly": 398,
+    "npm_downloads_weekly": 273,
+    "npm_score_final": 17.274553,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

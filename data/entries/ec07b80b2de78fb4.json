@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_portkey.ai_pi-agent",
+  "name": "Pi Agent - Portkey (Prisma AIRS AI Gateway) Docs",
+  "url": "https://portkey.ai/docs/integrations/libraries/pi-agent",
+  "source": "brave-web-search",
+  "description": "Route Pi coding agent through Portkey for observability, cost tracking, and access to 200+ LLMs",
+  "metadata": {
+    "title": "Pi Agent - Portkey (Prisma AIRS AI Gateway) Docs",
+    "name": "Pi Agent - Portkey (Prisma AIRS AI Gateway) Docs",
+    "description": "Route Pi coding agent through Portkey for observability, cost tracking, and access to 200+ LLMs",
+    "published_at": "2026-08-06T05:55:04",
+    "source_site": "Portkey",
+    "source_url": "https://portkey.ai/docs/integrations/libraries/pi-agent",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

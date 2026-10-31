@@ -1,0 +1,29 @@
+{
+  "id": "@korioinc/pi-service-tier",
+  "name": "@korioinc/pi-service-tier",
+  "url": "https://www.npmjs.com/package/@korioinc/pi-service-tier",
+  "source": "npm-search",
+  "description": "Independent Fast and Ultrafast toggles for pi, including custom provider model IDs",
+  "metadata": {
+    "github_url": "https://github.com/korioinc/pi-agent-extensions",
+    "npm_name": "@korioinc/pi-service-tier",
+    "description": "Independent Fast and Ultrafast toggles for pi, including custom provider model IDs",
+    "keywords": [
+      "fast",
+      "pi",
+      "pi-package",
+      "service-tier",
+      "ultrafast"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-23T15:10:40.304Z",
+    "npm_downloads_monthly": 337,
+    "npm_downloads_weekly": 337,
+    "npm_score_final": 16.745478,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

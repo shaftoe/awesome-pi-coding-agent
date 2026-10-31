@@ -1,0 +1,25 @@
+{
+  "id": "pi-intercom-wake",
+  "name": "pi-intercom-wake",
+  "url": "https://www.npmjs.com/package/pi-intercom-wake",
+  "source": "npm-search",
+  "description": "Fork of pi-intercom that can wake persisted Pi sessions (opt-in): queue a message once, reopen the original session, deliver it normally. Drop-in replacement: remove pi-intercom first.",
+  "metadata": {
+    "github_url": "https://github.com/mocvin/pi-intercom",
+    "npm_name": "pi-intercom-wake",
+    "description": "Fork of pi-intercom that can wake persisted Pi sessions (opt-in): queue a message once, reopen the original session, deliver it normally. Drop-in replacement: remove pi-intercom first.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.18.0-wake.4",
+    "published_at": "2026-10-23T07:14:49.453Z",
+    "npm_downloads_monthly": 243,
+    "npm_downloads_weekly": 243,
+    "npm_score_final": 15.935569,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

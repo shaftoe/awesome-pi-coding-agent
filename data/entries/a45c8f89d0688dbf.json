@@ -9,7 +9,7 @@
     "repo_full_name": "agustinsacco/phosphor",
     "description": "Desktop IDE for the pi coding agent: chat, diffs, files, terminal and artifacts in one window. Every pi provider, plus Claude Pro/Max and ChatGPT subscriptions. macOS, Linux, Windows.",
     "stars": 12,
-    "forks": 3,
+    "forks": 4,
     "open_issues": 2,
     "topics": [
       "agentic-coding",

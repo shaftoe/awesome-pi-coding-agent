@@ -1,12 +1,12 @@
 {
   "id": "BRAVE_pi.dev_pi-agents",
-  "name": "Pi Coding Agent",
+  "name": "pi-agents · Packages · Pi",
   "url": "https://pi.dev/packages/pi-agents",
   "source": "brave-web-search",
   "description": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours. Durable, named agents for Pi: delegate tasks, compose agents into graphs, and watch them work.Packages",
   "metadata": {
-    "title": "Pi Coding Agent",
-    "name": "Pi Coding Agent",
+    "title": "pi-agents · Packages · Pi",
+    "name": "pi-agents · Packages · Pi",
     "description": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours. Durable, named agents for Pi: delegate tasks, compose agents into graphs, and watch them work.Packages",
     "published_at": "2026-10-21T21:17:37",
     "source_site": "Pi",

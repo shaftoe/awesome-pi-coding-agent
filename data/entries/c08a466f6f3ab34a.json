@@ -1,0 +1,28 @@
+{
+  "id": "@hakifan/pi-ssh-remote",
+  "name": "@hakifan/pi-ssh-remote",
+  "url": "https://www.npmjs.com/package/@hakifan/pi-ssh-remote",
+  "source": "npm-search",
+  "description": "Persistent remote SSH workspaces for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/petrichor20211/pi-ssh-remote",
+    "npm_name": "@hakifan/pi-ssh-remote",
+    "description": "Persistent remote SSH workspaces for Pi.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "ssh",
+      "remote-development"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-23T06:58:13.643Z",
+    "npm_downloads_monthly": 209,
+    "npm_downloads_weekly": 209,
+    "npm_score_final": 15.189191,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

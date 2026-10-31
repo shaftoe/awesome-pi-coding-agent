@@ -1,0 +1,36 @@
+{
+  "id": "@agirahman/righthand",
+  "name": "@agirahman/righthand",
+  "url": "https://www.npmjs.com/package/@agirahman/righthand",
+  "source": "npm-search",
+  "description": "RightHand: specialist agent personas and multi-agent orchestration for Herdr workspaces across coding harnesses",
+  "metadata": {
+    "github_url": "https://github.com/agirahman/righthand",
+    "npm_name": "@agirahman/righthand",
+    "description": "RightHand: specialist agent personas and multi-agent orchestration for Herdr workspaces across coding harnesses",
+    "keywords": [
+      "cmd-mod",
+      "cmd-mod-command",
+      "cmd-mod-hook",
+      "pi-package",
+      "righthand",
+      "herdr",
+      "commandcode",
+      "agents",
+      "personas",
+      "orchestration",
+      "addyosmani",
+      "worktrees"
+    ],
+    "version": "1.2.0",
+    "published_at": "2026-10-30T11:21:34.001Z",
+    "npm_downloads_monthly": 756,
+    "npm_downloads_weekly": 756,
+    "npm_score_final": 19.743196,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

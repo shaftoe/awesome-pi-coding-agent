@@ -1,0 +1,31 @@
+{
+  "id": "@wengine-ai/pi-session-handoff",
+  "name": "@wengine-ai/pi-session-handoff",
+  "url": "https://www.npmjs.com/package/@wengine-ai/pi-session-handoff",
+  "source": "npm-search",
+  "description": "Hand a self-contained task to another local pi session (GUI or TUI) — recipient keeps its own project, model and permissions; busy targets queue instead of being interrupted.",
+  "metadata": {
+    "github_url": "https://github.com/xiaoliu10/pi-session-handoff",
+    "npm_name": "@wengine-ai/pi-session-handoff",
+    "description": "Hand a self-contained task to another local pi session (GUI or TUI) — recipient keeps its own project, model and permissions; busy targets queue instead of being interrupted.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-coding-agent",
+      "pi-extension",
+      "session",
+      "handoff",
+      "agent"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-30T07:44:14.029Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
