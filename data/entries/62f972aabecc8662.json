@@ -9,7 +9,7 @@
     "repo_full_name": "md-riaz/omniroute-agent-extension",
     "description": "OmniRoute extension for Pi Coding Agent, OMP, and Prime Agent with model sync and OpenAI-compatible routing.",
     "stars": 31,
-    "forks": 11,
+    "forks": 12,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

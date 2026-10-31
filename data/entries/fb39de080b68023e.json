@@ -9,7 +9,7 @@
     "repo_full_name": "BillJr99/pi-openai-compat",
     "description": "pi coding agent extension that registers OpenAI-compatible LLM providers (OpenRouter, Ollama, NVIDIA NIM, Nous Research, or any custom endpoint) as native first-class models in pi's /model picker and Ctrl+L selector.",
     "stars": 5,
-    "forks": 5,
+    "forks": 6,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

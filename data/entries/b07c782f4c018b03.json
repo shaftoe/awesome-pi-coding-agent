@@ -1,0 +1,33 @@
+{
+  "id": "patimweb-agents-pi-mindplace",
+  "name": "patimweb-agents-pi-mindplace",
+  "url": "https://github.com/patimweb-agents/pi-mindplace",
+  "source": "github-search",
+  "description": "A spatial memory model of the codebase for the pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/patimweb-agents/pi-mindplace",
+    "repo_full_name": "patimweb-agents/pi-mindplace",
+    "description": "A spatial memory model of the codebase for the pi coding agent.",
+    "stars": 2,
+    "forks": 3,
+    "open_issues": 2,
+    "topics": [
+      "codebase-navigation",
+      "coding-agent",
+      "context",
+      "extension",
+      "memory",
+      "pi-agent",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-07-13T11:07:18Z",
+    "pushed_at": "2026-09-09T05:28:38Z",
+    "updated_at": "2026-10-30T07:51:51Z",
+    "size": 5522,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

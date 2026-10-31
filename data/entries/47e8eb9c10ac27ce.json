@@ -8,8 +8,8 @@
     "github_url": "https://github.com/vakovalskii/paddock",
     "repo_full_name": "vakovalskii/paddock",
     "description": "Self-hosted web cockpit for AI coding agents: an isolated container per user, up to 4 chats side by side, harness-agnostic (Codex today; OpenCode, pi, omp coming), 2FA, egress proxy chain",
-    "stars": 15,
-    "forks": 2,
+    "stars": 23,
+    "forks": 5,
     "open_issues": 20,
     "topics": [
       "ai-agents",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-29T05:22:00Z",
-    "pushed_at": "2026-10-29T18:46:09Z",
-    "updated_at": "2026-10-30T02:08:33Z",
-    "size": 6596,
+    "pushed_at": "2026-10-30T09:38:39Z",
+    "updated_at": "2026-10-30T22:49:00Z",
+    "size": 6648,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

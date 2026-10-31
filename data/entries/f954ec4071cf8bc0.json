@@ -8,7 +8,7 @@
     "github_url": "https://github.com/trotsky1997/pi-lean4",
     "repo_full_name": "trotsky1997/pi-lean4",
     "description": "A pi extension for Lean 4 + Mathlib across the full lifecycle: toolchain install (elan), LSP/debug, doc search, type-check, lake build, project management, packaging, Mathlib dependency + cache, Wolfram/SymPy symbolic cross-check, similar-case search, and LaTeX report writing.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-08T05:44:52Z",
     "pushed_at": "2026-08-08T05:44:58Z",
-    "updated_at": "2026-08-08T16:12:40Z",
+    "updated_at": "2026-10-30T22:20:29Z",
     "size": 40,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

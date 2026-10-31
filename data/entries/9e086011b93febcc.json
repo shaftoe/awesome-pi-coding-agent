@@ -1,0 +1,30 @@
+{
+  "id": "pi-provider-workbuddy",
+  "name": "pi-provider-workbuddy",
+  "url": "https://www.npmjs.com/package/pi-provider-workbuddy",
+  "source": "npm-search",
+  "description": "Pi extension for WorkBuddy (CodeBuddy) — dual-region providers (CN + Global) with OAuth login, dynamic model catalog with credit multipliers, DSML tool-call recovery, and read-only credit/status commands",
+  "metadata": {
+    "github_url": "https://github.com/lorlike/pi-provider-workbuddy",
+    "npm_name": "pi-provider-workbuddy",
+    "description": "Pi extension for WorkBuddy (CodeBuddy) — dual-region providers (CN + Global) with OAuth login, dynamic model catalog with credit multipliers, DSML tool-call recovery, and read-only credit/status commands",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "workbuddy",
+      "codebuddy",
+      "provider",
+      "ai"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-30T13:10:39.541Z",
+    "npm_downloads_monthly": 360,
+    "npm_downloads_weekly": 360,
+    "npm_score_final": 16.9491,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

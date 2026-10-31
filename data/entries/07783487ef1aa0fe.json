@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_awesome-pi.site",
+  "name": "Awesome Pi Coding Agent | Awesome Pi Coding Agent",
+  "url": "https://awesome-pi.site/",
+  "source": "brave-web-search",
+  "description": "Extend Pi's capabilities — custom tools, hooks, integrations, skills, and MCP servers. ... Custom themes and color schemes for the Pi TUI.",
+  "metadata": {
+    "title": "Awesome Pi Coding Agent | Awesome Pi Coding Agent",
+    "name": "Awesome Pi Coding Agent | Awesome Pi Coding Agent",
+    "description": "Extend Pi's capabilities — custom tools, hooks, integrations, skills, and MCP servers. ... Custom themes and color schemes for the Pi TUI.",
+    "published_at": null,
+    "source_site": "Awesome-pi",
+    "source_url": "https://awesome-pi.site/",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "category": "article"
+}

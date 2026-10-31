@@ -10,7 +10,7 @@
     "description": "Self-hosted management for your coding agents. ",
     "stars": 5,
     "forks": 3,
-    "open_issues": 13,
+    "open_issues": 8,
     "topics": [
       "agent-orchestration",
       "agent-skills",
@@ -26,9 +26,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-21T07:56:35Z",
-    "pushed_at": "2026-10-23T07:27:56Z",
-    "updated_at": "2026-10-23T07:28:04Z",
-    "size": 5552,
+    "pushed_at": "2026-10-30T10:02:05Z",
+    "updated_at": "2026-10-30T10:01:45Z",
+    "size": 6458,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/yaocccc/pi",
     "repo_full_name": "yaocccc/pi",
     "description": "pi coding agent config",
-    "stars": 4,
+    "stars": 5,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,10 +16,10 @@
     "archived": false,
     "created_at": "2026-07-23T03:22:20Z",
     "pushed_at": "2026-10-17T01:03:08Z",
-    "updated_at": "2026-10-17T01:03:13Z",
+    "updated_at": "2026-10-30T08:19:14Z",
     "size": 812,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "misc"
 }

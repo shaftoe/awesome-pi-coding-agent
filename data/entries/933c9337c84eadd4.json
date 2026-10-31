@@ -1,0 +1,25 @@
+{
+  "id": "pi-cues",
+  "name": "pi-cues",
+  "url": "https://www.npmjs.com/package/pi-cues",
+  "source": "npm-search",
+  "description": "Deterministic context loading for the pi coding agent: a central trigger table maps bash commands and tool-operated file paths to skills and prompt files",
+  "metadata": {
+    "github_url": "https://github.com/YewFence/pi-cues",
+    "npm_name": "pi-cues",
+    "description": "Deterministic context loading for the pi coding agent: a central trigger table maps bash commands and tool-operated file paths to skills and prompt files",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-23T08:02:39.559Z",
+    "npm_downloads_monthly": 506,
+    "npm_downloads_weekly": 506,
+    "npm_score_final": 18.352165,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

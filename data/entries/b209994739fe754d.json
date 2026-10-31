@@ -1,0 +1,29 @@
+{
+  "id": "@xzzpig/pi-group-collapse",
+  "name": "@xzzpig/pi-group-collapse",
+  "url": "https://www.npmjs.com/package/@xzzpig/pi-group-collapse",
+  "source": "npm-search",
+  "description": "Fold a settled turn's tools, thinking, and selected special messages into one-line summaries, keeping the original rendering one click away.",
+  "metadata": {
+    "github_url": "https://github.com/xzzpig/pi-extensions",
+    "npm_name": "@xzzpig/pi-group-collapse",
+    "description": "Fold a settled turn's tools, thinking, and selected special messages into one-line summaries, keeping the original rendering one click away.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-tui",
+      "transcript",
+      "tui"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-10-30T17:53:30.847Z",
+    "npm_downloads_monthly": 413,
+    "npm_downloads_weekly": 413,
+    "npm_score_final": 17.559412,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pi-math-board",
+  "name": "pi-math-board",
+  "url": "https://www.npmjs.com/package/pi-math-board",
+  "source": "npm-search",
+  "description": "A view-only chalkboard in the browser that a terminal tutor draws on: equations, plots, molecules, diagrams and science illustrations, built up one step at a time. A pi extension and an MCP server.",
+  "metadata": {
+    "github_url": "https://github.com/smdesai27/math-board",
+    "npm_name": "pi-math-board",
+    "description": "A view-only chalkboard in the browser that a terminal tutor draws on: equations, plots, molecules, diagrams and science illustrations, built up one step at a time. A pi extension and an MCP server.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "mcp",
+      "mcp-server",
+      "claude-code",
+      "blackboard",
+      "chalkboard",
+      "tutor",
+      "learning",
+      "katex",
+      "mermaid",
+      "chemistry",
+      "physics"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-10-30T18:20:39.570Z",
+    "npm_downloads_monthly": 414,
+    "npm_downloads_weekly": 414,
+    "npm_score_final": 17.32537,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

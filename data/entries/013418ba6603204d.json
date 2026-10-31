@@ -1,0 +1,34 @@
+{
+  "id": "patimweb-agents-pi-email",
+  "name": "patimweb-agents-pi-email",
+  "url": "https://github.com/patimweb-agents/pi-email",
+  "source": "github-search",
+  "description": "IMAP/SMTP email client for the pi coding agent - read, search, send and triage.",
+  "metadata": {
+    "github_url": "https://github.com/patimweb-agents/pi-email",
+    "repo_full_name": "patimweb-agents/pi-email",
+    "description": "IMAP/SMTP email client for the pi coding agent - read, search, send and triage.",
+    "stars": 5,
+    "forks": 7,
+    "open_issues": 2,
+    "topics": [
+      "coding-agent",
+      "email",
+      "extension",
+      "imap",
+      "mail",
+      "pi-agent",
+      "smtp",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-10T07:36:05Z",
+    "pushed_at": "2026-10-14T09:14:24Z",
+    "updated_at": "2026-10-30T07:51:47Z",
+    "size": 1390,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

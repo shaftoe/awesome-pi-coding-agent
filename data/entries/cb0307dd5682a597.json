@@ -10,7 +10,7 @@
     "description": "Bring pi coding sessions to Cua Spaces. Keep pi local, run workspace tools on your Linux and macOS computers, and sync Git changes back.",
     "stars": 35,
     "forks": 3,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "cua",
       "pi",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-18T19:36:14Z",
-    "pushed_at": "2026-10-20T08:18:13Z",
+    "pushed_at": "2026-10-30T08:29:35Z",
     "updated_at": "2026-10-22T11:10:32Z",
-    "size": 444,
+    "size": 472,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

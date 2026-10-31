@@ -8,8 +8,8 @@
     "github_url": "https://github.com/WhiteTowerAI/ohmygame",
     "repo_full_name": "WhiteTowerAI/ohmygame",
     "description": "The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app. Game canvas.  Bring your own key.",
-    "stars": 1358,
-    "forks": 164,
+    "stars": 1435,
+    "forks": 173,
     "open_issues": 19,
     "topics": [
       "ai-coding",
@@ -32,9 +32,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-11T02:24:24Z",
-    "pushed_at": "2026-10-30T02:12:26Z",
-    "updated_at": "2026-10-30T02:00:28Z",
-    "size": 63958,
+    "pushed_at": "2026-10-30T20:17:39Z",
+    "updated_at": "2026-10-31T01:47:20Z",
+    "size": 65749,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

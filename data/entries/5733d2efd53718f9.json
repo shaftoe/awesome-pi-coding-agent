@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Neuron-Mr-White/UniPi",
     "repo_full_name": "Neuron-Mr-White/UniPi",
     "description": "All-in-one, unified harness. Increasing productivity, and accuracy both at the same time. https://pi.dev/packages/@pi-unipi/unipi?name=unipi",
-    "stars": 71,
+    "stars": 72,
     "forks": 16,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-04-26T07:35:13Z",
     "pushed_at": "2026-10-25T14:41:50Z",
-    "updated_at": "2026-10-25T14:41:54Z",
+    "updated_at": "2026-10-30T14:54:32Z",
     "size": 17401,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

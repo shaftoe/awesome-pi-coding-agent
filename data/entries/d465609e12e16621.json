@@ -1,0 +1,30 @@
+{
+  "id": "pi-lcars",
+  "name": "pi-lcars",
+  "url": "https://www.npmjs.com/package/pi-lcars",
+  "source": "npm-search",
+  "description": "LCARS agent console for pi — one command boots the web UI and the in-process pi backend",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-lcars",
+    "description": "LCARS agent console for pi — one command boots the web UI and the in-process pi backend",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "lcars",
+      "agent",
+      "console",
+      "web-ui"
+    ],
+    "version": "0.3.2",
+    "published_at": "2026-10-30T14:35:33.941Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

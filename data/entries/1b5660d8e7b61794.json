@@ -1,0 +1,25 @@
+{
+  "id": "LegifyX-pi-statusline",
+  "name": "LegifyX-pi-statusline",
+  "url": "https://github.com/LegifyX/pi-statusline",
+  "source": "github-search",
+  "description": "Fork of Signalridge's theme-native statusline for Pi, with styled extension-status passthrough",
+  "metadata": {
+    "github_url": "https://github.com/LegifyX/pi-statusline",
+    "repo_full_name": "LegifyX/pi-statusline",
+    "description": "Fork of Signalridge's theme-native statusline for Pi, with styled extension-status passthrough",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-30T13:00:37Z",
+    "pushed_at": "2026-10-30T13:16:06Z",
+    "updated_at": "2026-10-30T13:16:10Z",
+    "size": 171,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

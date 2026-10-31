@@ -1,0 +1,33 @@
+{
+  "id": "GaganSD-coding-agent-toolkit",
+  "name": "GaganSD-coding-agent-toolkit",
+  "url": "https://github.com/GaganSD/coding-agent-toolkit",
+  "source": "github-search",
+  "description": "Agentic Coding Tools built for Pi & Herdr",
+  "metadata": {
+    "github_url": "https://github.com/GaganSD/coding-agent-toolkit",
+    "repo_full_name": "GaganSD/coding-agent-toolkit",
+    "description": "Agentic Coding Tools built for Pi & Herdr",
+    "stars": 32,
+    "forks": 4,
+    "open_issues": 2,
+    "topics": [
+      "herdr-mod",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "pi-theme",
+      "subagents",
+      "terminal-ui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-20T23:05:29Z",
+    "pushed_at": "2026-10-31T01:15:44Z",
+    "updated_at": "2026-10-31T01:15:48Z",
+    "size": 8591,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
