@@ -1,0 +1,31 @@
+{
+  "id": "@kevinweber/pi-copy-prompt",
+  "name": "@kevinweber/pi-copy-prompt",
+  "url": "https://www.npmjs.com/package/@kevinweber/pi-copy-prompt",
+  "source": "npm-search",
+  "description": "Copy the full expanded Pi editor draft to the clipboard with super+y",
+  "metadata": {
+    "github_url": "https://github.com/kevinweber/pi-copy-prompt",
+    "npm_name": "@kevinweber/pi-copy-prompt",
+    "description": "Copy the full expanded Pi editor draft to the clipboard with super+y",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "clipboard",
+      "copy-prompt",
+      "editor"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-10-31T09:30:36.551Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

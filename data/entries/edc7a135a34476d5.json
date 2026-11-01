@@ -1,0 +1,32 @@
+{
+  "id": "Tuxik-pi-jev-mgt",
+  "name": "Tuxik-pi-jev-mgt",
+  "url": "https://github.com/Tuxik/pi-jev-mgt",
+  "source": "github-search",
+  "description": "Pi extension for OpenRouter's jev-router: curated allowed models, hard cost exclusions, cost tier, and live-price recommendations of the 3 best models.",
+  "metadata": {
+    "github_url": "https://github.com/Tuxik/pi-jev-mgt",
+    "repo_full_name": "Tuxik/pi-jev-mgt",
+    "description": "Pi extension for OpenRouter's jev-router: curated allowed models, hard cost exclusions, cost tier, and live-price recommendations of the 3 best models.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "cost-control",
+      "llm",
+      "model-routing",
+      "openrouter",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-30T21:15:35Z",
+    "pushed_at": "2026-10-31T10:34:38Z",
+    "updated_at": "2026-10-31T14:47:09Z",
+    "size": 95,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

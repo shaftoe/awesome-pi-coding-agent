@@ -1,0 +1,33 @@
+{
+  "id": "SuQingLan-pi-session-budget",
+  "name": "SuQingLan-pi-session-budget",
+  "url": "https://github.com/SuQingLan/pi-session-budget",
+  "source": "github-search",
+  "description": "Real-time cost, token and cache-hit rate widget for the pi coding agent, with recursive subagent accounting.",
+  "metadata": {
+    "github_url": "https://github.com/SuQingLan/pi-session-budget",
+    "repo_full_name": "SuQingLan/pi-session-budget",
+    "description": "Real-time cost, token and cache-hit rate widget for the pi coding agent, with recursive subagent accounting.",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "cache-hit-rate",
+      "cost-tracking",
+      "extension",
+      "pi",
+      "pi-coding-agent",
+      "token-usage",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-28T18:58:04Z",
+    "pushed_at": "2026-10-31T05:38:50Z",
+    "updated_at": "2026-10-31T05:38:53Z",
+    "size": 115,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

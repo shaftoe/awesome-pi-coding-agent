@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tmustier/pi-queue-steer",
     "repo_full_name": "tmustier/pi-queue-steer",
     "description": "Cursor-style visible follow-up queue with inline editing for Pi",
-    "stars": 37,
+    "stars": 38,
     "forks": 4,
     "open_issues": 1,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-07-16T18:20:48Z",
     "pushed_at": "2026-10-01T23:00:47Z",
-    "updated_at": "2026-10-01T23:00:46Z",
+    "updated_at": "2026-10-31T19:46:09Z",
     "size": 2985,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-system-theme",
+  "name": "pi-system-theme · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-system-theme",
+  "source": "brave-web-search",
+  "description": "Install pi-system-theme from npm and Pi will load the resources declared by the package manifest.",
+  "metadata": {
+    "title": "pi-system-theme · Packages · Pi",
+    "name": "pi-system-theme · Packages · Pi",
+    "description": "Install pi-system-theme from npm and Pi will load the resources declared by the package manifest.",
+    "published_at": "2026-06-02T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-system-theme",
+    "discovery_hint": "brave:pi-theme"
+  },
+  "category": "article"
+}
