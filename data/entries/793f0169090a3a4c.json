@@ -1,0 +1,31 @@
+{
+  "id": "rafae2k-pi-background-agents",
+  "name": "rafae2k-pi-background-agents",
+  "url": "https://github.com/rafae2k/pi-background-agents",
+  "source": "github-search",
+  "description": "Background subagents with a live progress panel and a /goal loop that waits for them, for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/rafae2k/pi-background-agents",
+    "repo_full_name": "rafae2k/pi-background-agents",
+    "description": "Background subagents with a live progress panel and a /goal loop that waits for them, for the pi coding agent",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "coding-agent",
+      "pi-coding-agent",
+      "pi-package",
+      "subagents"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-31T22:15:32Z",
+    "pushed_at": "2026-10-31T23:00:23Z",
+    "updated_at": "2026-11-01T00:02:26Z",
+    "size": 188,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

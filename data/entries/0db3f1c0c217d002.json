@@ -1,0 +1,30 @@
+{
+  "id": "pi-decode-tps",
+  "name": "pi-decode-tps",
+  "url": "https://www.npmjs.com/package/pi-decode-tps",
+  "source": "npm-search",
+  "description": "Decode TPS in Pi's footer: live while streaming, exact when done",
+  "metadata": {
+    "github_url": "https://github.com/muntasimulhaque/pi-decode-tps",
+    "npm_name": "pi-decode-tps",
+    "description": "Decode TPS in Pi's footer: live while streaming, exact when done",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "tps",
+      "tokens-per-second",
+      "decode-throughput",
+      "llm"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-24T05:52:25.921Z",
+    "npm_downloads_monthly": 678,
+    "npm_downloads_weekly": 678,
+    "npm_score_final": 18.824587,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "@pithagoras/flair-avatar",
+  "name": "@pithagoras/flair-avatar",
+  "url": "https://www.npmjs.com/package/@pithagoras/flair-avatar",
+  "source": "npm-search",
+  "description": "A 3D avatar for Pithagoras voice mode: a VRM model drawn where the orb is, which lip-syncs, blinks, breathes and looks at you",
+  "metadata": {
+    "github_url": "https://github.com/prometheion/pithagoras-flair",
+    "npm_name": "@pithagoras/flair-avatar",
+    "description": "A 3D avatar for Pithagoras voice mode: a VRM model drawn where the orb is, which lip-syncs, blinks, breathes and looks at you",
+    "keywords": [
+      "pi-package",
+      "pithagoras",
+      "vrm",
+      "avatar",
+      "voice"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-24T20:53:02.650Z",
+    "npm_downloads_monthly": 526,
+    "npm_downloads_weekly": 526,
+    "npm_score_final": 17.967196,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

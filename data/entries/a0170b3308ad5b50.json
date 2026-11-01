@@ -1,0 +1,30 @@
+{
+  "id": "rukaachan-pi-subagents",
+  "name": "rukaachan-pi-subagents",
+  "url": "https://github.com/rukaachan/pi-subagents",
+  "source": "github-search",
+  "description": "Reusable subagents for Pi coding agent.",
+  "metadata": {
+    "github_url": "https://github.com/rukaachan/pi-subagents",
+    "repo_full_name": "rukaachan/pi-subagents",
+    "description": "Reusable subagents for Pi coding agent.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi",
+      "pi-package",
+      "subagents",
+      "task-delegation"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-19T00:48:32Z",
+    "pushed_at": "2026-10-31T13:07:10Z",
+    "updated_at": "2026-10-31T13:09:52Z",
+    "size": 228,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

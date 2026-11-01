@@ -1,0 +1,29 @@
+{
+  "id": "pi-rnd-theme",
+  "name": "pi-rnd-theme",
+  "url": "https://www.npmjs.com/package/pi-rnd-theme",
+  "source": "npm-search",
+  "description": "Pi extension: generate a random color palette for each working directory",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-rnd-theme",
+    "description": "Pi extension: generate a random color palette for each working directory",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-theme",
+      "theme",
+      "palette"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-31T14:48:01.714Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-theme"
+  },
+  "category": "extension"
+}

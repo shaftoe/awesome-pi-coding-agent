@@ -1,0 +1,31 @@
+{
+  "id": "aicodewith-team-pi-superagent",
+  "name": "aicodewith-team-pi-superagent",
+  "url": "https://github.com/aicodewith-team/pi-superagent",
+  "source": "github-search",
+  "description": "Proactive GitHub coding agent for pi — port of DeepSeek's dsh-superagent-prototype as a pi extension",
+  "metadata": {
+    "github_url": "https://github.com/aicodewith-team/pi-superagent",
+    "repo_full_name": "aicodewith-team/pi-superagent",
+    "description": "Proactive GitHub coding agent for pi — port of DeepSeek's dsh-superagent-prototype as a pi extension",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "deepseek",
+      "pi-coding-agent",
+      "pi-package",
+      "superagent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-31T15:59:33Z",
+    "pushed_at": "2026-10-31T16:24:33Z",
+    "updated_at": "2026-10-31T16:24:36Z",
+    "size": 53,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

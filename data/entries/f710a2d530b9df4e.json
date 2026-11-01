@@ -19,7 +19,7 @@
     "updated_at": "2026-10-13T21:01:40Z",
     "size": 7723,
     "license": null,
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "health": {
     "score": 58,

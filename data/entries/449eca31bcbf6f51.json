@@ -1,0 +1,30 @@
+{
+  "id": "@restranger/repi-advisor",
+  "name": "@restranger/repi-advisor",
+  "url": "https://www.npmjs.com/package/@restranger/repi-advisor",
+  "source": "npm-search",
+  "description": "Advisor strategy pattern for pi-coding-agent with model fallback and subagents integration",
+  "metadata": {
+    "github_url": "https://github.com/ReStranger/repi-mono",
+    "npm_name": "@restranger/repi-advisor",
+    "description": "Advisor strategy pattern for pi-coding-agent with model fallback and subagents integration",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "advisor",
+      "model-fallback",
+      "subagents",
+      "tui"
+    ],
+    "version": "0.0.1-c363991.dirty",
+    "published_at": "2026-10-31T22:15:50.535Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "misc"
+}

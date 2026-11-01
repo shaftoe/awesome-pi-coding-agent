@@ -1,0 +1,26 @@
+{
+  "id": "@meowshed/meow-scheme",
+  "name": "@meowshed/meow-scheme",
+  "url": "https://www.npmjs.com/package/@meowshed/meow-scheme",
+  "source": "npm-search",
+  "description": "Detects Scheme projects from the manifests git tracks, names the implementation before it binds anything, prints a stages table that binds Racket's tests as raco test without writing bytecode and binds nothing for an implementation whose commands the repo",
+  "metadata": {
+    "github_url": "https://github.com/meowshed/meowpaw",
+    "npm_name": "@meowshed/meow-scheme",
+    "description": "Detects Scheme projects from the manifests git tracks, names the implementation before it binds anything, prints a stages table that binds Racket's tests as raco test without writing bytecode and binds nothing for an implementation whose commands the repo",
+    "keywords": [
+      "pi-package",
+      "meowpaw"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-10-31T17:02:51.674Z",
+    "npm_downloads_monthly": 191,
+    "npm_downloads_weekly": 191,
+    "npm_score_final": 14.757354,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

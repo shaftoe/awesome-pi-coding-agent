@@ -10,7 +10,7 @@
     "description": "Design cognition loop for Codex, Claude Code, and Pi-compatible agents — frame, diverge, see, reframe",
     "stars": 205,
     "forks": 18,
-    "open_issues": 3,
+    "open_issues": 1,
     "topics": [
       "ai-design",
       "claude-code",
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-10T08:15:57Z",
-    "pushed_at": "2026-10-31T01:38:18Z",
-    "updated_at": "2026-10-31T01:38:22Z",
-    "size": 16453,
+    "pushed_at": "2026-10-31T06:11:32Z",
+    "updated_at": "2026-10-31T02:28:07Z",
+    "size": 16549,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

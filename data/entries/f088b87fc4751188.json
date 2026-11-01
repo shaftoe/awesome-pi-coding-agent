@@ -1,0 +1,28 @@
+{
+  "id": "@zenspc/pi-autopilot",
+  "name": "@zenspc/pi-autopilot",
+  "url": "https://www.npmjs.com/package/@zenspc/pi-autopilot",
+  "source": "npm-search",
+  "description": "Autonomous Supervisor-Worker orchestration with persistent task DAGs and isolated Git worktrees",
+  "metadata": {
+    "github_url": "https://github.com/zenspc/pi-extensions",
+    "npm_name": "@zenspc/pi-autopilot",
+    "description": "Autonomous Supervisor-Worker orchestration with persistent task DAGs and isolated Git worktrees",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "autopilot",
+      "subagents"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-31T14:56:18.679Z",
+    "npm_downloads_monthly": 159,
+    "npm_downloads_weekly": 159,
+    "npm_score_final": 14.140135,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

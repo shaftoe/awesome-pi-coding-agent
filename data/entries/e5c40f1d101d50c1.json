@@ -1,0 +1,25 @@
+{
+  "id": "@godice/memweave",
+  "name": "@godice/memweave",
+  "url": "https://www.npmjs.com/package/@godice/memweave",
+  "source": "npm-search",
+  "description": "Long-task memory extension for native Pi",
+  "metadata": {
+    "github_url": "https://github.com/godicewang/MemWeave",
+    "npm_name": "@godice/memweave",
+    "description": "Long-task memory extension for native Pi",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-24T10:34:03.671Z",
+    "npm_downloads_monthly": 232,
+    "npm_downloads_weekly": 232,
+    "npm_score_final": 15.379446,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

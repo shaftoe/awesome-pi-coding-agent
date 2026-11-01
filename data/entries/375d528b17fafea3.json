@@ -1,13 +1,13 @@
 {
   "id": "BRAVE_awesome-pi.site_themes",
-  "name": "Themes - | Awesome Pi Coding Agent",
+  "name": "Themes - Awesome Pi Coding Agent",
   "url": "https://awesome-pi.site/themes/",
   "source": "brave-web-search",
-  "description": "Claude Code–style startup header for Pi — animated Pi logo with a 9-color palette, toggleable IBM stripes and Minecraft themes; configurable info bar displays version, model, resource stats, AGENTS.md marker, cwd, and a customizable slogan ... An opinionated wrapper for Pi for use in agentic workflows, with built in github app extension and optional sandboxing.",
+  "description": "Herdr is a terminal multiplexer built specifically for running AI coding agents like Claude Code, Codex, and Pi side by side. ... Color themes for pi: cyberpunk, nord, gruvbox, tokyo-night, catppuccin, and more.",
   "metadata": {
-    "title": "Themes - | Awesome Pi Coding Agent",
-    "name": "Themes - | Awesome Pi Coding Agent",
-    "description": "Claude Code–style startup header for Pi — animated Pi logo with a 9-color palette, toggleable IBM stripes and Minecraft themes; configurable info bar displays version, model, resource stats, AGENTS.md marker, cwd, and a customizable slogan ... An opinionated wrapper for Pi for use in agentic workflows, with built in github app extension and optional sandboxing.",
+    "title": "Themes - Awesome Pi Coding Agent",
+    "name": "Themes - Awesome Pi Coding Agent",
+    "description": "Herdr is a terminal multiplexer built specifically for running AI coding agents like Claude Code, Codex, and Pi side by side. ... Color themes for pi: cyberpunk, nord, gruvbox, tokyo-night, catppuccin, and more.",
     "published_at": null,
     "source_site": "Awesome-pi",
     "source_url": "https://awesome-pi.site/themes/",

@@ -10,7 +10,7 @@
     "description": "Use Claude Code subscription as LLM provider for Pi without breaking Anthropic ToS.",
     "stars": 36,
     "forks": 4,
-    "open_issues": 1,
+    "open_issues": 3,
     "topics": [
       "anthropic-claude",
       "claude-code",
