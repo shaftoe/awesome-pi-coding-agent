@@ -10,7 +10,7 @@
     "description": "The web, from your terminal. Search, extract pages, get grounded answers, and run deep research with your choice of providers. CLI, TypeScript library, and Pi extension.",
     "stars": 92,
     "forks": 14,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "ai-tools",
       "cli",

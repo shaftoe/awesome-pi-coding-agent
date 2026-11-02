@@ -1,0 +1,29 @@
+{
+  "id": "pi-openai-web-search",
+  "name": "pi-openai-web-search",
+  "url": "https://www.npmjs.com/package/pi-openai-web-search",
+  "source": "npm-search",
+  "description": "OpenAI Responses native web_search tool for the pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/mkusaka/pi-openai-web-search",
+    "npm_name": "pi-openai-web-search",
+    "description": "OpenAI Responses native web_search tool for the pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "openai",
+      "web-search"
+    ],
+    "version": "0.0.2",
+    "published_at": "2026-10-25T11:48:06.856Z",
+    "npm_downloads_monthly": 507,
+    "npm_downloads_weekly": 507,
+    "npm_score_final": 17.60578,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

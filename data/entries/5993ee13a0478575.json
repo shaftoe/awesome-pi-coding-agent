@@ -1,0 +1,34 @@
+{
+  "id": "@normful/parallel-web-pi-extension",
+  "name": "@normful/parallel-web-pi-extension",
+  "url": "https://www.npmjs.com/package/@normful/parallel-web-pi-extension",
+  "source": "npm-search",
+  "description": "Add Parallel web search, fetch, and research tools to your pi agent",
+  "metadata": {
+    "github_url": "https://github.com/normful/parallel-web-pi-extension-fork",
+    "npm_name": "@normful/parallel-web-pi-extension",
+    "description": "Add Parallel web search, fetch, and research tools to your pi agent",
+    "keywords": [
+      "pi-package",
+      "pi.dev",
+      "pi agent",
+      "extension",
+      "parallel",
+      "research",
+      "web",
+      "search",
+      "fetch",
+      "ai"
+    ],
+    "version": "2.0.0",
+    "published_at": "2026-10-25T15:53:27.462Z",
+    "npm_downloads_monthly": 281,
+    "npm_downloads_weekly": 205,
+    "npm_score_final": 15.851626,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

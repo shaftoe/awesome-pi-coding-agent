@@ -1,0 +1,29 @@
+{
+  "id": "pi-subagents-panes",
+  "name": "pi-subagents-panes",
+  "url": "https://www.npmjs.com/package/pi-subagents-panes",
+  "source": "npm-search",
+  "description": "Async subagents for pi, displayed as tabs or splits in Orca, herdr, or tmux",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-subagents-panes",
+    "description": "Async subagents for pi, displayed as tabs or splits in Orca, herdr, or tmux",
+    "keywords": [
+      "pi-package",
+      "subagents",
+      "tmux",
+      "herdr",
+      "orca"
+    ],
+    "version": "4.0.3",
+    "published_at": "2026-10-25T13:47:27.687Z",
+    "npm_downloads_monthly": 703,
+    "npm_downloads_weekly": 703,
+    "npm_score_final": 19.073591,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

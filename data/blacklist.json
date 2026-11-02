@@ -68559,5 +68559,55 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-agent"
 		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-balance-gateway",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-02T02:00:58.473Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/urjitc/pi-setup",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-02T02:00:58.504Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ZD21rjVPpl8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-02T02:00:58.558Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Rn-khSlmtd8",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-02T02:00:58.712Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/pingdongyi/pi-termux-notify",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-02T02:00:58.819Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
 	}
 ]

@@ -1,0 +1,29 @@
+{
+  "id": "@prjct.app/pi-sync",
+  "name": "@prjct.app/pi-sync",
+  "url": "https://www.npmjs.com/package/@prjct.app/pi-sync",
+  "source": "npm-search",
+  "description": "Back up and restore complete portable Pi setups between machines, including automatic extension and package installation. Never uploads auth or sessions.",
+  "metadata": {
+    "github_url": "https://github.com/prjct-app/pi-sync",
+    "npm_name": "@prjct.app/pi-sync",
+    "description": "Back up and restore complete portable Pi setups between machines, including automatic extension and package installation. Never uploads auth or sessions.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "sync",
+      "config"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-10-25T22:01:55.719Z",
+    "npm_downloads_monthly": 217,
+    "npm_downloads_weekly": 199,
+    "npm_score_final": 14.985611,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

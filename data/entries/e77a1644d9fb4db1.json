@@ -1,0 +1,26 @@
+{
+  "id": "@moonhalf383/pi-whoasked",
+  "name": "@moonhalf383/pi-whoasked",
+  "url": "https://www.npmjs.com/package/@moonhalf383/pi-whoasked",
+  "source": "npm-search",
+  "description": "Pi extension that detects unwanted phrasing in streamed replies and retries with configurable correction prompts. Includes Chinese and English rules.",
+  "metadata": {
+    "github_url": "https://github.com/Moonhalf383/pi-whoasked",
+    "npm_name": "@moonhalf383/pi-whoasked",
+    "description": "Pi extension that detects unwanted phrasing in streamed replies and retries with configurable correction prompts. Includes Chinese and English rules.",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-25T02:11:03.664Z",
+    "npm_downloads_monthly": 215,
+    "npm_downloads_weekly": 215,
+    "npm_score_final": 15.106164,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

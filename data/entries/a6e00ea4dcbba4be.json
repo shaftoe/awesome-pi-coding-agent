@@ -1,0 +1,28 @@
+{
+  "id": "@hcflabs/pi-auto-compact",
+  "name": "@hcflabs/pi-auto-compact",
+  "url": "https://www.npmjs.com/package/@hcflabs/pi-auto-compact",
+  "source": "npm-search",
+  "description": "Trim repeated reads and compact Pi context at a configurable threshold.",
+  "metadata": {
+    "github_url": "https://github.com/hcflabs/pi-harness",
+    "npm_name": "@hcflabs/pi-auto-compact",
+    "description": "Trim repeated reads and compact Pi context at a configurable threshold.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "compaction",
+      "context"
+    ],
+    "version": "5.3.0",
+    "published_at": "2026-10-25T07:10:17.522Z",
+    "npm_downloads_monthly": 429,
+    "npm_downloads_weekly": 429,
+    "npm_score_final": 17.077095,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-repl-py",
+  "name": "pi-repl-py · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-repl-py",
+  "source": "brave-web-search",
+  "description": "Review the source before installing third-party packages. A pi extension that gives the agent a single execute tool backed by a persistent Python evaluator: a real ipython kernel that keeps variables, functions, imports, and data alive across every call and turn.",
+  "metadata": {
+    "title": "pi-repl-py · Packages · Pi",
+    "name": "pi-repl-py · Packages · Pi",
+    "description": "Review the source before installing third-party packages. A pi extension that gives the agent a single execute tool backed by a persistent Python evaluator: a real ipython kernel that keeps variables, functions, imports, and data alive across every call and turn.",
+    "published_at": "2026-09-29T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-repl-py",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}

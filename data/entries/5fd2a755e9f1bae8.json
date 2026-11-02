@@ -1,0 +1,28 @@
+{
+  "id": "@hcflabs/pi-herdr",
+  "name": "@hcflabs/pi-herdr",
+  "url": "https://www.npmjs.com/package/@hcflabs/pi-herdr",
+  "source": "npm-search",
+  "description": "Shared client for interacting with Herdr from Node.js tools and Pi packages.",
+  "metadata": {
+    "github_url": "https://github.com/hcflabs/pi-harness",
+    "npm_name": "@hcflabs/pi-herdr",
+    "description": "Shared client for interacting with Herdr from Node.js tools and Pi packages.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "herdr",
+      "cli"
+    ],
+    "version": "0.7.0",
+    "published_at": "2026-10-25T07:09:29.902Z",
+    "npm_downloads_monthly": 962,
+    "npm_downloads_weekly": 962,
+    "npm_score_final": 20.091145,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
