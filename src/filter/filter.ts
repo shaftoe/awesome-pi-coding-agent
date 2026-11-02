@@ -205,6 +205,9 @@ const POP_CULTURE_PI_NAMES = new Set(["pi's theme"]);
 
 const FORK_SIGNALS = ["oh-my-pi"];
 
+/** Pi resources that mention a fork but still serve Pi users. */
+const FORK_ALLOWED_URLS = new Set(["https://github.com/paymog/omp-packages"]);
+
 // ─── Positive signals ──────────────────────────────────────────────────────────
 
 const POSITIVE_NAME_PATTERNS = [
@@ -690,6 +693,7 @@ const ecosystemRule: FilterRule = {
 const forkRule: FilterRule = {
 	name: "fork",
 	check(ctx) {
+		if (FORK_ALLOWED_URLS.has(ctx.url)) return null;
 		for (const s of FORK_SIGNALS) {
 			if (ctx.combined.includes(s) || ctx.urlLower.includes(s))
 				return { accept: false, reason: `non-compatible fork signal: "${s}"` };
