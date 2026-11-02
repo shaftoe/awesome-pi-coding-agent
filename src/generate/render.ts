@@ -167,7 +167,19 @@ Content available as Markdown here and as website (with search feature) live at 
 
 A **four-stage data pipeline** runs [daily on CI](.github/workflows/pipeline.yml) — discover from various sources → filter for Pi relevance → deduplicate & classify → render this list.
 
-→ [Full architecture docs](./docs/ARCHITECTURE.md)`);
+→ [Full architecture docs](./docs/ARCHITECTURE.md)
+
+## Suggest a resource
+
+Missing something? Clone the repo, then run:
+
+\`\`\`sh
+pnpm install
+pnpm run add-url <url>  # GitHub repo, npm package, or YouTube video
+pnpm run filter && pnpm run process
+\`\`\`
+
+Open a PR with the new file in \`data/entries/\`. The daily pipeline regenerates this README.`);
 
 	// ── Stats ──
 	sections.push(`
