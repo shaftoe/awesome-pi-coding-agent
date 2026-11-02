@@ -1,0 +1,25 @@
+{
+  "id": "@giovannipapini/gipi-safety",
+  "name": "@giovannipapini/gipi-safety",
+  "url": "https://www.npmjs.com/package/@giovannipapini/gipi-safety",
+  "source": "npm-search",
+  "description": "Interactive tool confirmation guard with plugin rules and substitutions",
+  "metadata": {
+    "github_url": "https://github.com/giovannipapini/gipi",
+    "npm_name": "@giovannipapini/gipi-safety",
+    "description": "Interactive tool confirmation guard with plugin rules and substitutions",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-25T01:35:22.755Z",
+    "npm_downloads_monthly": 536,
+    "npm_downloads_weekly": 536,
+    "npm_score_final": 18.194427,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

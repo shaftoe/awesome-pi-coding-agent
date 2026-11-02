@@ -1,0 +1,35 @@
+{
+  "id": "pi-tuck",
+  "name": "pi-tuck",
+  "url": "https://www.npmjs.com/package/pi-tuck",
+  "source": "npm-search",
+  "description": "Deterministic compaction for Pi with no model call, plus exact recall of earlier history. Search by meaning on Apple silicon.",
+  "metadata": {
+    "github_url": "https://github.com/galyavin/pi-tuck",
+    "npm_name": "pi-tuck",
+    "description": "Deterministic compaction for Pi with no model call, plus exact recall of earlier history. Search by meaning on Apple silicon.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "compaction",
+      "context",
+      "recall",
+      "semantic-search",
+      "pi-coding-agent",
+      "coding-agent",
+      "context-window",
+      "deterministic"
+    ],
+    "version": "1.0.9",
+    "published_at": "2026-11-02T00:03:34.444Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

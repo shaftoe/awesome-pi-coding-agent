@@ -8,7 +8,7 @@
     "github_url": "https://github.com/revenkroz/pi-schema-harness",
     "repo_full_name": "revenkroz/pi-schema-harness",
     "description": "Schema-harness for the pi coding agent: the agent records its assumptions as beliefs with shell checks, verifies them before planning, and drops any plan reality disagrees with",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-08-24T21:32:28Z",
     "pushed_at": "2026-08-24T21:32:32Z",
-    "updated_at": "2026-08-25T22:42:39Z",
+    "updated_at": "2026-11-01T18:35:43Z",
     "size": 17,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"

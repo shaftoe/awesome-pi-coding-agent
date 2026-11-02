@@ -1,0 +1,30 @@
+{
+  "id": "pi-nerdfont-unescape",
+  "name": "pi-nerdfont-unescape",
+  "url": "https://www.npmjs.com/package/pi-nerdfont-unescape",
+  "source": "npm-search",
+  "description": "Observable Nerd Font icon output for the Pi TUI: an ASCII escape protocol, code-span protection, visible substitution for undrawable codepoints, input escaping, stream drop detection, glyph lookup and layout tools",
+  "metadata": {
+    "github_url": "https://github.com/codelllc09/pi-nerdfont-unescape",
+    "npm_name": "pi-nerdfont-unescape",
+    "description": "Observable Nerd Font icon output for the Pi TUI: an ASCII escape protocol, code-span protection, visible substitution for undrawable codepoints, input escaping, stream drop detection, glyph lookup and layout tools",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "nerd-font",
+      "unicode",
+      "icons"
+    ],
+    "version": "0.3.2",
+    "published_at": "2026-11-01T20:43:19.971Z",
+    "npm_downloads_monthly": 381,
+    "npm_downloads_weekly": 381,
+    "npm_score_final": 16.701818,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

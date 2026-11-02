@@ -1,0 +1,27 @@
+{
+  "id": "@korioinc/pi-subagents",
+  "name": "@korioinc/pi-subagents",
+  "url": "https://www.npmjs.com/package/@korioinc/pi-subagents",
+  "source": "npm-search",
+  "description": "Markdown-configured subagents for Pi with parent model authentication and tool delegation",
+  "metadata": {
+    "github_url": "https://github.com/korioinc/pi-agent-extensions",
+    "npm_name": "@korioinc/pi-subagents",
+    "description": "Markdown-configured subagents for Pi with parent model authentication and tool delegation",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "subagents"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-25T15:47:49.211Z",
+    "npm_downloads_monthly": 461,
+    "npm_downloads_weekly": 461,
+    "npm_score_final": 17.37468,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

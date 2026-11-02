@@ -1,0 +1,41 @@
+{
+  "id": "@lennix1337/pi-agent-desktop",
+  "name": "@lennix1337/pi-agent-desktop",
+  "url": "https://www.npmjs.com/package/@lennix1337/pi-agent-desktop",
+  "source": "npm-search",
+  "description": "Computer use for the Pi coding agent: see and control native Windows, macOS and Linux apps (click, type, read, screenshot) through the OS accessibility tree, powered by vercel-labs/agent-desktop.",
+  "metadata": {
+    "github_url": "https://github.com/lennix1337/pi-agent-desktop",
+    "npm_name": "@lennix1337/pi-agent-desktop",
+    "description": "Computer use for the Pi coding agent: see and control native Windows, macOS and Linux apps (click, type, read, screenshot) through the OS accessibility tree, powered by vercel-labs/agent-desktop.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "computer-use",
+      "desktop-automation",
+      "desktop",
+      "accessibility",
+      "ui-automation",
+      "rpa",
+      "agent",
+      "ai-agent",
+      "windows",
+      "macos",
+      "linux",
+      "agent-desktop",
+      "screenshot"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-11-01T04:40:37.432Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

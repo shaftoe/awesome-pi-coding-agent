@@ -8,7 +8,7 @@
     "github_url": "https://github.com/mifunedev/agro",
     "repo_full_name": "mifunedev/agro",
     "description": "🏗️ AGRO — Agent Governance Runtime Orchestrator. A portable home for autonomous coding agents.",
-    "stars": 42,
+    "stars": 43,
     "forks": 5,
     "open_issues": 39,
     "topics": [
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-27T04:26:44Z",
-    "pushed_at": "2026-10-31T21:17:32Z",
-    "updated_at": "2026-10-31T07:03:25Z",
-    "size": 24854,
+    "pushed_at": "2026-11-01T22:41:38Z",
+    "updated_at": "2026-11-02T01:28:12Z",
+    "size": 24786,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
