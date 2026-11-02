@@ -301,6 +301,28 @@ describe("isRelevant — unrelated ecosystems", () => {
 	});
 });
 
+describe("isRelevant — non-compatible forks", () => {
+	it("rejects oh-my-pi plugins", () => {
+		const result = isRelevant(
+			candidate({
+				url: "https://github.com/x/omp-plugin",
+				description: "A pi extension for oh-my-pi",
+			}),
+		);
+		expect(rejectionReason(result)).toContain("non-compatible fork");
+	});
+
+	it("accepts allowed URLs despite the fork signal", () => {
+		const result = isRelevant(
+			candidate({
+				url: "https://github.com/paymog/omp-packages",
+				description: "Which pi coding agent packages work on oh-my-pi",
+			}),
+		);
+		expect(result.accept).toBe(true);
+	});
+});
+
 // ─── Positive name patterns ────────────────────────────────────────────────────
 
 describe("isRelevant — positive name patterns", () => {
