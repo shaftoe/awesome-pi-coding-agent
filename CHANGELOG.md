@@ -7,6 +7,37 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.11.0] - 2026-11-02
+
+### Added
+
+- allow listed URLs past the fork rule, add omp-packages (#401)
+
+### Changed
+
+- **deps-site**: Update astro monorepo (#352)
+- **deps-dev**: update dependency @alexanderfortin/semantic-release-keep-a-changelog to ^0.5.1 (#365)
+- **deps-site**: Update dependency @astrojs/mdx to ^6.0.3 (#327)
+- **deps-site**: Update dependency @astrojs/mdx to v8 (#331)
+- **deps-site**: Update dependency @astrojs/starlight to ^0.42.5 (#353)
+- **deps-site**: Update dependency @astrojs/starlight to ^0.42.6 (#358)
+- **deps-site**: Update dependency @astrojs/starlight to ^0.42.7 (#386)
+- **deps-dev**: update dependency @types/node to ^25.9.8 (#328)
+- **deps-dev**: update dependency @types/node to v26 (#391)
+- **deps-site**: Update dependency sharp to ^0.35.5 (#354)
+- **deps-dev**: update dependency vitest to ^4.1.11 (#329)
+- **deps**: update dependency vitest to ^5.0.3 (#355)
+- **deps-dev**: update dependency vitest to ^5.0.5 (#367)
+- **deps-dev**: update dependency vitest to v5 (#332)
+- **deps-dev**: update npm dev dependencies (#356)
+- **deps-dev**: update pnpm to v12.10.1 (#359)
+- **deps-dev**: update pnpm to v12.11.2 (#363)
+- **deps-dev**: update pnpm to v12.14.0 (#375)
+- **deps-dev**: update pnpm to v12.15.0 (#383)
+- **deps-dev**: update pnpm to v12.16.1 (#393)
+- **deps-ci**: update pnpm to v12.6.0 (#330)
+- **deps-dev**: update semantic-release (#360)
+
 ## [2.10.0] - 2026-09-25
 
 ### Added
@@ -323,6 +354,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove skills category
 - replace @types/bun with pinned bun-types to fix typecheck (#6)
 
+[2.11.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.10.0...v2.11.0
 [2.10.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.9.0...v2.10.0
 [2.9.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.8.1...v2.9.0
 [2.8.1]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.8.0...v2.8.1
