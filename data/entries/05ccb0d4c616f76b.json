@@ -1,0 +1,28 @@
+{
+  "id": "anti-gpt-slop",
+  "name": "anti-gpt-slop",
+  "url": "https://www.npmjs.com/package/anti-gpt-slop",
+  "source": "npm-search",
+  "description": "Pi extension that audits GPT-model responses against a built-in anti-slop ruleset (hedging, hollow apologies, unsupported claims, meta-commentary) and requests a bounded self-correction when it finds a grounded violation.",
+  "metadata": {
+    "github_url": "https://github.com/FeNgkAIY/anti-gpt-slop",
+    "npm_name": "anti-gpt-slop",
+    "description": "Pi extension that audits GPT-model responses against a built-in anti-slop ruleset (hedging, hollow apologies, unsupported claims, meta-commentary) and requests a bounded self-correction when it finds a grounded violation.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "gpt",
+      "audit"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-26T11:51:21.160Z",
+    "npm_downloads_monthly": 440,
+    "npm_downloads_weekly": 440,
+    "npm_score_final": 17.426306,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

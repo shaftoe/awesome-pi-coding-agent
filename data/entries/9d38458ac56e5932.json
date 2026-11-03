@@ -1,0 +1,30 @@
+{
+  "id": "pi-steer-queue",
+  "name": "pi-steer-queue",
+  "url": "https://www.npmjs.com/package/pi-steer-queue",
+  "source": "npm-search",
+  "description": "Type ahead while pi works: Enter queues, Enter again steers at the next safe point, Enter once more interrupts and sends now.",
+  "metadata": {
+    "github_url": "https://github.com/IgorGuariroba/pi-steer-queue",
+    "npm_name": "pi-steer-queue",
+    "description": "Type ahead while pi works: Enter queues, Enter again steers at the next safe point, Enter once more interrupts and sends now.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "steer",
+      "queue",
+      "follow-up",
+      "interrupt"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-02T18:23:14.806Z",
+    "npm_downloads_monthly": 323,
+    "npm_downloads_weekly": 323,
+    "npm_score_final": 16.374744,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_getorchestra.io_pi-agent-harness",
+  "name": "Getting Started with the PI Agent Harness | Orchestra",
+  "url": "https://www.getorchestra.io/knowledge-hub/data-tools/pi-agent-harness",
+  "source": "brave-web-search",
+  "description": "Install the Pi agent harness, sign in to a model provider, run a first task, then drive Pi from code with its TypeScript SDK and print mode.",
+  "metadata": {
+    "title": "Getting Started with the PI Agent Harness | Orchestra",
+    "name": "Getting Started with the PI Agent Harness | Orchestra",
+    "description": "Install the Pi agent harness, sign in to a model provider, run a first task, then drive Pi from code with its TypeScript SDK and print mode.",
+    "published_at": "2026-10-11T00:00:00",
+    "source_site": "Orchestra",
+    "source_url": "https://www.getorchestra.io/knowledge-hub/data-tools/pi-agent-harness",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

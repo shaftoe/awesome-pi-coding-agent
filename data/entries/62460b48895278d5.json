@@ -1,0 +1,30 @@
+{
+  "id": "@tduyng/pi-review",
+  "name": "@tduyng/pi-review",
+  "url": "https://www.npmjs.com/package/@tduyng/pi-review",
+  "source": "npm-search",
+  "description": "/review resolves a target from git, collects project ground truth, and sends a structured review prompt inline or through a subagent.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@tduyng/pi-review",
+    "description": "/review resolves a target from git, collects project ground truth, and sends a structured review prompt inline or through a subagent.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "code-review",
+      "git"
+    ],
+    "version": "0.0.1",
+    "published_at": "2026-11-02T09:41:16.661Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

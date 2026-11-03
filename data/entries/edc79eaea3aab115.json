@@ -1,0 +1,33 @@
+{
+  "id": "gentle-image-preview",
+  "name": "gentle-image-preview",
+  "url": "https://www.npmjs.com/package/gentle-image-preview",
+  "source": "npm-search",
+  "description": "Number pasted images as [Image #N] and preview them, or read their real path, from inside a Pi or Gentle Shell session.",
+  "metadata": {
+    "github_url": "https://github.com/efolchmontiel/gentle-preview",
+    "npm_name": "gentle-image-preview",
+    "description": "Number pasted images as [Image #N] and preview them, or read their real path, from inside a Pi or Gentle Shell session.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "gentle-shell",
+      "preview",
+      "image",
+      "screenshot",
+      "clipboard"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-11-02T19:49:12.916Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "pi-netguard",
+  "name": "pi-netguard",
+  "url": "https://www.npmjs.com/package/pi-netguard",
+  "source": "npm-search",
+  "description": "Ask before recognized network-capable shell commands in pi.",
+  "metadata": {
+    "github_url": "https://github.com/thomas9120/netguard",
+    "npm_name": "pi-netguard",
+    "description": "Ask before recognized network-capable shell commands in pi.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "network",
+      "security"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-26T23:15:53.481Z",
+    "npm_downloads_monthly": 472,
+    "npm_downloads_weekly": 472,
+    "npm_score_final": 17.588636,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "@tduyng/pi-guard",
+  "name": "@tduyng/pi-guard",
+  "url": "https://www.npmjs.com/package/@tduyng/pi-guard",
+  "source": "npm-search",
+  "description": "Four guards: keep parallel pi sessions off each other's files, redact secrets out of read results, keep a stray rejected promise from killing the session, and stop git from hanging on an editor or skipping hooks.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@tduyng/pi-guard",
+    "description": "Four guards: keep parallel pi sessions off each other's files, redact secrets out of read results, keep a stray rejected promise from killing the session, and stop git from hanging on an editor or skipping hooks.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "security",
+      "secrets",
+      "git",
+      "safety"
+    ],
+    "version": "0.0.1",
+    "published_at": "2026-11-02T09:42:04.021Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

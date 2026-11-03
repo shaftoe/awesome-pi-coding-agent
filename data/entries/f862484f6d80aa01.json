@@ -19,14 +19,15 @@
       "pi-package",
       "po"
     ],
-    "version": "0.0.0-alpha.99",
-    "published_at": "2026-11-01T23:05:26.903Z",
-    "npm_downloads_monthly": 11644,
-    "npm_downloads_weekly": 7874,
-    "npm_score_final": 27.602953,
+    "version": "0.0.0-alpha.102",
+    "published_at": "2026-11-03T02:29:15.431Z",
+    "npm_downloads_monthly": 16558,
+    "npm_downloads_weekly": 8788,
+    "npm_score_final": 30.002024,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
+    "pi_declares_extension": false,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "misc"

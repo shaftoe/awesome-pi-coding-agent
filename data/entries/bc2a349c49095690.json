@@ -23,7 +23,8 @@
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-coding-agent"
   },
-  "category": "misc"
+  "category": "extension"
 }

@@ -3,11 +3,11 @@
   "name": "Pi Agent in Practice: Setup, Custom Extensions & 5 Best Practices - HoangYell",
   "url": "https://hoangyell.com/pi-agent-setup-best-practices/",
   "source": "brave-web-search",
-  "description": "Master Pi Agent from scratch: complete CLI setup, multi-provider LLM routing, custom TypeScript extensions, and 5 battle-tested best practices.",
+  "description": "Install the CLI globally via npm (npm i -g --ignore-scripts @earendil-works/pi-coding-agent), authenticate via /login or point to local inference via ~/.pi/agent/models.json, and harness its 7 core primitives (read, write, edit, bash, grep, find, ls).",
   "metadata": {
     "title": "Pi Agent in Practice: Setup, Custom Extensions & 5 Best Practices - HoangYell",
     "name": "Pi Agent in Practice: Setup, Custom Extensions & 5 Best Practices - HoangYell",
-    "description": "Master Pi Agent from scratch: complete CLI setup, multi-provider LLM routing, custom TypeScript extensions, and 5 battle-tested best practices.",
+    "description": "Install the CLI globally via npm (npm i -g --ignore-scripts @earendil-works/pi-coding-agent), authenticate via /login or point to local inference via ~/.pi/agent/models.json, and harness its 7 core primitives (read, write, edit, bash, grep, find, ls).",
     "published_at": "2026-09-25T00:00:00",
     "source_site": "HoangYell",
     "source_url": "https://hoangyell.com/pi-agent-setup-best-practices/",

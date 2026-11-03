@@ -1,0 +1,25 @@
+{
+  "id": "@derogab/pi-rc",
+  "name": "@derogab/pi-rc",
+  "url": "https://www.npmjs.com/package/@derogab/pi-rc",
+  "source": "npm-search",
+  "description": "Connect existing Pi sessions to an Agents RC host for remote control",
+  "metadata": {
+    "github_url": "https://github.com/derogab/rc",
+    "npm_name": "@derogab/pi-rc",
+    "description": "Connect existing Pi sessions to an Agents RC host for remote control",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-02T23:19:20.663Z",
+    "npm_downloads_monthly": 412,
+    "npm_downloads_weekly": 391,
+    "npm_score_final": 17.018845,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

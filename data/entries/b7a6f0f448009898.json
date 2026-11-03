@@ -10,7 +10,7 @@
     "description": "Keep your Pi session moving with your code: pi-gibbon swings the full conversation into another Git worktree—and, in Herdr, into its destination workspace—without missing a beat.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 3,
     "topics": [
       "git-worktree",
       "herdr",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-21T00:00:27Z",
-    "pushed_at": "2026-10-16T21:34:06Z",
+    "pushed_at": "2026-11-02T19:27:20Z",
     "updated_at": "2026-09-26T04:09:22Z",
-    "size": 3077,
+    "size": 3099,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

@@ -1,0 +1,28 @@
+{
+  "id": "pi-t3-bridge",
+  "name": "pi-t3-bridge",
+  "url": "https://www.npmjs.com/package/pi-t3-bridge",
+  "source": "npm-search",
+  "description": "Pi extension adapter for t3-pstack inside T3 Code.",
+  "metadata": {
+    "github_url": "https://github.com/Snestra/pi-t3-bridge",
+    "npm_name": "pi-t3-bridge",
+    "description": "Pi extension adapter for t3-pstack inside T3 Code.",
+    "keywords": [
+      "pi-extension",
+      "pi-package",
+      "pstack",
+      "t3-code"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-11-02T21:27:37.071Z",
+    "npm_downloads_monthly": 480,
+    "npm_downloads_weekly": 480,
+    "npm_score_final": 18.240057,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
