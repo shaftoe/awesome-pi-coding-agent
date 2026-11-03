@@ -10,13 +10,13 @@
  */
 
 import type { Cache } from "../core/cache.ts";
+import { classifyContent } from "../core/category.ts";
 import { paginate } from "../core/paginate.ts";
 import { SEARCH_TERMS } from "../core/terms.ts";
 import { ThrottledFetcher } from "../core/throttle.ts";
 import { type CategorizedEntry, Category, EntrySource } from "../core/types.ts";
 import { writeRaw } from "../discover/runner.ts";
 import type { DiscoveryWriter } from "../discover/writer.ts";
-import { classifyEntry } from "../enrich/classify.ts";
 import { declaresPiExtension } from "./npm-manifest.ts";
 import { formatKNumber } from "./scoring.ts";
 import type { Source } from "./source.ts";
@@ -185,16 +185,22 @@ export function createNpmSource(cache: Cache, opts: NpmSourceOptions = {}): Sour
 					metadata,
 					description: typeof description === "string" ? description : "",
 				};
-				if (classifyEntry(entry).category !== Category.Misc) continue;
+				if (classifyContent(entry) !== Category.Misc) continue;
 
 				const manifestUrl = `https://registry.npmjs.org/${encodeURIComponent(id)}/${encodeURIComponent(version)}`;
 				const key = `npm:pi:${manifestUrl}`;
-				let declared = cache.get<boolean>(key);
+				let declared = cache.get<boolean | "missing">(key);
+				if (declared === "missing") continue;
 				if (declared === null) {
 					if (opts.offline) continue;
 					try {
 						const response = await fetcher.fetch(manifestUrl);
-						if (!response.ok) continue;
+						if (!response.ok) {
+							if (response.status === 404 || response.status === 410) {
+								cache.set(key, "missing", 24 * 60 * 60 * 1000);
+							}
+							continue;
+						}
 						declared = declaresPiExtension(await response.json());
 						cache.set(key, declared, 365 * 24 * 60 * 60 * 1000);
 					} catch (err) {

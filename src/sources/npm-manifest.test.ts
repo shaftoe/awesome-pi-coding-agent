@@ -74,3 +74,42 @@ test("looks up only fallback candidates and reuses the exact version offline", a
 		rmSync(dir, { recursive: true, force: true });
 	}
 });
+
+test.each([404, 410, 500])("handles HTTP %i without recording a declaration", async (status) => {
+	const dir = mkdtempSync(join(tmpdir(), "pi-manifest-"));
+	const registry = vi
+		.fn()
+		.mockResolvedValueOnce(new Response(null, { status }))
+		.mockResolvedValue(Response.json({ pi: { extensions: ["./index.ts"] } }));
+	vi.stubGlobal("fetch", registry);
+	try {
+		let now = Temporal.Instant.from("2026-01-01T00:00:00Z");
+		const cache = new Cache({ dir: join(dir, "cache"), now: () => now });
+		const writer = new DiscoveryWriter(join(dir, "candidates"));
+		writer.init();
+		writer.write("npm", {
+			id: "archive",
+			url: "https://www.npmjs.com/package/archive",
+			source: EntrySource.NpmSearch,
+			metadata: { version: "1.0.0" },
+		});
+		const enrich = () => createNpmSource(cache).enrich?.(writer);
+		const declaration = () =>
+			writer.listByDiscoverer("npm")[0]?.discovery.metadata?.["pi_declares_extension"];
+		await enrich();
+		expect(declaration()).toBeUndefined();
+		if (status !== 500) {
+			await enrich();
+			expect(registry).toHaveBeenCalledTimes(1);
+			expect(declaration()).toBeUndefined();
+			now = now.add({ hours: 24 });
+		}
+		await enrich();
+		expect(declaration()).toBe(true);
+		expect(registry).toHaveBeenCalledTimes(2);
+		await writer.flush();
+	} finally {
+		vi.unstubAllGlobals();
+		rmSync(dir, { recursive: true, force: true });
+	}
+});
