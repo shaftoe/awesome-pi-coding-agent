@@ -1,0 +1,26 @@
+{
+  "id": "@justjoshn/pi-rea",
+  "name": "@justjoshn/pi-rea",
+  "url": "https://www.npmjs.com/package/@justjoshn/pi-rea",
+  "source": "npm-search",
+  "description": "REA (Reverse Engineer Anything) for Pi: REA's published tool contract, its Evidence and session kernel, and its workflow skill, reimplemented on Pi's extension mechanisms.",
+  "metadata": {
+    "github_url": "https://github.com/just-joshn/pi-customizations",
+    "npm_name": "@justjoshn/pi-rea",
+    "description": "REA (Reverse Engineer Anything) for Pi: REA's published tool contract, its Evidence and session kernel, and its workflow skill, reimplemented on Pi's extension mechanisms.",
+    "keywords": [
+      "pi-package",
+      "reverse-engineering"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-02T22:54:25.521Z",
+    "npm_downloads_monthly": 201,
+    "npm_downloads_weekly": 201,
+    "npm_score_final": 14.628599,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

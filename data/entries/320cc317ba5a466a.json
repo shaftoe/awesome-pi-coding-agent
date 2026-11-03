@@ -1,0 +1,31 @@
+{
+  "id": "@thomas-fazzari/pi-otlp",
+  "name": "@thomas-fazzari/pi-otlp",
+  "url": "https://www.npmjs.com/package/@thomas-fazzari/pi-otlp",
+  "source": "npm-search",
+  "description": "Pi extension that exports OpenTelemetry metrics, traces and logs over OTLP/HTTP",
+  "metadata": {
+    "github_url": "https://github.com/thomas-fazzari/pi-otlp",
+    "npm_name": "@thomas-fazzari/pi-otlp",
+    "description": "Pi extension that exports OpenTelemetry metrics, traces and logs over OTLP/HTTP",
+    "keywords": [
+      "grafana",
+      "observability",
+      "opentelemetry",
+      "otlp",
+      "pi",
+      "pi-extension",
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-02T21:30:59.304Z",
+    "npm_downloads_monthly": 204,
+    "npm_downloads_weekly": 204,
+    "npm_score_final": 15.413112,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

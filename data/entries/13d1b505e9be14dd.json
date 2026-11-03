@@ -1,0 +1,30 @@
+{
+  "id": "memctl-pi",
+  "name": "memctl-pi",
+  "url": "https://www.npmjs.com/package/memctl-pi",
+  "source": "npm-search",
+  "description": "Loads memctl memory at pi session start and synchronizes it after each agent run.",
+  "metadata": {
+    "github_url": "https://github.com/gray0128/memctl",
+    "npm_name": "memctl-pi",
+    "description": "Loads memctl memory at pi session start and synchronizes it after each agent run.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "memctl",
+      "memory",
+      "agent-memory"
+    ],
+    "version": "0.5.2",
+    "published_at": "2026-10-20T01:23:17.588Z",
+    "npm_downloads_monthly": 626,
+    "npm_downloads_weekly": 23,
+    "npm_score_final": 20.097216,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

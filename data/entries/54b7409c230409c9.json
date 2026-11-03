@@ -1,0 +1,33 @@
+{
+  "id": "boxery-vm",
+  "name": "boxery-vm",
+  "url": "https://www.npmjs.com/package/boxery-vm",
+  "source": "npm-search",
+  "description": "Dev environments your agents spin up themselves, on any provider (local, remote, and cloud); MCP server + pi extension give agents vm_* tools",
+  "metadata": {
+    "github_url": "https://github.com/modem-dev/boxery",
+    "npm_name": "boxery-vm",
+    "description": "Dev environments your agents spin up themselves, on any provider (local, remote, and cloud); MCP server + pi extension give agents vm_* tools",
+    "keywords": [
+      "pi-package",
+      "mcp",
+      "mcp-server",
+      "vm",
+      "computer-use",
+      "coding-agent",
+      "libvirt",
+      "lima",
+      "kvm"
+    ],
+    "version": "0.9.0",
+    "published_at": "2026-11-02T18:16:47.777Z",
+    "npm_downloads_monthly": 649,
+    "npm_downloads_weekly": 649,
+    "npm_score_final": 19.132189,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
