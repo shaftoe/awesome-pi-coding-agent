@@ -47,6 +47,11 @@ function refreshExistingEntry(
 		name: cleanText(freshName),
 		description: cleanText(freshDesc),
 		metadata: {
+			// A failed or offline lookup cannot invalidate a declaration for the same release.
+			...(existing.metadata["pi_declares_extension"] === true &&
+			existing.metadata["version"] === discovery.metadata?.["version"]
+				? { pi_declares_extension: true }
+				: {}),
 			...(discovery.metadata ?? {}),
 			discovery_hint:
 				discovery.hint ?? (existing.metadata?.["discovery_hint"] as string | null) ?? null,
