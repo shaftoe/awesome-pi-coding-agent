@@ -575,7 +575,8 @@ The awesome-list uses **five categories** (TypeScript string enum `Category`):
 2. **Pi-specific naming/description signals** — npm package name patterns (`pi-*`, `@scope/pi-*`) and Pi-specific description patterns ("for pi coding agent", "pi package") → `Extension`.
 3. **README category scores** — from enrichment metadata.
 4. **Keyword matching** — name + description scanned for category-specific terms (`extension`, `hook`, `plugin`, `provider`, etc.).
-5. **Default fallback** → `Misc`.
+5. For an npm package otherwise classified as `Misc`, discovery checks the exact published version for paths in `pi.skills` or `pi.extensions`. A declaration places the package in `Extension`. Versioned results are cached for offline runs.
+6. **Default fallback** → `Misc`.
 
 ### Why five, not eight
 

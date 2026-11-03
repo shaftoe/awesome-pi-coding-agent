@@ -13,9 +13,11 @@ import type { Cache } from "../core/cache.ts";
 import { paginate } from "../core/paginate.ts";
 import { SEARCH_TERMS } from "../core/terms.ts";
 import { ThrottledFetcher } from "../core/throttle.ts";
-import { type CategorizedEntry, EntrySource } from "../core/types.ts";
+import { type CategorizedEntry, Category, EntrySource } from "../core/types.ts";
 import { writeRaw } from "../discover/runner.ts";
 import type { DiscoveryWriter } from "../discover/writer.ts";
+import { classifyEntry } from "../enrich/classify.ts";
+import { declaresPiExtension } from "./npm-manifest.ts";
 import { formatKNumber } from "./scoring.ts";
 import type { Source } from "./source.ts";
 
@@ -167,6 +169,44 @@ export function createNpmSource(cache: Cache, opts: NpmSourceOptions = {}): Sour
 				return `\u2B07 ${formatKNumber(downloads)}/mo`;
 			}
 			return "";
+		},
+
+		async enrich(writer: DiscoveryWriter): Promise<void> {
+			for (const { discovery } of writer.listByDiscoverer("npm")) {
+				const { id, metadata, url, source } = discovery;
+				const version = metadata?.["version"];
+				if (!id || typeof version !== "string" || !version || !metadata) continue;
+				const description = metadata["description"];
+				const entry = {
+					id,
+					name: id,
+					url,
+					source,
+					metadata,
+					description: typeof description === "string" ? description : "",
+				};
+				if (classifyEntry(entry).category !== Category.Misc) continue;
+
+				const manifestUrl = `https://registry.npmjs.org/${encodeURIComponent(id)}/${encodeURIComponent(version)}`;
+				const key = `npm:pi:${manifestUrl}`;
+				let declared = cache.get<boolean>(key);
+				if (declared === null) {
+					if (opts.offline) continue;
+					try {
+						const response = await fetcher.fetch(manifestUrl);
+						if (!response.ok) continue;
+						declared = declaresPiExtension(await response.json());
+						cache.set(key, declared, 365 * 24 * 60 * 60 * 1000);
+					} catch (err) {
+						process.stderr.write(`[npm] Manifest lookup failed for ${id}@${version}: ${err}\n`);
+						continue;
+					}
+				}
+				writer.write("npm", {
+					...discovery,
+					metadata: { ...metadata, pi_declares_extension: declared },
+				});
+			}
 		},
 
 		async discover(writer: DiscoveryWriter): Promise<void> {

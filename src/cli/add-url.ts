@@ -24,6 +24,7 @@ import { EntrySource } from "../core/types.ts";
 import { writeRaw } from "../discover/runner.ts";
 import { DiscoveryWriter } from "../discover/writer.ts";
 import { normalizeUrl } from "../sources/index.ts";
+import { declaresPiExtension } from "../sources/npm-manifest.ts";
 
 const ROOT_DIR = join(moduleDir(import.meta.url), "..", "..");
 const CACHE_DIR = join(ROOT_DIR, ".cache");
@@ -194,6 +195,7 @@ async function fetchNpm(
 			description: data.description ?? "",
 			keywords: data.keywords ?? [],
 			version: latestVersion ?? null,
+			pi_declares_extension: declaresPiExtension(latestVersion && data.versions[latestVersion]),
 			published_at: publishedAt ?? null,
 			npm_downloads_monthly: null,
 			npm_downloads_weekly: null,

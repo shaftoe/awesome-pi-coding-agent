@@ -193,5 +193,12 @@ export function classifyEntry(entry: Entry): CategorizedEntry {
 		}
 	}
 
+	if (
+		category === Category.Misc &&
+		entry.source === EntrySource.NpmSearch &&
+		entry.metadata["pi_declares_extension"] === true
+	) {
+		category = Category.Extension;
+	}
 	return { ...entry, category };
 }
