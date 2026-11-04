@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Research-first CLI agent built on Pi and alphaXiv",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/TQuang122/hypatia",
     "npm_name": "@tquang122/hypatia",
     "description": "Research-first CLI agent built on Pi and alphaXiv",
@@ -18,11 +19,10 @@
     "published_at": "2026-10-16T10:12:43.164Z",
     "npm_downloads_monthly": 773,
     "npm_downloads_weekly": 123,
-    "npm_score_final": 19.027111,
+    "npm_score_final": 18.732658,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

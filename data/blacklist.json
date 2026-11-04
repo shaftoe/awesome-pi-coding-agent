@@ -68819,5 +68819,195 @@
 			"sourceName": "github",
 			"query": "github-repo:pi-coding-agent language:TypeScript"
 		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-use-db-helper",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-04T03:13:23.53Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=wSYLIcqqGU4",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-11-04T03:13:23.59Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=-s0WEUFCzT8",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-04T03:13:23.634Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/benkim0414/pi",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-04T03:13:23.68Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=OLTAYjC3vpM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-04T03:13:23.727Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/abhishek944/pi-classifier",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-04T03:13:23.853Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/dcs-command-system",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-04T03:13:23.942Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/TechDev009/runrail-desktop",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-04T03:13:23.977Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-context-stats",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-04T03:13:24.046Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=9njEssKh3ms",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-04T03:13:24.21Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=1v7ldJiyH-Y",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-04T03:13:24.264Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=coJGLdWkXGw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-04T03:13:24.329Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/ubranch/omp-uzbek-ste",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-04T03:13:24.361Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=QOUer82b2lc",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-04T03:13:24.402Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/abhishek944/pi-loop-monitor",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-04T03:13:24.42Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/abhishek944/pi-image-gen",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-04T03:13:24.439Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/fatfish-world-pi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-04T03:13:24.757Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=AwxqEVAgpVQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-04T03:13:24.774Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/abhishek944/pi-ask",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-04T03:13:24.936Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
 	}
 ]

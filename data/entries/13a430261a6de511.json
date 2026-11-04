@@ -1,0 +1,42 @@
+{
+  "id": "@yandy0725/mediagen-cli",
+  "name": "@yandy0725/mediagen-cli",
+  "url": "https://www.npmjs.com/package/@yandy0725/mediagen-cli",
+  "source": "npm-search",
+  "description": "Non-interactive image generation and editing, plus short video generation, for agents: qwen-image, doubao/seedream, doubao/seedance, MiniMax H3, files on disk, JSON output.",
+  "metadata": {
+    "github_url": "https://github.com/yandy/mediagen-cli",
+    "npm_name": "@yandy0725/mediagen-cli",
+    "description": "Non-interactive image generation and editing, plus short video generation, for agents: qwen-image, doubao/seedream, doubao/seedance, MiniMax H3, files on disk, JSON output.",
+    "keywords": [
+      "pi-package",
+      "cli",
+      "image",
+      "image-generation",
+      "image-editing",
+      "video",
+      "video-generation",
+      "text-to-video",
+      "seedance",
+      "minimax",
+      "text-to-image",
+      "qwen",
+      "dashscope",
+      "seedream",
+      "doubao",
+      "ark",
+      "agent"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-11-03T07:31:35.424Z",
+    "npm_downloads_monthly": 577,
+    "npm_downloads_weekly": 577,
+    "npm_score_final": 17.948595,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

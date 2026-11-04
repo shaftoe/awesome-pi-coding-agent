@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Define, inspect, and check Knowledge Bus expectations in Pi",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/SterlingJF/knowledge-bus",
     "npm_name": "@knowledge-bus/pi",
     "description": "Define, inspect, and check Knowledge Bus expectations in Pi",
@@ -15,11 +16,10 @@
     "published_at": "2026-10-10T17:49:24.679Z",
     "npm_downloads_monthly": 460,
     "npm_downloads_weekly": 56,
-    "npm_score_final": 17.506155,
+    "npm_score_final": 17.463924,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

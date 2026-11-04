@@ -1,0 +1,25 @@
+{
+  "id": "cheahhl814-pi-dotfiles",
+  "name": "cheahhl814-pi-dotfiles",
+  "url": "https://github.com/cheahhl814/pi-dotfiles",
+  "source": "github-search",
+  "description": "Pi (pi.dev) customisations via chezmoi — settings, themes, extensions, skills",
+  "metadata": {
+    "github_url": "https://github.com/cheahhl814/pi-dotfiles",
+    "repo_full_name": "cheahhl814/pi-dotfiles",
+    "description": "Pi (pi.dev) customisations via chezmoi — settings, themes, extensions, skills",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-03T13:59:46Z",
+    "pushed_at": "2026-11-03T14:00:55Z",
+    "updated_at": "2026-11-03T14:00:59Z",
+    "size": 70,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

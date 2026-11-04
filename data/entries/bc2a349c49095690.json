@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Permission modes (default, bypass, deny) and /mode command for pi-coding-agent",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/ReStranger/repi-mono",
     "npm_name": "@restranger/repi-permission-modes",
     "description": "Permission modes (default, bypass, deny) and /mode command for pi-coding-agent",
@@ -23,7 +24,6 @@
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "category": "extension"

@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "A proof-of-concept destructive-command guard for coding agents.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/wyattjoh/demur",
     "npm_name": "@wyattjoh/demur",
     "description": "A proof-of-concept destructive-command guard for coding agents.",
@@ -17,11 +18,10 @@
     "published_at": "2026-09-21T20:04:17.577Z",
     "npm_downloads_monthly": 2188,
     "npm_downloads_weekly": 33,
-    "npm_score_final": 24.463549,
+    "npm_score_final": 23.152315,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

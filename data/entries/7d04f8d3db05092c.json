@@ -1,0 +1,26 @@
+{
+  "id": "pi-strata",
+  "name": "pi-strata",
+  "url": "https://www.npmjs.com/package/pi-strata",
+  "source": "npm-search",
+  "description": "Strata provider for pi: model discovery, Strata's reasoning levels, sessions (strata_session, yield, drop), one-shot summaries and side calls (strata_checkpoint) and pinned shared prefixes (strata_prefix)",
+  "metadata": {
+    "github_url": "https://github.com/UltimateBoomer/pi-strata",
+    "npm_name": "pi-strata",
+    "description": "Strata provider for pi: model discovery, Strata's reasoning levels, sessions (strata_session, yield, drop), one-shot summaries and side calls (strata_checkpoint) and pinned shared prefixes (strata_prefix)",
+    "keywords": [
+      "pi-package",
+      "strata"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-10-27T15:35:12.513Z",
+    "npm_downloads_monthly": 759,
+    "npm_downloads_weekly": 241,
+    "npm_score_final": 18.814116,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

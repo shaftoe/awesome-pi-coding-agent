@@ -1,0 +1,29 @@
+{
+  "id": "@cobia/pi-wecom-aibot",
+  "name": "@cobia/pi-wecom-aibot",
+  "url": "https://www.npmjs.com/package/@cobia/pi-wecom-aibot",
+  "source": "npm-search",
+  "description": "WeCom (Enterprise WeChat) smart robot for pi over a long connection: BotID + Secret, no public callback URL; task status, result notifications, images, files and proactive push.",
+  "metadata": {
+    "github_url": "https://github.com/cobia68/pi-wecom-aibot",
+    "npm_name": "@cobia/pi-wecom-aibot",
+    "description": "WeCom (Enterprise WeChat) smart robot for pi over a long connection: BotID + Secret, no public callback URL; task status, result notifications, images, files and proactive push.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "wecom",
+      "bot"
+    ],
+    "version": "0.5.0",
+    "published_at": "2026-11-03T07:17:04.928Z",
+    "npm_downloads_monthly": 573,
+    "npm_downloads_weekly": 573,
+    "npm_score_final": 18.232878,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

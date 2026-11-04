@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Jeff is a model-native quality control plane and cooperative workflow protocol for trusted operators and friendly agents, not a security sandbox.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/johanthoren/jeff",
     "npm_name": "@johanthoren/jeff",
     "description": "Jeff is a model-native quality control plane and cooperative workflow protocol for trusted operators and friendly agents, not a security sandbox.",
@@ -15,11 +16,10 @@
     "published_at": "2026-09-05T06:46:53.270Z",
     "npm_downloads_monthly": 228,
     "npm_downloads_weekly": 73,
-    "npm_score_final": 15.693185,
+    "npm_score_final": 16.09744,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

@@ -1,0 +1,32 @@
+{
+  "id": "pi-short-docs",
+  "name": "pi-short-docs",
+  "url": "https://www.npmjs.com/package/pi-short-docs",
+  "source": "npm-search",
+  "description": "Pi extension: replaces pi's verbose built-in system-prompt section with a one-line pointer to the installed pi README.",
+  "metadata": {
+    "github_url": "https://github.com/dam9000/pi-short-docs",
+    "npm_name": "pi-short-docs",
+    "description": "Pi extension: replaces pi's verbose built-in <docs> system-prompt section with a one-line pointer to the installed pi README.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "system-prompt",
+      "docs",
+      "context",
+      "token-optimization"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-03T22:21:07.651Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

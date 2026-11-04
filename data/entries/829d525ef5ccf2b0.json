@@ -1,0 +1,28 @@
+{
+  "id": "@sveltejs/pi",
+  "name": "@sveltejs/pi",
+  "url": "https://www.npmjs.com/package/@sveltejs/pi",
+  "source": "npm-search",
+  "description": "Pi package for Svelte that provides the Svelte MCP server, skills and instructions",
+  "metadata": {
+    "github_url": "https://github.com/sveltejs/ai-tools",
+    "npm_name": "@sveltejs/pi",
+    "description": "Pi package for Svelte that provides the Svelte MCP server, skills and instructions",
+    "keywords": [
+      "pi-package",
+      "svelte",
+      "sveltekit",
+      "mcp"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-03T14:30:23.790Z",
+    "npm_downloads_monthly": 205,
+    "npm_downloads_weekly": 205,
+    "npm_score_final": 15.720378,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
