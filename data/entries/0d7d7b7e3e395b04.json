@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "User-owned Markdown memory with durable maintenance, Pi integration and local stdio MCP access.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/Mr-remon219/common-memory",
     "npm_name": "common-memory-core",
     "description": "User-owned Markdown memory with durable maintenance, Pi integration and local stdio MCP access.",
@@ -17,11 +18,10 @@
     "published_at": "2026-09-15T07:31:10.157Z",
     "npm_downloads_monthly": 222,
     "npm_downloads_weekly": 39,
-    "npm_score_final": 15.058622,
+    "npm_score_final": 14.941443,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

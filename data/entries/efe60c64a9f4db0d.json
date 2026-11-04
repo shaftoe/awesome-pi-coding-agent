@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Pi-as-orchestrator connector for Agent Knock Knock",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/scotthuang/agent-knock-knock",
     "npm_name": "@scotthuang/agent-knock-knock-pi",
     "description": "Pi-as-orchestrator connector for Agent Knock Knock",
@@ -20,11 +21,10 @@
     "published_at": "2026-08-30T17:44:43.604Z",
     "npm_downloads_monthly": 1736,
     "npm_downloads_weekly": 1558,
-    "npm_score_final": 21.767927,
+    "npm_score_final": 21.715408,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

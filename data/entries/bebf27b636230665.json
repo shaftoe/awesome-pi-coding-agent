@@ -1,0 +1,30 @@
+{
+  "id": "morizkay-pi-delta-db",
+  "name": "morizkay-pi-delta-db",
+  "url": "https://github.com/morizkay/pi-delta-db",
+  "source": "github-search",
+  "description": "",
+  "metadata": {
+    "github_url": "https://github.com/morizkay/pi-delta-db",
+    "repo_full_name": "morizkay/pi-delta-db",
+    "description": "",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [
+      "delta",
+      "pi",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-01T00:32:28Z",
+    "pushed_at": "2026-11-03T03:25:23Z",
+    "updated_at": "2026-11-03T22:23:25Z",
+    "size": 80,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

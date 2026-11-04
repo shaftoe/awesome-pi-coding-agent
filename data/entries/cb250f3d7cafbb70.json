@@ -9,7 +9,7 @@
     "repo_full_name": "mavam/webfox",
     "description": "The web, from your terminal. Search, extract pages, get grounded answers, and run deep research with your choice of providers. CLI, TypeScript library, and Pi extension.",
     "stars": 93,
-    "forks": 14,
+    "forks": 15,
     "open_issues": 0,
     "topics": [
       "ai-tools",
@@ -28,9 +28,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-09T08:17:35Z",
-    "pushed_at": "2026-11-02T08:59:10Z",
-    "updated_at": "2026-11-02T17:28:36Z",
-    "size": 1920,
+    "pushed_at": "2026-11-03T20:37:05Z",
+    "updated_at": "2026-11-03T20:37:03Z",
+    "size": 2002,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

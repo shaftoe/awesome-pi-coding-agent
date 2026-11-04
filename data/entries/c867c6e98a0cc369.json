@@ -1,0 +1,33 @@
+{
+  "id": "pi-marimo",
+  "name": "pi-marimo",
+  "url": "https://www.npmjs.com/package/pi-marimo",
+  "source": "npm-search",
+  "description": "Live marimo notebooks in Pi: kernel state in context, and a terminal notebook view (outline and detail, docked beside the chat) where you run cells, drive widgets and tables, and read what the agent changed.",
+  "metadata": {
+    "github_url": "https://github.com/justmytwospence/pi-marimo",
+    "npm_name": "pi-marimo",
+    "description": "Live marimo notebooks in Pi: kernel state in context, and a terminal notebook view (outline and detail, docked beside the chat) where you run cells, drive widgets and tables, and read what the agent changed.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "marimo",
+      "notebook",
+      "jupyter",
+      "tui",
+      "terminal"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-11-03T18:35:46.879Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

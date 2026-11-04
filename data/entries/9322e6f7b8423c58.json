@@ -1,0 +1,31 @@
+{
+  "id": "show-not-tell",
+  "name": "show-not-tell",
+  "url": "https://www.npmjs.com/package/show-not-tell",
+  "source": "npm-search",
+  "description": "Readable, source-linked code walkthroughs for Pi, with KaTeX math, tables and linted diagrams",
+  "metadata": {
+    "github_url": "https://github.com/askprash/show-not-tell",
+    "npm_name": "show-not-tell",
+    "description": "Readable, source-linked code walkthroughs for Pi, with KaTeX math, tables and linted diagrams",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "walkthrough",
+      "evidence",
+      "code-review",
+      "show-not-tell"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-10-27T13:09:37.020Z",
+    "npm_downloads_monthly": 672,
+    "npm_downloads_weekly": 672,
+    "npm_score_final": 19.25387,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Number pasted images as [Image #N] and preview them, or read their real path, from inside a Pi or Gentle Shell session.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/efolchmontiel/gentle-preview",
     "npm_name": "gentle-image-preview",
     "description": "Number pasted images as [Image #N] and preview them, or read their real path, from inside a Pi or Gentle Shell session.",
@@ -26,7 +27,6 @@
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "category": "extension"

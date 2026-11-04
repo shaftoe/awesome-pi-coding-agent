@@ -1,0 +1,27 @@
+{
+  "id": "@sidshaytay/heal-codex-session",
+  "name": "@sidshaytay/heal-codex-session",
+  "url": "https://www.npmjs.com/package/@sidshaytay/heal-codex-session",
+  "source": "npm-search",
+  "description": "Bounded automatic recovery from rejected Codex encrypted reasoning.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@sidshaytay/heal-codex-session",
+    "description": "Bounded automatic recovery from rejected Codex encrypted reasoning.",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-10-27T19:03:36.839Z",
+    "npm_downloads_monthly": 322,
+    "npm_downloads_weekly": 224,
+    "npm_score_final": 16.110216,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -3,14 +3,14 @@
   "name": "leonidgrishenkov-pi-extensions",
   "url": "https://github.com/leonidgrishenkov/pi-extensions",
   "source": "github-search",
-  "description": "My extensions for Pi Coding Agent",
+  "description": "My extensions, themes and prompts for the Pi coding agent: MCP, web search and fetch, SSH, permission gates, wrapper, etc.",
   "metadata": {
     "github_url": "https://github.com/leonidgrishenkov/pi-extensions",
     "repo_full_name": "leonidgrishenkov/pi-extensions",
-    "description": "My extensions for Pi Coding Agent",
+    "description": "My extensions, themes and prompts for the Pi coding agent: MCP, web search and fetch, SSH, permission gates, wrapper, etc.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 18,
     "topics": [
       "ai",
       "ai-agents",
@@ -19,11 +19,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-28T19:47:09Z",
-    "pushed_at": "2026-06-29T21:06:31Z",
-    "updated_at": "2026-06-29T21:06:34Z",
-    "size": 223,
+    "pushed_at": "2026-10-23T04:37:04Z",
+    "updated_at": "2026-11-03T19:52:24Z",
+    "size": 1205,
     "license": null,
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },
   "category": "extension"
 }

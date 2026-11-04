@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Preview a file, its lines around a given line, or its thumbnail from inside a Pi or Gentle Shell session, without opening it.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/efolchmontiel/gentle-preview",
     "npm_name": "gentle-quick-peek",
     "description": "Preview a file, its lines around a given line, or its thumbnail from inside a Pi or Gentle Shell session, without opening it.",
@@ -26,7 +27,6 @@
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "category": "extension"

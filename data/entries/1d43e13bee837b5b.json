@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Bounded detached Git worktree experiments for Pi: try an idea in an isolated worktree, export it as a patch, or discard it",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/TannerMidd/SpecPi",
     "npm_name": "specpi-experiments",
     "description": "Bounded detached Git worktree experiments for Pi: try an idea in an isolated worktree, export it as a patch, or discard it",
@@ -19,11 +20,10 @@
     "published_at": "2026-09-16T20:29:13.326Z",
     "npm_downloads_monthly": 268,
     "npm_downloads_weekly": 30,
-    "npm_score_final": 16.31283,
+    "npm_score_final": 16.620667,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

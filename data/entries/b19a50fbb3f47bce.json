@@ -1,0 +1,31 @@
+{
+  "id": "@huseynsnmz/pi-frame",
+  "name": "@huseynsnmz/pi-frame",
+  "url": "https://www.npmjs.com/package/@huseynsnmz/pi-frame",
+  "source": "npm-search",
+  "description": "Pi's start screen, a framed editor, a box around every tool call and a session footer. A fork of @adeildo/pi-look.",
+  "metadata": {
+    "github_url": "https://github.com/huseynsnmz/pi-frame",
+    "npm_name": "@huseynsnmz/pi-frame",
+    "description": "Pi's start screen, a framed editor, a box around every tool call and a session footer. A fork of @adeildo/pi-look.",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "statusline",
+      "theme",
+      "tui"
+    ],
+    "version": "0.3.7",
+    "published_at": "2026-11-03T20:35:06.717Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

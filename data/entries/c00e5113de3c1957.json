@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "A board beside the chat, where cx leaves what it found, changed, proposes and asks.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/comchatx/cx-board",
     "npm_name": "@comchatx/cx-board",
     "description": "A board beside the chat, where cx leaves what it found, changed, proposes and asks.",
@@ -15,11 +16,10 @@
     "published_at": "2026-10-30T04:44:16.950Z",
     "npm_downloads_monthly": 398,
     "npm_downloads_weekly": 398,
-    "npm_score_final": 17.52153,
+    "npm_score_final": 17.97483,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

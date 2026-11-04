@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Wake a running pi session when its Message Board inbox changes.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/Consiliency/message-board",
     "npm_name": "@consiliency/agent-board-pi",
     "description": "Wake a running pi session when its Message Board inbox changes.",
@@ -17,11 +18,10 @@
     "published_at": "2026-10-14T21:30:16.326Z",
     "npm_downloads_monthly": 1116,
     "npm_downloads_weekly": 59,
-    "npm_score_final": 20.196995,
+    "npm_score_final": 19.884438,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
