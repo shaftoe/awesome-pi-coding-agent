@@ -1,0 +1,28 @@
+{
+  "id": "pi-simple-status-footer",
+  "name": "pi-simple-status-footer",
+  "url": "https://www.npmjs.com/package/pi-simple-status-footer",
+  "source": "npm-search",
+  "description": "A customizable status footer extension for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/lonnnnnng/pi-simple-status-footer",
+    "npm_name": "pi-simple-status-footer",
+    "description": "A customizable status footer extension for the Pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "status-bar",
+      "footer"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-04T16:06:48.578Z",
+    "npm_downloads_monthly": 287,
+    "npm_downloads_weekly": 287,
+    "npm_score_final": 16.734215,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

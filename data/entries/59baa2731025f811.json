@@ -8,7 +8,7 @@
     "github_url": "https://github.com/supanadit/morse",
     "repo_full_name": "supanadit/morse",
     "description": "A comfortable GUI for the Pi coding agent",
-    "stars": 13,
+    "stars": 14,
     "forks": 2,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-10-03T01:20:46Z",
     "pushed_at": "2026-11-01T09:18:42Z",
-    "updated_at": "2026-11-01T09:15:08Z",
+    "updated_at": "2026-11-04T15:37:28Z",
     "size": 11011,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

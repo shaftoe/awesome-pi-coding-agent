@@ -1,0 +1,40 @@
+{
+  "id": "pi-media-transcribe",
+  "name": "pi-media-transcribe",
+  "url": "https://www.npmjs.com/package/pi-media-transcribe",
+  "source": "npm-search",
+  "description": "Local-first transcription to structured Markdown notes: transcribe YouTube, podcasts and meetings offline with Whisper or Qwen3-ASR, then optionally have an LLM proofread, segment, summarize and file into any notes folder or Obsidian vault.",
+  "metadata": {
+    "github_url": "https://github.com/cyub/pi-media-transcribe",
+    "npm_name": "pi-media-transcribe",
+    "description": "Local-first transcription to structured Markdown notes: transcribe YouTube, podcasts and meetings offline with Whisper or Qwen3-ASR, then optionally have an LLM proofread, segment, summarize and file into any notes folder or Obsidian vault.",
+    "keywords": [
+      "pi-package",
+      "pi-skill",
+      "pi",
+      "transcribe",
+      "transcription",
+      "subtitle",
+      "youtube",
+      "podcast",
+      "asr",
+      "whisper",
+      "qwen3-asr",
+      "speech-to-text",
+      "offline",
+      "obsidian",
+      "markdown",
+      "notes"
+    ],
+    "version": "0.2.5",
+    "published_at": "2026-11-04T15:49:49.981Z",
+    "npm_downloads_monthly": 680,
+    "npm_downloads_weekly": 680,
+    "npm_score_final": 19.008976,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

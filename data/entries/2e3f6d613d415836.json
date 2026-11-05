@@ -10,7 +10,7 @@
     "description": "Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.",
     "stars": 2177,
     "forks": 252,
-    "open_issues": 51,
+    "open_issues": 49,
     "topics": [
       "ai-agents",
       "ai-coding",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-01-20T21:39:40Z",
-    "pushed_at": "2026-11-03T22:41:39Z",
-    "updated_at": "2026-11-03T21:16:59Z",
-    "size": 47090,
+    "pushed_at": "2026-11-04T22:54:21Z",
+    "updated_at": "2026-11-04T16:30:41Z",
+    "size": 52046,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

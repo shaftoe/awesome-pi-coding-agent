@@ -1,0 +1,30 @@
+{
+  "id": "MataM15-gentle-shell-chat-bubbles",
+  "name": "MataM15-gentle-shell-chat-bubbles",
+  "url": "https://github.com/MataM15/gentle-shell-chat-bubbles",
+  "source": "github-search",
+  "description": "Chat-style UI for the Pi coding agent and Gentle Shell: speech and thought bubbles, compact tool cards, and the sakura-dusk theme.",
+  "metadata": {
+    "github_url": "https://github.com/MataM15/gentle-shell-chat-bubbles",
+    "repo_full_name": "MataM15/gentle-shell-chat-bubbles",
+    "description": "Chat-style UI for the Pi coding agent and Gentle Shell: speech and thought bubbles, compact tool cards, and the sakura-dusk theme.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "gentle-shell-extension",
+      "gentle-shell-package",
+      "gentle-shell-theme",
+      "pi-coding-agent"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-04T23:15:37Z",
+    "pushed_at": "2026-11-04T23:35:07Z",
+    "updated_at": "2026-11-04T23:35:12Z",
+    "size": 499,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

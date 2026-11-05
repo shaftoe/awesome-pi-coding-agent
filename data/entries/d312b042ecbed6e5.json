@@ -1,0 +1,41 @@
+{
+  "id": "@topy-ai/cso-skills",
+  "name": "@topy-ai/cso-skills",
+  "url": "https://www.npmjs.com/package/@topy-ai/cso-skills",
+  "source": "npm-search",
+  "description": "Install the TOPY.AI AI CSO skills (daily CVE and end-of-life watch, dependencies and secrets, headers, TLS and safe web scans of verified domains, skill and MCP vetting, incidents and weekly security reports) into Claude Code, Codex, Pi, Cursor, Gemini CL",
+  "metadata": {
+    "github_url": "https://github.com/TOPY-AI-LTD/TOPY-AI-CSO-Skills",
+    "npm_name": "@topy-ai/cso-skills",
+    "description": "Install the TOPY.AI AI CSO skills (daily CVE and end-of-life watch, dependencies and secrets, headers, TLS and safe web scans of verified domains, skill and MCP vetting, incidents and weekly security reports) into Claude Code, Codex, Pi, Cursor, Gemini CL",
+    "keywords": [
+      "topy.ai",
+      "ai-cso",
+      "founders",
+      "security",
+      "cve",
+      "vulnerabilities",
+      "supply-chain",
+      "skills",
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "pi-package",
+      "pi",
+      "cursor",
+      "gemini-cli",
+      "opencode",
+      "mcp"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-03T23:04:32.668Z",
+    "npm_downloads_monthly": 192,
+    "npm_downloads_weekly": 192,
+    "npm_score_final": 16.094212,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

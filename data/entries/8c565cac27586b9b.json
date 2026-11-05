@@ -1,0 +1,25 @@
+{
+  "id": "@it-bens-ai/clipboard-agent-tools",
+  "name": "@it-bens-ai/clipboard-agent-tools",
+  "url": "https://www.npmjs.com/package/@it-bens-ai/clipboard-agent-tools",
+  "source": "npm-search",
+  "description": "Clipboard MCP tools for pi: copy inline text or a file's contents to the system clipboard, with a bash check that keeps the agent on the MCP tools.",
+  "metadata": {
+    "github_url": "https://github.com/it-bens-ai/clipboard-agent-tools",
+    "npm_name": "@it-bens-ai/clipboard-agent-tools",
+    "description": "Clipboard MCP tools for pi: copy inline text or a file's contents to the system clipboard, with a bash check that keeps the agent on the MCP tools.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "2.0.1",
+    "published_at": "2026-10-28T12:09:34.729Z",
+    "npm_downloads_monthly": 466,
+    "npm_downloads_weekly": 466,
+    "npm_score_final": 17.786848,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

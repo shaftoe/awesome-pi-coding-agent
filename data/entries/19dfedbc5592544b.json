@@ -5,7 +5,6 @@
   "source": "npm-search",
   "description": "Open-source CLI to back up a Supabase project — Postgres database and Storage files — to your own S3/R2/B2 bucket, with a checksummed manifest.",
   "metadata": {
-    "pi_declares_extension": true,
     "github_url": "https://github.com/backupdrill/cli",
     "npm_name": "backupdrill",
     "description": "Open-source CLI to back up a Supabase project — Postgres database and Storage files — to your own S3/R2/B2 bucket, with a checksummed manifest.",
@@ -25,14 +24,15 @@
       "healthchecks",
       "pi-package"
     ],
-    "version": "2.9.2",
-    "published_at": "2026-10-31T13:34:30.911Z",
-    "npm_downloads_monthly": 2038,
-    "npm_downloads_weekly": 884,
-    "npm_score_final": 21.774792,
+    "version": "2.10.0",
+    "published_at": "2026-11-04T14:41:18.170Z",
+    "npm_downloads_monthly": 3289,
+    "npm_downloads_weekly": 1577,
+    "npm_score_final": 25.57691,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

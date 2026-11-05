@@ -69009,5 +69009,135 @@
 			"sourceName": "github",
 			"query": "github-repo:pi-package language:TypeScript"
 		}
+	},
+	{
+		"url": "https://github.com/edde746/ompanion",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-11-05T03:21:19.345Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=OrcsMi2-IcM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-05T03:21:19.473Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/Tiancaizhi9098/pi-plugins",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-05T03:21:19.494Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/baaadtrippp/slack-agent-starter",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-05T03:21:19.6Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/IsuruMaduranga/one-code",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-05T03:21:19.618Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=nQ4PuTPFdtA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-05T03:21:19.779Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/Arcobalneo/pi-super",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-05T03:21:19.917Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=laPkgKxs7tQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-05T03:21:19.941Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/edoriban/vandev-wizard-themes",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-05T03:21:19.993Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@liuxincuit/pi-kit",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-05T03:21:20.051Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=DmjVmsEBwas",
+		"reason": "pi network crypto signal: \"pi network\"",
+		"blacklisted_at": "2026-11-05T03:21:20.095Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/wutongyuonce/pi-deep-dive",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-05T03:21:20.128Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/dsh-pi-models",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-05T03:21:20.138Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
 	}
 ]
