@@ -167,8 +167,8 @@ importers:
   .:
     dependencies:
       temporal-polyfill:
-        specifier: ^1.0.5
-        version: 1.0.5
+        specifier: ^1.0.8
+        version: 1.0.8
       typescript:
         specifier: ^7.0.2
         version: 7.0.2
@@ -2997,11 +2997,17 @@ packages:
   temporal-polyfill@1.0.5:
     resolution: {integrity: sha512-+H/mmY74i6wXCMcjIhGuSnODcyZnc4eois2myhOyX0UqRAKNXQY5m9iB1en5jQ/n4SXtjLXo1ElBI5bmn8tZwQ==}
 
+  temporal-polyfill@1.0.8:
+    resolution: {integrity: sha512-RCCGa0GddT099XG49ijdD0tDf86L8vfuZun1+JyJiO4Y2NP9PACQsG0OnvNPXwVLisdvhr/zqL2nhKQmXXx08A==}
+
   temporal-spec@1.0.1:
     resolution: {integrity: sha512-wxVoanmDeavXie1vu2JaQ3WIc3JZnWAOYFBsJyATaVsXsycKYUflGsyBmrRSnoCpZJpwPyr38VpgSUlQ8CbFxg==}
 
   temporal-utils@1.0.3:
     resolution: {integrity: sha512-9jbTSX3HvkOWvDpNpFzwX/d1mkCrgQgwLmVTOEiuocZGKHsrQJtttGZFmybJ2zYP5zCSZuU5ZyeS8+eOEPABiQ==}
+
+  temporal-utils@1.0.4:
+    resolution: {integrity: sha512-4mAcgbWlaxe+gn23gk8g0iHxCVGVOhKzSCfF5HM3lfvH8BdT+/pBmH/R/E4CrIse+koUgs8ThkPzCLnui6Fi8w==}
 
   tempy@3.2.0:
     resolution: {integrity: sha512-d79HhZya5Djd7am0q+W4RTsSU+D/aJzM+4Y4AGJGuGlgM2L6sx5ZvOYTmZjqPhrDrV6xJTtRSm1JCLj6V6LHLQ==}
@@ -3450,7 +3456,7 @@ snapshots:
       get-stream: 9.0.1
       into-stream: 9.1.0
       semantic-release: 25.0.9(supports-color@7.2.0)(typescript@7.0.2)
-      temporal-polyfill: 1.0.5
+      temporal-polyfill: 1.0.8
 
   '@astrojs/compiler-binding-android-arm64@0.5.1':
     optional: true
@@ -6223,9 +6229,16 @@ snapshots:
       temporal-spec: 1.0.1
       temporal-utils: 1.0.3
 
+  temporal-polyfill@1.0.8:
+    dependencies:
+      temporal-spec: 1.0.1
+      temporal-utils: 1.0.4
+
   temporal-spec@1.0.1: {}
 
   temporal-utils@1.0.3: {}
+
+  temporal-utils@1.0.4: {}
 
   tempy@3.2.0:
     dependencies:
