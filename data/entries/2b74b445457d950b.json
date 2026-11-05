@@ -1,0 +1,27 @@
+{
+  "id": "pi-openrouter-advanced-provider",
+  "name": "pi-openrouter-advanced-provider",
+  "url": "https://www.npmjs.com/package/pi-openrouter-advanced-provider",
+  "source": "npm-search",
+  "description": "OpenRouter provider extension for pi: account-scoped live catalog, per-model provider routing config, just-in-time provider selection, and real context windows.",
+  "metadata": {
+    "github_url": "https://github.com/mitchellnemitz/pi-openrouter-advanced-provider",
+    "npm_name": "pi-openrouter-advanced-provider",
+    "description": "OpenRouter provider extension for pi: account-scoped live catalog, per-model provider routing config, just-in-time provider selection, and real context windows.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "openrouter"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-10-28T19:59:48.736Z",
+    "npm_downloads_monthly": 358,
+    "npm_downloads_weekly": 358,
+    "npm_score_final": 16.931421,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

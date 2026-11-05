@@ -8,7 +8,7 @@
     "github_url": "https://github.com/misakano7545/pi-win7",
     "repo_full_name": "misakano7545/pi-win7",
     "description": "Pi agent for Windows 7: portable package, bundled Node runtime, console shims, mintty terminal",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-10-12T17:01:59Z",
     "pushed_at": "2026-11-03T13:03:02Z",
-    "updated_at": "2026-11-03T13:03:06Z",
+    "updated_at": "2026-11-04T09:25:35Z",
     "size": 87683,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

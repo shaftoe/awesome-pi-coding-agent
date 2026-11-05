@@ -8,8 +8,8 @@
     "github_url": "https://github.com/leohenon/pi-anthropic-oauth",
     "repo_full_name": "leohenon/pi-anthropic-oauth",
     "description": "Pi extension for Anthropic OAuth with Claude Pro/Max.",
-    "stars": 114,
-    "forks": 30,
+    "stars": 115,
+    "forks": 31,
     "open_issues": 0,
     "topics": [
       "anthropic",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-09T10:49:09Z",
-    "pushed_at": "2026-10-29T15:32:50Z",
-    "updated_at": "2026-11-03T11:51:27Z",
-    "size": 290,
+    "pushed_at": "2026-11-04T14:38:04Z",
+    "updated_at": "2026-11-04T16:48:46Z",
+    "size": 321,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

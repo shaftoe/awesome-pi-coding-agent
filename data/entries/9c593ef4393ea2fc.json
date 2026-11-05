@@ -1,13 +1,13 @@
 {
   "id": "BRAVE_awesome-pi.site_extensions",
-  "name": "Extensions - Awesome Pi Coding Agent",
+  "name": "Extensions - | Awesome Pi Coding Agent",
   "url": "https://awesome-pi.site/extensions/",
   "source": "brave-web-search",
-  "description": "Pi extension for durable background shell tasks, read-only delegated agents, local attested Pi runs, and fixed-purpose Fusion workflows through child Pi processes. ... Multi-phase security audits with specialist sub-agents, isolated context windows, capped concurrency, and resumable state — ...",
+  "description": "Personal Pi customizations, packaged as a Pi package: worktree isolation and rewind snapshots, question, todo, goal, plan, serve, subagent, job, watch, web-access, file-browse, file-open, file-read, check, memory, context, session-bus, board, team, wechat ... Keeps long Pi sessions cheap without losing anything: folds older output when the savings pay for the rewrite, prepares summaries in the background, and recalls originals byte for byte.",
   "metadata": {
-    "title": "Extensions - Awesome Pi Coding Agent",
-    "name": "Extensions - Awesome Pi Coding Agent",
-    "description": "Pi extension for durable background shell tasks, read-only delegated agents, local attested Pi runs, and fixed-purpose Fusion workflows through child Pi processes. ... Multi-phase security audits with specialist sub-agents, isolated context windows, capped concurrency, and resumable state — ...",
+    "title": "Extensions - | Awesome Pi Coding Agent",
+    "name": "Extensions - | Awesome Pi Coding Agent",
+    "description": "Personal Pi customizations, packaged as a Pi package: worktree isolation and rewind snapshots, question, todo, goal, plan, serve, subagent, job, watch, web-access, file-browse, file-open, file-read, check, memory, context, session-bus, board, team, wechat ... Keeps long Pi sessions cheap without losing anything: folds older output when the savings pay for the rewrite, prepares summaries in the background, and recalls originals byte for byte.",
     "published_at": null,
     "source_site": "Awesome-pi",
     "source_url": "https://awesome-pi.site/extensions/",

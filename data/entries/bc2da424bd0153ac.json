@@ -1,0 +1,26 @@
+{
+  "id": "@mblarsen/pi-switch",
+  "name": "@mblarsen/pi-switch",
+  "url": "https://www.npmjs.com/package/@mblarsen/pi-switch",
+  "source": "npm-search",
+  "description": "Switch between Pi and PiG in the same terminal and session.",
+  "metadata": {
+    "github_url": "https://github.com/mblarsen/pi-extensions",
+    "npm_name": "@mblarsen/pi-switch",
+    "description": "Switch between Pi and PiG in the same terminal and session.",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-28T06:27:34.763Z",
+    "npm_downloads_monthly": 256,
+    "npm_downloads_weekly": 256,
+    "npm_score_final": 16.352419,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

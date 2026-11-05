@@ -1,0 +1,28 @@
+{
+  "id": "pi-rex-adapter",
+  "name": "pi-rex-adapter",
+  "url": "https://www.npmjs.com/package/pi-rex-adapter",
+  "source": "npm-search",
+  "description": "Parallel Pi agents, side conversations, and background jobs in Rex — with automatic result delivery and a compact task overview.",
+  "metadata": {
+    "github_url": "https://github.com/xiangsam/pi-rex-adapter",
+    "npm_name": "pi-rex-adapter",
+    "description": "Parallel Pi agents, side conversations, and background jobs in Rex — with automatic result delivery and a compact task overview.",
+    "keywords": [
+      "pi-package",
+      "rex",
+      "pi",
+      "agents"
+    ],
+    "version": "0.1.7",
+    "published_at": "2026-11-04T13:00:09.518Z",
+    "npm_downloads_monthly": 1175,
+    "npm_downloads_weekly": 1175,
+    "npm_score_final": 21.328825,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

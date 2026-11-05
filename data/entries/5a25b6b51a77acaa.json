@@ -1,0 +1,32 @@
+{
+  "id": "pi-deepseek-peak-router",
+  "name": "pi-deepseek-peak-router",
+  "url": "https://www.npmjs.com/package/pi-deepseek-peak-router",
+  "source": "npm-search",
+  "description": "Pi extension that sends DeepSeek requests to a cheaper OpenRouter endpoint during DeepSeek's peak-price hours.",
+  "metadata": {
+    "github_url": "https://github.com/ymy88/pi-deepseek-peak-router",
+    "npm_name": "pi-deepseek-peak-router",
+    "description": "Pi extension that sends DeepSeek requests to a cheaper OpenRouter endpoint during DeepSeek's peak-price hours.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "deepseek",
+      "deepseek-flash",
+      "openrouter",
+      "cost",
+      "routing"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-28T16:22:43.488Z",
+    "npm_downloads_monthly": 359,
+    "npm_downloads_weekly": 359,
+    "npm_score_final": 17.540825,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

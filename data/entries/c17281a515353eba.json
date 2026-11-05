@@ -1,0 +1,30 @@
+{
+  "id": "3lAngel0-balanceria",
+  "name": "3lAngel0-balanceria",
+  "url": "https://github.com/3lAngel0/balanceria",
+  "source": "github-search",
+  "description": "Deterministic quota balancer and virtual model router with zero LLM overhead (<1ms) for Gentle Shell and Pi agent environments. Automatic failover, sticky prompt cache, and │ real-time TUI/web usage dashboard.",
+  "metadata": {
+    "github_url": "https://github.com/3lAngel0/balanceria",
+    "repo_full_name": "3lAngel0/balanceria",
+    "description": "Deterministic quota balancer and virtual model router with zero LLM overhead (<1ms) for Gentle Shell and Pi agent environments. Automatic failover, sticky prompt cache, and  │ real-time TUI/web usage dashboard.",
+    "stars": 6,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "gentle-shell",
+      "gentle-shell-extension",
+      "gentle-shell-package",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-27T03:35:29Z",
+    "pushed_at": "2026-11-04T20:56:43Z",
+    "updated_at": "2026-11-04T22:45:44Z",
+    "size": 6417,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

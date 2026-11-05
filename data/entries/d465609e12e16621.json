@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "LCARS agent console for pi — one command boots the web UI and the in-process pi backend",
   "metadata": {
-    "github_url": null,
+    "github_url": "https://github.com/BenXsha/pi-lcars",
     "npm_name": "pi-lcars",
     "description": "LCARS agent console for pi — one command boots the web UI and the in-process pi backend",
     "keywords": [
@@ -14,17 +14,19 @@
       "lcars",
       "agent",
       "console",
-      "web-ui"
+      "web-ui",
+      "pi-package",
+      "pi-extension"
     ],
-    "version": "0.3.2",
-    "published_at": "2026-10-30T14:35:33.941Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.5.2",
+    "published_at": "2026-11-04T03:45:56.927Z",
+    "npm_downloads_monthly": 594,
+    "npm_downloads_weekly": 594,
+    "npm_score_final": 18.569633,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }
