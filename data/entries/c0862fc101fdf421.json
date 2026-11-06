@@ -1,0 +1,31 @@
+{
+  "id": "@protokol11/pi-todo-state",
+  "name": "@protokol11/pi-todo-state",
+  "url": "https://www.npmjs.com/package/@protokol11/pi-todo-state",
+  "source": "npm-search",
+  "description": "Append-only, concurrency-safe todo board for pi sessions: event log plus deterministic fold.",
+  "metadata": {
+    "github_url": "https://github.com/protokol11/agent-governance",
+    "npm_name": "@protokol11/pi-todo-state",
+    "description": "Append-only, concurrency-safe todo board for pi sessions: event log plus deterministic fold.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "agent-governance",
+      "todo-state",
+      "todo",
+      "event-log"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-29T09:48:04.068Z",
+    "npm_downloads_monthly": 225,
+    "npm_downloads_weekly": 225,
+    "npm_score_final": 15.251086,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

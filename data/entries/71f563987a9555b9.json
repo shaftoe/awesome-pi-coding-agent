@@ -3,25 +3,26 @@
   "name": "@foliox/transparent-compact-pi",
   "url": "https://www.npmjs.com/package/@foliox/transparent-compact-pi",
   "source": "npm-search",
-  "description": "Deterministic, verbatim-preserving compaction for Pi, with session-backed subagent context recovery.",
+  "description": "Model-free, deterministic, and self-aware compaction; with session-backed subagent context recovery, and optional context pruning and fidelity controls.",
   "metadata": {
     "github_url": "https://github.com/felixwoolford/transparent-compact-pi",
     "npm_name": "@foliox/transparent-compact-pi",
-    "description": "Deterministic, verbatim-preserving compaction for Pi, with session-backed subagent context recovery.",
+    "description": "Model-free, deterministic, and self-aware compaction; with session-backed subagent context recovery, and optional context pruning and fidelity controls.",
     "keywords": [
       "pi-package",
       "pi-extension",
       "compaction",
       "context-recovery"
     ],
-    "version": "0.11.1",
-    "published_at": "2026-11-04T16:49:49.307Z",
-    "npm_downloads_monthly": 1729,
-    "npm_downloads_weekly": 1103,
-    "npm_score_final": 22.05146,
+    "version": "0.11.3",
+    "published_at": "2026-11-05T17:46:50.119Z",
+    "npm_downloads_monthly": 1941,
+    "npm_downloads_weekly": 966,
+    "npm_score_final": 22.1712,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

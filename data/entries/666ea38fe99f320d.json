@@ -1,0 +1,25 @@
+{
+  "id": "@code-fixer-23/pi-tiered-subagents",
+  "name": "@code-fixer-23/pi-tiered-subagents",
+  "url": "https://www.npmjs.com/package/@code-fixer-23/pi-tiered-subagents",
+  "source": "npm-search",
+  "description": "Family-aware subagent runtime for pi: scoped specialists, layered agent definitions, and inspectable model selection.",
+  "metadata": {
+    "github_url": "https://github.com/louiss0/pi-packages",
+    "npm_name": "@code-fixer-23/pi-tiered-subagents",
+    "description": "Family-aware subagent runtime for pi: scoped specialists, layered agent definitions, and inspectable model selection.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-10-29T17:53:46.304Z",
+    "npm_downloads_monthly": 238,
+    "npm_downloads_weekly": 238,
+    "npm_score_final": 15.860564,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

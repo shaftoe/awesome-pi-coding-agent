@@ -5,7 +5,6 @@
   "source": "npm-search",
   "description": "GSD Core is a meta-prompting, context engineering, and spec-driven development system for AI coding agents.",
   "metadata": {
-    "pi_declares_extension": true,
     "github_url": "https://github.com/open-gsd/gsd-core",
     "npm_name": "@opengsd/gsd-core",
     "description": "GSD Core is a meta-prompting, context engineering, and spec-driven development system for AI coding agents.",
@@ -20,14 +19,15 @@
       "codex-cli",
       "pi-package"
     ],
-    "version": "1.20.0",
-    "published_at": "2026-11-03T00:23:55.664Z",
-    "npm_downloads_monthly": 50288,
-    "npm_downloads_weekly": 15716,
-    "npm_score_final": 34.20711,
+    "version": "1.20.1",
+    "published_at": "2026-11-05T14:33:23.392Z",
+    "npm_downloads_monthly": 53617,
+    "npm_downloads_weekly": 18375,
+    "npm_score_final": 34.408283,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

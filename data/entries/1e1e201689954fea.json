@@ -8,7 +8,7 @@
     "github_url": "https://github.com/mralifakbar/pi-usage-dashboard",
     "repo_full_name": "mralifakbar/pi-usage-dashboard",
     "description": "A web-based dashboard for tracking token usage, costs, sessions, and resources across all your pi coding agent",
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-05-04T06:20:05Z",
     "pushed_at": "2026-05-04T17:50:07Z",
-    "updated_at": "2026-10-13T09:47:32Z",
+    "updated_at": "2026-11-05T07:29:34Z",
     "size": 350,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

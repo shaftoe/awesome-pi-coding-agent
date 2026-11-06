@@ -9,7 +9,7 @@
     "repo_full_name": "fatwang2/pi-dsh",
     "description": "Pi Coding Agent provider extension that exposes the DeepSeek Harness (dsh) as a selectable provider — Pi host, DSH engine.",
     "stars": 4,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "deepseek-harness",

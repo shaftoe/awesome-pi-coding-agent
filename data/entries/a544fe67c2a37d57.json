@@ -1,0 +1,30 @@
+{
+  "id": "@protokol11/pi-judgment",
+  "name": "@protokol11/pi-judgment",
+  "url": "https://www.npmjs.com/package/@protokol11/pi-judgment",
+  "source": "npm-search",
+  "description": "Typed, calibrated decisions for pi agents: judge tool, append-only ledger, reliability curve, scope-lock gate with dual-judge review.",
+  "metadata": {
+    "github_url": "https://github.com/protokol11/agent-governance",
+    "npm_name": "@protokol11/pi-judgment",
+    "description": "Typed, calibrated decisions for pi agents: judge tool, append-only ledger, reliability curve, scope-lock gate with dual-judge review.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "agent-governance",
+      "calibration",
+      "judgment"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-29T09:29:04.365Z",
+    "npm_downloads_monthly": 460,
+    "npm_downloads_weekly": 460,
+    "npm_score_final": 17.67468,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

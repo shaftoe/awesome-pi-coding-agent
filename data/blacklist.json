@@ -69139,5 +69139,185 @@
 			"sourceName": "npm",
 			"query": "npm:keywords:pi-coding-agent"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=VCdN0UVFHAE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-06T03:21:33.648Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=h_ESlKivYHc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-06T03:21:33.697Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Zkkx0SztUvY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-06T03:21:33.711Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/WiloxDev/gentle-antigravity-bridge",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-06T03:21:33.759Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/hawkff/pi-cliproxyapi-native",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-06T03:21:33.872Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-error-retry",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-06T03:21:33.933Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/WiloxDev/gentle-image-flow",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-06T03:21:33.982Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://pidocs.seepine.com/en/",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-06T03:21:34.048Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-wechat-session-hub",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-06T03:21:34.123Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/SMAJORG/smaj-verified-delegation",
+		"reason": "pi network crypto signal: \"pi network\"",
+		"blacklisted_at": "2026-11-06T03:21:34.215Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/alferio94/gentle-teams",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-06T03:21:34.293Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/3d24rd0/antigravity-bridge",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-06T03:21:34.386Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/picoduck/wollipog",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-06T03:21:34.406Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-clearer-answer",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-06T03:21:34.539Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/shaikowannasleep/paseo-pink-white-theme",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-11-06T03:21:34.562Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=InjwMEpZ3Hc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-06T03:21:34.709Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=-QVcd5xQqcI",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-11-06T03:21:34.744Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-action-hub",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-06T03:21:34.869Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
 	}
 ]
