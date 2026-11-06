@@ -12,15 +12,15 @@ The site was built against an **old data layout** with 8 categories stored in pe
 
 This creates several mismatches:
 
-| Aspect | Old (site expects) | New (pipeline provides) |
-|--------|--------------------|-------------------------|
-| Entry storage | `data/{category}s/` dirs | `data/entries/` flat dir |
-| Categories | 8 (`extension`, `tool`, `theme`, `provider`, `template`, `video`, `example`, `documentation`) | 4 (`Extension`, `Theme`, `Video`, `Misc`) |
-| Category type | lowercase strings | PascalCase string enum |
-| Data bridge | `src/lib/site-data.ts` (doesn't exist yet) | `site/src/lib/data.ts` re-exports `@pipeline/lib/site-data.ts` |
-| Metadata fields | `stars`, `last_commit`, `language` | Source-specific: `stars` (GitHub), `views` (YouTube), `npm_downloads_monthly` (npm) |
-| Health levels | `active`, `maintained`, `stale`, `dead` (lowercase) | `Active`, `Maintained`, `Stale`, `Dead` (PascalCase) |
-| Search index | Inlines old category list + reads old dir layout | Must read `data/entries/` flat dir |
+| Aspect          | Old (site expects)                                                                            | New (pipeline provides)                                                             |
+| --------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Entry storage   | `data/{category}s/` dirs                                                                      | `data/entries/` flat dir                                                            |
+| Categories      | 8 (`extension`, `tool`, `theme`, `provider`, `template`, `video`, `example`, `documentation`) | 4 (`Extension`, `Theme`, `Video`, `Misc`)                                           |
+| Category type   | lowercase strings                                                                             | PascalCase string enum                                                              |
+| Data bridge     | `src/lib/site-data.ts` (doesn't exist yet)                                                    | `site/src/lib/data.ts` re-exports `@pipeline/lib/site-data.ts`                      |
+| Metadata fields | `stars`, `last_commit`, `language`                                                            | Source-specific: `stars` (GitHub), `views` (YouTube), `npm_downloads_monthly` (npm) |
+| Health levels   | `active`, `maintained`, `stale`, `dead` (lowercase)                                           | `Active`, `Maintained`, `Stale`, `Dead` (PascalCase)                                |
+| Search index    | Inlines old category list + reads old dir layout                                              | Must read `data/entries/` flat dir                                                  |
 
 ---
 
@@ -30,12 +30,12 @@ This creates several mismatches:
 
 Instead of creating a bridge module `src/lib/site-data.ts` (rejected — would duplicate data access), the site imports **data access** directly from pipeline core and keeps **presentation logic** in its own `site/src/lib/`:
 
-| Concern | Source | Import path |
-|---------|--------|-------------|
-| Data access (loadAllEntries, etc.) | `src/core/store.ts` | `@pipeline/core/store` |
-| Types (Category, CategorizedEntry, etc.) | `src/core/types.ts` | `@pipeline/core/types` |
-| HTML entity decode | `src/core/html.ts` | `@pipeline/core/html` |
-| Category metadata, formatting, aggregation | **new** `site/src/lib/` files | local imports |
+| Concern                                    | Source                        | Import path            |
+| ------------------------------------------ | ----------------------------- | ---------------------- |
+| Data access (loadAllEntries, etc.)         | `src/core/store.ts`           | `@pipeline/core/store` |
+| Types (Category, CategorizedEntry, etc.)   | `src/core/types.ts`           | `@pipeline/core/types` |
+| HTML entity decode                         | `src/core/html.ts`            | `@pipeline/core/html`  |
+| Category metadata, formatting, aggregation | **new** `site/src/lib/` files | local imports          |
 
 **New files in `site/src/lib/`:**
 
@@ -47,6 +47,7 @@ site/src/lib/
 ```
 
 **Why this is better:**
+
 - When the store migrates to SQLite, only `src/core/store.ts` changes — the site doesn't care
 - No duplicate file-reading code in a bridge module
 - Clean dependency: site → core (presentation reads data), never the reverse
@@ -74,6 +75,7 @@ New file with all presentation formatting:
 ### 4. Rewrite `site/src/lib/data.ts` — thin re-export facade ✅
 
 Rewritten to import from the correct sources:
+
 - Types + data access from `@pipeline/core/store` and `@pipeline/core/types`
 - HTML decode from `@pipeline/core/html`
 - Presentation helpers from local `./categories.ts` and `./format.ts`
@@ -82,14 +84,14 @@ Rewritten to import from the correct sources:
 
 Updated sidebar from 6 old categories to 4 new ones:
 
-| Old | New |
-|-----|-----|
-| 🔌 Extensions | 🔌 Extensions |
-| 🛠️ Tools & Utilities | *(merged into Extensions / Misc)* |
-| 🎨 Themes | 🎨 Themes |
-| 🔗 Providers | *(merged into Misc)* |
-| 📋 Templates | *(merged into Misc)* |
-| 🎬 Videos | 🎬 Videos & Tutorials |
+| Old                  | New                               |
+| -------------------- | --------------------------------- |
+| 🔌 Extensions        | 🔌 Extensions                     |
+| 🛠️ Tools & Utilities | _(merged into Extensions / Misc)_ |
+| 🎨 Themes            | 🎨 Themes                         |
+| 🔗 Providers         | _(merged into Misc)_              |
+| 📋 Templates         | _(merged into Misc)_              |
+| 🎬 Videos            | 🎬 Videos & Tutorials             |
 
 Added `/misc` route.
 
