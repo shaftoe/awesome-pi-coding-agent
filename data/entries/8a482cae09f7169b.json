@@ -1,0 +1,30 @@
+{
+  "id": "@bitmonkey/pisim",
+  "name": "@bitmonkey/pisim",
+  "url": "https://www.npmjs.com/package/@bitmonkey/pisim",
+  "source": "npm-search",
+  "description": "Pi extension: watch and drive a booted iOS Simulator from a herdr pane, and let the agent see, tap and type into it",
+  "metadata": {
+    "github_url": "https://github.com/bitmonkeyhouse/pisim",
+    "npm_name": "@bitmonkey/pisim",
+    "description": "Pi extension: watch and drive a booted iOS Simulator from a herdr pane, and let the agent see, tap and type into it",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "ios",
+      "simulator",
+      "xcode",
+      "herdr"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-11-05T23:09:32.692Z",
+    "npm_downloads_monthly": 187,
+    "npm_downloads_weekly": 187,
+    "npm_score_final": 15.349249,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

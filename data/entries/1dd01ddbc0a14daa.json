@@ -1,0 +1,41 @@
+{
+  "id": "sebastianspicker-auto-pi-lot",
+  "name": "sebastianspicker-auto-pi-lot",
+  "url": "https://github.com/sebastianspicker/auto-pi-lot",
+  "source": "github-search",
+  "description": "Graph mode for the Pi coding agent: plans tasks as validated graphs, runs them through a pure, replayable state machine, and only trusts results the host has checked.",
+  "metadata": {
+    "github_url": "https://github.com/sebastianspicker/auto-pi-lot",
+    "repo_full_name": "sebastianspicker/auto-pi-lot",
+    "description": "Graph mode for the Pi coding agent: plans tasks as validated graphs, runs them through a pure, replayable state machine, and only trusts results the host has checked.",
+    "stars": 4,
+    "forks": 1,
+    "open_issues": 2,
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "coding-agent",
+      "dag",
+      "deterministic",
+      "event-sourcing",
+      "github-pages",
+      "llm",
+      "nodejs",
+      "orchestration",
+      "pi-agent",
+      "pi-coding-agent",
+      "state-machine",
+      "task-graph",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-24T19:42:39Z",
+    "pushed_at": "2026-11-05T23:06:23Z",
+    "updated_at": "2026-11-05T14:26:11Z",
+    "size": 2774,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

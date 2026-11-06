@@ -1,0 +1,25 @@
+{
+  "id": "@electionbuddy/riverdale-arc-loader",
+  "name": "@electionbuddy/riverdale-arc-loader",
+  "url": "https://www.npmjs.com/package/@electionbuddy/riverdale-arc-loader",
+  "source": "npm-search",
+  "description": "Arc pi package: loads the Riverdale eb-arc adapter shipped inside the workspace's electionbuddy.com clone",
+  "metadata": {
+    "github_url": "https://github.com/electionbuddy/riverdale-arc-loader",
+    "npm_name": "@electionbuddy/riverdale-arc-loader",
+    "description": "Arc pi package: loads the Riverdale eb-arc adapter shipped inside the workspace's electionbuddy.com clone",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-29T19:26:23.733Z",
+    "npm_downloads_monthly": 290,
+    "npm_downloads_weekly": 290,
+    "npm_score_final": 16.817179,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

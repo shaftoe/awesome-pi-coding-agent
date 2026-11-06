@@ -1,0 +1,29 @@
+{
+  "id": "pi-herdr-bridge",
+  "name": "pi-herdr-bridge",
+  "url": "https://www.npmjs.com/package/pi-herdr-bridge",
+  "source": "npm-search",
+  "description": "Bridge Pi's blocking extension UI prompts to Herdr's waiting-for-user state.",
+  "metadata": {
+    "github_url": "https://github.com/Zbzdr/pi-herdr-bridge",
+    "npm_name": "pi-herdr-bridge",
+    "description": "Bridge Pi's blocking extension UI prompts to Herdr's waiting-for-user state.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "herdr",
+      "ui",
+      "notifications"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-29T17:07:55.794Z",
+    "npm_downloads_monthly": 332,
+    "npm_downloads_weekly": 332,
+    "npm_score_final": 17.27067,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

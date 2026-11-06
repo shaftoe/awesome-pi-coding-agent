@@ -1,0 +1,29 @@
+{
+  "id": "@ego-lite/pi-plugin",
+  "name": "@ego-lite/pi-plugin",
+  "url": "https://www.npmjs.com/package/@ego-lite/pi-plugin",
+  "source": "npm-search",
+  "description": "Portable ego-browser Skill for AI agent hosts",
+  "metadata": {
+    "github_url": "https://github.com/citrolabs/ego-lite",
+    "npm_name": "@ego-lite/pi-plugin",
+    "description": "Portable ego-browser Skill for AI agent hosts",
+    "keywords": [
+      "pi-package",
+      "agent-plugin",
+      "browser",
+      "automation",
+      "skill"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-10-29T08:31:31.125Z",
+    "npm_downloads_monthly": 289,
+    "npm_downloads_weekly": 289,
+    "npm_score_final": 16.462843,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

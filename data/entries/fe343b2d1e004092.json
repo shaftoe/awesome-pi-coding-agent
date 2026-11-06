@@ -10,7 +10,7 @@
     "description": "Feature-rich custom footer (statusline) extension for the Pi Coding Agent — model, git, token usage, cost, context %, burn rate, themes.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 3,
     "topics": [
       "catppuccin",
       "cli",
