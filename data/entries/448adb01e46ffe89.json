@@ -3,11 +3,11 @@
   "name": "pi-gatekeeper",
   "url": "https://www.npmjs.com/package/pi-gatekeeper",
   "source": "npm-search",
-  "description": "Keeps the Pi coding agent working until a verification command passes, with an optional rollback of unverified changes",
+  "description": "Refuses to let a Pi run settle while your executable completion requirement is false, after making the agent define one that is concrete",
   "metadata": {
     "github_url": "https://github.com/j3hn/pi-gatekeeper",
     "npm_name": "pi-gatekeeper",
-    "description": "Keeps the Pi coding agent working until a verification command passes, with an optional rollback of unverified changes",
+    "description": "Refuses to let a Pi run settle while your executable completion requirement is false, after making the agent define one that is concrete",
     "keywords": [
       "pi-package",
       "pi",
@@ -15,8 +15,8 @@
       "verification",
       "gatekeeper"
     ],
-    "version": "2.1.0",
-    "published_at": "2026-11-05T00:08:50.951Z",
+    "version": "3.0.0",
+    "published_at": "2026-11-05T03:33:29.483Z",
     "npm_downloads_monthly": 0,
     "npm_downloads_weekly": 0,
     "npm_score_final": 0,

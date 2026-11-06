@@ -10,7 +10,7 @@
     "description": "Maintainer-facing core library for Pi widget host/provider protocol, presence switching, and shared runtime helpers.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 3,
     "topics": [
       "developer-tools",
       "pi-coding-agent",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-16T14:20:48Z",
-    "pushed_at": "2026-11-02T00:59:55Z",
-    "updated_at": "2026-11-02T00:59:58Z",
-    "size": 114,
+    "pushed_at": "2026-11-05T08:15:25Z",
+    "updated_at": "2026-11-05T08:06:59Z",
+    "size": 164,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

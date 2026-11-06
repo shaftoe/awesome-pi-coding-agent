@@ -8,9 +8,9 @@
     "github_url": "https://github.com/shaftoe/awesome-pi-coding-agent",
     "repo_full_name": "shaftoe/awesome-pi-coding-agent",
     "description": "An auto-discovered, LLM curated directory of resources for the Pi Coding Agent ecosystem. Updated daily.",
-    "stars": 176,
+    "stars": 175,
     "forks": 22,
-    "open_issues": 14,
+    "open_issues": 15,
     "topics": [
       "awesome-list",
       "pi-coding-agent"
@@ -18,9 +18,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-21T14:07:40Z",
-    "pushed_at": "2026-11-05T01:58:17Z",
-    "updated_at": "2026-11-05T02:19:07Z",
-    "size": 106013,
+    "pushed_at": "2026-11-06T01:59:19Z",
+    "updated_at": "2026-11-05T14:14:00Z",
+    "size": 109784,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

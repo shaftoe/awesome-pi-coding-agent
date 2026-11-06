@@ -1,0 +1,29 @@
+{
+  "id": "pi-claude-artifacts",
+  "name": "pi-claude-artifacts",
+  "url": "https://www.npmjs.com/package/pi-claude-artifacts",
+  "source": "npm-search",
+  "description": "Read-only listing and fetching of claude.ai artifacts (Claude Designs and single pages) from Pi, through your own Claude Code login.",
+  "metadata": {
+    "github_url": "https://github.com/KevinSleegers/pi-claude-artifacts",
+    "npm_name": "pi-claude-artifacts",
+    "description": "Read-only listing and fetching of claude.ai artifacts (Claude Designs and single pages) from Pi, through your own Claude Code login.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "claude",
+      "claude-design",
+      "claude-artifacts"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-29T18:51:53.133Z",
+    "npm_downloads_monthly": 370,
+    "npm_downloads_weekly": 370,
+    "npm_score_final": 17.341227,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

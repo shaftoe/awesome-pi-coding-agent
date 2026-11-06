@@ -1,0 +1,29 @@
+{
+  "id": "@flop-labs/pi",
+  "name": "@flop-labs/pi",
+  "url": "https://www.npmjs.com/package/@flop-labs/pi",
+  "source": "npm-search",
+  "description": "FLOP verified inference for Pi and Pi Durable, with model routing and replay-safe paid jobs",
+  "metadata": {
+    "github_url": "https://github.com/flop-labs/flop-core",
+    "npm_name": "@flop-labs/pi",
+    "description": "FLOP verified inference for Pi and Pi Durable, with model routing and replay-safe paid jobs",
+    "keywords": [
+      "pi-package",
+      "flop",
+      "verified-inference",
+      "virtual-model"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-10-29T04:01:52.222Z",
+    "npm_downloads_monthly": 320,
+    "npm_downloads_weekly": 320,
+    "npm_score_final": 17.147198,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

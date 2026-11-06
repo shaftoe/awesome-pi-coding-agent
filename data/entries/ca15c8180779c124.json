@@ -16,13 +16,13 @@
     ],
     "version": "0.0.6",
     "published_at": "2026-10-01T08:37:33.538Z",
-    "npm_downloads_monthly": 1001,
-    "npm_downloads_weekly": 27,
-    "npm_score_final": 21.874044,
+    "npm_downloads_monthly": 100,
+    "npm_downloads_weekly": 35,
+    "npm_score_final": 17.028255,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-package"
+    "discovery_hint": "npm:keywords:pi-coding-agent"
   },
   "category": "extension"
 }

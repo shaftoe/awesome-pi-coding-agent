@@ -3,11 +3,11 @@
   "name": "Extensions - | Awesome Pi Coding Agent",
   "url": "https://awesome-pi.site/extensions/",
   "source": "brave-web-search",
-  "description": "Personal Pi customizations, packaged as a Pi package: worktree isolation and rewind snapshots, question, todo, goal, plan, serve, subagent, job, watch, web-access, file-browse, file-open, file-read, check, memory, context, session-bus, board, team, wechat ... Keeps long Pi sessions cheap without losing anything: folds older output when the savings pay for the rewrite, prepares summaries in the background, and recalls originals byte for byte.",
+  "description": "Automatic multi-account failover & rotation for Pi Agent across Anthropic (Claude), native OpenAI ChatGPT and legacy Codex, Kimi For Coding, Cursor, Qwen/Alibaba, and Ollama. Auto-discovers authenticated accounts, grows the rotation on login, and drops ac ... Activation-gated package guidance and help skills for DoomPi and Pi extensions.",
   "metadata": {
     "title": "Extensions - | Awesome Pi Coding Agent",
     "name": "Extensions - | Awesome Pi Coding Agent",
-    "description": "Personal Pi customizations, packaged as a Pi package: worktree isolation and rewind snapshots, question, todo, goal, plan, serve, subagent, job, watch, web-access, file-browse, file-open, file-read, check, memory, context, session-bus, board, team, wechat ... Keeps long Pi sessions cheap without losing anything: folds older output when the savings pay for the rewrite, prepares summaries in the background, and recalls originals byte for byte.",
+    "description": "Automatic multi-account failover & rotation for Pi Agent across Anthropic (Claude), native OpenAI ChatGPT and legacy Codex, Kimi For Coding, Cursor, Qwen/Alibaba, and Ollama. Auto-discovers authenticated accounts, grows the rotation on login, and drops ac ... Activation-gated package guidance and help skills for DoomPi and Pi extensions.",
     "published_at": null,
     "source_site": "Awesome-pi",
     "source_url": "https://awesome-pi.site/extensions/",

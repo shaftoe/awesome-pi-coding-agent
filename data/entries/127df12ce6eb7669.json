@@ -1,0 +1,31 @@
+{
+  "id": "@gkzhb/pi-shepherdr",
+  "name": "@gkzhb/pi-shepherdr",
+  "url": "https://www.npmjs.com/package/@gkzhb/pi-shepherdr",
+  "source": "npm-search",
+  "description": "Persistent blocking and asynchronous Pi agents through Herdr and local tuios.",
+  "metadata": {
+    "github_url": "https://github.com/gkzhb/howaboua-pi-stuff",
+    "npm_name": "@gkzhb/pi-shepherdr",
+    "description": "Persistent blocking and asynchronous Pi agents through Herdr and local tuios.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "herdr",
+      "shepherdr",
+      "agents",
+      "orchestration"
+    ],
+    "version": "0.2.26",
+    "published_at": "2026-11-05T11:52:22.011Z",
+    "npm_downloads_monthly": 270,
+    "npm_downloads_weekly": 270,
+    "npm_score_final": 16.239641,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

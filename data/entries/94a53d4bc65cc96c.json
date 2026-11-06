@@ -1,0 +1,34 @@
+{
+  "id": "pi-prompt-enhance",
+  "name": "pi-prompt-enhance",
+  "url": "https://www.npmjs.com/package/pi-prompt-enhance",
+  "source": "npm-search",
+  "description": "Pi extension: rewrite a sloppy draft prompt into a sharper one using the current conversation as context, ask you the choices it refuses to guess as multiple-choice dialogs, and put the result back in the editor.",
+  "metadata": {
+    "github_url": "https://github.com/zeroicey/pi-prompt-enhance",
+    "npm_name": "pi-prompt-enhance",
+    "description": "Pi extension: rewrite a sloppy draft prompt into a sharper one using the current conversation as context, ask you the choices it refuses to guess as multiple-choice dialogs, and put the result back in the editor.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "prompt",
+      "prompt-engineering",
+      "rewrite",
+      "dictation",
+      "voice-input",
+      "editor"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-05T04:44:35.216Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
