@@ -1,0 +1,31 @@
+{
+  "id": "pi-helm",
+  "name": "pi-helm",
+  "url": "https://www.npmjs.com/package/pi-helm",
+  "source": "npm-search",
+  "description": "pi / pi-web cockpit extension: a reactive, policy-gated ticket/worker system built on the DSH-free dsh-superagent Engine, wired to pi-web sessions and a loopback GitHub webhook.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-helm",
+    "description": "pi / pi-web cockpit extension: a reactive, policy-gated ticket/worker system built on the DSH-free dsh-superagent Engine, wired to pi-web sessions and a loopback GitHub webhook.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-web",
+      "github",
+      "agent",
+      "tickets",
+      "orchestration"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-11-06T13:58:03.045Z",
+    "npm_downloads_monthly": 439,
+    "npm_downloads_weekly": 439,
+    "npm_score_final": 17.740194,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

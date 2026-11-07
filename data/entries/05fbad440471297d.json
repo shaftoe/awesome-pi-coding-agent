@@ -1,0 +1,32 @@
+{
+  "id": "pi-simple-sri",
+  "name": "pi-simple-sri",
+  "url": "https://www.npmjs.com/package/pi-simple-sri",
+  "source": "npm-search",
+  "description": "Self-recursive improvement loop for pi skills: observe failures, propose a skill change, gate it against the incumbent, and record the decision.",
+  "metadata": {
+    "github_url": "https://github.com/piousp/llm-skills",
+    "npm_name": "pi-simple-sri",
+    "description": "Self-recursive improvement loop for pi skills: observe failures, propose a skill change, gate it against the incumbent, and record the decision.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "skills",
+      "self-improvement",
+      "recursive-self-improvement",
+      "sri",
+      "skill-evolution"
+    ],
+    "version": "0.0.2",
+    "published_at": "2026-11-06T18:37:44.093Z",
+    "npm_downloads_monthly": 288,
+    "npm_downloads_weekly": 288,
+    "npm_score_final": 16.243967,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

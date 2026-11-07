@@ -8,7 +8,7 @@
     "github_url": "https://github.com/JuniorCorzo/gentle-omarchy",
     "repo_full_name": "JuniorCorzo/gentle-omarchy",
     "description": "Real-time dynamic Omarchy desktop theme synchronization for Gentle Shell and Pi Coding Agent",
-    "stars": 0,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -19,7 +19,7 @@
     "archived": false,
     "created_at": "2026-11-05T21:46:35Z",
     "pushed_at": "2026-11-05T21:49:54Z",
-    "updated_at": "2026-11-05T21:49:58Z",
+    "updated_at": "2026-11-06T20:04:25Z",
     "size": 8,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

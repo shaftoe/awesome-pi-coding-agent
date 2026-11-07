@@ -9,7 +9,7 @@
     "repo_full_name": "workos/workos-audit-harness",
     "description": "WorkOS audit logging for Claude Code, Codex, and pi-coding-agent",
     "stars": 6,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 26,
     "topics": [],
     "language": "TypeScript",

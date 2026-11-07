@@ -1,0 +1,30 @@
+{
+  "id": "@clementprevot/pi-away-status",
+  "name": "@clementprevot/pi-away-status",
+  "url": "https://www.npmjs.com/package/@clementprevot/pi-away-status",
+  "source": "npm-search",
+  "description": "Pi extension that notices when you step away from your Mac, keeps the agent working instead of waiting on prompts, and hands you an exact recap when you come back",
+  "metadata": {
+    "github_url": "https://github.com/clementprevot/pi-away-status",
+    "npm_name": "@clementprevot/pi-away-status",
+    "description": "Pi extension that notices when you step away from your Mac, keeps the agent working instead of waiting on prompts, and hands you an exact recap when you come back",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "away",
+      "idle",
+      "handoff",
+      "macos"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-30T18:53:49.103Z",
+    "npm_downloads_monthly": 484,
+    "npm_downloads_weekly": 484,
+    "npm_score_final": 18.134377,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

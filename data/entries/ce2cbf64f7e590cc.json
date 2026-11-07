@@ -1,0 +1,30 @@
+{
+  "id": "yudhiesh-oc-pi-rex-subagents",
+  "name": "yudhiesh-oc-pi-rex-subagents",
+  "url": "https://github.com/yudhiesh-oc/pi-rex-subagents",
+  "source": "github-search",
+  "description": "Interactive pi subagents in Rex panes: agent .md definitions, live status widget, pushed results, pi-intercom questions",
+  "metadata": {
+    "github_url": "https://github.com/yudhiesh-oc/pi-rex-subagents",
+    "repo_full_name": "yudhiesh-oc/pi-rex-subagents",
+    "description": "Interactive pi subagents in Rex panes: agent .md definitions, live status widget, pushed results, pi-intercom questions",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-coding-agent",
+      "pi-package",
+      "rex",
+      "subagents"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-05T09:12:18Z",
+    "pushed_at": "2026-11-05T09:12:30Z",
+    "updated_at": "2026-11-07T01:50:16Z",
+    "size": 76,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

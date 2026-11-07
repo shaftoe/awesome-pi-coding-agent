@@ -1,0 +1,29 @@
+{
+  "id": "pi-claude-bridge-askclaude",
+  "name": "pi-claude-bridge-askclaude",
+  "url": "https://www.npmjs.com/package/pi-claude-bridge-askclaude",
+  "source": "npm-search",
+  "description": "Pi extension that adds an AskClaude tool: delegate questions or tasks to Claude Code (via Agent SDK) from any provider.",
+  "metadata": {
+    "github_url": "https://github.com/elidickinson/pi-claude-bridge",
+    "npm_name": "pi-claude-bridge-askclaude",
+    "description": "Pi extension that adds an AskClaude tool: delegate questions or tasks to Claude Code (via Agent SDK) from any provider.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "claude-code",
+      "claude-agent-sdk"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-06T21:54:53.857Z",
+    "npm_downloads_monthly": 305,
+    "npm_downloads_weekly": 305,
+    "npm_score_final": 16.218227,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

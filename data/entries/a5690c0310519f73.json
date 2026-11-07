@@ -10,7 +10,7 @@
     "description": "Fetches models from the provider /models endpoint and enriches them with OpenRouter metadata",
     "stars": 2,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "metadata",
       "models",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-30T16:20:16Z",
-    "pushed_at": "2026-11-03T08:28:45Z",
+    "pushed_at": "2026-11-06T10:54:15Z",
     "updated_at": "2026-11-03T08:28:47Z",
-    "size": 285,
+    "size": 281,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
