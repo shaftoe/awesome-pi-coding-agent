@@ -1,0 +1,31 @@
+{
+  "id": "@protokol11/pi-orchestration-graph",
+  "name": "@protokol11/pi-orchestration-graph",
+  "url": "https://www.npmjs.com/package/@protokol11/pi-orchestration-graph",
+  "source": "npm-search",
+  "description": "Parent-facing ops and diagnostics for the pi subagent dispatch graph; nothing model-facing.",
+  "metadata": {
+    "github_url": "https://github.com/protokol11/agent-governance",
+    "npm_name": "@protokol11/pi-orchestration-graph",
+    "description": "Parent-facing ops and diagnostics for the pi subagent dispatch graph; nothing model-facing.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "agent-governance",
+      "orchestration",
+      "subagents",
+      "dispatch-graph"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-30T14:29:37.163Z",
+    "npm_downloads_monthly": 465,
+    "npm_downloads_weekly": 465,
+    "npm_score_final": 17.92748,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

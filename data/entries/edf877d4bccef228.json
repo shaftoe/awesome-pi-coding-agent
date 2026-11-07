@@ -8,7 +8,7 @@
     "github_url": "https://github.com/AliensToEarth/pi-infinity",
     "repo_full_name": "AliensToEarth/pi-infinity",
     "description": " Non-blocking agent workflows for pi: background jobs, durable timers, threads and git/jj sandboxes.",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -25,7 +25,7 @@
     "archived": false,
     "created_at": "2026-10-31T08:17:01Z",
     "pushed_at": "2026-11-03T06:19:13Z",
-    "updated_at": "2026-11-03T06:19:18Z",
+    "updated_at": "2026-11-06T14:48:52Z",
     "size": 646,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

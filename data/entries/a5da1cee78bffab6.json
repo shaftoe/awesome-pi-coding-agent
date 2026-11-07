@@ -1,0 +1,31 @@
+{
+  "id": "@nothumanwork/pi-create-document",
+  "name": "@nothumanwork/pi-create-document",
+  "url": "https://www.npmjs.com/package/@nothumanwork/pi-create-document",
+  "source": "npm-search",
+  "description": "Create and convert PDF, Word, PowerPoint, Excel, CSV, HTML, Markdown and PNG documents from Pi, with no system dependencies",
+  "metadata": {
+    "github_url": "https://github.com/thehumanworks/pi-extensions",
+    "npm_name": "@nothumanwork/pi-create-document",
+    "description": "Create and convert PDF, Word, PowerPoint, Excel, CSV, HTML, Markdown and PNG documents from Pi, with no system dependencies",
+    "keywords": [
+      "pi-package",
+      "pdf",
+      "docx",
+      "pptx",
+      "xlsx",
+      "mermaid",
+      "documents"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-30T15:35:56.579Z",
+    "npm_downloads_monthly": 237,
+    "npm_downloads_weekly": 237,
+    "npm_score_final": 15.791278,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/dennisonbertram/free-pi-cli",
     "repo_full_name": "dennisonbertram/free-pi-cli",
     "description": "Open-source terminal client for free-pi, a free AI coding agent. Sign in with GitHub and run npx free-pi-cli.",
-    "stars": 29,
+    "stars": 30,
     "forks": 10,
     "open_issues": 8,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-17T10:40:36Z",
     "pushed_at": "2026-10-21T19:26:47Z",
-    "updated_at": "2026-11-05T12:15:45Z",
+    "updated_at": "2026-11-07T02:10:58Z",
     "size": 519,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

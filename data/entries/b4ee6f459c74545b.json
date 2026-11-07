@@ -1,0 +1,28 @@
+{
+  "id": "@felores/brain-kit",
+  "name": "@felores/brain-kit",
+  "url": "https://www.npmjs.com/package/@felores/brain-kit",
+  "source": "npm-search",
+  "description": "Las skills de dominio de Cerebro Artificial para Pi: vault, wiki y autoresearch, con su maquinaria.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@felores/brain-kit",
+    "description": "Las skills de dominio de Cerebro Artificial para Pi: vault, wiki y autoresearch, con su maquinaria.",
+    "keywords": [
+      "pi-package",
+      "sociedad-paralela",
+      "wiki",
+      "vault"
+    ],
+    "version": "1.4.0",
+    "published_at": "2026-10-30T18:51:22.959Z",
+    "npm_downloads_monthly": 238,
+    "npm_downloads_weekly": 238,
+    "npm_score_final": 15.683022,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "moimikey-pi-gist-sync",
+  "name": "moimikey-pi-gist-sync",
+  "url": "https://github.com/moimikey/pi-gist-sync",
+  "source": "github-search",
+  "description": "Pi extension that syncs your Pi agent config (settings, extensions, skills, prompts, themes) through a multi-file GitHub Gist.",
+  "metadata": {
+    "github_url": "https://github.com/moimikey/pi-gist-sync",
+    "repo_full_name": "moimikey/pi-gist-sync",
+    "description": "Pi extension that syncs your Pi agent config (settings, extensions, skills, prompts, themes) through a multi-file GitHub Gist.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "gist",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "settings-sync",
+      "sync"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-06T03:18:48Z",
+    "pushed_at": "2026-11-06T03:18:56Z",
+    "updated_at": "2026-11-06T03:19:03Z",
+    "size": 150,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

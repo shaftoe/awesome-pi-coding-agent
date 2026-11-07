@@ -8,7 +8,7 @@
     "github_url": "https://github.com/nikheal25/circadian-loop",
     "repo_full_name": "nikheal25/circadian-loop",
     "description": "Make a pi agent work on one goal indefinitely: work, checkpoint to disk, sleep, wake with an empty context, continue.",
-    "stars": 1,
+    "stars": 2,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-08-08T03:48:04Z",
     "pushed_at": "2026-10-03T08:07:39Z",
-    "updated_at": "2026-10-03T08:05:02Z",
+    "updated_at": "2026-11-06T21:37:06Z",
     "size": 530,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

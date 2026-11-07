@@ -5,21 +5,21 @@
   "source": "npm-search",
   "description": "Veai AI Agent: a terminal AI coding agent",
   "metadata": {
-    "pi_declares_extension": true,
     "github_url": null,
     "npm_name": "@veai-ru/ai-agent",
     "description": "Veai AI Agent: a terminal AI coding agent",
     "keywords": [
       "pi-package"
     ],
-    "version": "0.6.0",
-    "published_at": "2026-10-30T13:07:33.265Z",
-    "npm_downloads_monthly": 3209,
-    "npm_downloads_weekly": 922,
-    "npm_score_final": 23.790323,
+    "version": "0.6.1",
+    "published_at": "2026-11-06T12:32:50.368Z",
+    "npm_downloads_monthly": 3443,
+    "npm_downloads_weekly": 1120,
+    "npm_score_final": 23.904108,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
