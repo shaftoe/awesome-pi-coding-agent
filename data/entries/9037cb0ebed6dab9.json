@@ -1,0 +1,31 @@
+{
+  "id": "pi-agent-desktop-adapter",
+  "name": "pi-agent-desktop-adapter",
+  "url": "https://www.npmjs.com/package/pi-agent-desktop-adapter",
+  "source": "npm-search",
+  "description": "Pi extension that lets agents observe and operate macOS, Windows and Linux desktop apps through agent-desktop's accessibility-tree CLI.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-agent-desktop-adapter",
+    "description": "Pi extension that lets agents observe and operate macOS, Windows and Linux desktop apps through agent-desktop's accessibility-tree CLI.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "agent-desktop",
+      "computer-use",
+      "desktop-automation",
+      "accessibility"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-31T22:54:17.012Z",
+    "npm_downloads_monthly": 357,
+    "npm_downloads_weekly": 357,
+    "npm_score_final": 17.099386,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

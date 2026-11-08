@@ -1,0 +1,34 @@
+{
+  "id": "fisi-dock",
+  "name": "fisi-dock",
+  "url": "https://www.npmjs.com/package/fisi-dock",
+  "source": "npm-search",
+  "description": "Side panel for Gentle Shell: session, ODD, RDD, CI, agents, todo and changes at a glance (Pi extension and theme)",
+  "metadata": {
+    "github_url": "https://github.com/fisidj/fisi-dock",
+    "npm_name": "fisi-dock",
+    "description": "Side panel for Gentle Shell: session, ODD, RDD, CI, agents, todo and changes at a glance (Pi extension and theme)",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-theme",
+      "gentle-shell",
+      "gentle-shell-package",
+      "gentle-shell-extension",
+      "tui",
+      "sidebar",
+      "dashboard"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-11-07T21:35:34.686Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-theme"
+  },
+  "category": "extension"
+}

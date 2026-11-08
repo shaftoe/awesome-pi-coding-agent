@@ -69529,5 +69529,105 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-package"
 		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-edit-fuzzy",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-08T02:20:28.795Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Rmf8bmvz_c0",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-08T02:20:28.856Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=bvHAr7bzV6Y",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-08T02:20:29.045Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/fisidj/fisi-dock",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-08T02:20:29.082Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=4y4UVAovCVk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-08T02:20:29.149Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=BrSJb8klqWc",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-11-08T02:20:29.177Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/zeetree11/Tree-Agent",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-08T02:20:29.304Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@agimon-ai/po-gateway",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-08T02:20:29.403Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/MarsSall/gentle-herdr",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-08T02:20:29.414Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/saavy1/saavy_cloud",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-08T02:20:29.431Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
 	}
 ]

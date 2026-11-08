@@ -1,0 +1,28 @@
+{
+  "id": "Gattic-GatPi",
+  "name": "Gattic-GatPi",
+  "url": "https://github.com/Gattic/GatPi",
+  "source": "github-search",
+  "description": "Personal fork of the pi coding agent (MIT), derived from earendil-works/pi with local fixes; full monorepo of agent, coding-agent, tui, ai, codemode and related packages.",
+  "metadata": {
+    "github_url": "https://github.com/Gattic/GatPi",
+    "repo_full_name": "Gattic/GatPi",
+    "description": "Personal fork of the pi coding agent (MIT), derived from earendil-works/pi with local fixes; full monorepo of agent, coding-agent, tui, ai, codemode and related packages.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai",
+      "coding"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-07T06:11:33Z",
+    "pushed_at": "2026-11-07T07:02:42Z",
+    "updated_at": "2026-11-07T14:55:51Z",
+    "size": 8624,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

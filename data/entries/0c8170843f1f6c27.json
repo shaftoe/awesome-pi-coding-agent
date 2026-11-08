@@ -9,7 +9,7 @@
     "repo_full_name": "yiz-hhh/learn-pi-agent",
     "description": "Learn agent harness design by rebuilding Pi from a single LLM call to a coding agent.",
     "stars": 5,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "agent",

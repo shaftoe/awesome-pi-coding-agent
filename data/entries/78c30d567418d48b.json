@@ -8,7 +8,7 @@
     "github_url": "https://github.com/LiusCraft/pi-desktop",
     "repo_full_name": "LiusCraft/pi-desktop",
     "description": "Desktop app for the pi coding agent, styled after Claude desktop: Code mode with git worktrees, diff and PR/CI status, Work mode for knowledge tasks. Electron + React + pi SDK.",
-    "stars": 4,
+    "stars": 5,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -30,10 +30,10 @@
     "archived": false,
     "created_at": "2026-10-25T12:07:55Z",
     "pushed_at": "2026-10-30T07:46:17Z",
-    "updated_at": "2026-11-06T19:43:51Z",
+    "updated_at": "2026-11-07T02:51:00Z",
     "size": 2663,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

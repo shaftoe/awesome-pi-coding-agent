@@ -1,0 +1,25 @@
+{
+  "id": "@clawdbuilder/jig",
+  "name": "@clawdbuilder/jig",
+  "url": "https://www.npmjs.com/package/@clawdbuilder/jig",
+  "source": "npm-search",
+  "description": "One tool manager and a set of plugins for the Pi coding agent: permissions per tool and environment, approvals, secrets and records.",
+  "metadata": {
+    "github_url": "https://github.com/ClawdBuilder/jig",
+    "npm_name": "@clawdbuilder/jig",
+    "description": "One tool manager and a set of plugins for the Pi coding agent: permissions per tool and environment, approvals, secrets and records.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.5.0",
+    "published_at": "2026-11-07T22:46:34.092Z",
+    "npm_downloads_monthly": 746,
+    "npm_downloads_weekly": 746,
+    "npm_score_final": 19.607578,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

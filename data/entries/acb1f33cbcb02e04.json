@@ -1,0 +1,25 @@
+{
+  "id": "iceninejon-pi-chroma",
+  "name": "iceninejon-pi-chroma",
+  "url": "https://github.com/iceninejon/pi-chroma",
+  "source": "github-search",
+  "description": "My theme/extension for Pi",
+  "metadata": {
+    "github_url": "https://github.com/iceninejon/pi-chroma",
+    "repo_full_name": "iceninejon/pi-chroma",
+    "description": "My theme/extension for Pi",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-08T00:20:40Z",
+    "pushed_at": "2026-11-08T00:27:02Z",
+    "updated_at": "2026-11-08T00:27:05Z",
+    "size": 70,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

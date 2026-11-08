@@ -1,0 +1,30 @@
+{
+  "id": "pi-deepseek-local-search",
+  "name": "pi-deepseek-local-search",
+  "url": "https://www.npmjs.com/package/pi-deepseek-local-search",
+  "source": "npm-search",
+  "description": "Pi extension: session-scoped DeepSeek Search/Fetch takeover of web_search/web_fetch via /deepseek_search_on and /deepseek_search_off — nothing persisted, no provider override",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-deepseek-local-search",
+    "description": "Pi extension: session-scoped DeepSeek Search/Fetch takeover of web_search/web_fetch via /deepseek_search_on and /deepseek_search_off — nothing persisted, no provider override",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "deepseek",
+      "web-search",
+      "search",
+      "fetch"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-01T01:12:29.562Z",
+    "npm_downloads_monthly": 405,
+    "npm_downloads_weekly": 405,
+    "npm_score_final": 17.593334,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

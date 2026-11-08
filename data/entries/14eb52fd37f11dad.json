@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pypi.org_pi-coding-agent-python-sdk",
+  "name": "pi-coding-agent-python-sdk · PyPI",
+  "url": "https://pypi.org/project/pi-coding-agent-python-sdk/",
+  "source": "brave-web-search",
+  "description": "Python SDK facade for Pi Coding Agent sessions, services, resources, tools, and extensions",
+  "metadata": {
+    "title": "pi-coding-agent-python-sdk · PyPI",
+    "name": "pi-coding-agent-python-sdk · PyPI",
+    "description": "Python SDK facade for Pi Coding Agent sessions, services, resources, tools, and extensions",
+    "published_at": null,
+    "source_site": "PyPI",
+    "source_url": "https://pypi.org/project/pi-coding-agent-python-sdk/",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

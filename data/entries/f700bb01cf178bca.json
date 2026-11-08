@@ -10,7 +10,7 @@
     "description": "Just my Pi setup: bounded delegate workers and a bash guard",
     "stars": 5,
     "forks": 0,
-    "open_issues": 13,
+    "open_issues": 14,
     "topics": [
       "coding-agent",
       "pi",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-26T15:25:03Z",
-    "pushed_at": "2026-11-06T23:40:14Z",
+    "pushed_at": "2026-11-08T00:03:23Z",
     "updated_at": "2026-11-06T23:28:37Z",
-    "size": 929,
+    "size": 1248,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
