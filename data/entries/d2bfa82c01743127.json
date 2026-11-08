@@ -1,0 +1,37 @@
+{
+  "id": "elflodge-elflodge",
+  "name": "elflodge-elflodge",
+  "url": "https://github.com/elflodge/elflodge",
+  "source": "github-search",
+  "description": "Hundreds of agents working unattended. One job API. Run jobs in parallel on your own machine and get structured results.",
+  "metadata": {
+    "github_url": "https://github.com/elflodge/elflodge",
+    "repo_full_name": "elflodge/elflodge",
+    "description": "Hundreds of agents working unattended. One job API. Run jobs in parallel on your own machine and get structured results.",
+    "stars": 6,
+    "forks": 2,
+    "open_issues": 1,
+    "topics": [
+      "agent-batch",
+      "ai-agents",
+      "automation",
+      "batch-processing",
+      "cli",
+      "data-extraction",
+      "json-schema",
+      "llm",
+      "pi",
+      "sandbox",
+      "self-hosted"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-24T20:52:05Z",
+    "pushed_at": "2026-11-08T14:38:06Z",
+    "updated_at": "2026-11-08T14:38:11Z",
+    "size": 1858,
+    "license": "MIT",
+    "discovery_hint": "github:add-url"
+  },
+  "category": "misc"
+}
