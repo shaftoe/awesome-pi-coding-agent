@@ -10,7 +10,7 @@
     "description": "Manage Pi providers and models from a TUI with native models.json persistence, header profiles, proxy routing, and protocol compatibility.",
     "stars": 26,
     "forks": 7,
-    "open_issues": 4,
+    "open_issues": 2,
     "topics": [
       "anthropic",
       "model-manager",
@@ -25,7 +25,7 @@
     "created_at": "2026-07-26T02:22:31Z",
     "pushed_at": "2026-11-07T02:23:47Z",
     "updated_at": "2026-11-07T02:23:50Z",
-    "size": 970,
+    "size": 1033,
     "license": "AGPL-3.0",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

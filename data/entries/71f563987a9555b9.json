@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Model-free, deterministic, and self-aware compaction; with session-backed subagent context recovery, and optional context pruning and fidelity controls.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/felixwoolford/transparent-compact-pi",
     "npm_name": "@foliox/transparent-compact-pi",
     "description": "Model-free, deterministic, and self-aware compaction; with session-backed subagent context recovery, and optional context pruning and fidelity controls.",
@@ -18,11 +19,10 @@
     "published_at": "2026-11-06T17:40:38.390Z",
     "npm_downloads_monthly": 2308,
     "npm_downloads_weekly": 1129,
-    "npm_score_final": 22.62197,
+    "npm_score_final": 22.424746,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

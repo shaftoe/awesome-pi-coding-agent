@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tejasghutukade/stageflow",
     "repo_full_name": "tejasghutukade/stageflow",
     "description": "Configurable, typed multi-stage agent workflows for Pi — local console, human gates, MCP, and CI.",
-    "stars": 11,
+    "stars": 12,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -27,7 +27,7 @@
     "archived": false,
     "created_at": "2026-08-24T23:09:08Z",
     "pushed_at": "2026-11-05T20:52:23Z",
-    "updated_at": "2026-11-05T20:52:29Z",
+    "updated_at": "2026-11-07T16:10:04Z",
     "size": 132650,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,31 @@
+{
+  "id": "@moguw/pi-image-preview",
+  "name": "@moguw/pi-image-preview",
+  "url": "https://www.npmjs.com/package/@moguw/pi-image-preview",
+  "source": "npm-search",
+  "description": "Show images above the Pi editor as you type a path, and attach them to your message",
+  "metadata": {
+    "github_url": "https://github.com/Mieluoxxx/pi-ext",
+    "npm_name": "@moguw/pi-image-preview",
+    "description": "Show images above the Pi editor as you type a path, and attach them to your message",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "image",
+      "preview",
+      "multimodal",
+      "tui"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-10-31T22:10:08.640Z",
+    "npm_downloads_monthly": 232,
+    "npm_downloads_weekly": 232,
+    "npm_score_final": 15.366379,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "Open-source Grok Bot alternative. Pots is an AI coworker that reads every channel, decides what matters, and acts on its own computer. Self-hosted, any model.",
     "stars": 8,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "ai-agent",
       "ai-coworker",
@@ -30,9 +30,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-28T04:40:45Z",
-    "pushed_at": "2026-11-06T11:43:01Z",
-    "updated_at": "2026-11-06T11:43:07Z",
-    "size": 15011,
+    "pushed_at": "2026-11-07T21:53:15Z",
+    "updated_at": "2026-11-07T07:51:24Z",
+    "size": 14650,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

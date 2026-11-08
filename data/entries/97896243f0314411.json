@@ -8,7 +8,7 @@
     "github_url": "https://github.com/grikomsn/pi-provider-opencode-console",
     "repo_full_name": "grikomsn/pi-provider-opencode-console",
     "description": "Pi provider for OpenCode Console via device-auth login and live model discovery",
-    "stars": 1,
+    "stars": 2,
     "forks": 3,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-08-20T04:58:48Z",
     "pushed_at": "2026-11-04T08:00:34Z",
-    "updated_at": "2026-11-04T08:00:09Z",
+    "updated_at": "2026-11-07T11:22:28Z",
     "size": 585,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
