@@ -64,7 +64,7 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 </div>
 
 <script>
-	import { searchEntries, type SearchEntry } from "../lib/search";
+	import { preloadSearch, searchEntries, type SearchEntry } from "../lib/search";
 	const CATEGORY_ICONS: Record<string, string> = {
 		extension: '🔌', theme: '🎨', video: '🎬', article: '📰', misc: '📦',
 	};
@@ -154,6 +154,12 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 					countEl.textContent = '';
 				}
 			};
+
+			input.addEventListener('focus', () => {
+				void preloadSearch().catch(() => {
+					// Typing retries and reports any load failure.
+				});
+			});
 
 			input.addEventListener('input', () => {
 				clearTimeout(debounceTimer);
