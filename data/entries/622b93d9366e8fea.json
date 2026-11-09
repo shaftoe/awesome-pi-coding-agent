@@ -1,0 +1,32 @@
+{
+  "id": "pi-model-routing",
+  "name": "pi-model-routing",
+  "url": "https://www.npmjs.com/package/pi-model-routing",
+  "source": "npm-search",
+  "description": "Model routing rules and an explicit-model subagent executor for pi coding agent — pick the right model and reasoning strength, then delegate with evidence-based verification.",
+  "metadata": {
+    "github_url": "https://github.com/RexYoung000/pi-model-routing",
+    "npm_name": "pi-model-routing",
+    "description": "Model routing rules and an explicit-model subagent executor for pi coding agent — pick the right model and reasoning strength, then delegate with evidence-based verification.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-skill",
+      "model-routing",
+      "subagent",
+      "model-selection",
+      "reasoning-effort",
+      "quota-guard"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-01T13:55:26.517Z",
+    "npm_downloads_monthly": 340,
+    "npm_downloads_weekly": 340,
+    "npm_score_final": 16.788582,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

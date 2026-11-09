@@ -9,7 +9,7 @@
     "repo_full_name": "ang-XWBWZ/pi-agent-extensions",
     "description": "Engineering extensions for Pi Coding Agent — parallel subagents, controlled workflows, model switching, context observability, Windows tooling, MCP and Pwiki integration.",
     "stars": 18,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 2,
     "topics": [
       "pi-agent",

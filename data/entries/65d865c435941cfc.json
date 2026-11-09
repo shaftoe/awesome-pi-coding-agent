@@ -1,0 +1,32 @@
+{
+  "id": "pi-closeout",
+  "name": "pi-closeout",
+  "url": "https://www.npmjs.com/package/pi-closeout",
+  "source": "npm-search",
+  "description": "Session closeout gate for coding agents: flags staged-but-uncommitted sweep fuel, untracked stash-bait, dirty child repos, and open task claims when a session ends — plus Work-Session identity rows.",
+  "metadata": {
+    "github_url": "https://github.com/jyyyeung/pi-closeout",
+    "npm_name": "pi-closeout",
+    "description": "Session closeout gate for coding agents: flags staged-but-uncommitted sweep fuel, untracked stash-bait, dirty child repos, and open task claims when a session ends — plus Work-Session identity rows.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "session",
+      "closeout",
+      "git",
+      "multi-agent",
+      "coding-agent",
+      "hygiene"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-11-01T10:50:09.873Z",
+    "npm_downloads_monthly": 382,
+    "npm_downloads_weekly": 382,
+    "npm_score_final": 16.857687,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

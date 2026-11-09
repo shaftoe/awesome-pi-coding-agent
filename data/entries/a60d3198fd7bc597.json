@@ -1,0 +1,32 @@
+{
+  "id": "pi-rc-gate",
+  "name": "pi-rc-gate",
+  "url": "https://www.npmjs.com/package/pi-rc-gate",
+  "source": "npm-search",
+  "description": "Exit-code honesty for coding agents: warns when piped git verbs, || true swallows, or late $? reads would let a failed command be reported as success — plus a static shell lint and a verification-before-claiming skill.",
+  "metadata": {
+    "github_url": "https://github.com/jyyyeung/pi-rc-gate",
+    "npm_name": "pi-rc-gate",
+    "description": "Exit-code honesty for coding agents: warns when piped git verbs, || true swallows, or late $? reads would let a failed command be reported as success — plus a static shell lint and a verification-before-claiming skill.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "exit-code",
+      "shell",
+      "git",
+      "verification",
+      "coding-agent",
+      "anti-fabrication"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-01T10:49:15.657Z",
+    "npm_downloads_monthly": 386,
+    "npm_downloads_weekly": 386,
+    "npm_score_final": 16.809666,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

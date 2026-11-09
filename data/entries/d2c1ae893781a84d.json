@@ -1,0 +1,25 @@
+{
+  "id": "@chunkhound/pi-schematic",
+  "name": "@chunkhound/pi-schematic",
+  "url": "https://www.npmjs.com/package/@chunkhound/pi-schematic",
+  "source": "npm-search",
+  "description": "Context management primitives for the pi coding agent — spawn, notebook, handoff",
+  "metadata": {
+    "github_url": "https://github.com/chunkhound/pi-schematic",
+    "npm_name": "@chunkhound/pi-schematic",
+    "description": "Context management primitives for the pi coding agent — spawn, notebook, handoff",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.7.1",
+    "published_at": "2026-11-08T10:24:06.250Z",
+    "npm_downloads_monthly": 233,
+    "npm_downloads_weekly": 233,
+    "npm_score_final": 15.209642,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

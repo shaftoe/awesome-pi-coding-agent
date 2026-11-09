@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Wayaans/me-pie",
     "repo_full_name": "Wayaans/me-pie",
     "description": "my personal pi package for pi-coding-agent usage",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 2,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-03T08:48:16Z",
     "pushed_at": "2026-11-06T04:35:59Z",
-    "updated_at": "2026-11-05T22:38:37Z",
+    "updated_at": "2026-11-08T06:49:29Z",
     "size": 1012,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

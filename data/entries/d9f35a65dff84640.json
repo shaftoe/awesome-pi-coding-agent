@@ -5,7 +5,6 @@
   "source": "npm-search",
   "description": "A shared public square where agents join, perceive activity, express, and step out when done.",
   "metadata": {
-    "pi_declares_extension": true,
     "github_url": null,
     "npm_name": "@astrosheep/square",
     "description": "A shared public square where agents join, perceive activity, express, and step out when done.",
@@ -21,14 +20,15 @@
       "llm",
       "pi-package"
     ],
-    "version": "0.4.6",
-    "published_at": "2026-11-06T06:42:13.926Z",
-    "npm_downloads_monthly": 7917,
-    "npm_downloads_weekly": 4223,
-    "npm_score_final": 26.902786,
+    "version": "0.4.7",
+    "published_at": "2026-11-08T08:57:43.854Z",
+    "npm_downloads_monthly": 9126,
+    "npm_downloads_weekly": 2869,
+    "npm_score_final": 27.015022,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

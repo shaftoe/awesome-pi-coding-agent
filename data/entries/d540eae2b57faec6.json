@@ -1,0 +1,20 @@
+{
+  "id": "YT_WFU_k1zRBbI",
+  "name": "My Pi sessions kept crashing with a 413, so I built pi-image-compact",
+  "url": "https://youtube.com/watch?v=WFU_k1zRBbI",
+  "source": "youtube-search",
+  "description": "A pile of screenshots kept ending my Pi coding sessions with a 413 \"request too large\" error, so I spent a while figuring out how ...",
+  "metadata": {
+    "title": "My Pi sessions kept crashing with a 413, so I built pi-image-compact",
+    "name": "My Pi sessions kept crashing with a 413, so I built pi-image-compact",
+    "description": "A pile of screenshots kept ending my Pi coding sessions with a 413 \"request too large\" error, so I spent a while figuring out how ...",
+    "channel": "Don Yin",
+    "published_at": "2026-11-08T22:35:46Z",
+    "thumbnail": "https://i.ytimg.com/vi/WFU_k1zRBbI/hqdefault.jpg",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-package"
+  },
+  "category": "video"
+}

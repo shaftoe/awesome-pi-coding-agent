@@ -1,0 +1,31 @@
+{
+  "id": "@jyyyeung/pi-handoff",
+  "name": "@jyyyeung/pi-handoff",
+  "url": "https://www.npmjs.com/package/@jyyyeung/pi-handoff",
+  "source": "npm-search",
+  "description": "Session handoffs for the pi coding agent: writes a handoff document and starts a successor session from it, on a plain pi install or in a new terminal tab. Community fork of @tifan/pi-handoff.",
+  "metadata": {
+    "github_url": "https://github.com/jyyyeung/pi-handoff",
+    "npm_name": "@jyyyeung/pi-handoff",
+    "description": "Session handoffs for the pi coding agent: writes a handoff document and starts a successor session from it, on a plain pi install or in a new terminal tab. Community fork of @tifan/pi-handoff.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "handoff",
+      "session",
+      "coding-agent",
+      "multi-agent",
+      "subagents"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-01T10:51:44.276Z",
+    "npm_downloads_monthly": 338,
+    "npm_downloads_weekly": 338,
+    "npm_score_final": 16.279715,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

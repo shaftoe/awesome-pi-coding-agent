@@ -10,7 +10,7 @@
     "description": "A digital life with a persistent identity and memory, built with Pi Agent. It observes QQ chats through SnowLuma and decides when to participate, act, or stay silent.",
     "stars": 7,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "agent",
       "chatbot",

@@ -5,7 +5,6 @@
   "source": "npm-search",
   "description": "Compact long agent sessions earlier, at a finished piece of work, to cut cost without losing results (Claude Code, pi, Codex)",
   "metadata": {
-    "pi_declares_extension": true,
     "github_url": "https://github.com/coffeecoproject/SmartCompact",
     "npm_name": "smartcompact",
     "description": "Compact long agent sessions earlier, at a finished piece of work, to cut cost without losing results (Claude Code, pi, Codex)",
@@ -17,14 +16,15 @@
       "codex",
       "coding-agent"
     ],
-    "version": "0.1.8",
-    "published_at": "2026-10-24T14:09:16.717Z",
-    "npm_downloads_monthly": 644,
-    "npm_downloads_weekly": 50,
-    "npm_score_final": 19.034868,
+    "version": "0.1.10",
+    "published_at": "2026-11-08T14:47:54.953Z",
+    "npm_downloads_monthly": 649,
+    "npm_downloads_weekly": 51,
+    "npm_score_final": 18.864891,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
