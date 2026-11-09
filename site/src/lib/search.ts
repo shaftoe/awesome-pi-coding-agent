@@ -1,9 +1,9 @@
-import MiniSearch from "minisearch";
+import MiniSearch, { type SearchResult } from "minisearch";
 
 export type SearchEntry = { n: string; d: string; c: string; u: string; p: string; t?: string };
 let index: Promise<MiniSearch<SearchEntry>> | undefined;
 
-function loadIndex() {
+export function preloadSearch() {
 	index ??= (async () => {
 		const response = await fetch("/search-index.json");
 		if (!response.ok) throw new Error(`Search index: ${response.status}`);
@@ -28,10 +28,9 @@ function loadIndex() {
 /** Download once; subsequent matching, ranking and card data stay in memory. */
 export async function searchEntries(query: string, limit = Number.POSITIVE_INFINITY) {
 	if (!query.trim()) return { entries: [], total: 0 };
-	const search = await loadIndex();
+	const search = await preloadSearch();
 	const results = search.search(query);
-	const entries: SearchEntry[] = results
-		.slice(0, limit)
-		.map(({ n, d, c, u, p }) => ({ n, d, c, u, p }));
+	// MiniSearch's types do not encode the configured storeFields.
+	const entries = results.slice(0, limit) as (SearchResult & SearchEntry)[];
 	return { entries, total: results.length };
 }
