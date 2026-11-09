@@ -54,7 +54,7 @@
 </script>
 
 <script>
-	import { searchEntries, type SearchEntry } from "../lib/search";
+	import { preloadSearch, searchEntries, type SearchEntry } from "../lib/search";
 	const CATEGORY_ICONS: Record<string, string> = {
 		extension: '🔌', theme: '🎨', video: '🎬', misc: '📦',
 	};
@@ -71,7 +71,6 @@
 		const escapedQuery = encodeURIComponent(query.trim());
 		const viewAllLink = `<a href="/?q=${escapedQuery}" class="view-all-results">View all ${total} results on page →</a>`;
 		container.innerHTML = results
-			.slice(0, 50)
 			.map((r) => {
 				const icon = CATEGORY_ICONS[r.c] || '📄';
 				const popHtml = r.p ? `<span class="result-stars">${r.p}</span>` : '';
@@ -140,6 +139,9 @@
 				input.focus();
 				event?.stopPropagation();
 				window.addEventListener('click', onClick);
+				void preloadSearch().catch(() => {
+					// The next query retries and reports a load failure.
+				});
 				onInput();
 			};
 
@@ -171,7 +173,7 @@
 						if (input.value !== q) return;
 						renderResults(resultsList, entries, q, total);
 					} catch {
-						if (input.value === q) resultsList.textContent = 'Search could not load. Please try again.';
+						if (input.value === q) resultsList.innerHTML = '<div class="no-results">Search could not load. Please try again.</div>';
 					}
 				}, 150);
 			};
