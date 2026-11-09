@@ -9,8 +9,8 @@
     "repo_full_name": "stnly/pi-grok",
     "description": "Use your x.com Premium / SuperGrok subscription in pi with OAuth login, privacy toggle, auto-refresh and live model discovery. Supports grok-4.7, x_search.",
     "stars": 28,
-    "forks": 6,
-    "open_issues": 0,
+    "forks": 7,
+    "open_issues": 1,
     "topics": [
       "composer-2p5",
       "grok",

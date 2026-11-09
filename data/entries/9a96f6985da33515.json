@@ -1,0 +1,30 @@
+{
+  "id": "@jyyyeung/pi-retro",
+  "name": "@jyyyeung/pi-retro",
+  "url": "https://www.npmjs.com/package/@jyyyeung/pi-retro",
+  "source": "npm-search",
+  "description": "Retrospective loop for your pi coding-agent setup: cost-filtered friction ledger, trials verdicts, weekly adopt/evaluate/reject review.",
+  "metadata": {
+    "github_url": "https://github.com/jyyyeung/pi-retro",
+    "npm_name": "@jyyyeung/pi-retro",
+    "description": "Retrospective loop for your pi coding-agent setup: cost-filtered friction ledger, trials verdicts, weekly adopt/evaluate/reject review.",
+    "keywords": [
+      "pi-package",
+      "retrospective",
+      "friction",
+      "agent",
+      "improvement",
+      "coding-agent"
+    ],
+    "version": "0.1.3",
+    "published_at": "2026-11-01T11:02:33.305Z",
+    "npm_downloads_monthly": 477,
+    "npm_downloads_weekly": 477,
+    "npm_score_final": 17.672796,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

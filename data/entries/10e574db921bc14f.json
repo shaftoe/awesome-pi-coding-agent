@@ -10,7 +10,7 @@
     "description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
     "stars": 740,
     "forks": 94,
-    "open_issues": 212,
+    "open_issues": 213,
     "topics": [
       "agent-harness",
       "agent-harness-generator",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-13T18:29:11Z",
-    "pushed_at": "2026-11-07T08:33:10Z",
-    "updated_at": "2026-11-08T01:26:30Z",
-    "size": 58525,
+    "pushed_at": "2026-11-08T23:11:06Z",
+    "updated_at": "2026-11-08T22:41:27Z",
+    "size": 58451,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

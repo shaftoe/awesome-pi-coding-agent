@@ -1,0 +1,32 @@
+{
+  "id": "pi-checkout-guard",
+  "name": "pi-checkout-guard",
+  "url": "https://www.npmjs.com/package/pi-checkout-guard",
+  "source": "npm-search",
+  "description": "Ambient session presence + peer-aware safety guard for shared git checkouts: blocks destructive git ops while other agent sessions are live, and stops edits escaping isolated worktrees.",
+  "metadata": {
+    "github_url": "https://github.com/jyyyeung/pi-checkout-guard",
+    "npm_name": "pi-checkout-guard",
+    "description": "Ambient session presence + peer-aware safety guard for shared git checkouts: blocks destructive git ops while other agent sessions are live, and stops edits escaping isolated worktrees.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "git",
+      "worktree",
+      "multi-agent",
+      "safety",
+      "shared-checkout",
+      "coding-agent"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-11-01T10:49:51.949Z",
+    "npm_downloads_monthly": 386,
+    "npm_downloads_weekly": 386,
+    "npm_score_final": 17.246359,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

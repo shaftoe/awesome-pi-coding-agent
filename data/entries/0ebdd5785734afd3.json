@@ -10,7 +10,7 @@
     "description": "A coordination protocol for small agent swarms, and the pi extension that runs it.",
     "stars": 13,
     "forks": 1,
-    "open_issues": 5,
+    "open_issues": 7,
     "topics": [
       "agents",
       "multi-agent",
