@@ -47,3 +47,24 @@ test("retries initialization after a failed download", async () => {
 	expect(result.entries[0]).toMatchObject(entry);
 	expect(fetchIndex).toHaveBeenCalledTimes(2);
 });
+
+test("appends name substrings after ranked matches without duplicates or description-only matches", async () => {
+	const entries = [
+		{ n: "elflodge", d: "" },
+		{ n: "lodger", d: "" },
+		{ n: "other", d: "elflodge" },
+	].map((entry) => ({ ...entry, c: "extension", u: `https://example.com/${entry.n}`, p: "" }));
+	vi.stubGlobal("fetch", vi.fn().mockResolvedValue(Response.json(entries)));
+	const { searchEntries } = await import("./search.ts");
+
+	const result = await searchEntries("LODGE");
+	expect(result.entries.map((entry) => entry.n)).toEqual(["lodger", "elflodge"]);
+	expect(result.total).toBe(2);
+	const limited = await searchEntries("lodge", 1);
+	expect(limited.entries.map((entry) => entry.n)).toEqual(["lodger"]);
+	expect(limited.total).toBe(2);
+	const multiword = await searchEntries("elf lodge");
+	expect(multiword.entries.map((entry) => entry.n)).toEqual(["elflodge"]);
+	expect((await searchEntries("lodge missing")).entries).toEqual([]);
+	expect((await searchEntries("---")).entries).toEqual([]);
+});
