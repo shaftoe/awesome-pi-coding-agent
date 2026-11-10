@@ -3,23 +3,22 @@
   "name": "@comchatx/cx-board",
   "url": "https://www.npmjs.com/package/@comchatx/cx-board",
   "source": "npm-search",
-  "description": "A board beside the chat, where cx leaves what it found, changed, proposes and asks.",
+  "description": "A board beside the chat for what cx and plugins make.",
   "metadata": {
     "github_url": "https://github.com/comchatx/cx-board",
     "npm_name": "@comchatx/cx-board",
-    "description": "A board beside the chat, where cx leaves what it found, changed, proposes and asks.",
+    "description": "A board beside the chat for what cx and plugins make.",
     "keywords": [
       "pi-package"
     ],
-    "version": "0.2.1",
-    "published_at": "2026-11-08T05:26:45.921Z",
-    "npm_downloads_monthly": 899,
-    "npm_downloads_weekly": 300,
-    "npm_score_final": 20.004581,
+    "version": "0.3.0",
+    "published_at": "2026-11-09T04:39:09.462Z",
+    "npm_downloads_monthly": 917,
+    "npm_downloads_weekly": 295,
+    "npm_score_final": 19.82645,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

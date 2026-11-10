@@ -1,0 +1,29 @@
+{
+  "id": "@goldziher/opencode-uncomment",
+  "name": "@goldziher/opencode-uncomment",
+  "url": "https://www.npmjs.com/package/@goldziher/opencode-uncomment",
+  "source": "npm-search",
+  "description": "Inventory, preserve and remove source comments with AST parsing. Skills only; install the Uncomment CLI separately.",
+  "metadata": {
+    "github_url": "https://github.com/Goldziher/uncomment",
+    "npm_name": "@goldziher/opencode-uncomment",
+    "description": "Inventory, preserve and remove source comments with AST parsing. Skills only; install the Uncomment CLI separately.",
+    "keywords": [
+      "code-cleanup",
+      "comments",
+      "linting",
+      "pi-package",
+      "tree-sitter"
+    ],
+    "version": "3.10.4",
+    "published_at": "2026-11-02T05:04:07.661Z",
+    "npm_downloads_monthly": 310,
+    "npm_downloads_weekly": 245,
+    "npm_score_final": 16.259201,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

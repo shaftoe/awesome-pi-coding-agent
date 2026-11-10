@@ -1,0 +1,29 @@
+{
+  "id": "pi-aim",
+  "name": "pi-aim",
+  "url": "https://www.npmjs.com/package/pi-aim",
+  "source": "npm-search",
+  "description": "Goal tracking for pi with an independently resolved evaluator model.",
+  "metadata": {
+    "github_url": "https://github.com/mkusaka/pi-aim",
+    "npm_name": "pi-aim",
+    "description": "Goal tracking for pi with an independently resolved evaluator model.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "goal",
+      "evaluator"
+    ],
+    "version": "0.0.2",
+    "published_at": "2026-11-02T19:08:17.854Z",
+    "npm_downloads_monthly": 674,
+    "npm_downloads_weekly": 674,
+    "npm_score_final": 18.667652,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

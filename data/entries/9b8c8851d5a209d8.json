@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_packages",
+  "name": "Package Catalog · Pi",
+  "url": "https://pi.dev/packages?name=status",
+  "source": "brave-web-search",
+  "description": "Cometix-style single-line footer for pi — model, path, git, tokens, cost & task time at a glance. ... Persistent status bar for Unipi — subscribes to UNIPI_EVENTS and renders key stats from all unipi packages",
+  "metadata": {
+    "title": "Package Catalog · Pi",
+    "name": "Package Catalog · Pi",
+    "description": "Cometix-style single-line footer for pi — model, path, git, tokens, cost & task time at a glance. ... Persistent status bar for Unipi — subscribes to UNIPI_EVENTS and renders key stats from all unipi packages",
+    "published_at": null,
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages?name=status",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}

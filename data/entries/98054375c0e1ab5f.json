@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Cron-driven scheduled prompt tasks, each run in an isolated agent session",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/fookhsu/agents-cron",
     "npm_name": "agents-cron",
     "description": "Cron-driven scheduled prompt tasks, each run in an isolated agent session",
@@ -21,11 +22,10 @@
     "published_at": "2026-11-08T13:55:26.988Z",
     "npm_downloads_monthly": 4185,
     "npm_downloads_weekly": 702,
-    "npm_score_final": 24.173624,
+    "npm_score_final": 26.841894,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

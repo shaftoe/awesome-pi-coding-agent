@@ -1,0 +1,34 @@
+{
+  "id": "pi-scope",
+  "name": "pi-scope",
+  "url": "https://www.npmjs.com/package/pi-scope",
+  "source": "npm-search",
+  "description": "A multi-session desktop console for the pi coding agent. Watch every session like oscilloscope channels — live streams, file changes, model switching, all at once.",
+  "metadata": {
+    "github_url": "https://github.com/it-kxw/pi-scope",
+    "npm_name": "pi-scope",
+    "description": "A multi-session desktop console for the pi coding agent. Watch every session like oscilloscope channels — live streams, file changes, model switching, all at once.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-ui",
+      "pi-coding-agent",
+      "tauri",
+      "vue3",
+      "desktop",
+      "multi-session",
+      "session-manager",
+      "diff-review"
+    ],
+    "version": "0.0.1",
+    "published_at": "2026-11-10T04:09:31.200Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

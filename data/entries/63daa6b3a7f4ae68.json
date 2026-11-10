@@ -1,0 +1,33 @@
+{
+  "id": "gentle-retry",
+  "name": "gentle-retry",
+  "url": "https://www.npmjs.com/package/gentle-retry",
+  "source": "npm-search",
+  "description": "Reliable retry for transient provider failures in Gentle Shell and Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/andrikonbeat/gentle-retry",
+    "npm_name": "gentle-retry",
+    "description": "Reliable retry for transient provider failures in Gentle Shell and Pi Coding Agent",
+    "keywords": [
+      "gentle-shell",
+      "pi-coding-agent",
+      "pi-package",
+      "extension",
+      "retry",
+      "429",
+      "timeout",
+      "rate-limit",
+      "backoff"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-09T10:30:33.251Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

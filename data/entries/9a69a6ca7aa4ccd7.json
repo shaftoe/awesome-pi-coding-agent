@@ -1,0 +1,25 @@
+{
+  "id": "@runminton/pi-cwd-memory",
+  "name": "@runminton/pi-cwd-memory",
+  "url": "https://www.npmjs.com/package/@runminton/pi-cwd-memory",
+  "source": "npm-search",
+  "description": "Minimal and reliable memory for pi that gives the agent plain Markdown files and stays out of the way, in about 90 lines of code.",
+  "metadata": {
+    "github_url": "https://github.com/RunMintOn/pi-cwd-memory",
+    "npm_name": "@runminton/pi-cwd-memory",
+    "description": "Minimal and reliable memory for pi that gives the agent plain Markdown files and stays out of the way, in about 90 lines of code.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-02T13:44:22.783Z",
+    "npm_downloads_monthly": 487,
+    "npm_downloads_weekly": 487,
+    "npm_score_final": 18.192858,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

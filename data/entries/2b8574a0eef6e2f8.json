@@ -1,0 +1,34 @@
+{
+  "id": "pi-c-review",
+  "name": "pi-c-review",
+  "url": "https://www.npmjs.com/package/pi-c-review",
+  "source": "npm-search",
+  "description": "C code review and auto-correction extension for pi.dev",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-c-review",
+    "description": "C code review and auto-correction extension for pi.dev",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "c",
+      "code-doctor",
+      "code-review",
+      "code-analyser",
+      "auto-fix",
+      "misra",
+      "safety"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-11-02T03:20:47.565Z",
+    "npm_downloads_monthly": 713,
+    "npm_downloads_weekly": 713,
+    "npm_score_final": 18.928736,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

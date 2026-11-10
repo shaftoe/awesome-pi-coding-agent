@@ -1,0 +1,33 @@
+{
+  "id": "@cltec/pi-make-headroom",
+  "name": "@cltec/pi-make-headroom",
+  "url": "https://www.npmjs.com/package/@cltec/pi-make-headroom",
+  "source": "npm-search",
+  "description": "Make Headroom! Managed Headroom context compression for Pi: pinned Python venv, lazy setup, no npm dependencies.",
+  "metadata": {
+    "github_url": "https://github.com/Cirius1792/pi-make-headroom",
+    "npm_name": "@cltec/pi-make-headroom",
+    "description": "Make Headroom! Managed Headroom context compression for Pi: pinned Python venv, lazy setup, no npm dependencies.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "headroom",
+      "context",
+      "compression",
+      "managed",
+      "venv",
+      "lazy",
+      "make-headroom"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-09T07:00:45.882Z",
+    "npm_downloads_monthly": 500,
+    "npm_downloads_weekly": 500,
+    "npm_score_final": 17.790482,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
