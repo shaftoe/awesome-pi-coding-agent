@@ -10,7 +10,7 @@
     "description": "Durable Pi agents that collaborate asynchronously under explicit Owner and Spawner supervision.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 4,
     "topics": [
       "pi-package"
     ],

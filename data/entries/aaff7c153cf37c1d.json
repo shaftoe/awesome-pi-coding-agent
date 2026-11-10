@@ -1,0 +1,35 @@
+{
+  "id": "heohlee-pi-yt",
+  "name": "heohlee-pi-yt",
+  "url": "https://github.com/heohlee/pi-yt",
+  "source": "github-search",
+  "description": "Browse and play YouTube from Pi or Gentle-Shell: your likes, history, recommendations and playlists through your browser session, played with mpv and yt-dlp.",
+  "metadata": {
+    "github_url": "https://github.com/heohlee/pi-yt",
+    "repo_full_name": "heohlee/pi-yt",
+    "description": "Browse and play YouTube from Pi or Gentle-Shell: your likes, history, recommendations and playlists through your browser session, played with mpv and yt-dlp.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "gentle-shell-package",
+      "mpv",
+      "music-player",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "terminal",
+      "youtube",
+      "yt-dlp"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-09T04:43:03Z",
+    "pushed_at": "2026-11-10T01:00:18Z",
+    "updated_at": "2026-11-10T01:00:20Z",
+    "size": 462,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

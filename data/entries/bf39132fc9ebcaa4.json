@@ -8,7 +8,7 @@
     "github_url": "https://github.com/TellyD/Soreno",
     "repo_full_name": "TellyD/Soreno",
     "description": "All your coding agents in one window: local notes and workspace for Pi, OMP, Codex and Claude Code.",
-    "stars": 3,
+    "stars": 8,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,10 +16,10 @@
     "archived": false,
     "created_at": "2026-11-08T10:12:46Z",
     "pushed_at": "2026-11-08T16:52:30Z",
-    "updated_at": "2026-11-08T16:52:34Z",
+    "updated_at": "2026-11-09T13:06:49Z",
     "size": 7056,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "misc"
 }

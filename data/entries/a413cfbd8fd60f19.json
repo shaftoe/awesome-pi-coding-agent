@@ -5,7 +5,6 @@
   "source": "npm-search",
   "description": "Publish markdown, CSV and Excel files to Google Drive as native Google Docs and Sheets, rewriting relative links to real Doc URLs with stable sharing links",
   "metadata": {
-    "pi_declares_extension": true,
     "github_url": "https://github.com/codingfragments/codingfragments-publish",
     "npm_name": "gdrive-publish",
     "description": "Publish markdown, CSV and Excel files to Google Drive as native Google Docs and Sheets, rewriting relative links to real Doc URLs with stable sharing links",
@@ -18,14 +17,15 @@
       "cli",
       "pi-package"
     ],
-    "version": "0.12.0",
-    "published_at": "2026-10-30T10:40:08.899Z",
-    "npm_downloads_monthly": 1261,
-    "npm_downloads_weekly": 350,
-    "npm_score_final": 21.02591,
+    "version": "0.13.0",
+    "published_at": "2026-11-09T11:10:07.277Z",
+    "npm_downloads_monthly": 1272,
+    "npm_downloads_weekly": 105,
+    "npm_score_final": 21.3607,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

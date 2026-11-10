@@ -1,0 +1,25 @@
+{
+  "id": "@maxpaulus/pi-background-job",
+  "name": "@maxpaulus/pi-background-job",
+  "url": "https://www.npmjs.com/package/@maxpaulus/pi-background-job",
+  "source": "npm-search",
+  "description": "Background shell tasks and Pi agents with live progress and automatic results",
+  "metadata": {
+    "github_url": "https://github.com/maxpaulus43/pi-background-job",
+    "npm_name": "@maxpaulus/pi-background-job",
+    "description": "Background shell tasks and Pi agents with live progress and automatic results",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.5",
+    "published_at": "2026-11-09T21:58:58.008Z",
+    "npm_downloads_monthly": 534,
+    "npm_downloads_weekly": 534,
+    "npm_score_final": 17.923714,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

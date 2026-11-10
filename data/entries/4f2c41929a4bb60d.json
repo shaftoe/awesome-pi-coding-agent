@@ -8,7 +8,7 @@
     "github_url": "https://github.com/cavaldos/pi-plan-mode-tidy",
     "repo_full_name": "cavaldos/pi-plan-mode-tidy",
     "description": "Plan mode for Pi: read-only exploration with allowlisted bash and plan extraction. Stay in plan mode or refine the plan; execution happens in normal mode.",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -20,7 +20,7 @@
     "archived": false,
     "created_at": "2026-10-21T09:38:58Z",
     "pushed_at": "2026-10-21T10:58:37Z",
-    "updated_at": "2026-11-07T01:22:39Z",
+    "updated_at": "2026-11-09T13:21:36Z",
     "size": 23,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

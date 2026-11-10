@@ -10,7 +10,7 @@
     "description": "Local-first workbench for Claude Code, Codex, OpenCode, Pi Agent, Grok Build and Antigravity on Windows, macOS and Linux. Control terminals through MCP, resume native sessions, preview files and reconnect from your phone.",
     "stars": 55,
     "forks": 9,
-    "open_issues": 8,
+    "open_issues": 7,
     "topics": [
       "agentic-ai",
       "ai-agent",

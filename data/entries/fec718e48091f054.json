@@ -1,0 +1,33 @@
+{
+  "id": "wellCh4n-cattery",
+  "name": "wellCh4n-cattery",
+  "url": "https://github.com/wellCh4n/cattery",
+  "source": "github-search",
+  "description": "Cattery: self-hosted AI coding agent platform for teams. Each project runs the pi agent in its own Kubernetes sandbox.",
+  "metadata": {
+    "github_url": "https://github.com/wellCh4n/cattery",
+    "repo_full_name": "wellCh4n/cattery",
+    "description": "Cattery: self-hosted AI coding agent platform for teams. Each project runs the pi agent in its own Kubernetes sandbox.",
+    "stars": 3,
+    "forks": 2,
+    "open_issues": 0,
+    "topics": [
+      "claude-code",
+      "codex",
+      "harness",
+      "hermes",
+      "kubernetes",
+      "opencode",
+      "sandbox"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-17T16:52:13Z",
+    "pushed_at": "2026-11-04T15:58:20Z",
+    "updated_at": "2026-11-09T07:49:11Z",
+    "size": 2212,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

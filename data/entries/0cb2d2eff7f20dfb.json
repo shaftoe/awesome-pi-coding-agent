@@ -1,0 +1,35 @@
+{
+  "id": "AyRickk-pi-keycloak-auth",
+  "name": "AyRickk-pi-keycloak-auth",
+  "url": "https://github.com/AyRickk/pi-keycloak-auth",
+  "source": "github-search",
+  "description": "Keycloak OAuth2/OIDC login for the pi coding agent: PKCE browser and device flows, offline tokens, automatic refresh, OpenAI-compatible provider.",
+  "metadata": {
+    "github_url": "https://github.com/AyRickk/pi-keycloak-auth",
+    "repo_full_name": "AyRickk/pi-keycloak-auth",
+    "description": "Keycloak OAuth2/OIDC login for the pi coding agent: PKCE browser and device flows, offline tokens, automatic refresh, OpenAI-compatible provider.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "device-flow",
+      "keycloak",
+      "llm",
+      "oauth2",
+      "oidc",
+      "pi",
+      "pi-package",
+      "pkce",
+      "sso"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-09T09:11:00Z",
+    "pushed_at": "2026-11-09T12:02:58Z",
+    "updated_at": "2026-11-09T17:59:49Z",
+    "size": 141,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

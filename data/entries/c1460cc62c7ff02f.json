@@ -9,7 +9,7 @@
     "repo_full_name": "louloulin/OpenBuddy",
     "description": "🚀 The open-source WorkBuddy successor — powered by Pi's empathy engine. Autonomous tasks, local files, multi-agent collaboration with emotional intelligence",
     "stars": 37,
-    "forks": 9,
+    "forks": 10,
     "open_issues": 8,
     "topics": [
       "pi",
@@ -21,7 +21,7 @@
     "archived": false,
     "created_at": "2026-09-05T03:01:46Z",
     "pushed_at": "2026-10-31T15:21:26Z",
-    "updated_at": "2026-11-07T03:31:57Z",
+    "updated_at": "2026-11-10T01:15:21Z",
     "size": 84149,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

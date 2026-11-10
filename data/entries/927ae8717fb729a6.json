@@ -1,0 +1,40 @@
+{
+  "id": "@hugolopes45/lmsk",
+  "name": "@hugolopes45/lmsk",
+  "url": "https://www.npmjs.com/package/@hugolopes45/lmsk",
+  "source": "npm-search",
+  "description": "Mask API keys, passwords and emails before Claude Code or the pi coding agent sends them to the LLM, and restore them in tool calls.",
+  "metadata": {
+    "github_url": "https://github.com/HugoLopes45/lmsk",
+    "npm_name": "@hugolopes45/lmsk",
+    "description": "Mask API keys, passwords and emails before Claude Code or the pi coding agent sends them to the LLM, and restore them in tool calls.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "pi-coding-agent",
+      "claude-code",
+      "coding-agent",
+      "llm",
+      "secrets",
+      "api-keys",
+      "mask",
+      "redact",
+      "redaction",
+      "privacy",
+      "pii",
+      "dlp",
+      "gitleaks"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-11-09T21:49:29.346Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

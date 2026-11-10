@@ -1,0 +1,36 @@
+{
+  "id": "pvidaal07-heydb",
+  "name": "pvidaal07-heydb",
+  "url": "https://github.com/pvidaal07/heydb",
+  "source": "github-search",
+  "description": "Database schema context for AI agents, built for legacy databases. A Pi package for MySQL, MariaDB and PostgreSQL.",
+  "metadata": {
+    "github_url": "https://github.com/pvidaal07/heydb",
+    "repo_full_name": "pvidaal07/heydb",
+    "description": "Database schema context for AI agents, built for legacy databases. A Pi package for MySQL, MariaDB and PostgreSQL.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 5,
+    "topics": [
+      "ai-agents",
+      "database",
+      "legacy-code",
+      "mariadb",
+      "mysql",
+      "pi",
+      "pi-package",
+      "postgresql",
+      "schema",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-14T13:11:14Z",
+    "pushed_at": "2026-11-09T12:30:25Z",
+    "updated_at": "2026-11-09T12:30:23Z",
+    "size": 702,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "shapeng1998-pi-stuff",
+  "name": "shapeng1998-pi-stuff",
+  "url": "https://github.com/shapeng1998/pi-stuff",
+  "source": "github-search",
+  "description": "Personal pi coding agent extensions, skills, prompts and themes",
+  "metadata": {
+    "github_url": "https://github.com/shapeng1998/pi-stuff",
+    "repo_full_name": "shapeng1998/pi-stuff",
+    "description": "Personal pi coding agent extensions, skills, prompts and themes",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-07T13:04:08Z",
+    "pushed_at": "2026-11-09T14:55:21Z",
+    "updated_at": "2026-11-09T14:55:25Z",
+    "size": 89,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

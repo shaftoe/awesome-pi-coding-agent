@@ -1,0 +1,28 @@
+{
+  "id": "@tahabakhit/skills",
+  "name": "@tahabakhit/skills",
+  "url": "https://www.npmjs.com/package/@tahabakhit/skills",
+  "source": "npm-search",
+  "description": "Selectively installable workflows for engineering, research, content, data, and Linux operations.",
+  "metadata": {
+    "github_url": "https://github.com/tahabakhit/skills",
+    "npm_name": "@tahabakhit/skills",
+    "description": "Selectively installable workflows for engineering, research, content, data, and Linux operations.",
+    "keywords": [
+      "pi-package",
+      "agent-skills",
+      "discovery",
+      "specification"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-11-02T18:24:00.823Z",
+    "npm_downloads_monthly": 479,
+    "npm_downloads_weekly": 479,
+    "npm_score_final": 17.470984,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

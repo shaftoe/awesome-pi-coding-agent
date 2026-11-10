@@ -8,7 +8,7 @@
     "github_url": "https://github.com/retinkr/pi-zero",
     "repo_full_name": "retinkr/pi-zero",
     "description": "Free model provider for Pi Coding Agent",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -28,7 +28,7 @@
     "archived": false,
     "created_at": "2026-08-01T11:20:55Z",
     "pushed_at": "2026-08-01T12:27:13Z",
-    "updated_at": "2026-08-02T11:05:13Z",
+    "updated_at": "2026-11-09T08:29:17Z",
     "size": 5,
     "license": null,
     "discovery_hint": "github-repo:pi-package language:TypeScript"
