@@ -9,7 +9,7 @@
     "repo_full_name": "forbiddenpacket/pi-cyber",
     "description": "A cyber-security harness built on Pi, with specialized agents, tools, and workflows to pentest and security research.",
     "stars": 5,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "agents",

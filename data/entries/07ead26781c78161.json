@@ -1,0 +1,25 @@
+{
+  "id": "EdwinZhanCN-obsidian-icap-agent",
+  "name": "EdwinZhanCN-obsidian-icap-agent",
+  "url": "https://github.com/EdwinZhanCN/obsidian-icap-agent",
+  "source": "github-search",
+  "description": "Learn inside your Obsidian notes — contextual explanations, recall with feedback and in-document requests, powered by your own Pi agent.",
+  "metadata": {
+    "github_url": "https://github.com/EdwinZhanCN/obsidian-icap-agent",
+    "repo_full_name": "EdwinZhanCN/obsidian-icap-agent",
+    "description": "Learn inside your Obsidian notes — contextual explanations, recall with feedback and in-document requests, powered by your own Pi agent.",
+    "stars": 9,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-04T07:56:17Z",
+    "pushed_at": "2026-11-10T04:09:39Z",
+    "updated_at": "2026-11-10T20:19:28Z",
+    "size": 2689,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

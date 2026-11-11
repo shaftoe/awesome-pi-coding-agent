@@ -1,0 +1,29 @@
+{
+  "id": "@elflodge/pi-durable-extension-adapter",
+  "name": "@elflodge/pi-durable-extension-adapter",
+  "url": "https://www.npmjs.com/package/@elflodge/pi-durable-extension-adapter",
+  "source": "npm-search",
+  "description": "Run Pi coding-agent extensions on pi-durable.",
+  "metadata": {
+    "github_url": "https://github.com/elflodge/elflodge",
+    "npm_name": "@elflodge/pi-durable-extension-adapter",
+    "description": "Run Pi coding-agent extensions on pi-durable.",
+    "keywords": [
+      "durable-execution",
+      "pi",
+      "pi-coding-agent",
+      "pi-durable",
+      "pi-extension"
+    ],
+    "version": "0.8.0",
+    "published_at": "2026-11-10T16:43:35.343Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

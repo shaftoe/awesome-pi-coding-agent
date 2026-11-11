@@ -1,0 +1,32 @@
+{
+  "id": "nusacode",
+  "name": "nusacode",
+  "url": "https://www.npmjs.com/package/nusacode",
+  "source": "npm-search",
+  "description": "A coding agent for your terminal that shows what every prompt costs and learns from the work it does. Built on pi (MIT).",
+  "metadata": {
+    "github_url": "https://github.com/RafiAkem/nusacode",
+    "npm_name": "nusacode",
+    "description": "A coding agent for your terminal that shows what every prompt costs and learns from the work it does. Built on pi (MIT).",
+    "keywords": [
+      "coding-agent",
+      "cli",
+      "ai",
+      "llm",
+      "terminal",
+      "nusagate",
+      "pi-package"
+    ],
+    "version": "0.1.7",
+    "published_at": "2026-11-10T08:36:35.744Z",
+    "npm_downloads_monthly": 1348,
+    "npm_downloads_weekly": 1348,
+    "npm_score_final": 21.373665,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "pi_declares_extension": false,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

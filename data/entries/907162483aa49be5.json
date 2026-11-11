@@ -10,7 +10,7 @@
     "description": "Perfect pi kit to be 10x Deevs' engineer",
     "stars": 11,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "ai-agents",
       "coding-agents",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-26T17:32:11Z",
-    "pushed_at": "2026-11-08T16:28:00Z",
+    "pushed_at": "2026-11-10T11:26:44Z",
     "updated_at": "2026-11-08T16:28:05Z",
-    "size": 3615,
+    "size": 3621,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

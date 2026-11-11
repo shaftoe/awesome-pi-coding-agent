@@ -1,0 +1,29 @@
+{
+  "id": "wellactually",
+  "name": "wellactually",
+  "url": "https://www.npmjs.com/package/wellactually",
+  "source": "npm-search",
+  "description": "Your Well Actually advisory board, review skills and findings inbox for Claude Code, Codex, OpenCode and pi.",
+  "metadata": {
+    "github_url": "https://github.com/passsy/wellactually",
+    "npm_name": "wellactually",
+    "description": "Your Well Actually advisory board, review skills and findings inbox for Claude Code, Codex, OpenCode and pi.",
+    "keywords": [
+      "pi-package",
+      "opencode-plugin",
+      "codex",
+      "claude-code",
+      "code-review"
+    ],
+    "version": "0.11.0-rc.2",
+    "published_at": "2026-11-10T03:36:49.003Z",
+    "npm_downloads_monthly": 317,
+    "npm_downloads_weekly": 317,
+    "npm_score_final": 16.08709,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

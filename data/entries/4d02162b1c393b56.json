@@ -10,7 +10,7 @@
     "description": "Runtime theme switching and preview for the Pi coding agent. 10+ built-in palettes.",
     "stars": 0,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "ai-agent",
       "bun",
@@ -31,9 +31,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-16T21:08:43Z",
-    "pushed_at": "2026-04-18T17:18:47Z",
+    "pushed_at": "2026-11-10T16:01:58Z",
     "updated_at": "2026-04-18T17:18:51Z",
-    "size": 8342,
+    "size": 8344,
     "license": null,
     "discovery_hint": "github-repo:pi-theme language:TypeScript"
   },

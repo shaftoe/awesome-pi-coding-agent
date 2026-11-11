@@ -1,0 +1,32 @@
+{
+  "id": "@tduyng/pi-rewind",
+  "name": "@tduyng/pi-rewind",
+  "url": "https://www.npmjs.com/package/@tduyng/pi-rewind",
+  "source": "npm-search",
+  "description": "Go back in a session and the files go back too: a git snapshot before every prompt, restored on /tree, /fork and /rewind.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@tduyng/pi-rewind",
+    "description": "Go back in a session and the files go back too: a git snapshot before every prompt, restored on /tree, /fork and /rewind.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "rewind",
+      "checkpoint",
+      "undo",
+      "git"
+    ],
+    "version": "0.0.5",
+    "published_at": "2026-11-10T12:34:14.115Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

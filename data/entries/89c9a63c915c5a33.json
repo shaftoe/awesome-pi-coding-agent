@@ -10,7 +10,7 @@
     "description": "Open-source managed runtime for OpenAI Codex, Claude Agent SDK, OpenCode, and Pi Agent. Run coding agents through one Agents API with isolated cloud sandboxes, durable sessions, tool streaming, and managed files.",
     "stars": 166,
     "forks": 27,
-    "open_issues": 42,
+    "open_issues": 44,
     "topics": [
       "agent-api",
       "agent-runtime",
@@ -27,9 +27,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-13T02:18:02Z",
-    "pushed_at": "2026-11-08T06:49:18Z",
-    "updated_at": "2026-11-08T14:59:12Z",
-    "size": 21684,
+    "pushed_at": "2026-11-10T09:08:03Z",
+    "updated_at": "2026-11-10T09:02:39Z",
+    "size": 21708,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

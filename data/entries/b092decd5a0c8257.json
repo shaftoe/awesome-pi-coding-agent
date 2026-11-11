@@ -1,0 +1,32 @@
+{
+  "id": "@lordekeen/pi-chafa",
+  "name": "@lordekeen/pi-chafa",
+  "url": "https://www.npmjs.com/package/@lordekeen/pi-chafa",
+  "source": "npm-search",
+  "description": "Show image files to the user in the pi terminal — native kitty/iTerm2 where supported, Chafa ANSI symbols everywhere else.",
+  "metadata": {
+    "github_url": "https://github.com/lordekeen/pi-chafa",
+    "npm_name": "@lordekeen/pi-chafa",
+    "description": "Show image files to the user in the pi terminal — native kitty/iTerm2 where supported, Chafa ANSI symbols everywhere else.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "chafa",
+      "terminal-image",
+      "kitty-graphics",
+      "iterm2",
+      "ansi-art"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-10-13T13:53:34.988Z",
+    "npm_downloads_monthly": 391,
+    "npm_downloads_weekly": 10,
+    "npm_score_final": 17.959114,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "hurricanehrndz-agent-toolkit",
+  "name": "hurricanehrndz-agent-toolkit",
+  "url": "https://github.com/hurricanehrndz/agent-toolkit",
+  "source": "github-search",
+  "description": "One-stop shop for pi.dev extensions, skills, and themes",
+  "metadata": {
+    "github_url": "https://github.com/hurricanehrndz/agent-toolkit",
+    "repo_full_name": "hurricanehrndz/agent-toolkit",
+    "description": "One-stop shop for pi.dev extensions, skills, and themes",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-05-04T18:04:29Z",
+    "pushed_at": "2026-11-10T13:31:23Z",
+    "updated_at": "2026-11-10T13:31:28Z",
+    "size": 378,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

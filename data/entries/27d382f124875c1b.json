@@ -1,0 +1,31 @@
+{
+  "id": "peakseek",
+  "name": "peakseek",
+  "url": "https://www.npmjs.com/package/peakseek",
+  "source": "npm-search",
+  "description": "DeepSeek balance, peak/off-peak indicator and off-peak pricing in the Pi footer",
+  "metadata": {
+    "github_url": "https://github.com/utkvishwas/peakseek",
+    "npm_name": "peakseek",
+    "description": "DeepSeek balance, peak/off-peak indicator and off-peak pricing in the Pi footer",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "peakseek",
+      "deepseek",
+      "footer",
+      "balance"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-11-10T09:59:57.881Z",
+    "npm_downloads_monthly": 548,
+    "npm_downloads_weekly": 548,
+    "npm_score_final": 18.427681,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

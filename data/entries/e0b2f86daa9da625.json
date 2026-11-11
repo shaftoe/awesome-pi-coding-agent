@@ -1,0 +1,30 @@
+{
+  "id": "pi-agents-memory",
+  "name": "pi-agents-memory",
+  "url": "https://www.npmjs.com/package/pi-agents-memory",
+  "source": "npm-search",
+  "description": "Cross-session persistent memory for Pi agents. Loads project context at session start and auto-saves conversation memory at session end.",
+  "metadata": {
+    "github_url": "https://github.com/juanje/pi-agents-memory",
+    "npm_name": "pi-agents-memory",
+    "description": "Cross-session persistent memory for Pi agents. Loads project context at session start and auto-saves conversation memory at session end.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "memory",
+      "context",
+      "agents-memory"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-10T19:11:11.913Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

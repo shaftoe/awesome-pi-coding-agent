@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-agents-team",
+  "name": "pi-agents-team · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-agents-team",
+  "source": "brave-web-search",
+  "description": "Use pi config -l only to enable or disable local packages or override local resources. Package activation is separate from /.pi/agent/agents-team.json, which configures team roles after the package is active.",
+  "metadata": {
+    "title": "pi-agents-team · Packages · Pi",
+    "name": "pi-agents-team · Packages · Pi",
+    "description": "Use pi config -l only to enable or disable local packages or override local resources. Package activation is separate from <project>/.pi/agent/agents-team.json, which configures team roles after the package is active.",
+    "published_at": "2026-10-11T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-agents-team",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "@arro000/pi-monokai-contrast",
+  "name": "@arro000/pi-monokai-contrast",
+  "url": "https://www.npmjs.com/package/@arro000/pi-monokai-contrast",
+  "source": "npm-search",
+  "description": "High-contrast Monokai dark and light themes for Pi",
+  "metadata": {
+    "github_url": "https://github.com/arro000/pi-monokai-contrast",
+    "npm_name": "@arro000/pi-monokai-contrast",
+    "description": "High-contrast Monokai dark and light themes for Pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "theme",
+      "monokai"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-11-03T13:47:07.213Z",
+    "npm_downloads_monthly": 241,
+    "npm_downloads_weekly": 241,
+    "npm_score_final": 16.316511,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

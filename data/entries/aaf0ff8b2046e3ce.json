@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_packages",
+  "name": "Package Catalog · Pi",
+  "url": "https://pi.dev/packages?name=web+search",
+  "source": "brave-web-search",
+  "description": "All-in-one web tools for pi with search (Google, Brave, DDG, TinyFish, FireCrawl) and fetch with headless browser AI summarization, TinyFish Fetch, and FireCrawl Keyless Scrape ... Full Tau package for Pi with coding workflows, web search, sandboxing, memory, Telegram, Home Assistant, OpenSCAD, ...",
+  "metadata": {
+    "title": "Package Catalog · Pi",
+    "name": "Package Catalog · Pi",
+    "description": "All-in-one web tools for pi with search (Google, Brave, DDG, TinyFish, FireCrawl) and fetch with headless browser AI summarization, TinyFish Fetch, and FireCrawl Keyless Scrape ... Full Tau package for Pi with coding workflows, web search, sandboxing, memory, Telegram, Home Assistant, OpenSCAD, ...",
+    "published_at": null,
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages?name=web+search",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}
