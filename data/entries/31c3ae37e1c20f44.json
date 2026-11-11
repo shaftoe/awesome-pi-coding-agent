@@ -1,0 +1,27 @@
+{
+  "id": "pi-openrouter-provider-picker",
+  "name": "pi-openrouter-provider-picker",
+  "url": "https://www.npmjs.com/package/pi-openrouter-provider-picker",
+  "source": "npm-search",
+  "description": "Choose an upstream provider for OpenRouter models in Pi",
+  "metadata": {
+    "github_url": "https://github.com/soubell/pi-openrouter-provider-picker",
+    "npm_name": "pi-openrouter-provider-picker",
+    "description": "Choose an upstream provider for OpenRouter models in Pi",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "openrouter"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-10-13T09:30:53.717Z",
+    "npm_downloads_monthly": 672,
+    "npm_downloads_weekly": 53,
+    "npm_score_final": 19.094713,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

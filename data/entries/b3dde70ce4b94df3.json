@@ -1,0 +1,31 @@
+{
+  "id": "@grrrck/pi-hand-off",
+  "name": "@grrrck/pi-hand-off",
+  "url": "https://www.npmjs.com/package/@grrrck/pi-hand-off",
+  "source": "npm-search",
+  "description": "Pi extension that hands a conversation off to a fresh session with a new model (/hand-off), or lets agents hand off to each other autonomously with a step and cost limit (/hand-off-relay)",
+  "metadata": {
+    "github_url": "https://github.com/gadenbuie/pi-hand-off",
+    "npm_name": "@grrrck/pi-hand-off",
+    "description": "Pi extension that hands a conversation off to a fresh session with a new model (/hand-off), or lets agents hand off to each other autonomously with a step and cost limit (/hand-off-relay)",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "session",
+      "model",
+      "handoff",
+      "hand-off",
+      "relay"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-11-10T17:52:55.742Z",
+    "npm_downloads_monthly": 494,
+    "npm_downloads_weekly": 494,
+    "npm_score_final": 18.750725,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/lprsrts/pi-voice",
     "repo_full_name": "lprsrts/pi-voice",
     "description": "Talk with your coding agent: full-duplex, echo-cancelled voice for Pi on macOS (OpenAI GPT-Live)",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "open_issues": 3,
     "topics": [
@@ -23,7 +23,7 @@
     "archived": false,
     "created_at": "2026-10-23T14:56:54Z",
     "pushed_at": "2026-11-07T23:36:18Z",
-    "updated_at": "2026-11-07T23:36:21Z",
+    "updated_at": "2026-11-10T20:05:44Z",
     "size": 566,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

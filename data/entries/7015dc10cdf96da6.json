@@ -1,0 +1,31 @@
+{
+  "id": "pi-better-code-blocks",
+  "name": "pi-better-code-blocks",
+  "url": "https://www.npmjs.com/package/pi-better-code-blocks",
+  "source": "npm-search",
+  "description": "Org-modern style code blocks with a click-to-copy label in Pi's transcript",
+  "metadata": {
+    "github_url": "https://github.com/Dev380/pi-better-code-blocks",
+    "npm_name": "pi-better-code-blocks",
+    "description": "Org-modern style code blocks with a click-to-copy label in Pi's transcript",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "code-block",
+      "copy",
+      "clipboard",
+      "markdown",
+      "tui"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-11-11T01:43:07.473Z",
+    "npm_downloads_monthly": 546,
+    "npm_downloads_weekly": 546,
+    "npm_score_final": 17.74834,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

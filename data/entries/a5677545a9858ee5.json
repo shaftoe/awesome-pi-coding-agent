@@ -1,0 +1,34 @@
+{
+  "id": "pi-keycloak-auth",
+  "name": "pi-keycloak-auth",
+  "url": "https://www.npmjs.com/package/pi-keycloak-auth",
+  "source": "npm-search",
+  "description": "Keycloak OAuth2/OIDC login for the pi coding agent and Oh My Pi: PKCE browser and device flows, offline tokens, automatic refresh, OpenAI-compatible provider with model discovery.",
+  "metadata": {
+    "github_url": "https://github.com/AyRickk/pi-keycloak-auth",
+    "npm_name": "pi-keycloak-auth",
+    "description": "Keycloak OAuth2/OIDC login for the pi coding agent and Oh My Pi: PKCE browser and device flows, offline tokens, automatic refresh, OpenAI-compatible provider with model discovery.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "oh-my-pi",
+      "omp",
+      "keycloak",
+      "oauth2",
+      "oidc",
+      "pkce",
+      "device-flow",
+      "sso"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-10T10:40:18.104Z",
+    "npm_downloads_monthly": 346,
+    "npm_downloads_weekly": 346,
+    "npm_score_final": 17.537352,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

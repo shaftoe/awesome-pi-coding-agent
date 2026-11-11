@@ -1,0 +1,31 @@
+{
+  "id": "@vipinsights/gemini-web-search-grounding",
+  "name": "@vipinsights/gemini-web-search-grounding",
+  "url": "https://www.npmjs.com/package/@vipinsights/gemini-web-search-grounding",
+  "source": "npm-search",
+  "description": "Minimal web_search for pi using Gemini's Grounding with Google Search. Gemini models only; no URL fetching.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@vipinsights/gemini-web-search-grounding",
+    "description": "Minimal web_search for pi using Gemini's Grounding with Google Search. Gemini models only; no URL fetching.",
+    "keywords": [
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "web-search",
+      "gemini",
+      "google",
+      "grounding"
+    ],
+    "version": "1.1.0",
+    "published_at": "2026-11-03T20:59:25.258Z",
+    "npm_downloads_monthly": 479,
+    "npm_downloads_weekly": 479,
+    "npm_score_final": 17.389639,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

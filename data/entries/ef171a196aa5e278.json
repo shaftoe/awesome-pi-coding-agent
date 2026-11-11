@@ -1,0 +1,25 @@
+{
+  "id": "@celljs/ta-permission-gate",
+  "name": "@celljs/ta-permission-gate",
+  "url": "https://www.npmjs.com/package/@celljs/ta-permission-gate",
+  "source": "npm-search",
+  "description": "A pi package: allow, ask or deny tool calls by rules. Works in Ta and in pi.",
+  "metadata": {
+    "github_url": "https://github.com/cellbang/cell",
+    "npm_name": "@celljs/ta-permission-gate",
+    "description": "A pi package: allow, ask or deny tool calls by rules. Works in Ta and in pi.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "4.6.1",
+    "published_at": "2026-11-11T02:01:48.494Z",
+    "npm_downloads_monthly": 387,
+    "npm_downloads_weekly": 387,
+    "npm_score_final": 17.915958,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

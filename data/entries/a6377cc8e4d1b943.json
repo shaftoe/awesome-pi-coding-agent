@@ -9,7 +9,7 @@
     "repo_full_name": "deepu105/pi-automode-classifier",
     "description": "Claude Code like auto mode for Pi: each tool call goes through rules, an optional classifier, then a chat model that reads your messages",
     "stars": 13,
-    "forks": 3,
+    "forks": 2,
     "open_issues": 0,
     "topics": [
       "coding-agent",

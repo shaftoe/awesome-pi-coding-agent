@@ -1,0 +1,43 @@
+{
+  "id": "elflodge",
+  "name": "elflodge",
+  "url": "https://www.npmjs.com/package/elflodge",
+  "source": "npm-search",
+  "description": "Hundreds of agents working unattended. One job API. Run jobs in parallel on your own machine and get structured results.",
+  "metadata": {
+    "github_url": "https://github.com/elflodge/elflodge",
+    "npm_name": "elflodge",
+    "description": "Hundreds of agents working unattended. One job API. Run jobs in parallel on your own machine and get structured results.",
+    "keywords": [
+      "agent-batch",
+      "agents",
+      "ai",
+      "ai-agents",
+      "automation",
+      "batch-processing",
+      "cli",
+      "data-extraction",
+      "document-extraction",
+      "elflodge",
+      "json-schema",
+      "llm",
+      "parallel-agents",
+      "pi",
+      "pi-package",
+      "sandbox",
+      "self-hosted",
+      "structured-output"
+    ],
+    "version": "0.8.0",
+    "published_at": "2026-11-10T16:43:52.583Z",
+    "npm_downloads_monthly": 775,
+    "npm_downloads_weekly": 256,
+    "npm_score_final": 19.75715,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

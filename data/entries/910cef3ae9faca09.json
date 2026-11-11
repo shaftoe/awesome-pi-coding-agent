@@ -8,7 +8,7 @@
     "github_url": "https://github.com/pranshuchittora/simvyn",
     "repo_full_name": "pranshuchittora/simvyn",
     "description": "Universal mobile devtool for Agents & Humans - control iOS Simulators, Android Emulators, and real devices from a single dashboard and CLI",
-    "stars": 444,
+    "stars": 445,
     "forks": 32,
     "open_issues": 0,
     "topics": [
@@ -31,7 +31,7 @@
     "archived": false,
     "created_at": "2026-02-27T12:51:28Z",
     "pushed_at": "2026-10-28T22:59:07Z",
-    "updated_at": "2026-11-09T19:07:32Z",
+    "updated_at": "2026-11-10T15:52:32Z",
     "size": 49206,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
