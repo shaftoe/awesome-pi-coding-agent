@@ -1,0 +1,31 @@
+{
+  "id": "@jordyvanvorselen/pi-pr-review",
+  "name": "@jordyvanvorselen/pi-pr-review",
+  "url": "https://www.npmjs.com/package/@jordyvanvorselen/pi-pr-review",
+  "source": "npm-search",
+  "description": "Review a pull request with Pi by intent, structure and architecture. The agent reads the diff, you see visual summaries and make the calls.",
+  "metadata": {
+    "github_url": "https://github.com/jordyvanvorselen/pi-pr-review",
+    "npm_name": "@jordyvanvorselen/pi-pr-review",
+    "description": "Review a pull request with Pi by intent, structure and architecture. The agent reads the diff, you see visual summaries and make the calls.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "code-review",
+      "pull-request",
+      "github",
+      "extension"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-04T15:49:42.934Z",
+    "npm_downloads_monthly": 452,
+    "npm_downloads_weekly": 452,
+    "npm_score_final": 17.691282,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

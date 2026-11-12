@@ -1,0 +1,25 @@
+{
+  "id": "zhenguo1492-pi-fellow",
+  "name": "zhenguo1492-pi-fellow",
+  "url": "https://github.com/zhenguo1492/pi-fellow",
+  "source": "github-search",
+  "description": "Unofficial VS Code extension putting the omp (Oh My Pi) and pi coding agents in the sidebar, plus a voice AI pair-programming partner with a shared blackboard",
+  "metadata": {
+    "github_url": "https://github.com/zhenguo1492/pi-fellow",
+    "repo_full_name": "zhenguo1492/pi-fellow",
+    "description": "Unofficial VS Code extension putting the omp (Oh My Pi) and pi coding agents in the sidebar, plus a voice AI pair-programming partner with a shared blackboard",
+    "stars": 4,
+    "forks": 1,
+    "open_issues": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-02T22:32:27Z",
+    "pushed_at": "2026-10-03T16:51:29Z",
+    "updated_at": "2026-11-12T02:33:52Z",
+    "size": 7814,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

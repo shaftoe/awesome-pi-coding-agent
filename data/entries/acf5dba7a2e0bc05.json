@@ -8,8 +8,8 @@
     "github_url": "https://github.com/evolving-foundry/ember-evaluator",
     "repo_full_name": "evolving-foundry/ember-evaluator",
     "description": "Many ways to evaluate. One framework to bring them together. Unify benchmarks, agent evaluations, and performance testing across coding, terminal, office, web, and more.",
-    "stars": 38,
-    "forks": 3,
+    "stars": 40,
+    "forks": 5,
     "open_issues": 3,
     "topics": [
       "agent-evaluation",
@@ -31,9 +31,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-11-01T07:58:48Z",
-    "pushed_at": "2026-11-10T13:15:03Z",
-    "updated_at": "2026-11-10T13:15:09Z",
-    "size": 18783,
+    "pushed_at": "2026-11-12T03:29:03Z",
+    "updated_at": "2026-11-12T02:30:18Z",
+    "size": 28122,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

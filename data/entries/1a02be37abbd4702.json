@@ -10,7 +10,7 @@
     "description": "Better and faster compaction for PI Agent.",
     "stars": 5,
     "forks": 2,
-    "open_issues": 1,
+    "open_issues": 2,
     "topics": [
       "compaction",
       "context-window",

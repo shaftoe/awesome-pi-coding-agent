@@ -1,0 +1,29 @@
+{
+  "id": "@butcool/pi-inline-skills",
+  "name": "@butcool/pi-inline-skills",
+  "url": "https://www.npmjs.com/package/@butcool/pi-inline-skills",
+  "source": "npm-search",
+  "description": "Invoke Pi skills anywhere in a prompt with $name or /skill:name.",
+  "metadata": {
+    "github_url": "https://github.com/butfool/pi-inline-skills",
+    "npm_name": "@butcool/pi-inline-skills",
+    "description": "Invoke Pi skills anywhere in a prompt with $name or /skill:name.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "skills",
+      "autocomplete"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-11-04T02:35:48.042Z",
+    "npm_downloads_monthly": 537,
+    "npm_downloads_weekly": 537,
+    "npm_score_final": 18.93912,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

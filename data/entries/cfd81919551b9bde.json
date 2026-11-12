@@ -1,0 +1,31 @@
+{
+  "id": "@esso0428/pi-tasks",
+  "name": "@esso0428/pi-tasks",
+  "url": "https://www.npmjs.com/package/@esso0428/pi-tasks",
+  "source": "npm-search",
+  "description": "A pi extension that brings Claude Code-style task tracking and coordination to pi.",
+  "metadata": {
+    "github_url": "https://github.com/ESSO0428/pi-tasks",
+    "npm_name": "@esso0428/pi-tasks",
+    "description": "A pi extension that brings Claude Code-style task tracking and coordination to pi.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "task",
+      "tasks",
+      "todo",
+      "coordination"
+    ],
+    "version": "0.9.2",
+    "published_at": "2026-10-21T13:25:57.835Z",
+    "npm_downloads_monthly": 254,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 16.739523,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

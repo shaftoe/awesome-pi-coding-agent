@@ -8,9 +8,9 @@
     "github_url": "https://github.com/AeonDave/pi-persona",
     "repo_full_name": "AeonDave/pi-persona",
     "description": "Supervised multi-agent orchestration for Pi",
-    "stars": 12,
+    "stars": 13,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 3,
     "topics": [
       "pi",
       "plugin"
@@ -18,9 +18,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-25T20:51:20Z",
-    "pushed_at": "2026-10-28T11:56:02Z",
-    "updated_at": "2026-11-08T15:26:10Z",
-    "size": 13234,
+    "pushed_at": "2026-11-11T11:55:02Z",
+    "updated_at": "2026-11-11T03:49:27Z",
+    "size": 13259,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

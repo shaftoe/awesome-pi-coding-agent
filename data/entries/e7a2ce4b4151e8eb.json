@@ -1,0 +1,28 @@
+{
+  "id": "pi-youtube-transcript-plus",
+  "name": "pi-youtube-transcript-plus",
+  "url": "https://www.npmjs.com/package/pi-youtube-transcript-plus",
+  "source": "npm-search",
+  "description": "pi extension: full YouTube transcript to disk, timestamped preview in context",
+  "metadata": {
+    "github_url": "https://github.com/kirevdokimov/pi-youtube-transcript-plus",
+    "npm_name": "pi-youtube-transcript-plus",
+    "description": "pi extension: full YouTube transcript to disk, timestamped preview in context",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "youtube",
+      "transcript"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-10-21T16:07:41.165Z",
+    "npm_downloads_monthly": 405,
+    "npm_downloads_weekly": 6,
+    "npm_score_final": 17.81713,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

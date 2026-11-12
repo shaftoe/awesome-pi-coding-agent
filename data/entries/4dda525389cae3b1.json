@@ -1,0 +1,29 @@
+{
+  "id": "@sighthesia/pi-auto-reload",
+  "name": "@sighthesia/pi-auto-reload",
+  "url": "https://www.npmjs.com/package/@sighthesia/pi-auto-reload",
+  "source": "npm-search",
+  "description": "Pi extension. Reloads extensions, skills, prompts and keybindings on your next message — never on a timer, never mid-run. Configurable via auto-reload.json.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@sighthesia/pi-auto-reload",
+    "description": "Pi extension. Reloads extensions, skills, prompts and keybindings on your next message — never on a timer, never mid-run. Configurable via auto-reload.json.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "reload",
+      "hot-reload",
+      "watch"
+    ],
+    "version": "1.4.0",
+    "published_at": "2026-11-04T08:06:04.836Z",
+    "npm_downloads_monthly": 828,
+    "npm_downloads_weekly": 828,
+    "npm_score_final": 19.646725,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

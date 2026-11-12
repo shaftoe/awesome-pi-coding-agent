@@ -1,0 +1,25 @@
+{
+  "id": "@celljs/ta-channels",
+  "name": "@celljs/ta-channels",
+  "url": "https://www.npmjs.com/package/@celljs/ta-channels",
+  "source": "npm-search",
+  "description": "A pi package for Ta: agents with roles of their own and channels where the user, Ta and the agents talk; Ta builds the team for what the user wants",
+  "metadata": {
+    "github_url": "https://github.com/cellbang/cell",
+    "npm_name": "@celljs/ta-channels",
+    "description": "A pi package for Ta: agents with roles of their own and channels where the user, Ta and the agents talk; Ta builds the team for what the user wants",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "4.8.0",
+    "published_at": "2026-11-11T12:04:31.745Z",
+    "npm_downloads_monthly": 289,
+    "npm_downloads_weekly": 289,
+    "npm_score_final": 16.63763,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

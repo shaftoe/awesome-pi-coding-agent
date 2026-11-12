@@ -1,0 +1,32 @@
+{
+  "id": "@tduyng/pi-devos",
+  "name": "@tduyng/pi-devos",
+  "url": "https://www.npmjs.com/package/@tduyng/pi-devos",
+  "source": "npm-search",
+  "description": "DevOS for Pi. The Pi package for DevOS, a lazy SDD framework for one engineer or a small team: adaptive sizing, a spec-driven pipeline with an approval gate, evidence-based verification. Install with `pi install npm:@tduyng/pi-devos`. Zero dependencies.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@tduyng/pi-devos",
+    "description": "DevOS for Pi. The Pi package for DevOS, a lazy SDD framework for one engineer or a small team: adaptive sizing, a spec-driven pipeline with an approval gate, evidence-based verification. Install with `pi install npm:@tduyng/pi-devos`. Zero dependencies.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-coding-agent",
+      "devos",
+      "spec-driven-development",
+      "coding-agents",
+      "skills",
+      "extensions"
+    ],
+    "version": "0.13.6",
+    "published_at": "2026-11-11T12:31:51.750Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

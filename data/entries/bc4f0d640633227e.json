@@ -8,7 +8,7 @@
     "github_url": "https://github.com/AKaLee-IK27/pi-catppuccin-tui",
     "repo_full_name": "AKaLee-IK27/pi-catppuccin-tui",
     "description": "Exact Catppuccin themes for Pi, plus optional TUI polish",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-06-02T11:33:32Z",
     "pushed_at": "2026-06-03T08:42:31Z",
-    "updated_at": "2026-06-03T08:42:35Z",
+    "updated_at": "2026-11-12T02:41:59Z",
     "size": 25,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-agentsmd",
+  "name": "pi-agentsmd · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-agentsmd",
+  "source": "brave-web-search",
+  "description": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours. Generate AGENTS.md contributor guides for Pi repositories.Packages",
+  "metadata": {
+    "title": "pi-agentsmd · Packages · Pi",
+    "name": "pi-agentsmd · Packages · Pi",
+    "description": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours. Generate AGENTS.md contributor guides for Pi repositories.Packages",
+    "published_at": "2026-10-30T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-agentsmd",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

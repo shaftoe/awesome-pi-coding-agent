@@ -1,0 +1,25 @@
+{
+  "id": "@kyaulabs/prism-cpp",
+  "name": "@kyaulabs/prism-cpp",
+  "url": "https://www.npmjs.com/package/@kyaulabs/prism-cpp",
+  "source": "npm-search",
+  "description": "Project-local C++ engineering skills and native verification guidance for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/kyaulabs/prism",
+    "npm_name": "@kyaulabs/prism-cpp",
+    "description": "Project-local C++ engineering skills and native verification guidance for Pi.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.2.2",
+    "published_at": "2026-11-04T04:51:22.178Z",
+    "npm_downloads_monthly": 686,
+    "npm_downloads_weekly": 686,
+    "npm_score_final": 19.046894,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

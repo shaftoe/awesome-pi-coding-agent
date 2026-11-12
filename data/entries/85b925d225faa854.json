@@ -1,0 +1,33 @@
+{
+  "id": "@ailnaf/pi-auto-continue",
+  "name": "@ailnaf/pi-auto-continue",
+  "url": "https://www.npmjs.com/package/@ailnaf/pi-auto-continue",
+  "source": "npm-search",
+  "description": "Hypothesis-driven value delivery loop for Pi: SWOT → OKR → story map → PDCA, with TDD checks and closure gates.",
+  "metadata": {
+    "github_url": "https://github.com/fanlia/pi-auto-continue",
+    "npm_name": "@ailnaf/pi-auto-continue",
+    "description": "Hypothesis-driven value delivery loop for Pi: SWOT → OKR → story map → PDCA, with TDD checks and closure gates.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "auto-continue",
+      "pdca",
+      "okr",
+      "swot",
+      "tdd",
+      "story-map"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-21T11:45:36.532Z",
+    "npm_downloads_monthly": 443,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 18.116316,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

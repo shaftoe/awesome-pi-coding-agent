@@ -10,7 +10,7 @@
     "description": "Claude Code like auto mode for Pi: each tool call goes through rules, an optional classifier, then a chat model that reads your messages",
     "stars": 13,
     "forks": 2,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "coding-agent",
       "guardrails",

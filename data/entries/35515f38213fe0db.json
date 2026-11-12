@@ -10,7 +10,7 @@
     "description": "Use Cursor subscription models inside Pi Coding Agent",
     "stars": 1,
     "forks": 0,
-    "open_issues": 6,
+    "open_issues": 5,
     "topics": [
       "cursor",
       "cursor-subscription",
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-14T16:04:50Z",
-    "pushed_at": "2026-11-10T01:22:56Z",
-    "updated_at": "2026-11-10T00:24:01Z",
-    "size": 1111,
+    "pushed_at": "2026-11-11T09:14:44Z",
+    "updated_at": "2026-11-11T10:14:49Z",
+    "size": 1112,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

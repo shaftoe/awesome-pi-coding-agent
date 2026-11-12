@@ -1,0 +1,25 @@
+{
+  "id": "pi-count-tokens",
+  "name": "pi-count-tokens",
+  "url": "https://www.npmjs.com/package/pi-count-tokens",
+  "source": "npm-search",
+  "description": "Pi command that counts tokens in a folder, with collapsible counted/skipped lists",
+  "metadata": {
+    "github_url": "https://github.com/DrkWzrd/pi-count-tokens",
+    "npm_name": "pi-count-tokens",
+    "description": "Pi command that counts tokens in a folder, with collapsible counted/skipped lists",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-10-21T23:06:18.844Z",
+    "npm_downloads_monthly": 657,
+    "npm_downloads_weekly": 6,
+    "npm_score_final": 19.365646,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

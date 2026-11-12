@@ -8,7 +8,7 @@
     "github_url": "https://github.com/larsderidder/pi-browser",
     "repo_full_name": "larsderidder/pi-browser",
     "description": "Browser automation tools for the pi coding agent, backed by Playwright. Connect to your running browser via CDP.",
-    "stars": 6,
+    "stars": 7,
     "forks": 5,
     "open_issues": 1,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-03-18T10:09:35Z",
     "pushed_at": "2026-10-23T14:43:55Z",
-    "updated_at": "2026-10-23T14:44:00Z",
+    "updated_at": "2026-11-11T12:39:27Z",
     "size": 193,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

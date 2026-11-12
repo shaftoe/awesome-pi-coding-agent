@@ -1,0 +1,43 @@
+{
+  "id": "ulises-jeremias-agent-toolkit",
+  "name": "ulises-jeremias-agent-toolkit",
+  "url": "https://github.com/ulises-jeremias/agent-toolkit",
+  "source": "github-search",
+  "description": "🛠️ Composable AI agent toolkit — skills, agents, loops, and MCP templates for Claude Code, Cursor, OpenCode, Copilot, Windsurf, and Pi",
+  "metadata": {
+    "github_url": "https://github.com/ulises-jeremias/agent-toolkit",
+    "repo_full_name": "ulises-jeremias/agent-toolkit",
+    "description": "🛠️ Composable AI agent toolkit — skills, agents, loops, and MCP templates for Claude Code, Cursor, OpenCode, Copilot, Windsurf, and Pi",
+    "stars": 20,
+    "forks": 5,
+    "open_issues": 20,
+    "topics": [
+      "agent-toolkit",
+      "agentic-engineering",
+      "ai-agents",
+      "ai-tools",
+      "autonomous-agents",
+      "claude-code",
+      "cli",
+      "cursor",
+      "github-copilot",
+      "loop-engineering",
+      "mcp",
+      "opencode",
+      "pi-coding-agent",
+      "pypi",
+      "python",
+      "skills",
+      "windsurf"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-04T04:18:29Z",
+    "pushed_at": "2026-11-12T03:11:40Z",
+    "updated_at": "2026-11-12T01:54:16Z",
+    "size": 352100,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}
