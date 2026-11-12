@@ -1,0 +1,29 @@
+{
+  "id": "pi-content-compact",
+  "name": "pi-content-compact",
+  "url": "https://www.npmjs.com/package/pi-content-compact",
+  "source": "npm-search",
+  "description": "Compact assistant Markdown presentation for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/laoshu133/pi-content-compact",
+    "npm_name": "pi-content-compact",
+    "description": "Compact assistant Markdown presentation for Pi.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "markdown",
+      "terminal-ui"
+    ],
+    "version": "0.2.2",
+    "published_at": "2026-11-11T16:34:26.061Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

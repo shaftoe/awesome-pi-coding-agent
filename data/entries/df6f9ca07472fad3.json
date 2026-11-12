@@ -1,0 +1,29 @@
+{
+  "id": "@nakido-official/pi-footer",
+  "name": "@nakido-official/pi-footer",
+  "url": "https://www.npmjs.com/package/@nakido-official/pi-footer",
+  "source": "npm-search",
+  "description": "A configurable footer extension for pi",
+  "metadata": {
+    "github_url": "https://github.com/nakido-official/pi-extensions",
+    "npm_name": "@nakido-official/pi-footer",
+    "description": "A configurable footer extension for pi",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "footer",
+      "statusbar",
+      "statusline"
+    ],
+    "version": "0.8.0",
+    "published_at": "2026-10-21T18:02:20.567Z",
+    "npm_downloads_monthly": 340,
+    "npm_downloads_weekly": 13,
+    "npm_score_final": 17.177095,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

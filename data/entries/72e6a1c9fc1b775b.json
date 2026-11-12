@@ -8,7 +8,7 @@
     "github_url": "https://github.com/hollowheap/pi-extensions",
     "repo_full_name": "hollowheap/pi-extensions",
     "description": "My personal powerpack of Pi coding agent extensions! Built to keep your agent fast, safe, and looking great.",
-    "stars": 2,
+    "stars": 1,
     "forks": 0,
     "open_issues": 1,
     "topics": [
@@ -26,7 +26,7 @@
     "archived": false,
     "created_at": "2026-10-14T07:17:24Z",
     "pushed_at": "2026-11-10T05:45:24Z",
-    "updated_at": "2026-11-10T05:45:27Z",
+    "updated_at": "2026-11-11T22:52:17Z",
     "size": 3208,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

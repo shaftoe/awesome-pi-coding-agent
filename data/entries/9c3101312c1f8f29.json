@@ -1,0 +1,29 @@
+{
+  "id": "pi-tui-prompt-box",
+  "name": "pi-tui-prompt-box",
+  "url": "https://www.npmjs.com/package/pi-tui-prompt-box",
+  "source": "npm-search",
+  "description": "A prompt box style for Pi that combines with other styling extensions",
+  "metadata": {
+    "github_url": "https://github.com/dimk90/pi-tui-prompt-box",
+    "npm_name": "pi-tui-prompt-box",
+    "description": "A prompt box style for Pi that combines with other styling extensions",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "coding-agent",
+      "theme"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-11T21:51:29.784Z",
+    "npm_downloads_monthly": 372,
+    "npm_downloads_weekly": 53,
+    "npm_score_final": 18.047338,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

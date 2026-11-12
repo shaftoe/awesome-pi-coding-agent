@@ -1,0 +1,25 @@
+{
+  "id": "cysabi-pi-mochabars",
+  "name": "cysabi-pi-mochabars",
+  "url": "https://github.com/cysabi/pi-mochabars",
+  "source": "github-search",
+  "description": "pi theme",
+  "metadata": {
+    "github_url": "https://github.com/cysabi/pi-mochabars",
+    "repo_full_name": "cysabi/pi-mochabars",
+    "description": "pi theme",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-11T09:26:51Z",
+    "pushed_at": "2026-11-11T10:53:41Z",
+    "updated_at": "2026-11-11T11:32:10Z",
+    "size": 12,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

@@ -8,7 +8,7 @@
     "github_url": "https://github.com/AliensToEarth/pi-infinity",
     "repo_full_name": "AliensToEarth/pi-infinity",
     "description": "Non-blocking execution, durable timers, and parallel subagents for pi.",
-    "stars": 5,
+    "stars": 6,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-31T08:17:01Z",
-    "pushed_at": "2026-11-09T17:16:56Z",
-    "updated_at": "2026-11-09T17:17:11Z",
-    "size": 736,
+    "pushed_at": "2026-11-10T19:49:24Z",
+    "updated_at": "2026-11-10T21:48:20Z",
+    "size": 1198,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

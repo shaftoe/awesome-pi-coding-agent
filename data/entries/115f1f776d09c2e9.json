@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ahpio/ahpc",
     "repo_full_name": "ahpio/ahpc",
     "description": "An Agent Host Protocol terminal client",
-    "stars": 7,
+    "stars": 8,
     "forks": 1,
     "open_issues": 0,
     "topics": [
@@ -32,9 +32,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-06T09:58:47Z",
-    "pushed_at": "2026-11-04T22:17:53Z",
-    "updated_at": "2026-11-04T22:17:58Z",
-    "size": 3710,
+    "pushed_at": "2026-11-11T13:49:18Z",
+    "updated_at": "2026-11-11T23:25:29Z",
+    "size": 3727,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Agent-directed, music-reactive VFX clips: the agent writes an FX score, the engine renders WebGL2 templates with optional Blender plates, audits every frame for flashes, and exports silent loops or live web effects.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/wjgoarxiv/agentvfx",
     "npm_name": "agentvfx",
     "description": "Agent-directed, music-reactive VFX clips: the agent writes an FX score, the engine renders WebGL2 templates with optional Blender plates, audits every frame for flashes, and exports silent loops or live web effects.",
@@ -21,11 +22,10 @@
     "published_at": "2026-11-10T11:44:34.568Z",
     "npm_downloads_monthly": 314,
     "npm_downloads_weekly": 314,
-    "npm_score_final": 16.007593,
+    "npm_score_final": 16.912945,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

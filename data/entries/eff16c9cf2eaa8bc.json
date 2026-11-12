@@ -1,0 +1,29 @@
+{
+  "id": "@pmbaumgartner/pi-table",
+  "name": "@pmbaumgartner/pi-table",
+  "url": "https://www.npmjs.com/package/@pmbaumgartner/pi-table",
+  "source": "npm-search",
+  "description": "Composable TypeScript table and row-picker library for Pi extension UIs.",
+  "metadata": {
+    "github_url": "https://github.com/pmbaumgartner/pi-table",
+    "npm_name": "@pmbaumgartner/pi-table",
+    "description": "Composable TypeScript table and row-picker library for Pi extension UIs.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "tui",
+      "table",
+      "typescript"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-04T18:30:54.761Z",
+    "npm_downloads_monthly": 458,
+    "npm_downloads_weekly": 458,
+    "npm_score_final": 18.402794,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

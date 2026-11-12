@@ -70341,5 +70341,145 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-package"
 		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-weixin-connect",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-12T03:53:14.009Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-subagent-factory",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-12T03:53:14.047Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Code000-211/microPi",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-12T03:53:14.126Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@izhimu/pi-prompt-hud",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-11-12T03:53:14.242Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=VxgxkwC_L7Q",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-12T03:53:14.42Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Wzs_L0wcOVA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-12T03:53:14.455Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=UrW9mQ_GSeg",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-11-12T03:53:14.493Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-workbuddy-provider",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-11-12T03:53:14.573Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@yansongda/pi-provider-chain",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-12T03:53:14.642Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@aiti-ai/pi-git-trace",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-12T03:53:14.735Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@liuchen64/pi-config-sync",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-12T03:53:14.931Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/egoisutolabs/haumea",
+		"reason": "covered by dedicated source: github.com",
+		"blacklisted_at": "2026-11-12T03:53:15.016Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=2wUJ-x8vR0s",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-11-12T03:53:15.084Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=j3_bj6egoa4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-12T03:53:15.251Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
 	}
 ]

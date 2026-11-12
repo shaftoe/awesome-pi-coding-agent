@@ -1,0 +1,29 @@
+{
+  "id": "pi-native-agents",
+  "name": "pi-native-agents",
+  "url": "https://www.npmjs.com/package/pi-native-agents",
+  "source": "npm-search",
+  "description": "Focused Pi child sessions over Pi's native RPC API. Scout, reviewer, worker, and researcher.",
+  "metadata": {
+    "github_url": "https://github.com/YellowFoxH4XOR/pi-native-agents",
+    "npm_name": "pi-native-agents",
+    "description": "Focused Pi child sessions over Pi's native RPC API. Scout, reviewer, worker, and researcher.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "subagents",
+      "research",
+      "rpc"
+    ],
+    "version": "0.6.0",
+    "published_at": "2026-10-21T11:28:43.778Z",
+    "npm_downloads_monthly": 355,
+    "npm_downloads_weekly": 8,
+    "npm_score_final": 17.544966,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

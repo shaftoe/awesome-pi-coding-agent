@@ -1,0 +1,29 @@
+{
+  "id": "pi-ming-voice",
+  "name": "pi-ming-voice",
+  "url": "https://www.npmjs.com/package/pi-ming-voice",
+  "source": "npm-search",
+  "description": "Pi voice input using Ant Ling Ming-3.0-asr-tiny",
+  "metadata": {
+    "github_url": "https://github.com/Chasen-Liao/pi-ming-voice",
+    "npm_name": "pi-ming-voice",
+    "description": "Pi voice input using Ant Ling Ming-3.0-asr-tiny",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "voice",
+      "ming",
+      "ant-ling"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-10-21T06:42:55.912Z",
+    "npm_downloads_monthly": 475,
+    "npm_downloads_weekly": 44,
+    "npm_score_final": 18.525602,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
