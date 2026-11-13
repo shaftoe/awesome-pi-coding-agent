@@ -10,7 +10,7 @@
     "description": "Database schema context for AI agents, built for legacy databases. A Pi package for MySQL, MariaDB and PostgreSQL.",
     "stars": 2,
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 4,
     "topics": [
       "ai-agents",
       "database",

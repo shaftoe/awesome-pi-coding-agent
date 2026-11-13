@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Pauses keywords that don't sell, and tunes budgets and bids.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/comchatx/cx-amazon-ads",
     "npm_name": "@comchatx/cx-amazon-ads",
     "description": "Pauses keywords that don't sell, and tunes budgets and bids.",
@@ -15,11 +16,10 @@
     "published_at": "2026-11-11T06:23:08.280Z",
     "npm_downloads_monthly": 499,
     "npm_downloads_weekly": 499,
-    "npm_score_final": 18.513613,
+    "npm_score_final": 18.165695,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

@@ -1,0 +1,26 @@
+{
+  "id": "@sh1so6/pi-path-click",
+  "name": "@sh1so6/pi-path-click",
+  "url": "https://www.npmjs.com/package/@sh1so6/pi-path-click",
+  "source": "npm-search",
+  "description": "Pi extension: clickable local file paths in assistant messages (+ Everything search button)",
+  "metadata": {
+    "github_url": "https://github.com/sh1so6/pi-extensions",
+    "npm_name": "@sh1so6/pi-path-click",
+    "description": "Pi extension: clickable local file paths in assistant messages (+ Everything search button)",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-11-12T06:03:37.586Z",
+    "npm_downloads_monthly": 406,
+    "npm_downloads_weekly": 406,
+    "npm_score_final": 17.836363,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

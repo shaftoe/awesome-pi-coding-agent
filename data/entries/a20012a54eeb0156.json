@@ -10,7 +10,7 @@
     "description": "Learn how coding agents work: small, readable re-implementations of real harnesses (Codex, pi) with one web UI that shows every hidden step.",
     "stars": 3,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "agent-harness",
       "codex",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-07T20:26:38Z",
-    "pushed_at": "2026-11-11T21:20:40Z",
+    "pushed_at": "2026-11-12T08:34:41Z",
     "updated_at": "2026-11-11T22:20:44Z",
-    "size": 1814,
+    "size": 1848,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

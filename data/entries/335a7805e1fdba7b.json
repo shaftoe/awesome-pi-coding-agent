@@ -8,7 +8,7 @@
     "github_url": "https://github.com/kruthvik/sage",
     "repo_full_name": "kruthvik/sage",
     "description": "learning engine built as a fork of pi-agent utilizing mainstream learning research ",
-    "stars": 5,
+    "stars": 6,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-09-27T15:16:06Z",
     "pushed_at": "2026-11-09T01:15:10Z",
-    "updated_at": "2026-11-07T03:50:53Z",
+    "updated_at": "2026-11-12T08:40:19Z",
     "size": 1957,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

@@ -1,0 +1,32 @@
+{
+  "id": "pi-lightpanda",
+  "name": "pi-lightpanda",
+  "url": "https://www.npmjs.com/package/pi-lightpanda",
+  "source": "npm-search",
+  "description": "Lightweight headless browser for the Pi agent via Lightpanda (CDP-compatible, ~16x less memory than Chrome)",
+  "metadata": {
+    "github_url": "https://github.com/tonyputi/pi-lightpanda",
+    "npm_name": "pi-lightpanda",
+    "description": "Lightweight headless browser for the Pi agent via Lightpanda (CDP-compatible, ~16x less memory than Chrome)",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "browser",
+      "lightpanda",
+      "headless",
+      "cdp",
+      "automation",
+      "scraping"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-10-15T12:52:11.311Z",
+    "npm_downloads_monthly": 339,
+    "npm_downloads_weekly": 16,
+    "npm_score_final": 16.90042,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

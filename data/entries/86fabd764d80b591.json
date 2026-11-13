@@ -1,0 +1,20 @@
+{
+  "id": "HN_50464872",
+  "name": "Pi GPUI: A native GUI for the pi coding agent, built with Rust and GPUI.",
+  "url": "https://pi-gpui.dev",
+  "source": "hackernews-search",
+  "description": "",
+  "metadata": {
+    "title": "Pi GPUI: A native GUI for the pi coding agent, built with Rust and GPUI.",
+    "name": "Pi GPUI: A native GUI for the pi coding agent, built with Rust and GPUI.",
+    "description": "",
+    "author": "bytesbay",
+    "published_at": "2026-11-12T09:18:45Z",
+    "points": 9,
+    "num_comments": 1,
+    "hn_id": "50464872",
+    "external_url": "https://pi-gpui.dev",
+    "discovery_hint": "hackernews:pi-coding-agent"
+  },
+  "category": "article"
+}

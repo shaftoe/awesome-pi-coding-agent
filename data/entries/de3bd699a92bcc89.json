@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Lets cx hand off long jobs, with results on the board.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/comchatx/cx-subagents",
     "npm_name": "@comchatx/cx-subagents",
     "description": "Lets cx hand off long jobs, with results on the board.",
@@ -15,11 +16,10 @@
     "published_at": "2026-11-12T02:40:44.199Z",
     "npm_downloads_monthly": 1043,
     "npm_downloads_weekly": 621,
-    "npm_score_final": 20.597507,
+    "npm_score_final": 21.23422,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
