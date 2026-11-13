@@ -174,8 +174,8 @@ importers:
         version: 7.0.2
     devDependencies:
       '@alexanderfortin/semantic-release-keep-a-changelog':
-        specifier: ^0.5.1
-        version: 0.5.1(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))
+        specifier: ^0.6.1
+        version: 0.6.1(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))
       '@biomejs/biome':
         specifier: ^2.6.5
         version: 2.6.5
@@ -189,8 +189,8 @@ importers:
         specifier: ^11.0.1
         version: 11.0.1(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))(supports-color@7.2.0)
       '@semantic-release/github':
-        specifier: ^12.0.10
-        version: 12.0.10(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))(supports-color@7.2.0)
+        specifier: ^12.0.11
+        version: 12.0.11(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))(supports-color@7.2.0)
       '@semantic-release/npm':
         specifier: ^13.2.0
         version: 13.2.0(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))
@@ -239,11 +239,11 @@ packages:
   '@actions/io@3.0.2':
     resolution: {integrity: sha512-nRBchcMM+QK1pdjO7/idu86rbJI5YHUKCvKs0KxnSYbVe3F51UfGxuZX4Qy/fWlp6l7gWFwIkrOzN+oUK03kfw==}
 
-  '@alexanderfortin/semantic-release-keep-a-changelog@0.5.1':
-    resolution: {integrity: sha512-Ij0xzVQJA62I03GSolyDj5MTTsAKbdCUlVZf3cVghXS4O49TaRr8HobsbC/4Ax6lq0zRCckmW5fPiOtPf7JBUA==}
-    engines: {pnpm: '>=12.11.2'}
+  '@alexanderfortin/semantic-release-keep-a-changelog@0.6.1':
+    resolution: {integrity: sha512-ZM0JE7S65UV/ix2A5M8kjHS5cMLohT6N6pjGkqxknhq5L9bk/vhEAMJPL5Itbkl71JNuT1ndE2wkEzRGyPlTGg==}
+    engines: {pnpm: '>=12.14.0'}
     peerDependencies:
-      semantic-release: '>=24.2.9'
+      semantic-release: '>=25.0.9'
 
   '@astrojs/compiler-binding-android-arm64@0.5.2':
     resolution: {integrity: sha512-kckIxon6Rm/Bxzh9mGPYpRRqUbToUQoHptCmpMmE+Yt0Xumq8CqrKUidyYhrBsrHVO7bxuRzzWUUqvpf+iYceQ==}
@@ -959,8 +959,8 @@ packages:
     peerDependencies:
       semantic-release: '>=20.1.0'
 
-  '@semantic-release/github@12.0.10':
-    resolution: {integrity: sha512-QskygvpX8hFx9UEbqJ+C46OIhaJjsysNQ8PYJPuRDc/ek5+dh8WYGD1ofUahCcGLAOmnnwZTcmCJCEXM8XxhRw==}
+  '@semantic-release/github@12.0.11':
+    resolution: {integrity: sha512-/8JPlFOV8he+gs+kS8Gx0tNWBboCRBd1q3y7pQhYwtrBL0CzDe9yzguZZAfnjGM2duWYB3rEYn9BdYLu9x00cg==}
     engines: {node: ^22.14.0 || >= 24.10.0}
     peerDependencies:
       semantic-release: '>=24.1.0'
@@ -3277,7 +3277,7 @@ snapshots:
 
   '@actions/io@3.0.2': {}
 
-  '@alexanderfortin/semantic-release-keep-a-changelog@0.5.1(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))':
+  '@alexanderfortin/semantic-release-keep-a-changelog@0.6.1(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))':
     dependencies:
       '@semantic-release/error': 4.0.0
       conventional-changelog-writer: 9.3.0
@@ -3912,7 +3912,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@semantic-release/github@12.0.10(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))(supports-color@7.2.0)':
+  '@semantic-release/github@12.0.11(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))(supports-color@7.2.0)':
     dependencies:
       '@octokit/core': 7.0.8
       '@octokit/plugin-paginate-rest': 15.0.0(@octokit/core@7.0.8)
@@ -5732,7 +5732,7 @@ snapshots:
     dependencies:
       '@semantic-release/commit-analyzer': 13.0.1(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))(supports-color@7.2.0)
       '@semantic-release/error': 4.0.0
-      '@semantic-release/github': 12.0.10(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))(supports-color@7.2.0)
+      '@semantic-release/github': 12.0.11(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))(supports-color@7.2.0)
       '@semantic-release/npm': 13.2.0(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))
       '@semantic-release/release-notes-generator': 14.1.1(semantic-release@25.0.9(supports-color@7.2.0)(typescript@7.0.2))(supports-color@7.2.0)
       aggregate-error: 5.1.0
