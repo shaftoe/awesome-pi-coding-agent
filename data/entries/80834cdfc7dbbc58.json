@@ -8,7 +8,7 @@
     "github_url": "https://github.com/liassy-ai/TCode",
     "repo_full_name": "liassy-ai/TCode",
     "description": "TCode desktop GUI for the Pi coding agent",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-11-02T19:59:51Z",
     "pushed_at": "2026-11-02T23:06:56Z",
-    "updated_at": "2026-11-10T14:23:10Z",
+    "updated_at": "2026-11-12T05:51:45Z",
     "size": 20697,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

@@ -1,0 +1,25 @@
+{
+  "id": "@howarewoo/pi-subagents",
+  "name": "@howarewoo/pi-subagents",
+  "url": "https://www.npmjs.com/package/@howarewoo/pi-subagents",
+  "source": "npm-search",
+  "description": "Pi-native single-assignment delegation with explicit profiles and parent-owned SDK children",
+  "metadata": {
+    "github_url": "https://github.com/howarewoo/pi-subagents",
+    "npm_name": "@howarewoo/pi-subagents",
+    "description": "Pi-native single-assignment delegation with explicit profiles and parent-owned SDK children",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-12T20:45:59.384Z",
+    "npm_downloads_monthly": 253,
+    "npm_downloads_weekly": 253,
+    "npm_score_final": 15.974288,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

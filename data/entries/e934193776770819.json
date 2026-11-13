@@ -10,7 +10,7 @@
     "description": "Claude Code-style tool folding for the pi coding agent — a reply's tool calls collapse to one clickable line",
     "stars": 74,
     "forks": 8,
-    "open_issues": 3,
+    "open_issues": 4,
     "topics": [
       "pi-coding-agent",
       "pi-extension",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-18T05:59:01Z",
-    "pushed_at": "2026-11-09T10:46:52Z",
+    "pushed_at": "2026-11-13T02:17:10Z",
     "updated_at": "2026-11-12T01:59:01Z",
-    "size": 5323,
+    "size": 5345,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

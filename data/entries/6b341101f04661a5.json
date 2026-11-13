@@ -3,15 +3,15 @@
   "name": "Package Catalog · Pi",
   "url": "https://pi.dev/packages?type=theme",
   "source": "brave-web-search",
-  "description": "Claude Code–style startup header for Pi — animated Pi logo with a 9-color palette, toggleable IBM stripes and Minecraft themes; configurable info bar displays version, model, resource stats, AGENTS.md marker, cwd, and a customizable slogan.",
+  "description": "Jev judges every write against ... model after provider failures such as 429 rate limits.31m agopi-spacesNamed spaces for Pi: keep several agent homes (sign-ins, packages, settings) and pick one by name.33m agokeyshroudLet AI coding agents use your secrets without ever ...",
   "metadata": {
     "title": "Package Catalog · Pi",
     "name": "Package Catalog · Pi",
-    "description": "Claude Code–style startup header for Pi — animated Pi logo with a 9-color palette, toggleable IBM stripes and Minecraft themes; configurable info bar displays version, model, resource stats, AGENTS.md marker, cwd, and a customizable slogan.",
-    "published_at": "2026-07-06T20:30:02",
+    "description": "Jev judges every write against ... model after provider failures such as 429 rate limits.31m agopi-spacesNamed spaces for Pi: keep several agent homes (sign-ins, packages, settings) and pick one by name.33m agokeyshroudLet AI coding agents use your secrets without ever ...",
+    "published_at": null,
     "source_site": "Pi",
     "source_url": "https://pi.dev/packages?type=theme",
-    "discovery_hint": "brave:pi-theme"
+    "discovery_hint": "brave:pi-package"
   },
-  "category": "theme"
+  "category": "misc"
 }

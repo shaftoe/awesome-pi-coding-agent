@@ -8,9 +8,9 @@
     "github_url": "https://github.com/benedict2310/TelePi",
     "repo_full_name": "benedict2310/TelePi",
     "description": "Telegram bridge for the Pi coding agent — continue sessions from your phone with voice, images, and handback",
-    "stars": 147,
-    "forks": 36,
-    "open_issues": 7,
+    "stars": 146,
+    "forks": 35,
+    "open_issues": 5,
     "topics": [
       "ai-agents",
       "coding-agent",
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-03-19T22:04:51Z",
     "pushed_at": "2026-10-20T16:34:00Z",
-    "updated_at": "2026-11-09T00:03:33Z",
+    "updated_at": "2026-11-12T22:22:50Z",
     "size": 571,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

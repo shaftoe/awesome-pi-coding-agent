@@ -1,0 +1,34 @@
+{
+  "id": "@leocavalcante/pi-a2a",
+  "name": "@leocavalcante/pi-a2a",
+  "url": "https://www.npmjs.com/package/@leocavalcante/pi-a2a",
+  "source": "npm-search",
+  "description": "Talk to A2A agents from Pi, and serve Pi Durable agents over the A2A protocol.",
+  "metadata": {
+    "github_url": "https://github.com/leocavalcante/pi-a2a",
+    "npm_name": "@leocavalcante/pi-a2a",
+    "description": "Talk to A2A agents from Pi, and serve Pi Durable agents over the A2A protocol.",
+    "keywords": [
+      "pi-extension",
+      "pi-package",
+      "pi-coding-agent",
+      "pi-durable",
+      "a2a",
+      "a2a-protocol",
+      "agent-to-agent",
+      "agent-communication",
+      "multi-agent",
+      "ai-agents"
+    ],
+    "version": "0.4.3",
+    "published_at": "2026-11-12T17:24:28.661Z",
+    "npm_downloads_monthly": 337,
+    "npm_downloads_weekly": 337,
+    "npm_score_final": 16.881073,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

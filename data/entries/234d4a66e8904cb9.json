@@ -8,7 +8,7 @@
     "github_url": "https://github.com/HugoLopes45/pi-claude-pro",
     "repo_full_name": "HugoLopes45/pi-claude-pro",
     "description": "Use your Claude Pro, Max or Ultra plan in the Pi coding agent with Opus, Sonnet, Haiku and Fable. No API key, no Claude Code, your usage limits in the footer.",
-    "stars": 3,
+    "stars": 5,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -34,7 +34,7 @@
     "archived": false,
     "created_at": "2026-10-05T13:42:56Z",
     "pushed_at": "2026-11-11T22:12:22Z",
-    "updated_at": "2026-11-11T22:28:02Z",
+    "updated_at": "2026-11-12T12:04:08Z",
     "size": 182,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "A persistent, observable crew of coding agents (pi, Claude Code, Codex, cursor-agent, Muse Code) in tmux, herdr or Rex panes, coordinated through a built-in task DAG.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/mu-crew/mu",
     "npm_name": "@mu-crew/mu",
     "description": "A persistent, observable crew of coding agents (pi, Claude Code, Codex, cursor-agent, Muse Code) in tmux, herdr or Rex panes, coordinated through a built-in task DAG.",
@@ -23,11 +24,10 @@
     "published_at": "2026-11-11T13:42:32.214Z",
     "npm_downloads_monthly": 4679,
     "npm_downloads_weekly": 1331,
-    "npm_score_final": 26.00376,
+    "npm_score_final": 25.515108,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

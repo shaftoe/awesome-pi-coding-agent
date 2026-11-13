@@ -9,7 +9,7 @@
     "repo_full_name": "michaloo/casm",
     "description": "Self-hosted orchestrator for coding agents (Claude Code, Codex, OpenCode, pi): one server per machine, peers, web app/PWA and CLI.",
     "stars": 5,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "agent-orchestration",

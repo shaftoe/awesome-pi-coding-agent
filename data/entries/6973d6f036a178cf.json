@@ -1,0 +1,29 @@
+{
+  "id": "@pithagoras/nextcloud",
+  "name": "@pithagoras/nextcloud",
+  "url": "https://www.npmjs.com/package/@pithagoras/nextcloud",
+  "source": "npm-search",
+  "description": "Nextcloud for Pithagoras: runs the Nextcloud MCP server in its own container and brings its Files & Sharing, Deck, Calendar, Contacts, Mail, News, Collectives, Cookbook, Shopping List and Notes into a chat panel.",
+  "metadata": {
+    "github_url": "https://github.com/prometheion/pithagoras-extensions",
+    "npm_name": "@pithagoras/nextcloud",
+    "description": "Nextcloud for Pithagoras: runs the Nextcloud MCP server in its own container and brings its Files & Sharing, Deck, Calendar, Contacts, Mail, News, Collectives, Cookbook, Shopping List and Notes into a chat panel.",
+    "keywords": [
+      "pi-package",
+      "pithagoras",
+      "extension",
+      "nextcloud",
+      "mcp"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-05T20:48:55.490Z",
+    "npm_downloads_monthly": 471,
+    "npm_downloads_weekly": 471,
+    "npm_score_final": 17.976553,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
