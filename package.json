@@ -26,12 +26,12 @@
 		"semantic-release": "semantic-release"
 	},
 	"devDependencies": {
-		"@alexanderfortin/semantic-release-keep-a-changelog": "^0.5.1",
+		"@alexanderfortin/semantic-release-keep-a-changelog": "^0.6.1",
 		"@biomejs/biome": "^2.6.5",
 		"@semantic-release/commit-analyzer": "^13.0.1",
 		"@semantic-release/exec": "^7.1.0",
 		"@semantic-release/git": "^11.0.1",
-		"@semantic-release/github": "^12.0.10",
+		"@semantic-release/github": "^12.0.11",
 		"@semantic-release/npm": "^13.2.0",
 		"@types/node": "^26.6.6",
 		"conventional-changelog-conventionalcommits": "^10.4.1",
