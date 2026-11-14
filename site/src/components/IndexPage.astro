@@ -64,29 +64,10 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 </div>
 
 <script>
+	import { preloadSearch, searchEntries, type SearchEntry } from "../lib/search";
 	const CATEGORY_ICONS: Record<string, string> = {
 		extension: '🔌', theme: '🎨', video: '🎬', article: '📰', misc: '📦',
 	};
-
-	type SearchEntry = { n: string; d: string; c: string; u: string; h: string; s: number; p: string };
-	let searchIndex: SearchEntry[] | null = null;
-
-	async function loadSearchIndex(): Promise<SearchEntry[]> {
-		if (searchIndex) return searchIndex;
-		const res = await fetch('/search-index.json');
-		searchIndex = await res.json();
-		return searchIndex!;
-	}
-
-	function performSearch(entries: SearchEntry[], query: string): SearchEntry[] {
-		const q = query.toLowerCase().trim();
-		if (!q) return [];
-		const terms = q.split(/\s+/).filter(Boolean);
-		return entries.filter((e) => {
-			const text = `${e.n} ${e.d} ${e.c}`.toLowerCase();
-			return terms.every((t) => text.includes(t));
-		});
-	}
 
 	function escapeHtml(s: string): string {
 		return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -155,20 +136,30 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 					return;
 				}
 
-				const entries = await loadSearchIndex();
-				const results = performSearch(entries, query);
-				renderResults(resultsContainer, results, query);
-
-				if (results.length === 0) {
+				document.querySelector<HTMLElement>('.category-grid')!.style.display = 'none';
+				document.querySelector<HTMLElement>('.clear-search')!.style.display = '';
+				try {
+					const { entries: results, total } = await searchEntries(query);
+					if (input.value.trim() !== query) return;
+					renderResults(resultsContainer, results, query);
+					emptyEl.textContent = 'No results found.';
+					emptyEl.style.display = total === 0 ? '' : 'none';
+					resultsContainer.style.display = total === 0 ? 'none' : '';
+					countEl.textContent = `${total} result${total === 1 ? '' : 's'}`;
+				} catch {
+					if (input.value.trim() !== query) return;
+					emptyEl.textContent = 'Search could not load. Please try again.';
 					emptyEl.style.display = '';
 					resultsContainer.style.display = 'none';
-					countEl.textContent = '0 results';
-				} else {
-					emptyEl.style.display = 'none';
-					resultsContainer.style.display = '';
-					countEl.textContent = `${results.length} result${results.length === 1 ? '' : 's'}`;
+					countEl.textContent = '';
 				}
 			};
+
+			input.addEventListener('focus', () => {
+				void preloadSearch().catch(() => {
+					// Typing retries and reports any load failure.
+				});
+			});
 
 			input.addEventListener('input', () => {
 				clearTimeout(debounceTimer);

@@ -144,7 +144,11 @@ export function searchIndex(): AstroIntegration {
 						popLabel = `⬇ ${formatNumber(pop)}/mo`;
 					}
 
+					const tags = [meta["topics"], meta["keywords"]]
+						.flatMap((values) => (Array.isArray(values) ? values : []))
+						.filter((value): value is string => typeof value === "string");
 					return {
+						t: [...new Set(tags)].join(" "),
 						n: displayName(e),
 						d: e.description || "",
 						c: e.category,
