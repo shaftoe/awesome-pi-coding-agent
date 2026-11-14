@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Central, append-only backup of agent sessions from every machine, searchable by agents.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/mu-crew/museum",
     "npm_name": "@mu-crew/museum",
     "description": "Central, append-only backup of agent sessions from every machine, searchable by agents.",
@@ -15,11 +16,10 @@
     "published_at": "2026-11-12T10:07:21.429Z",
     "npm_downloads_monthly": 572,
     "npm_downloads_weekly": 572,
-    "npm_score_final": 19.201473,
+    "npm_score_final": 18.970707,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

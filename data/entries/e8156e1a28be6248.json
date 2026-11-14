@@ -9,8 +9,8 @@
     "repo_full_name": "cv/pit",
     "description": "Give Pi one typed tool instead of a toolbox.",
     "stars": 18,
-    "forks": 3,
-    "open_issues": 2,
+    "forks": 4,
+    "open_issues": 0,
     "topics": [
       "ai-agent",
       "coding-agent",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-30T09:13:10Z",
-    "pushed_at": "2026-11-12T19:55:35Z",
+    "pushed_at": "2026-11-14T01:20:27Z",
     "updated_at": "2026-11-12T12:07:24Z",
-    "size": 17977,
+    "size": 19009,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

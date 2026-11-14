@@ -3,11 +3,11 @@
   "name": "pstack-claude-mirror",
   "url": "https://www.npmjs.com/package/pstack-claude-mirror",
   "source": "npm-search",
-  "description": "[Unofficial GitHub mirror] Unmodified copy of https://github.com/michael-denyer/pstack-claude @ v0.9.137 (pstack skills/plugin for OMP, Claude Code, Pi), republished on npm for networks without GitHub access. Not published by or affiliated with the upstre",
+  "description": "[Unofficial GitHub mirror] Unmodified copy of https://github.com/michael-denyer/pstack-claude @ v0.9.138 (pstack skills/plugin for OMP, Claude Code, Pi), republished on npm for networks without GitHub access. Not published by or affiliated with the upstre",
   "metadata": {
     "github_url": "https://github.com/ZedRover/pstack-claude-mirror",
     "npm_name": "pstack-claude-mirror",
-    "description": "[Unofficial GitHub mirror] Unmodified copy of https://github.com/michael-denyer/pstack-claude @ v0.9.137 (pstack skills/plugin for OMP, Claude Code, Pi), republished on npm for networks without GitHub access. Not published by or affiliated with the upstre",
+    "description": "[Unofficial GitHub mirror] Unmodified copy of https://github.com/michael-denyer/pstack-claude @ v0.9.138 (pstack skills/plugin for OMP, Claude Code, Pi), republished on npm for networks without GitHub access. Not published by or affiliated with the upstre",
     "keywords": [
       "pi-package",
       "pstack",
@@ -33,11 +33,11 @@
       "github-mirror",
       "unofficial"
     ],
-    "version": "0.9.137",
-    "published_at": "2026-11-12T23:40:11.979Z",
+    "version": "0.9.138",
+    "published_at": "2026-11-13T06:47:15.268Z",
     "npm_downloads_monthly": 980,
     "npm_downloads_weekly": 980,
-    "npm_score_final": 20.102587,
+    "npm_score_final": 19.906488,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

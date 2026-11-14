@@ -1,0 +1,29 @@
+{
+  "id": "pi-hindsight-companion",
+  "name": "pi-hindsight-companion",
+  "url": "https://www.npmjs.com/package/pi-hindsight-companion",
+  "source": "npm-search",
+  "description": "A standard Pi / PiWeb package for the official Hindsight coding-agent extension. Independent Windows tray manager available in the source repository.",
+  "metadata": {
+    "github_url": "https://github.com/leozedd/hindsight-companion",
+    "npm_name": "pi-hindsight-companion",
+    "description": "A standard Pi / PiWeb package for the official Hindsight coding-agent extension. Independent Windows tray manager available in the source repository.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-web",
+      "hindsight",
+      "memory"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-11-13T15:04:55.669Z",
+    "npm_downloads_monthly": 699,
+    "npm_downloads_weekly": 699,
+    "npm_score_final": 18.87042,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

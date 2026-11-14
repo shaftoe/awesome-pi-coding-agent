@@ -1,0 +1,30 @@
+{
+  "id": "pi-mox",
+  "name": "pi-mox",
+  "url": "https://www.npmjs.com/package/pi-mox",
+  "source": "npm-search",
+  "description": "Schedule a message for the agent in Pi: /mox 10:30 delivers it at that time and starts a turn.",
+  "metadata": {
+    "github_url": "https://github.com/jals1212/pi-mox",
+    "npm_name": "pi-mox",
+    "description": "Schedule a message for the agent in Pi: /mox 10:30 <message> delivers it at that time and starts a turn.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "mox",
+      "schedule",
+      "reminder",
+      "agent"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-14T01:02:53.337Z",
+    "npm_downloads_monthly": 550,
+    "npm_downloads_weekly": 550,
+    "npm_score_final": 18.100836,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

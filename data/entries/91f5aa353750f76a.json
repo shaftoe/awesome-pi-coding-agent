@@ -10,7 +10,7 @@
     "description": "Local workspace for coordinating persistent pi coding agent sessions with shared channels, freshness-checked writes, task review, and reminders.",
     "stars": 4,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 9,
     "topics": [
       "agent-orchestration",
       "ai-agents",
@@ -31,9 +31,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-03T03:36:47Z",
-    "pushed_at": "2026-11-12T16:57:03Z",
+    "pushed_at": "2026-11-13T09:24:05Z",
     "updated_at": "2026-11-12T16:04:45Z",
-    "size": 18307,
+    "size": 18135,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

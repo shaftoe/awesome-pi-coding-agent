@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Keeps cx's reports and drafts on a board beside the chat.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/comchatx/cx-board",
     "npm_name": "@comchatx/cx-board",
     "description": "Keeps cx's reports and drafts on a board beside the chat.",
@@ -15,11 +16,10 @@
     "published_at": "2026-11-12T08:41:21.277Z",
     "npm_downloads_monthly": 1490,
     "npm_downloads_weekly": 808,
-    "npm_score_final": 22.185019,
+    "npm_score_final": 21.661055,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

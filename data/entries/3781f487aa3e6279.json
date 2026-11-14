@@ -10,7 +10,7 @@
     "description": "An extension for using anthropic subscription in Pi Agent.",
     "stars": 12,
     "forks": 3,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

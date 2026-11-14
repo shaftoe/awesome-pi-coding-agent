@@ -1,0 +1,33 @@
+{
+  "id": "@kongyo2/pi-kongyo",
+  "name": "@kongyo2/pi-kongyo",
+  "url": "https://www.npmjs.com/package/@kongyo2/pi-kongyo",
+  "source": "npm-search",
+  "description": "Pi coding agent extension that runs pi as an always-on autonomous agent with a self of its own: its own account of itself, its own goals, sleep-consolidated memory, curiosity, crash-proof supervision, and a Discord webhook observation window.",
+  "metadata": {
+    "github_url": "https://github.com/kongyo2/pi-kongyo",
+    "npm_name": "@kongyo2/pi-kongyo",
+    "description": "Pi coding agent extension that runs pi as an always-on autonomous agent with a self of its own: its own account of itself, its own goals, sleep-consolidated memory, curiosity, crash-proof supervision, and a Discord webhook observation window.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "autonomous-agent",
+      "agent",
+      "discord",
+      "webhook",
+      "daemon"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-13T21:02:45.129Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

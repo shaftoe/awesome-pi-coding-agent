@@ -1,0 +1,25 @@
+{
+  "id": "daveebbelaar-local-chat",
+  "name": "daveebbelaar-local-chat",
+  "url": "https://github.com/daveebbelaar/local-chat",
+  "source": "github-search",
+  "description": "A local ChatGPT and Claude Code-style desktop app. Tauri, Ollama and the Pi coding agent. Runs fully on your computer.",
+  "metadata": {
+    "github_url": "https://github.com/daveebbelaar/local-chat",
+    "repo_full_name": "daveebbelaar/local-chat",
+    "description": "A local ChatGPT and Claude Code-style desktop app. Tauri, Ollama and the Pi coding agent. Runs fully on your computer.",
+    "stars": 3,
+    "forks": 3,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-10T10:35:09Z",
+    "pushed_at": "2026-11-10T10:35:31Z",
+    "updated_at": "2026-11-13T06:59:14Z",
+    "size": 1829,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

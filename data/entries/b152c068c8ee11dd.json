@@ -1,0 +1,28 @@
+{
+  "id": "@pikibun/pi-pr-flow",
+  "name": "@pikibun/pi-pr-flow",
+  "url": "https://www.npmjs.com/package/@pikibun/pi-pr-flow",
+  "source": "npm-search",
+  "description": "A Pi extension that has the agent carry each change through a pull request: a draft at the first change, ready for review once done, a review window for reviews and re-reviews whose valid points it fixes, then the merge.",
+  "metadata": {
+    "github_url": "https://github.com/OpenCara/pikibun",
+    "npm_name": "@pikibun/pi-pr-flow",
+    "description": "A Pi extension that has the agent carry each change through a pull request: a draft at the first change, ready for review once done, a review window for reviews and re-reviews whose valid points it fixes, then the merge.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "git",
+      "pull-request"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-13T18:03:23.762Z",
+    "npm_downloads_monthly": 413,
+    "npm_downloads_weekly": 413,
+    "npm_score_final": 17.139463,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "@colton.padden/pi-delegate",
+  "name": "@colton.padden/pi-delegate",
+  "url": "https://www.npmjs.com/package/@colton.padden/pi-delegate",
+  "source": "npm-search",
+  "description": "Foreground Pi task delegation with streamed results, bounded concurrency, and optional tmux monitors",
+  "metadata": {
+    "github_url": "https://github.com/cmpadden/dotfiles",
+    "npm_name": "@colton.padden/pi-delegate",
+    "description": "Foreground Pi task delegation with streamed results, bounded concurrency, and optional tmux monitors",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "delegate",
+      "subagent",
+      "tmux"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-13T21:20:28.260Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

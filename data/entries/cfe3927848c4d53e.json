@@ -10,7 +10,7 @@
     "description": " A non-linear AI agent workbench — session is a tree: branch anytime, and context follows the branch",
     "stars": 239,
     "forks": 23,
-    "open_issues": 8,
+    "open_issues": 9,
     "topics": [
       "ai-agent",
       "pi-agent",

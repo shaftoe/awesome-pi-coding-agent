@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Give your coding agent the design details to build, compare and follow changes from a saved Figma .fig: layout, text, variables, assets, reference renders, screenshot comparison and revision diffs. Offline: no Dev Mode seat, login or API quota. Pi, OpenCo",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/runkids/figlens",
     "npm_name": "@runkids/figlens",
     "description": "Give your coding agent the design details to build, compare and follow changes from a saved Figma .fig: layout, text, variables, assets, reference renders, screenshot comparison and revision diffs. Offline: no Dev Mode seat, login or API quota. Pi, OpenCo",
@@ -27,11 +28,10 @@
     "published_at": "2026-11-12T06:26:06.545Z",
     "npm_downloads_monthly": 7518,
     "npm_downloads_weekly": 1766,
-    "npm_score_final": 27.234333,
+    "npm_score_final": 26.953863,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
