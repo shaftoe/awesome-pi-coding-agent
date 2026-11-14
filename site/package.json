@@ -10,7 +10,7 @@
 	},
 	"dependencies": {
 		"@astrojs/mdx": "^8.1.2",
-		"@astrojs/starlight": "^0.42.9",
+		"@astrojs/starlight": "^0.43.1",
 		"astro": "^7.4.5",
 		"sharp": "^0.35.5",
 		"temporal-polyfill": "^1.0.8"
