@@ -3,15 +3,15 @@
   "name": "pi-package-manager · Packages · Pi",
   "url": "https://pi.dev/packages/pi-package-manager",
   "source": "brave-web-search",
-  "description": "Adds the /packages slash command.Packages ... Install pi-package-manager from npm and Pi will load the resources declared by the package manifest.",
+  "description": "Above the package grid, the dashboard has a single paste box. Drop in npm:some-package (or pi install npm:some-package, or just the bare name) and click Run preflight — the server assembles a fact sheet about the package (npm metadata, your installed stack, your environment) and sends it to your configured pi LLM.",
   "metadata": {
     "title": "pi-package-manager · Packages · Pi",
     "name": "pi-package-manager · Packages · Pi",
-    "description": "Adds the /packages slash command.Packages ... Install pi-package-manager from npm and Pi will load the resources declared by the package manifest.",
+    "description": "Above the package grid, the dashboard has a single paste box. Drop in npm:some-package (or pi install npm:some-package, or just the bare name) and click Run preflight — the server assembles a fact sheet about the package (npm metadata, your installed stack, your environment) and sends it to your configured pi LLM.",
     "published_at": "2026-06-18T00:00:00",
     "source_site": "Pi",
     "source_url": "https://pi.dev/packages/pi-package-manager",
     "discovery_hint": "brave:pi-package"
   },
-  "category": "misc"
+  "category": "article"
 }

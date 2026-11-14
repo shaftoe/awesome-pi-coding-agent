@@ -8,7 +8,7 @@
     "github_url": "https://github.com/geminixiang/pi-mobile",
     "repo_full_name": "geminixiang/pi-mobile",
     "description": "Unofficial community mobile app for pi: run a coding agent loop on your Android phone, with a self-hosted sandbox and credentials that never enter it",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 1,
     "topics": [
@@ -31,9 +31,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-19T14:13:08Z",
-    "pushed_at": "2026-11-12T02:34:51Z",
-    "updated_at": "2026-11-12T02:37:49Z",
-    "size": 10329,
+    "pushed_at": "2026-11-14T01:02:00Z",
+    "updated_at": "2026-11-13T11:54:59Z",
+    "size": 11489,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

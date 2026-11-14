@@ -1,0 +1,41 @@
+{
+  "id": "ARSI-LAB-ARSI-Evaluator",
+  "name": "ARSI-LAB-ARSI-Evaluator",
+  "url": "https://github.com/ARSI-LAB/ARSI-Evaluator",
+  "source": "github-search",
+  "description": "Many ways to evaluate. One framework to bring them together. Unify benchmarks, agent evaluations, and performance testing across coding, terminal, office, web, and more.",
+  "metadata": {
+    "github_url": "https://github.com/ARSI-LAB/ARSI-Evaluator",
+    "repo_full_name": "ARSI-LAB/ARSI-Evaluator",
+    "description": "Many ways to evaluate. One framework to bring them together. Unify benchmarks, agent evaluations, and performance testing across coding, terminal, office, web, and more.",
+    "stars": 40,
+    "forks": 5,
+    "open_issues": 5,
+    "topics": [
+      "agent-evaluation",
+      "agentx",
+      "ai-evaluation",
+      "benchmarks",
+      "cordis-plugin",
+      "deepagents",
+      "dify",
+      "dsh",
+      "hermes-agent",
+      "kernel",
+      "llm-evaluation",
+      "performance-testing",
+      "pi-agent",
+      "recursive-self-improvement",
+      "rsi"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-01T07:58:48Z",
+    "pushed_at": "2026-11-12T07:49:11Z",
+    "updated_at": "2026-11-13T09:58:54Z",
+    "size": 28460,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}

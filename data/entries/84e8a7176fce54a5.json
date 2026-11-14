@@ -3,11 +3,11 @@
   "name": "Pi Agent Platform Docs",
   "url": "https://piagent.io.vn/en",
   "source": "brave-web-search",
-  "description": "piagent-setup installs the pinned Pi Coding Agent host, installs the Pi package, initializes the current directory, and runs doctor. It also installs the MCP baseline and subagents; skip them with --no-mcp, --no-subagents, or --global-only.",
+  "description": "Reusable infrastructure for multiple projects: installation, profiles, permissions, MCP, security, and workflows in one place.",
   "metadata": {
     "title": "Pi Agent Platform Docs",
     "name": "Pi Agent Platform Docs",
-    "description": "piagent-setup installs the pinned Pi Coding Agent host, installs the Pi package, initializes the current directory, and runs doctor. It also installs the MCP baseline and subagents; skip them with --no-mcp, --no-subagents, or --global-only.",
+    "description": "Reusable infrastructure for multiple projects: installation, profiles, permissions, MCP, security, and workflows in one place.",
     "published_at": null,
     "source_site": "Piagent",
     "source_url": "https://piagent.io.vn/en",

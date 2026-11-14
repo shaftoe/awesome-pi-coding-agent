@@ -1,0 +1,28 @@
+{
+  "id": "pi-ghsa",
+  "name": "pi-ghsa",
+  "url": "https://www.npmjs.com/package/pi-ghsa",
+  "source": "npm-search",
+  "description": "Pi extension that loads GitHub security advisories into the agent context",
+  "metadata": {
+    "github_url": "https://github.com/mcollina/pi-ghsa",
+    "npm_name": "pi-ghsa",
+    "description": "Pi extension that loads GitHub security advisories into the agent context",
+    "keywords": [
+      "pi-package",
+      "github",
+      "ghsa",
+      "security-advisory"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-08-07T13:08:35.144Z",
+    "npm_downloads_monthly": 635,
+    "npm_downloads_weekly": 580,
+    "npm_score_final": 18.873972,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

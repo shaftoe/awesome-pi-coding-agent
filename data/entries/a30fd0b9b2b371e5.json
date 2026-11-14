@@ -1,0 +1,31 @@
+{
+  "id": "pi-web-token-speed",
+  "name": "pi-web-token-speed",
+  "url": "https://www.npmjs.com/package/pi-web-token-speed",
+  "source": "npm-search",
+  "description": "Token generation speed (tok/s) for LLMs inside the Pi Web chat UI: decode, TTFT and prefill from native Pi metrics, without touching the backends.",
+  "metadata": {
+    "github_url": "https://github.com/diniket/pi-token-speed",
+    "npm_name": "pi-web-token-speed",
+    "description": "Token generation speed (tok/s) for LLMs inside the Pi Web chat UI: decode, TTFT and prefill from native Pi metrics, without touching the backends.",
+    "keywords": [
+      "pi-web.dev-plugin",
+      "pi-web-plugin",
+      "pi-package",
+      "pi-web",
+      "pi-coding-agent",
+      "token-speed",
+      "llm"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-13T21:46:23.592Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

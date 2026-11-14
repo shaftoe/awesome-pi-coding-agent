@@ -10,7 +10,7 @@
     "description": "pi desktop AI workspace",
     "stars": 10,
     "forks": 2,
-    "open_issues": 11,
+    "open_issues": 13,
     "topics": [
       "ai-coding-assistant",
       "electron",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-31T15:48:35Z",
-    "pushed_at": "2026-11-13T02:35:12Z",
+    "pushed_at": "2026-11-14T02:14:48Z",
     "updated_at": "2026-11-12T04:26:08Z",
-    "size": 147583,
+    "size": 148589,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

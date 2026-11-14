@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "IMAP/SMTP email client extension for pi coding agent. Read, search, send, move, and delete emails from your inbox.",
   "metadata": {
-    "github_url": "https://github.com/Smotherer007/pi-email",
+    "github_url": "https://github.com/patimweb-agents/pi-email",
     "npm_name": "@patimweb/pi-email",
     "description": "IMAP/SMTP email client extension for pi coding agent. Read, search, send, move, and delete emails from your inbox.",
     "keywords": [
@@ -15,11 +15,11 @@
       "smtp",
       "pi-extension"
     ],
-    "version": "2.1.1",
-    "published_at": "2026-10-14T09:15:45.031Z",
-    "npm_downloads_monthly": 271,
-    "npm_downloads_weekly": 45,
-    "npm_score_final": 16.000608,
+    "version": "2.1.2",
+    "published_at": "2026-11-13T07:31:42.122Z",
+    "npm_downloads_monthly": 270,
+    "npm_downloads_weekly": 41,
+    "npm_score_final": 15.821497,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

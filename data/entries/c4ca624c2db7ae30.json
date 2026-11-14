@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Live context pressure and token-use reports",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/mrclrchtr/supi",
     "npm_name": "@mrclrchtr/supi-context",
     "description": "Live context pressure and token-use reports",
@@ -22,11 +23,10 @@
     "published_at": "2026-11-13T00:46:57.544Z",
     "npm_downloads_monthly": 4805,
     "npm_downloads_weekly": 1033,
-    "npm_score_final": 26.411814,
+    "npm_score_final": 26.094406,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

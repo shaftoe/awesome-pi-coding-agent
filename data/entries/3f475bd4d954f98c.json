@@ -8,7 +8,7 @@
     "title": "pi-agent-ide · Packages · Pi",
     "name": "pi-agent-ide · Packages · Pi",
     "description": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours. Agent-native IDE extension for Pi Coding Agent with guarded editing, search, LSP, terminals, debugging, and observabilityPackages",
-    "published_at": "2026-11-08T22:03:03",
+    "published_at": "2026-11-08T00:23:02",
     "source_site": "Pi",
     "source_url": "https://pi.dev/packages/pi-agent-ide",
     "discovery_hint": "brave:pi-agent"

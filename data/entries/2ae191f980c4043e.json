@@ -1,0 +1,30 @@
+{
+  "id": "@diegopetrucci/pi-web-scout",
+  "name": "@diegopetrucci/pi-web-scout",
+  "url": "https://www.npmjs.com/package/@diegopetrucci/pi-web-scout",
+  "source": "npm-search",
+  "description": "A standalone pi extension that adds a read-only web_scout subagent tool that researches a question on the web via Exa and returns citation-backed findings in an isolated child agent.",
+  "metadata": {
+    "github_url": "https://github.com/diegopetrucci/pi-extensions",
+    "npm_name": "@diegopetrucci/pi-web-scout",
+    "description": "A standalone pi extension that adds a read-only web_scout subagent tool that researches a question on the web via Exa and returns citation-backed findings in an isolated child agent.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "web",
+      "scout",
+      "exa",
+      "subagent"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-06T20:40:00.719Z",
+    "npm_downloads_monthly": 405,
+    "npm_downloads_weekly": 405,
+    "npm_score_final": 17.07693,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-agent-browser-native",
+  "name": "pi-agent-browser-native · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-agent-browser-native",
+  "source": "brave-web-search",
+  "description": "Use it to read pages, test web apps, and save screenshots through agent-browser. Use supported Node.js and Pi releases. This extension requires a separate agent-browser installation.",
+  "metadata": {
+    "title": "pi-agent-browser-native · Packages · Pi",
+    "name": "pi-agent-browser-native · Packages · Pi",
+    "description": "Use it to read pages, test web apps, and save screenshots through agent-browser. Use supported Node.js and Pi releases. This extension requires a separate agent-browser installation.",
+    "published_at": "2026-11-08T11:24:23",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-agent-browser-native",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

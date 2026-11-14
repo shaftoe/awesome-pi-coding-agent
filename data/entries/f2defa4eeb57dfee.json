@@ -10,7 +10,7 @@
     "description": "Cron jobs and stateful loops for the pi coding agent: a loop keeps notes between runs, so it reports what changed rather than everything, and files findings in a triage inbox instead of your conversation. A plain pi extension.",
     "stars": 2,
     "forks": 1,
-    "open_issues": 21,
+    "open_issues": 17,
     "topics": [
       "ai-agents",
       "automation",
@@ -27,9 +27,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-08T12:57:48Z",
-    "pushed_at": "2026-11-12T15:00:36Z",
+    "pushed_at": "2026-11-13T16:48:05Z",
     "updated_at": "2026-11-12T05:29:26Z",
-    "size": 11674,
+    "size": 11865,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

@@ -1,0 +1,29 @@
+{
+  "id": "@asermax/pi-tentacles",
+  "name": "@asermax/pi-tentacles",
+  "url": "https://www.npmjs.com/package/@asermax/pi-tentacles",
+  "source": "npm-search",
+  "description": "Spawn, steer, question and collect remote coding agents that run in tentacles.",
+  "metadata": {
+    "github_url": "https://github.com/asermax/tentacles",
+    "npm_name": "@asermax/pi-tentacles",
+    "description": "Spawn, steer, question and collect remote coding agents that run in tentacles.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "remote-agents",
+      "subagents",
+      "tentacles"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-11-13T15:52:37.797Z",
+    "npm_downloads_monthly": 323,
+    "npm_downloads_weekly": 323,
+    "npm_score_final": 16.590637,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

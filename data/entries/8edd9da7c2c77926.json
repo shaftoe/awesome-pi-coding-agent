@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_systemdesign.academy_pi-coding-agent",
+  "name": "Pi coding agent: what it is, how it works, how to use it",
+  "url": "https://www.systemdesign.academy/explained/pi-coding-agent",
+  "source": "brave-web-search",
+  "description": "Pi coding agent is a minimal open-source terminal agent from pi.dev. How it works, its four default tools, session trees, codemode, MCP and its security.",
+  "metadata": {
+    "title": "Pi coding agent: what it is, how it works, how to use it",
+    "name": "Pi coding agent: what it is, how it works, how to use it",
+    "description": "Pi coding agent is a minimal open-source terminal agent from pi.dev. How it works, its four default tools, session trees, codemode, MCP and its security.",
+    "published_at": "2026-11-09T03:15:00",
+    "source_site": "Systemdesign",
+    "source_url": "https://www.systemdesign.academy/explained/pi-coding-agent",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

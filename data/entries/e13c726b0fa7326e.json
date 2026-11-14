@@ -1,0 +1,28 @@
+{
+  "id": "mahmoudhas-pi-clear-thinking",
+  "name": "mahmoudhas-pi-clear-thinking",
+  "url": "https://github.com/mahmoudhas/pi-clear-thinking",
+  "source": "github-search",
+  "description": "Pi extension: /clear-thinking removes thinking blocks from session history without disabling thinking",
+  "metadata": {
+    "github_url": "https://github.com/mahmoudhas/pi-clear-thinking",
+    "repo_full_name": "mahmoudhas/pi-clear-thinking",
+    "description": "Pi extension: /clear-thinking removes thinking blocks from session history without disabling thinking",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-12T15:39:59Z",
+    "pushed_at": "2026-10-12T15:40:08Z",
+    "updated_at": "2026-11-13T21:42:34Z",
+    "size": 3,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

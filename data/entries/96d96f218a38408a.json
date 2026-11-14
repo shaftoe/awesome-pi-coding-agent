@@ -1,0 +1,25 @@
+{
+  "id": "@celljs/ta-launcher",
+  "name": "@celljs/ta-launcher",
+  "url": "https://www.npmjs.com/package/@celljs/ta-launcher",
+  "source": "npm-search",
+  "description": "A pi package for Ta: what a phone pulls down over its first tab (a button of the rail elsewhere), the pages used lately and those kept in Mine, opened without installing too",
+  "metadata": {
+    "github_url": "https://github.com/cellbang/cell",
+    "npm_name": "@celljs/ta-launcher",
+    "description": "A pi package for Ta: what a phone pulls down over its first tab (a button of the rail elsewhere), the pages used lately and those kept in Mine, opened without installing too",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "4.10.0",
+    "published_at": "2026-11-13T20:01:03.475Z",
+    "npm_downloads_monthly": 404,
+    "npm_downloads_weekly": 404,
+    "npm_score_final": 17.810015,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
