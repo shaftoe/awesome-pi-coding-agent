@@ -9,7 +9,7 @@
     "repo_full_name": "Micheleww/dsh-pi-agent",
     "description": "Run the Pi coding agent loop inside DeepSeek Harness (DSH): a DSH Agent plugin that drives a headless pi --mode rpc process, so the web frontend works unchanged.",
     "stars": 4,
-    "forks": 2,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",

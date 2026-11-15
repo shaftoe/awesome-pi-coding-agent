@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Crokily/pi-durable-bot",
     "repo_full_name": "Crokily/pi-durable-bot",
     "description": "Open-source Grok Bot alternative. Pots is an AI coworker that reads every channel, decides what matters, and acts on its own computer. Self-hosted, any model.",
-    "stars": 61,
+    "stars": 64,
     "forks": 8,
     "open_issues": 4,
     "topics": [
@@ -34,9 +34,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-28T04:40:45Z",
-    "pushed_at": "2026-11-14T01:24:17Z",
-    "updated_at": "2026-11-14T02:20:31Z",
-    "size": 34565,
+    "pushed_at": "2026-11-14T21:54:34Z",
+    "updated_at": "2026-11-15T01:04:17Z",
+    "size": 34764,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

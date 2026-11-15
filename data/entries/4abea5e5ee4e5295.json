@@ -8,7 +8,7 @@
     "github_url": "https://github.com/HiepPP/bachuc",
     "repo_full_name": "HiepPP/bachuc",
     "description": "Fork of Paseo, rebuilt on Rust and GPUI with dedicated Rust plugins. One interface for Claude Code, Codex, Copilot, OpenCode, and Pi agents.",
-    "stars": 9,
+    "stars": 8,
     "forks": 0,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-09-28T05:34:20Z",
     "pushed_at": "2026-11-10T03:11:47Z",
-    "updated_at": "2026-11-10T03:28:51Z",
+    "updated_at": "2026-11-14T03:57:19Z",
     "size": 205308,
     "license": "NOASSERTION",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

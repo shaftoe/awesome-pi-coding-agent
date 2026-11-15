@@ -1,0 +1,33 @@
+{
+  "id": "kongzhuww-pi-tools",
+  "name": "kongzhuww-pi-tools",
+  "url": "https://github.com/kongzhuww/pi-tools",
+  "source": "github-search",
+  "description": "🛠️ Official Monorepo Suite for Pi Coding Agent Extensions: Command Aliases, Remote Mesh, Desktop Notifications, and Smart Quota",
+  "metadata": {
+    "github_url": "https://github.com/kongzhuww/pi-tools",
+    "repo_full_name": "kongzhuww/pi-tools",
+    "description": "🛠️ Official Monorepo Suite for Pi Coding Agent Extensions: Command Aliases, Remote Mesh, Desktop Notifications, and Smart Quota",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-tools",
+      "developer-tools",
+      "monorepo",
+      "npm-workspaces",
+      "pi-extension",
+      "pi-package",
+      "productivity"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-14T07:57:18Z",
+    "pushed_at": "2026-11-14T08:27:24Z",
+    "updated_at": "2026-11-14T08:50:58Z",
+    "size": 135,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}
