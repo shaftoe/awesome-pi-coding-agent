@@ -1,0 +1,30 @@
+{
+  "id": "laspinacristian-pi-brave-search",
+  "name": "laspinacristian-pi-brave-search",
+  "url": "https://github.com/laspinacristian/pi-brave-search",
+  "source": "github-search",
+  "description": "Pi coding agent extension: brave_search tool — the passages most relevant to a query (Brave LLM Context API), plus news, videos and images",
+  "metadata": {
+    "github_url": "https://github.com/laspinacristian/pi-brave-search",
+    "repo_full_name": "laspinacristian/pi-brave-search",
+    "description": "Pi coding agent extension: brave_search tool — the passages most relevant to a query (Brave LLM Context API), plus news, videos and images",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "brave-search",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-05T23:01:20Z",
+    "pushed_at": "2026-10-06T00:23:52Z",
+    "updated_at": "2026-11-14T03:40:46Z",
+    "size": 75,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

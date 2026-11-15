@@ -10,7 +10,7 @@
     "description": "An auto-discovered, LLM curated directory of resources for the Pi Coding Agent ecosystem. Updated daily.",
     "stars": 182,
     "forks": 25,
-    "open_issues": 13,
+    "open_issues": 14,
     "topics": [
       "awesome-list",
       "pi-coding-agent"
@@ -18,9 +18,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-21T14:07:40Z",
-    "pushed_at": "2026-11-14T01:57:32Z",
+    "pushed_at": "2026-11-15T01:29:56Z",
     "updated_at": "2026-11-13T07:58:23Z",
-    "size": 122454,
+    "size": 107117,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

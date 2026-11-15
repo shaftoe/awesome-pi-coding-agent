@@ -3,12 +3,12 @@
   "name": "pi-agents · Packages · Pi",
   "url": "https://pi.dev/packages/pi-agents",
   "source": "brave-web-search",
-  "description": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours. Durable, named agents for Pi: delegate tasks, compose agents into graphs, and watch them work.Packages",
+  "description": "Start an agent that may spawn agents: it finds every module under src, has one agent review each, and returns one merged review. Pi starts agents only when you ask for delegation. They work in the background and return their final messages to ...",
   "metadata": {
     "title": "pi-agents · Packages · Pi",
     "name": "pi-agents · Packages · Pi",
-    "description": "People of Pi: We've shipped Pi 1.0 with Pi Durable. Go make them yours. Durable, named agents for Pi: delegate tasks, compose agents into graphs, and watch them work.Packages",
-    "published_at": "2026-10-21T21:17:37",
+    "description": "Start an agent that may spawn agents: it finds every module under src, has one agent review each, and returns one merged review. Pi starts agents only when you ask for delegation. They work in the background and return their final messages to ...",
+    "published_at": "2026-11-02T13:33:01",
     "source_site": "Pi",
     "source_url": "https://pi.dev/packages/pi-agents",
     "discovery_hint": "brave:pi-agent"

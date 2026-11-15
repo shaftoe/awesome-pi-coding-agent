@@ -1,0 +1,25 @@
+{
+  "id": "aNNdii-pi-catppuccin",
+  "name": "aNNdii-pi-catppuccin",
+  "url": "https://github.com/aNNdii/pi-catppuccin",
+  "source": "github-search",
+  "description": "Catppuccin themes for the pi coding agent, with the color roles of the Catppuccin style guide, Zed and Ghostty",
+  "metadata": {
+    "github_url": "https://github.com/aNNdii/pi-catppuccin",
+    "repo_full_name": "aNNdii/pi-catppuccin",
+    "description": "Catppuccin themes for the pi coding agent, with the color roles of the Catppuccin style guide, Zed and Ghostty",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-14T23:53:52Z",
+    "pushed_at": "2026-11-15T01:19:15Z",
+    "updated_at": "2026-11-14T23:54:02Z",
+    "size": 36,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

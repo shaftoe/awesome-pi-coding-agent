@@ -1,0 +1,32 @@
+{
+  "id": "@n1netynine99/omp-antigravity-acp-provider",
+  "name": "@n1netynine99/omp-antigravity-acp-provider",
+  "url": "https://www.npmjs.com/package/@n1netynine99/omp-antigravity-acp-provider",
+  "source": "npm-search",
+  "description": "Google Antigravity ACP provider for Oh My Pi (OMP), with tool bridging and per-model thinking; derived from zacbemis/pi-antigravity-acp-provider",
+  "metadata": {
+    "github_url": "https://github.com/00lllooolll00/omp-antigravity-acp-provider",
+    "npm_name": "@n1netynine99/omp-antigravity-acp-provider",
+    "description": "Google Antigravity ACP provider for Oh My Pi (OMP), with tool bridging and per-model thinking; derived from zacbemis/pi-antigravity-acp-provider",
+    "keywords": [
+      "pi-package",
+      "extension",
+      "plugin",
+      "omp",
+      "oh-my-pi",
+      "antigravity",
+      "acp",
+      "gemini"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-11-14T14:49:59.704Z",
+    "npm_downloads_monthly": 1094,
+    "npm_downloads_weekly": 1094,
+    "npm_score_final": 20.154968,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pi-free-bridge",
+  "name": "pi-free-bridge",
+  "url": "https://www.npmjs.com/package/pi-free-bridge",
+  "source": "npm-search",
+  "description": "Free-models-only OpenCode provider for Pi. Registers only OpenCode's anonymous free tier under the oc-sdk-zen provider id and injects the gate header contract itself.",
+  "metadata": {
+    "github_url": "https://github.com/Deury08/pi-free-bridge",
+    "npm_name": "pi-free-bridge",
+    "description": "Free-models-only OpenCode provider for Pi. Registers only OpenCode's anonymous free tier under the oc-sdk-zen provider id and injects the gate header contract itself.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "opencode",
+      "openai-compatible",
+      "free-tier",
+      "warp",
+      "masque"
+    ],
+    "version": "0.7.1",
+    "published_at": "2026-11-15T01:09:33.854Z",
+    "npm_downloads_monthly": 485,
+    "npm_downloads_weekly": 485,
+    "npm_score_final": 17.667852,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
