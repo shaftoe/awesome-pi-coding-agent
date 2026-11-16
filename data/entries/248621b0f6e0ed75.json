@@ -1,0 +1,43 @@
+{
+  "id": "taherchhabra-pi-managed-agents-api",
+  "name": "taherchhabra-pi-managed-agents-api",
+  "url": "https://github.com/taherchhabra/pi-managed-agents-api",
+  "source": "github-search",
+  "description": "Self-hosted managed agents API built on the Pi coding agent SDK—an alternative to OpenAI Agents API and Claude Managed Agents API.",
+  "metadata": {
+    "github_url": "https://github.com/taherchhabra/pi-managed-agents-api",
+    "repo_full_name": "taherchhabra/pi-managed-agents-api",
+    "description": "Self-hosted managed agents API built on the Pi coding agent SDK—an alternative to OpenAI Agents API and Claude Managed Agents API.",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-runtime",
+      "agents-api",
+      "ai-agents",
+      "claude-alternative",
+      "claude-managed-agents",
+      "docker",
+      "llm",
+      "managed-agents",
+      "openai-agents-api",
+      "openai-alternative",
+      "openrouter",
+      "pi-coding-agent",
+      "pi-sdk",
+      "sandbox",
+      "self-hosted",
+      "self-hosting",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-13T15:01:09Z",
+    "pushed_at": "2026-11-15T00:03:10Z",
+    "updated_at": "2026-11-15T22:02:19Z",
+    "size": 1404,
+    "license": null,
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

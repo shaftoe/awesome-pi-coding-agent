@@ -1,0 +1,29 @@
+{
+  "id": "pi-usage-balances",
+  "name": "pi-usage-balances",
+  "url": "https://www.npmjs.com/package/pi-usage-balances",
+  "source": "npm-search",
+  "description": "On-demand account balances and subscription quotas for Pi",
+  "metadata": {
+    "github_url": "https://github.com/pureSaviour/pi-usage",
+    "npm_name": "pi-usage-balances",
+    "description": "On-demand account balances and subscription quotas for Pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "usage",
+      "balance",
+      "quota"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-08T15:08:05.073Z",
+    "npm_downloads_monthly": 371,
+    "npm_downloads_weekly": 371,
+    "npm_score_final": 16.570206,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

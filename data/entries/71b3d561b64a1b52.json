@@ -9,8 +9,8 @@
     "repo_full_name": "ARSI-LAB/ARSI-Evaluator",
     "description": "Many ways to evaluate. One framework to bring them together. Unify benchmarks, agent evaluations, and performance testing across coding, terminal, office, web, and more.",
     "stars": 40,
-    "forks": 5,
-    "open_issues": 5,
+    "forks": 6,
+    "open_issues": 9,
     "topics": [
       "agent-evaluation",
       "agentx",

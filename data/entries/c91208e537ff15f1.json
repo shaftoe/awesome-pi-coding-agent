@@ -1,17 +1,17 @@
 {
   "id": "BRAVE_vibecodinghub.org_pi-coding-agent",
-  "name": "Pi Review - Minimal open-source terminal coding agent focused on extensibility, tree-structured sessions, and shell-native repo workflows.",
+  "name": "Pi Review - Minimal, extensible terminal coding agent with skills, tree-structured sessions, multi-provider support, and explicit sandboxing guidance.",
   "url": "https://vibecodinghub.org/tools/pi-coding-agent",
   "source": "brave-web-search",
-  "description": "Pi is Mario Zechner's open-source terminal coding agent for developers who want a coding harness they can bend to their workflow instead of another locked IDE shell. The official docs emphasize extensibility through TypeScript extensions, skills, prompt templates, themes, packages, SDK, and ...",
+  "description": "Pi is a terminal-first coding agent that takes the opposite approach from feature-bloated harnesses: keep the core minimal, then let developers shape the workflow with extensions, skills, prompt templates, themes, and packages. That matters because Pi still covers serious repo work—multi-provider ...",
   "metadata": {
-    "title": "Pi Review - Minimal open-source terminal coding agent focused on extensibility, tree-structured sessions, and shell-native repo workflows.",
-    "name": "Pi Review - Minimal open-source terminal coding agent focused on extensibility, tree-structured sessions, and shell-native repo workflows.",
-    "description": "Pi is Mario Zechner's open-source terminal coding agent for developers who want a coding harness they can bend to their workflow instead of another locked IDE shell. The official docs emphasize extensibility through TypeScript extensions, skills, prompt templates, themes, packages, SDK, and ...",
+    "title": "Pi Review - Minimal, extensible terminal coding agent with skills, tree-structured sessions, multi-provider support, and explicit sandboxing guidance.",
+    "name": "Pi Review - Minimal, extensible terminal coding agent with skills, tree-structured sessions, multi-provider support, and explicit sandboxing guidance.",
+    "description": "Pi is a terminal-first coding agent that takes the opposite approach from feature-bloated harnesses: keep the core minimal, then let developers shape the workflow with extensions, skills, prompt templates, themes, and packages. That matters because Pi still covers serious repo work—multi-provider ...",
     "published_at": null,
     "source_site": "Vibecodinghub",
     "source_url": "https://vibecodinghub.org/tools/pi-coding-agent",
     "discovery_hint": "brave:pi-coding-agent"
   },
-  "category": "extension"
+  "category": "article"
 }

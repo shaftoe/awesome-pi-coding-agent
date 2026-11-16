@@ -71127,5 +71127,135 @@
 			"sourceName": "github",
 			"query": "github-repo:pi-agent language:TypeScript"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=VA-E0ON4dOk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-16T02:52:58.654Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=U7kjb-UhOeM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-16T02:52:58.759Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=m02wu7n2hUs",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-16T02:52:58.837Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=bH30onNNmzY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-16T02:52:58.998Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=CMl4lIEBKPM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-16T02:52:59.064Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=0aM761zX9QE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-16T02:52:59.087Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=OW6-frpqZjk",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-16T02:52:59.222Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@mc-toolchain/mcwiki-search",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-16T02:52:59.234Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/tdwyer/goose-omp-tui",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-11-16T02:52:59.263Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=azQMYA_0GrM",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-16T02:52:59.306Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=DxMDtYFp3zw",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-16T02:52:59.443Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-tmux-sidebar",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-16T02:52:59.473Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=0C767oDUoEA",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-16T02:52:59.537Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
 	}
 ]

@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_packages",
+  "name": "Package Catalog · Pi",
+  "url": "https://pi.dev/packages?name=lsp",
+  "source": "brave-web-search",
+  "description": "Persistent, dependency-aware task graphs and subagent delegation for Pi coding sessions. ... Optional Po story preview integration for the style-system package.",
+  "metadata": {
+    "title": "Package Catalog · Pi",
+    "name": "Package Catalog · Pi",
+    "description": "Persistent, dependency-aware task graphs and subagent delegation for Pi coding sessions. ... Optional Po story preview integration for the style-system package.",
+    "published_at": null,
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages?name=lsp",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}
