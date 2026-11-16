@@ -1,0 +1,30 @@
+{
+  "id": "pi-actio",
+  "name": "pi-actio",
+  "url": "https://www.npmjs.com/package/pi-actio",
+  "source": "npm-search",
+  "description": "pi extension: makes a pi coding agent a member of an Actio team (actio tool, /actio Explorer, prompt service)",
+  "metadata": {
+    "github_url": "https://github.com/ludiazv/actio",
+    "npm_name": "pi-actio",
+    "description": "pi extension: makes a pi coding agent a member of an Actio team (actio tool, /actio Explorer, prompt service)",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "actio",
+      "multi-agent"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-15T09:13:23.056Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

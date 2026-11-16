@@ -9,8 +9,8 @@
     "repo_full_name": "CyFeng16/pi-voicekit",
     "description": "Voice in + voice out for the Pi coding agent — hold-to-talk STT (Deepgram streaming or offline models) plus TTS (Kitten, Piper, Kokoro, Deepgram Aura). Successor to pi-listen-ng.",
     "stars": 4,
-    "forks": 0,
-    "open_issues": 0,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "deepgram",
       "dictation",

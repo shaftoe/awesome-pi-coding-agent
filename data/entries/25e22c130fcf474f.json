@@ -1,0 +1,25 @@
+{
+  "id": "@nemotte/pi-superagent-extension",
+  "name": "@nemotte/pi-superagent-extension",
+  "url": "https://www.npmjs.com/package/@nemotte/pi-superagent-extension",
+  "source": "npm-search",
+  "description": "Pi control surface for local and SSH-hosted Super-agent services",
+  "metadata": {
+    "github_url": "https://github.com/Nemotte/pi-superagent",
+    "npm_name": "@nemotte/pi-superagent-extension",
+    "description": "Pi control surface for local and SSH-hosted Super-agent services",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0-alpha.1",
+    "published_at": "2026-11-06T08:31:58.702Z",
+    "npm_downloads_monthly": 1010,
+    "npm_downloads_weekly": 828,
+    "npm_score_final": 20.331144,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

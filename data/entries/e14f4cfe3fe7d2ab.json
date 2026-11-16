@@ -1,0 +1,30 @@
+{
+  "id": "@luxass/pi-cost-explorer",
+  "name": "@luxass/pi-cost-explorer",
+  "url": "https://www.npmjs.com/package/@luxass/pi-cost-explorer",
+  "source": "npm-search",
+  "description": "Explore a Pi session's cost by model, prompt, tool, and request in a tabbed dialog.",
+  "metadata": {
+    "github_url": "https://github.com/luxass/agent-extensions",
+    "npm_name": "@luxass/pi-cost-explorer",
+    "description": "Explore a Pi session's cost by model, prompt, tool, and request in a tabbed dialog.",
+    "keywords": [
+      "cost",
+      "pi",
+      "pi-extension",
+      "pi-package",
+      "tokens",
+      "usage"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-08T07:01:43.814Z",
+    "npm_downloads_monthly": 484,
+    "npm_downloads_weekly": 302,
+    "npm_score_final": 17.750238,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

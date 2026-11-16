@@ -1,0 +1,29 @@
+{
+  "id": "pi-hofund",
+  "name": "pi-hofund",
+  "url": "https://www.npmjs.com/package/pi-hofund",
+  "source": "npm-search",
+  "description": "Bifrost AI Gateway control-plane extension for Pi (models, MCP, skills, prompts)",
+  "metadata": {
+    "github_url": "https://github.com/f1yn/pi-hofund",
+    "npm_name": "pi-hofund",
+    "description": "Bifrost AI Gateway control-plane extension for Pi (models, MCP, skills, prompts)",
+    "keywords": [
+      "ai-gateway",
+      "bifrost",
+      "control-plane",
+      "pi-extension",
+      "pi-package"
+    ],
+    "version": "0.2.2",
+    "published_at": "2026-11-08T02:25:13.711Z",
+    "npm_downloads_monthly": 970,
+    "npm_downloads_weekly": 552,
+    "npm_score_final": 19.608196,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

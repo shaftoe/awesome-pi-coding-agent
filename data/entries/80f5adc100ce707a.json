@@ -1,0 +1,33 @@
+{
+  "id": "MadeBy561-pi-tsp",
+  "name": "MadeBy561-pi-tsp",
+  "url": "https://github.com/MadeBy561/pi-tsp",
+  "source": "github-search",
+  "description": "Native Tern surface for the pi coding agent: semantic transcript, tool cards, diffs, subagents, approvals and pickers.",
+  "metadata": {
+    "github_url": "https://github.com/MadeBy561/pi-tsp",
+    "repo_full_name": "MadeBy561/pi-tsp",
+    "description": "Native Tern surface for the pi coding agent: semantic transcript, tool cards, diffs, subagents, approvals and pickers.",
+    "stars": 4,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "nodejs",
+      "pi",
+      "terminal",
+      "tern",
+      "tsp",
+      "tui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-09T01:56:12Z",
+    "pushed_at": "2026-11-15T23:10:02Z",
+    "updated_at": "2026-11-15T20:33:18Z",
+    "size": 7205,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}
