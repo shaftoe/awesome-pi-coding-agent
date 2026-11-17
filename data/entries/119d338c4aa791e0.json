@@ -1,0 +1,31 @@
+{
+  "id": "pi-lavish",
+  "name": "pi-lavish",
+  "url": "https://www.npmjs.com/package/pi-lavish",
+  "source": "npm-search",
+  "description": "Lavish Editor (lavish-axi) integration for pi: background feedback polling that wakes a fresh turn instead of blocking the running one.",
+  "metadata": {
+    "github_url": "https://github.com/fookhsu/pi-lavish",
+    "npm_name": "pi-lavish",
+    "description": "Lavish Editor (lavish-axi) integration for pi: background feedback polling that wakes a fresh turn instead of blocking the running one.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "lavish",
+      "lavish-axi",
+      "html",
+      "review",
+      "extension"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-09T02:43:46.825Z",
+    "npm_downloads_monthly": 447,
+    "npm_downloads_weekly": 447,
+    "npm_score_final": 16.97709,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "HN_50521936",
+  "name": "Show HN: Solipsist – Work with Pi agents using Markdown",
+  "url": "https://solipsist.sh/",
+  "source": "hackernews-search",
+  "description": "Hi HN, since some time I have been experimenting with a new way to work with AI agents, instead of chatting with them in the usual sense, I wanted to work with them collaboratively (like people usually do in google docs or confluence). I think the chat based interface we use for these coding agents doesn't extend well to other use cases, like researching, thinking... or just having a general introspective session with AI. I thought of having a simple markdown editor (like Notion), where you can just dump your thoughts (or documents) and then the AI agents can work off of them. I wanted to the app to be completely local so I don't depend on any cloud providers and can eventually run entirely offline with self-hosted LLMs in the future. and that's basically Solipsist: https://solipsist.sh/ This is a completely new way to use and interact with AI agents, where your document is the main control surface. The AI agents can give back nicely formatted tables, images and other content. You can use this for planning, brainstorming, researching and more. You can also create custom buttons which can trigger the same task again (like summarising new tickets assigned to you), these tasks can be run on some interval as well. Everything happens in the background daemon running on your machine, so you can just close the tabs/browser, and the Pi agents continue to run. It is fairly extensible as well. Do give it a shot ! Github: https://github.com/pulkitsharma07/solipsist/tree/main",
+  "metadata": {
+    "title": "Show HN: Solipsist – Work with Pi agents using Markdown",
+    "name": "Show HN: Solipsist – Work with Pi agents using Markdown",
+    "description": "Hi HN, since some time I have been experimenting with a new way to work with AI agents, instead of chatting with them in the usual sense, I wanted to work with them collaboratively (like people usually do in google docs or confluence). I think the chat based interface we use for these coding agents doesn't extend well to other use cases, like researching, thinking... or just having a general introspective session with AI. I thought of having a simple markdown editor (like Notion), where you can just dump your thoughts (or documents) and then the AI agents can work off of them. I wanted to the app to be completely local so I don't depend on any cloud providers and can eventually run entirely offline with self-hosted LLMs in the future. and that's basically Solipsist: https://solipsist.sh/ This is a completely new way to use and interact with AI agents, where your document is the main control surface. The AI agents can give back nicely formatted tables, images and other content. You can use this for planning, brainstorming, researching and more. You can also create custom buttons which can trigger the same task again (like summarising new tickets assigned to you), these tasks can be run on some interval as well. Everything happens in the background daemon running on your machine, so you can just close the tabs/browser, and the Pi agents continue to run. It is fairly extensible as well. Do give it a shot ! Github: https://github.com/pulkitsharma07/solipsist/tree/main",
+    "author": "pulkitsh1234",
+    "published_at": "2026-11-16T19:34:47Z",
+    "points": 2,
+    "num_comments": 0,
+    "hn_id": "50521936",
+    "external_url": "https://solipsist.sh/",
+    "discovery_hint": "hackernews:pi-agent"
+  },
+  "category": "article"
+}
