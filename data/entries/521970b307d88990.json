@@ -1,0 +1,36 @@
+{
+  "id": "@hugolopes45/lmsk-pi",
+  "name": "@hugolopes45/lmsk-pi",
+  "url": "https://www.npmjs.com/package/@hugolopes45/lmsk-pi",
+  "source": "npm-search",
+  "description": "lmsk adapter for pi: reversible masking of secrets, IDs and emails before pi sends anything to the LLM provider.",
+  "metadata": {
+    "github_url": "https://github.com/HugoLopes45/lmsk",
+    "npm_name": "@hugolopes45/lmsk-pi",
+    "description": "lmsk adapter for pi: reversible masking of secrets, IDs and emails before pi sends anything to the LLM provider.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "redact",
+      "redaction",
+      "secrets",
+      "mask",
+      "pii",
+      "privacy",
+      "dlp",
+      "llm",
+      "anonymize"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-11-09T19:31:30.652Z",
+    "npm_downloads_monthly": 439,
+    "npm_downloads_weekly": 439,
+    "npm_score_final": 16.907413,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

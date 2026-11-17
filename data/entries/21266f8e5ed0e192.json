@@ -10,7 +10,7 @@
     "description": "Extensions for Pi, the coding agent by Earendil Works. Every piece installs separately, so you can take one extension or all of them.",
     "stars": 5,
     "forks": 0,
-    "open_issues": 2,
+    "open_issues": 0,
     "topics": [
       "antigravity",
       "antigravity-cli",
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-25T20:18:32Z",
-    "pushed_at": "2026-11-16T02:27:17Z",
+    "pushed_at": "2026-11-16T19:56:13Z",
     "updated_at": "2026-11-15T17:44:43Z",
-    "size": 58663,
+    "size": 60393,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

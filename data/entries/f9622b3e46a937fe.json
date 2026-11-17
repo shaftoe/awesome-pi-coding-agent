@@ -24,15 +24,16 @@
       "opencode-plugin",
       "gatekeeper"
     ],
-    "version": "1.1.0",
-    "published_at": "2026-09-08T21:46:13.547Z",
-    "npm_downloads_monthly": 119,
-    "npm_downloads_weekly": 7,
-    "npm_score_final": 14.416829,
+    "version": "1.2.0",
+    "published_at": "2026-11-09T22:31:29.084Z",
+    "npm_downloads_monthly": 365,
+    "npm_downloads_weekly": 239,
+    "npm_score_final": 16.390467,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
-  "category": "misc"
+  "category": "extension"
 }

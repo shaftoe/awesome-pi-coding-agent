@@ -1,0 +1,25 @@
+{
+  "id": "@celljs/ta-recall",
+  "name": "@celljs/ta-recall",
+  "url": "https://www.npmjs.com/package/@celljs/ta-recall",
+  "source": "npm-search",
+  "description": "A pi package for Ta: asks earlier conversations what was done, offers to keep a request asked again as an extension (steps, a card, a page), and writes a daily brief of what got done and what waits for the user",
+  "metadata": {
+    "github_url": "https://github.com/cellbang/cell",
+    "npm_name": "@celljs/ta-recall",
+    "description": "A pi package for Ta: asks earlier conversations what was done, offers to keep a request asked again as an extension (steps, a card, a page), and writes a daily brief of what got done and what waits for the user",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "4.16.0",
+    "published_at": "2026-11-17T02:00:22.461Z",
+    "npm_downloads_monthly": 424,
+    "npm_downloads_weekly": 424,
+    "npm_score_final": 16.812197,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "@celljs/ta-glance",
+  "name": "@celljs/ta-glance",
+  "url": "https://www.npmjs.com/package/@celljs/ta-glance",
+  "source": "npm-search",
+  "description": "A pi package for Ta: replies lead with the answer, short, and show results as cards (key numbers, files, steps, comparisons, choices) rather than paragraphs",
+  "metadata": {
+    "github_url": "https://github.com/cellbang/cell",
+    "npm_name": "@celljs/ta-glance",
+    "description": "A pi package for Ta: replies lead with the answer, short, and show results as cards (key numbers, files, steps, comparisons, choices) rather than paragraphs",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "4.16.0",
+    "published_at": "2026-11-17T01:59:44.240Z",
+    "npm_downloads_monthly": 431,
+    "npm_downloads_weekly": 431,
+    "npm_score_final": 18.806068,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

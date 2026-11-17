@@ -1,0 +1,25 @@
+{
+  "id": "@hex4c59/pi-ext-code-cards",
+  "name": "@hex4c59/pi-ext-code-cards",
+  "url": "https://www.npmjs.com/package/@hex4c59/pi-ext-code-cards",
+  "source": "npm-search",
+  "description": "Unframed syntax-highlighted code and Codex-inspired file diffs for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/Hex4C59/my-pi-extensions",
+    "npm_name": "@hex4c59/pi-ext-code-cards",
+    "description": "Unframed syntax-highlighted code and Codex-inspired file diffs for Pi.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-15T12:00:13.799Z",
+    "npm_downloads_monthly": 245,
+    "npm_downloads_weekly": 245,
+    "npm_score_final": 16.842964,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

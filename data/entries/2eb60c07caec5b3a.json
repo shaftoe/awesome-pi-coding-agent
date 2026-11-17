@@ -10,7 +10,7 @@
     "description": "Self-hosted orchestrator for coding agents (Claude Code, Codex, OpenCode, pi): one server per machine, peers, web app/PWA and CLI.",
     "stars": 5,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "agent-orchestration",
       "claude-code",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-06T11:43:11Z",
-    "pushed_at": "2026-10-23T12:47:54Z",
+    "pushed_at": "2026-11-16T22:52:39Z",
     "updated_at": "2026-10-23T12:47:58Z",
-    "size": 14787,
+    "size": 15192,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

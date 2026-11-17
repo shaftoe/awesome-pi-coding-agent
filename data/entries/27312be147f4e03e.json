@@ -1,0 +1,25 @@
+{
+  "id": "pi-claude-native-tools",
+  "name": "pi-claude-native-tools",
+  "url": "https://www.npmjs.com/package/pi-claude-native-tools",
+  "source": "npm-search",
+  "description": "Expose Claude Code native Read/Write/Bash/Edit/Grep tools when the active model id contains claude",
+  "metadata": {
+    "github_url": "https://github.com/jellyfish-p/pi-claude-code",
+    "npm_name": "pi-claude-native-tools",
+    "description": "Expose Claude Code native Read/Write/Bash/Edit/Grep tools when the active model id contains claude",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-16T09:44:01.579Z",
+    "npm_downloads_monthly": 525,
+    "npm_downloads_weekly": 525,
+    "npm_score_final": 19.493122,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

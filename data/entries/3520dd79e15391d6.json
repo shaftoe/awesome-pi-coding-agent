@@ -9,7 +9,7 @@
     "repo_full_name": "grikomsn/bb-plugins",
     "description": "Monorepo of bb plugins that surface the Pi coding agent's extension event stream inside the bb desktop app",
     "stars": 5,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
