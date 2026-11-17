@@ -1,0 +1,32 @@
+{
+  "id": "pi-llama-reasoning",
+  "name": "pi-llama-reasoning",
+  "url": "https://www.npmjs.com/package/pi-llama-reasoning",
+  "source": "npm-search",
+  "description": "Use native llama.cpp reasoning efforts in Pi’s thinking selector, with matching token budgets and no extra configuration.",
+  "metadata": {
+    "github_url": "https://github.com/Ryu-CZ/pi-llama-reasoning",
+    "npm_name": "pi-llama-reasoning",
+    "description": "Use native llama.cpp reasoning efforts in Pi’s thinking selector, with matching token budgets and no extra configuration.",
+    "keywords": [
+      "llama.cpp",
+      "reasoning-effort",
+      "thinking-budget",
+      "reasoning",
+      "thinking",
+      "openai-api",
+      "pi-extension",
+      "pi-package"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-11-16T23:50:25.305Z",
+    "npm_downloads_monthly": 588,
+    "npm_downloads_weekly": 588,
+    "npm_score_final": 17.883411,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "AndresArreguy-pi-personal-sidebar",
+  "name": "AndresArreguy-pi-personal-sidebar",
+  "url": "https://github.com/AndresArreguy/pi-personal-sidebar",
+  "source": "github-search",
+  "description": "Theme-aware right-side dashboard for Pi: repo, todos, Command Code usage, subagents and npm cache.",
+  "metadata": {
+    "github_url": "https://github.com/AndresArreguy/pi-personal-sidebar",
+    "repo_full_name": "AndresArreguy/pi-personal-sidebar",
+    "description": "Theme-aware right-side dashboard for Pi: repo, todos, Command Code usage, subagents and npm cache.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "commandcode",
+      "pi",
+      "pi-package",
+      "sidebar",
+      "subagents",
+      "todo",
+      "tui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-16T18:02:10Z",
+    "pushed_at": "2026-11-16T19:29:06Z",
+    "updated_at": "2026-11-16T18:04:55Z",
+    "size": 157,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

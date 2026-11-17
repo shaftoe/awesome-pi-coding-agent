@@ -1,0 +1,29 @@
+{
+  "id": "@igor-guari/pi-skill-implement-spec",
+  "name": "@igor-guari/pi-skill-implement-spec",
+  "url": "https://www.npmjs.com/package/@igor-guari/pi-skill-implement-spec",
+  "source": "npm-search",
+  "description": "Implement a spec and its ticket graph on one integration branch using Pi workers.",
+  "metadata": {
+    "github_url": "https://github.com/IgorGuariroba/pi-skill-implement-spec",
+    "npm_name": "@igor-guari/pi-skill-implement-spec",
+    "description": "Implement a spec and its ticket graph on one integration branch using Pi workers.",
+    "keywords": [
+      "pi-package",
+      "pi-skill",
+      "pi",
+      "implement-spec",
+      "engineering-skills"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-11-05T17:21:07.517Z",
+    "npm_downloads_monthly": 258,
+    "npm_downloads_weekly": 258,
+    "npm_score_final": 17.022343,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

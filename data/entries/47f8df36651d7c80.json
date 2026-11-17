@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_docs.kanaries.net_pi-coding-agent-how-to-use",
+  "name": "How to Use Pi Coding Agent 1.0: Install, Connect a Model, and Run Your First Task – Kanaries",
+  "url": "https://docs.kanaries.net/topics/AICoding/pi-coding-agent-how-to-use",
+  "source": "brave-web-search",
+  "description": "Install Pi 1.0 with one command, sign in with a subscription or API key, or point it at a local Ollama model. Tested on macOS with a local 8B model: real timings, a read-only mode, AGENTS.md loading, and the safety defaults that differ from Claude Code and Codex.",
+  "metadata": {
+    "title": "How to Use Pi Coding Agent 1.0: Install, Connect a Model, and Run Your First Task – Kanaries",
+    "name": "How to Use Pi Coding Agent 1.0: Install, Connect a Model, and Run Your First Task – Kanaries",
+    "description": "Install Pi 1.0 with one command, sign in with a subscription or API key, or point it at a local Ollama model. Tested on macOS with a local 8B model: real timings, a read-only mode, AGENTS.md loading, and the safety defaults that differ from Claude Code and Codex.",
+    "published_at": "2026-10-04T00:00:00",
+    "source_site": "Kanaries",
+    "source_url": "https://docs.kanaries.net/topics/AICoding/pi-coding-agent-how-to-use",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

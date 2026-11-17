@@ -10,7 +10,7 @@
     "description": "Browse and play YouTube from Pi or Gentle-Shell: your likes, history, recommendations and playlists through your browser session, played with mpv and yt-dlp.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "gentle-shell-package",
       "mpv",
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-11-09T04:43:03Z",
-    "pushed_at": "2026-11-13T04:42:29Z",
+    "pushed_at": "2026-11-16T05:42:07Z",
     "updated_at": "2026-11-10T01:00:20Z",
-    "size": 479,
+    "size": 501,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

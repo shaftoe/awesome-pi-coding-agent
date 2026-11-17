@@ -1,0 +1,31 @@
+{
+  "id": "pi-niubash-windows",
+  "name": "pi-niubash-windows",
+  "url": "https://www.npmjs.com/package/pi-niubash-windows",
+  "source": "npm-search",
+  "description": "Niubash (native Windows bash) as a Pi tool, coexisting with Pi's PowerShell tool.",
+  "metadata": {
+    "github_url": "https://github.com/qwased/pi-niubash-windows",
+    "npm_name": "pi-niubash-windows",
+    "description": "Niubash (native Windows bash) as a Pi tool, coexisting with Pi's PowerShell tool.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "niubash",
+      "bash",
+      "windows",
+      "shell"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-14T16:00:58.362Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

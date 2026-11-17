@@ -1,0 +1,29 @@
+{
+  "id": "@335g/pi-summary",
+  "name": "@335g/pi-summary",
+  "url": "https://www.npmjs.com/package/@335g/pi-summary",
+  "source": "npm-search",
+  "description": "Pi extension: /summary shows only the user/AI conversation turns of the current session and lets you summarise them in place",
+  "metadata": {
+    "github_url": "https://github.com/335g/pi-extensions",
+    "npm_name": "@335g/pi-summary",
+    "description": "Pi extension: /summary shows only the user/AI conversation turns of the current session and lets you summarise them in place",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "summary",
+      "tui"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-15T05:41:09.817Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

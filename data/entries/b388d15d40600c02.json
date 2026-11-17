@@ -5,7 +5,6 @@
   "source": "npm-search",
   "description": "Capture and inspect SuPi debug events",
   "metadata": {
-    "pi_declares_extension": true,
     "github_url": "https://github.com/mrclrchtr/supi",
     "npm_name": "@mrclrchtr/supi-debug",
     "description": "Capture and inspect SuPi debug events",
@@ -19,14 +18,15 @@
       "events",
       "observability"
     ],
-    "version": "12.0.0",
-    "published_at": "2026-11-13T00:47:55.039Z",
-    "npm_downloads_monthly": 2387,
-    "npm_downloads_weekly": 458,
-    "npm_score_final": 22.762585,
+    "version": "13.0.0",
+    "published_at": "2026-11-16T16:47:56.368Z",
+    "npm_downloads_monthly": 2247,
+    "npm_downloads_weekly": 695,
+    "npm_score_final": 22.0296,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

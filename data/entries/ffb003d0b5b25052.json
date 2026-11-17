@@ -1,0 +1,35 @@
+{
+  "id": "pi-smart-quota",
+  "name": "pi-smart-quota",
+  "url": "https://www.npmjs.com/package/pi-smart-quota",
+  "source": "npm-search",
+  "description": "Smart adaptive quota monitor for OpenAI Codex and Google Antigravity (AGY) in Pi Coding Agent",
+  "metadata": {
+    "github_url": "https://github.com/kongzhuww/pi-smart-quota",
+    "npm_name": "pi-smart-quota",
+    "description": "Smart adaptive quota monitor for OpenAI Codex and Google Antigravity (AGY) in Pi Coding Agent",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "quota",
+      "usage",
+      "rate-limit",
+      "openai-codex",
+      "codex",
+      "antigravity",
+      "gemini",
+      "tui",
+      "statusline"
+    ],
+    "version": "1.0.1",
+    "published_at": "2026-11-16T14:09:58.557Z",
+    "npm_downloads_monthly": 344,
+    "npm_downloads_weekly": 344,
+    "npm_score_final": 16.617722,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

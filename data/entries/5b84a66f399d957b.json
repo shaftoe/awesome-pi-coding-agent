@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Cloudflare Agent Plugin: the official Cloudflare skills library plus cf-first hardening and cf CLI skills.",
   "metadata": {
-    "github_url": "https://github.com/0xPlayerOne/pi-cloudflare",
+    "github_url": "https://github.com/AndrewM-F/pi-cloudflare",
     "npm_name": "pi-cloudflare",
     "description": "Cloudflare Agent Plugin: the official Cloudflare skills library plus cf-first hardening and cf CLI skills.",
     "keywords": [
@@ -17,11 +17,11 @@
       "pi-package",
       "skills"
     ],
-    "version": "0.11.15",
-    "published_at": "2026-10-24T13:20:18.095Z",
-    "npm_downloads_monthly": 1666,
-    "npm_downloads_weekly": 220,
-    "npm_score_final": 22.546467,
+    "version": "0.11.17",
+    "published_at": "2026-11-16T07:11:13.098Z",
+    "npm_downloads_monthly": 1444,
+    "npm_downloads_weekly": 90,
+    "npm_score_final": 21.229395,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

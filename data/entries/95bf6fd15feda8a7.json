@@ -1,0 +1,31 @@
+{
+  "id": "@wierdbytes/pi-agents",
+  "name": "@wierdbytes/pi-agents",
+  "url": "https://www.npmjs.com/package/@wierdbytes/pi-agents",
+  "source": "npm-search",
+  "description": "Sub-agents for pi that run as their own pi in herdr-core terminals, nested under the agent that started them in herdr. Agent / get_subagent_result / steer_subagent / stop_subagent tools plus a pi.events RPC.",
+  "metadata": {
+    "github_url": "https://github.com/wierdbytes/pi-wierd-stuff",
+    "npm_name": "@wierdbytes/pi-agents",
+    "description": "Sub-agents for pi that run as their own pi in herdr-core terminals, nested under the agent that started them in herdr. Agent / get_subagent_result / steer_subagent / stop_subagent tools plus a pi.events RPC.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "extension",
+      "subagents",
+      "herdr",
+      "herdr-core"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-11-16T21:29:14.898Z",
+    "npm_downloads_monthly": 502,
+    "npm_downloads_weekly": 502,
+    "npm_score_final": 19.337067,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dsh-office-skills",
+  "name": "dsh-office-skills",
+  "url": "https://www.npmjs.com/package/dsh-office-skills",
+  "source": "npm-search",
+  "description": "Office document skills for pi, ported from DeepSeek Harness (DSH): author and edit DOCX/XLSX/PPTX with Python; render, recalculate, and export PDF with LibreOffice Kit",
+  "metadata": {
+    "github_url": "https://github.com/bfzha/dsh-office-skills",
+    "npm_name": "dsh-office-skills",
+    "description": "Office document skills for pi, ported from DeepSeek Harness (DSH): author and edit DOCX/XLSX/PPTX with Python; render, recalculate, and export PDF with LibreOffice Kit",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "agent-skills",
+      "dsh",
+      "deepseek-harness",
+      "office",
+      "docx",
+      "xlsx",
+      "pptx",
+      "pdf",
+      "libreoffice"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-16T07:55:35.029Z",
+    "npm_downloads_monthly": 285,
+    "npm_downloads_weekly": 285,
+    "npm_score_final": 15.788973,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

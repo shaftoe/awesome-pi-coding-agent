@@ -1,0 +1,25 @@
+{
+  "id": "@justjoshn/pi-google-oauth-v2",
+  "name": "@justjoshn/pi-google-oauth-v2",
+  "url": "https://www.npmjs.com/package/@justjoshn/pi-google-oauth-v2",
+  "source": "npm-search",
+  "description": "Use a Google AI plan in Pi by signing in with your Google account, with no API key.",
+  "metadata": {
+    "github_url": "https://github.com/just-joshn/pi-customizations",
+    "npm_name": "@justjoshn/pi-google-oauth-v2",
+    "description": "Use a Google AI plan in Pi by signing in with your Google account, with no API key.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-11-16T11:16:59.870Z",
+    "npm_downloads_monthly": 167,
+    "npm_downloads_weekly": 167,
+    "npm_score_final": 15.515844,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

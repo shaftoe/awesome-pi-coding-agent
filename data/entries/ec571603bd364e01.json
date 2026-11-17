@@ -1,0 +1,30 @@
+{
+  "id": "omp-statusliney",
+  "name": "omp-statusliney",
+  "url": "https://www.npmjs.com/package/omp-statusliney",
+  "source": "npm-search",
+  "description": "Fully customizable statusline for Oh My Pi (omp)",
+  "metadata": {
+    "github_url": "https://github.com/ignissak/omp-statusliney",
+    "npm_name": "omp-statusliney",
+    "description": "Fully customizable statusline for Oh My Pi (omp)",
+    "keywords": [
+      "omp",
+      "oh-my-pi",
+      "omp-plugin",
+      "statusline",
+      "pi-package"
+    ],
+    "version": "1.0.2",
+    "published_at": "2026-11-08T15:40:23.017Z",
+    "npm_downloads_monthly": 327,
+    "npm_downloads_weekly": 233,
+    "npm_score_final": 16.223173,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "pi_declares_extension": false,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

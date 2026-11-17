@@ -1,0 +1,25 @@
+{
+  "id": "@celljs/ta-rooms",
+  "name": "@celljs/ta-rooms",
+  "url": "https://www.npmjs.com/package/@celljs/ta-rooms",
+  "source": "npm-search",
+  "description": "A pi package for Ta: rooms shared with other Ta through the relay, end to end: who asks to join and the owner's answer, your rooms and their members, your Ta friends, and links that invite",
+  "metadata": {
+    "github_url": "https://github.com/cellbang/cell",
+    "npm_name": "@celljs/ta-rooms",
+    "description": "A pi package for Ta: rooms shared with other Ta through the relay, end to end: who asks to join and the owner's answer, your rooms and their members, your Ta friends, and links that invite",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "4.16.0",
+    "published_at": "2026-11-17T02:01:53.489Z",
+    "npm_downloads_monthly": 421,
+    "npm_downloads_weekly": 421,
+    "npm_score_final": 16.837036,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

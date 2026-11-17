@@ -1,0 +1,25 @@
+{
+  "id": "nitishagar-mcp-audit-platform",
+  "name": "nitishagar-mcp-audit-platform",
+  "url": "https://github.com/nitishagar/mcp-audit-platform",
+  "source": "github-search",
+  "description": "Deterministic offline MCP / AI-agent config security audit scanner (JSON + SARIF + summary) and pi.dev-themed static site. Static analysis only - not a pentest.",
+  "metadata": {
+    "github_url": "https://github.com/nitishagar/mcp-audit-platform",
+    "repo_full_name": "nitishagar/mcp-audit-platform",
+    "description": "Deterministic offline MCP / AI-agent config security audit scanner (JSON + SARIF + summary) and pi.dev-themed static site. Static analysis only - not a pentest.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-14T06:43:26Z",
+    "pushed_at": "2026-11-14T15:35:55Z",
+    "updated_at": "2026-11-14T06:43:36Z",
+    "size": 282,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

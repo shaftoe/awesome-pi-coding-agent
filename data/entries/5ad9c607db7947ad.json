@@ -1,0 +1,32 @@
+{
+  "id": "@fyeeme/pi-notify",
+  "name": "@fyeeme/pi-notify",
+  "url": "https://www.npmjs.com/package/@fyeeme/pi-notify",
+  "source": "npm-search",
+  "description": "Desktop notifications for pi — fires a native OSC 777 notification (Ghostty, iTerm2, WezTerm, rxvt-unicode) when the agent finishes and is waiting for input; the last assistant message, markdown-flattened and truncated to 200 characters, becomes the notif",
+  "metadata": {
+    "github_url": "https://github.com/fyeeme/pi-packages",
+    "npm_name": "@fyeeme/pi-notify",
+    "description": "Desktop notifications for pi — fires a native OSC 777 notification (Ghostty, iTerm2, WezTerm, rxvt-unicode) when the agent finishes and is waiting for input; the last assistant message, markdown-flattened and truncated to 200 characters, becomes the notif",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "notify",
+      "notification",
+      "desktop",
+      "osc777",
+      "bell"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-11-09T10:57:10.334Z",
+    "npm_downloads_monthly": 345,
+    "npm_downloads_weekly": 345,
+    "npm_score_final": 16.497032,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

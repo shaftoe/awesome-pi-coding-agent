@@ -1,0 +1,31 @@
+{
+  "id": "takkoury-pi-bar",
+  "name": "takkoury-pi-bar",
+  "url": "https://github.com/takkoury/pi-bar",
+  "source": "github-search",
+  "description": "A clean, adaptive two-line status bar for pi, showing Git status, model and thinking level, context usage, token costs, and task progress.",
+  "metadata": {
+    "github_url": "https://github.com/takkoury/pi-bar",
+    "repo_full_name": "takkoury/pi-bar",
+    "description": "A clean, adaptive two-line status bar for pi, showing Git status, model and thinking level, context usage, token costs, and task progress.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-extension",
+      "pi-package",
+      "status-bar",
+      "terminal",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-13T20:40:12Z",
+    "pushed_at": "2026-11-16T09:01:38Z",
+    "updated_at": "2026-11-16T09:23:50Z",
+    "size": 82,
+    "license": null,
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

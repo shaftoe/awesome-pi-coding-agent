@@ -1,0 +1,30 @@
+{
+  "id": "pi-memory-lite",
+  "name": "pi-memory-lite",
+  "url": "https://www.npmjs.com/package/pi-memory-lite",
+  "source": "npm-search",
+  "description": "Global, zero-dependency memory for pi that never injects memory content into the system prompt",
+  "metadata": {
+    "github_url": "https://github.com/piousp/llm-skills",
+    "npm_name": "pi-memory-lite",
+    "description": "Global, zero-dependency memory for pi that never injects memory content into the system prompt",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "memory",
+      "sqlite",
+      "fts5"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-11-16T17:12:39.039Z",
+    "npm_downloads_monthly": 464,
+    "npm_downloads_weekly": 464,
+    "npm_score_final": 19.062925,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

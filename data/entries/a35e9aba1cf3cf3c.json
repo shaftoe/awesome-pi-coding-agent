@@ -1,0 +1,25 @@
+{
+  "id": "mit-bach-foundry-harness",
+  "name": "mit-bach-foundry-harness",
+  "url": "https://github.com/mit-bach/foundry-harness",
+  "source": "github-search",
+  "description": "Foundry harness — GrokBot-class control plane as a Pi coding-agent package. Install with: pi install git:github.com/mit-bach/foundry-harness",
+  "metadata": {
+    "github_url": "https://github.com/mit-bach/foundry-harness",
+    "repo_full_name": "mit-bach/foundry-harness",
+    "description": "Foundry harness — GrokBot-class control plane as a Pi coding-agent package. Install with: pi install git:github.com/mit-bach/foundry-harness",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-19T16:17:08Z",
+    "pushed_at": "2026-09-19T16:26:49Z",
+    "updated_at": "2026-11-16T15:47:09Z",
+    "size": 22,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

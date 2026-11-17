@@ -1,0 +1,29 @@
+{
+  "id": "@igor-guari/pi-skill-code-review",
+  "name": "@igor-guari/pi-skill-code-review",
+  "url": "https://www.npmjs.com/package/@igor-guari/pi-skill-code-review",
+  "source": "npm-search",
+  "description": "Review the changes since a fixed point (commit, branch, tag, or merge-base) along two axes: Standards (does the code fol",
+  "metadata": {
+    "github_url": "https://github.com/IgorGuariroba/pi-skill-code-review",
+    "npm_name": "@igor-guari/pi-skill-code-review",
+    "description": "Review the changes since a fixed point (commit, branch, tag, or merge-base) along two axes: Standards (does the code fol",
+    "keywords": [
+      "pi-package",
+      "pi-skill",
+      "pi",
+      "code-review",
+      "engineering-skills"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-11-05T17:19:03.004Z",
+    "npm_downloads_monthly": 233,
+    "npm_downloads_weekly": 233,
+    "npm_score_final": 15.40224,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

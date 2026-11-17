@@ -20,15 +20,15 @@
       "notifications",
       "afk"
     ],
-    "version": "0.1.5",
-    "published_at": "2026-11-14T02:19:07.308Z",
-    "npm_downloads_monthly": 0,
-    "npm_downloads_weekly": 0,
-    "npm_score_final": 0,
+    "version": "0.1.8",
+    "published_at": "2026-11-16T14:33:50.658Z",
+    "npm_downloads_monthly": 1557,
+    "npm_downloads_weekly": 1557,
+    "npm_score_final": 21.08552,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "discovery_hint": "npm:keywords:pi-coding-agent"
+    "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
 }

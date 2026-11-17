@@ -8,7 +8,7 @@
     "github_url": "https://github.com/paymog/omp-packages",
     "repo_full_name": "paymog/omp-packages",
     "description": "Which pi packages work on oh-my-pi (omp): user reports, install tests, and README badges",
-    "stars": 0,
+    "stars": 1,
     "forks": 1,
     "open_issues": 1,
     "topics": [
@@ -22,11 +22,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-16T14:45:52Z",
-    "pushed_at": "2026-10-31T01:08:43Z",
-    "updated_at": "2026-11-02T14:02:08Z",
-    "size": 233,
+    "pushed_at": "2026-11-16T00:02:23Z",
+    "updated_at": "2026-11-16T00:23:14Z",
+    "size": 271,
     "license": null,
-    "discovery_hint": "github:add-url"
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
-  "category": "misc"
+  "category": "extension"
 }

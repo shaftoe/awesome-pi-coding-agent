@@ -1,0 +1,33 @@
+{
+  "id": "pi-chrome-search",
+  "name": "pi-chrome-search",
+  "url": "https://www.npmjs.com/package/pi-chrome-search",
+  "source": "npm-search",
+  "description": "Free, keyless web search through the user's own visible Chrome (Google, DuckDuckGo, Yandex, and opt-in Avito/Ozon listings) for pi",
+  "metadata": {
+    "github_url": "https://github.com/sh2nk/pi-chrome-search",
+    "npm_name": "pi-chrome-search",
+    "description": "Free, keyless web search through the user's own visible Chrome (Google, DuckDuckGo, Yandex, and opt-in Avito/Ozon listings) for pi",
+    "keywords": [
+      "pi-package",
+      "chrome",
+      "cdp",
+      "web-search",
+      "google",
+      "duckduckgo",
+      "yandex",
+      "avito",
+      "ozon"
+    ],
+    "version": "2.2.1",
+    "published_at": "2026-11-14T20:00:30.722Z",
+    "npm_downloads_monthly": 522,
+    "npm_downloads_weekly": 522,
+    "npm_score_final": 17.956135,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

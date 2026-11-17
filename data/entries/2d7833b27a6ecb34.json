@@ -5,7 +5,6 @@
   "source": "npm-search",
   "description": "Browse Organic Driven Development artifacts in a two-pane Pi terminal UI.",
   "metadata": {
-    "pi_declares_extension": true,
     "github_url": "https://github.com/oniricosistemas/odd-view",
     "npm_name": "odd-view",
     "description": "Browse Organic Driven Development artifacts in a two-pane Pi terminal UI.",
@@ -14,14 +13,15 @@
       "odd",
       "gentle-shell"
     ],
-    "version": "0.2.1",
-    "published_at": "2026-10-31T16:38:08.920Z",
-    "npm_downloads_monthly": 785,
-    "npm_downloads_weekly": 463,
-    "npm_score_final": 19.563644,
+    "version": "0.2.2",
+    "published_at": "2026-11-16T22:53:44.564Z",
+    "npm_downloads_monthly": 856,
+    "npm_downloads_weekly": 49,
+    "npm_score_final": 19.393446,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
