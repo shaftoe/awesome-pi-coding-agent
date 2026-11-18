@@ -1,0 +1,28 @@
+{
+  "id": "@lincolness/pi-mem0",
+  "name": "@lincolness/pi-mem0",
+  "url": "https://www.npmjs.com/package/@lincolness/pi-mem0",
+  "source": "npm-search",
+  "description": "Long-term memory for the pi coding agent, built on Mem0 OSS: captures finished tasks automatically and searches only when asked.",
+  "metadata": {
+    "github_url": "https://github.com/lincolness92/pi-mem0",
+    "npm_name": "@lincolness/pi-mem0",
+    "description": "Long-term memory for the pi coding agent, built on Mem0 OSS: captures finished tasks automatically and searches only when asked.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "memory",
+      "mem0"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-17T10:22:50.657Z",
+    "npm_downloads_monthly": 375,
+    "npm_downloads_weekly": 375,
+    "npm_score_final": 17.2675,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

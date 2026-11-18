@@ -8,7 +8,7 @@
     "github_url": "https://github.com/dixiatielu/Qiuyue-Digital-Life",
     "repo_full_name": "dixiatielu/Qiuyue-Digital-Life",
     "description": "A digital life with a persistent identity and memory, built with Pi Agent. It observes QQ chats through SnowLuma and decides when to participate, act, or stay silent.",
-    "stars": 7,
+    "stars": 8,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-27T11:47:44Z",
-    "pushed_at": "2026-11-16T21:24:08Z",
-    "updated_at": "2026-11-07T09:25:24Z",
-    "size": 5580,
+    "pushed_at": "2026-11-17T07:34:23Z",
+    "updated_at": "2026-11-17T11:06:49Z",
+    "size": 5977,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

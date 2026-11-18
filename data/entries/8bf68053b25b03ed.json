@@ -1,0 +1,30 @@
+{
+  "id": "@villavic/pi-prompt-rewriter",
+  "name": "@villavic/pi-prompt-rewriter",
+  "url": "https://www.npmjs.com/package/@villavic/pi-prompt-rewriter",
+  "source": "npm-search",
+  "description": "Surgical, config-driven rewriting of the prompt payload: system prompt text, tool descriptions, and tool parameter descriptions, from rules in config.json, hot-reloaded",
+  "metadata": {
+    "github_url": "https://github.com/villavic/pi-stuff",
+    "npm_name": "@villavic/pi-prompt-rewriter",
+    "description": "Surgical, config-driven rewriting of the prompt payload: system prompt text, tool descriptions, and tool parameter descriptions, from rules in config.json, hot-reloaded",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "system-prompt",
+      "tool-description"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-17T23:00:00.134Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

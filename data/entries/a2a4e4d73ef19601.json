@@ -10,7 +10,7 @@
     "description": "🛠️ Composable AI agent toolkit — skills, agents, loops, and MCP templates for Claude Code, Cursor, OpenCode, Copilot, Windsurf, and Pi",
     "stars": 20,
     "forks": 5,
-    "open_issues": 35,
+    "open_issues": 36,
     "topics": [
       "agent-toolkit",
       "agentic-engineering",
@@ -33,9 +33,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-08-04T04:18:29Z",
-    "pushed_at": "2026-11-17T01:41:48Z",
+    "pushed_at": "2026-11-18T03:37:14Z",
     "updated_at": "2026-11-12T16:45:17Z",
-    "size": 356454,
+    "size": 355968,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

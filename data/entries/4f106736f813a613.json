@@ -8,7 +8,7 @@
     "github_url": "https://github.com/wassname/pi-annotate-md",
     "repo_full_name": "wassname/pi-annotate-md",
     "description": "Pi extension: annotate Pi's answers in .pi/annotate.md in your own editor, then paste your notes back into Pi.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-09-01T10:04:41Z",
     "pushed_at": "2026-11-17T02:30:33Z",
-    "updated_at": "2026-11-17T02:30:34Z",
+    "updated_at": "2026-11-17T08:47:03Z",
     "size": 155,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

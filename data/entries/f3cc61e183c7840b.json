@@ -9,8 +9,8 @@
     "repo_full_name": "mackt/pi-language-tutor",
     "description": "Learn a foreign language while you code — a pi extension that reviews your prompts for spelling, grammar, and natural phrasing, and renders agent replies as bilingual immersive translations.",
     "stars": 89,
-    "forks": 13,
-    "open_issues": 2,
+    "forks": 14,
+    "open_issues": 4,
     "topics": [
       "language-learning",
       "pi",

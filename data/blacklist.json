@@ -71377,5 +71377,185 @@
 			"sourceName": "github",
 			"query": "github-repo:pi-agent language:TypeScript"
 		}
+	},
+	{
+		"url": "https://github.com/bubbleptr/aoa",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-18T04:20:58.222Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@nsyan/ssh",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-18T04:20:58.24Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-omp-tools",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-11-18T04:20:58.314Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/FukangZ/bilibili-subtitles",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-18T04:20:58.332Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/zjlgdx/claude-theme-pinboard",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-18T04:20:58.342Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=WZYtK-C_5rQ",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-11-18T04:20:58.466Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@sean-cc/fidere",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-18T04:20:58.55Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=QZOzQtQLls4",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-11-18T04:20:58.692Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=hQDW3YV1cRo",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-18T04:20:58.73Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@librola33/pi-background-bash",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-18T04:20:58.812Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=3ScX5jw9yFE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-18T04:20:58.877Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=FmAgdNHZHyc",
+		"reason": "pop culture pi signal: \"magnum p.i\"",
+		"blacklisted_at": "2026-11-18T04:20:58.933Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Cm-PGMwTgwo",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-11-18T04:20:59.029Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/Linxira-OS/linxira-zeta",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-18T04:20:59.061Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-coding-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://pi.dev/packages?name=claude",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-18T04:20:59.137Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://standardcompute.com/best-ai-agent/pi",
+		"reason": "blocked name: pi",
+		"blacklisted_at": "2026-11-18T04:20:59.16Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/yikZero/pi-seamless-copy",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-18T04:20:59.179Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=sZRg4t8CthY",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-18T04:20:59.193Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
 	}
 ]
