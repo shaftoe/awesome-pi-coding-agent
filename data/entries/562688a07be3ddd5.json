@@ -9,7 +9,7 @@
     "repo_full_name": "Gattic/GatPi",
     "description": "Personal fork of the pi coding agent (MIT), derived from earendil-works/pi with local fixes; full monorepo of agent, coding-agent, tui, ai, codemode and related packages.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "ai",

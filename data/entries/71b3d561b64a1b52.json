@@ -10,7 +10,7 @@
     "description": "Many ways to evaluate. One framework to bring them together. Unify benchmarks, agent evaluations, and performance testing across coding, terminal, office, web, and more.",
     "stars": 41,
     "forks": 7,
-    "open_issues": 6,
+    "open_issues": 7,
     "topics": [
       "agent-evaluation",
       "agentx",

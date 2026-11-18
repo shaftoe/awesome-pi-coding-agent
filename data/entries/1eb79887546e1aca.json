@@ -8,9 +8,9 @@
     "github_url": "https://github.com/TannerMidd/pi-pocket",
     "repo_full_name": "TannerMidd/pi-pocket",
     "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
-    "stars": 855,
-    "forks": 94,
-    "open_issues": 40,
+    "stars": 859,
+    "forks": 93,
+    "open_issues": 43,
     "topics": [
       "ai-agent",
       "coding-agent",
@@ -26,7 +26,7 @@
     "archived": false,
     "created_at": "2026-10-04T02:29:57Z",
     "pushed_at": "2026-11-15T19:18:35Z",
-    "updated_at": "2026-11-16T22:58:03Z",
+    "updated_at": "2026-11-17T23:45:51Z",
     "size": 20409,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

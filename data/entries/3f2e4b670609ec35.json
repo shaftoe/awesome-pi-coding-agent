@@ -1,0 +1,30 @@
+{
+  "id": "@polylint/opencode-poly",
+  "name": "@polylint/opencode-poly",
+  "url": "https://www.npmjs.com/package/@polylint/opencode-poly",
+  "source": "npm-search",
+  "description": "polylint: one linter and formatter for every language in the repository, driven by poly.toml. Runs ruff, oxc, biome and more as signed components fetched on demand, host tools such as rustfmt and gofmt when present, and a tree-sitter tier for everything e",
+  "metadata": {
+    "github_url": "https://github.com/Goldziher/polylint",
+    "npm_name": "@polylint/opencode-poly",
+    "description": "polylint: one linter and formatter for every language in the repository, driven by poly.toml. Runs ruff, oxc, biome and more as signed components fetched on demand, host tools such as rustfmt and gofmt when present, and a tree-sitter tier for everything e",
+    "keywords": [
+      "code-quality",
+      "formatter",
+      "linter",
+      "mcp",
+      "pi-package",
+      "rust"
+    ],
+    "version": "0.35.0",
+    "published_at": "2026-11-15T06:50:17.702Z",
+    "npm_downloads_monthly": 448,
+    "npm_downloads_weekly": 448,
+    "npm_score_final": 16.811945,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "@celljs/ta-moments",
+  "name": "@celljs/ta-moments",
+  "url": "https://www.npmjs.com/package/@celljs/ta-moments",
+  "source": "npm-search",
+  "description": "A pi package for Ta: Moments, what friends made with Ta that one can take and use. Ta drafts a post of what you made and you post it; your Ta friends see it, like it and take it, their Ta reading the code first",
+  "metadata": {
+    "github_url": "https://github.com/cellbang/cell",
+    "npm_name": "@celljs/ta-moments",
+    "description": "A pi package for Ta: Moments, what friends made with Ta that one can take and use. Ta drafts a post of what you made and you post it; your Ta friends see it, like it and take it, their Ta reading the code first",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "4.17.0",
+    "published_at": "2026-11-18T02:14:53.389Z",
+    "npm_downloads_monthly": 1069,
+    "npm_downloads_weekly": 1069,
+    "npm_score_final": 20.708698,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

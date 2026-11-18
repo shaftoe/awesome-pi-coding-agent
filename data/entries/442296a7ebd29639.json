@@ -9,7 +9,7 @@
     "repo_full_name": "daveebbelaar/local-chat",
     "description": "A local ChatGPT and Claude Code-style desktop app. Tauri, Ollama and the Pi coding agent. Runs fully on your computer.",
     "stars": 5,
-    "forks": 3,
+    "forks": 4,
     "open_issues": 0,
     "topics": [],
     "language": "TypeScript",
