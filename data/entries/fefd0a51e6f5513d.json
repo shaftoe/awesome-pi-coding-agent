@@ -1,0 +1,36 @@
+{
+  "id": "@aeondave/pi-theme-1337",
+  "name": "@aeondave/pi-theme-1337",
+  "url": "https://www.npmjs.com/package/@aeondave/pi-theme-1337",
+  "source": "npm-search",
+  "description": "Thirteen vivid themes for Pi with a framed editor, compact tool views, theme-aware diffs, and configurable text spinners.",
+  "metadata": {
+    "github_url": "https://github.com/AeonDave/pi-theme-1337",
+    "npm_name": "@aeondave/pi-theme-1337",
+    "description": "Thirteen vivid themes for Pi with a framed editor, compact tool views, theme-aware diffs, and configurable text spinners.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-theme",
+      "pi-themes",
+      "pi-coding-agent",
+      "theme",
+      "dark-theme",
+      "terminal-theme",
+      "statusline",
+      "phosphor",
+      "minimal",
+      "tui"
+    ],
+    "version": "0.5.1",
+    "published_at": "2026-11-18T14:00:53.627Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-theme"
+  },
+  "category": "extension"
+}

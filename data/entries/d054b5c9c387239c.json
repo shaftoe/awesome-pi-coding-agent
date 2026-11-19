@@ -1,0 +1,38 @@
+{
+  "id": "@luminascale/shepherd",
+  "name": "@luminascale/shepherd",
+  "url": "https://www.npmjs.com/package/@luminascale/shepherd",
+  "source": "npm-search",
+  "description": "🐑 No-fuss herdr native subagent orchestration 🐑 (Pi + OpenCode)",
+  "metadata": {
+    "github_url": "https://github.com/MikkelKappelPersson/shepherd",
+    "npm_name": "@luminascale/shepherd",
+    "description": "🐑 No-fuss herdr native subagent orchestration 🐑 (Pi + OpenCode)",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-agent",
+      "extension",
+      "subagent",
+      "subagents",
+      "agent",
+      "agents",
+      "herdr",
+      "shepherd",
+      "sheep",
+      "artifacts",
+      "fieldnotes"
+    ],
+    "version": "0.6.1",
+    "published_at": "2026-11-18T22:18:25.756Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
+    "discovery_hint": "npm:keywords:pi-agent"
+  },
+  "category": "extension"
+}

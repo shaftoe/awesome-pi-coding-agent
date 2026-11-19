@@ -8,8 +8,8 @@
     "github_url": "https://github.com/Pringled/pi-extensions",
     "repo_full_name": "Pringled/pi-extensions",
     "description": "A set of minimal extensions that make the Pi coding agent nicer to use",
-    "stars": 114,
-    "forks": 11,
+    "stars": 116,
+    "forks": 10,
     "open_issues": 1,
     "topics": [
       "pi-agent",
@@ -20,7 +20,7 @@
     "archived": false,
     "created_at": "2026-10-20T16:05:59Z",
     "pushed_at": "2026-11-17T09:42:12Z",
-    "updated_at": "2026-11-17T15:42:06Z",
+    "updated_at": "2026-11-18T19:41:45Z",
     "size": 40879,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
