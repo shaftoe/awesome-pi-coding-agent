@@ -1,0 +1,31 @@
+{
+  "id": "@piex-dev/goal",
+  "name": "@piex-dev/goal",
+  "url": "https://www.npmjs.com/package/@piex-dev/goal",
+  "source": "npm-search",
+  "description": "Autonomous goal completion extension for pi — /goal command with agent_settled-gated continuation, goal_id stale guard, goal_blocked impasse channel, and token-budget wrap-up",
+  "metadata": {
+    "github_url": "https://github.com/piex-dev/piex",
+    "npm_name": "@piex-dev/goal",
+    "description": "Autonomous goal completion extension for pi — /goal command with agent_settled-gated continuation, goal_id stale guard, goal_blocked impasse channel, and token-budget wrap-up",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "goal",
+      "autonomous",
+      "agent-loop",
+      "goal-completion"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-07-22T14:55:55.099Z",
+    "npm_downloads_monthly": 450,
+    "npm_downloads_weekly": 391,
+    "npm_score_final": 18.285511,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

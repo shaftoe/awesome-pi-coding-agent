@@ -8,7 +8,7 @@
     "github_url": "https://github.com/NimbleTronAI/pi-code-gui",
     "repo_full_name": "NimbleTronAI/pi-code-gui",
     "description": "GUI experience for the popular Pi Coding Agent",
-    "stars": 14,
+    "stars": 15,
     "forks": 10,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-05-06T22:31:02Z",
     "pushed_at": "2026-11-13T13:59:02Z",
-    "updated_at": "2026-10-16T14:03:00Z",
+    "updated_at": "2026-11-18T17:16:24Z",
     "size": 5546,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

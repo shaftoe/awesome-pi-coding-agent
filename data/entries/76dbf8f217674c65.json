@@ -8,8 +8,8 @@
     "github_url": "https://github.com/MarshallEriksen-Neura/pi-agent-desktop",
     "repo_full_name": "MarshallEriksen-Neura/pi-agent-desktop",
     "description": "A desktop client for Pi Coding Agent with native session recovery, multi-target execution, remote control, and SQLite-backed offline history.",
-    "stars": 25,
-    "forks": 5,
+    "stars": 24,
+    "forks": 4,
     "open_issues": 2,
     "topics": [
       "ai-coding",
@@ -28,7 +28,7 @@
     "archived": false,
     "created_at": "2026-07-26T12:35:42Z",
     "pushed_at": "2026-10-02T11:49:08Z",
-    "updated_at": "2026-11-17T02:52:35Z",
+    "updated_at": "2026-11-18T08:31:14Z",
     "size": 22483,
     "license": null,
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

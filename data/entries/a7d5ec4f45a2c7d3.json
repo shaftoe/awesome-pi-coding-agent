@@ -1,0 +1,29 @@
+{
+  "id": "@geminixiang/pi-gpt-image",
+  "name": "@geminixiang/pi-gpt-image",
+  "url": "https://www.npmjs.com/package/@geminixiang/pi-gpt-image",
+  "source": "npm-search",
+  "description": "Generate and edit images through the active GPT provider's hosted image tool",
+  "metadata": {
+    "github_url": "https://github.com/geminixiang/pi-stuff",
+    "npm_name": "@geminixiang/pi-gpt-image",
+    "description": "Generate and edit images through the active GPT provider's hosted image tool",
+    "keywords": [
+      "codex",
+      "gpt-image-2",
+      "image-generation",
+      "pi-extension",
+      "pi-package"
+    ],
+    "version": "0.2.3",
+    "published_at": "2026-10-06T09:39:26.788Z",
+    "npm_downloads_monthly": 238,
+    "npm_downloads_weekly": 66,
+    "npm_score_final": 16.150036,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "drsh4dow-pi-harness",
+  "name": "drsh4dow-pi-harness",
+  "url": "https://github.com/drsh4dow/pi-harness",
+  "source": "github-search",
+  "description": "pi harness for Herdr: skills, playbooks and extensions that run pi agents in herdr-app terminals. v1 (pi-setup) lives at tag v1-final.",
+  "metadata": {
+    "github_url": "https://github.com/drsh4dow/pi-harness",
+    "repo_full_name": "drsh4dow/pi-harness",
+    "description": "pi harness for Herdr: skills, playbooks and extensions that run pi agents in herdr-app terminals. v1 (pi-setup) lives at tag v1-final.",
+    "stars": 10,
+    "forks": 2,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-04-27T14:49:04Z",
+    "pushed_at": "2026-11-18T12:44:52Z",
+    "updated_at": "2026-11-18T11:19:01Z",
+    "size": 14721,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "extension"
+}

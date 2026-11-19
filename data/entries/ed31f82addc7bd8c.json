@@ -1,0 +1,29 @@
+{
+  "id": "@zhalker/gentle-shell-job-watchdog",
+  "name": "@zhalker/gentle-shell-job-watchdog",
+  "url": "https://www.npmjs.com/package/@zhalker/gentle-shell-job-watchdog",
+  "source": "npm-search",
+  "description": "Gentle Shell (Pi) extension that wakes an idle orchestrator while a background job keeps running: check-ins every 20 minutes and exactly one job_stop instruction at 180 minutes (issue #3086).",
+  "metadata": {
+    "github_url": "https://github.com/zhalker/gentle-shell-job-watchdog",
+    "npm_name": "@zhalker/gentle-shell-job-watchdog",
+    "description": "Gentle Shell (Pi) extension that wakes an idle orchestrator while a background job keeps running: check-ins every 20 minutes and exactly one job_stop instruction at 180 minutes (issue #3086).",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "gentle-shell",
+      "background-jobs",
+      "watchdog"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-11T21:50:18.785Z",
+    "npm_downloads_monthly": 256,
+    "npm_downloads_weekly": 256,
+    "npm_score_final": 16.583569,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

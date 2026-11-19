@@ -1,0 +1,35 @@
+{
+  "id": "joeljuca-pi-kitani",
+  "name": "joeljuca-pi-kitani",
+  "url": "https://github.com/joeljuca/pi-kitani",
+  "source": "github-search",
+  "description": "pi extension for Kitani AI",
+  "metadata": {
+    "github_url": "https://github.com/joeljuca/pi-kitani",
+    "repo_full_name": "joeljuca/pi-kitani",
+    "description": "pi extension for Kitani AI",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "kitani",
+      "kitani-ai",
+      "pi",
+      "pi-agent",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-extensions",
+      "pi-package",
+      "pi-packages"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-18T12:32:32Z",
+    "pushed_at": "2026-11-18T16:23:32Z",
+    "updated_at": "2026-11-18T16:20:40Z",
+    "size": 43,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "@ganziliang/pi-purge",
+  "name": "@ganziliang/pi-purge",
+  "url": "https://www.npmjs.com/package/@ganziliang/pi-purge",
+  "source": "npm-search",
+  "description": "Pi extension: three-layer refusal-breaking toolkit — system-prompt injection, refusal detection, and an automatic nudge retry chain.",
+  "metadata": {
+    "github_url": "https://github.com/ganziliang/pi-purge",
+    "npm_name": "@ganziliang/pi-purge",
+    "description": "Pi extension: three-layer refusal-breaking toolkit — system-prompt injection, refusal detection, and an automatic nudge retry chain.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "system-prompt",
+      "prompt-injection",
+      "refusal-retry",
+      "unrestricted"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-18T09:07:16.137Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
