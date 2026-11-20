@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Let an AI agent cull, develop, mask and export your photos in Adobe Lightroom Classic, and check every change on Lightroom's own render.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/fadedDexofan/lightroom-agent",
     "npm_name": "lightroom-agent",
     "description": "Let an AI agent cull, develop, mask and export your photos in Adobe Lightroom Classic, and check every change on Lightroom's own render.",
@@ -23,11 +24,10 @@
     "published_at": "2026-11-18T12:32:55.996Z",
     "npm_downloads_monthly": 329,
     "npm_downloads_weekly": 329,
-    "npm_score_final": 17.435083,
+    "npm_score_final": 16.708103,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

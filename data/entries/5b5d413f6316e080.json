@@ -1,0 +1,28 @@
+{
+  "id": "@gfgghgftgffg/pi-goal-x-lean",
+  "name": "@gfgghgftgffg/pi-goal-x-lean",
+  "url": "https://www.npmjs.com/package/@gfgghgftgffg/pi-goal-x-lean",
+  "source": "npm-search",
+  "description": "Lean tool metadata over the complete pi-goal-x runtime; preserves goal tools, commands, scheduling and auditing.",
+  "metadata": {
+    "github_url": "https://github.com/gfgghgftgffg/amox_pi_extensions_lean",
+    "npm_name": "@gfgghgftgffg/pi-goal-x-lean",
+    "description": "Lean tool metadata over the complete pi-goal-x runtime; preserves goal tools, commands, scheduling and auditing.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "goal",
+      "token-efficient"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-12T14:20:41.542Z",
+    "npm_downloads_monthly": 489,
+    "npm_downloads_weekly": 489,
+    "npm_score_final": 17.896297,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

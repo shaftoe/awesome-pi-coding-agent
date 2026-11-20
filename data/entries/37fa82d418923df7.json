@@ -8,7 +8,7 @@
     "github_url": "https://github.com/tianemon/EasyMint",
     "repo_full_name": "tianemon/EasyMint",
     "description": "Open-source desktop AI coding platform with built-in Pi Agent (pi-coding-agent) — a graphical AI programming assistant that lets non-technical users drive AI through the full software development flow (Electron)",
-    "stars": 92,
+    "stars": 95,
     "forks": 6,
     "open_issues": 0,
     "topics": [
@@ -32,7 +32,7 @@
     "archived": false,
     "created_at": "2026-06-03T14:17:21Z",
     "pushed_at": "2026-11-18T11:04:45Z",
-    "updated_at": "2026-11-17T12:28:19Z",
+    "updated_at": "2026-11-19T22:33:27Z",
     "size": 66036,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

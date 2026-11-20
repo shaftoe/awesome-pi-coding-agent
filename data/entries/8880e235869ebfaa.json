@@ -8,8 +8,8 @@
     "github_url": "https://github.com/Xpropel/Pi-Remote",
     "repo_full_name": "Xpropel/Pi-Remote",
     "description": "Remote control for your pi coding agent. Pi-Remote mirrors live pi terminal sessions to any browser, so you can watch runs, answer prompts, and send commands from your phone — end-to-end encrypted over a self-hosted relay.",
-    "stars": 333,
-    "forks": 10,
+    "stars": 334,
+    "forks": 9,
     "open_issues": 0,
     "topics": [
       "ai-agent",
@@ -30,9 +30,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-28T10:46:22Z",
-    "pushed_at": "2026-11-14T07:25:21Z",
-    "updated_at": "2026-11-17T12:28:39Z",
-    "size": 17140,
+    "pushed_at": "2026-11-19T12:39:59Z",
+    "updated_at": "2026-11-20T01:06:49Z",
+    "size": 9746,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

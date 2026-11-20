@@ -1,0 +1,30 @@
+{
+  "id": "pi-keln-provider",
+  "name": "pi-keln-provider",
+  "url": "https://www.npmjs.com/package/pi-keln-provider",
+  "source": "npm-search",
+  "description": "Keln provider for pi: open models through Keln's OpenAI-compatible API, with the live model catalog.",
+  "metadata": {
+    "github_url": "https://github.com/kris-holy/pi-keln-provider",
+    "npm_name": "pi-keln-provider",
+    "description": "Keln provider for pi: open models through Keln's OpenAI-compatible API, with the live model catalog.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "extension",
+      "provider",
+      "keln",
+      "open-models"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-11-12T20:05:11.948Z",
+    "npm_downloads_monthly": 366,
+    "npm_downloads_weekly": 366,
+    "npm_score_final": 17.424742,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -10,7 +10,7 @@
     "description": "Desktop app for the pi coding agent, styled after Claude desktop: Code mode with git worktrees, diff and PR/CI status, Work mode for knowledge tasks. Electron + React + pi SDK.",
     "stars": 6,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "ai-agent",
       "claude-desktop-alternative",
@@ -29,9 +29,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-25T12:07:55Z",
-    "pushed_at": "2026-11-18T17:50:18Z",
+    "pushed_at": "2026-11-19T16:55:55Z",
     "updated_at": "2026-11-17T03:05:46Z",
-    "size": 4162,
+    "size": 3633,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
