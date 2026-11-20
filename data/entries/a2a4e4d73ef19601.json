@@ -10,7 +10,7 @@
     "description": "🛠️ Composable AI agent toolkit — skills, agents, loops, and MCP templates for Claude Code, Cursor, OpenCode, Copilot, Windsurf, and Pi",
     "stars": 20,
     "forks": 5,
-    "open_issues": 35,
+    "open_issues": 34,
     "topics": [
       "agent-toolkit",
       "agentic-engineering",

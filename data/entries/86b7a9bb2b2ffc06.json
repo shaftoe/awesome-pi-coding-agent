@@ -1,0 +1,27 @@
+{
+  "id": "pi-dent-agent",
+  "name": "pi-dent-agent",
+  "url": "https://www.npmjs.com/package/pi-dent-agent",
+  "source": "npm-search",
+  "description": "A generic coding agent as a pi extension: Bash, Task, Agent, Fleet, Script, Search, Markdown and more tools, with billing and terms extensions bundled",
+  "metadata": {
+    "github_url": "https://github.com/dralban68/pi-dent-agent",
+    "npm_name": "pi-dent-agent",
+    "description": "A generic coding agent as a pi extension: Bash, Task, Agent, Fleet, Script, Search, Markdown and more tools, with billing and terms extensions bundled",
+    "keywords": [
+      "coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "version": "0.2.7",
+    "published_at": "2026-11-19T21:51:19.153Z",
+    "npm_downloads_monthly": 1008,
+    "npm_downloads_weekly": 1008,
+    "npm_score_final": 20.297024,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

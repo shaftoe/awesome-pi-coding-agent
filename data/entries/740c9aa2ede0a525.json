@@ -9,8 +9,8 @@
     "repo_full_name": "Ran2424/transportx-agent",
     "description": "Open-source transportation AI agent harness powered by Pi, with GIS, agent skills, tool execution, traffic data analysis, and an interactive desktop workspace.",
     "stars": 7,
-    "forks": 3,
-    "open_issues": 2,
+    "forks": 4,
+    "open_issues": 3,
     "topics": [
       "agent-harness",
       "agent-skills",

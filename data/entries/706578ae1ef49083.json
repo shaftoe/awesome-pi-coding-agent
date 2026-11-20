@@ -1,0 +1,31 @@
+{
+  "id": "pi-alibaba-cs-usage-extension",
+  "name": "pi-alibaba-cs-usage-extension",
+  "url": "https://www.npmjs.com/package/pi-alibaba-cs-usage-extension",
+  "source": "npm-search",
+  "description": "Pi extension: Alibaba Cloud Model Studio Token Plan quota (5h / weekly / monthly) in the status line, with reset countdowns.",
+  "metadata": {
+    "github_url": "https://github.com/khanton/pi-alibaba-cs-usage",
+    "npm_name": "pi-alibaba-cs-usage-extension",
+    "description": "Pi extension: Alibaba Cloud Model Studio Token Plan quota (5h / weekly / monthly) in the status line, with reset countdowns.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "alibaba",
+      "alibaba-cs-usage",
+      "quota",
+      "usage"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-12T22:16:53.882Z",
+    "npm_downloads_monthly": 540,
+    "npm_downloads_weekly": 540,
+    "npm_score_final": 18.718424,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
