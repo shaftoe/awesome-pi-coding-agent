@@ -145,7 +145,7 @@
 				}
 			});
 
-			const onInput = createSearchHandler(input, {
+			const { onInput } = createSearchHandler(input, {
 				limit: 50,
 				onQuery() {
 					resultsList.innerHTML = '<div class="no-results">Searching…</div>';

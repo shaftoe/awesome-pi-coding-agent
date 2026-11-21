@@ -94,6 +94,8 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 	}
 
 	class GlobalSearchInput extends HTMLElement {
+		setQuery?: (query: string) => void;
+
 		connectedCallback() {
 			const input = this.querySelector<HTMLInputElement>('input[type="search"]')!;
 			const resultsContainer = document.querySelector<HTMLElement>('.global-search-results');
@@ -108,7 +110,7 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 				countEl.textContent = '';
 			};
 
-			const doSearch = createSearchHandler(input, {
+			const { onInput, searchNow } = createSearchHandler(input, {
 				onQuery(query) {
 					const url = new URL(window.location.href);
 					if (url.searchParams.get('q') !== query) {
@@ -142,7 +144,11 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 				});
 			});
 
-			input.addEventListener('input', doSearch);
+			input.addEventListener('input', onInput);
+			this.setQuery = (query) => {
+				input.value = query;
+				void searchNow();
+			};
 		}
 	}
 
@@ -163,10 +169,7 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 	}
 
 	function setSearchQuery(query: string): void {
-		const input = document.querySelector<HTMLInputElement>('global-search-input input');
-		if (!input) return;
-		input.value = query;
-		input.dispatchEvent(new Event('input'));
+		document.querySelector<GlobalSearchInput>('global-search-input')?.setQuery?.(query);
 	}
 
 	class GlobalSearchBar extends HTMLElement {

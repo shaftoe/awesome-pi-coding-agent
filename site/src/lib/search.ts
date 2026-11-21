@@ -96,9 +96,15 @@ export function createSearchHandler(
 	let timer: ReturnType<typeof setTimeout> | undefined;
 	let waitingForIndex = false;
 
-	async function run() {
+	async function searchNow() {
+		clearTimeout(timer);
 		timer = undefined;
-		view.onQuery?.(input.value.trim());
+		const text = input.value.trim();
+		if (!text) {
+			view.showResults("", { entries: [], total: 0 });
+			return;
+		}
+		view.onQuery?.(text);
 		if (waitingForIndex) return;
 		waitingForIndex = true;
 		let index: SearchIndex;
@@ -117,13 +123,14 @@ export function createSearchHandler(
 		if (query) view.showResults(query, searchEntries(index, query, view.limit));
 	}
 
-	return () => {
-		clearTimeout(timer);
+	function onInput() {
 		if (input.value.trim()) {
-			timer = setTimeout(run, 150);
+			clearTimeout(timer);
+			timer = setTimeout(searchNow, 150);
 		} else {
-			timer = undefined;
-			view.showResults("", { entries: [], total: 0 });
+			void searchNow();
 		}
-	};
+	}
+
+	return { searchNow, onInput };
 }
