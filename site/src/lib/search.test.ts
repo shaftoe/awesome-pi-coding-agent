@@ -68,3 +68,12 @@ test("appends name substrings after ranked matches without duplicates or descrip
 	expect((await searchEntries("lodge missing")).entries).toEqual([]);
 	expect((await searchEntries("---")).entries).toEqual([]);
 });
+
+test("highlights search tokens across displayed fields and preserves the original text", async () => {
+	const { createHighlighter } = await import("./search.ts");
+	const highlight = createHighlighter("agent/batch.tools");
+	expect(highlight("Agent Tools")).toBe("<mark>Agent</mark> <mark>Tools</mark>");
+	expect(highlight("Batch <jobs>")).toBe("<mark>Batch</mark> &lt;jobs&gt;");
+	expect(createHighlighter("a-agent")("Agent")).toBe("<mark>Agent</mark>");
+	expect(createHighlighter("---")("A & B")).toBe("A &amp; B");
+});

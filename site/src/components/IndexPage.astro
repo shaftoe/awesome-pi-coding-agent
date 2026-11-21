@@ -64,43 +64,25 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 </div>
 
 <script>
-	import { preloadSearch, searchEntries, type SearchEntry } from "../lib/search";
+	import { createHighlighter, preloadSearch, searchEntries, type SearchEntry } from "../lib/search";
 	const CATEGORY_ICONS: Record<string, string> = {
 		extension: '🔌', theme: '🎨', video: '🎬', article: '📰', misc: '📦',
 	};
-
-	function escapeHtml(s: string): string {
-		return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-	}
-
-	function escapeRegex(s: string): string {
-		return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-	}
-
-	function highlightText(text: string, query: string): string {
-		if (!query.trim()) return escapeHtml(text);
-		const terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
-		let result = escapeHtml(text);
-		for (const term of terms) {
-			const regex = new RegExp(`(${escapeRegex(term)})`, 'gi');
-			result = result.replace(regex, '<mark>$1</mark>');
-		}
-		return result;
-	}
 
 	function truncateText(s: string, len: number): string {
 		return s.length > len ? s.slice(0, len) + '…' : s;
 	}
 
 	function renderResults(container: HTMLElement, results: SearchEntry[], query: string): void {
+		const highlight = createHighlighter(query);
 		container.innerHTML = results
 			.map((r) => {
 				const icon = CATEGORY_ICONS[r.c] || '📄';
 				const popHtml = r.p ? `<span>${r.p}</span>` : '';
 				const categoryLabel = r.c.charAt(0).toUpperCase() + r.c.slice(1);
 				return `<a href="${r.u}" target="_blank" rel="noopener noreferrer" class="entry-card">
-					<h3>${icon} ${highlightText(r.n, query)}</h3>
-					<p class="desc">${highlightText(truncateText(r.d, 200), query)}</p>
+					<h3>${icon} ${highlight(r.n)}</h3>
+					<p class="desc">${highlight(truncateText(r.d, 200))}</p>
 					<div class="meta">
 						<span>${categoryLabel}</span>
 						${popHtml}

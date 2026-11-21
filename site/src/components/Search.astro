@@ -54,7 +54,7 @@
 </script>
 
 <script>
-	import { preloadSearch, searchEntries, type SearchEntry } from "../lib/search";
+	import { createHighlighter, preloadSearch, searchEntries, type SearchEntry } from "../lib/search";
 	const CATEGORY_ICONS: Record<string, string> = {
 		extension: '🔌', theme: '🎨', video: '🎬', misc: '📦',
 	};
@@ -70,6 +70,7 @@
 		}
 		const escapedQuery = encodeURIComponent(query.trim());
 		const viewAllLink = `<a href="/?q=${escapedQuery}" class="view-all-results">View all ${total} results on page →</a>`;
+		const highlight = createHighlighter(query);
 		container.innerHTML = results
 			.map((r) => {
 				const icon = CATEGORY_ICONS[r.c] || '📄';
@@ -77,8 +78,8 @@
 				return `<a href="${r.u}" target="_blank" rel="noopener noreferrer" class="result-item">
 					<span class="result-icon">${icon}</span>
 					<div class="result-body">
-						<div class="result-title">${highlight(r.n, query)}</div>
-						<div class="result-desc">${highlight(truncate(r.d, 120), query)}</div>
+						<div class="result-title">${highlight(r.n)}</div>
+						<div class="result-desc">${highlight(truncate(r.d, 120))}</div>
 						<div class="result-meta">
 							<span class="result-category">${r.c}</span>
 							${popHtml}
@@ -88,25 +89,6 @@
 				</a>`;
 			})
 			.join('') + viewAllLink;
-	}
-
-	function highlight(text: string, query: string): string {
-		if (!query.trim()) return escapeHtml(text);
-		const terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
-		let result = escapeHtml(text);
-		for (const term of terms) {
-			const regex = new RegExp(`(${escapeRegex(term)})`, 'gi');
-			result = result.replace(regex, '<mark>$1</mark>');
-		}
-		return result;
-	}
-
-	function escapeHtml(s: string): string {
-		return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-	}
-
-	function escapeRegex(s: string): string {
-		return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 	}
 
 	function truncate(s: string, len: number): string {

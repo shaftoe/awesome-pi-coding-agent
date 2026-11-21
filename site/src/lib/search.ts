@@ -10,6 +10,31 @@ let index:
 	  }>
 	| undefined;
 
+const tokenize: (text: string) => string[] = MiniSearch.getDefault("tokenize");
+
+function queryTerms(query: string) {
+	return tokenize(query.toLowerCase()).filter(Boolean);
+}
+
+function escapeHtml(s: string): string {
+	return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+}
+
+function escapeRegex(s: string): string {
+	return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+export function createHighlighter(query: string) {
+	const terms = queryTerms(query).sort((a, b) => b.length - a.length);
+	if (!terms.length) return escapeHtml;
+	const pattern = new RegExp(`(${terms.map(escapeRegex).join("|")})`, "gi");
+	return (text: string) =>
+		text
+			.split(pattern)
+			.map((part, i) => (i % 2 === 1 ? `<mark>${escapeHtml(part)}</mark>` : escapeHtml(part)))
+			.join("");
+}
+
 export function preloadSearch() {
 	index ??= (async () => {
 		const response = await fetch("/search-index.json");
@@ -41,8 +66,7 @@ export async function searchEntries(query: string, limit = Number.POSITIVE_INFIN
 	const { search, names } = await preloadSearch();
 	// MiniSearch's types do not encode the configured storeFields.
 	const results: SearchEntry[] = search.search(query) as (SearchResult & SearchEntry)[];
-	const tokenize: (text: string) => string[] = MiniSearch.getDefault("tokenize");
-	const terms = tokenize(query.toLowerCase()).filter(Boolean);
+	const terms = queryTerms(query);
 	if (terms.length) {
 		// Keep ranked word/prefix matches first; append name-only substrings such as lodge → elflodge.
 		const seen = new Set(results.map((entry) => entry.u));
