@@ -8,7 +8,7 @@
     "github_url": "https://github.com/pratikgajjar/pi-mcp-events",
     "repo_full_name": "pratikgajjar/pi-mcp-events",
     "description": "An MCP server sends an event, your pi session wakes. MCP Events (SEP-3415) for the servers in pi's mcp.json.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -24,7 +24,7 @@
     "archived": false,
     "created_at": "2026-11-17T07:16:37Z",
     "pushed_at": "2026-11-18T00:02:04Z",
-    "updated_at": "2026-11-18T00:46:10Z",
+    "updated_at": "2026-11-20T23:55:42Z",
     "size": 434,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

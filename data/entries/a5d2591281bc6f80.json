@@ -1,0 +1,28 @@
+{
+  "id": "pi-lumo-tamer",
+  "name": "pi-lumo-tamer",
+  "url": "https://www.npmjs.com/package/pi-lumo-tamer",
+  "source": "npm-search",
+  "description": "Lumo (Proton) as a first-class Pi provider via lumo-tamer",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-lumo-tamer",
+    "description": "Lumo (Proton) as a first-class Pi provider via lumo-tamer",
+    "keywords": [
+      "pi-package",
+      "lumo",
+      "proton",
+      "provider"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-11-13T14:12:14.320Z",
+    "npm_downloads_monthly": 363,
+    "npm_downloads_weekly": 363,
+    "npm_score_final": 16.782276,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

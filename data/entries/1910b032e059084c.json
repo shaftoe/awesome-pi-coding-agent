@@ -1,0 +1,32 @@
+{
+  "id": "@crisboarna/pi-context-refs",
+  "name": "@crisboarna/pi-context-refs",
+  "url": "https://www.npmjs.com/package/@crisboarna/pi-context-refs",
+  "source": "npm-search",
+  "description": "Save context refs and insert them from a picker as compact placeholders that expand to real content when the message is sent.",
+  "metadata": {
+    "github_url": "https://github.com/crisboarna/pi-extensions",
+    "npm_name": "@crisboarna/pi-context-refs",
+    "description": "Save context refs and insert them from a picker as compact placeholders that expand to real content when the message is sent.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "context",
+      "refs",
+      "snippets",
+      "placeholder",
+      "picker",
+      "prompt"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-13T15:24:45.691Z",
+    "npm_downloads_monthly": 250,
+    "npm_downloads_weekly": 250,
+    "npm_score_final": 15.965566,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "wangcheng666-pi-code-block-panel",
+  "name": "wangcheng666-pi-code-block-panel",
+  "url": "https://github.com/wangcheng666/pi-code-block-panel",
+  "source": "github-search",
+  "description": "Pi extension: render Markdown code blocks as a bordered panel with a language label and theme-colored background.",
+  "metadata": {
+    "github_url": "https://github.com/wangcheng666/pi-code-block-panel",
+    "repo_full_name": "wangcheng666/pi-code-block-panel",
+    "description": "Pi extension: render Markdown code blocks as a bordered panel with a language label and theme-colored background.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-20T09:01:05Z",
+    "pushed_at": "2026-11-20T09:01:14Z",
+    "updated_at": "2026-11-20T09:01:19Z",
+    "size": 5,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

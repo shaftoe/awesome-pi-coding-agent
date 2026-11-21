@@ -71927,5 +71927,125 @@
 			"sourceName": "github",
 			"query": "github-repo:pi-package language:TypeScript"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=KaVHFdseRas",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-21T04:02:45.668Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ZSmedE6iTzo",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-11-21T04:02:45.76Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=87QtJN4A_m4",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-21T04:02:45.974Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=VPjMc528SOc",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-11-21T04:02:46.138Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@brightmeows/pi-aliases",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-21T04:02:46.213Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@efrencode/pi-tool-ui",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-21T04:02:46.269Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=OBidRy61-DQ",
+		"reason": "non-english language (indonesian)",
+		"blacklisted_at": "2026-11-21T04:02:46.469Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=difOMaum-Pc",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-21T04:02:46.528Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/Nafi-R/nafi-pi-theme",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-21T04:02:46.556Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/omdsh-dev/dsh-turtle-ui",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-21T04:02:46.679Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/EthanYin-0701/pi-youtrack",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-21T04:02:46.724Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/wey-gu/ducter",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-21T04:02:46.811Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
 	}
 ]

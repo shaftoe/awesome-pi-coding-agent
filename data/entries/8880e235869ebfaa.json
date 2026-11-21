@@ -9,8 +9,8 @@
     "repo_full_name": "Xpropel/Pi-Remote",
     "description": "Remote control for your pi coding agent. Pi-Remote mirrors live pi terminal sessions to any browser, so you can watch runs, answer prompts, and send commands from your phone — end-to-end encrypted over a self-hosted relay.",
     "stars": 334,
-    "forks": 9,
-    "open_issues": 0,
+    "forks": 10,
+    "open_issues": 1,
     "topics": [
       "ai-agent",
       "coding-agent",

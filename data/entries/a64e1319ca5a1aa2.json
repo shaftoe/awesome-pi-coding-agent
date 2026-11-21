@@ -1,0 +1,25 @@
+{
+  "id": "trefeon-pi-zcode-provider",
+  "name": "trefeon-pi-zcode-provider",
+  "url": "https://github.com/trefeon/pi-zcode-provider",
+  "source": "github-search",
+  "description": "ZCode / Z.ai Start Plan provider extension for Oh My Pi (OMP) and Pi Coding Agent — live version sync, promo token auto-claim, no desktop app required",
+  "metadata": {
+    "github_url": "https://github.com/trefeon/pi-zcode-provider",
+    "repo_full_name": "trefeon/pi-zcode-provider",
+    "description": "ZCode / Z.ai Start Plan provider extension for Oh My Pi (OMP) and Pi Coding Agent — live version sync, promo token auto-claim, no desktop app required",
+    "stars": 3,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-13T20:02:06Z",
+    "pushed_at": "2026-11-14T05:44:41Z",
+    "updated_at": "2026-11-21T00:56:39Z",
+    "size": 56,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

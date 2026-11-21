@@ -10,7 +10,7 @@
     "description": "A native chat for Pi, Claude Code and Codex in Herdr.",
     "stars": 24,
     "forks": 9,
-    "open_issues": 8,
+    "open_issues": 11,
     "topics": [
       "claude-code",
       "codex",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-11-06T14:11:58Z",
-    "pushed_at": "2026-11-18T09:55:32Z",
+    "pushed_at": "2026-11-20T23:13:53Z",
     "updated_at": "2026-11-19T11:50:35Z",
-    "size": 4076,
+    "size": 3941,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

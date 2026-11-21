@@ -10,7 +10,7 @@
     "description": "All your work and agents in one place",
     "stars": 25,
     "forks": 3,
-    "open_issues": 18,
+    "open_issues": 15,
     "topics": [
       "agent-manager",
       "ai-coding",
@@ -33,9 +33,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-08T19:28:42Z",
-    "pushed_at": "2026-11-20T03:20:28Z",
+    "pushed_at": "2026-11-21T02:40:18Z",
     "updated_at": "2026-11-15T15:24:35Z",
-    "size": 58010,
+    "size": 58449,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

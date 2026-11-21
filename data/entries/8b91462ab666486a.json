@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Optional model-powered ghost-text prompt suggestions",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/mrclrchtr/supi",
     "npm_name": "@mrclrchtr/supi-prompt-suggestions",
     "description": "Optional model-powered ghost-text prompt suggestions",
@@ -22,11 +23,10 @@
     "published_at": "2026-11-19T18:06:08.282Z",
     "npm_downloads_monthly": 2457,
     "npm_downloads_weekly": 599,
-    "npm_score_final": 23.009716,
+    "npm_score_final": 22.875761,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

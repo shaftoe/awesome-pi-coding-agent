@@ -10,7 +10,7 @@
     "description": "A non-intrusive VS Code extension that offers GUI wrapper for the Pi Coding Agent. Along with a desktop app for Windows.",
     "stars": 40,
     "forks": 4,
-    "open_issues": 16,
+    "open_issues": 25,
     "topics": [
       "gui",
       "harness",
