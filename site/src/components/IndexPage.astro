@@ -101,6 +101,13 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 			const countEl = this.querySelector<HTMLElement>('.search-count');
 			if (!resultsContainer || !emptyEl || !countEl) return;
 
+			const showStatus = (message: string) => {
+				emptyEl.textContent = message;
+				emptyEl.style.display = '';
+				resultsContainer.style.display = 'none';
+				countEl.textContent = '';
+			};
+
 			const doSearch = createSearchHandler(input, {
 				onQuery(query) {
 					const url = new URL(window.location.href);
@@ -110,6 +117,7 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 					}
 					document.querySelector<HTMLElement>('.category-grid')!.style.display = 'none';
 					document.querySelector<HTMLElement>('.clear-search')!.style.display = '';
+					showStatus('Searching…');
 				},
 				showResults(query, { entries, total }) {
 					if (!query) {
@@ -124,10 +132,7 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 					countEl.textContent = `${total} result${total === 1 ? '' : 's'}`;
 				},
 				showLoadError() {
-					emptyEl.textContent = 'Search could not load. Please try again.';
-					emptyEl.style.display = '';
-					resultsContainer.style.display = 'none';
-					countEl.textContent = '';
+					showStatus('Search could not load. Please try again.');
 				},
 			});
 
