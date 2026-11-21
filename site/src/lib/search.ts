@@ -3,7 +3,7 @@ import MiniSearch, { type SearchResult } from "minisearch";
 // Compact JSON keys: n=name, d=description, c=category, u=URL,
 // p=popularity label, t=topics/keywords.
 export type SearchEntry = { n: string; d: string; c: string; u: string; p: string; t?: string };
-let index:
+let indexPromise:
 	| Promise<{
 			search: MiniSearch<SearchEntry>;
 			names: Array<{ entry: SearchEntry; name: string }>;
@@ -37,7 +37,7 @@ export function createHighlighter(query: string) {
 }
 
 export function preloadSearch() {
-	index ??= (async () => {
+	indexPromise ??= (async () => {
 		const response = await fetch("/search-index.json");
 		if (!response.ok) throw new Error(`Search index: ${response.status}`);
 		const entries: SearchEntry[] = await response.json();
@@ -55,10 +55,11 @@ export function preloadSearch() {
 		await search.addAllAsync(entries, { chunkSize: 500 });
 		return { search, names: entries.map((entry) => ({ entry, name: entry.n.toLowerCase() })) };
 	})().catch((error) => {
-		index = undefined;
+		// Let the next search retry if loading the index failed.
+		indexPromise = undefined;
 		throw error;
 	});
-	return index;
+	return indexPromise;
 }
 
 /** Download once; subsequent matching, ranking and card data stay in memory. */
