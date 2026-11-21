@@ -86,35 +86,44 @@ export function searchEntries(
 
 export function createSearchHandler(
 	input: Pick<HTMLInputElement, "value">,
-	showResults: (query: string, results: ReturnType<typeof searchEntries>) => void,
-	showLoadError: () => void,
-	limit?: number,
+	view: {
+		onQuery?: (query: string) => void;
+		showResults: (query: string, results: ReturnType<typeof searchEntries>) => void;
+		showLoadError: () => void;
+		limit?: number;
+	},
 ) {
-	let timer: ReturnType<typeof setTimeout>;
+	let timer: ReturnType<typeof setTimeout> | undefined;
 	let waitingForIndex = false;
 
 	async function run() {
+		timer = undefined;
+		view.onQuery?.(input.value.trim());
+		if (waitingForIndex) return;
 		waitingForIndex = true;
 		let index: SearchIndex;
 		try {
 			index = await preloadSearch();
 		} catch {
-			if (input.value.trim()) showLoadError();
+			if (timer === undefined && input.value.trim()) view.showLoadError();
 			return;
 		} finally {
 			waitingForIndex = false;
 		}
 
+		// If typing resumed, the next pause will run the search.
+		if (timer !== undefined) return;
 		const query = input.value.trim();
-		if (query) showResults(query, searchEntries(index, query, limit));
+		if (query) view.showResults(query, searchEntries(index, query, view.limit));
 	}
 
 	return () => {
 		clearTimeout(timer);
-		if (!input.value.trim()) {
-			showResults("", { entries: [], total: 0 });
-		} else if (!waitingForIndex) {
+		if (input.value.trim()) {
 			timer = setTimeout(run, 150);
+		} else {
+			timer = undefined;
+			view.showResults("", { entries: [], total: 0 });
 		}
 	};
 }

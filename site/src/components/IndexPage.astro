@@ -101,35 +101,35 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 			const countEl = this.querySelector<HTMLElement>('.search-count');
 			if (!resultsContainer || !emptyEl || !countEl) return;
 
-			const search = createSearchHandler(input, (query, { entries, total }) => {
-				if (!query) {
-					countEl.textContent = '';
-					showCategoryGrid();
-					return;
-				}
-				renderResults(resultsContainer, entries, query);
-				emptyEl.textContent = 'No results found.';
-				emptyEl.style.display = total === 0 ? '' : 'none';
-				resultsContainer.style.display = total === 0 ? 'none' : '';
-				countEl.textContent = `${total} result${total === 1 ? '' : 's'}`;
-			}, () => {
-				emptyEl.textContent = 'Search could not load. Please try again.';
-				emptyEl.style.display = '';
-				resultsContainer.style.display = 'none';
-				countEl.textContent = '';
-			});
-
-			const doSearch = () => {
-				const query = input.value.trim();
-				if (query) {
+			const doSearch = createSearchHandler(input, {
+				onQuery(query) {
 					const url = new URL(window.location.href);
-					url.searchParams.set('q', query);
-					history.replaceState(null, '', url.toString());
+					if (url.searchParams.get('q') !== query) {
+						url.searchParams.set('q', query);
+						history.replaceState(null, '', url);
+					}
 					document.querySelector<HTMLElement>('.category-grid')!.style.display = 'none';
 					document.querySelector<HTMLElement>('.clear-search')!.style.display = '';
-				}
-				search();
-			};
+				},
+				showResults(query, { entries, total }) {
+					if (!query) {
+						countEl.textContent = '';
+						showCategoryGrid();
+						return;
+					}
+					renderResults(resultsContainer, entries, query);
+					emptyEl.textContent = 'No results found.';
+					emptyEl.style.display = total === 0 ? '' : 'none';
+					resultsContainer.style.display = total === 0 ? 'none' : '';
+					countEl.textContent = `${total} result${total === 1 ? '' : 's'}`;
+				},
+				showLoadError() {
+					emptyEl.textContent = 'Search could not load. Please try again.';
+					emptyEl.style.display = '';
+					resultsContainer.style.display = 'none';
+					countEl.textContent = '';
+				},
+			});
 
 			input.addEventListener('focus', () => {
 				void preloadSearch().catch(() => {
@@ -151,8 +151,10 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 		if (grid) grid.style.display = '';
 		if (backBtn) backBtn.style.display = 'none';
 		const url = new URL(window.location.href);
-		url.searchParams.delete('q');
-		history.replaceState(null, '', url.toString());
+		if (url.searchParams.has('q')) {
+			url.searchParams.delete('q');
+			history.replaceState(null, '', url);
+		}
 	}
 
 	function setSearchQuery(query: string): void {

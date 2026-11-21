@@ -57,9 +57,7 @@ test("searches once for the latest text when the catalog finishes loading", asyn
 	const { createSearchHandler } = await import("./search.ts");
 	const input = { value: "cat" };
 	const showResults = vi.fn();
-	const onInput = createSearchHandler(input, showResults, () => {
-		throw new Error("Unexpected download failure");
-	});
+	const onInput = createSearchHandler(input, { showResults, showLoadError: vi.fn() });
 
 	onInput();
 	await vi.advanceTimersByTimeAsync(200);

@@ -145,12 +145,13 @@
 				}
 			});
 
-			const onInput = createSearchHandler(
-				input,
-				(query, { entries, total }) => renderResults(resultsList, entries, query, total),
-				() => { resultsList.innerHTML = '<div class="no-results">Search could not load. Please try again.</div>'; },
-				50,
-			);
+			const onInput = createSearchHandler(input, {
+				limit: 50,
+				showResults: (query, { entries, total }) => renderResults(resultsList, entries, query, total),
+				showLoadError() {
+					resultsList.innerHTML = '<div class="no-results">Search could not load. Please try again.</div>';
+				},
+			});
 
 			input.addEventListener('input', onInput);
 		}
