@@ -8,9 +8,9 @@
     "github_url": "https://github.com/davidondrej/cloudroom",
     "repo_full_name": "davidondrej/cloudroom",
     "description": "Cloud agents for any harness. Claude Code, Codex, Pi, and OpenCode run in isolated sandboxes, and live sessions move between your Mac and the cloud.",
-    "stars": 1794,
-    "forks": 315,
-    "open_issues": 77,
+    "stars": 1801,
+    "forks": 316,
+    "open_issues": 76,
     "topics": [
       "ai-agents",
       "background-agents",
@@ -34,7 +34,7 @@
     "archived": false,
     "created_at": "2026-09-17T18:56:56Z",
     "pushed_at": "2026-11-20T00:01:27Z",
-    "updated_at": "2026-11-20T00:50:02Z",
+    "updated_at": "2026-11-20T21:52:08Z",
     "size": 45526,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

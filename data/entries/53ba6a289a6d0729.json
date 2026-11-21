@@ -1,0 +1,20 @@
+{
+  "id": "YT_ctSJuvT85lA",
+  "name": "Pi Day by Day | Day 1 — Prove Which Pi You’re Running",
+  "url": "https://youtube.com/watch?v=ctSJuvT85lA",
+  "source": "youtube-search",
+  "description": "Install the Pi coding agent once and use command -v, which -a, and pi --version to check the executable your shell actually runs.",
+  "metadata": {
+    "title": "Pi Day by Day | Day 1 — Prove Which Pi You’re Running",
+    "name": "Pi Day by Day | Day 1 — Prove Which Pi You’re Running",
+    "description": "Install the Pi coding agent once and use command -v, which -a, and pi --version to check the executable your shell actually runs.",
+    "channel": "Rick Hightower",
+    "published_at": "2026-11-20T20:58:31Z",
+    "thumbnail": "https://i.ytimg.com/vi/ctSJuvT85lA/hqdefault.jpg",
+    "views": 4,
+    "likes": 0,
+    "comments": 0,
+    "discovery_hint": "youtube:pi-package"
+  },
+  "category": "video"
+}

@@ -10,7 +10,7 @@
     "description": "⚡ Pi, the coding agent, compiled ahead of time to one native executable. 10× faster to start, 7× less CPU and 4.5× less memory than Pi on Node. Linux, macOS, Windows, ARM64 and Android (Termux).",
     "stars": 851,
     "forks": 57,
-    "open_issues": 8,
+    "open_issues": 9,
     "topics": [
       "ahead-of-time",
       "ai-agent",
@@ -35,9 +35,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-02T18:35:24Z",
-    "pushed_at": "2026-11-13T20:15:32Z",
-    "updated_at": "2026-11-19T16:38:56Z",
-    "size": 148011,
+    "pushed_at": "2026-11-20T20:15:42Z",
+    "updated_at": "2026-11-20T18:26:01Z",
+    "size": 146434,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

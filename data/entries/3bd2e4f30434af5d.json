@@ -10,7 +10,7 @@
     "description": "Pithagoras — hosted web UI for the pi coding agent. Give it a task, close the browser, come back when it's done.",
     "stars": 317,
     "forks": 80,
-    "open_issues": 31,
+    "open_issues": 32,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

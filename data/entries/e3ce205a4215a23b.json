@@ -10,7 +10,7 @@
     "description": "Bridge WeChat messages to OMP/Pi — receive messages via the iLink Bot API, process with the AI engine, and reply automatically. Runs as an in-process extension with singleton port lock and boot-time auto-start.",
     "stars": 5,
     "forks": 1,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "oh-my-pi",
       "omp-extension",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-23T12:44:31Z",
-    "pushed_at": "2026-08-23T11:51:24Z",
+    "pushed_at": "2026-11-21T02:13:03Z",
     "updated_at": "2026-09-10T16:13:41Z",
-    "size": 254,
+    "size": 278,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

@@ -1,0 +1,30 @@
+{
+  "id": "pi-ollama",
+  "name": "pi-ollama",
+  "url": "https://www.npmjs.com/package/pi-ollama",
+  "source": "npm-search",
+  "description": "Native Ollama provider for the pi coding agent - per-request context size, overflow compaction, model thinking levels, prompt warm-up",
+  "metadata": {
+    "github_url": "https://github.com/CaptCanadaMan/pi-ollama",
+    "npm_name": "pi-ollama",
+    "description": "Native Ollama provider for the pi coding agent - per-request context size, overflow compaction, model thinking levels, prompt warm-up",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "ollama",
+      "llm",
+      "coding-agent",
+      "extension"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-11-20T20:36:17.049Z",
+    "npm_downloads_monthly": 530,
+    "npm_downloads_weekly": 93,
+    "npm_score_final": 18.432276,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "rafae2k-pi-qol",
+  "name": "rafae2k-pi-qol",
+  "url": "https://github.com/rafae2k/pi-qol",
+  "source": "github-search",
+  "description": "Quality-of-life extensions for the pi coding agent: pinned conversation summary, compact footer with session id, image paste with thumbnails.",
+  "metadata": {
+    "github_url": "https://github.com/rafae2k/pi-qol",
+    "repo_full_name": "rafae2k/pi-qol",
+    "description": "Quality-of-life extensions for the pi coding agent: pinned conversation summary, compact footer with session id, image paste with thumbnails.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "coding-agent",
+      "pi",
+      "pi-package",
+      "tui"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-20T10:15:30Z",
+    "pushed_at": "2026-11-20T10:23:13Z",
+    "updated_at": "2026-11-20T10:18:06Z",
+    "size": 453,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

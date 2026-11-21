@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Ran2424/transportx-agent",
     "repo_full_name": "Ran2424/transportx-agent",
     "description": "Open-source transportation AI agent harness powered by Pi, with GIS, agent skills, tool execution, traffic data analysis, and an interactive desktop workspace.",
-    "stars": 7,
+    "stars": 8,
     "forks": 4,
     "open_issues": 3,
     "topics": [
@@ -29,7 +29,7 @@
     "archived": false,
     "created_at": "2026-07-09T08:28:50Z",
     "pushed_at": "2026-11-14T07:43:49Z",
-    "updated_at": "2026-11-12T08:54:09Z",
+    "updated_at": "2026-11-20T07:25:10Z",
     "size": 138203,
     "license": "AGPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
