@@ -12,6 +12,7 @@ let index:
 
 const tokenize: (text: string) => string[] = MiniSearch.getDefault("tokenize");
 
+// Keep name matching and highlighting on MiniSearch's word boundaries so "agent-batch" highlights "Agent Batch".
 function queryTerms(query: string) {
 	return tokenize(query.toLowerCase()).filter(Boolean);
 }
