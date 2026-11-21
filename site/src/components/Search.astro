@@ -54,7 +54,7 @@
 </script>
 
 <script>
-	import { createHighlighter, preloadSearch, searchEntries, type SearchEntry } from "../lib/search";
+	import { createHighlighter, createSearchHandler, preloadSearch, type SearchEntry } from "../lib/search";
 	const CATEGORY_ICONS: Record<string, string> = {
 		extension: '🔌', theme: '🎨', video: '🎬', misc: '📦',
 	};
@@ -145,20 +145,12 @@
 				}
 			});
 
-			let debounceTimer: ReturnType<typeof setTimeout>;
-			const onInput = () => {
-				clearTimeout(debounceTimer);
-				debounceTimer = setTimeout(async () => {
-					const q = input.value;
-					try {
-						const { entries, total } = await searchEntries(q, 50);
-						if (input.value !== q) return;
-						renderResults(resultsList, entries, q, total);
-					} catch {
-						if (input.value === q) resultsList.innerHTML = '<div class="no-results">Search could not load. Please try again.</div>';
-					}
-				}, 150);
-			};
+			const onInput = createSearchHandler(
+				input,
+				(query, { entries, total }) => renderResults(resultsList, entries, query, total),
+				() => { resultsList.innerHTML = '<div class="no-results">Search could not load. Please try again.</div>'; },
+				50,
+			);
 
 			input.addEventListener('input', onInput);
 		}

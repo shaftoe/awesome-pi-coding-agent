@@ -3,12 +3,11 @@ import MiniSearch, { type SearchResult } from "minisearch";
 // Compact JSON keys: n=name, d=description, c=category, u=URL,
 // p=popularity label, t=topics/keywords.
 export type SearchEntry = { n: string; d: string; c: string; u: string; p: string; t?: string };
-let indexPromise:
-	| Promise<{
-			search: MiniSearch<SearchEntry>;
-			names: Array<{ entry: SearchEntry; name: string }>;
-	  }>
-	| undefined;
+type SearchIndex = {
+	search: MiniSearch<SearchEntry>;
+	names: Array<{ entry: SearchEntry; name: string }>;
+};
+let indexPromise: Promise<SearchIndex> | undefined;
 
 const tokenize: (text: string) => string[] = MiniSearch.getDefault("tokenize");
 
@@ -62,10 +61,12 @@ export function preloadSearch() {
 	return indexPromise;
 }
 
-/** Download once; subsequent matching, ranking and card data stay in memory. */
-export async function searchEntries(query: string, limit = Number.POSITIVE_INFINITY) {
+export function searchEntries(
+	{ search, names }: SearchIndex,
+	query: string,
+	limit = Number.POSITIVE_INFINITY,
+) {
 	if (!query.trim()) return { entries: [], total: 0 };
-	const { search, names } = await preloadSearch();
 	// MiniSearch's types do not encode the configured storeFields.
 	const results: SearchEntry[] = search.search(query) as (SearchResult & SearchEntry)[];
 	const terms = queryTerms(query);
@@ -81,4 +82,39 @@ export async function searchEntries(query: string, limit = Number.POSITIVE_INFIN
 	}
 	const entries = results.slice(0, limit);
 	return { entries, total: results.length };
+}
+
+export function createSearchHandler(
+	input: Pick<HTMLInputElement, "value">,
+	showResults: (query: string, results: ReturnType<typeof searchEntries>) => void,
+	showLoadError: () => void,
+	limit?: number,
+) {
+	let timer: ReturnType<typeof setTimeout>;
+	let waitingForIndex = false;
+
+	async function run() {
+		waitingForIndex = true;
+		let index: SearchIndex;
+		try {
+			index = await preloadSearch();
+		} catch {
+			if (input.value.trim()) showLoadError();
+			return;
+		} finally {
+			waitingForIndex = false;
+		}
+
+		const query = input.value.trim();
+		if (query) showResults(query, searchEntries(index, query, limit));
+	}
+
+	return () => {
+		clearTimeout(timer);
+		if (!input.value.trim()) {
+			showResults("", { entries: [], total: 0 });
+		} else if (!waitingForIndex) {
+			timer = setTimeout(run, 150);
+		}
+	};
 }
