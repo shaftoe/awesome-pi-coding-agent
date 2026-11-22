@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-agent-stack",
+  "name": "pi-agent-stack · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-agent-stack?name=nvidia",
+  "source": "brave-web-search",
+  "description": "A chartered project-manager agent plus the specialist team it delegates to: kernel/charter pm, pack-based intake interview, researcher, oracle, worker, and the ship-gate reviewers. Bundles the subagent runtime and the execution pipeline.Packages",
+  "metadata": {
+    "title": "pi-agent-stack · Packages · Pi",
+    "name": "pi-agent-stack · Packages · Pi",
+    "description": "A chartered project-manager agent plus the specialist team it delegates to: kernel/charter pm, pack-based intake interview, researcher, oracle, worker, and the ship-gate reviewers. Bundles the subagent runtime and the execution pipeline.Packages",
+    "published_at": "2026-09-25T13:18:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-agent-stack?name=nvidia",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

@@ -23,7 +23,7 @@
     "created_at": "2026-07-02T09:06:02Z",
     "pushed_at": "2026-11-21T03:24:25Z",
     "updated_at": "2026-11-14T13:04:05Z",
-    "size": 9096,
+    "size": 9128,
     "license": "AGPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

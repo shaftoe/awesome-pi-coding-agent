@@ -10,7 +10,7 @@
     "description": "A unified CLI and SDK for validating, installing, and managing AI agent bundles across multiple agent runtimes.",
     "stars": 6,
     "forks": 2,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "deepagents",
       "dify",

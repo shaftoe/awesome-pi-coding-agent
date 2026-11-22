@@ -9,8 +9,8 @@
     "repo_full_name": "ChmaraX/herdr-chat",
     "description": "A native chat for Pi, Claude Code and Codex in Herdr.",
     "stars": 24,
-    "forks": 9,
-    "open_issues": 11,
+    "forks": 10,
+    "open_issues": 6,
     "topics": [
       "claude-code",
       "codex",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-11-06T14:11:58Z",
-    "pushed_at": "2026-11-20T23:13:53Z",
+    "pushed_at": "2026-11-21T20:55:28Z",
     "updated_at": "2026-11-19T11:50:35Z",
-    "size": 3941,
+    "size": 3819,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

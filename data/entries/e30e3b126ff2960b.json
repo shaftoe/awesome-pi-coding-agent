@@ -10,7 +10,7 @@
     "description": "First-class local model support for pi through Ollama — reliable tools, context management, thinking controls, vision, warm-up, and telemetry.",
     "stars": 14,
     "forks": 6,
-    "open_issues": 3,
+    "open_issues": 0,
     "topics": [
       "extension",
       "llm-tools",
@@ -24,9 +24,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-01T16:45:01Z",
-    "pushed_at": "2026-10-26T19:41:32Z",
+    "pushed_at": "2026-11-20T21:23:23Z",
     "updated_at": "2026-11-15T16:58:15Z",
-    "size": 460,
+    "size": 624,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },

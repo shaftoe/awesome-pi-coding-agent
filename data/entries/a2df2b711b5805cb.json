@@ -1,0 +1,34 @@
+{
+  "id": "active-collab-agent",
+  "name": "active-collab-agent",
+  "url": "https://www.npmjs.com/package/active-collab-agent",
+  "source": "npm-search",
+  "description": "ActiveCollab for AI coding agents: gives OpenCode the ac MCP server and the active-collab skill, and Pi the active-collab skill",
+  "metadata": {
+    "github_url": "https://github.com/ejklock/active-collab-cli",
+    "npm_name": "active-collab-agent",
+    "description": "ActiveCollab for AI coding agents: gives OpenCode the ac MCP server and the active-collab skill, and Pi the active-collab skill",
+    "keywords": [
+      "pi-package",
+      "opencode",
+      "opencode-plugin",
+      "activecollab",
+      "mcp",
+      "model-context-protocol",
+      "ai-agent",
+      "skill",
+      "project-management",
+      "time-tracking"
+    ],
+    "version": "0.12.2",
+    "published_at": "2026-11-14T15:22:25.181Z",
+    "npm_downloads_monthly": 512,
+    "npm_downloads_weekly": 512,
+    "npm_score_final": 18.038645,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

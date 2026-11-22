@@ -8,7 +8,7 @@
     "github_url": "https://github.com/fitchmultz/pi-change-working-dir",
     "repo_full_name": "fitchmultz/pi-change-working-dir",
     "description": "Pi extension: let agents change their working directory mid-session (git worktrees, monorepos) — change_dir tool + /cwd command",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-08-02T03:25:01Z",
     "pushed_at": "2026-11-20T16:49:18Z",
-    "updated_at": "2026-11-11T20:48:35Z",
+    "updated_at": "2026-11-21T14:29:40Z",
     "size": 662,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
