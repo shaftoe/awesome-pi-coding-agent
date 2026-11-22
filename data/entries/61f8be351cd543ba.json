@@ -8,8 +8,8 @@
     "github_url": "https://github.com/YishenTu/ardi",
     "repo_full_name": "YishenTu/ardi",
     "description": "Pi, in your Ardia's side panel: a chat panel that runs your local Pi coding agent in the Ardia browser.",
-    "stars": 4,
-    "forks": 0,
+    "stars": 5,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "agent",
@@ -27,7 +27,7 @@
     "archived": false,
     "created_at": "2026-10-28T09:36:00Z",
     "pushed_at": "2026-11-19T02:54:03Z",
-    "updated_at": "2026-11-19T01:24:23Z",
+    "updated_at": "2026-11-21T13:32:28Z",
     "size": 792,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
