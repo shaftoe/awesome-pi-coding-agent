@@ -1,0 +1,25 @@
+{
+  "id": "@scriptdude/pi-promptimize",
+  "name": "@scriptdude/pi-promptimize",
+  "url": "https://www.npmjs.com/package/@scriptdude/pi-promptimize",
+  "source": "npm-search",
+  "description": "/promptimize for the pi coding agent: turn a rough prompt into an optimized one (small, medium or large) in a popup, after a short interview",
+  "metadata": {
+    "github_url": "https://github.com/dimitritholen/pi-promptimize",
+    "npm_name": "@scriptdude/pi-promptimize",
+    "description": "/promptimize for the pi coding agent: turn a rough prompt into an optimized one (small, medium or large) in a popup, after a short interview",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.2.0",
+    "published_at": "2026-11-15T12:31:48.785Z",
+    "npm_downloads_monthly": 295,
+    "npm_downloads_weekly": 295,
+    "npm_score_final": 16.06823,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

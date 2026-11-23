@@ -1,0 +1,34 @@
+{
+  "id": "apiko-skills",
+  "name": "apiko-skills",
+  "url": "https://www.npmjs.com/package/apiko-skills",
+  "source": "npm-search",
+  "description": "Agent skills for APIKO (apiko.app): generate and edit images and generate videos (Nano Banana, GPT Image, Seedream, Wan 3.0, Seedance) from Pi, Claude Code and other agents that read SKILL.md.",
+  "metadata": {
+    "github_url": "https://github.com/tong0619453646-dev/apiko-ai-api-examples",
+    "npm_name": "apiko-skills",
+    "description": "Agent skills for APIKO (apiko.app): generate and edit images and generate videos (Nano Banana, GPT Image, Seedream, Wan 3.0, Seedance) from Pi, Claude Code and other agents that read SKILL.md.",
+    "keywords": [
+      "pi-package",
+      "agent-skills",
+      "skill",
+      "apiko",
+      "image-generation",
+      "video-generation",
+      "nano-banana",
+      "wan",
+      "seedance",
+      "claude-code"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-15T09:43:20.820Z",
+    "npm_downloads_monthly": 351,
+    "npm_downloads_weekly": 351,
+    "npm_score_final": 16.623278,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

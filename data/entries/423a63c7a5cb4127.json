@@ -8,7 +8,7 @@
     "github_url": "https://github.com/pi-pod/pipod",
     "repo_full_name": "pi-pod/pipod",
     "description": "pi pod: run pi coding-agent sessions in remote sandboxes, on a server you run yourself",
-    "stars": 167,
+    "stars": 168,
     "forks": 5,
     "open_issues": 13,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-10-01T18:44:18Z",
     "pushed_at": "2026-11-20T19:20:39Z",
-    "updated_at": "2026-11-19T15:44:47Z",
+    "updated_at": "2026-11-22T10:59:41Z",
     "size": 14275,
     "license": "AGPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

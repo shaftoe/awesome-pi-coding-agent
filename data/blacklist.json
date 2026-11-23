@@ -72217,5 +72217,215 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-package"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=nklorzvhVdI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-23T03:45:49.74Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ZypU01dhE2E",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-23T03:45:49.823Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=FhToedO8UpM",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-23T03:45:49.937Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/rp-factory",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-23T03:45:50.056Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=aEbkp4bD5wo",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-11-23T03:45:50.083Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=SOBlZuutxu4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-23T03:45:50.12Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@citie114514/pi-connect-ourfreemodel",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-23T03:45:50.141Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=62U3x_6IH60",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-23T03:45:50.157Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/corelli18512/kraki",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-23T03:45:50.237Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=vvuYR0-QaJA",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-23T03:45:50.251Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=Ex2AaKvGoow",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-23T03:45:50.332Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=nqzScWsG4Ew",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-11-23T03:45:50.376Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-agent"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/@fenlyin/pi-roleplay",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-23T03:45:50.447Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=L6vXAz-FAbQ",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-23T03:45:50.462Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/Chasen-Liao/pi-visualizer",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-23T03:45:50.477Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=GYAqLVyxuls",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-23T03:45:50.512Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://github.com/quangtiss/omp-custom",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-11-23T03:45:50.531Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-theme language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=LG7JBynffzI",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-23T03:45:50.562Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=BDdy1MamCfE",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-23T03:45:50.654Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://github.com/the-snowpear/omp-studio",
+		"reason": "non-compatible fork signal: \"oh-my-pi\"",
+		"blacklisted_at": "2026-11-23T03:45:50.751Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=FUu8IfUdu1s",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-23T03:45:50.809Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
 	}
 ]

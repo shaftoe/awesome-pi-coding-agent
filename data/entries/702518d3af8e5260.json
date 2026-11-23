@@ -1,0 +1,25 @@
+{
+  "id": "@hex4c59/pi-ext-zed-integration",
+  "name": "@hex4c59/pi-ext-zed-integration",
+  "url": "https://www.npmjs.com/package/@hex4c59/pi-ext-zed-integration",
+  "source": "npm-search",
+  "description": "Show Pi run states in Zed and send terminal bell notifications when runs settle.",
+  "metadata": {
+    "github_url": "https://github.com/Hex4C59/my-pi-extensions",
+    "npm_name": "@hex4c59/pi-ext-zed-integration",
+    "description": "Show Pi run states in Zed and send terminal bell notifications when runs settle.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-15T12:01:17.059Z",
+    "npm_downloads_monthly": 465,
+    "npm_downloads_weekly": 220,
+    "npm_score_final": 17.107626,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

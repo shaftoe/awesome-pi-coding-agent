@@ -1,0 +1,29 @@
+{
+  "id": "@fenlyin/pi-self-compaction",
+  "name": "@fenlyin/pi-self-compaction",
+  "url": "https://www.npmjs.com/package/@fenlyin/pi-self-compaction",
+  "source": "npm-search",
+  "description": "Pi extension: let the model see its context usage and compact on its own schedule instead of waiting for Pi's forced threshold compaction",
+  "metadata": {
+    "github_url": "https://github.com/fenlyin0420/pi-self-compaction",
+    "npm_name": "@fenlyin/pi-self-compaction",
+    "description": "Pi extension: let the model see its context usage and compact on its own schedule instead of waiting for Pi's forced threshold compaction",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "compaction",
+      "context"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-22T15:24:29.841Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

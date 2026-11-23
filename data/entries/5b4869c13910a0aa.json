@@ -1,0 +1,31 @@
+{
+  "id": "@fenlyin/pi-launch-picker",
+  "name": "@fenlyin/pi-launch-picker",
+  "url": "https://www.npmjs.com/package/@fenlyin/pi-launch-picker",
+  "source": "npm-search",
+  "description": "Pi extension: pick active tools, a system prompt preset and saved profiles before the conversation starts — from the TUI, a CLI flag, or RPC.",
+  "metadata": {
+    "github_url": "https://github.com/fenlyin0420/pi-launch-picker",
+    "npm_name": "@fenlyin/pi-launch-picker",
+    "description": "Pi extension: pick active tools, a system prompt preset and saved profiles before the conversation starts — from the TUI, a CLI flag, or RPC.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "launch",
+      "profile",
+      "system-prompt",
+      "tools"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-22T15:24:53.182Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

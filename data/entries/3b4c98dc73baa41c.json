@@ -8,8 +8,8 @@
     "github_url": "https://github.com/vastsa/PI-Desktop",
     "repo_full_name": "vastsa/PI-Desktop",
     "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-    "stars": 8119,
-    "forks": 799,
+    "stars": 8153,
+    "forks": 803,
     "open_issues": 264,
     "topics": [
       "ai-agent",
@@ -31,9 +31,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2023-03-22T14:23:39Z",
-    "pushed_at": "2026-11-21T15:35:47Z",
-    "updated_at": "2026-11-22T02:01:38Z",
-    "size": 225979,
+    "pushed_at": "2026-11-23T03:20:20Z",
+    "updated_at": "2026-11-23T03:13:41Z",
+    "size": 226576,
     "license": "LGPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
