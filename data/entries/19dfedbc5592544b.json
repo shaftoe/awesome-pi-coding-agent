@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Open-source CLI to back up a Supabase project to your own S3/R2/B2 bucket (the Postgres database, Auth users when your role can read them, and Storage files once you add the project's Storage S3 keys), then run a restore drill that proves the backup resto",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/backupdrill/cli",
     "npm_name": "backupdrill",
     "description": "Open-source CLI to back up a Supabase project to your own S3/R2/B2 bucket (the Postgres database, Auth users when your role can read them, and Storage files once you add the project's Storage S3 keys), then run a restore drill that proves the backup resto",
@@ -30,11 +31,10 @@
     "published_at": "2026-11-21T15:36:46.672Z",
     "npm_downloads_monthly": 3627,
     "npm_downloads_weekly": 283,
-    "npm_score_final": 23.765387,
+    "npm_score_final": 23.54004,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

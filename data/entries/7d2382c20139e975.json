@@ -1,0 +1,26 @@
+{
+  "id": "@celljs/ta-edu",
+  "name": "@celljs/ta-edu",
+  "url": "https://www.npmjs.com/package/@celljs/ta-edu",
+  "source": "npm-search",
+  "description": "A pi package for Ta: school education, an assistant for students, parents, teachers and class teachers, question cards with spaced review of mistakes",
+  "metadata": {
+    "github_url": "https://github.com/cellbang/cell",
+    "npm_name": "@celljs/ta-edu",
+    "description": "A pi package for Ta: school education, an assistant for students, parents, teachers and class teachers, question cards with spaced review of mistakes",
+    "keywords": [
+      "pi-package",
+      "ta-industry"
+    ],
+    "version": "4.30.0",
+    "published_at": "2026-11-23T02:11:20.668Z",
+    "npm_downloads_monthly": 583,
+    "npm_downloads_weekly": 583,
+    "npm_score_final": 18.24644,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "@traceai/pi-plugin",
+  "name": "@traceai/pi-plugin",
+  "url": "https://www.npmjs.com/package/@traceai/pi-plugin",
+  "source": "npm-search",
+  "description": "Native Pi extension for Future AGI turn, model and tool tracing",
+  "metadata": {
+    "github_url": "https://github.com/future-agi/traceAI",
+    "npm_name": "@traceai/pi-plugin",
+    "description": "Native Pi extension for Future AGI turn, model and tool tracing",
+    "keywords": [
+      "pi-package",
+      "futureagi",
+      "tracing",
+      "opentelemetry"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-08T09:49:05.692Z",
+    "npm_downloads_monthly": 248,
+    "npm_downloads_weekly": 25,
+    "npm_score_final": 15.654273,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

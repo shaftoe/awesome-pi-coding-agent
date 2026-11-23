@@ -1,0 +1,27 @@
+{
+  "id": "@fenlyin/pi-computer-use-linux",
+  "name": "@fenlyin/pi-computer-use-linux",
+  "url": "https://www.npmjs.com/package/@fenlyin/pi-computer-use-linux",
+  "source": "npm-search",
+  "description": "Linux-only Pi extension: computer-use on a dedicated Xvfb virtual desktop — screenshot, mouse, keyboard, window and app control, never touching your real desktop",
+  "metadata": {
+    "github_url": "https://github.com/fenlyin0420/pi-computer-use-linux",
+    "npm_name": "@fenlyin/pi-computer-use-linux",
+    "description": "Linux-only Pi extension: computer-use on a dedicated Xvfb virtual desktop — screenshot, mouse, keyboard, window and app control, never touching your real desktop",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-22T15:24:35.454Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

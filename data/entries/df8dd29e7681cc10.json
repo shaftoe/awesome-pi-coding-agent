@@ -10,7 +10,7 @@
     "description": "A durable process per agent, with memory that survives restarts",
     "stars": 1652,
     "forks": 143,
-    "open_issues": 102,
+    "open_issues": 103,
     "topics": [
       "actor-model",
       "agent-sdk",

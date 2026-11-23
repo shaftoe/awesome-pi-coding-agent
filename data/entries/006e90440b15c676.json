@@ -10,7 +10,7 @@
     "description": "Make Headroom! Managed Headroom context compression for Pi: pinned Python venv, lazy setup, no npm dependencies.",
     "stars": 2,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "context-compression",
       "headroom",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-11-07T11:04:02Z",
-    "pushed_at": "2026-11-18T17:09:58Z",
+    "pushed_at": "2026-11-22T11:20:17Z",
     "updated_at": "2026-11-16T23:05:16Z",
-    "size": 259,
+    "size": 277,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

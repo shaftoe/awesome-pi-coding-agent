@@ -1,0 +1,29 @@
+{
+  "id": "pi-cortex",
+  "name": "pi-cortex",
+  "url": "https://www.npmjs.com/package/pi-cortex",
+  "source": "npm-search",
+  "description": "Cortex memory for pi: saves and recalls what the agent learns, consolidates it when pi compacts, and dreams nightly. Built for long-lived sessions such as pi-durable.",
+  "metadata": {
+    "github_url": "https://github.com/thrashr888/cortex",
+    "npm_name": "pi-cortex",
+    "description": "Cortex memory for pi: saves and recalls what the agent learns, consolidates it when pi compacts, and dreams nightly. Built for long-lived sessions such as pi-durable.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "memory",
+      "cortex",
+      "sqlite"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-16T01:06:42.800Z",
+    "npm_downloads_monthly": 366,
+    "npm_downloads_weekly": 366,
+    "npm_score_final": 16.71542,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -5,7 +5,6 @@
   "source": "npm-search",
   "description": "Parse and extract code intelligence from 371 programming languages with tree-sitter — structure, imports, symbols, and syntax-aware chunking.",
   "metadata": {
-    "pi_declares_extension": true,
     "github_url": "https://github.com/xberg-io/tree-sitter-language-pack",
     "npm_name": "@xberg-io/opencode-tree-sitter-language-pack",
     "description": "Parse and extract code intelligence from 371 programming languages with tree-sitter — structure, imports, symbols, and syntax-aware chunking.",
@@ -17,14 +16,15 @@
       "static-analysis",
       "tree-sitter"
     ],
-    "version": "1.27.0",
-    "published_at": "2026-11-16T13:36:26.380Z",
-    "npm_downloads_monthly": 2223,
-    "npm_downloads_weekly": 526,
-    "npm_score_final": 22.785397,
+    "version": "1.27.1",
+    "published_at": "2026-11-22T22:14:05.726Z",
+    "npm_downloads_monthly": 2331,
+    "npm_downloads_weekly": 669,
+    "npm_score_final": 22.635023,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

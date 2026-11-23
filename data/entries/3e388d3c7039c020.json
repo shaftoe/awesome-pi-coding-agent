@@ -1,0 +1,37 @@
+{
+  "id": "azmainadel-pi-lockbox",
+  "name": "azmainadel-pi-lockbox",
+  "url": "https://github.com/azmainadel/pi-lockbox",
+  "source": "github-search",
+  "description": "Give pi secrets without sending them to the model: a masked secret prompt, a paste guard, and output redaction",
+  "metadata": {
+    "github_url": "https://github.com/azmainadel/pi-lockbox",
+    "repo_full_name": "azmainadel/pi-lockbox",
+    "description": "Give pi secrets without sending them to the model: a masked secret prompt, a paste guard, and output redaction",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "llm",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "redaction",
+      "secret-management",
+      "secrets",
+      "security",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-20T14:38:43Z",
+    "pushed_at": "2026-11-20T14:43:23Z",
+    "updated_at": "2026-11-22T07:49:59Z",
+    "size": 34,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

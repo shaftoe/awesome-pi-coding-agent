@@ -1,0 +1,25 @@
+{
+  "id": "@saburto/pi-notify-fullscreen",
+  "name": "@saburto/pi-notify-fullscreen",
+  "url": "https://www.npmjs.com/package/@saburto/pi-notify-fullscreen",
+  "source": "npm-search",
+  "description": "Fullscreen notifications for [pi coding agent](https://github.com/earendil-works/pi), powered by [notify-fullscreen](https://github.com/saburto/notify-fullscreen) — a dimmed full-screen overlay that stays until you dismiss it, so you notice when pi needs",
+  "metadata": {
+    "github_url": "https://github.com/saburto/extensions",
+    "npm_name": "@saburto/pi-notify-fullscreen",
+    "description": "Fullscreen notifications for [pi coding agent](https://github.com/earendil-works/pi), powered by [notify-fullscreen](https://github.com/saburto/notify-fullscreen) — a dimmed full-screen overlay that stays until you dismiss it, so you notice when pi needs ",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-15T19:09:41.655Z",
+    "npm_downloads_monthly": 320,
+    "npm_downloads_weekly": 320,
+    "npm_score_final": 16.5203,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

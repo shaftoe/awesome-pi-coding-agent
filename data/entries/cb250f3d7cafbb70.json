@@ -10,7 +10,7 @@
     "description": "The web, from your terminal. Search, extract pages, get grounded answers, and run deep research with your choice of providers. CLI, TypeScript library, and Pi extension.",
     "stars": 94,
     "forks": 16,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "ai-tools",
       "cli",
@@ -28,9 +28,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-03-09T08:17:35Z",
-    "pushed_at": "2026-11-06T09:46:02Z",
+    "pushed_at": "2026-11-22T20:09:36Z",
     "updated_at": "2026-11-09T05:45:26Z",
-    "size": 2080,
+    "size": 1570,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

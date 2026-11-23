@@ -1,0 +1,31 @@
+{
+  "id": "roundtable-k8s-pi-knight",
+  "name": "roundtable-k8s-pi-knight",
+  "url": "https://github.com/roundtable-k8s/pi-knight",
+  "source": "github-search",
+  "description": "Default knight runtime for the Round Table, built on the Pi coding-agent SDK",
+  "metadata": {
+    "github_url": "https://github.com/roundtable-k8s/pi-knight",
+    "repo_full_name": "roundtable-k8s/pi-knight",
+    "description": "Default knight runtime for the Round Table, built on the Pi coding-agent SDK",
+    "stars": 5,
+    "forks": 1,
+    "open_issues": 13,
+    "topics": [
+      "agent-runtime",
+      "ai-agents",
+      "kubernetes",
+      "nats",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-02-23T21:52:47Z",
+    "pushed_at": "2026-11-23T00:05:33Z",
+    "updated_at": "2026-11-22T20:04:49Z",
+    "size": 460,
+    "license": "Apache-2.0",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}
