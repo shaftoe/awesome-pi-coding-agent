@@ -1,0 +1,25 @@
+{
+  "id": "@steveimm/pi-better-ui",
+  "name": "@steveimm/pi-better-ui",
+  "url": "https://www.npmjs.com/package/@steveimm/pi-better-ui",
+  "source": "npm-search",
+  "description": "Sticky user prompts and response timing for Pi",
+  "metadata": {
+    "github_url": "https://github.com/steveimm/pi-ext-collection",
+    "npm_name": "@steveimm/pi-better-ui",
+    "description": "Sticky user prompts and response timing for Pi",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-16T13:21:03.162Z",
+    "npm_downloads_monthly": 280,
+    "npm_downloads_weekly": 280,
+    "npm_score_final": 15.781194,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

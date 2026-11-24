@@ -9,7 +9,7 @@
     "repo_full_name": "mentalfl0w/omp-wechat",
     "description": "Bridge WeChat messages to OMP/Pi — receive messages via the iLink Bot API, process with the AI engine, and reply automatically. Runs as an in-process extension with singleton port lock and boot-time auto-start.",
     "stars": 5,
-    "forks": 1,
+    "forks": 2,
     "open_issues": 0,
     "topics": [
       "oh-my-pi",

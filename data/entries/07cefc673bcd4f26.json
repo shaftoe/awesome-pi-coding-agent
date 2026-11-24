@@ -3,12 +3,11 @@
   "name": "@iiiokojiadbi/shift",
   "url": "https://www.npmjs.com/package/@iiiokojiadbi/shift",
   "source": "npm-search",
-  "description": "The agent decides by itself when to shift: it keeps a work board and task folders, writes a letter to itself, and continues from where it stopped.",
+  "description": "The agent decides by itself when to shift: it keeps a work board, writes a letter to itself, and continues from where it stopped.",
   "metadata": {
-    "pi_declares_extension": true,
     "github_url": "https://github.com/iiiokojiadbi/shift",
     "npm_name": "@iiiokojiadbi/shift",
-    "description": "The agent decides by itself when to shift: it keeps a work board and task folders, writes a letter to itself, and continues from where it stopped.",
+    "description": "The agent decides by itself when to shift: it keeps a work board, writes a letter to itself, and continues from where it stopped.",
     "keywords": [
       "pi-package",
       "opencode-plugin",
@@ -19,14 +18,15 @@
       "memory",
       "handoff"
     ],
-    "version": "0.40.0",
-    "published_at": "2026-11-20T11:58:35.373Z",
-    "npm_downloads_monthly": 2650,
-    "npm_downloads_weekly": 426,
-    "npm_score_final": 22.710472,
+    "version": "0.41.1",
+    "published_at": "2026-11-23T09:50:04.511Z",
+    "npm_downloads_monthly": 3544,
+    "npm_downloads_weekly": 1072,
+    "npm_score_final": 23.511284,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

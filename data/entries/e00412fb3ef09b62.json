@@ -1,0 +1,27 @@
+{
+  "id": "@rawmodels/pi",
+  "name": "@rawmodels/pi",
+  "url": "https://www.npmjs.com/package/@rawmodels/pi",
+  "source": "npm-search",
+  "description": "RawModels for the pi coding agent: /login rawmodels and go.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@rawmodels/pi",
+    "description": "RawModels for the pi coding agent: /login rawmodels and go.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "rawmodels"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-16T12:36:08.013Z",
+    "npm_downloads_monthly": 441,
+    "npm_downloads_weekly": 441,
+    "npm_score_final": 17.910942,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

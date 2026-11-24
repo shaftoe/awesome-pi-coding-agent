@@ -72427,5 +72427,165 @@
 			"sourceName": "youtube",
 			"query": "youtube:pi-package"
 		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=fdlpzhVUW0M",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-24T06:59:15.777Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/karlis-vagalis/kompi",
+		"reason": "covered by dedicated source: github.com",
+		"blacklisted_at": "2026-11-24T06:59:15.871Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "hackernews",
+			"query": "hackernews:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=3kmmS7TlS1g",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-24T06:59:15.917Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=ae-dggO0ars",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-11-24T06:59:15.973Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=9z1wH-2nQw4",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-24T06:59:15.987Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://github.com/xsec777/PiX-Agent",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-24T06:59:16.071Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-agent language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-memory-panel",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-24T06:59:16.105Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-coding-agent"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=HgRcepNCIhg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-24T06:59:16.148Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=OVGyrX_AfCY",
+		"reason": "raspberry pi signal: \"raspberry\"",
+		"blacklisted_at": "2026-11-24T06:59:16.165Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-package"
+		}
+	},
+	{
+		"url": "https://youtube.com/watch?v=bXbmkRC-lcg",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-24T06:59:16.219Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "youtube",
+			"query": "youtube:pi-theme"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pop-agent",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-24T06:59:16.284Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-agent"
+		}
+	},
+	{
+		"url": "https://github.com/acoyfellow/pi-legible",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-24T06:59:16.303Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://github.com/saifymatteo/pi-orchestrator",
+		"reason": "no positive Pi coding agent signal",
+		"blacklisted_at": "2026-11-24T06:59:16.371Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "github",
+			"query": "github-repo:pi-package language:TypeScript"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-provider-xhx",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-24T06:59:16.437Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
+	},
+	{
+		"url": "https://www.ctan.org/pkg/pi",
+		"reason": "blocked name: pi",
+		"blacklisted_at": "2026-11-24T06:59:16.447Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "brave",
+			"query": "brave:pi-package"
+		}
+	},
+	{
+		"url": "https://www.npmjs.com/package/pi-provider-hub-multi",
+		"reason": "non-english language",
+		"blacklisted_at": "2026-11-24T06:59:16.47Z",
+		"source": "filter",
+		"discovery": {
+			"sourceName": "npm",
+			"query": "npm:keywords:pi-package"
+		}
 	}
 ]

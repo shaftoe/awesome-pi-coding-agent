@@ -1,0 +1,29 @@
+{
+  "id": "@geohar/pi-bun-reload",
+  "name": "@geohar/pi-bun-reload",
+  "url": "https://www.npmjs.com/package/@geohar/pi-bun-reload",
+  "source": "npm-search",
+  "description": "Makes pi's /reload load extension code fresh from disk when pi runs under bun.",
+  "metadata": {
+    "github_url": "https://github.com/georgeharker/pi-bun-reload",
+    "npm_name": "@geohar/pi-bun-reload",
+    "description": "Makes pi's /reload load extension code fresh from disk when pi runs under bun.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "bun",
+      "reload"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-11-23T06:02:17.403Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

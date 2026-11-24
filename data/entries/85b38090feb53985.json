@@ -1,0 +1,25 @@
+{
+  "id": "@hex4c59/pi-ext-subagents",
+  "name": "@hex4c59/pi-ext-subagents",
+  "url": "https://www.npmjs.com/package/@hex4c59/pi-ext-subagents",
+  "source": "npm-search",
+  "description": "Persistent, role-based Pi subagents with controlled parallel execution.",
+  "metadata": {
+    "github_url": "https://github.com/Hex4C59/my-pi-extensions",
+    "npm_name": "@hex4c59/pi-ext-subagents",
+    "description": "Persistent, role-based Pi subagents with controlled parallel execution.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-11-24T05:27:26.000Z",
+    "npm_downloads_monthly": 397,
+    "npm_downloads_weekly": 214,
+    "npm_score_final": 17.042173,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

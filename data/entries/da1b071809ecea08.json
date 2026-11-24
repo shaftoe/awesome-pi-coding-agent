@@ -10,7 +10,7 @@
     "description": "A GUI for managing multiple AI coding agent sessions across projects — Pi, Claude, Codex, Gemini, GitHub Copilot, Aider, OpenCode, and more.",
     "stars": 11,
     "forks": 1,
-    "open_issues": 25,
+    "open_issues": 23,
     "topics": [
       "ai",
       "claude",
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-01T22:57:37Z",
-    "pushed_at": "2026-11-23T03:21:02Z",
+    "pushed_at": "2026-11-23T16:41:59Z",
     "updated_at": "2026-11-15T19:48:01Z",
-    "size": 40875,
+    "size": 40862,
     "license": "GPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

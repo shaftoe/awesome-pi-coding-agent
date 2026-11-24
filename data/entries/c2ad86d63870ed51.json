@@ -1,0 +1,25 @@
+{
+  "id": "@pi-ko/tasks",
+  "name": "@pi-ko/tasks",
+  "url": "https://www.npmjs.com/package/@pi-ko/tasks",
+  "source": "npm-search",
+  "description": "Independent pi extension: tasks",
+  "metadata": {
+    "github_url": "https://github.com/KabaevRoman/pi-tasks",
+    "npm_name": "@pi-ko/tasks",
+    "description": "Independent pi extension: tasks",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.6.7",
+    "published_at": "2026-11-23T19:55:42.346Z",
+    "npm_downloads_monthly": 455,
+    "npm_downloads_weekly": 455,
+    "npm_score_final": 16.954494,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

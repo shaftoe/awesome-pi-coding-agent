@@ -1,0 +1,42 @@
+{
+  "id": "pi-verdict-staged",
+  "name": "pi-verdict-staged",
+  "url": "https://www.npmjs.com/package/pi-verdict-staged",
+  "source": "npm-search",
+  "description": "Staged permission gate for pi: local LANCET-Nano triage plus a session-aware model adjudicator, inspired by Claude Code's auto mode",
+  "metadata": {
+    "github_url": "https://github.com/alfiwillianz/pi-verdict-staged",
+    "npm_name": "pi-verdict-staged",
+    "description": "Staged permission gate for pi: local LANCET-Nano triage plus a session-aware model adjudicator, inspired by Claude Code's auto mode",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "extension",
+      "pi-coding-agent",
+      "auto-mode",
+      "automode",
+      "permissions",
+      "security",
+      "tool-call",
+      "classifier",
+      "ai-agent",
+      "jev",
+      "typesafe",
+      "system-one",
+      "decisions",
+      "lancet",
+      "onnx"
+    ],
+    "version": "0.16.0-pvs.3",
+    "published_at": "2026-11-23T16:04:54.174Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

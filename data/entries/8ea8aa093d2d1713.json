@@ -1,0 +1,25 @@
+{
+  "id": "@vinciwu557/pi-subagent",
+  "name": "@vinciwu557/pi-subagent",
+  "url": "https://www.npmjs.com/package/@vinciwu557/pi-subagent",
+  "source": "npm-search",
+  "description": "Observable, persistent Pi subagents for independent reviews, investigations, and delegated implementation",
+  "metadata": {
+    "github_url": "https://github.com/VinciWu557/pi-subagent",
+    "npm_name": "@vinciwu557/pi-subagent",
+    "description": "Observable, persistent Pi subagents for independent reviews, investigations, and delegated implementation",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.4",
+    "published_at": "2026-11-23T08:00:14.058Z",
+    "npm_downloads_monthly": 743,
+    "npm_downloads_weekly": 743,
+    "npm_score_final": 19.051594,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

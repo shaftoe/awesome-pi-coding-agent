@@ -1,0 +1,32 @@
+{
+  "id": "acp-pi",
+  "name": "acp-pi",
+  "url": "https://www.npmjs.com/package/acp-pi",
+  "source": "npm-search",
+  "description": "Agent Client Protocol server for Pi: lets any ACP client drive a Pi agent over RPC",
+  "metadata": {
+    "github_url": "https://github.com/nelsonacos/acp-pi",
+    "npm_name": "acp-pi",
+    "description": "Agent Client Protocol server for Pi: lets any ACP client drive a Pi agent over RPC",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "gentle-shell",
+      "acp",
+      "agent-client-protocol",
+      "agent",
+      "bridge"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-11-17T03:39:34.508Z",
+    "npm_downloads_monthly": 499,
+    "npm_downloads_weekly": 499,
+    "npm_score_final": 17.592535,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "pi_declares_extension": false,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

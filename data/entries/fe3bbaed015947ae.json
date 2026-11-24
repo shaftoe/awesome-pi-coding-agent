@@ -8,7 +8,7 @@
     "github_url": "https://github.com/WGooold/Orbis",
     "repo_full_name": "WGooold/Orbis",
     "description": "Easy Agents Everywhere — remote control Claude Code, Codex, Codex Desktop, Pi and DeepSeek from your phone. Windows/macOS Host, iOS/Android App, self-hostable Relay.",
-    "stars": 27,
+    "stars": 28,
     "forks": 6,
     "open_issues": 46,
     "topics": [
@@ -29,7 +29,7 @@
     "archived": false,
     "created_at": "2026-09-23T10:34:30Z",
     "pushed_at": "2026-11-22T16:12:56Z",
-    "updated_at": "2026-11-19T13:49:04Z",
+    "updated_at": "2026-11-23T04:21:29Z",
     "size": 43972,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
