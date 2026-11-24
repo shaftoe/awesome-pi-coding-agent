@@ -1,0 +1,33 @@
+{
+  "id": "pi-webui-panel",
+  "name": "pi-webui-panel",
+  "url": "https://www.npmjs.com/package/pi-webui-panel",
+  "source": "npm-search",
+  "description": "Codex-style web UI for pi — browse, fork and drive your pi sessions from a browser",
+  "metadata": {
+    "github_url": "https://github.com/chenminghuan-cn/pi-web",
+    "npm_name": "pi-webui-panel",
+    "description": "Codex-style web UI for pi — browse, fork and drive your pi sessions from a browser",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "web-ui",
+      "codex",
+      "session-browser",
+      "coding-agent",
+      "websocket",
+      "sqlite"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-11-23T14:04:13.888Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

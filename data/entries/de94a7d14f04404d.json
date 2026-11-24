@@ -1,0 +1,25 @@
+{
+  "id": "uta-a-pi-cc-style",
+  "name": "uta-a-pi-cc-style",
+  "url": "https://github.com/uta-a/pi-cc-style",
+  "source": "github-search",
+  "description": "Claude Code 2.1.330 look and UI behaviour for pi: theme, welcome banner, messages, thinking, tool rows, diffs, spinner, prompt box, interrupts and turn summary",
+  "metadata": {
+    "github_url": "https://github.com/uta-a/pi-cc-style",
+    "repo_full_name": "uta-a/pi-cc-style",
+    "description": "Claude Code 2.1.330 look and UI behaviour for pi: theme, welcome banner, messages, thinking, tool rows, diffs, spinner, prompt box, interrupts and turn summary",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-24T05:23:31Z",
+    "pushed_at": "2026-11-24T06:17:52Z",
+    "updated_at": "2026-11-24T05:23:44Z",
+    "size": 118,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

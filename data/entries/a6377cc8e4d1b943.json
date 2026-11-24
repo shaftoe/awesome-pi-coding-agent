@@ -9,8 +9,8 @@
     "repo_full_name": "deepu105/pi-automode-classifier",
     "description": "Claude Code like auto mode for Pi: each tool call goes through rules, an optional classifier, then a chat model that reads your messages",
     "stars": 16,
-    "forks": 3,
-    "open_issues": 1,
+    "forks": 4,
+    "open_issues": 2,
     "topics": [
       "coding-agent",
       "guardrails",
@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-08T09:00:33Z",
-    "pushed_at": "2026-11-05T08:34:08Z",
+    "pushed_at": "2026-11-23T18:38:13Z",
     "updated_at": "2026-11-15T10:42:50Z",
-    "size": 789,
+    "size": 438,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

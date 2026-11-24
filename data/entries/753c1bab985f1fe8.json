@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Typed Power BI Report Server REST API v2.0 client and read-only pi extension",
   "metadata": {
-    "github_url": "https://github.com/narumiruna/pi-pbirs",
+    "github_url": "https://github.com/narumiruna/pbirs-ts",
     "npm_name": "pbirs",
     "description": "Typed Power BI Report Server REST API v2.0 client and read-only pi extension",
     "keywords": [
@@ -13,11 +13,11 @@
       "power-bi-report-server",
       "pbirs"
     ],
-    "version": "0.0.0",
-    "published_at": "2026-09-18T16:07:42.322Z",
-    "npm_downloads_monthly": 654,
-    "npm_downloads_weekly": 128,
-    "npm_score_final": 18.614517,
+    "version": "0.0.1",
+    "published_at": "2026-11-23T11:30:18.931Z",
+    "npm_downloads_monthly": 642,
+    "npm_downloads_weekly": 172,
+    "npm_score_final": 18.413828,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

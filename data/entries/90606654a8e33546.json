@@ -1,0 +1,32 @@
+{
+  "id": "roamseo-pi",
+  "name": "roamseo-pi",
+  "url": "https://www.npmjs.com/package/roamseo-pi",
+  "source": "npm-search",
+  "description": "SEO data and workflows for Pi: live keyword, SERP, backlink, rank and AI search data from RoamSEO, plus skills that turn it into decisions.",
+  "metadata": {
+    "github_url": "https://github.com/roamseo/roamseo-plugins",
+    "npm_name": "roamseo-pi",
+    "description": "SEO data and workflows for Pi: live keyword, SERP, backlink, rank and AI search data from RoamSEO, plus skills that turn it into decisions.",
+    "keywords": [
+      "pi-package",
+      "seo",
+      "mcp",
+      "keyword-research",
+      "backlinks",
+      "rank-tracking",
+      "site-audit",
+      "ai-visibility"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-23T07:15:48.044Z",
+    "npm_downloads_monthly": 337,
+    "npm_downloads_weekly": 337,
+    "npm_score_final": 16.348124,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

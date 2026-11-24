@@ -3,11 +3,11 @@
   "name": "Package Catalog · Pi",
   "url": "https://pi.dev/packages?type=theme",
   "source": "brave-web-search",
-  "description": "Clean up your Pi terminal status bar — formats extension badges with crisp presets (Claude, OpenAI, Gemini, Linear, Tokyo, Nord, Stream, Minimal, Glow), folds idle items on narrow screens, and adds live spinners. ... Modular Thoth theme, status line, tool styling, and welcome header for Pi.",
+  "description": "An OMP-inspired visual theme and TUI presentation extension for Pi. ... A UI-only Ember theme and animated terminal interface for Pi, with no extra LLM calls or prompt injection.",
   "metadata": {
     "title": "Package Catalog · Pi",
     "name": "Package Catalog · Pi",
-    "description": "Clean up your Pi terminal status bar — formats extension badges with crisp presets (Claude, OpenAI, Gemini, Linear, Tokyo, Nord, Stream, Minimal, Glow), folds idle items on narrow screens, and adds live spinners. ... Modular Thoth theme, status line, tool styling, and welcome header for Pi.",
+    "description": "An OMP-inspired visual theme and TUI presentation extension for Pi. ... A UI-only Ember theme and animated terminal interface for Pi, with no extra LLM calls or prompt injection.",
     "published_at": null,
     "source_site": "Pi",
     "source_url": "https://pi.dev/packages?type=theme",

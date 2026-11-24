@@ -1,0 +1,33 @@
+{
+  "id": "@kafbit/irsim-connectors",
+  "name": "@kafbit/irsim-connectors",
+  "url": "https://www.npmjs.com/package/@kafbit/irsim-connectors",
+  "source": "npm-search",
+  "description": "irsim connectors for Antigravity, Pi, OpenCode and Command Code: the design_canvas tool, canvas comments delivered to the session, and the irsim-workflow and irsim-design skills.",
+  "metadata": {
+    "github_url": "https://github.com/kafbit/irsim",
+    "npm_name": "@kafbit/irsim-connectors",
+    "description": "irsim connectors for Antigravity, Pi, OpenCode and Command Code: the design_canvas tool, canvas comments delivered to the session, and the irsim-workflow and irsim-design skills.",
+    "keywords": [
+      "antigravity",
+      "agy",
+      "pi-package",
+      "opencode",
+      "opencode-plugin",
+      "command-code",
+      "irsim",
+      "design",
+      "canvas"
+    ],
+    "version": "0.7.0",
+    "published_at": "2026-11-23T21:49:56.281Z",
+    "npm_downloads_monthly": 603,
+    "npm_downloads_weekly": 603,
+    "npm_score_final": 18.944584,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

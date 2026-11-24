@@ -10,7 +10,7 @@
     "description": "MCP server to orchestrate GPT web chat into a local coding agent using Pi agent's harness.",
     "stars": 22,
     "forks": 3,
-    "open_issues": 6,
+    "open_issues": 7,
     "topics": [
       "chatgpt",
       "coding-agent",
@@ -20,9 +20,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-30T09:36:13Z",
-    "pushed_at": "2026-10-12T14:06:59Z",
+    "pushed_at": "2026-11-23T05:57:30Z",
     "updated_at": "2026-10-06T09:52:07Z",
-    "size": 30900,
+    "size": 30902,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

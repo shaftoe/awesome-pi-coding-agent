@@ -1,0 +1,27 @@
+{
+  "id": "getsentry-tattletale",
+  "name": "getsentry-tattletale",
+  "url": "https://github.com/getsentry/tattletale",
+  "source": "github-search",
+  "description": "Tattles on your coding agents: Claude Code, Codex and Pi sessions in Sentry agent tracing",
+  "metadata": {
+    "github_url": "https://github.com/getsentry/tattletale",
+    "repo_full_name": "getsentry/tattletale",
+    "description": "Tattles on your coding agents: Claude Code, Codex and Pi sessions in Sentry agent tracing",
+    "stars": 11,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "tag-to-be-production-20261106"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-06T03:23:34Z",
+    "pushed_at": "2026-11-12T17:49:43Z",
+    "updated_at": "2026-11-23T18:49:28Z",
+    "size": 295,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+  },
+  "category": "misc"
+}
