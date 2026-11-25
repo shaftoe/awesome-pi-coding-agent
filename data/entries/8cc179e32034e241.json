@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Shows where your Amazon stock is, and when to restock.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/comchatx/cx-amazon-stock-playbook",
     "npm_name": "@comchatx/cx-amazon-stock-playbook",
     "description": "Shows where your Amazon stock is, and when to restock.",
@@ -15,11 +16,10 @@
     "published_at": "2026-11-23T11:12:45.265Z",
     "npm_downloads_monthly": 644,
     "npm_downloads_weekly": 429,
-    "npm_score_final": 18.609816,
+    "npm_score_final": 18.770477,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

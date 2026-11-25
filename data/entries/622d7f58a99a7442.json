@@ -1,0 +1,27 @@
+{
+  "id": "@rainbrand-ai/pi-plugin",
+  "name": "@rainbrand-ai/pi-plugin",
+  "url": "https://www.npmjs.com/package/@rainbrand-ai/pi-plugin",
+  "source": "npm-search",
+  "description": "Use Rainbrand to onboard and edit brands, get brand context for a task, and generate images, videos, and audio.",
+  "metadata": {
+    "github_url": "https://github.com/rainbrandai/rainbrand-skills",
+    "npm_name": "@rainbrand-ai/pi-plugin",
+    "description": "Use Rainbrand to onboard and edit brands, get brand context for a task, and generate images, videos, and audio.",
+    "keywords": [
+      "pi-package",
+      "rainbrand",
+      "mcp"
+    ],
+    "version": "1.1.14",
+    "published_at": "2026-11-18T01:06:49.241Z",
+    "npm_downloads_monthly": 285,
+    "npm_downloads_weekly": 285,
+    "npm_score_final": 16.73375,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

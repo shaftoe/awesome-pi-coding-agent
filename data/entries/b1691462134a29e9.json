@@ -10,7 +10,7 @@
     "description": "Persistent memory for coding agents. Each agent keeps one memory across sessions, models, tools (pi, OMP, Claude Code) and machines: hierarchical summaries, steady prompt caching, a TUI, and encrypted sync.",
     "stars": 6,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "topics": [
       "agent-memory",
       "ai-agents",
@@ -25,9 +25,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-12T16:40:47Z",
-    "pushed_at": "2026-11-24T03:07:42Z",
+    "pushed_at": "2026-11-24T23:32:51Z",
     "updated_at": "2026-11-23T07:53:52Z",
-    "size": 5313,
+    "size": 5314,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

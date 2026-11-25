@@ -9,7 +9,7 @@
     "repo_full_name": "AliensToEarth/pi-infinity",
     "description": "Non-blocking execution, durable timers, and parallel subagents for pi.",
     "stars": 7,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "agent-orchestration",

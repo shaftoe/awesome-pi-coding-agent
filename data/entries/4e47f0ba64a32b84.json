@@ -1,0 +1,30 @@
+{
+  "id": "@giljae/pi-postgres-skills",
+  "name": "@giljae/pi-postgres-skills",
+  "url": "https://www.npmjs.com/package/@giljae/pi-postgres-skills",
+  "source": "npm-search",
+  "description": "PostgreSQL guidance for the Pi coding agent: Microsoft's postgres-skills (best practices, Apache AGE graphs, Oracle migration) with a bundled PostgreSQL MCP server. Vendored from microsoft/postgres-skills (MIT). Not an officially supported Microsoft produ",
+  "metadata": {
+    "github_url": "https://github.com/giljae/pi-extensions",
+    "npm_name": "@giljae/pi-postgres-skills",
+    "description": "PostgreSQL guidance for the Pi coding agent: Microsoft's postgres-skills (best practices, Apache AGE graphs, Oracle migration) with a bundled PostgreSQL MCP server. Vendored from microsoft/postgres-skills (MIT). Not an officially supported Microsoft produ",
+    "keywords": [
+      "pi-package",
+      "postgresql",
+      "database",
+      "mcp",
+      "apache-age",
+      "pgvector"
+    ],
+    "version": "0.0.2",
+    "published_at": "2026-11-17T06:31:29.178Z",
+    "npm_downloads_monthly": 453,
+    "npm_downloads_weekly": 453,
+    "npm_score_final": 17.823767,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
