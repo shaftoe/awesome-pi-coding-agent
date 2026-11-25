@@ -1,0 +1,25 @@
+{
+  "id": "fredjunior54-earshot",
+  "name": "fredjunior54-earshot",
+  "url": "https://github.com/fredjunior54/earshot",
+  "source": "github-search",
+  "description": "Local sound effects for Pi Agent via stdio MCP. Install: pi install git:github.com/fredjunior54/earshot@custom (requires uv and FFmpeg).",
+  "metadata": {
+    "github_url": "https://github.com/fredjunior54/earshot",
+    "repo_full_name": "fredjunior54/earshot",
+    "description": "Local sound effects for Pi Agent via stdio MCP. Install: pi install git:github.com/fredjunior54/earshot@custom (requires uv and FFmpeg).",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": null,
+    "archived": false,
+    "created_at": "2026-11-25T12:11:55Z",
+    "pushed_at": "2026-11-25T15:42:53Z",
+    "updated_at": "2026-11-25T16:39:54Z",
+    "size": 55718,
+    "license": "MIT",
+    "discovery_hint": "github:add-url"
+  },
+  "category": "extension"
+}
