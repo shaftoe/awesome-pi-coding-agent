@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Hashline read/edit tool override for pi-coding-agent",
   "metadata": {
-    "github_url": "https://github.com/RimuruW/pi-hashline-edit",
+    "github_url": null,
     "npm_name": "pi-hashline-edit",
     "description": "Hashline read/edit tool override for pi-coding-agent",
     "keywords": [
@@ -15,11 +15,11 @@
       "extension",
       "hashline"
     ],
-    "version": "0.8.3",
-    "published_at": "2026-07-14T10:39:37.710Z",
-    "npm_downloads_monthly": 771,
-    "npm_downloads_weekly": 131,
-    "npm_score_final": 19.059662,
+    "version": "0.9.0",
+    "published_at": "2026-11-24T10:54:06.458Z",
+    "npm_downloads_monthly": 674,
+    "npm_downloads_weekly": 170,
+    "npm_score_final": 18.917953,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

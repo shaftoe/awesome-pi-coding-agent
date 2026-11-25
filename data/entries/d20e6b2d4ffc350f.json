@@ -1,0 +1,29 @@
+{
+  "id": "pi-live-title",
+  "name": "pi-live-title",
+  "url": "https://www.npmjs.com/package/pi-live-title",
+  "source": "npm-search",
+  "description": "Pi extension that keeps the session name, and so the terminal tab title, in sync with what you are working on",
+  "metadata": {
+    "github_url": "https://github.com/avivace/pi-session-title",
+    "npm_name": "pi-live-title",
+    "description": "Pi extension that keeps the session name, and so the terminal tab title, in sync with what you are working on",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "terminal-title",
+      "session-name"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-17T16:18:51.899Z",
+    "npm_downloads_monthly": 347,
+    "npm_downloads_weekly": 347,
+    "npm_score_final": 17.392767,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

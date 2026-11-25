@@ -8,7 +8,7 @@
     "github_url": "https://github.com/Tech0001/orrery",
     "repo_full_name": "Tech0001/orrery",
     "description": "Persistent memory for coding agents. Each agent keeps one memory across sessions, models, tools (pi, OMP, Claude Code) and machines: hierarchical summaries, steady prompt caching, a TUI, and encrypted sync.",
-    "stars": 4,
+    "stars": 6,
     "forks": 0,
     "open_issues": 0,
     "topics": [
@@ -25,11 +25,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-12T16:40:47Z",
-    "pushed_at": "2026-11-12T19:54:02Z",
-    "updated_at": "2026-11-07T01:49:30Z",
-    "size": 4191,
+    "pushed_at": "2026-11-24T23:32:51Z",
+    "updated_at": "2026-11-23T07:53:52Z",
+    "size": 5314,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
   "category": "extension"
 }

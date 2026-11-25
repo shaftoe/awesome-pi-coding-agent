@@ -19,7 +19,7 @@
     "updated_at": "2026-10-22T10:37:00Z",
     "size": 484,
     "license": "MIT",
-    "discovery_hint": "github-repo:pi-agent language:TypeScript"
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
   "category": "extension"
 }

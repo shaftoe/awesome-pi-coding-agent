@@ -1,0 +1,25 @@
+{
+  "id": "@celljs/ta-goals",
+  "name": "@celljs/ta-goals",
+  "url": "https://www.npmjs.com/package/@celljs/ta-goals",
+  "source": "npm-search",
+  "description": "A pi package for Ta: goals the user hands the double, pursued in a conversation of their own at a pace and within a budget, until the user accepts the result",
+  "metadata": {
+    "github_url": "https://github.com/cellbang/cell",
+    "npm_name": "@celljs/ta-goals",
+    "description": "A pi package for Ta: goals the user hands the double, pursued in a conversation of their own at a pace and within a budget, until the user accepts the result",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "4.34.0",
+    "published_at": "2026-11-25T02:05:39.967Z",
+    "npm_downloads_monthly": 2801,
+    "npm_downloads_weekly": 2801,
+    "npm_score_final": 24.412535,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

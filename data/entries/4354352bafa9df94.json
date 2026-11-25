@@ -1,0 +1,26 @@
+{
+  "id": "memcue-pi",
+  "name": "memcue-pi",
+  "url": "https://www.npmjs.com/package/memcue-pi",
+  "source": "npm-search",
+  "description": "memcue long-term memory for the Pi coding agent: native tools, repository pitfalls and opt-in subagent memory",
+  "metadata": {
+    "github_url": "https://github.com/juev/memcue",
+    "npm_name": "memcue-pi",
+    "description": "memcue long-term memory for the Pi coding agent: native tools, repository pitfalls and opt-in subagent memory",
+    "keywords": [
+      "pi-package",
+      "memory"
+    ],
+    "version": "0.40.4",
+    "published_at": "2026-11-24T13:24:25.609Z",
+    "npm_downloads_monthly": 1367,
+    "npm_downloads_weekly": 674,
+    "npm_score_final": 20.23868,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

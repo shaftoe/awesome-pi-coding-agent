@@ -1,0 +1,28 @@
+{
+  "id": "@jalaxy33/pi-tmux-subagent",
+  "name": "@jalaxy33/pi-tmux-subagent",
+  "url": "https://www.npmjs.com/package/@jalaxy33/pi-tmux-subagent",
+  "source": "npm-search",
+  "description": "Observable Pi subagents that run in their own tmux session.",
+  "metadata": {
+    "github_url": "https://github.com/jalaxy33/pi-tmux-subagent",
+    "npm_name": "@jalaxy33/pi-tmux-subagent",
+    "description": "Observable Pi subagents that run in their own tmux session.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "subagent",
+      "tmux"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-23T03:31:27.327Z",
+    "npm_downloads_monthly": 695,
+    "npm_downloads_weekly": 370,
+    "npm_score_final": 19.47546,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

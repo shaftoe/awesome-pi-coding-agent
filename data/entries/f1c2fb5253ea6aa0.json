@@ -1,0 +1,32 @@
+{
+  "id": "@quantmind-br/pi-goal-x",
+  "name": "@quantmind-br/pi-goal-x",
+  "url": "https://www.npmjs.com/package/@quantmind-br/pi-goal-x",
+  "source": "npm-search",
+  "description": "Fork of pi-goal-x with a fixed, cache-stable goal tool profile. Adds /goal to pi: conversational goal planning, flexible or ordered goals, persistent progress, and an independent completion auditor.",
+  "metadata": {
+    "github_url": "https://github.com/quantforge-br/pi-goal-x",
+    "npm_name": "@quantmind-br/pi-goal-x",
+    "description": "Fork of pi-goal-x with a fixed, cache-stable goal tool profile. Adds /goal to pi: conversational goal planning, flexible or ordered goals, persistent progress, and an independent completion auditor.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "goal",
+      "sisyphus",
+      "autoresearch",
+      "agent-loop",
+      "long-running"
+    ],
+    "version": "0.35.3",
+    "published_at": "2026-11-12T01:19:38.943Z",
+    "npm_downloads_monthly": 886,
+    "npm_downloads_weekly": 676,
+    "npm_score_final": 19.804157,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

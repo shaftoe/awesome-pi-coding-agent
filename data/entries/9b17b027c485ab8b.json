@@ -1,0 +1,29 @@
+{
+  "id": "@agentrouter/pi",
+  "name": "@agentrouter/pi",
+  "url": "https://www.npmjs.com/package/@agentrouter/pi",
+  "source": "npm-search",
+  "description": "Price and run research tools in Pi with AgentRouter, a spending cap and receipts.",
+  "metadata": {
+    "github_url": "https://github.com/pageonelab/agentrouter-pi",
+    "npm_name": "@agentrouter/pi",
+    "description": "Price and run research tools in Pi with AgentRouter, a spending cap and receipts.",
+    "keywords": [
+      "pi-package",
+      "agentrouter",
+      "mcp",
+      "research"
+    ],
+    "version": "0.1.0",
+    "pi_declares_extension": true,
+    "published_at": "2026-11-23T14:27:27.569Z",
+    "npm_downloads_monthly": null,
+    "npm_downloads_weekly": null,
+    "npm_score_final": null,
+    "npm_score_popularity": null,
+    "npm_score_quality": null,
+    "npm_score_maintenance": null,
+    "discovery_hint": "npm:add-url"
+  },
+  "category": "extension"
+}

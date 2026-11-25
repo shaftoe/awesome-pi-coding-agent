@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_extensions",
+  "name": "Extensions · Documentation · Pi",
+  "url": "https://pi.dev/docs/latest/extensions",
+  "source": "brave-web-search",
+  "description": "Extensions are auto-discovered from trusted locations. Project-local .pi/extensions entries load only after the project is trusted. Discovery goes one level deep. Larger packages declare their entry points in a package.json manifest.",
+  "metadata": {
+    "title": "Extensions · Documentation · Pi",
+    "name": "Extensions · Documentation · Pi",
+    "description": "Extensions are auto-discovered from trusted locations. Project-local .pi/extensions entries load only after the project is trusted. Discovery goes one level deep. Larger packages declare their entry points in a package.json manifest.",
+    "published_at": null,
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/docs/latest/extensions",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}

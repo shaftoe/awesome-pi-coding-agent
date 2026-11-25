@@ -1,0 +1,32 @@
+{
+  "id": "RielJ-pi-image-preview",
+  "name": "RielJ-pi-image-preview",
+  "url": "https://github.com/RielJ/pi-image-preview",
+  "source": "github-search",
+  "description": "Inline image previews for the Pi coding agent, rendered with the kitty graphics protocol, with tmux support.",
+  "metadata": {
+    "github_url": "https://github.com/RielJ/pi-image-preview",
+    "repo_full_name": "RielJ/pi-image-preview",
+    "description": "Inline image previews for the Pi coding agent, rendered with the kitty graphics protocol, with tmux support.",
+    "stars": 4,
+    "forks": 8,
+    "open_issues": 0,
+    "topics": [
+      "ai-agents",
+      "developer-tools",
+      "kitty-graphics-protocol",
+      "pi-coding-agent",
+      "terminal",
+      "tmux"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-03-26T23:31:14Z",
+    "pushed_at": "2026-11-20T18:50:24Z",
+    "updated_at": "2026-11-22T04:17:18Z",
+    "size": 1484,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi.dev_pi-agent-computer-use",
+  "name": "pi-agent-computer-use · Packages · Pi",
+  "url": "https://pi.dev/packages/pi-agent-computer-use?name=usage",
+  "source": "brave-web-search",
+  "description": "Ask your agent to do something on your computer, for example \"open Paint and draw a house\", \"fill in this form in my browser\" or \"check what the settings window says\". It finds the window, reads its controls and screenshot, acts, and reads it again to see whether it worked. We give a Pi agent ...",
+  "metadata": {
+    "title": "pi-agent-computer-use · Packages · Pi",
+    "name": "pi-agent-computer-use · Packages · Pi",
+    "description": "Ask your agent to do something on your computer, for example \"open Paint and draw a house\", \"fill in this form in my browser\" or \"check what the settings window says\". It finds the window, reads its controls and screenshot, acts, and reads it again to see whether it worked. We give a Pi agent ...",
+    "published_at": "2026-11-09T00:00:00",
+    "source_site": "Pi",
+    "source_url": "https://pi.dev/packages/pi-agent-computer-use?name=usage",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

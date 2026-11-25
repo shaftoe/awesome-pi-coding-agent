@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Structured questionnaire tool for Pi with numbered options, digit hotkeys and Tab-to-comment, composed from the shared permission-selector component.",
   "metadata": {
-    "github_url": "https://github.com/hank-warren/pi-extensions",
+    "github_url": "https://github.com/fezcodev/pi-extensions",
     "npm_name": "@hank-warren/pi-ask-user-question",
     "description": "Structured questionnaire tool for Pi with numbered options, digit hotkeys and Tab-to-comment, composed from the shared permission-selector component.",
     "keywords": [
@@ -17,11 +17,11 @@
       "tui",
       "coding-agent"
     ],
-    "version": "0.8.1",
-    "published_at": "2026-11-09T18:53:19.084Z",
-    "npm_downloads_monthly": 1042,
-    "npm_downloads_weekly": 247,
-    "npm_score_final": 21.883802,
+    "version": "0.9.0",
+    "published_at": "2026-11-20T20:21:09.356Z",
+    "npm_downloads_monthly": 1070,
+    "npm_downloads_weekly": 53,
+    "npm_score_final": 20.907751,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

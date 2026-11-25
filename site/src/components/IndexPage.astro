@@ -64,62 +64,25 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 </div>
 
 <script>
+	import { createHighlighter, createSearchHandler, preloadSearch, type SearchEntry } from "../lib/search";
 	const CATEGORY_ICONS: Record<string, string> = {
 		extension: '🔌', theme: '🎨', video: '🎬', article: '📰', misc: '📦',
 	};
-
-	type SearchEntry = { n: string; d: string; c: string; u: string; h: string; s: number; p: string };
-	let searchIndex: SearchEntry[] | null = null;
-
-	async function loadSearchIndex(): Promise<SearchEntry[]> {
-		if (searchIndex) return searchIndex;
-		const res = await fetch('/search-index.json');
-		searchIndex = await res.json();
-		return searchIndex!;
-	}
-
-	function performSearch(entries: SearchEntry[], query: string): SearchEntry[] {
-		const q = query.toLowerCase().trim();
-		if (!q) return [];
-		const terms = q.split(/\s+/).filter(Boolean);
-		return entries.filter((e) => {
-			const text = `${e.n} ${e.d} ${e.c}`.toLowerCase();
-			return terms.every((t) => text.includes(t));
-		});
-	}
-
-	function escapeHtml(s: string): string {
-		return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-	}
-
-	function escapeRegex(s: string): string {
-		return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-	}
-
-	function highlightText(text: string, query: string): string {
-		if (!query.trim()) return escapeHtml(text);
-		const terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
-		let result = escapeHtml(text);
-		for (const term of terms) {
-			const regex = new RegExp(`(${escapeRegex(term)})`, 'gi');
-			result = result.replace(regex, '<mark>$1</mark>');
-		}
-		return result;
-	}
 
 	function truncateText(s: string, len: number): string {
 		return s.length > len ? s.slice(0, len) + '…' : s;
 	}
 
 	function renderResults(container: HTMLElement, results: SearchEntry[], query: string): void {
+		const highlight = createHighlighter(query);
 		container.innerHTML = results
 			.map((r) => {
 				const icon = CATEGORY_ICONS[r.c] || '📄';
 				const popHtml = r.p ? `<span>${r.p}</span>` : '';
 				const categoryLabel = r.c.charAt(0).toUpperCase() + r.c.slice(1);
 				return `<a href="${r.u}" target="_blank" rel="noopener noreferrer" class="entry-card">
-					<h3>${icon} ${highlightText(r.n, query)}</h3>
-					<p class="desc">${highlightText(truncateText(r.d, 200), query)}</p>
+					<h3>${icon} ${highlight(r.n)}</h3>
+					<p class="desc">${highlight(truncateText(r.d, 200))}</p>
 					<div class="meta">
 						<span>${categoryLabel}</span>
 						${popHtml}
@@ -131,6 +94,8 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 	}
 
 	class GlobalSearchInput extends HTMLElement {
+		setQuery?: (query: string) => void;
+
 		connectedCallback() {
 			const input = this.querySelector<HTMLInputElement>('input[type="search"]')!;
 			const resultsContainer = document.querySelector<HTMLElement>('.global-search-results');
@@ -138,46 +103,52 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 			const countEl = this.querySelector<HTMLElement>('.search-count');
 			if (!resultsContainer || !emptyEl || !countEl) return;
 
-			let debounceTimer: ReturnType<typeof setTimeout>;
-
-			const doSearch = async () => {
-				const query = input.value.trim();
-				const url = new URL(window.location.href);
-				if (query) {
-					url.searchParams.set('q', query);
-				} else {
-					url.searchParams.delete('q');
-				}
-				history.replaceState(null, '', url.toString());
-
-				if (!query) {
-					showCategoryGrid();
-					return;
-				}
-
-				const entries = await loadSearchIndex();
-				const results = performSearch(entries, query);
-				renderResults(resultsContainer, results, query);
-
-				if (results.length === 0) {
-					emptyEl.style.display = '';
-					resultsContainer.style.display = 'none';
-					countEl.textContent = '0 results';
-				} else {
-					emptyEl.style.display = 'none';
-					resultsContainer.style.display = '';
-					countEl.textContent = `${results.length} result${results.length === 1 ? '' : 's'}`;
-				}
+			const showStatus = (message: string) => {
+				emptyEl.textContent = message;
+				emptyEl.style.display = '';
+				resultsContainer.style.display = 'none';
+				countEl.textContent = '';
 			};
 
-			input.addEventListener('input', () => {
-				clearTimeout(debounceTimer);
-				debounceTimer = setTimeout(doSearch, 150);
+			const { onInput, searchNow } = createSearchHandler(input, {
+				onQuery(query) {
+					const url = new URL(window.location.href);
+					if (url.searchParams.get('q') !== query) {
+						url.searchParams.set('q', query);
+						history.replaceState(null, '', url);
+					}
+					document.querySelector<HTMLElement>('.category-grid')!.style.display = 'none';
+					document.querySelector<HTMLElement>('.clear-search')!.style.display = '';
+					showStatus('Searching…');
+				},
+				showResults(query, { entries, total }) {
+					if (!query) {
+						countEl.textContent = '';
+						showCategoryGrid();
+						return;
+					}
+					renderResults(resultsContainer, entries, query);
+					emptyEl.textContent = 'No results found.';
+					emptyEl.style.display = total === 0 ? '' : 'none';
+					resultsContainer.style.display = total === 0 ? 'none' : '';
+					countEl.textContent = `${total} result${total === 1 ? '' : 's'}`;
+				},
+				showLoadError() {
+					showStatus('Search could not load. Please try again.');
+				},
 			});
 
-			// Store reference for external activation
-			(this as any)._doSearch = doSearch;
-			(this as any)._input = input;
+			input.addEventListener('focus', () => {
+				void preloadSearch().catch(() => {
+					// Typing retries and reports any load failure.
+				});
+			});
+
+			input.addEventListener('input', onInput);
+			this.setQuery = (query) => {
+				input.value = query;
+				void searchNow();
+			};
 		}
 	}
 
@@ -191,45 +162,28 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 		if (grid) grid.style.display = '';
 		if (backBtn) backBtn.style.display = 'none';
 		const url = new URL(window.location.href);
-		url.searchParams.delete('q');
-		history.replaceState(null, '', url.toString());
+		if (url.searchParams.has('q')) {
+			url.searchParams.delete('q');
+			history.replaceState(null, '', url);
+		}
 	}
 
-	function showSearchView(query: string): void {
-		const resultsContainer = document.querySelector<HTMLElement>('.global-search-results');
-		const grid = document.querySelector<HTMLElement>('.category-grid');
-		const backBtn = document.querySelector<HTMLButtonElement>('.clear-search');
-		if (resultsContainer) resultsContainer.style.display = '';
-		if (grid) grid.style.display = 'none';
-		if (backBtn) backBtn.style.display = '';
-
-		const inputComp = document.querySelector('global-search-input') as any;
-		if (inputComp?._input) {
-			inputComp._input.value = query;
-		}
-		if (inputComp?._doSearch) {
-			inputComp._doSearch();
-		}
+	function setSearchQuery(query: string): void {
+		document.querySelector<GlobalSearchInput>('global-search-input')?.setQuery?.(query);
 	}
 
 	class GlobalSearchBar extends HTMLElement {
 		connectedCallback() {
 			const clearBtn = this.querySelector<HTMLButtonElement>('.clear-search');
 			if (clearBtn) {
-				clearBtn.addEventListener('click', () => {
-					const inputComp = document.querySelector('global-search-input') as any;
-					if (inputComp?._input) {
-						inputComp._input.value = '';
-					}
-					showCategoryGrid();
-				});
+				clearBtn.addEventListener('click', () => setSearchQuery(''));
 			}
 
 			// Check URL for ?q= on load
 			const params = new URLSearchParams(window.location.search);
 			const q = params.get('q');
 			if (q) {
-				showSearchView(q);
+				setSearchQuery(q);
 			}
 		}
 	}
@@ -241,10 +195,6 @@ const lastUpdated = typeof BUILD_DATE === "string" ? BUILD_DATE : "";
 	window.addEventListener('popstate', () => {
 		const params = new URLSearchParams(window.location.search);
 		const q = params.get('q');
-		if (q) {
-			showSearchView(q);
-		} else {
-			showCategoryGrid();
-		}
+		setSearchQuery(q ?? '');
 	});
 </script>

@@ -1,0 +1,28 @@
+{
+  "id": "pi-claude-relay",
+  "name": "pi-claude-relay",
+  "url": "https://www.npmjs.com/package/pi-claude-relay",
+  "source": "npm-search",
+  "description": "Pi extension that relays Pi's built-in Anthropic provider through the official Claude Code CLI (`claude -p` stream-json), with Pi tools served over a per-session local MCP server.",
+  "metadata": {
+    "github_url": "https://github.com/jals1212/pi-claude-relay",
+    "npm_name": "pi-claude-relay",
+    "description": "Pi extension that relays Pi's built-in Anthropic provider through the official Claude Code CLI (`claude -p` stream-json), with Pi tools served over a per-session local MCP server.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "claude",
+      "provider"
+    ],
+    "version": "0.4.2",
+    "published_at": "2026-11-24T21:44:29.939Z",
+    "npm_downloads_monthly": 1616,
+    "npm_downloads_weekly": 1616,
+    "npm_score_final": 22.154427,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

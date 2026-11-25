@@ -1,0 +1,32 @@
+{
+  "id": "rakshazi-pi-extensions",
+  "name": "rakshazi-pi-extensions",
+  "url": "https://github.com/rakshazi/pi-extensions",
+  "source": "github-search",
+  "description": "My set of Pi Agent extensions",
+  "metadata": {
+    "github_url": "https://github.com/rakshazi/pi-extensions",
+    "repo_full_name": "rakshazi/pi-extensions",
+    "description": "My set of Pi Agent extensions",
+    "stars": 4,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-agent",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-extensions",
+      "pi-mono",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-20T12:28:35Z",
+    "pushed_at": "2026-11-23T18:44:09Z",
+    "updated_at": "2026-11-23T18:44:35Z",
+    "size": 140,
+    "license": "NOASSERTION",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -8,8 +8,8 @@
     "github_url": "https://github.com/taherchhabra/pi-managed-agents-api",
     "repo_full_name": "taherchhabra/pi-managed-agents-api",
     "description": "Self-hosted managed agents API built on the Pi coding agent SDK—an alternative to OpenAI Agents API and Claude Managed Agents API.",
-    "stars": 4,
-    "forks": 0,
+    "stars": 5,
+    "forks": 1,
     "open_issues": 0,
     "topics": [
       "agent-runtime",
@@ -34,7 +34,7 @@
     "archived": false,
     "created_at": "2026-11-13T15:01:09Z",
     "pushed_at": "2026-11-15T00:03:10Z",
-    "updated_at": "2026-11-15T22:02:19Z",
+    "updated_at": "2026-11-18T15:07:26Z",
     "size": 1404,
     "license": null,
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

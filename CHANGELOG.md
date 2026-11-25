@@ -7,6 +7,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.13.0] - 2026-11-22
+
+### Added
+
+- rank global search with MiniSearch and index existing topics (#415)
+
+### Changed
+
+- **deps-dev**: bump
+- **deps-site**: bump deps
+- **deps-dev**: bump deps
+- **deps-dev**: update pnpm to v12.18.0 (#408)
+- **deps**: update pnpm to v12.21.0 (#421)
+- **deps-ci**: update semantic-release (#370)
+
 ## [2.12.0] - 2026-11-03
 
 ### Added
@@ -360,6 +375,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove skills category
 - replace @types/bun with pinned bun-types to fix typecheck (#6)
 
+[2.13.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.12.0...v2.13.0
 [2.12.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.11.0...v2.12.0
 [2.11.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.10.0...v2.11.0
 [2.10.0]: https://github.com/shaftoe/awesome-pi-coding-agent/compare/v2.9.0...v2.10.0

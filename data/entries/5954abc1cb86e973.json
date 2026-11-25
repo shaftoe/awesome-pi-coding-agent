@@ -1,0 +1,29 @@
+{
+  "id": "@igor-guari/pi-skill-to-spec",
+  "name": "@igor-guari/pi-skill-to-spec",
+  "url": "https://www.npmjs.com/package/@igor-guari/pi-skill-to-spec",
+  "source": "npm-search",
+  "description": "Turn the current conversation into a spec and publish it to the project issue tracker: no interview, just synthesis of w",
+  "metadata": {
+    "github_url": "https://github.com/IgorGuariroba/pi-skill-to-spec",
+    "npm_name": "@igor-guari/pi-skill-to-spec",
+    "description": "Turn the current conversation into a spec and publish it to the project issue tracker: no interview, just synthesis of w",
+    "keywords": [
+      "pi-package",
+      "pi-skill",
+      "pi",
+      "to-spec",
+      "engineering-skills"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-11-05T17:20:07.831Z",
+    "npm_downloads_monthly": 255,
+    "npm_downloads_weekly": 13,
+    "npm_score_final": 16.361742,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

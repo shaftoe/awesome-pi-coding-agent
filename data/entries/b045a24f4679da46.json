@@ -1,14 +1,14 @@
 {
   "id": "BRAVE_betterclaw.io_pi-coding-agent-setup",
-  "name": "Pi Coding Agent: Install, Models and Extensions (2026)",
+  "name": "Pi Coding Agent: Install, Update, MCP and Extensions (2026)",
   "url": "https://www.betterclaw.io/blog/pi-coding-agent-setup",
   "source": "brave-web-search",
-  "description": "Install Pi 1.4, connect a model with /login or an API key, add MCP servers and extensions, and fix the common errors. Every command tested.",
+  "description": "Install Pi with curl -fsSL https://pi.dev/install.sh | sh (or npm/PowerShell), log in, add MCP servers and extensions, update it and fix common errors.",
   "metadata": {
-    "title": "Pi Coding Agent: Install, Models and Extensions (2026)",
-    "name": "Pi Coding Agent: Install, Models and Extensions (2026)",
-    "description": "Install Pi 1.4, connect a model with /login or an API key, add MCP servers and extensions, and fix the common errors. Every command tested.",
-    "published_at": "2026-10-26T00:00:00",
+    "title": "Pi Coding Agent: Install, Update, MCP and Extensions (2026)",
+    "name": "Pi Coding Agent: Install, Update, MCP and Extensions (2026)",
+    "description": "Install Pi with curl -fsSL https://pi.dev/install.sh | sh (or npm/PowerShell), log in, add MCP servers and extensions, update it and fix common errors.",
+    "published_at": "2026-11-24T00:00:00",
     "source_site": "BetterClaw",
     "source_url": "https://www.betterclaw.io/blog/pi-coding-agent-setup",
     "discovery_hint": "brave:pi-coding-agent"

@@ -1,0 +1,25 @@
+{
+  "id": "swapkats-yum-pi",
+  "name": "swapkats-yum-pi",
+  "url": "https://github.com/swapkats/yum-pi",
+  "source": "github-search",
+  "description": "A minimal batteries pack for the Pi coding agent: deterministic guardrails, workflow prompts, and a dark theme. No fork, no new binary.",
+  "metadata": {
+    "github_url": "https://github.com/swapkats/yum-pi",
+    "repo_full_name": "swapkats/yum-pi",
+    "description": "A minimal batteries pack for the Pi coding agent: deterministic guardrails, workflow prompts, and a dark theme. No fork, no new binary.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-22T04:37:21Z",
+    "pushed_at": "2026-11-22T04:42:42Z",
+    "updated_at": "2026-11-22T04:43:08Z",
+    "size": 28,
+    "license": null,
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

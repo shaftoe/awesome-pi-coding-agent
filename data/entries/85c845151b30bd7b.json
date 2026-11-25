@@ -3,32 +3,33 @@
   "name": "@ahpd/agent-pi",
   "url": "https://www.npmjs.com/package/@ahpd/agent-pi",
   "source": "npm-search",
-  "description": "A pi backend for ahpd: the pi coding agent, embedded in process and served over the Agent Host Protocol",
+  "description": "Pi coding agent integration. Run pi inside the ahpd daemon as a plugin, or use it directly with @ahpd/sdk.",
   "metadata": {
-    "github_url": "https://github.com/softov/ahpd",
+    "github_url": "https://github.com/ahpio/ahpd",
     "npm_name": "@ahpd/agent-pi",
-    "description": "A pi backend for ahpd: the pi coding agent, embedded in process and served over the Agent Host Protocol",
+    "description": "Pi coding agent integration. Run pi inside the ahpd daemon as a plugin, or use it directly with @ahpd/sdk.",
     "keywords": [
       "ahp",
+      "ahpd",
       "agent-host-protocol",
-      "agent-host",
-      "agent",
-      "ai",
-      "plugin",
+      "ahpio",
+      "ai-agent",
       "pi",
       "pi-coding-agent",
-      "coding-agent"
+      "coding-agent",
+      "agent-backend",
+      "agent-sdk",
+      "plugin"
     ],
-    "version": "0.14.0",
-    "published_at": "2026-10-26T06:53:48.869Z",
-    "npm_downloads_monthly": 787,
-    "npm_downloads_weekly": 82,
-    "npm_score_final": 26.956978,
+    "version": "0.15.0",
+    "published_at": "2026-11-21T01:39:50.523Z",
+    "npm_downloads_monthly": 1157,
+    "npm_downloads_weekly": 577,
+    "npm_score_final": 27.615192,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": false,
     "discovery_hint": "npm:keywords:pi-coding-agent"
   },
-  "category": "misc"
+  "category": "extension"
 }

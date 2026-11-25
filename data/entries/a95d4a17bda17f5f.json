@@ -1,0 +1,29 @@
+{
+  "id": "@ethanthoma/pi-goal",
+  "name": "@ethanthoma/pi-goal",
+  "url": "https://www.npmjs.com/package/@ethanthoma/pi-goal",
+  "source": "npm-search",
+  "description": "Persistent goals for the Pi coding agent, with automatic continuation, stall recovery, and optional turn and cost budgets.",
+  "metadata": {
+    "github_url": "https://github.com/ethanthoma/pi-goal",
+    "npm_name": "@ethanthoma/pi-goal",
+    "description": "Persistent goals for the Pi coding agent, with automatic continuation, stall recovery, and optional turn and cost budgets.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "goal",
+      "agent",
+      "automation"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-11-18T18:27:57.888Z",
+    "npm_downloads_monthly": 573,
+    "npm_downloads_weekly": 573,
+    "npm_score_final": 17.549622,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

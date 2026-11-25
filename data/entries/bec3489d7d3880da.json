@@ -18,10 +18,10 @@
       "typesafe"
     ],
     "language": "TypeScript",
-    "archived": false,
+    "archived": true,
     "created_at": "2026-10-14T20:07:12Z",
     "pushed_at": "2026-10-27T12:39:39Z",
-    "updated_at": "2026-10-27T12:39:44Z",
+    "updated_at": "2026-11-17T04:59:30Z",
     "size": 245,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

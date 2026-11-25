@@ -9,8 +9,8 @@
     "repo_full_name": "cuongvd23/pi-tmux-notify",
     "description": "Pi extension: desktop notifications when the agent finishes, click to jump back to the firing tmux pane",
     "stars": 5,
-    "forks": 0,
-    "open_issues": 0,
+    "forks": 1,
+    "open_issues": 1,
     "topics": [
       "ghostty",
       "kitty",

@@ -1,0 +1,31 @@
+{
+  "id": "pi-rector",
+  "name": "pi-rector",
+  "url": "https://www.npmjs.com/package/pi-rector",
+  "source": "npm-search",
+  "description": "Subscription-aware router for Pi: virtual models that spend the cheap plans first, respecting plan billing windows and quota resets",
+  "metadata": {
+    "github_url": "https://github.com/tonyputi/pi-rector",
+    "npm_name": "pi-rector",
+    "description": "Subscription-aware router for Pi: virtual models that spend the cheap plans first, respecting plan billing windows and quota resets",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "virtual-model",
+      "model-router",
+      "subscription",
+      "off-peak",
+      "quota-failover"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-15T17:57:46.548Z",
+    "npm_downloads_monthly": 333,
+    "npm_downloads_weekly": 333,
+    "npm_score_final": 16.818256,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

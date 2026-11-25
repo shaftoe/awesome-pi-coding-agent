@@ -1,0 +1,29 @@
+{
+  "id": "pi-profile-cycler",
+  "name": "pi-profile-cycler",
+  "url": "https://www.npmjs.com/package/pi-profile-cycler",
+  "source": "npm-search",
+  "description": "Session-local model profiles for Pi and the pi-subagents subagent tool",
+  "metadata": {
+    "github_url": "https://github.com/nanonoir/pi-profile-cycler",
+    "npm_name": "pi-profile-cycler",
+    "description": "Session-local model profiles for Pi and the pi-subagents subagent tool",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-subagents",
+      "model-profiles"
+    ],
+    "version": "1.2.0",
+    "published_at": "2026-11-10T14:43:02.301Z",
+    "npm_downloads_monthly": 380,
+    "npm_downloads_weekly": 40,
+    "npm_score_final": 17.474695,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

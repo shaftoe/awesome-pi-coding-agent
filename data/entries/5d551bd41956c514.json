@@ -9,7 +9,7 @@
     "repo_full_name": "jiangge/pi-router",
     "description": "Transparent two-tier router for pi coding agent — routes channels first, with opt-in model fallback chain. Zero protocol coupling.",
     "stars": 8,
-    "forks": 2,
+    "forks": 3,
     "open_issues": 0,
     "topics": [
       "pi",
@@ -18,9 +18,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-06-12T09:22:57Z",
-    "pushed_at": "2026-11-15T06:11:02Z",
+    "pushed_at": "2026-11-22T05:13:30Z",
     "updated_at": "2026-11-10T08:07:58Z",
-    "size": 628,
+    "size": 807,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

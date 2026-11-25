@@ -1,0 +1,36 @@
+{
+  "id": "@agimon-ai/po-remote",
+  "name": "@agimon-ai/po-remote",
+  "url": "https://www.npmjs.com/package/@agimon-ai/po-remote",
+  "source": "npm-search",
+  "description": "Remote access gateway for a Po host: the tunnel, pairing, device trust, passkey step-up, the dev proxy and host federation.",
+  "metadata": {
+    "github_url": "https://github.com/AgiFlow/po",
+    "npm_name": "@agimon-ai/po-remote",
+    "description": "Remote access gateway for a Po host: the tunnel, pairing, device trust, passkey step-up, the dev proxy and host federation.",
+    "keywords": [
+      "ai",
+      "coding-agent",
+      "developer-tools",
+      "passkeys",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package",
+      "po",
+      "remote-access",
+      "tunnel",
+      "typescript"
+    ],
+    "version": "0.0.0-alpha.189",
+    "published_at": "2026-11-24T12:17:12.869Z",
+    "npm_downloads_monthly": 3731,
+    "npm_downloads_weekly": 3731,
+    "npm_score_final": 24.776821,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "pi_declares_extension": false,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "misc"
+}

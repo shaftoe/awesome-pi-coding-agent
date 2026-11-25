@@ -8,7 +8,7 @@
     "github_url": "https://github.com/cv/pit",
     "repo_full_name": "cv/pit",
     "description": "Give Pi one typed tool instead of a toolbox.",
-    "stars": 18,
+    "stars": 20,
     "forks": 4,
     "open_issues": 0,
     "topics": [
@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-07-30T09:13:10Z",
-    "pushed_at": "2026-11-16T18:55:47Z",
-    "updated_at": "2026-11-12T12:07:24Z",
-    "size": 21994,
+    "pushed_at": "2026-11-25T02:59:07Z",
+    "updated_at": "2026-11-18T22:14:53Z",
+    "size": 25665,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

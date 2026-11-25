@@ -1,0 +1,30 @@
+{
+  "id": "pi-harness-reflex",
+  "name": "pi-harness-reflex",
+  "url": "https://www.npmjs.com/package/pi-harness-reflex",
+  "source": "npm-search",
+  "description": "harness-reflex System One interventions and reflex_* tools for the pi coding agent: in-process TypeScript extension, zero runtime dependencies.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "pi-harness-reflex",
+    "description": "harness-reflex System One interventions and reflex_* tools for the pi coding agent: in-process TypeScript extension, zero runtime dependencies.",
+    "keywords": [
+      "pi",
+      "pi-coding-agent",
+      "pi-package",
+      "harness-reflex",
+      "context-pruning",
+      "stagnation-detection"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-11-22T21:10:09.305Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

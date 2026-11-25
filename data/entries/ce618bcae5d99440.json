@@ -1,0 +1,29 @@
+{
+  "id": "pi-web-artifact",
+  "name": "pi-web-artifact",
+  "url": "https://www.npmjs.com/package/pi-web-artifact",
+  "source": "npm-search",
+  "description": "A PI WEB tab that renders an agent-written page from the workspace in a sandbox and hands element and text comments back to the conversation, with the Pi skill that writes those pages.",
+  "metadata": {
+    "github_url": "https://github.com/ivolejon/pi-web-artifact",
+    "npm_name": "pi-web-artifact",
+    "description": "A PI WEB tab that renders an agent-written page from the workspace in a sandbox and hands element and text comments back to the conversation, with the Pi skill that writes those pages.",
+    "keywords": [
+      "pi-package",
+      "pi-web.dev-plugin",
+      "pi-web",
+      "artifact",
+      "review"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-13T15:34:43.067Z",
+    "npm_downloads_monthly": 519,
+    "npm_downloads_weekly": 519,
+    "npm_score_final": 18.298897,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "kaotusi-pi-claude-skins",
+  "name": "kaotusi-pi-claude-skins",
+  "url": "https://github.com/kaotusi/pi-claude-skins",
+  "source": "github-search",
+  "description": "Claude Code look for the pi coding agent: claude-skins style tool rows, themes and focus mode",
+  "metadata": {
+    "github_url": "https://github.com/kaotusi/pi-claude-skins",
+    "repo_full_name": "kaotusi/pi-claude-skins",
+    "description": "Claude Code look for the pi coding agent: claude-skins style tool rows, themes and focus mode",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "pi-coding-agent",
+      "pi-extension"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-24T06:57:30Z",
+    "pushed_at": "2026-11-24T06:57:36Z",
+    "updated_at": "2026-11-24T06:58:16Z",
+    "size": 34,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "@thinkrail/pi-session-insights",
+  "name": "@thinkrail/pi-session-insights",
+  "url": "https://www.npmjs.com/package/@thinkrail/pi-session-insights",
+  "source": "npm-search",
+  "description": "A pi extension adding an `/insights` command: findings, usage and cost from your local pi sessions — failing commands, skills never loaded, rework, cost outliers, subagent spend pi's total misses — computed on your machine without a model or the network,",
+  "metadata": {
+    "github_url": "https://github.com/JetBrains/thinkrail",
+    "npm_name": "@thinkrail/pi-session-insights",
+    "description": "A pi extension adding an `/insights` command: findings, usage and cost from your local pi sessions — failing commands, skills never loaded, rework, cost outliers, subagent spend pi's total misses — computed on your machine without a model or the network, ",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "extension",
+      "insights",
+      "analytics",
+      "usage",
+      "cost",
+      "sessions"
+    ],
+    "version": "0.2.0",
+    "published_at": "2026-11-23T20:13:24.797Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

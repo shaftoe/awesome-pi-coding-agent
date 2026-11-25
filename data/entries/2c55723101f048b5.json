@@ -1,0 +1,32 @@
+{
+  "id": "loonbac-loon",
+  "name": "loonbac-loon",
+  "url": "https://github.com/loonbac/loon",
+  "source": "github-search",
+  "description": "LOON: LOON Offers Only Nuanced-gentle — Claude Code visual identity for pi",
+  "metadata": {
+    "github_url": "https://github.com/loonbac/loon",
+    "repo_full_name": "loonbac/loon",
+    "description": "LOON: LOON Offers Only Nuanced-gentle — Claude Code visual identity for pi",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 2,
+    "topics": [
+      "gentle-shell-extension",
+      "gentle-shell-package",
+      "gentle-shell-theme",
+      "pi",
+      "pi-package",
+      "theme"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-02T10:54:24Z",
+    "pushed_at": "2026-11-15T16:27:12Z",
+    "updated_at": "2026-11-18T18:25:01Z",
+    "size": 2358,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "misc"
+}

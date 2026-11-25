@@ -1,0 +1,33 @@
+{
+  "id": "@tklu/pi-egm",
+  "name": "@tklu/pi-egm",
+  "url": "https://www.npmjs.com/package/@tklu/pi-egm",
+  "source": "npm-search",
+  "description": "Draft specs, review designs, and check implementation drift.",
+  "metadata": {
+    "github_url": "https://github.com/dei03236/pi-egm",
+    "npm_name": "@tklu/pi-egm",
+    "description": "Draft specs, review designs, and check implementation drift.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "skills",
+      "spec-driven-development",
+      "design-documents",
+      "design-review",
+      "goldfish",
+      "elephant"
+    ],
+    "version": "0.5.4",
+    "published_at": "2026-11-16T22:15:32.722Z",
+    "npm_downloads_monthly": 725,
+    "npm_downloads_weekly": 725,
+    "npm_score_final": 18.771618,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

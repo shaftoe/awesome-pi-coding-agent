@@ -1,0 +1,28 @@
+{
+  "id": "pi-hud-plus",
+  "name": "pi-hud-plus",
+  "url": "https://www.npmjs.com/package/pi-hud-plus",
+  "source": "npm-search",
+  "description": "A claude-hud-style HUD for pi's footer",
+  "metadata": {
+    "github_url": "https://github.com/lkangd/pi-hud-plus",
+    "npm_name": "pi-hud-plus",
+    "description": "A claude-hud-style HUD for pi's footer",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "hud",
+      "statusline"
+    ],
+    "version": "0.3.1",
+    "published_at": "2026-11-19T03:12:08.692Z",
+    "npm_downloads_monthly": 332,
+    "npm_downloads_weekly": 332,
+    "npm_score_final": 16.933994,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

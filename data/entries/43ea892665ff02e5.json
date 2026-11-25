@@ -1,0 +1,43 @@
+{
+  "id": "zhiruiai-aihubot",
+  "name": "zhiruiai-aihubot",
+  "url": "https://github.com/zhiruiai/aihubot",
+  "source": "github-search",
+  "description": "aihubot is a self-hosted AI workspace for turning office briefs into reviewed files, reports and versioned websites in the same conversation.",
+  "metadata": {
+    "github_url": "https://github.com/zhiruiai/aihubot",
+    "repo_full_name": "zhiruiai/aihubot",
+    "description": "aihubot is a self-hosted AI workspace for turning office briefs into reviewed files, reports and versioned websites in the same conversation.",
+    "stars": 5,
+    "forks": 1,
+    "open_issues": 0,
+    "topics": [
+      "agent-harness",
+      "agent-memory",
+      "agent-skills",
+      "ai-agents",
+      "ai-coworker",
+      "browser-automation",
+      "computer-use",
+      "desktop-automation",
+      "grok-bot",
+      "grok-bot-alternative",
+      "human-in-the-loop",
+      "mcp",
+      "multi-agent",
+      "pi-coding-agent",
+      "self-hosted",
+      "web-search",
+      "workflow-automation"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-08T16:44:45Z",
+    "pushed_at": "2026-11-25T02:44:07Z",
+    "updated_at": "2026-11-24T02:02:59Z",
+    "size": 112642,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

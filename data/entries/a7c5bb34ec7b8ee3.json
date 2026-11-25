@@ -1,0 +1,29 @@
+{
+  "id": "@igor-guari/pi-skill-grill-with-docs",
+  "name": "@igor-guari/pi-skill-grill-with-docs",
+  "url": "https://www.npmjs.com/package/@igor-guari/pi-skill-grill-with-docs",
+  "source": "npm-search",
+  "description": "A relentless interview to sharpen a plan or design, which also creates docs (ADR's and glossary) as we go.",
+  "metadata": {
+    "github_url": "https://github.com/IgorGuariroba/pi-skill-grill-with-docs",
+    "npm_name": "@igor-guari/pi-skill-grill-with-docs",
+    "description": "A relentless interview to sharpen a plan or design, which also creates docs (ADR's and glossary) as we go.",
+    "keywords": [
+      "pi-package",
+      "pi-skill",
+      "pi",
+      "grill-with-docs",
+      "engineering-skills"
+    ],
+    "version": "1.0.0",
+    "published_at": "2026-11-05T17:19:52.693Z",
+    "npm_downloads_monthly": 250,
+    "npm_downloads_weekly": 18,
+    "npm_score_final": 15.723376,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

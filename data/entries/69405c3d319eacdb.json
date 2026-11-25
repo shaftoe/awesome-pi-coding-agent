@@ -1,0 +1,29 @@
+{
+  "id": "pi-provimux",
+  "name": "pi-provimux",
+  "url": "https://www.npmjs.com/package/pi-provimux",
+  "source": "npm-search",
+  "description": "Provimux's pi extension: registers the models of Provimux or CLIProxyAPI in pi, plus TUI elapsed/TPS status",
+  "metadata": {
+    "github_url": "https://github.com/ngvoicu/pi-provimux",
+    "npm_name": "pi-provimux",
+    "description": "Provimux's pi extension: registers the models of Provimux or CLIProxyAPI in pi, plus TUI elapsed/TPS status",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "cliproxyapi",
+      "provimux",
+      "tps"
+    ],
+    "version": "105.0.7",
+    "published_at": "2026-11-24T09:01:21.570Z",
+    "npm_downloads_monthly": 493,
+    "npm_downloads_weekly": 493,
+    "npm_score_final": 17.547834,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

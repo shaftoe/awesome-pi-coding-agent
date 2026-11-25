@@ -8,9 +8,9 @@
     "github_url": "https://github.com/disler/durable-pi",
     "repo_full_name": "disler/durable-pi",
     "description": "Durable Pi playground and agent network: persistent, multi-device durable agents with web and terminal clients",
-    "stars": 373,
-    "forks": 102,
-    "open_issues": 0,
+    "stars": 396,
+    "forks": 107,
+    "open_issues": 1,
     "topics": [
       "agentic-engineering",
       "ai-agents",
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-10-05T20:36:52Z",
     "pushed_at": "2026-10-11T18:49:55Z",
-    "updated_at": "2026-11-17T03:40:57Z",
+    "updated_at": "2026-11-25T04:22:38Z",
     "size": 1722,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

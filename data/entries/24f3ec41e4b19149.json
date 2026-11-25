@@ -1,0 +1,31 @@
+{
+  "id": "pi-md-render",
+  "name": "pi-md-render",
+  "url": "https://www.npmjs.com/package/pi-md-render",
+  "source": "npm-search",
+  "description": "Streaming-first rich Markdown, code and math rendering for the pi TUI (display-only; never touches LLM context).",
+  "metadata": {
+    "github_url": "https://github.com/teededung/pi-md-render",
+    "npm_name": "pi-md-render",
+    "description": "Streaming-first rich Markdown, code and math rendering for the pi TUI (display-only; never touches LLM context).",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "markdown",
+      "latex",
+      "mathjax",
+      "kitty",
+      "ghostty"
+    ],
+    "version": "0.4.9",
+    "published_at": "2026-11-24T14:43:53.803Z",
+    "npm_downloads_monthly": 840,
+    "npm_downloads_weekly": 259,
+    "npm_score_final": 19.631348,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

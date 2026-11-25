@@ -1,0 +1,27 @@
+{
+  "id": "@zhexin/pi-agy",
+  "name": "@zhexin/pi-agy",
+  "url": "https://www.npmjs.com/package/@zhexin/pi-agy",
+  "source": "npm-search",
+  "description": "Antigravity OAuth provider for the Pi agent.",
+  "metadata": {
+    "github_url": "https://github.com/jiang-zhexin/pi-pi",
+    "npm_name": "@zhexin/pi-agy",
+    "description": "Antigravity OAuth provider for the Pi agent.",
+    "keywords": [
+      "pi-package",
+      "antigravity",
+      "oauth"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-11-21T07:59:18.357Z",
+    "npm_downloads_monthly": 893,
+    "npm_downloads_weekly": 893,
+    "npm_score_final": 18.921206,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

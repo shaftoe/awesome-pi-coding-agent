@@ -1,0 +1,28 @@
+{
+  "id": "pi-scoped-memory",
+  "name": "pi-scoped-memory",
+  "url": "https://www.npmjs.com/package/pi-scoped-memory",
+  "source": "npm-search",
+  "description": "Scope-agnostic long-term memory extension for pi: remember/recall/forget tools plus frozen-snapshot injection into the system prompt. The plugin only knows a directory; the host owns identity.",
+  "metadata": {
+    "github_url": "https://github.com/njuptlzf/pi-scoped-memory",
+    "npm_name": "pi-scoped-memory",
+    "description": "Scope-agnostic long-term memory extension for pi: remember/recall/forget tools plus frozen-snapshot injection into the system prompt. The plugin only knows a directory; the host owns identity.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "memory",
+      "multi-tenant"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-11-11T07:47:01.104Z",
+    "npm_downloads_monthly": 365,
+    "npm_downloads_weekly": 309,
+    "npm_score_final": 16.933504,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

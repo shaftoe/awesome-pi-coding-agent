@@ -9,8 +9,8 @@
     "repo_full_name": "mtsu-dev/boite",
     "description": "All your work and agents in one place",
     "stars": 25,
-    "forks": 3,
-    "open_issues": 4,
+    "forks": 4,
+    "open_issues": 3,
     "topics": [
       "agent-manager",
       "ai-coding",
@@ -33,9 +33,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-08T19:28:42Z",
-    "pushed_at": "2026-11-17T02:54:12Z",
+    "pushed_at": "2026-11-24T21:05:36Z",
     "updated_at": "2026-11-15T15:24:35Z",
-    "size": 54770,
+    "size": 59453,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

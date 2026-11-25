@@ -1,0 +1,30 @@
+{
+  "id": "@octen.ai/pi-extension",
+  "name": "@octen.ai/pi-extension",
+  "url": "https://www.npmjs.com/package/@octen.ai/pi-extension",
+  "source": "npm-search",
+  "description": "Octen web search, news, company, place and page-reading tools for the Pi coding agent",
+  "metadata": {
+    "github_url": "https://github.com/Octen-Team/octen-js",
+    "npm_name": "@octen.ai/pi-extension",
+    "description": "Octen web search, news, company, place and page-reading tools for the Pi coding agent",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-coding-agent",
+      "octen",
+      "web-search",
+      "mcp"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-24T07:31:19.464Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "witt-bit-pi-splinter",
+  "name": "witt-bit-pi-splinter",
+  "url": "https://github.com/witt-bit/pi-splinter",
+  "source": "github-search",
+  "description": "Quality-of-life patches for the Pi TUI. Module 1: code cards with copy, raw toggle, text selection, and theme repaint.",
+  "metadata": {
+    "github_url": "https://github.com/witt-bit/pi-splinter",
+    "repo_full_name": "witt-bit/pi-splinter",
+    "description": "Quality-of-life patches for the Pi TUI. Module 1: code cards with copy, raw toggle, text selection, and theme repaint.",
+    "stars": 2,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-11-20T06:31:54Z",
+    "pushed_at": "2026-11-20T09:34:21Z",
+    "updated_at": "2026-11-20T07:19:42Z",
+    "size": 964,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "theme"
+}

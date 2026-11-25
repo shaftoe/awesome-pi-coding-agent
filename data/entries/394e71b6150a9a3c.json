@@ -1,0 +1,33 @@
+{
+  "id": "ecc-pi-port",
+  "name": "ecc-pi-port",
+  "url": "https://www.npmjs.com/package/ecc-pi-port",
+  "source": "npm-search",
+  "description": "Everything Claude Code (ECC) for Pi: 123 curated skills, prompt commands, rules, a hooks adapter, an isolated agent runner and an SDD flow.",
+  "metadata": {
+    "github_url": "https://github.com/AndresArreguy/ecc-pi-port",
+    "npm_name": "ecc-pi-port",
+    "description": "Everything Claude Code (ECC) for Pi: 123 curated skills, prompt commands, rules, a hooks adapter, an isolated agent runner and an SDD flow.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "ecc",
+      "everything-claude-code",
+      "skills",
+      "prompts",
+      "agents",
+      "hooks",
+      "sdd"
+    ],
+    "version": "0.9.0",
+    "published_at": "2026-11-24T14:41:18.784Z",
+    "npm_downloads_monthly": 546,
+    "npm_downloads_weekly": 208,
+    "npm_score_final": 18.465107,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

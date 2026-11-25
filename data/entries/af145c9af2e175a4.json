@@ -1,0 +1,25 @@
+{
+  "id": "@hex4c59/pi-ext-trae-cn",
+  "name": "@hex4c59/pi-ext-trae-cn",
+  "url": "https://www.npmjs.com/package/@hex4c59/pi-ext-trae-cn",
+  "source": "npm-search",
+  "description": "Trae CN provider for pi: reuse the locally signed-in Trae CN credential for chat and tools.",
+  "metadata": {
+    "github_url": "https://github.com/Hex4C59/my-pi-extensions",
+    "npm_name": "@hex4c59/pi-ext-trae-cn",
+    "description": "Trae CN provider for pi: reuse the locally signed-in Trae CN credential for chat and tools.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.6",
+    "published_at": "2026-11-24T11:15:41.596Z",
+    "npm_downloads_monthly": 847,
+    "npm_downloads_weekly": 462,
+    "npm_score_final": 20.020685,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

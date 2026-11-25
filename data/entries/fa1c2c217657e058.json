@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Bounded software-development and writing Guild roles with technical discovery, delivery planning, content craft, architecture, review, comments, Conventional Commit, and TDD guidance.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/anton-kochev/pithos-kit",
     "npm_name": "@pithos-kit/guild",
     "description": "Bounded software-development and writing Guild roles with technical discovery, delivery planning, content craft, architecture, review, comments, Conventional Commit, and TDD guidance.",
@@ -39,15 +40,14 @@
       "git",
       "conventional-commits"
     ],
-    "version": "0.13.0",
-    "published_at": "2026-11-17T01:08:35.509Z",
-    "npm_downloads_monthly": 1252,
-    "npm_downloads_weekly": 446,
-    "npm_score_final": 20.396124,
+    "version": "0.14.1",
+    "published_at": "2026-11-23T00:30:36.225Z",
+    "npm_downloads_monthly": 1322,
+    "npm_downloads_weekly": 437,
+    "npm_score_final": 21.367004,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

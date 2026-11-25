@@ -1,0 +1,38 @@
+{
+  "id": "@pipod/pi-antigravity-bridge",
+  "name": "@pipod/pi-antigravity-bridge",
+  "url": "https://www.npmjs.com/package/@pipod/pi-antigravity-bridge",
+  "source": "npm-search",
+  "description": "Pi and pipod provider through the official Antigravity CLI, with ACP streaming, client-owned sign-in and a Pi MCP tool bridge.",
+  "metadata": {
+    "github_url": "https://github.com/pi-pod/pi-antigravity-bridge",
+    "npm_name": "@pipod/pi-antigravity-bridge",
+    "description": "Pi and pipod provider through the official Antigravity CLI, with ACP streaming, client-owned sign-in and a Pi MCP tool bridge.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "antigravity",
+      "antigravity-acp",
+      "agy",
+      "gemini",
+      "google",
+      "google-acp",
+      "acp",
+      "agent-client-protocol",
+      "mcp",
+      "mcp-server",
+      "provider",
+      "streaming"
+    ],
+    "version": "1.11.1",
+    "published_at": "2026-11-14T01:26:47.313Z",
+    "npm_downloads_monthly": 456,
+    "npm_downloads_weekly": 456,
+    "npm_score_final": 18.078388,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

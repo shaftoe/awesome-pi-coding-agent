@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "Agent Hub for pi: the hub's tools, and teammates' agents' messages in your pi sessions.",
   "metadata": {
-    "github_url": "https://github.com/hyorman/agenthub-plugins",
+    "github_url": "https://github.com/division-software/agenthub-plugins",
     "npm_name": "@theagenthub/pi",
     "description": "Agent Hub for pi: the hub's tools, and teammates' agents' messages in your pi sessions.",
     "keywords": [
@@ -17,11 +17,11 @@
       "code-review",
       "pi-extension"
     ],
-    "version": "0.4.0",
-    "published_at": "2026-11-15T12:55:22.568Z",
-    "npm_downloads_monthly": 719,
-    "npm_downloads_weekly": 719,
-    "npm_score_final": 18.836851,
+    "version": "0.5.5",
+    "published_at": "2026-11-20T19:10:04.545Z",
+    "npm_downloads_monthly": 1917,
+    "npm_downloads_weekly": 1440,
+    "npm_score_final": 22.307634,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

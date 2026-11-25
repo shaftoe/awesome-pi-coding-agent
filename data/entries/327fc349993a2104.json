@@ -5,7 +5,7 @@
   "source": "npm-search",
   "description": "SAP CAP (Cloud Application Programming Model) skills for the pi coding agent — ships the official SAP capire/skills (cap-developer, cap-add-remote-service, cap-trivia, cap-upgrade) as a git submodule.",
   "metadata": {
-    "github_url": "https://github.com/Smotherer007/pi-cap-bestpractices",
+    "github_url": "https://github.com/patimweb-agents/pi-cap-bestpractices",
     "npm_name": "@patimweb/pi-cap-bestpractices",
     "description": "SAP CAP (Cloud Application Programming Model) skills for the pi coding agent — ships the official SAP capire/skills (cap-developer, cap-add-remote-service, cap-trivia, cap-upgrade) as a git submodule.",
     "keywords": [
@@ -19,11 +19,11 @@
       "best-practices",
       "capire"
     ],
-    "version": "2.0.0",
-    "published_at": "2026-08-25T09:52:16.290Z",
-    "npm_downloads_monthly": 298,
-    "npm_downloads_weekly": 20,
-    "npm_score_final": 17.357635,
+    "version": "2.0.1",
+    "published_at": "2026-11-13T07:31:22.289Z",
+    "npm_downloads_monthly": 254,
+    "npm_downloads_weekly": 212,
+    "npm_score_final": 16.092976,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,

@@ -1,0 +1,42 @@
+{
+  "id": "@dibs.ai/dibs",
+  "name": "@dibs.ai/dibs",
+  "url": "https://www.npmjs.com/package/@dibs.ai/dibs",
+  "source": "npm-search",
+  "description": "Shared task store for coding agents: CLI, MCP server and todo.txt, with plugins for Claude Code, opencode, Pi, Codex and Cursor.",
+  "metadata": {
+    "github_url": "https://github.com/arobida/dibs",
+    "npm_name": "@dibs.ai/dibs",
+    "description": "Shared task store for coding agents: CLI, MCP server and todo.txt, with plugins for Claude Code, opencode, Pi, Codex and Cursor.",
+    "keywords": [
+      "dibs",
+      "ai-agents",
+      "coding-agent",
+      "task-manager",
+      "todo",
+      "todo.txt",
+      "mcp",
+      "mcp-server",
+      "claude-code",
+      "claude-code-plugin",
+      "opencode",
+      "opencode-plugin",
+      "pi-package",
+      "pi",
+      "codex",
+      "cursor",
+      "dex",
+      "things"
+    ],
+    "version": "0.1.7",
+    "published_at": "2026-11-22T04:08:10.560Z",
+    "npm_downloads_monthly": 1715,
+    "npm_downloads_weekly": 1715,
+    "npm_score_final": 21.507872,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

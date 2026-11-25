@@ -1,7 +1,6 @@
 ---
 /**
- * Custom search component replacing Starlight's default Pagefind search.
- * Uses a pre-built search-index.json for client-side search across all entries.
+ * Custom search interface backed by MiniSearch's in-memory resource index.
  * Results link directly to external URLs (npm, GitHub, YouTube).
  */
 ---
@@ -55,33 +54,12 @@
 </script>
 
 <script>
+	import { createHighlighter, createSearchHandler, preloadSearch, type SearchEntry } from "../lib/search";
 	const CATEGORY_ICONS: Record<string, string> = {
 		extension: '🔌', theme: '🎨', video: '🎬', misc: '📦',
 	};
 
-	type SearchEntry = { n: string; d: string; c: string; u: string; h: string; s: number; p: string };
-	let index: SearchEntry[] | null = null;
-
-	async function loadIndex(): Promise<SearchEntry[]> {
-		if (index) return index;
-		const res = await fetch('/search-index.json');
-		index = await res.json();
-		return index!;
-	}
-
-	function search(entries: SearchEntry[], query: string): SearchEntry[] {
-		const q = query.toLowerCase().trim();
-		if (!q) return [];
-		const terms = q.split(/\s+/).filter(Boolean);
-		return entries
-			.filter((e) => {
-				const text = `${e.n} ${e.d} ${e.c}`.toLowerCase();
-				return terms.every((t) => text.includes(t));
-			})
-			.slice(0, 50);
-	}
-
-	function renderResults(container: HTMLElement, results: SearchEntry[], query: string) {
+	function renderResults(container: HTMLElement, results: SearchEntry[], query: string, total: number) {
 		if (!query.trim()) {
 			container.innerHTML = '<div class="no-results">Type to search across all resources…</div>';
 			return;
@@ -91,17 +69,17 @@
 			return;
 		}
 		const escapedQuery = encodeURIComponent(query.trim());
-		const viewAllLink = `<a href="/?q=${escapedQuery}" class="view-all-results">View all ${results.length} results on page →</a>`;
+		const viewAllLink = `<a href="/?q=${escapedQuery}" class="view-all-results">View all ${total} results on page →</a>`;
+		const highlight = createHighlighter(query);
 		container.innerHTML = results
-			.slice(0, 50)
 			.map((r) => {
 				const icon = CATEGORY_ICONS[r.c] || '📄';
 				const popHtml = r.p ? `<span class="result-stars">${r.p}</span>` : '';
 				return `<a href="${r.u}" target="_blank" rel="noopener noreferrer" class="result-item">
 					<span class="result-icon">${icon}</span>
 					<div class="result-body">
-						<div class="result-title">${highlight(r.n, query)}</div>
-						<div class="result-desc">${highlight(truncate(r.d, 120), query)}</div>
+						<div class="result-title">${highlight(r.n)}</div>
+						<div class="result-desc">${highlight(truncate(r.d, 120))}</div>
 						<div class="result-meta">
 							<span class="result-category">${r.c}</span>
 							${popHtml}
@@ -111,25 +89,6 @@
 				</a>`;
 			})
 			.join('') + viewAllLink;
-	}
-
-	function highlight(text: string, query: string): string {
-		if (!query.trim()) return escapeHtml(text);
-		const terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
-		let result = escapeHtml(text);
-		for (const term of terms) {
-			const regex = new RegExp(`(${escapeRegex(term)})`, 'gi');
-			result = result.replace(regex, '<mark>$1</mark>');
-		}
-		return result;
-	}
-
-	function escapeHtml(s: string): string {
-		return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-	}
-
-	function escapeRegex(s: string): string {
-		return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 	}
 
 	function truncate(s: string, len: number): string {
@@ -144,9 +103,7 @@
 			const dialog = this.querySelector('dialog')!;
 			const dialogFrame = this.querySelector('.dialog-frame')!;
 			const input = this.querySelector<HTMLInputElement>('input[type="search"]')!;
-			const resultsList = this.querySelector('.results-list')!;
-
-			let loaded = false;
+			const resultsList = this.querySelector<HTMLElement>('.results-list')!;
 
 			const onClick = (event: MouseEvent) => {
 				const isLink = 'href' in (event.target || {});
@@ -158,17 +115,16 @@
 				}
 			};
 
-			const openModal = async (event?: MouseEvent) => {
+			const openModal = (event?: MouseEvent) => {
 				dialog.showModal();
 				document.body.toggleAttribute('data-search-modal-open', true);
 				input.focus();
 				event?.stopPropagation();
 				window.addEventListener('click', onClick);
-				if (!loaded) {
-					await loadIndex();
-					loaded = true;
-					if (input.value.trim()) onInput();
-				}
+				void preloadSearch().catch(() => {
+					// The next query retries and reports a load failure.
+				});
+				onInput();
 			};
 
 			const closeModal = () => dialog.close();
@@ -189,16 +145,16 @@
 				}
 			});
 
-			let debounceTimer: ReturnType<typeof setTimeout>;
-			const onInput = () => {
-				clearTimeout(debounceTimer);
-				debounceTimer = setTimeout(() => {
-					if (!index) return;
-					const q = input.value;
-					const results = search(index, q);
-					renderResults(resultsList, results, q);
-				}, 150);
-			};
+			const { onInput } = createSearchHandler(input, {
+				limit: 50,
+				onQuery() {
+					resultsList.innerHTML = '<div class="no-results">Searching…</div>';
+				},
+				showResults: (query, { entries, total }) => renderResults(resultsList, entries, query, total),
+				showLoadError() {
+					resultsList.innerHTML = '<div class="no-results">Search could not load. Please try again.</div>';
+				},
+			});
 
 			input.addEventListener('input', onInput);
 		}
