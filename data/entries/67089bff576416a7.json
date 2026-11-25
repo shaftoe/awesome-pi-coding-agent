@@ -10,7 +10,7 @@
     "description": "Durable asynchronous shell commands for Pi with bounded waits, searchable logs, PTY input, and workspace recovery.",
     "stars": 2,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "topics": [
       "async",
       "background-jobs",

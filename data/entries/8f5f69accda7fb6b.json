@@ -1,0 +1,28 @@
+{
+  "id": "pi-efficient-tool-use",
+  "name": "pi-efficient-tool-use",
+  "url": "https://www.npmjs.com/package/pi-efficient-tool-use",
+  "source": "npm-search",
+  "description": "Pi extension that reminds the agent to batch independent lookups, shows how often that worked, and fixes a few wasteful tool calls where they happen.",
+  "metadata": {
+    "github_url": "https://github.com/Don-Yin/pi-efficient-tool-use",
+    "npm_name": "pi-efficient-tool-use",
+    "description": "Pi extension that reminds the agent to batch independent lookups, shows how often that worked, and fixes a few wasteful tool calls where they happen.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "tools",
+      "efficiency"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-17T15:43:14.253Z",
+    "npm_downloads_monthly": 448,
+    "npm_downloads_weekly": 448,
+    "npm_score_final": 18.019758,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
