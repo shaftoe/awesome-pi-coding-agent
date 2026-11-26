@@ -21,9 +21,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-27T11:47:44Z",
-    "pushed_at": "2026-11-23T15:45:16Z",
+    "pushed_at": "2026-11-25T09:57:26Z",
     "updated_at": "2026-11-17T11:06:49Z",
-    "size": 6154,
+    "size": 6441,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

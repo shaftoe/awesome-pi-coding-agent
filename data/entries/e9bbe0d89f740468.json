@@ -1,0 +1,30 @@
+{
+  "id": "wangxuyang1221-pi-theme",
+  "name": "wangxuyang1221-pi-theme",
+  "url": "https://github.com/wangxuyang1221/pi-theme",
+  "source": "github-search",
+  "description": "Terminal themes and UI extensions for Pi.",
+  "metadata": {
+    "github_url": "https://github.com/wangxuyang1221/pi-theme",
+    "repo_full_name": "wangxuyang1221/pi-theme",
+    "description": "Terminal themes and UI extensions for Pi.",
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "mcp",
+      "pi-extension",
+      "pi-package",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-25T04:00:54Z",
+    "pushed_at": "2026-11-26T01:58:03Z",
+    "updated_at": "2026-11-25T09:47:04Z",
+    "size": 18082,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-theme language:TypeScript"
+  },
+  "category": "extension"
+}

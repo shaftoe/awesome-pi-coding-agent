@@ -3,15 +3,15 @@
   "name": "Pi.dev Review: Hands-On Look at the Pi Coding Agent - Petronella Cybersecurity News",
   "url": "https://petronellatech.com/blog/pi-dev-platform-review/",
   "source": "brave-web-search",
-  "description": "Explore pi dev in this hands-on review of the Pi coding agent. Learn about its open-source features, model support, data handling, and fit for regulated teams.",
+  "description": "Pi is an open-source, terminal-based AI coding agent that you run locally on your own machine, connect to any of 15-plus model providers, and extend with TypeScript code. There is no SaaS account, no dashboard, no workspace in the cloud.",
   "metadata": {
     "title": "Pi.dev Review: Hands-On Look at the Pi Coding Agent - Petronella Cybersecurity News",
     "name": "Pi.dev Review: Hands-On Look at the Pi Coding Agent - Petronella Cybersecurity News",
-    "description": "Explore pi dev in this hands-on review of the Pi coding agent. Learn about its open-source features, model support, data handling, and fit for regulated teams.",
+    "description": "Pi is an open-source, terminal-based AI coding agent that you run locally on your own machine, connect to any of 15-plus model providers, and extend with TypeScript code. There is no SaaS account, no dashboard, no workspace in the cloud.",
     "published_at": "2026-07-23T13:00:00",
     "source_site": "Petronellatech",
     "source_url": "https://petronellatech.com/blog/pi-dev-platform-review/",
-    "discovery_hint": "brave:pi-agent"
+    "discovery_hint": "brave:pi-coding-agent"
   },
   "health": {
     "score": 46,

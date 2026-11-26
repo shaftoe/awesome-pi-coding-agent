@@ -9,7 +9,7 @@
     "repo_full_name": "sugarforever/moose",
     "description": "AI Agent for iOS and Android, powered by Pi Durable. Streaming conversations, skills, and optional Android Termux execution.",
     "stars": 7,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 3,
     "topics": [
       "agent",

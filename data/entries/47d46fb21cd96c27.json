@@ -1,0 +1,25 @@
+{
+  "id": "@celljs/ta-meeting",
+  "name": "@celljs/ta-meeting",
+  "url": "https://www.npmjs.com/package/@celljs/ta-meeting",
+  "source": "npm-search",
+  "description": "A pi package for Ta: meetings written down as they are said, then minutes, key points and to-dos, and the to-dos Ta can do done once the user picks them",
+  "metadata": {
+    "github_url": "https://github.com/cellbang/cell",
+    "npm_name": "@celljs/ta-meeting",
+    "description": "A pi package for Ta: meetings written down as they are said, then minutes, key points and to-dos, and the to-dos Ta can do done once the user picks them",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "4.35.0",
+    "published_at": "2026-11-26T01:24:33.080Z",
+    "npm_downloads_monthly": 291,
+    "npm_downloads_weekly": 291,
+    "npm_score_final": 16.537361,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

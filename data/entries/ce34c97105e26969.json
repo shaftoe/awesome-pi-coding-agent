@@ -10,7 +10,7 @@
     "description": "Always-on durable pi agent on your server that you talk to in Telegram. Survives crashes and restarts, keeps history in SQLite. pi-durable Telegram gateway.",
     "stars": 56,
     "forks": 6,
-    "open_issues": 3,
+    "open_issues": 4,
     "topics": [
       "ai-agent",
       "ai-assistant",
@@ -36,9 +36,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-11T00:35:37Z",
-    "pushed_at": "2026-11-02T21:33:32Z",
+    "pushed_at": "2026-11-25T08:37:09Z",
     "updated_at": "2026-11-24T19:13:45Z",
-    "size": 1612,
+    "size": 1621,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },

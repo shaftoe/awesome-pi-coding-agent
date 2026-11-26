@@ -1,0 +1,26 @@
+{
+  "id": "@gjermundgaraba/pi-mcp-bleeding-edge",
+  "name": "@gjermundgaraba/pi-mcp-bleeding-edge",
+  "url": "https://www.npmjs.com/package/@gjermundgaraba/pi-mcp-bleeding-edge",
+  "source": "npm-search",
+  "description": "Replaces pi's built-in MCP support with a client on the official MCP TypeScript SDK v2, speaking protocol 2026-07-28 and falling back to 2025-era servers.",
+  "metadata": {
+    "github_url": "https://github.com/gjermundgaraba/pi-mcp-bleeding-edge",
+    "npm_name": "@gjermundgaraba/pi-mcp-bleeding-edge",
+    "description": "Replaces pi's built-in MCP support with a client on the official MCP TypeScript SDK v2, speaking protocol 2026-07-28 and falling back to 2025-era servers.",
+    "keywords": [
+      "mcp",
+      "pi-package"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-23T22:29:16.965Z",
+    "npm_downloads_monthly": 1490,
+    "npm_downloads_weekly": 1490,
+    "npm_score_final": 21.384346,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

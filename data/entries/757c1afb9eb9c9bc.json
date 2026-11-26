@@ -1,0 +1,41 @@
+{
+  "id": "@zharskiy/pinata",
+  "name": "@zharskiy/pinata",
+  "url": "https://www.npmjs.com/package/@zharskiy/pinata",
+  "source": "npm-search",
+  "description": "Extensions for the pi coding agent: background subagents you run, watch and message from the main session (a panel below the editor and an /agents overlay), session limits that hand the main conversation over to a new session before its context fills up,",
+  "metadata": {
+    "github_url": "https://github.com/zharskiy/pinata",
+    "npm_name": "@zharskiy/pinata",
+    "description": "Extensions for the pi coding agent: background subagents you run, watch and message from the main session (a panel below the editor and an /agents overlay), session limits that hand the main conversation over to a new session before its context fills up, ",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "subagents",
+      "session-limits",
+      "spending",
+      "working-indicator",
+      "notifications",
+      "command-aliases",
+      "composer",
+      "questionnaire",
+      "style",
+      "context",
+      "footer",
+      "mcp-import",
+      "transcript",
+      "model-default",
+      "prune"
+    ],
+    "version": "1.2.0",
+    "published_at": "2026-11-25T12:31:36.210Z",
+    "npm_downloads_monthly": 453,
+    "npm_downloads_weekly": 453,
+    "npm_score_final": 17.69198,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

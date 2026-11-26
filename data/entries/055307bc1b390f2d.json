@@ -10,7 +10,7 @@
     "description": "Keep Claude Code as the lead and hand the work to Codex, Gemini (Antigravity), OpenCode or pi as native subagents on your own login, saving Claude's tokens and context.",
     "stars": 4,
     "forks": 4,
-    "open_issues": 15,
+    "open_issues": 16,
     "topics": [
       "acp",
       "agent-client-protocol",

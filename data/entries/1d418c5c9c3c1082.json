@@ -1,0 +1,26 @@
+{
+  "id": "@maxiaochao/pi-claude-cage",
+  "name": "@maxiaochao/pi-claude-cage",
+  "url": "https://www.npmjs.com/package/@maxiaochao/pi-claude-cage",
+  "source": "npm-search",
+  "description": "Use a guest-local Claude Code provider through Claude Cage with host tools and preemptible Pi cache warming.",
+  "metadata": {
+    "github_url": "https://github.com/chaochaoxiaochao/pi-toolkit",
+    "npm_name": "@maxiaochao/pi-claude-cage",
+    "description": "Use a guest-local Claude Code provider through Claude Cage with host tools and preemptible Pi cache warming.",
+    "keywords": [
+      "pi-package",
+      "claude-cage"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-11-25T15:14:20.114Z",
+    "npm_downloads_monthly": 548,
+    "npm_downloads_weekly": 548,
+    "npm_score_final": 19.056814,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}
