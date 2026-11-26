@@ -1,0 +1,26 @@
+{
+  "id": "@saifymatteo/pi-draft",
+  "name": "@saifymatteo/pi-draft",
+  "url": "https://www.npmjs.com/package/@saifymatteo/pi-draft",
+  "source": "npm-search",
+  "description": "Autosave the unsent prompt and restore it on the next launch in the same folder.",
+  "metadata": {
+    "github_url": "https://github.com/saifymatteo/pi-extensions",
+    "npm_name": "@saifymatteo/pi-draft",
+    "description": "Autosave the unsent prompt and restore it on the next launch in the same folder.",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-18T13:09:18.078Z",
+    "npm_downloads_monthly": 485,
+    "npm_downloads_weekly": 485,
+    "npm_score_final": 18.644062,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

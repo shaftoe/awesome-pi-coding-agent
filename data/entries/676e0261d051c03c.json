@@ -1,0 +1,29 @@
+{
+  "id": "pi-kitani",
+  "name": "pi-kitani",
+  "url": "https://www.npmjs.com/package/pi-kitani",
+  "source": "npm-search",
+  "description": "pi extension for Kitani AI",
+  "metadata": {
+    "github_url": "https://github.com/joeljuca/pi-kitani",
+    "npm_name": "pi-kitani",
+    "description": "pi extension for Kitani AI",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "kitani",
+      "kitani-ai"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-18T16:15:23.359Z",
+    "npm_downloads_monthly": 324,
+    "npm_downloads_weekly": 324,
+    "npm_score_final": 16.943186,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

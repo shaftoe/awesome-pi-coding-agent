@@ -10,7 +10,7 @@
     "description": "A modular Pi coding-agent toolkit: Codex-style UI, durable subagents, deferred execution tools and questionnaires, goals, web access, session recall, LSP, and context compaction.",
     "stars": 4,
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 8,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

@@ -10,7 +10,7 @@
     "description": "Claude Code-style tool folding for the pi coding agent — a reply's tool calls collapse to one clickable line",
     "stars": 85,
     "forks": 12,
-    "open_issues": 5,
+    "open_issues": 7,
     "topics": [
       "pi-coding-agent",
       "pi-extension",

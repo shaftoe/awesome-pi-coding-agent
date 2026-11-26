@@ -1,0 +1,25 @@
+{
+  "id": "pi-t3code-sticky-prefix",
+  "name": "pi-t3code-sticky-prefix",
+  "url": "https://www.npmjs.com/package/pi-t3code-sticky-prefix",
+  "source": "npm-search",
+  "description": "Keep the parent model's account prefix when T3 Code delegates through Pi.",
+  "metadata": {
+    "github_url": "https://github.com/SpyrosPsarras/pi-t3code-sticky-prefix",
+    "npm_name": "pi-t3code-sticky-prefix",
+    "description": "Keep the parent model's account prefix when T3 Code delegates through Pi.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-11-25T09:09:03.176Z",
+    "npm_downloads_monthly": 519,
+    "npm_downloads_weekly": 519,
+    "npm_score_final": 18.87303,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

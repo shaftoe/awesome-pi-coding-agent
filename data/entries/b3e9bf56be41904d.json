@@ -1,0 +1,33 @@
+{
+  "id": "@pratikgajjar/pi-mcp-events",
+  "name": "@pratikgajjar/pi-mcp-events",
+  "url": "https://www.npmjs.com/package/@pratikgajjar/pi-mcp-events",
+  "source": "npm-search",
+  "description": "pi extension: MCP Events (SEP-3415) for the MCP servers in pi's mcp.json. An event wakes the pi session.",
+  "metadata": {
+    "github_url": "https://github.com/pratikgajjar/pi-mcp-events",
+    "npm_name": "@pratikgajjar/pi-mcp-events",
+    "description": "pi extension: MCP Events (SEP-3415) for the MCP servers in pi's mcp.json. An event wakes the pi session.",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "pi-extension",
+      "mcp",
+      "model-context-protocol",
+      "mcp-events",
+      "sep-3415",
+      "events",
+      "ai-agent"
+    ],
+    "version": "0.1.2",
+    "published_at": "2026-11-18T00:04:18.372Z",
+    "npm_downloads_monthly": 693,
+    "npm_downloads_weekly": 693,
+    "npm_score_final": 19.460892,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

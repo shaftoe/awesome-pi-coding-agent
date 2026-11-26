@@ -8,8 +8,8 @@
     "github_url": "https://github.com/gautamgpt1/agent-session-browser",
     "repo_full_name": "gautamgpt1/agent-session-browser",
     "description": "Browse, filter, export, and resume local Codex, Claude Code, Gemini CLI, Pi, and Antigravity sessions.",
-    "stars": 36,
-    "forks": 3,
+    "stars": 37,
+    "forks": 4,
     "open_issues": 5,
     "topics": [
       "ai-agents",
@@ -28,7 +28,7 @@
     "archived": false,
     "created_at": "2026-08-29T22:29:23Z",
     "pushed_at": "2026-09-12T20:42:53Z",
-    "updated_at": "2026-11-11T09:21:10Z",
+    "updated_at": "2026-11-25T10:28:47Z",
     "size": 19484,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"

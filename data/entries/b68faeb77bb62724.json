@@ -1,0 +1,31 @@
+{
+  "id": "@adilfaisal01/pi-agents",
+  "name": "@adilfaisal01/pi-agents",
+  "url": "https://www.npmjs.com/package/@adilfaisal01/pi-agents",
+  "source": "npm-search",
+  "description": "Per-mode capability profiles, a two-model code review with its gate, and isolated subagent dispatch for the Pi coding agent — as one install.",
+  "metadata": {
+    "github_url": "https://github.com/adilfaisal01/pi-agents",
+    "npm_name": "@adilfaisal01/pi-agents",
+    "description": "Per-mode capability profiles, a two-model code review with its gate, and isolated subagent dispatch for the Pi coding agent — as one install.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "agent-modes",
+      "permissions",
+      "code-review",
+      "subagent",
+      "review"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-18T21:18:26.729Z",
+    "npm_downloads_monthly": 444,
+    "npm_downloads_weekly": 444,
+    "npm_score_final": 17.749266,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

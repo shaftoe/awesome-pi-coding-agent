@@ -10,7 +10,7 @@
     "description": "An agentic development environment (ADE) for Windows, macOS and Linux, and a VS Code extension. Chat with Claude, GPT and other models, approve diffs, rewind checkpoints, plan and design before you build, work over SSH, WSL and dev containers, and use persistent memory, subagents, teams and MCP, powered by the Pi agent runtime.",
     "stars": 81,
     "forks": 8,
-    "open_issues": 2,
+    "open_issues": 51,
     "topics": [],
     "language": "TypeScript",
     "archived": false,

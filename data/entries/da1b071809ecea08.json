@@ -23,9 +23,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-04-01T22:57:37Z",
-    "pushed_at": "2026-11-24T22:28:16Z",
+    "pushed_at": "2026-11-25T23:30:12Z",
     "updated_at": "2026-11-15T19:48:01Z",
-    "size": 40830,
+    "size": 40547,
     "license": "GPL-3.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
