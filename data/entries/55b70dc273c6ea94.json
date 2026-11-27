@@ -1,0 +1,25 @@
+{
+  "id": "@srobroek/pi-agent-coder",
+  "name": "@srobroek/pi-agent-coder",
+  "url": "https://www.npmjs.com/package/@srobroek/pi-agent-coder",
+  "source": "npm-search",
+  "description": "coder subagent for any code development task (implement, fix, debug, test, build, profile, upgrade deps) with only coding tools and skills.",
+  "metadata": {
+    "github_url": "https://github.com/srobroek/harness-plugins",
+    "npm_name": "@srobroek/pi-agent-coder",
+    "description": "coder subagent for any code development task (implement, fix, debug, test, build, profile, upgrade deps) with only coding tools and skills.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "0.14.2",
+    "published_at": "2026-11-26T09:48:18.520Z",
+    "npm_downloads_monthly": 712,
+    "npm_downloads_weekly": 712,
+    "npm_score_final": 19.320889,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

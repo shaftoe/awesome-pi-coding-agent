@@ -1,0 +1,28 @@
+{
+  "id": "@e2b/pi",
+  "name": "@e2b/pi",
+  "url": "https://www.npmjs.com/package/@e2b/pi",
+  "source": "npm-search",
+  "description": "Pi coding agent extension that runs every tool call in an E2B sandbox while the agent runs on your machine",
+  "metadata": {
+    "github_url": "https://github.com/e2b-dev/pi-extension",
+    "npm_name": "@e2b/pi",
+    "description": "Pi coding agent extension that runs every tool call in an E2B sandbox while the agent runs on your machine",
+    "keywords": [
+      "e2b",
+      "pi-extension",
+      "pi-package",
+      "sandbox"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-10-15T12:12:58.394Z",
+    "npm_downloads_monthly": 566,
+    "npm_downloads_weekly": 379,
+    "npm_score_final": 18.40494,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

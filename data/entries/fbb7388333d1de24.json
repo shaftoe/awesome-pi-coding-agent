@@ -1,0 +1,27 @@
+{
+  "id": "@rackrot/pi-agents",
+  "name": "@rackrot/pi-agents",
+  "url": "https://www.npmjs.com/package/@rackrot/pi-agents",
+  "source": "npm-search",
+  "description": "Curated pi-subagents agent definitions with settings-driven model/thinking overrides",
+  "metadata": {
+    "github_url": "https://github.com/rackrot/pi-tools",
+    "npm_name": "@rackrot/pi-agents",
+    "description": "Curated pi-subagents agent definitions with settings-driven model/thinking overrides",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-subagents"
+    ],
+    "version": "0.4.0",
+    "published_at": "2026-11-27T04:17:16.362Z",
+    "npm_downloads_monthly": 559,
+    "npm_downloads_weekly": 559,
+    "npm_score_final": 18.42526,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

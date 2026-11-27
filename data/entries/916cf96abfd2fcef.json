@@ -5,21 +5,21 @@
   "source": "npm-search",
   "description": "Tracks and reviews price, BSR and Buy Box, yours and rivals'.",
   "metadata": {
-    "pi_declares_extension": true,
     "github_url": "https://github.com/comchatx/cx-keepa",
     "npm_name": "cx-keepa",
     "description": "Tracks and reviews price, BSR and Buy Box, yours and rivals'.",
     "keywords": [
       "pi-package"
     ],
-    "version": "0.1.15",
-    "published_at": "2026-11-24T04:25:41.768Z",
-    "npm_downloads_monthly": 2054,
-    "npm_downloads_weekly": 470,
-    "npm_score_final": 22.76693,
+    "version": "0.1.16",
+    "published_at": "2026-11-26T06:38:19.648Z",
+    "npm_downloads_monthly": 2730,
+    "npm_downloads_weekly": 1163,
+    "npm_score_final": 23.522337,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

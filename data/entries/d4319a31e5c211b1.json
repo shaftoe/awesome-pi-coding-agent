@@ -1,0 +1,29 @@
+{
+  "id": "pi-tokendance",
+  "name": "pi-tokendance",
+  "url": "https://www.npmjs.com/package/pi-tokendance",
+  "source": "npm-search",
+  "description": "TokenDance provider for pi, authenticated with OAuth (authorization code + PKCE) and defaulting to the OpenAI Responses protocol.",
+  "metadata": {
+    "github_url": "https://github.com/jayeliu/pi-tokendance",
+    "npm_name": "pi-tokendance",
+    "description": "TokenDance provider for pi, authenticated with OAuth (authorization code + PKCE) and defaulting to the OpenAI Responses protocol.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "tokendance",
+      "oauth",
+      "openai-responses"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-19T16:13:49.034Z",
+    "npm_downloads_monthly": 479,
+    "npm_downloads_weekly": 479,
+    "npm_score_final": 17.614248,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

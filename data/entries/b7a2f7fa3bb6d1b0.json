@@ -1,0 +1,35 @@
+{
+  "id": "losandes-pi-crust",
+  "name": "losandes-pi-crust",
+  "url": "https://github.com/losandes/pi-crust",
+  "source": "github-search",
+  "description": "Run a structured SDLC of autonomous, specialist AI agents in your repo. Watch it run, ask it questions, and steer it in mid-flight with the included web app. Revisit past sessions, branch new ones, or dive into how it produced it's outcomes with SQLite traces and archived sessions files.",
+  "metadata": {
+    "github_url": "https://github.com/losandes/pi-crust",
+    "repo_full_name": "losandes/pi-crust",
+    "description": "Run a structured SDLC of autonomous, specialist AI agents in your repo. Watch it run, ask it questions, and steer it in mid-flight with the included web app. Revisit past sessions, branch new ones, or dive into how it produced it's outcomes with SQLite traces and archived sessions files.",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 17,
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skill",
+      "pi",
+      "pi-coding-agent",
+      "pi-extension",
+      "pi-package"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-10-08T01:34:50Z",
+    "pushed_at": "2026-11-26T21:20:24Z",
+    "updated_at": "2026-11-26T23:47:23Z",
+    "size": 10169,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-package language:TypeScript"
+  },
+  "category": "extension"
+}

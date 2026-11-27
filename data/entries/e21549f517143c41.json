@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_cloudroom.dev_pi-coding-agent",
+  "name": "Pi Coding Agent (2026): Setup, Models, and Running It in the Cloud | Cloudroom",
+  "url": "https://www.cloudroom.dev/blog/pi-coding-agent",
+  "source": "brave-web-search",
+  "description": "Pi is a free, open-source coding agent that runs in your terminal. It reads, edits, and writes files and runs shell commands, using almost any model you choose. Unlike Claude Code, it ships with no subagents, plan mode, or permission prompts, ...",
+  "metadata": {
+    "title": "Pi Coding Agent (2026): Setup, Models, and Running It in the Cloud | Cloudroom",
+    "name": "Pi Coding Agent (2026): Setup, Models, and Running It in the Cloud | Cloudroom",
+    "description": "Pi is a free, open-source coding agent that runs in your terminal. It reads, edits, and writes files and runs shell commands, using almost any model you choose. Unlike Claude Code, it ships with no subagents, plan mode, or permission prompts, ...",
+    "published_at": "2026-10-27T00:00:00",
+    "source_site": "Cloudroom",
+    "source_url": "https://www.cloudroom.dev/blog/pi-coding-agent",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

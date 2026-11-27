@@ -1,0 +1,26 @@
+{
+  "id": "@rackrot/pi-skill-index",
+  "name": "@rackrot/pi-skill-index",
+  "url": "https://www.npmjs.com/package/@rackrot/pi-skill-index",
+  "source": "npm-search",
+  "description": "Per-skill system-prompt exposure levels and a BM25 skill_search tool",
+  "metadata": {
+    "github_url": "https://github.com/rackrot/pi-tools",
+    "npm_name": "@rackrot/pi-skill-index",
+    "description": "Per-skill system-prompt exposure levels and a BM25 skill_search tool",
+    "keywords": [
+      "pi-package",
+      "pi-extension"
+    ],
+    "version": "0.3.0",
+    "published_at": "2026-11-27T02:56:58.179Z",
+    "npm_downloads_monthly": 538,
+    "npm_downloads_weekly": 538,
+    "npm_score_final": 18.816206,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

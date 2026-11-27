@@ -8,7 +8,7 @@
     "github_url": "https://github.com/ribbons-digital/pi-advisor",
     "repo_full_name": "ribbons-digital/pi-advisor",
     "description": "Automatic isolated secondary review for Pi coding agent sessions",
-    "stars": 4,
+    "stars": 5,
     "forks": 3,
     "open_issues": 5,
     "topics": [
@@ -22,7 +22,7 @@
     "archived": false,
     "created_at": "2026-07-16T02:29:06Z",
     "pushed_at": "2026-10-03T03:54:37Z",
-    "updated_at": "2026-10-03T03:50:33Z",
+    "updated_at": "2026-11-26T13:21:09Z",
     "size": 1280,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"

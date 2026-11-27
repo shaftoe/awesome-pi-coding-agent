@@ -1,0 +1,31 @@
+{
+  "id": "master-orchestrator",
+  "name": "master-orchestrator",
+  "url": "https://www.npmjs.com/package/master-orchestrator",
+  "source": "npm-search",
+  "description": "Pi package that turns pi into an orchestrator of other coding agents: delegation, debate and planning",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "master-orchestrator",
+    "description": "Pi package that turns pi into an orchestrator of other coding agents: delegation, debate and planning",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "coding-agent",
+      "orchestrator",
+      "codex",
+      "claude-code",
+      "opencode"
+    ],
+    "version": "0.5.0",
+    "published_at": "2026-11-26T16:44:41.046Z",
+    "npm_downloads_monthly": 669,
+    "npm_downloads_weekly": 669,
+    "npm_score_final": 19.546213,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

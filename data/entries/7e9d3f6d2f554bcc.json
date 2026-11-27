@@ -5,7 +5,6 @@
   "source": "npm-search",
   "description": "Captures user decisions and re-injects them into the system prompt after compaction and into subagents, so the agent never forgets a decision you made.",
   "metadata": {
-    "pi_declares_extension": true,
     "github_url": "https://github.com/avtc/avtc-pi-user-decisions",
     "npm_name": "avtc-pi-user-decisions",
     "description": "Captures user decisions and re-injects them into the system prompt after compaction and into subagents, so the agent never forgets a decision you made.",
@@ -13,14 +12,15 @@
       "pi-package",
       "pi-extension"
     ],
-    "version": "1.1.1",
-    "published_at": "2026-11-01T09:34:26.257Z",
-    "npm_downloads_monthly": 531,
-    "npm_downloads_weekly": 45,
-    "npm_score_final": 18.11939,
+    "version": "1.1.2",
+    "published_at": "2026-11-27T00:43:32.729Z",
+    "npm_downloads_monthly": 550,
+    "npm_downloads_weekly": 68,
+    "npm_score_final": 18.056572,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

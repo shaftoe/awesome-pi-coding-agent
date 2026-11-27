@@ -9,7 +9,7 @@
     "repo_full_name": "smixs/pi-durable-telegram",
     "description": "Always-on durable pi agent on your server that you talk to in Telegram. Survives crashes and restarts, keeps history in SQLite. pi-durable Telegram gateway.",
     "stars": 56,
-    "forks": 6,
+    "forks": 7,
     "open_issues": 4,
     "topics": [
       "ai-agent",

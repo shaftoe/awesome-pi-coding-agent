@@ -5,7 +5,6 @@
   "source": "npm-search",
   "description": "Shared memory for company AI agents. Connect Codex, Claude Code, or Pi to Bunshin.",
   "metadata": {
-    "pi_declares_extension": true,
     "github_url": "https://github.com/yiheinchai/bunshin",
     "npm_name": "@bunshin-cc/bunshin",
     "description": "Shared memory for company AI agents. Connect Codex, Claude Code, or Pi to Bunshin.",
@@ -16,14 +15,15 @@
       "memory",
       "knowledge"
     ],
-    "version": "0.14.2",
-    "published_at": "2026-11-19T09:03:25.699Z",
-    "npm_downloads_monthly": 2763,
-    "npm_downloads_weekly": 699,
-    "npm_score_final": 24.053967,
+    "version": "0.15.0",
+    "published_at": "2026-11-26T07:47:37.136Z",
+    "npm_downloads_monthly": 2805,
+    "npm_downloads_weekly": 330,
+    "npm_score_final": 23.690825,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"
