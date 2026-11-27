@@ -1,0 +1,25 @@
+{
+  "id": "@srobroek/pi-autopilot",
+  "name": "@srobroek/pi-autopilot",
+  "url": "https://www.npmjs.com/package/@srobroek/pi-autopilot",
+  "source": "npm-search",
+  "description": "Unattended runs: /autopilot arms a no-questions session with a journal, a 4-minute tick and stop conditions.",
+  "metadata": {
+    "github_url": "https://github.com/srobroek/harness-plugins",
+    "npm_name": "@srobroek/pi-autopilot",
+    "description": "Unattended runs: /autopilot arms a no-questions session with a journal, a 4-minute tick and stop conditions.",
+    "keywords": [
+      "pi-package"
+    ],
+    "version": "1.4.3",
+    "published_at": "2026-11-26T05:35:08.924Z",
+    "npm_downloads_monthly": 359,
+    "npm_downloads_weekly": 359,
+    "npm_score_final": 16.692242,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

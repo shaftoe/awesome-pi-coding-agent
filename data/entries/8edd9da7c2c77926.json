@@ -3,11 +3,11 @@
   "name": "What Is the Pi Coding Agent? How It Works and How to Use It",
   "url": "https://www.systemdesign.academy/explained/pi-coding-agent",
   "source": "brave-web-search",
-  "description": "Pi is an open-source, MIT-licensed coding agent that runs in your terminal. Its four default tools, session trees, MCP, security, and how to start.",
+  "description": "Pi is an open-source coding agent that runs in your terminal. It gives a model four tools by default, read, bash, edit and write, saves every session as a tree you can branch, and leaves out features like sub-agents and plan mode on purpose ...",
   "metadata": {
     "title": "What Is the Pi Coding Agent? How It Works and How to Use It",
     "name": "What Is the Pi Coding Agent? How It Works and How to Use It",
-    "description": "Pi is an open-source, MIT-licensed coding agent that runs in your terminal. Its four default tools, session trees, MCP, security, and how to start.",
+    "description": "Pi is an open-source coding agent that runs in your terminal. It gives a model four tools by default, read, bash, edit and write, saves every session as a tree you can branch, and leaves out features like sub-agents and plan mode on purpose ...",
     "published_at": "2026-11-09T03:15:00",
     "source_site": "Systemdesign",
     "source_url": "https://www.systemdesign.academy/explained/pi-coding-agent",

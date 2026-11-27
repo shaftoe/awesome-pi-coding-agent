@@ -1,0 +1,41 @@
+{
+  "id": "@mjasnikovs/pi-nop",
+  "name": "@mjasnikovs/pi-nop",
+  "url": "https://www.npmjs.com/package/@mjasnikovs/pi-nop",
+  "source": "npm-search",
+  "description": "Read-only subagents for pi: repo search, web fetch, npm package docs, web search, and a /plan panel.",
+  "metadata": {
+    "github_url": "https://github.com/mjasnikovs/pi-nop",
+    "npm_name": "@mjasnikovs/pi-nop",
+    "description": "Read-only subagents for pi: repo search, web fetch, npm package docs, web search, and a /plan panel.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "pi.dev",
+      "coding-agent",
+      "ai-agent",
+      "agent",
+      "subagent",
+      "read-only",
+      "local-llm",
+      "llm",
+      "llama-server",
+      "web-search",
+      "web-fetch",
+      "npm-docs",
+      "planning"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-26T12:25:23.990Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

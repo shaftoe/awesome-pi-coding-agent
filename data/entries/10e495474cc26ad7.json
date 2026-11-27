@@ -8,7 +8,7 @@
     "github_url": "https://github.com/isWittHere/pi-web-desktop",
     "repo_full_name": "isWittHere/pi-web-desktop",
     "description": "Electron desktop app for the pi coding agent with a richer UI",
-    "stars": 12,
+    "stars": 13,
     "forks": 1,
     "open_issues": 0,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-08-02T16:06:33Z",
     "pushed_at": "2026-10-09T04:49:48Z",
-    "updated_at": "2026-10-09T04:49:54Z",
+    "updated_at": "2026-11-26T08:38:09Z",
     "size": 14655,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

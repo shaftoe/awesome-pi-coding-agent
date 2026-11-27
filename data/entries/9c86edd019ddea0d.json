@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_store.boilerplate.com_pi-packs",
+  "name": "pi-packs - Boilerplate Store",
+  "url": "https://store.boilerplate.com/product/npm/pi-packs",
+  "source": "brave-web-search",
+  "description": "Umbrella Pi package: /install picker for a curated set of pi extensions (pi-qq, pi-chrome, pi-linter, pi-bar, pi-prompt-shelf, pi-caveman, pi-graphite, pi-gh-cli, pi-loadout, pi-cp).",
+  "metadata": {
+    "title": "pi-packs - Boilerplate Store",
+    "name": "pi-packs - Boilerplate Store",
+    "description": "Umbrella Pi package: /install picker for a curated set of pi extensions (pi-qq, pi-chrome, pi-linter, pi-bar, pi-prompt-shelf, pi-caveman, pi-graphite, pi-gh-cli, pi-loadout, pi-cp).",
+    "published_at": null,
+    "source_site": "Boilerplate Store",
+    "source_url": "https://store.boilerplate.com/product/npm/pi-packs",
+    "discovery_hint": "brave:pi-package"
+  },
+  "category": "article"
+}

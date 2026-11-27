@@ -1,0 +1,33 @@
+{
+  "id": "tencentcloud-agentobs-sdk-pi",
+  "name": "tencentcloud-agentobs-sdk-pi",
+  "url": "https://www.npmjs.com/package/tencentcloud-agentobs-sdk-pi",
+  "source": "npm-search",
+  "description": "Tencent Cloud observability extension for Pi coding agent (>=1.3.0) — GenAI traces (entry/agent/step/chat/tool) uploaded directly to CLS or via OTLP/HTTP",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "tencentcloud-agentobs-sdk-pi",
+    "description": "Tencent Cloud observability extension for Pi coding agent (>=1.3.0) — GenAI traces (entry/agent/step/chat/tool) uploaded directly to CLS or via OTLP/HTTP",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "genai",
+      "observability",
+      "tencentcloud",
+      "cls",
+      "opentelemetry",
+      "otlp"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-26T12:44:28.157Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}
