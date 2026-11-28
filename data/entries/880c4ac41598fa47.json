@@ -1,0 +1,29 @@
+{
+  "id": "pi-ask-question-lite",
+  "name": "pi-ask-question-lite",
+  "url": "https://www.npmjs.com/package/pi-ask-question-lite",
+  "source": "npm-search",
+  "description": "Pi ask extension: one structured question dialog, one Esc to abort.",
+  "metadata": {
+    "github_url": "https://github.com/setwhite/pi-extensions",
+    "npm_name": "pi-ask-question-lite",
+    "description": "Pi ask extension: one structured question dialog, one Esc to abort.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "ask",
+      "question",
+      "prompt"
+    ],
+    "version": "0.1.6",
+    "published_at": "2026-11-27T16:41:33.459Z",
+    "npm_downloads_monthly": 706,
+    "npm_downloads_weekly": 706,
+    "npm_score_final": 18.987507,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

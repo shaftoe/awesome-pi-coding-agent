@@ -10,7 +10,7 @@
     "description": "A sleek GUI for Pi Agent 🐷",
     "stars": 7,
     "forks": 1,
-    "open_issues": 0,
+    "open_issues": 9,
     "topics": [
       "agent",
       "ai",
@@ -22,9 +22,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-05-11T09:37:54Z",
-    "pushed_at": "2026-11-23T09:39:33Z",
+    "pushed_at": "2026-11-27T14:59:00Z",
     "updated_at": "2026-11-17T09:52:53Z",
-    "size": 30572,
+    "size": 32489,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

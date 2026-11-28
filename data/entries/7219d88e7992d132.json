@@ -1,0 +1,38 @@
+{
+  "id": "genged-runfree",
+  "name": "genged-runfree",
+  "url": "https://github.com/genged/runfree",
+  "source": "github-search",
+  "description": "Sandbox for Claude Code, Codex, and Pi: run AI coding agents with permission prompts off, in Docker, with an egress allowlist and service tokens the agent never holds.",
+  "metadata": {
+    "github_url": "https://github.com/genged/runfree",
+    "repo_full_name": "genged/runfree",
+    "description": "Sandbox for Claude Code, Codex, and Pi: run AI coding agents with permission prompts off, in Docker, with an egress allowlist and service tokens the agent never holds.",
+    "stars": 4,
+    "forks": 1,
+    "open_issues": 23,
+    "topics": [
+      "ai-agents",
+      "ai-security",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "devcontainer",
+      "docker",
+      "egress-proxy",
+      "llm-security",
+      "prompt-injection",
+      "sandbox",
+      "secrets-management"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-09-27T14:10:32Z",
+    "pushed_at": "2026-11-27T13:57:00Z",
+    "updated_at": "2026-11-27T13:56:24Z",
+    "size": 6940,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

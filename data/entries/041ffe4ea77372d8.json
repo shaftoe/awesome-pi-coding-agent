@@ -8,7 +8,7 @@
     "github_url": "https://github.com/dimitritholen/pi-promptimize",
     "repo_full_name": "dimitritholen/pi-promptimize",
     "description": "/promptimize for the pi coding agent",
-    "stars": 13,
+    "stars": 14,
     "forks": 2,
     "open_issues": 2,
     "topics": [],
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-11-06T21:31:26Z",
     "pushed_at": "2026-11-15T13:28:29Z",
-    "updated_at": "2026-11-20T12:04:11Z",
+    "updated_at": "2026-11-27T19:45:01Z",
     "size": 35,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"

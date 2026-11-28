@@ -1,0 +1,33 @@
+{
+  "id": "itama8-divya-drushti-dvdst",
+  "name": "itama8-divya-drushti-dvdst",
+  "url": "https://github.com/itama8/divya-drushti-dvdst",
+  "source": "github-search",
+  "description": "Let your coding agent investigate its history. Experimental, local session analysis for Pi, Claude Code, and Codex.",
+  "metadata": {
+    "github_url": "https://github.com/itama8/divya-drushti-dvdst",
+    "repo_full_name": "itama8/divya-drushti-dvdst",
+    "description": "Let your coding agent investigate its history. Experimental, local session analysis for Pi, Claude Code, and Codex.",
+    "stars": 5,
+    "forks": 0,
+    "open_issues": 0,
+    "topics": [
+      "agent-observability",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "pi-coding-agent",
+      "session-analysis"
+    ],
+    "language": "TypeScript",
+    "archived": false,
+    "created_at": "2026-08-06T13:11:08Z",
+    "pushed_at": "2026-11-27T09:27:00Z",
+    "updated_at": "2026-11-27T17:33:19Z",
+    "size": 705,
+    "license": "MIT",
+    "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
+  },
+  "category": "misc"
+}

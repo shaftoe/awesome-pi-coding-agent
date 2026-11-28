@@ -1,0 +1,30 @@
+{
+  "id": "pi-cache-keeper",
+  "name": "pi-cache-keeper",
+  "url": "https://www.npmjs.com/package/pi-cache-keeper",
+  "source": "npm-search",
+  "description": "Keeps pi's prompt cache paying off: compaction from the warm cache, a model you pick when the cache can't be used, compacting when the context is full, keeping the cache warm while idle, model windows and cache lifetimes from providers.dev. Based on pi-ca",
+  "metadata": {
+    "github_url": "https://github.com/ngvoicu/pi-cache-keeper",
+    "npm_name": "pi-cache-keeper",
+    "description": "Keeps pi's prompt cache paying off: compaction from the warm cache, a model you pick when the cache can't be used, compacting when the context is full, keeping the cache warm while idle, model windows and cache lifetimes from providers.dev. Based on pi-ca",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi",
+      "coding-agent",
+      "compaction",
+      "prompt-cache"
+    ],
+    "version": "0.10.8",
+    "published_at": "2026-11-27T12:15:58.840Z",
+    "npm_downloads_monthly": 1131,
+    "npm_downloads_weekly": 1131,
+    "npm_score_final": 20.135338,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

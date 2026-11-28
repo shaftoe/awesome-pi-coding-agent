@@ -10,7 +10,7 @@
     "description": "Run a structured SDLC of autonomous, specialist AI agents in your repo. Watch it run, ask it questions, and steer it in mid-flight with the included web app. Revisit past sessions, branch new ones, or dive into how it produced it's outcomes with SQLite traces and archived sessions files.",
     "stars": 1,
     "forks": 0,
-    "open_issues": 17,
+    "open_issues": 19,
     "topics": [
       "ai-agents",
       "ai-coding",
@@ -25,11 +25,11 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-08T01:34:50Z",
-    "pushed_at": "2026-11-26T21:20:24Z",
+    "pushed_at": "2026-11-27T20:05:01Z",
     "updated_at": "2026-11-26T23:47:23Z",
-    "size": 10169,
+    "size": 10240,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-package language:TypeScript"
   },
-  "category": "extension"
+  "category": "misc"
 }

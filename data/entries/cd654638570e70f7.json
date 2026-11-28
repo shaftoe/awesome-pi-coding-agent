@@ -3,11 +3,11 @@
   "name": "abdurmasood-pi-config",
   "url": "https://github.com/abdurmasood/pi-config",
   "source": "github-search",
-  "description": "My pi coding agent setup: extensions, keybindings, themes, skills. One-command install.",
+  "description": "Pi coding agent setup: extensions, keybindings, themes, skills. One-command install.",
   "metadata": {
     "github_url": "https://github.com/abdurmasood/pi-config",
     "repo_full_name": "abdurmasood/pi-config",
-    "description": "My pi coding agent setup: extensions, keybindings, themes, skills. One-command install.",
+    "description": "Pi coding agent setup: extensions, keybindings, themes, skills. One-command install.",
     "stars": 0,
     "forks": 0,
     "open_issues": 0,
@@ -16,7 +16,7 @@
     "archived": false,
     "created_at": "2026-11-26T23:46:47Z",
     "pushed_at": "2026-11-27T00:03:57Z",
-    "updated_at": "2026-11-26T23:46:57Z",
+    "updated_at": "2026-11-27T11:04:35Z",
     "size": 31,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-theme language:TypeScript"

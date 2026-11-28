@@ -1,0 +1,39 @@
+{
+  "id": "pi-cpa",
+  "name": "pi-cpa",
+  "url": "https://www.npmjs.com/package/pi-cpa",
+  "source": "npm-search",
+  "description": "pi provider for CLIProxyAPI (CPA) endpoints: one /cpa panel to enter the key, pick the models that key can use, and keep the lineup in sync",
+  "metadata": {
+    "github_url": "https://github.com/kslamph/pi-cpa",
+    "npm_name": "pi-cpa",
+    "description": "pi provider for CLIProxyAPI (CPA) endpoints: one /cpa panel to enter the key, pick the models that key can use, and keep the lineup in sync",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "pi-coding-agent",
+      "cpa",
+      "cliproxyapi",
+      "provider",
+      "openai",
+      "openai-completions",
+      "openai-responses",
+      "anthropic",
+      "anthropic-messages",
+      "llm",
+      "ai",
+      "coding-agent"
+    ],
+    "version": "0.2.1",
+    "published_at": "2026-11-27T17:54:40.486Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

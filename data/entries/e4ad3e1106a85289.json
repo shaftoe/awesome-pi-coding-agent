@@ -1,0 +1,31 @@
+{
+  "id": "pi-loop-core",
+  "name": "pi-loop-core",
+  "url": "https://www.npmjs.com/package/pi-loop-core",
+  "source": "npm-search",
+  "description": "Agent-owned continuation for the Pi coding agent: a grow_loop tool with no required timers and no required magic strings, plus an on/off switch and a 'you forgot to call it' reminder.",
+  "metadata": {
+    "github_url": "https://github.com/xiaquwan1001/pi-loop-core",
+    "npm_name": "pi-loop-core",
+    "description": "Agent-owned continuation for the Pi coding agent: a grow_loop tool with no required timers and no required magic strings, plus an on/off switch and a 'you forgot to call it' reminder.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "loop",
+      "grow-loop",
+      "agent-loop",
+      "autonomous"
+    ],
+    "version": "0.1.5",
+    "published_at": "2026-11-28T02:20:53.987Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

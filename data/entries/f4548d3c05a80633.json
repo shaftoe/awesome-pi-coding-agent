@@ -8,8 +8,8 @@
     "github_url": "https://github.com/motionvideohq/motionvideo.xyz",
     "repo_full_name": "motionvideohq/motionvideo.xyz",
     "description": "A directory of AI-powered motion videos, prompts, and skills that teach coding agents motion design/graphics",
-    "stars": 164,
-    "forks": 16,
+    "stars": 171,
+    "forks": 17,
     "open_issues": 4,
     "topics": [
       "agent-skills",
@@ -32,9 +32,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-09-28T04:59:28Z",
-    "pushed_at": "2026-11-26T13:06:29Z",
-    "updated_at": "2026-11-27T04:13:35Z",
-    "size": 34437,
+    "pushed_at": "2026-11-27T09:05:48Z",
+    "updated_at": "2026-11-27T20:40:16Z",
+    "size": 34487,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-coding-agent language:TypeScript"
   },
