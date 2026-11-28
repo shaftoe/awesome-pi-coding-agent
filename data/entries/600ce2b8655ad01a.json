@@ -1,0 +1,30 @@
+{
+  "id": "pi-img-visualizer",
+  "name": "pi-img-visualizer",
+  "url": "https://www.npmjs.com/package/pi-img-visualizer",
+  "source": "npm-search",
+  "description": "Hover an image path or [Image#N] chip in the pi transcript to see an inline popup preview",
+  "metadata": {
+    "github_url": "https://github.com/Manuhhhh/pi-img-visualizer",
+    "npm_name": "pi-img-visualizer",
+    "description": "Hover an image path or [Image#N] chip in the pi transcript to see an inline popup preview",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "pi-coding-agent",
+      "image",
+      "preview",
+      "tui"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-27T21:52:40.999Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

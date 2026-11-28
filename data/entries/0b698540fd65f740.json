@@ -1,0 +1,27 @@
+{
+  "id": "@firespoon/pi-tier",
+  "name": "@firespoon/pi-tier",
+  "url": "https://www.npmjs.com/package/@firespoon/pi-tier",
+  "source": "npm-search",
+  "description": "Set the service tier and inspect the upstream response in Pi.",
+  "metadata": {
+    "github_url": null,
+    "npm_name": "@firespoon/pi-tier",
+    "description": "Set the service tier and inspect the upstream response in Pi.",
+    "keywords": [
+      "pi-package",
+      "openai",
+      "service-tier"
+    ],
+    "version": "0.1.1",
+    "published_at": "2026-11-21T02:19:49.994Z",
+    "npm_downloads_monthly": 493,
+    "npm_downloads_weekly": 493,
+    "npm_score_final": 17.829723,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

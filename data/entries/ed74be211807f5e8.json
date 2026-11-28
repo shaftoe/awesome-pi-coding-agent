@@ -1,0 +1,31 @@
+{
+  "id": "@crisboarna/pi-account-guard",
+  "name": "@crisboarna/pi-account-guard",
+  "url": "https://www.npmjs.com/package/@crisboarna/pi-account-guard",
+  "source": "npm-search",
+  "description": "Stops a pi session from sending a user turn to a model account that does not belong to the zone of the directory the session works in.",
+  "metadata": {
+    "github_url": "https://github.com/crisboarna/pi-extensions",
+    "npm_name": "@crisboarna/pi-account-guard",
+    "description": "Stops a pi session from sending a user turn to a model account that does not belong to the zone of the directory the session works in.",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "account-guard",
+      "work",
+      "personal",
+      "subscription",
+      "accounts"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-13T15:24:14.206Z",
+    "npm_downloads_monthly": 270,
+    "npm_downloads_weekly": 28,
+    "npm_score_final": 16.189121,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

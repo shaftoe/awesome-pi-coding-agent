@@ -1,0 +1,29 @@
+{
+  "id": "@manan_joshi/pi-session-plan",
+  "name": "@manan_joshi/pi-session-plan",
+  "url": "https://www.npmjs.com/package/@manan_joshi/pi-session-plan",
+  "source": "npm-search",
+  "description": "A session-scoped semantic deliverable plan for Pi, with a live widget and /todos view.",
+  "metadata": {
+    "github_url": "https://github.com/manan30/pi-session-plan",
+    "npm_name": "@manan_joshi/pi-session-plan",
+    "description": "A session-scoped semantic deliverable plan for Pi, with a live widget and /todos view.",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "session-plan",
+      "todos",
+      "deliverables"
+    ],
+    "version": "0.1.0",
+    "published_at": "2026-11-21T02:57:13.507Z",
+    "npm_downloads_monthly": 366,
+    "npm_downloads_weekly": 366,
+    "npm_score_final": 16.563595,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

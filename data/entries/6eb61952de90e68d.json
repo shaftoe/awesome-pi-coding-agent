@@ -1,0 +1,27 @@
+{
+  "id": "@yefengr/steward",
+  "name": "@yefengr/steward",
+  "url": "https://www.npmjs.com/package/@yefengr/steward",
+  "source": "npm-search",
+  "description": "Task Steward macOS launcher and task extension",
+  "metadata": {
+    "github_url": "https://github.com/yefengr/task-steward",
+    "npm_name": "@yefengr/steward",
+    "description": "Task Steward macOS launcher and task extension",
+    "keywords": [
+      "pi-package",
+      "pi-extension",
+      "task-steward"
+    ],
+    "version": "0.4.1",
+    "published_at": "2026-11-27T15:37:48.024Z",
+    "npm_downloads_monthly": 906,
+    "npm_downloads_weekly": 906,
+    "npm_score_final": 19.881058,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

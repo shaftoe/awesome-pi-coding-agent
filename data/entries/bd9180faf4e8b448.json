@@ -1,0 +1,33 @@
+{
+  "id": "keel-agent",
+  "name": "keel-agent",
+  "url": "https://www.npmjs.com/package/keel-agent",
+  "source": "npm-search",
+  "description": "Just open your browser to get all your work done — browser cockpit for AI coding agents (chat, code, files, terminal, Git in one tab)",
+  "metadata": {
+    "github_url": "https://github.com/xing-shuyin/keel",
+    "npm_name": "keel-agent",
+    "description": "Just open your browser to get all your work done — browser cockpit for AI coding agents (chat, code, files, terminal, Git in one tab)",
+    "keywords": [
+      "pi",
+      "pi-package",
+      "coding-agent",
+      "ai",
+      "chat",
+      "web-ui",
+      "terminal",
+      "llm"
+    ],
+    "version": "0.126.0",
+    "published_at": "2026-11-28T02:38:03.986Z",
+    "npm_downloads_monthly": 335,
+    "npm_downloads_weekly": 335,
+    "npm_score_final": 16.28409,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "pi_declares_extension": true,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

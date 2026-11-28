@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_piwheels.org_pi-coding-agent",
+  "name": "piwheels - pi-coding-agent",
+  "url": "https://www.piwheels.org/project/pi-coding-agent/",
+  "source": "brave-web-search",
+  "description": "The piwheels project page for pi-coding-agent: A minimal, transparent AI coding agent — multi-provider (Claude, GPT, Groq, Gemini, GLM, Ollama), sandboxed, with a planner, sub-agents, skills, data analysis, and slide generation.",
+  "metadata": {
+    "title": "piwheels - pi-coding-agent",
+    "name": "piwheels - pi-coding-agent",
+    "description": "The piwheels project page for pi-coding-agent: A minimal, transparent AI coding agent — multi-provider (Claude, GPT, Groq, Gemini, GLM, Ollama), sandboxed, with a planner, sub-agents, skills, data analysis, and slide generation.",
+    "published_at": "2026-09-03T00:00:00",
+    "source_site": "piwheels",
+    "source_url": "https://www.piwheels.org/project/pi-coding-agent/",
+    "discovery_hint": "brave:pi-coding-agent"
+  },
+  "category": "article"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "pi-tui-polish",
+  "name": "pi-tui-polish",
+  "url": "https://www.npmjs.com/package/pi-tui-polish",
+  "source": "npm-search",
+  "description": "Rounded input box corners, a prompt gutter, a highlighted tool name, and path / TPS / model / context labels in the border or the footer of pi",
+  "metadata": {
+    "github_url": "https://github.com/heibaige123/pi-tui-polish",
+    "npm_name": "pi-tui-polish",
+    "description": "Rounded input box corners, a prompt gutter, a highlighted tool name, and path / TPS / model / context labels in the border or the footer of pi",
+    "keywords": [
+      "pi-package",
+      "pi",
+      "pi-extension",
+      "tui",
+      "editor",
+      "footer",
+      "border",
+      "theme",
+      "tps",
+      "context"
+    ],
+    "version": "0.6.0",
+    "published_at": "2026-11-20T10:05:41.653Z",
+    "npm_downloads_monthly": 672,
+    "npm_downloads_weekly": 250,
+    "npm_score_final": 18.485647,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-package"
+  },
+  "category": "extension"
+}

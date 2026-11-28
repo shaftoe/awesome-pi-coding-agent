@@ -5,6 +5,7 @@
   "source": "npm-search",
   "description": "Local voice dictation for Pi coding prompts. Press Alt+M, speak, review, send.",
   "metadata": {
+    "pi_declares_extension": true,
     "github_url": "https://github.com/senad-d/micme",
     "npm_name": "@senad-d/micme",
     "description": "Local voice dictation for Pi coding prompts. Press Alt+M, speak, review, send.",
@@ -32,11 +33,10 @@
     "published_at": "2026-11-26T07:36:56.106Z",
     "npm_downloads_monthly": 819,
     "npm_downloads_weekly": 668,
-    "npm_score_final": 19.43923,
+    "npm_score_final": 19.20529,
     "npm_score_popularity": 1,
     "npm_score_quality": 1,
     "npm_score_maintenance": 1,
-    "pi_declares_extension": true,
     "discovery_hint": "npm:keywords:pi-package"
   },
   "category": "extension"

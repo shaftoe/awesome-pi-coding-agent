@@ -1,0 +1,17 @@
+{
+  "id": "BRAVE_pi-desktop.app_download",
+  "name": "Download Pi Agent Desktop for macOS, Windows & Linux",
+  "url": "https://pi-desktop.app/en/download/",
+  "source": "brave-web-search",
+  "description": "Download Pi Agent Desktop for macOS (Apple Silicon or Intel), Windows x64, or Linux x64. The Pi Coding Agent runtime is included.",
+  "metadata": {
+    "title": "Download Pi Agent Desktop for macOS, Windows & Linux",
+    "name": "Download Pi Agent Desktop for macOS, Windows & Linux",
+    "description": "Download Pi Agent Desktop for macOS (Apple Silicon or Intel), Windows x64, or Linux x64. The Pi Coding Agent runtime is included.",
+    "published_at": null,
+    "source_site": "Pi-desktop",
+    "source_url": "https://pi-desktop.app/en/download/",
+    "discovery_hint": "brave:pi-agent"
+  },
+  "category": "article"
+}

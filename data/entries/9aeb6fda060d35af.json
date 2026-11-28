@@ -10,18 +10,20 @@
     "description": "A set of minimal extensions that make the Pi coding agent nicer to use",
     "stars": 123,
     "forks": 12,
-    "open_issues": 3,
+    "open_issues": 1,
     "topics": [
+      "pi",
       "pi-agent",
       "pi-coding-agent",
-      "pi-extension"
+      "pi-extension",
+      "pi-extensions"
     ],
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-10-20T16:05:59Z",
-    "pushed_at": "2026-11-23T16:19:48Z",
-    "updated_at": "2026-11-27T04:15:05Z",
-    "size": 40898,
+    "pushed_at": "2026-11-27T13:32:17Z",
+    "updated_at": "2026-11-27T13:47:55Z",
+    "size": 41503,
     "license": "MIT",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },

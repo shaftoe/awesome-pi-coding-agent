@@ -1,0 +1,27 @@
+{
+  "id": "@each1024/pi-model-handoff",
+  "name": "@each1024/pi-model-handoff",
+  "url": "https://www.npmjs.com/package/@each1024/pi-model-handoff",
+  "source": "npm-search",
+  "description": "Switch models mid-session in Pi with a bounded context handoff and on-demand access to conversation history.",
+  "metadata": {
+    "github_url": "https://github.com/eachann1024/pi-model-handoff",
+    "npm_name": "@each1024/pi-model-handoff",
+    "description": "Switch models mid-session in Pi with a bounded context handoff and on-demand access to conversation history.",
+    "keywords": [
+      "pi-package",
+      "pi-coding-agent",
+      "pi-extension"
+    ],
+    "version": "1.1.2",
+    "published_at": "2026-11-27T09:52:16.225Z",
+    "npm_downloads_monthly": 0,
+    "npm_downloads_weekly": 0,
+    "npm_score_final": 0,
+    "npm_score_popularity": 1,
+    "npm_score_quality": 1,
+    "npm_score_maintenance": 1,
+    "discovery_hint": "npm:keywords:pi-coding-agent"
+  },
+  "category": "extension"
+}

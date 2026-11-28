@@ -10,7 +10,7 @@
     "description": "A durable process per agent, with memory that survives restarts",
     "stars": 1660,
     "forks": 143,
-    "open_issues": 100,
+    "open_issues": 101,
     "topics": [
       "actor-model",
       "agent-sdk",
@@ -29,9 +29,9 @@
     "language": "TypeScript",
     "archived": false,
     "created_at": "2026-01-25T10:03:02Z",
-    "pushed_at": "2026-11-20T13:39:36Z",
+    "pushed_at": "2026-11-27T23:45:13Z",
     "updated_at": "2026-11-27T00:25:49Z",
-    "size": 68873,
+    "size": 68747,
     "license": "Apache-2.0",
     "discovery_hint": "github-repo:pi-agent language:TypeScript"
   },
